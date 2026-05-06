@@ -1,0 +1,75 @@
+{
+  "id": "f0c384a8fc96",
+  "slug": "벽천장-기어다니며-용접-척척엔비디아도-찍은-조선소-k로봇-375508",
+  "channelId": "FX",
+  "category": "fx",
+  "publishedAt": "2026-05-06T14:24:59.880Z",
+  "updatedAt": "2026-05-06T14:24:59.880Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/business/12038161",
+  "canonicalUrl": "https://www.mk.co.kr/news/business/12038161",
+  "titleFingerprint": "043de9db23a32e363843039088ef65f1b5c7de5a",
+  "dedupKeys": [
+    "f0c384a8fc9688cb9e447b323408dcd145a92b0e",
+    "043de9db23a32e363843039088ef65f1b5c7de5a",
+    "2a8e3332204a9eadefc5422b5d5ed1072774e524"
+  ],
+  "imageUrl": "/images/articles/f0c384a8fc96.jpg",
+  "i18n": {
+    "ko": {
+      "title": "조선소 K로봇, 벽·천장 오르며 용접·수리…엔비디아 후원 받고 대만 시연",
+      "excerpt": "김준하 디든로보틱스 대표는 K조선을 위한 특화로봇을 개발 중이며, 네 발 자석으로 벽면과 천장을 오르는 로봇을 다음 달 대만에서 시연한다.",
+      "body": "김준하 디든로보틱스 대표는 K조선을 빛낼 특화로봇을 만들겠다는 목표로 조선소 작업에 맞춘 로봇을 개발하고 있다. 이 로봇은 네 발에 자석을 달아 선박의 벽면과 천장을 기어오르며 용접과 수리 작업을 수행하는 방식이 핵심이다. 디든로보틱스는 엔비디아 후원 기업으로 소개됐으며, 다음 달 대만에서 해당 로봇 시연에 나설 예정이다. 네 발 자석 구조는 조선소처럼 수직·상부 작업이 필요한 현장에서 활용 가능성을 보여준다. 향후 K조선 현장에 특화된 로봇 기술이 작업 방식 변화와 자동화 논의로 이어질지 주목된다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "K-shipyard robot climbs walls and ceilings for welding and repair, backed by Nvidia",
+      "excerpt": "Diden Robotics CEO Kim Jun-ha is developing a specialized robot for K-shipbuilding, using magnets on four feet to climb walls and ceilings, with a Taiwan demo set for next month.",
+      "body": "Diden Robotics CEO Kim Jun-ha is developing a specialized robot designed for shipyard work, with the goal of supporting K-shipbuilding. The robot’s key feature is magnets attached to its four feet, allowing it to crawl across vessel walls and ceilings while carrying out welding and repair tasks. Diden Robotics has been introduced as a company backed by Nvidia and is scheduled to demonstrate the robot in Taiwan next month. The four-magnet-foot structure points to possible use in shipyards where vertical and overhead work is required. Attention is now on whether robot technology tailored to K-shipbuilding sites can lead to changes in work methods and further automation discussions. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "造船所向けKロボット、壁・天井を移動し溶接と修理…Nvidia支援で台湾実演へ",
+      "excerpt": "ディドゥンロボティクスのキム・ジュンハ代表は、K造船向けの特化ロボットを開発中で、4本脚の磁石で壁面や天井を移動するロボットを来月台湾で実演する。",
+      "body": "ディドゥンロボティクスのキム・ジュンハ代表は、K造船を支える特化ロボットを作るという目標のもと、造船所作業に合わせたロボットを開発している。このロボットの核となる特徴は、4本の脚に磁石を備え、船舶の壁面や天井をはい上がりながら溶接や修理作業を行う点だ。ディドゥンロボティクスはNvidiaの支援企業として紹介されており、来月台湾で同ロボットの実演に臨む予定だ。4本脚の磁石構造は、造船所のように垂直面や上部での作業が必要な現場での活用可能性を示す。今後、K造船の現場に特化したロボット技術が作業方式の変化や自動化議論につながるか注目される。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "船厂K机器人可攀爬墙壁和天花板焊接维修，获英伟达支持将赴台演示",
+      "excerpt": "Diden Robotics代表金俊河正开发面向K造船的专用机器人，该机器人凭借四足磁铁攀爬墙面和天花板，并将于下月在台湾演示。",
+      "body": "Diden Robotics代表金俊河正以打造点亮K造船的专用机器人为目标，开发适用于船厂作业的机器人。该机器人的核心特点是在四只脚上安装磁铁，可沿船舶墙面和天花板爬行，并执行焊接和维修作业。Diden Robotics被介绍为获得英伟达支持的企业，计划下月在台湾进行该机器人演示。四足磁铁结构显示出其在船厂等需要垂直和上方作业的现场具备应用可能性。未来，面向K造船现场的专用机器人技术是否会带动作业方式变化和自动化讨论，仍受到关注。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Robot K para astilleros trepa paredes y techos para soldar y reparar con apoyo de Nvidia",
+      "excerpt": "Kim Jun-ha, CEO de Diden Robotics, desarrolla un robot especializado para la construcción naval coreana que sube paredes y techos con imanes en sus cuatro patas y se mostrará en Taiwán el próximo mes.",
+      "body": "Kim Jun-ha, CEO de Diden Robotics, está desarrollando un robot adaptado al trabajo en astilleros con el objetivo de crear tecnología especializada para impulsar la construcción naval coreana. La característica central del robot son los imanes instalados en sus cuatro patas, que le permiten desplazarse por paredes y techos de embarcaciones mientras realiza tareas de soldadura y reparación. Diden Robotics fue presentada como una empresa respaldada por Nvidia y tiene previsto demostrar el robot en Taiwán el próximo mes. Su estructura de cuatro patas magnéticas muestra posibilidades de uso en entornos como astilleros, donde se requieren trabajos verticales y elevados. La atención se centra ahora en si esta tecnología robótica especializada puede abrir cambios en los métodos de trabajo y debates sobre automatización. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Robô K para estaleiros sobe paredes e tetos para soldar e reparar com apoio da Nvidia",
+      "excerpt": "Kim Jun-ha, CEO da Diden Robotics, desenvolve um robô especializado para a construção naval coreana que usa ímãs nas quatro patas para subir paredes e tetos, com demonstração em Taiwan no próximo mês.",
+      "body": "Kim Jun-ha, CEO da Diden Robotics, desenvolve um robô voltado ao trabalho em estaleiros com o objetivo de criar uma solução especializada para impulsionar a construção naval coreana. O principal recurso do robô são ímãs instalados em suas quatro patas, permitindo que ele se mova por paredes e tetos de embarcações enquanto realiza soldagem e reparos. A Diden Robotics foi apresentada como uma empresa apoiada pela Nvidia e deve demonstrar o robô em Taiwan no próximo mês. A estrutura de quatro patas magnéticas indica potencial de uso em locais como estaleiros, onde há demanda por trabalho vertical e em áreas superiores. A atenção agora recai sobre se essa tecnologia robótica especializada poderá levar a mudanças nos métodos de trabalho e a discussões sobre automação. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "K-Roboter für Werften klettert an Wänden und Decken zum Schweißen und Reparieren",
+      "excerpt": "Diden-Robotics-CEO Kim Jun-ha entwickelt einen Spezialroboter für den koreanischen Schiffbau, der mit Magneten an vier Füßen Wände und Decken erklimmt und nächsten Monat in Taiwan vorgeführt wird.",
+      "body": "Kim Jun-ha, CEO von Diden Robotics, entwickelt einen auf Werftarbeiten zugeschnittenen Roboter mit dem Ziel, eine Speziallösung für den koreanischen Schiffbau zu schaffen. Zentrales Merkmal des Roboters sind Magnete an seinen vier Füßen, mit denen er an Schiffswänden und Decken entlangkriechen und dabei Schweiß- sowie Reparaturarbeiten ausführen kann. Diden Robotics wurde als von Nvidia unterstütztes Unternehmen vorgestellt und plant, den Roboter im kommenden Monat in Taiwan zu demonstrieren. Die Vier-Fuß-Magnetstruktur zeigt Einsatzmöglichkeiten in Werften, wo vertikale und Überkopf-Arbeiten erforderlich sind. Beobachtet wird nun, ob diese auf K-Schiffbau spezialisierte Robotertechnik Veränderungen der Arbeitsweise und weitere Automatisierungsdebatten anstoßen kann. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Robot K de chantier naval grimpe murs et plafonds pour souder et réparer, avec Nvidia",
+      "excerpt": "Kim Jun-ha, PDG de Diden Robotics, développe un robot spécialisé pour la construction navale coréenne, capable de monter aux murs et plafonds grâce à quatre pieds aimantés, avant une démonstration à Taïwan le mois prochain.",
+      "body": "Kim Jun-ha, PDG de Diden Robotics, développe un robot adapté aux travaux de chantier naval avec l’objectif de créer une solution spécialisée pour soutenir la construction navale coréenne. La principale caractéristique du robot réside dans les aimants fixés à ses quatre pieds, qui lui permettent de se déplacer sur les parois et plafonds des navires tout en réalisant des opérations de soudage et de réparation. Diden Robotics a été présentée comme une entreprise soutenue par Nvidia et prévoit de faire une démonstration du robot à Taïwan le mois prochain. Cette structure à quatre pieds aimantés montre un potentiel d’utilisation dans les chantiers navals, où les travaux verticaux et en hauteur sont nécessaires. Reste à voir si cette technologie robotique spécialisée pourra entraîner des changements de méthodes de travail et nourrir les discussions sur l’automatisation. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "روبوت كوري لأحواض السفن يتسلق الجدران والأسقف للحام والإصلاح بدعم إنفيديا",
+      "excerpt": "يطور كيم جون ها، رئيس ديدن روبوتيكس، روبوتا متخصصا لصناعة السفن الكورية يستخدم مغناطيسا في أقدامه الأربع لتسلق الجدران والأسقف، مع عرض مقرر في تايوان الشهر المقبل.",
+      "body": "يطور كيم جون ها، رئيس شركة ديدن روبوتيكس، روبوتا مخصصا لأعمال أحواض السفن بهدف صنع تقنية متخصصة تدعم صناعة السفن الكورية. وتتمثل السمة الأساسية للروبوت في وجود مغناطيس في أقدامه الأربع، ما يتيح له الزحف على جدران السفن وأسقفها أثناء تنفيذ أعمال اللحام والإصلاح. وقد قُدمت ديدن روبوتيكس كشركة مدعومة من إنفيديا، ومن المقرر أن تعرض الروبوت في تايوان الشهر المقبل. وتظهر بنية الأقدام الأربع المغناطيسية إمكانية استخدامه في مواقع مثل أحواض السفن، حيث تكون الأعمال الرأسية والعلوية مطلوبة. وينصب الاهتمام الآن على ما إذا كانت هذه التقنية الروبوتية المتخصصة لصناعة السفن الكورية ستقود إلى تغييرات في أساليب العمل ونقاشات أوسع حول الأتمتة. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "शिपयार्ड K रोबोट दीवार और छत पर चढ़कर वेल्डिंग व मरम्मत करेगा, Nvidia का समर्थन",
+      "excerpt": "डिडेन रोबोटिक्स के सीईओ किम जून-हा K-शिपबिल्डिंग के लिए विशेष रोबोट विकसित कर रहे हैं, जो चार चुंबकीय पैरों से दीवार और छत पर चढ़ता है और अगले महीने ताइवान में दिखाया जाएगा।",
+      "body": "डिडेन रोबोटिक्स के सीईओ किम जून-हा K-शिपबिल्डिंग को चमकाने वाले विशेष रोबोट बनाने के लक्ष्य के साथ शिपयार्ड कार्यों के लिए अनुकूल रोबोट विकसित कर रहे हैं। इस रोबोट की मुख्य विशेषता उसके चार पैरों में लगे चुंबक हैं, जिनकी मदद से वह जहाज की दीवारों और छतों पर रेंगते हुए वेल्डिंग और मरम्मत का काम कर सकता है। डिडेन रोबोटिक्स को Nvidia समर्थित कंपनी के रूप में पेश किया गया है और वह अगले महीने ताइवान में इस रोबोट का प्रदर्शन करने वाली है। चार चुंबकीय पैरों की संरचना शिपयार्ड जैसे उन स्थलों में उपयोग की संभावना दिखाती है जहां ऊर्ध्वाधर और ऊपरी हिस्सों में काम की जरूरत होती है। अब ध्यान इस बात पर है कि K-शिपबिल्डिंग साइटों के लिए विशेष रोबोट तकनीक कामकाज के तरीकों में बदलाव और स्वचालन पर चर्चा को आगे बढ़ा सकती है या नहीं। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Robot K galangan kapal panjat dinding dan plafon untuk las serta perbaikan, didukung Nvidia",
+      "excerpt": "CEO Diden Robotics Kim Jun-ha mengembangkan robot khusus untuk K-shipbuilding yang memakai magnet di empat kaki untuk memanjat dinding dan plafon, dengan demo di Taiwan bulan depan.",
+      "body": "CEO Diden Robotics Kim Jun-ha sedang mengembangkan robot yang disesuaikan untuk pekerjaan galangan kapal dengan tujuan membuat robot khusus yang mendukung K-shipbuilding. Fitur utama robot ini adalah magnet pada empat kakinya, yang memungkinkannya merayap di dinding dan plafon kapal sambil melakukan pekerjaan pengelasan dan perbaikan. Diden Robotics diperkenalkan sebagai perusahaan yang didukung Nvidia dan dijadwalkan mendemonstrasikan robot tersebut di Taiwan bulan depan. Struktur empat kaki bermagnet menunjukkan peluang pemakaian di lingkungan seperti galangan kapal, tempat pekerjaan vertikal dan bagian atas diperlukan. Perhatian kini tertuju pada apakah teknologi robot khusus untuk lokasi K-shipbuilding ini dapat memicu perubahan cara kerja dan pembahasan otomatisasi. Sumber: mk.co.kr"
+    }
+  }
+}
