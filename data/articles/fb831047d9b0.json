@@ -1,0 +1,75 @@
+{
+  "id": "fb831047d9b0",
+  "slug": "접속자-폭증한-증권사-앱-장-초반-한때-먹통-270559",
+  "channelId": "FX",
+  "category": "fx",
+  "publishedAt": "2026-05-06T23:20:07.643Z",
+  "updatedAt": "2026-05-06T23:20:07.643Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026050696891",
+  "canonicalUrl": "https://www.hankyung.com/article/2026050696891",
+  "titleFingerprint": "e2ef7c724bca90ceb8a93a3e4b219e06d2251d01",
+  "dedupKeys": [
+    "fb831047d9b0beed3d12d5c35d2399f8b4b97b47",
+    "e2ef7c724bca90ceb8a93a3e4b219e06d2251d01",
+    "c06252c10d9b0e28a8162420a56303fb03a2a407"
+  ],
+  "imageUrl": "/images/articles/fb831047d9b0.png",
+  "i18n": {
+    "ko": {
+      "title": "증권사 앱 접속 폭증에 장 초반 오류, 계좌 급증 속 한국투자증권 MTS 한때 먹통",
+      "excerpt": "2026년 5월 6일 장 초반 코스피 급등으로 투자자가 몰리며 한국투자증권 MTS에서 일부 계좌 잔액 조회 오류가 발생했고, 활동계좌와 거래대금 증가세도 확인됐다.",
+      "body": "2026년 5월 6일 국내 증시 장 초반 투자자가 몰리면서 한국투자증권 모바일트레이딩시스템(MTS)에서 일부 이용자가 계좌 잔액을 조회하지 못하는 오류가 발생했다. 금융투자업계에 따르면 장애는 오전 9시4분부터 11분까지 이어졌고, 개장 직후 장이 급격히 오르며 과부하가 걸린 것으로 풀이됐다. 한국투자증권은 매매 주문은 정상 처리됐고 관련 조치를 완료했다고 밝혔다. 같은 날 금융투자협회 기준 5월 4일 주식거래 활동계좌는 1억522만917개로 지난해 말보다 693만917개 늘었다. 4월 키움증권 월간 거래대금도 1492조원으로 사상 최대를 다시 기록했다. 출처: hankyung.com."
+    },
+    "en": {
+      "title": "Broker App Traffic Surge Causes Early-Session MTS Glitch at Korea Investment & Securities",
+      "excerpt": "On May 6, 2026, a rush of investors during a sharp early Kospi rise caused some Korea Investment & Securities MTS users to lose access to account balance views.",
+      "body": "On May 6, 2026, heavy investor traffic early in the South Korean stock session caused a temporary issue on Korea Investment & Securities’ mobile trading system, or MTS, preventing some users from viewing account balances. According to the financial investment industry, the error lasted from 9:04 a.m. to 9:11 a.m. and was attributed to overload after the market rose sharply just after the open. The brokerage said trading orders were processed normally and all related measures had been completed. The Korea Financial Investment Association said active stock trading accounts stood at 105,220,917 as of May 4, up 6,930,917 from the end of last year. Kiwoom Securities’ April monthly trading value also hit a record 1,492 trillion won. Source: hankyung.com."
+    },
+    "ja": {
+      "title": "証券アプリにアクセス集中、韓国投資証券MTSで寄り付き直後に一時障害",
+      "excerpt": "2026年5月6日、寄り付き直後のコスピ急騰で投資家のアクセスが集中し、韓国投資証券MTSの一部利用者で口座残高照会エラーが発生した。",
+      "body": "2026年5月6日、韓国株式市場の寄り付き直後に投資家のアクセスが集中し、韓国投資証券のモバイル取引システム（MTS）で一部利用者が口座残高を照会できない障害が発生した。金融投資業界によると、障害は午前9時4分から11分まで続き、取引開始直後に相場が急上昇したことで過負荷がかかったとみられる。韓国投資証券は、売買注文は正常に処理され、関連措置はすべて完了したと説明した。同日、金融投資協会によると5月4日時点の株式取引活動口座は1億522万917口座で、昨年末より693万917口座増えた。キウム証券の4月月間売買代金も1492兆ウォンと過去最高を更新した。出典: hankyung.com."
+    },
+    "zh": {
+      "title": "券商App访问量激增，韩国投资证券MTS开盘初一度出现故障",
+      "excerpt": "2026年5月6日，韩股开盘初Kospi快速上涨吸引投资者集中访问，韩国投资证券MTS部分用户一度无法查询账户余额。",
+      "body": "2026年5月6日，韩国股市开盘初投资者访问量集中，韩国投资证券移动交易系统（MTS）出现临时故障，部分用户无法查询账户余额。据金融投资业界消息，故障从上午9时04分持续至9时11分，原因被认为是开盘后行情快速上涨导致系统过载。韩国投资证券表示，交易委托正常处理，所有相关措施已经完成。同日，韩国金融投资协会数据显示，截至5月4日，股票交易活动账户为105,220,917个，较去年底增加6,930,917个。Kiwoom证券4月月度成交额也达到1492万亿韩元，再创历史新高。来源: hankyung.com."
+    },
+    "es": {
+      "title": "Fallo temporal en la app bursátil por tráfico masivo al inicio de la sesión en Corea",
+      "excerpt": "El 6 de mayo de 2026, la fuerte subida inicial del Kospi atrajo a inversores y causó errores de consulta de saldos para algunos usuarios del MTS de Korea Investment & Securities.",
+      "body": "El 6 de mayo de 2026, una concentración de inversores al inicio de la sesión bursátil surcoreana provocó una incidencia temporal en el sistema móvil de negociación, MTS, de Korea Investment & Securities, que impidió a algunos usuarios consultar el saldo de sus cuentas. Según el sector de inversión financiera, el error se produjo entre las 9:04 y las 9:11, y se atribuyó a una sobrecarga tras la rápida subida del mercado justo después de la apertura. La firma indicó que las órdenes de compraventa se procesaron con normalidad y que completó todas las medidas relacionadas. La asociación financiera informó que las cuentas activas de negociación sumaban 105.220.917 al 4 de mayo, 6.930.917 más que a fines del año pasado. Kiwoom Securities también registró en abril un volumen mensual récord de 1.492 billones de wones. Fuente: hankyung.com."
+    },
+    "pt": {
+      "title": "Alta demanda derruba consulta em app de corretora no início do pregão coreano",
+      "excerpt": "Em 6 de maio de 2026, a forte alta inicial do Kospi levou investidores ao MTS da Korea Investment & Securities, causando erro temporário na consulta de saldos.",
+      "body": "Em 6 de maio de 2026, o grande fluxo de investidores no início do pregão sul-coreano causou uma falha temporária no sistema móvel de negociação, MTS, da Korea Investment & Securities, impedindo alguns usuários de consultar o saldo de suas contas. Segundo o setor de investimento financeiro, o erro durou das 9h04 às 9h11 e foi atribuído a uma sobrecarga após a forte alta do mercado logo depois da abertura. A corretora afirmou que as ordens de compra e venda foram processadas normalmente e que todas as medidas relacionadas foram concluídas. A associação financeira informou que as contas ativas de negociação de ações somavam 105.220.917 em 4 de maio, alta de 6.930.917 ante o fim do ano passado. A Kiwoom Securities também registrou em abril volume mensal recorde de 1.492 trilhões de won. Fonte: hankyung.com."
+    },
+    "de": {
+      "title": "Broker-App wegen starkem Andrang zum Handelsstart kurzzeitig mit MTS-Störung",
+      "excerpt": "Am 6. Mai 2026 führte der starke frühe Kospi-Anstieg zu hohem Anlegerverkehr; bei Korea Investment & Securities konnten einige MTS-Nutzer Kontostände nicht abrufen.",
+      "body": "Am 6. Mai 2026 kam es zum Handelsstart am südkoreanischen Aktienmarkt wegen starken Anlegerandrangs zu einer vorübergehenden Störung im mobilen Handelssystem MTS von Korea Investment & Securities. Einige Nutzer konnten ihre Kontostände nicht abrufen. Nach Angaben der Finanzinvestmentbranche dauerte der Fehler von 9:04 bis 9:11 Uhr und wurde auf eine Überlastung zurückgeführt, nachdem der Markt direkt nach der Eröffnung stark gestiegen war. Das Brokerhaus teilte mit, Kauf- und Verkaufsaufträge seien normal verarbeitet worden und alle damit verbundenen Maßnahmen seien abgeschlossen. Laut Finanzinvestmentverband lagen die aktiven Aktienhandelskonten am 4. Mai bei 105.220.917, ein Plus von 6.930.917 gegenüber Ende vergangenen Jahres. Kiwoom Securities meldete für April zudem ein monatliches Rekordhandelsvolumen von 1.492 Billionen Won. Quelle: hankyung.com."
+    },
+    "fr": {
+      "title": "Afflux massif sur une appli de courtage, panne MTS temporaire à l’ouverture en Corée",
+      "excerpt": "Le 6 mai 2026, la forte hausse initiale du Kospi a attiré les investisseurs et provoqué une erreur de consultation des soldes pour certains utilisateurs du MTS de Korea Investment & Securities.",
+      "body": "Le 6 mai 2026, l’afflux d’investisseurs au début de la séance sud-coréenne a provoqué un incident temporaire sur le système mobile de trading, MTS, de Korea Investment & Securities, empêchant certains utilisateurs de consulter le solde de leur compte. Selon le secteur de l’investissement financier, l’erreur a duré de 9 h 04 à 9 h 11 et a été attribuée à une surcharge après la forte progression du marché juste après l’ouverture. La société a indiqué que les ordres de trading avaient été traités normalement et que toutes les mesures liées avaient été achevées. L’association financière a recensé 105 220 917 comptes actifs de trading d’actions au 4 mai, soit 6 930 917 de plus qu’à la fin de l’an dernier. Kiwoom Securities a aussi enregistré en avril un volume mensuel record de 1 492 billions de wons. Source: hankyung.com."
+    },
+    "ar": {
+      "title": "ازدحام على تطبيق وسيط كوري يسبب عطلا مؤقتا في نظام التداول مع بداية الجلسة",
+      "excerpt": "في 6 مايو 2026، أدى الصعود السريع لمؤشر كوسبي في بداية الجلسة إلى تدفق المستثمرين وتعذر عرض أرصدة الحسابات مؤقتا لبعض مستخدمي نظام Korea Investment & Securities.",
+      "body": "في 6 مايو 2026، تسبب تدفق كبير للمستثمرين مع بداية جلسة الأسهم الكورية الجنوبية في عطل مؤقت بنظام التداول عبر الهاتف المحمول MTS التابع لشركة Korea Investment & Securities، ما منع بعض المستخدمين من عرض أرصدة حساباتهم. ووفقا لقطاع الاستثمار المالي، استمر الخطأ من الساعة 9:04 حتى 9:11 صباحا، ورجح أنه نتج عن حمل زائد بعد ارتفاع السوق بسرعة عقب الافتتاح. وقالت الشركة إن أوامر البيع والشراء عولجت بشكل طبيعي وإن جميع الإجراءات ذات الصلة اكتملت. وذكرت جمعية الاستثمار المالي أن حسابات تداول الأسهم النشطة بلغت 105,220,917 حسابا في 4 مايو، بزيادة 6,930,917 عن نهاية العام الماضي. كما سجلت Kiwoom Securities في أبريل قيمة تداول شهرية قياسية بلغت 1,492 تريليون وون. المصدر: hankyung.com."
+    },
+    "hi": {
+      "title": "ब्रोकरेज ऐप पर भारी ट्रैफिक, कोरिया इन्वेस्टमेंट MTS में खुलते ही अस्थायी गड़बड़ी",
+      "excerpt": "6 मई 2026 को शुरुआती कारोबार में Kospi की तेज बढ़त से निवेशक उमड़े, जिससे Korea Investment & Securities के MTS पर कुछ उपयोगकर्ता खाते का बैलेंस नहीं देख सके।",
+      "body": "6 मई 2026 को दक्षिण कोरियाई शेयर बाजार खुलते ही निवेशकों की भारी आवाजाही के कारण Korea Investment & Securities के मोबाइल ट्रेडिंग सिस्टम, MTS, में अस्थायी गड़बड़ी आई और कुछ उपयोगकर्ता अपने खाते का बैलेंस नहीं देख पाए। वित्तीय निवेश उद्योग के अनुसार, यह त्रुटि सुबह 9:04 से 9:11 तक रही और बाजार खुलने के तुरंत बाद तेज बढ़त से सिस्टम पर अधिक भार पड़ने को इसकी वजह माना गया। कंपनी ने कहा कि खरीद-बिक्री के आदेश सामान्य रूप से संसाधित हुए और सभी संबंधित कदम पूरे कर लिए गए। Korea Financial Investment Association के अनुसार, 4 मई तक सक्रिय शेयर ट्रेडिंग खाते 105,220,917 थे, जो पिछले साल के अंत से 6,930,917 अधिक हैं। Kiwoom Securities का अप्रैल मासिक कारोबार मूल्य भी 1,492 ट्रिलियन वॉन के रिकॉर्ड स्तर पर पहुंचा। स्रोत: hankyung.com."
+    },
+    "id": {
+      "title": "Trafik Aplikasi Sekuritas Melonjak, MTS Korea Investment Sempat Bermasalah Pagi",
+      "excerpt": "Pada 6 Mei 2026, lonjakan awal Kospi menarik banyak investor dan membuat sebagian pengguna MTS Korea Investment & Securities tidak dapat melihat saldo rekening.",
+      "body": "Pada 6 Mei 2026, arus investor yang tinggi pada awal perdagangan saham Korea Selatan memicu gangguan sementara pada mobile trading system, MTS, milik Korea Investment & Securities, sehingga sebagian pengguna tidak dapat melihat saldo rekening. Menurut industri investasi keuangan, kesalahan terjadi dari pukul 09.04 hingga 09.11 dan dinilai terkait kelebihan beban setelah pasar naik tajam segera setelah pembukaan. Perusahaan menyatakan order jual beli diproses normal dan seluruh langkah terkait telah selesai. Asosiasi Investasi Keuangan Korea mencatat akun perdagangan saham aktif mencapai 105.220.917 per 4 Mei, naik 6.930.917 dari akhir tahun lalu. Kiwoom Securities juga mencatat nilai transaksi bulanan April sebesar 1.492 triliun won, kembali menjadi rekor tertinggi. Sumber: hankyung.com."
+    }
+  }
+}

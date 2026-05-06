@@ -1,5 +1,230 @@
 [
   {
+    "id": "fb831047d9b0",
+    "slug": "접속자-폭증한-증권사-앱-장-초반-한때-먹통-270559",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T23:20:07.643Z",
+    "updatedAt": "2026-05-06T23:20:07.643Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050696891",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050696891",
+    "titleFingerprint": "e2ef7c724bca90ceb8a93a3e4b219e06d2251d01",
+    "dedupKeys": [
+      "fb831047d9b0beed3d12d5c35d2399f8b4b97b47",
+      "e2ef7c724bca90ceb8a93a3e4b219e06d2251d01",
+      "c06252c10d9b0e28a8162420a56303fb03a2a407"
+    ],
+    "imageUrl": "/images/articles/fb831047d9b0.png",
+    "i18n": {
+      "ko": {
+        "title": "증권사 앱 접속 폭증에 장 초반 오류, 계좌 급증 속 한국투자증권 MTS 한때 먹통",
+        "excerpt": "2026년 5월 6일 장 초반 코스피 급등으로 투자자가 몰리며 한국투자증권 MTS에서 일부 계좌 잔액 조회 오류가 발생했고, 활동계좌와 거래대금 증가세도 확인됐다.",
+        "body": "2026년 5월 6일 국내 증시 장 초반 투자자가 몰리면서 한국투자증권 모바일트레이딩시스템(MTS)에서 일부 이용자가 계좌 잔액을 조회하지 못하는 오류가 발생했다. 금융투자업계에 따르면 장애는 오전 9시4분부터 11분까지 이어졌고, 개장 직후 장이 급격히 오르며 과부하가 걸린 것으로 풀이됐다. 한국투자증권은 매매 주문은 정상 처리됐고 관련 조치를 완료했다고 밝혔다. 같은 날 금융투자협회 기준 5월 4일 주식거래 활동계좌는 1억522만917개로 지난해 말보다 693만917개 늘었다. 4월 키움증권 월간 거래대금도 1492조원으로 사상 최대를 다시 기록했다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Broker App Traffic Surge Causes Early-Session MTS Glitch at Korea Investment & Securities",
+        "excerpt": "On May 6, 2026, a rush of investors during a sharp early Kospi rise caused some Korea Investment & Securities MTS users to lose access to account balance views.",
+        "body": "On May 6, 2026, heavy investor traffic early in the South Korean stock session caused a temporary issue on Korea Investment & Securities’ mobile trading system, or MTS, preventing some users from viewing account balances. According to the financial investment industry, the error lasted from 9:04 a.m. to 9:11 a.m. and was attributed to overload after the market rose sharply just after the open. The brokerage said trading orders were processed normally and all related measures had been completed. The Korea Financial Investment Association said active stock trading accounts stood at 105,220,917 as of May 4, up 6,930,917 from the end of last year. Kiwoom Securities’ April monthly trading value also hit a record 1,492 trillion won. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "証券アプリにアクセス集中、韓国投資証券MTSで寄り付き直後に一時障害",
+        "excerpt": "2026年5月6日、寄り付き直後のコスピ急騰で投資家のアクセスが集中し、韓国投資証券MTSの一部利用者で口座残高照会エラーが発生した。",
+        "body": "2026年5月6日、韓国株式市場の寄り付き直後に投資家のアクセスが集中し、韓国投資証券のモバイル取引システム（MTS）で一部利用者が口座残高を照会できない障害が発生した。金融投資業界によると、障害は午前9時4分から11分まで続き、取引開始直後に相場が急上昇したことで過負荷がかかったとみられる。韓国投資証券は、売買注文は正常に処理され、関連措置はすべて完了したと説明した。同日、金融投資協会によると5月4日時点の株式取引活動口座は1億522万917口座で、昨年末より693万917口座増えた。キウム証券の4月月間売買代金も1492兆ウォンと過去最高を更新した。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "券商App访问量激增，韩国投资证券MTS开盘初一度出现故障",
+        "excerpt": "2026年5月6日，韩股开盘初Kospi快速上涨吸引投资者集中访问，韩国投资证券MTS部分用户一度无法查询账户余额。",
+        "body": "2026年5月6日，韩国股市开盘初投资者访问量集中，韩国投资证券移动交易系统（MTS）出现临时故障，部分用户无法查询账户余额。据金融投资业界消息，故障从上午9时04分持续至9时11分，原因被认为是开盘后行情快速上涨导致系统过载。韩国投资证券表示，交易委托正常处理，所有相关措施已经完成。同日，韩国金融投资协会数据显示，截至5月4日，股票交易活动账户为105,220,917个，较去年底增加6,930,917个。Kiwoom证券4月月度成交额也达到1492万亿韩元，再创历史新高。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Fallo temporal en la app bursátil por tráfico masivo al inicio de la sesión en Corea",
+        "excerpt": "El 6 de mayo de 2026, la fuerte subida inicial del Kospi atrajo a inversores y causó errores de consulta de saldos para algunos usuarios del MTS de Korea Investment & Securities.",
+        "body": "El 6 de mayo de 2026, una concentración de inversores al inicio de la sesión bursátil surcoreana provocó una incidencia temporal en el sistema móvil de negociación, MTS, de Korea Investment & Securities, que impidió a algunos usuarios consultar el saldo de sus cuentas. Según el sector de inversión financiera, el error se produjo entre las 9:04 y las 9:11, y se atribuyó a una sobrecarga tras la rápida subida del mercado justo después de la apertura. La firma indicó que las órdenes de compraventa se procesaron con normalidad y que completó todas las medidas relacionadas. La asociación financiera informó que las cuentas activas de negociación sumaban 105.220.917 al 4 de mayo, 6.930.917 más que a fines del año pasado. Kiwoom Securities también registró en abril un volumen mensual récord de 1.492 billones de wones. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Alta demanda derruba consulta em app de corretora no início do pregão coreano",
+        "excerpt": "Em 6 de maio de 2026, a forte alta inicial do Kospi levou investidores ao MTS da Korea Investment & Securities, causando erro temporário na consulta de saldos.",
+        "body": "Em 6 de maio de 2026, o grande fluxo de investidores no início do pregão sul-coreano causou uma falha temporária no sistema móvel de negociação, MTS, da Korea Investment & Securities, impedindo alguns usuários de consultar o saldo de suas contas. Segundo o setor de investimento financeiro, o erro durou das 9h04 às 9h11 e foi atribuído a uma sobrecarga após a forte alta do mercado logo depois da abertura. A corretora afirmou que as ordens de compra e venda foram processadas normalmente e que todas as medidas relacionadas foram concluídas. A associação financeira informou que as contas ativas de negociação de ações somavam 105.220.917 em 4 de maio, alta de 6.930.917 ante o fim do ano passado. A Kiwoom Securities também registrou em abril volume mensal recorde de 1.492 trilhões de won. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Broker-App wegen starkem Andrang zum Handelsstart kurzzeitig mit MTS-Störung",
+        "excerpt": "Am 6. Mai 2026 führte der starke frühe Kospi-Anstieg zu hohem Anlegerverkehr; bei Korea Investment & Securities konnten einige MTS-Nutzer Kontostände nicht abrufen.",
+        "body": "Am 6. Mai 2026 kam es zum Handelsstart am südkoreanischen Aktienmarkt wegen starken Anlegerandrangs zu einer vorübergehenden Störung im mobilen Handelssystem MTS von Korea Investment & Securities. Einige Nutzer konnten ihre Kontostände nicht abrufen. Nach Angaben der Finanzinvestmentbranche dauerte der Fehler von 9:04 bis 9:11 Uhr und wurde auf eine Überlastung zurückgeführt, nachdem der Markt direkt nach der Eröffnung stark gestiegen war. Das Brokerhaus teilte mit, Kauf- und Verkaufsaufträge seien normal verarbeitet worden und alle damit verbundenen Maßnahmen seien abgeschlossen. Laut Finanzinvestmentverband lagen die aktiven Aktienhandelskonten am 4. Mai bei 105.220.917, ein Plus von 6.930.917 gegenüber Ende vergangenen Jahres. Kiwoom Securities meldete für April zudem ein monatliches Rekordhandelsvolumen von 1.492 Billionen Won. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Afflux massif sur une appli de courtage, panne MTS temporaire à l’ouverture en Corée",
+        "excerpt": "Le 6 mai 2026, la forte hausse initiale du Kospi a attiré les investisseurs et provoqué une erreur de consultation des soldes pour certains utilisateurs du MTS de Korea Investment & Securities.",
+        "body": "Le 6 mai 2026, l’afflux d’investisseurs au début de la séance sud-coréenne a provoqué un incident temporaire sur le système mobile de trading, MTS, de Korea Investment & Securities, empêchant certains utilisateurs de consulter le solde de leur compte. Selon le secteur de l’investissement financier, l’erreur a duré de 9 h 04 à 9 h 11 et a été attribuée à une surcharge après la forte progression du marché juste après l’ouverture. La société a indiqué que les ordres de trading avaient été traités normalement et que toutes les mesures liées avaient été achevées. L’association financière a recensé 105 220 917 comptes actifs de trading d’actions au 4 mai, soit 6 930 917 de plus qu’à la fin de l’an dernier. Kiwoom Securities a aussi enregistré en avril un volume mensuel record de 1 492 billions de wons. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "ازدحام على تطبيق وسيط كوري يسبب عطلا مؤقتا في نظام التداول مع بداية الجلسة",
+        "excerpt": "في 6 مايو 2026، أدى الصعود السريع لمؤشر كوسبي في بداية الجلسة إلى تدفق المستثمرين وتعذر عرض أرصدة الحسابات مؤقتا لبعض مستخدمي نظام Korea Investment & Securities.",
+        "body": "في 6 مايو 2026، تسبب تدفق كبير للمستثمرين مع بداية جلسة الأسهم الكورية الجنوبية في عطل مؤقت بنظام التداول عبر الهاتف المحمول MTS التابع لشركة Korea Investment & Securities، ما منع بعض المستخدمين من عرض أرصدة حساباتهم. ووفقا لقطاع الاستثمار المالي، استمر الخطأ من الساعة 9:04 حتى 9:11 صباحا، ورجح أنه نتج عن حمل زائد بعد ارتفاع السوق بسرعة عقب الافتتاح. وقالت الشركة إن أوامر البيع والشراء عولجت بشكل طبيعي وإن جميع الإجراءات ذات الصلة اكتملت. وذكرت جمعية الاستثمار المالي أن حسابات تداول الأسهم النشطة بلغت 105,220,917 حسابا في 4 مايو، بزيادة 6,930,917 عن نهاية العام الماضي. كما سجلت Kiwoom Securities في أبريل قيمة تداول شهرية قياسية بلغت 1,492 تريليون وون. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "ब्रोकरेज ऐप पर भारी ट्रैफिक, कोरिया इन्वेस्टमेंट MTS में खुलते ही अस्थायी गड़बड़ी",
+        "excerpt": "6 मई 2026 को शुरुआती कारोबार में Kospi की तेज बढ़त से निवेशक उमड़े, जिससे Korea Investment & Securities के MTS पर कुछ उपयोगकर्ता खाते का बैलेंस नहीं देख सके।",
+        "body": "6 मई 2026 को दक्षिण कोरियाई शेयर बाजार खुलते ही निवेशकों की भारी आवाजाही के कारण Korea Investment & Securities के मोबाइल ट्रेडिंग सिस्टम, MTS, में अस्थायी गड़बड़ी आई और कुछ उपयोगकर्ता अपने खाते का बैलेंस नहीं देख पाए। वित्तीय निवेश उद्योग के अनुसार, यह त्रुटि सुबह 9:04 से 9:11 तक रही और बाजार खुलने के तुरंत बाद तेज बढ़त से सिस्टम पर अधिक भार पड़ने को इसकी वजह माना गया। कंपनी ने कहा कि खरीद-बिक्री के आदेश सामान्य रूप से संसाधित हुए और सभी संबंधित कदम पूरे कर लिए गए। Korea Financial Investment Association के अनुसार, 4 मई तक सक्रिय शेयर ट्रेडिंग खाते 105,220,917 थे, जो पिछले साल के अंत से 6,930,917 अधिक हैं। Kiwoom Securities का अप्रैल मासिक कारोबार मूल्य भी 1,492 ट्रिलियन वॉन के रिकॉर्ड स्तर पर पहुंचा। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Trafik Aplikasi Sekuritas Melonjak, MTS Korea Investment Sempat Bermasalah Pagi",
+        "excerpt": "Pada 6 Mei 2026, lonjakan awal Kospi menarik banyak investor dan membuat sebagian pengguna MTS Korea Investment & Securities tidak dapat melihat saldo rekening.",
+        "body": "Pada 6 Mei 2026, arus investor yang tinggi pada awal perdagangan saham Korea Selatan memicu gangguan sementara pada mobile trading system, MTS, milik Korea Investment & Securities, sehingga sebagian pengguna tidak dapat melihat saldo rekening. Menurut industri investasi keuangan, kesalahan terjadi dari pukul 09.04 hingga 09.11 dan dinilai terkait kelebihan beban setelah pasar naik tajam segera setelah pembukaan. Perusahaan menyatakan order jual beli diproses normal dan seluruh langkah terkait telah selesai. Asosiasi Investasi Keuangan Korea mencatat akun perdagangan saham aktif mencapai 105.220.917 per 4 Mei, naik 6.930.917 dari akhir tahun lalu. Kiwoom Securities juga mencatat nilai transaksi bulanan April sebesar 1.492 triliun won, kembali menjadi rekor tertinggi. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "0c9faf9871ff",
+    "slug": "40만전자230만닉스반도체-빅2-목표가-일제히-상향-155982",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T23:19:00.392Z",
+    "updatedAt": "2026-05-06T23:19:00.392Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050696871",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050696871",
+    "titleFingerprint": "ed032ee6793c5a8141642d29ea72b6d8dddc00f2",
+    "dedupKeys": [
+      "0c9faf9871ff8175dc02d093e5d9a52886190be1",
+      "ed032ee6793c5a8141642d29ea72b6d8dddc00f2",
+      "99738d0d8d07e085c0493171f6283f8758affbc5"
+    ],
+    "imageUrl": "/images/articles/0c9faf9871ff.png",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·SK하이닉스 목표가 동반 상향, ‘40만전자·230만닉스’ 제시",
+        "excerpt": "5월 6일 한국경제에 따르면 증권가는 AI 메모리 수요와 빅테크 설비투자 확대를 근거로 삼성전자와 SK하이닉스 목표주가를 일제히 높였다.",
+        "body": "5월 6일 hankyung.com에 따르면 국내 증시 대표주인 삼성전자와 SK하이닉스의 주가 강세가 이어지면서 증권가가 목표주가를 일제히 상향했다. 한국거래소 기준 SK하이닉스는 올해 들어 145.93%, 삼성전자는 121.85% 올랐다. 지난해 상승률도 각각 274.35%, 125.38%였다. 알파벳, 마이크로소프트, 메타, 아마존의 올해 자본지출은 최대 7250억달러로 집계돼 전년보다 77% 늘었다. 에픽AI 기준 삼성전자의 평균 목표주가는 30만6087원, 최고 목표가는 40만원이며 SK하이닉스는 평균 173만5455원, 최고 230만원이다. hankyung.com은 반도체 공급 부족과 실적 개선 기대가 목표가 상향의 배경이라고 전했다."
+      },
+      "en": {
+        "title": "Samsung Electronics and SK Hynix targets raised as analysts cite AI memory demand",
+        "excerpt": "According to hankyung.com on May 6, brokerages lifted price targets for Samsung Electronics and SK Hynix, citing AI memory demand and bigger big-tech capex.",
+        "body": "According to hankyung.com on May 6, South Korean market leaders Samsung Electronics and SK Hynix drew higher price targets from brokerages as their share rallies continued. Korea Exchange data showed SK Hynix up 145.93% so far this year and Samsung Electronics up 121.85%. Their gains last year were 274.35% and 125.38%, respectively. Capital spending by Alphabet, Microsoft, Meta and Amazon was estimated at as much as $725 billion this year, up 77% from a year earlier. Epic AI put Samsung Electronics’ average target at 306,087 won, with a high of 400,000 won, while SK Hynix’s average target was 1,735,455 won and its high was 2.3 million won. hankyung.com reported that expectations for chip shortages and earnings improvement drove the target increases."
+      },
+      "ja": {
+        "title": "サムスン電子・SKハイニックス目標株価引き上げ、AIメモリー需要が背景",
+        "excerpt": "hankyung.comが5月6日に伝えたところによると、証券各社はAIメモリー需要とビッグテックの設備投資拡大を理由に両社の目標株価を引き上げた。",
+        "body": "hankyung.comが5月6日に報じたところによると、韓国株式市場の代表銘柄であるサムスン電子とSKハイニックスの上昇が続く中、証券業界は両社の目標株価を一斉に引き上げた。韓国取引所によれば、SKハイニックスは年初来145.93%、サムスン電子は121.85%上昇した。前年の上昇率はそれぞれ274.35%、125.38%だった。アルファベット、マイクロソフト、メタ、アマゾンの今年の資本支出は最大7250億ドルと集計され、前年より77%増えた。Epic AIによるサムスン電子の平均目標株価は30万6087ウォン、最高は40万ウォン。SKハイニックスは平均173万5455ウォン、最高230万ウォンとされた。hankyung.comは、半導体の供給不足と業績改善期待が背景だと伝えた。"
+      },
+      "zh": {
+        "title": "三星电子与SK海力士目标价上调，AI存储需求支撑半导体双雄",
+        "excerpt": "据hankyung.com 5月6日报道，券商因AI存储需求和大型科技公司资本开支扩大，上调三星电子与SK海力士目标价。",
+        "body": "据hankyung.com 5月6日报道，韩国股市代表股三星电子和SK海力士股价持续走强，券商同步上调两家公司目标价。韩国交易所数据显示，SK海力士今年以来上涨145.93%，三星电子上涨121.85%；两家公司去年涨幅分别为274.35%和125.38%。Alphabet、微软、Meta、亚马逊今年资本支出最高估计为7250亿美元，较上年增加77%。Epic AI数据显示，三星电子平均目标价为306087韩元，最高目标价为400000韩元；SK海力士平均目标价为1735455韩元，最高为2300000韩元。hankyung.com称，半导体供应短缺和业绩改善预期是目标价上调的背景。"
+      },
+      "es": {
+        "title": "Samsung Electronics y SK Hynix reciben alzas de precio objetivo por demanda de memoria IA",
+        "excerpt": "Según hankyung.com el 6 de mayo, las casas de bolsa elevaron los objetivos de Samsung Electronics y SK Hynix por demanda de memoria IA y mayor capex tecnológico.",
+        "body": "Según hankyung.com el 6 de mayo, Samsung Electronics y SK Hynix, valores líderes del mercado surcoreano, recibieron alzas generalizadas de precio objetivo mientras continuaba su fuerte avance bursátil. Datos de Korea Exchange muestran que SK Hynix sube 145,93% en lo que va del año y Samsung Electronics 121,85%. El año pasado avanzaron 274,35% y 125,38%, respectivamente. El gasto de capital de Alphabet, Microsoft, Meta y Amazon se estimó este año en hasta 725.000 millones de dólares, un 77% más interanual. Epic AI situó el objetivo medio de Samsung Electronics en 306.087 wones y el máximo en 400.000 wones; para SK Hynix, el promedio fue 1.735.455 wones y el máximo 2,3 millones. hankyung.com informó que la escasez de semiconductores y las expectativas de mejora de beneficios explican las subidas."
+      },
+      "pt": {
+        "title": "Samsung Electronics e SK Hynix têm preços-alvo elevados com demanda por memória de IA",
+        "excerpt": "Segundo o hankyung.com em 6 de maio, corretoras elevaram metas para Samsung Electronics e SK Hynix com demanda de memória de IA e maior capex das big techs.",
+        "body": "Segundo o hankyung.com em 6 de maio, Samsung Electronics e SK Hynix, ações representativas do mercado sul-coreano, tiveram seus preços-alvo elevados pelas corretoras enquanto a alta das cotações continuava. Dados da Korea Exchange mostram que a SK Hynix subiu 145,93% no ano e a Samsung Electronics 121,85%. No ano anterior, os ganhos foram de 274,35% e 125,38%, respectivamente. O investimento de capital de Alphabet, Microsoft, Meta e Amazon foi estimado em até US$ 725 bilhões neste ano, 77% acima do ano anterior. A Epic AI apontou preço-alvo médio de 306.087 won para a Samsung Electronics, com máxima de 400.000 won; para a SK Hynix, média de 1.735.455 won e máxima de 2,3 milhões de won. O hankyung.com informou que a escassez de semicondutores e a expectativa de melhora nos lucros sustentam as revisões."
+      },
+      "de": {
+        "title": "Samsung Electronics und SK Hynix: Kursziele wegen KI-Speichernachfrage angehoben",
+        "excerpt": "Laut hankyung.com vom 6. Mai hoben Broker die Kursziele für Samsung Electronics und SK Hynix wegen KI-Speichernachfrage und höherer Big-Tech-Investitionen an.",
+        "body": "Laut hankyung.com vom 6. Mai haben Broker ihre Kursziele für Samsung Electronics und SK Hynix, zwei Leitwerte des südkoreanischen Aktienmarkts, breit angehoben, nachdem die Rally anhielt. Nach Daten der Korea Exchange stieg SK Hynix seit Jahresbeginn um 145,93%, Samsung Electronics um 121,85%. Im Vorjahr hatten die Aktien 274,35% beziehungsweise 125,38% gewonnen. Die Kapitalausgaben von Alphabet, Microsoft, Meta und Amazon werden für dieses Jahr auf bis zu 725 Mrd. Dollar geschätzt, 77% mehr als im Vorjahr. Epic AI bezifferte das durchschnittliche Kursziel für Samsung Electronics auf 306.087 Won, das höchste auf 400.000 Won. Bei SK Hynix lagen der Durchschnitt bei 1.735.455 Won und das Hoch bei 2,3 Mio. Won. hankyung.com berichtete, dass Chipknappheit und Erwartungen besserer Ergebnisse die Anhebungen stützen."
+      },
+      "fr": {
+        "title": "Samsung Electronics et SK Hynix voient leurs objectifs relevés grâce à la mémoire IA",
+        "excerpt": "Selon hankyung.com le 6 mai, les courtiers ont relevé les objectifs de Samsung Electronics et SK Hynix avec la demande de mémoire IA et le capex des big techs.",
+        "body": "Selon hankyung.com le 6 mai, Samsung Electronics et SK Hynix, deux valeurs phares de la Bourse sud-coréenne, ont vu leurs objectifs de cours relevés alors que leur progression se poursuivait. D’après Korea Exchange, SK Hynix a gagné 145,93% depuis le début de l’année et Samsung Electronics 121,85%. L’an dernier, leurs hausses étaient respectivement de 274,35% et 125,38%. Les dépenses d’investissement d’Alphabet, Microsoft, Meta et Amazon sont estimées jusqu’à 725 milliards de dollars cette année, soit 77% de plus qu’un an plus tôt. Epic AI fixe l’objectif moyen de Samsung Electronics à 306 087 wons, avec un plus haut à 400 000 wons; pour SK Hynix, la moyenne est de 1 735 455 wons et le plus haut de 2,3 millions de wons. hankyung.com indique que la pénurie de semi-conducteurs et les attentes d’amélioration des bénéfices expliquent ces relèvements."
+      },
+      "ar": {
+        "title": "رفع الأهداف السعرية لسامسونغ إلكترونيكس وSK هاينكس بدعم طلب ذاكرة الذكاء الاصطناعي",
+        "excerpt": "وفق hankyung.com في 6 مايو، رفعت شركات الوساطة أهداف سامسونغ إلكترونيكس وSK هاينكس بسبب طلب ذاكرة الذكاء الاصطناعي وزيادة إنفاق شركات التقنية الكبرى.",
+        "body": "وفق ما نشره hankyung.com في 6 مايو، رفعت شركات الوساطة الأهداف السعرية لسهمي سامسونغ إلكترونيكس وSK هاينكس، وهما من أبرز أسهم السوق الكورية، مع استمرار صعودهما. وأظهرت بيانات بورصة كوريا أن SK هاينكس ارتفع 145.93% منذ بداية العام، بينما صعدت سامسونغ إلكترونيكس 121.85%. وكانت مكاسبهما في العام الماضي 274.35% و125.38% على التوالي. وقدرت النفقات الرأسمالية لكل من ألفابت ومايكروسوفت وميتا وأمازون هذا العام بما يصل إلى 725 مليار دولار، بزيادة 77% عن العام السابق. وبحسب Epic AI، بلغ متوسط الهدف لسامسونغ إلكترونيكس 306087 وون، وأعلى هدف 400000 وون، بينما بلغ متوسط SK هاينكس 1735455 وون وأعلى هدف 2.3 مليون وون. وذكر hankyung.com أن نقص أشباه الموصلات وتوقعات تحسن الأرباح يقفان وراء هذه الزيادات."
+      },
+      "hi": {
+        "title": "Samsung Electronics और SK Hynix के लक्ष्य मूल्य बढ़े, AI मेमोरी मांग मुख्य आधार",
+        "excerpt": "hankyung.com के अनुसार 6 मई को ब्रोकरेज ने AI मेमोरी मांग और बिग टेक के बढ़े पूंजीगत खर्च के कारण Samsung Electronics और SK Hynix के लक्ष्य मूल्य बढ़ाए।",
+        "body": "hankyung.com ने 6 मई को बताया कि दक्षिण कोरियाई बाजार के प्रमुख शेयर Samsung Electronics और SK Hynix में तेजी जारी रहने पर ब्रोकरेज ने दोनों के लक्ष्य मूल्य एक साथ बढ़ाए। Korea Exchange के आंकड़ों के अनुसार SK Hynix इस साल अब तक 145.93% और Samsung Electronics 121.85% चढ़ा है। पिछले साल दोनों में क्रमशः 274.35% और 125.38% की बढ़त रही थी। Alphabet, Microsoft, Meta और Amazon का इस वर्ष पूंजीगत खर्च अधिकतम 725 अरब डॉलर आंका गया, जो पिछले साल से 77% अधिक है। Epic AI के अनुसार Samsung Electronics का औसत लक्ष्य मूल्य 306087 वॉन और उच्चतम 400000 वॉन है। SK Hynix का औसत लक्ष्य 1735455 वॉन और उच्चतम 23 लाख वॉन है। hankyung.com ने बताया कि सेमीकंडक्टर आपूर्ति की कमी और आय सुधार की उम्मीदें इन बढ़ोतरी का आधार हैं।"
+      },
+      "id": {
+        "title": "Target Samsung Electronics dan SK Hynix dinaikkan berkat permintaan memori AI",
+        "excerpt": "Menurut hankyung.com pada 6 Mei, broker menaikkan target Samsung Electronics dan SK Hynix karena permintaan memori AI serta belanja modal big tech yang meningkat.",
+        "body": "Menurut hankyung.com pada 6 Mei, broker menaikkan target harga Samsung Electronics dan SK Hynix, dua saham utama Korea Selatan, saat reli keduanya berlanjut. Data Korea Exchange menunjukkan SK Hynix naik 145,93% sepanjang tahun ini, sementara Samsung Electronics naik 121,85%. Tahun lalu, kenaikannya masing-masing 274,35% dan 125,38%. Belanja modal Alphabet, Microsoft, Meta, dan Amazon tahun ini diperkirakan mencapai maksimum US$725 miliar, naik 77% dari tahun sebelumnya. Epic AI mencatat target rata-rata Samsung Electronics di 306.087 won, dengan target tertinggi 400.000 won. Untuk SK Hynix, target rata-ratanya 1.735.455 won dan tertinggi 2,3 juta won. hankyung.com melaporkan bahwa kekurangan pasokan semikonduktor dan ekspektasi perbaikan laba menjadi dasar kenaikan target tersebut."
+      }
+    }
+  },
+  {
+    "id": "36ca899b8500",
+    "slug": "바이오제약-부진에코스닥은-이달-찔끔-상승-435194",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T23:17:49.553Z",
+    "updatedAt": "2026-05-06T23:17:49.553Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050696321",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050696321",
+    "titleFingerprint": "e325f6fa9b3872a58ad3979499331ba91c348092",
+    "dedupKeys": [
+      "36ca899b85009cbbc0639c490d5521328e4fdcb0",
+      "e325f6fa9b3872a58ad3979499331ba91c348092",
+      "511433c69210dcaeb3418246905b442dbbb79186"
+    ],
+    "imageUrl": "/images/articles/36ca899b8500.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스닥 이달 찔끔 상승, 바이오·제약 부진이 발목 잡았다",
+        "excerpt": "한국경제 보도에 따르면 이달 코스닥은 바이오·제약 업종 부진의 영향으로 상승폭이 제한되며 ‘찔끔 상승’에 그친 것으로 전해졌다.",
+        "body": "이달 코스닥지수는 상승세를 보였지만 폭은 크지 않았다. 한국경제는 바이오·제약 업종의 부진이 코스닥 흐름에 부담으로 작용하면서 지수가 ‘찔끔 상승’하는 데 그쳤다고 보도했다. 코스닥 내 주요 성장 업종으로 꼽히는 바이오·제약이 힘을 내지 못하자 시장 전반의 상승 탄력도 제한된 것으로 풀이된다. 이에 따라 투자자들은 코스닥의 추가 상승 여부를 판단할 때 해당 업종의 회복 흐름을 함께 살펴볼 필요가 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSDAQ Edges Up This Month as Bio and Pharma Weakness Weighs",
+        "excerpt": "According to Hankyung, the KOSDAQ rose only slightly this month as weakness in biotechnology and pharmaceutical shares limited the index’s gains.",
+        "body": "The KOSDAQ index moved higher this month, but the gain was limited. Hankyung reported that weakness in biotechnology and pharmaceutical stocks weighed on the market, leaving the index with only a small rise. As bio and pharma are often viewed as key growth sectors within the KOSDAQ, their sluggish performance appears to have reduced the broader market’s upward momentum. Investors may therefore need to watch whether these sectors recover when assessing the KOSDAQ’s next move. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "コスダック、今月は小幅上昇　バイオ・製薬不振が重荷に",
+        "excerpt": "韓国経済新聞によると、今月のコスダックはバイオ・製薬業種の不振が影響し、上昇幅が限られ小幅高にとどまった。",
+        "body": "今月のコスダック指数は上昇したものの、その幅は大きくなかった。韓国経済新聞は、バイオ・製薬業種の不振がコスダックの流れに負担となり、指数は小幅上昇にとどまったと報じた。コスダック内で主要な成長業種とされるバイオ・製薬が力を欠いたことで、市場全体の上昇力も制限されたとみられる。投資家は今後のコスダックの追加上昇を判断する際、同業種の回復動向も確認する必要がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSDAQ本月仅小幅上涨，生物医药低迷拖累走势",
+        "excerpt": "据韩国经济新闻报道，本月KOSDAQ受生物技术和制药板块低迷影响，涨幅受到限制，仅录得小幅上涨。",
+        "body": "本月KOSDAQ指数虽呈上涨态势，但涨幅并不明显。韩国经济新闻报道称，生物技术和制药板块表现低迷，对KOSDAQ走势形成压力，使指数仅小幅上涨。由于生物医药通常被视为KOSDAQ中的主要成长板块，其乏力表现也限制了整体市场的上行动能。因此，投资者在判断KOSDAQ能否进一步上涨时，有必要同时关注相关板块是否出现恢复。来源: hankyung.com"
+      },
+      "es": {
+        "title": "KOSDAQ sube apenas este mes por la debilidad biofarmacéutica",
+        "excerpt": "Según Hankyung, el KOSDAQ avanzó solo ligeramente este mes, ya que la debilidad de los sectores biotecnológico y farmacéutico limitó sus ganancias.",
+        "body": "El índice KOSDAQ mostró una subida este mes, pero el avance fue reducido. Hankyung informó que la debilidad de las acciones biotecnológicas y farmacéuticas pesó sobre el mercado, dejando al índice con un incremento apenas marginal. Dado que estos sectores suelen considerarse motores de crecimiento dentro del KOSDAQ, su flojo desempeño habría limitado el impulso alcista general. Por ello, los inversores deberán observar si estas áreas se recuperan al evaluar nuevas subidas del índice. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSDAQ sobe pouco no mês com fraqueza de biotecnologia e farmacêuticas",
+        "excerpt": "Segundo o Hankyung, o KOSDAQ avançou apenas ligeiramente neste mês, pressionado pelo fraco desempenho dos setores de biotecnologia e farmacêutico.",
+        "body": "O índice KOSDAQ registrou alta neste mês, mas o avanço foi limitado. O Hankyung informou que a fraqueza das ações de biotecnologia e farmacêuticas pesou sobre o mercado, fazendo o índice subir apenas de forma modesta. Como esses setores são vistos como importantes áreas de crescimento dentro do KOSDAQ, seu desempenho fraco teria reduzido o impulso de alta do mercado como um todo. Assim, investidores devem acompanhar a eventual recuperação desses segmentos ao avaliar novas altas do índice. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSDAQ steigt im Monat nur leicht, Bio- und Pharmaschwäche belastet",
+        "excerpt": "Laut Hankyung legte der KOSDAQ in diesem Monat nur geringfügig zu, weil schwache Biotechnologie- und Pharmawerte die Gewinne begrenzten.",
+        "body": "Der KOSDAQ-Index stieg in diesem Monat, doch der Zuwachs blieb gering. Hankyung berichtete, dass die Schwäche von Biotechnologie- und Pharmawerten den Markt belastete und der Index deshalb nur leicht zulegen konnte. Da diese Branchen im KOSDAQ häufig als wichtige Wachstumsbereiche gelten, dürfte ihre schwache Entwicklung die Aufwärtsdynamik des Gesamtmarkts begrenzt haben. Anleger sollten daher bei der Einschätzung weiterer KOSDAQ-Gewinne auch auf eine Erholung dieser Sektoren achten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le KOSDAQ progresse à peine ce mois-ci, freiné par la biotech et la pharma",
+        "excerpt": "Selon Hankyung, le KOSDAQ n’a progressé que légèrement ce mois-ci, la faiblesse des valeurs biotechnologiques et pharmaceutiques limitant ses gains.",
+        "body": "L’indice KOSDAQ a progressé ce mois-ci, mais l’ampleur de la hausse est restée limitée. Hankyung a rapporté que la faiblesse des secteurs biotechnologique et pharmaceutique a pesé sur le marché, laissant l’indice avec une hausse modeste. Ces secteurs étant souvent considérés comme des moteurs de croissance du KOSDAQ, leur manque de dynamisme semble avoir réduit l’élan haussier global. Les investisseurs devront donc suivre leur éventuelle reprise pour évaluer la poursuite de la hausse de l’indice. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوسداك يرتفع بشكل طفيف هذا الشهر مع ضغط قطاعي الأدوية والتكنولوجيا الحيوية",
+        "excerpt": "بحسب هانكيونغ، سجّل مؤشر كوسداك ارتفاعا محدودا هذا الشهر بعدما كبحت ضعف أسهم التكنولوجيا الحيوية والأدوية مكاسبه.",
+        "body": "سجّل مؤشر كوسداك ارتفاعا هذا الشهر، لكن حجم الصعود لم يكن كبيرا. وذكرت هانكيونغ أن ضعف أسهم التكنولوجيا الحيوية والأدوية شكّل عبئا على حركة السوق، ما جعل المؤشر يكتفي بارتفاع طفيف. وبما أن هذين القطاعين يُنظر إليهما غالبا كقطاعين مهمين للنمو داخل كوسداك، فإن أداءهما الضعيف حدّ من زخم الصعود في السوق ككل. لذلك يحتاج المستثمرون إلى متابعة ما إذا كان هذان القطاعان سيستعيدان عافيتهما عند تقييم فرص استمرار صعود المؤشر. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSDAQ इस महीने मामूली बढ़ा, बायो और फार्मा कमजोरी ने रोकी रफ्तार",
+        "excerpt": "Hankyung के अनुसार, इस महीने KOSDAQ केवल थोड़ा बढ़ा क्योंकि बायोटेक और फार्मा शेयरों की कमजोरी ने सूचकांक की बढ़त सीमित कर दी।",
+        "body": "इस महीने KOSDAQ सूचकांक में बढ़त दिखी, लेकिन बढ़त का दायरा बड़ा नहीं था। Hankyung ने बताया कि बायोटेक और फार्मा शेयरों की कमजोरी बाजार पर दबाव बनी, जिससे सूचकांक केवल मामूली रूप से ऊपर गया। KOSDAQ में बायो और फार्मा को अक्सर प्रमुख ग्रोथ सेक्टर माना जाता है, इसलिए इनके कमजोर प्रदर्शन ने व्यापक बाजार की तेजी को सीमित किया। ऐसे में निवेशकों को सूचकांक की आगे की दिशा का आकलन करते समय इन क्षेत्रों की रिकवरी पर भी नजर रखनी होगी। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KOSDAQ Naik Tipis Bulan Ini, Tertekan Lemahnya Bio dan Farmasi",
+        "excerpt": "Menurut Hankyung, KOSDAQ hanya naik tipis bulan ini karena pelemahan sektor bioteknologi dan farmasi membatasi penguatan indeks.",
+        "body": "Indeks KOSDAQ bergerak naik bulan ini, tetapi kenaikannya tidak besar. Hankyung melaporkan bahwa pelemahan saham bioteknologi dan farmasi membebani pergerakan pasar, sehingga indeks hanya mencatat kenaikan tipis. Karena sektor bio dan farmasi kerap dipandang sebagai sektor pertumbuhan utama di KOSDAQ, kinerja yang lemah turut membatasi momentum penguatan pasar secara keseluruhan. Investor perlu mencermati apakah sektor-sektor tersebut pulih saat menilai peluang kenaikan lanjutan KOSDAQ. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "059c16ce88a5",
     "slug": "코스피-7000-시대-불법-인플루언서-칼-빼든-당국-680217",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Samsung Hentikan Penjualan TV dan Peralatan Rumah Tangga di China",
         "excerpt": "Samsung Electronics resmi memutuskan keluar dari sebagian bisnis berpangsa rendah di China dengan menghentikan penjualan TV dan peralatan rumah tangga, di tengah tekanan harga murah dari produsen China.",
         "body": "Samsung Electronics menghentikan penjualan TV dan peralatan rumah tangga di China serta memutuskan mundur dari sebagian bisnis dengan pangsa pasar lokal yang rendah. Keputusan ini merupakan bagian dari restrukturisasi bisnis untuk memusatkan sumber daya pada area pertumbuhan masa depan dan merapikan segmen dengan profitabilitas serta prospek pertumbuhan yang lebih lemah. Langkah tersebut terjadi saat produsen China memperkuat persaingan harga murah di pasar TV dan peralatan rumah tangga, sehingga ruang bagi merek global menyempit. Samsung diperkirakan akan mengefisienkan struktur bisnisnya di China melalui strategi seleksi dan fokus. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7bc0ad0e45d0",
-    "slug": "정유사-팔수록-손해최고가격제-손실-4조-293772",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-06T11:21:16.847Z",
-    "updatedAt": "2026-05-06T11:21:16.847Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12037815",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12037815",
-    "titleFingerprint": "aae60d76b2aeacf0e36c13e3fbddeb9c680fc296",
-    "dedupKeys": [
-      "7bc0ad0e45d07131b842ba423cb481bd020c5194",
-      "aae60d76b2aeacf0e36c13e3fbddeb9c680fc296",
-      "80f85e6472dc78665e2f9cc1145e4632e55b2251"
-    ],
-    "imageUrl": "/images/articles/7bc0ad0e45d0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "정유업계 최고가격제 손실 4조원 주장, 8일 결정 앞두고 긴장 고조",
-        "excerpt": "미국·이스라엘과 이란 간 전쟁 장기화로 국제유가 변동성이 커진 가운데 정유업계는 8일 5차 석유 최고가격 결정을 앞두고 손실 부담을 호소하고 있다.",
-        "body": "미국·이스라엘과 이란 간 전쟁이 장기화되며 국제유가 변동성이 커지는 가운데, 정유업계는 8일 예정된 5차 석유 최고가격 결정을 앞두고 수익성 악화를 우려하고 있다. 업계는 최고가격제 영향으로 “팔수록 손해”라는 입장을 내며 누적 손실 규모가 4조원에 이른다고 주장했다. 원문은 1분기에 정유 4사의 관련 수치가 5조원에 육박했다고 전했다. 유가 변동성이 확대되는 상황에서 가격 상한 결정은 정유사의 공급 부담과 시장 대응에 직접적인 영향을 줄 수 있다. 향후 결정 결과에 따라 업계의 비용 부담 논란도 이어질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Refiners Cite 4 Trillion Won Price-Cap Loss as Oil Decision Nears",
-        "excerpt": "As the prolonged U.S.-Israel conflict with Iran raises global oil volatility, refiners are warning of mounting losses before the fifth petroleum price-cap decision on the 8th.",
-        "body": "With the war involving the United States, Israel and Iran dragging on, volatility in international oil prices is increasing. Against that backdrop, refiners are growing more concerned ahead of the fifth petroleum price-cap decision scheduled for the 8th. The industry says the price ceiling has made sales unprofitable, arguing that accumulated losses have reached 4 trillion won. The source also said a related first-quarter figure for the four major refiners approached 5 trillion won. As oil price swings widen, the price-cap decision could directly affect refiners’ supply burden and market response. Debate over industry costs is expected to continue depending on the outcome. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "製油業界、最高価格制で4兆ウォン損失主張　8日の決定に注目",
-        "excerpt": "米国・イスラエルとイランの戦争長期化で国際原油価格の変動性が高まる中、製油業界は8日の第5次石油最高価格決定を前に損失負担を訴えている。",
-        "body": "米国・イスラエルとイランの戦争が長期化し、国際原油価格の変動性が高まる中、製油業界は8日に予定された第5次石油最高価格決定を前に収益性の悪化を懸念している。業界は最高価格制の影響で「売るほど損をする」とし、累積損失が4兆ウォンに達すると主張した。原文は、第1四半期に製油4社の関連数値が5兆ウォンに迫ったとも伝えた。原油価格の振れが大きくなる状況で、価格上限の決定は製油会社の供給負担と市場対応に直接影響し得る。決定結果によって費用負担をめぐる議論も続く見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "炼油业称价格上限制损失达4万亿韩元，8日决定受关注",
-        "excerpt": "随着美国、以色列与伊朗之间战争长期化推高国际油价波动，炼油行业在8日第五次石油最高价格决定前强调亏损压力。",
-        "body": "美国、以色列与伊朗之间的战争持续时间拉长，国际油价波动随之扩大。在此背景下，炼油行业正关注8日将作出的第五次石油最高价格决定，并担忧盈利能力进一步恶化。行业方面表示，最高价格制度导致“卖得越多亏得越多”，累计损失规模已达4万亿韩元。原文还称，第一季度四家炼油公司的相关数值接近5万亿韩元。在油价波动加大的情况下，价格上限决定可能直接影响炼油企业的供应负担和市场应对。根据决定结果，围绕行业成本负担的争议预计仍将持续。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Refinerías alegan pérdidas de 4 billones de wones por el precio máximo",
-        "excerpt": "Con la guerra entre Estados Unidos, Israel e Irán prolongándose y elevando la volatilidad del crudo, las refinerías alertan de pérdidas antes de la decisión del día 8.",
-        "body": "La prolongación de la guerra entre Estados Unidos, Israel e Irán está aumentando la volatilidad de los precios internacionales del petróleo. En ese contexto, el sector refinador muestra mayor preocupación antes de la quinta decisión sobre el precio máximo del petróleo prevista para el día 8. La industria sostiene que el sistema de precio máximo hace que vender genere pérdidas y afirma que el daño acumulado alcanza los 4 billones de wones. La fuente también indicó que una cifra relacionada con las cuatro refinerías en el primer trimestre se acercó a los 5 billones de wones. Con mayores oscilaciones del crudo, la decisión puede afectar directamente la carga de suministro y la respuesta del mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Refinarias apontam perda de 4 trilhões de won com teto de preços",
-        "excerpt": "Com a guerra entre EUA, Israel e Irã prolongada e maior volatilidade do petróleo, refinarias alertam para perdas antes da quinta decisão de preço máximo no dia 8.",
-        "body": "A guerra prolongada envolvendo Estados Unidos, Israel e Irã elevou a volatilidade dos preços internacionais do petróleo. Nesse cenário, o setor de refino aumenta sua preocupação antes da quinta decisão sobre o preço máximo do petróleo, prevista para o dia 8. A indústria afirma que o sistema de teto faz com que vender resulte em prejuízo e diz que as perdas acumuladas chegam a 4 trilhões de won. A fonte também informou que um indicador relacionado às quatro refinarias no primeiro trimestre se aproximou de 5 trilhões de won. Com oscilações maiores do petróleo, a decisão sobre o teto pode afetar diretamente o peso do fornecimento e a resposta do mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Raffinerien melden 4 Billionen Won Verlust durch Preisobergrenze",
-        "excerpt": "Während der anhaltende Krieg zwischen den USA, Israel und Iran die Ölpreisvolatilität erhöht, warnen Raffinerien vor der fünften Preisobergrenzen-Entscheidung am 8. vor Verlusten.",
-        "body": "Der anhaltende Krieg zwischen den USA, Israel und Iran erhöht die Volatilität der internationalen Ölpreise. Vor diesem Hintergrund wächst in der Raffineriebranche die Sorge vor der fünften Entscheidung über die maximale Ölpreisgrenze, die für den 8. vorgesehen ist. Die Branche erklärt, die Preisobergrenze führe dazu, dass jeder Verkauf Verluste bringe, und beziffert die kumulierten Einbußen auf 4 Billionen Won. Die Quelle berichtete zudem, dass eine entsprechende Kennzahl der vier Raffinerien im ersten Quartal nahezu 5 Billionen Won erreichte. Bei größeren Ölpreisschwankungen kann die Entscheidung die Versorgungslast und Marktreaktion der Raffinerien direkt beeinflussen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les raffineurs évoquent 4 000 milliards de wons de pertes liées au plafond",
-        "excerpt": "Alors que la guerre entre les États-Unis, Israël et l’Iran prolonge la volatilité du pétrole, les raffineurs alertent sur leurs pertes avant la décision du 8.",
-        "body": "La prolongation de la guerre impliquant les États-Unis, Israël et l’Iran accroît la volatilité des cours internationaux du pétrole. Dans ce contexte, le secteur du raffinage s’inquiète avant la cinquième décision sur le prix maximal du pétrole, prévue le 8. Les raffineurs affirment que le système de prix plafond les fait vendre à perte et estiment les pertes cumulées à 4 000 milliards de wons. La source indique aussi qu’un chiffre lié aux quatre raffineurs au premier trimestre a approché 5 000 milliards de wons. Avec l’augmentation des variations du pétrole, cette décision pourrait peser directement sur l’approvisionnement et la réponse du marché. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "المصافي تقول إن سقف الأسعار سبب خسائر بـ4 تريليونات وون قبل قرار 8",
-        "excerpt": "مع إطالة أمد الحرب بين الولايات المتحدة وإسرائيل وإيران وارتفاع تقلبات النفط العالمية، تحذر شركات التكرير من خسائر قبل قرار سقف أسعار النفط الخامس في الثامن.",
-        "body": "مع استمرار الحرب بين الولايات المتحدة وإسرائيل وإيران لفترة أطول، تزداد تقلبات أسعار النفط العالمية. وفي هذا السياق، تتصاعد مخاوف قطاع التكرير قبل القرار الخامس بشأن الحد الأقصى لأسعار النفط المقرر في الثامن. وتقول الصناعة إن نظام سقف الأسعار يجعل البيع مصدرا للخسارة، مشيرة إلى أن الخسائر المتراكمة بلغت 4 تريليونات وون. وذكر المصدر أيضا أن رقما مرتبطا بشركات التكرير الأربع في الربع الأول اقترب من 5 تريليونات وون. ومع اتساع تقلبات النفط، قد يؤثر قرار السقف مباشرة في عبء الإمداد واستجابة السوق. ومن المتوقع استمرار الجدل حول تكاليف القطاع وفقا لنتيجة القرار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "रिफाइनरों का दावा, मूल्य सीमा से 4 ट्रिलियन वॉन का नुकसान",
-        "excerpt": "अमेरिका, इजराइल और ईरान के बीच युद्ध लंबा खिंचने से वैश्विक तेल कीमतों में उतार-चढ़ाव बढ़ा है, जबकि रिफाइनर 8 तारीख के मूल्य सीमा फैसले से पहले नुकसान बता रहे हैं।",
-        "body": "अमेरिका, इजराइल और ईरान के बीच युद्ध लंबा चलने से अंतरराष्ट्रीय तेल कीमतों में अस्थिरता बढ़ रही है। इसी पृष्ठभूमि में रिफाइनिंग उद्योग 8 तारीख को होने वाले पांचवें पेट्रोलियम अधिकतम मूल्य निर्णय से पहले लाभप्रदता घटने को लेकर चिंतित है। उद्योग का कहना है कि मूल्य सीमा प्रणाली के कारण “जितना बेचते हैं, उतना नुकसान” होता है और कुल नुकसान 4 ट्रिलियन वॉन तक पहुंच गया है। स्रोत ने यह भी बताया कि पहली तिमाही में चार रिफाइनरों से जुड़ा एक आंकड़ा 5 ट्रिलियन वॉन के करीब था। तेल कीमतों में बढ़ते उतार-चढ़ाव के बीच यह निर्णय आपूर्ति बोझ और बाजार प्रतिक्रिया को सीधे प्रभावित कर सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Penyuling Klaim Rugi 4 Triliun Won Akibat Batas Harga Minyak",
-        "excerpt": "Saat perang AS-Israel dengan Iran berkepanjangan dan volatilitas minyak global meningkat, industri penyulingan menyoroti kerugian jelang keputusan harga maksimum ke-5 pada tanggal 8.",
-        "body": "Perang yang melibatkan Amerika Serikat, Israel, dan Iran berkepanjangan sehingga volatilitas harga minyak internasional meningkat. Dalam situasi ini, industri penyulingan makin khawatir menjelang keputusan kelima mengenai harga maksimum minyak yang dijadwalkan pada tanggal 8. Industri menyatakan sistem harga maksimum membuat penjualan justru menimbulkan kerugian, dengan klaim akumulasi rugi mencapai 4 triliun won. Sumber juga menyebut angka terkait empat perusahaan penyulingan pada kuartal pertama mendekati 5 triliun won. Ketika fluktuasi harga minyak melebar, keputusan batas harga dapat langsung memengaruhi beban pasokan dan respons pasar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "375e5c612754",
-    "slug": "hmm-나무호-7일-밤-두바이-도착-742664",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-06T11:20:07.705Z",
-    "updatedAt": "2026-05-06T11:20:07.705Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12037814",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12037814",
-    "titleFingerprint": "ed091050aa66f5885fd736b010a1357c7e1adc7c",
-    "dedupKeys": [
-      "375e5c61275441037942c2a88287e7630ea08c1f",
-      "ed091050aa66f5885fd736b010a1357c7e1adc7c",
-      "7e85f87d2e93d72bd2c585ee21fe845974f52cd2"
-    ],
-    "imageUrl": "/images/articles/375e5c612754.jpg",
-    "i18n": {
-      "ko": {
-        "title": "HMM 나무호, 폭발·화재 뒤 7일 밤 두바이항 도착 예정",
-        "excerpt": "호르무즈 해역에서 정박 중 폭발·화재가 발생한 벌크선 HMM 나무호가 6일 한국시간 두바이항으로 예인을 시작해 7일 밤 도착할 예정이다.",
-        "body": "호르무즈 해역에서 정박하던 중 폭발·화재 사고가 발생한 벌크선 ‘HMM 나무(NAMU)’호가 6일 한국시간 두바이항으로 예인 작업을 시작했다. 선박은 7일 밤 두바이에 도착할 예정으로 전해졌다. 이번 사고는 호르무즈 해역 정박 중 발생했으며, 예인 절차는 선박을 수리소로 옮기기 위한 단계다. 나무호가 수리소에 입항하면 사고 원인 확인과 선체 상태 점검, 필요한 수리 작업이 본격화될 전망이다. 운항 재개 여부와 일정은 수리소 입항 뒤 점검 결과에 따라 정해질 것으로 보인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "HMM NAMU to Reach Dubai Port on Night of May 7 After Fire",
-        "excerpt": "Bulk carrier HMM NAMU, hit by an explosion and fire while anchored in the Strait of Hormuz area, began towing to Dubai Port on May 6 Korea time.",
-        "body": "Bulk carrier HMM NAMU, which suffered an explosion and fire while anchored in the Strait of Hormuz area, began towing operations to Dubai Port on May 6 Korea time. The vessel is expected to arrive in Dubai on the night of May 7. The incident occurred while the ship was at anchor in the Hormuz waters, and the towing process is a step toward moving the vessel to a repair facility. Once NAMU enters the repair yard, checks on the cause of the accident, the condition of the hull, and required repairs are expected to begin in earnest. Whether and when operations resume will likely depend on inspection results after arrival. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "HMMナム号、爆発・火災後に7日夜ドバイ港到着へ",
-        "excerpt": "ホルムズ海域で停泊中に爆発・火災が発生したばら積み船HMMナム号は、韓国時間6日にドバイ港への曳航を開始した。",
-        "body": "ホルムズ海域で停泊中に爆発・火災事故が発生したばら積み船「HMMナム（NAMU）」号が、韓国時間6日にドバイ港への曳航作業を開始した。同船は7日夜にドバイへ到着する予定と伝えられている。事故はホルムズ海域での停泊中に起きたもので、曳航は船舶を修理施設へ移すための手続きだ。ナム号が修理所に入港すれば、事故原因の確認、船体状態の点検、必要な修理作業が本格化する見通しだ。運航再開の可否と時期は、入港後の点検結果に左右されるとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "HMM NAMU号爆炸起火后预计7日晚抵达迪拜港",
-        "excerpt": "在霍尔木兹海域锚泊期间发生爆炸和火灾的散货船HMM NAMU号，于韩国时间6日开始被拖往迪拜港。",
-        "body": "在霍尔木兹海域锚泊期间发生爆炸和火灾事故的散货船“HMM NAMU”号，于韩国时间6日开始拖航前往迪拜港。据悉，该船预计将在7日晚抵达迪拜。此次事故发生在霍尔木兹海域锚泊期间，拖航程序是将船舶移至修理厂的步骤。NAMU号进入修理设施后，事故原因确认、船体状态检查以及必要维修工作预计将正式展开。是否恢复运营以及具体时间，将取决于入港后的检查结果。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "HMM NAMU llegará a Dubái la noche del 7 tras explosión e incendio",
-        "excerpt": "El granelero HMM NAMU, afectado por una explosión e incendio mientras estaba fondeado en aguas de Ormuz, inició el remolque a Dubái el 6 de mayo hora coreana.",
-        "body": "El granelero HMM NAMU, que sufrió una explosión y un incendio mientras permanecía fondeado en aguas de Ormuz, inició el 6 de mayo, hora de Corea, las labores de remolque hacia el puerto de Dubái. Se prevé que el buque llegue a Dubái la noche del 7. El accidente ocurrió durante el fondeo en la zona de Ormuz, y el remolque forma parte del traslado del barco a un centro de reparación. Una vez que el NAMU ingrese al astillero o taller, comenzarán de forma más completa la revisión de la causa del incidente, la inspección del casco y las reparaciones necesarias. La reanudación de operaciones y su calendario dependerán de los resultados de la inspección tras la llegada. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "HMM NAMU deve chegar a Dubai na noite do dia 7 após incêndio",
-        "excerpt": "O graneleiro HMM NAMU, atingido por explosão e incêndio enquanto estava fundeado na área de Ormuz, iniciou em 6 de maio, hora coreana, o reboque para Dubai.",
-        "body": "O graneleiro HMM NAMU, que sofreu uma explosão e um incêndio enquanto estava fundeado nas águas de Ormuz, iniciou em 6 de maio, no horário da Coreia, a operação de reboque para o porto de Dubai. A embarcação deve chegar a Dubai na noite do dia 7. O acidente ocorreu durante a permanência fundeada na região de Ormuz, e o reboque é uma etapa para levar o navio a uma instalação de reparos. Quando o NAMU entrar no local de manutenção, devem começar de forma mais ampla a verificação da causa do acidente, a inspeção do casco e os reparos necessários. A retomada da operação e o cronograma dependerão dos resultados da inspeção após a chegada. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "HMM NAMU soll nach Explosion und Feuer am 7. Mai Dubai erreichen",
-        "excerpt": "Der Massengutfrachter HMM NAMU, der vor Hormus vor Anker lag und von Explosion und Feuer betroffen war, begann am 6. Mai koreanischer Zeit die Schleppfahrt nach Dubai.",
-        "body": "Der Massengutfrachter HMM NAMU, auf dem es während des Ankerns in den Gewässern von Hormus zu einer Explosion und einem Brand kam, hat am 6. Mai koreanischer Zeit mit dem Schleppen zum Hafen von Dubai begonnen. Das Schiff soll in der Nacht des 7. Mai in Dubai eintreffen. Der Vorfall ereignete sich während der Liegezeit vor Anker in der Hormus-Region; die Schleppfahrt dient dazu, das Schiff in eine Reparatureinrichtung zu bringen. Sobald die NAMU dort einläuft, dürften die Prüfung der Unfallursache, die Kontrolle des Schiffsrumpfs und notwendige Reparaturen umfassend beginnen. Ob und wann der Betrieb wieder aufgenommen wird, hängt voraussichtlich von den Inspektionsergebnissen nach der Ankunft ab. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le HMM NAMU attendu à Dubaï dans la nuit du 7 après l’incendie",
-        "excerpt": "Le vraquier HMM NAMU, touché par une explosion et un incendie alors qu’il était au mouillage dans la zone d’Ormuz, a commencé son remorquage vers Dubaï le 6 mai, heure coréenne.",
-        "body": "Le vraquier HMM NAMU, victime d’une explosion et d’un incendie alors qu’il était au mouillage dans les eaux d’Ormuz, a commencé le 6 mai, heure coréenne, son remorquage vers le port de Dubaï. Le navire devrait arriver à Dubaï dans la nuit du 7. L’accident s’est produit pendant son mouillage dans la zone d’Ormuz, et le remorquage constitue l’étape destinée à transférer le navire vers un site de réparation. Une fois le NAMU entré dans l’installation, la vérification de la cause de l’accident, l’examen de l’état de la coque et les réparations nécessaires devraient commencer pleinement. La reprise éventuelle des opérations et son calendrier dépendront des résultats de l’inspection après l’arrivée. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سفينة HMM NAMU تصل إلى دبي ليلة 7 مايو بعد انفجار وحريق",
-        "excerpt": "بدأت سفينة الشحن السائب HMM NAMU، التي تعرضت لانفجار وحريق أثناء رسوها في مياه هرمز، سحبها إلى ميناء دبي في 6 مايو بتوقيت كوريا.",
-        "body": "بدأت سفينة الشحن السائب «HMM NAMU»، التي تعرضت لانفجار وحريق أثناء رسوها في مياه هرمز، عملية سحبها إلى ميناء دبي في 6 مايو بتوقيت كوريا. ومن المتوقع أن تصل السفينة إلى دبي ليلة 7 مايو. وقع الحادث أثناء رسو السفينة في منطقة هرمز، وتمثل عملية السحب خطوة لنقلها إلى منشأة إصلاح. وعند دخول NAMU إلى موقع الإصلاح، من المنتظر أن تبدأ بشكل فعلي إجراءات التحقق من سبب الحادث، وفحص حالة الهيكل، وتنفيذ أعمال الإصلاح اللازمة. وسيعتمد استئناف التشغيل وجدوله على نتائج الفحص بعد الوصول. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "HMM NAMU विस्फोट और आग के बाद 7 मई रात दुबई पहुंचेगा",
-        "excerpt": "हॉर्मुज क्षेत्र में लंगर डाले रहने के दौरान विस्फोट और आग से प्रभावित बल्क कैरियर HMM NAMU को 6 मई को कोरिया समयानुसार दुबई बंदरगाह की ओर टो करना शुरू किया गया।",
-        "body": "हॉर्मुज जलक्षेत्र में लंगर डाले रहने के दौरान विस्फोट और आग की घटना से प्रभावित बल्क कैरियर ‘HMM NAMU’ को 6 मई को कोरिया समयानुसार दुबई बंदरगाह की ओर टो करना शुरू किया गया। जहाज के 7 मई की रात दुबई पहुंचने की उम्मीद है। यह दुर्घटना हॉर्मुज क्षेत्र में लंगर के दौरान हुई, और टोइंग जहाज को मरम्मत सुविधा तक ले जाने की प्रक्रिया का हिस्सा है। NAMU के मरम्मत स्थल में प्रवेश करने के बाद दुर्घटना के कारण की पुष्टि, जहाज के ढांचे की स्थिति की जांच और आवश्यक मरम्मत कार्य पूरी तरह शुरू होने की संभावना है। संचालन फिर से कब और होगा या नहीं, यह पहुंचने के बाद निरीक्षण के नतीजों पर निर्भर करेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "HMM NAMU Tiba di Dubai Malam 7 Mei Setelah Ledakan dan Kebakaran",
-        "excerpt": "Kapal curah HMM NAMU yang mengalami ledakan dan kebakaran saat berlabuh di perairan Hormuz mulai ditarik menuju Pelabuhan Dubai pada 6 Mei waktu Korea.",
-        "body": "Kapal curah HMM NAMU, yang mengalami ledakan dan kebakaran saat berlabuh di perairan Hormuz, mulai menjalani operasi penarikan menuju Pelabuhan Dubai pada 6 Mei waktu Korea. Kapal tersebut diperkirakan tiba di Dubai pada malam 7 Mei. Insiden terjadi ketika kapal sedang berlabuh di kawasan Hormuz, dan proses penarikan ini merupakan tahap untuk memindahkan kapal ke fasilitas perbaikan. Setelah NAMU masuk ke tempat perbaikan, pemeriksaan penyebab kecelakaan, pengecekan kondisi lambung, dan pekerjaan perbaikan yang diperlukan diperkirakan akan dimulai secara penuh. Kepastian dan jadwal dimulainya kembali operasi akan bergantung pada hasil pemeriksaan setelah kapal tiba. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e32bb36982a8",
-    "slug": "10년-적자-버티고-빛-봤다-lg-전장사업-글로벌-질주-534354",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-06T11:19:02.434Z",
-    "updatedAt": "2026-05-06T11:19:02.434Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12037816",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12037816",
-    "titleFingerprint": "f3b635807e7d996be5e7c8066e0c717007610d0f",
-    "dedupKeys": [
-      "e32bb36982a82ee419bc39ab78d87bcba6c4b5fe",
-      "f3b635807e7d996be5e7c8066e0c717007610d0f",
-      "a3c45fc821c18af510f5b8938401c194384c3c71"
-    ],
-    "imageUrl": "/images/articles/e32bb36982a8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LG전자 전장사업, 영업이익 8000억원 전망에 핵심 캐시카우 부상",
-        "excerpt": "LG전자 VS사업본부가 올해 연간 영업이익 8000억원을 돌파할 것이란 전망 속에 출범 10년 만의 흑자 전환 이후 핵심 수익원으로 자리 잡고 있다.",
-        "body": "LG전자 전장사업을 맡는 VS사업본부가 올해 연간 영업이익 8000억원을 넘어설 것이라는 전망이 나오며 회사의 핵심 캐시카우로 부상하고 있다. VS사업본부는 출범 10년 만인 2022년 처음 흑자 전환에 성공한 뒤 수익성 개선 흐름을 이어가고 있다. 장기간 적자를 견딘 전장사업이 이익 기여도를 높이면서 LG전자의 사업 포트폴리오에서 존재감도 커지는 모습이다. 올해 영업이익 8000억원 돌파 전망이 현실화하면 전장사업은 안정적인 수익 기반으로 평가받을 가능성이 크다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LG Electronics Vehicle Solutions Seen Topping 800 Billion Won Profit",
-        "excerpt": "LG Electronics’ VS division is expected to exceed 800 billion won in annual operating profit this year, strengthening its role as a core cash cow after turning profitable in 2022.",
-        "body": "LG Electronics’ Vehicle Solutions division, known as the VS Business Division, is drawing attention as forecasts suggest its annual operating profit could exceed 800 billion won this year. The division first turned profitable in 2022, 10 years after its launch, after enduring a long period of losses. Since then, its improving profitability has raised its profile within LG Electronics’ business portfolio. If the projected 800 billion won operating profit is achieved this year, the vehicle solutions business is likely to be viewed as a stable earnings base and a key cash cow for the company. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LG電子の車載事業、営業益8000億ウォン見通しで中核収益源に",
-        "excerpt": "LG電子のVS事業本部は今年、年間営業利益が8000億ウォンを突破するとの見方が出ており、2022年の黒字転換後に中核収益源として存在感を高めている。",
-        "body": "LG電子で車載事業を担うVS事業本部が、今年の年間営業利益で8000億ウォンを超えるとの見通しが出ている。VS事業本部は発足から10年となる2022年に初めて黒字転換し、その後も収益性改善の流れを続けている。長期の赤字に耐えてきた車載事業が利益貢献を高めるなか、LG電子の事業ポートフォリオ内での存在感も大きくなっている。予想通り今年8000億ウォンを突破すれば、安定した収益基盤であり中核キャッシュカウとして評価される可能性が高い。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "LG电子汽车电子业务预计营业利润破8000亿韩元，成核心现金牛",
-        "excerpt": "LG电子VS事业本部今年年度营业利润预计将突破8000亿韩元，在2022年成立10年后首次扭亏以来，正成为公司的核心收益来源。",
-        "body": "负责LG电子汽车电子业务的VS事业本部预计今年年度营业利润将超过8000亿韩元，因而受到关注。该事业本部在成立10年后的2022年首次实现扭亏，此后持续呈现盈利能力改善趋势。长期承受亏损的汽车电子业务如今提高了利润贡献，在LG电子业务组合中的存在感也随之增强。如果今年营业利润突破8000亿韩元的预测成为现实，该业务有望被评价为稳定的收益基础和核心现金牛。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Negocio automotriz de LG apunta a 800.000 millones de wones de beneficio",
-        "excerpt": "La división VS de LG Electronics podría superar este año los 800.000 millones de wones en beneficio operativo anual, consolidándose como fuente clave de caja tras lograr beneficios en 2022.",
-        "body": "La división de soluciones para vehículos de LG Electronics, conocida como VS, gana protagonismo ante las previsiones de que su beneficio operativo anual supere este año los 800.000 millones de wones. La unidad logró su primer resultado positivo en 2022, 10 años después de su creación, tras soportar un largo periodo de pérdidas. Desde entonces, la mejora de la rentabilidad ha elevado su peso dentro de la cartera de negocios de LG Electronics. Si se concreta la previsión de superar los 800.000 millones de wones este año, el negocio automotriz podría ser considerado una base estable de ganancias y una fuente clave de caja. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Negócio automotivo da LG mira lucro de 800 bilhões de won e vira caixa-chave",
-        "excerpt": "A divisão VS da LG Electronics deve superar 800 bilhões de won em lucro operacional anual neste ano, reforçando seu papel como fonte central de caixa após virar lucrativa em 2022.",
-        "body": "A divisão de soluções automotivas da LG Electronics, a VS Business Division, está em foco diante da previsão de que seu lucro operacional anual ultrapasse 800 bilhões de won neste ano. A unidade registrou seu primeiro lucro em 2022, 10 anos após sua criação, depois de enfrentar um longo período de prejuízos. Desde então, a melhora da rentabilidade vem ampliando sua relevância dentro do portfólio de negócios da LG Electronics. Se a projeção de 800 bilhões de won se confirmar neste ano, o negócio automotivo deve ser visto como uma base estável de ganhos e uma importante fonte de caixa. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LGs Fahrzeugtechnik vor 800 Mrd. Won Gewinn und Aufstieg zur Cashcow",
-        "excerpt": "Die VS-Sparte von LG Electronics dürfte in diesem Jahr mehr als 800 Mrd. Won operativen Jahresgewinn erzielen und nach dem ersten Gewinn 2022 zur zentralen Ertragsquelle werden.",
-        "body": "Die Fahrzeugsparte von LG Electronics, die VS Business Division, rückt in den Fokus, weil ihr operativer Jahresgewinn in diesem Jahr voraussichtlich 800 Mrd. Won übersteigen könnte. Die Einheit schrieb 2022, zehn Jahre nach ihrer Gründung, erstmals schwarze Zahlen, nachdem sie lange Verluste getragen hatte. Seitdem setzt sich die Verbesserung der Profitabilität fort, wodurch die Sparte im Geschäftsportfolio von LG Electronics an Bedeutung gewinnt. Sollte die Prognose eines Gewinns von mehr als 800 Mrd. Won in diesem Jahr eintreffen, dürfte das Fahrzeugtechnikgeschäft als stabile Ertragsbasis und wichtige Cashcow gelten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "LG Electronics voit son activité automobile dépasser 800 Mds de wons de profit",
-        "excerpt": "La division VS de LG Electronics devrait dépasser 800 milliards de wons de bénéfice opérationnel annuel cette année, devenant une source de trésorerie clé après son retour au profit en 2022.",
-        "body": "La division automobile de LG Electronics, appelée VS Business Division, attire l’attention avec des prévisions faisant état d’un bénéfice opérationnel annuel supérieur à 800 milliards de wons cette année. L’unité a dégagé son premier profit en 2022, dix ans après sa création, après une longue période de pertes. Depuis, l’amélioration de sa rentabilité renforce son poids dans le portefeuille d’activités de LG Electronics. Si le seuil prévu de 800 milliards de wons est franchi cette année, l’activité automobile devrait être considérée comme une base de revenus stable et une source de trésorerie essentielle pour le groupe. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أعمال مكونات السيارات في LG تتجه لتجاوز 800 مليار وون كأرباح تشغيلية",
-        "excerpt": "من المتوقع أن تتجاوز وحدة VS في LG Electronics أرباحا تشغيلية سنوية قدرها 800 مليار وون هذا العام، لتترسخ كمصدر نقدي رئيسي بعد تحولها للربحية في 2022.",
-        "body": "تتجه الأنظار إلى وحدة حلول المركبات في LG Electronics، المعروفة باسم VS Business Division، مع توقعات بأن تتجاوز أرباحها التشغيلية السنوية 800 مليار وون هذا العام. وكانت الوحدة قد حققت أول تحول إلى الربحية في عام 2022، بعد 10 سنوات من إطلاقها، عقب فترة طويلة من الخسائر. ومنذ ذلك الحين تواصل تحسن الربحية، ما زاد حضورها داخل محفظة أعمال LG Electronics. وإذا تحقق توقع تجاوز 800 مليار وون هذا العام، فمن المرجح أن ينظر إلى أعمال مكونات السيارات كقاعدة أرباح مستقرة ومصدر نقدي أساسي للشركة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "LG का वाहन समाधान कारोबार 800 अरब वॉन लाभ की ओर, प्रमुख कैश काउ बना",
-        "excerpt": "LG Electronics की VS डिविजन इस साल वार्षिक परिचालन लाभ में 800 अरब वॉन पार कर सकती है, 2022 में पहली बार लाभ में आने के बाद यह मुख्य कमाई स्रोत बन रही है।",
-        "body": "LG Electronics का वाहन समाधान कारोबार, यानी VS Business Division, इस साल वार्षिक परिचालन लाभ में 800 अरब वॉन से आगे निकलने की संभावना के कारण चर्चा में है। यह डिविजन अपनी स्थापना के 10 साल बाद 2022 में पहली बार लाभ में आई थी, उससे पहले उसे लंबे समय तक घाटा झेलना पड़ा। इसके बाद से लाभप्रदता में सुधार जारी है और LG Electronics के कारोबार पोर्टफोलियो में इसकी मौजूदगी बढ़ रही है। अगर इस साल 800 अरब वॉन परिचालन लाभ का अनुमान सच साबित होता है, तो वाहन समाधान कारोबार को कंपनी के लिए स्थिर कमाई आधार और प्रमुख कैश काउ के रूप में देखा जा सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Bisnis Komponen Mobil LG Diproyeksi Tembus Laba 800 Miliar Won",
-        "excerpt": "Divisi VS LG Electronics diperkirakan melampaui laba operasional tahunan 800 miliar won tahun ini, memperkuat posisinya sebagai sumber kas utama setelah mulai untung pada 2022.",
-        "body": "Bisnis solusi kendaraan LG Electronics, yaitu VS Business Division, menjadi sorotan karena diperkirakan dapat membukukan laba operasional tahunan lebih dari 800 miliar won tahun ini. Divisi ini pertama kali mencatat laba pada 2022, 10 tahun setelah dibentuk, setelah melewati periode kerugian yang panjang. Sejak saat itu, tren perbaikan profitabilitas terus berlanjut dan memperbesar perannya dalam portofolio bisnis LG Electronics. Jika proyeksi laba 800 miliar won tahun ini terwujud, bisnis kendaraan tersebut kemungkinan dinilai sebagai basis pendapatan yang stabil sekaligus sumber kas utama perusahaan. Sumber: mk.co.kr"
       }
     }
   }
