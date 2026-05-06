@@ -11,11 +11,11 @@ export const channel = {
   keywords: ['외환', '환율', '달러', '금', '원유', '원자재'],
   geo: { country: 'KR', region: 'Asia', primaryCity: 'Seoul' },
   rssSources: [
-    { url: 'https://news.google.com/rss/search?q=%ED%99%98%EC%9C%A8&hl=ko&gl=KR&ceid=KR:ko', category: 'market' },
-    { url: 'https://news.google.com/rss/search?q=%EA%B8%88%EA%B0%80+%EC%9B%90%EC%9C%A0&hl=ko&gl=KR&ceid=KR:ko', category: 'commodities' },
-    { url: 'https://news.google.com/rss/search?q=USD+JPY+EUR&hl=en&gl=US&ceid=US:en', category: 'market' },
-    { url: 'https://news.google.com/rss/search?q=oil+gold+commodities&hl=en&gl=US&ceid=US:en', category: 'commodities' },
-    { url: 'https://news.google.com/rss/search?q=wheat+corn+grain&hl=en&gl=US&ceid=US:en', category: 'analysis' }
+    { url: 'https://www.mk.co.kr/rss/50100032/', category: 'market' },
+    { url: 'https://www.hankyung.com/feed/finance', category: 'breaking' },
+    { url: 'https://www.yna.co.kr/rss/economy.xml', category: 'policy' },
+    { url: 'https://rss.mt.co.kr/mt_securities.xml', category: 'analysis' },
+    { url: 'https://www.mk.co.kr/rss/30000001/', category: 'analysis' }
   ] as RSSSource[],
   categories: [
     { slug: 'breaking',    name: { ko: '속보', en: 'Breaking', ja: '速報', zh: '快讯', es: 'Última hora', pt: 'Última hora', de: 'Eilmeldung', fr: 'Dernières', ar: 'عاجل', hi: 'ब्रेकिंग', id: 'Terbaru' } },
