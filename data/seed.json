@@ -1,5 +1,230 @@
 [
   {
+    "id": "08e6f23038f9",
+    "slug": "외국인-코스피-순매수에-환율-14551원-마감두-달-만에-최저치종합---뉴스1-127724",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T10:33:10.647Z",
+    "updatedAt": "2026-05-06T10:33:10.647Z",
+    "sourceName": "뉴스1",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FUGw3MnhCM0huZFdIT0EyaFUxTHZQY2hVZkl5djk5aGdxNkN4RVFUYjhra0JmcXp2LVlONWJpS0liUEpnZlZTLTlxalNsbXZNNTNvU01qQUlCNW5NWlBn?oc=5",
+    "canonicalUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FUGw3MnhCM0huZFdIT0EyaFUxTHZQY2hVZkl5djk5aGdxNkN4RVFUYjhra0JmcXp2LVlONWJpS0liUEpnZlZTLTlxalNsbXZNNTNvU01qQUlCNW5NWlBn?oc=5",
+    "titleFingerprint": "f07aa3b35a2c6e012316442b546b13b74b5f58f4",
+    "dedupKeys": [
+      "08e6f23038f9651f0960e2b867448d0334906ff8",
+      "f07aa3b35a2c6e012316442b546b13b74b5f58f4",
+      "1b148543766c964cefd4013a4922a8d755a1d5a2"
+    ],
+    "imageUrl": "/images/articles/08e6f23038f9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원·달러 환율 1455.1원 마감, 외국인 코스피 순매수에 두 달 최저",
+        "excerpt": "외국인의 코스피 순매수가 이어지며 원·달러 환율이 1455.1원에 마감했다. 뉴스1은 이번 종가가 약 두 달 만의 최저치라고 전했다.",
+        "body": "외국인의 코스피 순매수 영향으로 원·달러 환율이 1455.1원에 마감했다. 뉴스1에 따르면 해당 종가는 약 두 달 만에 가장 낮은 수준이다. 이번 흐름은 외국인 자금이 국내 주식시장으로 유입된 가운데 환율 하락으로 연결된 사례로 정리된다. 관련 수치로는 코스피 외국인 순매수와 원·달러 환율 1455.1원 마감, 두 달 만의 최저치가 핵심이다. 시장에서는 외국인 매수세와 환율 움직임이 함께 주목받고 있다. 출처: 뉴스1."
+      },
+      "en": {
+        "title": "Won-Dollar Rate Closes at 1,455.1 as Foreigners Buy Kospi, Two-Month Low",
+        "excerpt": "Foreign investors’ net buying of Kospi shares helped the won-dollar exchange rate close at 1,455.1 won, which News1 reported as the lowest level in about two months.",
+        "body": "The won-dollar exchange rate closed at 1,455.1 won as foreign investors recorded net purchases on the Kospi. According to News1, the closing level was the lowest in about two months. The move reflects a session in which foreign funds flowed into South Korea’s stock market and coincided with a lower exchange rate. The key figures are foreign net buying of the Kospi, the 1,455.1 won close, and the two-month low. Market attention is focused on the link between foreign buying and currency movements. Source: News1."
+      },
+      "ja": {
+        "title": "ウォン・ドル相場1455.1ウォンで終了、外国人のKOSPI買いで2カ月ぶり安値",
+        "excerpt": "外国人投資家によるKOSPIの買い越しを受け、ウォン・ドル相場は1455.1ウォンで終了した。ニュース1は約2カ月ぶりの低水準と伝えた。",
+        "body": "外国人投資家によるKOSPIの買い越しを背景に、ウォン・ドル相場は1455.1ウォンで取引を終えた。ニュース1によると、この終値は約2カ月ぶりの低水準となる。今回の動きは、外国人資金が韓国株式市場に流入する中で、為替相場の下落につながった事例として整理される。関連する主な数値は、KOSPIでの外国人買い越し、1455.1ウォンの終値、そして2カ月ぶりの低水準だ。市場では外国人の買いと為替の動きが注目されている。出所: ニュース1。"
+      },
+      "zh": {
+        "title": "韩元兑美元收于1455.1韩元，外资净买入KOSPI推动创两个月低位",
+        "excerpt": "受外国投资者净买入KOSPI影响，韩元兑美元汇率收于1455.1韩元。News1称，这是约两个月以来的最低水平。",
+        "body": "在外国投资者净买入KOSPI的影响下，韩元兑美元汇率收于1455.1韩元。据News1报道，这一收盘水平为约两个月以来最低。此次走势可概括为外资流入韩国股市，同时带动汇率下行。相关核心信息包括外国人净买入KOSPI、韩元兑美元汇率收于1455.1韩元，以及创下两个月低位。市场正在关注外资买盘与汇率变动之间的关系。来源：News1。"
+      },
+      "es": {
+        "title": "El won-dólar cierra en 1.455,1 por compras extranjeras en el Kospi, mínimo de dos meses",
+        "excerpt": "Las compras netas de inversores extranjeros en el Kospi llevaron al tipo de cambio won-dólar a cerrar en 1.455,1 won, su nivel más bajo en unos dos meses, según News1.",
+        "body": "El tipo de cambio won-dólar cerró en 1.455,1 won, influido por las compras netas de inversores extranjeros en el Kospi. Según News1, ese cierre marcó el nivel más bajo en aproximadamente dos meses. El movimiento se produjo en un contexto de entrada de capital extranjero al mercado bursátil surcoreano y coincidió con una caída del tipo de cambio. Los datos clave son la compra neta extranjera del Kospi, el cierre en 1.455,1 won y el mínimo de dos meses. El mercado observa la relación entre las compras extranjeras y el movimiento cambiario. Fuente: News1."
+      },
+      "pt": {
+        "title": "Won-dólar fecha a 1.455,1 com compra estrangeira no Kospi, mínima em dois meses",
+        "excerpt": "A compra líquida de ações do Kospi por investidores estrangeiros levou o câmbio won-dólar a fechar em 1.455,1 won, menor nível em cerca de dois meses, segundo a News1.",
+        "body": "A taxa de câmbio won-dólar fechou em 1.455,1 won, influenciada pela compra líquida de investidores estrangeiros no Kospi. Segundo a News1, esse fechamento foi o menor nível em aproximadamente dois meses. O movimento ocorreu em meio à entrada de capital estrangeiro no mercado acionário sul-coreano e coincidiu com a queda do câmbio. Os principais dados são a compra líquida estrangeira no Kospi, o fechamento a 1.455,1 won e a mínima de dois meses. O mercado acompanha a relação entre o fluxo de compra estrangeiro e a variação cambial. Fonte: News1."
+      },
+      "de": {
+        "title": "Won-Dollar-Kurs schließt bei 1.455,1: Ausländische Kospi-Käufe drücken auf Zweimonatstief",
+        "excerpt": "Nettozukäufe ausländischer Anleger im Kospi ließen den Won-Dollar-Kurs bei 1.455,1 Won schließen. Laut News1 ist das der niedrigste Stand seit rund zwei Monaten.",
+        "body": "Der Won-Dollar-Wechselkurs schloss bei 1.455,1 Won, nachdem ausländische Anleger im Kospi netto gekauft hatten. Nach Angaben von News1 war dies der niedrigste Schlussstand seit rund zwei Monaten. Die Entwicklung steht für eine Sitzung, in der ausländisches Kapital in den südkoreanischen Aktienmarkt floss und der Wechselkurs zugleich nachgab. Die zentralen Fakten sind die Nettozukäufe ausländischer Investoren im Kospi, der Schlusskurs von 1.455,1 Won und das Zweimonatstief. Am Markt richtet sich der Blick auf den Zusammenhang zwischen ausländischen Käufen und Wechselkursbewegungen. Quelle: News1."
+      },
+      "fr": {
+        "title": "Le won-dollar clôture à 1 455,1 avec les achats étrangers sur le Kospi, plus bas en deux mois",
+        "excerpt": "Les achats nets d’investisseurs étrangers sur le Kospi ont accompagné une clôture du won-dollar à 1 455,1 wons, son plus bas niveau depuis environ deux mois, selon News1.",
+        "body": "Le taux de change won-dollar a clôturé à 1 455,1 wons, sous l’effet des achats nets d’investisseurs étrangers sur le Kospi. Selon News1, ce niveau de clôture est le plus bas depuis environ deux mois. Le mouvement s’inscrit dans un contexte d’entrée de capitaux étrangers sur le marché actions sud-coréen et coïncide avec une baisse du taux de change. Les éléments clés sont les achats nets étrangers sur le Kospi, la clôture à 1 455,1 wons et le plus bas de deux mois. Le marché suit le lien entre les achats étrangers et l’évolution du change. Source : News1."
+      },
+      "ar": {
+        "title": "سعر الوون مقابل الدولار يغلق عند 1455.1 مع شراء الأجانب لكوسبي، أدنى مستوى في شهرين",
+        "excerpt": "أدى صافي شراء المستثمرين الأجانب في كوسبي إلى إغلاق سعر صرف الوون مقابل الدولار عند 1455.1 وون، وهو أدنى مستوى في نحو شهرين، وفق News1.",
+        "body": "أغلق سعر صرف الوون مقابل الدولار عند 1455.1 وون، بدعم من صافي شراء المستثمرين الأجانب في مؤشر كوسبي. ووفقاً لـ News1، يمثل هذا الإغلاق أدنى مستوى في نحو شهرين. ويعكس التحرك تدفق أموال أجنبية إلى سوق الأسهم الكورية الجنوبية بالتزامن مع انخفاض سعر الصرف. وتتمثل الأرقام الأساسية في صافي شراء الأجانب لكوسبي، والإغلاق عند 1455.1 وون، وتسجيل أدنى مستوى خلال شهرين. وتتركز متابعة السوق على العلاقة بين مشتريات الأجانب وحركة العملة. المصدر: News1."
+      },
+      "hi": {
+        "title": "कोस्पी में विदेशी खरीद से वॉन-डॉलर दर 1,455.1 पर बंद, दो महीने का निचला स्तर",
+        "excerpt": "कोस्पी में विदेशी निवेशकों की शुद्ध खरीद के बीच वॉन-डॉलर विनिमय दर 1,455.1 वॉन पर बंद हुई। News1 के अनुसार यह लगभग दो महीनों का निचला स्तर है।",
+        "body": "कोस्पी में विदेशी निवेशकों की शुद्ध खरीद के प्रभाव से वॉन-डॉलर विनिमय दर 1,455.1 वॉन पर बंद हुई। News1 के अनुसार, यह बंद स्तर लगभग दो महीनों में सबसे कम है। यह रुझान ऐसे समय सामने आया जब विदेशी पूंजी दक्षिण कोरिया के शेयर बाजार में आई और विनिमय दर में गिरावट दर्ज हुई। प्रमुख तथ्य हैं कोस्पी में विदेशी शुद्ध खरीद, 1,455.1 वॉन पर बंद होना और दो महीनों का निचला स्तर। बाजार विदेशी खरीद और मुद्रा की चाल के संबंध पर नजर रख रहा है। स्रोत: News1."
+      },
+      "id": {
+        "title": "Won-Dolar Ditutup 1.455,1 karena Aksi Beli Asing di Kospi, Terendah Dua Bulan",
+        "excerpt": "Pembelian bersih investor asing di Kospi membuat kurs won-dolar ditutup di 1.455,1 won. News1 melaporkan level itu sebagai yang terendah dalam sekitar dua bulan.",
+        "body": "Kurs won-dolar ditutup di 1.455,1 won setelah investor asing mencatat pembelian bersih di Kospi. Menurut News1, level penutupan tersebut merupakan yang terendah dalam sekitar dua bulan. Pergerakan ini terjadi saat dana asing masuk ke pasar saham Korea Selatan dan bersamaan dengan penurunan kurs. Angka utama yang menjadi perhatian adalah pembelian bersih asing di Kospi, penutupan di 1.455,1 won, dan posisi terendah dua bulan. Pasar mencermati hubungan antara aksi beli asing dan pergerakan nilai tukar. Sumber: News1."
+      }
+    }
+  },
+  {
+    "id": "5eb6bd1f7044",
+    "slug": "ambu-as-2026년-2분기-실적-발표-환율-역풍에도-견조한-성장세---investingcom-한국어-228866",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T10:32:15.404Z",
+    "updatedAt": "2026-05-06T10:32:15.404Z",
+    "sourceName": "Investing.com 한국어",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01UzNzdlY3eEJUSEZfLVFJTUZzc3VNY1NwbF9hRS05M0dpcGNfUXZlUUtYWjhfTUlpaDlyM1JmcG1MejV4VE8tRE5VclotdEw2Qkc5bk5fVkRqM1JFN3VsRjFZTzI2RHBKdHF3Qm8zcw?oc=5",
+    "canonicalUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01UzNzdlY3eEJUSEZfLVFJTUZzc3VNY1NwbF9hRS05M0dpcGNfUXZlUUtYWjhfTUlpaDlyM1JmcG1MejV4VE8tRE5VclotdEw2Qkc5bk5fVkRqM1JFN3VsRjFZTzI2RHBKdHF3Qm8zcw?oc=5",
+    "titleFingerprint": "2370bdd5a3a1c0a956e9cea931124dcd1cb29011",
+    "dedupKeys": [
+      "5eb6bd1f7044ae4c9203c93d67f00b00d003f49e",
+      "2370bdd5a3a1c0a956e9cea931124dcd1cb29011",
+      "41741f74c34eaf62b4d742d2f8c044b43f2ea110"
+    ],
+    "imageUrl": "/images/articles/5eb6bd1f7044.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Ambu A/S 2026년 2분기 실적 발표, 환율 역풍 속 견조한 성장세 주목",
+        "excerpt": "Ambu A/S는 2026년 2분기 실적 발표에서 환율 역풍에도 견조한 성장세를 보였다고 Investing.com 한국어가 전했다.",
+        "body": "Ambu A/S가 2026년 2분기 실적을 발표하며 환율 역풍에도 견조한 성장세를 이어간 것으로 전해졌다. 이번 발표의 핵심은 외환 변동이 부담으로 작용하는 환경에서도 회사의 성장 흐름이 유지됐다는 점이다. 원문 요약에는 세부 매출액이나 이익 수치가 제시되지 않았지만, 실적 평가는 환율 영향에도 성장세가 흔들리지 않았다는 데 초점이 맞춰졌다. 투자자들은 향후 환율 변동이 실적 흐름에 미칠 영향을 계속 주시할 가능성이 있다. 출처: Investing.com 한국어."
+      },
+      "en": {
+        "title": "Ambu A/S Q2 2026 Results Show Solid Growth Despite FX Headwinds",
+        "excerpt": "Ambu A/S reported its second-quarter 2026 results, with Investing.com Korea saying growth remained solid despite foreign-exchange headwinds.",
+        "body": "Ambu A/S announced its results for the second quarter of 2026, showing continued solid growth despite foreign-exchange headwinds, according to the source summary. The key point of the release is that currency movements remained a burden, yet the company’s growth trend held up. The original summary did not provide detailed revenue or profit figures, so the focus remains on the overall assessment that growth stayed resilient despite FX pressure. Investors may continue to watch how currency volatility affects future performance. Source: Investing.com Korea."
+      },
+      "ja": {
+        "title": "Ambu A/S、2026年第2四半期決算で為替逆風下の堅調成長を示す",
+        "excerpt": "Ambu A/Sは2026年第2四半期決算で、為替の逆風にもかかわらず堅調な成長を維持したとInvesting.com韓国語版が伝えた。",
+        "body": "Ambu A/Sは2026年第2四半期決算を発表し、為替の逆風にもかかわらず堅調な成長を続けたと伝えられた。今回の発表で注目されるのは、外為変動が負担となる環境でも成長基調が維持された点だ。原文の要約には売上高や利益などの詳細な数値は示されていないが、決算評価は為替影響の中でも成長が揺らがなかったことに焦点を当てている。投資家は今後も為替変動が業績に与える影響を注視するとみられる。出典：Investing.com韓国語版。"
+      },
+      "zh": {
+        "title": "Ambu A/S发布2026年第二季度业绩，汇率逆风下仍保持稳健增长",
+        "excerpt": "Investing.com韩文版报道称，Ambu A/S在2026年第二季度业绩中显示，尽管面临汇率逆风，增长仍保持稳健。",
+        "body": "Ambu A/S发布2026年第二季度业绩，据称公司在汇率逆风下仍延续了稳健增长。此次业绩发布的核心在于，外汇波动构成压力，但公司的增长趋势仍得以保持。原文摘要未列出具体营收或利润数据，因此市场关注点集中在整体评价上，即在汇率影响存在的情况下，增长势头并未明显动摇。投资者后续可能继续关注汇率波动对公司业绩走向的影响。来源：Investing.com韩文版。"
+      },
+      "es": {
+        "title": "Ambu A/S presenta resultados del 2T de 2026 con crecimiento firme pese al tipo de cambio",
+        "excerpt": "Ambu A/S presentó sus resultados del segundo trimestre de 2026 y mantuvo un crecimiento sólido pese a los vientos en contra cambiarios, según Investing.com Corea.",
+        "body": "Ambu A/S presentó sus resultados del segundo trimestre de 2026 y, según el resumen de la fuente, mantuvo un crecimiento sólido pese a los vientos en contra derivados del tipo de cambio. El punto central del anuncio es que las fluctuaciones cambiarias actuaron como una carga, pero la trayectoria de crecimiento de la compañía se sostuvo. El resumen original no incluyó cifras detalladas de ingresos o beneficios, por lo que la evaluación se centra en la resistencia del crecimiento ante la presión cambiaria. Fuente: Investing.com Corea."
+      },
+      "pt": {
+        "title": "Ambu A/S divulga resultados do 2º tri de 2026 com crescimento sólido apesar do câmbio",
+        "excerpt": "A Ambu A/S divulgou os resultados do segundo trimestre de 2026, mantendo crescimento sólido apesar de ventos contrários cambiais, segundo o Investing.com Coreia.",
+        "body": "A Ambu A/S divulgou seus resultados do segundo trimestre de 2026 e, de acordo com o resumo da fonte, manteve crescimento sólido apesar dos ventos contrários cambiais. O ponto principal do anúncio é que a variação das moedas continuou sendo um fator de pressão, mas a trajetória de crescimento da empresa permaneceu firme. O resumo original não apresentou números detalhados de receita ou lucro, portanto a avaliação se concentra na resiliência do crescimento mesmo sob impacto cambial. Fonte: Investing.com Coreia."
+      },
+      "de": {
+        "title": "Ambu A/S meldet Q2-2026-Ergebnisse mit stabilem Wachstum trotz Währungsdruck",
+        "excerpt": "Ambu A/S hat die Ergebnisse für das zweite Quartal 2026 veröffentlicht und trotz Gegenwinds durch Wechselkurse solides Wachstum gezeigt, berichtete Investing.com Korea.",
+        "body": "Ambu A/S hat die Ergebnisse für das zweite Quartal 2026 veröffentlicht und laut der Quellenzusammenfassung trotz Gegenwinds durch Wechselkurse ein solides Wachstum erzielt. Im Mittelpunkt der Meldung steht, dass Währungsschwankungen zwar belastend wirkten, der Wachstumstrend des Unternehmens aber anhielt. Die ursprüngliche Zusammenfassung nennt keine detaillierten Umsatz- oder Gewinnzahlen, weshalb die Bewertung vor allem auf der Widerstandsfähigkeit des Wachstums trotz Devisendruck liegt. Quelle: Investing.com Korea."
+      },
+      "fr": {
+        "title": "Ambu A/S publie ses résultats du T2 2026 avec une croissance solide malgré le change",
+        "excerpt": "Ambu A/S a publié ses résultats du deuxième trimestre 2026, affichant une croissance solide malgré des vents contraires liés aux devises, selon Investing.com Corée.",
+        "body": "Ambu A/S a publié ses résultats du deuxième trimestre 2026 et, selon le résumé de la source, a conservé une croissance solide malgré des vents contraires liés aux taux de change. Le point central de l’annonce est que les fluctuations des devises ont pesé sur l’environnement, sans remettre en cause la dynamique de croissance de l’entreprise. Le résumé original ne fournit pas de chiffres détaillés sur le chiffre d’affaires ou le bénéfice, l’évaluation portant donc surtout sur la résilience de la croissance. Source : Investing.com Corée."
+      },
+      "ar": {
+        "title": "Ambu A/S تعلن نتائج الربع الثاني 2026 ونموها يبقى قويا رغم ضغوط العملات",
+        "excerpt": "أعلنت Ambu A/S نتائج الربع الثاني من 2026، وقالت Investing.com الكورية إن النمو ظل متماسكا رغم الرياح المعاكسة من أسعار الصرف.",
+        "body": "أعلنت Ambu A/S نتائجها للربع الثاني من عام 2026، ووفقا لملخص المصدر واصلت الشركة تحقيق نمو قوي رغم الرياح المعاكسة المرتبطة بأسعار الصرف. تكمن النقطة الرئيسية في الإعلان في أن تقلبات العملات شكلت عبئا على البيئة التشغيلية، لكن اتجاه النمو ظل قائما. ولم يتضمن الملخص الأصلي أرقاما تفصيلية للإيرادات أو الأرباح، لذلك يتركز التقييم على بقاء النمو متماسكا رغم ضغوط العملات. وقد يواصل المستثمرون متابعة تأثير تقلبات الصرف في الأداء المقبل. المصدر: Investing.com الكورية."
+      },
+      "hi": {
+        "title": "Ambu A/S के Q2 2026 नतीजे, करेंसी दबाव के बावजूद ठोस वृद्धि बरकरार",
+        "excerpt": "Ambu A/S ने 2026 की दूसरी तिमाही के नतीजे जारी किए, जिनमें विनिमय दरों की प्रतिकूलता के बावजूद ठोस वृद्धि बनी रही, Investing.com कोरिया ने बताया।",
+        "body": "Ambu A/S ने 2026 की दूसरी तिमाही के नतीजे जारी किए और स्रोत सारांश के अनुसार, विनिमय दरों की प्रतिकूलता के बावजूद कंपनी की वृद्धि ठोस बनी रही। इस घोषणा का मुख्य बिंदु यह है कि विदेशी मुद्रा में उतार-चढ़ाव दबाव का कारण रहा, फिर भी कंपनी की वृद्धि की दिशा कायम रही। मूल सारांश में राजस्व या लाभ के विस्तृत आंकड़े नहीं दिए गए, इसलिए आकलन इस बात पर केंद्रित है कि करेंसी दबाव के बीच भी वृद्धि कमजोर नहीं पड़ी। निवेशक आगे विनिमय दरों के असर पर नजर रख सकते हैं। स्रोत: Investing.com कोरिया."
+      },
+      "id": {
+        "title": "Ambu A/S Rilis Kinerja Kuartal II 2026, Tumbuh Solid Meski Tertekan Kurs",
+        "excerpt": "Ambu A/S merilis kinerja kuartal kedua 2026, dengan pertumbuhan tetap solid meski menghadapi hambatan nilai tukar, menurut Investing.com Korea.",
+        "body": "Ambu A/S merilis hasil kinerja kuartal kedua 2026 dan, menurut ringkasan sumber, tetap mencatat pertumbuhan solid meski menghadapi hambatan nilai tukar. Inti dari pengumuman ini adalah bahwa pergerakan valuta asing menjadi faktor tekanan, namun arah pertumbuhan perusahaan tetap terjaga. Ringkasan asli tidak memuat rincian angka pendapatan atau laba, sehingga penilaian berfokus pada ketahanan pertumbuhan di tengah tekanan kurs. Investor kemungkinan akan terus mencermati dampak volatilitas nilai tukar terhadap kinerja berikutnya. Sumber: Investing.com Korea."
+      }
+    }
+  },
+  {
+    "id": "61484ffb99ff",
+    "slug": "달러당-엔화-환율-순간-155엔대-뚝골든위크-막판-日-추가-개입-관측---vdaumnet-667577",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T10:31:20.859Z",
+    "updatedAt": "2026-05-06T10:31:20.860Z",
+    "sourceName": "v.daum.net",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01S2NmQjlGOTRkRlhySXpXem9RbVp4ZzZQTm90WXFoT3J5VHllcHpxRURQRWxrOHNabGlnTG5Gam14RW5GdU8tYUM5NkZYZnM?oc=5",
+    "canonicalUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01S2NmQjlGOTRkRlhySXpXem9RbVp4ZzZQTm90WXFoT3J5VHllcHpxRURQRWxrOHNabGlnTG5Gam14RW5GdU8tYUM5NkZYZnM?oc=5",
+    "titleFingerprint": "76def9c26980e175bdb4d483fe93a86e6d448bd1",
+    "dedupKeys": [
+      "61484ffb99ffb407a7995ce27c855cb2d7f70206",
+      "76def9c26980e175bdb4d483fe93a86e6d448bd1",
+      "35371fb948d13aa6acda7823cfa92e85680f2a12"
+    ],
+    "imageUrl": "/images/articles/61484ffb99ff.jpg",
+    "i18n": {
+      "ko": {
+        "title": "엔화 환율 155엔대 급락, 골든위크 막판 일본 추가 개입 관측",
+        "excerpt": "달러당 엔화 환율이 순간 155엔대로 떨어지며 골든위크 막판 일본 당국의 추가 외환시장 개입 가능성이 제기됐다고 v.daum.net이 전했다.",
+        "body": "달러당 엔화 환율이 순간적으로 155엔대까지 떨어지면서 일본 당국의 추가 외환시장 개입 가능성이 제기됐다. 보도에 따르면 이번 움직임은 일본 골든위크 막판에 나타났으며, 시장에서는 엔화 가치가 급격히 반등한 배경으로 당국의 개입 여부를 주목하고 있다. 앞서 엔화 약세가 이어진 가운데 환율이 단기간에 크게 움직이자 투자자들은 일본 외환당국의 대응 가능성을 다시 살피는 분위기다. 다만 실제 개입 여부와 규모는 원문에서 확인되지 않았다. 향후 달러·엔 환율은 일본 당국의 메시지와 시장의 개입 관측에 민감하게 반응할 전망이다. 출처: v.daum.net."
+      },
+      "en": {
+        "title": "Yen Rate Briefly Drops to 155 per Dollar as Japan Intervention Talk Grows",
+        "excerpt": "The yen briefly moved into the 155 range against the dollar, prompting speculation that Japanese authorities may have intervened again near the end of Golden Week, v.daum.net reported.",
+        "body": "The yen briefly fell into the 155 range per dollar, raising market speculation that Japanese authorities may have carried out another foreign-exchange intervention. According to the report, the move came near the end of Japan’s Golden Week holiday, and traders focused on whether official action was behind the sharp rebound in the yen. With yen weakness having persisted, the sudden short-term move prompted investors to reassess the possibility of a response from Japan’s currency authorities. The original report did not confirm whether intervention actually occurred or specify any amount. The dollar-yen rate is expected to remain sensitive to official signals and intervention speculation. Source: v.daum.net."
+      },
+      "ja": {
+        "title": "円相場が一時1ドル155円台へ急落、連休終盤の日本追加介入観測",
+        "excerpt": "ドル円相場が一時155円台まで下落し、ゴールデンウィーク終盤に日本当局が追加介入した可能性が市場で浮上したとv.daum.netが伝えた。",
+        "body": "ドルに対する円相場が一時155円台まで下落し、日本当局による追加の為替市場介入の可能性が市場で取り沙汰された。報道によると、この動きは日本のゴールデンウィーク終盤に発生し、急速な円高方向への動きの背景に当局の対応があったのかが注目された。円安が続いていた中で為替レートが短時間に大きく動いたため、投資家は日本の為替当局の対応可能性を改めて見極める状況となった。ただし、実際の介入の有無や規模は原文では確認されていない。今後のドル円相場は当局発言と介入観測に敏感に反応する見通しだ。出典: v.daum.net."
+      },
+      "zh": {
+        "title": "日元汇率一度跌至每美元155日元区间，日本追加干预猜测升温",
+        "excerpt": "日元兑美元汇率一度降至155日元区间，市场猜测日本当局或在黄金周尾声再次干预外汇市场，v.daum.net报道称。",
+        "body": "日元兑美元汇率一度跌至155日元区间，引发市场对日本当局可能再次干预外汇市场的猜测。报道显示，这一波动出现在日本黄金周尾声，交易员关注日元快速反弹背后是否存在官方行动。在此前日元持续走弱的背景下，汇率短时间内出现明显变化，使投资者重新评估日本外汇当局采取应对措施的可能性。不过，原文并未确认是否实际发生干预，也未说明具体规模。预计后续美元兑日元走势仍将对日本当局表态和干预猜测保持敏感。来源: v.daum.net."
+      },
+      "es": {
+        "title": "El yen cae brevemente a 155 por dólar y crece la hipótesis de intervención japonesa",
+        "excerpt": "El yen tocó momentáneamente la zona de 155 por dólar y aumentaron las especulaciones sobre una nueva intervención de Japón al final de la Golden Week, informó v.daum.net.",
+        "body": "El tipo de cambio del yen frente al dólar cayó momentáneamente a la zona de 155, lo que generó especulaciones sobre una posible nueva intervención de las autoridades japonesas en el mercado cambiario. Según el informe, el movimiento se produjo hacia el final de la Golden Week en Japón, y el mercado observó si una acción oficial pudo estar detrás del fuerte repunte del yen. Tras un periodo de debilidad de la moneda japonesa, el movimiento brusco en poco tiempo llevó a los inversores a revisar la posibilidad de una respuesta de las autoridades cambiarias. El texto original no confirmó si hubo intervención ni su tamaño. El dólar-yen podría seguir sensible a los mensajes oficiales y a esas especulaciones. Fuente: v.daum.net."
+      },
+      "pt": {
+        "title": "Iene cai brevemente para 155 por dólar e cresce aposta em intervenção do Japão",
+        "excerpt": "O iene chegou momentaneamente à faixa de 155 por dólar, elevando a especulação sobre nova intervenção japonesa no fim da Golden Week, informou v.daum.net.",
+        "body": "A taxa de câmbio do iene contra o dólar caiu momentaneamente para a faixa de 155, levantando especulações de que as autoridades japonesas possam ter feito nova intervenção no mercado de câmbio. Segundo a reportagem, o movimento ocorreu no fim da Golden Week no Japão, e o mercado passou a observar se uma ação oficial esteve por trás da forte recuperação do iene. Após a continuidade da fraqueza da moeda japonesa, a oscilação acentuada em curto prazo levou investidores a reavaliar a possibilidade de resposta das autoridades cambiais. O texto original não confirmou se a intervenção ocorreu nem indicou seu valor. O dólar-iene deve seguir sensível a mensagens oficiais e a rumores de intervenção. Fonte: v.daum.net."
+      },
+      "de": {
+        "title": "Yen rutscht kurz auf 155 je Dollar, Spekulation über Japans Eingriff nimmt zu",
+        "excerpt": "Der Yen fiel kurzzeitig in den Bereich von 155 je Dollar. Damit wuchsen Spekulationen über einen weiteren Eingriff Japans am Ende der Golden Week, berichtete v.daum.net.",
+        "body": "Der Yen-Kurs zum Dollar fiel vorübergehend in den Bereich von 155 und löste Spekulationen über einen möglichen weiteren Eingriff der japanischen Behörden am Devisenmarkt aus. Dem Bericht zufolge kam die Bewegung gegen Ende der japanischen Golden Week, wobei Marktteilnehmer prüften, ob offizielles Handeln hinter der schnellen Erholung des Yen stand. Nach anhaltender Yen-Schwäche veranlasste die starke kurzfristige Bewegung Investoren dazu, die Möglichkeit einer Reaktion der japanischen Währungsbehörden erneut zu bewerten. Der Originalbericht bestätigte weder, ob tatsächlich interveniert wurde, noch nannte er ein Volumen. Der Dollar-Yen-Kurs dürfte weiter empfindlich auf offizielle Signale und Interventionsvermutungen reagieren. Quelle: v.daum.net."
+      },
+      "fr": {
+        "title": "Le yen glisse brièvement vers 155 par dollar, soupçons d’intervention japonaise",
+        "excerpt": "Le yen est brièvement tombé dans la zone de 155 pour un dollar, alimentant l’hypothèse d’une nouvelle intervention japonaise en fin de Golden Week, selon v.daum.net.",
+        "body": "Le taux de change du yen face au dollar est brièvement tombé dans la zone de 155, ce qui a nourri les spéculations sur une possible nouvelle intervention des autorités japonaises sur le marché des changes. Selon l’article, ce mouvement est intervenu vers la fin de la Golden Week au Japon, et les opérateurs ont cherché à savoir si une action officielle expliquait le net rebond du yen. Après une période de faiblesse persistante de la devise japonaise, cette variation rapide a conduit les investisseurs à réexaminer la possibilité d’une réponse des autorités de change. Le texte original ne confirme pas l’existence d’une intervention ni son montant. Le dollar-yen devrait rester sensible aux messages officiels et aux spéculations d’intervention. Source: v.daum.net."
+      },
+      "ar": {
+        "title": "الين يهبط مؤقتا إلى نطاق 155 للدولار وسط حديث عن تدخل ياباني إضافي",
+        "excerpt": "هبط سعر الين مقابل الدولار مؤقتا إلى نطاق 155، ما أثار تكهنات بأن السلطات اليابانية ربما تدخلت مجددا في أواخر عطلة الأسبوع الذهبي، وفق v.daum.net.",
+        "body": "هبط سعر صرف الين مقابل الدولار مؤقتا إلى نطاق 155، ما أثار تكهنات في السوق بشأن احتمال قيام السلطات اليابانية بتدخل إضافي في سوق الصرف. ووفقا للتقرير، جاء هذا التحرك في أواخر عطلة الأسبوع الذهبي في اليابان، وركز المتعاملون على ما إذا كان تحرك رسمي يقف وراء الارتداد السريع في قيمة الين. وبعد استمرار ضعف العملة اليابانية، دفع التحرك الكبير خلال فترة قصيرة المستثمرين إلى إعادة تقييم احتمال رد من سلطات الصرف اليابانية. ولم يؤكد النص الأصلي ما إذا كان التدخل قد حدث فعلا أو حجمه. ومن المتوقع أن يبقى زوج الدولار والين حساسا لرسائل السلطات وتكهنات التدخل. المصدر: v.daum.net."
+      },
+      "hi": {
+        "title": "येन दर क्षणभर 155 प्रति डॉलर तक गिरी, जापान के अतिरिक्त हस्तक्षेप की अटकलें",
+        "excerpt": "डॉलर के मुकाबले येन क्षणभर 155 के दायरे में पहुंचा, जिससे गोल्डन वीक के अंत में जापानी अधिकारियों के फिर हस्तक्षेप की संभावना पर चर्चा बढ़ी, v.daum.net ने बताया।",
+        "body": "डॉलर के मुकाबले येन की विनिमय दर क्षणभर 155 के दायरे तक गिर गई, जिससे जापानी अधिकारियों द्वारा विदेशी मुद्रा बाजार में अतिरिक्त हस्तक्षेप की संभावना पर बाजार में अटकलें तेज हुईं। रिपोर्ट के अनुसार, यह हलचल जापान के गोल्डन वीक के अंतिम चरण में दिखाई दी, और बाजार ने इस बात पर ध्यान दिया कि येन में अचानक आए तेज उछाल के पीछे आधिकारिक कार्रवाई थी या नहीं। येन की कमजोरी जारी रहने के बाद कम समय में आई बड़ी चाल ने निवेशकों को जापान के मुद्रा अधिकारियों की प्रतिक्रिया की संभावना फिर से परखने पर मजबूर किया। मूल रिपोर्ट में वास्तविक हस्तक्षेप या उसके आकार की पुष्टि नहीं की गई। आगे डॉलर-येन दर आधिकारिक संकेतों और हस्तक्षेप संबंधी अटकलों पर संवेदनशील रह सकती है। स्रोत: v.daum.net."
+      },
+      "id": {
+        "title": "Yen Sempat Turun ke 155 per Dolar, Spekulasi Intervensi Jepang Menguat",
+        "excerpt": "Nilai tukar yen terhadap dolar sempat masuk kisaran 155, memicu dugaan bahwa otoritas Jepang kembali melakukan intervensi di akhir Golden Week, lapor v.daum.net.",
+        "body": "Nilai tukar yen terhadap dolar sempat turun ke kisaran 155, memunculkan spekulasi bahwa otoritas Jepang mungkin kembali melakukan intervensi di pasar valuta asing. Menurut laporan tersebut, pergerakan ini terjadi menjelang akhir Golden Week di Jepang, dan pelaku pasar menyoroti apakah tindakan resmi berada di balik penguatan cepat yen. Setelah pelemahan yen berlanjut, perubahan besar dalam waktu singkat membuat investor kembali menilai kemungkinan respons dari otoritas valuta Jepang. Namun, laporan asli tidak mengonfirmasi apakah intervensi benar-benar terjadi maupun berapa besar nilainya. Ke depan, kurs dolar-yen diperkirakan tetap sensitif terhadap pesan otoritas dan spekulasi intervensi. Sumber: v.daum.net."
+      }
+    }
+  },
+  {
     "id": "06417efc3b13",
     "slug": "달러-원-장중-1450원대-후반으로-하락弱달러코스피-초강세상보---연합인포맥스-307884",
     "channelId": "FX",
