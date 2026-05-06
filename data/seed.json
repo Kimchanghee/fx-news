@@ -1,5 +1,230 @@
 [
   {
+    "id": "0f381e6892b1",
+    "slug": "eu-中인버터-퇴출-k전력기기-호재-565936",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T13:33:59.374Z",
+    "updatedAt": "2026-05-06T13:33:59.374Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12037692",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12037692",
+    "titleFingerprint": "7d87b988acb0d4ba44c563c56915ba46fc886de5",
+    "dedupKeys": [
+      "0f381e6892b1e30be29696aea975aad8a925ac43",
+      "7d87b988acb0d4ba44c563c56915ba46fc886de5",
+      "30398558804db76acc2dcdfd65849ef013af8a61"
+    ],
+    "imageUrl": "/images/articles/0f381e6892b1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "EU 중국산 인버터 퇴출 움직임, K전력기기 기업에 반사이익 기대",
+        "excerpt": "유럽연합(EU)이 에너지 안보상 잠재적 위협을 이유로 중국 등 고위험 국가에서 제작된 전력기기 사용에 제동을 걸면서 국내 전력기기 기업의 수혜 가능성이 거론된다.",
+        "body": "유럽연합(EU)이 에너지 안보에 잠재적 위협을 초래할 수 있다는 판단에 따라 중국을 비롯한 고위험 국가에서 제작된 전력기기 사용에 제동을 걸고 있다. 이번 조치는 전력망과 에너지 설비의 안정성을 중시하는 흐름 속에서 나온 것으로, 중국산 인버터 등 특정 전력기기의 사용 제한 가능성이 핵심이다. 원문에는 구체적인 적용 시점이나 대상 기업, 물량 규모는 제시되지 않았다. 다만 EU의 규제가 현실화되면 고위험 국가 제품을 대체할 공급처가 필요해질 수 있어 국내 전력기기 기업이 반사이익을 볼 수 있다는 관측이 나온다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "EU Moves to Curb Chinese Inverters, Lifting Prospects for Korean Power Gear",
+        "excerpt": "The European Union is moving to restrict power equipment made in China and other high-risk countries over potential energy security threats, raising possible benefits for Korean power equipment firms.",
+        "body": "The European Union is putting the brakes on the use of power equipment made in China and other high-risk countries, judging that such products could pose potential threats to energy security. The move comes as the bloc places greater weight on the stability of power grids and energy facilities, with possible limits on certain equipment such as Chinese-made inverters at the center of attention. The original report did not provide a specific implementation date, list of affected companies, or volume figures. If the EU rules take shape, alternative suppliers may be needed to replace products from high-risk countries, creating potential spillover benefits for Korean power equipment companies. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "EUが中国製インバーター排除へ、韓国電力機器企業に追い風",
+        "excerpt": "欧州連合（EU）はエネルギー安全保障上の潜在的脅威を理由に、中国など高リスク国で製造された電力機器の使用に歯止めをかけ、韓国企業の受益可能性が浮上している。",
+        "body": "欧州連合（EU）は、エネルギー安全保障に潜在的な脅威をもたらす可能性があるとの判断から、中国をはじめとする高リスク国で製造された電力機器の使用に歯止めをかけている。今回の動きは、電力網とエネルギー設備の安定性を重視する流れの中で出たもので、中国製インバーターなど特定の電力機器の使用制限の可能性が焦点となっている。原文では具体的な適用時期、対象企業、数量規模は示されていない。ただしEUの規制が現実化すれば、高リスク国製品を代替する供給先が必要となる可能性があり、韓国の電力機器企業が反射的な利益を得るとの見方が出ている。出所：mk.co.kr"
+      },
+      "zh": {
+        "title": "欧盟拟限制中国逆变器，韩国电力设备企业或受益",
+        "excerpt": "欧盟以能源安全存在潜在威胁为由，正在限制使用中国等高风险国家制造的电力设备，韩国电力设备企业由此被认为可能获得间接受益。",
+        "body": "欧盟认为，来自中国等高风险国家制造的电力设备可能对能源安全造成潜在威胁，因此正在对相关设备的使用踩下刹车。这一举措出现在欧盟更加重视电网和能源设施稳定性的背景下，核心在于中国制造逆变器等特定电力设备可能受到限制。原文未提出具体实施时间、涉及企业名单或数量规模。不过，如果欧盟监管措施落地，市场可能需要替代高风险国家产品的供应来源，韩国电力设备企业因此被认为有机会获得反射性利益。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "La UE frena inversores chinos y abre una oportunidad para equipos eléctricos coreanos",
+        "excerpt": "La Unión Europea busca limitar el uso de equipos eléctricos fabricados en China y otros países de alto riesgo por posibles amenazas a la seguridad energética, lo que podría beneficiar a firmas coreanas.",
+        "body": "La Unión Europea está frenando el uso de equipos eléctricos fabricados en China y otros países considerados de alto riesgo, al estimar que podrían generar amenazas potenciales para la seguridad energética. La medida surge en un contexto de mayor atención a la estabilidad de las redes eléctricas y las instalaciones energéticas, con posibles restricciones a equipos específicos como los inversores chinos. El texto original no presentó una fecha concreta de aplicación, empresas afectadas ni cifras de volumen. Si la regulación de la UE se materializa, podrían necesitarse proveedores alternativos para sustituir productos de países de alto riesgo, lo que abre la posibilidad de beneficios indirectos para las empresas coreanas de equipos eléctricos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "UE restringe inversores chineses e pode favorecer equipamentos elétricos coreanos",
+        "excerpt": "A União Europeia avança para limitar o uso de equipamentos elétricos fabricados na China e em outros países de alto risco por possíveis ameaças à segurança energética, criando possível ganho para empresas coreanas.",
+        "body": "A União Europeia está impondo freios ao uso de equipamentos elétricos fabricados na China e em outros países considerados de alto risco, ao avaliar que eles podem representar ameaças potenciais à segurança energética. A medida ocorre em meio à maior ênfase na estabilidade das redes elétricas e das instalações de energia, com possíveis restrições a equipamentos específicos como inversores chineses. O texto original não informou data concreta de aplicação, empresas atingidas nem escala de volume. Se a regulação da UE se concretizar, poderão ser necessários fornecedores alternativos para substituir produtos de países de alto risco, o que pode gerar benefícios indiretos para empresas coreanas de equipamentos elétricos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "EU bremst chinesische Wechselrichter, Chancen für koreanische Stromtechnik",
+        "excerpt": "Die Europäische Union will den Einsatz von Stromtechnik aus China und anderen Hochrisikoländern wegen möglicher Gefahren für die Energiesicherheit einschränken, was koreanischen Anbietern zugutekommen könnte.",
+        "body": "Die Europäische Union bremst den Einsatz von Stromtechnik, die in China und anderen Hochrisikoländern hergestellt wurde, weil sie darin potenzielle Risiken für die Energiesicherheit sieht. Der Schritt steht im Zusammenhang mit dem stärkeren Fokus auf die Stabilität von Stromnetzen und Energieanlagen; im Mittelpunkt stehen mögliche Beschränkungen für bestimmte Geräte wie chinesische Wechselrichter. Der Originalbericht nennt keinen konkreten Zeitpunkt der Umsetzung, keine betroffenen Unternehmen und keine Mengenangaben. Sollten die EU-Regeln Realität werden, könnten alternative Lieferanten nötig werden, um Produkte aus Hochrisikoländern zu ersetzen. Dadurch könnten koreanische Hersteller von Stromtechnik indirekt profitieren. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’UE freine les onduleurs chinois, une opportunité pour l’équipement électrique coréen",
+        "excerpt": "L’Union européenne veut limiter l’usage d’équipements électriques fabriqués en Chine et dans d’autres pays à haut risque, au nom de la sécurité énergétique, ce qui pourrait profiter aux entreprises coréennes.",
+        "body": "L’Union européenne met un frein à l’utilisation d’équipements électriques fabriqués en Chine et dans d’autres pays considérés comme à haut risque, estimant qu’ils pourraient créer des menaces potentielles pour la sécurité énergétique. Cette décision s’inscrit dans un contexte où la stabilité des réseaux électriques et des installations énergétiques devient prioritaire, avec de possibles restrictions visant certains équipements comme les onduleurs chinois. Le texte original ne précise pas de date d’application, d’entreprises concernées ni de volumes. Si la réglementation européenne se concrétise, des fournisseurs alternatifs pourraient être nécessaires pour remplacer les produits des pays à haut risque, ouvrant une possibilité de bénéfices indirects pour les entreprises coréennes d’équipements électriques. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "الاتحاد الأوروبي يحد من العواكس الصينية ويفتح فرصة لمعدات الطاقة الكورية",
+        "excerpt": "يتجه الاتحاد الأوروبي إلى تقييد استخدام معدات الطاقة المصنوعة في الصين ودول أخرى عالية المخاطر بسبب تهديدات محتملة لأمن الطاقة، ما قد يمنح شركات المعدات الكهربائية الكورية مكاسب غير مباشرة.",
+        "body": "يضع الاتحاد الأوروبي قيودا على استخدام معدات الطاقة المصنوعة في الصين ودول أخرى مصنفة عالية المخاطر، بعدما رأى أنها قد تشكل تهديدات محتملة لأمن الطاقة. تأتي هذه الخطوة في سياق تركيز أكبر على استقرار شبكات الكهرباء ومنشآت الطاقة، مع احتمال تقييد معدات محددة مثل العواكس الصينية. ولم يذكر النص الأصلي موعدا محددا للتطبيق أو أسماء الشركات المعنية أو حجم الكميات. وإذا تحولت قواعد الاتحاد الأوروبي إلى واقع، فقد تبرز حاجة إلى موردين بدلاء يحلون محل منتجات الدول عالية المخاطر، ما يفتح احتمال استفادة غير مباشرة لشركات معدات الطاقة الكورية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ईयू चीनी इन्वर्टर पर रोक की ओर, कोरियाई बिजली उपकरण कंपनियों को लाभ की उम्मीद",
+        "excerpt": "यूरोपीय संघ ऊर्जा सुरक्षा के संभावित खतरे के कारण चीन और अन्य उच्च जोखिम वाले देशों में बने बिजली उपकरणों के इस्तेमाल पर अंकुश लगा रहा है, जिससे कोरियाई कंपनियों को अप्रत्यक्ष लाभ मिल सकता है।",
+        "body": "यूरोपीय संघ ने ऊर्जा सुरक्षा के लिए संभावित खतरे का आकलन करते हुए चीन और अन्य उच्च जोखिम वाले देशों में बने बिजली उपकरणों के इस्तेमाल पर अंकुश लगाना शुरू किया है। यह कदम बिजली ग्रिड और ऊर्जा सुविधाओं की स्थिरता को अधिक महत्व देने की पृष्ठभूमि में आया है, जिसमें चीनी इन्वर्टर जैसे खास बिजली उपकरणों के उपयोग पर संभावित सीमाएं मुख्य मुद्दा हैं। मूल रिपोर्ट में लागू होने की सटीक तारीख, प्रभावित कंपनियों या मात्रा से जुड़े आंकड़े नहीं दिए गए। यदि ईयू का नियमन लागू होता है, तो उच्च जोखिम वाले देशों के उत्पादों की जगह वैकल्पिक आपूर्तिकर्ताओं की जरूरत पड़ सकती है, जिससे कोरियाई बिजली उपकरण कंपनियों को अप्रत्यक्ष लाभ मिलने की संभावना जताई जा रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "UE Batasi Inverter China, Peluang Terbuka bagi Peralatan Listrik Korea",
+        "excerpt": "Uni Eropa menahan penggunaan peralatan listrik buatan China dan negara berisiko tinggi lain karena potensi ancaman terhadap keamanan energi, sehingga perusahaan peralatan listrik Korea berpeluang diuntungkan.",
+        "body": "Uni Eropa mulai menahan penggunaan peralatan listrik yang dibuat di China dan negara-negara berisiko tinggi lainnya karena dinilai dapat menimbulkan ancaman potensial terhadap keamanan energi. Langkah ini muncul ketika stabilitas jaringan listrik dan fasilitas energi semakin menjadi perhatian, dengan kemungkinan pembatasan pada perangkat tertentu seperti inverter buatan China. Laporan asli tidak menyebutkan waktu penerapan yang spesifik, perusahaan yang terdampak, ataupun skala volume. Jika aturan UE benar-benar berlaku, pasar mungkin membutuhkan pemasok alternatif untuk menggantikan produk dari negara berisiko tinggi, sehingga perusahaan peralatan listrik Korea berpotensi memperoleh manfaat tidak langsung. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "362adfcc08de",
+    "slug": "삼성디스플레이-美전역서-인재-채용-433905",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T13:32:43.663Z",
+    "updatedAt": "2026-05-06T13:32:43.663Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12037693",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12037693",
+    "titleFingerprint": "b0ea7085577164145052c4628003e09ffd228b50",
+    "dedupKeys": [
+      "362adfcc08de9882b2d960d823f41e44f3f89671",
+      "b0ea7085577164145052c4628003e09ffd228b50",
+      "286f02b960723f03ca2956aa0943ea04aba8262c"
+    ],
+    "imageUrl": "/images/articles/362adfcc08de.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성디스플레이 미국 전역 채용 확대, 글로벌 인재 확보 속도",
+        "excerpt": "삼성디스플레이가 미래 산업 경쟁력 강화를 위해 미국 내 채용 거점을 서부 지역에서 대륙 전역으로 넓히며 글로벌 인재 확보 프로그램을 확대했다.",
+        "body": "삼성디스플레이가 미래 산업의 초격차를 이끌 글로벌 인재를 확보하기 위해 미국 전역으로 채용 프로그램을 확대했다. 이번 움직임은 미국 내 채용 거점을 기존 서부 지역 중심에서 대륙 전역으로 넓힌 것이 핵심이다. 회사는 글로벌 인재 확보를 위한 채용 활동을 강화하며 미래 산업 경쟁력 기반을 다지는 데 나섰다. 구체적인 채용 규모나 세부 직무는 원문에서 공개되지 않았다. 이번 확대는 미국 전역의 우수 인재와 접점을 늘려 중장기 성장 동력을 확보하려는 흐름으로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Display Expands U.S. Hiring Nationwide to Secure Global Talent",
+        "excerpt": "Samsung Display has expanded its U.S. recruitment base from the West Coast to the entire country as part of a broader program to secure global talent for future industry leadership.",
+        "body": "Samsung Display has expanded its recruitment program across the United States to secure global talent that can lead future industrial competitiveness. The key change is the expansion of its U.S. hiring base beyond the existing western region to the entire continent. The company is strengthening recruitment activities aimed at attracting global talent and building a foundation for competitiveness in future industries. The original report did not disclose specific hiring numbers or detailed job categories. The expansion is seen as a move to increase contact with top talent across the United States and support mid- to long-term growth momentum. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスンディスプレイ、米国全域で採用拡大しグローバル人材確保へ",
+        "excerpt": "サムスンディスプレイは未来産業の競争力強化に向け、米国内の採用拠点を西部中心から全土へ広げ、グローバル人材確保プログラムを拡大した。",
+        "body": "サムスンディスプレイは、未来産業で超格差をけん引するグローバル人材を確保するため、米国全域で採用プログラムを拡大した。今回の動きの中心は、米国内の採用拠点を従来の西部地域中心から大陸全域へ広げた点にある。同社はグローバル人材の獲得に向けた採用活動を強化し、未来産業における競争力の基盤づくりに乗り出した。具体的な採用規模や詳細な職務内容は原文では明らかにされていない。今回の拡大は、米国全域の優秀な人材との接点を増やし、中長期的な成長動力を確保する流れと受け止められる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星显示扩大美国全境招聘，加快 확보全球人才",
+        "excerpt": "三星显示为强化未来产业竞争力，将美国招聘据点从西部地区扩展至全境，并扩大面向全球人才 확보的招聘项目。",
+        "body": "三星显示为 확보能够引领未来产业超差距竞争力的全球人才，已将招聘项目扩大至美国全境。此次举措的核心，是把美国境内招聘据点从原本以西部地区为中心，扩展到整个大陆。公司正在加强面向全球人才的招聘活动，以夯实未来产业竞争力基础。原文未公开具体招聘规模或详细岗位类别。此次扩大招聘被视为增加与美国全境优秀人才接触、 확보中长期增长动力的举措。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Display amplía la contratación en todo EE. UU. para atraer talento global",
+        "excerpt": "Samsung Display amplió sus bases de contratación en Estados Unidos, desde la región oeste a todo el país, para reforzar su programa de captación de talento global.",
+        "body": "Samsung Display amplió su programa de contratación a todo Estados Unidos para asegurar talento global capaz de liderar la competitividad de las industrias del futuro. El cambio central es que sus bases de contratación en el país dejan de concentrarse solo en la región oeste y pasan a abarcar todo el continente. La compañía refuerza así sus actividades de reclutamiento de talento global y busca consolidar una base de competitividad para sectores futuros. El informe original no detalló el volumen de contrataciones ni las funciones específicas. La expansión se interpreta como un esfuerzo por ampliar el contacto con talento destacado en todo Estados Unidos y respaldar motores de crecimiento a medio y largo plazo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Display amplia contratações nos EUA para atrair talentos globais",
+        "excerpt": "A Samsung Display expandiu suas bases de recrutamento nos EUA da região oeste para todo o país, ampliando o programa de captação de talentos globais para futuras indústrias.",
+        "body": "A Samsung Display ampliou seu programa de recrutamento para todo os Estados Unidos a fim de garantir talentos globais capazes de liderar a competitividade das indústrias do futuro. O ponto central da iniciativa é a expansão das bases de contratação no país, antes concentradas na região oeste, para todo o continente. A empresa está reforçando as atividades de recrutamento voltadas à captação de talentos globais e à construção de uma base competitiva para setores futuros. O relatório original não divulgou o número de vagas nem funções específicas. A ampliação é vista como uma forma de aumentar o contato com profissionais qualificados em todo os EUA e apoiar motores de crescimento de médio e longo prazo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Display weitet US-Rekrutierung landesweit zur Talentsuche aus",
+        "excerpt": "Samsung Display erweitert seine US-Rekrutierungsstandorte von der Westregion auf das ganze Land, um sein Programm zur Gewinnung globaler Talente für Zukunftsbranchen zu stärken.",
+        "body": "Samsung Display hat sein Rekrutierungsprogramm auf die gesamten Vereinigten Staaten ausgeweitet, um globale Talente zu gewinnen, die die Wettbewerbsfähigkeit künftiger Industrien vorantreiben können. Kern der Maßnahme ist, dass die US-Rekrutierungsbasis nicht mehr nur auf die westliche Region beschränkt ist, sondern den gesamten Kontinent umfasst. Das Unternehmen verstärkt damit seine Aktivitäten zur Gewinnung globaler Fachkräfte und will eine Grundlage für Wettbewerbsfähigkeit in Zukunftsbranchen schaffen. Konkrete Einstellungszahlen oder detaillierte Aufgabenbereiche wurden im Originalbericht nicht genannt. Die Ausweitung gilt als Schritt, um den Kontakt zu qualifizierten Talenten in den gesamten USA zu erhöhen und mittel- bis langfristige Wachstumskräfte zu sichern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Display étend son recrutement à tous les États-Unis pour attirer les talents",
+        "excerpt": "Samsung Display a élargi ses bases de recrutement américaines de l’Ouest à l’ensemble du pays afin de renforcer son programme de recherche de talents mondiaux.",
+        "body": "Samsung Display a élargi son programme de recrutement à l’ensemble des États-Unis afin de 확보 des talents mondiaux capables de porter la compétitivité des industries de demain. Le point central de cette initiative est l’extension des bases de recrutement américaines, auparavant centrées sur l’Ouest, à tout le continent. L’entreprise renforce ainsi ses activités de recrutement de talents internationaux et cherche à bâtir une base de compétitivité pour les secteurs futurs. Le rapport d’origine ne précise pas le volume des embauches ni les postes concernés. Cette expansion est perçue comme une manière d’accroître les contacts avec des talents qualifiés dans tout le pays et de soutenir des moteurs de croissance à moyen et long terme. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ ديسبلاي توسع التوظيف في كل الولايات المتحدة لجذب المواهب العالمية",
+        "excerpt": "وسعت سامسونغ ديسبلاي مراكز التوظيف في الولايات المتحدة من المنطقة الغربية إلى كامل البلاد، ضمن برنامج أوسع لاستقطاب المواهب العالمية لصناعات المستقبل.",
+        "body": "وسعت سامسونغ ديسبلاي برنامج التوظيف ليشمل كامل الولايات المتحدة بهدف 확보 مواهب عالمية قادرة على قيادة التنافسية في صناعات المستقبل. ويتمثل جوهر الخطوة في توسيع قاعدة التوظيف داخل الولايات المتحدة من التركيز السابق على المنطقة الغربية إلى كامل القارة. وتعمل الشركة على تعزيز أنشطة التوظيف الموجهة لاستقطاب المواهب العالمية وبناء أساس للتنافسية في الصناعات المستقبلية. ولم يذكر التقرير الأصلي حجم التوظيف المحدد أو تفاصيل الوظائف. وتعد هذه الخطوة توسيعا لنقاط التواصل مع الكفاءات المتميزة في أنحاء الولايات المتحدة ودعما لمحركات النمو على المدى المتوسط والطويل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Display ने वैश्विक प्रतिभा के लिए पूरे अमेरिका में भर्ती बढ़ाई",
+        "excerpt": "Samsung Display ने भविष्य की औद्योगिक प्रतिस्पर्धा मजबूत करने के लिए अमेरिका में भर्ती केंद्रों को पश्चिमी क्षेत्र से पूरे देश तक फैलाते हुए वैश्विक प्रतिभा कार्यक्रम बढ़ाया।",
+        "body": "Samsung Display ने भविष्य के उद्योगों में बढ़त दिलाने वाली वैश्विक प्रतिभा 확보 करने के लिए अपना भर्ती कार्यक्रम पूरे अमेरिका में विस्तारित किया है। इस कदम का मुख्य बिंदु यह है कि कंपनी ने अमेरिका में भर्ती आधार को पहले के पश्चिमी क्षेत्र से बढ़ाकर पूरे महाद्वीप तक फैला दिया है। कंपनी वैश्विक प्रतिभा आकर्षित करने वाली भर्ती गतिविधियों को मजबूत कर रही है और भविष्य के उद्योगों में प्रतिस्पर्धी आधार बनाना चाहती है। मूल रिपोर्ट में भर्ती की संख्या या विस्तृत पदों की जानकारी नहीं दी गई। यह विस्तार पूरे अमेरिका में योग्य प्रतिभाओं से संपर्क बढ़ाने और मध्यम से दीर्घ अवधि के विकास आधार को मजबूत करने की दिशा में देखा जा रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Display Perluas Rekrutmen AS Nasional demi Talenta Global",
+        "excerpt": "Samsung Display memperluas basis rekrutmen di AS dari wilayah barat ke seluruh negeri untuk memperkuat program perekrutan talenta global bagi industri masa depan.",
+        "body": "Samsung Display memperluas program rekrutmen ke seluruh Amerika Serikat untuk 확보 talenta global yang dapat memimpin daya saing industri masa depan. Inti langkah ini adalah perluasan basis perekrutan di AS, dari yang sebelumnya berpusat di wilayah barat menjadi mencakup seluruh benua. Perusahaan memperkuat aktivitas rekrutmen untuk menarik talenta global dan membangun fondasi daya saing di industri masa depan. Laporan asli tidak mengungkap jumlah perekrutan atau rincian posisi. Perluasan ini dipandang sebagai upaya menambah titik kontak dengan talenta unggul di seluruh AS dan mendukung momentum pertumbuhan jangka menengah hingga panjang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "6e2c4a436dfb",
+    "slug": "항공-꿈나무-키우는-대한항공아시아나-211720",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T13:31:43.975Z",
+    "updatedAt": "2026-05-06T13:31:43.975Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12037713",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12037713",
+    "titleFingerprint": "38ddafdd9172bd101c6dfbd987f3704d6884a792",
+    "dedupKeys": [
+      "6e2c4a436dfbc0fe0a8c6cd2acfa7c919da7c8fb",
+      "38ddafdd9172bd101c6dfbd987f3704d6884a792",
+      "e61ee34c8beaa02a8e87a0ca217d84ee3113c8fa"
+    ],
+    "imageUrl": "/images/articles/6e2c4a436dfb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "대한항공·아시아나, 통합 항공사 출범 앞두고 미래 항공 꿈나무 지원에 함께 나섰다",
+        "excerpt": "대한항공과 아시아나항공은 통합 항공사 출범을 앞두고 미래 항공 인재 지원에 함께 나서며, 임직원 합동 교류를 통해 조직 간 화학적 결합에 속도를 내고 있다.",
+        "body": "6일 항공업계에 따르면 대한항공과 아시아나항공은 통합 항공사 출범을 앞두고 미래 항공 꿈나무를 위해 함께 움직이고 있다. 양사는 항공 분야에 관심을 가진 미래 인재를 지원하는 활동을 통해 통합 이후를 준비하는 모습을 보였다. 최근 양사 임직원은 합동 스킨십을 활발히 이어가며 조직 간 거리 좁히기에 나섰고, 이는 통합 항공사 출범 전 화학적 결합을 앞당기는 과정으로 해석된다. 대한항공과 아시아나항공의 협력은 항공 인재 육성과 내부 교류라는 두 축에서 의미를 갖는다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korean Air and Asiana Team Up to Support Future Aviation Talent Ahead of Merger",
+        "excerpt": "Korean Air and Asiana Airlines are working together to support future aviation talent ahead of their integrated carrier launch, while employees increase joint exchanges to speed cultural integration.",
+        "body": "According to the aviation industry on the 6th, Korean Air and Asiana Airlines are joining forces for future aviation hopefuls ahead of the launch of an integrated carrier. The two airlines are preparing for the post-integration phase by supporting young people interested in aviation. Recently, employees from both companies have continued active joint interaction, narrowing the distance between the organizations. This is seen as part of efforts to accelerate chemical integration before the combined airline begins operations. The cooperation between Korean Air and Asiana Airlines is significant in two areas: nurturing future aviation talent and strengthening internal exchange. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "大韓航空とアシアナ、統合航空会社発足を前に未来の航空人材支援で連携",
+        "excerpt": "大韓航空とアシアナ航空は統合航空会社の発足を控え、未来の航空人材支援で協力し、社員同士の共同交流を通じて組織の化学的結合を急いでいる。",
+        "body": "航空業界が6日に明らかにしたところによると、大韓航空とアシアナ航空は統合航空会社の発足を前に、未来の航空人材のために協力している。両社は航空分野に関心を持つ若い人材を支援する活動を通じ、統合後を見据えた準備を進めている。最近は両社の役職員が共同で交流を活発に続け、組織間の距離を縮めている。これは統合航空会社の発足前に化学的結合を早める過程と受け止められる。大韓航空とアシアナ航空の協力は、航空人材の育成と社内交流の強化という二つの面で意味を持つ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "大韩航空与韩亚航空联手培养未来航空人才，迎接整合航司启航",
+        "excerpt": "大韩航空和韩亚航空在整合航空公司成立前携手支持未来航空人才，并通过员工联合交流加快两家公司之间的组织融合。",
+        "body": "据航空业界6日消息，大韩航空和韩亚航空在整合航空公司成立前，正共同为未来航空人才开展相关行动。两家公司通过支持对航空领域感兴趣的年轻人才，为整合后的阶段做准备。近期，双方员工持续开展积极的联合交流，努力缩短组织之间的距离。这被视为整合航空公司正式出发前，加快化学融合的过程。大韩航空和韩亚航空的合作，在培养航空人才和加强内部交流两个方面具有意义。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Korean Air y Asiana se unen para apoyar talento aeronáutico antes de su integración",
+        "excerpt": "Korean Air y Asiana Airlines colaboran para apoyar a futuros talentos de la aviación antes del lanzamiento de la aerolínea integrada, mientras sus empleados intensifican intercambios conjuntos.",
+        "body": "Según la industria aérea el día 6, Korean Air y Asiana Airlines están actuando juntas por los futuros aspirantes de la aviación antes del lanzamiento de la aerolínea integrada. Ambas compañías se preparan para la etapa posterior a la integración mediante actividades de apoyo a jóvenes interesados en el sector aéreo. Recientemente, empleados de las dos empresas han mantenido intercambios conjuntos activos para reducir la distancia entre organizaciones. Esto se interpreta como parte del proceso para acelerar la integración química antes de la salida de la aerolínea combinada. La cooperación de Korean Air y Asiana Airlines tiene sentido en dos ejes: formar talento aeronáutico y reforzar el intercambio interno. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Korean Air e Asiana se unem para apoiar futuros talentos da aviação antes da integração",
+        "excerpt": "Korean Air e Asiana Airlines estão apoiando juntas futuros talentos da aviação antes do lançamento da companhia aérea integrada, enquanto funcionários ampliam intercâmbios conjuntos.",
+        "body": "Segundo o setor aéreo no dia 6, Korean Air e Asiana Airlines estão atuando juntas pelos futuros talentos da aviação antes do lançamento da companhia aérea integrada. As duas empresas se preparam para o período pós-integração por meio de atividades de apoio a jovens interessados na área aérea. Recentemente, funcionários de ambas as companhias vêm mantendo interações conjuntas ativas para reduzir a distância entre as organizações. Isso é visto como parte do processo para acelerar a integração química antes da estreia da companhia combinada. A cooperação entre Korean Air e Asiana Airlines tem significado em dois eixos: formação de talentos da aviação e fortalecimento do intercâmbio interno. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Korean Air und Asiana fördern vor geplanter Integration gemeinsam Luftfahrt-Nachwuchs",
+        "excerpt": "Korean Air und Asiana Airlines unterstützen vor dem Start der integrierten Fluggesellschaft gemeinsam künftige Luftfahrt-Talente und beschleunigen durch Mitarbeiteraustausch die Annäherung.",
+        "body": "Nach Angaben der Luftfahrtbranche vom 6. arbeiten Korean Air und Asiana Airlines vor dem Start einer integrierten Fluggesellschaft gemeinsam für künftige Luftfahrt-Talente. Beide Unternehmen bereiten sich auf die Zeit nach der Integration vor, indem sie junge Menschen mit Interesse an der Luftfahrt unterstützen. Zuletzt setzten Beschäftigte beider Seiten ihre gemeinsamen Begegnungen aktiv fort und verringerten so die Distanz zwischen den Organisationen. Dies wird als Teil eines Prozesses verstanden, der die chemische Integration vor dem Start der gemeinsamen Airline beschleunigt. Die Zusammenarbeit von Korean Air und Asiana Airlines ist in zwei Punkten bedeutsam: Nachwuchsförderung in der Luftfahrt und Stärkung des internen Austauschs. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Korean Air et Asiana s’allient pour soutenir les futurs talents de l’aviation avant l’intégration",
+        "excerpt": "Korean Air et Asiana Airlines coopèrent pour soutenir les futurs talents de l’aviation avant le lancement de leur compagnie intégrée, tout en multipliant les échanges entre employés.",
+        "body": "Selon le secteur aérien le 6, Korean Air et Asiana Airlines agissent ensemble pour les futurs talents de l’aviation avant le lancement de la compagnie aérienne intégrée. Les deux entreprises préparent l’après-intégration grâce à des actions de soutien destinées aux jeunes intéressés par l’aviation. Récemment, les employés des deux compagnies ont poursuivi activement des échanges conjoints afin de réduire la distance entre les organisations. Cette démarche est interprétée comme un processus visant à accélérer l’intégration chimique avant le lancement du transporteur combiné. La coopération entre Korean Air et Asiana Airlines a du sens sur deux axes: former les talents de l’aviation et renforcer les échanges internes. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الخطوط الكورية وآسيانا تدعمان مواهب الطيران قبل إطلاق الناقل الموحّد",
+        "excerpt": "تتعاون الخطوط الجوية الكورية وآسيانا لدعم مواهب الطيران المستقبلية قبل إطلاق شركة الطيران الموحّدة، مع تكثيف الموظفين للتواصل المشترك لتسريع الاندماج التنظيمي.",
+        "body": "بحسب قطاع الطيران في اليوم السادس، تتحرك الخطوط الجوية الكورية وآسيانا إيرلاينز معا من أجل المواهب المستقبلية في مجال الطيران قبل إطلاق شركة الطيران الموحّدة. وتستعد الشركتان لمرحلة ما بعد الاندماج عبر أنشطة تدعم الشباب المهتمين بقطاع الطيران. وفي الآونة الأخيرة، واصل موظفو الشركتين تواصلا مشتركا نشطا لتقليص المسافة بين المؤسستين. ويُنظر إلى ذلك كجزء من عملية تسريع الاندماج الكيميائي قبل بدء عمل الناقل الموحّد. ويحمل تعاون الخطوط الكورية وآسيانا معنى في محورين: تنمية مواهب الطيران وتعزيز التواصل الداخلي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Korean Air और Asiana ने एकीकृत एयरलाइन से पहले भविष्य के विमानन प्रतिभाओं को समर्थन दिया",
+        "excerpt": "Korean Air और Asiana Airlines एकीकृत एयरलाइन शुरू होने से पहले भविष्य की विमानन प्रतिभाओं को समर्थन देने के लिए साथ आई हैं, जबकि कर्मचारियों के संयुक्त संवाद से संगठनात्मक मेल तेज हो रहा है।",
+        "body": "विमानन उद्योग के अनुसार 6 तारीख को, Korean Air और Asiana Airlines एकीकृत एयरलाइन के शुभारंभ से पहले भविष्य के विमानन सपने देखने वालों के लिए साथ काम कर रही हैं। दोनों कंपनियां विमानन क्षेत्र में रुचि रखने वाली युवा प्रतिभाओं को समर्थन देने वाली गतिविधियों के जरिए एकीकरण के बाद के चरण की तैयारी कर रही हैं। हाल में दोनों कंपनियों के कर्मचारियों ने संयुक्त संपर्क सक्रिय रूप से जारी रखा है और संगठनों के बीच दूरी कम करने की कोशिश की है। इसे संयुक्त एयरलाइन के शुरू होने से पहले रासायनिक एकीकरण को तेज करने की प्रक्रिया माना जा रहा है। Korean Air और Asiana Airlines का सहयोग दो पक्षों में मायने रखता है: विमानन प्रतिभा का विकास और आंतरिक आदान-प्रदान को मजबूत करना। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Korean Air dan Asiana Dukung Talenta Penerbangan Jelang Maskapai Terintegrasi",
+        "excerpt": "Korean Air dan Asiana Airlines bekerja sama mendukung talenta penerbangan masa depan menjelang peluncuran maskapai terintegrasi, sambil mempercepat penyatuan organisasi lewat interaksi karyawan.",
+        "body": "Menurut industri penerbangan pada tanggal 6, Korean Air dan Asiana Airlines bergerak bersama untuk calon talenta penerbangan masa depan menjelang peluncuran maskapai terintegrasi. Kedua perusahaan menyiapkan fase setelah integrasi melalui kegiatan yang mendukung anak muda yang tertarik pada bidang penerbangan. Belakangan, karyawan dari kedua perusahaan aktif melanjutkan interaksi bersama untuk mempersempit jarak antarorganisasi. Hal ini dipandang sebagai bagian dari proses mempercepat penyatuan kimiawi sebelum maskapai gabungan diluncurkan. Kerja sama Korean Air dan Asiana Airlines bermakna pada dua sisi: pengembangan talenta penerbangan dan penguatan pertukaran internal. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "2875ba2feef3",
     "slug": "꽃동네에-온정-보낸-중기사랑나눔재단-274201",
     "channelId": "FX",
