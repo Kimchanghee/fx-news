@@ -1,5 +1,230 @@
 [
   {
+    "id": "7bc0ad0e45d0",
+    "slug": "정유사-팔수록-손해최고가격제-손실-4조-293772",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T11:21:16.847Z",
+    "updatedAt": "2026-05-06T11:21:16.847Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12037815",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12037815",
+    "titleFingerprint": "aae60d76b2aeacf0e36c13e3fbddeb9c680fc296",
+    "dedupKeys": [
+      "7bc0ad0e45d07131b842ba423cb481bd020c5194",
+      "aae60d76b2aeacf0e36c13e3fbddeb9c680fc296",
+      "80f85e6472dc78665e2f9cc1145e4632e55b2251"
+    ],
+    "imageUrl": "/images/articles/7bc0ad0e45d0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "정유업계 최고가격제 손실 4조원 주장, 8일 결정 앞두고 긴장 고조",
+        "excerpt": "미국·이스라엘과 이란 간 전쟁 장기화로 국제유가 변동성이 커진 가운데 정유업계는 8일 5차 석유 최고가격 결정을 앞두고 손실 부담을 호소하고 있다.",
+        "body": "미국·이스라엘과 이란 간 전쟁이 장기화되며 국제유가 변동성이 커지는 가운데, 정유업계는 8일 예정된 5차 석유 최고가격 결정을 앞두고 수익성 악화를 우려하고 있다. 업계는 최고가격제 영향으로 “팔수록 손해”라는 입장을 내며 누적 손실 규모가 4조원에 이른다고 주장했다. 원문은 1분기에 정유 4사의 관련 수치가 5조원에 육박했다고 전했다. 유가 변동성이 확대되는 상황에서 가격 상한 결정은 정유사의 공급 부담과 시장 대응에 직접적인 영향을 줄 수 있다. 향후 결정 결과에 따라 업계의 비용 부담 논란도 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Refiners Cite 4 Trillion Won Price-Cap Loss as Oil Decision Nears",
+        "excerpt": "As the prolonged U.S.-Israel conflict with Iran raises global oil volatility, refiners are warning of mounting losses before the fifth petroleum price-cap decision on the 8th.",
+        "body": "With the war involving the United States, Israel and Iran dragging on, volatility in international oil prices is increasing. Against that backdrop, refiners are growing more concerned ahead of the fifth petroleum price-cap decision scheduled for the 8th. The industry says the price ceiling has made sales unprofitable, arguing that accumulated losses have reached 4 trillion won. The source also said a related first-quarter figure for the four major refiners approached 5 trillion won. As oil price swings widen, the price-cap decision could directly affect refiners’ supply burden and market response. Debate over industry costs is expected to continue depending on the outcome. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "製油業界、最高価格制で4兆ウォン損失主張　8日の決定に注目",
+        "excerpt": "米国・イスラエルとイランの戦争長期化で国際原油価格の変動性が高まる中、製油業界は8日の第5次石油最高価格決定を前に損失負担を訴えている。",
+        "body": "米国・イスラエルとイランの戦争が長期化し、国際原油価格の変動性が高まる中、製油業界は8日に予定された第5次石油最高価格決定を前に収益性の悪化を懸念している。業界は最高価格制の影響で「売るほど損をする」とし、累積損失が4兆ウォンに達すると主張した。原文は、第1四半期に製油4社の関連数値が5兆ウォンに迫ったとも伝えた。原油価格の振れが大きくなる状況で、価格上限の決定は製油会社の供給負担と市場対応に直接影響し得る。決定結果によって費用負担をめぐる議論も続く見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "炼油业称价格上限制损失达4万亿韩元，8日决定受关注",
+        "excerpt": "随着美国、以色列与伊朗之间战争长期化推高国际油价波动，炼油行业在8日第五次石油最高价格决定前强调亏损压力。",
+        "body": "美国、以色列与伊朗之间的战争持续时间拉长，国际油价波动随之扩大。在此背景下，炼油行业正关注8日将作出的第五次石油最高价格决定，并担忧盈利能力进一步恶化。行业方面表示，最高价格制度导致“卖得越多亏得越多”，累计损失规模已达4万亿韩元。原文还称，第一季度四家炼油公司的相关数值接近5万亿韩元。在油价波动加大的情况下，价格上限决定可能直接影响炼油企业的供应负担和市场应对。根据决定结果，围绕行业成本负担的争议预计仍将持续。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Refinerías alegan pérdidas de 4 billones de wones por el precio máximo",
+        "excerpt": "Con la guerra entre Estados Unidos, Israel e Irán prolongándose y elevando la volatilidad del crudo, las refinerías alertan de pérdidas antes de la decisión del día 8.",
+        "body": "La prolongación de la guerra entre Estados Unidos, Israel e Irán está aumentando la volatilidad de los precios internacionales del petróleo. En ese contexto, el sector refinador muestra mayor preocupación antes de la quinta decisión sobre el precio máximo del petróleo prevista para el día 8. La industria sostiene que el sistema de precio máximo hace que vender genere pérdidas y afirma que el daño acumulado alcanza los 4 billones de wones. La fuente también indicó que una cifra relacionada con las cuatro refinerías en el primer trimestre se acercó a los 5 billones de wones. Con mayores oscilaciones del crudo, la decisión puede afectar directamente la carga de suministro y la respuesta del mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Refinarias apontam perda de 4 trilhões de won com teto de preços",
+        "excerpt": "Com a guerra entre EUA, Israel e Irã prolongada e maior volatilidade do petróleo, refinarias alertam para perdas antes da quinta decisão de preço máximo no dia 8.",
+        "body": "A guerra prolongada envolvendo Estados Unidos, Israel e Irã elevou a volatilidade dos preços internacionais do petróleo. Nesse cenário, o setor de refino aumenta sua preocupação antes da quinta decisão sobre o preço máximo do petróleo, prevista para o dia 8. A indústria afirma que o sistema de teto faz com que vender resulte em prejuízo e diz que as perdas acumuladas chegam a 4 trilhões de won. A fonte também informou que um indicador relacionado às quatro refinarias no primeiro trimestre se aproximou de 5 trilhões de won. Com oscilações maiores do petróleo, a decisão sobre o teto pode afetar diretamente o peso do fornecimento e a resposta do mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Raffinerien melden 4 Billionen Won Verlust durch Preisobergrenze",
+        "excerpt": "Während der anhaltende Krieg zwischen den USA, Israel und Iran die Ölpreisvolatilität erhöht, warnen Raffinerien vor der fünften Preisobergrenzen-Entscheidung am 8. vor Verlusten.",
+        "body": "Der anhaltende Krieg zwischen den USA, Israel und Iran erhöht die Volatilität der internationalen Ölpreise. Vor diesem Hintergrund wächst in der Raffineriebranche die Sorge vor der fünften Entscheidung über die maximale Ölpreisgrenze, die für den 8. vorgesehen ist. Die Branche erklärt, die Preisobergrenze führe dazu, dass jeder Verkauf Verluste bringe, und beziffert die kumulierten Einbußen auf 4 Billionen Won. Die Quelle berichtete zudem, dass eine entsprechende Kennzahl der vier Raffinerien im ersten Quartal nahezu 5 Billionen Won erreichte. Bei größeren Ölpreisschwankungen kann die Entscheidung die Versorgungslast und Marktreaktion der Raffinerien direkt beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les raffineurs évoquent 4 000 milliards de wons de pertes liées au plafond",
+        "excerpt": "Alors que la guerre entre les États-Unis, Israël et l’Iran prolonge la volatilité du pétrole, les raffineurs alertent sur leurs pertes avant la décision du 8.",
+        "body": "La prolongation de la guerre impliquant les États-Unis, Israël et l’Iran accroît la volatilité des cours internationaux du pétrole. Dans ce contexte, le secteur du raffinage s’inquiète avant la cinquième décision sur le prix maximal du pétrole, prévue le 8. Les raffineurs affirment que le système de prix plafond les fait vendre à perte et estiment les pertes cumulées à 4 000 milliards de wons. La source indique aussi qu’un chiffre lié aux quatre raffineurs au premier trimestre a approché 5 000 milliards de wons. Avec l’augmentation des variations du pétrole, cette décision pourrait peser directement sur l’approvisionnement et la réponse du marché. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "المصافي تقول إن سقف الأسعار سبب خسائر بـ4 تريليونات وون قبل قرار 8",
+        "excerpt": "مع إطالة أمد الحرب بين الولايات المتحدة وإسرائيل وإيران وارتفاع تقلبات النفط العالمية، تحذر شركات التكرير من خسائر قبل قرار سقف أسعار النفط الخامس في الثامن.",
+        "body": "مع استمرار الحرب بين الولايات المتحدة وإسرائيل وإيران لفترة أطول، تزداد تقلبات أسعار النفط العالمية. وفي هذا السياق، تتصاعد مخاوف قطاع التكرير قبل القرار الخامس بشأن الحد الأقصى لأسعار النفط المقرر في الثامن. وتقول الصناعة إن نظام سقف الأسعار يجعل البيع مصدرا للخسارة، مشيرة إلى أن الخسائر المتراكمة بلغت 4 تريليونات وون. وذكر المصدر أيضا أن رقما مرتبطا بشركات التكرير الأربع في الربع الأول اقترب من 5 تريليونات وون. ومع اتساع تقلبات النفط، قد يؤثر قرار السقف مباشرة في عبء الإمداد واستجابة السوق. ومن المتوقع استمرار الجدل حول تكاليف القطاع وفقا لنتيجة القرار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "रिफाइनरों का दावा, मूल्य सीमा से 4 ट्रिलियन वॉन का नुकसान",
+        "excerpt": "अमेरिका, इजराइल और ईरान के बीच युद्ध लंबा खिंचने से वैश्विक तेल कीमतों में उतार-चढ़ाव बढ़ा है, जबकि रिफाइनर 8 तारीख के मूल्य सीमा फैसले से पहले नुकसान बता रहे हैं।",
+        "body": "अमेरिका, इजराइल और ईरान के बीच युद्ध लंबा चलने से अंतरराष्ट्रीय तेल कीमतों में अस्थिरता बढ़ रही है। इसी पृष्ठभूमि में रिफाइनिंग उद्योग 8 तारीख को होने वाले पांचवें पेट्रोलियम अधिकतम मूल्य निर्णय से पहले लाभप्रदता घटने को लेकर चिंतित है। उद्योग का कहना है कि मूल्य सीमा प्रणाली के कारण “जितना बेचते हैं, उतना नुकसान” होता है और कुल नुकसान 4 ट्रिलियन वॉन तक पहुंच गया है। स्रोत ने यह भी बताया कि पहली तिमाही में चार रिफाइनरों से जुड़ा एक आंकड़ा 5 ट्रिलियन वॉन के करीब था। तेल कीमतों में बढ़ते उतार-चढ़ाव के बीच यह निर्णय आपूर्ति बोझ और बाजार प्रतिक्रिया को सीधे प्रभावित कर सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Penyuling Klaim Rugi 4 Triliun Won Akibat Batas Harga Minyak",
+        "excerpt": "Saat perang AS-Israel dengan Iran berkepanjangan dan volatilitas minyak global meningkat, industri penyulingan menyoroti kerugian jelang keputusan harga maksimum ke-5 pada tanggal 8.",
+        "body": "Perang yang melibatkan Amerika Serikat, Israel, dan Iran berkepanjangan sehingga volatilitas harga minyak internasional meningkat. Dalam situasi ini, industri penyulingan makin khawatir menjelang keputusan kelima mengenai harga maksimum minyak yang dijadwalkan pada tanggal 8. Industri menyatakan sistem harga maksimum membuat penjualan justru menimbulkan kerugian, dengan klaim akumulasi rugi mencapai 4 triliun won. Sumber juga menyebut angka terkait empat perusahaan penyulingan pada kuartal pertama mendekati 5 triliun won. Ketika fluktuasi harga minyak melebar, keputusan batas harga dapat langsung memengaruhi beban pasokan dan respons pasar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "375e5c612754",
+    "slug": "hmm-나무호-7일-밤-두바이-도착-742664",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T11:20:07.705Z",
+    "updatedAt": "2026-05-06T11:20:07.705Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12037814",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12037814",
+    "titleFingerprint": "ed091050aa66f5885fd736b010a1357c7e1adc7c",
+    "dedupKeys": [
+      "375e5c61275441037942c2a88287e7630ea08c1f",
+      "ed091050aa66f5885fd736b010a1357c7e1adc7c",
+      "7e85f87d2e93d72bd2c585ee21fe845974f52cd2"
+    ],
+    "imageUrl": "/images/articles/375e5c612754.jpg",
+    "i18n": {
+      "ko": {
+        "title": "HMM 나무호, 폭발·화재 뒤 7일 밤 두바이항 도착 예정",
+        "excerpt": "호르무즈 해역에서 정박 중 폭발·화재가 발생한 벌크선 HMM 나무호가 6일 한국시간 두바이항으로 예인을 시작해 7일 밤 도착할 예정이다.",
+        "body": "호르무즈 해역에서 정박하던 중 폭발·화재 사고가 발생한 벌크선 ‘HMM 나무(NAMU)’호가 6일 한국시간 두바이항으로 예인 작업을 시작했다. 선박은 7일 밤 두바이에 도착할 예정으로 전해졌다. 이번 사고는 호르무즈 해역 정박 중 발생했으며, 예인 절차는 선박을 수리소로 옮기기 위한 단계다. 나무호가 수리소에 입항하면 사고 원인 확인과 선체 상태 점검, 필요한 수리 작업이 본격화될 전망이다. 운항 재개 여부와 일정은 수리소 입항 뒤 점검 결과에 따라 정해질 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "HMM NAMU to Reach Dubai Port on Night of May 7 After Fire",
+        "excerpt": "Bulk carrier HMM NAMU, hit by an explosion and fire while anchored in the Strait of Hormuz area, began towing to Dubai Port on May 6 Korea time.",
+        "body": "Bulk carrier HMM NAMU, which suffered an explosion and fire while anchored in the Strait of Hormuz area, began towing operations to Dubai Port on May 6 Korea time. The vessel is expected to arrive in Dubai on the night of May 7. The incident occurred while the ship was at anchor in the Hormuz waters, and the towing process is a step toward moving the vessel to a repair facility. Once NAMU enters the repair yard, checks on the cause of the accident, the condition of the hull, and required repairs are expected to begin in earnest. Whether and when operations resume will likely depend on inspection results after arrival. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "HMMナム号、爆発・火災後に7日夜ドバイ港到着へ",
+        "excerpt": "ホルムズ海域で停泊中に爆発・火災が発生したばら積み船HMMナム号は、韓国時間6日にドバイ港への曳航を開始した。",
+        "body": "ホルムズ海域で停泊中に爆発・火災事故が発生したばら積み船「HMMナム（NAMU）」号が、韓国時間6日にドバイ港への曳航作業を開始した。同船は7日夜にドバイへ到着する予定と伝えられている。事故はホルムズ海域での停泊中に起きたもので、曳航は船舶を修理施設へ移すための手続きだ。ナム号が修理所に入港すれば、事故原因の確認、船体状態の点検、必要な修理作業が本格化する見通しだ。運航再開の可否と時期は、入港後の点検結果に左右されるとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "HMM NAMU号爆炸起火后预计7日晚抵达迪拜港",
+        "excerpt": "在霍尔木兹海域锚泊期间发生爆炸和火灾的散货船HMM NAMU号，于韩国时间6日开始被拖往迪拜港。",
+        "body": "在霍尔木兹海域锚泊期间发生爆炸和火灾事故的散货船“HMM NAMU”号，于韩国时间6日开始拖航前往迪拜港。据悉，该船预计将在7日晚抵达迪拜。此次事故发生在霍尔木兹海域锚泊期间，拖航程序是将船舶移至修理厂的步骤。NAMU号进入修理设施后，事故原因确认、船体状态检查以及必要维修工作预计将正式展开。是否恢复运营以及具体时间，将取决于入港后的检查结果。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "HMM NAMU llegará a Dubái la noche del 7 tras explosión e incendio",
+        "excerpt": "El granelero HMM NAMU, afectado por una explosión e incendio mientras estaba fondeado en aguas de Ormuz, inició el remolque a Dubái el 6 de mayo hora coreana.",
+        "body": "El granelero HMM NAMU, que sufrió una explosión y un incendio mientras permanecía fondeado en aguas de Ormuz, inició el 6 de mayo, hora de Corea, las labores de remolque hacia el puerto de Dubái. Se prevé que el buque llegue a Dubái la noche del 7. El accidente ocurrió durante el fondeo en la zona de Ormuz, y el remolque forma parte del traslado del barco a un centro de reparación. Una vez que el NAMU ingrese al astillero o taller, comenzarán de forma más completa la revisión de la causa del incidente, la inspección del casco y las reparaciones necesarias. La reanudación de operaciones y su calendario dependerán de los resultados de la inspección tras la llegada. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "HMM NAMU deve chegar a Dubai na noite do dia 7 após incêndio",
+        "excerpt": "O graneleiro HMM NAMU, atingido por explosão e incêndio enquanto estava fundeado na área de Ormuz, iniciou em 6 de maio, hora coreana, o reboque para Dubai.",
+        "body": "O graneleiro HMM NAMU, que sofreu uma explosão e um incêndio enquanto estava fundeado nas águas de Ormuz, iniciou em 6 de maio, no horário da Coreia, a operação de reboque para o porto de Dubai. A embarcação deve chegar a Dubai na noite do dia 7. O acidente ocorreu durante a permanência fundeada na região de Ormuz, e o reboque é uma etapa para levar o navio a uma instalação de reparos. Quando o NAMU entrar no local de manutenção, devem começar de forma mais ampla a verificação da causa do acidente, a inspeção do casco e os reparos necessários. A retomada da operação e o cronograma dependerão dos resultados da inspeção após a chegada. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "HMM NAMU soll nach Explosion und Feuer am 7. Mai Dubai erreichen",
+        "excerpt": "Der Massengutfrachter HMM NAMU, der vor Hormus vor Anker lag und von Explosion und Feuer betroffen war, begann am 6. Mai koreanischer Zeit die Schleppfahrt nach Dubai.",
+        "body": "Der Massengutfrachter HMM NAMU, auf dem es während des Ankerns in den Gewässern von Hormus zu einer Explosion und einem Brand kam, hat am 6. Mai koreanischer Zeit mit dem Schleppen zum Hafen von Dubai begonnen. Das Schiff soll in der Nacht des 7. Mai in Dubai eintreffen. Der Vorfall ereignete sich während der Liegezeit vor Anker in der Hormus-Region; die Schleppfahrt dient dazu, das Schiff in eine Reparatureinrichtung zu bringen. Sobald die NAMU dort einläuft, dürften die Prüfung der Unfallursache, die Kontrolle des Schiffsrumpfs und notwendige Reparaturen umfassend beginnen. Ob und wann der Betrieb wieder aufgenommen wird, hängt voraussichtlich von den Inspektionsergebnissen nach der Ankunft ab. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le HMM NAMU attendu à Dubaï dans la nuit du 7 après l’incendie",
+        "excerpt": "Le vraquier HMM NAMU, touché par une explosion et un incendie alors qu’il était au mouillage dans la zone d’Ormuz, a commencé son remorquage vers Dubaï le 6 mai, heure coréenne.",
+        "body": "Le vraquier HMM NAMU, victime d’une explosion et d’un incendie alors qu’il était au mouillage dans les eaux d’Ormuz, a commencé le 6 mai, heure coréenne, son remorquage vers le port de Dubaï. Le navire devrait arriver à Dubaï dans la nuit du 7. L’accident s’est produit pendant son mouillage dans la zone d’Ormuz, et le remorquage constitue l’étape destinée à transférer le navire vers un site de réparation. Une fois le NAMU entré dans l’installation, la vérification de la cause de l’accident, l’examen de l’état de la coque et les réparations nécessaires devraient commencer pleinement. La reprise éventuelle des opérations et son calendrier dépendront des résultats de l’inspection après l’arrivée. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سفينة HMM NAMU تصل إلى دبي ليلة 7 مايو بعد انفجار وحريق",
+        "excerpt": "بدأت سفينة الشحن السائب HMM NAMU، التي تعرضت لانفجار وحريق أثناء رسوها في مياه هرمز، سحبها إلى ميناء دبي في 6 مايو بتوقيت كوريا.",
+        "body": "بدأت سفينة الشحن السائب «HMM NAMU»، التي تعرضت لانفجار وحريق أثناء رسوها في مياه هرمز، عملية سحبها إلى ميناء دبي في 6 مايو بتوقيت كوريا. ومن المتوقع أن تصل السفينة إلى دبي ليلة 7 مايو. وقع الحادث أثناء رسو السفينة في منطقة هرمز، وتمثل عملية السحب خطوة لنقلها إلى منشأة إصلاح. وعند دخول NAMU إلى موقع الإصلاح، من المنتظر أن تبدأ بشكل فعلي إجراءات التحقق من سبب الحادث، وفحص حالة الهيكل، وتنفيذ أعمال الإصلاح اللازمة. وسيعتمد استئناف التشغيل وجدوله على نتائج الفحص بعد الوصول. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "HMM NAMU विस्फोट और आग के बाद 7 मई रात दुबई पहुंचेगा",
+        "excerpt": "हॉर्मुज क्षेत्र में लंगर डाले रहने के दौरान विस्फोट और आग से प्रभावित बल्क कैरियर HMM NAMU को 6 मई को कोरिया समयानुसार दुबई बंदरगाह की ओर टो करना शुरू किया गया।",
+        "body": "हॉर्मुज जलक्षेत्र में लंगर डाले रहने के दौरान विस्फोट और आग की घटना से प्रभावित बल्क कैरियर ‘HMM NAMU’ को 6 मई को कोरिया समयानुसार दुबई बंदरगाह की ओर टो करना शुरू किया गया। जहाज के 7 मई की रात दुबई पहुंचने की उम्मीद है। यह दुर्घटना हॉर्मुज क्षेत्र में लंगर के दौरान हुई, और टोइंग जहाज को मरम्मत सुविधा तक ले जाने की प्रक्रिया का हिस्सा है। NAMU के मरम्मत स्थल में प्रवेश करने के बाद दुर्घटना के कारण की पुष्टि, जहाज के ढांचे की स्थिति की जांच और आवश्यक मरम्मत कार्य पूरी तरह शुरू होने की संभावना है। संचालन फिर से कब और होगा या नहीं, यह पहुंचने के बाद निरीक्षण के नतीजों पर निर्भर करेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "HMM NAMU Tiba di Dubai Malam 7 Mei Setelah Ledakan dan Kebakaran",
+        "excerpt": "Kapal curah HMM NAMU yang mengalami ledakan dan kebakaran saat berlabuh di perairan Hormuz mulai ditarik menuju Pelabuhan Dubai pada 6 Mei waktu Korea.",
+        "body": "Kapal curah HMM NAMU, yang mengalami ledakan dan kebakaran saat berlabuh di perairan Hormuz, mulai menjalani operasi penarikan menuju Pelabuhan Dubai pada 6 Mei waktu Korea. Kapal tersebut diperkirakan tiba di Dubai pada malam 7 Mei. Insiden terjadi ketika kapal sedang berlabuh di kawasan Hormuz, dan proses penarikan ini merupakan tahap untuk memindahkan kapal ke fasilitas perbaikan. Setelah NAMU masuk ke tempat perbaikan, pemeriksaan penyebab kecelakaan, pengecekan kondisi lambung, dan pekerjaan perbaikan yang diperlukan diperkirakan akan dimulai secara penuh. Kepastian dan jadwal dimulainya kembali operasi akan bergantung pada hasil pemeriksaan setelah kapal tiba. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e32bb36982a8",
+    "slug": "10년-적자-버티고-빛-봤다-lg-전장사업-글로벌-질주-534354",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T11:19:02.434Z",
+    "updatedAt": "2026-05-06T11:19:02.434Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12037816",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12037816",
+    "titleFingerprint": "f3b635807e7d996be5e7c8066e0c717007610d0f",
+    "dedupKeys": [
+      "e32bb36982a82ee419bc39ab78d87bcba6c4b5fe",
+      "f3b635807e7d996be5e7c8066e0c717007610d0f",
+      "a3c45fc821c18af510f5b8938401c194384c3c71"
+    ],
+    "imageUrl": "/images/articles/e32bb36982a8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LG전자 전장사업, 영업이익 8000억원 전망에 핵심 캐시카우 부상",
+        "excerpt": "LG전자 VS사업본부가 올해 연간 영업이익 8000억원을 돌파할 것이란 전망 속에 출범 10년 만의 흑자 전환 이후 핵심 수익원으로 자리 잡고 있다.",
+        "body": "LG전자 전장사업을 맡는 VS사업본부가 올해 연간 영업이익 8000억원을 넘어설 것이라는 전망이 나오며 회사의 핵심 캐시카우로 부상하고 있다. VS사업본부는 출범 10년 만인 2022년 처음 흑자 전환에 성공한 뒤 수익성 개선 흐름을 이어가고 있다. 장기간 적자를 견딘 전장사업이 이익 기여도를 높이면서 LG전자의 사업 포트폴리오에서 존재감도 커지는 모습이다. 올해 영업이익 8000억원 돌파 전망이 현실화하면 전장사업은 안정적인 수익 기반으로 평가받을 가능성이 크다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "LG Electronics Vehicle Solutions Seen Topping 800 Billion Won Profit",
+        "excerpt": "LG Electronics’ VS division is expected to exceed 800 billion won in annual operating profit this year, strengthening its role as a core cash cow after turning profitable in 2022.",
+        "body": "LG Electronics’ Vehicle Solutions division, known as the VS Business Division, is drawing attention as forecasts suggest its annual operating profit could exceed 800 billion won this year. The division first turned profitable in 2022, 10 years after its launch, after enduring a long period of losses. Since then, its improving profitability has raised its profile within LG Electronics’ business portfolio. If the projected 800 billion won operating profit is achieved this year, the vehicle solutions business is likely to be viewed as a stable earnings base and a key cash cow for the company. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "LG電子の車載事業、営業益8000億ウォン見通しで中核収益源に",
+        "excerpt": "LG電子のVS事業本部は今年、年間営業利益が8000億ウォンを突破するとの見方が出ており、2022年の黒字転換後に中核収益源として存在感を高めている。",
+        "body": "LG電子で車載事業を担うVS事業本部が、今年の年間営業利益で8000億ウォンを超えるとの見通しが出ている。VS事業本部は発足から10年となる2022年に初めて黒字転換し、その後も収益性改善の流れを続けている。長期の赤字に耐えてきた車載事業が利益貢献を高めるなか、LG電子の事業ポートフォリオ内での存在感も大きくなっている。予想通り今年8000億ウォンを突破すれば、安定した収益基盤であり中核キャッシュカウとして評価される可能性が高い。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "LG电子汽车电子业务预计营业利润破8000亿韩元，成核心现金牛",
+        "excerpt": "LG电子VS事业本部今年年度营业利润预计将突破8000亿韩元，在2022年成立10年后首次扭亏以来，正成为公司的核心收益来源。",
+        "body": "负责LG电子汽车电子业务的VS事业本部预计今年年度营业利润将超过8000亿韩元，因而受到关注。该事业本部在成立10年后的2022年首次实现扭亏，此后持续呈现盈利能力改善趋势。长期承受亏损的汽车电子业务如今提高了利润贡献，在LG电子业务组合中的存在感也随之增强。如果今年营业利润突破8000亿韩元的预测成为现实，该业务有望被评价为稳定的收益基础和核心现金牛。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Negocio automotriz de LG apunta a 800.000 millones de wones de beneficio",
+        "excerpt": "La división VS de LG Electronics podría superar este año los 800.000 millones de wones en beneficio operativo anual, consolidándose como fuente clave de caja tras lograr beneficios en 2022.",
+        "body": "La división de soluciones para vehículos de LG Electronics, conocida como VS, gana protagonismo ante las previsiones de que su beneficio operativo anual supere este año los 800.000 millones de wones. La unidad logró su primer resultado positivo en 2022, 10 años después de su creación, tras soportar un largo periodo de pérdidas. Desde entonces, la mejora de la rentabilidad ha elevado su peso dentro de la cartera de negocios de LG Electronics. Si se concreta la previsión de superar los 800.000 millones de wones este año, el negocio automotriz podría ser considerado una base estable de ganancias y una fuente clave de caja. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Negócio automotivo da LG mira lucro de 800 bilhões de won e vira caixa-chave",
+        "excerpt": "A divisão VS da LG Electronics deve superar 800 bilhões de won em lucro operacional anual neste ano, reforçando seu papel como fonte central de caixa após virar lucrativa em 2022.",
+        "body": "A divisão de soluções automotivas da LG Electronics, a VS Business Division, está em foco diante da previsão de que seu lucro operacional anual ultrapasse 800 bilhões de won neste ano. A unidade registrou seu primeiro lucro em 2022, 10 anos após sua criação, depois de enfrentar um longo período de prejuízos. Desde então, a melhora da rentabilidade vem ampliando sua relevância dentro do portfólio de negócios da LG Electronics. Se a projeção de 800 bilhões de won se confirmar neste ano, o negócio automotivo deve ser visto como uma base estável de ganhos e uma importante fonte de caixa. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "LGs Fahrzeugtechnik vor 800 Mrd. Won Gewinn und Aufstieg zur Cashcow",
+        "excerpt": "Die VS-Sparte von LG Electronics dürfte in diesem Jahr mehr als 800 Mrd. Won operativen Jahresgewinn erzielen und nach dem ersten Gewinn 2022 zur zentralen Ertragsquelle werden.",
+        "body": "Die Fahrzeugsparte von LG Electronics, die VS Business Division, rückt in den Fokus, weil ihr operativer Jahresgewinn in diesem Jahr voraussichtlich 800 Mrd. Won übersteigen könnte. Die Einheit schrieb 2022, zehn Jahre nach ihrer Gründung, erstmals schwarze Zahlen, nachdem sie lange Verluste getragen hatte. Seitdem setzt sich die Verbesserung der Profitabilität fort, wodurch die Sparte im Geschäftsportfolio von LG Electronics an Bedeutung gewinnt. Sollte die Prognose eines Gewinns von mehr als 800 Mrd. Won in diesem Jahr eintreffen, dürfte das Fahrzeugtechnikgeschäft als stabile Ertragsbasis und wichtige Cashcow gelten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "LG Electronics voit son activité automobile dépasser 800 Mds de wons de profit",
+        "excerpt": "La division VS de LG Electronics devrait dépasser 800 milliards de wons de bénéfice opérationnel annuel cette année, devenant une source de trésorerie clé après son retour au profit en 2022.",
+        "body": "La division automobile de LG Electronics, appelée VS Business Division, attire l’attention avec des prévisions faisant état d’un bénéfice opérationnel annuel supérieur à 800 milliards de wons cette année. L’unité a dégagé son premier profit en 2022, dix ans après sa création, après une longue période de pertes. Depuis, l’amélioration de sa rentabilité renforce son poids dans le portefeuille d’activités de LG Electronics. Si le seuil prévu de 800 milliards de wons est franchi cette année, l’activité automobile devrait être considérée comme une base de revenus stable et une source de trésorerie essentielle pour le groupe. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أعمال مكونات السيارات في LG تتجه لتجاوز 800 مليار وون كأرباح تشغيلية",
+        "excerpt": "من المتوقع أن تتجاوز وحدة VS في LG Electronics أرباحا تشغيلية سنوية قدرها 800 مليار وون هذا العام، لتترسخ كمصدر نقدي رئيسي بعد تحولها للربحية في 2022.",
+        "body": "تتجه الأنظار إلى وحدة حلول المركبات في LG Electronics، المعروفة باسم VS Business Division، مع توقعات بأن تتجاوز أرباحها التشغيلية السنوية 800 مليار وون هذا العام. وكانت الوحدة قد حققت أول تحول إلى الربحية في عام 2022، بعد 10 سنوات من إطلاقها، عقب فترة طويلة من الخسائر. ومنذ ذلك الحين تواصل تحسن الربحية، ما زاد حضورها داخل محفظة أعمال LG Electronics. وإذا تحقق توقع تجاوز 800 مليار وون هذا العام، فمن المرجح أن ينظر إلى أعمال مكونات السيارات كقاعدة أرباح مستقرة ومصدر نقدي أساسي للشركة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "LG का वाहन समाधान कारोबार 800 अरब वॉन लाभ की ओर, प्रमुख कैश काउ बना",
+        "excerpt": "LG Electronics की VS डिविजन इस साल वार्षिक परिचालन लाभ में 800 अरब वॉन पार कर सकती है, 2022 में पहली बार लाभ में आने के बाद यह मुख्य कमाई स्रोत बन रही है।",
+        "body": "LG Electronics का वाहन समाधान कारोबार, यानी VS Business Division, इस साल वार्षिक परिचालन लाभ में 800 अरब वॉन से आगे निकलने की संभावना के कारण चर्चा में है। यह डिविजन अपनी स्थापना के 10 साल बाद 2022 में पहली बार लाभ में आई थी, उससे पहले उसे लंबे समय तक घाटा झेलना पड़ा। इसके बाद से लाभप्रदता में सुधार जारी है और LG Electronics के कारोबार पोर्टफोलियो में इसकी मौजूदगी बढ़ रही है। अगर इस साल 800 अरब वॉन परिचालन लाभ का अनुमान सच साबित होता है, तो वाहन समाधान कारोबार को कंपनी के लिए स्थिर कमाई आधार और प्रमुख कैश काउ के रूप में देखा जा सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Bisnis Komponen Mobil LG Diproyeksi Tembus Laba 800 Miliar Won",
+        "excerpt": "Divisi VS LG Electronics diperkirakan melampaui laba operasional tahunan 800 miliar won tahun ini, memperkuat posisinya sebagai sumber kas utama setelah mulai untung pada 2022.",
+        "body": "Bisnis solusi kendaraan LG Electronics, yaitu VS Business Division, menjadi sorotan karena diperkirakan dapat membukukan laba operasional tahunan lebih dari 800 miliar won tahun ini. Divisi ini pertama kali mencatat laba pada 2022, 10 tahun setelah dibentuk, setelah melewati periode kerugian yang panjang. Sejak saat itu, tren perbaikan profitabilitas terus berlanjut dan memperbesar perannya dalam portofolio bisnis LG Electronics. Jika proyeksi laba 800 miliar won tahun ini terwujud, bisnis kendaraan tersebut kemungkinan dinilai sebagai basis pendapatan yang stabil sekaligus sumber kas utama perusahaan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "0f1f659d7bba",
     "slug": "한국산-메모리-돈주고도-못사-꿩-대신-닭-중국산-사는-기업들-311856",
     "channelId": "FX",
