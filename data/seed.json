@@ -1,5 +1,230 @@
 [
   {
+    "id": "4cc7cc2e6318",
+    "slug": "단독-hmm-화재피해-선박-6일-예인작업-개시원인-규명-본격화-921022",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T20:27:42.713Z",
+    "updatedAt": "2026-05-06T20:27:42.713Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12037131",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12037131",
+    "titleFingerprint": "78cd6b207224c83e460994ca94e03b85781235c7",
+    "dedupKeys": [
+      "4cc7cc2e63184fd49f90a09b626c01a864839625",
+      "78cd6b207224c83e460994ca94e03b85781235c7",
+      "29260ea8a6c158f3b9f88646d36dc12887118125"
+    ],
+    "imageUrl": "/images/articles/4cc7cc2e6318.png",
+    "i18n": {
+      "ko": {
+        "title": "HMM 나무호 화재피해 선박 6일 예인 개시, 호르무즈 폭발 원인조사 본격화",
+        "excerpt": "호르무즈 해역에서 정박 중 폭발·화재 사고를 겪은 벌크선 HMM 나무호가 6일 예인작업에 들어가며, 두바이항 입항 후 사고 원인조사가 본격화될 예정이다.",
+        "body": "호르무즈 해역에서 정박 중 폭발·화재 사고가 발생한 벌크선 ‘HMM 나무(NAMU)호’가 6일 예인작업을 시작한다. 선박은 두바이항으로 입항한 뒤 사고 원인 조사를 받을 예정이며, 조사단도 현지로 급파된 것으로 전해졌다. 업계에서는 선박 좌현 피격 가능성을 추정하고 있으나, 정확한 원인은 현장 조사 이후 규명될 전망이다. 미국 측에서는 한국도 이번 사안에 나서야 한다는 입장을 보인 것으로 알려졌다. 이번 조사는 선박 피해 경위와 향후 대응 방향을 가르는 핵심 절차가 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "HMM Namu Fire-Damaged Vessel to Begin Towing on May 6 as Hormuz Blast Probe Moves Ahead",
+        "excerpt": "Bulk carrier HMM Namu, hit by an explosion and fire while anchored in the Strait of Hormuz, will begin towing on May 6, with a cause investigation to follow after arrival at Dubai Port.",
+        "body": "The bulk carrier HMM Namu, which suffered an explosion and fire while anchored in the Strait of Hormuz, is set to begin towing operations on May 6. After entering Dubai Port, the vessel is expected to undergo an investigation into the cause of the accident, with an investigation team reportedly dispatched to the site. Industry sources estimate the vessel’s port side may have been hit, but the exact cause is expected to be determined only after on-site checks. The United States is also reported to have said South Korea should take part in the matter. The probe is expected to be a key step in clarifying the damage and next response. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "HMMナム号の火災被害船、6日にえい航開始へ ホルムズ爆発原因調査が本格化",
+        "excerpt": "ホルムズ海域で停泊中に爆発・火災事故に見舞われたばら積み船HMMナム号は6日にえい航作業を始め、ドバイ港入港後に原因調査が本格化する見通しだ。",
+        "body": "ホルムズ海域で停泊中に爆発・火災事故が発生したばら積み船「HMMナム（NAMU）号」が、6日にえい航作業を開始する。船舶はドバイ港に入港した後、事故原因の調査を受ける予定で、調査団も現地に急派されたと伝えられている。業界では船舶の左舷が攻撃を受けた可能性が推定されているが、正確な原因は現地調査後に明らかになる見通しだ。米国側は韓国も今回の事案に関与すべきだとの立場を示したとされる。今回の調査は、船舶被害の経緯と今後の対応方針を見極める重要な手続きとなる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "HMM Namu号火灾受损船5月6日启动拖带 霍尔木兹爆炸原因调查提速",
+        "excerpt": "散货船HMM Namu号在霍尔木兹海域锚泊期间发生爆炸和火灾，预计5月6日启动拖带作业，并在进入迪拜港后展开事故原因调查。",
+        "body": "在霍尔木兹海域锚泊期间发生爆炸和火灾事故的散货船“HMM Namu（NAMU）号”将于5月6日开始拖带作业。该船进入迪拜港后，预计将接受事故原因调查，调查组也已被派往当地。据业界估计，船舶左舷可能遭到击中，但准确原因仍需在现场调查后确认。报道称，美国方面表示韩国也应参与处理此事。此次调查预计将成为厘清船舶受损经过和后续应对方向的关键程序。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Buque HMM Namu dañado por incendio iniciará remolque el 6 de mayo y avanzará pesquisa en Hormuz",
+        "excerpt": "El granelero HMM Namu, afectado por una explosión e incendio mientras estaba fondeado en aguas de Hormuz, iniciará el remolque el 6 de mayo y será investigado tras llegar a Dubái.",
+        "body": "El granelero HMM Namu, que sufrió una explosión y un incendio mientras permanecía fondeado en aguas de Hormuz, iniciará las operaciones de remolque el 6 de mayo. Tras entrar en el puerto de Dubái, el buque será sometido a una investigación sobre la causa del accidente, y un equipo investigador habría sido enviado al lugar. Fuentes del sector estiman que el costado de babor del barco pudo haber sido alcanzado, aunque la causa exacta se determinará después de la revisión en terreno. Estados Unidos habría señalado que Corea del Sur también debe intervenir en el asunto. La pesquisa será clave para aclarar los daños y los próximos pasos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Navio HMM Namu danificado por incêndio inicia reboque em 6 de maio e investigação avança em Hormuz",
+        "excerpt": "O graneleiro HMM Namu, atingido por explosão e incêndio enquanto estava ancorado no Estreito de Hormuz, iniciará reboque em 6 de maio e será investigado após chegar a Dubai.",
+        "body": "O graneleiro HMM Namu, que sofreu uma explosão e um incêndio enquanto estava ancorado nas águas de Hormuz, deve iniciar as operações de reboque em 6 de maio. Depois de entrar no porto de Dubai, o navio passará por uma investigação sobre a causa do acidente, e uma equipe investigativa teria sido enviada ao local. Fontes do setor estimam que o lado de bombordo da embarcação pode ter sido atingido, mas a causa exata deverá ser definida após a apuração em campo. Os Estados Unidos teriam indicado que a Coreia do Sul também deve atuar no caso. A investigação será central para esclarecer os danos e orientar a resposta futura. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "HMM Namu nach Brand beschädigt: Schlepparbeiten am 6. Mai, Untersuchung zu Hormus-Explosion läuft an",
+        "excerpt": "Der Massengutfrachter HMM Namu, der vor Hormus vor Anker von Explosion und Brand betroffen war, soll am 6. Mai geschleppt werden; nach Ankunft in Dubai folgt die Ursachenprüfung.",
+        "body": "Der Massengutfrachter HMM Namu, auf dem während des Ankerns in den Gewässern von Hormus eine Explosion und ein Brand ausbrachen, soll am 6. Mai mit den Schlepparbeiten beginnen. Nach dem Einlaufen in den Hafen von Dubai soll das Schiff auf die Unfallursache untersucht werden; ein Untersuchungsteam wurde Berichten zufolge vor Ort entsandt. Branchenkreise vermuten, dass die Backbordseite des Schiffes getroffen worden sein könnte, doch die genaue Ursache wird erst nach der Vor-Ort-Prüfung erwartet. Die USA sollen erklärt haben, auch Südkorea müsse sich in die Angelegenheit einschalten. Die Untersuchung gilt als wichtiger Schritt zur Klärung des Schadenshergangs und der weiteren Reaktion. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le HMM Namu endommagé par un incendie sera remorqué le 6 mai, enquête lancée sur l’explosion à Hormuz",
+        "excerpt": "Le vraquier HMM Namu, touché par une explosion et un incendie alors qu’il était au mouillage dans le détroit d’Hormuz, doit être remorqué le 6 mai puis examiné à Dubaï.",
+        "body": "Le vraquier HMM Namu, victime d’une explosion et d’un incendie alors qu’il était au mouillage dans les eaux d’Hormuz, doit commencer ses opérations de remorquage le 6 mai. Après son entrée au port de Dubaï, le navire fera l’objet d’une enquête sur la cause de l’accident, et une équipe d’investigation aurait été dépêchée sur place. Des sources du secteur estiment que le flanc bâbord du navire pourrait avoir été touché, mais la cause exacte devrait être établie après l’examen sur site. Les États-Unis auraient indiqué que la Corée du Sud devait également s’impliquer. Cette enquête devrait être déterminante pour clarifier les dommages et la réponse à venir. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سفينة HMM Namu المتضررة بالحريق تبدأ السحب في 6 مايو والتحقيق يتوسع في انفجار هرمز",
+        "excerpt": "سفينة البضائع السائبة HMM Namu، التي تعرضت لانفجار وحريق أثناء رسوها في مياه هرمز، ستبدأ عملية السحب في 6 مايو، على أن يبدأ تحقيق السبب بعد وصولها إلى ميناء دبي.",
+        "body": "تبدأ سفينة البضائع السائبة HMM Namu، التي تعرضت لانفجار وحريق أثناء رسوها في مياه هرمز، أعمال السحب في 6 مايو. ومن المقرر أن تخضع السفينة لتحقيق في سبب الحادث بعد دخولها ميناء دبي، فيما أُفيد بأن فريق تحقيق أُرسل على وجه السرعة إلى الموقع. وتقدّر مصادر في القطاع أن الجانب الأيسر من السفينة ربما تعرض لإصابة، إلا أن السبب الدقيق سيُحدد بعد الفحص الميداني. وذُكر أن الولايات المتحدة ترى أن على كوريا الجنوبية أيضا التحرك في هذا الملف. وسيكون التحقيق خطوة أساسية لتوضيح مسار الأضرار واتجاه الاستجابة المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "HMM Namu अग्निकांड पीड़ित पोत की 6 मई से टोइंग, होरमुज विस्फोट की जांच तेज होगी",
+        "excerpt": "होरमुज जलक्षेत्र में लंगर डाले रहने के दौरान विस्फोट और आग से प्रभावित बल्क कैरियर HMM Namu की टोइंग 6 मई से शुरू होगी और दुबई पोर्ट पहुंचने के बाद कारण जांच आगे बढ़ेगी।",
+        "body": "होरमुज जलक्षेत्र में लंगर डाले रहने के दौरान विस्फोट और आग की घटना से प्रभावित बल्क कैरियर HMM Namu की टोइंग 6 मई से शुरू होगी। पोत के दुबई पोर्ट में प्रवेश के बाद दुर्घटना के कारणों की जांच की जाएगी, और जांच दल को स्थानीय स्तर पर तुरंत भेजे जाने की बात कही गई है। उद्योग सूत्रों का अनुमान है कि जहाज के बाएं हिस्से पर प्रहार हुआ हो सकता है, लेकिन सटीक कारण स्थल जांच के बाद ही स्पष्ट होगा। अमेरिका की ओर से यह भी कहा गया बताया गया है कि दक्षिण कोरिया को भी इस मामले में आगे आना चाहिए। यह जांच नुकसान की परिस्थितियों और आगे की प्रतिक्रिया तय करने में अहम होगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kapal HMM Namu Rusak Terbakar Mulai Ditunda 6 Mei, Investigasi Ledakan Hormuz Berlanjut",
+        "excerpt": "Kapal curah HMM Namu yang mengalami ledakan dan kebakaran saat berlabuh di perairan Hormuz akan mulai ditunda pada 6 Mei, lalu diselidiki penyebabnya setelah tiba di Pelabuhan Dubai.",
+        "body": "Kapal curah HMM Namu, yang mengalami ledakan dan kebakaran saat berlabuh di perairan Hormuz, akan memulai operasi penundaan pada 6 Mei. Setelah memasuki Pelabuhan Dubai, kapal tersebut dijadwalkan menjalani penyelidikan penyebab kecelakaan, sementara tim investigasi dilaporkan telah segera dikirim ke lokasi. Kalangan industri memperkirakan sisi kiri kapal kemungkinan terkena serangan, tetapi penyebab pastinya baru akan ditentukan setelah pemeriksaan di lapangan. Amerika Serikat disebut menyatakan bahwa Korea Selatan juga perlu turun tangan dalam persoalan ini. Penyelidikan ini menjadi langkah penting untuk menjelaskan kerusakan kapal dan arah respons berikutnya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "8427286380c8",
+    "slug": "테터-경영대학-한국-학생-대상-200만-달러-장학기금-조성-954364",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T20:26:29.016Z",
+    "updatedAt": "2026-05-06T20:26:29.016Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12037156",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12037156",
+    "titleFingerprint": "7a51c8ba769b956c2c7c2d4b1e0d48e41afab5f9",
+    "dedupKeys": [
+      "8427286380c880f9c016ebc0378f29f2e85fd170",
+      "7a51c8ba769b956c2c7c2d4b1e0d48e41afab5f9",
+      "45dfb47b800d06bc240958f32ed743e70bc006a5"
+    ],
+    "imageUrl": "/images/articles/8427286380c8.png",
+    "i18n": {
+      "ko": {
+        "title": "테터 경영대학, 한국 학생 대상 200만 달러 장학기금 조성",
+        "excerpt": "테터 경영대학이 2026년 가을학기 신입생 모집을 앞두고 한국 학생을 위해 총 200만 달러 규모의 장학기금을 마련했다.",
+        "body": "테터(Tetr) 경영대학이 한국 학생을 대상으로 총 200만 달러 규모의 장학기금을 조성하고 2026년 가을학기 신입생을 모집 중이다. 이번 장학 지원은 한국 학생들의 학업 성취도와 창업 적성 등을 고려해 차등 지급되는 방식이다. 학교 측은 한국 학생을 위한 별도 장학 재원을 마련해 입학 지원자의 교육비 부담을 낮추는 데 초점을 맞췄다. 모집 대상은 2026년 가을학기 신입생이며, 장학금 규모는 총 200만 달러로 제시됐다. 이번 기금은 해외 경영 교육을 검토하는 한국 학생들에게 지원 선택지를 넓히는 요인이 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Tetr Business School Sets Up $2 Million Scholarship Fund for Korean Students",
+        "excerpt": "Tetr Business School has created a $2 million scholarship fund for Korean students as it recruits new students for the fall 2026 semester.",
+        "body": "Tetr Business School has established a scholarship fund totaling $2 million for Korean students and is recruiting new students for the fall 2026 semester. The scholarships will be awarded at different levels based on factors such as academic achievement and entrepreneurial aptitude. The school has set aside dedicated scholarship resources for Korean students, with the aim of easing education cost burdens for applicants. The program applies to incoming students for the fall 2026 semester, and the total scholarship pool is $2 million. The fund is expected to expand support options for Korean students considering overseas business education. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "Tetr経営大学院、韓国学生向けに200万ドルの奨学基金を設立",
+        "excerpt": "Tetr経営大学院は2026年秋学期の新入生募集に合わせ、韓国学生を対象に総額200万ドル規模の奨学基金を設けた。",
+        "body": "Tetr経営大学院は、韓国学生を対象に総額200万ドル規模の奨学基金を設立し、2026年秋学期の新入生を募集している。今回の奨学支援は、学業成績や起業適性などを考慮し、差をつけて支給される方式だ。同校は韓国学生のための別途奨学財源を用意し、入学志願者の教育費負担を軽減することに重点を置いた。募集対象は2026年秋学期の新入生で、奨学金の総額は200万ドルと示されている。この基金は、海外での経営教育を検討する韓国学生にとって支援の選択肢を広げる要因になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Tetr商学院为韩国学生设立200万美元奖学基金",
+        "excerpt": "Tetr商学院面向2026年秋季学期新生招生，为韩国学生设立总额200万美元的奖学基金。",
+        "body": "Tetr商学院已为韩国学生设立总额200万美元的奖学基金，并正在招收2026年秋季学期新生。此次奖学金支持将根据学业成绩、创业潜质等因素实行差异化发放。校方为韩国学生单独 마련奖学资金，重点在于减轻入学申请者的教育费用负担。招生对象为2026年秋季学期新生，奖学金总规模为200万美元。该基金预计将为正在考虑海外商科教育的韩国学生扩大可选择的支持渠道。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Tetr Business School crea un fondo de becas de 2 millones de dólares para estudiantes coreanos",
+        "excerpt": "Tetr Business School abrió un fondo de becas de 2 millones de dólares para estudiantes coreanos mientras recluta alumnos para otoño de 2026.",
+        "body": "Tetr Business School ha creado un fondo de becas por un total de 2 millones de dólares para estudiantes coreanos y está reclutando nuevos alumnos para el semestre de otoño de 2026. El apoyo se otorgará de forma diferenciada, considerando factores como el rendimiento académico y la aptitud emprendedora. La escuela preparó recursos específicos para estudiantes coreanos con el objetivo de reducir la carga de los costos educativos para los solicitantes. La convocatoria está dirigida a estudiantes de nuevo ingreso del otoño de 2026, y el monto total anunciado es de 2 millones de dólares. El fondo podría ampliar las opciones de apoyo para estudiantes coreanos que evalúan una educación empresarial en el extranjero. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Tetr Business School cria fundo de bolsas de US$ 2 milhões para estudantes coreanos",
+        "excerpt": "A Tetr Business School criou um fundo de bolsas de US$ 2 milhões para estudantes coreanos enquanto recruta calouros para o outono de 2026.",
+        "body": "A Tetr Business School criou um fundo de bolsas no total de US$ 2 milhões para estudantes coreanos e está recrutando novos alunos para o semestre de outono de 2026. O apoio será concedido em valores diferenciados, levando em conta fatores como desempenho acadêmico e aptidão empreendedora. A escola reservou recursos específicos de bolsas para estudantes coreanos, com foco em reduzir o peso dos custos educacionais para os candidatos. A seleção é voltada a calouros do outono de 2026, e o valor total anunciado é de US$ 2 milhões. O fundo deve ampliar as opções de apoio para estudantes coreanos que consideram estudar gestão no exterior. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Tetr Business School richtet 2-Millionen-Dollar-Stipendienfonds für koreanische Studierende ein",
+        "excerpt": "Die Tetr Business School hat für koreanische Studierende einen Stipendienfonds über 2 Millionen Dollar geschaffen und wirbt für Herbst 2026.",
+        "body": "Die Tetr Business School hat einen Stipendienfonds von insgesamt 2 Millionen Dollar für koreanische Studierende eingerichtet und nimmt neue Studierende für das Herbstsemester 2026 auf. Die Stipendien werden gestaffelt vergeben und berücksichtigen unter anderem akademische Leistungen sowie unternehmerische Eignung. Die Hochschule stellt damit eigene Mittel für koreanische Studierende bereit, um die Bildungskosten für Bewerber zu senken. Zielgruppe sind Studienanfänger des Herbstsemesters 2026; das Gesamtvolumen der Stipendien beträgt 2 Millionen Dollar. Der Fonds dürfte koreanischen Studierenden, die eine internationale Managementausbildung prüfen, zusätzliche Unterstützungsmöglichkeiten eröffnen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Tetr Business School crée un fonds de bourses de 2 millions de dollars pour les étudiants coréens",
+        "excerpt": "Tetr Business School a créé un fonds de bourses de 2 millions de dollars pour les étudiants coréens avant la rentrée d’automne 2026.",
+        "body": "Tetr Business School a mis en place un fonds de bourses totalisant 2 millions de dollars pour les étudiants coréens et recrute actuellement de nouveaux étudiants pour le semestre d’automne 2026. L’aide sera accordée à des niveaux différenciés, en tenant compte notamment des résultats académiques et de l’aptitude à l’entrepreneuriat. L’école a prévu des ressources dédiées aux étudiants coréens afin d’alléger la charge des frais d’études pour les candidats. Le recrutement concerne les nouveaux entrants de l’automne 2026, avec un montant total de bourses fixé à 2 millions de dollars. Ce fonds devrait élargir les options de soutien pour les étudiants coréens envisageant une formation en gestion à l’étranger. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كلية تتر للأعمال تنشئ صندوق منح بقيمة مليوني دولار للطلاب الكوريين",
+        "excerpt": "أنشأت كلية تتر للأعمال صندوق منح بقيمة إجمالية تبلغ مليوني دولار للطلاب الكوريين مع فتح قبول طلاب خريف 2026.",
+        "body": "أنشأت كلية تتر للأعمال صندوق منح دراسية بقيمة إجمالية تبلغ مليوني دولار للطلاب الكوريين، وهي تستقبل طلبات الطلاب الجدد لفصل خريف 2026. وسيتم تقديم الدعم بمستويات مختلفة بناء على عوامل مثل التحصيل الأكاديمي والملاءمة لريادة الأعمال. وخصصت الكلية موارد منح منفصلة للطلاب الكوريين بهدف تخفيف عبء تكاليف التعليم على المتقدمين. ويستهدف البرنامج الطلاب الجدد في فصل خريف 2026، فيما يبلغ إجمالي حجم المنح مليوني دولار. ومن المتوقع أن يوسع هذا الصندوق خيارات الدعم أمام الطلاب الكوريين الذين يدرسون خيار التعليم الإداري في الخارج. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Tetr बिजनेस स्कूल ने कोरियाई छात्रों के लिए 20 लाख डॉलर का छात्रवृत्ति कोष बनाया",
+        "excerpt": "Tetr बिजनेस स्कूल ने 2026 फॉल सेमेस्टर के नए छात्रों की भर्ती के दौरान कोरियाई छात्रों के लिए 20 लाख डॉलर का छात्रवृत्ति कोष बनाया है।",
+        "body": "Tetr बिजनेस स्कूल ने कोरियाई छात्रों के लिए कुल 20 लाख डॉलर का छात्रवृत्ति कोष बनाया है और 2026 फॉल सेमेस्टर के नए छात्रों की भर्ती कर रहा है। यह छात्रवृत्ति शैक्षणिक उपलब्धि और उद्यमिता संबंधी योग्यता जैसे कारकों को ध्यान में रखकर अलग-अलग स्तरों पर दी जाएगी। स्कूल ने कोरियाई छात्रों के लिए अलग छात्रवृत्ति संसाधन तैयार किए हैं, ताकि प्रवेश के इच्छुक छात्रों पर शिक्षा खर्च का बोझ कम हो सके। इसका लक्ष्य 2026 फॉल सेमेस्टर के नए छात्र हैं और कुल छात्रवृत्ति राशि 20 लाख डॉलर बताई गई है। यह कोष विदेश में बिजनेस शिक्षा पर विचार कर रहे कोरियाई छात्रों के लिए समर्थन विकल्प बढ़ा सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Tetr Business School Bentuk Dana Beasiswa US$2 Juta untuk Mahasiswa Korea",
+        "excerpt": "Tetr Business School membentuk dana beasiswa US$2 juta bagi mahasiswa Korea sambil membuka penerimaan mahasiswa baru semester gugur 2026.",
+        "body": "Tetr Business School telah membentuk dana beasiswa senilai total US$2 juta untuk mahasiswa Korea dan sedang merekrut mahasiswa baru untuk semester gugur 2026. Dukungan beasiswa ini akan diberikan secara bertingkat dengan mempertimbangkan faktor seperti prestasi akademik dan kecocokan kewirausahaan. Pihak sekolah menyiapkan sumber dana beasiswa khusus bagi mahasiswa Korea untuk membantu mengurangi beban biaya pendidikan calon pendaftar. Program ini ditujukan bagi mahasiswa baru semester gugur 2026, dengan total dana beasiswa sebesar US$2 juta. Dana tersebut diperkirakan dapat memperluas pilihan dukungan bagi mahasiswa Korea yang mempertimbangkan pendidikan bisnis di luar negeri. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "20ca08bb4a5d",
+    "slug": "노조-파업에-우려-커진-삼성전자증권가는-과도한-걱정-383667",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T20:25:37.331Z",
+    "updatedAt": "2026-05-06T20:25:37.332Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037170",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037170",
+    "titleFingerprint": "c85dabe20adf1ba9045b961c38c7ae9c86c52f44",
+    "dedupKeys": [
+      "20ca08bb4a5d1d5c466317c9fc3885fea2433848",
+      "c85dabe20adf1ba9045b961c38c7ae9c86c52f44",
+      "eb18945c1469e700029d1dee60537ab9a9faf88a"
+    ],
+    "imageUrl": "/images/articles/20ca08bb4a5d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 노조 파업 우려에도 증권가 목표주가 상향 잇따라",
+        "excerpt": "삼성전자 노조 파업 우려가 단기 주가 부담으로 떠올랐지만, 증권가는 이를 일시적 변수로 보고 메모리 슈퍼사이클과 AI 수요를 근거로 목표주가를 올리고 있다.",
+        "body": "삼성전자 노조 파업을 둘러싼 우려가 커지며 최근 단기 주가 부담 요인으로 부각되고 있다. 파업 가능성은 투자심리에 영향을 줄 수 있는 변수로 거론되지만, 증권가는 현재 상황을 기업 가치 전반을 흔들 요인보다는 일시적 변수로 평가하고 있다. 특히 메모리 슈퍼사이클 기대와 인공지능(AI) 관련 수요 확대가 실적 전망을 지지하는 핵심 배경으로 제시된다. 이에 따라 증권사들은 삼성전자 목표주가를 잇달아 상향하며 중장기 전망에 무게를 두는 분위기다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Strike Concerns Rise, but Brokerages Lift Targets",
+        "excerpt": "Concerns over a Samsung Electronics union strike have become a short-term pressure point for the stock, but brokerages see it as temporary and are raising targets on memory and AI demand.",
+        "body": "Concerns over a possible Samsung Electronics union strike have recently emerged as a short-term burden on the share price. The strike risk is being cited as a factor that could affect investor sentiment, but brokerages are assessing it as a temporary variable rather than a factor that changes the company’s overall value. Expectations for a memory supercycle and rising demand linked to artificial intelligence are being presented as key support for the earnings outlook. As a result, securities firms are raising target prices for Samsung Electronics in succession, placing more weight on the medium- to long-term view. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子の労組スト懸念でも証券各社は目標株価を相次ぎ上げ",
+        "excerpt": "サムスン電子の労組スト懸念が短期的な株価負担として浮上する一方、証券各社は一時的要因とみなし、メモリーとAI需要を背景に目標株価を引き上げている。",
+        "body": "サムスン電子の労組ストライキを巡る懸念が高まり、最近は短期的な株価の負担要因として意識されている。ストの可能性は投資心理に影響し得る変数として挙げられるが、証券各社は企業価値全体を揺るがす要因ではなく、一時的な変数と評価している。特にメモリーのスーパーサイクル期待と人工知能（AI）関連需要の拡大が、業績見通しを支える主な背景とされる。このため証券会社はサムスン電子の目標株価を相次いで引き上げ、中長期の見通しを重視する姿勢を示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子工会罢工忧虑升温 证券界仍接连上调目标价",
+        "excerpt": "三星电子工会罢工忧虑成为短期股价压力，但证券界认为这只是暂时变量，并基于存储器超级周期和AI需求上调目标价。",
+        "body": "围绕三星电子工会罢工的担忧正在扩大，近期已成为短期股价压力因素。罢工可能性被视为会影响投资情绪的变量，但证券界认为，当前情况更像是暂时性因素，而非动摇公司整体价值的因素。尤其是存储器超级周期预期以及人工智能（AI）相关需求扩大，被提出为支撑业绩展望的核心背景。因此，多家证券公司接连上调三星电子目标股价，市场氛围更侧重中长期前景。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Huelga sindical en Samsung preocupa, pero corredoras elevan precios objetivo",
+        "excerpt": "La posible huelga sindical en Samsung Electronics pesa a corto plazo sobre la acción, pero las corredoras la ven como un factor temporal y elevan objetivos por memoria e IA.",
+        "body": "La preocupación por una posible huelga sindical en Samsung Electronics se ha convertido recientemente en un factor de presión a corto plazo para la acción. El riesgo de huelga se menciona como una variable que puede afectar el ánimo de los inversionistas, pero las corredoras lo evalúan como un factor temporal, no como un elemento que altere el valor general de la empresa. Las expectativas de un superciclo de memoria y la expansión de la demanda vinculada a la inteligencia artificial son citadas como apoyos clave para las previsiones de resultados. Por ello, las firmas de valores han elevado sucesivamente sus precios objetivo para Samsung Electronics, dando más peso a la visión de mediano y largo plazo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Greve sindical preocupa Samsung, mas corretoras elevam preços-alvo",
+        "excerpt": "A preocupação com greve sindical na Samsung Electronics virou pressão de curto prazo para a ação, mas corretoras veem o fator como temporário e elevam alvos com memória e IA.",
+        "body": "A preocupação com uma possível greve sindical na Samsung Electronics ganhou força recentemente como fator de pressão de curto prazo sobre a ação. A possibilidade de paralisação é citada como uma variável capaz de afetar o sentimento dos investidores, mas as corretoras avaliam o cenário como temporário, e não como algo que altere o valor geral da companhia. As expectativas de um superciclo de memória e a expansão da demanda ligada à inteligência artificial são apontadas como bases importantes para sustentar as projeções de resultados. Assim, casas de análise vêm elevando sucessivamente os preços-alvo da Samsung Electronics, com maior foco na perspectiva de médio e longo prazo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung-Streiksorgen steigen, doch Analysten heben Kursziele weiter an",
+        "excerpt": "Sorgen über einen Gewerkschaftsstreik bei Samsung Electronics belasten die Aktie kurzfristig, doch Analysten sehen den Faktor als vorübergehend und erhöhen wegen Speicher- und KI-Nachfrage ihre Ziele.",
+        "body": "Die Sorgen über einen möglichen Gewerkschaftsstreik bei Samsung Electronics haben zuletzt zugenommen und gelten als kurzfristiger Belastungsfaktor für die Aktie. Das Streikrisiko wird als Variable genannt, die die Anlegerstimmung beeinflussen könnte. Wertpapierhäuser bewerten die Lage jedoch eher als vorübergehenden Faktor und nicht als Entwicklung, die den Gesamtwert des Unternehmens verändert. Vor allem Erwartungen an einen Speicher-Superzyklus und eine steigende Nachfrage im Zusammenhang mit künstlicher Intelligenz stützen den Ausblick auf die Ergebnisse. Daher heben Analysten ihre Kursziele für Samsung Electronics nacheinander an und legen mehr Gewicht auf die mittel- bis langfristige Perspektive. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Grève chez Samsung: inquiétude accrue, mais les analystes relèvent leurs objectifs",
+        "excerpt": "La crainte d’une grève syndicale chez Samsung Electronics pèse à court terme sur l’action, mais les analystes y voient un facteur temporaire et relèvent leurs objectifs grâce à la mémoire et à l’IA.",
+        "body": "Les inquiétudes autour d’une possible grève syndicale chez Samsung Electronics se sont récemment renforcées et apparaissent comme un facteur de pression à court terme sur le titre. Ce risque est cité comme une variable susceptible d’influencer le sentiment des investisseurs, mais les sociétés de Bourse l’évaluent comme un facteur temporaire plutôt que comme un élément remettant en cause la valeur globale de l’entreprise. Les attentes liées à un supercycle de la mémoire et l’expansion de la demande associée à l’intelligence artificielle sont présentées comme des soutiens essentiels aux perspectives de résultats. En conséquence, les analystes relèvent successivement leurs objectifs de cours pour Samsung Electronics, en privilégiant une vision de moyen et long terme. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مخاوف إضراب نقابة سامسونغ تتصاعد وشركات الوساطة ترفع السعر المستهدف",
+        "excerpt": "تزايدت مخاوف إضراب نقابة سامسونغ إلكترونيكس كعامل ضغط قصير الأجل على السهم، لكن شركات الوساطة تعده متغيرا مؤقتا وترفع أهدافها بفضل دورة الذاكرة وطلب الذكاء الاصطناعي.",
+        "body": "تزايدت المخاوف بشأن احتمال إضراب نقابة سامسونغ إلكترونيكس، وبرز ذلك مؤخرا كعامل ضغط قصير الأجل على سعر السهم. ويُنظر إلى احتمال الإضراب كمتغير قد يؤثر في معنويات المستثمرين، لكن شركات الوساطة تقيم الوضع باعتباره عاملا مؤقتا لا عنصرا يغير القيمة العامة للشركة. وتُطرح توقعات الدورة الفائقة في سوق الذاكرة واتساع الطلب المرتبط بالذكاء الاصطناعي كخلفية رئيسية تدعم توقعات الأرباح. لذلك تواصل شركات الأوراق المالية رفع الأسعار المستهدفة لسهم سامسونغ إلكترونيكس تباعا، مع تركيز أكبر على النظرة المتوسطة والطويلة الأجل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics में हड़ताल की चिंता, फिर भी ब्रोकरेज ने लक्ष्य मूल्य बढ़ाए",
+        "excerpt": "Samsung Electronics की यूनियन हड़ताल की चिंता शेयर पर अल्पकालिक दबाव बनी है, लेकिन ब्रोकरेज इसे अस्थायी कारक मानते हुए मेमोरी सुपर साइकिल और AI मांग के आधार पर लक्ष्य मूल्य बढ़ा रहे हैं।",
+        "body": "Samsung Electronics की यूनियन हड़ताल को लेकर चिंता बढ़ रही है और यह हाल में शेयर कीमत पर अल्पकालिक दबाव के रूप में सामने आई है। हड़ताल की संभावना को निवेशक धारणा को प्रभावित करने वाला कारक माना जा रहा है, लेकिन ब्रोकरेज इसे कंपनी के समग्र मूल्य को बदलने वाले कारण के बजाय अस्थायी变量 के रूप में देख रहे हैं। मेमोरी सुपर साइकिल की उम्मीद और कृत्रिम बुद्धिमत्ता से जुड़ी मांग में विस्तार को आय 전망 को सहारा देने वाली मुख्य पृष्ठभूमि बताया जा रहा है। इसी कारण सिक्योरिटीज कंपनियां Samsung Electronics के लक्ष्य मूल्य को लगातार बढ़ा रही हैं और मध्यम से दीर्घकालिक 전망 को अधिक महत्व दे रही हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kekhawatiran Mogok Serikat Samsung Naik, Analis Tetap Angkat Target Harga",
+        "excerpt": "Kekhawatiran atas mogok serikat Samsung Electronics menjadi beban jangka pendek bagi saham, tetapi sekuritas menilainya sementara dan menaikkan target berkat memori serta permintaan AI.",
+        "body": "Kekhawatiran mengenai kemungkinan mogok serikat pekerja Samsung Electronics meningkat dan belakangan muncul sebagai beban jangka pendek bagi harga saham. Risiko mogok disebut sebagai variabel yang dapat memengaruhi sentimen investor, tetapi kalangan sekuritas menilainya sebagai faktor sementara, bukan faktor yang mengguncang nilai perusahaan secara keseluruhan. Ekspektasi supercycle memori dan perluasan permintaan terkait kecerdasan buatan menjadi latar utama yang mendukung prospek kinerja. Karena itu, perusahaan sekuritas secara berurutan menaikkan target harga Samsung Electronics dan lebih menitikberatkan pandangan jangka menengah hingga panjang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "a681c3b4c7e0",
     "slug": "아기곰컴퍼니-중기부-팁스-선정-322391",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Yen Sempat Turun ke 155 per Dolar, Pasar Soroti Dugaan Intervensi Jepang",
         "excerpt": "Pada akhir Golden Week, yen sempat bergerak ke kisaran 155 per dolar, memicu pandangan pasar soal kemungkinan intervensi tambahan Jepang.",
         "body": "Nilai tukar yen terhadap dolar sempat turun ke kisaran 155 pada akhir Golden Week. News1 melaporkan bahwa pergerakan itu memunculkan pandangan pasar mengenai kemungkinan intervensi tambahan Jepang di pasar valuta asing.\n\nAngka utama dalam pergerakan ini adalah kisaran 155 yen per dolar. Karena kurs turun ke level tersebut dalam waktu singkat, pelaku pasar menyoroti kemungkinan langkah dari otoritas Jepang.\n\nNamun laporan tersebut tidak menyatakan bahwa intervensi tambahan telah terkonfirmasi, melainkan menyebutnya sebagai pandangan pasar yang muncul pada akhir Golden Week. Pergerakan dolar-yen selanjutnya dapat dipengaruhi oleh kemungkinan respons valas Jepang dan kewaspadaan pasar.\n\nSumber: News1"
-      }
-    }
-  },
-  {
-    "id": "ed03d0ab214b",
-    "slug": "환율-1450원대로-뚝중동전-일단-이겨냈다---vdaumnet-513168",
-    "channelId": "FX",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:56:02.912Z",
-    "updatedAt": "2026-05-06T07:56:02.912Z",
-    "sourceName": "v.daum.net",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14OUhUVjN2bjcyUzdPMjBNaGhPUVhsVUpKdURoRHZjWUdfMzFiYnhsSGx6NmRUV1cxTS1VZElWNm42TUdYN0FsbmwyM2tvM2s?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14OUhUVjN2bjcyUzdPMjBNaGhPUVhsVUpKdURoRHZjWUdfMzFiYnhsSGx6NmRUV1cxTS1VZElWNm42TUdYN0FsbmwyM2tvM2s?oc=5",
-    "titleFingerprint": "4c970f38b401605bffc5d33b86de3b2d8ed88955",
-    "dedupKeys": [
-      "ed03d0ab214be70d796cb96c20a56c6546bf2e44",
-      "4c970f38b401605bffc5d33b86de3b2d8ed88955",
-      "01631ee40a57f6d836dbe10cc5b0941b61f30fe0"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "환율 1450원대로 하락, 중동전 충격 일단 넘긴 외환시장",
-        "excerpt": "환율이 1450원대로 떨어지며 중동전 우려 속에서도 외환시장이 일단 충격을 이겨냈다는 평가가 나왔다. 관련 소식은 v.daum.net이 전했다.",
-        "body": "환율이 1450원대로 내려앉으며 중동전 관련 불안 요인을 일단 이겨낸 흐름을 보였다. v.daum.net은 환율이 1450원대로 뚝 떨어졌다고 보도했다.\n\n이번 보도는 중동전이라는 지정학적 변수에도 환율이 1450원대까지 하락했다는 점에 초점을 맞췄다. 제목상 핵심 수치는 1450원대이며, 시장은 전쟁 우려가 환율에 미친 부담을 주시해 왔다.\n\n환율 하락은 중동전 충격이 당장 외환시장 전반을 흔드는 국면은 아니라는 신호로 해석된다. 다만 원문은 추가 전망이나 구체적 관계자 발언을 별도로 제시하지 않았다.\n출처: v.daum.net"
-      },
-      "en": {
-        "title": "Exchange Rate Falls to 1,450 Won Range as Market Weathers Middle East War Shock",
-        "excerpt": "The exchange rate dropped into the 1,450 won range, with v.daum.net reporting that the foreign exchange market has so far weathered concerns over the Middle East war.",
-        "body": "The exchange rate fell into the 1,450 won range, showing that the market has for now moved past anxiety linked to the Middle East war. v.daum.net reported that the rate dropped sharply to the 1,450 won range.\n\nThe report focuses on the rate’s decline despite the geopolitical risk of war in the Middle East. The key figure cited in the headline is the 1,450 won range, while markets have been watching how war-related concerns weigh on exchange rates.\n\nThe decline suggests that the Middle East war shock is not immediately shaking the broader foreign exchange market. The original report did not provide further forecasts or specific comments from officials.\nSource: v.daum.net"
-      },
-      "ja": {
-        "title": "為替相場1450ウォン台へ下落、中東戦争の衝撃をひとまず克服",
-        "excerpt": "為替相場が1450ウォン台に下落し、中東戦争への懸念の中でも外為市場がひとまず衝撃を乗り越えたとv.daum.netが伝えた。",
-        "body": "為替相場は1450ウォン台へ下落し、中東戦争に関連した不安材料をひとまず乗り越えた動きを見せた。v.daum.netは、為替相場が1450ウォン台へ大きく下がったと報じた。\n\n今回の報道は、中東戦争という地政学的変数にもかかわらず、為替相場が1450ウォン台まで下落した点に焦点を当てている。見出し上の主要数値は1450ウォン台で、市場は戦争懸念が為替に与える負担を注視してきた。\n\n為替の下落は、中東戦争の衝撃が直ちに外為市場全体を揺るがす局面ではないことを示すものと受け止められる。ただし原文は、追加の見通しや具体的な関係者発言を示していない。\n出典: v.daum.net"
-      },
-      "zh": {
-        "title": "汇率跌至1450韩元区间，中东战争冲击暂被市场消化",
-        "excerpt": "汇率跌至1450韩元区间，v.daum.net报道称，在中东战争担忧下，外汇市场目前已暂时承受住相关冲击。",
-        "body": "汇率降至1450韩元区间，显示市场暂时消化了与中东战争相关的不安因素。v.daum.net报道称，汇率大幅跌至1450韩元区间。\n\n该报道聚焦于在中东战争这一地缘政治变量下，汇率仍跌至1450韩元区间这一事实。标题中的核心数字为1450韩元区间，市场一直关注战争担忧对汇率造成的压力。\n\n汇率下跌可被解读为，中东战争冲击目前并未立即动摇整体外汇市场。不过，原文未另行提供进一步展望或具体相关人士评论。\n来源: v.daum.net"
-      },
-      "es": {
-        "title": "El tipo de cambio cae al rango de 1.450 wones y supera por ahora el impacto de Medio Oriente",
-        "excerpt": "El tipo de cambio bajó al rango de 1.450 wones, mientras v.daum.net informó que el mercado cambiario resistió por ahora las preocupaciones por la guerra en Medio Oriente.",
-        "body": "El tipo de cambio cayó al rango de 1.450 wones, mostrando que el mercado superó por ahora los factores de inquietud vinculados con la guerra en Medio Oriente. v.daum.net informó que el tipo de cambio bajó con fuerza a ese nivel.\n\nLa noticia se centra en que el tipo de cambio descendió hasta el rango de 1.450 wones pese al factor geopolítico de la guerra en Medio Oriente. La cifra clave del titular es ese rango, mientras los mercados han seguido la presión que las preocupaciones bélicas ejercen sobre el cambio.\n\nLa caída sugiere que el impacto de la guerra en Medio Oriente no está sacudiendo de inmediato al mercado cambiario en general. El texto original no incluyó previsiones adicionales ni comentarios concretos de responsables.\nFuente: v.daum.net"
-      },
-      "pt": {
-        "title": "Câmbio cai para a faixa de 1.450 wons e mercado supera por ora choque no Oriente Médio",
-        "excerpt": "O câmbio recuou para a faixa de 1.450 wons, e o v.daum.net informou que o mercado cambial resistiu por enquanto às preocupações com a guerra no Oriente Médio.",
-        "body": "O câmbio caiu para a faixa de 1.450 wons, indicando que o mercado superou por ora os fatores de instabilidade ligados à guerra no Oriente Médio. O v.daum.net informou que a taxa recuou fortemente para essa faixa.\n\nA reportagem destaca que, apesar da variável geopolítica da guerra no Oriente Médio, o câmbio desceu até a faixa de 1.450 wons. O número central do título é essa faixa, enquanto os mercados vinham observando o peso das preocupações com a guerra sobre a taxa de câmbio.\n\nA queda sugere que o choque da guerra no Oriente Médio não está, de imediato, abalando o mercado cambial como um todo. O texto original não apresentou novas projeções nem comentários específicos de autoridades ou participantes.\nFonte: v.daum.net"
-      },
-      "de": {
-        "title": "Wechselkurs fällt auf 1.450-Won-Spanne, Nahostkrieg-Schock vorerst verkraftet",
-        "excerpt": "Der Wechselkurs sank in die Spanne von 1.450 Won. v.daum.net berichtete, der Devisenmarkt habe die Sorgen um den Krieg im Nahen Osten vorerst verkraftet.",
-        "body": "Der Wechselkurs fiel in die Spanne von 1.450 Won und zeigte damit, dass der Markt die mit dem Krieg im Nahen Osten verbundenen Unsicherheiten vorerst überwunden hat. v.daum.net berichtete, der Kurs sei deutlich auf diese Spanne gesunken.\n\nDer Bericht konzentriert sich darauf, dass der Wechselkurs trotz des geopolitischen Faktors Nahostkrieg bis in die 1.450-Won-Spanne zurückging. Die zentrale Zahl der Überschrift ist diese Spanne, während die Märkte beobachtet haben, wie Kriegsängste den Wechselkurs belasten.\n\nDer Rückgang deutet darauf hin, dass der Schock des Nahostkriegs den breiteren Devisenmarkt nicht unmittelbar erschüttert. Der Originaltext nannte keine weiteren Prognosen oder konkreten Kommentare von Beteiligten.\nQuelle: v.daum.net"
-      },
-      "fr": {
-        "title": "Le taux de change tombe autour de 1 450 wons, le choc du Moyen-Orient contenu pour l’instant",
-        "excerpt": "Le taux de change est revenu dans la zone des 1 450 wons, v.daum.net indiquant que le marché des changes a pour l’instant résisté aux craintes liées à la guerre au Moyen-Orient.",
-        "body": "Le taux de change est tombé dans la zone des 1 450 wons, montrant que le marché a pour l’instant surmonté les facteurs d’inquiétude liés à la guerre au Moyen-Orient. v.daum.net a rapporté que le taux avait fortement reculé vers ce niveau.\n\nL’article met l’accent sur la baisse du taux jusqu’à la zone des 1 450 wons malgré le facteur géopolitique que représente la guerre au Moyen-Orient. Le chiffre clé du titre est cette zone, tandis que les marchés surveillaient la pression exercée par les craintes de guerre sur le change.\n\nCette baisse suggère que le choc lié à la guerre au Moyen-Orient ne déstabilise pas immédiatement l’ensemble du marché des changes. Le texte original ne fournit pas de prévisions supplémentaires ni de commentaires précis de responsables.\nSource: v.daum.net"
-      },
-      "ar": {
-        "title": "سعر الصرف يهبط إلى نطاق 1450 وون والسوق يتجاوز مؤقتا صدمة حرب الشرق الأوسط",
-        "excerpt": "هبط سعر الصرف إلى نطاق 1450 وون، فيما أفاد v.daum.net بأن سوق الصرف تجاوز مؤقتا المخاوف المرتبطة بالحرب في الشرق الأوسط.",
-        "body": "هبط سعر الصرف إلى نطاق 1450 وون، في إشارة إلى أن السوق تجاوز في الوقت الراهن عوامل القلق المرتبطة بالحرب في الشرق الأوسط. وذكر v.daum.net أن سعر الصرف انخفض بقوة إلى هذا النطاق.\n\nيركز التقرير على أن سعر الصرف تراجع إلى نطاق 1450 وون رغم العامل الجيوسياسي المتمثل في حرب الشرق الأوسط. الرقم الأساسي الوارد في العنوان هو نطاق 1450 وون، بينما كانت الأسواق تراقب أثر مخاوف الحرب على سعر الصرف.\n\nيشير هذا الانخفاض إلى أن صدمة حرب الشرق الأوسط لا تهز سوق الصرف الأوسع بشكل فوري. ولم يقدم النص الأصلي توقعات إضافية أو تصريحات محددة من مسؤولين أو أطراف معنية.\nالمصدر: v.daum.net"
-      },
-      "hi": {
-        "title": "विनिमय दर 1450 वॉन दायरे में गिरी, मध्य पूर्व युद्ध का झटका फिलहाल पार",
-        "excerpt": "विनिमय दर 1450 वॉन के दायरे में आ गई। v.daum.net ने बताया कि मध्य पूर्व युद्ध की चिंताओं के बावजूद विदेशी मुद्रा बाजार ने फिलहाल झटका सह लिया है।",
-        "body": "विनिमय दर 1450 वॉन के दायरे में गिर गई, जिससे संकेत मिला कि बाजार ने मध्य पूर्व युद्ध से जुड़े चिंता कारकों को फिलहाल पार कर लिया है। v.daum.net ने बताया कि दर तेज गिरावट के साथ 1450 वॉन दायरे में आई।\n\nरिपोर्ट का केंद्र यह है कि मध्य पूर्व युद्ध जैसे भू-राजनीतिक कारक के बावजूद विनिमय दर 1450 वॉन दायरे तक नीचे आई। शीर्षक में मुख्य आंकड़ा 1450 वॉन दायरा है, जबकि बाजार युद्ध संबंधी चिंताओं के विनिमय दर पर प्रभाव को देखता रहा है।\n\nयह गिरावट संकेत देती है कि मध्य पूर्व युद्ध का झटका तत्काल व्यापक विदेशी मुद्रा बाजार को हिला नहीं रहा है। मूल रिपोर्ट में अतिरिक्त अनुमान या संबंधित पक्षों की विशिष्ट टिप्पणी नहीं दी गई।\nस्रोत: v.daum.net"
-      },
-      "id": {
-        "title": "Kurs Turun ke Kisaran 1.450 Won, Pasar Sementara Lewati Dampak Perang Timur Tengah",
-        "excerpt": "Kurs turun ke kisaran 1.450 won, sementara v.daum.net melaporkan pasar valuta asing untuk sementara mampu menahan kekhawatiran akibat perang di Timur Tengah.",
-        "body": "Kurs turun ke kisaran 1.450 won, menunjukkan bahwa pasar untuk sementara melewati faktor kecemasan terkait perang di Timur Tengah. v.daum.net melaporkan bahwa kurs merosot tajam ke kisaran tersebut.\n\nLaporan ini menyoroti penurunan kurs hingga kisaran 1.450 won meski ada variabel geopolitik berupa perang di Timur Tengah. Angka utama dalam judul adalah kisaran 1.450 won, sementara pasar terus mencermati tekanan kekhawatiran perang terhadap kurs.\n\nPenurunan ini dapat dibaca sebagai sinyal bahwa dampak perang di Timur Tengah belum langsung mengguncang pasar valuta asing secara luas. Naskah asli tidak menyajikan prospek tambahan atau komentar spesifik dari pihak terkait.\nSumber: v.daum.net"
-      }
-    }
-  },
-  {
-    "id": "85ad8a5ef869",
-    "slug": "1450원대까지-떨어진-원달러-환율중동-전쟁-이후-최저---한국경제-944499",
-    "channelId": "FX",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:54:56.141Z",
-    "updatedAt": "2026-05-06T07:54:56.141Z",
-    "sourceName": "한국경제",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90eEItZFZPUThqV1BtcmFaQTgtLUJxWHhvR05hNXJudlJuNGRDU3JwakdPMC1tbHVLTEo5X0tjVzBrZVdnWE4xd2tPMWhVU0JhTGNQOUNWTlVRZ9IBVEFVX3lxTE1vVUZWaFBLU2Q2aGs3bi1IUFl2ZzJUM3h3RFdUbEJfVkVNNU9pOUw1ZGN1Wm5PcGxBVEo5V0NJNWhtMm5BVkYwRDlkMUstYTRMZEh2Ng?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90eEItZFZPUThqV1BtcmFaQTgtLUJxWHhvR05hNXJudlJuNGRDU3JwakdPMC1tbHVLTEo5X0tjVzBrZVdnWE4xd2tPMWhVU0JhTGNQOUNWTlVRZ9IBVEFVX3lxTE1vVUZWaFBLU2Q2aGs3bi1IUFl2ZzJUM3h3RFdUbEJfVkVNNU9pOUw1ZGN1Wm5PcGxBVEo5V0NJNWhtMm5BVkYwRDlkMUstYTRMZEh2Ng?oc=5",
-    "titleFingerprint": "14d4386d3167c959b36ff36893da2a2add78162d",
-    "dedupKeys": [
-      "85ad8a5ef8697ac8a80d439df80b541fa8c15070",
-      "14d4386d3167c959b36ff36893da2a2add78162d",
-      "9242e194f3083167168b6cb7bc8a22f15cf24419"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "원·달러 환율 1450원대 하락, 중동 전쟁 이후 최저 수준",
-        "excerpt": "한국경제에 따르면 원·달러 환율이 1450원대까지 떨어지며 중동 전쟁 이후 최저 수준을 기록했다. 외환시장은 환율 하락 흐름과 배경에 주목하고 있다.",
-        "body": "한국경제 보도에 따르면 원·달러 환율이 1450원대까지 떨어지며 중동 전쟁 이후 가장 낮은 수준을 기록했다. 원화와 달러를 둘러싼 외환시장에서 환율 하락이 핵심 흐름으로 부각됐다.\n\n이번 보도에서 제시된 주요 수치는 1450원대다. 원·달러 환율이 이 구간까지 내려온 것은 중동 전쟁 이후 최저라는 점에서 시장의 관심을 끌었다.\n\n환율 하락은 수입·수출 기업과 외환 거래 참가자들이 주시하는 변수다. 다만 원문은 향후 전망이나 구체적인 관계자 발언을 별도로 제시하지 않았다.\n\n출처: 한국경제"
-      },
-      "en": {
-        "title": "Won-Dollar Rate Falls to 1,450 Range, Lowest Since Middle East War",
-        "excerpt": "According to The Korea Economic Daily, the won-dollar exchange rate fell to the 1,450 range, marking its lowest level since the Middle East war and drawing market attention.",
-        "body": "According to The Korea Economic Daily, the won-dollar exchange rate fell to the 1,450 range, reaching its lowest level since the Middle East war. The decline in the exchange rate emerged as the key move in the foreign exchange market involving the won and the dollar.\n\nThe main figure cited in the report is the 1,450 won range. The fact that the won-dollar rate has moved down to this level, the lowest since the Middle East war, drew attention from the market.\n\nA lower exchange rate is a factor watched by importers, exporters and foreign exchange market participants. The original report did not provide a separate outlook or specific comments from officials.\n\nSource: The Korea Economic Daily"
-      },
-      "ja": {
-        "title": "ウォン・ドル相場1450ウォン台に下落、中東戦争後の最安水準",
-        "excerpt": "韓国経済新聞によると、ウォン・ドル相場は1450ウォン台まで下落し、中東戦争以降で最も低い水準を記録した。市場は下落の流れに注目している。",
-        "body": "韓国経済新聞の報道によると、ウォン・ドル相場は1450ウォン台まで下落し、中東戦争以降で最も低い水準を記録した。ウォンとドルをめぐる外国為替市場では、相場下落が主要な動きとして浮上した。\n\n今回の報道で示された主な数値は1450ウォン台だ。ウォン・ドル相場がこの水準まで下がったのは中東戦争以降で最安という点で、市場の関心を集めた。\n\n相場下落は輸入・輸出企業や為替取引参加者が注視する要因だ。ただし原文では、今後の見通しや具体的な関係者コメントは別途示されていない。\n\n出典: 韓国経済新聞"
-      },
-      "zh": {
-        "title": "韩元兑美元汇率跌至1450韩元区间，为中东战争后最低",
-        "excerpt": "据《韩国经济》报道，韩元兑美元汇率跌至1450韩元区间，创中东战争以来最低水平。外汇市场正关注汇率下行走势及其背景。",
-        "body": "据《韩国经济》报道，韩元兑美元汇率跌至1450韩元区间，创下中东战争以来最低水平。在围绕韩元和美元的外汇市场中，汇率下跌成为主要动向。\n\n报道提出的核心数字是1450韩元区间。韩元兑美元汇率降至这一水平，并成为中东战争以来最低点，因此受到市场关注。\n\n汇率下跌是进出口企业和外汇交易参与者密切关注的变量。不过，原文并未另行提供未来展望或具体相关人士评论。\n\n来源: 韩国经济"
-      },
-      "es": {
-        "title": "El won-dólar cae al rango de 1.450, mínimo desde la guerra en Oriente Medio",
-        "excerpt": "Según The Korea Economic Daily, el tipo de cambio won-dólar cayó al rango de 1.450 wones, su nivel más bajo desde la guerra en Oriente Medio, atrayendo atención del mercado.",
-        "body": "Según The Korea Economic Daily, el tipo de cambio won-dólar cayó al rango de 1.450 wones y alcanzó su nivel más bajo desde la guerra en Oriente Medio. La caída del tipo de cambio se destacó como el movimiento principal en el mercado cambiario del won y el dólar.\n\nLa cifra clave mencionada en el reporte es el rango de 1.450 wones. Que el won-dólar haya bajado hasta ese nivel, el mínimo desde la guerra en Oriente Medio, llamó la atención del mercado.\n\nLa baja del tipo de cambio es una variable observada por importadores, exportadores y participantes del mercado de divisas. El texto original no incluyó una perspectiva futura ni comentarios concretos de funcionarios.\n\nFuente: The Korea Economic Daily"
-      },
-      "pt": {
-        "title": "Won-dólar cai para faixa de 1.450, menor nível desde guerra no Oriente Médio",
-        "excerpt": "Segundo o The Korea Economic Daily, o câmbio won-dólar caiu para a faixa de 1.450 wons, o menor nível desde a guerra no Oriente Médio, chamando atenção do mercado.",
-        "body": "Segundo o The Korea Economic Daily, a taxa de câmbio won-dólar caiu para a faixa de 1.450 wons, atingindo o menor nível desde a guerra no Oriente Médio. A queda do câmbio se destacou como o principal movimento no mercado envolvendo o won e o dólar.\n\nO principal número citado na reportagem é a faixa de 1.450 wons. O fato de o won-dólar ter recuado até esse patamar, o menor desde a guerra no Oriente Médio, atraiu atenção do mercado.\n\nA queda do câmbio é uma variável acompanhada por empresas importadoras, exportadoras e participantes do mercado de divisas. O texto original não trouxe perspectiva futura nem comentários específicos de autoridades.\n\nFonte: The Korea Economic Daily"
-      },
-      "de": {
-        "title": "Won-Dollar-Kurs fällt auf 1.450er-Spanne, Tief seit Nahostkrieg",
-        "excerpt": "Laut The Korea Economic Daily fiel der Won-Dollar-Wechselkurs in die 1.450er-Spanne und erreichte damit den niedrigsten Stand seit dem Nahostkrieg.",
-        "body": "Laut The Korea Economic Daily ist der Won-Dollar-Wechselkurs in die 1.450er-Spanne gefallen und hat damit den niedrigsten Stand seit dem Nahostkrieg erreicht. Am Devisenmarkt rund um Won und Dollar rückte der Rückgang des Wechselkurses in den Mittelpunkt.\n\nDie zentrale Zahl des Berichts ist die 1.450er-Spanne. Dass der Won-Dollar-Kurs bis auf dieses Niveau sank, den niedrigsten Stand seit dem Nahostkrieg, zog die Aufmerksamkeit des Marktes auf sich.\n\nEin niedrigerer Wechselkurs ist eine wichtige Variable für Import- und Exportunternehmen sowie Teilnehmer am Devisenhandel. Der Originalbericht nannte keine separate Prognose und keine konkreten Aussagen von Beteiligten.\n\nQuelle: The Korea Economic Daily"
-      },
-      "fr": {
-        "title": "Le won-dollar tombe dans la zone de 1 450, plus bas depuis la guerre au Moyen-Orient",
-        "excerpt": "Selon The Korea Economic Daily, le taux won-dollar est tombé dans la zone de 1 450 wons, son plus bas niveau depuis la guerre au Moyen-Orient, attirant l’attention du marché.",
-        "body": "Selon The Korea Economic Daily, le taux de change won-dollar est tombé dans la zone de 1 450 wons, atteignant son niveau le plus bas depuis la guerre au Moyen-Orient. Sur le marché des changes lié au won et au dollar, la baisse du taux s’est imposée comme le mouvement principal.\n\nLe chiffre central cité dans l’article est la zone de 1 450 wons. Le recul du won-dollar jusqu’à ce niveau, le plus bas depuis la guerre au Moyen-Orient, a retenu l’attention du marché.\n\nLa baisse du taux de change est une variable suivie par les importateurs, les exportateurs et les participants au marché des devises. Le texte original ne donne pas de prévisions ni de commentaires précis de responsables.\n\nSource: The Korea Economic Daily"
-      },
-      "ar": {
-        "title": "سعر الوون مقابل الدولار يهبط إلى نطاق 1450 وون، الأدنى منذ حرب الشرق الأوسط",
-        "excerpt": "بحسب صحيفة كوريا الاقتصادية، هبط سعر صرف الوون مقابل الدولار إلى نطاق 1450 وون، مسجلا أدنى مستوى منذ حرب الشرق الأوسط، ما جذب اهتمام سوق الصرف.",
-        "body": "بحسب صحيفة كوريا الاقتصادية، هبط سعر صرف الوون مقابل الدولار إلى نطاق 1450 وون، مسجلا أدنى مستوى له منذ حرب الشرق الأوسط. وفي سوق الصرف المرتبط بالوون والدولار، برز انخفاض السعر كحركة رئيسية.\n\nالرقم الأساسي الوارد في التقرير هو نطاق 1450 وون. ووصول سعر الوون مقابل الدولار إلى هذا المستوى، وهو الأدنى منذ حرب الشرق الأوسط، جذب اهتمام السوق.\n\nانخفاض سعر الصرف عامل تراقبه شركات الاستيراد والتصدير والمشاركون في تداول العملات. ولم يقدم النص الأصلي توقعات منفصلة أو تصريحات محددة من مسؤولين.\n\nالمصدر: كوريا الاقتصادية"
-      },
-      "hi": {
-        "title": "वॉन-डॉलर विनिमय दर 1450 के दायरे में गिरी, मध्य पूर्व युद्ध के बाद न्यूनतम",
-        "excerpt": "द कोरिया इकोनॉमिक डेली के अनुसार, वॉन-डॉलर विनिमय दर 1450 वॉन के दायरे तक गिर गई और मध्य पूर्व युद्ध के बाद अपने सबसे निचले स्तर पर पहुंची।",
-        "body": "द कोरिया इकोनॉमिक डेली के अनुसार, वॉन-डॉलर विनिमय दर 1450 वॉन के दायरे तक गिर गई और मध्य पूर्व युद्ध के बाद अपने सबसे निचले स्तर पर पहुंची। वॉन और डॉलर से जुड़े विदेशी मुद्रा बाजार में दर की गिरावट प्रमुख रुझान के रूप में उभरी।\n\nरिपोर्ट में बताया गया मुख्य आंकड़ा 1450 वॉन का दायरा है। वॉन-डॉलर दर का इस स्तर तक आना, और मध्य पूर्व युद्ध के बाद सबसे कम होना, बाजार का ध्यान खींच रहा है।\n\nविनिमय दर में गिरावट आयातक, निर्यातक और विदेशी मुद्रा कारोबारियों के लिए महत्वपूर्ण कारक है। मूल रिपोर्ट में भविष्य के अनुमान या अधिकारियों की विशिष्ट टिप्पणियां अलग से नहीं दी गईं।\n\nस्रोत: द कोरिया इकोनॉमिक डेली"
-      },
-      "id": {
-        "title": "Kurs won-dolar turun ke kisaran 1.450, terendah sejak perang Timur Tengah",
-        "excerpt": "Menurut The Korea Economic Daily, kurs won-dolar turun ke kisaran 1.450 won, mencatat level terendah sejak perang Timur Tengah dan menarik perhatian pasar valuta asing.",
-        "body": "Menurut The Korea Economic Daily, kurs won-dolar turun ke kisaran 1.450 won dan mencatat level terendah sejak perang Timur Tengah. Di pasar valuta asing yang melibatkan won dan dolar, penurunan kurs menjadi pergerakan utama.\n\nAngka utama yang disebut dalam laporan ini adalah kisaran 1.450 won. Turunnya kurs won-dolar ke level tersebut, yang merupakan posisi terendah sejak perang Timur Tengah, menarik perhatian pasar.\n\nPenurunan kurs merupakan variabel yang dipantau perusahaan impor, eksportir, dan pelaku transaksi valuta asing. Namun, naskah asli tidak memuat prospek lanjutan atau komentar khusus dari pihak terkait.\n\nSumber: The Korea Economic Daily"
-      }
-    }
-  },
-  {
-    "id": "3aa307d0f643",
-    "slug": "외국인-대규모-매수-7300피-돌파-이란-전쟁후-첫-1450원대-마감---글로벌이코노믹-695210",
-    "channelId": "FX",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:53:54.277Z",
-    "updatedAt": "2026-05-06T07:53:54.277Z",
-    "sourceName": "글로벌이코노믹",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUthaUJCVWxySjJZMGdMMEE0Y2JSY2VZdnloRGNQNVpiSGlUb05JRnlYallDbEFNaUJMV29DdlVweFo1ZmNWNHJvS1k3dEdOZWp5bUVnSUJJbHc2SlZ0V0FiNnhES2pHcGVqQ0hzeVE4MldYTWRwNUxhZlRhVEEtWDNqelQ?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUthaUJCVWxySjJZMGdMMEE0Y2JSY2VZdnloRGNQNVpiSGlUb05JRnlYallDbEFNaUJMV29DdlVweFo1ZmNWNHJvS1k3dEdOZWp5bUVnSUJJbHc2SlZ0V0FiNnhES2pHcGVqQ0hzeVE4MldYTWRwNUxhZlRhVEEtWDNqelQ?oc=5",
-    "titleFingerprint": "0a262d4d3b07d3c30fddbdfcac07841833339b73",
-    "dedupKeys": [
-      "3aa307d0f643e19f36c4e5dc94cb85f0c1068ee3",
-      "0a262d4d3b07d3c30fddbdfcac07841833339b73",
-      "872a5067c785f49e49a0a056a9701d5c6376b5a4"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "외국인 대규모 매수에 7300피 돌파, 원·달러 환율 1450원대 마감",
-        "excerpt": "글로벌이코노믹에 따르면 외국인 대규모 매수세가 이어지며 7300피를 돌파했고, 원·달러 환율은 이란 전쟁 후 처음으로 1450원대에서 마감했다.",
-        "body": "외국인 대규모 매수세가 이어지며 시장 지표가 7300피를 돌파했고, 원·달러 환율은 이란 전쟁 이후 처음으로 1450원대에서 마감했다고 글로벌이코노믹이 보도했다.\n\n보도에 따르면 이번 움직임의 핵심은 외국인 매수 규모와 환율 마감 수준이다. 외국인 수급이 강하게 유입된 가운데 7300피 돌파가 나타났고, 환율은 전쟁 이후 처음이라는 기준점과 함께 1450원대 마감으로 기록됐다.\n\n시장에서는 외국인 매수세와 환율 흐름이 동시에 부각되며 외환·금융시장 변동성에 대한 관심이 커졌다. 다만 기사 요약에는 구체적인 매수 금액, 세부 지수, 관계자 발언은 제시되지 않았다.\n출처: 글로벌이코노믹"
-      },
-      "en": {
-        "title": "Foreign Buying Pushes Market Past 7,300 Pips as Won Ends in 1,450 Range",
-        "excerpt": "Global Economic reported that heavy foreign buying lifted the market past 7,300 pips, while the won-dollar exchange rate closed in the 1,450 range for the first time since the Iran war.",
-        "body": "Heavy foreign buying pushed the market indicator above 7,300 pips, while the won-dollar exchange rate closed in the 1,450 range for the first time since the Iran war, Global Economic reported.\n\nAccording to the report, the key points were the scale of foreign buying and the exchange-rate closing level. Strong foreign inflows coincided with the move above 7,300 pips, and the exchange rate was recorded as closing in the 1,450 range for the first time since the war.\n\nThe simultaneous focus on foreign buying and exchange-rate movement drew attention to volatility in foreign-exchange and financial markets. The summary did not provide a specific purchase amount, detailed index data, or quoted comments.\nSource: Global Economic"
-      },
-      "ja": {
-        "title": "外国人の大規模買いで7300ピップ突破、ウォン相場は1450ウォン台で終了",
-        "excerpt": "グローバルエコノミックによると、外国人の大規模な買いが続き7300ピップを突破し、ウォン・ドル相場はイラン戦争後初めて1450ウォン台で取引を終えた。",
-        "body": "外国人による大規模な買いが続き、市場指標が7300ピップを突破し、ウォン・ドル相場はイラン戦争以降初めて1450ウォン台で終了したとグローバルエコノミックが報じた。\n\n報道によれば、今回の動きの焦点は外国人買いの規模と為替レートの終値水準だ。強い外国人資金の流入を背景に7300ピップ突破が示され、為替レートは戦争後初という基準とともに1450ウォン台での終了として記録された。\n\n市場では外国人買いと為替の動きが同時に注目され、外為・金融市場の変動性への関心が高まった。ただし記事要約には具体的な買越額、詳細な指数、関係者発言は示されていない。\n出典: グローバルエコノミック"
-      },
-      "zh": {
-        "title": "外资大举买入推动突破7300点，韩元汇率收于1450区间",
-        "excerpt": "据Global Economic报道，外资大规模买入推动市场突破7300点，韩元兑美元汇率在伊朗战争后首次收于1450韩元区间。",
-        "body": "Global Economic报道称，外资大规模买入推动市场指标突破7300点，韩元兑美元汇率在伊朗战争以来首次收于1450韩元区间。\n\n报道称，此次走势的核心在于外资买入力度和汇率收盘水平。在外资资金强劲流入的背景下，市场出现突破7300点的表现；同时，汇率以战后首次这一节点，记录在1450韩元区间收盘。\n\n市场对外资买入和汇率走势同步受到关注，外汇和金融市场波动性也因此成为焦点。不过，报道摘要未给出具体买入金额、详细指数数据或相关人士评论。\n来源: Global Economic"
-      },
-      "es": {
-        "title": "Compras extranjeras impulsan los 7.300 pips y el won cierra en 1.450",
-        "excerpt": "Según Global Economic, las fuertes compras de extranjeros llevaron el mercado por encima de 7.300 pips y el won-dólar cerró en la zona de 1.450 por primera vez desde la guerra de Irán.",
-        "body": "Las fuertes compras de inversores extranjeros llevaron el indicador de mercado por encima de 7.300 pips, mientras que el tipo de cambio won-dólar cerró en la zona de 1.450 por primera vez desde la guerra de Irán, informó Global Economic.\n\nSegún el reporte, los puntos centrales fueron la magnitud de las compras extranjeras y el nivel de cierre del tipo de cambio. La entrada firme de capital extranjero coincidió con la superación de los 7.300 pips, y el cambio quedó registrado en la zona de 1.450 como primer cierre de ese tipo desde la guerra.\n\nEl mercado prestó atención simultánea a las compras extranjeras y al movimiento cambiario, elevando el interés por la volatilidad financiera y de divisas. El resumen no incluyó montos concretos, datos detallados de índice ni comentarios de fuentes.\nFuente: Global Economic"
-      },
-      "pt": {
-        "title": "Compra estrangeira leva mercado acima de 7.300 pips e won fecha em 1.450",
-        "excerpt": "Segundo o Global Economic, fortes compras de estrangeiros levaram o mercado acima de 7.300 pips, enquanto o won-dólar fechou na faixa de 1.450 pela primeira vez desde a guerra do Irã.",
-        "body": "Fortes compras de investidores estrangeiros levaram o indicador de mercado acima de 7.300 pips, enquanto a taxa won-dólar fechou na faixa de 1.450 pela primeira vez desde a guerra do Irã, informou o Global Economic.\n\nDe acordo com a reportagem, os pontos centrais foram o volume das compras estrangeiras e o nível de fechamento do câmbio. A entrada firme de recursos externos coincidiu com a superação de 7.300 pips, e a taxa foi registrada na faixa de 1.450 como o primeiro fechamento desse tipo desde a guerra.\n\nO mercado passou a observar ao mesmo tempo o fluxo comprador estrangeiro e o movimento cambial, ampliando a atenção à volatilidade financeira e de câmbio. O resumo não trouxe valor específico das compras, dados detalhados de índice nem comentários de fontes.\nFonte: Global Economic"
-      },
-      "de": {
-        "title": "Ausländische Käufe treiben Markt über 7.300 Pips, Won schließt bei 1.450",
-        "excerpt": "Global Economic zufolge hoben starke ausländische Käufe den Markt über 7.300 Pips, während der Won-Dollar-Kurs erstmals seit dem Iran-Krieg im Bereich von 1.450 schloss.",
-        "body": "Starke Käufe ausländischer Investoren trieben den Marktindikator über 7.300 Pips, während der Won-Dollar-Wechselkurs erstmals seit dem Iran-Krieg im Bereich von 1.450 schloss, berichtete Global Economic.\n\nDem Bericht zufolge standen der Umfang der ausländischen Käufe und das Schlussniveau des Wechselkurses im Mittelpunkt. Kräftige ausländische Zuflüsse gingen mit dem Überschreiten von 7.300 Pips einher, und der Wechselkurs wurde als erster Schluss im Bereich von 1.450 seit dem Krieg verzeichnet.\n\nAm Markt rückten damit ausländische Käufe und die Wechselkursbewegung zugleich in den Fokus, wodurch das Interesse an der Volatilität an Devisen- und Finanzmärkten zunahm. Die Zusammenfassung nannte keinen konkreten Kaufbetrag, keine detaillierten Indexdaten und keine Zitate.\nQuelle: Global Economic"
-      },
-      "fr": {
-        "title": "Achats étrangers: seuil de 7.300 pips franchi, le won clôture à 1.450",
-        "excerpt": "Selon Global Economic, de forts achats étrangers ont porté le marché au-dessus de 7.300 pips, tandis que le won-dollar a clôturé dans la zone de 1.450 pour la première fois depuis la guerre en Iran.",
-        "body": "De forts achats d’investisseurs étrangers ont porté l’indicateur de marché au-dessus de 7.300 pips, tandis que le taux won-dollar a clôturé dans la zone de 1.450 pour la première fois depuis la guerre en Iran, a rapporté Global Economic.\n\nSelon le reportage, les éléments clés sont l’ampleur des achats étrangers et le niveau de clôture du taux de change. L’afflux marqué de capitaux étrangers a accompagné le franchissement des 7.300 pips, et le taux a été enregistré dans la zone de 1.450 comme une première depuis la guerre.\n\nLe marché a porté son attention à la fois sur les achats étrangers et sur l’évolution du change, renforçant l’intérêt pour la volatilité des marchés financiers et des devises. Le résumé ne précise ni montant d’achat, ni indice détaillé, ni commentaire de source.\nSource: Global Economic"
-      },
-      "ar": {
-        "title": "مشتريات أجنبية تدفع السوق فوق 7300 نقطة والوون يغلق عند 1450",
-        "excerpt": "أفادت غلوبال إيكونوميك بأن مشتريات أجنبية كبيرة دفعت المؤشر إلى تجاوز 7300 نقطة، بينما أغلق سعر صرف الوون مقابل الدولار في نطاق 1450 لأول مرة منذ حرب إيران.",
-        "body": "أفادت غلوبال إيكونوميك بأن مشتريات كبيرة من المستثمرين الأجانب دفعت مؤشر السوق إلى تجاوز 7300 نقطة، فيما أغلق سعر صرف الوون مقابل الدولار في نطاق 1450 لأول مرة منذ حرب إيران.\n\nووفق التقرير، كان محور الحركة هو حجم المشتريات الأجنبية ومستوى إغلاق سعر الصرف. فقد تزامن تدفق قوي للأموال الأجنبية مع تجاوز مستوى 7300 نقطة، وسجل سعر الصرف إغلاقا في نطاق 1450 باعتباره الأول من نوعه منذ الحرب.\n\nوأدى تزامن التركيز على مشتريات الأجانب وحركة سعر الصرف إلى زيادة الاهتمام بتقلبات أسواق العملات والأسواق المالية. ولم يتضمن الملخص قيمة محددة للمشتريات أو بيانات تفصيلية للمؤشر أو تصريحات لمسؤولين.\nالمصدر: غلوبال إيكونوميك"
-      },
-      "hi": {
-        "title": "विदेशी खरीद से 7,300 पिप्स पार, वॉन 1,450 दायरे में बंद",
-        "excerpt": "ग्लोबल इकोनॉमिक के अनुसार, विदेशी निवेशकों की बड़ी खरीद से बाजार 7,300 पिप्स के ऊपर गया और वॉन-डॉलर दर ईरान युद्ध के बाद पहली बार 1,450 के दायरे में बंद हुई।",
-        "body": "ग्लोबल इकोनॉमिक ने बताया कि विदेशी निवेशकों की बड़ी खरीदारी से बाजार संकेतक 7,300 पिप्स के ऊपर चला गया, जबकि वॉन-डॉलर विनिमय दर ईरान युद्ध के बाद पहली बार 1,450 के दायरे में बंद हुई।\n\nरिपोर्ट के अनुसार, इस चाल के मुख्य बिंदु विदेशी खरीद का आकार और विनिमय दर का बंद स्तर थे। मजबूत विदेशी पूंजी प्रवाह के बीच 7,300 पिप्स का स्तर पार हुआ और विनिमय दर युद्ध के बाद पहली बार 1,450 के दायरे में बंद दर्ज की गई।\n\nबाजार में विदेशी खरीद और विनिमय दर की चाल दोनों पर ध्यान बढ़ा, जिससे विदेशी मुद्रा और वित्तीय बाजारों की अस्थिरता को लेकर रुचि बढ़ी। सारांश में खरीद की सटीक राशि, विस्तृत सूचकांक आंकड़े या संबंधित टिप्पणियां नहीं दी गईं।\nस्रोत: ग्लोबल इकोनॉमिक"
-      },
-      "id": {
-        "title": "Aksi Beli Asing Dorong 7.300 Pip, Won Ditutup di Kisaran 1.450",
-        "excerpt": "Menurut Global Economic, aksi beli besar investor asing mendorong pasar menembus 7.300 pip, sementara kurs won-dolar ditutup di kisaran 1.450 untuk pertama kali sejak perang Iran.",
-        "body": "Aksi beli besar oleh investor asing mendorong indikator pasar menembus 7.300 pip, sementara kurs won-dolar ditutup di kisaran 1.450 untuk pertama kali sejak perang Iran, lapor Global Economic.\n\nMenurut laporan tersebut, pokok pergerakan ini adalah skala pembelian asing dan level penutupan nilai tukar. Arus masuk asing yang kuat terjadi bersamaan dengan tembusnya 7.300 pip, dan nilai tukar tercatat ditutup di kisaran 1.450 sebagai yang pertama sejak perang.\n\nPasar menyoroti pembelian asing dan pergerakan kurs secara bersamaan, sehingga perhatian terhadap volatilitas pasar valuta asing dan keuangan meningkat. Ringkasan tidak mencantumkan nilai pembelian spesifik, data indeks rinci, atau komentar narasumber.\nSumber: Global Economic"
       }
     }
   }
