@@ -1,5 +1,230 @@
 [
   {
+    "id": "a681c3b4c7e0",
+    "slug": "아기곰컴퍼니-중기부-팁스-선정-322391",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T19:54:15.233Z",
+    "updatedAt": "2026-05-06T19:54:15.233Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12037176",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12037176",
+    "titleFingerprint": "133b778b4b0c7c77985092c17bdf5cc9a665c239",
+    "dedupKeys": [
+      "a681c3b4c7e0e61ed3b7a61b416e16b674027db2",
+      "133b778b4b0c7c77985092c17bdf5cc9a665c239",
+      "008fee18d179b7be58bdc47a907b4cf4224044c7"
+    ],
+    "imageUrl": "/images/articles/a681c3b4c7e0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "아기곰컴퍼니, 중기부 팁스 선정…AI 맞춤형 그림책 기술 고도화 본격화",
+        "excerpt": "영유아 책육아 플랫폼 스타트업 아기곰컴퍼니가 중소벤처기업부 팁스에 선정돼 2년간 최대 8억원의 R&D 자금을 확보하고 AI 맞춤형 그림책 기술 고도화에 나선다.",
+        "body": "영유아 책육아 플랫폼을 운영하는 스타트업 아기곰컴퍼니가 중소벤처기업부의 기술창업 지원 프로그램인 팁스(TIPS)에 선정됐다. 이번 선정으로 아기곰컴퍼니는 향후 2년간 최대 8억원의 연구개발(R&D) 자금을 확보하게 됐다. 회사는 확보한 자금을 바탕으로 AI 맞춤형 그림책 기술을 고도화할 계획이다. 팁스 선정은 기술 기반 창업기업의 연구개발 역량을 지원하는 프로그램이라는 점에서, 아기곰컴퍼니의 영유아 책육아 플랫폼과 AI 그림책 기술 개발에 힘을 더할 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Agigom Company Selected for Korea TIPS to Advance AI Personalized Picture Books",
+        "excerpt": "Agigom Company, a startup operating an early-childhood reading platform, was selected for Korea’s TIPS program and will secure up to 800 million won in R&D funding over two years.",
+        "body": "Agigom Company, a startup that operates an early-childhood reading platform, has been selected for TIPS, the technology startup support program run by South Korea’s Ministry of SMEs and Startups. Through the selection, the company will secure up to 800 million won in research and development funding over the next two years. Agigom Company plans to use the funding to advance its AI-based personalized picture book technology. As TIPS supports the R&D capabilities of technology-driven startups, the program is expected to add momentum to the company’s platform for early-childhood reading and its AI picture book development. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "アギゴムカンパニー、中企部TIPS選定でAI個別絵本技術を高度化へ",
+        "excerpt": "乳幼児向け読書育児プラットフォームを運営するスタートアップのアギゴムカンパニーが中小ベンチャー企業部のTIPSに選定され、2年間で最大8億ウォンのR&D資金を確保する。",
+        "body": "乳幼児向け読書育児プラットフォームを運営するスタートアップ、アギゴムカンパニーが、韓国中小ベンチャー企業部の技術創業支援プログラムであるTIPSに選定された。今回の選定により、同社は今後2年間で最大8億ウォンの研究開発（R&D）資金を確保することになった。アギゴムカンパニーは、確保した資金を基にAIによる個別対応型絵本技術の高度化を進める計画だ。TIPSは技術基盤スタートアップの研究開発力を支援する制度であり、同社の読書育児プラットフォームとAI絵本技術開発を後押しするとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Agigom Company入选韩国TIPS，推进AI个性化绘本技术升级",
+        "excerpt": "运营婴幼儿亲子阅读平台的初创企业Agigom Company入选韩国中小风险企业部TIPS项目，将在两年内获得最高8亿韩元研发资金。",
+        "body": "运营婴幼儿亲子阅读平台的初创企业Agigom Company已入选韩国中小风险企业部的技术创业支持项目TIPS。凭借此次入选，该公司将在未来两年内获得最高8亿韩元的研发资金。Agigom Company计划以这笔资金为基础，推进AI个性化绘本技术的升级。TIPS旨在支持技术型创业企业的研发能力，因此此次入选预计将为该公司的婴幼儿阅读育儿平台和AI绘本技术开发提供助力。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Agigom Company entra en TIPS y acelerará sus libros ilustrados con IA",
+        "excerpt": "Agigom Company, startup que opera una plataforma de lectura para primera infancia, fue seleccionada por TIPS de Corea y obtendrá hasta 800 millones de wones para I+D en dos años.",
+        "body": "Agigom Company, una startup que opera una plataforma de lectura y crianza para la primera infancia, fue seleccionada para TIPS, el programa de apoyo a startups tecnológicas del Ministerio de Pymes y Startups de Corea del Sur. Con esta selección, la empresa podrá asegurar hasta 800 millones de wones en fondos de investigación y desarrollo durante los próximos dos años. Agigom Company planea usar esos recursos para mejorar su tecnología de libros ilustrados personalizados con IA. Dado que TIPS apoya la capacidad de I+D de startups de base tecnológica, se espera que impulse la plataforma de la empresa y su desarrollo de libros ilustrados con IA. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Agigom Company é escolhida pelo TIPS e avançará em livros infantis com IA",
+        "excerpt": "A Agigom Company, startup de plataforma de leitura para primeira infância, foi selecionada pelo TIPS da Coreia e terá até 800 milhões de won em recursos de P&D por dois anos.",
+        "body": "A Agigom Company, startup que opera uma plataforma de leitura e educação para a primeira infância, foi selecionada para o TIPS, programa de apoio a startups tecnológicas do Ministério das PMEs e Startups da Coreia do Sul. Com a seleção, a empresa poderá garantir até 800 milhões de won em financiamento de pesquisa e desenvolvimento ao longo dos próximos dois anos. A Agigom Company pretende usar os recursos para aprimorar sua tecnologia de livros ilustrados personalizados com IA. Como o TIPS apoia a capacidade de P&D de startups de base tecnológica, a escolha deve fortalecer a plataforma da empresa e o desenvolvimento de livros ilustrados com IA. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Agigom Company für TIPS ausgewählt und baut KI-Bilderbuchtechnik aus",
+        "excerpt": "Agigom Company, Betreiber einer Leseplattform für Kleinkinder, wurde für Koreas TIPS-Programm ausgewählt und erhält über zwei Jahre bis zu 800 Mio. Won für F&E.",
+        "body": "Agigom Company, ein Startup mit einer Plattform für frühkindliche Leseförderung, wurde für TIPS ausgewählt, das Technologiegründungsprogramm des südkoreanischen Ministeriums für KMU und Startups. Durch die Auswahl kann das Unternehmen in den kommenden zwei Jahren bis zu 800 Millionen Won an Mitteln für Forschung und Entwicklung sichern. Agigom Company will die Mittel nutzen, um seine KI-Technologie für personalisierte Bilderbücher weiterzuentwickeln. Da TIPS die F&E-Fähigkeiten technologiebasierter Startups unterstützt, dürfte das Programm die Plattform des Unternehmens und die Entwicklung seiner KI-Bilderbuchtechnologie stärken. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Agigom Company retenue par TIPS pour renforcer ses albums personnalisés par IA",
+        "excerpt": "Agigom Company, startup exploitant une plateforme de lecture pour la petite enfance, a été retenue par le programme coréen TIPS et obtiendra jusqu’à 800 millions de wons en R&D sur deux ans.",
+        "body": "Agigom Company, startup qui exploite une plateforme de lecture et d’accompagnement parental pour la petite enfance, a été retenue par TIPS, le programme de soutien aux startups technologiques du ministère sud-coréen des PME et des Startups. Cette sélection permettra à l’entreprise d’obtenir jusqu’à 800 millions de wons de financement en recherche et développement au cours des deux prochaines années. Agigom Company prévoit d’utiliser ces fonds pour améliorer sa technologie d’albums illustrés personnalisés par IA. TIPS soutenant les capacités de R&D des startups technologiques, cette sélection devrait appuyer sa plateforme et le développement de ses albums illustrés par IA. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "اختيار Agigom Company لبرنامج TIPS لتطوير كتب مصورة مخصصة بالذكاء الاصطناعي",
+        "excerpt": "اختيرت Agigom Company، وهي شركة ناشئة تدير منصة قراءة للطفولة المبكرة، ضمن برنامج TIPS الكوري، وستحصل على ما يصل إلى 800 مليون وون لتمويل البحث والتطوير خلال عامين.",
+        "body": "اختيرت Agigom Company، وهي شركة ناشئة تدير منصة للقراءة والتربية الموجهة للأطفال في مرحلة الطفولة المبكرة، ضمن برنامج TIPS لدعم الشركات التقنية الناشئة التابع لوزارة الشركات الصغيرة والمتوسطة والناشئة في كوريا الجنوبية. وبموجب هذا الاختيار، ستتمكن الشركة من تأمين تمويل للبحث والتطوير يصل إلى 800 مليون وون خلال العامين المقبلين. وتعتزم Agigom Company استخدام هذا التمويل لتطوير تقنيتها الخاصة بالكتب المصورة المخصصة بالذكاء الاصطناعي. وبما أن TIPS يدعم قدرات البحث والتطوير لدى الشركات الناشئة القائمة على التقنية، فمن المتوقع أن يعزز منصة الشركة وتطوير كتبها المصورة المعتمدة على الذكاء الاصطناعي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Agigom Company TIPS में चयनित, AI पर्सनलाइज्ड पिक्चर बुक तकनीक होगी उन्नत",
+        "excerpt": "शिशु और छोटे बच्चों की रीडिंग प्लेटफॉर्म चलाने वाली स्टार्टअप Agigom Company को कोरिया के TIPS कार्यक्रम में चुना गया है और उसे दो वर्षों में R&D के लिए अधिकतम 80 करोड़ वोन मिलेंगे।",
+        "body": "शिशु और छोटे बच्चों के लिए रीडिंग और पालन-पोषण प्लेटफॉर्म चलाने वाली स्टार्टअप Agigom Company को दक्षिण कोरिया के SMEs and Startups मंत्रालय के तकनीकी स्टार्टअप समर्थन कार्यक्रम TIPS में चुना गया है। इस चयन के साथ कंपनी अगले दो वर्षों में अनुसंधान और विकास के लिए अधिकतम 80 करोड़ वोन की फंडिंग हासिल करेगी। Agigom Company इस धन का उपयोग AI आधारित पर्सनलाइज्ड पिक्चर बुक तकनीक को उन्नत करने में करेगी। TIPS तकनीक-आधारित स्टार्टअप्स की R&D क्षमता का समर्थन करता है, इसलिए इससे कंपनी के प्रारंभिक बाल्यावस्था रीडिंग प्लेटफॉर्म और AI पिक्चर बुक तकनीक विकास को बल मिलने की उम्मीद है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Agigom Company Terpilih TIPS, Teknologi Buku Bergambar AI Akan Ditingkatkan",
+        "excerpt": "Agigom Company, startup platform membaca untuk anak usia dini, terpilih dalam program TIPS Korea dan akan memperoleh dana R&D hingga 800 juta won selama dua tahun.",
+        "body": "Agigom Company, startup yang mengoperasikan platform membaca dan pengasuhan untuk anak usia dini, terpilih dalam TIPS, program dukungan startup teknologi dari Kementerian UKM dan Startup Korea Selatan. Melalui seleksi ini, perusahaan akan memperoleh dana penelitian dan pengembangan hingga 800 juta won selama dua tahun ke depan. Agigom Company berencana menggunakan dana tersebut untuk meningkatkan teknologi buku bergambar personal berbasis AI. Karena TIPS mendukung kapasitas R&D startup berbasis teknologi, program ini diperkirakan akan memperkuat platform membaca anak usia dini milik perusahaan dan pengembangan teknologi buku bergambar AI. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1d9602e61015",
+    "slug": "국내-방산-기업-최초한화시스템-sp글로벌-지속가능지수-편입-738838",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T19:53:17.068Z",
+    "updatedAt": "2026-05-06T19:53:17.068Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12037179",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12037179",
+    "titleFingerprint": "38140e00cf484ff19aeb37d9e1fdef1f9f9cdca3",
+    "dedupKeys": [
+      "1d9602e61015323948997e6fbb529f4f7807db71",
+      "38140e00cf484ff19aeb37d9e1fdef1f9f9cdca3",
+      "3a74a3cb2e9b7af885212ba5a1beb27a09be04bd"
+    ],
+    "imageUrl": "/images/articles/1d9602e61015.png",
+    "i18n": {
+      "ko": {
+        "title": "한화시스템, 국내 방산 기업 최초 S&P글로벌 지속가능지수 편입",
+        "excerpt": "한화시스템이 S&P글로벌이 선정하는 아시아·태평양 지역 지속가능성 평가 지수에 국내 방산 기업 최초로 편입되며 ESG 경쟁력을 인정받았다.",
+        "body": "한화시스템이 글로벌 신용평가사 스탠더드앤드푸어스(S&P)가 선정하는 아시아·태평양 지역 지속가능성 평가 지수에 국내 방산 기업 최초로 이름을 올렸다. 이번 편입은 S&P글로벌의 지속가능성 평가에서 한화시스템이 아시아·태평양 지역 기업 가운데 관련 기준을 충족했다는 의미다. 특히 국내 방산 기업으로서는 처음이라는 점에서 지속가능경영과 ESG 평가 측면의 상징성이 크다. 한화시스템은 이번 지수 편입을 계기로 글로벌 시장에서 지속가능성 관련 신뢰도를 높일 수 있을 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hanwha Systems Joins S&P Global Sustainability Index, a First for Korean Defense",
+        "excerpt": "Hanwha Systems has become the first Korean defense company included in an Asia-Pacific sustainability assessment index selected by S&P Global.",
+        "body": "Hanwha Systems has been included for the first time among Korean defense companies in an Asia-Pacific regional sustainability assessment index selected by Standard & Poor’s, the global credit rating agency. The inclusion means Hanwha Systems met relevant criteria in S&P Global’s sustainability evaluation of companies in the Asia-Pacific region. Its status as the first domestic defense company on the index gives the move particular significance for sustainable management and ESG assessment. The listing is expected to help Hanwha Systems strengthen sustainability-related credibility in global markets. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ハンファシステム、韓国防衛企業初のS&Pグローバル持続可能性指数入り",
+        "excerpt": "ハンファシステムはS&Pグローバルが選定するアジア太平洋地域の持続可能性評価指数に、韓国防衛企業として初めて採用された。",
+        "body": "ハンファシステムは、世界的な信用格付け会社スタンダード・アンド・プアーズ（S&P）が選定するアジア太平洋地域の持続可能性評価指数に、韓国の防衛企業として初めて名を連ねた。今回の採用は、S&Pグローバルの持続可能性評価で、同社がアジア太平洋地域の企業の中で関連基準を満たしたことを意味する。特に韓国防衛企業として初という点で、持続可能経営とESG評価の面で象徴性が大きい。ハンファシステムは今回の指数採用を機に、グローバル市場で持続可能性に関する信頼度を高めることができるとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩华系统入选S&P全球可持续指数，韩国防务企业首次上榜",
+        "excerpt": "韩华系统成为韩国防务企业中首家入选S&P全球亚太地区可持续性评估指数的公司，显示其ESG竞争力获得认可。",
+        "body": "韩华系统成为韩国防务企业中首家进入全球信用评级机构标准普尔（S&P）所选亚太地区可持续性评估指数的公司。此次入选意味着韩华系统在S&P全球的可持续性评估中，符合亚太地区企业相关标准。尤其是作为韩国防务企业首次上榜，这在可持续经营和ESG评价层面具有象征意义。韩华系统有望借此次入选指数，在全球市场提升与可持续性相关的可信度。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hanwha Systems entra en índice sostenible de S&P Global, primera defensa coreana",
+        "excerpt": "Hanwha Systems fue incluida por S&P Global en un índice de sostenibilidad de Asia-Pacífico, convirtiéndose en la primera firma coreana de defensa en lograrlo.",
+        "body": "Hanwha Systems fue incluida por primera vez entre las empresas coreanas de defensa en un índice de evaluación de sostenibilidad para Asia-Pacífico seleccionado por Standard & Poor’s (S&P), la agencia global de calificación crediticia. La inclusión significa que Hanwha Systems cumplió criterios relevantes en la evaluación de sostenibilidad de S&P Global para compañías de la región. El hecho de ser la primera empresa nacional de defensa en el índice le da un peso simbólico en gestión sostenible y evaluación ESG. La incorporación podría ayudar a reforzar su credibilidad en sostenibilidad en los mercados globales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Hanwha Systems entra em índice sustentável da S&P Global, inédita na defesa coreana",
+        "excerpt": "A Hanwha Systems foi incluída por S&P Global em índice de sustentabilidade da Ásia-Pacífico, a primeira empresa de defesa sul-coreana a alcançar o feito.",
+        "body": "A Hanwha Systems foi incluída, pela primeira vez entre empresas sul-coreanas de defesa, em um índice de avaliação de sustentabilidade da região Ásia-Pacífico selecionado pela Standard & Poor’s (S&P), agência global de classificação de crédito. A inclusão indica que a empresa cumpriu critérios relevantes na avaliação de sustentabilidade da S&P Global para companhias da região. O fato de ser a primeira empresa nacional de defesa no índice tem significado simbólico para gestão sustentável e avaliação ESG. A entrada no índice deve ajudar a Hanwha Systems a elevar sua credibilidade ligada à sustentabilidade nos mercados globais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hanwha Systems in S&P Global Nachhaltigkeitsindex, Premiere für Koreas Rüstung",
+        "excerpt": "Hanwha Systems wurde als erstes südkoreanisches Rüstungsunternehmen in einen von S&P Global ausgewählten Nachhaltigkeitsindex für Asien-Pazifik aufgenommen.",
+        "body": "Hanwha Systems wurde als erstes südkoreanisches Rüstungsunternehmen in einen Nachhaltigkeitsbewertungsindex für die Region Asien-Pazifik aufgenommen, der von Standard & Poor’s (S&P), der globalen Ratingagentur, ausgewählt wird. Die Aufnahme bedeutet, dass Hanwha Systems in der Nachhaltigkeitsbewertung von S&P Global relevante Kriterien für Unternehmen der Region erfüllt hat. Besonders die erstmalige Aufnahme eines heimischen Rüstungsunternehmens hat symbolische Bedeutung für nachhaltige Unternehmensführung und ESG-Bewertungen. Hanwha Systems dürfte dadurch seine nachhaltigkeitsbezogene Glaubwürdigkeit auf globalen Märkten stärken können. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hanwha Systems rejoint l’indice durable de S&P Global, une première coréenne",
+        "excerpt": "Hanwha Systems a été intégrée par S&P Global à un indice de durabilité Asie-Pacifique, une première pour une entreprise coréenne de défense.",
+        "body": "Hanwha Systems a été intégrée, pour la première fois parmi les entreprises coréennes de défense, à un indice d’évaluation de la durabilité pour la région Asie-Pacifique sélectionné par Standard & Poor’s (S&P), agence mondiale de notation. Cette inclusion signifie que l’entreprise a satisfait aux critères pertinents de l’évaluation de durabilité de S&P Global pour les sociétés de la région. Le fait qu’il s’agisse de la première entreprise nationale de défense retenue confère une portée symbolique en matière de gestion durable et d’évaluation ESG. Cette entrée devrait aider Hanwha Systems à renforcer sa crédibilité liée à la durabilité sur les marchés mondiaux. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هانوا سيستمز تنضم لمؤشر الاستدامة من S&P Global كأول شركة دفاع كورية",
+        "excerpt": "أدرجت S&P Global شركة هانوا سيستمز في مؤشر لتقييم الاستدامة بمنطقة آسيا والمحيط الهادئ، لتصبح أول شركة دفاع كورية تحقق ذلك.",
+        "body": "أُدرجت هانوا سيستمز، للمرة الأولى بين شركات الدفاع الكورية، في مؤشر لتقييم الاستدامة في منطقة آسيا والمحيط الهادئ تختاره ستاندرد آند بورز (S&P)، وكالة التصنيف الائتماني العالمية. ويعني هذا الإدراج أن هانوا سيستمز استوفت المعايير ذات الصلة في تقييم الاستدامة لدى S&P Global للشركات في المنطقة. وتكتسب الخطوة دلالة خاصة لأنها الأولى لشركة دفاع محلية، بما يعزز رمزيتها في الإدارة المستدامة وتقييمات ESG. ومن المتوقع أن يساعد الإدراج الشركة على رفع مستوى الثقة المرتبطة بالاستدامة في الأسواق العالمية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Hanwha Systems S&P Global स्थिरता सूचकांक में, कोरियाई रक्षा क्षेत्र में पहली",
+        "excerpt": "Hanwha Systems को S&P Global द्वारा चुने गए एशिया-प्रशांत स्थिरता मूल्यांकन सूचकांक में शामिल किया गया, ऐसा करने वाली यह पहली कोरियाई रक्षा कंपनी है।",
+        "body": "Hanwha Systems को वैश्विक क्रेडिट रेटिंग एजेंसी Standard & Poor’s (S&P) द्वारा चुने गए एशिया-प्रशांत क्षेत्र के स्थिरता मूल्यांकन सूचकांक में शामिल किया गया है, और यह उपलब्धि हासिल करने वाली यह पहली कोरियाई रक्षा कंपनी है। इस शामिल किए जाने का अर्थ है कि Hanwha Systems ने S&P Global के स्थिरता मूल्यांकन में क्षेत्र की कंपनियों के लिए संबंधित मानदंड पूरे किए। घरेलू रक्षा कंपनी के रूप में पहली बार सूची में आना सतत प्रबंधन और ESG मूल्यांकन के लिहाज से प्रतीकात्मक महत्व रखता है। इस कदम से Hanwha Systems को वैश्विक बाजारों में स्थिरता से जुड़ी विश्वसनीयता बढ़ाने में मदद मिल सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hanwha Systems Masuk Indeks Keberlanjutan S&P Global, Pertama di Pertahanan Korea",
+        "excerpt": "Hanwha Systems masuk indeks penilaian keberlanjutan Asia-Pasifik pilihan S&P Global, menjadi perusahaan pertahanan Korea pertama yang mencapainya.",
+        "body": "Hanwha Systems masuk untuk pertama kalinya di antara perusahaan pertahanan Korea dalam indeks penilaian keberlanjutan kawasan Asia-Pasifik yang dipilih oleh Standard & Poor’s (S&P), lembaga pemeringkat kredit global. Masuknya perusahaan ini berarti Hanwha Systems memenuhi kriteria terkait dalam evaluasi keberlanjutan S&P Global terhadap perusahaan-perusahaan di kawasan tersebut. Status sebagai perusahaan pertahanan domestik pertama dalam indeks ini memberi makna simbolis bagi manajemen berkelanjutan dan penilaian ESG. Pencantuman ini diperkirakan dapat membantu Hanwha Systems meningkatkan kredibilitas terkait keberlanjutan di pasar global. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1826f0fcd288",
+    "slug": "오픈이노베이션-노하우-공유블루포인트-벤처스튜디오-세미나-개최-596869",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-06T19:52:16.181Z",
+    "updatedAt": "2026-05-06T19:52:16.181Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12037199",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12037199",
+    "titleFingerprint": "34f7c0656c3a304dc42ee845d8b5471a74e8a627",
+    "dedupKeys": [
+      "1826f0fcd288c5a2603170be57691530f7a43ae7",
+      "34f7c0656c3a304dc42ee845d8b5471a74e8a627",
+      "29fc06346e2fc1545c4849316a80a429414ee2b4"
+    ],
+    "imageUrl": "/images/articles/1826f0fcd288.jpg",
+    "i18n": {
+      "ko": {
+        "title": "블루포인트, 오픈이노베이션 실무 노하우 공유 세미나 개최",
+        "excerpt": "딥테크 액셀러레이터 블루포인트파트너스가 기업 내 오픈이노베이션 담당자를 대상으로 축적한 사례와 실무 노하우를 공유하는 벤처스튜디오 세미나를 개최한다.",
+        "body": "딥테크 액셀러레이터 블루포인트파트너스가 기업 내 오픈이노베이션(OI) 담당자를 대상으로 벤처스튜디오 세미나를 개최하고 실무 인사이트를 공유한다. 이번 세미나는 블루포인트가 그동안 축적한 오픈이노베이션 사례와 운영 노하우를 기업 담당자에게 전달하는 데 초점을 맞췄다. 오픈이노베이션은 기업이 외부 스타트업, 기술, 아이디어와 연결해 내부 혁신을 보완하는 방식으로 활용된다. 블루포인트는 딥테크 액셀러레이터로서 벤처스튜디오 운영 경험을 바탕으로 현장 중심의 사례를 소개할 예정이다. 기업 OI 담당자에게는 프로그램 설계와 협업 실행 과정에서 참고할 수 있는 실무 자료가 될 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Bluepoint to Hold Seminar Sharing Open Innovation Know-How",
+        "excerpt": "Deep-tech accelerator Bluepoint Partners will hold a venture studio seminar for corporate open innovation managers to share accumulated cases and practical know-how.",
+        "body": "Deep-tech accelerator Bluepoint Partners will hold a venture studio seminar for corporate open innovation (OI) managers and share practical insights. The seminar focuses on delivering Bluepoint’s accumulated open innovation cases and operational know-how to corporate staff in charge of OI. Open innovation is used by companies to complement internal innovation by connecting with external startups, technologies and ideas. Drawing on its experience as a deep-tech accelerator and venture studio operator, Bluepoint plans to introduce field-oriented examples. For corporate OI managers, the session is expected to serve as practical reference material for program design and collaboration execution. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ブルーポイント、オープンイノベーション実務ノウハウ共有セミナー開催",
+        "excerpt": "ディープテックアクセラレーターのブルーポイントパートナーズが、企業のオープンイノベーション担当者向けに事例と実務ノウハウを共有するベンチャースタジオセミナーを開催する。",
+        "body": "ディープテックアクセラレーターのブルーポイントパートナーズが、企業内のオープンイノベーション（OI）担当者を対象にベンチャースタジオセミナーを開催し、実務インサイトを共有する。今回のセミナーは、ブルーポイントがこれまで蓄積してきたオープンイノベーションの事例と運営ノウハウを企業担当者に伝えることに焦点を当てる。オープンイノベーションは、企業が外部のスタートアップ、技術、アイデアとつながり、内部の革新を補完する手法として活用される。ブルーポイントはディープテックアクセラレーターとしてのベンチャースタジオ運営経験を基に、現場中心の事例を紹介する予定だ。企業のOI担当者にとって、プログラム設計や協業実行の参考資料になるとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Bluepoint将举办开放式创新实务经验分享研讨会",
+        "excerpt": "深科技加速器Bluepoint Partners将面向企业开放式创新负责人举办风投工作室研讨会，分享积累的案例与实务经验。",
+        "body": "深科技加速器Bluepoint Partners将面向企业内部开放式创新（OI）负责人举办风投工作室研讨会，并分享实务洞察。本次研讨会的重点，是向企业相关负责人介绍Bluepoint此前积累的开放式创新案例和运营经验。开放式创新是企业通过连接外部初创企业、技术和创意来补充内部创新的一种方式。Bluepoint将基于其作为深科技加速器和风投工作室运营方的经验，介绍贴近现场的案例。对于企业OI负责人而言，此次活动预计可成为项目设计和协作执行过程中的实务参考资料。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Bluepoint realizará un seminario sobre know-how de innovación abierta",
+        "excerpt": "La aceleradora deep tech Bluepoint Partners celebrará un seminario de venture studio para responsables de innovación abierta en empresas, con casos acumulados y know-how práctico.",
+        "body": "La aceleradora deep tech Bluepoint Partners celebrará un seminario de venture studio dirigido a responsables de innovación abierta (OI) dentro de empresas y compartirá perspectivas prácticas. El seminario se centrará en trasladar a los encargados corporativos los casos de innovación abierta y el know-how operativo acumulados por Bluepoint. La innovación abierta se utiliza como una forma en que las empresas complementan su innovación interna conectándose con startups, tecnologías e ideas externas. Bluepoint prevé presentar ejemplos centrados en la práctica, basados en su experiencia como aceleradora deep tech y operadora de venture studio. Para los responsables corporativos de OI, la sesión podría servir como referencia práctica para diseñar programas y ejecutar colaboraciones. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Bluepoint fará seminário sobre know-how prático em inovação aberta",
+        "excerpt": "A aceleradora deep tech Bluepoint Partners realizará um seminário de venture studio para responsáveis por inovação aberta em empresas, compartilhando casos e know-how acumulados.",
+        "body": "A aceleradora deep tech Bluepoint Partners realizará um seminário de venture studio voltado a responsáveis por inovação aberta (OI) dentro de empresas e compartilhará insights práticos. O seminário terá como foco transmitir aos gestores corporativos os casos de inovação aberta e o know-how operacional acumulados pela Bluepoint. A inovação aberta é usada por empresas para complementar a inovação interna por meio da conexão com startups, tecnologias e ideias externas. Com base em sua experiência como aceleradora deep tech e operadora de venture studio, a Bluepoint pretende apresentar exemplos orientados à prática. Para responsáveis corporativos por OI, a sessão deve servir como referência prática para o desenho de programas e a execução de colaborações. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Bluepoint veranstaltet Seminar zu Praxiswissen in Open Innovation",
+        "excerpt": "Der Deep-Tech-Accelerator Bluepoint Partners veranstaltet ein Venture-Studio-Seminar für Open-Innovation-Verantwortliche in Unternehmen und teilt gesammelte Fälle sowie Praxiswissen.",
+        "body": "Der Deep-Tech-Accelerator Bluepoint Partners veranstaltet ein Venture-Studio-Seminar für Verantwortliche für Open Innovation (OI) in Unternehmen und teilt praktische Einblicke. Im Mittelpunkt des Seminars steht die Vermittlung der von Bluepoint gesammelten Open-Innovation-Fälle und operativen Erfahrungen an Unternehmensverantwortliche. Open Innovation wird von Unternehmen genutzt, um interne Innovation durch die Verbindung mit externen Start-ups, Technologien und Ideen zu ergänzen. Bluepoint will auf Basis seiner Erfahrung als Deep-Tech-Accelerator und Betreiber eines Venture Studios praxisnahe Beispiele vorstellen. Für OI-Verantwortliche in Unternehmen dürfte die Veranstaltung als praktische Referenz für Programmdesign und Zusammenarbeit dienen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Bluepoint organise un séminaire sur le savoir-faire en innovation ouverte",
+        "excerpt": "L’accélérateur deep tech Bluepoint Partners organisera un séminaire de venture studio destiné aux responsables de l’innovation ouverte en entreprise, avec partage de cas et de savoir-faire pratiques.",
+        "body": "L’accélérateur deep tech Bluepoint Partners organisera un séminaire de venture studio destiné aux responsables de l’innovation ouverte (OI) au sein des entreprises et partagera des enseignements pratiques. Le séminaire vise à transmettre aux responsables corporate les cas d’innovation ouverte et le savoir-faire opérationnel accumulés par Bluepoint. L’innovation ouverte est utilisée par les entreprises pour compléter leur innovation interne en se reliant à des startups, des technologies et des idées externes. Fort de son expérience d’accélérateur deep tech et d’opérateur de venture studio, Bluepoint prévoit de présenter des exemples orientés terrain. Pour les responsables OI en entreprise, cette session devrait servir de référence pratique pour concevoir des programmes et exécuter des collaborations. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "بلو بوينت تعقد ندوة لتبادل خبرات الابتكار المفتوح العملية",
+        "excerpt": "تعقد شركة Bluepoint Partners، مسرعة التقنيات العميقة، ندوة استوديو مشاريع لمسؤولي الابتكار المفتوح داخل الشركات لمشاركة حالات عملية وخبرات متراكمة.",
+        "body": "تعقد شركة Bluepoint Partners، وهي مسرعة للتقنيات العميقة، ندوة استوديو مشاريع تستهدف مسؤولي الابتكار المفتوح داخل الشركات، وتشارك خلالها رؤى عملية. وتركز الندوة على نقل الحالات والخبرات التشغيلية التي راكمتها Bluepoint في مجال الابتكار المفتوح إلى المسؤولين المعنيين داخل الشركات. ويُستخدم الابتكار المفتوح كطريقة تتيح للشركات استكمال الابتكار الداخلي عبر التواصل مع الشركات الناشئة والتقنيات والأفكار الخارجية. وتعتزم Bluepoint، استنادا إلى خبرتها كمسرعة للتقنيات العميقة ومشغلة لاستوديو مشاريع، تقديم أمثلة ميدانية. ومن المتوقع أن تكون الجلسة مرجعا عمليا لمسؤولي الابتكار المفتوح في تصميم البرامج وتنفيذ التعاون. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ब्लूपॉइंट ओपन इनोवेशन की व्यावहारिक जानकारी साझा करने को सेमिनार करेगा",
+        "excerpt": "डीप-टेक एक्सेलरेटर Bluepoint Partners कंपनियों के ओपन इनोवेशन प्रभारियों के लिए वेंचर स्टूडियो सेमिनार आयोजित करेगा, जिसमें संचित मामले और व्यावहारिक अनुभव साझा होंगे।",
+        "body": "डीप-टेक एक्सेलरेटर Bluepoint Partners कंपनियों के भीतर ओपन इनोवेशन (OI) प्रभारियों के लिए वेंचर स्टूडियो सेमिनार आयोजित करेगा और व्यावहारिक अंतर्दृष्टि साझा करेगा। इस सेमिनार का ध्यान Bluepoint द्वारा अब तक संचित ओपन इनोवेशन मामलों और संचालन संबंधी जानकारी को कंपनी प्रभारियों तक पहुंचाने पर है। ओपन इनोवेशन का उपयोग कंपनियां बाहरी स्टार्टअप, तकनीक और विचारों से जुड़कर आंतरिक नवाचार को पूरक बनाने के लिए करती हैं। Bluepoint डीप-टेक एक्सेलरेटर और वेंचर स्टूडियो ऑपरेटर के रूप में अपने अनुभव के आधार पर क्षेत्र-केंद्रित उदाहरण पेश करने की योजना रखता है। कंपनी OI प्रभारियों के लिए यह सत्र कार्यक्रम डिजाइन और सहयोग लागू करने की प्रक्रिया में व्यावहारिक संदर्भ बन सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Bluepoint Gelar Seminar Berbagi Praktik Open Innovation",
+        "excerpt": "Akselerator deep tech Bluepoint Partners akan menggelar seminar venture studio bagi penanggung jawab open innovation di perusahaan untuk berbagi kasus dan know-how praktis yang telah dihimpun.",
+        "body": "Akselerator deep tech Bluepoint Partners akan menggelar seminar venture studio bagi penanggung jawab open innovation (OI) di dalam perusahaan dan berbagi wawasan praktis. Seminar ini berfokus menyampaikan kasus open innovation dan know-how operasional yang telah dihimpun Bluepoint kepada para pengelola di perusahaan. Open innovation digunakan perusahaan untuk melengkapi inovasi internal dengan terhubung pada startup, teknologi, dan ide dari luar. Berdasarkan pengalamannya sebagai akselerator deep tech dan operator venture studio, Bluepoint berencana memperkenalkan contoh yang berorientasi pada praktik lapangan. Bagi penanggung jawab OI perusahaan, sesi ini diperkirakan dapat menjadi referensi praktis dalam merancang program dan menjalankan kolaborasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "dd88fbea635c",
     "slug": "주변-선박서-들릴-만큼-큰-폭발음나무호-퇴선-직전-긴박했던-순간-489723",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Aksi Beli Asing Dorong 7.300 Pip, Won Ditutup di Kisaran 1.450",
         "excerpt": "Menurut Global Economic, aksi beli besar investor asing mendorong pasar menembus 7.300 pip, sementara kurs won-dolar ditutup di kisaran 1.450 untuk pertama kali sejak perang Iran.",
         "body": "Aksi beli besar oleh investor asing mendorong indikator pasar menembus 7.300 pip, sementara kurs won-dolar ditutup di kisaran 1.450 untuk pertama kali sejak perang Iran, lapor Global Economic.\n\nMenurut laporan tersebut, pokok pergerakan ini adalah skala pembelian asing dan level penutupan nilai tukar. Arus masuk asing yang kuat terjadi bersamaan dengan tembusnya 7.300 pip, dan nilai tukar tercatat ditutup di kisaran 1.450 sebagai yang pertama sejak perang.\n\nPasar menyoroti pembelian asing dan pergerakan kurs secara bersamaan, sehingga perhatian terhadap volatilitas pasar valuta asing dan keuangan meningkat. Ringkasan tidak mencantumkan nilai pembelian spesifik, data indeks rinci, atau komentar narasumber.\nSumber: Global Economic"
-      }
-    }
-  },
-  {
-    "id": "2667defd9606",
-    "slug": "뉴욕증시-충격에-코스피-비상유가금리환율-3중고-덮치나---ebncokr-463512",
-    "channelId": "FX",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:52:43.707Z",
-    "updatedAt": "2026-05-06T07:52:43.707Z",
-    "sourceName": "ebn.co.kr",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RUjl4STNfYklKUUZsaDBRVVBmOEJqZDI5NkZ5aGpHR3AxV1NxUkxDUXNxZS1xYzZ6dkl2eWV5YklWRnF1T0tSNzFiOXExeWlXeEJaSGxxazcxMEpycWlIU19xcXgyYmh6?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RUjl4STNfYklKUUZsaDBRVVBmOEJqZDI5NkZ5aGpHR3AxV1NxUkxDUXNxZS1xYzZ6dkl2eWV5YklWRnF1T0tSNzFiOXExeWlXeEJaSGxxazcxMEpycWlIU19xcXgyYmh6?oc=5",
-    "titleFingerprint": "65a41200c39cf423a504051c50113d9c440d7bf1",
-    "dedupKeys": [
-      "2667defd9606cfd3fa6edb8b12aa0974ba696624",
-      "65a41200c39cf423a504051c50113d9c440d7bf1",
-      "4606b36898e1299e207c7f8bdd26f56f38ca3b1f"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "뉴욕증시 충격에 코스피 경계감 확대…유가·금리·환율 3중고 우려",
-        "excerpt": "EBN은 뉴욕증시 충격 여파로 코스피에 비상이 걸렸다고 보도했다. 유가와 금리, 환율 부담이 동시에 부각되며 국내 증시의 불확실성이 커지는 흐름이다.",
-        "body": "뉴욕증시 충격 이후 국내 주식시장에 경계감이 커지며 코스피가 외부 변수에 민감하게 반응할 가능성이 제기됐다. EBN은 유가, 금리, 환율이 동시에 부담으로 작용하는 이른바 ‘3중고’가 코스피에 영향을 줄 수 있다고 전했다.\n\n보도는 해외 증시 변동성이 국내 시장 심리에 연결되는 상황을 짚었다. 특히 원자재 가격을 대표하는 유가, 자금 조달 비용과 직결되는 금리, 수입 물가와 외국인 수급에 영향을 주는 환율이 함께 부각되고 있다는 점이 핵심이다.\n\n시장에서는 이들 변수가 동시에 악화될 경우 투자심리와 기업 비용 부담에 영향을 줄 수 있다는 우려가 나온다. 다만 보도에서 구체적인 지수 전망이나 추가 수치는 제시되지 않았다.\n\n출처: ebn.co.kr"
-      },
-      "en": {
-        "title": "KOSPI on Alert After New York Stock Shock as Oil, Rates and FX Risks Mount",
-        "excerpt": "EBN reported that the KOSPI is facing heightened caution after a shock in New York stocks, with oil prices, interest rates and exchange rates emerging as simultaneous burdens.",
-        "body": "Caution is growing in South Korea’s stock market after a shock in New York equities, raising the possibility that the KOSPI could react sensitively to external variables. EBN reported that oil prices, interest rates and exchange rates may act together as a “triple burden” on the KOSPI.\n\nThe report highlighted how volatility in overseas stock markets can feed into domestic market sentiment. The key issue is that oil prices, which represent commodity costs, interest rates tied to funding costs, and exchange rates affecting import prices and foreign investor flows are all drawing attention at the same time.\n\nMarket concern centers on the possibility that, if these factors worsen together, they could weigh on investor sentiment and corporate cost burdens. The report did not provide specific index forecasts or additional figures.\n\nSource: ebn.co.kr"
-      },
-      "ja": {
-        "title": "NY株ショックでKOSPIに警戒感、原油・金利・為替の三重苦に懸念",
-        "excerpt": "EBNは、ニューヨーク株式市場のショックを受けてKOSPIに警戒感が広がっていると報じた。原油価格、金利、為替が同時に負担として浮上している。",
-        "body": "ニューヨーク株式市場のショックを受け、韓国株式市場では警戒感が強まり、KOSPIが外部要因に敏感に反応する可能性が指摘されている。EBNは、原油価格、金利、為替が同時に負担となる「三重苦」がKOSPIに影響を及ぼす可能性があると伝えた。\n\n報道は、海外株式市場の変動性が韓国国内の市場心理につながる状況を取り上げた。特に、原材料価格を代表する原油価格、資金調達コストに直結する金利、輸入物価や外国人投資家の需給に影響する為替が同時に注目されている点が焦点だ。\n\n市場では、これらの要因が同時に悪化した場合、投資心理や企業のコスト負担に影響を与える可能性があるとの懸念が出ている。ただし、報道では具体的な指数見通しや追加の数値は示されていない。\n\n出典: ebn.co.kr"
-      },
-      "zh": {
-        "title": "纽约股市冲击令KOSPI警戒升温，油价利率汇率三重压力受关注",
-        "excerpt": "EBN报道称，纽约股市冲击后，韩国KOSPI面临更高警戒。油价、利率和汇率压力同时浮现，韩国股市不确定性有所加大。",
-        "body": "纽约股市出现冲击后，韩国股市警戒情绪升温，KOSPI可能对外部变量更加敏感。EBN报道称，油价、利率和汇率同时构成负担的“三重压力”可能影响KOSPI走势。\n\n报道指出，海外股市波动正在影响韩国国内市场情绪。核心在于，代表大宗商品成本的油价、直接关系融资成本的利率，以及影响进口价格和外资流向的汇率，正同时受到关注。\n\n市场担忧，如果这些因素同时恶化，可能影响投资情绪并加重企业成本负担。不过，报道并未提出具体指数预测或更多数据。\n\n来源: ebn.co.kr"
-      },
-      "es": {
-        "title": "El KOSPI en alerta tras el golpe en Wall Street por riesgos de petróleo, tasas y divisas",
-        "excerpt": "EBN informó que el KOSPI quedó bajo mayor vigilancia tras el impacto en la bolsa de Nueva York, mientras petróleo, tasas de interés y tipo de cambio emergen como cargas simultáneas.",
-        "body": "La cautela aumenta en el mercado bursátil surcoreano tras el impacto en la bolsa de Nueva York, lo que plantea la posibilidad de que el KOSPI reaccione con sensibilidad a factores externos. EBN informó que el petróleo, las tasas de interés y el tipo de cambio podrían actuar como una “triple carga” sobre el KOSPI.\n\nEl reporte destacó cómo la volatilidad de los mercados extranjeros puede trasladarse al ánimo del mercado local. El foco está en que los precios del petróleo, que reflejan costos de materias primas, las tasas ligadas al costo de financiamiento y el tipo de cambio que incide en precios de importación y flujos de inversores extranjeros aparecen al mismo tiempo.\n\nEn el mercado preocupa que, si estos factores empeoran de forma conjunta, puedan afectar la confianza inversora y elevar la carga de costos para las empresas. El reporte no presentó previsiones concretas del índice ni cifras adicionales.\n\nFuente: ebn.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI em alerta após choque em Nova York com pressão de petróleo, juros e câmbio",
-        "excerpt": "A EBN informou que o KOSPI entrou em estado de atenção após o choque nas ações de Nova York, enquanto petróleo, juros e câmbio surgem como pressões simultâneas.",
-        "body": "A cautela cresce no mercado acionário sul-coreano após o choque nas bolsas de Nova York, levantando a possibilidade de o KOSPI reagir de forma sensível a variáveis externas. A EBN informou que petróleo, juros e câmbio podem atuar juntos como uma “tripla pressão” sobre o KOSPI.\n\nA reportagem destacou como a volatilidade dos mercados externos pode se conectar ao sentimento do mercado doméstico. O ponto central é que os preços do petróleo, ligados aos custos de commodities, os juros, relacionados ao custo de financiamento, e o câmbio, que afeta preços de importação e fluxos de investidores estrangeiros, ganham atenção ao mesmo tempo.\n\nO mercado teme que, se esses fatores piorarem simultaneamente, possam pesar sobre o apetite dos investidores e sobre os custos das empresas. A reportagem não trouxe projeções específicas para o índice nem números adicionais.\n\nFonte: ebn.co.kr"
-      },
-      "de": {
-        "title": "KOSPI nach New Yorker Börsenschock unter Druck: Öl, Zinsen und Wechselkurs im Fokus",
-        "excerpt": "EBN berichtete, dass der KOSPI nach dem Schock an der New Yorker Börse stärker unter Beobachtung steht. Ölpreise, Zinsen und Wechselkurse treten zugleich als Belastungen hervor.",
-        "body": "Nach dem Schock an den New Yorker Aktienmärkten wächst die Vorsicht am südkoreanischen Aktienmarkt, und der KOSPI könnte empfindlich auf externe Faktoren reagieren. EBN berichtete, dass Ölpreise, Zinsen und Wechselkurse gemeinsam als „dreifache Belastung“ auf den KOSPI wirken könnten.\n\nDer Bericht hob hervor, wie die Volatilität ausländischer Aktienmärkte auf die Stimmung im heimischen Markt übergreifen kann. Im Mittelpunkt stehen Ölpreise als Maß für Rohstoffkosten, Zinsen als direkter Faktor für Finanzierungskosten sowie Wechselkurse, die Importpreise und ausländische Kapitalflüsse beeinflussen.\n\nAm Markt besteht die Sorge, dass eine gleichzeitige Verschlechterung dieser Faktoren die Anlegerstimmung und die Kostenbelastung der Unternehmen beeinträchtigen könnte. Konkrete Indexprognosen oder zusätzliche Zahlen nannte der Bericht nicht.\n\nQuelle: ebn.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI sous surveillance après le choc à New York, entre pétrole, taux et change",
-        "excerpt": "EBN a rapporté que le KOSPI suscite une vigilance accrue après le choc des actions à New York, alors que pétrole, taux d’intérêt et change apparaissent comme des pressions simultanées.",
-        "body": "La prudence augmente sur le marché actions sud-coréen après le choc observé à New York, laissant penser que le KOSPI pourrait réagir fortement aux facteurs externes. EBN a indiqué que les prix du pétrole, les taux d’intérêt et les taux de change pourraient former une “triple pression” sur le KOSPI.\n\nLe reportage souligne que la volatilité des marchés étrangers peut se transmettre au sentiment du marché local. Le point central est que le pétrole, indicateur des coûts des matières premières, les taux liés au coût du financement et le change, qui influe sur les prix à l’importation et les flux d’investisseurs étrangers, retiennent l’attention en même temps.\n\nLe marché craint que, si ces facteurs se détériorent simultanément, ils pèsent sur la confiance des investisseurs et sur les coûts des entreprises. Le reportage n’a pas donné de prévision précise pour l’indice ni de chiffres supplémentaires.\n\nSource: ebn.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي تحت الضغط بعد صدمة أسهم نيويورك مع مخاطر النفط والفائدة والصرف",
-        "excerpt": "أفادت EBN بأن مؤشر كوسبي يواجه حالة حذر أكبر بعد صدمة أسهم نيويورك، في ظل بروز أسعار النفط والفائدة وسعر الصرف كأعباء متزامنة على السوق.",
-        "body": "تزايد الحذر في سوق الأسهم الكورية الجنوبية بعد صدمة أسهم نيويورك، ما يثير احتمال أن يتفاعل مؤشر كوسبي بحساسية مع العوامل الخارجية. وذكرت EBN أن أسعار النفط وأسعار الفائدة وسعر الصرف قد تشكل معا “عبئا ثلاثيا” على كوسبي.\n\nوأوضح التقرير أن تقلبات أسواق الأسهم الخارجية يمكن أن تنتقل إلى معنويات السوق المحلية. وتتمثل النقطة الرئيسية في أن أسعار النفط، التي تعبر عن تكلفة السلع الأولية، وأسعار الفائدة المرتبطة بتكلفة التمويل، وسعر الصرف المؤثر في أسعار الواردات وتدفقات المستثمرين الأجانب، كلها باتت محط اهتمام في الوقت نفسه.\n\nوتتركز مخاوف السوق على أن تدهور هذه العوامل مجتمعة قد يضغط على معنويات المستثمرين ويزيد أعباء التكاليف على الشركات. ولم يقدم التقرير توقعات محددة للمؤشر أو أرقاما إضافية.\n\nالمصدر: ebn.co.kr"
-      },
-      "hi": {
-        "title": "न्यूयॉर्क शेयर झटके के बाद KOSPI सतर्क, तेल, दरों और विनिमय दर का दबाव",
-        "excerpt": "EBN ने बताया कि न्यूयॉर्क शेयर बाजार के झटके के बाद KOSPI पर सतर्कता बढ़ी है। तेल कीमतें, ब्याज दरें और विनिमय दर एक साथ दबाव के रूप में उभर रही हैं।",
-        "body": "न्यूयॉर्क शेयर बाजार में आए झटके के बाद दक्षिण कोरियाई शेयर बाजार में सतर्कता बढ़ रही है और KOSPI के बाहरी कारकों पर संवेदनशील प्रतिक्रिया देने की संभावना जताई गई है। EBN ने बताया कि तेल कीमतें, ब्याज दरें और विनिमय दर मिलकर KOSPI पर “तीहरा दबाव” बना सकती हैं।\n\nरिपोर्ट में बताया गया कि विदेशी शेयर बाजारों की अस्थिरता घरेलू बाजार की धारणा से जुड़ सकती है। मुख्य बात यह है कि कच्चे माल की लागत का संकेत देने वाली तेल कीमतें, वित्तपोषण लागत से जुड़ी ब्याज दरें और आयात कीमतों तथा विदेशी निवेशक प्रवाह को प्रभावित करने वाली विनिमय दर एक साथ ध्यान में हैं।\n\nबाजार में चिंता है कि यदि ये कारक एक साथ बिगड़ते हैं, तो निवेशक धारणा और कंपनियों की लागत पर असर पड़ सकता है। रिपोर्ट में सूचकांक का कोई विशिष्ट अनुमान या अतिरिक्त आंकड़े नहीं दिए गए।\n\nस्रोत: ebn.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Waspada Usai Guncangan Saham New York, Tertekan Minyak, Suku Bunga dan Kurs",
-        "excerpt": "EBN melaporkan bahwa KOSPI berada dalam kewaspadaan lebih tinggi setelah guncangan saham New York, sementara harga minyak, suku bunga dan nilai tukar muncul sebagai beban bersamaan.",
-        "body": "Kewaspadaan meningkat di pasar saham Korea Selatan setelah guncangan di bursa New York, memunculkan kemungkinan KOSPI bereaksi sensitif terhadap faktor eksternal. EBN melaporkan bahwa harga minyak, suku bunga dan nilai tukar dapat bersama-sama menjadi “beban tiga lapis” bagi KOSPI.\n\nLaporan itu menyoroti bagaimana volatilitas pasar saham luar negeri dapat memengaruhi sentimen pasar domestik. Fokus utamanya adalah harga minyak yang mewakili biaya komoditas, suku bunga yang terkait langsung dengan biaya pendanaan, serta nilai tukar yang memengaruhi harga impor dan arus investor asing, semuanya menjadi perhatian pada saat yang sama.\n\nPasar khawatir jika faktor-faktor tersebut memburuk bersamaan, sentimen investor dan beban biaya perusahaan dapat terdampak. Laporan tersebut tidak menyajikan proyeksi indeks tertentu atau angka tambahan.\n\nSumber: ebn.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c96cd4bfa0af",
-    "slug": "이란戰-재고조에-금융시장-다시-요동-국제유가美-국채금리-일제-급등-韓-환율도-다시-1470원대-중반으로----154088",
-    "channelId": "FX",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:51:23.145Z",
-    "updatedAt": "2026-05-06T07:51:23.145Z",
-    "sourceName": "뉴데일리 경제",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlZDk3OFhrbDRjU2pObGIzaGxNbWc0MjltQVc1S2F1QkdYOGUxZ3g5bmhfdXBja24xYzlJVmdDazVNWHZpRzh2VmhSbUdWbmNlMUFUU2ppeWExY1JBZ0dOMkxiaUVORUF6ZlZ3Mmx5NEdkWDIxeG1qMU5uMA?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlZDk3OFhrbDRjU2pObGIzaGxNbWc0MjltQVc1S2F1QkdYOGUxZ3g5bmhfdXBja24xYzlJVmdDazVNWHZpRzh2VmhSbUdWbmNlMUFUU2ppeWExY1JBZ0dOMkxiaUVORUF6ZlZ3Mmx5NEdkWDIxeG1qMU5uMA?oc=5",
-    "titleFingerprint": "92daf33a93c46a9207399f07cb5b7f82be3a7029",
-    "dedupKeys": [
-      "c96cd4bfa0af37d6654cc1cd65bcbbaa5a1f6d5c",
-      "92daf33a93c46a9207399f07cb5b7f82be3a7029",
-      "9c8152fa787bbd7e914370c6778da53b1db24261"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "이란전 재고조에 금융시장 요동, 국제유가·미 국채금리 급등",
-        "excerpt": "이란전 재고조 우려로 금융시장이 다시 흔들리며 국제유가와 미국 국채금리가 일제히 급등했고, 한국 원·달러 환율도 1470원대 중반으로 올라섰다.",
-        "body": "이란전 재고조 우려가 커지면서 금융시장이 다시 요동쳤다. 국제유가와 미국 국채금리가 일제히 급등했고, 한국 원·달러 환율도 1470원대 중반으로 다시 올라섰다.\n\n이번 움직임은 중동 지역 긴장 재부각이 글로벌 금융시장 전반의 변동성을 키운 데 따른 것이다. 원문은 국제유가와 미국 국채금리 상승, 한국 환율의 1470원대 중반 재진입을 주요 시장 반응으로 전했다.\n\n시장 참가자들은 지정학적 리스크가 유가와 금리, 환율에 동시에 영향을 미치는 흐름을 주시하고 있다. 다만 원문은 향후 정책 대응이나 구체적 전망 수치를 추가로 제시하지 않았다.\n\n출처: 뉴데일리 경제"
-      },
-      "en": {
-        "title": "Iran War Fears Shake Markets as Oil, US Yields and Won-Dollar Rate Jump",
-        "excerpt": "Renewed fears over an Iran war rattled financial markets, sending international oil prices and US Treasury yields sharply higher while Korea’s won-dollar rate returned to the mid-1,470 won range.",
-        "body": "Financial markets were shaken again as fears of a renewed Iran war intensified. International oil prices and US Treasury yields rose sharply, while Korea’s won-dollar exchange rate moved back into the mid-1,470 won range.\n\nThe market moves reflected renewed tensions in the Middle East and the broader volatility they created across global financial markets. The original report highlighted rising oil prices, higher US bond yields and the Korean exchange rate’s return to the mid-1,470 won level as key reactions.\n\nMarket participants are watching how geopolitical risk is affecting oil, rates and foreign exchange at the same time. The source did not provide additional figures on future policy responses or specific forecasts.\n\nSource: New Daily Economy"
-      },
-      "ja": {
-        "title": "イラン戦再燃懸念で市場動揺、原油・米国債利回り・韓国ウォン急上昇",
-        "excerpt": "イラン戦再燃への懸念で金融市場が再び揺れ、国際原油価格と米国債利回りがそろって急上昇し、韓国のウォン相場も1ドル1470ウォン台半ばへ戻った。",
-        "body": "イラン戦再燃への懸念が強まり、金融市場が再び動揺した。国際原油価格と米国債利回りがそろって急上昇し、韓国のウォン・ドル相場も1470ウォン台半ばへ戻った。\n\n今回の動きは、中東地域の緊張が再び意識され、世界の金融市場全般で変動性が高まったことによるものだ。原文は、国際原油価格と米国債利回りの上昇、韓国為替相場の1470ウォン台半ばへの再進入を主な市場反応として伝えた。\n\n市場参加者は、地政学的リスクが原油、金利、為替に同時に及ぼす影響を注視している。ただし原文は、今後の政策対応や具体的な見通し数値を追加では示していない。\n\n出典: ニューデイリー経済"
-      },
-      "zh": {
-        "title": "伊朗战事再升级忧虑冲击市场，油价、美债收益率与韩元汇率齐升",
-        "excerpt": "伊朗战事再度升级的忧虑令金融市场再起波动，国际油价和美国国债收益率同步急升，韩国韩元兑美元汇率也回到1470韩元区间中段。",
-        "body": "随着伊朗战事再度升级的忧虑升温，金融市场再次出现剧烈波动。国际油价和美国国债收益率同步急升，韩国韩元兑美元汇率也重新回到1470韩元区间中段。\n\n这一走势反映出中东地区紧张局势再度受到关注，并推高了全球金融市场的整体波动性。原文将国际油价上涨、美国国债收益率上升以及韩国汇率重返1470韩元区间中段列为主要市场反应。\n\n市场参与者正关注地缘政治风险同时影响油价、利率和汇率的走势。不过，原文未进一步给出未来政策应对或具体预测数值。\n\n来源: New Daily Economy"
-      },
-      "es": {
-        "title": "Temor a guerra en Irán sacude mercados: suben petróleo, bonos de EE. UU. y won",
-        "excerpt": "El renovado temor a una guerra en Irán volvió a agitar los mercados financieros, con fuertes alzas del petróleo internacional y de los rendimientos de bonos de EE. UU., mientras el won coreano regresó a la zona media de 1.470.",
-        "body": "Los mercados financieros volvieron a agitarse ante el aumento del temor a una reescalada de la guerra en Irán. El petróleo internacional y los rendimientos de los bonos del Tesoro de EE. UU. subieron con fuerza, mientras el tipo de cambio won-dólar de Corea volvió a la zona media de 1.470 wones.\n\nEl movimiento respondió a la renovada tensión en Medio Oriente y al aumento de la volatilidad en los mercados globales. El reporte original destacó como principales reacciones el alza del petróleo, la subida de los rendimientos estadounidenses y el regreso del tipo de cambio coreano a mediados de 1.470.\n\nLos participantes del mercado observan cómo el riesgo geopolítico afecta al mismo tiempo al petróleo, las tasas y las divisas. La fuente no añadió cifras concretas de previsión ni respuestas de política futuras.\n\nFuente: New Daily Economy"
-      },
-      "pt": {
-        "title": "Tensão sobre guerra no Irã abala mercados; petróleo, Treasuries e won disparam",
-        "excerpt": "O receio renovado de guerra no Irã voltou a abalar os mercados financeiros, elevando o petróleo internacional e os rendimentos dos Treasuries, enquanto o câmbio coreano retornou à faixa média de 1.470 wons.",
-        "body": "Os mercados financeiros voltaram a oscilar com o aumento do receio de uma nova escalada da guerra no Irã. O petróleo internacional e os rendimentos dos títulos do Tesouro dos EUA subiram de forma generalizada, enquanto a taxa won-dólar da Coreia voltou à faixa média de 1.470 wons.\n\nO movimento refletiu a reativação das tensões no Oriente Médio e a maior volatilidade nos mercados globais. A reportagem original apontou a alta do petróleo, a elevação dos juros dos Treasuries e o retorno do câmbio coreano à faixa média de 1.470 como principais reações.\n\nParticipantes do mercado acompanham o impacto simultâneo do risco geopolítico sobre petróleo, juros e câmbio. A fonte não apresentou números adicionais de previsão nem respostas de política futuras.\n\nFonte: New Daily Economy"
-      },
-      "de": {
-        "title": "Iran-Kriegsangst erschüttert Märkte: Öl, US-Renditen und Won-Kurs steigen",
-        "excerpt": "Neue Sorgen über einen Iran-Krieg haben die Finanzmärkte erneut erschüttert: Ölpreise und US-Staatsanleiherenditen stiegen stark, während Koreas Won-Dollar-Kurs wieder in den mittleren 1.470er-Bereich kletterte.",
-        "body": "Die Finanzmärkte gerieten erneut in Bewegung, nachdem die Sorge vor einer erneuten Eskalation eines Iran-Kriegs zunahm. Die internationalen Ölpreise und die Renditen von US-Staatsanleihen stiegen deutlich, während der koreanische Won-Dollar-Wechselkurs wieder in den mittleren 1.470-Won-Bereich zurückkehrte.\n\nDie Entwicklung spiegelt die wieder aufgeflammten Spannungen im Nahen Osten und die dadurch erhöhte Volatilität an den globalen Finanzmärkten wider. Der Originalbericht nannte steigende Ölpreise, höhere US-Renditen und den koreanischen Wechselkurs im mittleren 1.470er-Bereich als zentrale Marktreaktionen.\n\nMarktteilnehmer beobachten, wie geopolitische Risiken Öl, Zinsen und Devisen zugleich beeinflussen. Die Quelle nannte keine zusätzlichen Angaben zu künftigen politischen Reaktionen oder konkreten Prognosen.\n\nQuelle: New Daily Economy"
-      },
-      "fr": {
-        "title": "Crainte de guerre en Iran: pétrole, taux américains et won coréen bondissent",
-        "excerpt": "La reprise des craintes autour d’une guerre en Iran a de nouveau secoué les marchés financiers, faisant bondir le pétrole et les rendements américains tandis que le won coréen revenait vers le milieu des 1 470.",
-        "body": "Les marchés financiers ont de nouveau été secoués par la montée des craintes d’une reprise de la guerre en Iran. Les prix internationaux du pétrole et les rendements des bons du Trésor américain ont fortement augmenté, tandis que le taux won-dollar en Corée est revenu vers le milieu de la zone des 1 470 wons.\n\nCe mouvement reflète le retour des tensions au Moyen-Orient et la hausse de la volatilité sur les marchés financiers mondiaux. L’article original a cité la hausse du pétrole, la progression des rendements américains et le retour du taux de change coréen vers le milieu des 1 470 comme principales réactions de marché.\n\nLes intervenants surveillent l’effet simultané du risque géopolitique sur le pétrole, les taux et les changes. La source n’a pas fourni de chiffres de prévision ni de réponse politique supplémentaire.\n\nSource: New Daily Economy"
-      },
-      "ar": {
-        "title": "مخاوف حرب إيران تهز الأسواق: النفط وعوائد السندات الأمريكية والوون ترتفع",
-        "excerpt": "أدت المخاوف المتجددة من تصاعد الحرب في إيران إلى اضطراب الأسواق المالية مجددا، مع قفزة في أسعار النفط العالمية وعوائد سندات الخزانة الأمريكية وعودة سعر صرف الوون الكوري إلى منتصف نطاق 1470.",
-        "body": "اهتزت الأسواق المالية مجددا مع تزايد المخاوف من عودة التصعيد في الحرب المرتبطة بإيران. فقد ارتفعت أسعار النفط العالمية وعوائد سندات الخزانة الأمريكية بشكل جماعي، كما عاد سعر صرف الوون الكوري مقابل الدولار إلى منتصف نطاق 1470 وونا.\n\nويعكس هذا التحرك تجدد التوتر في الشرق الأوسط وارتفاع التقلبات في الأسواق المالية العالمية. وذكر التقرير الأصلي أن أبرز ردود الفعل كانت صعود النفط، وارتفاع عوائد السندات الأمريكية، وعودة سعر الصرف الكوري إلى منتصف نطاق 1470.\n\nيراقب المشاركون في السوق تأثير المخاطر الجيوسياسية المتزامن على النفط والفائدة وأسواق الصرف. ولم يورد المصدر أرقاما إضافية للتوقعات أو تفاصيل عن استجابات سياسية مقبلة.\n\nالمصدر: نيو ديلي اقتصاد"
-      },
-      "hi": {
-        "title": "ईरान युद्ध की आशंका से बाजार डगमगाए, तेल, अमेरिकी यील्ड और वोन चढ़े",
-        "excerpt": "ईरान युद्ध के दोबारा भड़कने की आशंका से वित्तीय बाजार फिर अस्थिर हुए, अंतरराष्ट्रीय तेल कीमतें और अमेरिकी ट्रेजरी यील्ड तेज बढ़ीं, जबकि कोरिया की वोन-डॉलर दर फिर 1470 वोन के मध्य स्तर पर पहुंची।",
-        "body": "ईरान युद्ध के फिर से भड़कने की आशंका बढ़ने से वित्तीय बाजारों में दोबारा तेज हलचल दिखी। अंतरराष्ट्रीय तेल कीमतें और अमेरिकी ट्रेजरी यील्ड एक साथ तेजी से बढ़ीं, जबकि कोरिया की वोन-डॉलर विनिमय दर फिर 1470 वोन के मध्य दायरे में लौट आई।\n\nयह बदलाव मध्य पूर्व में तनाव के फिर उभरने और वैश्विक वित्तीय बाजारों में बढ़ी अस्थिरता को दिखाता है। मूल रिपोर्ट ने तेल कीमतों की तेजी, अमेरिकी बॉन्ड यील्ड में बढ़ोतरी और कोरियाई विनिमय दर के 1470 वोन के मध्य स्तर पर लौटने को प्रमुख बाजार प्रतिक्रिया बताया।\n\nबाजार सहभागी देख रहे हैं कि भू-राजनीतिक जोखिम तेल, ब्याज दरों और विनिमय दरों को एक साथ कैसे प्रभावित कर रहा है। स्रोत ने आगे की नीति प्रतिक्रिया या ठोस पूर्वानुमान आंकड़े नहीं दिए।\n\nस्रोत: न्यू डेली इकोनॉमी"
-      },
-      "id": {
-        "title": "Kekhawatiran Perang Iran Guncang Pasar, Minyak, Yield AS dan Won Melonjak",
-        "excerpt": "Kekhawatiran baru atas eskalasi perang Iran kembali mengguncang pasar keuangan, mendorong harga minyak dunia dan yield obligasi AS naik tajam, sementara kurs won Korea kembali ke kisaran pertengahan 1.470.",
-        "body": "Pasar keuangan kembali bergejolak setelah kekhawatiran atas eskalasi perang Iran meningkat. Harga minyak internasional dan yield obligasi pemerintah AS naik serentak, sementara nilai tukar won Korea terhadap dolar kembali ke kisaran pertengahan 1.470 won.\n\nPergerakan ini mencerminkan munculnya kembali ketegangan di Timur Tengah dan meningkatnya volatilitas di pasar keuangan global. Laporan asli menyoroti kenaikan harga minyak, naiknya yield AS, serta kembalinya kurs Korea ke pertengahan 1.470 sebagai reaksi utama pasar.\n\nPelaku pasar mencermati bagaimana risiko geopolitik memengaruhi minyak, suku bunga, dan nilai tukar secara bersamaan. Sumber tidak memberikan angka proyeksi tambahan atau respons kebijakan mendatang.\n\nSumber: New Daily Economy"
-      }
-    }
-  },
-  {
-    "id": "d20930e56300",
-    "slug": "환율-막고-세금-줄이고대신증권-해외주식-헤지-상품-공개---네이트-723869",
-    "channelId": "FX",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:50:11.228Z",
-    "updatedAt": "2026-05-06T07:50:11.228Z",
-    "sourceName": "네이트",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fVnl0RHJDbEsyLWhqUUNSeFR6TXJGMHREZ0ZTU0p6clZrVWRzLVhIQ3VZUXRqZFdibTlYUUY1V3NLLTd5NXNqT3dPLXBMbV9yNzlV?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fVnl0RHJDbEsyLWhqUUNSeFR6TXJGMHREZ0ZTU0p6clZrVWRzLVhIQ3VZUXRqZFdibTlYUUY1V3NLLTd5NXNqT3dPLXBMbV9yNzlV?oc=5",
-    "titleFingerprint": "5a57a2b9dd21684cd9f3b6ca8c5e08dc0dffce7c",
-    "dedupKeys": [
-      "d20930e56300a09b11deebfa96d593e0fcff1742",
-      "5a57a2b9dd21684cd9f3b6ca8c5e08dc0dffce7c",
-      "ee1012f51783dffb89d672b3c8781328a63fbf47"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "대신증권, 환율 헤지·세금 절감 겨냥한 해외주식 상품 공개",
-        "excerpt": "대신증권이 해외주식 투자 과정에서 환율 변동 부담을 낮추고 세금 부담 완화를 겨냥한 헤지 상품을 공개했다고 네이트가 전했다.",
-        "body": "대신증권이 해외주식 투자자를 대상으로 환율 변동을 막고 세금 부담을 줄이는 데 초점을 맞춘 해외주식 헤지 상품을 공개했다고 네이트가 보도했다. 이번 상품은 해외주식 투자 과정에서 발생할 수 있는 환율 리스크와 세금 이슈를 함께 고려한 것이 핵심이다.\n\n해외주식 투자는 주가 흐름뿐 아니라 원화와 외화 간 환율 변화의 영향을 받는다. 이에 따라 투자자는 보유 종목의 가격 변동과 별개로 환율에 따른 손익 변화를 경험할 수 있으며, 세금 부담도 투자 판단의 주요 변수로 작용한다.\n\n대신증권의 이번 공개는 해외주식 투자자에게 환율 관리와 세금 부담 완화라는 두 가지 관심사를 함께 제시한 사례다. 구체적인 상품 조건과 활용 방식은 투자자가 확인해야 할 핵심 정보로 남는다.\n출처: 네이트"
-      },
-      "en": {
-        "title": "Daishin Securities Unveils Overseas Stock Product Targeting FX Hedge and Tax Relief",
-        "excerpt": "Daishin Securities has unveiled an overseas stock hedging product designed to reduce exchange-rate exposure and ease tax burdens, Nate reported.",
-        "body": "Daishin Securities has unveiled an overseas stock hedging product focused on limiting exchange-rate volatility and reducing tax burdens for investors, Nate reported. The key point of the product is that it considers both currency risk and tax issues that can arise when investing in overseas stocks.\n\nOverseas stock investment is affected not only by share-price movements but also by changes in exchange rates between the won and foreign currencies. As a result, investors may see gains or losses from currency moves apart from the price performance of the stocks they hold, while taxes also remain an important factor in investment decisions.\n\nThe announcement by Daishin Securities presents overseas stock investors with a product framed around two concerns: currency management and tax-burden reduction. Detailed product terms and usage methods remain key information for investors to review.\nSource: Nate"
-      },
-      "ja": {
-        "title": "大信証券、為替ヘッジと税負担軽減を狙う海外株式商品を公開",
-        "excerpt": "大信証券が海外株式投資で為替変動リスクを抑え、税負担の軽減を狙うヘッジ商品を公開したとネイトが伝えた。",
-        "body": "大信証券が海外株式投資家を対象に、為替変動を抑え税負担を減らすことに焦点を当てた海外株式ヘッジ商品を公開したと、ネイトが報じた。今回の商品は、海外株式投資の過程で発生し得る為替リスクと税金の問題をあわせて考慮している点が特徴だ。\n\n海外株式投資は株価の動きだけでなく、ウォンと外貨の為替変動にも影響を受ける。そのため投資家は、保有銘柄の価格変動とは別に為替による損益の変化を経験する可能性があり、税負担も投資判断の重要な要素となる。\n\n大信証券による今回の公開は、海外株式投資家に為替管理と税負担軽減という二つの関心事を同時に提示した事例といえる。具体的な商品条件と活用方法は、投資家が確認すべき重要情報として残る。\n出典: ネイト"
-      },
-      "zh": {
-        "title": "Daishin证券推出海外股票产品，聚焦汇率对冲与减税需求",
-        "excerpt": "据Nate报道，Daishin证券公开了一款海外股票对冲产品，旨在降低汇率波动负担并缓解税务压力。",
-        "body": "据Nate报道，Daishin证券面向海外股票投资者公开了一款海外股票对冲产品，重点在于控制汇率波动并减少税务负担。该产品的核心，是同时考虑海外股票投资过程中可能出现的汇率风险和税务问题。\n\n海外股票投资不仅受股价走势影响，也会受到韩元与外币之间汇率变化的影响。因此，投资者可能在持有股票价格变化之外，因汇率波动产生额外的损益变化，而税负也会成为投资判断中的重要变量。\n\nDaishin证券此次公开相关产品，向海外股票投资者同时提出了汇率管理和税负缓解这两项关注点。具体产品条件和使用方式，仍是投资者需要进一步确认的关键信息。\n来源: Nate"
-      },
-      "es": {
-        "title": "Daishin Securities presenta producto de acciones extranjeras con cobertura cambiaria y foco fiscal",
-        "excerpt": "Daishin Securities presentó un producto de cobertura para acciones extranjeras destinado a reducir el riesgo cambiario y la carga fiscal, informó Nate.",
-        "body": "Daishin Securities presentó un producto de cobertura para inversores en acciones extranjeras, enfocado en limitar la volatilidad del tipo de cambio y reducir la carga fiscal, informó Nate. El punto central del producto es que considera tanto el riesgo cambiario como los asuntos tributarios que pueden surgir al invertir en acciones del exterior.\n\nLa inversión en acciones extranjeras no depende solo del movimiento de los precios bursátiles, sino también de las variaciones entre el won y las divisas extranjeras. Por ello, los inversores pueden registrar cambios en ganancias o pérdidas por el tipo de cambio, aparte del desempeño de los valores que poseen, mientras los impuestos también influyen en la decisión de inversión.\n\nLa presentación de Daishin Securities ofrece a los inversores en acciones extranjeras una propuesta centrada en dos intereses: gestión cambiaria y alivio de la carga fiscal. Las condiciones concretas del producto y su forma de uso siguen siendo información clave que los inversores deben revisar.\nFuente: Nate"
-      },
-      "pt": {
-        "title": "Daishin Securities revela produto de ações externas com hedge cambial e foco em impostos",
-        "excerpt": "A Daishin Securities revelou um produto de hedge para ações no exterior voltado a reduzir a exposição cambial e aliviar a carga tributária, informou o Nate.",
-        "body": "A Daishin Securities revelou um produto de hedge para investidores em ações no exterior, com foco em conter a volatilidade cambial e reduzir a carga tributária, informou o Nate. O ponto central do produto é considerar, ao mesmo tempo, o risco cambial e as questões fiscais que podem surgir no investimento em ações estrangeiras.\n\nO investimento em ações no exterior é afetado não apenas pelo movimento dos preços das ações, mas também pelas mudanças na taxa de câmbio entre o won e moedas estrangeiras. Assim, investidores podem ter variações de ganhos ou perdas ligadas ao câmbio, além do desempenho dos ativos detidos, enquanto os impostos também pesam na decisão de investimento.\n\nA divulgação da Daishin Securities apresenta aos investidores em ações estrangeiras uma solução em torno de dois temas: gestão cambial e redução da carga tributária. As condições específicas do produto e a forma de uso seguem como informações essenciais a serem verificadas.\nFonte: Nate"
-      },
-      "de": {
-        "title": "Daishin Securities stellt Auslandsaktienprodukt für Währungshedge und Steuerentlastung vor",
-        "excerpt": "Daishin Securities hat ein Hedge-Produkt für Auslandsaktien vorgestellt, das Wechselkursrisiken und Steuerlasten verringern soll, berichtete Nate.",
-        "body": "Daishin Securities hat ein Hedge-Produkt für Anleger in Auslandsaktien vorgestellt, das darauf ausgerichtet ist, Wechselkursschwankungen zu begrenzen und Steuerlasten zu reduzieren, berichtete Nate. Im Mittelpunkt steht, dass das Produkt sowohl Währungsrisiken als auch steuerliche Fragen berücksichtigt, die bei Investitionen in ausländische Aktien entstehen können.\n\nInvestitionen in Auslandsaktien werden nicht nur von Kursbewegungen der Aktien beeinflusst, sondern auch von Wechselkursänderungen zwischen dem Won und Fremdwährungen. Daher können Anleger unabhängig von der Wertentwicklung ihrer gehaltenen Aktien zusätzliche Gewinne oder Verluste durch Währungseffekte erleben, während Steuern ebenfalls ein wichtiger Faktor bei Anlageentscheidungen bleiben.\n\nDie Vorstellung durch Daishin Securities zeigt Anlegern in Auslandsaktien zwei zentrale Themen zugleich auf: Währungsmanagement und Verringerung der Steuerbelastung. Konkrete Produktbedingungen und Nutzungsmöglichkeiten bleiben wichtige Informationen, die Anleger prüfen müssen.\nQuelle: Nate"
-      },
-      "fr": {
-        "title": "Daishin Securities dévoile un produit d’actions étrangères axé sur couverture de change et fiscalité",
-        "excerpt": "Daishin Securities a dévoilé un produit de couverture pour actions étrangères visant à réduire le risque de change et la charge fiscale, selon Nate.",
-        "body": "Daishin Securities a dévoilé un produit de couverture destiné aux investisseurs en actions étrangères, centré sur la limitation des fluctuations de change et la réduction de la charge fiscale, a rapporté Nate. L’élément clé du produit est de prendre en compte à la fois le risque de change et les questions fiscales pouvant apparaître lors d’un investissement en actions étrangères.\n\nL’investissement en actions étrangères dépend non seulement de l’évolution des cours boursiers, mais aussi des variations entre le won et les devises étrangères. Les investisseurs peuvent donc enregistrer des gains ou des pertes liés au change indépendamment de la performance des titres détenus, tandis que la fiscalité reste un facteur important dans la décision d’investissement.\n\nCette annonce de Daishin Securities présente aux investisseurs en actions étrangères deux préoccupations réunies: la gestion du change et l’allègement de la charge fiscale. Les conditions précises du produit et ses modalités d’utilisation demeurent des informations clés à vérifier.\nSource: Nate"
-      },
-      "ar": {
-        "title": "دايشين للأوراق المالية تكشف منتج أسهم خارجية يركز على تحوط العملة وخفض الضرائب",
-        "excerpt": "كشفت دايشين للأوراق المالية عن منتج تحوط للأسهم الخارجية يهدف إلى تقليل أثر تقلبات الصرف وتخفيف العبء الضريبي، وفق نيت.",
-        "body": "كشفت دايشين للأوراق المالية عن منتج تحوط موجه لمستثمري الأسهم الخارجية، يركز على الحد من تقلبات أسعار الصرف وتقليل العبء الضريبي، وفق ما نقلته نيت. وتكمن الفكرة الأساسية للمنتج في مراعاة مخاطر العملة والمسائل الضريبية التي قد تظهر خلال الاستثمار في الأسهم الخارجية.\n\nولا يتأثر الاستثمار في الأسهم الخارجية بحركة أسعار الأسهم فقط، بل يتأثر أيضا بتغيرات سعر الصرف بين الوون والعملات الأجنبية. لذلك قد يواجه المستثمرون تغيرات في الأرباح أو الخسائر بسبب العملة، بشكل منفصل عن أداء الأسهم التي يمتلكونها، كما تبقى الضرائب عاملا مهما في قرار الاستثمار.\n\nيمثل إعلان دايشين للأوراق المالية طرحا يضع أمام مستثمري الأسهم الخارجية مسألتين معا: إدارة سعر الصرف وتخفيف العبء الضريبي. وتظل شروط المنتج التفصيلية وطريقة استخدامه من المعلومات الأساسية التي ينبغي للمستثمرين مراجعتها.\nالمصدر: نيت"
-      },
-      "hi": {
-        "title": "Daishin Securities ने विदेशी शेयरों के लिए FX हेज और टैक्स राहत उत्पाद पेश किया",
-        "excerpt": "Nate के अनुसार, Daishin Securities ने विदेशी शेयर निवेश में विनिमय दर जोखिम घटाने और कर बोझ कम करने के उद्देश्य से हेज उत्पाद पेश किया।",
-        "body": "Nate की रिपोर्ट के अनुसार, Daishin Securities ने विदेशी शेयर निवेशकों के लिए ऐसा हेज उत्पाद पेश किया है, जिसका ध्यान विनिमय दर में उतार-चढ़ाव को रोकने और कर बोझ कम करने पर है। इस उत्पाद की मुख्य बात यह है कि यह विदेशी शेयर निवेश के दौरान पैदा हो सकने वाले मुद्रा जोखिम और कर संबंधी मुद्दों दोनों को ध्यान में रखता है।\n\nविदेशी शेयर निवेश केवल शेयर कीमतों की चाल से प्रभावित नहीं होता, बल्कि वोन और विदेशी मुद्राओं के बीच विनिमय दर में बदलाव से भी प्रभावित होता है। इसलिए निवेशकों को अपने रखे हुए शेयरों के प्रदर्शन से अलग मुद्रा बदलाव के कारण लाभ या हानि में बदलाव दिख सकता है, जबकि कर बोझ भी निवेश निर्णय का अहम कारक रहता है।\n\nDaishin Securities की यह पेशकश विदेशी शेयर निवेशकों के सामने दो विषय रखती है: विनिमय दर प्रबंधन और कर बोझ में कमी। उत्पाद की ठोस शर्तें और उपयोग का तरीका निवेशकों के लिए जांचने योग्य प्रमुख जानकारी हैं।\nस्रोत: Nate"
-      },
-      "id": {
-        "title": "Daishin Securities Rilis Produk Saham Luar Negeri untuk Hedge Kurs dan Pengurangan Pajak",
-        "excerpt": "Daishin Securities merilis produk hedge saham luar negeri yang ditujukan untuk menekan risiko nilai tukar dan mengurangi beban pajak, lapor Nate.",
-        "body": "Daishin Securities merilis produk hedge untuk investor saham luar negeri yang berfokus pada pembatasan fluktuasi nilai tukar dan pengurangan beban pajak, lapor Nate. Inti produk ini adalah mempertimbangkan risiko kurs dan isu pajak yang dapat muncul dalam proses investasi saham luar negeri.\n\nInvestasi saham luar negeri tidak hanya dipengaruhi oleh pergerakan harga saham, tetapi juga perubahan nilai tukar antara won dan mata uang asing. Karena itu, investor dapat mengalami perubahan untung atau rugi akibat kurs di luar kinerja harga saham yang dimiliki, sementara beban pajak juga menjadi faktor penting dalam keputusan investasi.\n\nRilis Daishin Securities ini menawarkan kepada investor saham luar negeri dua perhatian utama sekaligus: pengelolaan kurs dan pengurangan beban pajak. Syarat produk secara rinci dan cara penggunaannya tetap menjadi informasi penting yang perlu diperiksa investor.\nSumber: Nate"
       }
     }
   }
