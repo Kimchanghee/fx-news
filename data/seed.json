@@ -1,5 +1,230 @@
 [
   {
+    "id": "b1801b90b00a",
+    "slug": "감사원-한전한수원-원전수출-혼선비효율-해소해야-641839",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-07T13:47:21.217Z",
+    "updatedAt": "2026-05-07T13:47:21.217Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12039161",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12039161",
+    "titleFingerprint": "d7fbc519de9f0be995603080f792ba3db887c1d6",
+    "dedupKeys": [
+      "b1801b90b00af734fdfd959eab8bea31a86e3c11",
+      "d7fbc519de9f0be995603080f792ba3db887c1d6",
+      "2fc869de7430e82e5058af0b6a3d913cc9432762"
+    ],
+    "imageUrl": "/images/articles/b1801b90b00a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원전수출 혼선 지적한 감사원, 한전·한수원 중복 구조 개선 요구",
+        "excerpt": "감사원은 한수원 정기 감사보고서를 공개하며 원전수출 과정에서 한전과 한수원 간 정보공유와 기술 협력이 충분치 않아 입찰·협상 혼선이 발생했다고 지적했다.",
+        "body": "감사원은 한국수력원자력 정기 감사보고서를 공개하고 원전수출과 관련해 한국전력과 한수원 간 인력·조직 중첩으로 비효율이 발생하고 있다고 밝혔다. 감사원은 양 기관의 정보공유와 기술 협력이 충분하지 않아 해외 원전 입찰과 협상 과정에서 혼선이 나타났다고 지적했다. 원전수출은 국가 에너지 산업 경쟁력과 직결되는 분야인 만큼, 중복된 역할을 정리하고 협업 체계를 강화해야 한다는 주문이다. 감사원은 관련 비효율을 해소할 필요가 있다고 강조했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Audit Board Flags Nuclear Export Confusion, Urges KEPCO-KHNP Fix",
+        "excerpt": "The Board of Audit and Inspection said in a regular KHNP audit report that weak information sharing and technical cooperation with KEPCO caused confusion in nuclear bids and talks.",
+        "body": "The Board of Audit and Inspection released a regular audit report on Korea Hydro & Nuclear Power and said inefficiencies have emerged in nuclear exports because personnel and organizational roles overlap between Korea Electric Power Corp. and KHNP. The board noted that information sharing and technical cooperation between the two entities were not sufficient, leading to confusion during overseas nuclear power plant bidding and negotiation processes. As nuclear exports are tied to the competitiveness of Korea’s energy industry, the report called for clearer roles and stronger cooperation. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "原発輸出の混乱を監査院が指摘、韓電・韓水原に非効率改善要求",
+        "excerpt": "監査院は韓水原の定期監査報告書を公開し、韓電と韓水原の情報共有や技術協力が十分でなく、原発入札・交渉で混乱が生じたと指摘した。",
+        "body": "監査院は韓国水力原子力の定期監査報告書を公開し、原発輸出をめぐり韓国電力と韓水原の人員・組織が重複し、非効率が発生していると明らかにした。監査院は、両機関の情報共有と技術協力が十分ではなく、海外原発の入札や交渉過程で混乱が生じたと指摘した。原発輸出は国家のエネルギー産業競争力に直結する分野であるため、重複した役割を整理し、協力体制を強化する必要があるとの注文だ。監査院は関連する非効率の解消が必要だと強調した。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国审计院指出核电出口混乱，要求韩电与韩水原消除低效",
+        "excerpt": "韩国审计院公开韩水原定期审计报告称，韩电与韩水原信息共享和技术合作不足，导致核电投标与谈判过程中出现混乱。",
+        "body": "韩国审计院公开韩国水力原子力定期审计报告，并表示在核电出口相关工作中，韩国电力公社与韩水原之间存在人员和组织重叠，造成低效。审计院指出，两家机构的信息共享和技术合作不够充分，因此在海外核电项目投标和谈判过程中出现混乱。核电出口与韩国能源产业竞争力直接相关，因此有必要理顺重复角色并强化合作体系。审计院强调，应消除相关低效问题。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Auditoría de Corea señala confusión en exportación nuclear y pide cambios",
+        "excerpt": "La Junta de Auditoría publicó un informe periódico sobre KHNP y dijo que la falta de intercambio de información y cooperación técnica con KEPCO causó confusión en licitaciones y negociaciones nucleares.",
+        "body": "La Junta de Auditoría e Inspección de Corea publicó un informe periódico sobre Korea Hydro & Nuclear Power y afirmó que existen ineficiencias en la exportación de centrales nucleares por la superposición de personal y estructuras entre Korea Electric Power Corp. y KHNP. El organismo señaló que el intercambio de información y la cooperación técnica entre ambas entidades no fueron suficientes, lo que generó confusión durante procesos de licitación y negociación de proyectos nucleares en el exterior. Dado que las exportaciones nucleares están ligadas a la competitividad energética del país, pidió aclarar roles y reforzar la cooperación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Auditoria da Coreia aponta confusão em exportação nuclear e pede ajustes",
+        "excerpt": "A Junta de Auditoria divulgou relatório regular sobre a KHNP e afirmou que falhas no compartilhamento de informações e na cooperação técnica com a KEPCO causaram confusão em licitações e negociações nucleares.",
+        "body": "A Junta de Auditoria e Inspeção da Coreia divulgou um relatório regular sobre a Korea Hydro & Nuclear Power e afirmou que há ineficiências nas exportações nucleares devido à sobreposição de pessoal e estruturas entre a Korea Electric Power Corp. e a KHNP. O órgão disse que o compartilhamento de informações e a cooperação técnica entre as duas instituições não foram suficientes, gerando confusão em processos de licitação e negociação de usinas nucleares no exterior. Como as exportações nucleares estão ligadas à competitividade da indústria energética nacional, o relatório pediu definição mais clara de papéis e cooperação reforçada. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Rechnungshof kritisiert Chaos bei Atomexporten und fordert KEPCO-KHNP-Reform",
+        "excerpt": "Der koreanische Rechnungshof veröffentlichte einen regulären KHNP-Prüfbericht und erklärte, unzureichender Informationsaustausch und technische Kooperation mit KEPCO hätten Verwirrung bei Ausschreibungen und Verhandlungen verursacht.",
+        "body": "Der koreanische Rechnungshof hat einen regulären Prüfbericht zu Korea Hydro & Nuclear Power veröffentlicht und erklärt, bei Atomexporten entstünden Ineffizienzen, weil Personal und Organisationsstrukturen von Korea Electric Power Corp. und KHNP sich überschneiden. Der Rechnungshof stellte fest, dass Informationsaustausch und technische Zusammenarbeit zwischen beiden Institutionen nicht ausreichend waren, wodurch es bei Ausschreibungen und Verhandlungen über ausländische Kernkraftwerksprojekte zu Verwirrung kam. Da Atomexporte direkt mit der Wettbewerbsfähigkeit der Energiebranche verbunden sind, fordert der Bericht klarere Rollen und stärkere Kooperation. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Export nucléaire coréen: l’audit pointe des confusions entre KEPCO et KHNP",
+        "excerpt": "La Cour des comptes coréenne a publié un audit régulier de KHNP, estimant que le partage d’informations et la coopération technique insuffisants avec KEPCO ont créé des confusions dans les appels d’offres et négociations nucléaires.",
+        "body": "La Cour des comptes coréenne a publié un rapport d’audit régulier sur Korea Hydro & Nuclear Power et indiqué que des inefficacités apparaissent dans les exportations nucléaires en raison du chevauchement des effectifs et des structures entre Korea Electric Power Corp. et KHNP. Elle a relevé que le partage d’informations et la coopération technique entre les deux organismes n’étaient pas suffisants, ce qui a provoqué des confusions lors des appels d’offres et des négociations pour des centrales nucléaires à l’étranger. Les exportations nucléaires étant liées à la compétitivité énergétique nationale, le rapport appelle à clarifier les rôles et à renforcer la coopération. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هيئة التدقيق الكورية ترصد ارتباكا في صادرات الطاقة النووية وتطالب بإصلاح",
+        "excerpt": "قالت هيئة التدقيق والتفتيش الكورية في تقرير دوري عن KHNP إن ضعف تبادل المعلومات والتعاون التقني مع KEPCO تسبب في ارتباك خلال عطاءات ومفاوضات مشاريع الطاقة النووية.",
+        "body": "نشرت هيئة التدقيق والتفتيش الكورية تقريرا دوريا عن شركة كوريا للطاقة المائية والنووية، وذكرت أن صادرات الطاقة النووية تشهد أوجه عدم كفاءة بسبب تداخل الكوادر والهياكل التنظيمية بين شركة كوريا للطاقة الكهربائية وKHNP. وأوضحت الهيئة أن تبادل المعلومات والتعاون التقني بين المؤسستين لم يكونا كافيين، ما أدى إلى ارتباك في عمليات العطاءات والمفاوضات الخاصة بمحطات نووية خارجية. وبما أن صادرات الطاقة النووية ترتبط بتنافسية صناعة الطاقة الوطنية، دعا التقرير إلى توضيح الأدوار وتعزيز نظام التعاون. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया ऑडिट बोर्ड ने परमाणु निर्यात में भ्रम बताया, KEPCO-KHNP सुधार मांगा",
+        "excerpt": "कोरिया के ऑडिट बोर्ड ने KHNP की नियमित ऑडिट रिपोर्ट में कहा कि KEPCO और KHNP के बीच जानकारी साझा करने और तकनीकी सहयोग की कमी से परमाणु बोली और वार्ता में भ्रम हुआ।",
+        "body": "कोरिया के बोर्ड ऑफ ऑडिट एंड इंस्पेक्शन ने Korea Hydro & Nuclear Power की नियमित ऑडिट रिपोर्ट जारी करते हुए कहा कि परमाणु निर्यात से जुड़े कार्यों में Korea Electric Power Corp. और KHNP के कर्मियों व संगठनात्मक भूमिकाओं के ओवरलैप से अक्षमता पैदा हो रही है। बोर्ड ने बताया कि दोनों संस्थाओं के बीच जानकारी साझा करने और तकनीकी सहयोग पर्याप्त नहीं था, जिससे विदेशों में परमाणु संयंत्रों की बोली और वार्ता प्रक्रिया में भ्रम हुआ। परमाणु निर्यात देश की ऊर्जा उद्योग प्रतिस्पर्धा से जुड़ा है, इसलिए रिपोर्ट ने भूमिकाएं स्पष्ट करने और सहयोग प्रणाली मजबूत करने की जरूरत बताई। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Audit Korea Soroti Kekacauan Ekspor Nuklir, Minta KEPCO-KHNP Berbenah",
+        "excerpt": "Badan Audit dan Inspeksi Korea merilis laporan audit rutin KHNP dan menyebut kurangnya berbagi informasi serta kerja sama teknis dengan KEPCO memicu kebingungan dalam tender dan negosiasi nuklir.",
+        "body": "Badan Audit dan Inspeksi Korea merilis laporan audit rutin atas Korea Hydro & Nuclear Power dan menyatakan ada inefisiensi dalam ekspor nuklir karena tumpang tindih personel dan organisasi antara Korea Electric Power Corp. dan KHNP. Badan itu menilai berbagi informasi dan kerja sama teknis antara kedua lembaga belum memadai, sehingga muncul kebingungan dalam proses tender dan negosiasi pembangkit nuklir di luar negeri. Karena ekspor nuklir terkait langsung dengan daya saing industri energi nasional, laporan tersebut meminta peran yang lebih jelas dan kerja sama yang lebih kuat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "43ada7a5f88b",
+    "slug": "한경협-순직-소방관-유족에-3억원-쾌척-555395",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-07T13:46:23.522Z",
+    "updatedAt": "2026-05-07T13:46:23.522Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12039171",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12039171",
+    "titleFingerprint": "2993669a62af75d83b5035f3d65e7c26747925be",
+    "dedupKeys": [
+      "43ada7a5f88b9bb472314980e21dd481cdffcd08",
+      "2993669a62af75d83b5035f3d65e7c26747925be",
+      "0141ab677412a854e231ae29064e7797376ecc29"
+    ],
+    "imageUrl": "/images/articles/43ada7a5f88b.png",
+    "i18n": {
+      "ko": {
+        "title": "한경협, 순직 소방관 유족에 3억원 지원…장학금·치료비 보탠다",
+        "excerpt": "한국경제인협회는 7일 서울 여의도 FKI타워에서 순직 소방 공무원 가족을 초청해 오찬을 열고 류진 회장 사재 1억원을 포함한 성금 3억원을 전달했다.",
+        "body": "한국경제인협회(한경협)는 7일 서울 여의도 FKI타워에서 순직 소방 공무원 가족을 초청해 오찬을 갖고 지원 성금 3억원을 전달했다. 이번 성금에는 류진 한경협 회장이 사재로 낸 1억원이 포함됐다. 지원금은 순직 소방관 유족의 장학금과 치료비 등으로 쓰일 예정이다. 한경협은 위험한 현장에서 국민 안전을 지키다 순직한 소방 공무원의 가족을 지원하는 취지로 이번 자리를 마련했다. 이번 성금 전달은 유족의 생활 부담을 덜고 사회적 예우를 높이는 데 보탬이 될 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "FKI Donates 300 Million Won to Families of Fallen Firefighters for Aid",
+        "excerpt": "The Federation of Korean Industries invited families of fallen firefighters to FKI Tower in Seoul on the 7th and delivered 300 million won, including 100 million won from Chairman Ryu Jin.",
+        "body": "The Federation of Korean Industries, or FKI, invited families of firefighters who died in the line of duty to a luncheon at FKI Tower in Yeouido, Seoul, on the 7th and delivered 300 million won in support funds. The donation includes 100 million won contributed personally by FKI Chairman Ryu Jin. The funds will be used for scholarships, medical expenses and other support for bereaved families. FKI said the event was arranged to assist families of public firefighters who lost their lives while protecting citizens at dangerous sites. The donation is expected to help ease financial burdens and strengthen social recognition for the families. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国経済人協会、殉職消防士の遺族に3億ウォン支援へ",
+        "excerpt": "韓国経済人協会は7日、ソウル汝矣島のFKIタワーに殉職消防公務員の家族を招き、柳津会長の私財1億ウォンを含む3億ウォンを届けた。",
+        "body": "韓国経済人協会（韓経協）は7日、ソウル汝矣島のFKIタワーに殉職した消防公務員の家族を招いて昼食会を開き、支援金3億ウォンを伝達した。今回の支援金には、柳津韓経協会長が私財から拠出した1億ウォンが含まれている。支援金は殉職消防士の遺族の奨学金や治療費などに使われる予定だ。韓経協は、危険な現場で国民の安全を守る中で殉職した消防公務員の家族を支える趣旨で今回の場を設けた。今回の寄付は遺族の生活負担を和らげ、社会的な礼遇を高める一助になるとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国经济人协会向殉职消防员遗属捐赠3亿韩元援助金",
+        "excerpt": "韩国经济人协会7日在首尔汝矣岛FKI大厦邀请殉职消防公务员家属共进午餐，并转交包括柳津会长个人出资1亿韩元在内的3亿韩元善款。",
+        "body": "韩国经济人协会7日在首尔汝矣岛FKI大厦邀请殉职消防公务员家属举行午餐会，并转交3亿韩元援助善款。此次善款中包括韩国经济人协会会长柳津以个人财产捐出的1亿韩元。援助金将用于殉职消防员遗属的奖学金、治疗费等支援。韩国经济人协会表示，此次活动旨在帮助那些在危险现场守护国民安全而殉职的消防公务员家属。此次捐赠预计将有助于减轻遗属生活负担，并提升社会对他们的礼遇。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "FKI dona 300 millones de wones a familias de bomberos fallecidos",
+        "excerpt": "La Federación de Industrias Coreanas invitó el día 7 a familias de bomberos fallecidos en servicio al FKI Tower de Seúl y entregó 300 millones de wones, incluidos 100 millones aportados por Ryu Jin.",
+        "body": "La Federación de Industrias Coreanas, FKI, invitó el día 7 a familias de funcionarios bomberos fallecidos en acto de servicio a un almuerzo en el FKI Tower de Yeouido, Seúl, y entregó 300 millones de wones en fondos de apoyo. La donación incluye 100 millones de wones aportados personalmente por el presidente de FKI, Ryu Jin. Los recursos se destinarán a becas, gastos médicos y otras ayudas para las familias. FKI organizó el encuentro con el propósito de apoyar a los familiares de bomberos que perdieron la vida protegiendo la seguridad pública en lugares de riesgo. La contribución ayudará a aliviar cargas económicas y a reforzar el reconocimiento social hacia los deudos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "FKI doa 300 milhões de wons a famílias de bombeiros mortos em serviço",
+        "excerpt": "A Federação das Indústrias Coreanas recebeu no dia 7, no FKI Tower em Seul, famílias de bombeiros mortos em serviço e entregou 300 milhões de wons, incluindo 100 milhões do presidente Ryu Jin.",
+        "body": "A Federação das Indústrias Coreanas, FKI, convidou no dia 7 famílias de bombeiros públicos mortos em serviço para um almoço no FKI Tower, em Yeouido, Seul, e entregou 300 milhões de wons em apoio financeiro. A quantia inclui 100 milhões de wons doados pessoalmente pelo presidente da FKI, Ryu Jin. Os recursos serão usados para bolsas de estudo, despesas médicas e outras formas de apoio às famílias enlutadas. A FKI organizou o encontro para ajudar familiares de bombeiros que morreram protegendo a segurança da população em locais perigosos. A doação deve contribuir para reduzir encargos financeiros e ampliar o reconhecimento social a essas famílias. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "FKI spendet 300 Millionen Won an Familien gefallener Feuerwehrleute",
+        "excerpt": "Die Federation of Korean Industries lud am 7. Familien im Dienst verstorbener Feuerwehrbeamter in den FKI Tower in Seoul ein und übergab 300 Millionen Won, darunter 100 Millionen von Ryu Jin.",
+        "body": "Die Federation of Korean Industries, FKI, lud am 7. Familien von Feuerwehrbeamten, die im Dienst ums Leben kamen, zu einem Mittagessen in den FKI Tower in Yeouido, Seoul, ein und übergab Unterstützungszahlungen in Höhe von 300 Millionen Won. Darin enthalten sind 100 Millionen Won, die FKI-Vorsitzender Ryu Jin aus seinem Privatvermögen beisteuerte. Die Mittel sollen für Stipendien, Behandlungskosten und weitere Unterstützung der Hinterbliebenen verwendet werden. FKI richtete das Treffen aus, um Familien jener Feuerwehrleute zu helfen, die an gefährlichen Einsatzorten die öffentliche Sicherheit schützten und dabei starben. Die Spende dürfte finanzielle Belastungen mindern und die gesellschaftliche Anerkennung der Familien stärken. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La FKI donne 300 millions de wons aux familles de pompiers décédés",
+        "excerpt": "La Fédération des industries coréennes a invité le 7 des familles de pompiers morts en service à la FKI Tower de Séoul et remis 300 millions de wons, dont 100 millions de Ryu Jin.",
+        "body": "La Fédération des industries coréennes, FKI, a invité le 7 les familles de pompiers fonctionnaires morts en service à un déjeuner à la FKI Tower de Yeouido, à Séoul, et leur a remis 300 millions de wons d’aide. Ce montant comprend 100 millions de wons versés personnellement par le président de la FKI, Ryu Jin. Les fonds serviront notamment à financer des bourses, des frais médicaux et d’autres formes de soutien aux familles endeuillées. La FKI a organisé cette rencontre pour aider les proches de pompiers morts en protégeant la sécurité des citoyens sur des sites dangereux. Ce don devrait contribuer à alléger leur charge financière et à renforcer la reconnaissance sociale à leur égard. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "اتحاد الصناعات الكورية يتبرع بـ300 مليون وون لأسر رجال إطفاء قضوا في الخدمة",
+        "excerpt": "دعا اتحاد الصناعات الكورية في السابع أسر رجال إطفاء قضوا أثناء أداء الواجب إلى برج FKI في سيول، وقدم 300 مليون وون تشمل 100 مليون وون من رئيسه ريو جين.",
+        "body": "دعا اتحاد الصناعات الكورية، المعروف باسم FKI، في السابع أسر موظفي إطفاء قضوا أثناء أداء الواجب إلى مأدبة غداء في برج FKI في يويدو بسيول، وقدم تبرعا بقيمة 300 مليون وون لدعمهم. ويشمل المبلغ 100 مليون وون قدمها رئيس الاتحاد ريو جين من ماله الخاص. ومن المقرر استخدام الدعم في المنح الدراسية وتكاليف العلاج وغيرها من أوجه المساعدة لأسر الضحايا. وقال الاتحاد إن اللقاء نظم لمساندة عائلات رجال الإطفاء الذين فقدوا حياتهم وهم يحمون سلامة المواطنين في مواقع خطرة. ومن المتوقع أن يساعد التبرع في تخفيف الأعباء المعيشية وتعزيز التقدير الاجتماعي لهذه الأسر. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "FKI ने शहीद दमकलकर्मियों के परिवारों को 30 करोड़ वोन की मदद दी",
+        "excerpt": "फेडरेशन ऑफ कोरियन इंडस्ट्रीज ने 7 तारीख को सियोल के FKI टावर में शहीद दमकल अधिकारियों के परिवारों को आमंत्रित कर 30 करोड़ वोन दिए, जिसमें अध्यक्ष र्यू जिन के 10 करोड़ वोन शामिल हैं।",
+        "body": "फेडरेशन ऑफ कोरियन इंडस्ट्रीज, यानी FKI, ने 7 तारीख को सियोल के येओइदो स्थित FKI टावर में ड्यूटी के दौरान जान गंवाने वाले दमकल अधिकारियों के परिवारों को दोपहर भोज पर आमंत्रित किया और 30 करोड़ वोन की सहायता राशि सौंपी। इस राशि में FKI अध्यक्ष र्यू जिन द्वारा निजी धन से दिए गए 10 करोड़ वोन शामिल हैं। सहायता राशि का उपयोग शहीद दमकलकर्मियों के परिजनों की छात्रवृत्ति, इलाज के खर्च और अन्य जरूरतों के लिए किया जाएगा। FKI ने यह आयोजन उन परिवारों की मदद के उद्देश्य से किया जिनके सदस्य खतरनाक स्थलों पर नागरिकों की सुरक्षा करते हुए शहीद हुए। यह दान परिजनों की आर्थिक जिम्मेदारियों को कम करने और सामाजिक सम्मान बढ़ाने में सहायक होगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "FKI Donasikan 300 Juta Won untuk Keluarga Petugas Damkar Gugur",
+        "excerpt": "Federation of Korean Industries pada tanggal 7 mengundang keluarga petugas pemadam kebakaran yang gugur ke FKI Tower Seoul dan menyerahkan 300 juta won, termasuk 100 juta won dari Ketua Ryu Jin.",
+        "body": "Federation of Korean Industries, atau FKI, pada tanggal 7 mengundang keluarga pegawai pemadam kebakaran yang gugur saat bertugas ke jamuan makan siang di FKI Tower, Yeouido, Seoul, dan menyerahkan dana bantuan 300 juta won. Donasi itu mencakup 100 juta won yang diberikan secara pribadi oleh Ketua FKI Ryu Jin. Dana tersebut akan digunakan untuk beasiswa, biaya pengobatan, dan dukungan lain bagi keluarga yang ditinggalkan. FKI mengadakan acara ini untuk membantu keluarga petugas pemadam kebakaran yang kehilangan nyawa saat menjaga keselamatan warga di lokasi berbahaya. Sumbangan ini diperkirakan membantu meringankan beban hidup keluarga dan meningkatkan penghormatan sosial bagi mereka. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "82fbc0a9d5e8",
+    "slug": "손경식-경총-회장-한-중-ai반도체-협력해야-778986",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-07T13:45:12.333Z",
+    "updatedAt": "2026-05-07T13:45:12.333Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12039200",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12039200",
+    "titleFingerprint": "e6ab810a3e4ff64f195974827738958ed8ddb35a",
+    "dedupKeys": [
+      "82fbc0a9d5e83e891ab35f6d7e056d08eac21819",
+      "e6ab810a3e4ff64f195974827738958ed8ddb35a",
+      "4d33db466a859e9ac80b855b26cbb240ad824a20"
+    ],
+    "imageUrl": "/images/articles/82fbc0a9d5e8.png",
+    "i18n": {
+      "ko": {
+        "title": "한중 AI·반도체 협력 강조한 손경식 경총 회장, 상하이서 경제 소통",
+        "excerpt": "한국경영자총협회는 중국 상하이에서 한중경영자회의를 열고 양국 경제협력 발전과 AI·반도체 등 신성장 동력 발굴을 논의했다.",
+        "body": "손경식 한국경영자총협회 회장은 중국 상하이에서 열린 한중경영자회의에서 한국과 중국이 AI와 반도체 분야에서 협력해야 한다고 강조했다. 경총은 양국 경제협력 발전과 신성장 동력 발굴을 위한 소통의 장으로 이번 회의를 마련했다. 회의는 상하이에서 열렸으며, 경총은 8일 상하이 시장을 만나 현지 진출 기업들의 애로사항도 건의할 예정이다. 이번 일정은 한중 기업인들이 경제협력의 방향을 점검하고 첨단 산업 분야에서 협력 가능성을 논의하는 자리로 평가된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KEF Chairman Sohn Kyung-shik Urges Korea-China AI, Chip Cooperation in Shanghai",
+        "excerpt": "The Korea Enterprises Federation held a Korea-China business leaders’ meeting in Shanghai to discuss economic cooperation and new growth engines such as AI and semiconductors.",
+        "body": "Sohn Kyung-shik, chairman of the Korea Enterprises Federation, emphasized at a Korea-China business leaders’ meeting in Shanghai that South Korea and China should cooperate in AI and semiconductors. The KEF organized the meeting as a forum to advance bilateral economic cooperation and identify new growth engines. The event was held in Shanghai, and the federation is scheduled to meet the Shanghai mayor on the 8th to raise difficulties faced by Korean companies operating locally. The agenda is seen as a chance for business leaders from both countries to review economic cooperation and discuss potential collaboration in advanced industries. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓中AI・半導体協力を強調、孫京植・韓国経総会長が上海で提言",
+        "excerpt": "韓国経営者総協会は上海で韓中経営者会議を開き、両国の経済協力発展とAI・半導体など新成長分野の発掘を議論した。",
+        "body": "韓国経営者総協会の孫京植会長は、中国・上海で開かれた韓中経営者会議で、韓国と中国がAIと半導体分野で協力すべきだと強調した。韓国経総は、両国の経済協力発展と新たな成長動力の発掘に向けた対話の場として今回の会議を用意した。会議は上海で開催され、韓国経総は8日に上海市長と会い、現地進出企業の課題も伝える予定だ。今回の日程は、韓中の企業人が経済協力の方向性を点検し、先端産業での協力可能性を議論する機会と受け止められている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国经总会长孙京植在上海强调韩中应加强AI与半导体合作",
+        "excerpt": "韩国经营者总协会在上海举行韩中经营者会议，讨论两国经济合作发展以及AI、半导体等新增长动力的发掘。",
+        "body": "韩国经营者总协会会长孙京植在中国上海举行的韩中经营者会议上强调，韩国和中国应在AI与半导体领域加强合作。韩国经总表示，此次会议旨在为两国经济合作发展和新增长动力发掘搭建沟通平台。会议在上海举行，韩国经总还计划于8日会见上海市市长，反映当地韩国企业面临的困难。此次日程被视为韩中企业界人士共同检查经济合作方向，并讨论先进产业合作可能性的机会。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Sohn Kyung-shik pide cooperación Corea-China en IA y semiconductores en Shanghái",
+        "excerpt": "La Federación de Empleadores de Corea celebró en Shanghái una reunión empresarial Corea-China para abordar cooperación económica y nuevos motores como IA y chips.",
+        "body": "Sohn Kyung-shik, presidente de la Federación de Empleadores de Corea, subrayó en una reunión de líderes empresariales Corea-China celebrada en Shanghái que Corea del Sur y China deben cooperar en inteligencia artificial y semiconductores. La federación organizó el encuentro como un espacio de diálogo para desarrollar la cooperación económica bilateral e identificar nuevos motores de crecimiento. La reunión tuvo lugar en Shanghái, y la entidad prevé reunirse el día 8 con el alcalde de la ciudad para plantear las dificultades de las empresas coreanas instaladas allí. La agenda se considera una oportunidad para revisar la dirección de la cooperación económica y debatir posibles vínculos en industrias avanzadas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Sohn Kyung-shik defende cooperação Coreia-China em IA e semicondutores",
+        "excerpt": "A Federação de Empregadores da Coreia realizou em Xangai uma reunião empresarial Coreia-China para discutir cooperação econômica e novos motores como IA e chips.",
+        "body": "Sohn Kyung-shik, presidente da Federação de Empregadores da Coreia, afirmou em uma reunião de líderes empresariais Coreia-China em Xangai que Coreia do Sul e China devem cooperar em inteligência artificial e semicondutores. A federação organizou o encontro como um canal de diálogo para desenvolver a cooperação econômica bilateral e identificar novos motores de crescimento. A reunião ocorreu em Xangai, e a entidade deve se encontrar no dia 8 com o prefeito da cidade para apresentar dificuldades enfrentadas por empresas coreanas locais. A agenda é vista como uma oportunidade para empresários dos dois países avaliarem a direção da cooperação econômica e discutirem possibilidades em setores avançados. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KEF-Chef Sohn Kyung-shik fordert Korea-China-Kooperation bei KI und Halbleitern",
+        "excerpt": "Der koreanische Arbeitgeberverband KEF hielt in Shanghai ein Korea-China-Unternehmertreffen ab, um Wirtschaftskooperation und neue Wachstumsfelder wie KI und Halbleiter zu besprechen.",
+        "body": "Sohn Kyung-shik, Vorsitzender der Korea Enterprises Federation, betonte bei einem Korea-China-Unternehmertreffen in Shanghai, Südkorea und China sollten bei KI und Halbleitern zusammenarbeiten. Die KEF organisierte das Treffen als Dialogforum, um die bilaterale Wirtschaftskooperation weiterzuentwickeln und neue Wachstumstreiber zu finden. Die Sitzung fand in Shanghai statt; am 8. will der Verband den Bürgermeister von Shanghai treffen und Schwierigkeiten koreanischer Unternehmen vor Ort vorbringen. Der Termin gilt als Gelegenheit für Unternehmer beider Länder, die Richtung der wirtschaftlichen Zusammenarbeit zu prüfen und Kooperationsmöglichkeiten in Hochtechnologiebranchen zu diskutieren. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Sohn Kyung-shik appelle à une coopération Corée-Chine dans l’IA et les puces",
+        "excerpt": "La Fédération des employeurs de Corée a tenu à Shanghai une réunion d’affaires Corée-Chine sur la coopération économique et les nouveaux moteurs comme l’IA et les semi-conducteurs.",
+        "body": "Sohn Kyung-shik, président de la Fédération des employeurs de Corée, a souligné lors d’une réunion de dirigeants d’entreprise Corée-Chine à Shanghai que la Corée du Sud et la Chine devaient coopérer dans l’intelligence artificielle et les semi-conducteurs. La fédération a organisé cette réunion comme un espace d’échange pour développer la coopération économique bilatérale et identifier de nouveaux moteurs de croissance. La rencontre s’est tenue à Shanghai, et l’organisation doit rencontrer le 8 le maire de la ville afin de faire part des difficultés rencontrées par les entreprises coréennes présentes localement. Ce programme est considéré comme une occasion d’examiner l’orientation de la coopération économique et les possibilités dans les industries avancées. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سون كيونغ-شيك يدعو من شنغهاي إلى تعاون كوري صيني في الذكاء الاصطناعي والرقائق",
+        "excerpt": "عقد اتحاد أصحاب العمل الكوري في شنغهاي اجتماع رجال الأعمال الكوري الصيني لبحث تطوير التعاون الاقتصادي ومحركات نمو جديدة مثل الذكاء الاصطناعي وأشباه الموصلات.",
+        "body": "أكد سون كيونغ-شيك، رئيس اتحاد أصحاب العمل الكوري، خلال اجتماع رجال الأعمال الكوري الصيني في شنغهاي، أن كوريا الجنوبية والصين ينبغي أن تتعاونا في مجالي الذكاء الاصطناعي وأشباه الموصلات. ونظم الاتحاد الاجتماع كمنصة تواصل لتطوير التعاون الاقتصادي بين البلدين والبحث عن محركات نمو جديدة. وعقد الاجتماع في شنغهاي، ومن المقرر أن يلتقي الاتحاد في الثامن من الشهر عمدة شنغهاي لعرض الصعوبات التي تواجه الشركات الكورية العاملة محليا. ويعد هذا البرنامج فرصة لرجال الأعمال من الجانبين لمراجعة اتجاه التعاون الاقتصادي ومناقشة إمكانات التعاون في الصناعات المتقدمة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सोन क्यूंग-शिक ने शंघाई में कोरिया-चीन AI और सेमीकंडक्टर सहयोग पर जोर दिया",
+        "excerpt": "कोरिया एंटरप्राइजेज फेडरेशन ने शंघाई में कोरिया-चीन कारोबारी बैठक आयोजित की, जिसमें आर्थिक सहयोग और AI व सेमीकंडक्टर जैसे नए विकास क्षेत्रों पर चर्चा हुई।",
+        "body": "कोरिया एंटरप्राइजेज फेडरेशन के अध्यक्ष सोन क्यूंग-शिक ने चीन के शंघाई में हुई कोरिया-चीन कारोबारी बैठक में कहा कि दक्षिण कोरिया और चीन को AI और सेमीकंडक्टर क्षेत्र में सहयोग करना चाहिए। फेडरेशन ने यह बैठक दोनों देशों के आर्थिक सहयोग को आगे बढ़ाने और नए विकास स्रोत खोजने के लिए संवाद मंच के रूप में आयोजित की। बैठक शंघाई में हुई, और फेडरेशन 8 तारीख को शंघाई के मेयर से मिलकर स्थानीय स्तर पर काम कर रही कोरियाई कंपनियों की कठिनाइयों को भी उठाने वाला है। यह कार्यक्रम दोनों देशों के उद्योगपतियों के लिए आर्थिक सहयोग की दिशा की समीक्षा और उन्नत उद्योगों में संभावनाओं पर चर्चा का अवसर माना जा रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Sohn Kyung-shik Dorong Kerja Sama Korea-China di AI dan Semikonduktor",
+        "excerpt": "Federasi Pengusaha Korea menggelar pertemuan pebisnis Korea-China di Shanghai untuk membahas kerja sama ekonomi dan mesin pertumbuhan baru seperti AI dan semikonduktor.",
+        "body": "Sohn Kyung-shik, ketua Federasi Pengusaha Korea, menegaskan dalam pertemuan pebisnis Korea-China di Shanghai bahwa Korea Selatan dan China perlu bekerja sama di bidang AI dan semikonduktor. Federasi tersebut menggelar pertemuan ini sebagai forum komunikasi untuk mengembangkan kerja sama ekonomi kedua negara dan menemukan mesin pertumbuhan baru. Pertemuan berlangsung di Shanghai, dan federasi dijadwalkan bertemu wali kota Shanghai pada tanggal 8 untuk menyampaikan kesulitan yang dihadapi perusahaan Korea yang beroperasi secara lokal. Agenda ini dipandang sebagai kesempatan bagi pelaku usaha kedua negara untuk meninjau arah kerja sama ekonomi dan membahas peluang kolaborasi di industri maju. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "a0cf145555db",
     "slug": "구동휘-ls-mnm-대표-3년-연속-직접-나무-심어-도심-탄소-저감-앞장-421841",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Hankyung Premium9 Dibanjiri Klik, Saham Transaksi Top 1% Imbal Hasil Diminati",
         "excerpt": "Konten Hankyung Premium9 tentang saham yang ditransaksikan investor top 1% imbal hasil mencatat lonjakan klik, lapor hankyung.com.",
         "body": "Konten Hankyung Premium9 tentang saham yang ditransaksikan investor dalam kelompok top 1% imbal hasil baru-baru ini mencatat lonjakan klik dan menarik perhatian pengguna. Menurut hankyung.com, popularitasnya muncul karena konten tersebut menyoroti saham yang dibeli dan dijual oleh kelompok dengan kinerja tertinggi. Laporan asli tidak menyajikan angka klik, waktu peluncuran layanan, atau skala pengguna secara rinci. Namun respons ini menunjukkan adanya permintaan investor untuk merujuk informasi transaksi dari kelompok berkinerja kuat. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "137dac6a5f7e",
-    "slug": "월가-전설-하워드-막스-한경-프리미엄9에서-만나세요-488917",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-06T22:14:39.574Z",
-    "updatedAt": "2026-05-06T22:14:39.574Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050696231",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050696231",
-    "titleFingerprint": "730ed7dc414851dc8743528dc6280bcda1d8bdc1",
-    "dedupKeys": [
-      "137dac6a5f7e908a6f95b10e0dbf9a75c256fdf3",
-      "730ed7dc414851dc8743528dc6280bcda1d8bdc1",
-      "f0660457a652515b9cd89d910493a1692f9eec27"
-    ],
-    "imageUrl": "/images/articles/137dac6a5f7e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "하워드 막스 KIW 2026 대담, 한경 프리미엄9서 전 강연 영상 공개",
-        "excerpt": "한국경제신문은 2026년 5월 12~15일 서울 신라호텔에서 KIW 2026을 열고 하워드 막스 등 투자 전문가 70여 명의 강연을 한경 프리미엄9 구독자에게 영상으로 제공합니다.",
-        "body": "한국경제신문은 2026년 5월 12일부터 15일까지 서울 장충동 신라호텔에서 국내 투자 콘퍼런스 ‘코리아 인베스트먼트 위크 2026’(KIW 2026)을 개최한다. 삼성증권과 공동 주최하는 이번 행사에는 하워드 막스 오크트리캐피털 회장, 니컬러스 본색 스트래티거스 공동창업자, 제인 자오 CICC 총괄 등 투자 전문가와 산업계 인사 70여 명이 참여한다. 주제는 증시 대전환기 투자 기회이며 반도체, AI, 원자력, 전력 인프라, K컬처 등이 다뤄진다. 막스 회장은 14일 윤석모 삼성증권 리서치센터장과 ‘AI 시대 투자 사이클과 리스크’를 놓고 대담한다. 한경 프리미엄9 구독자는 모든 강연 영상을 볼 수 있다고 hankyung.com은 전했다."
-      },
-      "en": {
-        "title": "Howard Marks at KIW 2026: Hankyung Premium9 to Stream Full Talks",
-        "excerpt": "The Korea Economic Daily will host KIW 2026 in Seoul from May 12 to 15, offering Hankyung Premium9 subscribers video access to talks by Howard Marks and about 70 speakers.",
-        "body": "The Korea Economic Daily will hold Korea Investment Week 2026, or KIW 2026, from May 12 to 15, 2026, at The Shilla Seoul in Jangchung-dong. Co-hosted with Samsung Securities, the conference will feature about 70 speakers from investment, government, industry and finance, including Howard Marks, chairman of Oaktree Capital, Strategas co-founder Nicholas Bohnsack and CICC executive Jane Zhao. The event focuses on investment opportunities during a major stock-market transition, covering semiconductors, AI, nuclear power, power infrastructure and K-culture. Marks will speak on May 14 with Samsung Securities research head Yoon Seok-mo about investment cycles and risks in the AI era. Hankyung Premium9 subscribers can watch all session videos, hankyung.com reported."
-      },
-      "ja": {
-        "title": "ハワード・マークス氏、KIW 2026登壇　韓経Premium9で全講演配信",
-        "excerpt": "韓国経済新聞は2026年5月12～15日にソウル新羅ホテルでKIW 2026を開き、ハワード・マークス氏ら約70人の講演をPremium9加入者に動画提供します。",
-        "body": "韓国経済新聞は2026年5月12日から15日まで、ソウル・奨忠洞の新羅ホテルで投資会議「コリア・インベストメント・ウィーク2026」（KIW 2026）を開催する。サムスン証券との共同主催で、オークツリー・キャピタル会長のハワード・マークス氏、ストラテガス共同創業者のニコラス・ボンサック氏、CICCのジェーン・ジャオ氏など、投資専門家や産業界関係者約70人が登壇する。テーマは株式市場の大転換期における投資機会で、半導体、AI、原子力、電力インフラ、Kカルチャーなどを扱う。マークス氏は14日、サムスン証券リサーチセンター長の尹錫模氏とAI時代の投資サイクルとリスクを語る。韓経Premium9加入者は全講演動画を視聴できるとhankyung.comが伝えた。"
-      },
-      "zh": {
-        "title": "霍华德·马克斯亮相KIW 2026，韩经Premium9将提供全场视频",
-        "excerpt": "韩国经济新闻将于2026年5月12日至15日在首尔新罗酒店举办KIW 2026，韩经Premium9订阅者可观看霍华德·马克斯等约70名嘉宾演讲视频。",
-        "body": "韩国经济新闻将于2026年5月12日至15日在首尔奖忠洞新罗酒店举办“韩国投资周2026”（KIW 2026）。本次活动由韩国经济新闻与三星证券共同主办，演讲嘉宾约70人，包括橡树资本董事长霍华德·马克斯、Strategas共同创始人Nicholas Bohnsack以及CICC负责人Jane Zhao等投资专家和产业界人士。会议主题聚焦股市大转折时期的投资机会，涵盖半导体、人工智能、核电、电力基础设施和K文化等领域。马克斯将于14日与三星证券研究中心负责人尹锡模对谈，讨论AI时代的投资周期与风险。hankyung.com称，韩经Premium9订阅者可观看所有演讲视频。"
-      },
-      "es": {
-        "title": "Howard Marks en KIW 2026: Hankyung Premium9 emitirá todas las ponencias",
-        "excerpt": "The Korea Economic Daily celebrará KIW 2026 en Seúl del 12 al 15 de mayo de 2026 y ofrecerá a suscriptores de Hankyung Premium9 videos de Howard Marks y unos 70 ponentes.",
-        "body": "The Korea Economic Daily celebrará Korea Investment Week 2026, o KIW 2026, del 12 al 15 de mayo de 2026 en The Shilla Seoul, en Jangchung-dong. El evento, coorganizado con Samsung Securities, reunirá a unos 70 ponentes de inversión, gobierno, industria y finanzas, entre ellos Howard Marks, presidente de Oaktree Capital, Nicholas Bohnsack, cofundador de Strategas, y Jane Zhao, directiva de CICC. La conferencia abordará oportunidades de inversión durante una gran transición bursátil, con temas como semiconductores, IA, energía nuclear, infraestructura eléctrica y cultura K. Marks conversará el día 14 con Yoon Seok-mo, jefe de análisis de Samsung Securities, sobre ciclos de inversión y riesgos en la era de la IA. Los suscriptores de Hankyung Premium9 podrán ver todos los videos, informó hankyung.com."
-      },
-      "pt": {
-        "title": "Howard Marks no KIW 2026: Hankyung Premium9 terá vídeos de todas as palestras",
-        "excerpt": "O The Korea Economic Daily realizará o KIW 2026 em Seul de 12 a 15 de maio de 2026 e dará aos assinantes do Hankyung Premium9 acesso a vídeos de Howard Marks e cerca de 70 palestrantes.",
-        "body": "O The Korea Economic Daily realizará o Korea Investment Week 2026, ou KIW 2026, de 12 a 15 de maio de 2026, no The Shilla Seoul, em Jangchung-dong. Organizada em conjunto com a Samsung Securities, a conferência reunirá cerca de 70 palestrantes de investimento, governo, indústria e finanças, incluindo Howard Marks, presidente da Oaktree Capital, Nicholas Bohnsack, cofundador da Strategas, e Jane Zhao, executiva da CICC. O evento tratará de oportunidades de investimento em uma fase de grande transição do mercado acionário, com semicondutores, IA, energia nuclear, infraestrutura elétrica e K-culture. Marks falará no dia 14 com Yoon Seok-mo, chefe de pesquisa da Samsung Securities, sobre ciclos de investimento e riscos na era da IA. Assinantes do Hankyung Premium9 poderão assistir a todos os vídeos, informou hankyung.com."
-      },
-      "de": {
-        "title": "Howard Marks bei KIW 2026: Hankyung Premium9 zeigt alle Vorträge",
-        "excerpt": "The Korea Economic Daily veranstaltet KIW 2026 vom 12. bis 15. Mai 2026 in Seoul und bietet Hankyung-Premium9-Abonnenten Videos von Howard Marks und rund 70 Referenten.",
-        "body": "The Korea Economic Daily richtet Korea Investment Week 2026, kurz KIW 2026, vom 12. bis 15. Mai 2026 im The Shilla Seoul in Jangchung-dong aus. Die gemeinsam mit Samsung Securities organisierte Konferenz bringt rund 70 Redner aus Investment, Regierung, Industrie und Finanzsektor zusammen, darunter Howard Marks, Chairman von Oaktree Capital, Strategas-Mitgründer Nicholas Bohnsack und CICC-Managerin Jane Zhao. Im Mittelpunkt stehen Investmentchancen in einer Phase tiefgreifender Börsenveränderungen, mit Themen wie Halbleiter, KI, Kernenergie, Strominfrastruktur und K-Culture. Marks spricht am 14. Mai mit Samsung-Securities-Researchchef Yoon Seok-mo über Investmentzyklen und Risiken im KI-Zeitalter. Hankyung-Premium9-Abonnenten können alle Vortragsvideos sehen, berichtete hankyung.com."
-      },
-      "fr": {
-        "title": "Howard Marks au KIW 2026 : Hankyung Premium9 diffusera toutes les conférences",
-        "excerpt": "The Korea Economic Daily organisera KIW 2026 à Séoul du 12 au 15 mai 2026 et proposera aux abonnés Hankyung Premium9 les vidéos de Howard Marks et d’environ 70 intervenants.",
-        "body": "The Korea Economic Daily organisera Korea Investment Week 2026, ou KIW 2026, du 12 au 15 mai 2026 au Shilla Seoul, dans le quartier de Jangchung-dong. La conférence, coorganisée avec Samsung Securities, réunira environ 70 intervenants issus de l’investissement, des pouvoirs publics, de l’industrie et de la finance, dont Howard Marks, président d’Oaktree Capital, Nicholas Bohnsack, cofondateur de Strategas, et Jane Zhao, responsable chez CICC. L’événement portera sur les opportunités d’investissement dans une période de transformation boursière, avec les semi-conducteurs, l’IA, le nucléaire, les infrastructures électriques et la K-culture. Marks échangera le 14 mai avec Yoon Seok-mo, responsable de la recherche chez Samsung Securities, sur les cycles d’investissement et les risques à l’ère de l’IA. Les abonnés Hankyung Premium9 pourront voir toutes les vidéos, selon hankyung.com."
-      },
-      "ar": {
-        "title": "هوارد ماركس في KIW 2026: هانكيونغ بريميوم9 تتيح فيديوهات المحاضرات",
-        "excerpt": "تنظم صحيفة كوريا الاقتصادية KIW 2026 في سيول من 12 إلى 15 مايو 2026، وتتيح لمشتركي هانكيونغ بريميوم9 مشاهدة محاضرات هوارد ماركس ونحو 70 متحدثا.",
-        "body": "تنظم صحيفة كوريا الاقتصادية مؤتمر Korea Investment Week 2026، المعروف باسم KIW 2026، من 12 إلى 15 مايو 2026 في فندق شيلا سيول بمنطقة جانغتشونغ دونغ. ويقام الحدث بالشراكة مع سامسونغ للأوراق المالية، بمشاركة نحو 70 متحدثا من الاستثمار والحكومة والصناعة والقطاع المالي، من بينهم هوارد ماركس رئيس أوكتري كابيتال، ونيكولاس بونساك الشريك المؤسس في Strategas، وجين جاو المسؤولة في CICC. ويركز المؤتمر على فرص الاستثمار في مرحلة تحول كبيرة بسوق الأسهم، مع ملفات تشمل أشباه الموصلات والذكاء الاصطناعي والطاقة النووية والبنية التحتية للكهرباء والثقافة الكورية. وفي 14 مايو، يتحاور ماركس مع يون سوك مو، رئيس الأبحاث في سامسونغ للأوراق المالية، حول دورات الاستثمار والمخاطر في عصر الذكاء الاصطناعي. وذكر hankyung.com أن مشتركي هانكيونغ بريميوم9 يمكنهم مشاهدة جميع فيديوهات المحاضرات."
-      },
-      "hi": {
-        "title": "KIW 2026 में हॉवर्ड मार्क्स, Hankyung Premium9 पर सभी व्याख्यान वीडियो",
-        "excerpt": "The Korea Economic Daily 12 से 15 मई 2026 तक सियोल में KIW 2026 आयोजित करेगा, जहां Hankyung Premium9 सदस्य हॉवर्ड मार्क्स और करीब 70 वक्ताओं के वीडियो देख सकेंगे।",
-        "body": "The Korea Economic Daily 12 से 15 मई 2026 तक सियोल के जांगचुंग-डोंग स्थित The Shilla Seoul में Korea Investment Week 2026, यानी KIW 2026, आयोजित करेगा। Samsung Securities के साथ सह-आयोजित इस सम्मेलन में निवेश, सरकार, उद्योग और वित्त जगत से करीब 70 वक्ता शामिल होंगे, जिनमें Oaktree Capital के चेयरमैन हॉवर्ड मार्क्स, Strategas के सह-संस्थापक Nicholas Bohnsack और CICC की कार्यकारी Jane Zhao शामिल हैं। कार्यक्रम शेयर बाजार में बड़े बदलाव के दौर में निवेश अवसरों पर केंद्रित होगा और सेमीकंडक्टर, AI, परमाणु ऊर्जा, बिजली अवसंरचना और K-culture जैसे विषयों को कवर करेगा। मार्क्स 14 मई को Samsung Securities के शोध प्रमुख Yoon Seok-mo के साथ AI युग में निवेश चक्र और जोखिमों पर बातचीत करेंगे। hankyung.com के अनुसार Hankyung Premium9 सदस्य सभी व्याख्यान वीडियो देख सकेंगे।"
-      },
-      "id": {
-        "title": "Howard Marks di KIW 2026, Hankyung Premium9 Tayangkan Semua Video Sesi",
-        "excerpt": "The Korea Economic Daily akan menggelar KIW 2026 di Seoul pada 12-15 Mei 2026, dengan video sesi Howard Marks dan sekitar 70 pembicara tersedia bagi pelanggan Hankyung Premium9.",
-        "body": "The Korea Economic Daily akan menggelar Korea Investment Week 2026, atau KIW 2026, pada 12-15 Mei 2026 di The Shilla Seoul, Jangchung-dong. Konferensi yang diselenggarakan bersama Samsung Securities ini menghadirkan sekitar 70 pembicara dari investasi, pemerintah, industri, dan keuangan, termasuk Howard Marks, chairman Oaktree Capital, Nicholas Bohnsack, salah satu pendiri Strategas, serta Jane Zhao, eksekutif CICC. Acara ini berfokus pada peluang investasi di tengah perubahan besar pasar saham, dengan topik semikonduktor, AI, tenaga nuklir, infrastruktur listrik, dan K-culture. Marks akan berdialog pada 14 Mei dengan kepala riset Samsung Securities, Yoon Seok-mo, tentang siklus investasi dan risiko di era AI. Pelanggan Hankyung Premium9 dapat menonton semua video sesi, lapor hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "b4cfbb26603a",
-    "slug": "고려아연-1분기-또-사상-최대-실적영업익-175-급증-812904",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-06T22:13:25.978Z",
-    "updatedAt": "2026-05-06T22:13:25.978Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050698036",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050698036",
-    "titleFingerprint": "695280f2ec9a11c249ce58894e59ace104fd0893",
-    "dedupKeys": [
-      "b4cfbb26603a6e1c21d73f2e43817f816987f0e3",
-      "695280f2ec9a11c249ce58894e59ace104fd0893",
-      "ed531dd2db691e5d68686de6a6b1668687574ed3"
-    ],
-    "imageUrl": "/images/articles/b4cfbb26603a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "고려아연 1분기 영업익 7461억, 또 사상 최대 실적 경신",
-        "excerpt": "고려아연은 2026년 5월 6일 올해 1분기 연결 영업이익이 전년 대비 175.2% 늘어난 7461억원으로 집계돼 분기 기준 사상 최대 실적을 다시 썼다고 밝혔다.",
-        "body": "고려아연은 2026년 5월 6일 올해 1분기 연결 기준 매출 6조720억원, 영업이익 7461억원을 기록해 분기 기준 사상 최대 실적을 다시 경신했다고 발표했다. 전년 동기 대비 매출은 58.4%, 영업이익은 175.2% 증가했다. 영업이익률은 12.3%로 1년 전보다 5.2%포인트 올랐고, 105분기 연속 영업흑자도 이어졌다. 회사는 이란 전쟁과 호르무즈 해협 봉쇄 등으로 원자재 가격과 공급망 불확실성이 커진 가운데 제품 포트폴리오 다변화와 안정적 생산능력이 실적을 뒷받침했다고 설명했다. 금·은 판매 증가, 안티모니 등 핵심광물 수요 확대, 트로이카 드라이브 성과도 영향을 줬다. 이사회는 주당 5000원 배당을 결의했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Korea Zinc Q1 operating profit jumps 175% to new record",
-        "excerpt": "Korea Zinc said on May 6, 2026 that first-quarter consolidated operating profit rose 175.2% year on year to 746.1 billion won, setting another quarterly record.",
-        "body": "Korea Zinc announced on May 6, 2026 that its first-quarter consolidated revenue reached 6.072 trillion won and operating profit hit 746.1 billion won, marking another all-time quarterly high. Revenue rose 58.4% from a year earlier, while operating profit increased 175.2%. The operating margin was 12.3%, up 5.2 percentage points year on year, and the company extended its operating-profit streak to 105 consecutive quarters. Korea Zinc said product portfolio diversification and stable production capacity supported results despite higher raw-material prices and supply-chain uncertainty linked to the Iran war and the Strait of Hormuz closure. Higher gold and silver sales, stronger demand for key minerals such as antimony, and progress in its Troika Drive businesses also contributed. The board approved a dividend of 5,000 won per share. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "高麗亜鉛、1～3月期営業益175%増で再び過去最高",
-        "excerpt": "高麗亜鉛は2026年5月6日、1～3月期の連結営業利益が前年同期比175.2%増の7461億ウォンとなり、四半期ベースで再び過去最高を更新したと発表した。",
-        "body": "高麗亜鉛は2026年5月6日、2026年1～3月期の連結売上高が6兆720億ウォン、営業利益が7461億ウォンとなり、四半期ベースで再び過去最高を更新したと発表した。売上高は前年同期比58.4%増、営業利益は175.2%増だった。営業利益率は12.3%で1年前から5.2ポイント改善し、105四半期連続の営業黒字も維持した。同社は、イラン戦争やホルムズ海峡封鎖に伴う原材料価格上昇と供給網の不確実性が高まる中、製品ポートフォリオの多角化と安定した生産能力が業績を支えたと説明した。金・銀販売の増加、アンチモンなど主要鉱物需要の拡大、トロイカドライブ事業の成果も寄与した。取締役会は1株5000ウォンの配当を決議した。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "高丽亚铅一季度营业利润增175%，再创季度新高",
-        "excerpt": "高丽亚铅2026年5月6日表示，今年一季度合并营业利润同比增长175.2%至7461亿韩元，季度业绩再次刷新历史最高纪录。",
-        "body": "高丽亚铅2026年5月6日宣布，今年一季度合并口径销售额为6.072万亿韩元，营业利润为7461亿韩元，再次刷新季度历史最高业绩。销售额同比增长58.4%，营业利润同比增长175.2%。营业利润率为12.3%，较一年前提高5.2个百分点，公司也延续了连续105个季度实现营业盈利的纪录。公司说明称，在伊朗战争和霍尔木兹海峡封锁导致原材料价格及供应链不确定性上升的背景下，产品组合多元化和稳定生产能力支撑了业绩。黄金、白银销售增加，锑等关键矿物需求扩大，以及Troika Drive新业务成果也发挥了作用。董事会决定每股分红5000韩元。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Korea Zinc eleva 175% su beneficio operativo trimestral récord",
-        "excerpt": "Korea Zinc informó el 6 de mayo de 2026 que su beneficio operativo consolidado del primer trimestre subió un 175,2% interanual hasta 746.100 millones de wones, un nuevo récord trimestral.",
-        "body": "Korea Zinc anunció el 6 de mayo de 2026 que en el primer trimestre registró ingresos consolidados de 6,072 billones de wones y un beneficio operativo de 746.100 millones de wones, renovando su máximo histórico trimestral. Los ingresos aumentaron un 58,4% frente al año anterior y el beneficio operativo avanzó un 175,2%. El margen operativo fue del 12,3%, 5,2 puntos porcentuales más que un año antes, y la empresa acumuló 105 trimestres consecutivos con beneficio operativo. Según la compañía, la diversificación de la cartera de productos y una capacidad de producción estable sostuvieron los resultados pese al alza de materias primas y la incertidumbre de suministro asociadas a la guerra de Irán y al cierre del estrecho de Ormuz. También contribuyeron mayores ventas de oro y plata, la demanda de minerales clave como el antimonio y el avance de Troika Drive. El consejo aprobó un dividendo de 5.000 wones por acción. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Korea Zinc tem lucro operacional recorde no 1º tri, alta de 175%",
-        "excerpt": "A Korea Zinc informou em 6 de maio de 2026 que o lucro operacional consolidado do primeiro trimestre subiu 175,2% em um ano, para 746,1 bilhões de won, renovando o recorde trimestral.",
-        "body": "A Korea Zinc anunciou em 6 de maio de 2026 que sua receita consolidada no primeiro trimestre chegou a 6,072 trilhões de won e o lucro operacional atingiu 746,1 bilhões de won, renovando o recorde histórico trimestral. A receita cresceu 58,4% em relação ao ano anterior, enquanto o lucro operacional avançou 175,2%. A margem operacional foi de 12,3%, alta de 5,2 pontos percentuais em um ano, e a companhia manteve 105 trimestres consecutivos de lucro operacional. Segundo a empresa, a diversificação do portfólio de produtos e a capacidade produtiva estável sustentaram o desempenho apesar da alta dos preços de matérias-primas e da incerteza na cadeia de suprimentos ligadas à guerra do Irã e ao fechamento do estreito de Ormuz. Vendas maiores de ouro e prata, demanda por minerais-chave como antimônio e resultados do Troika Drive também contribuíram. O conselho aprovou dividendo de 5.000 won por ação. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Korea Zinc steigert Q1-Betriebsgewinn um 175% auf Rekordwert",
-        "excerpt": "Korea Zinc meldete am 6. Mai 2026 für das erste Quartal einen konsolidierten Betriebsgewinn von 746,1 Mrd. Won, 175,2% mehr als im Vorjahr und erneut ein Quartalsrekord.",
-        "body": "Korea Zinc gab am 6. Mai 2026 bekannt, dass der konsolidierte Umsatz im ersten Quartal 6,072 Billionen Won und der Betriebsgewinn 746,1 Milliarden Won erreichte. Damit wurde erneut ein historischer Quartalsrekord erzielt. Der Umsatz stieg gegenüber dem Vorjahr um 58,4%, der Betriebsgewinn um 175,2%. Die operative Marge lag bei 12,3% und damit 5,2 Prozentpunkte höher als ein Jahr zuvor; zugleich blieb das Unternehmen 105 Quartale in Folge operativ profitabel. Korea Zinc erklärte, Produktportfolio-Diversifizierung und stabile Produktionskapazitäten hätten die Ergebnisse gestützt, obwohl der Iran-Krieg und die Sperrung der Straße von Hormus Rohstoffpreise und Lieferkettenunsicherheit erhöhten. Höhere Verkäufe von Gold und Silber, stärkere Nachfrage nach Schlüsselmineralien wie Antimon und Beiträge der Troika-Drive-Geschäfte wirkten ebenfalls mit. Der Vorstand beschloss eine Dividende von 5.000 Won je Aktie. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Korea Zinc signe un bénéfice opérationnel T1 record, +175%",
-        "excerpt": "Korea Zinc a indiqué le 6 mai 2026 que son bénéfice opérationnel consolidé du premier trimestre avait bondi de 175,2% sur un an à 746,1 milliards de wons, un nouveau record trimestriel.",
-        "body": "Korea Zinc a annoncé le 6 mai 2026 un chiffre d’affaires consolidé de 6.072 milliards de wons et un bénéfice opérationnel de 746,1 milliards de wons au premier trimestre, établissant de nouveau un record trimestriel. Le chiffre d’affaires a progressé de 58,4% sur un an et le bénéfice opérationnel de 175,2%. La marge opérationnelle a atteint 12,3%, en hausse de 5,2 points par rapport à l’an dernier, tandis que l’entreprise a enchaîné un 105e trimestre de bénéfice opérationnel. Korea Zinc a expliqué que la diversification du portefeuille de produits et une capacité de production stable avaient soutenu les résultats malgré la hausse des prix des matières premières et l’incertitude d’approvisionnement liées à la guerre en Iran et à la fermeture du détroit d’Ormuz. La hausse des ventes d’or et d’argent, la demande de minéraux clés comme l’antimoine et les effets de Troika Drive ont aussi contribué. Le conseil a approuvé un dividende de 5.000 wons par action. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كوريا زنك تحقق رقما قياسيا جديدا في الربع الأول مع قفزة 175%",
-        "excerpt": "قالت كوريا زنك في 6 مايو 2026 إن أرباحها التشغيلية المجمعة في الربع الأول ارتفعت 175.2% على أساس سنوي إلى 746.1 مليار وون، لتسجل رقما فصليا قياسيا جديدا.",
-        "body": "أعلنت كوريا زنك في 6 مايو 2026 أن إيراداتها المجمعة في الربع الأول بلغت 6.072 تريليون وون، وأن الأرباح التشغيلية وصلت إلى 746.1 مليار وون، لتجدد أعلى أداء فصلي في تاريخها. وزادت الإيرادات 58.4% مقارنة بالعام السابق، بينما ارتفعت الأرباح التشغيلية 175.2%. وبلغ هامش التشغيل 12.3%، بزيادة 5.2 نقطة مئوية عن العام الماضي، كما واصلت الشركة تحقيق أرباح تشغيلية للربع رقم 105 على التوالي. وقالت الشركة إن تنويع محفظة المنتجات والقدرة الإنتاجية المستقرة دعما النتائج رغم ارتفاع أسعار المواد الخام وزيادة عدم اليقين في سلاسل الإمداد المرتبطين بحرب إيران وإغلاق مضيق هرمز. كما ساهمت زيادة مبيعات الذهب والفضة، ونمو الطلب على معادن رئيسية مثل الأنتيمون، ونتائج أعمال Troika Drive. ووافق مجلس الإدارة على توزيعات قدرها 5000 وون للسهم. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "कोरिया जिंक का Q1 परिचालन लाभ 175% उछला, नया रिकॉर्ड",
-        "excerpt": "कोरिया जिंक ने 6 मई 2026 को कहा कि पहली तिमाही में उसका समेकित परिचालन लाभ सालाना 175.2% बढ़कर 746.1 अरब वॉन हो गया और तिमाही आधार पर नया रिकॉर्ड बना।",
-        "body": "कोरिया जिंक ने 6 मई 2026 को घोषणा की कि 2026 की पहली तिमाही में उसका समेकित राजस्व 6.072 ट्रिलियन वॉन और परिचालन लाभ 746.1 अरब वॉन रहा, जिससे तिमाही आधार पर फिर नया ऐतिहासिक रिकॉर्ड बना। राजस्व सालाना 58.4% बढ़ा, जबकि परिचालन लाभ 175.2% बढ़ा। परिचालन मार्जिन 12.3% रहा, जो एक साल पहले से 5.2 प्रतिशत अंक अधिक है, और कंपनी ने लगातार 105वीं तिमाही परिचालन लाभ दर्ज किया। कंपनी के अनुसार, ईरान युद्ध और होर्मुज जलडमरूमध्य बंद होने से कच्चे माल की कीमतों और आपूर्ति श्रृंखला अनिश्चितता में वृद्धि के बावजूद उत्पाद पोर्टफोलियो के विविधीकरण और स्थिर उत्पादन क्षमता ने प्रदर्शन को सहारा दिया। सोने और चांदी की अधिक बिक्री, एंटिमनी जैसे प्रमुख खनिजों की मांग और Troika Drive व्यवसायों की प्रगति ने भी योगदान दिया। बोर्ड ने प्रति शेयर 5000 वॉन लाभांश को मंजूरी दी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Korea Zinc catat rekor Q1 baru, laba operasi melonjak 175%",
-        "excerpt": "Korea Zinc pada 6 Mei 2026 menyatakan laba operasi konsolidasi kuartal I naik 175,2% secara tahunan menjadi 746,1 miliar won, kembali mencetak rekor kinerja kuartalan.",
-        "body": "Korea Zinc mengumumkan pada 6 Mei 2026 bahwa pendapatan konsolidasi kuartal pertama mencapai 6,072 triliun won dan laba operasi 746,1 miliar won, kembali memperbarui rekor tertinggi kuartalan. Pendapatan naik 58,4% dari tahun sebelumnya, sedangkan laba operasi meningkat 175,2%. Margin operasi mencapai 12,3%, naik 5,2 poin persentase dibanding setahun lalu, dan perusahaan mempertahankan laba operasi selama 105 kuartal berturut-turut. Korea Zinc menjelaskan bahwa diversifikasi portofolio produk dan kapasitas produksi yang stabil menopang kinerja meski perang Iran dan penutupan Selat Hormuz meningkatkan harga bahan baku serta ketidakpastian rantai pasok. Kenaikan penjualan emas dan perak, permintaan mineral utama seperti antimon, serta hasil bisnis Troika Drive juga ikut berkontribusi. Dewan menyetujui dividen 5.000 won per saham. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "ef6abf1a8a11",
-    "slug": "실적-랠리-이끄는-단-하나의-단어k증시-여전히-저평가-864489",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-06T22:12:08.363Z",
-    "updatedAt": "2026-05-06T22:12:08.363Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050696901",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050696901",
-    "titleFingerprint": "13d85404bd5d2f223f339b538be3637fc3620f9d",
-    "dedupKeys": [
-      "ef6abf1a8a11cb358e3367e3d4f49612acfff951",
-      "13d85404bd5d2f223f339b538be3637fc3620f9d",
-      "d94fc465f6b9df7410c29f2ba9dd32e349d3a97a"
-    ],
-    "imageUrl": "/images/articles/ef6abf1a8a11.jpg",
-    "i18n": {
-      "ko": {
-        "title": "실적 랠리가 이끈 K증시 재평가…“여전히 저평가” 진단",
-        "excerpt": "한국경제는 실적이 증시 랠리를 이끄는 핵심 변수로 부상했으며, K증시가 상승 흐름 속에서도 여전히 저평가됐다는 평가가 나온다고 보도했다.",
-        "body": "한국경제는 최근 K증시에서 랠리를 이끄는 핵심 단어로 ‘실적’이 부각되고 있다고 보도했다. 보도에 따르면 시장의 관심은 단순한 기대감보다 기업 실적 개선 여부에 맞춰지고 있으며, 이 흐름이 한국 증시 재평가 논의로 이어지고 있다. 관련 기사 제목은 K증시가 상승세를 보이는 가운데도 여전히 저평가됐다는 진단을 전했다. 이는 투자자들이 실적을 중심으로 국내 주식시장의 밸류에이션과 향후 흐름을 점검하고 있음을 보여준다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Earnings-Led Rally Puts Korean Stocks Back in Focus: “Still Undervalued”",
-        "excerpt": "Hankyung reported that earnings have emerged as the key driver of the Korean stock market rally, while K-stocks are still being viewed as undervalued.",
-        "body": "Hankyung reported that the single word driving the recent rally in Korean equities is “earnings.” According to the report, market attention is shifting from broad expectations to whether companies can deliver improved results, and that trend is feeding discussions about a revaluation of the Korean stock market. The article’s headline also conveyed the view that K-stocks remain undervalued despite their upward momentum. This shows that investors are reviewing domestic equity valuations and future direction through the lens of earnings. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "業績主導の韓国株ラリーに再評価機運、「なお割安」との見方",
-        "excerpt": "韓国経済は、業績が韓国株ラリーをけん引する重要要因として浮上し、上昇局面でもK株はなお割安との評価が出ていると報じた。",
-        "body": "韓国経済は、最近の韓国株市場でラリーを導く核心語として「業績」が浮上していると報じた。報道によると、市場の関心は単なる期待感よりも企業業績が改善するかどうかに向かっており、この流れが韓国株の再評価論につながっている。記事の見出しは、K株が上昇基調にある中でもなお割安だとの診断を伝えた。これは投資家が業績を軸に国内株式市場のバリュエーションと今後の方向を点検していることを示している。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "业绩驱动韩国股市反弹再获关注，“仍被低估”判断升温",
-        "excerpt": "韩国经济报道称，业绩正成为推动韩国股市反弹的核心变量，尽管K股上涨，市场仍出现其估值偏低的看法。",
-        "body": "韩国经济报道称，近期韩国股市中推动反弹的关键词是“业绩”。报道指出，市场关注点正从单纯预期转向企业业绩能否改善，这一趋势也引发了对韩国股市重新估值的讨论。该报道标题还传达出一种判断：即便K股呈现上涨势头，仍然处于低估状态。这显示投资者正以业绩为中心，重新审视韩国国内股票市场的估值水平和后续走势。来源: hankyung.com"
-      },
-      "es": {
-        "title": "El rally bursátil coreano se apoya en resultados: “Sigue infravalorado”",
-        "excerpt": "Hankyung informó que los resultados empresariales se han convertido en el motor clave del rally de la bolsa coreana, aún considerada infravalorada.",
-        "body": "Hankyung informó que la palabra clave que impulsa el reciente rally de la bolsa coreana es “resultados”. Según el reporte, la atención del mercado se está desplazando desde las expectativas generales hacia la posibilidad de que las empresas mejoren sus beneficios, una tendencia que alimenta el debate sobre una revaloración del mercado coreano. El titular también transmitió la idea de que las acciones coreanas siguen infravaloradas pese al avance. Esto muestra que los inversores revisan las valoraciones y la dirección futura del mercado local a partir de los resultados. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Rali das ações coreanas ganha força com lucros: “Ainda subavaliadas”",
-        "excerpt": "O Hankyung informou que os lucros se tornaram o principal motor do rali da bolsa coreana, enquanto o mercado K ainda é visto como subavaliado.",
-        "body": "O Hankyung informou que a palavra central por trás do recente rali das ações coreanas é “lucros”. Segundo a reportagem, a atenção do mercado está deixando expectativas amplas e passando a se concentrar na melhora dos resultados das empresas, movimento que sustenta o debate sobre uma reavaliação da bolsa coreana. O título também destacou a avaliação de que o mercado K continua subavaliado, apesar da alta. Isso indica que investidores estão analisando valuations e perspectivas do mercado doméstico com foco nos lucros. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Gewinne treiben Korea-Aktienrally: Markt gilt „weiterhin unterbewertet“",
-        "excerpt": "Hankyung berichtete, dass Unternehmensgewinne zum zentralen Treiber der Rally am koreanischen Aktienmarkt geworden sind, der weiter als unterbewertet gilt.",
-        "body": "Hankyung berichtete, dass das zentrale Wort hinter der jüngsten Rally koreanischer Aktien „Gewinne“ ist. Dem Bericht zufolge richtet sich der Marktfokus weniger auf allgemeine Erwartungen, sondern stärker auf die Frage, ob Unternehmen ihre Ergebnisse verbessern können. Dieser Trend nährt die Debatte über eine Neubewertung des koreanischen Aktienmarkts. Die Überschrift vermittelte zugleich die Einschätzung, dass K-Aktien trotz Aufwärtsbewegung weiterhin unterbewertet sind. Anleger prüfen damit Bewertungen und weitere Perspektiven des heimischen Markts vor allem anhand der Gewinnentwicklung. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les bénéfices portent le rally des actions coréennes, jugées « encore sous-évaluées »",
-        "excerpt": "Hankyung rapporte que les bénéfices sont devenus le moteur clé du rally des actions coréennes, tandis que le marché K reste jugé sous-évalué.",
-        "body": "Hankyung rapporte que le mot qui porte le récent rally des actions coréennes est « bénéfices ». Selon l’article, l’attention du marché se déplace des simples attentes vers la capacité des entreprises à améliorer leurs résultats, un mouvement qui nourrit le débat sur une réévaluation de la Bourse coréenne. Le titre souligne aussi l’idée que les actions K restent sous-évaluées malgré leur progression. Cela montre que les investisseurs examinent les valorisations et la trajectoire future du marché local principalement à travers les bénéfices. Source : hankyung.com"
-      },
-      "ar": {
-        "title": "الأرباح تقود صعود الأسهم الكورية مع تقييم بأنها «ما زالت مقومة بأقل من قيمتها»",
-        "excerpt": "ذكرت هانكيونغ أن الأرباح أصبحت العامل الرئيسي وراء صعود سوق الأسهم الكورية، بينما لا تزال أسهم كوريا توصف بأنها مقومة بأقل من قيمتها.",
-        "body": "ذكرت هانكيونغ أن الكلمة المحورية التي تقود الصعود الأخير في سوق الأسهم الكورية هي «الأرباح». ووفق التقرير، ينتقل اهتمام السوق من التوقعات العامة إلى قدرة الشركات على تحسين نتائجها، وهو ما يغذي النقاش حول إعادة تقييم سوق الأسهم الكورية. كما نقل العنوان تقييما مفاده أن أسهم كوريا لا تزال مقومة بأقل من قيمتها رغم الزخم الصاعد. ويظهر ذلك أن المستثمرين يراجعون تقييمات السوق المحلية واتجاهها المقبل من خلال أداء الأرباح. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "कमाई से चली कोरियाई शेयरों की रैली, “अब भी कम मूल्यांकित” आकलन",
-        "excerpt": "हैंक्युंग ने बताया कि कंपनियों की कमाई कोरियाई शेयर बाजार की रैली का मुख्य कारक बन गई है, जबकि K-मार्केट अब भी कम मूल्यांकित माना जा रहा है।",
-        "body": "हैंक्युंग ने बताया कि हाल की कोरियाई शेयर बाजार रैली को आगे बढ़ाने वाला मुख्य शब्द “कमाई” है। रिपोर्ट के अनुसार, बाजार का ध्यान सामान्य उम्मीदों से हटकर इस बात पर केंद्रित हो रहा है कि कंपनियां अपने नतीजों में सुधार कर सकती हैं या नहीं। यही रुझान कोरियाई शेयर बाजार के पुनर्मूल्यांकन की चर्चा को बढ़ा रहा है। लेख के शीर्षक ने यह भी बताया कि तेजी के बावजूद K-शेयर अब भी कम मूल्यांकित माने जा रहे हैं। इससे दिखता है कि निवेशक कमाई के आधार पर घरेलू बाजार के मूल्यांकन और आगे की दिशा की समीक्षा कर रहे हैं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Reli Saham Korea Didorong Laba, Pasar K Disebut “Masih Undervalued”",
-        "excerpt": "Hankyung melaporkan bahwa laba menjadi faktor utama penggerak reli pasar saham Korea, sementara saham K tetap dinilai masih undervalued.",
-        "body": "Hankyung melaporkan bahwa satu kata yang mendorong reli terbaru di pasar saham Korea adalah “laba”. Menurut laporan tersebut, perhatian pasar bergeser dari ekspektasi umum menuju apakah perusahaan mampu memperbaiki kinerja laba, dan tren ini memicu pembahasan mengenai revaluasi pasar saham Korea. Judul artikel juga menyampaikan penilaian bahwa saham K masih undervalued meski sedang menguat. Hal ini menunjukkan investor meninjau valuasi dan arah pasar domestik ke depan dengan berfokus pada laba. Sumber: hankyung.com"
       }
     }
   }
