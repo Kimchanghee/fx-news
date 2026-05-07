@@ -1,5 +1,230 @@
 [
   {
+    "id": "3b2445039a4d",
+    "slug": "액티브-etf도-k주식이-대세순유입-비중-한국형-80-육박-701748",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-07T20:44:31.760Z",
+    "updatedAt": "2026-05-07T20:44:31.760Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050707811",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050707811",
+    "titleFingerprint": "2637448cc38f48045e13009aebcc55d05ed0abd0",
+    "dedupKeys": [
+      "3b2445039a4dd71873c1fe98f4dac86d622014ff",
+      "2637448cc38f48045e13009aebcc55d05ed0abd0",
+      "55adff878dbf457008239e5c358320c7066807d2"
+    ],
+    "imageUrl": "/images/articles/3b2445039a4d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "K주식 액티브 ETF 순유입 79.4%…월평균 9863억원 몰렸다",
+        "excerpt": "5월 7일 금융투자업계에 따르면 올해 주식형 액티브 ETF 자금 유입이 월평균 9863억원으로 급증했고, 한국 주식형 비중은 79.4%까지 확대됐다.",
+        "body": "7일 금융투자업계에 따르면 올해 주식형 액티브 ETF 시장에 자금이 빠르게 유입되고 있다. 올해 신규 상장 주식형 ETF 중 액티브형 비중은 지난달 기준 35.5%로, 최근 5년 평균 27.8%를 웃돌았다. 미래에셋증권 집계에서 2021~2024년 월평균 595억원이던 주식형 액티브 ETF 유입액은 올해 월평균 9863억원으로 늘었다. 특히 한국 주식형 순유입액은 286억원에서 7859억원으로 증가했고, 전체 순유입 중 비중은 지난해 30.4%에서 올해 79.4%로 확대됐다. 최근 6개월 평균 절대수익률은 35.5%로 시장지수보다 4.7%포인트 높았다. 다만 국내 상장 68개 중 26개는 기초지수를 밑돌았다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Korea Stock Active ETFs Take 79.4% of Inflows as Monthly Money Surges",
+        "excerpt": "According to the financial investment industry on May 7, equity active ETF inflows jumped to a monthly average of 986.3 billion won this year, with Korean equity products reaching 79.4% of net inflows.",
+        "body": "According to the financial investment industry on May 7, money is flowing rapidly into equity active ETFs this year. Active products accounted for 35.5% of newly listed equity ETFs as of last month, above the five-year average of 27.8%. Mirae Asset Securities said monthly inflows into equity active ETFs rose from an average 59.5 billion won in 2021-2024 to 986.3 billion won this year. Korean equity active ETF net inflows increased from 28.6 billion won to 785.9 billion won, lifting their share of total net inflows from 30.4% last year to 79.4% this year. The six-month average absolute return was 35.5%, 4.7 percentage points above market indexes, though 26 of 68 domestic listings lagged their benchmarks. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "韓国株アクティブETF、純流入比率79.4%に拡大し資金集中",
+        "excerpt": "5月7日の金融投資業界によると、今年の株式型アクティブETFへの資金流入は月平均9863億ウォンに急増し、韓国株式型の比率は79.4%まで拡大した。",
+        "body": "5月7日の金融投資業界によると、今年は株式型アクティブETF市場に資金が急速に流入している。今年新規上場した株式型ETFのうちアクティブ型の比率は先月時点で35.5%となり、過去5年平均の27.8%を上回った。未来アセット証券の集計では、2021〜2024年に月平均595億ウォンだった株式型アクティブETFへの流入額が、今年は月平均9863億ウォンに増えた。韓国株式型の純流入額は286億ウォンから7859億ウォンへ増加し、全体純流入に占める比率も昨年の30.4%から今年79.4%へ拡大した。直近6カ月の平均絶対収益率は35.5%で、市場指数を4.7ポイント上回った。一方、国内上場68本のうち26本は基礎指数を下回った。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "韩国股票主动ETF吸金占比79.4%，月均流入9863亿韩元",
+        "excerpt": "据5月7日金融投资业界消息，今年股票型主动ETF资金流入增至月均9863亿韩元，韩国股票型在整体净流入中的占比升至79.4%。",
+        "body": "据5月7日金融投资业界消息，今年股票型主动ETF市场资金流入明显加快。截至上月，今年新上市股票型ETF中主动型占比为35.5%，高于近五年平均的27.8%。未来资产证券统计显示，2021年至2024年月均595亿韩元的股票型主动ETF流入额，今年增至月均9863亿韩元。韩国股票型净流入额也从286亿韩元增至7859亿韩元，在整体主动ETF净流入中的占比由去年的30.4%扩大至今年的79.4%。最近六个月平均绝对收益率为35.5%，比市场指数高4.7个百分点。不过，韩国上市的68只股票型主动ETF中有26只收益率低于基准指数。来源: hankyung.com"
+      },
+      "es": {
+        "title": "ETF activos de acciones coreanas captan el 79,4% de flujos netos",
+        "excerpt": "Según la industria financiera el 7 de mayo, las entradas en ETF activos de renta variable subieron este año a una media mensual de 986.300 millones de wones y Corea alcanzó el 79,4% del total.",
+        "body": "Según la industria de inversión financiera el 7 de mayo, el dinero está entrando con rapidez en los ETF activos de renta variable este año. Entre los ETF de acciones recién listados, los activos representaban el 35,5% hasta el mes pasado, por encima del promedio de cinco años del 27,8%. Mirae Asset Securities calculó que las entradas mensuales en ETF activos de renta variable pasaron de 59.500 millones de wones en 2021-2024 a 986.300 millones este año. En los productos de acciones coreanas, las entradas netas subieron de 28.600 millones a 785.900 millones de wones, elevando su peso del 30,4% el año pasado al 79,4% este año. La rentabilidad absoluta media de seis meses fue del 35,5%, 4,7 puntos sobre los índices de mercado, aunque 26 de 68 ETF locales quedaron por debajo de su índice base. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "ETFs ativos de ações coreanas chegam a 79,4% dos fluxos líquidos",
+        "excerpt": "Segundo o setor financeiro em 7 de maio, os aportes em ETFs ativos de ações subiram para média mensal de 986,3 bilhões de wons neste ano, com produtos coreanos em 79,4% do total líquido.",
+        "body": "Segundo o setor de investimentos financeiros em 7 de maio, os ETFs ativos de ações vêm recebendo recursos rapidamente neste ano. Entre os ETFs de ações recém-listados, os ativos representavam 35,5% até o mês passado, acima da média de cinco anos de 27,8%. A Mirae Asset Securities informou que os aportes mensais em ETFs ativos de ações passaram de média de 59,5 bilhões de wons em 2021-2024 para 986,3 bilhões de wons neste ano. Nos ETFs ativos de ações coreanas, as entradas líquidas subiram de 28,6 bilhões para 785,9 bilhões de wons, elevando a fatia de 30,4% no ano passado para 79,4% neste ano. O retorno absoluto médio em seis meses foi de 35,5%, 4,7 pontos acima dos índices de mercado, embora 26 dos 68 produtos locais tenham ficado abaixo do índice de referência. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Korea-Aktien dominieren aktive ETFs: 79,4% der Nettozuflüsse",
+        "excerpt": "Laut Finanzinvestmentbranche vom 7. Mai stiegen die Zuflüsse in aktive Aktien-ETFs in diesem Jahr auf monatlich 986,3 Mrd. Won, während Korea-Aktienprodukte 79,4% der Nettozuflüsse erreichten.",
+        "body": "Laut Finanzinvestmentbranche vom 7. Mai fließt in diesem Jahr rasch Kapital in aktive Aktien-ETFs. Unter den neu gelisteten Aktien-ETFs lag der Anteil aktiver Produkte bis vergangenen Monat bei 35,5% und damit über dem Fünfjahresschnitt von 27,8%. Nach Angaben von Mirae Asset Securities stiegen die monatlichen Zuflüsse in aktive Aktien-ETFs von durchschnittlich 59,5 Mrd. Won in den Jahren 2021 bis 2024 auf 986,3 Mrd. Won in diesem Jahr. Bei aktiven ETFs auf koreanische Aktien erhöhten sich die Nettozuflüsse von 28,6 Mrd. auf 785,9 Mrd. Won; ihr Anteil an den gesamten Nettozuflüssen stieg von 30,4% im Vorjahr auf 79,4%. Die durchschnittliche absolute Rendite der vergangenen sechs Monate lag bei 35,5%, 4,7 Prozentpunkte über Marktindizes. 26 von 68 in Korea gelisteten Produkten blieben jedoch hinter ihrem Basisindex zurück. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les ETF actifs sur actions coréennes captent 79,4% des flux nets",
+        "excerpt": "Selon le secteur financier le 7 mai, les ETF actifs actions ont reçu en moyenne 986,3 milliards de wons par mois cette année, tandis que les produits coréens ont atteint 79,4% des flux nets.",
+        "body": "Selon le secteur de l’investissement financier le 7 mai, les capitaux affluent rapidement vers les ETF actifs actions cette année. Parmi les ETF actions nouvellement cotés, les produits actifs représentaient 35,5% le mois dernier, au-dessus de la moyenne sur cinq ans de 27,8%. D’après Mirae Asset Securities, les entrées mensuelles dans les ETF actifs actions sont passées d’une moyenne de 59,5 milliards de wons en 2021-2024 à 986,3 milliards de wons cette année. Pour les ETF actifs sur actions coréennes, les entrées nettes ont augmenté de 28,6 milliards à 785,9 milliards de wons, faisant passer leur part des flux nets totaux de 30,4% l’an dernier à 79,4%. Le rendement absolu moyen sur six mois a atteint 35,5%, soit 4,7 points au-dessus des indices de marché, même si 26 des 68 produits cotés localement ont sous-performé leur indice de base. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صناديق ETF النشطة للأسهم الكورية تستحوذ على 79.4% من صافي التدفقات",
+        "excerpt": "بحسب قطاع الاستثمار المالي في 7 مايو، ارتفعت تدفقات صناديق ETF النشطة للأسهم هذا العام إلى متوسط شهري قدره 986.3 مليار وون، وبلغت حصة المنتجات الكورية 79.4% من صافي التدفقات.",
+        "body": "بحسب قطاع الاستثمار المالي في 7 مايو، تتدفق الأموال بسرعة إلى سوق صناديق ETF النشطة للأسهم هذا العام. ومن بين صناديق الأسهم المتداولة الجديدة، بلغت حصة الصناديق النشطة 35.5% حتى الشهر الماضي، متجاوزة متوسط السنوات الخمس البالغ 27.8%. وذكرت ميراى أسيت سيكيوريتيز أن التدفقات الشهرية إلى صناديق ETF النشطة للأسهم ارتفعت من متوسط 59.5 مليار وون في 2021-2024 إلى 986.3 مليار وون هذا العام. وزادت صافي التدفقات إلى الصناديق النشطة للأسهم الكورية من 28.6 مليار إلى 785.9 مليار وون، لترتفع حصتها من إجمالي صافي التدفقات من 30.4% العام الماضي إلى 79.4% هذا العام. وبلغ متوسط العائد المطلق لستة أشهر 35.5%، أعلى من مؤشرات السوق بـ4.7 نقطة مئوية، لكن 26 من أصل 68 صندوقا مدرجا محليا جاءت دون مؤشرها الأساسي. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "कोरियाई शेयर सक्रिय ETF में तेज प्रवाह, शुद्ध हिस्सेदारी 79.4%",
+        "excerpt": "7 मई को वित्तीय निवेश उद्योग के अनुसार, इस वर्ष इक्विटी सक्रिय ETF में मासिक औसत प्रवाह 986.3 अरब वॉन हो गया और कोरियाई इक्विटी उत्पादों की शुद्ध प्रवाह हिस्सेदारी 79.4% तक पहुंची।",
+        "body": "7 मई को वित्तीय निवेश उद्योग के अनुसार, इस वर्ष इक्विटी सक्रिय ETF बाजार में धन तेजी से आ रहा है। पिछले महीने तक इस वर्ष नए सूचीबद्ध इक्विटी ETF में सक्रिय प्रकार की हिस्सेदारी 35.5% रही, जो पांच वर्ष के औसत 27.8% से अधिक है। मिरे एसेट सिक्योरिटीज के अनुसार, इक्विटी सक्रिय ETF में मासिक प्रवाह 2021-2024 के औसत 59.5 अरब वॉन से बढ़कर इस वर्ष 986.3 अरब वॉन हो गया। कोरियाई इक्विटी सक्रिय ETF में शुद्ध प्रवाह 28.6 अरब वॉन से बढ़कर 785.9 अरब वॉन हुआ, जिससे कुल शुद्ध प्रवाह में उनकी हिस्सेदारी पिछले वर्ष 30.4% से बढ़कर इस वर्ष 79.4% हो गई। हाल के छह महीनों का औसत पूर्ण रिटर्न 35.5% रहा, जो बाजार सूचकांकों से 4.7 प्रतिशत अंक अधिक था। हालांकि घरेलू सूचीबद्ध 68 उत्पादों में 26 अपने आधार सूचकांक से पीछे रहे। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "ETF aktif saham Korea kuasai 79,4% arus bersih, dana bulanan melonjak",
+        "excerpt": "Menurut industri investasi keuangan pada 7 Mei, arus masuk ETF aktif saham tahun ini naik menjadi rata-rata 986,3 miliar won per bulan, sementara produk saham Korea mencapai 79,4% arus bersih.",
+        "body": "Menurut industri investasi keuangan pada 7 Mei, dana mengalir cepat ke pasar ETF aktif berbasis saham tahun ini. Dari ETF saham yang baru tercatat, porsi jenis aktif mencapai 35,5% hingga bulan lalu, lebih tinggi dari rata-rata lima tahun sebesar 27,8%. Mirae Asset Securities mencatat arus masuk ETF aktif saham yang pada 2021-2024 rata-rata 59,5 miliar won per bulan naik menjadi 986,3 miliar won tahun ini. Pada ETF aktif saham Korea, arus masuk bersih meningkat dari 28,6 miliar won menjadi 785,9 miliar won, sehingga porsinya dalam total arus bersih naik dari 30,4% tahun lalu menjadi 79,4% tahun ini. Rata-rata imbal hasil absolut enam bulan terakhir sebesar 35,5%, atau 4,7 poin persentase di atas indeks pasar. Namun, 26 dari 68 produk yang tercatat di Korea masih di bawah indeks acuannya. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "c50b71d0a654",
+    "slug": "토지거래허가구역에서-매매-효력-계약보다-허가가-좌우한다-309388",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-07T20:43:21.095Z",
+    "updatedAt": "2026-05-07T20:43:21.095Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050707781",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050707781",
+    "titleFingerprint": "aa5ca27bfe0a248749b422bca02d50cf52d492bf",
+    "dedupKeys": [
+      "c50b71d0a6544f089f8fa03667ceafcfdd58f0b4",
+      "aa5ca27bfe0a248749b422bca02d50cf52d492bf",
+      "7eec6184204e9f189ca9a74e359b1fbf1db3882f"
+    ],
+    "imageUrl": "/images/articles/c50b71d0a654.jpg",
+    "i18n": {
+      "ko": {
+        "title": "토지거래허가구역 매매 효력, 계약서보다 ‘허가’가 핵심 변수",
+        "excerpt": "한국경제는 2026년 5월 7일 토지거래허가구역 내 매매계약은 허가 전 유동적 무효 상태이며 허가 여부가 효력을 좌우한다고 전했다.",
+        "body": "토지거래허가구역에서 부동산을 사고팔 때 매매계약의 효력은 계약 체결보다 행정청 허가 여부에 달린다는 법률 해설이 나왔다. 한국경제는 2026년 5월 7일 곽종규 국민은행 변호사의 기고를 통해, 허가를 전제로 한 계약은 허가 전까지 ‘유동적 무효’ 상태라고 설명했다. 현재 서울 전역과 수도권 일부 지역이 토지거래허가구역으로 지정돼 있으며, 이 제도는 투기적 거래와 지가 급등 우려를 통제하기 위한 장치다. 허가를 받으면 계약은 소급해 유효가 되지만, 불허되면 그 시점에 확정적으로 무효가 된다. 허가 전에는 소유권이전등기 청구나 대금 청구, 계약 해제와 손해배상 청구가 제한된다. 다만 당사자는 허가 신청에 협력할 의무가 있고, 협력 거부 시 일정 금액을 배상하는 별도 약정은 유효할 수 있다. 잔금일, 서류 준비, 위약 조항 검토가 중요하다고 한국경제(hankyung.com)는 전했다."
+      },
+      "en": {
+        "title": "Land Transaction Permit Zones: Approval, Not Contract, Decides Sale Validity",
+        "excerpt": "Hankyung reported on May 7, 2026 that sales in land transaction permit zones remain provisionally invalid before approval, making the permit decisive.",
+        "body": "In land transaction permit zones, the legal effect of a real estate sale depends less on signing the contract than on whether the administrative authority grants approval. Hankyung reported on May 7, 2026, in a legal column by KB Kookmin Bank lawyer Kwak Jong-gyu, that a contract made on the premise of approval is in a state of “provisional invalidity” until permission is issued. All of Seoul and parts of the metropolitan area are currently designated as such zones, a system intended to control speculative deals and sharp land-price increases. If approval is granted, the contract becomes valid retroactively; if it is denied, it becomes definitively invalid at that point. Before approval, claims for ownership transfer registration, payment, cancellation, or damages based on the contract are restricted. However, parties have a duty to cooperate in the permit application, and a separate clause requiring compensation for refusal to cooperate may be valid, Hankyung.com said."
+      },
+      "ja": {
+        "title": "土地取引許可区域の売買効力、契約より「許可」が決定要因に",
+        "excerpt": "韓国経済新聞は2026年5月7日、土地取引許可区域の売買契約は許可前には流動的無効で、許可の有無が効力を左右すると伝えた。",
+        "body": "土地取引許可区域で不動産を売買する場合、契約を締結した事実よりも行政庁の許可を受けたかどうかが契約の効力を左右する。韓国経済新聞は2026年5月7日、国民銀行の郭鍾奎弁護士による法律解説で、許可を前提にした契約は許可前まで「流動的無効」の状態にあると説明した。現在、ソウル全域と首都圏の一部地域が土地取引許可区域に指定されており、この制度は投機的取引や地価急騰の懸念を抑えるための仕組みだ。許可を受ければ契約は遡及して有効となるが、不許可となればその時点で確定的に無効となる。許可前には所有権移転登記請求、代金請求、契約解除、損害賠償請求は制限される。ただし当事者には許可申請に協力する義務があり、協力拒否時に一定額を賠償する別途の約定は有効になり得るとhankyung.comは伝えた。"
+      },
+      "zh": {
+        "title": "土地交易许可区买卖效力：决定因素不是合同而是“许可”",
+        "excerpt": "韩国经济新闻2026年5月7日报道，土地交易许可区内买卖合同在获批前处于流动无效状态，许可结果决定其效力。",
+        "body": "在土地交易许可区内买卖房地产时，合同效力并不主要取决于是否签约，而取决于行政机关是否批准。韩国经济新闻2026年5月7日刊发国民银行律师郭钟奎的法律解读称，以取得许可为前提签订的合同，在获批前处于“流动无效”状态。目前首尔全境和首都圈部分地区被指定为土地交易许可区，该制度用于管控投机性交易和地价快速上涨风险。若取得许可，合同将追溯为有效；若不获许可，合同在该时点确定无效。获批前，买方请求所有权转移登记、卖方请求价款、解除合同及损害赔偿等权利均受限制。不过，当事人负有协助申请许可的义务；若一方拒绝协助，事先约定支付一定赔偿金额的条款可能有效。韩国经济新闻(hankyung.com)称，应细致检查尾款日、申请材料和违约条款。"
+      },
+      "es": {
+        "title": "Zonas con permiso de compraventa de suelo: la autorización decide la validez",
+        "excerpt": "Hankyung informó el 7 de mayo de 2026 que los contratos en zonas sujetas a permiso son inválidos de forma provisional hasta recibir autorización.",
+        "body": "En las zonas de permiso para transacciones de suelo, la eficacia jurídica de una compraventa inmobiliaria depende más de la autorización administrativa que de la firma del contrato. Hankyung informó el 7 de mayo de 2026, en una columna legal del abogado Kwak Jong-gyu de KB Kookmin Bank, que un contrato celebrado bajo la premisa de obtener permiso permanece en estado de “invalidez provisional” hasta la aprobación. Actualmente todo Seúl y algunas áreas de la región metropolitana están designadas como zonas de permiso, un sistema destinado a controlar operaciones especulativas y riesgos de fuertes alzas del precio del suelo. Si se concede el permiso, el contrato se vuelve válido con efecto retroactivo; si se deniega, queda definitivamente inválido desde ese momento. Antes de la autorización se restringen las reclamaciones de registro de transferencia, pago, rescisión o daños. Aun así, las partes deben cooperar en la solicitud, y una cláusula separada de compensación por negarse a cooperar puede ser válida, según hankyung.com."
+      },
+      "pt": {
+        "title": "Zonas de licença para transações de terrenos: autorização define validade",
+        "excerpt": "O Hankyung informou em 7 de maio de 2026 que contratos nessas zonas ficam provisoriamente inválidos antes da autorização, que decide sua eficácia.",
+        "body": "Nas zonas de licença para transações de terrenos, a eficácia de uma compra e venda imobiliária depende menos da assinatura do contrato e mais da autorização da autoridade administrativa. O Hankyung informou em 7 de maio de 2026, em coluna jurídica do advogado Kwak Jong-gyu, do KB Kookmin Bank, que contratos firmados sob a premissa de obter licença permanecem em estado de “invalidade provisória” até a aprovação. Atualmente toda Seul e partes da região metropolitana estão designadas como tais zonas, sistema criado para controlar negócios especulativos e risco de alta acentuada dos preços dos terrenos. Se a licença for concedida, o contrato se torna válido retroativamente; se for negada, torna-se definitivamente inválido naquele momento. Antes da autorização, pedidos de registro de transferência, pagamento, rescisão ou indenização com base no contrato são limitados. Ainda assim, as partes devem cooperar no pedido, e uma cláusula separada de compensação por recusa pode ser válida, segundo hankyung.com."
+      },
+      "de": {
+        "title": "Grundstücksgeschäfte in Genehmigungszonen: Erlaubnis entscheidet Gültigkeit",
+        "excerpt": "Hankyung berichtete am 7. Mai 2026, dass Kaufverträge in solchen Zonen vor der Genehmigung schwebend unwirksam sind und die Erlaubnis entscheidend ist.",
+        "body": "In Grundstückstransaktions-Genehmigungszonen hängt die Wirksamkeit eines Immobilienkaufs weniger vom Vertragsabschluss als von der behördlichen Genehmigung ab. Hankyung berichtete am 7. Mai 2026 in einer Rechtskolumne von Kwak Jong-gyu, Anwalt bei KB Kookmin Bank, dass ein Vertrag, der unter der Voraussetzung einer Genehmigung geschlossen wird, bis zur Erteilung in einem Zustand „schwebender Unwirksamkeit“ bleibt. Derzeit sind ganz Seoul und Teile der Metropolregion als solche Zonen ausgewiesen; das System soll spekulative Geschäfte und starke Bodenpreisanstiege kontrollieren. Wird die Genehmigung erteilt, gilt der Vertrag rückwirkend als wirksam; wird sie verweigert, ist er ab diesem Zeitpunkt endgültig unwirksam. Vor der Genehmigung sind Ansprüche auf Eigentumsübertragung, Kaufpreiszahlung, Rücktritt oder Schadenersatz aus dem Vertrag beschränkt. Die Parteien müssen jedoch beim Antrag kooperieren, und eine gesonderte Entschädigungsklausel bei verweigerter Mitwirkung kann wirksam sein, so hankyung.com."
+      },
+      "fr": {
+        "title": "Zones soumises à permis foncier : l’autorisation prime sur le contrat",
+        "excerpt": "Hankyung a rapporté le 7 mai 2026 que les ventes dans ces zones restent provisoirement invalides avant autorisation, qui détermine leur effet.",
+        "body": "Dans les zones soumises à permis de transaction foncière, l’effet juridique d’une vente immobilière dépend moins de la signature du contrat que de l’autorisation administrative. Hankyung a rapporté le 7 mai 2026, dans une chronique juridique de l’avocat Kwak Jong-gyu de KB Kookmin Bank, qu’un contrat conclu sous réserve d’autorisation reste en état d’« invalidité provisoire » jusqu’à l’approbation. L’ensemble de Séoul et certaines parties de la région métropolitaine sont actuellement désignés comme telles zones, un dispositif destiné à contrôler les transactions spéculatives et les risques de forte hausse des prix fonciers. Si l’autorisation est accordée, le contrat devient valable rétroactivement; si elle est refusée, il devient définitivement nul à ce moment. Avant l’autorisation, les demandes de transfert de propriété, de paiement, de résiliation ou de dommages-intérêts fondées sur le contrat sont limitées. Les parties doivent toutefois coopérer à la demande, et une clause séparée d’indemnisation en cas de refus peut être valable, selon hankyung.com."
+      },
+      "ar": {
+        "title": "مناطق تصاريح تداول الأراضي: الترخيص لا العقد يحسم نفاذ البيع",
+        "excerpt": "ذكرت هانكيونغ في 7 مايو 2026 أن عقود البيع داخل مناطق تصاريح تداول الأراضي تبقى باطلة بصورة مؤقتة قبل الترخيص، وأن القرار يحسم أثرها.",
+        "body": "في مناطق تصاريح تداول الأراضي، لا يتوقف الأثر القانوني لبيع العقار على توقيع العقد بقدر ما يتوقف على حصوله على موافقة الجهة الإدارية. وذكرت هانكيونغ في 7 مايو 2026، في مقال قانوني للمحامي كواك جونغ-غيو من بنك كيه بي كوكمين، أن العقد المبرم على أساس الحصول على الترخيص يبقى في حالة «بطلان متحرك» إلى حين صدور الموافقة. وتشمل المناطق المحددة حاليا كامل سيول وأجزاء من منطقة العاصمة، ويهدف النظام إلى ضبط الصفقات المضاربية ومخاطر الارتفاع الحاد في أسعار الأراضي. إذا صدر الترخيص يصبح العقد صحيحا بأثر رجعي، أما إذا رُفض فيصبح باطلا نهائيا من تلك اللحظة. وقبل الترخيص، تُقيد مطالبات نقل الملكية أو دفع الثمن أو فسخ العقد أو التعويض. لكن على الطرفين التعاون في طلب الترخيص، وقد يكون شرط تعويض مستقل عند رفض التعاون صحيحا، بحسب hankyung.com."
+      },
+      "hi": {
+        "title": "भूमि लेनदेन परमिट क्षेत्र में बिक्री की वैधता, अनुबंध नहीं अनुमति तय करती है",
+        "excerpt": "हैंक्युंग ने 7 मई 2026 को बताया कि भूमि लेनदेन परमिट क्षेत्रों में बिक्री अनुबंध अनुमति से पहले अस्थायी रूप से अमान्य रहता है।",
+        "body": "भूमि लेनदेन परमिट क्षेत्रों में अचल संपत्ति की खरीद-बिक्री का कानूनी प्रभाव केवल अनुबंध पर हस्ताक्षर करने से नहीं, बल्कि प्रशासनिक अनुमति मिलने से तय होता है। हैंक्युंग ने 7 मई 2026 को KB Kookmin Bank के वकील क्वाक जोंग-ग्यू के कानूनी लेख में बताया कि अनुमति को आधार बनाकर किया गया अनुबंध मंजूरी से पहले “गतिशील अमान्यता” की स्थिति में रहता है। फिलहाल पूरा सियोल और महानगरीय क्षेत्र के कुछ हिस्से ऐसे क्षेत्रों के रूप में 지정 हैं, और यह व्यवस्था सट्टात्मक लेनदेन तथा जमीन की कीमतों में तेज वृद्धि के जोखिम को नियंत्रित करने के लिए है। अनुमति मिलने पर अनुबंध पिछली तारीख से वैध हो जाता है; अनुमति न मिलने पर उसी समय वह अंतिम रूप से अमान्य हो जाता है। अनुमति से पहले स्वामित्व हस्तांतरण पंजीकरण, भुगतान, अनुबंध समाप्ति या क्षतिपूर्ति के दावे सीमित रहते हैं। फिर भी पक्षों पर अनुमति आवेदन में सहयोग का दायित्व है, और सहयोग से इनकार पर तय मुआवजे की अलग शर्त वैध हो सकती है, hankyung.com ने बताया।"
+      },
+      "id": {
+        "title": "Zona Izin Transaksi Tanah: Validitas Jual Beli Ditentukan Persetujuan",
+        "excerpt": "Hankyung melaporkan pada 7 Mei 2026 bahwa kontrak jual beli di zona izin transaksi tanah tetap tidak sah sementara sebelum persetujuan keluar.",
+        "body": "Di zona izin transaksi tanah, keabsahan hukum jual beli properti lebih ditentukan oleh persetujuan otoritas administratif daripada sekadar penandatanganan kontrak. Hankyung melaporkan pada 7 Mei 2026, dalam ulasan hukum pengacara Kwak Jong-gyu dari KB Kookmin Bank, bahwa kontrak yang dibuat dengan prasyarat memperoleh izin berada dalam status “tidak sah sementara” sampai izin diberikan. Saat ini seluruh Seoul dan sebagian wilayah metropolitan ditetapkan sebagai zona tersebut, sebuah sistem untuk mengendalikan transaksi spekulatif dan risiko lonjakan harga tanah. Jika izin diberikan, kontrak berlaku surut menjadi sah; jika ditolak, kontrak menjadi tidak sah secara final pada saat itu. Sebelum izin, tuntutan pendaftaran pengalihan kepemilikan, pembayaran, pembatalan kontrak, atau ganti rugi berdasarkan kontrak dibatasi. Namun para pihak wajib bekerja sama dalam pengajuan izin, dan klausul terpisah tentang kompensasi jika menolak bekerja sama dapat berlaku, menurut hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "5c109d22c059",
+    "slug": "자녀에게-시간의-마법-가르치는-5월투자-경험을-선물하자-705779",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-07T20:42:06.312Z",
+    "updatedAt": "2026-05-07T20:42:06.312Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050707761",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050707761",
+    "titleFingerprint": "beecf758c0c0c52ce2501c674a8e9c3847c89388",
+    "dedupKeys": [
+      "5c109d22c059c151db29bf0538ce33544a3ce698",
+      "beecf758c0c0c52ce2501c674a8e9c3847c89388",
+      "ef5e5b6957a6bc4fbb8f9b18204f765405169574"
+    ],
+    "imageUrl": "/images/articles/5c109d22c059.jpg",
+    "i18n": {
+      "ko": {
+        "title": "자녀 투자 경험이 5월 선물로 주목…복리와 주니어 ISA가 만든 시간의 가치",
+        "excerpt": "5월 가정의 달을 맞아 자녀에게 소비보다 투자 경험을 선물하자는 제안이 나왔다. 복리의 시간 효과와 주니어 ISA 도입 논의가 자산 형성 교육의 핵심으로 거론된다.",
+        "body": "5월 가정의 달을 맞아 자녀에게 단순한 선물보다 투자 경험을 통해 ‘시간의 가치’를 가르치자는 제안이 나왔다. 한국경제에 따르면 복리는 시간이 길수록 효과가 커지며, 어린 자녀는 긴 투자 기간이라는 가장 큰 자산을 갖고 있다. 최근 미성년자도 가입할 수 있는 ‘주니어 ISA’ 도입 법안이 발의된 배경도 이와 맞닿아 있다. 현재 성인 중심인 ISA를 미성년에게 확대하고 증여세와 배당소득세 부담을 덜어 자산 형성을 돕자는 취지다. 영국은 2011년 주니어 ISA를 도입했으며, 자녀 명의 계좌 경험이 성인 이후 저축 습관에 영향을 준다는 미시간대 연구도 소개됐다. 가정에서는 부모가 자녀 저축액에 같은 금액을 더해주는 매칭 방식도 첫걸음이 될 수 있다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Child investing experience gains attention in May as compound growth and junior ISA show time’s value",
+        "excerpt": "In May, families are being urged to give children investment experience rather than simple gifts, as compound growth and junior ISA discussions highlight long-term asset-building education.",
+        "body": "In May, a family-focused month in Korea, a proposal has emerged to teach children the value of time through investment experience instead of ordinary gifts. According to Hankyung, compound growth becomes more powerful as time lengthens, and children hold the major advantage of a long investment horizon. This context also explains a proposed bill to introduce junior ISA accounts for minors. The plan would expand the currently adult-focused ISA system to minors and ease gift-tax and dividend-income-tax burdens to support asset formation. The UK introduced junior ISAs in 2011, and the article also cited University of Michigan research showing that accounts in a child’s own name can affect saving habits in adulthood. At home, parents could begin with a matching approach, adding the same amount when a child saves. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "子どもの投資体験が5月の贈り物に浮上、複利とジュニアISAが示す時間価値",
+        "excerpt": "5月の家庭の月を機に、子どもへ消費型の贈り物より投資体験を与える提案が出ている。複利の時間効果とジュニアISA導入論が資産形成教育の焦点だ。",
+        "body": "5月の家庭の月を迎え、子どもに一般的な贈り物ではなく投資体験を通じて「時間の価値」を教えようという提案が出ている。韓国経済新聞によると、複利は時間が長いほど効果が大きくなり、子どもには長い投資期間という大きな資産がある。未成年者も加入できる「ジュニアISA」導入法案が発議された背景もここにある。現在は成人中心のISAを未成年にも広げ、贈与税と配当所得税の負担を軽くして資産形成を助ける趣旨だ。英国は2011年にジュニアISAを導入した。子ども名義の口座経験が成人後の貯蓄習慣に影響するというミシガン大学の研究も紹介された。家庭では、子どもの貯蓄額に親が同額を加えるマッチング方式も第一歩になり得る。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "儿童投资体验成5月礼物新选择，复利与Junior ISA凸显时间价值",
+        "excerpt": "值5月家庭月，有观点建议与其送孩子消费型礼物，不如赠予投资体验。复利的时间效应和Junior ISA引入讨论成为资产形成教育重点。",
+        "body": "值5月家庭月，有观点提出，应通过投资体验而非普通礼物，教孩子理解“时间的价值”。据《韩国经济新闻》报道，复利的效果会随时间拉长而扩大，而儿童拥有较长投资周期这一重要资产。近期提出的允许未成年人加入“Junior ISA”的法案，也与这一背景相关。该方案旨在把目前以成年人为中心的ISA扩大至未成年人，并减轻赠与税和股息所得税负担，帮助资产形成。英国已于2011年引入Junior ISA。报道还介绍了密歇根大学研究，称以孩子本人名义开设账户的经历会影响其成年后的储蓄习惯。在家庭中，父母可从配比储蓄做起，即孩子存入一定金额时，父母再追加相同金额。来源: hankyung.com."
+      },
+      "es": {
+        "title": "La experiencia inversora infantil destaca en mayo por el valor del tiempo y las junior ISA",
+        "excerpt": "En mayo, se plantea regalar a los hijos experiencia de inversión en vez de consumo. El efecto temporal del interés compuesto y el debate sobre las junior ISA centran la educación patrimonial.",
+        "body": "En mayo, mes dedicado a la familia en Corea, surgió la propuesta de enseñar a los hijos el valor del tiempo mediante experiencia inversora en lugar de regalos convencionales. Según Hankyung, el interés compuesto gana fuerza cuanto más largo es el plazo, y los niños cuentan con el activo clave de un horizonte de inversión extenso. En ese contexto se presentó un proyecto para introducir cuentas junior ISA para menores. La idea es ampliar a menores el sistema ISA, actualmente centrado en adultos, y aliviar cargas por impuesto de donaciones e impuesto sobre dividendos para apoyar la formación de patrimonio. Reino Unido introdujo las junior ISA en 2011. También se citó un estudio de la Universidad de Michigan que indica que tener una cuenta a nombre del niño influye en sus hábitos de ahorro como adulto. En casa, una vía inicial puede ser que los padres igualen lo que el hijo ahorra. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Experiência de investimento infantil ganha força em maio com juros compostos e junior ISA",
+        "excerpt": "Em maio, cresce a proposta de presentear filhos com experiência de investimento, não consumo. O efeito do tempo nos juros compostos e o debate sobre junior ISA guiam a educação patrimonial.",
+        "body": "Em maio, mês da família na Coreia, surgiu a proposta de ensinar aos filhos o valor do tempo por meio de experiência de investimento, em vez de presentes comuns. Segundo o Hankyung, os juros compostos se tornam mais fortes quanto maior é o prazo, e as crianças têm o grande ativo de um horizonte longo de investimento. Esse contexto também explica o projeto de lei para introduzir contas junior ISA para menores. A ideia é ampliar aos menores o sistema ISA, hoje voltado a adultos, e reduzir encargos de imposto sobre doações e dividendos para apoiar a formação de patrimônio. O Reino Unido introduziu a junior ISA em 2011. O texto também citou pesquisa da Universidade de Michigan mostrando que uma conta no nome da criança pode influenciar hábitos de poupança na vida adulta. Em casa, os pais podem começar por um modelo de contrapartida, acrescentando o mesmo valor que a criança poupar. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Kinder-Investment als Maigeschenk: Zinseszins und Junior-ISA zeigen den Wert der Zeit",
+        "excerpt": "Im Mai wird vorgeschlagen, Kindern statt Konsumgeschenken Investmenterfahrung zu geben. Der Zeiteffekt des Zinseszinses und die Junior-ISA-Debatte rücken Vermögensbildung in den Fokus.",
+        "body": "Im Mai, dem Familienmonat in Korea, wurde vorgeschlagen, Kindern durch Investmenterfahrung statt durch übliche Geschenke den Wert der Zeit zu vermitteln. Laut Hankyung wird der Zinseszinseffekt umso stärker, je länger der Zeitraum ist, und Kinder besitzen mit einem langen Anlagehorizont einen zentralen Vorteil. In diesem Zusammenhang steht auch ein Gesetzentwurf zur Einführung von Junior-ISA-Konten für Minderjährige. Ziel ist es, das derzeit auf Erwachsene ausgerichtete ISA-System für Minderjährige zu öffnen und Belastungen durch Schenkungsteuer sowie Steuern auf Dividendeneinkünfte zu verringern, um Vermögensbildung zu fördern. Großbritannien führte Junior-ISA 2011 ein. Zudem wurde eine Studie der University of Michigan erwähnt, wonach ein Konto auf den Namen des Kindes spätere Spargewohnheiten beeinflussen kann. Zu Hause können Eltern etwa mit einem Matching-Modell beginnen und den gesparten Betrag des Kindes in gleicher Höhe ergänzen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "L’expérience d’investissement des enfants s’impose en mai avec l’effet composé et le junior ISA",
+        "excerpt": "En mai, il est proposé d’offrir aux enfants une expérience d’investissement plutôt qu’un cadeau de consommation. L’effet du temps sur les intérêts composés et le junior ISA structurent l’éducation financière.",
+        "body": "En mai, mois de la famille en Corée, une proposition met en avant l’idée d’enseigner aux enfants la valeur du temps par l’expérience de l’investissement plutôt que par des cadeaux ordinaires. Selon Hankyung, l’effet des intérêts composés augmente avec la durée, et les enfants disposent d’un atout majeur: un horizon d’investissement long. C’est aussi dans ce contexte qu’un projet de loi visant à introduire des comptes junior ISA pour les mineurs a été présenté. Il s’agit d’ouvrir aux mineurs le système ISA aujourd’hui centré sur les adultes, tout en allégeant la charge liée aux droits de donation et à l’impôt sur les dividendes afin de soutenir la constitution d’un patrimoine. Le Royaume-Uni a lancé le junior ISA en 2011. L’article cite aussi une étude de l’Université du Michigan indiquant qu’un compte au nom de l’enfant peut influencer ses habitudes d’épargne à l’âge adulte. À la maison, les parents peuvent commencer par un système d’abondement équivalent à l’épargne de l’enfant. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "تجربة الاستثمار للأطفال تبرز كهدية في مايو مع قوة الفائدة المركبة وحساب Junior ISA",
+        "excerpt": "في مايو، طُرحت فكرة منح الأطفال تجربة استثمارية بدلا من هدايا استهلاكية. ويبرز أثر الزمن في الفائدة المركبة ونقاش حسابات Junior ISA كمدخل لتعليم بناء الأصول.",
+        "body": "مع حلول مايو، شهر الأسرة في كوريا، برزت دعوة لتعليم الأطفال قيمة الوقت عبر تجربة استثمارية بدلا من الهدايا المعتادة. ووفقا لهانكيونغ، تزداد قوة الفائدة المركبة كلما طال الزمن، ويمتلك الأطفال ميزة مهمة هي أفق الاستثمار الطويل. وفي هذا السياق طُرح مشروع قانون لإدخال حسابات Junior ISA للقصر. ويهدف المقترح إلى توسيع نظام ISA، المخصص حاليا للبالغين، ليشمل القصر، مع تخفيف أعباء ضريبة الهبات وضريبة دخل الأرباح لمساعدة تكوين الأصول. وقد أدخلت بريطانيا حساب Junior ISA في عام 2011. كما أشار المقال إلى دراسة من جامعة ميشيغان تفيد بأن امتلاك حساب باسم الطفل قد يؤثر في عادات الادخار عند البلوغ. وفي المنزل، يمكن للوالدين البدء بطريقة المطابقة، بإضافة مبلغ مساو لما يدخره الطفل. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "बच्चों का निवेश अनुभव मई का उपहार बना, चक्रवृद्धि और जूनियर ISA ने समय का मूल्य दिखाया",
+        "excerpt": "मई में बच्चों को उपभोग वाली भेंट के बजाय निवेश अनुभव देने का सुझाव सामने आया। चक्रवृद्धि के समय प्रभाव और जूनियर ISA पर चर्चा को संपत्ति निर्माण शिक्षा से जोड़ा गया है।",
+        "body": "कोरिया में परिवार माह माने जाने वाले मई में यह सुझाव सामने आया कि बच्चों को सामान्य उपहारों के बजाय निवेश अनुभव के जरिए ‘समय का मूल्य’ सिखाया जाए। हानक्युंग के अनुसार, चक्रवृद्धि का प्रभाव अवधि लंबी होने पर बढ़ता है, और बच्चों के पास लंबा निवेश क्षितिज जैसा बड़ा लाभ होता है। इसी संदर्भ में नाबालिगों के लिए ‘जूनियर ISA’ खाते शुरू करने का विधेयक भी प्रस्तावित हुआ है। इसका उद्देश्य वर्तमान में वयस्कों पर केंद्रित ISA व्यवस्था को नाबालिगों तक बढ़ाना और उपहार कर व लाभांश आयकर का बोझ घटाकर संपत्ति निर्माण में मदद करना है। ब्रिटेन ने 2011 में जूनियर ISA शुरू किया था। लेख में मिशिगन विश्वविद्यालय के शोध का भी उल्लेख है, जिसके अनुसार बच्चे के नाम पर खाता होने का अनुभव वयस्क होने पर बचत की आदतों को प्रभावित कर सकता है। घर में माता-पिता बच्चे की बचत के बराबर राशि जोड़ने वाली मैचिंग पद्धति से शुरुआत कर सकते हैं। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Pengalaman investasi anak jadi hadiah Mei, bunga majemuk dan junior ISA soroti nilai waktu",
+        "excerpt": "Pada Mei, muncul usulan memberi anak pengalaman investasi alih-alih hadiah konsumtif. Efek waktu pada bunga majemuk dan pembahasan junior ISA menjadi inti pendidikan pembentukan aset.",
+        "body": "Pada Mei, bulan keluarga di Korea, muncul usulan untuk mengajarkan nilai waktu kepada anak melalui pengalaman investasi, bukan hadiah biasa. Menurut Hankyung, efek bunga majemuk makin besar ketika jangka waktunya panjang, dan anak memiliki aset penting berupa horizon investasi yang panjang. Konteks ini juga melatarbelakangi rancangan undang-undang untuk memperkenalkan rekening junior ISA bagi anak di bawah umur. Tujuannya adalah memperluas sistem ISA yang saat ini berfokus pada orang dewasa kepada anak di bawah umur, sekaligus meringankan beban pajak hadiah dan pajak penghasilan dividen guna membantu pembentukan aset. Inggris memperkenalkan junior ISA pada 2011. Artikel itu juga mengutip studi University of Michigan yang menunjukkan bahwa pengalaman memiliki rekening atas nama anak dapat memengaruhi kebiasaan menabung saat dewasa. Di rumah, orang tua dapat memulai dengan metode matching, yakni menambahkan jumlah yang sama dengan tabungan anak. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "8e147ea3b9f5",
     "slug": "증시-예탁금-130조-반도체에너지주여보-옆집도-더-산대-438974",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Shinsung E&G Catat Pendapatan Kuartal I 153,7 Miliar Won dan Rugi Operasi",
         "excerpt": "Shinsung E&G pada 7 Mei mengumumkan kinerja konsolidasi sementara kuartal pertama, dengan pendapatan 153,7 miliar won dan rugi operasi 2,2 miliar won.",
         "body": "Shinsung E&G pada 7 Mei mengumumkan kinerja konsolidasi sementara untuk kuartal pertama tahun ini melalui sistem keterbukaan elektronik. Berdasarkan pengumuman tersebut, pendapatan kuartal pertama tercatat 153,7 miliar won, sementara rugi operasi mencapai 2,2 miliar won. Angka ini merupakan hasil sementara yang dihitung secara konsolidasi, sehingga investor dan pasar dapat melihat skala penjualan sekaligus arah kerugian perusahaan. Pengumuman kinerja final dan rincian menurut segmen usaha diperkirakan menjadi dasar untuk membaca kinerja lebih lanjut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c158bdf12533",
-    "slug": "lg헬로비전-2026년-1분기-실적-발표-영업수익-2554억영업이익-51억-934676",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T05:30:16.864Z",
-    "updatedAt": "2026-05-07T05:30:16.864Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039061",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039061",
-    "titleFingerprint": "5bb673a0a633b3f707490135129440c7d46ef26e",
-    "dedupKeys": [
-      "c158bdf125333616d514e084a7f496deca6d7795",
-      "5bb673a0a633b3f707490135129440c7d46ef26e",
-      "ecb9df04d9c501638a7c0c85c3c232479443ceda"
-    ],
-    "imageUrl": "/images/articles/c158bdf12533.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LG헬로비전 2026년 1분기 실적 발표, 매출 2,554억·영업이익 51억",
-        "excerpt": "LG헬로비전은 7일 잠정 영업실적 공시를 통해 2026년 1분기 영업수익 2,554억 원, 영업이익 51억 원, 순이익 30억 원을 기록했다고 밝혔다.",
-        "body": "LG헬로비전은 7일 잠정 영업실적 공시를 통해 2026년 1분기 영업수익(매출) 2,554억 원, 영업이익 51억 원, 순이익 30억 원을 기록했다고 밝혔다. 이번 발표는 회사의 분기 경영 성과를 확인할 수 있는 핵심 지표로, 매출과 수익성 흐름을 함께 보여준다. 공개된 수치에 따르면 1분기 영업수익은 전년 동기 대비 흐름을 비교할 수 있는 기준이 되며, 영업이익과 순이익은 비용 반영 이후의 실적 수준을 나타낸다. 향후 시장은 LG헬로비전의 사업별 매출 추이와 이익 개선 여부를 중심으로 후속 실적을 확인할 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LG HelloVision reports Q1 2026 results with revenue at 255.4 billion won",
-        "excerpt": "LG HelloVision said on May 7 that preliminary Q1 2026 results showed operating revenue of 255.4 billion won, operating profit of 5.1 billion won and net profit of 3.0 billion won.",
-        "body": "LG HelloVision announced on May 7, through a preliminary earnings disclosure, that it recorded operating revenue, or sales, of 255.4 billion won in the first quarter of 2026. The company also posted operating profit of 5.1 billion won and net profit of 3.0 billion won. The figures provide key indicators of the company’s quarterly management performance, showing both revenue scale and profitability. The disclosed operating revenue offers a basis for comparison with the same period a year earlier, while operating profit and net profit show results after costs were reflected. Market attention is expected to remain on LG HelloVision’s revenue trend by business area and whether earnings improve in later periods. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LGハロービジョン、2026年1Q業績発表 売上高2554億ウォン",
-        "excerpt": "LGハロービジョンは7日、暫定営業実績の公示を通じ、2026年第1四半期に営業収益2554億ウォン、営業利益51億ウォン、純利益30億ウォンを記録したと発表した。",
-        "body": "LGハロービジョンは7日、暫定営業実績の公示を通じて、2026年第1四半期の営業収益（売上高）が2554億ウォン、営業利益が51億ウォン、純利益が30億ウォンだったと明らかにした。今回の発表は、同社の四半期ごとの経営成果を確認できる主要指標であり、売上規模と収益性の流れをあわせて示すものだ。公表された数値によれば、第1四半期の営業収益は前年同期との比較基準となり、営業利益と純利益は費用反映後の実績水準を表している。今後、市場はLGハロービジョンの事業別売上推移と利益改善の有無を中心に、次の実績を確認するとみられる。出所: mk.co.kr"
-      },
-      "zh": {
-        "title": "LG HelloVision发布2026年一季度业绩，营收2554亿韩元",
-        "excerpt": "LG HelloVision于7日通过临时经营业绩公告表示，2026年第一季度实现营业收入2554亿韩元、营业利润51亿韩元、净利润30亿韩元。",
-        "body": "LG HelloVision于7日通过临时经营业绩公告表示，2026年第一季度营业收入（销售额）为2554亿韩元，营业利润为51亿韩元，净利润为30亿韩元。此次发布的业绩是观察公司季度经营表现的核心指标，同时反映了收入规模和盈利水平。根据公开数据，第一季度营业收入可作为与去年同期进行比较的依据，营业利润和净利润则显示了计入成本后的业绩水平。后续市场预计将关注LG HelloVision各业务板块的收入走势，以及盈利是否改善。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "LG HelloVision anuncia resultados del 1T 2026: ingresos de 255.400 millones",
-        "excerpt": "LG HelloVision informó el 7 de mayo, mediante resultados preliminares, que en el primer trimestre de 2026 registró ingresos operativos de 255.400 millones de wones, beneficio operativo de 5.100 millones y beneficio neto de 3.000 millones.",
-        "body": "LG HelloVision anunció el 7 de mayo, mediante una comunicación preliminar de resultados operativos, que en el primer trimestre de 2026 registró ingresos operativos, o ventas, de 255.400 millones de wones. La compañía también obtuvo un beneficio operativo de 5.100 millones de wones y un beneficio neto de 3.000 millones. Estas cifras son indicadores clave del desempeño trimestral de la empresa, ya que muestran tanto el tamaño de los ingresos como la rentabilidad. Los ingresos operativos publicados sirven como base para compararlos con el mismo periodo del año anterior, mientras que el beneficio operativo y el neto reflejan el nivel de resultados tras considerar los costes. El mercado seguirá observando la evolución de los ingresos por negocio y la mejora de beneficios de LG HelloVision. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "LG HelloVision divulga resultado do 1T26 com receita de 255,4 bi de wones",
-        "excerpt": "A LG HelloVision informou em 7 de maio, em divulgação preliminar, que registrou no primeiro trimestre de 2026 receita operacional de 255,4 bilhões de wones, lucro operacional de 5,1 bilhões e lucro líquido de 3,0 bilhões.",
-        "body": "A LG HelloVision informou em 7 de maio, por meio de divulgação preliminar de desempenho operacional, que registrou no primeiro trimestre de 2026 receita operacional, ou vendas, de 255,4 bilhões de wones. A empresa também apurou lucro operacional de 5,1 bilhões de wones e lucro líquido de 3,0 bilhões. Os números funcionam como indicadores centrais do desempenho trimestral da companhia, mostrando tanto a escala da receita quanto a rentabilidade. A receita operacional divulgada serve de base para comparação com o mesmo período do ano anterior, enquanto o lucro operacional e o lucro líquido indicam o nível de resultado após a contabilização dos custos. O mercado deve acompanhar a evolução da receita por área de negócio e a melhora dos lucros da LG HelloVision. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LG HelloVision meldet Q1 2026: Umsatz 255,4 Mrd. Won, Gewinn 5,1 Mrd.",
-        "excerpt": "LG HelloVision teilte am 7. Mai in einer vorläufigen Ergebnisveröffentlichung mit, dass im ersten Quartal 2026 operative Erlöse von 255,4 Mrd. Won, ein operativer Gewinn von 5,1 Mrd. Won und ein Nettogewinn von 3,0 Mrd. Won erzielt wurden.",
-        "body": "LG HelloVision gab am 7. Mai über eine vorläufige Veröffentlichung der operativen Ergebnisse bekannt, dass das Unternehmen im ersten Quartal 2026 operative Erlöse, also Umsatz, von 255,4 Milliarden Won erzielt hat. Der operative Gewinn lag bei 5,1 Milliarden Won, der Nettogewinn bei 3,0 Milliarden Won. Die Angaben sind zentrale Kennzahlen zur vierteljährlichen Geschäftsentwicklung und zeigen sowohl Umsatzgröße als auch Rentabilität. Die veröffentlichten operativen Erlöse bieten eine Grundlage für den Vergleich mit dem Vorjahreszeitraum, während operativer Gewinn und Nettogewinn das Ergebnisniveau nach Berücksichtigung der Kosten darstellen. Der Markt dürfte künftig vor allem die Umsatzentwicklung nach Geschäftsbereichen und mögliche Gewinnverbesserungen bei LG HelloVision verfolgen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "LG HelloVision publie son T1 2026: revenus de 255,4 milliards de wons",
-        "excerpt": "LG HelloVision a annoncé le 7 mai, dans une publication préliminaire, un chiffre d’affaires opérationnel de 255,4 milliards de wons au premier trimestre 2026, avec un résultat opérationnel de 5,1 milliards et un bénéfice net de 3,0 milliards.",
-        "body": "LG HelloVision a annoncé le 7 mai, dans une publication préliminaire de ses performances opérationnelles, avoir enregistré au premier trimestre 2026 des revenus opérationnels, ou chiffre d’affaires, de 255,4 milliards de wons. Le résultat opérationnel s’est établi à 5,1 milliards de wons et le bénéfice net à 3,0 milliards. Ces chiffres constituent des indicateurs clés de la performance trimestrielle de l’entreprise, en montrant à la fois l’ampleur des revenus et la rentabilité. Les revenus opérationnels publiés servent de base de comparaison avec la même période de l’année précédente, tandis que le résultat opérationnel et le bénéfice net reflètent le niveau de performance après prise en compte des coûts. Le marché devrait suivre l’évolution des revenus par activité et l’amélioration éventuelle des bénéfices de LG HelloVision. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إل جي هيلو فيجن تعلن نتائج الربع الأول 2026 بإيرادات 255.4 مليار وون",
-        "excerpt": "قالت إل جي هيلو فيجن في 7 مايو، عبر إفصاح أولي عن الأداء التشغيلي، إنها سجلت في الربع الأول من 2026 إيرادات تشغيلية قدرها 255.4 مليار وون، وربحا تشغيليا 5.1 مليار وون، وصافي ربح 3.0 مليارات وون.",
-        "body": "أعلنت إل جي هيلو فيجن في 7 مايو، عبر إفصاح أولي عن نتائجها التشغيلية، أنها سجلت في الربع الأول من 2026 إيرادات تشغيلية، أي مبيعات، بلغت 255.4 مليار وون. كما سجلت الشركة ربحا تشغيليا قدره 5.1 مليار وون وصافي ربح بلغ 3.0 مليارات وون. وتعد هذه الأرقام مؤشرات رئيسية على الأداء الفصلي للشركة، إذ تعرض حجم الإيرادات ومستوى الربحية معا. وتوفر الإيرادات التشغيلية المعلنة أساسا للمقارنة مع الفترة نفسها من العام السابق، بينما يوضح الربح التشغيلي وصافي الربح مستوى الأداء بعد احتساب التكاليف. ومن المتوقع أن يركز السوق لاحقا على اتجاه إيرادات إل جي هيلو فيجن حسب مجالات الأعمال ومدى تحسن الأرباح. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "LG HelloVision ने Q1 2026 नतीजे जारी किए, राजस्व 255.4 अरब वॉन",
-        "excerpt": "LG HelloVision ने 7 मई को प्रारंभिक परिचालन नतीजों में बताया कि 2026 की पहली तिमाही में उसका परिचालन राजस्व 255.4 अरब वॉन, परिचालन लाभ 5.1 अरब वॉन और शुद्ध लाभ 3.0 अरब वॉन रहा।",
-        "body": "LG HelloVision ने 7 मई को प्रारंभिक परिचालन प्रदर्शन की सूचना के माध्यम से बताया कि 2026 की पहली तिमाही में उसका परिचालन राजस्व, यानी बिक्री, 255.4 अरब वॉन रहा। कंपनी ने 5.1 अरब वॉन का परिचालन लाभ और 3.0 अरब वॉन का शुद्ध लाभ भी दर्ज किया। ये आंकड़े कंपनी के तिमाही प्रबंधन प्रदर्शन को समझने के प्रमुख संकेतक हैं और राजस्व के आकार के साथ लाभप्रदता की स्थिति भी दिखाते हैं। घोषित परिचालन राजस्व पिछले वर्ष की समान अवधि से तुलना का आधार देता है, जबकि परिचालन लाभ और शुद्ध लाभ लागतों को शामिल करने के बाद के प्रदर्शन स्तर को दिखाते हैं। आगे बाजार LG HelloVision के कारोबार-वार राजस्व रुझान और लाभ सुधार की स्थिति पर नजर रखेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "LG HelloVision umumkan kinerja Q1 2026, pendapatan 255,4 miliar won",
-        "excerpt": "LG HelloVision menyatakan pada 7 Mei melalui pengumuman kinerja sementara bahwa pada kuartal pertama 2026 perusahaan mencatat pendapatan operasional 255,4 miliar won, laba operasional 5,1 miliar won, dan laba bersih 3,0 miliar won.",
-        "body": "LG HelloVision mengumumkan pada 7 Mei, melalui keterbukaan kinerja operasional sementara, bahwa pada kuartal pertama 2026 perusahaan mencatat pendapatan operasional, atau penjualan, sebesar 255,4 miliar won. Perusahaan juga membukukan laba operasional 5,1 miliar won dan laba bersih 3,0 miliar won. Angka-angka ini menjadi indikator utama untuk melihat kinerja manajemen kuartalan perusahaan, sekaligus menunjukkan skala pendapatan dan tingkat profitabilitas. Pendapatan operasional yang dipublikasikan menjadi dasar perbandingan dengan periode yang sama tahun sebelumnya, sementara laba operasional dan laba bersih menunjukkan hasil setelah biaya diperhitungkan. Pasar selanjutnya diperkirakan mencermati tren pendapatan LG HelloVision menurut lini bisnis dan apakah laba membaik. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0ebff9f5b26e",
-    "slug": "이천-토마토-사고-10cm콘서트-볼까-이천-명물시몬스-파머스마켓-14일-개장-457165",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T05:29:12.923Z",
-    "updatedAt": "2026-05-07T05:29:12.923Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12039093",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12039093",
-    "titleFingerprint": "402214b532659362bb65baa4874d4bd6d2de2e58",
-    "dedupKeys": [
-      "0ebff9f5b26e5c5bedd7fa47aa20b37f53fa449f",
-      "402214b532659362bb65baa4874d4bd6d2de2e58",
-      "ed55ce927b445b2f14fa6c3a81438dd78284803a"
-    ],
-    "imageUrl": "/images/articles/0ebff9f5b26e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "시몬스 파머스마켓 14일 개장, 이천 농산물·10CM 공연 한자리",
-        "excerpt": "수면 전문 브랜드 시몬스가 14일부터 나흘간 경기도 이천 시몬스 테라스에서 농·특산물 직거래 장터 ‘파머스마켓’을 열고 판매, 공연, 강연을 진행한다.",
-        "body": "수면 전문 브랜드 시몬스는 오는 14일부터 나흘간 경기도 이천 시몬스 테라스에서 농·특산물 직거래 장터 ‘파머스마켓’을 연다. 이번 행사는 이천 지역 농산물과 특산물을 소비자에게 직접 소개하는 자리로, 농산물 판매와 라이브 공연, 강연 등이 함께 진행된다. 원문 제목에 언급된 10CM 콘서트도 방문객 관심을 끄는 요소로 제시됐다. 시몬스 테라스에서 열리는 이번 장터는 지역 농가와 방문객을 연결하는 행사로 소개되며, 이천 명물로 자리 잡은 파머스마켓의 개장 소식이 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Simmons Farmers Market Opens May 14 With Icheon Produce and 10CM Show",
-        "excerpt": "Sleep brand Simmons will hold its Farmers Market for four days from May 14 at Simmons Terrace in Icheon, featuring farm goods, live performances and talks.",
-        "body": "Sleep specialist brand Simmons will open its Farmers Market, a direct sales market for agricultural and local specialty products, on May 14 at Simmons Terrace in Icheon, Gyeonggi Province, for four days. The event will introduce Icheon produce and specialty goods directly to visitors, with farm product sales, live performances and lectures scheduled. The 10CM concert mentioned in the original headline is also presented as a point of visitor interest. The market is described as an event connecting local farms with visitors at Simmons Terrace, drawing attention as an Icheon attraction. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "シモンズ・ファーマーズマーケット14日開幕、利川農産物と10CM公演も",
-        "excerpt": "睡眠専門ブランドのシモンズは14日から4日間、京畿道利川のシモンズテラスで農特産物直売市「ファーマーズマーケット」を開く。",
-        "body": "睡眠専門ブランドのシモンズは、14日から4日間、京畿道利川のシモンズテラスで農特産物の直売市「ファーマーズマーケット」を開催する。今回の行事は、利川地域の農産物や特産品を来場者に直接紹介する場で、農産物販売のほかライブ公演、講演などが行われる。原文の見出しで触れられた10CMコンサートも来場者の関心を集める要素として示された。シモンズテラスで開かれる同市場は、地域農家と来場者をつなぐ行事として紹介されている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "席梦思农夫市集14日开幕，利川农产品与10CM演出同场",
-        "excerpt": "睡眠专业品牌席梦思将于14日起四天在京畿道利川席梦思露台举办农特产品直销市集，安排销售、现场演出和讲座。",
-        "body": "睡眠专业品牌席梦思将于14日起连续四天，在京畿道利川席梦思露台举办农特产品直销市集“农夫市集”。此次活动将向访客直接介绍利川地区农产品和特产品，并进行农产品销售、现场演出、讲座等内容。原文标题中提到的10CM演唱会也被列为吸引访客关注的因素。该市集在席梦思露台举行，被介绍为连接当地农户与访客的活动，作为利川特色活动的开幕消息受到关注。出处: mk.co.kr"
-      },
-      "es": {
-        "title": "Simmons Farmers Market abre el 14 con productos de Icheon y show de 10CM",
-        "excerpt": "La marca de descanso Simmons celebrará desde el 14 y durante cuatro días su Farmers Market en Simmons Terrace, Icheon, con productos agrícolas, conciertos y charlas.",
-        "body": "La marca especializada en descanso Simmons abrirá el 14, durante cuatro días, el Farmers Market en Simmons Terrace, en Icheon, provincia de Gyeonggi. El mercado de venta directa reunirá productos agrícolas y especialidades locales de Icheon para presentarlos directamente a los visitantes. El programa incluye venta de productos, actuaciones en vivo y charlas. El concierto de 10CM citado en el titular original también aparece como un elemento de interés para el público. El evento se presenta como una vía para conectar a agricultores locales y visitantes en Simmons Terrace. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Simmons Farmers Market abre dia 14 com produtos de Icheon e show do 10CM",
-        "excerpt": "A marca de sono Simmons realiza por quatro dias, a partir do dia 14, o Farmers Market no Simmons Terrace, em Icheon, com produtos agrícolas, shows e palestras.",
-        "body": "A marca especializada em sono Simmons abrirá no dia 14, por quatro dias, o Farmers Market no Simmons Terrace, em Icheon, província de Gyeonggi. A feira de venda direta de produtos agrícolas e especialidades locais apresentará ao público itens produzidos na região de Icheon. A programação inclui venda de produtos agrícolas, apresentações ao vivo e palestras. O show do 10CM mencionado no título original também é apresentado como um ponto de interesse para visitantes. O evento é descrito como uma iniciativa que conecta produtores locais e público no Simmons Terrace. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Simmons Farmers Market startet am 14. mit Icheon-Produkten und 10CM-Auftritt",
-        "excerpt": "Die Schlafmarke Simmons veranstaltet ab dem 14. vier Tage lang den Farmers Market auf der Simmons Terrace in Icheon mit Agrarprodukten, Live-Musik und Vorträgen.",
-        "body": "Die auf Schlafprodukte spezialisierte Marke Simmons eröffnet am 14. für vier Tage den Farmers Market auf der Simmons Terrace in Icheon, Provinz Gyeonggi. Der Direktmarkt für landwirtschaftliche Erzeugnisse und lokale Spezialitäten soll Produkte aus der Region Icheon unmittelbar Besuchern vorstellen. Geplant sind der Verkauf von Agrarprodukten, Live-Auftritte und Vorträge. Auch das im Originaltitel erwähnte 10CM-Konzert wird als Besuchermagnet genannt. Die Veranstaltung wird als Markt beschrieben, der lokale Betriebe und Besucher auf der Simmons Terrace zusammenbringt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Simmons Farmers Market ouvre le 14 avec produits d’Icheon et concert de 10CM",
-        "excerpt": "La marque de sommeil Simmons organise dès le 14, pendant quatre jours, son Farmers Market à Simmons Terrace, Icheon, avec produits agricoles, concerts et conférences.",
-        "body": "La marque spécialisée dans le sommeil Simmons ouvrira le 14, pour quatre jours, son Farmers Market à Simmons Terrace, à Icheon dans la province de Gyeonggi. Ce marché en vente directe de produits agricoles et de spécialités locales présentera aux visiteurs les produits de la région d’Icheon. Le programme comprend ventes de produits agricoles, concerts en direct et conférences. Le concert de 10CM mentionné dans le titre original est également présenté comme un élément d’intérêt pour les visiteurs. L’événement est décrit comme un rendez-vous reliant producteurs locaux et public à Simmons Terrace. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سوق Simmons Farmers Market يفتح في 14 مايو بمنتجات إيتشيون وحفل 10CM",
-        "excerpt": "تقيم علامة النوم Simmons سوق Farmers Market لمدة أربعة أيام بدءا من 14 مايو في Simmons Terrace بإيتشيون، مع بيع منتجات زراعية وعروض مباشرة ومحاضرات.",
-        "body": "تفتتح علامة Simmons المتخصصة في النوم سوق Farmers Market في 14 مايو ولمدة أربعة أيام في Simmons Terrace بمدينة إيتشيون في مقاطعة غيونغي. ويعد الحدث سوقا مباشرا للمنتجات الزراعية والمنتجات المحلية الخاصة، ويقدم منتجات منطقة إيتشيون للزوار مباشرة. يشمل البرنامج بيع المنتجات الزراعية وعروضا موسيقية مباشرة ومحاضرات. كما ورد حفل 10CM في العنوان الأصلي كعنصر يجذب اهتمام الزوار. ويعرض السوق بوصفه فعالية تربط المزارعين المحليين بالزوار في Simmons Terrace. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Simmons Farmers Market 14 मई से, Icheon उत्पादों और 10CM शो के साथ",
-        "excerpt": "स्लीप ब्रांड Simmons 14 मई से चार दिनों तक Icheon के Simmons Terrace में Farmers Market आयोजित करेगा, जिसमें कृषि उत्पाद, लाइव प्रदर्शन और व्याख्यान होंगे।",
-        "body": "स्लीप विशेषज्ञ ब्रांड Simmons 14 मई से चार दिनों तक ग्योंगगी प्रांत के Icheon स्थित Simmons Terrace में कृषि और स्थानीय विशेष उत्पादों का सीधा बिक्री बाजार ‘Farmers Market’ खोलेगा। यह आयोजन Icheon क्षेत्र के कृषि उत्पादों और विशेष वस्तुओं को आगंतुकों से सीधे जोड़ने के लिए है। इसमें कृषि उत्पादों की बिक्री, लाइव प्रदर्शन और व्याख्यान शामिल होंगे। मूल शीर्षक में उल्लिखित 10CM कॉन्सर्ट को भी आगंतुकों की रुचि का बिंदु बताया गया है। यह बाजार स्थानीय किसानों और आगंतुकों को जोड़ने वाले आयोजन के रूप में पेश किया गया है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Simmons Farmers Market Dibuka 14 Mei, Ada Produk Icheon dan Konser 10CM",
-        "excerpt": "Merek tidur Simmons menggelar Farmers Market selama empat hari mulai 14 Mei di Simmons Terrace, Icheon, dengan penjualan produk tani, pertunjukan langsung dan kuliah.",
-        "body": "Merek spesialis tidur Simmons akan membuka Farmers Market pada 14 Mei selama empat hari di Simmons Terrace, Icheon, Provinsi Gyeonggi. Pasar langsung untuk produk pertanian dan produk khas lokal ini akan memperkenalkan hasil pertanian serta komoditas khas Icheon langsung kepada pengunjung. Acaranya mencakup penjualan produk pertanian, pertunjukan langsung dan kuliah. Konser 10CM yang disebut dalam judul asli juga ditampilkan sebagai unsur yang menarik perhatian pengunjung. Pasar ini diperkenalkan sebagai acara yang menghubungkan petani lokal dan pengunjung di Simmons Terrace. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7a1bccf07695",
-    "slug": "미래-경쟁력-지켜내야노조에-호소하고-나선-삼성전자-대표들-985479",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T05:28:11.689Z",
-    "updatedAt": "2026-05-07T05:28:11.689Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039108",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039108",
-    "titleFingerprint": "4c05f092cf1abc305ffe5153ac34e73f6e2916a1",
-    "dedupKeys": [
-      "7a1bccf07695cb8f17d9b85ed1c979817746c947",
-      "4c05f092cf1abc305ffe5153ac34e73f6e2916a1",
-      "6ef10c50855aefc91f388179567779316375f6b2"
-    ],
-    "imageUrl": "/images/articles/7a1bccf07695.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 임금협상 장기화에 대표들이 직접 호소, 파업 우려 속 노사 갈등 진화 나서",
-        "excerpt": "삼성전자 경영진이 임금협상 장기화와 노조의 교섭 중단, 파업 가능성에 대한 우려가 커지자 사내게시판에 메시지를 올려 임직원 달래기에 나섰다.",
-        "body": "삼성전자 대표들이 임금협상 장기화와 노사 갈등 확산 우려 속에 직접 임직원에게 메시지를 전했다. 최근 노조가 교섭 중단을 선언하고 파업 가능성이 거론되자, 경영진은 사내게시판에 글을 올려 구성원들의 이해를 구한 것으로 전해졌다. 이번 호소는 파업 우려가 커지는 상황에서 회사의 미래 경쟁력을 지켜야 한다는 취지로 이뤄졌다. 임금협상이 길어지며 내부 긴장감이 높아진 가운데, 경영진의 직접 소통이 노사 갈등 완화로 이어질지 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Electronics CEOs Appeal to Staff as Wage Talks Drag On and Strike Concerns Grow",
-        "excerpt": "Samsung Electronics executives posted an internal message to employees as prolonged wage negotiations, a union talks halt and possible strike action raised labor tensions.",
-        "body": "Samsung Electronics’ top executives have directly addressed employees amid prolonged wage negotiations and concerns that labor-management tensions could spread. After the union recently declared a halt to negotiations and strike concerns emerged, management reportedly posted a message on the company’s internal bulletin board seeking employees’ understanding. The appeal was made as worries over a possible strike grew, with executives stressing the need to protect the company’s future competitiveness. As the wage talks continue and internal tensions rise, attention is on whether direct communication by management can ease the labor dispute. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン電子、賃金交渉長期化で代表らが直接訴え スト懸念の中で労使対立沈静化へ",
-        "excerpt": "サムスン電子の経営陣は、賃金交渉の長期化や労組の交渉中断、スト可能性への懸念が高まる中、社内掲示板にメッセージを掲載した。",
-        "body": "サムスン電子の代表らが、賃金交渉の長期化と労使対立拡大への懸念が強まる中、従業員に直接メッセージを伝えた。最近、労組が交渉中断を宣言し、ストライキの可能性が取り沙汰されると、経営陣は社内掲示板に文章を掲載し、構成員に理解を求めたとされる。今回の呼びかけは、ストへの懸念が高まる状況で、会社の未来競争力を守る必要があるという趣旨で行われた。賃金交渉が長引き、社内の緊張感が高まる中、経営陣の直接対話が労使対立の緩和につながるか注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星电子薪资谈判长期化 代表层直接呼吁员工应对罢工担忧",
-        "excerpt": "三星电子管理层在薪资谈判长期化、工会宣布中断谈判且罢工可能性引发担忧之际，通过内部公告向员工发布信息。",
-        "body": "三星电子代表层在薪资谈判长期化、劳资矛盾可能扩大的担忧中，直接向员工传达信息。近期工会宣布中断谈判，罢工可能性被提及后，管理层据称在公司内部公告栏发文，寻求员工理解。此次呼吁是在罢工担忧升温的情况下作出的，核心在于强调需要守住公司的未来竞争力。随着薪资谈判拖延、内部紧张感上升，管理层的直接沟通能否缓和劳资矛盾，受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samsung Electronics apela a empleados ante largas negociaciones salariales y temor a huelga",
-        "excerpt": "La dirección de Samsung Electronics publicó un mensaje interno a empleados ante la prolongación de las negociaciones salariales, la pausa sindical y el riesgo de huelga.",
-        "body": "Los principales directivos de Samsung Electronics se dirigieron directamente a sus empleados en medio de la prolongación de las negociaciones salariales y la preocupación por una expansión del conflicto laboral. Después de que el sindicato declarara recientemente la interrupción de las conversaciones y surgieran temores de huelga, la dirección publicó un mensaje en el tablón interno para pedir comprensión a la plantilla. El llamado se produjo en un contexto de creciente preocupación por una posible huelga y con el objetivo de preservar la competitividad futura de la empresa. Con las negociaciones salariales extendiéndose y la tensión interna en aumento, se observa si esta comunicación directa ayudará a aliviar el conflicto. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Samsung Electronics faz apelo a funcionários com negociação salarial longa e temor de greve",
-        "excerpt": "A direção da Samsung Electronics publicou mensagem interna aos funcionários diante da demora nas negociações salariais, da pausa sindical e do risco de greve.",
-        "body": "Os principais executivos da Samsung Electronics falaram diretamente aos funcionários em meio à prolongada negociação salarial e à preocupação com a expansão do conflito trabalhista. Depois que o sindicato declarou recentemente a interrupção das negociações e a possibilidade de greve passou a ser citada, a administração publicou uma mensagem no quadro interno da empresa pedindo compreensão aos empregados. O apelo ocorreu em um momento de crescente temor de greve, com o argumento de que é preciso proteger a competitividade futura da companhia. Com as conversas salariais se arrastando e a tensão interna aumentando, a atenção se volta para saber se a comunicação direta da gestão poderá aliviar o conflito. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung Electronics appelliert an Mitarbeiter bei langen Lohnverhandlungen und Streiksorgen",
-        "excerpt": "Das Management von Samsung Electronics wandte sich intern an Mitarbeiter, nachdem lange Lohnverhandlungen, ein Verhandlungsstopp der Gewerkschaft und Streiksorgen die Spannungen erhöhten.",
-        "body": "Die Spitzenmanager von Samsung Electronics haben sich angesichts langwieriger Lohnverhandlungen und wachsender Sorgen über eine Ausweitung des Arbeitskonflikts direkt an die Beschäftigten gewandt. Nachdem die Gewerkschaft zuletzt den Abbruch der Verhandlungen erklärte und die Möglichkeit eines Streiks ins Gespräch kam, veröffentlichte das Management Berichten zufolge eine Nachricht im internen Forum und bat um Verständnis. Der Appell erfolgte in einer Situation zunehmender Streiksorgen und mit dem Hinweis, die künftige Wettbewerbsfähigkeit des Unternehmens schützen zu müssen. Da sich die Lohnverhandlungen hinziehen und die interne Spannung steigt, richtet sich der Blick darauf, ob die direkte Kommunikation den Konflikt entschärfen kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samsung Electronics appelle ses salariés au calme face aux longues négociations et au risque de grève",
-        "excerpt": "La direction de Samsung Electronics a publié un message interne aux salariés alors que les négociations salariales s’éternisent, le syndicat suspend les discussions et la grève inquiète.",
-        "body": "Les dirigeants de Samsung Electronics se sont adressés directement aux salariés dans un contexte de négociations salariales prolongées et de craintes d’élargissement du conflit social. Après la récente déclaration du syndicat annonçant l’arrêt des discussions et l’évocation d’une possible grève, la direction aurait publié un message sur le tableau interne de l’entreprise pour demander la compréhension des employés. Cet appel intervient alors que les inquiétudes liées à une grève augmentent, avec l’idée de préserver la compétitivité future de l’entreprise. Alors que les négociations salariales se prolongent et que la tension interne monte, l’effet de cette communication directe sur l’apaisement du conflit sera observé. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سامسونغ إلكترونيكس تناشد الموظفين مع تعثر مفاوضات الأجور وتصاعد مخاوف الإضراب",
-        "excerpt": "نشرت إدارة سامسونغ إلكترونيكس رسالة داخلية للموظفين مع طول مفاوضات الأجور، وإعلان النقابة وقف التفاوض، وازدياد القلق من احتمال الإضراب.",
-        "body": "توجه كبار مسؤولي سامسونغ إلكترونيكس مباشرة إلى الموظفين وسط طول مفاوضات الأجور ومخاوف من اتساع الخلاف بين الإدارة والعمال. وبعد أن أعلنت النقابة مؤخرا وقف المفاوضات وبدأ الحديث عن احتمال الإضراب، نشرت الإدارة، بحسب ما ورد، رسالة على لوحة الإعلانات الداخلية طالبت فيها بتفهم العاملين. وجاءت هذه المناشدة مع تنامي القلق من الإضراب، وبهدف التأكيد على ضرورة حماية القدرة التنافسية المستقبلية للشركة. ومع استمرار مفاوضات الأجور وارتفاع التوتر الداخلي، يتركز الاهتمام على ما إذا كان التواصل المباشر من الإدارة سيساعد في تخفيف الخلاف العمالي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung Electronics में वेतन वार्ता लंबी, हड़ताल की आशंका के बीच शीर्ष अधिकारियों की अपील",
-        "excerpt": "Samsung Electronics प्रबंधन ने वेतन वार्ता लंबी खिंचने, यूनियन द्वारा बातचीत रोकने और हड़ताल की आशंका बढ़ने के बाद कर्मचारियों के लिए आंतरिक संदेश जारी किया।",
-        "body": "Samsung Electronics के शीर्ष अधिकारियों ने वेतन वार्ता लंबी खिंचने और श्रम-प्रबंधन तनाव फैलने की चिंता के बीच कर्मचारियों से सीधे संवाद किया। हाल में यूनियन ने बातचीत रोकने की घोषणा की और हड़ताल की संभावना पर चर्चा शुरू हुई, जिसके बाद प्रबंधन ने कंपनी के आंतरिक बोर्ड पर संदेश पोस्ट कर कर्मचारियों से समझदारी की अपील की। यह अपील ऐसे समय में की गई जब हड़ताल को लेकर चिंता बढ़ रही थी और कंपनी की भविष्य की प्रतिस्पर्धात्मकता बचाने की बात सामने रखी गई। वेतन वार्ता लंबी चलने और आंतरिक तनाव बढ़ने के बीच, देखना होगा कि प्रबंधन का यह सीधा संवाद विवाद कम करने में मदद करता है या नहीं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Samsung Electronics Imbau Karyawan Saat Negosiasi Upah Berlarut dan Kekhawatiran Mogok Meningkat",
-        "excerpt": "Manajemen Samsung Electronics mengunggah pesan internal kepada karyawan saat negosiasi upah berlarut, serikat menghentikan perundingan, dan risiko mogok makin dikhawatirkan.",
-        "body": "Para pemimpin Samsung Electronics menyampaikan pesan langsung kepada karyawan di tengah negosiasi upah yang berkepanjangan dan kekhawatiran meluasnya konflik ketenagakerjaan. Setelah serikat pekerja baru-baru ini menyatakan penghentian perundingan dan kemungkinan mogok mulai disebut, manajemen dilaporkan mengunggah pesan di papan internal perusahaan untuk meminta pengertian karyawan. Imbauan ini muncul ketika kekhawatiran mogok meningkat, dengan penekanan pada perlunya menjaga daya saing masa depan perusahaan. Saat negosiasi upah terus berlarut dan ketegangan internal meningkat, perhatian tertuju pada apakah komunikasi langsung manajemen dapat meredakan konflik. Sumber: mk.co.kr"
       }
     }
   }
