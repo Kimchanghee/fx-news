@@ -6,7 +6,7 @@ export const channel = {
   name: '외환원자재나우',
   tagline: '달러·엔·금·원유·곡물 시장 매일 추적',
   description: '환율, 금, 원유, 천연가스, 농산물 등 외환·원자재 시장을 초등생도 이해할 수 있게 풀어드립니다.',
-  domain: 'fxcommodity.live',
+  domain: 'calczen.online',
   accent: 'green',
   keywords: ['외환', '환율', '달러', '금', '원유', '원자재'],
   geo: { country: 'KR', region: 'Asia', primaryCity: 'Seoul' },
