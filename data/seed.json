@@ -1,5 +1,230 @@
 [
   {
+    "id": "25b570bd8ac9",
+    "slug": "ai-전략새-ceo-기대감애플-주가-사상-최고치-939086",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-07T18:20:57.141Z",
+    "updatedAt": "2026-05-07T18:20:57.141Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050724111",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050724111",
+    "titleFingerprint": "05aba400177fb90e179162950816e1cb467c3c72",
+    "dedupKeys": [
+      "25b570bd8ac9e8afb04bf3b45b4503c4c3412e7c",
+      "05aba400177fb90e179162950816e1cb467c3c72",
+      "98d1b07eb5f73bca65b47817caaa3842a8a07ecb"
+    ],
+    "imageUrl": "/images/articles/25b570bd8ac9.png",
+    "i18n": {
+      "ko": {
+        "title": "애플 주가 사상 최고치, AI 전략·차기 CEO 기대감에 5개월 만에 신기록",
+        "excerpt": "애플 주가는 6일 뉴욕증시에서 287.51달러로 마감해 사상 최고치를 경신했다. AI 전략 기대와 차기 CEO 존 터너스에 대한 시장 기대가 반등 배경으로 꼽혔다.",
+        "body": "애플 주가가 6일(현지시간) 뉴욕증시에서 1.17% 오른 287.51달러에 거래를 마치며 사상 최고치를 경신했다. 지난해 12월 2일 기록한 286.19달러 이후 약 5개월 만의 신기록이다. 애플은 올초 AI 경쟁력 우려로 240달러 선까지 하락했지만, 지난달 30일 발표한 1분기 실적이 예상보다 좋았고 9월부터 팀 쿡 CEO의 뒤를 이을 존 터너스 차기 CEO에 대한 기대도 커졌다. 이날 기준 시가총액은 4조2200억달러로 엔비디아와 알파벳에 이어 세계 3위다. 월가에서는 6월 8일 개막하는 WWDC에서 맞춤형 AI 비서 시리 성과를 입증하는지가 주가 향방의 분수령으로 본다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Apple Stock Hits Record High as AI Strategy and Next CEO Hopes Lift Shares",
+        "excerpt": "Apple shares closed at $287.51 in New York on May 6, setting a record high as investors focused on its AI strategy, stronger results and expectations for incoming CEO John Ternus.",
+        "body": "Apple shares rose 1.17% to close at $287.51 on the New York Stock Exchange on May 6 local time, setting an all-time high. The move surpassed the previous $286.19 record set on December 2 last year, marking a new high after about five months. Apple had fallen to the $240 range earlier this year on concerns about its AI competitiveness, but it recovered after first-quarter results announced on April 30 beat expectations. Market expectations also increased for John Ternus, who is set to succeed CEO Tim Cook from September. Apple’s market value stood at $4.22 trillion, ranking third globally after Nvidia and Alphabet. Wall Street sees the WWDC opening on June 8 as a key test for Apple’s personalized AI Siri plans. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "アップル株が最高値、AI戦略と次期CEO期待で5カ月ぶり新記録",
+        "excerpt": "アップル株は5月6日のニューヨーク市場で287.51ドルで引け、過去最高値を更新した。AI戦略、好調な決算、次期CEOジョン・ターナス氏への期待が背景だ。",
+        "body": "アップル株は6日現地時間、ニューヨーク市場で1.17%高の287.51ドルで取引を終え、過去最高値を更新した。昨年12月2日の286.19ドルを約5カ月ぶりに上回った。年初にはAI競争力への懸念から240ドル台まで下落したが、4月30日に発表した第1四半期決算が市場予想を上回り、下げ幅を取り戻した。さらに9月からティム・クックCEOの後任となるジョン・ターナス次期CEOへの期待も高まった。同日時点の時価総額は4兆2200億ドルで、エヌビディア、アルファベットに次ぐ世界3位。ウォール街は6月8日開幕のWWDCで、個別化AIアシスタントSiriの成果を示せるかを焦点とみている。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "苹果股价创历史新高，AI战略与候任CEO预期推动5个月新纪录",
+        "excerpt": "苹果股价5月6日在纽约市场收于287.51美元，创历史新高。AI战略、好于预期的一季度业绩以及候任CEO约翰·特纳斯预期成为支撑因素。",
+        "body": "苹果股价当地时间5月6日在纽约股市上涨1.17%，收于287.51美元，刷新历史最高纪录。这一价格超过去年12月2日的286.19美元，为约5个月来的新高。今年年初，苹果因AI竞争力疑虑一度跌至240美元区间，但随后反弹并收复跌幅。4月30日公布的一季度业绩好于预期，同时市场对将于9月起接替蒂姆·库克担任CEO的约翰·特纳斯期待升温。截至当天，苹果市值达4.22万亿美元，位居英伟达、Alphabet之后的全球第三。华尔街认为，6月8日开幕的WWDC能否证明个性化AI助手Siri的成果，将成为股价走向的分水岭。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Apple marca máximo histórico por su estrategia de IA y expectativas sobre su próximo CEO",
+        "excerpt": "Las acciones de Apple cerraron el 6 de mayo en Nueva York a 287,51 dólares, un máximo histórico, impulsadas por su estrategia de IA, resultados mejores de lo esperado y expectativas sobre John Ternus.",
+        "body": "Las acciones de Apple subieron un 1,17% y cerraron en 287,51 dólares el 6 de mayo, hora local, en la Bolsa de Nueva York, marcando un máximo histórico. Superaron los 286,19 dólares registrados el 2 de diciembre del año pasado, un nuevo récord tras unos cinco meses. A comienzos de año, Apple cayó hasta la zona de 240 dólares por dudas sobre su competitividad en IA, pero recuperó el terreno perdido después de que los resultados del primer trimestre, publicados el 30 de abril, fueran mejores de lo esperado. También aumentaron las expectativas sobre John Ternus, previsto como sucesor de Tim Cook desde septiembre. Su valor de mercado llegó a 4,22 billones de dólares, tercero del mundo tras Nvidia y Alphabet. Wall Street ve la WWDC del 8 de junio como una prueba clave para Siri con IA personalizada. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Ação da Apple atinge recorde com estratégia de IA e expectativa sobre próximo CEO",
+        "excerpt": "As ações da Apple fecharam em 287,51 dólares em Nova York em 6 de maio, renovando máxima histórica com apoio da estratégia de IA, resultados acima do esperado e expectativa por John Ternus.",
+        "body": "As ações da Apple subiram 1,17% e fecharam a 287,51 dólares em 6 de maio, no horário local, na Bolsa de Nova York, renovando a máxima histórica. O preço superou os 286,19 dólares registrados em 2 de dezembro do ano passado, um novo recorde em cerca de cinco meses. No início do ano, a Apple caiu para a faixa de 240 dólares por preocupações com sua competitividade em IA, mas recuperou as perdas depois que os resultados do primeiro trimestre, divulgados em 30 de abril, vieram melhores que o esperado. Também cresceu a expectativa em torno de John Ternus, apontado para suceder Tim Cook como CEO a partir de setembro. O valor de mercado chegou a 4,22 trilhões de dólares, terceiro no mundo após Nvidia e Alphabet. Wall Street vê a WWDC de 8 de junho como teste decisivo para a Siri com IA personalizada. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Apple-Aktie auf Rekordhoch: KI-Strategie und Hoffnung auf nächsten CEO treiben Kurs",
+        "excerpt": "Die Apple-Aktie schloss am 6. Mai in New York bei 287,51 Dollar und erreichte ein Rekordhoch. Treiber waren KI-Erwartungen, starke Quartalszahlen und Hoffnungen auf John Ternus.",
+        "body": "Die Apple-Aktie stieg am 6. Mai Ortszeit an der New Yorker Börse um 1,17% und schloss bei 287,51 Dollar, einem Allzeithoch. Damit wurde der bisherige Höchststand von 286,19 Dollar vom 2. Dezember vergangenen Jahres nach rund fünf Monaten übertroffen. Zu Jahresbeginn war Apple wegen Zweifeln an der KI-Wettbewerbsfähigkeit bis in den Bereich von 240 Dollar gefallen, erholte sich aber nach besser als erwartet ausgefallenen Quartalszahlen vom 30. April. Zugleich nahm die Erwartung an John Ternus zu, der ab September Tim Cook als CEO nachfolgen soll. Apples Börsenwert lag bei 4,22 Billionen Dollar und damit weltweit auf Rang drei hinter Nvidia und Alphabet. Die Wall Street sieht die am 8. Juni beginnende WWDC als Wegmarke, weil Apple dort Fortschritte bei der personalisierten KI-Assistentin Siri zeigen muss. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Apple au plus haut historique, portée par sa stratégie IA et l’attente autour du futur CEO",
+        "excerpt": "L’action Apple a clôturé à 287,51 dollars à New York le 6 mai, un record historique, soutenue par la stratégie IA, des résultats supérieurs aux attentes et l’espoir lié à John Ternus.",
+        "body": "L’action Apple a gagné 1,17% pour clôturer à 287,51 dollars le 6 mai, heure locale, à la Bourse de New York, établissant un plus haut historique. Elle a dépassé le précédent record de 286,19 dollars atteint le 2 décembre dernier, soit un nouveau sommet après environ cinq mois. En début d’année, Apple était tombée vers 240 dollars en raison de doutes sur sa compétitivité dans l’IA, avant de se reprendre après des résultats du premier trimestre publiés le 30 avril meilleurs que prévu. Les attentes ont aussi augmenté autour de John Ternus, appelé à succéder à Tim Cook comme CEO à partir de septembre. La capitalisation d’Apple atteignait 4.220 milliards de dollars, au troisième rang mondial derrière Nvidia et Alphabet. Wall Street voit la WWDC du 8 juin comme un test clé pour les progrès de Siri en IA personnalisée. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "سهم آبل يسجل أعلى مستوى تاريخي بدعم استراتيجية الذكاء الاصطناعي وترقب الرئيس المقبل",
+        "excerpt": "أغلق سهم آبل في نيويورك يوم 6 مايو عند 287.51 دولار، مسجلا مستوى تاريخيا جديدا بدعم توقعات الذكاء الاصطناعي ونتائج الربع الأول والرهان على جون تيرنوس.",
+        "body": "ارتفع سهم آبل 1.17% وأغلق عند 287.51 دولار في بورصة نيويورك يوم 6 مايو بالتوقيت المحلي، ليسجل أعلى مستوى في تاريخه. وتجاوز السهم الرقم السابق البالغ 286.19 دولار في 2 ديسمبر من العام الماضي، محققا رقما جديدا بعد نحو خمسة أشهر. في بداية العام هبطت آبل إلى نطاق 240 دولارا بسبب مخاوف بشأن قدرتها التنافسية في الذكاء الاصطناعي، لكنها عوضت خسائرها بعد أن جاءت نتائج الربع الأول المعلنة في 30 أبريل أفضل من المتوقع. كما زادت توقعات السوق تجاه جون تيرنوس، المنتظر أن يخلف تيم كوك في منصب الرئيس التنفيذي اعتبارا من سبتمبر. بلغت القيمة السوقية لآبل 4.22 تريليون دولار، في المركز الثالث عالميا بعد إنفيديا وألفابت. وترى وول ستريت أن مؤتمر WWDC في 8 يونيو سيكون اختبارا مهما لإثبات تقدم سيري المعتمد على الذكاء الاصطناعي المخصص. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "Apple शेयर रिकॉर्ड ऊंचाई पर, AI रणनीति और अगले CEO की उम्मीदों से 5 महीने बाद नया शिखर",
+        "excerpt": "Apple का शेयर 6 मई को न्यूयॉर्क में 287.51 डॉलर पर बंद हुआ और रिकॉर्ड ऊंचाई पर पहुंचा। AI रणनीति, बेहतर तिमाही नतीजे और जॉन टर्नस से जुड़ी उम्मीदें प्रमुख वजह रहीं।",
+        "body": "Apple का शेयर स्थानीय समय के अनुसार 6 मई को न्यूयॉर्क शेयर बाजार में 1.17% बढ़कर 287.51 डॉलर पर बंद हुआ और अब तक का रिकॉर्ड उच्च स्तर बनाया। यह पिछले साल 2 दिसंबर के 286.19 डॉलर के स्तर से ऊपर है और करीब पांच महीने बाद नया रिकॉर्ड है। इस साल की शुरुआत में AI प्रतिस्पर्धा को लेकर चिंता के कारण Apple 240 डॉलर के दायरे तक गिर गया था, लेकिन 30 अप्रैल को घोषित पहली तिमाही के नतीजे उम्मीद से बेहतर रहे और शेयर ने गिरावट की भरपाई कर ली। सितंबर से टिम कुक की जगह CEO बनने वाले जॉन टर्नस को लेकर बाजार की उम्मीदें भी बढ़ीं। उस दिन Apple का बाजार मूल्य 4.22 ट्रिलियन डॉलर था, जो Nvidia और Alphabet के बाद दुनिया में तीसरा है। वॉल स्ट्रीट 8 जून से शुरू होने वाले WWDC को अहम मोड़ मान रहा है, जहां Apple को व्यक्तिगत AI सहायक Siri की प्रगति दिखानी होगी। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Saham Apple Cetak Rekor Tertinggi, Didukung Strategi AI dan Harapan CEO Baru",
+        "excerpt": "Saham Apple ditutup di 287,51 dolar AS di New York pada 6 Mei, mencetak rekor tertinggi karena strategi AI, kinerja kuartal I yang lebih baik, dan harapan terhadap John Ternus.",
+        "body": "Saham Apple naik 1,17% dan ditutup pada 287,51 dolar AS di Bursa New York pada 6 Mei waktu setempat, mencetak rekor tertinggi sepanjang masa. Angka itu melampaui 286,19 dolar AS yang dicapai pada 2 Desember tahun lalu, menjadi rekor baru setelah sekitar lima bulan. Pada awal tahun, Apple sempat turun ke kisaran 240 dolar AS karena kekhawatiran atas daya saing AI, tetapi pulih setelah hasil kuartal pertama yang diumumkan pada 30 April lebih baik dari perkiraan. Ekspektasi pasar juga meningkat terhadap John Ternus, yang akan menggantikan Tim Cook sebagai CEO mulai September. Nilai pasar Apple mencapai 4,22 triliun dolar AS, peringkat ketiga dunia setelah Nvidia dan Alphabet. Wall Street memandang WWDC yang dibuka 8 Juni sebagai penentu arah saham, terutama terkait bukti kemajuan Siri sebagai asisten AI personal. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "406ec783301c",
+    "slug": "왕년-황제株-lg생건-뜨거운-바닥논쟁-967665",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-07T18:19:42.797Z",
+    "updatedAt": "2026-05-07T18:19:42.797Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050724101",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050724101",
+    "titleFingerprint": "4d21231bb7cae21f07919b7a904774c3d8980efd",
+    "dedupKeys": [
+      "406ec783301c6ca9af1a1e0ae0b4920c1b08db7a",
+      "4d21231bb7cae21f07919b7a904774c3d8980efd",
+      "062fd0691cd2f50c29a26ed25e141de6446fc709"
+    ],
+    "imageUrl": "/images/articles/406ec783301c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LG생활건강 주가 바닥논쟁 재점화, ‘왕년 황제주’ 향방 주목",
+        "excerpt": "한국경제가 LG생활건강을 둘러싼 ‘왕년 황제주’ 평가와 주가 바닥 논쟁을 보도하며 투자자 관심이 다시 집중되고 있다고 전했다.",
+        "body": "한국경제는 LG생활건강을 두고 ‘왕년 황제주’라는 표현과 함께 주가 바닥 논쟁이 뜨겁게 이어지고 있다고 보도했다. 보도 제목은 과거 높은 시장 평가를 받았던 LG생활건강의 현재 주가 수준과 향후 방향을 둘러싼 투자자 논쟁에 초점을 맞췄다. 제공된 원문에는 구체적인 실적 수치, 주가 변동 폭, 애널리스트 전망, 회사 측 입장 등 세부 내용은 포함되지 않았다. 따라서 확인 가능한 사실은 LG생활건강이 시장에서 다시 바닥 여부 논의의 대상으로 부각됐다는 점이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "LG H&H Stock Bottom Debate Heats Up as Former Market Star Draws Attention",
+        "excerpt": "Hankyung reported renewed investor attention on LG Household & Health Care as debate grows over whether the former high-flying stock has found a bottom.",
+        "body": "Hankyung reported that debate is intensifying over whether LG Household & Health Care’s share price has reached a bottom, describing the company as a former market star. The report’s headline focuses on investor discussion around the current valuation and future direction of LG H&H, a stock once viewed highly by the market. The provided source text does not include specific earnings figures, share-price moves, analyst forecasts, or company comments. Therefore, the verifiable fact is that LG H&H has re-emerged as a subject of market debate over a possible bottom. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "LG生活健康株の底値論争が再燃、かつての「皇帝株」に注目",
+        "excerpt": "韓国経済は、かつて高く評価されたLG生活健康をめぐり、株価が底を打ったのかという議論に投資家の関心が集まっていると報じた。",
+        "body": "韓国経済は、LG生活健康について、かつての「皇帝株」という表現とともに、株価の底値をめぐる議論が熱を帯びていると報じた。記事の見出しは、過去に市場で高い評価を受けたLG生活健康の現在の株価水準と今後の方向性をめぐる投資家の論争に焦点を当てている。提供された原文には、具体的な業績数値、株価変動幅、アナリスト見通し、会社側コメントなどの詳細は含まれていない。確認できる事実は、LG生活健康が市場で再び底値論争の対象として浮上した点である。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "LG生活健康股价探底争论升温，昔日“皇帝股”再受关注",
+        "excerpt": "韩国经济报道，围绕LG生活健康这只昔日高估值股票，市场正在讨论其股价是否已触底，投资者关注度再次上升。",
+        "body": "韩国经济报道称，围绕LG生活健康股价是否已经触底的讨论正在升温，并以昔日“皇帝股”来形容该公司。报道标题聚焦于这只曾获得市场高度评价的股票目前的股价水平，以及投资者对其未来走向的争论。所提供的原文未包含具体业绩数据、股价涨跌幅、分析师预测或公司方面表态等细节。因此，可确认的事实是，LG生活健康再次成为市场讨论股价是否见底的对象。来源: hankyung.com"
+      },
+      "es": {
+        "title": "LG H&H reaviva el debate sobre suelo bursátil tras ser antigua acción estrella",
+        "excerpt": "Hankyung informó que LG Household & Health Care vuelve al foco de los inversores por el debate sobre si su acción, antes muy valorada, tocó fondo.",
+        "body": "Hankyung informó que se intensifica el debate sobre si la acción de LG Household & Health Care ha tocado fondo, describiendo a la compañía como una antigua estrella del mercado. El titular se centra en la discusión de los inversores sobre el nivel actual de la acción y su posible dirección futura, tras haber recibido una elevada valoración en el pasado. El texto fuente proporcionado no incluye cifras concretas de resultados, variaciones bursátiles, previsiones de analistas ni comentarios de la empresa. Por tanto, el hecho verificable es que LG H&H ha vuelto a ser objeto de debate sobre un posible suelo bursátil. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "LG H&H reacende debate sobre fundo da ação, antiga estrela do mercado",
+        "excerpt": "O Hankyung informou que a LG Household & Health Care voltou ao radar dos investidores com o debate sobre se sua ação, antes muito valorizada, fez fundo.",
+        "body": "O Hankyung informou que cresce o debate sobre se as ações da LG Household & Health Care chegaram ao fundo, descrevendo a empresa como uma antiga estrela do mercado. O título destaca a discussão dos investidores sobre o nível atual do papel e sua direção futura, após a companhia ter recebido forte avaliação no passado. O texto original fornecido não inclui números específicos de resultados, variações de preço, projeções de analistas ou comentários da empresa. Assim, o fato verificável é que a LG H&H voltou a ser tema de debate no mercado sobre um possível fundo. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "LG H&H im Fokus: Debatte über Kursboden der früheren Marktgröße flammt auf",
+        "excerpt": "Hankyung berichtete, dass LG Household & Health Care erneut Anlegerinteresse weckt, weil über einen möglichen Boden der einst hoch bewerteten Aktie diskutiert wird.",
+        "body": "Hankyung berichtete, dass die Debatte darüber, ob die Aktie von LG Household & Health Care einen Boden erreicht hat, an Schärfe gewinnt, und bezeichnete das Unternehmen als frühere Marktgröße. Die Überschrift richtet den Fokus auf die Diskussion der Anleger über das aktuelle Kursniveau und die mögliche weitere Richtung der Aktie, die früher hoch bewertet wurde. Der vorliegende Ausgangstext enthält keine konkreten Ergebniszahlen, Kursbewegungen, Analystenprognosen oder Stellungnahmen des Unternehmens. Verifizierbar ist daher, dass LG H&H erneut Gegenstand einer Marktdiskussion über einen möglichen Kursboden ist. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "LG H&H relance le débat sur un point bas boursier, ancienne valeur vedette",
+        "excerpt": "Hankyung rapporte que LG Household & Health Care attire de nouveau l’attention des investisseurs avec le débat sur un possible point bas de son action.",
+        "body": "Hankyung rapporte que le débat s’intensifie sur la question de savoir si l’action de LG Household & Health Care a atteint un point bas, en présentant l’entreprise comme une ancienne valeur vedette du marché. Le titre met l’accent sur les discussions des investisseurs autour du niveau actuel du titre et de son orientation future, après une forte reconnaissance passée par le marché. Le texte source fourni ne contient pas de chiffres précis de résultats, de variations de cours, de prévisions d’analystes ni de commentaires de l’entreprise. Le fait vérifiable est donc que LG H&H redevient un sujet de débat sur un possible point bas boursier. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "سهم LG H&H يعود للواجهة مع احتدام جدل القاع بعد مجده السابق",
+        "excerpt": "ذكرت هانكيونغ أن LG Household & Health Care تجذب اهتمام المستثمرين مجددا مع تصاعد الجدل حول ما إذا كان سهمها، الذي كان يحظى بتقييم مرتفع، بلغ القاع.",
+        "body": "ذكرت هانكيونغ أن الجدل يشتد حول ما إذا كان سهم LG Household & Health Care قد بلغ القاع، ووصفت الشركة بأنها كانت في السابق من أبرز أسهم السوق. يركز العنوان على نقاش المستثمرين بشأن مستوى السهم الحالي واتجاهه المحتمل بعد أن حظي بتقييم مرتفع في الماضي. النص الأصلي المقدم لا يتضمن أرقاما محددة للنتائج، أو تغيرات في سعر السهم، أو توقعات محللين، أو تعليقات من الشركة. لذلك فإن الحقيقة القابلة للتحقق هي أن LG H&H عادت لتكون محور نقاش في السوق حول احتمال بلوغ السهم القاع. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "LG H&H शेयर में बॉटम बहस तेज, पूर्व बाजार सितारे पर फिर नजर",
+        "excerpt": "Hankyung ने बताया कि LG Household & Health Care पर निवेशकों का ध्यान फिर गया है, क्योंकि कभी ऊंचे मूल्यांकन वाले इस शेयर में बॉटम बनने पर बहस तेज है।",
+        "body": "Hankyung ने बताया कि LG Household & Health Care के शेयर ने क्या बॉटम बना लिया है, इस पर बहस तेज हो रही है और कंपनी को बाजार का पूर्व प्रमुख शेयर बताया गया है। रिपोर्ट का शीर्षक उस शेयर के मौजूदा स्तर और आगे की दिशा पर निवेशकों की चर्चा पर केंद्रित है, जिसे अतीत में बाजार से ऊंचा मूल्यांकन मिला था। उपलब्ध मूल पाठ में विशिष्ट आय आंकड़े, शेयर मूल्य में बदलाव, विश्लेषक अनुमान या कंपनी की टिप्पणी शामिल नहीं है। इसलिए सत्यापित तथ्य यही है कि LG H&H फिर से संभावित बॉटम को लेकर बाजार बहस का विषय बना है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Saham LG H&H kembali diperdebatkan soal titik dasar, eks bintang pasar",
+        "excerpt": "Hankyung melaporkan LG Household & Health Care kembali menarik perhatian investor karena perdebatan apakah saham yang dulu sangat dihargai itu sudah menyentuh dasar.",
+        "body": "Hankyung melaporkan bahwa perdebatan makin panas mengenai apakah saham LG Household & Health Care telah mencapai titik dasar, dengan menyebut perusahaan itu sebagai mantan bintang pasar. Judul laporan berfokus pada diskusi investor tentang level saham saat ini dan arah berikutnya, setelah saham tersebut pernah mendapat penilaian tinggi dari pasar. Teks sumber yang diberikan tidak memuat angka kinerja, perubahan harga saham, proyeksi analis, atau komentar perusahaan secara spesifik. Karena itu, fakta yang dapat diverifikasi adalah LG H&H kembali menjadi objek perdebatan pasar mengenai kemungkinan titik dasar sahamnya. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "f0571f2acb25",
+    "slug": "호재라고-뛰어들었다-피눈물개미들-낚인-사이-엑시트-804947",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-07T18:18:51.519Z",
+    "updatedAt": "2026-05-07T18:18:51.519Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050724151",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050724151",
+    "titleFingerprint": "b1a3adaeed526d99ce6a62bd939eef09a1ed0d0a",
+    "dedupKeys": [
+      "f0571f2acb25294013d783032e4c42b522c160d8",
+      "b1a3adaeed526d99ce6a62bd939eef09a1ed0d0a",
+      "f4175359f7ecda4de09398b0b32c303f90124009"
+    ],
+    "imageUrl": "/images/articles/f0571f2acb25.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스닥 자금조달 공시 철회에 개인투자자 손실 확대, CB·유증 주의보",
+        "excerpt": "한국경제는 2026년 5월 7일 코스닥 상장사들이 유상증자·전환사채 발행 계획을 미루다 철회하며 개인투자자 피해가 반복되고 있다고 보도했다.",
+        "body": "한국경제에 따르면 2026년 5월 7일 코스닥시장에서 제3자 배정 유상증자와 전환사채(CB) 발행 등 자금조달 계획을 공시한 뒤 수개월간 연기하다 철회하는 사례가 잇따르고 있다. 아이톡시는 지난 4월 30일 100억원 규모 유상증자 결정을 철회했고, 지난해 11월 40억원 규모 사모 CB 발행도 취소했다. 주가는 지난해 7월 초 5863원에서 거래정지 당시 312원까지 떨어졌다. 핀텔도 71억원 증자와 200억원 CB 계획을 약 5개월 뒤 철회했고 주가는 1821원으로 52주 신저가를 기록했다. 코퍼스코리아는 280억원 조달 계획 철회 뒤 주가가 270원까지 하락했다. 출처: hankyung.com https://www.hankyung.com/article/2026050724151"
+      },
+      "en": {
+        "title": "Kosdaq Funding Plan Reversals Hit Retail Investors as CB and Share Sale Risks Grow",
+        "excerpt": "Hankyung reported on May 7, 2026 that Kosdaq firms are delaying and canceling rights issues and convertible bond plans, leaving retail investors exposed to sharp stock losses.",
+        "body": "According to Hankyung, on May 7, 2026, cases are recurring in the Kosdaq market where listed companies announce third-party share placements or convertible bond funding plans, delay them for months, and then withdraw them. iToxi canceled a 10 billion won third-party share placement on April 30 and had also scrapped a 4 billion won private CB issue in November. Its share price fell from 5,863 won in early July last year to 312 won when trading was suspended. Pintel withdrew a 7.1 billion won capital increase and 20 billion won CB plan after about five months, with shares falling to a 52-week low of 1,821 won. Corpus Korea’s 28 billion won funding plan was also withdrawn, and its stock later dropped to 270 won. Source: hankyung.com https://www.hankyung.com/article/2026050724151"
+      },
+      "ja": {
+        "title": "コスダック資金調達撤回で個人投資家に損失、CB・増資リスク浮上",
+        "excerpt": "韓国経済新聞は2026年5月7日、コスダック上場企業が増資や転換社債計画を延期後に撤回し、個人投資家の損失が相次いでいると報じた。",
+        "body": "韓国経済新聞によると、2026年5月7日、コスダック市場では第三者割当増資や転換社債（CB）発行などの資金調達計画を公示した後、数カ月延期して撤回する事例が相次いでいる。アイトクシは4月30日に100億ウォン規模の第三者割当増資を撤回し、昨年11月には40億ウォン規模の私募CB発行も取り消した。同社株は昨年7月初めの5863ウォンから、取引停止時には312ウォンまで下落した。ピンテルも71億ウォンの増資と200億ウォンのCB計画を約5カ月後に撤回し、株価は1821ウォンの52週安値となった。コーパスコリアも280億ウォンの調達計画撤回後、270ウォンまで下げた。出所: hankyung.com https://www.hankyung.com/article/2026050724151"
+      },
+      "zh": {
+        "title": "Kosdaq融资公告撤回冲击散户，CB与定增计划风险升温",
+        "excerpt": "韩国经济新闻5月7日报道，Kosdaq上市公司推迟并撤回增资、可转债融资计划，导致追高散户反复承受股价大跌损失。",
+        "body": "据韩国经济新闻报道，2026年5月7日，Kosdaq市场上多家公司在公告第三方配售增资或可转债（CB）发行等融资计划后，拖延数月又撤回，类似案例频繁出现。iToxi于4月30日撤回100亿韩元规模第三方配售增资，去年11月还曾取消40亿韩元私募CB发行。其股价从去年7月初的5863韩元跌至停牌时的312韩元。Pintel也在约5个月后撤回71亿韩元增资和200亿韩元CB计划，股价跌至1821韩元的52周新低。Corpus Korea撤回280亿韩元融资计划后，股价一度降至270韩元。来源: hankyung.com https://www.hankyung.com/article/2026050724151"
+      },
+      "es": {
+        "title": "Cancelaciones de financiación en Kosdaq golpean a minoristas y elevan alertas sobre CB",
+        "excerpt": "Hankyung informó el 7 de mayo de 2026 que empresas del Kosdaq aplazan y cancelan ampliaciones y bonos convertibles, causando pérdidas recurrentes a inversores minoristas.",
+        "body": "Según Hankyung, el 7 de mayo de 2026 se repiten en el Kosdaq casos de compañías que anuncian colocaciones a terceros o emisiones de bonos convertibles (CB), retrasan los planes durante meses y luego los retiran. iToxi canceló el 30 de abril una ampliación de capital de 10.000 millones de wones y también había anulado en noviembre una emisión privada de CB por 4.000 millones. Su acción cayó de 5.863 wones a comienzos de julio del año pasado a 312 wones cuando fue suspendida. Pintel retiró tras unos cinco meses una ampliación de 7.100 millones y CB por 20.000 millones, y bajó a un mínimo de 52 semanas de 1.821 wones. Corpus Korea retiró un plan de 28.000 millones y luego cayó a 270 wones. Fuente: hankyung.com https://www.hankyung.com/article/2026050724151"
+      },
+      "pt": {
+        "title": "Cancelamentos de captação no Kosdaq atingem varejo e acendem alerta para CB",
+        "excerpt": "O Hankyung informou em 7 de maio de 2026 que empresas do Kosdaq adiam e cancelam aumentos de capital e bônus conversíveis, ampliando perdas de investidores individuais.",
+        "body": "Segundo o Hankyung, em 7 de maio de 2026 tornaram-se frequentes no Kosdaq casos de empresas que anunciam colocações privadas de ações ou emissões de bônus conversíveis (CB), adiam os planos por meses e depois os retiram. A iToxi cancelou em 30 de abril uma colocação de 10 bilhões de won e também havia cancelado em novembro uma emissão privada de CB de 4 bilhões. A ação caiu de 5.863 won no início de julho do ano passado para 312 won quando a negociação foi suspensa. A Pintel retirou, após cerca de cinco meses, um aumento de capital de 7,1 bilhões de won e CB de 20 bilhões, e caiu à mínima de 52 semanas de 1.821 won. A Corpus Korea retirou um plano de 28 bilhões de won e depois recuou para 270 won. Fonte: hankyung.com https://www.hankyung.com/article/2026050724151"
+      },
+      "de": {
+        "title": "Kosdaq-Finanzierungsrückzüge belasten Kleinanleger, Warnsignal bei CB und Kapitalerhöhungen",
+        "excerpt": "Hankyung berichtete am 7. Mai 2026, dass Kosdaq-Firmen Kapitalerhöhungen und Wandelanleihen erst verzögern und dann zurückziehen, wodurch Kleinanleger Verluste erleiden.",
+        "body": "Laut Hankyung häufen sich am Kosdaq Fälle, in denen börsennotierte Unternehmen Pläne für Drittplatzierungen oder Wandelanleihen (CB) ankündigen, sie monatelang verschieben und anschließend zurückziehen. iToxi strich am 30. April eine Drittplatzierung über 10 Milliarden Won und hatte im November bereits eine private CB-Emission über 4 Milliarden Won abgesagt. Die Aktie fiel von 5.863 Won Anfang Juli vergangenen Jahres auf 312 Won zum Zeitpunkt der Handelsaussetzung. Pintel zog nach rund fünf Monaten eine Kapitalerhöhung über 7,1 Milliarden Won und CB über 20 Milliarden Won zurück; die Aktie sank auf ein 52-Wochen-Tief von 1.821 Won. Corpus Korea zog einen Finanzierungsplan über 28 Milliarden Won zurück, danach fiel die Aktie auf 270 Won. Quelle: hankyung.com https://www.hankyung.com/article/2026050724151"
+      },
+      "fr": {
+        "title": "Retraits de financements au Kosdaq: pertes pour particuliers, alerte sur CB et augmentations",
+        "excerpt": "Hankyung a rapporté le 7 mai 2026 que des sociétés du Kosdaq reportent puis annulent augmentations de capital et obligations convertibles, exposant les particuliers à de fortes pertes.",
+        "body": "Selon Hankyung, au 7 mai 2026, les cas se multiplient sur le Kosdaq de sociétés annonçant des placements privés ou des émissions d’obligations convertibles (CB), les reportant pendant des mois avant de les retirer. iToxi a annulé le 30 avril une augmentation de capital de 10 milliards de wons et avait déjà annulé en novembre une émission privée de CB de 4 milliards. Son action est passée de 5 863 wons début juillet dernier à 312 wons lors de la suspension des échanges. Pintel a retiré après environ cinq mois une augmentation de 7,1 milliards de wons et des CB de 20 milliards; le titre est tombé à un plus bas de 52 semaines de 1 821 wons. Corpus Korea a retiré un plan de 28 milliards de wons, puis son action a chuté à 270 wons. Source: hankyung.com https://www.hankyung.com/article/2026050724151"
+      },
+      "ar": {
+        "title": "إلغاء خطط تمويل في كوسداك يضغط على صغار المستثمرين ويبرز مخاطر السندات القابلة للتحويل",
+        "excerpt": "ذكرت هانكيونغ في 7 مايو 2026 أن شركات في كوسداك تؤجل ثم تلغي زيادات رأس المال والسندات القابلة للتحويل، ما يعرّض المستثمرين الأفراد لخسائر حادة.",
+        "body": "بحسب هانكيونغ، في 7 مايو 2026 تتكرر في سوق كوسداك حالات تعلن فيها شركات مدرجة عن زيادات رأس مال عبر تخصيص لطرف ثالث أو إصدار سندات قابلة للتحويل، ثم تؤجل الخطط لأشهر قبل سحبها. ألغت iToxi في 30 أبريل زيادة رأس مال بقيمة 10 مليارات وون، وكانت قد ألغت في نوفمبر إصدار سندات خاصة بقيمة 4 مليارات وون. هبط سهمها من 5863 وون في أوائل يوليو الماضي إلى 312 وون عند تعليق التداول. كما سحبت Pintel بعد نحو خمسة أشهر خطة زيادة بقيمة 7.1 مليار وون وسندات بقيمة 20 مليار وون، وتراجع سهمها إلى أدنى مستوى في 52 أسبوعا عند 1821 وون. أما Corpus Korea فسحبت خطة تمويل بقيمة 28 مليار وون ثم انخفض سهمها إلى 270 وون. المصدر: hankyung.com https://www.hankyung.com/article/2026050724151"
+      },
+      "hi": {
+        "title": "Kosdaq फंडिंग योजना रद्द होने से खुदरा निवेशकों को झटका, CB और शेयर बिक्री पर सतर्कता",
+        "excerpt": "Hankyung ने 7 मई 2026 को बताया कि Kosdaq कंपनियां पूंजी वृद्धि और कन्वर्टिबल बॉन्ड योजनाएं टालकर रद्द कर रही हैं, जिससे खुदरा निवेशकों को भारी नुकसान हो रहा है।",
+        "body": "Hankyung के अनुसार, 7 मई 2026 को Kosdaq बाजार में ऐसे मामले बार-बार दिख रहे हैं जिनमें सूचीबद्ध कंपनियां तीसरे पक्ष को शेयर आवंटन या कन्वर्टिबल बॉन्ड (CB) जारी करने की फंडिंग योजना घोषित करती हैं, महीनों तक टालती हैं और फिर वापस ले लेती हैं। iToxi ने 30 अप्रैल को 10 अरब वॉन की तीसरे पक्ष वाली पूंजी वृद्धि रद्द की और पिछले नवंबर में 4 अरब वॉन के निजी CB जारी करने का फैसला भी वापस लिया था। इसका शेयर पिछले साल जुलाई की शुरुआत में 5,863 वॉन से ट्रेडिंग रुकने के समय 312 वॉन तक गिरा। Pintel ने भी लगभग पांच महीने बाद 7.1 अरब वॉन की पूंजी वृद्धि और 20 अरब वॉन की CB योजना वापस ली, और शेयर 1,821 वॉन के 52-सप्ताह निचले स्तर पर पहुंचा। Corpus Korea ने 28 अरब वॉन की योजना वापस ली, जिसके बाद शेयर 270 वॉन तक गिरा। स्रोत: hankyung.com https://www.hankyung.com/article/2026050724151"
+      },
+      "id": {
+        "title": "Pembatalan pendanaan Kosdaq tekan investor ritel, risiko CB dan rights issue meningkat",
+        "excerpt": "Hankyung melaporkan pada 7 Mei 2026 bahwa emiten Kosdaq menunda lalu membatalkan rencana penambahan modal dan obligasi konversi, memicu kerugian investor ritel.",
+        "body": "Menurut Hankyung, pada 7 Mei 2026 kasus berulang terjadi di pasar Kosdaq ketika emiten mengumumkan penempatan saham pihak ketiga atau penerbitan obligasi konversi (CB), menundanya selama berbulan-bulan, lalu menarik rencana tersebut. iToxi membatalkan penambahan modal 10 miliar won pada 30 April dan sebelumnya juga membatalkan penerbitan CB privat 4 miliar won pada November. Sahamnya jatuh dari 5.863 won pada awal Juli tahun lalu menjadi 312 won saat perdagangan dihentikan. Pintel menarik rencana penambahan modal 7,1 miliar won dan CB 20 miliar won setelah sekitar lima bulan; sahamnya turun ke level terendah 52 minggu di 1.821 won. Corpus Korea menarik rencana pendanaan 28 miliar won, lalu sahamnya turun ke 270 won. Sumber: hankyung.com https://www.hankyung.com/article/2026050724151"
+      }
+    }
+  },
+  {
     "id": "f74a5634cbfa",
     "slug": "kcc-분석-실리콘-부진에-실적-기대-밑돌았지만-자산가치주주환원-부각-380876",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Galaxy Z Fold8 Wide Bocor Lewat Gambar Resmi Menjelang Rilis Juli",
         "excerpt": "Samsung dijadwalkan memperkenalkan Galaxy Z Fold8 dan Galaxy Z Fold8 Wide pada Juli, setelah gambar resmi keduanya bocor dalam proses analisis perangkat lunak.",
         "body": "Gambar resmi smartphone lipat generasi berikutnya dari Samsung Electronics, ‘Galaxy Z Fold8’ dan ‘Galaxy Z Fold8 Wide’, bocor dalam proses analisis perangkat lunak menjelang peluncuran yang direncanakan pada Juli. Kebocoran yang baru-baru ini dilaporkan media teknologi itu menarik perhatian karena memberi petunjuk tentang desain produk sebenarnya. Minat juga meningkat setelah nama model ‘Wide’ muncul bersama model Fold8 standar. Namun, karena perangkat belum diumumkan secara resmi, informasi yang terkonfirmasi terbatas pada kebocoran gambar resmi dan rencana pengenalan pada Juli. Di tengah persaingan smartphone lipat yang berlanjut, respons pasar terhadap model baru Samsung akan menjadi perhatian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "eb6193596573",
-    "slug": "한투운용-ace-엔비디아밸류체인액티브-etf-순자산-2500억-돌파-776792",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T01:09:10.272Z",
-    "updatedAt": "2026-05-07T01:09:10.272Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050707266",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050707266",
-    "titleFingerprint": "ab4c6e79331ff862c8714a44be18ce104c77e4ba",
-    "dedupKeys": [
-      "eb6193596573774852ef358794eaaa73324554e2",
-      "ab4c6e79331ff862c8714a44be18ce104c77e4ba",
-      "401bed49748e23b626715d37dd82c10a62c2d0fa"
-    ],
-    "imageUrl": "/images/articles/eb6193596573.jpg",
-    "i18n": {
-      "ko": {
-        "title": "ACE 엔비디아밸류체인액티브 ETF, 순자산 2500억 돌파",
-        "excerpt": "한국투자신탁운용의 ‘ACE 엔비디아밸류체인액티브’ ETF 순자산이 2500억원을 넘어섰다고 hankyung.com이 전했다.",
-        "body": "한국투자신탁운용의 ‘ACE 엔비디아밸류체인액티브’ ETF 순자산이 2500억원을 돌파했다. 해당 상품은 엔비디아 밸류체인에 초점을 둔 액티브 ETF로, 순자산 규모가 2500억원을 넘어섰다는 점이 핵심이다. 이번 수치는 관련 ETF에 대한 시장 관심을 보여주는 지표로 해석될 수 있으나, 원문에서 추가 운용 성과나 세부 편입 종목, 향후 전망은 제시되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "ACE Nvidia Value Chain Active ETF Assets Top 250 Billion Won",
-        "excerpt": "Korea Investment Management’s ACE Nvidia Value Chain Active ETF has exceeded 250 billion won in net assets, hankyung.com reported.",
-        "body": "Korea Investment Management’s ACE Nvidia Value Chain Active ETF has surpassed 250 billion won in net assets. The product is an active ETF focused on Nvidia’s value chain, and the key reported figure is that its net asset size has moved beyond the 250 billion won mark. The milestone indicates market attention toward the related ETF, but the original report did not provide additional performance data, detailed holdings, or a future outlook. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ACEエヌビディア・バリューチェーンETF、純資産2500億ウォン突破",
-        "excerpt": "韓国投資信託運用の「ACEエヌビディア・バリューチェーン・アクティブ」ETFの純資産が2500億ウォンを超えたとhankyung.comが伝えた。",
-        "body": "韓国投資信託運用の「ACEエヌビディア・バリューチェーン・アクティブ」ETFの純資産が2500億ウォンを突破した。同商品はエヌビディアのバリューチェーンに焦点を当てたアクティブETFで、純資産規模が2500億ウォンを超えたことが今回の主な内容だ。この数値は関連ETFへの市場の関心を示す指標とみられるが、原文では追加の運用成績、具体的な組入銘柄、今後の見通しは示されていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "ACE英伟达价值链主动ETF净资产突破2500亿韩元",
-        "excerpt": "hankyung.com报道称，韩国投资信托运用旗下“ACE英伟达价值链主动”ETF净资产已超过2500亿韩元。",
-        "body": "韩国投资信托运用旗下“ACE英伟达价值链主动”ETF净资产突破2500亿韩元。该产品是聚焦英伟达价值链的主动型ETF，本次报道的核心信息是其净资产规模已超过2500亿韩元。这一数字可被视为市场对相关ETF关注度的体现，但原文未提供更多运用业绩、具体持仓或未来展望。来源: hankyung.com"
-      },
-      "es": {
-        "title": "ETF ACE Nvidia Value Chain Active supera 250.000 millones de wones",
-        "excerpt": "El ETF ACE Nvidia Value Chain Active de Korea Investment Management superó los 250.000 millones de wones en activos netos, informó hankyung.com.",
-        "body": "El ETF ACE Nvidia Value Chain Active de Korea Investment Management superó los 250.000 millones de wones en activos netos. El producto es un ETF activo centrado en la cadena de valor de Nvidia, y el dato principal informado es que su tamaño de activos netos rebasó ese umbral. La cifra puede interpretarse como una señal de interés del mercado por este ETF, aunque el texto original no ofreció datos adicionales de rendimiento, composición detallada ni perspectivas futuras. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "ETF ACE Nvidia Value Chain Active supera 250 bilhões de wons",
-        "excerpt": "O ETF ACE Nvidia Value Chain Active, da Korea Investment Management, ultrapassou 250 bilhões de wons em ativos líquidos, informou o hankyung.com.",
-        "body": "O ETF ACE Nvidia Value Chain Active, da Korea Investment Management, ultrapassou 250 bilhões de wons em ativos líquidos. O produto é um ETF ativo focado na cadeia de valor da Nvidia, e o principal dado divulgado é que seu patrimônio líquido passou desse patamar. O número pode ser visto como um indicador de interesse do mercado pelo ETF relacionado, mas o texto original não apresentou desempenho adicional, composição detalhada da carteira ou perspectivas futuras. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "ACE Nvidia Value Chain Active ETF überschreitet 250 Mrd. Won",
-        "excerpt": "Der ACE Nvidia Value Chain Active ETF von Korea Investment Management hat laut hankyung.com ein Nettovermögen von über 250 Milliarden Won erreicht.",
-        "body": "Der ACE Nvidia Value Chain Active ETF von Korea Investment Management hat ein Nettovermögen von mehr als 250 Milliarden Won erreicht. Das Produkt ist ein aktiver ETF mit Fokus auf die Nvidia-Wertschöpfungskette; die zentrale gemeldete Kennzahl ist das Überschreiten dieser Vermögensmarke. Der Wert kann als Hinweis auf Marktinteresse an dem entsprechenden ETF gelten, doch der Originalbericht nannte keine weiteren Performance-Daten, detaillierten Positionen oder Zukunftsaussichten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "L’ETF ACE Nvidia Value Chain Active dépasse 250 Mds de wons",
-        "excerpt": "L’ETF ACE Nvidia Value Chain Active de Korea Investment Management a dépassé 250 milliards de wons d’actifs nets, selon hankyung.com.",
-        "body": "L’ETF ACE Nvidia Value Chain Active de Korea Investment Management a dépassé 250 milliards de wons d’actifs nets. Ce produit est un ETF actif axé sur la chaîne de valeur de Nvidia, et l’information principale porte sur le franchissement de ce seuil d’actifs nets. Ce chiffre peut être considéré comme un indicateur de l’intérêt du marché pour cet ETF, mais l’article original ne fournit pas de données de performance supplémentaires, de détail des positions ni de perspectives futures. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صافي أصول ETF ACE Nvidia Value Chain Active يتجاوز 250 مليار وون",
-        "excerpt": "تجاوز صافي أصول صندوق ACE Nvidia Value Chain Active ETF التابع لـKorea Investment Management مستوى 250 مليار وون، وفق ما نقل موقع hankyung.com.",
-        "body": "تجاوز صافي أصول صندوق ACE Nvidia Value Chain Active ETF التابع لـKorea Investment Management مستوى 250 مليار وون. ويركز هذا الصندوق النشط المتداول على سلسلة قيمة إنفيديا، وتتمثل المعلومة الأساسية في أن حجم صافي أصوله تخطى هذا المستوى. ويمكن اعتبار الرقم مؤشرا على اهتمام السوق بالصندوق المرتبط، لكن النص الأصلي لم يقدم بيانات أداء إضافية أو تفاصيل مكونات أو توقعات مستقبلية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "ACE Nvidia Value Chain Active ETF की संपत्ति 250 अरब वॉन से ऊपर",
-        "excerpt": "Korea Investment Management के ACE Nvidia Value Chain Active ETF की शुद्ध संपत्ति 250 अरब वॉन से अधिक हो गई है, hankyung.com ने बताया।",
-        "body": "Korea Investment Management के ACE Nvidia Value Chain Active ETF की शुद्ध संपत्ति 250 अरब वॉन से अधिक हो गई है। यह उत्पाद Nvidia की वैल्यू चेन पर केंद्रित एक सक्रिय ETF है, और रिपोर्ट की मुख्य जानकारी यही है कि इसकी शुद्ध संपत्ति इस स्तर को पार कर गई। यह आंकड़ा संबंधित ETF में बाजार की रुचि का संकेत माना जा सकता है, लेकिन मूल रिपोर्ट में अतिरिक्त प्रदर्शन, विस्तृत होल्डिंग या भविष्य के अनुमान नहीं दिए गए। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "ETF ACE Nvidia Value Chain Active Tembus Aset Bersih 250 Miliar Won",
-        "excerpt": "ETF ACE Nvidia Value Chain Active milik Korea Investment Management melampaui aset bersih 250 miliar won, menurut laporan hankyung.com.",
-        "body": "ETF ACE Nvidia Value Chain Active milik Korea Investment Management telah melampaui aset bersih 250 miliar won. Produk ini merupakan ETF aktif yang berfokus pada rantai nilai Nvidia, dan angka utama yang dilaporkan adalah ukuran aset bersihnya yang melewati ambang tersebut. Capaian ini dapat dibaca sebagai indikator minat pasar terhadap ETF terkait, tetapi laporan asli tidak memuat data kinerja tambahan, rincian kepemilikan, atau prospek ke depan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "85dd97b0b690",
-    "slug": "당신은-5분-뒤-실신합니다삼성전자-갤럭시워치로-예측한다-608254",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T01:08:25.941Z",
-    "updatedAt": "2026-05-07T01:08:25.941Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12038848",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12038848",
-    "titleFingerprint": "2adb13ece454c04bd8877ced016cc2f696bd2eb0",
-    "dedupKeys": [
-      "85dd97b0b69016f90b4a23d00b3c35f65dbd13cc",
-      "2adb13ece454c04bd8877ced016cc2f696bd2eb0",
-      "d4f1264ee431a2ea6f3be1ecac3c69c2b7e8ccc8"
-    ],
-    "imageUrl": "/images/articles/85dd97b0b690.jpg",
-    "i18n": {
-      "ko": {
-        "title": "갤럭시워치로 미주신경성 실신 5분 전 예측, 정확도 84.6% 연구 발표",
-        "excerpt": "삼성전자와 중앙대광명병원 공동 연구진이 스마트워치로 미주신경성 실신을 5분 전 예측할 가능성을 확인하고, 정확도 84.6% 결과를 유럽심장학회 학술지에 게재했다.",
-        "body": "삼성전자와 중앙대광명병원 공동 연구진이 갤럭시워치 등 스마트워치를 활용해 미주신경성 실신을 사전에 예측할 가능성을 확인했다. 연구진은 실신 발생 5분 전 예측 정확도가 84.6%에 이른다는 결과를 제시했으며, 해당 연구는 유럽심장학회 학술지에 게재됐다. 스마트워치를 활용해 실신 예측 가능성을 밝힌 세계 최초 연구 사례로 소개됐다. 이번 결과는 웨어러블 기기가 건강 이상 신호를 조기에 포착하는 의료 보조 도구로 활용될 수 있음을 보여준다. 다만 연구는 예측 가능성을 확인한 단계로, 실제 서비스 적용 여부와 범위는 추가 검증이 필요하다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Galaxy Watch Study Predicts Vasovagal Syncope 5 Minutes Early With 84.6% Accuracy",
-        "excerpt": "Samsung Electronics and Chung-Ang University Gwangmyeong Hospital reported that smartwatch data may predict vasovagal syncope five minutes in advance with 84.6% accuracy.",
-        "body": "Samsung Electronics and Chung-Ang University Gwangmyeong Hospital have confirmed the possibility of predicting vasovagal syncope in advance using smartwatches such as the Galaxy Watch. The research team reported 84.6% accuracy in predicting fainting five minutes before occurrence, and the study was published in a journal of the European Society of Cardiology. It was introduced as the world’s first study to show the possibility of syncope prediction using a smartwatch. The findings suggest that wearable devices could serve as medical support tools for detecting early signs of health abnormalities. However, the study remains at the stage of confirming predictive potential, and further validation is needed before any real-world service application. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "Galaxy Watchで血管迷走神経性失神を5分前に予測、精度84.6%の研究",
-        "excerpt": "サムスン電子と中央大学光明病院の共同研究陣が、スマートウォッチで血管迷走神経性失神を5分前に予測できる可能性を確認し、精度84.6%の結果を発表した。",
-        "body": "サムスン電子と中央大学光明病院の共同研究陣は、Galaxy Watchなどのスマートウォッチを活用し、血管迷走神経性失神を事前に予測できる可能性を確認した。研究陣は失神発生5分前の予測精度が84.6%に達したとの結果を示し、この研究は欧州心臓病学会の学術誌に掲載された。スマートウォッチを使って失神予測の可能性を示した世界初の研究事例として紹介されている。今回の結果は、ウェアラブル機器が健康異常の兆候を早期に捉える医療補助ツールとして活用され得ることを示す。ただし、研究は予測可能性を確認した段階であり、実際のサービス適用の可否と範囲には追加検証が必要だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Galaxy Watch可提前5分钟预测血管迷走性晕厥，研究准确率84.6%",
-        "excerpt": "三星电子与中央大学光明医院共同研究团队确认，智能手表有望提前5分钟预测血管迷走性晕厥，准确率达84.6%，研究发表于欧洲心脏病学会期刊。",
-        "body": "三星电子与中央大学光明医院共同研究团队确认，利用Galaxy Watch等智能手表有可能提前预测血管迷走性晕厥。研究团队提出，晕厥发生前5分钟的预测准确率达到84.6%，相关研究已刊登在欧洲心脏病学会学术期刊上。该成果被介绍为全球首个利用智能手表揭示晕厥预测可能性的研究案例。此次结果显示，可穿戴设备或可作为医疗辅助工具，用于及早捕捉健康异常信号。不过，该研究仍处于确认预测可能性的阶段，实际服务应用与适用范围仍需进一步验证。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Galaxy Watch predice síncope vasovagal 5 minutos antes con 84,6% de precisión",
-        "excerpt": "Samsung Electronics y el Hospital Chung-Ang University Gwangmyeong confirmaron que un smartwatch podría predecir el síncope vasovagal cinco minutos antes con 84,6% de precisión.",
-        "body": "Samsung Electronics y el Hospital Chung-Ang University Gwangmyeong confirmaron la posibilidad de predecir con antelación el síncope vasovagal mediante smartwatches como el Galaxy Watch. El equipo informó una precisión del 84,6% al predecir el desmayo cinco minutos antes de que ocurra, y el estudio fue publicado en una revista de la Sociedad Europea de Cardiología. Fue presentado como el primer caso de investigación en el mundo que demuestra la posibilidad de predecir síncopes con un smartwatch. El resultado indica que los dispositivos wearables podrían utilizarse como herramientas médicas de apoyo para detectar señales tempranas de anomalías de salud. No obstante, el estudio aún confirma solo la posibilidad predictiva, por lo que se requiere validación adicional para su aplicación real. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Galaxy Watch prevê síncope vasovagal 5 minutos antes com 84,6% de precisão",
-        "excerpt": "Samsung Electronics e Hospital Chung-Ang University Gwangmyeong confirmaram que um smartwatch pode prever síncope vasovagal cinco minutos antes, com precisão de 84,6%.",
-        "body": "A Samsung Electronics e o Hospital Chung-Ang University Gwangmyeong confirmaram a possibilidade de prever antecipadamente a síncope vasovagal usando smartwatches como o Galaxy Watch. A equipe de pesquisa apresentou uma precisão de 84,6% na previsão do desmaio cinco minutos antes de sua ocorrência, e o estudo foi publicado em uma revista da Sociedade Europeia de Cardiologia. O trabalho foi apresentado como o primeiro caso de pesquisa no mundo a demonstrar a possibilidade de prever síncope com um smartwatch. O resultado mostra que dispositivos vestíveis podem ser usados como ferramentas médicas de apoio para detectar sinais precoces de anormalidades de saúde. Ainda assim, o estudo está na fase de confirmação da possibilidade preditiva, exigindo validação adicional para aplicação real. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Galaxy Watch sagt vasovagale Synkope 5 Minuten vorher mit 84,6% Genauigkeit voraus",
-        "excerpt": "Samsung Electronics und das Chung-Ang University Gwangmyeong Hospital haben gezeigt, dass Smartwatches eine vasovagale Synkope fünf Minuten vorher mit 84,6% Genauigkeit vorhersagen könnten.",
-        "body": "Samsung Electronics und das Chung-Ang University Gwangmyeong Hospital haben bestätigt, dass vasovagale Synkopen mithilfe von Smartwatches wie der Galaxy Watch möglicherweise im Voraus vorhergesagt werden können. Das Forschungsteam berichtete eine Genauigkeit von 84,6% bei der Vorhersage eines Ohnmachtsanfalls fünf Minuten vor dessen Auftreten. Die Studie wurde in einer Fachzeitschrift der Europäischen Gesellschaft für Kardiologie veröffentlicht. Sie wurde als weltweit erste Studie vorgestellt, die die Möglichkeit einer Synkopenvorhersage per Smartwatch aufzeigt. Die Ergebnisse deuten darauf hin, dass Wearables als medizinische Hilfsmittel zur frühen Erkennung gesundheitlicher Warnsignale genutzt werden könnten. Die Studie bestätigt jedoch zunächst nur das Vorhersagepotenzial; für eine reale Anwendung sind weitere Prüfungen nötig. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Galaxy Watch prédit la syncope vasovagale 5 minutes avant avec 84,6% de précision",
-        "excerpt": "Samsung Electronics et l’hôpital Chung-Ang University Gwangmyeong ont confirmé qu’une smartwatch pourrait prédire une syncope vasovagale cinq minutes avant, avec 84,6% de précision.",
-        "body": "Samsung Electronics et l’hôpital Chung-Ang University Gwangmyeong ont confirmé la possibilité de prédire à l’avance une syncope vasovagale à l’aide de smartwatches comme la Galaxy Watch. L’équipe de recherche a présenté un taux de précision de 84,6% pour une prédiction cinq minutes avant l’évanouissement, et l’étude a été publiée dans une revue de la Société européenne de cardiologie. Elle est présentée comme le premier cas de recherche au monde montrant la possibilité de prédire une syncope avec une smartwatch. Ces résultats indiquent que les dispositifs portables pourraient servir d’outils médicaux d’assistance pour détecter tôt des signaux anormaux de santé. Toutefois, l’étude en est au stade de la confirmation du potentiel prédictif, et une validation supplémentaire reste nécessaire avant une application réelle. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ساعة Galaxy Watch تتنبأ بالإغماء الوعائي المبهمي قبل 5 دقائق بدقة 84.6%",
-        "excerpt": "أكدت سامسونغ إلكترونيكس ومستشفى جامعة تشونغ أنغ غوانغميونغ أن الساعات الذكية قد تتنبأ بالإغماء الوعائي المبهمي قبل خمس دقائق بدقة 84.6%.",
-        "body": "أكدت سامسونغ إلكترونيكس ومستشفى جامعة تشونغ أنغ غوانغميونغ إمكانية التنبؤ مسبقا بالإغماء الوعائي المبهمي باستخدام ساعات ذكية مثل Galaxy Watch. وذكر فريق البحث أن دقة التنبؤ بالإغماء قبل حدوثه بخمس دقائق بلغت 84.6%، ونشرت الدراسة في مجلة تابعة للجمعية الأوروبية لأمراض القلب. وقدمت الدراسة بوصفها أول حالة بحثية في العالم تكشف إمكانية التنبؤ بالإغماء عبر ساعة ذكية. وتشير النتائج إلى أن الأجهزة القابلة للارتداء يمكن أن تستخدم كأدوات مساعدة طبية لرصد الإشارات المبكرة لاضطرابات صحية. ومع ذلك، لا تزال الدراسة في مرحلة تأكيد إمكانية التنبؤ، ويتطلب تطبيقها الفعلي ونطاق استخدامها مزيدا من التحقق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Galaxy Watch से वासोवेगल बेहोशी की 5 मिनट पहले भविष्यवाणी, सटीकता 84.6%",
-        "excerpt": "Samsung Electronics और Chung-Ang University Gwangmyeong Hospital ने बताया कि स्मार्टवॉच वासोवेगल बेहोशी को पांच मिनट पहले 84.6% सटीकता से पहचान सकती है।",
-        "body": "Samsung Electronics और Chung-Ang University Gwangmyeong Hospital के संयुक्त शोध दल ने Galaxy Watch जैसी स्मार्टवॉच का उपयोग कर वासोवेगल बेहोशी का पहले से अनुमान लगाने की संभावना की पुष्टि की है। शोध दल ने बताया कि बेहोशी होने से पांच मिनट पहले की भविष्यवाणी में 84.6% सटीकता मिली, और यह अध्ययन European Society of Cardiology की पत्रिका में प्रकाशित हुआ। इसे स्मार्टवॉच के जरिए बेहोशी की भविष्यवाणी की संभावना दिखाने वाला दुनिया का पहला शोध मामला बताया गया है। यह परिणाम दिखाता है कि पहनने योग्य उपकरण स्वास्थ्य संबंधी असामान्य संकेतों को जल्दी पकड़ने वाले चिकित्सा सहायक उपकरण बन सकते हैं। हालांकि, अध्ययन अभी भविष्यवाणी की संभावना की पुष्टि के चरण में है, इसलिए वास्तविक सेवा में उपयोग और दायरे के लिए अतिरिक्त सत्यापन आवश्यक है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Galaxy Watch Prediksi Sinkop Vasovagal 5 Menit Lebih Awal, Akurasi 84,6%",
-        "excerpt": "Samsung Electronics dan Chung-Ang University Gwangmyeong Hospital menyatakan smartwatch berpotensi memprediksi sinkop vasovagal lima menit sebelumnya dengan akurasi 84,6%.",
-        "body": "Samsung Electronics dan Chung-Ang University Gwangmyeong Hospital mengonfirmasi kemungkinan memprediksi sinkop vasovagal lebih awal menggunakan smartwatch seperti Galaxy Watch. Tim peneliti menyampaikan bahwa akurasi prediksi lima menit sebelum pingsan mencapai 84,6%, dan studi tersebut diterbitkan di jurnal European Society of Cardiology. Penelitian ini diperkenalkan sebagai studi pertama di dunia yang menunjukkan kemungkinan prediksi sinkop menggunakan smartwatch. Hasil ini menunjukkan perangkat wearable dapat digunakan sebagai alat bantu medis untuk menangkap sinyal awal gangguan kesehatan. Namun, penelitian ini masih berada pada tahap konfirmasi potensi prediksi, sehingga penerapan layanan nyata dan cakupannya memerlukan verifikasi tambahan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "8c309e2a45fe",
-    "slug": "에너지-효율-45배lg전자-일체형-히트펌프-시스템-보일러-출시-326309",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T01:07:29.261Z",
-    "updatedAt": "2026-05-07T01:07:29.261Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12038867",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12038867",
-    "titleFingerprint": "e45f1624d3a5c4d2d6e977977ba8e3066eb519fd",
-    "dedupKeys": [
-      "8c309e2a45fe270916f5799999b3e925cd54c2d7",
-      "e45f1624d3a5c4d2d6e977977ba8e3066eb519fd",
-      "1d31198d8f86a9d2cd26ebf2c6f6027be04109d0"
-    ],
-    "imageUrl": "/images/articles/8c309e2a45fe.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LG전자 일체형 히트펌프 보일러 출시, 에너지 효율 4~5배 앞세워 난방 전기화 가속",
-        "excerpt": "LG전자가 유럽에서 검증한 히트펌프 기술을 기반으로 일체형 히트펌프 시스템 보일러를 국내에 출시하며 화석연료 대비 40~60% 에너지 절감을 내세웠다.",
-        "body": "LG전자가 일체형 히트펌프 시스템 보일러를 출시하며 국내 난방 전기화 사업에 속도를 낸다. 히트펌프의 본고장으로 꼽히는 유럽에서 입증한 기술력을 바탕으로, 국내 난방 시장에서 전기 기반 고효율 솔루션을 확대하려는 움직임이다. 이번 제품은 에너지 효율이 기존 난방 방식 대비 4~5배 수준으로 소개됐으며, 기존 화석연료 사용 방식과 비교해 40~60%의 에너지 절감 효과를 낼 수 있다는 점이 핵심이다. LG전자는 이를 통해 난방 부문의 전기화 수요에 대응하고 고효율 시스템 보일러 시장에서 입지를 넓힐 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LG Electronics Launches All-in-One Heat Pump Boiler, Targeting 4-5x Energy Efficiency",
-        "excerpt": "LG Electronics has launched an all-in-one heat pump system boiler in Korea, citing European-proven technology and 40-60% energy savings versus fossil-fuel heating.",
-        "body": "LG Electronics is accelerating its domestic heating electrification business with the launch of an all-in-one heat pump system boiler. The company is using technology proven in Europe, widely regarded as the home market of heat pumps, to expand high-efficiency electric heating solutions in Korea. The product is presented as offering energy efficiency 4 to 5 times higher than conventional heating methods, with claimed energy savings of 40% to 60% compared with existing fossil-fuel systems. Through the launch, LG Electronics aims to respond to demand for electrified heating and strengthen its position in the high-efficiency system boiler market. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LG電子、一体型ヒートポンプボイラー発売　エネルギー効率4～5倍で暖房電化を加速",
-        "excerpt": "LG電子は欧州で実証したヒートポンプ技術を基に、一体型ヒートポンプシステムボイラーを韓国で発売し、化石燃料比40～60％の省エネを掲げた。",
-        "body": "LG電子は一体型ヒートポンプシステムボイラーを発売し、韓国国内の暖房電化事業を加速する。ヒートポンプの本場とされる欧州で実証した技術力を前面に出し、韓国の暖房市場で電気ベースの高効率ソリューションを広げる動きだ。今回の製品は、従来の暖房方式に比べてエネルギー効率が4～5倍水準と紹介され、既存の化石燃料方式と比べて40～60％のエネルギー削減効果が見込める点が核心だ。LG電子はこれにより暖房分野の電化需要に対応し、高効率システムボイラー市場での存在感を高める見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "LG电子推出一体式热泵锅炉，以4至5倍能效加速供暖电气化",
-        "excerpt": "LG电子基于在欧洲验证的热泵技术，在韩国推出一体式热泵系统锅炉，主打较化石燃料供暖节能40%至60%。",
-        "body": "LG电子推出一体式热泵系统锅炉，加快韩国国内供暖电气化业务。公司以在被视为热泵本土市场的欧洲验证过的技术为基础，计划在韩国供暖市场扩大电力驱动的高效解决方案。此次产品被介绍为能源效率达到传统供暖方式的4至5倍，与现有化石燃料使用方式相比，可实现40%至60%的能源节约，这是其核心卖点。LG电子预计将借此应对供暖领域的电气化需求，并在高效系统锅炉市场扩大影响力。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "LG Electronics lanza caldera integral con bomba de calor y promete 4-5 veces más eficiencia",
-        "excerpt": "LG Electronics lanzó en Corea una caldera integral con bomba de calor, apoyada en tecnología probada en Europa, con ahorros de energía del 40-60% frente a combustibles fósiles.",
-        "body": "LG Electronics acelera su negocio de electrificación de la calefacción en Corea con el lanzamiento de una caldera integral de sistema con bomba de calor. La compañía se apoya en tecnología validada en Europa, considerada la cuna de las bombas de calor, para ampliar soluciones eléctricas de alta eficiencia en el mercado coreano de calefacción. El producto se presenta con una eficiencia energética 4 a 5 veces superior a la de los métodos convencionales y con un ahorro de energía del 40% al 60% frente a sistemas existentes basados en combustibles fósiles. Con este lanzamiento, LG Electronics busca responder a la demanda de calefacción electrificada y reforzar su posición en calderas de sistema de alta eficiencia. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "LG Electronics lança caldeira integrada com bomba de calor e mira eficiência 4-5 vezes maior",
-        "excerpt": "A LG Electronics lançou na Coreia uma caldeira integrada com bomba de calor, baseada em tecnologia testada na Europa, com economia de 40-60% ante combustíveis fósseis.",
-        "body": "A LG Electronics está acelerando seu negócio de eletrificação do aquecimento na Coreia com o lançamento de uma caldeira integrada de sistema com bomba de calor. A empresa usa tecnologia comprovada na Europa, considerada o berço das bombas de calor, para ampliar soluções elétricas de alta eficiência no mercado coreano de aquecimento. O produto é apresentado com eficiência energética 4 a 5 vezes maior que a dos métodos convencionais e com economia de energia de 40% a 60% em comparação com sistemas existentes movidos a combustíveis fósseis. Com a novidade, a LG Electronics pretende atender à demanda por aquecimento eletrificado e ampliar sua presença no mercado de caldeiras de sistema de alta eficiência. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LG Electronics bringt integrierten Wärmepumpenboiler und setzt auf 4-5-fache Energieeffizienz",
-        "excerpt": "LG Electronics startet in Korea einen integrierten Wärmepumpen-Systemboiler auf Basis in Europa bewährter Technik und nennt 40-60% Energieersparnis gegenüber fossilen Brennstoffen.",
-        "body": "LG Electronics beschleunigt sein Geschäft mit der Elektrifizierung von Heizungen in Korea durch die Einführung eines integrierten Wärmepumpen-Systemboilers. Das Unternehmen stützt sich auf Technologie, die in Europa, dem Kernmarkt für Wärmepumpen, erprobt wurde, und will damit hocheffiziente elektrische Heizlösungen im koreanischen Markt ausbauen. Das Produkt wird mit einer Energieeffizienz beschrieben, die 4- bis 5-mal höher liegt als bei herkömmlichen Heizmethoden. Gegenüber bestehenden Systemen auf Basis fossiler Brennstoffe sollen 40% bis 60% Energie eingespart werden. LG Electronics will damit die Nachfrage nach elektrifizierter Heizung bedienen und seine Position im Markt für hocheffiziente Systemboiler stärken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "LG Electronics lance une chaudière intégrée à pompe à chaleur, avec une efficacité 4 à 5 fois supérieure",
-        "excerpt": "LG Electronics lance en Corée une chaudière système intégrée à pompe à chaleur, fondée sur une technologie éprouvée en Europe, avec 40-60% d’économie d’énergie face aux combustibles fossiles.",
-        "body": "LG Electronics accélère son activité d’électrification du chauffage en Corée avec le lancement d’une chaudière système intégrée à pompe à chaleur. L’entreprise met en avant une technologie éprouvée en Europe, considérée comme le berceau des pompes à chaleur, afin d’élargir les solutions de chauffage électrique à haute efficacité sur le marché coréen. Le produit est présenté comme offrant une efficacité énergétique 4 à 5 fois supérieure aux méthodes de chauffage classiques, avec une économie d’énergie de 40% à 60% par rapport aux systèmes existants utilisant des combustibles fossiles. LG Electronics entend ainsi répondre à la demande d’électrification du chauffage et renforcer sa position sur le marché des chaudières système à haute efficacité. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إل جي إلكترونيكس تطلق غلاية بمضخة حرارية متكاملة بكفاءة طاقة أعلى 4 إلى 5 مرات",
-        "excerpt": "أطلقت إل جي إلكترونيكس في كوريا غلاية نظام متكاملة بمضخة حرارية، مستندة إلى تقنية مثبتة في أوروبا، مع توفير طاقة 40-60% مقارنة بالوقود الأحفوري.",
-        "body": "تسرع إل جي إلكترونيكس أعمال كهربة التدفئة في كوريا عبر إطلاق غلاية نظام متكاملة تعمل بمضخة حرارية. وتستند الشركة إلى تقنية أثبتت كفاءتها في أوروبا، التي تعد موطن مضخات الحرارة، لتوسيع حلول التدفئة الكهربائية عالية الكفاءة في السوق الكورية. ويُعرض المنتج على أنه يوفر كفاءة طاقة أعلى بنحو 4 إلى 5 مرات من طرق التدفئة التقليدية، مع إمكانية خفض استهلاك الطاقة بنسبة 40% إلى 60% مقارنة بالأنظمة الحالية المعتمدة على الوقود الأحفوري. ومن خلال هذا الإطلاق، تسعى إل جي إلكترونيكس إلى تلبية الطلب على كهربة التدفئة وتعزيز موقعها في سوق غلايات الأنظمة عالية الكفاءة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "LG Electronics ने ऑल-इन-वन हीट पंप बॉयलर लॉन्च किया, 4-5 गुना ऊर्जा दक्षता पर जोर",
-        "excerpt": "LG Electronics ने कोरिया में यूरोप में प्रमाणित हीट पंप तकनीक आधारित ऑल-इन-वन सिस्टम बॉयलर लॉन्च किया, जो जीवाश्म ईंधन की तुलना में 40-60% ऊर्जा बचत का दावा करता है।",
-        "body": "LG Electronics ने ऑल-इन-वन हीट पंप सिस्टम बॉयलर लॉन्च कर कोरिया में हीटिंग के विद्युतीकरण कारोबार को तेज किया है। कंपनी हीट पंप के प्रमुख बाजार माने जाने वाले यूरोप में प्रमाणित तकनीक के आधार पर कोरियाई हीटिंग बाजार में उच्च दक्षता वाले बिजली आधारित समाधान बढ़ाना चाहती है। इस उत्पाद को पारंपरिक हीटिंग तरीकों की तुलना में 4 से 5 गुना ऊर्जा दक्षता वाला बताया गया है। मौजूदा जीवाश्म ईंधन आधारित प्रणालियों की तुलना में इससे 40% से 60% तक ऊर्जा बचत हो सकती है। इस लॉन्च के जरिए LG Electronics हीटिंग विद्युतीकरण की मांग का जवाब देने और उच्च दक्षता सिस्टम बॉयलर बाजार में अपनी स्थिति मजबूत करने की तैयारी में है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "LG Electronics Rilis Boiler Heat Pump Terpadu, Andalkan Efisiensi Energi 4-5 Kali Lipat",
-        "excerpt": "LG Electronics meluncurkan boiler sistem heat pump terpadu di Korea, berbasis teknologi yang terbukti di Eropa, dengan penghematan energi 40-60% dibanding bahan bakar fosil.",
-        "body": "LG Electronics mempercepat bisnis elektrifikasi pemanas di Korea dengan meluncurkan boiler sistem heat pump terpadu. Perusahaan mengandalkan teknologi yang telah terbukti di Eropa, yang dikenal sebagai pasar utama heat pump, untuk memperluas solusi pemanas listrik berefisiensi tinggi di pasar Korea. Produk ini diperkenalkan memiliki efisiensi energi 4 hingga 5 kali lebih tinggi dibanding metode pemanas konvensional, serta mampu menghemat energi 40% hingga 60% dibanding sistem yang menggunakan bahan bakar fosil. Melalui peluncuran ini, LG Electronics akan merespons kebutuhan elektrifikasi pemanas dan memperkuat posisinya di pasar boiler sistem berefisiensi tinggi. Sumber: mk.co.kr"
       }
     }
   }
