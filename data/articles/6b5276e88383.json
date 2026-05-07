@@ -1,0 +1,75 @@
+{
+  "id": "6b5276e88383",
+  "slug": "ai에이전트-신뢰성-검증-티냅스-팁스-선정-630721",
+  "channelId": "FX",
+  "category": "fx",
+  "publishedAt": "2026-05-07T02:55:03.420Z",
+  "updatedAt": "2026-05-07T02:55:03.420Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/it/12038927",
+  "canonicalUrl": "https://www.mk.co.kr/news/it/12038927",
+  "titleFingerprint": "55beae8a3e384eb597bec751293ef333be8f873e",
+  "dedupKeys": [
+    "6b5276e883833ad8d15fee728f9887fc2114a273",
+    "55beae8a3e384eb597bec751293ef333be8f873e",
+    "ab4520df4fa99164adcd0cdf1020b39953fed7a9"
+  ],
+  "imageUrl": "/images/articles/6b5276e88383.jpg",
+  "i18n": {
+    "ko": {
+      "title": "AI 에이전트 신뢰성 검증 티냅스, 팁스 선정으로 은행권 검증 속도",
+      "excerpt": "AI 에이전트 신뢰성 검증 스타트업 티냅스가 매쉬업벤처스 추천으로 중소벤처기업부 팁스에 선정돼 환각·정보유출·탈옥 차단 기술 검증을 이어간다.",
+      "body": "AI 에이전트 신뢰성 검증 스타트업 티냅스가 매쉬업벤처스 추천을 받아 중소벤처기업부가 주관하는 팁스(TIPS)에 선정됐다. 티냅스는 AI 에이전트 이용 과정에서 발생할 수 있는 환각, 정보유출, 탈옥 등 위험 요소를 실시간으로 차단하는 기술을 개발하고 있다. 회사는 국내 주요 은행과 기술검증도 진행 중이다. 금융권처럼 보안과 신뢰성이 중요한 영역에서 AI 에이전트 도입이 확대되는 가운데, 티냅스의 팁스 선정은 기술 고도화와 시장 검증을 병행하는 계기가 될 전망이다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Tinaps Selected for TIPS as AI Agent Reliability Checks Advance With Banks",
+      "excerpt": "AI agent reliability startup Tinaps was selected for the MSS-run TIPS program on Mashup Ventures’ recommendation, while continuing verification of real-time risk blocking technology.",
+      "body": "Tinaps, a startup focused on AI agent reliability verification, has been selected for TIPS, a program run by South Korea’s Ministry of SMEs and Startups, on the recommendation of Mashup Ventures. Tinaps develops technology that blocks risks such as hallucinations, information leakage and jailbreak attempts in real time during AI agent use. The company is also conducting technology verification with major domestic banks. As AI agent adoption grows in sectors where security and trust are critical, including finance, the TIPS selection is expected to support both technology advancement and market validation. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "AIエージェント信頼性検証のTinaps、TIPS選定で銀行向け検証を加速",
+      "excerpt": "AIエージェント信頼性検証スタートアップのTinapsがMashup Venturesの推薦で中小ベンチャー企業部主管のTIPSに選定され、技術検証を続ける。",
+      "body": "AIエージェントの信頼性検証を手がけるスタートアップTinapsが、Mashup Venturesの推薦により、韓国中小ベンチャー企業部が主管するTIPSに選定された。Tinapsは、AIエージェントの利用過程で発生し得るハルシネーション、情報流出、脱獄などのリスクをリアルタイムで遮断する技術を開発している。同社は韓国国内の主要銀行とも技術検証を進めている。金融のようにセキュリティと信頼性が重視される領域でAIエージェント導入が広がる中、今回のTIPS選定は技術高度化と市場検証を並行する契機になる見通しだ。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "AI智能体可靠性验证企业Tinaps入选TIPS，推进银行技术验证",
+      "excerpt": "AI智能体可靠性验证初创企业Tinaps经Mashup Ventures推荐入选韩国中小风险企业部主管的TIPS，并继续验证实时风险拦截技术。",
+      "body": "专注于AI智能体可靠性验证的初创企业Tinaps，经Mashup Ventures推荐，入选韩国中小风险企业部主管的TIPS项目。Tinaps正在开发可在AI智能体使用过程中实时拦截幻觉、信息泄露和越狱等风险的技术。该公司还在与韩国主要银行推进技术验证。随着金融等对安全性和可靠性要求较高的领域扩大AI智能体应用，Tinaps此次入选TIPS预计将成为其同步推进技术升级和市场验证的契机。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Tinaps entra en TIPS y refuerza la verificación de agentes de IA con bancos",
+      "excerpt": "La startup Tinaps, centrada en verificar la fiabilidad de agentes de IA, fue seleccionada para TIPS por recomendación de Mashup Ventures y sigue validando su tecnología.",
+      "body": "Tinaps, startup dedicada a la verificación de fiabilidad de agentes de IA, fue seleccionada para TIPS, programa dirigido por el Ministerio de Pymes y Startups de Corea del Sur, por recomendación de Mashup Ventures. La empresa desarrolla tecnología para bloquear en tiempo real riesgos que pueden surgir al usar agentes de IA, como alucinaciones, filtraciones de información e intentos de jailbreak. Tinaps también realiza verificaciones tecnológicas con importantes bancos nacionales. A medida que crece la adopción de agentes de IA en áreas donde la seguridad y la confianza son esenciales, como las finanzas, la selección para TIPS puede apoyar el avance técnico y la validación de mercado. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Tinaps entra no TIPS e avança verificação de agentes de IA com bancos",
+      "excerpt": "A startup Tinaps, focada em verificar a confiabilidade de agentes de IA, foi selecionada para o TIPS por indicação da Mashup Ventures e segue validando sua tecnologia.",
+      "body": "A Tinaps, startup voltada à verificação de confiabilidade de agentes de IA, foi selecionada para o TIPS, programa conduzido pelo Ministério de PMEs e Startups da Coreia do Sul, por recomendação da Mashup Ventures. A empresa desenvolve tecnologia para bloquear em tempo real riscos que podem ocorrer no uso de agentes de IA, como alucinações, vazamento de informações e tentativas de jailbreak. A Tinaps também realiza verificações tecnológicas com grandes bancos nacionais. Com a expansão do uso de agentes de IA em áreas que exigem segurança e confiança, como o setor financeiro, a seleção para o TIPS deve apoiar o avanço tecnológico e a validação de mercado. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Tinaps für TIPS ausgewählt und prüft KI-Agenten-Technik mit Banken",
+      "excerpt": "Das Startup Tinaps für Zuverlässigkeitsprüfung von KI-Agenten wurde auf Empfehlung von Mashup Ventures für TIPS ausgewählt und setzt technische Validierungen fort.",
+      "body": "Tinaps, ein Startup für die Zuverlässigkeitsprüfung von KI-Agenten, wurde auf Empfehlung von Mashup Ventures für TIPS ausgewählt, ein Programm des südkoreanischen Ministeriums für KMU und Startups. Tinaps entwickelt Technologie, die Risiken beim Einsatz von KI-Agenten in Echtzeit blockiert, darunter Halluzinationen, Informationsabfluss und Jailbreak-Versuche. Das Unternehmen führt außerdem technische Validierungen mit großen inländischen Banken durch. Da KI-Agenten zunehmend in Bereichen eingesetzt werden, in denen Sicherheit und Vertrauen besonders wichtig sind, etwa im Finanzsektor, dürfte die TIPS-Auswahl die technologische Weiterentwicklung und Marktvalidierung unterstützen. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Tinaps sélectionnée pour TIPS et poursuit la vérification d’agents IA avec des banques",
+      "excerpt": "La startup Tinaps, spécialisée dans la fiabilité des agents IA, a été sélectionnée pour TIPS sur recommandation de Mashup Ventures et poursuit ses validations techniques.",
+      "body": "Tinaps, startup spécialisée dans la vérification de la fiabilité des agents IA, a été sélectionnée pour TIPS, programme piloté par le ministère sud-coréen des PME et des Startups, sur recommandation de Mashup Ventures. L’entreprise développe une technologie capable de bloquer en temps réel les risques liés à l’usage d’agents IA, notamment les hallucinations, les fuites d’informations et les tentatives de jailbreak. Tinaps mène aussi des vérifications technologiques avec de grandes banques nationales. Alors que l’adoption des agents IA progresse dans des secteurs où sécurité et confiance sont essentielles, comme la finance, cette sélection devrait soutenir l’amélioration technologique et la validation du marché. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "تينابس تنضم إلى TIPS لتعزيز موثوقية وكلاء الذكاء الاصطناعي مع البنوك",
+      "excerpt": "اختيرت تينابس، المتخصصة في التحقق من موثوقية وكلاء الذكاء الاصطناعي، لبرنامج TIPS بترشيح من Mashup Ventures مع استمرار اختبارات التقنية.",
+      "body": "اختيرت شركة تينابس الناشئة، المتخصصة في التحقق من موثوقية وكلاء الذكاء الاصطناعي، لبرنامج TIPS الذي تشرف عليه وزارة الشركات الصغيرة والمتوسطة والناشئة في كوريا الجنوبية، وذلك بترشيح من Mashup Ventures. تطور الشركة تقنية تحجب في الوقت الفعلي مخاطر قد تظهر أثناء استخدام وكلاء الذكاء الاصطناعي، مثل الهلوسة وتسرب المعلومات ومحاولات كسر القيود. كما تجري تينابس عمليات تحقق تقنية مع بنوك محلية رئيسية. ومع اتساع استخدام وكلاء الذكاء الاصطناعي في مجالات تتطلب الأمن والثقة، مثل القطاع المالي، من المتوقع أن يدعم اختيارها في TIPS تطوير التقنية والتحقق من السوق. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "AI एजेंट भरोसा जांचने वाली Tinaps TIPS में चयनित, बैंकों संग परीक्षण जारी",
+      "excerpt": "AI एजेंट विश्वसनीयता सत्यापन स्टार्टअप Tinaps को Mashup Ventures की सिफारिश पर MSS के TIPS कार्यक्रम में चुना गया है और वह तकनीकी सत्यापन जारी रखे हुए है।",
+      "body": "AI एजेंट की विश्वसनीयता सत्यापित करने वाली स्टार्टअप Tinaps को Mashup Ventures की सिफारिश पर दक्षिण कोरिया के Ministry of SMEs and Startups द्वारा संचालित TIPS कार्यक्रम के लिए चुना गया है। Tinaps ऐसी तकनीक विकसित कर रही है जो AI एजेंट के उपयोग के दौरान पैदा हो सकने वाले hallucination, सूचना रिसाव और jailbreak जैसे जोखिमों को वास्तविक समय में रोकती है। कंपनी दक्षिण कोरिया के प्रमुख बैंकों के साथ तकनीकी सत्यापन भी कर रही है। वित्त जैसे क्षेत्रों में, जहां सुरक्षा और भरोसा अहम हैं, AI एजेंट अपनाने की गति बढ़ने के बीच TIPS चयन Tinaps के तकनीकी विकास और बाजार सत्यापन को साथ आगे बढ़ाने का अवसर बन सकता है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Tinaps Masuk TIPS, Validasi Keandalan Agen AI Berlanjut dengan Bank",
+      "excerpt": "Startup verifikasi keandalan agen AI Tinaps terpilih dalam program TIPS atas rekomendasi Mashup Ventures dan terus menguji teknologi pemblokiran risiko real-time.",
+      "body": "Tinaps, startup yang berfokus pada verifikasi keandalan agen AI, terpilih dalam program TIPS yang dikelola Kementerian UKM dan Startup Korea Selatan atas rekomendasi Mashup Ventures. Tinaps mengembangkan teknologi untuk memblokir secara real time risiko yang dapat muncul saat penggunaan agen AI, termasuk halusinasi, kebocoran informasi, dan upaya jailbreak. Perusahaan juga menjalankan verifikasi teknologi dengan bank-bank utama di dalam negeri. Ketika adopsi agen AI meningkat di sektor yang menuntut keamanan dan kepercayaan, seperti keuangan, pemilihan Tinaps dalam TIPS diperkirakan mendukung peningkatan teknologi sekaligus validasi pasar. Sumber: mk.co.kr"
+    }
+  }
+}
