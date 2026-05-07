@@ -1,5 +1,230 @@
 [
   {
+    "id": "b7a8075422f3",
+    "slug": "ai-과열에-동참하라머스크-앤스로픽-동맹의-뜻-빈난새의-개장전요것만-441624",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-07T16:23:50.877Z",
+    "updatedAt": "2026-05-07T16:23:50.877Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605072726i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605072726i",
+    "titleFingerprint": "6115641420d678523641b68a1e74bef47d2cd0f5",
+    "dedupKeys": [
+      "b7a8075422f38ac3a5f0d71a3c006adc7bc903b2",
+      "6115641420d678523641b68a1e74bef47d2cd0f5",
+      "3a2148fbfc05ba306d9a1b698a72693fa5948ba1"
+    ],
+    "imageUrl": "/images/articles/b7a8075422f3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "xAI·앤스로픽 GPU 동맹, AI 과열장 속 머스크 클라우드 전략이 주목받는 이유",
+        "excerpt": "2026년 5월 7일 미국 증시 개장 전, 앤스로픽이 xAI의 대규모 GPU 클러스터 콜로서스1을 빌리기로 하며 AI 연산 수요와 머스크의 클라우드 전략이 부각됐다.",
+        "body": "2026년 5월 7일 미국 증시 개장 전 핵심 이슈로 일론 머스크의 AI 스타트업 xAI와 앤스로픽의 연산 인프라 협력이 부각됐다. 앤스로픽은 부족한 연산 능력을 확보하기 위해 xAI의 대규모 GPU 클러스터 ‘콜로서스1’을 임차하기로 했다. 배경에는 AI 고도화에 따른 데이터·메모리·연산 수요 확대가 있다. 야데니리서치는 반도체 산업의 ‘영구적 성장’을 주장했고, ARM은 상업용 AI CPU 수요가 6주 만에 2배로 늘었다고 밝혔다. xAI는 그록 점유율이 뒤처진 상황에서 유휴 자원을 외부에 판매해 수익성을 높일 수 있다. 디인포메이션은 xAI가 사실상 클라우드 회사가 되고 있다고 평가했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "xAI-Anthropic GPU Deal Puts Musk’s Cloud Strategy in Focus Amid AI Frenzy",
+        "excerpt": "Before the U.S. market open on May 7, 2026, Anthropic agreed to lease xAI’s Colossus 1 GPU cluster, spotlighting AI compute demand and Elon Musk’s cloud strategy.",
+        "body": "Before the U.S. market open on May 7, 2026, a key issue was the infrastructure tie-up between Elon Musk’s AI startup xAI and Anthropic. Anthropic agreed to lease xAI’s large GPU cluster, Colossus 1, to secure scarce computing capacity. The backdrop is rising demand for data, memory and compute as AI advances. Yardeni Research argued that semiconductors could move into “permanent growth,” while ARM said demand for commercial AI CPUs doubled in just six weeks. For xAI, whose Grok market share lags, selling idle resources externally could improve profitability. The Information assessed that xAI is effectively becoming a cloud company. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "xAI・AnthropicのGPU提携、AI過熱の中でマスク氏のクラウド戦略に注目",
+        "excerpt": "2026年5月7日の米株式市場開場前、AnthropicがxAIの大規模GPUクラスターColossus 1を借りる方針となり、AI計算需要とマスク氏のクラウド戦略が浮上した。",
+        "body": "2026年5月7日の米株式市場開場前の焦点として、イーロン・マスク氏のAIスタートアップxAIとAnthropicの計算インフラ協力が浮上した。Anthropicは不足する計算能力を確保するため、xAIの大規模GPUクラスター「Colossus 1」を借りることにした。背景にはAIの高度化に伴うデータ、メモリー、計算需要の拡大がある。Yardeni Researchは半導体産業の「恒久的成長」を主張し、ARMは商用AI CPU需要が6週間で2倍に増えたと明らかにした。Grokの市場シェアが遅れるxAIにとって、遊休資源の外販は収益性向上につながる。The Informationは、xAIが事実上クラウド企業になりつつあると評価した。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "xAI与Anthropic GPU合作升温，AI热潮下马斯克云战略受关注",
+        "excerpt": "2026年5月7日美股开盘前，Anthropic决定租用xAI大型GPU集群Colossus 1，凸显AI算力需求与马斯克的云服务战略。",
+        "body": "2026年5月7日美股开盘前，市场关注的重点之一是埃隆·马斯克旗下AI初创公司xAI与Anthropic的算力基础设施合作。为弥补算力不足，Anthropic决定租用xAI的大型GPU集群“Colossus 1”。其背景是AI升级带来的数据、内存和计算需求扩大。Yardeni Research认为半导体产业可能进入“永久增长”，ARM也表示商用AI CPU需求在短短6周内翻倍。对Grok市场份额落后的xAI来说，向外部出售闲置资源有助于提升盈利能力。The Information评价称，xAI实际上正在成为一家云公司。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Acuerdo GPU entre xAI y Anthropic enfoca la estrategia cloud de Musk en pleno auge de IA",
+        "excerpt": "Antes de la apertura de Wall Street del 7 de mayo de 2026, Anthropic acordó alquilar el clúster GPU Colossus 1 de xAI, destacando la demanda de cómputo de IA y la estrategia cloud de Musk.",
+        "body": "Antes de la apertura del mercado estadounidense el 7 de mayo de 2026, uno de los temas clave fue la cooperación de infraestructura entre xAI, la startup de IA de Elon Musk, y Anthropic. Anthropic acordó alquilar el gran clúster de GPU de xAI, Colossus 1, para asegurar capacidad de cómputo escasa. El contexto es el aumento de la demanda de datos, memoria y procesamiento por el avance de la IA. Yardeni Research sostuvo que los semiconductores podrían entrar en un crecimiento “permanente”, y ARM dijo que la demanda de CPU comerciales para IA se duplicó en seis semanas. Para xAI, rezagada en cuota con Grok, vender recursos ociosos puede elevar la rentabilidad. The Information afirmó que xAI se está convirtiendo de hecho en una empresa cloud. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Acordo GPU xAI-Anthropic destaca estratégia de nuvem de Musk em meio à febre da IA",
+        "excerpt": "Antes da abertura dos EUA em 7 de maio de 2026, a Anthropic decidiu alugar o cluster GPU Colossus 1 da xAI, destacando a demanda por computação de IA e a estratégia de nuvem de Musk.",
+        "body": "Antes da abertura do mercado dos EUA em 7 de maio de 2026, um dos pontos centrais foi a cooperação de infraestrutura entre a xAI, startup de IA de Elon Musk, e a Anthropic. A Anthropic decidiu alugar o grande cluster de GPUs Colossus 1 da xAI para garantir capacidade de computação escassa. O pano de fundo é a expansão da demanda por dados, memória e processamento com o avanço da IA. A Yardeni Research defendeu que semicondutores podem entrar em “crescimento permanente”, enquanto a ARM disse que a demanda por CPUs comerciais de IA dobrou em seis semanas. Para a xAI, cuja participação do Grok fica atrás, vender recursos ociosos pode melhorar a rentabilidade. The Information avaliou que a xAI está se tornando, na prática, uma empresa de nuvem. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "xAI-Anthropic-GPU-Deal rückt Musks Cloud-Strategie im KI-Boom in den Fokus",
+        "excerpt": "Vor US-Börsenstart am 7. Mai 2026 will Anthropic den GPU-Cluster Colossus 1 von xAI mieten. Das lenkt den Blick auf KI-Rechenbedarf und Musks Cloud-Strategie.",
+        "body": "Vor der Eröffnung des US-Marktes am 7. Mai 2026 rückte die Infrastrukturkooperation zwischen Elon Musks KI-Startup xAI und Anthropic in den Mittelpunkt. Anthropic will den großen GPU-Cluster Colossus 1 von xAI mieten, um knappe Rechenkapazität zu sichern. Hintergrund ist die steigende Nachfrage nach Daten, Speicher und Rechenleistung durch fortschreitende KI. Yardeni Research sprach von möglichem “permanentem Wachstum” der Halbleiterbranche, während ARM meldete, dass sich die Nachfrage nach kommerziellen KI-CPUs binnen sechs Wochen verdoppelt habe. Für xAI, dessen Grok-Marktanteil zurückliegt, kann der externe Verkauf ungenutzter Ressourcen die Rentabilität verbessern. The Information bewertete xAI als Unternehmen, das faktisch zu einer Cloud-Firma wird. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Accord GPU xAI-Anthropic: la stratégie cloud de Musk s’impose dans la fièvre de l’IA",
+        "excerpt": "Avant l’ouverture américaine du 7 mai 2026, Anthropic a décidé de louer le cluster GPU Colossus 1 de xAI, mettant en avant la demande de calcul IA et la stratégie cloud de Musk.",
+        "body": "Avant l’ouverture des marchés américains le 7 mai 2026, l’un des sujets majeurs a été la coopération d’infrastructure entre xAI, la start-up d’IA d’Elon Musk, et Anthropic. Anthropic a décidé de louer le grand cluster GPU Colossus 1 de xAI afin d’obtenir une capacité de calcul insuffisante. Le contexte est la hausse de la demande en données, mémoire et puissance de calcul avec les progrès de l’IA. Yardeni Research a évoqué une “croissance permanente” des semi-conducteurs, tandis qu’ARM a indiqué que la demande de CPU IA commerciaux avait doublé en six semaines. Pour xAI, dont Grok reste en retard en part de marché, vendre des ressources inutilisées à l’extérieur peut améliorer la rentabilité. The Information estime que xAI devient de fait une société cloud. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "اتفاق GPU بين xAI وAnthropic يبرز استراتيجية ماسك السحابية وسط طفرة الذكاء الاصطناعي",
+        "excerpt": "قبل افتتاح السوق الأميركية في 7 مايو 2026، قررت Anthropic استئجار عنقود GPU الضخم Colossus 1 من xAI، ما أبرز طلب الحوسبة للذكاء الاصطناعي واستراتيجية ماسك السحابية.",
+        "body": "قبل افتتاح السوق الأميركية في 7 مايو 2026، برز تعاون البنية التحتية الحاسوبية بين شركة xAI الناشئة للذكاء الاصطناعي التابعة لإيلون ماسك وAnthropic كقضية رئيسية. وقررت Anthropic استئجار عنقود وحدات معالجة الرسوميات الضخم “Colossus 1” من xAI لتأمين قدرة حوسبة تعاني نقصا. وتأتي الخطوة مع اتساع الطلب على البيانات والذاكرة والحوسبة مع تطور الذكاء الاصطناعي. وقالت Yardeni Research إن صناعة أشباه الموصلات قد تتجه إلى “نمو دائم”، فيما أوضحت ARM أن الطلب على وحدات CPU التجارية للذكاء الاصطناعي تضاعف خلال ستة أسابيع. وبالنسبة إلى xAI، التي تتأخر حصة Grok السوقية لديها، قد يساعد بيع الموارد غير المستغلة خارجيا في تحسين الربحية. وقيّمت The Information أن xAI تتحول فعليا إلى شركة سحابية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "xAI-Anthropic GPU सौदा, AI उछाल में मस्क की क्लाउड रणनीति पर फोकस",
+        "excerpt": "7 मई 2026 को अमेरिकी बाजार खुलने से पहले Anthropic ने xAI के Colossus 1 GPU क्लस्टर को किराये पर लेने का फैसला किया, जिससे AI कंप्यूट मांग और मस्क की क्लाउड रणनीति उभरी।",
+        "body": "7 मई 2026 को अमेरिकी शेयर बाजार खुलने से पहले एलन मस्क की AI स्टार्टअप xAI और Anthropic के बीच कंप्यूट इन्फ्रास्ट्रक्चर सहयोग प्रमुख मुद्दा रहा। Anthropic ने कम पड़ती कंप्यूट क्षमता हासिल करने के लिए xAI के बड़े GPU क्लस्टर “Colossus 1” को किराये पर लेने का फैसला किया। इसकी पृष्ठभूमि AI के उन्नत होने से डेटा, मेमोरी और कंप्यूट मांग का बढ़ना है। Yardeni Research ने सेमीकंडक्टर उद्योग में “स्थायी वृद्धि” की बात कही, जबकि ARM ने बताया कि वाणिज्यिक AI CPU की मांग छह सप्ताह में दोगुनी हुई। Grok की बाजार हिस्सेदारी पीछे रहने की स्थिति में xAI निष्क्रिय संसाधन बाहर बेचकर लाभप्रदता बढ़ा सकती है। The Information ने आकलन किया कि xAI वस्तुतः क्लाउड कंपनी बन रही है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Kesepakatan GPU xAI-Anthropic Sorot Strategi Cloud Musk di Tengah Demam AI",
+        "excerpt": "Menjelang pembukaan pasar AS pada 7 Mei 2026, Anthropic sepakat menyewa klaster GPU Colossus 1 milik xAI, menyoroti kebutuhan komputasi AI dan strategi cloud Elon Musk.",
+        "body": "Menjelang pembukaan pasar saham AS pada 7 Mei 2026, kerja sama infrastruktur komputasi antara startup AI Elon Musk, xAI, dan Anthropic menjadi isu utama. Anthropic sepakat menyewa klaster GPU besar xAI, Colossus 1, untuk mengamankan kapasitas komputasi yang terbatas. Latar belakangnya adalah meningkatnya kebutuhan data, memori, dan komputasi seiring kemajuan AI. Yardeni Research menyebut industri semikonduktor dapat memasuki “pertumbuhan permanen”, sementara ARM mengatakan permintaan CPU AI komersial berlipat dua dalam enam minggu. Bagi xAI, yang pangsa pasar Grok-nya tertinggal, menjual sumber daya menganggur ke pihak luar dapat meningkatkan profitabilitas. The Information menilai xAI pada dasarnya sedang menjadi perusahaan cloud. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "84ec28801363",
+    "slug": "인구-1억-일본도-5개뿐인데-한국은-10개lcc-구조조정-막오르나-기자-24시-841926",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-07T16:22:34.572Z",
+    "updatedAt": "2026-05-07T16:22:34.572Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12039033",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12039033",
+    "titleFingerprint": "409200da4c0d44f92e8a680a044a5a28d7dd5c15",
+    "dedupKeys": [
+      "84ec288013636344bc3b7ac510beeeadd451c4d8",
+      "409200da4c0d44f92e8a680a044a5a28d7dd5c15",
+      "6af0c5a17049a3d9d7d46118e26cafe0904ff280"
+    ],
+    "imageUrl": "/images/articles/84ec28801363.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국 LCC 10개 과밀 논란, 스피릿항공 폐업 뒤 구조조정 주목",
+        "excerpt": "미국 초저가 항공사 스피릿항공이 창립 34년 만에 폐업하고 전체 항공편을 취소하면서, 한국 LCC 10개 체제의 과밀 구조와 향후 구조조정 가능성이 주목받고 있다.",
+        "body": "미국 초저가 항공사(ULCC)의 대표 사례로 꼽히던 스피릿항공이 최근 창립 34년 만에 전격 폐업하고 전체 항공편을 취소했다. 파격적인 초특가 전략으로 한때 빠르게 성장했던 항공사의 중단은 저비용 항공 시장의 구조 변화에 대한 관심을 키우고 있다. 원문은 인구 1억 명 규모의 일본에도 LCC가 5개뿐인 반면 한국에는 10개가 있다는 점을 비교하며 국내 시장의 과밀 가능성을 짚었다. 스피릿항공 사례는 한국 LCC 업계에도 수익성, 경쟁 강도, 재편 논의가 다시 부각될 수 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea’s 10 LCCs Face Scrutiny After Spirit Airlines Shutdown",
+        "excerpt": "Spirit Airlines, a leading U.S. ultra-low-cost carrier, has shut down after 34 years and canceled all flights, drawing attention to Korea’s crowded market of 10 LCCs.",
+        "body": "Spirit Airlines, long seen as a representative U.S. ultra-low-cost carrier, recently shut down abruptly after 34 years in business and canceled all flights. The collapse of an airline that once grew rapidly through aggressive ultra-low fares is drawing attention to structural changes in the low-cost airline market. The original report compares Japan, with a population of about 100 million, where there are only five LCCs, with Korea, where there are 10. The case of Spirit Airlines may bring renewed focus in Korea to profitability, competition intensity and possible restructuring among LCCs. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国LCC10社の過密論、スピリット航空廃業で再編に注目",
+        "excerpt": "米国の超格安航空会社スピリット航空が創業34年で廃業し全便を取り消したことで、韓国のLCC10社体制の過密性と再編の可能性に注目が集まっている。",
+        "body": "米国の超格安航空会社（ULCC）の代表格とされてきたスピリット航空が最近、創業34年で突然廃業し、全航空便を取り消した。大胆な超低価格戦略で一時は急成長した航空会社の停止は、低コスト航空市場の構造変化への関心を高めている。原文は、人口1億人規模の日本でもLCCは5社にとどまる一方、韓国には10社ある点を比較し、国内市場の過密可能性を指摘した。スピリット航空の事例は、韓国LCC業界でも収益性、競争の強さ、再編議論が再び浮上し得ることを示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国10家廉航过密争议升温，精神航空停业引关注",
+        "excerpt": "美国超低成本航空公司精神航空创立34年后停业并取消全部航班，使韩国10家低成本航空并存的市场过密问题与重组可能性受到关注。",
+        "body": "被视为美国超低成本航空公司（ULCC）代表的精神航空，近日在创立34年后突然停业，并取消全部航班。这家曾凭借激进超低价策略快速成长的航空公司停止运营，引发市场对低成本航空结构变化的关注。原文比较称，人口约1亿的日本也只有5家低成本航空公司，而韩国却有10家，指出韩国国内市场可能存在过密问题。精神航空案例显示，韩国LCC行业的盈利能力、竞争强度和重组讨论可能再次成为焦点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Diez LCC en Corea bajo la lupa tras el cierre de Spirit Airlines",
+        "excerpt": "Spirit Airlines, aerolínea estadounidense de ultrabajo costo, cerró tras 34 años y canceló todos sus vuelos, aumentando la atención sobre el saturado mercado coreano con 10 LCC.",
+        "body": "Spirit Airlines, considerada un referente de las aerolíneas estadounidenses de ultrabajo costo (ULCC), cerró recientemente de forma abrupta tras 34 años de operación y canceló todos sus vuelos. La salida de una compañía que en su momento creció con rapidez gracias a tarifas extremadamente bajas eleva el interés por los cambios estructurales en el mercado de bajo costo. El informe original compara a Japón, con unos 100 millones de habitantes y solo cinco LCC, con Corea, donde hay 10. El caso de Spirit Airlines puede reactivar en Corea el debate sobre rentabilidad, intensidad competitiva y posible reestructuración del sector LCC. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Coreia tem 10 LCCs sob pressão após fechamento da Spirit Airlines",
+        "excerpt": "A Spirit Airlines, companhia aérea ultralow cost dos EUA, fechou após 34 anos e cancelou todos os voos, destacando a possível saturação do mercado coreano com 10 LCCs.",
+        "body": "A Spirit Airlines, considerada um símbolo das companhias aéreas ultralow cost (ULCC) dos Estados Unidos, encerrou recentemente suas atividades de forma repentina após 34 anos e cancelou todos os voos. A paralisação de uma empresa que chegou a crescer rapidamente com uma estratégia agressiva de tarifas ultrabaixas aumenta a atenção sobre mudanças estruturais no mercado de baixo custo. A reportagem original compara o Japão, com cerca de 100 milhões de habitantes e apenas cinco LCCs, com a Coreia, onde há 10. O caso da Spirit Airlines pode recolocar em foco, na Coreia, rentabilidade, intensidade da concorrência e possível reestruturação das LCCs. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Koreas 10 Billigflieger im Fokus nach Aus von Spirit Airlines",
+        "excerpt": "Spirit Airlines, ein US-Ultrabiligflieger, hat nach 34 Jahren den Betrieb eingestellt und alle Flüge gestrichen. Damit rückt Koreas dichter Markt mit 10 LCCs in den Blick.",
+        "body": "Spirit Airlines, lange als typisches Beispiel für einen US-Ultrabiligflieger (ULCC) gesehen, hat kürzlich nach 34 Jahren überraschend den Betrieb eingestellt und alle Flüge gestrichen. Das Ende einer Airline, die einst mit extrem niedrigen Preisen schnell wuchs, lenkt den Blick auf strukturelle Veränderungen im Billigflugmarkt. Der Originalbericht vergleicht Japan mit rund 100 Millionen Einwohnern und nur fünf LCCs mit Korea, wo es 10 gibt. Der Fall Spirit Airlines könnte in Korea erneut Fragen zu Rentabilität, Wettbewerbsdruck und einer möglichen Neuordnung der LCC-Branche aufwerfen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les 10 LCC coréennes sous surveillance après l’arrêt de Spirit Airlines",
+        "excerpt": "Spirit Airlines, compagnie américaine à très bas coûts, a cessé ses activités après 34 ans et annulé tous ses vols, attirant l’attention sur le marché coréen et ses 10 LCC.",
+        "body": "Spirit Airlines, considérée comme une référence américaine des compagnies à très bas coûts (ULCC), a récemment cessé brutalement ses activités après 34 ans et annulé tous ses vols. L’arrêt d’une compagnie qui avait autrefois connu une croissance rapide grâce à des tarifs extrêmement bas renforce l’intérêt pour les changements structurels du marché low cost. L’article d’origine compare le Japon, pays d’environ 100 millions d’habitants qui ne compte que cinq LCC, à la Corée, où il y en a 10. Le cas Spirit Airlines pourrait remettre en avant en Corée les questions de rentabilité, d’intensité concurrentielle et de possible restructuration du secteur LCC. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "عشر شركات طيران منخفضة التكلفة في كوريا تحت المجهر بعد إغلاق سبيريت",
+        "excerpt": "أغلقت سبيريت إيرلاينز، شركة الطيران الأميركية فائقة الانخفاض في التكلفة، بعد 34 عاما وألغت جميع رحلاتها، ما سلط الضوء على سوق كوريا الذي يضم 10 شركات منخفضة التكلفة.",
+        "body": "أغلقت سبيريت إيرلاينز، التي كانت تعد من أبرز نماذج شركات الطيران الأميركية فائقة الانخفاض في التكلفة، أعمالها مؤخرا بشكل مفاجئ بعد 34 عاما وألغت جميع رحلاتها. توقف شركة نمت سابقا بسرعة عبر استراتيجية أسعار شديدة الانخفاض زاد الاهتمام بالتغيرات الهيكلية في سوق الطيران منخفض التكلفة. ويقارن التقرير الأصلي بين اليابان، التي يبلغ عدد سكانها نحو 100 مليون نسمة ولا تضم سوى خمس شركات منخفضة التكلفة، وكوريا التي تضم 10 شركات. وقد يعيد مثال سبيريت إيرلاينز التركيز في كوريا على الربحية وشدة المنافسة واحتمال إعادة هيكلة قطاع LCC. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "स्पिरिट एयरलाइंस बंद होने के बाद कोरिया की 10 LCC पर सवाल",
+        "excerpt": "अमेरिकी अल्ट्रा-लो-कॉस्ट एयरलाइन स्पिरिट एयरलाइंस 34 साल बाद बंद हो गई और सभी उड़ानें रद्द कीं, जिससे कोरिया के 10 LCC वाले भीड़भाड़ बाजार पर ध्यान गया है।",
+        "body": "अमेरिकी अल्ट्रा-लो-कॉस्ट कैरियर (ULCC) की प्रमुख मिसाल मानी जाने वाली स्पिरिट एयरलाइंस ने हाल ही में स्थापना के 34 साल बाद अचानक कारोबार बंद कर दिया और सभी उड़ानें रद्द कर दीं। बेहद कम किराए की रणनीति से कभी तेज बढ़ी एयरलाइन का रुकना कम लागत वाले विमानन बाजार की संरचनात्मक बदलाओं पर ध्यान बढ़ा रहा है। मूल रिपोर्ट में तुलना की गई कि करीब 10 करोड़ आबादी वाले जापान में भी केवल 5 LCC हैं, जबकि कोरिया में 10 हैं। स्पिरिट एयरलाइंस का मामला कोरियाई LCC उद्योग में लाभप्रदता, प्रतिस्पर्धा की तीव्रता और संभावित पुनर्गठन की चर्चा को फिर उभार सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Korea Punya 10 LCC, Penutupan Spirit Airlines Picu Sorotan",
+        "excerpt": "Spirit Airlines, maskapai ultra-low-cost AS, tutup setelah 34 tahun dan membatalkan semua penerbangan, membuat pasar Korea yang memiliki 10 LCC kembali disorot.",
+        "body": "Spirit Airlines, yang dikenal sebagai salah satu contoh utama maskapai ultra-low-cost (ULCC) di Amerika Serikat, baru-baru ini menutup operasi secara mendadak setelah 34 tahun dan membatalkan seluruh penerbangan. Berhentinya maskapai yang pernah tumbuh cepat lewat strategi tarif sangat murah ini meningkatkan perhatian terhadap perubahan struktur pasar penerbangan berbiaya rendah. Laporan asli membandingkan Jepang, dengan populasi sekitar 100 juta orang dan hanya lima LCC, dengan Korea yang memiliki 10 LCC. Kasus Spirit Airlines dapat kembali menyoroti profitabilitas, ketatnya persaingan, dan kemungkinan restrukturisasi industri LCC di Korea. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7d6fee66a4b2",
+    "slug": "ai-수익화-시험대-카카오정신아-대화에서-결제까지-가능해진다-413694",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-07T16:21:32.331Z",
+    "updatedAt": "2026-05-07T16:21:32.331Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12039043",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12039043",
+    "titleFingerprint": "b17f45a157da1dc8cea2d1d7f27d284dccfba2c5",
+    "dedupKeys": [
+      "7d6fee66a4b2bd2949e1fd8ce025a7eaaa1c7ffc",
+      "b17f45a157da1dc8cea2d1d7f27d284dccfba2c5",
+      "da0b60205a9d7f5fbd8fc9ee91bc71daeecff841"
+    ],
+    "imageUrl": "/images/articles/7d6fee66a4b2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "카카오 AI 수익화 시험대, 챗GPT 포 카카오 1100만명 돌파",
+        "excerpt": "카카오와 오픈AI가 협업한 AI 서비스 ‘챗GPT 포 카카오’ 누적 가입자가 1100만명을 넘어서며, 카카오는 연내 대화·검색에서 예약·결제까지 이어지는 서비스 확장을 예고했다.",
+        "body": "카카오와 오픈AI의 협업으로 나온 인공지능(AI) 서비스 ‘챗GPT 포 카카오’가 누적 가입자 1100만명을 돌파했다. 카카오는 올해 안에 이용자가 대화와 검색을 거쳐 예약과 결제까지 이어갈 수 있는 기능을 선보일 계획이다. 정신아 카카오 대표는 대화에서 결제까지 가능해지는 흐름을 언급하며 AI 서비스의 실사용 확대를 강조했다. 이번 성과는 카카오가 AI를 이용자 접점과 수익화 모델로 연결할 수 있는지를 가늠하는 시험대로 평가된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kakao AI Monetization Test: ChatGPT for Kakao Tops 11 Million Users",
+        "excerpt": "Kakao’s AI service ChatGPT for Kakao, created with OpenAI, has surpassed 11 million cumulative users as the company plans to link chat and search to reservations and payments this year.",
+        "body": "ChatGPT for Kakao, an artificial intelligence service developed through cooperation between Kakao and OpenAI, has surpassed 11 million cumulative subscribers. Kakao plans to introduce features within this year that allow users to move from conversation and search to reservations and payments. Kakao CEO Shina Chung highlighted the shift toward enabling payments directly from conversations, emphasizing broader real-world use of AI services. The milestone is being viewed as a test of whether Kakao can connect AI with user touchpoints and monetization. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "カカオAI収益化の試金石、ChatGPT for Kakaoが1100万人突破",
+        "excerpt": "カカオとOpenAIが協業したAIサービス「ChatGPT for Kakao」の累計加入者が1100万人を超え、年内に会話・検索から予約・決済へつなぐ拡張を予告した。",
+        "body": "カカオとOpenAIの協業で生まれた人工知能（AI）サービス「ChatGPT for Kakao」の累計加入者数が1100万人を突破した。カカオは年内に、利用者が会話や検索を経て予約、決済まで進められる機能を提供する計画だ。カカオのチョン・シナ代表は、会話から決済まで可能になる流れに言及し、AIサービスの実利用拡大を強調した。今回の成果は、カカオがAIを利用者接点と収益化モデルにつなげられるかを測る試金石とみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Kakao AI商业化迎考验，ChatGPT for Kakao用户破1100万",
+        "excerpt": "Kakao与OpenAI合作推出的AI服务ChatGPT for Kakao累计用户已突破1100万，Kakao计划年内把对话、搜索延伸至预约和支付。",
+        "body": "Kakao与OpenAI合作推出的人工智能服务“ChatGPT for Kakao”累计加入用户已突破1100万。Kakao计划在今年内推出相关功能，使用户能够从对话和搜索进一步完成预约与支付。Kakao代表郑信娥提到，从对话到支付将成为可能，并强调AI服务实际使用场景的扩大。这一成果被视为Kakao能否把AI与用户触点及商业化模式连接起来的重要考验。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Kakao pone a prueba la monetización de IA: ChatGPT for Kakao supera 11 millones",
+        "excerpt": "El servicio de IA ChatGPT for Kakao, creado por Kakao y OpenAI, superó los 11 millones de usuarios acumulados mientras la empresa prepara reservas y pagos desde chat y búsqueda este año.",
+        "body": "ChatGPT for Kakao, el servicio de inteligencia artificial desarrollado mediante la colaboración entre Kakao y OpenAI, superó los 11 millones de suscriptores acumulados. Kakao prevé lanzar este año funciones que permitan a los usuarios pasar de la conversación y la búsqueda a reservas y pagos. La directora ejecutiva de Kakao, Shina Chung, señaló el avance hacia pagos posibles desde la conversación y subrayó la expansión del uso práctico de la IA. El resultado se considera una prueba de si Kakao puede conectar la IA con los puntos de contacto del usuario y la monetización. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Kakao testa monetização de IA: ChatGPT for Kakao passa de 11 milhões",
+        "excerpt": "O ChatGPT for Kakao, serviço de IA criado por Kakao e OpenAI, superou 11 milhões de usuários acumulados, enquanto a empresa planeja ligar conversa e busca a reservas e pagamentos ainda este ano.",
+        "body": "O ChatGPT for Kakao, serviço de inteligência artificial criado pela colaboração entre Kakao e OpenAI, ultrapassou 11 milhões de assinantes acumulados. A Kakao planeja lançar ainda este ano recursos que permitam aos usuários avançar de conversas e buscas para reservas e pagamentos. A CEO da Kakao, Shina Chung, mencionou o movimento em que pagamentos se tornam possíveis a partir da conversa e destacou a ampliação do uso real de serviços de IA. O marco é visto como um teste para saber se a Kakao conseguirá conectar IA, pontos de contato com usuários e monetização. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kakao testet KI-Monetarisierung: ChatGPT for Kakao über 11 Millionen Nutzer",
+        "excerpt": "Der gemeinsam mit OpenAI entwickelte KI-Dienst ChatGPT for Kakao hat mehr als 11 Millionen kumulierte Nutzer erreicht; Kakao will Chat und Suche noch dieses Jahr mit Reservierung und Zahlung verbinden.",
+        "body": "ChatGPT for Kakao, ein durch die Zusammenarbeit von Kakao und OpenAI entstandener Dienst für künstliche Intelligenz, hat mehr als 11 Millionen kumulierte Abonnenten erreicht. Kakao plant, noch in diesem Jahr Funktionen einzuführen, mit denen Nutzer von Gesprächen und Suche bis zu Reservierungen und Zahlungen gelangen können. Kakao-Chefin Shina Chung verwies auf den Trend, Zahlungen direkt aus Gesprächen heraus zu ermöglichen, und betonte die Ausweitung praktischer KI-Nutzung. Der Erfolg gilt als Test, ob Kakao KI mit Nutzerkontaktpunkten und Monetarisierung verbinden kann. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Kakao teste la monétisation de l’IA: ChatGPT for Kakao dépasse 11 millions",
+        "excerpt": "Le service d’IA ChatGPT for Kakao, né de la coopération entre Kakao et OpenAI, a dépassé 11 millions d’utilisateurs cumulés, alors que Kakao prévoit de relier conversation, recherche, réservation et paiement cette année.",
+        "body": "ChatGPT for Kakao, service d’intelligence artificielle issu de la collaboration entre Kakao et OpenAI, a dépassé 11 millions d’abonnés cumulés. Kakao prévoit de lancer cette année des fonctions permettant aux utilisateurs de passer de la conversation et de la recherche à la réservation puis au paiement. Shina Chung, directrice générale de Kakao, a évoqué la possibilité d’effectuer des paiements depuis la conversation et souligné l’élargissement de l’usage concret des services d’IA. Cette étape est considérée comme un test de la capacité de Kakao à relier l’IA aux points de contact utilisateurs et à la monétisation. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كاكاو تختبر تحقيق إيرادات الذكاء الاصطناعي مع تجاوز ChatGPT for Kakao 11 مليون مستخدم",
+        "excerpt": "تجاوزت خدمة الذكاء الاصطناعي ChatGPT for Kakao، الناتجة عن تعاون كاكاو وOpenAI، 11 مليون مشترك تراكمي، مع خطة لربط المحادثة والبحث بالحجز والدفع هذا العام.",
+        "body": "تجاوزت خدمة الذكاء الاصطناعي “ChatGPT for Kakao”، التي جاءت ثمرة تعاون بين كاكاو وOpenAI، حاجز 11 مليون مشترك تراكمي. وتخطط كاكاو خلال هذا العام لإطلاق وظائف تتيح للمستخدم الانتقال من المحادثة والبحث إلى الحجز والدفع. وأشارت شينا تشونغ، الرئيسة التنفيذية لكاكاو، إلى مسار تصبح فيه المدفوعات ممكنة من داخل المحادثة، مؤكدة توسيع الاستخدام العملي لخدمات الذكاء الاصطناعي. ويُنظر إلى هذا الإنجاز كاختبار لقدرة كاكاو على ربط الذكاء الاصطناعي بنقاط تواصل المستخدمين ونموذج تحقيق الإيرادات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Kakao की AI कमाई की परीक्षा, ChatGPT for Kakao 1.1 करोड़ उपयोगकर्ताओं के पार",
+        "excerpt": "Kakao और OpenAI के सहयोग से बनी AI सेवा ChatGPT for Kakao के कुल सदस्य 1.1 करोड़ से अधिक हो गए हैं, और कंपनी इस साल बातचीत व खोज को予約 और भुगतान से जोड़ने की तैयारी में है।",
+        "body": "Kakao और OpenAI के सहयोग से तैयार कृत्रिम बुद्धिमत्ता सेवा “ChatGPT for Kakao” के कुल सदस्य 1.1 करोड़ से अधिक हो गए हैं। Kakao इस वर्ष ऐसे फीचर पेश करने की योजना बना रही है जिनसे उपयोगकर्ता बातचीत और खोज से आगे बढ़कर 예약 और भुगतान तक पहुंच सकेंगे। Kakao की सीईओ Shina Chung ने बातचीत से भुगतान तक संभव होने की दिशा का उल्लेख किया और AI सेवाओं के वास्तविक उपयोग के विस्तार पर जोर दिया। यह उपलब्धि इस बात की परीक्षा मानी जा रही है कि Kakao AI को उपयोगकर्ता संपर्क बिंदुओं और कमाई के मॉडल से जोड़ सकती है या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Uji Monetisasi AI Kakao: ChatGPT for Kakao Tembus 11 Juta Pengguna",
+        "excerpt": "Layanan AI ChatGPT for Kakao hasil kolaborasi Kakao dan OpenAI melampaui 11 juta pengguna kumulatif, sementara Kakao menyiapkan alur dari percakapan dan pencarian ke reservasi serta pembayaran tahun ini.",
+        "body": "ChatGPT for Kakao, layanan kecerdasan buatan hasil kolaborasi Kakao dan OpenAI, telah melampaui 11 juta pelanggan kumulatif. Kakao berencana menghadirkan fitur pada tahun ini yang memungkinkan pengguna bergerak dari percakapan dan pencarian menuju reservasi dan pembayaran. CEO Kakao Shina Chung menyinggung arah di mana pembayaran dapat dilakukan dari percakapan, sekaligus menekankan perluasan penggunaan nyata layanan AI. Capaian ini dipandang sebagai ujian apakah Kakao dapat menghubungkan AI dengan titik kontak pengguna dan model monetisasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "e5b3cfcec02b",
     "slug": "개인정보-업데이트하고-시드니-가자대한항공-숨은-마일리지-찾기-프로모션-953948",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Sterling Infrastructure Melonjak 52% Usai Hasil Kuartal I Mengejutkan",
         "excerpt": "Sterling Infrastructure, perusahaan teknik sipil dan konstruksi AS, mencatat lonjakan saham 52,22% pada 5 Mei setelah pendapatan dan laba bersih kuartal pertama naik tajam berkat permintaan pusat data AI.",
         "body": "Sterling Infrastructure, perusahaan teknik sipil dan konstruksi asal AS, mencatat hasil kuartal pertama yang mengejutkan seiring maraknya pembangunan pusat data AI. Pada 5 Mei waktu setempat, sahamnya ditutup di 806 dolar AS, naik 52,22%. Perusahaan menyatakan pada 4 Mei bahwa pendapatan kuartal pertama naik 92% secara tahunan menjadi 825,7 juta dolar AS, sementara laba bersih melonjak 143% menjadi 96 juta dolar AS. Sterling juga menaikkan prospek laba bersih tahunan menjadi 513 juta hingga 533 juta dolar AS. Pendapatan E-Infrastructure Solutions naik 174%, dan backlog pesanan meningkat 123%. Hankyung.com melaporkan Sterling mengalihkan fokus bisnis ke pembangunan infrastruktur terkait AI setelah mengakuisisi Plateau pada 2019 dan Petillo pada 2021. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "fb831047d9b0",
-    "slug": "접속자-폭증한-증권사-앱-장-초반-한때-먹통-270559",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-06T23:20:07.643Z",
-    "updatedAt": "2026-05-06T23:20:07.643Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050696891",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050696891",
-    "titleFingerprint": "e2ef7c724bca90ceb8a93a3e4b219e06d2251d01",
-    "dedupKeys": [
-      "fb831047d9b0beed3d12d5c35d2399f8b4b97b47",
-      "e2ef7c724bca90ceb8a93a3e4b219e06d2251d01",
-      "c06252c10d9b0e28a8162420a56303fb03a2a407"
-    ],
-    "imageUrl": "/images/articles/fb831047d9b0.png",
-    "i18n": {
-      "ko": {
-        "title": "증권사 앱 접속 폭증에 장 초반 오류, 계좌 급증 속 한국투자증권 MTS 한때 먹통",
-        "excerpt": "2026년 5월 6일 장 초반 코스피 급등으로 투자자가 몰리며 한국투자증권 MTS에서 일부 계좌 잔액 조회 오류가 발생했고, 활동계좌와 거래대금 증가세도 확인됐다.",
-        "body": "2026년 5월 6일 국내 증시 장 초반 투자자가 몰리면서 한국투자증권 모바일트레이딩시스템(MTS)에서 일부 이용자가 계좌 잔액을 조회하지 못하는 오류가 발생했다. 금융투자업계에 따르면 장애는 오전 9시4분부터 11분까지 이어졌고, 개장 직후 장이 급격히 오르며 과부하가 걸린 것으로 풀이됐다. 한국투자증권은 매매 주문은 정상 처리됐고 관련 조치를 완료했다고 밝혔다. 같은 날 금융투자협회 기준 5월 4일 주식거래 활동계좌는 1억522만917개로 지난해 말보다 693만917개 늘었다. 4월 키움증권 월간 거래대금도 1492조원으로 사상 최대를 다시 기록했다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Broker App Traffic Surge Causes Early-Session MTS Glitch at Korea Investment & Securities",
-        "excerpt": "On May 6, 2026, a rush of investors during a sharp early Kospi rise caused some Korea Investment & Securities MTS users to lose access to account balance views.",
-        "body": "On May 6, 2026, heavy investor traffic early in the South Korean stock session caused a temporary issue on Korea Investment & Securities’ mobile trading system, or MTS, preventing some users from viewing account balances. According to the financial investment industry, the error lasted from 9:04 a.m. to 9:11 a.m. and was attributed to overload after the market rose sharply just after the open. The brokerage said trading orders were processed normally and all related measures had been completed. The Korea Financial Investment Association said active stock trading accounts stood at 105,220,917 as of May 4, up 6,930,917 from the end of last year. Kiwoom Securities’ April monthly trading value also hit a record 1,492 trillion won. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "証券アプリにアクセス集中、韓国投資証券MTSで寄り付き直後に一時障害",
-        "excerpt": "2026年5月6日、寄り付き直後のコスピ急騰で投資家のアクセスが集中し、韓国投資証券MTSの一部利用者で口座残高照会エラーが発生した。",
-        "body": "2026年5月6日、韓国株式市場の寄り付き直後に投資家のアクセスが集中し、韓国投資証券のモバイル取引システム（MTS）で一部利用者が口座残高を照会できない障害が発生した。金融投資業界によると、障害は午前9時4分から11分まで続き、取引開始直後に相場が急上昇したことで過負荷がかかったとみられる。韓国投資証券は、売買注文は正常に処理され、関連措置はすべて完了したと説明した。同日、金融投資協会によると5月4日時点の株式取引活動口座は1億522万917口座で、昨年末より693万917口座増えた。キウム証券の4月月間売買代金も1492兆ウォンと過去最高を更新した。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "券商App访问量激增，韩国投资证券MTS开盘初一度出现故障",
-        "excerpt": "2026年5月6日，韩股开盘初Kospi快速上涨吸引投资者集中访问，韩国投资证券MTS部分用户一度无法查询账户余额。",
-        "body": "2026年5月6日，韩国股市开盘初投资者访问量集中，韩国投资证券移动交易系统（MTS）出现临时故障，部分用户无法查询账户余额。据金融投资业界消息，故障从上午9时04分持续至9时11分，原因被认为是开盘后行情快速上涨导致系统过载。韩国投资证券表示，交易委托正常处理，所有相关措施已经完成。同日，韩国金融投资协会数据显示，截至5月4日，股票交易活动账户为105,220,917个，较去年底增加6,930,917个。Kiwoom证券4月月度成交额也达到1492万亿韩元，再创历史新高。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Fallo temporal en la app bursátil por tráfico masivo al inicio de la sesión en Corea",
-        "excerpt": "El 6 de mayo de 2026, la fuerte subida inicial del Kospi atrajo a inversores y causó errores de consulta de saldos para algunos usuarios del MTS de Korea Investment & Securities.",
-        "body": "El 6 de mayo de 2026, una concentración de inversores al inicio de la sesión bursátil surcoreana provocó una incidencia temporal en el sistema móvil de negociación, MTS, de Korea Investment & Securities, que impidió a algunos usuarios consultar el saldo de sus cuentas. Según el sector de inversión financiera, el error se produjo entre las 9:04 y las 9:11, y se atribuyó a una sobrecarga tras la rápida subida del mercado justo después de la apertura. La firma indicó que las órdenes de compraventa se procesaron con normalidad y que completó todas las medidas relacionadas. La asociación financiera informó que las cuentas activas de negociación sumaban 105.220.917 al 4 de mayo, 6.930.917 más que a fines del año pasado. Kiwoom Securities también registró en abril un volumen mensual récord de 1.492 billones de wones. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Alta demanda derruba consulta em app de corretora no início do pregão coreano",
-        "excerpt": "Em 6 de maio de 2026, a forte alta inicial do Kospi levou investidores ao MTS da Korea Investment & Securities, causando erro temporário na consulta de saldos.",
-        "body": "Em 6 de maio de 2026, o grande fluxo de investidores no início do pregão sul-coreano causou uma falha temporária no sistema móvel de negociação, MTS, da Korea Investment & Securities, impedindo alguns usuários de consultar o saldo de suas contas. Segundo o setor de investimento financeiro, o erro durou das 9h04 às 9h11 e foi atribuído a uma sobrecarga após a forte alta do mercado logo depois da abertura. A corretora afirmou que as ordens de compra e venda foram processadas normalmente e que todas as medidas relacionadas foram concluídas. A associação financeira informou que as contas ativas de negociação de ações somavam 105.220.917 em 4 de maio, alta de 6.930.917 ante o fim do ano passado. A Kiwoom Securities também registrou em abril volume mensal recorde de 1.492 trilhões de won. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Broker-App wegen starkem Andrang zum Handelsstart kurzzeitig mit MTS-Störung",
-        "excerpt": "Am 6. Mai 2026 führte der starke frühe Kospi-Anstieg zu hohem Anlegerverkehr; bei Korea Investment & Securities konnten einige MTS-Nutzer Kontostände nicht abrufen.",
-        "body": "Am 6. Mai 2026 kam es zum Handelsstart am südkoreanischen Aktienmarkt wegen starken Anlegerandrangs zu einer vorübergehenden Störung im mobilen Handelssystem MTS von Korea Investment & Securities. Einige Nutzer konnten ihre Kontostände nicht abrufen. Nach Angaben der Finanzinvestmentbranche dauerte der Fehler von 9:04 bis 9:11 Uhr und wurde auf eine Überlastung zurückgeführt, nachdem der Markt direkt nach der Eröffnung stark gestiegen war. Das Brokerhaus teilte mit, Kauf- und Verkaufsaufträge seien normal verarbeitet worden und alle damit verbundenen Maßnahmen seien abgeschlossen. Laut Finanzinvestmentverband lagen die aktiven Aktienhandelskonten am 4. Mai bei 105.220.917, ein Plus von 6.930.917 gegenüber Ende vergangenen Jahres. Kiwoom Securities meldete für April zudem ein monatliches Rekordhandelsvolumen von 1.492 Billionen Won. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Afflux massif sur une appli de courtage, panne MTS temporaire à l’ouverture en Corée",
-        "excerpt": "Le 6 mai 2026, la forte hausse initiale du Kospi a attiré les investisseurs et provoqué une erreur de consultation des soldes pour certains utilisateurs du MTS de Korea Investment & Securities.",
-        "body": "Le 6 mai 2026, l’afflux d’investisseurs au début de la séance sud-coréenne a provoqué un incident temporaire sur le système mobile de trading, MTS, de Korea Investment & Securities, empêchant certains utilisateurs de consulter le solde de leur compte. Selon le secteur de l’investissement financier, l’erreur a duré de 9 h 04 à 9 h 11 et a été attribuée à une surcharge après la forte progression du marché juste après l’ouverture. La société a indiqué que les ordres de trading avaient été traités normalement et que toutes les mesures liées avaient été achevées. L’association financière a recensé 105 220 917 comptes actifs de trading d’actions au 4 mai, soit 6 930 917 de plus qu’à la fin de l’an dernier. Kiwoom Securities a aussi enregistré en avril un volume mensuel record de 1 492 billions de wons. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "ازدحام على تطبيق وسيط كوري يسبب عطلا مؤقتا في نظام التداول مع بداية الجلسة",
-        "excerpt": "في 6 مايو 2026، أدى الصعود السريع لمؤشر كوسبي في بداية الجلسة إلى تدفق المستثمرين وتعذر عرض أرصدة الحسابات مؤقتا لبعض مستخدمي نظام Korea Investment & Securities.",
-        "body": "في 6 مايو 2026، تسبب تدفق كبير للمستثمرين مع بداية جلسة الأسهم الكورية الجنوبية في عطل مؤقت بنظام التداول عبر الهاتف المحمول MTS التابع لشركة Korea Investment & Securities، ما منع بعض المستخدمين من عرض أرصدة حساباتهم. ووفقا لقطاع الاستثمار المالي، استمر الخطأ من الساعة 9:04 حتى 9:11 صباحا، ورجح أنه نتج عن حمل زائد بعد ارتفاع السوق بسرعة عقب الافتتاح. وقالت الشركة إن أوامر البيع والشراء عولجت بشكل طبيعي وإن جميع الإجراءات ذات الصلة اكتملت. وذكرت جمعية الاستثمار المالي أن حسابات تداول الأسهم النشطة بلغت 105,220,917 حسابا في 4 مايو، بزيادة 6,930,917 عن نهاية العام الماضي. كما سجلت Kiwoom Securities في أبريل قيمة تداول شهرية قياسية بلغت 1,492 تريليون وون. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "ब्रोकरेज ऐप पर भारी ट्रैफिक, कोरिया इन्वेस्टमेंट MTS में खुलते ही अस्थायी गड़बड़ी",
-        "excerpt": "6 मई 2026 को शुरुआती कारोबार में Kospi की तेज बढ़त से निवेशक उमड़े, जिससे Korea Investment & Securities के MTS पर कुछ उपयोगकर्ता खाते का बैलेंस नहीं देख सके।",
-        "body": "6 मई 2026 को दक्षिण कोरियाई शेयर बाजार खुलते ही निवेशकों की भारी आवाजाही के कारण Korea Investment & Securities के मोबाइल ट्रेडिंग सिस्टम, MTS, में अस्थायी गड़बड़ी आई और कुछ उपयोगकर्ता अपने खाते का बैलेंस नहीं देख पाए। वित्तीय निवेश उद्योग के अनुसार, यह त्रुटि सुबह 9:04 से 9:11 तक रही और बाजार खुलने के तुरंत बाद तेज बढ़त से सिस्टम पर अधिक भार पड़ने को इसकी वजह माना गया। कंपनी ने कहा कि खरीद-बिक्री के आदेश सामान्य रूप से संसाधित हुए और सभी संबंधित कदम पूरे कर लिए गए। Korea Financial Investment Association के अनुसार, 4 मई तक सक्रिय शेयर ट्रेडिंग खाते 105,220,917 थे, जो पिछले साल के अंत से 6,930,917 अधिक हैं। Kiwoom Securities का अप्रैल मासिक कारोबार मूल्य भी 1,492 ट्रिलियन वॉन के रिकॉर्ड स्तर पर पहुंचा। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Trafik Aplikasi Sekuritas Melonjak, MTS Korea Investment Sempat Bermasalah Pagi",
-        "excerpt": "Pada 6 Mei 2026, lonjakan awal Kospi menarik banyak investor dan membuat sebagian pengguna MTS Korea Investment & Securities tidak dapat melihat saldo rekening.",
-        "body": "Pada 6 Mei 2026, arus investor yang tinggi pada awal perdagangan saham Korea Selatan memicu gangguan sementara pada mobile trading system, MTS, milik Korea Investment & Securities, sehingga sebagian pengguna tidak dapat melihat saldo rekening. Menurut industri investasi keuangan, kesalahan terjadi dari pukul 09.04 hingga 09.11 dan dinilai terkait kelebihan beban setelah pasar naik tajam segera setelah pembukaan. Perusahaan menyatakan order jual beli diproses normal dan seluruh langkah terkait telah selesai. Asosiasi Investasi Keuangan Korea mencatat akun perdagangan saham aktif mencapai 105.220.917 per 4 Mei, naik 6.930.917 dari akhir tahun lalu. Kiwoom Securities juga mencatat nilai transaksi bulanan April sebesar 1.492 triliun won, kembali menjadi rekor tertinggi. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "0c9faf9871ff",
-    "slug": "40만전자230만닉스반도체-빅2-목표가-일제히-상향-155982",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-06T23:19:00.392Z",
-    "updatedAt": "2026-05-06T23:19:00.392Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050696871",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050696871",
-    "titleFingerprint": "ed032ee6793c5a8141642d29ea72b6d8dddc00f2",
-    "dedupKeys": [
-      "0c9faf9871ff8175dc02d093e5d9a52886190be1",
-      "ed032ee6793c5a8141642d29ea72b6d8dddc00f2",
-      "99738d0d8d07e085c0493171f6283f8758affbc5"
-    ],
-    "imageUrl": "/images/articles/0c9faf9871ff.png",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자·SK하이닉스 목표가 동반 상향, ‘40만전자·230만닉스’ 제시",
-        "excerpt": "5월 6일 한국경제에 따르면 증권가는 AI 메모리 수요와 빅테크 설비투자 확대를 근거로 삼성전자와 SK하이닉스 목표주가를 일제히 높였다.",
-        "body": "5월 6일 hankyung.com에 따르면 국내 증시 대표주인 삼성전자와 SK하이닉스의 주가 강세가 이어지면서 증권가가 목표주가를 일제히 상향했다. 한국거래소 기준 SK하이닉스는 올해 들어 145.93%, 삼성전자는 121.85% 올랐다. 지난해 상승률도 각각 274.35%, 125.38%였다. 알파벳, 마이크로소프트, 메타, 아마존의 올해 자본지출은 최대 7250억달러로 집계돼 전년보다 77% 늘었다. 에픽AI 기준 삼성전자의 평균 목표주가는 30만6087원, 최고 목표가는 40만원이며 SK하이닉스는 평균 173만5455원, 최고 230만원이다. hankyung.com은 반도체 공급 부족과 실적 개선 기대가 목표가 상향의 배경이라고 전했다."
-      },
-      "en": {
-        "title": "Samsung Electronics and SK Hynix targets raised as analysts cite AI memory demand",
-        "excerpt": "According to hankyung.com on May 6, brokerages lifted price targets for Samsung Electronics and SK Hynix, citing AI memory demand and bigger big-tech capex.",
-        "body": "According to hankyung.com on May 6, South Korean market leaders Samsung Electronics and SK Hynix drew higher price targets from brokerages as their share rallies continued. Korea Exchange data showed SK Hynix up 145.93% so far this year and Samsung Electronics up 121.85%. Their gains last year were 274.35% and 125.38%, respectively. Capital spending by Alphabet, Microsoft, Meta and Amazon was estimated at as much as $725 billion this year, up 77% from a year earlier. Epic AI put Samsung Electronics’ average target at 306,087 won, with a high of 400,000 won, while SK Hynix’s average target was 1,735,455 won and its high was 2.3 million won. hankyung.com reported that expectations for chip shortages and earnings improvement drove the target increases."
-      },
-      "ja": {
-        "title": "サムスン電子・SKハイニックス目標株価引き上げ、AIメモリー需要が背景",
-        "excerpt": "hankyung.comが5月6日に伝えたところによると、証券各社はAIメモリー需要とビッグテックの設備投資拡大を理由に両社の目標株価を引き上げた。",
-        "body": "hankyung.comが5月6日に報じたところによると、韓国株式市場の代表銘柄であるサムスン電子とSKハイニックスの上昇が続く中、証券業界は両社の目標株価を一斉に引き上げた。韓国取引所によれば、SKハイニックスは年初来145.93%、サムスン電子は121.85%上昇した。前年の上昇率はそれぞれ274.35%、125.38%だった。アルファベット、マイクロソフト、メタ、アマゾンの今年の資本支出は最大7250億ドルと集計され、前年より77%増えた。Epic AIによるサムスン電子の平均目標株価は30万6087ウォン、最高は40万ウォン。SKハイニックスは平均173万5455ウォン、最高230万ウォンとされた。hankyung.comは、半導体の供給不足と業績改善期待が背景だと伝えた。"
-      },
-      "zh": {
-        "title": "三星电子与SK海力士目标价上调，AI存储需求支撑半导体双雄",
-        "excerpt": "据hankyung.com 5月6日报道，券商因AI存储需求和大型科技公司资本开支扩大，上调三星电子与SK海力士目标价。",
-        "body": "据hankyung.com 5月6日报道，韩国股市代表股三星电子和SK海力士股价持续走强，券商同步上调两家公司目标价。韩国交易所数据显示，SK海力士今年以来上涨145.93%，三星电子上涨121.85%；两家公司去年涨幅分别为274.35%和125.38%。Alphabet、微软、Meta、亚马逊今年资本支出最高估计为7250亿美元，较上年增加77%。Epic AI数据显示，三星电子平均目标价为306087韩元，最高目标价为400000韩元；SK海力士平均目标价为1735455韩元，最高为2300000韩元。hankyung.com称，半导体供应短缺和业绩改善预期是目标价上调的背景。"
-      },
-      "es": {
-        "title": "Samsung Electronics y SK Hynix reciben alzas de precio objetivo por demanda de memoria IA",
-        "excerpt": "Según hankyung.com el 6 de mayo, las casas de bolsa elevaron los objetivos de Samsung Electronics y SK Hynix por demanda de memoria IA y mayor capex tecnológico.",
-        "body": "Según hankyung.com el 6 de mayo, Samsung Electronics y SK Hynix, valores líderes del mercado surcoreano, recibieron alzas generalizadas de precio objetivo mientras continuaba su fuerte avance bursátil. Datos de Korea Exchange muestran que SK Hynix sube 145,93% en lo que va del año y Samsung Electronics 121,85%. El año pasado avanzaron 274,35% y 125,38%, respectivamente. El gasto de capital de Alphabet, Microsoft, Meta y Amazon se estimó este año en hasta 725.000 millones de dólares, un 77% más interanual. Epic AI situó el objetivo medio de Samsung Electronics en 306.087 wones y el máximo en 400.000 wones; para SK Hynix, el promedio fue 1.735.455 wones y el máximo 2,3 millones. hankyung.com informó que la escasez de semiconductores y las expectativas de mejora de beneficios explican las subidas."
-      },
-      "pt": {
-        "title": "Samsung Electronics e SK Hynix têm preços-alvo elevados com demanda por memória de IA",
-        "excerpt": "Segundo o hankyung.com em 6 de maio, corretoras elevaram metas para Samsung Electronics e SK Hynix com demanda de memória de IA e maior capex das big techs.",
-        "body": "Segundo o hankyung.com em 6 de maio, Samsung Electronics e SK Hynix, ações representativas do mercado sul-coreano, tiveram seus preços-alvo elevados pelas corretoras enquanto a alta das cotações continuava. Dados da Korea Exchange mostram que a SK Hynix subiu 145,93% no ano e a Samsung Electronics 121,85%. No ano anterior, os ganhos foram de 274,35% e 125,38%, respectivamente. O investimento de capital de Alphabet, Microsoft, Meta e Amazon foi estimado em até US$ 725 bilhões neste ano, 77% acima do ano anterior. A Epic AI apontou preço-alvo médio de 306.087 won para a Samsung Electronics, com máxima de 400.000 won; para a SK Hynix, média de 1.735.455 won e máxima de 2,3 milhões de won. O hankyung.com informou que a escassez de semicondutores e a expectativa de melhora nos lucros sustentam as revisões."
-      },
-      "de": {
-        "title": "Samsung Electronics und SK Hynix: Kursziele wegen KI-Speichernachfrage angehoben",
-        "excerpt": "Laut hankyung.com vom 6. Mai hoben Broker die Kursziele für Samsung Electronics und SK Hynix wegen KI-Speichernachfrage und höherer Big-Tech-Investitionen an.",
-        "body": "Laut hankyung.com vom 6. Mai haben Broker ihre Kursziele für Samsung Electronics und SK Hynix, zwei Leitwerte des südkoreanischen Aktienmarkts, breit angehoben, nachdem die Rally anhielt. Nach Daten der Korea Exchange stieg SK Hynix seit Jahresbeginn um 145,93%, Samsung Electronics um 121,85%. Im Vorjahr hatten die Aktien 274,35% beziehungsweise 125,38% gewonnen. Die Kapitalausgaben von Alphabet, Microsoft, Meta und Amazon werden für dieses Jahr auf bis zu 725 Mrd. Dollar geschätzt, 77% mehr als im Vorjahr. Epic AI bezifferte das durchschnittliche Kursziel für Samsung Electronics auf 306.087 Won, das höchste auf 400.000 Won. Bei SK Hynix lagen der Durchschnitt bei 1.735.455 Won und das Hoch bei 2,3 Mio. Won. hankyung.com berichtete, dass Chipknappheit und Erwartungen besserer Ergebnisse die Anhebungen stützen."
-      },
-      "fr": {
-        "title": "Samsung Electronics et SK Hynix voient leurs objectifs relevés grâce à la mémoire IA",
-        "excerpt": "Selon hankyung.com le 6 mai, les courtiers ont relevé les objectifs de Samsung Electronics et SK Hynix avec la demande de mémoire IA et le capex des big techs.",
-        "body": "Selon hankyung.com le 6 mai, Samsung Electronics et SK Hynix, deux valeurs phares de la Bourse sud-coréenne, ont vu leurs objectifs de cours relevés alors que leur progression se poursuivait. D’après Korea Exchange, SK Hynix a gagné 145,93% depuis le début de l’année et Samsung Electronics 121,85%. L’an dernier, leurs hausses étaient respectivement de 274,35% et 125,38%. Les dépenses d’investissement d’Alphabet, Microsoft, Meta et Amazon sont estimées jusqu’à 725 milliards de dollars cette année, soit 77% de plus qu’un an plus tôt. Epic AI fixe l’objectif moyen de Samsung Electronics à 306 087 wons, avec un plus haut à 400 000 wons; pour SK Hynix, la moyenne est de 1 735 455 wons et le plus haut de 2,3 millions de wons. hankyung.com indique que la pénurie de semi-conducteurs et les attentes d’amélioration des bénéfices expliquent ces relèvements."
-      },
-      "ar": {
-        "title": "رفع الأهداف السعرية لسامسونغ إلكترونيكس وSK هاينكس بدعم طلب ذاكرة الذكاء الاصطناعي",
-        "excerpt": "وفق hankyung.com في 6 مايو، رفعت شركات الوساطة أهداف سامسونغ إلكترونيكس وSK هاينكس بسبب طلب ذاكرة الذكاء الاصطناعي وزيادة إنفاق شركات التقنية الكبرى.",
-        "body": "وفق ما نشره hankyung.com في 6 مايو، رفعت شركات الوساطة الأهداف السعرية لسهمي سامسونغ إلكترونيكس وSK هاينكس، وهما من أبرز أسهم السوق الكورية، مع استمرار صعودهما. وأظهرت بيانات بورصة كوريا أن SK هاينكس ارتفع 145.93% منذ بداية العام، بينما صعدت سامسونغ إلكترونيكس 121.85%. وكانت مكاسبهما في العام الماضي 274.35% و125.38% على التوالي. وقدرت النفقات الرأسمالية لكل من ألفابت ومايكروسوفت وميتا وأمازون هذا العام بما يصل إلى 725 مليار دولار، بزيادة 77% عن العام السابق. وبحسب Epic AI، بلغ متوسط الهدف لسامسونغ إلكترونيكس 306087 وون، وأعلى هدف 400000 وون، بينما بلغ متوسط SK هاينكس 1735455 وون وأعلى هدف 2.3 مليون وون. وذكر hankyung.com أن نقص أشباه الموصلات وتوقعات تحسن الأرباح يقفان وراء هذه الزيادات."
-      },
-      "hi": {
-        "title": "Samsung Electronics और SK Hynix के लक्ष्य मूल्य बढ़े, AI मेमोरी मांग मुख्य आधार",
-        "excerpt": "hankyung.com के अनुसार 6 मई को ब्रोकरेज ने AI मेमोरी मांग और बिग टेक के बढ़े पूंजीगत खर्च के कारण Samsung Electronics और SK Hynix के लक्ष्य मूल्य बढ़ाए।",
-        "body": "hankyung.com ने 6 मई को बताया कि दक्षिण कोरियाई बाजार के प्रमुख शेयर Samsung Electronics और SK Hynix में तेजी जारी रहने पर ब्रोकरेज ने दोनों के लक्ष्य मूल्य एक साथ बढ़ाए। Korea Exchange के आंकड़ों के अनुसार SK Hynix इस साल अब तक 145.93% और Samsung Electronics 121.85% चढ़ा है। पिछले साल दोनों में क्रमशः 274.35% और 125.38% की बढ़त रही थी। Alphabet, Microsoft, Meta और Amazon का इस वर्ष पूंजीगत खर्च अधिकतम 725 अरब डॉलर आंका गया, जो पिछले साल से 77% अधिक है। Epic AI के अनुसार Samsung Electronics का औसत लक्ष्य मूल्य 306087 वॉन और उच्चतम 400000 वॉन है। SK Hynix का औसत लक्ष्य 1735455 वॉन और उच्चतम 23 लाख वॉन है। hankyung.com ने बताया कि सेमीकंडक्टर आपूर्ति की कमी और आय सुधार की उम्मीदें इन बढ़ोतरी का आधार हैं।"
-      },
-      "id": {
-        "title": "Target Samsung Electronics dan SK Hynix dinaikkan berkat permintaan memori AI",
-        "excerpt": "Menurut hankyung.com pada 6 Mei, broker menaikkan target Samsung Electronics dan SK Hynix karena permintaan memori AI serta belanja modal big tech yang meningkat.",
-        "body": "Menurut hankyung.com pada 6 Mei, broker menaikkan target harga Samsung Electronics dan SK Hynix, dua saham utama Korea Selatan, saat reli keduanya berlanjut. Data Korea Exchange menunjukkan SK Hynix naik 145,93% sepanjang tahun ini, sementara Samsung Electronics naik 121,85%. Tahun lalu, kenaikannya masing-masing 274,35% dan 125,38%. Belanja modal Alphabet, Microsoft, Meta, dan Amazon tahun ini diperkirakan mencapai maksimum US$725 miliar, naik 77% dari tahun sebelumnya. Epic AI mencatat target rata-rata Samsung Electronics di 306.087 won, dengan target tertinggi 400.000 won. Untuk SK Hynix, target rata-ratanya 1.735.455 won dan tertinggi 2,3 juta won. hankyung.com melaporkan bahwa kekurangan pasokan semikonduktor dan ekspektasi perbaikan laba menjadi dasar kenaikan target tersebut."
-      }
-    }
-  },
-  {
-    "id": "36ca899b8500",
-    "slug": "바이오제약-부진에코스닥은-이달-찔끔-상승-435194",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-06T23:17:49.553Z",
-    "updatedAt": "2026-05-06T23:17:49.553Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050696321",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050696321",
-    "titleFingerprint": "e325f6fa9b3872a58ad3979499331ba91c348092",
-    "dedupKeys": [
-      "36ca899b85009cbbc0639c490d5521328e4fdcb0",
-      "e325f6fa9b3872a58ad3979499331ba91c348092",
-      "511433c69210dcaeb3418246905b442dbbb79186"
-    ],
-    "imageUrl": "/images/articles/36ca899b8500.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스닥 이달 찔끔 상승, 바이오·제약 부진이 발목 잡았다",
-        "excerpt": "한국경제 보도에 따르면 이달 코스닥은 바이오·제약 업종 부진의 영향으로 상승폭이 제한되며 ‘찔끔 상승’에 그친 것으로 전해졌다.",
-        "body": "이달 코스닥지수는 상승세를 보였지만 폭은 크지 않았다. 한국경제는 바이오·제약 업종의 부진이 코스닥 흐름에 부담으로 작용하면서 지수가 ‘찔끔 상승’하는 데 그쳤다고 보도했다. 코스닥 내 주요 성장 업종으로 꼽히는 바이오·제약이 힘을 내지 못하자 시장 전반의 상승 탄력도 제한된 것으로 풀이된다. 이에 따라 투자자들은 코스닥의 추가 상승 여부를 판단할 때 해당 업종의 회복 흐름을 함께 살펴볼 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KOSDAQ Edges Up This Month as Bio and Pharma Weakness Weighs",
-        "excerpt": "According to Hankyung, the KOSDAQ rose only slightly this month as weakness in biotechnology and pharmaceutical shares limited the index’s gains.",
-        "body": "The KOSDAQ index moved higher this month, but the gain was limited. Hankyung reported that weakness in biotechnology and pharmaceutical stocks weighed on the market, leaving the index with only a small rise. As bio and pharma are often viewed as key growth sectors within the KOSDAQ, their sluggish performance appears to have reduced the broader market’s upward momentum. Investors may therefore need to watch whether these sectors recover when assessing the KOSDAQ’s next move. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "コスダック、今月は小幅上昇　バイオ・製薬不振が重荷に",
-        "excerpt": "韓国経済新聞によると、今月のコスダックはバイオ・製薬業種の不振が影響し、上昇幅が限られ小幅高にとどまった。",
-        "body": "今月のコスダック指数は上昇したものの、その幅は大きくなかった。韓国経済新聞は、バイオ・製薬業種の不振がコスダックの流れに負担となり、指数は小幅上昇にとどまったと報じた。コスダック内で主要な成長業種とされるバイオ・製薬が力を欠いたことで、市場全体の上昇力も制限されたとみられる。投資家は今後のコスダックの追加上昇を判断する際、同業種の回復動向も確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "KOSDAQ本月仅小幅上涨，生物医药低迷拖累走势",
-        "excerpt": "据韩国经济新闻报道，本月KOSDAQ受生物技术和制药板块低迷影响，涨幅受到限制，仅录得小幅上涨。",
-        "body": "本月KOSDAQ指数虽呈上涨态势，但涨幅并不明显。韩国经济新闻报道称，生物技术和制药板块表现低迷，对KOSDAQ走势形成压力，使指数仅小幅上涨。由于生物医药通常被视为KOSDAQ中的主要成长板块，其乏力表现也限制了整体市场的上行动能。因此，投资者在判断KOSDAQ能否进一步上涨时，有必要同时关注相关板块是否出现恢复。来源: hankyung.com"
-      },
-      "es": {
-        "title": "KOSDAQ sube apenas este mes por la debilidad biofarmacéutica",
-        "excerpt": "Según Hankyung, el KOSDAQ avanzó solo ligeramente este mes, ya que la debilidad de los sectores biotecnológico y farmacéutico limitó sus ganancias.",
-        "body": "El índice KOSDAQ mostró una subida este mes, pero el avance fue reducido. Hankyung informó que la debilidad de las acciones biotecnológicas y farmacéuticas pesó sobre el mercado, dejando al índice con un incremento apenas marginal. Dado que estos sectores suelen considerarse motores de crecimiento dentro del KOSDAQ, su flojo desempeño habría limitado el impulso alcista general. Por ello, los inversores deberán observar si estas áreas se recuperan al evaluar nuevas subidas del índice. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "KOSDAQ sobe pouco no mês com fraqueza de biotecnologia e farmacêuticas",
-        "excerpt": "Segundo o Hankyung, o KOSDAQ avançou apenas ligeiramente neste mês, pressionado pelo fraco desempenho dos setores de biotecnologia e farmacêutico.",
-        "body": "O índice KOSDAQ registrou alta neste mês, mas o avanço foi limitado. O Hankyung informou que a fraqueza das ações de biotecnologia e farmacêuticas pesou sobre o mercado, fazendo o índice subir apenas de forma modesta. Como esses setores são vistos como importantes áreas de crescimento dentro do KOSDAQ, seu desempenho fraco teria reduzido o impulso de alta do mercado como um todo. Assim, investidores devem acompanhar a eventual recuperação desses segmentos ao avaliar novas altas do índice. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KOSDAQ steigt im Monat nur leicht, Bio- und Pharmaschwäche belastet",
-        "excerpt": "Laut Hankyung legte der KOSDAQ in diesem Monat nur geringfügig zu, weil schwache Biotechnologie- und Pharmawerte die Gewinne begrenzten.",
-        "body": "Der KOSDAQ-Index stieg in diesem Monat, doch der Zuwachs blieb gering. Hankyung berichtete, dass die Schwäche von Biotechnologie- und Pharmawerten den Markt belastete und der Index deshalb nur leicht zulegen konnte. Da diese Branchen im KOSDAQ häufig als wichtige Wachstumsbereiche gelten, dürfte ihre schwache Entwicklung die Aufwärtsdynamik des Gesamtmarkts begrenzt haben. Anleger sollten daher bei der Einschätzung weiterer KOSDAQ-Gewinne auch auf eine Erholung dieser Sektoren achten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le KOSDAQ progresse à peine ce mois-ci, freiné par la biotech et la pharma",
-        "excerpt": "Selon Hankyung, le KOSDAQ n’a progressé que légèrement ce mois-ci, la faiblesse des valeurs biotechnologiques et pharmaceutiques limitant ses gains.",
-        "body": "L’indice KOSDAQ a progressé ce mois-ci, mais l’ampleur de la hausse est restée limitée. Hankyung a rapporté que la faiblesse des secteurs biotechnologique et pharmaceutique a pesé sur le marché, laissant l’indice avec une hausse modeste. Ces secteurs étant souvent considérés comme des moteurs de croissance du KOSDAQ, leur manque de dynamisme semble avoir réduit l’élan haussier global. Les investisseurs devront donc suivre leur éventuelle reprise pour évaluer la poursuite de la hausse de l’indice. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كوسداك يرتفع بشكل طفيف هذا الشهر مع ضغط قطاعي الأدوية والتكنولوجيا الحيوية",
-        "excerpt": "بحسب هانكيونغ، سجّل مؤشر كوسداك ارتفاعا محدودا هذا الشهر بعدما كبحت ضعف أسهم التكنولوجيا الحيوية والأدوية مكاسبه.",
-        "body": "سجّل مؤشر كوسداك ارتفاعا هذا الشهر، لكن حجم الصعود لم يكن كبيرا. وذكرت هانكيونغ أن ضعف أسهم التكنولوجيا الحيوية والأدوية شكّل عبئا على حركة السوق، ما جعل المؤشر يكتفي بارتفاع طفيف. وبما أن هذين القطاعين يُنظر إليهما غالبا كقطاعين مهمين للنمو داخل كوسداك، فإن أداءهما الضعيف حدّ من زخم الصعود في السوق ككل. لذلك يحتاج المستثمرون إلى متابعة ما إذا كان هذان القطاعان سيستعيدان عافيتهما عند تقييم فرص استمرار صعود المؤشر. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KOSDAQ इस महीने मामूली बढ़ा, बायो और फार्मा कमजोरी ने रोकी रफ्तार",
-        "excerpt": "Hankyung के अनुसार, इस महीने KOSDAQ केवल थोड़ा बढ़ा क्योंकि बायोटेक और फार्मा शेयरों की कमजोरी ने सूचकांक की बढ़त सीमित कर दी।",
-        "body": "इस महीने KOSDAQ सूचकांक में बढ़त दिखी, लेकिन बढ़त का दायरा बड़ा नहीं था। Hankyung ने बताया कि बायोटेक और फार्मा शेयरों की कमजोरी बाजार पर दबाव बनी, जिससे सूचकांक केवल मामूली रूप से ऊपर गया। KOSDAQ में बायो और फार्मा को अक्सर प्रमुख ग्रोथ सेक्टर माना जाता है, इसलिए इनके कमजोर प्रदर्शन ने व्यापक बाजार की तेजी को सीमित किया। ऐसे में निवेशकों को सूचकांक की आगे की दिशा का आकलन करते समय इन क्षेत्रों की रिकवरी पर भी नजर रखनी होगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "KOSDAQ Naik Tipis Bulan Ini, Tertekan Lemahnya Bio dan Farmasi",
-        "excerpt": "Menurut Hankyung, KOSDAQ hanya naik tipis bulan ini karena pelemahan sektor bioteknologi dan farmasi membatasi penguatan indeks.",
-        "body": "Indeks KOSDAQ bergerak naik bulan ini, tetapi kenaikannya tidak besar. Hankyung melaporkan bahwa pelemahan saham bioteknologi dan farmasi membebani pergerakan pasar, sehingga indeks hanya mencatat kenaikan tipis. Karena sektor bio dan farmasi kerap dipandang sebagai sektor pertumbuhan utama di KOSDAQ, kinerja yang lemah turut membatasi momentum penguatan pasar secara keseluruhan. Investor perlu mencermati apakah sektor-sektor tersebut pulih saat menilai peluang kenaikan lanjutan KOSDAQ. Sumber: hankyung.com"
       }
     }
   }

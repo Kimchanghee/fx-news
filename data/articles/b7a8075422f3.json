@@ -1,0 +1,75 @@
+{
+  "id": "b7a8075422f3",
+  "slug": "ai-과열에-동참하라머스크-앤스로픽-동맹의-뜻-빈난새의-개장전요것만-441624",
+  "channelId": "FX",
+  "category": "fx",
+  "publishedAt": "2026-05-07T16:23:50.877Z",
+  "updatedAt": "2026-05-07T16:23:50.877Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/202605072726i",
+  "canonicalUrl": "https://www.hankyung.com/article/202605072726i",
+  "titleFingerprint": "6115641420d678523641b68a1e74bef47d2cd0f5",
+  "dedupKeys": [
+    "b7a8075422f38ac3a5f0d71a3c006adc7bc903b2",
+    "6115641420d678523641b68a1e74bef47d2cd0f5",
+    "3a2148fbfc05ba306d9a1b698a72693fa5948ba1"
+  ],
+  "imageUrl": "/images/articles/b7a8075422f3.jpg",
+  "i18n": {
+    "ko": {
+      "title": "xAI·앤스로픽 GPU 동맹, AI 과열장 속 머스크 클라우드 전략이 주목받는 이유",
+      "excerpt": "2026년 5월 7일 미국 증시 개장 전, 앤스로픽이 xAI의 대규모 GPU 클러스터 콜로서스1을 빌리기로 하며 AI 연산 수요와 머스크의 클라우드 전략이 부각됐다.",
+      "body": "2026년 5월 7일 미국 증시 개장 전 핵심 이슈로 일론 머스크의 AI 스타트업 xAI와 앤스로픽의 연산 인프라 협력이 부각됐다. 앤스로픽은 부족한 연산 능력을 확보하기 위해 xAI의 대규모 GPU 클러스터 ‘콜로서스1’을 임차하기로 했다. 배경에는 AI 고도화에 따른 데이터·메모리·연산 수요 확대가 있다. 야데니리서치는 반도체 산업의 ‘영구적 성장’을 주장했고, ARM은 상업용 AI CPU 수요가 6주 만에 2배로 늘었다고 밝혔다. xAI는 그록 점유율이 뒤처진 상황에서 유휴 자원을 외부에 판매해 수익성을 높일 수 있다. 디인포메이션은 xAI가 사실상 클라우드 회사가 되고 있다고 평가했다. 출처: hankyung.com"
+    },
+    "en": {
+      "title": "xAI-Anthropic GPU Deal Puts Musk’s Cloud Strategy in Focus Amid AI Frenzy",
+      "excerpt": "Before the U.S. market open on May 7, 2026, Anthropic agreed to lease xAI’s Colossus 1 GPU cluster, spotlighting AI compute demand and Elon Musk’s cloud strategy.",
+      "body": "Before the U.S. market open on May 7, 2026, a key issue was the infrastructure tie-up between Elon Musk’s AI startup xAI and Anthropic. Anthropic agreed to lease xAI’s large GPU cluster, Colossus 1, to secure scarce computing capacity. The backdrop is rising demand for data, memory and compute as AI advances. Yardeni Research argued that semiconductors could move into “permanent growth,” while ARM said demand for commercial AI CPUs doubled in just six weeks. For xAI, whose Grok market share lags, selling idle resources externally could improve profitability. The Information assessed that xAI is effectively becoming a cloud company. Source: hankyung.com"
+    },
+    "ja": {
+      "title": "xAI・AnthropicのGPU提携、AI過熱の中でマスク氏のクラウド戦略に注目",
+      "excerpt": "2026年5月7日の米株式市場開場前、AnthropicがxAIの大規模GPUクラスターColossus 1を借りる方針となり、AI計算需要とマスク氏のクラウド戦略が浮上した。",
+      "body": "2026年5月7日の米株式市場開場前の焦点として、イーロン・マスク氏のAIスタートアップxAIとAnthropicの計算インフラ協力が浮上した。Anthropicは不足する計算能力を確保するため、xAIの大規模GPUクラスター「Colossus 1」を借りることにした。背景にはAIの高度化に伴うデータ、メモリー、計算需要の拡大がある。Yardeni Researchは半導体産業の「恒久的成長」を主張し、ARMは商用AI CPU需要が6週間で2倍に増えたと明らかにした。Grokの市場シェアが遅れるxAIにとって、遊休資源の外販は収益性向上につながる。The Informationは、xAIが事実上クラウド企業になりつつあると評価した。出典: hankyung.com"
+    },
+    "zh": {
+      "title": "xAI与Anthropic GPU合作升温，AI热潮下马斯克云战略受关注",
+      "excerpt": "2026年5月7日美股开盘前，Anthropic决定租用xAI大型GPU集群Colossus 1，凸显AI算力需求与马斯克的云服务战略。",
+      "body": "2026年5月7日美股开盘前，市场关注的重点之一是埃隆·马斯克旗下AI初创公司xAI与Anthropic的算力基础设施合作。为弥补算力不足，Anthropic决定租用xAI的大型GPU集群“Colossus 1”。其背景是AI升级带来的数据、内存和计算需求扩大。Yardeni Research认为半导体产业可能进入“永久增长”，ARM也表示商用AI CPU需求在短短6周内翻倍。对Grok市场份额落后的xAI来说，向外部出售闲置资源有助于提升盈利能力。The Information评价称，xAI实际上正在成为一家云公司。来源: hankyung.com"
+    },
+    "es": {
+      "title": "Acuerdo GPU entre xAI y Anthropic enfoca la estrategia cloud de Musk en pleno auge de IA",
+      "excerpt": "Antes de la apertura de Wall Street del 7 de mayo de 2026, Anthropic acordó alquilar el clúster GPU Colossus 1 de xAI, destacando la demanda de cómputo de IA y la estrategia cloud de Musk.",
+      "body": "Antes de la apertura del mercado estadounidense el 7 de mayo de 2026, uno de los temas clave fue la cooperación de infraestructura entre xAI, la startup de IA de Elon Musk, y Anthropic. Anthropic acordó alquilar el gran clúster de GPU de xAI, Colossus 1, para asegurar capacidad de cómputo escasa. El contexto es el aumento de la demanda de datos, memoria y procesamiento por el avance de la IA. Yardeni Research sostuvo que los semiconductores podrían entrar en un crecimiento “permanente”, y ARM dijo que la demanda de CPU comerciales para IA se duplicó en seis semanas. Para xAI, rezagada en cuota con Grok, vender recursos ociosos puede elevar la rentabilidad. The Information afirmó que xAI se está convirtiendo de hecho en una empresa cloud. Fuente: hankyung.com"
+    },
+    "pt": {
+      "title": "Acordo GPU xAI-Anthropic destaca estratégia de nuvem de Musk em meio à febre da IA",
+      "excerpt": "Antes da abertura dos EUA em 7 de maio de 2026, a Anthropic decidiu alugar o cluster GPU Colossus 1 da xAI, destacando a demanda por computação de IA e a estratégia de nuvem de Musk.",
+      "body": "Antes da abertura do mercado dos EUA em 7 de maio de 2026, um dos pontos centrais foi a cooperação de infraestrutura entre a xAI, startup de IA de Elon Musk, e a Anthropic. A Anthropic decidiu alugar o grande cluster de GPUs Colossus 1 da xAI para garantir capacidade de computação escassa. O pano de fundo é a expansão da demanda por dados, memória e processamento com o avanço da IA. A Yardeni Research defendeu que semicondutores podem entrar em “crescimento permanente”, enquanto a ARM disse que a demanda por CPUs comerciais de IA dobrou em seis semanas. Para a xAI, cuja participação do Grok fica atrás, vender recursos ociosos pode melhorar a rentabilidade. The Information avaliou que a xAI está se tornando, na prática, uma empresa de nuvem. Fonte: hankyung.com"
+    },
+    "de": {
+      "title": "xAI-Anthropic-GPU-Deal rückt Musks Cloud-Strategie im KI-Boom in den Fokus",
+      "excerpt": "Vor US-Börsenstart am 7. Mai 2026 will Anthropic den GPU-Cluster Colossus 1 von xAI mieten. Das lenkt den Blick auf KI-Rechenbedarf und Musks Cloud-Strategie.",
+      "body": "Vor der Eröffnung des US-Marktes am 7. Mai 2026 rückte die Infrastrukturkooperation zwischen Elon Musks KI-Startup xAI und Anthropic in den Mittelpunkt. Anthropic will den großen GPU-Cluster Colossus 1 von xAI mieten, um knappe Rechenkapazität zu sichern. Hintergrund ist die steigende Nachfrage nach Daten, Speicher und Rechenleistung durch fortschreitende KI. Yardeni Research sprach von möglichem “permanentem Wachstum” der Halbleiterbranche, während ARM meldete, dass sich die Nachfrage nach kommerziellen KI-CPUs binnen sechs Wochen verdoppelt habe. Für xAI, dessen Grok-Marktanteil zurückliegt, kann der externe Verkauf ungenutzter Ressourcen die Rentabilität verbessern. The Information bewertete xAI als Unternehmen, das faktisch zu einer Cloud-Firma wird. Quelle: hankyung.com"
+    },
+    "fr": {
+      "title": "Accord GPU xAI-Anthropic: la stratégie cloud de Musk s’impose dans la fièvre de l’IA",
+      "excerpt": "Avant l’ouverture américaine du 7 mai 2026, Anthropic a décidé de louer le cluster GPU Colossus 1 de xAI, mettant en avant la demande de calcul IA et la stratégie cloud de Musk.",
+      "body": "Avant l’ouverture des marchés américains le 7 mai 2026, l’un des sujets majeurs a été la coopération d’infrastructure entre xAI, la start-up d’IA d’Elon Musk, et Anthropic. Anthropic a décidé de louer le grand cluster GPU Colossus 1 de xAI afin d’obtenir une capacité de calcul insuffisante. Le contexte est la hausse de la demande en données, mémoire et puissance de calcul avec les progrès de l’IA. Yardeni Research a évoqué une “croissance permanente” des semi-conducteurs, tandis qu’ARM a indiqué que la demande de CPU IA commerciaux avait doublé en six semaines. Pour xAI, dont Grok reste en retard en part de marché, vendre des ressources inutilisées à l’extérieur peut améliorer la rentabilité. The Information estime que xAI devient de fait une société cloud. Source: hankyung.com"
+    },
+    "ar": {
+      "title": "اتفاق GPU بين xAI وAnthropic يبرز استراتيجية ماسك السحابية وسط طفرة الذكاء الاصطناعي",
+      "excerpt": "قبل افتتاح السوق الأميركية في 7 مايو 2026، قررت Anthropic استئجار عنقود GPU الضخم Colossus 1 من xAI، ما أبرز طلب الحوسبة للذكاء الاصطناعي واستراتيجية ماسك السحابية.",
+      "body": "قبل افتتاح السوق الأميركية في 7 مايو 2026، برز تعاون البنية التحتية الحاسوبية بين شركة xAI الناشئة للذكاء الاصطناعي التابعة لإيلون ماسك وAnthropic كقضية رئيسية. وقررت Anthropic استئجار عنقود وحدات معالجة الرسوميات الضخم “Colossus 1” من xAI لتأمين قدرة حوسبة تعاني نقصا. وتأتي الخطوة مع اتساع الطلب على البيانات والذاكرة والحوسبة مع تطور الذكاء الاصطناعي. وقالت Yardeni Research إن صناعة أشباه الموصلات قد تتجه إلى “نمو دائم”، فيما أوضحت ARM أن الطلب على وحدات CPU التجارية للذكاء الاصطناعي تضاعف خلال ستة أسابيع. وبالنسبة إلى xAI، التي تتأخر حصة Grok السوقية لديها، قد يساعد بيع الموارد غير المستغلة خارجيا في تحسين الربحية. وقيّمت The Information أن xAI تتحول فعليا إلى شركة سحابية. المصدر: hankyung.com"
+    },
+    "hi": {
+      "title": "xAI-Anthropic GPU सौदा, AI उछाल में मस्क की क्लाउड रणनीति पर फोकस",
+      "excerpt": "7 मई 2026 को अमेरिकी बाजार खुलने से पहले Anthropic ने xAI के Colossus 1 GPU क्लस्टर को किराये पर लेने का फैसला किया, जिससे AI कंप्यूट मांग और मस्क की क्लाउड रणनीति उभरी।",
+      "body": "7 मई 2026 को अमेरिकी शेयर बाजार खुलने से पहले एलन मस्क की AI स्टार्टअप xAI और Anthropic के बीच कंप्यूट इन्फ्रास्ट्रक्चर सहयोग प्रमुख मुद्दा रहा। Anthropic ने कम पड़ती कंप्यूट क्षमता हासिल करने के लिए xAI के बड़े GPU क्लस्टर “Colossus 1” को किराये पर लेने का फैसला किया। इसकी पृष्ठभूमि AI के उन्नत होने से डेटा, मेमोरी और कंप्यूट मांग का बढ़ना है। Yardeni Research ने सेमीकंडक्टर उद्योग में “स्थायी वृद्धि” की बात कही, जबकि ARM ने बताया कि वाणिज्यिक AI CPU की मांग छह सप्ताह में दोगुनी हुई। Grok की बाजार हिस्सेदारी पीछे रहने की स्थिति में xAI निष्क्रिय संसाधन बाहर बेचकर लाभप्रदता बढ़ा सकती है। The Information ने आकलन किया कि xAI वस्तुतः क्लाउड कंपनी बन रही है। स्रोत: hankyung.com"
+    },
+    "id": {
+      "title": "Kesepakatan GPU xAI-Anthropic Sorot Strategi Cloud Musk di Tengah Demam AI",
+      "excerpt": "Menjelang pembukaan pasar AS pada 7 Mei 2026, Anthropic sepakat menyewa klaster GPU Colossus 1 milik xAI, menyoroti kebutuhan komputasi AI dan strategi cloud Elon Musk.",
+      "body": "Menjelang pembukaan pasar saham AS pada 7 Mei 2026, kerja sama infrastruktur komputasi antara startup AI Elon Musk, xAI, dan Anthropic menjadi isu utama. Anthropic sepakat menyewa klaster GPU besar xAI, Colossus 1, untuk mengamankan kapasitas komputasi yang terbatas. Latar belakangnya adalah meningkatnya kebutuhan data, memori, dan komputasi seiring kemajuan AI. Yardeni Research menyebut industri semikonduktor dapat memasuki “pertumbuhan permanen”, sementara ARM mengatakan permintaan CPU AI komersial berlipat dua dalam enam minggu. Bagi xAI, yang pangsa pasar Grok-nya tertinggal, menjual sumber daya menganggur ke pihak luar dapat meningkatkan profitabilitas. The Information menilai xAI pada dasarnya sedang menjadi perusahaan cloud. Sumber: hankyung.com"
+    }
+  }
+}
