@@ -1,5 +1,230 @@
 [
   {
+    "id": "d1f240fca3b6",
+    "slug": "미래에셋증권-알고리즘이-글로벌-자산에-분산투자맞춤-관리-104016",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-07T21:36:14.674Z",
+    "updatedAt": "2026-05-07T21:36:14.674Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050707931",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050707931",
+    "titleFingerprint": "d793e012ae5a4adbcc0ec2f5b53571f47aca6804",
+    "dedupKeys": [
+      "d1f240fca3b6326df6039acc26a96a36576884bc",
+      "d793e012ae5a4adbcc0ec2f5b53571f47aca6804",
+      "fe9a0e9d677ab4f4b604107cd07a08468a4fc24f"
+    ],
+    "imageUrl": "/images/articles/d1f240fca3b6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미래에셋증권 알고리즘 투자, 글로벌 자산 분산·맞춤 관리 주목",
+        "excerpt": "미래에셋증권은 알고리즘을 활용해 글로벌 자산에 분산 투자하고 고객별 맞춤 관리를 제공하는 방식으로 자산관리 서비스를 강화한다고 한국경제가 보도했다.",
+        "body": "미래에셋증권이 알고리즘을 활용해 글로벌 자산에 분산 투자하고 고객별 맞춤 관리를 제공하는 자산관리 서비스를 내세우고 있다. 보도에 따르면 이 방식은 투자 대상과 관리 과정을 알고리즘 기반으로 운용해 글로벌 자산 배분과 개인화된 관리에 초점을 맞춘다. 외환과 원자재를 포함한 글로벌 시장 환경에서는 특정 자산에 치우치지 않는 분산 접근이 중요해지고 있어, 알고리즘 기반 관리 서비스에 대한 관심도 이어질 수 있다. 다만 구체적인 운용 성과나 세부 수치는 원문에 제시되지 않았다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Mirae Asset Securities Algorithm Investing Highlights Global Diversification",
+        "excerpt": "Mirae Asset Securities is emphasizing an algorithm-based asset management approach that diversifies across global assets and offers tailored client management, Hankyung reported.",
+        "body": "Mirae Asset Securities is highlighting an asset management service that uses algorithms to diversify investments across global assets and provide customized management for clients. According to the report, the approach focuses on algorithm-driven portfolio allocation and management, with an emphasis on global asset diversification and personalization. In global markets that include foreign exchange and commodities, diversified exposure rather than concentration in a single asset can draw attention to algorithm-based management services. The original report did not provide specific performance figures or detailed operating metrics. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "未来アセット証券のアルゴリズム投資、世界資産の分散管理に注目",
+        "excerpt": "未来アセット証券は、アルゴリズムを活用して世界の資産へ分散投資し、顧客別にカスタマイズした管理を行う資産管理サービスを強調していると韓国経済が報じた。",
+        "body": "未来アセット証券は、アルゴリズムを活用して世界の資産に分散投資し、顧客ごとにカスタマイズした管理を提供する資産管理サービスを打ち出している。報道によると、この方式は投資対象の配分と管理プロセスをアルゴリズムに基づいて運用し、グローバルな資産配分と個別管理に焦点を当てる。外国為替やコモディティを含む世界市場では、特定資産に偏らない分散アプローチが重要になっており、アルゴリズム型管理サービスへの関心も続く可能性がある。ただし、具体的な運用成績や詳細な数値は原文で示されていない。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "未来资产证券算法投资聚焦全球资产分散与定制管理",
+        "excerpt": "据韩国经济报道，未来资产证券正强调以算法为基础的资产管理方式，通过全球资产分散投资并提供面向客户的定制化管理。",
+        "body": "未来资产证券正推出一种利用算法进行全球资产分散投资，并为客户提供定制化管理的资产管理服务。报道称，该方式以算法为基础运行投资配置和管理流程，重点放在全球资产配置与个性化管理上。在包括外汇和大宗商品在内的全球市场环境中，避免过度集中于单一资产的分散方法变得更受关注，因此算法型管理服务也可能继续受到市场留意。不过，原文并未披露具体的投资业绩或详细运营数据。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Mirae Asset Securities impulsa inversión algorítmica en activos globales",
+        "excerpt": "Mirae Asset Securities destaca un servicio de gestión patrimonial basado en algoritmos que invierte de forma diversificada en activos globales y ofrece administración personalizada, informó Hankyung.",
+        "body": "Mirae Asset Securities está destacando un servicio de gestión patrimonial que utiliza algoritmos para invertir de forma diversificada en activos globales y ofrecer administración personalizada a sus clientes. Según el reporte, el enfoque opera la asignación de inversiones y el proceso de gestión con base algorítmica, con énfasis en la diversificación global y la personalización. En mercados globales que incluyen divisas y materias primas, una estrategia que no se concentre en un solo activo gana relevancia, lo que puede mantener el interés en los servicios de gestión algorítmica. El texto original no presentó cifras concretas de rendimiento ni datos operativos detallados. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Mirae Asset Securities destaca investimento algorítmico em ativos globais",
+        "excerpt": "A Mirae Asset Securities enfatiza uma gestão patrimonial baseada em algoritmos, com diversificação em ativos globais e administração personalizada para clientes, informou o Hankyung.",
+        "body": "A Mirae Asset Securities está destacando um serviço de gestão patrimonial que usa algoritmos para investir de forma diversificada em ativos globais e oferecer administração personalizada aos clientes. Segundo a reportagem, o modelo conduz a alocação dos investimentos e o processo de gestão com base algorítmica, dando foco à diversificação global e ao atendimento individualizado. Em mercados globais que incluem câmbio e commodities, uma abordagem que evita concentração em um único ativo ganha importância, mantendo a atenção sobre serviços de gestão algorítmica. O texto original não informou resultados específicos de gestão nem dados operacionais detalhados. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Mirae Asset Securities setzt auf Algorithmus-Investments in globale Anlagen",
+        "excerpt": "Mirae Asset Securities stellt laut Hankyung eine algorithmusbasierte Vermögensverwaltung heraus, die global diversifiziert investiert und kundenindividuelle Betreuung bietet.",
+        "body": "Mirae Asset Securities hebt eine Vermögensverwaltung hervor, die Algorithmen nutzt, um breit in globale Anlagen zu investieren und Kunden individuell zu betreuen. Dem Bericht zufolge steuert dieser Ansatz die Anlageaufteilung und den Verwaltungsprozess algorithmusbasiert, mit Schwerpunkt auf globaler Diversifikation und personalisiertem Management. In globalen Märkten, zu denen Devisen und Rohstoffe gehören, gewinnt ein Ansatz an Bedeutung, der nicht auf einzelne Anlagen konzentriert ist. Dadurch kann das Interesse an algorithmusgestützten Verwaltungsdiensten anhalten. Konkrete Performancezahlen oder detaillierte operative Kennziffern wurden im Originalbericht nicht genannt. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Mirae Asset Securities mise sur l’investissement algorithmique mondial",
+        "excerpt": "Mirae Asset Securities met en avant une gestion d’actifs fondée sur des algorithmes, combinant diversification mondiale et gestion personnalisée, selon Hankyung.",
+        "body": "Mirae Asset Securities met en avant un service de gestion d’actifs qui utilise des algorithmes pour investir de manière diversifiée dans des actifs mondiaux et offrir une gestion personnalisée aux clients. Selon l’article, cette méthode repose sur une allocation et un processus de gestion pilotés par algorithme, avec un accent sur la diversification internationale et l’adaptation au profil de chaque client. Sur des marchés mondiaux incluant les changes et les matières premières, une approche moins concentrée sur un seul actif gagne en importance, ce qui peut soutenir l’intérêt pour la gestion algorithmique. Le texte original ne fournit pas de chiffres précis de performance ni d’indicateurs détaillés. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "ميراي أسيت سيكيوريتيز تبرز الاستثمار الخوارزمي في الأصول العالمية",
+        "excerpt": "تركز ميراي أسيت سيكيوريتيز على خدمة لإدارة الأصول تعتمد على الخوارزميات، وتستثمر بشكل موزع في الأصول العالمية مع إدارة مخصصة للعملاء، وفق هانكيونغ.",
+        "body": "تسلط ميراي أسيت سيكيوريتيز الضوء على خدمة لإدارة الأصول تستخدم الخوارزميات للاستثمار المتنوع في الأصول العالمية وتقديم إدارة مخصصة لكل عميل. ووفق التقرير، يعتمد هذا النهج على تشغيل توزيع الاستثمارات وعملية الإدارة بصورة خوارزمية، مع التركيز على توزيع الأصول عالميا والتخصيص الفردي. وفي بيئة الأسواق العالمية التي تشمل العملات والسلع، تزداد أهمية النهج الذي لا يتركز في أصل واحد، ما قد يبقي الاهتمام بخدمات الإدارة القائمة على الخوارزميات. ولم يذكر النص الأصلي أرقاما محددة للأداء أو بيانات تشغيلية تفصيلية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "मिरे एसेट सिक्योरिटीज का एल्गोरिदम निवेश वैश्विक विविधीकरण पर केंद्रित",
+        "excerpt": "हैंक्युंग के अनुसार, मिरे एसेट सिक्योरिटीज एल्गोरिदम आधारित एसेट मैनेजमेंट पर जोर दे रही है, जिसमें वैश्विक परिसंपत्तियों में विविध निवेश और ग्राहकों के लिए अनुकूलित प्रबंधन शामिल है।",
+        "body": "मिरे एसेट सिक्योरिटीज ऐसी एसेट मैनेजमेंट सेवा को आगे रख रही है जो एल्गोरिदम का उपयोग कर वैश्विक परिसंपत्तियों में विविध निवेश करती है और ग्राहकों को अनुकूलित प्रबंधन देती है। रिपोर्ट के अनुसार, यह तरीका निवेश आवंटन और प्रबंधन प्रक्रिया को एल्गोरिदम आधारित ढंग से चलाता है तथा वैश्विक परिसंपत्ति आवंटन और व्यक्तिगत प्रबंधन पर केंद्रित है। विदेशी मुद्रा और कमोडिटी सहित वैश्विक बाजारों में किसी एक परिसंपत्ति पर निर्भर न रहने वाला विविधीकरण अधिक महत्वपूर्ण हो रहा है, जिससे एल्गोरिदम आधारित प्रबंधन सेवाओं में रुचि बनी रह सकती है। मूल रिपोर्ट में प्रदर्शन के ठोस आंकड़े या विस्तृत परिचालन डेटा नहीं दिया गया। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Mirae Asset Securities Soroti Investasi Algoritmik pada Aset Global",
+        "excerpt": "Mirae Asset Securities menekankan layanan manajemen aset berbasis algoritma yang melakukan diversifikasi ke aset global dan memberi pengelolaan khusus bagi klien, lapor Hankyung.",
+        "body": "Mirae Asset Securities menonjolkan layanan manajemen aset yang menggunakan algoritma untuk berinvestasi secara terdiversifikasi pada aset global dan memberikan pengelolaan yang disesuaikan bagi klien. Menurut laporan tersebut, pendekatan ini menjalankan alokasi investasi dan proses manajemen berbasis algoritma, dengan fokus pada pembagian aset global dan personalisasi. Di pasar global yang mencakup valuta asing dan komoditas, pendekatan yang tidak terkonsentrasi pada satu aset menjadi semakin penting, sehingga minat pada layanan manajemen berbasis algoritma dapat berlanjut. Laporan asli tidak menyajikan angka kinerja spesifik atau data operasional terperinci. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "c7cd3327f5e1",
+    "slug": "반도체-투톱-올라탄-월배당-etf투자자-유치-경쟁-불붙었다-140005",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-07T21:35:21.376Z",
+    "updatedAt": "2026-05-07T21:35:21.376Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050707921",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050707921",
+    "titleFingerprint": "f47c48a3b1b5067a10a9bbb83cd4fdc6e681e7a2",
+    "dedupKeys": [
+      "c7cd3327f5e1ad32934ed9b2a7976cc46b0de02c",
+      "f47c48a3b1b5067a10a9bbb83cd4fdc6e681e7a2",
+      "7dc0f85455dda12290228b6ff1163ca6b417c1bf"
+    ],
+    "imageUrl": "/images/articles/c7cd3327f5e1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체 월배당 ETF 경쟁 가열…삼성전자·SK하이닉스 담고 투자자 유치전",
+        "excerpt": "2026년 5월 7일 금융투자업계에 따르면 삼성·미래에셋·브이아이·키움운용이 반도체 대형주 기반 월배당 ETF를 잇달아 내놓으며 투자자 유치 경쟁을 벌이고 있다.",
+        "body": "2026년 5월 7일 금융투자업계에 따르면 삼성전자와 SK하이닉스 등 반도체 대표주를 담은 월배당 상장지수펀드 ETF 출시 경쟁이 뜨거워지고 있다. 삼성자산운용은 이르면 이달 KODEX 반도체타겟위클리커버드콜을 내놓을 계획이다. 미래에셋자산운용은 지난달 21일 TIGER 반도체TOP10커버드콜액티브를 상장했으며, 삼성전자와 SK하이닉스 비중을 약 50%로 구성했다. 브이아이자산운용은 지난달 7일 FOCUS AI반도체위클리고정커버드콜을 출시했고, 키움투자자산운용은 두 종목과 우량 채권을 50대50으로 담은 KIWOOM 삼성전자&SK하이닉스채권혼합50을 선보였다. 커버드콜 전략은 분배금 재원을 만들지만 기초자산 대비 성과 차이가 커질 수 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Monthly Dividend Semiconductor ETFs Heat Up With Samsung Electronics and SK Hynix",
+        "excerpt": "As of May 7, 2026, Samsung, Mirae Asset, VI and Kiwoom asset managers are competing to attract investors with monthly dividend ETFs built around major Korean semiconductor stocks.",
+        "body": "As of May 7, 2026, competition is intensifying in monthly dividend ETFs that invest in leading semiconductor stocks such as Samsung Electronics and SK Hynix. Samsung Asset Management plans to launch KODEX Semiconductor Target Weekly Covered Call as early as this month. Mirae Asset Management listed TIGER Semiconductor TOP10 Covered Call Active on April 21, with Samsung Electronics and SK Hynix making up about 50% of the portfolio. VI Asset Management introduced FOCUS AI Semiconductor Weekly Fixed Covered Call on April 7, while Kiwoom Asset Management launched KIWOOM Samsung Electronics & SK Hynix Bond Mixed 50, split 50:50 between the two stocks and high-grade bonds. Covered calls can support distributions, but performance may diverge from the underlying assets. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "半導体月配当ETFの競争過熱、サムスン電子・SKハイニックスで投資家争奪",
+        "excerpt": "2026年5月7日時点で、サムスン、未来アセット、VI、キウムの運用各社が韓国の半導体大型株を組み入れた月配当ETFで投資家獲得を競っている。",
+        "body": "2026年5月7日、金融投資業界によると、サムスン電子やSKハイニックスなど半導体代表銘柄に投資する月配当ETFの発売競争が激しくなっている。サムスン資産運用は早ければ今月、KODEX半導体ターゲット・ウィークリー・カバードコールを投入する計画だ。未来アセット資産運用は4月21日にTIGER半導体TOP10カバードコールアクティブを上場し、サムスン電子とSKハイニックスを約50%組み入れた。VI資産運用は4月7日にFOCUS AI半導体ウィークリー固定カバードコールを発売し、キウム投資資産運用は2銘柄と優良債を50対50で組み入れる商品を出した。カバードコールは分配原資を作る一方、基礎資産との成績差が広がる可能性がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "半导体月派息ETF竞争升温，三星电子和SK海力士成吸金核心",
+        "excerpt": "截至2026年5月7日，三星、未来资产、VI和Kiwoom等资管公司围绕韩国大型半导体股推出月派息ETF，争夺投资者资金。",
+        "body": "据金融投资业界2026年5月7日消息，投资三星电子、SK海力士等半导体代表股的月派息ETF发行竞争正在升温。三星资产管理计划最早于本月推出KODEX Semiconductor Target Weekly Covered Call。未来资产管理已于4月21日上市TIGER Semiconductor TOP10 Covered Call Active，其中三星电子和SK海力士约占组合50%。VI资产管理于4月7日推出FOCUS AI Semiconductor Weekly Fixed Covered Call，Kiwoom投资资产管理则推出将两只股票与优质债券按50比50配置的KIWOOM Samsung Electronics & SK Hynix Bond Mixed 50。备兑看涨策略可形成分配资金来源，但相对基础资产的收益差距可能扩大。来源: hankyung.com"
+      },
+      "es": {
+        "title": "ETF mensuales de semiconductores compiten por inversores con Samsung y SK Hynix",
+        "excerpt": "Al 7 de mayo de 2026, Samsung, Mirae Asset, VI y Kiwoom compiten por captar inversores con ETF de reparto mensual centrados en grandes acciones coreanas de semiconductores.",
+        "body": "Al 7 de mayo de 2026, según la industria financiera, se intensifica la competencia por lanzar ETF de reparto mensual que invierten en líderes de semiconductores como Samsung Electronics y SK Hynix. Samsung Asset Management planea lanzar KODEX Semiconductor Target Weekly Covered Call tan pronto como este mes. Mirae Asset Management listó el 21 de abril TIGER Semiconductor TOP10 Covered Call Active, con Samsung Electronics y SK Hynix cerca del 50% de la cartera. VI Asset Management lanzó el 7 de abril FOCUS AI Semiconductor Weekly Fixed Covered Call, y Kiwoom Asset Management presentó un producto dividido 50:50 entre esas dos acciones y bonos de alta calidad. La estrategia covered call puede financiar distribuciones, aunque el rendimiento puede separarse del activo subyacente. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "ETFs mensais de semicondutores acirram disputa com Samsung Electronics e SK Hynix",
+        "excerpt": "Em 7 de maio de 2026, Samsung, Mirae Asset, VI e Kiwoom disputam investidores com ETFs de dividendos mensais baseados em grandes ações coreanas de semicondutores.",
+        "body": "Em 7 de maio de 2026, segundo o setor financeiro, cresce a disputa por ETFs de dividendos mensais que investem em nomes de semicondutores como Samsung Electronics e SK Hynix. A Samsung Asset Management planeja lançar o KODEX Semiconductor Target Weekly Covered Call já neste mês. A Mirae Asset Management listou em 21 de abril o TIGER Semiconductor TOP10 Covered Call Active, com Samsung Electronics e SK Hynix em cerca de 50% da carteira. A VI Asset Management lançou em 7 de abril o FOCUS AI Semiconductor Weekly Fixed Covered Call, enquanto a Kiwoom Asset Management apresentou produto com as duas ações e títulos de alta qualidade na proporção 50:50. Covered calls ajudam a financiar distribuições, mas o desempenho pode se afastar dos ativos de base. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Monatliche Halbleiter-ETFs buhlen mit Samsung Electronics und SK Hynix um Anleger",
+        "excerpt": "Am 7. Mai 2026 konkurrieren Samsung, Mirae Asset, VI und Kiwoom mit monatlich ausschüttenden ETFs auf große koreanische Halbleiterwerte um Anlegergelder.",
+        "body": "Nach Angaben der Finanzinvestmentbranche vom 7. Mai 2026 verschärft sich der Wettbewerb bei monatlich ausschüttenden ETFs, die in Halbleiter-Schwergewichte wie Samsung Electronics und SK Hynix investieren. Samsung Asset Management will bereits in diesem Monat den KODEX Semiconductor Target Weekly Covered Call auflegen. Mirae Asset Management listete am 21. April den TIGER Semiconductor TOP10 Covered Call Active, in dem Samsung Electronics und SK Hynix etwa 50% des Portfolios ausmachen. VI Asset Management brachte am 7. April den FOCUS AI Semiconductor Weekly Fixed Covered Call heraus. Kiwoom Asset Management stellte ein Produkt vor, das die beiden Aktien und hochwertige Anleihen im Verhältnis 50:50 hält. Covered Calls können Ausschüttungen finanzieren, doch die Wertentwicklung kann vom Basiswert abweichen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les ETF mensuels de semi-conducteurs misent sur Samsung Electronics et SK Hynix",
+        "excerpt": "Au 7 mai 2026, Samsung, Mirae Asset, VI et Kiwoom se disputent les investisseurs avec des ETF à distribution mensuelle centrés sur les grandes valeurs coréennes des semi-conducteurs.",
+        "body": "Au 7 mai 2026, selon le secteur financier, la concurrence s’intensifie autour des ETF à distribution mensuelle investis dans des leaders des semi-conducteurs comme Samsung Electronics et SK Hynix. Samsung Asset Management prévoit de lancer dès ce mois-ci KODEX Semiconductor Target Weekly Covered Call. Mirae Asset Management a coté le 21 avril TIGER Semiconductor TOP10 Covered Call Active, où Samsung Electronics et SK Hynix représentent environ 50% du portefeuille. VI Asset Management a lancé le 7 avril FOCUS AI Semiconductor Weekly Fixed Covered Call, tandis que Kiwoom Asset Management a présenté un produit réparti à 50:50 entre ces deux actions et des obligations de qualité. Les covered calls peuvent financer les distributions, mais la performance peut s’écarter des actifs sous-jacents. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صناديق أشباه الموصلات ذات التوزيع الشهري تتنافس عبر سامسونغ وSK هاينكس",
+        "excerpt": "في 7 مايو 2026، تتنافس سامسونغ وميرا أست وVI وكيوم على جذب المستثمرين بصناديق ETF شهرية التوزيع ترتكز على أسهم كورية كبرى في أشباه الموصلات.",
+        "body": "في 7 مايو 2026، وبحسب قطاع الاستثمار المالي، تشتد المنافسة في صناديق ETF ذات التوزيع الشهري التي تستثمر في أسهم أشباه الموصلات الكبرى مثل Samsung Electronics وSK Hynix. تخطط Samsung Asset Management لإطلاق KODEX Semiconductor Target Weekly Covered Call في وقت قد يكون هذا الشهر. وأدرجت Mirae Asset Management في 21 أبريل صندوق TIGER Semiconductor TOP10 Covered Call Active، حيث تشكل Samsung Electronics وSK Hynix نحو 50% من المحفظة. وأطلقت VI Asset Management في 7 أبريل صندوق FOCUS AI Semiconductor Weekly Fixed Covered Call، بينما قدمت Kiwoom Asset Management منتجا يوزع الأصول بنسبة 50:50 بين السهمين وسندات عالية الجودة. استراتيجية covered call قد تدعم التوزيعات، لكن الأداء قد يبتعد عن الأصول الأساسية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर मासिक ETF में प्रतिस्पर्धा तेज, Samsung Electronics और SK Hynix केंद्र में",
+        "excerpt": "7 मई 2026 तक Samsung, Mirae Asset, VI और Kiwoom कोरियाई सेमीकंडक्टर दिग्गजों पर आधारित मासिक वितरण ETF से निवेशकों को आकर्षित करने की होड़ में हैं।",
+        "body": "7 मई 2026 को वित्तीय निवेश उद्योग के अनुसार Samsung Electronics और SK Hynix जैसे प्रमुख सेमीकंडक्टर शेयरों में निवेश करने वाले मासिक वितरण ETF की प्रतिस्पर्धा तेज हो रही है। Samsung Asset Management इस महीने की शुरुआत में KODEX Semiconductor Target Weekly Covered Call लॉन्च करने की योजना बना रही है। Mirae Asset Management ने 21 अप्रैल को TIGER Semiconductor TOP10 Covered Call Active सूचीबद्ध किया, जिसमें Samsung Electronics और SK Hynix का वजन लगभग 50% है। VI Asset Management ने 7 अप्रैल को FOCUS AI Semiconductor Weekly Fixed Covered Call पेश किया, जबकि Kiwoom Asset Management ने दोनों शेयरों और उच्च गुणवत्ता वाले बॉन्ड को 50:50 अनुपात में रखने वाला उत्पाद लॉन्च किया। Covered call रणनीति वितरण का स्रोत बना सकती है, लेकिन प्रदर्शन आधारभूत परिसंपत्तियों से अलग हो सकता है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "ETF Dividen Bulanan Semikonduktor Bersaing Lewat Samsung Electronics dan SK Hynix",
+        "excerpt": "Pada 7 Mei 2026, Samsung, Mirae Asset, VI, dan Kiwoom bersaing menarik investor melalui ETF dividen bulanan berbasis saham besar semikonduktor Korea.",
+        "body": "Pada 7 Mei 2026, menurut industri investasi keuangan, persaingan ETF dividen bulanan yang berinvestasi pada saham semikonduktor utama seperti Samsung Electronics dan SK Hynix makin memanas. Samsung Asset Management berencana meluncurkan KODEX Semiconductor Target Weekly Covered Call paling cepat bulan ini. Mirae Asset Management mencatatkan TIGER Semiconductor TOP10 Covered Call Active pada 21 April, dengan Samsung Electronics dan SK Hynix sekitar 50% dari portofolio. VI Asset Management meluncurkan FOCUS AI Semiconductor Weekly Fixed Covered Call pada 7 April, sementara Kiwoom Asset Management menghadirkan produk yang membagi dua saham tersebut dan obligasi berkualitas tinggi dengan rasio 50:50. Strategi covered call dapat menjadi sumber distribusi, tetapi kinerjanya bisa berbeda dari aset acuan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "3263ff6cf433",
+    "slug": "스페이스x-특수에도-우주-etf-마이너스-431057",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-07T21:34:13.456Z",
+    "updatedAt": "2026-05-07T21:34:13.456Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050707871",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050707871",
+    "titleFingerprint": "f9ed383e99f57750a9a431c36720528e8f781ac5",
+    "dedupKeys": [
+      "3263ff6cf433eb47a200c808a65ded037fc00e79",
+      "f9ed383e99f57750a9a431c36720528e8f781ac5",
+      "28366ee666ce1e68b056c6e50b3c790ed1e8b6a7"
+    ],
+    "imageUrl": "/images/articles/3263ff6cf433.jpg",
+    "i18n": {
+      "ko": {
+        "title": "우주 ETF, 스페이스X 특수에도 수익률 마이너스 기록",
+        "excerpt": "스페이스X 관련 기대가 우주 산업 투자심리를 자극했지만, 우주 ETF는 기대와 달리 마이너스 수익률을 기록했다고 hankyung.com이 전했다.",
+        "body": "스페이스X를 둘러싼 투자 기대가 이어지는 가운데 우주 산업에 투자하는 ETF는 오히려 마이너스 수익률을 기록한 것으로 전해졌다. 원문은 스페이스X 특수가 우주 관련 자산 전반의 성과로 곧바로 이어지지 않았다는 점을 핵심으로 짚었다. 우주 ETF는 특정 기업 이슈와 별개로 편입 종목 구성, 시장 변동성, 투자자금 흐름 등에 따라 성과가 달라질 수 있다. 이번 사례는 우주 산업 성장 기대가 ETF 수익률 개선을 보장하지 않는다는 점을 보여준다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Space ETFs Stay Negative Despite SpaceX-Driven Investor Interest",
+        "excerpt": "SpaceX-related momentum has lifted attention on the space sector, but space ETFs still posted negative returns, hankyung.com reported.",
+        "body": "Even as investor interest around SpaceX continues, ETFs focused on the space industry have reportedly recorded negative returns. The original report highlights that the so-called SpaceX effect has not directly translated into stronger performance across space-related investment products. Space ETFs can move differently from a single company theme because returns depend on holdings, market volatility and fund flows. The case shows that expectations for space-industry growth do not necessarily guarantee improved ETF performance. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "宇宙ETF、スペースX特需でもマイナス収益率に",
+        "excerpt": "スペースX関連の期待が宇宙産業への関心を高める一方、宇宙ETFはマイナス収益率を記録したとhankyung.comが報じた。",
+        "body": "スペースXをめぐる投資期待が続くなか、宇宙産業に投資するETFはむしろマイナス収益率を記録したと伝えられた。原文は、スペースX特需が宇宙関連資産全体の成果に直結していない点を中心に取り上げている。宇宙ETFは特定企業の話題とは別に、組み入れ銘柄、市場の変動性、資金フローなどによって成績が変わり得る。今回の事例は、宇宙産業の成長期待がETF収益率の改善を保証するものではないことを示している。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "太空ETF未受SpaceX热潮带动，收益率仍为负",
+        "excerpt": "SpaceX相关预期提升了市场对太空产业的关注，但太空ETF仍录得负收益，hankyung.com对此进行了报道。",
+        "body": "在围绕SpaceX的投资期待持续升温之际，投资太空产业的ETF却被报道录得负收益。原文指出，所谓SpaceX热潮并未直接转化为太空相关投资产品整体表现的改善。太空ETF的表现可能不同于单一企业题材，因为其收益受持仓结构、市场波动和资金流向等因素影响。此次情况显示，对太空产业增长的期待并不必然保证ETF收益率改善。来源: hankyung.com."
+      },
+      "es": {
+        "title": "ETF espaciales siguen en negativo pese al impulso de SpaceX",
+        "excerpt": "El interés generado por SpaceX elevó la atención sobre la industria espacial, pero los ETF del sector registraron rentabilidades negativas, informó hankyung.com.",
+        "body": "Mientras continúa el interés inversor en torno a SpaceX, los ETF centrados en la industria espacial habrían registrado rentabilidades negativas. El informe original subraya que el llamado efecto SpaceX no se ha traducido directamente en un mejor desempeño de los productos de inversión relacionados con el espacio. Los ETF espaciales pueden moverse de forma distinta a una sola historia corporativa, ya que dependen de sus carteras, la volatilidad del mercado y los flujos de capital. El caso muestra que las expectativas de crecimiento del sector espacial no garantizan una mejora en la rentabilidad de los ETF. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "ETFs espaciais ficam negativos apesar do impulso da SpaceX",
+        "excerpt": "O interesse ligado à SpaceX aumentou a atenção sobre o setor espacial, mas ETFs da área registraram retornos negativos, segundo o hankyung.com.",
+        "body": "Mesmo com a continuidade das expectativas de investimento em torno da SpaceX, ETFs focados na indústria espacial teriam registrado retornos negativos. A reportagem original destaca que o chamado efeito SpaceX não se traduziu diretamente em melhor desempenho dos produtos de investimento ligados ao espaço. ETFs espaciais podem se comportar de modo diferente de uma tese concentrada em uma empresa, pois dependem da composição da carteira, da volatilidade do mercado e dos fluxos de recursos. O caso mostra que expectativas de crescimento do setor espacial não garantem melhora no retorno dos ETFs. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Weltraum-ETFs trotz SpaceX-Effekt mit negativer Rendite",
+        "excerpt": "Die Erwartungen rund um SpaceX lenken Aufmerksamkeit auf die Raumfahrtbranche, doch Weltraum-ETFs verzeichneten negative Renditen, berichtet hankyung.com.",
+        "body": "Während das Anlegerinteresse an SpaceX anhält, haben auf die Raumfahrtbranche ausgerichtete ETFs Berichten zufolge negative Renditen erzielt. Der Originalbericht betont, dass der sogenannte SpaceX-Effekt nicht unmittelbar zu einer besseren Entwicklung raumfahrtbezogener Anlageprodukte geführt hat. Weltraum-ETFs können sich unabhängig von einem einzelnen Unternehmensimpuls entwickeln, da ihre Ergebnisse von Portfoliostruktur, Marktvolatilität und Kapitalflüssen abhängen. Der Fall zeigt, dass Wachstumserwartungen für die Raumfahrtbranche keine bessere ETF-Rendite garantieren. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Les ETF spatiaux restent négatifs malgré l’effet SpaceX",
+        "excerpt": "L’intérêt suscité par SpaceX a renforcé l’attention portée au secteur spatial, mais les ETF spécialisés affichent des rendements négatifs, selon hankyung.com.",
+        "body": "Alors que l’intérêt des investisseurs autour de SpaceX se poursuit, les ETF consacrés à l’industrie spatiale auraient enregistré des rendements négatifs. L’article original souligne que l’effet SpaceX ne s’est pas directement traduit par une meilleure performance des produits d’investissement liés à l’espace. Les ETF spatiaux peuvent évoluer différemment d’un thème centré sur une seule entreprise, car leurs résultats dépendent de la composition du portefeuille, de la volatilité du marché et des flux de capitaux. Ce cas montre que les attentes de croissance du secteur spatial ne garantissent pas une amélioration des rendements des ETF. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "صناديق الفضاء المتداولة تبقى سلبية رغم زخم سبيس إكس",
+        "excerpt": "رغم أن توقعات سبيس إكس رفعت الاهتمام بقطاع الفضاء، فإن صناديق المؤشرات المتداولة المتخصصة سجلت عوائد سلبية، بحسب hankyung.com.",
+        "body": "مع استمرار الاهتمام الاستثماري المرتبط بسبيس إكس، أفادت التقارير بأن صناديق المؤشرات المتداولة التي تستثمر في صناعة الفضاء سجلت عوائد سلبية. ويركز التقرير الأصلي على أن ما يسمى بتأثير سبيس إكس لم يتحول مباشرة إلى أداء أقوى لمنتجات الاستثمار المرتبطة بالفضاء. فقد تتحرك صناديق الفضاء المتداولة بشكل مختلف عن قصة شركة واحدة، لأن نتائجها تعتمد على مكونات المحفظة وتقلبات السوق وتدفقات الأموال. وتوضح هذه الحالة أن توقعات نمو صناعة الفضاء لا تضمن تحسن عوائد صناديق المؤشرات المتداولة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "SpaceX उत्साह के बावजूद स्पेस ETF का रिटर्न नकारात्मक",
+        "excerpt": "SpaceX से जुड़ी उम्मीदों ने अंतरिक्ष क्षेत्र में रुचि बढ़ाई, लेकिन स्पेस ETF ने नकारात्मक रिटर्न दर्ज किया, hankyung.com ने बताया।",
+        "body": "SpaceX को लेकर निवेशकों की उम्मीदें बनी रहने के बीच, अंतरिक्ष उद्योग में निवेश करने वाले ETF ने कथित तौर पर नकारात्मक रिटर्न दर्ज किया। मूल रिपोर्ट का मुख्य बिंदु यह है कि SpaceX से जुड़ा उत्साह अंतरिक्ष संबंधी निवेश उत्पादों के व्यापक प्रदर्शन में सीधे नहीं बदला। स्पेस ETF का प्रदर्शन किसी एक कंपनी की खबर से अलग हो सकता है, क्योंकि रिटर्न पोर्टफोलियो संरचना, बाजार उतार-चढ़ाव और धन प्रवाह पर निर्भर करता है। यह मामला दिखाता है कि अंतरिक्ष उद्योग की वृद्धि की उम्मीद ETF रिटर्न में सुधार की गारंटी नहीं देती। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "ETF Antariksa Tetap Negatif Meski Ada Sentimen SpaceX",
+        "excerpt": "Ekspektasi terkait SpaceX meningkatkan perhatian pada industri antariksa, tetapi ETF antariksa masih mencatat imbal hasil negatif, menurut hankyung.com.",
+        "body": "Di tengah berlanjutnya minat investasi terhadap SpaceX, ETF yang berfokus pada industri antariksa dilaporkan justru mencatat imbal hasil negatif. Laporan asli menyoroti bahwa efek SpaceX tidak langsung berubah menjadi kinerja yang lebih kuat bagi produk investasi terkait antariksa secara luas. ETF antariksa dapat bergerak berbeda dari isu satu perusahaan karena hasilnya dipengaruhi komposisi portofolio, volatilitas pasar, dan arus dana. Kasus ini menunjukkan bahwa ekspektasi pertumbuhan industri antariksa tidak menjamin perbaikan imbal hasil ETF. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "2ba8f90bf8a5",
     "slug": "10년-뒤-170조-시장유망-로봇주-선점하라-516598",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Yedaham Raih Penghargaan Ketua FTC untuk Perlindungan Konsumen di Etika ESG",
         "excerpt": "The-K Yedaham terpilih sebagai perusahaan unggul dalam etika ESG pada Konferensi ESG Berkelanjutan Nasional ke-20 berkat pengelolaan kontrak transparan.",
         "body": "The-K Yedaham terpilih sebagai perusahaan unggul dalam kategori etika korporasi lingkungan, sosial, dan tata kelola (ESG) pada Konferensi ESG Berkelanjutan Nasional ke-20 dan menerima Penghargaan Ketua Komisi Perdagangan Adil. Penghargaan ini mengakui upaya perlindungan hak konsumen, termasuk pengelolaan kontrak yang transparan. Yedaham dinilai dari keandalan operasi kontrak terkait layanan bantuan bersama serta praktik etika korporasi. Di tengah meningkatnya tuntutan sosial terhadap manajemen ESG, penghargaan ini menunjukkan bahwa operasi yang berfokus pada perlindungan konsumen menjadi standar penting dalam penilaian keberlanjutan perusahaan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6530b09224d1",
-    "slug": "안전-기본부터-정립한국남부발전-건설현장-안전관리-혁신-워크숍-개최-396790",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T07:33:23.513Z",
-    "updatedAt": "2026-05-07T07:33:23.513Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039219",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039219",
-    "titleFingerprint": "8dcdf33fc822e49fb866fffc479dac6a2dc0d257",
-    "dedupKeys": [
-      "6530b09224d16bf71b351237d0976db7081d9008",
-      "8dcdf33fc822e49fb866fffc479dac6a2dc0d257",
-      "3108b582acd46635bcb972039e49da623b097fba"
-    ],
-    "imageUrl": "/images/articles/6530b09224d1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국남부발전, 건설현장 안전관리 혁신 워크숍 개최…안전 기본 재정립",
-        "excerpt": "한국남부발전은 6~7일 안동빛드림본부에서 건설현장 안전관리 혁신 워크숍을 열고 안전 기본 지키기 확산과 협력사 합동 사고 예방 환경 조성에 나섰다.",
-        "body": "한국남부발전은 6~7일 안동빛드림본부에서 ‘건설현장 안전관리 혁신 워크숍’을 개최하고 안전사고 예방 환경 조성에 총력을 기울였다. 이번 워크숍은 건설현장에서 안전의 기본을 다시 정립하고, 기본 수칙 준수 문화를 확산하기 위한 취지로 마련됐다. 남부발전은 협력사와 함께 안전사고 예방 환경을 만드는 데 초점을 맞췄다. 건설현장 안전관리 혁신을 통해 현장 구성원들이 기본을 지키는 분위기를 넓히고, 협력사와의 합동 대응을 강화한다는 방향이다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Korea Southern Power Holds Construction Site Safety Management Innovation Workshop",
-        "excerpt": "Korea Southern Power held a construction site safety management innovation workshop on May 6-7 at Andong Bitdream Headquarters to reinforce basic safety practices with partners.",
-        "body": "Korea Southern Power held a “Construction Site Safety Management Innovation Workshop” on May 6-7 at Andong Bitdream Headquarters, focusing on creating an environment to prevent safety accidents. The workshop was organized to reestablish the basics of safety at construction sites and expand a culture of following fundamental safety rules. The company emphasized joint efforts with partner firms to build accident-prevention conditions. Through innovation in construction site safety management, Korea Southern Power aims to spread basic safety compliance among site personnel and strengthen coordinated responses with contractors. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "韓国南部発電、建設現場の安全管理革新ワークショップを開催",
-        "excerpt": "韓国南部発電は6～7日、安東ビットドリーム本部で建設現場安全管理革新ワークショップを開き、安全基本順守と協力会社との事故予防環境づくりを進めた。",
-        "body": "韓国南部発電は6～7日、安東ビットドリーム本部で「建設現場安全管理革新ワークショップ」を開催し、安全事故を防ぐ環境づくりに力を入れた。今回のワークショップは、建設現場で安全の基本を改めて確立し、基本ルールを守る文化を広げる目的で開かれた。南部発電は協力会社とともに安全事故予防環境を整えることに重点を置いた。建設現場の安全管理革新を通じ、現場関係者が基本を守る雰囲気を広げ、協力会社との共同対応を強化する方針だ。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "韩国南部发电举办建设现场安全管理创新研讨会，重申安全基本原则",
-        "excerpt": "韩国南部发电于6日至7日在安东Bitdream总部举办建设现场安全管理创新研讨会，推动遵守安全基本要求并与合作企业共同预防事故。",
-        "body": "韩国南部发电于6日至7日在安东Bitdream总部举办“建设现场安全管理创新研讨会”，全力营造预防安全事故的环境。此次研讨会旨在重新确立建设现场的安全基本原则，并扩大遵守基本安全守则的文化。南部发电把与合作企业共同打造安全事故预防环境作为重点。通过建设现场安全管理创新，公司计划进一步扩大现场人员遵守安全基本要求的氛围，并加强与合作企业的联合应对。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Korea Southern Power celebra taller de innovación en seguridad para obras",
-        "excerpt": "Korea Southern Power celebró el 6 y 7 de mayo en la sede Andong Bitdream un taller de innovación en seguridad de obras para reforzar normas básicas y prevenir accidentes con socios.",
-        "body": "Korea Southern Power celebró el 6 y 7 de mayo en la sede Andong Bitdream el “Taller de innovación en gestión de seguridad en obras”, centrado en crear un entorno para prevenir accidentes de seguridad. La iniciativa se preparó para volver a establecer los principios básicos de seguridad en los sitios de construcción y extender una cultura de cumplimiento de las normas fundamentales. La empresa puso el foco en trabajar junto con sus contratistas para formar un entorno de prevención de accidentes. Mediante esta innovación en la gestión de seguridad, busca ampliar el cumplimiento básico en terreno y fortalecer la respuesta conjunta con socios. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Korea Southern Power realiza workshop de inovação em segurança em obras",
-        "excerpt": "A Korea Southern Power realizou em 6 e 7 de maio, na sede Andong Bitdream, um workshop de inovação em segurança de obras para reforçar regras básicas e prevenir acidentes com parceiras.",
-        "body": "A Korea Southern Power realizou em 6 e 7 de maio, na sede Andong Bitdream, o “Workshop de Inovação em Gestão de Segurança em Canteiros de Obras”, com foco em criar um ambiente de prevenção de acidentes. O encontro foi organizado para restabelecer os fundamentos da segurança nos canteiros e ampliar a cultura de cumprimento das regras básicas. A empresa destacou a atuação conjunta com companhias parceiras para formar condições de prevenção. Com a inovação na gestão de segurança em obras, pretende disseminar a observância dos princípios básicos entre as equipes e reforçar a resposta conjunta com contratadas. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Korea Southern Power veranstaltet Workshop zur Sicherheit auf Baustellen",
-        "excerpt": "Korea Southern Power hielt am 6. und 7. Mai am Standort Andong Bitdream einen Workshop zur Innovation im Baustellen-Sicherheitsmanagement ab, um Grundregeln und Unfallprävention mit Partnern zu stärken.",
-        "body": "Korea Southern Power veranstaltete am 6. und 7. Mai am Standort Andong Bitdream den „Workshop zur Innovation im Sicherheitsmanagement auf Baustellen“ und konzentrierte sich darauf, ein Umfeld zur Vermeidung von Sicherheitsunfällen zu schaffen. Der Workshop sollte die Grundlagen der Sicherheit auf Baustellen neu festigen und eine Kultur der Einhaltung grundlegender Regeln verbreiten. Das Unternehmen legte den Schwerpunkt auf gemeinsame Maßnahmen mit Partnerfirmen zur Unfallprävention. Durch Innovation im Baustellen-Sicherheitsmanagement sollen die Einhaltung der Grundlagen vor Ort ausgeweitet und die koordinierte Reaktion mit Auftragnehmern gestärkt werden. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Korea Southern Power organise un atelier sur la sécurité des chantiers",
-        "excerpt": "Korea Southern Power a organisé les 6 et 7 mai au siège Andong Bitdream un atelier d’innovation sur la sécurité des chantiers afin de renforcer les règles de base et la prévention avec ses partenaires.",
-        "body": "Korea Southern Power a organisé les 6 et 7 mai au siège Andong Bitdream un « atelier d’innovation sur la gestion de la sécurité des chantiers », en mettant l’accent sur la création d’un environnement de prévention des accidents. L’événement visait à rétablir les bases de la sécurité sur les chantiers et à diffuser une culture de respect des règles fondamentales. L’entreprise a souligné son travail conjoint avec les sociétés partenaires pour prévenir les accidents. Par cette innovation dans la gestion de la sécurité, elle entend étendre le respect des principes de base parmi les équipes de terrain et renforcer la réponse coordonnée avec les contractants. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "كوريا ساوثرن باور تعقد ورشة لابتكار إدارة السلامة في مواقع البناء",
-        "excerpt": "عقدت كوريا ساوثرن باور يومي 6 و7 مايو في مقر أندونغ بيتدريم ورشة لابتكار إدارة السلامة في مواقع البناء لترسيخ قواعد السلامة الأساسية والوقاية المشتركة من الحوادث مع الشركاء.",
-        "body": "عقدت كوريا ساوثرن باور يومي 6 و7 مايو في مقر أندونغ بيتدريم “ورشة ابتكار إدارة السلامة في مواقع البناء”، مع التركيز على تهيئة بيئة تمنع حوادث السلامة. وجاءت الورشة لإعادة ترسيخ أساسيات السلامة في مواقع البناء ونشر ثقافة الالتزام بالقواعد الأساسية. وركزت الشركة على العمل مع الشركات المتعاونة لبناء بيئة للوقاية من الحوادث. ومن خلال ابتكار إدارة السلامة في مواقع البناء، تهدف كوريا ساوثرن باور إلى توسيع التزام العاملين في المواقع بالأساسيات وتعزيز الاستجابة المشتركة مع المتعاقدين. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "कोरिया सदर्न पावर ने निर्माण स्थल सुरक्षा प्रबंधन नवाचार कार्यशाला आयोजित की",
-        "excerpt": "कोरिया सदर्न पावर ने 6-7 मई को एंडोंग बिटड्रीम मुख्यालय में निर्माण स्थल सुरक्षा प्रबंधन नवाचार कार्यशाला आयोजित कर बुनियादी सुरक्षा पालन और साझेदारों के साथ दुर्घटना रोकथाम पर जोर दिया।",
-        "body": "कोरिया सदर्न पावर ने 6-7 मई को एंडोंग बिटड्रीम मुख्यालय में “निर्माण स्थल सुरक्षा प्रबंधन नवाचार कार्यशाला” आयोजित की और सुरक्षा दुर्घटनाओं की रोकथाम के लिए वातावरण बनाने पर ध्यान केंद्रित किया। यह कार्यशाला निर्माण स्थलों पर सुरक्षा की बुनियाद को फिर से स्थापित करने और बुनियादी नियमों के पालन की संस्कृति फैलाने के उद्देश्य से तैयार की गई थी। कंपनी ने साझेदार कंपनियों के साथ मिलकर दुर्घटना-रोकथाम का वातावरण बनाने पर जोर दिया। निर्माण स्थल सुरक्षा प्रबंधन में नवाचार के जरिए वह स्थल कर्मियों में बुनियादी सुरक्षा पालन को बढ़ाना और ठेकेदारों के साथ संयुक्त प्रतिक्रिया को मजबूत करना चाहती है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Korea Southern Power Gelar Workshop Inovasi Keselamatan Lokasi Konstruksi",
-        "excerpt": "Korea Southern Power menggelar workshop inovasi manajemen keselamatan lokasi konstruksi pada 6-7 Mei di Kantor Pusat Andong Bitdream untuk memperkuat kepatuhan dasar dan pencegahan kecelakaan bersama mitra.",
-        "body": "Korea Southern Power menggelar “Workshop Inovasi Manajemen Keselamatan Lokasi Konstruksi” pada 6-7 Mei di Kantor Pusat Andong Bitdream, dengan fokus menciptakan lingkungan pencegahan kecelakaan keselamatan. Workshop ini disiapkan untuk menegakkan kembali dasar-dasar keselamatan di lokasi konstruksi dan memperluas budaya kepatuhan terhadap aturan dasar. Perusahaan menekankan kerja bersama dengan perusahaan mitra dalam membangun lingkungan pencegahan kecelakaan. Melalui inovasi manajemen keselamatan lokasi konstruksi, Korea Southern Power ingin memperluas kepatuhan dasar di kalangan personel lapangan dan memperkuat respons bersama dengan kontraktor. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "3028eeed9704",
-    "slug": "해외서-트리플-성장ktg-수익성-중심-경영에-1분기-실적-날았다-718934",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T07:32:17.270Z",
-    "updatedAt": "2026-05-07T07:32:17.270Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039247",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039247",
-    "titleFingerprint": "2bca7f697cd4d80d8f35a792c6820040c6e32866",
-    "dedupKeys": [
-      "3028eeed970446659d91090e7efb0ddc98fb36ba",
-      "2bca7f697cd4d80d8f35a792c6820040c6e32866",
-      "283385d5df05c667e004a00086303735821cd6e0"
-    ],
-    "imageUrl": "/images/articles/3028eeed9704.jpg",
-    "i18n": {
-      "ko": {
-        "title": "KT&G 1분기 실적 개선, 해외궐련 영업이익 56% 상승이 견인",
-        "excerpt": "KT&G가 1분기 해외궐련 영업이익 56% 증가와 수익성 중심 경영을 바탕으로 그룹 실적을 끌어올렸고, 하반기 배당 강화 중심의 신주주환원 정책 발표도 예고했다.",
-        "body": "KT&G(사장 방경만)는 1분기 해외궐련 부문의 영업이익이 56% 상승하며 그룹 실적 개선을 이끌었다. 회사의 본업 경쟁력 강화와 적극적인 수익성 중심 경영이 실적으로 연결된 결과다. 원문은 해외에서 ‘트리플 성장’ 흐름이 나타났다고 전했다. 특히 해외궐련 사업의 수익성 확대가 그룹 실적을 견인한 핵심 요인으로 제시됐다. KT&G는 하반기 배당 강화에 초점을 맞춘 신주주환원 정책을 발표할 계획이다. 이는 실적 개선과 함께 주주가치 제고 방향을 분명히 하는 조치로 풀이된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KT&G Q1 Earnings Rise as Overseas Cigarette Operating Profit Jumps 56%",
-        "excerpt": "KT&G lifted group performance in the first quarter as overseas cigarette operating profit rose 56%, supported by profitability-focused management and stronger core competitiveness.",
-        "body": "KT&G, led by President Bang Kyung-man, reported improved first-quarter results as operating profit from overseas cigarettes rose 56%, helping drive group performance. The result reflected stronger competitiveness in its core business and an active focus on profitability-centered management. The original report said the company saw a “triple growth” trend overseas. The overseas cigarette business was cited as the key factor supporting the group’s earnings improvement. KT&G also plans to announce a new shareholder return policy in the second half, centered on stronger dividends. The move is presented alongside the earnings improvement as part of its direction to enhance shareholder value. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KT&G第1四半期業績改善、海外紙巻たばこ営業益56％増が牽引",
-        "excerpt": "KT&Gは第1四半期、海外紙巻たばこの営業利益が56％増加し、収益性重視の経営と本業競争力の強化を背景にグループ業績を押し上げた。",
-        "body": "KT&G（方敬萬社長）は第1四半期、海外紙巻たばこ部門の営業利益が56％増加し、グループ業績の改善を牽引した。本業の競争力強化と、積極的な収益性重視の経営が実績につながった形だ。原文は、海外で「トリプル成長」の流れが見られたと伝えている。特に海外紙巻たばこ事業の収益性拡大が、グループ業績を支えた主要因として示された。KT&Gは下半期に、配当強化を中心とする新たな株主還元政策を発表する計画だ。これは業績改善とともに、株主価値向上の方向性を明確にする動きと受け止められる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KT&G一季度业绩改善，海外卷烟营业利润增长56%成关键",
-        "excerpt": "KT&G一季度海外卷烟营业利润增长56%，在强化主营竞争力和以盈利为中心的经营带动下，推动集团业绩改善，并计划下半年发布强化分红的新股东回报政策。",
-        "body": "KT&G（社长方庆万）一季度海外卷烟业务营业利润增长56%，带动集团业绩改善。公司强化主营业务竞争力，并积极推进以盈利为中心的经营，相关成果体现在业绩中。原文称，KT&G在海外出现了“三重增长”趋势。其中，海外卷烟业务盈利能力扩大，被视为支撑集团业绩的核心因素。KT&G计划在下半年发布以强化分红为重点的新股东回报政策。该举措与业绩改善一同，显示公司提升股东价值的方向。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KT&G mejora resultados del 1T: beneficio operativo exterior sube 56%",
-        "excerpt": "KT&G elevó sus resultados del primer trimestre gracias a un aumento del 56% en el beneficio operativo de cigarrillos en el exterior y a una gestión centrada en rentabilidad.",
-        "body": "KT&G, presidida por Bang Kyung-man, mejoró sus resultados del primer trimestre después de que el beneficio operativo del negocio de cigarrillos en el exterior aumentara un 56% y respaldara el desempeño del grupo. El resultado reflejó el refuerzo de la competitividad del negocio principal y una gestión activa centrada en la rentabilidad. El texto original señaló una tendencia de “triple crecimiento” en el exterior. La expansión de la rentabilidad del negocio internacional de cigarrillos fue presentada como el factor clave que impulsó las cifras del grupo. KT&G prevé anunciar en la segunda mitad del año una nueva política de retorno al accionista centrada en reforzar los dividendos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KT&G melhora no 1º trimestre com alta de 56% no lucro operacional externo",
-        "excerpt": "A KT&G elevou o desempenho do grupo no primeiro trimestre com alta de 56% no lucro operacional de cigarros no exterior, apoiada por gestão focada em rentabilidade.",
-        "body": "A KT&G, presidida por Bang Kyung-man, registrou melhora nos resultados do primeiro trimestre após o lucro operacional do segmento de cigarros no exterior subir 56% e impulsionar o desempenho do grupo. O resultado refletiu o fortalecimento da competitividade do negócio principal e uma gestão ativa voltada à rentabilidade. O texto original afirmou que houve uma tendência de “crescimento triplo” no exterior. A expansão da rentabilidade dos cigarros internacionais foi apontada como fator central para a melhora do grupo. A KT&G planeja anunciar no segundo semestre uma nova política de retorno ao acionista com foco no reforço dos dividendos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KT&G steigert Q1-Ergebnis: Auslandsgeschäft mit Zigaretten legt 56% zu",
-        "excerpt": "KT&G verbesserte im ersten Quartal die Konzernleistung, da der operative Gewinn im ausländischen Zigarettengeschäft um 56% stieg und das Management stärker auf Profitabilität setzte.",
-        "body": "KT&G unter Präsident Bang Kyung-man hat im ersten Quartal bessere Ergebnisse erzielt, nachdem der operative Gewinn im ausländischen Zigarettengeschäft um 56% gestiegen war und die Konzernleistung gestützt hatte. Das Ergebnis spiegelt die Stärkung der Wettbewerbsfähigkeit im Kerngeschäft und ein aktives, auf Profitabilität ausgerichtetes Management wider. Der Originalbericht sprach von einem Trend zu „dreifachem Wachstum“ im Ausland. Besonders die höhere Rentabilität des Auslandsgeschäfts mit Zigaretten wurde als zentraler Faktor für die Ergebnisverbesserung genannt. KT&G plant, in der zweiten Jahreshälfte eine neue Aktionärsrenditepolitik mit Fokus auf stärkere Dividenden anzukündigen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "KT&G améliore son 1er trimestre avec +56% de bénéfice opérationnel à l’étranger",
-        "excerpt": "KT&G a porté la performance du groupe au premier trimestre grâce à une hausse de 56% du bénéfice opérationnel des cigarettes à l’étranger et à une gestion axée sur la rentabilité.",
-        "body": "KT&G, dirigé par Bang Kyung-man, a amélioré ses résultats du premier trimestre après une hausse de 56% du bénéfice opérationnel de l’activité cigarettes à l’étranger, qui a soutenu la performance du groupe. Ce résultat traduit le renforcement de la compétitivité du cœur de métier et une gestion active centrée sur la rentabilité. Le texte original évoque une dynamique de « triple croissance » à l’étranger. L’amélioration de la rentabilité des cigarettes hors Corée a été présentée comme le principal moteur des résultats du groupe. KT&G prévoit aussi d’annoncer au second semestre une nouvelle politique de retour aux actionnaires axée sur le renforcement des dividendes. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "KT&G تحسن نتائج الربع الأول مع صعود ربح السجائر الخارجية 56%",
-        "excerpt": "رفعت KT&G أداء المجموعة في الربع الأول مع زيادة الربح التشغيلي للسجائر في الخارج 56%، مدعومة بتعزيز تنافسية النشاط الأساسي وإدارة تركز على الربحية.",
-        "body": "سجلت KT&G، برئاسة بانغ كيونغ-مان، تحسنا في نتائج الربع الأول بعدما ارتفع الربح التشغيلي لقطاع السجائر في الخارج 56%، ما دعم أداء المجموعة. وجاءت النتائج انعكاسا لتعزيز تنافسية النشاط الأساسي واتباع إدارة نشطة تركز على الربحية. وذكر النص الأصلي أن الشركة شهدت في الخارج اتجاها نحو “نمو ثلاثي”. وجرى تقديم توسع ربحية نشاط السجائر الخارجية باعتباره العامل الرئيسي وراء تحسن أداء المجموعة. وتخطط KT&G للإعلان في النصف الثاني عن سياسة جديدة لعوائد المساهمين تركز على تعزيز التوزيعات النقدية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KT&G की पहली तिमाही बेहतर, विदेशी सिगरेट परिचालन लाभ 56% बढ़ा",
-        "excerpt": "KT&G ने पहली तिमाही में विदेशी सिगरेट कारोबार के परिचालन लाभ में 56% वृद्धि और लाभप्रदता केंद्रित प्रबंधन के दम पर समूह प्रदर्शन में सुधार दर्ज किया।",
-        "body": "KT&G, जिसके अध्यक्ष बांग क्यूंग-मान हैं, ने पहली तिमाही में बेहतर नतीजे दर्ज किए क्योंकि विदेशी सिगरेट कारोबार का परिचालन लाभ 56% बढ़ा और समूह प्रदर्शन को सहारा मिला। यह परिणाम मुख्य कारोबार की प्रतिस्पर्धात्मकता मजबूत करने और लाभप्रदता केंद्रित सक्रिय प्रबंधन से जुड़ा रहा। मूल रिपोर्ट में कहा गया कि विदेशों में “ट्रिपल ग्रोथ” की प्रवृत्ति दिखी। विदेशी सिगरेट कारोबार की लाभप्रदता में विस्तार को समूह नतीजों में सुधार का प्रमुख कारण बताया गया। KT&G दूसरी छमाही में लाभांश मजबूती पर केंद्रित नई शेयरधारक रिटर्न नीति घोषित करने की योजना बना रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kinerja KT&G Kuartal I Naik, Laba Operasi Rokok Luar Negeri Melonjak 56%",
-        "excerpt": "KT&G meningkatkan kinerja grup pada kuartal pertama setelah laba operasi rokok luar negeri naik 56%, didukung penguatan bisnis inti dan manajemen yang berfokus pada profitabilitas.",
-        "body": "KT&G, yang dipimpin Presiden Bang Kyung-man, mencatat perbaikan kinerja kuartal pertama setelah laba operasi segmen rokok luar negeri naik 56% dan mendorong hasil grup. Capaian ini mencerminkan penguatan daya saing bisnis utama serta penerapan manajemen aktif yang berfokus pada profitabilitas. Naskah asli menyebut adanya tren “pertumbuhan tiga kali lipat” di luar negeri. Peningkatan profitabilitas bisnis rokok luar negeri disebut sebagai faktor utama yang menopang kinerja grup. KT&G juga berencana mengumumkan kebijakan baru pengembalian nilai kepada pemegang saham pada paruh kedua, dengan fokus pada penguatan dividen. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c2322adc7f39",
-    "slug": "신설법인-5월-1일-5월-7일-468404",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T07:31:07.930Z",
-    "updatedAt": "2026-05-07T07:31:07.931Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039259",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039259",
-    "titleFingerprint": "6dbbf011fda0c2cf870e994462c4aadee897e59f",
-    "dedupKeys": [
-      "c2322adc7f39bacc56ecc3a9f76a96459d5bb8f8",
-      "6dbbf011fda0c2cf870e994462c4aadee897e59f",
-      "dd299977862b955f017a86554cf013e8a8419d47"
-    ],
-    "imageUrl": "/images/articles/c2322adc7f39.jpg",
-    "i18n": {
-      "ko": {
-        "title": "신설법인 5월 1일~7일 명단 공개, 엑셀 첨부로 다운로드 제공",
-        "excerpt": "mk.co.kr은 5월 1일부터 5월 7일까지의 신설법인 자료를 엑셀 첨부 파일로 제공한다고 알렸으며, 해당 항목을 누르면 다운로드할 수 있다.",
-        "body": "mk.co.kr은 5월 1일부터 5월 7일까지의 신설법인 자료를 안내했다. 이번 자료는 해당 기간 중 등록된 신설법인 정보를 확인할 수 있도록 엑셀 파일 형태의 첨부 자료로 제작됐다. 이용자는 기사 내 ‘신설법인’ 항목을 누르면 첨부 파일을 다운로드할 수 있다. 원문은 별도의 세부 업종, 지역, 법인 수, 대표자명 등 추가 수치를 제시하지 않았으며, 제공 방식이 엑셀 첨부 파일이라는 점을 명시했다. 신설법인 자료는 기간별 법인 설립 현황을 확인하려는 독자에게 기초 자료로 활용될 수 있다. 다만 원문에는 자료 해석이나 전망에 대한 별도 설명은 포함되지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "New Corporations From May 1-7 Released With Excel Download Available",
-        "excerpt": "mk.co.kr reported that data on newly established corporations from May 1 to May 7 is available as an Excel attachment that can be downloaded by clicking the item.",
-        "body": "mk.co.kr provided information on newly established corporations for the period from May 1 to May 7. The material was prepared as an attached Excel file so readers can check the data for companies newly registered during that period. Users can download the attachment by clicking the “New Corporations” item in the article. The original notice did not provide additional figures such as industry, region, number of companies, or representative names, and specified only that the material is offered as an Excel attachment. The data may serve as a basic reference for readers looking to review corporate establishment records by period. The original text did not include separate interpretation or outlook. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "5月1日～7日の新設法人リスト公開、エクセル添付で提供",
-        "excerpt": "mk.co.krは、5月1日から5月7日までの新設法人資料をエクセル添付ファイルで提供し、該当項目を押すとダウンロードできると伝えた。",
-        "body": "mk.co.krは、5月1日から5月7日までの新設法人資料を案内した。今回の資料は、同期間に登録された新設法人情報を確認できるよう、エクセル形式の添付ファイルとして作成されている。利用者は記事内の「新設法人」項目を押すことで添付ファイルをダウンロードできる。原文では、業種、地域、法人件数、代表者名などの追加数値は示されておらず、提供方式がエクセル添付ファイルである点を明記している。新設法人資料は、期間別の法人設立状況を確認したい読者にとって基礎資料として活用できる。ただし原文には、資料の解釈や見通しに関する別途説明は含まれていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "5月1日至7日新设法人名单发布，提供Excel附件下载",
-        "excerpt": "mk.co.kr称，5月1日至5月7日的新设法人资料以Excel附件形式提供，用户点击相关项目即可下载文件。",
-        "body": "mk.co.kr发布了5月1日至5月7日的新设法人资料说明。本次资料被制作为Excel格式附件，供读者查看该期间内登记的新设法人信息。用户可在报道中点击“新设法人”项目下载附件。原文未提供行业、地区、法人数量、代表人姓名等额外数据，只明确说明资料以Excel附件形式提供。新设法人资料可作为希望按期间查看法人设立情况的读者的基础参考。不过，原文并未包含对资料的进一步解读或前景说明。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Nuevas sociedades del 1 al 7 de mayo disponibles en archivo Excel",
-        "excerpt": "mk.co.kr informó que los datos de nuevas sociedades constituidas entre el 1 y el 7 de mayo se ofrecen como archivo Excel adjunto y pueden descargarse al hacer clic.",
-        "body": "mk.co.kr informó sobre los datos de nuevas sociedades correspondientes al periodo del 1 al 7 de mayo. El material fue preparado como un archivo adjunto en formato Excel para que los lectores puedan consultar la información de las sociedades registradas durante ese lapso. Los usuarios pueden descargar el archivo haciendo clic en el apartado “Nuevas sociedades” dentro del artículo. El texto original no presentó cifras adicionales como sector, región, número de sociedades o nombres de representantes, y solo precisó que el material se ofrece como adjunto de Excel. Estos datos pueden servir como referencia básica para quienes desean revisar el estado de constitución de sociedades por periodo. El original no incluye interpretación ni perspectivas adicionales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Novas empresas de 1 a 7 de maio são disponibilizadas em Excel",
-        "excerpt": "O mk.co.kr informou que os dados de novas empresas constituídas entre 1 e 7 de maio estão disponíveis em anexo Excel, com download ao clicar no item indicado.",
-        "body": "O mk.co.kr divulgou informações sobre novas empresas referentes ao período de 1 a 7 de maio. O material foi preparado como um arquivo Excel anexado para que os leitores possam consultar os dados das empresas registradas nesse intervalo. Os usuários podem baixar o anexo clicando no item “Novas empresas” dentro da notícia. O texto original não apresentou dados adicionais como setor, região, número de empresas ou nomes de representantes, indicando apenas que o material é oferecido em formato Excel. Esses dados podem servir como referência básica para leitores que desejam verificar a situação de constituição de empresas por período. O original não inclui análise ou projeções adicionais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Neue Unternehmen vom 1. bis 7. Mai als Excel-Datei zum Download",
-        "excerpt": "mk.co.kr meldete, dass Daten zu neu gegründeten Unternehmen vom 1. bis 7. Mai als Excel-Anhang bereitstehen und per Klick auf den Eintrag heruntergeladen werden können.",
-        "body": "mk.co.kr informierte über Daten zu neu gegründeten Unternehmen im Zeitraum vom 1. bis 7. Mai. Das Material wurde als angehängte Excel-Datei erstellt, damit Leser die Informationen zu den in diesem Zeitraum registrierten neuen Unternehmen prüfen können. Nutzer können den Anhang herunterladen, indem sie im Artikel auf den Eintrag „Neue Unternehmen“ klicken. Der Originaltext nennt keine zusätzlichen Angaben wie Branche, Region, Zahl der Unternehmen oder Namen von Vertretern, sondern weist nur darauf hin, dass die Daten als Excel-Anhang bereitgestellt werden. Die Übersicht kann Lesern als Basisreferenz dienen, die Unternehmensgründungen nach Zeitraum nachvollziehen möchten. Eine gesonderte Auswertung oder Prognose enthält der Originaltext nicht. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Sociétés créées du 1er au 7 mai disponibles en téléchargement Excel",
-        "excerpt": "mk.co.kr indique que les données sur les sociétés créées du 1er au 7 mai sont fournies en pièce jointe Excel, téléchargeable en cliquant sur la rubrique concernée.",
-        "body": "mk.co.kr a présenté les données relatives aux sociétés nouvellement créées entre le 1er et le 7 mai. Le document a été préparé sous forme de fichier Excel joint afin de permettre aux lecteurs de consulter les informations sur les sociétés enregistrées durant cette période. Les utilisateurs peuvent télécharger la pièce jointe en cliquant sur la rubrique « sociétés nouvellement créées » dans l’article. Le texte original ne fournit pas de données supplémentaires telles que le secteur, la région, le nombre de sociétés ou les noms des représentants, et précise seulement que le document est proposé en pièce jointe Excel. Ces données peuvent servir de référence de base aux lecteurs souhaitant vérifier les créations de sociétés par période. Le texte original ne contient pas d’analyse ni de perspective distincte. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الشركات الجديدة من 1 إلى 7 مايو متاحة عبر ملف Excel للتنزيل",
-        "excerpt": "أفاد موقع mk.co.kr بأن بيانات الشركات المنشأة حديثا بين 1 و7 مايو متاحة كمرفق Excel، ويمكن تنزيلها عند النقر على البند المخصص.",
-        "body": "أعلن موقع mk.co.kr عن بيانات الشركات المنشأة حديثا للفترة من 1 إلى 7 مايو. وقد أعدت المادة في شكل ملف Excel مرفق حتى يتمكن القراء من الاطلاع على معلومات الشركات التي سجلت خلال هذه الفترة. ويمكن للمستخدمين تنزيل المرفق بالنقر على بند “الشركات الجديدة” داخل المقال. ولم يورد النص الأصلي تفاصيل إضافية مثل القطاع أو المنطقة أو عدد الشركات أو أسماء الممثلين، بل أوضح فقط أن المادة مقدمة كمرفق Excel. وقد تصلح هذه البيانات كمرجع أساسي للقراء الراغبين في مراجعة أوضاع تأسيس الشركات حسب الفترة. ولم يتضمن النص الأصلي تفسيرا منفصلا للبيانات أو توقعات لاحقة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "1 से 7 मई की नई कंपनियों की सूची Excel डाउनलोड के रूप में उपलब्ध",
-        "excerpt": "mk.co.kr ने बताया कि 1 मई से 7 मई तक की नई स्थापित कंपनियों का डेटा Excel अटैचमेंट के रूप में उपलब्ध है, जिसे संबंधित आइटम पर क्लिक कर डाउनलोड किया जा सकता है।",
-        "body": "mk.co.kr ने 1 मई से 7 मई तक की नई स्थापित कंपनियों से जुड़ी जानकारी दी। यह सामग्री Excel अटैचमेंट के रूप में तैयार की गई है, ताकि पाठक इस अवधि में पंजीकृत नई कंपनियों की जानकारी देख सकें। उपयोगकर्ता लेख में दिए गए “नई कंपनियां” आइटम पर क्लिक करके संलग्न फ़ाइल डाउनलोड कर सकते हैं। मूल पाठ में उद्योग, क्षेत्र, कंपनियों की संख्या या प्रतिनिधियों के नाम जैसे अतिरिक्त आंकड़े नहीं दिए गए हैं और केवल यह बताया गया है कि सामग्री Excel अटैचमेंट के रूप में उपलब्ध है। यह डेटा अवधि के अनुसार कंपनी स्थापना की स्थिति देखना चाहने वाले पाठकों के लिए बुनियादी संदर्भ सामग्री हो सकता है। मूल लेख में अलग से विश्लेषण या 전망 शामिल नहीं है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Badan Usaha Baru 1-7 Mei Tersedia untuk Diunduh dalam Excel",
-        "excerpt": "mk.co.kr melaporkan bahwa data badan usaha baru periode 1 hingga 7 Mei tersedia sebagai lampiran Excel dan dapat diunduh dengan mengeklik item terkait.",
-        "body": "mk.co.kr menyampaikan informasi mengenai badan usaha baru untuk periode 1 hingga 7 Mei. Materi ini dibuat sebagai file lampiran Excel agar pembaca dapat memeriksa informasi badan usaha yang terdaftar selama periode tersebut. Pengguna dapat mengunduh lampiran dengan mengeklik item “badan usaha baru” di dalam artikel. Naskah asli tidak mencantumkan data tambahan seperti sektor, wilayah, jumlah badan usaha, atau nama perwakilan, dan hanya menjelaskan bahwa materi tersedia sebagai lampiran Excel. Data ini dapat menjadi referensi dasar bagi pembaca yang ingin melihat status pendirian badan usaha menurut periode. Naskah asli tidak memuat penafsiran atau prospek terpisah. Sumber: mk.co.kr"
       }
     }
   }
