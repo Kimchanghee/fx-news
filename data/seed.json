@@ -1,5 +1,230 @@
 [
   {
+    "id": "478bb956b710",
+    "slug": "농식품부-에너지-대전환-tf-가동에너지-자립소득-증대-추진-384508",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T22:36:50.826Z",
+    "updatedAt": "2026-05-08T22:36:50.826Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508142300030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508142300030",
+    "titleFingerprint": "1dc4a848a3429b5983ff01125bfa326872449f41",
+    "dedupKeys": [
+      "478bb956b71056a62559c1d5f831b26be712298a",
+      "1dc4a848a3429b5983ff01125bfa326872449f41",
+      "28fb52a6baa2a2d64dd462e0683bed3b45a32ef4"
+    ],
+    "imageUrl": "/images/articles/478bb956b710.jpg",
+    "i18n": {
+      "ko": {
+        "title": "농식품부 에너지 대전환 TF 가동, 농촌 에너지 자립·소득 증대 본격 추진",
+        "excerpt": "농식품부가 농업·농촌 에너지 구조를 바꾸기 위한 에너지 대전환 로드맵 수립에 나서며 에너지 자립과 농가 소득 증대를 목표로 TF를 가동했다.",
+        "body": "농림축산식품부가 농업과 농촌의 에너지 구조를 바꾸기 위한 ‘에너지 대전환’ 로드맵 수립에 본격 착수했다. 정부는 관련 태스크포스(TF)를 가동해 농촌의 에너지 자립 기반을 마련하고, 에너지 전환 과정이 농가 소득 증대로 이어질 수 있는 방향을 검토한다. 이번 움직임은 농업·농촌 부문에서 에너지 이용 구조를 재점검하고 중장기 전환 계획을 세우려는 취지다. 농식품부는 TF 운영을 통해 로드맵 수립 작업을 구체화할 방침이다. 에너지 자립과 소득 증대를 함께 추진하는 만큼 향후 농촌 에너지 정책의 방향을 가늠하는 계기가 될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Agriculture Ministry Launches Energy Transition TF to Boost Rural Energy Independence",
+        "excerpt": "South Korea’s Agriculture Ministry has launched a task force to draft an energy transition roadmap for farming and rural communities, aiming at energy independence and higher farm income.",
+        "body": "South Korea’s Ministry of Agriculture, Food and Rural Affairs has begun work on an “energy transition” roadmap to change the energy structure of agriculture and rural communities. The government has launched a related task force to build a foundation for rural energy independence and review ways for the transition process to support higher farm income. The move is aimed at reassessing how energy is used in the agricultural and rural sectors and preparing a mid- to long-term transition plan. Through the task force, the ministry plans to make the roadmap process more concrete. As the effort seeks both energy independence and income growth, it is expected to serve as a marker for the direction of future rural energy policy. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "農食品部がエネルギー大転換TF始動、農村の自立と所得増へ本格化",
+        "excerpt": "韓国農林畜産食品部は農業・農村のエネルギー構造を変えるロードマップ策定に着手し、エネルギー自立と農家所得増を目指すTFを稼働した。",
+        "body": "韓国の農林畜産食品部は、農業と農村のエネルギー構造を変えるための「エネルギー大転換」ロードマップ策定に本格的に着手した。政府は関連タスクフォース（TF）を稼働させ、農村のエネルギー自立基盤を整え、転換の過程が農家所得の増加につながる方向を検討する。今回の動きは、農業・農村分野におけるエネルギー利用構造を見直し、中長期的な転換計画を立てる趣旨だ。農食品部はTF運営を通じてロードマップ策定作業を具体化する方針である。エネルギー自立と所得増を同時に進めるだけに、今後の農村エネルギー政策の方向を示す契機になるとみられる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国农食品部启动能源大转型TF，推进农村能源自立和增收",
+        "excerpt": "韩国农林畜产食品部启动工作组，着手制定农业和农村能源大转型路线图，目标是推动能源自立并提高农户收入。",
+        "body": "韩国农林畜产食品部已正式着手制定改变农业和农村能源结构的“能源大转型”路线图。政府启动相关工作组（TF），以建立农村能源自立基础，并研究如何让能源转型过程带动农户收入增加。此举旨在重新检查农业和农村领域的能源使用结构，并制定中长期转型计划。农食品部计划通过工作组运行，进一步具体化路线图制定工作。由于该计划同时推进能源自立和收入增长，预计将成为观察今后农村能源政策方向的重要契机。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Corea activa un grupo para la transición energética rural y más ingresos agrícolas",
+        "excerpt": "El Ministerio de Agricultura de Corea del Sur puso en marcha un grupo de trabajo para diseñar una hoja de ruta de transición energética en el campo y elevar la autonomía e ingresos rurales.",
+        "body": "El Ministerio de Agricultura, Alimentación y Asuntos Rurales de Corea del Sur comenzó de lleno la elaboración de una hoja de ruta de “transición energética” para cambiar la estructura energética de la agricultura y las comunidades rurales. El Gobierno activó un grupo de trabajo para crear una base de independencia energética rural y revisar cómo ese proceso puede contribuir al aumento de los ingresos agrícolas. La medida busca reevaluar el uso de la energía en el sector agrícola y rural y preparar un plan de transición de mediano y largo plazo. El ministerio prevé concretar la hoja de ruta mediante la labor del grupo. Al perseguir a la vez autonomía energética y mayores ingresos, marcará la orientación de la futura política energética rural. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Coreia lança TF de transição energética rural para autonomia e renda agrícola",
+        "excerpt": "O Ministério da Agricultura da Coreia do Sul iniciou um grupo de trabalho para elaborar um roteiro de transição energética no campo, com foco em autonomia e aumento de renda.",
+        "body": "O Ministério da Agricultura, Alimentação e Assuntos Rurais da Coreia do Sul começou formalmente a preparar um roteiro de “transição energética” para mudar a estrutura de energia da agricultura e das áreas rurais. O governo colocou em operação uma força-tarefa para construir uma base de autonomia energética rural e avaliar formas de fazer com que o processo de transição contribua para elevar a renda dos agricultores. A iniciativa busca reexaminar a estrutura de uso de energia nos setores agrícola e rural e elaborar um plano de médio e longo prazo. O ministério pretende detalhar o roteiro por meio da TF. Como o esforço combina autonomia energética e aumento de renda, deve indicar a direção da futura política energética rural. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Südkorea startet Taskforce für Energieumbau in Landwirtschaft und ländlichen Räumen",
+        "excerpt": "Südkoreas Landwirtschaftsministerium hat eine Taskforce gestartet, um eine Roadmap für den Energieumbau in Landwirtschaft und Dörfern mit Fokus auf Autarkie und Einkommen zu erarbeiten.",
+        "body": "Das südkoreanische Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten hat die Ausarbeitung einer Roadmap für eine „Energiewende“ in Landwirtschaft und ländlichen Räumen offiziell begonnen. Die Regierung setzte dafür eine Taskforce ein, die eine Grundlage für mehr Energieautarkie auf dem Land schaffen und prüfen soll, wie der Wandel zu höheren Einkommen landwirtschaftlicher Betriebe beitragen kann. Ziel ist es, die Struktur der Energienutzung im Agrar- und ländlichen Bereich neu zu bewerten und einen mittel- bis langfristigen Umstellungsplan vorzubereiten. Das Ministerium will die Roadmap über die Arbeit der Taskforce konkretisieren. Da Energieautarkie und Einkommenssteigerung gemeinsam verfolgt werden, dürfte der Schritt die künftige Richtung der ländlichen Energiepolitik anzeigen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "La Corée lance une task force pour l’énergie rurale et les revenus agricoles",
+        "excerpt": "Le ministère sud-coréen de l’Agriculture a lancé une task force pour bâtir une feuille de route de transition énergétique dans l’agriculture et les zones rurales.",
+        "body": "Le ministère sud-coréen de l’Agriculture, de l’Alimentation et des Affaires rurales a officiellement lancé l’élaboration d’une feuille de route de « transition énergétique » destinée à modifier la structure énergétique de l’agriculture et des zones rurales. Le gouvernement a mis en place une task force afin de créer les bases de l’autonomie énergétique rurale et d’examiner comment ce processus pourrait contribuer à l’augmentation des revenus agricoles. Cette initiative vise à réévaluer l’utilisation de l’énergie dans les secteurs agricole et rural et à préparer un plan de transition à moyen et long terme. Le ministère entend préciser la feuille de route grâce aux travaux de la task force. En associant autonomie énergétique et hausse des revenus, cette démarche devrait orienter la future politique énergétique rurale. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كوريا تطلق فريق عمل لتحول الطاقة الزراعية وتعزيز دخل الريف",
+        "excerpt": "أطلقت وزارة الزراعة الكورية الجنوبية فريق عمل لوضع خارطة طريق لتحول الطاقة في الزراعة والمناطق الريفية، بهدف دعم الاكتفاء الطاقي وزيادة دخل المزارعين.",
+        "body": "بدأت وزارة الزراعة والأغذية والشؤون الريفية في كوريا الجنوبية فعليا إعداد خارطة طريق لـ«تحول الطاقة» بهدف تغيير هيكل الطاقة في الزراعة والمناطق الريفية. وشغلت الحكومة فريق عمل معنيا لبناء أساس لاكتفاء الريف بالطاقة، ودراسة السبل التي يمكن أن تجعل عملية التحول تسهم في زيادة دخل المزارعين. وتأتي هذه الخطوة لإعادة فحص بنية استخدام الطاقة في القطاعين الزراعي والريفي، ووضع خطة تحول متوسطة وطويلة الأجل. وتعتزم الوزارة بلورة إعداد الخارطة من خلال تشغيل فريق العمل. وبما أن الجهد يجمع بين الاكتفاء الطاقي وزيادة الدخل، فمن المتوقع أن يشكل مؤشرا لاتجاه سياسة الطاقة الريفية المقبلة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "दक्षिण कोरिया ने कृषि ऊर्जा बदलाव TF शुरू किया, ग्रामीण आय और आत्मनिर्भरता पर जोर",
+        "excerpt": "दक्षिण कोरिया के कृषि मंत्रालय ने कृषि और ग्रामीण क्षेत्रों की ऊर्जा संरचना बदलने के लिए ऊर्जा बदलाव रोडमैप पर काम शुरू किया, लक्ष्य ऊर्जा आत्मनिर्भरता और आय वृद्धि है।",
+        "body": "दक्षिण कोरिया के कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय ने कृषि और ग्रामीण क्षेत्रों की ऊर्जा संरचना बदलने के लिए “ऊर्जा बदलाव” रोडमैप तैयार करने की प्रक्रिया औपचारिक रूप से शुरू कर दी है। सरकार ने संबंधित टास्क फोर्स चालू की है, जो ग्रामीण ऊर्जा आत्मनिर्भरता की बुनियाद तैयार करने और यह देखने का काम करेगी कि बदलाव की प्रक्रिया किसानों की आय बढ़ाने में कैसे मदद कर सकती है। इस पहल का उद्देश्य कृषि और ग्रामीण क्षेत्रों में ऊर्जा उपयोग की संरचना की फिर से समीक्षा करना और मध्यम से दीर्घ अवधि की बदलाव योजना बनाना है। मंत्रालय TF के संचालन के जरिए रोडमैप को ठोस रूप देगा। ऊर्जा आत्मनिर्भरता और आय वृद्धि को साथ आगे बढ़ाने के कारण यह कदम भविष्य की ग्रामीण ऊर्जा नीति की दिशा दिखा सकता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kementerian Pertanian Korea Bentuk TF Transisi Energi untuk Desa Mandiri Energi",
+        "excerpt": "Kementerian Pertanian Korea Selatan mulai menyusun peta jalan transisi energi pertanian dan pedesaan melalui TF, dengan tujuan kemandirian energi dan kenaikan pendapatan petani.",
+        "body": "Kementerian Pertanian, Pangan, dan Urusan Pedesaan Korea Selatan mulai serius menyusun peta jalan “transisi energi” untuk mengubah struktur energi di sektor pertanian dan wilayah pedesaan. Pemerintah mengoperasikan satuan tugas terkait untuk membangun dasar kemandirian energi desa serta meninjau bagaimana proses transisi dapat mendorong kenaikan pendapatan petani. Langkah ini bertujuan menilai ulang struktur penggunaan energi di sektor pertanian dan pedesaan serta menyiapkan rencana transisi jangka menengah hingga panjang. Kementerian akan memperjelas penyusunan peta jalan melalui kerja TF tersebut. Karena mendorong kemandirian energi dan peningkatan pendapatan sekaligus, langkah ini diperkirakan menjadi penanda arah kebijakan energi pedesaan ke depan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7556c9ae07d6",
+    "slug": "올해-상반기-농업-외국인력-10만4천명-배정역대-최대-규모-452411",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T22:35:54.067Z",
+    "updatedAt": "2026-05-08T22:35:54.067Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508145600030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508145600030",
+    "titleFingerprint": "6ad39e73f2986d6fb02865bdc611a9ec8f8f2b5c",
+    "dedupKeys": [
+      "7556c9ae07d614fe0db826de249135a1592624a9",
+      "6ad39e73f2986d6fb02865bdc611a9ec8f8f2b5c",
+      "086028a2ddd5c24f69337123f242268708871976"
+    ],
+    "imageUrl": "/images/articles/7556c9ae07d6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "농업 외국인력 상반기 10만4천명 배정, 역대 최대 규모 기록",
+        "excerpt": "올해 상반기 농업 분야에 외국 인력 10만4천명이 배정되며 역대 최대 규모를 기록했다. 농번기 인력 수요 대응과 농업 현장 인력 확보가 핵심이다.",
+        "body": "올해 상반기 농업 분야에 외국 인력 10만4천명이 배정됐다. 서울발 연합뉴스 보도에 따르면 이번 배정 규모는 농업 분야 외국 인력 배정으로는 역대 최대 수준이다. 상반기 기준으로 10만4천명이 배정되면서 농업 현장의 인력 수요와 외국 인력 활용 흐름이 다시 주목받고 있다. 이번 수치는 농번기 인력 확보가 중요한 농업 분야에서 외국 인력 배정 규모가 크게 확대됐음을 보여준다. 향후 농업 현장에서는 배정된 인력이 실제 수요에 맞춰 투입되는지가 주요 관심사가 될 전망이다. 출처: yna.co.kr."
+      },
+      "en": {
+        "title": "Agricultural Foreign Worker Quota Reaches Record 104,000 in First Half",
+        "excerpt": "South Korea allocated 104,000 foreign workers to the agricultural sector in the first half of this year, marking the largest scale on record for the sector.",
+        "body": "South Korea allocated 104,000 foreign workers to the agricultural sector in the first half of this year. According to a Yonhap News Agency report from Seoul, the allocation marks the largest scale ever for foreign labor assigned to agriculture. With 104,000 workers set for the first half, attention is again turning to labor demand in farming and the role of foreign workers in meeting it. The figure shows a significant expansion in foreign labor allocation for a sector where securing workers during busy farming periods is critical. Going forward, the key focus for agricultural sites will be whether the allocated workforce is deployed in line with actual demand. Source: yna.co.kr."
+      },
+      "ja": {
+        "title": "農業外国人材、上半期に10万4千人配分 過去最大規模",
+        "excerpt": "韓国で今年上半期、農業分野に外国人材10万4千人が配分され、同分野として過去最大規模を記録した。農繁期の人手確保が焦点だ。",
+        "body": "韓国で今年上半期、農業分野に外国人材10万4千人が配分された。ソウル発の聯合ニュース報道によると、今回の配分規模は農業分野の外国人材配分として過去最大水準となる。上半期基準で10万4千人が配分されたことで、農業現場の人手需要と外国人材活用の流れが改めて注目されている。この数字は、農繁期の人材確保が重要な農業分野で、外国人材の配分規模が大きく拡大したことを示している。今後は配分された人材が実際の需要に合わせて投入されるかが主な関心事となる見通しだ。出典: yna.co.kr."
+      },
+      "zh": {
+        "title": "农业外籍劳动力上半年分配10.4万人，创历史最大规模",
+        "excerpt": "韩国今年上半年向农业领域分配外籍劳动力10.4万人，创该领域历史最大规模，显示农忙季节用工保障需求受到关注。",
+        "body": "韩国今年上半年向农业领域分配外籍劳动力10.4万人。据首尔发出的韩联社报道，此次分配规模是农业领域外籍劳动力分配史上最大水平。以上半年为基准，10.4万人获得分配，使农业现场的人力需求以及外籍劳动力运用趋势再次受到关注。该数字显示，在农忙期人力保障十分重要的农业领域，外籍劳动力分配规模明显扩大。今后，分配到的人员能否按照实际需求投入农业现场，将成为主要关注点。来源: yna.co.kr."
+      },
+      "es": {
+        "title": "Agricultura asigna 104.000 trabajadores extranjeros en el primer semestre",
+        "excerpt": "Corea del Sur asignó 104.000 trabajadores extranjeros al sector agrícola en el primer semestre de este año, la cifra más alta registrada para esa área.",
+        "body": "Corea del Sur asignó 104.000 trabajadores extranjeros al sector agrícola en el primer semestre de este año. Según un reporte de Yonhap News Agency desde Seúl, se trata de la mayor escala registrada para la asignación de mano de obra extranjera en agricultura. Con 104.000 personas asignadas en la primera mitad del año, vuelve a centrarse la atención en la demanda laboral de las zonas agrícolas y en el uso de trabajadores extranjeros. La cifra muestra una ampliación importante en un sector donde asegurar personal durante los periodos de alta actividad agrícola es clave. En adelante, el principal punto de interés será si la fuerza laboral asignada se incorpora de acuerdo con la demanda real. Fuente: yna.co.kr."
+      },
+      "pt": {
+        "title": "Agricultura recebe 104 mil trabalhadores estrangeiros no 1º semestre",
+        "excerpt": "A Coreia do Sul alocou 104 mil trabalhadores estrangeiros ao setor agrícola no primeiro semestre deste ano, o maior volume já registrado para a área.",
+        "body": "A Coreia do Sul alocou 104 mil trabalhadores estrangeiros ao setor agrícola no primeiro semestre deste ano. Segundo reportagem da Yonhap News Agency em Seul, essa é a maior escala já registrada para a distribuição de mão de obra estrangeira na agricultura. Com 104 mil pessoas destinadas ao setor na primeira metade do ano, a demanda por trabalhadores no campo e o uso de mão de obra estrangeira voltam ao foco. O número mostra uma expansão significativa em uma área na qual garantir pessoal durante os períodos de maior atividade agrícola é essencial. Daqui em diante, a atenção deve se concentrar em saber se os trabalhadores alocados serão empregados conforme a demanda real. Fonte: yna.co.kr."
+      },
+      "de": {
+        "title": "Landwirtschaft erhält im ersten Halbjahr 104.000 ausländische Arbeitskräfte",
+        "excerpt": "Südkorea hat im ersten Halbjahr dieses Jahres 104.000 ausländische Arbeitskräfte der Landwirtschaft zugeteilt, der bisher höchste Wert für den Sektor.",
+        "body": "Südkorea hat im ersten Halbjahr dieses Jahres 104.000 ausländische Arbeitskräfte dem Agrarsektor zugeteilt. Nach einem Bericht der Nachrichtenagentur Yonhap aus Seoul ist dies die bislang größte Zuteilung ausländischer Arbeitskräfte in der Landwirtschaft. Mit 104.000 Personen im ersten Halbjahr rücken der Arbeitskräftebedarf in landwirtschaftlichen Betrieben und der Einsatz ausländischer Arbeitskräfte erneut in den Fokus. Die Zahl zeigt eine deutliche Ausweitung in einem Bereich, in dem die Sicherung von Personal während arbeitsintensiver Ernte- und Anbauzeiten wichtig ist. Entscheidend wird nun sein, ob die zugeteilten Kräfte entsprechend der tatsächlichen Nachfrage eingesetzt werden. Quelle: yna.co.kr."
+      },
+      "fr": {
+        "title": "Agriculture: 104 000 travailleurs étrangers attribués au premier semestre",
+        "excerpt": "La Corée du Sud a attribué 104 000 travailleurs étrangers au secteur agricole au premier semestre de cette année, un record pour ce domaine.",
+        "body": "La Corée du Sud a attribué 104 000 travailleurs étrangers au secteur agricole au premier semestre de cette année. Selon un reportage de Yonhap News Agency depuis Séoul, il s’agit du plus grand volume jamais enregistré pour l’attribution de main-d’œuvre étrangère à l’agriculture. Avec 104 000 personnes affectées sur la première moitié de l’année, la demande de main-d’œuvre dans les exploitations agricoles et le recours aux travailleurs étrangers attirent de nouveau l’attention. Ce chiffre montre une forte extension dans un secteur où la sécurisation du personnel pendant les périodes agricoles chargées est essentielle. La question centrale sera désormais de savoir si ces effectifs seront déployés selon la demande réelle. Source: yna.co.kr."
+      },
+      "ar": {
+        "title": "الزراعة تخصص 104 آلاف عامل أجنبي في النصف الأول بأكبر مستوى تاريخي",
+        "excerpt": "خصصت كوريا الجنوبية 104 آلاف عامل أجنبي لقطاع الزراعة في النصف الأول من هذا العام، في أكبر حجم مسجل لهذا القطاع حتى الآن.",
+        "body": "خصصت كوريا الجنوبية 104 آلاف عامل أجنبي لقطاع الزراعة في النصف الأول من هذا العام. ووفق تقرير لوكالة يونهاب من سيول، فإن هذا الحجم يعد الأكبر على الإطلاق في تخصيص العمالة الأجنبية للقطاع الزراعي. ومع تخصيص 104 آلاف عامل خلال النصف الأول، يعود التركيز إلى طلب المزارع على الأيدي العاملة ودور العمالة الأجنبية في تلبيته. ويظهر الرقم توسعا واضحا في قطاع يعد تأمين العمالة فيه خلال مواسم العمل الزراعي المكثف أمرا مهما. ومن المتوقع أن يكون محور الاهتمام المقبل هو ما إذا كانت العمالة المخصصة ستوزع على مواقع العمل الزراعي بما يتوافق مع الطلب الفعلي. المصدر: yna.co.kr."
+      },
+      "hi": {
+        "title": "कृषि क्षेत्र को पहली छमाही में 1.04 लाख विदेशी श्रमिक, रिकॉर्ड आवंटन",
+        "excerpt": "दक्षिण कोरिया ने इस वर्ष पहली छमाही में कृषि क्षेत्र के लिए 1.04 लाख विदेशी श्रमिक आवंटित किए, जो इस क्षेत्र के लिए अब तक का सबसे बड़ा स्तर है।",
+        "body": "दक्षिण कोरिया ने इस वर्ष पहली छमाही में कृषि क्षेत्र के लिए 1.04 लाख विदेशी श्रमिक आवंटित किए। सियोल से योनहाप न्यूज एजेंसी की रिपोर्ट के अनुसार, कृषि क्षेत्र में विदेशी श्रमिकों का यह आवंटन अब तक का सबसे बड़ा स्तर है। पहली छमाही के आधार पर 1.04 लाख लोगों के आवंटन से कृषि स्थलों की श्रम मांग और विदेशी श्रमिकों के उपयोग पर फिर ध्यान गया है। यह संख्या दिखाती है कि व्यस्त कृषि अवधि में श्रमिक 확보 अहम होने के कारण विदेशी श्रमिकों का आवंटन काफी बढ़ा है। आगे मुख्य ध्यान इस बात पर रहेगा कि आवंटित श्रमिक वास्तविक मांग के अनुरूप कृषि स्थलों पर लगाए जाते हैं या नहीं। स्रोत: yna.co.kr."
+      },
+      "id": {
+        "title": "Tenaga Kerja Asing Pertanian Capai 104 Ribu pada Semester Pertama",
+        "excerpt": "Korea Selatan mengalokasikan 104 ribu tenaga kerja asing ke sektor pertanian pada semester pertama tahun ini, jumlah terbesar sepanjang sejarah sektor itu.",
+        "body": "Korea Selatan mengalokasikan 104 ribu tenaga kerja asing ke sektor pertanian pada semester pertama tahun ini. Menurut laporan Yonhap News Agency dari Seoul, jumlah tersebut merupakan skala terbesar sepanjang sejarah untuk alokasi tenaga kerja asing di bidang pertanian. Dengan 104 ribu orang dialokasikan pada paruh pertama tahun ini, kebutuhan tenaga kerja di lokasi pertanian dan pemanfaatan pekerja asing kembali menjadi perhatian. Angka ini menunjukkan perluasan besar dalam sektor yang sangat membutuhkan kepastian tenaga kerja selama masa kerja pertanian yang padat. Ke depan, fokus utama adalah apakah tenaga kerja yang dialokasikan akan ditempatkan sesuai permintaan riil di lapangan. Sumber: yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "b726ef7fbcbe",
+    "slug": "고용-호조에-반도체-랠리까지sp500나스닥-또-최고치-뉴욕증시-브리핑-540229",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T22:35:00.465Z",
+    "updatedAt": "2026-05-08T22:35:00.465Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050953407",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050953407",
+    "titleFingerprint": "9f021214b493678deecf11b942a36e6c87e7740d",
+    "dedupKeys": [
+      "b726ef7fbcbed248a0814bc8f52610db265d7448",
+      "9f021214b493678deecf11b942a36e6c87e7740d",
+      "0f0b67e5319147f44cf408fab7a7840095d86a37"
+    ],
+    "imageUrl": "/images/articles/b726ef7fbcbe.jpg",
+    "i18n": {
+      "ko": {
+        "title": "고용 호조·반도체 랠리에 S&P500·나스닥 또 최고치",
+        "excerpt": "뉴욕증시에서 고용 호조와 반도체주 랠리가 투자심리를 지지하며 S&P500지수와 나스닥지수가 다시 최고치를 기록했다.",
+        "body": "뉴욕증시에서 S&P500지수와 나스닥지수가 고용 호조와 반도체주 랠리에 힘입어 또다시 최고치를 기록했다. 고용 지표가 견조한 흐름을 보이면서 시장의 위험 선호가 유지됐고, 반도체 관련 종목의 강세가 주요 지수 상승을 이끌었다. 이번 흐름은 미국 증시에서 기술주와 성장주 중심의 매수세가 이어지고 있음을 보여준다. 투자자들은 고용 상황과 반도체 업종의 주가 흐름이 향후 지수 방향에 어떤 영향을 줄지 주시하고 있다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "Strong Jobs Data and Chip Rally Push S&P 500, Nasdaq to New Highs",
+        "excerpt": "In New York trading, solid employment data and a semiconductor stock rally supported sentiment, sending the S&P 500 and Nasdaq to fresh record highs.",
+        "body": "The S&P 500 and Nasdaq reached new record highs in New York stock trading, lifted by solid employment conditions and a rally in semiconductor shares. The strong jobs backdrop helped sustain risk appetite, while gains in chip-related stocks led the advance in major indexes. The move shows that buying interest in technology and growth shares remains a key driver of the U.S. equity market. Investors are watching how employment trends and semiconductor stock momentum may affect the direction of indexes ahead. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "雇用堅調と半導体ラリーでS&P500・ナスダックが再び最高値",
+        "excerpt": "ニューヨーク株式市場では、堅調な雇用と半導体株の上昇が投資心理を支え、S&P500とナスダックが再び最高値を記録した。",
+        "body": "ニューヨーク株式市場で、S&P500指数とナスダック指数が堅調な雇用と半導体株のラリーを背景に再び最高値を更新した。雇用情勢が底堅い流れを示したことで市場のリスク選好が維持され、半導体関連銘柄の強さが主要指数の上昇を主導した。今回の動きは、米国株市場でハイテク株と成長株を中心とした買いが続いていることを示している。投資家は雇用状況と半導体セクターの株価動向が今後の指数の方向にどう影響するか注視している。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "就业强劲叠加半导体 rally，S&P500与纳指再创新高",
+        "excerpt": "纽约股市中，强劲就业和半导体股上涨提振投资情绪，推动S&P500指数和纳斯达克指数再次刷新历史高位。",
+        "body": "纽约股市中，S&P500指数和纳斯达克指数在就业强劲与半导体股上涨的推动下再次创下新高。稳健的就业表现维持了市场风险偏好，而半导体相关股票的强势成为主要指数上行的重要动力。这一走势显示，美国股市中围绕科技股和成长股的买盘仍在延续。投资者正关注就业状况以及半导体板块股价走势将如何影响后续指数方向。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "Empleo sólido y rally de chips llevan al S&P 500 y Nasdaq a máximos",
+        "excerpt": "En Wall Street, la fortaleza del empleo y el avance de las acciones de semiconductores sostuvieron el ánimo e impulsaron al S&P 500 y Nasdaq a nuevos máximos.",
+        "body": "En la Bolsa de Nueva York, el S&P 500 y el Nasdaq volvieron a marcar máximos históricos, apoyados por la solidez del empleo y el rally de las acciones de semiconductores. La firmeza del mercado laboral mantuvo el apetito por el riesgo, mientras que las subidas de los valores vinculados a chips lideraron el avance de los principales índices. El movimiento muestra que las compras centradas en tecnología y acciones de crecimiento siguen impulsando al mercado estadounidense. Los inversores observan cómo el empleo y el sector de semiconductores influirán en la dirección de los índices. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Emprego forte e rally de chips levam S&P 500 e Nasdaq a recordes",
+        "excerpt": "Em Nova York, dados sólidos de emprego e a alta das ações de semicondutores sustentaram o apetite por risco e levaram S&P 500 e Nasdaq a novos recordes.",
+        "body": "Na Bolsa de Nova York, o S&P 500 e o Nasdaq voltaram a atingir máximas recordes, impulsionados pela força do emprego e pelo rally das ações de semicondutores. O cenário sólido do mercado de trabalho ajudou a manter o apetite por risco, enquanto os papéis ligados a chips lideraram a alta dos principais índices. O movimento mostra que as compras concentradas em tecnologia e ações de crescimento continuam a sustentar o mercado acionário dos Estados Unidos. Investidores acompanham como emprego e semicondutores podem influenciar os índices daqui em diante. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Starker Arbeitsmarkt und Chip-Rally treiben S&P 500, Nasdaq auf Rekorde",
+        "excerpt": "An der New Yorker Börse stützten robuste Beschäftigungsdaten und eine Rally bei Halbleiteraktien die Stimmung und trieben S&P 500 sowie Nasdaq erneut auf Höchststände.",
+        "body": "An der New Yorker Börse haben der S&P 500 und der Nasdaq dank robuster Beschäftigungslage und einer Rally bei Halbleiteraktien erneut Rekordstände erreicht. Die solide Entwicklung am Arbeitsmarkt hielt die Risikobereitschaft der Anleger aufrecht, während starke Kursgewinne bei chipbezogenen Aktien die wichtigsten Indizes nach oben führten. Die Bewegung zeigt, dass Käufe in Technologie- und Wachstumswerten den US-Aktienmarkt weiter prägen. Anleger beobachten, wie Arbeitsmarkt und Halbleitersektor die künftige Richtung der Indizes beeinflussen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Emploi solide et rally des puces portent S&P 500 et Nasdaq à des records",
+        "excerpt": "À New York, la vigueur de l’emploi et la hausse des valeurs des semi-conducteurs ont soutenu l’appétit pour le risque, poussant S&P 500 et Nasdaq à de nouveaux sommets.",
+        "body": "À la Bourse de New York, le S&P 500 et le Nasdaq ont de nouveau atteint des records, soutenus par la solidité de l’emploi et le rally des valeurs liées aux semi-conducteurs. La bonne tenue du marché du travail a entretenu l’appétit pour le risque, tandis que la progression des actions du secteur des puces a mené la hausse des principaux indices. Ce mouvement montre que les achats centrés sur la technologie et les valeurs de croissance continuent de porter le marché américain. Les investisseurs surveillent l’effet de l’emploi et des semi-conducteurs sur la suite des indices. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "قوة التوظيف ورالي الرقائق يدفعان S&P 500 وناسداك إلى قمم جديدة",
+        "excerpt": "في بورصة نيويورك، دعمت قوة التوظيف وصعود أسهم أشباه الموصلات شهية المخاطرة، ما دفع مؤشري S&P 500 وناسداك إلى مستويات قياسية جديدة.",
+        "body": "سجل مؤشرا S&P 500 وناسداك في بورصة نيويورك مستويات قياسية جديدة، بدعم من قوة سوق العمل ورالي أسهم أشباه الموصلات. وحافظت مؤشرات التوظيف القوية على شهية المخاطرة في السوق، بينما قادت مكاسب الأسهم المرتبطة بالرقائق صعود المؤشرات الرئيسية. ويعكس هذا المسار استمرار اهتمام الشراء في أسهم التكنولوجيا والنمو داخل سوق الأسهم الأميركية. ويراقب المستثمرون كيف يمكن لاتجاهات التوظيف وحركة أسهم أشباه الموصلات أن تؤثر في اتجاه المؤشرات المقبلة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "मजबूत रोजगार और चिप रैली से S&P 500, नैस्डैक फिर रिकॉर्ड ऊंचाई पर",
+        "excerpt": "न्यूयॉर्क शेयर बाजार में मजबूत रोजगार संकेतों और सेमीकंडक्टर शेयरों की तेजी ने निवेश धारणा को सहारा दिया, जिससे S&P 500 और नैस्डैक फिर रिकॉर्ड स्तर पर पहुंचे।",
+        "body": "न्यूयॉर्क शेयर बाजार में S&P 500 और नैस्डैक सूचकांक मजबूत रोजगार स्थिति और सेमीकंडक्टर शेयरों की रैली के सहारे फिर रिकॉर्ड ऊंचाई पर पहुंच गए। रोजगार के मजबूत रुझान ने बाजार में जोखिम लेने की भावना बनाए रखी, जबकि चिप से जुड़े शेयरों की मजबूती ने प्रमुख सूचकांकों की बढ़त का नेतृत्व किया। यह चाल दिखाती है कि अमेरिकी शेयर बाजार में तकनीकी और ग्रोथ शेयरों पर केंद्रित खरीदारी जारी है। निवेशक देख रहे हैं कि रोजगार की स्थिति और सेमीकंडक्टर क्षेत्र की चाल आगे सूचकांकों की दिशा को कैसे प्रभावित करेगी। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Data Tenaga Kerja Kuat dan Reli Chip Bawa S&P 500, Nasdaq ke Rekor",
+        "excerpt": "Di bursa New York, kuatnya data tenaga kerja dan reli saham semikonduktor menopang sentimen risiko, mendorong S&P 500 dan Nasdaq kembali mencetak rekor tertinggi.",
+        "body": "Di bursa saham New York, indeks S&P 500 dan Nasdaq kembali mencetak rekor tertinggi berkat kuatnya kondisi tenaga kerja dan reli saham semikonduktor. Latar tenaga kerja yang solid menjaga minat investor terhadap risiko, sementara penguatan saham terkait chip memimpin kenaikan indeks utama. Pergerakan ini menunjukkan bahwa aksi beli pada saham teknologi dan saham pertumbuhan masih menjadi pendorong penting pasar saham AS. Investor mencermati bagaimana tren tenaga kerja dan pergerakan sektor semikonduktor akan memengaruhi arah indeks berikutnya. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "bb22ee689ab8",
     "slug": "전세사기-피해-청년에-학자금-대출-상환-지원한다-318829",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Target Harga APR Naik, Saham Kosmetik Ikut Menguat di Pasar",
         "excerpt": "Menurut Hankyung, saham kosmetik bergerak naik setelah target harga APR dinaikkan. Perubahan penilaian ini memengaruhi sentimen investor pada sektor terkait.",
         "body": "Hankyung melaporkan bahwa saham kosmetik memasuki tren naik setelah target harga APR meningkat. Inti laporan tersebut adalah kenaikan target harga APR menarik perhatian pasar dan ikut mendukung penguatan yang lebih luas pada saham-saham terkait kosmetik. Laporan asli tidak mencantumkan level target harga secara spesifik, persentase kenaikan, atau pergerakan masing-masing saham. Pergerakan ini menunjukkan bahwa sentimen investor terhadap saham kosmetik bereaksi sensitif terhadap perubahan penilaian atas APR. Namun, berdasarkan informasi yang disebutkan dalam artikel, prospek kinerja mendatang atau kemungkinan kenaikan lanjutan tidak dapat disimpulkan secara pasti. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "79ed2ca1a831",
-    "slug": "1분기-배곯은-쉐이크쉑-하루새-주가-28-증발-900990",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T11:53:35.357Z",
-    "updatedAt": "2026-05-08T11:53:35.357Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848551",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848551",
-    "titleFingerprint": "0a22314e301d35b6f7f809eb00e13191b5fdd4f7",
-    "dedupKeys": [
-      "79ed2ca1a831855ebdcba603ac1f70195afc1b4d",
-      "0a22314e301d35b6f7f809eb00e13191b5fdd4f7",
-      "ba602810cfe08def7c8fcddf3107c38175fa4ef9"
-    ],
-    "imageUrl": "/images/articles/79ed2ca1a831.png",
-    "i18n": {
-      "ko": {
-        "title": "쉐이크쉑 1분기 부진에 주가 하루 28% 급락, 투자심리 흔들",
-        "excerpt": "쉐이크쉑은 1분기 부진한 흐름이 부각되며 하루 만에 주가가 28% 급락했다. hankyung.com 보도에 따르면 실적 우려가 투자심리를 압박했다.",
-        "body": "쉐이크쉑 주가가 1분기 부진이 부각된 뒤 하루 만에 28% 급락했다. 패스트캐주얼 버거 체인인 쉐이크쉑은 1분기 성과에 대한 실망감이 시장에 반영되며 큰 폭의 주가 하락을 겪었다. 이번 하락의 핵심 수치는 하루 새 주가 28% 증발이다. 원문은 1분기에 ‘배곯은’ 쉐이크쉑이라는 표현으로 실적 부진을 전했고, 투자자들은 해당 흐름을 주가에 즉각 반영한 것으로 풀이된다. 향후 시장의 관심은 쉐이크쉑이 부진한 1분기 흐름을 얼마나 빠르게 만회할 수 있는지에 쏠릴 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Shake Shack Shares Plunge 28% in One Day After Weak First Quarter",
-        "excerpt": "Shake Shack’s shares fell 28% in a single day after weakness in the first quarter drew market attention, according to hankyung.com, pressuring investor sentiment.",
-        "body": "Shake Shack’s stock dropped 28% in one day after weakness in its first-quarter performance came into focus. The fast-casual burger chain suffered a sharp share-price decline as disappointment over its first-quarter results was reflected in the market. The central figure in the report is the 28% loss in market value over a single trading day. The original Korean report described Shake Shack as having “gone hungry” in the first quarter, pointing to weak performance. Investors appear to have priced that weakness into the shares immediately. Market attention is now likely to focus on how quickly Shake Shack can recover from the weak first-quarter trend. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "シェイクシャック、第1四半期不振で株価が1日で28％急落",
-        "excerpt": "シェイクシャックは第1四半期の不振が意識され、株価が1日で28％急落した。hankyung.comによると、業績懸念が投資心理を圧迫した。",
-        "body": "シェイクシャックの株価は、第1四半期の不振が注目された後、1日で28％急落した。ファストカジュアルのバーガーチェーンであるシェイクシャックは、第1四半期の成果に対する失望感が市場に反映され、大幅な株価下落に見舞われた。今回の下落で中心となる数字は、1日で株価が28％失われたことだ。原文は、第1四半期に「空腹だった」シェイクシャックという表現で業績不振を伝えており、投資家はその流れを直ちに株価に織り込んだとみられる。今後の市場の関心は、同社が第1四半期の弱い流れをどれだけ早く挽回できるかに向かう見通しだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Shake Shack一季度疲软，股价单日暴跌28%引发关注",
-        "excerpt": "Shake Shack因一季度表现疲软受到市场关注，股价单日下跌28%。据hankyung.com报道，业绩担忧压制了投资者情绪。",
-        "body": "Shake Shack股价在一季度疲软表现受到关注后，单日暴跌28%。这家休闲快餐汉堡连锁企业因市场对其一季度成绩感到失望，遭遇大幅股价下跌。本次报道中的核心数字是股价一天内蒸发28%。韩文原文以一季度“挨饿”的Shake Shack来形容其业绩不振，显示市场将这一疲弱走势迅速反映到股价中。投资者接下来可能关注的是，Shake Shack能否以及多快扭转一季度的疲弱局面。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Shake Shack cae 28% en bolsa en un día tras un primer trimestre débil",
-        "excerpt": "Las acciones de Shake Shack cayeron 28% en un solo día tras destacarse la debilidad del primer trimestre, según hankyung.com, lo que presionó el ánimo inversor.",
-        "body": "Las acciones de Shake Shack cayeron 28% en un solo día después de que la debilidad del primer trimestre quedara en el centro de la atención. La cadena de hamburguesas de comida rápida informal sufrió una fuerte caída bursátil al reflejarse en el mercado la decepción por su desempeño trimestral. La cifra clave es la pérdida de 28% de la acción en una sola jornada. El informe original coreano describió a Shake Shack como una empresa que “pasó hambre” en el primer trimestre, una referencia a su flojo resultado. Los inversores parecen haber incorporado de inmediato esa debilidad al precio. La atención se centrará ahora en cuán rápido puede recuperar el terreno perdido. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Shake Shack afunda 28% em um dia após fraqueza no primeiro trimestre",
-        "excerpt": "As ações da Shake Shack caíram 28% em um único dia depois que a fraqueza do primeiro trimestre ganhou destaque, segundo o hankyung.com, pressionando investidores.",
-        "body": "As ações da Shake Shack caíram 28% em um único dia depois que a fraqueza no primeiro trimestre ganhou destaque. A rede de hambúrgueres fast casual sofreu uma forte queda na bolsa, com a decepção em relação ao desempenho trimestral sendo refletida pelo mercado. O principal número do episódio é a perda de 28% no preço das ações em apenas uma sessão. A reportagem original em coreano descreveu a Shake Shack como tendo “passado fome” no primeiro trimestre, indicando desempenho fraco. Os investidores parecem ter incorporado rapidamente esse quadro ao preço. A atenção agora deve se voltar à velocidade com que a empresa conseguirá superar essa tendência fraca. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Shake Shack verliert nach schwachem ersten Quartal an einem Tag 28%",
-        "excerpt": "Die Shake-Shack-Aktie fiel an einem Tag um 28%, nachdem die Schwäche im ersten Quartal in den Fokus rückte. Laut hankyung.com belasteten Ergebnisängste die Stimmung.",
-        "body": "Die Aktie von Shake Shack ist nach der in den Fokus gerückten Schwäche im ersten Quartal an einem Tag um 28% gefallen. Die Fast-Casual-Burgerkette verzeichnete einen deutlichen Kursrückgang, weil die Enttäuschung über die Entwicklung im ersten Quartal am Markt eingepreist wurde. Die zentrale Zahl ist der Kursverlust von 28% innerhalb nur eines Tages. Der koreanische Originalbericht beschrieb Shake Shack im ersten Quartal sinngemäß als „hungrig“, womit die schwache Leistung gemeint war. Anleger scheinen diese Schwäche unmittelbar in den Aktienkurs eingearbeitet zu haben. Der Markt dürfte nun darauf achten, wie schnell Shake Shack den schwachen Trend aus dem ersten Quartal ausgleichen kann. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Shake Shack chute de 28% en une journée après un premier trimestre faible",
-        "excerpt": "L’action Shake Shack a perdu 28% en une journée après la mise en avant d’un premier trimestre faible, selon hankyung.com, ce qui a pesé sur le sentiment des investisseurs.",
-        "body": "L’action Shake Shack a chuté de 28% en une seule journée après que la faiblesse du premier trimestre a été mise en avant. La chaîne de burgers fast casual a subi une forte baisse en Bourse, la déception liée à sa performance trimestrielle s’étant reflétée dans le marché. Le chiffre central est la perte de 28% du titre en une séance. L’article coréen original a décrit Shake Shack comme ayant eu « faim » au premier trimestre, une formule renvoyant à une performance faible. Les investisseurs semblent avoir immédiatement intégré cette faiblesse dans le cours de l’action. L’attention du marché devrait désormais porter sur la rapidité avec laquelle Shake Shack pourra compenser cette tendance défavorable. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سهم شيك شاك يهبط 28% في يوم واحد بعد ضعف الربع الأول",
-        "excerpt": "هبط سهم شيك شاك 28% في يوم واحد بعد بروز ضعف أداء الربع الأول، وفق hankyung.com، إذ ضغطت المخاوف المرتبطة بالنتائج على معنويات المستثمرين.",
-        "body": "هبط سهم شيك شاك 28% في يوم واحد بعدما برز ضعف أدائه في الربع الأول. وتعرضت سلسلة مطاعم البرغر السريعة غير الرسمية لانخفاض حاد في سعر السهم مع انعكاس خيبة الأمل من أداء الربع الأول في السوق. الرقم الأساسي في الخبر هو تراجع السهم 28% خلال يوم تداول واحد. ووصف التقرير الكوري الأصلي شيك شاك بأنه كان «جائعاً» في الربع الأول، في إشارة إلى ضعف الأداء. ويبدو أن المستثمرين سعّروا هذا الضعف فوراً في السهم. ومن المرجح أن يتركز اهتمام السوق لاحقاً على مدى سرعة قدرة شيك شاك على تعويض المسار الضعيف في الربع الأول. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "कमजोर पहली तिमाही के बाद Shake Shack शेयर एक दिन में 28% गिरा",
-        "excerpt": "पहली तिमाही की कमजोरी सामने आने के बाद Shake Shack का शेयर एक ही दिन में 28% गिरा। hankyung.com के अनुसार, नतीजों की चिंता ने निवेशक धारणा पर दबाव डाला।",
-        "body": "पहली तिमाही की कमजोरी पर बाजार का ध्यान जाने के बाद Shake Shack का शेयर एक ही दिन में 28% गिर गया। फास्ट-कैजुअल बर्गर चेन Shake Shack को तिमाही प्रदर्शन को लेकर निराशा बाजार में झलकने के कारण तेज शेयर गिरावट का सामना करना पड़ा। इस खबर का मुख्य आंकड़ा एक दिन में शेयर मूल्य का 28% घटना है। मूल कोरियाई रिपोर्ट ने पहली तिमाही में Shake Shack को “भूखा” बताया, जिसका संकेत कमजोर प्रदर्शन से था। निवेशकों ने इस कमजोरी को तुरंत शेयर भाव में शामिल किया प्रतीत होता है। अब बाजार की नजर इस बात पर रहने की संभावना है कि कंपनी पहली तिमाही की कमजोर प्रवृत्ति से कितनी जल्दी उबर पाती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Saham Shake Shack Anjlok 28% Sehari Usai Kuartal I Lemah",
-        "excerpt": "Saham Shake Shack turun 28% dalam satu hari setelah pelemahan kuartal pertama menjadi sorotan. Menurut hankyung.com, kekhawatiran kinerja menekan sentimen investor.",
-        "body": "Saham Shake Shack turun 28% dalam satu hari setelah pelemahan kinerja kuartal pertama menjadi sorotan. Jaringan burger fast casual itu mengalami penurunan harga saham tajam karena kekecewaan terhadap capaian kuartal pertama tercermin di pasar. Angka utama dalam kabar ini adalah hilangnya 28% nilai saham hanya dalam sehari. Laporan asli berbahasa Korea menggambarkan Shake Shack sebagai “kelaparan” pada kuartal pertama, yang merujuk pada kinerja lemah. Investor tampaknya segera memasukkan pelemahan tersebut ke dalam harga saham. Perhatian pasar berikutnya kemungkinan tertuju pada seberapa cepat Shake Shack dapat memulihkan tren lemah pada kuartal pertama. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "255e555e1757",
-    "slug": "보스턴다이내믹스-ipo-기대감현대차그룹주-점프-580741",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T11:52:31.271Z",
-    "updatedAt": "2026-05-08T11:52:31.271Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848491",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848491",
-    "titleFingerprint": "7ec0bf1237ded66da191f2d26283c2f9445d8900",
-    "dedupKeys": [
-      "255e555e175742c03a11557b84844cc2b181d122",
-      "7ec0bf1237ded66da191f2d26283c2f9445d8900",
-      "a5bea0e68132be3480d7bd16d54877f7b3e81a02"
-    ],
-    "imageUrl": "/images/articles/255e555e1757.jpg",
-    "i18n": {
-      "ko": {
-        "title": "보스턴다이내믹스 IPO 기대감에 현대차그룹주 동반 상승",
-        "excerpt": "보스턴다이내믹스 IPO 기대감이 부각되며 현대차그룹 관련주가 뛰었다. 시장은 로봇 사업 가치와 그룹주에 미칠 영향을 주목하고 있다.",
-        "body": "보스턴다이내믹스의 기업공개(IPO) 기대감이 부각되면서 현대차그룹주가 상승했다. 현대차그룹과 연결된 로봇 사업 가치가 시장의 관심을 받으며 관련 종목에 매수세가 유입된 것으로 풀이된다. 이번 흐름은 로봇 기술과 미래 모빌리티 사업에 대한 투자자 관심이 그룹주 전반의 주가 반응으로 이어진 사례다. 다만 제공된 원문 정보상 구체적인 IPO 일정, 공모 규모, 개별 종목별 등락률은 확인되지 않았다. 향후 시장은 보스턴다이내믹스의 상장 추진 여부와 현대차그룹의 로봇 사업 전략을 계속 주시할 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Boston Dynamics IPO Hopes Lift Hyundai Motor Group Shares",
-        "excerpt": "Expectations for a Boston Dynamics IPO pushed Hyundai Motor Group-related shares higher as investors focused on robotics value and its market impact.",
-        "body": "Hyundai Motor Group shares rose as expectations grew around a potential initial public offering by Boston Dynamics. The move reflected market attention on the value of robotics businesses connected to Hyundai Motor Group, drawing buying interest into related stocks. The reaction shows how investor focus on robotics technology and future mobility can spill over into group share prices. Based on the provided source text, specific IPO timing, offering size, and stock-by-stock percentage moves were not confirmed. Investors are expected to keep watching whether Boston Dynamics advances a listing and how Hyundai Motor Group develops its robotics strategy. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ボストン・ダイナミクスIPO期待で現代自グループ株が上昇",
-        "excerpt": "ボストン・ダイナミクスのIPO期待が高まり、現代自動車グループ関連株が上昇した。市場はロボット事業価値に注目している。",
-        "body": "ボストン・ダイナミクスの新規株式公開（IPO）への期待が浮上し、現代自動車グループ株が上昇した。現代自動車グループとつながるロボット事業の価値に市場の関心が集まり、関連銘柄に買いが入ったとみられる。今回の動きは、ロボット技術と未来モビリティ事業への投資家の関心がグループ株全体の反応につながった事例だ。ただし、提供された原文情報では具体的なIPO日程、公募規模、銘柄別の騰落率は確認されていない。市場は今後、ボストン・ダイナミクスの上場推進の有無と現代自動車グループのロボット事業戦略を注視するとみられる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "波士顿动力IPO预期升温，现代汽车集团股价走高",
-        "excerpt": "波士顿动力IPO预期受到关注，推动现代汽车集团相关股票上涨，市场聚焦机器人业务价值及其对集团股价的影响。",
-        "body": "随着波士顿动力首次公开募股（IPO）预期升温，现代汽车集团相关股票上涨。市场对与现代汽车集团相关的机器人业务价值产生关注，带动相关个股出现买盘。此次走势显示，投资者对机器人技术和未来出行业务的兴趣，已反映到集团股票的价格表现中。不过，根据所提供的原文信息，具体IPO时间、发行规模以及各个股票的涨跌幅尚未得到确认。未来市场预计将继续关注波士顿动力是否推进上市，以及现代汽车集团的机器人业务战略。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Expectativa de IPO de Boston Dynamics impulsa acciones de Hyundai",
-        "excerpt": "La expectativa de una IPO de Boston Dynamics elevó las acciones vinculadas a Hyundai Motor Group, con el mercado atento al valor del negocio robótico.",
-        "body": "Las acciones de Hyundai Motor Group subieron al cobrar fuerza la expectativa de una posible oferta pública inicial (IPO) de Boston Dynamics. El movimiento reflejó el interés del mercado por el valor del negocio de robótica conectado con Hyundai Motor Group, lo que atrajo compras hacia valores relacionados. La reacción muestra cómo la atención de los inversores sobre la tecnología robótica y la movilidad futura puede trasladarse a las acciones del grupo. Según la información original proporcionada, no se confirmaron fechas concretas de IPO, tamaño de la oferta ni variaciones por acción. El mercado seguirá atento a si Boston Dynamics avanza hacia una salida a bolsa y a la estrategia robótica de Hyundai Motor Group. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Expectativa de IPO da Boston Dynamics eleva ações da Hyundai",
-        "excerpt": "A expectativa de uma IPO da Boston Dynamics impulsionou ações ligadas ao Hyundai Motor Group, enquanto o mercado observa o valor da robótica.",
-        "body": "As ações do Hyundai Motor Group subiram com o aumento da expectativa em torno de uma possível oferta pública inicial (IPO) da Boston Dynamics. O movimento refletiu a atenção do mercado ao valor dos negócios de robótica ligados ao grupo, atraindo compras para papéis relacionados. A reação mostra como o interesse dos investidores por tecnologia robótica e mobilidade futura pode se refletir nas ações do conglomerado. Com base nas informações fornecidas no texto original, não foram confirmados prazo específico da IPO, tamanho da oferta ou variações por ação. O mercado deve continuar acompanhando se a Boston Dynamics avançará com a listagem e a estratégia de robótica do Hyundai Motor Group. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Boston-Dynamics-IPO-Fantasie treibt Hyundai-Konzernaktien an",
-        "excerpt": "Die Erwartung eines möglichen Börsengangs von Boston Dynamics ließ Aktien rund um Hyundai Motor Group steigen, während Anleger auf Robotikwerte blicken.",
-        "body": "Aktien der Hyundai Motor Group legten zu, nachdem Erwartungen an einen möglichen Börsengang von Boston Dynamics aufgekommen waren. Im Mittelpunkt stand der Marktwert des mit Hyundai Motor Group verbundenen Robotikgeschäfts, was Kaufinteresse bei entsprechenden Titeln auslöste. Die Entwicklung zeigt, wie Anlegerinteresse an Robotiktechnologie und künftiger Mobilität auf Konzernaktien übergreifen kann. Nach den bereitgestellten Originalinformationen wurden ein konkreter IPO-Zeitplan, das Emissionsvolumen und einzelne Kursveränderungen nicht bestätigt. Der Markt dürfte weiter beobachten, ob Boston Dynamics eine Notierung vorantreibt und wie Hyundai Motor Group seine Robotikstrategie entwickelt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "L’espoir d’une IPO de Boston Dynamics fait bondir Hyundai",
-        "excerpt": "Les attentes autour d’une IPO de Boston Dynamics ont soutenu les actions liées à Hyundai Motor Group, le marché visant la valeur de la robotique.",
-        "body": "Les actions de Hyundai Motor Group ont progressé alors que les attentes autour d’une éventuelle introduction en Bourse de Boston Dynamics se renforçaient. Le marché s’est intéressé à la valeur des activités de robotique liées au groupe, ce qui a attiré des achats sur les titres concernés. Ce mouvement montre comment l’intérêt des investisseurs pour la robotique et la mobilité du futur peut se répercuter sur les actions du groupe. Selon les informations originales fournies, aucun calendrier précis d’IPO, montant d’offre ni variation par titre n’a été confirmé. Le marché devrait continuer à surveiller une éventuelle cotation de Boston Dynamics et la stratégie robotique de Hyundai Motor Group. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "توقعات طرح بوسطن دايناميكس تدفع أسهم مجموعة هيونداي للصعود",
-        "excerpt": "ارتفعت أسهم مرتبطة بمجموعة هيونداي موتور مع بروز توقعات طرح بوسطن دايناميكس للاكتتاب، وسط تركيز السوق على قيمة أعمال الروبوتات.",
-        "body": "ارتفعت أسهم مجموعة هيونداي موتور مع تنامي التوقعات بشأن طرح عام أولي محتمل لشركة بوسطن دايناميكس. وجاء التحرك مع اهتمام السوق بقيمة أعمال الروبوتات المرتبطة بالمجموعة، ما جذب عمليات شراء إلى الأسهم ذات الصلة. ويظهر هذا التفاعل كيف يمكن لاهتمام المستثمرين بتقنيات الروبوتات والتنقل المستقبلي أن ينعكس على أسهم المجموعة. ووفق المعلومات الأصلية المقدمة، لم يتم تأكيد موعد محدد للطرح أو حجمه أو نسب تحرك كل سهم على حدة. ومن المتوقع أن يواصل السوق متابعة ما إذا كانت بوسطن دايناميكس ستدفع نحو الإدراج، وكذلك استراتيجية هيونداي موتور في مجال الروبوتات. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Boston Dynamics IPO उम्मीदों से Hyundai Group शेयरों में तेजी",
-        "excerpt": "Boston Dynamics के संभावित IPO की उम्मीदों ने Hyundai Motor Group से जुड़े शेयरों को चढ़ाया, जबकि बाजार रोबोटिक्स कारोबार के मूल्य पर नजर रखे है।",
-        "body": "Boston Dynamics के संभावित प्रारंभिक सार्वजनिक निर्गम (IPO) को लेकर उम्मीदें बढ़ने पर Hyundai Motor Group के शेयरों में तेजी आई। Hyundai Motor Group से जुड़े रोबोटिक्स कारोबार के मूल्य पर बाजार का ध्यान गया और संबंधित शेयरों में खरीदारी देखी गई। यह रुझान दिखाता है कि रोबोटिक्स तकनीक और भविष्य की मोबिलिटी में निवेशकों की रुचि समूह शेयरों की कीमतों पर असर डाल सकती है। उपलब्ध मूल जानकारी के आधार पर IPO की ठोस तारीख, निर्गम आकार या अलग-अलग शेयरों की बढ़त की पुष्टि नहीं हुई। आगे बाजार Boston Dynamics की लिस्टिंग प्रगति और Hyundai Motor Group की रोबोटिक्स रणनीति पर नजर रखेगा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Ekspektasi IPO Boston Dynamics Angkat Saham Grup Hyundai",
-        "excerpt": "Ekspektasi IPO Boston Dynamics mendorong saham terkait Hyundai Motor Group naik, saat pasar menyoroti nilai bisnis robotika dan dampaknya.",
-        "body": "Saham Hyundai Motor Group menguat setelah ekspektasi atas kemungkinan penawaran umum perdana (IPO) Boston Dynamics mencuat. Pergerakan ini mencerminkan perhatian pasar terhadap nilai bisnis robotika yang terhubung dengan Hyundai Motor Group, sehingga memicu minat beli pada saham terkait. Reaksi tersebut menunjukkan bagaimana minat investor pada teknologi robotika dan mobilitas masa depan dapat memengaruhi saham grup. Berdasarkan informasi asli yang diberikan, jadwal IPO, ukuran penawaran, dan perubahan harga masing-masing saham belum dikonfirmasi. Pasar diperkirakan terus mencermati apakah Boston Dynamics mendorong proses pencatatan dan bagaimana strategi robotika Hyundai Motor Group berkembang. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "60c29b96e7cd",
-    "slug": "국민성장펀드-35조-간접투자-운용사-대혈투-395074",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T11:51:35.230Z",
-    "updatedAt": "2026-05-08T11:51:35.230Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848571",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848571",
-    "titleFingerprint": "8096831a0abc8c537bdbdd0259a885e31278d966",
-    "dedupKeys": [
-      "60c29b96e7cd93ed0a5fe9536fe34ed47216a973",
-      "8096831a0abc8c537bdbdd0259a885e31278d966",
-      "77e0df3472a6664810230bc9ff3c58d568f1eadd"
-    ],
-    "imageUrl": "/images/articles/60c29b96e7cd.png",
-    "i18n": {
-      "ko": {
-        "title": "국민성장펀드 35조 간접투자, 운용사 경쟁 본격화",
-        "excerpt": "국민성장펀드의 35조원 규모 간접투자를 둘러싸고 운용사 간 경쟁이 커지고 있다고 hankyung.com이 보도했다.",
-        "body": "국민성장펀드의 35조원 규모 간접투자를 놓고 자산운용사들의 경쟁이 본격화되고 있다. hankyung.com 보도에 따르면 이번 사안의 핵심은 대규모 정책성 자금이 간접투자 방식으로 운용되는 과정에서 어떤 운용사가 자금을 맡게 되느냐에 있다. 관련 금액은 35조원으로 제시됐으며, 운용사들 사이에서는 이를 둘러싼 치열한 수주전이 벌어지는 분위기다. 향후 운용사 선정과 자금 배분 방식이 시장의 관심사가 될 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "National Growth Fund’s 35 Trillion Won Indirect Investment Sparks Manager Race",
-        "excerpt": "Asset managers are competing for the National Growth Fund’s 35 trillion won indirect investment mandate, according to hankyung.com.",
-        "body": "Competition among asset managers is intensifying over the National Growth Fund’s 35 trillion won indirect investment plan. According to hankyung.com, the key issue is which managers will be entrusted with the large policy-linked capital as it is deployed through an indirect investment structure. The reported amount is 35 trillion won, making the mandate a major focus for the asset management industry. Market attention is expected to center on the selection of managers and the allocation of funds. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "国民成長ファンド35兆ウォン間接投資、運用会社の競争が激化",
-        "excerpt": "国民成長ファンドの35兆ウォン規模の間接投資を巡り、運用会社間の競争が強まっているとhankyung.comが報じた。",
-        "body": "国民成長ファンドの35兆ウォン規模の間接投資を巡り、資産運用会社の競争が本格化している。hankyung.comの報道によると、今回の焦点は大規模な政策性資金が間接投資方式で運用される過程で、どの運用会社が資金を任されるかにある。関連金額は35兆ウォンとされ、運用会社の間では受託を巡る激しい競争が起きている。今後は運用会社の選定と資金配分の方式が市場の関心を集める見通しだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "国民成长基金35万亿韩元间接投资引发资管机构激烈竞争",
-        "excerpt": "据hankyung.com报道，围绕国民成长基金35万亿韩元规模的间接投资，资产管理公司之间的竞争正在升温。",
-        "body": "围绕国民成长基金35万亿韩元规模的间接投资，资产管理公司的竞争正在正式展开。据hankyung.com报道，此事的核心在于大规模政策性资金以间接投资方式运作时，将由哪些管理机构受托管理。相关金额被列为35万亿韩元，因此成为资产管理行业关注的重大项目。各机构围绕受托机会展开激烈竞争。未来，管理机构遴选以及资金分配方式预计将继续受到市场关注。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Fondo Nacional de Crecimiento: 35 billones de won desatan pugna gestora",
-        "excerpt": "Las gestoras compiten por la inversión indirecta de 35 billones de won del Fondo Nacional de Crecimiento, informó hankyung.com.",
-        "body": "La competencia entre gestoras de activos se intensifica por el plan de inversión indirecta de 35 billones de won del Fondo Nacional de Crecimiento. Según hankyung.com, el punto central es qué gestoras recibirán el mandato para manejar este capital de gran escala vinculado a políticas públicas bajo una estructura de inversión indirecta. El monto informado es de 35 billones de won, lo que convierte el proceso en un foco relevante para la industria. La selección de gestoras y la distribución de fondos concentrarán la atención del mercado. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Fundo Nacional de Crescimento: 35 tri de won acirram disputa entre gestoras",
-        "excerpt": "Gestoras disputam a aplicação indireta de 35 trilhões de won do Fundo Nacional de Crescimento, segundo o hankyung.com.",
-        "body": "A disputa entre gestoras de ativos está se intensificando em torno do plano de investimento indireto de 35 trilhões de won do Fundo Nacional de Crescimento. Segundo o hankyung.com, o ponto central é quais gestoras serão encarregadas de administrar esse grande volume de capital ligado a políticas públicas por meio de uma estrutura de investimento indireto. O valor informado é de 35 trilhões de won, tornando o mandato um tema relevante para o setor. A escolha das gestoras e a forma de alocação dos recursos devem atrair atenção do mercado. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Nationaler Wachstumsfonds: 35 Bio. Won entfachen Wettbewerb der Manager",
-        "excerpt": "Vermögensverwalter konkurrieren um die indirekte Anlage von 35 Billionen Won des Nationalen Wachstumsfonds, berichtet hankyung.com.",
-        "body": "Der Wettbewerb unter Vermögensverwaltern um den indirekten Anlageplan des Nationalen Wachstumsfonds in Höhe von 35 Billionen Won nimmt zu. Laut hankyung.com steht im Mittelpunkt, welche Manager mit der Verwaltung des großvolumigen, politisch geprägten Kapitals im Rahmen einer indirekten Investmentstruktur betraut werden. Der genannte Betrag beläuft sich auf 35 Billionen Won und macht das Mandat zu einem wichtigen Thema für die Branche. Die Auswahl der Verwalter und die Verteilung der Mittel dürften weiter im Fokus des Marktes stehen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Fonds national de croissance: 35 000 mds de wons attisent la course des gérants",
-        "excerpt": "Les sociétés de gestion se disputent l’investissement indirect de 35 000 milliards de wons du Fonds national de croissance, selon hankyung.com.",
-        "body": "La concurrence entre sociétés de gestion s’intensifie autour du plan d’investissement indirect de 35 000 milliards de wons du Fonds national de croissance. Selon hankyung.com, l’enjeu central est de savoir quels gestionnaires se verront confier ces capitaux de grande ampleur liés aux politiques publiques dans le cadre d’une structure d’investissement indirect. Le montant rapporté est de 35 000 milliards de wons, ce qui en fait un dossier majeur pour le secteur. La sélection des gestionnaires et la répartition des fonds devraient retenir l’attention du marché. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صندوق النمو الوطني: استثمار غير مباشر بـ35 تريليون وون يشعل منافسة المديرين",
-        "excerpt": "تتنافس شركات إدارة الأصول على استثمار غير مباشر بقيمة 35 تريليون وون لصندوق النمو الوطني، وفق ما أورد hankyung.com.",
-        "body": "تتصاعد المنافسة بين شركات إدارة الأصول حول خطة الاستثمار غير المباشر لصندوق النمو الوطني بقيمة 35 تريليون وون. وبحسب hankyung.com، تتمثل القضية الرئيسية في تحديد الشركات التي ستتولى إدارة هذا الحجم الكبير من الأموال المرتبطة بالسياسات عبر هيكل استثمار غير مباشر. وقد وردت القيمة عند 35 تريليون وون، ما يجعل التفويض محور اهتمام مهم في قطاع إدارة الأصول. ومن المتوقع أن يتركز اهتمام السوق على اختيار المديرين وطريقة توزيع الأموال. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "नेशनल ग्रोथ फंड के 35 ट्रिलियन वॉन अप्रत्यक्ष निवेश पर मैनेजरों में होड़",
-        "excerpt": "नेशनल ग्रोथ फंड के 35 ट्रिलियन वॉन के अप्रत्यक्ष निवेश को लेकर एसेट मैनेजरों में प्रतिस्पर्धा तेज हो रही है, hankyung.com ने बताया।",
-        "body": "नेशनल ग्रोथ फंड की 35 ट्रिलियन वॉन की अप्रत्यक्ष निवेश योजना को लेकर एसेट मैनेजमेंट कंपनियों के बीच प्रतिस्पर्धा तेज हो रही है। hankyung.com के अनुसार, मुख्य मुद्दा यह है कि अप्रत्यक्ष निवेश संरचना के जरिए लगाए जाने वाले इस बड़े नीति-संबद्ध पूंजी प्रवाह का प्रबंधन किन कंपनियों को सौंपा जाएगा। रिपोर्ट में संबंधित राशि 35 ट्रिलियन वॉन बताई गई है, जिससे यह एसेट मैनेजमेंट उद्योग के लिए बड़ा अवसर बन गया है। आगे मैनेजर चयन और फंड आवंटन पद्धति बाजार की नजर में रहेगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Dana Pertumbuhan Nasional: Investasi Tidak Langsung 35 Triliun Won Picu Persaingan",
-        "excerpt": "Manajer aset bersaing memperebutkan investasi tidak langsung 35 triliun won dari Dana Pertumbuhan Nasional, menurut hankyung.com.",
-        "body": "Persaingan di antara manajer aset meningkat terkait rencana investasi tidak langsung Dana Pertumbuhan Nasional senilai 35 triliun won. Menurut hankyung.com, inti persoalannya adalah manajer mana yang akan dipercaya mengelola modal besar terkait kebijakan tersebut melalui struktur investasi tidak langsung. Nilai yang disebutkan mencapai 35 triliun won, sehingga mandat ini menjadi perhatian penting bagi industri manajemen aset. Ke depan, pemilihan manajer dan metode alokasi dana diperkirakan menjadi fokus pasar. Sumber: hankyung.com"
       }
     }
   }
