@@ -1,0 +1,75 @@
+{
+  "id": "a0d3fb99793e",
+  "slug": "중간에-말-끊어도-맥락-이해오픈ai-새-음성모델-내놔-194000",
+  "channelId": "FX",
+  "category": "fx",
+  "publishedAt": "2026-05-08T09:32:48.926Z",
+  "updatedAt": "2026-05-08T09:32:48.926Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/business/12041372",
+  "canonicalUrl": "https://www.mk.co.kr/news/business/12041372",
+  "titleFingerprint": "f1245eb81ed298f77bcfbec864970455ef461fde",
+  "dedupKeys": [
+    "a0d3fb99793e6a23d8f6195a4689aad310b8569c",
+    "f1245eb81ed298f77bcfbec864970455ef461fde",
+    "3c9d096b64290a06dcd06b62d9bb65651243509a"
+  ],
+  "imageUrl": "/images/articles/a0d3fb99793e.jpg",
+  "i18n": {
+    "ko": {
+      "title": "오픈AI 새 음성모델 공개, 말 끊겨도 맥락 이해하는 AI 주목",
+      "excerpt": "오픈AI가 7일(현지시간) 자연스럽게 음성을 인식하고 반응하는 새 음성모델을 선보이며 피지컬 AI 시대 대응 전략에 관심이 쏠리고 있다.",
+      "body": "오픈AI가 7일(현지시간) 사용자의 말이 중간에 끊기더라도 맥락을 이해하고 자연스럽게 반응하는 새 음성모델을 선보였다. 이번 모델은 음성을 단순히 텍스트로 옮기는 수준을 넘어 대화 흐름을 파악해 응답하는 데 초점을 맞춘 것으로 소개됐다. 원문에 따르면 오픈AI는 GPT-5급 추론 능력을 바탕으로 한 음성 인식·응답 모델을 공개했다. 업계에서는 이 같은 기술이 로봇 등 현실 세계와 상호작용하는 피지컬 인공지능(AI) 시대에 대비하기 위한 움직임으로 해석된다. 자연스러운 음성 대화 성능이 향후 AI 서비스 경쟁의 핵심 요소로 부상할지 주목된다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "OpenAI Unveils New Voice Model That Understands Context Even When Interrupted",
+      "excerpt": "OpenAI introduced a new voice model on May 7 local time that naturally recognizes and responds to speech, drawing attention as a step toward the physical AI era.",
+      "body": "OpenAI unveiled a new voice model on May 7 local time that can understand context and respond naturally even when a user’s speech is interrupted mid-sentence. The model was introduced as focusing on grasping the flow of conversation, going beyond simply converting speech into text. According to the source, OpenAI presented a voice recognition and response model based on GPT-5-level reasoning ability. Industry observers interpret the move as preparation for the era of physical artificial intelligence, in which AI interacts with the real world, including robots. Attention is now on whether natural voice conversation will become a key factor in AI service competition. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "OpenAIが新音声モデル公開、中断された発話の文脈理解に注目",
+      "excerpt": "OpenAIは7日（現地時間）、音声を自然に認識して応答する新たな音声モデルを発表し、フィジカルAI時代への対応として関心を集めている。",
+      "body": "OpenAIは7日（現地時間）、利用者の発話が途中で途切れても文脈を理解し、自然に応答できる新しい音声モデルを発表した。今回のモデルは、音声を単にテキスト化する段階を超え、会話の流れを把握して返答する点に焦点を当てたものとして紹介された。原文によると、OpenAIはGPT-5級の推論能力を基盤にした音声認識・応答モデルを公開した。業界では、ロボットなど現実世界と相互作用するフィジカル人工知能（AI）時代に備える動きと受け止められている。自然な音声対話性能が今後のAIサービス競争の重要要素になるか注目される。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "OpenAI发布新语音模型，可理解被打断话语的上下文",
+      "excerpt": "OpenAI于当地时间7日推出可自然识别并回应语音的新模型，引发外界对其应对实体人工智能时代战略的关注。",
+      "body": "OpenAI于当地时间7日发布了一款新的语音模型，即使用户说话中途被打断，也能理解上下文并自然作出回应。该模型被介绍为不只是将语音转换为文本，而是更注重把握对话流程后进行应答。据原文称，OpenAI公开的是一款基于GPT-5级推理能力的语音识别与回应模型。业内认为，这一技术动作可被解读为面向实体人工智能（AI）时代的准备，届时AI将与机器人等现实世界对象互动。自然语音对话能力今后是否会成为AI服务竞争的关键因素，仍受到关注。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "OpenAI presenta un nuevo modelo de voz que entiende el contexto al interrumpirse",
+      "excerpt": "OpenAI presentó el 7 de mayo, hora local, un nuevo modelo que reconoce y responde al habla de forma natural, en una señal vinculada a la era de la IA física.",
+      "body": "OpenAI presentó el 7 de mayo, hora local, un nuevo modelo de voz capaz de entender el contexto y responder con naturalidad incluso cuando el usuario interrumpe una frase a mitad de camino. El modelo fue descrito como una tecnología centrada en captar el flujo de la conversación, más allá de convertir voz en texto. Según el texto original, OpenAI dio a conocer un modelo de reconocimiento y respuesta de voz basado en una capacidad de razonamiento de nivel GPT-5. En la industria, este movimiento se interpreta como una preparación para la era de la inteligencia artificial física, en la que la IA interactúa con el mundo real, incluidos los robots. La atención se centra en si la conversación de voz natural será un factor clave en la competencia de servicios de IA. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "OpenAI lança novo modelo de voz que entende contexto mesmo com interrupções",
+      "excerpt": "A OpenAI apresentou em 7 de maio, horário local, um novo modelo que reconhece e responde à fala com naturalidade, atraindo atenção para a era da IA física.",
+      "body": "A OpenAI apresentou em 7 de maio, horário local, um novo modelo de voz capaz de entender o contexto e responder de forma natural mesmo quando a fala do usuário é interrompida no meio. O modelo foi descrito como focado em compreender o fluxo da conversa, indo além da simples conversão de voz em texto. Segundo o texto original, a OpenAI revelou um modelo de reconhecimento e resposta por voz baseado em capacidade de raciocínio de nível GPT-5. No setor, o movimento é interpretado como preparação para a era da inteligência artificial física, na qual a IA interage com o mundo real, incluindo robôs. A atenção agora recai sobre se a conversa por voz natural se tornará um fator central na competição entre serviços de IA. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "OpenAI stellt neues Sprachmodell vor, das Kontext trotz Unterbrechung versteht",
+      "excerpt": "OpenAI hat am 7. Mai Ortszeit ein neues Sprachmodell vorgestellt, das Sprache natürlich erkennt und beantwortet und als Schritt in Richtung physische KI gilt.",
+      "body": "OpenAI hat am 7. Mai Ortszeit ein neues Sprachmodell vorgestellt, das den Kontext versteht und natürlich reagiert, selbst wenn die Äußerung eines Nutzers mitten im Satz unterbrochen wird. Das Modell wurde als Technologie beschrieben, die über die reine Umwandlung von Sprache in Text hinausgeht und den Gesprächsfluss erfasst. Laut Originalquelle präsentierte OpenAI ein Modell zur Spracherkennung und Antwortgenerierung auf Basis einer Schlussfolgerungsfähigkeit auf GPT-5-Niveau. In der Branche wird dies als Vorbereitung auf die Ära der physischen künstlichen Intelligenz verstanden, in der KI mit der realen Welt, etwa Robotern, interagiert. Im Fokus steht nun, ob natürliche Sprachdialoge zu einem Schlüsselfaktor im Wettbewerb der KI-Dienste werden. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "OpenAI dévoile un nouveau modèle vocal qui comprend le contexte interrompu",
+      "excerpt": "OpenAI a présenté le 7 mai, heure locale, un nouveau modèle capable de reconnaître et de répondre naturellement à la voix, dans la perspective de l’IA physique.",
+      "body": "OpenAI a dévoilé le 7 mai, heure locale, un nouveau modèle vocal capable de comprendre le contexte et de répondre naturellement même lorsque la parole d’un utilisateur est interrompue au milieu d’une phrase. Le modèle a été présenté comme allant au-delà de la simple transcription de la voix en texte, avec un accent mis sur la compréhension du déroulement de la conversation. Selon le texte original, OpenAI a présenté un modèle de reconnaissance et de réponse vocales fondé sur une capacité de raisonnement de niveau GPT-5. Le secteur y voit une préparation à l’ère de l’intelligence artificielle physique, dans laquelle l’IA interagit avec le monde réel, notamment les robots. Reste à voir si la conversation vocale naturelle deviendra un facteur clé de la concurrence entre services d’IA. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "OpenAI تكشف نموذج صوت جديد يفهم السياق حتى عند انقطاع الكلام",
+      "excerpt": "قدمت OpenAI في 7 مايو بالتوقيت المحلي نموذجا صوتيا جديدا يتعرف على الكلام ويرد عليه بشكل طبيعي، وسط اهتمام بدوره في عصر الذكاء الاصطناعي المادي.",
+      "body": "كشفت OpenAI في 7 مايو بالتوقيت المحلي عن نموذج صوتي جديد يستطيع فهم السياق والرد بصورة طبيعية حتى إذا انقطع كلام المستخدم في منتصف الجملة. وجرى تقديم النموذج باعتباره يركز على فهم مسار المحادثة، لا على تحويل الصوت إلى نص فقط. ووفقا للنص الأصلي، عرضت OpenAI نموذجا للتعرف على الصوت والرد عليه يستند إلى قدرة استدلال بمستوى GPT-5. وترى الأوساط المعنية أن هذه الخطوة قد تكون استعدادا لعصر الذكاء الاصطناعي المادي، حيث يتفاعل الذكاء الاصطناعي مع العالم الواقعي بما في ذلك الروبوتات. وتتجه الأنظار إلى ما إذا كانت المحادثة الصوتية الطبيعية ستصبح عنصرا رئيسيا في منافسة خدمات الذكاء الاصطناعي. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "OpenAI का नया वॉयस मॉडल, बीच में रुकी बात का संदर्भ भी समझेगा",
+      "excerpt": "OpenAI ने 7 मई स्थानीय समय पर आवाज को स्वाभाविक रूप से पहचानने और जवाब देने वाला नया मॉडल पेश किया, जिसे फिजिकल AI युग की तैयारी से जोड़ा जा रहा है।",
+      "body": "OpenAI ने 7 मई स्थानीय समय पर नया वॉयस मॉडल पेश किया, जो उपयोगकर्ता की बात बीच में रुक जाने पर भी संदर्भ समझकर स्वाभाविक रूप से जवाब दे सकता है। इस मॉडल को केवल आवाज को टेक्स्ट में बदलने से आगे बढ़कर बातचीत के प्रवाह को समझने पर केंद्रित बताया गया है। मूल रिपोर्ट के अनुसार, OpenAI ने GPT-5 स्तर की तर्क क्षमता पर आधारित वॉयस रिकग्निशन और रिस्पॉन्स मॉडल पेश किया। उद्योग जगत में इसे फिजिकल आर्टिफिशियल इंटेलिजेंस (AI) के युग की तैयारी के रूप में देखा जा रहा है, जहां AI रोबोट सहित वास्तविक दुनिया से बातचीत करेगा। अब ध्यान इस पर है कि स्वाभाविक वॉयस बातचीत AI सेवाओं की प्रतिस्पर्धा में मुख्य तत्व बनेगी या नहीं। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "OpenAI Rilis Model Suara Baru yang Pahami Konteks Meski Ucapan Terputus",
+      "excerpt": "OpenAI pada 7 Mei waktu setempat memperkenalkan model suara baru yang mengenali dan merespons ucapan secara alami, menarik perhatian jelang era AI fisik.",
+      "body": "OpenAI pada 7 Mei waktu setempat memperkenalkan model suara baru yang dapat memahami konteks dan merespons secara alami meski ucapan pengguna terputus di tengah kalimat. Model ini diperkenalkan sebagai teknologi yang berfokus pada pemahaman alur percakapan, bukan sekadar mengubah suara menjadi teks. Menurut naskah asli, OpenAI merilis model pengenalan dan respons suara berbasis kemampuan penalaran setingkat GPT-5. Kalangan industri menilai langkah ini sebagai persiapan menghadapi era kecerdasan buatan fisik, ketika AI berinteraksi dengan dunia nyata, termasuk robot. Perhatian kini tertuju pada apakah percakapan suara alami akan menjadi faktor utama dalam persaingan layanan AI. Sumber: mk.co.kr"
+    }
+  }
+}
