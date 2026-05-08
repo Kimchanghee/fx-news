@@ -1,5 +1,230 @@
 [
   {
+    "id": "2b0009f79d86",
+    "slug": "통신보다-이것으로-돈-더-벌겠다해킹-사태-회복에-올인하는-sk텔레콤-213818",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T06:34:23.331Z",
+    "updatedAt": "2026-05-08T06:34:23.331Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12040988",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12040988",
+    "titleFingerprint": "8e72043d0d8b835d1793f6bc61104f37ac6da9d4",
+    "dedupKeys": [
+      "2b0009f79d869b6956149232cdd5ea1f06331ac0",
+      "8e72043d0d8b835d1793f6bc61104f37ac6da9d4",
+      "30b5f10d0498f6cdde5d0cacbd095bcc52a84056"
+    ],
+    "imageUrl": "/images/articles/2b0009f79d86.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SK텔레콤 1분기 매출·영업익 동반 감소, 해킹 사태 회복에 집중",
+        "excerpt": "SK텔레콤은 7일 올해 1분기 연결 기준 매출 4조3923억원을 기록해 전년 동기보다 1.4% 줄었고, 영업이익도 5.3% 감소했다고 공시했다.",
+        "body": "SK텔레콤은 7일 올해 1분기 연결재무제표 기준 매출액이 4조3923억원으로 전년 동기 대비 1.4% 감소했다고 공시했다. 같은 기간 영업이익도 5.3% 줄었다. 이번 실적은 회사가 해킹 사태 이후 신뢰 회복과 대응에 힘을 쏟는 상황에서 발표됐다. 매출과 영업이익이 모두 전년보다 낮아지면서 통신 본업의 실적 흐름과 사고 수습 과정이 함께 주목된다. 향후 시장은 해킹 사태 회복 속도와 수익성 방어 여부를 지켜볼 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "SK Telecom Q1 Revenue and Operating Profit Fall as Hacking Recovery Takes Focus",
+        "excerpt": "SK Telecom said on May 7 that first-quarter consolidated revenue fell 1.4% year on year to 4.3923 trillion won, while operating profit declined 5.3%.",
+        "body": "SK Telecom disclosed on May 7 that its first-quarter revenue on a consolidated financial statement basis was 4.3923 trillion won, down 1.4% from the same period a year earlier. Operating profit also fell 5.3% over the same period. The results were announced as the company focuses on restoring trust and responding after a hacking incident. With both revenue and operating profit lower than a year ago, attention is on the performance trend of its telecom business and the recovery process. Markets are expected to watch the pace of recovery from the hacking incident and whether profitability can be defended. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "SKテレコム、第1四半期の売上高と営業益が減少　ハッキング対応に注力",
+        "excerpt": "SKテレコムは7日、今年第1四半期の連結売上高が4兆3923億ウォンとなり前年同期比1.4%減、営業利益も5.3%減少したと公示した。",
+        "body": "SKテレコムは7日、今年第1四半期の連結財務諸表ベースの売上高が4兆3923億ウォンとなり、前年同期比1.4%減少したと公示した。同じ期間の営業利益も5.3%減った。今回の業績は、同社がハッキング事態後の信頼回復と対応に力を入れる中で発表された。売上高と営業利益がともに前年を下回り、通信本業の業績動向と事態収拾の過程に関心が集まっている。今後はハッキング事態からの回復速度と収益性の防衛可否が注目される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "SK电讯一季度营收与营业利润双降，聚焦黑客事件后的恢复",
+        "excerpt": "SK电讯7日公告称，今年一季度合并口径营收为4.3923万亿韩元，同比下降1.4%，同期营业利润也减少5.3%。",
+        "body": "SK电讯7日公告称，今年第一季度按合并财务报表计算的营收为4.3923万亿韩元，较去年同期下降1.4%。同期营业利润也减少5.3%。这份业绩是在公司全力推进黑客事件后的信任恢复和应对工作之际公布的。由于营收和营业利润均低于去年同期，通信主业的业绩走势以及事件处理进程受到关注。未来市场预计将继续观察黑客事件恢复速度以及公司能否守住盈利能力。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "SK Telecom reduce ingresos y beneficio operativo en el 1T mientras prioriza recuperarse del hackeo",
+        "excerpt": "SK Telecom informó el 7 de mayo que sus ingresos consolidados del primer trimestre cayeron un 1,4% interanual hasta 4,3923 billones de wones y que el beneficio operativo bajó un 5,3%.",
+        "body": "SK Telecom comunicó el 7 de mayo que sus ingresos del primer trimestre, según estados financieros consolidados, fueron de 4,3923 billones de wones, un 1,4% menos que en el mismo periodo del año anterior. En el mismo lapso, el beneficio operativo también cayó un 5,3%. Los resultados se anunciaron mientras la compañía concentra esfuerzos en recuperar la confianza y responder tras un incidente de hackeo. Con ingresos y beneficio operativo por debajo del año previo, la atención se centra en la evolución del negocio de telecomunicaciones y en el proceso de recuperación. El mercado observará el ritmo de esa recuperación y la defensa de la rentabilidad. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "SK Telecom vê receita e lucro operacional caírem no 1º tri enquanto foca recuperação após hackeamento",
+        "excerpt": "A SK Telecom informou em 7 de maio que a receita consolidada do primeiro trimestre caiu 1,4% em relação ao ano anterior, para 4,3923 trilhões de wons, e que o lucro operacional recuou 5,3%.",
+        "body": "A SK Telecom divulgou em 7 de maio que sua receita do primeiro trimestre, em base consolidada, foi de 4,3923 trilhões de wons, queda de 1,4% ante o mesmo período do ano anterior. No mesmo intervalo, o lucro operacional também diminuiu 5,3%. O resultado foi anunciado enquanto a empresa concentra esforços na recuperação da confiança e na resposta após um incidente de hackeamento. Com receita e lucro operacional abaixo do ano anterior, o desempenho do negócio de telecomunicações e o processo de recuperação ganham atenção. O mercado deve acompanhar a velocidade dessa recuperação e a preservação da rentabilidade. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "SK Telecom meldet Rückgang bei Umsatz und operativem Gewinn im ersten Quartal",
+        "excerpt": "SK Telecom teilte am 7. Mai mit, dass der Konzernumsatz im ersten Quartal um 1,4% auf 4,3923 Billionen Won sank; der operative Gewinn ging um 5,3% zurück.",
+        "body": "SK Telecom gab am 7. Mai bekannt, dass der Umsatz im ersten Quartal auf Basis des Konzernabschlusses 4,3923 Billionen Won betrug und damit 1,4% unter dem Vorjahreszeitraum lag. Der operative Gewinn sank im gleichen Zeitraum ebenfalls um 5,3%. Die Zahlen wurden veröffentlicht, während das Unternehmen nach einem Hacking-Vorfall auf Vertrauenswiederherstellung und Reaktion setzt. Da sowohl Umsatz als auch operativer Gewinn unter dem Vorjahr liegen, rücken die Entwicklung des Telekomgeschäfts und der Umgang mit dem Vorfall in den Fokus. Der Markt dürfte nun auf das Tempo der Erholung und die Sicherung der Profitabilität achten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "SK Telecom voit son chiffre d’affaires et son résultat opérationnel reculer au 1er trimestre",
+        "excerpt": "SK Telecom a annoncé le 7 mai un chiffre d’affaires consolidé de 4,3923 billions de wons au premier trimestre, en baisse de 1,4% sur un an, avec un résultat opérationnel en recul de 5,3%.",
+        "body": "SK Telecom a indiqué le 7 mai que son chiffre d’affaires du premier trimestre, sur une base consolidée, avait atteint 4,3923 billions de wons, soit une baisse de 1,4% par rapport à la même période de l’an dernier. Le résultat opérationnel a également reculé de 5,3% sur la période. Ces résultats ont été publiés alors que l’entreprise concentre ses efforts sur le rétablissement de la confiance et la réponse à un incident de piratage. Avec un chiffre d’affaires et un résultat opérationnel inférieurs à ceux de l’an passé, l’évolution du cœur de métier télécom et le processus de reprise sont surveillés. Le marché suivra la vitesse de cette reprise et la défense de la rentabilité. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إس كيه تليكوم تسجل تراجعا في إيرادات الربع الأول والربح التشغيلي مع التركيز على التعافي من الاختراق",
+        "excerpt": "أعلنت إس كيه تليكوم في 7 مايو أن إيراداتها الموحدة في الربع الأول بلغت 4.3923 تريليون وون، بانخفاض 1.4% على أساس سنوي، بينما هبط الربح التشغيلي 5.3%.",
+        "body": "أعلنت إس كيه تليكوم في 7 مايو أن إيرادات الربع الأول، وفق القوائم المالية الموحدة، بلغت 4.3923 تريليون وون، بانخفاض 1.4% مقارنة بالفترة نفسها من العام الماضي. كما تراجع الربح التشغيلي خلال الفترة نفسها بنسبة 5.3%. وجاء إعلان النتائج بينما تركز الشركة على استعادة الثقة والتعامل مع تداعيات حادثة اختراق. ومع انخفاض الإيرادات والربح التشغيلي عن العام السابق، يتجه الاهتمام إلى أداء نشاط الاتصالات الأساسي ومسار معالجة الحادثة. ومن المتوقع أن تراقب السوق سرعة التعافي وإمكانية حماية الربحية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "SK Telecom की पहली तिमाही में आय और परिचालन लाभ घटे, हैकिंग से उबरने पर जोर",
+        "excerpt": "SK Telecom ने 7 मई को बताया कि पहली तिमाही की समेकित आय सालाना आधार पर 1.4% घटकर 4.3923 ट्रिलियन वॉन रही, जबकि परिचालन लाभ 5.3% कम हुआ।",
+        "body": "SK Telecom ने 7 मई को खुलासा किया कि समेकित वित्तीय विवरणों के आधार पर पहली तिमाही की आय 4.3923 ट्रिलियन वॉन रही, जो पिछले वर्ष की समान अवधि से 1.4% कम है। इसी अवधि में परिचालन लाभ भी 5.3% घटा। यह परिणाम ऐसे समय आया है जब कंपनी हैकिंग घटना के बाद भरोसा बहाल करने और प्रतिक्रिया पर ध्यान दे रही है। आय और परिचालन लाभ दोनों पिछले वर्ष से कम रहने के कारण दूरसंचार कारोबार की दिशा और घटना से उबरने की प्रक्रिया पर ध्यान है। आगे बाजार हैकिंग घटना से उबरने की गति और लाभप्रदता बचाने की क्षमता पर नजर रखेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "SK Telecom Catat Penurunan Pendapatan dan Laba Operasi Kuartal I, Fokus Pulih dari Peretasan",
+        "excerpt": "SK Telecom pada 7 Mei menyatakan pendapatan konsolidasi kuartal I turun 1,4% secara tahunan menjadi 4,3923 triliun won, sementara laba operasi turun 5,3%.",
+        "body": "SK Telecom mengumumkan pada 7 Mei bahwa pendapatan kuartal pertama berdasarkan laporan keuangan konsolidasi mencapai 4,3923 triliun won, turun 1,4% dibanding periode yang sama tahun lalu. Pada periode yang sama, laba operasi juga turun 5,3%. Kinerja ini diumumkan ketika perusahaan berfokus pada pemulihan kepercayaan dan respons setelah insiden peretasan. Karena pendapatan dan laba operasi sama-sama lebih rendah dari tahun sebelumnya, perhatian tertuju pada tren bisnis telekomunikasi utama dan proses pemulihan insiden. Ke depan, pasar diperkirakan mencermati kecepatan pemulihan dari insiden peretasan serta kemampuan menjaga profitabilitas. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1f989684d760",
+    "slug": "삼성전자-로봇-인력-대거-확보제조형-휴머노이드-상용화-속도전-388198",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T06:33:22.992Z",
+    "updatedAt": "2026-05-08T06:33:22.992Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12041100",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12041100",
+    "titleFingerprint": "89152701147fdf4b1fdff8d1d8c4e00a3d157a66",
+    "dedupKeys": [
+      "1f989684d76083c5dd874ea8d4c311d5745f9ffd",
+      "89152701147fdf4b1fdff8d1d8c4e00a3d157a66",
+      "6ab96a827eeff6db38b0ee474ddd7858a6fd7eba"
+    ],
+    "imageUrl": "/images/articles/1f989684d760.png",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 로봇 인력 대거 확보, 제조형 휴머노이드 상용화 속도전",
+        "excerpt": "삼성전자가 최근 로봇과 AI를 미래 성장축으로 삼고 휴머노이드 개발 인력 확대, AX 전환 조직 구축, 로봇 부품 내재화 강화에 속도를 내고 있다.",
+        "body": "삼성전자가 로봇과 인공지능(AI)을 미래 성장축으로 삼고 제조형 휴머노이드 상용화 준비에 속도를 내고 있다. 회사는 휴머노이드 개발 인력을 확대하고 AX 전환을 위한 조직 구축을 가속하는 한편, 로봇 부품 내재화 역량도 강화하고 있다. 이는 제조 현장에 적용 가능한 로봇 기술을 확보하고 미래 사업 기반을 넓히려는 움직임으로 풀이된다. 관련 조직과 인력 확충이 병행되면서 삼성전자의 로봇 사업 추진 속도와 상용화 가능성에 관심이 커지고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Expands Robot Talent to Speed Manufacturing Humanoid Push",
+        "excerpt": "Samsung Electronics is accelerating its robot and AI strategy by expanding humanoid development staff, building AX transformation teams and strengthening in-house robot parts capabilities.",
+        "body": "Samsung Electronics is moving faster to prepare for commercialization of manufacturing-focused humanoid robots, positioning robotics and artificial intelligence as future growth pillars. The company is expanding personnel for humanoid development, accelerating the creation of an organization for AX transformation, and strengthening its ability to internalize robot components. The steps point to an effort to secure robot technologies that can be applied in manufacturing sites and broaden the foundation for future businesses. As related teams and staffing grow together, attention is rising on the pace of Samsung Electronics’ robot business and its path toward commercialization. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子、ロボット人材を大幅確保 製造型ヒューマノイド商用化を加速",
+        "excerpt": "サムスン電子はロボットとAIを将来の成長軸に据え、ヒューマノイド開発人材の拡充、AX転換組織の構築、ロボット部品内製化を急いでいる。",
+        "body": "サムスン電子がロボットと人工知能（AI）を将来の成長軸に位置づけ、製造型ヒューマノイドの商用化準備を加速している。同社はヒューマノイド開発人材を拡大し、AX転換に向けた組織構築を急ぐ一方、ロボット部品の内製化能力も強化している。これは製造現場に適用できるロボット技術を確保し、将来事業の基盤を広げる動きとみられる。関連組織と人員の拡充が同時に進むなか、サムスン電子のロボット事業の推進速度と商用化の可能性に関心が高まっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子大举扩充机器人人才，加快制造型人形机器人商业化",
+        "excerpt": "三星电子正把机器人和AI作为未来增长轴，扩大人形机器人开发人员，加快AX转型组织建设，并强化机器人零部件内制能力。",
+        "body": "三星电子正把机器人和人工智能（AI）作为未来增长轴，加快制造型人形机器人商业化准备。公司正在扩大人形机器人开发人才，加速建设面向AX转型的组织，同时强化机器人零部件内制化能力。这一动向被视为其希望 확보 可应用于制造现场的机器人技术，并扩大未来业务基础。随着相关组织和人员扩充同步推进，外界对三星电子机器人业务推进速度以及商业化可能性的关注正在升温。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics amplía talento en robótica y acelera humanoides industriales",
+        "excerpt": "Samsung Electronics acelera su estrategia de robótica e IA con más personal para humanoides, equipos de transformación AX y mayor internalización de piezas robóticas.",
+        "body": "Samsung Electronics está acelerando los preparativos para comercializar humanoides orientados a la fabricación, con la robótica y la inteligencia artificial como ejes de crecimiento futuro. La compañía está ampliando el personal dedicado al desarrollo de humanoides, acelerando la creación de una organización para la transformación AX y reforzando su capacidad de internalizar componentes robóticos. Estas medidas apuntan a asegurar tecnologías robóticas aplicables en plantas de producción y a ampliar la base de negocios futuros. Con el aumento paralelo de equipos y personal, crece la atención sobre el ritmo del negocio robótico de Samsung Electronics y sus posibilidades de comercialización. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics amplia equipe de robótica e acelera humanoides industriais",
+        "excerpt": "A Samsung Electronics acelera sua estratégia em robótica e IA ao ampliar equipes de humanoides, montar organização de transformação AX e reforçar peças internas.",
+        "body": "A Samsung Electronics está acelerando os preparativos para comercializar humanoides voltados à manufatura, colocando robótica e inteligência artificial como eixos de crescimento futuro. A empresa está ampliando a equipe de desenvolvimento de humanoides, acelerando a formação de uma organização para transformação AX e fortalecendo a internalização de componentes robóticos. O movimento indica a busca por tecnologias robóticas aplicáveis ao ambiente fabril e pela ampliação da base de negócios futuros. Com a expansão simultânea de organizações e pessoal, cresce a atenção sobre o ritmo do negócio de robôs da Samsung Electronics e sua possibilidade de comercialização. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics baut Robotik-Personal aus und beschleunigt Industrie-Humanoide",
+        "excerpt": "Samsung Electronics treibt Robotik und KI als künftige Wachstumssäulen voran, erweitert Humanoid-Teams, baut AX-Organisationen auf und stärkt eigene Roboterteile.",
+        "body": "Samsung Electronics beschleunigt die Vorbereitung auf die Kommerzialisierung fertigungsorientierter humanoider Roboter und setzt Robotik sowie künstliche Intelligenz als künftige Wachstumssäulen. Das Unternehmen erweitert das Personal für die Humanoid-Entwicklung, treibt den Aufbau einer Organisation für die AX-Transformation voran und stärkt zugleich die interne Entwicklung von Roboterkomponenten. Diese Schritte deuten darauf hin, dass Samsung Electronics Robotiktechnologien für den Einsatz in Fertigungsstätten sichern und die Grundlage für künftige Geschäfte verbreitern will. Mit dem parallelen Ausbau von Organisationen und Personal wächst das Interesse am Tempo des Robotikgeschäfts und an den Kommerzialisierungschancen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics renforce ses talents en robotique et accélère les humanoïdes industriels",
+        "excerpt": "Samsung Electronics accélère sa stratégie robotique et IA en étoffant les équipes humanoïdes, en bâtissant une organisation AX et en internalisant les pièces robotisées.",
+        "body": "Samsung Electronics accélère la préparation à la commercialisation de robots humanoïdes destinés à la fabrication, en faisant de la robotique et de l’intelligence artificielle des axes de croissance future. L’entreprise élargit ses effectifs de développement d’humanoïdes, accélère la mise en place d’une organisation pour la transformation AX et renforce sa capacité à internaliser les composants robotiques. Cette démarche vise à 확보 des technologies robotiques applicables aux sites de production et à élargir la base de ses activités futures. Alors que les équipes et les effectifs concernés progressent ensemble, l’attention se porte davantage sur le rythme du projet robotique de Samsung Electronics et ses perspectives de commercialisation. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس توسع كوادر الروبوتات لتسريع الروبوتات البشرية التصنيعية",
+        "excerpt": "تسرع سامسونغ إلكترونيكس استراتيجيتها في الروبوتات والذكاء الاصطناعي عبر توسيع فرق تطوير الروبوتات البشرية وبناء تنظيم AX وتعزيز توطين المكونات.",
+        "body": "تسرع سامسونغ إلكترونيكس استعداداتها لتسويق روبوتات بشرية مخصصة للتصنيع، واضعة الروبوتات والذكاء الاصطناعي بوصفهما محورين للنمو المستقبلي. تعمل الشركة على توسيع كوادر تطوير الروبوتات البشرية، وتسريع بناء تنظيم للتحول عبر AX، وتعزيز قدراتها على توطين مكونات الروبوتات داخليا. وتشير هذه الخطوات إلى سعيها لتأمين تقنيات روبوتية قابلة للتطبيق في مواقع التصنيع وتوسيع قاعدة أعمالها المستقبلية. ومع توسع التنظيمات والكوادر المرتبطة بهذا المجال بالتوازي، يتزايد الاهتمام بسرعة دفع سامسونغ إلكترونيكس لأعمال الروبوتات وإمكانات تسويقها. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सैमसंग इलेक्ट्रॉनिक्स ने रोबोट प्रतिभा बढ़ाई, मैन्युफैक्चरिंग ह्यूमनॉइड पर तेजी",
+        "excerpt": "सैमसंग इलेक्ट्रॉनिक्स रोबोट और AI को भविष्य का विकास आधार मानते हुए ह्यूमनॉइड डेवलपमेंट टीम, AX संगठन और रोबोट पुर्जों की इन-हाउस क्षमता बढ़ा रही है।",
+        "body": "सैमसंग इलेक्ट्रॉनिक्स मैन्युफैक्चरिंग-केंद्रित ह्यूमनॉइड रोबोट के वाणिज्यीकरण की तैयारी तेज कर रही है और रोबोटिक्स तथा कृत्रिम बुद्धिमत्ता को भविष्य के विकास स्तंभ के रूप में रख रही है। कंपनी ह्यूमनॉइड विकास कर्मियों का विस्तार कर रही है, AX परिवर्तन के लिए संगठन निर्माण तेज कर रही है और रोबोट पुर्जों को आंतरिक रूप से विकसित करने की क्षमता मजबूत कर रही है। यह कदम विनिर्माण स्थलों पर लागू हो सकने वाली रोबोट तकनीक 확보 करने और भविष्य के व्यवसाय आधार को फैलाने की दिशा में देखा जा रहा है। संबंधित संगठन और कर्मचारियों के विस्तार के साथ सैमसंग इलेक्ट्रॉनिक्स के रोबोट कारोबार की गति और वाणिज्यीकरण संभावना पर ध्यान बढ़ रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Electronics Perluas Talenta Robotik, Percepat Humanoid Manufaktur",
+        "excerpt": "Samsung Electronics mempercepat strategi robotik dan AI dengan memperluas tim pengembangan humanoid, membangun organisasi transformasi AX, dan memperkuat komponen internal.",
+        "body": "Samsung Electronics mempercepat persiapan komersialisasi robot humanoid untuk manufaktur, dengan menjadikan robotik dan kecerdasan buatan sebagai poros pertumbuhan masa depan. Perusahaan memperluas tenaga pengembangan humanoid, mempercepat pembentukan organisasi untuk transformasi AX, serta memperkuat kemampuan internalisasi komponen robot. Langkah ini dipandang sebagai upaya mengamankan teknologi robot yang dapat diterapkan di lokasi produksi dan memperluas fondasi bisnis masa depan. Seiring perluasan organisasi dan personel terkait, perhatian terhadap laju bisnis robot Samsung Electronics dan peluang komersialisasinya semakin meningkat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "bd86724c4c34",
+    "slug": "도민-소득-연계-상생모델한국동서발전-강원도와-강원형-바람-연금-실현-맞손-369752",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T06:32:13.225Z",
+    "updatedAt": "2026-05-08T06:32:13.225Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12041107",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12041107",
+    "titleFingerprint": "fbac11fe14bb2e35b491919aa7ebd0ebb24733c5",
+    "dedupKeys": [
+      "bd86724c4c34c17bb9ca72852ca5d26c1749165d",
+      "fbac11fe14bb2e35b491919aa7ebd0ebb24733c5",
+      "de2754258e66660eec48b38f685525eb463d907f"
+    ],
+    "imageUrl": "/images/articles/bd86724c4c34.jpg",
+    "i18n": {
+      "ko": {
+        "title": "강원형 바람 연금 추진…한국동서발전·강원도, 주민참여 풍력사업 협력",
+        "excerpt": "한국동서발전은 8일 오전 10시 30분 강원도청에서 강원도와 도민 소득 연계형 ‘강원형 바람 연금’ 실현을 위한 공공주도 주민참여형 풍력사업 추진에 나섰다.",
+        "body": "한국동서발전이 8일 오전 10시 30분 강원도청에서 강원도와 ‘강원형 바람 연금’ 실현을 위해 협력에 나섰다. 이번 협력은 공공주도 주민참여형 풍력사업을 추진해 풍력 개발 이익을 도민 소득과 연계하는 상생모델을 만드는 데 초점이 맞춰졌다. 원문은 이를 “바람 연금 시대 여는 출발점”으로 소개했다. 강원형 바람 연금은 지역 주민이 참여하는 풍력사업을 통해 지역 수용성과 소득 기반을 함께 높이려는 구상이다. 향후 사업 추진 과정에서 공공성과 주민 참여가 핵심 변수가 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Gangwon Wind Pension Plan: Korea East-West Power and Gangwon Partner on Resident Wind Projects",
+        "excerpt": "Korea East-West Power joined Gangwon Province at 10:30 a.m. on May 8 at the provincial office to pursue a public-led, resident-participatory wind project tied to local income.",
+        "body": "Korea East-West Power began cooperation with Gangwon Province at 10:30 a.m. on May 8 at the Gangwon Provincial Office to realize the “Gangwon-style wind pension.” The initiative focuses on a public-led, resident-participatory wind power project designed to link wind development benefits with residents’ income. The original report described it as a “starting point for opening the era of wind pensions.” The model aims to raise local acceptance and income foundations through wind projects involving residents. Public interest and resident participation are expected to be key factors as the project moves forward. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "江原型『風年金』推進へ、韓国東西発電と江原道が住民参加型風力で協力",
+        "excerpt": "韓国東西発電は5月8日午前10時30分、江原道庁で江原道と道民所得に連動する『江原型風年金』実現に向けた公共主導の住民参加型風力事業を推進した。",
+        "body": "韓国東西発電は5月8日午前10時30分、江原道庁で江原道と『江原型風年金』の実現に向けて協力に乗り出した。今回の協力は、公共主導の住民参加型風力事業を進め、風力開発の利益を道民所得と結び付ける共生モデルづくりに焦点を当てている。原文はこれを『風年金時代を開く出発点』と紹介した。江原型風年金は、地域住民が参加する風力事業を通じて地域の受容性と所得基盤をともに高める構想だ。今後の事業推進では公共性と住民参加が重要な要素になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "江原型“风力养老金”推进：韩国东西发电与江原道合作居民参与风电项目",
+        "excerpt": "韩国东西发电5月8日上午10时30分在江原道厅与江原道携手，推进公共主导、居民参与型风电项目，以实现与道民收入挂钩的“江原型风力养老金”。",
+        "body": "韩国东西发电于5月8日上午10时30分在江原道厅与江原道展开合作，推动实现“江原型风力养老金”。此次合作聚焦公共主导的居民参与型风电项目，旨在把风电开发收益与道民收入相连接，形成共生模式。原文称其为“开启风力养老金时代的起点”。江原型风力养老金的构想，是通过居民参与的风电项目，同时提高地区接受度和收入基础。随着项目推进，公共性与居民参与预计将成为关键因素。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Pensión eólica de Gangwon: Korea East-West Power y la provincia impulsan viento con vecinos",
+        "excerpt": "Korea East-West Power se unió a Gangwon el 8 de mayo a las 10:30 en la sede provincial para promover un proyecto eólico público con participación vecinal ligado a ingresos locales.",
+        "body": "Korea East-West Power inició el 8 de mayo a las 10:30, en la sede del Gobierno de Gangwon, una cooperación con la provincia para materializar la “pensión eólica estilo Gangwon”. La iniciativa se centra en promover un proyecto eólico dirigido por el sector público y con participación de residentes, con el fin de vincular los beneficios del desarrollo eólico con los ingresos de la población provincial. El texto original lo presentó como el “punto de partida para abrir la era de la pensión eólica”. El modelo busca elevar la aceptación local y la base de ingresos mediante proyectos en los que participen los vecinos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Pensão eólica de Gangwon: Korea East-West Power e província avançam com projeto comunitário",
+        "excerpt": "A Korea East-West Power reuniu-se com Gangwon em 8 de maio, às 10h30, na sede provincial, para promover um projeto eólico público com participação dos moradores e renda local.",
+        "body": "A Korea East-West Power iniciou em 8 de maio, às 10h30, na sede do governo de Gangwon, uma cooperação com a província para concretizar a “pensão eólica ao estilo Gangwon”. A iniciativa tem foco em um projeto de energia eólica liderado pelo setor público e com participação dos moradores, ligando os benefícios do desenvolvimento eólico à renda da população provincial. O texto original chamou a medida de “ponto de partida para abrir a era da pensão eólica”. O modelo busca ampliar a aceitação local e a base de renda por meio de projetos eólicos participativos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Gangwon-Windrente: Korea East-West Power und Provinz planen Bürger-Windkraftmodell",
+        "excerpt": "Korea East-West Power kooperiert seit dem 8. Mai um 10:30 Uhr im Provinzamt Gangwon mit der Provinz, um ein öffentlich geführtes Windprojekt mit Bürgerbeteiligung und Einkommensbezug voranzutreiben.",
+        "body": "Korea East-West Power hat am 8. Mai um 10:30 Uhr im Provinzamt Gangwon eine Zusammenarbeit mit der Provinz Gangwon zur Umsetzung der „Gangwon-Windrente“ aufgenommen. Im Mittelpunkt steht ein öffentlich geführtes Windkraftprojekt mit Bürgerbeteiligung, das die Erträge aus der Windkraftentwicklung mit dem Einkommen der Einwohner verknüpfen soll. Der Originalbericht bezeichnete dies als „Ausgangspunkt für das Zeitalter der Windrente“. Das Modell soll durch Windprojekte mit Beteiligung der Anwohner sowohl die lokale Akzeptanz als auch die Einkommensbasis stärken. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Pension éolienne de Gangwon : Korea East-West Power et la province misent sur la participation locale",
+        "excerpt": "Korea East-West Power s’est associée à Gangwon le 8 mai à 10h30 au siège provincial pour promouvoir un projet éolien public avec participation des habitants et lien aux revenus locaux.",
+        "body": "Korea East-West Power a engagé le 8 mai à 10h30, au siège du gouvernement de Gangwon, une coopération avec la province afin de réaliser la « pension éolienne de type Gangwon ». Cette initiative vise un projet éolien conduit par le secteur public et fondé sur la participation des habitants, afin de relier les bénéfices du développement éolien aux revenus des résidents de la province. Le texte original la présente comme le « point de départ ouvrant l’ère de la pension éolienne ». Le modèle entend renforcer l’acceptation locale et la base de revenus grâce à des projets éoliens participatifs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "معاش الرياح في غانغوون: تعاون بين كوريا إيست-ويست باور والمقاطعة لمشاريع بمشاركة السكان",
+        "excerpt": "بدأت كوريا إيست-ويست باور في 8 مايو الساعة 10:30 صباحا في مبنى مقاطعة غانغوون تعاونا مع المقاطعة لدفع مشروع رياح تقوده الجهات العامة ويرتبط بدخل السكان.",
+        "body": "بدأت كوريا إيست-ويست باور في 8 مايو الساعة 10:30 صباحا في مبنى حكومة مقاطعة غانغوون التعاون مع المقاطعة لتحقيق نموذج «معاش الرياح على طريقة غانغوون». ويركز التعاون على دفع مشروع لطاقة الرياح تقوده الجهات العامة وبمشاركة السكان، بهدف ربط منافع تطوير الرياح بدخل أبناء المقاطعة. ووصف النص الأصلي الخطوة بأنها «نقطة انطلاق لفتح عصر معاش الرياح». ويقوم النموذج على رفع قبول المجتمع المحلي وتعزيز قاعدة الدخل عبر مشاريع رياح يشارك فيها السكان. ومن المتوقع أن تكون المنفعة العامة ومشاركة السكان عاملين رئيسيين في مسار التنفيذ. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "गांगवोन विंड पेंशन योजना: Korea East-West Power और प्रांत निवासी भागीदारी पवन परियोजना पर साथ",
+        "excerpt": "Korea East-West Power ने 8 मई सुबह 10:30 बजे गांगवोन प्रांतीय कार्यालय में गांगवोन के साथ स्थानीय आय से जुड़ी सार्वजनिक नेतृत्व वाली निवासी भागीदारी पवन परियोजना आगे बढ़ाई।",
+        "body": "Korea East-West Power ने 8 मई सुबह 10:30 बजे गांगवोन प्रांतीय कार्यालय में गांगवोन प्रांत के साथ ‘गांगवोन-शैली विंड पेंशन’ को साकार करने के लिए सहयोग शुरू किया। यह सहयोग सार्वजनिक नेतृत्व वाली निवासी भागीदारी पवन ऊर्जा परियोजना पर केंद्रित है, जिसका उद्देश्य पवन विकास से मिलने वाले लाभ को प्रांत के निवासियों की आय से जोड़ना है। मूल रिपोर्ट ने इसे “विंड पेंशन युग खोलने का शुरुआती बिंदु” बताया। गांगवोन-शैली विंड पेंशन की अवधारणा निवासी भागीदारी वाली पवन परियोजनाओं के जरिए स्थानीय स्वीकार्यता और आय आधार दोनों बढ़ाने की है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pensiun Angin Gangwon: Korea East-West Power dan Provinsi Dorong Proyek Angin Warga",
+        "excerpt": "Korea East-West Power pada 8 Mei pukul 10.30 di Kantor Provinsi Gangwon bekerja sama dengan Gangwon untuk mendorong proyek angin publik berbasis partisipasi warga dan terkait pendapatan lokal.",
+        "body": "Korea East-West Power pada 8 Mei pukul 10.30 di Kantor Provinsi Gangwon mulai bekerja sama dengan Provinsi Gangwon untuk mewujudkan “pensiun angin gaya Gangwon”. Kerja sama ini berfokus pada proyek tenaga angin yang dipimpin publik dan melibatkan warga, dengan tujuan menghubungkan manfaat pengembangan angin dengan pendapatan penduduk provinsi. Teks asli menyebutnya sebagai “titik awal pembuka era pensiun angin”. Model ini diarahkan untuk meningkatkan penerimaan lokal sekaligus basis pendapatan melalui proyek angin yang diikuti warga. Dalam pelaksanaannya, kepentingan publik dan partisipasi warga diperkirakan menjadi faktor utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "664532d5ef6b",
     "slug": "대만-서버기업-하나-매출-44조원인데변변한-국산-서버-기업-하나-없는-한국-762018",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Pembatalan pendanaan Kosdaq tekan investor ritel, risiko CB dan rights issue meningkat",
         "excerpt": "Hankyung melaporkan pada 7 Mei 2026 bahwa emiten Kosdaq menunda lalu membatalkan rencana penambahan modal dan obligasi konversi, memicu kerugian investor ritel.",
         "body": "Menurut Hankyung, pada 7 Mei 2026 kasus berulang terjadi di pasar Kosdaq ketika emiten mengumumkan penempatan saham pihak ketiga atau penerbitan obligasi konversi (CB), menundanya selama berbulan-bulan, lalu menarik rencana tersebut. iToxi membatalkan penambahan modal 10 miliar won pada 30 April dan sebelumnya juga membatalkan penerbitan CB privat 4 miliar won pada November. Sahamnya jatuh dari 5.863 won pada awal Juli tahun lalu menjadi 312 won saat perdagangan dihentikan. Pintel menarik rencana penambahan modal 7,1 miliar won dan CB 20 miliar won setelah sekitar lima bulan; sahamnya turun ke level terendah 52 minggu di 1.821 won. Corpus Korea menarik rencana pendanaan 28 miliar won, lalu sahamnya turun ke 270 won. Sumber: hankyung.com https://www.hankyung.com/article/2026050724151"
-      }
-    }
-  },
-  {
-    "id": "f74a5634cbfa",
-    "slug": "kcc-분석-실리콘-부진에-실적-기대-밑돌았지만-자산가치주주환원-부각-380876",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T17:47:02.594Z",
-    "updatedAt": "2026-05-07T17:47:02.594Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605072241i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605072241i",
-    "titleFingerprint": "1ec9cca104fbd5a0ddb8aac34cd632fdc78e1ee6",
-    "dedupKeys": [
-      "f74a5634cbfa88560b4901f3e8ab05fc355241a7",
-      "1ec9cca104fbd5a0ddb8aac34cd632fdc78e1ee6",
-      "6878fb1411bbd34a626006d7b508db7439a15f23"
-    ],
-    "imageUrl": "/images/articles/f74a5634cbfa.jpg",
-    "i18n": {
-      "ko": {
-        "title": "KCC 실리콘 부진에 실적 기대 하회, 자산가치·주주환원은 부각",
-        "excerpt": "KCC가 실리콘 사업 부진으로 시장의 실적 기대를 밑돌았지만, 보유 자산가치와 주주환원 요인이 함께 주목받고 있다고 hankyung.com이 전했다.",
-        "body": "KCC가 실리콘 사업 부진의 영향으로 실적 기대치를 밑돈 것으로 분석됐다. 한국경제(hankyung.com)에 따르면 이번 KCC 분석은 실리콘 부문의 부진이 전체 실적에 부담으로 작용했지만, 회사가 보유한 자산가치와 주주환원 가능성이 투자 포인트로 부각됐다는 데 초점을 맞췄다. 실적 측면에서는 기대 이하라는 평가가 제시됐으나, 자산가치와 주주환원 요소가 함께 거론되면서 향후 시장의 관심은 수익성 회복 여부와 주주가치 제고 흐름에 맞춰질 전망이다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "KCC Misses Earnings Hopes on Silicone Weakness, but Asset Value and Returns Stand Out",
-        "excerpt": "KCC fell short of earnings expectations due to weakness in its silicone business, while its asset value and shareholder-return potential drew attention, hankyung.com reported.",
-        "body": "KCC was analyzed as having missed earnings expectations because of weakness in its silicone business. According to hankyung.com, the KCC analysis focused on how softness in the silicone segment weighed on overall results, while the company’s asset value and potential shareholder returns emerged as key points of attention. Although the earnings assessment was below expectations, the simultaneous focus on asset value and shareholder returns means market attention is likely to center on whether profitability can recover and whether shareholder value can improve. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "KCC、シリコーン不振で業績期待下回るも資産価値と株主還元に注目",
-        "excerpt": "KCCはシリコーン事業の不振で業績期待を下回った一方、保有資産価値と株主還元の可能性が注目されているとhankyung.comが伝えた。",
-        "body": "KCCはシリコーン事業の不振の影響で、業績期待を下回ったと分析された。hankyung.comによると、今回のKCC分析は、シリコーン部門の低迷が全体業績の重荷になった一方で、同社の保有資産価値と株主還元の可能性が投資上の注目点として浮上したことに焦点を当てた。業績面では期待未達との評価が示されたが、資産価値と株主還元も同時に取り上げられたことで、今後の市場の関心は収益性回復の有無と株主価値向上の流れに向かう見通しだ。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "KCC因有机硅低迷业绩不及预期，但资产价值与股东回报受关注",
-        "excerpt": "hankyung.com报道称，KCC受有机硅业务低迷影响，业绩低于市场预期，但其资产价值和股东回报因素同时受到关注。",
-        "body": "KCC被分析认为，受有机硅业务低迷影响，业绩表现低于预期。据hankyung.com报道，此次KCC分析聚焦于有机硅部门疲弱对整体业绩形成压力，但公司持有的资产价值以及股东回报可能性成为投资关注点。业绩层面虽被评价为不及预期，但资产价值和股东回报因素同时被提及，预计今后市场关注点将集中在盈利能力能否恢复以及股东价值提升趋势是否延续。来源: hankyung.com."
-      },
-      "es": {
-        "title": "KCC incumple expectativas por debilidad en siliconas, pero destacan activos y retornos",
-        "excerpt": "KCC quedó por debajo de las expectativas de resultados por la debilidad del negocio de siliconas, aunque su valor de activos y retornos al accionista ganaron atención, informó hankyung.com.",
-        "body": "KCC fue analizada como una compañía que no alcanzó las expectativas de resultados debido a la debilidad de su negocio de siliconas. Según hankyung.com, el análisis de KCC se centró en que la flojera del segmento de siliconas pesó sobre el desempeño general, mientras que el valor de los activos de la empresa y la posibilidad de retornos al accionista se destacaron como puntos de inversión. Aunque la evaluación de resultados fue inferior a lo esperado, la atención del mercado probablemente se enfocará en la recuperación de la rentabilidad y en la mejora del valor para los accionistas. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "KCC fica abaixo das expectativas com fraqueza em silicones, mas ativos e retorno se destacam",
-        "excerpt": "A KCC ficou aquém das expectativas de resultados por causa da fraqueza no negócio de silicones, enquanto valor de ativos e retorno ao acionista chamaram atenção, informou hankyung.com.",
-        "body": "A KCC foi analisada como tendo ficado abaixo das expectativas de resultados devido à fraqueza em seu negócio de silicones. Segundo hankyung.com, a análise da KCC destacou que o desempenho fraco da divisão de silicones pressionou os resultados gerais, mas o valor dos ativos da empresa e a possibilidade de retorno aos acionistas ganharam relevância como pontos de investimento. Embora a avaliação dos resultados tenha sido inferior ao esperado, o foco do mercado deve se voltar para a recuperação da rentabilidade e para a evolução da valorização dos acionistas. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "KCC verfehlt Erwartungen wegen schwacher Silikone, doch Vermögenswerte und Rückgaben rücken auf",
-        "excerpt": "KCC blieb wegen Schwäche im Silikongeschäft hinter den Ergebniserwartungen zurück, während Vermögenswert und Aktionärsrenditen Aufmerksamkeit erhielten, berichtete hankyung.com.",
-        "body": "KCC wurde so analysiert, dass die Ergebniswartungen wegen der Schwäche im Silikongeschäft verfehlt wurden. Laut hankyung.com lag der Fokus der KCC-Analyse darauf, dass die schwache Entwicklung der Silikonsparte die Gesamtergebnisse belastete, während der Vermögenswert des Unternehmens und mögliche Aktionärsrenditen als Anlagepunkte hervortraten. Obwohl die Ergebnisbewertung unter den Erwartungen lag, dürften sich die Marktteilnehmer künftig darauf konzentrieren, ob sich die Profitabilität erholt und ob sich der Aktionärswert verbessert. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "KCC déçoit avec la faiblesse du silicone, mais actifs et rendement actionnarial ressortent",
-        "excerpt": "KCC a manqué les attentes de résultats en raison de la faiblesse du silicone, tandis que la valeur des actifs et le retour aux actionnaires ont attiré l’attention, selon hankyung.com.",
-        "body": "KCC a été analysé comme ayant manqué les attentes de résultats sous l’effet de la faiblesse de son activité silicone. Selon hankyung.com, l’analyse de KCC souligne que la contre-performance du segment silicone a pesé sur les résultats globaux, tandis que la valeur des actifs détenus par l’entreprise et la possibilité de retours aux actionnaires se sont imposées comme points d’attention. Même si l’évaluation des résultats est inférieure aux attentes, l’attention du marché devrait porter sur la reprise de la rentabilité et sur l’amélioration de la valeur actionnariale. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "KCC تخفق في توقعات الأرباح بسبب ضعف السيليكون لكن قيمة الأصول وعوائد المساهمين تبرز",
-        "excerpt": "أفاد hankyung.com بأن KCC جاءت دون توقعات الأداء بفعل ضعف أعمال السيليكون، لكن قيمة أصولها وإمكانات عوائد المساهمين جذبتا الانتباه.",
-        "body": "خضعت KCC لتحليل أشار إلى أن نتائجها جاءت دون التوقعات بسبب ضعف أعمال السيليكون. ووفقاً لـ hankyung.com، ركز تحليل KCC على أن تراجع قطاع السيليكون شكل عبئاً على الأداء العام، في حين برزت قيمة الأصول التي تمتلكها الشركة وإمكانات عوائد المساهمين كنقاط اهتمام استثمارية. ورغم أن تقييم الأداء جاء أقل من المتوقع، فإن تسليط الضوء أيضاً على قيمة الأصول وعوائد المساهمين يعني أن اهتمام السوق قد يتجه إلى مدى تعافي الربحية واتجاه تعزيز قيمة المساهمين. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "KCC की कमाई सिलिकॉन कमजोरी से उम्मीद से कम, पर परिसंपत्ति मूल्य और शेयरधारक रिटर्न उभरे",
-        "excerpt": "hankyung.com के अनुसार, सिलिकॉन कारोबार की कमजोरी से KCC का प्रदर्शन उम्मीद से कम रहा, लेकिन परिसंपत्ति मूल्य और शेयरधारक रिटर्न पर ध्यान गया।",
-        "body": "KCC का विश्लेषण इस रूप में किया गया कि सिलिकॉन कारोबार की कमजोरी के कारण उसका प्रदर्शन उम्मीदों से नीचे रहा। hankyung.com के अनुसार, KCC विश्लेषण में यह बात प्रमुख रही कि सिलिकॉन खंड की सुस्ती ने कुल परिणामों पर दबाव डाला, जबकि कंपनी की परिसंपत्ति वैल्यू और शेयरधारकों को रिटर्न की संभावना निवेश बिंदु के रूप में उभरी। प्रदर्शन के स्तर पर मूल्यांकन उम्मीद से कम बताया गया, लेकिन परिसंपत्ति मूल्य और शेयरधारक रिटर्न के साथ चर्चा होने से बाजार का ध्यान आगे लाभप्रदता की रिकवरी और शेयरधारक मूल्य बढ़ाने की दिशा पर रहेगा। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "KCC di Bawah Ekspektasi Akibat Lemahnya Silikon, tetapi Nilai Aset dan Imbal Hasil Menonjol",
-        "excerpt": "KCC berada di bawah ekspektasi kinerja karena pelemahan bisnis silikon, sementara nilai aset dan potensi imbal hasil pemegang saham menjadi perhatian, lapor hankyung.com.",
-        "body": "KCC dianalisis mencatat kinerja di bawah ekspektasi karena dampak pelemahan bisnis silikon. Menurut hankyung.com, analisis KCC ini menyoroti bahwa lesunya segmen silikon menjadi beban bagi kinerja keseluruhan, tetapi nilai aset yang dimiliki perusahaan dan potensi imbal hasil bagi pemegang saham muncul sebagai poin investasi. Meski penilaian kinerja berada di bawah harapan, perhatian terhadap nilai aset dan imbal hasil pemegang saham membuat fokus pasar ke depan kemungkinan tertuju pada pemulihan profitabilitas dan peningkatan nilai bagi pemegang saham. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "85f114d2c397",
-    "slug": "7500-터치한-코스피韓증시-시총-캐나다-제치고-글로벌-7위-323211",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T17:46:08.224Z",
-    "updatedAt": "2026-05-07T17:46:08.224Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050724081",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050724081",
-    "titleFingerprint": "be59cbec55430adc06d819fb642cc50222a5e487",
-    "dedupKeys": [
-      "85f114d2c3978efdd42797d3c4dd2c888894e66e",
-      "be59cbec55430adc06d819fb642cc50222a5e487",
-      "3336f1e47aafb58e82cd5bdb024799bc290732f0"
-    ],
-    "imageUrl": "/images/articles/85f114d2c397.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7500 터치, 한국 증시 시총 캐나다 제치고 세계 7위",
-        "excerpt": "5월 7일 코스피가 장중 7500선을 처음 돌파하고 7490.05로 마감하면서 한국 증시 시가총액이 캐나다를 넘어 세계 7위에 올랐다.",
-        "body": "5월 7일 코스피지수는 장중 사상 처음 7500선을 돌파한 뒤 전일 대비 1.43% 오른 7490.05에 마감했다. 3거래일 연속 상승세다. 코스닥지수는 0.91% 내린 1199.18로 거래를 마쳤다. 이날 개인은 5조9925억원, 기관은 1조954억원을 순매수했고 외국인은 7조1678억원을 순매도했다. 삼성전자와 SK하이닉스는 각각 2.07%, 3.31% 올라 사상 최고가를 다시 썼다. 블룸버그에 따르면 한국 상장기업 시가총액은 4조5900억달러로 캐나다의 4조5000억달러를 넘어 세계 7위가 됐다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "KOSPI Touches 7,500 as Korea Market Cap Overtakes Canada for No. 7",
-        "excerpt": "On May 7, the KOSPI briefly crossed 7,500 for the first time and closed at 7,490.05, lifting Korea’s stock market value above Canada’s to seventh globally.",
-        "body": "On May 7, the KOSPI crossed the 7,500 mark intraday for the first time and closed at 7,490.05, up 1.43% from the previous session. It was the index’s third straight day of gains. The KOSDAQ finished down 0.91% at 1,199.18. Retail investors net bought 5.9925 trillion won and institutions bought 1.0954 trillion won, while foreign investors sold 7.1678 trillion won. Samsung Electronics and SK Hynix rose 2.07% and 3.31%, respectively, setting fresh record highs. Bloomberg data cited by hankyung.com showed Korean listed companies’ market capitalization at $4.59 trillion, above Canada’s $4.5 trillion, placing Korea seventh worldwide. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "KOSPIが7500に到達、韓国株時価総額はカナダ抜き世界7位",
-        "excerpt": "5月7日、KOSPIは取引時間中に初めて7500を突破し7490.05で終了。韓国株式市場の時価総額はカナダを上回り世界7位となった。",
-        "body": "5月7日、KOSPI指数は取引時間中に史上初めて7500を突破し、前日比1.43%高の7490.05で取引を終えた。3営業日連続の上昇となった。一方、KOSDAQ指数は0.91%安の1199.18で終了した。この日、個人投資家は5兆9925億ウォン、機関投資家は1兆954億ウォンを買い越し、外国人投資家は7兆1678億ウォンを売り越した。サムスン電子とSKハイニックスはそれぞれ2.07%、3.31%上昇し、最高値を更新した。hankyung.comが引用したブルームバーグによると、韓国上場企業の時価総額は4兆5900億ドルで、カナダの4兆5000億ドルを上回り世界7位となった。出所: hankyung.com。"
-      },
-      "zh": {
-        "title": "KOSPI触及7500点，韩国股市市值超加拿大升至全球第七",
-        "excerpt": "5月7日，KOSPI盘中首次突破7500点并收于7490.05点，推动韩国上市公司总市值超过加拿大，升至全球第七位。",
-        "body": "5月7日，KOSPI指数盘中首次突破7500点，最终较前一交易日上涨1.43%，收于7490.05点，连续三个交易日走高。KOSDAQ指数下跌0.91%，收于1199.18点。当天，个人投资者净买入5.9925万亿韩元，机构净买入1.0954万亿韩元，外国投资者净卖出7.1678万亿韩元。三星电子和SK海力士分别上涨2.07%和3.31%，再创历史新高。据hankyung.com援引彭博数据，韩国上市公司总市值达到4.59万亿美元，超过加拿大的4.5万亿美元，位居全球第七。来源: hankyung.com。"
-      },
-      "es": {
-        "title": "KOSPI toca 7.500 y la bolsa coreana supera a Canadá como séptima global",
-        "excerpt": "El 7 de mayo, el KOSPI superó por primera vez los 7.500 puntos intradía y cerró en 7.490,05, elevando la capitalización bursátil de Corea al séptimo lugar mundial.",
-        "body": "El 7 de mayo, el índice KOSPI superó por primera vez los 7.500 puntos durante la sesión y cerró en 7.490,05, un alza del 1,43% frente al día anterior. Fue su tercera jornada consecutiva de avances. El KOSDAQ terminó con una baja del 0,91%, en 1.199,18. Los inversores particulares compraron en neto 5,9925 billones de wones y las instituciones 1,0954 billones, mientras que los extranjeros vendieron 7,1678 billones. Samsung Electronics y SK Hynix subieron un 2,07% y un 3,31%, respectivamente, y renovaron máximos históricos. Según datos de Bloomberg citados por hankyung.com, la capitalización de las empresas cotizadas coreanas llegó a 4,59 billones de dólares, por encima de los 4,5 billones de Canadá, situando a Corea séptima en el mundo. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "KOSPI toca 7.500 e bolsa coreana supera Canadá em valor de mercado",
-        "excerpt": "Em 7 de maio, o KOSPI passou de 7.500 pontos pela primeira vez no intradia e fechou a 7.490,05, levando a bolsa da Coreia ao sétimo lugar global em valor de mercado.",
-        "body": "Em 7 de maio, o índice KOSPI superou pela primeira vez a marca de 7.500 pontos durante o pregão e fechou a 7.490,05, alta de 1,43% ante a sessão anterior. Foi o terceiro dia seguido de ganhos. O KOSDAQ encerrou em queda de 0,91%, a 1.199,18. Investidores individuais compraram 5,9925 trilhões de wones em termos líquidos e instituições compraram 1,0954 trilhão, enquanto estrangeiros venderam 7,1678 trilhões. Samsung Electronics e SK Hynix avançaram 2,07% e 3,31%, respectivamente, renovando máximas históricas. Segundo dados da Bloomberg citados por hankyung.com, o valor de mercado das empresas listadas coreanas chegou a US$ 4,59 trilhões, acima dos US$ 4,5 trilhões do Canadá, colocando a Coreia em sétimo lugar no mundo. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "KOSPI berührt 7.500, Koreas Börsenwert überholt Kanada auf Rang sieben",
-        "excerpt": "Am 7. Mai stieg der KOSPI erstmals im Tagesverlauf über 7.500 Punkte und schloss bei 7.490,05, wodurch Koreas Aktienmarkt Kanada beim Börsenwert überholte.",
-        "body": "Am 7. Mai überschritt der KOSPI im Tagesverlauf erstmals die Marke von 7.500 Punkten und schloss mit einem Plus von 1,43% bei 7.490,05. Es war der dritte Handelstag in Folge mit Gewinnen. Der KOSDAQ beendete den Handel 0,91% tiefer bei 1.199,18. Privatanleger kauften netto Aktien im Wert von 5,9925 Billionen Won, Institutionelle kauften 1,0954 Billionen Won, während ausländische Anleger 7,1678 Billionen Won verkauften. Samsung Electronics und SK Hynix stiegen um 2,07% beziehungsweise 3,31% und erreichten neue Rekordstände. Laut Bloomberg-Daten, die hankyung.com zitierte, lag die Marktkapitalisierung koreanischer börsennotierter Unternehmen bei 4,59 Billionen US-Dollar und damit über Kanadas 4,5 Billionen US-Dollar. Korea steht damit weltweit auf Rang sieben. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Le KOSPI touche 7 500, la Bourse coréenne dépasse le Canada au 7e rang",
-        "excerpt": "Le 7 mai, le KOSPI a franchi 7 500 points en séance pour la première fois et a clôturé à 7 490,05, portant la capitalisation coréenne au septième rang mondial.",
-        "body": "Le 7 mai, l’indice KOSPI a dépassé pour la première fois le seuil de 7 500 points en séance avant de clôturer à 7 490,05, en hausse de 1,43% par rapport à la veille. Il s’agit de sa troisième séance consécutive de progression. Le KOSDAQ a fini en baisse de 0,91%, à 1 199,18. Les investisseurs particuliers ont acheté pour 5 992,5 milliards de wons nets et les institutions pour 1 095,4 milliards, tandis que les étrangers ont vendu 7 167,8 milliards. Samsung Electronics et SK Hynix ont gagné respectivement 2,07% et 3,31%, inscrivant de nouveaux records. Selon les données de Bloomberg citées par hankyung.com, la capitalisation des sociétés cotées coréennes a atteint 4 590 milliards de dollars, dépassant les 4 500 milliards du Canada et plaçant la Corée au septième rang mondial. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "كوسبي يلامس 7500 وكوريا تتجاوز كندا إلى المركز السابع عالمياً",
-        "excerpt": "في 7 مايو، تجاوز مؤشر كوسبي مستوى 7500 نقطة خلال الجلسة لأول مرة وأغلق عند 7490.05، لترتفع قيمة سوق الأسهم الكورية فوق كندا عالمياً.",
-        "body": "في 7 مايو، تجاوز مؤشر كوسبي مستوى 7500 نقطة خلال التداول لأول مرة في تاريخه، ثم أغلق عند 7490.05 نقطة بارتفاع 1.43% عن الجلسة السابقة. وكانت هذه ثالث جلسة صعود متتالية. أما كوسداك فأغلق منخفضاً 0.91% عند 1199.18 نقطة. اشترى المستثمرون الأفراد صافياً بقيمة 5.9925 تريليون وون، واشترت المؤسسات 1.0954 تريليون وون، بينما باع المستثمرون الأجانب 7.1678 تريليون وون. وارتفع سهما سامسونغ إلكترونيكس وSK هاينكس بنسبة 2.07% و3.31% على التوالي، مسجلين قمماً تاريخية جديدة. ووفق بيانات بلومبرغ التي أوردها hankyung.com، بلغت القيمة السوقية للشركات الكورية المدرجة 4.59 تريليون دولار، متجاوزة كندا البالغة 4.5 تريليون دولار، لتحتل كوريا المركز السابع عالمياً. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "KOSPI ने 7,500 छुआ, कोरिया का बाजार मूल्य कनाडा से आगे सातवें स्थान पर",
-        "excerpt": "7 मई को KOSPI ने पहली बार कारोबार के दौरान 7,500 अंक पार किए और 7,490.05 पर बंद हुआ, जिससे कोरिया का शेयर बाजार मूल्य कनाडा से आगे निकल गया।",
-        "body": "7 मई को KOSPI सूचकांक ने कारोबार के दौरान पहली बार 7,500 अंक का स्तर पार किया और पिछले सत्र से 1.43% बढ़कर 7,490.05 पर बंद हुआ। यह लगातार तीसरा बढ़त वाला कारोबारी दिन था। KOSDAQ 0.91% गिरकर 1,199.18 पर बंद हुआ। उस दिन व्यक्तिगत निवेशकों ने शुद्ध रूप से 5.9925 लाख करोड़ वॉन और संस्थानों ने 1.0954 लाख करोड़ वॉन की खरीदारी की, जबकि विदेशी निवेशकों ने 7.1678 लाख करोड़ वॉन की बिक्री की। Samsung Electronics और SK Hynix क्रमशः 2.07% और 3.31% चढ़कर नए रिकॉर्ड उच्च स्तर पर पहुंचे। hankyung.com द्वारा उद्धृत Bloomberg के अनुसार, कोरियाई सूचीबद्ध कंपनियों का बाजार पूंजीकरण 4.59 ट्रिलियन डॉलर रहा, जो कनाडा के 4.5 ट्रिलियन डॉलर से अधिक है, और कोरिया दुनिया में सातवें स्थान पर पहुंच गया। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "KOSPI Sentuh 7.500, Kapitalisasi Bursa Korea Lewati Kanada ke Posisi 7",
-        "excerpt": "Pada 7 Mei, KOSPI untuk pertama kalinya menembus 7.500 secara intraday dan ditutup di 7.490,05, membuat kapitalisasi pasar saham Korea melampaui Kanada.",
-        "body": "Pada 7 Mei, indeks KOSPI untuk pertama kalinya menembus level 7.500 dalam perdagangan intraday dan ditutup di 7.490,05, naik 1,43% dari sesi sebelumnya. Ini menjadi kenaikan hari ketiga berturut-turut. Indeks KOSDAQ berakhir turun 0,91% di 1.199,18. Investor ritel membukukan beli bersih 5,9925 triliun won dan institusi 1,0954 triliun won, sementara investor asing menjual bersih 7,1678 triliun won. Samsung Electronics dan SK Hynix masing-masing naik 2,07% dan 3,31%, kembali mencetak rekor tertinggi. Menurut data Bloomberg yang dikutip hankyung.com, kapitalisasi pasar perusahaan tercatat Korea mencapai US$4,59 triliun, melampaui Kanada sebesar US$4,5 triliun, sehingga Korea berada di peringkat ketujuh dunia. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "a354c730b992",
-    "slug": "hd현대중공업-분석-기대-이상의-통합-성적표꼭-알아야-할-3가지-리스크-269435",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T17:44:53.615Z",
-    "updatedAt": "2026-05-07T17:44:53.615Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605072591i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605072591i",
-    "titleFingerprint": "d75c6077759216e6f099d000e7d2abdf5cd5955a",
-    "dedupKeys": [
-      "a354c730b992e756b848caa4e9b4dc3d3f47f182",
-      "d75c6077759216e6f099d000e7d2abdf5cd5955a",
-      "b50d28dda294f2c536fb3069ffb53a3afcfe497c"
-    ],
-    "imageUrl": "/images/articles/a354c730b992.jpg",
-    "i18n": {
-      "ko": {
-        "title": "HD현대중공업 1분기 어닝 서프라이즈, 통합 성적표와 3가지 리스크 점검",
-        "excerpt": "HD현대중공업은 2026년 1분기 연결 기준 매출과 영업이익이 크게 늘며 시장 기대를 웃돌았다. 합병 시너지, 고선가 물량, 엔진 부문이 핵심 배경으로 꼽혔다.",
-        "body": "HD현대중공업은 2026년 5월 7일 공개된 한국경제 분석에서 1분기 잠정 연결 실적이 시장 기대치를 넘어섰다고 평가됐다. 회사는 1분기 매출 5조9163억원으로 전년 동기 대비 54.8% 늘었고, 영업이익은 9054억원으로 108.8% 증가했다. 당기순이익은 7738억원으로 172.3% 확대됐다. 영업이익률은 15.3%로 전년 동기 11.3%보다 4.0%포인트 개선됐으며, 영업이익은 증권가 컨센서스를 13.6% 웃돌았다. 배경으로는 합병 시너지, 고선가 수주 물량의 매출 반영, 엔진 부문의 신성장 동력 확보가 제시됐다. 다만 원문 제목은 기대 이상의 통합 성적표와 함께 반드시 확인해야 할 3가지 리스크도 강조했다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "HD Hyundai Heavy Q1 Earnings Beat: Integrated Scorecard and Three Risks",
-        "excerpt": "HD Hyundai Heavy Industries beat market expectations in Q1 2026 as consolidated revenue and operating profit rose sharply, supported by merger synergy, high-priced orders and engine growth.",
-        "body": "HD Hyundai Heavy Industries was assessed in a Korea Economic Daily analysis published on May 7, 2026, as having delivered provisional consolidated first-quarter results above market expectations. Revenue reached 5.9163 trillion won, up 54.8% from a year earlier, while operating profit rose 108.8% to 905.4 billion won. Net income increased 172.3% to 773.8 billion won. The operating margin improved to 15.3% from 11.3% a year earlier, and operating profit exceeded the securities-industry consensus by 13.6%. The cited drivers were merger synergy, revenue recognition from high-priced orders and new growth momentum in the engine division. The original headline also stressed three risks investors need to check alongside the stronger integrated scorecard. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "HD現代重工業の1Qサプライズ決算、統合成績表と3つのリスク",
-        "excerpt": "HD現代重工業は2026年1～3月期の連結売上高と営業利益が大きく伸び、市場予想を上回った。合併シナジー、高船価案件、エンジン部門が背景とされた。",
-        "body": "HD現代重工業は、2026年5月7日に公開された韓国経済新聞の分析で、1～3月期の暫定連結業績が市場予想を上回ったと評価された。同社の売上高は5兆9163億ウォンで前年同期比54.8%増、営業利益は9054億ウォンで108.8%増となった。純利益は7738億ウォンで172.3%増加した。営業利益率は15.3%と、前年同期の11.3%から4.0ポイント改善し、営業利益は証券業界のコンセンサスを13.6%上回った。背景には合併シナジー、高船価受注分の売上反映、エンジン部門の新たな成長力確保が挙げられた。一方、原文の見出しは期待以上の統合成績表とともに、必ず確認すべき3つのリスクも強調した。出典: hankyung.com。"
-      },
-      "zh": {
-        "title": "HD现代重工一季度盈利超预期：综合成绩单与三项风险",
-        "excerpt": "HD现代重工2026年一季度合并口径销售额和营业利润大幅增长并超过市场预期，合并协同、高价订单确认收入和发动机业务增长被视为主要背景。",
-        "body": "据韩国经济新闻2026年5月7日发布的分析，HD现代重工一季度暂定合并业绩超过市场预期。公司一季度销售额为5.9163万亿韩元，同比增长54.8%；营业利润为9054亿韩元，同比增长108.8%；净利润为7738亿韩元，同比增长172.3%。营业利润率为15.3%，较上年同期的11.3%提高4.0个百分点，营业利润比证券业共识预期高出13.6%。报道提到的背景包括合并协同效应、高船价订单逐步反映为收入，以及发动机部门获得新的增长动力。不过，原文标题也在强调这份超预期的综合成绩单同时，提示必须关注三项风险。来源: hankyung.com。"
-      },
-      "es": {
-        "title": "HD Hyundai Heavy supera previsiones en el 1T: balance integrado y tres riesgos",
-        "excerpt": "HD Hyundai Heavy Industries superó las expectativas del mercado en el primer trimestre de 2026, con fuertes alzas en ingresos y beneficio operativo por sinergias, pedidos de alto precio y motores.",
-        "body": "HD Hyundai Heavy Industries fue evaluada en un análisis de Korea Economic Daily publicado el 7 de mayo de 2026 como una compañía cuyos resultados consolidados provisionales del primer trimestre superaron las expectativas del mercado. Los ingresos llegaron a 5,9163 billones de wones, un 54,8% más interanual, y el beneficio operativo subió un 108,8%, hasta 905.400 millones de wones. El beneficio neto aumentó un 172,3%, hasta 773.800 millones de wones. El margen operativo mejoró al 15,3% desde el 11,3% del año anterior, y el beneficio operativo superó en un 13,6% el consenso de las casas de bolsa. Los factores citados fueron las sinergias de fusión, el reconocimiento de ingresos de pedidos con precios elevados y el nuevo motor de crecimiento del área de motores. El titular original también destacó tres riesgos que deben revisarse junto con el balance integrado mejor de lo esperado. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "HD Hyundai Heavy bate expectativas no 1T: resultado integrado e três riscos",
-        "excerpt": "A HD Hyundai Heavy Industries superou as expectativas no 1º trimestre de 2026, com forte alta de receita e lucro operacional, apoiada por sinergias, encomendas de maior preço e motores.",
-        "body": "A HD Hyundai Heavy Industries foi avaliada em análise do Korea Economic Daily publicada em 7 de maio de 2026 como tendo apresentado resultados consolidados provisórios do primeiro trimestre acima das expectativas do mercado. A receita somou 5,9163 trilhões de won, alta anual de 54,8%, enquanto o lucro operacional subiu 108,8%, para 905,4 bilhões de won. O lucro líquido avançou 172,3%, para 773,8 bilhões de won. A margem operacional melhorou para 15,3%, ante 11,3% no mesmo período do ano anterior, e o lucro operacional superou em 13,6% o consenso das corretoras. Os fatores citados foram sinergias de fusão, reconhecimento de receita de pedidos com preços elevados e novo impulso de crescimento na divisão de motores. O título original também ressaltou três riscos que precisam ser observados junto com o resultado integrado acima do esperado. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "HD Hyundai Heavy mit starkem Q1: integrierte Bilanz und drei Risiken",
-        "excerpt": "HD Hyundai Heavy Industries übertraf im ersten Quartal 2026 die Markterwartungen deutlich. Umsatz und operativer Gewinn stiegen dank Fusionssynergien, hochpreisiger Aufträge und Motorensparte.",
-        "body": "HD Hyundai Heavy Industries wurde in einer am 7. Mai 2026 veröffentlichten Analyse der Korea Economic Daily so bewertet, dass die vorläufigen konsolidierten Ergebnisse des ersten Quartals über den Markterwartungen lagen. Der Umsatz erreichte 5,9163 Billionen Won, ein Plus von 54,8% gegenüber dem Vorjahr. Der operative Gewinn stieg um 108,8% auf 905,4 Milliarden Won. Der Nettogewinn erhöhte sich um 172,3% auf 773,8 Milliarden Won. Die operative Marge verbesserte sich von 11,3% auf 15,3%, und der operative Gewinn lag 13,6% über dem Konsens der Wertpapierhäuser. Als Gründe wurden Fusionssynergien, die Umsatzrealisierung hochpreisiger Aufträge und neue Wachstumskraft in der Motorensparte genannt. Die Originalüberschrift betonte zugleich drei Risiken, die neben der besser als erwarteten integrierten Bilanz geprüft werden sollten. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "HD Hyundai Heavy dépasse les attentes au T1: bilan intégré et trois risques",
-        "excerpt": "HD Hyundai Heavy Industries a dépassé les attentes au premier trimestre 2026, avec une forte hausse du chiffre d’affaires et du résultat opérationnel portée par les synergies, les commandes chères et les moteurs.",
-        "body": "HD Hyundai Heavy Industries a été présentée, dans une analyse du Korea Economic Daily publiée le 7 mai 2026, comme ayant enregistré des résultats consolidés provisoires du premier trimestre supérieurs aux attentes du marché. Le chiffre d’affaires a atteint 5.9163 billions de wons, en hausse de 54,8% sur un an, tandis que le résultat opérationnel a progressé de 108,8% à 905,4 milliards de wons. Le bénéfice net a augmenté de 172,3% à 773,8 milliards de wons. La marge opérationnelle est passée de 11,3% à 15,3%, et le résultat opérationnel a dépassé de 13,6% le consensus des sociétés de courtage. Les moteurs cités sont les synergies de fusion, la comptabilisation des commandes à prix élevés et le nouveau relais de croissance de la division moteurs. Le titre original soulignait aussi trois risques à vérifier avec ce bilan intégré meilleur que prévu. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "HD هيونداي للصناعات الثقيلة تتجاوز توقعات الربع الأول مع ثلاث مخاطر",
-        "excerpt": "تجاوزت HD هيونداي للصناعات الثقيلة توقعات السوق في الربع الأول من 2026 بعدما ارتفعت الإيرادات والأرباح التشغيلية بدعم من آثار الاندماج والطلبات مرتفعة السعر ونمو قطاع المحركات.",
-        "body": "أفاد تحليل نشرته صحيفة كوريا الاقتصادية في 7 مايو 2026 بأن النتائج الموحدة الأولية لشركة HD هيونداي للصناعات الثقيلة في الربع الأول جاءت أعلى من توقعات السوق. بلغت الإيرادات 5.9163 تريليون وون، بزيادة 54.8% على أساس سنوي، بينما ارتفع الربح التشغيلي 108.8% إلى 905.4 مليار وون. وصعد صافي الربح 172.3% إلى 773.8 مليار وون. وتحسن هامش الربح التشغيلي إلى 15.3% من 11.3% قبل عام، كما تجاوز الربح التشغيلي إجماع شركات الأوراق المالية بنسبة 13.6%. وذكرت الصحيفة أن الخلفية تشمل آثار الاندماج، واحتساب إيرادات طلبات ذات أسعار مرتفعة، وتأمين محرك نمو جديد في قطاع المحركات. كما شدد العنوان الأصلي على ثلاث مخاطر يجب فحصها إلى جانب هذه النتائج المتكاملة التي فاقت التوقعات. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "HD Hyundai Heavy की पहली तिमाही उम्मीद से बेहतर, तीन जोखिमों पर नजर",
-        "excerpt": "HD Hyundai Heavy Industries ने 2026 की पहली तिमाही में बाजार अपेक्षाओं को पीछे छोड़ा। समेकित राजस्व और परिचालन लाभ में तेज वृद्धि के पीछे विलय तालमेल, ऊंची कीमत वाले ऑर्डर और इंजन कारोबार रहे।",
-        "body": "7 मई 2026 को Korea Economic Daily में प्रकाशित विश्लेषण के अनुसार, HD Hyundai Heavy Industries के पहली तिमाही के अस्थायी समेकित नतीजे बाजार अपेक्षाओं से बेहतर रहे। कंपनी का राजस्व 5.9163 ट्रिलियन वॉन रहा, जो सालाना आधार पर 54.8% अधिक है, जबकि परिचालन लाभ 108.8% बढ़कर 905.4 बिलियन वॉन हो गया। शुद्ध लाभ 172.3% बढ़कर 773.8 बिलियन वॉन रहा। परिचालन मार्जिन एक साल पहले के 11.3% से सुधरकर 15.3% हो गया, और परिचालन लाभ प्रतिभूति कंपनियों के आम अनुमान से 13.6% अधिक रहा। इसके कारणों में विलय से तालमेल, ऊंची कीमत वाले ऑर्डरों की आय में पहचान और इंजन विभाग में नई वृद्धि शक्ति शामिल बताई गई। मूल शीर्षक ने इस उम्मीद से बेहतर समेकित रिपोर्ट के साथ तीन जरूरी जोखिमों की जांच पर भी जोर दिया। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "HD Hyundai Heavy Cetak Kejutan Laba Kuartal I, Tiga Risiko Tetap Disorot",
-        "excerpt": "HD Hyundai Heavy Industries melampaui ekspektasi pasar pada kuartal I 2026 karena pendapatan dan laba operasi naik tajam, didukung sinergi merger, pesanan bernilai tinggi, dan divisi mesin.",
-        "body": "HD Hyundai Heavy Industries dinilai dalam analisis Korea Economic Daily yang terbit pada 7 Mei 2026 mencatat kinerja konsolidasi sementara kuartal pertama di atas ekspektasi pasar. Pendapatan mencapai 5,9163 triliun won, naik 54,8% secara tahunan, sementara laba operasi melonjak 108,8% menjadi 905,4 miliar won. Laba bersih meningkat 172,3% menjadi 773,8 miliar won. Margin operasi membaik menjadi 15,3% dari 11,3% pada periode yang sama tahun sebelumnya, dan laba operasi melampaui konsensus kalangan sekuritas sebesar 13,6%. Faktor yang disebutkan adalah sinergi merger, pengakuan pendapatan dari pesanan berharga tinggi, serta penguatan sumber pertumbuhan baru di divisi mesin. Judul asli juga menekankan tiga risiko yang perlu diperiksa bersama rapor terintegrasi yang lebih baik dari perkiraan ini. Sumber: hankyung.com."
       }
     }
   }
