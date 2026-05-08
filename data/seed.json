@@ -1,5 +1,230 @@
 [
   {
+    "id": "9f6277eb77f9",
+    "slug": "국민연금-대박에-500조-퇴직연금-기금화-속도-452599",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T11:20:41.466Z",
+    "updatedAt": "2026-05-08T11:20:41.466Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050848581",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050848581",
+    "titleFingerprint": "446812aec88a34e070fc9f405fbac241eaca5010",
+    "dedupKeys": [
+      "9f6277eb77f99a72e9c5dcea9f663093fbe890f1",
+      "446812aec88a34e070fc9f405fbac241eaca5010",
+      "fb5b4b04f0c0ec6bf719a424f7536872d906145b"
+    ],
+    "imageUrl": "/images/articles/9f6277eb77f9.png",
+    "i18n": {
+      "ko": {
+        "title": "500조 퇴직연금 기금화 속도, 국민연금식 운용 논의 본격화",
+        "excerpt": "정부가 퇴직연금 수익률 개선을 위해 기금형 제도 도입에 속도를 내고 있다. 500조원 규모로 커진 퇴직연금 시장에서 국민연금식 운용 방식과 공공기관 참여 가능성이 쟁점이다.",
+        "body": "정부가 500조원 규모로 커진 퇴직연금의 기금화 논의에 속도를 내고 있다. 퇴직연금 운용 수익률을 높이기 위해 기존 계약형 중심 구조를 보완하고, 노·사·외부 전문가가 참여하는 기금형 운용 체계를 도입하려는 흐름이다. 퇴직연금은 회사나 근로자가 금융회사와 직접 계약해 운용하는 방식이 중심이었지만, 기금형은 적립금을 모아 전문 조직이 관리한다는 점에서 국민연금과 유사하다. 시장은 국민연금공단 같은 공공기관이 수탁 사업자로 참여할 가능성에 촉각을 세우고 있다. 일반 퇴직연금 수익률이 낮다는 지적이 이어지는 가운데, 기금형 도입은 수익률 제고와 운용 주체 논쟁을 동시에 키울 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KRW 500 Trillion Retirement Pension Fund Plan Gains Momentum",
+        "excerpt": "The government is accelerating discussions on a fund-type retirement pension system to improve returns, with the KRW 500 trillion market focused on a National Pension-style model and possible public-sector participation.",
+        "body": "The government is moving faster on discussions to turn South Korea’s KRW 500 trillion retirement pension market toward a fund-type structure. The goal is to improve investment returns by supplementing the current contract-based system and introducing a framework managed by a fund body involving labor, management and outside experts. Retirement pensions have mainly been run through direct contracts between companies or workers and financial firms. A fund-type model would pool assets and place them under professional management, making it similar in structure to the National Pension. Market participants are watching whether public institutions such as the National Pension Service could join as trustees. With criticism continuing over low retirement pension returns, the shift is expected to raise both return expectations and debate over who should manage the money. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "500兆ウォン退職年金の基金化加速、国民年金型運用が焦点に",
+        "excerpt": "政府は退職年金の運用利回り改善に向け、基金型制度の導入を急いでいる。500兆ウォン規模に拡大した市場で、国民年金型の運用方式と公共機関の参加可能性が争点だ。",
+        "body": "政府は500兆ウォン規模に拡大した退職年金の基金化議論を加速している。退職年金の運用利回りを高めるため、従来の契約型中心の仕組みを補完し、労使と外部専門家が参加する基金型運用体制を導入しようとする流れだ。退職年金は企業や労働者が金融会社と直接契約して運用する方式が中心だったが、基金型は積立金をまとめて専門組織が管理する点で国民年金に近い。市場では国民年金公団のような公共機関が受託事業者として参加する可能性に注目が集まっている。一般の退職年金利回りが低いとの指摘が続く中、基金型導入は利回り改善期待と運用主体をめぐる議論を同時に広げる見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "500万亿韩元退休金基金化提速，国民年金式运作受关注",
+        "excerpt": "韩国政府正加快推进基金型退休金制度，以改善投资收益。随着市场规模扩大至500万亿韩元，国民年金式运作和公共机构参与可能性成为焦点。",
+        "body": "韩国政府正在加快讨论将规模达500万亿韩元的退休金市场引入基金化运作。其目的在于提高退休金投资收益，并在现有以合同型为主的制度之外，引入由劳方、资方和外部专家参与的基金型管理体系。此前，退休金主要由企业或劳动者与金融公司直接签约并选择产品运作。基金型模式则是把资金汇集后交由专业组织管理，在结构上与国民年金相似。市场正密切关注国民年金公团等公共机构是否可能作为受托机构参与。鉴于普通退休金收益率偏低的批评仍在持续，基金型制度的推进预计将同时带来提高收益的期待和围绕管理主体的争论。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Avanza el fondo de pensiones laborales de 500 billones de wones",
+        "excerpt": "El Gobierno surcoreano acelera el debate sobre un sistema de pensiones laborales tipo fondo para mejorar la rentabilidad, mientras el mercado de 500 billones de wones observa el posible papel del Servicio Nacional de Pensiones.",
+        "body": "El Gobierno surcoreano está acelerando el debate para convertir el mercado de pensiones laborales, que ha crecido hasta unos 500 billones de wones, hacia un modelo tipo fondo. El objetivo es mejorar la rentabilidad complementando el sistema actual basado en contratos e introduciendo una estructura gestionada por un fondo con participación de trabajadores, empresas y expertos externos. Hasta ahora, las pensiones laborales se han administrado principalmente mediante contratos directos entre compañías o empleados y entidades financieras. El modelo tipo fondo reuniría los activos y los pondría bajo gestión profesional, de forma similar al Servicio Nacional de Pensiones. El mercado sigue atento a si instituciones públicas como ese servicio podrían participar como fiduciarios. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Fundo de aposentadoria de 500 trilhões de won ganha impulso",
+        "excerpt": "O governo sul-coreano acelera a discussão sobre um modelo de fundo para previdência corporativa, buscando melhorar retornos enquanto o mercado de 500 trilhões de won observa possível participação pública.",
+        "body": "O governo da Coreia do Sul está acelerando as discussões para levar o mercado de previdência corporativa, já em torno de 500 trilhões de won, a uma estrutura do tipo fundo. A meta é elevar os retornos ao complementar o sistema atual, baseado em contratos, com uma gestão feita por um organismo que reúna trabalhadores, empresas e especialistas externos. Hoje, a previdência corporativa é administrada principalmente por contratos diretos entre companhias ou empregados e instituições financeiras. No modelo de fundo, os ativos seriam reunidos e geridos profissionalmente, de forma semelhante ao Fundo Nacional de Pensões. O mercado acompanha a possibilidade de instituições públicas atuarem como gestoras fiduciárias. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "500-Billionen-Won-Betriebsrentenfonds rückt in Südkorea näher",
+        "excerpt": "Südkoreas Regierung beschleunigt die Debatte über ein fondsähnliches Betriebsrentensystem, um Renditen zu verbessern. Im 500-Billionen-Won-Markt steht auch eine mögliche Rolle öffentlicher Institutionen im Fokus.",
+        "body": "Die südkoreanische Regierung treibt die Diskussion über eine Fondsstruktur für den auf rund 500 Billionen Won gewachsenen Betriebsrentenmarkt voran. Ziel ist es, die Anlagerenditen zu verbessern, indem das bisher vertragsbasierte System ergänzt und eine Verwaltung durch ein Gremium aus Arbeitnehmern, Arbeitgebern und externen Fachleuten eingeführt wird. Bisher werden Betriebsrenten vor allem über direkte Verträge zwischen Unternehmen oder Beschäftigten und Finanzfirmen verwaltet. Ein Fondsmodell würde die Mittel bündeln und professionell steuern, ähnlich wie beim National Pension Service. Marktteilnehmer beobachten, ob öffentliche Institutionen als Treuhänder teilnehmen könnten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le fonds de retraite d’entreprise de 500 000 milliards de wons avance",
+        "excerpt": "Le gouvernement sud-coréen accélère le projet de régime de retraite d’entreprise de type fonds pour améliorer les rendements, tandis que le marché surveille un possible rôle d’institutions publiques.",
+        "body": "Le gouvernement sud-coréen accélère les discussions sur la transformation du marché des retraites d’entreprise, désormais proche de 500 000 milliards de wons, vers une structure de type fonds. L’objectif est d’améliorer les rendements en complétant le système actuel fondé sur des contrats et en introduisant une gestion assurée par un organisme associant salariés, employeurs et experts extérieurs. Jusqu’ici, ces retraites sont surtout gérées par des contrats directs entre entreprises ou salariés et sociétés financières. Le modèle de fonds regrouperait les actifs pour une gestion professionnelle, proche de celle du régime national de pension. Le marché observe la possible participation d’institutions publiques comme fiduciaires. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "تسارع خطة تحويل تقاعد الشركات الكوري إلى صندوق بقيمة 500 تريليون وون",
+        "excerpt": "تسرع الحكومة الكورية الجنوبية مناقشة نظام تقاعد شركات قائم على الصناديق لتحسين العوائد، بينما يراقب سوق حجمه 500 تريليون وون احتمال مشاركة مؤسسات عامة على غرار صندوق التقاعد الوطني.",
+        "body": "تدفع الحكومة الكورية الجنوبية بسرعة أكبر نحو بحث تحويل سوق تقاعد الشركات، الذي نما إلى نحو 500 تريليون وون، إلى هيكل قائم على الصناديق. والهدف هو تحسين عوائد الاستثمار عبر استكمال النظام الحالي القائم على العقود، وإدخال إطار تديره جهة تضم ممثلين عن العمال وأصحاب العمل وخبراء خارجيين. وحتى الآن، كانت هذه المدخرات تدار غالبا من خلال عقود مباشرة بين الشركات أو العاملين والمؤسسات المالية. أما نموذج الصندوق فيجمع الأصول تحت إدارة مهنية، بما يجعله قريبا من طريقة عمل صندوق التقاعد الوطني. وتتابع السوق احتمال مشاركة مؤسسات عامة كجهات وصية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "500 ट्रिलियन वॉन की रिटायरमेंट पेंशन फंड योजना ने पकड़ी रफ्तार",
+        "excerpt": "दक्षिण कोरिया सरकार रिटायरमेंट पेंशन रिटर्न सुधारने के लिए फंड-टाइप व्यवस्था पर चर्चा तेज कर रही है। 500 ट्रिलियन वॉन के बाजार में नेशनल पेंशन जैसी व्यवस्था और सार्वजनिक संस्थानों की भूमिका मुख्य मुद्दा है।",
+        "body": "दक्षिण कोरिया सरकार 500 ट्रिलियन वॉन तक बढ़ चुके रिटायरमेंट पेंशन बाजार को फंड-टाइप ढांचे की ओर ले जाने पर चर्चा तेज कर रही है। उद्देश्य मौजूदा कॉन्ट्रैक्ट-आधारित व्यवस्था को पूरक बनाकर निवेश रिटर्न सुधारना है, जिसमें श्रमिक, नियोक्ता और बाहरी विशेषज्ञ शामिल हों। अब तक रिटायरमेंट पेंशन मुख्य रूप से कंपनियों या कर्मचारियों और वित्तीय संस्थानों के सीधे अनुबंधों से संचालित होती रही है। फंड-टाइप मॉडल में जमा राशि को एकत्र कर पेशेवर संगठन प्रबंधन करेगा, जो नेशनल पेंशन जैसी संरचना है। बाजार यह देख रहा है कि नेशनल पेंशन सर्विस जैसी सार्वजनिक संस्था ट्रस्टी बन सकती है या नहीं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Dana Pensiun Kerja 500 Triliun Won Makin Cepat Dibahas",
+        "excerpt": "Pemerintah Korea Selatan mempercepat pembahasan skema pensiun kerja berbasis dana untuk meningkatkan imbal hasil, sementara pasar 500 triliun won menyoroti model ala National Pension dan peluang lembaga publik ikut mengelola.",
+        "body": "Pemerintah Korea Selatan mempercepat pembahasan untuk mengarahkan pasar pensiun kerja, yang telah membesar hingga sekitar 500 triliun won, ke struktur berbasis dana. Tujuannya adalah meningkatkan imbal hasil dengan melengkapi sistem berbasis kontrak yang berlaku saat ini dan memperkenalkan tata kelola yang melibatkan pekerja, perusahaan, serta ahli eksternal. Selama ini pensiun kerja terutama dikelola lewat kontrak langsung antara perusahaan atau pekerja dan lembaga keuangan. Dalam model dana, aset dikumpulkan dan dikelola secara profesional, mirip dengan struktur National Pension. Pasar mencermati kemungkinan lembaga publik ikut menjadi pengelola. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "328df836c6b4",
+    "slug": "국민연금-수익률-年-75-유지땐-2100년까지-버틴다지만-966463",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T11:19:28.678Z",
+    "updatedAt": "2026-05-08T11:19:28.678Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050848561",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050848561",
+    "titleFingerprint": "3d41bf43b0ec90fdae2174d93ee7141e07002de0",
+    "dedupKeys": [
+      "328df836c6b4090764b1960c53acfd9cbe8e88de",
+      "3d41bf43b0ec90fdae2174d93ee7141e07002de0",
+      "0efc76e0e348b30da06922a3de8a9d5ba281544d"
+    ],
+    "imageUrl": "/images/articles/328df836c6b4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국민연금 수익률 7.5% 유지 시 2100년까지 지속 가능성 주목",
+        "excerpt": "한국경제는 국민연금이 연 7.5% 수익률을 유지할 경우 2100년까지 버틸 수 있다는 분석을 전하며 장기 재정 지속 가능성 논점을 제기했다.",
+        "body": "국민연금의 장기 재정 지속 가능성을 둘러싼 논의가 다시 주목받고 있다. 한국경제 보도에 따르면 국민연금이 연 7.5% 수준의 수익률을 계속 유지할 경우 2100년까지 기금이 버틸 수 있다는 분석이 제시됐다. 핵심 수치는 ‘연 7.5% 수익률’과 ‘2100년’이다. 다만 제목의 표현처럼 해당 전제는 수익률이 장기간 유지된다는 조건을 포함한다. 이에 따라 국민연금 운용 성과와 장기 재정 전망은 향후 정책 논의의 주요 기준으로 다뤄질 가능성이 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "National Pension 7.5% Return Scenario Puts 2100 Sustainability in Focus",
+        "excerpt": "Hankyung reported that South Korea’s National Pension could last until 2100 if it maintains an annual return of 7.5%, raising the issue of long-term fiscal sustainability.",
+        "body": "Debate over the long-term sustainability of South Korea’s National Pension is drawing renewed attention. According to a Hankyung report, an analysis suggests the fund could endure until 2100 if it continues to maintain an annual return of 7.5%. The key figures are an annual return of 7.5% and the year 2100. However, as the headline indicates, this scenario depends on the condition that such returns are sustained over a long period. The fund’s investment performance and long-term fiscal outlook are therefore likely to remain central points in future policy discussions. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "国民年金、年7.5％利回り維持なら2100年まで持続可能性に注目",
+        "excerpt": "韓国経済新聞は、国民年金が年7.5％の収益率を維持すれば2100年まで持ちこたえられるとの分析を伝え、長期財政の持続性に焦点を当てた。",
+        "body": "韓国の国民年金をめぐり、長期的な財政持続可能性への関心が改めて高まっている。韓国経済新聞の報道によると、国民年金が年7.5％水準の収益率を継続して維持する場合、基金は2100年まで持ちこたえられるとの分析が示された。重要な数字は「年7.5％の収益率」と「2100年」だ。ただし見出しが示すように、この前提には高い収益率を長期にわたり維持する条件が含まれる。今後、運用成績と長期財政見通しは政策議論の主要な基準になる可能性がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "韩国国民年金若维持7.5%年收益率，能否撑到2100年受关注",
+        "excerpt": "韩国经济报道称，若韩国国民年金维持年7.5%收益率，基金可支撑至2100年，这一分析引发长期财政可持续性讨论。",
+        "body": "围绕韩国国民年金长期财政可持续性的讨论再次受到关注。据韩国经济报道，有分析认为，如果韩国国民年金持续维持年7.5%的收益率，基金可支撑至2100年。核心数字是“年7.5%收益率”和“2100年”。不过，正如标题所提示，这一情景包含收益率能够长期维持的前提。因此，国民年金的投资运营表现和长期财政展望，可能会成为今后政策讨论中的重要依据。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Pensión Nacional de Corea: 7,5% anual pondría el foco en llegar a 2100",
+        "excerpt": "Hankyung informó que la Pensión Nacional de Corea podría sostenerse hasta 2100 si mantiene una rentabilidad anual del 7,5%, abriendo el debate sobre su viabilidad fiscal.",
+        "body": "El debate sobre la sostenibilidad a largo plazo de la Pensión Nacional de Corea vuelve a ganar atención. Según informó Hankyung, un análisis señala que el fondo podría resistir hasta 2100 si mantiene una rentabilidad anual del 7,5%. Las cifras clave son una rentabilidad anual del 7,5% y el año 2100. Sin embargo, como sugiere el titular, este escenario depende de que ese nivel de rendimiento se mantenga durante un periodo prolongado. Por ello, el desempeño de inversión del fondo y sus perspectivas fiscales de largo plazo probablemente seguirán siendo puntos centrales en futuras discusiones de política. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Pensão Nacional da Coreia: retorno de 7,5% ao ano coloca 2100 em foco",
+        "excerpt": "O Hankyung informou que a Pensão Nacional da Coreia poderia durar até 2100 se mantiver retorno anual de 7,5%, levantando a questão da sustentabilidade fiscal de longo prazo.",
+        "body": "A discussão sobre a sustentabilidade de longo prazo da Pensão Nacional da Coreia volta a receber atenção. Segundo o Hankyung, uma análise indica que o fundo poderia resistir até 2100 caso continue mantendo retorno anual de 7,5%. Os números centrais são o retorno anual de 7,5% e o ano de 2100. No entanto, como sugere o título, esse cenário depende da condição de que tal rentabilidade seja sustentada por um período prolongado. Assim, o desempenho dos investimentos do fundo e sua perspectiva fiscal de longo prazo devem seguir como pontos importantes em futuros debates de política. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Koreas Nationalpension: 7,5% Jahresrendite rückt Haltbarkeit bis 2100 in den Fokus",
+        "excerpt": "Hankyung berichtete, Koreas Nationalpension könne bei einer jährlichen Rendite von 7,5% bis 2100 bestehen, womit die langfristige finanzielle Tragfähigkeit im Mittelpunkt steht.",
+        "body": "Die Debatte über die langfristige finanzielle Tragfähigkeit der koreanischen Nationalpension rückt erneut in den Fokus. Laut einem Bericht von Hankyung zeigt eine Analyse, dass der Fonds bis 2100 bestehen könnte, wenn er weiterhin eine jährliche Rendite von 7,5% erzielt. Die zentralen Zahlen sind eine Jahresrendite von 7,5% und das Jahr 2100. Wie die Überschrift andeutet, beruht dieses Szenario jedoch auf der Bedingung, dass dieses Renditeniveau über lange Zeit gehalten wird. Daher dürften Anlageergebnis und langfristiger Finanzausblick des Fonds wichtige Bezugspunkte künftiger politischer Debatten bleiben. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Pension nationale coréenne: un rendement de 7,5% placerait 2100 au centre du débat",
+        "excerpt": "Hankyung rapporte que la Pension nationale coréenne pourrait tenir jusqu’en 2100 si elle maintient un rendement annuel de 7,5%, relançant le débat sur sa viabilité à long terme.",
+        "body": "Le débat sur la viabilité financière à long terme de la Pension nationale coréenne attire de nouveau l’attention. Selon Hankyung, une analyse indique que le fonds pourrait tenir jusqu’en 2100 s’il continue de maintenir un rendement annuel de 7,5%. Les chiffres clés sont le rendement annuel de 7,5% et l’année 2100. Toutefois, comme le suggère le titre, ce scénario repose sur la condition que ce niveau de rendement soit conservé sur une longue période. La performance de gestion du fonds et ses perspectives financières à long terme devraient donc rester des repères majeurs dans les futures discussions de politique publique. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صندوق التقاعد الوطني الكوري: عائد 7.5% سنويا يضع الاستدامة حتى 2100 تحت الضوء",
+        "excerpt": "ذكرت هانكيونغ أن صندوق التقاعد الوطني الكوري قد يصمد حتى عام 2100 إذا حافظ على عائد سنوي 7.5%، ما يثير ملف الاستدامة المالية طويلة الأجل.",
+        "body": "تعود مسألة الاستدامة المالية طويلة الأجل لصندوق التقاعد الوطني في كوريا إلى دائرة الاهتمام. وبحسب تقرير هانكيونغ، تشير دراسة إلى أن الصندوق قد يتمكن من الصمود حتى عام 2100 إذا واصل الحفاظ على عائد سنوي عند مستوى 7.5%. الرقمان الرئيسيان هما عائد سنوي قدره 7.5% وعام 2100. لكن، كما يوحي العنوان، يقوم هذا السيناريو على شرط استمرار هذا المستوى من العوائد لفترة طويلة. لذلك من المرجح أن تظل نتائج إدارة استثمارات الصندوق وآفاقه المالية طويلة الأجل محورين أساسيين في نقاشات السياسة المقبلة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "कोरिया राष्ट्रीय पेंशन: 7.5% सालाना रिटर्न पर 2100 तक टिकाऊपन पर नजर",
+        "excerpt": "Hankyung ने बताया कि दक्षिण कोरिया की राष्ट्रीय पेंशन 7.5% सालाना रिटर्न बनाए रखने पर 2100 तक टिक सकती है, जिससे दीर्घकालिक वित्तीय टिकाऊपन पर बहस उठी।",
+        "body": "दक्षिण कोरिया की राष्ट्रीय पेंशन की दीर्घकालिक वित्तीय टिकाऊपन पर चर्चा फिर ध्यान खींच रही है। Hankyung की रिपोर्ट के अनुसार, एक विश्लेषण में कहा गया है कि यदि राष्ट्रीय पेंशन 7.5% सालाना रिटर्न बनाए रखती है, तो फंड 2100 तक टिक सकता है। मुख्य आंकड़े 7.5% सालाना रिटर्न और वर्ष 2100 हैं। हालांकि शीर्षक के संकेत के अनुसार, यह परिदृश्य इस शर्त पर आधारित है कि ऐसा रिटर्न लंबे समय तक कायम रहे। इसलिए फंड का निवेश प्रदर्शन और दीर्घकालिक वित्तीय 전망 आगे की नीति चर्चा में प्रमुख आधार बने रह सकते हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Dana Pensiun Nasional Korea: Imbal Hasil 7,5% Soroti Daya Tahan hingga 2100",
+        "excerpt": "Hankyung melaporkan Dana Pensiun Nasional Korea dapat bertahan hingga 2100 jika mempertahankan imbal hasil tahunan 7,5%, memunculkan isu keberlanjutan fiskal jangka panjang.",
+        "body": "Pembahasan mengenai keberlanjutan jangka panjang Dana Pensiun Nasional Korea kembali mendapat perhatian. Menurut laporan Hankyung, sebuah analisis menyebutkan bahwa dana tersebut dapat bertahan hingga 2100 jika terus mempertahankan imbal hasil tahunan sebesar 7,5%. Angka kuncinya adalah imbal hasil tahunan 7,5% dan tahun 2100. Namun, seperti tersirat dalam judul, skenario ini bergantung pada syarat bahwa tingkat imbal hasil tersebut dapat dipertahankan dalam jangka panjang. Karena itu, kinerja investasi dana dan prospek fiskal jangka panjangnya kemungkinan tetap menjadi acuan utama dalam pembahasan kebijakan mendatang. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "ec0fbf48542c",
+    "slug": "美증시도-빅테크-쏠림5개社가-상승-주도-220934",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T11:18:32.262Z",
+    "updatedAt": "2026-05-08T11:18:32.263Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050848731",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050848731",
+    "titleFingerprint": "a9a10aeb5300d7cd5e26c8ca794a3f0f5b3bcb54",
+    "dedupKeys": [
+      "ec0fbf48542c1c465f55e1fd53b31ef311752fbd",
+      "a9a10aeb5300d7cd5e26c8ca794a3f0f5b3bcb54",
+      "ae50229e7a26fe3a1077f049c1a47e5d528aa17d"
+    ],
+    "imageUrl": "/images/articles/ec0fbf48542c.png",
+    "i18n": {
+      "ko": {
+        "title": "미국 증시 빅테크 쏠림 심화, 5개 대형 기술주가 상승세 주도",
+        "excerpt": "미국 증시에서 빅테크 중심의 상승 쏠림이 나타나고 있으며, 5개 대형 기술주가 지수 상승을 이끈 것으로 전해졌다.",
+        "body": "미국 증시에서 대형 기술주 중심의 상승세가 두드러지고 있다. 한국경제 보도에 따르면 최근 미국 주식시장은 이른바 ‘빅테크 쏠림’ 현상이 나타났고, 5개사가 전체 상승 흐름을 주도한 것으로 전해졌다. 이는 시장 전반의 고른 상승이라기보다 일부 대형 기술 기업에 매수세와 기대가 집중된 흐름으로 해석된다. 투자자들은 미국 증시가 상승하더라도 상승 동력이 특정 종목에 편중돼 있는지 살필 필요가 있다. 관련 내용은 hankyung.com 보도를 인용했다."
+      },
+      "en": {
+        "title": "US Stock Gains Concentrate in Big Tech as Five Companies Lead Rally",
+        "excerpt": "The US stock market is showing a stronger tilt toward Big Tech, with five major technology companies reported to be driving the latest gains.",
+        "body": "The US stock market is seeing a notable concentration of gains in major technology shares. According to a report by The Korea Economic Daily, the market has shown a so-called Big Tech skew, with five companies leading the overall upward move. The pattern suggests that the rally is not broadly spread across the market but is being driven by buying interest and expectations focused on a small group of large technology firms. Investors may need to watch whether US equity gains remain concentrated in specific names. The report cites hankyung.com."
+      },
+      "ja": {
+        "title": "米国株の上昇はビッグテック偏重、5社が相場を主導",
+        "excerpt": "米国株式市場ではビッグテック中心の上昇偏重が目立っており、5つの大手テクノロジー企業が上昇を主導したと伝えられた。",
+        "body": "米国株式市場で大手テクノロジー株を中心とした上昇が目立っている。韓国経済新聞の報道によると、最近の米国市場ではいわゆる「ビッグテック偏重」が見られ、5社が全体の上昇の流れを主導したという。これは市場全体が幅広く上昇しているというより、一部の大型テクノロジー企業に買いと期待が集中している動きと受け止められる。投資家は米国株が上昇しても、その原動力が特定銘柄に偏っていないか確認する必要がある。出所はhankyung.comの報道。"
+      },
+      "zh": {
+        "title": "美国股市涨势偏向大型科技股，5家公司主导上涨",
+        "excerpt": "美国股市出现更明显的大型科技股集中上涨现象，据报道，5家大型科技公司带动了市场升势。",
+        "body": "美国股市正呈现以大型科技股为中心的上涨特征。据《韩国经济新闻》报道，近期美国股票市场出现所谓“Big Tech集中”现象，5家公司主导了整体上涨走势。这一情况显示，市场上涨并非广泛分布在各个板块，而是买盘和预期集中在少数大型科技企业。投资者在观察美国股市上涨时，也需要关注上涨动力是否过度集中于特定个股。本文引用hankyung.com报道。"
+      },
+      "es": {
+        "title": "Wall Street se concentra en Big Tech: cinco compañías lideran las subidas",
+        "excerpt": "La bolsa estadounidense muestra una mayor concentración en grandes tecnológicas, con cinco compañías que habrían impulsado las recientes alzas del mercado.",
+        "body": "La bolsa estadounidense está registrando un avance cada vez más centrado en las grandes tecnológicas. Según informó The Korea Economic Daily, el mercado de acciones de Estados Unidos muestra una inclinación hacia Big Tech, y cinco compañías han liderado el movimiento alcista general. Este patrón indica que la subida no se reparte de forma amplia en todo el mercado, sino que las compras y expectativas se concentran en un grupo reducido de grandes empresas tecnológicas. Los inversores deberían observar si las ganancias siguen dependiendo de valores concretos. La información cita a hankyung.com."
+      },
+      "pt": {
+        "title": "Bolsa dos EUA concentra ganhos em Big Tech, com cinco empresas na liderança",
+        "excerpt": "O mercado acionário dos EUA mostra maior concentração em Big Tech, com cinco grandes empresas de tecnologia impulsionando as altas recentes.",
+        "body": "O mercado acionário dos Estados Unidos vem mostrando uma alta concentrada em grandes empresas de tecnologia. Segundo o The Korea Economic Daily, a bolsa americana apresentou um movimento descrito como concentração em Big Tech, com cinco companhias liderando a tendência de valorização. O quadro sugere que a alta não está distribuída de forma ampla pelo mercado, mas concentrada em compras e expectativas voltadas a poucas grandes empresas de tecnologia. Investidores devem acompanhar se os ganhos das ações americanas continuam dependentes de nomes específicos. A informação cita hankyung.com."
+      },
+      "de": {
+        "title": "US-Börse mit Big-Tech-Fokus: Fünf Konzerne treiben die Gewinne",
+        "excerpt": "Am US-Aktienmarkt zeigt sich eine stärkere Konzentration auf Big Tech, wobei fünf große Technologiewerte die jüngsten Kursgewinne getragen haben sollen.",
+        "body": "Am US-Aktienmarkt fallen Kursgewinne großer Technologiewerte besonders stark ins Gewicht. Laut einem Bericht der Korea Economic Daily zeigt der Markt eine sogenannte Big-Tech-Konzentration, wobei fünf Unternehmen die allgemeine Aufwärtsbewegung angeführt haben. Das deutet darauf hin, dass die Rally nicht breit über den gesamten Markt verteilt ist, sondern Kaufinteresse und Erwartungen auf wenige große Technologieunternehmen gebündelt sind. Anleger sollten daher prüfen, ob steigende US-Aktienindizes weiterhin von einzelnen Titeln abhängen. Quelle ist ein Bericht von hankyung.com."
+      },
+      "fr": {
+        "title": "Wall Street se concentre sur la Big Tech, cinq groupes tirent la hausse",
+        "excerpt": "Le marché boursier américain affiche une concentration accrue sur les grandes valeurs technologiques, cinq sociétés menant la récente progression.",
+        "body": "Le marché boursier américain montre une hausse de plus en plus concentrée autour des grandes valeurs technologiques. Selon The Korea Economic Daily, Wall Street présente un phénomène de concentration sur la Big Tech, avec cinq sociétés qui ont mené le mouvement général de progression. Cette configuration suggère que la hausse n’est pas largement répartie sur l’ensemble du marché, mais qu’elle repose sur des achats et des attentes concentrés sur quelques grands groupes technologiques. Les investisseurs doivent surveiller si les gains américains restent dépendants de titres précis. L’information cite hankyung.com."
+      },
+      "ar": {
+        "title": "صعود وول ستريت يتركز في التكنولوجيا الكبرى وخمس شركات تقود المكاسب",
+        "excerpt": "تظهر سوق الأسهم الأميركية ميلا أوضح نحو شركات التكنولوجيا الكبرى، إذ أفيد بأن خمس شركات قادت موجة الصعود الأخيرة.",
+        "body": "تشهد سوق الأسهم الأميركية صعودا لافتا يتركز في أسهم شركات التكنولوجيا الكبرى. ووفقا لتقرير صحيفة كوريا الاقتصادية، أظهرت السوق الأميركية ما يسمى بتركز المكاسب في قطاع التكنولوجيا الكبرى، حيث قادت خمس شركات الاتجاه الصاعد العام. ويعني ذلك أن الارتفاع لا يبدو موزعا على السوق بأكملها، بل يرتبط بعمليات شراء وتوقعات متركزة في عدد محدود من الشركات التقنية الضخمة. لذلك يحتاج المستثمرون إلى متابعة ما إذا كانت مكاسب الأسهم الأميركية تعتمد على أسماء محددة. يستند الخبر إلى تقرير hankyung.com."
+      },
+      "hi": {
+        "title": "अमेरिकी शेयर बाजार में बिग टेक का दबदबा, पांच कंपनियों ने बढ़त चलाई",
+        "excerpt": "अमेरिकी शेयर बाजार में बिग टेक पर केंद्रित बढ़त दिख रही है, जहां पांच बड़ी तकनीकी कंपनियों ने हालिया तेजी को आगे बढ़ाया बताया गया है।",
+        "body": "अमेरिकी शेयर बाजार में बड़ी तकनीकी कंपनियों के शेयरों की बढ़त खास तौर पर उभर रही है। कोरिया इकोनॉमिक डेली की रिपोर्ट के अनुसार, हाल के अमेरिकी बाजार में बिग टेक की ओर झुकाव दिखाई दिया और पांच कंपनियों ने कुल तेजी की दिशा को आगे बढ़ाया। यह संकेत देता है कि बाजार की बढ़त व्यापक रूप से फैली नहीं है, बल्कि खरीदारी और उम्मीदें कुछ बड़ी तकनीकी कंपनियों पर केंद्रित हैं। निवेशकों को देखना होगा कि अमेरिकी शेयरों की बढ़त कहीं चुनिंदा शेयरों पर ही निर्भर तो नहीं है। यह जानकारी hankyung.com की रिपोर्ट पर आधारित है।"
+      },
+      "id": {
+        "title": "Bursa AS Makin Bertumpu pada Big Tech, Lima Perusahaan Pimpin Kenaikan",
+        "excerpt": "Pasar saham AS menunjukkan kenaikan yang makin terpusat pada Big Tech, dengan lima perusahaan teknologi besar dilaporkan memimpin penguatan terbaru.",
+        "body": "Pasar saham Amerika Serikat memperlihatkan kenaikan yang menonjol pada saham-saham teknologi besar. Menurut laporan The Korea Economic Daily, pasar AS belakangan menunjukkan fenomena konsentrasi pada Big Tech, dengan lima perusahaan memimpin arah penguatan secara keseluruhan. Pola ini menunjukkan bahwa reli tidak tersebar merata di seluruh pasar, melainkan lebih banyak didorong oleh minat beli dan ekspektasi terhadap sejumlah kecil perusahaan teknologi besar. Investor perlu mencermati apakah kenaikan saham AS tetap bergantung pada saham tertentu. Informasi ini mengutip laporan hankyung.com."
+      }
+    }
+  },
+  {
     "id": "73a788192488",
     "slug": "코스피-종목-절반-전쟁-전-주가-회복-못해-131670",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Bursa New York Melemah karena Ketidakpastian Negosiasi Timur Tengah; Dow Turun 0,6%",
         "excerpt": "Bursa New York ditutup melemah akibat ketidakpastian negosiasi Timur Tengah. Indeks Dow turun 0,6%, menurut laporan hankyung.com.",
         "body": "Bursa New York ditutup melemah di tengah berlanjutnya ketidakpastian seputar negosiasi Timur Tengah. Menurut hankyung.com, indeks Dow mengakhiri perdagangan dengan penurunan 0,6%. Pergerakan ini mencerminkan sikap hati-hati investor terhadap aset berisiko karena prospek pembicaraan terkait Timur Tengah masih belum jelas. Angka utama yang disebutkan dalam laporan asli adalah penurunan Dow sebesar 0,6%, bersamaan dengan pelemahan umum pasar saham New York. Pasar diperkirakan akan terus mencermati apakah ketidakpastian terkait negosiasi Timur Tengah mereda. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "9409bf3e22f1",
-    "slug": "kb증권sk플래닛-ok캐쉬백-포인트로-투자앱에서-바로-이용-323190",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T22:00:36.317Z",
-    "updatedAt": "2026-05-07T22:00:36.317Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050708001",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050708001",
-    "titleFingerprint": "2419671f1a57706c6dfe20885460db9221948890",
-    "dedupKeys": [
-      "9409bf3e22f117887e94575f84fb9fbfb1ada106",
-      "2419671f1a57706c6dfe20885460db9221948890",
-      "0b3584cbcb10ddd23946a99c9a830cc082b9f039"
-    ],
-    "imageUrl": "/images/articles/9409bf3e22f1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "KB증권·SK플래닛, OK캐쉬백 포인트 투자 앱에서 바로 이용",
-        "excerpt": "KB증권과 SK플래닛이 OK캐쉬백 포인트를 활용한 투자 서비스를 앱에서 바로 이용할 수 있도록 해 포인트 사용과 투자 접근성을 연결했다.",
-        "body": "KB증권과 SK플래닛은 OK캐쉬백 포인트로 투자할 수 있는 서비스를 앱에서 바로 이용할 수 있도록 했다. 이번 내용은 포인트를 별도 절차 없이 투자와 연결해 이용 편의성을 높이는 데 초점이 맞춰졌다. 원문에 구체적인 출시 시점, 대상 투자상품, 수수료, 최소 이용금액 등 세부 조건은 제시되지 않았다. 이용자는 보유한 OK캐쉬백 포인트를 앱 안에서 투자와 연계해 활용할 수 있게 된다. 포인트 기반 금융 서비스가 앱 내 이용 흐름을 얼마나 넓힐지가 향후 관전점이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KB Securities and SK Planet Let OK Cashbag Points Be Used for Investing in App",
-        "excerpt": "KB Securities and SK Planet now allow users to access an investment service using OK Cashbag points directly in the app, linking point use with investment access.",
-        "body": "KB Securities and SK Planet have made an investment service using OK Cashbag points available directly in the app. The move focuses on connecting points with investing inside the app and improving convenience for users. The original report did not specify details such as the launch date, eligible investment products, fees, or minimum usage amount. Users can now link their OK Cashbag points to investment activity within the app. The key point ahead is how far point-based financial services can expand app-based usage flows. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "KB証券・SKプラネット、OKキャッシュバッグポイント投資をアプリで利用可能に",
-        "excerpt": "KB証券とSKプラネットは、OKキャッシュバッグポイントを使った投資サービスをアプリ内で直接利用できるようにし、ポイント利用と投資アクセスを結び付けた。",
-        "body": "KB証券とSKプラネットは、OKキャッシュバッグポイントで投資できるサービスをアプリ内で直接利用できるようにした。今回の内容は、ポイントを投資とつなげ、アプリ内での利用利便性を高める点に焦点が置かれている。原文では、具体的な開始時期、対象となる投資商品、手数料、最低利用金額などの詳細条件は示されていない。利用者は保有するOKキャッシュバッグポイントをアプリ内で投資と連携して活用できる。今後は、ポイント基盤の金融サービスがアプリ内の利用動線をどこまで広げるかが注目される。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "KB证券与SK Planet推出OK Cashbag积分投资，可在应用内直接使用",
-        "excerpt": "KB证券和SK Planet让用户可在应用内直接使用OK Cashbag积分进行投资，把积分使用与投资入口连接起来。",
-        "body": "KB证券和SK Planet已使用户能够在应用内直接使用OK Cashbag积分进行投资。此次内容的重点在于把积分与投资服务连接起来，并提升应用内使用便利性。原文未说明具体上线时间、适用投资产品、手续费、最低使用金额等详细条件。用户可在应用内将持有的OK Cashbag积分与投资功能相结合使用。接下来值得关注的是，基于积分的金融服务能在多大程度上扩大应用内使用路径。来源: hankyung.com"
-      },
-      "es": {
-        "title": "KB Securities y SK Planet permiten invertir con puntos OK Cashbag desde la app",
-        "excerpt": "KB Securities y SK Planet habilitaron en la app un servicio de inversión con puntos OK Cashbag, conectando el uso de puntos con el acceso a inversión.",
-        "body": "KB Securities y SK Planet hicieron disponible directamente en la app un servicio para invertir con puntos OK Cashbag. La medida se centra en vincular los puntos con la inversión dentro de la aplicación y en mejorar la comodidad de uso. El texto original no especifica la fecha de lanzamiento, los productos de inversión aplicables, las comisiones ni el importe mínimo de uso. Los usuarios podrán relacionar sus puntos OK Cashbag con actividades de inversión dentro de la app. La atención estará en hasta qué punto los servicios financieros basados en puntos amplían el uso dentro de la aplicación. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "KB Securities e SK Planet liberam investimento com pontos OK Cashbag no app",
-        "excerpt": "KB Securities e SK Planet passaram a permitir o uso direto, no aplicativo, de um serviço de investimento com pontos OK Cashbag, ligando pontos e acesso a investimentos.",
-        "body": "A KB Securities e a SK Planet disponibilizaram diretamente no aplicativo um serviço que permite investir com pontos OK Cashbag. A iniciativa se concentra em conectar os pontos ao investimento dentro do app e em ampliar a conveniência para o usuário. O texto original não informa data de lançamento, produtos de investimento elegíveis, taxas nem valor mínimo de uso. Os usuários poderão vincular seus pontos OK Cashbag a atividades de investimento no próprio aplicativo. O ponto a observar é até onde serviços financeiros baseados em pontos podem ampliar os fluxos de uso no app. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KB Securities und SK Planet ermöglichen Investieren mit OK-Cashbag-Punkten in der App",
-        "excerpt": "KB Securities und SK Planet machen einen Investmentdienst mit OK-Cashbag-Punkten direkt in der App nutzbar und verbinden Punktenutzung mit Investmentzugang.",
-        "body": "KB Securities und SK Planet haben einen Dienst verfügbar gemacht, mit dem Nutzer direkt in der App mit OK-Cashbag-Punkten investieren können. Der Schritt zielt darauf ab, Punkte und Investmentfunktionen innerhalb der App zu verbinden und die Nutzung bequemer zu machen. Der Originalbericht nennt keine konkreten Angaben zu Starttermin, geeigneten Anlageprodukten, Gebühren oder Mindestbetrag. Nutzer können ihre OK-Cashbag-Punkte nun in der App mit Investmentaktivitäten verknüpfen. Entscheidend wird sein, wie stark punktbasierte Finanzdienste die Nutzung innerhalb der App erweitern. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "KB Securities et SK Planet ouvrent l’investissement avec points OK Cashbag dans l’app",
-        "excerpt": "KB Securities et SK Planet permettent d’utiliser directement dans l’application un service d’investissement avec des points OK Cashbag, reliant points et accès à l’investissement.",
-        "body": "KB Securities et SK Planet ont rendu disponible directement dans l’application un service permettant d’investir avec des points OK Cashbag. L’initiative vise à relier les points à l’investissement dans l’app et à améliorer la facilité d’utilisation. Le texte original ne précise pas la date de lancement, les produits d’investissement concernés, les frais ni le montant minimal d’utilisation. Les utilisateurs peuvent associer leurs points OK Cashbag à une activité d’investissement dans l’application. La suite montrera dans quelle mesure les services financiers fondés sur les points peuvent élargir les usages dans l’app. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "KB Securities وSK Planet تتيحان الاستثمار بنقاط OK Cashbag مباشرة عبر التطبيق",
-        "excerpt": "أتاحت KB Securities وSK Planet خدمة استثمار باستخدام نقاط OK Cashbag داخل التطبيق مباشرة، بما يربط استخدام النقاط بإمكانية الوصول إلى الاستثمار.",
-        "body": "أتاحت KB Securities وSK Planet خدمة تُمكّن المستخدمين من الاستثمار باستخدام نقاط OK Cashbag مباشرة داخل التطبيق. يركز هذا التطور على ربط النقاط بخدمة الاستثمار ضمن التطبيق وتحسين سهولة الاستخدام. ولم يوضح النص الأصلي تفاصيل مثل موعد الإطلاق، أو المنتجات الاستثمارية المشمولة، أو الرسوم، أو الحد الأدنى للاستخدام. ويمكن للمستخدمين ربط نقاط OK Cashbag التي يملكونها بأنشطة الاستثمار داخل التطبيق. وستتركز المتابعة على مدى قدرة الخدمات المالية القائمة على النقاط على توسيع مسارات الاستخدام داخل التطبيق. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KB Securities और SK Planet ने OK Cashbag पॉइंट निवेश को ऐप में उपलब्ध कराया",
-        "excerpt": "KB Securities और SK Planet ने OK Cashbag पॉइंट से निवेश सेवा को ऐप में सीधे उपलब्ध कराया, जिससे पॉइंट उपयोग और निवेश पहुंच को जोड़ा गया।",
-        "body": "KB Securities और SK Planet ने OK Cashbag पॉइंट से निवेश करने वाली सेवा को ऐप में सीधे उपयोग के लिए उपलब्ध कराया है। यह कदम पॉइंट को निवेश सेवा से जोड़ने और ऐप के भीतर उपयोग सुविधा बढ़ाने पर केंद्रित है। मूल रिपोर्ट में लॉन्च की तारीख, पात्र निवेश उत्पाद, शुल्क या न्यूनतम उपयोग राशि जैसी विस्तृत शर्तें नहीं बताई गई हैं। उपयोगकर्ता अपने OK Cashbag पॉइंट को ऐप के भीतर निवेश गतिविधि से जोड़कर इस्तेमाल कर सकते हैं। आगे यह देखना अहम होगा कि पॉइंट आधारित वित्तीय सेवाएं ऐप के भीतर उपयोग प्रवाह को कितना विस्तार देती हैं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "KB Securities dan SK Planet Hadirkan Investasi Poin OK Cashbag Langsung di App",
-        "excerpt": "KB Securities dan SK Planet membuat layanan investasi dengan poin OK Cashbag dapat digunakan langsung di aplikasi, menghubungkan penggunaan poin dengan akses investasi.",
-        "body": "KB Securities dan SK Planet membuat layanan investasi menggunakan poin OK Cashbag tersedia langsung di aplikasi. Langkah ini berfokus pada penghubungan poin dengan investasi di dalam aplikasi serta peningkatan kemudahan penggunaan. Teks asli tidak mencantumkan rincian seperti tanggal peluncuran, produk investasi yang berlaku, biaya, atau jumlah minimum penggunaan. Pengguna dapat mengaitkan poin OK Cashbag yang dimiliki dengan aktivitas investasi di dalam aplikasi. Hal yang perlu dicermati berikutnya adalah sejauh mana layanan keuangan berbasis poin dapat memperluas alur penggunaan di aplikasi. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "334fc8c7caed",
-    "slug": "은행의-안정성에-가산-금리까지-국민은행-후순위채-투자-가이드-414198",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T21:59:43.509Z",
-    "updatedAt": "2026-05-07T21:59:43.509Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605071802i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605071802i",
-    "titleFingerprint": "5fb4cb84379e2c2ba50d47e02deb0ce2baf0ce77",
-    "dedupKeys": [
-      "334fc8c7caedf25d610f6111690b7119cfd2c711",
-      "5fb4cb84379e2c2ba50d47e02deb0ce2baf0ce77",
-      "0eba6b9ef6badd1ac1c4d53b9dbed36b782bd4b5"
-    ],
-    "imageUrl": "/images/articles/334fc8c7caed.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국민은행 후순위채 투자 가이드, 은행 안정성과 가산금리 함께 본다",
-        "excerpt": "국민은행 후순위채 투자를 검토하는 투자자들이 은행의 안정성과 가산금리를 함께 따져야 한다는 투자 가이드가 제시됐다. 안정성만이 아니라 채권 구조와 수익 조건을 함께 보는 접근이 핵심이다.",
-        "body": "국민은행 후순위채가 은행의 안정성과 가산금리를 함께 살펴야 하는 투자 대상으로 제시됐다. 투자자는 국민은행이라는 은행의 안정성을 기본 전제로 보되, 후순위채가 일반 채권과 다른 구조를 가진다는 점을 확인해야 한다. 후순위채는 은행이 발행하는 채권 가운데 상환 순위가 뒤에 놓이는 성격이 있어, 투자 판단에서는 발행 은행의 신뢰도와 함께 가산금리 조건을 함께 비교하는 과정이 중요하다. 이번 가이드는 안정성만을 보고 접근하기보다 후순위채의 특성과 금리 보상을 동시에 점검해야 한다는 데 초점을 둔다. 향후 투자자는 국민은행의 안정성, 후순위채의 상환 구조, 가산금리 수준을 종합해 판단할 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KB Kookmin Bank Subordinated Bonds: Stability and Spread in Focus",
-        "excerpt": "A guide for investors reviewing KB Kookmin Bank subordinated bonds highlights the need to assess both bank stability and added yield spread, not stability alone.",
-        "body": "KB Kookmin Bank subordinated bonds have been presented as an investment that requires investors to examine both the bank’s stability and the additional spread. Investors may start from the stability of KB Kookmin Bank, but they also need to understand that subordinated bonds differ from ordinary bonds in structure. Because subordinated bonds rank behind other claims in repayment priority, investment decisions should compare the credibility of the issuing bank with the compensation offered through the spread. The guide focuses on checking both the bond’s characteristics and its yield premium rather than relying only on the bank’s stability. Investors should therefore weigh KB Kookmin Bank’s stability, the repayment structure of subordinated bonds, and the spread level together. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "国民銀行の劣後債投資ガイド、銀行の安定性と上乗せ金利を確認",
-        "excerpt": "国民銀行の劣後債投資を検討する投資家に向け、銀行の安定性だけでなく上乗せ金利と債券構造を併せて確認する必要性が示された。",
-        "body": "国民銀行の劣後債は、銀行の安定性と上乗せ金利をともに確認すべき投資対象として示された。投資家は国民銀行という銀行の安定性を基本材料としつつ、劣後債が一般的な債券とは異なる構造を持つ点を把握する必要がある。劣後債は銀行が発行する債券の中で返済順位が後ろに置かれる性格があるため、投資判断では発行銀行の信頼度と上乗せ金利による補償を併せて比較することが重要だ。今回のガイドは、安定性だけで判断するのではなく、劣後債の特徴と金利面の見返りを同時に点検する点に焦点を当てている。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "国民银行次级债投资指南：银行稳定性与加点利率并重",
-        "excerpt": "面向关注国民银行次级债的投资者，投资指南提示应同时评估银行稳定性、债券结构和加点利率，而不能只看稳定性。",
-        "body": "国民银行次级债被提出为一类需要同时考察银行稳定性和加点利率的投资对象。投资者可以把国民银行的稳定性作为基本前提，但也应确认次级债与普通债券在结构上存在差异。次级债在银行发行的债券中偿付顺序相对靠后，因此投资判断需要把发行银行的可信度与加点利率所提供的收益补偿放在一起比较。本次指南的重点在于，投资者不应只依据银行稳定性作出判断，而应同步检查次级债特征和利率补偿。未来投资时，应综合考虑国民银行的稳定性、次级债偿付结构以及加点利率水平。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Bonos subordinados de KB Kookmin: estabilidad bancaria y diferencial clave",
-        "excerpt": "Una guía para inversores en bonos subordinados de KB Kookmin Bank subraya que deben evaluarse tanto la estabilidad del banco como el diferencial añadido y la estructura del bono.",
-        "body": "Los bonos subordinados de KB Kookmin Bank se presentan como una inversión que exige revisar a la vez la estabilidad del banco y el diferencial de rendimiento. El inversor puede partir de la estabilidad de KB Kookmin Bank, pero también debe confirmar que un bono subordinado tiene una estructura distinta a la de un bono ordinario. Al situarse por detrás de otras obligaciones en el orden de pago, este tipo de bono requiere comparar la confianza en el banco emisor con la compensación que ofrece el diferencial. La guía se centra en no decidir solo por la estabilidad bancaria, sino en revisar también las características del bono y su remuneración. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Dívida subordinada do KB Kookmin: estabilidade e spread no centro",
-        "excerpt": "Guia para investidores em dívida subordinada do KB Kookmin Bank destaca a necessidade de avaliar a estabilidade do banco, a estrutura do papel e o spread adicional.",
-        "body": "A dívida subordinada do KB Kookmin Bank foi apresentada como um investimento que exige análise conjunta da estabilidade do banco e do spread adicional. O investidor pode considerar a estabilidade do KB Kookmin Bank como ponto de partida, mas precisa observar que a dívida subordinada tem estrutura diferente de um título comum. Como esse tipo de papel fica atrás de outras obrigações na ordem de pagamento, a decisão de investimento deve comparar a confiança no banco emissor com a compensação oferecida pelo spread. O guia enfatiza que a avaliação não deve se apoiar apenas na estabilidade, mas também nas características do título e na remuneração. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KB-Kookmin-Nachranganleihen: Stabilität und Aufschlag im Blick",
-        "excerpt": "Ein Leitfaden zu Nachranganleihen der KB Kookmin Bank betont, dass Anleger neben der Stabilität der Bank auch Struktur und Zinsaufschlag prüfen sollten.",
-        "body": "Nachranganleihen der KB Kookmin Bank werden als Anlage dargestellt, bei der sowohl die Stabilität der Bank als auch der zusätzliche Zinsaufschlag geprüft werden müssen. Anleger können die Stabilität der KB Kookmin Bank als Ausgangspunkt betrachten, sollten aber zugleich beachten, dass Nachranganleihen anders strukturiert sind als gewöhnliche Anleihen. Da sie in der Rückzahlungsrangfolge hinter anderen Forderungen stehen, ist bei der Anlageentscheidung die Bonität des Emittenten zusammen mit der Vergütung durch den Aufschlag zu vergleichen. Der Leitfaden stellt daher nicht allein die Stabilität in den Mittelpunkt, sondern auch die Merkmale der Anleihe und die Zinskompensation. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Obligations subordonnées KB Kookmin : stabilité et spread à examiner",
-        "excerpt": "Un guide destiné aux investisseurs dans les obligations subordonnées de KB Kookmin Bank souligne l’importance d’évaluer la stabilité de la banque, la structure du titre et le spread.",
-        "body": "Les obligations subordonnées de KB Kookmin Bank sont présentées comme un investissement qui nécessite d’examiner à la fois la stabilité de la banque et le spread additionnel. L’investisseur peut partir de la stabilité de KB Kookmin Bank, mais il doit aussi vérifier que les obligations subordonnées ont une structure différente des obligations ordinaires. Comme leur rang de remboursement vient après d’autres créances, la décision d’investissement doit comparer la crédibilité de la banque émettrice avec la rémunération offerte par le spread. Le guide insiste ainsi sur une analyse qui ne repose pas seulement sur la stabilité, mais aussi sur les caractéristiques du titre et la compensation de taux. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سندات كيه بي كوكمين الثانوية: الاستقرار والهامش الإضافي في الواجهة",
-        "excerpt": "يوضح دليل الاستثمار في السندات الثانوية لبنك كيه بي كوكمين ضرورة تقييم استقرار البنك إلى جانب هيكل السند والهامش الإضافي، لا الاعتماد على الاستقرار وحده.",
-        "body": "طُرحت السندات الثانوية لبنك كيه بي كوكمين كأداة استثمارية تتطلب النظر إلى استقرار البنك والهامش الإضافي معا. يمكن للمستثمر أن يبدأ من استقرار البنك، لكنه يحتاج أيضا إلى فهم أن السندات الثانوية تختلف في هيكلها عن السندات العادية. فهذه السندات تأتي في مرتبة لاحقة ضمن أولوية السداد، ولذلك ينبغي عند اتخاذ القرار مقارنة موثوقية البنك المصدر مع التعويض الذي يقدمه الهامش الإضافي. يركز الدليل على أن الاستثمار لا يجب أن يستند إلى الاستقرار وحده، بل إلى خصائص السند ومكافأة الفائدة أيضا. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KB Kookmin subordinated bonds: स्थिरता और अतिरिक्त spread पर नजर",
-        "excerpt": "KB Kookmin Bank के subordinated bonds पर गाइड बताती है कि निवेशकों को बैंक की स्थिरता के साथ bond structure और अतिरिक्त spread को भी देखना चाहिए।",
-        "body": "KB Kookmin Bank के subordinated bonds को ऐसे निवेश के रूप में रखा गया है जिसमें बैंक की स्थिरता और अतिरिक्त spread दोनों की जांच जरूरी है। निवेशक KB Kookmin Bank की स्थिरता को आधार मान सकते हैं, लेकिन उन्हें यह भी समझना होगा कि subordinated bonds सामान्य bonds से अलग संरचना रखते हैं। repayment priority में ये अन्य दावों के बाद आते हैं, इसलिए निवेश निर्णय में जारीकर्ता बैंक की विश्वसनीयता और spread से मिलने वाले compensation को साथ देखकर तुलना करनी चाहिए। यह guide केवल stability पर निर्भर रहने के बजाय bond की विशेषताओं और interest compensation को एक साथ परखने पर जोर देती है। Source: hankyung.com"
-      },
-      "id": {
-        "title": "Obligasi subordinasi KB Kookmin: stabilitas bank dan spread jadi fokus",
-        "excerpt": "Panduan investasi obligasi subordinasi KB Kookmin Bank menekankan perlunya menilai stabilitas bank, struktur obligasi, dan spread tambahan secara bersamaan.",
-        "body": "Obligasi subordinasi KB Kookmin Bank dipaparkan sebagai instrumen investasi yang perlu dinilai dari stabilitas bank dan spread tambahan sekaligus. Investor dapat menjadikan stabilitas KB Kookmin Bank sebagai dasar, tetapi tetap perlu memahami bahwa obligasi subordinasi memiliki struktur berbeda dari obligasi biasa. Karena posisinya berada di belakang kewajiban lain dalam prioritas pembayaran, keputusan investasi perlu membandingkan kepercayaan terhadap bank penerbit dengan kompensasi yang diberikan melalui spread. Panduan ini menekankan bahwa investor tidak cukup melihat stabilitas saja, melainkan juga harus memeriksa karakteristik obligasi dan imbal hasil tambahannya. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "e87e850c50cf",
-    "slug": "nh투자증권-투자-대기-없이-즉시-수익만기-때-원금-보장-877801",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T21:58:52.185Z",
-    "updatedAt": "2026-05-07T21:58:52.185Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050707961",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050707961",
-    "titleFingerprint": "147fdd87de557728652400252ac48fe9922b6507",
-    "dedupKeys": [
-      "e87e850c50cf5ac43d18aee6dc85163278da3d93",
-      "147fdd87de557728652400252ac48fe9922b6507",
-      "e6d1d6514efc64a6b554e2ba179503bcc9f502b9"
-    ],
-    "imageUrl": "/images/articles/e87e850c50cf.jpg",
-    "i18n": {
-      "ko": {
-        "title": "NH투자증권 원금 보장 상품, 투자 대기 없이 즉시 수익 기대",
-        "excerpt": "NH투자증권은 투자 대기 기간 없이 즉시 수익을 기대할 수 있고 만기 때 원금 보장을 내세운 투자 상품을 소개했다고 한국경제가 보도했다.",
-        "body": "NH투자증권이 투자 대기 없이 즉시 수익을 기대할 수 있고 만기 때 원금 보장을 내세운 투자 상품을 소개했다고 한국경제가 보도했다. 해당 내용은 투자자가 자금을 넣은 뒤 별도 대기 기간을 거치지 않고 수익 구조에 참여할 수 있다는 점을 강조한다. 또 만기 시 원금 보장을 핵심 특징으로 제시해 안정성을 중시하는 투자자에게 주목될 수 있다. 다만 구체적인 수익 조건과 가입 요건은 원문에 제시된 범위 안에서 확인이 필요하다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "NH Investment Product Highlights Principal Protection and Immediate Returns",
-        "excerpt": "NH Investment & Securities introduced an investment product that offers return potential without a waiting period and principal protection at maturity, Hankyung reported.",
-        "body": "NH Investment & Securities has introduced an investment product that highlights the possibility of earning returns immediately without an investment waiting period and principal protection at maturity, according to Hankyung. The report emphasizes that investors can participate in the return structure without having to wait after placing funds. Principal protection at maturity is presented as a key feature, making the product notable for investors who prioritize stability. Specific return terms and subscription conditions should be checked within the details provided by the original report. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "NH投資証券、待機なしで即時収益期待、満期時元本保証を提示",
-        "excerpt": "NH投資証券は、投資待機期間なしで即時収益が期待でき、満期時に元本保証を掲げる投資商品を紹介したと韓国経済が報じた。",
-        "body": "NH投資証券が、投資待機なしで即時収益を期待でき、満期時に元本保証を掲げる投資商品を紹介したと韓国経済が報じた。報道では、投資家が資金を投入した後、別途の待機期間を経ずに収益構造に参加できる点が強調されている。また、満期時の元本保証を主要な特徴として示しており、安定性を重視する投資家の関心を集める可能性がある。具体的な収益条件や加入要件は、原文で示された範囲内で確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "NH投资证券推本金保障产品，无需等待即可期待收益",
-        "excerpt": "据韩国经济报道，NH投资证券介绍了一款无需投资等待期即可期待收益、并在到期时保障本金的投资产品。",
-        "body": "据韩国经济报道，NH投资证券介绍了一款投资产品，其特点是在无需投资等待期的情况下即可期待收益，并在到期时保障本金。报道称，该产品强调投资者投入资金后，无需经过额外等待期即可参与收益结构。同时，到期本金保障被列为核心特点，因此可能受到重视稳定性的投资者关注。不过，具体收益条件和认购要求仍需以原文所列信息为准进行确认。来源: hankyung.com"
-      },
-      "es": {
-        "title": "NH Investment ofrece producto con capital protegido y retorno inmediato",
-        "excerpt": "NH Investment & Securities presentó un producto que permite esperar rendimientos sin periodo de espera y con protección del capital al vencimiento, informó Hankyung.",
-        "body": "NH Investment & Securities presentó un producto de inversión que destaca la posibilidad de obtener rendimientos sin un periodo de espera y la protección del capital al vencimiento, según informó Hankyung. El reporte subraya que los inversores pueden participar en la estructura de rentabilidad sin esperar después de aportar fondos. La protección del principal al vencimiento se presenta como una característica central, por lo que puede atraer la atención de quienes priorizan la estabilidad. Las condiciones concretas de rentabilidad y suscripción deben verificarse dentro de la información del reporte original. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "NH Investment destaca retorno imediato e capital protegido no vencimento",
-        "excerpt": "A NH Investment & Securities apresentou um produto que permite esperar retorno sem período de espera e com proteção do principal no vencimento, informou o Hankyung.",
-        "body": "A NH Investment & Securities apresentou um produto de investimento que destaca a possibilidade de retorno imediato, sem período de espera, e proteção do principal no vencimento, segundo o Hankyung. A reportagem enfatiza que o investidor pode participar da estrutura de rendimento sem aguardar depois de aplicar os recursos. A proteção do capital no vencimento é apontada como característica central, o que pode chamar a atenção de investidores que priorizam estabilidade. As condições específicas de retorno e adesão devem ser verificadas nos detalhes do relatório original. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "NH Investment: Produkt mit Kapitalschutz und Rendite ohne Wartezeit",
-        "excerpt": "NH Investment & Securities stellte ein Anlageprodukt vor, das Renditechancen ohne Wartezeit und Kapitalschutz bei Fälligkeit bietet, berichtete Hankyung.",
-        "body": "NH Investment & Securities hat ein Anlageprodukt vorgestellt, das Renditechancen ohne Wartezeit und Kapitalschutz bei Fälligkeit hervorhebt, wie Hankyung berichtete. Im Bericht wird betont, dass Anleger nach der Einzahlung ohne gesonderte Wartephase an der Renditestruktur teilnehmen können. Der Kapitalschutz zum Laufzeitende wird als zentrales Merkmal genannt und kann daher für Anleger interessant sein, die Stabilität priorisieren. Konkrete Renditebedingungen und Zeichnungsvoraussetzungen sollten anhand der im Originalbericht genannten Angaben geprüft werden. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "NH Investment mise sur rendement immédiat et capital garanti à terme",
-        "excerpt": "NH Investment & Securities a présenté un produit offrant un potentiel de rendement sans attente et une garantie du capital à l’échéance, selon Hankyung.",
-        "body": "NH Investment & Securities a présenté un produit d’investissement mettant en avant un potentiel de rendement immédiat sans période d’attente et une garantie du capital à l’échéance, selon Hankyung. Le rapport souligne que les investisseurs peuvent participer à la structure de rendement sans attendre après avoir placé leurs fonds. La garantie du principal à l’échéance est présentée comme une caractéristique clé, susceptible d’intéresser les investisseurs attachés à la stabilité. Les conditions précises de rendement et de souscription doivent être vérifiées dans les informations fournies par l’article original. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "إن إتش للاستثمار تطرح منتجا بعائد فوري وحماية للأصل عند الاستحقاق",
-        "excerpt": "ذكرت هانكيونغ أن NH Investment & Securities قدمت منتجا استثماريا يتيح توقع عائد دون فترة انتظار مع حماية أصل المبلغ عند الاستحقاق.",
-        "body": "قدمت NH Investment & Securities منتجا استثماريا يبرز إمكانية توقع عائد فوري دون فترة انتظار استثمارية، مع حماية أصل المبلغ عند الاستحقاق، وفق ما ذكرته هانكيونغ. ويؤكد التقرير أن المستثمرين يمكنهم المشاركة في هيكل العائد بعد إيداع الأموال من دون المرور بفترة انتظار منفصلة. كما تُعرض حماية الأصل عند الاستحقاق كميزة رئيسية، ما قد يجعل المنتج محل اهتمام لدى المستثمرين الذين يعطون الأولوية للاستقرار. وينبغي التحقق من شروط العائد والاكتتاب المحددة ضمن التفاصيل الواردة في التقرير الأصلي. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "NH Investment का उत्पाद: बिना प्रतीक्षा रिटर्न, मैच्योरिटी पर मूलधन सुरक्षा",
-        "excerpt": "Hankyung के अनुसार, NH Investment & Securities ने ऐसा निवेश उत्पाद पेश किया है जिसमें बिना प्रतीक्षा अवधि रिटर्न की संभावना और मैच्योरिटी पर मूलधन सुरक्षा है।",
-        "body": "Hankyung के अनुसार, NH Investment & Securities ने एक निवेश उत्पाद पेश किया है जो निवेश प्रतीक्षा अवधि के बिना तुरंत रिटर्न की संभावना और मैच्योरिटी पर मूलधन सुरक्षा को प्रमुखता देता है। रिपोर्ट में इस बात पर जोर है कि निवेशक धन लगाने के बाद अलग प्रतीक्षा अवधि के बिना रिटर्न संरचना में भाग ले सकते हैं। मैच्योरिटी पर मूलधन सुरक्षा को मुख्य विशेषता बताया गया है, इसलिए स्थिरता को प्राथमिकता देने वाले निवेशकों के लिए यह ध्यान देने योग्य हो सकता है। विशिष्ट रिटर्न शर्तों और सदस्यता आवश्यकताओं की पुष्टि मूल रिपोर्ट में दी जानकारी के दायरे में करनी चाहिए। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "NH Investment Tawarkan Produk Proteksi Pokok dan Imbal Hasil Langsung",
-        "excerpt": "NH Investment & Securities memperkenalkan produk investasi yang menawarkan potensi imbal hasil tanpa masa tunggu dan proteksi pokok saat jatuh tempo, lapor Hankyung.",
-        "body": "NH Investment & Securities memperkenalkan produk investasi yang menonjolkan potensi imbal hasil tanpa masa tunggu investasi dan proteksi pokok saat jatuh tempo, menurut laporan Hankyung. Laporan tersebut menekankan bahwa investor dapat ikut dalam struktur imbal hasil tanpa melalui masa tunggu terpisah setelah menempatkan dana. Proteksi pokok pada saat jatuh tempo disebut sebagai fitur utama, sehingga dapat menarik perhatian investor yang mengutamakan stabilitas. Ketentuan imbal hasil dan syarat berlangganan secara rinci perlu diperiksa dalam batas informasi yang disajikan laporan asli. Sumber: hankyung.com"
       }
     }
   }
