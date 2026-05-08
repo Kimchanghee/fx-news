@@ -1,5 +1,230 @@
 [
   {
+    "id": "bc66c99cd3d8",
+    "slug": "hmm-본사-부산행-공식-확정-임시-주총서-정관변경-가결-671915",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T08:59:04.778Z",
+    "updatedAt": "2026-05-08T08:59:04.778Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12041374",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12041374",
+    "titleFingerprint": "10c2c9ced5fdaa550aed2716ed0db9f2e9a4b4fd",
+    "dedupKeys": [
+      "bc66c99cd3d8c3ec2623e04d28d9f55de258b125",
+      "10c2c9ced5fdaa550aed2716ed0db9f2e9a4b4fd",
+      "3336ca45c70cbbda4a8766f111cb91cb7b9cf56a"
+    ],
+    "imageUrl": "/images/articles/bc66c99cd3d8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "HMM 본사 부산 이전 공식 확정, 임시 주총서 정관변경 통과",
+        "excerpt": "국내 최대 해운사 HMM이 8일 임시주주총회에서 정관변경안을 가결하며 본사 부산 이전을 공식 확정했다. 노사 합의로 첫 관문은 넘었지만 이전 규모와 방식 협상은 남았다.",
+        "body": "국내 최대 해운사 HMM이 8일 임시주주총회를 열고 본사 소재지를 부산으로 옮기기 위한 정관변경안을 가결했다. 이에 따라 HMM의 부산 이전은 공식 확정됐다. 이번 결정은 본사 이전을 둘러싼 노사 갈등이 이어진 끝에 양측이 극적으로 합의하면서 가능해졌다. 정관변경 통과로 첫 제도적 문턱은 넘었지만, 실제 어떤 조직과 인력이 부산으로 이동할지, 이전 방식과 일정은 어떻게 정할지 등 세부 협상은 계속될 전망이다. 국내 최대 해운사의 본사 이전인 만큼 향후 노사 협의 결과와 이전 규모가 핵심 쟁점으로 남는다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "HMM Confirms Busan Headquarters Move as Charter Change Passes at EGM",
+        "excerpt": "HMM, South Korea’s largest shipping company, officially confirmed its headquarters move to Busan on May 8 after shareholders approved a charter change at an extraordinary general meeting.",
+        "body": "HMM, South Korea’s largest shipping company, held an extraordinary general meeting on May 8 and approved a charter amendment to move its headquarters to Busan. The vote officially confirms the relocation. The decision came after labor and management reached a dramatic agreement following conflict over the plan. Passing the charter change clears the first institutional hurdle, but detailed talks remain over the actual scale and method of the move, including which organizations and employees will relocate and how the schedule will be set. As this involves the country’s largest shipping firm, the outcome of labor-management talks and the final relocation scope remain key issues. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "HMM本社の釜山移転が正式確定、臨時株主総会で定款変更を可決",
+        "excerpt": "韓国最大の海運会社HMMは5月8日の臨時株主総会で定款変更案を可決し、本社の釜山移転を正式に確定した。労使合意で第一関門は越えたが詳細協議は残る。",
+        "body": "韓国最大の海運会社HMMは5月8日、臨時株主総会を開き、本社所在地を釜山に移すための定款変更案を可決した。これによりHMMの釜山移転は正式に確定した。今回の決定は、本社移転をめぐる労使対立が続いた末、双方が劇的に合意したことで実現した。定款変更の通過で最初の制度的な関門は越えたものの、実際にどの組織や人員が釜山へ移るのか、移転方式や日程をどう決めるのかなど、詳細な協議は続く見通しだ。韓国最大の海運会社の本社移転だけに、今後の労使協議の結果と移転規模が主要な争点として残る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "HMM总部迁往釜山正式确定，临时股东大会通过章程修改",
+        "excerpt": "韩国最大航运公司HMM于5月8日召开临时股东大会，通过总部迁往釜山所需的章程修改案，正式确定搬迁。劳资虽达成协议，但细节谈判仍将继续。",
+        "body": "韩国最大航运公司HMM于5月8日召开临时股东大会，通过了将总部所在地迁往釜山所需的章程修改案。由此，HMM总部迁往釜山正式确定。此次决定是在围绕总部搬迁的劳资矛盾持续后，双方戏剧性达成协议才得以实现。章程修改通过意味着首个制度性门槛已经跨过，但实际哪些组织和人员将迁往釜山、搬迁方式和时间表如何确定等细节谈判预计仍将继续。鉴于这是韩国最大航运公司的总部搬迁，后续劳资协商结果和实际搬迁规模仍是核心争议点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "HMM confirma traslado de su sede a Busan tras aprobar cambio estatutario",
+        "excerpt": "HMM, la mayor naviera de Corea del Sur, confirmó oficialmente el 8 de mayo el traslado de su sede a Busan tras aprobar en una junta extraordinaria una modificación de estatutos.",
+        "body": "HMM, la mayor compañía naviera de Corea del Sur, celebró el 8 de mayo una junta extraordinaria de accionistas y aprobó una modificación de sus estatutos para trasladar su sede a Busan. Con ello, el traslado quedó oficialmente confirmado. La decisión fue posible después de que la dirección y el sindicato alcanzaran un acuerdo dramático tras un periodo de conflicto por el plan. La aprobación estatutaria supera el primer umbral institucional, pero aún quedan negociaciones detalladas sobre el alcance y la forma real del traslado, incluidos qué áreas y empleados se moverán a Busan y cómo se fijará el calendario. Al tratarse de la mayor naviera del país, el resultado del diálogo laboral y la escala final del traslado seguirán siendo puntos clave. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "HMM confirma mudança da sede para Busan após aprovação em assembleia",
+        "excerpt": "A HMM, maior empresa de navegação da Coreia do Sul, confirmou em 8 de maio a mudança da sede para Busan após aprovar uma alteração estatutária em assembleia extraordinária.",
+        "body": "A HMM, maior empresa de navegação da Coreia do Sul, realizou em 8 de maio uma assembleia geral extraordinária e aprovou uma alteração no estatuto para transferir sua sede para Busan. Com isso, a mudança foi oficialmente confirmada. A decisão ocorreu depois que empresa e trabalhadores chegaram a um acordo dramático após conflitos sobre o plano. A aprovação da mudança estatutária supera o primeiro obstáculo institucional, mas ainda restam negociações detalhadas sobre o tamanho e o formato real da transferência, incluindo quais organizações e funcionários irão para Busan e como o cronograma será definido. Por envolver a maior companhia marítima do país, o resultado das negociações trabalhistas e a escala final da mudança seguem como questões centrais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "HMM bestätigt Umzug der Zentrale nach Busan nach Satzungsänderung",
+        "excerpt": "HMM, Südkoreas größte Reederei, hat am 8. Mai auf einer außerordentlichen Hauptversammlung eine Satzungsänderung beschlossen und den Umzug der Zentrale nach Busan offiziell bestätigt.",
+        "body": "HMM, Südkoreas größte Reederei, hielt am 8. Mai eine außerordentliche Hauptversammlung ab und genehmigte eine Satzungsänderung, um den Sitz des Unternehmens nach Busan zu verlegen. Damit ist der Umzug offiziell bestätigt. Die Entscheidung wurde möglich, nachdem sich Arbeitnehmerseite und Management nach Konflikten über den Plan überraschend geeinigt hatten. Mit der Satzungsänderung ist die erste institutionelle Hürde genommen, doch Detailverhandlungen über den tatsächlichen Umfang und die Art des Umzugs stehen weiter aus. Dazu zählen Fragen, welche Organisationen und Beschäftigten nach Busan wechseln und wie der Zeitplan festgelegt wird. Da es um die größte Reederei des Landes geht, bleiben das Ergebnis der Gespräche und der endgültige Umfang zentrale Punkte. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "HMM confirme le transfert de son siège à Busan après un vote statutaire",
+        "excerpt": "HMM, première compagnie maritime de Corée du Sud, a confirmé le 8 mai le transfert de son siège à Busan après l’adoption d’une modification des statuts en assemblée générale extraordinaire.",
+        "body": "HMM, première compagnie maritime de Corée du Sud, a tenu le 8 mai une assemblée générale extraordinaire et approuvé une modification de ses statuts afin de transférer son siège à Busan. Le déménagement est ainsi officiellement confirmé. Cette décision intervient après un accord spectaculaire entre la direction et les salariés, au terme de tensions autour du projet. L’adoption de la modification statutaire franchit un premier seuil institutionnel, mais des négociations détaillées restent à mener sur l’ampleur et les modalités réelles du transfert, notamment les entités et les employés concernés ainsi que le calendrier. Comme il s’agit de la plus grande compagnie maritime du pays, le résultat du dialogue social et l’étendue finale du transfert demeurent des enjeux clés. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "HMM تؤكد نقل مقرها إلى بوسان بعد إقرار تعديل النظام الأساسي",
+        "excerpt": "أكدت HMM، أكبر شركة شحن بحري في كوريا الجنوبية، في 8 مايو نقل مقرها إلى بوسان بعد موافقة الجمعية العامة غير العادية على تعديل النظام الأساسي للشركة.",
+        "body": "عقدت HMM، أكبر شركة شحن بحري في كوريا الجنوبية، جمعية عامة غير عادية في 8 مايو ووافقت على تعديل النظام الأساسي لنقل مقرها الرئيسي إلى بوسان. وبذلك أصبح انتقال المقر مؤكدا رسميا. وجاء القرار بعد أن توصلت الإدارة والعمال إلى اتفاق حاسم عقب خلافات حول خطة الانتقال. ويمثل تمرير تعديل النظام الأساسي تجاوزا لأول عقبة مؤسسية، لكن المفاوضات التفصيلية ستستمر بشأن الحجم الفعلي للانتقال وطريقته، بما في ذلك الإدارات والموظفون الذين سينتقلون إلى بوسان وكيفية تحديد الجدول الزمني. وبما أن الأمر يتعلق بأكبر شركة شحن في البلاد، فإن نتائج مشاورات الإدارة والعمال وحجم الانتقال النهائي سيبقيان محورين رئيسيين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "HMM का मुख्यालय बुसान जाना पक्का, ईजीएम में चार्टर बदलाव मंजूर",
+        "excerpt": "दक्षिण कोरिया की सबसे बड़ी शिपिंग कंपनी HMM ने 8 मई को असाधारण आम बैठक में चार्टर संशोधन पारित कर मुख्यालय को बुसान स्थानांतरित करने की आधिकारिक पुष्टि की।",
+        "body": "दक्षिण कोरिया की सबसे बड़ी शिपिंग कंपनी HMM ने 8 मई को असाधारण आम बैठक आयोजित की और मुख्यालय को बुसान स्थानांतरित करने के लिए चार्टर संशोधन को मंजूरी दी। इसके साथ HMM का बुसान स्थानांतरण आधिकारिक रूप से तय हो गया। यह निर्णय मुख्यालय स्थानांतरण को लेकर श्रम और प्रबंधन के बीच चले टकराव के बाद दोनों पक्षों के नाटकीय समझौते से संभव हुआ। चार्टर संशोधन पारित होने से पहली संस्थागत बाधा दूर हो गई है, लेकिन वास्तविक स्थानांतरण का आकार और तरीका अभी विस्तृत बातचीत का विषय रहेगा। कौन-से संगठन और कर्मचारी बुसान जाएंगे तथा समय-सारिणी कैसे तय होगी, इस पर आगे चर्चा होगी। देश की सबसे बड़ी शिपिंग कंपनी से जुड़ा मामला होने के कारण श्रम-प्रबंधन वार्ता के नतीजे और अंतिम स्थानांतरण 규모 अहम मुद्दे बने रहेंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "HMM Resmi Pindahkan Kantor Pusat ke Busan Usai Perubahan Anggaran Disetujui",
+        "excerpt": "HMM, perusahaan pelayaran terbesar Korea Selatan, pada 8 Mei resmi memastikan pemindahan kantor pusat ke Busan setelah RUPSLB menyetujui perubahan anggaran dasar.",
+        "body": "HMM, perusahaan pelayaran terbesar Korea Selatan, menggelar rapat umum pemegang saham luar biasa pada 8 Mei dan menyetujui perubahan anggaran dasar untuk memindahkan kantor pusatnya ke Busan. Dengan keputusan itu, relokasi HMM ke Busan resmi dipastikan. Keputusan ini tercapai setelah manajemen dan pekerja mencapai kesepakatan dramatis usai konflik terkait rencana pemindahan. Persetujuan perubahan anggaran dasar melewati hambatan kelembagaan pertama, tetapi negosiasi rinci masih akan berlanjut mengenai skala dan cara pemindahan yang sebenarnya. Hal itu mencakup organisasi dan karyawan mana yang akan pindah ke Busan serta bagaimana jadwalnya ditetapkan. Karena menyangkut perusahaan pelayaran terbesar di negara itu, hasil perundingan manajemen-pekerja dan skala akhir relokasi tetap menjadi isu utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "030df9033a00",
+    "slug": "포토-ai리더십으로-나아가겠습니다-584928",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T08:57:42.578Z",
+    "updatedAt": "2026-05-08T08:57:42.578Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12041373",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12041373",
+    "titleFingerprint": "c6611c71f138254b168999414ea00722a00eaa51",
+    "dedupKeys": [
+      "030df9033a0019cda77cd4864d289f7007379c4c",
+      "c6611c71f138254b168999414ea00722a00eaa51",
+      "975cb4ce7cb7784027d21b5309cda0a7ea1c0bc1"
+    ],
+    "imageUrl": "/images/articles/030df9033a00.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 리더십 강조한 포토 기사, “AI리더십으로 나아가겠습니다”",
+        "excerpt": "매일경제(mk.co.kr)는 포토 기사에서 “AI리더십으로 나아가겠습니다”라는 메시지를 전하며 AI 리더십 방향성을 강조한 현장 발언을 소개했다.",
+        "body": "매일경제(mk.co.kr)는 ‘[포토] “AI리더십으로 나아가겠습니다”’라는 제목의 포토 기사를 통해 AI 리더십을 향한 메시지를 전했다. 원문에 제공된 핵심 내용은 제목과 출처뿐이며, 구체적인 발언자, 장소, 행사명, 시점, 관련 수치 등 추가 정보는 제시되지 않았다. 기사 제목에 따르면 현장에서는 “AI리더십으로 나아가겠습니다”라는 발언 또는 문구가 소개됐다. 이는 인공지능을 중심으로 한 리더십 방향성을 강조하는 표현으로 읽힌다. 다만 원문 정보만 기준으로 할 때 향후 계획, 정책, 투자 규모, 시장 영향 등은 확인되지 않는다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "AI Leadership Message Highlighted in Photo Article: “We Will Move Forward”",
+        "excerpt": "Maeil Business Newspaper (mk.co.kr) introduced the message “We will move forward with AI leadership” in a photo article, highlighting an AI-focused leadership direction.",
+        "body": "Maeil Business Newspaper (mk.co.kr) carried a photo article titled “[Photo] ‘We will move forward with AI leadership,’” presenting a message centered on AI leadership. The available source information includes only the headline and outlet, with no additional details on the speaker, location, event name, timing, or related figures. According to the headline, the statement or phrase “We will move forward with AI leadership” was introduced at the scene. The wording points to a leadership direction focused on artificial intelligence. Based strictly on the original information, however, no future plans, policies, investment amounts, or market impact can be confirmed. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "AIリーダーシップを強調、写真記事で「前進します」と紹介",
+        "excerpt": "毎日経済（mk.co.kr）は写真記事で「AIリーダーシップで進んでいきます」というメッセージを伝え、AI中心のリーダーシップの方向性を紹介した。",
+        "body": "毎日経済（mk.co.kr）は「『AIリーダーシップで進んでいきます』」というタイトルの写真記事を通じ、AIリーダーシップに向けたメッセージを伝えた。原文で確認できる主な情報はタイトルと出典のみで、発言者、場所、行事名、時点、関連数値などの追加情報は示されていない。タイトルによると、現場では「AIリーダーシップで進んでいきます」という発言または文言が紹介された。これは人工知能を中心にしたリーダーシップの方向性を強調する表現と受け止められる。ただし、原文情報だけを基準にすると、今後の計画、政策、投資規模、市場への影響などは確認できない。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "AI领导力成焦点，图片新闻称“将迈向AI领导力”",
+        "excerpt": "每日经济（mk.co.kr）在图片新闻中传达“将迈向AI领导力”的信息，介绍了强调人工智能领导方向的现场表述。",
+        "body": "每日经济（mk.co.kr）通过题为“‘将迈向AI领导力’”的图片新闻，传达了有关AI领导力的信息。原文所提供的核心内容仅包括标题和出处，未给出具体发言人、地点、活动名称、时间或相关数据等补充信息。根据标题，现场出现了“将迈向AI领导力”这一发言或表述。该措辞可理解为强调以人工智能为中心的领导方向。不过，严格依据原文信息，未来计划、政策内容、投资规模以及市场影响等均无法确认。来源：mk.co.kr。"
+      },
+      "es": {
+        "title": "Liderazgo en IA destaca en foto: “Avanzaremos con liderazgo en IA”",
+        "excerpt": "Maeil Business Newspaper (mk.co.kr) presentó en una nota fotográfica el mensaje “Avanzaremos con liderazgo en IA”, centrado en una dirección de liderazgo basada en inteligencia artificial.",
+        "body": "Maeil Business Newspaper (mk.co.kr) publicó una nota fotográfica titulada “[Foto] ‘Avanzaremos con liderazgo en IA’”, en la que presentó un mensaje enfocado en el liderazgo en inteligencia artificial. La información disponible en la fuente original se limita al título y al medio, sin detalles adicionales sobre quién habló, el lugar, el nombre del evento, la fecha o cifras relacionadas. Según el título, en el lugar se introdujo la frase “Avanzaremos con liderazgo en IA”. La expresión apunta a una orientación de liderazgo centrada en la inteligencia artificial. Sin embargo, con base estricta en la información original, no se pueden confirmar planes futuros, políticas, montos de inversión ni efectos de mercado. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Liderança em IA ganha destaque: “Avançaremos com liderança em IA”",
+        "excerpt": "O Maeil Business Newspaper (mk.co.kr) apresentou em uma notícia fotográfica a mensagem “Avançaremos com liderança em IA”, destacando uma direção de liderança voltada à inteligência artificial.",
+        "body": "O Maeil Business Newspaper (mk.co.kr) publicou uma notícia fotográfica intitulada “[Foto] ‘Avançaremos com liderança em IA’”, apresentando uma mensagem centrada na liderança em inteligência artificial. As informações disponíveis na fonte original se limitam ao título e ao veículo, sem detalhes adicionais sobre o autor da fala, local, nome do evento, momento ou números relacionados. Segundo o título, a frase “Avançaremos com liderança em IA” foi apresentada no local. A formulação indica uma direção de liderança focada em inteligência artificial. No entanto, com base estrita nas informações originais, não é possível confirmar planos futuros, políticas, valores de investimento ou impacto no mercado. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "KI-Führung im Fokus: Fotoartikel zitiert „Wir gehen mit KI-Leadership voran“",
+        "excerpt": "Maeil Business Newspaper (mk.co.kr) stellte in einem Fotoartikel die Botschaft „Wir gehen mit KI-Leadership voran“ vor und betonte damit eine auf KI ausgerichtete Führungsrichtung.",
+        "body": "Maeil Business Newspaper (mk.co.kr) veröffentlichte einen Fotoartikel mit dem Titel „[Foto] ‘Wir gehen mit KI-Leadership voran’“ und präsentierte damit eine Botschaft zur KI-Führung. Die im Original verfügbaren Informationen beschränken sich auf Überschrift und Quelle; Angaben zu Sprecher, Ort, Veranstaltungsname, Zeitpunkt oder relevanten Zahlen werden nicht genannt. Laut Überschrift wurde vor Ort die Aussage oder Formulierung „Wir gehen mit KI-Leadership voran“ vorgestellt. Die Wortwahl verweist auf eine Führungsrichtung, die künstliche Intelligenz in den Mittelpunkt stellt. Strikt auf Basis der Originalinformationen lassen sich jedoch keine künftigen Pläne, politischen Inhalte, Investitionssummen oder Marktauswirkungen bestätigen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Leadership IA mis en avant: « Nous avancerons avec le leadership IA »",
+        "excerpt": "Maeil Business Newspaper (mk.co.kr) a présenté dans un article photo le message « Nous avancerons avec le leadership IA », soulignant une orientation centrée sur l’intelligence artificielle.",
+        "body": "Maeil Business Newspaper (mk.co.kr) a publié un article photo intitulé « [Photo] ‘Nous avancerons avec le leadership IA’ », présentant un message axé sur le leadership en intelligence artificielle. Les informations disponibles dans la source originale se limitent au titre et au média, sans précision supplémentaire sur l’intervenant, le lieu, le nom de l’événement, la date ou des chiffres liés. Selon le titre, la phrase « Nous avancerons avec le leadership IA » a été introduite sur place. Cette formulation met en avant une direction de leadership centrée sur l’intelligence artificielle. Toutefois, sur la seule base des informations originales, aucun plan futur, politique, montant d’investissement ou impact de marché ne peut être confirmé. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "قيادة الذكاء الاصطناعي في الواجهة: «سنمضي قدما بقيادة الذكاء الاصطناعي»",
+        "excerpt": "عرضت صحيفة ماييل الاقتصادية (mk.co.kr) في خبر مصور رسالة «سنمضي قدما بقيادة الذكاء الاصطناعي»، مسلطة الضوء على توجه قيادي يرتكز على الذكاء الاصطناعي.",
+        "body": "نشرت صحيفة ماييل الاقتصادية (mk.co.kr) خبرا مصورا بعنوان «[صورة] سنمضي قدما بقيادة الذكاء الاصطناعي»، وقدمت من خلاله رسالة تتمحور حول قيادة الذكاء الاصطناعي. وتقتصر المعلومات المتاحة في النص الأصلي على العنوان والمصدر فقط، من دون تفاصيل إضافية عن المتحدث أو المكان أو اسم الفعالية أو التوقيت أو أي أرقام ذات صلة. وبحسب العنوان، جرى عرض عبارة «سنمضي قدما بقيادة الذكاء الاصطناعي» في الموقع. وتشير الصياغة إلى اتجاه قيادي يضع الذكاء الاصطناعي في المركز. ومع ذلك، وبالاستناد الصارم إلى معلومات النص الأصلي، لا يمكن تأكيد خطط مستقبلية أو سياسات أو حجم استثمارات أو آثار في السوق. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "AI नेतृत्व पर जोर: फोटो खबर में “AI नेतृत्व के साथ आगे बढ़ेंगे”",
+        "excerpt": "Maeil Business Newspaper (mk.co.kr) ने एक फोटो खबर में “AI नेतृत्व के साथ आगे बढ़ेंगे” संदेश पेश किया, जिसमें कृत्रिम बुद्धिमत्ता केंद्रित नेतृत्व दिशा पर जोर दिया गया।",
+        "body": "Maeil Business Newspaper (mk.co.kr) ने “[फोटो] ‘AI नेतृत्व के साथ आगे बढ़ेंगे’” शीर्षक से एक फोटो खबर प्रकाशित की, जिसमें AI नेतृत्व से जुड़ा संदेश पेश किया गया। मूल स्रोत में उपलब्ध जानकारी केवल शीर्षक और स्रोत तक सीमित है; वक्ता, स्थान, कार्यक्रम का नाम, समय या संबंधित आंकड़ों पर अतिरिक्त जानकारी नहीं दी गई है। शीर्षक के अनुसार, स्थल पर “AI नेतृत्व के साथ आगे बढ़ेंगे” वाक्य या संदेश प्रस्तुत किया गया। यह अभिव्यक्ति कृत्रिम बुद्धिमत्ता को केंद्र में रखने वाली नेतृत्व दिशा को रेखांकित करती है। हालांकि, मूल जानकारी के आधार पर भविष्य की योजनाओं, नीतियों, निवेश राशि या बाजार प्रभाव की पुष्टि नहीं की जा सकती। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Kepemimpinan AI Disorot: “Kami Akan Maju dengan AI Leadership”",
+        "excerpt": "Maeil Business Newspaper (mk.co.kr) menyampaikan pesan “Kami akan maju dengan AI leadership” dalam artikel foto, menyoroti arah kepemimpinan yang berfokus pada kecerdasan buatan.",
+        "body": "Maeil Business Newspaper (mk.co.kr) menerbitkan artikel foto berjudul “[Foto] ‘Kami akan maju dengan AI leadership’” yang menyampaikan pesan tentang kepemimpinan AI. Informasi yang tersedia dari sumber asli hanya mencakup judul dan media, tanpa detail tambahan mengenai pembicara, lokasi, nama acara, waktu, atau angka terkait. Berdasarkan judul, pernyataan atau frasa “Kami akan maju dengan AI leadership” diperkenalkan di lokasi. Ungkapan tersebut menunjukkan arah kepemimpinan yang berpusat pada kecerdasan buatan. Namun, jika hanya mengacu pada informasi asli, rencana ke depan, kebijakan, nilai investasi, atau dampak pasar belum dapat dikonfirmasi. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "997fdf4d0079",
+    "slug": "한달반만에-협상-테이블-앉는-삼성-노사최악-피하나-756863",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T08:56:40.925Z",
+    "updatedAt": "2026-05-08T08:56:40.926Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12041379",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12041379",
+    "titleFingerprint": "c483cca7f8791e32d27f2cdf0b6bd144dff2becd",
+    "dedupKeys": [
+      "997fdf4d00797c16e7d9122b213684389f471954",
+      "c483cca7f8791e32d27f2cdf0b6bd144dff2becd",
+      "253c5c87bf98f529863af8211f246bdb9e110e43"
+    ],
+    "imageUrl": "/images/articles/997fdf4d0079.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 노사, 한 달 반 만에 협상 재개…파업 피할지 주목",
+        "excerpt": "삼성전자 노사가 사후조정 절차를 위해 약 한 달 반 만에 협상 테이블에 앉으며, 파업이라는 극단적 상황을 피할 수 있을지 관심이 모이고 있다.",
+        "body": "삼성전자 노사가 사후조정 절차를 위해 다시 협상 테이블에 앉는다. 노사가 마주 앉는 것은 지난 3월 27일 협상이 중단된 이후 약 한 달 반 만이다. 이번 협상은 파업이라는 극단적인 상황을 피할 수 있을지 가늠할 분기점으로 주목된다. 원문에 따르면 양측은 중단됐던 대화를 재개하며 사후조정 절차에 들어간다. 협상 재개 자체가 갈등 해소의 실마리가 될 수 있지만, 구체적인 합의 여부는 아직 확인되지 않았다. 시장과 업계의 관심은 노사가 이번 절차를 통해 파업을 피할 수 있는지에 쏠린다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Labor Talks Resume After Six Weeks as Strike Risk Draws Focus",
+        "excerpt": "Samsung Electronics management and labor are returning to the table for a post-mediation process after about six weeks, raising attention over whether a strike can be avoided.",
+        "body": "Samsung Electronics management and labor are set to sit down again for a post-mediation process. It will be their first negotiating session in about six weeks, after talks broke down on March 27. The meeting is drawing attention as a possible turning point in whether the sides can avoid the extreme step of a strike. According to the original report, both parties are restarting talks that had been suspended and entering the post-mediation procedure. The resumption of dialogue may offer a clue toward easing tensions, but no specific agreement has been confirmed. Market and industry attention remains focused on whether the process can prevent a strike. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子労使、約1カ月半ぶり交渉再開…スト回避に注目",
+        "excerpt": "サムスン電子の労使が事後調整手続きのため約1カ月半ぶりに交渉の場に戻り、ストという極端な事態を避けられるか注目されている。",
+        "body": "サムスン電子の労使が、事後調整手続きのため再び交渉テーブルに着く。労使が向き合うのは、3月27日に交渉が中断されて以来、約1カ月半ぶりとなる。今回の交渉は、ストライキという極端な状況を避けられるかを見極める分岐点として注目されている。原文によると、双方は中断していた対話を再開し、事後調整手続きに入る。交渉再開そのものは対立解消の糸口になり得るが、具体的な合意の有無はまだ確認されていない。市場と業界の関心は、この手続きを通じてストを回避できるかに集まっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子劳资时隔约一个半月重启谈判，能否避免罢工受关注",
+        "excerpt": "三星电子劳资双方为进入事后调解程序，时隔约一个半月重返谈判桌，外界关注其能否避免罢工这一极端局面。",
+        "body": "三星电子劳资双方将为事后调解程序重新坐到谈判桌前。这是自3月27日谈判中断后，双方时隔约一个半月再次展开协商。本次谈判被视为能否避免罢工这一极端局面的重要节点，因而受到关注。根据原文，双方将重启此前中断的对话，并进入事后调解程序。谈判恢复本身可能成为缓解矛盾的线索，但目前尚未确认是否达成具体协议。市场和业界的关注点集中在双方能否通过此次程序避免罢工。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics reanuda diálogo laboral tras seis semanas ante riesgo de huelga",
+        "excerpt": "La dirección y el sindicato de Samsung Electronics vuelven a la mesa para un proceso posterior de mediación tras unas seis semanas, con la atención puesta en evitar una huelga.",
+        "body": "La dirección y los trabajadores de Samsung Electronics volverán a sentarse a negociar dentro de un proceso posterior de mediación. Será el primer encuentro entre ambas partes en aproximadamente mes y medio, después de que las conversaciones se interrumpieran el 27 de marzo. La reunión atrae atención como posible punto de inflexión para evitar una situación extrema como una huelga. Según el texto original, las partes reanudarán el diálogo suspendido y entrarán en el procedimiento de mediación posterior. La reanudación puede abrir una vía para aliviar el conflicto, aunque todavía no se ha confirmado ningún acuerdo concreto. El mercado y la industria observan si este proceso permitirá evitar una huelga. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics retoma negociação trabalhista após seis semanas sob foco de greve",
+        "excerpt": "A direção e os trabalhadores da Samsung Electronics voltam à mesa para um processo pós-mediação após cerca de seis semanas, com atenção sobre a possibilidade de evitar greve.",
+        "body": "A direção e os trabalhadores da Samsung Electronics voltarão à mesa de negociação para um processo pós-mediação. Será o primeiro encontro entre as partes em cerca de um mês e meio, desde a interrupção das conversas em 27 de março. A reunião chama atenção como um possível ponto de definição sobre evitar uma situação extrema, como uma greve. Segundo o texto original, os dois lados retomam o diálogo suspenso e entram no procedimento de pós-mediação. A retomada das conversas pode oferecer uma pista para aliviar o conflito, mas nenhum acordo específico foi confirmado até agora. O mercado e o setor acompanham se o processo poderá evitar uma greve. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics nimmt Tarifgespräche nach sechs Wochen wieder auf",
+        "excerpt": "Samsung Electronics und die Arbeitnehmerseite kehren nach rund sechs Wochen für ein Nachschlichtungsverfahren an den Verhandlungstisch zurück, während ein Streik vermieden werden soll.",
+        "body": "Samsung Electronics und die Arbeitnehmerseite setzen sich für ein Nachschlichtungsverfahren erneut an den Verhandlungstisch. Es ist das erste Treffen der Parteien seit rund eineinhalb Monaten, nachdem die Gespräche am 27. März unterbrochen wurden. Die Verhandlung gilt als möglicher Wendepunkt bei der Frage, ob eine extreme Situation wie ein Streik vermieden werden kann. Dem Originalbericht zufolge nehmen beide Seiten die ausgesetzten Gespräche wieder auf und treten in das Nachschlichtungsverfahren ein. Die Wiederaufnahme des Dialogs kann ein Ansatz zur Entschärfung des Konflikts sein, doch eine konkrete Einigung ist bislang nicht bestätigt. Markt und Branche beobachten, ob das Verfahren einen Streik verhindern kann. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics reprend le dialogue social après six semaines face au risque de grève",
+        "excerpt": "La direction et les salariés de Samsung Electronics reviennent à la table pour une procédure post-médiation après environ six semaines, avec l’attention portée sur l’évitement d’une grève.",
+        "body": "La direction et les représentants des salariés de Samsung Electronics vont reprendre les négociations dans le cadre d’une procédure post-médiation. Ce sera leur première rencontre depuis environ un mois et demi, après l’interruption des discussions le 27 mars. Cette réunion est suivie comme un possible tournant pour éviter une situation extrême telle qu’une grève. Selon le texte original, les deux parties relancent le dialogue suspendu et entrent dans la procédure post-médiation. La reprise des discussions peut ouvrir une piste d’apaisement, mais aucun accord précis n’a encore été confirmé. Les marchés et le secteur observent si cette procédure permettra d’éviter une grève. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس تستأنف مفاوضات العمل بعد ستة أسابيع وسط ترقب لتجنب الإضراب",
+        "excerpt": "تعود إدارة سامسونغ إلكترونيكس وممثلو العمال إلى طاولة التفاوض ضمن إجراء ما بعد الوساطة بعد نحو شهر ونصف، وسط اهتمام بإمكانية تجنب الإضراب.",
+        "body": "تستعد إدارة سامسونغ إلكترونيكس وممثلو العمال للجلوس مجددا إلى طاولة التفاوض ضمن إجراء ما بعد الوساطة. ويعد هذا أول اجتماع تفاوضي بين الطرفين منذ نحو شهر ونصف، بعدما توقفت المحادثات في 27 مارس. وتحظى هذه الجولة باهتمام لأنها قد تحدد ما إذا كان بالإمكان تجنب وضع حاد مثل الإضراب. وبحسب النص الأصلي، يستأنف الطرفان الحوار الذي كان معلقا ويدخلان في إجراء ما بعد الوساطة. وقد يشكل استئناف الحوار مؤشرا إلى إمكانية تخفيف الخلاف، لكن لم يتم تأكيد أي اتفاق محدد حتى الآن. وينصب اهتمام السوق والقطاع على ما إذا كانت هذه العملية ستمنع الإضراب. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics में छह हफ्ते बाद श्रम वार्ता बहाल, हड़ताल टलने पर नजर",
+        "excerpt": "Samsung Electronics का प्रबंधन और श्रमिक पक्ष करीब डेढ़ महीने बाद पश्च-मध्यस्थता प्रक्रिया के लिए बातचीत की मेज पर लौट रहे हैं, जिससे हड़ताल टलने की संभावना पर ध्यान है।",
+        "body": "Samsung Electronics का प्रबंधन और श्रमिक पक्ष पश्च-मध्यस्थता प्रक्रिया के लिए फिर से बातचीत की मेज पर बैठेंगे। 27 मार्च को वार्ता रुकने के बाद यह करीब डेढ़ महीने में दोनों पक्षों की पहली बातचीत होगी। यह बैठक इसलिए महत्वपूर्ण मानी जा रही है क्योंकि इससे यह आंका जा सकता है कि हड़ताल जैसी चरम स्थिति से बचा जा सकेगा या नहीं। मूल रिपोर्ट के अनुसार, दोनों पक्ष रुकी हुई बातचीत फिर शुरू कर रहे हैं और पश्च-मध्यस्थता प्रक्रिया में प्रवेश कर रहे हैं। वार्ता की बहाली विवाद कम करने का संकेत दे सकती है, लेकिन अभी किसी ठोस समझौते की पुष्टि नहीं हुई है। बाजार और उद्योग की नजर इस बात पर है कि क्या यह प्रक्रिया हड़ताल रोक पाएगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Electronics Lanjutkan Perundingan Buruh Setelah Enam Pekan, Risiko Mogok Disorot",
+        "excerpt": "Manajemen dan pekerja Samsung Electronics kembali ke meja perundingan untuk prosedur pascamediasi setelah sekitar satu setengah bulan, dengan perhatian pada peluang menghindari mogok.",
+        "body": "Manajemen dan pekerja Samsung Electronics akan kembali duduk di meja perundingan untuk prosedur pascamediasi. Ini menjadi pertemuan pertama kedua pihak dalam sekitar satu setengah bulan sejak perundingan terhenti pada 27 Maret. Pertemuan ini menjadi perhatian karena dapat menjadi titik penentu apakah situasi ekstrem berupa mogok dapat dihindari. Menurut teks asli, kedua pihak melanjutkan dialog yang sempat terhenti dan memasuki prosedur pascamediasi. Dimulainya kembali perundingan dapat menjadi petunjuk untuk meredakan konflik, tetapi belum ada kesepakatan konkret yang dikonfirmasi. Pasar dan industri mencermati apakah proses ini dapat mencegah mogok. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "5c7932c4c055",
     "slug": "말馬-없는-마차를-현실로-만든-발명가무모한-도전이-만든-위대한-성공-263389",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Pengalaman investasi anak jadi hadiah Mei, bunga majemuk dan junior ISA soroti nilai waktu",
         "excerpt": "Pada Mei, muncul usulan memberi anak pengalaman investasi alih-alih hadiah konsumtif. Efek waktu pada bunga majemuk dan pembahasan junior ISA menjadi inti pendidikan pembentukan aset.",
         "body": "Pada Mei, bulan keluarga di Korea, muncul usulan untuk mengajarkan nilai waktu kepada anak melalui pengalaman investasi, bukan hadiah biasa. Menurut Hankyung, efek bunga majemuk makin besar ketika jangka waktunya panjang, dan anak memiliki aset penting berupa horizon investasi yang panjang. Konteks ini juga melatarbelakangi rancangan undang-undang untuk memperkenalkan rekening junior ISA bagi anak di bawah umur. Tujuannya adalah memperluas sistem ISA yang saat ini berfokus pada orang dewasa kepada anak di bawah umur, sekaligus meringankan beban pajak hadiah dan pajak penghasilan dividen guna membantu pembentukan aset. Inggris memperkenalkan junior ISA pada 2011. Artikel itu juga mengutip studi University of Michigan yang menunjukkan bahwa pengalaman memiliki rekening atas nama anak dapat memengaruhi kebiasaan menabung saat dewasa. Di rumah, orang tua dapat memulai dengan metode matching, yakni menambahkan jumlah yang sama dengan tabungan anak. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "8e147ea3b9f5",
-    "slug": "증시-예탁금-130조-반도체에너지주여보-옆집도-더-산대-438974",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T20:11:12.387Z",
-    "updatedAt": "2026-05-07T20:11:12.387Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050707641",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050707641",
-    "titleFingerprint": "2ea3ead2a065772d6ab238bb0085728a6df3c3ba",
-    "dedupKeys": [
-      "8e147ea3b9f5ae0cf2610eace7739ae436df95de",
-      "2ea3ead2a065772d6ab238bb0085728a6df3c3ba",
-      "e59f9d4cc15b3d4a5f0b8c0682cd0199a0995969"
-    ],
-    "imageUrl": "/images/articles/8e147ea3b9f5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "증시 예탁금 130조 육박, 반도체·에너지 실적주로 자금 시선 이동",
-        "excerpt": "5월 7일 한국경제는 투자자 예탁금이 129조7321억원으로 늘며 코스피 상승과 함께 반도체·에너지 실적주 관심이 커졌다고 전했다.",
-        "body": "5월 7일 hankyung.com에 따르면 국내 증시 대기성 자금인 투자자 예탁금이 지난달 29일 129조7321억원을 기록했다. 최근 3개월 사이 10조9833억원, 9.25% 증가한 규모다. 코스피지수가 6900선을 돌파하고 삼성전자·SK하이닉스가 1분기 깜짝 실적을 공개하면서 시장의 초점은 지정학적 리스크보다 기업 펀더멘털로 옮겨가고 있다. AI 산업 호황과 고유가 영향으로 반도체와 에너지 업종의 이익 전망은 높아졌다. 반면 항공, 2차전지, 화학 업종은 고유가·고환율과 업황 부담으로 실적 부진이 예상된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Stock Deposits Near 130 Trillion Won as Funds Eye Chip and Energy Earnings Plays",
-        "excerpt": "On May 7, Hankyung reported that investor deposits rose to 129.7321 trillion won, with the Kospi rally lifting attention toward semiconductor and energy earnings stocks.",
-        "body": "According to hankyung.com on May 7, investor deposits, a pool of standby funds for the Korean stock market, reached 129.7321 trillion won on April 29. The amount rose by 10.9833 trillion won, or 9.25%, over the past three months. As the Kospi broke above the 6,900 level and Samsung Electronics and SK hynix posted first-quarter earnings surprises, market attention has shifted from geopolitical risks to corporate fundamentals. Profit expectations for semiconductor and energy sectors have risen on the AI industry boom and high oil prices. Airlines, rechargeable batteries and chemicals, however, are expected to face weak earnings due to high oil prices, a strong dollar environment and industry pressures. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "株式待機資金130兆ウォン迫る、半導体・エネルギー好業績株に視線",
-        "excerpt": "韓国経済は5月7日、投資家預託金が129兆7321億ウォンに増え、KOSPI上昇とともに半導体・エネルギー好業績株への関心が高まったと報じた。",
-        "body": "hankyung.comが5月7日に伝えたところによると、韓国株式市場の待機性資金である投資家預託金は4月29日に129兆7321億ウォンを記録した。直近3カ月で10兆9833億ウォン、9.25%増えた規模だ。KOSPIが6900台を突破し、サムスン電子とSKハイニックスが1-3月期のサプライズ決算を発表したことで、市場の焦点は地政学リスクより企業ファンダメンタルズへ移っている。AI産業の好況と高油価を背景に、半導体とエネルギー業種の利益見通しは引き上げられた。一方、航空、二次電池、化学業種は高油価・高為替と業況負担により業績不振が見込まれる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "股市保证金逼近130万亿韩元，资金转向半导体与能源业绩股",
-        "excerpt": "韩国经济5月7日报道，投资者保证金增至129.7321万亿韩元，随着KOSPI上涨，市场对半导体和能源业绩股的关注升温。",
-        "body": "据hankyung.com 5月7日报道，韩国股市待机资金性质的投资者保证金在4月29日达到129.7321万亿韩元。过去三个月增加10.9833万亿韩元，增幅为9.25%。随着KOSPI指数突破6900点，三星电子和SK海力士公布一季度超预期业绩，市场焦点正从地缘政治风险转向企业基本面。受AI产业景气和高油价影响，半导体与能源行业的盈利预期被上调。相反，航空、二次电池和化工行业因高油价、高汇率及行业压力，预计业绩将表现疲弱。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Depósitos bursátiles rozan 130 billones de won y miran a chips y energía",
-        "excerpt": "Hankyung informó el 7 de mayo que los depósitos de inversionistas subieron a 129,7321 billones de won, mientras el alza del Kospi impulsa el interés por semiconductores y energía.",
-        "body": "Según hankyung.com el 7 de mayo, los depósitos de inversionistas, fondos de espera para la bolsa surcoreana, alcanzaron 129,7321 billones de won el 29 de abril. La cifra aumentó 10,9833 billones de won, un 9,25%, en los últimos tres meses. Con el Kospi superando los 6.900 puntos y Samsung Electronics y SK hynix anunciando resultados sorpresa del primer trimestre, el foco del mercado se desplaza de los riesgos geopolíticos a los fundamentos corporativos. Las expectativas de beneficios de semiconductores y energía han subido por el auge de la IA y los altos precios del petróleo. En cambio, aerolíneas, baterías secundarias y químicas enfrentarían resultados débiles por petróleo caro, tipo de cambio elevado y presión sectorial. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Depósitos em ações chegam perto de 130 trilhões de won com foco em chips e energia",
-        "excerpt": "O Hankyung informou em 7 de maio que os depósitos de investidores subiram a 129,7321 trilhões de won, enquanto a alta do Kospi amplia o interesse por semicondutores e energia.",
-        "body": "Segundo o hankyung.com em 7 de maio, os depósitos de investidores, recursos à espera de aplicação no mercado acionário coreano, chegaram a 129,7321 trilhões de won em 29 de abril. O montante cresceu 10,9833 trilhões de won, ou 9,25%, nos últimos três meses. Com o Kospi acima dos 6.900 pontos e Samsung Electronics e SK hynix divulgando resultados-surpresa no primeiro trimestre, o foco do mercado passou dos riscos geopolíticos para os fundamentos das empresas. As projeções de lucro para semicondutores e energia subiram com o boom da IA e os altos preços do petróleo. Já aviação, baterias secundárias e química devem ter resultados fracos por petróleo caro, câmbio elevado e pressão setorial. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Börseneinlagen nähern sich 130 Billionen Won, Fokus auf Chips und Energie",
-        "excerpt": "Hankyung berichtete am 7. Mai, dass Anlegergelder auf 129,7321 Billionen Won stiegen, während der Kospi-Anstieg das Interesse an Halbleiter- und Energiewerten stärkt.",
-        "body": "Laut hankyung.com vom 7. Mai erreichten Anlegerdepots, also wartende Mittel für den koreanischen Aktienmarkt, am 29. April 129,7321 Billionen Won. In den vergangenen drei Monaten stieg der Betrag um 10,9833 Billionen Won oder 9,25%. Nachdem der Kospi die Marke von 6.900 überschritten hatte und Samsung Electronics sowie SK hynix überraschend starke Erstquartalszahlen meldeten, verlagert sich der Marktfokus von geopolitischen Risiken auf Unternehmensfundamentaldaten. Die Gewinnerwartungen für Halbleiter und Energie legten wegen des KI-Booms und hoher Ölpreise zu. Fluggesellschaften, Sekundärbatterien und Chemie dürften dagegen unter hohen Ölpreisen, hohem Wechselkursniveau und Branchendruck leiden. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Dépôts boursiers près de 130 billions de wons, cap sur puces et énergie",
-        "excerpt": "Hankyung a rapporté le 7 mai que les dépôts des investisseurs ont atteint 129,7321 billions de wons, la hausse du Kospi renforçant l’intérêt pour les semi-conducteurs et l’énergie.",
-        "body": "Selon hankyung.com le 7 mai, les dépôts des investisseurs, des fonds en attente pour le marché actions coréen, ont atteint 129,7321 billions de wons le 29 avril. Le montant a augmenté de 10,9833 billions de wons, soit 9,25%, en trois mois. Alors que le Kospi a dépassé 6.900 points et que Samsung Electronics et SK hynix ont publié des résultats du premier trimestre supérieurs aux attentes, l’attention du marché se déplace des risques géopolitiques vers les fondamentaux des entreprises. Les prévisions de bénéfices des semi-conducteurs et de l’énergie montent avec l’essor de l’IA et le pétrole cher. En revanche, aérien, batteries secondaires et chimie devraient afficher des résultats faibles sous l’effet du pétrole élevé, du change et des pressions sectorielles. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ودائع الأسهم تقترب من 130 تريليون وون والأنظار على الرقائق والطاقة",
-        "excerpt": "ذكرت هانكيونغ في 7 مايو أن ودائع المستثمرين ارتفعت إلى 129.7321 تريليون وون، مع صعود كوسبي وزيادة الاهتمام بأسهم أشباه الموصلات والطاقة.",
-        "body": "بحسب hankyung.com في 7 مايو، بلغت ودائع المستثمرين، وهي أموال جاهزة للدخول إلى سوق الأسهم الكورية، 129.7321 تريليون وون في 29 أبريل. وزاد المبلغ خلال الأشهر الثلاثة الأخيرة بمقدار 10.9833 تريليون وون، أي 9.25%. ومع تجاوز مؤشر كوسبي مستوى 6900 وإعلان سامسونغ إلكترونيكس وSK هاينكس نتائج مفاجئة للربع الأول، انتقل تركيز السوق من المخاطر الجيوسياسية إلى أساسيات الشركات. وارتفعت توقعات أرباح قطاعات أشباه الموصلات والطاقة بدعم من ازدهار الذكاء الاصطناعي وارتفاع أسعار النفط. في المقابل، يُتوقع ضعف أداء الطيران والبطاريات الثانوية والكيماويات بسبب النفط المرتفع وسعر الصرف المرتفع وضغوط الصناعة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "शेयर जमा 130 ट्रिलियन वॉन के करीब, चिप और ऊर्जा शेयरों पर नजर",
-        "excerpt": "Hankyung ने 7 मई को बताया कि निवेशक जमा 129.7321 ट्रिलियन वॉन हो गया, जबकि Kospi की तेजी से सेमीकंडक्टर और ऊर्जा आय वाले शेयरों में रुचि बढ़ी।",
-        "body": "hankyung.com के अनुसार 7 मई को, कोरियाई शेयर बाजार में इंतजार कर रही निवेशक जमा राशि 29 अप्रैल को 129.7321 ट्रिलियन वॉन पर पहुंच गई। पिछले तीन महीनों में यह 10.9833 ट्रिलियन वॉन, यानी 9.25%, बढ़ी। Kospi के 6,900 अंक से ऊपर जाने और Samsung Electronics तथा SK hynix द्वारा पहली तिमाही के आश्चर्यजनक नतीजे जारी करने के बाद बाजार का ध्यान भू-राजनीतिक जोखिमों से हटकर कंपनियों के फंडामेंटल्स पर गया है। AI उद्योग की तेजी और ऊंचे तेल दामों से सेमीकंडक्टर और ऊर्जा क्षेत्रों के लाभ अनुमान बढ़े हैं। इसके विपरीत, एयरलाइन, सेकेंडरी बैटरी और रसायन क्षेत्रों में ऊंचे तेल दाम, उच्च विनिमय दर और उद्योग दबावों के कारण कमजोर नतीजों की आशंका है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Dana Siaga Saham Dekati 130 Triliun Won, Fokus ke Chip dan Energi",
-        "excerpt": "Hankyung melaporkan pada 7 Mei bahwa dana investor naik menjadi 129,7321 triliun won, seiring reli Kospi yang mengangkat minat pada saham laba semikonduktor dan energi.",
-        "body": "Menurut hankyung.com pada 7 Mei, dana investor yang menjadi uang siaga di pasar saham Korea mencapai 129,7321 triliun won pada 29 April. Jumlah itu naik 10,9833 triliun won, atau 9,25%, dalam tiga bulan terakhir. Saat indeks Kospi menembus level 6.900 dan Samsung Electronics serta SK hynix merilis kejutan laba kuartal pertama, fokus pasar bergeser dari risiko geopolitik ke fundamental perusahaan. Ekspektasi laba sektor semikonduktor dan energi meningkat karena booming industri AI dan harga minyak yang tinggi. Sebaliknya, maskapai, baterai sekunder, dan kimia diperkirakan mencatat kinerja lemah akibat minyak mahal, kurs tinggi, dan tekanan industri. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "d8c2e8804d1a",
-    "slug": "개미가-멱살-잡고-간다코스피-7490선-마감-최고가-랠리-628756",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T20:10:02.389Z",
-    "updatedAt": "2026-05-07T20:10:02.389Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050718076",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050718076",
-    "titleFingerprint": "1e0a9d18c79a886f18726537addd778e9544df05",
-    "dedupKeys": [
-      "d8c2e8804d1a283ffdf79858888e2d51afe97117",
-      "1e0a9d18c79a886f18726537addd778e9544df05",
-      "6a71c57f201032533c1599040987bc83a2746b22"
-    ],
-    "imageUrl": "/images/articles/d8c2e8804d1a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7490.05 사상 최고 마감, 개인 6조 순매수로 되살아난 최고가 랠리",
-        "excerpt": "5월 7일 코스피는 개인 투자자의 약 6조원 순매수에 힘입어 전장보다 1.43% 오른 7490.05로 마감하며 장중 변동성 끝에 사상 최고치를 다시 썼다.",
-        "body": "5월 7일 코스피지수는 전장 대비 105.49포인트, 1.43% 오른 7490.05로 거래를 마치며 사상 최고치를 다시 경신했다. 지수는 1.55% 상승 출발해 장 초반 7500선을 넘었지만, 외국인 차익실현 매물로 7250선까지 밀리는 등 등락을 보였다. 반전을 이끈 것은 개인 투자자였다. 개인은 유가증권시장에서 5조9910억원을 순매수했고 기관도 1조950억원을 사들였다. 반면 외국인은 7조1510억원을 순매도했다. 삼성전자와 SK하이닉스는 각각 2%대, 3%대 상승했고 코스닥은 0.91% 내린 1199.18에 마감했다. 원·달러 환율은 1.1원 내린 1454.0원이었다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "KOSPI Ends at Record 7,490.05 as Retail Investors Drive Rebound Rally",
-        "excerpt": "On May 7, the KOSPI closed 1.43% higher at 7,490.05, setting another record after intraday swings as retail investors bought nearly 6 trillion won in shares.",
-        "body": "On May 7, the KOSPI closed at 7,490.05, up 105.49 points or 1.43% from the previous session, renewing its all-time high. The index opened 1.55% higher and briefly moved above 7,500 early in the session, but slid toward the 7,250 level as foreign investors took profits. Retail investors led the rebound. Individuals net bought 5.991 trillion won on the main market, while institutions purchased 1.095 trillion won. Foreign investors sold a net 7.151 trillion won. Samsung Electronics and SK hynix rose in the 2% and 3% ranges, respectively, while the KOSDAQ fell 0.91% to 1,199.18. The won-dollar exchange rate ended daytime trading at 1,454.0 won, down 1.1 won. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "KOSPIが7490.05で最高値更新、個人の約6兆ウォン買いが反発主導",
-        "excerpt": "5月7日のKOSPIは個人投資家による約6兆ウォンの買い越しを受け、前日比1.43%高の7490.05で終了し、日中の乱高下後に最高値を更新した。",
-        "body": "5月7日のKOSPI指数は前日比105.49ポイント、1.43%高の7490.05で取引を終え、過去最高値を再び更新した。指数は1.55%高で始まり、序盤に7500台へ乗せたが、外国人投資家の利益確定売りで7250台まで押される場面もあった。反転を支えたのは個人投資家だった。個人は有価証券市場で5兆9910億ウォンを買い越し、機関も1兆950億ウォンを買い越した。一方、外国人は7兆1510億ウォンを売り越した。サムスン電子とSKハイニックスはそれぞれ2%台、3%台上昇し、KOSDAQは0.91%安の1199.18で終了した。ウォン・ドル相場は1.1ウォン安の1454.0ウォンだった。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "KOSPI收于7490.05点创新高，散户近6万亿韩元净买入推升行情",
-        "excerpt": "5月7日，KOSPI在盘中震荡后收涨1.43%至7490.05点，再创历史新高，主要受到个人投资者约6万亿韩元净买入支撑。",
-        "body": "5月7日，KOSPI指数较上一交易日上涨105.49点，涨幅1.43%，收于7490.05点，再次刷新历史最高收盘位。该指数高开1.55%，盘初一度站上7500点，但因外国投资者获利了结卖盘出现，曾回落至7250点附近。推动指数转为上涨的是个人投资者。个人在有价证券市场净买入5.991万亿韩元，机构也净买入1.095万亿韩元。相反，外国投资者净卖出7.151万亿韩元。三星电子和SK海力士分别上涨2%多和3%多，KOSDAQ则下跌0.91%，收于1199.18点。韩元兑美元汇率下跌1.1韩元，报1454.0韩元。来源: hankyung.com."
-      },
-      "es": {
-        "title": "KOSPI cierra en récord de 7.490,05 impulsado por compras minoristas",
-        "excerpt": "El 7 de mayo, el KOSPI subió un 1,43% hasta 7.490,05 y marcó otro máximo histórico tras una sesión volátil, apoyado por compras minoristas cercanas a 6 billones de wones.",
-        "body": "El 7 de mayo, el índice KOSPI cerró en 7.490,05 puntos, 105,49 puntos o un 1,43% por encima de la sesión anterior, renovando su máximo histórico. El índice abrió con un avance del 1,55% y superó brevemente los 7.500 puntos al inicio, pero cayó hacia la zona de 7.250 por ventas de toma de ganancias de inversores extranjeros. La recuperación fue impulsada por los inversores minoristas. Los particulares compraron en neto 5,991 billones de wones en el mercado principal y las instituciones adquirieron 1,095 billones. En cambio, los extranjeros vendieron en neto 7,151 billones. Samsung Electronics y SK hynix subieron en torno al 2% y 3%, respectivamente, mientras el KOSDAQ bajó un 0,91% a 1.199,18. El won-dólar cerró en 1.454,0 wones, 1,1 won menos. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "KOSPI fecha em recorde de 7.490,05 com compra forte de investidores individuais",
-        "excerpt": "Em 7 de maio, o KOSPI avançou 1,43% para 7.490,05 e renovou a máxima histórica após oscilações intradiárias, sustentado por quase 6 trilhões de won em compras de pessoas físicas.",
-        "body": "Em 7 de maio, o índice KOSPI fechou em 7.490,05 pontos, alta de 105,49 pontos ou 1,43% frente à sessão anterior, renovando seu recorde histórico. O índice abriu em alta de 1,55% e chegou a superar os 7.500 pontos no início do pregão, mas recuou para a faixa de 7.250 com vendas de realização de lucro por investidores estrangeiros. A virada foi conduzida pelos investidores individuais. Pessoas físicas compraram 5,991 trilhões de won líquidos no mercado principal, enquanto instituições compraram 1,095 trilhão. Já estrangeiros venderam 7,151 trilhões de won líquidos. Samsung Electronics e SK hynix subiram na faixa de 2% e 3%, respectivamente, enquanto o KOSDAQ caiu 0,91% para 1.199,18. O won-dólar recuou 1,1 won, a 1.454,0 won. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "KOSPI schließt bei Rekord von 7.490,05 dank Käufen privater Anleger",
-        "excerpt": "Am 7. Mai schloss der KOSPI nach starken Schwankungen 1,43% höher bei 7.490,05 Punkten und markierte ein neues Rekordhoch, gestützt von fast 6 Billionen Won Nettokäufen privater Anleger.",
-        "body": "Am 7. Mai schloss der KOSPI bei 7.490,05 Punkten, 105,49 Punkte oder 1,43% über dem Vortag, und erneuerte damit sein Allzeithoch. Der Index startete 1,55% höher und stieg zu Handelsbeginn kurz über 7.500 Punkte, fiel aber wegen Gewinnmitnahmen ausländischer Investoren zeitweise in den Bereich von 7.250 Punkten zurück. Getragen wurde die Wende von privaten Anlegern. Sie kauften am Hauptmarkt netto 5,991 Billionen Won, während Institutionen 1,095 Billionen Won erwarben. Ausländische Investoren verkauften dagegen netto 7,151 Billionen Won. Samsung Electronics und SK hynix stiegen um mehr als 2% beziehungsweise 3%, während der KOSDAQ 0,91% auf 1.199,18 verlor. Der Won-Dollar-Kurs sank um 1,1 Won auf 1.454,0 Won. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Le KOSPI clôture au record de 7 490,05, porté par les achats des particuliers",
-        "excerpt": "Le 7 mai, le KOSPI a gagné 1,43% à 7 490,05 points et inscrit un nouveau record après une séance volatile, soutenu par près de 6 000 milliards de wons d’achats nets des particuliers.",
-        "body": "Le 7 mai, l’indice KOSPI a clôturé à 7 490,05 points, en hausse de 105,49 points ou 1,43% par rapport à la séance précédente, renouvelant son plus haut historique. L’indice a ouvert en hausse de 1,55% et a brièvement dépassé 7 500 points en début de séance, avant de reculer vers 7 250 points sous l’effet de prises de bénéfices des investisseurs étrangers. Le rebond a été mené par les investisseurs particuliers. Ils ont acheté 5 991 milliards de wons nets sur le marché principal, tandis que les institutions ont acquis 1 095 milliard de wons. Les étrangers ont vendu 7 151 milliards de wons nets. Samsung Electronics et SK hynix ont progressé respectivement de plus de 2% et 3%, tandis que le KOSDAQ a reculé de 0,91% à 1 199,18. Le taux won-dollar a baissé de 1,1 won à 1 454,0 wons. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "كوسبي يغلق عند مستوى قياسي 7490.05 بدعم مشتريات الأفراد القوية",
-        "excerpt": "في 7 مايو، أغلق مؤشر كوسبي مرتفعا 1.43% عند 7490.05 نقطة، مسجلا قمة تاريخية جديدة بعد تقلبات خلال الجلسة بدعم صافي شراء للأفراد يقارب 6 تريليونات وون.",
-        "body": "في 7 مايو، أغلق مؤشر كوسبي عند 7490.05 نقطة، مرتفعا 105.49 نقطة أو 1.43% عن الجلسة السابقة، ليجدد أعلى مستوى تاريخي له. افتتح المؤشر مرتفعا 1.55% وتجاوز 7500 نقطة في بداية التداول، لكنه تراجع إلى نطاق 7250 نقطة مع ظهور مبيعات لجني الأرباح من المستثمرين الأجانب. وقاد المستثمرون الأفراد التحول الصعودي. فقد سجل الأفراد صافي شراء قدره 5.991 تريليون وون في السوق الرئيسية، واشترت المؤسسات 1.095 تريليون وون. في المقابل، باع الأجانب صافيا بقيمة 7.151 تريليون وون. وارتفع سهما سامسونغ إلكترونيكس وSK hynix بنطاق 2% و3% على التوالي، بينما تراجع كوسداك 0.91% إلى 1199.18 نقطة. وانخفض سعر صرف الوون مقابل الدولار 1.1 وون إلى 1454.0 وون. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "KOSPI 7,490.05 के रिकॉर्ड पर बंद, खुदरा निवेशकों की खरीद से तेजी लौटी",
-        "excerpt": "7 मई को KOSPI 1.43% बढ़कर 7,490.05 पर बंद हुआ और दिनभर उतार-चढ़ाव के बाद नया रिकॉर्ड बनाया, क्योंकि व्यक्तिगत निवेशकों ने करीब 6 ट्रिलियन वॉन की शुद्ध खरीदारी की।",
-        "body": "7 मई को KOSPI सूचकांक पिछले सत्र से 105.49 अंक या 1.43% बढ़कर 7,490.05 पर बंद हुआ और फिर से सर्वकालिक उच्च स्तर पर पहुंचा। सूचकांक 1.55% की बढ़त के साथ खुला और शुरुआती कारोबार में 7,500 के ऊपर गया, लेकिन विदेशी निवेशकों की मुनाफावसूली से यह 7,250 के स्तर तक फिसला। तेजी की वापसी व्यक्तिगत निवेशकों ने कराई। व्यक्तियों ने मुख्य बाजार में 5.991 ट्रिलियन वॉन की शुद्ध खरीदारी की और संस्थानों ने 1.095 ट्रिलियन वॉन खरीदे। इसके विपरीत, विदेशियों ने 7.151 ट्रिलियन वॉन की शुद्ध बिक्री की। Samsung Electronics और SK hynix क्रमशः 2% और 3% के दायरे में चढ़े, जबकि KOSDAQ 0.91% गिरकर 1,199.18 पर बंद हुआ। वॉन-डॉलर दर 1.1 वॉन घटकर 1,454.0 वॉन रही। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "KOSPI Ditutup Rekor 7.490,05, Pembelian Investor Ritel Angkat Reli",
-        "excerpt": "Pada 7 Mei, KOSPI naik 1,43% ke 7.490,05 dan mencetak rekor tertinggi baru setelah bergerak volatil intrahari, didukung pembelian bersih investor ritel hampir 6 triliun won.",
-        "body": "Pada 7 Mei, indeks KOSPI ditutup di 7.490,05, naik 105,49 poin atau 1,43% dari sesi sebelumnya, sekaligus kembali memperbarui rekor tertinggi. Indeks dibuka menguat 1,55% dan sempat menembus 7.500 pada awal perdagangan, tetapi turun ke area 7.250 karena aksi ambil untung investor asing. Pembalikan dipimpin oleh investor individu. Investor ritel mencatat pembelian bersih 5,991 triliun won di pasar utama, sementara institusi membeli 1,095 triliun won. Sebaliknya, investor asing menjual bersih 7,151 triliun won. Samsung Electronics dan SK hynix masing-masing naik di kisaran 2% dan 3%, sedangkan KOSDAQ turun 0,91% ke 1.199,18. Kurs won-dolar turun 1,1 won menjadi 1.454,0 won. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "4d011f39eddf",
-    "slug": "한-달간-120-상승했다는데반도체-지분-가진-곳-찾아라-565079",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T20:08:45.627Z",
-    "updatedAt": "2026-05-07T20:08:45.627Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605071496i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605071496i",
-    "titleFingerprint": "b844d2fb39bb764efa18b0a317f32311866bc9f6",
-    "dedupKeys": [
-      "4d011f39eddf2597334215a03b34329e2b8db6bb",
-      "b844d2fb39bb764efa18b0a317f32311866bc9f6",
-      "a957b37d71a9734f4de7180d06c3cde3bc179cdb"
-    ],
-    "imageUrl": "/images/articles/4d011f39eddf.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 지분 보유 기업 주목, 한 달 120% 급등 이후 투자자 관심 집중",
-        "excerpt": "한국경제에 따르면 최근 한 달간 120% 상승한 사례가 언급되며, 투자자들 사이에서 반도체 관련 지분을 보유한 기업을 찾으려는 움직임이 주목받고 있다.",
-        "body": "최근 증시에서 한 달간 120% 상승했다는 사례가 거론되며 반도체 지분을 보유한 기업에 대한 관심이 커지고 있다. 투자자들은 직접 반도체 사업을 하는 기업뿐 아니라 관련 지분을 가진 곳까지 살피는 분위기다. 원문은 ‘반도체 지분 가진 곳 찾아라’는 제목으로 이 흐름을 전했다. 다만 제공된 정보에는 구체적인 기업명, 지분율, 상승 배경, 거래 규모 등 세부 수치는 포함되지 않았다. 따라서 이번 보도는 반도체 테마와 지분 보유 여부가 투자 판단의 관심 요소로 부각되고 있다는 점에 초점을 맞춘다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Semiconductor Stake Holders Draw Attention After a 120% One-Month Surge",
-        "excerpt": "According to Hankyung, a reported 120% rise over one month has put companies holding semiconductor-related stakes under investor scrutiny.",
-        "body": "A recent market report has drawn attention to companies that hold stakes related to semiconductors after a case of a 120% rise over one month was cited. Investors are looking not only at companies directly operating semiconductor businesses, but also at firms with relevant equity interests. The original report framed the trend with the headline urging readers to find companies that own semiconductor stakes. The provided source does not include specific company names, stake ratios, reasons for the increase, or trading figures. Therefore, the focus is limited to the fact that semiconductor exposure through equity holdings has become a point of investor interest. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "半導体株式を持つ企業に注目、1カ月120％上昇後に関心拡大",
-        "excerpt": "韓国経済新聞によると、1カ月で120％上昇した事例が取り上げられ、半導体関連の持ち分を保有する企業を探す動きが注目されている。",
-        "body": "最近の株式市場では、1カ月で120％上昇したという事例が取り上げられ、半導体関連の持ち分を保有する企業への関心が高まっている。投資家は半導体事業を直接手がける企業だけでなく、関連株式を持つ企業にも目を向けている。原文は「半導体の持ち分を持つ企業を探せ」という趣旨の見出しで、この流れを伝えた。ただし、提供された情報には具体的な企業名、持ち分比率、上昇の背景、取引規模などの詳細は含まれていない。したがって本記事は、半導体テーマと持ち分保有の有無が投資判断の注目点になっている事実に限定して伝える。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "持有半导体股权企业受关注，一个月上涨120%后投资者聚焦",
-        "excerpt": "据韩国经济新闻报道，市场提到一个月上涨120%的案例后，投资者开始关注持有半导体相关股权的企业。",
-        "body": "近期股市中，一个月上涨120%的案例被提及，持有半导体相关股权的企业因此受到更多关注。投资者不仅关注直接经营半导体业务的公司，也开始寻找拥有相关股权的企业。原文以“寻找持有半导体股权的地方”为题，报道了这一市场动向。不过，所提供的信息并未包含具体公司名称、持股比例、上涨背景或交易规模等细节。因此，本文仅限于说明半导体主题以及是否持有相关股权，正成为投资判断中的关注因素。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Empresas con participaciones en semiconductores atraen miradas tras subir 120%",
-        "excerpt": "Según Hankyung, tras mencionarse un avance del 120% en un mes, los inversores observan a compañías con participaciones vinculadas a semiconductores.",
-        "body": "Un reciente reporte de mercado destacó el interés por empresas que poseen participaciones relacionadas con semiconductores, después de citarse un caso de subida del 120% en un mes. Los inversores no solo miran a compañías que operan directamente en el negocio de semiconductores, sino también a firmas con exposición mediante participaciones. El texto original presentó esta tendencia con el enfoque de buscar compañías que tengan participaciones en semiconductores. La información disponible no incluye nombres concretos de empresas, porcentajes de participación, causas del alza ni volúmenes de negociación. Por ello, el artículo se limita a señalar que la exposición al tema de semiconductores mediante participaciones se ha convertido en un factor de interés para los inversores. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Empresas com fatias em semicondutores ganham foco após alta de 120%",
-        "excerpt": "Segundo o Hankyung, a menção a uma alta de 120% em um mês levou investidores a observar empresas com participações ligadas a semicondutores.",
-        "body": "Um relatório recente de mercado chamou atenção para empresas que detêm participações relacionadas a semicondutores, depois de citar um caso de alta de 120% em um mês. Investidores passaram a olhar não apenas para companhias que atuam diretamente no setor de semicondutores, mas também para aquelas que possuem exposição por meio de participações. O texto original apresentou essa tendência com o enfoque de procurar empresas com fatias em semicondutores. As informações fornecidas não incluem nomes específicos de empresas, percentuais de participação, motivos da alta ou volumes de negociação. Assim, o foco fica restrito ao fato de que o tema de semicondutores e a posse de participações relacionadas se tornaram pontos de interesse na avaliação dos investidores. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Firmen mit Halbleiterbeteiligungen rücken nach 120% Monatsplus in den Fokus",
-        "excerpt": "Laut Hankyung richtet sich der Blick von Anlegern nach einem erwähnten Anstieg von 120% in einem Monat auf Unternehmen mit Halbleiterbeteiligungen.",
-        "body": "Ein aktueller Marktbericht lenkt die Aufmerksamkeit auf Unternehmen mit Beteiligungen im Halbleiterbereich, nachdem ein Anstieg von 120% innerhalb eines Monats erwähnt wurde. Anleger betrachten nicht nur Firmen, die direkt im Halbleitergeschäft tätig sind, sondern auch Unternehmen mit entsprechenden Beteiligungen. Der Originalbericht stellte diesen Trend mit der Aufforderung dar, nach Unternehmen mit Halbleiteranteilen zu suchen. Die bereitgestellten Informationen enthalten jedoch keine konkreten Unternehmensnamen, Beteiligungsquoten, Gründe für den Kursanstieg oder Handelsvolumina. Daher beschränkt sich dieser Artikel auf die Feststellung, dass das Halbleiterthema und entsprechende Beteiligungen als Faktor für Anlageentscheidungen stärker in den Fokus rücken. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les participations dans les semi-conducteurs attirent après une hausse de 120%",
-        "excerpt": "Selon Hankyung, la mention d’une hausse de 120% en un mois pousse les investisseurs à regarder les sociétés détenant des participations liées aux semi-conducteurs.",
-        "body": "Un récent article de marché a mis en avant l’intérêt pour les sociétés détenant des participations liées aux semi-conducteurs, après la mention d’un cas de hausse de 120% en un mois. Les investisseurs ne regardent pas seulement les entreprises actives directement dans les semi-conducteurs, mais aussi celles qui possèdent des participations connexes. Le texte original présentait cette tendance autour de l’idée de rechercher les sociétés ayant des participations dans les semi-conducteurs. Les informations fournies ne donnent toutefois pas de noms d’entreprises, de niveaux de participation, de raisons de la hausse ni de volumes d’échange. L’article se limite donc au fait que l’exposition au thème des semi-conducteurs par des participations devient un élément d’attention pour les investisseurs. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "شركات تملك حصصا في أشباه الموصلات تجذب الأنظار بعد صعود 120%",
-        "excerpt": "بحسب هانكيونغ، أدى ذكر حالة صعود بنسبة 120% خلال شهر واحد إلى زيادة اهتمام المستثمرين بالشركات المالكة لحصص مرتبطة بأشباه الموصلات.",
-        "body": "أثار تقرير سوقي حديث اهتماما بالشركات التي تمتلك حصصا مرتبطة بقطاع أشباه الموصلات، بعد الإشارة إلى حالة صعود بنسبة 120% خلال شهر واحد. وينظر المستثمرون ليس فقط إلى الشركات التي تعمل مباشرة في أعمال أشباه الموصلات، بل أيضا إلى الشركات التي لديها تعرض لهذا القطاع عبر حصص ملكية. وقد عرض النص الأصلي هذا الاتجاه من خلال عنوان يدعو إلى البحث عن الجهات التي تمتلك حصصا في أشباه الموصلات. ولا تتضمن المعلومات المتاحة أسماء شركات محددة أو نسب ملكية أو أسباب الصعود أو أحجام التداول. لذلك يقتصر هذا الخبر على توضيح أن موضوع أشباه الموصلات وامتلاك حصص مرتبطة به أصبحا من عناصر اهتمام المستثمرين. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर हिस्सेदारी वाली कंपनियों पर नजर, एक महीने में 120% उछाल के बाद रुचि",
-        "excerpt": "Hankyung के अनुसार, एक महीने में 120% बढ़त के उदाहरण के बाद निवेशकों का ध्यान सेमीकंडक्टर से जुड़ी हिस्सेदारी रखने वाली कंपनियों पर गया है।",
-        "body": "हालिया बाजार रिपोर्ट में एक महीने में 120% बढ़त के उदाहरण का उल्लेख होने के बाद सेमीकंडक्टर से जुड़ी हिस्सेदारी रखने वाली कंपनियों में रुचि बढ़ी है। निवेशक केवल सीधे सेमीकंडक्टर कारोबार करने वाली कंपनियों को ही नहीं, बल्कि संबंधित हिस्सेदारी रखने वाली कंपनियों को भी देख रहे हैं। मूल रिपोर्ट ने इस रुझान को ऐसे शीर्षक के साथ प्रस्तुत किया कि सेमीकंडक्टर हिस्सेदारी रखने वाली जगहों को खोजा जाए। उपलब्ध जानकारी में किसी विशिष्ट कंपनी का नाम, हिस्सेदारी प्रतिशत, बढ़त का कारण या कारोबार का आकार शामिल नहीं है। इसलिए यह लेख केवल इस तथ्य तक सीमित है कि सेमीकंडक्टर थीम और उससे जुड़ी हिस्सेदारी निवेशकों के लिए ध्यान का विषय बन रही है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Pemilik Saham Semikonduktor Disorot Setelah Kenaikan 120% Sebulan",
-        "excerpt": "Menurut Hankyung, setelah disebut ada kenaikan 120% dalam satu bulan, investor mulai memperhatikan perusahaan yang memiliki saham terkait semikonduktor.",
-        "body": "Laporan pasar terbaru menyoroti meningkatnya perhatian pada perusahaan yang memiliki kepemilikan terkait semikonduktor setelah disebut adanya kasus kenaikan 120% dalam satu bulan. Investor tidak hanya melihat perusahaan yang langsung menjalankan bisnis semikonduktor, tetapi juga perusahaan yang memiliki eksposur melalui kepemilikan saham terkait. Artikel asli menyampaikan tren ini dengan sudut pandang mencari pihak yang memiliki saham semikonduktor. Namun, informasi yang tersedia tidak mencantumkan nama perusahaan tertentu, rasio kepemilikan, alasan kenaikan, atau nilai transaksi. Karena itu, artikel ini terbatas pada fakta bahwa tema semikonduktor dan kepemilikan saham terkait sedang menjadi faktor perhatian dalam penilaian investor. Sumber: hankyung.com"
       }
     }
   }
