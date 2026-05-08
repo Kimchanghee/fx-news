@@ -1,5 +1,230 @@
 [
   {
+    "id": "664532d5ef6b",
+    "slug": "대만-서버기업-하나-매출-44조원인데변변한-국산-서버-기업-하나-없는-한국-762018",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T05:58:33.180Z",
+    "updatedAt": "2026-05-08T05:58:33.180Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12041022",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12041022",
+    "titleFingerprint": "c4eb9a12208df457d439ef79295ec39744e5d43a",
+    "dedupKeys": [
+      "664532d5ef6b2f9a0776f883b20ca5bf3d2e88dc",
+      "c4eb9a12208df457d439ef79295ec39744e5d43a",
+      "b6e88df34dcd25bb214270cfde7baa10d830e761"
+    ],
+    "imageUrl": "/images/articles/664532d5ef6b.png",
+    "i18n": {
+      "ko": {
+        "title": "AI 서버 수출로 뜬 대만, 매출 44조 서버기업과 한국의 격차",
+        "excerpt": "최근 대만은 빅테크의 AI 서버 주문 증가로 서버가 수출 1위 품목에 오르고 위윈 매출이 2.6배 늘었지만, 한국은 국산 서버 제조 기반이 약하다는 지적이 나온다.",
+        "body": "최근 대만의 인공지능(AI) 서버 산업이 빅테크 주문 확대를 타고 빠르게 성장하면서 한국 서버 제조 생태계의 취약성이 함께 부각되고 있다. 원문에 따르면 대만의 수출 1위 품목은 서버이며, AI 서버 주문 증가에 힘입어 서버 제조사 위윈의 매출은 2.6배 늘었다. 한 대만 서버기업의 매출은 44조원 규모로 거론됐다. 반면 한국은 변변한 국산 서버 기업이 없고, 서버 제조가 주로 중소기업 중심으로 이뤄지는 상황으로 전해졌다. AI 인프라 수요가 커지는 가운데 한국도 경쟁력 있는 서버 제조사를 키워야 한다는 주장이 제기된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Taiwan’s AI server boom highlights Korea’s lack of major local makers",
+        "excerpt": "Taiwan has seen servers become its top export as Big Tech AI server orders rise and Wiwynn’s revenue jumps 2.6 times, while Korea’s domestic server base remains weak.",
+        "body": "Taiwan’s artificial intelligence server industry is growing rapidly as Big Tech expands AI server orders, drawing attention to the weakness of Korea’s server manufacturing ecosystem. According to the original report, servers have become Taiwan’s No. 1 export item, and server maker Wiwynn’s revenue rose 2.6 times on the back of stronger AI server demand. One Taiwanese server company was cited as generating about 44 trillion won in revenue. In contrast, Korea reportedly lacks a significant domestic server manufacturer, with production centered mainly on small and midsize firms. As demand for AI infrastructure grows, the report says Korea needs to foster competitive server makers. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "AIサーバー輸出で伸びる台湾、売上44兆ウォン企業と韓国の差",
+        "excerpt": "台湾ではビッグテックのAIサーバー注文増でサーバーが輸出1位品目となり、ウィウィンの売上が2.6倍に増えた一方、韓国は国産基盤の弱さが指摘されている。",
+        "body": "最近、台湾の人工知能（AI）サーバー産業がビッグテックの注文拡大を追い風に急成長し、韓国のサーバー製造エコシステムの脆弱さも浮き彫りになっている。原文によると、台湾の輸出1位品目はサーバーで、AIサーバー注文の増加に支えられ、サーバーメーカーのウィウィンの売上は2.6倍に増えた。台湾のあるサーバー企業の売上は44兆ウォン規模とされた。一方、韓国には目立った国産サーバー企業がなく、サーバー製造は主に中小企業中心に行われているという。AIインフラ需要が拡大する中、韓国も競争力あるサーバーメーカーを育成すべきだとの声が出ている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "台湾AI服务器出口走强，44万亿韩元企业凸显韩国差距",
+        "excerpt": "近期，随着大型科技公司AI服务器订单增加，服务器成为台湾第一大出口品，纬颖营收增长2.6倍，而韩国本土服务器制造基础薄弱受到关注。",
+        "body": "近期，台湾人工智能（AI）服务器产业借助大型科技公司订单增加迅速增长，也凸显出韩国服务器制造生态的薄弱。原文称，服务器已成为台湾出口第一大品类，受AI服务器订单增加推动，服务器制造商纬颖的营收增长2.6倍。一家台湾服务器企业的营收规模被提及为44万亿韩元。相比之下，韩国缺少像样的本土服务器企业，服务器制造主要由中小企业承担。随着AI基础设施需求扩大，有观点认为韩国也需要培育具有竞争力的服务器制造商。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El auge de servidores de IA en Taiwán expone la brecha industrial de Corea",
+        "excerpt": "Taiwán convirtió los servidores en su principal exportación por más pedidos de IA de Big Tech y Wiwynn elevó sus ingresos 2,6 veces, mientras Corea carece de grandes fabricantes locales.",
+        "body": "La industria taiwanesa de servidores de inteligencia artificial crece con rapidez por el aumento de pedidos de servidores de IA de las grandes tecnológicas, lo que también pone de relieve la debilidad del ecosistema coreano de fabricación de servidores. Según el texto original, los servidores son el principal producto de exportación de Taiwán, y los ingresos del fabricante Wiwynn aumentaron 2,6 veces gracias a esa demanda. Una empresa taiwanesa del sector fue citada con ingresos de unos 44 billones de wones. En cambio, Corea no cuenta con un fabricante local destacado y la producción se concentra sobre todo en pymes. Ante la expansión de la infraestructura de IA, se plantea que Corea debe impulsar fabricantes competitivos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Boom de servidores de IA em Taiwan expõe lacuna da Coreia no setor",
+        "excerpt": "Com mais encomendas de servidores de IA das big techs, servidores viraram o principal item de exportação de Taiwan e a Wiwynn elevou a receita 2,6 vezes; a Coreia segue sem grande fabricante local.",
+        "body": "A indústria taiwanesa de servidores de inteligência artificial cresce rapidamente com a ampliação das encomendas de servidores de IA pelas big techs, destacando também a fragilidade do ecossistema coreano de fabricação de servidores. Segundo o texto original, servidores são o principal item de exportação de Taiwan, e a receita da fabricante Wiwynn aumentou 2,6 vezes com a demanda maior por servidores de IA. Uma empresa taiwanesa do setor foi citada com receita de cerca de 44 trilhões de wones. Em contraste, a Coreia não teria uma fabricante nacional relevante, com a produção concentrada principalmente em pequenas e médias empresas. Com a demanda por infraestrutura de IA em alta, cresce o argumento de que a Coreia deve formar fabricantes competitivos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Taiwans KI-Server-Boom zeigt Koreas Lücke bei eigenen Herstellern",
+        "excerpt": "In Taiwan sind Server durch steigende KI-Aufträge der Big Techs zum wichtigsten Exportgut geworden, Wiwynn steigerte den Umsatz um das 2,6-Fache; Korea fehlt ein großer heimischer Anbieter.",
+        "body": "Taiwans Branche für Server im Bereich künstliche Intelligenz wächst rasant, weil Big-Tech-Unternehmen mehr KI-Server bestellen. Gleichzeitig wird die Schwäche des koreanischen Server-Ökosystems sichtbar. Dem Originalbericht zufolge sind Server Taiwans wichtigstes Exportgut, und der Hersteller Wiwynn steigerte seinen Umsatz dank höherer KI-Server-Nachfrage um das 2,6-Fache. Ein taiwanisches Serverunternehmen wurde mit einem Umsatz von rund 44 Billionen Won genannt. Korea verfügt dagegen Berichten zufolge über keinen bedeutenden heimischen Serverhersteller; die Produktion liegt vor allem bei kleinen und mittleren Unternehmen. Angesichts der wachsenden Nachfrage nach KI-Infrastruktur wird gefordert, Korea solle wettbewerbsfähige Serverhersteller aufbauen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’essor des serveurs IA à Taïwan révèle le retard industriel coréen",
+        "excerpt": "À Taïwan, les serveurs sont devenus le premier produit d’exportation grâce aux commandes IA des Big Tech, et Wiwynn a vu son chiffre d’affaires multiplié par 2,6, contrairement à la Corée.",
+        "body": "L’industrie taïwanaise des serveurs d’intelligence artificielle progresse rapidement avec l’augmentation des commandes de serveurs IA par les grandes entreprises technologiques, mettant aussi en évidence la faiblesse de l’écosystème coréen de fabrication de serveurs. Selon le texte d’origine, les serveurs sont le premier produit d’exportation de Taïwan, et le fabricant Wiwynn a vu son chiffre d’affaires multiplié par 2,6 grâce à cette demande. Une entreprise taïwanaise du secteur est citée avec environ 44 billions de wons de revenus. À l’inverse, la Corée ne disposerait pas d’un fabricant national majeur, la production reposant surtout sur des PME. Avec la hausse de la demande d’infrastructures IA, l’idée de développer des fabricants coréens compétitifs est avancée. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "طفرة خوادم الذكاء الاصطناعي في تايوان تكشف فجوة كوريا الصناعية",
+        "excerpt": "أصبحت الخوادم أكبر صادرات تايوان مع زيادة طلبات خوادم الذكاء الاصطناعي من شركات التكنولوجيا الكبرى وارتفاع إيرادات Wiwynn 2.6 مرة، بينما تفتقر كوريا إلى قاعدة محلية قوية.",
+        "body": "تنمو صناعة خوادم الذكاء الاصطناعي في تايوان بسرعة مع توسع طلبات شركات التكنولوجيا الكبرى، ما يسلط الضوء أيضا على ضعف منظومة تصنيع الخوادم في كوريا. ووفق النص الأصلي، أصبحت الخوادم البند الأول في صادرات تايوان، وارتفعت إيرادات شركة Wiwynn المصنعة للخوادم 2.6 مرة بفضل زيادة طلبات خوادم الذكاء الاصطناعي. كما ذُكر أن إيرادات إحدى شركات الخوادم التايوانية تبلغ نحو 44 تريليون وون. في المقابل، لا تمتلك كوريا شركة خوادم محلية بارزة، ويتركز التصنيع أساسا لدى الشركات الصغيرة والمتوسطة. ومع نمو الطلب على بنية الذكاء الاصطناعي، تبرز دعوات إلى تنمية شركات كورية قادرة على المنافسة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ताइवान के AI सर्वर उछाल ने कोरिया की घरेलू विनिर्माण कमी उजागर की",
+        "excerpt": "बिग टेक के AI सर्वर ऑर्डर बढ़ने से सर्वर ताइवान का शीर्ष निर्यात बन गया और Wiwynn का राजस्व 2.6 गुना बढ़ा, जबकि कोरिया में मजबूत घरेलू सर्वर निर्माता नहीं है।",
+        "body": "ताइवान का कृत्रिम बुद्धिमत्ता यानी AI सर्वर उद्योग बिग टेक कंपनियों के बढ़ते ऑर्डर के साथ तेजी से बढ़ रहा है, जिससे कोरिया के सर्वर विनिर्माण पारिस्थितिकी तंत्र की कमजोरी भी सामने आई है। मूल रिपोर्ट के अनुसार, सर्वर ताइवान का नंबर एक निर्यात उत्पाद बन गया है और AI सर्वर मांग बढ़ने से सर्वर निर्माता Wiwynn का राजस्व 2.6 गुना बढ़ा। ताइवान की एक सर्वर कंपनी का राजस्व लगभग 44 ट्रिलियन वॉन बताया गया। इसके विपरीत, कोरिया में कोई प्रमुख घरेलू सर्वर निर्माता नहीं है और उत्पादन मुख्य रूप से छोटी व मध्यम कंपनियों पर निर्भर है। AI अवसंरचना की मांग बढ़ने के बीच, कोरिया में प्रतिस्पर्धी सर्वर निर्माताओं को विकसित करने की जरूरत बताई जा रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Lonjakan server AI Taiwan soroti lemahnya produsen server lokal Korea",
+        "excerpt": "Server menjadi ekspor utama Taiwan saat pesanan server AI dari Big Tech meningkat dan pendapatan Wiwynn naik 2,6 kali, sementara Korea dinilai belum memiliki produsen server lokal besar.",
+        "body": "Industri server kecerdasan buatan atau AI Taiwan tumbuh cepat seiring meningkatnya pesanan server AI dari perusahaan teknologi besar, sekaligus menyoroti lemahnya ekosistem manufaktur server Korea. Menurut teks asli, server kini menjadi komoditas ekspor nomor satu Taiwan, dan pendapatan produsen server Wiwynn naik 2,6 kali berkat kenaikan permintaan server AI. Satu perusahaan server Taiwan disebut memiliki pendapatan sekitar 44 triliun won. Sebaliknya, Korea dilaporkan belum memiliki produsen server lokal yang menonjol, dengan produksi terutama dilakukan oleh usaha kecil dan menengah. Di tengah meningkatnya kebutuhan infrastruktur AI, muncul pandangan bahwa Korea juga perlu membesarkan produsen server yang kompetitif. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "21cb11876bf5",
+    "slug": "호르무즈-봉쇄-후-우회한국-유조선-네번째-홍해-안전-통과-135818",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T05:57:15.904Z",
+    "updatedAt": "2026-05-08T05:57:15.904Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12041029",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12041029",
+    "titleFingerprint": "b69a2100c4eeebf742ad02cad87385d097eedc73",
+    "dedupKeys": [
+      "21cb11876bf51f4c7d4e57e20150a421d2ac5220",
+      "b69a2100c4eeebf742ad02cad87385d097eedc73",
+      "ccd1265789b2e9cd497a986c9865ccc02939843c"
+    ],
+    "imageUrl": "/images/articles/21cb11876bf5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "호르무즈 봉쇄 후 홍해 우회한 한국 유조선, 네 번째 안전 통과로 원유 국내 운송",
+        "excerpt": "해양수산부는 5월 8일 오전 11시 기준 중동 전쟁으로 호르무즈 해협이 봉쇄된 뒤 네 번째 한국 선박이 우회로인 홍해를 안전하게 통과했다고 밝혔다.",
+        "body": "중동 전쟁으로 호르무즈 해협이 봉쇄된 이후 네 번째 한국 선박이 우회 항로인 홍해를 안전하게 통과해 국내로 원유를 운송하게 됐다. 해양수산부는 5월 8일 오전 11시 기준 네 번째 우리 선박이 홍해를 통과했다고 밝혔다. 이번 통과는 호르무즈 해협 봉쇄 이후 한국 선박들이 원유 수송을 위해 홍해 우회로를 이용한 사례가 이어지고 있음을 보여준다. 원유 운송은 국내 에너지 공급과 직결되는 만큼, 우회 항로의 안전한 통과 여부가 계속 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korean tanker safely clears Red Sea as fourth vessel reroutes after Hormuz closure",
+        "excerpt": "South Korea’s Ministry of Oceans and Fisheries said that as of 11 a.m. on May 8, a fourth Korean vessel had safely passed through the Red Sea after the Strait of Hormuz was closed by the Middle East war.",
+        "body": "A fourth Korean vessel has safely passed through the Red Sea, a rerouting corridor, after the Strait of Hormuz was closed due to the Middle East war, allowing it to carry crude oil to South Korea. The Ministry of Oceans and Fisheries said that as of 11 a.m. on May 8, the fourth Korean ship had cleared the Red Sea. The passage shows that Korean vessels have continued to use the Red Sea detour for crude oil transport since the Hormuz closure. Because crude shipments are directly tied to domestic energy supply, the safe passage of this alternative route remains closely watched. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ホルムズ封鎖後に紅海へ迂回、韓国タンカー4隻目が安全通過し原油を国内輸送",
+        "excerpt": "韓国海洋水産部は5月8日午前11時時点で、中東戦争によりホルムズ海峡が封鎖された後、4隻目の韓国船舶が迂回路の紅海を安全に通過したと明らかにした。",
+        "body": "中東戦争によりホルムズ海峡が封鎖された後、4隻目の韓国船舶が迂回航路である紅海を安全に通過し、韓国国内へ原油を輸送することになった。韓国海洋水産部は5月8日午前11時時点で、4隻目の韓国船舶が紅海を通過したと発表した。今回の通過は、ホルムズ海峡封鎖後、韓国船舶が原油輸送のため紅海迂回路を利用する事例が続いていることを示す。原油輸送は国内エネルギー供給に直結するため、迂回航路の安全な通過状況が引き続き注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "霍尔木兹封锁后改道红海，韩国油轮第四次安全通过并运送原油回国",
+        "excerpt": "韩国海洋水产部表示，截至5月8日上午11时，因中东战争导致霍尔木兹海峡被封锁后，第四艘韩国船舶已安全通过替代航线红海。",
+        "body": "因中东战争导致霍尔木兹海峡被封锁后，第四艘韩国船舶已安全通过作为替代航线的红海，并将向韩国国内运送原油。韩国海洋水产部表示，截至5月8日上午11时，第四艘韩国船舶已经通过红海。此次通行显示，在霍尔木兹海峡封锁之后，韩国船舶为运输原油而继续使用红海绕行路线。由于原油运输直接关系到韩国国内能源供应，替代航线能否安全通行仍受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Petrolero surcoreano pasa seguro el mar Rojo como cuarto buque tras el cierre de Ormuz",
+        "excerpt": "El Ministerio de Océanos y Pesca de Corea del Sur informó que, a las 11:00 del 8 de mayo, un cuarto buque surcoreano había cruzado con seguridad el mar Rojo tras el cierre del estrecho de Ormuz por la guerra en Oriente Medio.",
+        "body": "Un cuarto buque surcoreano pasó con seguridad por el mar Rojo, ruta alternativa, después de que el estrecho de Ormuz quedara bloqueado por la guerra en Oriente Medio, y transportará crudo hacia Corea del Sur. El Ministerio de Océanos y Pesca informó que, a las 11:00 del 8 de mayo, el cuarto buque surcoreano había cruzado el mar Rojo. El paso muestra que los buques surcoreanos siguen usando esta ruta de desvío para transportar petróleo desde el cierre de Ormuz. Como el transporte de crudo está ligado al suministro energético interno, la seguridad de la ruta alternativa sigue bajo atención. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Petroleiro sul-coreano passa pelo mar Vermelho, quarto navio após bloqueio de Ormuz",
+        "excerpt": "O Ministério dos Oceanos e Pesca da Coreia do Sul informou que, às 11h de 8 de maio, um quarto navio sul-coreano havia passado com segurança pelo mar Vermelho após o bloqueio do estreito de Ormuz pela guerra no Oriente Médio.",
+        "body": "Um quarto navio sul-coreano passou com segurança pelo mar Vermelho, rota alternativa, depois que o estreito de Ormuz foi bloqueado pela guerra no Oriente Médio, permitindo o transporte de petróleo bruto para a Coreia do Sul. O Ministério dos Oceanos e Pesca informou que, às 11h de 8 de maio, o quarto navio sul-coreano havia cruzado o mar Vermelho. A passagem mostra que embarcações sul-coreanas continuam usando o desvio pelo mar Vermelho para transportar petróleo desde o bloqueio de Ormuz. Como esse transporte está ligado ao abastecimento energético doméstico, a segurança da rota alternativa segue em foco. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Südkoreanischer Tanker passiert Rotes Meer als viertes Schiff nach Sperrung von Hormus",
+        "excerpt": "Südkoreas Ministerium für Ozeane und Fischerei teilte mit, dass bis 11 Uhr am 8. Mai ein viertes südkoreanisches Schiff nach der kriegsbedingten Sperrung der Straße von Hormus sicher das Rote Meer passiert habe.",
+        "body": "Ein viertes südkoreanisches Schiff hat nach der Sperrung der Straße von Hormus infolge des Kriegs im Nahen Osten sicher das Rote Meer als Ausweichroute passiert und wird Rohöl nach Südkorea transportieren. Das Ministerium für Ozeane und Fischerei erklärte, dass bis 11 Uhr am 8. Mai das vierte südkoreanische Schiff das Rote Meer durchquert habe. Die Passage zeigt, dass südkoreanische Schiffe seit der Hormus-Sperrung weiter die Route über das Rote Meer für Rohöltransporte nutzen. Da Rohöllieferungen direkt mit der heimischen Energieversorgung verbunden sind, bleibt die sichere Nutzung der Ausweichroute im Fokus. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Un pétrolier sud-coréen franchit la mer Rouge, quatrième passage depuis le blocage d’Ormuz",
+        "excerpt": "Le ministère sud-coréen des Océans et de la Pêche a indiqué qu’à 11 h le 8 mai, un quatrième navire sud-coréen avait traversé en sécurité la mer Rouge après la fermeture du détroit d’Ormuz due à la guerre au Moyen-Orient.",
+        "body": "Un quatrième navire sud-coréen a traversé en sécurité la mer Rouge, route de contournement, après la fermeture du détroit d’Ormuz provoquée par la guerre au Moyen-Orient, afin d’acheminer du pétrole brut vers la Corée du Sud. Le ministère des Océans et de la Pêche a déclaré qu’à 11 h le 8 mai, le quatrième navire sud-coréen avait franchi la mer Rouge. Ce passage montre que les navires sud-coréens continuent d’utiliser cette déviation pour le transport de brut depuis le blocage d’Ormuz. Le transport pétrolier étant lié à l’approvisionnement énergétique national, la sécurité de cette route reste surveillée. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ناقلة كورية تعبر البحر الأحمر بأمان كرابع سفينة بعد إغلاق مضيق هرمز",
+        "excerpt": "قالت وزارة المحيطات والثروة السمكية في كوريا الجنوبية إنه حتى الساعة 11 صباحا في 8 مايو، عبرت سفينة كورية رابعة البحر الأحمر بأمان بعد إغلاق مضيق هرمز بسبب حرب الشرق الأوسط.",
+        "body": "عبرت سفينة كورية جنوبية رابعة البحر الأحمر بأمان، باعتباره مسارا بديلا، بعد إغلاق مضيق هرمز نتيجة حرب الشرق الأوسط، لتتمكن من نقل النفط الخام إلى كوريا الجنوبية. وذكرت وزارة المحيطات والثروة السمكية أنه حتى الساعة 11 صباحا في 8 مايو، كانت السفينة الكورية الرابعة قد اجتازت البحر الأحمر. ويظهر هذا العبور أن السفن الكورية تواصل استخدام طريق البحر الأحمر الالتفافي لنقل النفط الخام منذ إغلاق هرمز. وبما أن نقل النفط يرتبط مباشرة بإمدادات الطاقة المحلية، فإن سلامة المرور عبر هذا المسار البديل لا تزال محل متابعة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "हॉर्मुज बंद होने के बाद लाल सागर से निकला कोरियाई टैंकर, चौथा सुरक्षित पारगमन",
+        "excerpt": "दक्षिण कोरिया के महासागर और मत्स्य मंत्रालय ने कहा कि 8 मई सुबह 11 बजे तक, मध्य पूर्व युद्ध से हॉर्मुज जलडमरूमध्य बंद होने के बाद चौथा कोरियाई जहाज लाल सागर से सुरक्षित गुजर चुका था।",
+        "body": "मध्य पूर्व युद्ध के कारण हॉर्मुज जलडमरूमध्य बंद होने के बाद चौथा दक्षिण कोरियाई जहाज वैकल्पिक मार्ग लाल सागर से सुरक्षित गुजर गया और अब वह कच्चा तेल दक्षिण कोरिया पहुंचाएगा। महासागर और मत्स्य मंत्रालय ने बताया कि 8 मई सुबह 11 बजे तक चौथा कोरियाई जहाज लाल सागर पार कर चुका था। यह पारगमन दिखाता है कि हॉर्मुज बंद होने के बाद कोरियाई जहाज कच्चे तेल की ढुलाई के लिए लाल सागर के वैकल्पिक मार्ग का उपयोग जारी रखे हुए हैं। चूंकि कच्चे तेल की ढुलाई घरेलू ऊर्जा आपूर्ति से सीधे जुड़ी है, इसलिए इस मार्ग की सुरक्षित आवाजाही पर ध्यान बना हुआ है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kapal tanker Korea aman lewati Laut Merah, kapal keempat setelah Hormuz ditutup",
+        "excerpt": "Kementerian Kelautan dan Perikanan Korea Selatan menyatakan bahwa hingga pukul 11.00 pada 8 Mei, kapal Korea keempat telah aman melewati Laut Merah setelah Selat Hormuz ditutup akibat perang di Timur Tengah.",
+        "body": "Kapal Korea Selatan keempat telah melewati Laut Merah dengan aman sebagai rute pengalihan setelah Selat Hormuz ditutup akibat perang di Timur Tengah, sehingga dapat mengangkut minyak mentah ke dalam negeri. Kementerian Kelautan dan Perikanan menyatakan bahwa hingga pukul 11.00 pada 8 Mei, kapal Korea keempat sudah melintasi Laut Merah. Perlintasan ini menunjukkan bahwa kapal-kapal Korea terus menggunakan jalur pengalihan Laut Merah untuk pengiriman minyak mentah sejak penutupan Hormuz. Karena pengangkutan minyak terkait langsung dengan pasokan energi domestik, keselamatan jalur alternatif ini tetap menjadi perhatian. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "d95fad146960",
+    "slug": "반려동물-헬스케어-노즈워크-딥테크-팁스-최종-선정-642292",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T05:56:01.911Z",
+    "updatedAt": "2026-05-08T05:56:01.911Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12041084",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12041084",
+    "titleFingerprint": "2ef068dbbc0438287cb36a48c1251c46a22feb0e",
+    "dedupKeys": [
+      "d95fad146960d1f7dac58e9d1bb9448fa83b326b",
+      "2ef068dbbc0438287cb36a48c1251c46a22feb0e",
+      "34d99575cafec0137343efcdf2d467f4a88c3926"
+    ],
+    "imageUrl": "/images/articles/d95fad146960.jpg",
+    "i18n": {
+      "ko": {
+        "title": "노즈워크, 딥테크 팁스 최종 선정…반려동물 헬스케어 R&D 15억원 확보",
+        "excerpt": "반려동물 헬스케어 스타트업 노즈워크가 8일 중소벤처기업부 팁스 딥테크 트랙에 최종 선정돼 3년간 R&D 자금 15억원을 확보했다고 밝혔다.",
+        "body": "반려동물 헬스케어 스타트업 노즈워크가 8일 중소벤처기업부의 기술창업 지원 프로그램인 팁스 ‘딥테크 트랙’에 최종 선정됐다고 밝혔다. 이번 선정으로 노즈워크는 향후 3년간 연구개발(R&D) 자금 15억원을 확보하게 됐다. 딥테크 팁스는 기술 기반 창업기업을 지원하는 프로그램으로, 노즈워크의 반려동물 헬스케어 사업 추진에 필요한 연구개발 재원 확보라는 의미가 있다. 회사는 확보한 자금을 바탕으로 관련 기술 개발을 이어갈 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Nozwork Selected for Deeptech TIPS, Secures KRW 1.5 Billion for Pet Healthcare R&D",
+        "excerpt": "Pet healthcare startup Nozwork said on the 8th it was finally selected for the Ministry of SMEs and Startups’ TIPS Deeptech Track, securing KRW 1.5 billion in R&D funding over three years.",
+        "body": "Pet healthcare startup Nozwork announced on the 8th that it had been finally selected for the ‘Deeptech Track’ of TIPS, a technology startup support program run by the Ministry of SMEs and Startups. Through the selection, Nozwork will secure KRW 1.5 billion in research and development funding over the next three years. Deeptech TIPS is a program that supports technology-based startups, and the selection means Nozwork has obtained R&D resources needed to advance its pet healthcare business. The company is expected to continue related technology development using the secured funds. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ノーズワーク、ディープテックTIPSに最終選定…ペットヘルスケアR&D資金15億ウォン確保",
+        "excerpt": "ペットヘルスケアスタートアップのノーズワークは8日、中小ベンチャー企業部のTIPS「ディープテックトラック」に最終選定され、3年間でR&D資金15億ウォンを確保したと発表した。",
+        "body": "ペットヘルスケアスタートアップのノーズワークは8日、中小ベンチャー企業部の技術創業支援プログラムであるTIPS「ディープテックトラック」に最終選定されたと発表した。今回の選定により、ノーズワークは今後3年間で研究開発（R&D）資金15億ウォンを確保することになった。ディープテックTIPSは技術基盤の創業企業を支援するプログラムであり、ノーズワークにとってペットヘルスケア事業の推進に必要な研究開発財源を確保した意味がある。同社は確保した資金をもとに関連技術の開発を続ける見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Nozwork最终入选Deeptech TIPS，获15亿韩元宠物健康R&D资金",
+        "excerpt": "宠物健康护理初创企业Nozwork于8日表示，已最终入选中小风险企业部TIPS“Deeptech Track”，将在3年内获得15亿韩元研发资金。",
+        "body": "宠物健康护理初创企业Nozwork于8日宣布，已最终入选中小风险企业部技术创业支持项目TIPS的“Deeptech Track”。通过此次入选，Nozwork将在未来3年内获得15亿韩元研究开发（R&D）资金。Deeptech TIPS是支持技术型创业企业的项目，此次入选意味着Nozwork获得了推进宠物健康护理业务所需的研发资金。公司预计将以所获资金为基础，继续开展相关技术开发。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Nozwork entra en Deeptech TIPS y obtiene 1.500 millones de wones para I+D en salud de mascotas",
+        "excerpt": "La startup de salud para mascotas Nozwork anunció el día 8 que fue seleccionada para el Deeptech Track de TIPS del Ministerio de Pymes y Startups, asegurando 1.500 millones de wones para I+D en tres años.",
+        "body": "La startup de salud para mascotas Nozwork anunció el día 8 que fue seleccionada finalmente para el ‘Deeptech Track’ de TIPS, el programa de apoyo a startups tecnológicas del Ministerio de Pymes y Startups. Con esta selección, Nozwork asegurará 1.500 millones de wones en fondos de investigación y desarrollo (I+D) durante los próximos tres años. Deeptech TIPS es un programa que apoya a empresas emergentes basadas en tecnología, y para Nozwork supone obtener recursos de I+D necesarios para impulsar su negocio de salud para mascotas. La empresa prevé continuar el desarrollo de tecnologías relacionadas con los fondos obtenidos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Nozwork é selecionada para Deeptech TIPS e garante 1,5 bilhão de won para P&D em saúde pet",
+        "excerpt": "A startup de saúde para animais de estimação Nozwork informou no dia 8 que foi selecionada para a faixa Deeptech do TIPS, do Ministério das PMEs e Startups, garantindo 1,5 bilhão de won em P&D por três anos.",
+        "body": "A startup de saúde para animais de estimação Nozwork anunciou no dia 8 que foi selecionada em caráter final para a ‘Deeptech Track’ do TIPS, programa de apoio a startups tecnológicas do Ministério das PMEs e Startups. Com a seleção, a Nozwork garantirá 1,5 bilhão de won em recursos de pesquisa e desenvolvimento (P&D) ao longo dos próximos três anos. O Deeptech TIPS é um programa que apoia startups de base tecnológica, e a escolha significa que a Nozwork obteve recursos de P&D necessários para avançar em seu negócio de saúde pet. A empresa deve continuar o desenvolvimento de tecnologias relacionadas com os fundos obtidos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Nozwork für Deeptech TIPS ausgewählt und sichert 1,5 Mrd. Won für Haustiergesundheits-F&E",
+        "excerpt": "Das Haustiergesundheits-Startup Nozwork teilte am 8. mit, es sei für den Deeptech Track des TIPS-Programms des Ministeriums für KMU und Startups ausgewählt worden und sichere sich über drei Jahre 1,5 Mrd. Won für F&E.",
+        "body": "Das Haustiergesundheits-Startup Nozwork gab am 8. bekannt, dass es endgültig für den ‘Deeptech Track’ von TIPS ausgewählt wurde, einem Technologiegründungsprogramm des Ministeriums für KMU und Startups. Durch die Auswahl erhält Nozwork in den kommenden drei Jahren 1,5 Milliarden Won an Mitteln für Forschung und Entwicklung (F&E). Deeptech TIPS unterstützt technologiebasierte Startups; für Nozwork bedeutet die Auswahl die Sicherung von F&E-Ressourcen, die für den Ausbau des Haustiergesundheitsgeschäfts benötigt werden. Das Unternehmen dürfte mit den gesicherten Mitteln die Entwicklung entsprechender Technologien fortsetzen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Nozwork sélectionnée pour Deeptech TIPS et obtient 1,5 milliard de wons pour la R&D santé animale",
+        "excerpt": "La startup de santé pour animaux Nozwork a annoncé le 8 avoir été retenue pour le Deeptech Track du programme TIPS du ministère des PME et des Startups, obtenant 1,5 milliard de wons de R&D sur trois ans.",
+        "body": "La startup de santé pour animaux de compagnie Nozwork a annoncé le 8 avoir été définitivement sélectionnée pour le ‘Deeptech Track’ de TIPS, programme de soutien aux startups technologiques du ministère des PME et des Startups. Grâce à cette sélection, Nozwork obtiendra 1,5 milliard de wons de financement en recherche et développement (R&D) sur les trois prochaines années. Deeptech TIPS soutient les jeunes entreprises fondées sur la technologie; pour Nozwork, cette sélection signifie l’obtention de ressources de R&D nécessaires à la poursuite de son activité dans la santé animale. L’entreprise devrait continuer à développer les technologies concernées avec les fonds sécurisés. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "نوزوورك تُختار لبرنامج Deeptech TIPS وتؤمن 1.5 مليار وون لبحث وتطوير رعاية الحيوانات الأليفة",
+        "excerpt": "أعلنت شركة نوزوورك الناشئة في رعاية صحة الحيوانات الأليفة يوم 8 أنها اختيرت نهائيا لمسار Deeptech ضمن برنامج TIPS التابع لوزارة الشركات الصغيرة والمتوسطة والناشئة، لتؤمن 1.5 مليار وون لثلاث سنوات.",
+        "body": "أعلنت شركة نوزوورك الناشئة في مجال رعاية صحة الحيوانات الأليفة يوم 8 أنها اختيرت نهائيا لمسار ‘Deeptech Track’ ضمن برنامج TIPS، وهو برنامج دعم للشركات التقنية الناشئة تديره وزارة الشركات الصغيرة والمتوسطة والناشئة. وبموجب هذا الاختيار، ستحصل نوزوورك على 1.5 مليار وون لتمويل البحث والتطوير خلال السنوات الثلاث المقبلة. ويعد Deeptech TIPS برنامجا لدعم الشركات الناشئة القائمة على التكنولوجيا، ما يعني أن نوزوورك أمّنت موارد البحث والتطوير اللازمة لدفع أعمالها في رعاية صحة الحيوانات الأليفة. ومن المتوقع أن تواصل الشركة تطوير التقنيات ذات الصلة اعتمادا على التمويل المؤمّن. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Nozwork Deeptech TIPS के लिए चयनित, पालतू हेल्थकेयर R&D हेतु 1.5 अरब वॉन सुरक्षित",
+        "excerpt": "पालतू हेल्थकेयर स्टार्टअप Nozwork ने 8 तारीख को कहा कि उसे SMEs और Startups मंत्रालय के TIPS ‘Deeptech Track’ के लिए अंतिम रूप से चुना गया है, जिससे तीन वर्षों में 1.5 अरब वॉन R&D फंड मिलेगा।",
+        "body": "पालतू हेल्थकेयर स्टार्टअप Nozwork ने 8 तारीख को घोषणा की कि उसे SMEs और Startups मंत्रालय के तकनीकी स्टार्टअप सहायता कार्यक्रम TIPS के ‘Deeptech Track’ के लिए अंतिम रूप से चुना गया है। इस चयन के साथ Nozwork को अगले तीन वर्षों में अनुसंधान और विकास (R&D) के लिए 1.5 अरब वॉन की राशि मिलेगी। Deeptech TIPS तकनीक-आधारित स्टार्टअप्स को समर्थन देने वाला कार्यक्रम है, और Nozwork के लिए यह पालतू हेल्थकेयर व्यवसाय को आगे बढ़ाने के लिए आवश्यक R&D संसाधन 확보 करने का संकेत है। कंपनी सुरक्षित धनराशि के आधार पर संबंधित तकनीक विकास जारी रखने की उम्मीद रखती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Nozwork Terpilih untuk Deeptech TIPS, Amankan KRW 1,5 Miliar bagi R&D Kesehatan Hewan Peliharaan",
+        "excerpt": "Startup kesehatan hewan peliharaan Nozwork mengatakan pada tanggal 8 bahwa pihaknya terpilih untuk TIPS ‘Deeptech Track’ dari Kementerian UKM dan Startup, mengamankan dana R&D KRW 1,5 miliar selama tiga tahun.",
+        "body": "Startup kesehatan hewan peliharaan Nozwork mengumumkan pada tanggal 8 bahwa pihaknya telah terpilih secara final untuk ‘Deeptech Track’ dari TIPS, program dukungan startup teknologi yang dijalankan oleh Kementerian UKM dan Startup. Melalui seleksi ini, Nozwork akan memperoleh dana penelitian dan pengembangan (R&D) sebesar KRW 1,5 miliar selama tiga tahun ke depan. Deeptech TIPS adalah program yang mendukung startup berbasis teknologi, dan bagi Nozwork pemilihan ini berarti tersedianya sumber daya R&D yang dibutuhkan untuk mendorong bisnis kesehatan hewan peliharaan. Perusahaan diperkirakan akan melanjutkan pengembangan teknologi terkait dengan dana yang telah diamankan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "dcd3488e85b5",
     "slug": "일본-부럽나-이미-진-거야삼전-일본-100대-기업-총합보다-더-번다는데-190988",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "HD Hyundai Heavy Cetak Kejutan Laba Kuartal I, Tiga Risiko Tetap Disorot",
         "excerpt": "HD Hyundai Heavy Industries melampaui ekspektasi pasar pada kuartal I 2026 karena pendapatan dan laba operasi naik tajam, didukung sinergi merger, pesanan bernilai tinggi, dan divisi mesin.",
         "body": "HD Hyundai Heavy Industries dinilai dalam analisis Korea Economic Daily yang terbit pada 7 Mei 2026 mencatat kinerja konsolidasi sementara kuartal pertama di atas ekspektasi pasar. Pendapatan mencapai 5,9163 triliun won, naik 54,8% secara tahunan, sementara laba operasi melonjak 108,8% menjadi 905,4 miliar won. Laba bersih meningkat 172,3% menjadi 773,8 miliar won. Margin operasi membaik menjadi 15,3% dari 11,3% pada periode yang sama tahun sebelumnya, dan laba operasi melampaui konsensus kalangan sekuritas sebesar 13,6%. Faktor yang disebutkan adalah sinergi merger, pengakuan pendapatan dari pesanan berharga tinggi, serta penguatan sumber pertumbuhan baru di divisi mesin. Judul asli juga menekankan tiga risiko yang perlu diperiksa bersama rapor terintegrasi yang lebih baik dari perkiraan ini. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "b61ce49b8ea2",
-    "slug": "250조-벌었는데코스피-폭주에-국민연금-고민하는-까닭-933900",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T17:06:30.637Z",
-    "updatedAt": "2026-05-07T17:06:30.637Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050724121",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050724121",
-    "titleFingerprint": "0cd5db311ce3e6064d0aa28738e699a644797385",
-    "dedupKeys": [
-      "b61ce49b8ea2f34b0e1126845479917418bcbb2d",
-      "0cd5db311ce3e6064d0aa28738e699a644797385",
-      "72b8539133d4d7608df2430e0dd9185148b32076"
-    ],
-    "imageUrl": "/images/articles/b61ce49b8ea2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국민연금 국내주식 비중 25% 돌파, 코스피 랠리에도 리밸런싱 고민 커진 이유",
-        "excerpt": "5월 7일 한국경제는 코스피 랠리로 국민연금 국내주식 비중이 4월 말 25%를 넘어 목표치 14.9%를 10%포인트 이상 웃돌았다고 보도했다.",
-        "body": "5월 7일 hankyung.com에 따르면 코스피지수 랠리로 국민연금의 국내주식 비중이 지난 4월 말 25%를 넘어섰다. 올해 목표 비중 14.9%보다 10%포인트 이상 높은 수준이다. 반도체주 중심의 상승장과 지난 1월 기금운용위원회의 리밸런싱 유예 결정이 맞물린 결과로 풀이된다. 국민연금은 올해 들어 약 250조원을 벌어 기금 규모가 1700조원을 넘어섰다. 다만 국내주식 쏠림이 단기간에 커지면서 장기 자산배분 원칙상 비중 축소 논의가 불가피해졌다. 업계는 이달 기금위의 중기자산배분 결정이 향후 유가증권시장 수급에도 영향을 줄 것으로 본다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "National Pension’s Korean Stock Weight Tops 25%, Raising Rebalancing Questions After Kospi Rally",
-        "excerpt": "On May 7, Hankyung reported that the Kospi rally lifted the National Pension’s Korean stock weight above 25% at end-April, more than 10 percentage points over its 14.9% target.",
-        "body": "According to hankyung.com on May 7, the Kospi index rally pushed the National Pension Service’s domestic equity weighting above 25% at the end of April. That is more than 10 percentage points above this year’s 14.9% target. The increase is seen as the result of a semiconductor-led market rally combined with the fund management committee’s January decision to defer rebalancing. The NPS has earned about 250 trillion won so far this year, lifting total assets above 1,700 trillion won. However, the rapid concentration in Korean stocks has made discussion of reducing the weighting unavoidable under long-term asset allocation principles. Market participants expect this month’s medium-term allocation decision to affect future supply and demand on the Korea Exchange. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "国民年金の韓国株比率25％超、コスピ急伸でもリバランス議論が浮上",
-        "excerpt": "韓国経済は5月7日、コスピ上昇で国民年金の韓国株比率が4月末に25％を超え、目標14.9％を10ポイント以上上回ったと報じた。",
-        "body": "hankyung.comが5月7日に報じたところによると、コスピ指数の上昇で国民年金の国内株式比率は4月末時点で25％を超えた。今年の目標比率14.9％を10ポイント以上上回る水準だ。半導体株を中心とする相場上昇と、1月の基金運用委員会によるリバランス猶予決定が重なった結果とみられる。国民年金は今年に入り約250兆ウォンを稼ぎ、基金規模は1700兆ウォンを超えた。ただ、韓国株への集中が短期間で拡大したため、長期資産配分の原則上、比率引き下げの議論は避けにくい。市場では、今月の中期資産配分決定が今後の有価証券市場の需給にも影響するとみられている。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "韩国国民年金韩股占比突破25%，Kospi大涨后再平衡压力升温",
-        "excerpt": "韩国经济5月7日报道，Kospi上涨推动韩国国民年金4月底韩股占比超过25%，较今年14.9%的目标高出逾10个百分点。",
-        "body": "据hankyung.com 5月7日报道，受Kospi指数上涨影响，韩国国民年金截至4月底的国内股票占比已超过25%。这一水平比今年14.9%的目标占比高出10个百分点以上。报道认为，半导体股领涨以及1月基金运营委员会决定暂缓资产再平衡共同推高了该比例。国民年金今年以来已赚取约250万亿韩元，基金规模超过1700万亿韩元。不过，国内股票集中度在短期内快速上升，使其按照长期资产配置原则讨论降低占比变得难以避免。业内预计，本月基金运营委员会的中期资产配置决定也将影响韩国证券市场未来供需。来源: hankyung.com"
-      },
-      "es": {
-        "title": "El fondo nacional de pensiones supera 25% en acciones coreanas y crece el debate por el Kospi",
-        "excerpt": "Hankyung informó el 7 de mayo que el rally del Kospi elevó la exposición del fondo nacional de pensiones a acciones coreanas por encima del 25% a fines de abril.",
-        "body": "Según hankyung.com el 7 de mayo, el rally del índice Kospi llevó la proporción de acciones nacionales del Servicio Nacional de Pensiones de Corea por encima del 25% a finales de abril. El nivel supera en más de 10 puntos porcentuales la meta de este año, fijada en 14,9%. El aumento se atribuye a la subida liderada por semiconductores y a la decisión de enero del comité de gestión del fondo de aplazar el rebalanceo. El fondo ha ganado cerca de 250 billones de wones en lo que va del año y sus activos superan los 1.700 billones de wones. Sin embargo, la rápida concentración en acciones coreanas obliga a debatir una reducción bajo los principios de asignación de activos de largo plazo. El mercado espera que la decisión de asignación de medio plazo de este mes influya en la oferta y demanda bursátil. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Fundo nacional de pensões passa de 25% em ações coreanas e reequilíbrio ganha força",
-        "excerpt": "O Hankyung informou em 7 de maio que a alta do Kospi levou a fatia de ações coreanas do fundo nacional de pensões a mais de 25% no fim de abril.",
-        "body": "Segundo o hankyung.com em 7 de maio, a alta do índice Kospi levou a participação de ações domésticas do Serviço Nacional de Pensões da Coreia a superar 25% no fim de abril. O nível está mais de 10 pontos percentuais acima da meta de 14,9% para este ano. O avanço é atribuído à alta liderada por ações de semicondutores e à decisão de janeiro do comitê de gestão do fundo de adiar o rebalanceamento. O fundo ganhou cerca de 250 trilhões de wons neste ano, elevando seus ativos para mais de 1.700 trilhões de wons. Ainda assim, a concentração em ações coreanas cresceu rapidamente, tornando inevitável discutir uma redução conforme os princípios de alocação de longo prazo. O mercado vê a decisão de alocação de médio prazo deste mês como relevante para a oferta e demanda na bolsa. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Nationaler Pensionsfonds hält über 25% in Korea-Aktien, Kospi-Rallye erhöht Rebalancing-Druck",
-        "excerpt": "Hankyung berichtete am 7. Mai, dass die Kospi-Rallye den Korea-Aktienanteil des nationalen Pensionsfonds Ende April auf über 25% hob.",
-        "body": "Laut hankyung.com vom 7. Mai hat die Rallye des Kospi-Index den Anteil inländischer Aktien beim koreanischen National Pension Service Ende April auf über 25% steigen lassen. Damit liegt er mehr als 10 Prozentpunkte über dem Jahresziel von 14,9%. Als Gründe gelten die von Halbleiterwerten getragene Börsenrallye und die Entscheidung des Anlageausschusses im Januar, ein Rebalancing aufzuschieben. Der Fonds hat seit Jahresbeginn rund 250 Billionen Won verdient; das Fondsvermögen überstieg 1.700 Billionen Won. Zugleich ist die Konzentration auf koreanische Aktien in kurzer Zeit stark gestiegen, weshalb eine Reduzierung nach den Grundsätzen der langfristigen Vermögensallokation diskutiert werden muss. Marktteilnehmer erwarten, dass die mittelfristige Allokationsentscheidung in diesem Monat auch Angebot und Nachfrage am Aktienmarkt beeinflusst. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le fonds national de pension dépasse 25% en actions coréennes, le Kospi relance le rééquilibrage",
-        "excerpt": "Hankyung a rapporté le 7 mai que la hausse du Kospi avait porté la part d’actions coréennes du fonds national de pension au-dessus de 25% fin avril.",
-        "body": "Selon hankyung.com le 7 mai, le rallye de l’indice Kospi a porté la part des actions domestiques du Service national des pensions coréen au-dessus de 25% à la fin avril. Ce niveau dépasse de plus de 10 points de pourcentage l’objectif annuel de 14,9%. La hausse est attribuée au mouvement mené par les valeurs de semi-conducteurs et à la décision prise en janvier par le comité de gestion du fonds de reporter le rééquilibrage. Le fonds a gagné environ 250 billions de wons depuis le début de l’année, portant ses actifs au-delà de 1.700 billions de wons. Mais la concentration rapide sur les actions coréennes rend inévitable un débat sur une réduction, conformément aux principes d’allocation de long terme. Le marché estime que la décision d’allocation à moyen terme de ce mois influencera aussi l’offre et la demande boursières. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صندوق التقاعد الكوري يتجاوز 25% في الأسهم المحلية وارتفاع كوسبي يفتح ملف إعادة التوازن",
-        "excerpt": "ذكرت هانكيونغ في 7 مايو أن صعود مؤشر كوسبي رفع حصة الأسهم الكورية لدى صندوق التقاعد الوطني إلى أكثر من 25% بنهاية أبريل، فوق الهدف البالغ 14.9%.",
-        "body": "بحسب hankyung.com في 7 مايو، أدى صعود مؤشر كوسبي إلى رفع حصة الأسهم المحلية في صندوق التقاعد الوطني الكوري إلى أكثر من 25% بنهاية أبريل. وهذا يزيد بأكثر من 10 نقاط مئوية عن هدف هذا العام البالغ 14.9%. ويُعزى الارتفاع إلى موجة صعود قادتها أسهم أشباه الموصلات، إلى جانب قرار لجنة إدارة الصندوق في يناير تأجيل إعادة التوازن. وحقق الصندوق نحو 250 تريليون وون منذ بداية العام، ليتجاوز حجمه 1700 تريليون وون. لكن تركز الأسهم الكورية زاد سريعاً في فترة قصيرة، ما يجعل نقاش خفض الحصة أمراً لا مفر منه وفق مبادئ توزيع الأصول طويلة الأجل. وترى السوق أن قرار التوزيع متوسط الأجل هذا الشهر قد يؤثر أيضاً في العرض والطلب بسوق الأسهم. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "नेशनल पेंशन में कोरियाई शेयरों की हिस्सेदारी 25% पार, Kospi रैली से रीबैलेंसिंग दबाव बढ़ा",
-        "excerpt": "Hankyung ने 7 मई को बताया कि Kospi रैली से नेशनल पेंशन की कोरियाई शेयर हिस्सेदारी अप्रैल अंत में 25% से ऊपर पहुंची, जो 14.9% लक्ष्य से काफी अधिक है।",
-        "body": "hankyung.com के अनुसार 7 मई को Kospi सूचकांक की रैली से कोरिया की नेशनल पेंशन सर्विस में घरेलू शेयरों की हिस्सेदारी अप्रैल अंत तक 25% से ऊपर पहुंच गई। यह इस वर्ष के 14.9% लक्ष्य से 10 प्रतिशत अंक से अधिक है। इसे सेमीकंडक्टर शेयरों की अगुवाई वाली तेजी और जनवरी में फंड मैनेजमेंट कमेटी द्वारा रीबैलेंसिंग टालने के फैसले का संयुक्त परिणाम माना जा रहा है। नेशनल पेंशन ने इस वर्ष अब तक करीब 250 ट्रिलियन वोन कमाए हैं और फंड का आकार 1,700 ट्रिलियन वोन से ऊपर हो गया है। हालांकि, घरेलू शेयरों में तेज एकाग्रता के कारण दीर्घकालिक एसेट एलोकेशन सिद्धांतों के तहत हिस्सेदारी घटाने पर चर्चा अनिवार्य हो गई है। बाजार को उम्मीद है कि इस महीने का मध्यम अवधि एसेट एलोकेशन फैसला आगे शेयर बाजार की आपूर्ति-मांग को प्रभावित करेगा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Porsi Saham Korea Dana Pensiun Nasional Tembus 25%, Reli Kospi Picu Debat Rebalancing",
-        "excerpt": "Hankyung melaporkan pada 7 Mei bahwa reli Kospi membuat porsi saham Korea dalam Dana Pensiun Nasional melampaui 25% pada akhir April, jauh di atas target 14,9%.",
-        "body": "Menurut hankyung.com pada 7 Mei, reli indeks Kospi mendorong porsi saham domestik di National Pension Service Korea melampaui 25% pada akhir April. Angka itu lebih dari 10 poin persentase di atas target tahun ini sebesar 14,9%. Kenaikan tersebut dipandang sebagai hasil reli pasar yang dipimpin saham semikonduktor dan keputusan komite pengelola dana pada Januari untuk menunda rebalancing. Dana pensiun itu telah memperoleh sekitar 250 triliun won sepanjang tahun ini, sehingga ukuran dana melampaui 1.700 triliun won. Namun, konsentrasi pada saham Korea meningkat cepat dalam waktu singkat, membuat pembahasan pengurangan porsi menjadi sulit dihindari sesuai prinsip alokasi aset jangka panjang. Pelaku pasar memperkirakan keputusan alokasi jangka menengah bulan ini akan memengaruhi pasokan dan permintaan di bursa. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "194bbf2caf48",
-    "slug": "삼성전자-최고의-순간-아직-오지-않았다여전히-저평가-종목-883102",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T17:05:16.329Z",
-    "updatedAt": "2026-05-07T17:05:16.329Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050717986",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050717986",
-    "titleFingerprint": "9097f6fdeef17c3a8b9984e67f2800272c363c27",
-    "dedupKeys": [
-      "194bbf2caf481090282327f9bb7769246f4aaddd",
-      "9097f6fdeef17c3a8b9984e67f2800272c363c27",
-      "4d25306dd17506c496bcde9868472b30c14bdd12"
-    ],
-    "imageUrl": "/images/articles/194bbf2caf48.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 주가 최고가 행진, 1조달러 시총에도 저평가 분석 부각",
-        "excerpt": "삼성전자가 2026년 5월 7일 연일 최고가를 경신하며 시가총액 1조달러를 넘어서자, 증권가와 외신은 AI 메모리 수요와 낮은 PER을 근거로 저평가 매력을 짚었다.",
-        "body": "삼성전자는 2026년 5월 7일 유가증권시장에서 전 거래일보다 2.07% 오른 27만1500원에 정규 거래를 마치며 최고가 행진을 이어갔다. 넥스트레이드 프리마켓에서는 한때 28만9000원에 거래돼 30만원에 근접했다. 한국경제 보도에 따르면 삼성전자와 SK하이닉스 강세는 코스피가 전날 7400선을 처음 넘고 이날 한때 7499.07까지 오르는 데 영향을 줬다. SK증권은 메모리 기업 재평가가 초입이라며 삼성전자 목표주가를 50만원으로 올렸다. 12개월 선행 PER은 6배 수준으로 제시됐다. FT는 삼성전자가 AI 반도체 열풍 속에 시총 1조달러를 돌파했고, TSMC에 이어 아시아 두 번째 사례라고 전했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Samsung Electronics Extends Record Rally as Undervaluation Case Gains Focus",
-        "excerpt": "On May 7, 2026, Samsung Electronics kept setting record highs and topped $1 trillion in market value, while analysts cited AI memory demand and a low forward PER as reasons it remains undervalued.",
-        "body": "Samsung Electronics closed regular trading on May 7, 2026 at 271,500 won, up 2.07% from the previous session, extending its run of record highs. In Nextrade pre-market trading, it briefly changed hands at 289,000 won, putting the 300,000 won mark within reach. According to Hankyung, strength in Samsung Electronics and SK Hynix helped the Kospi break above 7,400 for the first time the previous day and rise as high as 7,499.07 during the session. SK Securities said the re-rating of memory companies was still in an early stage and raised its target price for Samsung Electronics to 500,000 won. Its 12-month forward PER was cited at about 6 times. The FT reported that Samsung’s market value surpassed $1 trillion amid the AI chip boom, making it the second Asian company after TSMC to do so. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "サムスン電子、最高値更新続く　1兆ドル時価総額でも割安感に注目",
-        "excerpt": "サムスン電子は2026年5月7日に最高値更新を続け、時価総額が1兆ドルを突破した。証券業界と外信はAI向けメモリー需要と低い予想PERを背景に割安感を指摘した。",
-        "body": "サムスン電子は2026年5月7日、韓国株式市場の通常取引を前営業日比2.07％高の27万1500ウォンで終え、最高値更新の流れを続けた。ネクストレードのプレマーケットでは一時28万9000ウォンで取引され、30万ウォン台に近づいた。韓国経済新聞によると、サムスン電子とSKハイニックスの強さは、前日にKOSPIが初めて7400台を突破し、この日も一時7499.07まで上昇する要因となった。SK証券はメモリー企業の再評価はまだ初期段階だとして、サムスン電子の目標株価を50万ウォンに引き上げた。12カ月先予想PERは約6倍とされた。FTは、AI半導体ブームの中で同社の時価総額が1兆ドルを超え、TSMCに続くアジア2社目になったと伝えた。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "三星电子股价连创新高，市值破1万亿美元后低估论升温",
-        "excerpt": "三星电子在2026年5月7日继续刷新高点并突破1万亿美元市值，券商和外媒认为AI存储需求及较低的远期市盈率凸显其低估吸引力。",
-        "body": "三星电子2026年5月7日在韩国证券市场常规交易中收于271500韩元，较前一交易日上涨2.07%，延续最高价行情。在Nextrade盘前交易中，该股一度报289000韩元，接近30万韩元关口。据韩国经济新闻报道，三星电子和SK海力士的走强推动KOSPI前一日首次突破7400点，当日盘中也一度升至7499.07点。SK证券称，存储企业的重估仍处初期，并将三星电子目标价上调至50万韩元。其12个月远期市盈率约为6倍。FT报道称，三星电子受AI半导体热潮推动，市值突破1万亿美元，成为继TSMC之后亚洲第二家达到该水平的企业。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Samsung Electronics marca máximos y gana foco por valoración aún baja",
-        "excerpt": "Samsung Electronics siguió renovando máximos el 7 de mayo de 2026 y superó el billón de dólares de capitalización, mientras analistas destacaron la demanda de memoria para IA y un PER adelantado bajo.",
-        "body": "Samsung Electronics cerró la sesión regular del 7 de mayo de 2026 en 271.500 wones, un 2,07% más que el día anterior, y prolongó su racha de máximos. En la preapertura de Nextrade llegó a cotizar a 289.000 wones, cerca del umbral de 300.000 wones. Según Hankyung, la fortaleza de Samsung Electronics y SK Hynix ayudó a que el Kospi superara por primera vez los 7.400 puntos el día previo y subiera intradía hasta 7.499,07. SK Securities afirmó que la revalorización de las compañías de memoria aún está en una fase inicial y elevó el precio objetivo de Samsung Electronics a 500.000 wones. Su PER adelantado a 12 meses se situó en torno a 6 veces. FT informó que su valor de mercado superó el billón de dólares por el auge de chips de IA, siendo la segunda firma asiática tras TSMC. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Samsung Electronics renova máximas e tese de ação descontada ganha força",
-        "excerpt": "Em 7 de maio de 2026, a Samsung Electronics voltou a renovar máximas e superou US$ 1 trilhão em valor de mercado, com analistas citando demanda por memória de IA e PER projetado baixo.",
-        "body": "A Samsung Electronics encerrou o pregão regular de 7 de maio de 2026 a 271.500 wons, alta de 2,07% frente à sessão anterior, mantendo a sequência de máximas. No pré-mercado da Nextrade, chegou a 289.000 wons, perto da marca de 300.000 wons. Segundo o Hankyung, a força de Samsung Electronics e SK Hynix ajudou o Kospi a superar 7.400 pontos pela primeira vez no dia anterior e a tocar 7.499,07 durante a sessão. A SK Securities afirmou que a reavaliação das empresas de memória ainda está no início e elevou o preço-alvo da Samsung Electronics para 500.000 wons. O PER projetado em 12 meses foi indicado em cerca de 6 vezes. O FT informou que a empresa passou de US$ 1 trilhão em valor de mercado com o avanço dos chips de IA, sendo a segunda asiática após a TSMC. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Samsung Electronics auf Rekordkurs: Unterbewertung trotz 1-Billion-Dollar-Wert im Fokus",
-        "excerpt": "Samsung Electronics erreichte am 7. Mai 2026 weitere Rekordstände und überschritt 1 Billion Dollar Börsenwert; Analysten verwiesen auf KI-Speichernachfrage und ein niedriges erwartetes KGV.",
-        "body": "Samsung Electronics beendete den regulären Handel am 7. Mai 2026 bei 271.500 Won, 2,07 Prozent über dem Vortag, und setzte seine Serie von Höchstständen fort. Im Nextrade-Vorhandel wurde die Aktie zeitweise bei 289.000 Won gehandelt und näherte sich damit 300.000 Won. Laut Hankyung trug die Stärke von Samsung Electronics und SK Hynix dazu bei, dass der Kospi am Vortag erstmals die Marke von 7.400 Punkten überstieg und am Berichtstag zeitweise 7.499,07 erreichte. SK Securities erklärte, die Neubewertung von Speicherunternehmen stehe noch am Anfang, und erhöhte das Kursziel für Samsung Electronics auf 500.000 Won. Das erwartete KGV für zwölf Monate wurde mit etwa 6 angegeben. Die FT berichtete, Samsung habe im Zuge des KI-Chipbooms 1 Billion Dollar Börsenwert überschritten, als zweites asiatisches Unternehmen nach TSMC. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Samsung Electronics enchaîne les records, l’argument de sous-valorisation progresse",
-        "excerpt": "Le 7 mai 2026, Samsung Electronics a poursuivi ses records et dépassé 1.000 milliards de dollars de capitalisation, tandis que les analystes ont mis en avant la mémoire pour l’IA et un PER prévisionnel bas.",
-        "body": "Samsung Electronics a clôturé la séance régulière du 7 mai 2026 à 271.500 wons, en hausse de 2,07 % par rapport à la veille, poursuivant sa série de records. Sur le pré-marché Nextrade, l’action a brièvement atteint 289.000 wons, proche du seuil de 300.000 wons. Selon Hankyung, la vigueur de Samsung Electronics et de SK Hynix a aidé le Kospi à franchir pour la première fois 7.400 points la veille et à monter jusqu’à 7.499,07 en séance. SK Securities a estimé que la réévaluation des sociétés de mémoire restait à un stade initial et a relevé son objectif de cours sur Samsung Electronics à 500.000 wons. Son PER prévisionnel à 12 mois a été cité autour de 6 fois. Le FT a rapporté que Samsung avait dépassé 1.000 milliards de dollars de capitalisation grâce à l’essor des puces d’IA, deuxième cas en Asie après TSMC. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سهم سامسونغ إلكترونيكس يواصل القمم وقضية انخفاض التقييم تتصدر الاهتمام",
-        "excerpt": "في 7 مايو 2026 واصلت سامسونغ إلكترونيكس تسجيل مستويات قياسية وتجاوزت قيمتها السوقية تريليون دولار، بينما أشار محللون إلى طلب ذاكرة الذكاء الاصطناعي وانخفاض مكرر الربحية المتوقع.",
-        "body": "أغلقت سامسونغ إلكترونيكس التداول النظامي في 7 مايو 2026 عند 271500 وون، بارتفاع 2.07% عن الجلسة السابقة، مواصلة سلسلة المستويات القياسية. وفي تداول ما قبل السوق على نكستريد لامس السهم 289000 وون، مقتربا من مستوى 300000 وون. وبحسب هانكيونغ، ساعد صعود سامسونغ إلكترونيكس وSK Hynix مؤشر كوسبي على تجاوز 7400 نقطة لأول مرة في اليوم السابق، ثم الصعود خلال الجلسة إلى 7499.07. وقالت SK Securities إن إعادة تقييم شركات الذاكرة لا تزال في بدايتها، ورفعت السعر المستهدف لسامسونغ إلكترونيكس إلى 500000 وون. وجرى عرض مكرر الربحية المتوقع لـ12 شهرا عند نحو 6 مرات. وذكرت FT أن قيمة سامسونغ السوقية تجاوزت تريليون دولار وسط طفرة رقائق الذكاء الاصطناعي، لتصبح ثاني شركة آسيوية بعد TSMC تحقق ذلك. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Samsung Electronics रिकॉर्ड ऊंचाई पर, 1 ट्रिलियन डॉलर मूल्य के बाद भी कम वैल्यूएशन चर्चा में",
-        "excerpt": "Samsung Electronics ने 7 मई 2026 को रिकॉर्ड बढ़त जारी रखी और बाजार मूल्य 1 ट्रिलियन डॉलर से ऊपर गया, जबकि विश्लेषकों ने AI मेमोरी मांग और कम अग्रिम PER को कम वैल्यूएशन का आधार बताया।",
-        "body": "Samsung Electronics ने 7 मई 2026 को नियमित कारोबार 271,500 वॉन पर बंद किया, जो पिछले सत्र से 2.07% अधिक था, और रिकॉर्ड ऊंचाई का सिलसिला जारी रखा। Nextrade के प्री-मार्केट में शेयर एक समय 289,000 वॉन पर पहुंचा, जिससे 300,000 वॉन का स्तर करीब दिखा। Hankyung के अनुसार, Samsung Electronics और SK Hynix की मजबूती ने पिछले दिन Kospi को पहली बार 7,400 के ऊपर पहुंचाने में मदद की और इस दिन सूचकांक इंट्राडे में 7,499.07 तक गया। SK Securities ने कहा कि मेमोरी कंपनियों का पुनर्मूल्यांकन अभी शुरुआती चरण में है और Samsung Electronics का लक्ष्य मूल्य 500,000 वॉन किया। 12 महीने का अग्रिम PER करीब 6 गुना बताया गया। FT ने कहा कि AI चिप तेजी के बीच Samsung का बाजार मूल्य 1 ट्रिलियन डॉलर से ऊपर गया, TSMC के बाद ऐसा करने वाली एशिया की दूसरी कंपनी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Samsung Electronics Cetak Rekor, Isu Valuasi Murah Tetap Jadi Sorotan",
-        "excerpt": "Pada 7 Mei 2026, Samsung Electronics terus mencetak rekor dan melampaui kapitalisasi pasar US$1 triliun, sementara analis menyoroti permintaan memori AI dan PER forward yang rendah.",
-        "body": "Samsung Electronics menutup perdagangan reguler pada 7 Mei 2026 di 271.500 won, naik 2,07% dari sesi sebelumnya, dan melanjutkan reli rekor. Di pra-pasar Nextrade, sahamnya sempat diperdagangkan di 289.000 won, mendekati level 300.000 won. Menurut Hankyung, penguatan Samsung Electronics dan SK Hynix membantu Kospi menembus 7.400 untuk pertama kalinya pada hari sebelumnya dan sempat naik ke 7.499,07 pada sesi tersebut. SK Securities menyatakan re-rating perusahaan memori masih berada di tahap awal dan menaikkan target harga Samsung Electronics menjadi 500.000 won. PER forward 12 bulan disebut sekitar 6 kali. FT melaporkan nilai pasar Samsung melampaui US$1 triliun di tengah boom chip AI, menjadikannya perusahaan Asia kedua setelah TSMC yang mencapai level itu. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "d699a34ad6eb",
-    "slug": "포토-빗썸-베트남-증권사와-mou-576238",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T17:04:03.030Z",
-    "updatedAt": "2026-05-07T17:04:03.030Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050724221",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050724221",
-    "titleFingerprint": "408091395ebde72ad6c29d2d1df45833a613cac4",
-    "dedupKeys": [
-      "d699a34ad6ebc3afa646109ec138a2587d89b1aa",
-      "408091395ebde72ad6c29d2d1df45833a613cac4",
-      "e2d87655269247d82d9ad66eb8328c04bf30d2d9"
-    ],
-    "imageUrl": "/images/articles/d699a34ad6eb.jpg",
-    "i18n": {
-      "ko": {
-        "title": "빗썸, 베트남 최대 증권사 SSI 자회사 SSID와 가상자산 MOU 체결",
-        "excerpt": "빗썸은 2026년 5월 7일 베트남 최대 규모 증권사 SSI증권의 자회사 SSID와 현지 가상자산거래소 사업을 위한 포괄적 업무협약을 맺었다고 밝혔다.",
-        "body": "빗썸은 2026년 5월 7일 베트남 최대 규모 증권사인 SSI증권의 자회사 SSID와 현지 가상자산거래소 사업을 위한 포괄적 업무협약(MOU)을 체결했다고 밝혔다. 이번 협약은 빗썸과 SSID가 베트남 내 가상자산거래소 사업과 관련해 협력하기 위한 것으로, 양측의 구체적 협력 범위는 MOU를 통해 추진된다. 공개된 사진에는 이재원 빗썸 대표와 응우옌 칵 하이 SSID 최고경영자(CEO)가 악수하는 모습이 담겼다. 현지 최대 증권사 계열사와의 협약이라는 점에서 베트남 가상자산 사업 협력의 기반을 마련한 사례로 볼 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Bithumb Signs Crypto Exchange MOU With SSID, Unit of Vietnam’s SSI Securities",
-        "excerpt": "Bithumb said on May 7, 2026, it signed a comprehensive MOU with SSID, a subsidiary of Vietnam’s largest securities firm SSI Securities, for a local crypto exchange business.",
-        "body": "Bithumb said on May 7, 2026, that it signed a comprehensive memorandum of understanding with SSID, a subsidiary of SSI Securities, Vietnam’s largest securities company, for a local virtual asset exchange business. The agreement is aimed at cooperation between Bithumb and SSID on the virtual asset exchange business in Vietnam, with specific cooperation to be pursued under the MOU. The released photo shows Bithumb CEO Lee Jae-won shaking hands with SSID CEO Nguyen Khac Hai. As the deal involves an affiliate of Vietnam’s largest securities firm, it marks a basis for cooperation in Vietnam’s virtual asset business. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ビッサム、ベトナム最大証券SSI子会社SSIDと暗号資産MOUを締結",
-        "excerpt": "ビッサムは2026年5月7日、ベトナム最大規模の証券会社SSI証券の子会社SSIDと、現地暗号資産取引所事業に向けた包括的MOUを結んだと発表した。",
-        "body": "ビッサムは2026年5月7日、ベトナム最大規模の証券会社であるSSI証券の子会社SSIDと、現地暗号資産取引所事業のための包括的業務協約（MOU）を締結したと発表した。今回の協約は、ビッサムとSSIDがベトナムでの暗号資産取引所事業に関連して協力するためのもので、具体的な協力範囲はMOUに基づいて進められる。公開された写真には、ビッサムのイ・ジェウォン代表とSSIDのグエン・カック・ハイ最高経営責任者（CEO）が握手する姿が写っている。現地最大証券会社の系列会社との協約という点で、ベトナム暗号資産事業協力の基盤を整えた事例といえる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Bithumb与越南最大券商SSI旗下SSID签署加密资产MOU",
-        "excerpt": "Bithumb于2026年5月7日表示，已与越南最大证券公司SSI Securities的子公司SSID签署全面业务谅解备忘录，推进当地虚拟资产交易所业务。",
-        "body": "Bithumb于2026年5月7日表示，已与越南最大规模证券公司SSI Securities的子公司SSID签署全面业务谅解备忘录（MOU），用于当地虚拟资产交易所业务。此次协议旨在推动Bithumb与SSID围绕越南虚拟资产交易所业务开展合作，具体合作范围将根据MOU推进。公开照片显示，Bithumb代表李在元与SSID首席执行官Nguyen Khac Hai握手。由于合作对象是越南最大证券公司的子公司，该协议可被视为为越南虚拟资产业务合作奠定基础的案例。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Bithumb firma un MOU cripto con SSID, filial de SSI Securities de Vietnam",
-        "excerpt": "Bithumb informó el 7 de mayo de 2026 que firmó un MOU integral con SSID, filial de SSI Securities, la mayor corredora de Vietnam, para un negocio local de intercambio de activos virtuales.",
-        "body": "Bithumb informó el 7 de mayo de 2026 que firmó un memorando de entendimiento integral con SSID, filial de SSI Securities, la mayor compañía de valores de Vietnam, para un negocio local de intercambio de activos virtuales. El acuerdo busca que Bithumb y SSID cooperen en el negocio de intercambio de activos virtuales en Vietnam, con el alcance específico de la cooperación a desarrollarse mediante el MOU. La foto difundida muestra al CEO de Bithumb, Lee Jae-won, estrechando la mano del CEO de SSID, Nguyen Khac Hai. Al tratarse de una filial de la mayor firma de valores local, el acuerdo establece una base de cooperación para el negocio de activos virtuales en Vietnam. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Bithumb assina MOU cripto com SSID, subsidiária da SSI Securities no Vietnã",
-        "excerpt": "A Bithumb informou em 7 de maio de 2026 que assinou um MOU abrangente com a SSID, subsidiária da SSI Securities, maior corretora do Vietnã, para uma bolsa local de ativos virtuais.",
-        "body": "A Bithumb informou em 7 de maio de 2026 que assinou um memorando de entendimento abrangente com a SSID, subsidiária da SSI Securities, a maior companhia de valores mobiliários do Vietnã, para um negócio local de bolsa de ativos virtuais. O acordo tem como objetivo a cooperação entre Bithumb e SSID no negócio de bolsa de ativos virtuais no Vietnã, com o escopo específico a ser conduzido por meio do MOU. A foto divulgada mostra o CEO da Bithumb, Lee Jae-won, cumprimentando o CEO da SSID, Nguyen Khac Hai. Por envolver uma afiliada da maior corretora local, o acordo forma uma base para cooperação no negócio de ativos virtuais no Vietnã. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Bithumb schließt Krypto-MOU mit SSID, Tochter von Vietnams SSI Securities",
-        "excerpt": "Bithumb teilte am 7. Mai 2026 mit, mit SSID, einer Tochter von Vietnams größtem Wertpapierhaus SSI Securities, ein umfassendes MOU für ein lokales Geschäft mit virtuellen Börsen geschlossen zu haben.",
-        "body": "Bithumb teilte am 7. Mai 2026 mit, mit SSID, einer Tochter von SSI Securities, dem größten Wertpapierunternehmen Vietnams, ein umfassendes Memorandum of Understanding für ein lokales Geschäft mit einer Börse für virtuelle Vermögenswerte unterzeichnet zu haben. Die Vereinbarung dient der Zusammenarbeit von Bithumb und SSID beim Geschäft mit virtuellen Vermögenswerten in Vietnam; der konkrete Umfang soll im Rahmen des MOU vorangetrieben werden. Das veröffentlichte Foto zeigt Bithumb-CEO Lee Jae-won beim Händedruck mit SSID-CEO Nguyen Khac Hai. Da es sich um eine Tochter des größten lokalen Wertpapierhauses handelt, schafft die Vereinbarung eine Grundlage für die Zusammenarbeit im vietnamesischen Geschäft mit virtuellen Vermögenswerten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Bithumb signe un MOU crypto avec SSID, filiale de SSI Securities au Vietnam",
-        "excerpt": "Bithumb a annoncé le 7 mai 2026 avoir signé un MOU global avec SSID, filiale de SSI Securities, plus grande société de courtage du Vietnam, pour une activité locale de plateforme d’actifs virtuels.",
-        "body": "Bithumb a annoncé le 7 mai 2026 avoir signé un protocole d’accord global avec SSID, filiale de SSI Securities, la plus grande société de valeurs mobilières du Vietnam, pour une activité locale de plateforme d’échange d’actifs virtuels. L’accord vise une coopération entre Bithumb et SSID autour de cette activité au Vietnam, dont le périmètre précis sera mené dans le cadre du MOU. La photo publiée montre Lee Jae-won, CEO de Bithumb, serrant la main de Nguyen Khac Hai, CEO de SSID. Comme l’accord implique une filiale de la plus grande société de courtage locale, il constitue une base de coopération pour les actifs virtuels au Vietnam. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "بيثومب توقع مذكرة تفاهم للعملات الرقمية مع SSID التابعة لـSSI في فيتنام",
-        "excerpt": "قالت بيثومب في 7 مايو 2026 إنها وقعت مذكرة تفاهم شاملة مع SSID، التابعة لأكبر شركة أوراق مالية في فيتنام SSI Securities، بشأن نشاط منصة محلية للأصول الافتراضية.",
-        "body": "قالت بيثومب في 7 مايو 2026 إنها وقعت مذكرة تفاهم شاملة مع SSID، وهي شركة تابعة لـSSI Securities، أكبر شركة أوراق مالية في فيتنام، من أجل نشاط منصة محلية لتداول الأصول الافتراضية. وتهدف المذكرة إلى تعاون بيثومب وSSID في نشاط منصة الأصول الافتراضية داخل فيتنام، على أن يجري تنفيذ نطاق التعاون المحدد بموجب مذكرة التفاهم. وتظهر الصورة المنشورة لي جاي وون، الرئيس التنفيذي لبيثومب، وهو يصافح نغوين خاك هاي، الرئيس التنفيذي لـSSID. وبما أن الاتفاق يتم مع شركة تابعة لأكبر شركة أوراق مالية محلية، فإنه يضع أساسا للتعاون في نشاط الأصول الافتراضية في فيتنام. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Bithumb ने वियतनाम की SSI Securities की इकाई SSID के साथ क्रिप्टो MOU किया",
-        "excerpt": "Bithumb ने 7 मई 2026 को कहा कि उसने वियतनाम की सबसे बड़ी सिक्योरिटीज कंपनी SSI Securities की सहायक SSID के साथ स्थानीय वर्चुअल एसेट एक्सचेंज कारोबार के लिए व्यापक MOU किया है।",
-        "body": "Bithumb ने 7 मई 2026 को कहा कि उसने वियतनाम की सबसे बड़ी सिक्योरिटीज कंपनी SSI Securities की सहायक कंपनी SSID के साथ स्थानीय वर्चुअल एसेट एक्सचेंज कारोबार के लिए एक व्यापक समझौता ज्ञापन (MOU) किया है। यह समझौता Bithumb और SSID के बीच वियतनाम में वर्चुअल एसेट एक्सचेंज कारोबार से जुड़ी सहयोग व्यवस्था के लिए है, और सहयोग का विशिष्ट दायरा MOU के तहत आगे बढ़ाया जाएगा। जारी तस्वीर में Bithumb के CEO Lee Jae-won और SSID के CEO Nguyen Khac Hai हाथ मिलाते दिख रहे हैं। स्थानीय सबसे बड़ी सिक्योरिटीज कंपनी की इकाई के साथ यह समझौता वियतनाम में वर्चुअल एसेट कारोबार सहयोग की आधारशिला माना जा सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Bithumb Teken MOU Kripto dengan SSID, Anak Usaha SSI Securities Vietnam",
-        "excerpt": "Bithumb mengatakan pada 7 Mei 2026 bahwa pihaknya menandatangani MOU komprehensif dengan SSID, anak usaha SSI Securities, perusahaan sekuritas terbesar Vietnam, untuk bisnis bursa aset virtual lokal.",
-        "body": "Bithumb mengatakan pada 7 Mei 2026 bahwa pihaknya menandatangani nota kesepahaman komprehensif dengan SSID, anak usaha SSI Securities, perusahaan sekuritas terbesar di Vietnam, untuk bisnis bursa aset virtual lokal. Kesepakatan ini ditujukan untuk kerja sama antara Bithumb dan SSID terkait bisnis bursa aset virtual di Vietnam, dengan ruang lingkup kerja sama yang akan dijalankan melalui MOU tersebut. Foto yang dirilis memperlihatkan CEO Bithumb Lee Jae-won berjabat tangan dengan CEO SSID Nguyen Khac Hai. Karena melibatkan afiliasi perusahaan sekuritas terbesar setempat, kesepakatan ini menjadi dasar kerja sama bisnis aset virtual di Vietnam. Sumber: hankyung.com"
       }
     }
   }
