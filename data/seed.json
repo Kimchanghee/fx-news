@@ -1,5 +1,230 @@
 [
   {
+    "id": "d555e7c23d22",
+    "slug": "코스피-종전-협상-불확실성에-2대-급락코스닥은-상승-168447",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T01:10:41.434Z",
+    "updatedAt": "2026-05-08T01:10:41.434Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050832376",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050832376",
+    "titleFingerprint": "2f2c07b6cff9d03df9f102d0546b349367dbd175",
+    "dedupKeys": [
+      "d555e7c23d22a9e5a04359e6294764e5da8c8cf9",
+      "2f2c07b6cff9d03df9f102d0546b349367dbd175",
+      "b1fc3ca22450a0e17b33ff1e583283e1a9a3db2a"
+    ],
+    "imageUrl": "/images/articles/d555e7c23d22.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 2%대 급락, 종전 협상 불확실성에 투자심리 흔들",
+        "excerpt": "코스피가 종전 협상 불확실성 여파로 2%대 급락했다. 반면 코스닥은 상승하며 양 시장이 엇갈린 흐름을 보였다. 투자자들은 협상 관련 불확실성을 주시했다.",
+        "body": "코스피가 종전 협상 불확실성에 2%대 급락했다. 국내 증시는 관련 협상 전망을 둘러싼 불확실성이 커지면서 투자심리가 위축된 영향을 받았다. 반면 코스닥은 상승해 코스피와 다른 흐름을 나타냈다. 이번 장세는 대형주 중심의 코스피가 외부 변수에 민감하게 반응한 반면, 코스닥은 상대적으로 견조한 움직임을 보인 것이 특징이다. 시장은 종전 협상 관련 불확실성이 해소될지 여부를 지켜보는 분위기다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSPI Slumps Over 2% as Uncertainty Over Ceasefire Talks Hits Sentiment",
+        "excerpt": "The KOSPI fell more than 2% as uncertainty over ceasefire negotiations weighed on investor sentiment, while the KOSDAQ rose, showing a split performance in South Korea’s stock markets.",
+        "body": "The KOSPI dropped by more than 2% as uncertainty over ceasefire negotiations weighed on the market. South Korean stocks were pressured as the outlook for the talks remained unclear, weakening investor sentiment. In contrast, the KOSDAQ advanced, moving in the opposite direction from the benchmark index. The session showed large-cap KOSPI shares reacting more sharply to external uncertainty, while the KOSDAQ displayed a firmer tone. Investors are watching whether uncertainty surrounding the negotiations will ease. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPIが2％台急落、終戦交渉の不透明感で投資心理が悪化",
+        "excerpt": "KOSPIは終戦交渉をめぐる不透明感を受けて2％台急落した。一方、KOSDAQは上昇し、韓国株式市場では主要指数の動きが分かれた。",
+        "body": "KOSPIは終戦交渉をめぐる不透明感を背景に2％台の急落となった。交渉の先行きが見通しにくいとの受け止めから、韓国株式市場では投資心理が冷え込んだ。一方でKOSDAQは上昇し、KOSPIとは異なる値動きを示した。今回の相場では、大型株中心のKOSPIが外部要因により敏感に反応した一方、KOSDAQは相対的に底堅い推移となった。市場は終戦交渉をめぐる不透明感が解消されるかを注視している。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSPI因停战谈判不确定性暴跌逾2%，KOSDAQ逆势上涨",
+        "excerpt": "受停战谈判不确定性影响，韩国KOSPI指数暴跌逾2%。与此同时，KOSDAQ上涨，显示韩国两大股指走势分化，市场情绪受到压制。",
+        "body": "受停战谈判不确定性影响，KOSPI指数暴跌逾2%。由于相关谈判前景仍不明朗，韩国股市投资情绪承压。相比之下，KOSDAQ指数上涨，呈现出与KOSPI不同的走势。本轮行情显示，以大型股为主的KOSPI对外部不确定因素反应更为敏感，而KOSDAQ则表现相对稳健。市场正在关注停战谈判相关不确定性能否缓解。来源: hankyung.com"
+      },
+      "es": {
+        "title": "KOSPI cae más del 2% por incertidumbre en negociaciones de alto el fuego",
+        "excerpt": "El KOSPI cayó más del 2% por la incertidumbre sobre las negociaciones de alto el fuego, mientras el KOSDAQ subió y mostró una evolución divergente en el mercado surcoreano.",
+        "body": "El KOSPI cayó más del 2% ante la incertidumbre sobre las negociaciones de alto el fuego. La bolsa surcoreana se vio presionada por la falta de claridad sobre el rumbo de esas conversaciones, lo que debilitó el ánimo inversor. En cambio, el KOSDAQ avanzó y se movió en dirección distinta al índice principal. La sesión mostró que el KOSPI, centrado en grandes valores, reaccionó con más sensibilidad a los factores externos, mientras el KOSDAQ mantuvo un tono más firme. El mercado observa si se reducirá la incertidumbre ligada a las negociaciones. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSPI cai mais de 2% com incerteza sobre negociações de cessar-fogo",
+        "excerpt": "O KOSPI caiu mais de 2% com a incerteza sobre negociações de cessar-fogo, enquanto o KOSDAQ subiu, mostrando movimentos divergentes no mercado acionário sul-coreano.",
+        "body": "O KOSPI recuou mais de 2% diante da incerteza sobre negociações de cessar-fogo. O mercado acionário sul-coreano foi pressionado pela falta de clareza sobre as perspectivas dessas conversas, o que enfraqueceu o sentimento dos investidores. Em contraste, o KOSDAQ avançou e seguiu direção diferente do índice principal. A sessão mostrou que o KOSPI, composto por grandes empresas, reagiu de forma mais sensível a fatores externos, enquanto o KOSDAQ teve desempenho relativamente firme. O mercado acompanha se a incerteza em torno das negociações será reduzida. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSPI fällt über 2% wegen Unsicherheit über Waffenstillstandsverhandlungen",
+        "excerpt": "Der KOSPI fiel wegen der Unsicherheit über Waffenstillstandsverhandlungen um mehr als 2%, während der KOSDAQ zulegte und damit eine gespaltene Entwicklung am südkoreanischen Aktienmarkt zeigte.",
+        "body": "Der KOSPI ist wegen der Unsicherheit über Waffenstillstandsverhandlungen um mehr als 2% gefallen. Der südkoreanische Aktienmarkt geriet unter Druck, da der weitere Verlauf der Gespräche unklar blieb und die Anlegerstimmung belastete. Im Gegensatz dazu legte der KOSDAQ zu und entwickelte sich anders als der Leitindex. Die Sitzung zeigte, dass der von großen Unternehmen geprägte KOSPI empfindlicher auf externe Unsicherheiten reagierte, während der KOSDAQ relativ robust blieb. Der Markt beobachtet, ob sich die Unsicherheit rund um die Verhandlungen verringert. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le KOSPI chute de plus de 2% avec l’incertitude sur les pourparlers de cessez-le-feu",
+        "excerpt": "Le KOSPI a chuté de plus de 2% sous l’effet de l’incertitude entourant les pourparlers de cessez-le-feu, tandis que le KOSDAQ a progressé, signe d’une séance contrastée à Séoul.",
+        "body": "Le KOSPI a chuté de plus de 2% en raison de l’incertitude entourant les pourparlers de cessez-le-feu. Le marché boursier sud-coréen a été pénalisé par le manque de visibilité sur l’issue de ces discussions, ce qui a pesé sur le sentiment des investisseurs. À l’inverse, le KOSDAQ a progressé et a évolué différemment de l’indice principal. La séance montre que le KOSPI, dominé par les grandes capitalisations, a réagi plus fortement aux facteurs externes, tandis que le KOSDAQ est resté relativement ferme. Les investisseurs surveillent une éventuelle dissipation de cette incertitude. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوسبي يهبط بأكثر من 2% مع غموض مفاوضات وقف الحرب وكوسداك يرتفع",
+        "excerpt": "هبط مؤشر كوسبي بأكثر من 2% متأثرا بحالة عدم اليقين حول مفاوضات وقف الحرب، بينما ارتفع كوسداك، ما عكس تباينا في أداء سوق الأسهم الكورية الجنوبية.",
+        "body": "هبط مؤشر كوسبي بأكثر من 2% بسبب حالة عدم اليقين المحيطة بمفاوضات وقف الحرب. وتعرضت الأسهم الكورية الجنوبية لضغوط مع غموض آفاق تلك المفاوضات، ما أضعف معنويات المستثمرين. في المقابل، ارتفع مؤشر كوسداك وسار في اتجاه مختلف عن المؤشر الرئيسي. وأظهرت الجلسة أن كوسبي، الذي تهيمن عليه الشركات الكبرى، كان أكثر حساسية للعوامل الخارجية، بينما بدا كوسداك أكثر تماسكا نسبيا. يراقب السوق ما إذا كانت حالة عدم اليقين المرتبطة بالمفاوضات ستتراجع. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "युद्धविराम वार्ता की अनिश्चितता से KOSPI 2% से अधिक गिरा, KOSDAQ चढ़ा",
+        "excerpt": "युद्धविराम वार्ता को लेकर अनिश्चितता के कारण KOSPI 2% से अधिक गिर गया, जबकि KOSDAQ में तेजी रही। दक्षिण कोरिया के शेयर बाजारों में मिला-जुला रुख दिखा।",
+        "body": "युद्धविराम वार्ता से जुड़ी अनिश्चितता के कारण KOSPI 2% से अधिक गिर गया। वार्ता की दिशा स्पष्ट नहीं होने से दक्षिण कोरिया के शेयर बाजार में निवेशकों की धारणा कमजोर हुई। इसके विपरीत, KOSDAQ में तेजी रही और उसने प्रमुख सूचकांक से अलग रुख दिखाया। इस सत्र में बड़ी कंपनियों पर केंद्रित KOSPI बाहरी अनिश्चितताओं के प्रति अधिक संवेदनशील दिखा, जबकि KOSDAQ अपेक्षाकृत मजबूत रहा। बाजार अब यह देख रहा है कि वार्ता से जुड़ी अनिश्चितता कम होती है या नहीं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KOSPI Anjlok Lebih 2% akibat Ketidakpastian Perundingan Gencatan Perang",
+        "excerpt": "KOSPI anjlok lebih dari 2% karena ketidakpastian perundingan gencatan perang, sementara KOSDAQ naik dan menunjukkan pergerakan berbeda di pasar saham Korea Selatan.",
+        "body": "KOSPI turun lebih dari 2% akibat ketidakpastian terkait perundingan gencatan perang. Pasar saham Korea Selatan tertekan karena arah pembicaraan tersebut belum jelas, sehingga sentimen investor melemah. Sebaliknya, KOSDAQ menguat dan bergerak berbeda dari indeks utama. Perdagangan ini menunjukkan bahwa KOSPI yang didominasi saham berkapitalisasi besar lebih sensitif terhadap faktor eksternal, sementara KOSDAQ relatif lebih kokoh. Pasar mencermati apakah ketidakpastian seputar perundingan tersebut akan mereda. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "0877fc153951",
+    "slug": "넉달만에-작년치-넘었다삼전닉스-쏠림-뒤에-etf-있었네-분석-806872",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T01:09:51.510Z",
+    "updatedAt": "2026-05-08T01:09:51.510Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050830656",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050830656",
+    "titleFingerprint": "1ec591337e609800ed0145a9aabed587dcff6383",
+    "dedupKeys": [
+      "0877fc1539517e5ecc69e0b6d21ecb05f7ba2c35",
+      "1ec591337e609800ed0145a9aabed587dcff6383",
+      "795ed28faaecef01fe46e2d3203a80d5085f84d4"
+    ],
+    "imageUrl": "/images/articles/0877fc153951.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·SK하이닉스 ETF 쏠림, 개인 자금 넉 달 만에 작년 수준 넘긴 배경",
+        "excerpt": "국내 ETF 시장에서 삼성전자·SK하이닉스 집중 투자 수요가 커지며 관련 상품으로 개인 자금이 빠르게 유입되고, 일부 ETF는 두 종목 비중이 40~60%대로 높아졌다.",
+        "body": "국내 상장지수펀드(ETF) 시장에서 삼성전자와 SK하이닉스, 이른바 ‘삼전닉스’로 자금이 몰리는 현상이 뚜렷해지고 있다. 한국경제에 따르면 올해 들어 유가증권시장에 신규 상장한 국내 주식형 ETF 18개 중 두 종목 합산 비중이 40%를 넘는 상품은 7개로 약 39%에 달했다. 반도체·테크 ETF뿐 아니라 고배당, 가치주, 채권혼합형 상품에서도 두 종목 편입 비중이 높아지고 있다. 일부 상품은 삼성전자와 SK하이닉스 비중이 60%를 넘거나 50%에 가까워 분산투자 효과가 약해질 수 있다는 지적도 나온다. 반도체 대형주에 압축적으로 투자하려는 개인 수요가 ETF 자금 유입을 키운 배경으로 분석된다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Samsung Electronics and SK Hynix ETF Concentration Shows Why Retail Money Is Pouring In",
+        "excerpt": "In South Korea’s ETF market, demand for concentrated exposure to Samsung Electronics and SK Hynix is growing, with several funds holding the two stocks at 40% to over 60%.",
+        "body": "South Korea’s exchange-traded fund market is seeing a sharper concentration in Samsung Electronics and SK Hynix, often grouped locally as “Samjeon-Nix.” According to Hankyung, among 18 domestic equity ETFs newly listed on the main KOSPI market this year, seven, or about 39%, held the two stocks at a combined weight of more than 40%. The high exposure is not limited to semiconductor and technology ETFs; dividend, value-stock and bond-mixed products have also increased their allocations. Some funds hold the pair at more than 60% or close to 50%, raising concerns that diversification benefits could weaken. The trend reflects retail demand for compressed bets on leading semiconductor stocks. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "サムスン電子・SKハイニックスETF集中、個人資金流入が加速した背景",
+        "excerpt": "韓国ETF市場でサムスン電子とSKハイニックスへの集中投資需要が拡大し、両銘柄の組み入れ比率が40～60%台に達する商品が増えている。",
+        "body": "韓国の上場投資信託（ETF）市場で、サムスン電子とSKハイニックス、いわゆる「サムジョンニックス」への資金集中が強まっている。韓国経済新聞によると、今年に入り有価証券市場に新規上場した国内株式型ETF18本のうち、両銘柄の合計比率が40%を超える商品は7本で、約39%に達した。半導体・テクノロジーETFだけでなく、高配当、バリュー株、債券混合型商品でも両銘柄の比率が高まっている。一部商品では比率が60%を超えるか50%近くに達し、分散投資効果が弱まる可能性も指摘される。半導体大型株に絞って投資したい個人需要がETF資金流入を押し上げたとみられる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "三星电子与SK海力士ETF持仓集中，个人资金快速流入背后原因浮现",
+        "excerpt": "韩国ETF市场中，投资者对三星电子和SK海力士的集中配置需求上升，多只产品两股合计权重达到40%至60%以上。",
+        "body": "韩国交易型开放式指数基金（ETF）市场中，资金正明显集中流向三星电子和SK海力士。韩国经济新闻报道称，今年以来在韩国主板市场新上市的18只韩国股票型ETF中，有7只产品对这两只股票的合计持仓比例超过40%，约占39%。这种高比例配置并不限于半导体和科技ETF，高股息、价值股以及股债混合型产品中也出现了类似现象。部分产品中三星电子和SK海力士的合计权重超过60%，或接近50%，引发分散投资效果可能减弱的担忧。市场分析认为，个人投资者希望集中押注半导体龙头股，是ETF资金流入扩大的背景。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Concentración en ETF de Samsung Electronics y SK Hynix explica la entrada de dinero minorista",
+        "excerpt": "En el mercado surcoreano de ETF crece la demanda por exposición concentrada a Samsung Electronics y SK Hynix, con varios fondos asignando entre 40% y más de 60% a ambas acciones.",
+        "body": "El mercado surcoreano de fondos cotizados (ETF) muestra una concentración cada vez mayor en Samsung Electronics y SK Hynix. Según Hankyung, de los 18 ETF de renta variable local listados este año en el mercado principal KOSPI, siete, cerca del 39%, tenían una ponderación combinada superior al 40% en esas dos acciones. La exposición elevada no se limita a ETF de semiconductores o tecnología; también aparece en productos de altos dividendos, valor y mixtos con bonos. Algunos fondos superan el 60% o se acercan al 50% en ambos valores, lo que genera dudas sobre el debilitamiento del efecto de diversificación. La entrada de dinero refleja la demanda minorista de apuestas concentradas en grandes acciones de semiconductores. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Concentração em ETFs de Samsung Electronics e SK Hynix mostra avanço do dinheiro pessoa física",
+        "excerpt": "No mercado sul-coreano de ETFs, cresce a busca por exposição concentrada a Samsung Electronics e SK Hynix, com vários fundos alocando de 40% a mais de 60% nas duas ações.",
+        "body": "O mercado sul-coreano de ETFs registra uma concentração mais forte em Samsung Electronics e SK Hynix. Segundo o Hankyung, entre 18 ETFs de ações domésticas listados neste ano no mercado principal KOSPI, sete, cerca de 39%, tinham peso combinado superior a 40% nesses dois papéis. A exposição elevada não aparece apenas em ETFs de semicondutores e tecnologia; produtos de dividendos, valor e mistos com títulos também aumentaram a alocação. Em alguns fundos, a participação conjunta passa de 60% ou se aproxima de 50%, levantando preocupação sobre uma possível perda de diversificação. A tendência reflete a demanda de investidores pessoa física por apostas concentradas nas líderes de semicondutores. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "ETF-Fokus auf Samsung Electronics und SK Hynix erklärt starken Zufluss von Privatanlegergeld",
+        "excerpt": "Am südkoreanischen ETF-Markt steigt die Nachfrage nach konzentrierter Beteiligung an Samsung Electronics und SK Hynix; mehrere Fonds halten beide Titel mit 40% bis über 60%.",
+        "body": "Der südkoreanische ETF-Markt zeigt eine wachsende Konzentration auf Samsung Electronics und SK Hynix. Laut Hankyung hielten von 18 in diesem Jahr neu am KOSPI gelisteten inländischen Aktien-ETFs sieben Produkte, also rund 39%, die beiden Aktien zusammen mit mehr als 40%. Die hohe Gewichtung betrifft nicht nur Halbleiter- und Technologie-ETFs, sondern auch Dividenden-, Value- und gemischte Anleiheprodukte. Einige Fonds kommen auf mehr als 60% oder fast 50% in den beiden Werten, was Zweifel an der Diversifikationswirkung weckt. Hintergrund ist die Nachfrage privater Anleger nach kompakten Wetten auf große Halbleiterwerte. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "La concentration des ETF sur Samsung Electronics et SK Hynix éclaire l’afflux d’argent particulier",
+        "excerpt": "Sur le marché sud-coréen des ETF, la demande d’exposition concentrée à Samsung Electronics et SK Hynix augmente, plusieurs fonds plaçant 40% à plus de 60% sur les deux titres.",
+        "body": "Le marché sud-coréen des fonds indiciels cotés (ETF) connaît une concentration accrue sur Samsung Electronics et SK Hynix. Selon Hankyung, parmi les 18 ETF d’actions coréennes nouvellement cotés cette année sur le marché principal KOSPI, sept, soit environ 39%, détenaient les deux titres à plus de 40% au total. Cette forte exposition ne concerne pas seulement les ETF de semi-conducteurs ou de technologie; elle apparaît aussi dans des produits de dividendes, de valeur et mixtes avec obligations. Certains fonds dépassent 60% ou approchent 50% sur ces deux actions, ce qui soulève des questions sur l’affaiblissement de la diversification. La tendance reflète la demande des particuliers pour des paris concentrés sur les grandes valeurs des semi-conducteurs. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "تركز صناديق ETF على سامسونغ إلكترونيكس وSK هاينكس يكشف سبب تدفق أموال الأفراد",
+        "excerpt": "يشهد سوق صناديق ETF في كوريا الجنوبية طلبا متزايدا على التعرض المركز لسهمي سامسونغ إلكترونيكس وSK هاينكس، مع بلوغ أوزانهما في بعض المنتجات 40% إلى أكثر من 60%.",
+        "body": "يشهد سوق صناديق المؤشرات المتداولة في كوريا الجنوبية تركزا أوضح في سهمي سامسونغ إلكترونيكس وSK هاينكس. وبحسب هانكيونغ، فإن 7 من أصل 18 صندوق ETF للأسهم المحلية أدرجت هذا العام في سوق كوسبي، أي نحو 39%، تجاوز الوزن المجمع للسهمين فيها 40%. ولا يقتصر هذا الانكشاف المرتفع على صناديق أشباه الموصلات والتكنولوجيا، بل يظهر أيضا في منتجات توزيعات الأرباح وأسهم القيمة والصناديق المختلطة بالسندات. وفي بعض المنتجات يتجاوز وزن السهمين 60% أو يقترب من 50%، ما يثير تساؤلات حول ضعف أثر التنويع. ويعكس الاتجاه طلب المستثمرين الأفراد على رهانات مركزة في أسهم أشباه الموصلات الكبرى. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Samsung Electronics और SK Hynix ETF में बढ़ता झुकाव, खुदरा धन प्रवाह की वजह सामने",
+        "excerpt": "दक्षिण कोरिया के ETF बाजार में Samsung Electronics और SK Hynix पर केंद्रित निवेश मांग बढ़ रही है, कई फंडों में दोनों शेयरों का संयुक्त वजन 40% से 60% से अधिक तक पहुंचा।",
+        "body": "दक्षिण कोरिया के एक्सचेंज ट्रेडेड फंड बाजार में Samsung Electronics और SK Hynix की ओर धन का झुकाव स्पष्ट हो रहा है। Hankyung के अनुसार, इस वर्ष KOSPI मुख्य बाजार में सूचीबद्ध 18 घरेलू इक्विटी ETF में से 7, यानी करीब 39%, में इन दोनों शेयरों का संयुक्त वजन 40% से अधिक था। यह ऊंचा एक्सपोजर केवल सेमीकंडक्टर और टेक ETF तक सीमित नहीं है; उच्च लाभांश, वैल्यू शेयर और बॉन्ड-मिश्रित उत्पादों में भी दोनों शेयरों की हिस्सेदारी बढ़ी है। कुछ फंडों में इनका वजन 60% से अधिक या 50% के करीब है, जिससे विविधीकरण प्रभाव कमजोर पड़ने की चिंता उठती है। बड़े सेमीकंडक्टर शेयरों पर केंद्रित दांव लगाने की खुदरा निवेशकों की मांग ETF प्रवाह का प्रमुख कारण मानी जा रही है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Konsentrasi ETF pada Samsung Electronics dan SK Hynix Ungkap Alasan Dana Ritel Mengalir",
+        "excerpt": "Di pasar ETF Korea Selatan, permintaan untuk eksposur terkonsentrasi pada Samsung Electronics dan SK Hynix meningkat, dengan beberapa produk menempatkan 40% hingga lebih dari 60% pada dua saham itu.",
+        "body": "Pasar exchange-traded fund (ETF) Korea Selatan menunjukkan konsentrasi yang makin kuat pada Samsung Electronics dan SK Hynix. Menurut Hankyung, dari 18 ETF saham domestik yang baru tercatat tahun ini di pasar utama KOSPI, tujuh produk, atau sekitar 39%, memiliki bobot gabungan kedua saham itu di atas 40%. Eksposur tinggi ini tidak hanya muncul pada ETF semikonduktor dan teknologi, tetapi juga pada produk dividen tinggi, saham nilai, dan campuran obligasi. Sebagian produk memiliki porsi lebih dari 60% atau mendekati 50%, sehingga menimbulkan kekhawatiran bahwa efek diversifikasi dapat melemah. Tren ini mencerminkan permintaan investor ritel untuk taruhan terkonsentrasi pada saham besar semikonduktor. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "0f18fe6f0b25",
+    "slug": "디지털로그-신한퓨처스랩-선정소셜미디어를-금융-고객-접점으로-783372",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T01:08:30.207Z",
+    "updatedAt": "2026-05-08T01:08:30.207Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12040785",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12040785",
+    "titleFingerprint": "a23199ffd6f94d6e440a787499770ee5568db040",
+    "dedupKeys": [
+      "0f18fe6f0b2589df0c73cdc1d6f683aad7be75e0",
+      "a23199ffd6f94d6e440a787499770ee5568db040",
+      "11aa457642e40580df873ace40ffcdc6e4d9b24e"
+    ],
+    "imageUrl": "/images/articles/0f18fe6f0b25.jpg",
+    "i18n": {
+      "ko": {
+        "title": "디지털로그 신한퓨처스랩 선정, 소셜미디어 금융 고객 접점 전환 주목",
+        "excerpt": "AI 소셜미디어 솔루션 기업 디지털로그가 신한금융그룹 스타트업 육성 프로그램 신한퓨처스랩에 선정되며 댓글 분석과 실시간 상담 연결 기반 금융 고객 접점 확대를 추진한다.",
+        "body": "AI 소셜미디어 솔루션 기업 디지털로그(Digitalog Technologies Inc.)가 신한금융그룹의 스타트업 육성 프로그램인 신한퓨처스랩에 선정됐다. 이번 선정은 소셜미디어를 금융사의 고객 접점으로 전환하려는 흐름 속에서 이뤄졌다. 디지털로그는 댓글 분석부터 실시간 상담 연결까지 이어지는 솔루션을 통해 고객 반응을 파악하고 상담 채널로 연결하는 데 초점을 맞추고 있다. 금융권에서는 소셜미디어가 단순 홍보 채널을 넘어 고객 문의와 상담이 발생하는 접점으로 확장되고 있다. 디지털로그의 이번 신한퓨처스랩 선정은 이러한 전환을 가속화하는 사례로 평가된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Digitalog Named to Shinhan Future’s Lab as Social Media Becomes a Finance Contact Point",
+        "excerpt": "Digitalog Technologies Inc., an AI social media solutions company, has been selected for Shinhan Financial Group’s startup program, advancing comment analysis and real-time consultation links for finance customers.",
+        "body": "Digitalog Technologies Inc., an AI social media solutions company, has been selected for Shinhan Financial Group’s startup acceleration program, Shinhan Future’s Lab. The selection comes as social media is increasingly being positioned as a customer contact point for financial companies. Digitalog focuses on solutions that connect comment analysis with real-time consultation, helping identify customer responses and route them to advisory channels. In finance, social media is expanding beyond promotion into a space where inquiries and consultations occur. Digitalog’s selection by Shinhan Future’s Lab is viewed as an example of accelerating that shift. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "Digitalogが新韓フューチャーズラボ選定、SNSを金融顧客接点へ",
+        "excerpt": "AIソーシャルメディアソリューション企業Digitalogが新韓金融グループのスタートアップ育成プログラムに選定され、コメント分析とリアルタイム相談接続を進める。",
+        "body": "AIソーシャルメディアソリューション企業のDigitalog Technologies Inc.が、新韓金融グループのスタートアップ育成プログラム「新韓フューチャーズラボ」に選定された。今回の選定は、ソーシャルメディアを金融会社の顧客接点へ転換しようとする流れの中で行われた。Digitalogは、コメント分析からリアルタイム相談接続までつなげるソリューションにより、顧客反応を把握し相談チャネルへ連携することに重点を置く。金融業界では、SNSが単なる広報チャネルを超え、顧客問い合わせや相談が生じる接点へ広がっている。今回の選定は、その転換を加速する事例とみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Digitalog入选新韩Future’s Lab，社交媒体转向金融客户触点",
+        "excerpt": "AI社交媒体解决方案企业Digitalog入选新韩金融集团创业企业培育项目，推动从评论分析到实时咨询连接的金融客户触点扩展。",
+        "body": "AI社交媒体解决方案企业Digitalog Technologies Inc.入选新韩金融集团的创业企业培育项目Shinhan Future’s Lab。此次入选发生在社交媒体被转化为金融公司客户触点的趋势之中。Digitalog的解决方案覆盖从评论分析到实时咨询连接，重点在于掌握客户反应并连接至咨询渠道。在金融行业，社交媒体正从单纯宣传渠道扩展为发生客户咨询和服务对话的接点。Digitalog此次入选Shinhan Future’s Lab，被视为推动这一转变加速的案例。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Digitalog entra en Shinhan Future’s Lab y acerca las redes sociales al cliente financiero",
+        "excerpt": "Digitalog Technologies Inc., empresa de soluciones de IA para redes sociales, fue seleccionada por Shinhan Future’s Lab para impulsar análisis de comentarios y conexión con consultas en tiempo real.",
+        "body": "Digitalog Technologies Inc., empresa de soluciones de IA para redes sociales, fue seleccionada para Shinhan Future’s Lab, el programa de apoyo a startups de Shinhan Financial Group. La selección se produce en un contexto en el que las redes sociales se convierten en un punto de contacto con clientes para las firmas financieras. Digitalog se centra en soluciones que van del análisis de comentarios a la conexión con consultas en tiempo real, para identificar respuestas de clientes y enlazarlas con canales de atención. En finanzas, las redes sociales avanzan más allá de la promoción hacia consultas y asesoría. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Digitalog é escolhida pelo Shinhan Future’s Lab para transformar redes sociais em canal financeiro",
+        "excerpt": "A Digitalog Technologies Inc., empresa de soluções de IA para redes sociais, foi selecionada pelo programa Shinhan Future’s Lab e mira análise de comentários e atendimento em tempo real.",
+        "body": "A Digitalog Technologies Inc., empresa de soluções de IA para redes sociais, foi selecionada para o Shinhan Future’s Lab, programa de aceleração de startups do Shinhan Financial Group. A escolha ocorre em meio ao movimento de transformar redes sociais em pontos de contato com clientes de empresas financeiras. A Digitalog foca em soluções que ligam análise de comentários a consultas em tempo real, permitindo identificar reações de clientes e conectá-las a canais de atendimento. No setor financeiro, redes sociais deixam de ser apenas promoção e passam a abrigar dúvidas e consultas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Digitalog für Shinhan Future’s Lab ausgewählt: Social Media als Finanzkunden-Kontaktpunkt",
+        "excerpt": "Digitalog Technologies Inc., Anbieter von KI-Lösungen für Social Media, wurde in Shinhan Future’s Lab aufgenommen und treibt Kommentaranalysen sowie Echtzeit-Beratungskontakte voran.",
+        "body": "Digitalog Technologies Inc., ein Anbieter von KI-Lösungen für Social Media, wurde für Shinhan Future’s Lab ausgewählt, das Startup-Förderprogramm der Shinhan Financial Group. Die Auswahl erfolgt in einer Phase, in der soziale Medien zunehmend als Kundenkontaktpunkt für Finanzunternehmen genutzt werden. Digitalog konzentriert sich auf Lösungen, die Kommentaranalysen mit Echtzeit-Beratung verbinden, um Kundenreaktionen zu erfassen und an Beratungskanäle weiterzuleiten. Im Finanzsektor entwickeln sich soziale Medien über reine Werbung hinaus zu Orten für Anfragen und Beratung. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Digitalog retenue par Shinhan Future’s Lab pour faire des réseaux sociaux un point client financier",
+        "excerpt": "Digitalog Technologies Inc., spécialiste des solutions d’IA pour les réseaux sociaux, rejoint Shinhan Future’s Lab afin de relier analyse des commentaires et consultation en temps réel.",
+        "body": "Digitalog Technologies Inc., entreprise de solutions d’IA pour les réseaux sociaux, a été sélectionnée par Shinhan Future’s Lab, le programme d’accompagnement de startups de Shinhan Financial Group. Cette sélection intervient alors que les réseaux sociaux deviennent des points de contact client pour les sociétés financières. Digitalog met l’accent sur des solutions reliant l’analyse des commentaires à la consultation en temps réel, afin d’identifier les réactions des clients et de les diriger vers des canaux de conseil. Dans la finance, les réseaux sociaux dépassent la simple promotion pour accueillir demandes et consultations. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "اختيار Digitalog في Shinhan Future’s Lab لتحويل التواصل الاجتماعي إلى نقطة اتصال مالية",
+        "excerpt": "اختيرت Digitalog Technologies Inc.، شركة حلول الذكاء الاصطناعي لوسائل التواصل الاجتماعي، ضمن برنامج Shinhan Future’s Lab لتعزيز تحليل التعليقات والربط بالاستشارات الفورية.",
+        "body": "اختيرت Digitalog Technologies Inc.، وهي شركة حلول ذكاء اصطناعي لوسائل التواصل الاجتماعي، ضمن برنامج Shinhan Future’s Lab التابع لمجموعة شينهان المالية لدعم الشركات الناشئة. يأتي الاختيار وسط توجه لتحويل وسائل التواصل الاجتماعي إلى نقطة اتصال مع عملاء الشركات المالية. تركز Digitalog على حلول تمتد من تحليل التعليقات إلى الربط بالاستشارات الفورية، بما يساعد على فهم ردود العملاء وتوجيهها إلى قنوات الاستشارة. في القطاع المالي، تتوسع وسائل التواصل من قناة ترويجية فقط إلى مساحة للاستفسارات والاستشارات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Digitalog Shinhan Future’s Lab में चयनित, सोशल मीडिया बनेगा वित्तीय ग्राहक संपर्क बिंदु",
+        "excerpt": "AI सोशल मीडिया समाधान कंपनी Digitalog Technologies Inc. को Shinhan Financial Group के स्टार्टअप कार्यक्रम में चुना गया, जिससे टिप्पणी विश्लेषण और रियल-टाइम परामर्श संपर्क को बढ़ावा मिलेगा।",
+        "body": "AI सोशल मीडिया समाधान कंपनी Digitalog Technologies Inc. को Shinhan Financial Group के स्टार्टअप संवर्धन कार्यक्रम Shinhan Future’s Lab में चुना गया है। यह चयन ऐसे समय हुआ है जब सोशल मीडिया को वित्तीय कंपनियों के ग्राहक संपर्क बिंदु में बदलने की दिशा तेज हो रही है। Digitalog टिप्पणी विश्लेषण से लेकर रियल-टाइम परामर्श कनेक्शन तक की समाधान शृंखला पर केंद्रित है, जिससे ग्राहक प्रतिक्रियाओं को समझकर उन्हें परामर्श चैनल से जोड़ा जा सके। वित्त क्षेत्र में सोशल मीडिया केवल प्रचार माध्यम से आगे बढ़कर ग्राहक पूछताछ और सलाह का मंच बन रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Digitalog Terpilih di Shinhan Future’s Lab, Media Sosial Jadi Titik Kontak Finansial",
+        "excerpt": "Digitalog Technologies Inc., perusahaan solusi AI untuk media sosial, terpilih dalam program startup Shinhan Future’s Lab untuk mendorong analisis komentar dan koneksi konsultasi real-time.",
+        "body": "Digitalog Technologies Inc., perusahaan solusi AI untuk media sosial, terpilih dalam Shinhan Future’s Lab, program pembinaan startup milik Shinhan Financial Group. Pemilihan ini terjadi saat media sosial semakin diarahkan menjadi titik kontak pelanggan bagi perusahaan finansial. Digitalog berfokus pada solusi yang menghubungkan analisis komentar hingga konsultasi real-time, sehingga respons pelanggan dapat dipahami dan diarahkan ke kanal konsultasi. Di sektor keuangan, media sosial berkembang dari sekadar kanal promosi menjadi ruang munculnya pertanyaan dan konsultasi pelanggan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "e2321839a134",
     "slug": "속보-칠천피-코스피-또-최고치-행진143-오른-749005-마감-170031",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Sohn Kyung-shik Dorong Kerja Sama Korea-China di AI dan Semikonduktor",
         "excerpt": "Federasi Pengusaha Korea menggelar pertemuan pebisnis Korea-China di Shanghai untuk membahas kerja sama ekonomi dan mesin pertumbuhan baru seperti AI dan semikonduktor.",
         "body": "Sohn Kyung-shik, ketua Federasi Pengusaha Korea, menegaskan dalam pertemuan pebisnis Korea-China di Shanghai bahwa Korea Selatan dan China perlu bekerja sama di bidang AI dan semikonduktor. Federasi tersebut menggelar pertemuan ini sebagai forum komunikasi untuk mengembangkan kerja sama ekonomi kedua negara dan menemukan mesin pertumbuhan baru. Pertemuan berlangsung di Shanghai, dan federasi dijadwalkan bertemu wali kota Shanghai pada tanggal 8 untuk menyampaikan kesulitan yang dihadapi perusahaan Korea yang beroperasi secara lokal. Agenda ini dipandang sebagai kesempatan bagi pelaku usaha kedua negara untuk meninjau arah kerja sama ekonomi dan membahas peluang kolaborasi di industri maju. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a0cf145555db",
-    "slug": "구동휘-ls-mnm-대표-3년-연속-직접-나무-심어-도심-탄소-저감-앞장-421841",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T13:06:36.869Z",
-    "updatedAt": "2026-05-07T13:06:36.869Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039202",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039202",
-    "titleFingerprint": "38c945bd8437060ad86d65ee33128ada7c27322e",
-    "dedupKeys": [
-      "a0cf145555dbb9604a3ba2c7ec16d4de8febedcc",
-      "38c945bd8437060ad86d65ee33128ada7c27322e",
-      "d0490a2b99988a75719c05bf743df34c0abde504"
-    ],
-    "imageUrl": "/images/articles/a0cf145555db.png",
-    "i18n": {
-      "ko": {
-        "title": "LS MnM 구동휘 대표, 3년 연속 나무 심기 참여…도심 탄소 저감 실천",
-        "excerpt": "LS MnM 구동휘 대표가 7일 서울어린이대공원에서 ‘MnM 그리너 캠페인’에 참여해 밀원식물 300본을 심으며 도심 탄소 저감 활동을 이어갔다.",
-        "body": "LS MnM 구동휘 대표가 7일 서울어린이대공원에서 열린 ‘MnM 그리너 캠페인’에 참여해 직접 나무를 심었다. 구 대표는 3년 연속 현장에 나서 도심 탄소 저감과 생물다양성 보전을 위한 임직원 참여형 친환경 활동을 이어가고 있다. 이날 캠페인에서는 꿀벌과 나비의 먹이가 되는 식물 300본을 심었으며, 누적 식재 수는 1000본을 넘어섰다. LS MnM은 2019년부터 친환경 행보를 강화해 왔고 폐열 재활용 등 넷제로 실현을 위한 활동도 추진 중이다. 이번 활동은 기업의 탄소 저감 실천과 도심 생태계 회복 노력이 함께 이뤄진 사례로 평가된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LS MnM CEO Koo Dong-hwi Joins Tree Planting for Third Year to Cut Urban Carbon",
-        "excerpt": "LS MnM CEO Koo Dong-hwi joined the MnM Greener Campaign at Seoul Children’s Grand Park on May 7, planting 300 nectar plants to support urban carbon reduction.",
-        "body": "LS MnM CEO Koo Dong-hwi personally planted trees on May 7 during the ‘MnM Greener Campaign’ at Seoul Children’s Grand Park. For the third consecutive year, Koo has taken part on site in an employee-led environmental activity aimed at reducing urban carbon and protecting biodiversity. The campaign planted 300 nectar plants that serve as food for bees and butterflies, bringing the cumulative total to more than 1,000 plants. LS MnM has strengthened its eco-friendly initiatives since 2019 and is also pursuing net-zero measures such as waste-heat recycling. The activity highlights corporate action on carbon reduction and urban ecosystem recovery. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LS MnM具東輝代表、3年連続で植樹参加…都市の炭素削減を実践",
-        "excerpt": "LS MnMの具東輝代表は5月7日、ソウル子ども大公園で「MnMグリーナーキャンペーン」に参加し、蜜源植物300本を植えた。",
-        "body": "LS MnMの具東輝代表は5月7日、ソウル子ども大公園で開かれた「MnMグリーナーキャンペーン」に参加し、自ら植樹を行った。具代表は3年連続で現場に立ち、都市の炭素削減と生物多様性保全に向けた社員参加型の環境活動を続けている。今回のキャンペーンでは、ミツバチや蝶の餌となる蜜源植物300本を植え、累計植栽数は1000本を超えた。LS MnMは2019年から環境配慮の取り組みを強化しており、廃熱リサイクルなどネットゼロ実現に向けた活動も進めている。今回の活動は、企業による炭素削減実践と都市生態系回復の取り組みを示す事例となった。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "LS MnM代表具东辉连续三年参与植树，推动城市碳减排实践",
-        "excerpt": "LS MnM代表具东辉5月7日在首尔儿童大公园参加“MnM Greener Campaign”，种植300株蜜源植物，持续推动城市碳减排。",
-        "body": "LS MnM代表具东辉5月7日在首尔儿童大公园举行的“MnM Greener Campaign”中亲自参与植树。具代表已连续三年到现场参加这一由员工参与的环保活动，旨在减少城市碳排放并保护生物多样性。本次活动种植了300株供蜜蜂和蝴蝶取食的蜜源植物，累计种植数量已超过1000株。LS MnM自2019年起持续加强环保行动，并推进废热再利用等实现净零目标的措施。此次活动体现了企业在碳减排实践与城市生态系统恢复方面的努力。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "CEO de LS MnM Koo Dong-hwi planta árboles por tercer año para reducir carbono urbano",
-        "excerpt": "Koo Dong-hwi, CEO de LS MnM, participó el 7 de mayo en la campaña MnM Greener en Seoul Children’s Grand Park y plantó 300 especies nectaríferas.",
-        "body": "Koo Dong-hwi, CEO de LS MnM, plantó árboles personalmente el 7 de mayo durante la ‘MnM Greener Campaign’ celebrada en Seoul Children’s Grand Park. Por tercer año consecutivo, Koo acudió al lugar para participar en una actividad ambiental con empleados, enfocada en reducir el carbono urbano y proteger la biodiversidad. En la campaña se plantaron 300 especies nectaríferas que sirven de alimento a abejas y mariposas, con lo que el total acumulado superó las 1.000 plantas. LS MnM refuerza sus iniciativas ecológicas desde 2019 y también impulsa medidas de cero neto como el reciclaje de calor residual. La acción muestra esfuerzos corporativos de reducción de carbono y recuperación del ecosistema urbano. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "CEO da LS MnM Koo Dong-hwi planta árvores pelo 3º ano para reduzir carbono urbano",
-        "excerpt": "Koo Dong-hwi, CEO da LS MnM, participou em 7 de maio da campanha MnM Greener no Seoul Children’s Grand Park e plantou 300 plantas nectaríferas.",
-        "body": "Koo Dong-hwi, CEO da LS MnM, plantou árvores pessoalmente em 7 de maio durante a ‘MnM Greener Campaign’ no Seoul Children’s Grand Park. Pelo terceiro ano consecutivo, Koo esteve no local para participar de uma ação ambiental com funcionários, voltada à redução de carbono urbano e à proteção da biodiversidade. Na campanha foram plantadas 300 plantas nectaríferas que servem de alimento para abelhas e borboletas, elevando o total acumulado para mais de 1.000 plantas. A LS MnM fortalece suas iniciativas ambientais desde 2019 e também promove medidas de net zero, como a reciclagem de calor residual. A atividade mostra esforços corporativos de redução de carbono e recuperação do ecossistema urbano. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LS-MnM-Chef Koo Dong-hwi pflanzt im dritten Jahr Bäume für weniger Stadt-CO2",
-        "excerpt": "LS-MnM-Chef Koo Dong-hwi nahm am 7. Mai im Seoul Children’s Grand Park an der MnM Greener Campaign teil und pflanzte 300 Nektarpflanzen.",
-        "body": "LS-MnM-Chef Koo Dong-hwi pflanzte am 7. Mai bei der ‘MnM Greener Campaign’ im Seoul Children’s Grand Park persönlich Bäume. Zum dritten Jahr in Folge nahm Koo vor Ort an einer von Mitarbeitenden getragenen Umweltaktion teil, die auf die Verringerung von städtischem Kohlenstoff und den Schutz der Biodiversität abzielt. Bei der Kampagne wurden 300 Nektarpflanzen gesetzt, die Bienen und Schmetterlingen als Nahrung dienen; damit stieg die kumulierte Zahl auf über 1.000 Pflanzen. LS MnM verstärkt seit 2019 seine umweltfreundlichen Aktivitäten und verfolgt auch Net-Zero-Maßnahmen wie die Wiederverwertung von Abwärme. Die Aktion zeigt Unternehmensbemühungen zur CO2-Reduktion und zur Erholung urbaner Ökosysteme. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "LS MnM: Koo Dong-hwi plante des arbres pour la 3e année et réduit le carbone urbain",
-        "excerpt": "Koo Dong-hwi, PDG de LS MnM, a participé le 7 mai à la MnM Greener Campaign au Seoul Children’s Grand Park et planté 300 plantes mellifères.",
-        "body": "Koo Dong-hwi, PDG de LS MnM, a planté lui-même des arbres le 7 mai lors de la ‘MnM Greener Campaign’ organisée au Seoul Children’s Grand Park. Pour la troisième année consécutive, il s’est rendu sur le terrain afin de participer à une action environnementale avec les employés, visant à réduire le carbone urbain et à préserver la biodiversité. La campagne a permis de planter 300 plantes mellifères servant de nourriture aux abeilles et aux papillons, portant le total cumulé à plus de 1.000 plants. LS MnM renforce ses initiatives écologiques depuis 2019 et mène aussi des actions vers le net zéro, comme la réutilisation de la chaleur fatale. Cette activité illustre les efforts de l’entreprise pour réduire le carbone et restaurer l’écosystème urbain. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "رئيس LS MnM كو دونغ هوي يزرع الأشجار للعام الثالث لخفض كربون المدن",
-        "excerpt": "شارك كو دونغ هوي، رئيس LS MnM، في 7 مايو في حملة MnM Greener بحديقة سيول للأطفال وزرع 300 نبات غذائي للنحل والفراشات.",
-        "body": "شارك كو دونغ هوي، رئيس LS MnM، في 7 مايو في حملة ‘MnM Greener Campaign’ التي أقيمت في حديقة سيول للأطفال، وقام بزراعة الأشجار بنفسه. وللعام الثالث على التوالي، يشارك كو ميدانياً في نشاط بيئي يضم الموظفين ويهدف إلى خفض الكربون في المدن وحماية التنوع الحيوي. وشهدت الحملة زراعة 300 نبات يوفر الغذاء للنحل والفراشات، ليتجاوز العدد التراكمي 1000 نبتة. ومنذ عام 2019، عززت LS MnM خطواتها الصديقة للبيئة، كما تواصل أنشطة لتحقيق الحياد الصفري مثل إعادة استخدام الحرارة المهدرة. وتبرز هذه الخطوة جهود الشركة في خفض الكربون واستعادة النظام البيئي الحضري. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "LS MnM के सीईओ कू डोंग-ह्वी ने तीसरे साल लगाए पेड़, शहरी कार्बन कटौती पर जोर",
-        "excerpt": "LS MnM के सीईओ कू डोंग-ह्वी ने 7 मई को Seoul Children’s Grand Park में MnM Greener Campaign में भाग लेकर 300 मधुरस पौधे लगाए।",
-        "body": "LS MnM के सीईओ कू डोंग-ह्वी ने 7 मई को Seoul Children’s Grand Park में आयोजित ‘MnM Greener Campaign’ में भाग लेकर स्वयं पौधे लगाए। कू लगातार तीसरे वर्ष स्थल पर पहुंचे और कर्मचारियों की भागीदारी वाले पर्यावरण कार्यक्रम के जरिए शहरी कार्बन घटाने तथा जैव विविधता संरक्षण का संदेश दिया। इस अभियान में मधुमक्खियों और तितलियों के भोजन के रूप में उपयोगी 300 मधुरस पौधे लगाए गए, जिससे कुल रोपे गए पौधों की संख्या 1000 से अधिक हो गई। LS MnM ने 2019 से पर्यावरण-अनुकूल गतिविधियां मजबूत की हैं और अपशिष्ट ऊष्मा के पुनर्चक्रण जैसे नेट-जीरो उपाय भी आगे बढ़ा रही है। यह गतिविधि कार्बन कटौती और शहरी पारिस्थितिकी बहाली के कॉर्पोरेट प्रयास को दिखाती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "CEO LS MnM Koo Dong-hwi Tanam Pohon Tiga Tahun Beruntun, Kurangi Karbon Kota",
-        "excerpt": "CEO LS MnM Koo Dong-hwi mengikuti MnM Greener Campaign pada 7 Mei di Seoul Children’s Grand Park dan menanam 300 tanaman pakan lebah serta kupu-kupu.",
-        "body": "CEO LS MnM Koo Dong-hwi secara langsung menanam pohon pada 7 Mei dalam ‘MnM Greener Campaign’ yang digelar di Seoul Children’s Grand Park. Untuk tahun ketiga berturut-turut, Koo hadir di lokasi dalam kegiatan lingkungan yang melibatkan karyawan, dengan tujuan mengurangi karbon perkotaan dan menjaga keanekaragaman hayati. Dalam kampanye ini ditanam 300 tanaman yang menjadi sumber makanan bagi lebah dan kupu-kupu, sehingga jumlah kumulatif penanaman melampaui 1.000 tanaman. LS MnM telah memperkuat langkah ramah lingkungan sejak 2019 dan juga menjalankan upaya net zero seperti daur ulang panas buangan. Kegiatan ini menunjukkan praktik perusahaan dalam pengurangan karbon dan pemulihan ekosistem perkotaan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "46961f125745",
-    "slug": "빌리지베이비-서울영커리언스-인턴십-참여로-청년-인재-육성-앞장-106571",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T13:04:18.766Z",
-    "updatedAt": "2026-05-07T13:04:18.766Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039210",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039210",
-    "titleFingerprint": "5181cf145cf3472841f9d140be2d4f1184f4f505",
-    "dedupKeys": [
-      "46961f125745affb44abfc3f52baff050f5f5741",
-      "5181cf145cf3472841f9d140be2d4f1184f4f505",
-      "e2a0b1be8d1287a2819c1c2412df108f996d49ca"
-    ],
-    "imageUrl": "/images/articles/46961f125745.jpg",
-    "i18n": {
-      "ko": {
-        "title": "빌리지베이비, 서울영커리언스 인턴십 참여로 청년 실무 인재 육성 강화",
-        "excerpt": "임신·육아 플랫폼 베이비빌리를 운영하는 빌리지베이비가 서울영커리언스 인턴십에 참여해 전국 8개 대학 인턴 8명에게 핵심 실무 경험을 제공한다.",
-        "body": "빌리지베이비가 ‘서울영커리언스 인턴십’에 참여하며 청년 인재 육성에 나섰다. 임신·육아 버티컬 플랫폼 ‘베이비빌리’를 운영하는 빌리지베이비에는 전국 8개 대학에서 선발된 인턴 8명이 합류했다. 이들은 마케팅, 디자인, MD 등 핵심 직무에서 실무를 주도하며 현장 경험을 쌓는다. 이번 참여는 청년들의 실무 역량 강화를 위해 양질의 일 경험 기회를 지속적으로 확대하려는 취지다. 기업은 플랫폼 운영 과정에서 필요한 직무 경험을 제공하고, 참여 인턴은 실제 업무 흐름을 익힐 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Village Baby Joins Seoul Young Career Internship to Train Young Talent",
-        "excerpt": "Village Baby, operator of pregnancy and parenting platform Baby Billy, joined the Seoul Young Career Internship, giving eight interns from eight universities core work experience.",
-        "body": "Village Baby has joined the Seoul Young Career Internship to support the development of young talent. The company, which operates the pregnancy and parenting vertical platform Baby Billy, welcomed eight interns selected from eight universities nationwide. The interns will lead practical work in key roles including marketing, design, and merchandising, gaining hands-on experience in the field. The program is intended to keep expanding quality work opportunities that strengthen young people’s practical capabilities. Through platform operations, the company provides job experience, while interns learn real workplace processes. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ビレッジベイビー、ソウルヤングキャリアインターン参加で若手育成を強化",
-        "excerpt": "妊娠・育児プラットフォーム「Baby Billy」を運営するビレッジベイビーが、全国8大学のインターン8人に主要実務経験を提供する。",
-        "body": "ビレッジベイビーは「ソウルヤングキャリアインターンシップ」に参加し、若手人材の育成に乗り出した。妊娠・育児バーティカルプラットフォーム「Baby Billy」を運営する同社には、全国8大学から選ばれたインターン8人が加わった。参加者はマーケティング、デザイン、MDなどの主要職務で実務を担い、現場経験を積む。今回の参加は、若者の実務能力を高めるため、質の高い就業経験の機会を継続的に広げる趣旨だ。企業はプラットフォーム運営に必要な職務経験を提供し、インターンは実際の業務の流れを学ぶ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Village Baby参与首尔Young Careers实习，强化青年实务人才培养",
-        "excerpt": "运营孕产育儿平台Baby Billy的Village Baby参与首尔Young Careers实习，为8所大学的8名实习生提供核心实务经验。",
-        "body": "Village Baby参与“首尔Young Careers实习”，投入青年人才培养。该公司运营孕产育儿垂直平台“Baby Billy”，此次共有来自全国8所大学的8名实习生加入。实习生将在营销、设计、MD等核心岗位主导实务工作，积累现场经验。此次参与旨在持续扩大高质量工作体验机会，以增强青年人的实务能力。企业将在平台运营过程中提供所需岗位经验，参与实习的学生则可学习真实业务流程。出处: mk.co.kr"
-      },
-      "es": {
-        "title": "Village Baby se suma a Seoul Young Careers para formar talento joven",
-        "excerpt": "Village Baby, operadora de la plataforma de embarazo y crianza Baby Billy, participa en Seoul Young Careers y ofrece experiencia clave a ocho becarios de ocho universidades.",
-        "body": "Village Baby participa en la pasantía Seoul Young Careers para impulsar la formación de talento joven. La empresa, que opera la plataforma vertical de embarazo y crianza Baby Billy, incorporó a ocho becarios seleccionados de ocho universidades de todo el país. Ellos asumirán trabajo práctico en áreas clave como marketing, diseño y MD, acumulando experiencia directa. La participación busca ampliar de forma continua oportunidades laborales de calidad que fortalezcan las capacidades prácticas de los jóvenes. La compañía ofrece experiencia vinculada a la operación de la plataforma, mientras los becarios aprenden procesos reales de trabajo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Village Baby entra no Seoul Young Careers para formar jovens talentos",
-        "excerpt": "A Village Baby, operadora da plataforma de gravidez e parentalidade Baby Billy, participa do Seoul Young Careers e oferece experiência prática a oito estagiários de oito universidades.",
-        "body": "A Village Baby participa do estágio Seoul Young Careers para apoiar a formação de jovens talentos. A empresa, que opera a plataforma vertical de gravidez e parentalidade Baby Billy, recebeu oito estagiários selecionados de oito universidades em todo o país. Eles conduzirão atividades práticas em áreas centrais como marketing, design e MD, acumulando experiência de campo. A iniciativa busca ampliar continuamente oportunidades de trabalho de qualidade para fortalecer as competências práticas dos jovens. A companhia oferece experiência ligada à operação da plataforma, enquanto os estagiários aprendem fluxos reais de trabalho. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Village Baby fördert junge Talente mit Seoul Young Careers Internship",
-        "excerpt": "Village Baby, Betreiber der Schwangerschafts- und Elternplattform Baby Billy, nimmt am Seoul Young Careers Internship teil und bietet acht Praktikanten aus acht Universitäten Praxiserfahrung.",
-        "body": "Village Baby beteiligt sich am Seoul Young Careers Internship und unterstützt damit die Förderung junger Talente. Das Unternehmen betreibt die vertikale Schwangerschafts- und Elternplattform Baby Billy und nahm acht Praktikanten aus acht Universitäten im ganzen Land auf. Sie übernehmen praktische Aufgaben in zentralen Bereichen wie Marketing, Design und MD und sammeln direkte Berufserfahrung. Die Teilnahme soll hochwertige Arbeitserfahrungen weiter ausbauen, um die praktischen Fähigkeiten junger Menschen zu stärken. Das Unternehmen bietet Erfahrungen aus dem Plattformbetrieb, während die Praktikanten reale Arbeitsabläufe kennenlernen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Village Baby rejoint Seoul Young Careers pour former de jeunes talents",
-        "excerpt": "Village Baby, opérateur de la plateforme grossesse et parentalité Baby Billy, participe à Seoul Young Careers et offre une expérience clé à huit stagiaires de huit universités.",
-        "body": "Village Baby participe au stage Seoul Young Careers afin de soutenir la formation de jeunes talents. L’entreprise, qui exploite la plateforme verticale grossesse et parentalité Baby Billy, a accueilli huit stagiaires issus de huit universités du pays. Ils mèneront des missions pratiques dans des fonctions clés comme le marketing, le design et le MD, tout en acquérant une expérience de terrain. Cette participation vise à élargir durablement les occasions d’expérience professionnelle de qualité pour renforcer les compétences pratiques des jeunes. L’entreprise fournit une expérience liée à l’exploitation de la plateforme, tandis que les stagiaires découvrent les processus réels de travail. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "فيليج بيبي تنضم إلى تدريب Seoul Young Careers لتنمية المواهب الشابة",
-        "excerpt": "تشارك فيليج بيبي، مشغلة منصة الحمل والتربية Baby Billy، في تدريب Seoul Young Careers لتوفير خبرة عملية أساسية لثمانية متدربين من ثماني جامعات.",
-        "body": "انضمت فيليج بيبي إلى برنامج تدريب Seoul Young Careers لدعم تنمية المواهب الشابة. وتدير الشركة منصة الحمل والتربية المتخصصة Baby Billy، وقد انضم إليها ثمانية متدربين تم اختيارهم من ثماني جامعات على مستوى البلاد. سيقود المتدربون أعمالا عملية في وظائف رئيسية تشمل التسويق والتصميم وMD، لاكتساب خبرة ميدانية مباشرة. وتهدف المشاركة إلى توسيع فرص تجربة العمل عالية الجودة بصورة مستمرة من أجل تعزيز القدرات العملية للشباب. وتوفر الشركة خبرات مرتبطة بتشغيل المنصة، بينما يتعلم المتدربون مسارات العمل الفعلية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Village Baby ने Seoul Young Careers इंटर्नशिप से युवा प्रतिभा विकास बढ़ाया",
-        "excerpt": "गर्भावस्था और पालन-पोषण प्लेटफॉर्म Baby Billy चलाने वाली Village Baby ने Seoul Young Careers इंटर्नशिप में भाग लेकर आठ विश्वविद्यालयों के आठ इंटर्न को मुख्य कार्य अनुभव दिया।",
-        "body": "Village Baby ने Seoul Young Careers इंटर्नशिप में भाग लेकर युवा प्रतिभा विकास को आगे बढ़ाया है। गर्भावस्था और पालन-पोषण वर्टिकल प्लेटफॉर्म Baby Billy संचालित करने वाली कंपनी में देशभर के आठ विश्वविद्यालयों से चुने गए आठ इंटर्न शामिल हुए। ये इंटर्न मार्केटिंग, डिजाइन और MD जैसे प्रमुख कार्यों में व्यावहारिक काम संभालेंगे और वास्तविक अनुभव प्राप्त करेंगे। इस भागीदारी का उद्देश्य युवाओं की व्यावहारिक क्षमता बढ़ाने के लिए गुणवत्तापूर्ण कार्य अनुभव के अवसरों का लगातार विस्तार करना है। कंपनी प्लेटफॉर्म संचालन से जुड़े कार्य अनुभव देगी, जबकि इंटर्न वास्तविक कामकाजी प्रक्रियाएं सीखेंगे। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Village Baby Ikut Seoul Young Careers untuk Kembangkan Talenta Muda",
-        "excerpt": "Village Baby, pengelola platform kehamilan dan pengasuhan Baby Billy, mengikuti Seoul Young Careers Internship dan memberi pengalaman inti kepada delapan intern dari delapan universitas.",
-        "body": "Village Baby mengikuti Seoul Young Careers Internship untuk mendukung pengembangan talenta muda. Perusahaan yang mengoperasikan platform vertikal kehamilan dan pengasuhan Baby Billy ini menerima delapan intern yang dipilih dari delapan universitas di seluruh negeri. Mereka akan memimpin pekerjaan praktis di fungsi inti seperti pemasaran, desain, dan MD, sambil memperoleh pengalaman lapangan. Partisipasi ini bertujuan terus memperluas kesempatan pengalaman kerja berkualitas guna memperkuat kemampuan praktis anak muda. Perusahaan menyediakan pengalaman kerja yang dibutuhkan dalam operasi platform, sementara para intern mempelajari alur kerja nyata. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "67da098ce5ff",
-    "slug": "광고페이가-쌍끌이-카카오-실적-날았다-513139",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T13:03:24.186Z",
-    "updatedAt": "2026-05-07T13:03:24.186Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039368",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039368",
-    "titleFingerprint": "276d566a3c10634f57758ec299c6b91c688846fb",
-    "dedupKeys": [
-      "67da098ce5ff28aead3445345fb174104f200416",
-      "276d566a3c10634f57758ec299c6b91c688846fb",
-      "4ead127bd5660347b2fb7a611c0fd2e9c131dc8a"
-    ],
-    "imageUrl": "/images/articles/67da098ce5ff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "카카오 1분기 실적 역대 최대…광고·페이 성장에 수익성 개선",
-        "excerpt": "카카오는 7일 올해 1분기 분기 기준 역대 최대 매출과 영업이익을 기록했다고 밝혔다. 카카오톡 개편에 따른 광고 수익 증가와 자회사 매각 등이 실적 개선을 이끌었다.",
-        "body": "카카오는 7일 올해 1분기에 분기 기준 역대 최대 매출과 영업이익을 기록했다고 밝혔다. 카카오톡 개편 이후 광고 수익이 늘었고, 페이 관련 실적도 힘을 보탠 것으로 전해졌다. 여기에 자회사 매각 등으로 비용 구조와 수익성이 개선되며 영업이익 증가로 이어졌다. 이번 실적은 핵심 플랫폼인 카카오톡의 광고 매출 확대와 사업 포트폴리오 조정 효과가 함께 반영된 결과다. 향후 카카오는 메신저 기반 광고와 결제·금융 서비스의 성장 흐름을 이어갈지가 관건이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kakao posts record Q1 results as ads and Pay lift profitability",
-        "excerpt": "Kakao said on May 7 that it recorded its highest-ever quarterly revenue and operating profit in the first quarter, helped by higher ad revenue from a KakaoTalk revamp and affiliate sales.",
-        "body": "Kakao said on May 7 that it posted its highest-ever quarterly revenue and operating profit in the first quarter of this year. Advertising revenue increased after the KakaoTalk revamp, while Pay-related performance also supported results. Profitability improved further as affiliate sales and other measures helped reshape the cost structure, contributing to higher operating profit. The results reflect both stronger ad sales from KakaoTalk, its core platform, and the effect of business portfolio adjustments. The key issue ahead is whether Kakao can sustain growth in messenger-based advertising and payment and financial services. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "カカオ、1-3月期が過去最高業績…広告とペイが収益性を押し上げ",
-        "excerpt": "カカオは7日、今年1-3月期に四半期ベースで過去最高の売上高と営業利益を記録したと発表した。カカオトーク改編による広告収益増と子会社売却などが寄与した。",
-        "body": "カカオは7日、今年1-3月期に四半期ベースで過去最高の売上高と営業利益を記録したと明らかにした。カカオトークの改編後に広告収益が増え、ペイ関連の実績も業績を支えたとされる。さらに子会社売却などにより費用構造と収益性が改善し、営業利益の増加につながった。今回の業績は、核心プラットフォームであるカカオトークの広告売上拡大と事業ポートフォリオ調整の効果が同時に反映された結果だ。今後はメッセンジャー基盤の広告と決済・金融サービスの成長を維持できるかが焦点となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Kakao一季度业绩创历史新高，广告与Pay推动盈利改善",
-        "excerpt": "Kakao于7日表示，今年第一季度实现季度口径历史最高营收和营业利润。KakaoTalk改版带动广告收入增长，子公司出售等也改善了盈利能力。",
-        "body": "Kakao于7日表示，今年第一季度实现了按季度计算的历史最高营收和营业利润。KakaoTalk改版后广告收入增加，Pay相关业绩也为整体表现提供支撑。此外，出售子公司等措施改善了成本结构和盈利能力，推动营业利润增长。本次业绩反映出核心平台KakaoTalk广告收入扩大，以及业务组合调整效果的共同影响。未来，Kakao能否延续基于即时通讯的广告业务以及支付、金融服务的增长势头，将成为关注重点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kakao logra récord trimestral por publicidad y Pay en el primer trimestre",
-        "excerpt": "Kakao informó el 7 de mayo que registró en el primer trimestre sus mayores ingresos y beneficio operativo trimestrales, impulsados por más publicidad tras renovar KakaoTalk y ventas de filiales.",
-        "body": "Kakao informó el 7 de mayo que en el primer trimestre de este año registró sus mayores ingresos y beneficio operativo en términos trimestrales. Los ingresos publicitarios aumentaron tras la renovación de KakaoTalk, mientras que el desempeño relacionado con Pay también apoyó los resultados. Además, la venta de filiales y otras medidas mejoraron la estructura de costos y la rentabilidad, lo que elevó el beneficio operativo. El resultado refleja tanto la expansión de la publicidad en KakaoTalk, su plataforma central, como el efecto del ajuste de su cartera de negocios. De cara al futuro, la clave será si Kakao mantiene el crecimiento en publicidad basada en mensajería y en servicios de pago y financieros. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kakao tem 1º trimestre recorde com publicidade e Pay elevando lucro",
-        "excerpt": "A Kakao informou em 7 de maio que registrou no primeiro trimestre sua maior receita e lucro operacional trimestrais, impulsionados por mais publicidade após a reformulação do KakaoTalk e venda de subsidiárias.",
-        "body": "A Kakao informou em 7 de maio que, no primeiro trimestre deste ano, registrou sua maior receita e seu maior lucro operacional em base trimestral. A receita de publicidade cresceu após a reformulação do KakaoTalk, enquanto o desempenho ligado ao Pay também ajudou os resultados. Além disso, a venda de subsidiárias e outras medidas melhoraram a estrutura de custos e a rentabilidade, contribuindo para o aumento do lucro operacional. O desempenho reflete a expansão da publicidade no KakaoTalk, sua principal plataforma, junto com os efeitos do ajuste do portfólio de negócios. Daqui em diante, o ponto central será se a Kakao conseguirá manter o crescimento em publicidade baseada em mensagens e em serviços de pagamento e financeiros. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kakao erzielt Rekordquartal: Werbung und Pay stärken Profitabilität",
-        "excerpt": "Kakao teilte am 7. Mai mit, im ersten Quartal den höchsten Quartalsumsatz und operativen Gewinn seiner Geschichte erzielt zu haben. Mehr Werbeerlöse nach dem KakaoTalk-Umbau und Verkäufe von Tochterfirmen trugen dazu bei.",
-        "body": "Kakao teilte am 7. Mai mit, im ersten Quartal dieses Jahres den höchsten Umsatz und operativen Gewinn auf Quartalsbasis erzielt zu haben. Nach der Überarbeitung von KakaoTalk stiegen die Werbeeinnahmen, zudem unterstützte die Pay-Sparte die Ergebnisse. Verkäufe von Tochtergesellschaften und weitere Maßnahmen verbesserten außerdem Kostenstruktur und Profitabilität, was zum höheren operativen Gewinn beitrug. Das Ergebnis spiegelt sowohl steigende Werbeumsätze der Kernplattform KakaoTalk als auch Effekte der Anpassung des Geschäftsportfolios wider. Entscheidend wird nun sein, ob Kakao das Wachstum bei messengerbasierter Werbung sowie Zahlungs- und Finanzdiensten fortsetzen kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Kakao signe un premier trimestre record grâce à la publicité et à Pay",
-        "excerpt": "Kakao a annoncé le 7 mai avoir enregistré au premier trimestre son plus haut chiffre d’affaires et bénéfice opérationnel trimestriels, portés par la hausse de la publicité après la refonte de KakaoTalk et des cessions de filiales.",
-        "body": "Kakao a annoncé le 7 mai avoir enregistré au premier trimestre de cette année son plus haut chiffre d’affaires et son plus haut bénéfice opérationnel sur une base trimestrielle. Les revenus publicitaires ont augmenté après la refonte de KakaoTalk, tandis que les performances liées à Pay ont également soutenu les résultats. Les cessions de filiales et d’autres mesures ont en outre amélioré la structure de coûts et la rentabilité, contribuant à la hausse du bénéfice opérationnel. Ces résultats reflètent à la fois l’expansion des ventes publicitaires de KakaoTalk, sa plateforme centrale, et l’effet de l’ajustement du portefeuille d’activités. La question clé sera désormais de savoir si Kakao peut maintenir la croissance de la publicité fondée sur la messagerie et des services de paiement et financiers. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كاكاو تسجل نتائج قياسية في الربع الأول بدعم الإعلانات وPay",
-        "excerpt": "أعلنت كاكاو في 7 مايو أنها حققت في الربع الأول أعلى إيرادات وربح تشغيلي فصلي في تاريخها، بدعم من زيادة عائدات الإعلانات بعد تحديث KakaoTalk وبيع بعض الشركات التابعة.",
-        "body": "أعلنت كاكاو في 7 مايو أنها سجلت في الربع الأول من هذا العام أعلى إيرادات وربح تشغيلي على أساس فصلي في تاريخها. وارتفعت عائدات الإعلانات بعد تحديث KakaoTalk، كما ساعد الأداء المرتبط بخدمة Pay في دعم النتائج. وساهم بيع شركات تابعة وإجراءات أخرى في تحسين هيكل التكاليف والربحية، ما أدى إلى زيادة الربح التشغيلي. وتعكس هذه النتائج توسع مبيعات الإعلانات في KakaoTalk، وهي المنصة الأساسية للشركة، إلى جانب أثر تعديل محفظة الأعمال. وسيكون السؤال الرئيسي مستقبلا هو ما إذا كانت كاكاو قادرة على مواصلة نمو الإعلانات القائمة على المراسلة وخدمات الدفع والتمويل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Kakao की पहली तिमाही रिकॉर्ड, विज्ञापन और Pay से मुनाफा बेहतर",
-        "excerpt": "Kakao ने 7 मई को कहा कि इस साल पहली तिमाही में उसने तिमाही आधार पर अब तक का सबसे अधिक राजस्व और परिचालन लाभ दर्ज किया। KakaoTalk बदलाव से विज्ञापन आय बढ़ी और सहायक कंपनी बिक्री से लाभप्रदता सुधरी।",
-        "body": "Kakao ने 7 मई को बताया कि इस साल पहली तिमाही में उसने तिमाही आधार पर अब तक का सबसे अधिक राजस्व और परिचालन लाभ दर्ज किया। KakaoTalk में बदलाव के बाद विज्ञापन आय बढ़ी, जबकि Pay से जुड़ा प्रदर्शन भी नतीजों को सहारा देता रहा। इसके अलावा सहायक कंपनियों की बिक्री और अन्य कदमों से लागत संरचना तथा लाभप्रदता में सुधार हुआ, जिससे परिचालन लाभ बढ़ा। यह प्रदर्शन KakaoTalk जैसे मुख्य प्लेटफॉर्म पर विज्ञापन बिक्री बढ़ने और कारोबार पोर्टफोलियो समायोजन के असर को दिखाता है। आगे यह देखना अहम होगा कि Kakao मैसेंजर आधारित विज्ञापन और भुगतान व वित्तीय सेवाओं की वृद्धि को बनाए रख पाता है या नहीं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kakao cetak rekor kuartal I berkat iklan dan Pay yang dorong laba",
-        "excerpt": "Kakao pada 7 Mei menyatakan mencatat pendapatan dan laba operasional kuartalan tertinggi sepanjang sejarah pada kuartal I, didorong kenaikan pendapatan iklan setelah pembaruan KakaoTalk dan penjualan anak usaha.",
-        "body": "Kakao pada 7 Mei menyatakan bahwa pada kuartal pertama tahun ini perusahaan mencatat pendapatan dan laba operasional tertinggi sepanjang sejarah secara kuartalan. Pendapatan iklan meningkat setelah pembaruan KakaoTalk, sementara kinerja terkait Pay juga ikut menopang hasil. Selain itu, penjualan anak usaha dan langkah lain memperbaiki struktur biaya serta profitabilitas, sehingga mendorong kenaikan laba operasional. Hasil ini mencerminkan perluasan penjualan iklan di KakaoTalk sebagai platform inti sekaligus dampak penyesuaian portofolio bisnis. Ke depan, fokusnya adalah apakah Kakao dapat mempertahankan pertumbuhan iklan berbasis pesan serta layanan pembayaran dan keuangan. Sumber: mk.co.kr"
       }
     }
   }
