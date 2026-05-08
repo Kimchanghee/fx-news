@@ -1,5 +1,230 @@
 [
   {
+    "id": "80e6a6900836",
+    "slug": "국세청-탈세-혐의-하나금융은행-세무조사-착수-274836",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T19:31:49.038Z",
+    "updatedAt": "2026-05-08T19:31:49.039Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509001300002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509001300002",
+    "titleFingerprint": "41b9c5b84dd8c7364c0511e14367dbeaeb587fd0",
+    "dedupKeys": [
+      "80e6a690083677f0ff90d95fc62246c1125bbebf",
+      "41b9c5b84dd8c7364c0511e14367dbeaeb587fd0",
+      "36e96fa175e0310c2166069dbc8887c5bcd0d5e6"
+    ],
+    "imageUrl": "/images/articles/80e6a6900836.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국세청, 탈세 혐의 관련 하나금융·하나은행 세무조사 착수",
+        "excerpt": "국세청이 최근 탈세 혐의와 관련해 하나금융지주와 하나은행에 대한 세무조사에 착수한 것으로 알려졌다고 연합뉴스가 보도했다.",
+        "body": "국세청이 하나금융지주[086790]와 하나은행에 대한 세무조사에 착수한 것으로 알려졌다. 연합뉴스에 따르면 이번 조사는 탈세 혐의와 관련된 것으로 전해졌다. 조사 대상은 하나금융지주와 하나은행이며, 구체적인 조사 범위나 세부 혐의 내용은 원문에서 추가로 확인되지 않았다. 금융지주와 은행을 대상으로 한 세무조사라는 점에서 관련 업계의 관심이 이어질 수 있다. 향후 조사 결과와 당국의 후속 조치 여부가 주목된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Tax Agency Opens Audit Into Hana Financial and Hana Bank Over Alleged Tax Evasion",
+        "excerpt": "South Korea’s tax agency has reportedly begun a tax audit into Hana Financial Group and Hana Bank over alleged tax evasion, Yonhap News Agency reported.",
+        "body": "South Korea’s National Tax Service has reportedly launched a tax audit into Hana Financial Group [086790] and Hana Bank. According to Yonhap News Agency, the audit is understood to be related to alleged tax evasion. The targets are Hana Financial Group and Hana Bank, while the original report did not confirm further details on the scope of the audit or the specific allegations. As the case involves both a major financial holding company and a bank, it may draw continued attention from the financial sector. The outcome of the audit and any follow-up action by authorities will be closely watched. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "国税庁、脱税疑惑でハナ金融・ハナ銀行の税務調査に着手",
+        "excerpt": "韓国国税庁が脱税疑惑に関連し、ハナ金融持株とハナ銀行に対する税務調査に着手したと聯合ニュースが報じた。",
+        "body": "韓国国税庁がハナ金融持株[086790]とハナ銀行に対する税務調査に着手したことが分かった。聯合ニュースによると、今回の調査は脱税疑惑に関連するものとされる。調査対象はハナ金融持株とハナ銀行で、具体的な調査範囲や詳細な疑惑内容については原文で追加確認されていない。金融持株会社と銀行を対象にした税務調査であるため、関連業界の関心が続く可能性がある。今後の調査結果と当局の後続措置の有無が注目される。出所: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国国税厅就逃税嫌疑对韩亚金融和韩亚银行启动税务调查",
+        "excerpt": "据韩联社报道，韩国国税厅近日因涉嫌逃税，对韩亚金融控股和韩亚银行启动税务调查。",
+        "body": "韩国国税厅据悉已对韩亚金融控股[086790]和韩亚银行启动税务调查。据韩联社报道，此次调查被认为与涉嫌逃税有关。调查对象为韩亚金融控股和韩亚银行，原文未进一步确认具体调查范围或详细嫌疑内容。由于此次税务调查涉及金融控股公司和银行，相关金融业界可能持续关注。后续调查结果以及监管当局是否采取进一步措施，将成为市场关注焦点。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Agencia tributaria investiga a Hana Financial y Hana Bank por presunta evasión fiscal",
+        "excerpt": "La agencia tributaria surcoreana habría iniciado una auditoría fiscal a Hana Financial Group y Hana Bank por presunta evasión, informó Yonhap.",
+        "body": "El Servicio Nacional de Impuestos de Corea del Sur habría iniciado una auditoría fiscal a Hana Financial Group [086790] y Hana Bank. Según Yonhap News Agency, la investigación estaría relacionada con presuntas prácticas de evasión fiscal. Los objetivos de la auditoría son Hana Financial Group y Hana Bank, mientras que el informe original no confirmó detalles adicionales sobre el alcance de la revisión ni sobre las acusaciones específicas. Al tratarse de una investigación a un holding financiero y a un banco, el caso podría mantener la atención del sector financiero. Se observarán los resultados y posibles medidas posteriores de las autoridades. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Fisco investiga Hana Financial e Hana Bank por suspeita de evasão fiscal",
+        "excerpt": "A autoridade tributária da Coreia do Sul teria iniciado uma auditoria fiscal sobre Hana Financial Group e Hana Bank por suspeita de evasão, informou a Yonhap.",
+        "body": "O Serviço Nacional de Impostos da Coreia do Sul teria iniciado uma auditoria fiscal sobre o Hana Financial Group [086790] e o Hana Bank. Segundo a Yonhap News Agency, a investigação estaria relacionada a suspeitas de evasão fiscal. Os alvos são o Hana Financial Group e o Hana Bank, enquanto a reportagem original não confirmou detalhes adicionais sobre o escopo da auditoria ou o teor específico das suspeitas. Por envolver uma holding financeira e um banco, o caso pode continuar atraindo atenção do setor financeiro. O resultado da investigação e eventuais medidas posteriores das autoridades serão acompanhados. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Steuerbehörde prüft Hana Financial und Hana Bank wegen mutmaßlicher Steuerhinterziehung",
+        "excerpt": "Südkoreas Steuerbehörde hat Berichten zufolge eine Prüfung von Hana Financial Group und Hana Bank wegen mutmaßlicher Steuerhinterziehung eingeleitet, meldet Yonhap.",
+        "body": "Der südkoreanische National Tax Service hat Berichten zufolge eine Steuerprüfung bei Hana Financial Group [086790] und Hana Bank eingeleitet. Nach Angaben der Nachrichtenagentur Yonhap steht die Prüfung im Zusammenhang mit mutmaßlicher Steuerhinterziehung. Betroffen sind Hana Financial Group und Hana Bank; weitere Details zum Umfang der Prüfung oder zu den konkreten Vorwürfen wurden im Ausgangsbericht nicht bestätigt. Da es sich um eine Steuerprüfung bei einer Finanzholding und einer Bank handelt, dürfte der Fall in der Finanzbranche weiter Beachtung finden. Im Fokus stehen nun die Ergebnisse der Prüfung und mögliche Folgemaßnahmen der Behörden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le fisc enquête sur Hana Financial et Hana Bank pour soupçons d’évasion fiscale",
+        "excerpt": "Le fisc sud-coréen aurait lancé un contrôle fiscal visant Hana Financial Group et Hana Bank pour soupçons d’évasion fiscale, selon Yonhap.",
+        "body": "Le Service national des impôts de Corée du Sud aurait lancé un contrôle fiscal visant Hana Financial Group [086790] et Hana Bank. Selon l’agence Yonhap, cette enquête serait liée à des soupçons d’évasion fiscale. Les entités concernées sont Hana Financial Group et Hana Bank, tandis que le rapport initial ne confirme pas d’autres détails sur le périmètre du contrôle ou la nature précise des soupçons. Comme l’affaire concerne à la fois une holding financière et une banque, elle pourrait continuer d’attirer l’attention du secteur financier. Les résultats de l’enquête et d’éventuelles mesures ultérieures des autorités seront suivis de près. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "الضرائب الكورية تفتح تحقيقا مع هانا فايننشال وهانا بنك بشبهة تهرب ضريبي",
+        "excerpt": "ذكرت يونهاب أن مصلحة الضرائب الكورية الجنوبية بدأت على ما يبدو تدقيقا ضريبيا في هانا فايننشال غروب وهانا بنك بسبب شبهات تهرب ضريبي.",
+        "body": "بدأت مصلحة الضرائب الوطنية في كوريا الجنوبية على ما يبدو تدقيقا ضريبيا في هانا فايننشال غروب [086790] وهانا بنك. ووفقا لوكالة يونهاب، فإن التدقيق يرتبط بشبهات تهرب ضريبي. وتشمل الجهات المستهدفة هانا فايننشال غروب وهانا بنك، بينما لم يؤكد التقرير الأصلي تفاصيل إضافية عن نطاق التحقيق أو مضمون الشبهات المحددة. ونظرا لأن الأمر يتعلق بشركة قابضة مالية وبنك، فقد يواصل القطاع المالي متابعة القضية باهتمام. وستتركز الأنظار على نتائج التدقيق وما إذا كانت السلطات ستتخذ إجراءات لاحقة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कर चोरी के आरोपों पर हाना फाइनेंशियल और हाना बैंक की कर जांच शुरू",
+        "excerpt": "योनहाप के अनुसार, दक्षिण कोरिया की कर एजेंसी ने कथित कर चोरी से जुड़े मामले में हाना फाइनेंशियल ग्रुप और हाना बैंक की कर जांच शुरू की है।",
+        "body": "दक्षिण कोरिया की नेशनल टैक्स सर्विस ने कथित तौर पर हाना फाइनेंशियल ग्रुप [086790] और हाना बैंक के खिलाफ कर जांच शुरू की है। योनहाप न्यूज एजेंसी के अनुसार, यह जांच कर चोरी के आरोपों से जुड़ी मानी जा रही है। जांच के दायरे में हाना फाइनेंशियल ग्रुप और हाना बैंक हैं, जबकि मूल रिपोर्ट में जांच के दायरे या विशिष्ट आरोपों का अतिरिक्त विवरण पुष्टि नहीं किया गया। एक वित्तीय होल्डिंग कंपनी और बैंक से जुड़ी कर जांच होने के कारण वित्तीय क्षेत्र में इस मामले पर ध्यान बना रह सकता है। जांच के नतीजे और अधिकारियों की संभावित आगे की कार्रवाई पर नजर रहेगी। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Otoritas Pajak Selidiki Hana Financial dan Hana Bank atas Dugaan Penghindaran Pajak",
+        "excerpt": "Otoritas pajak Korea Selatan dilaporkan mulai memeriksa Hana Financial Group dan Hana Bank terkait dugaan penghindaran pajak, menurut Yonhap.",
+        "body": "National Tax Service Korea Selatan dilaporkan telah memulai pemeriksaan pajak terhadap Hana Financial Group [086790] dan Hana Bank. Menurut Yonhap News Agency, pemeriksaan ini berkaitan dengan dugaan penghindaran pajak. Pihak yang menjadi sasaran adalah Hana Financial Group dan Hana Bank, sementara laporan awal tidak mengonfirmasi rincian tambahan mengenai ruang lingkup pemeriksaan atau isi dugaan secara spesifik. Karena pemeriksaan ini melibatkan perusahaan induk keuangan dan bank, perhatian dari industri keuangan dapat terus berlanjut. Hasil pemeriksaan dan kemungkinan langkah lanjutan dari otoritas akan menjadi sorotan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9e8fc581a9e5",
+    "slug": "달러-원-위험-선호-재확산에-오름폭-축소146230원-마감-159322",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T19:30:58.758Z",
+    "updatedAt": "2026-05-08T19:30:58.758Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509004100002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509004100002",
+    "titleFingerprint": "b647ab32ba2affb63f23b0f7fac8a7c067fc7098",
+    "dedupKeys": [
+      "9e8fc581a9e5d93362b07a805d5d4531b1c51762",
+      "b647ab32ba2affb63f23b0f7fac8a7c067fc7098",
+      "977b7cd7638ac02dafffbc60dc56b7cd6d8345d0"
+    ],
+    "imageUrl": "/images/articles/9e8fc581a9e5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "달러-원 환율, 위험 선호 재확산에 상승폭 축소하며 1,462.30원 마감",
+        "excerpt": "뉴욕 야간 거래에서 달러-원 환율은 위험 선호 분위기가 다시 확산되며 상승폭을 줄였고, 1,460원대 초반인 1,462.30원에 거래를 마쳤다.",
+        "body": "달러-원 환율은 뉴욕 야간 거래에서 위험 선호 심리가 재확산한 영향으로 상승폭을 축소하며 1,462.30원에 마감했다. 장중 오름세를 보였지만 시장의 위험 선호 분위기가 다시 살아나면서 환율은 1,460원대 초반으로 내려왔다. 원문에 따르면 달러-원은 야간 거래에서 상승폭을 줄인 뒤 1,460원대 초반에서 장을 닫았다. 관련 수치로는 종가 1,462.30원이 제시됐다. 이번 움직임은 위험 선호 회복이 달러-원 상승 압력을 일부 완화한 흐름으로 정리된다. 향후 환율 흐름은 같은 위험 선호 분위기의 지속 여부가 관찰 대상이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Dollar-Won Rate Trims Gains as Risk Appetite Returns, Closes at 1,462.30 Won",
+        "excerpt": "In New York overnight trading, the dollar-won exchange rate pared its gains as risk appetite spread again, ending in the low 1,460 won range at 1,462.30 won.",
+        "body": "The dollar-won exchange rate closed at 1,462.30 won in New York overnight trading after trimming its gains as risk appetite re-emerged. The pair had moved higher during the session, but the renewed risk-on mood brought it back to the low 1,460 won range. According to the original report, dollar-won reduced its upward move in overnight trading and ended the session in the low 1,460s. The key figure provided was the closing level of 1,462.30 won. The move indicates that a recovery in risk appetite partly eased upward pressure on dollar-won. Whether that risk-friendly tone continues will remain a point to watch for the exchange rate. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "ドル・ウォン、リスク選好再拡大で上げ幅縮小 1,462.30ウォンで終了",
+        "excerpt": "ニューヨークの夜間取引でドル・ウォン相場はリスク選好の再拡大を受けて上げ幅を縮小し、1,460ウォン台前半の1,462.30ウォンで取引を終えた。",
+        "body": "ドル・ウォン相場はニューヨークの夜間取引で、リスク選好ムードが再び広がった影響により上げ幅を縮小し、1,462.30ウォンで終了した。取引中は上昇する場面があったものの、市場でリスクを取りやすい雰囲気が戻ったことで、相場は1,460ウォン台前半まで押し戻された。原文によると、ドル・ウォンは夜間取引で上昇幅を縮め、1,460ウォン台前半で取引を終えた。関連する数値として終値1,462.30ウォンが示された。今回の動きは、リスク選好の回復がドル・ウォンの上昇圧力を一部和らげた流れと整理できる。今後は同様のリスク選好ムードが続くかが注目点となる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "美元兑韩元因风险偏好回升收窄涨幅，收于1,462.30韩元",
+        "excerpt": "纽约夜盘交易中，美元兑韩元汇率因风险偏好重新扩散而收窄涨幅，最终在1,460韩元低位区间的1,462.30韩元收盘。",
+        "body": "美元兑韩元汇率在纽约夜盘交易中因风险偏好情绪重新扩散而收窄涨幅，最终收于1,462.30韩元。盘中汇率曾呈现上行走势，但随着市场风险偏好氛围再度恢复，汇率回落至1,460韩元低位区间。原文称，美元兑韩元在夜盘交易中缩小升幅，并在1,460韩元低位区间结束交易。相关数据为收盘价1,462.30韩元。此次走势可概括为风险偏好恢复部分缓解了美元兑韩元的上行压力。后续汇率走势仍需关注这一风险偏好氛围是否持续。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Dólar-won recorta ganancias por renovado apetito por riesgo y cierra en 1.462,30",
+        "excerpt": "En la negociación nocturna de Nueva York, el dólar-won redujo sus avances por el regreso del apetito por riesgo y cerró en 1.462,30 wones, en la zona baja de 1.460.",
+        "body": "El tipo de cambio dólar-won cerró en 1.462,30 wones en la negociación nocturna de Nueva York tras recortar sus ganancias por la reaparición del apetito por riesgo. Aunque el cruce había mostrado avances durante la sesión, el regreso de un tono más favorable al riesgo en el mercado lo llevó de nuevo a la zona baja de 1.460 wones. Según el reporte original, el dólar-won redujo su subida en la negociación nocturna y terminó la sesión en la parte baja del rango de 1.460. La cifra destacada fue el cierre en 1.462,30 wones. El movimiento muestra que la recuperación del apetito por riesgo alivió parcialmente la presión alcista sobre el dólar-won. La continuidad de ese tono será un factor a observar. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Dólar-won reduz alta com volta do apetite por risco e fecha a 1.462,30 won",
+        "excerpt": "Na negociação noturna em Nova York, o dólar-won reduziu os ganhos com a volta do apetite por risco e encerrou na faixa baixa de 1.460 won, a 1.462,30 won.",
+        "body": "A taxa de câmbio dólar-won fechou a 1.462,30 won na negociação noturna em Nova York, após reduzir os ganhos com a retomada do apetite por risco. O par chegou a subir durante a sessão, mas a volta de um ambiente mais favorável ao risco levou a cotação de volta para a faixa baixa de 1.460 won. Segundo o relato original, o dólar-won diminuiu sua alta no pregão noturno e encerrou a sessão no início da casa de 1.460 won. O dado central apresentado foi o fechamento em 1.462,30 won. O movimento indica que a recuperação do apetite por risco aliviou parte da pressão de alta sobre o dólar-won. A continuidade desse tom seguirá como ponto de atenção. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Dollar-Won gibt Gewinne bei neuer Risikofreude ab und schließt bei 1.462,30 Won",
+        "excerpt": "Im New Yorker Nachthandel verringerte Dollar-Won seine Gewinne, da die Risikofreude erneut zunahm, und schloss im unteren Bereich von 1.460 Won bei 1.462,30 Won.",
+        "body": "Der Dollar-Won-Wechselkurs schloss im New Yorker Nachthandel bei 1.462,30 Won, nachdem er seine Gewinne wegen erneut aufkommender Risikofreude verringerte. Während der Sitzung hatte der Kurs zunächst zugelegt, doch die Rückkehr einer risikofreundlicheren Marktstimmung führte ihn zurück in den unteren Bereich von 1.460 Won. Dem Originalbericht zufolge reduzierte Dollar-Won im Nachthandel seinen Anstieg und beendete die Sitzung im niedrigen 1.460er-Bereich. Als zentrale Kennzahl wurde der Schlussstand von 1.462,30 Won genannt. Die Bewegung zeigt, dass die Erholung der Risikoneigung den Aufwärtsdruck auf Dollar-Won teilweise abschwächte. Ob diese Stimmung anhält, bleibt für den weiteren Kursverlauf zu beobachten. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Dollar-won réduit ses gains avec le retour de l’appétit pour le risque, clôture à 1 462,30",
+        "excerpt": "Lors des échanges nocturnes à New York, le dollar-won a réduit ses gains avec le retour de l’appétit pour le risque et a fini à 1 462,30 wons, dans le bas des 1 460.",
+        "body": "Le taux de change dollar-won a clôturé à 1 462,30 wons lors des échanges nocturnes à New York, après avoir réduit ses gains sous l’effet du retour de l’appétit pour le risque. Le cours avait progressé pendant la séance, mais le regain d’un climat favorable au risque l’a ramené dans le bas de la zone des 1 460 wons. Selon le rapport original, le dollar-won a réduit son mouvement haussier dans les échanges nocturnes et a terminé la séance au début des 1 460 wons. Le chiffre clé indiqué est la clôture à 1 462,30 wons. Ce mouvement montre que la reprise de l’appétit pour le risque a partiellement allégé la pression haussière sur le dollar-won. La persistance de ce ton restera à surveiller. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "الدولار-وون يقلص مكاسبه مع عودة شهية المخاطرة ويغلق عند 1,462.30 وون",
+        "excerpt": "في تداولات نيويورك الليلية، قلص سعر الدولار-وون مكاسبه مع تجدد شهية المخاطرة، وأنهى التعاملات في أوائل نطاق 1,460 وون عند 1,462.30 وون.",
+        "body": "أغلق سعر صرف الدولار-وون عند 1,462.30 وون في تداولات نيويورك الليلية، بعدما قلص مكاسبه بفعل عودة شهية المخاطرة إلى السوق. وكان السعر قد سجل ارتفاعا خلال الجلسة، لكن تحسن الأجواء المواتية للمخاطرة أعاده إلى أوائل نطاق 1,460 وون. ووفقا للتقرير الأصلي، خفض الدولار-وون مقدار صعوده في التداولات الليلية وأنهى الجلسة عند أوائل مستوى 1,460 وون. الرقم الرئيسي الوارد هو سعر الإغلاق البالغ 1,462.30 وون. وتشير هذه الحركة إلى أن تعافي شهية المخاطرة خفف جزئيا من الضغط الصعودي على الدولار-وون. وسيبقى استمرار هذه الأجواء عاملا محل متابعة في حركة سعر الصرف. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "डॉलर-वॉन में जोखिम रुझान लौटने से बढ़त घटी, 1,462.30 वॉन पर बंद",
+        "excerpt": "न्यूयॉर्क की रात्रिकालीन ट्रेडिंग में जोखिम लेने की भावना फिर फैलने से डॉलर-वॉन ने अपनी बढ़त घटाई और 1,460 वॉन के निचले दायरे में 1,462.30 वॉन पर बंद हुआ।",
+        "body": "न्यूयॉर्क की रात्रिकालीन ट्रेडिंग में डॉलर-वॉन विनिमय दर जोखिम लेने की भावना फिर उभरने के असर से अपनी बढ़त घटाकर 1,462.30 वॉन पर बंद हुई। सत्र के दौरान दर में तेजी दिखी थी, लेकिन बाजार में जोखिम के प्रति अनुकूल माहौल लौटने से यह 1,460 वॉन के शुरुआती दायरे में आ गई। मूल रिपोर्ट के अनुसार, डॉलर-वॉन ने रात्रिकालीन कारोबार में अपनी बढ़त कम की और 1,460 वॉन के निचले स्तरों पर सत्र समाप्त किया। प्रमुख आंकड़ा 1,462.30 वॉन का बंद भाव है। यह चाल बताती है कि जोखिम रुझान की वापसी ने डॉलर-वॉन पर ऊपर की ओर दबाव को आंशिक रूप से कम किया। आगे विनिमय दर के लिए इसी जोखिम-समर्थक माहौल की निरंतरता देखने योग्य रहेगी। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Dolar-won Pangkas Kenaikan saat Minat Risiko Pulih, Tutup di 1.462,30 Won",
+        "excerpt": "Dalam perdagangan malam New York, dolar-won memangkas kenaikan karena minat risiko kembali menyebar dan ditutup di area awal 1.460 won, tepatnya 1.462,30 won.",
+        "body": "Nilai tukar dolar-won ditutup di 1.462,30 won dalam perdagangan malam New York setelah memangkas kenaikan karena minat risiko kembali muncul. Pasangan ini sempat bergerak naik selama sesi, tetapi pulihnya suasana pasar yang lebih menyukai risiko membawa kurs kembali ke area awal 1.460 won. Menurut laporan asli, dolar-won mengurangi kenaikannya dalam perdagangan malam dan menutup sesi di kisaran rendah 1.460 won. Angka utama yang disampaikan adalah penutupan di 1.462,30 won. Pergerakan ini menunjukkan bahwa pemulihan minat risiko sebagian meredakan tekanan kenaikan pada dolar-won. Ke depan, keberlanjutan suasana risk-on tersebut menjadi hal yang perlu diperhatikan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "288039f4b9ba",
+    "slug": "에이피알-분석-또-최대-실적-기록증권가-일제히-매수하라-284926",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T19:29:56.267Z",
+    "updatedAt": "2026-05-08T19:29:56.267Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605083246i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605083246i",
+    "titleFingerprint": "47cc0ba5812c82046ca755c80d1522639646d3dc",
+    "dedupKeys": [
+      "288039f4b9ba28275eaf7304b522cd371cca4609",
+      "47cc0ba5812c82046ca755c80d1522639646d3dc",
+      "9a6771534235d385618ae826091a37ce1c87d77a"
+    ],
+    "imageUrl": "/images/articles/288039f4b9ba.jpg",
+    "i18n": {
+      "ko": {
+        "title": "에이피알 최대 실적 또 경신, 증권가 ‘매수’ 의견 집중",
+        "excerpt": "에이피알이 또다시 최대 실적을 기록했다는 분석이 나오며 증권가가 일제히 ‘매수’ 의견을 제시한 것으로 한국경제가 전했다.",
+        "body": "에이피알이 다시 최대 실적을 기록했다는 분석이 나오면서 증권가의 관심이 커지고 있다. 한국경제 보도에 따르면 에이피알은 최근 실적 흐름에서 또 한 번 최대 실적을 경신한 것으로 평가됐고, 이에 증권가에서는 일제히 ‘매수하라’는 의견이 제시됐다. 이번 분석은 에이피알의 실적 개선세가 투자 판단의 핵심 변수로 부각되고 있음을 보여준다. 다만 기사에 제시된 범위에서는 구체적인 실적 수치나 목표주가 변동 내용은 확인되지 않았다. 시장은 향후 에이피알의 실적 지속성 및 증권가 평가 변화에 주목할 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "APR Hits Another Record Result as Brokerages Line Up Buy Calls",
+        "excerpt": "APR has reportedly posted another record result, prompting brokerages to issue broad buy recommendations, according to Hankyung.com.",
+        "body": "APR is drawing renewed market attention after an analysis said the company recorded another all-time high result. According to Hankyung.com, APR was assessed as having broken its previous performance record again, and brokerages responded by broadly recommending investors to buy the stock. The report suggests that APR’s improving earnings trend has become a key factor in investment judgment. However, within the information provided, specific earnings figures or target-price changes were not confirmed. The market is expected to watch whether APR can sustain its earnings momentum and how brokerage views evolve. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "APRが再び過去最高実績、証券各社が買い推奨を強める",
+        "excerpt": "APRが再び過去最高の実績を記録したとの分析を受け、証券各社がそろって買い意見を示したと韓国経済が伝えた。",
+        "body": "APRが再び過去最高の実績を記録したとの分析を受け、市場の関心が高まっている。韓国経済の報道によると、APRは最近の業績の流れの中で再度最高実績を更新したと評価され、証券各社は一斉に「買い」を推奨した。今回の分析は、APRの業績改善傾向が投資判断の重要な要素として浮上していることを示している。ただし、提示された情報の範囲では具体的な業績数値や目標株価の変更は確認されていない。市場は今後、APRの業績持続性と証券各社の評価変化に注目するとみられる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "APR再创最高业绩纪录，券商一致给出买入意见",
+        "excerpt": "据韩国经济报道，APR再次录得最高业绩，证券业界随即集中给出“买入”建议，市场关注度升温。",
+        "body": "APR再次创下最高业绩的分析出炉后，证券市场关注度正在上升。据韩国经济报道，APR在近期业绩表现中被评估为又一次刷新最高纪录，证券业界也一致提出“买入”意见。该分析显示，APR业绩改善趋势正成为投资判断中的核心变量。不过，在已提供的信息范围内，具体业绩数字或目标价调整内容尚未确认。市场预计将继续关注APR业绩能否延续，以及证券业界评价是否发生变化。来源: hankyung.com"
+      },
+      "es": {
+        "title": "APR vuelve a marcar récord de resultados y las firmas recomiendan comprar",
+        "excerpt": "APR habría registrado otro máximo de resultados y las casas de bolsa emitieron recomendaciones de compra de forma generalizada, informó Hankyung.com.",
+        "body": "APR vuelve a captar la atención del mercado después de que un análisis señalara que la compañía registró otro máximo histórico de resultados. Según Hankyung.com, APR fue evaluada como una empresa que volvió a superar su récord previo de desempeño, y las firmas de valores respondieron con recomendaciones generalizadas de “comprar”. El informe indica que la mejora de resultados de APR se ha convertido en una variable clave para las decisiones de inversión. Sin embargo, con la información disponible no se confirmaron cifras concretas ni cambios en precios objetivo. El mercado seguirá atento a la continuidad de sus resultados y a la evolución de las valoraciones. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "APR renova recorde de resultados e corretoras reforçam compra",
+        "excerpt": "A APR teria registrado novo recorde de desempenho, levando corretoras a apresentar recomendações amplas de compra, segundo o Hankyung.com.",
+        "body": "A APR voltou a atrair a atenção do mercado após uma análise apontar que a empresa registrou novamente seu melhor desempenho histórico. Segundo o Hankyung.com, a APR foi avaliada como tendo renovado seu recorde de resultados, enquanto corretoras passaram a recomendar a compra do papel de forma ampla. A análise mostra que a melhora nos resultados da APR se tornou um fator central para decisões de investimento. No entanto, dentro das informações disponíveis, não foram confirmados números específicos de desempenho nem alterações em preços-alvo. O mercado deve acompanhar a sustentabilidade dos resultados da APR e possíveis mudanças nas avaliações das corretoras. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "APR erzielt erneut Rekordergebnis, Analysten raten geschlossen zum Kauf",
+        "excerpt": "APR soll erneut ein Rekordergebnis erzielt haben; Wertpapierhäuser gaben daraufhin breite Kaufempfehlungen ab, berichtete Hankyung.com.",
+        "body": "APR rückt erneut in den Fokus des Marktes, nachdem eine Analyse auf ein weiteres Rekordergebnis des Unternehmens hingewiesen hat. Laut Hankyung.com wurde APR so bewertet, dass es seinen bisherigen Leistungsrekord erneut übertroffen habe, woraufhin Wertpapierhäuser geschlossen eine Kaufempfehlung aussprachen. Die Analyse zeigt, dass der verbesserte Ergebnisverlauf von APR zu einem wichtigen Faktor für Anlageentscheidungen geworden ist. Konkrete Ergebniszahlen oder Änderungen von Kurszielen wurden in den vorliegenden Informationen jedoch nicht bestätigt. Der Markt dürfte nun beobachten, ob APR diese Ergebnisdynamik fortsetzen kann und wie sich die Einschätzungen der Analysten entwickeln. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "APR signe encore un record de résultats, les courtiers conseillent l’achat",
+        "excerpt": "APR aurait de nouveau enregistré un niveau record de résultats, poussant les sociétés de Bourse à recommander l’achat, selon Hankyung.com.",
+        "body": "APR attire de nouveau l’attention du marché après une analyse indiquant que l’entreprise a encore enregistré un record de résultats. Selon Hankyung.com, APR a été évaluée comme ayant une nouvelle fois battu son précédent niveau de performance, tandis que les sociétés de Bourse ont largement recommandé l’achat du titre. Cette analyse montre que l’amélioration des résultats d’APR devient un facteur central dans les décisions d’investissement. Toutefois, les informations disponibles ne confirment pas de chiffres précis ni de changements d’objectifs de cours. Le marché devrait suivre la durabilité de cette dynamique et l’évolution des avis des analystes. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "إيه بي آر تسجل أداء قياسيا جديدا والوسطاء يوصون بالشراء",
+        "excerpt": "أفاد موقع هانكيونغ بأن إيه بي آر سجلت أداء قياسيا جديدا، ما دفع شركات الأوراق المالية إلى إصدار توصيات واسعة بالشراء.",
+        "body": "تجذب شركة إيه بي آر اهتمام السوق مجددا بعد تحليل أشار إلى أنها سجلت مرة أخرى أعلى أداء لها. ووفقا لما أورده موقع hankyung.com، فقد جرى تقييم إيه بي آر على أنها كسرت سجلها السابق في الأداء، بينما أصدرت شركات الأوراق المالية توصيات موحدة بالشراء. يوضح هذا التحليل أن تحسن نتائج إيه بي آر أصبح عاملا رئيسيا في قرارات الاستثمار. ومع ذلك، لا تؤكد المعلومات المتاحة أرقاما محددة للنتائج أو تغييرات في الأسعار المستهدفة. ومن المتوقع أن يراقب السوق مدى استدامة أداء إيه بي آر وتغير تقييمات شركات الأوراق المالية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "APR ने फिर बनाया रिकॉर्ड प्रदर्शन, ब्रोकरेज ने दी खरीद की राय",
+        "excerpt": "Hankyung.com के अनुसार APR ने एक और रिकॉर्ड प्रदर्शन दर्ज किया है, जिसके बाद ब्रोकरेज फर्मों ने व्यापक रूप से खरीद की सिफारिश की।",
+        "body": "APR फिर से बाजार के ध्यान में है, क्योंकि एक विश्लेषण में कंपनी के एक और रिकॉर्ड प्रदर्शन की बात कही गई है। Hankyung.com के अनुसार, APR को हालिया प्रदर्शन प्रवाह में फिर से अपना सर्वश्रेष्ठ रिकॉर्ड तोड़ने वाली कंपनी के रूप में आंका गया, और इसके बाद ब्रोकरेज फर्मों ने एक साथ खरीद की राय दी। यह विश्लेषण दिखाता है कि APR की आय में सुधार की प्रवृत्ति निवेश निर्णय का प्रमुख कारक बन रही है। हालांकि उपलब्ध जानकारी में विशिष्ट प्रदर्शन आंकड़े या लक्ष्य मूल्य में बदलाव की पुष्टि नहीं हुई। बाजार आगे APR के प्रदर्शन की निरंतरता और ब्रोकरेज आकलन में बदलाव पर नजर रखेगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "APR Kembali Cetak Rekor Kinerja, Sekuritas Serempak Sarankan Beli",
+        "excerpt": "APR disebut kembali mencatat kinerja tertinggi, sehingga kalangan sekuritas secara luas memberi rekomendasi beli, menurut Hankyung.com.",
+        "body": "APR kembali menarik perhatian pasar setelah sebuah analisis menyebut perusahaan itu kembali mencatat kinerja tertinggi. Menurut Hankyung.com, APR dinilai berhasil memperbarui rekor kinerjanya dalam tren hasil terbaru, dan kalangan sekuritas merespons dengan rekomendasi “beli” secara serempak. Analisis ini menunjukkan bahwa perbaikan kinerja APR menjadi faktor utama dalam pertimbangan investasi. Namun, dalam informasi yang tersedia, belum ada konfirmasi mengenai angka kinerja spesifik atau perubahan target harga. Pasar diperkirakan akan mencermati keberlanjutan kinerja APR serta perubahan penilaian dari kalangan sekuritas. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "df57ca4ac369",
     "slug": "미이란-교전-소식에건설株-동반-약세-835611",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Kolmar Korea cetak rekor kuartal I dengan penjualan 728 miliar won",
         "excerpt": "Kolmar Korea membukukan kinerja kuartal pertama tertinggi, dengan penjualan 728 miliar won dan laba operasi 78,9 miliar won, didukung ekspor kosmetik yang kuat; saham naik 7,71%.",
         "body": "Kolmar Korea, perusahaan ODM untuk riset, pengembangan, dan produksi kosmetik, mencatat kinerja kuartal pertama tertinggi sepanjang sejarahnya. Menurut Maeil Business Newspaper, penjualan kuartal pertama naik 11,5% secara tahunan menjadi 728 miliar won, sementara laba operasi mencapai 78,9 miliar won. Kinerja ini didukung oleh kuatnya ekspor kosmetik. Setelah pengumuman hasil yang solid, saham Kolmar Korea naik 7,71%. Momentum ekspor dalam bisnis ODM kosmetik menjadi latar utama perbaikan kinerja dan menarik perhatian pasar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "79ebc8591c8f",
-    "slug": "cj프레시웨이-식자재급식-균형성장으로-실적-개선-463157",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T07:52:11.503Z",
-    "updatedAt": "2026-05-08T07:52:11.503Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12041193",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12041193",
-    "titleFingerprint": "8a8ded2c48c5f6736f51133aa3325700b52ce61b",
-    "dedupKeys": [
-      "79ebc8591c8ff8b954f5e53f71821bd0713c36b4",
-      "8a8ded2c48c5f6736f51133aa3325700b52ce61b",
-      "7917f7c0f3c0d687b32f1464f821d15453e930d2"
-    ],
-    "imageUrl": "/images/articles/79ebc8591c8f.png",
-    "i18n": {
-      "ko": {
-        "title": "CJ프레시웨이 1분기 실적 개선, 식자재·급식 균형성장 주목",
-        "excerpt": "CJ프레시웨이는 올해 1분기 매출 8339억원, 영업이익 110억원을 기록하며 식자재 유통과 급식사업의 균형성장으로 전년 대비 실적을 개선했다.",
-        "body": "CJ프레시웨이가 올해 1분기 식자재 유통사업과 급식사업의 균형성장에 힘입어 실적 개선을 기록했다. 회사는 1분기 매출 8339억원, 영업이익 110억원을 올렸다. 이는 전년 동기 대비 매출이 4.4%, 영업이익이 3.8% 증가한 수치다. 식자재 유통사업과 급식사업 등을 영위하는 CJ프레시웨이는 양대 사업 부문이 고르게 성장하면서 외형과 수익성이 함께 개선된 것으로 나타났다. 이번 실적은 주력 사업의 안정적인 매출 기반과 급식 부문의 성장 흐름을 보여준다. 향후 실적 흐름도 두 사업 부문의 균형성장 지속 여부가 주요 관전 포인트가 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "CJ Freshway Q1 Results Improve as Food Materials and Catering Grow",
-        "excerpt": "CJ Freshway posted Q1 revenue of 833.9 billion won and operating profit of 11 billion won, improving year on year on balanced growth in food distribution and catering.",
-        "body": "CJ Freshway improved its performance in the first quarter of this year, supported by balanced growth in its food materials distribution and catering businesses. The company recorded revenue of 833.9 billion won and operating profit of 11 billion won for the quarter. Compared with the same period a year earlier, revenue rose 4.4% and operating profit increased 3.8%. CJ Freshway, which operates food materials distribution, catering and related businesses, saw both of its main business divisions grow evenly, helping lift both sales scale and profitability. The results show a stable revenue base in its core businesses and growth momentum in catering. Going forward, whether the two business divisions can continue balanced growth is expected to remain a key point to watch. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "CJフレッシュウェイ第1四半期改善、食材流通と給食が均衡成長",
-        "excerpt": "CJフレッシュウェイは今年第1四半期、売上高8339億ウォン、営業利益110億ウォンを記録し、食材流通と給食事業の均衡成長で前年を上回った。",
-        "body": "CJフレッシュウェイは今年第1四半期、食材流通事業と給食事業の均衡成長を背景に業績改善を記録した。同社の第1四半期売上高は8339億ウォン、営業利益は110億ウォンだった。前年同期比で売上高は4.4%、営業利益は3.8%増加した。食材流通事業と給食事業などを手掛けるCJフレッシュウェイは、二大事業部門がそろって成長したことで、事業規模と収益性がともに改善した形だ。今回の実績は、主力事業の安定した売上基盤と給食部門の成長の流れを示している。今後の業績も、両事業部門の均衡成長が続くかどうかが主な注目点になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "CJ Freshway一季度业绩改善，食材流通与团餐均衡增长",
-        "excerpt": "CJ Freshway今年一季度实现销售额8339亿韩元、营业利润110亿韩元，凭借食材流通和团餐业务均衡增长，同比业绩改善。",
-        "body": "CJ Freshway今年第一季度在食材流通业务和团餐业务均衡增长的带动下实现业绩改善。公司一季度销售额为8339亿韩元，营业利润为110亿韩元。与去年同期相比，销售额增长4.4%，营业利润增长3.8%。CJ Freshway从事食材流通、团餐等业务，两大业务板块均实现稳定增长，推动公司规模和盈利能力同步改善。此次业绩显示，其核心业务拥有稳定的销售基础，团餐板块也保持增长态势。展望后续业绩，两大业务板块能否继续保持均衡增长，预计将成为主要关注点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "CJ Freshway mejora resultados del 1T por equilibrio en insumos y catering",
-        "excerpt": "CJ Freshway registró en el primer trimestre ventas de 833.900 millones de wones y beneficio operativo de 11.000 millones, con crecimiento equilibrado en distribución y catering.",
-        "body": "CJ Freshway mejoró sus resultados en el primer trimestre de este año gracias al crecimiento equilibrado de sus negocios de distribución de insumos alimentarios y catering. La compañía registró ventas de 833.900 millones de wones y un beneficio operativo de 11.000 millones de wones. Frente al mismo periodo del año anterior, las ventas aumentaron un 4,4% y el beneficio operativo subió un 3,8%. CJ Freshway, que opera en distribución de alimentos, catering y negocios relacionados, mostró un avance parejo en sus dos principales divisiones, lo que ayudó a mejorar tanto el tamaño de los ingresos como la rentabilidad. Los resultados reflejan una base estable de ventas en sus negocios centrales y una tendencia de crecimiento en catering. En adelante, la continuidad de ese crecimiento equilibrado será un punto clave de observación. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "CJ Freshway melhora no 1º trimestre com crescimento em insumos e refeições",
-        "excerpt": "A CJ Freshway registrou no 1º trimestre receita de 833,9 bilhões de wons e lucro operacional de 11 bilhões, com avanço anual apoiado em distribuição e refeições coletivas.",
-        "body": "A CJ Freshway registrou melhora de desempenho no primeiro trimestre deste ano, apoiada pelo crescimento equilibrado dos negócios de distribuição de insumos alimentares e refeições coletivas. A companhia obteve receita de 833,9 bilhões de wons e lucro operacional de 11 bilhões de wons no período. Em relação ao mesmo trimestre do ano anterior, a receita cresceu 4,4% e o lucro operacional avançou 3,8%. A CJ Freshway, que atua em distribuição de alimentos, refeições coletivas e áreas relacionadas, teve expansão uniforme em suas duas principais divisões, melhorando tanto a escala das vendas quanto a rentabilidade. O resultado mostra uma base de receita estável nos negócios principais e crescimento no segmento de refeições. A continuidade do crescimento equilibrado entre as duas áreas deve ser o principal ponto de atenção para os próximos resultados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "CJ Freshway steigert Q1-Ergebnis durch Wachstum bei Zutaten und Catering",
-        "excerpt": "CJ Freshway erzielte im ersten Quartal 833,9 Milliarden Won Umsatz und 11 Milliarden Won operativen Gewinn, gestützt auf ausgewogenes Wachstum in Vertrieb und Catering.",
-        "body": "CJ Freshway hat im ersten Quartal dieses Jahres seine Ergebnisse verbessert, getragen von ausgewogenem Wachstum im Vertrieb von Lebensmittelzutaten und im Cateringgeschäft. Das Unternehmen meldete einen Umsatz von 833,9 Milliarden Won und einen operativen Gewinn von 11 Milliarden Won. Gegenüber dem Vorjahreszeitraum stieg der Umsatz um 4,4%, der operative Gewinn legte um 3,8% zu. CJ Freshway, das im Vertrieb von Lebensmittelzutaten, im Catering und in verwandten Bereichen tätig ist, verzeichnete in seinen beiden Hauptgeschäftsfeldern eine gleichmäßige Entwicklung. Dadurch verbesserten sich sowohl Umsatzbasis als auch Profitabilität. Die Zahlen zeigen eine stabile Erlösgrundlage im Kerngeschäft und Wachstum im Cateringbereich. Für den weiteren Geschäftsverlauf dürfte entscheidend sein, ob beide Sparten ihr ausgewogenes Wachstum fortsetzen können. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "CJ Freshway améliore son 1er trimestre grâce aux ingrédients et à la restauration",
-        "excerpt": "CJ Freshway a publié au 1er trimestre un chiffre d’affaires de 833,9 milliards de wons et un bénéfice opérationnel de 11 milliards, portés par deux activités équilibrées.",
-        "body": "CJ Freshway a amélioré ses résultats au premier trimestre de cette année grâce à la croissance équilibrée de ses activités de distribution de produits alimentaires et de restauration collective. L’entreprise a enregistré un chiffre d’affaires de 833,9 milliards de wons et un bénéfice opérationnel de 11 milliards de wons. Par rapport à la même période de l’an dernier, le chiffre d’affaires a progressé de 4,4% et le bénéfice opérationnel de 3,8%. CJ Freshway, active dans la distribution alimentaire, la restauration collective et des activités connexes, a bénéficié d’une progression régulière de ses deux principales divisions, améliorant à la fois son volume d’activité et sa rentabilité. Ces résultats montrent une base de revenus stable dans les activités clés et une dynamique de croissance dans la restauration collective. La poursuite de cet équilibre restera un point d’attention majeur. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تحسن نتائج CJ Freshway في الربع الأول بدعم توزيع الغذاء والتموين",
-        "excerpt": "سجلت CJ Freshway في الربع الأول إيرادات قدرها 833.9 مليار وون وأرباحا تشغيلية قدرها 11 مليار وون، مع نمو سنوي مدعوم بتوزيع المواد الغذائية والتموين.",
-        "body": "حققت CJ Freshway تحسنا في أدائها خلال الربع الأول من هذا العام بدعم من النمو المتوازن في أعمال توزيع المواد الغذائية وخدمات التموين. وسجلت الشركة إيرادات بلغت 833.9 مليار وون، وأرباحا تشغيلية بلغت 11 مليار وون. ومقارنة بالفترة نفسها من العام السابق، ارتفعت الإيرادات بنسبة 4.4%، وزادت الأرباح التشغيلية بنسبة 3.8%. وتعمل CJ Freshway في توزيع المواد الغذائية وخدمات التموين وأنشطة مرتبطة بها، وقد ساعد النمو المتوازن في قسميها الرئيسيين على تحسين حجم المبيعات والربحية معا. وتظهر هذه النتائج قاعدة إيرادات مستقرة في الأعمال الرئيسية واتجاها للنمو في قطاع التموين. ومن المتوقع أن يظل استمرار النمو المتوازن بين القسمين نقطة متابعة رئيسية في الأداء المقبل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "CJ Freshway के Q1 नतीजे सुधरे, खाद्य वितरण और कैटरिंग में संतुलित वृद्धि",
-        "excerpt": "CJ Freshway ने पहली तिमाही में 833.9 अरब वॉन राजस्व और 11 अरब वॉन परिचालन लाभ दर्ज किया, खाद्य सामग्री वितरण और कैटरिंग की संतुलित वृद्धि से प्रदर्शन सुधरा।",
-        "body": "CJ Freshway ने इस वर्ष पहली तिमाही में खाद्य सामग्री वितरण और कैटरिंग व्यवसाय की संतुलित वृद्धि के सहारे प्रदर्शन में सुधार दर्ज किया। कंपनी का पहली तिमाही राजस्व 833.9 अरब वॉन और परिचालन लाभ 11 अरब वॉन रहा। पिछले वर्ष की समान अवधि की तुलना में राजस्व 4.4% और परिचालन लाभ 3.8% बढ़ा। खाद्य सामग्री वितरण, कैटरिंग और संबंधित व्यवसाय चलाने वाली CJ Freshway के दोनों प्रमुख व्यवसाय क्षेत्रों में समान रूप से वृद्धि हुई, जिससे बिक्री का आकार और लाभप्रदता दोनों सुधरे। ये नतीजे मुख्य व्यवसायों में स्थिर राजस्व आधार और कैटरिंग क्षेत्र में वृद्धि की दिशा दिखाते हैं। आगे के प्रदर्शन में दोनों व्यवसाय क्षेत्रों की संतुलित वृद्धि जारी रहती है या नहीं, यह प्रमुख ध्यान बिंदु रहेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kinerja CJ Freshway Kuartal I Membaik Berkat Distribusi Pangan dan Katering",
-        "excerpt": "CJ Freshway mencatat pendapatan kuartal I sebesar 833,9 miliar won dan laba operasi 11 miliar won, naik tahunan berkat pertumbuhan seimbang distribusi bahan pangan dan katering.",
-        "body": "CJ Freshway mencatat perbaikan kinerja pada kuartal pertama tahun ini berkat pertumbuhan seimbang di bisnis distribusi bahan pangan dan layanan katering. Perusahaan membukukan pendapatan 833,9 miliar won dan laba operasi 11 miliar won pada kuartal tersebut. Dibandingkan periode yang sama tahun sebelumnya, pendapatan naik 4,4% dan laba operasi meningkat 3,8%. CJ Freshway, yang menjalankan bisnis distribusi bahan pangan, katering, dan usaha terkait, mencatat pertumbuhan merata di dua divisi utamanya sehingga skala penjualan dan profitabilitas ikut membaik. Hasil ini menunjukkan basis pendapatan yang stabil di bisnis inti serta tren pertumbuhan di segmen katering. Ke depan, keberlanjutan pertumbuhan seimbang kedua divisi diperkirakan menjadi perhatian utama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d430285e776a",
-    "slug": "속보-삼성전자-초기업노조-정부-요청-수용-사후조정-절차-돌입-580405",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T07:51:00.376Z",
-    "updatedAt": "2026-05-08T07:51:00.376Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12041205",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12041205",
-    "titleFingerprint": "0e9d7bcc7ef27d00fb3771308d2d65723211fb83",
-    "dedupKeys": [
-      "d430285e776a9ae4b66724ca13a633ee90f3e6f1",
-      "0e9d7bcc7ef27d00fb3771308d2d65723211fb83",
-      "e9d3044b4b6e6b92b103a9a58347aa795b0082ad"
-    ],
-    "imageUrl": "/images/articles/d430285e776a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 최대노조, 정부 요청 수용해 사후조정 돌입…21일 총파업 전 협상 재개",
-        "excerpt": "삼성전자 최대노조는 8일 결렬된 노사조정의 후속 절차로 정부 요청을 수용해 사후조정에 들어가겠다고 밝혔다. 21일 예고된 총파업을 앞두고 노사가 다시 협상에 나선다.",
-        "body": "삼성전자 최대노조는 8일 한 차례 결렬된 노사조정의 후속 절차로 사후조정 절차에 돌입하겠다는 입장을 밝혔다. 노조는 정부 요청을 수용해 사후조정에 참여하기로 했으며, 이에 따라 오는 21일 예고된 총파업을 앞두고 노사가 다시 한번 협상 테이블에 앉게 됐다. 이번 절차는 앞선 조정 결렬 이후 이어지는 후속 협의로, 파업 예고 시점 전 노사 간 접점을 찾을 수 있을지가 핵심이다. 사후조정 결과에 따라 삼성전자 노사 갈등의 향방과 총파업 여부가 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Electronics’ Largest Union Accepts Government Request, Enters Post-Mediation Before Strike",
-        "excerpt": "Samsung Electronics’ largest union said on the 8th it would accept a government request and enter post-mediation after labor-management talks broke down, reopening negotiations before a planned May 21 general strike.",
-        "body": "Samsung Electronics’ largest union said on the 8th that it would begin post-mediation as a follow-up to a labor-management mediation process that had once broken down. The union said it accepted the government’s request to take part in the procedure. As a result, labor and management are set to return to the negotiating table ahead of the general strike announced for May 21. The process follows the earlier failed mediation, and the key issue is whether both sides can find common ground before the scheduled strike date. The outcome of post-mediation is expected to draw attention for its impact on the labor dispute and whether the strike proceeds. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン電子最大労組、政府要請を受け入れ事後調整へ…21日総スト前に再協議",
-        "excerpt": "サムスン電子の最大労組は8日、決裂した労使調整の後続手続きとして政府要請を受け入れ、事後調整に入ると表明した。21日予定の総ストを前に再び協議する。",
-        "body": "サムスン電子の最大労組は8日、一度決裂した労使調整の後続手続きとして、事後調整手続きに入るとの立場を明らかにした。労組は政府の要請を受け入れて事後調整に参加する方針で、これにより21日に予告された総ストライキを前に、労使が再び交渉の場に着くことになった。今回の手続きは先の調整決裂後に続く協議であり、スト予定日前に労使が接点を見いだせるかが焦点となる。事後調整の結果により、サムスン電子の労使対立の行方と総スト実施の有無が注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星电子最大工会接受政府请求启动事后调解，21日总罢工前重回谈判",
-        "excerpt": "三星电子最大工会8日表示，在劳资调解一度破裂后，将接受政府请求启动事后调解程序。21日预告总罢工前，劳资双方将再次协商。",
-        "body": "三星电子最大工会8日表示，将作为此前一度破裂的劳资调解后续程序，启动事后调解。工会称已接受政府请求，决定参与事后调解。由此，在定于21日的总罢工之前，劳资双方将再次回到谈判桌。本次程序是在先前调解破裂后展开的后续协商，焦点在于双方能否在罢工预告日期前找到交集。事后调解结果将影响三星电子劳资矛盾的走向以及总罢工是否按计划进行。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Mayor sindicato de Samsung Electronics acepta petición del Gobierno y entra en posmediación",
-        "excerpt": "El mayor sindicato de Samsung Electronics dijo el día 8 que aceptará la petición del Gobierno e iniciará una posmediación tras el fracaso de la mediación laboral, antes de la huelga general prevista para el 21.",
-        "body": "El mayor sindicato de Samsung Electronics anunció el día 8 que iniciará un procedimiento de posmediación como seguimiento de una mediación laboral que ya se había roto una vez. El sindicato decidió aceptar la petición del Gobierno y participar en este nuevo proceso. Con ello, la empresa y los trabajadores volverán a sentarse a negociar antes de la huelga general anunciada para el día 21. El procedimiento llega después del fracaso de la mediación previa, y el punto central será si ambas partes pueden encontrar un terreno común antes de la fecha prevista de huelga. El resultado de la posmediación marcará la atención sobre el rumbo del conflicto laboral y la posible huelga. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Maior sindicato da Samsung Electronics aceita pedido do governo e inicia pós-mediação",
-        "excerpt": "O maior sindicato da Samsung Electronics informou no dia 8 que aceitará o pedido do governo e iniciará uma pós-mediação após o impasse na mediação trabalhista, antes da greve geral prevista para o dia 21.",
-        "body": "O maior sindicato da Samsung Electronics declarou no dia 8 que iniciará um procedimento de pós-mediação como etapa posterior a uma mediação trabalhista que já havia fracassado. O sindicato decidiu aceitar o pedido do governo e participar do processo. Assim, trabalhadores e administração voltarão à mesa de negociação antes da greve geral anunciada para o dia 21. O procedimento ocorre após o impasse na mediação anterior, e o ponto central será se as partes conseguirão encontrar um entendimento antes da data prevista da paralisação. O resultado da pós-mediação deve chamar atenção pelo impacto no conflito trabalhista e na eventual realização da greve. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Größte Samsung-Electronics-Gewerkschaft akzeptiert Regierungsbitte und startet Nachschlichtung",
-        "excerpt": "Die größte Gewerkschaft von Samsung Electronics erklärte am 8., sie werde nach der gescheiterten Schlichtung die Regierungsbitte annehmen und in die Nachschlichtung eintreten, bevor der Generalstreik am 21. ansteht.",
-        "body": "Die größte Gewerkschaft von Samsung Electronics erklärte am 8., sie werde als Folgeschritt einer zuvor gescheiterten Arbeits- und Managementschlichtung ein Nachschlichtungsverfahren aufnehmen. Die Gewerkschaft akzeptiert damit die Bitte der Regierung und nimmt an dem Verfahren teil. Dadurch sollen Arbeitnehmerseite und Management vor dem für den 21. angekündigten Generalstreik erneut verhandeln. Das Verfahren folgt auf die frühere gescheiterte Schlichtung. Entscheidend ist, ob beide Seiten vor dem angekündigten Streiktermin eine Annäherung finden können. Das Ergebnis der Nachschlichtung dürfte für den weiteren Verlauf des Konflikts und die Frage eines Generalstreiks maßgeblich beachtet werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le principal syndicat de Samsung Electronics accepte la demande du gouvernement et entre en post-médiation",
-        "excerpt": "Le principal syndicat de Samsung Electronics a annoncé le 8 qu’il accepterait la demande du gouvernement et engagerait une post-médiation après l’échec d’une médiation sociale, avant la grève générale prévue le 21.",
-        "body": "Le principal syndicat de Samsung Electronics a déclaré le 8 qu’il engagerait une procédure de post-médiation à la suite d’une médiation entre direction et salariés qui avait échoué une première fois. Le syndicat a accepté la demande du gouvernement de participer à cette procédure. Ainsi, les deux parties doivent revenir à la table des négociations avant la grève générale annoncée pour le 21. Cette étape intervient après l’échec de la médiation précédente, et l’enjeu principal sera de savoir si un terrain d’entente peut être trouvé avant la date prévue de la grève. Le résultat de la post-médiation sera suivi pour son effet sur le conflit social et sur la tenue éventuelle de la grève. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أكبر نقابة في سامسونغ إلكترونيكس تقبل طلب الحكومة وتبدأ وساطة لاحقة قبل إضراب 21 مايو",
-        "excerpt": "قالت أكبر نقابة في سامسونغ إلكترونيكس يوم 8 إنها ستقبل طلب الحكومة وتدخل في وساطة لاحقة بعد تعثر الوساطة العمالية، وذلك قبل الإضراب العام المقرر في 21 مايو.",
-        "body": "أعلنت أكبر نقابة في سامسونغ إلكترونيكس يوم 8 أنها ستبدأ إجراء وساطة لاحقة باعتباره خطوة تالية بعد تعثر وساطة سابقة بين العمال والإدارة. وقالت النقابة إنها قبلت طلب الحكومة بالمشاركة في هذا الإجراء. وبذلك من المقرر أن يعود الطرفان إلى طاولة المفاوضات قبل الإضراب العام المعلن في 21 مايو. يأتي هذا الإجراء بعد فشل الوساطة السابقة، وستتركز الأنظار على ما إذا كان الجانبان سيتمكنان من إيجاد نقطة توافق قبل الموعد المحدد للإضراب. وستحظى نتيجة الوساطة اللاحقة باهتمام لما قد تعنيه لمسار النزاع العمالي وإمكانية تنفيذ الإضراب العام. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung Electronics की सबसे बड़ी यूनियन ने सरकारी अनुरोध माना, 21 मई की हड़ताल से पहले वार्ता फिर शुरू",
-        "excerpt": "Samsung Electronics की सबसे बड़ी यूनियन ने 8 तारीख को कहा कि वह विफल श्रम-प्रबंधन मध्यस्थता के बाद सरकारी अनुरोध स्वीकार कर पश्चात मध्यस्थता में शामिल होगी, जबकि 21 मई को आम हड़ताल प्रस्तावित है।",
-        "body": "Samsung Electronics की सबसे बड़ी यूनियन ने 8 तारीख को बताया कि वह एक बार विफल हो चुकी श्रम-प्रबंधन मध्यस्थता की अगली प्रक्रिया के रूप में पश्चात मध्यस्थता शुरू करेगी। यूनियन ने कहा कि उसने सरकार के अनुरोध को स्वीकार कर इस प्रक्रिया में भाग लेने का निर्णय लिया है। इसके साथ, 21 मई के लिए घोषित आम हड़ताल से पहले श्रमिक पक्ष और प्रबंधन फिर से बातचीत की मेज पर आएंगे। यह प्रक्रिया पिछली मध्यस्थता टूटने के बाद की अनुवर्ती वार्ता है, और मुख्य प्रश्न यह है कि क्या हड़ताल की तय तारीख से पहले दोनों पक्ष कोई साझा आधार खोज पाएंगे। पश्चात मध्यस्थता का परिणाम Samsung Electronics के श्रम विवाद और आम हड़ताल की दिशा पर ध्यान खींचेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Serikat Terbesar Samsung Electronics Terima Permintaan Pemerintah, Masuk Mediasi Lanjutan",
-        "excerpt": "Serikat terbesar Samsung Electronics pada tanggal 8 menyatakan akan menerima permintaan pemerintah dan memulai mediasi lanjutan setelah mediasi tenaga kerja sebelumnya gagal, menjelang mogok umum yang dijadwalkan 21 Mei.",
-        "body": "Serikat terbesar Samsung Electronics pada tanggal 8 menyatakan akan memulai prosedur mediasi lanjutan sebagai tindak lanjut dari mediasi antara pekerja dan manajemen yang sebelumnya sempat gagal. Serikat tersebut memutuskan menerima permintaan pemerintah untuk ikut dalam prosedur itu. Dengan demikian, pekerja dan manajemen akan kembali ke meja perundingan menjelang mogok umum yang telah diumumkan pada 21 Mei. Prosedur ini merupakan pembahasan lanjutan setelah kegagalan mediasi sebelumnya, dengan fokus pada apakah kedua pihak dapat menemukan titik temu sebelum tanggal mogok yang dijadwalkan. Hasil mediasi lanjutan akan menjadi perhatian bagi arah konflik ketenagakerjaan Samsung Electronics dan kemungkinan pelaksanaan mogok umum. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "8a1fc1cb9dff",
-    "slug": "동원그룹-고환율-등에도-전년대비-영업이익-171-상승-646658",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T07:49:47.323Z",
-    "updatedAt": "2026-05-08T07:49:47.324Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12041214",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12041214",
-    "titleFingerprint": "5aa79d06a9a9db20793a109b43def6e3f285c087",
-    "dedupKeys": [
-      "8a1fc1cb9dff7c919683b7f8b503004c38af87e1",
-      "5aa79d06a9a9db20793a109b43def6e3f285c087",
-      "a1517ec2cb064a6cbad440ef8fbc7b5fca33a04f"
-    ],
-    "imageUrl": "/images/articles/8a1fc1cb9dff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "동원그룹 영업이익 17.1% 증가, 고환율 속 글로벌 사업 호조",
-        "excerpt": "동원그룹은 고환율과 원자재 수급 불안에도 전년 동기 대비 매출 9.1%, 영업이익 17.1% 증가를 기록했다.",
-        "body": "동원그룹은 고환율과 원자재 수급 불안이 이어진 가운데서도 전년 동기 대비 영업이익이 17.1% 증가했다고 밝혔다. 매출도 같은 기간 9.1% 늘었다. 참치 등 수산식품과 물류, 포장재 사업을 영위하는 동원산업은 수산·식품 부문의 저조에도 글로벌 사업 호조가 실적 개선을 이끌었다. 원가와 환율 부담이 계속되는 환경에서 해외 사업 성과가 전체 수익성을 보완한 것으로 풀이된다. 향후 실적 흐름은 수산·식품 부문의 회복 여부와 원자재 수급 안정에 영향을 받을 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Dongwon Group Operating Profit Rises 17.1% on Global Business Strength",
-        "excerpt": "Dongwon Group posted a 9.1% revenue increase and a 17.1% operating profit rise year on year despite high exchange rates and raw material supply instability.",
-        "body": "Dongwon Group said its operating profit rose 17.1% year on year despite continued pressure from high exchange rates and unstable raw material supply. Revenue also increased 9.1% over the same period. Dongwon Industries, which operates seafood products including tuna as well as logistics and packaging materials businesses, saw overall earnings improve even as its fisheries and food segments remained weak. Strong performance in global operations helped offset cost and currency burdens. Future results are expected to depend on a recovery in seafood and food businesses and stabilization in raw material supply. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "東遠グループ営業益17.1%増、高為替下でグローバル事業が好調",
-        "excerpt": "東遠グループは高為替と原材料需給不安の中でも、前年同期比で売上高9.1%、営業利益17.1%増を記録した。",
-        "body": "東遠グループは、高為替と原材料需給の不安定さが続く中でも、前年同期比で営業利益が17.1%増加したと明らかにした。売上高も同じ期間に9.1%増えた。マグロなどの水産食品、物流、包装資材事業を展開する東遠産業は、水産・食品部門が低調だったものの、グローバル事業の好調が業績改善を支えた。原価と為替負担が続く環境で、海外事業の成果が全体の収益性を補った形だ。今後は水産・食品部門の回復と原材料需給の安定が業績の焦点となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "东远集团营业利润增长17.1%，全球业务抵消高汇率压力",
-        "excerpt": "东远集团在高汇率和原材料供应不稳的情况下，营收同比增长9.1%，营业利润同比增长17.1%。",
-        "body": "东远集团表示，尽管高汇率和原材料供应不稳定持续存在，其营业利润仍同比增长17.1%。同期营收也增长9.1%。经营金枪鱼等水产食品以及物流、包装材料业务的东远产业，虽水产和食品板块表现低迷，但全球业务向好带动了整体业绩改善。在成本和汇率压力延续的环境下，海外业务成果弥补了整体盈利能力。未来业绩走势预计将受到水产和食品板块恢复情况以及原材料供应稳定程度的影响。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Dongwon Group eleva 17,1% su beneficio operativo pese al tipo de cambio",
-        "excerpt": "Dongwon Group registró un aumento interanual del 9,1% en ventas y del 17,1% en beneficio operativo pese al alto tipo de cambio y la inestabilidad de materias primas.",
-        "body": "Dongwon Group informó que su beneficio operativo aumentó un 17,1% interanual pese a la presión de un tipo de cambio elevado y la inestabilidad en el suministro de materias primas. Las ventas también crecieron un 9,1% en el mismo periodo. Dongwon Industries, que opera negocios de productos pesqueros como atún, logística y materiales de embalaje, mejoró sus resultados aunque las áreas de pesca y alimentos fueron débiles. El buen desempeño del negocio global compensó las cargas de costos y divisas. La evolución futura dependerá de la recuperación de pesca y alimentos y de la estabilidad del suministro. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Dongwon Group aumenta lucro operacional em 17,1% com força global",
-        "excerpt": "O Dongwon Group registrou alta anual de 9,1% na receita e de 17,1% no lucro operacional, apesar do câmbio elevado e da instabilidade no fornecimento de matérias-primas.",
-        "body": "O Dongwon Group informou que seu lucro operacional cresceu 17,1% em relação ao mesmo período do ano anterior, mesmo com a continuidade do câmbio elevado e da instabilidade no fornecimento de matérias-primas. A receita também avançou 9,1%. A Dongwon Industries, que atua em alimentos marítimos como atum, logística e materiais de embalagem, melhorou seus resultados apesar do desempenho fraco nas áreas de pesca e alimentos. A força dos negócios globais ajudou a compensar pressões de custos e câmbio. O desempenho futuro dependerá da recuperação desses segmentos e da estabilização das matérias-primas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Dongwon Group steigert operativen Gewinn trotz Wechselkursdruck um 17,1%",
-        "excerpt": "Dongwon Group meldete trotz hoher Wechselkurse und unsicherer Rohstoffversorgung ein Umsatzplus von 9,1% und 17,1% mehr operativen Gewinn gegenüber dem Vorjahr.",
-        "body": "Dongwon Group teilte mit, dass der operative Gewinn trotz anhaltend hoher Wechselkurse und unsicherer Rohstoffversorgung im Jahresvergleich um 17,1% gestiegen ist. Der Umsatz legte im selben Zeitraum um 9,1% zu. Dongwon Industries, tätig mit Fischereiprodukten wie Thunfisch sowie Logistik und Verpackungsmaterialien, verbesserte die Ergebnisse, obwohl Fischerei und Lebensmittel schwach blieben. Die starke Entwicklung des globalen Geschäfts half, Kosten- und Währungsbelastungen auszugleichen. Der weitere Verlauf dürfte von einer Erholung dieser Bereiche und stabilerer Rohstoffversorgung abhängen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Dongwon Group voit son bénéfice opérationnel grimper de 17,1%",
-        "excerpt": "Dongwon Group a enregistré une hausse annuelle de 9,1% du chiffre d’affaires et de 17,1% du bénéfice opérationnel malgré les changes élevés et l’instabilité des matières premières.",
-        "body": "Dongwon Group a annoncé une hausse de 17,1% de son bénéfice opérationnel sur un an malgré la pression persistante des taux de change élevés et l’instabilité de l’approvisionnement en matières premières. Le chiffre d’affaires a aussi progressé de 9,1% sur la même période. Dongwon Industries, active dans les produits de la mer comme le thon, la logistique et les matériaux d’emballage, a amélioré ses résultats malgré la faiblesse des segments pêche et alimentation. La solidité des activités mondiales a compensé les coûts et l’effet de change. La suite dépendra du redressement de ces segments et de la stabilisation des approvisionnements. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مجموعة دونغ وون ترفع الربح التشغيلي 17.1% بدعم الأعمال العالمية",
-        "excerpt": "سجلت مجموعة دونغ وون نموا سنويا في الإيرادات بنسبة 9.1% وفي الربح التشغيلي بنسبة 17.1% رغم ارتفاع سعر الصرف واضطراب إمدادات المواد الخام.",
-        "body": "قالت مجموعة دونغ وون إن ربحها التشغيلي ارتفع 17.1% على أساس سنوي رغم استمرار الضغوط الناتجة عن ارتفاع سعر الصرف وعدم استقرار إمدادات المواد الخام. كما زادت الإيرادات 9.1% خلال الفترة نفسها. وتعمل دونغ وون إندستريز في منتجات بحرية مثل التونة، إضافة إلى الخدمات اللوجستية ومواد التغليف. ورغم ضعف قطاعي المصايد والأغذية، ساعد الأداء القوي للأعمال العالمية في تحسين النتائج وتعويض أعباء التكلفة والعملات. ومن المتوقع أن يتأثر المسار المقبل بتعافي المصايد والأغذية واستقرار المواد الخام. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Dongwon Group का परिचालन लाभ 17.1% बढ़ा, वैश्विक कारोबार मजबूत",
-        "excerpt": "Dongwon Group ने ऊंची विनिमय दर और कच्चे माल की आपूर्ति अस्थिरता के बावजूद सालाना आधार पर राजस्व में 9.1% और परिचालन लाभ में 17.1% वृद्धि दर्ज की।",
-        "body": "Dongwon Group ने कहा कि ऊंची विनिमय दर और कच्चे माल की आपूर्ति में अस्थिरता जारी रहने के बावजूद उसका परिचालन लाभ सालाना आधार पर 17.1% बढ़ा। इसी अवधि में राजस्व भी 9.1% बढ़ा। ट्यूना जैसे समुद्री खाद्य उत्पादों, लॉजिस्टिक्स और पैकेजिंग सामग्री का कारोबार करने वाली Dongwon Industries ने मत्स्य और खाद्य खंड की कमजोरी के बावजूद बेहतर नतीजे दर्ज किए। वैश्विक कारोबार की मजबूती ने लागत और मुद्रा दबाव की भरपाई में मदद की। आगे का प्रदर्शन मत्स्य और खाद्य खंड की रिकवरी तथा कच्चे माल की आपूर्ति स्थिरता पर निर्भर करेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Dongwon Group Cetak Laba Operasi Naik 17,1% Berkat Bisnis Global",
-        "excerpt": "Dongwon Group membukukan kenaikan pendapatan 9,1% dan laba operasi 17,1% secara tahunan meski kurs tinggi dan pasokan bahan baku tidak stabil.",
-        "body": "Dongwon Group menyatakan laba operasinya naik 17,1% dibanding periode yang sama tahun sebelumnya, meski tekanan kurs tinggi dan ketidakstabilan pasokan bahan baku masih berlanjut. Pendapatan juga meningkat 9,1% pada periode yang sama. Dongwon Industries, yang menjalankan bisnis produk makanan laut seperti tuna, logistik, dan bahan kemasan, mencatat perbaikan kinerja walau sektor perikanan dan makanan masih lemah. Kinerja bisnis global yang kuat membantu menutup beban biaya dan nilai tukar. Ke depan, hasil usaha akan dipengaruhi pemulihan sektor perikanan dan makanan serta stabilitas bahan baku. Sumber: mk.co.kr"
       }
     }
   }
