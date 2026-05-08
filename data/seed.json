@@ -1,5 +1,230 @@
 [
   {
+    "id": "986b4df5e9b4",
+    "slug": "美이란-충돌에-국고채-금리-일제히3년물-연-3569종합-176801",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T23:01:16.005Z",
+    "updatedAt": "2026-05-08T23:01:16.005Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508140751008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508140751008",
+    "titleFingerprint": "d4d48b9b778debefba81c3daf80718242f32de92",
+    "dedupKeys": [
+      "986b4df5e9b4c61a39682fa54c3264483518ff61",
+      "d4d48b9b778debefba81c3daf80718242f32de92",
+      "9f492d4b2bd75a574c7478b0c220c4ee8de9e4be"
+    ],
+    "imageUrl": "/images/articles/986b4df5e9b4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "美·이란 충돌에 국고채 금리 일제히 상승…3년물 연 3.569% 마감",
+        "excerpt": "8일 미국과 이란의 충돌 여파로 국제 유가가 오르면서 국내 국고채 금리가 일제히 상승 마감했고, 3년물 금리는 연 3.569%를 기록했다.",
+        "body": "8일 서울 채권시장에서 미국과 이란의 충돌에 따른 국제 유가 상승 영향으로 국고채 금리가 일제히 상승 마감했다. 원문에 따르면 이날 국고채 3년물 금리는 연 3.569%로 마감했다. 중동 지역 긴장으로 유가가 오른 점이 채권시장에 부담으로 작용하며 주요 만기의 금리가 함께 올랐다. 시장은 유가 상승이 물가와 금리 경로에 미칠 영향을 주시하는 흐름을 보였다. 이번 내용은 yna.co.kr 보도를 인용했다."
+      },
+      "en": {
+        "title": "Korean Treasury Yields Rise on U.S.-Iran Clash; 3-Year Ends at 3.569%",
+        "excerpt": "On May 8, Korean Treasury yields closed higher across the board as oil prices rose following the U.S.-Iran clash, with the three-year yield ending at 3.569%.",
+        "body": "In Seoul’s bond market on May 8, Korean Treasury yields closed higher across all maturities as international oil prices rose following the clash between the United States and Iran. According to the original report, the three-year Korean Treasury yield ended at 3.569% per year. The rise in oil prices driven by heightened Middle East tensions weighed on the bond market, pushing key yields upward together. Market attention remained on how higher oil prices could affect inflation and the interest-rate path. This article cites reporting from yna.co.kr."
+      },
+      "ja": {
+        "title": "米イラン衝突で韓国国債利回りが一斉上昇、3年物は年3.569%で終了",
+        "excerpt": "8日、米国とイランの衝突を受けた国際原油価格の上昇で韓国国債利回りはそろって上昇して取引を終え、3年物は年3.569%となった。",
+        "body": "8日のソウル債券市場では、米国とイランの衝突に伴う国際原油価格の上昇を受け、韓国国債利回りが一斉に上昇して取引を終えた。原文によると、この日の韓国国債3年物利回りは年3.569%で終了した。中東情勢の緊張で原油価格が上がったことが債券市場の負担となり、主要年限の利回りがそろって上昇した。市場では、原油高が物価や金利の経路に及ぼす影響を見極める動きが続いた。本記事はyna.co.krの報道を引用した。"
+      },
+      "zh": {
+        "title": "美伊冲突推高韩国国债收益率，3年期收于年3.569%",
+        "excerpt": "5月8日，受美国与伊朗冲突引发国际油价上涨影响，韩国国债收益率全线收高，3年期国债收益率收于年3.569%。",
+        "body": "5月8日，首尔债券市场上，受美国与伊朗冲突导致国际油价上涨影响，韩国国债收益率全线收高。原文显示，当日韩国3年期国债收益率收于年3.569%。中东地区紧张局势推升油价，对债券市场形成压力，并带动主要期限收益率同步上行。市场关注油价上涨可能对通胀和利率路径产生的影响。本文引用yna.co.kr报道。"
+      },
+      "es": {
+        "title": "Choque EE. UU.-Irán eleva bonos coreanos; el 3 años cierra en 3,569%",
+        "excerpt": "El 8 de mayo, los rendimientos de los bonos del Tesoro surcoreano cerraron al alza por el aumento del petróleo tras el choque EE. UU.-Irán; el 3 años quedó en 3,569%.",
+        "body": "En el mercado de bonos de Seúl, el 8 de mayo, los rendimientos de los bonos del Tesoro surcoreano cerraron al alza de forma generalizada por la subida del petróleo internacional tras el choque entre Estados Unidos e Irán. Según el texto original, el rendimiento del bono a tres años terminó en 3,569% anual. El encarecimiento del crudo, vinculado a la tensión en Oriente Medio, pesó sobre el mercado de renta fija y elevó los rendimientos de los principales vencimientos. El mercado siguió atento al efecto del petróleo en la inflación y la trayectoria de tasas. Este artículo cita a yna.co.kr."
+      },
+      "pt": {
+        "title": "Choque EUA-Irã eleva juros dos títulos coreanos; 3 anos fecha a 3,569%",
+        "excerpt": "Em 8 de maio, os rendimentos dos títulos públicos sul-coreanos fecharam em alta com o avanço do petróleo após o choque EUA-Irã; o papel de 3 anos ficou em 3,569%.",
+        "body": "No mercado de títulos de Seul, em 8 de maio, os rendimentos dos títulos públicos sul-coreanos fecharam em alta generalizada, refletindo a subida do petróleo internacional após o choque entre Estados Unidos e Irã. Segundo o texto original, o rendimento do título de três anos encerrou em 3,569% ao ano. A alta do petróleo, ligada ao aumento das tensões no Oriente Médio, pressionou o mercado de renda fixa e levou os principais vencimentos a subir juntos. Investidores acompanharam o possível impacto do petróleo sobre a inflação e a trajetória dos juros. Este artigo cita reportagem de yna.co.kr."
+      },
+      "de": {
+        "title": "US-Iran-Konflikt treibt Koreas Staatsanleiherenditen; 3 Jahre bei 3,569%",
+        "excerpt": "Am 8. Mai schlossen südkoreanische Staatsanleiherenditen wegen höherer Ölpreise nach dem US-Iran-Konflikt durchweg höher; die dreijährige Rendite lag bei 3,569%.",
+        "body": "Am 8. Mai schlossen am Anleihemarkt in Seoul die Renditen südkoreanischer Staatsanleihen auf breiter Front höher. Auslöser war der Anstieg der internationalen Ölpreise nach dem Zusammenstoß zwischen den USA und Iran. Dem Originalbericht zufolge endete die Rendite der dreijährigen Staatsanleihe bei jährlich 3,569%. Die durch Spannungen im Nahen Osten ausgelöste Ölverteuerung belastete den Anleihemarkt und ließ wichtige Laufzeiten gemeinsam steigen. Der Markt beobachtete, wie sich höhere Ölpreise auf Inflation und Zinspfad auswirken könnten. Dieser Artikel zitiert yna.co.kr."
+      },
+      "fr": {
+        "title": "Le choc États-Unis-Iran fait monter les rendements coréens; le 3 ans à 3,569%",
+        "excerpt": "Le 8 mai, les rendements des obligations d’État sud-coréennes ont fini en hausse avec le pétrole après le choc États-Unis-Iran; le trois ans a clôturé à 3,569%.",
+        "body": "Sur le marché obligataire de Séoul, le 8 mai, les rendements des obligations d’État sud-coréennes ont clôturé en hausse généralisée, sous l’effet de la montée des prix internationaux du pétrole après le choc entre les États-Unis et l’Iran. Selon le texte original, le rendement du titre à trois ans a fini à 3,569% par an. La hausse du pétrole, liée aux tensions au Moyen-Orient, a pesé sur le marché obligataire et entraîné une progression des principaux rendements. Les marchés ont surveillé l’impact possible du pétrole sur l’inflation et la trajectoire des taux. Cet article cite yna.co.kr."
+      },
+      "ar": {
+        "title": "تصاعد أميركي إيراني يرفع عوائد السندات الكورية؛ الثلاثية عند 3.569%",
+        "excerpt": "في 8 مايو أغلقت عوائد سندات الخزانة الكورية الجنوبية مرتفعة مع صعود النفط بسبب التصادم بين الولايات المتحدة وإيران، وبلغ عائد الثلاث سنوات 3.569%.",
+        "body": "في سوق السندات في سيول يوم 8 مايو، أغلقت عوائد سندات الخزانة الكورية الجنوبية على ارتفاع جماعي، متأثرة بصعود أسعار النفط العالمية عقب التصادم بين الولايات المتحدة وإيران. ووفق النص الأصلي، أنهى عائد السند الكوري لأجل ثلاث سنوات التعاملات عند 3.569% سنويا. ارتفاع النفط المرتبط بتوترات الشرق الأوسط شكل ضغطا على سوق السندات ودفع عوائد الآجال الرئيسية إلى الصعود معا. وواصل السوق متابعة أثر أسعار النفط الأعلى على التضخم ومسار الفائدة. يستند هذا المقال إلى تقرير yna.co.kr."
+      },
+      "hi": {
+        "title": "अमेरिका-ईरान टकराव से कोरियाई बॉन्ड यील्ड चढ़ी; 3-वर्ष 3.569% पर बंद",
+        "excerpt": "8 मई को अमेरिका और ईरान के टकराव के बाद अंतरराष्ट्रीय तेल कीमतें बढ़ीं, जिससे दक्षिण कोरियाई सरकारी बॉन्ड यील्ड चढ़ी और 3-वर्ष यील्ड 3.569% रही।",
+        "body": "8 मई को सियोल के बॉन्ड बाजार में दक्षिण कोरियाई सरकारी बॉन्ड की यील्ड सभी प्रमुख अवधियों में ऊपर बंद हुई। इसकी वजह अमेरिका और ईरान के टकराव के बाद अंतरराष्ट्रीय तेल कीमतों में आई तेजी रही। मूल रिपोर्ट के अनुसार, तीन-वर्षीय कोरियाई सरकारी बॉन्ड की यील्ड सालाना 3.569% पर बंद हुई। मध्य पूर्व में तनाव से तेल महंगा हुआ, जिसने बॉन्ड बाजार पर दबाव डाला और प्रमुख यील्ड को साथ-साथ ऊपर धकेला। बाजार ने तेल कीमतों के महंगाई और ब्याज दरों के रास्ते पर असर को देखा। यह लेख yna.co.kr की रिपोर्ट का हवाला देता है।"
+      },
+      "id": {
+        "title": "Benturan AS-Iran Angkat Imbal Hasil Obligasi Korea; 3 Tahun 3,569%",
+        "excerpt": "Pada 8 Mei, imbal hasil obligasi pemerintah Korea Selatan ditutup naik karena harga minyak menguat setelah benturan AS-Iran; tenor 3 tahun berakhir di 3,569%.",
+        "body": "Di pasar obligasi Seoul pada 8 Mei, imbal hasil obligasi pemerintah Korea Selatan ditutup naik secara menyeluruh karena harga minyak internasional meningkat setelah benturan antara Amerika Serikat dan Iran. Menurut laporan asli, imbal hasil obligasi pemerintah Korea tenor tiga tahun berakhir di 3,569% per tahun. Kenaikan minyak akibat ketegangan di Timur Tengah menekan pasar obligasi dan mendorong imbal hasil tenor utama naik bersama. Pasar mencermati dampak harga minyak yang lebih tinggi terhadap inflasi dan arah suku bunga. Artikel ini mengutip laporan yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "6d54740764c4",
+    "slug": "스피어-종속회사-주식-247억원에-추가취득-312926",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T23:00:25.576Z",
+    "updatedAt": "2026-05-08T23:00:25.576Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508143300008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508143300008",
+    "titleFingerprint": "eeae705422976cc50cf4c9c21c045f3125349d6b",
+    "dedupKeys": [
+      "6d54740764c4defbb6f243a1edba21647a22c959",
+      "eeae705422976cc50cf4c9c21c045f3125349d6b",
+      "0789275fcfb58aba4ff16f64d689fcfa2cb6697f"
+    ],
+    "imageUrl": "/images/articles/6d54740764c4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "스피어, 싱가포르 니켈 특수합금 종속회사 주식 247억원 추가취득 공시",
+        "excerpt": "코스닥 상장사 스피어는 싱가포르 니켈 등 특수합금 사업투자 주요 종속회사인 Sphere Nickel Cobalt 주식을 247억원에 추가 취득한다고 밝혔다.",
+        "body": "코스닥 상장사 스피어[347700]는 싱가포르의 니켈 등 특수합금 사업투자를 맡은 주요 종속회사 Sphere Nickel Cobalt 주식을 247억원에 추가 취득한다고 밝혔다. 이번 내용은 종속회사 주식 추가 취득에 관한 공시로, 거래 대상은 스피어의 해외 특수합금 사업 관련 핵심 종속회사다. 공시된 금액은 247억원이며, 원문에서 확인된 정보는 추가 취득 규모와 대상 회사에 한정된다. 이번 취득은 스피어의 종속회사 투자 구조와 해외 니켈·특수합금 사업 관련 지분 변동을 확인할 수 있는 사안이다. 세부 조건과 향후 영향은 추가 공시와 회사 설명을 통해 확인될 필요가 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Sphere to Buy Additional Shares in Singapore Nickel Alloy Subsidiary for 24.7 Billion Won",
+        "excerpt": "KOSDAQ-listed Sphere said it will acquire additional shares in Sphere Nickel Cobalt, a key Singapore subsidiary tied to nickel and specialty alloy business investment, for 24.7 billion won.",
+        "body": "KOSDAQ-listed Sphere [347700] said it will acquire additional shares in Sphere Nickel Cobalt, its key Singapore-based subsidiary involved in business investment related to nickel and other specialty alloys, for 24.7 billion won. The announcement concerns an additional share acquisition in a subsidiary, with the target company linked to Sphere’s overseas specialty alloy business. The disclosed transaction amount is 24.7 billion won, and the information confirmed from the original report is limited to the acquisition amount and the target company. The deal highlights a change in Sphere’s subsidiary investment structure and its exposure to overseas nickel and specialty alloy operations. Further details and effects should be checked through later disclosures or company explanations. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "スフィア、シンガポールのニッケル特殊合金子会社株を247億ウォンで追加取得",
+        "excerpt": "コスダック上場のスフィアは、ニッケルなど特殊合金事業投資を担うシンガポールの主要子会社Sphere Nickel Cobalt株を247億ウォンで追加取得すると明らかにした。",
+        "body": "コスダック上場企業のスフィア[347700]は、シンガポールでニッケルなど特殊合金事業投資を担う主要子会社Sphere Nickel Cobaltの株式を247億ウォンで追加取得すると明らかにした。今回の内容は子会社株式の追加取得に関する公示で、対象会社はスフィアの海外特殊合金事業に関連する中核子会社だ。公示された金額は247億ウォンで、原文で確認された情報は追加取得規模と対象会社に限られる。今回の取得は、スフィアの子会社投資構造と海外ニッケル・特殊合金事業に関する持ち分変動を確認できる事案だ。詳細条件や今後の影響は、追加公示と会社説明を通じて確認する必要がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "Sphere将以247亿韩元增持新加坡镍及特种合金子公司股份",
+        "excerpt": "科斯达克上市公司Sphere表示，将以247亿韩元追加收购其新加坡主要子公司Sphere Nickel Cobalt股份，该公司涉及镍等特种合金业务投资。",
+        "body": "科斯达克上市公司Sphere[347700]表示，将以247亿韩元追加收购其位于新加坡、负责镍等特种合金业务投资的主要子公司Sphere Nickel Cobalt股份。此次内容属于对子公司股份追加收购的公告，交易对象是Sphere海外特种合金业务相关的核心子公司。公告金额为247亿韩元，原文可确认的信息限于追加收购规模和目标公司。此次收购反映了Sphere子公司投资结构以及海外镍和特种合金业务相关持股变化。具体条件和后续影响仍需通过进一步公告及公司说明确认。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Sphere adquirirá más acciones de filial de níquel y aleaciones en Singapur por 24.700 millones de wones",
+        "excerpt": "La cotizada del KOSDAQ Sphere dijo que comprará más acciones de Sphere Nickel Cobalt, filial clave en Singapur ligada a inversiones en níquel y aleaciones especiales, por 24.700 millones de wones.",
+        "body": "Sphere [347700], empresa cotizada en el KOSDAQ, informó que adquirirá acciones adicionales de Sphere Nickel Cobalt, su principal filial en Singapur dedicada a inversiones de negocio relacionadas con níquel y otras aleaciones especiales, por 24.700 millones de wones. El anuncio corresponde a una adquisición adicional de acciones de una subsidiaria, cuyo objetivo es una compañía vinculada al negocio exterior de aleaciones especiales de Sphere. El importe divulgado es de 24.700 millones de wones, y la información confirmada en el texto original se limita al monto y a la empresa objetivo. La operación permite observar cambios en la estructura de inversión en filiales de Sphere y en su exposición al negocio exterior de níquel y aleaciones especiales. Los detalles y efectos posteriores deberán confirmarse mediante nuevos comunicados o explicaciones de la empresa. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Sphere comprará mais ações de subsidiária de níquel e ligas em Singapura por 24,7 bi de wones",
+        "excerpt": "A Sphere, listada na KOSDAQ, disse que adquirirá ações adicionais da Sphere Nickel Cobalt, subsidiária importante em Singapura ligada a investimentos em níquel e ligas especiais, por 24,7 bilhões de wones.",
+        "body": "A Sphere [347700], empresa listada na KOSDAQ, informou que adquirirá ações adicionais da Sphere Nickel Cobalt, sua principal subsidiária em Singapura envolvida em investimentos de negócios relacionados a níquel e outras ligas especiais, por 24,7 bilhões de wones. O anúncio trata de uma aquisição adicional de ações de uma subsidiária, tendo como alvo uma companhia ligada ao negócio externo de ligas especiais da Sphere. O valor divulgado é de 24,7 bilhões de wones, e as informações confirmadas no texto original se limitam ao montante da aquisição e à empresa alvo. A operação mostra uma mudança na estrutura de investimento em subsidiárias da Sphere e em sua relação com os negócios externos de níquel e ligas especiais. Condições detalhadas e impactos futuros devem ser confirmados por meio de novos comunicados ou explicações da empresa. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Sphere kauft weitere Anteile an Singapur-Tochter für Nickel-Speziallegierungen für 24,7 Mrd. Won",
+        "excerpt": "Das KOSDAQ-Unternehmen Sphere will zusätzliche Anteile an Sphere Nickel Cobalt erwerben, einer wichtigen Singapur-Tochter für Investitionen in Nickel und Speziallegierungen, für 24,7 Milliarden Won.",
+        "body": "Das an der KOSDAQ notierte Unternehmen Sphere [347700] teilte mit, zusätzliche Anteile an Sphere Nickel Cobalt zu erwerben, seiner wichtigen Tochtergesellschaft in Singapur für Geschäftsinvestitionen im Bereich Nickel und andere Speziallegierungen. Der Kaufpreis beträgt 24,7 Milliarden Won. Die Mitteilung betrifft den zusätzlichen Erwerb von Anteilen an einer Tochtergesellschaft; Ziel ist ein Unternehmen, das mit Spheres Auslandsgeschäft für Speziallegierungen verbunden ist. Der offengelegte Betrag liegt bei 24,7 Milliarden Won, und die im Ausgangstext bestätigten Informationen beschränken sich auf Volumen und Zielgesellschaft. Die Transaktion zeigt eine Veränderung in Spheres Beteiligungsstruktur bei Tochtergesellschaften und im Zusammenhang mit dem Auslandsgeschäft für Nickel und Speziallegierungen. Weitere Bedingungen und Auswirkungen müssen über spätere Mitteilungen oder Erläuterungen des Unternehmens geprüft werden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Sphere va acquérir plus d’actions de sa filiale singapourienne de nickel et alliages pour 24,7 milliards de wons",
+        "excerpt": "La société Sphere, cotée au KOSDAQ, a annoncé l’acquisition d’actions supplémentaires de Sphere Nickel Cobalt, filiale clé à Singapour liée aux investissements dans le nickel et les alliages spéciaux, pour 24,7 milliards de wons.",
+        "body": "Sphere [347700], société cotée au KOSDAQ, a indiqué qu’elle acquerrait des actions supplémentaires de Sphere Nickel Cobalt, sa principale filiale basée à Singapour et liée aux investissements dans les activités de nickel et autres alliages spéciaux, pour 24,7 milliards de wons. L’annonce concerne une acquisition supplémentaire d’actions d’une filiale, la société cible étant liée aux activités étrangères d’alliages spéciaux de Sphere. Le montant communiqué est de 24,7 milliards de wons, et les informations confirmées dans le texte original se limitent au montant de l’acquisition et à la société visée. Cette opération met en évidence une évolution de la structure d’investissement de Sphere dans ses filiales et de son exposition aux activités étrangères de nickel et d’alliages spéciaux. Les conditions détaillées et les effets futurs devront être vérifiés dans de nouvelles communications ou explications de l’entreprise. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "سفير تستحوذ على أسهم إضافية في تابعة للنيكل والسبائك بسنغافورة مقابل 24.7 مليار وون",
+        "excerpt": "قالت شركة سفير المدرجة في كوسداك إنها ستشتري أسهما إضافية في Sphere Nickel Cobalt، وهي تابعة رئيسية في سنغافورة مرتبطة باستثمارات النيكل والسبائك الخاصة، مقابل 24.7 مليار وون.",
+        "body": "أعلنت شركة سفير [347700] المدرجة في كوسداك أنها ستستحوذ على أسهم إضافية في Sphere Nickel Cobalt، وهي شركة تابعة رئيسية في سنغافورة معنية باستثمارات أعمال النيكل وغيره من السبائك الخاصة، مقابل 24.7 مليار وون. ويتعلق الإعلان بعملية شراء إضافية لأسهم في شركة تابعة، والهدف هو شركة مرتبطة بأعمال سفير الخارجية في السبائك الخاصة. ويبلغ المبلغ المعلن 24.7 مليار وون، وتقتصر المعلومات المؤكدة في النص الأصلي على حجم الاستحواذ والشركة المستهدفة. وتوضح العملية تغيرا في هيكل استثمارات سفير في الشركات التابعة وصلتها بأعمال النيكل والسبائك الخاصة في الخارج. أما الشروط التفصيلية والآثار اللاحقة فينبغي تأكيدها عبر إفصاحات لاحقة أو توضيحات من الشركة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "Sphere सिंगापुर निकेल-स्पेशल अलॉय सहायक में 24.7 अरब वॉन के अतिरिक्त शेयर खरीदेगी",
+        "excerpt": "KOSDAQ-सूचीबद्ध Sphere ने कहा कि वह निकेल और विशेष मिश्रधातु कारोबार निवेश से जुड़ी सिंगापुर की प्रमुख सहायक Sphere Nickel Cobalt में 24.7 अरब वॉन के अतिरिक्त शेयर खरीदेगी।",
+        "body": "KOSDAQ में सूचीबद्ध Sphere [347700] ने कहा कि वह सिंगापुर स्थित अपनी प्रमुख सहायक कंपनी Sphere Nickel Cobalt के अतिरिक्त शेयर 24.7 अरब वॉन में खरीदेगी। यह कंपनी निकेल और अन्य विशेष मिश्रधातु कारोबार से जुड़े निवेश से संबंधित है। यह घोषणा सहायक कंपनी के शेयरों की अतिरिक्त खरीद से जुड़ी है, और लक्ष्य कंपनी Sphere के विदेशी विशेष मिश्रधातु व्यवसाय से संबंधित मानी गई है। घोषित राशि 24.7 अरब वॉन है, और मूल पाठ में पुष्टि की गई जानकारी अधिग्रहण राशि तथा लक्ष्य कंपनी तक सीमित है। यह सौदा Sphere की सहायक कंपनियों में निवेश संरचना और विदेशी निकेल व विशेष मिश्रधातु व्यवसाय से जुड़े हिस्सेदारी बदलाव को दिखाता है। विस्तृत शर्तें और आगे के प्रभाव बाद की घोषणाओं या कंपनी के स्पष्टीकरण से जांचे जाने होंगे। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Sphere Akan Tambah Saham Anak Usaha Nikel dan Paduan Khusus Singapura Senilai 24,7 Miliar Won",
+        "excerpt": "Emiten KOSDAQ Sphere menyatakan akan membeli saham tambahan Sphere Nickel Cobalt, anak usaha utama di Singapura yang terkait investasi bisnis nikel dan paduan khusus, senilai 24,7 miliar won.",
+        "body": "Perusahaan KOSDAQ Sphere [347700] menyatakan akan mengakuisisi saham tambahan Sphere Nickel Cobalt, anak usaha utama di Singapura yang menangani investasi bisnis terkait nikel dan paduan khusus lainnya, senilai 24,7 miliar won. Pengumuman ini berkaitan dengan pembelian tambahan saham anak usaha, dengan target perusahaan yang terhubung dengan bisnis paduan khusus Sphere di luar negeri. Nilai yang diumumkan adalah 24,7 miliar won, dan informasi yang terkonfirmasi dari teks asli terbatas pada nilai akuisisi serta perusahaan target. Transaksi ini menunjukkan perubahan dalam struktur investasi anak usaha Sphere dan kaitannya dengan bisnis nikel serta paduan khusus di luar negeri. Rincian syarat dan dampak berikutnya perlu dikonfirmasi melalui pengumuman lanjutan atau penjelasan perusahaan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "00ec036bde9a",
+    "slug": "닌텐도도-결국-올렸다스위치-가격-최대-5만원-인상-306594",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T22:59:15.944Z",
+    "updatedAt": "2026-05-08T22:59:15.944Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508144200017",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508144200017",
+    "titleFingerprint": "ee6d991eeabb34af06b53dab5e7ca16330048eb0",
+    "dedupKeys": [
+      "00ec036bde9a6bd268a33f876f9006e017e899ba",
+      "ee6d991eeabb34af06b53dab5e7ca16330048eb0",
+      "0512fba8c8c064273a27e44dcd2d9c6ee98850de"
+    ],
+    "imageUrl": "/images/articles/00ec036bde9a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "닌텐도 스위치 구버전 가격 인상, 메모리값 폭등에 최대 5만원 올라",
+        "excerpt": "닌텐도가 메모리 가격 폭등과 전 세계 공급망 불안정 여파로 콘솔 기기 닌텐도 스위치 구버전 가격을 최대 5만원 인상했다.",
+        "body": "닌텐도가 콘솔 기기 ‘닌텐도 스위치’ 구버전 가격을 인상했다. 연합뉴스에 따르면 이번 가격 조정은 메모리 가격 폭등과 전 세계적인 공급망 불안정 여파에 따른 것이다. 인상 폭은 최대 5만원으로 전해졌다. 닌텐도 스위치는 장기간 판매돼 온 대표 콘솔 기기인 만큼, 구버전 제품 가격 조정은 기존 구매 수요와 유통 가격 흐름에 영향을 줄 수 있다. 다만 원문은 구체적인 적용 시점이나 대상 모델별 세부 가격은 추가로 제시하지 않았다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Nintendo Switch Older Models Get Price Hike as Memory Costs Surge",
+        "excerpt": "Nintendo raised prices for older Nintendo Switch console models by up to 50,000 won, citing soaring memory prices and global supply chain instability.",
+        "body": "Nintendo has raised prices for older versions of its Nintendo Switch console. According to Yonhap News Agency, the adjustment comes as memory prices have surged and global supply chains remain unstable. The increase is reported to be as much as 50,000 won. Because the Nintendo Switch has been one of the company’s long-running console products, a price change for older models may affect existing purchase demand and retail pricing trends. The original report did not provide additional details on the exact timing or model-by-model pricing. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "ニンテンドースイッチ旧モデル値上げ、メモリー高騰で最大5万ウォン",
+        "excerpt": "任天堂はメモリー価格の急騰と世界的な供給網の不安定化を受け、家庭用ゲーム機ニンテンドースイッチ旧モデルを最大5万ウォン値上げした。",
+        "body": "任天堂が家庭用ゲーム機「ニンテンドースイッチ」の旧モデル価格を引き上げた。聯合ニュースによると、今回の価格調整はメモリー価格の急騰と世界的な供給網の不安定化の影響によるものだ。値上げ幅は最大5万ウォンと伝えられている。ニンテンドースイッチは長期間販売されてきた代表的なゲーム機であるため、旧モデルの価格変更は既存の購入需要や流通価格の流れに影響を与える可能性がある。ただし原文では、具体的な適用時期やモデル別の詳細価格は追加で示されていない。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "任天堂Switch旧款涨价，内存价格飙升致最高上调5万韩元",
+        "excerpt": "任天堂因内存价格暴涨和全球供应链不稳定，上调旧款Nintendo Switch游戏主机价格，涨幅最高达5万韩元。",
+        "body": "任天堂上调了游戏主机“Nintendo Switch”旧款产品的价格。据韩联社报道，此次调价是受内存价格暴涨以及全球供应链不稳定影响。涨幅最高为5万韩元。Nintendo Switch是长期销售的代表性游戏主机，因此旧款产品价格调整可能影响既有购买需求和流通价格走势。不过，原文未进一步说明具体实施时间或各型号的详细价格。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Nintendo Switch sube de precio: modelos antiguos aumentan hasta 50.000 wones",
+        "excerpt": "Nintendo elevó el precio de las versiones antiguas de Nintendo Switch hasta 50.000 wones por el salto de los chips de memoria y la inestabilidad de la cadena global.",
+        "body": "Nintendo aumentó el precio de las versiones antiguas de su consola Nintendo Switch. Según la agencia Yonhap, el ajuste responde al fuerte aumento de los precios de la memoria y a la inestabilidad de las cadenas de suministro mundiales. La subida alcanza hasta 50.000 wones. Dado que Nintendo Switch ha sido una de las consolas representativas de la compañía durante un largo periodo, el cambio de precio en modelos antiguos puede afectar la demanda existente y la evolución de los precios minoristas. El reporte original no añadió una fecha concreta de aplicación ni precios detallados por modelo. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Nintendo Switch antigo fica mais caro com memória em alta e reajuste de até 50 mil won",
+        "excerpt": "A Nintendo elevou o preço das versões antigas do Nintendo Switch em até 50 mil won, citando a disparada dos preços de memória e a instabilidade da cadeia global.",
+        "body": "A Nintendo aumentou o preço das versões antigas do console Nintendo Switch. Segundo a agência Yonhap, o reajuste ocorre em meio à disparada dos preços de memória e à instabilidade das cadeias globais de fornecimento. A alta chega a até 50 mil won. Como o Nintendo Switch é um dos consoles representativos vendidos há longo tempo pela empresa, a mudança de preço nos modelos antigos pode influenciar a demanda de compra existente e a dinâmica dos preços no varejo. A reportagem original não informou a data exata de aplicação nem preços detalhados por modelo. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Nintendo Switch wird teurer: Alte Modelle steigen um bis zu 50.000 Won",
+        "excerpt": "Nintendo erhöht die Preise älterer Nintendo-Switch-Konsolen um bis zu 50.000 Won, ausgelöst durch stark gestiegene Speicherpreise und instabile Lieferketten.",
+        "body": "Nintendo hat die Preise für ältere Versionen der Konsole Nintendo Switch angehoben. Nach Angaben der Nachrichtenagentur Yonhap steht die Anpassung im Zusammenhang mit stark gestiegenen Speicherpreisen und weltweiter Instabilität in den Lieferketten. Der Aufschlag soll bis zu 50.000 Won betragen. Da die Nintendo Switch seit Langem zu den wichtigsten Konsolen des Unternehmens zählt, kann die Preiserhöhung bei älteren Modellen die bestehende Kaufnachfrage und die Entwicklung der Einzelhandelspreise beeinflussen. Der Originalbericht nennt keine weiteren Details zum genauen Startzeitpunkt oder zu Preisen einzelner Modelle. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Nintendo Switch augmente: anciens modèles relevés jusqu’à 50.000 wons",
+        "excerpt": "Nintendo a relevé le prix des anciennes versions de la Nintendo Switch jusqu’à 50.000 wons, en raison de la flambée de la mémoire et des chaînes d’approvisionnement instables.",
+        "body": "Nintendo a augmenté le prix des anciennes versions de sa console Nintendo Switch. Selon l’agence Yonhap, cet ajustement s’explique par la forte hausse des prix de la mémoire et par l’instabilité des chaînes d’approvisionnement mondiales. La hausse atteindrait jusqu’à 50.000 wons. La Nintendo Switch étant l’une des consoles phares vendues depuis longtemps par l’entreprise, la modification du prix des anciens modèles pourrait peser sur la demande existante et sur l’évolution des prix de distribution. Le rapport original ne précise pas la date exacte d’application ni les prix détaillés par modèle. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "نينتندو ترفع سعر سويتش القديم مع قفزة الذاكرة حتى 50 ألف وون",
+        "excerpt": "رفعت نينتندو أسعار الإصدارات القديمة من جهاز Nintendo Switch بما يصل إلى 50 ألف وون، بسبب ارتفاع أسعار الذاكرة واضطراب سلاسل الإمداد العالمية.",
+        "body": "رفعت نينتندو أسعار الإصدارات القديمة من جهاز الألعاب المنزلي Nintendo Switch. ووفقا لوكالة يونهاب، جاء تعديل الأسعار نتيجة الارتفاع الحاد في أسعار الذاكرة وعدم استقرار سلاسل الإمداد العالمية. وتصل الزيادة إلى 50 ألف وون. وبما أن Nintendo Switch يعد من أبرز أجهزة الشركة التي بيعت لفترة طويلة، فقد يؤثر تغيير سعر الإصدارات القديمة في طلب الشراء القائم واتجاهات أسعار التجزئة. ولم يذكر التقرير الأصلي موعد التطبيق المحدد أو الأسعار التفصيلية لكل طراز. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "Nintendo Switch के पुराने मॉडल महंगे, मेमोरी कीमतों से 50,000 वॉन तक बढ़ोतरी",
+        "excerpt": "Nintendo ने मेमोरी कीमतों में तेज उछाल और वैश्विक आपूर्ति श्रृंखला की अस्थिरता के कारण Nintendo Switch के पुराने मॉडलों की कीमत 50,000 वॉन तक बढ़ाई।",
+        "body": "Nintendo ने अपने कंसोल Nintendo Switch के पुराने संस्करणों की कीमत बढ़ा दी है। योनहाप समाचार एजेंसी के अनुसार, यह बदलाव मेमोरी कीमतों में तेज उछाल और वैश्विक आपूर्ति श्रृंखला की अस्थिरता के प्रभाव के कारण किया गया। बढ़ोतरी अधिकतम 50,000 वॉन तक बताई गई है। Nintendo Switch लंबे समय से बिकने वाला कंपनी का प्रमुख कंसोल रहा है, इसलिए पुराने मॉडलों की कीमत में बदलाव मौजूदा खरीद मांग और खुदरा कीमतों के रुझान को प्रभावित कर सकता है। मूल रिपोर्ट में लागू होने की सटीक तारीख या मॉडलवार विस्तृत कीमतें नहीं दी गईं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Nintendo Switch Model Lama Naik Harga, Memori Melonjak hingga 50.000 Won",
+        "excerpt": "Nintendo menaikkan harga Nintendo Switch versi lama hingga 50.000 won karena lonjakan harga memori dan ketidakstabilan rantai pasok global.",
+        "body": "Nintendo menaikkan harga konsol Nintendo Switch versi lama. Menurut Kantor Berita Yonhap, penyesuaian ini terjadi akibat lonjakan harga memori dan ketidakstabilan rantai pasok global. Kenaikannya dilaporkan mencapai hingga 50.000 won. Karena Nintendo Switch telah lama menjadi salah satu konsol utama perusahaan, perubahan harga pada model lama dapat memengaruhi permintaan pembelian yang sudah ada dan arah harga di pasar ritel. Laporan asli tidak memberikan rincian tambahan mengenai waktu penerapan atau harga per model. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "478bb956b710",
     "slug": "농식품부-에너지-대전환-tf-가동에너지-자립소득-증대-추진-384508",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Kesalahan Data Kinerja Kolmar Korea Seret Toss Securities ke Sorotan",
         "excerpt": "Toss Securities menuai kontroversi setelah data kinerja Kolmar Korea ditampilkan seolah penjualan turun separuh, memicu isu akurasi informasi investasi.",
         "body": "Toss Securities menghadapi kontroversi terkait cara menampilkan informasi kinerja Kolmar Korea. Menurut hankyung.com, kasus ini diberitakan dengan judul yang mempertanyakan apakah penjualan Kolmar Korea “turun separuh”, merujuk pada dugaan kesalahan tampilan di platform sekuritas, bukan perubahan kinerja perusahaan yang telah terkonfirmasi. Inti persoalannya bukan hasil usaha Kolmar Korea itu sendiri, melainkan apakah investor melihat angka yang salah atau berpotensi menyesatkan. Karena data kinerja digunakan langsung dalam analisis saham dan keputusan investasi, kontroversi ini dapat memunculkan pertanyaan tentang verifikasi data serta keandalan penyampaian informasi oleh layanan sekuritas. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "606cd7aea2ed",
-    "slug": "7500피-코앞인데-내-계좌는-왜-519729",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T12:22:12.305Z",
-    "updatedAt": "2026-05-08T12:22:12.305Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848971",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848971",
-    "titleFingerprint": "7f0ca3f3a42081ada317915e7a151e8f67eab8da",
-    "dedupKeys": [
-      "606cd7aea2ed772b32941820e2386f0f49f7d058",
-      "7f0ca3f3a42081ada317915e7a151e8f67eab8da",
-      "44627e4196dff4785d5c3914654f2b6cf7b8d9b8"
-    ],
-    "imageUrl": "/images/articles/606cd7aea2ed.jpg",
-    "i18n": {
-      "ko": {
-        "title": "7500포인트 코앞인데 내 계좌는 왜, 투자자 체감 괴리 주목",
-        "excerpt": "hankyung.com은 ‘7500피 코앞인데 내 계좌는 왜…’라는 제목으로 지수 수준과 개인 계좌 체감 사이의 괴리를 다룬 보도를 냈다.",
-        "body": "hankyung.com은 ‘7500피 코앞인데 내 계좌는 왜…’라는 제목의 보도에서 7500포인트에 근접한 시장 흐름과 투자자가 느끼는 계좌 성과의 차이를 핵심 문제로 제시했다. 원문에서 확인되는 정보는 제목과 출처뿐이며, 구체적인 종목, 지수명, 수익률, 시점, 원인 수치는 제공되지 않았다. 따라서 기사 해석은 지수의 상승 또는 고점 접근이 모든 투자자의 계좌 개선으로 곧바로 이어지지 않을 수 있다는 문제 제기에 한정된다. 관련 내용은 hankyung.com 보도를 인용했다."
-      },
-      "en": {
-        "title": "Near 7,500 Points, but Why Is My Account Lagging? Investor Gap in Focus",
-        "excerpt": "hankyung.com ran a report titled “Near 7,500 points, but why is my account…” focusing on the gap between index levels and investors’ account experience.",
-        "body": "hankyung.com presented the issue in a report titled “Near 7,500 points, but why is my account…,” highlighting the difference between a market level approaching 7,500 points and what investors see in their own accounts. The available source information includes only the headline and publisher; no specific stock, index name, return figure, timing, or cause is provided. The article can therefore only be read as raising the point that a higher index level does not necessarily translate directly into improved results for every investor. Source cited: hankyung.com."
-      },
-      "ja": {
-        "title": "7500ポイント目前なのに口座はなぜ、投資家の体感格差に注目",
-        "excerpt": "hankyung.comは「7500ピ目前なのに私の口座はなぜ…」という見出しで、指数水準と投資家の口座実感の差を扱った。",
-        "body": "hankyung.comは「7500ピ目前なのに私の口座はなぜ…」という見出しの記事で、7500ポイントに近づく市場の流れと、投資家が自分の口座で感じる成果との差を主要な論点として示した。原文から確認できる情報は見出しと出典のみで、具体的な銘柄、指数名、収益率、時点、原因を示す数値は提示されていない。したがって本記事の解釈は、指数の上昇や高値接近がすべての投資家の口座改善に直結するとは限らないという問題提起に限られる。出典はhankyung.com。"
-      },
-      "zh": {
-        "title": "逼近7500点但账户为何没涨，投资者体感落差受关注",
-        "excerpt": "hankyung.com以“7500点近在眼前但我的账户为何……”为题，报道了指数水平与个人账户感受之间的落差。",
-        "body": "hankyung.com在题为“7500点近在眼前但我的账户为何……”的报道中，将接近7500点的市场走势与投资者账户表现之间的差异作为核心问题提出。原文可确认的信息仅包括标题和来源，未提供具体股票、指数名称、收益率、时间点或原因数据。因此，对该报道的解读只能限于这样一点：指数上涨或逼近高位，并不一定会直接反映为所有投资者账户的改善。相关内容引自hankyung.com。"
-      },
-      "es": {
-        "title": "Cerca de 7.500 puntos, pero mi cuenta no avanza: la brecha inversora",
-        "excerpt": "hankyung.com publicó un informe titulado “Cerca de 7.500 puntos, pero por qué mi cuenta…”, centrado en la brecha entre índice y cuentas personales.",
-        "body": "hankyung.com planteó el tema en un informe titulado “Cerca de 7.500 puntos, pero por qué mi cuenta…”, destacando la diferencia entre un mercado que se aproxima a los 7.500 puntos y el resultado que los inversores perciben en sus propias cuentas. La información disponible del texto original se limita al titular y la fuente; no se indican acciones concretas, nombre del índice, rentabilidad, fecha ni cifras sobre las causas. Por ello, la lectura debe limitarse a que un nivel más alto del índice no siempre se traduce directamente en una mejora para todos los inversores. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Perto dos 7.500 pontos, mas minha conta não reage: foco na diferença",
-        "excerpt": "O hankyung.com publicou matéria intitulada “Perto dos 7.500 pontos, mas por que minha conta…”, sobre a diferença entre índice e conta pessoal.",
-        "body": "O hankyung.com apresentou a questão em uma reportagem intitulada “Perto dos 7.500 pontos, mas por que minha conta…”, destacando a diferença entre um mercado próximo de 7.500 pontos e o desempenho percebido pelos investidores em suas próprias contas. As informações confirmadas no texto original se limitam ao título e à fonte; não há ação específica, nome de índice, retorno, data ou números sobre causas. Assim, a interpretação fica restrita ao fato de que a alta ou aproximação de um índice a um nível elevado não implica melhora direta para todos os investidores. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Fast 7.500 Punkte, doch das Konto hinkt: Anleger spüren die Lücke",
-        "excerpt": "hankyung.com berichtete unter dem Titel „Fast 7.500 Punkte, aber warum mein Konto…“ über die Lücke zwischen Indexstand und Anlegerkonto.",
-        "body": "hankyung.com stellte das Thema in einem Bericht mit dem Titel „Fast 7.500 Punkte, aber warum mein Konto…“ dar und rückte die Differenz zwischen einem Markt nahe 7.500 Punkten und der von Anlegern wahrgenommenen Kontoperformance in den Mittelpunkt. Aus der Vorlage sind nur Titel und Quelle ersichtlich; konkrete Aktien, der Name eines Index, Renditen, Zeitpunkt oder Ursachenwerte werden nicht genannt. Die Aussage bleibt daher darauf begrenzt, dass ein steigender oder hoher Indexstand nicht automatisch eine Verbesserung jedes Anlegerkontos bedeutet. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Près de 7 500 points, mais mon compte stagne : l’écart ressenti",
-        "excerpt": "hankyung.com a publié un article intitulé « Près de 7 500 points, mais pourquoi mon compte… », sur l’écart entre indice et comptes individuels.",
-        "body": "hankyung.com a présenté le sujet dans un article intitulé « Près de 7 500 points, mais pourquoi mon compte… », en mettant en avant l’écart entre un marché proche de 7 500 points et la performance ressentie par les investisseurs sur leurs propres comptes. Les informations disponibles dans le texte source se limitent au titre et à la source; aucun titre précis, nom d’indice, rendement, moment ou chiffre explicatif n’est fourni. L’analyse doit donc rester limitée à l’idée qu’un indice en hausse ou proche d’un niveau élevé ne se traduit pas toujours directement par une amélioration pour tous les investisseurs. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "قرب 7500 نقطة لكن الحساب لا يتحسن: فجوة يشعر بها المستثمرون",
-        "excerpt": "نشر hankyung.com تقريرا بعنوان «قرب 7500 نقطة، لكن لماذا حسابي…» ركز على الفجوة بين مستوى المؤشر وتجربة الحسابات الفردية.",
-        "body": "طرح hankyung.com القضية في تقرير بعنوان «قرب 7500 نقطة، لكن لماذا حسابي…»، مسلطا الضوء على الفرق بين سوق يقترب من مستوى 7500 نقطة وما يراه المستثمرون في حساباتهم الخاصة. المعلومات المتاحة من النص الأصلي تقتصر على العنوان والمصدر فقط؛ ولا تتضمن سهما محددا أو اسم مؤشر أو نسبة عائد أو توقيتا أو أرقاما تفسر السبب. لذلك يظل مضمون الخبر محصورا في أن ارتفاع المؤشر أو اقترابه من مستوى مرتفع لا يعني بالضرورة تحسن حساب كل مستثمر بشكل مباشر. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "7,500 अंक के करीब बाजार, फिर भी खाता क्यों पीछे? निवेशक अंतर पर फोकस",
-        "excerpt": "hankyung.com ने “7,500 अंक के करीब, पर मेरा खाता क्यों…” शीर्षक से सूचकांक स्तर और व्यक्तिगत खाते के अनुभव के अंतर पर रिपोर्ट दी।",
-        "body": "hankyung.com ने “7,500 अंक के करीब, पर मेरा खाता क्यों…” शीर्षक वाली रिपोर्ट में 7,500 अंक के करीब पहुंचते बाजार और निवेशकों के अपने खातों में दिखने वाले प्रदर्शन के बीच अंतर को मुख्य मुद्दे के रूप में रखा। मूल जानकारी में केवल शीर्षक और स्रोत उपलब्ध हैं; किसी विशिष्ट शेयर, सूचकांक नाम, रिटर्न, समय या कारण से जुड़े आंकड़े नहीं दिए गए। इसलिए इस खबर की व्याख्या इतनी ही सीमित है कि सूचकांक का बढ़ना या ऊंचे स्तर के करीब होना हर निवेशक के खाते में सीधे सुधार में बदलना जरूरी नहीं है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Dekati 7.500 Poin, tapi Rekening Tetap Tertinggal: Celah Investor",
-        "excerpt": "hankyung.com menerbitkan laporan berjudul “Dekati 7.500 poin, tapi mengapa rekening saya…”, menyoroti jarak antara indeks dan rekening investor.",
-        "body": "hankyung.com mengangkat isu ini dalam laporan berjudul “Dekati 7.500 poin, tapi mengapa rekening saya…”, dengan menyoroti perbedaan antara pasar yang mendekati 7.500 poin dan kinerja yang dirasakan investor pada rekening mereka sendiri. Informasi yang dapat dipastikan dari sumber hanya mencakup judul dan penerbit; tidak ada saham tertentu, nama indeks, imbal hasil, waktu, atau angka penyebab yang diberikan. Karena itu, pembacaan berita ini terbatas pada pesan bahwa kenaikan indeks atau kedekatannya dengan level tinggi tidak selalu langsung berarti perbaikan bagi semua rekening investor. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "f26dc413415f",
-    "slug": "나만-못-벌었어삼전닉스-없는-찐개미-담은-종목-봤더니-447930",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T12:21:20.864Z",
-    "updatedAt": "2026-05-08T12:21:20.864Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848741",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848741",
-    "titleFingerprint": "7c52422d2d97eb571d1527583a3ca650004f8910",
-    "dedupKeys": [
-      "f26dc413415f364ca8ed560ddb3fe41bc71fa0e3",
-      "7c52422d2d97eb571d1527583a3ca650004f8910",
-      "4446b59361570d1806d42a82dfc0ec3f0768d2ed"
-    ],
-    "imageUrl": "/images/articles/f26dc413415f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 포모 확산, 삼성전자·SK하이닉스 대신 주목받는 지분주",
-        "excerpt": "한국경제는 7일 삼성전자와 SK하이닉스 급등 속 직접 보유 대신 지분을 가진 SK스퀘어·삼성물산·삼성생명에 투자자 관심이 몰렸다고 보도했다.",
-        "body": "7일 국내 증시에서 삼성전자와 SK하이닉스 주가가 질주하자 두 종목을 직접 사지 못한 투자자들이 지분 보유 기업으로 눈을 돌리고 있다. 한국경제(hankyung.com)에 따르면 SK스퀘어는 이날 0.92% 오른 109만9000원에 마감했고 최근 한 달 상승률은 120.2%에 달했다. SK스퀘어는 SK하이닉스 지분 20.5%를 가진 최대주주다. 삼성전자 지분을 각각 8.5%, 5% 보유한 삼성생명과 삼성물산도 가치 재평가를 받았다. 삼성물산은 7.86% 오른 40만5000원, 삼성생명은 0.67% 오른 30만원에 마감했으며 두 종목 모두 1년래 최고가를 기록했다."
-      },
-      "en": {
-        "title": "Semiconductor FOMO lifts Samsung and SK Hynix stake holders",
-        "excerpt": "Hankyung reported on May 7 that as Samsung Electronics and SK Hynix rallied, investors turned to SK Square, Samsung C&T and Samsung Life as indirect plays.",
-        "body": "As Samsung Electronics and SK Hynix continued their rally on May 7, investors who did not directly own the two semiconductor leaders focused on companies holding their stakes. According to hankyung.com, SK Square closed up 0.92% at 1,099,000 won, bringing its one-month gain to 120.2%. SK Square is the largest shareholder of SK Hynix with a 20.5% stake. Samsung Life Insurance and Samsung C&T, which hold 8.5% and 5% stakes in Samsung Electronics, respectively, also drew a re-rating. Samsung C&T rose 7.86% to 405,000 won, while Samsung Life gained 0.67% to 300,000 won, with both closing at one-year highs."
-      },
-      "ja": {
-        "title": "半導体FOMO拡大、サムスン電子・SKハイニックスの持分株に注目",
-        "excerpt": "韓国経済新聞は7日、サムスン電子とSKハイニックスの急騰を受け、SKスクエア、サムスン物産、サムスン生命に投資家の関心が向かったと報じた。",
-        "body": "7日の韓国株式市場では、サムスン電子とSKハイニックスの株価上昇を受け、両銘柄を直接保有していない投資家が持分を持つ企業に目を向けた。hankyung.comによると、SKスクエアは同日0.92％高の109万9000ウォンで引け、直近1カ月の上昇率は120.2％に達した。SKスクエアはSKハイニックス株20.5％を保有する筆頭株主だ。サムスン電子株をそれぞれ8.5％、5％保有するサムスン生命とサムスン物産も再評価された。サムスン物産は7.86％高の40万5000ウォン、サムスン生命は0.67％高の30万ウォンで終え、いずれも1年来高値となった。"
-      },
-      "zh": {
-        "title": "半导体FOMO升温，三星电子与SK海力士持股公司受关注",
-        "excerpt": "韩国经济新闻7日报道，三星电子和SK海力士股价大涨之际，投资者转向SK Square、三星物产和三星生命等间接持股标的。",
-        "body": "5月7日，随着三星电子和SK海力士股价继续上涨，未能直接持有这两只半导体龙头股的投资者开始关注持有其股权的公司。据hankyung.com报道，SK Square当日收涨0.92%，报109.9万韩元，近一个月涨幅达120.2%。SK Square持有SK海力士20.5%股权，是其最大股东。分别持有三星电子8.5%和5%股权的三星生命、三星物产也获得价值重估。三星物产上涨7.86%至40.5万韩元，三星生命上涨0.67%至30万韩元，两只股票均创下一年来新高。"
-      },
-      "es": {
-        "title": "FOMO por semiconductores impulsa acciones ligadas a Samsung y SK Hynix",
-        "excerpt": "Hankyung informó el 7 de mayo que, ante el rally de Samsung Electronics y SK Hynix, los inversores miraron a SK Square, Samsung C&T y Samsung Life.",
-        "body": "El 7 de mayo, mientras Samsung Electronics y SK Hynix seguían avanzando en bolsa, los inversores que no tenían exposición directa a esos dos líderes de semiconductores buscaron empresas con participaciones en ellos. Según hankyung.com, SK Square cerró con un alza del 0,92%, a 1.099.000 wones, y acumula un avance mensual del 120,2%. SK Square es el mayor accionista de SK Hynix, con una participación del 20,5%. Samsung Life Insurance y Samsung C&T, que poseen respectivamente el 8,5% y el 5% de Samsung Electronics, también fueron revaloradas. Samsung C&T subió un 7,86% hasta 405.000 wones y Samsung Life ganó un 0,67% hasta 300.000 wones, ambas en máximos de un año."
-      },
-      "pt": {
-        "title": "FOMO em chips leva investidores a ações ligadas a Samsung e SK Hynix",
-        "excerpt": "O Hankyung informou em 7 de maio que, com a alta de Samsung Electronics e SK Hynix, investidores buscaram SK Square, Samsung C&T e Samsung Life.",
-        "body": "Em 7 de maio, com Samsung Electronics e SK Hynix em forte alta, investidores sem exposição direta às duas líderes de semicondutores passaram a mirar empresas que detêm participações nelas. Segundo o hankyung.com, a SK Square fechou em alta de 0,92%, a 1.099.000 won, acumulando ganho de 120,2% em um mês. A SK Square é a maior acionista da SK Hynix, com 20,5%. Samsung Life Insurance e Samsung C&T, que possuem respectivamente 8,5% e 5% da Samsung Electronics, também foram reavaliadas pelo mercado. A Samsung C&T subiu 7,86%, a 405.000 won, e a Samsung Life avançou 0,67%, a 300.000 won, ambas em máximas de um ano."
-      },
-      "de": {
-        "title": "Halbleiter-FOMO lenkt Anleger auf Beteiligungswerte von Samsung und SK Hynix",
-        "excerpt": "Hankyung berichtete am 7. Mai, dass Anleger angesichts der Rally von Samsung Electronics und SK Hynix verstärkt SK Square, Samsung C&T und Samsung Life beachteten.",
-        "body": "Am 7. Mai richteten Anleger, die Samsung Electronics und SK Hynix nicht direkt hielten, ihren Blick auf Unternehmen mit Beteiligungen an den beiden Halbleiterführern. Laut hankyung.com schloss SK Square 0,92% höher bei 1.099.000 Won; der Monatsgewinn liegt bei 120,2%. SK Square ist mit 20,5% der größte Aktionär von SK Hynix. Auch Samsung Life Insurance und Samsung C&T, die jeweils 8,5% und 5% an Samsung Electronics halten, wurden neu bewertet. Samsung C&T stieg um 7,86% auf 405.000 Won, Samsung Life legte um 0,67% auf 300.000 Won zu. Beide Titel markierten Einjahreshochs."
-      },
-      "fr": {
-        "title": "Le FOMO des semi-conducteurs profite aux détenteurs de Samsung et SK Hynix",
-        "excerpt": "Hankyung a rapporté le 7 mai que la flambée de Samsung Electronics et SK Hynix attirait les investisseurs vers SK Square, Samsung C&T et Samsung Life.",
-        "body": "Le 7 mai, alors que Samsung Electronics et SK Hynix poursuivaient leur hausse, des investisseurs n’ayant pas acheté directement ces deux leaders des semi-conducteurs se sont tournés vers les sociétés qui en détiennent des participations. Selon hankyung.com, SK Square a clôturé en hausse de 0,92% à 1 099 000 wons, portant son gain sur un mois à 120,2%. SK Square est le premier actionnaire de SK Hynix avec 20,5%. Samsung Life Insurance et Samsung C&T, qui détiennent respectivement 8,5% et 5% de Samsung Electronics, ont aussi bénéficié d’une réévaluation. Samsung C&T a gagné 7,86% à 405 000 wons et Samsung Life 0,67% à 300 000 wons, toutes deux à des plus hauts d’un an."
-      },
-      "ar": {
-        "title": "فومو أشباه الموصلات يرفع أسهم الشركات المالكة لحصص في سامسونغ وSK هاينكس",
-        "excerpt": "ذكرت هانكيونغ في 7 مايو أن صعود سامسونغ إلكترونيكس وSK هاينكس دفع المستثمرين إلى التركيز على SK Square وسامسونغ C&T وسامسونغ لايف.",
-        "body": "في 7 مايو، ومع استمرار صعود سهمي سامسونغ إلكترونيكس وSK هاينكس، اتجه مستثمرون لا يملكون السهمين مباشرة إلى الشركات التي تمتلك حصصا فيهما. وبحسب hankyung.com، أغلق سهم SK Square مرتفعا 0.92% عند 1,099,000 وون، لتصل مكاسبه خلال شهر إلى 120.2%. وتعد SK Square أكبر مساهم في SK هاينكس بحصة 20.5%. كما حظيت سامسونغ لايف وسامسونغ C&T، اللتان تملكان على الترتيب 8.5% و5% من سامسونغ إلكترونيكس، بإعادة تقييم. ارتفعت سامسونغ C&T بنسبة 7.86% إلى 405,000 وون، وصعدت سامسونغ لايف 0.67% إلى 300,000 وون، وسجل السهمان أعلى مستوى في عام."
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर FOMO से Samsung और SK Hynix हिस्सेदारी वाली कंपनियों पर नजर",
-        "excerpt": "Hankyung ने 7 मई को बताया कि Samsung Electronics और SK Hynix की तेजी के बीच निवेशकों ने SK Square, Samsung C&T और Samsung Life पर ध्यान बढ़ाया।",
-        "body": "7 मई को Samsung Electronics और SK Hynix की तेज रैली के बाद, जिन निवेशकों के पास ये दोनों सेमीकंडक्टर शेयर सीधे नहीं थे, उन्होंने उन कंपनियों पर ध्यान दिया जिनके पास इनमें हिस्सेदारी है। hankyung.com के अनुसार, SK Square 0.92% बढ़कर 1,099,000 वॉन पर बंद हुआ और एक महीने में इसका रिटर्न 120.2% रहा। SK Square, SK Hynix में 20.5% हिस्सेदारी के साथ सबसे बड़ा शेयरधारक है। Samsung Electronics में क्रमशः 8.5% और 5% हिस्सेदारी रखने वाली Samsung Life Insurance और Samsung C&T का भी पुनर्मूल्यांकन हुआ। Samsung C&T 7.86% बढ़कर 405,000 वॉन और Samsung Life 0.67% बढ़कर 300,000 वॉन पर बंद हुए; दोनों ने एक साल का उच्च स्तर बनाया।"
-      },
-      "id": {
-        "title": "FOMO semikonduktor angkat saham pemegang Samsung dan SK Hynix",
-        "excerpt": "Hankyung melaporkan pada 7 Mei bahwa reli Samsung Electronics dan SK Hynix membuat investor melirik SK Square, Samsung C&T, dan Samsung Life.",
-        "body": "Pada 7 Mei, saat saham Samsung Electronics dan SK Hynix terus melaju, investor yang tidak memiliki dua pemimpin semikonduktor itu secara langsung beralih ke perusahaan pemegang sahamnya. Menurut hankyung.com, SK Square ditutup naik 0,92% ke 1.099.000 won, dengan kenaikan satu bulan mencapai 120,2%. SK Square adalah pemegang saham terbesar SK Hynix dengan porsi 20,5%. Samsung Life Insurance dan Samsung C&T, yang masing-masing memegang 8,5% dan 5% saham Samsung Electronics, juga mendapat revaluasi. Samsung C&T naik 7,86% ke 405.000 won, sementara Samsung Life menguat 0,67% ke 300.000 won; keduanya mencapai level tertinggi satu tahun."
-      }
-    }
-  },
-  {
-    "id": "7a40476f3adc",
-    "slug": "에이피알-목표가-뛰자-상승곡선-탄-화장품株-270933",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T12:19:40.549Z",
-    "updatedAt": "2026-05-08T12:19:40.549Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848511",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848511",
-    "titleFingerprint": "3861707fd16e0946158a695131ef8f6f35e5d0f8",
-    "dedupKeys": [
-      "7a40476f3adca322825c4b7c9c3c163f55f90255",
-      "3861707fd16e0946158a695131ef8f6f35e5d0f8",
-      "4b9f70ad2e004cbafda0def646c31d6caedbac21"
-    ],
-    "imageUrl": "/images/articles/7a40476f3adc.png",
-    "i18n": {
-      "ko": {
-        "title": "에이피알 목표가 상향에 화장품주 상승세, 투자심리 개선 주목",
-        "excerpt": "한국경제 보도에 따르면 에이피알 목표가가 오르면서 화장품주가 상승곡선을 타고 있다. 목표가 상향이 관련 종목 투자심리에 영향을 준 흐름이다.",
-        "body": "한국경제는 에이피알의 목표가가 뛰자 화장품주가 상승곡선을 탔다고 보도했다. 보도 내용의 핵심은 에이피알에 대한 목표가 상향이 시장의 관심을 끌었고, 이 흐름이 화장품 관련 주식 전반의 상승세로 이어졌다는 점이다. 원문에 구체적인 목표가 수준이나 상승률, 개별 종목별 등락 폭은 제시되지 않았다. 이번 흐름은 화장품주를 바라보는 투자심리가 에이피알 관련 평가 변화에 민감하게 반응하고 있음을 보여준다. 다만 기사에 명시된 정보 범위에서는 향후 실적 전망이나 추가 상승 가능성을 단정하기 어렵다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "APR Target Price Hike Lifts Cosmetics Stocks as Market Sentiment Improves",
-        "excerpt": "According to Hankyung, cosmetics stocks are moving higher after APR’s target price was raised, with the revision drawing investor attention to the sector.",
-        "body": "Hankyung reported that cosmetics stocks gained upward momentum after APR’s target price rose. The key point of the report is that the higher target price for APR attracted market attention and helped support a broader rise in cosmetics-related shares. The original report did not provide a specific target price level, percentage increase, or stock-by-stock price moves. The move suggests investor sentiment toward cosmetics shares is responding sensitively to changes in the market view of APR. However, based only on the information stated in the article, it is not possible to conclude anything about future earnings prospects or further upside. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "APR目標株価引き上げで化粧品株が上昇基調、市場心理に変化",
-        "excerpt": "韓国経済新聞によると、APRの目標株価が上昇したことを受け、化粧品株が上昇曲線を描いている。評価見直しが投資心理に影響した流れだ。",
-        "body": "韓国経済新聞は、APRの目標株価が上がったことで化粧品株が上昇曲線に乗ったと報じた。報道の要点は、APRに対する目標株価の引き上げが市場の注目を集め、その流れが化粧品関連株全般の上昇につながったという点だ。原文では具体的な目標株価の水準や上昇率、個別銘柄ごとの値動きは示されていない。今回の動きは、化粧品株への投資心理がAPRに関する評価変化に敏感に反応していることを示している。ただし、記事に明記された情報だけでは、今後の業績見通しや追加上昇の可能性を断定することは難しい。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "APR目标价上调带动化妆品股走强，投资情绪受到关注",
-        "excerpt": "据韩国经济新闻报道，APR目标价上调后，化妆品股呈现上升走势。目标价变化带动相关板块投资情绪改善。",
-        "body": "韩国经济新闻报道称，随着APR目标价上升，化妆品股进入上升走势。报道的核心在于，市场对APR目标价上调作出关注，这一变化带动化妆品相关股票整体走强。原文并未给出具体目标价水平、上调幅度或各个股票的涨跌幅。此次走势显示，投资者对化妆品股的情绪正对APR相关评价变化作出敏感反应。不过，仅根据报道中明确披露的信息，尚难判断未来业绩前景或进一步上涨的可能性。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Alza del precio objetivo de APR impulsa a las acciones cosméticas",
-        "excerpt": "Según Hankyung, las acciones de cosméticos suben después de que aumentara el precio objetivo de APR, un movimiento que mejoró el ánimo inversor del sector.",
-        "body": "Hankyung informó que las acciones de cosméticos entraron en una trayectoria alcista después de que subiera el precio objetivo de APR. El punto central del reporte es que la revisión al alza de APR atrajo la atención del mercado y se trasladó a un avance más amplio de los valores relacionados con cosméticos. El texto original no indicó el nivel concreto del precio objetivo, el porcentaje de aumento ni los movimientos por acción individual. Este comportamiento muestra que el sentimiento inversor hacia el sector cosmético reacciona con sensibilidad a los cambios de valoración sobre APR. Sin embargo, con la información citada en el artículo no puede concluirse una previsión de resultados ni una subida adicional. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Alta no preço-alvo da APR impulsiona ações de cosméticos no mercado",
-        "excerpt": "Segundo o Hankyung, as ações de cosméticos avançam após a elevação do preço-alvo da APR, movimento que influenciou o sentimento dos investidores no setor.",
-        "body": "O Hankyung informou que as ações de cosméticos ganharam trajetória de alta depois que o preço-alvo da APR subiu. O ponto central da notícia é que a revisão positiva da APR chamou a atenção do mercado e ajudou a sustentar uma alta mais ampla entre papéis ligados a cosméticos. O texto original não apresentou o nível específico do preço-alvo, a taxa de aumento ou a variação por ação individual. O movimento indica que o sentimento dos investidores em relação ao setor de cosméticos reage de forma sensível a mudanças na avaliação da APR. Ainda assim, apenas com as informações citadas no artigo não é possível concluir sobre perspectivas de lucro ou nova valorização. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "APR-Kursziel steigt und treibt Kosmetikaktien in den Aufwärtstrend",
-        "excerpt": "Laut Hankyung steigen Kosmetikaktien, nachdem das Kursziel für APR angehoben wurde. Die Neubewertung beeinflusst die Stimmung gegenüber dem Sektor.",
-        "body": "Hankyung berichtete, dass Kosmetikaktien in einen Aufwärtstrend gerieten, nachdem das Kursziel für APR gestiegen war. Der Kern des Berichts ist, dass die höhere Bewertung von APR die Aufmerksamkeit des Marktes auf sich zog und den Anstieg kosmetikbezogener Aktien unterstützte. Der Originalbericht nannte weder ein konkretes Kursziel, noch eine prozentuale Anhebung oder einzelne Kursbewegungen bestimmter Aktien. Die Entwicklung zeigt, dass die Anlegerstimmung gegenüber Kosmetikaktien sensibel auf Bewertungsänderungen bei APR reagiert. Auf Grundlage der im Artikel genannten Informationen lässt sich jedoch keine Aussage zu künftigen Gewinnerwartungen oder weiterem Kurspotenzial treffen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le relèvement de l’objectif d’APR soutient la hausse des valeurs cosmétiques",
-        "excerpt": "Selon Hankyung, les valeurs cosmétiques progressent après la hausse de l’objectif de cours d’APR, un signal qui a influencé le sentiment des investisseurs.",
-        "body": "Hankyung a rapporté que les valeurs cosmétiques ont pris une trajectoire haussière après la hausse de l’objectif de cours d’APR. L’élément central de l’article est que cette révision a attiré l’attention du marché et a soutenu un mouvement positif plus large parmi les actions liées aux cosmétiques. Le texte original ne précise pas le niveau exact de l’objectif de cours, le pourcentage de relèvement ni les variations par titre. Ce mouvement montre que le sentiment des investisseurs envers les valeurs cosmétiques réagit sensiblement aux changements d’évaluation concernant APR. Toutefois, les seules informations mentionnées dans l’article ne permettent pas de conclure sur les perspectives de résultats ou sur une poursuite de la hausse. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "رفع السعر المستهدف لـ APR يدعم صعود أسهم مستحضرات التجميل",
-        "excerpt": "بحسب هانكيونغ، صعدت أسهم مستحضرات التجميل بعد ارتفاع السعر المستهدف لـ APR، في تحرك أثر في معنويات المستثمرين تجاه القطاع.",
-        "body": "ذكرت هانكيونغ أن أسهم مستحضرات التجميل اتخذت مسارا صاعدا بعد ارتفاع السعر المستهدف لـ APR. ويتمثل جوهر التقرير في أن رفع التقييم الخاص بـ APR جذب اهتمام السوق، وأسهم في دعم صعود أوسع للأسهم المرتبطة بمستحضرات التجميل. ولم يورد النص الأصلي مستوى السعر المستهدف بالتحديد، أو نسبة الزيادة، أو تحركات كل سهم على حدة. ويشير هذا التحرك إلى أن معنويات المستثمرين تجاه أسهم مستحضرات التجميل تتفاعل بحساسية مع تغيرات التقييم المتعلقة بـ APR. ومع ذلك، لا تكفي المعلومات المذكورة في المقال للجزم بتوقعات الأرباح المستقبلية أو بإمكان استمرار الصعود. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "APR लक्ष्य मूल्य बढ़ने से कॉस्मेटिक्स शेयरों में तेजी का रुझान",
-        "excerpt": "Hankyung के अनुसार, APR का लक्ष्य मूल्य बढ़ने के बाद कॉस्मेटिक्स शेयरों में तेजी आई है। इस बदलाव ने संबंधित शेयरों के निवेशक sentiment को प्रभावित किया।",
-        "body": "Hankyung ने बताया कि APR का लक्ष्य मूल्य बढ़ने के बाद कॉस्मेटिक्स शेयरों ने तेजी का रुख पकड़ा। रिपोर्ट का मुख्य बिंदु यह है कि APR पर लक्ष्य मूल्य में बढ़ोतरी ने बाजार का ध्यान खींचा और यह प्रवाह कॉस्मेटिक्स से जुड़े शेयरों की व्यापक मजबूती से जुड़ा। मूल रिपोर्ट में लक्ष्य मूल्य का ठोस स्तर, बढ़ोतरी की दर या अलग-अलग शेयरों की चाल नहीं दी गई। यह रुझान दिखाता है कि कॉस्मेटिक्स शेयरों को लेकर निवेशक sentiment APR से जुड़ी मूल्यांकन-परिवर्तन पर संवेदनशील प्रतिक्रिया दे रहा है। हालांकि लेख में दी गई जानकारी के आधार पर भविष्य की आय संभावना या आगे की तेजी पर निष्कर्ष निकालना कठिन है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Target Harga APR Naik, Saham Kosmetik Ikut Menguat di Pasar",
-        "excerpt": "Menurut Hankyung, saham kosmetik bergerak naik setelah target harga APR dinaikkan. Perubahan penilaian ini memengaruhi sentimen investor pada sektor terkait.",
-        "body": "Hankyung melaporkan bahwa saham kosmetik memasuki tren naik setelah target harga APR meningkat. Inti laporan tersebut adalah kenaikan target harga APR menarik perhatian pasar dan ikut mendukung penguatan yang lebih luas pada saham-saham terkait kosmetik. Laporan asli tidak mencantumkan level target harga secara spesifik, persentase kenaikan, atau pergerakan masing-masing saham. Pergerakan ini menunjukkan bahwa sentimen investor terhadap saham kosmetik bereaksi sensitif terhadap perubahan penilaian atas APR. Namun, berdasarkan informasi yang disebutkan dalam artikel, prospek kinerja mendatang atau kemungkinan kenaikan lanjutan tidak dapat disimpulkan secara pasti. Sumber: hankyung.com"
       }
     }
   }
