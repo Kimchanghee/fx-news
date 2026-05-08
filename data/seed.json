@@ -1,5 +1,230 @@
 [
   {
+    "id": "e2321839a134",
+    "slug": "속보-칠천피-코스피-또-최고치-행진143-오른-749005-마감-170031",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T00:05:23.376Z",
+    "updatedAt": "2026-05-08T00:05:23.376Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050718656",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050718656",
+    "titleFingerprint": "1cf90c08c69a722cc5ea0615966db6866334ce2c",
+    "dedupKeys": [
+      "e2321839a1348e2ee752d5bd02b5f49be44766de",
+      "1cf90c08c69a722cc5ea0615966db6866334ce2c",
+      "3ef2aeafa74d49ce1535e6c05dd9c5aa6f257177"
+    ],
+    "imageUrl": "/images/articles/e2321839a134.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7490.05 최고치 마감, 1.43% 오른 ‘칠천피’ 기록 행진",
+        "excerpt": "한국 증시 대표 지수 코스피가 이날 1.43% 상승한 7490.05로 마감하며 다시 최고치 행진을 이어갔다고 hankyung.com이 보도했다.",
+        "body": "코스피가 이날 7490.05에 장을 마치며 또다시 최고치 행진을 이어갔다. hankyung.com 보도에 따르면 코스피는 전장 대비 1.43% 오른 수준에서 마감했다. 제목에 언급된 ‘칠천피’ 흐름 속에서 지수는 7490선을 기록하며 상승 마감했다. 원문에 별도 업종별 흐름이나 상승 배경, 거래대금 등 추가 수치는 제시되지 않았다. 이번 마감 수치는 국내 증시 대표 지수의 고점 경신 흐름을 보여주는 핵심 지표로 해석된다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "KOSPI closes at record 7,490.05, extending rally with 1.43% gain",
+        "excerpt": "South Korea’s benchmark KOSPI closed at 7,490.05, up 1.43%, extending its record-setting run, according to a report from hankyung.com.",
+        "body": "The KOSPI closed at 7,490.05, extending another record-setting run for South Korea’s benchmark stock index. According to hankyung.com, the index finished the session up 1.43%. The report described the move in the context of the so-called “7,000-point KOSPI” momentum, with the index ending near the 7,490 level. The original item did not provide additional figures such as sector performance, trading value, or a detailed reason for the rise. The closing level stands as the key data point showing the index’s continued push to new highs. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "KOSPIが7490.05で最高値引け、1.43％高で記録更新続く",
+        "excerpt": "韓国株の代表指数KOSPIはこの日、1.43％上昇の7490.05で取引を終え、最高値更新の流れを続けたとhankyung.comが報じた。",
+        "body": "韓国株の代表指数であるKOSPIはこの日、7490.05で取引を終え、再び最高値更新の流れを続けた。hankyung.comによると、KOSPIは前取引日比1.43％高で引けた。見出しで示された「7000ポイント台KOSPI」の流れのなか、指数は7490台で上昇して取引を終えた。原文では業種別動向、上昇要因、売買代金などの追加数値は示されていない。今回の終値は、韓国株式市場の代表指数が高値更新を続けていることを示す主要な数字となる。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "KOSPI收于7490.05点再创新高，涨幅1.43%延续升势",
+        "excerpt": "据hankyung.com报道，韩国股市代表指数KOSPI当日上涨1.43%，收于7490.05点，再次延续最高纪录走势。",
+        "body": "韩国股市代表指数KOSPI当日收于7490.05点，再次延续创纪录走势。据hankyung.com报道，KOSPI收盘上涨1.43%。在标题所称“七千点KOSPI”的背景下，指数以7490点附近水平上涨收盘。原文未提供板块表现、上涨原因、成交额等其他具体数据。此次收盘点位是显示韩国股市代表指数继续刷新高点的核心信息。来源: hankyung.com."
+      },
+      "es": {
+        "title": "KOSPI cierra en récord de 7.490,05 puntos tras subir un 1,43%",
+        "excerpt": "El índice surcoreano KOSPI cerró en 7.490,05 puntos, con un avance del 1,43%, y prolongó su racha de máximos, informó hankyung.com.",
+        "body": "El KOSPI cerró la sesión en 7.490,05 puntos y volvió a prolongar su avance hacia nuevos máximos. Según hankyung.com, el índice de referencia de la bolsa surcoreana terminó con una subida del 1,43%. La información situó el movimiento dentro del contexto del llamado KOSPI por encima de los 7.000 puntos, con un cierre en torno al nivel de 7.490. El texto original no aportó datos adicionales sobre sectores, volumen negociado ni causas específicas del alza. El cierre es el dato central que muestra la continuidad del récord del índice. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "KOSPI fecha em recorde de 7.490,05 pontos após alta de 1,43%",
+        "excerpt": "O índice KOSPI, referência da bolsa sul-coreana, fechou em 7.490,05 pontos, alta de 1,43%, renovando sua sequência de máximas, segundo hankyung.com.",
+        "body": "O KOSPI encerrou o pregão em 7.490,05 pontos e voltou a ampliar sua sequência de máximas. Segundo o hankyung.com, o principal índice da bolsa sul-coreana fechou com alta de 1,43%. A notícia enquadrou o movimento no contexto do chamado KOSPI acima dos 7.000 pontos, com o índice terminando próximo de 7.490. O texto original não trouxe números adicionais sobre desempenho setorial, volume negociado ou motivos específicos para a alta. O nível de fechamento é o dado central que mostra a continuidade da renovação de recordes. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "KOSPI schließt mit 7.490,05 Punkten auf Rekordhoch, plus 1,43%",
+        "excerpt": "Der südkoreanische Leitindex KOSPI schloss bei 7.490,05 Punkten, ein Plus von 1,43%, und setzte damit seine Rekordserie fort, berichtete hankyung.com.",
+        "body": "Der KOSPI beendete den Handel bei 7.490,05 Punkten und setzte damit seine Serie neuer Höchststände fort. Laut hankyung.com schloss der südkoreanische Leitindex 1,43% höher. Der Bericht ordnete die Bewegung in den Kontext des sogenannten KOSPI über 7.000 Punkten ein, wobei der Index nahe der Marke von 7.490 schloss. Der Originaltext nannte keine weiteren Angaben zu Sektoren, Handelsvolumen oder konkreten Gründen für den Anstieg. Der Schlussstand ist die zentrale Kennzahl für die fortgesetzte Rekordentwicklung des Index. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Le KOSPI clôture à un record de 7 490,05 points, en hausse de 1,43%",
+        "excerpt": "L’indice sud-coréen KOSPI a clôturé à 7 490,05 points, en hausse de 1,43%, poursuivant sa série de records, selon hankyung.com.",
+        "body": "Le KOSPI a terminé la séance à 7 490,05 points, prolongeant une nouvelle fois sa progression vers des sommets historiques. Selon hankyung.com, l’indice de référence de la Bourse sud-coréenne a clôturé en hausse de 1,43%. L’information situe ce mouvement dans le contexte d’un KOSPI évoluant au-dessus de 7 000 points, avec une clôture proche de 7 490. Le texte original ne fournit pas d’autres chiffres sur les secteurs, les volumes ou les raisons précises de la hausse. Ce niveau de clôture constitue la donnée clé du record. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "كوسبي يغلق عند مستوى قياسي 7490.05 نقطة مرتفعا 1.43%",
+        "excerpt": "أغلق مؤشر كوسبي الكوري الجنوبي عند 7490.05 نقطة، مرتفعا 1.43%، ليواصل مسار تسجيل مستويات قياسية، وفق ما أوردته hankyung.com.",
+        "body": "أغلق مؤشر كوسبي عند 7490.05 نقطة، مواصلا مرة أخرى مسار تسجيل مستويات قياسية في سوق الأسهم الكورية الجنوبية. ووفقا لما أوردته hankyung.com، أنهى المؤشر الجلسة مرتفعا 1.43%. وجاءت الحركة ضمن سياق ما وصفه العنوان باتجاه كوسبي فوق مستوى 7000 نقطة، مع إغلاق المؤشر قرب 7490 نقطة. ولم يورد النص الأصلي أرقاما إضافية عن أداء القطاعات أو قيمة التداول أو أسباب محددة للارتفاع. ويظل مستوى الإغلاق هو المعلومة الأساسية التي تعكس استمرار المؤشر في تسجيل قمم جديدة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "KOSPI 7,490.05 के रिकॉर्ड स्तर पर बंद, 1.43% की बढ़त जारी",
+        "excerpt": "दक्षिण कोरिया का प्रमुख KOSPI सूचकांक 1.43% बढ़कर 7,490.05 पर बंद हुआ और रिकॉर्ड ऊंचाई की अपनी चाल जारी रखी, hankyung.com ने बताया।",
+        "body": "दक्षिण कोरिया का प्रमुख शेयर सूचकांक KOSPI इस दिन 7,490.05 पर बंद हुआ और फिर से रिकॉर्ड ऊंचाई की राह पर आगे बढ़ा। hankyung.com के अनुसार, सूचकांक 1.43% की बढ़त के साथ बंद हुआ। खबर में इस चाल को 7,000 अंक से ऊपर के KOSPI के संदर्भ में रखा गया, जहां सूचकांक 7,490 के स्तर के पास बंद हुआ। मूल रिपोर्ट में सेक्टर प्रदर्शन, कारोबार मूल्य या तेजी के विशेष कारण जैसे अतिरिक्त आंकड़े नहीं दिए गए। यह बंद स्तर सूचकांक के नए उच्च स्तरों की निरंतरता दिखाने वाला मुख्य तथ्य है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "KOSPI ditutup rekor di 7.490,05, naik 1,43% dan lanjutkan reli",
+        "excerpt": "Indeks utama Korea Selatan, KOSPI, ditutup naik 1,43% di 7.490,05 dan kembali melanjutkan rangkaian rekor tertinggi, menurut hankyung.com.",
+        "body": "KOSPI ditutup pada 7.490,05 dan kembali melanjutkan rangkaian rekor tertinggi di pasar saham Korea Selatan. Menurut hankyung.com, indeks acuan tersebut mengakhiri sesi dengan kenaikan 1,43%. Berita itu menempatkan pergerakan ini dalam konteks KOSPI di atas level 7.000 poin, dengan penutupan di sekitar 7.490. Teks asli tidak memberikan angka tambahan mengenai kinerja sektoral, nilai transaksi, atau alasan khusus di balik kenaikan. Level penutupan ini menjadi data utama yang menunjukkan berlanjutnya pencapaian rekor indeks. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "6dc5198ee3b9",
+    "slug": "gs리테일-편의점-점포-효율화-성과-확인목표가-db-107476",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T00:04:25.542Z",
+    "updatedAt": "2026-05-08T00:04:25.542Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050829286",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050829286",
+    "titleFingerprint": "7bebc309cd42f5a528f335ec5da0f6d568487708",
+    "dedupKeys": [
+      "6dc5198ee3b93668cefbcc4c2636756bfc9df117",
+      "7bebc309cd42f5a528f335ec5da0f6d568487708",
+      "9b25ea811170efcbab80f94c213f7f62b71a39a8"
+    ],
+    "imageUrl": "/images/articles/6dc5198ee3b9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "GS리테일 목표가 상향, 편의점 점포 효율화 성과 확인",
+        "excerpt": "DB는 GS리테일의 편의점 점포 효율화 성과가 확인됐다고 평가하며 목표가를 상향했다. 한경 보도에 따르면 점포 운영 효율 개선이 핵심 근거로 제시됐다.",
+        "body": "DB는 GS리테일에 대해 편의점 점포 효율화 성과가 확인됐다고 평가하며 목표가를 상향했다. 한경닷컴 보도 제목에 따르면 이번 판단의 핵심은 편의점 사업에서 점포 운영 효율화가 성과로 드러났다는 점이다. GS리테일은 편의점 점포망을 중심으로 수익성과 운영 효율을 높이는 흐름이 확인된 것으로 해석된다. 목표가 상향은 해당 성과가 투자 판단에 반영됐다는 의미로 읽힌다. 다만 원문 제목에 제시된 정보 외의 구체적 수치나 추가 전망은 확인되지 않았다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "GS Retail Target Price Raised as Convenience Store Efficiency Gains Confirmed",
+        "excerpt": "DB raised its target price for GS Retail, citing confirmed gains from convenience store outlet-efficiency efforts, according to a Hankyung.com report.",
+        "body": "DB raised its target price for GS Retail after assessing that the company’s convenience store outlet-efficiency efforts have produced visible results. According to the Hankyung.com headline, the key basis for the view was confirmation of improved efficiency in the operation of GS Retail’s convenience store network. The assessment indicates that efforts to improve store productivity and operating efficiency have been reflected in DB’s investment view. The report did not provide additional figures or detailed forecasts beyond the information in the original headline. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "GSリテール目標株価引き上げ、コンビニ店舗効率化の成果を確認",
+        "excerpt": "DBはGSリテールについて、コンビニ店舗の効率化成果が確認されたとして目標株価を引き上げた。ハンギョン報道によると運営効率改善が根拠となった。",
+        "body": "DBはGSリテールについて、コンビニ店舗の効率化成果が確認されたと評価し、目標株価を引き上げた。ハンギョン・ドットコムの見出しによれば、今回の判断の中心は、コンビニ事業で店舗運営の効率化が成果として表れた点にある。GSリテールはコンビニ店舗網を軸に収益性と運営効率を高める流れが確認されたものと解釈される。目標株価の引き上げは、その成果が投資判断に反映されたことを示す。原文見出し以外の具体的な数値や追加見通しは確認されていない。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "GS Retail目标价上调，便利店门店效率化成果获确认",
+        "excerpt": "DB上调GS Retail目标价，称其便利店门店效率化成果已经得到确认。据韩经报道，门店运营效率改善是核心依据。",
+        "body": "DB对GS Retail作出评价称，其便利店门店效率化成果已经得到确认，并上调目标价。根据hankyung.com的标题，本次判断的核心在于，便利店业务中的门店运营效率化已体现出成效。GS Retail以便利店门店网络为中心提升盈利能力和运营效率的趋势被认为得到确认。目标价上调意味着相关成果已被纳入投资判断。不过，除原文标题所列信息外，具体数据或进一步展望尚未确认。来源: hankyung.com"
+      },
+      "es": {
+        "title": "GS Retail recibe alza de precio objetivo por eficiencia en tiendas de conveniencia",
+        "excerpt": "DB elevó el precio objetivo de GS Retail al considerar confirmados los avances en eficiencia de sus tiendas de conveniencia, según Hankyung.com.",
+        "body": "DB elevó el precio objetivo de GS Retail tras evaluar que se confirmaron resultados en la eficiencia de sus tiendas de conveniencia. Según el titular de Hankyung.com, el punto central del análisis es que la mejora en la operación de los locales de conveniencia ya se refleja como un resultado visible. Esto sugiere que los esfuerzos de GS Retail para elevar la rentabilidad y la eficiencia operativa de su red de tiendas fueron incorporados a la valoración de DB. No se confirmaron cifras concretas ni previsiones adicionales más allá de la información del titular original. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "GS Retail tem preço-alvo elevado após eficiência em lojas de conveniência",
+        "excerpt": "A DB elevou o preço-alvo da GS Retail ao avaliar que os ganhos de eficiência nas lojas de conveniência foram confirmados, segundo o Hankyung.com.",
+        "body": "A DB elevou o preço-alvo da GS Retail após avaliar que os resultados da eficiência nas lojas de conveniência foram confirmados. Segundo o título publicado pelo Hankyung.com, o principal fundamento da decisão foi a confirmação de avanços na eficiência operacional da rede de lojas de conveniência da empresa. A leitura é que a GS Retail vem mostrando melhora em rentabilidade e eficiência por meio de sua base de lojas. A elevação do preço-alvo indica que esse desempenho foi refletido na avaliação de investimento da DB. Não foram confirmados números específicos nem projeções adicionais além do título original. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "GS Retail Kursziel angehoben: Effizienz der Convenience-Stores bestätigt",
+        "excerpt": "DB hat das Kursziel für GS Retail angehoben und verweist auf bestätigte Effizienzfortschritte bei Convenience-Store-Filialen, berichtet Hankyung.com.",
+        "body": "DB hat das Kursziel für GS Retail angehoben, nachdem das Unternehmen bestätigte Fortschritte bei der Effizienz seiner Convenience-Store-Filialen gezeigt habe. Laut der Überschrift von Hankyung.com steht bei dieser Einschätzung im Mittelpunkt, dass die Optimierung des Filialbetriebs im Convenience-Store-Geschäft erkennbare Ergebnisse geliefert hat. Damit werden Verbesserungen bei Rentabilität und operativer Effizienz der Filialstruktur von GS Retail in der Investmenteinschätzung berücksichtigt. Weitere konkrete Kennzahlen oder zusätzliche Prognosen wurden über die ursprüngliche Überschrift hinaus nicht bestätigt. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "GS Retail voit son objectif relevé grâce à l’efficacité des supérettes",
+        "excerpt": "DB a relevé son objectif de cours sur GS Retail, estimant confirmés les progrès d’efficacité des magasins de proximité, selon Hankyung.com.",
+        "body": "DB a relevé son objectif de cours sur GS Retail après avoir estimé que les résultats de l’optimisation des magasins de proximité étaient confirmés. Selon le titre de Hankyung.com, l’élément central de cette analyse est l’amélioration constatée de l’efficacité opérationnelle dans l’activité de supérettes. Cette lecture indique que les efforts de GS Retail pour renforcer la rentabilité et l’efficacité de son réseau de magasins ont été intégrés à l’évaluation d’investissement de DB. Aucun chiffre précis ni autre perspective n’a été confirmé au-delà des informations contenues dans le titre original. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "رفع السعر المستهدف لـ GS Retail بعد تأكيد كفاءة متاجر التجزئة الصغيرة",
+        "excerpt": "رفعت DB السعر المستهدف لسهم GS Retail بعد تقييمها أن نتائج تحسين كفاءة متاجر التجزئة الصغيرة تأكدت، بحسب تقرير Hankyung.com.",
+        "body": "رفعت DB السعر المستهدف لـ GS Retail بعدما قيّمت أن نتائج تحسين كفاءة متاجر التجزئة الصغيرة التابعة للشركة قد تأكدت. ووفق عنوان Hankyung.com، فإن أساس هذا الحكم يتمثل في ظهور نتائج واضحة لتحسين كفاءة تشغيل المتاجر ضمن نشاط متاجر التجزئة الصغيرة. ويعني ذلك أن جهود GS Retail لرفع الربحية والكفاءة التشغيلية عبر شبكة متاجرها انعكست في تقييم DB الاستثماري. ولم يتم تأكيد أرقام محددة أو توقعات إضافية خارج المعلومات الواردة في العنوان الأصلي. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "GS Retail का लक्ष्य मूल्य बढ़ा, सुविधा स्टोर दक्षता के नतीजे दिखे",
+        "excerpt": "DB ने GS Retail का लक्ष्य मूल्य बढ़ाया है। Hankyung.com के अनुसार, सुविधा स्टोरों में संचालन दक्षता सुधार के परिणामों की पुष्टि इसका प्रमुख आधार रही।",
+        "body": "DB ने GS Retail के लिए लक्ष्य मूल्य बढ़ाया, क्योंकि उसने कंपनी के सुविधा स्टोरों में दक्षता सुधार के परिणामों की पुष्टि मानी। Hankyung.com के शीर्षक के अनुसार, इस आकलन का मुख्य आधार सुविधा स्टोर कारोबार में स्टोर संचालन की दक्षता में सुधार का दिखना है। इसका अर्थ है कि GS Retail के स्टोर नेटवर्क के जरिये लाभप्रदता और संचालन दक्षता बढ़ाने के प्रयास DB के निवेश मूल्यांकन में शामिल किए गए। मूल शीर्षक में दी गई जानकारी के अतिरिक्त कोई विशिष्ट आंकड़ा या अतिरिक्त पूर्वानुमान पुष्टि नहीं हुआ है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Target Harga GS Retail Naik, Efisiensi Gerai Minimarket Dinilai Terbukti",
+        "excerpt": "DB menaikkan target harga GS Retail setelah menilai hasil efisiensi gerai minimarket telah terkonfirmasi, menurut laporan Hankyung.com.",
+        "body": "DB menaikkan target harga GS Retail setelah menilai bahwa hasil efisiensi gerai minimarket perusahaan telah terkonfirmasi. Berdasarkan judul Hankyung.com, dasar utama penilaian ini adalah terlihatnya hasil dari peningkatan efisiensi operasional pada bisnis gerai minimarket. Hal itu menunjukkan bahwa upaya GS Retail untuk meningkatkan profitabilitas dan efisiensi operasi melalui jaringan gerainya telah tercermin dalam pandangan investasi DB. Tidak ada angka spesifik atau proyeksi tambahan yang terkonfirmasi di luar informasi pada judul asli. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "2252993de619",
+    "slug": "정보공개-체계-구축-성과한국서부발전-정보공개-발전-유공-국무총리-표창-수상-409397",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T00:03:36.989Z",
+    "updatedAt": "2026-05-08T00:03:36.990Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12040720",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12040720",
+    "titleFingerprint": "b127b4416d82158257719ca3237544f02dd34df2",
+    "dedupKeys": [
+      "2252993de619fbf6b83d552e8f23d7b3183d8d54",
+      "b127b4416d82158257719ca3237544f02dd34df2",
+      "2d11751dd9187fd70fd77ec056ad0264329a0e30"
+    ],
+    "imageUrl": "/images/articles/2252993de619.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국서부발전, 정보공개 발전 유공 국무총리 표창 수상…공기업 유일 선도기관 입증",
+        "excerpt": "한국서부발전은 지난 7일 정보공개 체계 구축과 발전 기여를 인정받아 국무총리 표창을 수상하며 561개 기관 중 공기업 유일 선도기관으로 평가됐다.",
+        "body": "한국서부발전이 지난 7일 정부로부터 정보공개 발전에 기여한 공로를 인정받아 ‘정보공개 발전 유공’ 국무총리 표창을 수상했다. 이번 수상은 정보공개 체계 구축 성과를 공식적으로 평가받은 결과다. 서부발전은 평가 대상 561개 기관 가운데 공기업으로서는 유일하게 정보공개 선도기관임을 입증했다. 이는 공공기관의 투명한 정보 제공과 국민 알권리 강화 흐름 속에서 의미 있는 성과로 해석된다. 서부발전은 이번 표창을 계기로 정보공개 운영 역량과 공공성에 대한 신뢰를 확인했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea Western Power Wins Prime Minister’s Citation for Information Disclosure Leadership",
+        "excerpt": "Korea Western Power received a Prime Minister’s citation on May 7 for contributing to information disclosure development, proving its role as the only public corporation leader among 561 agencies.",
+        "body": "Korea Western Power received a Prime Minister’s citation on May 7 after the government recognized its contribution to the development of information disclosure. The award officially acknowledges the company’s achievements in building an information disclosure system. Among 561 evaluated institutions, Korea Western Power was the only public corporation identified as a leading agency in information disclosure. The result carries significance amid public-sector efforts to provide transparent information and strengthen citizens’ right to know. The citation confirms the company’s disclosure capabilities and public trust. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国西部発電、情報公開発展功労で国務総理表彰を受賞…公企業唯一の先導機関に",
+        "excerpt": "韓国西部発電は7日、情報公開体制の構築と発展への貢献が認められ、561機関の中で公企業唯一の先導機関として国務総理表彰を受けた。",
+        "body": "韓国西部発電は7日、政府から情報公開の発展に貢献した功労を認められ、「情報公開発展功労」国務総理表彰を受賞した。今回の受賞は、情報公開体制の構築成果が公式に評価された結果だ。西部発電は評価対象となった561機関のうち、公企業として唯一、情報公開の先導機関であることを示した。公共機関による透明な情報提供と国民の知る権利強化が重視される中で、意味ある成果と受け止められる。今回の表彰により、西部発電は情報公開運営能力と公共性への信頼を確認した。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国西部发电获信息公开发展功勋总理表彰，成唯一公企领先机构",
+        "excerpt": "韩国西部发电7日因信息公开体系建设和发展贡献获得总理表彰，并在561家机构中证明其为唯一获认可的公企领先机构。",
+        "body": "韩国西部发电7日因对信息公开发展作出的贡献获得政府认可，荣获“信息公开发展功勋”总理表彰。此次获奖意味着其信息公开体系建设成果获得正式评价。在接受评价的561家机构中，韩国西部发电是唯一证明其为信息公开领先机构的公营企业。在公共机构加强透明信息提供、保障公众知情权的背景下，这一成果具有重要意义。韩国西部发电也通过此次表彰确认了其信息公开运营能力和公共性信任。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Korea Western Power recibe mención del primer ministro por liderar la divulgación informativa",
+        "excerpt": "Korea Western Power recibió el 7 de mayo una mención del primer ministro por su contribución a la divulgación informativa y fue la única empresa pública líder entre 561 entidades.",
+        "body": "Korea Western Power recibió el 7 de mayo una mención del primer ministro tras ser reconocida por el Gobierno por su contribución al desarrollo de la divulgación informativa. El premio evalúa oficialmente los resultados de la compañía en la creación de un sistema de acceso y publicación de información. Entre 561 instituciones evaluadas, fue la única empresa pública que demostró ser una entidad líder en divulgación informativa. El resultado es relevante en un contexto de mayor transparencia en los organismos públicos y fortalecimiento del derecho ciudadano a saber. La distinción confirma su capacidad operativa y la confianza pública. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Korea Western Power recebe citação do primeiro-ministro por liderança em divulgação de informações",
+        "excerpt": "A Korea Western Power recebeu em 7 de maio uma citação do primeiro-ministro por sua contribuição à divulgação de informações, sendo a única estatal líder entre 561 órgãos.",
+        "body": "A Korea Western Power recebeu em 7 de maio uma citação do primeiro-ministro após o governo reconhecer sua contribuição para o desenvolvimento da divulgação de informações. A premiação avalia oficialmente os resultados da empresa na construção de um sistema de informação pública. Entre 561 instituições avaliadas, a companhia foi a única empresa pública a comprovar sua condição de órgão líder em divulgação de informações. O resultado ganha importância em meio aos esforços do setor público para oferecer dados de forma transparente e fortalecer o direito dos cidadãos à informação. A citação confirma sua capacidade operacional e a confiança pública. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Korea Western Power erhält Premierminister-Auszeichnung für führende Informationsoffenlegung",
+        "excerpt": "Korea Western Power erhielt am 7. Mai eine Auszeichnung des Premierministers für Beiträge zur Informationsoffenlegung und war unter 561 Einrichtungen das einzige führende Staatsunternehmen.",
+        "body": "Korea Western Power erhielt am 7. Mai eine Auszeichnung des Premierministers, nachdem die Regierung den Beitrag des Unternehmens zur Entwicklung der Informationsoffenlegung anerkannt hatte. Die Ehrung bewertet offiziell die Erfolge beim Aufbau eines Systems zur Offenlegung von Informationen. Unter 561 geprüften Institutionen war Korea Western Power das einzige öffentliche Unternehmen, das seine Rolle als führende Einrichtung in diesem Bereich belegte. Das Ergebnis ist bedeutsam, da öffentliche Institutionen transparente Informationen bereitstellen und das Recht der Bürger auf Information stärken sollen. Die Auszeichnung bestätigt die operative Kompetenz und das öffentliche Vertrauen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Korea Western Power distinguée par le Premier ministre pour sa divulgation d’informations",
+        "excerpt": "Korea Western Power a reçu le 7 mai une citation du Premier ministre pour sa contribution à la divulgation d’informations, seule entreprise publique leader parmi 561 organismes.",
+        "body": "Korea Western Power a reçu le 7 mai une citation du Premier ministre après la reconnaissance par le gouvernement de sa contribution au développement de la divulgation d’informations. Cette distinction évalue officiellement les résultats obtenus dans la mise en place d’un système de publication d’informations. Parmi 561 institutions évaluées, l’entreprise a été la seule société publique à démontrer son statut d’organisme leader dans ce domaine. Ce résultat est significatif alors que les organismes publics cherchent à renforcer la transparence et le droit des citoyens à l’information. La citation confirme ses capacités opérationnelles et la confiance publique. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوريا ويسترن باور تنال إشادة رئيس الوزراء لقيادتها في إتاحة المعلومات العامة",
+        "excerpt": "حصلت كوريا ويسترن باور في 7 مايو على إشادة من رئيس الوزراء تقديرا لمساهمتها في تطوير إتاحة المعلومات، وكانت المؤسسة العامة الوحيدة الرائدة بين 561 جهة.",
+        "body": "حصلت كوريا ويسترن باور في 7 مايو على إشادة من رئيس الوزراء بعدما اعترفت الحكومة بمساهمتها في تطوير إتاحة المعلومات. وتعكس الجائزة تقييما رسميا للنتائج التي حققتها الشركة في بناء نظام للإفصاح عن المعلومات. ومن بين 561 مؤسسة خضعت للتقييم، كانت كوريا ويسترن باور المؤسسة العامة الوحيدة التي أثبتت موقعها كجهة رائدة في هذا المجال. وتكتسب النتيجة أهمية في ظل توجه المؤسسات العامة إلى تقديم المعلومات بشفافية وتعزيز حق المواطنين في المعرفة. وتؤكد الإشادة قدرات الشركة التشغيلية والثقة العامة بها. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया वेस्टर्न पावर को सूचना प्रकटीकरण नेतृत्व के लिए प्रधानमंत्री प्रशस्ति",
+        "excerpt": "कोरिया वेस्टर्न पावर को 7 मई को सूचना प्रकटीकरण प्रणाली और विकास में योगदान के लिए प्रधानमंत्री प्रशस्ति मिली, 561 संस्थानों में यह अकेली अग्रणी सार्वजनिक कंपनी रही।",
+        "body": "कोरिया वेस्टर्न पावर को 7 मई को सरकार ने सूचना प्रकटीकरण के विकास में योगदान के लिए मान्यता देते हुए प्रधानमंत्री प्रशस्ति प्रदान की। यह सम्मान सूचना प्रकटीकरण प्रणाली के निर्माण में कंपनी की उपलब्धियों का आधिकारिक मूल्यांकन है। मूल्यांकन में शामिल 561 संस्थानों में कोरिया वेस्टर्न पावर अकेली सार्वजनिक कंपनी रही जिसने सूचना प्रकटीकरण में अग्रणी संस्था के रूप में अपनी स्थिति सिद्ध की। सार्वजनिक संस्थानों में पारदर्शी सूचना उपलब्ध कराने और नागरिकों के जानने के अधिकार को मजबूत करने के संदर्भ में यह उपलब्धि महत्वपूर्ण है। इस प्रशस्ति से कंपनी की संचालन क्षमता और सार्वजनिक भरोसे की पुष्टि हुई। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Korea Western Power Raih Penghargaan PM atas Kepemimpinan Keterbukaan Informasi",
+        "excerpt": "Korea Western Power pada 7 Mei menerima penghargaan Perdana Menteri atas kontribusi dalam pengembangan keterbukaan informasi, menjadi satu-satunya BUMN pemimpin dari 561 lembaga.",
+        "body": "Korea Western Power pada 7 Mei menerima penghargaan Perdana Menteri setelah pemerintah mengakui kontribusinya terhadap pengembangan keterbukaan informasi. Penghargaan ini menjadi penilaian resmi atas capaian perusahaan dalam membangun sistem keterbukaan informasi. Dari 561 lembaga yang dievaluasi, Korea Western Power menjadi satu-satunya perusahaan publik yang membuktikan diri sebagai lembaga pemimpin dalam keterbukaan informasi. Hasil ini bermakna di tengah upaya lembaga publik menyediakan informasi secara transparan dan memperkuat hak masyarakat untuk mengetahui. Penghargaan tersebut menegaskan kemampuan operasional serta kepercayaan publik terhadap perusahaan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "9e8f867dc5df",
     "slug": "반도체-숨고르기ptj-1999년-분위기-40-더-뛸-수-있다-김현석의-월스트리트나우-438257",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Kakao cetak rekor kuartal I berkat iklan dan Pay yang dorong laba",
         "excerpt": "Kakao pada 7 Mei menyatakan mencatat pendapatan dan laba operasional kuartalan tertinggi sepanjang sejarah pada kuartal I, didorong kenaikan pendapatan iklan setelah pembaruan KakaoTalk dan penjualan anak usaha.",
         "body": "Kakao pada 7 Mei menyatakan bahwa pada kuartal pertama tahun ini perusahaan mencatat pendapatan dan laba operasional tertinggi sepanjang sejarah secara kuartalan. Pendapatan iklan meningkat setelah pembaruan KakaoTalk, sementara kinerja terkait Pay juga ikut menopang hasil. Selain itu, penjualan anak usaha dan langkah lain memperbaiki struktur biaya serta profitabilitas, sehingga mendorong kenaikan laba operasional. Hasil ini mencerminkan perluasan penjualan iklan di KakaoTalk sebagai platform inti sekaligus dampak penyesuaian portofolio bisnis. Ke depan, fokusnya adalah apakah Kakao dapat mempertahankan pertumbuhan iklan berbasis pesan serta layanan pembayaran dan keuangan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "008a3084c6eb",
-    "slug": "국내-유망-스타트업-글로벌-시장-진출-지원4개-창경센터-협력-263825",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T12:22:24.586Z",
-    "updatedAt": "2026-05-07T12:22:24.586Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039371",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039371",
-    "titleFingerprint": "bc9c75799e4834154838519f294e8f676b2dfc25",
-    "dedupKeys": [
-      "008a3084c6eb55025b476003199d90cc1676eca3",
-      "bc9c75799e4834154838519f294e8f676b2dfc25",
-      "7940c09136d480947d5687a90704f565a242dc56"
-    ],
-    "imageUrl": "/images/articles/008a3084c6eb.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국내 유망 스타트업 글로벌 진출 지원, 4개 창경센터 협력 성과 주목",
-        "excerpt": "부산·서울·경기·인천 창조경제혁신센터가 국내 유망 스타트업의 글로벌 시장 진출을 지원하기 위해 협력해 비즈니스 미팅 300건과 기술 도입 제안 31건을 이끌어냈다.",
-        "body": "국내 유망 스타트업의 글로벌 시장 진출을 돕기 위해 부산·서울·경기·인천 등 전국 4개 창조경제혁신센터가 협력 사업을 추진하며 실질적 성과를 냈다. 서울창조경제혁신센터에 따르면 이번 협력은 유망 스타트업과 글로벌 시장을 연결하는 데 초점을 맞췄다. 주요 성과로는 협력 비즈니스 미팅 300건과 기술 도입 제안 31건이 집계됐다. 4개 센터가 지역별 창업 지원 역량을 결합하면서 스타트업의 해외 진출 기회 확대와 기술 협력 가능성을 확인했다. 향후 이러한 광역 협력 모델이 국내 스타트업의 글로벌 네트워크 확보에 도움이 될지 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korean Startups Get Global Market Support as Four Innovation Centers Cooperate",
-        "excerpt": "Innovation centers in Busan, Seoul, Gyeonggi and Incheon worked together to support promising Korean startups’ global expansion, producing 300 business meetings and 31 technology adoption proposals.",
-        "body": "Four Creative Economy Innovation Centers in Busan, Seoul, Gyeonggi and Incheon have cooperated to help promising Korean startups enter global markets and reported concrete results. According to the Seoul Creative Economy Innovation Center, the joint effort focused on connecting high-potential startups with overseas market opportunities. The reported outcomes include 300 cooperative business meetings and 31 technology adoption proposals. By combining startup support capabilities across the four regions, the centers confirmed expanded opportunities for overseas entry and potential technology cooperation. Attention is now on whether this broad regional collaboration model can help Korean startups secure stronger global networks. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国有望スタートアップの海外進出支援、4創経センター連携が成果",
-        "excerpt": "釜山・ソウル・京畿・仁川の創造経済革新センターが有望な韓国スタートアップのグローバル市場進出を支援し、商談300件と技術導入提案31件の成果を上げた。",
-        "body": "韓国の有望スタートアップのグローバル市場進出を後押しするため、釜山・ソウル・京畿・仁川の4つの創造経済革新センターが連携事業を進め、具体的な成果を出した。ソウル創造経済革新センターによると、今回の協力は有望スタートアップと海外市場を結び付けることに重点を置いた。主な成果として、連携ビジネスミーティング300件、技術導入提案31件が集計された。4センターが地域別の創業支援力を組み合わせたことで、海外進出機会の拡大と技術協力の可能性が確認された。今後、この広域連携モデルが韓国スタートアップのグローバルネットワーク確保に役立つか注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国潜力初创企业获全球市场支持，四大创新中心合作见成效",
-        "excerpt": "釜山、首尔、京畿、仁川四地创造经济创新中心合作支持韩国潜力初创企业进军全球市场，促成300场商务会谈和31项技术引进提案。",
-        "body": "为支持韩国潜力初创企业进入全球市场，釜山、首尔、京畿、仁川等全国四个创造经济创新中心推进合作项目，并取得实际成果。据首尔创造经济创新中心介绍，此次合作重点在于连接有潜力的初创企业与海外市场机会。主要成果包括300场合作商务会谈和31项技术引进提案。四个中心结合各地区创业支持能力，确认了扩大海外拓展机会和推进技术合作的可能性。未来，这一跨区域合作模式能否帮助韩国初创企业获得更稳固的全球网络，仍值得关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Startups coreanas apuntan al mercado global con apoyo de cuatro centros de innovación",
-        "excerpt": "Los centros de innovación de Busan, Seúl, Gyeonggi e Incheon cooperaron para apoyar la expansión global de startups coreanas prometedoras, con 300 reuniones de negocio y 31 propuestas tecnológicas.",
-        "body": "Cuatro Centros de Innovación de Economía Creativa de Busan, Seúl, Gyeonggi e Incheon cooperaron para ayudar a startups coreanas prometedoras a entrar en mercados globales y lograron resultados concretos. Según el Centro de Innovación de Economía Creativa de Seúl, la iniciativa se centró en conectar a startups con potencial con oportunidades en el exterior. Entre los principales resultados se contabilizaron 300 reuniones de negocio de cooperación y 31 propuestas de adopción tecnológica. Al combinar las capacidades regionales de apoyo al emprendimiento, los cuatro centros confirmaron mayores oportunidades de expansión internacional y posibilidades de cooperación tecnológica. La atención se centra ahora en si este modelo de colaboración amplia ayudará a las startups coreanas a asegurar redes globales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Startups coreanas ganham apoio global com cooperação de quatro centros de inovação",
-        "excerpt": "Centros de inovação de Busan, Seul, Gyeonggi e Incheon cooperaram para apoiar a expansão global de startups coreanas promissoras, gerando 300 reuniões de negócios e 31 propostas tecnológicas.",
-        "body": "Quatro Centros de Inovação da Economia Criativa de Busan, Seul, Gyeonggi e Incheon cooperaram para ajudar startups coreanas promissoras a entrar em mercados globais e registraram resultados concretos. Segundo o Centro de Inovação da Economia Criativa de Seul, a ação conjunta teve como foco conectar startups de alto potencial a oportunidades no exterior. Os principais resultados incluem 300 reuniões de negócios em cooperação e 31 propostas de adoção de tecnologia. Ao combinar as capacidades regionais de apoio ao empreendedorismo, os quatro centros confirmaram a ampliação de oportunidades de entrada no exterior e possibilidades de cooperação tecnológica. A atenção agora recai sobre se esse modelo de colaboração regional ampla ajudará startups coreanas a garantir redes globais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Koreanische Startups erhalten globale Unterstützung durch vier Innovationszentren",
-        "excerpt": "Die Innovationszentren in Busan, Seoul, Gyeonggi und Incheon unterstützten gemeinsam vielversprechende koreanische Startups beim Eintritt in globale Märkte und erzielten 300 Geschäftstreffen sowie 31 Technologieangebote.",
-        "body": "Vier Zentren für Kreativwirtschaft und Innovation in Busan, Seoul, Gyeonggi und Incheon haben zusammengearbeitet, um vielversprechenden koreanischen Startups den Eintritt in globale Märkte zu erleichtern, und konkrete Ergebnisse gemeldet. Nach Angaben des Seoul Creative Economy Innovation Center lag der Schwerpunkt darauf, wachstumsstarke Startups mit Chancen im Ausland zu verbinden. Zu den wichtigsten Ergebnissen zählen 300 kooperative Geschäftstreffen und 31 Vorschläge zur Technologieeinführung. Durch die Bündelung regionaler Unterstützungsfähigkeiten bestätigten die vier Zentren erweiterte Chancen für den Auslandseintritt und mögliche technologische Zusammenarbeit. Nun richtet sich der Blick darauf, ob dieses breite regionale Kooperationsmodell koreanischen Startups beim Aufbau globaler Netzwerke helfen kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Startups coréennes vers l’international: quatre centres d’innovation coopèrent",
-        "excerpt": "Les centres d’innovation de Busan, Séoul, Gyeonggi et Incheon ont soutenu ensemble l’expansion mondiale de startups coréennes prometteuses, avec 300 réunions d’affaires et 31 propositions technologiques.",
-        "body": "Quatre Centres d’innovation de l’économie créative situés à Busan, Séoul, Gyeonggi et Incheon ont coopéré pour aider des startups coréennes prometteuses à entrer sur les marchés mondiaux et ont obtenu des résultats concrets. Selon le Centre d’innovation de l’économie créative de Séoul, cette coopération visait à relier les startups à fort potentiel aux opportunités à l’étranger. Les principaux résultats comprennent 300 réunions d’affaires de coopération et 31 propositions d’adoption technologique. En combinant leurs capacités régionales de soutien à l’entrepreneuriat, les quatre centres ont confirmé l’élargissement des possibilités d’expansion internationale et de coopération technologique. L’attention porte désormais sur la capacité de ce modèle de collaboration régionale à aider les startups coréennes à sécuriser des réseaux mondiaux. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "دعم عالمي للشركات الكورية الناشئة عبر تعاون أربعة مراكز ابتكار",
-        "excerpt": "تعاونت مراكز الابتكار في بوسان وسيول وغيئونغي وإنتشون لدعم دخول الشركات الكورية الناشئة الواعدة إلى الأسواق العالمية، محققة 300 اجتماع أعمال و31 مقترحا لاعتماد التكنولوجيا.",
-        "body": "تعاونت أربعة مراكز للابتكار في الاقتصاد الإبداعي في بوسان وسيول وغيئونغي وإنتشون لمساعدة الشركات الكورية الناشئة الواعدة على دخول الأسواق العالمية، وحققت نتائج عملية. ووفقا لمركز سيول للابتكار في الاقتصاد الإبداعي، ركزت هذه الجهود المشتركة على ربط الشركات الناشئة ذات الإمكانات العالية بفرص الأسواق الخارجية. وتشمل النتائج الرئيسية 300 اجتماع أعمال تعاوني و31 مقترحا لاعتماد التكنولوجيا. ومن خلال الجمع بين قدرات دعم ريادة الأعمال في المناطق الأربع، أكدت المراكز توسع فرص الدخول إلى الخارج وإمكانات التعاون التقني. ويتجه الاهتمام الآن إلى ما إذا كان نموذج التعاون الإقليمي الواسع هذا سيساعد الشركات الكورية الناشئة على تأمين شبكات عالمية أقوى. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरियाई स्टार्टअप्स को वैश्विक बाजार समर्थन, चार नवाचार केंद्रों की साझेदारी सफल",
-        "excerpt": "बुसान, सियोल, ग्योंगी और इंचियोन के नवाचार केंद्रों ने कोरियाई संभावनाशील स्टार्टअप्स के वैश्विक विस्तार में सहयोग किया, जिससे 300 बिजनेस मीटिंग और 31 तकनीक अपनाने के प्रस्ताव मिले।",
-        "body": "बुसान, सियोल, ग्योंगी और इंचियोन के चार क्रिएटिव इकोनॉमी इनोवेशन सेंटरों ने कोरिया के संभावनाशील स्टार्टअप्स को वैश्विक बाजारों में प्रवेश दिलाने के लिए सहयोग किया और ठोस परिणाम हासिल किए। सियोल क्रिएटिव इकोनॉमी इनोवेशन सेंटर के अनुसार, इस संयुक्त प्रयास का फोकस उच्च क्षमता वाले स्टार्टअप्स को विदेशी बाजार अवसरों से जोड़ना था। प्रमुख उपलब्धियों में 300 सहयोगी बिजनेस मीटिंग और तकनीक अपनाने के 31 प्रस्ताव शामिल हैं। चारों केंद्रों ने क्षेत्रीय स्टार्टअप समर्थन क्षमताओं को मिलाकर विदेशी विस्तार के अवसरों और तकनीकी सहयोग की संभावना की पुष्टि की। अब ध्यान इस बात पर है कि यह व्यापक क्षेत्रीय सहयोग मॉडल कोरियाई स्टार्टअप्स को वैश्विक नेटवर्क सुरक्षित करने में कितना मददगार होगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Startup Korea Didorong ke Pasar Global Lewat Kerja Sama Empat Pusat Inovasi",
-        "excerpt": "Pusat inovasi di Busan, Seoul, Gyeonggi, dan Incheon bekerja sama mendukung ekspansi global startup Korea potensial, menghasilkan 300 pertemuan bisnis dan 31 proposal adopsi teknologi.",
-        "body": "Empat Pusat Inovasi Ekonomi Kreatif di Busan, Seoul, Gyeonggi, dan Incheon bekerja sama untuk membantu startup Korea potensial memasuki pasar global dan mencatat hasil nyata. Menurut Seoul Creative Economy Innovation Center, kerja sama ini berfokus menghubungkan startup berpotensi tinggi dengan peluang pasar luar negeri. Capaian utama yang dilaporkan mencakup 300 pertemuan bisnis kerja sama dan 31 proposal adopsi teknologi. Dengan menggabungkan kemampuan dukungan startup di masing-masing wilayah, keempat pusat tersebut memastikan adanya perluasan peluang masuk ke luar negeri dan kemungkinan kerja sama teknologi. Perhatian kini tertuju pada apakah model kolaborasi lintas wilayah ini dapat membantu startup Korea mengamankan jaringan global yang lebih kuat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c391a22cf3e6",
-    "slug": "일잘러-외국인-中企-사무직도-꿰찬다-152772",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T12:21:08.106Z",
-    "updatedAt": "2026-05-07T12:21:08.106Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039400",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039400",
-    "titleFingerprint": "5b3cbf85ad7c0982ab446c744ad0a4202c318784",
-    "dedupKeys": [
-      "c391a22cf3e6d0e84af1f248c772c8e516aa177f",
-      "5b3cbf85ad7c0982ab446c744ad0a4202c318784",
-      "71aeb2dc53075697890234b4a26a69bd6c798a0e"
-    ],
-    "imageUrl": "/images/articles/c391a22cf3e6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "외국인 인재, 중소기업 사무직까지 확대…누보 본사 사례 주목",
-        "excerpt": "경기도 수원시에 본사를 둔 농업 기업 누보는 전체 직원 169명 중 19명이 외국 국적자이며, 생산직을 제외하고도 본사에서 5명이 사무직으로 근무하고 있다.",
-        "body": "경기도 수원시에 본사를 둔 농업 기업 누보에서 외국 국적 직원들이 생산 현장을 넘어 본사 사무직으로도 일하고 있다. 원문에 따르면 누보의 전체 직원 169명 가운데 19명이 외국 국적자다. 울산공장에서 근무하는 생산직 인력을 제외하더라도 본사에서만 외국 국적자 5명이 사무직으로 근무 중이다. 이는 중소기업 현장에서 외국인 인력이 생산직에만 머무르지 않고 사무직 업무까지 맡는 사례로 소개됐다. 인력 구성 변화는 중소기업의 채용 방식과 현장 운영에도 영향을 줄 수 있는 흐름으로 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Foreign Talent Moves Into SME Office Jobs: Nubo Headquarters Case Draws Notice",
-        "excerpt": "Nubo, an agricultural company headquartered in Suwon, Gyeonggi Province, has 19 foreign-national employees among 169 staff, including five office workers at its headquarters.",
-        "body": "At Nubo, an agricultural company headquartered in Suwon, Gyeonggi Province, foreign-national employees are working not only in production sites but also in headquarters office roles. According to the original report, 19 of Nubo’s 169 employees are foreign nationals. Even excluding production workers at the Ulsan factory, five foreign nationals work in office positions at the headquarters. The case was presented as an example of foreign workers in small and medium-sized companies moving beyond production roles into administrative work. This shift in workforce composition is drawing attention as a trend that may affect how SMEs recruit and operate. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "外国人材、中小企業の事務職にも拡大…ヌボ本社の事例に注目",
-        "excerpt": "京畿道水原市に本社を置く農業企業ヌボでは、従業員169人のうち19人が外国籍で、生産職を除いても本社で5人が事務職として働いている。",
-        "body": "京畿道水原市に本社を置く農業企業ヌボで、外国籍の従業員が生産現場だけでなく本社の事務職としても勤務している。原文によると、ヌボの従業員169人のうち19人が外国籍だ。蔚山工場で働く生産職を除いても、本社だけで外国籍の5人が事務職に就いている。これは、中小企業の現場で外国人材が生産職にとどまらず、事務業務まで担う事例として紹介された。人員構成の変化は、中小企業の採用方法や現場運営にも影響を与え得る流れとして注目されている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "外国人才进入中小企业办公室岗位，Nubo总部案例受关注",
-        "excerpt": "总部位于京畿道水原市的农业企业Nubo，在169名员工中有19名外籍员工；即使不包括生产岗位，总部也有5名外籍员工从事办公室工作。",
-        "body": "总部位于京畿道水原市的农业企业Nubo，外籍员工不仅在生产现场工作，也进入了总部办公室岗位。原文称，Nubo共有169名员工，其中19人为外籍人员。即使不包括在蔚山工厂工作的生产岗位员工，仅总部就有5名外籍员工从事办公室工作。该案例被介绍为中小企业中外籍劳动力不再局限于生产岗位、也开始承担办公室业务的例子。员工构成的变化，正作为可能影响中小企业招聘方式和现场运营的趋势受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Talento extranjero llega a oficinas de pymes: el caso de Nubo gana atención",
-        "excerpt": "Nubo, empresa agrícola con sede en Suwon, provincia de Gyeonggi, tiene 19 empleados extranjeros entre 169 trabajadores; cinco de ellos trabajan en oficinas de la sede.",
-        "body": "En Nubo, una empresa agrícola con sede en Suwon, provincia de Gyeonggi, empleados de nacionalidad extranjera trabajan no solo en áreas de producción, sino también en puestos administrativos de la sede. Según el texto original, 19 de los 169 empleados de Nubo son extranjeros. Incluso excluyendo a los trabajadores de producción de la planta de Ulsan, cinco extranjeros trabajan en puestos de oficina en la sede. El caso se presentó como un ejemplo de cómo la mano de obra extranjera en pequeñas y medianas empresas ya no se limita a la producción y también asume tareas administrativas. Este cambio en la composición del personal atrae atención por su posible impacto en la contratación y operación de las pymes. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Talento estrangeiro avança em cargos administrativos de PMEs: caso Nubo em foco",
-        "excerpt": "A Nubo, empresa agrícola sediada em Suwon, na província de Gyeonggi, tem 19 estrangeiros entre 169 funcionários; cinco atuam em cargos administrativos na sede.",
-        "body": "Na Nubo, empresa agrícola sediada em Suwon, na província de Gyeonggi, funcionários estrangeiros trabalham não apenas em áreas de produção, mas também em funções administrativas na sede. Segundo o texto original, 19 dos 169 funcionários da Nubo têm nacionalidade estrangeira. Mesmo excluindo os trabalhadores de produção da fábrica de Ulsan, cinco estrangeiros atuam em cargos de escritório na sede. O caso foi apresentado como exemplo de mão de obra estrangeira em pequenas e médias empresas indo além da produção e assumindo tarefas administrativas. A mudança na composição da força de trabalho chama atenção por poder influenciar a contratação e a operação das PMEs. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Ausländische Fachkräfte erobern Bürojobs in KMU: Nubo-Zentrale im Fokus",
-        "excerpt": "Das Agrarunternehmen Nubo mit Hauptsitz in Suwon, Provinz Gyeonggi, beschäftigt 19 ausländische Staatsangehörige unter 169 Mitarbeitenden; fünf arbeiten in Büropositionen der Zentrale.",
-        "body": "Beim Agrarunternehmen Nubo mit Hauptsitz in Suwon, Provinz Gyeonggi, arbeiten ausländische Staatsangehörige nicht nur in der Produktion, sondern auch in Büropositionen der Zentrale. Dem Originalbericht zufolge sind 19 der insgesamt 169 Beschäftigten von Nubo ausländische Staatsangehörige. Selbst ohne die Produktionskräfte im Werk Ulsan arbeiten allein in der Zentrale fünf ausländische Mitarbeitende in Verwaltungsfunktionen. Der Fall wurde als Beispiel dafür vorgestellt, dass ausländische Arbeitskräfte in kleinen und mittleren Unternehmen nicht auf Produktionsjobs beschränkt bleiben, sondern auch Büroaufgaben übernehmen. Diese Veränderung der Personalstruktur wird als Entwicklung beachtet, die Rekrutierung und Betrieb von KMU beeinflussen kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les talents étrangers gagnent les bureaux des PME : le cas Nubo attire l’attention",
-        "excerpt": "Nubo, entreprise agricole basée à Suwon dans la province de Gyeonggi, compte 19 employés étrangers sur 169, dont cinq occupent des postes administratifs au siège.",
-        "body": "Chez Nubo, entreprise agricole basée à Suwon dans la province de Gyeonggi, des employés de nationalité étrangère travaillent non seulement sur les sites de production, mais aussi dans des fonctions administratives au siège. Selon le texte original, 19 des 169 employés de Nubo sont étrangers. Même en excluant les ouvriers de production de l’usine d’Ulsan, cinq étrangers travaillent au siège dans des postes de bureau. Ce cas a été présenté comme un exemple d’une main-d’œuvre étrangère qui, dans les petites et moyennes entreprises, ne se limite plus à la production et prend aussi en charge des tâches administratives. Cette évolution de la composition du personnel retient l’attention pour son possible effet sur le recrutement et l’exploitation des PME. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "المواهب الأجنبية تدخل وظائف المكاتب في الشركات الصغيرة: حالة نوبو تبرز",
-        "excerpt": "شركة نوبو الزراعية، ومقرها في سوون بمقاطعة غيونغي، تضم 19 موظفا من جنسيات أجنبية من أصل 169، بينهم خمسة يعملون في وظائف مكتبية بالمقر الرئيسي.",
-        "body": "في شركة نوبو الزراعية، التي يقع مقرها الرئيسي في سوون بمقاطعة غيونغي، يعمل موظفون من جنسيات أجنبية ليس فقط في مواقع الإنتاج، بل أيضا في وظائف مكتبية داخل المقر الرئيسي. ووفقا للنص الأصلي، فإن 19 من بين 169 موظفا في نوبو يحملون جنسيات أجنبية. وحتى عند استثناء عمال الإنتاج في مصنع أولسان، يعمل خمسة أجانب في وظائف مكتبية بالمقر الرئيسي وحده. وقد عُرضت هذه الحالة كمثال على أن العمالة الأجنبية في الشركات الصغيرة والمتوسطة لا تبقى محصورة في الإنتاج، بل تتولى أيضا أعمالا إدارية. ويحظى هذا التغير في تركيبة القوى العاملة باهتمام لأنه قد يؤثر في أساليب التوظيف وتشغيل الشركات الصغيرة والمتوسطة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "विदेशी प्रतिभा अब SME दफ्तरों तक, Nubo मुख्यालय का मामला चर्चा में",
-        "excerpt": "ग्योंगगी प्रांत के सुवोन में मुख्यालय वाली कृषि कंपनी Nubo के 169 कर्मचारियों में 19 विदेशी नागरिक हैं, जिनमें उत्पादन कर्मियों को छोड़कर मुख्यालय में पांच कार्यालयी पदों पर काम कर रहे हैं।",
-        "body": "ग्योंगगी प्रांत के सुवोन में मुख्यालय वाली कृषि कंपनी Nubo में विदेशी नागरिक कर्मचारी उत्पादन स्थलों से आगे बढ़कर मुख्यालय के कार्यालयी पदों पर भी काम कर रहे हैं। मूल रिपोर्ट के अनुसार, Nubo के कुल 169 कर्मचारियों में 19 विदेशी नागरिक हैं। उल्सान कारखाने में काम करने वाले उत्पादन कर्मियों को छोड़ दें, तब भी मुख्यालय में ही पांच विदेशी नागरिक कार्यालयी भूमिकाओं में कार्यरत हैं। यह मामला छोटे और मध्यम उद्यमों में विदेशी श्रमिकों के उत्पादन पदों तक सीमित न रहने और प्रशासनिक काम संभालने के उदाहरण के रूप में पेश किया गया। कार्यबल की संरचना में यह बदलाव SME की भर्ती पद्धति और संचालन पर असर डाल सकने वाली प्रवृत्ति के रूप में ध्यान खींच रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Talenta asing masuk pekerjaan kantor UKM, kasus kantor pusat Nubo disorot",
-        "excerpt": "Nubo, perusahaan pertanian yang berkantor pusat di Suwon, Provinsi Gyeonggi, memiliki 19 warga negara asing dari 169 karyawan; lima di antaranya bekerja di posisi kantor pusat.",
-        "body": "Di Nubo, perusahaan pertanian yang berkantor pusat di Suwon, Provinsi Gyeonggi, karyawan berkewarganegaraan asing bekerja bukan hanya di lokasi produksi, tetapi juga di posisi kantor pusat. Menurut teks asli, dari total 169 karyawan Nubo, 19 orang merupakan warga negara asing. Bahkan setelah mengecualikan pekerja produksi di pabrik Ulsan, terdapat lima warga negara asing yang bekerja sebagai staf kantor di kantor pusat. Kasus ini diperkenalkan sebagai contoh bahwa tenaga kerja asing di usaha kecil dan menengah tidak hanya berada di posisi produksi, tetapi juga menangani pekerjaan administrasi. Perubahan komposisi tenaga kerja ini menarik perhatian karena dapat memengaruhi cara perekrutan dan operasi UKM. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6cff5bc34f5d",
-    "slug": "hd한국조선해양-힘찬-뱃고동-영업익-58-쑥-분기최대-실적-822030",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T12:20:01.215Z",
-    "updatedAt": "2026-05-07T12:20:01.215Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039440",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039440",
-    "titleFingerprint": "78186fb2dc3db9baa870541c50b9575896b68d39",
-    "dedupKeys": [
-      "6cff5bc34f5dc8492eafce0bb4059d7eccf71952",
-      "78186fb2dc3db9baa870541c50b9575896b68d39",
-      "b0fed72241bb3267ec4c9aa45495e805ed586bdf"
-    ],
-    "imageUrl": "/images/articles/6cff5bc34f5d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "HD한국조선해양 1분기 영업이익 1조3560억원, 분기 최대 실적 달성",
-        "excerpt": "HD한국조선해양은 7일 올해 1분기 연결 기준 영업이익이 전년 동기 대비 57.8% 증가한 1조3560억원을 기록하며 분기 기준 역대 최대 실적을 달성했다고 밝혔다.",
-        "body": "HD한국조선해양이 올해 1분기 연결 기준 영업이익 1조3560억원을 기록하며 분기 기준 역대 최대 실적을 달성했다. 회사는 7일 1분기 영업이익이 전년 동기 대비 57.8% 증가했다고 밝혔다. 이번 실적은 조선업황과 수익성에 대한 시장의 관심이 커진 가운데 나온 수치다. 분기 최대 실적이라는 점에서 HD한국조선해양의 실적 흐름을 확인할 핵심 지표로 평가된다. 다만 원문은 매출, 순이익, 수주 전망 등 추가 세부 항목은 제시하지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "HD Korea Shipbuilding Posts Q1 Operating Profit of 1.356 Trillion Won",
-        "excerpt": "HD Korea Shipbuilding & Offshore Engineering said on May 7 that its consolidated operating profit for the first quarter rose 57.8% year on year to 1.356 trillion won, marking a record quarterly result.",
-        "body": "HD Korea Shipbuilding & Offshore Engineering achieved its highest-ever quarterly performance in the first quarter of this year, posting consolidated operating profit of 1.356 trillion won. The company said on May 7 that first-quarter operating profit increased 57.8% from the same period a year earlier. The figure comes as market attention remains focused on shipbuilding industry conditions and profitability. As a quarterly record, the result is a key indicator of HD Korea Shipbuilding’s earnings momentum. The original report did not provide additional details such as revenue, net income, or order outlook. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "HD韓国造船海洋、1Q営業益1兆3560億ウォンで四半期最高益",
-        "excerpt": "HD韓国造船海洋は7日、今年第1四半期の連結営業利益が前年同期比57.8%増の1兆3560億ウォンとなり、四半期ベースで過去最高の業績を達成したと発表した。",
-        "body": "HD韓国造船海洋は、今年第1四半期の連結営業利益が1兆3560億ウォンとなり、四半期ベースで過去最高の業績を達成した。会社は7日、第1四半期の営業利益が前年同期比57.8%増加したと明らかにした。今回の数値は、造船市況と収益性に対する市場の関心が高まる中で示されたものだ。四半期最高実績である点から、HD韓国造船海洋の業績の流れを確認する主要指標と受け止められる。ただし原文では、売上高、純利益、受注見通しなどの追加項目は示されていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "HD韩国造船海洋一季度营业利润1.356万亿韩元，创季度新高",
-        "excerpt": "HD韩国造船海洋7日表示，今年第一季度合并口径营业利润同比增长57.8%，达到1.356万亿韩元，创下公司季度业绩历史新高。",
-        "body": "HD韩国造船海洋今年第一季度合并口径营业利润达到1.356万亿韩元，创下按季度计算的历史最高业绩。公司7日表示，第一季度营业利润较去年同期增长57.8%。这一数据公布之际，市场对造船业景气度和盈利能力的关注持续升温。由于创下季度最高纪录，该业绩被视为观察HD韩国造船海洋盈利走势的重要指标。不过，原文未提供销售额、净利润、接单展望等更多细节。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "HD Korea Shipbuilding logra beneficio operativo récord en el 1T",
-        "excerpt": "HD Korea Shipbuilding & Offshore Engineering informó el 7 de mayo que su beneficio operativo consolidado del primer trimestre subió un 57,8% interanual hasta 1,356 billones de wones, un máximo trimestral.",
-        "body": "HD Korea Shipbuilding & Offshore Engineering alcanzó en el primer trimestre de este año su mayor resultado trimestral, con un beneficio operativo consolidado de 1,356 billones de wones. La compañía informó el 7 de mayo que el beneficio operativo del trimestre aumentó un 57,8% frente al mismo periodo del año anterior. La cifra llega en un contexto de atención del mercado sobre las condiciones del sector naval y la rentabilidad. Al tratarse de un récord trimestral, el dato sirve como indicador clave del desempeño de HD Korea Shipbuilding. El texto original no incluyó ventas, beneficio neto ni perspectivas de pedidos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "HD Korea Shipbuilding registra lucro operacional recorde no 1º trimestre",
-        "excerpt": "A HD Korea Shipbuilding & Offshore Engineering informou em 7 de maio que seu lucro operacional consolidado no primeiro trimestre subiu 57,8% na comparação anual, para 1,356 trilhão de wones, recorde trimestral.",
-        "body": "A HD Korea Shipbuilding & Offshore Engineering alcançou no primeiro trimestre deste ano seu maior resultado trimestral, com lucro operacional consolidado de 1,356 trilhão de wones. A empresa informou em 7 de maio que o lucro operacional do período aumentou 57,8% em relação ao mesmo trimestre do ano anterior. O número foi divulgado em meio ao interesse do mercado nas condições da indústria naval e na rentabilidade. Por ser um recorde trimestral, o resultado é um indicador central do desempenho da HD Korea Shipbuilding. O texto original não trouxe detalhes adicionais sobre receita, lucro líquido ou perspectiva de encomendas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "HD Korea Shipbuilding erzielt im ersten Quartal Rekord-Betriebsgewinn",
-        "excerpt": "HD Korea Shipbuilding & Offshore Engineering teilte am 7. Mai mit, dass der konsolidierte Betriebsgewinn im ersten Quartal um 57,8% gegenüber dem Vorjahr auf 1,356 Billionen Won stieg und einen Quartalsrekord erreichte.",
-        "body": "HD Korea Shipbuilding & Offshore Engineering hat im ersten Quartal dieses Jahres das beste Quartalsergebnis seiner Geschichte erzielt. Der konsolidierte Betriebsgewinn lag bei 1,356 Billionen Won. Das Unternehmen erklärte am 7. Mai, der Betriebsgewinn im ersten Quartal sei gegenüber dem Vorjahreszeitraum um 57,8% gestiegen. Die Zahl wurde veröffentlicht, während der Markt die Lage im Schiffbau und die Profitabilität aufmerksam verfolgt. Als Quartalsrekord gilt das Ergebnis als wichtiger Hinweis auf die Ergebnisentwicklung von HD Korea Shipbuilding. Der Originalbericht nannte keine weiteren Angaben zu Umsatz, Nettogewinn oder Auftragsperspektiven. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "HD Korea Shipbuilding signe un bénéfice opérationnel record au 1er trimestre",
-        "excerpt": "HD Korea Shipbuilding & Offshore Engineering a annoncé le 7 mai que son bénéfice opérationnel consolidé du premier trimestre avait augmenté de 57,8% sur un an à 1,356 billion de wons, un record trimestriel.",
-        "body": "HD Korea Shipbuilding & Offshore Engineering a réalisé au premier trimestre de cette année sa meilleure performance trimestrielle, avec un bénéfice opérationnel consolidé de 1,356 billion de wons. L’entreprise a indiqué le 7 mai que le bénéfice opérationnel du trimestre avait progressé de 57,8% par rapport à la même période de l’an dernier. Ce chiffre intervient alors que le marché suit de près la conjoncture de la construction navale et la rentabilité du secteur. En tant que record trimestriel, il constitue un indicateur clé de la dynamique des résultats de HD Korea Shipbuilding. Le texte original ne fournit pas de détails sur le chiffre d’affaires, le bénéfice net ou les perspectives de commandes. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إتش دي كوريا لبناء السفن تحقق ربحا تشغيليا قياسيا في الربع الأول",
-        "excerpt": "قالت إتش دي كوريا لبناء السفن والهندسة البحرية في 7 مايو إن ربحها التشغيلي الموحد للربع الأول ارتفع 57.8% على أساس سنوي إلى 1.356 تريليون وون، مسجلا أعلى أداء فصلي لها.",
-        "body": "حققت إتش دي كوريا لبناء السفن والهندسة البحرية في الربع الأول من هذا العام أعلى أداء فصلي في تاريخها، إذ بلغ الربح التشغيلي الموحد 1.356 تريليون وون. وذكرت الشركة في 7 مايو أن الربح التشغيلي للربع الأول زاد 57.8% مقارنة بالفترة نفسها من العام السابق. تأتي هذه الأرقام وسط اهتمام السوق بأوضاع صناعة بناء السفن والربحية. وباعتباره رقما قياسيا فصليا، يعد هذا الأداء مؤشرا رئيسيا على مسار أرباح الشركة. ولم يورد النص الأصلي تفاصيل إضافية عن الإيرادات أو صافي الربح أو توقعات الطلبيات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "HD Korea Shipbuilding का Q1 परिचालन लाभ 1.356 ट्रिलियन वॉन पर रिकॉर्ड",
-        "excerpt": "HD Korea Shipbuilding & Offshore Engineering ने 7 मई को कहा कि पहली तिमाही में उसका समेकित परिचालन लाभ सालाना आधार पर 57.8% बढ़कर 1.356 ट्रिलियन वॉन हो गया, जो उसका रिकॉर्ड तिमाही प्रदर्शन है।",
-        "body": "HD Korea Shipbuilding & Offshore Engineering ने इस वर्ष की पहली तिमाही में 1.356 ट्रिलियन वॉन का समेकित परिचालन लाभ दर्ज किया और तिमाही आधार पर अपना अब तक का सबसे बड़ा प्रदर्शन हासिल किया। कंपनी ने 7 मई को बताया कि पहली तिमाही का परिचालन लाभ पिछले वर्ष की समान अवधि से 57.8% बढ़ा। यह आंकड़ा ऐसे समय आया है जब बाजार शिपबिल्डिंग उद्योग की स्थिति और लाभप्रदता पर ध्यान दे रहा है। रिकॉर्ड तिमाही परिणाम होने के कारण यह HD Korea Shipbuilding की आय गति को देखने वाला प्रमुख संकेतक है। मूल रिपोर्ट में राजस्व, शुद्ध लाभ या ऑर्डर आउटलुक जैसे अतिरिक्त विवरण नहीं दिए गए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "HD Korea Shipbuilding Cetak Laba Operasi Rekor pada Kuartal I",
-        "excerpt": "HD Korea Shipbuilding & Offshore Engineering menyatakan pada 7 Mei bahwa laba operasi konsolidasi kuartal I naik 57,8% secara tahunan menjadi 1,356 triliun won, menandai kinerja kuartalan tertinggi sepanjang sejarah.",
-        "body": "HD Korea Shipbuilding & Offshore Engineering mencatat kinerja kuartalan tertinggi sepanjang sejarah pada kuartal pertama tahun ini, dengan laba operasi konsolidasi sebesar 1,356 triliun won. Perusahaan menyatakan pada 7 Mei bahwa laba operasi kuartal pertama meningkat 57,8% dibandingkan periode yang sama tahun lalu. Angka ini muncul saat pasar mencermati kondisi industri galangan kapal dan profitabilitas. Sebagai rekor kuartalan, hasil tersebut menjadi indikator penting untuk melihat tren kinerja HD Korea Shipbuilding. Teks asli tidak memuat rincian tambahan mengenai pendapatan, laba bersih, atau prospek pesanan. Sumber: mk.co.kr"
       }
     }
   }
