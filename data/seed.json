@@ -1,5 +1,230 @@
 [
   {
+    "id": "dcd3488e85b5",
+    "slug": "일본-부럽나-이미-진-거야삼전-일본-100대-기업-총합보다-더-번다는데-190988",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T05:14:30.722Z",
+    "updatedAt": "2026-05-08T05:14:30.722Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12040994",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12040994",
+    "titleFingerprint": "03fa9835a022ddf7fe073890ec76cf02191bed23",
+    "dedupKeys": [
+      "dcd3488e85b5c1f7c473cbde0788735ba71367a0",
+      "03fa9835a022ddf7fe073890ec76cf02191bed23",
+      "392e9eed4850755a9976f840099c86918c8102fb"
+    ],
+    "imageUrl": "/images/articles/dcd3488e85b5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 2028년 영업익 494조 전망, 일본 100대 상장사 합계 넘나",
+        "excerpt": "골드만삭스가 삼성전자의 2028년 영업이익 전망치를 494조원으로 제시하면서 일본 상장사 상위 100곳의 합계를 넘는다는 보도가 나와 온라인 반응이 이어졌다.",
+        "body": "골드만삭스가 삼성전자의 2028년 영업이익 전망치를 494조원으로 대폭 상향한 것으로 전해졌다. 보도에 따르면 이 수치는 일본 상장사 상위 100개 기업의 영업이익 합계를 넘어서는 규모로 제시됐다. 삼성전자의 실적 전망이 일본 주요 기업군 전체와 비교될 정도로 커졌다는 점이 핵심이다. 관련 내용이 알려지자 온라인에서는 “기사 오타인 줄 알았다”는 반응이 나오는 등 숫자 자체에 대한 관심이 커졌다. 이번 전망은 반도체를 중심으로 한 삼성전자의 향후 수익성 기대가 반영된 것으로 해석된다. 다만 원문은 골드만삭스의 전망치와 일본 상위 상장사 합계 비교를 중심으로 전했으며, 실제 실적은 향후 업황과 기업별 변수에 따라 달라질 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung 2028 Operating Profit Seen at 494 Trillion Won, Topping Japan’s Top 100",
+        "excerpt": "Goldman Sachs reportedly projected Samsung Electronics’ 2028 operating profit at 494 trillion won, exceeding the combined total of Japan’s top 100 listed firms and drawing online attention.",
+        "body": "Goldman Sachs has reportedly raised its 2028 operating profit forecast for Samsung Electronics to 494 trillion won. According to the report, that figure was presented as higher than the combined operating profit of Japan’s top 100 listed companies. The key point is that Samsung’s earnings outlook has become large enough to be compared with a broad group of Japan’s leading corporations. After the report spread, online users reacted with comments such as “I thought it was a typo,” showing strong attention to the size of the number. The forecast is understood as reflecting expectations for Samsung’s future profitability, led by semiconductors. However, the original report focused on Goldman Sachs’ estimate and the comparison with Japan’s top listed companies, while actual results may vary depending on market conditions and company-specific factors. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子、2028年営業益494兆ウォン予想 日本上位100社合計超えか",
+        "excerpt": "ゴールドマン・サックスがサムスン電子の2028年営業利益を494兆ウォンと見込み、日本上場企業上位100社の合計を上回るとの報道に反応が広がった。",
+        "body": "ゴールドマン・サックスがサムスン電子の2028年営業利益見通しを494兆ウォンへ大幅に引き上げたと伝えられた。報道によると、この数値は日本の上場企業上位100社の営業利益合計を上回る規模として示された。サムスン電子の業績見通しが、日本の主要企業群全体と比較されるほど大きくなった点が焦点だ。関連内容が知られると、オンラインでは「記事の誤字かと思った」といった反応が出るなど、数字そのものへの関心が高まった。今回の見通しは、半導体を中心とするサムスン電子の将来収益性への期待を反映したものと解釈される。ただし原文は、ゴールドマン・サックスの予想値と日本上位上場企業合計との比較を中心に伝えており、実際の業績は今後の市況や企業別要因により変わり得る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子2028年营业利润预估494万亿韩元 或超日本百强上市公司总和",
+        "excerpt": "高盛据报将三星电子2028年营业利润预期上调至494万亿韩元，并称该数值超过日本前100家上市公司合计，引发网络热议。",
+        "body": "据报道，高盛大幅上调三星电子2028年营业利润预期至494万亿韩元。报道称，这一数字被列为超过日本上市公司前100强营业利润总和的规模。核心在于，三星电子的业绩展望已经大到可与日本主要企业群整体相比较。相关内容传出后，网络上出现“还以为是报道写错了”等反应，显示外界对这一数字本身高度关注。此次预测被解读为反映了以半导体为中心的三星电子未来盈利能力预期。不过，原文主要围绕高盛预测值以及其与日本头部上市公司合计的比较展开，实际业绩仍可能随未来行业状况和企业自身变量而变化。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung ganaría 494 billones de wones en 2028 y superaría al top 100 japonés",
+        "excerpt": "Goldman Sachs habría previsto un beneficio operativo de Samsung Electronics de 494 billones de wones en 2028, por encima del total de las 100 mayores cotizadas japonesas.",
+        "body": "Goldman Sachs habría elevado de forma marcada su previsión de beneficio operativo de Samsung Electronics para 2028 hasta 494 billones de wones. Según el reporte, esa cifra se presentó como superior a la suma del beneficio operativo de las 100 principales empresas cotizadas de Japón. El punto central es que la perspectiva de resultados de Samsung se ha vuelto lo bastante grande como para compararse con todo un grupo de grandes compañías japonesas. Tras conocerse el dato, usuarios en línea reaccionaron con comentarios como “pensé que era un error tipográfico”, lo que muestra la atención generada por la magnitud de la cifra. La previsión se interpreta como un reflejo de las expectativas sobre la rentabilidad futura de Samsung, liderada por los semiconductores. Sin embargo, el texto original se centró en la estimación de Goldman Sachs y la comparación con las mayores cotizadas japonesas; los resultados reales pueden variar según el ciclo del sector y factores propios de la empresa. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung pode lucrar 494 trilhões de won em 2028 e superar top 100 do Japão",
+        "excerpt": "O Goldman Sachs teria projetado lucro operacional de 494 trilhões de won para a Samsung Electronics em 2028, acima da soma das 100 maiores empresas listadas do Japão.",
+        "body": "O Goldman Sachs teria elevado de forma expressiva sua projeção de lucro operacional da Samsung Electronics para 2028, chegando a 494 trilhões de won. Segundo a reportagem, esse valor foi apresentado como superior à soma do lucro operacional das 100 principais empresas listadas do Japão. O ponto central é que a perspectiva de resultados da Samsung ficou grande o suficiente para ser comparada a um amplo grupo de companhias japonesas líderes. Após a divulgação, usuários on-line reagiram com comentários como “achei que fosse erro de digitação”, mostrando forte atenção ao tamanho do número. A projeção é entendida como reflexo das expectativas de rentabilidade futura da Samsung, lideradas por semicondutores. Ainda assim, o texto original destacou a estimativa do Goldman Sachs e a comparação com as maiores listadas japonesas; os resultados reais podem mudar conforme as condições do setor e variáveis específicas da empresa. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung 2028 mit 494 Billionen Won Betriebsgewinn erwartet, über Japans Top 100",
+        "excerpt": "Goldman Sachs soll Samsungs Betriebsgewinn für 2028 auf 494 Billionen Won geschätzt haben, mehr als die Summe der 100 größten börsennotierten Unternehmen Japans.",
+        "body": "Goldman Sachs hat seine Prognose für den Betriebsgewinn von Samsung Electronics im Jahr 2028 Berichten zufolge deutlich auf 494 Billionen Won angehoben. Laut Bericht wurde diese Zahl als höher dargestellt als die Summe der Betriebsgewinne der 100 größten börsennotierten Unternehmen Japans. Im Mittelpunkt steht, dass Samsungs Ergebnisausblick groß genug geworden ist, um mit einer ganzen Gruppe führender japanischer Unternehmen verglichen zu werden. Nachdem die Meldung bekannt wurde, reagierten Nutzer online mit Kommentaren wie „Ich dachte, das sei ein Tippfehler“, was die Aufmerksamkeit für die Größenordnung der Zahl zeigt. Die Prognose wird als Ausdruck der Erwartungen an Samsungs künftige Profitabilität verstanden, vor allem im Halbleitergeschäft. Der Originalbericht konzentrierte sich jedoch auf die Schätzung von Goldman Sachs und den Vergleich mit Japans größten börsennotierten Firmen; die tatsächlichen Ergebnisse können je nach Branchenlage und unternehmensspezifischen Faktoren abweichen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung attendu à 494 billions de wons de bénéfice en 2028, au-dessus du top 100 japonais",
+        "excerpt": "Goldman Sachs aurait estimé le bénéfice opérationnel 2028 de Samsung Electronics à 494 billions de wons, au-dessus du total des 100 premières sociétés cotées japonaises.",
+        "body": "Goldman Sachs aurait fortement relevé sa prévision de bénéfice opérationnel de Samsung Electronics pour 2028 à 494 billions de wons. Selon l’article, ce chiffre a été présenté comme supérieur au bénéfice opérationnel cumulé des 100 plus grandes sociétés cotées du Japon. Le point essentiel est que les perspectives de résultats de Samsung sont devenues assez importantes pour être comparées à l’ensemble d’un grand groupe d’entreprises japonaises majeures. Après la publication, des internautes ont réagi par des commentaires comme « j’ai cru à une faute de frappe », signe de l’attention portée à l’ampleur du montant. Cette prévision est interprétée comme reflétant les attentes de rentabilité future de Samsung, portées par les semi-conducteurs. Toutefois, le texte original se concentrait sur l’estimation de Goldman Sachs et la comparaison avec les principales sociétés cotées japonaises; les résultats réels peuvent varier selon les conditions du secteur et les facteurs propres à l’entreprise. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ قد تسجل 494 تريليون وون أرباحا تشغيلية في 2028 وتتجاوز كبار اليابان",
+        "excerpt": "ذكرت تقارير أن غولدمان ساكس رفع توقعاته لأرباح سامسونغ إلكترونيكس التشغيلية في 2028 إلى 494 تريليون وون، بما يفوق مجموع أكبر 100 شركة مدرجة في اليابان.",
+        "body": "أفادت تقارير بأن غولدمان ساكس رفع بشكل كبير توقعاته للأرباح التشغيلية لشركة سامسونغ إلكترونيكس في عام 2028 إلى 494 تريليون وون. وبحسب التقرير، طُرح هذا الرقم على أنه يتجاوز مجموع الأرباح التشغيلية لأكبر 100 شركة مدرجة في اليابان. وتكمن النقطة الأساسية في أن توقعات أرباح سامسونغ أصبحت كبيرة بما يكفي لمقارنتها بمجموعة واسعة من الشركات اليابانية الكبرى. وبعد انتشار الخبر، علّق مستخدمون عبر الإنترنت بعبارات مثل “ظننت أن في المقال خطأ مطبعيا”، ما أظهر اهتماما كبيرا بحجم الرقم نفسه. وتُفهم هذه التوقعات على أنها تعكس آمالا في ربحية سامسونغ المستقبلية، ولا سيما في أشباه الموصلات. لكن النص الأصلي ركز على تقدير غولدمان ساكس والمقارنة مع أكبر الشركات اليابانية المدرجة، بينما قد تختلف النتائج الفعلية تبعا لظروف السوق والعوامل الخاصة بالشركة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सैमसंग का 2028 परिचालन लाभ 494 ट्रिलियन वॉन अनुमानित, जापान टॉप 100 से आगे",
+        "excerpt": "गोल्डमैन सैक्स ने कथित तौर पर 2028 में सैमसंग इलेक्ट्रॉनिक्स का परिचालन लाभ 494 ट्रिलियन वॉन आंका, जो जापान की शीर्ष 100 सूचीबद्ध कंपनियों के कुल से अधिक बताया गया।",
+        "body": "गोल्डमैन सैक्स ने कथित तौर पर 2028 के लिए सैमसंग इलेक्ट्रॉनिक्स के परिचालन लाभ का अनुमान काफी बढ़ाकर 494 ट्रिलियन वॉन कर दिया है। रिपोर्ट के अनुसार, यह आंकड़ा जापान की शीर्ष 100 सूचीबद्ध कंपनियों के कुल परिचालन लाभ से अधिक बताया गया। मुख्य बात यह है कि सैमसंग की आय की संभावना इतनी बड़ी हो गई है कि उसकी तुलना जापान की प्रमुख कंपनियों के पूरे समूह से की जा रही है। खबर सामने आने के बाद ऑनलाइन उपयोगकर्ताओं ने “मुझे लगा लेख में टाइपो है” जैसी प्रतिक्रियाएं दीं, जिससे संख्या के आकार पर ध्यान बढ़ा। इस अनुमान को सेमीकंडक्टर के नेतृत्व में सैमसंग की भविष्य की लाभप्रदता को लेकर उम्मीदों का संकेत माना जा रहा है। हालांकि मूल रिपोर्ट ने गोल्डमैन सैक्स के अनुमान और जापान की शीर्ष सूचीबद्ध कंपनियों के कुल से तुलना पर ही जोर दिया; वास्तविक नतीजे आगे उद्योग की स्थिति और कंपनी-विशेष कारकों के अनुसार बदल सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Laba Operasi Samsung 2028 Diproyeksi 494 Triliun Won, Lewati Top 100 Jepang",
+        "excerpt": "Goldman Sachs disebut memproyeksikan laba operasi Samsung Electronics 2028 sebesar 494 triliun won, melampaui gabungan 100 perusahaan tercatat terbesar Jepang.",
+        "body": "Goldman Sachs dilaporkan menaikkan tajam proyeksi laba operasi Samsung Electronics untuk 2028 menjadi 494 triliun won. Menurut laporan tersebut, angka ini disajikan sebagai lebih besar daripada gabungan laba operasi 100 perusahaan tercatat teratas di Jepang. Poin utamanya adalah prospek kinerja Samsung telah menjadi cukup besar untuk dibandingkan dengan kelompok luas perusahaan utama Jepang. Setelah informasi itu beredar, pengguna daring bereaksi dengan komentar seperti “saya kira itu salah ketik,” menunjukkan besarnya perhatian pada angka tersebut. Proyeksi ini dipahami sebagai cerminan ekspektasi terhadap profitabilitas Samsung di masa depan, terutama dari semikonduktor. Namun, teks asli berfokus pada estimasi Goldman Sachs dan perbandingan dengan total perusahaan tercatat papan atas Jepang; realisasi kinerja dapat berbeda bergantung pada kondisi industri dan faktor khusus perusahaan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c40a1974b626",
+    "slug": "장세욱-동국제강-부회장-주재원-부모에-한우손편지-보내-212573",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T05:13:07.834Z",
+    "updatedAt": "2026-05-08T05:13:07.834Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12041004",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12041004",
+    "titleFingerprint": "6928a0ab0c4e11ee501c6ec6f751400e1e21e3e8",
+    "dedupKeys": [
+      "c40a1974b6261e99542e20d95f1fd1988b9a7325",
+      "6928a0ab0c4e11ee501c6ec6f751400e1e21e3e8",
+      "436d12bfdd4f3ffa63d91d3e9c861bfc7faa01d3"
+    ],
+    "imageUrl": "/images/articles/c40a1974b626.jpg",
+    "i18n": {
+      "ko": {
+        "title": "장세욱 동국제강 부회장, 어버이날 맞아 주재원 부모에 한우·손편지 전달",
+        "excerpt": "장세욱 동국제강그룹 부회장이 어버이날을 맞아 해외 주재원 39명의 부모에게 한우와 손편지를 보내 감사와 존경의 뜻을 전했다.",
+        "body": "장세욱 동국제강그룹 부회장이 어버이날을 맞아 해외 주재원 부모에게 한우와 손편지를 보냈다. 대상은 해외에서 근무 중인 주재원 39명의 부모로, 장 부회장은 가족의 헌신에 감사와 존경을 전했다. 이번 전달은 해외 근무로 부모를 직접 찾기 어려운 임직원을 대신해 회사가 마음을 전하는 취지로 마련됐다. 동국제강그룹은 임직원 가족을 살피는 활동과 함께 지역아동센터에 에어컨 등을 후원하는 사회공헌도 확대하고 있다. 회사 안팎의 돌봄 활동이 이어지며 조직 결속과 지역 지원에도 의미가 더해질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Dongkuk Steel Vice Chairman Sends Hanwoo and Letters to Expat Employees’ Parents",
+        "excerpt": "Dongkuk Steel Group Vice Chairman Chang Sae-wook sent Hanwoo beef and handwritten letters to the parents of 39 overseas employees for Parents’ Day.",
+        "body": "Dongkuk Steel Group Vice Chairman Chang Sae-wook marked Parents’ Day by sending Hanwoo beef and handwritten letters to the parents of overseas employees. The gifts were delivered to the parents of 39 expatriate staff members working abroad, with Chang conveying sincere gratitude and respect for their families’ support. The gesture was arranged to represent employees who may find it difficult to visit their parents while stationed overseas. Dongkuk Steel Group is also expanding social contribution efforts, including support such as air conditioners for local children’s centers. The activities are expected to strengthen care for employees’ families while extending support to local communities. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "東国製鋼・張世旭副会長、駐在員の親へ韓牛と手紙を贈呈",
+        "excerpt": "東国製鋼グループの張世旭副会長は父母の日に合わせ、海外駐在員39人の親へ韓牛と手書きの手紙を送り、感謝と敬意を伝えた。",
+        "body": "東国製鋼グループの張世旭副会長は、父母の日を迎え、海外駐在員の親に韓牛と手書きの手紙を送った。対象は海外で勤務する駐在員39人の親で、張副会長は家族の支えに対する真心のこもった感謝と敬意を伝えた。今回の贈呈は、海外勤務のため親を直接訪ねにくい社員に代わり、会社が思いを届ける趣旨で行われた。東国製鋼グループは社員家族への配慮に加え、地域児童センターへのエアコン支援など社会貢献も拡大している。社内外での支援活動は、組織の結束と地域支援に意味を加える見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "东国制钢张世旭副会长在父母节向驻外员工父母送韩牛和亲笔信",
+        "excerpt": "东国制钢集团副会长张世旭在父母节之际，向39名海外驻员工父母送去韩牛和亲笔信，表达感谢与敬意。",
+        "body": "东国制钢集团副会长张世旭在父母节之际，向海外驻员工的父母送去了韩牛和亲笔信。此次对象为在海外工作的39名驻外员工父母，张副会长向支持员工海外工作的家人表达了真诚的感谢和敬意。该活动旨在代表因海外工作难以亲自探望父母的员工，由公司传递心意。东国制钢集团还在关怀员工家庭的同时，扩大社会贡献活动，包括向地区儿童中心捐赠空调等。相关关怀活动预计将有助于增强组织凝聚力，并为地区支援增添意义。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Vicepresidente de Dongkuk Steel envía Hanwoo y cartas a padres de expatriados",
+        "excerpt": "Chang Sae-wook, vicepresidente de Dongkuk Steel Group, envió carne Hanwoo y cartas manuscritas a los padres de 39 empleados destinados en el extranjero por el Día de los Padres.",
+        "body": "Chang Sae-wook, vicepresidente de Dongkuk Steel Group, conmemoró el Día de los Padres enviando carne Hanwoo y cartas manuscritas a los padres de empleados destinados en el extranjero. La entrega alcanzó a los padres de 39 expatriados, y Chang expresó gratitud y respeto por el apoyo de sus familias. La iniciativa busca transmitir el afecto de la empresa en nombre de empleados que, por trabajar fuera del país, tienen dificultades para visitar personalmente a sus padres. Dongkuk Steel Group también amplía sus acciones de contribución social, incluido el apoyo con aires acondicionados a centros infantiles locales. Estas actividades de cuidado dentro y fuera de la empresa podrían reforzar la cohesión organizativa y el apoyo comunitario. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Vice-presidente da Dongkuk Steel envia Hanwoo e cartas a pais de expatriados",
+        "excerpt": "Chang Sae-wook, vice-presidente do Dongkuk Steel Group, enviou carne Hanwoo e cartas manuscritas aos pais de 39 funcionários no exterior pelo Dia dos Pais.",
+        "body": "Chang Sae-wook, vice-presidente do Dongkuk Steel Group, marcou o Dia dos Pais enviando carne Hanwoo e cartas manuscritas aos pais de funcionários destacados no exterior. A ação contemplou os pais de 39 expatriados, e Chang transmitiu gratidão e respeito sinceros pelo apoio das famílias. A iniciativa foi preparada para representar empregados que, por trabalharem fora do país, têm dificuldade de visitar os pais pessoalmente. O Dongkuk Steel Group também vem ampliando ações sociais, incluindo apoio com aparelhos de ar-condicionado a centros infantis locais. As atividades de cuidado com famílias de funcionários e comunidades devem fortalecer a coesão interna e o apoio regional. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Dongkuk-Steel-Vizechef sendet Hanwoo und Briefe an Eltern von Auslandsmitarbeitern",
+        "excerpt": "Chang Sae-wook, Vizevorsitzender der Dongkuk Steel Group, schickte zum Elterntag Hanwoo-Rindfleisch und handgeschriebene Briefe an die Eltern von 39 Auslandsmitarbeitern.",
+        "body": "Chang Sae-wook, Vizevorsitzender der Dongkuk Steel Group, hat zum Elterntag Hanwoo-Rindfleisch und handgeschriebene Briefe an die Eltern von im Ausland tätigen Mitarbeitern geschickt. Empfänger waren die Eltern von 39 entsandten Beschäftigten. Chang übermittelte ihnen aufrichtigen Dank und Respekt für die Unterstützung ihrer Familien. Die Aktion wurde organisiert, um im Namen von Mitarbeitern, die wegen ihres Auslandseinsatzes ihre Eltern nur schwer persönlich besuchen können, Wertschätzung auszudrücken. Dongkuk Steel Group baut zudem gesellschaftliches Engagement aus, darunter Unterstützung wie Klimaanlagen für lokale Kinderzentren. Diese Fürsorge innerhalb und außerhalb des Unternehmens dürfte Zusammenhalt und regionale Unterstützung stärken. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Dongkuk Steel envoie du Hanwoo et des lettres aux parents d’expatriés",
+        "excerpt": "Chang Sae-wook, vice-président de Dongkuk Steel Group, a envoyé du bœuf Hanwoo et des lettres manuscrites aux parents de 39 salariés à l’étranger pour la fête des Parents.",
+        "body": "Chang Sae-wook, vice-président de Dongkuk Steel Group, a marqué la fête des Parents en envoyant du bœuf Hanwoo et des lettres manuscrites aux parents de salariés expatriés. L’initiative concernait les parents de 39 collaborateurs travaillant à l’étranger, à qui Chang a exprimé une gratitude et un respect sincères pour le soutien familial. Cette démarche vise à transmettre l’attention de l’entreprise au nom d’employés qui peuvent difficilement rendre visite à leurs parents en raison de leur affectation hors du pays. Dongkuk Steel Group élargit aussi ses actions sociales, notamment avec le soutien en climatiseurs à des centres locaux pour enfants. Ces initiatives devraient renforcer la cohésion interne et l’aide aux communautés. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "نائب رئيس دونغكوك ستيل يرسل لحم هانوو ورسائل إلى آباء موظفي الخارج",
+        "excerpt": "أرسل جانغ سيه ووك، نائب رئيس مجموعة دونغكوك ستيل، لحم هانوو ورسائل بخط اليد إلى آباء 39 موظفا مقيما في الخارج بمناسبة يوم الوالدين.",
+        "body": "بمناسبة يوم الوالدين، أرسل جانغ سيه ووك، نائب رئيس مجموعة دونغكوك ستيل، لحم هانوو ورسائل بخط اليد إلى آباء الموظفين العاملين في الخارج. وشملت المبادرة آباء 39 موظفا مقيما خارج البلاد، حيث عبّر جانغ عن امتنان واحترام صادقين لدعم عائلاتهم. وجاءت الخطوة لتنقل الشركة مشاعر التقدير نيابة عن موظفين يصعب عليهم زيارة آبائهم مباشرة بسبب عملهم في الخارج. كما توسع مجموعة دونغكوك ستيل أنشطة المسؤولية الاجتماعية، بما في ذلك دعم مراكز الأطفال المحلية بمكيفات هواء. ومن المتوقع أن تضيف هذه الجهود معنى إلى رعاية عائلات الموظفين ودعم المجتمع المحلي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "डोंगकुक स्टील उपाध्यक्ष ने प्रवासी कर्मचारियों के माता-पिता को हानवू और पत्र भेजे",
+        "excerpt": "डोंगकुक स्टील ग्रुप के उपाध्यक्ष चांग से-वूक ने पैरेंट्स डे पर विदेश में तैनात 39 कर्मचारियों के माता-पिता को हानवू बीफ और हस्तलिखित पत्र भेजे।",
+        "body": "डोंगकुक स्टील ग्रुप के उपाध्यक्ष चांग से-वूक ने पैरेंट्स डे के अवसर पर विदेश में तैनात कर्मचारियों के माता-पिता को हानवू बीफ और हस्तलिखित पत्र भेजे। यह उपहार विदेश में काम कर रहे 39 प्रवासी कर्मचारियों के माता-पिता तक पहुंचाया गया। चांग ने कर्मचारियों के परिवारों के समर्थन के लिए सच्चा आभार और सम्मान व्यक्त किया। यह पहल उन कर्मचारियों की ओर से कंपनी की भावना पहुंचाने के लिए की गई जो विदेशी नियुक्ति के कारण अपने माता-पिता से सीधे मिलने में कठिनाई महसूस कर सकते हैं। डोंगकुक स्टील ग्रुप स्थानीय बाल केंद्रों को एयर कंडीशनर जैसे सहयोग सहित सामाजिक योगदान भी बढ़ा रहा है। इन गतिविधियों से कर्मचारी परिवारों की देखभाल और स्थानीय समर्थन को बल मिलने की उम्मीद है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Wakil Ketua Dongkuk Steel Kirim Hanwoo dan Surat untuk Orang Tua Ekspatriat",
+        "excerpt": "Wakil Ketua Dongkuk Steel Group Chang Sae-wook mengirim daging Hanwoo dan surat tulisan tangan kepada orang tua 39 karyawan luar negeri pada Hari Orang Tua.",
+        "body": "Wakil Ketua Dongkuk Steel Group Chang Sae-wook memperingati Hari Orang Tua dengan mengirim daging Hanwoo dan surat tulisan tangan kepada orang tua karyawan yang bertugas di luar negeri. Penerimanya adalah orang tua dari 39 ekspatriat, dan Chang menyampaikan rasa terima kasih serta hormat yang tulus atas dukungan keluarga mereka. Langkah ini disiapkan agar perusahaan dapat menyampaikan perhatian mewakili karyawan yang sulit mengunjungi orang tua secara langsung karena penugasan di luar negeri. Dongkuk Steel Group juga memperluas kontribusi sosial, termasuk dukungan seperti pendingin udara untuk pusat anak daerah. Kegiatan kepedulian ini diperkirakan memperkuat ikatan organisasi sekaligus dukungan bagi komunitas lokal. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "93a06b47f71b",
+    "slug": "lx인터내셔널-지역사회-환경개선-활동서울역-쪽방촌-찾아-플로깅-356584",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T05:12:08.909Z",
+    "updatedAt": "2026-05-08T05:12:08.909Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12041018",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12041018",
+    "titleFingerprint": "0614cd17a31964effb43189460efd2ccb22d0e1c",
+    "dedupKeys": [
+      "93a06b47f71b19e43cc22dd7349acb6e787fc0bd",
+      "0614cd17a31964effb43189460efd2ccb22d0e1c",
+      "d90e7c839c04424eec295e2b8c8d6c0096b4f96c"
+    ],
+    "imageUrl": "/images/articles/93a06b47f71b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LX인터내셔널, 서울역 쪽방촌 플로깅으로 지역사회 환경개선 나서",
+        "excerpt": "LX인터내셔널은 지난 7일 서울역 인근 동자동 쪽방촌에서 임직원 40여 명이 참여한 골목 환경개선 플로깅을 진행하며 담배꽁초와 오염 비닐 등을 수거했다.",
+        "body": "LX인터내셔널은 지난 7일 서울역 인근 동자동 쪽방촌을 찾아 ‘서울역 쪽방촌 골목 환경개선 플로깅’ 활동을 진행했다고 8일 밝혔다. 이번 행사에는 임직원 40여 명이 참여해 골목 곳곳을 걸으며 담배꽁초와 오염 비닐 등 생활 쓰레기를 수거했다. 플로깅은 걷거나 뛰면서 쓰레기를 줍는 환경보호 활동으로, 지역사회 환경 개선과 임직원 참여형 사회공헌을 함께 추진하는 방식이다. 회사는 서울역 쪽방촌 일대의 생활환경을 정비하는 데 힘을 보탰으며, 지역 주민들이 이용하는 골목의 위생 개선에도 의미를 더했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "LX International Joins Seoul Station Plogging to Improve Local Environment",
+        "excerpt": "LX International said on May 8 that about 40 employees joined a May 7 plogging activity in Dongja-dong near Seoul Station, collecting cigarette butts and contaminated vinyl waste.",
+        "body": "LX International said on May 8 that it carried out a “Seoul Station jjokbangchon alley environmental improvement plogging” activity on May 7 in Dongja-dong near Seoul Station. About 40 employees took part, walking through alleys and collecting daily waste such as cigarette butts and contaminated vinyl. Plogging is an environmental activity that combines walking or running with picking up litter, linking local environmental improvement with employee-participation social contribution. The company helped clean the living environment around the Seoul Station jjokbangchon area and added meaning to improving sanitation in alleys used by local residents. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "LXインターナショナル、ソウル駅の簡易宿所街でプロギング実施",
+        "excerpt": "LXインターナショナルは8日、7日にソウル駅近くの東子洞簡易宿所街で社員約40人が参加し、たばこの吸い殻や汚染ビニールなどを回収したと発表した。",
+        "body": "LXインターナショナルは8日、7日にソウル駅近くの東子洞簡易宿所街を訪れ、「ソウル駅簡易宿所街路地環境改善プロギング」活動を行ったと明らかにした。今回の行事には社員約40人が参加し、路地を歩きながらたばこの吸い殻や汚染ビニールなどの生活ごみを回収した。プロギングは歩いたり走ったりしながらごみを拾う環境保護活動で、地域社会の環境改善と社員参加型の社会貢献を同時に進める取り組みだ。同社はソウル駅簡易宿所街一帯の生活環境整備に力を添え、地域住民が利用する路地の衛生改善にも意義を加えた。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "LX International走进首尔站隔间村，以Plogging改善社区环境",
+        "excerpt": "LX International 8日表示，7日在首尔站附近东子洞隔间村开展巷道环境改善Plogging活动，约40名员工参与并清理烟蒂、污染塑料膜等垃圾。",
+        "body": "LX International 8日表示，公司于7日走访首尔站附近东子洞隔间村，开展“首尔站隔间村巷道环境改善Plogging”活动。本次活动约有40名员工参加，他们在巷道中行走并清理烟蒂、污染塑料膜等生活垃圾。Plogging是边走路或跑步边捡拾垃圾的环保活动，能够把社区环境改善与员工参与型社会贡献结合起来。公司此次为整治首尔站隔间村一带生活环境出力，也为改善当地居民日常使用巷道的卫生状况增添了意义。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "LX International realiza plogging en zona de cuartos de Seúl Station",
+        "excerpt": "LX International informó el 8 de mayo que unos 40 empleados participaron el día 7 en una jornada de plogging en Dongja-dong, cerca de Seúl Station, recogiendo colillas y vinilos contaminados.",
+        "body": "LX International informó el 8 de mayo que el día 7 realizó una actividad de “plogging para mejorar el entorno de los callejones de la zona de cuartos de Seúl Station” en Dongja-dong, cerca de la estación. En la jornada participaron unos 40 empleados, que caminaron por los callejones recogiendo residuos cotidianos como colillas y vinilos contaminados. El plogging es una actividad ambiental que combina caminar o correr con recoger basura, y permite vincular la mejora del entorno comunitario con la contribución social de los empleados. La compañía apoyó el ordenamiento del ambiente residencial en esa zona y aportó a la mejora de la higiene de los callejones usados por los vecinos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "LX International faz plogging em comunidade perto da Estação de Seul",
+        "excerpt": "A LX International informou em 8 de maio que cerca de 40 funcionários participaram no dia 7 de uma ação de plogging em Dongja-dong, perto da Estação de Seul, recolhendo bitucas e vinil contaminado.",
+        "body": "A LX International informou em 8 de maio que realizou no dia 7 a ação “plogging para melhoria ambiental dos becos da comunidade de quartos da Estação de Seul”, em Dongja-dong, perto da estação. Cerca de 40 funcionários participaram, caminhando pelos becos e recolhendo resíduos do cotidiano, como bitucas de cigarro e vinil contaminado. O plogging é uma atividade ambiental que combina caminhar ou correr com a coleta de lixo, unindo melhoria do ambiente local e contribuição social com participação dos empregados. A empresa ajudou a organizar o ambiente de vida da área e contribuiu para melhorar a higiene dos becos usados pelos moradores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "LX International sammelt Abfall bei Plogging nahe Seoul Station",
+        "excerpt": "LX International teilte am 8. Mai mit, dass rund 40 Beschäftigte am 7. Mai in Dongja-dong nahe Seoul Station an einer Plogging-Aktion teilnahmen und Zigarettenstummel sowie verschmutzte Folien einsammelten.",
+        "body": "LX International teilte am 8. Mai mit, dass das Unternehmen am 7. Mai in Dongja-dong nahe Seoul Station eine Plogging-Aktion zur Verbesserung der Gassenumgebung im dortigen Jjokbangchon durchgeführt hat. Rund 40 Beschäftigte beteiligten sich und sammelten beim Gehen durch die Gassen Alltagsabfälle wie Zigarettenstummel und verschmutzte Vinylfolien ein. Plogging verbindet Gehen oder Laufen mit dem Aufsammeln von Müll und dient damit zugleich dem Umweltschutz, der lokalen Verbesserung des Umfelds und einer mitarbeitergetragenen sozialen Aktivität. Das Unternehmen unterstützte die Pflege des Wohnumfelds rund um Seoul Station und trug zur Hygiene der von Anwohnern genutzten Gassen bei. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "LX International mène un plogging près de Seoul Station pour l’environnement local",
+        "excerpt": "LX International a annoncé le 8 mai qu’environ 40 employés avaient participé le 7 mai à une action de plogging à Dongja-dong, près de Seoul Station, ramassant mégots et vinyles souillés.",
+        "body": "LX International a annoncé le 8 mai avoir mené le 7 mai une action de “plogging pour améliorer l’environnement des ruelles du jjokbangchon de Seoul Station” à Dongja-dong, près de la gare. Environ 40 employés y ont participé, parcourant les ruelles pour ramasser des déchets du quotidien, notamment des mégots de cigarette et des vinyles souillés. Le plogging est une activité environnementale qui consiste à ramasser des déchets en marchant ou en courant, associant amélioration du cadre local et contribution sociale des salariés. L’entreprise a ainsi aidé à entretenir l’environnement de vie autour du jjokbangchon de Seoul Station et à améliorer l’hygiène des ruelles utilisées par les habitants. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إل إكس إنترناشيونال تنفذ بلوغينغ قرب محطة سيول لتحسين البيئة المحلية",
+        "excerpt": "أعلنت LX International في 8 مايو أن نحو 40 موظفا شاركوا في 7 مايو في نشاط بلوغينغ في دونغجا دونغ قرب محطة سيول، وجمعوا أعقاب سجائر وأكياس فينيل ملوثة.",
+        "body": "أعلنت LX International في 8 مايو أنها نفذت في 7 مايو نشاط “بلوغينغ لتحسين بيئة أزقة منطقة الغرف الصغيرة قرب محطة سيول” في دونغجا دونغ القريبة من المحطة. وشارك في الفعالية نحو 40 موظفا، ساروا في الأزقة وجمعوا نفايات يومية مثل أعقاب السجائر والفينيل الملوث. والبلوغينغ نشاط بيئي يجمع بين المشي أو الجري والتقاط النفايات، بما يربط تحسين بيئة المجتمع المحلي بالمساهمة الاجتماعية القائمة على مشاركة الموظفين. وساعدت الشركة في ترتيب البيئة المعيشية في محيط منطقة محطة سيول، وأضافت معنى إلى تحسين نظافة الأزقة التي يستخدمها السكان المحليون. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "LX International ने Seoul Station के पास प्लॉगिंग से सामुदायिक पर्यावरण सुधारा",
+        "excerpt": "LX International ने 8 मई को बताया कि 7 मई को Seoul Station के पास Dongja-dong की ज्जोकबांगचोन बस्ती में करीब 40 कर्मचारियों ने प्लॉगिंग कर सिगरेट बट और दूषित विनाइल कचरा उठाया।",
+        "body": "LX International ने 8 मई को बताया कि उसने 7 मई को Seoul Station के पास Dongja-dong की ज्जोकबांगचोन बस्ती में “Seoul Station ज्जोकबांगचोन गलियों के पर्यावरण सुधार प्लॉगिंग” गतिविधि आयोजित की। इस कार्यक्रम में करीब 40 कर्मचारियों ने भाग लिया और गलियों में चलते हुए सिगरेट बट, दूषित विनाइल और अन्य दैनिक कचरा इकट्ठा किया। प्लॉगिंग एक पर्यावरण संरक्षण गतिविधि है जिसमें चलते या दौड़ते समय कचरा उठाया जाता है, जिससे स्थानीय पर्यावरण सुधार और कर्मचारियों की भागीदारी वाली सामाजिक जिम्मेदारी साथ-साथ आगे बढ़ती है। कंपनी ने Seoul Station क्षेत्र की इस बस्ती के रहने योग्य वातावरण को व्यवस्थित करने में योगदान दिया और स्थानीय निवासियों द्वारा उपयोग की जाने वाली गलियों की स्वच्छता सुधारने में भी अर्थ जोड़ा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "LX International Gelar Plogging di Permukiman Dekat Seoul Station",
+        "excerpt": "LX International menyatakan pada 8 Mei bahwa sekitar 40 karyawan ikut plogging pada 7 Mei di Dongja-dong dekat Seoul Station, mengumpulkan puntung rokok dan vinil tercemar.",
+        "body": "LX International menyatakan pada 8 Mei bahwa perusahaan menggelar kegiatan “plogging perbaikan lingkungan gang jjokbangchon Seoul Station” pada 7 Mei di Dongja-dong, dekat Seoul Station. Sekitar 40 karyawan berpartisipasi dengan berjalan menyusuri gang dan mengumpulkan sampah harian seperti puntung rokok serta vinil tercemar. Plogging adalah kegiatan perlindungan lingkungan yang menggabungkan berjalan atau berlari dengan memungut sampah, sekaligus menghubungkan perbaikan lingkungan komunitas dengan kontribusi sosial berbasis partisipasi karyawan. Perusahaan membantu menata lingkungan hidup di area jjokbangchon sekitar Seoul Station dan memberi makna pada peningkatan kebersihan gang yang digunakan warga setempat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "66a259ba5b98",
     "slug": "kcc글라스-여주-유리공장-10년주기-용융로-보수공사-돌입-823695",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Bithumb Teken MOU Kripto dengan SSID, Anak Usaha SSI Securities Vietnam",
         "excerpt": "Bithumb mengatakan pada 7 Mei 2026 bahwa pihaknya menandatangani MOU komprehensif dengan SSID, anak usaha SSI Securities, perusahaan sekuritas terbesar Vietnam, untuk bisnis bursa aset virtual lokal.",
         "body": "Bithumb mengatakan pada 7 Mei 2026 bahwa pihaknya menandatangani nota kesepahaman komprehensif dengan SSID, anak usaha SSI Securities, perusahaan sekuritas terbesar di Vietnam, untuk bisnis bursa aset virtual lokal. Kesepakatan ini ditujukan untuk kerja sama antara Bithumb dan SSID terkait bisnis bursa aset virtual di Vietnam, dengan ruang lingkup kerja sama yang akan dijalankan melalui MOU tersebut. Foto yang dirilis memperlihatkan CEO Bithumb Lee Jae-won berjabat tangan dengan CEO SSID Nguyen Khac Hai. Karena melibatkan afiliasi perusahaan sekuritas terbesar setempat, kesepakatan ini menjadi dasar kerja sama bisnis aset virtual di Vietnam. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "b7a8075422f3",
-    "slug": "ai-과열에-동참하라머스크-앤스로픽-동맹의-뜻-빈난새의-개장전요것만-441624",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T16:23:50.877Z",
-    "updatedAt": "2026-05-07T16:23:50.877Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605072726i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605072726i",
-    "titleFingerprint": "6115641420d678523641b68a1e74bef47d2cd0f5",
-    "dedupKeys": [
-      "b7a8075422f38ac3a5f0d71a3c006adc7bc903b2",
-      "6115641420d678523641b68a1e74bef47d2cd0f5",
-      "3a2148fbfc05ba306d9a1b698a72693fa5948ba1"
-    ],
-    "imageUrl": "/images/articles/b7a8075422f3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "xAI·앤스로픽 GPU 동맹, AI 과열장 속 머스크 클라우드 전략이 주목받는 이유",
-        "excerpt": "2026년 5월 7일 미국 증시 개장 전, 앤스로픽이 xAI의 대규모 GPU 클러스터 콜로서스1을 빌리기로 하며 AI 연산 수요와 머스크의 클라우드 전략이 부각됐다.",
-        "body": "2026년 5월 7일 미국 증시 개장 전 핵심 이슈로 일론 머스크의 AI 스타트업 xAI와 앤스로픽의 연산 인프라 협력이 부각됐다. 앤스로픽은 부족한 연산 능력을 확보하기 위해 xAI의 대규모 GPU 클러스터 ‘콜로서스1’을 임차하기로 했다. 배경에는 AI 고도화에 따른 데이터·메모리·연산 수요 확대가 있다. 야데니리서치는 반도체 산업의 ‘영구적 성장’을 주장했고, ARM은 상업용 AI CPU 수요가 6주 만에 2배로 늘었다고 밝혔다. xAI는 그록 점유율이 뒤처진 상황에서 유휴 자원을 외부에 판매해 수익성을 높일 수 있다. 디인포메이션은 xAI가 사실상 클라우드 회사가 되고 있다고 평가했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "xAI-Anthropic GPU Deal Puts Musk’s Cloud Strategy in Focus Amid AI Frenzy",
-        "excerpt": "Before the U.S. market open on May 7, 2026, Anthropic agreed to lease xAI’s Colossus 1 GPU cluster, spotlighting AI compute demand and Elon Musk’s cloud strategy.",
-        "body": "Before the U.S. market open on May 7, 2026, a key issue was the infrastructure tie-up between Elon Musk’s AI startup xAI and Anthropic. Anthropic agreed to lease xAI’s large GPU cluster, Colossus 1, to secure scarce computing capacity. The backdrop is rising demand for data, memory and compute as AI advances. Yardeni Research argued that semiconductors could move into “permanent growth,” while ARM said demand for commercial AI CPUs doubled in just six weeks. For xAI, whose Grok market share lags, selling idle resources externally could improve profitability. The Information assessed that xAI is effectively becoming a cloud company. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "xAI・AnthropicのGPU提携、AI過熱の中でマスク氏のクラウド戦略に注目",
-        "excerpt": "2026年5月7日の米株式市場開場前、AnthropicがxAIの大規模GPUクラスターColossus 1を借りる方針となり、AI計算需要とマスク氏のクラウド戦略が浮上した。",
-        "body": "2026年5月7日の米株式市場開場前の焦点として、イーロン・マスク氏のAIスタートアップxAIとAnthropicの計算インフラ協力が浮上した。Anthropicは不足する計算能力を確保するため、xAIの大規模GPUクラスター「Colossus 1」を借りることにした。背景にはAIの高度化に伴うデータ、メモリー、計算需要の拡大がある。Yardeni Researchは半導体産業の「恒久的成長」を主張し、ARMは商用AI CPU需要が6週間で2倍に増えたと明らかにした。Grokの市場シェアが遅れるxAIにとって、遊休資源の外販は収益性向上につながる。The Informationは、xAIが事実上クラウド企業になりつつあると評価した。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "xAI与Anthropic GPU合作升温，AI热潮下马斯克云战略受关注",
-        "excerpt": "2026年5月7日美股开盘前，Anthropic决定租用xAI大型GPU集群Colossus 1，凸显AI算力需求与马斯克的云服务战略。",
-        "body": "2026年5月7日美股开盘前，市场关注的重点之一是埃隆·马斯克旗下AI初创公司xAI与Anthropic的算力基础设施合作。为弥补算力不足，Anthropic决定租用xAI的大型GPU集群“Colossus 1”。其背景是AI升级带来的数据、内存和计算需求扩大。Yardeni Research认为半导体产业可能进入“永久增长”，ARM也表示商用AI CPU需求在短短6周内翻倍。对Grok市场份额落后的xAI来说，向外部出售闲置资源有助于提升盈利能力。The Information评价称，xAI实际上正在成为一家云公司。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Acuerdo GPU entre xAI y Anthropic enfoca la estrategia cloud de Musk en pleno auge de IA",
-        "excerpt": "Antes de la apertura de Wall Street del 7 de mayo de 2026, Anthropic acordó alquilar el clúster GPU Colossus 1 de xAI, destacando la demanda de cómputo de IA y la estrategia cloud de Musk.",
-        "body": "Antes de la apertura del mercado estadounidense el 7 de mayo de 2026, uno de los temas clave fue la cooperación de infraestructura entre xAI, la startup de IA de Elon Musk, y Anthropic. Anthropic acordó alquilar el gran clúster de GPU de xAI, Colossus 1, para asegurar capacidad de cómputo escasa. El contexto es el aumento de la demanda de datos, memoria y procesamiento por el avance de la IA. Yardeni Research sostuvo que los semiconductores podrían entrar en un crecimiento “permanente”, y ARM dijo que la demanda de CPU comerciales para IA se duplicó en seis semanas. Para xAI, rezagada en cuota con Grok, vender recursos ociosos puede elevar la rentabilidad. The Information afirmó que xAI se está convirtiendo de hecho en una empresa cloud. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Acordo GPU xAI-Anthropic destaca estratégia de nuvem de Musk em meio à febre da IA",
-        "excerpt": "Antes da abertura dos EUA em 7 de maio de 2026, a Anthropic decidiu alugar o cluster GPU Colossus 1 da xAI, destacando a demanda por computação de IA e a estratégia de nuvem de Musk.",
-        "body": "Antes da abertura do mercado dos EUA em 7 de maio de 2026, um dos pontos centrais foi a cooperação de infraestrutura entre a xAI, startup de IA de Elon Musk, e a Anthropic. A Anthropic decidiu alugar o grande cluster de GPUs Colossus 1 da xAI para garantir capacidade de computação escassa. O pano de fundo é a expansão da demanda por dados, memória e processamento com o avanço da IA. A Yardeni Research defendeu que semicondutores podem entrar em “crescimento permanente”, enquanto a ARM disse que a demanda por CPUs comerciais de IA dobrou em seis semanas. Para a xAI, cuja participação do Grok fica atrás, vender recursos ociosos pode melhorar a rentabilidade. The Information avaliou que a xAI está se tornando, na prática, uma empresa de nuvem. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "xAI-Anthropic-GPU-Deal rückt Musks Cloud-Strategie im KI-Boom in den Fokus",
-        "excerpt": "Vor US-Börsenstart am 7. Mai 2026 will Anthropic den GPU-Cluster Colossus 1 von xAI mieten. Das lenkt den Blick auf KI-Rechenbedarf und Musks Cloud-Strategie.",
-        "body": "Vor der Eröffnung des US-Marktes am 7. Mai 2026 rückte die Infrastrukturkooperation zwischen Elon Musks KI-Startup xAI und Anthropic in den Mittelpunkt. Anthropic will den großen GPU-Cluster Colossus 1 von xAI mieten, um knappe Rechenkapazität zu sichern. Hintergrund ist die steigende Nachfrage nach Daten, Speicher und Rechenleistung durch fortschreitende KI. Yardeni Research sprach von möglichem “permanentem Wachstum” der Halbleiterbranche, während ARM meldete, dass sich die Nachfrage nach kommerziellen KI-CPUs binnen sechs Wochen verdoppelt habe. Für xAI, dessen Grok-Marktanteil zurückliegt, kann der externe Verkauf ungenutzter Ressourcen die Rentabilität verbessern. The Information bewertete xAI als Unternehmen, das faktisch zu einer Cloud-Firma wird. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Accord GPU xAI-Anthropic: la stratégie cloud de Musk s’impose dans la fièvre de l’IA",
-        "excerpt": "Avant l’ouverture américaine du 7 mai 2026, Anthropic a décidé de louer le cluster GPU Colossus 1 de xAI, mettant en avant la demande de calcul IA et la stratégie cloud de Musk.",
-        "body": "Avant l’ouverture des marchés américains le 7 mai 2026, l’un des sujets majeurs a été la coopération d’infrastructure entre xAI, la start-up d’IA d’Elon Musk, et Anthropic. Anthropic a décidé de louer le grand cluster GPU Colossus 1 de xAI afin d’obtenir une capacité de calcul insuffisante. Le contexte est la hausse de la demande en données, mémoire et puissance de calcul avec les progrès de l’IA. Yardeni Research a évoqué une “croissance permanente” des semi-conducteurs, tandis qu’ARM a indiqué que la demande de CPU IA commerciaux avait doublé en six semaines. Pour xAI, dont Grok reste en retard en part de marché, vendre des ressources inutilisées à l’extérieur peut améliorer la rentabilité. The Information estime que xAI devient de fait une société cloud. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "اتفاق GPU بين xAI وAnthropic يبرز استراتيجية ماسك السحابية وسط طفرة الذكاء الاصطناعي",
-        "excerpt": "قبل افتتاح السوق الأميركية في 7 مايو 2026، قررت Anthropic استئجار عنقود GPU الضخم Colossus 1 من xAI، ما أبرز طلب الحوسبة للذكاء الاصطناعي واستراتيجية ماسك السحابية.",
-        "body": "قبل افتتاح السوق الأميركية في 7 مايو 2026، برز تعاون البنية التحتية الحاسوبية بين شركة xAI الناشئة للذكاء الاصطناعي التابعة لإيلون ماسك وAnthropic كقضية رئيسية. وقررت Anthropic استئجار عنقود وحدات معالجة الرسوميات الضخم “Colossus 1” من xAI لتأمين قدرة حوسبة تعاني نقصا. وتأتي الخطوة مع اتساع الطلب على البيانات والذاكرة والحوسبة مع تطور الذكاء الاصطناعي. وقالت Yardeni Research إن صناعة أشباه الموصلات قد تتجه إلى “نمو دائم”، فيما أوضحت ARM أن الطلب على وحدات CPU التجارية للذكاء الاصطناعي تضاعف خلال ستة أسابيع. وبالنسبة إلى xAI، التي تتأخر حصة Grok السوقية لديها، قد يساعد بيع الموارد غير المستغلة خارجيا في تحسين الربحية. وقيّمت The Information أن xAI تتحول فعليا إلى شركة سحابية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "xAI-Anthropic GPU सौदा, AI उछाल में मस्क की क्लाउड रणनीति पर फोकस",
-        "excerpt": "7 मई 2026 को अमेरिकी बाजार खुलने से पहले Anthropic ने xAI के Colossus 1 GPU क्लस्टर को किराये पर लेने का फैसला किया, जिससे AI कंप्यूट मांग और मस्क की क्लाउड रणनीति उभरी।",
-        "body": "7 मई 2026 को अमेरिकी शेयर बाजार खुलने से पहले एलन मस्क की AI स्टार्टअप xAI और Anthropic के बीच कंप्यूट इन्फ्रास्ट्रक्चर सहयोग प्रमुख मुद्दा रहा। Anthropic ने कम पड़ती कंप्यूट क्षमता हासिल करने के लिए xAI के बड़े GPU क्लस्टर “Colossus 1” को किराये पर लेने का फैसला किया। इसकी पृष्ठभूमि AI के उन्नत होने से डेटा, मेमोरी और कंप्यूट मांग का बढ़ना है। Yardeni Research ने सेमीकंडक्टर उद्योग में “स्थायी वृद्धि” की बात कही, जबकि ARM ने बताया कि वाणिज्यिक AI CPU की मांग छह सप्ताह में दोगुनी हुई। Grok की बाजार हिस्सेदारी पीछे रहने की स्थिति में xAI निष्क्रिय संसाधन बाहर बेचकर लाभप्रदता बढ़ा सकती है। The Information ने आकलन किया कि xAI वस्तुतः क्लाउड कंपनी बन रही है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Kesepakatan GPU xAI-Anthropic Sorot Strategi Cloud Musk di Tengah Demam AI",
-        "excerpt": "Menjelang pembukaan pasar AS pada 7 Mei 2026, Anthropic sepakat menyewa klaster GPU Colossus 1 milik xAI, menyoroti kebutuhan komputasi AI dan strategi cloud Elon Musk.",
-        "body": "Menjelang pembukaan pasar saham AS pada 7 Mei 2026, kerja sama infrastruktur komputasi antara startup AI Elon Musk, xAI, dan Anthropic menjadi isu utama. Anthropic sepakat menyewa klaster GPU besar xAI, Colossus 1, untuk mengamankan kapasitas komputasi yang terbatas. Latar belakangnya adalah meningkatnya kebutuhan data, memori, dan komputasi seiring kemajuan AI. Yardeni Research menyebut industri semikonduktor dapat memasuki “pertumbuhan permanen”, sementara ARM mengatakan permintaan CPU AI komersial berlipat dua dalam enam minggu. Bagi xAI, yang pangsa pasar Grok-nya tertinggal, menjual sumber daya menganggur ke pihak luar dapat meningkatkan profitabilitas. The Information menilai xAI pada dasarnya sedang menjadi perusahaan cloud. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "84ec28801363",
-    "slug": "인구-1억-일본도-5개뿐인데-한국은-10개lcc-구조조정-막오르나-기자-24시-841926",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T16:22:34.572Z",
-    "updatedAt": "2026-05-07T16:22:34.572Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039033",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039033",
-    "titleFingerprint": "409200da4c0d44f92e8a680a044a5a28d7dd5c15",
-    "dedupKeys": [
-      "84ec288013636344bc3b7ac510beeeadd451c4d8",
-      "409200da4c0d44f92e8a680a044a5a28d7dd5c15",
-      "6af0c5a17049a3d9d7d46118e26cafe0904ff280"
-    ],
-    "imageUrl": "/images/articles/84ec28801363.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국 LCC 10개 과밀 논란, 스피릿항공 폐업 뒤 구조조정 주목",
-        "excerpt": "미국 초저가 항공사 스피릿항공이 창립 34년 만에 폐업하고 전체 항공편을 취소하면서, 한국 LCC 10개 체제의 과밀 구조와 향후 구조조정 가능성이 주목받고 있다.",
-        "body": "미국 초저가 항공사(ULCC)의 대표 사례로 꼽히던 스피릿항공이 최근 창립 34년 만에 전격 폐업하고 전체 항공편을 취소했다. 파격적인 초특가 전략으로 한때 빠르게 성장했던 항공사의 중단은 저비용 항공 시장의 구조 변화에 대한 관심을 키우고 있다. 원문은 인구 1억 명 규모의 일본에도 LCC가 5개뿐인 반면 한국에는 10개가 있다는 점을 비교하며 국내 시장의 과밀 가능성을 짚었다. 스피릿항공 사례는 한국 LCC 업계에도 수익성, 경쟁 강도, 재편 논의가 다시 부각될 수 있음을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korea’s 10 LCCs Face Scrutiny After Spirit Airlines Shutdown",
-        "excerpt": "Spirit Airlines, a leading U.S. ultra-low-cost carrier, has shut down after 34 years and canceled all flights, drawing attention to Korea’s crowded market of 10 LCCs.",
-        "body": "Spirit Airlines, long seen as a representative U.S. ultra-low-cost carrier, recently shut down abruptly after 34 years in business and canceled all flights. The collapse of an airline that once grew rapidly through aggressive ultra-low fares is drawing attention to structural changes in the low-cost airline market. The original report compares Japan, with a population of about 100 million, where there are only five LCCs, with Korea, where there are 10. The case of Spirit Airlines may bring renewed focus in Korea to profitability, competition intensity and possible restructuring among LCCs. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国LCC10社の過密論、スピリット航空廃業で再編に注目",
-        "excerpt": "米国の超格安航空会社スピリット航空が創業34年で廃業し全便を取り消したことで、韓国のLCC10社体制の過密性と再編の可能性に注目が集まっている。",
-        "body": "米国の超格安航空会社（ULCC）の代表格とされてきたスピリット航空が最近、創業34年で突然廃業し、全航空便を取り消した。大胆な超低価格戦略で一時は急成長した航空会社の停止は、低コスト航空市場の構造変化への関心を高めている。原文は、人口1億人規模の日本でもLCCは5社にとどまる一方、韓国には10社ある点を比較し、国内市場の過密可能性を指摘した。スピリット航空の事例は、韓国LCC業界でも収益性、競争の強さ、再編議論が再び浮上し得ることを示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国10家廉航过密争议升温，精神航空停业引关注",
-        "excerpt": "美国超低成本航空公司精神航空创立34年后停业并取消全部航班，使韩国10家低成本航空并存的市场过密问题与重组可能性受到关注。",
-        "body": "被视为美国超低成本航空公司（ULCC）代表的精神航空，近日在创立34年后突然停业，并取消全部航班。这家曾凭借激进超低价策略快速成长的航空公司停止运营，引发市场对低成本航空结构变化的关注。原文比较称，人口约1亿的日本也只有5家低成本航空公司，而韩国却有10家，指出韩国国内市场可能存在过密问题。精神航空案例显示，韩国LCC行业的盈利能力、竞争强度和重组讨论可能再次成为焦点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Diez LCC en Corea bajo la lupa tras el cierre de Spirit Airlines",
-        "excerpt": "Spirit Airlines, aerolínea estadounidense de ultrabajo costo, cerró tras 34 años y canceló todos sus vuelos, aumentando la atención sobre el saturado mercado coreano con 10 LCC.",
-        "body": "Spirit Airlines, considerada un referente de las aerolíneas estadounidenses de ultrabajo costo (ULCC), cerró recientemente de forma abrupta tras 34 años de operación y canceló todos sus vuelos. La salida de una compañía que en su momento creció con rapidez gracias a tarifas extremadamente bajas eleva el interés por los cambios estructurales en el mercado de bajo costo. El informe original compara a Japón, con unos 100 millones de habitantes y solo cinco LCC, con Corea, donde hay 10. El caso de Spirit Airlines puede reactivar en Corea el debate sobre rentabilidad, intensidad competitiva y posible reestructuración del sector LCC. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Coreia tem 10 LCCs sob pressão após fechamento da Spirit Airlines",
-        "excerpt": "A Spirit Airlines, companhia aérea ultralow cost dos EUA, fechou após 34 anos e cancelou todos os voos, destacando a possível saturação do mercado coreano com 10 LCCs.",
-        "body": "A Spirit Airlines, considerada um símbolo das companhias aéreas ultralow cost (ULCC) dos Estados Unidos, encerrou recentemente suas atividades de forma repentina após 34 anos e cancelou todos os voos. A paralisação de uma empresa que chegou a crescer rapidamente com uma estratégia agressiva de tarifas ultrabaixas aumenta a atenção sobre mudanças estruturais no mercado de baixo custo. A reportagem original compara o Japão, com cerca de 100 milhões de habitantes e apenas cinco LCCs, com a Coreia, onde há 10. O caso da Spirit Airlines pode recolocar em foco, na Coreia, rentabilidade, intensidade da concorrência e possível reestruturação das LCCs. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Koreas 10 Billigflieger im Fokus nach Aus von Spirit Airlines",
-        "excerpt": "Spirit Airlines, ein US-Ultrabiligflieger, hat nach 34 Jahren den Betrieb eingestellt und alle Flüge gestrichen. Damit rückt Koreas dichter Markt mit 10 LCCs in den Blick.",
-        "body": "Spirit Airlines, lange als typisches Beispiel für einen US-Ultrabiligflieger (ULCC) gesehen, hat kürzlich nach 34 Jahren überraschend den Betrieb eingestellt und alle Flüge gestrichen. Das Ende einer Airline, die einst mit extrem niedrigen Preisen schnell wuchs, lenkt den Blick auf strukturelle Veränderungen im Billigflugmarkt. Der Originalbericht vergleicht Japan mit rund 100 Millionen Einwohnern und nur fünf LCCs mit Korea, wo es 10 gibt. Der Fall Spirit Airlines könnte in Korea erneut Fragen zu Rentabilität, Wettbewerbsdruck und einer möglichen Neuordnung der LCC-Branche aufwerfen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les 10 LCC coréennes sous surveillance après l’arrêt de Spirit Airlines",
-        "excerpt": "Spirit Airlines, compagnie américaine à très bas coûts, a cessé ses activités après 34 ans et annulé tous ses vols, attirant l’attention sur le marché coréen et ses 10 LCC.",
-        "body": "Spirit Airlines, considérée comme une référence américaine des compagnies à très bas coûts (ULCC), a récemment cessé brutalement ses activités après 34 ans et annulé tous ses vols. L’arrêt d’une compagnie qui avait autrefois connu une croissance rapide grâce à des tarifs extrêmement bas renforce l’intérêt pour les changements structurels du marché low cost. L’article d’origine compare le Japon, pays d’environ 100 millions d’habitants qui ne compte que cinq LCC, à la Corée, où il y en a 10. Le cas Spirit Airlines pourrait remettre en avant en Corée les questions de rentabilité, d’intensité concurrentielle et de possible restructuration du secteur LCC. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "عشر شركات طيران منخفضة التكلفة في كوريا تحت المجهر بعد إغلاق سبيريت",
-        "excerpt": "أغلقت سبيريت إيرلاينز، شركة الطيران الأميركية فائقة الانخفاض في التكلفة، بعد 34 عاما وألغت جميع رحلاتها، ما سلط الضوء على سوق كوريا الذي يضم 10 شركات منخفضة التكلفة.",
-        "body": "أغلقت سبيريت إيرلاينز، التي كانت تعد من أبرز نماذج شركات الطيران الأميركية فائقة الانخفاض في التكلفة، أعمالها مؤخرا بشكل مفاجئ بعد 34 عاما وألغت جميع رحلاتها. توقف شركة نمت سابقا بسرعة عبر استراتيجية أسعار شديدة الانخفاض زاد الاهتمام بالتغيرات الهيكلية في سوق الطيران منخفض التكلفة. ويقارن التقرير الأصلي بين اليابان، التي يبلغ عدد سكانها نحو 100 مليون نسمة ولا تضم سوى خمس شركات منخفضة التكلفة، وكوريا التي تضم 10 شركات. وقد يعيد مثال سبيريت إيرلاينز التركيز في كوريا على الربحية وشدة المنافسة واحتمال إعادة هيكلة قطاع LCC. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "स्पिरिट एयरलाइंस बंद होने के बाद कोरिया की 10 LCC पर सवाल",
-        "excerpt": "अमेरिकी अल्ट्रा-लो-कॉस्ट एयरलाइन स्पिरिट एयरलाइंस 34 साल बाद बंद हो गई और सभी उड़ानें रद्द कीं, जिससे कोरिया के 10 LCC वाले भीड़भाड़ बाजार पर ध्यान गया है।",
-        "body": "अमेरिकी अल्ट्रा-लो-कॉस्ट कैरियर (ULCC) की प्रमुख मिसाल मानी जाने वाली स्पिरिट एयरलाइंस ने हाल ही में स्थापना के 34 साल बाद अचानक कारोबार बंद कर दिया और सभी उड़ानें रद्द कर दीं। बेहद कम किराए की रणनीति से कभी तेज बढ़ी एयरलाइन का रुकना कम लागत वाले विमानन बाजार की संरचनात्मक बदलाओं पर ध्यान बढ़ा रहा है। मूल रिपोर्ट में तुलना की गई कि करीब 10 करोड़ आबादी वाले जापान में भी केवल 5 LCC हैं, जबकि कोरिया में 10 हैं। स्पिरिट एयरलाइंस का मामला कोरियाई LCC उद्योग में लाभप्रदता, प्रतिस्पर्धा की तीव्रता और संभावित पुनर्गठन की चर्चा को फिर उभार सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Korea Punya 10 LCC, Penutupan Spirit Airlines Picu Sorotan",
-        "excerpt": "Spirit Airlines, maskapai ultra-low-cost AS, tutup setelah 34 tahun dan membatalkan semua penerbangan, membuat pasar Korea yang memiliki 10 LCC kembali disorot.",
-        "body": "Spirit Airlines, yang dikenal sebagai salah satu contoh utama maskapai ultra-low-cost (ULCC) di Amerika Serikat, baru-baru ini menutup operasi secara mendadak setelah 34 tahun dan membatalkan seluruh penerbangan. Berhentinya maskapai yang pernah tumbuh cepat lewat strategi tarif sangat murah ini meningkatkan perhatian terhadap perubahan struktur pasar penerbangan berbiaya rendah. Laporan asli membandingkan Jepang, dengan populasi sekitar 100 juta orang dan hanya lima LCC, dengan Korea yang memiliki 10 LCC. Kasus Spirit Airlines dapat kembali menyoroti profitabilitas, ketatnya persaingan, dan kemungkinan restrukturisasi industri LCC di Korea. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7d6fee66a4b2",
-    "slug": "ai-수익화-시험대-카카오정신아-대화에서-결제까지-가능해진다-413694",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T16:21:32.331Z",
-    "updatedAt": "2026-05-07T16:21:32.331Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039043",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039043",
-    "titleFingerprint": "b17f45a157da1dc8cea2d1d7f27d284dccfba2c5",
-    "dedupKeys": [
-      "7d6fee66a4b2bd2949e1fd8ce025a7eaaa1c7ffc",
-      "b17f45a157da1dc8cea2d1d7f27d284dccfba2c5",
-      "da0b60205a9d7f5fbd8fc9ee91bc71daeecff841"
-    ],
-    "imageUrl": "/images/articles/7d6fee66a4b2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "카카오 AI 수익화 시험대, 챗GPT 포 카카오 1100만명 돌파",
-        "excerpt": "카카오와 오픈AI가 협업한 AI 서비스 ‘챗GPT 포 카카오’ 누적 가입자가 1100만명을 넘어서며, 카카오는 연내 대화·검색에서 예약·결제까지 이어지는 서비스 확장을 예고했다.",
-        "body": "카카오와 오픈AI의 협업으로 나온 인공지능(AI) 서비스 ‘챗GPT 포 카카오’가 누적 가입자 1100만명을 돌파했다. 카카오는 올해 안에 이용자가 대화와 검색을 거쳐 예약과 결제까지 이어갈 수 있는 기능을 선보일 계획이다. 정신아 카카오 대표는 대화에서 결제까지 가능해지는 흐름을 언급하며 AI 서비스의 실사용 확대를 강조했다. 이번 성과는 카카오가 AI를 이용자 접점과 수익화 모델로 연결할 수 있는지를 가늠하는 시험대로 평가된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kakao AI Monetization Test: ChatGPT for Kakao Tops 11 Million Users",
-        "excerpt": "Kakao’s AI service ChatGPT for Kakao, created with OpenAI, has surpassed 11 million cumulative users as the company plans to link chat and search to reservations and payments this year.",
-        "body": "ChatGPT for Kakao, an artificial intelligence service developed through cooperation between Kakao and OpenAI, has surpassed 11 million cumulative subscribers. Kakao plans to introduce features within this year that allow users to move from conversation and search to reservations and payments. Kakao CEO Shina Chung highlighted the shift toward enabling payments directly from conversations, emphasizing broader real-world use of AI services. The milestone is being viewed as a test of whether Kakao can connect AI with user touchpoints and monetization. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "カカオAI収益化の試金石、ChatGPT for Kakaoが1100万人突破",
-        "excerpt": "カカオとOpenAIが協業したAIサービス「ChatGPT for Kakao」の累計加入者が1100万人を超え、年内に会話・検索から予約・決済へつなぐ拡張を予告した。",
-        "body": "カカオとOpenAIの協業で生まれた人工知能（AI）サービス「ChatGPT for Kakao」の累計加入者数が1100万人を突破した。カカオは年内に、利用者が会話や検索を経て予約、決済まで進められる機能を提供する計画だ。カカオのチョン・シナ代表は、会話から決済まで可能になる流れに言及し、AIサービスの実利用拡大を強調した。今回の成果は、カカオがAIを利用者接点と収益化モデルにつなげられるかを測る試金石とみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Kakao AI商业化迎考验，ChatGPT for Kakao用户破1100万",
-        "excerpt": "Kakao与OpenAI合作推出的AI服务ChatGPT for Kakao累计用户已突破1100万，Kakao计划年内把对话、搜索延伸至预约和支付。",
-        "body": "Kakao与OpenAI合作推出的人工智能服务“ChatGPT for Kakao”累计加入用户已突破1100万。Kakao计划在今年内推出相关功能，使用户能够从对话和搜索进一步完成预约与支付。Kakao代表郑信娥提到，从对话到支付将成为可能，并强调AI服务实际使用场景的扩大。这一成果被视为Kakao能否把AI与用户触点及商业化模式连接起来的重要考验。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kakao pone a prueba la monetización de IA: ChatGPT for Kakao supera 11 millones",
-        "excerpt": "El servicio de IA ChatGPT for Kakao, creado por Kakao y OpenAI, superó los 11 millones de usuarios acumulados mientras la empresa prepara reservas y pagos desde chat y búsqueda este año.",
-        "body": "ChatGPT for Kakao, el servicio de inteligencia artificial desarrollado mediante la colaboración entre Kakao y OpenAI, superó los 11 millones de suscriptores acumulados. Kakao prevé lanzar este año funciones que permitan a los usuarios pasar de la conversación y la búsqueda a reservas y pagos. La directora ejecutiva de Kakao, Shina Chung, señaló el avance hacia pagos posibles desde la conversación y subrayó la expansión del uso práctico de la IA. El resultado se considera una prueba de si Kakao puede conectar la IA con los puntos de contacto del usuario y la monetización. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kakao testa monetização de IA: ChatGPT for Kakao passa de 11 milhões",
-        "excerpt": "O ChatGPT for Kakao, serviço de IA criado por Kakao e OpenAI, superou 11 milhões de usuários acumulados, enquanto a empresa planeja ligar conversa e busca a reservas e pagamentos ainda este ano.",
-        "body": "O ChatGPT for Kakao, serviço de inteligência artificial criado pela colaboração entre Kakao e OpenAI, ultrapassou 11 milhões de assinantes acumulados. A Kakao planeja lançar ainda este ano recursos que permitam aos usuários avançar de conversas e buscas para reservas e pagamentos. A CEO da Kakao, Shina Chung, mencionou o movimento em que pagamentos se tornam possíveis a partir da conversa e destacou a ampliação do uso real de serviços de IA. O marco é visto como um teste para saber se a Kakao conseguirá conectar IA, pontos de contato com usuários e monetização. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kakao testet KI-Monetarisierung: ChatGPT for Kakao über 11 Millionen Nutzer",
-        "excerpt": "Der gemeinsam mit OpenAI entwickelte KI-Dienst ChatGPT for Kakao hat mehr als 11 Millionen kumulierte Nutzer erreicht; Kakao will Chat und Suche noch dieses Jahr mit Reservierung und Zahlung verbinden.",
-        "body": "ChatGPT for Kakao, ein durch die Zusammenarbeit von Kakao und OpenAI entstandener Dienst für künstliche Intelligenz, hat mehr als 11 Millionen kumulierte Abonnenten erreicht. Kakao plant, noch in diesem Jahr Funktionen einzuführen, mit denen Nutzer von Gesprächen und Suche bis zu Reservierungen und Zahlungen gelangen können. Kakao-Chefin Shina Chung verwies auf den Trend, Zahlungen direkt aus Gesprächen heraus zu ermöglichen, und betonte die Ausweitung praktischer KI-Nutzung. Der Erfolg gilt als Test, ob Kakao KI mit Nutzerkontaktpunkten und Monetarisierung verbinden kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Kakao teste la monétisation de l’IA: ChatGPT for Kakao dépasse 11 millions",
-        "excerpt": "Le service d’IA ChatGPT for Kakao, né de la coopération entre Kakao et OpenAI, a dépassé 11 millions d’utilisateurs cumulés, alors que Kakao prévoit de relier conversation, recherche, réservation et paiement cette année.",
-        "body": "ChatGPT for Kakao, service d’intelligence artificielle issu de la collaboration entre Kakao et OpenAI, a dépassé 11 millions d’abonnés cumulés. Kakao prévoit de lancer cette année des fonctions permettant aux utilisateurs de passer de la conversation et de la recherche à la réservation puis au paiement. Shina Chung, directrice générale de Kakao, a évoqué la possibilité d’effectuer des paiements depuis la conversation et souligné l’élargissement de l’usage concret des services d’IA. Cette étape est considérée comme un test de la capacité de Kakao à relier l’IA aux points de contact utilisateurs et à la monétisation. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كاكاو تختبر تحقيق إيرادات الذكاء الاصطناعي مع تجاوز ChatGPT for Kakao 11 مليون مستخدم",
-        "excerpt": "تجاوزت خدمة الذكاء الاصطناعي ChatGPT for Kakao، الناتجة عن تعاون كاكاو وOpenAI، 11 مليون مشترك تراكمي، مع خطة لربط المحادثة والبحث بالحجز والدفع هذا العام.",
-        "body": "تجاوزت خدمة الذكاء الاصطناعي “ChatGPT for Kakao”، التي جاءت ثمرة تعاون بين كاكاو وOpenAI، حاجز 11 مليون مشترك تراكمي. وتخطط كاكاو خلال هذا العام لإطلاق وظائف تتيح للمستخدم الانتقال من المحادثة والبحث إلى الحجز والدفع. وأشارت شينا تشونغ، الرئيسة التنفيذية لكاكاو، إلى مسار تصبح فيه المدفوعات ممكنة من داخل المحادثة، مؤكدة توسيع الاستخدام العملي لخدمات الذكاء الاصطناعي. ويُنظر إلى هذا الإنجاز كاختبار لقدرة كاكاو على ربط الذكاء الاصطناعي بنقاط تواصل المستخدمين ونموذج تحقيق الإيرادات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Kakao की AI कमाई की परीक्षा, ChatGPT for Kakao 1.1 करोड़ उपयोगकर्ताओं के पार",
-        "excerpt": "Kakao और OpenAI के सहयोग से बनी AI सेवा ChatGPT for Kakao के कुल सदस्य 1.1 करोड़ से अधिक हो गए हैं, और कंपनी इस साल बातचीत व खोज को予約 और भुगतान से जोड़ने की तैयारी में है।",
-        "body": "Kakao और OpenAI के सहयोग से तैयार कृत्रिम बुद्धिमत्ता सेवा “ChatGPT for Kakao” के कुल सदस्य 1.1 करोड़ से अधिक हो गए हैं। Kakao इस वर्ष ऐसे फीचर पेश करने की योजना बना रही है जिनसे उपयोगकर्ता बातचीत और खोज से आगे बढ़कर 예약 और भुगतान तक पहुंच सकेंगे। Kakao की सीईओ Shina Chung ने बातचीत से भुगतान तक संभव होने की दिशा का उल्लेख किया और AI सेवाओं के वास्तविक उपयोग के विस्तार पर जोर दिया। यह उपलब्धि इस बात की परीक्षा मानी जा रही है कि Kakao AI को उपयोगकर्ता संपर्क बिंदुओं और कमाई के मॉडल से जोड़ सकती है या नहीं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Uji Monetisasi AI Kakao: ChatGPT for Kakao Tembus 11 Juta Pengguna",
-        "excerpt": "Layanan AI ChatGPT for Kakao hasil kolaborasi Kakao dan OpenAI melampaui 11 juta pengguna kumulatif, sementara Kakao menyiapkan alur dari percakapan dan pencarian ke reservasi serta pembayaran tahun ini.",
-        "body": "ChatGPT for Kakao, layanan kecerdasan buatan hasil kolaborasi Kakao dan OpenAI, telah melampaui 11 juta pelanggan kumulatif. Kakao berencana menghadirkan fitur pada tahun ini yang memungkinkan pengguna bergerak dari percakapan dan pencarian menuju reservasi dan pembayaran. CEO Kakao Shina Chung menyinggung arah di mana pembayaran dapat dilakukan dari percakapan, sekaligus menekankan perluasan penggunaan nyata layanan AI. Capaian ini dipandang sebagai ujian apakah Kakao dapat menghubungkan AI dengan titik kontak pengguna dan model monetisasi. Sumber: mk.co.kr"
       }
     }
   }
