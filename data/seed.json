@@ -1,5 +1,230 @@
 [
   {
+    "id": "73a788192488",
+    "slug": "코스피-종목-절반-전쟁-전-주가-회복-못해-131670",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T10:49:25.573Z",
+    "updatedAt": "2026-05-08T10:49:25.573Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050848721",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050848721",
+    "titleFingerprint": "97d5d7f55f14133eb86ac2807fc71053dbe19744",
+    "dedupKeys": [
+      "73a78819248858e57c2eb03b689344314040c0a5",
+      "97d5d7f55f14133eb86ac2807fc71053dbe19744",
+      "e64665289da6c159e711ebe7acf86d6583a23362"
+    ],
+    "imageUrl": "/images/articles/73a788192488.png",
+    "i18n": {
+      "ko": {
+        "title": "코스피 종목 절반, 전쟁 전 주가 회복 실패…시장 반등 속 온도차",
+        "excerpt": "hankyung.com에 따르면 코스피 상장 종목의 절반가량이 전쟁 이전 주가를 회복하지 못한 것으로 전해지며 국내 증시 반등의 종목별 격차가 부각됐다.",
+        "body": "코스피 상장 종목 가운데 절반가량이 전쟁 이전 주가 수준을 회복하지 못한 것으로 전해졌다. hankyung.com 보도에 따르면 지수나 일부 종목의 움직임과 별개로, 유가증권시장 내부에서는 전쟁 전 가격을 되찾은 종목과 그렇지 못한 종목이 갈리는 모습이다. 이번 내용은 국내 증시가 회복 국면에 있더라도 모든 종목이 같은 속도로 반등하지는 않았다는 점을 보여준다. 다만 제시된 원문 정보에는 전쟁의 구체적 명칭, 조사 기준일, 개별 종목명, 회복률 등 세부 수치는 포함되지 않았다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Half of KOSPI Stocks Still Below Pre-War Prices, Highlighting Uneven Recovery",
+        "excerpt": "According to hankyung.com, about half of KOSPI-listed stocks have not recovered their pre-war share prices, underscoring a widening gap within South Korea’s market rebound.",
+        "body": "About half of the stocks listed on the KOSPI have reportedly failed to recover to their pre-war price levels. According to hankyung.com, the broader equity market shows a split between stocks that have regained pre-war prices and those that have not, regardless of moves in the index or selected names. The report highlights that even if the domestic stock market is in a recovery phase, individual stocks are not rebounding at the same pace. The provided source information does not include the specific war, survey date, company names, or detailed recovery figures. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPI銘柄の半数、戦争前株価を回復できず…市場反発に温度差",
+        "excerpt": "hankyung.comによると、KOSPI上場銘柄の約半数が戦争前の株価を回復しておらず、韓国株市場の反発に銘柄間の格差があることが浮き彫りになった。",
+        "body": "KOSPI上場銘柄のうち約半数が、戦争前の株価水準を回復できていないと伝えられた。hankyung.comの報道によると、指数や一部銘柄の動きとは別に、有価証券市場の内部では戦争前の価格を取り戻した銘柄と、そうでない銘柄に分かれている。今回の内容は、韓国株市場が回復局面にあっても、すべての銘柄が同じ速度で反発しているわけではないことを示す。提示された原文情報には、戦争の具体名、調査基準日、個別銘柄名、回復率などの詳細数値は含まれていない。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSPI半数股票未恢复战前股价，市场反弹呈现明显分化",
+        "excerpt": "据hankyung.com报道，约半数KOSPI上市股票尚未恢复至战前股价水平，显示韩国股市即便出现反弹，个股之间的恢复差距仍然突出。",
+        "body": "据报道，KOSPI上市股票中约有一半尚未恢复到战前股价水平。hankyung.com称，除指数或部分个股走势外，韩国有价证券市场内部出现分化，一些股票已收复战前价格，另一些则仍未恢复。该消息显示，即使韩国股市处于恢复阶段，并非所有股票都以相同速度反弹。不过，所提供的原文信息未包含具体战争名称、调查基准日、个别股票名称或恢复率等详细数据。来源: hankyung.com"
+      },
+      "es": {
+        "title": "La mitad de las acciones del KOSPI no recupera precios previos a la guerra",
+        "excerpt": "Según hankyung.com, cerca de la mitad de las acciones que cotizan en el KOSPI aún no ha recuperado sus precios previos a la guerra, lo que revela una recuperación desigual.",
+        "body": "Cerca de la mitad de las acciones listadas en el KOSPI no habría recuperado aún los niveles de precio previos a la guerra. Según hankyung.com, más allá del movimiento del índice o de algunos valores concretos, dentro del mercado bursátil surcoreano se observa una división entre acciones que recuperaron esos precios y otras que no. El dato muestra que, aunque el mercado doméstico esté en fase de recuperación, no todos los valores rebotan al mismo ritmo. La información original proporcionada no incluye el nombre específico de la guerra, la fecha de referencia, los valores individuales ni tasas detalladas de recuperación. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Metade das ações do KOSPI ainda não voltou aos preços de antes da guerra",
+        "excerpt": "Segundo o hankyung.com, cerca de metade das ações listadas no KOSPI não recuperou os preços anteriores à guerra, evidenciando uma retomada desigual no mercado sul-coreano.",
+        "body": "Cerca de metade das ações listadas no KOSPI ainda não teria recuperado os níveis de preço anteriores à guerra. Segundo o hankyung.com, independentemente do movimento do índice ou de alguns papéis específicos, o mercado acionário sul-coreano mostra uma divisão entre ações que retomaram os preços de antes da guerra e aquelas que não conseguiram. A informação indica que, mesmo em uma fase de recuperação da bolsa doméstica, nem todos os papéis avançam no mesmo ritmo. Os dados originais fornecidos não incluem o nome específico da guerra, a data de referência, nomes de ações ou percentuais detalhados de recuperação. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Hälfte der KOSPI-Aktien bleibt unter Vorkriegsniveau, Erholung uneinheitlich",
+        "excerpt": "Laut hankyung.com hat etwa die Hälfte der im KOSPI gelisteten Aktien ihre Kurse von vor dem Krieg noch nicht wieder erreicht, was eine ungleiche Markterholung zeigt.",
+        "body": "Etwa die Hälfte der im KOSPI gelisteten Aktien hat Berichten zufolge das Kursniveau von vor dem Krieg noch nicht wieder erreicht. Laut hankyung.com zeigt sich innerhalb des südkoreanischen Aktienmarktes, unabhängig von Indexbewegungen oder einzelnen Titeln, eine Trennung zwischen Aktien, die ihre Vorkriegskurse zurückgewonnen haben, und solchen, denen dies nicht gelungen ist. Die Meldung verdeutlicht, dass sich nicht alle Werte im gleichen Tempo erholen, selbst wenn der heimische Markt in einer Erholungsphase ist. Die bereitgestellten Ausgangsinformationen enthalten keinen konkreten Kriegsnamen, Stichtag, Einzeltitel oder detaillierte Erholungsquoten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "La moitié des actions du KOSPI reste sous les cours d’avant-guerre",
+        "excerpt": "Selon hankyung.com, près de la moitié des actions cotées au KOSPI n’a pas retrouvé ses cours d’avant-guerre, soulignant une reprise inégale du marché sud-coréen.",
+        "body": "Près de la moitié des actions cotées au KOSPI n’aurait toujours pas retrouvé son niveau de prix d’avant-guerre. Selon hankyung.com, au-delà des mouvements de l’indice ou de certains titres, le marché actions sud-coréen se divise entre les valeurs qui ont regagné leurs prix d’avant-guerre et celles qui restent en retrait. Cette information montre que, même si le marché domestique se trouve dans une phase de reprise, tous les titres ne rebondissent pas au même rythme. Les informations fournies dans le texte source ne précisent pas le conflit concerné, la date de référence, les noms de sociétés ni les taux détaillés de reprise. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "نصف أسهم كوسبي دون أسعار ما قبل الحرب، ما يكشف تفاوت التعافي",
+        "excerpt": "بحسب hankyung.com، لم تستعد نحو نصف الأسهم المدرجة في مؤشر كوسبي أسعارها السابقة للحرب، ما يبرز تفاوتا واضحا في تعافي سوق الأسهم الكورية الجنوبية.",
+        "body": "أفادت التقارير بأن نحو نصف الأسهم المدرجة في مؤشر كوسبي لم تستعد بعد مستويات أسعارها التي كانت سائدة قبل الحرب. ووفقا لـ hankyung.com، وبصرف النظر عن حركة المؤشر أو بعض الأسهم المحددة، يظهر داخل سوق الأسهم الكورية الجنوبية انقسام بين أسهم استعادت أسعار ما قبل الحرب وأخرى لم تفعل ذلك. وتوضح هذه المعلومة أن السوق المحلية، حتى إن كانت في مرحلة تعاف، لا تشهد ارتدادا بالوتيرة نفسها في جميع الأسهم. ولا تتضمن معلومات النص الأصلي المقدمة اسم الحرب المحدد أو تاريخ القياس أو أسماء الأسهم أو نسب التعافي التفصيلية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI के आधे शेयर युद्ध-पूर्व भाव तक नहीं लौटे, रिकवरी में असमानता",
+        "excerpt": "hankyung.com के अनुसार, KOSPI में सूचीबद्ध करीब आधे शेयर युद्ध से पहले के भाव तक नहीं लौट पाए हैं, जिससे दक्षिण कोरियाई बाजार की रिकवरी में अंतर दिखता है।",
+        "body": "KOSPI में सूचीबद्ध करीब आधे शेयरों के बारे में बताया गया है कि वे अब भी युद्ध से पहले के मूल्य स्तर तक नहीं लौट पाए हैं। hankyung.com के अनुसार, सूचकांक या कुछ चुनिंदा शेयरों की चाल से अलग, दक्षिण कोरिया के शेयर बाजार के भीतर ऐसे शेयरों के बीच अंतर दिख रहा है जिन्होंने युद्ध-पूर्व भाव वापस पा लिए और ऐसे शेयरों के बीच जिन्होंने ऐसा नहीं किया। यह जानकारी दिखाती है कि घरेलू बाजार में रिकवरी होने पर भी सभी शेयर समान गति से नहीं उबर रहे। उपलब्ध मूल जानकारी में युद्ध का विशिष्ट नाम, आकलन की तारीख, व्यक्तिगत शेयरों के नाम या विस्तृत रिकवरी दरें शामिल नहीं हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Separuh Saham KOSPI Belum Pulih ke Harga Pra-Perang, Rebound Tidak Merata",
+        "excerpt": "Menurut hankyung.com, sekitar separuh saham yang tercatat di KOSPI belum kembali ke harga sebelum perang, menyoroti pemulihan pasar saham Korea Selatan yang tidak merata.",
+        "body": "Sekitar separuh saham yang tercatat di KOSPI dilaporkan belum pulih ke level harga sebelum perang. Menurut hankyung.com, terlepas dari pergerakan indeks atau beberapa saham tertentu, pasar saham Korea Selatan menunjukkan pemisahan antara saham yang sudah kembali ke harga pra-perang dan saham yang belum. Informasi ini menunjukkan bahwa meski pasar domestik berada dalam fase pemulihan, tidak semua saham bergerak naik dengan kecepatan yang sama. Informasi sumber yang diberikan tidak mencantumkan nama perang secara spesifik, tanggal acuan, nama saham individual, atau angka rinci tingkat pemulihan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "a7c216150307",
+    "slug": "동국씨엠-럭스틸-건축사협회-우수건축자재-재인증-업계-유일-272339",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T10:48:19.429Z",
+    "updatedAt": "2026-05-08T10:48:19.429Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12041185",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12041185",
+    "titleFingerprint": "d5bcd8f7f881e74552be7393f57267cea5a8a905",
+    "dedupKeys": [
+      "a7c216150307c180882ab9509d3ebbbcbbb7effd",
+      "d5bcd8f7f881e74552be7393f57267cea5a8a905",
+      "46624858e2e89add034b6772300ef1c7f6325628"
+    ],
+    "imageUrl": "/images/articles/a7c216150307.png",
+    "i18n": {
+      "ko": {
+        "title": "동국씨엠 럭스틸, 건축사협회 우수건축자재 2회 연속 재인증",
+        "excerpt": "동국씨엠의 컬러강판 브랜드 럭스틸이 2023년에 이어 대한건축사협회 우수건축자재로 재인증되며 업계 유일 추천 자재 지위를 이어갔다.",
+        "body": "동국씨엠의 프리미엄 컬러강판 브랜드 ‘럭스틸’이 대한건축사협회 우수건축자재로 재인증됐다. 2023년에 이어 2회 연속 선정된 것으로, 컬러강판 업계에서 유일하게 추천 자재로 이름을 올렸다. 럭스틸은 친환경성과 불연 성능, 디자인 자유도에서 좋은 평가를 받으며 완성형 마감재로 인정받았다. 회사는 빌딩솔루션센터를 통해 설계 단계부터 시공까지 원스톱 솔루션을 제공하고 있다. 이번 재인증은 건축 외장·내장 마감재 시장에서 럭스틸의 신뢰도와 활용 가능성을 다시 확인한 사례로 볼 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Dongkuk CM’s Luxteel Wins Architects’ Excellent Building Material Recertification",
+        "excerpt": "Dongkuk CM’s color steel sheet brand Luxteel was recertified as an Excellent Building Material by the Korea Institute of Registered Architects, keeping its sole recommended status in the sector.",
+        "body": "Dongkuk CM’s premium color steel sheet brand “Luxteel” has been recertified as an Excellent Building Material by the Korea Institute of Registered Architects. Following its 2023 selection, this marks the second consecutive recognition, and Luxteel remains the only recommended material in the color steel sheet industry. The product received strong reviews for eco-friendliness, non-combustible performance and design flexibility, gaining recognition as a finished interior and exterior material. The company also provides a one-stop solution from design to construction through its Building Solution Center. The recertification confirms Luxteel’s reliability and usability in the architectural finishing materials market. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "東国CMのラックスティール、建築士協会優秀建築資材に2回連続再認証",
+        "excerpt": "東国CMのカラー鋼板ブランド「ラックスティール」が2023年に続き、大韓建築士協会の優秀建築資材に再認証され、業界唯一の推薦資材の地位を維持した。",
+        "body": "東国CMのプレミアムカラー鋼板ブランド「ラックスティール」が、大韓建築士協会の優秀建築資材に再認証された。2023年に続く2回連続の選定で、カラー鋼板業界では唯一の推薦資材として名を連ねた。ラックスティールは環境配慮性、不燃性能、デザインの自由度で高い評価を受け、完成型仕上げ材として認められた。同社はビルディングソリューションセンターを通じ、設計段階から施工までワンストップソリューションを提供している。今回の再認証は、建築仕上げ材市場における信頼性と活用可能性を改めて示すものだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "东国CM Luxteel再获建筑师协会优秀建材认证，连续两届入选",
+        "excerpt": "东国CM彩钢板品牌Luxteel继2023年后再次获得大韩建筑师协会优秀建筑材料认证，延续其在彩钢板行业唯一推荐材料地位。",
+        "body": "东国CM旗下高端彩钢板品牌“Luxteel”再次获得大韩建筑师协会优秀建筑材料认证。这是其继2023年后连续第二次入选，也是彩钢板行业中唯一被列为推荐材料的产品。Luxteel因环保性、不燃性能以及设计自由度获得好评，并被认可为完成型饰面材料。公司通过Building Solution Center提供从设计阶段到施工的一站式解决方案。此次再认证再次确认了Luxteel在建筑内外饰面材料市场中的可靠性与应用可能性。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Luxteel de Dongkuk CM recibe recertificación como material destacado de arquitectura",
+        "excerpt": "Luxteel, marca de lámina de acero prelacado de Dongkuk CM, fue recertificada por la asociación coreana de arquitectos tras su selección de 2023 y mantiene un estatus único en el sector.",
+        "body": "La marca prémium de lámina de acero prelacado de Dongkuk CM, “Luxteel”, fue recertificada como Material de Construcción Excelente por la asociación coreana de arquitectos. Tras haber sido seleccionada en 2023, suma su segunda designación consecutiva y sigue siendo el único material recomendado en la industria de láminas de acero prelacado. Luxteel recibió valoraciones positivas por su carácter ecológico, desempeño no combustible y libertad de diseño, y fue reconocido como material de acabado terminado. La empresa ofrece una solución integral desde el diseño hasta la construcción mediante su Building Solution Center. La recertificación confirma su fiabilidad y uso potencial en acabados arquitectónicos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Luxteel da Dongkuk CM é recertificado como material arquitetônico excelente",
+        "excerpt": "A Luxteel, marca de aço colorido da Dongkuk CM, foi recertificada pela associação coreana de arquitetos após a seleção de 2023 e mantém status único no setor.",
+        "body": "A marca premium de chapas de aço colorido da Dongkuk CM, “Luxteel”, foi recertificada como Material de Construção Excelente pela associação coreana de arquitetos. Após a seleção em 2023, esta é a segunda escolha consecutiva, e a Luxteel segue como o único material recomendado na indústria de chapas de aço colorido. O produto recebeu avaliações positivas por sua sustentabilidade, desempenho não combustível e liberdade de design, sendo reconhecido como material de acabamento completo. A empresa oferece uma solução integrada do projeto à construção por meio do Building Solution Center. A recertificação reforça sua confiabilidade e potencial de uso no mercado de acabamentos arquitetônicos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Dongkuk CM Luxteel erneut als hervorragender Baustoff zertifiziert",
+        "excerpt": "Dongkuk CMs Farbstahlmarke Luxteel wurde nach 2023 erneut vom koreanischen Architektenverband als hervorragender Baustoff zertifiziert und bleibt die einzige Empfehlung der Branche.",
+        "body": "Die Premium-Farbstahlmarke “Luxteel” von Dongkuk CM wurde vom koreanischen Architektenverband erneut als hervorragender Baustoff zertifiziert. Nach der Auswahl im Jahr 2023 ist dies die zweite Anerkennung in Folge; in der Farbstahlbranche bleibt Luxteel das einzige empfohlene Material. Positiv bewertet wurden Umweltfreundlichkeit, nicht brennbare Eigenschaften und gestalterische Freiheit. Damit wurde Luxteel als fertiges Abschlussmaterial anerkannt. Über das Building Solution Center bietet das Unternehmen zudem eine Komplettlösung von der Planung bis zur Ausführung. Die erneute Zertifizierung bestätigt die Verlässlichkeit und Einsatzmöglichkeiten im Markt für architektonische Abschlussmaterialien. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Luxteel de Dongkuk CM recertifié excellent matériau de construction",
+        "excerpt": "Luxteel, marque d’acier prélaqué de Dongkuk CM, a été recertifiée par l’association coréenne des architectes après sa sélection en 2023, conservant un statut unique dans le secteur.",
+        "body": "La marque haut de gamme d’acier prélaqué de Dongkuk CM, “Luxteel”, a été recertifiée comme excellent matériau de construction par l’association coréenne des architectes. Après sa sélection en 2023, il s’agit de sa deuxième reconnaissance consécutive, et Luxteel reste le seul matériau recommandé dans l’industrie de l’acier prélaqué. Le produit a été salué pour son caractère écologique, ses performances non combustibles et sa liberté de conception, et reconnu comme matériau de finition complet. L’entreprise propose aussi une solution intégrée, de la conception à la construction, via son Building Solution Center. Cette recertification confirme sa fiabilité et son potentiel d’utilisation dans les finitions architecturales. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "لوكس تيل من دونغكوك سي إم تحصل مجددا على اعتماد مواد البناء الممتازة",
+        "excerpt": "حصلت علامة لوكس تيل لألواح الفولاذ الملون من دونغكوك سي إم على إعادة اعتماد من جمعية المعماريين الكورية بعد اختيارها في 2023، محافظة على مكانتها الفريدة في القطاع.",
+        "body": "أعيد اعتماد علامة “لوكس تيل” الفاخرة لألواح الفولاذ الملون التابعة لدونغكوك سي إم كمواد بناء ممتازة من قبل جمعية المعماريين الكورية. ويأتي ذلك بعد اختيارها في عام 2023، لتسجل ثاني اختيار متتال، كما تظل المادة الوحيدة الموصى بها في صناعة ألواح الفولاذ الملون. ونالت لوكس تيل تقييما إيجابيا بفضل خصائصها الصديقة للبيئة، وأدائها غير القابل للاحتراق، وحرية التصميم، وتم الاعتراف بها كمادة تشطيب مكتملة. وتوفر الشركة عبر مركز حلول المباني حلا شاملا من مرحلة التصميم إلى التنفيذ. وتؤكد إعادة الاعتماد موثوقيتها وإمكانات استخدامها في سوق مواد التشطيب المعماري. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Dongkuk CM की Luxteel को उत्कृष्ट भवन सामग्री का फिर प्रमाणन मिला",
+        "excerpt": "Dongkuk CM के कलर स्टील शीट ब्रांड Luxteel को 2023 के बाद फिर कोरियाई आर्किटेक्ट्स एसोसिएशन से उत्कृष्ट भवन सामग्री प्रमाणन मिला और क्षेत्र में उसका विशिष्ट दर्जा कायम रहा।",
+        "body": "Dongkuk CM के प्रीमियम कलर स्टील शीट ब्रांड “Luxteel” को कोरियाई आर्किटेक्ट्स एसोसिएशन से उत्कृष्ट भवन सामग्री के रूप में दोबारा प्रमाणित किया गया है। 2023 में चयन के बाद यह लगातार दूसरी मान्यता है, और Luxteel कलर स्टील शीट उद्योग में एकमात्र अनुशंसित सामग्री बना हुआ है। इसे पर्यावरण-अनुकूलता, गैर-दहनशील प्रदर्शन और डिजाइन स्वतंत्रता के लिए अच्छी समीक्षा मिली तथा पूर्ण फिनिशिंग सामग्री के रूप में मान्यता दी गई। कंपनी अपने Building Solution Center के जरिए डिजाइन से निर्माण तक वन-स्टॉप समाधान देती है। यह पुनर्प्रमाणन वास्तु फिनिशिंग सामग्री बाजार में Luxteel की विश्वसनीयता और उपयोगिता की पुष्टि करता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Luxteel Dongkuk CM Disertifikasi Ulang sebagai Bahan Bangunan Unggul",
+        "excerpt": "Luxteel, merek baja berwarna Dongkuk CM, kembali disertifikasi oleh asosiasi arsitek Korea setelah terpilih pada 2023 dan mempertahankan status unik di industrinya.",
+        "body": "Merek baja berwarna premium Dongkuk CM, “Luxteel”, kembali disertifikasi sebagai Bahan Bangunan Unggul oleh asosiasi arsitek Korea. Setelah terpilih pada 2023, ini menjadi pengakuan kedua berturut-turut, dan Luxteel tetap menjadi satu-satunya bahan yang direkomendasikan di industri baja berwarna. Produk ini mendapat penilaian positif atas aspek ramah lingkungan, kinerja tidak mudah terbakar, dan kebebasan desain, serta diakui sebagai material finishing siap pakai. Perusahaan menyediakan solusi satu pintu dari tahap desain hingga konstruksi melalui Building Solution Center. Sertifikasi ulang ini menegaskan keandalan dan potensi penggunaan Luxteel di pasar material finishing arsitektur. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "dace6cec98cd",
+    "slug": "코스메카코리아-1분기-매출-1851억원-기록-246566",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-08T10:47:24.036Z",
+    "updatedAt": "2026-05-08T10:47:24.036Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12041283",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12041283",
+    "titleFingerprint": "a712e6ff7ada9f3c11aaa8f1f0fa954595c6e600",
+    "dedupKeys": [
+      "dace6cec98cd60521b9cd5a31431314250856163",
+      "a712e6ff7ada9f3c11aaa8f1f0fa954595c6e600",
+      "cf163a894fa582e77beb87f63a47d339b5192b09"
+    ],
+    "imageUrl": "/images/articles/dace6cec98cd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스메카코리아 1분기 매출 1851억원, 영업이익 219억원 달성",
+        "excerpt": "글로벌 화장품 생산기업 코스메카코리아는 8일 올해 1분기 연결 기준 매출 1851억원, 영업이익 219억원을 기록했다고 밝혔다. 매출은 56.4%, 영업이익은 78% 급증했다.",
+        "body": "글로벌 화장품 생산기업 코스메카코리아가 8일 올해 1분기 연결 기준 실적을 발표했다. 회사는 1분기 매출 1851억원, 영업이익 219억원을 기록했다고 밝혔다. 전년 동기 대비 매출은 56.4%, 영업이익은 78% 증가했다. 이번 실적은 화장품 생산 사업을 영위하는 코스메카코리아의 분기 연결 실적으로, 매출과 수익성이 모두 크게 늘어난 점이 핵심이다. 회사가 공개한 수치 기준으로 1분기 외형 성장과 영업이익 개선이 동시에 확인됐다. 향후 시장에서는 이 같은 매출 증가와 영업이익 확대 흐름이 이어질지 주목할 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Cosmecca Korea Q1 Sales Reach 185.1 Billion Won, Operating Profit 21.9 Billion Won",
+        "excerpt": "Global cosmetics manufacturer Cosmecca Korea said on the 8th that its first-quarter consolidated sales reached 185.1 billion won and operating profit 21.9 billion won, up 56.4% and 78% year on year.",
+        "body": "Global cosmetics manufacturer Cosmecca Korea announced on the 8th its consolidated results for the first quarter of this year. The company said it posted sales of 185.1 billion won and operating profit of 21.9 billion won in the quarter. Compared with the same period a year earlier, sales rose 56.4% and operating profit increased 78%. The results show both top-line growth and improved profitability in Cosmecca Korea’s cosmetics production business. Based on the figures disclosed by the company, the first quarter confirmed a sharp expansion in revenue and operating income. Market attention is expected to focus on whether this trend in sales and operating profit growth continues. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "コスメカコリア、第1四半期売上高1851億ウォン・営業利益219億ウォン",
+        "excerpt": "グローバル化粧品生産企業のコスメカコリアは8日、今年第1四半期の連結売上高が1851億ウォン、営業利益が219億ウォンだったと発表した。売上高は56.4%、営業利益は78%急増した。",
+        "body": "グローバル化粧品生産企業のコスメカコリアは8日、今年第1四半期の連結業績を発表した。同社は第1四半期に売上高1851億ウォン、営業利益219億ウォンを記録したと明らかにした。前年同期比で売上高は56.4%、営業利益は78%増加した。今回の業績は、化粧品生産事業を手がけるコスメカコリアの四半期連結業績であり、売上規模と収益性がともに大きく伸びた点が注目される。同社が公表した数値では、第1四半期に外形成長と営業利益の改善が同時に確認された。今後、市場ではこうした売上増加と営業利益拡大の流れが続くかに関心が集まりそうだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Cosmecca Korea一季度销售额达1851亿韩元，营业利润219亿韩元",
+        "excerpt": "全球化妆品生产企业Cosmecca Korea于8日表示，今年第一季度合并销售额为1851亿韩元，营业利润为219亿韩元；销售额增长56.4%，营业利润增长78%。",
+        "body": "全球化妆品生产企业Cosmecca Korea于8日公布了今年第一季度合并业绩。公司表示，一季度销售额为1851亿韩元，营业利润为219亿韩元。与去年同期相比，销售额增长56.4%，营业利润增长78%。此次业绩反映了Cosmecca Korea化妆品生产业务的季度合并表现，重点在于销售规模和盈利能力均明显提升。根据公司披露的数据，第一季度收入增长和营业利润改善同时得到确认。市场接下来将关注这种销售增长和营业利润扩大趋势能否延续。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Cosmecca Korea registra ventas trimestrales de 185.100 millones de wones",
+        "excerpt": "La fabricante global de cosméticos Cosmecca Korea informó el día 8 que sus ventas consolidadas del primer trimestre fueron de 185.100 millones de wones y el beneficio operativo de 21.900 millones, con alzas de 56,4% y 78%.",
+        "body": "La fabricante global de cosméticos Cosmecca Korea anunció el día 8 sus resultados consolidados del primer trimestre de este año. La compañía informó ventas de 185.100 millones de wones y un beneficio operativo de 21.900 millones de wones. Frente al mismo periodo del año anterior, las ventas aumentaron 56,4% y el beneficio operativo subió 78%. Estos resultados corresponden al desempeño trimestral consolidado de Cosmecca Korea en el negocio de producción de cosméticos y muestran un fuerte crecimiento tanto en ingresos como en rentabilidad. Según las cifras divulgadas por la empresa, el primer trimestre confirmó una expansión de las ventas y una mejora del beneficio operativo. El mercado observará si esta tendencia continúa. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Cosmecca Korea tem receita de 185,1 bilhões de won no 1º trimestre",
+        "excerpt": "A fabricante global de cosméticos Cosmecca Korea informou no dia 8 que registrou receita consolidada de 185,1 bilhões de won e lucro operacional de 21,9 bilhões no primeiro trimestre, altas de 56,4% e 78%.",
+        "body": "A fabricante global de cosméticos Cosmecca Korea anunciou no dia 8 seus resultados consolidados do primeiro trimestre deste ano. A empresa informou receita de 185,1 bilhões de won e lucro operacional de 21,9 bilhões de won no período. Em comparação com o mesmo trimestre do ano anterior, a receita cresceu 56,4% e o lucro operacional aumentou 78%. O resultado reflete o desempenho trimestral consolidado da Cosmecca Korea no negócio de produção de cosméticos, com avanço expressivo tanto em vendas quanto em rentabilidade. Pelos números divulgados pela companhia, o primeiro trimestre confirmou crescimento de receita e melhora do lucro operacional. O mercado deve acompanhar se essa tendência continuará. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Cosmecca Korea erzielt im ersten Quartal 185,1 Mrd. Won Umsatz",
+        "excerpt": "Der globale Kosmetikhersteller Cosmecca Korea teilte am 8. mit, dass der konsolidierte Umsatz im ersten Quartal 185,1 Mrd. Won und der operative Gewinn 21,9 Mrd. Won erreichten, ein Plus von 56,4% und 78%.",
+        "body": "Der globale Kosmetikhersteller Cosmecca Korea veröffentlichte am 8. seine konsolidierten Ergebnisse für das erste Quartal dieses Jahres. Das Unternehmen meldete einen Umsatz von 185,1 Mrd. Won und einen operativen Gewinn von 21,9 Mrd. Won. Gegenüber dem Vorjahreszeitraum stieg der Umsatz um 56,4%, der operative Gewinn erhöhte sich um 78%. Die Zahlen zeigen die Quartalsleistung von Cosmecca Korea im Geschäft mit der Kosmetikproduktion und belegen sowohl deutliches Umsatzwachstum als auch eine verbesserte Profitabilität. Auf Basis der vom Unternehmen veröffentlichten Daten wurden im ersten Quartal zugleich Expansion und Ergebnisverbesserung sichtbar. Der Markt dürfte nun beobachten, ob sich dieser Trend fortsetzt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Cosmecca Korea atteint 185,1 milliards de wons de chiffre d’affaires au T1",
+        "excerpt": "Le fabricant mondial de cosmétiques Cosmecca Korea a indiqué le 8 que son chiffre d’affaires consolidé du premier trimestre s’élevait à 185,1 milliards de wons et son bénéfice d’exploitation à 21,9 milliards, en hausse de 56,4% et 78%.",
+        "body": "Le fabricant mondial de cosmétiques Cosmecca Korea a annoncé le 8 ses résultats consolidés du premier trimestre de cette année. L’entreprise a fait état d’un chiffre d’affaires de 185,1 milliards de wons et d’un bénéfice d’exploitation de 21,9 milliards de wons. Par rapport à la même période de l’an dernier, le chiffre d’affaires a progressé de 56,4% et le bénéfice d’exploitation de 78%. Ces résultats correspondent à la performance trimestrielle consolidée de Cosmecca Korea dans la production de cosmétiques et montrent une forte hausse des ventes comme de la rentabilité. Selon les chiffres publiés, le premier trimestre confirme à la fois la croissance du revenu et l’amélioration du résultat opérationnel. Le marché suivra la poursuite éventuelle de cette dynamique. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسميكا كوريا تسجل مبيعات فصلية قدرها 185.1 مليار وون",
+        "excerpt": "أعلنت شركة كوسميكا كوريا العالمية لإنتاج مستحضرات التجميل في الثامن أن مبيعاتها المجمعة في الربع الأول بلغت 185.1 مليار وون، وأن الربح التشغيلي بلغ 21.9 مليار وون، بارتفاع 56.4% و78%.",
+        "body": "أعلنت شركة كوسميكا كوريا العالمية لإنتاج مستحضرات التجميل في الثامن نتائجها المجمعة للربع الأول من هذا العام. وقالت الشركة إنها سجلت مبيعات قدرها 185.1 مليار وون وربحا تشغيليا قدره 21.9 مليار وون خلال الربع. وبالمقارنة مع الفترة نفسها من العام الماضي، ارتفعت المبيعات 56.4% وزاد الربح التشغيلي 78%. وتعكس هذه النتائج الأداء الفصلي المجمع لأعمال إنتاج مستحضرات التجميل لدى كوسميكا كوريا، مع نمو واضح في حجم المبيعات وتحسن في الربحية. ووفقا للأرقام التي كشفتها الشركة، أكد الربع الأول توسع الإيرادات وتحسن الربح التشغيلي في الوقت نفسه. ومن المتوقع أن يراقب السوق ما إذا كان هذا الاتجاه سيستمر. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Cosmecca Korea की पहली तिमाही बिक्री 185.1 अरब वॉन, परिचालन लाभ 21.9 अरब वॉन",
+        "excerpt": "वैश्विक कॉस्मेटिक्स निर्माता Cosmecca Korea ने 8 तारीख को बताया कि पहली तिमाही में उसकी समेकित बिक्री 185.1 अरब वॉन और परिचालन लाभ 21.9 अरब वॉन रहा। बिक्री 56.4% और परिचालन लाभ 78% बढ़ा।",
+        "body": "वैश्विक कॉस्मेटिक्स निर्माता Cosmecca Korea ने 8 तारीख को इस वर्ष की पहली तिमाही के समेकित नतीजे घोषित किए। कंपनी ने कहा कि पहली तिमाही में बिक्री 185.1 अरब वॉन और परिचालन लाभ 21.9 अरब वॉन रहा। पिछले वर्ष की समान अवधि की तुलना में बिक्री 56.4% और परिचालन लाभ 78% बढ़ा। ये आंकड़े Cosmecca Korea के कॉस्मेटिक्स उत्पादन कारोबार के तिमाही समेकित प्रदर्शन को दिखाते हैं, जिसमें राजस्व और लाभप्रदता दोनों में तेज वृद्धि हुई। कंपनी द्वारा जारी आंकड़ों के आधार पर पहली तिमाही में बिक्री विस्तार और परिचालन लाभ सुधार एक साथ दिखाई दिए। बाजार अब यह देखेगा कि यह वृद्धि रुझान आगे जारी रहता है या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Cosmecca Korea Catat Penjualan Kuartal I 185,1 Miliar Won",
+        "excerpt": "Produsen kosmetik global Cosmecca Korea pada tanggal 8 menyatakan penjualan konsolidasi kuartal pertama mencapai 185,1 miliar won dan laba operasi 21,9 miliar won, naik masing-masing 56,4% dan 78%.",
+        "body": "Produsen kosmetik global Cosmecca Korea pada tanggal 8 mengumumkan kinerja konsolidasi kuartal pertama tahun ini. Perusahaan mencatat penjualan 185,1 miliar won dan laba operasi 21,9 miliar won pada kuartal tersebut. Dibandingkan periode yang sama tahun sebelumnya, penjualan meningkat 56,4% dan laba operasi naik 78%. Kinerja ini merupakan hasil konsolidasi kuartalan Cosmecca Korea dalam bisnis produksi kosmetik, dengan pertumbuhan pendapatan dan peningkatan profitabilitas yang sama-sama menonjol. Berdasarkan angka yang dirilis perusahaan, kuartal pertama mengonfirmasi ekspansi penjualan sekaligus perbaikan laba operasi. Pasar akan mencermati apakah tren pertumbuhan ini berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "d27441b38f93",
     "slug": "연어야-돌아와-sk하이닉스-남대천-살리기-907255",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "NH Investment Tawarkan Produk Proteksi Pokok dan Imbal Hasil Langsung",
         "excerpt": "NH Investment & Securities memperkenalkan produk investasi yang menawarkan potensi imbal hasil tanpa masa tunggu dan proteksi pokok saat jatuh tempo, lapor Hankyung.",
         "body": "NH Investment & Securities memperkenalkan produk investasi yang menonjolkan potensi imbal hasil tanpa masa tunggu investasi dan proteksi pokok saat jatuh tempo, menurut laporan Hankyung. Laporan tersebut menekankan bahwa investor dapat ikut dalam struktur imbal hasil tanpa melalui masa tunggu terpisah setelah menempatkan dana. Proteksi pokok pada saat jatuh tempo disebut sebagai fitur utama, sehingga dapat menarik perhatian investor yang mengutamakan stabilitas. Ketentuan imbal hasil dan syarat berlangganan secara rinci perlu diperiksa dalam batas informasi yang disajikan laporan asli. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "d1f240fca3b6",
-    "slug": "미래에셋증권-알고리즘이-글로벌-자산에-분산투자맞춤-관리-104016",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T21:36:14.674Z",
-    "updatedAt": "2026-05-07T21:36:14.674Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050707931",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050707931",
-    "titleFingerprint": "d793e012ae5a4adbcc0ec2f5b53571f47aca6804",
-    "dedupKeys": [
-      "d1f240fca3b6326df6039acc26a96a36576884bc",
-      "d793e012ae5a4adbcc0ec2f5b53571f47aca6804",
-      "fe9a0e9d677ab4f4b604107cd07a08468a4fc24f"
-    ],
-    "imageUrl": "/images/articles/d1f240fca3b6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미래에셋증권 알고리즘 투자, 글로벌 자산 분산·맞춤 관리 주목",
-        "excerpt": "미래에셋증권은 알고리즘을 활용해 글로벌 자산에 분산 투자하고 고객별 맞춤 관리를 제공하는 방식으로 자산관리 서비스를 강화한다고 한국경제가 보도했다.",
-        "body": "미래에셋증권이 알고리즘을 활용해 글로벌 자산에 분산 투자하고 고객별 맞춤 관리를 제공하는 자산관리 서비스를 내세우고 있다. 보도에 따르면 이 방식은 투자 대상과 관리 과정을 알고리즘 기반으로 운용해 글로벌 자산 배분과 개인화된 관리에 초점을 맞춘다. 외환과 원자재를 포함한 글로벌 시장 환경에서는 특정 자산에 치우치지 않는 분산 접근이 중요해지고 있어, 알고리즘 기반 관리 서비스에 대한 관심도 이어질 수 있다. 다만 구체적인 운용 성과나 세부 수치는 원문에 제시되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Mirae Asset Securities Algorithm Investing Highlights Global Diversification",
-        "excerpt": "Mirae Asset Securities is emphasizing an algorithm-based asset management approach that diversifies across global assets and offers tailored client management, Hankyung reported.",
-        "body": "Mirae Asset Securities is highlighting an asset management service that uses algorithms to diversify investments across global assets and provide customized management for clients. According to the report, the approach focuses on algorithm-driven portfolio allocation and management, with an emphasis on global asset diversification and personalization. In global markets that include foreign exchange and commodities, diversified exposure rather than concentration in a single asset can draw attention to algorithm-based management services. The original report did not provide specific performance figures or detailed operating metrics. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "未来アセット証券のアルゴリズム投資、世界資産の分散管理に注目",
-        "excerpt": "未来アセット証券は、アルゴリズムを活用して世界の資産へ分散投資し、顧客別にカスタマイズした管理を行う資産管理サービスを強調していると韓国経済が報じた。",
-        "body": "未来アセット証券は、アルゴリズムを活用して世界の資産に分散投資し、顧客ごとにカスタマイズした管理を提供する資産管理サービスを打ち出している。報道によると、この方式は投資対象の配分と管理プロセスをアルゴリズムに基づいて運用し、グローバルな資産配分と個別管理に焦点を当てる。外国為替やコモディティを含む世界市場では、特定資産に偏らない分散アプローチが重要になっており、アルゴリズム型管理サービスへの関心も続く可能性がある。ただし、具体的な運用成績や詳細な数値は原文で示されていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "未来资产证券算法投资聚焦全球资产分散与定制管理",
-        "excerpt": "据韩国经济报道，未来资产证券正强调以算法为基础的资产管理方式，通过全球资产分散投资并提供面向客户的定制化管理。",
-        "body": "未来资产证券正推出一种利用算法进行全球资产分散投资，并为客户提供定制化管理的资产管理服务。报道称，该方式以算法为基础运行投资配置和管理流程，重点放在全球资产配置与个性化管理上。在包括外汇和大宗商品在内的全球市场环境中，避免过度集中于单一资产的分散方法变得更受关注，因此算法型管理服务也可能继续受到市场留意。不过，原文并未披露具体的投资业绩或详细运营数据。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Mirae Asset Securities impulsa inversión algorítmica en activos globales",
-        "excerpt": "Mirae Asset Securities destaca un servicio de gestión patrimonial basado en algoritmos que invierte de forma diversificada en activos globales y ofrece administración personalizada, informó Hankyung.",
-        "body": "Mirae Asset Securities está destacando un servicio de gestión patrimonial que utiliza algoritmos para invertir de forma diversificada en activos globales y ofrecer administración personalizada a sus clientes. Según el reporte, el enfoque opera la asignación de inversiones y el proceso de gestión con base algorítmica, con énfasis en la diversificación global y la personalización. En mercados globales que incluyen divisas y materias primas, una estrategia que no se concentre en un solo activo gana relevancia, lo que puede mantener el interés en los servicios de gestión algorítmica. El texto original no presentó cifras concretas de rendimiento ni datos operativos detallados. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Mirae Asset Securities destaca investimento algorítmico em ativos globais",
-        "excerpt": "A Mirae Asset Securities enfatiza uma gestão patrimonial baseada em algoritmos, com diversificação em ativos globais e administração personalizada para clientes, informou o Hankyung.",
-        "body": "A Mirae Asset Securities está destacando um serviço de gestão patrimonial que usa algoritmos para investir de forma diversificada em ativos globais e oferecer administração personalizada aos clientes. Segundo a reportagem, o modelo conduz a alocação dos investimentos e o processo de gestão com base algorítmica, dando foco à diversificação global e ao atendimento individualizado. Em mercados globais que incluem câmbio e commodities, uma abordagem que evita concentração em um único ativo ganha importância, mantendo a atenção sobre serviços de gestão algorítmica. O texto original não informou resultados específicos de gestão nem dados operacionais detalhados. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Mirae Asset Securities setzt auf Algorithmus-Investments in globale Anlagen",
-        "excerpt": "Mirae Asset Securities stellt laut Hankyung eine algorithmusbasierte Vermögensverwaltung heraus, die global diversifiziert investiert und kundenindividuelle Betreuung bietet.",
-        "body": "Mirae Asset Securities hebt eine Vermögensverwaltung hervor, die Algorithmen nutzt, um breit in globale Anlagen zu investieren und Kunden individuell zu betreuen. Dem Bericht zufolge steuert dieser Ansatz die Anlageaufteilung und den Verwaltungsprozess algorithmusbasiert, mit Schwerpunkt auf globaler Diversifikation und personalisiertem Management. In globalen Märkten, zu denen Devisen und Rohstoffe gehören, gewinnt ein Ansatz an Bedeutung, der nicht auf einzelne Anlagen konzentriert ist. Dadurch kann das Interesse an algorithmusgestützten Verwaltungsdiensten anhalten. Konkrete Performancezahlen oder detaillierte operative Kennziffern wurden im Originalbericht nicht genannt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Mirae Asset Securities mise sur l’investissement algorithmique mondial",
-        "excerpt": "Mirae Asset Securities met en avant une gestion d’actifs fondée sur des algorithmes, combinant diversification mondiale et gestion personnalisée, selon Hankyung.",
-        "body": "Mirae Asset Securities met en avant un service de gestion d’actifs qui utilise des algorithmes pour investir de manière diversifiée dans des actifs mondiaux et offrir une gestion personnalisée aux clients. Selon l’article, cette méthode repose sur une allocation et un processus de gestion pilotés par algorithme, avec un accent sur la diversification internationale et l’adaptation au profil de chaque client. Sur des marchés mondiaux incluant les changes et les matières premières, une approche moins concentrée sur un seul actif gagne en importance, ce qui peut soutenir l’intérêt pour la gestion algorithmique. Le texte original ne fournit pas de chiffres précis de performance ni d’indicateurs détaillés. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ميراي أسيت سيكيوريتيز تبرز الاستثمار الخوارزمي في الأصول العالمية",
-        "excerpt": "تركز ميراي أسيت سيكيوريتيز على خدمة لإدارة الأصول تعتمد على الخوارزميات، وتستثمر بشكل موزع في الأصول العالمية مع إدارة مخصصة للعملاء، وفق هانكيونغ.",
-        "body": "تسلط ميراي أسيت سيكيوريتيز الضوء على خدمة لإدارة الأصول تستخدم الخوارزميات للاستثمار المتنوع في الأصول العالمية وتقديم إدارة مخصصة لكل عميل. ووفق التقرير، يعتمد هذا النهج على تشغيل توزيع الاستثمارات وعملية الإدارة بصورة خوارزمية، مع التركيز على توزيع الأصول عالميا والتخصيص الفردي. وفي بيئة الأسواق العالمية التي تشمل العملات والسلع، تزداد أهمية النهج الذي لا يتركز في أصل واحد، ما قد يبقي الاهتمام بخدمات الإدارة القائمة على الخوارزميات. ولم يذكر النص الأصلي أرقاما محددة للأداء أو بيانات تشغيلية تفصيلية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "मिरे एसेट सिक्योरिटीज का एल्गोरिदम निवेश वैश्विक विविधीकरण पर केंद्रित",
-        "excerpt": "हैंक्युंग के अनुसार, मिरे एसेट सिक्योरिटीज एल्गोरिदम आधारित एसेट मैनेजमेंट पर जोर दे रही है, जिसमें वैश्विक परिसंपत्तियों में विविध निवेश और ग्राहकों के लिए अनुकूलित प्रबंधन शामिल है।",
-        "body": "मिरे एसेट सिक्योरिटीज ऐसी एसेट मैनेजमेंट सेवा को आगे रख रही है जो एल्गोरिदम का उपयोग कर वैश्विक परिसंपत्तियों में विविध निवेश करती है और ग्राहकों को अनुकूलित प्रबंधन देती है। रिपोर्ट के अनुसार, यह तरीका निवेश आवंटन और प्रबंधन प्रक्रिया को एल्गोरिदम आधारित ढंग से चलाता है तथा वैश्विक परिसंपत्ति आवंटन और व्यक्तिगत प्रबंधन पर केंद्रित है। विदेशी मुद्रा और कमोडिटी सहित वैश्विक बाजारों में किसी एक परिसंपत्ति पर निर्भर न रहने वाला विविधीकरण अधिक महत्वपूर्ण हो रहा है, जिससे एल्गोरिदम आधारित प्रबंधन सेवाओं में रुचि बनी रह सकती है। मूल रिपोर्ट में प्रदर्शन के ठोस आंकड़े या विस्तृत परिचालन डेटा नहीं दिया गया। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Mirae Asset Securities Soroti Investasi Algoritmik pada Aset Global",
-        "excerpt": "Mirae Asset Securities menekankan layanan manajemen aset berbasis algoritma yang melakukan diversifikasi ke aset global dan memberi pengelolaan khusus bagi klien, lapor Hankyung.",
-        "body": "Mirae Asset Securities menonjolkan layanan manajemen aset yang menggunakan algoritma untuk berinvestasi secara terdiversifikasi pada aset global dan memberikan pengelolaan yang disesuaikan bagi klien. Menurut laporan tersebut, pendekatan ini menjalankan alokasi investasi dan proses manajemen berbasis algoritma, dengan fokus pada pembagian aset global dan personalisasi. Di pasar global yang mencakup valuta asing dan komoditas, pendekatan yang tidak terkonsentrasi pada satu aset menjadi semakin penting, sehingga minat pada layanan manajemen berbasis algoritma dapat berlanjut. Laporan asli tidak menyajikan angka kinerja spesifik atau data operasional terperinci. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "c7cd3327f5e1",
-    "slug": "반도체-투톱-올라탄-월배당-etf투자자-유치-경쟁-불붙었다-140005",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T21:35:21.376Z",
-    "updatedAt": "2026-05-07T21:35:21.376Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050707921",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050707921",
-    "titleFingerprint": "f47c48a3b1b5067a10a9bbb83cd4fdc6e681e7a2",
-    "dedupKeys": [
-      "c7cd3327f5e1ad32934ed9b2a7976cc46b0de02c",
-      "f47c48a3b1b5067a10a9bbb83cd4fdc6e681e7a2",
-      "7dc0f85455dda12290228b6ff1163ca6b417c1bf"
-    ],
-    "imageUrl": "/images/articles/c7cd3327f5e1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 월배당 ETF 경쟁 가열…삼성전자·SK하이닉스 담고 투자자 유치전",
-        "excerpt": "2026년 5월 7일 금융투자업계에 따르면 삼성·미래에셋·브이아이·키움운용이 반도체 대형주 기반 월배당 ETF를 잇달아 내놓으며 투자자 유치 경쟁을 벌이고 있다.",
-        "body": "2026년 5월 7일 금융투자업계에 따르면 삼성전자와 SK하이닉스 등 반도체 대표주를 담은 월배당 상장지수펀드 ETF 출시 경쟁이 뜨거워지고 있다. 삼성자산운용은 이르면 이달 KODEX 반도체타겟위클리커버드콜을 내놓을 계획이다. 미래에셋자산운용은 지난달 21일 TIGER 반도체TOP10커버드콜액티브를 상장했으며, 삼성전자와 SK하이닉스 비중을 약 50%로 구성했다. 브이아이자산운용은 지난달 7일 FOCUS AI반도체위클리고정커버드콜을 출시했고, 키움투자자산운용은 두 종목과 우량 채권을 50대50으로 담은 KIWOOM 삼성전자&SK하이닉스채권혼합50을 선보였다. 커버드콜 전략은 분배금 재원을 만들지만 기초자산 대비 성과 차이가 커질 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Monthly Dividend Semiconductor ETFs Heat Up With Samsung Electronics and SK Hynix",
-        "excerpt": "As of May 7, 2026, Samsung, Mirae Asset, VI and Kiwoom asset managers are competing to attract investors with monthly dividend ETFs built around major Korean semiconductor stocks.",
-        "body": "As of May 7, 2026, competition is intensifying in monthly dividend ETFs that invest in leading semiconductor stocks such as Samsung Electronics and SK Hynix. Samsung Asset Management plans to launch KODEX Semiconductor Target Weekly Covered Call as early as this month. Mirae Asset Management listed TIGER Semiconductor TOP10 Covered Call Active on April 21, with Samsung Electronics and SK Hynix making up about 50% of the portfolio. VI Asset Management introduced FOCUS AI Semiconductor Weekly Fixed Covered Call on April 7, while Kiwoom Asset Management launched KIWOOM Samsung Electronics & SK Hynix Bond Mixed 50, split 50:50 between the two stocks and high-grade bonds. Covered calls can support distributions, but performance may diverge from the underlying assets. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "半導体月配当ETFの競争過熱、サムスン電子・SKハイニックスで投資家争奪",
-        "excerpt": "2026年5月7日時点で、サムスン、未来アセット、VI、キウムの運用各社が韓国の半導体大型株を組み入れた月配当ETFで投資家獲得を競っている。",
-        "body": "2026年5月7日、金融投資業界によると、サムスン電子やSKハイニックスなど半導体代表銘柄に投資する月配当ETFの発売競争が激しくなっている。サムスン資産運用は早ければ今月、KODEX半導体ターゲット・ウィークリー・カバードコールを投入する計画だ。未来アセット資産運用は4月21日にTIGER半導体TOP10カバードコールアクティブを上場し、サムスン電子とSKハイニックスを約50%組み入れた。VI資産運用は4月7日にFOCUS AI半導体ウィークリー固定カバードコールを発売し、キウム投資資産運用は2銘柄と優良債を50対50で組み入れる商品を出した。カバードコールは分配原資を作る一方、基礎資産との成績差が広がる可能性がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "半导体月派息ETF竞争升温，三星电子和SK海力士成吸金核心",
-        "excerpt": "截至2026年5月7日，三星、未来资产、VI和Kiwoom等资管公司围绕韩国大型半导体股推出月派息ETF，争夺投资者资金。",
-        "body": "据金融投资业界2026年5月7日消息，投资三星电子、SK海力士等半导体代表股的月派息ETF发行竞争正在升温。三星资产管理计划最早于本月推出KODEX Semiconductor Target Weekly Covered Call。未来资产管理已于4月21日上市TIGER Semiconductor TOP10 Covered Call Active，其中三星电子和SK海力士约占组合50%。VI资产管理于4月7日推出FOCUS AI Semiconductor Weekly Fixed Covered Call，Kiwoom投资资产管理则推出将两只股票与优质债券按50比50配置的KIWOOM Samsung Electronics & SK Hynix Bond Mixed 50。备兑看涨策略可形成分配资金来源，但相对基础资产的收益差距可能扩大。来源: hankyung.com"
-      },
-      "es": {
-        "title": "ETF mensuales de semiconductores compiten por inversores con Samsung y SK Hynix",
-        "excerpt": "Al 7 de mayo de 2026, Samsung, Mirae Asset, VI y Kiwoom compiten por captar inversores con ETF de reparto mensual centrados en grandes acciones coreanas de semiconductores.",
-        "body": "Al 7 de mayo de 2026, según la industria financiera, se intensifica la competencia por lanzar ETF de reparto mensual que invierten en líderes de semiconductores como Samsung Electronics y SK Hynix. Samsung Asset Management planea lanzar KODEX Semiconductor Target Weekly Covered Call tan pronto como este mes. Mirae Asset Management listó el 21 de abril TIGER Semiconductor TOP10 Covered Call Active, con Samsung Electronics y SK Hynix cerca del 50% de la cartera. VI Asset Management lanzó el 7 de abril FOCUS AI Semiconductor Weekly Fixed Covered Call, y Kiwoom Asset Management presentó un producto dividido 50:50 entre esas dos acciones y bonos de alta calidad. La estrategia covered call puede financiar distribuciones, aunque el rendimiento puede separarse del activo subyacente. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "ETFs mensais de semicondutores acirram disputa com Samsung Electronics e SK Hynix",
-        "excerpt": "Em 7 de maio de 2026, Samsung, Mirae Asset, VI e Kiwoom disputam investidores com ETFs de dividendos mensais baseados em grandes ações coreanas de semicondutores.",
-        "body": "Em 7 de maio de 2026, segundo o setor financeiro, cresce a disputa por ETFs de dividendos mensais que investem em nomes de semicondutores como Samsung Electronics e SK Hynix. A Samsung Asset Management planeja lançar o KODEX Semiconductor Target Weekly Covered Call já neste mês. A Mirae Asset Management listou em 21 de abril o TIGER Semiconductor TOP10 Covered Call Active, com Samsung Electronics e SK Hynix em cerca de 50% da carteira. A VI Asset Management lançou em 7 de abril o FOCUS AI Semiconductor Weekly Fixed Covered Call, enquanto a Kiwoom Asset Management apresentou produto com as duas ações e títulos de alta qualidade na proporção 50:50. Covered calls ajudam a financiar distribuições, mas o desempenho pode se afastar dos ativos de base. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Monatliche Halbleiter-ETFs buhlen mit Samsung Electronics und SK Hynix um Anleger",
-        "excerpt": "Am 7. Mai 2026 konkurrieren Samsung, Mirae Asset, VI und Kiwoom mit monatlich ausschüttenden ETFs auf große koreanische Halbleiterwerte um Anlegergelder.",
-        "body": "Nach Angaben der Finanzinvestmentbranche vom 7. Mai 2026 verschärft sich der Wettbewerb bei monatlich ausschüttenden ETFs, die in Halbleiter-Schwergewichte wie Samsung Electronics und SK Hynix investieren. Samsung Asset Management will bereits in diesem Monat den KODEX Semiconductor Target Weekly Covered Call auflegen. Mirae Asset Management listete am 21. April den TIGER Semiconductor TOP10 Covered Call Active, in dem Samsung Electronics und SK Hynix etwa 50% des Portfolios ausmachen. VI Asset Management brachte am 7. April den FOCUS AI Semiconductor Weekly Fixed Covered Call heraus. Kiwoom Asset Management stellte ein Produkt vor, das die beiden Aktien und hochwertige Anleihen im Verhältnis 50:50 hält. Covered Calls können Ausschüttungen finanzieren, doch die Wertentwicklung kann vom Basiswert abweichen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les ETF mensuels de semi-conducteurs misent sur Samsung Electronics et SK Hynix",
-        "excerpt": "Au 7 mai 2026, Samsung, Mirae Asset, VI et Kiwoom se disputent les investisseurs avec des ETF à distribution mensuelle centrés sur les grandes valeurs coréennes des semi-conducteurs.",
-        "body": "Au 7 mai 2026, selon le secteur financier, la concurrence s’intensifie autour des ETF à distribution mensuelle investis dans des leaders des semi-conducteurs comme Samsung Electronics et SK Hynix. Samsung Asset Management prévoit de lancer dès ce mois-ci KODEX Semiconductor Target Weekly Covered Call. Mirae Asset Management a coté le 21 avril TIGER Semiconductor TOP10 Covered Call Active, où Samsung Electronics et SK Hynix représentent environ 50% du portefeuille. VI Asset Management a lancé le 7 avril FOCUS AI Semiconductor Weekly Fixed Covered Call, tandis que Kiwoom Asset Management a présenté un produit réparti à 50:50 entre ces deux actions et des obligations de qualité. Les covered calls peuvent financer les distributions, mais la performance peut s’écarter des actifs sous-jacents. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صناديق أشباه الموصلات ذات التوزيع الشهري تتنافس عبر سامسونغ وSK هاينكس",
-        "excerpt": "في 7 مايو 2026، تتنافس سامسونغ وميرا أست وVI وكيوم على جذب المستثمرين بصناديق ETF شهرية التوزيع ترتكز على أسهم كورية كبرى في أشباه الموصلات.",
-        "body": "في 7 مايو 2026، وبحسب قطاع الاستثمار المالي، تشتد المنافسة في صناديق ETF ذات التوزيع الشهري التي تستثمر في أسهم أشباه الموصلات الكبرى مثل Samsung Electronics وSK Hynix. تخطط Samsung Asset Management لإطلاق KODEX Semiconductor Target Weekly Covered Call في وقت قد يكون هذا الشهر. وأدرجت Mirae Asset Management في 21 أبريل صندوق TIGER Semiconductor TOP10 Covered Call Active، حيث تشكل Samsung Electronics وSK Hynix نحو 50% من المحفظة. وأطلقت VI Asset Management في 7 أبريل صندوق FOCUS AI Semiconductor Weekly Fixed Covered Call، بينما قدمت Kiwoom Asset Management منتجا يوزع الأصول بنسبة 50:50 بين السهمين وسندات عالية الجودة. استراتيجية covered call قد تدعم التوزيعات، لكن الأداء قد يبتعد عن الأصول الأساسية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर मासिक ETF में प्रतिस्पर्धा तेज, Samsung Electronics और SK Hynix केंद्र में",
-        "excerpt": "7 मई 2026 तक Samsung, Mirae Asset, VI और Kiwoom कोरियाई सेमीकंडक्टर दिग्गजों पर आधारित मासिक वितरण ETF से निवेशकों को आकर्षित करने की होड़ में हैं।",
-        "body": "7 मई 2026 को वित्तीय निवेश उद्योग के अनुसार Samsung Electronics और SK Hynix जैसे प्रमुख सेमीकंडक्टर शेयरों में निवेश करने वाले मासिक वितरण ETF की प्रतिस्पर्धा तेज हो रही है। Samsung Asset Management इस महीने की शुरुआत में KODEX Semiconductor Target Weekly Covered Call लॉन्च करने की योजना बना रही है। Mirae Asset Management ने 21 अप्रैल को TIGER Semiconductor TOP10 Covered Call Active सूचीबद्ध किया, जिसमें Samsung Electronics और SK Hynix का वजन लगभग 50% है। VI Asset Management ने 7 अप्रैल को FOCUS AI Semiconductor Weekly Fixed Covered Call पेश किया, जबकि Kiwoom Asset Management ने दोनों शेयरों और उच्च गुणवत्ता वाले बॉन्ड को 50:50 अनुपात में रखने वाला उत्पाद लॉन्च किया। Covered call रणनीति वितरण का स्रोत बना सकती है, लेकिन प्रदर्शन आधारभूत परिसंपत्तियों से अलग हो सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "ETF Dividen Bulanan Semikonduktor Bersaing Lewat Samsung Electronics dan SK Hynix",
-        "excerpt": "Pada 7 Mei 2026, Samsung, Mirae Asset, VI, dan Kiwoom bersaing menarik investor melalui ETF dividen bulanan berbasis saham besar semikonduktor Korea.",
-        "body": "Pada 7 Mei 2026, menurut industri investasi keuangan, persaingan ETF dividen bulanan yang berinvestasi pada saham semikonduktor utama seperti Samsung Electronics dan SK Hynix makin memanas. Samsung Asset Management berencana meluncurkan KODEX Semiconductor Target Weekly Covered Call paling cepat bulan ini. Mirae Asset Management mencatatkan TIGER Semiconductor TOP10 Covered Call Active pada 21 April, dengan Samsung Electronics dan SK Hynix sekitar 50% dari portofolio. VI Asset Management meluncurkan FOCUS AI Semiconductor Weekly Fixed Covered Call pada 7 April, sementara Kiwoom Asset Management menghadirkan produk yang membagi dua saham tersebut dan obligasi berkualitas tinggi dengan rasio 50:50. Strategi covered call dapat menjadi sumber distribusi, tetapi kinerjanya bisa berbeda dari aset acuan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "3263ff6cf433",
-    "slug": "스페이스x-특수에도-우주-etf-마이너스-431057",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-07T21:34:13.456Z",
-    "updatedAt": "2026-05-07T21:34:13.456Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050707871",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050707871",
-    "titleFingerprint": "f9ed383e99f57750a9a431c36720528e8f781ac5",
-    "dedupKeys": [
-      "3263ff6cf433eb47a200c808a65ded037fc00e79",
-      "f9ed383e99f57750a9a431c36720528e8f781ac5",
-      "28366ee666ce1e68b056c6e50b3c790ed1e8b6a7"
-    ],
-    "imageUrl": "/images/articles/3263ff6cf433.jpg",
-    "i18n": {
-      "ko": {
-        "title": "우주 ETF, 스페이스X 특수에도 수익률 마이너스 기록",
-        "excerpt": "스페이스X 관련 기대가 우주 산업 투자심리를 자극했지만, 우주 ETF는 기대와 달리 마이너스 수익률을 기록했다고 hankyung.com이 전했다.",
-        "body": "스페이스X를 둘러싼 투자 기대가 이어지는 가운데 우주 산업에 투자하는 ETF는 오히려 마이너스 수익률을 기록한 것으로 전해졌다. 원문은 스페이스X 특수가 우주 관련 자산 전반의 성과로 곧바로 이어지지 않았다는 점을 핵심으로 짚었다. 우주 ETF는 특정 기업 이슈와 별개로 편입 종목 구성, 시장 변동성, 투자자금 흐름 등에 따라 성과가 달라질 수 있다. 이번 사례는 우주 산업 성장 기대가 ETF 수익률 개선을 보장하지 않는다는 점을 보여준다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Space ETFs Stay Negative Despite SpaceX-Driven Investor Interest",
-        "excerpt": "SpaceX-related momentum has lifted attention on the space sector, but space ETFs still posted negative returns, hankyung.com reported.",
-        "body": "Even as investor interest around SpaceX continues, ETFs focused on the space industry have reportedly recorded negative returns. The original report highlights that the so-called SpaceX effect has not directly translated into stronger performance across space-related investment products. Space ETFs can move differently from a single company theme because returns depend on holdings, market volatility and fund flows. The case shows that expectations for space-industry growth do not necessarily guarantee improved ETF performance. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "宇宙ETF、スペースX特需でもマイナス収益率に",
-        "excerpt": "スペースX関連の期待が宇宙産業への関心を高める一方、宇宙ETFはマイナス収益率を記録したとhankyung.comが報じた。",
-        "body": "スペースXをめぐる投資期待が続くなか、宇宙産業に投資するETFはむしろマイナス収益率を記録したと伝えられた。原文は、スペースX特需が宇宙関連資産全体の成果に直結していない点を中心に取り上げている。宇宙ETFは特定企業の話題とは別に、組み入れ銘柄、市場の変動性、資金フローなどによって成績が変わり得る。今回の事例は、宇宙産業の成長期待がETF収益率の改善を保証するものではないことを示している。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "太空ETF未受SpaceX热潮带动，收益率仍为负",
-        "excerpt": "SpaceX相关预期提升了市场对太空产业的关注，但太空ETF仍录得负收益，hankyung.com对此进行了报道。",
-        "body": "在围绕SpaceX的投资期待持续升温之际，投资太空产业的ETF却被报道录得负收益。原文指出，所谓SpaceX热潮并未直接转化为太空相关投资产品整体表现的改善。太空ETF的表现可能不同于单一企业题材，因为其收益受持仓结构、市场波动和资金流向等因素影响。此次情况显示，对太空产业增长的期待并不必然保证ETF收益率改善。来源: hankyung.com."
-      },
-      "es": {
-        "title": "ETF espaciales siguen en negativo pese al impulso de SpaceX",
-        "excerpt": "El interés generado por SpaceX elevó la atención sobre la industria espacial, pero los ETF del sector registraron rentabilidades negativas, informó hankyung.com.",
-        "body": "Mientras continúa el interés inversor en torno a SpaceX, los ETF centrados en la industria espacial habrían registrado rentabilidades negativas. El informe original subraya que el llamado efecto SpaceX no se ha traducido directamente en un mejor desempeño de los productos de inversión relacionados con el espacio. Los ETF espaciales pueden moverse de forma distinta a una sola historia corporativa, ya que dependen de sus carteras, la volatilidad del mercado y los flujos de capital. El caso muestra que las expectativas de crecimiento del sector espacial no garantizan una mejora en la rentabilidad de los ETF. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "ETFs espaciais ficam negativos apesar do impulso da SpaceX",
-        "excerpt": "O interesse ligado à SpaceX aumentou a atenção sobre o setor espacial, mas ETFs da área registraram retornos negativos, segundo o hankyung.com.",
-        "body": "Mesmo com a continuidade das expectativas de investimento em torno da SpaceX, ETFs focados na indústria espacial teriam registrado retornos negativos. A reportagem original destaca que o chamado efeito SpaceX não se traduziu diretamente em melhor desempenho dos produtos de investimento ligados ao espaço. ETFs espaciais podem se comportar de modo diferente de uma tese concentrada em uma empresa, pois dependem da composição da carteira, da volatilidade do mercado e dos fluxos de recursos. O caso mostra que expectativas de crescimento do setor espacial não garantem melhora no retorno dos ETFs. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Weltraum-ETFs trotz SpaceX-Effekt mit negativer Rendite",
-        "excerpt": "Die Erwartungen rund um SpaceX lenken Aufmerksamkeit auf die Raumfahrtbranche, doch Weltraum-ETFs verzeichneten negative Renditen, berichtet hankyung.com.",
-        "body": "Während das Anlegerinteresse an SpaceX anhält, haben auf die Raumfahrtbranche ausgerichtete ETFs Berichten zufolge negative Renditen erzielt. Der Originalbericht betont, dass der sogenannte SpaceX-Effekt nicht unmittelbar zu einer besseren Entwicklung raumfahrtbezogener Anlageprodukte geführt hat. Weltraum-ETFs können sich unabhängig von einem einzelnen Unternehmensimpuls entwickeln, da ihre Ergebnisse von Portfoliostruktur, Marktvolatilität und Kapitalflüssen abhängen. Der Fall zeigt, dass Wachstumserwartungen für die Raumfahrtbranche keine bessere ETF-Rendite garantieren. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Les ETF spatiaux restent négatifs malgré l’effet SpaceX",
-        "excerpt": "L’intérêt suscité par SpaceX a renforcé l’attention portée au secteur spatial, mais les ETF spécialisés affichent des rendements négatifs, selon hankyung.com.",
-        "body": "Alors que l’intérêt des investisseurs autour de SpaceX se poursuit, les ETF consacrés à l’industrie spatiale auraient enregistré des rendements négatifs. L’article original souligne que l’effet SpaceX ne s’est pas directement traduit par une meilleure performance des produits d’investissement liés à l’espace. Les ETF spatiaux peuvent évoluer différemment d’un thème centré sur une seule entreprise, car leurs résultats dépendent de la composition du portefeuille, de la volatilité du marché et des flux de capitaux. Ce cas montre que les attentes de croissance du secteur spatial ne garantissent pas une amélioration des rendements des ETF. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "صناديق الفضاء المتداولة تبقى سلبية رغم زخم سبيس إكس",
-        "excerpt": "رغم أن توقعات سبيس إكس رفعت الاهتمام بقطاع الفضاء، فإن صناديق المؤشرات المتداولة المتخصصة سجلت عوائد سلبية، بحسب hankyung.com.",
-        "body": "مع استمرار الاهتمام الاستثماري المرتبط بسبيس إكس، أفادت التقارير بأن صناديق المؤشرات المتداولة التي تستثمر في صناعة الفضاء سجلت عوائد سلبية. ويركز التقرير الأصلي على أن ما يسمى بتأثير سبيس إكس لم يتحول مباشرة إلى أداء أقوى لمنتجات الاستثمار المرتبطة بالفضاء. فقد تتحرك صناديق الفضاء المتداولة بشكل مختلف عن قصة شركة واحدة، لأن نتائجها تعتمد على مكونات المحفظة وتقلبات السوق وتدفقات الأموال. وتوضح هذه الحالة أن توقعات نمو صناعة الفضاء لا تضمن تحسن عوائد صناديق المؤشرات المتداولة. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "SpaceX उत्साह के बावजूद स्पेस ETF का रिटर्न नकारात्मक",
-        "excerpt": "SpaceX से जुड़ी उम्मीदों ने अंतरिक्ष क्षेत्र में रुचि बढ़ाई, लेकिन स्पेस ETF ने नकारात्मक रिटर्न दर्ज किया, hankyung.com ने बताया।",
-        "body": "SpaceX को लेकर निवेशकों की उम्मीदें बनी रहने के बीच, अंतरिक्ष उद्योग में निवेश करने वाले ETF ने कथित तौर पर नकारात्मक रिटर्न दर्ज किया। मूल रिपोर्ट का मुख्य बिंदु यह है कि SpaceX से जुड़ा उत्साह अंतरिक्ष संबंधी निवेश उत्पादों के व्यापक प्रदर्शन में सीधे नहीं बदला। स्पेस ETF का प्रदर्शन किसी एक कंपनी की खबर से अलग हो सकता है, क्योंकि रिटर्न पोर्टफोलियो संरचना, बाजार उतार-चढ़ाव और धन प्रवाह पर निर्भर करता है। यह मामला दिखाता है कि अंतरिक्ष उद्योग की वृद्धि की उम्मीद ETF रिटर्न में सुधार की गारंटी नहीं देती। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "ETF Antariksa Tetap Negatif Meski Ada Sentimen SpaceX",
-        "excerpt": "Ekspektasi terkait SpaceX meningkatkan perhatian pada industri antariksa, tetapi ETF antariksa masih mencatat imbal hasil negatif, menurut hankyung.com.",
-        "body": "Di tengah berlanjutnya minat investasi terhadap SpaceX, ETF yang berfokus pada industri antariksa dilaporkan justru mencatat imbal hasil negatif. Laporan asli menyoroti bahwa efek SpaceX tidak langsung berubah menjadi kinerja yang lebih kuat bagi produk investasi terkait antariksa secara luas. ETF antariksa dapat bergerak berbeda dari isu satu perusahaan karena hasilnya dipengaruhi komposisi portofolio, volatilitas pasar, dan arus dana. Kasus ini menunjukkan bahwa ekspektasi pertumbuhan industri antariksa tidak menjamin perbaikan imbal hasil ETF. Sumber: hankyung.com."
       }
     }
   }
