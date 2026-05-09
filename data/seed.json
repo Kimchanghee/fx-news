@@ -1,5 +1,230 @@
 [
   {
+    "id": "bf4629e75d7c",
+    "slug": "찻집-잘못인-줄-알았는데여성-음료에-수은-탄-범인의-정체-경악-458779",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T19:58:50.559Z",
+    "updatedAt": "2026-05-09T19:58:50.559Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12042368",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12042368",
+    "titleFingerprint": "477fd798637914d27f4f000b8e87f51e86d320b0",
+    "dedupKeys": [
+      "bf4629e75d7c58a144cb9c33c0e01643991856d0",
+      "477fd798637914d27f4f000b8e87f51e86d320b0",
+      "573f04509c43ace2514127c6f7b751ad1ccb8272"
+    ],
+    "imageUrl": "/images/articles/bf4629e75d7c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중국 밀크티 수은 사건, 체인점 의심했지만 범인은 남자친구였다",
+        "excerpt": "9일 SCMP 보도에 따르면 중국의 한 여성이 유명 밀크티 체인점 음료에 수은이 들어갔다고 주장했으나, 나중에 범인이 남자친구였던 것으로 알려졌다.",
+        "body": "중국에서 한 여성이 유명 밀크티 체인점이 자신의 음료에 수은을 넣었다고 주장한 사건이 뒤늦게 다른 결말을 맞았다. 9일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 이 여성은 처음에는 음료를 판매한 체인점 측을 의심했지만, 이후 실제로 수은을 넣은 사람이 남자친구였다는 사실을 알게 됐다. 사건은 소비자가 프랜차이즈 음료의 안전 문제를 제기한 사례로 알려졌으나, 보도 내용상 책임 주체가 매장이 아니라 주변 인물로 드러난 점이 핵심이다. 관련 내용은 온라인에서 식음료 안전과 개인 범죄 문제를 함께 환기시키고 있다. 출처: mk.co.kr 인용"
+      },
+      "en": {
+        "title": "China milk tea mercury case: chain blamed, but boyfriend was culprit",
+        "excerpt": "According to SCMP on May 9, a woman in China claimed a famous milk tea chain put mercury in her drink, only to later learn her boyfriend was responsible.",
+        "body": "A case in China involving mercury found in a woman’s drink has taken an unexpected turn. According to the South China Morning Post on May 9, the woman initially claimed that a well-known milk tea chain had put mercury in her beverage. She later learned, however, that the person who added the mercury was her boyfriend. The case had first appeared to raise concerns about drink safety at a franchise outlet, but the key point in the report is that responsibility did not lie with the shop and was instead linked to someone close to the victim. The incident is drawing attention to both food and beverage safety claims and personal criminal conduct. Source: cited from mk.co.kr"
+      },
+      "ja": {
+        "title": "中国ミルクティー水銀事件、店を疑うも犯人は交際相手だった",
+        "excerpt": "9日のSCMP報道によると、中国の女性は有名ミルクティーチェーンが飲料に水銀を入れたと主張したが、後に犯人が交際相手だったと分かった。",
+        "body": "中国で、女性の飲料に水銀が入っていたとされる事件が、当初の主張とは異なる展開を見せた。9日、香港紙サウスチャイナ・モーニング・ポスト（SCMP）によると、この女性は有名ミルクティーチェーンが自分の飲み物に水銀を入れたと主張していた。しかしその後、実際に水銀を入れたのは交際相手だったことを知ったという。事件は当初、フランチャイズ飲料の安全性をめぐる問題として受け止められたが、報道で示された核心は、責任の所在が店舗ではなく身近な人物にあった点だ。食品・飲料の安全主張と個人による犯罪行為の双方に関心が集まっている。出典：mk.co.kr引用"
+      },
+      "zh": {
+        "title": "中国奶茶汞事件反转：原疑连锁店，真凶竟是男友",
+        "excerpt": "据SCMP 9日报道，中国一名女子曾称知名奶茶连锁店在其饮料中加入汞，后来才得知真正下手的人是自己的男友。",
+        "body": "中国一名女子饮料中被加入汞的事件，后来出现与最初说法不同的结果。据香港《南华早报》（SCMP）9日报道，该女子起初声称，一家知名奶茶连锁店在她的饮料中加入了汞。但她后来得知，真正把汞放入饮料的人是她的男友。此事最初被视为消费者对连锁饮品安全提出质疑的案例，不过报道中的关键在于，责任主体并非门店，而是受害者身边的人。该事件也让外界同时关注食品饮料安全指控与个人犯罪行为问题。来源：引自 mk.co.kr"
+      },
+      "es": {
+        "title": "Caso de mercurio en té con leche en China: culpó a la cadena, pero fue su novio",
+        "excerpt": "Según SCMP el 9 de mayo, una mujer en China afirmó que una famosa cadena de té con leche puso mercurio en su bebida, pero después supo que el responsable era su novio.",
+        "body": "Un caso en China sobre mercurio en la bebida de una mujer terminó con un giro distinto al señalado al principio. Según informó el South China Morning Post (SCMP) el 9 de mayo, la mujer afirmó inicialmente que una conocida cadena de té con leche había puesto mercurio en su bebida. Más tarde supo que quien lo había añadido era su novio. El caso se conoció primero como una denuncia sobre la seguridad de una bebida vendida por una franquicia, pero el punto central del reporte es que la responsabilidad no recaía en la tienda, sino en una persona cercana a la víctima. El episodio vuelve a poner el foco tanto en las denuncias de seguridad alimentaria y de bebidas como en delitos personales. Fuente: citado de mk.co.kr"
+      },
+      "pt": {
+        "title": "Caso de mercúrio em milk tea na China: rede foi acusada, mas culpado era namorado",
+        "excerpt": "Segundo o SCMP em 9 de maio, uma mulher na China afirmou que uma famosa rede de milk tea colocou mercúrio em sua bebida, mas depois soube que o responsável era seu namorado.",
+        "body": "Um caso na China envolvendo mercúrio na bebida de uma mulher teve um desfecho diferente da acusação inicial. Segundo o South China Morning Post (SCMP) em 9 de maio, a mulher afirmou primeiro que uma conhecida rede de milk tea havia colocado mercúrio em sua bebida. Depois, porém, descobriu que quem adicionou a substância foi seu namorado. O episódio foi inicialmente visto como uma denúncia sobre a segurança de bebidas vendidas por uma franquia, mas o ponto central do relato é que a responsabilidade não estava na loja e sim em alguém próximo da vítima. O caso chama atenção para alegações de segurança alimentar e de bebidas, além de condutas criminosas pessoais. Fonte: citado de mk.co.kr"
+      },
+      "de": {
+        "title": "Quecksilber im Milchtee in China: Erst Kette verdächtigt, dann Freund entlarvt",
+        "excerpt": "Laut SCMP vom 9. Mai behauptete eine Frau in China, eine bekannte Milchtee-Kette habe Quecksilber in ihr Getränk gegeben, erfuhr später aber, dass ihr Freund verantwortlich war.",
+        "body": "Ein Fall in China, bei dem Quecksilber in das Getränk einer Frau gelangt sein soll, nahm später eine andere Wendung als zunächst dargestellt. Laut South China Morning Post (SCMP) vom 9. Mai behauptete die Frau zunächst, eine bekannte Milchtee-Kette habe Quecksilber in ihr Getränk gegeben. Später erfuhr sie jedoch, dass ihr Freund die Substanz hineingegeben hatte. Der Vorfall wurde anfangs als Hinweis auf mögliche Sicherheitsprobleme bei Franchise-Getränken wahrgenommen. Der zentrale Punkt des Berichts ist jedoch, dass die Verantwortung nicht beim Geschäft lag, sondern bei einer Person aus dem nahen Umfeld der Betroffenen. Der Fall lenkt Aufmerksamkeit auf Getränkesicherheit und persönliche Straftaten. Quelle: zitiert nach mk.co.kr"
+      },
+      "fr": {
+        "title": "Mercure dans un milk tea en Chine : la chaîne accusée, mais le coupable était le petit ami",
+        "excerpt": "Selon le SCMP du 9 mai, une Chinoise a affirmé qu’une célèbre chaîne de milk tea avait mis du mercure dans sa boisson, avant d’apprendre que son petit ami était responsable.",
+        "body": "En Chine, une affaire de mercure retrouvé dans la boisson d’une femme a pris une tournure différente de l’accusation initiale. Selon le South China Morning Post (SCMP) du 9 mai, cette femme avait d’abord affirmé qu’une célèbre chaîne de milk tea avait mis du mercure dans sa boisson. Elle a ensuite appris que la personne qui l’avait ajouté était son petit ami. L’affaire avait d’abord été perçue comme une mise en cause de la sécurité des boissons vendues par une franchise, mais le point essentiel du reportage est que la responsabilité ne revenait pas au magasin et concernait une personne proche de la victime. L’incident attire l’attention sur les accusations liées à la sécurité alimentaire et les actes criminels personnels. Source : cité de mk.co.kr"
+      },
+      "ar": {
+        "title": "قضية الزئبق في شاي الحليب بالصين: اتُّهمت السلسلة ثم ظهر أن الفاعل هو الحبيب",
+        "excerpt": "بحسب SCMP في 9 مايو، قالت امرأة في الصين إن سلسلة شهيرة لشاي الحليب وضعت الزئبق في مشروبها، لكنها علمت لاحقا أن المسؤول هو حبيبها.",
+        "body": "شهدت الصين قضية تتعلق بوجود زئبق في مشروب امرأة، قبل أن تأخذ القصة مسارا مختلفا عن الاتهام الأول. وبحسب صحيفة ساوث تشاينا مورنينغ بوست في 9 مايو، زعمت المرأة في البداية أن سلسلة شهيرة لبيع شاي الحليب وضعت الزئبق في مشروبها. لكنها علمت لاحقا أن من أضاف الزئبق كان حبيبها. وبدت القضية في البداية كأنها تثير تساؤلات حول سلامة المشروبات التي تبيعها سلسلة تجارية، لكن جوهر التقرير أن المسؤولية لم تكن على المتجر، بل على شخص قريب من الضحية. وتعيد الواقعة تسليط الضوء على ادعاءات سلامة الأغذية والمشروبات وكذلك الجرائم الشخصية. المصدر: نقلا عن mk.co.kr"
+      },
+      "hi": {
+        "title": "चीन मिल्क टी पारा मामला: चेन पर शक था, लेकिन आरोपी प्रेमी निकला",
+        "excerpt": "SCMP की 9 मई की रिपोर्ट के अनुसार, चीन की एक महिला ने दावा किया कि प्रसिद्ध मिल्क टी चेन ने उसके पेय में पारा मिलाया, पर बाद में पता चला कि जिम्मेदार उसका प्रेमी था।",
+        "body": "चीन में एक महिला के पेय में पारा मिलाए जाने का मामला बाद में शुरुआती दावे से अलग दिशा में गया। 9 मई को साउथ चाइना मॉर्निंग पोस्ट (SCMP) के अनुसार, महिला ने पहले दावा किया था कि एक प्रसिद्ध मिल्क टी चेन ने उसके पेय में पारा डाला। बाद में उसे पता चला कि पारा मिलाने वाला व्यक्ति उसका प्रेमी था। शुरुआत में यह मामला फ्रेंचाइजी पेय की सुरक्षा पर उठे सवाल की तरह सामने आया था, लेकिन रिपोर्ट का मुख्य बिंदु यह है कि जिम्मेदारी दुकान की नहीं, बल्कि पीड़िता के करीबी व्यक्ति की थी। यह घटना खाद्य और पेय सुरक्षा से जुड़े दावों के साथ व्यक्तिगत अपराधों पर भी ध्यान खींच रही है। स्रोत: mk.co.kr से उद्धृत"
+      },
+      "id": {
+        "title": "Kasus merkuri milk tea di China: gerai sempat dicurigai, pelaku ternyata pacar",
+        "excerpt": "Menurut SCMP pada 9 Mei, seorang perempuan di China mengaku minumannya di jaringan milk tea terkenal diberi merkuri, tetapi kemudian mengetahui pelakunya adalah pacarnya.",
+        "body": "Kasus di China terkait merkuri dalam minuman seorang perempuan berakhir berbeda dari dugaan awal. Menurut South China Morning Post (SCMP) pada 9 Mei, perempuan itu semula mengklaim bahwa jaringan milk tea terkenal telah memasukkan merkuri ke dalam minumannya. Namun kemudian ia mengetahui bahwa orang yang menambahkan merkuri tersebut adalah pacarnya. Peristiwa ini awalnya dipahami sebagai keluhan konsumen mengenai keamanan minuman waralaba, tetapi inti laporan menunjukkan bahwa tanggung jawabnya bukan pada gerai, melainkan pada orang dekat korban. Kasus ini turut menyoroti isu klaim keamanan makanan dan minuman serta tindakan kriminal personal. Sumber: dikutip dari mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e35b5d645f2d",
+    "slug": "여야-대표-거취-민심에-물어보니정청래-연임-반대-45-장동혁-사퇴-42-431242",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T19:57:54.903Z",
+    "updatedAt": "2026-05-09T19:57:54.903Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12042372",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042372",
+    "titleFingerprint": "00a7b3a4eeed69a9a262865f76c1123418d70494",
+    "dedupKeys": [
+      "e35b5d645f2d05cd858cd3a35cfdbd6cdd43496f",
+      "00a7b3a4eeed69a9a262865f76c1123418d70494",
+      "35fb0f3d7fc78e145f6fcd8058cbc5cac1ca83b4"
+    ],
+    "imageUrl": "/images/articles/e35b5d645f2d.png",
+    "i18n": {
+      "ko": {
+        "title": "정청래 연임 반대 45%·장동혁 사퇴 42%…여야 대표 거취 여론 촉각",
+        "excerpt": "최근 여야 대표 거취에 대한 민심 조사에서 정청래 더불어민주당 대표 연임 반대가 45%, 장동혁 국민의힘 대표 사퇴 의견이 42%로 나타나 정치권이 주목하고 있다.",
+        "body": "최근 실시된 여야 대표 거취 관련 민심 조사에서 정청래 더불어민주당 대표와 장동혁 국민의힘 대표를 둘러싼 여론 흐름이 주목받고 있다. 조사 결과 정청래 대표의 연임에 반대한다는 응답은 45%, 장동혁 대표가 사퇴해야 한다는 응답은 42%로 집계됐다. 두 대표 모두 각 당 지지층 안에서는 일정 수준의 지지를 받았지만, 전체 여론에서는 거취를 둘러싼 부담이 확인된 셈이다. 이번 수치는 여야 지도부의 향후 행보와 당내 리더십 논의에 영향을 줄 수 있어 정치권의 관심이 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Chung Cheong-rae Re-election Opposition at 45%, Jang Dong-hyuk Resignation Calls at 42%",
+        "excerpt": "A recent public opinion survey on the futures of South Korea’s rival party leaders found 45% opposed Chung Cheong-rae’s re-election and 42% favored Jang Dong-hyuk’s resignation.",
+        "body": "A recent public opinion survey on the political futures of South Korea’s ruling and opposition party leaders is drawing attention. According to the poll, 45% of respondents opposed the re-election of Chung Cheong-rae, leader of the Democratic Party of Korea, while 42% said Jang Dong-hyuk, leader of the People Power Party, should resign. Both leaders received a certain level of support from their own party supporters, but the overall public view showed pressure surrounding their positions. The figures could affect each party leadership’s next moves and internal discussions over political leadership. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "鄭清来代表の再任反対45%、張東赫代表の辞任要求42%…与野党代表に世論の重圧",
+        "excerpt": "最近の与野党代表の進退に関する世論調査で、鄭清来・共に民主党代表の再任反対は45%、張東赫・国民の力代表の辞任要求は42%となった。",
+        "body": "最近行われた与野党代表の進退に関する世論調査で、鄭清来・共に民主党代表と張東赫・国民の力代表をめぐる民意の流れが注目されている。調査結果によると、鄭代表の再任に反対する回答は45%、張代表が辞任すべきだという回答は42%だった。両代表はいずれも各党支持層の中では一定程度の支持を得たが、全体世論では進退をめぐる負担が確認された形だ。今回の数値は、与野党指導部の今後の動きや党内のリーダーシップ議論に影響を与える可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "郑清来连任反对率45%、张东赫辞职支持率42%…朝野党首去留受关注",
+        "excerpt": "最近一项关于韩国朝野党首去留的民意调查显示，45%反对共同民主党代表郑清来连任，42%认为国民力量代表张东赫应辞职。",
+        "body": "最近公布的韩国朝野党首去留相关民意调查引发关注。调查结果显示，反对共同民主党代表郑清来连任的受访者占45%，认为国民力量代表张东赫应辞职的受访者占42%。两位代表在各自政党支持者中都获得了一定程度的支持，但从整体舆论来看，其去留问题仍面临压力。相关数据可能影响朝野领导层今后的行动，以及党内围绕领导力展开的讨论，政治圈预计将继续关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Oposición del 45% a reelegir a Chung y 42% pide dimisión de Jang: presión sobre líderes",
+        "excerpt": "Una reciente encuesta sobre el futuro de los líderes partidarios surcoreanos mostró 45% de rechazo a la reelección de Chung Cheong-rae y 42% a favor de la dimisión de Jang Dong-hyuk.",
+        "body": "Una reciente encuesta sobre el futuro político de los líderes de los principales partidos de Corea del Sur está atrayendo atención. Según el sondeo, el 45% de los encuestados se opuso a la reelección de Chung Cheong-rae, líder del Partido Democrático, mientras que el 42% afirmó que Jang Dong-hyuk, líder del Partido del Poder Popular, debería dimitir. Ambos dirigentes recibieron cierto nivel de apoyo entre los simpatizantes de sus propios partidos, pero la opinión pública general mostró presión sobre su continuidad. Estas cifras podrían influir en los próximos pasos de las cúpulas partidarias y en los debates internos sobre liderazgo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Rejeição à reeleição de Chung chega a 45% e 42% pedem saída de Jang",
+        "excerpt": "Uma pesquisa recente sobre o futuro dos líderes partidários sul-coreanos apontou 45% contra a reeleição de Chung Cheong-rae e 42% a favor da renúncia de Jang Dong-hyuk.",
+        "body": "Uma pesquisa recente sobre o futuro político dos líderes dos principais partidos da Coreia do Sul está chamando atenção. Segundo o levantamento, 45% dos entrevistados se opuseram à reeleição de Chung Cheong-rae, líder do Partido Democrático, enquanto 42% disseram que Jang Dong-hyuk, líder do Partido do Poder Popular, deveria renunciar. Ambos receberam certo apoio entre os simpatizantes de seus próprios partidos, mas a opinião pública geral revelou pressão em torno de sua permanência. Os números podem influenciar os próximos passos das lideranças partidárias e os debates internos sobre liderança. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "45% gegen Chung-Wiederwahl, 42% für Jang-Rücktritt: Parteichefs unter Druck",
+        "excerpt": "Eine neue Umfrage zur Zukunft südkoreanischer Parteichefs zeigt: 45% lehnen eine Wiederwahl von Chung Cheong-rae ab, 42% befürworten einen Rücktritt von Jang Dong-hyuk.",
+        "body": "Eine aktuelle Umfrage zur politischen Zukunft der führenden Parteivorsitzenden in Südkorea sorgt für Aufmerksamkeit. Demnach lehnen 45% der Befragten eine Wiederwahl von Chung Cheong-rae, dem Vorsitzenden der Demokratischen Partei Koreas, ab. Zugleich sagten 42%, Jang Dong-hyuk, Vorsitzender der People Power Party, solle zurücktreten. Beide Politiker erhielten innerhalb ihrer jeweiligen Anhängerschaft ein gewisses Maß an Unterstützung, doch in der Gesamtöffentlichkeit zeigt sich Druck in der Frage ihres Verbleibs. Die Zahlen könnten die nächsten Schritte der Parteiführungen und interne Debatten über Führung beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "45% opposés au maintien de Chung, 42% pour le départ de Jang: les chefs sous pression",
+        "excerpt": "Un récent sondage sur l’avenir des chefs de partis sud-coréens indique que 45% s’opposent à la reconduction de Chung Cheong-rae et 42% souhaitent la démission de Jang Dong-hyuk.",
+        "body": "Un récent sondage sur l’avenir politique des chefs des principaux partis sud-coréens retient l’attention. Selon l’enquête, 45% des répondants s’opposent à la reconduction de Chung Cheong-rae, chef du Parti démocrate de Corée, tandis que 42% estiment que Jang Dong-hyuk, chef du Parti du pouvoir au peuple, devrait démissionner. Les deux dirigeants conservent un certain niveau de soutien parmi les sympathisants de leur propre parti, mais l’opinion générale montre une pression autour de leur maintien. Ces chiffres pourraient peser sur les prochaines décisions des directions partisanes et sur les discussions internes concernant le leadership. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "45% يعارضون تمديد ولاية تشونغ و42% يؤيدون استقالة جانغ وسط ترقب سياسي",
+        "excerpt": "أظهر استطلاع حديث بشأن مستقبل زعيمي الحزبين في كوريا الجنوبية أن 45% يعارضون تمديد ولاية تشونغ تشونغ-راي، فيما رأى 42% أن جانغ دونغ-هيوك ينبغي أن يستقيل.",
+        "body": "أثار استطلاع حديث بشأن مستقبل زعيمي الحزبين الرئيسيين في كوريا الجنوبية اهتماما سياسيا واسعا. ووفقا للنتائج، عارض 45% من المشاركين تمديد ولاية تشونغ تشونغ-راي، زعيم الحزب الديمقراطي الكوري، بينما قال 42% إن جانغ دونغ-هيوك، زعيم حزب قوة الشعب، يجب أن يستقيل. وحصل الزعيمان على مستوى معين من الدعم داخل قواعد حزبيهما، لكن الرأي العام الإجمالي أظهر ضغوطا واضحة حول بقائهما في منصبيهما. وقد تؤثر هذه الأرقام في خطوات القيادات الحزبية المقبلة وفي النقاشات الداخلية بشأن القيادة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "चुंग के फिर चुने जाने का 45% विरोध, जांग के इस्तीफे के पक्ष में 42% राय",
+        "excerpt": "दक्षिण कोरिया के सत्तारूढ़ और विपक्षी दलों के नेताओं के भविष्य पर हालिया सर्वे में 45% ने चुंग चेओंग-रे के फिर चुने जाने का विरोध किया और 42% ने जांग डोंग-ह्युक के इस्तीफे का समर्थन किया।",
+        "body": "दक्षिण कोरिया में प्रमुख राजनीतिक दलों के नेताओं के भविष्य पर हालिया जनमत सर्वे ने ध्यान खींचा है। सर्वे के अनुसार, डेमोक्रेटिक पार्टी ऑफ कोरिया के नेता चुंग चेओंग-रे के फिर चुने जाने का 45% उत्तरदाताओं ने विरोध किया। वहीं, पीपल पावर पार्टी के नेता जांग डोंग-ह्युक को इस्तीफा देना चाहिए, ऐसा 42% लोगों ने कहा। दोनों नेताओं को अपने-अपने दलों के समर्थकों के बीच कुछ स्तर का समर्थन मिला, लेकिन समग्र जनमत में उनके पद पर बने रहने को लेकर दबाव दिखा। ये आंकड़े आगे पार्टी नेतृत्व की चालों और आंतरिक नेतृत्व चर्चाओं को प्रभावित कर सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "45% Tolak Chung Menjabat Lagi, 42% Minta Jang Mundur: Sorotan Politik Meningkat",
+        "excerpt": "Survei terbaru tentang nasib pemimpin partai di Korea Selatan menunjukkan 45% menolak Chung Cheong-rae menjabat lagi dan 42% mendukung Jang Dong-hyuk mundur.",
+        "body": "Survei terbaru mengenai nasib politik para pemimpin partai utama di Korea Selatan menarik perhatian. Hasilnya menunjukkan 45% responden menolak Chung Cheong-rae, pemimpin Partai Demokrat Korea, menjabat kembali. Sementara itu, 42% menyatakan Jang Dong-hyuk, pemimpin People Power Party, sebaiknya mengundurkan diri. Keduanya masih memperoleh tingkat dukungan tertentu dari basis pendukung partai masing-masing, tetapi opini publik secara keseluruhan memperlihatkan tekanan terkait posisi mereka. Angka ini dapat memengaruhi langkah berikutnya dari pimpinan partai serta pembahasan internal mengenai kepemimpinan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c23342de9f00",
+    "slug": "미국인인데-미스-필리핀에-뽑히다니미인대회-우승자-자격-논란-568656",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T19:56:54.695Z",
+    "updatedAt": "2026-05-09T19:56:54.695Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12042374",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12042374",
+    "titleFingerprint": "18f78b235357e5c6d77c1cab7816d1683da11854",
+    "dedupKeys": [
+      "c23342de9f006aecf164e434cfcb30de1b1c945b",
+      "18f78b235357e5c6d77c1cab7816d1683da11854",
+      "d4ecab3437e15f87fa345eb8c8c6a0a22ea830f9"
+    ],
+    "imageUrl": "/images/articles/c23342de9f00.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미스 필리핀 비아 밀란-윈도스키 선발, 미국인 우승자 자격 논란 확산",
+        "excerpt": "필리핀이 9일 새 미스 유니버스 후보로 비아 밀란-윈도스키를 선정하면서, 미국인으로 알려진 우승자의 필리핀 대표 자격을 둘러싼 논란이 제기됐다.",
+        "body": "필리핀이 새로운 미스 유니버스 후보로 비아 밀란-윈도스키를 선정했다. 9일 mk.co.kr 보도에 따르면 밀란-윈도스키는 오는 11월 열리는 세계 미스유니버스 대회에 필리핀 대표로 출전할 예정이다. 이번 선발은 우승자가 미국인으로 알려지면서 자격 논란으로 이어졌다. 미스 유니버스는 국가 대표가 참가하는 국제 미인대회인 만큼, 대표 선발 기준과 출전 자격에 대한 관심이 커지고 있다. 필리핀 대표로 확정된 밀란-윈도스키가 11월 본선 무대에 오르게 되면서 논란은 대회 전까지 계속 주목될 전망이다. 출처: mk.co.kr 인용."
+      },
+      "en": {
+        "title": "Miss Philippines Pick Via Milan-Windowski Sparks Eligibility Debate",
+        "excerpt": "The Philippines selected Via Milan-Windowski as its new Miss Universe candidate on May 9, raising questions over the eligibility of the winner, who is described as American.",
+        "body": "The Philippines has selected Via Milan-Windowski as its new Miss Universe candidate. According to a May 9 report by mk.co.kr, Milan-Windowski is set to represent the Philippines at the global Miss Universe competition in November. The selection has led to controversy because the winner is described as American. As Miss Universe is an international pageant featuring national representatives, attention is now focused on the standards used to choose representatives and determine eligibility. With Milan-Windowski confirmed as the Philippine representative for the November final, the debate is expected to remain in focus ahead of the event. Source: cited from mk.co.kr."
+      },
+      "ja": {
+        "title": "ミス・フィリピンにビア・ミラン＝ウィンドスキ、米国人優勝者の資格で論争",
+        "excerpt": "フィリピンが9日、新たなミス・ユニバース候補にビア・ミラン＝ウィンドスキを選び、米国人とされる優勝者の代表資格をめぐる議論が起きている。",
+        "body": "フィリピンは新たなミス・ユニバース候補としてビア・ミラン＝ウィンドスキを選出した。mk.co.krが9日に報じたところによると、ミラン＝ウィンドスキは11月に開かれる世界ミス・ユニバース大会にフィリピン代表として出場する予定だ。今回の選出は、優勝者が米国人とされていることから資格をめぐる論争につながった。ミス・ユニバースは各国代表が参加する国際的な美人コンテストであるため、代表選考基準と出場資格に関心が集まっている。フィリピン代表に確定したミラン＝ウィンドスキが11月の本大会に臨むことになり、論争は大会前まで注目される見通しだ。出典：mk.co.kr引用。"
+      },
+      "zh": {
+        "title": "维亚·米兰-温多斯基当选菲律宾小姐，美国人资格争议升温",
+        "excerpt": "菲律宾9日选定维亚·米兰-温多斯基为新的环球小姐候选人，但这名被称为美国人的冠军是否具备菲律宾代表资格引发争议。",
+        "body": "菲律宾选定维亚·米兰-温多斯基为新的环球小姐候选人。据mk.co.kr 9日报道，米兰-温多斯基将于今年11月代表菲律宾参加世界环球小姐大赛。此次选拔因冠军被称为美国人而引发资格争议。由于环球小姐是由各国代表参加的国际选美赛事，代表选拔标准和参赛资格受到更多关注。随着米兰-温多斯基确认将以菲律宾代表身份登上11月的决赛舞台，相关争议预计将在赛前持续受到关注。来源：引用mk.co.kr。"
+      },
+      "es": {
+        "title": "Via Milan-Windowski, Miss Filipinas, desata debate por su elegibilidad",
+        "excerpt": "Filipinas eligió el 9 de mayo a Via Milan-Windowski como nueva candidata a Miss Universo, lo que abrió un debate sobre la elegibilidad de una ganadora descrita como estadounidense.",
+        "body": "Filipinas eligió a Via Milan-Windowski como su nueva candidata a Miss Universo. Según informó mk.co.kr el 9 de mayo, Milan-Windowski representará a Filipinas en el certamen mundial de Miss Universo que se celebrará en noviembre. La elección provocó controversia porque la ganadora es descrita como estadounidense. Dado que Miss Universo es un concurso internacional en el que participan representantes nacionales, crece la atención sobre los criterios de selección y los requisitos de participación. Con Milan-Windowski confirmada como representante filipina para la final de noviembre, el debate seguirá bajo observación antes del certamen. Fuente: citado de mk.co.kr."
+      },
+      "pt": {
+        "title": "Via Milan-Windowski vence Miss Filipinas e gera debate sobre elegibilidade",
+        "excerpt": "As Filipinas escolheram em 9 de maio Via Milan-Windowski como nova candidata ao Miss Universo, levantando debate sobre a elegibilidade da vencedora descrita como americana.",
+        "body": "As Filipinas escolheram Via Milan-Windowski como sua nova candidata ao Miss Universo. Segundo reportagem do mk.co.kr em 9 de maio, Milan-Windowski deverá representar as Filipinas no concurso mundial Miss Universo, marcado para novembro. A seleção gerou controvérsia porque a vencedora é descrita como americana. Como o Miss Universo é um concurso internacional com representantes nacionais, aumentou a atenção sobre os critérios de escolha e as regras de elegibilidade. Com Milan-Windowski confirmada como representante filipina na etapa final de novembro, a discussão deve continuar em foco até o evento. Fonte: citado de mk.co.kr."
+      },
+      "de": {
+        "title": "Via Milan-Windowski als Miss Philippines gewählt, Debatte um US-Siegerin",
+        "excerpt": "Die Philippinen wählten am 9. Mai Via Milan-Windowski zur neuen Miss-Universe-Kandidatin, was Fragen zur Startberechtigung der als Amerikanerin beschriebenen Siegerin auslöste.",
+        "body": "Die Philippinen haben Via Milan-Windowski als neue Kandidatin für Miss Universe ausgewählt. Laut einem Bericht von mk.co.kr vom 9. Mai soll Milan-Windowski die Philippinen im November beim weltweiten Miss-Universe-Wettbewerb vertreten. Die Wahl führte zu einer Kontroverse, weil die Siegerin als Amerikanerin beschrieben wird. Da Miss Universe ein internationaler Wettbewerb mit nationalen Vertreterinnen ist, richtet sich die Aufmerksamkeit nun auf Auswahlkriterien und Teilnahmeberechtigung. Da Milan-Windowski als Vertreterin der Philippinen für die Endrunde im November bestätigt ist, dürfte die Debatte bis zum Wettbewerb weiter im Blickpunkt stehen. Quelle: zitiert nach mk.co.kr."
+      },
+      "fr": {
+        "title": "Via Milan-Windowski élue Miss Philippines, débat sur son éligibilité",
+        "excerpt": "Les Philippines ont choisi le 9 mai Via Milan-Windowski comme nouvelle candidate à Miss Univers, déclenchant un débat sur l’éligibilité d’une gagnante décrite comme américaine.",
+        "body": "Les Philippines ont choisi Via Milan-Windowski comme nouvelle candidate à Miss Univers. Selon un article de mk.co.kr publié le 9 mai, Milan-Windowski représentera les Philippines au concours mondial Miss Univers prévu en novembre. Cette sélection a provoqué une controverse, car la gagnante est décrite comme américaine. Miss Univers étant un concours international réunissant des représentantes nationales, l’attention se porte désormais sur les critères de sélection et les conditions de participation. Avec Milan-Windowski confirmée comme représentante des Philippines pour la finale de novembre, le débat devrait rester suivi jusqu’au concours. Source : cité de mk.co.kr."
+      },
+      "ar": {
+        "title": "اختيار فيا ميلان-ويندوزكي لتمثيل الفلبين يثير جدلا حول الأهلية",
+        "excerpt": "اختارت الفلبين في 9 مايو فيا ميلان-ويندوزكي مرشحة جديدة لمسابقة ملكة جمال الكون، ما أثار جدلا بشأن أهلية الفائزة الموصوفة بأنها أمريكية.",
+        "body": "اختارت الفلبين فيا ميلان-ويندوزكي مرشحة جديدة لمسابقة ملكة جمال الكون. ووفقا لتقرير نشره mk.co.kr في 9 مايو، من المقرر أن تمثل ميلان-ويندوزكي الفلبين في مسابقة ملكة جمال الكون العالمية في نوفمبر. وأثار الاختيار جدلا لأن الفائزة توصف بأنها أمريكية. وبما أن ملكة جمال الكون مسابقة دولية تشارك فيها ممثلات عن الدول، تزايد الاهتمام بمعايير اختيار الممثلة الوطنية وشروط الأهلية. ومع تأكيد مشاركة ميلان-ويندوزكي ممثلة للفلبين في نهائيات نوفمبر، من المتوقع أن يظل الجدل محل متابعة حتى موعد المسابقة. المصدر: نقلا عن mk.co.kr."
+      },
+      "hi": {
+        "title": "विया मिलान-विंडोस्की बनीं मिस फिलीपींस, अमेरिकी विजेता की पात्रता पर विवाद",
+        "excerpt": "फिलीपींस ने 9 मई को विया मिलान-विंडोस्की को नई मिस यूनिवर्स उम्मीदवार चुना, जिससे अमेरिकी बताई जा रही विजेता की प्रतिनिधि पात्रता पर विवाद खड़ा हुआ।",
+        "body": "फिलीपींस ने विया मिलान-विंडोस्की को अपनी नई मिस यूनिवर्स उम्मीदवार के रूप में चुना है। mk.co.kr की 9 मई की रिपोर्ट के अनुसार, मिलान-विंडोस्की नवंबर में होने वाली विश्व मिस यूनिवर्स प्रतियोगिता में फिलीपींस का प्रतिनिधित्व करेंगी। यह चयन विवाद में आ गया क्योंकि विजेता को अमेरिकी बताया गया है। मिस यूनिवर्स एक अंतरराष्ट्रीय सौंदर्य प्रतियोगिता है जिसमें राष्ट्रीय प्रतिनिधि भाग लेते हैं, इसलिए प्रतिनिधि चयन मानदंड और भागीदारी पात्रता पर ध्यान बढ़ गया है। नवंबर के अंतिम मंच के लिए मिलान-विंडोस्की के फिलीपींस प्रतिनिधि के रूप में पुष्टि होने के बाद यह विवाद प्रतियोगिता से पहले तक चर्चा में रहने की संभावना है। स्रोत: mk.co.kr से उद्धृत।"
+      },
+      "id": {
+        "title": "Via Milan-Windowski Jadi Miss Filipina, Status Warga AS Picu Polemik",
+        "excerpt": "Filipina pada 9 Mei memilih Via Milan-Windowski sebagai kandidat baru Miss Universe, memicu polemik soal kelayakan pemenang yang disebut sebagai orang Amerika.",
+        "body": "Filipina memilih Via Milan-Windowski sebagai kandidat baru Miss Universe. Menurut laporan mk.co.kr pada 9 Mei, Milan-Windowski akan mewakili Filipina dalam ajang Miss Universe dunia yang digelar pada November. Pemilihan ini memicu kontroversi karena pemenangnya disebut sebagai orang Amerika. Karena Miss Universe adalah kontes kecantikan internasional yang diikuti perwakilan negara, perhatian kini tertuju pada standar pemilihan wakil dan syarat keikutsertaan. Dengan Milan-Windowski dikonfirmasi sebagai wakil Filipina di panggung final November, polemik ini diperkirakan tetap menjadi sorotan menjelang kompetisi. Sumber: dikutip dari mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "03dc14eb7b1e",
     "slug": "지금까지-이런-적은-없었다러시아-붉은-광장에-등장한-북한군-왜-654758",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Daya Saing Energi Terbarukan Disorot, Park Janjikan Dukungan Anggaran",
         "excerpt": "Menteri Perencanaan dan Anggaran Park Hong-keun pada tanggal 8 menyatakan akan mendorong transisi energi terbarukan dan mendukung daya saing global lewat anggaran tahun depan.",
         "body": "Park Hong-keun, Menteri Perencanaan dan Anggaran, pada tanggal 8 menyatakan akan secara aktif mendorong transisi ke energi terbarukan. Park menekankan perlunya memastikan daya saing global di sektor energi terbarukan dan menyampaikan arah agar dukungan terkait tercermin dalam proses penyusunan anggaran tahun depan. Pernyataan ini mengaitkan arah kebijakan transisi energi dengan rencana dukungan fiskal, sehingga dapat memengaruhi pembahasan ke depan mengenai pengembangan industri energi terbarukan dan alokasi anggaran. Laporan asli tidak mengungkap besaran dukungan maupun rincian proyek. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b98bc6b8071a",
-    "slug": "신보-네스트-ai랩-개소서울-동북권-첫-스타트업-보육시설-494398",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T11:25:11.856Z",
-    "updatedAt": "2026-05-09T11:25:11.856Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508077900002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508077900002",
-    "titleFingerprint": "a1f8dee40dc5ce494649ae993e28d3ab7c06cfe3",
-    "dedupKeys": [
-      "b98bc6b8071a5367f40c14d14eb198096d37e5c6",
-      "a1f8dee40dc5ce494649ae993e28d3ab7c06cfe3",
-      "33df8734f5e4cdb2458db35b15299ecce51bc124"
-    ],
-    "imageUrl": "/images/articles/b98bc6b8071a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "신보 네스트 AI랩 광진 개소, 서울 동북권 첫 스타트업 보육시설로 AI 창업 지원",
-        "excerpt": "신용보증기금은 스타트업 보육 공간인 네스트 AI랩 광진을 개소했다. 서울 동북권 첫 스타트업 보육시설로, AI 분야 창업 지원 거점 역할이 주목된다.",
-        "body": "신용보증기금의 스타트업 보육 공간인 네스트(NEST) AI(인공지능)-랩(Lab) 광진이 개소했다고 연합뉴스가 보도했다. 이번 시설은 서울 동북권에서 처음 문을 연 스타트업 보육시설로 소개됐다. 네스트 AI랩 광진은 신보가 운영하는 스타트업 보육 공간이라는 점에서, 초기 기업이 머물며 사업을 준비할 수 있는 기반으로 자리 잡는다. 특히 이름에서 드러나듯 AI 분야와 연계된 창업 지원 공간이라는 성격을 갖는다. 서울 동북권에 첫 보육시설이 들어서면서 지역 창업 생태계의 접근성 확대가 기대된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "KODIT Opens NEST AI-Lab Gwangjin, First Startup Incubator in Northeast Seoul",
-        "excerpt": "Korea Credit Guarantee Fund has opened NEST AI-Lab Gwangjin, its startup incubation space and the first such facility in northeast Seoul, drawing attention as an AI startup support base.",
-        "body": "Korea Credit Guarantee Fund has opened NEST AI-Lab Gwangjin, a startup incubation space, Yonhap News Agency reported. The facility was introduced as the first startup incubator to open in northeast Seoul. NEST AI-Lab Gwangjin is operated by KODIT as a space where early-stage companies can stay and prepare their businesses. As its name indicates, the facility is linked to support for startups in the artificial intelligence field. With the first incubation facility now established in northeast Seoul, the opening is expected to improve access to the local startup ecosystem. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "信用保証基金、NEST AIラボ広津を開設 ソウル北東部初のスタートアップ育成施設",
-        "excerpt": "信用保証基金はスタートアップ育成空間「NEST AIラボ広津」を開設した。ソウル北東部初の育成施設として、AI分野の創業支援拠点として注目される。",
-        "body": "信用保証基金のスタートアップ育成空間であるNEST AIラボ広津が開設されたと、聯合ニュースが報じた。同施設はソウル北東部で初めて開設されたスタートアップ育成施設として紹介された。NEST AIラボ広津は、信用保証基金が運営するスタートアップ向けの育成空間であり、初期企業が滞在しながら事業準備を進められる基盤となる。名称が示す通り、人工知能分野と連携した創業支援空間という性格を持つ。ソウル北東部に初の育成施設が設けられたことで、地域の創業エコシステムへのアクセス拡大が期待される。出所: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国信用保证基金开设NEST AI-Lab广津，首尔东北圈首个初创孵化设施",
-        "excerpt": "韩国信用保证基金开设初创企业孵化空间NEST AI-Lab广津。该设施是首尔东北圈首个初创孵化设施，作为AI创业支持据点受到关注。",
-        "body": "据韩联社报道，韩国信用保证基金的初创企业孵化空间NEST AI-Lab广津已经开设。该设施被介绍为首尔东北圈首个开门运营的初创企业孵化设施。NEST AI-Lab广津由韩国信用保证基金运营，是初创企业停留并准备业务的空间。正如名称所显示的那样，该设施具有与人工智能领域创业支持相连接的特点。随着首尔东北圈首个孵化设施落地，当地创业生态系统的可及性有望扩大。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "KODIT abre NEST AI-Lab Gwangjin, primera incubadora de startups del noreste de Seúl",
-        "excerpt": "Korea Credit Guarantee Fund abrió NEST AI-Lab Gwangjin, su espacio de incubación para startups y el primero de este tipo en el noreste de Seúl, con foco en apoyo a emprendimientos de IA.",
-        "body": "Korea Credit Guarantee Fund abrió NEST AI-Lab Gwangjin, un espacio de incubación para startups, informó la agencia Yonhap. La instalación fue presentada como la primera incubadora de startups que abre en el noreste de Seúl. NEST AI-Lab Gwangjin es un espacio operado por KODIT para que empresas en etapas iniciales puedan instalarse y preparar sus negocios. Como indica su nombre, el lugar está vinculado al apoyo a emprendimientos del campo de la inteligencia artificial. Con la llegada de la primera incubadora al noreste de Seúl, se espera una mayor accesibilidad al ecosistema emprendedor local. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "KODIT abre NEST AI-Lab Gwangjin, primeira incubadora de startups no nordeste de Seul",
-        "excerpt": "O Korea Credit Guarantee Fund abriu o NEST AI-Lab Gwangjin, espaço de incubação de startups e o primeiro do tipo no nordeste de Seul, com atenção ao apoio a empresas de IA.",
-        "body": "O Korea Credit Guarantee Fund abriu o NEST AI-Lab Gwangjin, um espaço de incubação de startups, informou a agência Yonhap. A instalação foi apresentada como a primeira incubadora de startups a operar no nordeste de Seul. O NEST AI-Lab Gwangjin é um espaço administrado pelo KODIT para que empresas em estágio inicial possam permanecer e preparar seus negócios. Como o nome indica, o local está ligado ao apoio a empreendimentos na área de inteligência artificial. Com a chegada da primeira incubadora ao nordeste de Seul, espera-se maior acesso ao ecossistema local de startups. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "KODIT eröffnet NEST AI-Lab Gwangjin, ersten Startup-Inkubator im Nordosten Seouls",
-        "excerpt": "Der Korea Credit Guarantee Fund hat NEST AI-Lab Gwangjin eröffnet. Der Startup-Inkubator ist die erste Einrichtung dieser Art im Nordosten Seouls und soll KI-Gründungen unterstützen.",
-        "body": "Der Korea Credit Guarantee Fund hat NEST AI-Lab Gwangjin eröffnet, einen Inkubationsraum für Startups, berichtete Yonhap. Die Einrichtung wurde als erster Startup-Inkubator im Nordosten Seouls vorgestellt. NEST AI-Lab Gwangjin wird von KODIT betrieben und bietet jungen Unternehmen einen Ort, an dem sie ihre Geschäftsaktivitäten vorbereiten können. Wie der Name zeigt, ist die Einrichtung mit der Unterstützung von Gründungen im Bereich künstliche Intelligenz verbunden. Mit dem ersten Inkubator im Nordosten Seouls dürfte der Zugang zum lokalen Startup-Ökosystem erweitert werden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "KODIT ouvre NEST AI-Lab Gwangjin, premier incubateur de startups du nord-est de Séoul",
-        "excerpt": "Le Korea Credit Guarantee Fund a ouvert NEST AI-Lab Gwangjin, son espace d’incubation pour startups et le premier du genre dans le nord-est de Séoul, avec un rôle d’appui à l’IA.",
-        "body": "Le Korea Credit Guarantee Fund a ouvert NEST AI-Lab Gwangjin, un espace d’incubation pour startups, a rapporté l’agence Yonhap. Le site a été présenté comme le premier incubateur de startups ouvert dans le nord-est de Séoul. NEST AI-Lab Gwangjin est exploité par KODIT et offre aux jeunes entreprises un lieu où préparer leurs activités. Comme son nom l’indique, l’espace est lié au soutien des créations d’entreprises dans le domaine de l’intelligence artificielle. L’arrivée de ce premier incubateur dans le nord-est de Séoul devrait élargir l’accès à l’écosystème local des startups. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "صندوق ضمان الائتمان الكوري يفتتح NEST AI-Lab غوانغجين كأول حاضنة ناشئة شمال شرق سول",
-        "excerpt": "افتتح صندوق ضمان الائتمان الكوري مساحة NEST AI-Lab غوانغجين لاحتضان الشركات الناشئة، وهي أول منشأة من نوعها في شمال شرق سول، مع تركيز على دعم ريادة الأعمال في الذكاء الاصطناعي.",
-        "body": "افتتح صندوق ضمان الائتمان الكوري مساحة NEST AI-Lab غوانغجين لاحتضان الشركات الناشئة، بحسب ما أفادت وكالة يونهاب. وجرى تقديم المنشأة بوصفها أول حاضنة للشركات الناشئة تفتح في شمال شرق سول. وتعد NEST AI-Lab غوانغجين مساحة يديرها الصندوق لتتمكن الشركات في مراحلها المبكرة من الإقامة فيها والتحضير لأعمالها. وكما يوضح الاسم، ترتبط المنشأة بدعم ريادة الأعمال في مجال الذكاء الاصطناعي. ومع دخول أول حاضنة إلى شمال شرق سول، من المتوقع أن تتوسع إمكانية الوصول إلى منظومة الشركات الناشئة المحلية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "KODIT ने खोला NEST AI-Lab Gwangjin, सियोल के उत्तर-पूर्व की पहली स्टार्टअप इनक्यूबेशन सुविधा",
-        "excerpt": "Korea Credit Guarantee Fund ने NEST AI-Lab Gwangjin खोला है। यह सियोल के उत्तर-पूर्व क्षेत्र की पहली स्टार्टअप इनक्यूबेशन सुविधा है और AI उद्यमों के समर्थन केंद्र के रूप में देखी जा रही है।",
-        "body": "Korea Credit Guarantee Fund ने स्टार्टअप इनक्यूबेशन स्पेस NEST AI-Lab Gwangjin खोला है, यह जानकारी Yonhap News Agency ने दी। इस सुविधा को सियोल के उत्तर-पूर्व क्षेत्र में खुली पहली स्टार्टअप इनक्यूबेटर सुविधा के रूप में पेश किया गया। NEST AI-Lab Gwangjin KODIT द्वारा संचालित स्थान है, जहां शुरुआती चरण की कंपनियां रहकर अपने कारोबार की तैयारी कर सकती हैं। नाम से स्पष्ट है कि यह सुविधा कृत्रिम बुद्धिमत्ता क्षेत्र से जुड़े स्टार्टअप समर्थन पर केंद्रित है। सियोल के उत्तर-पूर्व में पहली इनक्यूबेशन सुविधा खुलने से स्थानीय स्टार्टअप पारिस्थितिकी तंत्र तक पहुंच बढ़ने की उम्मीद है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "KODIT Buka NEST AI-Lab Gwangjin, Fasilitas Inkubasi Startup Pertama di Timur Laut Seoul",
-        "excerpt": "Korea Credit Guarantee Fund membuka NEST AI-Lab Gwangjin, ruang inkubasi startup pertama di timur laut Seoul, yang menjadi perhatian sebagai basis dukungan bagi startup AI.",
-        "body": "Korea Credit Guarantee Fund membuka NEST AI-Lab Gwangjin, ruang inkubasi untuk startup, menurut laporan Yonhap News Agency. Fasilitas ini diperkenalkan sebagai inkubator startup pertama yang dibuka di kawasan timur laut Seoul. NEST AI-Lab Gwangjin dioperasikan oleh KODIT sebagai tempat bagi perusahaan tahap awal untuk tinggal dan mempersiapkan bisnis mereka. Sesuai namanya, fasilitas ini terkait dengan dukungan bagi startup di bidang kecerdasan buatan. Dengan hadirnya fasilitas inkubasi pertama di timur laut Seoul, akses terhadap ekosistem startup lokal diharapkan semakin luas. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "43f13a214065",
-    "slug": "한투증권-올해-계약-이전-연금-1조원-돌파전년대비-107-628725",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T11:24:04.053Z",
-    "updatedAt": "2026-05-09T11:24:04.053Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508087800008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508087800008",
-    "titleFingerprint": "5023563270cdff850437afcf7cd88bfe018abd4f",
-    "dedupKeys": [
-      "43f13a214065b16cc7145ef570165c294e461395",
-      "5023563270cdff850437afcf7cd88bfe018abd4f",
-      "ac8bee2215a960e43e0fbadf67b6f3ac12ca631b"
-    ],
-    "imageUrl": "/images/articles/43f13a214065.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국투자증권 연금 계약 이전 1조원 돌파, 전년 대비 107% 증가",
-        "excerpt": "한국투자증권은 8일 올해 타사 계약 이전으로 유입된 연금 자산이 누적 1조원을 넘어섰으며 전년 대비 107% 증가했다고 밝혔다.",
-        "body": "한국투자증권은 8일 올해 다른 금융사에서 계약 이전을 통해 유입된 연금 자산이 누적 1조원을 넘어섰다고 밝혔다. 이는 전년 대비 107% 증가한 수준이다. 이번 발표는 연금 자산 이전 규모가 빠르게 확대됐다는 점을 보여준다. 회사가 공개한 수치는 올해 누적 기준이며, 타사에서 한국투자증권으로 옮겨온 연금 자산을 대상으로 한다. 연금 계약 이전 자금 유입이 1조원을 넘어서면서 한국투자증권의 연금 사업 내 자산 이동 흐름에도 관심이 커질 것으로 보인다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Korea Investment Pension Transfers Top 1 Trillion Won, Up 107%",
-        "excerpt": "Korea Investment & Securities said on the 8th that pension assets transferred from other firms this year exceeded 1 trillion won, up 107% from a year earlier.",
-        "body": "Korea Investment & Securities said on the 8th that pension assets brought in this year through contract transfers from other financial firms had exceeded a cumulative 1 trillion won. The amount was up 107% from the previous year. The announcement shows that the scale of pension asset transfers has expanded rapidly. The figure disclosed by the company is cumulative for this year and covers pension assets moved from other firms to Korea Investment & Securities. As pension contract transfer inflows surpassed 1 trillion won, attention is expected to focus on asset movement trends within the company’s pension business. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "韓国投資証券、年金の契約移管が1兆ウォン突破 前年比107%増",
-        "excerpt": "韓国投資証券は8日、今年他社からの契約移管で流入した年金資産が累計1兆ウォンを超え、前年比107%増えたと発表した。",
-        "body": "韓国投資証券は8日、今年、他の金融会社から契約移管を通じて流入した年金資産が累計1兆ウォンを超えたと発表した。これは前年に比べ107%増加した水準だ。今回の発表は、年金資産の移管規模が急速に拡大したことを示している。同社が公表した数値は今年の累計基準で、他社から韓国投資証券へ移された年金資産を対象としている。年金契約移管による資金流入が1兆ウォンを上回ったことで、同社の年金事業における資産移動の流れにも関心が集まりそうだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国投资证券养老金合约转入突破1万亿韩元，同比增107%",
-        "excerpt": "韩国投资证券8日表示，今年通过其他公司合约转入的养老金资产累计超过1万亿韩元，较上年同期增长107%。",
-        "body": "韩国投资证券8日表示，今年通过从其他金融公司进行合约转入而流入的养老金资产累计已超过1万亿韩元。这一规模较上年增长107%。该公告显示，养老金资产转入规模正在快速扩大。公司公布的数据为今年累计口径，统计对象是从其他公司转入韩国投资证券的养老金资产。随着养老金合约转入资金流入超过1万亿韩元，韩国投资证券养老金业务中的资产流动趋势也将受到更多关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Korea Investment supera 1 billón de wones en traspasos de pensiones",
-        "excerpt": "Korea Investment & Securities informó el día 8 que los activos de pensiones transferidos desde otras firmas este año superaron 1 billón de wones, un 107% más interanual.",
-        "body": "Korea Investment & Securities informó el día 8 que los activos de pensiones recibidos este año mediante traspasos de contratos desde otras entidades financieras superaron de forma acumulada 1 billón de wones. La cifra representa un aumento del 107% frente al año anterior. El anuncio muestra que el volumen de traspasos de activos de pensiones se ha ampliado con rapidez. El dato divulgado por la compañía corresponde al acumulado de este año y cubre los activos de pensiones trasladados desde otras firmas a Korea Investment & Securities. Al superar 1 billón de wones, crece la atención sobre el movimiento de activos en su negocio de pensiones. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Korea Investment supera 1 trilhão de wons em transferências de pensão",
-        "excerpt": "A Korea Investment & Securities informou no dia 8 que os ativos de pensão transferidos de outras empresas neste ano passaram de 1 trilhão de wons, alta de 107%.",
-        "body": "A Korea Investment & Securities informou no dia 8 que os ativos de pensão recebidos neste ano por meio de transferências de contratos de outras instituições financeiras superaram, no acumulado, 1 trilhão de wons. O valor representa aumento de 107% em relação ao ano anterior. O anúncio mostra que o volume de transferências de ativos de pensão cresceu rapidamente. O dado divulgado pela empresa é acumulado no ano e se refere aos ativos de pensão transferidos de outras companhias para a Korea Investment & Securities. Com as entradas por transferência de contratos acima de 1 trilhão de wons, aumenta a atenção sobre o fluxo de ativos em seu negócio de pensões. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Korea Investment: Renten-Vertragsüberträge über 1 Bio. Won, plus 107%",
-        "excerpt": "Korea Investment & Securities teilte am 8. mit, dass in diesem Jahr per Vertragsübertrag von anderen Firmen zugeflossene Rentenvermögen 1 Bio. Won überschritten.",
-        "body": "Korea Investment & Securities teilte am 8. mit, dass die in diesem Jahr durch Vertragsüberträge von anderen Finanzunternehmen zugeflossenen Rentenvermögen kumuliert 1 Billion Won überschritten haben. Das entspricht einem Anstieg von 107% gegenüber dem Vorjahr. Die Mitteilung zeigt, dass sich das Volumen der Überträge von Rentenvermögen deutlich ausgeweitet hat. Die vom Unternehmen veröffentlichte Zahl bezieht sich auf den bisherigen Jahresverlauf und umfasst Rentenvermögen, das von anderen Firmen zu Korea Investment & Securities übertragen wurde. Mit Zuflüssen von mehr als 1 Billion Won dürfte der Vermögenstransfer im Rentengeschäft des Unternehmens stärker beachtet werden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Korea Investment dépasse 1 000 Mds de wons de transferts de retraite",
-        "excerpt": "Korea Investment & Securities a annoncé le 8 que les actifs de retraite transférés depuis d’autres sociétés cette année dépassaient 1 000 Mds de wons, en hausse de 107%.",
-        "body": "Korea Investment & Securities a annoncé le 8 que les actifs de retraite reçus cette année par transfert de contrats depuis d’autres établissements financiers avaient dépassé, en cumul, 1 000 milliards de wons. Ce montant représente une hausse de 107% par rapport à l’année précédente. L’annonce montre que l’ampleur des transferts d’actifs de retraite s’est rapidement accrue. Le chiffre publié par la société est calculé en cumul depuis le début de l’année et concerne les actifs de retraite transférés d’autres entreprises vers Korea Investment & Securities. Le dépassement de 1 000 milliards de wons devrait attirer l’attention sur les flux d’actifs dans son activité retraite. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كوريا إنفستمنت: تحويلات عقود التقاعد تتجاوز تريليون وون بزيادة 107%",
-        "excerpt": "قالت كوريا إنفستمنت آند سيكيوريتيز في اليوم الثامن إن أصول التقاعد المحولة من شركات أخرى هذا العام تجاوزت تريليون وون، بارتفاع 107% عن العام السابق.",
-        "body": "قالت كوريا إنفستمنت آند سيكيوريتيز في اليوم الثامن إن أصول التقاعد التي دخلت هذا العام عبر تحويل العقود من مؤسسات مالية أخرى تجاوزت، على أساس تراكمي، تريليون وون. ويمثل ذلك زيادة قدرها 107% مقارنة بالعام السابق. ويظهر الإعلان أن حجم تحويل أصول التقاعد توسع بسرعة. والرقم الذي أعلنته الشركة يحتسب على أساس تراكمي لهذا العام، ويشمل أصول التقاعد المنقولة من شركات أخرى إلى كوريا إنفستمنت آند سيكيوريتيز. ومع تجاوز تدفقات تحويل عقود التقاعد تريليون وون، من المتوقع أن يزداد الاهتمام بحركة الأصول داخل نشاط التقاعد لدى الشركة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Korea Investment में पेंशन ट्रांसफर 1 ट्रिलियन वॉन पार, 107% बढ़त",
-        "excerpt": "Korea Investment & Securities ने 8 तारीख को कहा कि इस साल अन्य कंपनियों से अनुबंध ट्रांसफर के जरिए आए पेंशन एसेट 1 ट्रिलियन वॉन से ऊपर पहुंच गए, जो 107% अधिक है।",
-        "body": "Korea Investment & Securities ने 8 तारीख को बताया कि इस साल अन्य वित्तीय कंपनियों से अनुबंध ट्रांसफर के जरिए आए पेंशन एसेट संचयी रूप से 1 ट्रिलियन वॉन से अधिक हो गए। यह पिछले साल की तुलना में 107% की वृद्धि है। कंपनी की घोषणा बताती है कि पेंशन एसेट ट्रांसफर का आकार तेजी से बढ़ा है। घोषित आंकड़ा इस साल के संचयी आधार पर है और इसमें अन्य कंपनियों से Korea Investment & Securities में स्थानांतरित किए गए पेंशन एसेट शामिल हैं। पेंशन अनुबंध ट्रांसफर से आई राशि 1 ट्रिलियन वॉन से ऊपर जाने के बाद कंपनी के पेंशन कारोबार में एसेट मूवमेंट पर ध्यान बढ़ने की संभावना है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Transfer Pensiun Korea Investment Tembus 1 Triliun Won, Naik 107%",
-        "excerpt": "Korea Investment & Securities pada tanggal 8 menyatakan aset pensiun yang masuk tahun ini lewat transfer kontrak dari perusahaan lain melampaui 1 triliun won, naik 107%.",
-        "body": "Korea Investment & Securities pada tanggal 8 menyatakan bahwa aset pensiun yang masuk tahun ini melalui transfer kontrak dari perusahaan keuangan lain telah melampaui 1 triliun won secara kumulatif. Jumlah itu naik 107% dibandingkan tahun sebelumnya. Pengumuman ini menunjukkan bahwa skala transfer aset pensiun berkembang cepat. Angka yang dirilis perusahaan merupakan data kumulatif tahun ini dan mencakup aset pensiun yang dipindahkan dari perusahaan lain ke Korea Investment & Securities. Setelah arus masuk dari transfer kontrak pensiun melewati 1 triliun won, perhatian terhadap pergerakan aset dalam bisnis pensiun perusahaan diperkirakan meningkat. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e3f60eb75bc3",
-    "slug": "제주삼다수-중국-온라인-시장-첫-진출7월까지-입점-579004",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T11:00:43.981Z",
-    "updatedAt": "2026-05-09T11:00:43.981Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508099700056",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508099700056",
-    "titleFingerprint": "f92dba8d6c82b4bc182d4f07d85b4712a35dce37",
-    "dedupKeys": [
-      "e3f60eb75bc3639c0c316a76c9d763685ba5f4e7",
-      "f92dba8d6c82b4bc182d4f07d85b4712a35dce37",
-      "45fff77c2bd5ce09f263a5bb37b3ad8b9e12aabc"
-    ],
-    "imageUrl": "/images/articles/e3f60eb75bc3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "제주삼다수 중국 온라인 시장 첫 진출, 7월까지 입점 추진",
-        "excerpt": "제주삼다수가 처음으로 중국 온라인 채널에 진출해 7월까지 입점을 추진하며 중국 현지 소비 시장 공략에 나선다고 연합뉴스가 보도했다.",
-        "body": "제주삼다수가 처음으로 중국 온라인 시장에 진출해 중국 현지 소비 시장 공략에 나선다. 연합뉴스 보도에 따르면 제주삼다수는 중국 온라인 채널 입점을 7월까지 추진하며, 이를 통해 현지 소비자와의 접점을 넓힐 계획이다. 이번 진출은 제주삼다수가 중국 온라인 유통 채널에 처음 들어선다는 점에서 의미가 있다. 중국 소비 시장을 겨냥한 온라인 판매 기반이 마련되면 브랜드 노출과 구매 접근성이 확대될 수 있다. 다만 구체적인 입점 채널이나 판매 규모 등 세부 내용은 원문에서 공개되지 않았다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Jeju Samdasoo Makes First Move Into China Online Market by July",
-        "excerpt": "Jeju Samdasoo will enter Chinese online channels for the first time by July as it seeks to reach local consumers, Yonhap News Agency reported.",
-        "body": "Jeju Samdasoo is entering China’s online market for the first time as it targets local consumers. According to Yonhap News Agency, the bottled water brand plans to complete its entry into Chinese online channels by July, expanding points of contact with consumers in the country. The move is notable because it marks Jeju Samdasoo’s first presence in China’s online distribution channels. If an online sales base is established for the Chinese consumer market, brand exposure and purchasing access could expand. Specific platforms, sales volumes and other details were not disclosed in the original report. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "済州三多水、中国オンライン市場へ初進出 7月までに入店へ",
-        "excerpt": "済州三多水が初めて中国のオンラインチャンネルに進出し、7月までの入店を進めて現地消費市場の攻略に乗り出すと聯合ニュースが報じた。",
-        "body": "済州三多水が初めて中国オンライン市場に進出し、中国現地の消費市場攻略に乗り出す。聯合ニュースの報道によると、済州三多水は中国オンラインチャンネルへの入店を7月までに進め、現地消費者との接点を広げる計画だ。今回の進出は、済州三多水が中国のオンライン流通チャンネルに初めて入るという点で意味がある。中国消費市場を狙ったオンライン販売基盤が整えば、ブランド露出と購入アクセスが広がる可能性がある。ただし、具体的な入店チャンネルや販売規模などの詳細は原文で公開されていない。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "济州三多水首次进军中国线上市场，计划7月前入驻",
-        "excerpt": "据韩联社报道，济州三多水将首次进入中国线上渠道，并计划在7月前完成入驻，以开拓中国当地消费市场。",
-        "body": "济州三多水将首次进入中国线上市场，面向中国当地消费市场展开布局。据韩联社报道，济州三多水计划在7月前推进入驻中国线上渠道，以扩大与当地消费者的接触点。此次进军的意义在于，这是济州三多水首次进入中国线上流通渠道。如果面向中国消费市场的线上销售基础得以建立，品牌曝光度和购买便利性可能会扩大。不过，原文未披露具体入驻平台、销售规模等细节。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Jeju Samdasoo entra por primera vez al mercado online chino antes de julio",
-        "excerpt": "Jeju Samdasoo entrará por primera vez en canales online de China antes de julio para llegar al consumo local, informó la agencia Yonhap.",
-        "body": "Jeju Samdasoo entrará por primera vez en el mercado online de China para dirigirse al consumo local. Según informó la agencia Yonhap, la marca prevé completar su incorporación a canales online chinos antes de julio, con el objetivo de ampliar sus puntos de contacto con los consumidores del país. La entrada es relevante porque supone la primera presencia de Jeju Samdasoo en canales de distribución online de China. Si se establece una base de ventas online orientada al mercado chino, podrían ampliarse la exposición de la marca y el acceso de compra. El reporte original no reveló plataformas concretas ni volúmenes de venta. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Jeju Samdasoo estreia no mercado online da China com entrada até julho",
-        "excerpt": "A Jeju Samdasoo entrará pela primeira vez em canais online da China até julho para alcançar consumidores locais, informou a agência Yonhap.",
-        "body": "A Jeju Samdasoo entrará pela primeira vez no mercado online da China para mirar o consumo local. Segundo a agência Yonhap, a marca planeja concluir sua entrada em canais online chineses até julho, ampliando os pontos de contato com consumidores no país. O movimento é significativo porque marca a primeira presença da Jeju Samdasoo em canais de distribuição online da China. Se uma base de vendas online voltada ao mercado consumidor chinês for estabelecida, a exposição da marca e o acesso à compra podem aumentar. O relatório original não divulgou plataformas específicas, volumes de venda ou outros detalhes. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Jeju Samdasoo startet erstmals im chinesischen Online-Markt bis Juli",
-        "excerpt": "Jeju Samdasoo will erstmals in chinesische Online-Kanäle eintreten und bis Juli gelistet werden, um lokale Verbraucher zu erreichen, berichtete Yonhap.",
-        "body": "Jeju Samdasoo tritt erstmals in den chinesischen Online-Markt ein und nimmt damit lokale Verbraucher ins Visier. Laut einem Bericht der Nachrichtenagentur Yonhap plant die Marke, ihre Listung in chinesischen Online-Kanälen bis Juli voranzutreiben und so die Kontaktpunkte zu Verbrauchern im Land zu erweitern. Der Schritt ist bedeutsam, weil Jeju Samdasoo damit erstmals in Chinas Online-Vertriebskanälen vertreten wäre. Wird eine Online-Verkaufsbasis für den chinesischen Konsummarkt geschaffen, könnten Markenpräsenz und Kaufzugang zunehmen. Konkrete Plattformen, Verkaufsvolumen oder weitere Details wurden im Originalbericht nicht genannt. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Jeju Samdasoo entre pour la première fois sur le marché en ligne chinois",
-        "excerpt": "Jeju Samdasoo va rejoindre pour la première fois des canaux en ligne chinois d’ici juillet afin de viser les consommateurs locaux, selon Yonhap.",
-        "body": "Jeju Samdasoo entre pour la première fois sur le marché en ligne chinois afin de viser la consommation locale. Selon l’agence Yonhap, la marque prévoit de rejoindre des canaux en ligne en Chine d’ici juillet, ce qui élargira ses points de contact avec les consommateurs du pays. Cette initiative est notable car elle marque la première présence de Jeju Samdasoo dans la distribution en ligne chinoise. Si une base de vente en ligne destinée au marché chinois est mise en place, l’exposition de la marque et l’accès à l’achat pourraient s’étendre. Le rapport original ne précise pas les plateformes concernées ni les volumes de vente. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "جيجو سامداسو تدخل سوق الصين الإلكتروني لأول مرة قبل يوليو",
-        "excerpt": "تعتزم جيجو سامداسو دخول القنوات الإلكترونية الصينية لأول مرة بحلول يوليو لاستهداف المستهلكين المحليين، وفق ما نقلته وكالة يونهاب.",
-        "body": "تدخل جيجو سامداسو سوق الصين الإلكتروني لأول مرة في خطوة تستهدف المستهلكين المحليين. ووفق تقرير وكالة يونهاب، تخطط العلامة لدفع عملية إدراجها في القنوات الإلكترونية الصينية بحلول يوليو، بما يوسع نقاط التواصل مع المستهلكين في الصين. وتكتسب الخطوة أهميتها لأنها تمثل أول دخول لجيجو سامداسو إلى قنوات التوزيع الإلكترونية في الصين. وإذا تم إنشاء قاعدة مبيعات إلكترونية موجهة إلى سوق الاستهلاك الصيني، فقد يتسع ظهور العلامة وإمكانية الوصول إلى الشراء. ولم يكشف التقرير الأصلي عن القنوات المحددة أو حجم المبيعات أو تفاصيل أخرى. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "जेजू समदासू पहली बार चीन के ऑनलाइन बाजार में, जुलाई तक लिस्टिंग",
-        "excerpt": "योनहाप के अनुसार जेजू समदासू पहली बार चीन के ऑनलाइन चैनलों में प्रवेश करेगी और जुलाई तक लिस्टिंग के जरिए स्थानीय उपभोक्ता बाजार को साधेगी।",
-        "body": "जेजू समदासू पहली बार चीन के ऑनलाइन बाजार में प्रवेश कर स्थानीय उपभोक्ता बाजार को साधने जा रही है। योनहाप समाचार एजेंसी की रिपोर्ट के अनुसार, कंपनी जुलाई तक चीनी ऑनलाइन चैनलों में लिस्टिंग आगे बढ़ाने की योजना बना रही है, जिससे देश के उपभोक्ताओं से संपर्क बिंदु बढ़ेंगे। यह कदम इसलिए महत्वपूर्ण है क्योंकि यह चीन के ऑनलाइन वितरण चैनलों में जेजू समदासू की पहली उपस्थिति होगी। यदि चीनी उपभोक्ता बाजार के लिए ऑनलाइन बिक्री आधार तैयार होता है, तो ब्रांड की दृश्यता और खरीद पहुंच बढ़ सकती है। मूल रिपोर्ट में विशिष्ट चैनल, बिक्री आकार या अन्य विवरण नहीं दिए गए। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Jeju Samdasoo Masuk Pasar Online China Pertama Kali, Target Juli",
-        "excerpt": "Jeju Samdasoo akan masuk kanal online China untuk pertama kali hingga Juli guna membidik konsumen lokal, menurut laporan Kantor Berita Yonhap.",
-        "body": "Jeju Samdasoo akan memasuki pasar online China untuk pertama kali guna membidik konsumen lokal. Menurut laporan Kantor Berita Yonhap, merek air minum itu menargetkan masuk ke kanal online China hingga Juli, sehingga dapat memperluas titik kontak dengan konsumen di negara tersebut. Langkah ini penting karena menjadi kehadiran pertama Jeju Samdasoo di kanal distribusi online China. Jika basis penjualan online untuk pasar konsumen China terbentuk, paparan merek dan akses pembelian dapat meningkat. Namun, laporan asli tidak mengungkap kanal spesifik, skala penjualan, atau rincian lainnya. Sumber: yna.co.kr"
       }
     }
   }
