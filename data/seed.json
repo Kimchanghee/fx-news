@@ -1,5 +1,230 @@
 [
   {
+    "id": "35fc43d346ec",
+    "slug": "시니어-돌봄-로봇-선보인-kb금융-서비스-적용-범위-확장-969384",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T17:29:17.232Z",
+    "updatedAt": "2026-05-09T17:29:17.232Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508050700002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508050700002",
+    "titleFingerprint": "18d309b8ac7581daf348196ae790787c10ecbeec",
+    "dedupKeys": [
+      "35fc43d346eca844ea3210308b87d1148ca18c7d",
+      "18d309b8ac7581daf348196ae790787c10ecbeec",
+      "b1a4cf915081987298c302ec07df35b23a74fc43"
+    ],
+    "imageUrl": "/images/articles/35fc43d346ec.jpg",
+    "i18n": {
+      "ko": {
+        "title": "KB금융 시니어 돌봄 로봇 ‘젠피’ 공개, 피지컬 AI 서비스 확대 본격화",
+        "excerpt": "KB금융그룹은 5월 8일 서울 코엑스 AI EXPO KOREA 2026에서 금융권 최초 휴머노이드 돌봄 로봇 ‘젠피’를 공개하고 서비스 확대 계획을 밝혔다.",
+        "body": "KB금융그룹은 5월 8일 서울 강남구 코엑스에서 열린 국제인공지능대전(AI EXPO KOREA 2026)에서 금융권 최초로 휴머노이드 로봇 ‘젠피’(GenP)를 선보였다고 밝혔다. 젠피는 KB금융이 생성형 AI 전문기업 제논과 공동 개발한 시니어 돌봄 특화 로봇으로, 정밀 동작을 위해 손가락 모듈 기능을 강화한 점이 특징이다. KB금융은 정서·인지 돌봄 중심 디지털 케어, 물건 전달과 환경 제어, 보행 보조와 부축, 고난도 신체 케어로 이어지는 4단계 피지컬 AI 로드맵을 추진한다. 오는 7월에는 KB골든라이프케어 종로평창카운티에 AI KB케어로봇 ‘케비’를 시범 도입한다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "KB Financial Unveils GenP Senior Care Robot, Expanding Physical AI Services",
+        "excerpt": "KB Financial Group said on May 8 that it introduced GenP, a humanoid senior care robot, at AI EXPO KOREA 2026 in Seoul as it plans to expand service applications.",
+        "body": "KB Financial Group said on May 8 that it unveiled the humanoid robot GenP at AI EXPO KOREA 2026, held at COEX in Gangnam, Seoul, marking a first for South Korea’s financial sector. GenP is a senior care robot jointly developed by KB Financial and generative AI specialist Xenon, with enhanced finger modules for precise movements. KB Financial plans a four-stage physical AI roadmap covering emotional and cognitive digital care, non-contact tasks such as delivering items and controlling environments, walking assistance and support, and advanced full-body care. In July, it will pilot the AI KB Care Robot Kebbi at KB Golden Life Care’s Jongno Pyeongchang County facility. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "KB金融、シニア介護ロボット「GenP」公開　フィジカルAI活用を拡大",
+        "excerpt": "KB金融グループは5月8日、ソウルのAI EXPO KOREA 2026で金融業界初のヒューマノイド介護ロボット「GenP」を公開し、サービス拡大方針を示した。",
+        "body": "KB金融グループは5月8日、ソウル市江南区のCOEXで開かれた国際人工知能展「AI EXPO KOREA 2026」で、金融業界初となるヒューマノイドロボット「GenP」を披露したと明らかにした。GenPはKB金融が生成AI専門企業ゼノンと共同開発したシニア介護特化ロボットで、精密な動作のため指モジュール機能を強化した点が特徴だ。KB金融は今後、情緒・認知ケア中心のデジタルケア、物品配送や環境制御などの非接触作業、歩行補助と介助、難度の高い全身ケアへ進む4段階のフィジカルAIロードマップを進める。7月にはKBゴールデンライフケア鍾路平倉カウンティにAI KBケアロボット「Kebbi」を試験導入する。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "KB金融发布养老护理机器人GenP，推进实体AI服务应用扩围",
+        "excerpt": "KB金融集团5月8日在首尔AI EXPO KOREA 2026上首次面向金融业展示人形养老护理机器人GenP，并公布服务应用扩展计划。",
+        "body": "KB金融集团5月8日表示，在首尔江南区COEX举行的国际人工智能展AI EXPO KOREA 2026上，首次在韩国金融业展示人形机器人GenP。GenP是KB金融与生成式AI专业企业Xenon共同开发的养老护理专用机器人，特点是强化了手指模块，以实现更精密的动作。KB金融计划推进四阶段实体AI发展路线图，包括以情绪和认知照护为中心的数字护理、物品递送和环境控制等非接触物理作业、步行辅助和搀扶等部分身体接触，以及高难度全身护理。7月，KB金融还将在KB Golden Life Care钟路平仓County试点导入AI KB护理机器人Kebbi。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "KB Financial presenta GenP, robot de cuidado sénior, y amplía servicios de IA física",
+        "excerpt": "KB Financial Group anunció el 8 de mayo en AI EXPO KOREA 2026, en Seúl, el robot humanoide GenP para cuidado sénior y sus planes de ampliar aplicaciones.",
+        "body": "KB Financial Group informó el 8 de mayo que presentó el robot humanoide GenP en AI EXPO KOREA 2026, celebrada en COEX, en Gangnam, Seúl, como una primicia para el sector financiero. GenP es un robot especializado en cuidado de personas mayores, desarrollado conjuntamente por KB Financial y la empresa de IA generativa Xenon, con módulos de dedos reforzados para movimientos precisos. KB Financial impulsará una hoja de ruta de IA física en cuatro etapas: cuidado digital emocional y cognitivo, tareas sin contacto como entrega de objetos y control del entorno, asistencia para caminar y apoyo físico parcial, y cuidados corporales avanzados. En julio probará el robot AI KB Care Kebbi en KB Golden Life Care Jongno Pyeongchang County. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "KB Financial apresenta robô GenP para idosos e amplia serviços de IA física",
+        "excerpt": "O KB Financial Group informou em 8 de maio que apresentou o robô humanoide GenP na AI EXPO KOREA 2026, em Seul, e planeja ampliar suas aplicações em cuidados.",
+        "body": "O KB Financial Group informou em 8 de maio que apresentou o robô humanoide GenP na AI EXPO KOREA 2026, realizada no COEX, em Gangnam, Seul, em uma iniciativa inédita no setor financeiro. O GenP é um robô especializado em cuidados para idosos, desenvolvido em conjunto pela KB Financial e pela empresa de IA generativa Xenon, com módulos de dedos reforçados para movimentos precisos. A KB Financial pretende avançar em um roteiro de IA física em quatro etapas: cuidado digital emocional e cognitivo, tarefas sem contato como entrega de objetos e controle ambiental, auxílio à caminhada e apoio parcial, e cuidados corporais avançados. Em julho, testará o AI KB Care Robot Kebbi na KB Golden Life Care Jongno Pyeongchang County. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "KB Financial zeigt Seniorenpflege-Roboter GenP und erweitert Physical-AI-Dienste",
+        "excerpt": "KB Financial Group stellte am 8. Mai auf der AI EXPO KOREA 2026 in Seoul den humanoiden Seniorenpflege-Roboter GenP vor und kündigte breitere Anwendungen an.",
+        "body": "KB Financial Group teilte am 8. Mai mit, dass sie auf der AI EXPO KOREA 2026 im COEX im Seouler Stadtteil Gangnam den humanoiden Roboter GenP vorgestellt hat, erstmals in der Finanzbranche. GenP ist ein auf Seniorenpflege spezialisierter Roboter, den KB Financial gemeinsam mit dem Generative-AI-Unternehmen Xenon entwickelt hat. Kennzeichnend sind verstärkte Fingermodule für präzise Bewegungen. KB Financial plant eine vierstufige Physical-AI-Roadmap: digitale Betreuung für emotionale und kognitive Pflege, kontaktlose Aufgaben wie Objektübergabe und Umgebungssteuerung, Gehunterstützung und Stützen sowie anspruchsvolle Ganzkörperpflege. Im Juli soll der AI KB Care Robot Kebbi bei KB Golden Life Care Jongno Pyeongchang County pilotiert werden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "KB Financial dévoile GenP, robot de soin senior, et élargit ses services d’IA physique",
+        "excerpt": "KB Financial Group a annoncé le 8 mai à AI EXPO KOREA 2026, à Séoul, son robot humanoïde GenP dédié aux seniors et un plan d’élargissement des usages.",
+        "body": "KB Financial Group a indiqué le 8 mai avoir présenté le robot humanoïde GenP lors d’AI EXPO KOREA 2026, organisée au COEX dans le quartier de Gangnam à Séoul, une première pour le secteur financier. GenP est un robot spécialisé dans le soin aux seniors, développé avec l’entreprise d’IA générative Xenon, et se distingue par des modules de doigts renforcés pour des mouvements précis. KB Financial prévoit une feuille de route d’IA physique en quatre étapes: soins numériques émotionnels et cognitifs, tâches sans contact comme la livraison d’objets et le contrôle de l’environnement, aide à la marche et soutien partiel, puis soins corporels avancés. En juillet, le groupe lancera un pilote du robot AI KB Care Kebbi chez KB Golden Life Care Jongno Pyeongchang County. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "KB Financial تكشف روبوت رعاية كبار السن GenP وتوسع خدمات الذكاء الاصطناعي المادي",
+        "excerpt": "أعلنت KB Financial Group في 8 مايو خلال AI EXPO KOREA 2026 في سيول عرض روبوت الرعاية البشري GenP لكبار السن وخطط توسيع نطاق تطبيقاته.",
+        "body": "قالت KB Financial Group في 8 مايو إنها عرضت الروبوت البشري GenP في معرض AI EXPO KOREA 2026 الذي أقيم في مركز COEX بمنطقة غانغنام في سيول، في خطوة تعد الأولى من نوعها في القطاع المالي. GenP روبوت متخصص في رعاية كبار السن طورته KB Financial بالاشتراك مع شركة Xenon المتخصصة في الذكاء الاصطناعي التوليدي، ويتميز بتعزيز وحدات الأصابع لتنفيذ حركات دقيقة. وتعتزم KB Financial تنفيذ خريطة طريق من أربع مراحل للذكاء الاصطناعي المادي تشمل الرعاية الرقمية العاطفية والمعرفية، والمهام غير التلامسية مثل نقل الأشياء والتحكم في البيئة، والمساعدة على المشي والإسناد الجزئي، ثم الرعاية الجسدية المتقدمة. وفي يوليو ستبدأ تجربة روبوت AI KB Care المسمى Kebbi في منشأة KB Golden Life Care Jongno Pyeongchang County. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "KB Financial ने वरिष्ठ देखभाल रोबोट GenP दिखाया, फिजिकल AI सेवाएं बढ़ेंगी",
+        "excerpt": "KB Financial Group ने 8 मई को सियोल में AI EXPO KOREA 2026 के दौरान वरिष्ठ देखभाल के लिए ह्यूमनॉइड रोबोट GenP पेश किया और सेवा विस्तार योजना बताई।",
+        "body": "KB Financial Group ने 8 मई को कहा कि उसने सियोल के गंगनम स्थित COEX में आयोजित AI EXPO KOREA 2026 में ह्यूमनॉइड रोबोट GenP पेश किया, जो वित्तीय क्षेत्र में अपनी तरह की पहली पहल है। GenP वरिष्ठ नागरिकों की देखभाल के लिए विशेष रोबोट है, जिसे KB Financial ने जनरेटिव AI विशेषज्ञ कंपनी Xenon के साथ मिलकर विकसित किया है। सटीक गतिविधियों के लिए इसके उंगली मॉड्यूल को मजबूत किया गया है। KB Financial चार चरणों वाला फिजिकल AI रोडमैप आगे बढ़ाएगा: भावनात्मक और संज्ञानात्मक डिजिटल केयर, वस्तु पहुंचाने और वातावरण नियंत्रित करने जैसे बिना संपर्क वाले कार्य, चलने में सहायता और सहारा, तथा उन्नत पूर्ण-शारीरिक देखभाल। जुलाई में AI KB Care Robot Kebbi को KB Golden Life Care Jongno Pyeongchang County में परीक्षण के तौर पर लगाया जाएगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "KB Financial Perkenalkan Robot Lansia GenP, Perluas Layanan Physical AI",
+        "excerpt": "KB Financial Group pada 8 Mei memperkenalkan robot humanoid GenP untuk perawatan lansia di AI EXPO KOREA 2026 Seoul dan menyiapkan perluasan layanan.",
+        "body": "KB Financial Group mengatakan pada 8 Mei bahwa pihaknya memperkenalkan robot humanoid GenP di AI EXPO KOREA 2026 yang digelar di COEX, Gangnam, Seoul, sebagai yang pertama di sektor keuangan. GenP adalah robot khusus perawatan lansia yang dikembangkan bersama oleh KB Financial dan perusahaan AI generatif Xenon, dengan modul jari yang diperkuat untuk gerakan presisi. KB Financial akan menjalankan peta jalan physical AI empat tahap: perawatan digital berbasis emosi dan kognisi, pekerjaan fisik tanpa kontak seperti pengantaran barang dan pengendalian lingkungan, bantuan berjalan dan penopang tubuh sebagian, serta perawatan tubuh tingkat lanjut. Pada Juli, AI KB Care Robot Kebbi akan diuji coba di KB Golden Life Care Jongno Pyeongchang County. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "dc3ff4dc4712",
+    "slug": "신한은행-글로벌-통합자금관리-서비스-출시웹케시와-협약-231745",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T17:28:13.150Z",
+    "updatedAt": "2026-05-09T17:28:13.150Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508052700002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508052700002",
+    "titleFingerprint": "f1d48ffc925d51eb879b30e713d13b5762b5ca95",
+    "dedupKeys": [
+      "dc3ff4dc4712f4fd752e035831456f1237bfd215",
+      "f1d48ffc925d51eb879b30e713d13b5762b5ca95",
+      "6a717b7295f97e3eafbe84f787247b3f4dba93bb"
+    ],
+    "imageUrl": "/images/articles/dc3ff4dc4712.jpg",
+    "i18n": {
+      "ko": {
+        "title": "신한은행, 웹케시와 글로벌 통합자금관리 서비스 출시 협약 체결",
+        "excerpt": "신한은행은 핀테크 기업 웹케시와 글로벌 통합자금관리 서비스 구축 및 CMS 고도화를 위한 협약을 맺고 기업 자금관리 역량 강화에 나섰다.",
+        "body": "신한은행은 핀테크 기업 웹케시와 글로벌 통합자금관리 서비스 구축 및 자금관리서비스(CMS) 고도화를 위한 협약을 체결했다고 밝혔다. 이번 협약은 기업 고객이 국내외 자금 흐름을 보다 통합적으로 관리할 수 있는 서비스 기반을 마련하는 데 초점이 맞춰졌다. 웹케시는 자금관리 솔루션 분야의 핀테크 기업으로, 양사는 통합자금관리 서비스 구축과 CMS 기능 고도화를 함께 추진한다. 신한은행은 이번 협력을 통해 기업 고객의 자금관리 편의성과 업무 효율을 높이는 방향으로 서비스를 강화할 계획이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Shinhan Bank Partners With Webcash to Launch Global Cash Management Service",
+        "excerpt": "Shinhan Bank signed an agreement with fintech firm Webcash to build a global integrated cash management service and enhance CMS capabilities for corporate clients.",
+        "body": "Shinhan Bank said it has signed an agreement with fintech company Webcash to build a global integrated cash management service and upgrade its cash management service, or CMS. The agreement focuses on creating a service base that helps corporate clients manage domestic and overseas cash flows in a more integrated way. Webcash is a fintech company specializing in cash management solutions, and the two companies will work together on the new integrated service and CMS enhancements. Shinhan Bank plans to strengthen services aimed at improving convenience and operational efficiency for corporate cash management. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "新韓銀行、Webcashとグローバル統合資金管理サービスで提携",
+        "excerpt": "新韓銀行はフィンテック企業Webcashと、グローバル統合資金管理サービスの構築とCMS高度化に向けた協約を締結した。",
+        "body": "新韓銀行は、フィンテック企業Webcashとグローバル統合資金管理サービスの構築および資金管理サービス（CMS）の高度化に向けた協約を締結したと明らかにした。今回の協約は、企業顧客が国内外の資金の流れをより統合的に管理できるサービス基盤を整えることに重点を置いている。Webcashは資金管理ソリューション分野のフィンテック企業で、両社は統合資金管理サービスの構築とCMS機能の高度化を共同で進める。新韓銀行はこの協力を通じ、企業顧客の資金管理の利便性と業務効率を高める方向でサービスを強化する計画だ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "新韩银行携手Webcash推出全球综合资金管理服务",
+        "excerpt": "新韩银行与金融科技企业Webcash签署协议，将建设全球综合资金管理服务并升级CMS，以提升企业客户资金管理能力。",
+        "body": "新韩银行表示，已与金融科技企业Webcash签署协议，推进全球综合资金管理服务建设及资金管理服务（CMS）升级。此次协议重点在于为企业客户建立服务基础，使其能够更加综合地管理国内外资金流动。Webcash是专注于资金管理解决方案的金融科技企业，双方将共同推进综合资金管理服务建设和CMS功能升级。新韩银行计划通过此次合作，强化面向企业客户的服务，提高资金管理便利性和业务效率。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Shinhan Bank y Webcash lanzarán un servicio global integrado de gestión de tesorería",
+        "excerpt": "Shinhan Bank firmó un acuerdo con la fintech Webcash para crear un servicio global integrado de gestión de tesorería y mejorar sus capacidades CMS.",
+        "body": "Shinhan Bank informó que firmó un acuerdo con la empresa fintech Webcash para construir un servicio global integrado de gestión de tesorería y modernizar su servicio de gestión de efectivo, conocido como CMS. El acuerdo se centra en crear una base de servicio que permita a los clientes corporativos gestionar de forma más integrada los flujos de fondos nacionales e internacionales. Webcash es una fintech especializada en soluciones de gestión de tesorería, y ambas compañías impulsarán juntas el nuevo servicio integrado y la mejora del CMS. Shinhan Bank prevé reforzar servicios orientados a elevar la comodidad y la eficiencia operativa en la gestión de fondos empresariales. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Shinhan Bank fecha parceria com Webcash para serviço global de gestão de caixa",
+        "excerpt": "O Shinhan Bank assinou acordo com a fintech Webcash para criar um serviço global integrado de gestão de caixa e aprimorar o CMS para empresas.",
+        "body": "O Shinhan Bank informou que assinou um acordo com a empresa de fintech Webcash para construir um serviço global integrado de gestão de caixa e aprimorar seu serviço de gestão de recursos, o CMS. O acordo tem como foco criar uma base de serviço que ajude clientes corporativos a administrar de forma mais integrada os fluxos de caixa domésticos e internacionais. A Webcash é uma fintech especializada em soluções de gestão de caixa, e as duas empresas trabalharão juntas na implantação do serviço integrado e na evolução das funções de CMS. O Shinhan Bank planeja fortalecer serviços voltados a ampliar a conveniência e a eficiência operacional da gestão financeira corporativa. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Shinhan Bank und Webcash starten global integrierten Cash-Management-Service",
+        "excerpt": "Die Shinhan Bank hat mit dem Fintech Webcash eine Vereinbarung zum Aufbau eines global integrierten Cash-Management-Service und zur CMS-Modernisierung geschlossen.",
+        "body": "Die Shinhan Bank teilte mit, dass sie mit dem Fintech-Unternehmen Webcash eine Vereinbarung zum Aufbau eines global integrierten Cash-Management-Service und zur Weiterentwicklung ihres Cash Management Service, CMS, geschlossen hat. Im Mittelpunkt steht eine Servicebasis, die Unternehmenskunden eine stärker integrierte Verwaltung inländischer und ausländischer Zahlungsströme ermöglichen soll. Webcash ist ein Fintech-Unternehmen mit Schwerpunkt auf Cash-Management-Lösungen. Beide Unternehmen wollen den integrierten Service und die Verbesserung der CMS-Funktionen gemeinsam vorantreiben. Die Shinhan Bank plant, dadurch Komfort und operative Effizienz im Finanzmanagement ihrer Firmenkunden zu erhöhen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Shinhan Bank s’allie à Webcash pour un service mondial de gestion de trésorerie",
+        "excerpt": "Shinhan Bank a conclu un accord avec la fintech Webcash afin de créer un service mondial intégré de gestion de trésorerie et d’améliorer son CMS.",
+        "body": "Shinhan Bank a annoncé avoir signé un accord avec la société fintech Webcash pour construire un service mondial intégré de gestion de trésorerie et renforcer son service de gestion de trésorerie, ou CMS. L’accord vise à établir une base de service permettant aux clients entreprises de gérer de manière plus intégrée les flux de fonds nationaux et internationaux. Webcash est une fintech spécialisée dans les solutions de gestion de trésorerie, et les deux sociétés travailleront ensemble à la mise en place du service intégré et à l’amélioration des fonctions CMS. Shinhan Bank prévoit ainsi de renforcer ses services afin d’améliorer la commodité et l’efficacité opérationnelle de la gestion financière des entreprises. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "شينهان بنك يتعاون مع ويب كاش لإطلاق خدمة عالمية موحدة لإدارة السيولة",
+        "excerpt": "وقّع شينهان بنك اتفاقا مع شركة التكنولوجيا المالية ويب كاش لبناء خدمة عالمية موحدة لإدارة السيولة وتطوير خدمات إدارة النقد للشركات.",
+        "body": "أعلن شينهان بنك أنه وقّع اتفاقا مع شركة التكنولوجيا المالية ويب كاش لبناء خدمة عالمية موحدة لإدارة السيولة وتطوير خدمة إدارة النقد CMS. ويركز الاتفاق على إنشاء قاعدة خدمية تساعد عملاء الشركات على إدارة تدفقات الأموال داخل كوريا وخارجها بصورة أكثر تكاملا. وتعد ويب كاش شركة تكنولوجيا مالية متخصصة في حلول إدارة الأموال، وسيعمل الطرفان معا على بناء خدمة الإدارة الموحدة وتحديث وظائف CMS. ويخطط شينهان بنك من خلال هذا التعاون لتعزيز خدماته بما يرفع سهولة إدارة أموال الشركات وكفاءة العمل. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "शिनहान बैंक ने Webcash के साथ वैश्विक एकीकृत फंड मैनेजमेंट सेवा के लिए समझौता किया",
+        "excerpt": "शिनहान बैंक ने फिनटेक कंपनी Webcash के साथ वैश्विक एकीकृत फंड मैनेजमेंट सेवा बनाने और CMS को उन्नत करने के लिए समझौता किया।",
+        "body": "शिनहान बैंक ने कहा कि उसने फिनटेक कंपनी Webcash के साथ वैश्विक एकीकृत फंड मैनेजमेंट सेवा बनाने और कैश मैनेजमेंट सर्विस, यानी CMS, को उन्नत करने के लिए समझौता किया है। इस समझौते का उद्देश्य ऐसी सेवा आधारशिला तैयार करना है जिससे कॉरपोरेट ग्राहक घरेलू और विदेशी धन प्रवाह को अधिक एकीकृत तरीके से प्रबंधित कर सकें। Webcash फंड मैनेजमेंट समाधान क्षेत्र की फिनटेक कंपनी है, और दोनों कंपनियां एकीकृत फंड मैनेजमेंट सेवा तथा CMS कार्यों के उन्नयन पर साथ काम करेंगी। शिनहान बैंक इस सहयोग के जरिये कॉरपोरेट ग्राहकों के लिए फंड मैनेजमेंट की सुविधा और कार्य दक्षता बढ़ाने वाली सेवाओं को मजबूत करने की योजना बना रहा है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Shinhan Bank Gandeng Webcash Luncurkan Layanan Global Manajemen Dana Terpadu",
+        "excerpt": "Shinhan Bank menandatangani kesepakatan dengan fintech Webcash untuk membangun layanan global manajemen dana terpadu dan meningkatkan CMS bagi korporasi.",
+        "body": "Shinhan Bank menyatakan telah menandatangani kesepakatan dengan perusahaan fintech Webcash untuk membangun layanan global manajemen dana terpadu dan meningkatkan cash management service, atau CMS. Kesepakatan ini berfokus pada penyediaan dasar layanan yang membantu nasabah korporasi mengelola arus dana domestik dan luar negeri secara lebih terintegrasi. Webcash merupakan perusahaan fintech di bidang solusi manajemen dana, dan kedua pihak akan bekerja sama dalam pembangunan layanan terpadu serta peningkatan fungsi CMS. Shinhan Bank berencana memperkuat layanan untuk meningkatkan kemudahan dan efisiensi kerja dalam pengelolaan dana korporasi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a827e921e062",
+    "slug": "주택금융공사-공공기관-최초-디지털채권-발행-456142",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T17:27:18.037Z",
+    "updatedAt": "2026-05-09T17:27:18.037Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508053700002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508053700002",
+    "titleFingerprint": "dd6fea5d7528050baaa7c3b6887ade1e347568df",
+    "dedupKeys": [
+      "a827e921e0624d5a5e34cceed8c90dedce83ed1c",
+      "dd6fea5d7528050baaa7c3b6887ade1e347568df",
+      "21984591ad3dd5c83c491e7345db5f8c95c5acd1"
+    ],
+    "imageUrl": "/images/articles/a827e921e062.jpg",
+    "i18n": {
+      "ko": {
+        "title": "주택금융공사, 공공기관 최초 2억달러 디지털채권 발행 성공",
+        "excerpt": "한국주택금융공사는 8일 분산원장 기술을 활용해 2억달러 규모의 디지털채권을 발행하는 데 성공했다고 밝혔으며, 공공기관 최초 사례로 주목된다.",
+        "body": "한국주택금융공사는 8일 분산원장 기술을 활용해 2억달러 규모의 디지털채권을 발행하는 데 성공했다고 밝혔다. 이번 발행은 공공기관 최초의 디지털채권 발행 사례로 소개됐다. 디지털채권은 기존 채권 발행 과정에 분산원장 기술을 적용한 방식이라는 점에서 의미가 있다. 발행 규모는 2억달러이며, 주택금융공사는 이를 통해 디지털 방식의 채권 발행을 실현했다. 이번 사례는 공공기관의 자금 조달 방식에서 디지털 기술 활용 가능성을 보여준 것으로 평가된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Korea Housing Finance Corp Issues First Public-Sector $200M Digital Bond",
+        "excerpt": "Korea Housing Finance Corp said on the 8th it successfully issued a $200 million digital bond using distributed ledger technology, marking a first among public institutions.",
+        "body": "Korea Housing Finance Corp said on the 8th that it successfully issued a $200 million digital bond using distributed ledger technology. The issuance was presented as the first digital bond issued by a public institution. The case is notable because it applies distributed ledger technology to the existing bond issuance process. The size of the issuance was $200 million, and the corporation said it realized a digital method of bond issuance through the transaction. The case is seen as showing the possible use of digital technology in public-sector financing methods. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "韓国住宅金融公社、公共機関初の2億ドルデジタル債発行に成功",
+        "excerpt": "韓国住宅金融公社は8日、分散台帳技術を活用して2億ドル規模のデジタル債発行に成功したと発表し、公共機関初の事例として注目される。",
+        "body": "韓国住宅金融公社は8日、分散台帳技術を活用し、2億ドル規模のデジタル債の発行に成功したと発表した。今回の発行は、公共機関として初めてのデジタル債発行事例として紹介された。デジタル債は、従来の債券発行過程に分散台帳技術を適用した方式である点に意味がある。発行規模は2億ドルで、同公社はこれによりデジタル方式の債券発行を実現した。今回の事例は、公共機関の資金調達方式におけるデジタル技術活用の可能性を示すものと評価される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国住宅金融公社成功发行公共机构首笔2亿美元数字债券",
+        "excerpt": "韩国住宅金融公社8日表示，已利用分布式账本技术成功发行2亿美元规模数字债券，作为公共机构首例受到关注。",
+        "body": "韩国住宅金融公社8日表示，已利用分布式账本技术成功发行2亿美元规模的数字债券。此次发行被介绍为公共机构首次发行数字债券的案例。数字债券的意义在于，将分布式账本技术应用于既有债券发行流程。此次发行规模为2亿美元，韩国住宅金融公社通过该交易实现了数字化方式的债券发行。该案例被认为显示了公共机构在资金筹措方式中运用数字技术的可能性。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Korea Housing Finance emite el primer bono digital público por 200 millones de dólares",
+        "excerpt": "Korea Housing Finance Corp informó el día 8 que emitió con éxito un bono digital de 200 millones de dólares usando tecnología de registro distribuido, el primero entre instituciones públicas.",
+        "body": "Korea Housing Finance Corp informó el día 8 que emitió con éxito un bono digital por 200 millones de dólares utilizando tecnología de registro distribuido. La emisión fue presentada como el primer caso de bono digital realizado por una institución pública. El bono digital destaca porque aplica tecnología de registro distribuido al proceso tradicional de emisión de bonos. El tamaño de la operación fue de 200 millones de dólares, y la entidad señaló que con ella concretó una emisión de bonos en formato digital. El caso muestra la posible utilización de tecnología digital en los métodos de financiación del sector público. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Korea Housing Finance emite primeiro título digital público de US$ 200 milhões",
+        "excerpt": "A Korea Housing Finance Corp informou no dia 8 que emitiu com sucesso um título digital de US$ 200 milhões usando tecnologia de registro distribuído, o primeiro entre instituições públicas.",
+        "body": "A Korea Housing Finance Corp informou no dia 8 que emitiu com sucesso um título digital de US$ 200 milhões utilizando tecnologia de registro distribuído. A emissão foi apresentada como o primeiro caso de título digital realizado por uma instituição pública. O título digital é relevante por aplicar tecnologia de registro distribuído ao processo tradicional de emissão de títulos. O valor da emissão foi de US$ 200 milhões, e a corporação afirmou ter realizado uma emissão em formato digital por meio da operação. O caso mostra a possibilidade de uso de tecnologia digital nos métodos de captação de recursos do setor público. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Korea Housing Finance begibt erste öffentliche Digitalanleihe über 200 Mio. Dollar",
+        "excerpt": "Die Korea Housing Finance Corp teilte am 8. mit, sie habe mithilfe der Distributed-Ledger-Technologie erfolgreich eine Digitalanleihe über 200 Millionen Dollar begeben, erstmals unter öffentlichen Institutionen.",
+        "body": "Die Korea Housing Finance Corp teilte am 8. mit, sie habe mithilfe der Distributed-Ledger-Technologie erfolgreich eine Digitalanleihe im Volumen von 200 Millionen Dollar begeben. Die Emission wurde als erste Digitalanleihe einer öffentlichen Institution vorgestellt. Bedeutung hat der Schritt, weil dabei Distributed-Ledger-Technologie auf den bestehenden Prozess der Anleiheemission angewendet wurde. Das Emissionsvolumen betrug 200 Millionen Dollar, und die Gesellschaft setzte damit eine digitale Form der Anleihebegebung um. Der Fall zeigt die mögliche Nutzung digitaler Technologie bei Finanzierungsformen öffentlicher Institutionen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Korea Housing Finance émet le premier emprunt numérique public de 200 M$",
+        "excerpt": "Korea Housing Finance Corp a annoncé le 8 avoir réussi l’émission d’un emprunt numérique de 200 millions de dollars grâce à la technologie de registre distribué, une première pour une institution publique.",
+        "body": "Korea Housing Finance Corp a annoncé le 8 avoir réussi à émettre un emprunt numérique de 200 millions de dollars en utilisant la technologie de registre distribué. Cette opération a été présentée comme la première émission d’emprunt numérique par une institution publique. Elle est significative car elle applique la technologie de registre distribué au processus existant d’émission obligataire. Le montant de l’émission s’élève à 200 millions de dollars, et l’organisme a ainsi réalisé une émission obligataire sous forme numérique. Ce cas montre la possibilité d’utiliser les technologies numériques dans les modes de financement des institutions publiques. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مؤسسة تمويل الإسكان الكورية تصدر أول سند رقمي عام بقيمة 200 مليون دولار",
+        "excerpt": "قالت مؤسسة تمويل الإسكان الكورية في الثامن إنها نجحت في إصدار سند رقمي بقيمة 200 مليون دولار باستخدام تقنية السجل الموزع، في أول حالة بين المؤسسات العامة.",
+        "body": "قالت مؤسسة تمويل الإسكان الكورية في الثامن إنها نجحت في إصدار سند رقمي بقيمة 200 مليون دولار باستخدام تقنية السجل الموزع. وجرى تقديم هذا الإصدار بوصفه أول حالة لإصدار سند رقمي من قبل مؤسسة عامة. وتكمن أهمية السند الرقمي في تطبيق تقنية السجل الموزع على عملية إصدار السندات القائمة. وبلغ حجم الإصدار 200 مليون دولار، وقالت المؤسسة إنها حققت من خلاله إصدار سندات بطريقة رقمية. وتظهر هذه الحالة إمكانية استخدام التكنولوجيا الرقمية في أساليب تمويل المؤسسات العامة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया हाउसिंग फाइनेंस ने सार्वजनिक क्षेत्र का पहला 20 करोड़ डॉलर डिजिटल बॉन्ड जारी किया",
+        "excerpt": "कोरिया हाउसिंग फाइनेंस कॉर्प ने 8 तारीख को कहा कि उसने वितरित लेजर तकनीक का उपयोग कर 20 करोड़ डॉलर का डिजिटल बॉन्ड सफलतापूर्वक जारी किया, जो सार्वजनिक संस्थानों में पहला मामला है।",
+        "body": "कोरिया हाउसिंग फाइनेंस कॉर्प ने 8 तारीख को कहा कि उसने वितरित लेजर तकनीक का उपयोग कर 20 करोड़ डॉलर के डिजिटल बॉन्ड को सफलतापूर्वक जारी किया। इस जारीकरण को किसी सार्वजनिक संस्थान द्वारा डिजिटल बॉन्ड जारी करने का पहला मामला बताया गया। डिजिटल बॉन्ड इसलिए महत्वपूर्ण है क्योंकि इसमें मौजूदा बॉन्ड जारी करने की प्रक्रिया में वितरित लेजर तकनीक लागू की गई है। जारीकरण का आकार 20 करोड़ डॉलर था, और संस्था ने कहा कि इस लेनदेन के जरिए उसने डिजिटल तरीके से बॉन्ड जारी किया। यह मामला सार्वजनिक संस्थानों की वित्त जुटाने की पद्धतियों में डिजिटल तकनीक के उपयोग की संभावना दिखाता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Korea Housing Finance Terbitkan Obligasi Digital Publik Pertama Senilai US$200 Juta",
+        "excerpt": "Korea Housing Finance Corp pada tanggal 8 mengatakan berhasil menerbitkan obligasi digital senilai US$200 juta dengan teknologi ledger terdistribusi, menjadi yang pertama di antara lembaga publik.",
+        "body": "Korea Housing Finance Corp pada tanggal 8 mengatakan berhasil menerbitkan obligasi digital senilai US$200 juta dengan menggunakan teknologi ledger terdistribusi. Penerbitan ini diperkenalkan sebagai kasus pertama obligasi digital yang dilakukan oleh lembaga publik. Obligasi digital tersebut bermakna karena menerapkan teknologi ledger terdistribusi pada proses penerbitan obligasi yang sudah ada. Nilai penerbitannya mencapai US$200 juta, dan korporasi itu mengatakan telah mewujudkan penerbitan obligasi secara digital melalui transaksi tersebut. Kasus ini menunjukkan kemungkinan pemanfaatan teknologi digital dalam metode pendanaan lembaga publik. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "cda0b5512e43",
     "slug": "정읍시-축산농가-사료구매-자금-206억원-증액-지원-986669",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Shinhan Investment Jual RP Online Khusus Senior Usia 65 Tahun ke Atas",
         "excerpt": "Shinhan Investment Securities pada 8 Mei menyatakan menjual RP promo khusus senior secara non-tatap muka bagi nasabah usia 65 tahun ke atas untuk Hari Orang Tua.",
         "body": "Shinhan Investment Securities pada 8 Mei menyatakan menjual “obligasi perjanjian pembelian kembali promo khusus senior secara non-tatap muka,” atau RP, bagi nasabah berusia 65 tahun ke atas untuk memperingati Hari Orang Tua. Produk ini merupakan RP promo khusus online yang ditujukan bagi nasabah senior dan disiapkan sehubungan dengan momentum Hari Orang Tua. Obligasi perjanjian pembelian kembali adalah produk berbentuk obligasi yang dijual perusahaan sekuritas dengan syarat akan dibeli kembali setelah periode tertentu. Shinhan Investment Securities tampaknya berfokus memperluas pilihan produk keuangan non-tatap muka bagi nasabah lanjut usia. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "db14056a9d34",
-    "slug": "외환-원달러-환율-177원-오른-14717원1530-종가-283863",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T08:27:19.450Z",
-    "updatedAt": "2026-05-09T08:27:19.450Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508122400002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508122400002",
-    "titleFingerprint": "a95115337986a5f84f99a2213de0c3df18bc1ed1",
-    "dedupKeys": [
-      "db14056a9d3482df3a14a8dd5c9afbe945985a35",
-      "a95115337986a5f84f99a2213de0c3df18bc1ed1",
-      "69c982ef20c17ee2c995fc8b2cbd87d20d37d3c5"
-    ],
-    "imageUrl": "/images/articles/db14056a9d34.jpg",
-    "i18n": {
-      "ko": {
-        "title": "원/달러 환율 1,471.7원 마감, 17.7원 급등한 종가 주목",
-        "excerpt": "원/달러 환율이 15시30분 종가 기준 전 거래일보다 17.7원 오른 1,471.7원에 마감했다고 yna.co.kr이 전했다.",
-        "body": "원/달러 환율이 15시30분 종가 기준 1,471.7원으로 마감했다. 이는 전 거래일 종가보다 17.7원 오른 수준이다. 이날 외환시장에서 확인된 핵심 수치는 종가 1,471.7원과 상승 폭 17.7원이다. 원문은 추가 배경이나 장중 흐름, 상승 원인에 대한 설명을 제시하지 않았다. 따라서 이번 보도에서 확인 가능한 사실은 원/달러 환율이 15시30분 종가 기준으로 상승 마감했다는 점에 한정된다. 시장 참가자들은 해당 종가와 변동 폭을 기준으로 다음 거래 흐름을 점검할 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "USD/KRW Closes at 1,471.7 Won, Up 17.7 Won at 15:30",
-        "excerpt": "The USD/KRW exchange rate closed at 1,471.7 won as of 15:30, up 17.7 won from the previous close, according to yna.co.kr.",
-        "body": "The USD/KRW exchange rate closed at 1,471.7 won as of the 15:30 closing quote. The rate was 17.7 won higher than the previous closing level. The key figures confirmed in the foreign exchange report are the closing rate of 1,471.7 won and the rise of 17.7 won. The original report did not provide additional background, intraday movement, or a stated reason for the increase. Therefore, the confirmed fact is limited to the dollar-won exchange rate ending higher at the 15:30 close. Market participants may use the closing level and the size of the move as reference points for the next trading session. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "ドル・ウォン相場、15時30分終値で1,471.7ウォンに上昇",
-        "excerpt": "ドル・ウォン相場は15時30分の終値で1,471.7ウォンとなり、前営業日比17.7ウォン上昇したとyna.co.krが伝えた。",
-        "body": "ドル・ウォン相場は15時30分の終値基準で1,471.7ウォンとなった。これは前営業日の終値より17.7ウォン高い水準である。今回の外国為替報道で確認された主な数値は、終値1,471.7ウォンと上昇幅17.7ウォンだ。原文では、追加の背景、取引時間中の推移、上昇要因についての説明は示されていない。したがって、今回確認できる事実は、ドル・ウォン相場が15時30分の終値で上昇して取引を終えたという点に限られる。市場参加者はこの終値と変動幅を次の取引動向を確認する基準にできる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "美元兑韩元收于1,471.7韩元，15:30终盘上涨17.7韩元",
-        "excerpt": "据yna.co.kr报道，美元兑韩元汇率在15:30收于1,471.7韩元，较上一收盘价上涨17.7韩元。",
-        "body": "美元兑韩元汇率以15:30收盘价计算，收于1,471.7韩元。该水平较上一收盘价上涨17.7韩元。本次外汇报道中可确认的核心数据为收盘价1,471.7韩元以及上涨幅度17.7韩元。原文未提供更多背景、盘中走势或上涨原因说明。因此，本报道可确认的事实仅限于美元兑韩元汇率在15:30收盘时上涨收报。市场参与者可将该收盘水平和变动幅度作为观察下一交易走势的参考。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "USD/KRW cierra en 1.471,7 wones, con alza de 17,7 wones a las 15:30",
-        "excerpt": "El tipo de cambio dólar-won cerró a las 15:30 en 1.471,7 wones, 17,7 wones por encima del cierre anterior, informó yna.co.kr.",
-        "body": "El tipo de cambio dólar-won cerró en 1.471,7 wones según la cotización de cierre de las 15:30. El nivel supone un aumento de 17,7 wones frente al cierre anterior. Las cifras clave confirmadas en el reporte cambiario son el cierre de 1.471,7 wones y el avance de 17,7 wones. El texto original no ofreció más contexto, evolución intradía ni una explicación sobre la causa del alza. Por tanto, el hecho verificable se limita a que el tipo de cambio USD/KRW terminó al alza en el cierre de las 15:30. Los participantes del mercado pueden tomar el cierre y la magnitud del movimiento como referencia para la próxima sesión. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "USD/KRW fecha a 1.471,7 won, alta de 17,7 won às 15h30",
-        "excerpt": "A taxa dólar-won fechou às 15h30 em 1.471,7 won, alta de 17,7 won em relação ao fechamento anterior, segundo yna.co.kr.",
-        "body": "A taxa de câmbio dólar-won fechou em 1.471,7 won com base na cotação de encerramento das 15h30. O nível ficou 17,7 won acima do fechamento anterior. Os principais números confirmados no informe de câmbio são o fechamento de 1.471,7 won e a alta de 17,7 won. O texto original não apresentou contexto adicional, movimento intradiário nem explicação para a alta. Assim, o fato verificável se limita ao encerramento em alta da taxa USD/KRW às 15h30. Participantes do mercado podem usar o nível de fechamento e a variação como referência para acompanhar a próxima sessão. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "USD/KRW schließt bei 1.471,7 Won, um 17,7 Won höher um 15:30 Uhr",
-        "excerpt": "Der Dollar-Won-Kurs schloss um 15:30 Uhr bei 1.471,7 Won und lag damit 17,7 Won über dem vorherigen Schlussstand, meldete yna.co.kr.",
-        "body": "Der Dollar-Won-Wechselkurs schloss auf Basis des Schlusskurses um 15:30 Uhr bei 1.471,7 Won. Damit lag er 17,7 Won über dem vorherigen Schlussstand. Die in der Devisenmeldung bestätigten Kerndaten sind der Schlusskurs von 1.471,7 Won und der Anstieg um 17,7 Won. Der Originalbericht nannte keine weiteren Hintergründe, keinen Intraday-Verlauf und keine Erklärung für den Anstieg. Damit beschränkt sich die überprüfbare Information darauf, dass der USD/KRW-Kurs zum Schluss um 15:30 Uhr höher endete. Marktteilnehmer können diesen Schlussstand und die Veränderung als Referenz für die nächste Handelssitzung nutzen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "USD/KRW clôture à 1 471,7 wons, en hausse de 17,7 wons à 15h30",
-        "excerpt": "Le taux dollar-won a clôturé à 15h30 à 1 471,7 wons, en hausse de 17,7 wons par rapport à la clôture précédente, selon yna.co.kr.",
-        "body": "Le taux de change dollar-won a clôturé à 1 471,7 wons sur la base du cours de clôture de 15h30. Ce niveau est supérieur de 17,7 wons à la clôture précédente. Les chiffres clés confirmés dans cette dépêche de change sont le cours de clôture de 1 471,7 wons et la hausse de 17,7 wons. Le texte original ne fournit pas de contexte supplémentaire, d’évolution en séance ni d’explication sur la cause de la hausse. Le fait vérifiable se limite donc à une clôture en hausse du taux USD/KRW à 15h30. Les acteurs du marché peuvent utiliser ce cours de clôture et l’ampleur du mouvement comme repères pour la prochaine séance. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "الدولار/الوون يغلق عند 1,471.7 وون مرتفعا 17.7 وون في 15:30",
-        "excerpt": "أغلق سعر صرف الدولار مقابل الوون عند 1,471.7 وون في تمام 15:30، مرتفعا 17.7 وون عن الإغلاق السابق، وفق yna.co.kr.",
-        "body": "أغلق سعر صرف الدولار مقابل الوون الكوري عند 1,471.7 وون على أساس سعر الإغلاق في الساعة 15:30. وجاء هذا المستوى أعلى بمقدار 17.7 وون من سعر الإغلاق السابق. الأرقام الأساسية المؤكدة في خبر سوق الصرف هي سعر الإغلاق البالغ 1,471.7 وون وحجم الارتفاع البالغ 17.7 وون. ولم يورد النص الأصلي خلفية إضافية أو حركة التداول خلال الجلسة أو سببا محددا للارتفاع. لذلك تقتصر الحقيقة المؤكدة في هذا التقرير على أن سعر الدولار/الوون أنهى التعاملات مرتفعا عند إغلاق 15:30. ويمكن للمشاركين في السوق استخدام مستوى الإغلاق وحجم التغير كمرجع للجلسة التالية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "USD/KRW 1,471.7 वॉन पर बंद, 15:30 पर 17.7 वॉन की बढ़त",
-        "excerpt": "yna.co.kr के अनुसार, डॉलर-वॉन विनिमय दर 15:30 के बंद भाव पर 1,471.7 वॉन रही, जो पिछले बंद से 17.7 वॉन अधिक है।",
-        "body": "डॉलर-वॉन विनिमय दर 15:30 के बंद भाव के आधार पर 1,471.7 वॉन पर बंद हुई। यह स्तर पिछले बंद भाव से 17.7 वॉन अधिक है। विदेशी मुद्रा रिपोर्ट में पुष्टि किए गए मुख्य आंकड़े 1,471.7 वॉन का बंद भाव और 17.7 वॉन की बढ़त हैं। मूल समाचार में अतिरिक्त पृष्ठभूमि, दिन के दौरान की चाल या बढ़त के कारण के बारे में कोई विवरण नहीं दिया गया। इसलिए इस रिपोर्ट में पुष्ट तथ्य यही है कि USD/KRW दर 15:30 के बंद पर ऊपर रही। बाजार प्रतिभागी अगले कारोबार की दिशा देखने के लिए इस बंद स्तर और बदलाव की मात्रा को संदर्भ के रूप में ले सकते हैं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "USD/KRW Ditutup 1.471,7 Won, Naik 17,7 Won pada Pukul 15:30",
-        "excerpt": "Kurs dolar-won ditutup pada pukul 15:30 di 1.471,7 won, naik 17,7 won dari penutupan sebelumnya, menurut yna.co.kr.",
-        "body": "Kurs dolar-won ditutup di 1.471,7 won berdasarkan harga penutupan pukul 15:30. Level tersebut lebih tinggi 17,7 won dibandingkan penutupan sebelumnya. Angka utama yang terkonfirmasi dalam laporan valuta asing ini adalah penutupan 1.471,7 won dan kenaikan 17,7 won. Teks asli tidak memberikan latar tambahan, pergerakan intrahari, atau penjelasan mengenai penyebab kenaikan. Karena itu, fakta yang dapat dipastikan terbatas pada kurs USD/KRW yang berakhir lebih tinggi pada penutupan pukul 15:30. Pelaku pasar dapat menggunakan level penutupan dan besarnya perubahan sebagai acuan untuk mencermati sesi perdagangan berikutnya. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "48d422c47457",
-    "slug": "속보-코스피-상승전환해-또-사상최고7498-마감-848832",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T08:26:24.537Z",
-    "updatedAt": "2026-05-09T08:26:24.537Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508122800008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508122800008",
-    "titleFingerprint": "48f3f6528d60a2bc3345626140eafa3cb8ff6f28",
-    "dedupKeys": [
-      "48d422c47457bbb03970f5053f29a24bf912c10a",
-      "48f3f6528d60a2bc3345626140eafa3cb8ff6f28",
-      "a75d25362a675acf83f9a12fbd760021875f8b6b"
-    ],
-    "imageUrl": "/images/articles/48d422c47457.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 상승 전환, 또 사상 최고치 경신…7,498로 마감",
-        "excerpt": "코스피가 상승 전환에 성공하며 또다시 사상 최고치를 갈아치웠고, 지수는 7,498로 장을 마감했다고 연합뉴스가 전했다.",
-        "body": "코스피가 장중 상승 전환에 성공한 뒤 또 한 번 사상 최고치를 경신하며 7,498로 마감했다. 이번 소식은 국내 증시 대표 지수인 코스피가 기존 최고 수준을 넘어섰다는 점에서 시장의 주목을 받았다. 원문에 제시된 핵심 수치는 마감 지수 7,498이며, 구체적인 상승 폭이나 업종별 흐름, 상승 배경은 별도로 공개되지 않았다. 투자자들은 코스피의 사상 최고치 재경신 여부와 이후 장세 흐름을 계속 확인할 필요가 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Turns Higher and Hits Another Record Close at 7,498",
-        "excerpt": "South Korea’s KOSPI turned higher and set another all-time closing high, finishing at 7,498, according to a breaking report from Yonhap News.",
-        "body": "South Korea’s KOSPI turned higher during trading and closed at 7,498, marking another all-time high. The breaking report drew attention because the benchmark stock index moved beyond its previous record level. The key figure provided in the original report is the closing level of 7,498. Details such as the exact gain, sector-by-sector performance, or the immediate reason for the rise were not included in the source text. Investors may continue to watch whether the KOSPI extends its record-setting move in the next session. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "KOSPIが上昇転換、再び史上最高値更新…7,498で終了",
-        "excerpt": "韓国総合株価指数KOSPIは上昇に転じ、再び史上最高値を更新して7,498で取引を終えたと聯合ニュースが伝えた。",
-        "body": "韓国総合株価指数KOSPIは取引中に上昇へ転じ、7,498で終了し、再び史上最高値を更新した。韓国株式市場の代表的な指数が従来の最高水準を上回った点で、市場の注目を集めた。原文で示された主要数値は終値7,498であり、具体的な上昇幅、業種別の動き、上昇の背景については別途示されていない。投資家は今後もKOSPIが最高値更新の流れを続けるか確認する必要がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国KOSPI转涨再创新高，收于7,498点",
-        "excerpt": "韩国综合股价指数KOSPI转为上涨，并再次刷新历史最高纪录，最终收于7,498点，韩联社报道。",
-        "body": "韩国综合股价指数KOSPI在盘中转为上涨，并以7,498点收盘，再次刷新历史最高水平。作为韩国股市代表性指数，KOSPI突破此前高位，因此受到市场关注。原文提供的核心数据为收盘点位7,498点；具体涨幅、行业板块表现以及上涨背景并未另行披露。投资者仍需继续关注KOSPI是否会在后续交易中延续刷新纪录的走势。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "El KOSPI gira al alza y marca otro récord al cerrar en 7.498",
-        "excerpt": "El índice surcoreano KOSPI pasó a terreno positivo y volvió a marcar un máximo histórico, cerrando en 7.498 puntos, informó Yonhap News.",
-        "body": "El índice surcoreano KOSPI giró al alza durante la sesión y cerró en 7.498 puntos, estableciendo nuevamente un máximo histórico. La noticia atrajo la atención del mercado porque el principal índice bursátil de Corea del Sur superó su nivel récord anterior. El dato central incluido en el texto original es el cierre en 7.498 puntos. No se detallaron la variación exacta, el comportamiento por sectores ni el motivo inmediato del avance. Los inversores seguirán atentos a si el KOSPI mantiene esta trayectoria de nuevos máximos. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI vira para alta e renova recorde ao fechar em 7.498",
-        "excerpt": "O índice sul-coreano KOSPI passou para o campo positivo e voltou a renovar sua máxima histórica, fechando em 7.498 pontos, informou a Yonhap.",
-        "body": "O índice sul-coreano KOSPI virou para alta durante o pregão e fechou em 7.498 pontos, renovando mais uma vez sua máxima histórica. A notícia chamou a atenção porque o principal índice acionário da Coreia do Sul superou o nível recorde anterior. O dado central apresentado no texto original é o fechamento em 7.498 pontos. Não foram informados a variação exata, o desempenho por setores ou o motivo imediato da alta. Investidores devem continuar acompanhando se o KOSPI manterá o movimento de renovação de recordes. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "KOSPI dreht ins Plus und schließt mit Rekord bei 7.498 Punkten",
-        "excerpt": "Der südkoreanische KOSPI drehte ins Plus und erreichte erneut ein Allzeithoch, indem er bei 7.498 Punkten schloss, berichtete Yonhap News.",
-        "body": "Der südkoreanische KOSPI drehte im Handelsverlauf ins Plus und schloss bei 7.498 Punkten, womit er erneut ein Allzeithoch erreichte. Die Meldung rückte in den Fokus, weil der wichtigste Aktienindex Südkoreas sein bisheriges Rekordniveau übertraf. Die zentrale Angabe im Ursprungstext ist der Schlussstand von 7.498 Punkten. Konkrete Daten zur Veränderung, zur Entwicklung einzelner Branchen oder zum unmittelbaren Grund des Anstiegs wurden nicht genannt. Anleger dürften weiter beobachten, ob der KOSPI seinen Rekordlauf fortsetzt. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI repasse en hausse et clôture à un record de 7 498",
-        "excerpt": "L’indice sud-coréen KOSPI est repassé en territoire positif et a signé un nouveau plus haut historique, clôturant à 7 498 points, selon Yonhap.",
-        "body": "L’indice sud-coréen KOSPI est repassé en hausse pendant la séance et a clôturé à 7 498 points, atteignant une nouvelle fois un plus haut historique. L’information a retenu l’attention car l’indice de référence du marché actions sud-coréen a dépassé son précédent niveau record. Le chiffre central communiqué dans le texte d’origine est le niveau de clôture de 7 498 points. La variation exacte, l’évolution par secteur et la raison immédiate de la hausse n’ont pas été précisées. Les investisseurs suivront la capacité du KOSPI à prolonger cette série de records. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يتحول للصعود ويغلق عند مستوى قياسي جديد 7,498 نقطة",
-        "excerpt": "تحول مؤشر كوسبي الكوري الجنوبي إلى الصعود وسجل مستوى إغلاق قياسيا جديدا عند 7,498 نقطة، وفق ما نقلته وكالة يونهاب.",
-        "body": "تحول مؤشر كوسبي الكوري الجنوبي إلى الصعود خلال التداولات وأغلق عند 7,498 نقطة، مسجلا مرة أخرى أعلى مستوى تاريخي. وجذب الخبر اهتمام السوق لأن المؤشر الرئيسي للأسهم في كوريا الجنوبية تجاوز مستواه القياسي السابق. الرقم الأساسي الوارد في النص الأصلي هو مستوى الإغلاق البالغ 7,498 نقطة. ولم تُذكر تفاصيل عن حجم الارتفاع أو أداء القطاعات أو السبب المباشر للتحول الصعودي. وسيواصل المستثمرون متابعة ما إذا كان كوسبي سيستمر في تسجيل مستويات قياسية جديدة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI बढ़त में पलटा, 7,498 पर बंद होकर नया रिकॉर्ड बनाया",
-        "excerpt": "दक्षिण कोरिया का KOSPI बढ़त में पलट गया और 7,498 पर बंद होकर फिर सर्वकालिक उच्च स्तर पर पहुंचा, योनहाप न्यूज ने बताया।",
-        "body": "दक्षिण कोरिया का KOSPI कारोबार के दौरान बढ़त में पलट गया और 7,498 पर बंद होकर फिर एक नया सर्वकालिक उच्च स्तर बना गया। यह खबर इसलिए अहम रही क्योंकि दक्षिण कोरियाई शेयर बाजार का प्रमुख सूचकांक अपने पिछले रिकॉर्ड स्तर से ऊपर निकल गया। मूल रिपोर्ट में दी गई मुख्य संख्या 7,498 का बंद स्तर है। सटीक बढ़त, क्षेत्रवार प्रदर्शन या तेजी का तात्कालिक कारण अलग से नहीं बताया गया। निवेशक अब यह देखेंगे कि KOSPI आगे भी रिकॉर्ड स्तरों की यह चाल जारी रखता है या नहीं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Berbalik Naik dan Cetak Rekor Lagi, Ditutup di 7.498",
-        "excerpt": "Indeks KOSPI Korea Selatan berbalik menguat dan kembali mencetak rekor tertinggi sepanjang masa, ditutup di 7.498, menurut laporan Yonhap.",
-        "body": "Indeks KOSPI Korea Selatan berbalik menguat selama perdagangan dan ditutup di 7.498, kembali mencetak rekor tertinggi sepanjang masa. Kabar ini menarik perhatian karena indeks acuan pasar saham Korea Selatan melampaui level rekor sebelumnya. Angka utama yang disampaikan dalam teks asli adalah level penutupan 7.498. Rincian mengenai besaran kenaikan, pergerakan sektoral, atau alasan langsung di balik penguatan tersebut tidak disebutkan. Investor akan terus memantau apakah KOSPI dapat melanjutkan pergerakan rekor pada sesi berikutnya. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3876bdc91fa5",
-    "slug": "부산은행-부산-수출입기업에-1천억원-규모-대출-685830",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T07:54:05.591Z",
-    "updatedAt": "2026-05-09T07:54:05.591Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508124200051",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508124200051",
-    "titleFingerprint": "b507c2b5a35665d8ab70f0046480b015eadc7ebe",
-    "dedupKeys": [
-      "3876bdc91fa5e112bc06bc55ebc81932a82c9585",
-      "b507c2b5a35665d8ab70f0046480b015eadc7ebe",
-      "a10463ca72a83da5aa6c25249c27822d01841d8b"
-    ],
-    "imageUrl": "/images/articles/3876bdc91fa5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "부산은행, 부산 수출입기업에 1천억원 대출 지원 나선다",
-        "excerpt": "BNK부산은행은 8일 중동분쟁 장기화와 글로벌 공급망 불안으로 어려움을 겪는 부산 지역 수출입기업을 위해 1천억원 규모의 대출 지원에 나선다고 밝혔다.",
-        "body": "BNK부산은행은 8일 부산 지역 수출입기업을 대상으로 1천억원 규모의 대출 지원을 추진한다고 밝혔다. 이번 지원은 중동분쟁 장기화와 글로벌 공급망 불안으로 어려움을 겪는 지역 기업의 자금 부담을 덜기 위한 조치다. 부산은 수출입 기업 활동이 지역 경제와 밀접하게 연결돼 있어 금융 지원의 필요성이 커진 상황이다. 부산은행의 이번 대출 지원은 불확실한 대외 여건 속에서 지역 기업의 유동성 확보와 경영 안정에 도움을 주는 데 초점이 맞춰졌다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Busan Bank to Provide 100 Billion Won in Loans for Local Import-Export Firms",
-        "excerpt": "BNK Busan Bank said on the 8th it will provide 100 billion won in loans to help Busan import-export firms facing prolonged Middle East conflict and global supply chain instability.",
-        "body": "BNK Busan Bank said on the 8th that it will provide 100 billion won in loans to import-export companies in Busan. The support is aimed at easing funding pressure on local firms struggling with the prolonged Middle East conflict and instability in global supply chains. In Busan, import-export business activity is closely tied to the regional economy, increasing the need for financial support. The loan program focuses on helping local companies secure liquidity and stabilize operations amid uncertain external conditions. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "釜山銀行、釜山の輸出入企業に1000億ウォン規模の融資支援",
-        "excerpt": "BNK釜山銀行は8日、中東紛争の長期化と世界的な供給網不安で困難を抱える釜山地域の輸出入企業に1000億ウォン規模の融資支援を行うと明らかにした。",
-        "body": "BNK釜山銀行は8日、釜山地域の輸出入企業を対象に1000億ウォン規模の融資支援を進めると明らかにした。今回の支援は、中東紛争の長期化と世界的な供給網の不安により困難を抱える地域企業の資金負担を軽減するための措置だ。釜山では輸出入企業の活動が地域経済と密接に結びついており、金融支援の必要性が高まっている。釜山銀行の今回の融資支援は、不確実な対外環境の中で地域企業の流動性確保と経営安定を助けることに焦点を当てている。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "釜山银行将向釜山进出口企业提供1000亿韩元贷款支持",
-        "excerpt": "BNK釜山银行8日表示，将为因中东冲突长期化和全球供应链不稳定而面临困难的釜山地区进出口企业提供1000亿韩元规模贷款支持。",
-        "body": "BNK釜山银行8日表示，将面向釜山地区进出口企业推进1000亿韩元规模的贷款支持。此项支持旨在减轻当地企业因中东冲突长期化和全球供应链不稳定而承受的资金压力。在釜山，进出口企业活动与地区经济紧密相连，金融支持的必要性正在上升。釜山银行此次贷款支持的重点，是在外部环境不确定的情况下，帮助当地企业 확보流动性并稳定经营。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Busan Bank dará préstamos por 100.000 millones de wones a firmas exportadoras",
-        "excerpt": "BNK Busan Bank anunció el día 8 préstamos por 100.000 millones de wones para empresas importadoras y exportadoras de Busan afectadas por el conflicto en Oriente Medio y la inestabilidad de la cadena global.",
-        "body": "BNK Busan Bank anunció el día 8 que impulsará préstamos por 100.000 millones de wones para empresas importadoras y exportadoras de la región de Busan. La medida busca aliviar la carga financiera de compañías locales que enfrentan dificultades por la prolongación del conflicto en Oriente Medio y la inestabilidad de las cadenas de suministro globales. En Busan, la actividad de estas empresas está estrechamente vinculada con la economía regional, lo que eleva la necesidad de apoyo financiero. El programa se centra en ayudar a las firmas locales a asegurar liquidez y estabilizar su gestión en un entorno externo incierto. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Busan Bank oferecerá 100 bilhões de wons em crédito a importadoras e exportadoras",
-        "excerpt": "O BNK Busan Bank informou no dia 8 que oferecerá 100 bilhões de wons em empréstimos a empresas de importação e exportação de Busan afetadas pelo conflito no Oriente Médio e pela instabilidade nas cadeias globais.",
-        "body": "O BNK Busan Bank informou no dia 8 que vai oferecer 100 bilhões de wons em empréstimos a empresas de importação e exportação da região de Busan. O apoio busca reduzir a pressão financeira sobre companhias locais afetadas pela prolongação do conflito no Oriente Médio e pela instabilidade das cadeias globais de suprimentos. Em Busan, a atividade de importação e exportação está fortemente ligada à economia regional, aumentando a necessidade de suporte financeiro. A iniciativa tem foco em ajudar as empresas locais a garantir liquidez e estabilizar suas operações diante de condições externas incertas. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Busan Bank stellt Import-Export-Firmen Kredite über 100 Mrd. Won bereit",
-        "excerpt": "Die BNK Busan Bank erklärte am 8., sie werde Import- und Exportunternehmen in Busan mit Krediten über 100 Mrd. Won unterstützen, da sie unter dem anhaltenden Nahostkonflikt und instabilen Lieferketten leiden.",
-        "body": "Die BNK Busan Bank teilte am 8. mit, dass sie Import- und Exportunternehmen in der Region Busan Kredite im Umfang von 100 Milliarden Won bereitstellen will. Die Unterstützung soll die finanzielle Belastung lokaler Firmen verringern, die durch den anhaltenden Nahostkonflikt und die Unsicherheit globaler Lieferketten unter Druck geraten sind. In Busan ist die Tätigkeit von Import- und Exportunternehmen eng mit der regionalen Wirtschaft verbunden, wodurch der Bedarf an finanzieller Hilfe wächst. Das Kreditprogramm zielt darauf ab, lokalen Unternehmen in einem unsicheren außenwirtschaftlichen Umfeld Liquidität und stabilere Geschäftsbedingungen zu sichern. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Busan Bank prévoit 100 milliards de wons de prêts aux entreprises d’import-export",
-        "excerpt": "BNK Busan Bank a annoncé le 8 qu’elle soutiendrait les entreprises d’import-export de Busan avec 100 milliards de wons de prêts, face au conflit prolongé au Moyen-Orient et aux tensions des chaînes d’approvisionnement.",
-        "body": "BNK Busan Bank a annoncé le 8 qu’elle mettrait en place 100 milliards de wons de prêts pour les entreprises d’import-export de la région de Busan. Cette aide vise à alléger la pression financière pesant sur les entreprises locales touchées par la prolongation du conflit au Moyen-Orient et l’instabilité des chaînes d’approvisionnement mondiales. À Busan, l’activité des entreprises d’import-export est étroitement liée à l’économie régionale, ce qui renforce le besoin de soutien financier. Le dispositif de prêts de Busan Bank se concentre sur l’accès à la liquidité et la stabilisation de la gestion dans un contexte extérieur incertain. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "بنك بوسان يقدم قروضا بقيمة 100 مليار وون لشركات الاستيراد والتصدير",
-        "excerpt": "قال بنك BNK بوسان في الثامن من الشهر إنه سيقدم قروضا بقيمة 100 مليار وون لدعم شركات الاستيراد والتصدير في بوسان المتضررة من طول أمد صراع الشرق الأوسط واضطراب سلاسل الإمداد العالمية.",
-        "body": "قال بنك BNK بوسان في الثامن من الشهر إنه سيمضي في تقديم قروض بقيمة 100 مليار وون لشركات الاستيراد والتصدير في منطقة بوسان. ويهدف هذا الدعم إلى تخفيف أعباء التمويل عن الشركات المحلية التي تواجه صعوبات بسبب طول أمد الصراع في الشرق الأوسط وعدم استقرار سلاسل الإمداد العالمية. وفي بوسان، ترتبط أنشطة شركات الاستيراد والتصدير ارتباطا وثيقا بالاقتصاد المحلي، ما يزيد الحاجة إلى الدعم المالي. ويركز برنامج القروض على مساعدة الشركات المحلية في تأمين السيولة وتحقيق استقرار الإدارة وسط ظروف خارجية غير مؤكدة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "बुसान बैंक स्थानीय आयात-निर्यात कंपनियों को 100 अरब वॉन का कर्ज देगा",
-        "excerpt": "BNK बुसान बैंक ने 8 तारीख को कहा कि वह मध्य पूर्व संघर्ष के लंबा खिंचने और वैश्विक आपूर्ति श्रृंखला अस्थिरता से जूझ रही बुसान की आयात-निर्यात कंपनियों को 100 अरब वॉन का ऋण समर्थन देगा।",
-        "body": "BNK बुसान बैंक ने 8 तारीख को कहा कि वह बुसान क्षेत्र की आयात-निर्यात कंपनियों के लिए 100 अरब वॉन 규모 का ऋण समर्थन आगे बढ़ाएगा। यह कदम मध्य पूर्व संघर्ष के लंबा खिंचने और वैश्विक आपूर्ति श्रृंखलाओं की अस्थिरता से कठिनाइयों का सामना कर रही स्थानीय कंपनियों पर वित्तीय बोझ कम करने के लिए है। बुसान में आयात-निर्यात कंपनियों की गतिविधियां क्षेत्रीय अर्थव्यवस्था से निकट रूप से जुड़ी हैं, इसलिए वित्तीय सहायता की जरूरत बढ़ी है। बैंक का यह ऋण समर्थन अनिश्चित बाहरी परिस्थितियों में स्थानीय कंपनियों को तरलता 확보 करने और प्रबंधन स्थिर करने में मदद देने पर केंद्रित है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Busan Bank Siapkan Pinjaman 100 Miliar Won untuk Perusahaan Ekspor-Impor",
-        "excerpt": "BNK Busan Bank pada tanggal 8 menyatakan akan memberi dukungan pinjaman 100 miliar won bagi perusahaan ekspor-impor di Busan yang terdampak konflik Timur Tengah berkepanjangan dan ketidakstabilan rantai pasok global.",
-        "body": "BNK Busan Bank pada tanggal 8 menyatakan akan mendorong dukungan pinjaman senilai 100 miliar won untuk perusahaan ekspor-impor di wilayah Busan. Dukungan ini bertujuan mengurangi beban pendanaan perusahaan lokal yang menghadapi kesulitan akibat konflik Timur Tengah yang berkepanjangan dan ketidakstabilan rantai pasok global. Di Busan, aktivitas perusahaan ekspor-impor terkait erat dengan ekonomi daerah, sehingga kebutuhan dukungan keuangan meningkat. Program pinjaman ini berfokus membantu perusahaan lokal memperoleh likuiditas dan menstabilkan operasional di tengah kondisi eksternal yang tidak pasti. Sumber: yna.co.kr"
       }
     }
   }
