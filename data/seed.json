@@ -1,5 +1,230 @@
 [
   {
+    "id": "415f8bdc4085",
+    "slug": "금융-중소기술기업-투자-마중물돼야규제-완화-필요-598218",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T09:43:48.518Z",
+    "updatedAt": "2026-05-09T09:43:48.518Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508098700002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508098700002",
+    "titleFingerprint": "b2bdc1534128b616d9473a2de5f9cd837cdc49b4",
+    "dedupKeys": [
+      "415f8bdc40857ec3cae28dba34113e54721a8790",
+      "b2bdc1534128b616d9473a2de5f9cd837cdc49b4",
+      "5cd75d972ee0757e3c9e36f7ab0b77ac355547a5"
+    ],
+    "imageUrl": "/images/articles/415f8bdc4085.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중소기술기업 투자 키워야…금융권 규제 완화 필요성 부상",
+        "excerpt": "한국이 장기 저성장 국면에 들어선 가운데 금융권의 중소기술기업 투자를 활성화하려면 관련 규제를 완화해야 한다는 주장이 서울에서 제기됐다.",
+        "body": "한국이 장기 저성장 국면에 진입한 상황에서 금융권이 중소기술기업 투자 확대의 마중물 역할을 해야 한다는 지적이 나왔다. 서울발 연합뉴스 보도에 따르면 관련 논의는 기술 투자가 더 활발해져야 경제 활력을 높일 수 있다는 문제의식에서 출발했다. 핵심은 금융회사가 중소기술기업에 자금을 공급하고 기술 투자 기반을 넓히도록 제도적 제약을 완화할 필요가 있다는 것이다. 규제가 완화되면 금융권의 기술 투자 참여가 늘고, 중소기술기업의 성장 여건 개선으로 이어질 수 있다는 전망이 제시됐다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Finance Urged to Fuel SME Tech Investment as Korea Faces Low Growth",
+        "excerpt": "As South Korea enters a prolonged low-growth phase, calls are growing in Seoul to ease regulations so financial firms can invest more actively in small and midsize technology companies.",
+        "body": "As South Korea moves into a prolonged low-growth phase, the financial sector is being urged to serve as a catalyst for investment in small and midsize technology companies. According to a Seoul-datelined Yonhap report, the discussion centers on the need to make technology investment more active as a way to support economic vitality. The key argument is that regulatory barriers should be eased so financial companies can supply capital to smaller technology firms and broaden the base for technology investment. If such rules are relaxed, financial participation in tech investment could expand and improve growth conditions for SMEs. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "中小技術企業への投資拡大を、金融規制緩和の必要性が浮上",
+        "excerpt": "韓国が長期低成長局面に入る中、金融機関による中小技術企業への投資を活性化するため、関連規制を緩和すべきだとの声がソウルで出た。",
+        "body": "韓国が長期低成長局面に入った中、金融界が中小技術企業への投資拡大の呼び水となるべきだとの指摘が出ている。ソウル発の聯合ニュース報道によると、今回の議論は、技術投資をより活発にすることで経済の活力を高める必要があるとの問題意識から始まった。焦点は、金融会社が中小技術企業に資金を供給し、技術投資の基盤を広げられるよう制度上の制約を緩和する必要があるという点だ。規制が緩和されれば、金融界の技術投資参加が増え、中小技術企業の成長環境改善につながる可能性が示された。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "应扩大中小技术企业投资，金融监管放松需求升温",
+        "excerpt": "在韩国进入长期低增长阶段之际，首尔方面提出，应放宽相关监管，以促进金融业更积极投资中小技术企业。",
+        "body": "在韩国进入长期低增长阶段的背景下，有观点指出，金融业应成为扩大中小技术企业投资的引导力量。据韩联社首尔报道，相关讨论源于一个问题意识：要提升经济活力，技术投资必须更加活跃。核心主张是，应放宽制度性限制，使金融公司能够向中小技术企业提供资金，并扩大技术投资基础。如果相关监管得到放松，金融业参与技术投资的空间可能扩大，并有助于改善中小技术企业的成长条件。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Piden que las finanzas impulsen inversión tecnológica en pymes coreanas",
+        "excerpt": "Mientras Corea del Sur entra en una etapa prolongada de bajo crecimiento, en Seúl se plantea aliviar regulaciones para activar la inversión financiera en pymes tecnológicas.",
+        "body": "En medio de la entrada de Corea del Sur en una fase prolongada de bajo crecimiento, se señaló que el sector financiero debe actuar como catalizador de la inversión en pequeñas y medianas empresas tecnológicas. Según un reporte de Yonhap desde Seúl, el debate parte de la necesidad de hacer más activa la inversión tecnológica para elevar el dinamismo económico. El punto central es aliviar restricciones institucionales para que las compañías financieras puedan aportar capital a estas empresas y ampliar la base de inversión tecnológica. Si se flexibilizan las normas, podría aumentar la participación financiera y mejorar las condiciones de crecimiento de las pymes tecnológicas. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Finanças devem impulsionar investimento em PMEs de tecnologia na Coreia",
+        "excerpt": "Com a Coreia do Sul em uma fase prolongada de baixo crescimento, ganha força em Seul a defesa de aliviar regras para ampliar o investimento financeiro em PMEs tecnológicas.",
+        "body": "Com a Coreia do Sul entrando em uma fase prolongada de baixo crescimento, surgiu a avaliação de que o setor financeiro deve atuar como catalisador do investimento em pequenas e médias empresas de tecnologia. Segundo reportagem da Yonhap de Seul, a discussão parte da ideia de que o investimento tecnológico precisa ser mais ativo para reforçar a vitalidade econômica. O ponto central é reduzir restrições institucionais para que empresas financeiras possam fornecer capital a PMEs tecnológicas e ampliar a base de investimento em tecnologia. Com a flexibilização regulatória, a participação financeira poderia crescer e melhorar as condições de expansão dessas empresas. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Finanzsektor soll Tech-Investitionen in KMU stärker anschieben",
+        "excerpt": "Da Südkorea in eine längere Phase schwachen Wachstums eingetreten ist, werden in Seoul lockerere Regeln gefordert, damit Finanzfirmen mehr in Technologie-KMU investieren.",
+        "body": "Da Südkorea in eine längere Phase niedrigen Wachstums eingetreten ist, wird gefordert, dass der Finanzsektor als Anschub für Investitionen in kleine und mittlere Technologieunternehmen wirkt. Laut einem Yonhap-Bericht aus Seoul geht die Debatte von der Einschätzung aus, dass aktivere Technologieinvestitionen nötig sind, um wirtschaftliche Dynamik zu stärken. Im Mittelpunkt steht die Forderung, institutionelle Hürden zu lockern, damit Finanzunternehmen Kapital für Technologie-KMU bereitstellen und die Basis für Technologieinvestitionen verbreitern können. Eine Regulierungserleichterung könnte die Beteiligung der Finanzbranche erhöhen und die Wachstumsbedingungen dieser Firmen verbessern. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "La finance appelée à soutenir l’investissement des PME technologiques",
+        "excerpt": "Alors que la Corée du Sud entre dans une phase prolongée de faible croissance, des voix à Séoul appellent à alléger les règles pour stimuler l’investissement financier dans les PME technologiques.",
+        "body": "Alors que la Corée du Sud entre dans une phase prolongée de faible croissance, le secteur financier est appelé à jouer un rôle de déclencheur pour l’investissement dans les petites et moyennes entreprises technologiques. Selon une dépêche de Yonhap depuis Séoul, le débat repose sur l’idée qu’un investissement technologique plus actif est nécessaire pour renforcer la vitalité économique. L’enjeu central est d’alléger les contraintes institutionnelles afin que les sociétés financières puissent fournir des capitaux aux PME technologiques et élargir la base de l’investissement technologique. Un assouplissement réglementaire pourrait accroître la participation financière et améliorer les conditions de croissance de ces entreprises. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "دعوات لدور مالي أكبر في استثمار الشركات التقنية الصغيرة بكوريا",
+        "excerpt": "مع دخول كوريا الجنوبية مرحلة نمو منخفض طويلة، طُرحت في سيئول دعوات لتخفيف القيود حتى يستثمر القطاع المالي بنشاط أكبر في الشركات التقنية الصغيرة والمتوسطة.",
+        "body": "مع دخول كوريا الجنوبية مرحلة طويلة من النمو المنخفض، برزت دعوات لأن يؤدي القطاع المالي دور المحفز في توسيع الاستثمار في الشركات التقنية الصغيرة والمتوسطة. ووفق تقرير لوكالة يونهاب من سيئول، تنطلق المناقشة من الحاجة إلى جعل الاستثمار التقني أكثر نشاطا لدعم حيوية الاقتصاد. وتتمحور الفكرة حول تخفيف القيود المؤسسية كي تتمكن الشركات المالية من توفير التمويل لهذه الشركات وتوسيع قاعدة الاستثمار في التكنولوجيا. وإذا خُففت اللوائح، فقد تزداد مشاركة القطاع المالي في الاستثمار التقني وتتحسن ظروف نمو الشركات التقنية الصغيرة والمتوسطة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया में तकनीकी एसएमई निवेश बढ़ाने को वित्तीय नियम ढीले करने की मांग",
+        "excerpt": "दक्षिण कोरिया के लंबे कम-विकास दौर में प्रवेश के बीच सियोल में वित्तीय कंपनियों को तकनीकी एसएमई में अधिक निवेश के लिए नियमन आसान करने की मांग उठी।",
+        "body": "दक्षिण कोरिया के लंबे समय तक कम वृद्धि वाले दौर में प्रवेश करने के बीच यह बात सामने आई है कि वित्तीय क्षेत्र को छोटी और मझोली तकनीकी कंपनियों में निवेश बढ़ाने का उत्प्रेरक बनना चाहिए। सियोल से योनहाप की रिपोर्ट के अनुसार, चर्चा का आधार यह है कि आर्थिक ऊर्जा बढ़ाने के लिए तकनीकी निवेश को अधिक सक्रिय बनाना जरूरी है। मुख्य मुद्दा यह है कि वित्तीय कंपनियां इन तकनीकी एसएमई को पूंजी उपलब्ध करा सकें और तकनीकी निवेश का आधार बढ़ा सकें, इसके लिए संस्थागत बाधाओं को कम किया जाए। नियमों में ढील से वित्तीय क्षेत्र की भागीदारी बढ़ सकती है और इन कंपनियों की वृद्धि की स्थितियां बेहतर हो सकती हैं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Investasi UKM Teknologi Perlu Didorong, Regulasi Keuangan Diminta Longgar",
+        "excerpt": "Saat Korea Selatan memasuki fase pertumbuhan rendah berkepanjangan, muncul seruan di Seoul agar regulasi dilonggarkan supaya sektor keuangan lebih aktif berinvestasi di UKM teknologi.",
+        "body": "Ketika Korea Selatan memasuki fase pertumbuhan rendah yang berkepanjangan, muncul pandangan bahwa sektor keuangan perlu menjadi pemicu perluasan investasi pada perusahaan teknologi kecil dan menengah. Menurut laporan Yonhap dari Seoul, pembahasan ini berangkat dari kebutuhan membuat investasi teknologi lebih aktif demi meningkatkan vitalitas ekonomi. Intinya, hambatan kelembagaan perlu dilonggarkan agar perusahaan keuangan dapat menyalurkan modal kepada UKM teknologi dan memperluas basis investasi teknologi. Jika regulasi dilonggarkan, partisipasi sektor keuangan dalam investasi teknologi dapat meningkat dan memperbaiki kondisi pertumbuhan UKM teknologi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "da49def00381",
+    "slug": "고신용-중심-영업-반성해야은행권-사회연대조직-43조-공급-829905",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T09:42:41.693Z",
+    "updatedAt": "2026-05-09T09:42:41.693Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508105200002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508105200002",
+    "titleFingerprint": "97d7594b205178671e7a88d7820401485414b55a",
+    "dedupKeys": [
+      "da49def00381387b219ecb5282d647f4c6f281a4",
+      "97d7594b205178671e7a88d7820401485414b55a",
+      "a1f53019094ad92f98eab97f826de5d889cc16be"
+    ],
+    "imageUrl": "/images/articles/da49def00381.jpg",
+    "i18n": {
+      "ko": {
+        "title": "사회연대금융 2조 공급 추진…은행권 4.3조 지원과 고신용 영업 반성론 부각",
+        "excerpt": "금융위원회는 올해 사회연대금융 활성화를 위해 공공부문과 민간 금융기관을 통해 2조원을 공급하기로 했으며, 은행권의 고신용 중심 영업 관행도 함께 주목받고 있다.",
+        "body": "금융위원회가 올해 사회연대금융 활성화를 위해 공공부문과 민간 금융기관을 통해 총 2조원을 공급하기로 했다. 서울에서 전해진 연합뉴스 보도에 따르면 이번 공급 계획은 사회연대조직에 대한 금융 지원을 확대하려는 취지로 추진된다. 원문 제목에는 은행권이 사회연대조직에 4조3천억원을 공급한다는 내용과 함께, 고신용자 중심 영업에 대한 반성 필요성이 제기됐다. 관련 수치는 사회연대금융을 공공과 민간이 함께 뒷받침하려는 흐름을 보여준다. 향후 은행권과 정책금융 부문이 어떤 방식으로 자금을 집행할지가 주목된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Social solidarity finance plan targets 2 trillion won as banks’ 4.3 trillion won role draws attention",
+        "excerpt": "South Korea’s Financial Services Commission will provide 2 trillion won this year through public bodies and private financial institutions to promote social solidarity finance.",
+        "body": "South Korea’s Financial Services Commission has decided to provide a total of 2 trillion won this year through the public sector and private financial institutions to promote social solidarity finance. According to Yonhap News Agency in Seoul, the plan is aimed at expanding financial support for social solidarity organizations. The original headline also said banks would supply 4.3 trillion won to such organizations, while raising the need to reflect on business practices centered on high-credit customers. The figures show a push for public and private support of social solidarity finance. Attention now turns to how banks and policy finance bodies will execute the funding. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "社会連帯金融に2兆ウォン供給へ、銀行の4.3兆ウォン支援と高信用偏重に注目",
+        "excerpt": "金融委員会は社会連帯金融の活性化に向け、今年、公共部門と民間金融機関を通じて2兆ウォンを供給する方針を決めた。",
+        "body": "韓国の金融委員会は、社会連帯金融の活性化に向け、今年、公共部門と民間金融機関を通じて総額2兆ウォンを供給することを決めた。ソウル発の聯合ニュース報道によると、今回の供給計画は社会連帯組織への金融支援を拡大する趣旨で進められる。原文の見出しでは、銀行業界が社会連帯組織に4兆3千億ウォンを供給する内容とともに、高信用者中心の営業を反省すべきだという指摘も示された。関連数値は、公共と民間が社会連帯金融を支える流れを示している。今後、銀行業界と政策金融部門がどのように資金を執行するかが注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "社会连带金融拟供给2万亿韩元，银行4.3万亿韩元支持引关注",
+        "excerpt": "韩国金融委员会决定今年通过公共部门和民间金融机构供给2万亿韩元，以推动社会连带金融发展。",
+        "body": "韩国金融委员会决定，今年为激活社会连带金融，通过公共部门和民间金融机构共供给2万亿韩元。据首尔的韩联社报道，此次供给计划旨在扩大对社会连带组织的金融支持。原文标题还提到，银行业将向社会连带组织供给4.3万亿韩元，同时提出有必要反思以高信用客户为中心的经营方式。相关数字显示，公共和民间部门正共同支撑社会连带金融。接下来，银行业和政策金融部门将如何执行资金投放受到关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Finanzas de solidaridad social recibirán 2 billones de wones y bancos aportarán 4,3 billones",
+        "excerpt": "La Comisión de Servicios Financieros de Corea del Sur suministrará este año 2 billones de wones mediante el sector público e instituciones financieras privadas.",
+        "body": "La Comisión de Servicios Financieros de Corea del Sur decidió suministrar este año un total de 2 billones de wones a través del sector público y de instituciones financieras privadas para activar las finanzas de solidaridad social. Según informó Yonhap desde Seúl, el plan busca ampliar el apoyo financiero a las organizaciones de solidaridad social. El titular original también indicó que el sector bancario aportará 4,3 billones de wones a esas organizaciones y planteó la necesidad de reflexionar sobre las prácticas centradas en clientes de alta calificación crediticia. Las cifras muestran un respaldo conjunto público y privado. La atención se centra ahora en cómo bancos y finanzas de política ejecutarán los fondos. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Finanças de solidariedade social terão 2 tri de won, com apoio bancário de 4,3 tri em foco",
+        "excerpt": "A Comissão de Serviços Financeiros da Coreia do Sul fornecerá neste ano 2 trilhões de won por meio do setor público e de instituições financeiras privadas.",
+        "body": "A Comissão de Serviços Financeiros da Coreia do Sul decidiu fornecer neste ano um total de 2 trilhões de won por meio do setor público e de instituições financeiras privadas para ativar as finanças de solidariedade social. Segundo a Yonhap, em reportagem de Seul, o plano busca ampliar o apoio financeiro a organizações de solidariedade social. O título original também menciona que o setor bancário fornecerá 4,3 trilhões de won a essas organizações e levanta a necessidade de refletir sobre práticas comerciais centradas em clientes de alta qualidade de crédito. Os números mostram uma tentativa de apoio conjunto público e privado. Agora, a atenção recai sobre como bancos e finanças de política executarão os recursos. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Sozialsolidarische Finanzierung: 2 Bio. Won geplant, Bankenhilfe von 4,3 Bio. Won im Fokus",
+        "excerpt": "Die südkoreanische Finanzkommission will dieses Jahr über öffentliche Stellen und private Finanzinstitute 2 Billionen Won für sozialsolidarische Finanzierung bereitstellen.",
+        "body": "Die südkoreanische Finanzkommission hat beschlossen, in diesem Jahr insgesamt 2 Billionen Won über den öffentlichen Sektor und private Finanzinstitute bereitzustellen, um sozialsolidarische Finanzierung zu fördern. Laut einem Yonhap-Bericht aus Seoul zielt der Plan darauf ab, die finanzielle Unterstützung für Organisationen der sozialen Solidarität auszuweiten. In der ursprünglichen Überschrift hieß es zudem, der Bankensektor werde diesen Organisationen 4,3 Billionen Won bereitstellen; zugleich wurde die Notwendigkeit betont, die auf Kunden mit hoher Bonität ausgerichtete Geschäftspraxis zu reflektieren. Die Zahlen zeigen eine gemeinsame öffentliche und private Unterstützung. Im Fokus steht nun, wie Banken und Politikfinanzierung die Mittel umsetzen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Finance solidaire sociale: 2.000 Mds de wons prévus, soutien bancaire de 4.300 Mds en vue",
+        "excerpt": "La Commission des services financiers sud-coréenne fournira cette année 2.000 milliards de wons via le secteur public et des institutions financières privées.",
+        "body": "La Commission des services financiers de Corée du Sud a décidé de fournir cette année un total de 2.000 milliards de wons par l’intermédiaire du secteur public et d’institutions financières privées afin de dynamiser la finance solidaire sociale. Selon Yonhap à Séoul, ce plan vise à élargir le soutien financier aux organisations de solidarité sociale. Le titre original indique aussi que le secteur bancaire fournira 4.300 milliards de wons à ces organisations, tout en soulignant la nécessité de réfléchir aux pratiques centrées sur les clients à forte solvabilité. Ces chiffres montrent un appui conjoint du public et du privé. L’attention porte désormais sur la manière dont les banques et la finance de politique publique exécuteront ces fonds. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "تمويل التضامن الاجتماعي يستهدف تريليوني وون مع دعم مصرفي قدره 4.3 تريليون",
+        "excerpt": "قررت لجنة الخدمات المالية في كوريا الجنوبية توفير تريليوني وون هذا العام عبر القطاع العام والمؤسسات المالية الخاصة لتنشيط تمويل التضامن الاجتماعي.",
+        "body": "قررت لجنة الخدمات المالية في كوريا الجنوبية توفير ما مجموعه تريليوني وون هذا العام عبر القطاع العام والمؤسسات المالية الخاصة من أجل تنشيط تمويل التضامن الاجتماعي. ووفقا لتقرير وكالة يونهاب من سول، تهدف الخطة إلى توسيع الدعم المالي لمنظمات التضامن الاجتماعي. كما أشار العنوان الأصلي إلى أن القطاع المصرفي سيقدم 4.3 تريليون وون لهذه المنظمات، مع طرح الحاجة إلى مراجعة الممارسات التجارية التي تركز على أصحاب التصنيف الائتماني المرتفع. وتظهر الأرقام اتجاها لدعم تمويل التضامن الاجتماعي من القطاعين العام والخاص معا. وينصب الاهتمام الآن على كيفية تنفيذ البنوك وجهات التمويل السياسي لهذه الأموال. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "सामाजिक एकजुटता वित्त के लिए 2 ट्रिलियन वॉन, बैंकों के 4.3 ट्रिलियन वॉन समर्थन पर ध्यान",
+        "excerpt": "दक्षिण कोरिया का वित्तीय सेवा आयोग इस वर्ष सार्वजनिक क्षेत्र और निजी वित्तीय संस्थानों के जरिये सामाजिक एकजुटता वित्त को बढ़ावा देने के लिए 2 ट्रिलियन वॉन देगा।",
+        "body": "दक्षिण कोरिया के वित्तीय सेवा आयोग ने सामाजिक एकजुटता वित्त को सक्रिय करने के लिए इस वर्ष सार्वजनिक क्षेत्र और निजी वित्तीय संस्थानों के माध्यम से कुल 2 ट्रिलियन वॉन उपलब्ध कराने का निर्णय लिया है। सियोल से योनहाप की रिपोर्ट के अनुसार, यह योजना सामाजिक एकजुटता संगठनों के लिए वित्तीय सहायता बढ़ाने के उद्देश्य से आगे बढ़ाई जा रही है। मूल शीर्षक में यह भी कहा गया कि बैंकिंग क्षेत्र इन संगठनों को 4.3 ट्रिलियन वॉन उपलब्ध कराएगा और उच्च क्रेडिट वाले ग्राहकों पर केंद्रित कारोबार पर आत्मचिंतन की जरूरत भी उठाई गई। ये आंकड़े सामाजिक एकजुटता वित्त को सार्वजनिक और निजी क्षेत्र द्वारा साथ मिलकर समर्थन देने की दिशा दिखाते हैं। अब ध्यान इस पर है कि बैंक और नीति वित्त क्षेत्र धनराशि कैसे लागू करेंगे। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Keuangan solidaritas sosial disiapkan 2 triliun won, dukungan bank 4,3 triliun jadi sorotan",
+        "excerpt": "Komisi Jasa Keuangan Korea Selatan akan menyalurkan 2 triliun won tahun ini melalui sektor publik dan lembaga keuangan swasta untuk mengaktifkan keuangan solidaritas sosial.",
+        "body": "Komisi Jasa Keuangan Korea Selatan memutuskan untuk menyediakan total 2 triliun won tahun ini melalui sektor publik dan lembaga keuangan swasta guna mengaktifkan keuangan solidaritas sosial. Menurut laporan Yonhap dari Seoul, rencana ini bertujuan memperluas dukungan keuangan bagi organisasi solidaritas sosial. Judul asli juga menyebutkan bahwa sektor perbankan akan menyalurkan 4,3 triliun won kepada organisasi tersebut, sekaligus mengangkat perlunya refleksi atas praktik bisnis yang berpusat pada nasabah berperingkat kredit tinggi. Angka-angka ini menunjukkan dukungan bersama sektor publik dan swasta terhadap keuangan solidaritas sosial. Perhatian kini tertuju pada bagaimana bank dan lembaga pembiayaan kebijakan akan mengeksekusi dana tersebut. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c1ef16297c81",
+    "slug": "테슬라-거품-비판하던-버리-이번엔-반도체-버블-919463",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T09:41:38.654Z",
+    "updatedAt": "2026-05-09T09:41:38.654Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050957087",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050957087",
+    "titleFingerprint": "dae55bc1dcc10dfb41db8ef6ec4508512bfa0bc1",
+    "dedupKeys": [
+      "c1ef16297c8139c1d7618cb6b06e2c977b5aceca",
+      "dae55bc1dcc10dfb41db8ef6ec4508512bfa0bc1",
+      "6f75c37a58077fedb1b01f90c7ff4bdb013f717b"
+    ],
+    "imageUrl": "/images/articles/c1ef16297c81.jpg",
+    "i18n": {
+      "ko": {
+        "title": "마이클 버리, 테슬라 이어 반도체 버블 경고…AI 랠리 과열론 재점화",
+        "excerpt": "‘빅쇼트’ 투자자 마이클 버리가 테슬라 거품론에 이어 반도체와 AI 관련 기술주 상승세를 겨냥한 하락 베팅을 늘렸다고 한국경제가 전했다.",
+        "body": "‘빅쇼트’로 알려진 투자자 마이클 버리가 이번에는 반도체와 AI 관련 기술주 랠리에 거품 우려를 제기했다. 한국경제에 따르면 버리는 앞서 테슬라의 고평가 논란을 비판한 데 이어 반도체 상장지수펀드와 엔비디아, 나스닥100 추종 상품 등에 대한 풋옵션을 추가로 매입했다. 그는 필라델피아 반도체지수 등 반도체주 상승 흐름이 장기간 급등 뒤 과열 국면에 들어섰다는 취지로 경고했다. 보도에 따르면 관련 풋옵션과 일부 기술주 공매도 포지션은 그의 포트폴리오 일부를 차지한다. 시장에서는 AI 데이터센터 투자 확대와 반도체 수요 기대가 주가를 밀어 올렸지만, 버리의 발언은 밸류에이션 부담 논쟁을 다시 키웠다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Michael Burry Warns of Semiconductor Bubble After Tesla Criticism",
+        "excerpt": "Michael Burry, the investor known from The Big Short, has expanded bearish bets on semiconductors and AI-linked tech after earlier criticism of Tesla valuations, Hankyung reported.",
+        "body": "Michael Burry, the investor known for The Big Short, is now raising bubble concerns over semiconductors and AI-linked technology stocks. According to Hankyung, Burry, who had previously criticized Tesla’s valuation, added put options tied to a semiconductor ETF, Nvidia and products tracking the Nasdaq 100. His warning centers on the idea that semiconductor shares have entered an overheated phase after a long and sharp rally. The report said those put options and some outright short positions in technology stocks account for part of his portfolio. AI data-center spending and expectations for chip demand have helped lift prices, but Burry’s move has renewed debate over valuation pressure. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "マイケル・バーリ氏、テスラに続き半導体バブルを警告",
+        "excerpt": "『ビッグ・ショート』で知られる投資家マイケル・バーリ氏が、テスラ批判に続き半導体とAI関連ハイテク株への弱気姿勢を強めたと韓国経済が伝えた。",
+        "body": "『ビッグ・ショート』で知られる投資家マイケル・バーリ氏が、今度は半導体とAI関連ハイテク株の上昇にバブル懸念を示した。韓国経済によると、同氏はこれまでテスラの高い評価を批判してきたが、半導体ETF、エヌビディア、ナスダック100連動商品などに関連するプットオプションを追加で買い入れた。半導体株は長期の急騰を経て過熱局面に入ったとの趣旨だ。報道では、これらのプットオプションと一部ハイテク株の売り持ちは同氏のポートフォリオの一部を占める。AIデータセンター投資と半導体需要期待が株価を押し上げる一方、バーリ氏の動きはバリュエーション負担論を再燃させた。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "迈克尔·伯里继批评特斯拉后警告半导体泡沫",
+        "excerpt": "韩国经济报道，《大空头》投资人迈克尔·伯里在批评特斯拉估值后，又增加了针对半导体和AI相关科技股的看跌押注。",
+        "body": "因《大空头》成名的投资人迈克尔·伯里这次把泡沫警告指向半导体和AI相关科技股。韩国经济报道称，伯里此前曾批评特斯拉估值过高，近期又追加买入与半导体ETF、英伟达以及跟踪纳斯达克100的产品相关的看跌期权。他的核心观点是，半导体股在长期大幅上涨后已进入过热阶段。报道还称，这些看跌期权以及部分科技股空头头寸占其投资组合的一部分。AI数据中心投资扩大和芯片需求预期推动了股价上涨，但伯里的举动再次引发市场对估值压力的讨论。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Michael Burry advierte burbuja en chips tras criticar a Tesla",
+        "excerpt": "Michael Burry, inversor conocido por The Big Short, aumentó apuestas bajistas contra semiconductores y tecnológicas ligadas a IA tras sus críticas a Tesla, informó Hankyung.",
+        "body": "Michael Burry, el inversor conocido por The Big Short, vuelve a poner el foco en una posible burbuja, esta vez en semiconductores y tecnológicas vinculadas a la inteligencia artificial. Según Hankyung, Burry, que antes había criticado la valoración de Tesla, compró más opciones de venta relacionadas con un ETF de semiconductores, Nvidia y productos que siguen al Nasdaq 100. Su advertencia apunta a que las acciones de chips habrían entrado en una fase de sobrecalentamiento tras una larga y fuerte subida. El reporte indicó que esas opciones y algunas posiciones cortas en tecnológicas forman parte de su cartera. La inversión en centros de datos de IA y las expectativas de demanda de chips impulsaron los precios, pero el movimiento de Burry reavivó el debate sobre las valoraciones. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Michael Burry alerta para bolha em chips após críticas à Tesla",
+        "excerpt": "Michael Burry, investidor de The Big Short, ampliou apostas baixistas contra semicondutores e ações de tecnologia ligadas à IA depois de criticar a Tesla, informou o Hankyung.",
+        "body": "Michael Burry, investidor conhecido por The Big Short, voltou a levantar preocupações com bolha, agora em semicondutores e ações de tecnologia ligadas à inteligência artificial. Segundo o Hankyung, Burry, que já havia criticado a avaliação da Tesla, comprou mais opções de venda relacionadas a um ETF de semicondutores, à Nvidia e a produtos que acompanham o Nasdaq 100. O alerta é que as ações de chips teriam entrado em uma fase de superaquecimento após uma alta longa e intensa. A reportagem afirmou que essas opções e algumas posições vendidas em tecnologia representam parte de sua carteira. Investimentos em data centers de IA e expectativas de demanda por chips sustentaram a alta, mas o movimento reacendeu o debate sobre valuation. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Michael Burry warnt nach Tesla-Kritik vor Halbleiterblase",
+        "excerpt": "Michael Burry, bekannt aus The Big Short, hat laut Hankyung nach seiner Kritik an Tesla die Wetten gegen Halbleiter und KI-nahe Technologiewerte ausgeweitet.",
+        "body": "Michael Burry, der durch The Big Short bekannte Investor, warnt nun vor einer möglichen Blase bei Halbleitern und KI-nahen Technologiewerten. Laut Hankyung hatte Burry zuvor die Bewertung von Tesla kritisiert und kaufte nun zusätzliche Put-Optionen auf einen Halbleiter-ETF, Nvidia sowie Produkte, die den Nasdaq 100 abbilden. Seine Warnung zielt darauf, dass Halbleiteraktien nach einer langen und starken Rally in eine überhitzte Phase geraten seien. Dem Bericht zufolge machen diese Put-Optionen und einige direkte Short-Positionen in Technologiewerten einen Teil seines Portfolios aus. Investitionen in KI-Rechenzentren und Erwartungen an die Chipnachfrage haben die Kurse gestützt, doch Burrys Schritt belebt die Bewertungsdebatte neu. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Michael Burry alerte sur une bulle des puces après Tesla",
+        "excerpt": "Michael Burry, investisseur rendu célèbre par The Big Short, a accru ses paris baissiers sur les semi-conducteurs et la tech liée à l’IA après Tesla, selon Hankyung.",
+        "body": "Michael Burry, l’investisseur connu grâce à The Big Short, évoque désormais un risque de bulle sur les semi-conducteurs et les valeurs technologiques liées à l’IA. Selon Hankyung, Burry, qui avait déjà critiqué la valorisation de Tesla, a acheté davantage d’options de vente liées à un ETF de semi-conducteurs, à Nvidia et à des produits suivant le Nasdaq 100. Son avertissement porte sur une possible surchauffe des actions de puces après une longue et forte progression. Le média précise que ces options et certaines positions vendeuses sur des valeurs technologiques représentent une partie de son portefeuille. Les dépenses en centres de données IA et les attentes de demande de puces ont soutenu les cours, mais l’initiative de Burry relance le débat sur les valorisations. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "مايكل بيري يحذر من فقاعة الرقائق بعد انتقاد تقييم تسلا",
+        "excerpt": "أفادت هانكيونغ بأن مايكل بيري، المستثمر المعروف بفيلم The Big Short، زاد رهاناته الهبوطية على أشباه الموصلات وأسهم التكنولوجيا المرتبطة بالذكاء الاصطناعي بعد انتقاد تسلا.",
+        "body": "أثار مايكل بيري، المستثمر المعروف بقصة The Big Short، مخاوف جديدة من فقاعة في أسهم أشباه الموصلات والتكنولوجيا المرتبطة بالذكاء الاصطناعي. وبحسب هانكيونغ، فإن بيري، الذي سبق أن انتقد تقييم تسلا، اشترى مزيدا من خيارات البيع المرتبطة بصندوق لأشباه الموصلات وبسهم إنفيديا ومنتجات تتبع مؤشر ناسداك 100. وتتمحور رسالته حول أن أسهم الرقائق دخلت مرحلة سخونة بعد صعود طويل وقوي. وذكر التقرير أن هذه الخيارات وبعض مراكز البيع المكشوف في أسهم التكنولوجيا تمثل جزءا من محفظته. وقد دعمت استثمارات مراكز بيانات الذكاء الاصطناعي وتوقعات الطلب على الرقائق الأسعار، لكن تحرك بيري أعاد فتح الجدل بشأن ضغوط التقييم. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "टेस्ला के बाद माइकल बरी ने सेमीकंडक्टर बुलबुले की चेतावनी दी",
+        "excerpt": "The Big Short से प्रसिद्ध निवेशक माइकल बरी ने टेस्ला के मूल्यांकन पर सवाल उठाने के बाद सेमीकंडक्टर और AI से जुड़ी टेक शेयरों पर मंदी के दांव बढ़ाए, Hankyung ने बताया।",
+        "body": "The Big Short से प्रसिद्ध निवेशक माइकल बरी ने अब सेमीकंडक्टर और AI से जुड़ी टेक्नोलॉजी शेयरों में बुलबुले की आशंका जताई है। Hankyung के अनुसार, बरी ने पहले टेस्ला के ऊंचे मूल्यांकन की आलोचना की थी और अब सेमीकंडक्टर ETF, Nvidia तथा Nasdaq 100 को ट्रैक करने वाले उत्पादों से जुड़े पुट ऑप्शन और खरीदे हैं। उनका संकेत है कि लंबी और तेज तेजी के बाद चिप शेयरों में ओवरहीटिंग दिख रही है। रिपोर्ट के मुताबिक ये पुट ऑप्शन और कुछ टेक शेयरों में सीधे शॉर्ट पोजिशन उनके पोर्टफोलियो का हिस्सा हैं। AI डेटा सेंटर निवेश और चिप मांग की उम्मीदों ने कीमतों को ऊपर धकेला, लेकिन बरी के कदम ने वैल्यूएशन पर बहस फिर तेज कर दी। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Michael Burry Peringatkan Bubble Semikonduktor Setelah Tesla",
+        "excerpt": "Michael Burry, investor yang dikenal lewat The Big Short, menambah taruhan bearish pada semikonduktor dan saham teknologi terkait AI setelah kritik terhadap Tesla, lapor Hankyung.",
+        "body": "Michael Burry, investor yang dikenal lewat The Big Short, kini menyoroti risiko bubble pada semikonduktor dan saham teknologi terkait kecerdasan buatan. Menurut Hankyung, Burry, yang sebelumnya mengkritik valuasi Tesla, menambah pembelian opsi put terkait ETF semikonduktor, Nvidia, dan produk yang mengikuti Nasdaq 100. Peringatannya menekankan bahwa saham chip telah memasuki fase panas setelah reli panjang dan tajam. Laporan itu menyebut opsi put tersebut dan beberapa posisi short langsung di saham teknologi menjadi bagian dari portofolionya. Belanja pusat data AI dan ekspektasi permintaan chip telah mendorong harga, tetapi langkah Burry kembali memicu perdebatan soal beban valuasi. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "63a6f0e120fb",
     "slug": "식약처-동물용-의약품-기준-초과-베트남산-냉동새우살-회수-839790",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Samsung Biologics Lanjutkan Dialog Upah dan Sistem Personel, Manajemen Gugat Pengurus Serikat",
         "excerpt": "Manajemen dan serikat Samsung Biologics kembali bertemu pada tanggal 8 untuk melanjutkan pembahasan kenaikan upah dan perbaikan sistem personel, sementara perusahaan menggugat pengurus serikat.",
         "body": "Manajemen dan serikat Samsung Biologics kembali bertemu pada tanggal 8 dan sepakat melanjutkan pembahasan atas konflik terkait kenaikan upah serta perbaikan sistem personel. Kedua pihak sebelumnya berbeda pandangan soal kesejahteraan dan perubahan sistem, sehingga pertemuan ini menjadi perhatian di tengah situasi hubungan industrial yang tegang. Namun, kabar bahwa pihak perusahaan menggugat pengurus serikat juga muncul, membuat ketegangan tetap berlanjut. Ke depan, fokusnya adalah apakah dialog dapat menemukan titik temu dalam isu upah dan sistem personel. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "86fb99e4eb4c",
-    "slug": "車-5부제-특약-이달-말-출시위반-시-할인-제한할증-가능-254954",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T20:34:43.297Z",
-    "updatedAt": "2026-05-08T20:34:43.297Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508159300002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508159300002",
-    "titleFingerprint": "0e49654f166713d7b878e0f7f93d486dabaa23f1",
-    "dedupKeys": [
-      "86fb99e4eb4c579fe635ea5b5755f562044cb6c6",
-      "0e49654f166713d7b878e0f7f93d486dabaa23f1",
-      "6e233e1bd69370e37067ebca9f328823650874dc"
-    ],
-    "imageUrl": "/images/articles/86fb99e4eb4c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "차량 5부제 보험 특약 이달 말 출시, 위반하면 할인 제한·할증 가능",
-        "excerpt": "손해보험사들이 이달 말 차량 5부제 참여자에게 보험료를 할인해주는 특별약관을 출시하며, 위반 시 할인 제한과 할증 가능성이 제기됐다.",
-        "body": "손해보험사들이 이달 말 차량 5부제에 참여하는 차량을 대상으로 보험료를 할인해주는 특별약관을 출시한다. 서울에서 연합뉴스 강수련 기자가 전한 내용에 따르면 이번 특약은 5부제 참여 차량에 보험료 혜택을 제공하는 방식으로 마련된다. 다만 5부제 운행 기준을 위반할 경우 할인 적용이 제한될 수 있고, 할증 가능성도 언급됐다. 이번 상품은 차량 운행 참여 조건과 보험료 혜택을 연결한 특약이라는 점에서 가입자들의 약관 확인이 중요해질 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Car five-day rotation insurance rider due late this month, violations may curb discounts",
-        "excerpt": "South Korean non-life insurers will launch a special rider late this month offering premium discounts for cars joining the five-day rotation, with limits or surcharges possible for violations.",
-        "body": "South Korean non-life insurers will launch a special insurance rider late this month for vehicles participating in the five-day driving rotation, offering premium discounts to eligible cars. According to a report from Seoul by Yonhap News Agency reporter Kang Su-ryun, the rider is designed to link participation in the rotation program with insurance premium benefits. However, if a driver violates the five-day rotation rules, the discount may be restricted, and a surcharge could also be possible. As the product ties driving compliance to premium benefits, policyholders are expected to need careful review of the terms. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "車両5部制の保険特約が今月末発売、違反時は割引制限・割増の可能性",
-        "excerpt": "韓国の損害保険会社が今月末、車両5部制への参加車に保険料を割り引く特別約款を発売し、違反時は割引制限や割増の可能性がある。",
-        "body": "韓国の損害保険会社は今月末、車両5部制に参加する車を対象に、保険料を割り引く特別約款を発売する。ソウル発の聯合ニュース、カン・スリョン記者の報道によると、この特約は5部制参加車に保険料面のメリットを提供する仕組みとして用意される。ただし、5部制の運行基準に違反した場合、割引の適用が制限される可能性があり、割増もあり得るとされる。運行条件と保険料優遇が結び付く商品であるため、加入者は約款内容の確認が重要になりそうだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "车辆五日制保险特约本月底推出，违规或限制折扣并可能加费",
-        "excerpt": "韩国损害保险公司将于本月底推出面向参与车辆五日制的保险费折扣特约，若违反规定，折扣可能受限并存在加费可能。",
-        "body": "韩国损害保险公司将于本月底推出一项特别条款，面向参与车辆五日制的车辆提供保险费折扣。据韩联社记者姜秀莲从首尔报道，该特约旨在为参与五日制的车辆提供保险费优惠。不过，如果违反五日制行驶标准，折扣适用可能受到限制，也可能出现保险费加费。由于该产品把车辆运行条件与保险费优惠相连接，投保人预计需要仔细确认相关条款内容。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Seguro con descuento por rotación vehicular de cinco días llegará a fin de mes",
-        "excerpt": "Las aseguradoras generales surcoreanas lanzarán a fin de mes una cláusula especial que descuenta primas a vehículos en la rotación de cinco días, con límites o recargos si hay infracciones.",
-        "body": "Las aseguradoras generales de Corea del Sur lanzarán a finales de este mes una cláusula especial para vehículos que participen en el sistema de rotación de cinco días, ofreciendo descuentos en las primas. Según informó desde Seúl la reportera Kang Su-ryun de Yonhap News Agency, el producto está diseñado para otorgar beneficios de seguro a los autos que participen en dicho esquema. Sin embargo, si se incumplen las reglas de circulación del sistema, la aplicación del descuento podría limitarse y también existiría la posibilidad de un recargo. Al vincular condiciones de uso del vehículo con beneficios en la prima, será importante revisar los términos. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Seguro com desconto para rodízio de veículos sai no fim do mês; violação pode gerar recargo",
-        "excerpt": "Seguradoras de danos da Coreia do Sul lançarão no fim do mês uma cláusula que reduz prêmios para carros no rodízio de cinco dias, com restrição de desconto ou recargo em caso de violação.",
-        "body": "As seguradoras de danos da Coreia do Sul lançarão no fim deste mês uma cláusula especial para veículos que participam do sistema de rodízio de cinco dias, oferecendo desconto no prêmio do seguro. Segundo reportagem de Kang Su-ryun, da Yonhap News Agency, em Seul, a cláusula foi preparada para conceder benefícios de seguro aos veículos participantes. Porém, se as regras de circulação do rodízio forem violadas, a aplicação do desconto poderá ser limitada, e também há possibilidade de recargo. Como o produto conecta condições de circulação a benefícios no prêmio, os segurados deverão verificar atentamente os termos. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Autoversicherung mit Rabatt für Fünf-Tage-Regel startet Ende des Monats",
-        "excerpt": "Südkoreanische Schadenversicherer bringen Ende des Monats eine Sonderklausel für Fahrzeuge mit Fünf-Tage-Regel auf den Markt; bei Verstößen drohen Rabattbegrenzung oder Zuschlag.",
-        "body": "Südkoreanische Schadenversicherer werden Ende dieses Monats eine Sonderklausel für Fahrzeuge einführen, die an der Fünf-Tage-Fahrregel teilnehmen, und dafür Prämienrabatte gewähren. Laut einem Bericht der Yonhap-News-Agency-Reporterin Kang Su-ryun aus Seoul soll die Klausel teilnehmenden Fahrzeugen einen Vorteil bei der Versicherungsprämie bieten. Werden die Fahrvorgaben der Fünf-Tage-Regel verletzt, kann die Anwendung des Rabatts jedoch eingeschränkt werden; auch ein Zuschlag ist möglich. Da das Produkt Fahrbedingungen mit Prämienvorteilen verknüpft, sollten Versicherte die Bedingungen sorgfältig prüfen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Assurance auto: clause spéciale cinq jours lancée fin de mois, remise limitée si infraction",
-        "excerpt": "Les assureurs dommages sud-coréens lanceront fin de mois une clause accordant une réduction aux véhicules participant au système cinq jours, avec limite de remise ou surprime en cas d’infraction.",
-        "body": "Les assureurs dommages de Corée du Sud lanceront à la fin de ce mois une clause spéciale destinée aux véhicules participant au système de circulation en cinq jours, avec une réduction de prime d’assurance. Selon un reportage à Séoul de Kang Su-ryun pour Yonhap News Agency, cette clause vise à offrir un avantage de prime aux véhicules participants. Toutefois, en cas de violation des règles de circulation liées au système, l’application de la réduction pourrait être limitée, et une surprime est également possible. Comme ce produit relie les conditions de conduite aux avantages tarifaires, les assurés devront examiner attentivement les clauses. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "ملحق تأمين لسيارات نظام الخمسة أيام يصدر نهاية الشهر ومخالفة القواعد قد تحد الخصم",
-        "excerpt": "تعتزم شركات التأمين العام في كوريا الجنوبية إطلاق ملحق خاص نهاية هذا الشهر يمنح خصما على أقساط السيارات المشاركة في نظام الخمسة أيام، مع احتمال تقييد الخصم أو فرض زيادة عند المخالفة.",
-        "body": "تطلق شركات التأمين العام في كوريا الجنوبية نهاية هذا الشهر ملحقا خاصا للسيارات المشاركة في نظام القيادة وفق الخمسة أيام، مع تقديم خصم على قسط التأمين للسيارات المؤهلة. وبحسب تقرير من سيئول أعدته مراسلة وكالة يونهاب كانغ سو ريون، يهدف هذا الملحق إلى ربط المشاركة في النظام بمزايا في قسط التأمين. لكن في حال مخالفة معايير التشغيل الخاصة بالنظام، قد يتم تقييد تطبيق الخصم، كما ترد إمكانية فرض زيادة. وبما أن المنتج يربط شروط استخدام السيارة بمزايا التأمين، فمن المتوقع أن يحتاج المشتركون إلى مراجعة البنود بعناية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "कार पांच-दिवसीय प्रणाली बीमा राइडर इस महीने के अंत में, उल्लंघन पर छूट सीमित",
-        "excerpt": "दक्षिण कोरिया की सामान्य बीमा कंपनियां इस महीने के अंत में पांच-दिवसीय वाहन प्रणाली में भाग लेने वाली कारों के लिए प्रीमियम छूट वाला विशेष प्रावधान शुरू करेंगी; उल्लंघन पर छूट सीमित या अधिभार संभव है।",
-        "body": "दक्षिण कोरिया की सामान्य बीमा कंपनियां इस महीने के अंत में पांच-दिवसीय वाहन संचालन प्रणाली में भाग लेने वाली कारों के लिए बीमा प्रीमियम पर छूट देने वाला विशेष प्रावधान शुरू करेंगी। सियोल से योनहाप न्यूज एजेंसी की रिपोर्टर कांग सु-र्युन की रिपोर्ट के अनुसार, यह प्रावधान भागीदारी करने वाले वाहनों को बीमा प्रीमियम लाभ देने के लिए तैयार किया गया है। हालांकि, यदि पांच-दिवसीय संचालन मानदंडों का उल्लंघन किया जाता है, तो छूट लागू करने पर सीमा लग सकती है और अधिभार की संभावना भी बताई गई है। चूंकि यह उत्पाद वाहन संचालन शर्तों को प्रीमियम लाभ से जोड़ता है, इसलिए पॉलिसीधारकों के लिए शर्तों की सावधानी से जांच महत्वपूर्ण होगी। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Rider asuransi mobil sistem lima hari meluncur akhir bulan, pelanggaran bisa batasi diskon",
-        "excerpt": "Perusahaan asuransi kerugian Korea Selatan akan meluncurkan klausul khusus akhir bulan ini yang memberi diskon premi bagi mobil peserta sistem lima hari, dengan pembatasan diskon atau kenaikan premi bila melanggar.",
-        "body": "Perusahaan asuransi kerugian di Korea Selatan akan meluncurkan klausul khusus pada akhir bulan ini untuk kendaraan yang mengikuti sistem pengoperasian lima hari, dengan menawarkan diskon premi asuransi bagi kendaraan peserta. Menurut laporan reporter Kang Su-ryun dari Yonhap News Agency di Seoul, klausul ini disiapkan untuk memberikan manfaat premi kepada kendaraan yang berpartisipasi. Namun, jika standar pengoperasian sistem lima hari dilanggar, penerapan diskon dapat dibatasi, dan kemungkinan kenaikan premi juga disebutkan. Karena produk ini mengaitkan syarat penggunaan kendaraan dengan manfaat premi, pemegang polis perlu mencermati isi ketentuan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b580d76c7d8c",
-    "slug": "마닐라-현지-기업-만난-주병기-공정-경쟁에-가교역할-하겠다-863322",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T20:33:37.214Z",
-    "updatedAt": "2026-05-08T20:33:37.214Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508158800002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508158800002",
-    "titleFingerprint": "bf0c32afd00ac2fb3cb96d6752d948b811b602b8",
-    "dedupKeys": [
-      "b580d76c7d8c35724936bb00f682c3a31af01b59",
-      "bf0c32afd00ac2fb3cb96d6752d948b811b602b8",
-      "ddd8d02662871f2d56f546298ae5af024c6d914c"
-    ],
-    "imageUrl": "/images/articles/b580d76c7d8c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "공정경쟁 가교 역할 약속한 주병기, 마닐라 현지 진출 기업 만나 협력 메시지",
-        "excerpt": "주병기 공정거래위원장은 8일 필리핀 마닐라에서 국제경쟁네트워크 참석 일정 중 현지 진출 기업을 만나 공정 경쟁을 위한 가교 역할을 하겠다고 밝혔다.",
-        "body": "주병기 공정거래위원장은 8일 현지시간 필리핀 마닐라에서 현지 진출 기업 관계자들을 만나 공정 경쟁을 위한 가교 역할을 하겠다는 뜻을 밝혔다. 주 위원장은 국제경쟁네트워크(ICN) 참석차 마닐라를 방문 중이며, 이번 만남은 현지 기업들과 직접 소통하는 일정으로 진행됐다. 공개된 원문에는 구체적인 참석 기업 수나 후속 조치 규모는 제시되지 않았다. 이번 발언은 해외에 진출한 기업들이 현지 시장에서 경쟁 환경과 관련한 소통 창구를 기대할 수 있다는 메시지로 해석된다. 자세한 내용은 yna.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "Joo Byung-ki Meets Manila-Based Korean Firms, Pledges Bridge Role for Fair Competition",
-        "excerpt": "Fair Trade Commission Chair Joo Byung-ki met companies operating in Manila on May 8 during his ICN visit and said he would serve as a bridge for fair competition.",
-        "body": "Fair Trade Commission Chair Joo Byung-ki met representatives of companies operating locally in Manila, Philippines, on May 8 local time and said he would serve as a bridge for fair competition. Joo was visiting Manila to attend the International Competition Network, or ICN, and the meeting was arranged as part of direct communication with firms active in the local market. The source report did not provide the number of participating companies or the scale of any follow-up measures. His remarks can be read as a message that overseas businesses may expect a communication channel on competition conditions in local markets. Source cited: yna.co.kr."
-      },
-      "ja": {
-        "title": "朱炳基氏、マニラ進出企業と面会し公正競争の橋渡し役を約束",
-        "excerpt": "公正取引委員長の朱炳基氏は8日、ICN出席で訪問中のフィリピン・マニラで現地進出企業と会い、公正競争の橋渡し役を担う考えを示した。",
-        "body": "公正取引委員長の朱炳基氏は8日現地時間、フィリピンのマニラで現地進出企業の関係者と会い、公正な競争のための橋渡し役を担う意向を示した。朱氏は国際競争ネットワーク（ICN）出席のためマニラを訪問しており、今回の面会は現地企業と直接意思疎通する日程として行われた。原文では参加企業数や今後の措置の規模など具体的な数値は示されていない。今回の発言は、海外に進出した企業が現地市場の競争環境について意思疎通の窓口を期待できるというメッセージと受け止められる。出典はyna.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "朱炳基会见马尼拉当地进驻企业，承诺为公平竞争发挥桥梁作用",
-        "excerpt": "韩国公平交易委员会委员长朱炳基8日在菲律宾马尼拉出席ICN期间会见当地进驻企业，表示将为公平竞争发挥桥梁作用。",
-        "body": "韩国公平交易委员会委员长朱炳基当地时间8日在菲律宾马尼拉会见当地进驻企业相关人士，并表示将为公平竞争发挥桥梁作用。朱炳基正因参加国际竞争网络（ICN）会议访问马尼拉，此次会面是与当地企业直接沟通的日程之一。原文报道未列明具体参会企业数量，也未说明后续措施规模。此次表态可被理解为向海外进驻企业传递信息，即企业在当地市场涉及竞争环境的问题上可以期待沟通窗口。本文引用yna.co.kr报道。"
-      },
-      "es": {
-        "title": "Joo Byung-ki se reúne con empresas en Manila y promete ser puente para la competencia justa",
-        "excerpt": "Joo Byung-ki, jefe de la Comisión de Comercio Justo, se reunió el 8 de mayo en Manila con empresas locales durante su visita al ICN y prometió apoyar la competencia justa.",
-        "body": "Joo Byung-ki, presidente de la Comisión de Comercio Justo, se reunió el 8 de mayo, hora local, con representantes de empresas establecidas en Manila, Filipinas, y expresó su intención de actuar como puente para una competencia justa. Joo se encontraba en Manila para asistir a la Red Internacional de Competencia, ICN, y el encuentro formó parte de una agenda de comunicación directa con compañías presentes en el mercado local. El reporte original no indicó el número de empresas participantes ni el alcance de posibles medidas posteriores. Sus declaraciones transmiten que las firmas en el exterior pueden esperar un canal de diálogo sobre el entorno competitivo local. Fuente citada: yna.co.kr."
-      },
-      "pt": {
-        "title": "Joo Byung-ki encontra empresas em Manila e promete ponte para concorrência justa",
-        "excerpt": "Joo Byung-ki, chefe da Comissão de Comércio Justo, reuniu-se em 8 de maio com empresas em Manila durante visita ao ICN e disse que atuará como ponte para a concorrência justa.",
-        "body": "Joo Byung-ki, presidente da Comissão de Comércio Justo, reuniu-se em 8 de maio, no horário local, com representantes de empresas estabelecidas em Manila, Filipinas, e afirmou que pretende atuar como ponte para a concorrência justa. Joo visitava Manila para participar da Rede Internacional de Concorrência, ICN, e o encontro ocorreu como parte de uma agenda de comunicação direta com companhias presentes no mercado local. A reportagem original não informou o número de empresas participantes nem a dimensão de eventuais medidas posteriores. A fala indica que empresas no exterior podem contar com um canal de diálogo sobre o ambiente competitivo local. Fonte citada: yna.co.kr."
-      },
-      "de": {
-        "title": "Joo Byung-ki trifft Firmen in Manila und verspricht Brückenrolle für fairen Wettbewerb",
-        "excerpt": "Joo Byung-ki, Vorsitzender der Fair Trade Commission, traf am 8. Mai während seines ICN-Besuchs in Manila lokal tätige Unternehmen und versprach eine Brückenrolle für fairen Wettbewerb.",
-        "body": "Joo Byung-ki, Vorsitzender der Fair Trade Commission, traf am 8. Mai Ortszeit in Manila auf den Philippinen Vertreter lokal tätiger Unternehmen und erklärte, er wolle eine Brückenrolle für fairen Wettbewerb übernehmen. Joo besuchte Manila zur Teilnahme am International Competition Network, ICN; das Treffen war Teil eines Programms zum direkten Austausch mit Firmen im lokalen Markt. Der Originalbericht nannte weder die Zahl der teilnehmenden Unternehmen noch den Umfang möglicher Folgemaßnahmen. Die Aussage kann als Signal verstanden werden, dass im Ausland tätige Unternehmen bei Fragen zum Wettbewerbsumfeld vor Ort einen Kommunikationskanal erwarten können. Quelle: yna.co.kr."
-      },
-      "fr": {
-        "title": "Joo Byung-ki rencontre des entreprises à Manille et promet un rôle de pont pour la concurrence loyale",
-        "excerpt": "Joo Byung-ki, président de la Fair Trade Commission, a rencontré le 8 mai à Manille des entreprises implantées localement lors de sa visite à l’ICN et a promis de servir de pont pour la concurrence loyale.",
-        "body": "Joo Byung-ki, président de la Fair Trade Commission, a rencontré le 8 mai, heure locale, des représentants d’entreprises implantées à Manille, aux Philippines, et a déclaré vouloir jouer un rôle de pont pour une concurrence loyale. Joo se trouvait à Manille pour participer au Réseau international de la concurrence, ICN, et cette rencontre faisait partie d’un programme de communication directe avec les entreprises actives sur le marché local. Le reportage original n’a pas précisé le nombre d’entreprises participantes ni l’ampleur d’éventuelles mesures de suivi. Ses propos indiquent que les entreprises présentes à l’étranger peuvent attendre un canal d’échange sur l’environnement concurrentiel local. Source citée : yna.co.kr."
-      },
-      "ar": {
-        "title": "جو بيونغ-كي يلتقي شركات في مانيلا ويتعهد بدور جسر للمنافسة العادلة",
-        "excerpt": "التقى رئيس لجنة التجارة العادلة جو بيونغ-كي في 8 مايو بشركات تعمل في مانيلا خلال زيارته لحضور شبكة المنافسة الدولية، مؤكدا دعمه للمنافسة العادلة.",
-        "body": "التقى رئيس لجنة التجارة العادلة جو بيونغ-كي في 8 مايو بالتوقيت المحلي بممثلين عن شركات تعمل في مانيلا بالفلبين، وقال إنه سيؤدي دور جسر من أجل المنافسة العادلة. ويزور جو مانيلا للمشاركة في شبكة المنافسة الدولية ICN، وجاء اللقاء ضمن جدول للتواصل المباشر مع الشركات الموجودة في السوق المحلية. ولم يذكر التقرير الأصلي عدد الشركات المشاركة أو حجم أي إجراءات لاحقة. ويمكن فهم التصريح على أنه رسالة إلى الشركات العاملة في الخارج بأن بإمكانها توقع قناة تواصل بشأن بيئة المنافسة في الأسواق المحلية. المصدر المقتبس: yna.co.kr."
-      },
-      "hi": {
-        "title": "जू ब्युंग-की ने मनीला में कंपनियों से मुलाकात की, निष्पक्ष प्रतिस्पर्धा के लिए सेतु भूमिका का वादा",
-        "excerpt": "फेयर ट्रेड कमीशन के अध्यक्ष जू ब्युंग-की ने 8 मई को ICN यात्रा के दौरान मनीला में स्थानीय रूप से सक्रिय कंपनियों से मिलकर निष्पक्ष प्रतिस्पर्धा के लिए सेतु भूमिका निभाने की बात कही।",
-        "body": "फेयर ट्रेड कमीशन के अध्यक्ष जू ब्युंग-की ने 8 मई को स्थानीय समयानुसार फिलीपींस की राजधानी मनीला में स्थानीय रूप से सक्रिय कंपनियों के प्रतिनिधियों से मुलाकात की और कहा कि वे निष्पक्ष प्रतिस्पर्धा के लिए सेतु की भूमिका निभाएंगे। जू अंतरराष्ट्रीय प्रतिस्पर्धा नेटवर्क, ICN, में भाग लेने के लिए मनीला गए हैं और यह बैठक स्थानीय बाजार में काम कर रही कंपनियों से सीधे संवाद के कार्यक्रम के रूप में हुई। मूल रिपोर्ट में भाग लेने वाली कंपनियों की संख्या या आगे की किसी कार्रवाई का पैमाना नहीं बताया गया। इस बयान को इस संदेश के रूप में देखा जा सकता है कि विदेश में काम कर रही कंपनियां स्थानीय प्रतिस्पर्धी माहौल पर संवाद चैनल की उम्मीद कर सकती हैं। स्रोत: yna.co.kr."
-      },
-      "id": {
-        "title": "Joo Byung-ki Temui Perusahaan di Manila, Janji Jadi Jembatan Persaingan Adil",
-        "excerpt": "Ketua Fair Trade Commission Joo Byung-ki pada 8 Mei bertemu perusahaan yang beroperasi di Manila saat menghadiri ICN dan menyatakan akan menjadi jembatan bagi persaingan adil.",
-        "body": "Ketua Fair Trade Commission Joo Byung-ki pada 8 Mei waktu setempat bertemu perwakilan perusahaan yang beroperasi di Manila, Filipina, dan menyatakan akan berperan sebagai jembatan bagi persaingan yang adil. Joo berada di Manila untuk menghadiri International Competition Network, ICN, dan pertemuan ini menjadi bagian dari agenda komunikasi langsung dengan perusahaan di pasar lokal. Laporan asli tidak menyebut jumlah perusahaan peserta maupun skala tindak lanjut yang mungkin dilakukan. Pernyataan itu dapat dipahami sebagai pesan bahwa perusahaan yang berekspansi ke luar negeri dapat mengharapkan saluran komunikasi terkait lingkungan persaingan di pasar setempat. Sumber dikutip: yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "c8534981fba6",
-    "slug": "토스증권-mts에-한국콜마-실적-표기-오류투자자들-항의-679372",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T20:32:32.465Z",
-    "updatedAt": "2026-05-08T20:32:32.465Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508175700008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508175700008",
-    "titleFingerprint": "953aba60ad9db743629bf8469ff5f9b4b179f29c",
-    "dedupKeys": [
-      "c8534981fba6e3379cb645f1006f959d09d62ce6",
-      "953aba60ad9db743629bf8469ff5f9b4b179f29c",
-      "5285b567b6c703aa77045e1133ca29955df20418"
-    ],
-    "imageUrl": "/images/articles/c8534981fba6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "토스증권 MTS, 한국콜마 실적 표기 오류로 투자자 항의 이어져",
-        "excerpt": "토스증권 모바일트레이딩시스템에서 깜짝 실적을 낸 한국콜마의 실적 정보가 잘못 표기되며 투자자들의 항의가 이어졌다고 연합뉴스가 보도했다.",
-        "body": "토스증권의 모바일트레이딩시스템(MTS)에서 한국콜마 실적 정보가 잘못 표기되는 소동이 벌어졌다고 연합뉴스가 보도했다. 보도에 따르면 오류는 ‘깜짝’ 실적을 기록한 한국콜마의 실적 표시와 관련해 발생했으며, 이를 확인한 투자자들이 항의한 것으로 전해졌다. MTS는 투자자가 기업 실적과 주가 관련 정보를 확인하는 핵심 창구인 만큼, 실적 표기 오류는 투자 판단 과정에서 민감한 문제로 받아들여질 수 있다. 이번 사안은 증권사의 모바일 거래 서비스에서 제공되는 기업 정보의 정확성과 점검 체계가 중요하다는 점을 다시 부각했다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Toss Securities MTS Error Shows Kolmar Korea Earnings Incorrectly",
-        "excerpt": "Yonhap reported that Toss Securities’ mobile trading system displayed incorrect earnings data for Kolmar Korea, which had posted surprise results, prompting investor complaints.",
-        "body": "Yonhap reported that an incident occurred on Toss Securities’ mobile trading system, or MTS, in which earnings information for Kolmar Korea was displayed incorrectly. According to the report, the error involved the earnings display for Kolmar Korea, a company that had recorded surprise results, and investors who noticed the problem lodged complaints. Because an MTS is a key channel through which investors check corporate earnings and stock-related information, an error in earnings presentation can be viewed as a sensitive issue in the investment decision-making process. The case again highlights the importance of accuracy and review systems for company information provided through mobile brokerage services. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "トス証券MTS、韓国コルマー決算表示ミスで投資家が抗議",
-        "excerpt": "聯合ニュースは、トス証券のモバイル取引システムで好決算を出した韓国コルマーの業績が誤表示され、投資家の抗議が相次いだと報じた。",
-        "body": "聯合ニュースによると、トス証券のモバイル取引システム（MTS）で韓国コルマーの業績情報が誤って表示される騒動が起きた。報道によれば、誤りは「サプライズ」決算を記録した韓国コルマーの業績表示に関するもので、これを確認した投資家から抗議が出たという。MTSは投資家が企業業績や株価関連情報を確認する主要な窓口であるため、業績表示のミスは投資判断の過程で敏感な問題として受け止められ得る。今回の事案は、証券会社のモバイル取引サービスで提供される企業情報の正確性と点検体制の重要性を改めて浮き彫りにした。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "Toss证券MTS误标韩国科玛业绩，引发投资者抗议",
-        "excerpt": "韩联社报道称，Toss证券移动交易系统中，录得“惊喜”业绩的韩国科玛相关业绩信息出现错误标示，引发投资者抗议。",
-        "body": "据韩联社报道，Toss证券的移动交易系统（MTS）中，韩国科玛的业绩信息出现错误标示，引发一场风波。报道称，该错误与录得“惊喜”业绩的韩国科玛业绩显示有关，发现问题的投资者提出了抗议。MTS是投资者查看企业业绩和股价相关信息的重要渠道，因此业绩标示错误可能在投资判断过程中被视为敏感问题。此次事件再次凸显，证券公司移动交易服务所提供企业信息的准确性以及核查机制十分重要。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Error en MTS de Toss Securities muestra mal resultados de Kolmar Korea",
-        "excerpt": "Yonhap informó que el sistema móvil de negociación de Toss Securities mostró de forma incorrecta los resultados de Kolmar Korea, que había sorprendido al mercado, y generó quejas de inversores.",
-        "body": "Yonhap informó que se produjo un incidente en el sistema móvil de negociación de Toss Securities, conocido como MTS, por una visualización incorrecta de la información de resultados de Kolmar Korea. Según el reporte, el error estuvo relacionado con la presentación de los resultados de Kolmar Korea, empresa que había registrado cifras sorpresa, y los inversores que detectaron el problema presentaron quejas. Dado que el MTS es un canal clave para consultar resultados corporativos e información vinculada a las acciones, un error en esos datos puede considerarse sensible para el proceso de decisión de inversión. El caso vuelve a destacar la importancia de la precisión y de los controles sobre la información empresarial ofrecida por servicios móviles de corretaje. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Erro no MTS da Toss Securities exibe resultados da Kolmar Korea incorretos",
-        "excerpt": "A Yonhap informou que o sistema móvel de negociação da Toss Securities mostrou incorretamente os resultados da Kolmar Korea, que havia surpreendido, levando investidores a protestar.",
-        "body": "A Yonhap informou que ocorreu um incidente no sistema móvel de negociação da Toss Securities, o MTS, com a exibição incorreta das informações de resultados da Kolmar Korea. Segundo a reportagem, o erro estava ligado à apresentação dos resultados da Kolmar Korea, empresa que havia registrado desempenho surpresa, e investidores que identificaram o problema fizeram reclamações. Como o MTS é um canal essencial para que investidores consultem resultados corporativos e informações relacionadas às ações, uma falha na exibição desses dados pode ser vista como uma questão sensível no processo de decisão de investimento. O caso reforça a importância da precisão e dos mecanismos de verificação das informações empresariais oferecidas por serviços móveis de corretoras. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Toss Securities MTS zeigt Kolmar-Korea-Ergebnis falsch an",
-        "excerpt": "Yonhap berichtete, dass das mobile Handelssystem von Toss Securities falsche Ergebnisdaten zu Kolmar Korea anzeigte, nachdem das Unternehmen überraschende Zahlen gemeldet hatte, was Anlegerproteste auslöste.",
-        "body": "Yonhap berichtete, dass es im mobilen Handelssystem von Toss Securities, dem MTS, zu einem Vorfall kam, bei dem Ergebnisinformationen zu Kolmar Korea falsch angezeigt wurden. Dem Bericht zufolge betraf der Fehler die Darstellung der Ergebnisse von Kolmar Korea, das überraschende Zahlen vorgelegt hatte; Anleger, die das Problem bemerkten, legten Beschwerde ein. Da ein MTS für Investoren ein zentraler Kanal ist, um Unternehmenszahlen und aktienbezogene Informationen zu prüfen, kann ein Fehler bei der Ergebnisanzeige im Investitionsentscheidungsprozess als sensibles Thema gelten. Der Fall unterstreicht erneut die Bedeutung von Genauigkeit und Kontrollsystemen für Unternehmensinformationen, die über mobile Wertpapierhandelsdienste bereitgestellt werden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Toss Securities : erreur MTS sur les résultats de Kolmar Korea",
-        "excerpt": "Yonhap a rapporté que le système mobile de trading de Toss Securities a affiché de façon erronée les résultats de Kolmar Korea, qui avait publié une performance surprise, suscitant des plaintes d’investisseurs.",
-        "body": "Yonhap a rapporté qu’un incident s’est produit sur le système mobile de trading de Toss Securities, ou MTS, avec l’affichage incorrect d’informations sur les résultats de Kolmar Korea. Selon le reportage, l’erreur concernait la présentation des résultats de Kolmar Korea, société qui avait enregistré une performance surprise, et des investisseurs ayant constaté le problème ont protesté. Le MTS étant un canal essentiel pour consulter les résultats d’entreprises et les informations liées aux actions, une erreur d’affichage des résultats peut être perçue comme un sujet sensible dans le processus de décision d’investissement. Cette affaire souligne de nouveau l’importance de l’exactitude et des dispositifs de vérification des informations d’entreprise fournies par les services mobiles des courtiers. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "خطأ في نظام Toss Securities يعرض نتائج Kolmar Korea بشكل غير صحيح",
-        "excerpt": "ذكرت يونهاب أن نظام التداول عبر الهاتف لدى Toss Securities عرض بيانات أرباح Kolmar Korea، التي سجلت نتائج مفاجئة، بصورة خاطئة، ما دفع مستثمرين إلى الاحتجاج.",
-        "body": "ذكرت وكالة يونهاب أن واقعة حدثت في نظام التداول عبر الهاتف المحمول التابع لشركة Toss Securities، المعروف باسم MTS، حيث عُرضت معلومات نتائج Kolmar Korea بشكل غير صحيح. وبحسب التقرير، كان الخطأ مرتبطا بعرض نتائج Kolmar Korea التي سجلت أداء مفاجئا، وقد قدم مستثمرون لاحظوا المشكلة اعتراضات. وبما أن نظام MTS يمثل قناة رئيسية يطّلع من خلالها المستثمرون على نتائج الشركات والمعلومات المرتبطة بالأسهم، فإن خطأ في عرض النتائج قد يعد مسألة حساسة في عملية اتخاذ قرار الاستثمار. وتبرز هذه الواقعة مجددا أهمية الدقة وأنظمة المراجعة في معلومات الشركات المقدمة عبر خدمات التداول المحمول لدى شركات الوساطة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Toss Securities MTS में Kolmar Korea के नतीजों की गलत सूचना",
-        "excerpt": "योनहाप के अनुसार, Toss Securities के मोबाइल ट्रेडिंग सिस्टम में सरप्राइज नतीजे दर्ज करने वाली Kolmar Korea की आय जानकारी गलत दिखाई गई, जिसके बाद निवेशकों ने शिकायत की।",
-        "body": "योनहाप ने बताया कि Toss Securities के मोबाइल ट्रेडिंग सिस्टम, यानी MTS, में Kolmar Korea की आय संबंधी जानकारी गलत प्रदर्शित होने की घटना हुई। रिपोर्ट के अनुसार, यह त्रुटि Kolmar Korea के परिणामों के प्रदर्शन से जुड़ी थी, जिसने सरप्राइज नतीजे दर्ज किए थे, और समस्या देखने वाले निवेशकों ने विरोध दर्ज कराया। MTS निवेशकों के लिए कंपनी के नतीजे और शेयर से जुड़ी जानकारी देखने का प्रमुख माध्यम है, इसलिए आय संबंधी जानकारी में गलती निवेश निर्णय की प्रक्रिया में संवेदनशील मुद्दा मानी जा सकती है। यह मामला मोबाइल ब्रोकरेज सेवाओं के जरिए दी जाने वाली कंपनी जानकारी की सटीकता और जांच व्यवस्था के महत्व को फिर रेखांकित करता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "MTS Toss Securities Salah Tampilkan Kinerja Kolmar Korea",
-        "excerpt": "Yonhap melaporkan sistem trading mobile Toss Securities salah menampilkan data kinerja Kolmar Korea yang mencatat hasil mengejutkan, sehingga memicu protes investor.",
-        "body": "Yonhap melaporkan terjadi insiden pada mobile trading system Toss Securities, atau MTS, ketika informasi kinerja Kolmar Korea ditampilkan secara keliru. Menurut laporan tersebut, kesalahan itu terkait tampilan kinerja Kolmar Korea, perusahaan yang mencatat hasil mengejutkan, dan investor yang melihat masalah tersebut menyampaikan protes. Karena MTS menjadi kanal utama bagi investor untuk memeriksa kinerja perusahaan dan informasi terkait saham, kesalahan tampilan kinerja dapat dianggap sebagai isu sensitif dalam proses pengambilan keputusan investasi. Peristiwa ini kembali menyoroti pentingnya akurasi serta sistem pemeriksaan atas informasi perusahaan yang disediakan melalui layanan trading mobile perusahaan sekuritas. Sumber: yna.co.kr"
       }
     }
   }
