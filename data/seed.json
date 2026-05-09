@@ -1,5 +1,230 @@
 [
   {
+    "id": "94118d8d4f7a",
+    "slug": "미래에셋-美최대증권예탁기관-dtcc-주도-토큰화-워킹그룹-합류-675573",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T16:15:07.953Z",
+    "updatedAt": "2026-05-09T16:15:07.953Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508058900008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508058900008",
+    "titleFingerprint": "b708195d2c06cace64d7d67c200fce9ff3d9040c",
+    "dedupKeys": [
+      "94118d8d4f7ae928c2a60cf57554bb696583e29a",
+      "b708195d2c06cace64d7d67c200fce9ff3d9040c",
+      "20ae608090b942d1b945572c075b531cc1d72446"
+    ],
+    "imageUrl": "/images/articles/94118d8d4f7a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미래에셋 미국법인, DTCC 주도 토큰화 워킹그룹 합류",
+        "excerpt": "미래에셋증권 미국법인이 미국 최대 증권예탁결제기관 DTCC가 주도하는 토큰화 워킹그룹에 합류해 디지털 자산 인프라 논의에 참여한다.",
+        "body": "미래에셋증권[006800] 미국법인은 미국 내 최대 증권예탁결제기관인 DTCC(Depository Trust & Clearing Corporation)가 주도하는 ‘토큰화 워킹그룹’에 합류했다. 이번 합류는 증권 예탁·결제 인프라와 토큰화 기술의 접점을 논의하는 흐름 속에서 이뤄졌다. DTCC는 미국 증권시장 후선 업무의 핵심 기관으로 알려져 있으며, 워킹그룹은 토큰화와 관련한 시장 인프라 논의에 초점을 맞춘다. 미래에셋증권 미국법인의 참여는 글로벌 금융시장에서 디지털 자산 기반 업무 논의에 관여하는 사례로 주목된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Mirae Asset’s U.S. Unit Joins DTCC-Led Tokenization Working Group",
+        "excerpt": "Mirae Asset Securities’ U.S. subsidiary has joined a tokenization working group led by DTCC, the largest securities depository and clearing institution in the United States.",
+        "body": "Mirae Asset Securities’ U.S. subsidiary has joined the “tokenization working group” led by DTCC, or the Depository Trust & Clearing Corporation, the largest securities depository and clearing institution in the United States. The move comes as market participants discuss the intersection of securities depository and settlement infrastructure with tokenization technology. DTCC is known as a core post-trade infrastructure institution in the U.S. securities market, and the working group focuses on market infrastructure issues related to tokenization. Mirae Asset Securities’ U.S. unit is drawing attention for taking part in discussions on digital-asset-based financial operations in global markets. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "未来アセット米国法人、DTCC主導のトークン化WGに参加",
+        "excerpt": "未来アセット証券の米国法人が、米最大の証券預託決済機関DTCC主導のトークン化ワーキンググループに加わり、関連議論に参加する。",
+        "body": "未来アセット証券[006800]の米国法人は、米国内最大の証券預託決済機関であるDTCC（Depository Trust & Clearing Corporation）が主導する「トークン化ワーキンググループ」に参加した。今回の参加は、証券の預託・決済インフラとトークン化技術の接点をめぐる議論が進む中で行われた。DTCCは米国証券市場のポストトレード業務を支える中核機関として知られ、同ワーキンググループはトークン化に関連する市場インフラの議論に焦点を当てる。未来アセット証券の米国法人の参加は、グローバル金融市場でデジタル資産基盤の業務議論に関与する事例として注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "未来资产美国法人加入DTCC主导的代币化工作组",
+        "excerpt": "未来资产证券美国法人加入由美国最大证券托管清算机构DTCC主导的代币化工作组，参与数字资产基础设施相关讨论。",
+        "body": "未来资产证券[006800]美国法人已加入由美国最大证券托管清算机构DTCC（Depository Trust & Clearing Corporation）主导的“代币化工作组”。此次加入发生在市场讨论证券托管、结算基础设施与代币化技术交汇点的背景下。DTCC被视为美国证券市场后台业务的核心机构，该工作组聚焦与代币化相关的市场基础设施议题。未来资产证券美国法人的参与，作为其介入全球金融市场数字资产基础业务讨论的案例，受到关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Mirae Asset EE. UU. se suma al grupo de tokenización liderado por DTCC",
+        "excerpt": "La filial estadounidense de Mirae Asset Securities se unió al grupo de trabajo de tokenización liderado por DTCC, la mayor entidad de depósito y compensación de valores de EE. UU.",
+        "body": "La filial estadounidense de Mirae Asset Securities [006800] se incorporó al “grupo de trabajo de tokenización” liderado por DTCC, Depository Trust & Clearing Corporation, la mayor institución de depósito y compensación de valores en Estados Unidos. La incorporación se produce en medio del debate sobre el punto de encuentro entre la infraestructura de depósito y liquidación de valores y la tecnología de tokenización. DTCC es reconocida como una institución clave de infraestructura posnegociación en el mercado estadounidense de valores, y el grupo se centra en cuestiones de infraestructura de mercado vinculadas con la tokenización. La participación de la filial estadounidense de Mirae Asset Securities llama la atención como un caso de implicación en discusiones financieras basadas en activos digitales a escala global. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Mirae Asset nos EUA entra em grupo de tokenização liderado pela DTCC",
+        "excerpt": "A subsidiária norte-americana da Mirae Asset Securities entrou no grupo de trabalho de tokenização liderado pela DTCC, maior depositária e compensadora de valores dos EUA.",
+        "body": "A subsidiária norte-americana da Mirae Asset Securities [006800] ingressou no “grupo de trabalho de tokenização” liderado pela DTCC, Depository Trust & Clearing Corporation, a maior instituição de depósito e compensação de valores mobiliários dos Estados Unidos. A adesão ocorre em meio às discussões sobre a conexão entre a infraestrutura de custódia e liquidação de valores e a tecnologia de tokenização. A DTCC é conhecida como instituição central da infraestrutura de pós-negociação no mercado de valores dos EUA, e o grupo de trabalho se concentra em temas de infraestrutura de mercado ligados à tokenização. A participação da unidade norte-americana da Mirae Asset Securities chama atenção como envolvimento em debates sobre operações financeiras baseadas em ativos digitais nos mercados globais. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Mirae Asset US-Einheit tritt DTCC-geführter Tokenisierungsgruppe bei",
+        "excerpt": "Die US-Tochter von Mirae Asset Securities ist einer von DTCC, der größten US-Wertpapierverwahr- und Clearinginstitution, geführten Tokenisierungs-Arbeitsgruppe beigetreten.",
+        "body": "Die US-Tochter von Mirae Asset Securities [006800] ist der von DTCC, der Depository Trust & Clearing Corporation, geführten „Tokenisierungs-Arbeitsgruppe“ beigetreten. DTCC gilt als größte Wertpapierverwahr- und Clearinginstitution in den Vereinigten Staaten. Der Schritt erfolgt, während Marktteilnehmer über die Schnittstelle zwischen Wertpapierverwahrung, Abwicklungsinfrastruktur und Tokenisierungstechnologie diskutieren. DTCC ist als zentrale Institution für Nachhandelsprozesse am US-Wertpapiermarkt bekannt, und die Arbeitsgruppe konzentriert sich auf Marktinfrastrukturfragen im Zusammenhang mit Tokenisierung. Die Teilnahme der US-Einheit von Mirae Asset Securities wird als Fall gewertet, in dem das Unternehmen an globalen Finanzmarktdiskussionen zu digital-asset-basierten Geschäftsprozessen mitwirkt. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "La filiale américaine de Mirae Asset rejoint le groupe tokenisation de DTCC",
+        "excerpt": "La filiale américaine de Mirae Asset Securities rejoint le groupe de travail sur la tokenisation mené par DTCC, plus grande infrastructure américaine de dépôt et compensation de titres.",
+        "body": "La filiale américaine de Mirae Asset Securities [006800] a rejoint le « groupe de travail sur la tokenisation » dirigé par DTCC, Depository Trust & Clearing Corporation, la plus grande institution de dépôt et de compensation de titres aux États-Unis. Cette adhésion intervient alors que le marché discute du lien entre l’infrastructure de dépôt et de règlement des titres et les technologies de tokenisation. DTCC est connue comme une institution centrale des opérations post-marché dans les titres américains, et le groupe de travail se concentre sur les questions d’infrastructure de marché liées à la tokenisation. La participation de la filiale américaine de Mirae Asset Securities retient l’attention comme un exemple d’implication dans les discussions financières mondiales autour des activités fondées sur les actifs numériques. Source : yna.co.kr"
+      },
+      "ar": {
+        "title": "وحدة ميراي أسيت الأمريكية تنضم إلى مجموعة ترميز تقودها DTCC",
+        "excerpt": "انضمت الوحدة الأمريكية لشركة ميراي أسيت سيكيوريتيز إلى مجموعة عمل للترميز تقودها DTCC، أكبر مؤسسة لإيداع وتسوية الأوراق المالية في الولايات المتحدة.",
+        "body": "انضمت الوحدة الأمريكية لشركة ميراي أسيت سيكيوريتيز [006800] إلى «مجموعة عمل الترميز» التي تقودها DTCC، وهي Depository Trust & Clearing Corporation وأكبر مؤسسة لإيداع وتسوية الأوراق المالية في الولايات المتحدة. تأتي هذه الخطوة وسط نقاشات حول نقطة الالتقاء بين بنية إيداع وتسوية الأوراق المالية وتقنيات الترميز. وتُعرف DTCC بأنها مؤسسة محورية في عمليات ما بعد التداول بسوق الأوراق المالية الأمريكية، وتركز مجموعة العمل على قضايا البنية التحتية للسوق المرتبطة بالترميز. وتلفت مشاركة الوحدة الأمريكية لميراي أسيت سيكيوريتيز الانتباه باعتبارها حالة انخراط في نقاشات مالية عالمية تتعلق بالأعمال القائمة على الأصول الرقمية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "मिराए एसेट की अमेरिकी इकाई DTCC के टोकनाइजेशन कार्यसमूह में शामिल",
+        "excerpt": "मिराए एसेट सिक्योरिटीज की अमेरिकी इकाई DTCC के नेतृत्व वाले टोकनाइजेशन कार्यसमूह में शामिल हुई, जो अमेरिका की सबसे बड़ी सिक्योरिटीज डिपॉजिटरी और क्लियरिंग संस्था है।",
+        "body": "मिराए एसेट सिक्योरिटीज [006800] की अमेरिकी इकाई DTCC, यानी Depository Trust & Clearing Corporation, के नेतृत्व वाले “टोकनाइजेशन कार्यसमूह” में शामिल हो गई है। DTCC अमेरिका की सबसे बड़ी सिक्योरिटीज डिपॉजिटरी और क्लियरिंग संस्था है। यह कदम ऐसे समय आया है जब बाजार में सिक्योरिटीज डिपॉजिटरी और सेटलमेंट इन्फ्रास्ट्रक्चर तथा टोकनाइजेशन तकनीक के जुड़ाव पर चर्चा हो रही है। DTCC अमेरिकी सिक्योरिटीज बाजार के पोस्ट-ट्रेड कार्यों की प्रमुख संस्था मानी जाती है, और यह कार्यसमूह टोकनाइजेशन से जुड़े बाजार ढांचे के मुद्दों पर केंद्रित है। मिराए एसेट सिक्योरिटीज की अमेरिकी इकाई की भागीदारी वैश्विक वित्तीय बाजारों में डिजिटल एसेट आधारित कार्यप्रणालियों पर चर्चा में शामिल होने के उदाहरण के रूप में ध्यान खींचती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Unit AS Mirae Asset Masuk Kelompok Tokenisasi yang Dipimpin DTCC",
+        "excerpt": "Unit Amerika Serikat Mirae Asset Securities bergabung dengan kelompok kerja tokenisasi yang dipimpin DTCC, lembaga penyimpanan dan kliring efek terbesar di AS.",
+        "body": "Unit Amerika Serikat Mirae Asset Securities [006800] bergabung dengan “kelompok kerja tokenisasi” yang dipimpin DTCC, atau Depository Trust & Clearing Corporation, lembaga penyimpanan dan kliring efek terbesar di Amerika Serikat. Bergabungnya unit tersebut terjadi di tengah pembahasan mengenai titik temu antara infrastruktur penyimpanan dan penyelesaian efek dengan teknologi tokenisasi. DTCC dikenal sebagai lembaga inti dalam infrastruktur pascaperdagangan di pasar efek AS, sementara kelompok kerja ini berfokus pada isu infrastruktur pasar terkait tokenisasi. Partisipasi unit AS Mirae Asset Securities menarik perhatian sebagai keterlibatan dalam pembahasan operasi keuangan berbasis aset digital di pasar global. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "eb3e7dd2ee98",
+    "slug": "치킨업계-가정의-달-맞아-나눔할인-이벤트-상생-행보-894564",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T16:14:11.669Z",
+    "updatedAt": "2026-05-09T16:14:11.669Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508057800030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508057800030",
+    "titleFingerprint": "3e40abf3aafce816cc957a524fdc7966f5bc0632",
+    "dedupKeys": [
+      "eb3e7dd2ee98791c21c7c3d01b594e7efba03565",
+      "3e40abf3aafce816cc957a524fdc7966f5bc0632",
+      "329df1287d800710b39009916b74424c4d3829ba"
+    ],
+    "imageUrl": "/images/articles/eb3e7dd2ee98.jpg",
+    "i18n": {
+      "ko": {
+        "title": "치킨업계, 5월 가정의 달 맞아 기부·할인 이벤트로 상생 확대",
+        "excerpt": "치킨업계가 5월 가정의 달을 맞아 취약계층 지원 기부 활동과 가족 단위 소비자를 겨냥한 할인 이벤트를 진행하며 상생 행보에 나섰다.",
+        "body": "치킨업계가 5월 가정의 달을 맞아 취약계층을 위한 기부 활동과 가족 단위 소비자를 겨냥한 할인 이벤트를 진행하고 있다. 서울발 연합뉴스 보도에 따르면 업계는 가정의 달 소비 수요가 커지는 시기에 나눔과 판촉을 함께 내세우며 상생 행보를 강화하고 있다. 이번 움직임은 취약계층 지원과 소비자 혜택 제공이라는 두 축으로 전개된다. 치킨업계의 기부 활동은 사회적 지원이 필요한 계층을 대상으로 하고, 할인 이벤트는 가족 소비자를 중심으로 접근성을 높이는 데 초점이 맞춰졌다. 업계의 5월 행사는 가정의 달 분위기 속에서 사회공헌과 소비 촉진을 동시에 겨냥한 사례로 풀이된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Chicken Industry Expands May Family Month Donations and Discount Events",
+        "excerpt": "South Korea’s chicken industry is marking Family Month in May with donations for vulnerable groups and discount events aimed at family consumers.",
+        "body": "South Korea’s chicken industry is carrying out donation activities for vulnerable groups and discount events targeting family consumers during May, known as Family Month. According to a Seoul-datelined Yonhap News Agency report, the industry is strengthening a coexistence-oriented approach by combining sharing initiatives with promotional events at a time when family-related demand rises. The moves center on two areas: support for vulnerable groups and benefits for consumers. Donation activities are aimed at people in need of social support, while discount events are focused on improving access for family customers. The May campaigns are seen as examples of combining social contribution with consumer promotion during Family Month. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "チキン業界、5月の家庭の月に寄付・割引イベントで共生拡大",
+        "excerpt": "チキン業界は5月の家庭の月を迎え、脆弱層向けの寄付活動と家族消費者を狙った割引イベントを進めている。",
+        "body": "チキン業界が5月の家庭の月を迎え、脆弱層のための寄付活動と家族単位の消費者を対象にした割引イベントを実施している。ソウル発の聯合ニュース報道によると、業界は家庭の月で消費需要が高まる時期に、分かち合いと販促を同時に掲げ、共生の動きを強めている。今回の取り組みは、脆弱層支援と消費者への特典提供という二つの軸で進められる。寄付活動は社会的支援を必要とする層を対象とし、割引イベントは家族客の利用しやすさを高めることに焦点を当てている。5月の行事は、社会貢献と消費促進を同時に狙う事例と受け止められる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "炸鸡行业迎5月家庭月 推捐赠与折扣活动扩大共生行动",
+        "excerpt": "韩国炸鸡行业在5月家庭月之际，面向弱势群体开展捐赠活动，并推出针对家庭消费者的折扣活动。",
+        "body": "韩国炸鸡行业在5月家庭月之际，正在开展面向弱势群体的捐赠活动，并推出针对家庭消费者的折扣活动。据韩联社首尔报道，行业在家庭月消费需求增加的时期，同时强调分享和促销，强化共生行动。此次举措围绕两条主线展开：支持弱势群体和向消费者提供优惠。捐赠活动面向需要社会支持的人群，折扣活动则侧重于提高家庭消费者的购买便利性。5月相关活动被视为在家庭月氛围下，同时推进社会贡献和消费促进的案例。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "La industria del pollo impulsa donaciones y descuentos por el Mes de la Familia",
+        "excerpt": "La industria surcoreana del pollo celebra mayo, Mes de la Familia, con donaciones para grupos vulnerables y descuentos dirigidos a consumidores familiares.",
+        "body": "La industria surcoreana del pollo está realizando actividades de donación para grupos vulnerables y eventos de descuento dirigidos a consumidores familiares con motivo de mayo, el Mes de la Familia. Según un reporte de Yonhap fechado en Seúl, el sector refuerza una línea de coexistencia al combinar acciones solidarias y promociones en un periodo de mayor demanda familiar. La iniciativa se desarrolla en dos ejes: apoyo a grupos vulnerables y beneficios para consumidores. Las donaciones se enfocan en quienes necesitan apoyo social, mientras que los descuentos buscan mejorar el acceso de las familias. Las campañas de mayo se interpretan como un caso de contribución social y estímulo al consumo durante el Mes de la Familia. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Setor de frango amplia doações e descontos no Mês da Família em maio",
+        "excerpt": "O setor sul-coreano de frango marca o Mês da Família, em maio, com doações a grupos vulneráveis e descontos voltados a consumidores familiares.",
+        "body": "O setor sul-coreano de frango está realizando ações de doação para grupos vulneráveis e eventos de desconto voltados a consumidores familiares durante maio, o Mês da Família. Segundo reportagem da Yonhap com data de Seul, a indústria reforça uma postura de convivência ao combinar iniciativas de solidariedade e promoções em um período de maior demanda familiar. O movimento se organiza em dois eixos: apoio a grupos vulneráveis e oferta de benefícios aos consumidores. As doações miram pessoas que precisam de apoio social, enquanto os descontos buscam ampliar o acesso de famílias. As campanhas de maio são vistas como exemplo de contribuição social e estímulo ao consumo no Mês da Família. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Hähnchenbranche startet im Familienmonat Mai Spenden und Rabatte",
+        "excerpt": "Südkoreas Hähnchenbranche begeht den Familienmonat Mai mit Spenden für benachteiligte Gruppen und Rabattaktionen für Familienkunden.",
+        "body": "Südkoreas Hähnchenbranche führt im Mai, dem Familienmonat, Spendenaktionen für benachteiligte Gruppen und Rabattaktionen für Familienkunden durch. Laut einem Yonhap-Bericht aus Seoul stärkt die Branche in einer Phase steigender familienbezogener Nachfrage ihren auf Zusammenwirken ausgerichteten Kurs, indem sie soziale Unterstützung und Verkaufsaktionen verbindet. Die Maßnahmen beruhen auf zwei Säulen: Hilfe für benachteiligte Gruppen und Vorteile für Verbraucher. Die Spenden richten sich an Menschen, die gesellschaftliche Unterstützung benötigen, während die Rabatte den Zugang für Familienkunden verbessern sollen. Die Mai-Aktionen gelten als Beispiel dafür, soziale Beiträge und Konsumförderung im Familienmonat zu verbinden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le secteur du poulet lance dons et réductions pour le Mois de la famille",
+        "excerpt": "Le secteur sud-coréen du poulet marque le Mois de la famille en mai par des dons aux publics vulnérables et des réductions pour les familles.",
+        "body": "Le secteur sud-coréen du poulet mène en mai, Mois de la famille, des activités de don pour les publics vulnérables et des événements de réduction destinés aux consommateurs en famille. Selon un reportage de Yonhap daté de Séoul, la filière renforce une démarche de coexistence en associant actions de partage et promotions dans une période où la demande familiale augmente. Cette initiative repose sur deux axes: soutien aux publics vulnérables et avantages pour les consommateurs. Les dons visent les personnes ayant besoin d’un appui social, tandis que les réductions cherchent à améliorer l’accès pour les familles. Les campagnes de mai apparaissent comme un exemple combinant contribution sociale et stimulation de la consommation. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "قطاع الدجاج في كوريا يطلق تبرعات وخصومات خلال شهر الأسرة في مايو",
+        "excerpt": "يحيي قطاع الدجاج في كوريا الجنوبية شهر الأسرة في مايو بتبرعات للفئات الضعيفة وفعاليات خصم تستهدف المستهلكين من العائلات.",
+        "body": "ينفذ قطاع الدجاج في كوريا الجنوبية خلال مايو، شهر الأسرة، أنشطة تبرع للفئات الضعيفة وفعاليات خصم تستهدف المستهلكين من العائلات. وبحسب تقرير لوكالة يونهاب من سول، يعزز القطاع توجهه نحو التعايش عبر الجمع بين مبادرات المشاركة والعروض الترويجية في فترة يرتفع فيها الطلب المرتبط بالعائلات. وتتمحور الخطوة حول مسارين: دعم الفئات الضعيفة وتقديم مزايا للمستهلكين. تستهدف التبرعات الأشخاص الذين يحتاجون إلى دعم اجتماعي، بينما تركز الخصومات على تحسين وصول العائلات إلى المنتجات. وتعد حملات مايو مثالا على الجمع بين المساهمة الاجتماعية وتنشيط الاستهلاك خلال شهر الأسرة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "चिकन उद्योग ने मई परिवार माह में दान और छूट कार्यक्रम बढ़ाए",
+        "excerpt": "दक्षिण कोरिया का चिकन उद्योग मई के परिवार माह में कमजोर वर्गों के लिए दान गतिविधियां और परिवार उपभोक्ताओं के लिए छूट कार्यक्रम चला रहा है।",
+        "body": "दक्षिण कोरिया का चिकन उद्योग मई के परिवार माह के अवसर पर कमजोर वर्गों के लिए दान गतिविधियां और परिवार इकाई के उपभोक्ताओं को लक्षित छूट कार्यक्रम चला रहा है। सियोल से योनहाप की रिपोर्ट के अनुसार, उद्योग परिवार माह में उपभोग मांग बढ़ने के समय साझा सहायता और प्रचार कार्यक्रमों को साथ रखकर सहअस्तित्व की दिशा मजबूत कर रहा है। यह कदम दो हिस्सों पर केंद्रित है: कमजोर वर्गों को समर्थन और उपभोक्ताओं को लाभ। दान गतिविधियां उन लोगों के लिए हैं जिन्हें सामाजिक सहायता की जरूरत है, जबकि छूट कार्यक्रम परिवार ग्राहकों की पहुंच बढ़ाने पर केंद्रित हैं। मई की ये पहल परिवार माह में सामाजिक योगदान और खपत प्रोत्साहन को साथ जोड़ने का उदाहरण मानी जा रही है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Industri Ayam Gelar Donasi dan Diskon saat Bulan Keluarga Mei",
+        "excerpt": "Industri ayam Korea Selatan menandai Bulan Keluarga pada Mei dengan donasi bagi kelompok rentan dan acara diskon untuk konsumen keluarga.",
+        "body": "Industri ayam Korea Selatan menjalankan kegiatan donasi bagi kelompok rentan dan acara diskon yang menyasar konsumen keluarga selama Mei, Bulan Keluarga. Menurut laporan Yonhap dari Seoul, industri memperkuat langkah saling menguntungkan dengan menggabungkan kegiatan berbagi dan promosi saat permintaan terkait keluarga meningkat. Gerakan ini bertumpu pada dua hal: dukungan bagi kelompok rentan dan manfaat bagi konsumen. Donasi ditujukan kepada kelompok yang membutuhkan dukungan sosial, sementara diskon berfokus pada peningkatan akses bagi pelanggan keluarga. Kampanye Mei ini dipandang sebagai contoh penggabungan kontribusi sosial dan dorongan konsumsi dalam suasana Bulan Keluarga. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ac21ce1ea630",
+    "slug": "제주-신혼출산가구-대상-월-3만원-임대주택-2차-모집-606840",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T16:13:12.766Z",
+    "updatedAt": "2026-05-09T16:13:12.766Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508057500056",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508057500056",
+    "titleFingerprint": "b2cb588f113078096159d443479f12c5ac935f46",
+    "dedupKeys": [
+      "ac21ce1ea630a3aadfdb1cf08e8b524404d52f0c",
+      "b2cb588f113078096159d443479f12c5ac935f46",
+      "9136fdf97dfc4d162b6f9223d6b78554f93bdd96"
+    ],
+    "imageUrl": "/images/articles/ac21ce1ea630.jpg",
+    "i18n": {
+      "ko": {
+        "title": "제주 월 3만원 임대주택 2차 모집, 신혼·출산가구 주거비 부담 낮춘다",
+        "excerpt": "제주지역 신혼·출산 가구를 대상으로 월 3만원만 내고 도내 공공임대주택에 거주할 수 있는 ‘3만원 주택’ 사업 2차 모집이 진행된다.",
+        "body": "제주지역 신혼·출산 가구를 대상으로 월 3만원만 부담하면 도내 공공임대주택에 거주할 수 있는 ‘3만원 주택’ 사업 2차 모집이 진행된다. 이 사업은 결혼과 출산을 앞두거나 경험한 가구의 주거비 부담을 낮추기 위해 마련된 공공임대주택 지원 방식이다. 월 임대료가 3만원으로 제시된 만큼 대상 가구에는 주거 안정 효과가 기대된다. 제주지역에서 신혼·출산 가구를 위한 공공주택 지원이 이어지면서 관련 가구의 신청 관심도 커질 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Jeju Opens Second Round for 30,000-Won Monthly Rental Homes for Newlywed and Birth Households",
+        "excerpt": "Jeju is holding a second recruitment round for its ‘30,000-won housing’ program, allowing eligible newlywed and birth households to live in public rental homes.",
+        "body": "Jeju is proceeding with a second recruitment round for its ‘30,000-won housing’ program, which allows newlywed and birth households in the region to live in public rental housing for only 30,000 won per month. The program is a public rental housing support measure designed to reduce housing cost burdens for households preparing for or experiencing marriage and childbirth. With the monthly rent set at 30,000 won, the project is expected to support housing stability for eligible families. Continued public housing support for newlywed and birth households in Jeju is likely to draw interest from related applicants. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "済州の月3万ウォン賃貸住宅、第2次募集で新婚・出産世帯を支援",
+        "excerpt": "済州地域の新婚・出産世帯を対象に、月3万ウォンで道内の公共賃貸住宅に住める「3万ウォン住宅」事業の第2次募集が行われる。",
+        "body": "済州地域の新婚・出産世帯を対象に、月3万ウォンだけを負担すれば道内の公共賃貸住宅に居住できる「3万ウォン住宅」事業の第2次募集が進められる。この事業は、結婚や出産を控えた、または経験した世帯の住居費負担を抑えるために用意された公共賃貸住宅支援策だ。月額賃料が3万ウォンと示されているため、対象世帯には住居安定の効果が期待される。済州で新婚・出産世帯向けの公共住宅支援が続く中、該当世帯の申請への関心も高まりそうだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "济州月租3万韩元公租房第二轮招募，面向新婚和生育家庭",
+        "excerpt": "济州面向当地新婚和生育家庭推进“3万韩元住房”项目第二轮招募，符合条件者每月仅需3万韩元即可入住公租房。",
+        "body": "济州地区面向新婚和生育家庭推进“3万韩元住房”项目第二轮招募，符合条件的家庭每月只需承担3万韩元，就可入住道内公共租赁住房。该项目是一项公共租赁住房支持措施，旨在减轻准备结婚或已经生育家庭的住房费用负担。由于月租金设定为3万韩元，预计将有助于相关家庭实现居住稳定。随着济州持续推出面向新婚和生育家庭的公共住房支持，相关家庭对申请的关注也有望增加。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Jeju abre segunda convocatoria de alquiler público por 30.000 wones para recién casados y hogares con nacimientos",
+        "excerpt": "Jeju realiza una segunda convocatoria del programa de ‘vivienda de 30.000 wones’, dirigido a hogares recién casados y con nacimientos para residir en vivienda pública.",
+        "body": "Jeju avanza con la segunda convocatoria del programa de ‘vivienda de 30.000 wones’, que permite a hogares recién casados y con nacimientos de la región vivir en viviendas públicas de alquiler pagando solo 30.000 wones al mes. La iniciativa es una medida de apoyo mediante vivienda pública destinada a reducir la carga de costos habitacionales para hogares vinculados al matrimonio y al nacimiento de hijos. Con una renta mensual fijada en 30.000 wones, se espera que el programa contribuya a la estabilidad residencial de los hogares beneficiarios. La continuidad del apoyo público en Jeju podría elevar el interés de solicitud entre las familias elegibles. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Jeju abre 2ª seleção para aluguel público de 30 mil wones a recém-casados e famílias com nascimento",
+        "excerpt": "Jeju realiza a segunda seleção do programa ‘moradia de 30 mil wones’, que permite a famílias recém-casadas e com nascimento viverem em imóveis públicos.",
+        "body": "Jeju está realizando a segunda seleção do programa ‘moradia de 30 mil wones’, que permite a famílias recém-casadas e com nascimento na região morar em habitações públicas de aluguel pagando apenas 30 mil wones por mês. A iniciativa é uma forma de apoio habitacional público criada para reduzir o peso dos custos de moradia de famílias ligadas ao casamento e ao nascimento de filhos. Com o aluguel mensal definido em 30 mil wones, espera-se que o programa ajude na estabilidade residencial dos lares elegíveis. A continuidade do apoio público em Jeju deve ampliar o interesse de inscrição entre essas famílias. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Jeju startet zweite Runde für Mietwohnungen zu 30.000 Won monatlich für Jungvermählte und Geburts-Haushalte",
+        "excerpt": "Jeju führt die zweite Bewerbungsrunde für das Programm ‘30.000-Won-Wohnungen’ durch, bei dem berechtigte Haushalte öffentliche Mietwohnungen beziehen können.",
+        "body": "Jeju setzt die zweite Bewerbungsrunde für das Programm ‘30.000-Won-Wohnungen’ um, das frisch verheirateten Haushalten und Haushalten mit Geburten in der Region ermöglicht, für nur 30.000 Won pro Monat in öffentlichen Mietwohnungen zu leben. Das Programm ist eine öffentliche Wohnraumförderung, die die Wohnkostenbelastung von Haushalten rund um Heirat und Geburt senken soll. Da die monatliche Miete mit 30.000 Won angesetzt ist, wird für berechtigte Familien ein Beitrag zur Wohnstabilität erwartet. Die fortgesetzte Unterstützung öffentlicher Wohnungen in Jeju dürfte das Interesse betroffener Haushalte an Bewerbungen erhöhen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Jeju lance un 2e appel pour des logements publics à 30 000 wons par mois destinés aux jeunes mariés et foyers avec naissance",
+        "excerpt": "Jeju organise un deuxième recrutement pour son programme de ‘logements à 30 000 wons’, destiné aux jeunes mariés et aux foyers ayant eu une naissance.",
+        "body": "Jeju poursuit le deuxième recrutement de son programme de ‘logements à 30 000 wons’, qui permet aux jeunes mariés et aux foyers ayant eu une naissance dans la région de vivre dans des logements publics locatifs pour seulement 30 000 wons par mois. Ce dispositif de logement public vise à réduire la charge des coûts de résidence pour les foyers concernés par le mariage ou la naissance d’un enfant. Avec un loyer mensuel fixé à 30 000 wons, le programme devrait contribuer à la stabilité résidentielle des ménages éligibles. La poursuite de ce soutien au logement public à Jeju devrait susciter l’intérêt des familles concernées. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "جيجو تفتح الجولة الثانية لمساكن إيجار عام بـ30 ألف وون شهريا للأسر المتزوجة حديثا وأسر المواليد",
+        "excerpt": "تجري جيجو الجولة الثانية من برنامج ‘مساكن 30 ألف وون’ الذي يتيح للأسر المتزوجة حديثا وأسر المواليد السكن في مساكن إيجار عامة داخل المقاطعة.",
+        "body": "تمضي جيجو في الجولة الثانية من برنامج ‘مساكن 30 ألف وون’، الذي يتيح للأسر المتزوجة حديثا وأسر المواليد في المنطقة الإقامة في مساكن إيجار عامة مقابل 30 ألف وون فقط شهريا. ويعد البرنامج شكلا من دعم الإسكان العام يهدف إلى خفض عبء تكاليف السكن على الأسر المرتبطة بالزواج أو الإنجاب. ومع تحديد الإيجار الشهري عند 30 ألف وون، من المتوقع أن يساعد البرنامج الأسر المؤهلة على تعزيز الاستقرار السكني. ومع استمرار دعم المساكن العامة في جيجو للأسر المتزوجة حديثا وأسر المواليد، يرجح أن يزداد اهتمام هذه الأسر بالتقديم. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "जेजू में 30,000 वोन मासिक किराये के सार्वजनिक आवास की दूसरी भर्ती, नवविवाहित और जन्म वाले परिवारों को राहत",
+        "excerpt": "जेजू नवविवाहित और जन्म वाले परिवारों के लिए ‘30,000 वोन आवास’ योजना की दूसरी भर्ती चला रहा है, जिसमें वे सार्वजनिक किराये के घरों में रह सकते हैं।",
+        "body": "जेजू क्षेत्र में नवविवाहित और जन्म वाले परिवारों के लिए ‘30,000 वोन आवास’ योजना की दूसरी भर्ती 진행 हो रही है, जिसके तहत पात्र परिवार केवल 30,000 वोन प्रति माह देकर प्रांत के सार्वजनिक किराये के आवास में रह सकते हैं। यह योजना विवाह या बच्चे के जन्म से जुड़े परिवारों पर आवास लागत का बोझ कम करने के लिए तैयार की गई सार्वजनिक किराये आवास सहायता है। मासिक किराया 30,000 वोन तय होने से पात्र परिवारों को आवासीय स्थिरता में मदद मिलने की उम्मीद है। जेजू में नवविवाहित और जन्म वाले परिवारों के लिए सार्वजनिक आवास समर्थन जारी रहने से संबंधित परिवारों की आवेदन रुचि बढ़ सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Jeju Buka Rekrutmen Kedua Rumah Sewa Publik 30.000 Won per Bulan untuk Pengantin Baru dan Keluarga Kelahiran",
+        "excerpt": "Jeju menggelar rekrutmen kedua program ‘rumah 30.000 won’ bagi keluarga pengantin baru dan keluarga dengan kelahiran untuk tinggal di rumah sewa publik.",
+        "body": "Jeju melanjutkan rekrutmen kedua program ‘rumah 30.000 won’, yang memungkinkan keluarga pengantin baru dan keluarga dengan kelahiran di wilayah tersebut tinggal di rumah sewa publik dalam provinsi dengan membayar hanya 30.000 won per bulan. Program ini merupakan dukungan rumah sewa publik yang disiapkan untuk mengurangi beban biaya hunian bagi keluarga yang berkaitan dengan pernikahan dan kelahiran anak. Dengan sewa bulanan ditetapkan 30.000 won, program ini diharapkan membantu stabilitas tempat tinggal bagi keluarga yang memenuhi syarat. Berlanjutnya dukungan perumahan publik di Jeju diperkirakan meningkatkan minat pendaftaran dari keluarga terkait. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "3a22ae444eb8",
     "slug": "김해-풍유물류단지-무산-위기에-공공의료원-건립도-표류-우려-340048",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Hynix Kembali Naik, Samsung Electronics Turun Sekitar 1% karena Aksi Jual Asing",
         "excerpt": "Pada 8 Mei di bursa Seoul, Samsung Electronics ditutup turun sekitar 1% akibat net sell asing yang terkonsentrasi, sementara Hynix kembali menguat.",
         "body": "Di bursa Seoul pada 8 Mei, Samsung Electronics [005930] mengakhiri perdagangan dengan penurunan sekitar 1% akibat net sell yang terkonsentrasi dari investor asing. Sebaliknya, Hynix kembali naik dan menunjukkan pergerakan berbeda dari Samsung Electronics. Pergerakan saham pilihan hari itu menunjukkan bahwa bahkan di antara saham semikonduktor besar, arah harga dapat berbeda tergantung arus investor. Laporan asli menyebut Samsung Electronics memasuki fase jeda karena tekanan jual asing, sementara Hynix melanjutkan kenaikan. Pergerakan saham semikonduktor berikutnya dapat dipengaruhi oleh tren transaksi asing dan perbedaan permintaan antar saham besar. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6086b471d518",
-    "slug": "세계-식량가격지수-석-달-연속-올라곡물유지류육류-상승-433295",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T06:22:38.417Z",
-    "updatedAt": "2026-05-09T06:22:38.417Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509031300030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509031300030",
-    "titleFingerprint": "b266b0bd219901ec1cd824d5b178b30f3fbf6b6b",
-    "dedupKeys": [
-      "6086b471d51820cfd39fb9b4983fbb1713671dc6",
-      "b266b0bd219901ec1cd824d5b178b30f3fbf6b6b",
-      "69c8ecc51b4cdf2f5097673becff6e7606b9f95e"
-    ],
-    "imageUrl": "/images/articles/6086b471d518.jpg",
-    "i18n": {
-      "ko": {
-        "title": "세계 식량가격지수 130.7로 석 달 연속 상승, 곡물·유지류·육류가 끌어올렸다",
-        "excerpt": "농림축산식품부는 FAO가 발표한 지난달 세계 식량가격지수가 130.7로 전달보다 1.6% 오르며 석 달 연속 상승했다고 밝혔다.",
-        "body": "농림축산식품부는 유엔 식량농업기구(FAO)가 발표한 지난달 세계 식량가격지수가 130.7을 기록했다고 밝혔다. 이는 전달보다 1.6% 오른 수준으로, 세계 식량가격지수는 석 달 연속 상승했다. 품목별로는 곡물과 유지류, 육류 가격이 오르며 전체 지수 상승을 이끌었다. FAO 식량가격지수는 국제 식량 가격 흐름을 보여주는 주요 지표로, 주요 품목의 가격 변동이 반영된다. 이번 상승은 식량 원자재 시장에서 곡물·유지류·육류 가격 흐름을 계속 확인해야 할 요인으로 평가된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "World Food Price Index Climbs to 130.7 for Third Month as Grains, Oils and Meat Rise",
-        "excerpt": "South Korea’s agriculture ministry said the FAO world food price index reached 130.7 last month, up 1.6% from the previous month, marking a third straight rise.",
-        "body": "South Korea’s Ministry of Agriculture, Food and Rural Affairs said the world food price index released by the UN Food and Agriculture Organization stood at 130.7 last month. The figure was 1.6% higher than the previous month, extending gains for a third consecutive month. By category, higher prices for grains, vegetable oils and meat led the overall increase. The FAO food price index is a key gauge of global food price trends and reflects price movements in major food items. The latest rise means market participants should continue watching grain, oil and meat price trends in food commodity markets. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "世界食料価格指数130.7、3カ月連続上昇　穀物・油脂類・肉類が押し上げ",
-        "excerpt": "韓国農林畜産食品部は、FAOが発表した先月の世界食料価格指数が130.7となり、前月比1.6%上昇して3カ月連続で上がったと明らかにした。",
-        "body": "韓国農林畜産食品部は、国連食糧農業機関（FAO）が発表した先月の世界食料価格指数が130.7を記録したと明らかにした。これは前月より1.6%高い水準で、世界食料価格指数は3カ月連続の上昇となった。品目別では、穀物、油脂類、肉類の価格上昇が全体の指数を押し上げた。FAO食料価格指数は、国際的な食料価格の流れを示す主要指標で、主要品目の価格変動を反映する。今回の上昇により、食料コモディティ市場では穀物・油脂類・肉類の価格動向を引き続き確認する必要がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "世界食品价格指数升至130.7，连续三个月上涨，谷物油脂和肉类推高",
-        "excerpt": "韩国农林畜产食品部表示，FAO发布的上月世界食品价格指数为130.7，较前月上涨1.6%，连续第三个月走高。",
-        "body": "韩国农林畜产食品部表示，联合国粮食及农业组织（FAO）发布的上月世界食品价格指数为130.7。该指数较前月上涨1.6%，已连续第三个月上升。按品类看，谷物、油脂类和肉类价格上涨，带动整体指数走高。FAO食品价格指数是观察国际食品价格走势的重要指标，反映主要食品品类的价格变化。此次上涨显示，在食品大宗商品市场中，谷物、油脂类和肉类价格走势仍需持续关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Índice mundial de precios de alimentos sube a 130,7 por tercer mes; cereales, aceites y carne impulsan",
-        "excerpt": "El Ministerio de Agricultura de Corea del Sur dijo que el índice mundial de precios de alimentos de la FAO llegó a 130,7 el mes pasado, un 1,6% más que el mes anterior.",
-        "body": "El Ministerio de Agricultura, Alimentación y Asuntos Rurales de Corea del Sur informó que el índice mundial de precios de alimentos publicado por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) se situó en 130,7 el mes pasado. La cifra fue un 1,6% superior a la del mes anterior y marcó el tercer aumento mensual consecutivo. Por categorías, el alza de los precios de los cereales, los aceites vegetales y la carne impulsó el índice general. El índice de la FAO es una referencia clave para seguir las tendencias internacionales de precios de los alimentos. La subida mantiene el foco en cereales, aceites y carne dentro del mercado de materias primas alimentarias. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Índice mundial de preços dos alimentos sobe a 130,7 pelo 3º mês com grãos, óleos e carnes",
-        "excerpt": "O Ministério da Agricultura da Coreia do Sul disse que o índice mundial de preços dos alimentos da FAO chegou a 130,7 no mês passado, alta de 1,6% ante o mês anterior.",
-        "body": "O Ministério da Agricultura, Alimentos e Assuntos Rurais da Coreia do Sul informou que o índice mundial de preços dos alimentos divulgado pela Organização das Nações Unidas para Alimentação e Agricultura (FAO) ficou em 130,7 no mês passado. O nível representa alta de 1,6% em relação ao mês anterior e marca o terceiro aumento consecutivo. Por categoria, os preços de grãos, óleos vegetais e carnes subiram e puxaram o índice geral. O indicador da FAO é uma referência importante para acompanhar os preços internacionais dos alimentos e reflete variações nos principais itens. A alta mantém a atenção sobre grãos, óleos e carnes no mercado de commodities alimentares. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Welt-Lebensmittelpreisindex steigt auf 130,7, dritter Monatsanstieg durch Getreide, Öle und Fleisch",
-        "excerpt": "Südkoreas Landwirtschaftsministerium teilte mit, dass der FAO-Weltlebensmittelpreisindex im vergangenen Monat 130,7 erreichte, 1,6% mehr als im Vormonat.",
-        "body": "Das südkoreanische Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten teilte mit, dass der von der UN-Ernährungs- und Landwirtschaftsorganisation (FAO) veröffentlichte Weltlebensmittelpreisindex im vergangenen Monat bei 130,7 lag. Das entspricht einem Anstieg um 1,6% gegenüber dem Vormonat und dem dritten monatlichen Plus in Folge. Nach Produktgruppen trieben höhere Preise für Getreide, pflanzliche Öle und Fleisch den Gesamtindex nach oben. Der FAO-Lebensmittelpreisindex gilt als wichtiger Maßstab für internationale Lebensmittelpreistrends und bildet Preisänderungen wichtiger Güter ab. Der Anstieg lenkt den Blick weiter auf Getreide, Öle und Fleisch an den Agrarrohstoffmärkten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Indice mondial des prix alimentaires à 130,7, troisième hausse portée par céréales, huiles et viande",
-        "excerpt": "Le ministère sud-coréen de l’Agriculture a indiqué que l’indice FAO des prix alimentaires a atteint 130,7 le mois dernier, en hausse de 1,6% sur un mois.",
-        "body": "Le ministère sud-coréen de l’Agriculture, de l’Alimentation et des Affaires rurales a indiqué que l’indice mondial des prix alimentaires publié par l’Organisation des Nations unies pour l’alimentation et l’agriculture (FAO) s’est établi à 130,7 le mois dernier. Ce niveau est supérieur de 1,6% à celui du mois précédent et représente une troisième hausse mensuelle consécutive. Par catégorie, l’augmentation des prix des céréales, des huiles végétales et de la viande a tiré l’indice global vers le haut. L’indice FAO est un indicateur clé des tendances internationales des prix alimentaires. Cette progression maintient l’attention sur les céréales, les huiles et la viande dans les marchés des matières premières alimentaires. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "مؤشر أسعار الغذاء العالمي يرتفع إلى 130.7 للشهر الثالث بدعم الحبوب والزيوت واللحوم",
-        "excerpt": "قالت وزارة الزراعة الكورية الجنوبية إن مؤشر أسعار الغذاء العالمي الصادر عن الفاو بلغ 130.7 الشهر الماضي، مرتفعا 1.6% عن الشهر السابق وللشهر الثالث تواليا.",
-        "body": "أعلنت وزارة الزراعة والأغذية والشؤون الريفية في كوريا الجنوبية أن مؤشر أسعار الغذاء العالمي، الصادر عن منظمة الأغذية والزراعة التابعة للأمم المتحدة (الفاو)، سجل 130.7 في الشهر الماضي. ويمثل ذلك ارتفاعا بنسبة 1.6% عن الشهر السابق، ليواصل المؤشر الصعود للشهر الثالث على التوالي. وبحسب الفئات، قادت زيادة أسعار الحبوب والزيوت النباتية واللحوم الارتفاع العام في المؤشر. ويعد مؤشر الفاو لأسعار الغذاء مقياسا رئيسيا لاتجاهات الأسعار الدولية للغذاء، إذ يعكس تغيرات أسعار السلع الغذائية الأساسية. ويجعل هذا الارتفاع متابعة أسعار الحبوب والزيوت واللحوم في أسواق السلع الغذائية أمرا مهما. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "विश्व खाद्य मूल्य सूचकांक 130.7 पर, तीसरे महीने बढ़त; अनाज, तेल और मांस ने दिया सहारा",
-        "excerpt": "दक्षिण कोरिया के कृषि मंत्रालय ने कहा कि FAO का विश्व खाद्य मूल्य सूचकांक पिछले महीने 130.7 रहा, जो पिछले महीने से 1.6% अधिक है और लगातार तीसरी बढ़त है।",
-        "body": "दक्षिण कोरिया के कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय ने बताया कि संयुक्त राष्ट्र के खाद्य और कृषि संगठन (FAO) द्वारा जारी विश्व खाद्य मूल्य सूचकांक पिछले महीने 130.7 पर रहा। यह पिछले महीने की तुलना में 1.6% अधिक है और सूचकांक में लगातार तीसरे महीने वृद्धि दर्ज की गई। श्रेणियों के हिसाब से अनाज, वनस्पति तेलों और मांस की कीमतों में बढ़ोतरी ने कुल सूचकांक को ऊपर खींचा। FAO खाद्य मूल्य सूचकांक अंतरराष्ट्रीय खाद्य कीमतों की दिशा दिखाने वाला प्रमुख संकेतक है और मुख्य खाद्य वस्तुओं के मूल्य बदलाव को दर्शाता है। इस वृद्धि के बाद खाद्य कमोडिटी बाजार में अनाज, तेल और मांस की कीमतों पर नजर बनी रहेगी। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Indeks harga pangan dunia naik ke 130,7 tiga bulan beruntun, didorong biji-bijian, minyak dan daging",
-        "excerpt": "Kementerian Pertanian Korea Selatan mengatakan indeks harga pangan dunia FAO mencapai 130,7 bulan lalu, naik 1,6% dari bulan sebelumnya dan meningkat tiga bulan berturut-turut.",
-        "body": "Kementerian Pertanian, Pangan, dan Urusan Pedesaan Korea Selatan mengatakan indeks harga pangan dunia yang dirilis Organisasi Pangan dan Pertanian Perserikatan Bangsa-Bangsa (FAO) tercatat 130,7 pada bulan lalu. Angka itu naik 1,6% dari bulan sebelumnya dan menjadi kenaikan bulan ketiga berturut-turut. Berdasarkan kategori, harga biji-bijian, minyak nabati, dan daging meningkat sehingga mendorong indeks secara keseluruhan. Indeks harga pangan FAO merupakan indikator utama untuk melihat tren harga pangan internasional dan mencerminkan perubahan harga komoditas pangan utama. Kenaikan ini membuat pasar komoditas pangan tetap perlu mencermati pergerakan harga biji-bijian, minyak, dan daging. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "408477bae4b8",
-    "slug": "세계식량가격지수-3년여만에-최고치곡물유지류육류-상승종합-684766",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T06:21:34.573Z",
-    "updatedAt": "2026-05-09T06:21:34.573Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509031351030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509031351030",
-    "titleFingerprint": "dac791ad044c0d3147cb4e949fc93bb044a25a6e",
-    "dedupKeys": [
-      "408477bae4b8f54e26d5555b2eed7d4d42a55fa1",
-      "dac791ad044c0d3147cb4e949fc93bb044a25a6e",
-      "433317f25ffdf17654c7c1a05f77149971ee089b"
-    ],
-    "imageUrl": "/images/articles/408477bae4b8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "세계식량가격지수 3년 2개월 만에 최고치, 곡물·유지류·육류 상승",
-        "excerpt": "세계식량가격지수가 곡물·유지류·육류 가격 상승 영향으로 3년 2개월 만에 최고 수준을 기록했다고 연합뉴스가 보도했다.",
-        "body": "세계식량가격지수가 3년 2개월 만에 최고 수준으로 올라섰다. 연합뉴스에 따르면 이번 상승은 곡물과 유지류, 육류 가격이 함께 오른 데 따른 것이다. 식량 가격 흐름을 보여주는 세계식량가격지수가 장기간 고점에 도달하면서 주요 식품 원재료 가격 움직임에 대한 관심도 커지고 있다. 곡물, 유지류, 육류는 국제 식품 가격을 구성하는 핵심 품목인 만큼 관련 가격 상승은 식품 시장 전반의 흐름을 가늠하는 지표로 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "World Food Price Index Hits 3-Year, 2-Month High as Grains, Oils and Meat Rise",
-        "excerpt": "The World Food Price Index reached its highest level in three years and two months, driven by increases in grains, vegetable oils and meat, Yonhap reported.",
-        "body": "The World Food Price Index has risen to its highest level in three years and two months. According to Yonhap News Agency, the increase came as prices for grains, vegetable oils and meat all moved higher. As the index, which tracks global food price trends, reached a long-period high, attention is growing on price movements in major food raw materials. Grains, vegetable oils and meat are key components of international food prices, making their rise an important signal for the broader food market. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "世界食料価格指数が3年2カ月ぶり高水準、穀物・油脂・肉類が上昇",
-        "excerpt": "世界食料価格指数は穀物、油脂類、肉類の価格上昇を受け、3年2カ月ぶりの高水準に達したと聯合ニュースが報じた。",
-        "body": "世界食料価格指数が3年2カ月ぶりの高水準に上昇した。聯合ニュースによると、今回の上昇は穀物、油脂類、肉類の価格がそろって上がったことによるものだ。世界の食料価格の流れを示す同指数が長期的な高値に達したことで、主要な食品原材料の価格動向への関心も高まっている。穀物、油脂類、肉類は国際食料価格を構成する主要品目であり、その上昇は食品市場全体の流れを読む指標として注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "世界食品价格指数创3年2个月新高，谷物、油脂和肉类上涨",
-        "excerpt": "韩联社报道，受谷物、油脂和肉类价格上涨影响，世界食品价格指数升至3年2个月以来最高水平。",
-        "body": "世界食品价格指数升至3年2个月以来的最高水平。据韩联社报道，此次上涨是由于谷物、油脂和肉类价格同步走高。作为反映全球食品价格走势的指标，该指数达到较长时期高位后，主要食品原材料价格变动受到更多关注。谷物、油脂和肉类是国际食品价格的重要组成部分，其上涨也被视为观察整体食品市场走势的关键信号。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Índice mundial de precios de alimentos toca máximo de 3 años y 2 meses por granos, aceites y carne",
-        "excerpt": "El índice mundial de precios de alimentos alcanzó su nivel más alto en tres años y dos meses por alzas en granos, aceites y carne, informó Yonhap.",
-        "body": "El índice mundial de precios de alimentos subió a su nivel más alto en tres años y dos meses. Según la agencia Yonhap, el avance se debió al aumento conjunto de los precios de los granos, los aceites vegetales y la carne. Al alcanzar un máximo de largo período, el indicador que refleja la tendencia global de los precios alimentarios concentra mayor atención sobre los movimientos de las principales materias primas alimentarias. Granos, aceites y carne son componentes clave de los precios internacionales de alimentos, por lo que su alza se observa como una señal del mercado en general. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Índice mundial de preços de alimentos atinge máxima de 3 anos e 2 meses com grãos, óleos e carne",
-        "excerpt": "O índice mundial de preços de alimentos chegou ao maior nível em três anos e dois meses, com altas em grãos, óleos vegetais e carne, informou a Yonhap.",
-        "body": "O índice mundial de preços de alimentos subiu para o maior nível em três anos e dois meses. Segundo a agência Yonhap, o avanço ocorreu porque os preços de grãos, óleos vegetais e carne aumentaram ao mesmo tempo. Com o indicador, que mostra a tendência global dos preços dos alimentos, atingindo uma máxima de longo período, cresce a atenção sobre os movimentos das principais matérias-primas alimentares. Grãos, óleos vegetais e carne são componentes centrais dos preços internacionais de alimentos, e sua alta é observada como sinal do mercado alimentar mais amplo. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Weltlebensmittelpreisindex auf höchstem Stand seit 3 Jahren und 2 Monaten: Getreide, Öle und Fleisch teurer",
-        "excerpt": "Der Weltlebensmittelpreisindex erreichte wegen höherer Preise für Getreide, Pflanzenöle und Fleisch den höchsten Stand seit drei Jahren und zwei Monaten, berichtete Yonhap.",
-        "body": "Der Weltlebensmittelpreisindex ist auf den höchsten Stand seit drei Jahren und zwei Monaten gestiegen. Nach Angaben der Nachrichtenagentur Yonhap ging der Anstieg darauf zurück, dass die Preise für Getreide, Pflanzenöle und Fleisch zugleich zulegten. Da der Index die Entwicklung der weltweiten Lebensmittelpreise abbildet und nun ein Langzeithoch erreicht hat, richtet sich der Blick stärker auf die Preisbewegungen wichtiger Lebensmittelrohstoffe. Getreide, Pflanzenöle und Fleisch zählen zu den zentralen Bestandteilen internationaler Lebensmittelpreise; ihr Anstieg gilt daher als Signal für den breiteren Lebensmittelmarkt. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "L’indice mondial des prix alimentaires au plus haut en 3 ans et 2 mois avec céréales, huiles et viande en hausse",
-        "excerpt": "L’indice mondial des prix alimentaires a atteint son plus haut niveau en trois ans et deux mois, porté par les céréales, les huiles et la viande, selon Yonhap.",
-        "body": "L’indice mondial des prix alimentaires est monté à son plus haut niveau en trois ans et deux mois. Selon l’agence Yonhap, cette hausse s’explique par l’augmentation simultanée des prix des céréales, des huiles végétales et de la viande. Alors que cet indice, qui reflète l’évolution des prix alimentaires mondiaux, atteint un sommet de longue période, les mouvements des principales matières premières alimentaires attirent davantage l’attention. Les céréales, les huiles végétales et la viande sont des composantes clés des prix alimentaires internationaux, et leur progression sert d’indicateur pour l’ensemble du marché alimentaire. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "مؤشر أسعار الغذاء العالمي يبلغ أعلى مستوى في 3 أعوام وشهرين مع صعود الحبوب والزيوت واللحوم",
-        "excerpt": "ارتفع مؤشر أسعار الغذاء العالمي إلى أعلى مستوى له في ثلاثة أعوام وشهرين بدعم من زيادة أسعار الحبوب والزيوت النباتية واللحوم، وفق يونهاب.",
-        "body": "ارتفع مؤشر أسعار الغذاء العالمي إلى أعلى مستوى له منذ ثلاثة أعوام وشهرين. ووفق وكالة يونهاب للأنباء، جاء هذا الصعود نتيجة ارتفاع أسعار الحبوب والزيوت النباتية واللحوم معا. ومع وصول المؤشر، الذي يعكس اتجاه أسعار الغذاء عالميا، إلى مستوى مرتفع خلال فترة طويلة، ازداد الاهتمام بتحركات أسعار المواد الخام الغذائية الرئيسية. وتعد الحبوب والزيوت النباتية واللحوم من المكونات الأساسية لأسعار الغذاء الدولية، لذلك ينظر إلى ارتفاعها بوصفه إشارة مهمة لاتجاه سوق الغذاء الأوسع. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "विश्व खाद्य मूल्य सूचकांक 3 साल 2 महीने के उच्च स्तर पर, अनाज, तेल और मांस महंगे",
-        "excerpt": "अनाज, वनस्पति तेल और मांस की कीमतों में बढ़ोतरी से विश्व खाद्य मूल्य सूचकांक तीन साल दो महीने के उच्चतम स्तर पर पहुंचा, योनहाप ने बताया।",
-        "body": "विश्व खाद्य मूल्य सूचकांक तीन साल दो महीने के उच्चतम स्तर पर पहुंच गया है। योनहाप समाचार एजेंसी के अनुसार, यह बढ़ोतरी अनाज, वनस्पति तेल और मांस की कीमतों में एक साथ आई तेजी के कारण हुई। वैश्विक खाद्य कीमतों की दिशा दिखाने वाला यह सूचकांक लंबे समय के ऊंचे स्तर पर पहुंचने से प्रमुख खाद्य कच्चे माल की कीमतों पर ध्यान बढ़ा है। अनाज, वनस्पति तेल और मांस अंतरराष्ट्रीय खाद्य कीमतों के मुख्य घटक हैं, इसलिए इनकी बढ़त को व्यापक खाद्य बाजार की दिशा समझने के संकेतक के रूप में देखा जा रहा है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Indeks Harga Pangan Dunia Tertinggi dalam 3 Tahun 2 Bulan, Gandum, Minyak dan Daging Naik",
-        "excerpt": "Indeks harga pangan dunia mencapai level tertinggi dalam tiga tahun dua bulan karena kenaikan harga biji-bijian, minyak nabati dan daging, lapor Yonhap.",
-        "body": "Indeks harga pangan dunia naik ke level tertinggi dalam tiga tahun dua bulan. Menurut kantor berita Yonhap, kenaikan ini terjadi karena harga biji-bijian, minyak nabati dan daging sama-sama meningkat. Saat indeks yang menunjukkan tren harga pangan global mencapai titik tinggi dalam periode panjang, perhatian terhadap pergerakan harga bahan baku pangan utama ikut meningkat. Biji-bijian, minyak nabati dan daging merupakan komponen penting dalam harga pangan internasional, sehingga kenaikannya dipandang sebagai sinyal bagi arah pasar pangan secara keseluruhan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1a2e5bf916a6",
-    "slug": "상지건설-190억원-주주우선공모-유상증자-223768",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T05:31:56.368Z",
-    "updatedAt": "2026-05-09T05:31:56.368Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508127500008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508127500008",
-    "titleFingerprint": "7e95bdbe724ec0f2558400af34cd7b26ae947388",
-    "dedupKeys": [
-      "1a2e5bf916a66d540e82044b95224f3224c35101",
-      "7e95bdbe724ec0f2558400af34cd7b26ae947388",
-      "97f0b6f30e6457f1b97b15c6c28d8d32369e73a3"
-    ],
-    "imageUrl": "/images/articles/1a2e5bf916a6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "상지건설, 190억원 규모 주주우선공모 유상증자 결정",
-        "excerpt": "코스닥 상장사 상지건설은 8일 운영자금 등 약 190억원 조달을 위해 주주우선공모 방식의 유상증자를 결정했다고 공시했다.",
-        "body": "코스닥 상장사 상지건설[042940]은 8일 운영자금 등 약 190억원을 조달하기 위해 주주우선공모 방식의 유상증자를 결정했다고 공시했다. 이번 공시는 회사가 자금 조달 방안으로 기존 주주에게 우선 청약 기회를 제공하는 유상증자 절차를 택했다는 내용을 담고 있다. 조달 목적은 운영자금 등으로 제시됐으며, 공시된 조달 규모는 약 190억원이다. 유상증자는 발행 주식 수와 주주 지분 구조에 영향을 줄 수 있는 주요 재무 결정인 만큼, 향후 청약 절차와 세부 조건에 대한 투자자 확인이 필요하다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Sangji Construction Plans W19bn Shareholder-Priority Rights Offering",
-        "excerpt": "KOSDAQ-listed Sangji Construction said on May 8 it decided on a shareholder-priority paid-in capital increase to raise about 19 billion won for operating funds and other purposes.",
-        "body": "KOSDAQ-listed Sangji Construction [042940] disclosed on May 8 that it had decided to carry out a shareholder-priority public offering paid-in capital increase to raise about 19 billion won for operating funds and other purposes. The disclosure states that the company selected a capital-raising method that first gives existing shareholders an opportunity to subscribe. The stated use of proceeds includes operating funds, and the announced fundraising size is approximately 19 billion won. Because a paid-in capital increase can affect the number of issued shares and the ownership structure of shareholders, investors need to review the upcoming subscription process and detailed terms. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "サンジ建設、190億ウォン規模の株主優先公募増資を決定",
-        "excerpt": "コスダック上場のサンジ建設は8日、運転資金など約190億ウォンを調達するため、株主優先公募方式の有償増資を決定したと公示した。",
-        "body": "コスダック上場企業のサンジ建設[042940]は8日、運転資金など約190億ウォンを調達するため、株主優先公募方式による有償増資を決定したと公示した。今回の公示は、同社が資金調達策として既存株主に優先的な申込機会を与える有償増資手続きを選択したという内容を含んでいる。調達目的は運転資金などとされ、公示された調達規模は約190億ウォンだ。有償増資は発行株式数や株主の持ち分構造に影響し得る主要な財務決定であるため、今後の申込手続きと詳細条件を投資家が確認する必要がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "Sangji Construction决定190亿韩元股东优先公开增资",
-        "excerpt": "KOSDAQ上市公司Sangji Construction于8日公告称，为筹集运营资金等约190亿韩元，决定实施股东优先公开发行有偿增资。",
-        "body": "KOSDAQ上市公司Sangji Construction[042940]于8日公告称，为筹集运营资金等约190亿韩元，已决定通过股东优先公开发行方式进行有偿增资。此次公告显示，公司选择了先向现有股东提供认购机会的融资方式。募集资金用途包括运营资金等，公告中的筹资规模约为190亿韩元。有偿增资可能影响已发行股份数量及股东持股结构，属于重要财务决策，因此投资者有必要关注后续认购程序和具体条件。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Sangji Construction aprueba ampliación de capital por 19.000 millones de wones",
-        "excerpt": "La cotizada del KOSDAQ Sangji Construction informó el día 8 que decidió una ampliación de capital con prioridad para accionistas para captar unos 19.000 millones de wones.",
-        "body": "Sangji Construction [042940], empresa cotizada en el KOSDAQ, informó el día 8 que decidió realizar una ampliación de capital pagada mediante oferta pública con prioridad para accionistas, con el fin de captar unos 19.000 millones de wones para fondos operativos y otros fines. El comunicado indica que la compañía eligió un método de financiación que otorga primero a los accionistas existentes la oportunidad de suscribir. El destino de los fondos incluye capital operativo, y el importe anunciado es de aproximadamente 19.000 millones de wones. Dado que una ampliación de capital puede afectar al número de acciones emitidas y a la estructura accionarial, los inversores deben revisar el proceso de suscripción y las condiciones detalladas. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Sangji Construction decide aumento de capital de 19 bi de wones",
-        "excerpt": "A Sangji Construction, listada na KOSDAQ, informou no dia 8 que decidiu realizar aumento de capital com prioridade aos acionistas para captar cerca de 19 bilhões de wones.",
-        "body": "A Sangji Construction [042940], empresa listada na KOSDAQ, informou no dia 8 que decidiu realizar um aumento de capital pago por oferta pública com prioridade aos acionistas, a fim de captar cerca de 19 bilhões de wones para capital operacional e outros fins. O comunicado mostra que a companhia escolheu uma forma de financiamento que oferece primeiro aos acionistas existentes a oportunidade de subscrição. O uso dos recursos inclui capital operacional, e o valor divulgado é de aproximadamente 19 bilhões de wones. Como um aumento de capital pode afetar o número de ações emitidas e a estrutura de participação dos acionistas, os investidores devem acompanhar o processo de subscrição e as condições detalhadas. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Sangji Construction beschließt Kapitalerhöhung über 19 Mrd. Won",
-        "excerpt": "Das KOSDAQ-Unternehmen Sangji Construction teilte am 8. mit, eine Kapitalerhöhung mit Vorrang für Aktionäre beschlossen zu haben, um rund 19 Milliarden Won aufzunehmen.",
-        "body": "Das an der KOSDAQ notierte Unternehmen Sangji Construction [042940] gab am 8. bekannt, eine bezahlte Kapitalerhöhung im Wege eines öffentlichen Angebots mit Vorrang für Aktionäre beschlossen zu haben, um rund 19 Milliarden Won für Betriebsmittel und weitere Zwecke aufzunehmen. Die Mitteilung besagt, dass das Unternehmen eine Finanzierungsform gewählt hat, bei der bestehende Aktionäre zuerst eine Zeichnungsmöglichkeit erhalten. Als Verwendungszweck werden unter anderem Betriebsmittel genannt; das angekündigte Volumen beträgt etwa 19 Milliarden Won. Da eine Kapitalerhöhung die Zahl der ausgegebenen Aktien und die Eigentümerstruktur beeinflussen kann, sollten Anleger den weiteren Zeichnungsprozess und die detaillierten Bedingungen prüfen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Sangji Construction décide une augmentation de capital de 19 milliards de wons",
-        "excerpt": "La société cotée au KOSDAQ Sangji Construction a annoncé le 8 avoir décidé une augmentation de capital avec priorité aux actionnaires pour lever environ 19 milliards de wons.",
-        "body": "Sangji Construction [042940], société cotée au KOSDAQ, a annoncé le 8 avoir décidé de procéder à une augmentation de capital payante par offre publique avec priorité aux actionnaires, afin de lever environ 19 milliards de wons pour des fonds d’exploitation et d’autres usages. Le communiqué indique que l’entreprise a choisi un mode de financement donnant d’abord aux actionnaires existants la possibilité de souscrire. L’usage des fonds comprend les besoins d’exploitation, et le montant annoncé est d’environ 19 milliards de wons. Une augmentation de capital pouvant modifier le nombre d’actions émises et la structure de participation, les investisseurs doivent examiner la procédure de souscription à venir et les conditions détaillées. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "سانغجي للإنشاءات تقر زيادة رأسمال بنحو 19 مليار وون",
-        "excerpt": "أعلنت شركة سانغجي للإنشاءات المدرجة في كوسداك يوم 8 أنها قررت تنفيذ زيادة رأسمال مدفوعة بأولوية للمساهمين لجمع نحو 19 مليار وون لأموال التشغيل وغيرها.",
-        "body": "أفصحت شركة سانغجي للإنشاءات [042940] المدرجة في كوسداك يوم 8 أنها قررت تنفيذ زيادة رأسمال مدفوعة عبر اكتتاب عام يمنح الأولوية للمساهمين، بهدف جمع نحو 19 مليار وون لأموال التشغيل وأغراض أخرى. ويوضح الإفصاح أن الشركة اختارت وسيلة تمويل تمنح المساهمين الحاليين فرصة الاكتتاب أولا. وتشمل أغراض التمويل أموال التشغيل، فيما يبلغ حجم التمويل المعلن نحو 19 مليار وون. ونظرا إلى أن زيادة رأس المال قد تؤثر في عدد الأسهم المصدرة وهيكل ملكية المساهمين، يحتاج المستثمرون إلى مراجعة إجراءات الاكتتاب المقبلة والشروط التفصيلية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Sangji Construction ने 19 अरब वॉन के राइट्स इश्यू का फैसला किया",
-        "excerpt": "KOSDAQ-सूचीबद्ध Sangji Construction ने 8 तारीख को कहा कि उसने परिचालन धन आदि के लिए करीब 19 अरब वॉन जुटाने को शेयरधारक-प्राथमिकता वाली पेड-इन कैपिटल वृद्धि तय की है।",
-        "body": "KOSDAQ-सूचीबद्ध Sangji Construction [042940] ने 8 तारीख को खुलासा किया कि उसने परिचालन धन और अन्य उद्देश्यों के लिए करीब 19 अरब वॉन जुटाने हेतु शेयरधारक-प्राथमिकता वाली सार्वजनिक पेशकश के रूप में पेड-इन कैपिटल वृद्धि करने का निर्णय लिया है। इस खुलासे में बताया गया कि कंपनी ने ऐसी वित्तीय व्यवस्था चुनी है जिसमें मौजूदा शेयरधारकों को पहले सदस्यता का अवसर दिया जाता है। जुटाई जाने वाली राशि का उद्देश्य परिचालन धन आदि बताया गया है, और घोषित आकार लगभग 19 अरब वॉन है। चूंकि पेड-इन कैपिटल वृद्धि जारी शेयरों की संख्या और शेयरधारक स्वामित्व संरचना को प्रभावित कर सकती है, इसलिए निवेशकों को आगामी सदस्यता प्रक्रिया और विस्तृत शर्तों की जांच करनी चाहिए। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Sangji Construction Putuskan Rights Issue Prioritas Pemegang Saham Rp? 19 Miliar Won",
-        "excerpt": "Emiten KOSDAQ Sangji Construction pada 8 Mei mengumumkan keputusan penambahan modal berbayar dengan prioritas pemegang saham untuk menghimpun sekitar 19 miliar won bagi dana operasional dan lainnya.",
-        "body": "Sangji Construction [042940], emiten yang tercatat di KOSDAQ, pada 8 Mei mengumumkan bahwa perusahaan memutuskan melakukan penambahan modal berbayar melalui penawaran umum dengan prioritas bagi pemegang saham untuk menghimpun sekitar 19 miliar won bagi dana operasional dan tujuan lainnya. Pengumuman tersebut menyebut perusahaan memilih metode pendanaan yang terlebih dahulu memberi kesempatan pemesanan kepada pemegang saham yang ada. Tujuan penggunaan dana mencakup dana operasional, dengan nilai penghimpunan yang diumumkan sekitar 19 miliar won. Karena penambahan modal berbayar dapat memengaruhi jumlah saham beredar dan struktur kepemilikan pemegang saham, investor perlu mencermati proses pemesanan berikutnya dan ketentuan rinci. Sumber: yna.co.kr"
       }
     }
   }
