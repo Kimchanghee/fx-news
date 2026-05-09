@@ -1,5 +1,230 @@
 [
   {
+    "id": "70bbae102023",
+    "slug": "아센디오-10억원-제3자배정-유상증자-992882",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T03:03:43.205Z",
+    "updatedAt": "2026-05-09T03:03:43.205Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508134400008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508134400008",
+    "titleFingerprint": "457b98746fa624c2bde9120573a0dd91953486cc",
+    "dedupKeys": [
+      "70bbae10202399fb530a80dd73ae0d5308cd10b7",
+      "457b98746fa624c2bde9120573a0dd91953486cc",
+      "850307f7c745b05854c9936c8a5c337656fc6005"
+    ],
+    "imageUrl": "/images/articles/70bbae102023.jpg",
+    "i18n": {
+      "ko": {
+        "title": "아센디오, 10억원 제3자배정 유상증자 결정…운영자금 조달 공시",
+        "excerpt": "코스피 상장사 아센디오는 8일 운영자금 등 약 10억원을 조달하기 위해 제3자배정 방식의 유상증자를 결정했다고 공시했다.",
+        "body": "코스피 상장사 아센디오[012170]는 8일 운영자금 등 약 10억원을 조달하기 위해 제3자배정 방식의 유상증자를 결정했다고 공시했다. 이번 공시는 회사가 필요한 자금을 외부 투자자 배정 방식으로 확보하려는 내용이다. 제3자배정 유상증자는 기존 주주가 아닌 특정 제3자에게 신주를 배정해 자금을 조달하는 방식으로, 원문에 따르면 조달 목적은 운영자금 등으로 제시됐다. 시장에서는 공시된 조달 규모와 방식이 회사의 단기 자금 운용과 재무 계획을 확인하는 자료가 될 수 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Ascendio Announces KRW 1 Billion Third-Party Paid-In Capital Increase",
+        "excerpt": "KOSPI-listed Ascendio disclosed on the 8th that it decided on a third-party paid-in capital increase to raise about KRW 1 billion for operating funds and related purposes.",
+        "body": "KOSPI-listed Ascendio [012170] disclosed on the 8th that it has decided to carry out a third-party paid-in capital increase to raise approximately KRW 1 billion for operating funds and related purposes. The filing states that the company plans to secure needed funds through an allocation to external third parties. A third-party paid-in capital increase is a method of issuing new shares to specified third parties rather than existing shareholders. According to the original report, the purpose of the fundraising was described as operating funds and other uses. The disclosed amount and method may serve as reference information for reviewing the company’s near-term funding plans. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "アセンディオ、10億ウォンの第三者割当増資を決定…運営資金を調達へ",
+        "excerpt": "韓国KOSPI上場のアセンディオは8日、運営資金など約10億ウォンを調達するため、第三者割当方式の有償増資を決定したと公示した。",
+        "body": "韓国KOSPI上場企業のアセンディオ[012170]は8日、運営資金など約10億ウォンを調達するため、第三者割当方式の有償増資を決定したと公示した。今回の公示は、同社が必要な資金を外部の第三者に新株を割り当てる形で確保する内容だ。第三者割当増資は、既存株主ではなく特定の第三者を対象に新株を発行して資金を調達する方式を指す。原文によると、調達目的は運営資金などと示された。公示された調達規模と方式は、同社の短期的な資金運用や財務計画を確認する材料となる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "Ascendio决定第三方配售增资10亿韩元，用于运营资金等用途",
+        "excerpt": "韩国KOSPI上市公司Ascendio于8日公告称，为筹集运营资金等约10亿韩元，公司决定实施第三方配售方式的有偿增资。",
+        "body": "韩国KOSPI上市公司Ascendio[012170]于8日公告称，为筹集运营资金等约10亿韩元，公司决定实施第三方配售方式的有偿增资。此次公告显示，公司拟通过向外部第三方分配新股的方式取得所需资金。第三方配售有偿增资是指不面向现有股东，而是向特定第三方发行新股以筹集资金的方式。根据原文，筹资目的被表述为运营资金等。已公告的筹资规模和方式，可作为市场了解公司短期资金运用及财务计划的资料。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Ascendio aprueba ampliación de capital de 1.000 millones de wones por terceros",
+        "excerpt": "Ascendio, cotizada en KOSPI, informó el día 8 que decidió una ampliación de capital pagada por asignación a terceros para recaudar unos 1.000 millones de wones para fondos operativos y otros fines.",
+        "body": "Ascendio [012170], empresa cotizada en KOSPI, informó el día 8 que decidió realizar una ampliación de capital pagada mediante asignación a terceros para recaudar aproximadamente 1.000 millones de wones destinados a fondos operativos y otros fines. La comunicación señala que la compañía busca asegurar recursos necesarios mediante la asignación de nuevas acciones a terceros externos. Este tipo de ampliación consiste en emitir acciones nuevas a destinatarios específicos que no son necesariamente los accionistas existentes. Según el texto original, el objetivo de la captación se presentó como fondos operativos y otros usos. El importe y el método divulgados sirven como referencia para revisar sus planes financieros de corto plazo. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Ascendio decide aumento de capital de 1 bilhão de won por alocação a terceiros",
+        "excerpt": "A Ascendio, listada na KOSPI, informou no dia 8 que decidiu realizar aumento de capital pago por alocação a terceiros para captar cerca de 1 bilhão de won para capital operacional e outros fins.",
+        "body": "A Ascendio [012170], empresa listada na KOSPI, informou no dia 8 que decidiu realizar um aumento de capital pago por alocação a terceiros para captar aproximadamente 1 bilhão de won destinados a capital operacional e outros fins. O comunicado indica que a companhia pretende garantir recursos necessários por meio da emissão de novas ações a terceiros externos. Esse tipo de aumento de capital consiste em alocar novas ações a terceiros específicos, em vez de oferecê-las aos acionistas existentes. Segundo o texto original, a finalidade da captação foi apresentada como capital operacional e outros usos. O valor e a forma divulgados podem servir de referência para acompanhar seus planos financeiros de curto prazo. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Ascendio beschließt Kapitalerhöhung über 1 Mrd. Won per Drittzuteilung",
+        "excerpt": "Das KOSPI-notierte Unternehmen Ascendio teilte am 8. mit, eine bezahlte Kapitalerhöhung durch Drittzuteilung zur Beschaffung von rund 1 Mrd. Won für Betriebsmittel und weitere Zwecke beschlossen zu haben.",
+        "body": "Das an der KOSPI notierte Unternehmen Ascendio [012170] gab am 8. bekannt, eine bezahlte Kapitalerhöhung durch Zuteilung an Dritte beschlossen zu haben, um rund 1 Mrd. Won für Betriebsmittel und weitere Zwecke zu beschaffen. Die Mitteilung beschreibt, dass das Unternehmen benötigte Mittel über die Ausgabe neuer Aktien an externe Dritte sichern will. Bei einer solchen Drittzuteilung werden neue Aktien nicht vorrangig bestehenden Aktionären, sondern bestimmten Dritten zugewiesen. Laut Originalmeldung wurde der Zweck der Mittelbeschaffung als Betriebsmittel und ähnliche Verwendungen angegeben. Umfang und Methode der Finanzierung bieten Anhaltspunkte für die kurzfristige Finanzplanung des Unternehmens. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Ascendio décide une augmentation de capital de 1 milliard de wons par tiers",
+        "excerpt": "Ascendio, société cotée au KOSPI, a annoncé le 8 avoir décidé une augmentation de capital avec attribution à des tiers afin de lever environ 1 milliard de wons pour des fonds d’exploitation et autres besoins.",
+        "body": "Ascendio [012170], société cotée au KOSPI, a annoncé le 8 avoir décidé une augmentation de capital rémunérée par attribution à des tiers afin de lever environ 1 milliard de wons destinés aux fonds d’exploitation et à d’autres besoins. Le communiqué indique que l’entreprise veut obtenir les ressources nécessaires en attribuant de nouvelles actions à des tiers externes. Une augmentation de capital par attribution à des tiers consiste à émettre de nouvelles actions au profit de tiers déterminés plutôt qu’auprès des actionnaires existants. Selon le texte original, l’objectif de la levée est présenté comme des fonds d’exploitation et autres usages. Le montant et la méthode publiés permettent de suivre les plans financiers de court terme de l’entreprise. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أسينديو تقر زيادة رأسمال مدفوعة بقيمة مليار وون عبر تخصيص لطرف ثالث",
+        "excerpt": "أعلنت أسينديو المدرجة في كوسبي يوم 8 أنها قررت تنفيذ زيادة رأسمال مدفوعة بتخصيص لطرف ثالث لجمع نحو مليار وون لاستخدامها في أموال التشغيل وأغراض أخرى.",
+        "body": "أعلنت شركة أسينديو [012170] المدرجة في سوق كوسبي يوم 8 أنها قررت تنفيذ زيادة رأسمال مدفوعة بطريقة التخصيص لطرف ثالث، بهدف جمع نحو مليار وون لاستخدامها في أموال التشغيل وأغراض أخرى. ويفيد الإفصاح بأن الشركة تسعى إلى تأمين التمويل اللازم من خلال إصدار أسهم جديدة وتخصيصها لأطراف خارجية محددة. وتقوم زيادة رأس المال بتخصيص لطرف ثالث على إصدار أسهم جديدة لجهات محددة بدلا من طرحها على المساهمين الحاليين. وبحسب النص الأصلي، تم عرض غرض جمع الأموال على أنه أموال تشغيلية واستخدامات أخرى. ويمكن أن يوفر حجم التمويل وطريقته المعلنان مادة لمتابعة خطط الشركة المالية قصيرة الأجل. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "Ascendio ने तीसरे पक्ष को आवंटन से 1 अरब वॉन पूंजी वृद्धि का फैसला किया",
+        "excerpt": "KOSPI में सूचीबद्ध Ascendio ने 8 तारीख को बताया कि उसने परिचालन निधि आदि के लिए लगभग 1 अरब वॉन जुटाने हेतु तीसरे पक्ष को आवंटन वाली सशुल्क पूंजी वृद्धि का निर्णय लिया है।",
+        "body": "KOSPI में सूचीबद्ध Ascendio [012170] ने 8 तारीख को घोषणा की कि उसने परिचालन निधि आदि के लिए लगभग 1 अरब वॉन जुटाने के उद्देश्य से तीसरे पक्ष को आवंटन वाली सशुल्क पूंजी वृद्धि का निर्णय लिया है। कंपनी की सूचना के अनुसार, वह बाहरी तीसरे पक्षों को नए शेयर आवंटित कर आवश्यक धन सुरक्षित करना चाहती है। तीसरे पक्ष को आवंटन वाली सशुल्क पूंजी वृद्धि में मौजूदा शेयरधारकों के बजाय निर्दिष्ट तीसरे पक्षों को नए शेयर जारी किए जाते हैं। मूल रिपोर्ट के अनुसार, जुटाई जाने वाली राशि का उद्देश्य परिचालन निधि और अन्य उपयोग बताया गया है। घोषित राशि और तरीका कंपनी की निकट अवधि की वित्तीय योजना को देखने के लिए संदर्भ बन सकते हैं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Ascendio Putuskan Rights Issue Pihak Ketiga Senilai 1 Miliar Won",
+        "excerpt": "Ascendio yang tercatat di KOSPI mengumumkan pada tanggal 8 bahwa perusahaan memutuskan peningkatan modal disetor melalui alokasi pihak ketiga untuk menghimpun sekitar 1 miliar won bagi dana operasional dan kebutuhan lain.",
+        "body": "Ascendio [012170], perusahaan yang tercatat di KOSPI, mengumumkan pada tanggal 8 bahwa pihaknya memutuskan peningkatan modal disetor melalui alokasi kepada pihak ketiga untuk menghimpun sekitar 1 miliar won bagi dana operasional dan kebutuhan lain. Pengumuman tersebut menunjukkan bahwa perusahaan berencana memperoleh dana yang diperlukan dengan menerbitkan saham baru kepada pihak ketiga eksternal. Peningkatan modal dengan alokasi pihak ketiga adalah metode penerbitan saham baru kepada pihak tertentu, bukan kepada pemegang saham yang sudah ada. Menurut teks asli, tujuan penghimpunan dana disebut sebagai dana operasional dan penggunaan lain. Nilai dan metode yang diumumkan dapat menjadi bahan untuk meninjau rencana pendanaan jangka pendek perusahaan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9e0f8fca0cce",
+    "slug": "울진-택시요금-인상기본료-4천4천500원-조정-619180",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T03:02:39.491Z",
+    "updatedAt": "2026-05-09T03:02:39.491Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509023800053",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509023800053",
+    "titleFingerprint": "8e514c7105a7780dda5397ca29a7c43db606fb1a",
+    "dedupKeys": [
+      "9e0f8fca0cce7ff3112ef4b55c00648bac41991b",
+      "8e514c7105a7780dda5397ca29a7c43db606fb1a",
+      "6e58a0a65e24ba440819721883f66a1876b2ac2e"
+    ],
+    "imageUrl": "/images/articles/9e0f8fca0cce.jpg",
+    "i18n": {
+      "ko": {
+        "title": "울진 택시요금 19일부터 인상, 기본료 4천원서 4천500원으로 조정",
+        "excerpt": "경북 울진군은 9일 택시 요금을 오는 19일부터 인상한다고 밝혔다. 기본요금은 기존 4천원에서 4천500원으로 조정되며 지역 택시 이용 요금이 달라진다.",
+        "body": "경북 울진군이 오는 19일부터 택시 요금을 인상한다. 울진군은 9일 지역 택시 기본요금을 기존 4천원에서 4천500원으로 조정한다고 밝혔다. 이번 조정으로 택시를 이용하는 주민과 방문객은 19일부터 변경된 기본요금을 적용받게 된다. 원문에 따르면 이번 발표는 울진군의 택시요금 인상 계획에 관한 내용으로, 기본료 인상 폭은 500원이다. 택시 이용 비용이 달라지는 만큼 지역 내 이동 수요에도 요금 변경 사실이 반영될 전망이다. 출처: yna.co.kr 인용."
+      },
+      "en": {
+        "title": "Uljin Taxi Fares to Rise From the 19th, Base Fare Raised to 4,500 Won",
+        "excerpt": "Uljin County in North Gyeongsang said on the 9th that taxi fares will increase from the 19th, with the base fare adjusted from 4,000 won to 4,500 won.",
+        "body": "Uljin County in North Gyeongsang Province will raise taxi fares from the 19th. The county said on the 9th that the basic taxi fare will be adjusted from the current 4,000 won to 4,500 won. With the change, residents and visitors using taxis in Uljin will be charged the revised base fare from the 19th. According to the original report, the announcement concerns Uljin County's taxi fare increase plan, and the basic fare will rise by 500 won. As taxi use costs change, the fare adjustment is expected to be reflected in local travel expenses. Source: yna.co.kr cited."
+      },
+      "ja": {
+        "title": "蔚珍のタクシー料金が19日から値上げ、初乗り4千ウォンから4千500ウォンへ",
+        "excerpt": "慶尚北道蔚珍郡は9日、タクシー料金を19日から引き上げると発表した。初乗り料金は従来の4千ウォンから4千500ウォンに調整される。",
+        "body": "慶尚北道蔚珍郡は19日からタクシー料金を引き上げる。蔚珍郡は9日、地域のタクシー初乗り料金を従来の4千ウォンから4千500ウォンに調整すると明らかにした。今回の調整により、タクシーを利用する住民や訪問客には19日から変更後の初乗り料金が適用される。原文によると、今回の発表は蔚珍郡のタクシー料金引き上げ計画に関する内容で、初乗り料金の上げ幅は500ウォンとなる。タクシー利用費用が変わるため、地域内の移動費にも料金変更が反映される見通しだ。出典: yna.co.kr 引用。"
+      },
+      "zh": {
+        "title": "蔚珍出租车费19日起上调，起步价由4000韩元调至4500韩元",
+        "excerpt": "韩国庆北蔚珍郡9日表示，将从19日起上调出租车费，起步价由现行4000韩元调整为4500韩元，当地乘车费用将发生变化。",
+        "body": "韩国庆尚北道蔚珍郡将从19日起上调出租车费。蔚珍郡9日表示，当地出租车起步价将由现行4000韩元调整为4500韩元。此次调整后，使用出租车的居民和到访者将从19日起适用新的起步价。根据原文，此次发布内容涉及蔚珍郡出租车费上调计划，起步价上调幅度为500韩元。随着出租车使用成本发生变化，当地出行费用也将反映这一价格调整。来源：引用 yna.co.kr。"
+      },
+      "es": {
+        "title": "Uljin subirá tarifas de taxi desde el día 19: la bajada pasa a 4.500 wones",
+        "excerpt": "El condado de Uljin, en Gyeongsang del Norte, informó el día 9 que elevará las tarifas de taxi desde el 19, con la tarifa básica de 4.000 a 4.500 wones.",
+        "body": "El condado de Uljin, en la provincia de Gyeongsang del Norte, aumentará las tarifas de taxi desde el día 19. Uljin informó el día 9 que la tarifa básica local de taxi se ajustará desde los actuales 4.000 wones hasta 4.500 wones. Con este cambio, residentes y visitantes que utilicen taxis en la zona pagarán la nueva tarifa básica desde el día 19. Según el texto original, el anuncio se refiere al plan de aumento de tarifas de taxi de Uljin, con una subida de 500 wones en la tarifa básica. Al cambiar el costo de uso del taxi, la modificación se reflejará en los gastos de desplazamiento local. Fuente: citado de yna.co.kr."
+      },
+      "pt": {
+        "title": "Uljin aumenta tarifa de táxi no dia 19, com bandeirada a 4.500 won",
+        "excerpt": "O condado de Uljin, em Gyeongsang do Norte, informou no dia 9 que elevará as tarifas de táxi a partir do dia 19, ajustando a tarifa básica de 4.000 para 4.500 won.",
+        "body": "O condado de Uljin, na província de Gyeongsang do Norte, aumentará as tarifas de táxi a partir do dia 19. A administração local informou no dia 9 que a tarifa básica de táxi será ajustada dos atuais 4.000 won para 4.500 won. Com a mudança, moradores e visitantes que usarem táxis em Uljin passarão a pagar a nova tarifa básica a partir do dia 19. Segundo o texto original, o anúncio trata do plano de aumento das tarifas de táxi de Uljin, com acréscimo de 500 won na tarifa básica. Como o custo do uso de táxi mudará, o reajuste será refletido nas despesas de deslocamento local. Fonte: citado de yna.co.kr."
+      },
+      "de": {
+        "title": "Uljin erhöht Taxitarife ab dem 19., Grundpreis steigt auf 4.500 Won",
+        "excerpt": "Der Kreis Uljin in Nord-Gyeongsang teilte am 9. mit, dass die Taxitarife ab dem 19. steigen. Der Grundpreis wird von 4.000 auf 4.500 Won angepasst.",
+        "body": "Der Kreis Uljin in der Provinz Nord-Gyeongsang erhöht ab dem 19. die Taxitarife. Uljin teilte am 9. mit, dass der örtliche Taxi-Grundpreis von bisher 4.000 Won auf 4.500 Won angepasst wird. Damit gilt für Einwohner und Besucher, die in Uljin ein Taxi nutzen, ab dem 19. der geänderte Grundpreis. Dem Originalbericht zufolge betrifft die Ankündigung den Plan des Kreises Uljin zur Erhöhung der Taxitarife; der Grundpreis steigt um 500 Won. Da sich die Kosten für Taxifahrten ändern, dürfte die Tarifänderung auch bei lokalen Fahrtkosten spürbar werden. Quelle: yna.co.kr zitiert."
+      },
+      "fr": {
+        "title": "Uljin relèvera les tarifs des taxis le 19, prise en charge portée à 4 500 wons",
+        "excerpt": "Le comté d’Uljin, dans le Gyeongsang du Nord, a annoncé le 9 une hausse des tarifs de taxi à partir du 19, avec un tarif de base de 4 000 à 4 500 wons.",
+        "body": "Le comté d’Uljin, dans la province du Gyeongsang du Nord, augmentera les tarifs des taxis à partir du 19. Uljin a annoncé le 9 que le tarif de base local des taxis serait ajusté de 4 000 wons actuellement à 4 500 wons. Avec ce changement, les habitants et les visiteurs utilisant un taxi à Uljin se verront appliquer le nouveau tarif de base à partir du 19. Selon le texte original, l’annonce porte sur le plan de hausse des tarifs de taxi d’Uljin, avec une augmentation de 500 wons du tarif de base. La modification du coût des trajets en taxi devrait se répercuter sur les dépenses de déplacement locales. Source : cité de yna.co.kr."
+      },
+      "ar": {
+        "title": "أولجين ترفع أجرة التاكسي من يوم 19 والرسوم الأساسية إلى 4500 وون",
+        "excerpt": "أعلنت مقاطعة أولجين في شمال غيونغسانغ يوم 9 أنها سترفع أجور سيارات الأجرة اعتبارا من يوم 19، مع تعديل الأجرة الأساسية من 4000 إلى 4500 وون.",
+        "body": "سترفع مقاطعة أولجين في إقليم شمال غيونغسانغ أجور سيارات الأجرة اعتبارا من يوم 19. وقالت المقاطعة يوم 9 إن الأجرة الأساسية المحلية لسيارات الأجرة ستعدل من 4000 وون حاليا إلى 4500 وون. وبموجب هذا التعديل، سيدفع السكان والزوار الذين يستخدمون سيارات الأجرة في أولجين الأجرة الأساسية الجديدة من يوم 19. ووفقا للنص الأصلي، يتعلق الإعلان بخطة أولجين لرفع أجور سيارات الأجرة، وتبلغ زيادة الأجرة الأساسية 500 وون. ومع تغير تكلفة استخدام سيارات الأجرة، سينعكس تعديل الأجرة على نفقات التنقل داخل المنطقة. المصدر: نقلا عن yna.co.kr."
+      },
+      "hi": {
+        "title": "उलजिन में 19 तारीख से टैक्सी किराया बढ़ेगा, बेस फेयर 4,500 वॉन होगा",
+        "excerpt": "उत्तर ग्योंगसांग के उलजिन काउंटी ने 9 तारीख को कहा कि 19 तारीख से टैक्सी किराया बढ़ेगा। मूल किराया 4,000 वॉन से बदलकर 4,500 वॉन किया जाएगा।",
+        "body": "उत्तर ग्योंगसांग प्रांत का उलजिन काउंटी 19 तारीख से टैक्सी किराया बढ़ाएगा। काउंटी ने 9 तारीख को बताया कि स्थानीय टैक्सी का मूल किराया मौजूदा 4,000 वॉन से समायोजित कर 4,500 वॉन किया जाएगा। इस बदलाव के बाद उलजिन में टैक्सी का उपयोग करने वाले निवासियों और आगंतुकों पर 19 तारीख से संशोधित मूल किराया लागू होगा। मूल रिपोर्ट के अनुसार, यह घोषणा उलजिन काउंटी की टैक्सी किराया वृद्धि योजना से संबंधित है और मूल किराए में 500 वॉन की बढ़ोतरी होगी। टैक्सी उपयोग की लागत बदलने से स्थानीय आवाजाही के खर्च में यह किराया बदलाव दिखाई देगा। स्रोत: yna.co.kr उद्धृत।"
+      },
+      "id": {
+        "title": "Tarif Taksi Uljin Naik Mulai Tanggal 19, Tarif Dasar Jadi 4.500 Won",
+        "excerpt": "Kabupaten Uljin di Gyeongsang Utara menyatakan pada tanggal 9 bahwa tarif taksi akan naik mulai tanggal 19, dengan tarif dasar dari 4.000 menjadi 4.500 won.",
+        "body": "Kabupaten Uljin di Provinsi Gyeongsang Utara akan menaikkan tarif taksi mulai tanggal 19. Pemerintah Uljin menyatakan pada tanggal 9 bahwa tarif dasar taksi setempat akan disesuaikan dari 4.000 won saat ini menjadi 4.500 won. Dengan penyesuaian ini, warga dan pengunjung yang menggunakan taksi di Uljin akan dikenai tarif dasar baru mulai tanggal 19. Menurut teks asli, pengumuman tersebut berkaitan dengan rencana kenaikan tarif taksi Kabupaten Uljin, dengan kenaikan tarif dasar sebesar 500 won. Karena biaya penggunaan taksi berubah, penyesuaian tarif ini akan tercermin dalam biaya perjalanan lokal. Sumber: dikutip dari yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "9d7da430158f",
+    "slug": "전남도-지역혁신-선도기업-육성사업-국비-71억-확보-908518",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T03:01:39.820Z",
+    "updatedAt": "2026-05-09T03:01:39.821Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508134900054",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508134900054",
+    "titleFingerprint": "608ba3f4f580f3f7a72cdb62e45575a9b080dc1a",
+    "dedupKeys": [
+      "9d7da430158f252b49df2b4f0ba8fb0655ed0c72",
+      "608ba3f4f580f3f7a72cdb62e45575a9b080dc1a",
+      "79eb7626dcc77a8defcd5e21e6ca67ca3d26273f"
+    ],
+    "imageUrl": "/images/articles/9d7da430158f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "전남도, 2026 지역혁신 선도기업 R&D 국비 71억 확보",
+        "excerpt": "전남도는 중소벤처기업부의 2026년 지역혁신선도기업육성(R&D) 사업에 선정돼 지역 선도기업 육성을 위한 국비 71억원을 확보했다고 밝혔다.",
+        "body": "전남도는 중소벤처기업부가 추진하는 ‘2026년 지역혁신선도기업육성(R&D)’ 사업에 선정돼 국비 71억원을 확보했다. 이번 선정은 지역 혁신을 이끌 선도기업 육성 사업과 관련된 재원 확보라는 점에서 의미가 있다. 확보된 국비 규모는 71억원으로, 전남도는 해당 사업 선정 결과를 통해 지역 기업의 연구개발 기반을 지원할 수 있는 재원을 마련하게 됐다. 향후 사업은 중소벤처기업부의 지역혁신선도기업육성(R&D) 틀 안에서 추진될 예정이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Jeonnam Secures 7.1 Billion Won for 2026 Regional Innovation R&D",
+        "excerpt": "Jeonnam Province said it was selected for the Ministry of SMEs and Startups’ 2026 Regional Innovation Leading Companies R&D program, securing 7.1 billion won in state funding.",
+        "body": "Jeonnam Province has been selected for the Ministry of SMEs and Startups’ ‘2026 Regional Innovation Leading Companies Development (R&D)’ program and secured 7.1 billion won in national funding. The selection is notable as it provides financial resources tied to a program aimed at fostering companies that can lead regional innovation. The secured state funding totals 7.1 billion won, giving Jeonnam Province resources to support the research and development base of local companies under the program. The project is expected to proceed within the ministry’s Regional Innovation Leading Companies Development (R&D) framework. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "全羅南道、2026地域革新先導企業R&Dで国費71億ウォン確保",
+        "excerpt": "全羅南道は中小ベンチャー企業部の2026年地域革新先導企業育成（R&D）事業に選定され、国費71億ウォンを確保したと明らかにした。",
+        "body": "全羅南道は、中小ベンチャー企業部が推進する「2026年地域革新先導企業育成（R&D）」事業に選定され、国費71億ウォンを確保した。今回の選定は、地域革新を担う先導企業の育成事業に関連する財源を確保したという点で意味がある。確保された国費の規模は71億ウォンで、全羅南道はこの事業選定により、地域企業の研究開発基盤を支援するための財源を用意することになった。今後の事業は、中小ベンチャー企業部の地域革新先導企業育成（R&D）の枠組みの中で進められる予定だ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "全南道获2026地区创新领军企业R&D国费71亿韩元",
+        "excerpt": "全南道表示，已入选中小风险企业部2026年地区创新领军企业培育（R&D）项目，并获得71亿韩元国家经费。",
+        "body": "全南道入选中小风险企业部推进的“2026年地区创新领军企业培育（R&D）”项目，并获得71亿韩元国家经费。此次入选的意义在于，相关经费将用于地区创新领军企业培育项目。此次 확보的国家经费规模为71亿韩元，全南道由此为支持地区企业研发基础 마련了资金来源。今后，该项目将依照中小风险企业部地区创新领军企业培育（R&D）框架推进。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Jeonnam logra 7.100 millones de wones para I+D regional 2026",
+        "excerpt": "La provincia de Jeonnam fue seleccionada para el programa 2026 de I+D para empresas líderes en innovación regional del Ministerio de Pymes y Startups, con 7.100 millones de wones.",
+        "body": "La provincia de Jeonnam fue seleccionada para el programa ‘2026 de Desarrollo de Empresas Líderes en Innovación Regional (I+D)’ impulsado por el Ministerio de Pymes y Startups, y aseguró 7.100 millones de wones en fondos estatales. La selección es relevante porque supone la obtención de recursos vinculados a un proyecto para fomentar empresas capaces de liderar la innovación regional. El monto asegurado asciende a 7.100 millones de wones, lo que permite a Jeonnam contar con financiación para apoyar la base de investigación y desarrollo de empresas locales. El proyecto avanzará dentro del marco de I+D del ministerio. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Jeonnam obtém 7,1 bilhões de won para I&D regional em 2026",
+        "excerpt": "A província de Jeonnam foi selecionada para o programa de I&D de 2026 para empresas líderes em inovação regional do Ministério das PMEs e Startups, garantindo 7,1 bilhões de won.",
+        "body": "A província de Jeonnam foi selecionada para o programa ‘Desenvolvimento de Empresas Líderes em Inovação Regional (I&D) de 2026’, promovido pelo Ministério das PMEs e Startups, e garantiu 7,1 bilhões de won em recursos nacionais. A seleção é significativa por assegurar financiamento ligado a um projeto de formação de empresas líderes em inovação regional. O montante garantido é de 7,1 bilhões de won, permitindo que Jeonnam disponha de recursos para apoiar a base de pesquisa e desenvolvimento de empresas locais. O projeto seguirá dentro da estrutura de I&D do ministério. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Jeonnam erhält 7,1 Mrd. Won für regionale Innovations-R&D 2026",
+        "excerpt": "Die Provinz Jeonnam wurde für das R&D-Programm 2026 zur Förderung führender regionaler Innovationsunternehmen des Ministeriums für KMU und Startups ausgewählt und erhält 7,1 Mrd. Won.",
+        "body": "Die Provinz Jeonnam wurde für das vom Ministerium für KMU und Startups vorangetriebene Programm ‘2026 Regional Innovation Leading Companies Development (R&D)’ ausgewählt und sicherte sich staatliche Mittel in Höhe von 7,1 Milliarden Won. Die Auswahl ist bedeutsam, weil sie Finanzmittel für ein Vorhaben zur Förderung von Unternehmen bereitstellt, die regionale Innovation anführen sollen. Die gesicherten Mittel belaufen sich auf 7,1 Milliarden Won und geben Jeonnam Ressourcen, um die Forschungs- und Entwicklungsbasis lokaler Unternehmen zu unterstützen. Das Projekt wird im Rahmen des R&D-Programms des Ministeriums umgesetzt. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Jeonnam obtient 7,1 milliards de wons pour la R&D régionale 2026",
+        "excerpt": "La province de Jeonnam a été retenue pour le programme 2026 de R&D destiné aux entreprises leaders de l’innovation régionale du ministère des PME et des Startups, obtenant 7,1 milliards de wons.",
+        "body": "La province de Jeonnam a été sélectionnée pour le programme ‘2026 Regional Innovation Leading Companies Development (R&D)’ mené par le ministère des PME et des Startups, et a obtenu 7,1 milliards de wons de financement national. Cette sélection est notable car elle assure des ressources liées à un projet visant à développer des entreprises capables de mener l’innovation régionale. Le montant obtenu atteint 7,1 milliards de wons, donnant à Jeonnam des moyens pour soutenir la base de recherche et développement des entreprises locales. Le projet se poursuivra dans le cadre R&D du ministère. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مقاطعة جيوننام تحصل على 7.1 مليار وون لبرنامج ابتكار إقليمي 2026",
+        "excerpt": "قالت مقاطعة جيوننام إنها اختيرت لبرنامج 2026 لتطوير الشركات الرائدة في الابتكار الإقليمي والبحث والتطوير التابع لوزارة الشركات الصغيرة والناشئة، وحصلت على 7.1 مليار وون.",
+        "body": "اختيرت مقاطعة جيوننام ضمن برنامج «2026 لتطوير الشركات الرائدة في الابتكار الإقليمي (R&D)» الذي تقوده وزارة الشركات الصغيرة والمتوسطة والناشئة، وحصلت على تمويل حكومي قدره 7.1 مليار وون. وتكمن أهمية الاختيار في أنه يوفر موارد مالية مرتبطة بمشروع يهدف إلى تنمية شركات قادرة على قيادة الابتكار الإقليمي. ويبلغ حجم التمويل الحكومي المؤمّن 7.1 مليار وون، ما يتيح لجيوننام موارد لدعم قاعدة البحث والتطوير لدى الشركات المحلية ضمن هذا البرنامج. ومن المقرر أن يمضي المشروع في إطار برنامج الوزارة لتطوير الشركات الرائدة في الابتكار الإقليمي. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "जिओन्नाम को 2026 क्षेत्रीय नवाचार R&D के लिए 7.1 अरब वॉन मिले",
+        "excerpt": "जिओन्नाम प्रांत ने कहा कि उसे SMEs और स्टार्टअप मंत्रालय के 2026 क्षेत्रीय नवाचार अग्रणी कंपनियों R&D कार्यक्रम के लिए चुना गया है, जिससे 7.1 अरब वॉन की राष्ट्रीय निधि मिली।",
+        "body": "जिओन्नाम प्रांत को SMEs और स्टार्टअप मंत्रालय द्वारा संचालित ‘2026 क्षेत्रीय नवाचार अग्रणी कंपनियों विकास (R&D)’ कार्यक्रम के लिए चुना गया है और उसने 7.1 अरब वॉन की राष्ट्रीय निधि सुरक्षित की है। यह चयन इसलिए महत्वपूर्ण है क्योंकि यह क्षेत्रीय नवाचार का नेतृत्व करने वाली कंपनियों को विकसित करने से जुड़े कार्यक्रम के लिए वित्तीय संसाधन उपलब्ध कराता है। सुरक्षित निधि का आकार 7.1 अरब वॉन है, जिससे जिओन्नाम को स्थानीय कंपनियों के अनुसंधान और विकास आधार को समर्थन देने के लिए संसाधन मिलेंगे। आगे यह परियोजना मंत्रालय के क्षेत्रीय नवाचार अग्रणी कंपनियों विकास (R&D) ढांचे के तहत आगे बढ़ेगी। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Jeonnam Raih 7,1 Miliar Won untuk R&D Inovasi Regional 2026",
+        "excerpt": "Provinsi Jeonnam menyatakan terpilih dalam program R&D Pengembangan Perusahaan Pemimpin Inovasi Regional 2026 dari Kementerian UKM dan Startup, sehingga memperoleh dana negara 7,1 miliar won.",
+        "body": "Provinsi Jeonnam terpilih dalam program ‘Pengembangan Perusahaan Pemimpin Inovasi Regional (R&D) 2026’ yang dijalankan Kementerian UKM dan Startup, dan memperoleh dana negara sebesar 7,1 miliar won. Pemilihan ini bermakna karena menyediakan sumber pendanaan yang terkait dengan program untuk membina perusahaan yang dapat memimpin inovasi regional. Besaran dana negara yang diperoleh mencapai 7,1 miliar won, sehingga Jeonnam memiliki sumber daya untuk mendukung basis penelitian dan pengembangan perusahaan lokal. Ke depan, program ini akan dijalankan dalam kerangka R&D Pengembangan Perusahaan Pemimpin Inovasi Regional kementerian tersebut. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "c4e8b4143224",
     "slug": "cj프레시웨이-1분기-영업익-110억원작년-동기-대비-38-증가-317824",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "SaharaAI Pasok Sistem Agen AI ke Motherson Group India",
         "excerpt": "SaharaAI memasok sistem agen AI ke Motherson Group India, menurut Hankyung, menyoroti perluasan pemakaian teknologi agen AI dalam lingkungan perusahaan.",
         "body": "SaharaAI memasok sistem agen AI ke Motherson Group India, menurut laporan Hankyung. Motherson Group dikenal sebagai perusahaan di bidang suku cadang otomotif, dan pasokan ini diperkenalkan sebagai contoh penerapan teknologi agen AI dalam lingkungan perusahaan nyata. Agen AI menarik perhatian karena tidak hanya menjawab pertanyaan, tetapi juga dapat menggunakan alat, data, dan layanan untuk menjalankan tugas. SaharaAI sebelumnya telah bekerja sama dengan Microsoft, Amazon, MIT, dan Snap dalam proyek AI berbasis data. Pasokan kepada Motherson menunjukkan bahwa penggunaan agen AI semakin meluas di lingkungan industri. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "648d30f9c432",
-    "slug": "휴젤-분석-최대-실적에-주가-급등했지만-2분기엔-조심해야-하는-이유-890269",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T16:18:44.011Z",
-    "updatedAt": "2026-05-08T16:18:44.011Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084127i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084127i",
-    "titleFingerprint": "a1b62aa75840847cf84cf1ec527e758d1e3e422a",
-    "dedupKeys": [
-      "648d30f9c4327df0936443e60570dc676816bb11",
-      "a1b62aa75840847cf84cf1ec527e758d1e3e422a",
-      "41c244046734c53c7a4d6899b629924ae94b27f4"
-    ],
-    "imageUrl": "/images/articles/648d30f9c432.jpg",
-    "i18n": {
-      "ko": {
-        "title": "휴젤 최대 실적에도 2분기 경계론, 주가 급등 뒤 확인할 변수",
-        "excerpt": "휴젤은 최대 실적 발표 뒤 주가가 급등했지만, 한국경제는 2분기 흐름을 확인해야 한다며 실적 지속성과 투자심리 변화를 점검할 필요가 있다고 전했다.",
-        "body": "휴젤이 최대 실적을 기록했다는 소식에 주가가 급등했지만, 2분기에는 신중한 접근이 필요하다는 분석이 제기됐다. 보도에 따르면 휴젤의 실적 개선은 투자자 관심을 끌었고 주가 반응도 즉각적으로 나타났다. 다만 단기 급등 이후에는 다음 분기 실적 흐름과 시장 기대치 충족 여부가 중요해졌다. 특히 2분기에는 최대 실적 이후의 성장 지속성, 주가에 반영된 기대감, 투자심리 변화가 함께 점검 대상이 된다. 실적 호조가 확인됐더라도 후속 분기에서 같은 흐름이 이어지는지는 별도로 확인해야 한다는 의미다. 출처인 hankyung.com은 휴젤의 최대 실적과 주가 급등을 전하면서도 2분기에는 조심해야 할 이유가 있다고 보도했다."
-      },
-      "en": {
-        "title": "Hugel Record Earnings Lift Shares, But Q2 Caution Remains in Focus",
-        "excerpt": "Hugel shares jumped after record earnings, but hankyung.com reported that investors should watch second-quarter momentum, earnings durability and market expectations.",
-        "body": "Hugel’s share price rose sharply after the company posted record earnings, but analysts are urging caution for the second quarter. According to the report, the strong results drew investor attention and triggered an immediate stock-market reaction. Even so, after a rapid rally, the next key question is whether earnings momentum can continue and whether the company can meet market expectations in the following quarter. In the second quarter, investors are expected to check the sustainability of growth after the record performance, the level of expectations already priced into the share price and shifts in market sentiment. Strong earnings have been confirmed, but whether the same trend continues needs separate verification. Source hankyung.com reported Hugel’s record earnings and share-price surge while noting reasons to be careful in Q2."
-      },
-      "ja": {
-        "title": "ヒューゲル最高益で株価急伸、2四半期は慎重確認が焦点",
-        "excerpt": "ヒューゲルは最高益発表後に株価が急伸したが、hankyung.comは2四半期の業績継続性や市場期待を確認する必要があると伝えた。",
-        "body": "ヒューゲルが最高業績を記録したとのニュースを受けて株価は急伸したが、第2四半期には慎重な見方も出ている。報道によると、業績改善は投資家の関心を集め、株価にもすぐ反映された。ただし短期的な上昇後は、次の四半期で業績の流れが続くか、市場の期待を満たせるかが重要になる。第2四半期には、最高業績後の成長持続性、株価に織り込まれた期待、投資心理の変化が確認対象となる。好業績が確認されても、同じ流れが続くかは別途見極める必要がある。出典のhankyung.comは、ヒューゲルの最高業績と株価急伸を伝える一方、第2四半期には注意すべき理由があると報じた。"
-      },
-      "zh": {
-        "title": "Hugel业绩创新高推升股价，但第二季度仍需谨慎观察",
-        "excerpt": "Hugel公布最高业绩后股价大涨，但hankyung.com报道称，第二季度仍需关注业绩延续性、市场预期和投资情绪变化。",
-        "body": "Hugel因创下最高业绩而带动股价快速上涨，但市场对第二季度仍提出谨慎看法。报道显示，业绩改善吸引了投资者关注，股价也立即作出反应。不过，在短期大涨之后，下一季度业绩走势以及能否符合市场预期将成为关键。第二季度需要重点观察最高业绩之后的增长持续性、股价中已反映的预期，以及投资情绪是否变化。即便业绩向好已经得到确认，后续季度能否延续同样趋势仍需单独验证。来源hankyung.com在报道Hugel最高业绩和股价急涨的同时，也指出第二季度需要保持谨慎的理由。"
-      },
-      "es": {
-        "title": "Hugel sube por resultados récord, pero el segundo trimestre exige cautela",
-        "excerpt": "Hugel se disparó en bolsa tras publicar resultados récord, pero hankyung.com señaló que el segundo trimestre debe evaluarse por continuidad, expectativas y ánimo inversor.",
-        "body": "Las acciones de Hugel subieron con fuerza después de que la compañía registrara resultados récord, pero surgieron análisis que recomiendan cautela de cara al segundo trimestre. Según el reporte, la mejora de resultados atrajo la atención de los inversores y provocó una reacción inmediata en el precio de la acción. Sin embargo, tras una subida rápida, será clave comprobar si el impulso de beneficios continúa y si la empresa cumple las expectativas del mercado en el siguiente trimestre. En el segundo trimestre deberán revisarse la sostenibilidad del crecimiento tras el máximo, las expectativas ya incorporadas al precio y los cambios en el ánimo inversor. Aunque el buen resultado está confirmado, la continuidad debe verificarse aparte. hankyung.com informó sobre el récord de Hugel y el salto bursátil, pero también advirtió razones para tener cuidado en el segundo trimestre."
-      },
-      "pt": {
-        "title": "Hugel salta com lucro recorde, mas 2º trimestre pede cautela",
-        "excerpt": "As ações da Hugel subiram após resultados recordes, mas o hankyung.com apontou que o segundo trimestre exige atenção à continuidade, expectativas e sentimento do mercado.",
-        "body": "As ações da Hugel avançaram com força depois de a empresa registrar desempenho recorde, mas análises indicam que o segundo trimestre exige cautela. Segundo a reportagem, a melhora nos resultados atraiu investidores e gerou reação imediata no preço das ações. Ainda assim, depois da alta rápida, o ponto central passa a ser se o ritmo de resultados continuará e se a companhia conseguirá atender às expectativas do mercado no trimestre seguinte. No segundo trimestre, devem ser observadas a sustentabilidade do crescimento após o recorde, as expectativas já refletidas no preço e eventuais mudanças no sentimento dos investidores. Mesmo com o resultado positivo confirmado, a continuidade precisa ser verificada separadamente. O hankyung.com relatou o recorde da Hugel e a alta das ações, mas destacou razões para cuidado no segundo trimestre."
-      },
-      "de": {
-        "title": "Hugel-Aktie steigt nach Rekordergebnis, doch Q2 mahnt zur Vorsicht",
-        "excerpt": "Hugel legte nach Rekordergebnissen an der Börse stark zu, doch hankyung.com verweist auf die nötige Prüfung von Q2-Dynamik, Erwartungen und Marktstimmung.",
-        "body": "Die Aktie von Hugel stieg deutlich, nachdem das Unternehmen ein Rekordergebnis gemeldet hatte. Dennoch wird für das zweite Quartal zu Vorsicht geraten. Dem Bericht zufolge zog die Ergebnisverbesserung das Interesse der Anleger auf sich und löste eine unmittelbare Reaktion am Aktienmarkt aus. Nach dem schnellen Kursanstieg wird jedoch entscheidend sein, ob die Ergebnisdynamik im nächsten Quartal anhält und ob die Markterwartungen erfüllt werden. Im zweiten Quartal stehen die Nachhaltigkeit des Wachstums nach dem Rekord, bereits eingepreiste Erwartungen und mögliche Veränderungen der Anlegerstimmung im Fokus. Auch wenn die starken Zahlen bestätigt sind, muss die Fortsetzung dieses Trends separat geprüft werden. hankyung.com berichtete über Hugels Rekordergebnis und den Kurssprung, wies aber zugleich auf Gründe für Vorsicht im zweiten Quartal hin."
-      },
-      "fr": {
-        "title": "Hugel grimpe après des résultats records, mais le T2 appelle à la prudence",
-        "excerpt": "Hugel a bondi en Bourse après des résultats records, mais hankyung.com indique que le deuxième trimestre devra confirmer la dynamique, les attentes et le sentiment du marché.",
-        "body": "L’action Hugel a fortement progressé après l’annonce de résultats records, mais des analyses appellent à la prudence pour le deuxième trimestre. Selon le reportage, l’amélioration des performances a attiré l’attention des investisseurs et provoqué une réaction immédiate du cours. Toutefois, après cette hausse rapide, la question centrale sera de savoir si la dynamique des résultats se poursuit et si l’entreprise répond aux attentes du marché au trimestre suivant. Au deuxième trimestre, les investisseurs devront examiner la durabilité de la croissance après le record, les attentes déjà intégrées dans le cours et l’évolution du sentiment de marché. Même si les bons résultats sont confirmés, leur prolongement doit être vérifié séparément. hankyung.com a rapporté les résultats records de Hugel et la forte hausse de l’action, tout en signalant des raisons de rester prudent au deuxième trimestre."
-      },
-      "ar": {
-        "title": "سهم Hugel يقفز بعد نتائج قياسية لكن الربع الثاني يتطلب حذرا",
-        "excerpt": "قفز سهم Hugel بعد إعلان نتائج قياسية، لكن hankyung.com أفاد بأن الربع الثاني يحتاج إلى متابعة استمرارية الأرباح وتوقعات السوق ومعنويات المستثمرين.",
-        "body": "ارتفع سهم Hugel بقوة بعد إعلان الشركة تحقيق نتائج قياسية، لكن تحليلات أشارت إلى ضرورة توخي الحذر في الربع الثاني. ووفق التقرير، جذب تحسن الأداء اهتمام المستثمرين وظهر أثره سريعا في حركة السهم. ومع ذلك، بعد الصعود السريع، يصبح السؤال الأساسي هو ما إذا كان زخم الأرباح سيستمر في الربع التالي وما إذا كانت الشركة ستلبي توقعات السوق. في الربع الثاني، ستكون استدامة النمو بعد الأداء القياسي، وحجم التوقعات المنعكسة بالفعل في السعر، وتغير معنويات المستثمرين عوامل يجب متابعتها. ورغم تأكد قوة النتائج، فإن استمرار الاتجاه نفسه يحتاج إلى تحقق منفصل. وذكر hankyung.com نتائج Hugel القياسية وصعود السهم، مع الإشارة إلى وجود أسباب للحذر في الربع الثاني."
-      },
-      "hi": {
-        "title": "Hugel के रिकॉर्ड नतीजों से शेयर उछला, पर दूसरी तिमाही पर सतर्क नजर",
-        "excerpt": "Hugel के रिकॉर्ड नतीजों के बाद शेयर तेज चढ़ा, लेकिन hankyung.com ने दूसरी तिमाही में आय की निरंतरता, बाजार अपेक्षाओं और निवेशक भावना पर नजर रखने की बात कही।",
-        "body": "Hugel ने रिकॉर्ड प्रदर्शन दर्ज किया, जिसके बाद उसके शेयर में तेज उछाल आया, लेकिन दूसरी तिमाही को लेकर सतर्क रुख की जरूरत बताई गई है। रिपोर्ट के अनुसार, बेहतर नतीजों ने निवेशकों का ध्यान खींचा और शेयर कीमत में तुरंत प्रतिक्रिया दिखी। हालांकि तेज बढ़त के बाद अब मुख्य सवाल यह है कि अगली तिमाही में आय की रफ्तार जारी रहती है या नहीं और कंपनी बाजार की अपेक्षाओं पर खरी उतरती है या नहीं। दूसरी तिमाही में रिकॉर्ड प्रदर्शन के बाद वृद्धि की स्थिरता, शेयर भाव में पहले से शामिल उम्मीदें और निवेशक भावना में बदलाव देखने होंगे। अच्छे नतीजे सामने आ चुके हैं, लेकिन यही प्रवाह आगे भी जारी रहेगा या नहीं, इसकी अलग से पुष्टि जरूरी है। स्रोत hankyung.com ने Hugel के रिकॉर्ड नतीजों और शेयर उछाल की खबर दी, साथ ही दूसरी तिमाही में सावधानी की वजह भी बताई।"
-      },
-      "id": {
-        "title": "Saham Hugel Melonjak Usai Kinerja Rekor, Namun Kuartal II Perlu Waspada",
-        "excerpt": "Saham Hugel naik tajam setelah kinerja rekor, tetapi hankyung.com melaporkan bahwa kuartal II perlu mencermati keberlanjutan laba, ekspektasi pasar, dan sentimen investor.",
-        "body": "Saham Hugel melonjak setelah perusahaan mencatat kinerja tertinggi, tetapi muncul analisis bahwa kuartal kedua perlu disikapi dengan hati-hati. Menurut laporan, perbaikan kinerja menarik perhatian investor dan langsung tercermin pada pergerakan harga saham. Namun setelah kenaikan cepat, pertanyaan utama berikutnya adalah apakah momentum kinerja dapat berlanjut dan apakah perusahaan mampu memenuhi ekspektasi pasar pada kuartal berikutnya. Pada kuartal kedua, investor perlu memeriksa keberlanjutan pertumbuhan setelah rekor, ekspektasi yang sudah tercermin dalam harga saham, serta perubahan sentimen pasar. Meski kinerja kuat telah terkonfirmasi, kelanjutan tren tersebut tetap perlu diverifikasi secara terpisah. hankyung.com melaporkan rekor kinerja Hugel dan lonjakan sahamnya, sambil menyoroti alasan untuk berhati-hati pada kuartal kedua."
-      }
-    }
-  },
-  {
-    "id": "f2d8265b90ff",
-    "slug": "gs리테일-분석-편의점수퍼홈쇼핑의-고른-개선내수경기-회복이-관건-276374",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T16:17:12.872Z",
-    "updatedAt": "2026-05-08T16:17:12.872Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084211i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084211i",
-    "titleFingerprint": "8c8cbae0223445b31f9bb7ba4ee19bef08daa987",
-    "dedupKeys": [
-      "f2d8265b90ffdbe9ac39976851c01404145fee5a",
-      "8c8cbae0223445b31f9bb7ba4ee19bef08daa987",
-      "b4a255076317ddb4019ea16c583b1942281a36b9"
-    ],
-    "imageUrl": "/images/articles/f2d8265b90ff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "GS리테일 분석, 편의점·수퍼·홈쇼핑 동반 개선…내수 회복이 핵심 변수",
-        "excerpt": "GS리테일은 편의점·수퍼·홈쇼핑 부문에서 고른 개선 흐름을 보이고 있으며, 향후 실적 흐름은 내수경기 회복 여부가 관건으로 제시됐다.",
-        "body": "GS리테일은 편의점, 수퍼, 홈쇼핑 등 주요 사업 부문에서 고른 개선 흐름을 보이고 있는 것으로 분석됐다. 한국경제 보도에 따르면 이번 분석의 핵심은 각 사업의 회복세가 동시에 나타나고 있다는 점이다. 편의점과 수퍼, 홈쇼핑은 모두 내수 소비 흐름과 밀접하게 연결된 사업으로, 부문별 개선이 이어지더라도 전반적인 소비 여건이 뒷받침돼야 실적 회복의 지속성을 기대할 수 있다. 따라서 GS리테일의 향후 관전 포인트는 개별 사업의 개선세와 함께 내수경기 회복 여부가 될 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "GS Retail Analysis: Convenience Stores, Supermarkets and Home Shopping Improve Together",
-        "excerpt": "GS Retail is showing broad improvement across convenience stores, supermarkets and home shopping, while the key issue for future performance is domestic demand recovery.",
-        "body": "GS Retail is being analyzed as showing balanced improvement across its main businesses, including convenience stores, supermarkets and home shopping. According to Hankyung.com, the core point of the analysis is that recovery trends are appearing across multiple divisions at the same time. Convenience stores, supermarkets and home shopping are all closely tied to domestic consumption trends. Even if each division continues to improve, broader consumer conditions must support that momentum for earnings recovery to be sustained. As a result, the main point to watch for GS Retail will be whether domestic demand recovers alongside improvement in each business segment. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "GSリテイル分析、コンビニ・スーパー・通販がそろって改善…内需回復が焦点",
-        "excerpt": "GSリテイルはコンビニ、スーパー、ホームショッピング部門で幅広い改善を見せており、今後の業績は内需景気の回復が鍵とされた。",
-        "body": "GSリテイルは、コンビニ、スーパー、ホームショッピングなど主要事業部門でバランスの取れた改善傾向を示していると分析された。韓国経済の報道によると、今回の分析の核心は、各事業の回復の流れが同時に表れている点にある。コンビニ、スーパー、ホームショッピングはいずれも国内消費の動向と密接に結び付いた事業である。部門別の改善が続いたとしても、全体の消費環境が支えなければ業績回復の持続性は期待しにくい。したがって、GSリテイルの今後の注目点は、個別事業の改善とともに内需景気が回復するかどうかになる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "GS Retail分析：便利店、超市与电视购物同步改善，内需复苏成关键",
-        "excerpt": "GS Retail在便利店、超市和电视购物业务中呈现均衡改善，但未来业绩走势的关键仍在于韩国国内需求能否恢复。",
-        "body": "GS Retail被分析为在便利店、超市、电视购物等主要业务板块中呈现均衡改善趋势。据韩国经济报道，此次分析的核心在于各业务的复苏迹象同时出现。便利店、超市和电视购物均与国内消费走势密切相关。即使各板块的改善延续，若整体消费环境无法提供支撑，业绩复苏的持续性仍难以确认。因此，GS Retail未来的观察重点将是各业务改善能否延续，以及国内经济和消费需求是否恢复。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Análisis de GS Retail: tiendas, supermercados y home shopping mejoran a la vez",
-        "excerpt": "GS Retail muestra una mejora equilibrada en tiendas de conveniencia, supermercados y home shopping, mientras la recuperación del consumo interno sigue siendo clave.",
-        "body": "GS Retail fue analizada como una compañía que muestra una mejora equilibrada en sus principales negocios: tiendas de conveniencia, supermercados y home shopping. Según Hankyung.com, el punto central del análisis es que las señales de recuperación aparecen al mismo tiempo en varias divisiones. Estos negocios están estrechamente ligados al consumo interno. Aunque la mejora por segmento continúe, la sostenibilidad de la recuperación de resultados dependerá de que las condiciones generales de consumo la respalden. Por ello, el factor clave para GS Retail será si la demanda interna se recupera junto con la mejora de cada negocio. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Análise da GS Retail: lojas, supermercados e home shopping melhoram em conjunto",
-        "excerpt": "A GS Retail mostra melhora ampla em lojas de conveniência, supermercados e home shopping, mas a recuperação da demanda doméstica segue como ponto decisivo.",
-        "body": "A GS Retail foi analisada como uma empresa que apresenta melhora equilibrada em seus principais negócios, incluindo lojas de conveniência, supermercados e home shopping. Segundo o Hankyung.com, o ponto central da análise é que sinais de recuperação aparecem simultaneamente em diferentes divisões. Esses negócios estão fortemente ligados ao consumo doméstico. Mesmo que a melhora por segmento continue, a sustentabilidade da recuperação dos resultados dependerá do apoio das condições gerais de consumo. Assim, o principal fator a observar na GS Retail será a recuperação da demanda interna junto com a melhora de cada negócio. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "GS-Retail-Analyse: Convenience Stores, Supermärkte und Homeshopping legen gemeinsam zu",
-        "excerpt": "GS Retail zeigt Verbesserungen in Convenience Stores, Supermärkten und Homeshopping; entscheidend für den weiteren Verlauf bleibt die Erholung der Binnennachfrage.",
-        "body": "GS Retail wird als Unternehmen analysiert, das in seinen wichtigsten Geschäftsbereichen, darunter Convenience Stores, Supermärkte und Homeshopping, eine ausgewogene Verbesserung zeigt. Laut Hankyung.com liegt der Kern der Analyse darin, dass Erholungstendenzen in mehreren Sparten gleichzeitig sichtbar werden. Diese Bereiche sind eng mit dem inländischen Konsum verbunden. Selbst wenn die Verbesserungen in den einzelnen Segmenten anhalten, braucht eine nachhaltige Ergebniserholung ein stützendes Konsumumfeld. Daher wird bei GS Retail künftig entscheidend sein, ob sich die Binnennachfrage parallel zur Verbesserung der einzelnen Geschäfte erholt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Analyse de GS Retail : supérettes, supermarchés et téléachat s’améliorent ensemble",
-        "excerpt": "GS Retail affiche une amélioration équilibrée dans les supérettes, supermarchés et téléachat, tandis que la reprise de la demande intérieure reste décisive.",
-        "body": "GS Retail est analysé comme affichant une amélioration équilibrée dans ses principales activités, notamment les supérettes, les supermarchés et le téléachat. Selon Hankyung.com, le point central de cette analyse est l’apparition simultanée de signes de reprise dans plusieurs divisions. Ces activités sont étroitement liées à l’évolution de la consommation intérieure. Même si l’amélioration par segment se poursuit, la durabilité du redressement des résultats dépendra du soutien de l’environnement global de consommation. Le principal élément à surveiller pour GS Retail sera donc la reprise de la demande intérieure, en parallèle de l’amélioration de chaque activité. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "تحليل GS Retail: تحسن متوازن في المتاجر والسوبرماركت والتسوق المنزلي",
-        "excerpt": "تظهر GS Retail تحسنا واسعا في متاجر الراحة والسوبرماركت والتسوق المنزلي، فيما تبقى استعادة الطلب المحلي العامل الحاسم للأداء المقبل.",
-        "body": "تشير التحليلات إلى أن GS Retail تسجل تحسنا متوازنا في قطاعاتها الرئيسية، بما في ذلك متاجر الراحة والسوبرماركت والتسوق المنزلي. ووفقا لما أوردته Hankyung.com، فإن النقطة الأساسية في التحليل هي ظهور مؤشرات التعافي في عدة قطاعات في الوقت نفسه. وترتبط هذه الأعمال ارتباطا وثيقا باتجاهات الاستهلاك المحلي. وحتى إذا استمر التحسن في كل قطاع، فإن استدامة تعافي الأرباح تحتاج إلى دعم من ظروف الاستهلاك العامة. لذلك سيكون العامل الأهم لمتابعة GS Retail هو ما إذا كان الطلب المحلي سيتعافى بالتوازي مع تحسن كل نشاط. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "GS Retail विश्लेषण: सुविधा स्टोर, सुपरमार्केट और होम शॉपिंग में समान सुधार",
-        "excerpt": "GS Retail के सुविधा स्टोर, सुपरमार्केट और होम शॉपिंग कारोबार में व्यापक सुधार दिख रहा है, लेकिन आगे के प्रदर्शन की कुंजी घरेलू मांग की रिकवरी है।",
-        "body": "GS Retail को सुविधा स्टोर, सुपरमार्केट और होम शॉपिंग जैसे प्रमुख कारोबारों में संतुलित सुधार दिखाने वाली कंपनी के रूप में विश्लेषित किया गया है। Hankyung.com के अनुसार, इस विश्लेषण का मुख्य बिंदु यह है कि कई व्यवसायों में सुधार के संकेत एक साथ दिखाई दे रहे हैं। ये सभी कारोबार घरेलू उपभोग प्रवृत्ति से गहराई से जुड़े हैं। यदि प्रत्येक खंड में सुधार जारी भी रहे, तो आय की रिकवरी टिकाऊ होने के लिए व्यापक उपभोग माहौल का समर्थन जरूरी होगा। इसलिए GS Retail के लिए आगे देखने वाली प्रमुख बात यह होगी कि अलग-अलग कारोबारों के सुधार के साथ घरेलू मांग भी संभलती है या नहीं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Analisis GS Retail: minimarket, supermarket dan home shopping membaik bersama",
-        "excerpt": "GS Retail menunjukkan perbaikan merata di bisnis minimarket, supermarket dan home shopping, sementara pemulihan permintaan domestik menjadi faktor kunci.",
-        "body": "GS Retail dianalisis menunjukkan perbaikan yang merata di bisnis utama, termasuk minimarket, supermarket dan home shopping. Menurut Hankyung.com, inti analisis ini adalah bahwa tren pemulihan muncul secara bersamaan di beberapa divisi. Ketiga bisnis tersebut sangat terkait dengan arah konsumsi domestik. Meski perbaikan per segmen berlanjut, keberlanjutan pemulihan kinerja tetap membutuhkan dukungan dari kondisi konsumsi secara keseluruhan. Karena itu, hal utama yang perlu dicermati dari GS Retail ke depan adalah apakah permintaan domestik pulih bersamaan dengan membaiknya masing-masing bisnis. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "aa0bae9ff7a5",
-    "slug": "지난달-밸류업-공시-기업-130곳95가-고배당社-306051",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T16:16:18.339Z",
-    "updatedAt": "2026-05-08T16:16:18.339Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050841716",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050841716",
-    "titleFingerprint": "dda3a813169e39d00904e17743a2c1f2ced1e534",
-    "dedupKeys": [
-      "aa0bae9ff7a579cbfd8b881030ddae43352f8a36",
-      "dda3a813169e39d00904e17743a2c1f2ced1e534",
-      "0cf66bc35f2f99f9b543333d91fab70e56995963"
-    ],
-    "imageUrl": "/images/articles/aa0bae9ff7a5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "밸류업 공시 기업 지난달 130곳, 95%가 고배당사로 확인되며 시장 관심",
-        "excerpt": "지난달 밸류업 공시를 낸 기업은 130곳으로 집계됐고, 이 가운데 95%가 고배당 기업으로 나타났다고 hankyung.com이 보도했다.",
-        "body": "지난달 국내 증시에서 밸류업 공시를 낸 기업은 130곳으로 집계됐다. hankyung.com에 따르면 이들 기업 가운데 95%가 고배당사로 나타났다. 밸류업 공시는 기업이 주주가치 제고와 관련한 계획을 시장에 알리는 자료로, 이번 집계는 공시 기업의 상당수가 배당 성향이 높은 기업에 몰려 있음을 보여준다. 관련 수치는 밸류업 공시가 고배당 기업 중심으로 확산되고 있다는 점을 확인하게 한다. 향후 시장에서는 밸류업 공시 기업과 배당 정책의 연결성이 계속 주목될 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Value-Up Disclosures Reached 130 Last Month, With 95% High-Dividend Firms",
-        "excerpt": "A total of 130 companies made value-up disclosures last month, and 95% of them were high-dividend firms, hankyung.com reported.",
-        "body": "Last month, 130 companies in the domestic stock market made value-up disclosures. According to hankyung.com, 95% of those companies were classified as high-dividend firms. Value-up disclosures are materials through which companies inform the market of plans related to improving shareholder value. The latest count shows that most companies making such disclosures were concentrated among firms with high dividend payouts. The figures confirm that value-up disclosures are spreading mainly among high-dividend companies. The market is expected to continue watching the link between value-up disclosures and dividend policies. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "バリューアップ開示は先月130社、95％が高配当企業と判明し市場注目",
-        "excerpt": "先月バリューアップ開示を行った企業は130社で、このうち95％が高配当企業だったとhankyung.comが報じた。",
-        "body": "先月、国内株式市場でバリューアップ開示を行った企業は130社と集計された。hankyung.comによると、これらの企業のうち95％が高配当企業だった。バリューアップ開示は、企業が株主価値向上に関する計画を市場に知らせる資料であり、今回の集計は開示企業の大半が配当性向の高い企業に集中していることを示している。関連数値は、バリューアップ開示が高配当企業を中心に広がっている点を確認させる。今後、市場ではバリューアップ開示企業と配当政策の関係が引き続き注目される見通しだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "价值提升披露企业上月达130家，95%为高分红公司受关注",
-        "excerpt": "hankyung.com报道称，上月发布价值提升披露的企业共有130家，其中95%为高分红公司。",
-        "body": "上月，韩国股市共有130家企业发布价值提升披露。hankyung.com报道称，这些企业中有95%为高分红公司。价值提升披露是企业向市场说明提升股东价值相关计划的资料，此次统计显示，发布披露的企业大多集中在分红水平较高的公司。相关数据确认，价值提升披露正主要在高分红企业中扩散。未来市场预计将继续关注价值提升披露企业与分红政策之间的关联。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Divulgaciones Value-Up sumaron 130 firmas en el mes, 95% de alto dividendo",
-        "excerpt": "El mes pasado 130 empresas realizaron divulgaciones Value-Up y el 95% de ellas fueron compañías de alto dividendo, informó hankyung.com.",
-        "body": "El mes pasado, 130 empresas del mercado bursátil local realizaron divulgaciones Value-Up. Según hankyung.com, el 95% de esas compañías fueron firmas de alto dividendo. Las divulgaciones Value-Up son documentos mediante los cuales las empresas comunican al mercado planes relacionados con la mejora del valor para los accionistas. El recuento muestra que la mayoría de las compañías que hicieron estas divulgaciones se concentró entre empresas con alta orientación al dividendo. Las cifras confirman que las divulgaciones Value-Up se están extendiendo principalmente entre compañías de alto dividendo. El mercado seguirá observando la relación entre estas divulgaciones y las políticas de dividendos. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Divulgações Value-Up chegaram a 130 no mês, com 95% de alto dividendo",
-        "excerpt": "No mês passado, 130 empresas fizeram divulgações Value-Up, e 95% delas eram companhias de alto dividendo, informou o hankyung.com.",
-        "body": "No mês passado, 130 empresas do mercado acionário local fizeram divulgações Value-Up. Segundo o hankyung.com, 95% dessas companhias eram empresas de alto dividendo. As divulgações Value-Up são materiais pelos quais as empresas informam ao mercado planos relacionados ao aumento do valor para os acionistas. O levantamento mostra que a maior parte das empresas que divulgaram esses planos se concentrou entre companhias com forte perfil de dividendos. Os números confirmam que as divulgações Value-Up estão se espalhando principalmente entre empresas de alto dividendo. O mercado deve continuar acompanhando a relação entre essas divulgações e as políticas de dividendos. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Value-Up-Mitteilungen erreichten 130 Firmen, 95% davon hohe Dividendenzahler",
-        "excerpt": "Im vergangenen Monat gaben 130 Unternehmen Value-Up-Mitteilungen ab; 95% davon waren laut hankyung.com dividendenstarke Firmen.",
-        "body": "Im vergangenen Monat veröffentlichten 130 Unternehmen am heimischen Aktienmarkt Value-Up-Mitteilungen. Laut hankyung.com waren 95% dieser Unternehmen dividendenstarke Firmen. Value-Up-Mitteilungen sind Unterlagen, mit denen Unternehmen den Markt über Pläne zur Steigerung des Aktionärswerts informieren. Die aktuelle Auswertung zeigt, dass sich die meisten Unternehmen mit solchen Mitteilungen auf Firmen mit hoher Dividendenorientierung konzentrierten. Die Zahlen bestätigen, dass sich Value-Up-Mitteilungen vor allem unter dividendenstarken Unternehmen verbreiten. Der Markt dürfte die Verbindung zwischen Value-Up-Mitteilungen und Dividendenpolitik weiter beobachten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les annonces Value-Up ont atteint 130 sociétés, dont 95% à hauts dividendes",
-        "excerpt": "Le mois dernier, 130 entreprises ont publié des annonces Value-Up, dont 95% étaient des sociétés à hauts dividendes, selon hankyung.com.",
-        "body": "Le mois dernier, 130 entreprises du marché boursier local ont publié des annonces Value-Up. Selon hankyung.com, 95% d’entre elles étaient des sociétés à hauts dividendes. Les annonces Value-Up sont des documents par lesquels les entreprises informent le marché de leurs plans liés à l’amélioration de la valeur pour les actionnaires. Ce décompte montre que la majorité des sociétés concernées se concentre parmi les entreprises fortement orientées vers les dividendes. Les chiffres confirment que les annonces Value-Up se diffusent principalement chez les sociétés à hauts dividendes. Le marché devrait continuer à suivre le lien entre ces annonces et les politiques de dividendes. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "إفصاحات Value-Up بلغت 130 شركة الشهر الماضي و95% منها عالية التوزيعات",
-        "excerpt": "بلغ عدد الشركات التي قدمت إفصاحات Value-Up الشهر الماضي 130 شركة، وكان 95% منها شركات مرتفعة التوزيعات، وفق hankyung.com.",
-        "body": "في الشهر الماضي، قدمت 130 شركة في سوق الأسهم المحلية إفصاحات Value-Up. ووفقًا لموقع hankyung.com، فإن 95% من هذه الشركات كانت من الشركات ذات التوزيعات المرتفعة. وتعد إفصاحات Value-Up مواد تعلن من خلالها الشركات للسوق خططًا مرتبطة بتحسين قيمة المساهمين. وتظهر هذه الحصيلة أن معظم الشركات التي قدمت هذه الإفصاحات تتركز بين الشركات ذات سياسة توزيعات مرتفعة. وتؤكد الأرقام أن إفصاحات Value-Up تنتشر أساسًا بين الشركات عالية التوزيعات. ومن المتوقع أن يواصل السوق متابعة الصلة بين هذه الإفصاحات وسياسات التوزيعات. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Value-Up खुलासे पिछले महीने 130 कंपनियों तक पहुंचे, 95% उच्च लाभांश वाली",
-        "excerpt": "पिछले महीने 130 कंपनियों ने Value-Up खुलासे किए और इनमें 95% उच्च लाभांश देने वाली कंपनियां थीं, hankyung.com ने बताया।",
-        "body": "पिछले महीने घरेलू शेयर बाजार में 130 कंपनियों ने Value-Up खुलासे किए। hankyung.com के अनुसार, इनमें 95% कंपनियां उच्च लाभांश देने वाली थीं। Value-Up खुलासे वे दस्तावेज होते हैं जिनके जरिए कंपनियां शेयरधारक मूल्य बढ़ाने से जुड़ी योजनाओं की जानकारी बाजार को देती हैं। यह आंकड़ा दिखाता है कि ऐसे खुलासे करने वाली ज्यादातर कंपनियां ऊंचे लाभांश वाली कंपनियों में केंद्रित थीं। संबंधित संख्या यह पुष्टि करती है कि Value-Up खुलासे मुख्य रूप से उच्च लाभांश कंपनियों के बीच फैल रहे हैं। आगे बाजार इन खुलासों और लाभांश नीतियों के संबंध पर ध्यान बनाए रख सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Pengungkapan Value-Up Bulan Lalu Capai 130 Emiten, 95% Berdividen Tinggi",
-        "excerpt": "Bulan lalu 130 perusahaan membuat pengungkapan Value-Up, dan 95% di antaranya merupakan perusahaan berdividen tinggi, lapor hankyung.com.",
-        "body": "Bulan lalu, 130 perusahaan di pasar saham domestik membuat pengungkapan Value-Up. Menurut hankyung.com, 95% dari perusahaan tersebut merupakan perusahaan berdividen tinggi. Pengungkapan Value-Up adalah materi yang digunakan perusahaan untuk memberi tahu pasar mengenai rencana terkait peningkatan nilai pemegang saham. Data ini menunjukkan bahwa sebagian besar perusahaan yang melakukan pengungkapan tersebut terkonsentrasi pada perusahaan dengan orientasi dividen tinggi. Angka terkait menegaskan bahwa pengungkapan Value-Up menyebar terutama di kalangan perusahaan berdividen tinggi. Ke depan, pasar diperkirakan terus mencermati hubungan antara pengungkapan Value-Up dan kebijakan dividen. Sumber: hankyung.com"
       }
     }
   }
