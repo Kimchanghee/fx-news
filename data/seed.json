@@ -1,5 +1,230 @@
 [
   {
+    "id": "08dc29efcd55",
+    "slug": "환율-외국인-순매도에-177원-오른-14717원-267160",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T04:19:25.190Z",
+    "updatedAt": "2026-05-09T04:19:25.190Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508127900002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508127900002",
+    "titleFingerprint": "e259f0b003e642b597a4dd67eb257ea7dd6f907e",
+    "dedupKeys": [
+      "08dc29efcd556c8d1528cc3f692137edf43b7b59",
+      "e259f0b003e642b597a4dd67eb257ea7dd6f907e",
+      "a2485543d112e38ba772d8c33b327f8e747938af"
+    ],
+    "imageUrl": "/images/articles/08dc29efcd55.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원/달러 환율 1,471.7원 마감, 외국인 순매도에 17.7원 급등",
+        "excerpt": "8일 서울 외환시장에서 원/달러 환율은 외국인 투자자들의 국내 주식 대규모 매도 영향으로 17.7원 오른 1,471.7원에 마감했다.",
+        "body": "8일 서울 외환시장에서 원/달러 환율은 외국인 투자자들의 국내 주식 대규모 매도 영향으로 전 거래일보다 17.7원 상승한 1,471.7원에 마감했다. 환율은 다시 1,470원대로 올라서며 원화 약세 흐름을 보였다. 이번 상승은 외국인 투자자들의 국내 주식 순매도가 원화 수급에 부담으로 작용한 데 따른 것으로 전해졌다. 시장에서는 외국인 매매 동향이 원/달러 환율 흐름에 주요 변수로 작용하고 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Won-Dollar Rate Ends at 1,471.7 as Foreign Stock Selling Lifts FX",
+        "excerpt": "On May 8, the won-dollar exchange rate rose 17.7 won to 1,471.7 in Seoul, driven by heavy selling of Korean shares by foreign investors.",
+        "body": "On May 8, the won-dollar exchange rate in the Seoul foreign exchange market closed at 1,471.7 won, up 17.7 won from the previous session, as foreign investors sold large amounts of Korean shares. The rate moved back into the 1,470 won range, showing renewed weakness in the won. The rise was attributed to pressure on won supply and demand from foreign investors’ net selling in the domestic stock market. Market attention remains focused on foreign trading flows as a key factor for the won-dollar rate. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "ウォン・ドル相場1,471.7ウォン、外国人売り越しで17.7ウォン上昇",
+        "excerpt": "8日のソウル外国為替市場でウォン・ドル相場は、外国人投資家による韓国株の大規模売りの影響で17.7ウォン上昇し1,471.7ウォンとなった。",
+        "body": "8日のソウル外国為替市場で、ウォン・ドル相場は外国人投資家による韓国株の大規模売却の影響を受け、前営業日比17.7ウォン高の1,471.7ウォンで取引を終えた。相場は再び1,470ウォン台に乗せ、ウォン安の流れを示した。今回の上昇は、外国人投資家の国内株式売り越しがウォン需給の重荷になったためと伝えられている。市場では外国人の売買動向がウォン・ドル相場の主要な変数として注目されている。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩元兑美元汇率收于1,471.7，外资净卖出推动上涨17.7韩元",
+        "excerpt": "5月8日首尔外汇市场，韩元兑美元汇率受外国投资者大规模抛售韩国股票影响，上涨17.7韩元至1,471.7韩元。",
+        "body": "5月8日，首尔外汇市场韩元兑美元汇率收于1,471.7韩元，较前一交易日上涨17.7韩元，主要受到外国投资者大规模卖出韩国股票的影响。汇率重新回到1,470韩元区间，显示韩元走弱。报道称，此次上涨与外国投资者在韩国股市净卖出对韩元供需形成压力有关。市场正继续关注外资买卖动向，因为这仍是影响韩元兑美元汇率走势的重要变量。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "El won-dólar cierra en 1.471,7 por ventas extranjeras de acciones",
+        "excerpt": "El 8 de mayo, el tipo de cambio won-dólar subió 17,7 wones hasta 1.471,7 en Seúl, presionado por fuertes ventas de acciones locales por inversores extranjeros.",
+        "body": "El 8 de mayo, en el mercado cambiario de Seúl, el tipo de cambio won-dólar cerró en 1.471,7 wones, 17,7 wones más que en la sesión anterior, afectado por ventas masivas de acciones surcoreanas por parte de inversores extranjeros. La cotización volvió al rango de 1.470 wones, reflejando debilidad del won. El avance se atribuyó a que la venta neta extranjera en el mercado bursátil local presionó la oferta y demanda de la moneda. El mercado sigue atento a los flujos de inversión extranjera como variable clave. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Won-dólar fecha a 1.471,7 com venda líquida estrangeira de ações",
+        "excerpt": "Em 8 de maio, o câmbio won-dólar subiu 17,7 won para 1.471,7 em Seul, influenciado pela forte venda de ações locais por investidores estrangeiros.",
+        "body": "Em 8 de maio, no mercado de câmbio de Seul, a taxa won-dólar encerrou a 1.471,7 won, alta de 17,7 won em relação à sessão anterior, sob impacto da venda em larga escala de ações sul-coreanas por investidores estrangeiros. A cotação voltou à faixa de 1.470 won, indicando enfraquecimento do won. A alta foi atribuída à pressão sobre a oferta e demanda da moeda causada pela venda líquida estrangeira no mercado acionário local. O mercado acompanha os fluxos estrangeiros como fator central para o câmbio. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Won-Dollar-Kurs schließt bei 1.471,7 nach ausländischen Aktienverkäufen",
+        "excerpt": "Am 8. Mai stieg der Won-Dollar-Kurs in Seoul um 17,7 Won auf 1.471,7, belastet durch umfangreiche Verkäufe koreanischer Aktien durch ausländische Investoren.",
+        "body": "Am 8. Mai schloss der Won-Dollar-Kurs am Devisenmarkt in Seoul bei 1.471,7 Won und damit 17,7 Won höher als in der vorherigen Sitzung. Auslöser waren umfangreiche Verkäufe koreanischer Aktien durch ausländische Investoren. Der Kurs kehrte damit in den Bereich von 1.470 Won zurück und zeigte eine Schwäche des Won. Der Anstieg wurde darauf zurückgeführt, dass Nettoverkäufe ausländischer Anleger am heimischen Aktienmarkt die Angebots- und Nachfragesituation des Won belasteten. Der Markt beobachtet diese Kapitalflüsse weiter als wichtigen Faktor. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le won-dollar clôture à 1 471,7 après les ventes d’actions étrangères",
+        "excerpt": "Le 8 mai à Séoul, le taux won-dollar a gagné 17,7 wons à 1 471,7, sous l’effet de fortes ventes d’actions locales par les investisseurs étrangers.",
+        "body": "Le 8 mai, sur le marché des changes de Séoul, le taux won-dollar a clôturé à 1 471,7 wons, en hausse de 17,7 wons par rapport à la séance précédente, sous l’effet de ventes massives d’actions sud-coréennes par les investisseurs étrangers. Le taux est revenu dans la zone des 1 470 wons, signalant un affaiblissement du won. Cette hausse a été attribuée à la pression exercée sur l’offre et la demande de wons par les ventes nettes étrangères sur le marché actions local. Les flux étrangers restent une variable clé pour le marché. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "سعر الوون مقابل الدولار يغلق عند 1,471.7 بفعل بيع الأجانب للأسهم",
+        "excerpt": "في 8 مايو بسوق الصرف في سول، ارتفع سعر الوون مقابل الدولار 17.7 وون إلى 1,471.7 وون بسبب مبيعات واسعة للأسهم المحلية من مستثمرين أجانب.",
+        "body": "في 8 مايو، أغلق سعر صرف الوون مقابل الدولار في سوق الصرف الأجنبي في سول عند 1,471.7 وون، مرتفعا 17.7 وون عن الجلسة السابقة، متأثرا ببيع واسع النطاق للأسهم الكورية من جانب المستثمرين الأجانب. وعاد السعر إلى نطاق 1,470 وون، ما أظهر ضعفا في الوون. ونسبت الزيادة إلى أن صافي بيع الأجانب في سوق الأسهم المحلية شكّل ضغطا على عرض وطلب الوون. وتواصل السوق متابعة تحركات المستثمرين الأجانب باعتبارها عاملا رئيسيا في مسار سعر الصرف. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "वॉन-डॉलर दर 1,471.7 पर बंद, विदेशी बिकवाली से 17.7 वॉन उछाल",
+        "excerpt": "8 मई को सियोल विदेशी मुद्रा बाजार में वॉन-डॉलर दर विदेशी निवेशकों की कोरियाई शेयरों में भारी बिक्री के असर से 17.7 वॉन बढ़कर 1,471.7 पर बंद हुई।",
+        "body": "8 मई को सियोल विदेशी मुद्रा बाजार में वॉन-डॉलर विनिमय दर पिछले सत्र से 17.7 वॉन बढ़कर 1,471.7 वॉन पर बंद हुई। यह बढ़त विदेशी निवेशकों द्वारा घरेलू कोरियाई शेयरों की बड़े पैमाने पर बिक्री के प्रभाव में आई। दर फिर 1,470 वॉन के दायरे में पहुंच गई, जिससे वॉन में कमजोरी दिखी। रिपोर्ट के अनुसार, घरेलू शेयर बाजार में विदेशी निवेशकों की शुद्ध बिकवाली ने वॉन की मांग और आपूर्ति पर दबाव डाला। बाजार वॉन-डॉलर दर के लिए विदेशी निवेश प्रवाह को प्रमुख कारक के रूप में देख रहा है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kurs Won-Dolar Ditutup 1.471,7, Naik 17,7 Won karena Jual Asing",
+        "excerpt": "Pada 8 Mei di pasar valas Seoul, kurs won-dolar naik 17,7 won menjadi 1.471,7 akibat aksi jual besar saham domestik oleh investor asing.",
+        "body": "Pada 8 Mei, kurs won-dolar di pasar valuta asing Seoul ditutup pada 1.471,7 won, naik 17,7 won dari sesi sebelumnya, dipengaruhi aksi jual besar saham Korea oleh investor asing. Kurs kembali ke kisaran 1.470 won, menunjukkan pelemahan won. Kenaikan ini dikaitkan dengan tekanan pada pasokan dan permintaan won akibat jual bersih investor asing di pasar saham domestik. Pelaku pasar tetap mencermati arus transaksi investor asing sebagai faktor utama bagi pergerakan kurs won-dolar. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "27492d6101aa",
+    "slug": "최저임금위원장-민주노총-방문조합원은-사퇴하라-요구-164911",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T04:18:32.679Z",
+    "updatedAt": "2026-05-09T04:18:32.679Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508129200530",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508129200530",
+    "titleFingerprint": "502a00a27c389d254abcd662e836535ae5dca75d",
+    "dedupKeys": [
+      "27492d6101aa858c64fb3d400a68d2e09585d3cd",
+      "502a00a27c389d254abcd662e836535ae5dca75d",
+      "286d2f61df5821e502f1f39f9591796cdc9aeed5"
+    ],
+    "imageUrl": "/images/articles/27492d6101aa.jpg",
+    "i18n": {
+      "ko": {
+        "title": "최저임금위원장 민주노총 방문, 조합원 ‘사퇴하라’ 요구 확산",
+        "excerpt": "권순원 최저임금위원장이 사퇴를 요구해 온 민주노총을 방문한 가운데, 현장 조합원들이 위원장직 사퇴를 촉구하며 최저임금 논의를 둘러싼 갈등이 부각됐다.",
+        "body": "권순원 최저임금위원회 위원장이 자신의 위원장직 사퇴를 요구하고 있는 전국민주노동조합총연맹, 민주노총을 방문했다. 서울에서 전해진 이번 방문은 최저임금 논의를 둘러싼 노동계와 위원장 간 긴장이 이어지는 상황에서 이뤄졌다. 현장 조합원들은 권 위원장을 향해 ‘사퇴하라’고 요구한 것으로 전해졌다. 최저임금위원회는 최저임금 심의와 결정 과정에서 노사 및 공익위원이 참여하는 핵심 기구인 만큼, 위원장 거취 논란은 향후 논의 분위기에도 영향을 줄 수 있다. 다만 원문은 구체적인 면담 내용이나 향후 일정은 전하지 않았다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Minimum Wage Commission Chief Visits KCTU as Members Demand Resignation",
+        "excerpt": "Kwon Soon-won, chair of South Korea’s Minimum Wage Commission, visited the KCTU amid calls for him to resign, with union members pressing their demand on site.",
+        "body": "Kwon Soon-won, chair of the Minimum Wage Commission, visited the Korean Confederation of Trade Unions, which has been demanding that he step down from his post. The visit, reported from Seoul, came as tensions continued between labor groups and the commission chair over the minimum wage process. Union members at the site were reported to have called on Kwon to resign. Because the Minimum Wage Commission is a key body in the deliberation and decision-making process for the statutory minimum wage, controversy over the chair’s position could affect the tone of upcoming discussions. The original report did not provide details on the meeting or future schedule. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "最低賃金委員長が民主労総訪問、組合員は「辞任せよ」と要求",
+        "excerpt": "韓国の最低賃金委員会の権順元委員長が、辞任を求めてきた民主労総を訪問し、現場の組合員は委員長職からの辞任を改めて求めた。",
+        "body": "韓国の最低賃金委員会の権順元委員長が、自身の委員長職辞任を求めている全国民主労働組合総連盟、民主労総を訪問した。ソウル発で伝えられた今回の訪問は、最低賃金をめぐる議論で労働界と委員長との緊張が続く中で行われた。現場の組合員は権委員長に対し「辞任せよ」と要求したとされる。最低賃金委員会は最低賃金の審議と決定過程において、労使と公益委員が参加する重要機関であるため、委員長の進退をめぐる論争は今後の議論の雰囲気にも影響し得る。原文は具体的な面談内容や今後の日程には触れていない。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "最低工资委员会委员长访问民主劳总，会员要求其“辞职”",
+        "excerpt": "韩国最低工资委员会委员长权顺元访问一直要求其辞职的民主劳总，现场工会会员再次敦促其辞去委员长职务。",
+        "body": "韩国最低工资委员会委员长权顺元访问了全国民主劳动组合总联盟，即民主劳总。该组织一直要求他辞去委员长职务。据首尔消息，此次访问发生在围绕最低工资讨论、劳工界与委员长之间紧张持续的背景下。现场工会会员据称向权委员长要求“辞职”。最低工资委员会是法定最低工资审议和决定过程中的核心机构，由劳资及公益委员参与，因此围绕委员长去留的争议可能影响今后讨论的氛围。不过，原文未说明具体会谈内容或后续日程。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Jefe de salario mínimo visita la KCTU entre exigencias de renuncia",
+        "excerpt": "Kwon Soon-won, presidente de la Comisión de Salario Mínimo de Corea del Sur, visitó la KCTU mientras afiliados sindicales le exigieron dejar el cargo.",
+        "body": "Kwon Soon-won, presidente de la Comisión de Salario Mínimo de Corea del Sur, visitó la Confederación Coreana de Sindicatos, KCTU, que venía exigiendo su renuncia al cargo. La visita, reportada desde Seúl, se produjo en un contexto de tensión entre el sector sindical y el presidente de la comisión por el proceso de discusión del salario mínimo. Según el reporte, afiliados presentes en el lugar pidieron a Kwon que renunciara. La Comisión de Salario Mínimo es un órgano clave en la deliberación y decisión del salario mínimo legal, con participación de representantes laborales, empresariales y públicos, por lo que la controversia sobre su presidente podría influir en el ambiente de futuras discusiones. El texto original no detalló el contenido de la reunión ni próximos pasos. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Chefe do salário mínimo visita KCTU sob pedidos de renúncia de sindicalistas",
+        "excerpt": "Kwon Soon-won, presidente da Comissão de Salário Mínimo da Coreia do Sul, visitou a KCTU, onde membros sindicais voltaram a exigir sua saída do cargo.",
+        "body": "Kwon Soon-won, presidente da Comissão de Salário Mínimo da Coreia do Sul, visitou a Confederação Coreana de Sindicatos, KCTU, entidade que vinha exigindo sua renúncia ao cargo. A visita, informada a partir de Seul, ocorreu em meio à tensão entre o movimento sindical e o presidente da comissão sobre o processo de discussão do salário mínimo. Membros sindicais presentes no local teriam pedido que Kwon renunciasse. A Comissão de Salário Mínimo é um órgão central na deliberação e decisão do piso legal, com participação de representantes trabalhistas, empresariais e públicos. Por isso, a controvérsia sobre a permanência do presidente pode influenciar o clima das próximas discussões. O texto original não trouxe detalhes da reunião nem do cronograma futuro. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Mindestlohn-Chef besucht KCTU, Gewerkschafter fordern Rücktritt",
+        "excerpt": "Kwon Soon-won, Vorsitzender der südkoreanischen Mindestlohnkommission, besuchte die KCTU, deren Mitglieder vor Ort erneut seinen Rücktritt verlangten.",
+        "body": "Kwon Soon-won, Vorsitzender der südkoreanischen Mindestlohnkommission, hat den Koreanischen Gewerkschaftsbund KCTU besucht, der seinen Rücktritt vom Vorsitz fordert. Der aus Seoul gemeldete Besuch fand vor dem Hintergrund anhaltender Spannungen zwischen Gewerkschaftsseite und Kommissionschef über die Mindestlohndebatte statt. Gewerkschaftsmitglieder vor Ort sollen Kwon aufgefordert haben, zurückzutreten. Die Mindestlohnkommission ist ein zentrales Gremium im Beratungs- und Entscheidungsprozess zum gesetzlichen Mindestlohn, an dem Arbeitnehmer-, Arbeitgeber- und öffentliche Vertreter beteiligt sind. Daher könnte die Kontroverse über den Vorsitz die Atmosphäre künftiger Beratungen beeinflussen. Der Originalbericht nannte keine Details zum Gespräch oder zu weiteren Terminen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le chef du salaire minimum visite la KCTU, des syndiqués exigent sa démission",
+        "excerpt": "Kwon Soon-won, président de la Commission sud-coréenne du salaire minimum, s’est rendu à la KCTU, où des membres ont réclamé sa démission.",
+        "body": "Kwon Soon-won, président de la Commission sud-coréenne du salaire minimum, s’est rendu auprès de la Confédération coréenne des syndicats, KCTU, qui demande sa démission de son poste. Cette visite, rapportée depuis Séoul, intervient alors que les tensions se poursuivent entre le monde syndical et le président de la commission autour des discussions sur le salaire minimum. Des syndiqués présents sur place auraient demandé à Kwon de démissionner. La Commission du salaire minimum est un organe central du processus d’examen et de décision du salaire minimum légal, avec la participation de représentants des travailleurs, des employeurs et de l’intérêt public. La controverse sur le maintien de son président pourrait donc peser sur le climat des prochaines discussions. Le texte original ne détaille ni le contenu de la rencontre ni le calendrier à venir. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "رئيس لجنة الحد الأدنى للأجور يزور اتحاد KCTU وسط مطالبات بالاستقالة",
+        "excerpt": "زار كوون سون وون، رئيس لجنة الحد الأدنى للأجور في كوريا الجنوبية، اتحاد KCTU الذي يطالبه بالاستقالة، فيما كرر أعضاء نقابيون مطلبهم في الموقع.",
+        "body": "زار كوون سون وون، رئيس لجنة الحد الأدنى للأجور في كوريا الجنوبية، الاتحاد الكوري لنقابات العمال KCTU، الذي يطالب باستقالته من منصبه. وجاءت الزيارة، وفق ما نقل من سول، في ظل استمرار التوتر بين الأوساط العمالية ورئيس اللجنة بشأن مناقشات الحد الأدنى للأجور. وذكر التقرير أن أعضاء نقابيين في الموقع طالبوا كوون بالاستقالة. وتعد لجنة الحد الأدنى للأجور هيئة رئيسية في عملية بحث وتحديد الحد الأدنى القانوني للأجور، إذ يشارك فيها ممثلون عن العمال وأصحاب العمل والمصلحة العامة. لذلك قد يؤثر الجدل حول بقاء رئيسها في أجواء المناقشات المقبلة. ولم يورد النص الأصلي تفاصيل عن مضمون اللقاء أو الجدول المقبل. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "न्यूनतम वेतन आयोग प्रमुख KCTU पहुंचे, सदस्यों ने इस्तीफा मांगा",
+        "excerpt": "दक्षिण कोरिया के न्यूनतम वेतन आयोग के अध्यक्ष क्वोन सून-वोन ने KCTU का दौरा किया, जहां यूनियन सदस्यों ने उनसे पद छोड़ने की मांग दोहराई।",
+        "body": "दक्षिण कोरिया के न्यूनतम वेतन आयोग के अध्यक्ष क्वोन सून-वोन ने कोरियन कन्फेडरेशन ऑफ ट्रेड यूनियंस, KCTU, का दौरा किया। यह संगठन उनसे अध्यक्ष पद से इस्तीफा देने की मांग करता रहा है। सियोल से आई रिपोर्ट के अनुसार, यह दौरा न्यूनतम वेतन पर चर्चा को लेकर श्रमिक संगठनों और आयोग अध्यक्ष के बीच जारी तनाव के बीच हुआ। मौके पर मौजूद यूनियन सदस्यों ने कथित तौर पर क्वोन से इस्तीफा देने को कहा। न्यूनतम वेतन आयोग वैधानिक न्यूनतम वेतन की समीक्षा और निर्णय प्रक्रिया में प्रमुख संस्था है, जिसमें श्रमिक, नियोक्ता और सार्वजनिक हित के प्रतिनिधि शामिल होते हैं। इसलिए अध्यक्ष के पद पर बने रहने को लेकर विवाद आगामी चर्चाओं के माहौल को प्रभावित कर सकता है। मूल रिपोर्ट में बैठक की सामग्री या आगे के कार्यक्रम का विवरण नहीं दिया गया। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Ketua Komisi Upah Minimum Kunjungi KCTU, Anggota Serukan Mundur",
+        "excerpt": "Kwon Soon-won, ketua Komisi Upah Minimum Korea Selatan, mengunjungi KCTU yang menuntut pengunduran dirinya, sementara anggota serikat mengulang tuntutan itu.",
+        "body": "Kwon Soon-won, ketua Komisi Upah Minimum Korea Selatan, mengunjungi Konfederasi Serikat Buruh Korea, KCTU, yang selama ini menuntut agar ia mundur dari jabatan ketua. Kunjungan yang dilaporkan dari Seoul itu terjadi di tengah ketegangan antara kalangan buruh dan ketua komisi terkait proses pembahasan upah minimum. Anggota serikat di lokasi disebut meminta Kwon untuk mundur. Komisi Upah Minimum merupakan lembaga utama dalam proses pembahasan dan penetapan upah minimum resmi, dengan partisipasi perwakilan buruh, pengusaha, dan kepentingan publik. Karena itu, kontroversi mengenai posisi ketua dapat memengaruhi suasana pembahasan berikutnya. Laporan asli tidak memuat detail isi pertemuan atau jadwal selanjutnya. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e1702b38e47e",
+    "slug": "외인-던지고-개미-받고코스피-7500선-턱밑-마감-또-사상최고종합-877288",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T04:17:33.462Z",
+    "updatedAt": "2026-05-09T04:17:33.462Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508131500008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508131500008",
+    "titleFingerprint": "bd6f7579d6a05a39cbbe2298e2f80c0a0b02e742",
+    "dedupKeys": [
+      "e1702b38e47ec5a06e5dedcf7d6043cfbcb30877",
+      "bd6f7579d6a05a39cbbe2298e2f80c0a0b02e742",
+      "347f9fce9658eceb653019a475b51c5c95986ac6"
+    ],
+    "imageUrl": "/images/articles/e1702b38e47e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7,500선 턱밑 마감…외인 매도에도 또 사상 최고",
+        "excerpt": "코스피가 8일 장 후반 상승 전환해 7,500선 바로 아래에서 마감하며 사상 최고치를 다시 경신했다. 외국인은 팔고 개인은 받아낸 흐름이 부각됐다.",
+        "body": "코스피가 8일 서울 증시에서 장 후반 상승 전환하며 7,500선 턱밑에서 거래를 마쳤고, 또다시 사상 최고치를 경신했다. 원문에 따르면 이날 시장에서는 외국인이 매도에 나선 가운데 개인 투자자가 이를 받아내는 흐름이 나타났다. 지수는 장 막판 오름세로 돌아서며 7,500선에 근접한 수준에서 마감했다. 이번 마감은 코스피가 최고치 경신 흐름을 이어갔다는 점에서 국내 증시 투자심리에 영향을 줄 수 있다. 다만 원문은 구체적인 종가와 등락률은 제시하지 않았다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Ends Just Below 7,500, Hits Record High Despite Foreign Selling",
+        "excerpt": "The KOSPI turned higher late on the 8th and closed just under the 7,500 mark, setting another record high as retail investors absorbed foreign selling.",
+        "body": "The KOSPI turned higher late in the session on the 8th in Seoul and finished just below the 7,500 level, marking another all-time high. According to the original report, foreign investors sold shares while retail investors stepped in to absorb the selling. The index moved into positive territory near the close and ended close to the 7,500 line. The finish matters because it extends the KOSPI’s record-setting run and may affect domestic stock market sentiment. The original text did not provide the exact closing level or percentage change. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI、7,500目前で終了…外国人売りでも再び最高値",
+        "excerpt": "KOSPIは8日、取引終盤に上昇へ転じ、7,500目前で終了して過去最高値を再び更新した。外国人の売りを個人が受け止めた流れが目立った。",
+        "body": "KOSPIは8日、ソウル市場で取引終盤に上昇へ転じ、7,500目前の水準で取引を終え、再び過去最高値を更新した。原文によると、この日の市場では外国人投資家が売りに出る一方、個人投資家がそれを受け止める展開となった。指数は終盤にプラス圏へ戻し、7,500に近い水準で引けた。今回の終値は、KOSPIが最高値更新の流れを続けた点で、韓国株市場の投資心理に影響を与え得る。原文では具体的な終値や騰落率は示されていない。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI收于7,500点关口下方，外资抛售下再创新高",
+        "excerpt": "KOSPI在8日尾盘转涨，收于7,500点关口附近并再次刷新历史高位。外资卖出、散户承接的市场走势受到关注。",
+        "body": "KOSPI于8日在首尔股市尾盘转为上涨，最终收在7,500点关口下方附近，并再次刷新历史最高纪录。根据原文，当天市场中外资出现卖出，而个人投资者承接了相关卖盘。指数在收盘前转入升势，并以接近7,500点的水平结束交易。此次收盘显示KOSPI延续创新高走势，可能影响韩国国内股市投资情绪。不过，原文未提供具体收盘点位和涨跌幅。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "KOSPI Cierra Cerca de 7.500 y Marca Otro Récord pese a Ventas Extranjeras",
+        "excerpt": "El KOSPI giró al alza al final de la sesión del día 8 y cerró justo por debajo de 7.500 puntos, renovando su máximo histórico mientras minoristas absorbieron ventas extranjeras.",
+        "body": "El KOSPI giró al alza en la parte final de la sesión del día 8 en Seúl y terminó justo por debajo del nivel de 7.500 puntos, marcando otro máximo histórico. Según el texto original, los inversores extranjeros vendieron, mientras que los inversores particulares absorbieron esa oferta. El índice volvió a terreno positivo cerca del cierre y finalizó próximo a la línea de 7.500. Este cierre destaca porque prolonga la racha de máximos del KOSPI y puede influir en el ánimo del mercado bursátil local. El original no ofreció el cierre exacto ni la variación porcentual. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI Fecha Perto dos 7.500 e Bate Novo Recorde Apesar de Venda Estrangeira",
+        "excerpt": "O KOSPI virou para alta no fim da sessão do dia 8 e fechou logo abaixo dos 7.500 pontos, renovando a máxima histórica enquanto investidores individuais absorveram vendas estrangeiras.",
+        "body": "O KOSPI virou para alta na parte final do pregão do dia 8 em Seul e encerrou logo abaixo do nível de 7.500 pontos, renovando mais uma vez sua máxima histórica. Segundo o texto original, investidores estrangeiros venderam ações, enquanto investidores individuais absorveram essa oferta. O índice voltou ao campo positivo perto do fechamento e terminou próximo da marca de 7.500. O resultado chama atenção por manter a sequência de recordes do KOSPI e pode afetar o sentimento no mercado acionário doméstico. O original não informou o fechamento exato nem a variação percentual. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "KOSPI Schließt Knapp Unter 7.500 und Erreicht Trotz Auslandsverkäufen Rekord",
+        "excerpt": "Der KOSPI drehte am 8. spät ins Plus und schloss knapp unter 7.500 Punkten, womit er erneut ein Rekordhoch erreichte, während Privatanleger ausländische Verkäufe aufnahmen.",
+        "body": "Der KOSPI drehte am 8. im späten Handel in Seoul ins Plus und beendete die Sitzung knapp unter der Marke von 7.500 Punkten. Damit erreichte der Index erneut ein Allzeithoch. Dem Originalbericht zufolge verkauften ausländische Investoren, während Privatanleger diese Verkäufe aufnahmen. Der Index kehrte kurz vor Handelsschluss in positives Terrain zurück und schloss nahe der 7.500er-Linie. Dieser Schlussstand ist bedeutsam, weil der KOSPI seine Rekordserie fortsetzt und die Stimmung am heimischen Aktienmarkt beeinflussen kann. Der Originaltext nannte keinen exakten Schlussstand und keine prozentuale Veränderung. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI Termine Près de 7 500 Points et Signe un Nouveau Record",
+        "excerpt": "Le KOSPI a basculé en hausse en fin de séance le 8 et a clôturé juste sous 7 500 points, inscrivant un nouveau record alors que les particuliers ont absorbé les ventes étrangères.",
+        "body": "Le KOSPI a basculé en hausse en fin de séance le 8 à Séoul et a terminé juste sous le seuil des 7 500 points, établissant de nouveau un plus haut historique. Selon le texte original, les investisseurs étrangers ont vendu, tandis que les investisseurs particuliers ont absorbé ces ventes. L’indice est repassé en territoire positif à l’approche de la clôture et a fini près de la ligne des 7 500 points. Cette clôture compte car elle prolonge la série de records du KOSPI et peut peser sur le sentiment du marché actions sud-coréen. Le texte original ne précise ni le niveau exact de clôture ni la variation en pourcentage. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يغلق قرب 7,500 نقطة ويسجل ذروة قياسية رغم بيع الأجانب",
+        "excerpt": "تحول مؤشر كوسبي إلى الارتفاع في أواخر جلسة يوم 8 وأغلق مباشرة دون مستوى 7,500 نقطة، مجددا أعلى مستوى تاريخي مع استيعاب الأفراد لمبيعات الأجانب.",
+        "body": "تحول مؤشر كوسبي إلى الصعود في أواخر جلسة يوم 8 في سوق سيول، وأنهى التداولات مباشرة دون مستوى 7,500 نقطة، مسجلا مرة أخرى أعلى مستوى تاريخي. وبحسب النص الأصلي، باع المستثمرون الأجانب، بينما قام المستثمرون الأفراد باستيعاب تلك المبيعات. عاد المؤشر إلى المنطقة الإيجابية قرب الإغلاق، وأنهى الجلسة عند مستوى قريب من 7,500 نقطة. تكتسب هذه النهاية أهمية لأنها تمدد مسار القمم القياسية للمؤشر وقد تؤثر في معنويات سوق الأسهم المحلية. ولم يذكر النص الأصلي مستوى الإغلاق الدقيق أو نسبة التغير. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI 7,500 के करीब बंद, विदेशी बिकवाली के बावजूद फिर रिकॉर्ड ऊंचाई",
+        "excerpt": "KOSPI ने 8 तारीख को सत्र के अंतिम हिस्से में बढ़त ली और 7,500 के ठीक नीचे बंद होकर फिर ऐतिहासिक ऊंचाई बनाई, जबकि खुदरा निवेशकों ने विदेशी बिकवाली को संभाला।",
+        "body": "KOSPI ने 8 तारीख को सियोल बाजार में सत्र के अंतिम हिस्से में बढ़त की ओर रुख किया और 7,500 अंक के ठीक नीचे कारोबार समाप्त किया, जिससे उसने फिर सर्वकालिक उच्च स्तर दर्ज किया। मूल रिपोर्ट के अनुसार, उस दिन विदेशी निवेशकों ने बिक्री की, जबकि व्यक्तिगत निवेशकों ने उस बिकवाली को संभाला। सूचकांक बंद होने से पहले सकारात्मक क्षेत्र में लौटा और 7,500 रेखा के करीब बंद हुआ। यह बंद स्तर इसलिए अहम है क्योंकि KOSPI ने रिकॉर्ड ऊंचाई का सिलसिला जारी रखा, जिससे घरेलू शेयर बाजार की धारणा प्रभावित हो सकती है। मूल पाठ में सटीक बंद स्तर या प्रतिशत बदलाव नहीं दिया गया। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Ditutup Dekat 7.500, Cetak Rekor Lagi meski Asing Menjual",
+        "excerpt": "KOSPI berbalik naik pada akhir perdagangan tanggal 8 dan ditutup tepat di bawah level 7.500, kembali mencetak rekor tertinggi saat investor ritel menyerap penjualan asing.",
+        "body": "KOSPI berbalik menguat pada akhir sesi perdagangan tanggal 8 di Seoul dan menutup perdagangan tepat di bawah level 7.500, sekaligus kembali mencetak rekor tertinggi sepanjang masa. Menurut teks asli, investor asing melakukan aksi jual, sementara investor individu menyerap tekanan jual tersebut. Indeks kembali ke zona positif menjelang penutupan dan berakhir dekat garis 7.500. Penutupan ini penting karena menunjukkan KOSPI melanjutkan rangkaian rekor tertinggi dan dapat memengaruhi sentimen pasar saham domestik. Teks asli tidak menyebutkan level penutupan pasti maupun persentase perubahan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "70bbae102023",
     "slug": "아센디오-10억원-제3자배정-유상증자-992882",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "HD Hyundai Marine Engine Perkuat Struktur Laba Tinggi di Divisi Mesin",
         "excerpt": "HD Hyundai Marine Engine memperkuat struktur laba tinggi di divisi mesin, sementara potensi kenaikan utilisasi setelah kuartal kedua menjadi fokus analisis.",
         "body": "HD Hyundai Marine Engine dianalisis sedang memperkuat struktur laba tinggi yang berpusat pada divisi mesin. Fokus utama analisis ini adalah tren perbaikan profitabilitas di bisnis mesin serta kemungkinan kenaikan tingkat utilisasi setelah kuartal kedua. Laporan asli menyebut bahwa divisi mesin HD Hyundai Marine Engine memperkuat struktur profitnya dan perubahan utilisasi ke depan menjadi variabel penting untuk menilai arah kinerja. Khususnya, potensi kenaikan utilisasi setelah kuartal kedua disajikan sebagai dasar untuk mencermati efisiensi produksi dan prospek profitabilitas. Namun, angka spesifik atau proyeksi kinerja tambahan tidak terkonfirmasi di luar judul asli. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "5cc1fe948b26",
-    "slug": "bgf리테일-분석-2개-분기-연속-깜짝-실적편의점-점유율도-상승-937741",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T16:51:25.487Z",
-    "updatedAt": "2026-05-08T16:51:25.487Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084065i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084065i",
-    "titleFingerprint": "bd01d0fcf3b8cc24448866f24b7a2593ff5a741c",
-    "dedupKeys": [
-      "5cc1fe948b2627050892c50d56d54cea8dfff3da",
-      "bd01d0fcf3b8cc24448866f24b7a2593ff5a741c",
-      "f7a026d62d244790c0d8392b6777909360f0cbbf"
-    ],
-    "imageUrl": "/images/articles/5cc1fe948b26.jpg",
-    "i18n": {
-      "ko": {
-        "title": "BGF리테일, 2개 분기 연속 깜짝 실적…편의점 점유율도 상승",
-        "excerpt": "BGF리테일이 최근 2개 분기 연속 시장 기대를 웃도는 깜짝 실적을 기록하고 편의점 점유율도 상승한 것으로 분석됐다.",
-        "body": "BGF리테일이 최근 2개 분기 연속 ‘깜짝 실적’을 기록한 것으로 분석됐다. 한국경제 보도에 따르면 BGF리테일은 편의점 사업에서 시장 기대를 웃도는 성과를 이어가며 실적 흐름을 개선했다. 특히 편의점 점유율도 함께 상승한 점이 주목된다. 이는 회사의 주력 사업인 편의점 부문 경쟁력이 유지되고 있음을 보여주는 신호로 해석된다. 다만 원문에서 구체적인 매출, 영업이익, 점유율 수치는 제시되지 않았다. 향후 관건은 이 같은 실적 개선세와 점유율 상승 흐름이 지속될지 여부다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "BGF Retail Posts Second Straight Earnings Surprise as Store Share Rises",
-        "excerpt": "BGF Retail was analyzed as posting earnings surprises for two consecutive quarters, while its convenience-store market share also increased.",
-        "body": "BGF Retail has been analyzed as posting an “earnings surprise” for two consecutive quarters. According to Hankyung, the company improved its performance trend by continuing to exceed market expectations in its convenience-store business. The rise in convenience-store market share also drew attention. This is seen as a sign that competitiveness in the company’s core convenience-store segment has been maintained. However, the original report did not provide specific figures for sales, operating profit, or market share. The key issue ahead is whether the earnings improvement and share gains can continue. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "BGFリテール、2四半期連続のサプライズ決算…コンビニシェアも上昇",
-        "excerpt": "BGFリテールは直近2四半期連続で市場予想を上回るサプライズ決算を記録し、コンビニ市場シェアも上昇したと分析された。",
-        "body": "BGFリテールが直近2四半期連続で「サプライズ決算」を記録したと分析された。韓国経済の報道によると、同社はコンビニ事業で市場の期待を上回る成果を続け、業績の流れを改善した。特にコンビニの市場シェアも上昇した点が注目される。これは、同社の主力事業であるコンビニ部門の競争力が維持されていることを示す信号と受け止められる。ただし、原文では売上高、営業利益、市場シェアの具体的な数値は示されていない。今後の焦点は、こうした業績改善とシェア上昇の流れが続くかどうかだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "BGF Retail连续两个季度业绩超预期，便利店份额同步上升",
-        "excerpt": "分析显示，BGF Retail最近连续两个季度录得超出市场预期的业绩表现，同时便利店市场份额也出现上升。",
-        "body": "BGF Retail被分析为最近连续两个季度录得“惊喜业绩”。据韩国经济报道，该公司在便利店业务中持续取得高于市场预期的成果，改善了业绩走势。尤其是便利店市场份额也同步上升，受到关注。这被解读为公司核心业务便利店板块竞争力仍在维持的信号。不过，原文未提供具体销售额、营业利润或市场份额数字。未来的关键在于，这种业绩改善和份额上升趋势能否延续。来源: hankyung.com"
-      },
-      "es": {
-        "title": "BGF Retail logra segunda sorpresa trimestral y eleva su cuota en tiendas",
-        "excerpt": "BGF Retail fue analizada por registrar resultados mejores de lo esperado durante dos trimestres seguidos, junto con un aumento de cuota en tiendas de conveniencia.",
-        "body": "BGF Retail fue analizada como una compañía que registró una “sorpresa de resultados” durante dos trimestres consecutivos. Según Hankyung, la empresa mejoró su tendencia de desempeño al seguir superando las expectativas del mercado en su negocio de tiendas de conveniencia. También llamó la atención el aumento de su cuota en ese segmento. Esto se interpreta como una señal de que mantiene la competitividad en su negocio principal. Sin embargo, el texto original no presentó cifras concretas de ventas, beneficio operativo o cuota de mercado. La cuestión clave será si esta mejora de resultados y el avance de cuota pueden continuar. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "BGF Retail tem 2º trimestre seguido acima do esperado e ganha participação",
-        "excerpt": "A BGF Retail foi analisada por registrar surpresas de resultado por dois trimestres consecutivos, enquanto sua participação em lojas de conveniência também subiu.",
-        "body": "A BGF Retail foi analisada como tendo registrado uma “surpresa nos resultados” por dois trimestres consecutivos. Segundo o Hankyung, a empresa melhorou sua trajetória de desempenho ao continuar superando as expectativas do mercado no negócio de lojas de conveniência. O aumento da participação nesse mercado também chamou atenção. Isso é visto como um sinal de que a competitividade do principal negócio da companhia foi mantida. No entanto, o texto original não apresentou números específicos de receita, lucro operacional ou participação de mercado. O ponto central daqui em diante é se a melhora dos resultados e o ganho de participação continuarão. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "BGF Retail überrascht zwei Quartale in Folge, Marktanteil im Handel steigt",
-        "excerpt": "BGF Retail wurde analysiert, nachdem das Unternehmen zwei Quartale in Folge besser als erwartet abschnitt und zugleich seinen Marktanteil bei Convenience-Stores erhöhte.",
-        "body": "BGF Retail hat laut Analyse zwei Quartale in Folge eine „Ergebnisüberraschung“ erzielt. Nach Angaben von Hankyung verbesserte das Unternehmen seine Geschäftsentwicklung, indem es im Convenience-Store-Geschäft weiter über den Markterwartungen lag. Aufmerksamkeit erregte zudem der gestiegene Marktanteil in diesem Segment. Dies wird als Signal gewertet, dass die Wettbewerbsfähigkeit des Kerngeschäfts erhalten bleibt. Konkrete Zahlen zu Umsatz, operativem Gewinn oder Marktanteil wurden im Originalbericht jedoch nicht genannt. Entscheidend wird nun sein, ob sich die Ergebnisverbesserung und der Marktanteilszuwachs fortsetzen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "BGF Retail surprend deux trimestres de suite et gagne en part de marché",
-        "excerpt": "BGF Retail a été analysé comme ayant dépassé les attentes pendant deux trimestres consécutifs, tandis que sa part dans les supérettes progressait aussi.",
-        "body": "BGF Retail a été analysé comme ayant enregistré une « surprise de résultats » pendant deux trimestres consécutifs. Selon Hankyung, l’entreprise a amélioré sa tendance de performance en continuant de dépasser les attentes du marché dans son activité de supérettes. La hausse de sa part de marché dans ce segment retient également l’attention. Cela est interprété comme un signal du maintien de la compétitivité de son activité principale. Toutefois, l’article original ne donne pas de chiffres précis sur le chiffre d’affaires, le résultat opérationnel ou la part de marché. L’enjeu sera de savoir si cette amélioration des résultats et cette progression de part de marché peuvent se poursuivre. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "BGF Retail تحقق مفاجأة أرباح لربعين متتاليين وحصتها في المتاجر ترتفع",
-        "excerpt": "أظهر تحليل أن BGF Retail سجلت نتائج فاقت التوقعات لربعين متتاليين، مع ارتفاع حصتها في سوق متاجر السلع اليومية.",
-        "body": "أظهر تحليل أن BGF Retail سجلت «مفاجأة في النتائج» لربعين متتاليين. ووفقًا لما نقلته Hankyung، حسنت الشركة مسار أدائها عبر مواصلة تحقيق نتائج تفوق توقعات السوق في نشاط متاجر السلع اليومية. كما لفت ارتفاع حصتها في هذا القطاع الانتباه. ويُنظر إلى ذلك على أنه إشارة إلى استمرار القدرة التنافسية في النشاط الرئيسي للشركة. لكن النص الأصلي لم يورد أرقامًا محددة للمبيعات أو الربح التشغيلي أو الحصة السوقية. ويبقى السؤال الأساسي هو ما إذا كان تحسن النتائج وارتفاع الحصة سيستمران. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "BGF Retail ने लगातार दूसरी तिमाही में चौंकाया, सुविधा स्टोर हिस्सेदारी बढ़ी",
-        "excerpt": "विश्लेषण के अनुसार BGF Retail ने लगातार दो तिमाहियों में बाजार अपेक्षाओं से बेहतर प्रदर्शन किया और सुविधा स्टोर बाजार हिस्सेदारी भी बढ़ी।",
-        "body": "BGF Retail के बारे में विश्लेषण है कि उसने लगातार दो तिमाहियों में ‘चौंकाने वाले नतीजे’ दर्ज किए। Hankyung के अनुसार, कंपनी ने सुविधा स्टोर कारोबार में बाजार की अपेक्षाओं से बेहतर प्रदर्शन जारी रखते हुए अपने नतीजों की दिशा सुधारी। सुविधा स्टोर बाजार हिस्सेदारी में वृद्धि भी ध्यान देने योग्य रही। इसे कंपनी के मुख्य सुविधा स्टोर व्यवसाय की प्रतिस्पर्धी क्षमता कायम रहने के संकेत के रूप में देखा जा रहा है। हालांकि मूल रिपोर्ट में बिक्री, परिचालन लाभ या बाजार हिस्सेदारी के विशिष्ट आंकड़े नहीं दिए गए। आगे मुख्य सवाल यह है कि नतीजों में सुधार और हिस्सेदारी की यह बढ़त जारी रहेगी या नहीं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "BGF Retail Cetak Kejutan Kinerja 2 Kuartal, Pangsa Minimarket Naik",
-        "excerpt": "BGF Retail dianalisis mencatat kinerja yang melampaui ekspektasi selama dua kuartal berturut-turut, sementara pangsa pasar minimarketnya juga meningkat.",
-        "body": "BGF Retail dianalisis mencatat “kejutan kinerja” selama dua kuartal berturut-turut. Menurut Hankyung, perusahaan memperbaiki tren kinerjanya dengan terus membukukan hasil yang melampaui ekspektasi pasar di bisnis minimarket. Kenaikan pangsa pasar minimarket juga menjadi perhatian. Hal ini dipandang sebagai sinyal bahwa daya saing bisnis utama perusahaan tetap terjaga. Namun, teks asli tidak menyajikan angka spesifik mengenai penjualan, laba operasi, atau pangsa pasar. Fokus ke depan adalah apakah perbaikan kinerja dan kenaikan pangsa tersebut dapat berlanjut. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "de3064fe9ee5",
-    "slug": "씨에스윈드-분석-다시-확인된-수익성향후-주가-흐름은-미국에-달렸다-942118",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T16:50:34.114Z",
-    "updatedAt": "2026-05-08T16:50:34.115Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084091i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084091i",
-    "titleFingerprint": "9961df57266d5c2fe97bc0a41ada9aab2118fe47",
-    "dedupKeys": [
-      "de3064fe9ee5e3c49f28805c16e46f8098a5370f",
-      "9961df57266d5c2fe97bc0a41ada9aab2118fe47",
-      "949ae5770e18d187525908afe1eaf1c35a21f4d0"
-    ],
-    "imageUrl": "/images/articles/de3064fe9ee5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "씨에스윈드 수익성 재확인, 향후 주가 흐름은 미국 변수에 주목",
-        "excerpt": "한국경제는 씨에스윈드 분석에서 수익성이 다시 확인됐다고 전하며, 앞으로의 주가 흐름은 미국 관련 변수에 달려 있다고 짚었다.",
-        "body": "한국경제는 씨에스윈드 분석 기사에서 회사의 수익성이 다시 확인됐다고 보도했다. 이번 분석의 핵심은 씨에스윈드의 실적 판단에서 수익성이 중요한 기준으로 재부각됐다는 점이다. 기사 제목은 향후 주가 흐름이 미국에 달려 있다고 제시하며, 투자자들이 미국 관련 변수와 주가 반응을 함께 살펴볼 필요가 있음을 보여준다. 다만 제공된 원문에는 구체적인 실적 수치나 세부 배경이 포함되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "CS Wind profitability reaffirmed as future share trend hinges on U.S. factors",
-        "excerpt": "Hankyung reported in its CS Wind analysis that profitability was reaffirmed, while noting that the future share-price trend depends on U.S.-related factors.",
-        "body": "Hankyung reported in an analysis of CS Wind that the company’s profitability has been reaffirmed. The central point of the article is that profitability has again emerged as an important yardstick in assessing CS Wind. The headline states that the future share-price trend depends on the United States, indicating that investors need to watch U.S.-related variables together with the stock’s response. The provided source text does not include detailed earnings figures or additional background. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "CSウインドの収益性を再確認、今後の株価は米国要因に注目",
-        "excerpt": "韓国経済新聞はCSウインド分析で収益性が再び確認されたと報じ、今後の株価動向は米国関連の要因に左右されると指摘した。",
-        "body": "韓国経済新聞はCSウインドの分析記事で、同社の収益性が再び確認されたと報じた。今回の分析の焦点は、CSウインドを評価するうえで収益性が重要な判断材料として改めて浮上した点にある。記事の見出しは、今後の株価動向が米国にかかっていると示しており、投資家が米国関連の変数と株価の反応をあわせて確認する必要があることを示す。ただし、提供された原文には具体的な業績数値や詳しい背景は含まれていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "CS Wind盈利能力再获确认，后续股价走势取决于美国变量",
-        "excerpt": "韩国经济新闻在CS Wind分析中称，公司盈利能力再次得到确认，并指出未来股价走势将取决于美国相关变量。",
-        "body": "韩国经济新闻在一篇CS Wind分析文章中报道称，该公司的盈利能力再次得到确认。此次分析的核心在于，盈利能力重新成为评估CS Wind的重要标准。文章标题提出，未来股价走势取决于美国，这表明投资者需要同时关注美国相关变量以及股价反应。不过，所提供的原文并未包含具体业绩数字或更详细的背景信息。来源: hankyung.com"
-      },
-      "es": {
-        "title": "CS Wind confirma rentabilidad y su acción queda pendiente de factores de EE. UU.",
-        "excerpt": "Hankyung informó en su análisis de CS Wind que la rentabilidad fue confirmada de nuevo y que la futura evolución bursátil dependerá de factores ligados a EE. UU.",
-        "body": "Hankyung informó en un análisis sobre CS Wind que la rentabilidad de la compañía volvió a quedar confirmada. El punto central del artículo es que la rentabilidad reaparece como un criterio importante para evaluar a CS Wind. El titular señala que la futura evolución de la acción depende de Estados Unidos, lo que indica que los inversores deben observar tanto las variables relacionadas con EE. UU. como la reacción del precio. El texto original proporcionado no incluye cifras concretas de resultados ni más antecedentes. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "CS Wind reafirma rentabilidade e ação passa a depender de fatores dos EUA",
-        "excerpt": "O Hankyung informou em sua análise da CS Wind que a rentabilidade foi novamente confirmada e que o desempenho futuro das ações dependerá de fatores ligados aos EUA.",
-        "body": "O Hankyung informou, em uma análise sobre a CS Wind, que a rentabilidade da empresa foi novamente confirmada. O ponto central é que a rentabilidade voltou a aparecer como um critério importante para avaliar a CS Wind. O título afirma que o movimento futuro das ações depende dos Estados Unidos, indicando que investidores precisam acompanhar variáveis relacionadas aos EUA junto com a reação do preço. O texto original fornecido não inclui números específicos de resultados nem contexto adicional. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "CS Wind bestätigt Profitabilität, künftiger Aktienkurs hängt an US-Faktoren",
-        "excerpt": "Hankyung berichtete in einer Analyse zu CS Wind, dass die Profitabilität erneut bestätigt wurde und der weitere Aktienkursverlauf von US-bezogenen Faktoren abhängt.",
-        "body": "Hankyung berichtete in einer Analyse zu CS Wind, dass die Profitabilität des Unternehmens erneut bestätigt wurde. Kern der Analyse ist, dass Profitabilität wieder als wichtiger Maßstab für die Bewertung von CS Wind hervorgetreten ist. Die Überschrift stellt heraus, dass der künftige Aktienkursverlauf von den USA abhängt, was zeigt, dass Anleger US-bezogene Variablen und die Kursreaktion gemeinsam beobachten sollten. Der bereitgestellte Ausgangstext enthält keine konkreten Ergebniszahlen oder weiteren Hintergründe. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "CS Wind confirme sa rentabilité, l’évolution du titre dépendra des États-Unis",
-        "excerpt": "Hankyung a indiqué dans son analyse de CS Wind que la rentabilité était de nouveau confirmée et que l’évolution future du titre dépendrait de facteurs liés aux États-Unis.",
-        "body": "Hankyung a rapporté dans une analyse consacrée à CS Wind que la rentabilité de l’entreprise avait été de nouveau confirmée. Le point central de l’article est que la rentabilité redevient un critère important pour évaluer CS Wind. Le titre indique que l’évolution future du cours dépend des États-Unis, ce qui montre que les investisseurs doivent suivre à la fois les variables liées aux États-Unis et la réaction du titre. Le texte source fourni ne contient pas de chiffres de résultats précis ni de contexte détaillé. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ربحية CS Wind تتأكد مجددا ومسار السهم المقبل مرهون بعوامل أمريكية",
-        "excerpt": "ذكرت هانكيونغ في تحليلها لشركة CS Wind أن الربحية تأكدت مجددا، مشيرة إلى أن مسار السهم في المستقبل سيتوقف على عوامل مرتبطة بالولايات المتحدة.",
-        "body": "ذكرت هانكيونغ في مقال تحليلي عن شركة CS Wind أن ربحية الشركة تأكدت مجددا. وتتمثل النقطة الأساسية في التحليل في عودة الربحية كمعيار مهم عند تقييم CS Wind. ويشير العنوان إلى أن مسار السهم في المستقبل يعتمد على الولايات المتحدة، ما يعني أن المستثمرين بحاجة إلى متابعة العوامل المرتبطة بأمريكا إلى جانب رد فعل السهم. ولا يتضمن النص الأصلي المقدم أرقاما محددة للنتائج أو خلفية تفصيلية إضافية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "CS Wind की लाभप्रदता फिर पुष्ट, आगे शेयर चाल अमेरिकी कारकों पर निर्भर",
-        "excerpt": "Hankyung ने CS Wind के विश्लेषण में बताया कि कंपनी की लाभप्रदता फिर से पुष्ट हुई है और आगे शेयर की दिशा अमेरिका से जुड़े कारकों पर निर्भर करेगी।",
-        "body": "Hankyung ने CS Wind पर अपने विश्लेषण में बताया कि कंपनी की लाभप्रदता फिर से पुष्ट हुई है। इस विश्लेषण का मुख्य बिंदु यह है कि CS Wind के आकलन में लाभप्रदता फिर एक महत्वपूर्ण मानदंड के रूप में सामने आई है। शीर्षक में कहा गया है कि आगे शेयर की चाल अमेरिका पर निर्भर करेगी, जिससे संकेत मिलता है कि निवेशकों को अमेरिका से जुड़े कारकों और शेयर की प्रतिक्रिया दोनों पर ध्यान देना होगा। उपलब्ध मूल पाठ में ठोस वित्तीय आंकड़े या विस्तृत पृष्ठभूमि शामिल नहीं है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Profitabilitas CS Wind dikonfirmasi ulang, arah saham bergantung pada AS",
-        "excerpt": "Hankyung melaporkan dalam analisis CS Wind bahwa profitabilitas kembali terkonfirmasi dan pergerakan saham ke depan akan bergantung pada faktor terkait Amerika Serikat.",
-        "body": "Hankyung melaporkan dalam artikel analisis tentang CS Wind bahwa profitabilitas perusahaan kembali terkonfirmasi. Inti analisis ini adalah bahwa profitabilitas kembali menjadi tolok ukur penting dalam menilai CS Wind. Judul artikel menyatakan bahwa arah harga saham ke depan bergantung pada Amerika Serikat, sehingga investor perlu mencermati variabel terkait AS sekaligus respons saham. Teks sumber yang diberikan tidak memuat angka kinerja spesifik atau latar belakang yang lebih rinci. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "eca35b786789",
-    "slug": "사하라ai-인도-마더슨-그룹에-ai-에이전트-시스템-공급-344942",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T16:49:47.481Z",
-    "updatedAt": "2026-05-08T16:49:47.481Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050837656",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050837656",
-    "titleFingerprint": "46e7dd8dff0222059767c73e79b39e6fa37cbc6f",
-    "dedupKeys": [
-      "eca35b786789e650e710b681e47a22149fe035cd",
-      "46e7dd8dff0222059767c73e79b39e6fa37cbc6f",
-      "a38403ebc44ab01237ea639aca3b91d6819341de"
-    ],
-    "imageUrl": "/images/articles/eca35b786789.png",
-    "i18n": {
-      "ko": {
-        "title": "사하라AI, 인도 마더슨 그룹에 AI 에이전트 시스템 공급 주목",
-        "excerpt": "사하라AI가 인도 자동차 부품 기업 마더슨 그룹에 AI 에이전트 시스템을 공급했다고 한국경제가 보도했다. 기업 업무 자동화와 AI 활용 확대 흐름이 부각된다.",
-        "body": "사하라AI가 인도 마더슨 그룹에 AI 에이전트 시스템을 공급했다고 한국경제가 보도했다. 마더슨 그룹은 자동차 부품 분야 기업으로 알려져 있으며, 이번 공급은 기업 현장에서 AI 에이전트 기술을 업무에 적용하는 사례로 소개됐다. AI 에이전트는 단순 응답을 넘어 도구와 데이터, 서비스를 활용해 작업을 수행하는 기술로 주목받고 있다. 사하라AI는 앞서 마이크로소프트, 아마존, MIT, 스냅 등과 협력해 데이터 기반 AI 프로젝트를 진행한 바 있다. 이번 공급은 산업 현장에서 AI 에이전트 활용 범위가 넓어지는 흐름을 보여준다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "SaharaAI Supplies AI Agent System to India’s Motherson Group",
-        "excerpt": "SaharaAI has supplied an AI agent system to India’s Motherson Group, Hankyung reported, highlighting broader corporate adoption of agent-based AI for business operations.",
-        "body": "SaharaAI has supplied an AI agent system to India’s Motherson Group, according to a report by Hankyung. Motherson Group is known as an automotive parts company, and the project was presented as a case of applying AI agent technology in a real corporate environment. AI agents are drawing attention because they can go beyond simple responses and use tools, data and services to perform tasks. SaharaAI has previously worked with Microsoft, Amazon, MIT and Snap on data-based AI projects. The supply to Motherson shows how AI agent use is expanding across industrial workplaces. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "サハラAI、インドのマザーソングループにAIエージェントシステム供給",
-        "excerpt": "サハラAIがインドの自動車部品企業マザーソングループにAIエージェントシステムを供給したと韓国経済が報じ、企業現場でのAI活用拡大が注目されている。",
-        "body": "サハラAIがインドのマザーソングループにAIエージェントシステムを供給したと、韓国経済が報じた。マザーソングループは自動車部品分野の企業として知られており、今回の供給は企業現場でAIエージェント技術を業務に適用する事例として紹介された。AIエージェントは単なる応答にとどまらず、ツールやデータ、サービスを活用して作業を行う技術として関心を集めている。サハラAIはこれまでマイクロソフト、アマゾン、MIT、スナップなどとデータ基盤のAIプロジェクトを進めてきた。今回の供給は産業現場でAIエージェントの活用範囲が広がっている流れを示している。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "SaharaAI向印度Motherson集团供应AI代理系统受关注",
-        "excerpt": "据韩国经济报道，SaharaAI已向印度汽车零部件企业Motherson集团供应AI代理系统，显示企业场景中AI代理技术应用正在扩大。",
-        "body": "据韩国经济报道，SaharaAI已向印度Motherson集团供应AI代理系统。Motherson集团以汽车零部件业务闻名，此次供应被介绍为企业现场将AI代理技术应用于业务流程的案例。AI代理因能够超越简单问答，利用工具、数据和服务执行任务而受到关注。SaharaAI此前曾与微软、亚马逊、麻省理工学院和Snap等合作推进数据驱动型AI项目。此次向Motherson供应系统，显示AI代理在产业现场的应用范围正在扩大。来源: hankyung.com"
-      },
-      "es": {
-        "title": "SaharaAI suministra un sistema de agentes de IA a Motherson Group de India",
-        "excerpt": "SaharaAI suministró un sistema de agentes de IA al grupo indio Motherson, informó Hankyung, en una señal de mayor adopción empresarial de esta tecnología.",
-        "body": "SaharaAI suministró un sistema de agentes de IA al grupo indio Motherson, según informó Hankyung. Motherson Group es conocido en el sector de componentes para automóviles, y el suministro fue presentado como un caso de aplicación de tecnología de agentes de IA en un entorno empresarial real. Los agentes de IA atraen atención porque van más allá de responder preguntas y pueden usar herramientas, datos y servicios para ejecutar tareas. SaharaAI ya había colaborado con Microsoft, Amazon, MIT y Snap en proyectos de IA basados en datos. Esta operación muestra que el uso de agentes de IA se está ampliando en entornos industriales. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "SaharaAI fornece sistema de agentes de IA ao grupo indiano Motherson",
-        "excerpt": "A SaharaAI forneceu um sistema de agentes de IA ao Motherson Group, da Índia, informou o Hankyung, destacando a expansão do uso corporativo dessa tecnologia.",
-        "body": "A SaharaAI forneceu um sistema de agentes de IA ao Motherson Group, da Índia, segundo reportagem do Hankyung. O Motherson Group é conhecido no setor de autopeças, e o fornecimento foi apresentado como um caso de aplicação de tecnologia de agentes de IA em ambiente corporativo real. Agentes de IA vêm ganhando atenção por irem além de respostas simples e usarem ferramentas, dados e serviços para executar tarefas. A SaharaAI já colaborou com Microsoft, Amazon, MIT e Snap em projetos de IA baseados em dados. O fornecimento ao Motherson mostra a ampliação do uso de agentes de IA em ambientes industriais. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "SaharaAI liefert KI-Agentensystem an Indiens Motherson Group",
-        "excerpt": "SaharaAI hat laut Hankyung ein KI-Agentensystem an die indische Motherson Group geliefert und damit die wachsende Nutzung agentenbasierter KI in Unternehmen unterstrichen.",
-        "body": "SaharaAI hat ein KI-Agentensystem an die indische Motherson Group geliefert, wie Hankyung berichtete. Die Motherson Group ist als Unternehmen im Bereich Automobilteile bekannt, und die Lieferung wurde als Beispiel für den Einsatz von KI-Agententechnologie in einer realen Unternehmensumgebung dargestellt. KI-Agenten stehen im Fokus, weil sie über einfache Antworten hinaus Werkzeuge, Daten und Dienste nutzen können, um Aufgaben auszuführen. SaharaAI hatte zuvor mit Microsoft, Amazon, MIT und Snap an datenbasierten KI-Projekten gearbeitet. Die Lieferung an Motherson zeigt, dass sich der Einsatz von KI-Agenten in industriellen Arbeitsumgebungen ausweitet. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "SaharaAI fournit un système d’agents IA au groupe indien Motherson",
-        "excerpt": "SaharaAI a fourni un système d’agents IA au groupe indien Motherson, selon Hankyung, illustrant l’extension de l’usage de cette technologie dans les entreprises.",
-        "body": "SaharaAI a fourni un système d’agents IA au groupe indien Motherson, selon un article de Hankyung. Motherson Group est connu dans le secteur des pièces automobiles, et cette fourniture a été présentée comme un exemple d’application de la technologie des agents IA dans un environnement d’entreprise réel. Les agents IA suscitent l’attention car ils dépassent la simple réponse et peuvent utiliser des outils, des données et des services pour accomplir des tâches. SaharaAI a déjà collaboré avec Microsoft, Amazon, le MIT et Snap sur des projets d’IA fondés sur les données. Cette fourniture montre que l’usage des agents IA s’élargit dans les environnements industriels. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ساهارا إيه آي تزود مجموعة موذرسان الهندية بنظام وكلاء ذكاء اصطناعي",
-        "excerpt": "ذكرت هانكيونغ أن ساهارا إيه آي زودت مجموعة موذرسان الهندية بنظام وكلاء ذكاء اصطناعي، في مؤشر على توسع استخدام هذه التقنية داخل بيئات الشركات.",
-        "body": "ذكرت صحيفة هانكيونغ أن ساهارا إيه آي زودت مجموعة موذرسان الهندية بنظام وكلاء ذكاء اصطناعي. وتعرف مجموعة موذرسان بأنها شركة في مجال قطع غيار السيارات، وقد قُدم هذا التوريد بوصفه حالة لتطبيق تقنية وكلاء الذكاء الاصطناعي في بيئة أعمال فعلية. وتحظى وكلاء الذكاء الاصطناعي باهتمام لأنها تتجاوز الردود البسيطة وتستخدم الأدوات والبيانات والخدمات لتنفيذ المهام. وسبق لساهارا إيه آي التعاون مع مايكروسوفت وأمازون ومعهد ماساتشوستس للتكنولوجيا وسناب في مشاريع ذكاء اصطناعي قائمة على البيانات. ويظهر هذا التوريد اتساع نطاق استخدام وكلاء الذكاء الاصطناعي في المواقع الصناعية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "SaharaAI ने भारत के Motherson Group को AI एजेंट सिस्टम दिया",
-        "excerpt": "Hankyung के अनुसार SaharaAI ने भारत के Motherson Group को AI एजेंट सिस्टम दिया है, जिससे कंपनियों में एजेंट आधारित AI तकनीक के बढ़ते उपयोग पर ध्यान गया है।",
-        "body": "Hankyung की रिपोर्ट के अनुसार SaharaAI ने भारत के Motherson Group को AI एजेंट सिस्टम दिया है। Motherson Group ऑटोमोबाइल पार्ट्स क्षेत्र की कंपनी के रूप में जाना जाता है, और इस आपूर्ति को वास्तविक कॉरपोरेट वातावरण में AI एजेंट तकनीक लागू करने के उदाहरण के रूप में पेश किया गया। AI एजेंट इसलिए ध्यान आकर्षित कर रहे हैं क्योंकि वे केवल जवाब देने से आगे बढ़कर टूल, डेटा और सेवाओं का उपयोग करते हुए कार्य कर सकते हैं। SaharaAI इससे पहले Microsoft, Amazon, MIT और Snap के साथ डेटा आधारित AI परियोजनाओं पर काम कर चुका है। Motherson को यह आपूर्ति औद्योगिक कार्यस्थलों में AI एजेंटों के उपयोग के विस्तार को दिखाती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "SaharaAI Pasok Sistem Agen AI ke Motherson Group India",
-        "excerpt": "SaharaAI memasok sistem agen AI ke Motherson Group India, menurut Hankyung, menyoroti perluasan pemakaian teknologi agen AI dalam lingkungan perusahaan.",
-        "body": "SaharaAI memasok sistem agen AI ke Motherson Group India, menurut laporan Hankyung. Motherson Group dikenal sebagai perusahaan di bidang suku cadang otomotif, dan pasokan ini diperkenalkan sebagai contoh penerapan teknologi agen AI dalam lingkungan perusahaan nyata. Agen AI menarik perhatian karena tidak hanya menjawab pertanyaan, tetapi juga dapat menggunakan alat, data, dan layanan untuk menjalankan tugas. SaharaAI sebelumnya telah bekerja sama dengan Microsoft, Amazon, MIT, dan Snap dalam proyek AI berbasis data. Pasokan kepada Motherson menunjukkan bahwa penggunaan agen AI semakin meluas di lingkungan industri. Sumber: hankyung.com"
       }
     }
   }
