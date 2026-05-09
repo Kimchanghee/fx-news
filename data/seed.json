@@ -1,5 +1,230 @@
 [
   {
+    "id": "003bfe507345",
+    "slug": "캠코-정보공개-종합평가-최우수등급-획득국무총리-표창도-692897",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T14:12:48.285Z",
+    "updatedAt": "2026-05-09T14:12:48.285Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508064800002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508064800002",
+    "titleFingerprint": "5cc1d79def3f50a397588e788062d7c2815658b0",
+    "dedupKeys": [
+      "003bfe507345189823b8ad838ac3d78556dead65",
+      "5cc1d79def3f50a397588e788062d7c2815658b0",
+      "4bc25639d65d3ceb264d23819debdfe0debb6b1e"
+    ],
+    "imageUrl": "/images/articles/003bfe507345.jpg",
+    "i18n": {
+      "ko": {
+        "title": "캠코, 정보공개 종합평가 최우수등급 획득…국무총리 표창 수상",
+        "excerpt": "한국자산관리공사 캠코가 정보공개 운영 성과를 인정받아 정보공개 종합평가에서 최우수 등급을 받고 국무총리 표창도 수상했다고 연합뉴스가 보도했다.",
+        "body": "한국자산관리공사(캠코)가 정보공개 운영에서 높은 성과를 인정받아 정보공개 종합평가에서 최우수 등급을 받았고, 국무총리 표창도 수상했다고 연합뉴스가 보도했다. 이번 평가는 기관의 정보공개 운영 성과를 종합적으로 살피는 절차로, 캠코는 관련 운영에서 우수한 평가를 받은 것으로 전해졌다. 공공기관의 정보공개는 국민의 알 권리와 행정 투명성에 직결되는 영역이다. 캠코의 이번 최우수 등급과 표창은 정보공개 제도 운영 성과를 공식적으로 인정받은 사례로 해석된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "KAMCO Wins Top Grade in Information Disclosure Review and Prime Minister’s Citation",
+        "excerpt": "Korea Asset Management Corporation, or KAMCO, received the highest grade in a comprehensive information disclosure review and a Prime Minister’s citation, Yonhap News Agency reported.",
+        "body": "Korea Asset Management Corporation, known as KAMCO, received the highest grade in a comprehensive information disclosure evaluation after being recognized for strong performance in operating its information disclosure system, Yonhap News Agency reported. The agency also received a Prime Minister’s citation. The evaluation reviews how institutions manage information disclosure, and KAMCO was reported to have earned strong marks in that area. Information disclosure by public institutions is directly linked to the public’s right to know and administrative transparency. KAMCO’s top grade and citation represent official recognition of its performance in operating the disclosure system. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "KAMCO、情報公開総合評価で最優秀等級…国務総理表彰も受賞",
+        "excerpt": "韓国資産管理公社（KAMCO）が情報公開運営の成果を認められ、情報公開総合評価で最優秀等級を獲得し、国務総理表彰も受けたと聯合ニュースが報じた。",
+        "body": "韓国資産管理公社（KAMCO）が、情報公開の運営で高い成果を認められ、情報公開総合評価で最優秀等級を獲得し、国務総理表彰も受賞したと聯合ニュースが報じた。今回の評価は、機関の情報公開運営の成果を総合的に点検する手続きで、KAMCOは関連運営で優れた評価を受けたと伝えられている。公共機関の情報公開は、国民の知る権利と行政の透明性に直結する分野だ。今回の最優秀等級と表彰は、KAMCOの情報公開制度運営の成果が公式に認められた事例といえる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "KAMCO获信息公开综合评价最高等级，并获国务总理表彰",
+        "excerpt": "韩国产业资产管理公社KAMCO因信息公开运营成果获认可，在信息公开综合评价中取得最高等级，并获得国务总理表彰，韩联社报道。",
+        "body": "据韩联社报道，韩国产业资产管理公社（KAMCO）因信息公开运营方面的较高成果获得认可，在信息公开综合评价中取得最高等级，并同时获得国务总理表彰。该评价是综合考察机构信息公开运营成果的程序，KAMCO被认为在相关运营方面获得了优秀评价。公共机构的信息公开与公众知情权和行政透明度直接相关。KAMCO此次获得最高等级和表彰，可视为其信息公开制度运营成果获得正式认可的案例。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "KAMCO logra la máxima calificación en divulgación de información y mención del primer ministro",
+        "excerpt": "KAMCO, la Corporación de Gestión de Activos de Corea, recibió la máxima calificación en la evaluación integral de divulgación de información y una mención del primer ministro, informó Yonhap.",
+        "body": "La Corporación de Gestión de Activos de Corea, KAMCO, recibió la máxima calificación en una evaluación integral de divulgación de información tras ser reconocida por su sólido desempeño en la operación del sistema, informó la agencia Yonhap. La entidad también obtuvo una mención del primer ministro. La evaluación revisa de forma general los resultados de las instituciones en materia de divulgación de información, y KAMCO fue valorada positivamente en ese ámbito. La divulgación de información por parte de organismos públicos está vinculada al derecho ciudadano a saber y a la transparencia administrativa. La calificación máxima y la mención suponen un reconocimiento oficial a esos resultados. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "KAMCO recebe nota máxima em avaliação de divulgação de informações e citação do premiê",
+        "excerpt": "A Korea Asset Management Corporation, KAMCO, recebeu a nota máxima na avaliação abrangente de divulgação de informações e uma citação do primeiro-ministro, informou a Yonhap.",
+        "body": "A Korea Asset Management Corporation, conhecida como KAMCO, recebeu a nota máxima em uma avaliação abrangente de divulgação de informações após ter seu desempenho na operação do sistema reconhecido, informou a agência Yonhap. A instituição também recebeu uma citação do primeiro-ministro. A avaliação analisa de forma geral os resultados das instituições na gestão da divulgação de informações, e a KAMCO obteve uma avaliação positiva nessa área. A divulgação de informações por órgãos públicos está ligada ao direito da população de saber e à transparência administrativa. A nota máxima e a citação representam reconhecimento oficial desses resultados. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "KAMCO erhält Bestnote bei Informationsfreiheitsbewertung und Auszeichnung des Premiers",
+        "excerpt": "Die Korea Asset Management Corporation, KAMCO, erhielt bei der umfassenden Bewertung der Informationsoffenlegung die Bestnote und zudem eine Auszeichnung des Premierministers, berichtete Yonhap.",
+        "body": "Die Korea Asset Management Corporation, KAMCO, hat bei einer umfassenden Bewertung der Informationsoffenlegung die höchste Einstufung erhalten, nachdem ihre Leistung beim Betrieb des Offenlegungssystems anerkannt wurde, berichtete die Nachrichtenagentur Yonhap. Zudem erhielt die Institution eine Auszeichnung des Premierministers. Die Bewertung prüft die Ergebnisse von Institutionen bei der Informationsoffenlegung insgesamt; KAMCO soll dabei gute Bewertungen erzielt haben. Die Offenlegung von Informationen durch öffentliche Einrichtungen steht in direktem Zusammenhang mit dem Recht der Bürger auf Information und administrativer Transparenz. Bestnote und Auszeichnung gelten als offizielle Anerkennung dieser Leistung. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "KAMCO obtient la meilleure note pour la divulgation d’informations et une citation du Premier ministre",
+        "excerpt": "La Korea Asset Management Corporation, KAMCO, a obtenu la meilleure note dans l’évaluation globale de la divulgation d’informations ainsi qu’une citation du Premier ministre, selon Yonhap.",
+        "body": "La Korea Asset Management Corporation, ou KAMCO, a obtenu la meilleure note dans une évaluation globale de la divulgation d’informations après la reconnaissance de ses performances dans la gestion du dispositif, a rapporté l’agence Yonhap. L’organisme a également reçu une citation du Premier ministre. Cette évaluation examine de manière générale les résultats des institutions en matière de divulgation d’informations, et KAMCO aurait été bien notée dans ce domaine. La divulgation d’informations par les institutions publiques est directement liée au droit du public à l’information et à la transparence administrative. Cette meilleure note et cette citation constituent une reconnaissance officielle de ces résultats. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كامكو تنال أعلى درجة في تقييم الإفصاح عن المعلومات وتحصل على إشادة رئيس الوزراء",
+        "excerpt": "حصلت شركة إدارة الأصول الكورية كامكو على أعلى درجة في التقييم الشامل للإفصاح عن المعلومات، كما نالت إشادة من رئيس الوزراء، وفق ما أفادت وكالة يونهاب.",
+        "body": "أفادت وكالة يونهاب بأن شركة إدارة الأصول الكورية، المعروفة باسم كامكو، حصلت على أعلى درجة في التقييم الشامل للإفصاح عن المعلومات بعد الاعتراف بأدائها القوي في تشغيل نظام الإفصاح. كما حصلت المؤسسة على إشادة من رئيس الوزراء. ويعد هذا التقييم إجراء يراجع بصورة شاملة نتائج المؤسسات في إدارة الإفصاح عن المعلومات، وقد حصلت كامكو على تقييم جيد في هذا المجال. ويرتبط إفصاح المؤسسات العامة عن المعلومات مباشرة بحق الجمهور في المعرفة وبالشفافية الإدارية. وتمثل الدرجة العليا والإشادة اعترافا رسميا بنتائج كامكو في تشغيل نظام الإفصاح. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "KAMCO को सूचना प्रकटीकरण मूल्यांकन में सर्वोच्च ग्रेड, प्रधानमंत्री प्रशस्ति भी",
+        "excerpt": "कोरिया एसेट मैनेजमेंट कॉरपोरेशन KAMCO को सूचना प्रकटीकरण संचालन में अच्छे प्रदर्शन के लिए व्यापक मूल्यांकन में सर्वोच्च ग्रेड और प्रधानमंत्री प्रशस्ति मिली, योनहाप ने बताया।",
+        "body": "योनहाप समाचार एजेंसी के अनुसार, कोरिया एसेट मैनेजमेंट कॉरपोरेशन, जिसे KAMCO कहा जाता है, को सूचना प्रकटीकरण प्रणाली के संचालन में मजबूत प्रदर्शन के लिए व्यापक सूचना प्रकटीकरण मूल्यांकन में सर्वोच्च ग्रेड मिला। संस्था को प्रधानमंत्री की प्रशस्ति भी प्राप्त हुई। यह मूल्यांकन संस्थानों के सूचना प्रकटीकरण संचालन के परिणामों की समग्र समीक्षा करता है, और KAMCO को इस क्षेत्र में अच्छा आंका गया। सार्वजनिक संस्थानों द्वारा सूचना का प्रकटीकरण जनता के जानने के अधिकार और प्रशासनिक पारदर्शिता से सीधे जुड़ा है। KAMCO का सर्वोच्च ग्रेड और प्रशस्ति उसके सूचना प्रकटीकरण प्रणाली संचालन के प्रदर्शन की आधिकारिक मान्यता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "KAMCO Raih Peringkat Tertinggi Evaluasi Keterbukaan Informasi dan Penghargaan PM",
+        "excerpt": "Korea Asset Management Corporation atau KAMCO meraih peringkat tertinggi dalam evaluasi menyeluruh keterbukaan informasi dan menerima penghargaan Perdana Menteri, lapor Yonhap.",
+        "body": "Korea Asset Management Corporation, atau KAMCO, meraih peringkat tertinggi dalam evaluasi menyeluruh keterbukaan informasi setelah kinerjanya dalam mengoperasikan sistem keterbukaan informasi diakui, lapor kantor berita Yonhap. Lembaga itu juga menerima penghargaan dari Perdana Menteri. Evaluasi tersebut meninjau secara menyeluruh hasil pengelolaan keterbukaan informasi oleh lembaga, dan KAMCO disebut mendapat penilaian baik di bidang tersebut. Keterbukaan informasi oleh lembaga publik berkaitan langsung dengan hak publik untuk mengetahui dan transparansi administrasi. Peringkat tertinggi dan penghargaan ini menjadi pengakuan resmi atas kinerja KAMCO dalam menjalankan sistem tersebut. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "445ac08ca766",
+    "slug": "지난달-서울-아파트-경매-낙찰률-4875개월만-최고-310957",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T14:11:54.406Z",
+    "updatedAt": "2026-05-09T14:11:54.406Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508060900003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508060900003",
+    "titleFingerprint": "f51dd13a732d61f1093abf3ab2b62b9b5c78125f",
+    "dedupKeys": [
+      "445ac08ca766d15d92179ba6b2cc51e6ba91427b",
+      "f51dd13a732d61f1093abf3ab2b62b9b5c78125f",
+      "8f8218c2360e43b656dd3232393599fd36d073fe"
+    ],
+    "imageUrl": "/images/articles/445ac08ca766.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 아파트 경매 낙찰률 48.7%, 5개월 만에 최고치 기록",
+        "excerpt": "연합뉴스에 따르면 지난달 경매에 나온 서울 아파트 낙찰률은 48.7%로 집계돼 작년 11월 이후 가장 높은 수준을 보였다.",
+        "body": "지난달 경매에 부쳐진 서울 아파트의 낙찰률이 48.7%를 기록하며 작년 11월 이후 5개월 만에 최고 수준을 나타냈다. 연합뉴스 오진송 기자 보도에 따르면 이번 수치는 서울 아파트 경매 물건 가운데 실제 낙찰로 이어진 비율을 보여준다. 배경 수치로는 낙찰률 48.7%와 비교 기준인 작년 11월 이후 최고치라는 점이 제시됐다. 이번 결과는 서울 아파트 경매 시장의 최근 흐름을 확인하는 지표로 주목된다. 향후 흐름은 다음 달 경매 낙찰률 등 추가 지표를 통해 확인될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Seoul Apartment Auction Success Rate Hits 48.7%, Highest in Five Months",
+        "excerpt": "According to Yonhap News, the auction success rate for Seoul apartments reached 48.7% last month, the highest level since November last year.",
+        "body": "The auction success rate for Seoul apartments put up for auction last month reached 48.7%, marking the highest level in five months since November last year. According to a report by Yonhap News reporter Oh Jin-song, the figure shows the share of Seoul apartment auction listings that resulted in successful bids. The key figures provided are the 48.7% success rate and its status as the highest level since last November. The result is drawing attention as an indicator of recent trends in Seoul’s apartment auction market. Future movement is expected to be checked through additional indicators, including next month’s auction success rate. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "ソウルマンション競売の落札率48.7%、5カ月ぶり高水準に",
+        "excerpt": "聯合ニュースによると、先月競売に出されたソウルのマンション落札率は48.7%となり、昨年11月以来の高水準を記録した。",
+        "body": "先月競売にかけられたソウルのマンションの落札率は48.7%となり、昨年11月以来5カ月ぶりの高水準を示した。聯合ニュースのオ・ジンソン記者の報道によれば、この数値はソウルのマンション競売物件のうち実際に落札につながった割合を示す。背景となる数値として、落札率48.7%と、昨年11月以降で最も高い水準だった点が示された。今回の結果は、ソウルのマンション競売市場の最近の流れを確認する指標として注目される。今後の動きは、来月の競売落札率など追加指標を通じて確認される見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "首尔公寓拍卖成交率达48.7%，创五个月以来最高水平",
+        "excerpt": "据韩联社报道，上月首尔公寓拍卖成交率为48.7%，达到去年11月以来最高水平，显示该指标近期上升。",
+        "body": "上月进入拍卖程序的首尔公寓成交率为48.7%，创下自去年11月以来五个月的最高水平。据韩联社记者吴珍松报道，该数据反映了首尔公寓拍卖标的中最终成功成交的比例。报道提供的核心数字是48.7%的成交率，以及其为去年11月以来最高水平这一比较基准。此次结果被视为观察首尔公寓拍卖市场近期走势的一项指标。后续变化预计将通过下月拍卖成交率等追加数据继续确认。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Subastas de apartamentos en Seúl alcanzan 48,7%, máximo en cinco meses",
+        "excerpt": "Según Yonhap, la tasa de adjudicación de apartamentos en subasta en Seúl fue del 48,7% el mes pasado, el nivel más alto desde noviembre del año pasado.",
+        "body": "La tasa de adjudicación de los apartamentos de Seúl puestos en subasta el mes pasado alcanzó el 48,7%, el nivel más alto en cinco meses desde noviembre del año pasado. Según informó el periodista Oh Jin-song de Yonhap News, la cifra muestra la proporción de inmuebles de apartamentos en Seúl subastados que terminaron con una adjudicación efectiva. Los datos clave citados son la tasa del 48,7% y el hecho de que se trata del nivel más alto desde noviembre pasado. El resultado llama la atención como indicador de la tendencia reciente del mercado de subastas de apartamentos en Seúl. La evolución posterior se comprobará con indicadores adicionales, incluida la tasa del próximo mes. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Leilões de apartamentos em Seul têm taxa de 48,7%, maior em cinco meses",
+        "excerpt": "Segundo a Yonhap, a taxa de arrematação de apartamentos em leilão em Seul chegou a 48,7% no mês passado, o maior nível desde novembro passado.",
+        "body": "A taxa de arrematação dos apartamentos de Seul levados a leilão no mês passado chegou a 48,7%, marcando o maior nível em cinco meses desde novembro do ano passado. Segundo reportagem de Oh Jin-song, da Yonhap News, o dado mostra a proporção dos imóveis de apartamentos em Seul oferecidos em leilão que resultaram em arrematação efetiva. Os principais números apresentados são a taxa de 48,7% e a comparação com o maior nível desde novembro passado. O resultado chama atenção como indicador do fluxo recente do mercado de leilões de apartamentos em Seul. A tendência futura deverá ser verificada por indicadores adicionais, como a taxa do próximo mês. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Seouler Wohnungsauktionen erreichen 48,7%, höchster Wert seit fünf Monaten",
+        "excerpt": "Laut Yonhap lag die Zuschlagsquote für versteigerte Wohnungen in Seoul im vergangenen Monat bei 48,7% und damit so hoch wie seit November nicht mehr.",
+        "body": "Die Zuschlagsquote für Wohnungen in Seoul, die im vergangenen Monat zur Auktion standen, erreichte 48,7% und damit den höchsten Stand seit fünf Monaten beziehungsweise seit November vergangenen Jahres. Wie Yonhap-News-Reporter Oh Jin-song berichtete, zeigt die Zahl den Anteil der Seouler Wohnungsauktionen, die tatsächlich mit einem Zuschlag endeten. Als zentrale Angaben wurden die Quote von 48,7% und der Vergleich mit dem höchsten Stand seit vergangenem November genannt. Das Ergebnis gilt als beachteter Indikator für die jüngste Entwicklung am Auktionsmarkt für Wohnungen in Seoul. Weitere Tendenzen sollen anhand zusätzlicher Werte wie der Quote im nächsten Monat geprüft werden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "À Séoul, les enchères d’appartements atteignent 48,7%, un pic en cinq mois",
+        "excerpt": "Selon Yonhap, le taux d’adjudication des appartements mis aux enchères à Séoul a atteint 48,7% le mois dernier, au plus haut depuis novembre dernier.",
+        "body": "Le taux d’adjudication des appartements de Séoul mis aux enchères le mois dernier a atteint 48,7%, son plus haut niveau en cinq mois depuis novembre de l’an dernier. Selon un article du journaliste Oh Jin-song de Yonhap News, ce chiffre indique la part des biens d’appartements à Séoul passés aux enchères qui ont effectivement trouvé preneur. Les données clés citées sont le taux de 48,7% et le fait qu’il s’agit du plus haut niveau depuis novembre dernier. Ce résultat attire l’attention comme indicateur de la tendance récente du marché des enchères d’appartements à Séoul. L’évolution future sera à confirmer avec des indicateurs supplémentaires, dont le taux du mois prochain. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مزادات شقق سيول تسجل معدل ترسية 48.7%، الأعلى خلال خمسة أشهر",
+        "excerpt": "بحسب وكالة يونهاب، بلغ معدل ترسية الشقق المعروضة للمزاد في سيول 48.7% الشهر الماضي، وهو أعلى مستوى منذ نوفمبر من العام الماضي.",
+        "body": "بلغ معدل ترسية الشقق في سيول التي طُرحت في المزادات الشهر الماضي 48.7%، مسجلاً أعلى مستوى خلال خمسة أشهر منذ نوفمبر من العام الماضي. ووفقاً لتقرير أعده الصحفي أوه جين سونغ في وكالة يونهاب، يوضح هذا الرقم نسبة عقارات الشقق المعروضة في مزادات سيول التي انتهت بترسية فعلية. وتتمثل الأرقام الأساسية الواردة في معدل 48.7% وكونه أعلى مستوى منذ نوفمبر الماضي. وتلفت النتيجة الانتباه بوصفها مؤشراً على الاتجاهات الأخيرة في سوق مزادات الشقق في سيول. ومن المتوقع متابعة المسار اللاحق عبر مؤشرات إضافية، منها معدل الترسية في الشهر المقبل. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "सियोल अपार्टमेंट नीलामी सफलता दर 48.7%, पांच महीनों में उच्चतम",
+        "excerpt": "योनहाप के अनुसार, पिछले महीने नीलामी में आए सियोल अपार्टमेंट की सफलता दर 48.7% रही, जो पिछले साल नवंबर के बाद सबसे ऊंचा स्तर है।",
+        "body": "पिछले महीने नीलामी में रखे गए सियोल अपार्टमेंट की सफलता दर 48.7% दर्ज की गई, जो पिछले साल नवंबर के बाद पांच महीनों में सबसे ऊंचा स्तर है। योनहाप न्यूज के पत्रकार ओह जिन-सोंग की रिपोर्ट के अनुसार, यह आंकड़ा सियोल अपार्टमेंट नीलामी वस्तुओं में से वास्तव में सफल बोली तक पहुंचने वाले हिस्से को दिखाता है। प्रमुख संदर्भ संख्या 48.7% की सफलता दर और पिछले नवंबर के बाद उच्चतम स्तर होना है। यह परिणाम सियोल के अपार्टमेंट नीलामी बाजार की हालिया दिशा को देखने वाले संकेतक के रूप में ध्यान खींच रहा है। आगे की चाल अगले महीने की नीलामी सफलता दर जैसे अतिरिक्त संकेतकों से स्पष्ट होगी। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Lelang Apartemen Seoul Capai Tingkat 48,7%, Tertinggi dalam Lima Bulan",
+        "excerpt": "Menurut Yonhap, tingkat keberhasilan lelang apartemen Seoul mencapai 48,7% bulan lalu, menjadi level tertinggi sejak November tahun lalu.",
+        "body": "Tingkat keberhasilan lelang apartemen Seoul yang diajukan ke lelang bulan lalu mencapai 48,7%, mencatat level tertinggi dalam lima bulan sejak November tahun lalu. Menurut laporan reporter Oh Jin-song dari Yonhap News, angka ini menunjukkan proporsi objek lelang apartemen Seoul yang benar-benar berakhir dengan penawaran berhasil. Data utama yang disampaikan adalah tingkat 48,7% dan statusnya sebagai level tertinggi sejak November lalu. Hasil ini menjadi perhatian sebagai indikator tren terbaru pasar lelang apartemen Seoul. Pergerakan berikutnya diperkirakan akan dikonfirmasi melalui indikator tambahan, termasuk tingkat keberhasilan lelang bulan depan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4ccea825ed34",
+    "slug": "농식품부-중동-사태-대응팀-가동봄철-농자재-수급-안정-449481",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T14:10:52.699Z",
+    "updatedAt": "2026-05-09T14:10:52.699Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508069700030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508069700030",
+    "titleFingerprint": "5659a5e5bf0b46af4185a634a39c793b471def8c",
+    "dedupKeys": [
+      "4ccea825ed3496bc15df47a5f5776d3805d5e484",
+      "5659a5e5bf0b46af4185a634a39c793b471def8c",
+      "3ade34dacb06487acda2efeeda614083003538ac"
+    ],
+    "imageUrl": "/images/articles/4ccea825ed34.jpg",
+    "i18n": {
+      "ko": {
+        "title": "농식품부 중동 사태 대응팀 가동, 봄철 농자재 수급 안정에 초점",
+        "excerpt": "농림축산식품부는 중동 전쟁 장기화 속에서도 주요 농자재 수급이 안정적으로 이뤄지고 있다며 봄철 영농 활동이 차질 없이 진행되고 있다고 설명했다.",
+        "body": "농림축산식품부는 중동 전쟁 장기화에 대응해 ‘중동 사태 대응팀’을 가동하고, 봄철 영농에 필요한 주요 농자재 수급 상황을 점검하고 있다. 연합뉴스 한주홍 기자의 서울발 보도에 따르면 농식품부는 전쟁이 길어지는 상황에서도 주요 농자재 공급이 안정적으로 이뤄지고 있어 봄철 영농 활동은 차질 없이 진행되고 있다고 설명했다. 이번 대응은 중동 정세 불안이 농업 현장의 자재 조달에 미칠 수 있는 영향을 관리하기 위한 조치다. 현재 보도된 핵심 내용은 농자재 수급 안정과 봄철 영농 차질 없음이다. 향후 농식품부의 대응팀 운영은 수급 동향을 확인하는 데 초점이 맞춰질 것으로 보인다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Agriculture Ministry Runs Middle East Response Team as Spring Farm Input Supply Stays Stable",
+        "excerpt": "South Korea’s Agriculture Ministry said key farm input supplies remain stable despite the prolonged Middle East war, allowing spring farming work to proceed without disruption.",
+        "body": "South Korea’s Ministry of Agriculture, Food and Rural Affairs has activated a “Middle East situation response team” to monitor the supply of key agricultural materials needed for spring farming. According to a Seoul report by Yonhap News Agency reporter Han Ju-hong, the ministry said supplies of major farm inputs have remained stable even as the Middle East war drags on, and spring farming activities are continuing without disruption. The measure is aimed at managing possible effects of Middle East instability on agricultural material procurement. The reported core facts are stable farm input supply and no disruption to spring farming. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "農食品部、中東事態対応チーム稼働　春の農資材需給は安定",
+        "excerpt": "韓国農林畜産食品部は、中東戦争の長期化にも主要農資材の需給は安定しており、春の営農活動は支障なく進んでいると説明した。",
+        "body": "韓国農林畜産食品部は、中東戦争の長期化に対応するため「中東事態対応チーム」を稼働し、春の営農に必要な主要農資材の需給状況を点検している。聯合ニュースの韓珠洪記者によるソウル発報道によると、同部は戦争が長引く状況でも主要農資材の供給は安定しており、春の営農活動は支障なく進んでいると説明した。今回の対応は、中東情勢の不安定化が農業現場の資材調達に及ぼし得る影響を管理するための措置だ。報道された核心は、農資材需給の安定と春の営農に支障がないという点である。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国农食品部启动中东局势应对组，春耕农资供应保持稳定",
+        "excerpt": "韩国农林畜产食品部表示，尽管中东战争长期化，主要农资供应仍保持稳定，春季农业生产活动正无障碍推进。",
+        "body": "韩国农林畜产食品部已启动“中东局势应对组”，检查春季农业生产所需主要农资的供应情况。据韩联社记者韩周洪发自首尔的报道，农食品部表示，尽管中东战争持续时间拉长，主要农资供应仍稳定进行，春季农业生产活动没有受到影响。此举旨在管理中东局势不稳定可能对农业一线资材采购造成的影响。目前报道的核心内容是农资供应稳定，以及春耕活动未出现障碍。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Agricultura de Corea activa equipo por Oriente Medio y ve estable el suministro agrícola",
+        "excerpt": "El Ministerio de Agricultura de Corea del Sur dijo que, pese a la prolongación de la guerra en Oriente Medio, los principales insumos agrícolas siguen estables para la campaña de primavera.",
+        "body": "El Ministerio de Agricultura, Alimentación y Asuntos Rurales de Corea del Sur activó un “equipo de respuesta a la situación de Oriente Medio” para revisar el suministro de los principales materiales agrícolas necesarios para las labores de primavera. Según un reporte desde Seúl de Han Ju-hong para Yonhap, el ministerio explicó que, aunque la guerra en Oriente Medio se prolonga, el suministro de insumos agrícolas clave se mantiene estable y las actividades agrícolas de primavera avanzan sin contratiempos. La medida busca gestionar posibles efectos de la inestabilidad regional sobre la adquisición de materiales agrícolas. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Agricultura da Coreia ativa equipe para Oriente Médio e vê insumos de primavera estáveis",
+        "excerpt": "O Ministério da Agricultura da Coreia do Sul afirmou que, apesar da guerra prolongada no Oriente Médio, o fornecimento dos principais insumos agrícolas segue estável na primavera.",
+        "body": "O Ministério da Agricultura, Alimentos e Assuntos Rurais da Coreia do Sul colocou em operação uma “equipe de resposta à situação do Oriente Médio” para acompanhar o fornecimento dos principais materiais agrícolas necessários ao cultivo de primavera. Segundo reportagem de Seul de Han Ju-hong para a Yonhap, o ministério explicou que, mesmo com a prolongação da guerra no Oriente Médio, o abastecimento dos principais insumos agrícolas permanece estável e as atividades agrícolas de primavera seguem sem interrupções. A ação busca administrar possíveis impactos da instabilidade regional sobre a obtenção de materiais agrícolas. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Südkoreas Agrarministerium startet Nahost-Team, Frühjahrsbedarf bleibt stabil",
+        "excerpt": "Südkoreas Agrarministerium erklärte, dass die Versorgung mit wichtigen Agrarbetriebsmitteln trotz des verlängerten Nahostkriegs stabil sei und die Frühjahrsarbeiten ohne Störung liefen.",
+        "body": "Das südkoreanische Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten hat ein „Reaktionsteam zur Nahost-Lage“ aktiviert, um die Versorgung mit wichtigen Agrarmaterialien für die Frühjahrsarbeiten zu prüfen. Laut einem Bericht von Yonhap-Reporter Han Ju-hong aus Seoul erklärte das Ministerium, dass die Versorgung mit zentralen Betriebsmitteln trotz der längeren Dauer des Nahostkriegs stabil verlaufe und die landwirtschaftlichen Frühjahrsaktivitäten ohne Störungen fortgesetzt würden. Die Maßnahme soll mögliche Auswirkungen der Unsicherheit im Nahen Osten auf die Beschaffung landwirtschaftlicher Materialien steuern. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Séoul active une équipe Moyen-Orient, les intrants agricoles de printemps restent stables",
+        "excerpt": "Le ministère sud-coréen de l’Agriculture a indiqué que l’approvisionnement en principaux intrants agricoles reste stable malgré la guerre prolongée au Moyen-Orient.",
+        "body": "Le ministère sud-coréen de l’Agriculture, de l’Alimentation et des Affaires rurales a activé une « équipe de réponse à la situation au Moyen-Orient » afin de vérifier l’approvisionnement en principaux matériels agricoles nécessaires aux travaux de printemps. Selon un reportage de Séoul signé Han Ju-hong pour Yonhap, le ministère a expliqué que, malgré la prolongation de la guerre au Moyen-Orient, l’approvisionnement en intrants agricoles clés reste stable et que les activités agricoles de printemps se déroulent sans difficulté. Cette mesure vise à gérer les effets possibles de l’instabilité régionale sur l’achat de matériels agricoles. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "وزارة الزراعة الكورية تشغل فريقا لأزمة الشرق الأوسط وإمدادات الربيع مستقرة",
+        "excerpt": "قالت وزارة الزراعة الكورية الجنوبية إن إمدادات المواد الزراعية الرئيسية مستقرة رغم إطالة أمد الحرب في الشرق الأوسط، وإن أنشطة الزراعة الربيعية تمضي دون تعطل.",
+        "body": "شغلت وزارة الزراعة والأغذية والشؤون الريفية في كوريا الجنوبية «فريق الاستجابة لوضع الشرق الأوسط» لمتابعة إمدادات المواد الزراعية الرئيسية اللازمة للزراعة في الربيع. ووفقا لتقرير من سول أعده هان جو-هونغ لوكالة يونهاب، أوضحت الوزارة أن إمدادات المدخلات الزراعية الرئيسية تتم بصورة مستقرة رغم استمرار الحرب في الشرق الأوسط لفترة أطول، وأن أنشطة الزراعة الربيعية تجري دون تعطل. وتهدف هذه الخطوة إلى إدارة أي تأثير محتمل لعدم استقرار أوضاع الشرق الأوسط على تأمين المواد الزراعية في الميدان الزراعي. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया कृषि मंत्रालय ने मध्य पूर्व टीम चलाई, वसंत कृषि सामग्री आपूर्ति स्थिर",
+        "excerpt": "दक्षिण कोरिया के कृषि मंत्रालय ने कहा कि मध्य पूर्व युद्ध लंबा खिंचने के बावजूद प्रमुख कृषि सामग्री की आपूर्ति स्थिर है और वसंत खेती बिना बाधा चल रही है।",
+        "body": "दक्षिण कोरिया के कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय ने वसंत खेती के लिए जरूरी प्रमुख कृषि सामग्रियों की आपूर्ति पर नजर रखने के लिए “मध्य पूर्व स्थिति प्रतिक्रिया टीम” को सक्रिय किया है। योनहाप के लिए सियोल से हान जू-होंग की रिपोर्ट के अनुसार, मंत्रालय ने बताया कि मध्य पूर्व युद्ध लंबा चलने के बावजूद प्रमुख कृषि इनपुट की आपूर्ति स्थिर बनी हुई है और वसंत ऋतु की खेती संबंधी गतिविधियां बिना रुकावट आगे बढ़ रही हैं। यह कदम मध्य पूर्व की अस्थिरता से कृषि सामग्री की खरीद पर पड़ सकने वाले प्रभाव को संभालने के लिए है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kementerian Pertanian Korea Aktifkan Tim Timur Tengah, Pasokan Sarana Tani Stabil",
+        "excerpt": "Kementerian Pertanian Korea Selatan menyatakan pasokan sarana produksi pertanian utama tetap stabil meski perang Timur Tengah berkepanjangan, sehingga kegiatan tani musim semi tidak terganggu.",
+        "body": "Kementerian Pertanian, Pangan, dan Urusan Pedesaan Korea Selatan mengaktifkan “tim respons situasi Timur Tengah” untuk memantau pasokan bahan pertanian utama yang dibutuhkan dalam kegiatan tani musim semi. Menurut laporan Han Ju-hong dari Seoul untuk Yonhap, kementerian menjelaskan bahwa meski perang di Timur Tengah berkepanjangan, pasokan sarana produksi pertanian utama tetap berjalan stabil dan kegiatan pertanian musim semi berlangsung tanpa hambatan. Langkah ini ditujukan untuk mengelola kemungkinan dampak ketidakstabilan Timur Tengah terhadap pengadaan bahan pertanian. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "ce3433b98bb4",
     "slug": "오산시-미취업-청년-어학자격시험-응시료-지원-신청-접수-623770",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Samsung Electronics 500 Ribu Won Disorot, Broker Naikkan Ekspektasi",
         "excerpt": "Hankyung melaporkan munculnya proyeksi berani ‘Samsung Electronics 500 ribu won’ saat kalangan broker menaikkan ekspektasi terhadap saham tersebut.",
         "body": "Hankyung melaporkan, lewat judul bahwa Samsung Electronics bisa menuju ‘500 ribu won’, sebuah pandangan pasar yang berani dan alasan kalangan broker menaikkan ekspektasi. Angka utama dalam informasi sumber adalah istilah ‘Samsung Electronics 500 ribu won’, yang merujuk pada harga saham 500 ribu won. Ini menunjukkan bahwa pelaku pasar sedang menilai ulang potensi masa depan saham tersebut. Namun, informasi yang diberikan tidak memuat data laba terperinci, asumsi harga target, atau jangka waktu. Investor perlu mencermati apakah kenaikan ekspektasi broker benar-benar tercermin dalam pergerakan harga saham dan perubahan fundamental perusahaan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "2385fbdd6c2d",
-    "slug": "다음주-경제-4월-취업자-얼마나-늘었나kdi-경제전망도-관심-560699",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T01:13:31.797Z",
-    "updatedAt": "2026-05-09T01:13:31.797Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509014400002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509014400002",
-    "titleFingerprint": "e8dc6af9af3f61ae883236deb704235c2ba0c475",
-    "dedupKeys": [
-      "2385fbdd6c2dd1be270715469993f113e01863c1",
-      "e8dc6af9af3f61ae883236deb704235c2ba0c475",
-      "4a7e5403ae83abf6a4fcdd11f7527757c9bacd2d"
-    ],
-    "imageUrl": "/images/articles/2385fbdd6c2d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "4월 취업자 증가폭 주목…다음주 KDI 경제전망·물가 지표도 공개",
-        "excerpt": "다음 주 11∼15일 한국의 4월 고용 상황과 수출입 물가, 가계대출 추이를 확인할 주요 지표가 나오며 KDI 경제전망에도 관심이 쏠린다.",
-        "body": "다음 주(11∼15일)에는 한국의 최근 고용 상황을 보여줄 4월 취업자 증가폭과 수출입 물가, 가계대출 추이를 가늠할 수 있는 경제 지표가 공개된다. 시장과 정책 당국은 취업자 수가 얼마나 늘었는지, 물가 흐름과 금융권 가계대출 움직임이 어떤 방향을 보이는지에 주목할 전망이다. 같은 기간 한국개발연구원(KDI)의 경제전망도 관심 대상이다. 고용과 물가, 대출 지표는 경기 흐름과 소비 여건을 판단하는 데 활용되는 핵심 자료로, 향후 경제 진단의 근거가 될 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "April Job Growth in Focus as KDI Outlook and Price Data Arrive Next Week",
-        "excerpt": "From May 11 to 15, South Korea will release key data on April employment, import and export prices, and household loans, with attention also on KDI’s economic outlook.",
-        "body": "Next week, from May 11 to 15, South Korea will release economic indicators that help assess recent labor conditions, including how much employment increased in April, as well as trends in import and export prices and household loans. Markets and policymakers are expected to watch how many jobs were added, how price conditions are moving, and what direction household lending by financial institutions is taking. The Korea Development Institute’s economic outlook during the same period is also drawing attention. Employment, price, and loan data are key materials for judging economic momentum and consumer conditions, and may serve as a basis for future economic assessments. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "4月就業者の増加幅に注目、来週はKDI経済見通しと物価指標も",
-        "excerpt": "来週11～15日、韓国では4月の雇用状況、輸出入物価、家計貸出の動向を確認する主要指標が公表され、KDI経済見通しにも関心が集まる。",
-        "body": "来週（11～15日）、韓国では最近の雇用状況を示す4月の就業者増加幅に加え、輸出入物価や家計貸出の流れを把握できる経済指標が公表される。市場と政策当局は、就業者数がどれだけ増えたのか、物価の動きや金融機関の家計貸出がどの方向に向かうのかに注目するとみられる。同じ期間には韓国開発研究院（KDI）の経済見通しも関心を集めている。雇用、物価、貸出の指標は景気の流れと消費環境を判断するうえで使われる重要資料であり、今後の経済診断の根拠になり得る。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "4月就业人数增幅受关注，下周KDI经济展望和物价指标将公布",
-        "excerpt": "5月11日至15日，韩国将公布4月就业、进出口物价和家庭贷款等关键数据，市场也将关注KDI经济展望。",
-        "body": "下周（11日至15日），韩国将公布一系列经济指标，用于观察近期就业状况，包括4月就业人数增加多少，以及进出口物价和家庭贷款走势。市场和政策部门预计将关注就业人数增幅、物价变化方向，以及金融机构家庭贷款的动向。同一期间，韩国开发研究院（KDI）的经济展望也受到关注。就业、物价和贷款指标是判断经济走势与消费条件的重要资料，也可能成为今后经济评估的依据。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Empleo de abril en Corea centra la atención junto al informe del KDI",
-        "excerpt": "Entre el 11 y el 15 de mayo, Corea del Sur publicará datos sobre empleo de abril, precios de exportación e importación y préstamos a hogares, además del panorama del KDI.",
-        "body": "La próxima semana, del 11 al 15 de mayo, Corea del Sur publicará indicadores económicos que permitirán evaluar la situación reciente del empleo, incluido cuánto aumentó el número de ocupados en abril, así como la evolución de los precios de exportación e importación y de los préstamos a los hogares. Los mercados y las autoridades observarán cuántos empleos se añadieron, hacia dónde se mueven los precios y qué tendencia muestran los préstamos familiares del sector financiero. En el mismo periodo también atraerá atención la previsión económica del Instituto de Desarrollo de Corea (KDI). Estos datos son claves para evaluar la marcha de la economía y las condiciones de consumo. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Emprego de abril na Coreia ganha foco com previsão do KDI na próxima semana",
-        "excerpt": "De 11 a 15 de maio, a Coreia do Sul divulgará dados sobre emprego de abril, preços de exportação e importação e crédito às famílias, além da perspectiva do KDI.",
-        "body": "Na próxima semana, de 11 a 15 de maio, a Coreia do Sul divulgará indicadores econômicos que ajudam a avaliar a situação recente do emprego, incluindo quanto aumentou o número de pessoas ocupadas em abril, além das tendências dos preços de exportação e importação e dos empréstimos às famílias. Mercados e autoridades devem observar quantos empregos foram criados, como os preços estão se movendo e qual direção o crédito familiar no setor financeiro está tomando. No mesmo período, a perspectiva econômica do Instituto de Desenvolvimento da Coreia (KDI) também será acompanhada. Emprego, preços e crédito são dados centrais para avaliar a economia e as condições de consumo. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Beschäftigung im April im Blick: KDI-Ausblick und Preisdaten folgen nächste Woche",
-        "excerpt": "Vom 11. bis 15. Mai veröffentlicht Südkorea Daten zu Beschäftigung, Export- und Importpreisen sowie Haushaltskrediten; auch der KDI-Ausblick steht im Fokus.",
-        "body": "In der kommenden Woche, vom 11. bis 15. Mai, veröffentlicht Südkorea Wirtschaftsindikatoren, die Aufschluss über die jüngste Beschäftigungslage geben, darunter den Zuwachs der Beschäftigten im April, sowie über Export- und Importpreise und die Entwicklung der Haushaltskredite. Märkte und politische Entscheidungsträger dürften beobachten, wie stark die Beschäftigung gestiegen ist, in welche Richtung sich die Preise bewegen und welchen Verlauf Kredite an private Haushalte bei Finanzinstituten nehmen. Im selben Zeitraum steht auch der Wirtschaftsausblick des Korea Development Institute (KDI) im Fokus. Beschäftigungs-, Preis- und Kreditdaten sind wichtige Grundlagen zur Beurteilung von Konjunktur und Konsumbedingungen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Emploi d’avril en Corée: les prévisions du KDI et les prix attendus la semaine prochaine",
-        "excerpt": "Du 11 au 15 mai, la Corée du Sud publiera des données sur l’emploi d’avril, les prix à l’exportation et à l’importation, les prêts aux ménages et les perspectives du KDI.",
-        "body": "La semaine prochaine, du 11 au 15 mai, la Corée du Sud publiera des indicateurs économiques permettant d’évaluer la situation récente de l’emploi, notamment la hausse du nombre de personnes occupées en avril, ainsi que l’évolution des prix à l’exportation et à l’importation et des prêts aux ménages. Les marchés et les autorités devraient suivre le nombre d’emplois ajoutés, l’orientation des prix et la tendance des prêts accordés aux ménages par les institutions financières. Sur la même période, les perspectives économiques de l’Institut coréen de développement (KDI) attireront aussi l’attention. Ces données servent à juger la conjoncture et les conditions de consommation. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "وظائف أبريل في كوريا تحت المجهر مع توقعات KDI وبيانات الأسعار الأسبوع المقبل",
-        "excerpt": "بين 11 و15 مايو، تصدر كوريا الجنوبية بيانات عن توظيف أبريل وأسعار الصادرات والواردات وقروض الأسر، وسط اهتمام بتوقعات معهد التنمية الكوري.",
-        "body": "في الأسبوع المقبل، من 11 إلى 15 مايو، ستصدر كوريا الجنوبية مؤشرات اقتصادية تساعد على قياس وضع التوظيف الأخير، بما في ذلك مقدار زيادة عدد العاملين في أبريل، إلى جانب اتجاهات أسعار الصادرات والواردات وقروض الأسر. ومن المتوقع أن تتابع الأسواق والجهات المعنية بالسياسات عدد الوظائف التي أضيفت، واتجاه حركة الأسعار، ومسار قروض الأسر لدى المؤسسات المالية. وخلال الفترة نفسها، ستحظى التوقعات الاقتصادية الصادرة عن معهد التنمية الكوري (KDI) بالاهتمام أيضا. وتعد بيانات التوظيف والأسعار والقروض مواد رئيسية لتقييم مسار الاقتصاد وظروف الاستهلاك. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "अप्रैल रोजगार वृद्धि पर नजर, अगले सप्ताह KDI परिदृश्य और मूल्य आंकड़े आएंगे",
-        "excerpt": "11 से 15 मई के बीच दक्षिण कोरिया अप्रैल रोजगार, निर्यात-आयात कीमतों और घरेलू ऋण के प्रमुख आंकड़े जारी करेगा, जबकि KDI आर्थिक परिदृश्य भी ध्यान में रहेगा।",
-        "body": "अगले सप्ताह, 11 से 15 मई के बीच, दक्षिण कोरिया ऐसे आर्थिक संकेतक जारी करेगा जिनसे हाल की रोजगार स्थिति का आकलन होगा। इनमें अप्रैल में नियोजित लोगों की संख्या कितनी बढ़ी, इसके साथ निर्यात और आयात कीमतों तथा घरेलू ऋण की प्रवृत्ति शामिल है। बाजार और नीति अधिकारी यह देखेंगे कि रोजगार में कितनी वृद्धि हुई, कीमतों की दिशा क्या है और वित्तीय संस्थानों में घरेलू ऋण किस ओर बढ़ रहा है। इसी अवधि में कोरिया डेवलपमेंट इंस्टीट्यूट (KDI) का आर्थिक परिदृश्य भी ध्यान आकर्षित करेगा। रोजगार, कीमत और ऋण से जुड़े आंकड़े आर्थिक गति और उपभोग स्थितियों को परखने के अहम आधार हैं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kenaikan Pekerja April Jadi Sorotan, Prospek KDI dan Data Harga Menyusul",
-        "excerpt": "Pada 11-15 Mei, Korea Selatan akan merilis data ketenagakerjaan April, harga ekspor-impor, dan pinjaman rumah tangga, dengan prospek ekonomi KDI ikut disorot.",
-        "body": "Pekan depan, pada 11-15 Mei, Korea Selatan akan merilis indikator ekonomi yang membantu menilai kondisi ketenagakerjaan terbaru, termasuk seberapa besar jumlah pekerja bertambah pada April, serta tren harga ekspor-impor dan pinjaman rumah tangga. Pasar dan otoritas kebijakan diperkirakan mencermati berapa banyak pekerjaan bertambah, bagaimana arah pergerakan harga, dan ke mana pinjaman rumah tangga di lembaga keuangan bergerak. Pada periode yang sama, prospek ekonomi dari Korea Development Institute (KDI) juga menjadi perhatian. Data tenaga kerja, harga, dan pinjaman merupakan bahan penting untuk menilai arah ekonomi dan kondisi konsumsi. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1cc149575e68",
-    "slug": "부고-오준일대원제약-이사씨-장인상-720481",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T01:12:37.780Z",
-    "updatedAt": "2026-05-09T01:12:37.780Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509020800017",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509020800017",
-    "titleFingerprint": "bb800a3c9cb8c8adc3b1f4d8e5d668468e162a20",
-    "dedupKeys": [
-      "1cc149575e685582801abd71c5db41552c777659",
-      "bb800a3c9cb8c8adc3b1f4d8e5d668468e162a20",
-      "686e9008b5e672ba5e912c5ec81416a0276485f9"
-    ],
-    "imageUrl": "/images/articles/1cc149575e68.jpg",
-    "i18n": {
-      "ko": {
-        "title": "대원제약 오준일 이사 장인상, 신동석씨 별세와 장례 일정 안내",
-        "excerpt": "신동석씨가 8일 별세해 오준일 대원제약 ICT지원부 이사가 장인상을 당했다. 빈소는 서울 동작구 중앙대병원 장례식장 2호실이며 발인은 11일 오전 5시다.",
-        "body": "신동석씨가 8일 별세했다. 고인은 오준일 대원제약 ICT지원부 이사의 장인으로, 빈소는 서울 동작구 중앙대병원 장례식장 2호실에 마련됐다. 발인은 11일 오전 5시로 예정됐다. 이번 부고는 고인의 별세와 유족의 장례 일정을 알리는 내용으로, 장례식장 위치와 발인 시간이 함께 공지됐다. 관련 정보는 조문객과 지인들이 일정을 확인하는 데 필요한 핵심 사항이다. 별도의 추가 경위나 유족 명단, 장지 등은 원문에 공개되지 않았다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Daewon Pharmaceutical Director Oh Jun-il Bereavement: Funeral Details for Shin Dong-seok",
-        "excerpt": "Shin Dong-seok died on the 8th, leaving Oh Jun-il, director of ICT Support at Daewon Pharmaceutical, bereaved of his father-in-law. The funeral hall is Room 2 at Chung-Ang University Hospital in Dongjak, Seoul, with the funeral procession at 5 a.m. on the 11th.",
-        "body": "Shin Dong-seok died on the 8th. He was the father-in-law of Oh Jun-il, director of the ICT Support Department at Daewon Pharmaceutical. The memorial room has been set up in Room 2 of the funeral hall at Chung-Ang University Hospital in Dongjak-gu, Seoul. The funeral procession is scheduled for 5 a.m. on the 11th. The notice provides the key facts of the death and funeral schedule for relatives, acquaintances, and mourners. No additional details on the circumstances of death, a full list of family members, or the burial site were included in the original notice. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "大元製薬オ・ジュンイル理事の義父、シン・ドンソク氏死去と葬儀日程",
-        "excerpt": "シン・ドンソク氏が8日に死去し、大元製薬ICT支援部理事のオ・ジュンイル氏が義父を亡くした。殯所はソウル銅雀区の中央大学病院葬儀場2号室、出棺は11日午前5時。",
-        "body": "シン・ドンソク氏が8日に死去した。故人は大元製薬ICT支援部理事、オ・ジュンイル氏の義父にあたる。殯所はソウル市銅雀区の中央大学病院葬儀場2号室に設けられた。出棺は11日午前5時に予定されている。今回の訃報は、故人の死去と遺族の葬儀日程を知らせる内容で、葬儀場の場所と出棺時間があわせて公表された。弔問客や知人が日程を確認するための基本情報であり、死亡の詳しい経緯、その他の遺族名簿、埋葬地などは原文には記載されていない。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "大元制药理事吴俊日岳父申东锡逝世，灵堂与出殡时间公布",
-        "excerpt": "申东锡于8日逝世，大元制药ICT支援部理事吴俊日遭岳父丧。灵堂设在首尔铜雀区中央大学医院殡仪馆2号室，出殡时间为11日上午5时。",
-        "body": "申东锡于8日逝世。逝者为大元制药ICT支援部理事吴俊日的岳父，灵堂设在首尔市铜雀区中央大学医院殡仪馆2号室。出殡定于11日上午5时举行。此次讣告主要告知逝者去世消息及遗属的葬礼安排，并同时公布殡仪馆位置和出殡时间。相关信息可供吊唁者及亲友确认行程。原文未披露逝世具体经过、其他遗属名单或安葬地点等补充内容。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Fallece Shin Dong-seok, suegro del director Oh Jun-il de Daewon Pharmaceutical",
-        "excerpt": "Shin Dong-seok falleció el día 8; Oh Jun-il, director del departamento de soporte TIC de Daewon Pharmaceutical, perdió a su suegro. La capilla está en la sala 2 del hospital Chung-Ang de Dongjak, Seúl, y la salida será el día 11 a las 5:00.",
-        "body": "Shin Dong-seok falleció el día 8. Era el suegro de Oh Jun-il, director del Departamento de Soporte TIC de Daewon Pharmaceutical. La capilla ardiente se instaló en la sala 2 del funeral del Hospital Universitario Chung-Ang, en Dongjak-gu, Seúl. La salida del cortejo fúnebre está prevista para las 5:00 de la mañana del día 11. El aviso comunica el fallecimiento y el calendario funerario para familiares, conocidos y asistentes. También precisa la ubicación de la sala y la hora de salida. El texto original no incluye detalles adicionales sobre las circunstancias del deceso, otros familiares o el lugar de sepultura. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Morre Shin Dong-seok, sogro do diretor Oh Jun-il da Daewon Pharmaceutical",
-        "excerpt": "Shin Dong-seok morreu no dia 8, e Oh Jun-il, diretor do departamento de suporte ICT da Daewon Pharmaceutical, perdeu o sogro. O velório ocorre na sala 2 do Hospital Chung-Ang, em Dongjak, Seul; o cortejo sai no dia 11 às 5h.",
-        "body": "Shin Dong-seok morreu no dia 8. Ele era sogro de Oh Jun-il, diretor do Departamento de Suporte ICT da Daewon Pharmaceutical. O velório foi organizado na sala 2 da funerária do Hospital Universitário Chung-Ang, em Dongjak-gu, Seul. A saída do cortejo fúnebre está marcada para as 5h do dia 11. O comunicado informa o falecimento e os principais dados da cerimônia para familiares, conhecidos e visitantes. Também registra o local do velório e o horário do cortejo. O texto original não divulgou outras informações sobre as circunstâncias da morte, lista de familiares ou local de sepultamento. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Shin Dong-seok gestorben: Schwiegervater von Daewon-Pharmaceutical-Direktor Oh Jun-il",
-        "excerpt": "Shin Dong-seok ist am 8. gestorben; Oh Jun-il, Direktor der ICT-Unterstützung bei Daewon Pharmaceutical, trauert um seinen Schwiegervater. Die Trauerhalle ist Raum 2 im Chung-Ang-Universitätskrankenhaus in Dongjak, Seoul; die Aussegnung ist am 11. um 5 Uhr.",
-        "body": "Shin Dong-seok ist am 8. gestorben. Er war der Schwiegervater von Oh Jun-il, Direktor der Abteilung ICT-Unterstützung bei Daewon Pharmaceutical. Der Aufbahrungsraum befindet sich in Raum 2 der Trauerhalle des Chung-Ang-Universitätskrankenhauses in Dongjak-gu, Seoul. Die Aussegnung ist für den 11. um 5 Uhr morgens angesetzt. Die Mitteilung informiert über den Todesfall und den Zeitplan der Trauerfeier. Sie nennt den Ort der Trauerhalle und die Uhrzeit der Aussegnung, damit Angehörige, Bekannte und Trauergäste ihre Teilnahme planen können. Weitere Angaben zu den Todesumständen, zu weiteren Familienmitgliedern oder zur Grabstätte enthält die Originalmeldung nicht. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Décès de Shin Dong-seok, beau-père d’Oh Jun-il, directeur chez Daewon Pharmaceutical",
-        "excerpt": "Shin Dong-seok est décédé le 8, endeuillant Oh Jun-il, directeur du soutien TIC chez Daewon Pharmaceutical. La chambre funéraire se trouve en salle 2 de l’hôpital universitaire Chung-Ang à Dongjak, Séoul, avec départ du convoi le 11 à 5 h.",
-        "body": "Shin Dong-seok est décédé le 8. Il était le beau-père d’Oh Jun-il, directeur du département de soutien TIC chez Daewon Pharmaceutical. La chambre funéraire a été installée en salle 2 du funérarium de l’hôpital universitaire Chung-Ang, dans l’arrondissement de Dongjak à Séoul. Le départ du convoi funéraire est prévu le 11 à 5 h du matin. L’avis annonce le décès et précise les principales informations liées aux obsèques pour les proches, connaissances et visiteurs. Il mentionne le lieu de recueillement et l’horaire du départ. Le texte original ne fournit pas d’autres détails sur les circonstances du décès, la liste des proches ou le lieu d’inhumation. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "وفاة شين دونغ-سوك حمو أوه جون-إيل مدير دعم تقنية المعلومات في دايوون فارماسوتيكال",
-        "excerpt": "توفي شين دونغ-سوك في الثامن، وهو حمو أوه جون-إيل مدير قسم دعم تقنية المعلومات والاتصالات في دايوون فارماسوتيكال. تقام المراسم في القاعة 2 بمستشفى جامعة تشونغ-آنغ في دونغجاك بسيول، والموعد في 11 الساعة 5 صباحا.",
-        "body": "توفي شين دونغ-سوك في الثامن. والراحل هو حمو أوه جون-إيل، مدير قسم دعم تقنية المعلومات والاتصالات في شركة دايوون فارماسوتيكال. أعدت قاعة العزاء في الغرفة رقم 2 بدار الجنازات في مستشفى جامعة تشونغ-آنغ في حي دونغجاك بسيول. ومن المقرر أن يكون موعد التشييع في الساعة الخامسة صباحا يوم 11. يهدف النعي إلى إبلاغ الأقارب والمعارف والمعزين بخبر الوفاة وجدول الجنازة، مع تحديد مكان العزاء ووقت التشييع. ولم تورد الصيغة الأصلية تفاصيل إضافية عن ملابسات الوفاة أو قائمة أوسع بأفراد الأسرة أو مكان الدفن. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "डेवॉन फार्मास्युटिकल के निदेशक ओह जुन-इल के ससुर शिन डोंग-सोक का निधन",
-        "excerpt": "शिन डोंग-सोक का 8 तारीख को निधन हुआ, वे डेवॉन फार्मास्युटिकल के ICT सपोर्ट विभाग के निदेशक ओह जुन-इल के ससुर थे। अंतिम दर्शन सियोल के डोंगजाक स्थित चुंग-आंग यूनिवर्सिटी अस्पताल के कक्ष 2 में हैं और अंतिम यात्रा 11 तारीख सुबह 5 बजे है।",
-        "body": "शिन डोंग-सोक का 8 तारीख को निधन हुआ। वे डेवॉन फार्मास्युटिकल के ICT सपोर्ट विभाग के निदेशक ओह जुन-इल के ससुर थे। अंतिम दर्शन की व्यवस्था सियोल के डोंगजाक-गु स्थित चुंग-आंग यूनिवर्सिटी अस्पताल के अंतिम संस्कार गृह के कक्ष 2 में की गई है। अंतिम यात्रा 11 तारीख को सुबह 5 बजे निर्धारित है। यह शोक सूचना निधन और अंतिम संस्कार कार्यक्रम की मुख्य जानकारी देने के लिए जारी की गई है, ताकि परिजन, परिचित और शोकाकुल लोग स्थान और समय की पुष्टि कर सकें। मूल सूचना में निधन की परिस्थितियों, अन्य परिजनों की सूची या दफन स्थल के बारे में अतिरिक्त विवरण नहीं दिया गया है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Shin Dong-seok Wafat, Mertua Direktur Daewon Pharmaceutical Oh Jun-il",
-        "excerpt": "Shin Dong-seok wafat pada tanggal 8; Oh Jun-il, direktur Departemen Dukungan ICT Daewon Pharmaceutical, berduka atas wafatnya mertua. Rumah duka berada di ruang 2 RS Universitas Chung-Ang, Dongjak, Seoul, dan pemberangkatan jenazah pada tanggal 11 pukul 05.00.",
-        "body": "Shin Dong-seok wafat pada tanggal 8. Almarhum adalah mertua Oh Jun-il, direktur Departemen Dukungan ICT Daewon Pharmaceutical. Ruang persemayaman disiapkan di ruang 2 rumah duka Rumah Sakit Universitas Chung-Ang, Dongjak-gu, Seoul. Pemberangkatan jenazah dijadwalkan pada tanggal 11 pukul 05.00. Kabar duka ini menyampaikan informasi utama mengenai wafatnya almarhum dan jadwal pemakaman bagi keluarga, kenalan, serta pelayat. Informasi yang diumumkan mencakup lokasi rumah duka dan waktu pemberangkatan. Naskah asli tidak memuat rincian tambahan mengenai penyebab wafat, daftar keluarga lain, atau lokasi pemakaman. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9ac64264d355",
-    "slug": "코스피-상승률-두-배-벌었다수익률-318-터진-비결-투자톡-256522",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T01:11:29.977Z",
-    "updatedAt": "2026-05-09T01:11:29.977Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026042674346",
-    "canonicalUrl": "https://www.hankyung.com/article/2026042674346",
-    "titleFingerprint": "e326a42ccf165fd47457d56dec805bf86d455959",
-    "dedupKeys": [
-      "9ac64264d355026184355448bdbb911f2b4e89c4",
-      "e326a42ccf165fd47457d56dec805bf86d455959",
-      "16ab082f43929081169a2f729719e0a531bd9952"
-    ],
-    "imageUrl": "/images/articles/9ac64264d355.jpg",
-    "i18n": {
-      "ko": {
-        "title": "필수소비재 ETF, 코스피 상승률 두 배 웃돈 배경은",
-        "excerpt": "한국경제는 4월 28일 KODEX 필수소비재 ETF가 올해 12.1% 올라 코스피 상승률 6.25%의 두 배 가까운 성과를 냈다고 보도했다.",
-        "body": "한국경제에 따르면 4월 28일 기준 KODEX 필수소비재 상장지수펀드(ETF)는 올해 들어 12.1% 상승했다. 같은 기간 코스피지수 상승률은 6.25%로, 해당 ETF가 두 배 가까운 수익률을 기록했다. 주요 구성 종목인 이마트는 46.2%, 삼양식품은 28.4%, 오리온은 16.7%, 아모레퍼시픽은 16.2%, KT&G는 5.8% 올랐다. 보도는 미국발 관세 전쟁으로 시장 불확실성이 커진 가운데 필수소비재가 경기 방어적 성격과 추가경정예산 기대를 함께 반영했다고 설명했다. 물가 상승기에도 수요가 크게 줄지 않고 원재료비를 제품 가격에 전가하기 쉬운 점도 배경으로 제시됐다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Consumer Staples ETF Nearly Doubles Kospi Gain as Defensive Demand Rises",
-        "excerpt": "Hankyung reported on April 28 that the KODEX Consumer Staples ETF rose 12.1% this year, nearly twice the Kospi’s 6.25% gain.",
-        "body": "According to Hankyung, the KODEX Consumer Staples ETF had risen 12.1% year to date as of April 28. Over the same period, the Kospi index gained 6.25%, meaning the ETF delivered nearly twice the market return. Key holdings also advanced, with E-Mart up 46.2%, Samyang Foods 28.4%, Orion 16.7%, Amorepacific 16.2%, and KT&G 5.8%. The report said consumer staples drew attention as U.S.-led tariff uncertainty increased market volatility, while their defensive profile and expectations for supplementary budget spending supported sentiment. It also cited resilient demand during inflation and easier cost pass-through as background factors. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "生活必需品ETF、KOSPI上昇率の約2倍となった背景",
-        "excerpt": "韓国経済新聞は4月28日、KODEX生活必需品ETFが年初来12.1%上昇し、KOSPIの6.25%を約2倍上回ったと報じた。",
-        "body": "韓国経済新聞によると、4月28日時点でKODEX生活必需品ETFは年初来12.1%上昇した。同じ期間のKOSPI指数の上昇率は6.25%で、このETFは市場の約2倍のリターンを記録した。主な構成銘柄では、Eマートが46.2%、三養食品が28.4%、オリオンが16.7%、アモーレパシフィックが16.2%、KT&Gが5.8%上昇した。報道は、米国発の関税戦争で市場の不確実性が高まる中、生活必需品のディフェンシブ性と追加補正予算への期待が反映されたと説明した。インフレ局面でも需要が大きく減りにくく、原材料費を価格へ転嫁しやすい点も背景に挙げた。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "必需消费品ETF涨幅近科斯皮两倍，防御属性受关注",
-        "excerpt": "韩国经济新闻4月28日报道，KODEX必需消费品ETF今年上涨12.1%，接近同期科斯皮指数6.25%涨幅的两倍。",
-        "body": "据韩国经济新闻报道，截至4月28日，KODEX必需消费品ETF今年以来上涨12.1%。同期科斯皮指数上涨6.25%，该ETF取得了接近市场两倍的收益率。主要成分股中，易买得上涨46.2%，三养食品上涨28.4%，好丽友上涨16.7%，爱茉莉太平洋上涨16.2%，KT&G上涨5.8%。报道称，在美国关税战引发市场不确定性上升的背景下，必需消费品的防御属性以及追加预算预期共同支撑了相关股票表现。报道还指出，通胀时期需求不易大幅减少，企业较容易将原材料成本转嫁至产品价格，也是其受到关注的原因。来源: hankyung.com"
-      },
-      "es": {
-        "title": "ETF de consumo básico casi duplica al Kospi por demanda defensiva",
-        "excerpt": "Hankyung informó el 28 de abril que el ETF KODEX de consumo básico subió 12,1% en el año, casi el doble del avance de 6,25% del Kospi.",
-        "body": "Según Hankyung, al 28 de abril el ETF KODEX de consumo básico acumulaba una subida del 12,1% en el año. En el mismo periodo, el índice Kospi avanzó 6,25%, por lo que el ETF logró casi el doble de rentabilidad que el mercado. Entre sus principales componentes, E-Mart subió 46,2%, Samyang Foods 28,4%, Orion 16,7%, Amorepacific 16,2% y KT&G 5,8%. El reporte señaló que, ante la mayor incertidumbre generada por la guerra arancelaria impulsada por Estados Unidos, el mercado valoró el carácter defensivo del consumo básico y las expectativas de gasto mediante presupuesto suplementario. También citó la demanda resistente en inflación y la facilidad para trasladar costos a precios. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "ETF de bens essenciais quase dobra ganho do Kospi com perfil defensivo",
-        "excerpt": "O Hankyung informou em 28 de abril que o ETF KODEX de bens essenciais subiu 12,1% no ano, quase o dobro da alta de 6,25% do Kospi.",
-        "body": "Segundo o Hankyung, até 28 de abril o ETF KODEX de bens essenciais acumulava alta de 12,1% no ano. No mesmo período, o índice Kospi avançou 6,25%, o que significa que o ETF entregou quase o dobro do retorno do mercado. Entre os principais componentes, E-Mart subiu 46,2%, Samyang Foods 28,4%, Orion 16,7%, Amorepacific 16,2% e KT&G 5,8%. A reportagem explicou que, com a incerteza provocada pela guerra tarifária dos Estados Unidos, os bens essenciais ganharam destaque por seu caráter defensivo e pela expectativa de benefícios ligados a orçamento suplementar. Também foram citadas a demanda resiliente em períodos de inflação e a capacidade de repassar custos aos preços. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Basiskonsum-ETF steigt fast doppelt so stark wie der Kospi",
-        "excerpt": "Hankyung berichtete am 28. April, dass der KODEX-Basiskonsum-ETF in diesem Jahr 12,1% zulegte, fast doppelt so viel wie der Kospi mit 6,25%.",
-        "body": "Laut Hankyung war der KODEX-Basiskonsum-ETF bis zum 28. April seit Jahresbeginn um 12,1% gestiegen. Im selben Zeitraum legte der Kospi-Index um 6,25% zu, womit der ETF nahezu die doppelte Marktrendite erzielte. Zu den wichtigsten Bestandteilen zählten E-Mart mit plus 46,2%, Samyang Foods mit 28,4%, Orion mit 16,7%, Amorepacific mit 16,2% und KT&G mit 5,8%. Der Bericht erklärte, dass Basiskonsumwerte angesichts der durch US-Zölle erhöhten Marktunsicherheit wegen ihres defensiven Charakters und der Erwartungen an einen Nachtragshaushalt gefragt waren. Als weitere Faktoren wurden stabile Nachfrage in Inflationsphasen und eine leichtere Weitergabe von Rohstoffkosten genannt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "L’ETF de biens essentiels dépasse presque deux fois la hausse du Kospi",
-        "excerpt": "Hankyung a rapporté le 28 avril que l’ETF KODEX biens essentiels gagnait 12,1% depuis le début de l’année, presque deux fois le Kospi à 6,25%.",
-        "body": "Selon Hankyung, l’ETF KODEX biens essentiels affichait au 28 avril une hausse de 12,1% depuis le début de l’année. Sur la même période, l’indice Kospi progressait de 6,25%, soit une performance presque deux fois inférieure à celle de l’ETF. Parmi les principaux composants, E-Mart gagnait 46,2%, Samyang Foods 28,4%, Orion 16,7%, Amorepacific 16,2% et KT&G 5,8%. Le reportage explique que, dans un marché rendu incertain par la guerre tarifaire venue des États-Unis, les biens essentiels ont bénéficié de leur profil défensif et des attentes liées à un budget supplémentaire. Il cite aussi une demande moins sensible à l’inflation et une capacité plus aisée à répercuter les coûts des matières premières. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صندوق السلع الأساسية يقترب من ضعف مكاسب كوسبي وسط طلب دفاعي",
-        "excerpt": "ذكرت هانكيونغ في 28 أبريل أن صندوق KODEX للسلع الأساسية ارتفع 12.1% هذا العام، مقتربا من ضعف مكاسب مؤشر كوسبي البالغة 6.25%.",
-        "body": "وفقا لهانكيونغ، ارتفع صندوق KODEX المتداول للسلع الاستهلاكية الأساسية بنسبة 12.1% منذ بداية العام حتى 28 أبريل. وخلال الفترة نفسها، صعد مؤشر كوسبي 6.25%، ما يعني أن الصندوق حقق عائدا يقترب من ضعف أداء السوق. ومن بين المكونات الرئيسية، ارتفع سهم إي مارت 46.2%، وساميانغ فودز 28.4%، وأوريون 16.7%، وأمورباسيفيك 16.2%، وKT&G بنسبة 5.8%. وأوضح التقرير أن السلع الأساسية جذبت الاهتمام مع تزايد عدم اليقين بفعل حرب الرسوم الجمركية الأميركية، مدعومة بطابعها الدفاعي وتوقعات الإنفاق عبر ميزانية إضافية. كما أشار إلى مرونة الطلب أثناء التضخم وسهولة تمرير تكاليف المواد الخام إلى الأسعار. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "कंज्यूमर स्टेपल्स ETF ने Kospi से करीब दोगुनी बढ़त क्यों दर्ज की",
-        "excerpt": "Hankyung ने 28 अप्रैल को बताया कि KODEX कंज्यूमर स्टेपल्स ETF इस साल 12.1% चढ़ा, जो Kospi की 6.25% बढ़त के करीब दोगुना है।",
-        "body": "Hankyung के अनुसार, 28 अप्रैल तक KODEX कंज्यूमर स्टेपल्स ETF इस वर्ष 12.1% बढ़ चुका था। इसी अवधि में Kospi सूचकांक 6.25% चढ़ा, यानी ETF ने बाजार के मुकाबले लगभग दोगुना रिटर्न दिया। प्रमुख घटकों में E-Mart 46.2%, Samyang Foods 28.4%, Orion 16.7%, Amorepacific 16.2% और KT&G 5.8% बढ़े। रिपोर्ट में कहा गया कि अमेरिका से शुरू टैरिफ युद्ध के कारण बाजार अनिश्चितता बढ़ने पर कंज्यूमर स्टेपल्स को उनके रक्षात्मक स्वभाव और अतिरिक्त बजट खर्च की उम्मीदों से समर्थन मिला। महंगाई के दौर में मांग में बड़ी गिरावट नहीं आती और कच्चे माल की लागत को उत्पाद कीमतों में स्थानांतरित करना अपेक्षाकृत आसान होता है, इसे भी पृष्ठभूमि के रूप में बताया गया। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "ETF Barang Pokok Hampir Gandakan Kenaikan Kospi Berkat Sifat Defensif",
-        "excerpt": "Hankyung melaporkan pada 28 April bahwa ETF KODEX barang pokok naik 12,1% tahun ini, hampir dua kali kenaikan Kospi sebesar 6,25%.",
-        "body": "Menurut Hankyung, per 28 April ETF KODEX barang konsumsi pokok telah naik 12,1% sejak awal tahun. Pada periode yang sama, indeks Kospi naik 6,25%, sehingga ETF tersebut mencatat imbal hasil hampir dua kali pasar. Komponen utama juga menguat, dengan E-Mart naik 46,2%, Samyang Foods 28,4%, Orion 16,7%, Amorepacific 16,2%, dan KT&G 5,8%. Laporan itu menyebut barang pokok mendapat perhatian saat ketidakpastian pasar meningkat akibat perang tarif dari Amerika Serikat, karena sifatnya yang defensif dan ekspektasi belanja melalui anggaran tambahan. Faktor lain yang disebut adalah permintaan yang relatif tahan saat inflasi serta kemudahan meneruskan biaya bahan baku ke harga produk. Sumber: hankyung.com"
       }
     }
   }
