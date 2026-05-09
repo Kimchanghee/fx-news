@@ -1,5 +1,230 @@
 [
   {
+    "id": "dc9215d2f361",
+    "slug": "국고채-금리-일제히-상승3년물-연-3569-180588",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T00:16:24.527Z",
+    "updatedAt": "2026-05-09T00:16:24.527Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508140700008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508140700008",
+    "titleFingerprint": "01a18c44cd7f13f83baf271dfe15e268cdf5c7e7",
+    "dedupKeys": [
+      "dc9215d2f361d0c6ad331142e8816ac74eccf45f",
+      "01a18c44cd7f13f83baf271dfe15e268cdf5c7e7",
+      "d78187157eaecd482fd60f3fd94155612c2442e2"
+    ],
+    "imageUrl": "/images/articles/dc9215d2f361.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국고채 금리 일제히 상승, 3년물 연 3.569% 기록",
+        "excerpt": "8일 서울 채권시장에서 국고채 금리가 일제히 상승했다. 연합뉴스에 따르면 3년물 금리는 연 3.569%를 기록하며 국내 채권시장 흐름의 핵심 지표로 주목됐다.",
+        "body": "8일 서울 채권시장에서 국고채 금리가 일제히 상승했다. 연합뉴스 보도에 따르면 이날 3년 만기 국고채 금리는 연 3.569%를 기록했다. 이번 보도는 국내 국고채 시장에서 주요 만기물 금리가 같은 방향으로 움직였다는 점을 전했다. 국고채 금리는 채권 가격과 반대로 움직이는 지표로, 시장 참가자들이 금리 흐름을 확인할 때 자주 참고하는 기준이다. 다만 원문은 금리 상승의 구체적 배경이나 다른 만기물의 세부 수치를 별도로 제시하지 않았다. 투자자들은 3년물 금리 수준과 국고채 전반의 동반 상승 여부를 확인하며 향후 채권시장 흐름을 점검할 것으로 보인다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Korean Treasury Yields Rise Across the Board, 3-Year at 3.569%",
+        "excerpt": "South Korean government bond yields rose across the board on the 8th, Yonhap reported, with the three-year Treasury yield reaching 3.569% in Seoul’s bond market.",
+        "body": "South Korean government bond yields rose across the board on the 8th in Seoul’s bond market. According to Yonhap News Agency, the yield on the three-year Korean Treasury bond stood at 3.569% per year. The report highlighted that key government bond maturities moved in the same upward direction during the session. Government bond yields move inversely to bond prices and are widely watched by market participants as a reference point for interest-rate trends. The original report did not provide a detailed explanation for the rise or specific figures for other maturities. Investors are expected to monitor the three-year yield level and the broader rise in Treasury yields as they assess the next direction of the domestic bond market. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "韓国国債利回りが一斉上昇、3年物は年3.569%",
+        "excerpt": "8日のソウル債券市場で韓国国債利回りが一斉に上昇した。聯合ニュースによると、3年物国債利回りは年3.569%を記録した。",
+        "body": "8日のソウル債券市場で、韓国国債利回りが一斉に上昇した。聯合ニュースの報道によると、同日の3年物韓国国債利回りは年3.569%となった。今回の報道は、国内国債市場で主要年限の利回りが同じ上昇方向に動いた点を伝えている。国債利回りは債券価格と反対に動く指標であり、市場参加者が金利動向を確認する際によく参照する基準だ。ただし原文では、利回り上昇の具体的な背景や他の年限の詳しい数値は示されていない。投資家は3年物利回りの水準と国債全体の同時上昇を確認しながら、今後の債券市場の流れを点検するとみられる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国国债收益率全线上升，3年期报年化3.569%",
+        "excerpt": "8日首尔债券市场韩国国债收益率全线上升。韩联社报道称，3年期国债收益率报年化3.569%，成为市场关注的关键利率指标。",
+        "body": "8日，首尔债券市场韩国国债收益率全线上升。韩联社报道称，当天3年期韩国国债收益率为年化3.569%。该报道指出，韩国国债市场主要期限品种的收益率出现同方向上行。国债收益率通常与债券价格反向变动，是市场参与者观察利率走势时经常参考的指标。不过，原文并未进一步说明此次收益率上升的具体背景，也未列出其他期限品种的详细数据。投资者预计将继续关注3年期收益率水平以及国债收益率整体上行情况，以研判韩国国内债券市场后续走势。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Suben los rendimientos de bonos del Tesoro surcoreano; 3 años en 3,569%",
+        "excerpt": "Los rendimientos de los bonos soberanos surcoreanos subieron en conjunto el día 8, informó Yonhap, y el bono a tres años alcanzó una tasa anual del 3,569%.",
+        "body": "Los rendimientos de los bonos del Tesoro surcoreano subieron en conjunto el día 8 en el mercado de bonos de Seúl. Según la agencia Yonhap, el rendimiento del bono del Gobierno surcoreano a tres años se situó en una tasa anual del 3,569%. El informe señaló que los principales vencimientos del mercado de deuda pública local se movieron en la misma dirección alcista. Los rendimientos de los bonos se mueven de forma inversa a sus precios y son una referencia habitual para seguir la tendencia de las tasas de interés. El texto original no ofreció una explicación concreta del aumento ni cifras detalladas de otros vencimientos. Los inversores seguirán observando el nivel del bono a tres años y el alza general de la deuda soberana. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Juros dos títulos sul-coreanos sobem; papel de 3 anos vai a 3,569%",
+        "excerpt": "Os rendimentos dos títulos públicos da Coreia do Sul subiram em conjunto no dia 8, informou a Yonhap, com o papel de três anos registrando taxa anual de 3,569%.",
+        "body": "Os rendimentos dos títulos públicos da Coreia do Sul subiram em conjunto no dia 8 no mercado de bônus de Seul. Segundo a agência Yonhap, o rendimento do título soberano sul-coreano de três anos ficou em 3,569% ao ano. A reportagem destacou que os principais vencimentos do mercado local de dívida pública se moveram na mesma direção de alta. Os rendimentos dos títulos se movem de forma inversa aos preços e são uma referência acompanhada por participantes do mercado para avaliar a trajetória dos juros. O texto original não apresentou uma explicação específica para a alta nem números detalhados de outros vencimentos. Investidores devem acompanhar o nível do papel de três anos e a alta mais ampla dos títulos públicos. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Südkoreas Staatsanleiherenditen steigen, 3 Jahre bei 3,569%",
+        "excerpt": "Die Renditen südkoreanischer Staatsanleihen stiegen am 8. auf breiter Front, meldete Yonhap. Die dreijährige Anleihe erreichte eine Jahresrendite von 3,569%.",
+        "body": "Die Renditen südkoreanischer Staatsanleihen sind am 8. am Anleihemarkt in Seoul auf breiter Front gestiegen. Nach Angaben der Nachrichtenagentur Yonhap lag die Rendite der dreijährigen südkoreanischen Staatsanleihe bei 3,569% pro Jahr. Der Bericht hob hervor, dass wichtige Laufzeiten am heimischen Staatsanleihemarkt in dieselbe Richtung nach oben tendierten. Anleiherenditen bewegen sich entgegengesetzt zu den Anleihepreisen und dienen Marktteilnehmern häufig als Referenz für Zinstrends. Der Originalbericht nannte jedoch keinen konkreten Grund für den Anstieg und führte keine detaillierten Werte anderer Laufzeiten auf. Anleger dürften nun den Stand der dreijährigen Rendite und den breiteren Anstieg am Staatsanleihemarkt beobachten. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Les rendements des obligations coréennes montent, le 3 ans à 3,569%",
+        "excerpt": "Les rendements des obligations d’État sud-coréennes ont progressé ensemble le 8, selon Yonhap, le titre à trois ans atteignant un rendement annuel de 3,569%.",
+        "body": "Les rendements des obligations d’État sud-coréennes ont progressé ensemble le 8 sur le marché obligataire de Séoul. Selon l’agence Yonhap, le rendement de l’obligation souveraine sud-coréenne à trois ans s’est établi à 3,569% par an. Le rapport souligne que les principales échéances du marché local de la dette publique ont évolué dans la même direction haussière. Les rendements obligataires évoluent à l’inverse des prix des obligations et servent souvent de référence aux intervenants pour suivre les tendances de taux. Le texte original n’a toutefois pas fourni d’explication précise à cette hausse ni de chiffres détaillés pour les autres échéances. Les investisseurs devraient surveiller le niveau du trois ans et la progression générale des rendements souverains. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "ارتفاع شامل لعوائد السندات الكورية، وعائد 3 سنوات عند 3.569%",
+        "excerpt": "ارتفعت عوائد سندات الخزانة الكورية الجنوبية على نطاق واسع في الثامن من الشهر، وفق يونهاب، وسجل عائد السند لأجل ثلاث سنوات 3.569% سنويا في سوق سيول.",
+        "body": "ارتفعت عوائد سندات الخزانة الكورية الجنوبية على نطاق واسع في سوق السندات في سيول في الثامن من الشهر. ووفقا لوكالة يونهاب للأنباء، بلغ عائد السند الحكومي الكوري الجنوبي لأجل ثلاث سنوات 3.569% سنويا. وأشار التقرير إلى أن آجال السندات الحكومية الرئيسية في السوق المحلية تحركت في الاتجاه الصعودي نفسه. وتتحرك عوائد السندات عادة بعكس أسعارها، وتعد مؤشرا يتابعه المشاركون في السوق عند تقييم اتجاهات الفائدة. ولم يورد النص الأصلي تفسيرا محددا لارتفاع العوائد أو أرقاما تفصيلية لآجال أخرى. ومن المتوقع أن يراقب المستثمرون مستوى عائد الثلاث سنوات والارتفاع العام في عوائد السندات الحكومية لتقييم مسار سوق السندات المحلية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "दक्षिण कोरियाई सरकारी बॉन्ड यील्ड बढ़ी, 3-वर्षीय 3.569% पर",
+        "excerpt": "8 तारीख को सियोल बॉन्ड बाजार में दक्षिण कोरियाई सरकारी बॉन्ड यील्ड व्यापक रूप से बढ़ी। योनहाप के अनुसार, 3-वर्षीय बॉन्ड यील्ड सालाना 3.569% रही।",
+        "body": "8 तारीख को सियोल के बॉन्ड बाजार में दक्षिण कोरियाई सरकारी बॉन्ड यील्ड व्यापक रूप से बढ़ी। योनहाप समाचार एजेंसी के अनुसार, तीन-वर्षीय कोरियाई सरकारी बॉन्ड की यील्ड सालाना 3.569% दर्ज की गई। रिपोर्ट ने बताया कि घरेलू सरकारी बॉन्ड बाजार में प्रमुख परिपक्वता अवधि वाली प्रतिभूतियों की यील्ड एक ही ऊपर की दिशा में चली। बॉन्ड यील्ड आम तौर पर बॉन्ड कीमतों के विपरीत चलती है और बाजार प्रतिभागी ब्याज दरों के रुझान को देखने के लिए इसे संदर्भ मानते हैं। मूल रिपोर्ट में इस वृद्धि की ठोस वजह या अन्य परिपक्वताओं के विस्तृत आंकड़े नहीं दिए गए। निवेशक 3-वर्षीय यील्ड और सरकारी बॉन्ड यील्ड में व्यापक बढ़त पर नजर रखेंगे। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Imbal Hasil Obligasi Korea Naik, Tenor 3 Tahun Capai 3,569%",
+        "excerpt": "Imbal hasil obligasi pemerintah Korea Selatan naik serentak pada tanggal 8, menurut Yonhap, dengan obligasi tenor tiga tahun mencatat yield tahunan 3,569%.",
+        "body": "Imbal hasil obligasi pemerintah Korea Selatan naik serentak pada tanggal 8 di pasar obligasi Seoul. Menurut kantor berita Yonhap, yield obligasi pemerintah Korea Selatan tenor tiga tahun tercatat 3,569% per tahun. Laporan tersebut menyoroti bahwa tenor-tenor utama di pasar obligasi pemerintah domestik bergerak ke arah kenaikan yang sama. Imbal hasil obligasi bergerak berlawanan dengan harga obligasi dan sering menjadi acuan pelaku pasar untuk memantau tren suku bunga. Namun, teks asli tidak memberikan penjelasan rinci mengenai penyebab kenaikan tersebut atau angka detail untuk tenor lainnya. Investor diperkirakan akan mencermati level yield tenor tiga tahun serta kenaikan luas pada obligasi pemerintah. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e822b3e1884f",
+    "slug": "생산-감소에-고유가판매-부진까지창원-미더덕-어민-삼중고-995836",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T00:15:17.827Z",
+    "updatedAt": "2026-05-09T00:15:17.827Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508105700052",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508105700052",
+    "titleFingerprint": "4b6e71ae72cdb1767d2f5618a520bf4a502d0bda",
+    "dedupKeys": [
+      "e822b3e1884f0c6d83f067e10c9ec523c500ed3b",
+      "4b6e71ae72cdb1767d2f5618a520bf4a502d0bda",
+      "dbf9b9f848368b6580619982dfd382b1482c1310"
+    ],
+    "imageUrl": "/images/articles/e822b3e1884f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "전국 생산 70% 창원 미더덕 어민, 고수온 생산 감소·고유가·판매 부진 삼중고",
+        "excerpt": "경남 창원시 마산합포구 진동항 일대 미더덕 어민들이 고수온 피해로 생산량이 줄고, 고유가에 따른 생산비 부담과 판매 부진까지 겹치며 어려움을 겪고 있다.",
+        "body": "경남 창원시 마산합포구 진동항 일대 미더덕 어민들이 생산 감소와 고유가, 판매 부진이라는 삼중고를 겪고 있다. 이 지역은 전국 미더덕 생산량의 약 70%를 차지하는 주요 산지다. 그러나 고수온 피해로 생산량이 줄어든 데다, 기름값 상승으로 조업과 유통에 드는 생산비 부담이 커졌다. 여기에 판매 부진까지 겹치면서 어민들의 경영 압박은 더 커지고 있다. 지역 미더덕 산업은 생산 기반과 소비 흐름을 동시에 살펴야 하는 상황이다. 출처: yna.co.kr."
+      },
+      "en": {
+        "title": "Changwon Sea Squirt Fishers Face Triple Hit From Lower Output, High Fuel Costs and Weak Sales",
+        "excerpt": "Sea squirt fishers around Jindong Port in Masanhappo-gu, Changwon, South Gyeongsang Province, are struggling as high water temperatures cut output while fuel costs and weak sales add pressure.",
+        "body": "Sea squirt fishers around Jindong Port in Masanhappo-gu, Changwon, South Gyeongsang Province, are facing a triple burden of falling production, high fuel prices and sluggish sales. The area accounts for about 70% of South Korea’s sea squirt output, making it a key production base. But damage from high water temperatures has reduced harvests, while rising oil prices have increased costs for fishing and distribution. Weak sales have added to the pressure, deepening the management difficulties for local fishers. The local sea squirt industry now faces strains on both production capacity and consumption. Source: yna.co.kr."
+      },
+      "ja": {
+        "title": "全国生産7割の昌原ホヤ漁業者、生産減・高油価・販売不振で三重苦",
+        "excerpt": "韓国・慶尚南道昌原市馬山合浦区の鎮東港周辺のホヤ漁業者は、高水温被害による生産減に加え、燃料費上昇と販売不振が重なり苦境に立たされている。",
+        "body": "韓国・慶尚南道昌原市馬山合浦区の鎮東港周辺で、ホヤ漁業者が生産減少、高油価、販売不振という三重苦に直面している。この地域は韓国全体のホヤ生産量の約70％を占める主要産地だ。しかし高水温による被害で生産量が減ったうえ、油価上昇により操業や流通にかかる生産費の負担が増している。さらに販売不振も重なり、漁業者の経営圧迫は強まっている。地域のホヤ産業は、生産基盤と消費動向を同時に点検すべき状況にある。出典: yna.co.kr."
+      },
+      "zh": {
+        "title": "占全国产量七成的昌原海鞘渔民，遭遇减产、高油价与销售低迷三重压力",
+        "excerpt": "韩国庆南昌原市马山合浦区镇东港一带海鞘渔民因高水温受损导致产量下降，同时还承受高油价带来的成本负担和销售低迷压力。",
+        "body": "韩国庆尚南道昌原市马山合浦区镇东港一带的海鞘渔民正面临产量下降、高油价和销售低迷的三重压力。该地区约占韩国海鞘总产量的70%，是主要产地。然而，高水温造成损害，使产量减少；同时油价上涨推高了捕捞和流通所需的生产成本。销售不振进一步加重了渔民的经营压力。当地海鞘产业目前需要同时关注生产基础和消费 흐름所受的影响。来源: yna.co.kr."
+      },
+      "es": {
+        "title": "Pescadores de ascidia de Changwon, 70% de la producción nacional, sufren menor producción, alto petróleo y ventas débiles",
+        "excerpt": "Pescadores de ascidia cerca del puerto de Jindong, en Masanhappo-gu, Changwon, afrontan menor producción por altas temperaturas del agua, mayores costos por el petróleo y ventas flojas.",
+        "body": "Los pescadores de ascidia de la zona del puerto de Jindong, en Masanhappo-gu, Changwon, provincia surcoreana de Gyeongsang del Sur, afrontan una triple dificultad: menor producción, altos precios del petróleo y ventas débiles. Esta zona representa alrededor del 70% de la producción nacional de ascidia, por lo que es un centro clave del sector. Sin embargo, los daños por altas temperaturas del agua han reducido la producción, mientras el aumento del precio del petróleo elevó los costos de faena y distribución. La debilidad de las ventas añade más presión a la gestión de los pescadores locales. Fuente: yna.co.kr."
+      },
+      "pt": {
+        "title": "Pescadores de ascídia de Changwon, 70% da produção nacional, enfrentam queda de produção, petróleo caro e vendas fracas",
+        "excerpt": "Pescadores de ascídia perto do porto de Jindong, em Masanhappo-gu, Changwon, sofrem com menor produção por água quente, custos maiores do petróleo e vendas fracas.",
+        "body": "Pescadores de ascídia na região do porto de Jindong, em Masanhappo-gu, Changwon, na província sul-coreana de Gyeongsang do Sul, enfrentam uma tripla dificuldade: queda na produção, preços altos do petróleo e vendas fracas. A área responde por cerca de 70% da produção nacional de ascídia, sendo um polo importante. Mas os danos causados por altas temperaturas da água reduziram a produção, enquanto a alta do petróleo aumentou os custos de pesca e distribuição. A fraqueza nas vendas agravou a pressão sobre a gestão dos pescadores locais. Fonte: yna.co.kr."
+      },
+      "de": {
+        "title": "Seescheiden-Fischer in Changwon, Zentrum von 70% der Produktion, leiden unter Rückgang, hohen Ölpreisen und schwachem Absatz",
+        "excerpt": "Fischer rund um den Hafen Jindong in Masanhappo-gu, Changwon, kämpfen mit geringerer Seescheiden-Produktion durch hohe Wassertemperaturen, höheren Ölkosten und schwachem Absatz.",
+        "body": "Seescheiden-Fischer rund um den Hafen Jindong in Masanhappo-gu, Changwon, in der südkoreanischen Provinz Süd-Gyeongsang, stehen unter dreifachem Druck: sinkende Produktion, hohe Ölpreise und schwacher Absatz. Die Region stellt etwa 70% der landesweiten Seescheiden-Produktion und ist damit ein zentraler Standort. Schäden durch hohe Wassertemperaturen haben jedoch die Erträge verringert. Zugleich treiben steigende Ölpreise die Kosten für Fang und Vertrieb nach oben. Die schwache Nachfrage verschärft die wirtschaftliche Belastung der örtlichen Fischer zusätzlich. Quelle: yna.co.kr."
+      },
+      "fr": {
+        "title": "À Changwon, les pêcheurs d’ascidies, 70% de la production nationale, touchés par baisse, pétrole cher et ventes faibles",
+        "excerpt": "Autour du port de Jindong à Masanhappo-gu, Changwon, les pêcheurs d’ascidies subissent une baisse de production liée aux eaux chaudes, des coûts pétroliers élevés et des ventes faibles.",
+        "body": "Les pêcheurs d’ascidies autour du port de Jindong, à Masanhappo-gu dans la ville de Changwon, province sud-coréenne du Gyeongsang du Sud, font face à une triple difficulté: recul de la production, prix élevés du pétrole et ventes faibles. Cette zone représente environ 70% de la production nationale d’ascidies, ce qui en fait un centre majeur. Mais les dommages liés aux températures élevées de l’eau ont réduit les volumes, tandis que la hausse du pétrole alourdit les coûts de pêche et de distribution. La faiblesse des ventes accentue encore la pression sur les pêcheurs locaux. Source: yna.co.kr."
+      },
+      "ar": {
+        "title": "صيادو الأسيديان في تشانغوون، مركز 70% من الإنتاج الوطني، يواجهون تراجع الإنتاج وارتفاع النفط وضعف المبيعات",
+        "excerpt": "يعاني صيادو الأسيديان قرب ميناء جيندونغ في ماسانهامبو-غو بمدينة تشانغوون من تراجع الإنتاج بسبب ارتفاع حرارة المياه، إلى جانب ارتفاع تكاليف الوقود وضعف المبيعات.",
+        "body": "يواجه صيادو الأسيديان في محيط ميناء جيندونغ بمنطقة ماسانهامبو-غو في مدينة تشانغوون، بمقاطعة غيونغسانغ الجنوبية في كوريا الجنوبية، ضغوطا ثلاثية تتمثل في انخفاض الإنتاج وارتفاع أسعار النفط وضعف المبيعات. وتمثل هذه المنطقة نحو 70% من إنتاج الأسيديان على مستوى البلاد، ما يجعلها مركزا رئيسيا. لكن الأضرار الناجمة عن ارتفاع حرارة المياه خفضت الإنتاج، في حين زادت أسعار النفط المرتفعة تكاليف الصيد والتوزيع. كما أدى ضعف المبيعات إلى زيادة الضغط الإداري على الصيادين المحليين. المصدر: yna.co.kr."
+      },
+      "hi": {
+        "title": "राष्ट्रीय उत्पादन के 70% वाले चांगवोन सी स्क्वर्ट मछुआरे घटते उत्पादन, महंगे तेल और कमजोर बिक्री से दबाव में",
+        "excerpt": "दक्षिण ग्योंगसांग के चांगवोन स्थित मासानहाप्पो-गु के जिंदोंग बंदरगाह क्षेत्र में सी स्क्वर्ट मछुआरे गर्म पानी से उत्पादन घटने, महंगे ईंधन और कमजोर बिक्री से जूझ रहे हैं।",
+        "body": "दक्षिण कोरिया के दक्षिण ग्योंगसांग प्रांत में चांगवोन शहर के मासानहाप्पो-गु स्थित जिंदोंग बंदरगाह क्षेत्र के सी स्क्वर्ट मछुआरे उत्पादन में कमी, ऊंचे तेल दाम और कमजोर बिक्री की तिहरी मार झेल रहे हैं। यह इलाका देश के कुल सी स्क्वर्ट उत्पादन का लगभग 70% हिस्सा देता है और प्रमुख उत्पादन केंद्र है। लेकिन उच्च जल तापमान से हुए नुकसान के कारण उत्पादन घटा है। साथ ही तेल कीमतों में बढ़ोतरी ने मछली पकड़ने और वितरण की लागत बढ़ा दी है। बिक्री सुस्त रहने से स्थानीय मछुआरों पर कारोबारी दबाव और बढ़ गया है। स्रोत: yna.co.kr."
+      },
+      "id": {
+        "title": "Nelayan sea squirt Changwon, penyumbang 70% produksi nasional, tertekan penurunan produksi, minyak mahal dan penjualan lemah",
+        "excerpt": "Nelayan sea squirt di sekitar Pelabuhan Jindong, Masanhappo-gu, Changwon, menghadapi penurunan produksi akibat suhu air tinggi, beban biaya minyak, dan penjualan yang lesu.",
+        "body": "Nelayan sea squirt di sekitar Pelabuhan Jindong, Masanhappo-gu, Changwon, Provinsi Gyeongsang Selatan, Korea Selatan, menghadapi tekanan berlapis: produksi menurun, harga minyak tinggi, dan penjualan lesu. Wilayah ini menyumbang sekitar 70% produksi sea squirt nasional, sehingga menjadi sentra utama. Namun kerusakan akibat suhu air tinggi telah menekan hasil produksi. Pada saat yang sama, kenaikan harga minyak meningkatkan biaya operasi penangkapan dan distribusi. Penjualan yang lemah menambah tekanan usaha bagi nelayan setempat. Sumber: yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "fa6d1cb7fb1c",
+    "slug": "부산-아파트값-강보합세-유지전셋값은-22개월째-상승-328953",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T00:14:14.945Z",
+    "updatedAt": "2026-05-09T00:14:14.945Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508075500051",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508075500051",
+    "titleFingerprint": "13797710c56151b1aa96b137534ae83a37554931",
+    "dedupKeys": [
+      "fa6d1cb7fb1c364a2a9512e2bf098f9799226816",
+      "13797710c56151b1aa96b137534ae83a37554931",
+      "48c09ae8a4c4b6294d04498d2ec979ab82f1bd2f"
+    ],
+    "imageUrl": "/images/articles/fa6d1cb7fb1c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부산 아파트값 강보합세 유지, 전셋값 22개월 연속 상승 흐름 주목",
+        "excerpt": "연합뉴스 보도에 따르면 부산 아파트 매매가격은 강보합세를 유지했고 전셋값은 22개월째 상승해 지역 주택시장 흐름에 관심이 이어지고 있다.",
+        "body": "부산의 아파트 매매가격이 최근 강보합세를 유지하고 있는 것으로 전해졌다. 연합뉴스 민영규 기자의 부산발 보도에 따르면 부산 지역 아파트 시장에서는 매매가격이 큰 폭의 변동 없이 비교적 견조한 흐름을 이어가고 있다. 같은 보도에서 전셋값은 22개월째 상승세를 기록한 것으로 소개됐다. 이는 매매시장과 임대시장이 서로 다른 속도로 움직이는 가운데, 전세 수요와 가격 흐름이 지역 주택시장 판단의 주요 변수로 남아 있음을 보여준다. 향후 부산 아파트 시장에서는 매매가격의 강보합세 지속 여부와 전셋값 상승 흐름이 함께 주목될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Busan Apartment Prices Stay Firm as Jeonse Rents Rise for 22nd Month",
+        "excerpt": "According to Yonhap News, Busan apartment sale prices remained firm while jeonse rents climbed for a 22nd straight month, keeping attention on the local housing market.",
+        "body": "Apartment sale prices in Busan are reported to be maintaining a firm but mostly steady trend. According to a Busan-datelined Yonhap News report by Min Young-gyu, the city’s apartment market has continued to show relatively stable movement in transaction prices without a sharp swing. The same report said jeonse rental prices have risen for 22 consecutive months. The figures highlight how Busan’s sales and rental markets are moving at different paces, with rental demand and price trends remaining important indicators for judging the local housing market. Going forward, attention is expected to stay on whether apartment sale prices keep their firm tone and whether jeonse rents continue rising. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "釜山マンション価格は強含み横ばい、チョンセ価格は22カ月連続上昇",
+        "excerpt": "聯合ニュースによると、釜山のマンション売買価格は強含み横ばいを維持し、チョンセ価格は22カ月連続で上昇している。",
+        "body": "釜山のマンション売買価格は、最近も強含みの横ばい基調を維持していると伝えられた。聯合ニュースの釜山発、ミン・ヨンギュ記者の報道によると、釜山地域のマンション市場では売買価格が大きく変動せず、比較的底堅い流れを続けている。同じ報道では、チョンセ価格が22カ月連続で上昇したことも紹介された。これは売買市場と賃貸市場が異なる速度で動くなか、チョンセ需要と価格の推移が地域住宅市場を判断する重要な材料であり続けていることを示す。今後は、釜山のマンション売買価格の強含み横ばいが続くか、チョンセ価格の上昇が続くかが注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "釜山公寓价格维持偏强平稳，全租房价连续22个月上涨",
+        "excerpt": "据韩联社报道，釜山公寓买卖价格维持偏强平稳走势，全租房价格已连续22个月上涨，地方住房市场动向受关注。",
+        "body": "据报道，釜山公寓买卖价格近期维持偏强平稳走势。韩联社记者闵泳奎发自釜山的报道显示，釜山地区公寓市场的买卖价格未出现大幅波动，整体延续相对稳健的 흐름。与此同时，报道还提到，全租房价格已连续22个月上涨。这表明在买卖市场和租赁市场以不同节奏运行的情况下，全租需求和价格走势仍是判断当地住房市场的重要变量。今后，釜山公寓买卖价格能否继续保持偏强平稳，以及全租房价格上涨趋势是否延续，将继续受到关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Precios de apartamentos en Busan se mantienen firmes y jeonse sube 22 meses",
+        "excerpt": "Según Yonhap, los precios de venta de apartamentos en Busan mantuvieron una tendencia firme, mientras los alquileres jeonse subieron por 22 meses consecutivos.",
+        "body": "Los precios de venta de apartamentos en Busan se mantienen en una tendencia firme y relativamente estable, según se informó. De acuerdo con una nota de Yonhap News fechada en Busan y firmada por Min Young-gyu, el mercado local de apartamentos ha seguido mostrando movimientos contenidos, sin grandes variaciones en los precios de compraventa. El mismo reporte señaló que los precios del jeonse, el sistema coreano de alquiler con depósito, han subido durante 22 meses consecutivos. Esto muestra que los mercados de venta y alquiler avanzan a ritmos distintos, mientras la demanda y los precios del jeonse siguen siendo variables clave para evaluar la vivienda en la región. En adelante, la atención seguirá puesta en si los precios de venta mantienen su firmeza y si el jeonse continúa al alza. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Apartamentos em Busan seguem firmes e jeonse sobe pelo 22º mês seguido",
+        "excerpt": "Segundo a Yonhap, os preços de venda de apartamentos em Busan mantiveram firmeza, enquanto os aluguéis jeonse subiram pelo 22º mês consecutivo.",
+        "body": "Os preços de venda de apartamentos em Busan seguem em uma trajetória firme e relativamente estável, segundo foi informado. De acordo com reportagem da Yonhap News assinada por Min Young-gyu em Busan, o mercado local de apartamentos mantém movimento consistente, sem grande oscilação nos preços de compra e venda. A mesma notícia informou que os preços do jeonse, modalidade coreana de aluguel com depósito, avançaram pelo 22º mês consecutivo. O quadro mostra que os mercados de venda e locação caminham em ritmos diferentes, enquanto a demanda e os preços do jeonse continuam sendo variáveis relevantes para avaliar o mercado residencial regional. Daqui em diante, a atenção deve se concentrar na continuidade da firmeza dos preços de venda e da alta do jeonse. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Wohnungspreise in Busan bleiben fest, Jeonse-Mieten steigen seit 22 Monaten",
+        "excerpt": "Laut Yonhap bleiben die Verkaufspreise für Wohnungen in Busan fest, während die Jeonse-Mieten seit 22 Monaten in Folge steigen und den Markt prägen.",
+        "body": "Die Verkaufspreise für Wohnungen in Busan halten sich Berichten zufolge weiterhin fest und weitgehend stabil. Nach einem Bericht von Yonhap News aus Busan von Min Young-gyu zeigt der dortige Apartmentmarkt keine starken Ausschläge bei den Kaufpreisen, sondern setzt einen vergleichsweise robusten Trend fort. In demselben Bericht heißt es, dass die Jeonse-Mieten bereits den 22. Monat in Folge gestiegen sind. Dies verdeutlicht, dass sich Kauf- und Mietmarkt in Busan mit unterschiedlicher Dynamik bewegen, während Nachfrage und Preisentwicklung im Jeonse-Segment wichtige Faktoren für die Einschätzung des regionalen Wohnungsmarkts bleiben. Künftig dürfte der Fokus darauf liegen, ob die festen Kaufpreise anhalten und ob die Jeonse-Mieten weiter steigen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "À Busan, les prix des appartements restent fermes et le jeonse monte 22 mois",
+        "excerpt": "Selon Yonhap, les prix de vente des appartements à Busan restent fermes, tandis que les loyers jeonse progressent pour le 22e mois consécutif.",
+        "body": "Les prix de vente des appartements à Busan conserveraient une tendance ferme et relativement stable. Selon un reportage de Yonhap News depuis Busan, signé par Min Young-gyu, le marché local des appartements continue d’évoluer sans forte variation des prix de transaction. Le même article indique que les prix du jeonse, système coréen de location avec dépôt, ont augmenté pour le 22e mois consécutif. Cette situation montre que les marchés de la vente et de la location avancent à des rythmes différents, tandis que la demande et les prix du jeonse restent des variables importantes pour évaluer le marché immobilier résidentiel de la région. L’attention devrait désormais porter sur la poursuite de la fermeté des prix de vente et de la hausse du jeonse. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أسعار شقق بوسان تبقى متماسكة وإيجارات الجونسي ترتفع للشهر 22",
+        "excerpt": "بحسب يونهاب، حافظت أسعار بيع الشقق في بوسان على اتجاه متماسك، فيما واصلت أسعار الجونسي الارتفاع للشهر الثاني والعشرين على التوالي.",
+        "body": "تفيد التقارير بأن أسعار بيع الشقق في بوسان تواصل الحفاظ على اتجاه متماسك ومستقر نسبيا. ووفقا لتقرير لوكالة يونهاب من بوسان أعده الصحفي مين يونغ-غيو، فإن سوق الشقق في المدينة لم يشهد تقلبات كبيرة في أسعار البيع، بل واصل حركة قوية نسبيا. وذكر التقرير نفسه أن أسعار الجونسي، وهو نظام الإيجار الكوري القائم على وديعة كبيرة، ارتفعت للشهر الثاني والعشرين على التوالي. ويظهر ذلك أن سوقي البيع والإيجار يتحركان بسرعات مختلفة، بينما تبقى حركة الطلب وأسعار الجونسي عاملا مهما في تقييم سوق السكن المحلي. ومن المتوقع أن يتركز الاهتمام لاحقا على ما إذا كانت أسعار البيع ستواصل تماسكها وما إذا كان ارتفاع الجونسي سيستمر. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "बुसान अपार्टमेंट कीमतें स्थिर-मजबूत, जोंसे किराया 22वें महीने बढ़ा",
+        "excerpt": "योनहाप के अनुसार, बुसान में अपार्टमेंट बिक्री कीमतें मजबूत स्थिर रहीं, जबकि जोंसे किराया लगातार 22वें महीने बढ़ा और स्थानीय आवास बाजार पर ध्यान बना रहा।",
+        "body": "बुसान में अपार्टमेंट की बिक्री कीमतें हाल में मजबूत लेकिन अपेक्षाकृत स्थिर रुझान बनाए हुए हैं। योनहाप न्यूज की बुसान से मिन यंग-ग्यू द्वारा भेजी गई रिपोर्ट के अनुसार, स्थानीय अपार्टमेंट बाजार में खरीद-बिक्री कीमतों में बड़ा उतार-चढ़ाव नहीं दिखा और प्रवाह अपेक्षाकृत ठोस बना रहा। उसी रिपोर्ट में कहा गया कि जोंसे, यानी बड़े जमा पर आधारित कोरियाई किराया प्रणाली, की कीमतें लगातार 22 महीनों से बढ़ रही हैं। इससे पता चलता है कि बिक्री और किराया बाजार अलग-अलग गति से चल रहे हैं, जबकि जोंसे की मांग और मूल्य प्रवृत्ति स्थानीय आवास बाजार को समझने का प्रमुख आधार बनी हुई है। आगे नजर इस पर रहेगी कि बिक्री कीमतों की मजबूती बनी रहती है या नहीं और जोंसे की बढ़त जारी रहती है या नहीं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Harga Apartemen Busan Tetap Kuat, Jeonse Naik Selama 22 Bulan",
+        "excerpt": "Menurut Yonhap, harga jual apartemen di Busan tetap kuat dan stabil, sementara harga sewa jeonse naik selama 22 bulan berturut-turut.",
+        "body": "Harga jual apartemen di Busan dilaporkan tetap berada dalam tren kuat dan relatif stabil. Menurut laporan Yonhap News dari Busan oleh Min Young-gyu, pasar apartemen di wilayah tersebut terus bergerak cukup kokoh tanpa perubahan besar pada harga jual-beli. Laporan yang sama menyebutkan bahwa harga jeonse, sistem sewa Korea berbasis deposit besar, telah naik selama 22 bulan berturut-turut. Kondisi ini menunjukkan bahwa pasar jual-beli dan pasar sewa bergerak dengan kecepatan berbeda, sementara permintaan dan tren harga jeonse tetap menjadi faktor penting dalam menilai pasar perumahan lokal. Ke depan, perhatian akan tertuju pada apakah harga jual apartemen tetap kuat dan apakah kenaikan jeonse berlanjut. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "a4d2bb38b251",
     "slug": "해외건설-중소중견기업-대상-분쟁-대응-컨설팅-지원-확대-852567",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Welcron Hantec Umumkan Penyelesaian Kantor Pusat Baru Animotiontec di Songdo",
         "excerpt": "Welcron Hantec mengumumkan penyelesaian kantor pusat baru Animotiontec di Songdo. Berdasarkan Hankyung.com, fakta yang terkonfirmasi adalah penyelesaian gedung; tanggal, skala, dan investasi tidak tercantum dalam teks sumber.",
         "body": "Welcron Hantec mengumumkan penyelesaian kantor pusat baru Animotiontec di Songdo. Menurut Hankyung.com, inti berita ini adalah bahwa Animotiontec telah menyelesaikan gedung kantor baru di Songdo. Teks asli yang diberikan tidak memuat data tambahan seperti tanggal pasti peresmian, ukuran bangunan, nilai investasi, atau jumlah penghuni. Karena itu, informasi yang dapat diverifikasi terbatas pada Welcron Hantec, Animotiontec, dan penyelesaian kantor pusat baru di Songdo. Penyelesaian ini dapat dipahami sebagai perkembangan terkait basis perusahaan Animotiontec, tetapi sumber tidak menyebutkan dampak ke depan terhadap produksi, penjualan, atau kinerja. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "00dfa4bd3b08",
-    "slug": "한국콜마-분석-최고-영업이익률-기록주목해야-할-3가지-관전-포인트는-926499",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T14:19:48.843Z",
-    "updatedAt": "2026-05-08T14:19:48.843Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084334i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084334i",
-    "titleFingerprint": "6d37cf329e8af3c38d769d393a13169f0b137acf",
-    "dedupKeys": [
-      "00dfa4bd3b0819489268c5a769141a7258c77e6d",
-      "6d37cf329e8af3c38d769d393a13169f0b137acf",
-      "340fb4aa565a1d2d8a1c2e572e96047c10e01fcb"
-    ],
-    "imageUrl": "/images/articles/00dfa4bd3b08.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국콜마 최고 영업이익률 기록, 투자자가 주목할 3가지 포인트",
-        "excerpt": "한국콜마가 최고 영업이익률을 기록했다는 분석이 나오며 실적 개선의 배경과 향후 관전 포인트에 시장 관심이 모이고 있다.",
-        "body": "한국콜마가 최고 영업이익률을 기록했다는 분석이 제기되며 투자자들의 관심이 실적 흐름에 집중되고 있다. 이번 분석은 한국콜마의 수익성 개선이 부각됐다는 점에서 의미가 있다. 원문은 한국콜마를 둘러싼 핵심 관전 포인트로 3가지를 제시했지만, 제공된 정보상 구체적 항목과 수치는 확인되지 않는다. 이에 따라 현재 확인 가능한 사실은 한국콜마가 최고 영업이익률을 기록했다는 분석이 나왔고, 시장이 향후 실적 지속성과 주요 변수에 주목하고 있다는 점이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Kolmar Korea Posts Record Operating Margin: 3 Points to Watch",
-        "excerpt": "An analysis says Kolmar Korea recorded its highest operating margin, drawing market attention to its earnings improvement and key points ahead.",
-        "body": "Kolmar Korea has drawn investor attention after an analysis said the company recorded its highest operating margin. The report is notable because it highlights improved profitability at Kolmar Korea. The original article presents three key points to watch, but the specific items and figures are not available in the provided source text. Based on the confirmed information, Kolmar Korea was analyzed as having achieved a record operating margin, while the market is watching whether its earnings momentum can continue and which factors may matter next. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "韓国コルマーが最高営業利益率、注目すべき3つの焦点",
-        "excerpt": "韓国コルマーが最高営業利益率を記録したとの分析が示され、収益性改善の背景と今後の注目点に市場の関心が集まっている。",
-        "body": "韓国コルマーが最高営業利益率を記録したとの分析が出され、投資家の関心が業績の流れに向かっている。今回の分析は、韓国コルマーの収益性改善が浮き彫りになった点で意味がある。原文は韓国コルマーを巡る主な注目点として3点を提示しているが、提供された情報では具体的な項目や数値は確認できない。現時点で確認できる事実は、韓国コルマーが最高営業利益率を記録したとの分析が出たこと、そして市場が今後の業績持続性と主要変数に注目していることだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Kolmar Korea创最高营业利润率，三大看点受关注",
-        "excerpt": "有分析称Kolmar Korea录得最高营业利润率，市场关注其盈利能力改善背景以及后续值得观察的关键因素。",
-        "body": "有分析指出，Kolmar Korea录得最高营业利润率，投资者对其业绩走势的关注升温。此次分析的意义在于凸显了Kolmar Korea盈利能力改善。原文提出了围绕Kolmar Korea值得关注的三大看点，但根据所提供的信息，具体项目和数值尚无法确认。因此，目前可确认的事实是，Kolmar Korea被分析为创下最高营业利润率，市场正关注其业绩动能能否延续以及后续主要变量。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Kolmar Korea alcanza margen operativo récord: 3 claves a vigilar",
-        "excerpt": "Un análisis señala que Kolmar Korea registró su mayor margen operativo, lo que centra la atención del mercado en su mejora de rentabilidad.",
-        "body": "Kolmar Korea atrae la atención de los inversores después de que un análisis indicara que la empresa registró su mayor margen operativo. El dato es relevante porque subraya una mejora de la rentabilidad de Kolmar Korea. El artículo original plantea tres puntos clave a seguir, pero la información facilitada no permite confirmar cuáles son ni sus cifras concretas. Con los datos disponibles, el hecho confirmado es que Kolmar Korea fue analizada como una compañía que alcanzó un margen operativo récord, mientras el mercado observa la continuidad de sus resultados y las variables principales. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Kolmar Korea atinge margem operacional recorde: 3 pontos de atenção",
-        "excerpt": "Uma análise aponta que a Kolmar Korea registrou sua maior margem operacional, atraindo atenção para a melhora de rentabilidade e próximos fatores-chave.",
-        "body": "A Kolmar Korea passou a chamar a atenção de investidores após uma análise indicar que a empresa registrou sua maior margem operacional. O ponto é relevante porque destaca uma melhora na rentabilidade da Kolmar Korea. O texto original apresenta três pontos principais de observação, mas as informações fornecidas não permitem confirmar quais são eles nem os números específicos. Assim, o fato verificável é que a Kolmar Korea foi analisada como tendo alcançado margem operacional recorde, enquanto o mercado observa a continuidade dos resultados e as principais variáveis futuras. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Kolmar Korea mit Rekord-Betriebsmarge: 3 Punkte im Fokus",
-        "excerpt": "Eine Analyse sieht Kolmar Korea bei der höchsten Betriebsmarge, wodurch Rentabilitätsverbesserung und weitere Beobachtungspunkte in den Fokus rücken.",
-        "body": "Kolmar Korea rückt in den Blick der Anleger, nachdem eine Analyse dem Unternehmen die höchste Betriebsmarge zuschreibt. Bedeutend ist dies, weil die verbesserte Profitabilität von Kolmar Korea hervorgehoben wird. Der Originalartikel nennt drei zentrale Beobachtungspunkte, doch die bereitgestellten Informationen enthalten keine konkreten Punkte oder Zahlen. Bestätigt ist daher nur, dass Kolmar Korea laut Analyse eine Rekord-Betriebsmarge erreicht hat und der Markt nun auf die Nachhaltigkeit der Ergebnisentwicklung sowie wichtige Einflussfaktoren achtet. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Kolmar Korea signe une marge opérationnelle record: 3 points à suivre",
-        "excerpt": "Une analyse indique que Kolmar Korea a atteint sa plus forte marge opérationnelle, attirant l’attention sur sa rentabilité et les facteurs à surveiller.",
-        "body": "Kolmar Korea attire l’attention des investisseurs après une analyse indiquant que l’entreprise a enregistré sa plus forte marge opérationnelle. Cette analyse est importante car elle met en avant l’amélioration de la rentabilité de Kolmar Korea. L’article original évoque trois points clés à surveiller, mais les informations fournies ne permettent pas d’en confirmer le détail ni les chiffres. Le fait vérifiable est donc que Kolmar Korea est analysée comme ayant atteint une marge opérationnelle record, tandis que le marché suit la durabilité des résultats et les principales variables à venir. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كولمار كوريا تسجل أعلى هامش تشغيلي: 3 نقاط تحت المتابعة",
-        "excerpt": "أشار تحليل إلى أن كولمار كوريا سجلت أعلى هامش تشغيلي، ما يلفت انتباه السوق إلى تحسن الربحية والعوامل المقبلة المهمة.",
-        "body": "حظيت كولمار كوريا باهتمام المستثمرين بعد تحليل ذكر أن الشركة سجلت أعلى هامش تشغيلي لها. وتكمن أهمية هذا التحليل في أنه يبرز تحسن ربحية كولمار كوريا. ويعرض النص الأصلي ثلاث نقاط رئيسية تستحق المتابعة، لكن المعلومات المتاحة لا توضح هذه النقاط أو الأرقام المحددة. لذلك فإن الحقيقة المؤكدة حاليا هي أن كولمار كوريا وُصفت في التحليل بأنها حققت هامشا تشغيليا قياسيا، بينما يراقب السوق مدى استمرار زخم الأرباح والمتغيرات الرئيسية المقبلة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Kolmar Korea का ऑपरेटिंग मार्जिन रिकॉर्ड ऊंचाई पर, 3 बिंदु अहम",
-        "excerpt": "एक विश्लेषण के अनुसार Kolmar Korea ने अपना सर्वोच्च ऑपरेटिंग मार्जिन दर्ज किया, जिससे लाभप्रदता सुधार और आगे के प्रमुख बिंदुओं पर ध्यान गया।",
-        "body": "Kolmar Korea निवेशकों के ध्यान में है, क्योंकि एक विश्लेषण में कहा गया कि कंपनी ने अपना सर्वोच्च ऑपरेटिंग मार्जिन दर्ज किया। यह विश्लेषण इसलिए महत्वपूर्ण है क्योंकि इसमें Kolmar Korea की लाभप्रदता में सुधार को रेखांकित किया गया है। मूल लेख में देखने योग्य तीन प्रमुख बिंदु बताए गए हैं, लेकिन उपलब्ध जानकारी में उनके具体 विवरण या आंकड़े नहीं दिए गए हैं। इसलिए अभी पुष्टि योग्य तथ्य यही है कि Kolmar Korea को रिकॉर्ड ऑपरेटिंग मार्जिन हासिल करने वाली कंपनी के रूप में विश्लेषित किया गया है और बाजार आगे आय की निरंतरता तथा प्रमुख कारकों पर नजर रख रहा है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Kolmar Korea Catat Margin Operasi Tertinggi, 3 Poin Jadi Sorotan",
-        "excerpt": "Sebuah analisis menyebut Kolmar Korea mencatat margin operasi tertinggi, membuat pasar menyoroti perbaikan profitabilitas dan faktor berikutnya.",
-        "body": "Kolmar Korea menjadi perhatian investor setelah sebuah analisis menyebut perusahaan mencatat margin operasi tertinggi. Analisis ini penting karena menyoroti perbaikan profitabilitas Kolmar Korea. Artikel asli menyajikan tiga poin utama yang perlu diperhatikan, tetapi informasi yang diberikan tidak memuat rincian poin tersebut maupun angka spesifik. Dengan demikian, fakta yang dapat dikonfirmasi saat ini adalah Kolmar Korea dianalisis telah mencapai margin operasi rekor, sementara pasar mencermati keberlanjutan kinerja laba dan variabel utama ke depan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "6c2a10eddbed",
-    "slug": "성광벤드-분석-실적-충격에-주가-급락했지만-구조적-멀티플-상승-초입-평가-581205",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T14:19:01.589Z",
-    "updatedAt": "2026-05-08T14:19:01.589Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084485i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084485i",
-    "titleFingerprint": "7b68db9f90ced6fe7ef07ea364d017d2635afcad",
-    "dedupKeys": [
-      "6c2a10eddbedb265fa9138dd57e048ec431970a0",
-      "7b68db9f90ced6fe7ef07ea364d017d2635afcad",
-      "9b24587d277a3cf8619a88a8c6e79664bf146e8a"
-    ],
-    "imageUrl": "/images/articles/6c2a10eddbed.jpg",
-    "i18n": {
-      "ko": {
-        "title": "성광벤드, 실적 충격에 주가 급락…구조적 멀티플 상승 초입 평가",
-        "excerpt": "성광벤드는 실적 충격 이후 주가가 급락했지만, hankyung.com은 이를 구조적 멀티플 상승 초입으로 평가하며 투자자 관심이 이어진다고 전했다.",
-        "body": "성광벤드는 최근 실적 충격으로 주가가 급락했지만, hankyung.com은 이를 ‘구조적 멀티플 상승 초입’으로 평가했다. 보도에 따르면 시장은 단기 실적 부진과 주가 하락을 먼저 반영했으나, 기업가치 재평가 가능성도 함께 주목하고 있다. 핵심은 실적 충격이 단기 악재로 작용하는 가운데, 향후 밸류에이션이 구조적으로 높아질 수 있다는 분석이다. 다만 원문에서 구체적인 실적 수치나 목표주가, 변동률은 제시되지 않았다. 투자자들은 주가 급락 이후 실적 회복 여부와 멀티플 상승 평가가 실제 시장 가격에 반영될지를 지켜보는 국면이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "SungKwang Bend Shares Slump on Earnings Shock, but Multiple Re-rating Seen Early",
-        "excerpt": "SungKwang Bend’s stock fell sharply after an earnings shock, but hankyung.com said the move is being viewed as an early stage of structural multiple expansion.",
-        "body": "SungKwang Bend recently saw its share price fall sharply after an earnings shock, but hankyung.com described the situation as the “early stage of structural multiple expansion.” According to the report, the market first reflected short-term earnings weakness and the stock decline, while also paying attention to the possibility of a re-rating in corporate value. The key point is that the earnings shock acted as a near-term negative, yet analysts cited in the original view see room for valuation multiples to rise structurally. The original article did not provide specific earnings figures, target prices or percentage moves. Investors are now watching whether earnings recover and whether the multiple-expansion view is reflected in the market price. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ソングァンベンド、業績ショックで株価急落も構造的マルチプル上昇の初期局面との評価",
-        "excerpt": "ソングァンベンドは業績ショック後に株価が急落したが、hankyung.comは構造的なマルチプル上昇の初期局面と評価したと伝えた。",
-        "body": "ソングァンベンドは最近、業績ショックを受けて株価が急落したが、hankyung.comはこれを「構造的なマルチプル上昇の初期局面」と評価した。報道によると、市場は短期的な業績不振と株価下落をまず織り込んだ一方、企業価値の再評価可能性にも注目している。焦点は、業績ショックが短期的な悪材料として作用するなかで、今後バリュエーションが構造的に高まる可能性があるという分析だ。ただし原文では、具体的な業績数値や目標株価、変動率は示されていない。投資家は株価急落後、業績回復の有無とマルチプル上昇評価が実際の市場価格に反映されるかを見守る局面にある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "成光弯头业绩冲击致股价急跌，但被评为结构性估值倍数上升初期",
-        "excerpt": "成光弯头在业绩冲击后股价急跌，但hankyung.com称，市场将其评价为结构性估值倍数上升的初期阶段。",
-        "body": "成光弯头近期因业绩冲击导致股价急跌，但hankyung.com将其评价为“结构性估值倍数上升的初期阶段”。报道称，市场首先反映了短期业绩疲弱和股价下跌，同时也关注企业价值重新评估的可能性。核心在于，业绩冲击虽作为短期利空发挥作用，但未来估值水平可能出现结构性提升。原文并未提供具体业绩数据、目标股价或涨跌幅。投资者目前正关注股价急跌后业绩能否恢复，以及估值倍数上升的评价是否会实际反映到市场价格中。来源: hankyung.com"
-      },
-      "es": {
-        "title": "SungKwang Bend cae por shock de resultados, aunque ven inicio de expansión estructural de múltiplos",
-        "excerpt": "SungKwang Bend sufrió una fuerte caída bursátil tras un shock de resultados, pero hankyung.com lo evaluó como una fase inicial de expansión estructural de múltiplos.",
-        "body": "SungKwang Bend registró recientemente una fuerte caída de su acción tras un shock de resultados, pero hankyung.com evaluó la situación como el “inicio de una expansión estructural de múltiplos”. Según el reporte, el mercado reflejó primero la debilidad de corto plazo en los resultados y la baja de la acción, aunque también observa la posibilidad de una reevaluación del valor corporativo. El punto central es que el shock de resultados actúa como factor negativo de corto plazo, mientras se plantea que la valoración podría elevarse de forma estructural. El texto original no presentó cifras concretas de resultados, precio objetivo ni variación porcentual. Los inversionistas siguen atentos a si los resultados se recuperan y si esa evaluación se refleja en el precio de mercado. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "SungKwang Bend cai após choque nos resultados, mas é vista no início de alta estrutural de múltiplos",
-        "excerpt": "A ação da SungKwang Bend caiu fortemente após um choque nos resultados, mas o hankyung.com avaliou o movimento como início de expansão estrutural de múltiplos.",
-        "body": "A SungKwang Bend viu recentemente suas ações caírem com força após um choque nos resultados, mas o hankyung.com avaliou o quadro como o “início de uma expansão estrutural de múltiplos”. Segundo a reportagem, o mercado primeiro refletiu a fraqueza de curto prazo nos resultados e a queda das ações, ao mesmo tempo em que passou a observar a possibilidade de reavaliação do valor da empresa. O ponto central é que o choque nos resultados atua como fator negativo de curto prazo, mas há análise de que a avaliação pode subir de forma estrutural. O texto original não apresentou números específicos de resultados, preço-alvo ou percentual de variação. Investidores acompanham se haverá recuperação dos resultados e se a avaliação de alta dos múltiplos será refletida no preço de mercado. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "SungKwang Bend nach Ergebnisschock schwach, doch strukturelle Multiple-Ausweitung gesehen",
-        "excerpt": "SungKwang Bend brach nach einem Ergebnisschock an der Börse ein, doch hankyung.com wertete dies als frühe Phase einer strukturellen Multiple-Ausweitung.",
-        "body": "SungKwang Bend verzeichnete zuletzt nach einem Ergebnisschock einen deutlichen Kursrückgang, doch hankyung.com bewertete die Lage als „frühe Phase einer strukturellen Multiple-Ausweitung“. Dem Bericht zufolge preiste der Markt zunächst die kurzfristige Ergebnisschwäche und den Kursrückgang ein, beachtet aber zugleich die Möglichkeit einer Neubewertung des Unternehmenswerts. Entscheidend ist, dass der Ergebnisschock kurzfristig negativ wirkt, während künftig eine strukturell höhere Bewertung möglich sein könnte. Der Originaltext nannte keine konkreten Ergebniszahlen, Kursziele oder prozentualen Veränderungen. Anleger beobachten nun, ob sich die Ergebnisse erholen und ob die Einschätzung steigender Multiples tatsächlich im Marktpreis sichtbar wird. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "SungKwang Bend chute après un choc de résultats, mais une expansion structurelle des multiples est évoquée",
-        "excerpt": "L’action SungKwang Bend a fortement reculé après un choc de résultats, mais hankyung.com y voit le début d’une expansion structurelle des multiples.",
-        "body": "SungKwang Bend a récemment vu son action chuter fortement après un choc de résultats, mais hankyung.com a décrit la situation comme le “début d’une expansion structurelle des multiples”. Selon l’article, le marché a d’abord intégré la faiblesse de court terme des résultats et la baisse du titre, tout en surveillant aussi la possibilité d’une réévaluation de la valeur de l’entreprise. L’enjeu central est que le choc de résultats agit comme un facteur négatif à court terme, tandis que la valorisation pourrait augmenter de manière structurelle par la suite. Le texte original ne fournit pas de chiffres précis de résultats, d’objectif de cours ni de variation en pourcentage. Les investisseurs observent désormais si les résultats se redressent et si cette appréciation des multiples se reflète dans le prix de marché. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سونغكوانغ بند تهبط بعد صدمة الأرباح لكن التقييم يشير إلى بداية توسع هيكلي في المضاعفات",
-        "excerpt": "تراجعت أسهم سونغكوانغ بند بقوة بعد صدمة في النتائج، لكن hankyung.com وصف الوضع بأنه مرحلة مبكرة من توسع هيكلي في مضاعفات التقييم.",
-        "body": "شهدت سونغكوانغ بند مؤخرا هبوطا حادا في سعر سهمها بعد صدمة في النتائج، لكن hankyung.com قيّم الوضع على أنه «بداية توسع هيكلي في مضاعفات التقييم». ووفقا للتقرير، عكس السوق أولا ضعف النتائج على المدى القصير وتراجع السهم، لكنه يراقب أيضا احتمال إعادة تقييم قيمة الشركة. النقطة الأساسية هي أن صدمة النتائج تمثل عاملا سلبيا قصير الأجل، في حين قد ترتفع مستويات التقييم هيكليا في الفترة المقبلة. ولم يقدم النص الأصلي أرقاما محددة للنتائج أو سعرا مستهدفا أو نسبة تغير في السهم. ويراقب المستثمرون الآن ما إذا كانت النتائج ستتعافى وما إذا كان تقييم ارتفاع المضاعفات سينعكس فعليا في سعر السوق. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "SungKwang Bend नतीजों के झटके से फिसला, पर संरचनात्मक मल्टिपल बढ़ोतरी की शुरुआती राय",
-        "excerpt": "SungKwang Bend का शेयर नतीजों के झटके के बाद तेज गिरा, लेकिन hankyung.com ने इसे संरचनात्मक मल्टिपल विस्तार की शुरुआती अवस्था बताया।",
-        "body": "SungKwang Bend के शेयर में हाल में नतीजों के झटके के बाद तेज गिरावट आई, लेकिन hankyung.com ने इसे “संरचनात्मक मल्टिपल विस्तार की शुरुआती अवस्था” के रूप में आंका। रिपोर्ट के अनुसार, बाजार ने पहले अल्पकालिक आय कमजोरी और शेयर गिरावट को समाहित किया, साथ ही कंपनी के मूल्य के पुनर्मूल्यांकन की संभावना पर भी ध्यान दिया। मुख्य बात यह है कि नतीजों का झटका निकट अवधि में नकारात्मक कारक है, लेकिन आगे वैल्यूएशन मल्टिपल संरचनात्मक रूप से बढ़ सकते हैं। मूल लेख में विशिष्ट नतीजा आंकड़े, लक्ष्य मूल्य या प्रतिशत बदलाव नहीं दिए गए। निवेशक अब देख रहे हैं कि आय में सुधार होता है या नहीं और मल्टिपल बढ़ोतरी का आकलन बाजार मूल्य में झलकता है या नहीं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "SungKwang Bend jatuh karena kejutan kinerja, tetapi dinilai awal kenaikan struktural multiple",
-        "excerpt": "Saham SungKwang Bend anjlok setelah kejutan kinerja, tetapi hankyung.com menilai kondisi ini sebagai tahap awal ekspansi multiple secara struktural.",
-        "body": "SungKwang Bend baru-baru ini mengalami penurunan tajam harga saham setelah kejutan kinerja, tetapi hankyung.com menilai kondisi itu sebagai “tahap awal ekspansi multiple secara struktural”. Menurut laporan tersebut, pasar lebih dulu mencerminkan pelemahan kinerja jangka pendek dan penurunan saham, sambil juga memperhatikan peluang penilaian ulang nilai perusahaan. Intinya, kejutan kinerja menjadi faktor negatif jangka pendek, namun valuasi dinilai berpotensi meningkat secara struktural ke depan. Artikel asli tidak menyajikan angka kinerja, target harga, atau persentase perubahan secara spesifik. Investor kini mencermati apakah kinerja pulih dan apakah penilaian kenaikan multiple benar-benar tercermin dalam harga pasar. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "795b4ef8b9b3",
-    "slug": "와이지엔터테인먼트-분석-올해-주가-27-밀렸지만-상저하고-뚜렷할-것-전망-442412",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-08T14:17:55.398Z",
-    "updatedAt": "2026-05-08T14:17:55.399Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084529i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084529i",
-    "titleFingerprint": "02d3326d22d182866f05ec0dad5168e8767b0c03",
-    "dedupKeys": [
-      "795b4ef8b9b321e0a943e9ce3c3272e548edc018",
-      "02d3326d22d182866f05ec0dad5168e8767b0c03",
-      "7e35d76ba432a94279e48b007666f6f27c2d1382"
-    ],
-    "imageUrl": "/images/articles/795b4ef8b9b3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "와이지엔터테인먼트 주가 올해 27% 하락, ‘상저하고’ 전망 주목",
-        "excerpt": "hankyung.com은 와이지엔터테인먼트 분석에서 올해 주가가 27% 밀렸지만 하반기 개선 흐름이 뚜렷할 것이라는 전망이 제시됐다고 전했다.",
-        "body": "와이지엔터테인먼트에 대한 분석에서 올해 주가가 27% 하락했지만 향후 흐름은 ‘상저하고’가 뚜렷할 것이라는 전망이 제시됐다. 보도에 따르면 이번 분석은 연초 이후 주가 부진에도 불구하고 하반기 회복 가능성에 초점을 맞췄다. 핵심 수치는 올해 주가가 27% 밀렸다는 점이며, 시장의 관심은 이 하락세가 하반기 개선 전망으로 전환될 수 있는지에 모인다. 투자자들은 주가 부진과 ‘상저하고’ 전망을 함께 살피며 와이지엔터테인먼트의 향후 흐름을 점검할 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "YG Entertainment Stock Down 27% This Year as Second-Half Rebound View Draws Focus",
-        "excerpt": "hankyung.com reported that an analysis of YG Entertainment noted a 27% stock decline this year while presenting a clearer second-half recovery outlook.",
-        "body": "An analysis of YG Entertainment said its stock has fallen 27% this year, but the outlook points to a clear “weak first half, stronger second half” pattern. According to the report, the analysis focused on the possibility of improvement in the second half despite the share-price weakness seen since the start of the year. The key figure is the 27% decline in the stock price this year, while market attention is on whether that weakness can shift into the expected second-half improvement. Investors may need to review both the stock slump and the second-half recovery view when assessing YG Entertainment’s next moves. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "YGエンターテインメント株、今年27％下落も「下期回復」見通しに注目",
-        "excerpt": "hankyung.comは、YGエンターテインメント分析で今年の株価が27％下落した一方、下期に改善が鮮明になるとの見通しが示されたと伝えた。",
-        "body": "YGエンターテインメントに関する分析で、同社株は今年27％下落したものの、今後は「上半期低調、下半期改善」の流れが鮮明になるとの見通しが示された。報道によると、今回の分析は年初来の株価低迷にもかかわらず、下期の回復可能性に焦点を当てた。重要な数値は今年の株価が27％下落した点で、市場の関心はこの下落基調が下期の改善見通しへ転じるかに集まっている。投資家は株価低迷と下期回復見通しを併せて確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "YG娱乐股价今年下跌27%，但“下半年走强”预期受关注",
-        "excerpt": "hankyung.com报道称，针对YG娱乐的分析指出，其股价今年已下跌27%，但下半年改善趋势可能更加明显。",
-        "body": "针对YG娱乐的分析显示，尽管该公司股价今年已下跌27%，但未来走势可能呈现明显的“上半年低、下半年高”格局。报道称，此次分析在年初以来股价低迷的背景下，聚焦于下半年恢复的可能性。关键数字是今年股价下跌27%，市场关注的焦点在于这一跌势是否会转向下半年改善预期。投资者在观察YG娱乐后续走势时，需要同时关注股价疲弱和“下半年走强”的判断。来源: hankyung.com"
-      },
-      "es": {
-        "title": "YG Entertainment cae 27% este año, pero gana atención la previsión de mejora",
-        "excerpt": "hankyung.com informó que un análisis de YG Entertainment señala una caída bursátil del 27% este año, aunque prevé una mejora más clara en la segunda mitad.",
-        "body": "Un análisis sobre YG Entertainment indicó que sus acciones han caído un 27% este año, pero que la trayectoria podría mostrar con claridad un patrón de primera mitad débil y segunda mitad más fuerte. Según el informe, el análisis se centró en la posibilidad de recuperación en la segunda mitad pese a la debilidad bursátil acumulada desde comienzos de año. El dato clave es la caída del 27% en la acción este año, mientras el mercado observa si esa tendencia negativa puede dar paso a la mejora prevista. Los inversores deberían valorar tanto el retroceso como la perspectiva de recuperación. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "YG Entertainment cai 27% no ano, mas previsão de recuperação no 2º semestre chama atenção",
-        "excerpt": "O hankyung.com informou que uma análise da YG Entertainment aponta queda de 27% nas ações este ano, mas também uma perspectiva mais clara de melhora no segundo semestre.",
-        "body": "Uma análise sobre a YG Entertainment apontou que suas ações caíram 27% este ano, mas que a trajetória futura pode mostrar um padrão claro de primeira metade fraca e segunda metade mais forte. Segundo a reportagem, a análise destacou a possibilidade de recuperação no segundo semestre apesar da fraqueza das ações desde o início do ano. O principal número é a queda de 27% no preço das ações em 2026, enquanto o mercado acompanha se essa baixa pode se transformar na melhora esperada. Investidores devem observar tanto a queda quanto a visão de recuperação. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "YG Entertainment Aktie 27% im Minus, doch Ausblick auf stärkeres zweites Halbjahr rückt in den Fokus",
-        "excerpt": "hankyung.com berichtete, dass eine Analyse zu YG Entertainment trotz eines Kursrückgangs von 27% in diesem Jahr eine klarere Erholung im zweiten Halbjahr erwartet.",
-        "body": "Eine Analyse zu YG Entertainment zeigt, dass die Aktie in diesem Jahr um 27% gefallen ist, der weitere Verlauf aber auf ein klares Muster mit schwacher erster und stärkerer zweiter Jahreshälfte hindeuten könnte. Dem Bericht zufolge richtet sich der Blick trotz der Kursverluste seit Jahresbeginn auf eine mögliche Verbesserung im zweiten Halbjahr. Die zentrale Kennzahl ist der Rückgang der Aktie um 27% in diesem Jahr. Entscheidend ist nun, ob diese Schwäche in die erwartete Erholung übergehen kann. Anleger sollten Kursrückgang und Ausblick gemeinsam prüfen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "YG Entertainment recule de 27% cette année, mais le scénario d’un second semestre plus fort attire l’attention",
-        "excerpt": "hankyung.com rapporte qu’une analyse de YG Entertainment relève une baisse de 27% de l’action cette année, tout en évoquant une amélioration plus nette au second semestre.",
-        "body": "Une analyse consacrée à YG Entertainment indique que son action a reculé de 27% cette année, mais que la tendance pourrait suivre un schéma de premier semestre faible et de second semestre plus solide. Selon le rapport, l’analyse met l’accent sur la possibilité d’une amélioration au second semestre malgré la faiblesse du cours depuis le début de l’année. Le chiffre clé est la baisse de 27% de l’action cette année, tandis que le marché observe si ce repli peut laisser place à l’amélioration attendue. Les investisseurs doivent examiner à la fois la baisse du titre et cette perspective. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سهم واي جي إنترتينمنت يتراجع 27% هذا العام وتوقعات بتحسن أوضح في النصف الثاني",
-        "excerpt": "أفاد hankyung.com بأن تحليلا لشركة واي جي إنترتينمنت أشار إلى تراجع السهم 27% هذا العام، مع توقعات بتحسن أوضح في النصف الثاني.",
-        "body": "أظهر تحليل لشركة واي جي إنترتينمنت أن سهمها تراجع 27% هذا العام، لكن التوقعات تشير إلى نمط واضح يقوم على ضعف في النصف الأول وتحسن في النصف الثاني. ووفقا للتقرير، ركز التحليل على احتمال التعافي في النصف الثاني رغم ضعف أداء السهم منذ بداية العام. الرقم الأساسي هو انخفاض سعر السهم 27% هذا العام، بينما ينصب اهتمام السوق على ما إذا كان هذا التراجع يمكن أن يتحول إلى التحسن المتوقع لاحقا. على المستثمرين متابعة ضعف السهم إلى جانب توقعات التحسن في النصف الثاني. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "YG Entertainment का शेयर इस साल 27% गिरा, दूसरी छमाही में सुधार की उम्मीद पर नजर",
-        "excerpt": "hankyung.com ने बताया कि YG Entertainment के विश्लेषण में इस साल शेयर में 27% गिरावट के बावजूद दूसरी छमाही में स्पष्ट सुधार की संभावना जताई गई।",
-        "body": "YG Entertainment पर एक विश्लेषण में कहा गया कि कंपनी का शेयर इस साल 27% गिरा है, लेकिन आगे की दिशा में पहली छमाही कमजोर और दूसरी छमाही मजबूत रहने का स्पष्ट रुझान दिख सकता है। रिपोर्ट के अनुसार, यह विश्लेषण साल की शुरुआत से शेयर की कमजोरी के बावजूद दूसरी छमाही में सुधार की संभावना पर केंद्रित है। प्रमुख आंकड़ा इस साल शेयर मूल्य में 27% गिरावट है। बाजार की नजर इस पर है कि क्या यह कमजोरी दूसरी छमाही के सुधार अनुमान में बदल सकती है। निवेशकों को गिरावट और सुधार की संभावना दोनों पर ध्यान देना चाहिए। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Saham YG Entertainment Turun 27% Tahun Ini, Prospek Menguat di Paruh Kedua Jadi Sorotan",
-        "excerpt": "hankyung.com melaporkan bahwa analisis YG Entertainment mencatat penurunan saham 27% tahun ini, namun memperkirakan perbaikan yang lebih jelas pada paruh kedua.",
-        "body": "Analisis terhadap YG Entertainment menyebut saham perusahaan telah turun 27% tahun ini, tetapi prospeknya mengarah pada pola paruh pertama lemah dan paruh kedua lebih kuat. Menurut laporan tersebut, analisis ini menyoroti kemungkinan pemulihan pada paruh kedua meski harga saham melemah sejak awal tahun. Angka utama adalah penurunan 27% pada saham tahun ini, sementara perhatian pasar tertuju pada apakah pelemahan itu dapat beralih menjadi perbaikan yang diperkirakan. Investor perlu mencermati penurunan saham sekaligus prospek penguatan paruh kedua. Sumber: hankyung.com"
       }
     }
   }
