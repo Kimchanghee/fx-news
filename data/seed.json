@@ -1,5 +1,230 @@
 [
   {
+    "id": "263b152a46b7",
+    "slug": "르포-10만원-써도-카트가-썰렁가격표-앞에서-주저하는-소비자들-816655",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T21:16:56.729Z",
+    "updatedAt": "2026-05-09T21:16:56.729Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509025000030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509025000030",
+    "titleFingerprint": "96922a3253b0920ab49176a442d4a4eebd99f436",
+    "dedupKeys": [
+      "263b152a46b77d1e39d02555af13a35a023899b9",
+      "96922a3253b0920ab49176a442d4a4eebd99f436",
+      "8b269f557001bbb2b933d8162796d8a51b95dd67"
+    ],
+    "imageUrl": "/images/articles/263b152a46b7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "장바구니 물가 요동, 10만원 써도 카트 썰렁한 소비자 현장",
+        "excerpt": "서울 유통 현장에서 소비자들이 가격표 앞에서 구매를 망설이고 있다. 채소값은 지난해보다 크게 내렸지만 장바구니 체감 물가는 여전히 불안정하다.",
+        "body": "서울 유통 현장에서 소비자들이 장바구니 물가 변동에 민감하게 반응하고 있다. 연합뉴스 보도에 따르면 10만원을 써도 카트가 썰렁하다는 말이 나올 만큼 가격표 앞에서 구매를 주저하는 모습이 포착됐다. 배추, 무, 대파 등 주요 채소 가격은 지난해보다 큰 폭으로 떨어졌지만, 쌀값 등 일부 품목이 함께 거론되며 체감 부담은 쉽게 낮아지지 않는 분위기다. 품목별 가격 흐름이 엇갈리면서 소비자들은 필요한 물건도 다시 비교하고 줄이는 방식으로 대응하고 있다. 장바구니 물가가 요동치는 상황은 당분간 소비 심리에 영향을 줄 수 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Grocery Prices Swing as Shoppers Pause Before Price Tags in Seoul",
+        "excerpt": "At retail sites in Seoul, shoppers are hesitating before price tags. Vegetable prices are sharply lower than a year ago, but perceived grocery costs remain unsettled.",
+        "body": "At retail locations in Seoul, consumers are reacting cautiously to swings in grocery prices. According to Yonhap News Agency, shoppers were seen hesitating before price tags, with some saying their carts still looked sparse even after spending 100,000 won. Prices of major vegetables such as cabbage, radish and green onion have fallen sharply from a year earlier, but rice prices and other items were also cited, keeping the perceived burden from easing quickly. As price trends differ by product, shoppers are comparing more carefully and cutting back even on needed goods. The unstable grocery price environment could continue to weigh on consumer sentiment. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "ソウルの買い物客、揺れる食品価格に値札の前でためらい",
+        "excerpt": "ソウルの小売現場で消費者が値札を前に購入を迷っている。野菜価格は前年より大きく下がったが、体感する買い物負担はなお不安定だ。",
+        "body": "ソウルの小売現場で、消費者が食品価格の変動に敏感に反応している。聯合ニュースによると、10万ウォン使ってもカートが寂しいという声が出るほど、値札の前で購入をためらう姿が見られた。白菜、大根、長ねぎなど主要野菜の価格は前年より大きく下がったが、コメ価格など一部品目も同時に取り上げられ、体感負担は簡単には和らいでいない。品目ごとに価格の流れが異なるなか、消費者は必要な商品も再び比較し、購入を減らす形で対応している。揺れる買い物物価は当面、消費心理に影響する可能性がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "首尔菜篮子价格波动，消费者在价签前犹豫不决",
+        "excerpt": "首尔零售现场显示，消费者在价签前放慢购买决定。蔬菜价格较去年大幅下降，但居民对日常采购成本的体感仍不稳定。",
+        "body": "在首尔零售现场，消费者正对菜篮子价格波动做出谨慎反应。据韩联社报道，有消费者表示即使花了10万韩元，购物车看起来仍显空荡，许多人在价签前犹豫是否购买。白菜、萝卜、大葱等主要蔬菜价格较去年大幅下跌，但大米价格等部分品类也被提及，使体感负担并未迅速减轻。由于不同品类价格走势分化，消费者即便面对必需品，也会重新比较并减少购买。菜篮子价格持续波动，短期内可能继续影响消费心理。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Precios de la cesta básica oscilan y consumidores dudan en Seúl",
+        "excerpt": "En comercios de Seúl, los consumidores se detienen ante las etiquetas de precio. Las verduras bajaron frente al año pasado, pero la carga percibida sigue inestable.",
+        "body": "En puntos de venta de Seúl, los consumidores reaccionan con cautela a la volatilidad de los precios de la cesta básica. Según Yonhap, se observaron compradores dudando ante las etiquetas, con comentarios de que el carrito seguía viéndose vacío incluso tras gastar 100.000 wones. Los precios de verduras clave como col china, rábano y cebolleta han caído con fuerza frente al año pasado, pero también se mencionan productos como el arroz, por lo que la carga percibida no cede fácilmente. Con movimientos distintos según el producto, los consumidores comparan más y reducen compras incluso necesarias. La inestabilidad puede seguir pesando sobre la confianza del consumidor. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Preços da cesta oscilam e consumidores hesitam diante das etiquetas",
+        "excerpt": "Em lojas de Seul, consumidores hesitam diante dos preços. Verduras caíram bastante ante o ano passado, mas a percepção de custo da cesta segue instável.",
+        "body": "Em pontos de varejo de Seul, consumidores reagem com cautela às oscilações dos preços da cesta de compras. Segundo a Yonhap, compradores foram vistos hesitando diante das etiquetas, com relatos de que o carrinho ainda parecia vazio mesmo após gastar 100 mil wones. Os preços de verduras importantes, como acelga, rabanete e cebolinha, caíram fortemente em relação ao ano passado, mas itens como arroz também foram citados, mantendo a sensação de peso no orçamento. Como os preços variam por produto, consumidores comparam mais e reduzem compras até de itens necessários. A instabilidade pode continuar afetando o sentimento de consumo. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Warenkorbpreise schwanken: Käufer in Seoul zögern vor Preisschildern",
+        "excerpt": "In Seouler Geschäften zögern Verbraucher vor Preisschildern. Gemüse ist deutlich billiger als vor einem Jahr, doch die gefühlte Belastung bleibt unstet.",
+        "body": "In Seouler Einzelhandelsgeschäften reagieren Verbraucher vorsichtig auf die Schwankungen der Lebensmittelpreise. Laut Yonhap News Agency wurden Käufer beobachtet, die vor Preisschildern zögerten; einige sagten, der Einkaufswagen wirke selbst nach Ausgaben von 100.000 Won noch leer. Die Preise wichtiger Gemüsesorten wie Chinakohl, Rettich und Frühlingszwiebeln sind gegenüber dem Vorjahr stark gefallen, doch auch Reispreise und andere Waren wurden genannt, sodass die gefühlte Belastung nicht rasch sinkt. Da sich die Preisentwicklung je nach Produkt unterscheidet, vergleichen Verbraucher genauer und reduzieren selbst notwendige Einkäufe. Die unruhige Lage könnte die Konsumstimmung weiter belasten. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Prix du panier instables à Séoul, les clients hésitent devant les étiquettes",
+        "excerpt": "Dans les commerces de Séoul, les consommateurs hésitent avant d’acheter. Les légumes ont fortement baissé sur un an, mais le coût ressenti du panier reste instable.",
+        "body": "Dans les points de vente de Séoul, les consommateurs réagissent avec prudence aux variations des prix du panier alimentaire. Selon Yonhap, des clients ont été vus hésitant devant les étiquettes, certains disant que leur chariot semblait encore peu rempli même après avoir dépensé 100.000 wons. Les prix de légumes majeurs comme le chou, le radis et la ciboule ont fortement reculé par rapport à l’an dernier, mais le riz et d’autres articles sont aussi cités, ce qui empêche le ressenti de charge de diminuer rapidement. Face à des évolutions divergentes selon les produits, les consommateurs comparent davantage et réduisent même certains achats nécessaires. Cette instabilité pourrait continuer de peser sur le moral des ménages. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "تقلب أسعار سلة التسوق في سيول يدفع المستهلكين للتردد أمام البطاقات",
+        "excerpt": "في متاجر سيول، يتردد المستهلكون أمام بطاقات الأسعار. أسعار الخضراوات انخفضت كثيرا عن العام الماضي، لكن كلفة السلة المحسوسة لا تزال غير مستقرة.",
+        "body": "في مواقع بيع بالتجزئة في سيول، يتعامل المستهلكون بحذر مع تقلب أسعار سلة التسوق. ووفقا لوكالة يونهاب، شوهد متسوقون يترددون أمام بطاقات الأسعار، مع تعليقات تفيد بأن العربة تبدو شبه فارغة حتى بعد إنفاق 100 ألف وون. وقد انخفضت أسعار خضراوات رئيسية مثل الملفوف والفجل والبصل الأخضر بشكل كبير مقارنة بالعام الماضي، لكن أسعار الأرز وبعض السلع الأخرى وردت أيضا، ما يجعل العبء المحسوس لا يتراجع بسهولة. ومع اختلاف اتجاهات الأسعار حسب السلعة، يعيد المستهلكون المقارنة ويقلصون حتى بعض المشتريات الضرورية. وقد يستمر اضطراب أسعار السلة في التأثير على معنويات الاستهلاك. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "सियोल में किराना कीमतों में उतार-चढ़ाव, दाम देखकर ठिठक रहे खरीदार",
+        "excerpt": "सियोल के खुदरा बाजारों में उपभोक्ता कीमतों के आगे खरीदारी रोककर सोच रहे हैं। सब्जियां पिछले साल से काफी सस्ती हैं, फिर भी किराना बोझ अस्थिर बना है।",
+        "body": "सियोल के खुदरा बाजारों में उपभोक्ता किराना कीमतों में उतार-चढ़ाव पर सतर्क प्रतिक्रिया दे रहे हैं। योनहाप समाचार एजेंसी के अनुसार, खरीदारों को कीमतों के सामने हिचकते देखा गया और कुछ ने कहा कि 100,000 वॉन खर्च करने के बाद भी कार्ट खाली-सी लगती है। पत्ता गोभी, मूली और हरी प्याज जैसी प्रमुख सब्जियों के दाम पिछले साल की तुलना में काफी गिरे हैं, लेकिन चावल सहित कुछ अन्य वस्तुओं का भी उल्लेख हुआ, जिससे महसूस होने वाला बोझ जल्दी कम नहीं हो रहा। अलग-अलग वस्तुओं में कीमतों की दिशा भिन्न होने से उपभोक्ता जरूरत की चीजों की भी फिर तुलना कर रहे हैं और खरीद घटा रहे हैं। यह अस्थिरता उपभोक्ता भावना को प्रभावित कर सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Harga Belanja Harian Bergejolak, Konsumen Seoul Ragu di Depan Label",
+        "excerpt": "Di gerai ritel Seoul, konsumen menimbang ulang pembelian di depan label harga. Harga sayuran turun tajam dari tahun lalu, tetapi beban belanja terasa belum stabil.",
+        "body": "Di sejumlah gerai ritel Seoul, konsumen merespons hati-hati gejolak harga belanja harian. Menurut Yonhap News Agency, pembeli terlihat ragu di depan label harga, dengan keluhan bahwa keranjang tetap tampak sepi meski sudah menghabiskan 100.000 won. Harga sayuran utama seperti sawi putih, lobak, dan daun bawang turun tajam dibanding tahun lalu, tetapi harga beras dan sejumlah barang lain juga disebut, sehingga beban yang dirasakan belum mudah mereda. Karena arah harga berbeda menurut produk, konsumen kembali membandingkan dan mengurangi pembelian bahkan untuk barang yang dibutuhkan. Kondisi harga yang bergejolak dapat terus memengaruhi sentimen konsumsi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e7b906a7bc77",
+    "slug": "노동부-가족돌봄휴가-적용대상-가족-외로-확대-검토-910924",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T21:15:49.201Z",
+    "updatedAt": "2026-05-09T21:15:49.201Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508156000530",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508156000530",
+    "titleFingerprint": "b3da1ed15015436d6bff68c46b799a0ed88407a1",
+    "dedupKeys": [
+      "e7b906a7bc77dcf25c07ff47d82624e4d678094f",
+      "b3da1ed15015436d6bff68c46b799a0ed88407a1",
+      "9be3525449730ca86d31d2b9fd92a97cb77209fb"
+    ],
+    "imageUrl": "/images/articles/e7b906a7bc77.jpg",
+    "i18n": {
+      "ko": {
+        "title": "가족돌봄휴가 확대 검토, 노동부가 법률상 가족 외 관계까지 살핀다",
+        "excerpt": "노동부가 가족돌봄 휴직·휴가의 적용 대상을 법률상 가족이 아닌 관계까지 넓히는 방안을 검토한다고 연합뉴스가 서울발로 보도했다.",
+        "body": "노동부가 가족돌봄 휴직·휴가의 적용 대상을 법률상 가족이 아닌 관계까지 확대하는 방안을 검토한다. 연합뉴스에 따르면 이번 논의는 가족돌봄 제도의 적용 범위를 현재의 법률상 가족 중심에서 그 밖의 관계로 넓힐 수 있는지를 살피는 내용이다. 가족돌봄 휴직·휴가는 돌봄이 필요한 가족을 위해 근로자가 활용하는 제도인 만큼, 적용 대상의 범위가 핵심 쟁점이다. 다만 구체적인 확대 범위나 시행 시기, 세부 기준은 원문에서 제시되지 않았다. 향후 검토 결과에 따라 관련 제도 운용 방향이 달라질 수 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Family Care Leave Expansion Under Review by Labor Ministry Beyond Legal Family",
+        "excerpt": "South Korea’s Labor Ministry is reviewing whether family care leave and leave of absence could cover relationships beyond legally defined family, Yonhap reported from Seoul.",
+        "body": "South Korea’s Labor Ministry is reviewing a plan to expand the coverage of family care leave and family care leave of absence to relationships that are not legally defined as family. According to Yonhap News Agency, the discussion focuses on whether the current system, centered on legal family members, can be broadened to include other relationships. Because family care leave is used by workers to care for people in need of family support, the scope of eligible relationships is the central issue. The original report did not provide specific details on the range of expansion, timing, or standards. The outcome of the review may affect how the system is operated going forward. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "家族介護休暇の対象拡大を検討、労働部が法的家族以外も視野",
+        "excerpt": "韓国の労働部が、家族介護の休職・休暇について、法律上の家族ではない関係にまで対象を広げる案を検討していると聯合ニュースが報じた。",
+        "body": "韓国の労働部は、家族介護の休職・休暇の適用対象を、法律上の家族ではない関係にまで拡大する案を検討している。聯合ニュースによると、今回の議論は、現在は法律上の家族を中心に運用されている家族介護制度の対象範囲を、その他の関係にまで広げられるかを検討する内容だ。家族介護の休職・休暇は、介護が必要な家族のために労働者が利用する制度であるため、対象となる関係の範囲が重要な論点となる。ただし、具体的な拡大範囲や実施時期、詳細基準は原文では示されていない。検討結果によって、今後の制度運用の方向が変わる可能性がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "家庭照护假或扩大适用范围，韩国劳动部研究纳入法定家庭外关系",
+        "excerpt": "韩联社首尔报道，韩国劳动部正在研究将家庭照护停职和休假的适用对象扩大至法律意义上的家庭成员之外的关系。",
+        "body": "韩国劳动部正在研究一项方案，拟将家庭照护停职和休假的适用对象扩大至并非法律意义上家庭成员的关系。韩联社报道称，此次讨论的重点是，现行以法定家庭成员为中心的家庭照护制度，能否进一步覆盖其他关系。家庭照护停职和休假是劳动者为照护有需要的家庭成员而使用的制度，因此适用对象的范围成为核心议题。不过，原文未说明具体扩大范围、实施时间或细化标准。今后审议结果可能影响相关制度的运行方向。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Permiso de cuidado familiar podría ampliarse más allá de la familia legal en Corea",
+        "excerpt": "El Ministerio de Trabajo de Corea del Sur revisa si las licencias y permisos de cuidado familiar pueden extenderse a relaciones no reconocidas legalmente como familia, informó Yonhap desde Seúl.",
+        "body": "El Ministerio de Trabajo de Corea del Sur está revisando una propuesta para ampliar el alcance de las licencias y permisos de cuidado familiar a relaciones que no están definidas legalmente como familia. Según la agencia Yonhap, la discusión se centra en si el sistema actual, basado en familiares reconocidos por la ley, puede extenderse a otros vínculos. Dado que el permiso de cuidado familiar es utilizado por trabajadores para atender a personas que requieren cuidado familiar, el alcance de las relaciones elegibles es el punto clave. El reporte original no detalló el alcance concreto de la ampliación, el calendario ni los criterios específicos. El resultado de la revisión podría influir en la futura operación del sistema. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Licença para cuidado familiar pode incluir relações fora da família legal na Coreia",
+        "excerpt": "O Ministério do Trabalho da Coreia do Sul avalia ampliar licenças e afastamentos para cuidado familiar a relações não reconhecidas legalmente como família, informou a Yonhap em Seul.",
+        "body": "O Ministério do Trabalho da Coreia do Sul está avaliando uma proposta para ampliar a cobertura das licenças e afastamentos para cuidado familiar a relações que não são legalmente definidas como família. Segundo a agência Yonhap, a discussão examina se o sistema atual, centrado em familiares legais, pode ser estendido a outros vínculos. Como a licença para cuidado familiar é usada por trabalhadores para cuidar de pessoas que precisam desse apoio, o alcance das relações elegíveis é o ponto central. A reportagem original não informou a extensão concreta da ampliação, o prazo de implementação nem critérios detalhados. O resultado da análise poderá influenciar a forma de operação do sistema. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Familienpflegeurlaub in Korea könnte auf Beziehungen außerhalb der Rechtsfamilie ausgeweitet werden",
+        "excerpt": "Südkoreas Arbeitsministerium prüft, ob Familienpflegeurlaub und entsprechende Freistellungen auch für Beziehungen gelten können, die rechtlich nicht als Familie definiert sind, berichtete Yonhap aus Seoul.",
+        "body": "Südkoreas Arbeitsministerium prüft einen Vorschlag, den Anwendungsbereich von Familienpflegeurlaub und entsprechenden Freistellungen auf Beziehungen auszuweiten, die rechtlich nicht als Familie gelten. Nach Angaben der Nachrichtenagentur Yonhap geht es in der Diskussion darum, ob das derzeit auf gesetzliche Familienangehörige ausgerichtete System auf weitere Beziehungen ausgedehnt werden kann. Da Familienpflegeurlaub von Beschäftigten genutzt wird, um Menschen mit Pflegebedarf im familiären Umfeld zu betreuen, ist der Kreis der anspruchsberechtigten Beziehungen die zentrale Frage. Der ursprüngliche Bericht nannte keine konkreten Angaben zum Umfang der Erweiterung, zum Zeitpunkt der Umsetzung oder zu Detailkriterien. Das Prüfergebnis könnte die künftige Ausgestaltung des Systems beeinflussen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Congé de soins familiaux en Corée: une extension hors famille légale à l’étude",
+        "excerpt": "Le ministère sud-coréen du Travail examine une extension des congés et absences pour soins familiaux à des relations non reconnues légalement comme famille, selon Yonhap à Séoul.",
+        "body": "Le ministère sud-coréen du Travail examine une proposition visant à élargir le champ des congés et absences pour soins familiaux à des relations qui ne sont pas légalement définies comme familiales. Selon l’agence Yonhap, la discussion porte sur la possibilité d’étendre un dispositif actuellement centré sur les membres de la famille au sens juridique à d’autres liens. Comme ces congés sont utilisés par les salariés pour s’occuper de personnes ayant besoin de soins familiaux, la définition des relations éligibles constitue l’enjeu principal. Le reportage initial ne précise pas l’étendue concrète de l’élargissement, le calendrier ni les critères détaillés. Le résultat de l’examen pourrait modifier l’orientation future du dispositif. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "توسيع إجازة رعاية الأسرة في كوريا قيد الدراسة لتشمل علاقات خارج الأسرة القانونية",
+        "excerpt": "تدرس وزارة العمل في كوريا الجنوبية إمكانية توسيع إجازات رعاية الأسرة والتغيب المرتبط بها لتشمل علاقات لا تُعد أسرة قانونيا، وفق ما نقلته يونهاب من سيول.",
+        "body": "تدرس وزارة العمل في كوريا الجنوبية خطة لتوسيع نطاق إجازة رعاية الأسرة والتغيب من العمل لرعاية الأسرة ليشمل علاقات لا تُعرّف قانونيا بأنها أسرة. وبحسب وكالة يونهاب، يتركز النقاش على ما إذا كان من الممكن توسيع النظام الحالي، القائم على أفراد الأسرة بالمعنى القانوني، ليشمل علاقات أخرى. وبما أن هذه الإجازات يستخدمها العاملون لرعاية من يحتاجون إلى دعم عائلي، فإن نطاق العلاقات المشمولة هو القضية الأساسية. ولم يذكر التقرير الأصلي تفاصيل عن حدود التوسيع أو موعد التنفيذ أو المعايير المحددة. وقد تؤثر نتيجة المراجعة في طريقة تشغيل النظام مستقبلا. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "परिवार देखभाल अवकाश का दायरा कानूनी परिवार से बाहर बढ़ाने पर श्रम मंत्रालय विचार में",
+        "excerpt": "दक्षिण कोरिया का श्रम मंत्रालय परिवार देखभाल अवकाश और अवकाश-काल को कानूनी रूप से परिभाषित परिवार से बाहर के संबंधों तक बढ़ाने की संभावना की समीक्षा कर रहा है, योनहाप ने सियोल से बताया।",
+        "body": "दक्षिण कोरिया का श्रम मंत्रालय परिवार देखभाल अवकाश और इससे जुड़े अवकाश-काल के दायरे को उन संबंधों तक बढ़ाने की योजना की समीक्षा कर रहा है जिन्हें कानूनन परिवार नहीं माना जाता। योनहाप समाचार एजेंसी के अनुसार, चर्चा का केंद्र यह है कि मौजूदा व्यवस्था, जो कानूनी परिवार सदस्यों पर आधारित है, अन्य संबंधों तक बढ़ाई जा सकती है या नहीं। परिवार देखभाल अवकाश का उपयोग कर्मचारी देखभाल की जरूरत वाले लोगों के लिए करते हैं, इसलिए पात्र संबंधों की सीमा मुख्य मुद्दा है। मूल रिपोर्ट में विस्तार की ठोस सीमा, लागू करने का समय या विस्तृत मानदंड नहीं बताए गए। समीक्षा के परिणाम से आगे इस व्यवस्था के संचालन की दिशा प्रभावित हो सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Cuti Perawatan Keluarga di Korea Dikaji untuk Diperluas di Luar Keluarga Legal",
+        "excerpt": "Kementerian Ketenagakerjaan Korea Selatan mengkaji perluasan cuti dan izin perawatan keluarga agar mencakup hubungan yang tidak didefinisikan secara hukum sebagai keluarga, lapor Yonhap dari Seoul.",
+        "body": "Kementerian Ketenagakerjaan Korea Selatan sedang mengkaji rencana untuk memperluas cakupan cuti dan izin perawatan keluarga ke hubungan yang tidak didefinisikan secara hukum sebagai keluarga. Menurut Kantor Berita Yonhap, pembahasan ini menyoroti apakah sistem yang saat ini berpusat pada anggota keluarga menurut hukum dapat diperluas ke hubungan lain. Karena cuti perawatan keluarga digunakan pekerja untuk merawat pihak yang membutuhkan dukungan keluarga, cakupan hubungan yang memenuhi syarat menjadi isu utama. Laporan asli tidak memuat rincian tentang batas perluasan, waktu penerapan, atau kriteria khusus. Hasil kajian dapat memengaruhi arah pengoperasian sistem tersebut ke depan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "74c5b723bdfb",
+    "slug": "도급대금-안줘-임금체불고공농성노동부-부영주택-시정지시-298307",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T21:14:56.615Z",
+    "updatedAt": "2026-05-09T21:14:56.615Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508142700530",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508142700530",
+    "titleFingerprint": "4e32161ff112b3bd79926f2c41e4bd277a86f863",
+    "dedupKeys": [
+      "74c5b723bdfb20ff5ad82c853a93c507cf954b7d",
+      "4e32161ff112b3bd79926f2c41e4bd277a86f863",
+      "1e6a3d755483d53ed344770b6cc79e7956576453"
+    ],
+    "imageUrl": "/images/articles/74c5b723bdfb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부영주택 도급대금 지연 논란에 노동부 시정지시, 임금체불·고공농성까지",
+        "excerpt": "고용노동부가 자체 감사 등을 이유로 하도급 업체 기성금 지급을 미루고 직원 수당을 적게 준 부영주택에 시정지시를 내렸다.",
+        "body": "고용노동부는 자체 감사 등을 이유로 하도급 업체에 기성금 지급을 미루고 직원들에게 지급해야 할 수당을 적게 준 부영주택에 대해 시정지시를 내렸다. 이번 사안은 도급대금 미지급 문제가 하도급 업체의 임금체불로 이어지고, 이에 따른 고공농성까지 발생한 가운데 알려졌다. 원문에 따르면 노동부는 부영주택의 지급 지연과 수당 과소 지급 문제를 확인하고 개선을 요구했다. 향후 시정 이행 여부가 관련 노동자와 하도급 업체의 체불 해소에 영향을 줄 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Booyoung Housing Ordered to Correct Delayed Contract Payments and Wage Issues",
+        "excerpt": "South Korea’s labor ministry issued a corrective order to Booyoung Housing after delayed progress payments to a subcontractor and underpaid employee allowances.",
+        "body": "South Korea’s Ministry of Employment and Labor issued a corrective order to Booyoung Housing after the company delayed progress payments to a subcontractor, citing internal audits and other reasons, and paid some employee allowances below the required level. The case became public as unpaid contract payments led to wage arrears at the subcontractor and even a high-altitude protest. According to the original report, the ministry confirmed the payment delays and underpaid allowances and demanded corrective action. Whether the company follows the order is expected to affect resolution of the wage arrears. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "富栄住宅に労働部が是正指示、請負代金遅延で賃金未払い・高所座り込み",
+        "excerpt": "韓国雇用労働部は、自社監査などを理由に下請け業者への出来高金支払いを遅らせ、従業員手当を少なく支給した富栄住宅に是正指示を出した。",
+        "body": "韓国雇用労働部は、自社監査などを理由に下請け業者への出来高金支払いを先送りし、従業員に支給すべき手当を少なく払った富栄住宅に対し、是正指示を出した。今回の事案は、請負代金の未払いが下請け業者の賃金未払いにつながり、それに伴う高所での座り込みまで発生した中で明らかになった。原文によると、労働部は富栄住宅の支払い遅延と手当の過少支給を確認し、改善を求めた。今後の是正履行が労働者と下請け業者の未払い解消に影響するとみられる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "富荣住宅被劳动部责令整改，拖延承包款引发欠薪与高空抗议",
+        "excerpt": "韩国雇佣劳动部对富荣住宅下达整改指示，该公司以内部审计等为由拖延向分包商支付工程进度款，并少付员工津贴。",
+        "body": "韩国雇佣劳动部对富荣住宅下达整改指示。该公司以内部审计等为由，推迟向分包企业支付工程进度款，并少付员工应得津贴。此事是在承包款未支付问题导致分包企业出现欠薪，并引发高空抗议的情况下被披露的。根据原文，劳动部确认了富荣住宅付款延迟和津贴少付问题，并要求其改正。后续整改是否落实，预计将影响相关劳动者和分包企业欠薪问题的解决。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Booyoung Housing recibe orden correctiva por pagos demorados y salarios impagos",
+        "excerpt": "El Ministerio de Trabajo de Corea del Sur ordenó correcciones a Booyoung Housing por retrasar pagos a una subcontratista y pagar de menos asignaciones a empleados.",
+        "body": "El Ministerio de Empleo y Trabajo de Corea del Sur emitió una orden correctiva contra Booyoung Housing, que demoró pagos por avance de obra a una subcontratista alegando auditorías internas y otros motivos, y pagó asignaciones inferiores a algunos empleados. El caso se conoció después de que la falta de pago del contrato derivara en salarios atrasados en la subcontratista y en una protesta en altura. Según el informe original, el ministerio confirmó los retrasos de pago y el pago insuficiente de asignaciones, y exigió mejoras. El cumplimiento de la orden será clave para resolver los atrasos salariales. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Booyoung Housing recebe ordem corretiva por atrasos em pagamentos e salários",
+        "excerpt": "O Ministério do Trabalho da Coreia do Sul emitiu ordem corretiva contra a Booyoung Housing por atrasar pagamentos a subcontratada e pagar menos em adicionais.",
+        "body": "O Ministério do Emprego e Trabalho da Coreia do Sul emitiu uma ordem corretiva contra a Booyoung Housing, que adiou pagamentos por etapas concluídas a uma subcontratada alegando auditoria interna e outros motivos, além de pagar adicionais abaixo do devido a funcionários. O caso veio à tona após a falta de pagamento do contrato levar a atrasos salariais na subcontratada e a um protesto em local elevado. Segundo o relatório original, o ministério confirmou os atrasos e os pagamentos insuficientes e exigiu correções. O cumprimento da medida deve influenciar a solução dos salários em atraso. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Booyoung Housing erhält Korrekturanweisung wegen Zahlungsverzug und Lohnrückständen",
+        "excerpt": "Das südkoreanische Arbeitsministerium hat Booyoung Housing angewiesen, verzögerte Zahlungen an einen Subunternehmer und zu niedrig gezahlte Zulagen zu korrigieren.",
+        "body": "Das südkoreanische Ministerium für Beschäftigung und Arbeit hat Booyoung Housing eine Korrekturanweisung erteilt. Das Unternehmen hatte unter Verweis auf interne Prüfungen und andere Gründe Abschlagszahlungen an einen Subunternehmer verzögert und Beschäftigten Zulagen in zu geringer Höhe gezahlt. Der Fall wurde bekannt, nachdem aus den ausbleibenden Vertragszahlungen Lohnrückstände beim Subunternehmer entstanden und es zu einem Protest in großer Höhe kam. Laut Originalbericht bestätigte das Ministerium die Zahlungsverzögerungen und die zu niedrigen Zulagen und verlangte Abhilfe. Die Umsetzung der Anweisung dürfte für die Lösung der Lohnrückstände entscheidend sein. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Booyoung Housing visé par une injonction après retards de paiement et salaires dus",
+        "excerpt": "Le ministère sud-coréen du Travail a ordonné à Booyoung Housing de corriger des retards de paiement à un sous-traitant et des indemnités trop faibles.",
+        "body": "Le ministère sud-coréen de l’Emploi et du Travail a émis une injonction corrective contre Booyoung Housing. L’entreprise avait retardé le paiement d’avancements dus à un sous-traitant, invoquant notamment des audits internes, et versé des indemnités inférieures au montant dû à certains employés. L’affaire a été révélée alors que le non-paiement du contrat avait entraîné des arriérés de salaires chez le sous-traitant et une protestation en hauteur. Selon l’article original, le ministère a confirmé les retards de paiement et les indemnités insuffisantes, puis demandé des corrections. L’exécution de l’injonction pèsera sur le règlement des salaires impayés. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "وزارة العمل تأمر بوينغ للإسكان بتصحيح تأخر مستحقات المقاولة وأجور متأخرة",
+        "excerpt": "أصدرت وزارة العمل الكورية الجنوبية أمرا تصحيحيا بحق بوينغ للإسكان بعد تأخير مدفوعات لمقاول فرعي ودفع بدلات أقل للموظفين.",
+        "body": "أصدرت وزارة التوظيف والعمل في كوريا الجنوبية أمرا تصحيحيا بحق شركة بوينغ للإسكان، بعدما أخرت دفع مستحقات إنجاز لمقاول فرعي بذريعة تدقيق داخلي وأسباب أخرى، ودفعت لبعض الموظفين بدلات أقل من المستحق. وبرزت القضية بعدما أدى عدم دفع مستحقات المقاولة إلى تأخر أجور لدى المقاول الفرعي، وصولا إلى احتجاج على ارتفاع عال. ووفقا للتقرير الأصلي، أكدت الوزارة تأخر المدفوعات وانخفاض البدلات المدفوعة، وطالبت بالتصحيح. ومن المتوقع أن يؤثر تنفيذ الأمر في حل مشكلة الأجور المتأخرة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "बूयॉन्ग हाउसिंग को श्रम मंत्रालय का सुधार आदेश, ठेका भुगतान देरी से वेतन बकाया",
+        "excerpt": "दक्षिण कोरिया के श्रम मंत्रालय ने उपठेकेदार को भुगतान टालने और कर्मचारियों को कम भत्ते देने पर बूयॉन्ग हाउसिंग को सुधार आदेश दिया।",
+        "body": "दक्षिण कोरिया के रोजगार और श्रम मंत्रालय ने बूयॉन्ग हाउसिंग को सुधार आदेश जारी किया है। कंपनी ने आंतरिक ऑडिट आदि कारणों का हवाला देकर उपठेकेदार को कार्य प्रगति भुगतान टाला और कर्मचारियों को देय भत्ते कम दिए। यह मामला तब सामने आया जब ठेका राशि न मिलने से उपठेकेदार के यहां वेतन बकाया हुआ और इसके बाद ऊंचाई पर धरना भी हुआ। मूल रिपोर्ट के अनुसार, मंत्रालय ने भुगतान में देरी और भत्तों के कम भुगतान की पुष्टि कर सुधार की मांग की। आदेश का पालन वेतन बकाया सुलझाने पर असर डालेगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Booyoung Housing Diperintah Koreksi Pembayaran Tertunda dan Tunggakan Upah",
+        "excerpt": "Kementerian Ketenagakerjaan Korea Selatan memerintahkan Booyoung Housing memperbaiki penundaan pembayaran ke subkontraktor dan kekurangan tunjangan karyawan.",
+        "body": "Kementerian Ketenagakerjaan dan Perburuhan Korea Selatan mengeluarkan perintah korektif terhadap Booyoung Housing. Perusahaan itu menunda pembayaran progres pekerjaan kepada subkontraktor dengan alasan audit internal dan alasan lain, serta membayar tunjangan karyawan lebih rendah dari yang seharusnya. Kasus ini terungkap setelah pembayaran kontrak yang tertunda memicu tunggakan upah di subkontraktor dan bahkan aksi protes di ketinggian. Menurut laporan asli, kementerian mengonfirmasi penundaan pembayaran dan kekurangan tunjangan, lalu meminta perbaikan. Pelaksanaan perintah ini diperkirakan memengaruhi penyelesaian tunggakan upah. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "98e646e7e304",
     "slug": "외연-넓힌-포용금융추진단-이달-출범금융-공공성-공론화-착수-839269",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Korea Green Innovation Day di Sejong Dihadiri 560 Peserta",
         "excerpt": "Kementerian Ekonomi dan Keuangan pada 8 Mei menggelar Korea Green Innovation Day ke-15 bersama Bank Dunia dan Kota Sejong.",
         "body": "Kementerian Ekonomi dan Keuangan mengatakan pada 8 Mei bahwa pihaknya menggelar Korea Green Innovation Day, KGID, ke-15 di Sejong Convention Center bersama Bank Dunia dan Kota Pemerintahan Khusus Sejong. Acara tersebut dihadiri total 560 orang, termasuk peserta dari Bank Dunia. Korea Green Innovation Day merupakan acara bertema inovasi hijau, dan tahun ini berlangsung di Sejong. Kementerian menyelenggarakannya bersama Bank Dunia dan Sejong, sementara jumlah peserta menunjukkan perhatian terhadap pembahasan terkait. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9850e333a395",
-    "slug": "임실군-마른논-써레질로-농촌-인력난기후-위기-잡는다-783388",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T13:01:52.794Z",
-    "updatedAt": "2026-05-09T13:01:52.794Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508075700055",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508075700055",
-    "titleFingerprint": "9407318d6d09a71968702dbcf8d1317df8316c38",
-    "dedupKeys": [
-      "9850e333a395cb0074aa71ba53838047872ed6b3",
-      "9407318d6d09a71968702dbcf8d1317df8316c38",
-      "54078f315da22c84727ef8bacf6597db3b88e864"
-    ],
-    "imageUrl": "/images/articles/9850e333a395.jpg",
-    "i18n": {
-      "ko": {
-        "title": "임실군 마른논 써레질 보급 본격화, 농촌 인력난과 기후 위기 동시 대응",
-        "excerpt": "전북 임실군은 최근 농촌 인력 부족을 줄이고 기후 위기에 대응하기 위해 저탄소 벼 재배 방식인 마른논 써레질 보급에 나섰다.",
-        "body": "전북 임실군은 최근 농촌 인력 부족 문제를 완화하고 기후 위기에 대응하기 위해 저탄소 농법인 ‘마른논 써레질’ 보급에 나섰다. 마른논 써레질은 논에 물을 채우지 않은 상태에서 흙을 부수고 고른 뒤 모내기 직전 물을 대는 방식이다. 기존처럼 물을 댄 논에서 농기계를 반복 운행하는 무논 써레질보다 작업 부담을 줄이고 저탄소 벼 재배에 맞춘 방식으로 소개된다. 농촌진흥청 자료에 따르면 이 방식은 농기계 이산화탄소 발생량을 17.7%, 토양 내 메탄 배출량을 14.0% 줄일 수 있다. 임실군의 보급 확대는 농가 일손 부담을 덜고 벼 재배 과정의 온실가스 감축을 돕는 현장 대응으로 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Imsil County Promotes Dry Paddy Harrowing to Ease Farm Labor Shortage and Climate Pressure",
-        "excerpt": "Imsil County in North Jeolla has begun promoting dry paddy harrowing, a low-carbon rice farming method, to reduce rural labor shortages and respond to the climate crisis.",
-        "body": "Imsil County in North Jeolla Province has recently begun promoting “dry paddy harrowing,” a low-carbon farming method, to help ease rural labor shortages and respond to the climate crisis. The method breaks and levels soil while the paddy remains dry, then adds water just before rice transplanting. It differs from conventional wet paddy harrowing, in which farm machinery repeatedly operates in flooded fields. According to Rural Development Administration data cited by Yonhap News Agency, the method can cut carbon dioxide emissions from farm machinery by 17.7% and methane emissions from soil by 14.0%. Imsil County’s rollout is expected to reduce labor pressure on farms and support greenhouse gas reduction in rice cultivation. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "任実郡、乾田代かき普及を本格化　農村の人手不足と気候危機に対応",
-        "excerpt": "全北・任実郡は最近、農村の人手不足を軽減し気候危機に対応するため、低炭素の稲作技術である乾田代かきの普及に乗り出した。",
-        "body": "全北特別自治道の任実郡は最近、農村の人手不足を和らげ、気候危機に対応するため、低炭素農法の「乾田代かき」の普及に乗り出した。乾田代かきは、田に水を張らない乾いた状態で土を砕き、平らにした後、田植え直前に水を入れる方式だ。水を張った田で農業機械を繰り返し走行させる従来の湿田代かきと異なり、作業負担を抑え、低炭素稲作に適した方法として紹介されている。聯合ニュースが引用した農村振興庁資料によると、この方式は農業機械の二酸化炭素排出量を17.7%、土壌中のメタン排出量を14.0%削減できる。任実郡の普及拡大は、農家の労働負担軽減と稲作過程での温室効果ガス削減を支える現場対応として注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "任实郡推广旱田整地技术，应对农村劳动力短缺与气候危机",
-        "excerpt": "韩国全北任实郡近日开始推广低碳水稻种植方式“旱田整地”，以缓解农村劳动力短缺并应对气候危机。",
-        "body": "韩国全北任实郡近日开始推广低碳农法“旱田整地”，以缓解农村劳动力不足并应对气候危机。该方法是在稻田未灌水的干燥状态下破碎并平整土壤，然后在插秧前才灌水。它不同于传统的“水田整地”，后者是在已灌水的稻田中反复运行农机。韩联社援引农村振兴厅资料称，旱田整地可使农机二氧化碳排放量减少17.7%，土壤甲烷排放量减少14.0%。任实郡扩大推广这一方式，被视为减轻农户用工压力、帮助水稻种植过程减少温室气体排放的现场应对措施。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Imsil impulsa el rastrillado en arrozales secos para aliviar falta de mano de obra y crisis climática",
-        "excerpt": "El condado surcoreano de Imsil comenzó a promover el rastrillado en arrozales secos, un método bajo en carbono, para reducir la escasez de mano de obra rural y responder al clima.",
-        "body": "El condado de Imsil, en Jeolla del Norte, comenzó recientemente a promover el “rastrillado en arrozales secos”, una técnica agrícola de bajas emisiones, para aliviar la escasez de mano de obra rural y responder a la crisis climática. El método consiste en romper y nivelar la tierra sin llenar el arrozal de agua, para después inundarlo justo antes del trasplante del arroz. Se diferencia del rastrillado tradicional en arrozales inundados, donde la maquinaria agrícola opera repetidamente sobre campos con agua. Según datos de la Administración de Desarrollo Rural citados por Yonhap, esta técnica puede reducir en 17,7% las emisiones de dióxido de carbono de la maquinaria agrícola y en 14,0% las emisiones de metano del suelo. La difusión en Imsil busca aliviar la carga laboral de las granjas y apoyar la reducción de gases de efecto invernadero en el cultivo de arroz. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Imsil promove gradagem em arrozais secos para enfrentar falta de mão de obra e crise climática",
-        "excerpt": "O condado de Imsil, na Coreia do Sul, passou a promover a gradagem em arrozais secos, método de baixo carbono, para reduzir a falta de mão de obra rural e responder ao clima.",
-        "body": "O condado de Imsil, em Jeolla do Norte, começou recentemente a promover a “gradagem em arrozais secos”, uma técnica agrícola de baixo carbono, para aliviar a escassez de mão de obra rural e responder à crise climática. O método consiste em quebrar e nivelar o solo enquanto o arrozal permanece seco, adicionando água apenas pouco antes do transplante do arroz. Ele difere da gradagem convencional em arrozais alagados, na qual máquinas agrícolas operam repetidamente em campos com água. Segundo dados da Administração de Desenvolvimento Rural citados pela Yonhap, a técnica pode reduzir em 17,7% as emissões de dióxido de carbono das máquinas agrícolas e em 14,0% as emissões de metano do solo. A iniciativa de Imsil deve diminuir a carga de trabalho nas propriedades e apoiar a redução de gases de efeito estufa no cultivo de arroz. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Imsil fördert Trockeneggen im Reisfeld gegen Arbeitskräftemangel und Klimakrise",
-        "excerpt": "Der Landkreis Imsil in Südkorea fördert seit Kurzem das Trockeneggen von Reisfeldern als kohlenstoffarme Anbaumethode, um Arbeitskräftemangel und Klimarisiken zu begegnen.",
-        "body": "Der Landkreis Imsil in der Provinz Nord-Jeolla hat kürzlich damit begonnen, das „Trockeneggen“ von Reisfeldern als kohlenstoffarme Anbaumethode zu verbreiten, um den Arbeitskräftemangel im ländlichen Raum zu mildern und auf die Klimakrise zu reagieren. Dabei wird der Boden in trockenem Zustand aufgebrochen und geebnet; Wasser wird erst kurz vor dem Umpflanzen der Reissetzlinge eingeleitet. Das unterscheidet sich vom herkömmlichen Eggen überfluteter Felder, bei dem Landmaschinen wiederholt in wassergefüllten Reisfeldern fahren. Nach Angaben der Behörde für ländliche Entwicklung, die Yonhap zitiert, kann die Methode die Kohlendioxidemissionen von Landmaschinen um 17,7% und die Methanemissionen aus dem Boden um 14,0% senken. Imsils Ausweitung soll Betriebe entlasten und die Treibhausgasreduktion im Reisanbau unterstützen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Imsil déploie le hersage à sec des rizières face au manque de main-d’œuvre et au climat",
-        "excerpt": "Le district sud-coréen d’Imsil promeut le hersage à sec des rizières, une méthode rizicole bas carbone, afin de réduire le manque de main-d’œuvre rurale et de répondre à la crise climatique.",
-        "body": "Le district d’Imsil, dans le Jeolla du Nord, a récemment commencé à promouvoir le « hersage à sec des rizières », une méthode agricole bas carbone, afin d’atténuer le manque de main-d’œuvre rurale et de répondre à la crise climatique. Cette technique consiste à briser et niveler le sol lorsque la rizière est sèche, puis à ajouter de l’eau juste avant le repiquage du riz. Elle diffère du hersage traditionnel en rizière inondée, où les machines agricoles circulent à plusieurs reprises dans des champs remplis d’eau. Selon des données de l’Administration du développement rural citées par Yonhap, cette méthode peut réduire de 17,7% les émissions de dioxyde de carbone des machines agricoles et de 14,0% les émissions de méthane du sol. Son déploiement à Imsil vise à alléger la charge de travail des exploitations et à soutenir la réduction des gaz à effet de serre dans la riziculture. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "إمسيل تروّج لتسوية حقول الأرز الجافة لمواجهة نقص العمالة وأزمة المناخ",
-        "excerpt": "بدأت مقاطعة إمسيل في كوريا الجنوبية مؤخرا نشر طريقة تسوية حقول الأرز الجافة منخفضة الكربون لتخفيف نقص العمالة الريفية والاستجابة لأزمة المناخ.",
-        "body": "بدأت مقاطعة إمسيل في إقليم جولا الشمالي مؤخرا الترويج لطريقة زراعية منخفضة الكربون تعرف باسم “تسوية حقول الأرز الجافة”، بهدف تخفيف نقص العمالة في المناطق الريفية والاستجابة لأزمة المناخ. تقوم الطريقة على تفتيت التربة وتسويتها وهي جافة من دون ملء الحقل بالماء، ثم إضافة الماء قبل زراعة شتلات الأرز مباشرة. وتختلف عن الطريقة التقليدية في الحقول المغمورة، حيث تعمل الآلات الزراعية مرارا داخل حقول مملوءة بالماء. ووفقا لبيانات إدارة التنمية الريفية التي نقلتها وكالة يونهاب، يمكن لهذه الطريقة خفض انبعاثات ثاني أكسيد الكربون من الآلات الزراعية بنسبة 17.7% وانبعاثات الميثان من التربة بنسبة 14.0%. ومن المتوقع أن يساعد توسيع استخدامها في إمسيل على تخفيف عبء العمل في المزارع ودعم خفض غازات الدفيئة في زراعة الأرز. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "इमसिल ने सूखे धान खेत की हैरोइंग बढ़ाई, श्रम संकट और जलवायु दबाव से निपटने की पहल",
-        "excerpt": "दक्षिण कोरिया के इमसिल काउंटी ने ग्रामीण श्रम कमी घटाने और जलवायु संकट से निपटने के लिए कम-कार्बन धान खेती पद्धति सूखी धान-खेत हैरोइंग का प्रसार शुरू किया है।",
-        "body": "दक्षिण कोरिया के उत्तरी जिओला प्रांत स्थित इमसिल काउंटी ने हाल में ग्रामीण श्रम कमी को कम करने और जलवायु संकट का जवाब देने के लिए कम-कार्बन कृषि पद्धति “सूखी धान-खेत हैरोइंग” का प्रसार शुरू किया। इस तरीके में खेत में पानी भरे बिना सूखी अवस्था में मिट्टी को तोड़ा और समतल किया जाता है, फिर धान की रोपाई से ठीक पहले पानी डाला जाता है। यह पारंपरिक गीली हैरोइंग से अलग है, जिसमें पानी भरे खेतों में कृषि मशीनें बार-बार चलती हैं। योनहाप द्वारा उद्धृत ग्रामीण विकास प्रशासन के आंकड़ों के अनुसार, यह पद्धति कृषि मशीनों से निकलने वाले कार्बन डाइऑक्साइड को 17.7% और मिट्टी से निकलने वाले मीथेन को 14.0% तक घटा सकती है। इमसिल में इसका विस्तार किसानों के श्रम बोझ को कम करने और धान खेती में ग्रीनहाउस गैस कटौती में मदद करने वाला कदम माना जा रहा है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Imsil Perluas Garu Sawah Kering untuk Atasi Krisis Tenaga Tani dan Iklim",
-        "excerpt": "Kabupaten Imsil di Korea Selatan mulai mempromosikan garu sawah kering, metode budidaya padi rendah karbon, untuk mengurangi kekurangan tenaga kerja pedesaan dan merespons krisis iklim.",
-        "body": "Kabupaten Imsil di Provinsi Jeolla Utara baru-baru ini mulai mempromosikan “garu sawah kering”, metode pertanian rendah karbon, untuk membantu mengurangi kekurangan tenaga kerja di pedesaan dan merespons krisis iklim. Metode ini memecah dan meratakan tanah saat sawah masih kering, lalu memasukkan air tepat sebelum penanaman bibit padi. Cara tersebut berbeda dari garu sawah basah konvensional, ketika mesin pertanian berulang kali beroperasi di lahan yang sudah tergenang air. Menurut data Administrasi Pembangunan Pedesaan yang dikutip Yonhap, metode ini dapat menurunkan emisi karbon dioksida dari mesin pertanian sebesar 17,7% dan emisi metana dari tanah sebesar 14,0%. Perluasan di Imsil diharapkan mengurangi beban kerja petani dan mendukung pengurangan gas rumah kaca dalam budidaya padi. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1f61b02096ef",
-    "slug": "코스피-하락-7400선-안팎에서-등락코스닥은-혼조-899569",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T13:00:28.620Z",
-    "updatedAt": "2026-05-09T13:00:28.620Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508077200008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508077200008",
-    "titleFingerprint": "b3917c871aded5c1b61ce7d10daf246389b26bd9",
-    "dedupKeys": [
-      "1f61b02096ef78bb1c487930995673bc480ea98f",
-      "b3917c871aded5c1b61ce7d10daf246389b26bd9",
-      "bd55224adbfb7360613d05cdd7c46bcb6c830201"
-    ],
-    "imageUrl": "/images/articles/1f61b02096ef.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 하락세, 기관 순매수 전환에 7,370대까지 낙폭 축소",
-        "excerpt": "8일 장중 코스피는 기관이 순매수세로 돌아서며 하락 폭을 줄여 7,370대를 나타냈고, 코스닥은 뚜렷한 방향성 없이 혼조 흐름을 보였다.",
-        "body": "8일 서울 증시에서 코스피가 장중 하락세를 보였으나 기관 투자자가 순매수세로 전환하면서 낙폭을 일부 줄여 7,370대를 나타내고 있다. 이날 지수는 7,400선 안팎에서 등락하며 뚜렷한 방향성을 찾는 과정에 놓였다. 코스닥 시장은 상승과 하락이 엇갈리는 혼조 흐름을 보였다. 기관 수급 변화가 코스피 하락 폭을 제한한 가운데, 투자자들은 장중 지수 움직임과 코스닥의 방향성 변화를 주시하고 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Falls but Trims Losses to 7,370 Range as Institutions Turn Buyers",
-        "excerpt": "The KOSPI moved lower intraday on the 8th but reduced losses after institutions shifted to net buying, while the KOSDAQ traded mixed without a clear direction.",
-        "body": "In Seoul trading on the 8th, the KOSPI moved lower during the session but trimmed part of its losses after institutional investors shifted to net buying, standing in the 7,370 range. The index fluctuated around the 7,400 level as it searched for a clearer direction. The KOSDAQ showed mixed movement, with gains and losses alternating. As the change in institutional flows limited the KOSPI’s decline, investors watched intraday index moves and any shift in the KOSDAQ’s direction. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "コスピ下落、機関投資家の買い越し転換で7,370台へ下げ幅縮小",
-        "excerpt": "8日の取引時間中、コスピは下落したものの、機関投資家が買い越しに転じたことで下げ幅を縮小し、コスダックは方向感に欠けるまちまちの展開となった。",
-        "body": "8日のソウル株式市場で、コスピは取引時間中に下落したが、機関投資家が買い越しに転じたことで下げ幅の一部を縮小し、7,370台を示している。指数は7,400台付近で上下し、明確な方向感を探る展開となった。コスダック市場は上昇と下落が交錯するまちまちの流れを見せた。機関投資家の需給変化がコスピの下落幅を抑える中、投資家は指数の動きとコスダックの方向性の変化を注視している。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI下跌但收窄跌幅，机构转为净买入后徘徊7,370点区间",
-        "excerpt": "8日盘中，KOSPI虽下跌，但在机构投资者转为净买入后缩小跌幅，报7,370点区间；KOSDAQ则呈现涨跌交错的混合走势。",
-        "body": "8日首尔股市盘中，KOSPI出现下跌，但随着机构投资者转为净买入，部分收窄跌幅，位于7,370点区间。当天指数在7,400点附近波动，市场仍在寻找明确方向。KOSDAQ市场则上涨和下跌交错，呈现混合走势。机构资金流向变化限制了KOSPI的下跌幅度，投资者继续关注盘中指数波动以及KOSDAQ方向性的变化。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "KOSPI cae pero reduce pérdidas hasta la zona de 7.370 por compras institucionales",
-        "excerpt": "El día 8, el KOSPI bajó en la sesión, pero recortó pérdidas cuando las instituciones pasaron a compras netas; el KOSDAQ mostró un comportamiento mixto.",
-        "body": "En la bolsa de Seúl del día 8, el KOSPI se movió a la baja durante la sesión, pero redujo parte de sus pérdidas después de que los inversores institucionales pasaran a compras netas, situándose en la zona de 7.370. El índice fluctuó alrededor del nivel de 7.400 mientras buscaba una dirección clara. El mercado KOSDAQ mostró un comportamiento mixto, con subidas y bajadas alternadas. Con el cambio en los flujos institucionales limitando la caída del KOSPI, los inversores observaron los movimientos intradía del índice y la evolución de la dirección del KOSDAQ. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI cai, mas reduz perdas para a faixa de 7.370 com compras institucionais",
-        "excerpt": "No dia 8, o KOSPI recuou durante o pregão, mas diminuiu as perdas após instituições passarem a compra líquida; o KOSDAQ teve movimento misto.",
-        "body": "Na bolsa de Seul no dia 8, o KOSPI caiu durante o pregão, mas reduziu parte das perdas depois que investidores institucionais passaram a registrar compra líquida, ficando na faixa de 7.370. O índice oscilou perto do nível de 7.400 enquanto buscava uma direção mais clara. O mercado KOSDAQ apresentou movimento misto, alternando altas e baixas. Com a mudança no fluxo institucional limitando a queda do KOSPI, investidores acompanharam os movimentos intradiários do índice e possíveis mudanças na direção do KOSDAQ. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "KOSPI fällt, grenzt Verluste nach institutionellen Käufen auf 7.370er Bereich ein",
-        "excerpt": "Der KOSPI gab am 8. im Tagesverlauf nach, verringerte die Verluste aber, nachdem Institutionelle zu Nettokäufern wurden; der KOSDAQ tendierte uneinheitlich.",
-        "body": "Im Handel in Seoul am 8. fiel der KOSPI im Tagesverlauf, verringerte jedoch einen Teil seiner Verluste, nachdem institutionelle Anleger zu Nettokäufern wurden, und lag im Bereich von 7.370 Punkten. Der Index schwankte um die Marke von 7.400 Punkten, während er nach einer klareren Richtung suchte. Der KOSDAQ zeigte eine uneinheitliche Entwicklung mit abwechselnden Gewinnen und Verlusten. Da die Veränderung der institutionellen Nachfrage den Rückgang des KOSPI begrenzte, beobachteten Anleger die Intraday-Bewegungen des Index und mögliche Richtungsänderungen beim KOSDAQ. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI recule mais limite ses pertes vers 7 370 grâce aux achats institutionnels",
-        "excerpt": "Le 8, le KOSPI a baissé en séance mais a réduit ses pertes après le passage des institutions à l’achat net, tandis que le KOSDAQ évoluait sans tendance claire.",
-        "body": "À la Bourse de Séoul le 8, le KOSPI a reculé en séance, mais a réduit une partie de ses pertes après que les investisseurs institutionnels sont passés à l’achat net, se situant dans la zone des 7 370 points. L’indice a fluctué autour du seuil de 7 400, sans direction clairement établie. Le marché KOSDAQ a affiché une évolution mitigée, alternant hausses et baisses. Alors que le changement des flux institutionnels limitait le recul du KOSPI, les investisseurs surveillaient les mouvements intrajournaliers de l’indice et l’évolution de la tendance du KOSDAQ. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يتراجع لكنه يقلص خسائره إلى نطاق 7,370 مع تحول المؤسسات للشراء",
-        "excerpt": "في جلسة الثامن، تراجع مؤشر كوسبي خلال التداولات لكنه قلص خسائره بعدما تحولت المؤسسات إلى صافي شراء، بينما تحرك كوسداك في اتجاه مختلط دون مسار واضح.",
-        "body": "في سوق سيول يوم الثامن، تراجع مؤشر كوسبي خلال التداولات، لكنه قلص جزءا من خسائره بعدما تحول المستثمرون المؤسسون إلى صافي شراء، ليستقر في نطاق 7,370 نقطة. وتذبذب المؤشر حول مستوى 7,400 نقطة بينما كان يبحث عن اتجاه أوضح. أما سوق كوسداك فأظهر حركة مختلطة، مع تعاقب الارتفاعات والانخفاضات. ومع مساهمة تغير تدفقات المؤسسات في الحد من هبوط كوسبي، تابع المستثمرون تحركات المؤشر خلال الجلسة وأي تغير في اتجاه كوسداك. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI गिरा, संस्थागत खरीद लौटने से नुकसान घटकर 7,370 दायरे में",
-        "excerpt": "8 तारीख को कारोबार के दौरान KOSPI नीचे रहा, लेकिन संस्थागत निवेशकों के शुद्ध खरीदार बनने से गिरावट कम हुई; KOSDAQ में स्पष्ट दिशा के बिना मिश्रित रुख रहा।",
-        "body": "सियोल बाजार में 8 तारीख को KOSPI कारोबार के दौरान गिरा, लेकिन संस्थागत निवेशकों के शुद्ध खरीदार बनने के बाद उसने अपनी गिरावट का कुछ हिस्सा कम कर लिया और 7,370 के दायरे में रहा। सूचकांक 7,400 के आसपास उतार-चढ़ाव करता रहा और स्पष्ट दिशा खोजने की स्थिति में दिखा। KOSDAQ बाजार में तेजी और गिरावट दोनों दिखीं, जिससे रुझान मिश्रित रहा। संस्थागत प्रवाह में बदलाव ने KOSPI की गिरावट को सीमित किया, जबकि निवेशक दिन के भीतर सूचकांक की चाल और KOSDAQ की दिशा पर नजर रखे रहे। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Turun, Kerugian Menyempit ke Area 7.370 saat Institusi Beralih Beli",
-        "excerpt": "Pada perdagangan tanggal 8, KOSPI melemah tetapi memangkas kerugian setelah institusi beralih menjadi pembeli bersih, sementara KOSDAQ bergerak campuran.",
-        "body": "Di bursa Seoul pada tanggal 8, KOSPI bergerak turun selama sesi, tetapi memangkas sebagian kerugiannya setelah investor institusional beralih menjadi pembeli bersih, berada di area 7.370. Indeks berfluktuasi di sekitar level 7.400 sambil mencari arah yang lebih jelas. Pasar KOSDAQ menunjukkan pergerakan campuran, dengan kenaikan dan penurunan yang saling bergantian. Ketika perubahan arus institusional membatasi penurunan KOSPI, investor memantau pergerakan indeks intraday dan perubahan arah KOSDAQ. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ce5ba0a5b232",
-    "slug": "특징주-닉스-1명-성과급이-더-많겠네cj-enm-실적부진에-약세-143836",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T12:36:42.358Z",
-    "updatedAt": "2026-05-09T12:36:42.358Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508078900008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508078900008",
-    "titleFingerprint": "44d284206e4118c5b985b0e9537ae9d84e2cd2a6",
-    "dedupKeys": [
-      "ce5ba0a5b232f60de90e0c064598cf7fdcef315d",
-      "44d284206e4118c5b985b0e9537ae9d84e2cd2a6",
-      "78cbfd364d783756cffafeda98ae26466fbafc4c"
-    ],
-    "imageUrl": "/images/articles/ce5ba0a5b232.jpg",
-    "i18n": {
-      "ko": {
-        "title": "CJ ENM 주가 약세, 1분기 영업이익 15억원에 시장 실망 확대",
-        "excerpt": "CJ ENM은 8일 1분기 영업이익이 15억원에 그친 것으로 확인되며 실적 부진 우려가 커졌고, 이에 따라 주가가 약세를 보였다고 연합뉴스가 전했다.",
-        "body": "CJ ENM[035760] 주가가 8일 약세를 보였다. 1분기 영업이익이 15억원에 그친 것으로 확인되자 시장의 실망감이 커진 영향이다. 이번 흐름은 실적 부진이 투자심리에 직접 부담으로 작용한 사례로 풀이된다. 원문은 온라인상에서 “닉스 1명 성과급이 더 많겠네”라는 반응이 나올 정도로 낮은 이익 규모가 주목받았다고 전했다. 관련 수치로 제시된 핵심 내용은 CJ ENM의 1분기 영업이익 15억원이다. 시장은 향후 실적 회복 여부를 주가 흐름의 주요 변수로 볼 가능성이 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "CJ ENM Shares Weaken as Q1 Operating Profit of 1.5 Billion Won Disappoints",
-        "excerpt": "CJ ENM shares weakened on May 8 after its first-quarter operating profit was confirmed at just 1.5 billion won, fueling market disappointment, Yonhap reported.",
-        "body": "CJ ENM[035760] shares traded weakly on May 8 after the company’s first-quarter operating profit was confirmed at 1.5 billion won. The figure deepened market disappointment over sluggish earnings and weighed directly on investor sentiment. The original report noted that the low profit level drew attention online, including a remark that one New York Knicks player’s bonus would be larger. The key figure cited was CJ ENM’s first-quarter operating profit of 1.5 billion won. Investors are likely to watch whether earnings recover as a major factor for future share performance. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "CJ ENM株が軟調、1～3月期営業益15億ウォンに市場失望広がる",
-        "excerpt": "CJ ENMは8日、1～3月期営業利益が15億ウォンにとどまったことが確認され、業績不振への懸念から株価が軟調に推移したと聯合ニュースが伝えた。",
-        "body": "CJ ENM[035760]の株価は8日、軟調に推移した。1～3月期の営業利益が15億ウォンにとどまったことが確認され、市場の失望感が強まったためだ。今回の動きは、業績不振が投資心理の重荷になった事例と受け止められる。原文は、オンライン上で「ニックスの選手1人のボーナスの方が多いのでは」といった反応が出るほど、利益規模の小ささが注目されたと伝えた。示された主要数値はCJ ENMの1～3月期営業利益15億ウォンである。今後は業績回復の有無が株価の重要な変数になり得る。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "CJ ENM股价走弱，一季度营业利润仅15亿韩元引发失望",
-        "excerpt": "韩联社报道称，CJ ENM于8日因一季度营业利润确认仅为15亿韩元，市场对业绩低迷的失望扩大，股价随之走弱。",
-        "body": "CJ ENM[035760]股价8日走弱。此前确认其一季度营业利润仅为15亿韩元，市场失望情绪随之扩大。此次走势被视为业绩低迷直接压制投资者情绪的表现。原文称，利润规模之低引发网络关注，甚至出现“还不如尼克斯一名球员的奖金多”的反应。报道中给出的核心数据是CJ ENM一季度营业利润15亿韩元。未来业绩能否恢复，可能成为影响股价走势的重要变量。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "CJ ENM cae en bolsa tras beneficio operativo trimestral de solo 1.500 millones de wones",
-        "excerpt": "CJ ENM se debilitó en bolsa el 8 de mayo después de confirmarse que su beneficio operativo del primer trimestre fue de solo 1.500 millones de wones, informó Yonhap.",
-        "body": "Las acciones de CJ ENM[035760] mostraron debilidad el 8 de mayo. La razón fue que se confirmó que el beneficio operativo del primer trimestre se limitó a 1.500 millones de wones, lo que amplió la decepción del mercado por sus resultados. El movimiento refleja cómo el deterioro de las ganancias pesó directamente sobre el ánimo inversor. El reporte original señaló que el bajo monto llamó la atención en línea, incluso con comentarios de que el bono de un solo jugador de los Knicks sería mayor. La cifra clave citada fue el beneficio operativo trimestral de CJ ENM, de 1.500 millones de wones. La recuperación de resultados podría ser una variable relevante para la acción. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "CJ ENM recua na bolsa após lucro operacional trimestral de só 1,5 bilhão de wones",
-        "excerpt": "A CJ ENM enfraqueceu na bolsa em 8 de maio depois que seu lucro operacional do primeiro trimestre foi confirmado em apenas 1,5 bilhão de wones, informou a Yonhap.",
-        "body": "As ações da CJ ENM[035760] tiveram desempenho fraco em 8 de maio. O movimento ocorreu após a confirmação de que o lucro operacional do primeiro trimestre ficou em 1,5 bilhão de wones, ampliando a decepção do mercado com os resultados. A reação mostra como a fraqueza nos lucros afetou diretamente o sentimento dos investidores. A reportagem original destacou que o valor baixo chamou atenção online, com comentários de que o bônus de um único jogador dos Knicks seria maior. O principal número citado foi o lucro operacional trimestral da CJ ENM, de 1,5 bilhão de wones. A recuperação dos resultados pode influenciar o rumo das ações. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "CJ ENM-Aktie schwach: Q1-Betriebsgewinn von nur 1,5 Mrd. Won enttäuscht",
-        "excerpt": "CJ ENM gab am 8. Mai nach, nachdem ein Betriebsgewinn von nur 1,5 Milliarden Won im ersten Quartal bestätigt wurde und die Enttäuschung am Markt zunahm, berichtete Yonhap.",
-        "body": "Die Aktie von CJ ENM[035760] zeigte sich am 8. Mai schwach. Auslöser war die Bestätigung, dass der Betriebsgewinn im ersten Quartal lediglich 1,5 Milliarden Won betrug. Dadurch wuchs die Enttäuschung des Marktes über die schwachen Ergebnisse. Die Entwicklung zeigt, dass die Gewinnschwäche unmittelbar auf die Anlegerstimmung drückte. Der Originalbericht verwies darauf, dass die niedrige Gewinnhöhe online Aufmerksamkeit auslöste, unter anderem mit der Bemerkung, ein Bonus eines einzelnen Knicks-Spielers sei wohl höher. Die zentrale Kennzahl war der Q1-Betriebsgewinn von CJ ENM in Höhe von 1,5 Milliarden Won. Eine Erholung der Ergebnisse dürfte für den weiteren Aktienkurs wichtig sein. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "CJ ENM recule en Bourse après un bénéfice opérationnel trimestriel de 1,5 milliard de wons",
-        "excerpt": "CJ ENM a faibli en Bourse le 8 mai après la confirmation d’un bénéfice opérationnel de seulement 1,5 milliard de wons au premier trimestre, selon Yonhap.",
-        "body": "L’action CJ ENM[035760] a évolué en baisse le 8 mai. Le repli est intervenu après la confirmation d’un bénéfice opérationnel limité à 1,5 milliard de wons au premier trimestre, ce qui a renforcé la déception du marché face à la faiblesse des résultats. Cette réaction montre que la contre-performance a pesé directement sur le sentiment des investisseurs. Le texte original indiquait que le montant avait attiré l’attention en ligne, avec des remarques selon lesquelles la prime d’un seul joueur des Knicks serait plus élevée. Le chiffre clé cité est le bénéfice opérationnel trimestriel de CJ ENM, à 1,5 milliard de wons. La reprise des résultats pourrait devenir un facteur majeur pour l’action. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "سهم CJ ENM يضعف بعد ربح تشغيلي فصلي بلغ 1.5 مليار وون فقط",
-        "excerpt": "ضعف سهم CJ ENM في 8 مايو بعدما تأكد أن ربحه التشغيلي في الربع الأول بلغ 1.5 مليار وون فقط، ما زاد خيبة أمل السوق، بحسب يونهاب.",
-        "body": "تراجع أداء سهم CJ ENM[035760] في 8 مايو. وجاء ذلك بعدما تأكد أن الربح التشغيلي للشركة في الربع الأول لم يتجاوز 1.5 مليار وون، ما وسع خيبة أمل السوق من ضعف النتائج. ويعكس هذا التحرك ضغط تراجع الأرباح على معنويات المستثمرين بشكل مباشر. وذكر التقرير الأصلي أن انخفاض حجم الربح لفت الانتباه عبر الإنترنت، مع تعليق يفيد بأن مكافأة لاعب واحد من نيكس قد تكون أكبر. الرقم الأساسي الوارد هو الربح التشغيلي للربع الأول لدى CJ ENM بقيمة 1.5 مليار وون. وقد تصبح إمكانية تعافي الأرباح عاملا مهما في مسار السهم لاحقا. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "CJ ENM शेयर कमजोर, पहली तिमाही का परिचालन लाभ सिर्फ 1.5 अरब वॉन",
-        "excerpt": "योनहाप के अनुसार, 8 मई को CJ ENM का शेयर कमजोर रहा क्योंकि पहली तिमाही का परिचालन लाभ केवल 1.5 अरब वॉन रहने की पुष्टि हुई और बाजार की निराशा बढ़ी।",
-        "body": "CJ ENM[035760] का शेयर 8 मई को कमजोर रहा। कंपनी का पहली तिमाही का परिचालन लाभ केवल 1.5 अरब वॉन रहने की पुष्टि होने के बाद बाजार में निराशा बढ़ी। यह रुख दिखाता है कि कमजोर नतीजों ने निवेशक भावना पर सीधा दबाव डाला। मूल रिपोर्ट में कहा गया कि इतने कम लाभ पर ऑनलाइन ध्यान गया और यह टिप्पणी भी आई कि निक्स के एक खिलाड़ी का बोनस इससे अधिक होगा। रिपोर्ट में दिया गया मुख्य आंकड़ा CJ ENM का पहली तिमाही का 1.5 अरब वॉन परिचालन लाभ है। आगे शेयर की दिशा के लिए नतीजों में सुधार एक अहम कारक हो सकता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Saham CJ ENM Melemah Setelah Laba Operasi Kuartal I Hanya 1,5 Miliar Won",
-        "excerpt": "CJ ENM melemah di bursa pada 8 Mei setelah laba operasi kuartal pertamanya dikonfirmasi hanya 1,5 miliar won, sehingga kekecewaan pasar meningkat, lapor Yonhap.",
-        "body": "Saham CJ ENM[035760] melemah pada 8 Mei. Tekanan muncul setelah laba operasi kuartal pertama perusahaan dipastikan hanya 1,5 miliar won, yang memperbesar kekecewaan pasar terhadap kinerja. Pergerakan ini menunjukkan bahwa lemahnya laba langsung membebani sentimen investor. Laporan asli menyebut besarnya laba yang rendah menjadi perhatian daring, termasuk komentar bahwa bonus satu pemain Knicks mungkin lebih besar. Angka utama yang disebut adalah laba operasi kuartal pertama CJ ENM sebesar 1,5 miliar won. Ke depan, pemulihan kinerja dapat menjadi faktor penting bagi arah saham. Sumber: yna.co.kr"
       }
     }
   }
