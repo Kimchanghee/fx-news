@@ -1,5 +1,230 @@
 [
   {
+    "id": "51aef6dade73",
+    "slug": "수업이-경력-경기-직업계고-19곳-ai-실무교육-도입-450432",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T16:37:42.450Z",
+    "updatedAt": "2026-05-09T16:37:42.450Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508056700060",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508056700060",
+    "titleFingerprint": "8a7717dd91e6557670c3a117a5e3322f7704646c",
+    "dedupKeys": [
+      "51aef6dade7352fea1412d522aa227aadcbb5996",
+      "8a7717dd91e6557670c3a117a5e3322f7704646c",
+      "2c2d580dac321eb0822cf74ee7076fba395e0fcd"
+    ],
+    "imageUrl": "/images/articles/51aef6dade73.jpg",
+    "i18n": {
+      "ko": {
+        "title": "경기 직업계고 19곳, AI 실무교육 도입…수업을 취업 경력으로",
+        "excerpt": "경기도교육청은 경기 지역 직업계고 19곳에서 전공 수업에 AI 활용 실무교육을 도입해 학생들이 취업 과정에서 수업 경험을 경력으로 활용하도록 지원한다.",
+        "body": "경기도교육청은 경기 지역 직업계고 19곳에서 전공 수업 때 인공지능(AI)을 활용한 실무교육을 도입한다고 밝혔다. 이번 교육은 직업계고 학생들이 학교 수업에서 AI 기반 실무 능력을 익히고, 이를 취업 과정에서 경력으로 활용할 수 있도록 하는 데 초점이 맞춰졌다. 대상은 경기도 내 직업계고 19곳으로, 전공 수업과 실제 업무 역량을 연결하는 방식이다. 경기도교육청은 학생들의 취업 경쟁력 강화와 산업 현장 변화 대응을 위해 AI 활용 교육을 추진한다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "19 Gyeonggi Vocational High Schools Add AI Practical Training for Careers",
+        "excerpt": "The Gyeonggi Provincial Office of Education will introduce AI-based practical training in major classes at 19 vocational high schools to help students use classroom experience as career credentials.",
+        "body": "The Gyeonggi Provincial Office of Education said it will introduce practical training using artificial intelligence in major classes at 19 vocational high schools in Gyeonggi Province. The program focuses on helping vocational high school students build AI-based practical skills during regular coursework and use that classroom experience as career credentials when seeking employment. The participating schools are 19 vocational high schools in the province, with instruction designed to connect majors with workplace capabilities. The office is pursuing AI education to strengthen students’ job competitiveness and respond to changes in industry. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "京畿道の職業系高校19校、AI実務教育を導入し授業を就職経歴に",
+        "excerpt": "京畿道教育庁は、道内の職業系高校19校で専門授業にAI活用の実務教育を導入し、学生が就職時に授業経験を経歴として活用できるよう支援する。",
+        "body": "京畿道教育庁は、京畿道内の職業系高校19校で、専門授業の際に人工知能（AI）を活用した実務教育を導入すると明らかにした。今回の教育は、職業系高校の学生が学校の授業でAI基盤の実務能力を身につけ、それを就職過程で経歴として活用できるようにすることに焦点を置いている。対象は道内の職業系高校19校で、専門授業と実際の業務能力を結び付ける方式だ。京畿道教育庁は、学生の就職競争力強化と産業現場の変化への対応に向け、AI活用教育を推進する。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "京畿19所职业高中引入AI实务教育，课堂经验可用于就业履历",
+        "excerpt": "京畿道教育厅将在京畿地区19所职业高中专业课程中引入AI实务教育，帮助学生在求职时将课堂经验作为职业经历使用。",
+        "body": "京畿道教育厅表示，将在京畿地区19所职业高中专业课程中引入利用人工智能（AI）的实务教育。此次教育重点在于帮助职业高中学生在学校课程中掌握基于AI的实务能力，并在就业过程中将相关课堂经验作为职业经历加以运用。对象为京畿道内19所职业高中，教学方式将把专业课程与实际工作能力相连接。京畿道教育厅将推进AI应用教育，以增强学生就业竞争力，并应对产业现场变化。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "19 escuelas vocacionales de Gyeonggi incorporan formación práctica en IA",
+        "excerpt": "La Oficina de Educación de Gyeonggi introducirá formación práctica con IA en clases de especialidad de 19 escuelas vocacionales para que los alumnos usen esa experiencia al buscar empleo.",
+        "body": "La Oficina de Educación de la provincia de Gyeonggi informó que introducirá formación práctica con inteligencia artificial en las clases de especialidad de 19 escuelas secundarias vocacionales de la región. La iniciativa se centra en que los estudiantes desarrollen habilidades prácticas basadas en IA dentro de sus cursos y puedan utilizar esa experiencia de clase como trayectoria al momento de buscar empleo. El programa abarcará 19 escuelas vocacionales de Gyeonggi y conectará las materias de especialidad con capacidades laborales reales. La oficina impulsa esta educación con IA para reforzar la competitividad laboral de los estudiantes y responder a los cambios del sector industrial. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "19 escolas vocacionais de Gyeonggi adotam formação prática em IA",
+        "excerpt": "A Secretaria de Educação de Gyeonggi introduzirá formação prática com IA em aulas técnicas de 19 escolas vocacionais para ajudar alunos a usar a experiência como histórico profissional.",
+        "body": "A Secretaria de Educação da Província de Gyeonggi informou que introduzirá formação prática com inteligência artificial nas aulas de especialização de 19 escolas vocacionais da região. A iniciativa busca permitir que estudantes do ensino vocacional adquiram competências práticas baseadas em IA durante as aulas e usem essa experiência como histórico profissional no processo de emprego. O programa envolverá 19 escolas vocacionais em Gyeonggi, conectando disciplinas técnicas a capacidades reais de trabalho. A secretaria promove a educação com IA para fortalecer a competitividade dos alunos no mercado de trabalho e responder às mudanças da indústria. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "19 Berufsoberschulen in Gyeonggi führen praxisnahe KI-Ausbildung ein",
+        "excerpt": "Das Bildungsamt der Provinz Gyeonggi führt an 19 beruflichen Schulen KI-gestützte Praxisausbildung im Fachunterricht ein, damit Schüler Unterrichtserfahrung bei Bewerbungen nutzen können.",
+        "body": "Das Bildungsamt der Provinz Gyeonggi teilte mit, dass an 19 beruflichen Oberschulen in der Region eine praxisnahe Ausbildung mit künstlicher Intelligenz im Fachunterricht eingeführt wird. Ziel ist es, dass Schülerinnen und Schüler beruflicher Schulen im Unterricht KI-basierte praktische Fähigkeiten erwerben und diese Erfahrung im Bewerbungsprozess als beruflichen Nachweis nutzen können. Beteiligt sind 19 berufliche Schulen in Gyeonggi; der Unterricht soll Fachinhalte mit realen Arbeitskompetenzen verbinden. Das Bildungsamt treibt die KI-Ausbildung voran, um die Beschäftigungsfähigkeit der Schüler zu stärken und auf Veränderungen in der Industrie zu reagieren. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "19 lycées professionnels de Gyeonggi lancent une formation pratique à l’IA",
+        "excerpt": "Le bureau de l’éducation de Gyeonggi introduira une formation pratique à l’IA dans les cours de spécialité de 19 lycées professionnels afin d’aider les élèves à valoriser cette expérience à l’embauche.",
+        "body": "Le bureau de l’éducation de la province de Gyeonggi a annoncé l’introduction d’une formation pratique utilisant l’intelligence artificielle dans les cours de spécialité de 19 lycées professionnels de la région. Cette mesure vise à permettre aux élèves d’acquérir en classe des compétences pratiques fondées sur l’IA et de les utiliser comme expérience lors de leur recherche d’emploi. Le dispositif concerne 19 lycées professionnels de Gyeonggi et relie les cours de spécialité aux compétences requises dans le monde du travail. Le bureau promeut cette éducation à l’IA pour renforcer la compétitivité des élèves sur le marché de l’emploi et répondre aux évolutions industrielles. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "19 مدرسة مهنية في غيونغي تعتمد تدريباً عملياً على الذكاء الاصطناعي",
+        "excerpt": "تعتزم هيئة التعليم في غيونغي إدخال تدريب عملي قائم على الذكاء الاصطناعي في دروس التخصص بـ19 مدرسة مهنية، لمساعدة الطلاب على استخدام خبرة الصف في التوظيف.",
+        "body": "أعلنت هيئة التعليم في مقاطعة غيونغي أنها ستدخل تدريباً عملياً يستخدم الذكاء الاصطناعي في دروس التخصص داخل 19 مدرسة ثانوية مهنية في المنطقة. ويركز البرنامج على تمكين طلاب المدارس المهنية من اكتساب مهارات عملية قائمة على الذكاء الاصطناعي خلال الحصص الدراسية، واستخدام هذه الخبرة كمسار مهني عند التقدم للوظائف. ويشمل المشروع 19 مدرسة مهنية في غيونغي، مع ربط الدروس التخصصية بالقدرات المطلوبة في بيئات العمل الفعلية. وتدفع الهيئة بتعليم الذكاء الاصطناعي لتعزيز تنافسية الطلاب في التوظيف والاستجابة لتغيرات القطاع الصناعي. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "ग्योंगगी के 19 व्यावसायिक स्कूलों में AI व्यावहारिक शिक्षा शुरू",
+        "excerpt": "ग्योंगगी शिक्षा कार्यालय 19 व्यावसायिक हाई स्कूलों के प्रमुख विषयों में AI आधारित व्यावहारिक शिक्षा शुरू करेगा, ताकि छात्र कक्षा अनुभव को रोजगार में करियर अनुभव के रूप में उपयोग कर सकें।",
+        "body": "ग्योंगगी प्रांतीय शिक्षा कार्यालय ने कहा कि वह क्षेत्र के 19 व्यावसायिक हाई स्कूलों में प्रमुख विषयों की कक्षाओं के दौरान कृत्रिम बुद्धिमत्ता यानी AI का उपयोग करने वाली व्यावहारिक शिक्षा शुरू करेगा। इस कार्यक्रम का उद्देश्य व्यावसायिक स्कूलों के छात्रों को कक्षा में AI आधारित व्यावहारिक कौशल सिखाना और रोजगार प्रक्रिया में उस कक्षा अनुभव को करियर अनुभव के रूप में उपयोग करने में मदद करना है।対象 ग्योंगगी के 19 व्यावसायिक हाई स्कूल हैं, जहां विषयगत पढ़ाई को वास्तविक कार्य क्षमता से जोड़ा जाएगा। शिक्षा कार्यालय छात्रों की रोजगार प्रतिस्पर्धा मजबूत करने और उद्योग में बदलावों का जवाब देने के लिए AI शिक्षा को आगे बढ़ा रहा है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "19 SMK di Gyeonggi Terapkan Pendidikan Praktik AI untuk Karier Siswa",
+        "excerpt": "Dinas Pendidikan Gyeonggi akan memperkenalkan pelatihan praktik berbasis AI di kelas kejuruan pada 19 SMK agar pengalaman belajar dapat digunakan siswa dalam proses mencari kerja.",
+        "body": "Dinas Pendidikan Provinsi Gyeonggi menyatakan akan memperkenalkan pendidikan praktik yang menggunakan kecerdasan buatan atau AI dalam kelas jurusan di 19 sekolah menengah kejuruan di wilayah tersebut. Program ini berfokus pada membantu siswa SMK memperoleh kemampuan praktik berbasis AI melalui pelajaran di sekolah dan menggunakan pengalaman kelas itu sebagai pengalaman karier saat mencari pekerjaan. Sasarannya adalah 19 SMK di Gyeonggi, dengan pembelajaran yang menghubungkan mata pelajaran kejuruan dan kemampuan kerja nyata. Dinas pendidikan mendorong pendidikan AI untuk memperkuat daya saing kerja siswa dan merespons perubahan di dunia industri. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "fff121ded5f6",
+    "slug": "바이오스냅-gc녹십자-짜먹는-소화제-백초시럽플러스-10-출시-193427",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T16:36:41.160Z",
+    "updatedAt": "2026-05-09T16:36:41.160Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508048100017",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508048100017",
+    "titleFingerprint": "079a97106247c1a662ca775ec204648ca6eafe56",
+    "dedupKeys": [
+      "fff121ded5f642c675f467095ab804fd54da3c99",
+      "079a97106247c1a662ca775ec204648ca6eafe56",
+      "225ed8642f99fe894938dc72a5e638d3f900d000"
+    ],
+    "imageUrl": "/images/articles/fff121ded5f6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "GC녹십자, 짜먹는 소화제 ‘백초시럽플러스’ 10㎖ 신제품 출시",
+        "excerpt": "GC녹십자는 소화기 가정상비약 스테디셀러 브랜드 ‘백초’의 신제품인 짜먹는 소화제 ‘백초시럽플러스’ 10㎖를 출시했다.",
+        "body": "GC녹십자가 소화기 가정상비약 스테디셀러 브랜드 ‘백초’의 신제품으로 짜먹는 소화제 ‘백초시럽플러스’ 10㎖를 출시했다. 제약업계 소식에 따르면 이번 제품은 기존 백초 브랜드의 제품군을 넓히는 신제품이다. ‘백초’는 가정에서 비치해 쓰는 소화기 상비약 브랜드로 알려져 있으며, GC녹십자는 이번 출시를 통해 소비자가 간편하게 이용할 수 있는 10㎖ 형태의 제품을 선보였다. 관련 내용은 연합뉴스가 보도했으며, 출처는 yna.co.kr이다."
+      },
+      "en": {
+        "title": "GC Green Cross Launches 10ml Baekcho Syrup Plus Squeeze Digestive",
+        "excerpt": "GC Green Cross has released Baekcho Syrup Plus 10ml, a new squeeze-type digestive product under its steady-selling home digestive medicine brand Baekcho.",
+        "body": "GC Green Cross has launched Baekcho Syrup Plus 10ml, a new squeeze-type digestive product under Baekcho, its steady-selling home digestive medicine brand. According to pharmaceutical industry news, the product expands the existing Baekcho brand lineup. Baekcho is known as a digestive household medicine brand kept at home for everyday use, and GC Green Cross introduced a 10ml format designed for convenient consumption. The report was carried by Yonhap News Agency, with yna.co.kr cited as the source."
+      },
+      "ja": {
+        "title": "GC緑十字、飲み切り消化剤「百草シロッププラス」10mlを発売",
+        "excerpt": "GC緑十字は、家庭用消化器常備薬のロングセラーブランド「百草」から、新製品の飲み切り消化剤「百草シロッププラス」10mlを発売した。",
+        "body": "GC緑十字は、家庭用消化器常備薬のロングセラーブランド「百草」の新製品として、飲み切りタイプの消化剤「百草シロッププラス」10mlを発売した。製薬業界のニュースによると、今回の製品は既存の百草ブランドのラインアップを広げる新製品だ。百草は家庭に備えて使う消化器常備薬ブランドとして知られており、GC緑十字は今回、消費者が手軽に利用できる10ml形態の製品を投入した。関連内容は聯合ニュースが報じ、出典はyna.co.krである。"
+      },
+      "zh": {
+        "title": "GC绿十字推出10毫升挤食型消化药“百草糖浆Plus”",
+        "excerpt": "GC绿十字推出家庭常备消化药畅销品牌“百草”的新品，即10毫升挤食型消化药“百草糖浆Plus”。",
+        "body": "GC绿十字推出了家庭常备消化药畅销品牌“百草”的新产品，10毫升挤食型消化药“百草糖浆Plus”。据制药行业消息，此次产品是扩大现有百草品牌产品线的新品。百草被认为是家庭中备用的消化类常备药品牌，GC绿十字此次推出了消费者可便捷使用的10毫升规格产品。相关内容由韩联社报道，来源为yna.co.kr。"
+      },
+      "es": {
+        "title": "GC Green Cross lanza Baekcho Syrup Plus 10 ml, digestivo para tomar al instante",
+        "excerpt": "GC Green Cross lanzó Baekcho Syrup Plus de 10 ml, un nuevo digestivo de formato exprimible de su marca estable de botiquín digestivo Baekcho.",
+        "body": "GC Green Cross lanzó Baekcho Syrup Plus de 10 ml, un nuevo digestivo de formato exprimible dentro de Baekcho, su marca estable de medicamentos digestivos para el botiquín familiar. Según noticias del sector farmacéutico, el producto amplía la línea existente de la marca Baekcho. Baekcho es conocida como una marca de medicina digestiva de uso doméstico, y GC Green Cross presentó esta vez una presentación de 10 ml pensada para un consumo sencillo. La información fue publicada por Yonhap News Agency y la fuente citada es yna.co.kr."
+      },
+      "pt": {
+        "title": "GC Green Cross lança digestivo Baekcho Syrup Plus de 10 ml em formato prático",
+        "excerpt": "A GC Green Cross lançou o Baekcho Syrup Plus de 10 ml, novo digestivo em formato espremível da tradicional marca doméstica Baekcho.",
+        "body": "A GC Green Cross lançou o Baekcho Syrup Plus de 10 ml, um novo digestivo em formato espremível da Baekcho, sua marca tradicional de medicamentos digestivos para uso doméstico. Segundo notícias do setor farmacêutico, o produto amplia a linha existente da marca Baekcho. A Baekcho é conhecida como uma marca de remédios digestivos mantidos em casa, e a GC Green Cross apresentou agora uma versão de 10 ml voltada ao uso conveniente pelos consumidores. A informação foi divulgada pela Yonhap News Agency, com yna.co.kr como fonte."
+      },
+      "de": {
+        "title": "GC Green Cross bringt 10-ml-Verdauungsmittel Baekcho Syrup Plus heraus",
+        "excerpt": "GC Green Cross hat Baekcho Syrup Plus 10 ml eingeführt, ein neues ausdrückbares Verdauungsmittel der etablierten Hausapothekenmarke Baekcho.",
+        "body": "GC Green Cross hat Baekcho Syrup Plus 10 ml auf den Markt gebracht, ein neues ausdrückbares Verdauungsmittel unter Baekcho, der etablierten Marke für Verdauungsarzneien in der Hausapotheke. Branchenmeldungen aus der Pharmaindustrie zufolge erweitert das Produkt die bestehende Baekcho-Reihe. Baekcho ist als Marke für Verdauungsmittel bekannt, die zu Hause vorrätig gehalten werden, und GC Green Cross stellte nun eine 10-ml-Form vor, die Verbraucher bequem nutzen können. Der Bericht stammt von Yonhap News Agency; als Quelle wird yna.co.kr genannt."
+      },
+      "fr": {
+        "title": "GC Green Cross lance Baekcho Syrup Plus 10 ml, digestif en format à presser",
+        "excerpt": "GC Green Cross a lancé Baekcho Syrup Plus 10 ml, un nouveau digestif en format à presser de sa marque familiale de référence Baekcho.",
+        "body": "GC Green Cross a lancé Baekcho Syrup Plus 10 ml, un nouveau digestif en format à presser au sein de Baekcho, sa marque bien établie de médicaments digestifs pour la pharmacie familiale. Selon les nouvelles du secteur pharmaceutique, ce produit élargit la gamme existante de la marque Baekcho. Baekcho est connue comme une marque de remèdes digestifs gardés à domicile, et GC Green Cross propose cette fois un format de 10 ml conçu pour une utilisation pratique par les consommateurs. L’information a été rapportée par Yonhap News Agency, avec yna.co.kr comme source."
+      },
+      "ar": {
+        "title": "جي سي غرين كروس تطلق هاضم Baekcho Syrup Plus بحجم 10 مل",
+        "excerpt": "أطلقت جي سي غرين كروس منتج Baekcho Syrup Plus بحجم 10 مل، وهو هاضم جديد قابل للعصر ضمن علامة Baekcho المنزلية المعروفة.",
+        "body": "أطلقت جي سي غرين كروس منتج Baekcho Syrup Plus بحجم 10 مل، وهو هاضم جديد قابل للعصر ضمن علامة Baekcho، المعروفة كإحدى علامات أدوية الجهاز الهضمي المنزلية. ووفق أخبار قطاع الأدوية، يوسع هذا المنتج تشكيلة علامة Baekcho الحالية. وتعرف Baekcho بأنها علامة لأدوية هضمية تحفظ في المنزل للاستخدام عند الحاجة، وقدمت جي سي غرين كروس هذه المرة شكلا بحجم 10 مل يتيح استخداما ميسرا للمستهلكين. ونقلت وكالة يونهاب للأنباء هذه المعلومات، والمصدر هو yna.co.kr."
+      },
+      "hi": {
+        "title": "GC Green Cross ने 10ml Baekcho Syrup Plus निचोड़कर लेने वाला पाचन उत्पाद उतारा",
+        "excerpt": "GC Green Cross ने घरेलू पाचन दवा ब्रांड Baekcho के तहत नया 10ml Baekcho Syrup Plus लॉन्च किया, जिसे निचोड़कर आसानी से लिया जा सकता है।",
+        "body": "GC Green Cross ने Baekcho ब्रांड के तहत नया 10ml Baekcho Syrup Plus लॉन्च किया है, जो निचोड़कर लेने वाला पाचन उत्पाद है। Baekcho कंपनी का घरेलू पाचन दवाओं का स्थिर और लोकप्रिय ब्रांड माना जाता है। दवा उद्योग की खबरों के अनुसार, यह उत्पाद मौजूदा Baekcho ब्रांड लाइनअप का विस्तार करता है। Baekcho को घर में रखी जाने वाली पाचन संबंधी सामान्य दवा के ब्रांड के रूप में जाना जाता है, और GC Green Cross ने इस बार उपभोक्ताओं के लिए सुविधाजनक 10ml रूप पेश किया है। यह जानकारी Yonhap News Agency ने दी है और स्रोत yna.co.kr है।"
+      },
+      "id": {
+        "title": "GC Green Cross Luncurkan Baekcho Syrup Plus 10 ml untuk Pencernaan",
+        "excerpt": "GC Green Cross meluncurkan Baekcho Syrup Plus 10 ml, produk pencernaan baru berbentuk praktis dari merek obat rumah tangga Baekcho.",
+        "body": "GC Green Cross meluncurkan Baekcho Syrup Plus 10 ml, produk pencernaan baru berbentuk praktis dari Baekcho, merek obat pencernaan rumah tangga yang dikenal stabil di pasar. Menurut kabar industri farmasi, produk ini memperluas lini merek Baekcho yang sudah ada. Baekcho dikenal sebagai merek obat pencernaan yang disimpan di rumah untuk kebutuhan sehari-hari, dan GC Green Cross kali ini memperkenalkan format 10 ml yang mudah digunakan konsumen. Informasi ini dilaporkan oleh Yonhap News Agency, dengan yna.co.kr sebagai sumber."
+      }
+    }
+  },
+  {
+    "id": "a87e2137135b",
+    "slug": "스마트폰-덜-팔렸는데-매출은-뛰었다글로벌-1분기-8-702296",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T16:35:47.722Z",
+    "updatedAt": "2026-05-09T16:35:47.722Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508057600017",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508057600017",
+    "titleFingerprint": "007b9bc4a051b80df0dc27c9f1150aab921e5744",
+    "dedupKeys": [
+      "a87e2137135b137c68a1129dfca1d42aa90a0450",
+      "007b9bc4a051b80df0dc27c9f1150aab921e5744",
+      "eea879da5330e8e1fa9f709aa7fcc6d4adcc0496"
+    ],
+    "imageUrl": "/images/articles/a87e2137135b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "글로벌 스마트폰 1분기 매출 8% 증가, 출하량 감소에도 반등",
+        "excerpt": "올해 1분기 전 세계 스마트폰 시장은 출하량이 줄었지만 프리미엄 제품 판매 확대와 가격 인상 영향으로 매출이 8% 증가했다.",
+        "body": "올해 1분기 전 세계 스마트폰 시장 매출이 출하량 감소에도 전년 대비 8% 증가했다. 스마트폰이 덜 팔렸지만 프리미엄 제품 판매가 확대되고 제품 가격이 오른 영향이 매출 성장을 이끌었다. 이번 흐름은 수량 중심의 성장보다 고가 제품 비중과 평균 판매가격이 시장 실적에 더 큰 영향을 주고 있음을 보여준다. 출하량 감소는 수요 둔화 부담을 시사하지만, 프리미엄 제품 중심의 판매 구조는 제조사 매출 방어에 기여한 것으로 해석된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Global Smartphone Revenue Rose 8% in Q1 Despite Lower Shipments",
+        "excerpt": "Global smartphone revenue increased 8% in the first quarter as premium product sales expanded and prices rose, even though shipments declined.",
+        "body": "Global smartphone market revenue rose 8% year over year in the first quarter despite a decline in shipments. Fewer smartphones were sold, but stronger sales of premium products and higher prices drove revenue growth. The trend shows that the share of high-end devices and average selling prices are having a bigger impact on market performance than shipment volume alone. The shipment decline points to pressure from softer demand, while the premium-led sales structure helped manufacturers defend revenue. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "世界スマホ市場、1〜3月売上8％増 出荷減でも高価格帯が牽引",
+        "excerpt": "今年1〜3月の世界スマートフォン市場は出荷台数が減少した一方、プレミアム製品の販売拡大と価格上昇で売上高が8％増加した。",
+        "body": "今年1〜3月期の世界スマートフォン市場の売上高は、出荷台数が減少したにもかかわらず前年同期比で8％増加した。販売台数は減ったが、プレミアム製品の販売拡大と製品価格の上昇が売上成長を支えた。今回の流れは、数量中心の成長よりも高価格帯製品の比率や平均販売価格が市場実績に大きく影響していることを示す。出荷減は需要鈍化の負担を示唆する一方、プレミアム中心の販売構造はメーカーの売上防衛に寄与したとみられる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "全球智能手机一季度营收增长8%，出货下滑仍获支撑",
+        "excerpt": "今年一季度全球智能手机市场出货量下降，但受高端产品销售扩大和价格上涨影响，整体营收增长8%。",
+        "body": "今年第一季度，全球智能手机市场营收在出货量下降的情况下同比增长8%。智能手机销量减少，但高端产品销售扩大以及产品价格上涨推动了营收增长。这一趋势显示，与单纯依靠出货量增长相比，高价产品占比和平均售价正对市场表现产生更大影响。出货量下降反映出需求放缓压力，但以高端产品为中心的销售结构有助于厂商维持营收。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Ingresos mundiales de smartphones suben 8% en el primer trimestre",
+        "excerpt": "En el primer trimestre, el mercado mundial de smartphones aumentó sus ingresos un 8% pese a menores envíos, impulsado por modelos premium y alzas de precios.",
+        "body": "Los ingresos del mercado mundial de smartphones crecieron un 8% interanual en el primer trimestre, aunque los envíos disminuyeron. Se vendieron menos teléfonos, pero la expansión de las ventas de productos premium y el aumento de precios impulsaron el crecimiento de los ingresos. La tendencia muestra que el peso de los dispositivos de gama alta y el precio medio de venta influyen más en el desempeño del mercado que el volumen de envíos por sí solo. La caída de envíos apunta a una demanda más débil, mientras la estructura centrada en premium ayudó a sostener ingresos. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Receita global de smartphones cresce 8% no 1º tri apesar de queda",
+        "excerpt": "No primeiro trimestre, a receita global de smartphones subiu 8% mesmo com menor volume de envios, apoiada por vendas premium e alta de preços.",
+        "body": "A receita do mercado global de smartphones cresceu 8% em relação ao ano anterior no primeiro trimestre, apesar da queda nos envios. Menos aparelhos foram vendidos, mas a expansão das vendas de produtos premium e o aumento dos preços impulsionaram a receita. O movimento mostra que a participação de modelos de maior valor e o preço médio de venda pesam mais no desempenho do mercado do que apenas o volume. A redução nos envios indica pressão de demanda mais fraca, enquanto a estrutura focada em premium ajudou fabricantes a preservar receita. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Weltweiter Smartphone-Umsatz steigt im ersten Quartal um 8%",
+        "excerpt": "Der globale Smartphone-Markt erzielte im ersten Quartal trotz sinkender Liefermengen 8% mehr Umsatz, gestützt durch Premiumverkäufe und Preiserhöhungen.",
+        "body": "Der Umsatz des weltweiten Smartphone-Marktes stieg im ersten Quartal trotz rückläufiger Auslieferungen im Jahresvergleich um 8%. Es wurden weniger Smartphones verkauft, doch höhere Verkäufe von Premiumprodukten und gestiegene Preise trieben das Umsatzwachstum. Die Entwicklung zeigt, dass der Anteil hochpreisiger Geräte und durchschnittliche Verkaufspreise die Marktergebnisse stärker beeinflussen als reine Stückzahlen. Der Rückgang der Lieferungen deutet auf schwächere Nachfrage hin, während die premiumorientierte Verkaufsstruktur den Herstellern half, Umsätze zu sichern. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Smartphones mondiaux: chiffre d’affaires en hausse de 8% au T1",
+        "excerpt": "Au premier trimestre, le marché mondial des smartphones a vu son chiffre d’affaires progresser de 8% malgré moins de livraisons, porté par le premium et les prix.",
+        "body": "Le chiffre d’affaires du marché mondial des smartphones a augmenté de 8% sur un an au premier trimestre, malgré une baisse des livraisons. Moins de téléphones ont été vendus, mais l’expansion des ventes de produits premium et la hausse des prix ont soutenu la croissance. Cette tendance montre que la part des appareils haut de gamme et le prix moyen de vente influencent davantage les résultats du marché que le seul volume. Le recul des livraisons signale une demande plus faible, tandis que la structure centrée sur le premium a aidé les fabricants à préserver leurs revenus. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "إيرادات الهواتف الذكية عالميا ترتفع 8% في الربع الأول رغم تراجع الشحنات",
+        "excerpt": "في الربع الأول من هذا العام، ارتفعت إيرادات سوق الهواتف الذكية العالمي 8% رغم انخفاض الشحنات، بدعم من مبيعات الأجهزة الفاخرة وزيادة الأسعار.",
+        "body": "ارتفعت إيرادات سوق الهواتف الذكية العالمي في الربع الأول من هذا العام بنسبة 8% على أساس سنوي رغم انخفاض الشحنات. فقد بيعت هواتف أقل، لكن توسع مبيعات المنتجات الفاخرة وارتفاع الأسعار دفعا نمو الإيرادات. ويظهر هذا الاتجاه أن حصة الأجهزة مرتفعة السعر ومتوسط سعر البيع أصبحا أكثر تأثيرا في أداء السوق من حجم الشحنات وحده. ويشير تراجع الشحنات إلى ضغط ناتج عن تباطؤ الطلب، بينما ساعدت بنية المبيعات المرتكزة على المنتجات الفاخرة الشركات المصنعة على دعم إيراداتها. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "वैश्विक स्मार्टफोन राजस्व पहली तिमाही में 8% बढ़ा, शिपमेंट घटे",
+        "excerpt": "इस साल पहली तिमाही में वैश्विक स्मार्टफोन बाजार में शिपमेंट घटे, लेकिन प्रीमियम उत्पादों की बिक्री और कीमतों में वृद्धि से राजस्व 8% बढ़ा।",
+        "body": "इस साल पहली तिमाही में वैश्विक स्मार्टफोन बाजार का राजस्व शिपमेंट में गिरावट के बावजूद सालाना आधार पर 8% बढ़ा। स्मार्टफोन कम बिके, लेकिन प्रीमियम उत्पादों की बिक्री बढ़ने और कीमतों में वृद्धि ने राजस्व वृद्धि को सहारा दिया। यह रुझान दिखाता है कि केवल बिक्री मात्रा की तुलना में महंगे उत्पादों की हिस्सेदारी और औसत बिक्री मूल्य बाजार प्रदर्शन पर अधिक असर डाल रहे हैं। शिपमेंट में कमी मांग सुस्ती के दबाव का संकेत देती है, जबकि प्रीमियम-केंद्रित बिक्री संरचना ने निर्माताओं के राजस्व को संभालने में मदद की। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Pendapatan Smartphone Global Q1 Naik 8% Meski Pengiriman Turun",
+        "excerpt": "Pada kuartal pertama tahun ini, pendapatan pasar smartphone global naik 8% meski pengiriman turun, didorong penjualan premium dan kenaikan harga.",
+        "body": "Pendapatan pasar smartphone global pada kuartal pertama tahun ini naik 8% secara tahunan meski pengiriman menurun. Jumlah smartphone yang terjual berkurang, tetapi perluasan penjualan produk premium dan kenaikan harga mendorong pertumbuhan pendapatan. Tren ini menunjukkan bahwa porsi perangkat berharga tinggi dan harga jual rata-rata makin berpengaruh terhadap kinerja pasar dibanding volume pengiriman saja. Penurunan pengiriman mengindikasikan tekanan dari pelemahan permintaan, sementara struktur penjualan berbasis premium membantu produsen mempertahankan pendapatan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "94118d8d4f7a",
     "slug": "미래에셋-美최대증권예탁기관-dtcc-주도-토큰화-워킹그룹-합류-675573",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Kurs Valuta Asing Penutupan 8 Mei Dirilis, Acuan Pukul 15.30",
         "excerpt": "Yonhap melaporkan kurs valuta asing penutupan 8 Mei berdasarkan pukul 15.30, sebagai rujukan untuk mengecek penutupan pasar valas hari itu.",
         "body": "Kurs valuta asing penutupan 8 Mei dirilis berdasarkan data pukul 15.30. Informasi ini merangkum harga penutupan yang dikonfirmasi di pasar valuta asing pada hari tersebut dan menjadi rujukan dasar bagi pelaku pasar yang perlu memeriksa nilai tukar. Teks asli tidak menyajikan angka spesifik per mata uang atau besaran perubahan, tetapi menegaskan bahwa data tersebut merupakan informasi kurs penutupan melalui judul “Kurs Valuta Asing (8 Mei·Harga Penutupan)” dan waktu acuannya. Informasi ini dapat digunakan sebagai titik awal untuk meninjau pergerakan nilai tukar pada hari itu. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f84b7530167a",
-    "slug": "특징주-현대차-7-급등현대차그룹주-일제히-상승-마감종합-754962",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T07:10:50.420Z",
-    "updatedAt": "2026-05-09T07:10:50.420Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508096851008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508096851008",
-    "titleFingerprint": "2018ea9bde3e9189eacca306f03d3a3c58a6ac61",
-    "dedupKeys": [
-      "f84b7530167a9d6be6229479df655e1edabd8f6a",
-      "2018ea9bde3e9189eacca306f03d3a3c58a6ac61",
-      "c1a866c802d0a9c8b4e67a252b6f1d121bb42cc5"
-    ],
-    "imageUrl": "/images/articles/f84b7530167a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "현대차 7%대 급등, 현대차그룹주 8일 일제히 상승 마감",
-        "excerpt": "현대차가 8일 7% 넘게 급등하며 장을 마쳤고, 현대차그룹 관련주도 일제히 강세를 이어가며 국내 증시에서 투자자 관심이 집중됐다.",
-        "body": "현대차가 8일 국내 증시에서 7% 넘게 급등하며 상승 마감했다. 서울발 연합뉴스 보도에 따르면 이날 현대차그룹 관련주도 일제히 강세를 이어가며 장을 마쳤다. 이번 흐름은 현대차 주가의 두드러진 상승폭을 중심으로 그룹주 전반에 매수세가 확산된 점이 특징이다. 관련 종목들이 같은 날 나란히 강세를 보이면서 자동차 업종과 그룹주 흐름에 대한 시장 관심도 커졌다. 다만 원문은 구체적 상승 배경이나 추가 수급 요인에 대해서는 별도로 언급하지 않았다. 투자자들은 현대차의 7%대 급등과 그룹주 동반 상승이 향후 주가 흐름에 어떤 영향을 줄지 주목하고 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Hyundai Motor jumps over 7% as group shares close higher on May 8",
-        "excerpt": "Hyundai Motor closed more than 7% higher on May 8, while related Hyundai Motor Group shares also extended broad gains, drawing market attention in Seoul.",
-        "body": "Hyundai Motor closed sharply higher on May 8 in the domestic stock market, rising more than 7%. According to a Yonhap News report from Seoul, Hyundai Motor Group-related shares also maintained broad strength and ended the session higher. The key feature of the day was the notable rise in Hyundai Motor’s share price and the spread of buying interest across affiliated group stocks. As related names moved higher together, market attention toward the auto sector and group shares increased. The original report did not separately cite a specific reason for the rise or additional supply-demand factors. Investors are watching how Hyundai Motor’s 7%-plus jump and the simultaneous gains in group shares may affect future price trends. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "現代自動車が7％超急騰、現代車グループ株も8日に一斉高で終了",
-        "excerpt": "現代自動車は8日、7％を超えて急騰して取引を終え、現代自動車グループ関連株もそろって強含みを続け、市場の関心を集めた。",
-        "body": "現代自動車は8日、韓国株式市場で7％を超えて急騰し、上昇して取引を終えた。ソウル発の聯合ニュース報道によると、同日は現代自動車グループ関連株も一斉に強含みを維持して終了した。今回の動きは、現代自動車株の目立つ上昇率を中心に、グループ株全般へ買いの流れが広がった点が特徴だ。関連銘柄が同じ日にそろって上昇したことで、自動車業種とグループ株の動向に対する市場の注目も高まった。ただし原文は、具体的な上昇背景や追加の需給要因については別途言及していない。投資家は現代自動車の7％台急騰とグループ株の同伴高が今後の株価動向にどう影響するか注視している。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "现代汽车大涨逾7%，现代汽车集团股8日集体收高",
-        "excerpt": "现代汽车8日收盘大涨逾7%，现代汽车集团相关股票也延续普遍强势，在韩国股市中吸引投资者关注。",
-        "body": "现代汽车8日在韩国股市大涨逾7%，并以升势收盘。据来自首尔的韩联社报道，当天现代汽车集团相关股票也集体延续强势并收高。此次行情的特点是，现代汽车股价涨幅突出，并带动集团相关股票整体出现买盘扩散。相关个股同日同步走强，使市场对汽车板块和集团股走势的关注升温。不过，原文并未另行提及具体上涨背景或其他供需因素。投资者正关注现代汽车7%以上的急涨以及集团股同步上涨，将如何影响后续股价走势。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Hyundai Motor sube más del 7% y las acciones del grupo cierran al alza el 8 de mayo",
-        "excerpt": "Hyundai Motor cerró el 8 de mayo con un alza superior al 7%, mientras las acciones vinculadas al grupo también mantuvieron ganancias generalizadas en Seúl.",
-        "body": "Hyundai Motor cerró con una fuerte subida el 8 de mayo en el mercado bursátil surcoreano, al avanzar más del 7%. Según un informe de Yonhap News desde Seúl, las acciones relacionadas con Hyundai Motor Group también mantuvieron una fortaleza generalizada y terminaron la sesión al alza. El rasgo principal de la jornada fue el notable aumento de Hyundai Motor y la extensión del interés comprador a otros valores del grupo. Al subir de forma conjunta los títulos relacionados, creció la atención del mercado sobre el sector automotor y las acciones del grupo. El informe original no mencionó por separado una causa concreta del avance ni factores adicionales de oferta y demanda. Los inversores observan cómo el salto de más del 7% de Hyundai Motor y las alzas simultáneas del grupo pueden influir en la evolución futura de los precios. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Hyundai Motor salta mais de 7% e ações do grupo fecham em alta em 8 de maio",
-        "excerpt": "A Hyundai Motor fechou em alta de mais de 7% em 8 de maio, enquanto ações ligadas ao Hyundai Motor Group também mantiveram ganhos amplos em Seul.",
-        "body": "A Hyundai Motor fechou com forte alta em 8 de maio no mercado acionário sul-coreano, avançando mais de 7%. Segundo reportagem da Yonhap News a partir de Seul, ações relacionadas ao Hyundai Motor Group também mantiveram força generalizada e encerraram o pregão em alta. O destaque do dia foi a alta expressiva das ações da Hyundai Motor e a expansão do interesse comprador para papéis do grupo. Com os ativos relacionados subindo juntos no mesmo dia, aumentou a atenção do mercado sobre o setor automotivo e as ações do grupo. O texto original não mencionou separadamente um motivo específico para a alta nem fatores adicionais de oferta e demanda. Investidores acompanham como o salto superior a 7% da Hyundai Motor e os ganhos simultâneos do grupo podem afetar os próximos movimentos dos preços. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Hyundai Motor springt über 7%, Konzernaktien schließen am 8. Mai einheitlich höher",
-        "excerpt": "Hyundai Motor schloss am 8. Mai mehr als 7% höher, während auch Aktien aus dem Hyundai-Motor-Konzern breite Stärke zeigten und Anlegerinteresse weckten.",
-        "body": "Hyundai Motor hat am 8. Mai am südkoreanischen Aktienmarkt deutlich höher geschlossen und mehr als 7% zugelegt. Laut einem Bericht von Yonhap News aus Seoul zeigten auch Aktien mit Bezug zum Hyundai Motor Group am selben Tag durchgehend Stärke und beendeten die Sitzung im Plus. Kennzeichnend war der auffällige Kursanstieg von Hyundai Motor, von dem aus sich Kaufinteresse auf weitere Konzernwerte ausbreitete. Da verwandte Titel gemeinsam zulegten, stieg die Aufmerksamkeit des Marktes für den Automobilsektor und die Konzernaktien. Der Originalbericht nannte jedoch keinen gesonderten konkreten Grund für den Anstieg und keine zusätzlichen Angebots- oder Nachfragefaktoren. Anleger beobachten, wie der Sprung von mehr als 7% bei Hyundai Motor und die parallelen Gewinne der Konzernwerte die weitere Kursentwicklung beeinflussen könnten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Hyundai Motor bondit de plus de 7%, les actions du groupe finissent en hausse le 8 mai",
-        "excerpt": "Hyundai Motor a clôturé le 8 mai sur un bond de plus de 7%, tandis que les actions liées au groupe Hyundai Motor ont aussi prolongé leur vigueur à Séoul.",
-        "body": "Hyundai Motor a terminé en forte hausse le 8 mai sur le marché boursier sud-coréen, avec un gain de plus de 7%. Selon une dépêche de Yonhap News depuis Séoul, les actions liées à Hyundai Motor Group ont également maintenu une vigueur généralisée et clôturé en hausse. Le fait marquant de la séance a été la progression notable du titre Hyundai Motor, accompagnée d’un intérêt acheteur étendu aux valeurs du groupe. La hausse simultanée de ces titres a renforcé l’attention du marché pour le secteur automobile et les actions du groupe. Le texte original ne mentionne toutefois pas de raison précise de la hausse ni d’autres facteurs d’offre et de demande. Les investisseurs suivent l’effet que le bond de plus de 7% de Hyundai Motor et la progression conjointe des valeurs du groupe pourraient avoir sur l’évolution future des cours. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "هيونداي موتور تقفز بأكثر من 7% وأسهم المجموعة تغلق مرتفعة في 8 مايو",
-        "excerpt": "أغلقت هيونداي موتور في 8 مايو على ارتفاع تجاوز 7%، فيما واصلت أسهم مرتبطة بمجموعة هيونداي موتور مكاسب واسعة وجذبت اهتمام السوق في سيول.",
-        "body": "أغلقت هيونداي موتور على ارتفاع حاد في 8 مايو في سوق الأسهم الكورية الجنوبية، بعدما صعدت بأكثر من 7%. ووفق تقرير لوكالة يونهاب من سيول، واصلت الأسهم المرتبطة بمجموعة هيونداي موتور قوة عامة وأنهت الجلسة مرتفعة كذلك. وتمثل أبرز ملامح الجلسة في الزيادة اللافتة بسعر سهم هيونداي موتور، مع امتداد الاهتمام الشرائي إلى أسهم المجموعة. ومع صعود الأسهم ذات الصلة في اليوم نفسه، زاد اهتمام السوق بقطاع السيارات وبأسهم المجموعة. ولم يذكر النص الأصلي سببا محددا منفصلا للارتفاع أو عوامل إضافية تتعلق بالعرض والطلب. ويراقب المستثمرون كيف قد يؤثر صعود هيونداي موتور بأكثر من 7% والمكاسب المتزامنة لأسهم المجموعة في اتجاهات الأسعار المقبلة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Hyundai Motor में 7% से अधिक उछाल, समूह शेयर 8 मई को बढ़त के साथ बंद",
-        "excerpt": "Hyundai Motor 8 मई को 7% से अधिक चढ़कर बंद हुआ, जबकि Hyundai Motor Group से जुड़े शेयरों ने भी व्यापक मजबूती जारी रखी और बाजार का ध्यान खींचा।",
-        "body": "Hyundai Motor 8 मई को दक्षिण कोरियाई शेयर बाजार में 7% से अधिक उछलकर बढ़त के साथ बंद हुआ। सियोल से Yonhap News की रिपोर्ट के अनुसार, उसी दिन Hyundai Motor Group से जुड़े शेयरों ने भी व्यापक मजबूती बनाए रखी और ऊंचे स्तर पर कारोबार समाप्त किया। इस चाल की मुख्य विशेषता Hyundai Motor के शेयर में उल्लेखनीय तेजी और समूह के अन्य संबंधित शेयरों में खरीदारी का फैलना रही। संबंधित शेयरों के एक ही दिन साथ-साथ मजबूत होने से ऑटो क्षेत्र और समूह शेयरों की दिशा पर बाजार का ध्यान बढ़ा। हालांकि मूल रिपोर्ट में तेजी के किसी ठोस कारण या अतिरिक्त मांग-आपूर्ति कारकों का अलग से उल्लेख नहीं किया गया। निवेशक देख रहे हैं कि Hyundai Motor की 7% से अधिक तेजी और समूह शेयरों की संयुक्त बढ़त आगे की कीमतों को कैसे प्रभावित कर सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Hyundai Motor melonjak lebih dari 7%, saham grup kompak ditutup naik pada 8 Mei",
-        "excerpt": "Hyundai Motor ditutup melonjak lebih dari 7% pada 8 Mei, sementara saham terkait Hyundai Motor Group juga mempertahankan penguatan luas di Seoul.",
-        "body": "Hyundai Motor ditutup menguat tajam pada 8 Mei di pasar saham Korea Selatan, dengan kenaikan lebih dari 7%. Menurut laporan Yonhap News dari Seoul, saham-saham yang terkait dengan Hyundai Motor Group juga mempertahankan penguatan luas dan menutup sesi di zona positif. Ciri utama pergerakan hari itu adalah kenaikan mencolok saham Hyundai Motor serta meluasnya minat beli ke saham grup lainnya. Ketika saham terkait bergerak naik bersama pada hari yang sama, perhatian pasar terhadap sektor otomotif dan saham grup ikut meningkat. Namun, laporan asli tidak secara terpisah menyebutkan alasan spesifik kenaikan atau faktor tambahan dari sisi penawaran dan permintaan. Investor mencermati bagaimana lonjakan lebih dari 7% pada Hyundai Motor dan kenaikan serentak saham grup dapat memengaruhi arah harga berikutnya. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a49aeb7da677",
-    "slug": "무주-안성면에-귀농귀촌-마을-조성내년까지-40가구-규모-960092",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T07:09:45.334Z",
-    "updatedAt": "2026-05-09T07:09:45.334Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508127100055",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508127100055",
-    "titleFingerprint": "2038fb93bfaee73560269063d29f0506e4e92994",
-    "dedupKeys": [
-      "a49aeb7da677b02c83f09fce7012c071f8095af4",
-      "2038fb93bfaee73560269063d29f0506e4e92994",
-      "b5d212e886560232f0eda7ba4c716c7e4b48f455"
-    ],
-    "imageUrl": "/images/articles/a49aeb7da677.jpg",
-    "i18n": {
-      "ko": {
-        "title": "무주 안성면 귀농귀촌 에코빌리지 조성, 2027년까지 40가구 규모",
-        "excerpt": "전북 무주군이 안성면 공정리에 2027년까지 귀농귀촌인과 은퇴자를 위한 40가구 규모 친환경마을을 조성한다고 밝혔다.",
-        "body": "전북 무주군은 안성면 공정리에 귀농귀촌인과 은퇴자를 위한 40가구 규모의 친환경마을, 에코빌리지를 2027년까지 조성한다고 밝혔다. 이번 사업은 무주 안성면 공정리를 대상지로 하며, 도시에서 농촌으로 이주하려는 귀농귀촌 수요와 은퇴 이후 정착을 희망하는 주민을 위한 주거 기반 마련에 초점을 둔다. 조성 규모는 총 40가구로 제시됐다. 군은 친환경마을 형태의 정주 공간을 마련해 지역 유입 인구의 안정적 정착을 뒷받침할 계획이다. 사업이 마무리되면 무주 지역의 귀농귀촌 기반 확대와 안성면 정주 여건 개선에 영향을 줄 것으로 보인다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Muju to Build 40-Home Eco Village in Anseong for Return-to-Farm Residents by 2027",
-        "excerpt": "Muju County in North Jeolla Province said it will create a 40-home eco-friendly village in Gongjeong-ri, Anseong-myeon, by 2027 for return-to-farm movers and retirees.",
-        "body": "Muju County in North Jeolla Province said it will build an eco-friendly village, or eco village, with 40 homes in Gongjeong-ri, Anseong-myeon, by 2027 for people moving back to rural life and for retirees. The project is planned for Gongjeong-ri in Anseong-myeon and focuses on providing a residential base for those seeking to relocate from cities to farming communities and for residents hoping to settle after retirement. The announced scale is 40 households. The county plans to support stable settlement by creating an environmentally friendly residential community. Once completed, the project is expected to expand Muju’s return-to-farm and rural migration base and improve residential conditions in Anseong-myeon. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "茂朱・安城面に帰農帰村エコビレッジ、2027年までに40世帯規模で整備",
-        "excerpt": "全北の茂朱郡は、安城面公正里に2027年まで帰農帰村者と退職者向けの40世帯規模の環境配慮型村を整備すると明らかにした。",
-        "body": "全北の茂朱郡は、安城面公正里に帰農帰村者と退職者向けの40世帯規模の環境配慮型村、エコビレッジを2027年までに整備すると明らかにした。今回の事業は茂朱郡安城面公正里を対象地とし、都市から農村へ移住しようとする帰農帰村需要と、退職後の定着を望む住民のための居住基盤づくりに重点を置く。整備規模は計40世帯と示された。郡は環境配慮型の定住空間を設け、地域に流入する人口の安定した定着を支える計画だ。事業が完了すれば、茂朱地域の帰農帰村基盤拡大と安城面の居住条件改善につながるとみられる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "茂朱安城面将建返乡务农生态村，2027年前形成40户规模",
-        "excerpt": "韩国全北茂朱郡表示，将在安城面公正里于2027年前建设面向返乡务农人员和退休者的40户规模环保村。",
-        "body": "韩国全北茂朱郡表示，将在安城面公正里建设面向返乡务农人员和退休者的40户规模环保村，即生态村，计划到2027年完成。该项目选址茂朱郡安城面公正里，重点是为希望从城市迁往农村的返乡务农、返乡定居需求，以及退休后希望安居的居民提供居住基础。公布的建设规模为共40户。茂朱郡计划通过打造环保型定居空间，支持流入当地人口稳定落户。项目完成后，预计将有助于扩大茂朱地区返乡务农和农村定居基础，并改善安城面的居住条件。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Muju creará una ecoaldea de 40 hogares en Anseong para retornados rurales antes de 2027",
-        "excerpt": "El condado de Muju, en Jeolla del Norte, anunció que construirá antes de 2027 una aldea ecológica de 40 hogares en Gongjeong-ri para retornados rurales y jubilados.",
-        "body": "El condado de Muju, en la provincia de Jeolla del Norte, anunció que construirá antes de 2027 una aldea ecológica, o ecoaldea, de 40 hogares en Gongjeong-ri, Anseong-myeon, para personas que regresan al campo y jubilados. El proyecto se ubicará en Gongjeong-ri y se centrará en crear una base residencial para quienes desean trasladarse de la ciudad a zonas rurales y para residentes que buscan establecerse tras la jubilación. La escala anunciada es de 40 hogares. El condado prevé apoyar un asentamiento estable mediante un espacio residencial respetuoso con el medio ambiente. Al completarse, el plan podría ampliar la base de migración rural hacia Muju y mejorar las condiciones residenciales de Anseong-myeon. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Muju criará ecovila de 40 casas em Anseong para migrantes rurais até 2027",
-        "excerpt": "O condado de Muju, em Jeolla do Norte, informou que construirá até 2027 uma vila ecológica de 40 casas em Gongjeong-ri para migrantes rurais e aposentados.",
-        "body": "O condado de Muju, na província de Jeolla do Norte, informou que construirá até 2027 uma vila ecológica, ou ecovila, com 40 casas em Gongjeong-ri, Anseong-myeon, para pessoas que migram para áreas rurais e aposentados. O projeto terá como local Gongjeong-ri e se concentra em criar uma base habitacional para quem pretende deixar a cidade e se estabelecer no campo, além de moradores que desejam fixar residência após a aposentadoria. A escala anunciada é de 40 famílias. O condado planeja apoiar a fixação estável da população que chega à região por meio de um espaço residencial ambientalmente amigável. Quando concluído, o projeto deve ampliar a base de migração rural em Muju e melhorar as condições de moradia em Anseong-myeon. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Muju plant Ökodorf mit 40 Haushalten in Anseong für Landzuzügler bis 2027",
-        "excerpt": "Der Kreis Muju in Nord-Jeolla teilte mit, bis 2027 in Gongjeong-ri, Anseong-myeon, ein umweltfreundliches Dorf mit 40 Haushalten für Landzuzügler und Rentner zu schaffen.",
-        "body": "Der Kreis Muju in der Provinz Nord-Jeolla teilte mit, bis 2027 in Gongjeong-ri, Anseong-myeon, ein umweltfreundliches Dorf, ein Ökodorf, mit 40 Haushalten für Menschen zu schaffen, die aufs Land ziehen, sowie für Rentner. Das Projekt ist für Gongjeong-ri in Anseong-myeon vorgesehen und konzentriert sich darauf, eine Wohnbasis für Menschen bereitzustellen, die aus Städten in ländliche Räume wechseln wollen, sowie für Bewohner, die sich nach dem Ruhestand niederlassen möchten. Die genannte Größe liegt bei insgesamt 40 Haushalten. Der Kreis will durch einen umweltfreundlichen Siedlungsraum eine stabile Ansiedlung der zuziehenden Bevölkerung unterstützen. Nach Abschluss dürfte das Projekt die Grundlage für Landzuzug in Muju erweitern und die Wohnbedingungen in Anseong-myeon verbessern. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Muju aménagera un éco-village de 40 foyers à Anseong pour néoruraux d’ici 2027",
-        "excerpt": "Le comté de Muju, dans le Jeolla du Nord, a annoncé la création d’ici 2027 d’un village écologique de 40 foyers à Gongjeong-ri pour néoruraux et retraités.",
-        "body": "Le comté de Muju, dans la province du Jeolla du Nord, a annoncé qu’il aménagerait d’ici 2027 un village écologique, ou éco-village, de 40 foyers à Gongjeong-ri, dans le canton d’Anseong, pour les personnes souhaitant s’installer en milieu rural et les retraités. Le projet concerne Gongjeong-ri et vise à fournir une base résidentielle aux personnes quittant la ville pour la campagne, ainsi qu’aux habitants désirant s’établir après la retraite. La taille annoncée est de 40 foyers. Le comté prévoit de soutenir une installation stable des nouveaux arrivants grâce à un espace de résidence respectueux de l’environnement. Une fois achevé, le projet devrait élargir la base d’installation rurale à Muju et améliorer les conditions de vie à Anseong-myeon. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "موجو تنشئ قرية بيئية من 40 منزلا في أنسونغ للعائدين إلى الريف بحلول 2027",
-        "excerpt": "أعلنت مقاطعة موجو في شمال جولا أنها ستقيم بحلول 2027 قرية صديقة للبيئة تضم 40 منزلا في غونغجونغ-ري للعائدين إلى الريف والمتقاعدين.",
-        "body": "أعلنت مقاطعة موجو في إقليم شمال جولا أنها ستنشئ بحلول عام 2027 قرية صديقة للبيئة، أو قرية إيكولوجية، تضم 40 منزلا في غونغجونغ-ري في أنسونغ-ميون، مخصصة للراغبين في الانتقال إلى الريف والمتقاعدين. ويستهدف المشروع غونغجونغ-ري في أنسونغ-ميون، ويركز على توفير قاعدة سكنية لمن يريدون الانتقال من المدن إلى المجتمعات الزراعية، وللسكان الراغبين في الاستقرار بعد التقاعد. وقد حددت المقاطعة حجم المشروع بإجمالي 40 أسرة. وتخطط موجو لدعم الاستقرار المستدام للسكان الوافدين من خلال مساحة سكنية صديقة للبيئة. وعند اكتماله، من المتوقع أن يسهم المشروع في توسيع قاعدة العودة إلى الريف في موجو وتحسين ظروف السكن في أنسونغ-ميون. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "मुजू के आनसोंग में 2027 तक 40 घरों का ईको विलेज, ग्रामीण बसावट पर जोर",
-        "excerpt": "उत्तर जिओला के मुजू काउंटी ने कहा कि वह आनसोंग-म्योन के गोंगजोंग-री में 2027 तक लौटकर बसने वालों और सेवानिवृत्त लोगों के लिए 40 घरों का पर्यावरण-अनुकूल गांव बनाएगा।",
-        "body": "उत्तर जिओला प्रांत के मुजू काउंटी ने कहा कि वह आनसोंग-म्योन के गोंगजोंग-री में 2027 तक 40 घरों वाला पर्यावरण-अनुकूल गांव, यानी ईको विलेज, बनाएगा। यह गांव उन लोगों के लिए होगा जो ग्रामीण जीवन या खेती की ओर लौटना चाहते हैं, और सेवानिवृत्त लोगों के लिए भी। परियोजना का स्थान गोंगजोंग-री है और इसका उद्देश्य शहरों से ग्रामीण क्षेत्रों में बसना चाहने वालों तथा सेवानिवृत्ति के बाद स्थायी निवास चाहने वाले निवासियों के लिए आवासीय आधार तैयार करना है। घोषित पैमाना कुल 40 घरों का है। काउंटी पर्यावरण-अनुकूल आवासीय क्षेत्र बनाकर क्षेत्र में आने वाली आबादी की स्थिर बसावट में मदद करने की योजना बना रही है। पूरा होने पर यह परियोजना मुजू में ग्रामीण बसावट का आधार बढ़ा सकती है और आनसोंग-म्योन की आवासीय स्थितियों में सुधार कर सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Muju Bangun Ecovillage 40 Rumah di Anseong untuk Pendatang Desa hingga 2027",
-        "excerpt": "Kabupaten Muju di Jeolla Utara menyatakan akan membangun desa ramah lingkungan berkapasitas 40 rumah di Gongjeong-ri, Anseong-myeon, hingga 2027 untuk pendatang desa dan pensiunan.",
-        "body": "Kabupaten Muju di Provinsi Jeolla Utara menyatakan akan membangun desa ramah lingkungan, atau ecovillage, berkapasitas 40 rumah di Gongjeong-ri, Anseong-myeon, hingga 2027 untuk orang yang ingin pindah ke pedesaan dan para pensiunan. Proyek ini berlokasi di Gongjeong-ri, Anseong-myeon, dengan fokus menyediakan basis hunian bagi warga yang ingin berpindah dari kota ke komunitas pertanian serta bagi mereka yang berharap menetap setelah pensiun. Skala yang diumumkan adalah total 40 rumah tangga. Pemerintah kabupaten berencana mendukung permukiman yang stabil bagi penduduk yang masuk ke wilayah tersebut melalui ruang hunian ramah lingkungan. Setelah selesai, proyek ini diperkirakan dapat memperluas basis migrasi pedesaan di Muju dan memperbaiki kondisi hunian di Anseong-myeon. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "21b70ab65ace",
-    "slug": "특징주-하이닉스는-또-오르고삼전은-숨고르기종합-304025",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T06:23:34.215Z",
-    "updatedAt": "2026-05-09T06:23:34.215Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508036751008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508036751008",
-    "titleFingerprint": "bee030af6fe5353628c3a42a6b8a448f65e59da9",
-    "dedupKeys": [
-      "21b70ab65ace14865cd3d3fcf0c560d03a5152a8",
-      "bee030af6fe5353628c3a42a6b8a448f65e59da9",
-      "a9d5786a0b44df6ddb4fbd46d01534461e9e942c"
-    ],
-    "imageUrl": "/images/articles/21b70ab65ace.jpg",
-    "i18n": {
-      "ko": {
-        "title": "하이닉스 또 상승, 삼성전자는 외국인 매도에 1%대 하락 마감",
-        "excerpt": "8일 서울 증시에서 삼성전자는 외국인의 집중 순매도 영향으로 약 1% 내린 채 거래를 마쳤고, 하이닉스는 다시 상승세를 보였다.",
-        "body": "8일 서울 증시에서 삼성전자[005930]는 외국인의 집중 순매도 영향으로 약 1% 하락한 채 거래를 마쳤다. 반면 하이닉스는 또 오르며 삼성전자와 엇갈린 흐름을 보였다. 이날 특징주 흐름은 반도체 대형주 안에서도 투자자 수급에 따라 주가 방향이 달라졌다는 점을 보여준다. 원문은 삼성전자가 외국인 매도세에 밀려 숨고르기에 들어간 반면, 하이닉스는 상승세를 이어갔다고 전했다. 향후 반도체주 흐름은 외국인 매매 동향과 대형주별 수급 차이에 영향을 받을 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Hynix Rises Again as Samsung Electronics Falls About 1% on Foreign Selling",
-        "excerpt": "On May 8 in Seoul trading, Samsung Electronics ended about 1% lower under heavy foreign net selling, while Hynix extended its upward move.",
-        "body": "In Seoul trading on May 8, Samsung Electronics [005930] closed about 1% lower as foreign investors focused their net selling on the stock. Hynix, by contrast, rose again, showing a different move from Samsung Electronics. The day’s notable stock action showed that even among large semiconductor names, share prices moved differently depending on investor flows. The original report said Samsung Electronics paused under foreign selling pressure, while Hynix continued to climb. The next moves in semiconductor shares may be influenced by foreign trading trends and differences in demand for major stocks. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "ハイニックス再び上昇、サムスン電子は外国人売りで約1％下落",
-        "excerpt": "8日のソウル株式市場でサムスン電子は外国人の集中的な純売りを受けて約1％安で取引を終え、ハイニックスは再び上昇した。",
-        "body": "8日のソウル株式市場で、サムスン電子[005930]は外国人投資家の集中的な純売りの影響で約1％下落して取引を終えた。一方、ハイニックスは再び上昇し、サムスン電子とは異なる値動きを見せた。この日の注目銘柄の動きは、半導体大型株の中でも投資家の需給によって株価の方向が分かれることを示した。原文は、サムスン電子が外国人の売りに押されて一服した一方、ハイニックスは上昇を続けたと伝えた。今後の半導体株の流れは、外国人の売買動向と大型株ごとの需給差に左右される可能性がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "海力士再度上涨，三星电子因外资抛售收跌约1%",
-        "excerpt": "8日首尔股市中，三星电子受外国投资者集中净卖出影响收跌约1%，而海力士再次上涨，走势出现分化。",
-        "body": "8日首尔股市中，三星电子[005930]在外国投资者集中净卖出的影响下，以约1%的跌幅结束交易。相比之下，海力士再次上涨，与三星电子呈现不同走势。当天的特色股表现显示，即便同属半导体大型股，股价方向也会因投资者资金流向而出现差异。原文称，三星电子在外资卖压下进入调整，而海力士延续升势。今后半导体股走势可能受到外国投资者买卖动向以及大型股之间供需差异的影响。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Hynix vuelve a subir y Samsung Electronics cae cerca del 1% por ventas extranjeras",
-        "excerpt": "El 8 de mayo en Seúl, Samsung Electronics cerró cerca de un 1% a la baja por fuertes ventas netas de extranjeros, mientras Hynix volvió a subir.",
-        "body": "En la bolsa de Seúl el 8 de mayo, Samsung Electronics [005930] terminó la sesión con una caída cercana al 1% debido a ventas netas concentradas de inversionistas extranjeros. En cambio, Hynix volvió a subir y mostró un movimiento distinto al de Samsung Electronics. La actividad destacada del día evidenció que, incluso entre grandes acciones de semiconductores, la dirección del precio puede variar según los flujos de los inversionistas. El reporte original señaló que Samsung Electronics hizo una pausa bajo presión vendedora extranjera, mientras Hynix mantuvo su avance. La evolución futura del sector podría depender de las operaciones extranjeras y de diferencias de demanda entre grandes valores. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Hynix volta a subir, enquanto Samsung Electronics cai cerca de 1% com venda estrangeira",
-        "excerpt": "Em 8 de maio, em Seul, a Samsung Electronics fechou em queda de cerca de 1% por forte venda líquida estrangeira, enquanto a Hynix voltou a subir.",
-        "body": "Na bolsa de Seul em 8 de maio, a Samsung Electronics [005930] encerrou o pregão com queda de cerca de 1% sob efeito de vendas líquidas concentradas por investidores estrangeiros. Em contraste, a Hynix voltou a subir, mostrando movimento diferente do da Samsung Electronics. O destaque do dia mostrou que, mesmo entre grandes ações de semicondutores, os preços podem seguir direções distintas conforme o fluxo dos investidores. A reportagem original informou que a Samsung Electronics fez uma pausa pressionada por vendas estrangeiras, enquanto a Hynix manteve a alta. O rumo das ações de semicondutores pode depender das negociações estrangeiras e das diferenças de demanda entre grandes papéis. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Hynix steigt erneut, Samsung Electronics schließt nach Auslandsverkäufen rund 1% tiefer",
-        "excerpt": "Am 8. Mai schloss Samsung Electronics in Seoul wegen konzentrierter Nettoverkäufe ausländischer Anleger rund 1% niedriger, während Hynix erneut zulegte.",
-        "body": "Im Handel in Seoul am 8. Mai schloss Samsung Electronics [005930] rund 1% niedriger, belastet durch konzentrierte Nettoverkäufe ausländischer Investoren. Hynix legte dagegen erneut zu und entwickelte sich anders als Samsung Electronics. Die auffällige Kursbewegung des Tages zeigte, dass selbst unter großen Halbleiterwerten die Richtung der Aktienkurse je nach Anlegerströmen auseinandergehen kann. Der Originalbericht meldete, Samsung Electronics habe unter ausländischem Verkaufsdruck eine Pause eingelegt, während Hynix den Anstieg fortsetzte. Der weitere Verlauf von Halbleiteraktien könnte von ausländischen Handelsströmen und unterschiedlichen Nachfragebedingungen bei großen Titeln beeinflusst werden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Hynix progresse encore, Samsung Electronics recule d’environ 1% sous ventes étrangères",
-        "excerpt": "Le 8 mai à Séoul, Samsung Electronics a fini en baisse d’environ 1% sous l’effet de ventes nettes étrangères concentrées, tandis que Hynix a encore monté.",
-        "body": "À la Bourse de Séoul le 8 mai, Samsung Electronics [005930] a terminé en baisse d’environ 1%, pénalisé par des ventes nettes concentrées d’investisseurs étrangers. À l’inverse, Hynix a de nouveau progressé, affichant une trajectoire différente de celle de Samsung Electronics. Le mouvement notable du jour montre que, même parmi les grandes valeurs des semi-conducteurs, l’orientation des cours peut diverger selon les flux d’investisseurs. Le rapport original indique que Samsung Electronics a marqué une pause sous la pression vendeuse étrangère, tandis que Hynix a poursuivi sa hausse. La suite du secteur pourrait dépendre des opérations étrangères et des écarts de demande entre grandes capitalisations. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "هاينكس ترتفع مجددا وسامسونغ إلكترونيكس تهبط نحو 1% بفعل بيع أجنبي",
-        "excerpt": "في تداولات سيول يوم 8 مايو، أنهت سامسونغ إلكترونيكس الجلسة منخفضة نحو 1% تحت ضغط صافي بيع أجنبي مكثف، بينما واصلت هاينكس الصعود.",
-        "body": "في سوق سيول يوم 8 مايو، أغلقت سامسونغ إلكترونيكس [005930] منخفضة بنحو 1% مع تأثرها بصافي بيع مركز من المستثمرين الأجانب. في المقابل، ارتفعت هاينكس مجددا، لتظهر حركة مختلفة عن سامسونغ إلكترونيكس. وأبرز أداء الأسهم في ذلك اليوم أن اتجاه الأسعار قد يختلف حتى بين أسهم أشباه الموصلات الكبرى وفقا لتدفقات المستثمرين. وذكر التقرير الأصلي أن سامسونغ إلكترونيكس دخلت مرحلة تهدئة تحت ضغط البيع الأجنبي، بينما واصلت هاينكس مكاسبها. وقد يتأثر مسار أسهم أشباه الموصلات لاحقا باتجاهات تداول الأجانب وفروق الطلب بين الأسهم الكبرى. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "हाइनिक्स फिर चढ़ा, विदेशी बिकवाली से सैमसंग इलेक्ट्रॉनिक्स करीब 1% गिरा",
-        "excerpt": "8 मई को सियोल बाजार में सैमसंग इलेक्ट्रॉनिक्स विदेशी निवेशकों की केंद्रित शुद्ध बिकवाली से करीब 1% गिरकर बंद हुआ, जबकि हाइनिक्स फिर चढ़ा।",
-        "body": "8 मई को सियोल शेयर बाजार में सैमसंग इलेक्ट्रॉनिक्स [005930] विदेशी निवेशकों की केंद्रित शुद्ध बिकवाली के असर से करीब 1% गिरकर बंद हुआ। इसके विपरीत, हाइनिक्स फिर चढ़ा और सैमसंग इलेक्ट्रॉनिक्स से अलग रुझान दिखाया। दिन की प्रमुख शेयर चाल ने दिखाया कि बड़े सेमीकंडक्टर शेयरों के भीतर भी निवेशक प्रवाह के आधार पर कीमतों की दिशा अलग हो सकती है। मूल रिपोर्ट के अनुसार, सैमसंग इलेक्ट्रॉनिक्स विदेशी बिकवाली के दबाव में ठहराव में गया, जबकि हाइनिक्स ने बढ़त जारी रखी। आगे सेमीकंडक्टर शेयरों की चाल विदेशी कारोबार के रुझान और बड़े शेयरों में मांग के अंतर से प्रभावित हो सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Hynix Kembali Naik, Samsung Electronics Turun Sekitar 1% karena Aksi Jual Asing",
-        "excerpt": "Pada 8 Mei di bursa Seoul, Samsung Electronics ditutup turun sekitar 1% akibat net sell asing yang terkonsentrasi, sementara Hynix kembali menguat.",
-        "body": "Di bursa Seoul pada 8 Mei, Samsung Electronics [005930] mengakhiri perdagangan dengan penurunan sekitar 1% akibat net sell yang terkonsentrasi dari investor asing. Sebaliknya, Hynix kembali naik dan menunjukkan pergerakan berbeda dari Samsung Electronics. Pergerakan saham pilihan hari itu menunjukkan bahwa bahkan di antara saham semikonduktor besar, arah harga dapat berbeda tergantung arus investor. Laporan asli menyebut Samsung Electronics memasuki fase jeda karena tekanan jual asing, sementara Hynix melanjutkan kenaikan. Pergerakan saham semikonduktor berikutnya dapat dipengaruhi oleh tren transaksi asing dan perbedaan permintaan antar saham besar. Sumber: yna.co.kr"
       }
     }
   }
