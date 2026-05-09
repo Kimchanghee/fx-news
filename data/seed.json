@@ -1,5 +1,230 @@
 [
   {
+    "id": "d50c6782164e",
+    "slug": "마켓인사이트-7천피-달성-韓증시-한주만-8천피-도전-나서나-555894",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T22:14:25.455Z",
+    "updatedAt": "2026-05-09T22:14:25.455Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508177100008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508177100008",
+    "titleFingerprint": "ee4e3947aae881db9edd6fd85c9770edd0f7c764",
+    "dedupKeys": [
+      "d50c6782164e3e27e0fc4daf755c5db80736ac2b",
+      "ee4e3947aae881db9edd6fd85c9770edd0f7c764",
+      "8ecc630586c8d9d22f00d1f26f1894a8b4537b87"
+    ],
+    "imageUrl": "/images/articles/d50c6782164e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "7천피 달성 한국 증시, 반도체주 초강세 타고 8천피 도전 주목",
+        "excerpt": "지난주 한국 증시는 반도체주 초강세에 힘입어 폭발적으로 상승하며 7천피를 달성했고, 시장은 한 주 만의 8천피 도전 가능성에 주목하고 있다.",
+        "body": "지난주 국내 증시는 반도체주 초강세에 힘입어 폭발적인 상승세를 보이며 ‘7천피’ 달성에 성공했다. 서울발 보도에 따르면 이번 상승의 핵심 배경은 반도체주 강세였고, 이에 따라 시장의 관심은 한 주 만에 ‘8천피’ 도전에 나설 수 있을지로 옮겨가고 있다. 다만 원문은 구체적인 종목별 수치나 추가 지표를 제시하지 않았다. 향후 흐름은 반도체주 강세가 이어지는지와 국내 증시 전반의 상승 동력이 유지되는지가 관건으로 거론된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Korean Stocks Hit 7,000 Points as Chip Rally Puts 8,000 in Focus",
+        "excerpt": "Korean shares surged last week on exceptional strength in semiconductor stocks, reaching the 7,000-point mark and drawing attention to whether 8,000 could be tested within a week.",
+        "body": "South Korean stocks posted an explosive rally last week, powered by a sharp advance in semiconductor shares, and succeeded in reaching the “7,000-point” level. According to the Seoul-datelined report, the key driver behind the move was strong performance in chip-related stocks. Market attention has now shifted to whether the index can attempt the “8,000-point” level just one week later. The original report did not provide detailed figures by stock or additional indicators. The next phase will depend on whether semiconductor strength continues and whether broader momentum in the domestic market is sustained. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "韓国株7千ポイント達成、半導体株急伸で8千ポイント挑戦に注目",
+        "excerpt": "先週の韓国株式市場は半導体株の非常に強い上昇に支えられて急伸し、7千ポイントを達成した。市場は一週間で8千ポイントに挑むか注目している。",
+        "body": "先週の韓国国内株式市場は、半導体株の非常に強い動きに支えられ、爆発的な上昇を見せて「7千ポイント」達成に成功した。ソウル発の報道によると、今回の上昇の中心的な背景は半導体株の強さだった。これにより市場の関心は、わずか一週間で「8千ポイント」への挑戦に進めるかどうかに移っている。ただし原文では、個別銘柄ごとの具体的な数値や追加指標は示されていない。今後は半導体株の強さが続くか、国内株式市場全体の上昇力が維持されるかが焦点となる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国股市达成7000点，半导体股强势推升8000点关注度",
+        "excerpt": "上周韩国股市在半导体股强劲上涨带动下出现爆发式升势并达成7000点，市场正关注其是否会在一周内向8000点发起挑战。",
+        "body": "上周韩国国内股市在半导体股超强走势推动下出现爆发式上涨，成功达成“7000点”。据首尔报道，本轮上涨的核心背景是半导体股走强，因此市场关注点已转向韩国股市是否会在一周内挑战“8000点”。不过，原文并未提供具体个股数据或其他补充指标。后续走势的关键在于半导体股强势能否延续，以及韩国国内股市整体上行动能能否保持。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Bolsa coreana alcanza 7.000 puntos y mira a 8.000 por impulso de chips",
+        "excerpt": "La bolsa surcoreana subió con fuerza la semana pasada gracias al gran avance de los valores de semiconductores, alcanzó los 7.000 puntos y centra la atención en un posible reto a 8.000.",
+        "body": "La bolsa surcoreana registró la semana pasada un avance explosivo, impulsado por la marcada fortaleza de las acciones de semiconductores, y logró alcanzar el nivel de los “7.000 puntos”. Según el reporte fechado en Seúl, el principal factor detrás del alza fue el fuerte desempeño de los valores vinculados a chips. La atención del mercado se ha desplazado ahora a si el mercado podrá intentar los “8.000 puntos” apenas una semana después. El texto original no ofreció cifras específicas por acción ni indicadores adicionales. La evolución dependerá de si continúa la fortaleza de semiconductores y si se mantiene el impulso general de la bolsa local. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Bolsa coreana atinge 7.000 pontos com chips e mira teste dos 8.000",
+        "excerpt": "A bolsa sul-coreana avançou fortemente na semana passada com a grande força das ações de semicondutores, chegou aos 7.000 pontos e agora chama atenção para possível teste dos 8.000.",
+        "body": "A bolsa sul-coreana registrou na semana passada uma alta explosiva, sustentada pela forte valorização das ações de semicondutores, e conseguiu alcançar a marca dos “7.000 pontos”. Segundo a reportagem com origem em Seul, o principal pano de fundo da alta foi a força dos papéis ligados a chips. Com isso, a atenção do mercado passou para a possibilidade de uma tentativa de chegar aos “8.000 pontos” apenas uma semana depois. O texto original não apresentou números detalhados por ação nem indicadores adicionais. O próximo movimento dependerá da continuidade da força dos semicondutores e da manutenção do impulso geral do mercado doméstico. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Koreas Aktienmarkt erreicht 7.000 Punkte, Chipwerte lenken Blick auf 8.000",
+        "excerpt": "Der südkoreanische Aktienmarkt stieg vergangene Woche dank sehr starker Halbleiterwerte kräftig, erreichte 7.000 Punkte und richtet den Fokus nun auf einen möglichen Test von 8.000.",
+        "body": "Der südkoreanische Aktienmarkt verzeichnete in der vergangenen Woche einen explosiven Anstieg, getragen von der außergewöhnlichen Stärke der Halbleiterwerte, und erreichte die Marke von „7.000 Punkten“. Laut dem Bericht aus Seoul war die Stärke der Chip-Aktien der zentrale Hintergrund dieser Bewegung. Damit richtet sich die Aufmerksamkeit des Marktes nun darauf, ob bereits eine Woche später ein Vorstoß in Richtung „8.000 Punkte“ möglich ist. Der Originalbericht nannte keine konkreten Einzeltitelzahlen oder zusätzlichen Indikatoren. Entscheidend wird sein, ob die Stärke der Halbleiterwerte anhält und ob die Aufwärtsdynamik des heimischen Marktes insgesamt bestehen bleibt. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "La Bourse coréenne atteint 7.000 points, les puces placent 8.000 en vue",
+        "excerpt": "La Bourse sud-coréenne a fortement progressé la semaine dernière grâce à la vigueur des valeurs de semi-conducteurs, atteignant 7.000 points et attirant l’attention sur les 8.000.",
+        "body": "La Bourse sud-coréenne a enregistré la semaine dernière une progression explosive, portée par la très forte hausse des valeurs de semi-conducteurs, et a réussi à atteindre le seuil des « 7.000 points ». Selon le reportage daté de Séoul, la principale raison de cette progression a été la vigueur des actions liées aux puces. L’attention du marché se tourne désormais vers la possibilité d’une tentative vers les « 8.000 points » en seulement une semaine. Le texte original ne fournit pas de chiffres détaillés par valeur ni d’indicateurs supplémentaires. La suite dépendra de la poursuite de la force des semi-conducteurs et du maintien de l’élan global du marché domestique. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "الأسهم الكورية تبلغ 7000 نقطة بدعم الرقائق والأنظار على 8000",
+        "excerpt": "ارتفعت الأسهم الكورية الجنوبية بقوة الأسبوع الماضي بفضل الأداء القوي لأسهم أشباه الموصلات، وبلغت مستوى 7000 نقطة، ما وجّه الانتباه إلى احتمال اختبار 8000 نقطة خلال أسبوع.",
+        "body": "سجلت السوق الكورية الجنوبية الأسبوع الماضي صعودا قويا للغاية، مدفوعة بالقوة الكبيرة في أسهم أشباه الموصلات، ونجحت في بلوغ مستوى “7000 نقطة”. وبحسب تقرير من سول، كان الأداء القوي لأسهم الرقائق هو الخلفية الرئيسية لهذا الارتفاع. ومع ذلك، تحوّل اهتمام السوق الآن إلى ما إذا كانت الأسهم المحلية ستتجه إلى محاولة بلوغ مستوى “8000 نقطة” بعد أسبوع واحد فقط. ولم يورد النص الأصلي أرقاما تفصيلية حسب الأسهم أو مؤشرات إضافية. وسيعتمد المسار المقبل على استمرار قوة أسهم أشباه الموصلات وعلى بقاء زخم الصعود في السوق المحلية عموما. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कोरियाई शेयर 7,000 अंक पर, चिप शेयरों की तेजी से 8,000 पर नजर",
+        "excerpt": "दक्षिण कोरियाई शेयर बाजार पिछले सप्ताह सेमीकंडक्टर शेयरों की मजबूत तेजी से उछला, 7,000 अंक तक पहुंचा और अब बाजार की नजर एक सप्ताह में 8,000 अंक की चुनौती पर है।",
+        "body": "दक्षिण कोरिया के घरेलू शेयर बाजार ने पिछले सप्ताह सेमीकंडक्टर शेयरों की बेहद मजबूत बढ़त के सहारे विस्फोटक तेजी दिखाई और “7,000 अंक” का स्तर हासिल किया। सियोल से आई रिपोर्ट के अनुसार, इस उछाल की मुख्य पृष्ठभूमि चिप शेयरों की मजबूती रही। इसके बाद बाजार का ध्यान इस बात पर केंद्रित हो गया है कि क्या सूचकांक सिर्फ एक सप्ताह में “8,000 अंक” की चुनौती पेश कर सकता है। मूल रिपोर्ट में अलग-अलग शेयरों के ठोस आंकड़े या अतिरिक्त संकेतक नहीं दिए गए। आगे की चाल इस पर निर्भर करेगी कि सेमीकंडक्टर शेयरों की मजबूती जारी रहती है या नहीं और घरेलू बाजार की व्यापक तेजी बनी रहती है या नहीं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Saham Korea Capai 7.000 Poin, Reli Chip Buka Fokus ke 8.000",
+        "excerpt": "Pasar saham Korea Selatan melonjak pekan lalu berkat kekuatan besar saham semikonduktor, mencapai 7.000 poin, dan kini perhatian tertuju pada peluang menantang 8.000 poin dalam sepekan.",
+        "body": "Pasar saham domestik Korea Selatan pekan lalu mencatat kenaikan eksplosif, ditopang oleh kekuatan besar saham semikonduktor, dan berhasil mencapai level “7.000 poin”. Menurut laporan dari Seoul, latar utama kenaikan tersebut adalah penguatan saham-saham terkait chip. Perhatian pasar kini bergeser pada apakah pasar dapat mencoba menembus level “8.000 poin” hanya dalam satu pekan. Naskah asli tidak menyajikan angka rinci per saham ataupun indikator tambahan. Arah berikutnya akan bergantung pada apakah kekuatan saham semikonduktor berlanjut dan apakah momentum kenaikan pasar domestik secara luas tetap terjaga. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1eaef05efd5d",
+    "slug": "힘빠진다-더-가져갈까-팔까불장에-깊어진-개미들의-고민-356312",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T22:13:31.253Z",
+    "updatedAt": "2026-05-09T22:13:31.253Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509025500008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509025500008",
+    "titleFingerprint": "34d53e9c1bfe6af67b76b3683951fef78ac43229",
+    "dedupKeys": [
+      "1eaef05efd5d8b004bc44aa7845f268ac0780ace",
+      "34d53e9c1bfe6af67b76b3683951fef78ac43229",
+      "01298f29ffe45692900da7f69dc36656ba75a1f9"
+    ],
+    "imageUrl": "/images/articles/1eaef05efd5d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7천피 돌파에 개미 고민 커져…불장 속 보유·매도 갈림길",
+        "excerpt": "코스피가 연초 대비 70% 이상 오르며 7천피를 넘어선 가운데 개인투자자들은 더 가져갈지 팔지 고민이 깊어지고 있다.",
+        "body": "서울에서 연합뉴스 김유아 기자는 코스피가 ‘7천피’를 돌파하며 연초 대비 70% 이상 상승한 가운데 개인투자자, 이른바 개미들의 고민이 커지고 있다고 전했다. 강한 상승장이 이어지면서 투자자들은 기존 보유분을 계속 가져갈지, 추가로 매수할지, 차익 실현에 나설지 갈림길에 섰다. 지수가 크게 오른 만큼 상승 흐름에 대한 기대와 가격 부담이 동시에 부각되는 상황이다. 이번 흐름은 개인투자자의 투자 판단과 시장 심리에 영향을 줄 수 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Tops 7,000 as Retail Investors Weigh Holding, Buying or Selling",
+        "excerpt": "As the KOSPI rises more than 70% from the start of the year and breaks above 7,000, retail investors are increasingly debating whether to hold, buy more or sell.",
+        "body": "In Seoul, Yonhap News Agency reporter Kim Yu-a said the KOSPI has broken above the 7,000 mark after rising more than 70% from the start of the year, deepening concerns among retail investors. As the strong bull market continues, individual investors are weighing whether to keep their existing holdings, add more positions or take profits. With the index having climbed sharply, expectations for further gains and concerns over stretched prices are emerging at the same time. The trend may affect retail investment decisions and market sentiment. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "KOSPIが7,000突破、個人投資家に保有・買い増し・売却の悩み",
+        "excerpt": "KOSPIが年初比70％超上昇して7,000を突破する中、個人投資家は保有を続けるか、買い増すか、売るかで悩みを深めている。",
+        "body": "ソウル発の聯合ニュースでキム・ユア記者は、KOSPIが「7,000」を突破し、年初比で70％以上上昇する中、個人投資家の悩みが深まっていると伝えた。強い上昇相場が続くなか、投資家は既存の保有分を持ち続けるのか、さらに買い増すのか、利益確定に動くのかの分岐点に立っている。指数が大きく上昇しただけに、追加上昇への期待と価格負担が同時に意識される状況だ。この流れは個人の投資判断と市場心理に影響を与え得る。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI突破7000点，散户在持有、加仓与卖出间更纠结",
+        "excerpt": "KOSPI较年初上涨逾70%并突破7000点之际，个人投资者正在为继续持有、追加买入还是卖出获利而加深 고민。",
+        "body": "据韩联社首尔报道，记者金宥娥称，KOSPI突破“7000点”，较年初上涨超过70%，个人投资者也就是散户的 고민正在加深。随着强劲牛市延续，投资者站在分岔路口：是继续持有现有仓位、进一步买入，还是选择获利了结。指数已大幅上涨，因此对继续上涨的期待与对价格负担的担忧同时浮现。这一走势可能影响个人投资者的判断和市场情绪。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "El KOSPI supera los 7.000 puntos y los minoristas dudan si mantener o vender",
+        "excerpt": "Con el KOSPI por encima de 7.000 puntos tras subir más de 70% desde comienzos de año, los inversores minoristas debaten si mantener, comprar más o vender.",
+        "body": "Desde Seúl, la reportera Kim Yu-a de Yonhap informó que el KOSPI superó la marca de los 7.000 puntos tras avanzar más de 70% desde comienzos de año, lo que ha profundizado las dudas de los inversores minoristas. Mientras continúa el fuerte mercado alcista, los particulares evalúan si conservar sus posiciones, aumentar compras o tomar ganancias. Dado el fuerte avance del índice, conviven las expectativas de nuevas subidas y la preocupación por el nivel de precios. Esta dinámica puede influir en sus decisiones y en el ánimo del mercado. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI passa de 7.000 pontos e pequenos investidores avaliam manter ou vender",
+        "excerpt": "Com o KOSPI acima de 7.000 pontos após alta de mais de 70% desde o início do ano, investidores individuais discutem se mantêm, compram mais ou vendem.",
+        "body": "Em Seul, a repórter Kim Yu-a, da Yonhap, informou que o KOSPI rompeu a marca dos 7.000 pontos depois de subir mais de 70% desde o início do ano, aumentando as dúvidas dos investidores individuais. Com a forte tendência de alta ainda em curso, eles avaliam se mantêm as posições existentes, compram mais ou realizam lucros. Como o índice avançou de forma expressiva, expectativas de novas altas e preocupações com o nível dos preços aparecem ao mesmo tempo. Esse movimento pode afetar decisões de investimento e o sentimento do mercado. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "KOSPI über 7.000 Punkte: Privatanleger ringen mit Halten, Kaufen oder Verkaufen",
+        "excerpt": "Der KOSPI ist seit Jahresbeginn um mehr als 70% gestiegen und über 7.000 Punkte geklettert; Privatanleger fragen sich nun, ob sie halten, zukaufen oder verkaufen sollen.",
+        "body": "Aus Seoul berichtete Yonhap-Reporterin Kim Yu-a, dass der KOSPI die Marke von 7.000 Punkten überschritten hat und seit Jahresbeginn um mehr als 70% gestiegen ist. Damit nehmen die Sorgen der Privatanleger zu. Während der starke Bullenmarkt anhält, stehen sie vor der Frage, ob sie bestehende Positionen weiter halten, zusätzliche Käufe tätigen oder Gewinne mitnehmen sollen. Nach dem kräftigen Indexanstieg treten Erwartungen auf weitere Gewinne und Bedenken wegen hoher Preise gleichzeitig hervor. Die Entwicklung kann Anlageentscheidungen und Marktstimmung beeinflussen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI dépasse 7 000 points et les particuliers hésitent entre garder et vendre",
+        "excerpt": "Alors que le KOSPI dépasse 7 000 points après une hausse de plus de 70% depuis le début de l’année, les investisseurs particuliers se demandent s’ils doivent conserver, renforcer ou vendre.",
+        "body": "À Séoul, la journaliste Kim Yu-a de Yonhap a rapporté que le KOSPI a franchi le seuil des 7 000 points après avoir progressé de plus de 70% depuis le début de l’année, accentuant les interrogations des investisseurs particuliers. Dans ce marché haussier marqué, ils doivent décider s’ils conservent leurs positions, achètent davantage ou prennent leurs bénéfices. La forte montée de l’indice fait apparaître à la fois des attentes de poursuite de la hausse et des inquiétudes sur les niveaux de prix. Cette situation peut peser sur les décisions des particuliers et le sentiment de marché. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يتجاوز 7000 نقطة والمستثمرون الأفراد بين الاحتفاظ والبيع",
+        "excerpt": "مع صعود كوسبي بأكثر من 70% منذ بداية العام وتجاوزه 7000 نقطة، تتزايد حيرة المستثمرين الأفراد بين الاحتفاظ بالمراكز أو الشراء الإضافي أو البيع.",
+        "body": "من سيئول، أفادت الصحفية كيم يو-آ من وكالة يونهاب بأن مؤشر كوسبي تجاوز مستوى 7000 نقطة بعد ارتفاعه بأكثر من 70% منذ بداية العام، ما زاد حيرة المستثمرين الأفراد. ومع استمرار السوق الصاعدة القوية، يدرس هؤلاء ما إذا كانوا سيواصلون الاحتفاظ بمراكزهم الحالية، أو يشترون المزيد، أو يحققون الأرباح عبر البيع. وبما أن المؤشر ارتفع بقوة، تظهر في الوقت نفسه توقعات بمزيد من الصعود ومخاوف من عبء الأسعار. وقد يؤثر هذا المسار في قرارات المستثمرين الأفراد ومعنويات السوق. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI 7,000 के पार, खुदरा निवेशक होल्ड, खरीद या बिक्री को लेकर उलझे",
+        "excerpt": "साल की शुरुआत से 70% से अधिक चढ़कर KOSPI के 7,000 के पार जाने के बाद खुदरा निवेशक सोच रहे हैं कि होल्ड करें, और खरीदें या बेचें।",
+        "body": "सियोल से योनहाप की रिपोर्टर किम यू-आ ने बताया कि KOSPI ने 7,000 का स्तर पार कर लिया है और साल की शुरुआत से 70% से अधिक बढ़ चुका है, जिससे खुदरा निवेशकों की दुविधा गहरी हो गई है। मजबूत तेजी वाले बाजार के जारी रहने के बीच निवेशक तय कर रहे हैं कि मौजूदा होल्डिंग बनाए रखें, और खरीदें या मुनाफा वसूलने के लिए बेचें। सूचकांक में तेज बढ़त के कारण आगे की तेजी की उम्मीद और कीमतों के बोझ की चिंता साथ-साथ उभर रही है। यह रुझान खुदरा निवेश निर्णयों और बाजार भावना को प्रभावित कर सकता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Tembus 7.000, Investor Ritel Bimbang antara Tahan, Tambah atau Jual",
+        "excerpt": "Saat KOSPI naik lebih dari 70% sejak awal tahun dan menembus 7.000, investor ritel makin bimbang apakah mempertahankan, menambah posisi, atau menjual.",
+        "body": "Dari Seoul, reporter Yonhap Kim Yu-a melaporkan bahwa KOSPI menembus level 7.000 setelah naik lebih dari 70% sejak awal tahun, sehingga kekhawatiran investor ritel semakin dalam. Di tengah pasar bullish yang kuat, investor individu mempertimbangkan apakah tetap memegang posisi yang ada, menambah pembelian, atau merealisasikan keuntungan. Karena indeks telah naik tajam, harapan atas kenaikan lanjutan dan kekhawatiran terhadap beban harga muncul bersamaan. Pergerakan ini dapat memengaruhi keputusan investasi ritel dan sentimen pasar. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "6afcfb75dbd8",
+    "slug": "불장에-손-커진-개미지난달-1억-이상-주문-역대-최대-103752",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-09T22:12:41.845Z",
+    "updatedAt": "2026-05-09T22:12:41.845Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509000400008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509000400008",
+    "titleFingerprint": "ee6972b83a2820827870c47341ae3a1439e9c9c4",
+    "dedupKeys": [
+      "6afcfb75dbd873a4dea1d329e08b0616847365b4",
+      "ee6972b83a2820827870c47341ae3a1439e9c9c4",
+      "c3de926d4e2b6372fd4291ebd78bf43eb7ecf650"
+    ],
+    "imageUrl": "/images/articles/6afcfb75dbd8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 사상 최고 랠리에 큰손 개미 급증…지난달 1억 이상 주문 역대 최대",
+        "excerpt": "최근 코스피가 7천선을 밟고 사상 최고치 랠리를 이어가면서 지난달 1억원 이상 거액 주문을 낸 개인투자자 참여가 역대 최대 수준으로 늘었다.",
+        "body": "최근 서울 주식시장에서 코스피가 7천선 고지를 밟고 사상 최고치 랠리를 이어가자, 거액을 굴리는 이른바 ‘큰손’ 개인투자자들의 참여가 크게 늘었다. 지난달 1억원 이상 주문은 역대 최대치를 기록한 것으로 전해졌다. 강한 상승장이 이어지면서 개인투자자 가운데 대규모 자금을 한 번에 투입하는 사례가 늘어난 흐름이다. 이는 증시 활황이 일반 개인뿐 아니라 고액 주문 투자자들의 매매 활동까지 자극하고 있음을 보여준다. 다만 기사에 제시된 내용은 최근 랠리와 지난달 주문 규모 증가에 초점이 맞춰져 있으며, 향후 시장 방향에 대한 판단은 별도로 제시되지 않았다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Big retail investors surge as KOSPI hits record rally; orders over 100 million won set high",
+        "excerpt": "As the KOSPI recently reached the 7,000 level and extended its record-high rally, retail investors placing orders of at least 100 million won hit an all-time high last month.",
+        "body": "In Seoul’s stock market, participation by so-called big retail investors has risen sharply as the KOSPI recently reached the 7,000 mark and continued its record-high rally. Orders worth 100 million won or more last month reportedly reached the highest level ever. The trend reflects more individual investors committing large sums at once during a strong bull market. It also shows that the market rally is stimulating trading not only among ordinary retail participants but also among high-value order investors. The original report focuses on the recent rally and the increase in large orders last month, without presenting a separate judgment on the market’s future direction. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI最高値ラリーで大口個人が急増、先月1億ウォン以上注文が過去最多",
+        "excerpt": "KOSPIが最近7,000台に乗せ過去最高値ラリーを続ける中、先月1億ウォン以上の大口注文を出した個人投資家の参加が過去最大に増えた。",
+        "body": "ソウル株式市場では、KOSPIが最近7,000台の節目に到達し、過去最高値のラリーを続けたことで、いわゆる「大口」の個人投資家の参加が大きく増えた。先月の1億ウォン以上の注文は過去最多を記録したと伝えられている。強い上昇相場が続く中、個人投資家の間でまとまった資金を一度に投入する動きが広がった形だ。これは株式市場の活況が一般の個人投資家だけでなく、高額注文を出す投資家の売買活動も刺激していることを示す。記事は最近のラリーと先月の注文規模増加に焦点を当てており、今後の相場方向についての判断は別途示していない。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI创纪录上涨带动大户散户入场，上月亿元级订单创新高",
+        "excerpt": "随着KOSPI近期站上7000点并延续历史高位行情，上月下达1亿韩元以上大额订单的个人投资者参与度升至历史最高。",
+        "body": "在首尔股市，KOSPI近期站上7000点关口并延续历史最高位涨势，推动掌握大额资金的所谓“大户”个人投资者参与明显增加。据报道，上月1亿韩元以上订单规模创下历史最高纪录。强劲牛市持续之下，个人投资者中一次性投入大笔资金的情况增多。这显示股市活跃不仅刺激了一般散户，也带动了高额订单投资者的交易活动。原文重点在于近期KOSPI上涨行情以及上月大额订单增加，并未对未来市场方向作出单独判断。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "El rally récord del KOSPI dispara a los grandes minoristas; pedidos sobre 100 millones marcan máximo",
+        "excerpt": "Con el KOSPI tocando recientemente los 7.000 puntos y extendiendo su rally histórico, las órdenes minoristas de al menos 100 millones de wones alcanzaron un récord el mes pasado.",
+        "body": "En el mercado bursátil de Seúl, la participación de los llamados grandes inversores minoristas aumentó con fuerza después de que el KOSPI alcanzara recientemente el nivel de 7.000 puntos y continuara su rally de máximos históricos. Las órdenes por 100 millones de wones o más registradas el mes pasado habrían marcado el mayor nivel de la historia. La tendencia muestra que, en medio de un mercado alcista firme, más inversores individuales están colocando grandes sumas en una sola operación. También indica que el auge bursátil está impulsando la actividad no solo de minoristas comunes, sino también de quienes realizan órdenes de alto valor. El informe original se centra en el rally reciente y el aumento de grandes órdenes del mes pasado, sin ofrecer una evaluación separada sobre la dirección futura del mercado. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Rali recorde do KOSPI atrai grandes pessoas físicas; ordens acima de 100 milhões batem máximo",
+        "excerpt": "Com o KOSPI chegando recentemente aos 7.000 pontos e mantendo a sequência de recordes, ordens de pessoas físicas acima de 100 milhões de won atingiram máxima histórica no mês passado.",
+        "body": "No mercado acionário de Seul, a participação dos chamados grandes investidores pessoas físicas cresceu fortemente depois que o KOSPI alcançou recentemente a marca de 7.000 pontos e continuou seu rali de máximas históricas. As ordens de 100 milhões de won ou mais no mês passado teriam atingido o maior nível já registrado. O movimento mostra que, em um mercado de alta vigoroso, mais investidores individuais passaram a aplicar grandes quantias de uma só vez. Também indica que a valorização da bolsa está estimulando não apenas pequenos investidores comuns, mas também participantes que fazem ordens de alto valor. A reportagem original se concentra no rali recente e no aumento das ordens grandes no mês passado, sem apresentar uma avaliação separada sobre a direção futura do mercado. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "KOSPI-Rekordrally lockt große Privatanleger; Orders über 100 Mio. Won auf Allzeithoch",
+        "excerpt": "Da der KOSPI zuletzt die Marke von 7.000 erreichte und seine Rekordrally fortsetzte, stiegen Privatanlegerorders ab 100 Millionen Won im vergangenen Monat auf ein Allzeithoch.",
+        "body": "Am Aktienmarkt in Seoul ist die Beteiligung sogenannter großer Privatanleger deutlich gestiegen, nachdem der KOSPI zuletzt die Marke von 7.000 erreicht und seine Rally auf historische Höchststände fortgesetzt hatte. Orders im Wert von 100 Millionen Won oder mehr erreichten im vergangenen Monat Berichten zufolge den höchsten Stand aller Zeiten. Der Trend zeigt, dass in einem starken Bullenmarkt mehr Einzelanleger große Beträge auf einmal einsetzen. Zugleich macht er deutlich, dass die Börsenhausse nicht nur gewöhnliche Privatanleger, sondern auch Investoren mit hohen Ordervolumina zu mehr Handel bewegt. Der ursprüngliche Bericht konzentriert sich auf die jüngste Rally und den Anstieg großer Orders im vergangenen Monat; eine eigene Einschätzung zur künftigen Marktrichtung wird nicht gegeben. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le rally record du KOSPI attire les gros particuliers; ordres de plus de 100 millions au plus haut",
+        "excerpt": "Alors que le KOSPI a récemment atteint 7.000 points et poursuivi son rally de records, les ordres de particuliers d’au moins 100 millions de wons ont atteint un sommet historique le mois dernier.",
+        "body": "Sur le marché boursier de Séoul, la participation des particuliers disposant de gros capitaux a fortement augmenté après que le KOSPI a récemment franchi le seuil des 7.000 points et poursuivi son rally vers des records historiques. Les ordres de 100 millions de wons ou plus auraient atteint le mois dernier leur plus haut niveau jamais observé. Cette évolution montre que, dans un marché haussier solide, davantage d’investisseurs individuels engagent d’importantes sommes en une seule fois. Elle indique aussi que la vigueur de la Bourse stimule non seulement les particuliers ordinaires, mais aussi les investisseurs passant des ordres de forte valeur. L’article d’origine se concentre sur le rally récent et la hausse des gros ordres le mois dernier, sans formuler de jugement distinct sur l’orientation future du marché. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "ارتفاع قياسي في كوسبي يجذب كبار الأفراد؛ أوامر تفوق 100 مليون وون عند أعلى مستوى",
+        "excerpt": "مع وصول كوسبي مؤخرا إلى مستوى 7000 ومواصلة مساره القياسي، بلغت أوامر المستثمرين الأفراد بقيمة 100 مليون وون فأكثر أعلى مستوى تاريخي في الشهر الماضي.",
+        "body": "في سوق الأسهم في سول، ارتفعت مشاركة المستثمرين الأفراد ذوي الأموال الكبيرة بوضوح بعدما وصل مؤشر كوسبي مؤخرا إلى مستوى 7000 وواصل موجة صعوده إلى قمم تاريخية. وذكرت التقارير أن الأوامر بقيمة 100 مليون وون أو أكثر في الشهر الماضي سجلت أعلى مستوى على الإطلاق. ويعكس ذلك زيادة الحالات التي يضخ فيها المستثمرون الأفراد مبالغ كبيرة دفعة واحدة مع استمرار السوق الصاعدة القوية. كما يوضح أن نشاط البورصة لا يحفز المستثمرين الأفراد العاديين فقط، بل يدفع أيضا أصحاب الأوامر الكبيرة إلى زيادة التداول. ويركز التقرير الأصلي على الصعود الأخير وزيادة حجم الأوامر في الشهر الماضي، من دون تقديم حكم منفصل بشأن اتجاه السوق مستقبلا. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI की रिकॉर्ड रैली से बड़े खुदरा निवेशक बढ़े; 10 करोड़ वॉन से ऊपर ऑर्डर शिखर पर",
+        "excerpt": "KOSPI के हाल में 7,000 स्तर छूने और रिकॉर्ड ऊंचाई की रैली जारी रखने के बीच पिछले महीने 10 करोड़ वॉन या उससे अधिक के खुदरा ऑर्डर ऐतिहासिक उच्च स्तर पर पहुंचे।",
+        "body": "सियोल के शेयर बाजार में KOSPI के हाल में 7,000 के स्तर पर पहुंचने और रिकॉर्ड ऊंचाई की रैली जारी रखने के बाद बड़े धन वाले खुदरा निवेशकों की भागीदारी तेजी से बढ़ी। बताया गया कि पिछले महीने 10 करोड़ वॉन या उससे अधिक मूल्य के ऑर्डर अब तक के सबसे ऊंचे स्तर पर रहे। मजबूत तेजी के माहौल में अधिक व्यक्तिगत निवेशक एक बार में बड़ी रकम लगा रहे हैं। यह रुझान दिखाता है कि बाजार की तेजी केवल सामान्य खुदरा निवेशकों को ही नहीं, बल्कि बड़े ऑर्डर देने वाले निवेशकों की ट्रेडिंग गतिविधि को भी बढ़ा रही है। मूल रिपोर्ट हालिया रैली और पिछले महीने बड़े ऑर्डरों में वृद्धि पर केंद्रित है तथा भविष्य की बाजार दिशा पर अलग से कोई आकलन नहीं देती। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Reli rekor KOSPI tarik investor ritel besar; order di atas 100 juta won cetak tertinggi",
+        "excerpt": "Saat KOSPI baru-baru ini menyentuh level 7.000 dan melanjutkan reli rekor tertinggi, order investor ritel minimal 100 juta won mencapai rekor pada bulan lalu.",
+        "body": "Di pasar saham Seoul, partisipasi investor ritel bermodal besar meningkat tajam setelah KOSPI baru-baru ini mencapai level 7.000 dan melanjutkan reli ke rekor tertinggi. Order senilai 100 juta won atau lebih pada bulan lalu dilaporkan mencatat level tertinggi sepanjang masa. Tren ini menunjukkan bahwa di tengah pasar bullish yang kuat, semakin banyak investor individu menempatkan dana besar dalam satu kali transaksi. Hal itu juga memperlihatkan bahwa semarak bursa tidak hanya mendorong investor ritel biasa, tetapi juga pelaku dengan order bernilai tinggi. Laporan asli berfokus pada reli terbaru dan kenaikan order besar bulan lalu, tanpa memberikan penilaian terpisah mengenai arah pasar ke depan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "46bd6382695c",
     "slug": "미국으로-쏠리고-유럽으로-확장k뷰티-해외-시장-재편-501134",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Cadangan Devisa China Naik 100 Triliun Won pada April saat Dolar Melemah",
         "excerpt": "Cadangan devisa China bertambah sekitar 100 triliun won sepanjang April, dipengaruhi pelemahan dolar dan kenaikan harga aset keuangan global.",
         "body": "Cadangan devisa China naik sekitar 100 triliun won selama bulan April, menurut laporan tersebut. Kenaikan ini dikaitkan dengan pelemahan dolar AS dan naiknya harga aset keuangan global, yang mendorong valuasi aset cadangan yang dimiliki. Cadangan devisa merupakan penyangga penting untuk pembayaran eksternal, stabilitas pasar keuangan, dan respons terhadap pergerakan nilai tukar. Peningkatan ini menunjukkan ruang China untuk menghadapi guncangan keuangan eksternal menjadi lebih besar. Laporan asli menyebut pelemahan dolar dan kenaikan harga aset global sebagai faktor utama, tanpa menyebut perubahan kebijakan tertentu atau proyeksi tambahan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1b797109cd03",
-    "slug": "북경한미-지난해-매출-4천억원-넘어사상-최대-927609",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T14:38:51.831Z",
-    "updatedAt": "2026-05-09T14:38:51.831Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508069600017",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508069600017",
-    "titleFingerprint": "fb14ca900da34c598bb5f4aaee6750594bbccefb",
-    "dedupKeys": [
-      "1b797109cd038e0a44b6c31e6b942c4e150603bf",
-      "fb14ca900da34c598bb5f4aaee6750594bbccefb",
-      "31763f471911e711c1bca58313335fa392b295a3"
-    ],
-    "imageUrl": "/images/articles/1b797109cd03.jpg",
-    "i18n": {
-      "ko": {
-        "title": "북경한미 지난해 매출 4천24억원, 사상 최대 실적 기록",
-        "excerpt": "한미약품 중국 현지법인 북경한미약품유한공사는 지난해 매출 4천24억원, 영업이익 777억원을 올리며 사상 최대 실적을 기록했다고 연합뉴스가 전했다.",
-        "body": "한미약품의 중국 현지법인 북경한미약품유한공사는 지난해 매출이 4천24억원을 넘어서며 사상 최대 실적을 기록했다. 연합뉴스에 따르면 북경한미의 지난해 영업이익은 777억원으로 집계됐다. 매출 4천억원 돌파는 중국 현지 법인의 실적 흐름에서 중요한 수치로 제시됐다. 이번 실적은 한미약품의 중국 사업 성과를 보여주는 지표로, 현지 법인의 매출 규모와 수익성이 함께 주목받고 있다. 구체적인 제품별 매출이나 향후 계획은 원문에 포함되지 않았다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Beijing Hanmi Posts Record Revenue of 402.4 Billion Won Last Year",
-        "excerpt": "Beijing Hanmi Pharmaceutical, Hanmi Pharm’s China subsidiary, recorded 402.4 billion won in revenue and 77.7 billion won in operating profit last year, Yonhap reported.",
-        "body": "Beijing Hanmi Pharmaceutical, the China-based subsidiary of Hanmi Pharm, posted record annual results last year as revenue exceeded 402.4 billion won. According to Yonhap News Agency, the company’s operating profit for the year was 77.7 billion won. Crossing the 400 billion won revenue mark was presented as a key figure in the subsidiary’s performance trend in China. The results highlight Hanmi Pharm’s business performance in the Chinese market, drawing attention to both the subsidiary’s sales scale and profitability. Details on revenue by product or future plans were not included in the original report. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "北京韓美、昨年売上高4024億ウォンで過去最高を記録",
-        "excerpt": "韓美薬品の中国現地法人である北京韓美薬品有限公司は、昨年の売上高が4024億ウォン、営業利益が777億ウォンとなり、過去最高を記録したと聯合ニュースが伝えた。",
-        "body": "韓美薬品の中国現地法人である北京韓美薬品有限公司は、昨年の売上高が4024億ウォンを超え、過去最高の実績を記録した。聯合ニュースによると、北京韓美の昨年の営業利益は777億ウォンと集計された。売上高4000億ウォン突破は、中国現地法人の業績推移における重要な数値として示された。今回の実績は、韓美薬品の中国事業の成果を示す指標であり、現地法人の売上規模と収益性がともに注目されている。製品別売上や今後の計画に関する詳細は原文に含まれていない。出所: yna.co.kr"
-      },
-      "zh": {
-        "title": "北京韩美去年销售额达4024亿韩元，创历史新高",
-        "excerpt": "韩美药品中国当地法人北京韩美药品有限公司去年实现销售额4024亿韩元、营业利润777亿韩元，创下历史最高业绩，韩联社报道称。",
-        "body": "韩美药品的中国当地法人北京韩美药品有限公司去年销售额超过4024亿韩元，创下历史最高业绩。据韩联社报道，北京韩美去年营业利润为777亿韩元。销售额突破4000亿韩元，被视为该中国当地法人业绩走势中的重要数字。此次业绩体现了韩美药品在中国业务的成果，也使当地法人的销售规模和盈利能力同时受到关注。原文未包含按产品划分的销售额或今后计划等具体内容。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Beijing Hanmi logra ingresos récord de 402.400 millones de wones",
-        "excerpt": "Beijing Hanmi Pharmaceutical, filial china de Hanmi Pharm, registró el año pasado ingresos de 402.400 millones de wones y beneficio operativo de 77.700 millones, informó Yonhap.",
-        "body": "Beijing Hanmi Pharmaceutical, la filial local en China de Hanmi Pharm, registró el año pasado ingresos superiores a 402.400 millones de wones y alcanzó su mayor resultado histórico. Según la agencia Yonhap, el beneficio operativo anual de Beijing Hanmi fue de 77.700 millones de wones. Superar los 400.000 millones de wones en ingresos fue presentado como una cifra relevante dentro de la trayectoria de la filial china. El resultado muestra el desempeño del negocio de Hanmi Pharm en China y pone el foco tanto en la escala de ventas como en la rentabilidad de la unidad local. El reporte original no incluyó ventas por producto ni planes futuros. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Beijing Hanmi tem receita recorde de 402,4 bilhões de wons",
-        "excerpt": "A Beijing Hanmi Pharmaceutical, subsidiária chinesa da Hanmi Pharm, registrou no ano passado receita de 402,4 bilhões de wons e lucro operacional de 77,7 bilhões, informou a Yonhap.",
-        "body": "A Beijing Hanmi Pharmaceutical, subsidiária local da Hanmi Pharm na China, registrou no ano passado receita superior a 402,4 bilhões de wons e alcançou seu maior desempenho histórico. Segundo a agência Yonhap, o lucro operacional anual da Beijing Hanmi foi de 77,7 bilhões de wons. A superação da marca de 400 bilhões de wons em receita foi apresentada como um número importante na trajetória da subsidiária chinesa. O resultado mostra o desempenho dos negócios da Hanmi Pharm na China e chama atenção para a escala de vendas e a rentabilidade da operação local. O relatório original não incluiu vendas por produto nem planos futuros. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Beijing Hanmi erzielt Rekordumsatz von 402,4 Milliarden Won",
-        "excerpt": "Beijing Hanmi Pharmaceutical, die China-Tochter von Hanmi Pharm, erzielte im vergangenen Jahr 402,4 Milliarden Won Umsatz und 77,7 Milliarden Won operativen Gewinn, berichtete Yonhap.",
-        "body": "Beijing Hanmi Pharmaceutical, die lokale China-Tochter von Hanmi Pharm, erzielte im vergangenen Jahr einen Umsatz von mehr als 402,4 Milliarden Won und damit das beste Ergebnis ihrer Geschichte. Nach Angaben der Nachrichtenagentur Yonhap lag der operative Gewinn von Beijing Hanmi im vergangenen Jahr bei 77,7 Milliarden Won. Das Überschreiten der Umsatzmarke von 400 Milliarden Won wurde als wichtige Kennzahl in der Entwicklung der chinesischen Tochtergesellschaft dargestellt. Das Ergebnis zeigt die Leistung von Hanmi Pharm im Chinageschäft und lenkt den Blick zugleich auf Umsatzgröße und Profitabilität der lokalen Einheit. Angaben zu Umsätzen nach Produkten oder zu künftigen Plänen enthielt der Originalbericht nicht. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Beijing Hanmi atteint un chiffre d’affaires record de 402,4 Md ₩",
-        "excerpt": "Beijing Hanmi Pharmaceutical, filiale chinoise de Hanmi Pharm, a enregistré l’an dernier 402,4 milliards de wons de chiffre d’affaires et 77,7 milliards de bénéfice opérationnel, selon Yonhap.",
-        "body": "Beijing Hanmi Pharmaceutical, filiale locale en Chine de Hanmi Pharm, a enregistré l’an dernier un chiffre d’affaires dépassant 402,4 milliards de wons, son plus haut niveau historique. Selon l’agence Yonhap, le bénéfice opérationnel annuel de Beijing Hanmi s’est établi à 77,7 milliards de wons. Le franchissement du seuil de 400 milliards de wons de chiffre d’affaires a été présenté comme un indicateur important dans l’évolution des performances de la filiale chinoise. Ces résultats illustrent la performance des activités chinoises de Hanmi Pharm et attirent l’attention sur la taille des ventes comme sur la rentabilité de l’entité locale. Le rapport original ne précisait pas les ventes par produit ni les projets futurs. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "بكين هانمي تسجل إيرادات قياسية بلغت 402.4 مليار وون العام الماضي",
-        "excerpt": "سجلت شركة بكين هانمي للأدوية، الذراع الصينية لشركة هانمي فارم، إيرادات قدرها 402.4 مليار وون وأرباحا تشغيلية بلغت 77.7 مليار وون العام الماضي، بحسب يونهاب.",
-        "body": "سجلت شركة بكين هانمي للأدوية، وهي الشركة المحلية التابعة لهانمي فارم في الصين، إيرادات تجاوزت 402.4 مليار وون العام الماضي، محققة أعلى أداء في تاريخها. ووفقا لوكالة يونهاب للأنباء، بلغ الربح التشغيلي لبكين هانمي خلال العام 77.7 مليار وون. وجرى عرض تجاوز حاجز 400 مليار وون في الإيرادات باعتباره رقما مهما في مسار أداء الشركة التابعة في الصين. وتظهر هذه النتائج أداء أعمال هانمي فارم في السوق الصينية، مع لفت الانتباه إلى حجم المبيعات والربحية لدى الكيان المحلي. ولم يتضمن التقرير الأصلي تفاصيل عن المبيعات حسب المنتج أو الخطط المستقبلية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "बीजिंग हानमी का राजस्व 402.4 अरब वॉन, अब तक का सबसे बड़ा प्रदर्शन",
-        "excerpt": "हानमी फार्म की चीनी स्थानीय इकाई बीजिंग हानमी फार्मास्यूटिकल ने पिछले साल 402.4 अरब वॉन का राजस्व और 77.7 अरब वॉन का परिचालन लाभ दर्ज किया, योनहाप ने बताया।",
-        "body": "हानमी फार्म की चीन स्थित स्थानीय इकाई बीजिंग हानमी फार्मास्यूटिकल ने पिछले साल 402.4 अरब वॉन से अधिक राजस्व दर्ज किया और अपने इतिहास का सबसे बड़ा प्रदर्शन किया। योनहाप समाचार एजेंसी के अनुसार, बीजिंग हानमी का वार्षिक परिचालन लाभ 77.7 अरब वॉन रहा। राजस्व का 400 अरब वॉन से ऊपर जाना चीन स्थित इकाई के प्रदर्शन रुझान में एक महत्वपूर्ण आंकड़े के रूप में सामने रखा गया। यह परिणाम चीन में हानमी फार्म के कारोबार की उपलब्धि दिखाता है और स्थानीय इकाई के बिक्री आकार तथा लाभप्रदता दोनों पर ध्यान खींचता है। मूल रिपोर्ट में उत्पादवार बिक्री या भविष्य की योजनाओं का विवरण शामिल नहीं था। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Beijing Hanmi Cetak Pendapatan Rekor 402,4 Miliar Won Tahun Lalu",
-        "excerpt": "Beijing Hanmi Pharmaceutical, anak usaha Hanmi Pharm di China, membukukan pendapatan 402,4 miliar won dan laba operasi 77,7 miliar won tahun lalu, lapor Yonhap.",
-        "body": "Beijing Hanmi Pharmaceutical, anak usaha lokal Hanmi Pharm di China, mencatat pendapatan lebih dari 402,4 miliar won tahun lalu dan membukukan kinerja tertinggi sepanjang sejarahnya. Menurut Kantor Berita Yonhap, laba operasi Beijing Hanmi pada tahun tersebut mencapai 77,7 miliar won. Tembusnya pendapatan 400 miliar won disajikan sebagai angka penting dalam tren kinerja anak usaha di China itu. Hasil ini menunjukkan kinerja bisnis Hanmi Pharm di pasar China dan menyoroti skala penjualan serta profitabilitas entitas lokal tersebut. Laporan asli tidak memuat rincian penjualan per produk atau rencana ke depan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ce51e3b28da6",
-    "slug": "동정-이병권-중기차관-강원-영월서-지역상권-활성화-방안-논의-932056",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T14:37:53.184Z",
-    "updatedAt": "2026-05-09T14:37:53.184Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508025900030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508025900030",
-    "titleFingerprint": "f958ab384293c24aeac8c9959402399472785d48",
-    "dedupKeys": [
-      "ce51e3b28da6670f57c372b739d57968565ba566",
-      "f958ab384293c24aeac8c9959402399472785d48",
-      "94cab2a044d8cedb1ddff6192ce6033f5db04803"
-    ],
-    "imageUrl": "/images/articles/ce51e3b28da6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이병권 중기차관, 강원 영월서 지역상권 활성화 해법 논의",
-        "excerpt": "이병권 중소벤처기업부 제2차관은 8일 강원 영월군 영월드센터에서 지역 소상공인과 간담회를 열고 로컬 가치를 바탕으로 한 지역상권 활성화 방안을 논의했다.",
-        "body": "이병권 중소벤처기업부 제2차관은 8일 강원 영월군 영월드센터에서 지역 소상공인들과 간담회를 열고 지역상권 활성화 방안을 논의했다. 간담회는 '로컬의 가치로 다시 살아나는 지역상권!'을 주제로 진행됐다. 이번 일정은 강원 영월 지역 현장에서 소상공인들의 의견을 듣고 지역 상권의 회복과 활력 제고 방안을 살피기 위한 자리로 마련됐다. 참석자들은 지역이 가진 고유한 가치와 상권의 경쟁력을 연결하는 방향을 중심으로 의견을 나눴다. 중소벤처기업부 차원의 현장 소통이 이어지면서 지역 소상공인 지원과 상권 활성화 논의가 계속될 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Vice Minister Lee Byung-kwon Discusses Revitalizing Local Commerce in Yeongwol",
-        "excerpt": "Lee Byung-kwon, second vice minister of SMEs and Startups, met local small business owners on the 8th at Yeongwol D Center in Gangwon to discuss ways to revive local commerce through local value.",
-        "body": "Lee Byung-kwon, second vice minister of the Ministry of SMEs and Startups, held a meeting with local small business owners on the 8th at Yeongwol D Center in Yeongwol County, Gangwon Province, to discuss ways to revitalize local commercial districts. The meeting was held under the theme, “Local commercial districts revived through the value of local identity.” The visit was arranged to hear views from small business owners on site and review ways to support recovery and vitality in the Yeongwol area’s commerce. Participants focused their discussion on linking the region’s unique local value with the competitiveness of its shopping districts. Continued field communication by the ministry is expected to keep discussions on small business support and local commerce revitalization moving forward. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "李秉権中企次官、江原・寧越で地域商圏活性化策を協議",
-        "excerpt": "中小ベンチャー企業部の李秉権第2次官は8日、江原道寧越郡の寧越Dセンターで地域の小商工人と懇談し、ローカル価値を生かした商圏活性化策を話し合った。",
-        "body": "中小ベンチャー企業部の李秉権第2次官は8日、江原道寧越郡の寧越Dセンターで地域の小商工人と懇談会を開き、地域商圏の活性化策を協議した。懇談会は「ローカルの価値で再びよみがえる地域商圏！」をテーマに行われた。今回の日程は、江原・寧越地域の現場で小商工人の意見を聞き、地域商圏の回復と活力向上に向けた方策を点検する場として設けられた。出席者は、地域固有の価値と商圏の競争力を結び付ける方向を中心に意見を交わした。中小ベンチャー企業部による現場との対話が続くことで、地域小商工人支援と商圏活性化に関する議論も継続する見通しだ。出所: yna.co.kr"
-      },
-      "zh": {
-        "title": "李炳权中企部次官在江原宁越讨论激活地方商圈方案",
-        "excerpt": "韩国中小风险企业部第二次官李炳权8日在江原道宁越郡宁越D中心与当地小商工人座谈，讨论以本地价值带动地方商圈复苏的方案。",
-        "body": "韩国中小风险企业部第二次官李炳权8日在江原道宁越郡宁越D中心同当地小商工人举行座谈会，讨论地方商圈激活方案。座谈会以“以本地价值重新焕发生机的地方商圈！”为主题进行。此次行程旨在江原宁越地区一线听取小商工人的意见，并了解促进当地商圈恢复和提升活力的办法。与会者围绕如何把地区固有价值与商圈竞争力相连接交换了意见。随着中小风险企业部继续加强现场沟通，围绕地方小商工人支持和商圈激活的讨论预计将持续推进。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Lee Byung-kwon aborda en Yeongwol cómo revitalizar el comercio local",
-        "excerpt": "Lee Byung-kwon, segundo viceministro de Pymes y Startups, se reunió el día 8 en el Yeongwol D Center de Gangwon con pequeños comerciantes locales para debatir medidas de reactivación comercial.",
-        "body": "Lee Byung-kwon, segundo viceministro del Ministerio de Pymes y Startups, celebró el día 8 una reunión con pequeños comerciantes locales en el Yeongwol D Center, en el condado de Yeongwol, provincia de Gangwon, para debatir formas de revitalizar las zonas comerciales locales. El encuentro se realizó bajo el lema “¡Zonas comerciales locales que reviven gracias al valor de lo local!”. La visita fue organizada para escuchar en el terreno las opiniones de los pequeños empresarios de Yeongwol y revisar medidas destinadas a recuperar y dinamizar el comercio de la región. Los participantes intercambiaron puntos de vista centrados en vincular el valor propio de la zona con la competitividad de sus áreas comerciales. Se prevé que la comunicación de campo del ministerio mantenga activo el debate sobre apoyo a pequeños comerciantes y revitalización local. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Lee Byung-kwon discute em Yeongwol formas de revitalizar o comércio local",
-        "excerpt": "Lee Byung-kwon, segundo vice-ministro de PMEs e Startups, reuniu-se no dia 8 no Yeongwol D Center, em Gangwon, com pequenos comerciantes locais para discutir a revitalização comercial.",
-        "body": "Lee Byung-kwon, segundo vice-ministro do Ministério das PMEs e Startups, realizou no dia 8 uma reunião com pequenos comerciantes locais no Yeongwol D Center, no condado de Yeongwol, província de Gangwon, para discutir formas de revitalizar os distritos comerciais locais. O encontro teve como tema “Distritos comerciais locais que renascem com o valor do local!”. A agenda foi preparada para ouvir, no próprio território, as opiniões dos pequenos comerciantes de Yeongwol e examinar medidas para recuperar e dar mais vitalidade ao comércio regional. Os participantes trocaram opiniões com foco em conectar o valor característico da região à competitividade dos seus centros comerciais. Com a continuidade do diálogo em campo pelo ministério, a discussão sobre apoio a pequenos comerciantes e revitalização local deve prosseguir. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Lee Byung-kwon berät in Yeongwol über Belebung lokaler Einkaufsviertel",
-        "excerpt": "Lee Byung-kwon, zweiter Vizeminister für KMU und Startups, traf am 8. im Yeongwol D Center in Gangwon lokale Kleinunternehmer, um über die Wiederbelebung lokaler Handelsviertel zu sprechen.",
-        "body": "Lee Byung-kwon, zweiter Vizeminister des Ministeriums für KMU und Startups, traf sich am 8. im Yeongwol D Center im Landkreis Yeongwol in der Provinz Gangwon mit lokalen Kleinunternehmern, um Maßnahmen zur Belebung lokaler Handelsviertel zu erörtern. Das Treffen stand unter dem Thema „Lokale Handelsviertel, die durch den Wert des Lokalen wieder aufleben!“. Der Termin diente dazu, vor Ort in Yeongwol die Meinungen kleiner Gewerbetreibender zu hören und Wege zur Erholung und Stärkung der örtlichen Geschäftslagen zu prüfen. Die Teilnehmenden tauschten sich vor allem darüber aus, wie sich der eigene Wert der Region mit der Wettbewerbsfähigkeit der Handelsviertel verbinden lässt. Mit der weiteren Vor-Ort-Kommunikation des Ministeriums dürften die Gespräche über Unterstützung für Kleinunternehmer und lokale Handelsbelebung fortgesetzt werden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Lee Byung-kwon discute à Yeongwol de la relance des commerces locaux",
-        "excerpt": "Lee Byung-kwon, deuxième vice-ministre des PME et des Startups, a rencontré le 8 au Yeongwol D Center, dans le Gangwon, des petits commerçants locaux pour discuter de la revitalisation commerciale.",
-        "body": "Lee Byung-kwon, deuxième vice-ministre du ministère des PME et des Startups, a tenu le 8 une réunion avec des petits commerçants locaux au Yeongwol D Center, dans le comté de Yeongwol, province du Gangwon, afin de discuter de mesures pour revitaliser les zones commerciales locales. La rencontre s’est déroulée sous le thème « Des quartiers commerciaux locaux qui renaissent grâce à la valeur du local ! ». Ce déplacement visait à écouter sur le terrain les avis des petits commerçants de Yeongwol et à examiner des pistes pour favoriser la reprise et le dynamisme du commerce local. Les participants ont principalement échangé sur la manière de relier les valeurs propres à la région à la compétitivité de ses zones commerciales. La poursuite du dialogue de terrain par le ministère devrait maintenir les discussions sur le soutien aux petits commerçants et la revitalisation commerciale locale. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "لي بيونغ-كوون يبحث في يونغ وول تنشيط الأسواق المحلية",
-        "excerpt": "عقد لي بيونغ-كوون، النائب الثاني لوزير الشركات الصغيرة والمتوسطة والناشئة، في 8 من الشهر لقاء مع أصحاب أعمال صغار في مركز يونغ وول دي بمقاطعة غانغوون لبحث تنشيط الأسواق المحلية.",
-        "body": "عقد لي بيونغ-كوون، النائب الثاني لوزير الشركات الصغيرة والمتوسطة والناشئة، في 8 من الشهر لقاء مع أصحاب أعمال صغار محليين في مركز يونغ وول دي في مقاطعة يونغ وول بإقليم غانغوون، لمناقشة سبل تنشيط المناطق التجارية المحلية. وجاء اللقاء تحت شعار “الأسواق المحلية التي تنهض من جديد بقيمة المحلي!”. ونُظم هذا البرنامج للاستماع ميدانياً إلى آراء أصحاب الأعمال الصغار في منطقة يونغ وول، وبحث طرق دعم تعافي الأسواق المحلية وتعزيز حيويتها. وركز المشاركون على تبادل الآراء بشأن ربط القيمة الفريدة للمنطقة بقدرة أسواقها التجارية على المنافسة. ومع استمرار تواصل الوزارة ميدانياً، من المتوقع أن تتواصل المناقشات بشأن دعم أصحاب الأعمال الصغار وتنشيط الأسواق المحلية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "ली ब्युंग-क्वोन ने येओंगवोल में स्थानीय बाजारों को सक्रिय करने पर चर्चा की",
-        "excerpt": "एसएमई और स्टार्टअप मंत्रालय के दूसरे उपमंत्री ली ब्युंग-क्वोन ने 8 तारीख को गांगवोन के येओंगवोल डी सेंटर में स्थानीय छोटे कारोबारियों से मिलकर स्थानीय बाजारों को पुनर्जीवित करने के उपायों पर चर्चा की।",
-        "body": "एसएमई और स्टार्टअप मंत्रालय के दूसरे उपमंत्री ली ब्युंग-क्वोन ने 8 तारीख को गांगवोन प्रांत के येओंगवोल काउंटी स्थित येओंगवोल डी सेंटर में स्थानीय छोटे कारोबारियों के साथ बैठक की और स्थानीय वाणिज्यिक क्षेत्रों को सक्रिय करने के उपायों पर चर्चा की। बैठक का विषय था, “स्थानीय मूल्य से फिर जीवित होते स्थानीय बाजार!” यह कार्यक्रम येओंगवोल क्षेत्र में छोटे कारोबारियों की राय सीधे सुनने और स्थानीय बाजारों की बहाली तथा ऊर्जा बढ़ाने के उपायों को देखने के लिए आयोजित किया गया। प्रतिभागियों ने क्षेत्र की विशिष्ट स्थानीय पहचान को बाजारों की प्रतिस्पर्धात्मकता से जोड़ने पर विचार साझा किए। मंत्रालय के इस तरह के जमीनी संवाद के जारी रहने से छोटे कारोबारियों के समर्थन और स्थानीय बाजार सक्रियण पर चर्चा आगे बढ़ने की उम्मीद है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Lee Byung-kwon Bahas Revitalisasi Kawasan Dagang Lokal di Yeongwol",
-        "excerpt": "Lee Byung-kwon, Wakil Menteri Kedua UKM dan Startup, pada 8 bertemu pelaku usaha kecil lokal di Yeongwol D Center, Gangwon, untuk membahas cara menghidupkan kembali kawasan dagang berbasis nilai lokal.",
-        "body": "Lee Byung-kwon, Wakil Menteri Kedua Kementerian UKM dan Startup, pada 8 menggelar pertemuan dengan pelaku usaha kecil lokal di Yeongwol D Center, Kabupaten Yeongwol, Provinsi Gangwon, untuk membahas cara merevitalisasi kawasan dagang lokal. Pertemuan itu mengangkat tema “Kawasan dagang lokal yang hidup kembali melalui nilai lokal!”. Agenda ini disiapkan untuk mendengar langsung pandangan pelaku usaha kecil di wilayah Yeongwol dan meninjau upaya pemulihan serta peningkatan vitalitas perdagangan setempat. Para peserta bertukar pandangan dengan fokus pada pengaitan nilai khas daerah dengan daya saing kawasan dagang. Seiring berlanjutnya komunikasi lapangan dari kementerian, pembahasan mengenai dukungan bagi pelaku usaha kecil dan revitalisasi kawasan dagang lokal diperkirakan terus berjalan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "003bfe507345",
-    "slug": "캠코-정보공개-종합평가-최우수등급-획득국무총리-표창도-692897",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T14:12:48.285Z",
-    "updatedAt": "2026-05-09T14:12:48.285Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508064800002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508064800002",
-    "titleFingerprint": "5cc1d79def3f50a397588e788062d7c2815658b0",
-    "dedupKeys": [
-      "003bfe507345189823b8ad838ac3d78556dead65",
-      "5cc1d79def3f50a397588e788062d7c2815658b0",
-      "4bc25639d65d3ceb264d23819debdfe0debb6b1e"
-    ],
-    "imageUrl": "/images/articles/003bfe507345.jpg",
-    "i18n": {
-      "ko": {
-        "title": "캠코, 정보공개 종합평가 최우수등급 획득…국무총리 표창 수상",
-        "excerpt": "한국자산관리공사 캠코가 정보공개 운영 성과를 인정받아 정보공개 종합평가에서 최우수 등급을 받고 국무총리 표창도 수상했다고 연합뉴스가 보도했다.",
-        "body": "한국자산관리공사(캠코)가 정보공개 운영에서 높은 성과를 인정받아 정보공개 종합평가에서 최우수 등급을 받았고, 국무총리 표창도 수상했다고 연합뉴스가 보도했다. 이번 평가는 기관의 정보공개 운영 성과를 종합적으로 살피는 절차로, 캠코는 관련 운영에서 우수한 평가를 받은 것으로 전해졌다. 공공기관의 정보공개는 국민의 알 권리와 행정 투명성에 직결되는 영역이다. 캠코의 이번 최우수 등급과 표창은 정보공개 제도 운영 성과를 공식적으로 인정받은 사례로 해석된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "KAMCO Wins Top Grade in Information Disclosure Review and Prime Minister’s Citation",
-        "excerpt": "Korea Asset Management Corporation, or KAMCO, received the highest grade in a comprehensive information disclosure review and a Prime Minister’s citation, Yonhap News Agency reported.",
-        "body": "Korea Asset Management Corporation, known as KAMCO, received the highest grade in a comprehensive information disclosure evaluation after being recognized for strong performance in operating its information disclosure system, Yonhap News Agency reported. The agency also received a Prime Minister’s citation. The evaluation reviews how institutions manage information disclosure, and KAMCO was reported to have earned strong marks in that area. Information disclosure by public institutions is directly linked to the public’s right to know and administrative transparency. KAMCO’s top grade and citation represent official recognition of its performance in operating the disclosure system. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "KAMCO、情報公開総合評価で最優秀等級…国務総理表彰も受賞",
-        "excerpt": "韓国資産管理公社（KAMCO）が情報公開運営の成果を認められ、情報公開総合評価で最優秀等級を獲得し、国務総理表彰も受けたと聯合ニュースが報じた。",
-        "body": "韓国資産管理公社（KAMCO）が、情報公開の運営で高い成果を認められ、情報公開総合評価で最優秀等級を獲得し、国務総理表彰も受賞したと聯合ニュースが報じた。今回の評価は、機関の情報公開運営の成果を総合的に点検する手続きで、KAMCOは関連運営で優れた評価を受けたと伝えられている。公共機関の情報公開は、国民の知る権利と行政の透明性に直結する分野だ。今回の最優秀等級と表彰は、KAMCOの情報公開制度運営の成果が公式に認められた事例といえる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "KAMCO获信息公开综合评价最高等级，并获国务总理表彰",
-        "excerpt": "韩国产业资产管理公社KAMCO因信息公开运营成果获认可，在信息公开综合评价中取得最高等级，并获得国务总理表彰，韩联社报道。",
-        "body": "据韩联社报道，韩国产业资产管理公社（KAMCO）因信息公开运营方面的较高成果获得认可，在信息公开综合评价中取得最高等级，并同时获得国务总理表彰。该评价是综合考察机构信息公开运营成果的程序，KAMCO被认为在相关运营方面获得了优秀评价。公共机构的信息公开与公众知情权和行政透明度直接相关。KAMCO此次获得最高等级和表彰，可视为其信息公开制度运营成果获得正式认可的案例。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "KAMCO logra la máxima calificación en divulgación de información y mención del primer ministro",
-        "excerpt": "KAMCO, la Corporación de Gestión de Activos de Corea, recibió la máxima calificación en la evaluación integral de divulgación de información y una mención del primer ministro, informó Yonhap.",
-        "body": "La Corporación de Gestión de Activos de Corea, KAMCO, recibió la máxima calificación en una evaluación integral de divulgación de información tras ser reconocida por su sólido desempeño en la operación del sistema, informó la agencia Yonhap. La entidad también obtuvo una mención del primer ministro. La evaluación revisa de forma general los resultados de las instituciones en materia de divulgación de información, y KAMCO fue valorada positivamente en ese ámbito. La divulgación de información por parte de organismos públicos está vinculada al derecho ciudadano a saber y a la transparencia administrativa. La calificación máxima y la mención suponen un reconocimiento oficial a esos resultados. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "KAMCO recebe nota máxima em avaliação de divulgação de informações e citação do premiê",
-        "excerpt": "A Korea Asset Management Corporation, KAMCO, recebeu a nota máxima na avaliação abrangente de divulgação de informações e uma citação do primeiro-ministro, informou a Yonhap.",
-        "body": "A Korea Asset Management Corporation, conhecida como KAMCO, recebeu a nota máxima em uma avaliação abrangente de divulgação de informações após ter seu desempenho na operação do sistema reconhecido, informou a agência Yonhap. A instituição também recebeu uma citação do primeiro-ministro. A avaliação analisa de forma geral os resultados das instituições na gestão da divulgação de informações, e a KAMCO obteve uma avaliação positiva nessa área. A divulgação de informações por órgãos públicos está ligada ao direito da população de saber e à transparência administrativa. A nota máxima e a citação representam reconhecimento oficial desses resultados. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "KAMCO erhält Bestnote bei Informationsfreiheitsbewertung und Auszeichnung des Premiers",
-        "excerpt": "Die Korea Asset Management Corporation, KAMCO, erhielt bei der umfassenden Bewertung der Informationsoffenlegung die Bestnote und zudem eine Auszeichnung des Premierministers, berichtete Yonhap.",
-        "body": "Die Korea Asset Management Corporation, KAMCO, hat bei einer umfassenden Bewertung der Informationsoffenlegung die höchste Einstufung erhalten, nachdem ihre Leistung beim Betrieb des Offenlegungssystems anerkannt wurde, berichtete die Nachrichtenagentur Yonhap. Zudem erhielt die Institution eine Auszeichnung des Premierministers. Die Bewertung prüft die Ergebnisse von Institutionen bei der Informationsoffenlegung insgesamt; KAMCO soll dabei gute Bewertungen erzielt haben. Die Offenlegung von Informationen durch öffentliche Einrichtungen steht in direktem Zusammenhang mit dem Recht der Bürger auf Information und administrativer Transparenz. Bestnote und Auszeichnung gelten als offizielle Anerkennung dieser Leistung. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "KAMCO obtient la meilleure note pour la divulgation d’informations et une citation du Premier ministre",
-        "excerpt": "La Korea Asset Management Corporation, KAMCO, a obtenu la meilleure note dans l’évaluation globale de la divulgation d’informations ainsi qu’une citation du Premier ministre, selon Yonhap.",
-        "body": "La Korea Asset Management Corporation, ou KAMCO, a obtenu la meilleure note dans une évaluation globale de la divulgation d’informations après la reconnaissance de ses performances dans la gestion du dispositif, a rapporté l’agence Yonhap. L’organisme a également reçu une citation du Premier ministre. Cette évaluation examine de manière générale les résultats des institutions en matière de divulgation d’informations, et KAMCO aurait été bien notée dans ce domaine. La divulgation d’informations par les institutions publiques est directement liée au droit du public à l’information et à la transparence administrative. Cette meilleure note et cette citation constituent une reconnaissance officielle de ces résultats. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كامكو تنال أعلى درجة في تقييم الإفصاح عن المعلومات وتحصل على إشادة رئيس الوزراء",
-        "excerpt": "حصلت شركة إدارة الأصول الكورية كامكو على أعلى درجة في التقييم الشامل للإفصاح عن المعلومات، كما نالت إشادة من رئيس الوزراء، وفق ما أفادت وكالة يونهاب.",
-        "body": "أفادت وكالة يونهاب بأن شركة إدارة الأصول الكورية، المعروفة باسم كامكو، حصلت على أعلى درجة في التقييم الشامل للإفصاح عن المعلومات بعد الاعتراف بأدائها القوي في تشغيل نظام الإفصاح. كما حصلت المؤسسة على إشادة من رئيس الوزراء. ويعد هذا التقييم إجراء يراجع بصورة شاملة نتائج المؤسسات في إدارة الإفصاح عن المعلومات، وقد حصلت كامكو على تقييم جيد في هذا المجال. ويرتبط إفصاح المؤسسات العامة عن المعلومات مباشرة بحق الجمهور في المعرفة وبالشفافية الإدارية. وتمثل الدرجة العليا والإشادة اعترافا رسميا بنتائج كامكو في تشغيل نظام الإفصاح. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "KAMCO को सूचना प्रकटीकरण मूल्यांकन में सर्वोच्च ग्रेड, प्रधानमंत्री प्रशस्ति भी",
-        "excerpt": "कोरिया एसेट मैनेजमेंट कॉरपोरेशन KAMCO को सूचना प्रकटीकरण संचालन में अच्छे प्रदर्शन के लिए व्यापक मूल्यांकन में सर्वोच्च ग्रेड और प्रधानमंत्री प्रशस्ति मिली, योनहाप ने बताया।",
-        "body": "योनहाप समाचार एजेंसी के अनुसार, कोरिया एसेट मैनेजमेंट कॉरपोरेशन, जिसे KAMCO कहा जाता है, को सूचना प्रकटीकरण प्रणाली के संचालन में मजबूत प्रदर्शन के लिए व्यापक सूचना प्रकटीकरण मूल्यांकन में सर्वोच्च ग्रेड मिला। संस्था को प्रधानमंत्री की प्रशस्ति भी प्राप्त हुई। यह मूल्यांकन संस्थानों के सूचना प्रकटीकरण संचालन के परिणामों की समग्र समीक्षा करता है, और KAMCO को इस क्षेत्र में अच्छा आंका गया। सार्वजनिक संस्थानों द्वारा सूचना का प्रकटीकरण जनता के जानने के अधिकार और प्रशासनिक पारदर्शिता से सीधे जुड़ा है। KAMCO का सर्वोच्च ग्रेड और प्रशस्ति उसके सूचना प्रकटीकरण प्रणाली संचालन के प्रदर्शन की आधिकारिक मान्यता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "KAMCO Raih Peringkat Tertinggi Evaluasi Keterbukaan Informasi dan Penghargaan PM",
-        "excerpt": "Korea Asset Management Corporation atau KAMCO meraih peringkat tertinggi dalam evaluasi menyeluruh keterbukaan informasi dan menerima penghargaan Perdana Menteri, lapor Yonhap.",
-        "body": "Korea Asset Management Corporation, atau KAMCO, meraih peringkat tertinggi dalam evaluasi menyeluruh keterbukaan informasi setelah kinerjanya dalam mengoperasikan sistem keterbukaan informasi diakui, lapor kantor berita Yonhap. Lembaga itu juga menerima penghargaan dari Perdana Menteri. Evaluasi tersebut meninjau secara menyeluruh hasil pengelolaan keterbukaan informasi oleh lembaga, dan KAMCO disebut mendapat penilaian baik di bidang tersebut. Keterbukaan informasi oleh lembaga publik berkaitan langsung dengan hak publik untuk mengetahui dan transparansi administrasi. Peringkat tertinggi dan penghargaan ini menjadi pengakuan resmi atas kinerja KAMCO dalam menjalankan sistem tersebut. Sumber: yna.co.kr"
       }
     }
   }
