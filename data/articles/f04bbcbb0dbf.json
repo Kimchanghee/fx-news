@@ -1,0 +1,75 @@
+{
+  "id": "f04bbcbb0dbf",
+  "slug": "k-엔비디아-인재-노린-꼼수-인수-막는다기업결합-신고추진-638793",
+  "channelId": "FX",
+  "category": "fx",
+  "publishedAt": "2026-05-10T14:42:21.970Z",
+  "updatedAt": "2026-05-10T14:42:21.970Z",
+  "sourceName": "yna.co.kr",
+  "sourceUrl": "https://www.yna.co.kr/view/AKR20260509047800002",
+  "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509047800002",
+  "titleFingerprint": "afb111f5ede718d1a189426640b47a384cbf426e",
+  "dedupKeys": [
+    "f04bbcbb0dbf4e9da77afeb553fe64ea36af66e3",
+    "afb111f5ede718d1a189426640b47a384cbf426e",
+    "547a2ef81b4e7d7b5840f253e5a5c030354c227a"
+  ],
+  "imageUrl": "/images/articles/f04bbcbb0dbf.jpg",
+  "i18n": {
+    "ko": {
+      "title": "AI 스타트업 핵심 인재 노린 ‘꼼수 인수’ 막는다…K-엔비디아 보호책 추진",
+      "excerpt": "연합뉴스 보도에 따르면 당국은 기술력이 뛰어난 AI 스타트업의 핵심 인재를 채용해 사실상 편법 인수하는 사례를 막기 위해 기업결합 신고 방안을 추진한다.",
+      "body": "기술력이 뛰어난 인공지능(AI) 스타트업의 핵심 인재를 채용하는 방식으로 사실상 회사를 편법 인수하는 사례가 기업결합 신고 대상에 포함될 전망이다. 연합뉴스가 마닐라발로 보도한 내용에 따르면 당국은 이른바 ‘K-엔비디아’로 성장할 수 있는 국내 AI 기업의 인재와 기술 기반이 우회적으로 흡수되는 문제를 막기 위해 제도 개선을 추진한다. 이번 논의의 핵심은 지분 인수나 자산 양수처럼 전통적인 인수합병 형태가 아니더라도 핵심 인력 채용을 통해 기업 가치와 경쟁력이 이전되는 경우를 살펴보겠다는 것이다. AI 산업에서는 인재가 기술 경쟁력의 핵심 자산으로 평가되는 만큼, 관련 신고 체계가 마련되면 스타트업 생태계와 경쟁 질서 보호에 영향을 줄 수 있다. 출처: yna.co.kr"
+    },
+    "en": {
+      "title": "AI Startup Talent ‘Acqui-Hires’ Face Scrutiny as Korea Pushes Merger Filings",
+      "excerpt": "According to Yonhap, authorities are seeking merger filing rules to curb de facto takeovers of advanced AI startups through the hiring of their core talent.",
+      "body": "Cases in which companies effectively acquire advanced artificial intelligence startups by hiring their core talent are expected to be brought under merger filing scrutiny. According to a Yonhap report from Manila, authorities are pursuing institutional changes to prevent the talent and technology base of domestic AI firms that could grow into a “K-Nvidia” from being absorbed through indirect methods. The key point is that even when a deal does not take the traditional form of a share purchase or asset transfer, regulators may examine whether corporate value and competitiveness are being transferred through the recruitment of essential personnel. Because talent is regarded as a core asset in AI competition, a reporting framework could affect the startup ecosystem and market competition. Source: yna.co.kr"
+    },
+    "ja": {
+      "title": "AIスタートアップ人材狙う「抜け道買収」防止へ、企業結合届出を推進",
+      "excerpt": "聯合ニュースによると、当局は優れたAIスタートアップの中核人材を採用し、事実上の抜け道買収を行う事例を防ぐため、企業結合届出の導入を進める。",
+      "body": "高い技術力を持つ人工知能（AI）スタートアップの中核人材を採用することで、事実上その企業を抜け道的に買収する事例が、企業結合届出の対象に含まれる見通しだ。聯合ニュースがマニラ発で報じた内容によると、当局は「Kエヌビディア」へ成長し得る国内AI企業の人材と技術基盤が迂回的に吸収される問題を防ぐため、制度改善を進めている。焦点は、株式取得や資産譲受のような伝統的なM&Aの形でなくても、中核人材の採用を通じて企業価値と競争力が移転する場合を点検することにある。AI産業では人材が技術競争力の中核資産とされるため、届出制度の整備はスタートアップ生態系と競争秩序の保護に影響を与え得る。出典: yna.co.kr"
+    },
+    "zh": {
+      "title": "韩国拟遏制AI初创核心人才“变相收购”，推动企业合并申报",
+      "excerpt": "据韩联社报道，相关部门正推动企业合并申报机制，以防止通过招聘高技术AI初创企业核心人才实现事实上的变相收购。",
+      "body": "通过招聘技术实力突出的人工智能（AI）初创企业核心人才，从而事实上变相收购企业的案例，预计将被纳入企业合并申报范围。据韩联社马尼拉报道，相关部门正推动制度改进，以防止有望成长为“K-英伟达”的韩国AI企业的人才和技术基础被迂回吸收。此次讨论的核心在于，即使并非股权收购或资产转让等传统并购形式，只要通过招聘核心人员导致企业价值和竞争力发生转移，也将被纳入审视范围。由于AI产业中人才被视为技术竞争力的核心资产，若相关申报体系建立，可能对初创生态和市场竞争秩序保护产生影响。来源: yna.co.kr"
+    },
+    "es": {
+      "title": "Corea busca frenar ‘adquisiciones encubiertas’ de talento en startups de IA",
+      "excerpt": "Según Yonhap, las autoridades impulsan notificaciones de concentración empresarial para evitar compras de facto de startups de IA mediante la contratación de talento clave.",
+      "body": "Los casos en que una empresa adquiere de facto una startup de inteligencia artificial con alta capacidad tecnológica mediante la contratación de su talento clave podrían quedar sujetos a notificación de concentración empresarial. Según un informe de Yonhap desde Manila, las autoridades impulsan cambios institucionales para evitar que la base de talento y tecnología de compañías surcoreanas de IA con potencial de convertirse en una “K-Nvidia” sea absorbida por vías indirectas. El punto central es revisar situaciones en las que, aunque no exista una adquisición tradicional de acciones o activos, el valor corporativo y la competitividad se transfieran mediante la captación de personal esencial. Dado que el talento es un activo clave en la competencia de IA, un sistema de notificación podría influir en el ecosistema de startups y en el orden competitivo. Fuente: yna.co.kr"
+    },
+    "pt": {
+      "title": "Coreia mira ‘aquisições disfarçadas’ de talentos em startups de IA",
+      "excerpt": "Segundo a Yonhap, autoridades querem exigir notificações de concentração empresarial para conter aquisições de fato de startups de IA por meio da contratação de talentos-chave.",
+      "body": "Casos em que uma empresa efetivamente adquire uma startup de inteligência artificial de alta capacidade tecnológica ao contratar seus principais talentos devem ser incluídos no escopo de notificação de concentração empresarial. Segundo reportagem da Yonhap a partir de Manila, as autoridades buscam mudanças institucionais para impedir que a base de talentos e tecnologia de empresas sul-coreanas de IA com potencial de se tornar uma “K-Nvidia” seja absorvida por meios indiretos. O ponto central é examinar situações em que, mesmo sem compra de ações ou transferência de ativos, valor corporativo e competitividade sejam transferidos pela contratação de pessoal essencial. Como talentos são ativos centrais na competição em IA, uma estrutura de notificação pode afetar o ecossistema de startups e a ordem concorrencial. Fonte: yna.co.kr"
+    },
+    "de": {
+      "title": "Korea will verdeckte Übernahmen von KI-Startup-Talenten meldepflichtig machen",
+      "excerpt": "Laut Yonhap wollen die Behörden Zusammenschlussmeldungen vorantreiben, um faktische Übernahmen starker KI-Startups durch die Abwerbung zentraler Talente zu verhindern.",
+      "body": "Fälle, in denen Unternehmen technologisch starke Startups für künstliche Intelligenz faktisch übernehmen, indem sie deren Schlüsselkräfte einstellen, dürften künftig unter die Meldung von Unternehmenszusammenschlüssen fallen. Nach einem Yonhap-Bericht aus Manila treiben die Behörden institutionelle Änderungen voran, um zu verhindern, dass die Talent- und Technologiebasis heimischer KI-Firmen, die zu einer „K-Nvidia“ wachsen könnten, auf indirektem Weg absorbiert wird. Im Mittelpunkt steht die Prüfung von Fällen, in denen Unternehmenswert und Wettbewerbsfähigkeit durch die Einstellung zentraler Mitarbeiter übergehen, auch wenn keine klassische Übernahme von Anteilen oder Vermögenswerten vorliegt. Da Talente in der KI-Branche als Kernressource technologischer Wettbewerbsfähigkeit gelten, könnte ein Meldesystem das Startup-Ökosystem und die Wettbewerbsordnung beeinflussen. Quelle: yna.co.kr"
+    },
+    "fr": {
+      "title": "La Corée veut freiner les rachats déguisés de talents dans les startups d’IA",
+      "excerpt": "Selon Yonhap, les autorités veulent imposer des déclarations de concentration afin d’empêcher les rachats de fait de startups d’IA par l’embauche de leurs talents clés.",
+      "body": "Les cas où une entreprise acquiert de fait une startup d’intelligence artificielle très avancée en recrutant ses talents clés devraient entrer dans le champ des déclarations de concentration. Selon un reportage de Yonhap depuis Manille, les autorités poursuivent une réforme institutionnelle afin d’empêcher que la base de talents et de technologies d’entreprises sud-coréennes d’IA susceptibles de devenir une « K-Nvidia » soit absorbée par des moyens indirects. L’enjeu est d’examiner les situations où, même sans achat d’actions ni transfert d’actifs, la valeur de l’entreprise et sa compétitivité passent à un autre acteur via le recrutement de personnels essentiels. Dans l’IA, les talents étant un actif central de la compétitivité technologique, un cadre de déclaration pourrait peser sur l’écosystème des startups et l’ordre concurrentiel. Source: yna.co.kr"
+    },
+    "ar": {
+      "title": "كوريا تتحرك لمنع الاستحواذ الملتف على مواهب شركات الذكاء الاصطناعي الناشئة",
+      "excerpt": "بحسب يونهاب، تسعى السلطات إلى إدراج حالات توظيف المواهب الأساسية في شركات الذكاء الاصطناعي المتقدمة، عندما تعادل استحواذا فعليا، ضمن إخطارات اندماج الشركات.",
+      "body": "من المتوقع أن تُدرج الحالات التي يتم فيها الاستحواذ فعليا على شركة ناشئة متقدمة في الذكاء الاصطناعي عبر توظيف مواهبها الأساسية ضمن نطاق إخطارات اندماج الشركات. وبحسب تقرير لوكالة يونهاب من مانيلا، تدفع السلطات باتجاه تحسينات مؤسسية لمنع امتصاص قاعدة المواهب والتكنولوجيا لدى شركات الذكاء الاصطناعي المحلية، التي قد تنمو لتصبح «K-إنفيديا»، بطرق غير مباشرة. وتتمحور المناقشة حول فحص الحالات التي لا تأخذ شكل الاستحواذ التقليدي على الأسهم أو الأصول، لكنها تنقل قيمة الشركة وقدرتها التنافسية عبر توظيف الكوادر المحورية. ونظرا إلى أن المواهب تعد أصلا أساسيا في التنافس التقني داخل قطاع الذكاء الاصطناعي، فإن إنشاء نظام إبلاغ قد يؤثر في بيئة الشركات الناشئة وحماية قواعد المنافسة. المصدر: yna.co.kr"
+    },
+    "hi": {
+      "title": "कोरिया AI स्टार्टअप प्रतिभा की ‘छिपी खरीद’ रोकने को मर्जर फाइलिंग बढ़ाएगा",
+      "excerpt": "योनहाप के अनुसार, अधिकारी उन्नत AI स्टार्टअप की मुख्य प्रतिभा को भर्ती कर वास्तविक अधिग्रहण करने जैसे मामलों को रोकने के लिए कॉरपोरेट संयोजन 신고 व्यवस्था आगे बढ़ा रहे हैं।",
+      "body": "तकनीकी रूप से मजबूत कृत्रिम बुद्धिमत्ता (AI) स्टार्टअप की मुख्य प्रतिभा को भर्ती कर वस्तुतः कंपनी का परोक्ष अधिग्रहण करने वाले मामलों को कॉरपोरेट संयोजन 신고 के दायरे में लाए जाने की संभावना है। मनीला से योनहाप की रिपोर्ट के अनुसार, अधिकारी ऐसे संस्थागत बदलाव आगे बढ़ा रहे हैं जिनसे उन घरेलू AI कंपनियों की प्रतिभा और तकनीकी आधार को परोक्ष रूप से सोखे जाने से रोका जा सके जो “K-Nvidia” जैसी कंपनी बन सकती हैं। चर्चा का मुख्य बिंदु यह है कि शेयर खरीद या परिसंपत्ति हस्तांतरण जैसे पारंपरिक विलय-अधिग्रहण के बिना भी, यदि मुख्य कर्मियों की भर्ती से कंपनी का मूल्य और प्रतिस्पर्धी क्षमता स्थानांतरित होती है, तो उसकी जांच की जाए। AI उद्योग में प्रतिभा तकनीकी प्रतिस्पर्धा की मुख्य संपत्ति मानी जाती है, इसलिए ऐसी 신고 प्रणाली स्टार्टअप पारिस्थितिकी तंत्र और प्रतिस्पर्धा व्यवस्था की रक्षा पर असर डाल सकती है। स्रोत: yna.co.kr"
+    },
+    "id": {
+      "title": "Korea Dorong Pelaporan Merger untuk Cegah ‘Akuisisi Akal-akalan’ Talenta AI",
+      "excerpt": "Menurut Yonhap, otoritas mendorong aturan pelaporan penggabungan usaha untuk mencegah akuisisi de facto startup AI maju melalui perekrutan talenta inti.",
+      "body": "Kasus ketika perusahaan secara efektif mengambil alih startup kecerdasan buatan (AI) berteknologi tinggi dengan merekrut talenta intinya diperkirakan akan masuk dalam cakupan pelaporan penggabungan usaha. Menurut laporan Yonhap dari Manila, otoritas mendorong perbaikan kelembagaan untuk mencegah basis talenta dan teknologi perusahaan AI domestik yang berpotensi tumbuh menjadi “K-Nvidia” terserap lewat cara tidak langsung. Inti pembahasannya adalah meninjau situasi ketika nilai perusahaan dan daya saing berpindah melalui perekrutan personel kunci, meski tidak berbentuk akuisisi saham atau pengalihan aset secara tradisional. Karena talenta dinilai sebagai aset utama dalam persaingan teknologi AI, kerangka pelaporan terkait dapat memengaruhi ekosistem startup dan perlindungan tata persaingan. Sumber: yna.co.kr"
+    }
+  }
+}
