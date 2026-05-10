@@ -1,5 +1,230 @@
 [
   {
+    "id": "81b315466d28",
+    "slug": "자동화로-일군-크루아상-24겹삼양사-냉동생지-전초기지-382346",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T16:42:02.882Z",
+    "updatedAt": "2026-05-10T16:42:02.882Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509019700030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509019700030",
+    "titleFingerprint": "79bccc7f0d1cd07f5495dfeb652cf3e8b088f188",
+    "dedupKeys": [
+      "81b315466d28b6ee967d32e075340fb6c5da97c0",
+      "79bccc7f0d1cd07f5495dfeb652cf3e8b088f188",
+      "77b257d0a7b2f36b6963c9041708d0b3ba344907"
+    ],
+    "imageUrl": "/images/articles/81b315466d28.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼양사 냉동생지 전초기지, 자동화로 구현한 ‘크루아상 24겹’ 현장",
+        "excerpt": "연합뉴스는 인천의 삼양사 냉동생지 생산 현장을 찾아 자동화 공정으로 구현한 24겹 크루아상과 공장 문을 열자 퍼진 진한 버터 향을 전했다.",
+        "body": "인천의 삼양사 냉동생지 생산 현장이 연합뉴스 보도로 소개됐다. 한주홍 기자는 공장 문이 열리자 진한 버터 향이 먼저 밀려왔다고 전하며, 자동화 공정으로 ‘크루아상 24겹’을 구현한 현장을 조명했다. 이번 보도의 핵심은 삼양사가 냉동생지를 생산하는 전초기지에서 반죽과 버터의 층을 일정하게 쌓는 공정을 자동화해 제품 품질의 균일성을 높이는 데 있다. 원문에 공개된 정보는 현장 위치가 인천이라는 점, 삼양사의 냉동생지 생산 현장이라는 점, 크루아상 24겹이 자동화로 만들어졌다는 점이다. 냉동생지는 베이커리와 카페 현장에서 굽기 전 단계의 반죽을 활용할 수 있게 하는 품목으로, 보도는 삼양사의 생산 기반과 자동화 현장을 중심으로 시장 대응의 단면을 전했다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Samyangsa Frozen Dough Hub Shows Automated 24-Layer Croissant Production",
+        "excerpt": "Yonhap reported from Samyangsa’s frozen dough site in Incheon, describing the rich butter aroma and automated process behind its 24-layer croissants.",
+        "body": "Yonhap News introduced Samyangsa’s frozen dough production site in Incheon. Reporter Han Ju-hong wrote that a rich butter aroma arrived first as the factory doors opened, while the article focused on how automation is used to create a “24-layer croissant.” The key point of the report is that Samyangsa’s frozen dough base uses automated processes to build consistent layers of dough and butter, supporting uniform product quality. The information disclosed in the original text identifies the location as Incheon, the site as Samyangsa’s frozen dough production front line, and the 24-layer croissant as a product made through automation. Frozen dough is used before baking at bakeries and cafes, and the report presents a snapshot of Samyangsa’s production base and automated operation. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "三養社の冷凍生地拠点、 automationで実現した24層クロワッサン現場",
+        "excerpt": "聯合ニュースは仁川の三養社冷凍生地生産現場を取材し、工場の扉が開くと広がった濃いバターの香りと24層クロワッサンの自動化工程を伝えた。",
+        "body": "仁川にある三養社の冷凍生地生産現場が、聯合ニュースの報道で紹介された。ハン・ジュホン記者は、工場の扉が開くと濃いバターの香りが先に押し寄せたと伝え、自動化工程によって「クロワッサン24層」を実現する現場に注目した。報道の核心は、三養社が冷凍生地を生産する前線拠点で、生地とバターの層を一定に重ねる工程を自動化し、製品品質の均一性を高めている点にある。原文で示された情報は、現場が仁川にあること、三養社の冷凍生地生産現場であること、24層クロワッサンが自動化で作られることだ。冷凍生地はベーカリーやカフェで焼成前の段階に使われる品目で、報道は三養社の生産基盤と自動化現場を中心に市場対応の一面を伝えた。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "三养社冷冻面团前沿基地：自动化打造24层可颂生产现场",
+        "excerpt": "韩联社走访三养社位于仁川的冷冻面团生产现场，报道了工厂开门时扑来的浓郁黄油香气，以及自动化完成的24层可颂。",
+        "body": "韩联社报道介绍了三养社位于仁川的冷冻面团生产现场。记者韩柱洪称，工厂大门一打开，浓郁的黄油香气便先扑面而来，并聚焦自动化工艺如何实现“24层可颂”。报道重点在于，三养社在冷冻面团生产前沿基地，通过自动化工序稳定叠加面团与黄油层次，以提高产品品质的一致性。原文披露的信息包括：现场位于仁川、这是三养社的冷冻面团生产现场、24层可颂由自动化方式制成。冷冻面团是面包店和咖啡店在烘烤前阶段可使用的产品，报道以三养社的生产基础和自动化现场为中心，呈现其市场应对的一面。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Base de masa congelada de Samyangsa muestra croissants de 24 capas automatizados",
+        "excerpt": "Yonhap visitó la planta de masa congelada de Samyangsa en Incheon y relató el aroma intenso a mantequilla y el proceso automatizado del croissant de 24 capas.",
+        "body": "Yonhap News presentó el sitio de producción de masa congelada de Samyangsa en Incheon. El reportero Han Ju-hong señaló que, al abrirse la puerta de la fábrica, lo primero que llegó fue un intenso aroma a mantequilla, y centró la nota en el proceso automatizado que permite crear un “croissant de 24 capas”. El eje del reporte es que Samyangsa automatiza en esta base de producción el apilado uniforme de masa y mantequilla para sostener una calidad más consistente. La información publicada en el texto original indica que el lugar está en Incheon, que se trata de una instalación de producción de masa congelada de Samyangsa y que el croissant de 24 capas se elabora mediante automatización. La masa congelada se utiliza antes del horneado en panaderías y cafeterías, y el reporte muestra la base productiva y el sitio automatizado de Samyangsa. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Base de massa congelada da Samyangsa revela croissant de 24 camadas automatizado",
+        "excerpt": "A Yonhap visitou a unidade de massa congelada da Samyangsa em Incheon e destacou o aroma intenso de manteiga e o processo automatizado do croissant de 24 camadas.",
+        "body": "A Yonhap News apresentou o local de produção de massa congelada da Samyangsa em Incheon. O repórter Han Ju-hong relatou que, quando a porta da fábrica se abriu, um forte aroma de manteiga chegou primeiro, e destacou o processo automatizado usado para criar um “croissant de 24 camadas”. O ponto central da reportagem é que a Samyangsa usa automação nessa base de produção de massa congelada para formar camadas constantes de massa e manteiga, apoiando a uniformidade da qualidade do produto. As informações do texto original indicam que o local fica em Incheon, que é uma instalação de produção de massa congelada da Samyangsa e que o croissant de 24 camadas é feito por automação. A massa congelada é usada antes do forneamento em padarias e cafés, e a reportagem mostra a base produtiva e o ambiente automatizado da empresa. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Samyangsa-Zentrum für Tiefkühlteig zeigt automatisierte 24-Schicht-Croissants",
+        "excerpt": "Yonhap berichtete aus Samyangsas Tiefkühlteig-Produktion in Incheon über intensiven Butterduft beim Öffnen der Fabriktür und automatisierte 24-Schicht-Croissants.",
+        "body": "Yonhap News stellte Samyangsas Produktionsstandort für Tiefkühlteig in Incheon vor. Reporter Han Ju-hong schrieb, dass beim Öffnen der Fabriktür zuerst ein intensiver Butterduft entgegenkam, und richtete den Blick auf den automatisierten Prozess, mit dem ein „24-Schicht-Croissant“ hergestellt wird. Kern des Berichts ist, dass Samyangsa in dieser Produktionsbasis für Tiefkühlteig automatisierte Abläufe nutzt, um Teig- und Butterschichten gleichmäßig aufzubauen und so eine einheitliche Produktqualität zu unterstützen. Der Originaltext nennt Incheon als Standort, beschreibt die Anlage als Samyangsas Tiefkühlteig-Produktion und hält fest, dass das 24-Schicht-Croissant durch Automatisierung entsteht. Tiefkühlteig wird in Bäckereien und Cafes vor dem Backen eingesetzt; der Bericht zeigt Samyangsas Produktionsbasis und automatisierten Standort. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le site de pâte surgelée de Samyangsa dévoile un croissant automatisé à 24 couches",
+        "excerpt": "Yonhap a visité le site de pâte surgelée de Samyangsa à Incheon, évoquant le fort parfum de beurre à l’ouverture de l’usine et le croissant automatisé à 24 couches.",
+        "body": "Yonhap News a présenté le site de production de pâte surgelée de Samyangsa à Incheon. Le journaliste Han Ju-hong a indiqué qu’un puissant parfum de beurre s’est d’abord répandu lorsque les portes de l’usine se sont ouvertes, avant de mettre l’accent sur le procédé automatisé permettant de réaliser un « croissant à 24 couches ». Le point central du reportage est que Samyangsa utilise, dans cette base de production de pâte surgelée, des procédés automatisés pour superposer régulièrement pâte et beurre et renforcer l’uniformité de la qualité. Les informations du texte original précisent que le site se trouve à Incheon, qu’il s’agit d’un lieu de production de pâte surgelée de Samyangsa et que le croissant à 24 couches est fabriqué par automatisation. La pâte surgelée est utilisée avant cuisson dans les boulangeries et cafés, et le reportage décrit la base productive et le site automatisé de Samyangsa. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "قاعدة العجين المجمد لدى ساميانغسا تعرض كرواسون 24 طبقة بالأتمتة",
+        "excerpt": "نقلت يونهاب من موقع إنتاج العجين المجمد لساميانغسا في إنتشون مشهد رائحة الزبدة القوية عند فتح باب المصنع وعملية كرواسون من 24 طبقة بالأتمتة.",
+        "body": "قدمت وكالة يونهاب موقع إنتاج العجين المجمد التابع لساميانغسا في إنتشون. وذكر الصحفي هان جو-هونغ أن رائحة الزبدة القوية اندفعت أولا عند فتح باب المصنع، مسلطا الضوء على موقع يحقق «كرواسون من 24 طبقة» عبر الأتمتة. جوهر التقرير أن ساميانغسا تستخدم في هذه القاعدة الإنتاجية للعجين المجمد عمليات مؤتمتة لتكديس طبقات العجين والزبدة بشكل منتظم، بما يدعم تجانس جودة المنتج. وتوضح المعلومات الواردة في النص الأصلي أن الموقع في إنتشون، وأنه موقع إنتاج للعجين المجمد لدى ساميانغسا، وأن كرواسون 24 طبقة يصنع بالأتمتة. ويستخدم العجين المجمد في المخابز والمقاهي قبل مرحلة الخبز، فيما يعرض التقرير جانباً من قاعدة الإنتاج والموقع المؤتمت لدى ساميانغسا. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "Samyangsa के फ्रोजन डो केंद्र में ऑटोमेशन से बना 24-लेयर क्रोइसां",
+        "excerpt": "Yonhap ने इंचियोन में Samyangsa के फ्रोजन डो उत्पादन स्थल से रिपोर्ट किया, जहां फैक्टरी का दरवाजा खुलते ही गाढ़ी मक्खन सुगंध और 24-लेयर क्रोइसां की स्वचालित प्रक्रिया सामने आई।",
+        "body": "Yonhap News ने इंचियोन स्थित Samyangsa के फ्रोजन डो उत्पादन स्थल को प्रस्तुत किया। रिपोर्टर Han Ju-hong ने लिखा कि फैक्टरी का दरवाजा खुलते ही सबसे पहले गाढ़ी मक्खन की सुगंध आई, और रिपोर्ट ने ऑटोमेशन से बनाए जाने वाले “24-लेयर क्रोइसां” पर ध्यान केंद्रित किया। रिपोर्ट का मुख्य बिंदु यह है कि Samyangsa अपने फ्रोजन डो उत्पादन केंद्र में आटे और मक्खन की परतों को समान रूप से बनाने के लिए स्वचालित प्रक्रिया का उपयोग करती है, जिससे उत्पाद गुणवत्ता की एकरूपता को सहारा मिलता है। मूल पाठ में दी गई जानकारी के अनुसार स्थान इंचियोन है, यह Samyangsa का फ्रोजन डो उत्पादन स्थल है, और 24-लेयर क्रोइसां ऑटोमेशन से बनता है। फ्रोजन डो का उपयोग बेकरी और कैफे में बेकिंग से पहले के चरण में किया जाता है, और रिपोर्ट Samyangsa की उत्पादन आधार और स्वचालित स्थल की झलक देती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Basis Adonan Beku Samyangsa Tampilkan Croissant 24 Lapis Berbasis Otomasi",
+        "excerpt": "Yonhap melaporkan dari lokasi produksi adonan beku Samyangsa di Incheon, menyoroti aroma mentega yang kuat saat pintu pabrik dibuka dan croissant 24 lapis berbasis otomasi.",
+        "body": "Yonhap News memperkenalkan lokasi produksi adonan beku Samyangsa di Incheon. Reporter Han Ju-hong menulis bahwa saat pintu pabrik dibuka, aroma mentega yang kuat lebih dulu menyeruak, lalu menyoroti proses otomatis yang mewujudkan “croissant 24 lapis”. Inti laporan tersebut adalah bahwa Samyangsa menggunakan proses otomatis di basis produksi adonan bekunya untuk menyusun lapisan adonan dan mentega secara konsisten, sehingga mendukung keseragaman kualitas produk. Informasi dalam teks asli menyebut lokasi berada di Incheon, fasilitas itu merupakan tempat produksi adonan beku Samyangsa, dan croissant 24 lapis dibuat melalui otomasi. Adonan beku digunakan di toko roti dan kafe sebelum tahap pemanggangan, dan laporan ini menampilkan sisi basis produksi serta lokasi otomatis Samyangsa. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "8349ab52cb7e",
+    "slug": "배민-외식업주-자녀-310명에-장학금-17억5천만원-지원-187872",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T16:40:20.407Z",
+    "updatedAt": "2026-05-10T16:40:20.407Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510011000030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510011000030",
+    "titleFingerprint": "061fce3319350d31421c8f40f2e79980ea29cd16",
+    "dedupKeys": [
+      "8349ab52cb7eb1af6f014ae7c576a4b74aaa9af3",
+      "061fce3319350d31421c8f40f2e79980ea29cd16",
+      "f5a677be7731cb8ce27209e4a3b7ed7ecbe0b380"
+    ],
+    "imageUrl": "/images/articles/8349ab52cb7e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "배민, 외식업주 자녀 310명에 장학금 17억5천만원 지원",
+        "excerpt": "배달의민족 운영사 우아한형제들은 2026년 5월 9일 서울 강남구 코엑스에서 외식업주 자녀 310명에게 총 17억5천만원의 장학금을 지원하는 수여식을 열었다.",
+        "body": "배달의민족 운영사 우아한형제들은 2026년 5월 9일 서울 강남구 코엑스에서 ‘2026 우아한 사장님 자녀 장학증서 수여식’을 열고 외식업주 자녀 310명에게 장학금을 지원했다. 지원 규모는 총 17억5천만원이다. 이번 장학금은 외식업주 가정의 자녀 교육을 돕기 위한 취지로 마련됐다. 배달 플랫폼 운영사가 외식업주와의 상생 프로그램을 이어가는 사례로, 장학증서 수여식은 지원 대상과 규모를 공식화하는 자리였다. 관련 내용은 yna.co.kr 보도를 인용했다."
+      },
+      "en": {
+        "title": "Baemin Grants 1.75 Billion Won in Scholarships to 310 Restaurant Owners’ Children",
+        "excerpt": "Woowa Brothers, operator of Baemin, held a scholarship certificate ceremony at COEX in Seoul on May 9, 2026, providing 1.75 billion won to 310 children of restaurant owners.",
+        "body": "Woowa Brothers, the operator of Baedal Minjok, held the “2026 Woowa Boss Children Scholarship Certificate Ceremony” on May 9, 2026, at COEX in Gangnam District, Seoul, and provided scholarships to 310 children of restaurant owners. The total support amounted to 1.75 billion won. The program was prepared to help with the education of children from restaurant-owner families. It also marks a continued coexistence initiative between the delivery platform operator and restaurant owners. The ceremony officially confirmed the recipients and the size of support. This report cites yna.co.kr."
+      },
+      "ja": {
+        "title": "配達の民族、飲食店主の子ども310人に奨学金17億5千万ウォン支援",
+        "excerpt": "配達の民族を運営するウアハン兄弟たちは2026年5月9日、ソウル江南区COEXで飲食店主の子ども310人に計17億5千万ウォンの奨学金を支援する授与式を開いた。",
+        "body": "配達の民族の運営会社ウアハン兄弟たちは、2026年5月9日にソウル江南区のCOEXで「2026ウアハン社長様子女奨学証書授与式」を開き、飲食店主の子ども310人に奨学金を支援した。支援規模は計17億5千万ウォン。今回の奨学金は、飲食店主家庭の子どもの教育を支える目的で用意された。配達プラットフォーム運営会社が飲食店主との共生プログラムを続ける事例であり、授与式は支援対象と規模を公式化する場となった。内容はyna.co.krの報道を引用した。"
+      },
+      "zh": {
+        "title": "Bamin向餐饮业主子女310人发放17.5亿韩元奖学金",
+        "excerpt": "外卖民族运营商优雅兄弟于2026年5月9日在首尔江南区COEX举行奖学证书颁发仪式，向310名餐饮业主子女提供总额17.5亿韩元奖学金。",
+        "body": "外卖民族运营商优雅兄弟于2026年5月9日在首尔江南区COEX举行“2026优雅老板子女奖学证书颁发仪式”，向310名餐饮业主子女提供奖学金。此次支持总额为17.5亿韩元。该奖学金旨在帮助餐饮业主家庭子女接受教育。此举是外卖平台运营商持续推进与餐饮业主共生项目的案例，颁发仪式也正式确认了支持对象和规模。相关内容引用yna.co.kr报道。"
+      },
+      "es": {
+        "title": "Baemin entrega 1.750 millones de wones en becas a 310 hijos de restauranteros",
+        "excerpt": "Woowa Brothers, operador de Baemin, celebró el 9 de mayo de 2026 en COEX, Seúl, una ceremonia para otorgar 1.750 millones de wones en becas a 310 hijos de dueños de restaurantes.",
+        "body": "Woowa Brothers, operador de Baedal Minjok, celebró el 9 de mayo de 2026 en COEX, en el distrito de Gangnam de Seúl, la “Ceremonia de certificados de becas 2026 para hijos de jefes Woowa” y apoyó con becas a 310 hijos de dueños de restaurantes. El monto total fue de 1.750 millones de wones. La beca fue preparada para ayudar a la educación de hijos de familias que gestionan restaurantes. Es un caso de continuidad de un programa de convivencia entre la plataforma de reparto y los restauranteros. La ceremonia oficializó beneficiarios y escala del apoyo. La información cita a yna.co.kr."
+      },
+      "pt": {
+        "title": "Baemin apoia 310 filhos de donos de restaurantes com 1,75 bilhão de won em bolsas",
+        "excerpt": "A Woowa Brothers, operadora do Baemin, realizou em 9 de maio de 2026, no COEX em Seul, uma cerimônia para conceder 1,75 bilhão de won em bolsas a 310 filhos de donos de restaurantes.",
+        "body": "A Woowa Brothers, operadora do Baedal Minjok, realizou em 9 de maio de 2026, no COEX, no distrito de Gangnam em Seul, a “Cerimônia de entrega de certificados de bolsas 2026 para filhos de chefes Woowa” e apoiou 310 filhos de donos de restaurantes. O valor total do apoio foi de 1,75 bilhão de won. A bolsa foi preparada para ajudar na educação de filhos de famílias de proprietários de restaurantes. A iniciativa mostra a continuidade de um programa de coexistência entre a plataforma de entregas e os restaurantes. A cerimônia oficializou os beneficiários e a escala do apoio. O conteúdo cita yna.co.kr."
+      },
+      "de": {
+        "title": "Baemin fördert 310 Kinder von Restaurantbetreibern mit 1,75 Milliarden Won",
+        "excerpt": "Woowa Brothers, Betreiber von Baemin, veranstaltete am 9. Mai 2026 im COEX in Seoul eine Zeremonie und vergab Stipendien über insgesamt 1,75 Milliarden Won an 310 Kinder von Restaurantbetreibern.",
+        "body": "Woowa Brothers, Betreiber von Baedal Minjok, veranstaltete am 9. Mai 2026 im COEX im Seouler Bezirk Gangnam die „2026 Woowa Boss Children Scholarship Certificate Ceremony“ und unterstützte 310 Kinder von Restaurantbetreibern mit Stipendien. Das Gesamtvolumen beträgt 1,75 Milliarden Won. Die Stipendien wurden eingerichtet, um die Ausbildung von Kindern aus Familien von Restaurantbetreibern zu fördern. Die Maßnahme ist ein Beispiel für ein fortgesetztes Koexistenzprogramm zwischen dem Lieferplattformbetreiber und Restaurantbetreibern. Die Zeremonie machte Empfänger und Umfang offiziell. Der Bericht zitiert yna.co.kr."
+      },
+      "fr": {
+        "title": "Baemin accorde 1,75 milliard de wons de bourses à 310 enfants de restaurateurs",
+        "excerpt": "Woowa Brothers, opérateur de Baemin, a organisé le 9 mai 2026 au COEX de Séoul une cérémonie pour attribuer 1,75 milliard de wons de bourses à 310 enfants de restaurateurs.",
+        "body": "Woowa Brothers, l’opérateur de Baedal Minjok, a organisé le 9 mai 2026 au COEX, dans l’arrondissement de Gangnam à Séoul, la « cérémonie 2026 de remise des certificats de bourse aux enfants de patrons Woowa » et a soutenu 310 enfants de restaurateurs. Le montant total atteint 1,75 milliard de wons. Cette bourse a été préparée pour aider l’éducation des enfants issus de familles de restaurateurs. Elle illustre la poursuite d’un programme de coexistence entre l’opérateur de plateforme de livraison et les restaurateurs. La cérémonie a officialisé les bénéficiaires et l’ampleur du soutien. Le contenu cite yna.co.kr."
+      },
+      "ar": {
+        "title": "Baemin تدعم 310 من أبناء أصحاب المطاعم بمنح قيمتها 1.75 مليار وون",
+        "excerpt": "أقامت ووا براذرز، مشغلة Baemin، في 9 مايو 2026 بمركز COEX في سيول حفلا لمنح 1.75 مليار وون كمنح دراسية إلى 310 من أبناء أصحاب المطاعم.",
+        "body": "أقامت ووا براذرز، الشركة المشغلة لخدمة Baedal Minjok، في 9 مايو 2026 بمركز COEX في حي غانغنام بسيول، “حفل تسليم شهادات منح أبناء أصحاب الأعمال ووا 2026”، وقدمت منحا دراسية إلى 310 من أبناء أصحاب المطاعم. وبلغ إجمالي الدعم 1.75 مليار وون. أعدت هذه المنح بهدف مساعدة أبناء أسر أصحاب المطاعم في التعليم. وتمثل المبادرة مثالا على استمرار برنامج التعايش بين مشغل منصة التوصيل وأصحاب المطاعم. كما جعل الحفل المستفيدين وحجم الدعم رسميين. يستند المحتوى إلى تقرير yna.co.kr."
+      },
+      "hi": {
+        "title": "Baemin ने रेस्तरां मालिकों के 310 बच्चों को 1.75 अरब वॉन की छात्रवृत्ति दी",
+        "excerpt": "Baemin की संचालक Woowa Brothers ने 9 मई 2026 को सियोल के COEX में समारोह आयोजित कर रेस्तरां मालिकों के 310 बच्चों को कुल 1.75 अरब वॉन की छात्रवृत्ति दी।",
+        "body": "Baedal Minjok की संचालक Woowa Brothers ने 9 मई 2026 को सियोल के गंगनम-गु स्थित COEX में “2026 Woowa Boss Children Scholarship Certificate Ceremony” आयोजित की और रेस्तरां मालिकों के 310 बच्चों को छात्रवृत्ति दी। सहायता की कुल राशि 1.75 अरब वॉन है। यह छात्रवृत्ति रेस्तरां मालिक परिवारों के बच्चों की शिक्षा में मदद के उद्देश्य से तैयार की गई। यह डिलीवरी प्लेटफॉर्म संचालक और रेस्तरां मालिकों के बीच सहअस्तित्व कार्यक्रम जारी रहने का उदाहरण है। समारोह ने लाभार्थियों और सहायता के पैमाने को औपचारिक रूप दिया। सामग्री yna.co.kr की रिपोर्ट पर आधारित है।"
+      },
+      "id": {
+        "title": "Baemin Beri Beasiswa 1,75 Miliar Won untuk 310 Anak Pemilik Restoran",
+        "excerpt": "Woowa Brothers, operator Baemin, menggelar seremoni di COEX Seoul pada 9 Mei 2026 untuk memberikan beasiswa total 1,75 miliar won kepada 310 anak pemilik restoran.",
+        "body": "Woowa Brothers, operator Baedal Minjok, menggelar “Upacara Penyerahan Sertifikat Beasiswa Anak Pemilik Usaha Woowa 2026” pada 9 Mei 2026 di COEX, Distrik Gangnam, Seoul, dan memberikan beasiswa kepada 310 anak pemilik restoran. Total dukungan mencapai 1,75 miliar won. Beasiswa ini disiapkan untuk membantu pendidikan anak-anak dari keluarga pemilik restoran. Program tersebut menjadi contoh kelanjutan inisiatif koeksistensi antara operator platform pengantaran dan pemilik restoran. Upacara itu meresmikan penerima serta skala dukungan. Informasi ini mengutip laporan yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "8b7334584de6",
+    "slug": "양도세-중과-피하려-막판-거래주말에도-허가-신청-이어져-495810",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T16:39:23.748Z",
+    "updatedAt": "2026-05-10T16:39:23.748Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510009900003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510009900003",
+    "titleFingerprint": "e1c9d03e0ea3cf142974f18c19304b036bb69443",
+    "dedupKeys": [
+      "8b7334584de6c80f78234d7d285d1a00b87de99f",
+      "e1c9d03e0ea3cf142974f18c19304b036bb69443",
+      "4629b376971886241adb5d7f766928be7670402d"
+    ],
+    "imageUrl": "/images/articles/8b7334584de6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "다주택자 양도세 중과 부활 앞두고 막판 거래 몰려…주말 허가 신청도 지속",
+        "excerpt": "10일부터 다주택자 양도소득세 중과가 부활하면서, 중과 유예 마지막 날인 9일까지 세 부담을 피하려는 막판 토지거래허가 신청이 주말에도 이어졌다.",
+        "body": "10일부터 다주택자 양도소득세 중과가 부활한 가운데, 중과 유예 마지막 날인 9일까지 세 부담을 피하려는 막판 거래 움직임이 이어졌다. 서울발 연합뉴스 보도에 따르면 다주택자들은 양도세 중과 적용을 피하기 위해 토지거래허가 신청을 서둘렀고, 주말에도 관련 신청이 계속됐다. 이번 흐름은 유예 종료 시점과 세제 변화가 맞물리며 거래 당사자들의 시간 압박이 커진 데 따른 것이다. 시장에서는 제도 부활 직전 허가 신청이 집중된 사례로 받아들여진다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Multiple-homeowner capital gains surtax returns as last-minute permit filings continue",
+        "excerpt": "As South Korea reinstated the capital gains tax surcharge for multiple-home owners from May 10, last-minute land transaction permit applications continued through May 9 to avoid the heavier tax burden.",
+        "body": "South Korea reinstated the capital gains tax surcharge on multiple-home owners from May 10, prompting last-minute transaction activity through May 9, the final day of the surcharge suspension. According to a Yonhap News report from Seoul, multiple-home owners rushed to submit land transaction permit applications in an effort to avoid the heavier capital gains tax, and filings continued even over the weekend. The activity reflected the pressure created by the end of the temporary relief period and the return of the tax rule. The market viewed the rush as a concentration of permit applications just before the system was restored. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "多住宅保有者への譲渡税重課が復活、直前取引で週末も許可申請続く",
+        "excerpt": "韓国で10日から多住宅保有者への譲渡所得税重課が復活し、猶予最終日の9日まで税負担を避けるための土地取引許可申請が週末も続いた。",
+        "body": "韓国では10日から多住宅保有者に対する譲渡所得税の重課が復活し、重課猶予の最終日である9日まで、税負担を避けようとする駆け込み取引の動きが続いた。ソウル発の聯合ニュース報道によると、多住宅保有者は重課適用を避けるため土地取引許可申請を急ぎ、週末にも関連申請が続いた。今回の動きは、猶予終了の時点と税制変更が重なり、取引当事者の時間的圧力が高まったためとみられる。市場では制度復活直前に許可申請が集中した事例として受け止められている。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "多房者转让税加重恢复前抢末班车，周末土地交易许可申请仍不断",
+        "excerpt": "韩国自10日起恢复多房者转让所得税加重，至9日加重暂缓最后一天，为避开税负的土地交易许可申请在周末仍持续出现。",
+        "body": "韩国自10日起恢复对多房者适用转让所得税加重措施，在加重暂缓最后一天的9日之前，为避免更高税负而进行的最后阶段交易动向持续出现。据韩联社首尔报道，多房者为避开转让税加重适用，赶在期限前提交土地交易许可申请，相关申请周末也仍在继续。此次情况源于暂缓期结束与税制变化时间重叠，交易相关方承受更大的时间压力。市场将其视为制度恢复前夕许可申请集中的案例。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Vuelve el recargo fiscal a propietarios múltiples y siguen las solicitudes de última hora",
+        "excerpt": "Desde el 10 de mayo Corea del Sur restableció el recargo sobre ganancias de capital para multipropietarios, y hasta el día 9 siguieron las solicitudes de permiso para evitar más carga fiscal.",
+        "body": "Corea del Sur restableció desde el 10 de mayo el recargo sobre el impuesto a las ganancias de capital para propietarios de varias viviendas, lo que mantuvo la actividad de última hora hasta el 9 de mayo, último día de la suspensión. Según un reporte de Yonhap desde Seúl, los multipropietarios se apresuraron a presentar solicitudes de permiso para transacciones de tierras con el fin de evitar la aplicación del recargo, y las solicitudes continuaron incluso durante el fin de semana. El movimiento reflejó la presión temporal creada por el fin de la exención y el cambio tributario. El mercado lo interpreta como una concentración de solicitudes justo antes del regreso del régimen. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Sobretaxa sobre ganhos de capital volta e pedidos de última hora seguem no fim de semana",
+        "excerpt": "A Coreia do Sul retomou em 10 de maio a sobretaxa sobre ganhos de capital para donos de múltiplos imóveis, enquanto pedidos de licença até o dia 9 buscavam evitar a carga maior.",
+        "body": "A Coreia do Sul retomou em 10 de maio a sobretaxa do imposto sobre ganhos de capital para proprietários de múltiplas moradias, mantendo movimentos de negociação de última hora até 9 de maio, último dia da suspensão. Segundo reportagem da Yonhap em Seul, esses proprietários aceleraram pedidos de autorização para transações de terrenos para evitar a aplicação da sobretaxa, e os pedidos continuaram mesmo no fim de semana. O movimento refletiu a pressão criada pelo fim do período de alívio e pela mudança tributária. O mercado vê o caso como uma concentração de pedidos imediatamente antes da restauração da regra. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Surtax auf Veräußerungsgewinne kehrt zurück, Eilanträge liefen auch am Wochenende",
+        "excerpt": "Südkorea führte ab 10. Mai den Zuschlag auf Veräußerungsgewinne für Mehrfachwohnungseigentümer wieder ein; bis 9. Mai liefen eilige Genehmigungsanträge zur Steuervermeidung weiter.",
+        "body": "Südkorea hat ab dem 10. Mai den Zuschlag auf die Kapitalertragsteuer für Eigentümer mehrerer Wohnungen wieder eingeführt. Bis zum 9. Mai, dem letzten Tag der Aussetzung, hielten kurzfristige Transaktionsbewegungen an, um die höhere Steuerlast zu vermeiden. Laut einem Yonhap-Bericht aus Seoul reichten Mehrfachwohnungseigentümer eilig Anträge auf Genehmigung von Grundstückstransaktionen ein; die Anträge liefen sogar am Wochenende weiter. Die Entwicklung spiegelt den Zeitdruck wider, der durch das Ende der Übergangsfrist und die Steueränderung entstand. Am Markt gilt sie als Häufung von Anträgen unmittelbar vor der Wiederaufnahme der Regel. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Retour de la surtaxe sur les plus-values, les demandes de dernière minute continuent",
+        "excerpt": "La Corée du Sud a rétabli le 10 mai la surtaxe sur les plus-values des multipropriétaires, tandis que des demandes d’autorisation se sont poursuivies jusqu’au 9 mai pour éviter l’impôt accru.",
+        "body": "La Corée du Sud a rétabli à partir du 10 mai la surtaxe sur l’impôt des plus-values immobilières pour les détenteurs de plusieurs logements. Jusqu’au 9 mai, dernier jour de suspension, des démarches de transaction de dernière minute se sont poursuivies afin d’éviter la charge fiscale accrue. Selon un reportage de Yonhap à Séoul, les multipropriétaires ont accéléré les demandes d’autorisation de transactions foncières, et ces demandes ont continué même pendant le week-end. Ce mouvement reflète la pression du calendrier, entre la fin du report et le changement fiscal. Le marché y voit une concentration de demandes juste avant le rétablissement du dispositif. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "عودة ضريبة الأرباح الرأسمالية المشددة على مالكي عدة منازل وطلبات اللحظة الأخيرة مستمرة",
+        "excerpt": "اعتبارا من 10 مايو أعادت كوريا الجنوبية فرض التشديد الضريبي على أرباح بيع العقارات لمالكي عدة منازل، واستمرت طلبات تصاريح الصفقات حتى 9 مايو لتجنب العبء الأعلى.",
+        "body": "أعادت كوريا الجنوبية اعتبارا من 10 مايو تطبيق التشديد على ضريبة أرباح رأس المال لمالكي عدة منازل، بينما استمرت تحركات الصفقات في اللحظة الأخيرة حتى 9 مايو، وهو اليوم الأخير من فترة التعليق. وبحسب تقرير ليونهاب من سول، سارع مالكو عدة منازل إلى تقديم طلبات تصاريح معاملات الأراضي لتجنب تطبيق الضريبة المشددة، واستمرت الطلبات حتى خلال عطلة نهاية الأسبوع. ويعكس ذلك ضغط الوقت الناتج عن انتهاء فترة الإرجاء وتغير القواعد الضريبية. وينظر السوق إلى هذه الحالة بوصفها تركزا للطلبات قبيل عودة النظام مباشرة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कई मकान मालिकों पर कैपिटल गेन टैक्स सरचार्ज लौटा, सप्ताहांत में भी आवेदन जारी",
+        "excerpt": "दक्षिण कोरिया में 10 मई से कई मकान मालिकों पर कैपिटल गेन टैक्स सरचार्ज फिर लागू हुआ, जबकि 9 मई तक अधिक कर से बचने के लिए भूमि लेनदेन परमिट आवेदन जारी रहे।",
+        "body": "दक्षिण कोरिया में 10 मई से कई मकान रखने वालों पर कैपिटल गेन टैक्स सरचार्ज फिर लागू हो गया। सरचार्ज छूट की अंतिम तारीख 9 मई तक अधिक कर बोझ से बचने के लिए अंतिम समय की लेनदेन गतिविधियां जारी रहीं। सियोल से योनहाप की रिपोर्ट के अनुसार, कई मकान मालिकों ने सरचार्ज लागू होने से बचने के लिए भूमि लेनदेन परमिट आवेदन तेजी से जमा किए, और सप्ताहांत में भी ऐसे आवेदन जारी रहे। यह स्थिति छूट अवधि समाप्त होने और कर नियम बदलने से पैदा हुए समय दबाव को दिखाती है। बाजार इसे नियम बहाली से ठीक पहले परमिट आवेदनों के केंद्रित होने के उदाहरण के रूप में देख रहा है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Pajak tambahan capital gain untuk pemilik banyak rumah berlaku lagi, izin akhir pekan berlanjut",
+        "excerpt": "Korea Selatan memberlakukan kembali pajak tambahan capital gain bagi pemilik banyak rumah mulai 10 Mei, sementara permohonan izin transaksi tanah hingga 9 Mei terus diajukan untuk menghindari beban lebih besar.",
+        "body": "Korea Selatan memberlakukan kembali pajak tambahan atas capital gain bagi pemilik beberapa rumah mulai 10 Mei. Hingga 9 Mei, hari terakhir masa penangguhan, aktivitas transaksi menjelang tenggat terus terjadi untuk menghindari beban pajak yang lebih berat. Menurut laporan Yonhap dari Seoul, pemilik banyak rumah bergegas mengajukan permohonan izin transaksi tanah agar terhindar dari penerapan pajak tambahan, dan permohonan terkait tetap berlanjut pada akhir pekan. Pergerakan ini mencerminkan tekanan waktu akibat berakhirnya masa penangguhan dan perubahan aturan pajak. Pasar melihatnya sebagai penumpukan permohonan tepat sebelum aturan diberlakukan kembali. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "cba863ae19d7",
     "slug": "현대그린푸드-사찰음식-간편식-출시도림법송스님-협업-101519",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Samsung Electronics Mulai Mediasi 11 Mei, Konflik Serikat Jadi Sorotan",
         "excerpt": "Mediasi lanjutan Samsung Electronics akan digelar dua hari mulai 11 Mei oleh Komisi Hubungan Tenaga Kerja Pusat, saat konflik antars serikat makin menjadi variabel baru.",
         "body": "Proses mediasi lanjutan antara manajemen dan pekerja Samsung Electronics akan berlangsung selama dua hari mulai 11 Mei di bawah Komisi Hubungan Tenaga Kerja Pusat. Menjelang negosiasi akhir dengan mediasi pemerintah, konflik yang makin dalam antarserikat, termasuk terkait cabang Samsung Electronics dari serikat supra-perusahaan yang menerima pelimpahan hak berunding, muncul sebagai variabel baru. Tahap ini menarik perhatian karena dapat memengaruhi arah pembicaraan ketenagakerjaan di Samsung Electronics. Laporan asli tidak memuat rincian isu sengketa, peluang tercapainya kesepakatan, atau angka tambahan. Fokusnya adalah bagaimana konflik antars serikat itu akan memengaruhi mediasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "10786c1de761",
-    "slug": "교토-기업-철학의-정수경천애인-철학자-이나모리-가즈오-728834",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T06:48:48.805Z",
-    "updatedAt": "2026-05-10T06:48:48.805Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12042530",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12042530",
-    "titleFingerprint": "f17db94e8ae9aa64349821412be9cb1d2d9520a7",
-    "dedupKeys": [
-      "10786c1de761072a17852e549374e36e4f7218f7",
-      "f17db94e8ae9aa64349821412be9cb1d2d9520a7",
-      "78055639554cd37c1e28fff8df568c24035b6c32"
-    ],
-    "imageUrl": "/images/articles/10786c1de761.png",
-    "i18n": {
-      "ko": {
-        "title": "교토 기업 철학의 정수, 이나모리 가즈오 ‘경천애인’이 남긴 경영 유산",
-        "excerpt": "매일경제는 이나모리 라이브러리 르포를 통해 교토 기업가 이나모리 가즈오의 ‘경천애인’ 철학이 기업 경영 시스템으로 남아 글로벌하게 공유되는 과정을 조명했다.",
-        "body": "매일경제는 이나모리 라이브러리 르포에서 교토 기업 철학의 정수로 꼽히는 이나모리 가즈오의 ‘경천애인’ 사상을 조명했다. 원문에 따르면 이나모리의 경영철학은 기업 운영의 반석을 놓는 기준으로 작동했고, 관련 철학은 14개 언어로 번역돼 글로벌 독자와 공유됐다. 그의 사후에도 철학은 개인의 어록을 넘어 조직 안에서 기능하는 시스템으로 남았다. AI 시대에 일하는 방식이 달라져도 이나모리 철학의 본질은 경영과 조직문화 논의에서 계속 참고될 전망이다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Kyoto Business Philosophy: Kazuo Inamori’s Kyoten Aijin Management Legacy",
-        "excerpt": "Maeil Business Newspaper’s report from the Inamori Library highlights how Kyoto entrepreneur Kazuo Inamori’s Kyoten Aijin philosophy became a management system shared globally.",
-        "body": "Maeil Business Newspaper, in a report from the Inamori Library, examined Kazuo Inamori’s Kyoten Aijin philosophy as a core expression of Kyoto’s corporate philosophy. According to the original article, Inamori’s management philosophy served as a foundation for corporate operations, and related ideas have been translated into 14 languages for global sharing. Even after his death, the philosophy has remained more than personal sayings; it functions as a system inside organizations. Even as work changes in the AI era, the essence of Inamori’s philosophy is expected to remain a reference point in discussions on management and corporate culture. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "京都企業哲学の核心、稲盛和夫の「敬天愛人」が残した経営遺産",
-        "excerpt": "毎日経済は稲盛ライブラリーのルポを通じ、京都の企業家・稲盛和夫の「敬天愛人」哲学が経営システムとして残り、世界に共有される過程を紹介した。",
-        "body": "毎日経済は稲盛ライブラリーのルポで、京都企業哲学の真髄とされる稲盛和夫の「敬天愛人」の思想に焦点を当てた。原文によると、稲盛の経営哲学は企業運営の基盤を築く基準として機能し、関連する哲学は14言語に翻訳され、世界の読者と共有された。没後もその哲学は個人の語録を超え、組織の中で機能するシステムとして残っている。AI時代に働き方が変わっても、稲盛哲学の本質は経営と組織文化の議論で引き続き参照される見通しだ。出典: mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "京都企业哲学精髓：稻盛和夫“敬天爱人”留下的经营遗产",
-        "excerpt": "《每日经济》通过稻盛图书馆报道，聚焦京都企业家稻盛和夫的“敬天爱人”哲学如何成为经营系统，并以14种语言向全球传播。",
-        "body": "《每日经济》在稻盛图书馆报道中，聚焦被视为京都企业哲学精髓的稻盛和夫“敬天爱人”思想。原文称，稻盛的经营哲学成为企业运营的基础准则，相关理念已被翻译成14种语言，与全球读者共享。即使在他去世后，这一哲学也不止于个人语录，而是作为组织内部运转的系统继续发挥作用。即便AI时代改变工作方式，稻盛哲学的本质预计仍将在经营和组织文化讨论中被持续参考。来源：mk.co.kr引用。"
-      },
-      "es": {
-        "title": "Filosofía empresarial de Kioto: el legado de Kazuo Inamori y Kyoten Aijin",
-        "excerpt": "Maeil Business Newspaper analizó desde la Biblioteca Inamori cómo la filosofía Kyoten Aijin de Kazuo Inamori quedó como sistema de gestión y se comparte en 14 idiomas.",
-        "body": "Maeil Business Newspaper, en un reportaje desde la Biblioteca Inamori, puso el foco en la filosofía Kyoten Aijin de Kazuo Inamori, considerada una esencia de la filosofía empresarial de Kioto. Según el texto original, su pensamiento de gestión funcionó como una base para la operación de las empresas, y sus ideas fueron traducidas a 14 idiomas para compartirse globalmente. Incluso después de su muerte, la filosofía no quedó solo como citas personales, sino como un sistema activo dentro de las organizaciones. Aunque cambien las formas de trabajar en la era de la IA, su esencia seguirá siendo una referencia en gestión y cultura organizacional. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Filosofia empresarial de Kyoto: o legado de Kazuo Inamori e Kyoten Aijin",
-        "excerpt": "O Maeil Business Newspaper mostrou, em reportagem na Biblioteca Inamori, como a filosofia Kyoten Aijin de Kazuo Inamori virou sistema de gestão e foi compartilhada em 14 idiomas.",
-        "body": "O Maeil Business Newspaper, em reportagem na Biblioteca Inamori, destacou a filosofia Kyoten Aijin de Kazuo Inamori, vista como uma expressão central da filosofia empresarial de Kyoto. Segundo o texto original, sua filosofia de gestão funcionou como base para a operação das empresas, e suas ideias foram traduzidas para 14 idiomas para compartilhamento global. Mesmo após sua morte, a filosofia permaneceu além de frases pessoais, operando como um sistema dentro das organizações. Ainda que a forma de trabalhar mude na era da IA, a essência da filosofia de Inamori deve continuar sendo referência em gestão e cultura organizacional. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Kyotos Unternehmensphilosophie: Kazuo Inamoris Kyoten-Aijin-Erbe",
-        "excerpt": "Maeil Business Newspaper zeigt in einer Reportage aus der Inamori Library, wie Kazuo Inamoris Kyoten-Aijin-Philosophie zum Managementsystem wurde und in 14 Sprachen weltweit geteilt wird.",
-        "body": "Maeil Business Newspaper beleuchtete in einer Reportage aus der Inamori Library Kazuo Inamoris Kyoten-Aijin-Denken als Kern von Kyotos Unternehmensphilosophie. Dem Original zufolge diente Inamoris Managementphilosophie als Grundlage für Unternehmensführung, und die damit verbundenen Ideen wurden in 14 Sprachen übersetzt und weltweit geteilt. Auch nach seinem Tod blieb die Philosophie mehr als eine Sammlung persönlicher Zitate; sie wirkt als System innerhalb von Organisationen. Selbst wenn sich Arbeitsweisen im KI-Zeitalter verändern, dürfte der Kern von Inamoris Philosophie in Debatten über Management und Unternehmenskultur weiter herangezogen werden. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Philosophie d’entreprise de Kyoto : l’héritage Kyoten Aijin de Kazuo Inamori",
-        "excerpt": "Maeil Business Newspaper rapporte depuis la bibliothèque Inamori comment la philosophie Kyoten Aijin de Kazuo Inamori est devenue un système de gestion partagé en 14 langues.",
-        "body": "Maeil Business Newspaper, dans un reportage depuis la bibliothèque Inamori, a mis en lumière la pensée Kyoten Aijin de Kazuo Inamori, considérée comme une essence de la philosophie d’entreprise de Kyoto. Selon le texte original, sa philosophie de gestion a servi de socle au fonctionnement des entreprises, et ces idées ont été traduites en 14 langues pour être partagées dans le monde. Même après sa mort, cette philosophie dépasse les citations personnelles et fonctionne comme un système au sein des organisations. À l’ère de l’IA, même si les méthodes de travail changent, son essence devrait rester une référence dans les débats sur la gestion et la culture d’entreprise. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "فلسفة شركات كيوتو: إرث كازو إيناموري ومبدأ كيوتن آيجين الإداري",
-        "excerpt": "سلطت صحيفة Maeil Business Newspaper، عبر تقرير من مكتبة إيناموري، الضوء على تحول فلسفة كازو إيناموري كيوتن آيجين إلى نظام إداري مترجم إلى 14 لغة ومشترك عالميا.",
-        "body": "تناولت صحيفة Maeil Business Newspaper في تقرير من مكتبة إيناموري فلسفة كازو إيناموري كيوتن آيجين بوصفها جوهرا لفلسفة شركات كيوتو. ووفقا للنص الأصلي، عملت فلسفته الإدارية كأساس لتشغيل الشركات، وترجمت الأفكار المرتبطة بها إلى 14 لغة لتشارك مع القراء حول العالم. وحتى بعد وفاته، لم تبق هذه الفلسفة مجرد أقوال شخصية، بل استمرت كنظام يعمل داخل المؤسسات. ومع تغير أساليب العمل في عصر الذكاء الاصطناعي، من المتوقع أن تظل روح فلسفة إيناموري مرجعا في نقاشات الإدارة وثقافة المؤسسات. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "क्योटो की कारोबारी सोच: काजुओ इनामोरी के ‘क्योतेन आइजिन’ की विरासत",
-        "excerpt": "Maeil Business Newspaper ने इनामोरी लाइब्रेरी की रिपोर्ट में बताया कि काजुओ इनामोरी की ‘क्योतेन आइजिन’ दर्शनधारा कैसे प्रबंधन प्रणाली बनी और 14 भाषाओं में साझा हुई।",
-        "body": "Maeil Business Newspaper ने इनामोरी लाइब्रेरी की रिपोर्ट में काजुओ इनामोरी की ‘क्योतेन आइजिन’ विचारधारा को क्योटो की कॉरपोरेट फिलॉसफी का सार बताया। मूल लेख के अनुसार, इनामोरी का प्रबंधन दर्शन कंपनियों के संचालन की ठोस नींव के रूप में काम करता रहा, और इससे जुड़े विचार 14 भाषाओं में अनुवादित होकर वैश्विक पाठकों तक पहुंचे। उनके निधन के बाद भी यह दर्शन केवल निजी उद्धरणों तक सीमित नहीं रहा, बल्कि संगठनों के भीतर काम करने वाली प्रणाली बन गया। AI युग में काम करने के तरीके बदलने पर भी इनामोरी दर्शन का मूल भाव प्रबंधन और संगठन संस्कृति की चर्चा में संदर्भ बना रह सकता है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Filosofi Bisnis Kyoto: Warisan Manajemen Kazuo Inamori dan Kyoten Aijin",
-        "excerpt": "Maeil Business Newspaper melalui laporan dari Inamori Library menyoroti bagaimana filosofi Kyoten Aijin Kazuo Inamori menjadi sistem manajemen dan dibagikan dalam 14 bahasa.",
-        "body": "Maeil Business Newspaper, dalam laporan dari Inamori Library, menyoroti filosofi Kyoten Aijin Kazuo Inamori sebagai inti dari filosofi perusahaan Kyoto. Menurut teks asli, filosofi manajemen Inamori berfungsi sebagai landasan bagi operasi perusahaan, dan gagasan terkait telah diterjemahkan ke dalam 14 bahasa untuk dibagikan secara global. Bahkan setelah wafat, filosofi itu tidak berhenti sebagai kutipan pribadi, tetapi tetap bekerja sebagai sistem di dalam organisasi. Meski cara kerja berubah di era AI, esensi filosofi Inamori diperkirakan tetap menjadi rujukan dalam pembahasan manajemen dan budaya organisasi. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "72f545b3a7fa",
-    "slug": "교세라-rd-수장-日제조업-경쟁력은-스리아와세조정과-통합-354956",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T06:47:56.241Z",
-    "updatedAt": "2026-05-10T06:47:56.241Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12042531",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12042531",
-    "titleFingerprint": "9bbbe1e92088883f70d94e2bc8a844a4090192f6",
-    "dedupKeys": [
-      "72f545b3a7fa96eb99ae88b05f58b08e2a26193b",
-      "9bbbe1e92088883f70d94e2bc8a844a4090192f6",
-      "b337484aab14819e1afb74d1685d04219bba5646"
-    ],
-    "imageUrl": "/images/articles/72f545b3a7fa.png",
-    "i18n": {
-      "ko": {
-        "title": "교세라 R&D 수장이 본 日 제조업 경쟁력, 핵심은 스리아와세",
-        "excerpt": "나카가와 슈이치 교세라 R&D본부장은 급변하는 산업 환경 속에서도 일본 제조업 경쟁력의 바탕은 현장에 축적된 기술과 사람, 조정·통합 역량이라고 밝혔다.",
-        "body": "나카가와 슈이치 교세라 R&D본부장은 일본 제조업의 경쟁력이 산업 지형이 빠르게 바뀌는 상황에서도 현장에서 축적된 기술과 사람에게서 나온다고 강조했다. 그는 특히 조정과 통합을 뜻하는 ‘스리아와세’를 핵심 역량으로 언급했다. 교세라의 연구개발을 이끄는 나카가와 본부장은 누구나 안 된다고 말하는 과제에 도전하는 자세가 중요하다고 설명했다. 이는 제조 현장의 경험, 기술 축적, 인재 역량이 결합될 때 변화 속에서도 경쟁력을 유지할 수 있다는 메시지로 풀이된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kyocera R&D Chief Says Japan’s Manufacturing Edge Lies in Suriawase",
-        "excerpt": "Kyocera R&D head Shuichi Nakagawa said Japan’s manufacturing strength amid rapid industrial change comes from shop-floor technology, people, and the ability to coordinate and integrate.",
-        "body": "Shuichi Nakagawa, head of Kyocera’s R&D division, said Japan’s manufacturing competitiveness continues to come from technology and people accumulated on production sites, even as the industrial landscape changes rapidly. He identified “suriawase,” meaning adjustment and integration, as a core capability. Leading Kyocera’s research and development, Nakagawa stressed the importance of taking on challenges that others say cannot be done. His message points to the role of field experience, accumulated technology, and human capability in sustaining competitiveness through change. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "京セラR&Dトップが語る日本製造業の競争力、鍵はすり合わせ",
-        "excerpt": "京セラの中川修一R&D本部長は、産業構造が急変する中でも日本製造業の強みは現場で蓄積された技術、人材、調整と統合の力にあると述べた。",
-        "body": "京セラの研究開発を率いる中川修一R&D本部長は、産業の地形が急速に変化する中でも、日本製造業の競争力は現場で蓄積された技術と人に由来すると強調した。中川氏は特に、調整と統合を意味する「すり合わせ」を重要な能力として挙げた。また、誰もができないと言う課題に挑む姿勢が大切だと説明した。これは、製造現場の経験、技術の蓄積、人材の力が結びつくことで、変化の中でも競争力を維持できるというメッセージといえる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "京瓷R&D负责人谈日本制造竞争力：关键在“协调整合”",
-        "excerpt": "京瓷R&D本部长中川修一表示，在产业格局快速变化中，日本制造业竞争力来自现场积累的技术、人才以及协调与整合能力。",
-        "body": "京瓷R&D本部长中川修一表示，即使产业格局正在快速变化，日本制造业的竞争力仍来自生产现场长期积累的技术和人才。他特别提到，意为调整与整合的“suri-awase”是核心能力。作为京瓷研究开发工作的负责人，中川强调，挑战那些被所有人认为不可能完成的事情十分重要。这一说法表明，制造现场经验、技术积累和人才能力结合起来，才能在变化中维持竞争力。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Jefe de I+D de Kyocera ve la ventaja manufacturera japonesa en el suriawase",
-        "excerpt": "Shuichi Nakagawa, responsable de I+D de Kyocera, afirmó que la competitividad manufacturera de Japón se apoya en tecnología, personas y capacidad de ajuste e integración.",
-        "body": "Shuichi Nakagawa, jefe de la división de I+D de Kyocera, afirmó que la competitividad de la manufactura japonesa sigue naciendo de la tecnología y las personas acumuladas en el terreno, incluso ante rápidos cambios en el mapa industrial. Señaló en particular el “suriawase”, entendido como ajuste e integración, como una capacidad clave. Nakagawa, que dirige la investigación y desarrollo de Kyocera, subrayó la importancia de desafiar aquello que todos consideran imposible. Su mensaje apunta a que la experiencia de fábrica, la acumulación tecnológica y el talento permiten sostener la competitividad en medio del cambio. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Chefe de P&D da Kyocera vê força industrial do Japão no suriawase",
-        "excerpt": "Shuichi Nakagawa, chefe de P&D da Kyocera, disse que a competitividade da manufatura japonesa vem da tecnologia, das pessoas e da capacidade de ajuste e integração.",
-        "body": "Shuichi Nakagawa, chefe da divisão de P&D da Kyocera, afirmou que a competitividade da manufatura japonesa continua vindo da tecnologia e das pessoas acumuladas no chão de fábrica, mesmo com rápidas mudanças no cenário industrial. Ele destacou o “suriawase”, termo ligado a ajuste e integração, como uma competência essencial. À frente da pesquisa e desenvolvimento da Kyocera, Nakagawa ressaltou a importância de desafiar aquilo que todos dizem ser impossível. A mensagem indica que experiência produtiva, acúmulo tecnológico e capacidade humana sustentam a competitividade em meio à transformação. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kyocera-F&E-Chef sieht Japans Fertigungsstärke im Suriawase",
-        "excerpt": "Shuichi Nakagawa, F&E-Leiter von Kyocera, sagte, Japans industrielle Wettbewerbsfähigkeit beruhe auf Technik, Menschen und der Fähigkeit zur Abstimmung und Integration.",
-        "body": "Shuichi Nakagawa, Leiter der F&E-Abteilung von Kyocera, betonte, dass Japans Wettbewerbsfähigkeit in der Fertigung auch bei raschem Wandel der Industrielandschaft aus der vor Ort angesammelten Technik und den Menschen entstehe. Als zentrale Fähigkeit nannte er „Suriawase“, also Abstimmung und Integration. Nakagawa, der Kyoceras Forschung und Entwicklung führt, erklärte, wichtig sei die Haltung, Aufgaben anzugehen, die alle für unmöglich halten. Seine Aussage verweist darauf, dass Erfahrung in der Produktion, technologische Akkumulation und menschliche Kompetenz gemeinsam Wettbewerbsfähigkeit im Wandel sichern. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le chef R&D de Kyocera voit l’atout industriel japonais dans le suriawase",
-        "excerpt": "Shuichi Nakagawa, responsable R&D de Kyocera, affirme que la compétitivité manufacturière du Japon repose sur la technologie de terrain, les personnes et l’intégration.",
-        "body": "Shuichi Nakagawa, responsable de la division R&D de Kyocera, a souligné que la compétitivité de l’industrie manufacturière japonaise provient toujours des technologies et des personnes accumulées sur le terrain, malgré l’évolution rapide du paysage industriel. Il a cité le « suriawase », c’est-à-dire l’ajustement et l’intégration, comme une capacité centrale. À la tête de la recherche et développement de Kyocera, Nakagawa a insisté sur l’importance de relever les défis que tout le monde juge impossibles. Son message met en avant le rôle de l’expérience industrielle, de l’accumulation technologique et des talents pour préserver la compétitivité. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "رئيس البحث والتطوير في كيوسيرا: قوة التصنيع الياباني في التنسيق والتكامل",
-        "excerpt": "قال شويتشي ناكاغاوا، رئيس البحث والتطوير في كيوسيرا، إن تنافسية التصنيع الياباني وسط تغير الصناعة السريع تقوم على التقنية المتراكمة والأشخاص والتنسيق.",
-        "body": "قال شويتشي ناكاغاوا، رئيس قسم البحث والتطوير في كيوسيرا، إن تنافسية التصنيع الياباني ما زالت تنبع من التقنية والأشخاص المتراكمين في مواقع العمل، حتى مع التغير السريع في خريطة الصناعة. وذكر أن مفهوم “سورياواسي”، أي الضبط والتكامل، يمثل قدرة أساسية. وبصفته قائدا لأبحاث كيوسيرا وتطويرها، شدد ناكاغاوا على أهمية خوض التحديات التي يقول الجميع إنها غير ممكنة. وتشير رسالته إلى أن خبرة مواقع التصنيع، وتراكم التقنية، وقدرات الأفراد يمكن أن تحافظ على التنافسية وسط التحول. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "क्योसेरा R&D प्रमुख बोले, जापानी विनिर्माण की ताकत ‘समायोजन और एकीकरण’",
-        "excerpt": "क्योसेरा के R&D प्रमुख शूइची नाकागावा ने कहा कि तेजी से बदलते उद्योग में जापानी विनिर्माण की प्रतिस्पर्धा तकनीक, लोगों और समायोजन-एकीकरण क्षमता पर टिकी है।",
-        "body": "क्योसेरा के R&D विभाग के प्रमुख शूइची नाकागावा ने कहा कि औद्योगिक परिदृश्य तेजी से बदलने के बावजूद जापानी विनिर्माण की प्रतिस्पर्धात्मकता उत्पादन स्थलों पर संचित तकनीक और लोगों से आती है। उन्होंने समायोजन और एकीकरण के अर्थ वाले “सुरियावासे” को मुख्य क्षमता बताया। क्योसेरा के शोध एवं विकास का नेतृत्व कर रहे नाकागावा ने कहा कि उन चुनौतियों को स्वीकार करना महत्वपूर्ण है जिन्हें हर कोई असंभव कहता है। उनका संदेश है कि विनिर्माण स्थल का अनुभव, तकनीकी संचय और मानव क्षमता मिलकर बदलाव के बीच प्रतिस्पर्धा बनाए रखते हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kepala R&D Kyocera: Daya Saing Manufaktur Jepang Ada pada Suriawase",
-        "excerpt": "Shuichi Nakagawa, kepala R&D Kyocera, mengatakan daya saing manufaktur Jepang di tengah perubahan industri bertumpu pada teknologi, manusia, dan kemampuan integrasi.",
-        "body": "Shuichi Nakagawa, kepala divisi R&D Kyocera, menegaskan bahwa daya saing manufaktur Jepang tetap berasal dari teknologi dan manusia yang terakumulasi di lapangan, meski lanskap industri berubah cepat. Ia menyebut “suriawase”, yang berarti penyesuaian dan integrasi, sebagai kemampuan inti. Sebagai pemimpin riset dan pengembangan Kyocera, Nakagawa menekankan pentingnya menantang hal-hal yang dikatakan semua orang tidak mungkin. Pesan itu menunjukkan bahwa pengalaman di lokasi produksi, akumulasi teknologi, dan kemampuan manusia dapat menjaga daya saing di tengah perubahan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4e263dee74b2",
-    "slug": "허락없이-내-사진-쓴-비용-220억팝스타-두아리파-삼성전자에-소송-제기-549209",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T06:47:04.319Z",
-    "updatedAt": "2026-05-10T06:47:04.319Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12042532",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12042532",
-    "titleFingerprint": "09dfeeff4b692082156f88ab67fa4d3a4b19f94c",
-    "dedupKeys": [
-      "4e263dee74b212e05c283aef91269fd2a5b5788e",
-      "09dfeeff4b692082156f88ab67fa4d3a4b19f94c",
-      "12144654d42f3b08fe0ecd106ac3d49780f75cc0"
-    ],
-    "imageUrl": "/images/articles/4e263dee74b2.png",
-    "i18n": {
-      "ko": {
-        "title": "두아 리파, 삼성전자에 220억원대 소송…무단 사진 사용 주장",
-        "excerpt": "팝스타 두아 리파가 자신의 사진이 허락 없이 사용됐다며 삼성전자를 상대로 1500만달러, 약 220억원 규모의 소송을 제기했다고 버라이어티가 9일 보도했다.",
-        "body": "세계적인 팝스타 두아 리파가 자신의 사진을 무단으로 사용했다며 삼성전자를 상대로 소송을 제기한 것으로 전해졌다. 미국 연예 전문 매체 버라이어티는 9일(현지시간) 두아 리파가 삼성전자를 상대로 1500만달러, 우리 돈 약 220억원 규모의 소송을 냈다고 보도했다. 이번 사안의 핵심은 두아 리파 측이 자신의 사진이 허락 없이 사용됐다고 주장한 점이다. 소송 규모가 큰 만큼 향후 양측의 입장과 법적 절차 진행 여부에 관심이 쏠릴 전망이다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Dua Lipa Sues Samsung Electronics for $15 Million Over Photo Use",
-        "excerpt": "Pop star Dua Lipa has filed a $15 million, about 22 billion won, lawsuit against Samsung Electronics, alleging unauthorized use of her photo, Variety reported on the 9th local time.",
-        "body": "Global pop star Dua Lipa has reportedly filed a lawsuit against Samsung Electronics, claiming the company used her photo without permission. U.S. entertainment outlet Variety reported on the 9th local time that Dua Lipa brought a case seeking $15 million, or about 22 billion won, from Samsung Electronics. The central issue is the allegation from Dua Lipa’s side that her image was used without authorization. Given the size of the claim, attention is expected to focus on both sides’ positions and how the legal process proceeds. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "デュア・リパ、写真無断使用でサムスン電子に約220億ウォン訴訟",
-        "excerpt": "ポップスターのデュア・リパが、自身の写真を無断で使用されたとして、サムスン電子を相手に1500万ドル、約220億ウォン規模の訴訟を起こしたと報じられた。",
-        "body": "世界的なポップスター、デュア・リパが、自身の写真を無断で使用されたとしてサムスン電子を相手に訴訟を起こしたと伝えられた。米国の芸能専門メディア、バラエティは現地時間9日、デュア・リパがサムスン電子を相手に1500万ドル、韓国ウォンで約220億ウォン規模の訴訟を提起したと報じた。今回の焦点は、デュア・リパ側が本人の写真が許可なく使用されたと主張している点だ。請求額が大きいだけに、今後の双方の立場と法的手続きの進行に関心が集まる見通しだ。出典: mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "杜阿·利帕起诉三星电子索赔1500万美元，称照片遭擅用",
-        "excerpt": "据《综艺》当地时间9日报道，流行歌手杜阿·利帕称自己的照片未经许可被使用，已对三星电子提起1500万美元、约220亿韩元诉讼。",
-        "body": "全球知名流行歌手杜阿·利帕据称已对三星电子提起诉讼，理由是自己的照片被未经许可使用。美国娱乐专业媒体《综艺》当地时间9日报道称，杜阿·利帕向三星电子提出1500万美元、约合220亿韩元规模的诉讼。此次事件的核心在于杜阿·利帕方面主张其照片在未获授权的情况下被使用。由于索赔金额较大，外界预计将关注双方后续立场以及法律程序如何推进。来源：引用自mk.co.kr。"
-      },
-      "es": {
-        "title": "Dua Lipa demanda a Samsung Electronics por US$15 millones por una foto",
-        "excerpt": "La estrella pop Dua Lipa demandó a Samsung Electronics por US$15 millones, unos 22.000 millones de wones, al alegar uso no autorizado de su fotografía, informó Variety el día 9.",
-        "body": "La estrella pop mundial Dua Lipa habría presentado una demanda contra Samsung Electronics, alegando que se usó una fotografía suya sin permiso. El medio estadounidense especializado en entretenimiento Variety informó el día 9, hora local, que Dua Lipa demandó a Samsung Electronics por US$15 millones, equivalentes a unos 22.000 millones de wones. El punto central del caso es la afirmación de la parte de Dua Lipa de que su imagen fue utilizada sin autorización. Dado el monto reclamado, se prevé atención sobre las posiciones de ambas partes y el avance del proceso legal. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Dua Lipa processa Samsung Electronics por US$15 milhões por uso de foto",
-        "excerpt": "A pop star Dua Lipa entrou com ação de US$15 milhões, cerca de 22 bilhões de won, contra a Samsung Electronics, alegando uso não autorizado de sua foto, informou a Variety no dia 9.",
-        "body": "A pop star global Dua Lipa teria entrado com uma ação contra a Samsung Electronics, alegando que uma foto sua foi usada sem permissão. A revista norte-americana de entretenimento Variety informou no dia 9, horário local, que Dua Lipa processou a Samsung Electronics em US$15 milhões, aproximadamente 22 bilhões de won. O ponto central do caso é a alegação de Dua Lipa de que sua imagem foi utilizada sem autorização. Pelo tamanho do valor pedido, a atenção deve se concentrar nas posições das duas partes e no andamento do processo legal. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Dua Lipa verklagt Samsung Electronics wegen Foto auf 15 Millionen Dollar",
-        "excerpt": "Popstar Dua Lipa hat Samsung Electronics auf 15 Millionen Dollar, rund 22 Milliarden Won, verklagt, weil ihr Foto ohne Erlaubnis verwendet worden sein soll, berichtete Variety am 9. Ortszeit.",
-        "body": "Der weltbekannte Popstar Dua Lipa hat Berichten zufolge Klage gegen Samsung Electronics eingereicht, weil ein Foto von ihr ohne Genehmigung verwendet worden sein soll. Das US-Unterhaltungsmedium Variety meldete am 9. Ortszeit, Dua Lipa fordere von Samsung Electronics 15 Millionen Dollar, umgerechnet etwa 22 Milliarden Won. Im Mittelpunkt steht die Behauptung von Dua Lipas Seite, dass ihr Bild ohne Erlaubnis genutzt wurde. Wegen der Höhe der Forderung dürfte sich die Aufmerksamkeit nun auf die Positionen beider Seiten und den weiteren Verlauf des Rechtsverfahrens richten. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Dua Lipa poursuit Samsung Electronics pour 15 millions de dollars",
-        "excerpt": "La pop star Dua Lipa a engagé une action de 15 millions de dollars, soit environ 22 milliards de wons, contre Samsung Electronics pour usage non autorisé de sa photo, selon Variety le 9.",
-        "body": "La pop star mondiale Dua Lipa aurait déposé une plainte contre Samsung Electronics, affirmant qu’une photo d’elle avait été utilisée sans autorisation. Le média américain spécialisé dans le divertissement Variety a rapporté le 9, heure locale, que Dua Lipa réclamait 15 millions de dollars, soit environ 22 milliards de wons, à Samsung Electronics. Le cœur de l’affaire est l’allégation de la partie de Dua Lipa selon laquelle son image a été utilisée sans permission. Compte tenu du montant demandé, l’attention devrait se porter sur les positions des deux parties et sur l’évolution de la procédure judiciaire. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "دوا ليبا تقاضي سامسونغ إلكترونيكس مطالبة بـ15 مليون دولار بسبب صورة",
-        "excerpt": "رفعت نجمة البوب دوا ليبا دعوى ضد سامسونغ إلكترونيكس بقيمة 15 مليون دولار، نحو 22 مليار وون، بدعوى استخدام صورتها من دون إذن، بحسب ما أوردته فارايتي في التاسع بالتوقيت المحلي.",
-        "body": "أفادت تقارير بأن نجمة البوب العالمية دوا ليبا رفعت دعوى قضائية ضد سامسونغ إلكترونيكس، قائلة إن صورة لها استُخدمت من دون إذن. وذكرت مجلة فارايتي الأميركية المتخصصة في أخبار الترفيه في التاسع بالتوقيت المحلي أن دوا ليبا أقامت دعوى على سامسونغ إلكترونيكس بقيمة 15 مليون دولار، أي ما يعادل نحو 22 مليار وون. ويتمحور النزاع حول ادعاء جانب دوا ليبا أن صورتها استُخدمت بلا تصريح. وبالنظر إلى حجم المطالبة، من المتوقع أن تتركز الأنظار على موقفي الطرفين ومسار الإجراءات القانونية المقبلة. المصدر: نقلاً عن mk.co.kr."
-      },
-      "hi": {
-        "title": "दुआ लीपा ने फोटो इस्तेमाल पर Samsung Electronics पर 1.5 करोड़ डॉलर का मुकदमा किया",
-        "excerpt": "पॉप स्टार दुआ लीपा ने अपनी तस्वीर बिना अनुमति इस्तेमाल करने का आरोप लगाते हुए Samsung Electronics पर 1.5 करोड़ डॉलर, करीब 220 अरब वॉन, का मुकदमा दायर किया, Variety ने स्थानीय समय 9 तारीख को बताया।",
-        "body": "वैश्विक पॉप स्टार दुआ लीपा ने कथित तौर पर Samsung Electronics के खिलाफ मुकदमा दायर किया है, जिसमें उन्होंने अपनी तस्वीर बिना अनुमति इस्तेमाल किए जाने का आरोप लगाया है। अमेरिकी मनोरंजन मीडिया Variety ने स्थानीय समय 9 तारीख को बताया कि दुआ लीपा ने Samsung Electronics के खिलाफ 1.5 करोड़ डॉलर, यानी लगभग 220 अरब वॉन, का दावा किया है। मामले का मुख्य बिंदु दुआ लीपा पक्ष का यह दावा है कि उनकी छवि बिना अनुमति इस्तेमाल की गई। दावे की बड़ी राशि को देखते हुए अब दोनों पक्षों के रुख और कानूनी प्रक्रिया की प्रगति पर ध्यान रहने की संभावना है। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Dua Lipa Gugat Samsung Electronics US$15 Juta atas Dugaan Pemakaian Foto",
-        "excerpt": "Bintang pop Dua Lipa menggugat Samsung Electronics senilai US$15 juta, sekitar 22 miliar won, karena menuduh fotonya digunakan tanpa izin, lapor Variety pada tanggal 9 waktu setempat.",
-        "body": "Bintang pop dunia Dua Lipa dilaporkan mengajukan gugatan terhadap Samsung Electronics dengan tuduhan fotonya digunakan tanpa izin. Media hiburan Amerika Serikat Variety melaporkan pada tanggal 9 waktu setempat bahwa Dua Lipa menggugat Samsung Electronics senilai US$15 juta, atau sekitar 22 miliar won. Inti perkara ini adalah klaim dari pihak Dua Lipa bahwa fotonya dipakai tanpa persetujuan. Mengingat besarnya nilai gugatan, perhatian diperkirakan tertuju pada sikap kedua pihak dan perkembangan proses hukum selanjutnya. Sumber: dikutip dari mk.co.kr."
       }
     }
   }
