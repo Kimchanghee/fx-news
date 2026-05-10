@@ -1,5 +1,230 @@
 [
   {
+    "id": "afec6906a1f8",
+    "slug": "사우디-아람코-1분기-순익-26전쟁에-유가상승-등-영향-505522",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T11:35:03.035Z",
+    "updatedAt": "2026-05-10T11:35:03.035Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510039200009",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510039200009",
+    "titleFingerprint": "4c3ceb0da17b8894df74f69cf7f512c006114868",
+    "dedupKeys": [
+      "afec6906a1f87396ffaf75d35a52d93dce735b25",
+      "4c3ceb0da17b8894df74f69cf7f512c006114868",
+      "f7ebcbcf3b694b742298464454dd88a707d85e72"
+    ],
+    "imageUrl": "/images/articles/afec6906a1f8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "사우디 아람코 1분기 순익 26% 증가, 중동 전쟁 따른 유가 상승 영향",
+        "excerpt": "사우디 국영 석유기업 아람코가 올해 1분기 순이익이 전년 대비 26% 증가했다고 밝혔다. 중동 전쟁에 따른 유가 상승 등이 실적 개선 배경으로 꼽혔다.",
+        "body": "사우디아라비아 국영 석유기업 아람코의 올해 1분기 순이익이 중동 전쟁에 따른 유가 상승 영향 등으로 급증했다. 아람코는 1분기 순익이 26% 증가한 것으로 집계됐으며, 이는 국제 유가가 전쟁 여파로 오르면서 수익성에 영향을 준 결과로 풀이된다. 국영 석유기업인 아람코의 실적은 산유국 재정과 글로벌 에너지 시장 흐름을 가늠하는 지표로 주목된다. 이번 순익 증가는 원유 가격 변동이 대형 석유기업 실적에 직접 반영될 수 있음을 보여준다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Saudi Aramco Q1 Profit Rises 26% as Middle East War Lifts Oil Prices",
+        "excerpt": "Saudi Arabia’s state oil company Aramco reported a 26% increase in first-quarter net profit this year, helped by higher oil prices linked to the war in the Middle East.",
+        "body": "Saudi Arabia’s state-owned oil company Aramco posted a sharp rise in first-quarter net profit this year, supported by higher oil prices caused in part by the war in the Middle East. Aramco’s net profit for the quarter increased 26%, a result understood to reflect stronger profitability as international crude prices moved higher amid the conflict. As a national oil company, Aramco’s earnings are closely watched as a gauge of oil-producing countries’ finances and global energy-market conditions. The result shows how oil-price movements can feed directly into the performance of major energy producers. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "サウジアラムコ第1四半期純利益26%増、中東戦争で原油高が影響",
+        "excerpt": "サウジアラビア国営石油会社アラムコは、今年第1四半期の純利益が26%増加した。中東での戦争に伴う原油価格上昇などが業績を押し上げた。",
+        "body": "サウジアラビアの国営石油会社アラムコの今年第1四半期純利益が、中東での戦争に伴う原油価格上昇などを背景に大きく増加した。アラムコの第1四半期純利益は26%増となり、紛争の影響で国際原油価格が上昇したことが収益性に反映されたとみられる。国営石油会社であるアラムコの業績は、産油国の財政や世界のエネルギー市場の流れを測る指標として注目される。今回の増益は、原油価格の変動が大手石油企業の業績に直接影響し得ることを示した。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "沙特阿美一季度净利增长26%，中东战争推高油价带动业绩",
+        "excerpt": "沙特国有石油企业阿美今年一季度净利润增长26%。中东战争引发的油价上涨等因素，被认为推动了公司盈利改善。",
+        "body": "沙特阿拉伯国有石油企业阿美今年一季度净利润因中东战争带来的油价上涨等因素而大幅增加。阿美一季度净利润增长26%，这一结果被解读为国际原油价格在战争影响下走高，并进一步改善公司盈利能力。作为国有石油企业，阿美的业绩受到关注，因为它可反映产油国财政状况和全球能源市场走势。此次净利增长显示，原油价格波动可能直接反映在大型石油企业的经营表现中。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Saudi Aramco eleva 26% su beneficio del primer trimestre por el alza del petróleo",
+        "excerpt": "La petrolera estatal saudí Aramco registró este año un aumento del 26% en su beneficio neto del primer trimestre, impulsado por el encarecimiento del crudo ligado a la guerra en Oriente Medio.",
+        "body": "La petrolera estatal de Arabia Saudí, Aramco, registró un fuerte aumento de su beneficio neto en el primer trimestre de este año, apoyado por la subida del precio del petróleo asociada en parte a la guerra en Oriente Medio. El beneficio neto trimestral de Aramco creció un 26%, un resultado que refleja el impacto de un mayor precio internacional del crudo sobre la rentabilidad. Como empresa petrolera estatal, sus resultados son observados como referencia para las finanzas de los países productores y para la evolución del mercado energético global. El dato muestra cómo los cambios del precio del petróleo pueden trasladarse directamente a las grandes petroleras. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Saudi Aramco aumenta lucro do 1º trimestre em 26% com alta do petróleo",
+        "excerpt": "A estatal saudita Saudi Aramco registrou alta de 26% no lucro líquido do primeiro trimestre deste ano, impulsionada pelo avanço dos preços do petróleo ligado à guerra no Oriente Médio.",
+        "body": "A estatal petrolífera da Arábia Saudita, Saudi Aramco, teve forte aumento no lucro líquido do primeiro trimestre deste ano, apoiada pela alta dos preços do petróleo causada em parte pela guerra no Oriente Médio. O lucro líquido trimestral da Aramco avançou 26%, resultado visto como reflexo da melhora da rentabilidade após a elevação do preço internacional do petróleo. Como petrolífera estatal, o desempenho da empresa é acompanhado como indicador das finanças de países produtores e das condições do mercado global de energia. O resultado mostra que oscilações no preço do petróleo podem afetar diretamente grandes empresas do setor. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Saudi Aramco steigert Quartalsgewinn um 26% dank höherer Ölpreise",
+        "excerpt": "Der saudische Staatsölkonzern Aramco meldete für das erste Quartal dieses Jahres einen Anstieg des Nettogewinns um 26%, gestützt durch höhere Ölpreise infolge des Kriegs im Nahen Osten.",
+        "body": "Der staatliche saudische Ölkonzern Aramco hat im ersten Quartal dieses Jahres einen deutlichen Anstieg des Nettogewinns verzeichnet, gestützt unter anderem durch höhere Ölpreise infolge des Kriegs im Nahen Osten. Der Quartalsgewinn von Aramco legte um 26% zu. Dies wird als Ergebnis höherer internationaler Rohölpreise gewertet, die die Profitabilität des Unternehmens verbesserten. Als Staatsölkonzern gelten Aramcos Zahlen als wichtiger Hinweis auf die Finanzlage von Ölförderländern und die Entwicklung des globalen Energiemarkts. Der Gewinnanstieg zeigt, wie direkt Ölpreisschwankungen die Ergebnisse großer Ölunternehmen beeinflussen können. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Saudi Aramco voit son bénéfice du 1er trimestre bondir de 26% avec le pétrole",
+        "excerpt": "La compagnie pétrolière publique saoudienne Aramco a enregistré une hausse de 26% de son bénéfice net au premier trimestre, soutenue par la montée des prix du pétrole liée à la guerre au Moyen-Orient.",
+        "body": "La compagnie pétrolière publique d’Arabie saoudite, Aramco, a fortement accru son bénéfice net au premier trimestre de cette année, sous l’effet notamment de la hausse des prix du pétrole liée à la guerre au Moyen-Orient. Le bénéfice net trimestriel d’Aramco a progressé de 26%, un résultat interprété comme le reflet d’une meilleure rentabilité grâce au renchérissement du brut sur les marchés internationaux. En tant qu’entreprise pétrolière nationale, ses résultats sont suivis comme un indicateur des finances des pays producteurs et de l’évolution du marché mondial de l’énergie. Cette hausse montre l’impact direct des variations du pétrole sur les grands groupes pétroliers. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أرامكو السعودية ترفع صافي ربح الربع الأول 26% مع صعود أسعار النفط",
+        "excerpt": "سجلت شركة أرامكو السعودية الحكومية زيادة 26% في صافي أرباح الربع الأول من هذا العام، بدعم من ارتفاع أسعار النفط المرتبط بالحرب في الشرق الأوسط.",
+        "body": "حققت شركة أرامكو السعودية، وهي شركة النفط الحكومية في المملكة، ارتفاعا كبيرا في صافي أرباح الربع الأول من هذا العام، مدعوما بارتفاع أسعار النفط نتيجة الحرب في الشرق الأوسط وعوامل أخرى. وبلغت زيادة صافي الربح الفصلي 26%، في نتيجة تعكس أثر صعود أسعار الخام العالمية على ربحية الشركة. وتكتسب نتائج أرامكو أهمية لأنها تعد مؤشرا على أوضاع مالية الدول المنتجة للنفط واتجاهات سوق الطاقة العالمية. وتوضح هذه الزيادة أن تغيرات أسعار النفط يمكن أن تنعكس مباشرة على أداء شركات النفط الكبرى. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "सऊदी अरामको का पहली तिमाही मुनाफा 26% बढ़ा, तेल कीमतों में तेजी का असर",
+        "excerpt": "सऊदी अरब की सरकारी तेल कंपनी अरामको ने इस वर्ष पहली तिमाही के शुद्ध लाभ में 26% वृद्धि दर्ज की। मध्य पूर्व युद्ध से जुड़ी तेल कीमतों की तेजी इसका प्रमुख कारण रही।",
+        "body": "सऊदी अरब की सरकारी तेल कंपनी अरामको का इस वर्ष पहली तिमाही का शुद्ध लाभ मध्य पूर्व में युद्ध के कारण तेल कीमतों में आई तेजी सहित अन्य प्रभावों से तेजी से बढ़ा। अरामको का तिमाही शुद्ध लाभ 26% बढ़ा, जिसे अंतरराष्ट्रीय कच्चे तेल की कीमतों में वृद्धि से कंपनी की लाभप्रदता में सुधार के रूप में देखा जा रहा है। सरकारी तेल कंपनी होने के कारण अरामको के नतीजे तेल उत्पादक देशों की वित्तीय स्थिति और वैश्विक ऊर्जा बाजार की दिशा का संकेतक माने जाते हैं। यह वृद्धि दिखाती है कि तेल कीमतों में बदलाव बड़ी तेल कंपनियों के प्रदर्शन में सीधे झलक सकता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Laba Kuartal I Saudi Aramco Naik 26% Dipicu Kenaikan Harga Minyak",
+        "excerpt": "Perusahaan minyak negara Arab Saudi, Aramco, mencatat kenaikan laba bersih 26% pada kuartal pertama tahun ini, didorong harga minyak yang menguat akibat perang di Timur Tengah.",
+        "body": "Perusahaan minyak negara Arab Saudi, Aramco, membukukan lonjakan laba bersih pada kuartal pertama tahun ini, dipengaruhi antara lain oleh kenaikan harga minyak akibat perang di Timur Tengah. Laba bersih Aramco pada kuartal tersebut naik 26%, yang dipahami sebagai dampak dari menguatnya harga minyak mentah internasional terhadap profitabilitas perusahaan. Sebagai perusahaan minyak negara, kinerja Aramco menjadi perhatian karena mencerminkan kondisi keuangan negara produsen minyak dan arah pasar energi global. Kenaikan ini menunjukkan bahwa perubahan harga minyak dapat langsung tercermin dalam kinerja perusahaan energi besar. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c143f7be93f6",
+    "slug": "김정관-대미투자-기본원칙은-상업적-합리성미국도-인지-119425",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T11:34:07.059Z",
+    "updatedAt": "2026-05-10T11:34:07.059Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510042900003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510042900003",
+    "titleFingerprint": "2e83a5dad0f05a488cdc19c79acbc9b3c1b853b2",
+    "dedupKeys": [
+      "c143f7be93f6c429a50e78af237df006a3f048b2",
+      "2e83a5dad0f05a488cdc19c79acbc9b3c1b853b2",
+      "d90ee782bd6d33251143667f14d0ad36bf3ac129"
+    ],
+    "imageUrl": "/images/articles/c143f7be93f6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "김정관 장관, 대미투자 협상 원칙 재확인…“상업적 합리성 미국도 인지”",
+        "excerpt": "캐나다·미국 방문 일정을 마친 김정관 산업통상부 장관은 대미 투자 프로젝트 협상이 진행 중이라며 기본 원칙은 상업적 합리성이고 미국도 이를 인지하고 있다고 밝혔다.",
+        "body": "김정관 산업통상부 장관은 캐나다·미국 방문 일정을 마친 뒤 영종도에서 대미 투자 프로젝트와 관련해 협상이 진행 중이라고 밝혔다. 김 장관은 대미투자의 기본 원칙이 상업적 합리성이라는 점을 강조했고, 미국 측도 이를 인지하고 있다고 설명했다. 이번 발언은 대미 투자 협의가 이어지는 가운데 정부가 투자 판단의 기준을 재확인한 것으로 풀이된다. 구체적인 투자 규모나 세부 조건은 원문에 공개되지 않았다. 향후 협상은 상업적 타당성과 양측 인식을 바탕으로 계속될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Minister Kim Reaffirms U.S. Investment Principle: Commercial Rationality Recognized by Washington",
+        "excerpt": "After visits to Canada and the United States, Industry Minister Kim Jung-kwan said talks on U.S. investment projects are ongoing and that commercial rationality remains the core principle.",
+        "body": "Industry Minister Kim Jung-kwan said in Yeongjongdo after completing visits to Canada and the United States that negotiations on investment projects in the U.S. are still under way. Kim stressed that the basic principle for U.S.-bound investment is commercial rationality, adding that the United States is also aware of that position. The remarks reaffirm the government’s criteria as investment discussions with Washington continue. The original report did not disclose specific investment amounts or detailed conditions. Future talks are expected to proceed on the basis of commercial feasibility and shared understanding. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "金正官産業相、対米投資の原則を再確認「商業的合理性を米国も認識」",
+        "excerpt": "カナダと米国訪問を終えた金正官産業通商部長官は、対米投資プロジェクトの協議が続いており、基本原則は商業的合理性だと述べた。",
+        "body": "金正官産業通商部長官は、カナダと米国訪問の日程を終えた後、永宗島で対米投資プロジェクトに関する交渉が進行中だと明らかにした。金長官は、対米投資の基本原則は商業的合理性であると強調し、米国側もこの点を認識していると説明した。今回の発言は、対米投資協議が続く中で、政府が投資判断の基準を改めて示したものと受け止められる。具体的な投資規模や詳細条件は原文では公開されていない。今後の交渉は、商業的妥当性と双方の認識を土台に続く見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "金正官重申对美投资原则：商业合理性已获美方认知",
+        "excerpt": "结束加拿大和美国访问后，韩国产业通商部长官金正官表示，对美投资项目谈判仍在进行，基本原则是商业合理性，美方也已知悉。",
+        "body": "韩国产业通商部长官金正官在结束加拿大和美国访问行程后，于永宗岛表示，围绕对美投资项目的谈判仍在进行。金正官强调，对美投资的基本原则是商业合理性，并说明美国方面也已认知这一立场。此番表态是在对美投资磋商持续推进的背景下，韩国政府再次确认投资判断标准。原文未公开具体投资规模或详细条件。未来谈判预计将以商业可行性和双方认知为基础继续推进。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Kim Jung-kwan reafirma el principio de inversión en EE. UU.: racionalidad comercial",
+        "excerpt": "Tras visitar Canadá y Estados Unidos, el ministro Kim Jung-kwan dijo que las negociaciones sobre proyectos de inversión en EE. UU. siguen abiertas y se basan en la racionalidad comercial.",
+        "body": "El ministro de Industria, Comercio y Energía, Kim Jung-kwan, declaró en Yeongjongdo, tras concluir su agenda de visitas a Canadá y Estados Unidos, que las negociaciones sobre proyectos de inversión en EE. UU. continúan. Kim subrayó que el principio básico de la inversión en Estados Unidos es la racionalidad comercial y añadió que la parte estadounidense también lo reconoce. Sus declaraciones reafirman el criterio del gobierno mientras avanzan las conversaciones sobre inversión. El reporte original no divulgó montos concretos ni condiciones detalladas. Las negociaciones futuras seguirán sobre la base de la viabilidad comercial y el entendimiento de ambas partes. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Kim Jung-kwan reafirma princípio para investir nos EUA: racionalidade comercial",
+        "excerpt": "Após visitas ao Canadá e aos Estados Unidos, o ministro Kim Jung-kwan disse que as negociações sobre projetos de investimento nos EUA continuam e seguem a racionalidade comercial.",
+        "body": "O ministro da Indústria, Comércio e Energia, Kim Jung-kwan, afirmou em Yeongjongdo, após concluir visitas ao Canadá e aos Estados Unidos, que as negociações sobre projetos de investimento nos EUA seguem em andamento. Kim destacou que o princípio básico para o investimento nos Estados Unidos é a racionalidade comercial e disse que o lado americano também reconhece essa posição. A declaração reafirma o critério do governo enquanto as conversas de investimento continuam. O texto original não revelou valores específicos nem condições detalhadas. As próximas negociações devem avançar com base na viabilidade comercial e no entendimento entre as partes. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Kim Jung-kwan bekräftigt Grundsatz für US-Investitionen: kommerzielle Vernunft",
+        "excerpt": "Nach Besuchen in Kanada und den USA sagte Industrieminister Kim Jung-kwan, die Gespräche über US-Investitionsprojekte liefen weiter; maßgeblich sei kommerzielle Rationalität.",
+        "body": "Industrieminister Kim Jung-kwan sagte nach Abschluss seiner Besuche in Kanada und den Vereinigten Staaten in Yeongjongdo, dass die Verhandlungen über Investitionsprojekte in den USA weiterlaufen. Kim betonte, der grundlegende Maßstab für Investitionen in den USA sei kommerzielle Rationalität, und erklärte, auch die US-Seite sei sich dieser Position bewusst. Die Äußerung bestätigt den Regierungsmaßstab, während die Investitionsgespräche fortgesetzt werden. Konkrete Investitionssummen oder detaillierte Bedingungen wurden im Originalbericht nicht genannt. Die weiteren Gespräche dürften auf kommerzieller Tragfähigkeit und dem Verständnis beider Seiten beruhen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Kim Jung-kwan réaffirme le principe des investissements aux États-Unis",
+        "excerpt": "Après des visites au Canada et aux États-Unis, le ministre Kim Jung-kwan a indiqué que les négociations sur les projets d’investissement américains se poursuivent selon la rationalité commerciale.",
+        "body": "Le ministre de l’Industrie, du Commerce et de l’Énergie, Kim Jung-kwan, a déclaré à Yeongjongdo, après avoir terminé ses visites au Canada et aux États-Unis, que les négociations sur les projets d’investissement aux États-Unis étaient toujours en cours. Il a souligné que le principe de base des investissements américains était la rationalité commerciale, ajoutant que la partie américaine en était également consciente. Ces propos réaffirment le critère du gouvernement alors que les discussions se poursuivent. Le rapport original ne précise ni montants d’investissement ni conditions détaillées. Les prochaines négociations devraient se poursuivre sur la base de la viabilité commerciale et de la compréhension mutuelle. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كيم جونغ-كوان يؤكد مبدأ الاستثمار في أميركا: الجدوى التجارية أولا",
+        "excerpt": "بعد انتهاء زيارتيه إلى كندا والولايات المتحدة، قال وزير الصناعة كيم جونغ-كوان إن مفاوضات مشاريع الاستثمار في أميركا مستمرة وإن المبدأ الأساسي هو الجدوى التجارية.",
+        "body": "قال وزير الصناعة والتجارة والطاقة كيم جونغ-كوان في يونغجونغدو، بعد إنهاء جدول زيارتيه إلى كندا والولايات المتحدة، إن المفاوضات بشأن مشاريع الاستثمار في الولايات المتحدة لا تزال جارية. وأكد كيم أن المبدأ الأساسي للاستثمار في أميركا هو الجدوى التجارية، موضحا أن الجانب الأميركي يدرك هذا الموقف أيضا. وتأتي هذه التصريحات في ظل استمرار مشاورات الاستثمار مع الولايات المتحدة، لتعيد الحكومة تأكيد معيارها في اتخاذ قرارات الاستثمار. ولم يورد النص الأصلي حجما محددا للاستثمار أو شروطا تفصيلية. ومن المتوقع أن تستمر المفاوضات على أساس الجدوى التجارية وإدراك الطرفين. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "किम जंग-क्वान ने अमेरिका निवेश सिद्धांत दोहराया: व्यावसायिक तर्कसंगतता अहम",
+        "excerpt": "कनाडा और अमेरिका यात्रा पूरी करने के बाद उद्योग मंत्री किम जंग-क्वान ने कहा कि अमेरिकी निवेश परियोजनाओं पर वार्ता जारी है और मूल सिद्धांत व्यावसायिक तर्कसंगतता है।",
+        "body": "उद्योग, व्यापार और ऊर्जा मंत्री किम जंग-क्वान ने कनाडा और अमेरिका की यात्रा पूरी करने के बाद येओंगजोंगदो में कहा कि अमेरिका में निवेश परियोजनाओं से जुड़ी बातचीत जारी है। किम ने जोर दिया कि अमेरिकी निवेश का मूल सिद्धांत व्यावसायिक तर्कसंगतता है और बताया कि अमेरिका भी इस रुख से अवगत है। यह बयान ऐसे समय आया है जब अमेरिका के साथ निवेश संबंधी परामर्श जारी हैं और सरकार ने निवेश निर्णय के मानक को फिर स्पष्ट किया है। मूल रिपोर्ट में निवेश राशि या विस्तृत शर्तों का खुलासा नहीं किया गया। आगे की वार्ता व्यावसायिक व्यवहार्यता और दोनों पक्षों की समझ के आधार पर जारी रहने की संभावना है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kim Jung-kwan Tegaskan Prinsip Investasi AS: Rasionalitas Komersial",
+        "excerpt": "Setelah kunjungan ke Kanada dan Amerika Serikat, Menteri Kim Jung-kwan mengatakan negosiasi proyek investasi di AS masih berlangsung dengan prinsip utama rasionalitas komersial.",
+        "body": "Menteri Perindustrian, Perdagangan, dan Energi Kim Jung-kwan mengatakan di Yeongjongdo setelah menyelesaikan kunjungan ke Kanada dan Amerika Serikat bahwa negosiasi terkait proyek investasi di AS masih berlangsung. Kim menegaskan bahwa prinsip dasar investasi ke Amerika Serikat adalah rasionalitas komersial, dan pihak AS juga memahami hal tersebut. Pernyataan ini menegaskan kembali standar pemerintah dalam pengambilan keputusan investasi di tengah berlanjutnya pembahasan dengan AS. Laporan asli tidak mengungkapkan nilai investasi atau syarat rinci. Negosiasi ke depan diperkirakan berlanjut berdasarkan kelayakan komersial dan pemahaman kedua pihak. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "fe435c2b122a",
+    "slug": "맘대로-탈퇴-안돼-7시간반-대치대학-동아리서-무슨-일이종합-864272",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T11:32:51.801Z",
+    "updatedAt": "2026-05-10T11:32:51.802Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508154551004",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508154551004",
+    "titleFingerprint": "20743069eb15d50e3c1d2b824a41b57900d62a16",
+    "dedupKeys": [
+      "fe435c2b122a16f6bee8ebdea5111893a0743d36",
+      "20743069eb15d50e3c1d2b824a41b57900d62a16",
+      "6a552d20aaa0d2d475597ec029737e5a25be7d12"
+    ],
+    "imageUrl": "/images/articles/fe435c2b122a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "대학 동아리 프로젝트 탈퇴 논란, ‘해외여행’ 이유로 7시간반 대치",
+        "excerpt": "연합뉴스는 서울에서 대학 동아리 프로젝트 탈퇴 의사를 밝힌 구성원을 둘러싸고 7시간반 대치가 벌어진 사안을 보도했다.",
+        "body": "서울에서 한 대학 동아리 프로젝트 탈퇴를 둘러싼 대치가 벌어졌다고 연합뉴스가 보도했다. 보도에 따르면 한 구성원은 “해외여행을 가야 해서 프로젝트를 탈퇴하겠습니다”라고 밝혔고, 이후 마음대로 탈퇴할 수 없다는 취지의 상황 속에서 7시간반 동안 대치가 이어졌다. 사건은 대학 동아리 내부의 프로젝트 참여와 탈퇴 문제를 둘러싼 갈등으로 전해졌다. 구체적인 경위와 당사자 간 입장 차이는 원문 보도에서 다뤄졌으며, 대학 동아리 운영 방식과 구성원 자율성 문제에 대한 관심으로 이어질 수 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "University Club Project Exit Dispute: 7.5-Hour Standoff Over Travel Reason",
+        "excerpt": "Yonhap reported from Seoul on a university club project dispute after a member said they would leave because they had to travel overseas.",
+        "body": "Yonhap News reported from Seoul that a standoff occurred over a member’s attempt to leave a university club project. According to the report, the member said, “I have to travel overseas, so I will withdraw from the project,” and a confrontation continued for seven and a half hours amid claims that leaving could not be done at will. The case was described as a conflict inside a university club over participation in and withdrawal from a project. The detailed circumstances and differing positions of those involved were covered in the original report, and the case may draw attention to club management and member autonomy. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "大学サークルのプロジェクト脱退めぐり対立、海外旅行理由に7時間半",
+        "excerpt": "聯合ニュースはソウル発で、大学サークルのプロジェクト脱退を申し出たメンバーをめぐり7時間半の対立が起きたと報じた。",
+        "body": "ソウルで、大学サークルのプロジェクト脱退をめぐる対立が起きたと聯合ニュースが報じた。報道によると、あるメンバーは「海外旅行に行かなければならないので、プロジェクトを脱退します」と伝え、その後、勝手に脱退できないという趣旨の状況の中で7時間半にわたる対立が続いた。事案は、大学サークル内部でのプロジェクト参加と脱退をめぐる葛藤と伝えられている。具体的な経緯や当事者間の立場の違いは原文報道で扱われており、サークル運営とメンバーの自律性をめぐる関心につながる可能性がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "大学社团项目退出争议：因海外旅行引发7个半小时对峙",
+        "excerpt": "韩联社首尔报道称，一名大学社团项目成员以需出国旅行为由提出退出后，围绕此事发生了7个半小时对峙。",
+        "body": "韩联社报道称，首尔发生一起围绕大学社团项目退出的对峙事件。据报道，一名成员表示“因为要去海外旅行，我将退出项目”，随后在不能随意退出的相关情境下，对峙持续了7个半小时。该事件被描述为大学社团内部围绕项目参与和退出问题产生的矛盾。具体经过以及当事人之间的立场差异已在原文报道中呈现，此事可能引发外界对大学社团运营方式和成员自主性的关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Disputa por dejar un proyecto universitario: 7 horas y media de tensión",
+        "excerpt": "Yonhap informó desde Seúl sobre un conflicto en un club universitario después de que un miembro dijera que dejaría un proyecto por un viaje al extranjero.",
+        "body": "Yonhap informó desde Seúl que se produjo un enfrentamiento por la salida de un miembro de un proyecto de un club universitario. Según el reporte, la persona dijo: “Tengo que viajar al extranjero, así que dejaré el proyecto”, y luego la tensión se prolongó durante siete horas y media en un contexto en el que se sostenía que no podía retirarse a voluntad. El caso fue presentado como un conflicto interno de un club universitario sobre la participación y la retirada de un proyecto. Los detalles y las diferencias entre las partes fueron tratados en la nota original, y el hecho puede generar interés sobre la gestión de clubes y la autonomía de sus integrantes. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Saída de projeto em clube universitário gera impasse de 7 horas e meia",
+        "excerpt": "A Yonhap informou, de Seul, que um integrante de um clube universitário disse que deixaria um projeto por viagem ao exterior, gerando um impasse.",
+        "body": "A Yonhap informou, de Seul, que houve um impasse em torno da tentativa de um integrante de deixar um projeto de um clube universitário. Segundo a reportagem, a pessoa afirmou: “Preciso viajar ao exterior, por isso vou sair do projeto”, e depois a situação se estendeu por sete horas e meia sob a alegação de que a saída não poderia ocorrer livremente. O caso foi descrito como um conflito interno sobre participação e desligamento de um projeto em um clube universitário. As circunstâncias detalhadas e as diferenças entre as partes foram tratadas na reportagem original, e o episódio pode chamar atenção para a gestão de clubes e a autonomia dos membros. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Ausstieg aus Uni-Club-Projekt führt zu siebeneinhalbstündigem Streit",
+        "excerpt": "Yonhap berichtete aus Seoul über einen Streit in einem Universitätsclub, nachdem ein Mitglied wegen einer Auslandsreise den Projektausstieg angekündigt hatte.",
+        "body": "Yonhap News berichtete aus Seoul, dass es wegen des Ausstiegs eines Mitglieds aus einem Projekt eines Universitätsclubs zu einer Auseinandersetzung kam. Dem Bericht zufolge sagte das Mitglied: „Ich muss ins Ausland reisen, deshalb werde ich aus dem Projekt aussteigen.“ Danach dauerte die Konfrontation siebeneinhalb Stunden an, in einer Situation, in der es hieß, ein Austritt sei nicht nach Belieben möglich. Der Fall wurde als interner Konflikt eines Universitätsclubs über Teilnahme und Austritt aus einem Projekt geschildert. Die genauen Umstände und die unterschiedlichen Positionen der Beteiligten wurden im Originalbericht behandelt. Der Vorfall kann Aufmerksamkeit auf Cluborganisation und die Autonomie von Mitgliedern lenken. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Projet de club universitaire: un départ contesté mène à 7 h 30 de face-à-face",
+        "excerpt": "Yonhap a rapporté depuis Séoul qu’un membre d’un club universitaire voulant quitter un projet pour un voyage à l’étranger a été au centre d’un face-à-face.",
+        "body": "Yonhap a rapporté depuis Séoul qu’un face-à-face a eu lieu autour du retrait d’un membre d’un projet de club universitaire. Selon l’agence, la personne a déclaré: « Je dois voyager à l’étranger, donc je vais quitter le projet », puis la confrontation a duré sept heures et demie dans un contexte où il était soutenu qu’un départ ne pouvait pas se faire librement. L’affaire est présentée comme un conflit interne à un club universitaire sur la participation et le retrait d’un projet. Les circonstances détaillées et les différences de position entre les parties sont traitées dans l’article original, et l’épisode pourrait attirer l’attention sur la gestion des clubs et l’autonomie des membres. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "نزاع حول الانسحاب من مشروع ناد جامعي يستمر 7 ساعات ونصف",
+        "excerpt": "أفادت يونهاب من سيول بأن عضوا في ناد جامعي أعلن الانسحاب من مشروع بسبب السفر إلى الخارج، ما أدى إلى مواجهة استمرت 7 ساعات ونصف.",
+        "body": "أفادت وكالة يونهاب من سيول بوقوع مواجهة حول محاولة عضو الانسحاب من مشروع تابع لناد جامعي. وبحسب التقرير، قال العضو: «يجب أن أسافر إلى الخارج، لذلك سأنسحب من المشروع»، ثم استمرت المواجهة سبع ساعات ونصف في ظل موقف يفيد بأن الانسحاب لا يمكن أن يتم بمحض الإرادة. ووصفت القضية بأنها خلاف داخل ناد جامعي بشأن المشاركة في مشروع والانسحاب منه. وقد تناول التقرير الأصلي تفاصيل الملابسات واختلاف مواقف الأطراف المعنية، وقد يثير الحادث اهتماما بطريقة إدارة الأندية الجامعية واستقلالية أعضائها. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "विश्वविद्यालय क्लब परियोजना छोड़ने पर विवाद, 7.5 घंटे तक टकराव",
+        "excerpt": "योनहाप ने सियोल से बताया कि एक विश्वविद्यालय क्लब परियोजना में सदस्य ने विदेश यात्रा के कारण हटने की बात कही, जिसके बाद 7.5 घंटे टकराव रहा।",
+        "body": "योनहाप ने सियोल से बताया कि एक विश्वविद्यालय क्लब की परियोजना से सदस्य के हटने को लेकर टकराव हुआ। रिपोर्ट के अनुसार, सदस्य ने कहा, “मुझे विदेश यात्रा पर जाना है, इसलिए मैं परियोजना से हटूंगा,” और इसके बाद यह स्थिति बनी रही कि मनमाने तरीके से हटना संभव नहीं है। टकराव सात घंटे और आधे समय तक चला। यह मामला विश्वविद्यालय क्लब के भीतर परियोजना में भागीदारी और उससे हटने के मुद्दे पर पैदा हुए विवाद के रूप में बताया गया। विस्तृत घटनाक्रम और संबंधित पक्षों के अलग-अलग रुख मूल रिपोर्ट में दिए गए हैं। यह घटना क्लब संचालन और सदस्यों की स्वायत्तता पर ध्यान खींच सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kontroversi Keluar dari Proyek Klub Kampus Berujung Kebuntuan 7,5 Jam",
+        "excerpt": "Yonhap melaporkan dari Seoul bahwa anggota klub kampus yang ingin keluar dari proyek karena perjalanan ke luar negeri memicu kebuntuan 7,5 jam.",
+        "body": "Yonhap melaporkan dari Seoul bahwa terjadi kebuntuan terkait keinginan seorang anggota untuk keluar dari proyek klub kampus. Menurut laporan itu, anggota tersebut mengatakan, “Saya harus pergi ke luar negeri, jadi saya akan keluar dari proyek,” lalu kebuntuan berlangsung selama tujuh setengah jam dalam situasi yang menyatakan bahwa keluar tidak bisa dilakukan sesuka hati. Peristiwa ini disebut sebagai konflik internal klub kampus mengenai partisipasi dan pengunduran diri dari proyek. Rincian kejadian serta perbedaan sikap para pihak dibahas dalam laporan asli, dan kasus ini dapat menarik perhatian pada cara pengelolaan klub serta otonomi anggota. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "a1aa2b4ad6bc",
     "slug": "한국타이어-분석-안정적-수익과-주주환원-확대까지원가-상승은-리스크-요인-972466",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Revolusi AI Masih Awal, Mirae Asset Sebut Saham Korea Bisa Naik Lagi",
         "excerpt": "Kim Seung-beom dari Mirae Asset Global Investments mengatakan kepada Yonhap bahwa revolusi industri AI masih tahap awal dan pasar saham Korea berpotensi naik lebih lanjut.",
         "body": "Kim Seung-beom, kepala alokasi aset di Mirae Asset Global Investments, mengatakan dalam wawancara dengan Yonhap bahwa revolusi industri kecerdasan buatan (AI) masih berada pada tahap awal dan pasar saham domestik dapat naik lebih lanjut. Ia menekankan bahwa AI sedang mendorong perubahan di berbagai sektor industri. Pernyataan ini muncul ketika ekspektasi pertumbuhan terkait AI memengaruhi sentimen investasi di pasar saham. Dari sudut pandang alokasi aset, Kim mengaitkan tahap perkembangan revolusi AI dengan prospek saham Korea, yang menunjukkan bahwa investor perlu mencermati perubahan teknologi sekaligus tren pasar. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d50c6782164e",
-    "slug": "마켓인사이트-7천피-달성-韓증시-한주만-8천피-도전-나서나-555894",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T22:14:25.455Z",
-    "updatedAt": "2026-05-09T22:14:25.455Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508177100008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508177100008",
-    "titleFingerprint": "ee4e3947aae881db9edd6fd85c9770edd0f7c764",
-    "dedupKeys": [
-      "d50c6782164e3e27e0fc4daf755c5db80736ac2b",
-      "ee4e3947aae881db9edd6fd85c9770edd0f7c764",
-      "8ecc630586c8d9d22f00d1f26f1894a8b4537b87"
-    ],
-    "imageUrl": "/images/articles/d50c6782164e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "7천피 달성 한국 증시, 반도체주 초강세 타고 8천피 도전 주목",
-        "excerpt": "지난주 한국 증시는 반도체주 초강세에 힘입어 폭발적으로 상승하며 7천피를 달성했고, 시장은 한 주 만의 8천피 도전 가능성에 주목하고 있다.",
-        "body": "지난주 국내 증시는 반도체주 초강세에 힘입어 폭발적인 상승세를 보이며 ‘7천피’ 달성에 성공했다. 서울발 보도에 따르면 이번 상승의 핵심 배경은 반도체주 강세였고, 이에 따라 시장의 관심은 한 주 만에 ‘8천피’ 도전에 나설 수 있을지로 옮겨가고 있다. 다만 원문은 구체적인 종목별 수치나 추가 지표를 제시하지 않았다. 향후 흐름은 반도체주 강세가 이어지는지와 국내 증시 전반의 상승 동력이 유지되는지가 관건으로 거론된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Korean Stocks Hit 7,000 Points as Chip Rally Puts 8,000 in Focus",
-        "excerpt": "Korean shares surged last week on exceptional strength in semiconductor stocks, reaching the 7,000-point mark and drawing attention to whether 8,000 could be tested within a week.",
-        "body": "South Korean stocks posted an explosive rally last week, powered by a sharp advance in semiconductor shares, and succeeded in reaching the “7,000-point” level. According to the Seoul-datelined report, the key driver behind the move was strong performance in chip-related stocks. Market attention has now shifted to whether the index can attempt the “8,000-point” level just one week later. The original report did not provide detailed figures by stock or additional indicators. The next phase will depend on whether semiconductor strength continues and whether broader momentum in the domestic market is sustained. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "韓国株7千ポイント達成、半導体株急伸で8千ポイント挑戦に注目",
-        "excerpt": "先週の韓国株式市場は半導体株の非常に強い上昇に支えられて急伸し、7千ポイントを達成した。市場は一週間で8千ポイントに挑むか注目している。",
-        "body": "先週の韓国国内株式市場は、半導体株の非常に強い動きに支えられ、爆発的な上昇を見せて「7千ポイント」達成に成功した。ソウル発の報道によると、今回の上昇の中心的な背景は半導体株の強さだった。これにより市場の関心は、わずか一週間で「8千ポイント」への挑戦に進めるかどうかに移っている。ただし原文では、個別銘柄ごとの具体的な数値や追加指標は示されていない。今後は半導体株の強さが続くか、国内株式市場全体の上昇力が維持されるかが焦点となる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国股市达成7000点，半导体股强势推升8000点关注度",
-        "excerpt": "上周韩国股市在半导体股强劲上涨带动下出现爆发式升势并达成7000点，市场正关注其是否会在一周内向8000点发起挑战。",
-        "body": "上周韩国国内股市在半导体股超强走势推动下出现爆发式上涨，成功达成“7000点”。据首尔报道，本轮上涨的核心背景是半导体股走强，因此市场关注点已转向韩国股市是否会在一周内挑战“8000点”。不过，原文并未提供具体个股数据或其他补充指标。后续走势的关键在于半导体股强势能否延续，以及韩国国内股市整体上行动能能否保持。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Bolsa coreana alcanza 7.000 puntos y mira a 8.000 por impulso de chips",
-        "excerpt": "La bolsa surcoreana subió con fuerza la semana pasada gracias al gran avance de los valores de semiconductores, alcanzó los 7.000 puntos y centra la atención en un posible reto a 8.000.",
-        "body": "La bolsa surcoreana registró la semana pasada un avance explosivo, impulsado por la marcada fortaleza de las acciones de semiconductores, y logró alcanzar el nivel de los “7.000 puntos”. Según el reporte fechado en Seúl, el principal factor detrás del alza fue el fuerte desempeño de los valores vinculados a chips. La atención del mercado se ha desplazado ahora a si el mercado podrá intentar los “8.000 puntos” apenas una semana después. El texto original no ofreció cifras específicas por acción ni indicadores adicionales. La evolución dependerá de si continúa la fortaleza de semiconductores y si se mantiene el impulso general de la bolsa local. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Bolsa coreana atinge 7.000 pontos com chips e mira teste dos 8.000",
-        "excerpt": "A bolsa sul-coreana avançou fortemente na semana passada com a grande força das ações de semicondutores, chegou aos 7.000 pontos e agora chama atenção para possível teste dos 8.000.",
-        "body": "A bolsa sul-coreana registrou na semana passada uma alta explosiva, sustentada pela forte valorização das ações de semicondutores, e conseguiu alcançar a marca dos “7.000 pontos”. Segundo a reportagem com origem em Seul, o principal pano de fundo da alta foi a força dos papéis ligados a chips. Com isso, a atenção do mercado passou para a possibilidade de uma tentativa de chegar aos “8.000 pontos” apenas uma semana depois. O texto original não apresentou números detalhados por ação nem indicadores adicionais. O próximo movimento dependerá da continuidade da força dos semicondutores e da manutenção do impulso geral do mercado doméstico. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Koreas Aktienmarkt erreicht 7.000 Punkte, Chipwerte lenken Blick auf 8.000",
-        "excerpt": "Der südkoreanische Aktienmarkt stieg vergangene Woche dank sehr starker Halbleiterwerte kräftig, erreichte 7.000 Punkte und richtet den Fokus nun auf einen möglichen Test von 8.000.",
-        "body": "Der südkoreanische Aktienmarkt verzeichnete in der vergangenen Woche einen explosiven Anstieg, getragen von der außergewöhnlichen Stärke der Halbleiterwerte, und erreichte die Marke von „7.000 Punkten“. Laut dem Bericht aus Seoul war die Stärke der Chip-Aktien der zentrale Hintergrund dieser Bewegung. Damit richtet sich die Aufmerksamkeit des Marktes nun darauf, ob bereits eine Woche später ein Vorstoß in Richtung „8.000 Punkte“ möglich ist. Der Originalbericht nannte keine konkreten Einzeltitelzahlen oder zusätzlichen Indikatoren. Entscheidend wird sein, ob die Stärke der Halbleiterwerte anhält und ob die Aufwärtsdynamik des heimischen Marktes insgesamt bestehen bleibt. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "La Bourse coréenne atteint 7.000 points, les puces placent 8.000 en vue",
-        "excerpt": "La Bourse sud-coréenne a fortement progressé la semaine dernière grâce à la vigueur des valeurs de semi-conducteurs, atteignant 7.000 points et attirant l’attention sur les 8.000.",
-        "body": "La Bourse sud-coréenne a enregistré la semaine dernière une progression explosive, portée par la très forte hausse des valeurs de semi-conducteurs, et a réussi à atteindre le seuil des « 7.000 points ». Selon le reportage daté de Séoul, la principale raison de cette progression a été la vigueur des actions liées aux puces. L’attention du marché se tourne désormais vers la possibilité d’une tentative vers les « 8.000 points » en seulement une semaine. Le texte original ne fournit pas de chiffres détaillés par valeur ni d’indicateurs supplémentaires. La suite dépendra de la poursuite de la force des semi-conducteurs et du maintien de l’élan global du marché domestique. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "الأسهم الكورية تبلغ 7000 نقطة بدعم الرقائق والأنظار على 8000",
-        "excerpt": "ارتفعت الأسهم الكورية الجنوبية بقوة الأسبوع الماضي بفضل الأداء القوي لأسهم أشباه الموصلات، وبلغت مستوى 7000 نقطة، ما وجّه الانتباه إلى احتمال اختبار 8000 نقطة خلال أسبوع.",
-        "body": "سجلت السوق الكورية الجنوبية الأسبوع الماضي صعودا قويا للغاية، مدفوعة بالقوة الكبيرة في أسهم أشباه الموصلات، ونجحت في بلوغ مستوى “7000 نقطة”. وبحسب تقرير من سول، كان الأداء القوي لأسهم الرقائق هو الخلفية الرئيسية لهذا الارتفاع. ومع ذلك، تحوّل اهتمام السوق الآن إلى ما إذا كانت الأسهم المحلية ستتجه إلى محاولة بلوغ مستوى “8000 نقطة” بعد أسبوع واحد فقط. ولم يورد النص الأصلي أرقاما تفصيلية حسب الأسهم أو مؤشرات إضافية. وسيعتمد المسار المقبل على استمرار قوة أسهم أشباه الموصلات وعلى بقاء زخم الصعود في السوق المحلية عموما. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "कोरियाई शेयर 7,000 अंक पर, चिप शेयरों की तेजी से 8,000 पर नजर",
-        "excerpt": "दक्षिण कोरियाई शेयर बाजार पिछले सप्ताह सेमीकंडक्टर शेयरों की मजबूत तेजी से उछला, 7,000 अंक तक पहुंचा और अब बाजार की नजर एक सप्ताह में 8,000 अंक की चुनौती पर है।",
-        "body": "दक्षिण कोरिया के घरेलू शेयर बाजार ने पिछले सप्ताह सेमीकंडक्टर शेयरों की बेहद मजबूत बढ़त के सहारे विस्फोटक तेजी दिखाई और “7,000 अंक” का स्तर हासिल किया। सियोल से आई रिपोर्ट के अनुसार, इस उछाल की मुख्य पृष्ठभूमि चिप शेयरों की मजबूती रही। इसके बाद बाजार का ध्यान इस बात पर केंद्रित हो गया है कि क्या सूचकांक सिर्फ एक सप्ताह में “8,000 अंक” की चुनौती पेश कर सकता है। मूल रिपोर्ट में अलग-अलग शेयरों के ठोस आंकड़े या अतिरिक्त संकेतक नहीं दिए गए। आगे की चाल इस पर निर्भर करेगी कि सेमीकंडक्टर शेयरों की मजबूती जारी रहती है या नहीं और घरेलू बाजार की व्यापक तेजी बनी रहती है या नहीं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Saham Korea Capai 7.000 Poin, Reli Chip Buka Fokus ke 8.000",
-        "excerpt": "Pasar saham Korea Selatan melonjak pekan lalu berkat kekuatan besar saham semikonduktor, mencapai 7.000 poin, dan kini perhatian tertuju pada peluang menantang 8.000 poin dalam sepekan.",
-        "body": "Pasar saham domestik Korea Selatan pekan lalu mencatat kenaikan eksplosif, ditopang oleh kekuatan besar saham semikonduktor, dan berhasil mencapai level “7.000 poin”. Menurut laporan dari Seoul, latar utama kenaikan tersebut adalah penguatan saham-saham terkait chip. Perhatian pasar kini bergeser pada apakah pasar dapat mencoba menembus level “8.000 poin” hanya dalam satu pekan. Naskah asli tidak menyajikan angka rinci per saham ataupun indikator tambahan. Arah berikutnya akan bergantung pada apakah kekuatan saham semikonduktor berlanjut dan apakah momentum kenaikan pasar domestik secara luas tetap terjaga. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1eaef05efd5d",
-    "slug": "힘빠진다-더-가져갈까-팔까불장에-깊어진-개미들의-고민-356312",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T22:13:31.253Z",
-    "updatedAt": "2026-05-09T22:13:31.253Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509025500008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509025500008",
-    "titleFingerprint": "34d53e9c1bfe6af67b76b3683951fef78ac43229",
-    "dedupKeys": [
-      "1eaef05efd5d8b004bc44aa7845f268ac0780ace",
-      "34d53e9c1bfe6af67b76b3683951fef78ac43229",
-      "01298f29ffe45692900da7f69dc36656ba75a1f9"
-    ],
-    "imageUrl": "/images/articles/1eaef05efd5d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7천피 돌파에 개미 고민 커져…불장 속 보유·매도 갈림길",
-        "excerpt": "코스피가 연초 대비 70% 이상 오르며 7천피를 넘어선 가운데 개인투자자들은 더 가져갈지 팔지 고민이 깊어지고 있다.",
-        "body": "서울에서 연합뉴스 김유아 기자는 코스피가 ‘7천피’를 돌파하며 연초 대비 70% 이상 상승한 가운데 개인투자자, 이른바 개미들의 고민이 커지고 있다고 전했다. 강한 상승장이 이어지면서 투자자들은 기존 보유분을 계속 가져갈지, 추가로 매수할지, 차익 실현에 나설지 갈림길에 섰다. 지수가 크게 오른 만큼 상승 흐름에 대한 기대와 가격 부담이 동시에 부각되는 상황이다. 이번 흐름은 개인투자자의 투자 판단과 시장 심리에 영향을 줄 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Tops 7,000 as Retail Investors Weigh Holding, Buying or Selling",
-        "excerpt": "As the KOSPI rises more than 70% from the start of the year and breaks above 7,000, retail investors are increasingly debating whether to hold, buy more or sell.",
-        "body": "In Seoul, Yonhap News Agency reporter Kim Yu-a said the KOSPI has broken above the 7,000 mark after rising more than 70% from the start of the year, deepening concerns among retail investors. As the strong bull market continues, individual investors are weighing whether to keep their existing holdings, add more positions or take profits. With the index having climbed sharply, expectations for further gains and concerns over stretched prices are emerging at the same time. The trend may affect retail investment decisions and market sentiment. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "KOSPIが7,000突破、個人投資家に保有・買い増し・売却の悩み",
-        "excerpt": "KOSPIが年初比70％超上昇して7,000を突破する中、個人投資家は保有を続けるか、買い増すか、売るかで悩みを深めている。",
-        "body": "ソウル発の聯合ニュースでキム・ユア記者は、KOSPIが「7,000」を突破し、年初比で70％以上上昇する中、個人投資家の悩みが深まっていると伝えた。強い上昇相場が続くなか、投資家は既存の保有分を持ち続けるのか、さらに買い増すのか、利益確定に動くのかの分岐点に立っている。指数が大きく上昇しただけに、追加上昇への期待と価格負担が同時に意識される状況だ。この流れは個人の投資判断と市場心理に影響を与え得る。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI突破7000点，散户在持有、加仓与卖出间更纠结",
-        "excerpt": "KOSPI较年初上涨逾70%并突破7000点之际，个人投资者正在为继续持有、追加买入还是卖出获利而加深 고민。",
-        "body": "据韩联社首尔报道，记者金宥娥称，KOSPI突破“7000点”，较年初上涨超过70%，个人投资者也就是散户的 고민正在加深。随着强劲牛市延续，投资者站在分岔路口：是继续持有现有仓位、进一步买入，还是选择获利了结。指数已大幅上涨，因此对继续上涨的期待与对价格负担的担忧同时浮现。这一走势可能影响个人投资者的判断和市场情绪。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "El KOSPI supera los 7.000 puntos y los minoristas dudan si mantener o vender",
-        "excerpt": "Con el KOSPI por encima de 7.000 puntos tras subir más de 70% desde comienzos de año, los inversores minoristas debaten si mantener, comprar más o vender.",
-        "body": "Desde Seúl, la reportera Kim Yu-a de Yonhap informó que el KOSPI superó la marca de los 7.000 puntos tras avanzar más de 70% desde comienzos de año, lo que ha profundizado las dudas de los inversores minoristas. Mientras continúa el fuerte mercado alcista, los particulares evalúan si conservar sus posiciones, aumentar compras o tomar ganancias. Dado el fuerte avance del índice, conviven las expectativas de nuevas subidas y la preocupación por el nivel de precios. Esta dinámica puede influir en sus decisiones y en el ánimo del mercado. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI passa de 7.000 pontos e pequenos investidores avaliam manter ou vender",
-        "excerpt": "Com o KOSPI acima de 7.000 pontos após alta de mais de 70% desde o início do ano, investidores individuais discutem se mantêm, compram mais ou vendem.",
-        "body": "Em Seul, a repórter Kim Yu-a, da Yonhap, informou que o KOSPI rompeu a marca dos 7.000 pontos depois de subir mais de 70% desde o início do ano, aumentando as dúvidas dos investidores individuais. Com a forte tendência de alta ainda em curso, eles avaliam se mantêm as posições existentes, compram mais ou realizam lucros. Como o índice avançou de forma expressiva, expectativas de novas altas e preocupações com o nível dos preços aparecem ao mesmo tempo. Esse movimento pode afetar decisões de investimento e o sentimento do mercado. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "KOSPI über 7.000 Punkte: Privatanleger ringen mit Halten, Kaufen oder Verkaufen",
-        "excerpt": "Der KOSPI ist seit Jahresbeginn um mehr als 70% gestiegen und über 7.000 Punkte geklettert; Privatanleger fragen sich nun, ob sie halten, zukaufen oder verkaufen sollen.",
-        "body": "Aus Seoul berichtete Yonhap-Reporterin Kim Yu-a, dass der KOSPI die Marke von 7.000 Punkten überschritten hat und seit Jahresbeginn um mehr als 70% gestiegen ist. Damit nehmen die Sorgen der Privatanleger zu. Während der starke Bullenmarkt anhält, stehen sie vor der Frage, ob sie bestehende Positionen weiter halten, zusätzliche Käufe tätigen oder Gewinne mitnehmen sollen. Nach dem kräftigen Indexanstieg treten Erwartungen auf weitere Gewinne und Bedenken wegen hoher Preise gleichzeitig hervor. Die Entwicklung kann Anlageentscheidungen und Marktstimmung beeinflussen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI dépasse 7 000 points et les particuliers hésitent entre garder et vendre",
-        "excerpt": "Alors que le KOSPI dépasse 7 000 points après une hausse de plus de 70% depuis le début de l’année, les investisseurs particuliers se demandent s’ils doivent conserver, renforcer ou vendre.",
-        "body": "À Séoul, la journaliste Kim Yu-a de Yonhap a rapporté que le KOSPI a franchi le seuil des 7 000 points après avoir progressé de plus de 70% depuis le début de l’année, accentuant les interrogations des investisseurs particuliers. Dans ce marché haussier marqué, ils doivent décider s’ils conservent leurs positions, achètent davantage ou prennent leurs bénéfices. La forte montée de l’indice fait apparaître à la fois des attentes de poursuite de la hausse et des inquiétudes sur les niveaux de prix. Cette situation peut peser sur les décisions des particuliers et le sentiment de marché. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7000 نقطة والمستثمرون الأفراد بين الاحتفاظ والبيع",
-        "excerpt": "مع صعود كوسبي بأكثر من 70% منذ بداية العام وتجاوزه 7000 نقطة، تتزايد حيرة المستثمرين الأفراد بين الاحتفاظ بالمراكز أو الشراء الإضافي أو البيع.",
-        "body": "من سيئول، أفادت الصحفية كيم يو-آ من وكالة يونهاب بأن مؤشر كوسبي تجاوز مستوى 7000 نقطة بعد ارتفاعه بأكثر من 70% منذ بداية العام، ما زاد حيرة المستثمرين الأفراد. ومع استمرار السوق الصاعدة القوية، يدرس هؤلاء ما إذا كانوا سيواصلون الاحتفاظ بمراكزهم الحالية، أو يشترون المزيد، أو يحققون الأرباح عبر البيع. وبما أن المؤشر ارتفع بقوة، تظهر في الوقت نفسه توقعات بمزيد من الصعود ومخاوف من عبء الأسعار. وقد يؤثر هذا المسار في قرارات المستثمرين الأفراد ومعنويات السوق. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 7,000 के पार, खुदरा निवेशक होल्ड, खरीद या बिक्री को लेकर उलझे",
-        "excerpt": "साल की शुरुआत से 70% से अधिक चढ़कर KOSPI के 7,000 के पार जाने के बाद खुदरा निवेशक सोच रहे हैं कि होल्ड करें, और खरीदें या बेचें।",
-        "body": "सियोल से योनहाप की रिपोर्टर किम यू-आ ने बताया कि KOSPI ने 7,000 का स्तर पार कर लिया है और साल की शुरुआत से 70% से अधिक बढ़ चुका है, जिससे खुदरा निवेशकों की दुविधा गहरी हो गई है। मजबूत तेजी वाले बाजार के जारी रहने के बीच निवेशक तय कर रहे हैं कि मौजूदा होल्डिंग बनाए रखें, और खरीदें या मुनाफा वसूलने के लिए बेचें। सूचकांक में तेज बढ़त के कारण आगे की तेजी की उम्मीद और कीमतों के बोझ की चिंता साथ-साथ उभर रही है। यह रुझान खुदरा निवेश निर्णयों और बाजार भावना को प्रभावित कर सकता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Tembus 7.000, Investor Ritel Bimbang antara Tahan, Tambah atau Jual",
-        "excerpt": "Saat KOSPI naik lebih dari 70% sejak awal tahun dan menembus 7.000, investor ritel makin bimbang apakah mempertahankan, menambah posisi, atau menjual.",
-        "body": "Dari Seoul, reporter Yonhap Kim Yu-a melaporkan bahwa KOSPI menembus level 7.000 setelah naik lebih dari 70% sejak awal tahun, sehingga kekhawatiran investor ritel semakin dalam. Di tengah pasar bullish yang kuat, investor individu mempertimbangkan apakah tetap memegang posisi yang ada, menambah pembelian, atau merealisasikan keuntungan. Karena indeks telah naik tajam, harapan atas kenaikan lanjutan dan kekhawatiran terhadap beban harga muncul bersamaan. Pergerakan ini dapat memengaruhi keputusan investasi ritel dan sentimen pasar. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6afcfb75dbd8",
-    "slug": "불장에-손-커진-개미지난달-1억-이상-주문-역대-최대-103752",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T22:12:41.845Z",
-    "updatedAt": "2026-05-09T22:12:41.845Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509000400008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509000400008",
-    "titleFingerprint": "ee6972b83a2820827870c47341ae3a1439e9c9c4",
-    "dedupKeys": [
-      "6afcfb75dbd873a4dea1d329e08b0616847365b4",
-      "ee6972b83a2820827870c47341ae3a1439e9c9c4",
-      "c3de926d4e2b6372fd4291ebd78bf43eb7ecf650"
-    ],
-    "imageUrl": "/images/articles/6afcfb75dbd8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 사상 최고 랠리에 큰손 개미 급증…지난달 1억 이상 주문 역대 최대",
-        "excerpt": "최근 코스피가 7천선을 밟고 사상 최고치 랠리를 이어가면서 지난달 1억원 이상 거액 주문을 낸 개인투자자 참여가 역대 최대 수준으로 늘었다.",
-        "body": "최근 서울 주식시장에서 코스피가 7천선 고지를 밟고 사상 최고치 랠리를 이어가자, 거액을 굴리는 이른바 ‘큰손’ 개인투자자들의 참여가 크게 늘었다. 지난달 1억원 이상 주문은 역대 최대치를 기록한 것으로 전해졌다. 강한 상승장이 이어지면서 개인투자자 가운데 대규모 자금을 한 번에 투입하는 사례가 늘어난 흐름이다. 이는 증시 활황이 일반 개인뿐 아니라 고액 주문 투자자들의 매매 활동까지 자극하고 있음을 보여준다. 다만 기사에 제시된 내용은 최근 랠리와 지난달 주문 규모 증가에 초점이 맞춰져 있으며, 향후 시장 방향에 대한 판단은 별도로 제시되지 않았다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Big retail investors surge as KOSPI hits record rally; orders over 100 million won set high",
-        "excerpt": "As the KOSPI recently reached the 7,000 level and extended its record-high rally, retail investors placing orders of at least 100 million won hit an all-time high last month.",
-        "body": "In Seoul’s stock market, participation by so-called big retail investors has risen sharply as the KOSPI recently reached the 7,000 mark and continued its record-high rally. Orders worth 100 million won or more last month reportedly reached the highest level ever. The trend reflects more individual investors committing large sums at once during a strong bull market. It also shows that the market rally is stimulating trading not only among ordinary retail participants but also among high-value order investors. The original report focuses on the recent rally and the increase in large orders last month, without presenting a separate judgment on the market’s future direction. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI最高値ラリーで大口個人が急増、先月1億ウォン以上注文が過去最多",
-        "excerpt": "KOSPIが最近7,000台に乗せ過去最高値ラリーを続ける中、先月1億ウォン以上の大口注文を出した個人投資家の参加が過去最大に増えた。",
-        "body": "ソウル株式市場では、KOSPIが最近7,000台の節目に到達し、過去最高値のラリーを続けたことで、いわゆる「大口」の個人投資家の参加が大きく増えた。先月の1億ウォン以上の注文は過去最多を記録したと伝えられている。強い上昇相場が続く中、個人投資家の間でまとまった資金を一度に投入する動きが広がった形だ。これは株式市場の活況が一般の個人投資家だけでなく、高額注文を出す投資家の売買活動も刺激していることを示す。記事は最近のラリーと先月の注文規模増加に焦点を当てており、今後の相場方向についての判断は別途示していない。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI创纪录上涨带动大户散户入场，上月亿元级订单创新高",
-        "excerpt": "随着KOSPI近期站上7000点并延续历史高位行情，上月下达1亿韩元以上大额订单的个人投资者参与度升至历史最高。",
-        "body": "在首尔股市，KOSPI近期站上7000点关口并延续历史最高位涨势，推动掌握大额资金的所谓“大户”个人投资者参与明显增加。据报道，上月1亿韩元以上订单规模创下历史最高纪录。强劲牛市持续之下，个人投资者中一次性投入大笔资金的情况增多。这显示股市活跃不仅刺激了一般散户，也带动了高额订单投资者的交易活动。原文重点在于近期KOSPI上涨行情以及上月大额订单增加，并未对未来市场方向作出单独判断。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "El rally récord del KOSPI dispara a los grandes minoristas; pedidos sobre 100 millones marcan máximo",
-        "excerpt": "Con el KOSPI tocando recientemente los 7.000 puntos y extendiendo su rally histórico, las órdenes minoristas de al menos 100 millones de wones alcanzaron un récord el mes pasado.",
-        "body": "En el mercado bursátil de Seúl, la participación de los llamados grandes inversores minoristas aumentó con fuerza después de que el KOSPI alcanzara recientemente el nivel de 7.000 puntos y continuara su rally de máximos históricos. Las órdenes por 100 millones de wones o más registradas el mes pasado habrían marcado el mayor nivel de la historia. La tendencia muestra que, en medio de un mercado alcista firme, más inversores individuales están colocando grandes sumas en una sola operación. También indica que el auge bursátil está impulsando la actividad no solo de minoristas comunes, sino también de quienes realizan órdenes de alto valor. El informe original se centra en el rally reciente y el aumento de grandes órdenes del mes pasado, sin ofrecer una evaluación separada sobre la dirección futura del mercado. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Rali recorde do KOSPI atrai grandes pessoas físicas; ordens acima de 100 milhões batem máximo",
-        "excerpt": "Com o KOSPI chegando recentemente aos 7.000 pontos e mantendo a sequência de recordes, ordens de pessoas físicas acima de 100 milhões de won atingiram máxima histórica no mês passado.",
-        "body": "No mercado acionário de Seul, a participação dos chamados grandes investidores pessoas físicas cresceu fortemente depois que o KOSPI alcançou recentemente a marca de 7.000 pontos e continuou seu rali de máximas históricas. As ordens de 100 milhões de won ou mais no mês passado teriam atingido o maior nível já registrado. O movimento mostra que, em um mercado de alta vigoroso, mais investidores individuais passaram a aplicar grandes quantias de uma só vez. Também indica que a valorização da bolsa está estimulando não apenas pequenos investidores comuns, mas também participantes que fazem ordens de alto valor. A reportagem original se concentra no rali recente e no aumento das ordens grandes no mês passado, sem apresentar uma avaliação separada sobre a direção futura do mercado. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "KOSPI-Rekordrally lockt große Privatanleger; Orders über 100 Mio. Won auf Allzeithoch",
-        "excerpt": "Da der KOSPI zuletzt die Marke von 7.000 erreichte und seine Rekordrally fortsetzte, stiegen Privatanlegerorders ab 100 Millionen Won im vergangenen Monat auf ein Allzeithoch.",
-        "body": "Am Aktienmarkt in Seoul ist die Beteiligung sogenannter großer Privatanleger deutlich gestiegen, nachdem der KOSPI zuletzt die Marke von 7.000 erreicht und seine Rally auf historische Höchststände fortgesetzt hatte. Orders im Wert von 100 Millionen Won oder mehr erreichten im vergangenen Monat Berichten zufolge den höchsten Stand aller Zeiten. Der Trend zeigt, dass in einem starken Bullenmarkt mehr Einzelanleger große Beträge auf einmal einsetzen. Zugleich macht er deutlich, dass die Börsenhausse nicht nur gewöhnliche Privatanleger, sondern auch Investoren mit hohen Ordervolumina zu mehr Handel bewegt. Der ursprüngliche Bericht konzentriert sich auf die jüngste Rally und den Anstieg großer Orders im vergangenen Monat; eine eigene Einschätzung zur künftigen Marktrichtung wird nicht gegeben. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Le rally record du KOSPI attire les gros particuliers; ordres de plus de 100 millions au plus haut",
-        "excerpt": "Alors que le KOSPI a récemment atteint 7.000 points et poursuivi son rally de records, les ordres de particuliers d’au moins 100 millions de wons ont atteint un sommet historique le mois dernier.",
-        "body": "Sur le marché boursier de Séoul, la participation des particuliers disposant de gros capitaux a fortement augmenté après que le KOSPI a récemment franchi le seuil des 7.000 points et poursuivi son rally vers des records historiques. Les ordres de 100 millions de wons ou plus auraient atteint le mois dernier leur plus haut niveau jamais observé. Cette évolution montre que, dans un marché haussier solide, davantage d’investisseurs individuels engagent d’importantes sommes en une seule fois. Elle indique aussi que la vigueur de la Bourse stimule non seulement les particuliers ordinaires, mais aussi les investisseurs passant des ordres de forte valeur. L’article d’origine se concentre sur le rally récent et la hausse des gros ordres le mois dernier, sans formuler de jugement distinct sur l’orientation future du marché. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "ارتفاع قياسي في كوسبي يجذب كبار الأفراد؛ أوامر تفوق 100 مليون وون عند أعلى مستوى",
-        "excerpt": "مع وصول كوسبي مؤخرا إلى مستوى 7000 ومواصلة مساره القياسي، بلغت أوامر المستثمرين الأفراد بقيمة 100 مليون وون فأكثر أعلى مستوى تاريخي في الشهر الماضي.",
-        "body": "في سوق الأسهم في سول، ارتفعت مشاركة المستثمرين الأفراد ذوي الأموال الكبيرة بوضوح بعدما وصل مؤشر كوسبي مؤخرا إلى مستوى 7000 وواصل موجة صعوده إلى قمم تاريخية. وذكرت التقارير أن الأوامر بقيمة 100 مليون وون أو أكثر في الشهر الماضي سجلت أعلى مستوى على الإطلاق. ويعكس ذلك زيادة الحالات التي يضخ فيها المستثمرون الأفراد مبالغ كبيرة دفعة واحدة مع استمرار السوق الصاعدة القوية. كما يوضح أن نشاط البورصة لا يحفز المستثمرين الأفراد العاديين فقط، بل يدفع أيضا أصحاب الأوامر الكبيرة إلى زيادة التداول. ويركز التقرير الأصلي على الصعود الأخير وزيادة حجم الأوامر في الشهر الماضي، من دون تقديم حكم منفصل بشأن اتجاه السوق مستقبلا. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI की रिकॉर्ड रैली से बड़े खुदरा निवेशक बढ़े; 10 करोड़ वॉन से ऊपर ऑर्डर शिखर पर",
-        "excerpt": "KOSPI के हाल में 7,000 स्तर छूने और रिकॉर्ड ऊंचाई की रैली जारी रखने के बीच पिछले महीने 10 करोड़ वॉन या उससे अधिक के खुदरा ऑर्डर ऐतिहासिक उच्च स्तर पर पहुंचे।",
-        "body": "सियोल के शेयर बाजार में KOSPI के हाल में 7,000 के स्तर पर पहुंचने और रिकॉर्ड ऊंचाई की रैली जारी रखने के बाद बड़े धन वाले खुदरा निवेशकों की भागीदारी तेजी से बढ़ी। बताया गया कि पिछले महीने 10 करोड़ वॉन या उससे अधिक मूल्य के ऑर्डर अब तक के सबसे ऊंचे स्तर पर रहे। मजबूत तेजी के माहौल में अधिक व्यक्तिगत निवेशक एक बार में बड़ी रकम लगा रहे हैं। यह रुझान दिखाता है कि बाजार की तेजी केवल सामान्य खुदरा निवेशकों को ही नहीं, बल्कि बड़े ऑर्डर देने वाले निवेशकों की ट्रेडिंग गतिविधि को भी बढ़ा रही है। मूल रिपोर्ट हालिया रैली और पिछले महीने बड़े ऑर्डरों में वृद्धि पर केंद्रित है तथा भविष्य की बाजार दिशा पर अलग से कोई आकलन नहीं देती। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Reli rekor KOSPI tarik investor ritel besar; order di atas 100 juta won cetak tertinggi",
-        "excerpt": "Saat KOSPI baru-baru ini menyentuh level 7.000 dan melanjutkan reli rekor tertinggi, order investor ritel minimal 100 juta won mencapai rekor pada bulan lalu.",
-        "body": "Di pasar saham Seoul, partisipasi investor ritel bermodal besar meningkat tajam setelah KOSPI baru-baru ini mencapai level 7.000 dan melanjutkan reli ke rekor tertinggi. Order senilai 100 juta won atau lebih pada bulan lalu dilaporkan mencatat level tertinggi sepanjang masa. Tren ini menunjukkan bahwa di tengah pasar bullish yang kuat, semakin banyak investor individu menempatkan dana besar dalam satu kali transaksi. Hal itu juga memperlihatkan bahwa semarak bursa tidak hanya mendorong investor ritel biasa, tetapi juga pelaku dengan order bernilai tinggi. Laporan asli berfokus pada reli terbaru dan kenaikan order besar bulan lalu, tanpa memberikan penilaian terpisah mengenai arah pasar ke depan. Sumber: yna.co.kr"
       }
     }
   }
