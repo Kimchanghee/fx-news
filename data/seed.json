@@ -1,5 +1,230 @@
 [
   {
+    "id": "0167cffb2e5e",
+    "slug": "전쟁-끝나면-해결된다더니5월-14일-이후-환율이-더-위험한-이유-473834",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T19:05:52.649Z",
+    "updatedAt": "2026-05-10T19:05:52.649Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12042796",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12042796",
+    "titleFingerprint": "957aa24ae722a342d349351d590d8fe2aadf24e7",
+    "dedupKeys": [
+      "0167cffb2e5e01c105cc9a834460c2d72e51373e",
+      "957aa24ae722a342d349351d590d8fe2aadf24e7",
+      "ac3793f3364f0656de079e1bc6c55b790148665f"
+    ],
+    "imageUrl": "/images/articles/0167cffb2e5e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원·달러 환율, 5월 14일 이후 더 위험한 이유는 중동 전쟁과 자본 흐름 변화",
+        "excerpt": "4월 이후 중동 전쟁 국면과 국내 자본 흐름이 바뀌면서, 3월 말 1,536.9원까지 오른 원·달러 환율이 5월 6일 1,439.6원 저점 이후 다시 주목받고 있다.",
+        "body": "원·달러 환율이 5월 14일 이후 더 위험해질 수 있다는 지적이 나왔다. 4월 이후 중동 전쟁의 국면이 달라졌고, 국내 자본 흐름도 함께 변했기 때문이다. 3월 말 한때 원·달러 환율은 1,536.9원까지 치솟았다. 이후 흐름이 바뀌며 5월 6일에는 장중 최저 1,439.6원까지 내려갔다. 하지만 전쟁이 끝나면 환율 문제가 해결될 것이라는 기대와 달리, 전쟁 국면과 자본 이동의 변화가 환율 위험을 다시 키울 수 있다는 점이 핵심이다. 시장은 중동 정세 변화와 국내 자금 흐름이 원화 가치에 미칠 영향을 계속 점검해야 한다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Dollar-Won Exchange Rate Faces Greater Risk After May 14 as War and Capital Flows Shift",
+        "excerpt": "Since April, changes in the Middle East war and domestic capital flows have put the dollar-won rate back in focus after moving from 1,536.9 won in late March to 1,439.6 won on May 6.",
+        "body": "The dollar-won exchange rate may face greater risk after May 14. The reason is that the phase of the Middle East war has changed since April, while domestic capital flows have also shifted. In late March, the dollar-won rate once surged to 1,536.9 won. As conditions changed afterward, it fell to an intraday low of 1,439.6 won on May 6. However, contrary to expectations that the exchange-rate issue would be resolved once the war ended, the changing war situation and capital movements could again increase currency risk. Markets need to keep monitoring how developments in the Middle East and domestic fund flows affect the value of the won. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ドル・ウォン相場、5月14日以降に警戒強まる理由は中東戦争と資本フローの変化",
+        "excerpt": "4月以降、中東戦争の局面と韓国国内の資本フローが変化し、3月末に1,536.9ウォンまで上昇したドル・ウォン相場は5月6日に1,439.6ウォンまで下げた後、再び注目されている。",
+        "body": "ドル・ウォン相場は5月14日以降、リスクがさらに高まる可能性があると指摘されている。4月以降、中東戦争の局面が変わり、韓国国内の資本フローも変化したためだ。3月末には一時1ドル＝1,536.9ウォンまで急騰した。その後、流れが変わり、5月6日には取引時間中の安値で1,439.6ウォンまで下落した。しかし、戦争が終われば為替問題も解決するとの期待とは異なり、戦争局面と資本移動の変化が再び為替リスクを高める可能性がある点が焦点だ。市場は中東情勢と国内資金フローがウォンの価値に与える影響を引き続き点検する必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "美元兑韩元汇率5月14日后风险升高，关键在中东战局与资本流向变化",
+        "excerpt": "4月以来，中东战争局势和韩国国内资本流向发生变化，美元兑韩元汇率从3月底一度升至1,536.9韩元，到5月6日最低回落至1,439.6韩元后再受关注。",
+        "body": "有观点指出，美元兑韩元汇率在5月14日以后可能面临更大风险。原因是4月以来中东战争局势发生变化，韩国国内资本流向也随之改变。3月底，美元兑韩元汇率一度飙升至1,536.9韩元。随后走势变化，5月6日盘中最低降至1,439.6韩元。不过，与“战争结束后汇率问题就会解决”的期待不同，战争局势和资本流动的变化可能再次放大汇率风险。市场仍需持续观察中东局势变化和韩国国内资金流向对韩元价值的影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El dólar-won afronta más riesgo después del 14 de mayo por la guerra y los flujos de capital",
+        "excerpt": "Desde abril, el cambio de fase en la guerra de Oriente Medio y los flujos de capital internos vuelven a poner el dólar-won en foco tras pasar de 1.536,9 wones a fines de marzo a 1.439,6 el 6 de mayo.",
+        "body": "El tipo de cambio dólar-won podría enfrentar más riesgo después del 14 de mayo. La razón es que desde abril cambió la fase de la guerra en Oriente Medio y también se modificaron los flujos de capital internos. A fines de marzo, el dólar-won llegó a dispararse hasta 1.536,9 wones. Luego, con el cambio de tendencia, el 6 de mayo tocó un mínimo intradía de 1.439,6 wones. Sin embargo, a diferencia de la expectativa de que el problema cambiario se resolvería cuando terminara la guerra, los cambios en la situación bélica y en los movimientos de capital pueden volver a aumentar el riesgo cambiario. El mercado debe seguir revisando el impacto de Oriente Medio y de los flujos internos sobre el valor del won. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Dólar-won tem mais risco após 14 de maio com mudanças na guerra e nos fluxos de capital",
+        "excerpt": "Desde abril, a mudança na fase da guerra no Oriente Médio e nos fluxos de capital domésticos recoloca o dólar-won em foco após ir de 1.536,9 won no fim de março a 1.439,6 won em 6 de maio.",
+        "body": "A taxa de câmbio dólar-won pode enfrentar risco maior depois de 14 de maio. O motivo é que, desde abril, a fase da guerra no Oriente Médio mudou, e os fluxos de capital domésticos também se alteraram. No fim de março, o dólar-won chegou a disparar para 1.536,9 won. Depois, com a mudança do fluxo, caiu para uma mínima intradiária de 1.439,6 won em 6 de maio. Porém, ao contrário da expectativa de que o problema cambial seria resolvido quando a guerra terminasse, as mudanças na guerra e nos movimentos de capital podem ampliar novamente o risco cambial. O mercado precisa continuar avaliando o efeito da situação no Oriente Médio e dos fluxos de recursos internos sobre o valor do won. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Dollar-Won-Kurs nach dem 14. Mai stärker gefährdet durch Kriegslage und Kapitalflüsse",
+        "excerpt": "Seit April haben sich die Lage im Nahostkrieg und die heimischen Kapitalflüsse verändert; der Dollar-Won-Kurs steht nach 1.536,9 Won Ende März und einem Tief von 1.439,6 Won am 6. Mai wieder im Fokus.",
+        "body": "Der Dollar-Won-Wechselkurs könnte nach dem 14. Mai größeren Risiken ausgesetzt sein. Grund dafür ist, dass sich seit April die Lage im Nahostkrieg verändert hat und auch die heimischen Kapitalflüsse eine andere Richtung genommen haben. Ende März war der Kurs zeitweise bis auf 1.536,9 Won gestiegen. Danach änderte sich der Verlauf, und am 6. Mai fiel er im Tageshandel auf ein Tief von 1.439,6 Won. Entgegen der Erwartung, dass das Wechselkursproblem mit dem Ende des Krieges gelöst wäre, könnten die veränderte Kriegslage und Kapitalbewegungen das Währungsrisiko erneut erhöhen. Die Märkte müssen weiter prüfen, wie Nahostentwicklungen und inländische Geldströme den Wert des Won beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le dollar-won plus risqué après le 14 mai avec la guerre au Moyen-Orient et les flux de capitaux",
+        "excerpt": "Depuis avril, l’évolution de la guerre au Moyen-Orient et des flux de capitaux en Corée remet le dollar-won au centre de l’attention après un pic à 1 536,9 wons fin mars et un plus bas à 1 439,6 le 6 mai.",
+        "body": "Le taux de change dollar-won pourrait devenir plus risqué après le 14 mai. La raison tient au changement de phase de la guerre au Moyen-Orient depuis avril, ainsi qu’à l’évolution des flux de capitaux domestiques. Fin mars, le dollar-won avait brièvement grimpé jusqu’à 1 536,9 wons. Ensuite, le mouvement a changé et le taux est descendu le 6 mai à un plus bas intrajournalier de 1 439,6 wons. Mais contrairement à l’idée selon laquelle la fin de la guerre réglerait le problème de change, l’évolution du conflit et des mouvements de capitaux pourrait à nouveau accroître le risque de change. Les marchés doivent continuer à suivre l’impact de la situation au Moyen-Orient et des flux internes sur la valeur du won. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سعر الدولار مقابل الوون يواجه خطرا أكبر بعد 14 مايو مع تغير الحرب وتدفقات رأس المال",
+        "excerpt": "منذ أبريل تغيرت مرحلة الحرب في الشرق الأوسط وتدفقات رأس المال المحلية، ما أعاد سعر الدولار مقابل الوون إلى الواجهة بعد صعوده إلى 1,536.9 وون أواخر مارس وهبوطه إلى 1,439.6 وون في 6 مايو.",
+        "body": "قد يواجه سعر صرف الدولار مقابل الوون مخاطر أكبر بعد 14 مايو. والسبب أن مرحلة الحرب في الشرق الأوسط تغيرت منذ أبريل، كما تغيرت تدفقات رأس المال المحلية. في أواخر مارس، قفز السعر مؤقتا إلى 1,536.9 وون للدولار. وبعد تغير الاتجاه، هبط في 6 مايو إلى أدنى مستوى خلال الجلسة عند 1,439.6 وون. لكن على خلاف التوقعات بأن انتهاء الحرب سيحل مشكلة سعر الصرف، قد تؤدي تغيرات وضع الحرب وحركة رأس المال إلى زيادة مخاطر العملة مرة أخرى. لذلك يحتاج السوق إلى متابعة أثر تطورات الشرق الأوسط وتدفقات الأموال المحلية على قيمة الوون. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "डॉलर-वॉन दर पर 14 मई के बाद ज्यादा जोखिम, वजह युद्ध और पूंजी प्रवाह में बदलाव",
+        "excerpt": "अप्रैल के बाद मध्य पूर्व युद्ध की स्थिति और घरेलू पूंजी प्रवाह बदलने से डॉलर-वॉन दर फिर चर्चा में है; यह मार्च अंत में 1,536.9 वॉन तक गई और 6 मई को 1,439.6 वॉन के निचले स्तर पर आई।",
+        "body": "डॉलर-वॉन विनिमय दर 14 मई के बाद अधिक जोखिम का सामना कर सकती है। वजह यह है कि अप्रैल के बाद मध्य पूर्व युद्ध की दिशा बदली है और घरेलू पूंजी प्रवाह में भी बदलाव आया है। मार्च के अंत में डॉलर-वॉन दर एक समय 1,536.9 वॉन तक उछली थी। इसके बाद रुख बदलने पर 6 मई को यह कारोबार के दौरान 1,439.6 वॉन के निचले स्तर तक आ गई। लेकिन यह उम्मीद कि युद्ध खत्म होने पर विनिमय दर की समस्या हल हो जाएगी, पूरी तस्वीर नहीं दिखाती। युद्ध की स्थिति और पूंजी की आवाजाही में बदलाव फिर से मुद्रा जोखिम बढ़ा सकते हैं। बाजार को मध्य पूर्व की स्थिति और घरेलू धन प्रवाह का वॉन के मूल्य पर असर लगातार जांचना होगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Dolar-won Lebih Berisiko Setelah 14 Mei karena Perang dan Arus Modal Berubah",
+        "excerpt": "Sejak April, perubahan fase perang Timur Tengah dan arus modal domestik membuat kurs dolar-won kembali disorot setelah naik ke 1.536,9 won pada akhir Maret dan turun ke 1.439,6 won pada 6 Mei.",
+        "body": "Kurs dolar-won dinilai dapat menghadapi risiko lebih besar setelah 14 Mei. Penyebabnya, sejak April fase perang di Timur Tengah berubah, sementara arus modal domestik juga ikut bergeser. Pada akhir Maret, kurs dolar-won sempat melonjak hingga 1.536,9 won. Setelah arah pergerakan berubah, pada 6 Mei kurs tersebut turun ke level terendah intrahari 1.439,6 won. Namun, berbeda dari harapan bahwa masalah kurs akan selesai ketika perang berakhir, perubahan situasi perang dan pergerakan modal dapat kembali memperbesar risiko nilai tukar. Pasar perlu terus mencermati dampak perkembangan Timur Tengah dan arus dana domestik terhadap nilai won. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "303a6b92bff2",
+    "slug": "코로나와-ai가-촉발한-新제국주의첨단-하드웨어전력인프라가-답이다-680925",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T19:04:52.113Z",
+    "updatedAt": "2026-05-10T19:04:52.113Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042302",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042302",
+    "titleFingerprint": "ef298a551108185157bc28e972782a4b2cb253aa",
+    "dedupKeys": [
+      "303a6b92bff287b0f39d69c19dc3e5d75294f2a4",
+      "ef298a551108185157bc28e972782a4b2cb253aa",
+      "d075186946da75eb4cb0bfc08842e43306e18c4e"
+    ],
+    "imageUrl": "/images/articles/303a6b92bff2.png",
+    "i18n": {
+      "ko": {
+        "title": "미중 패권경쟁의 핵심, 코로나·AI 이후 첨단 하드웨어와 전력인프라 부상",
+        "excerpt": "최근 주식시장에서 거시경제와 실적을 넘어 정치·외교·군사 요인이 커지는 가운데, 코로나와 AI가 촉발한 미중 패권경쟁의 본질이 첨단 하드웨어와 전력인프라로 모이고 있다.",
+        "body": "최근 주식시장은 거시경제 지표나 기업 실적뿐 아니라 정치·외교·군사적 요인의 영향을 더 크게 받고 있다. 원문은 코로나와 AI가 촉발한 변화 속에서 미중 패권경쟁의 본질을 짚으며, 첨단 하드웨어와 전력인프라가 핵심 해법으로 부상했다고 설명했다. 특히 근래 몇 년처럼 전쟁이 빈번하게 발발한 경우도 드물었다는 점에서 시장 변수의 범위가 넓어졌다는 진단이다. 이에 따라 투자자들은 경기와 실적 외에도 국제 질서 변화와 전략 산업의 기반을 함께 살펴야 한다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "U.S.-China rivalry sharpens after Covid and AI as advanced hardware and power infrastructure rise",
+        "excerpt": "As politics, diplomacy and military issues increasingly shape stock markets beyond macro data and earnings, Covid and AI have put advanced hardware and power infrastructure at the center of U.S.-China rivalry.",
+        "body": "Recent stock markets are being influenced not only by macroeconomic indicators and corporate earnings but also more strongly by political, diplomatic and military factors. The original article examines the nature of the U.S.-China struggle for supremacy amid changes triggered by Covid and AI, explaining that advanced hardware and power infrastructure have emerged as key answers. It also notes that it has been rare to see wars occur as frequently as in the past few years, widening the range of market variables. Investors therefore need to monitor shifts in the international order and the foundations of strategic industries alongside the economy and earnings. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米中覇権競争の核心、コロナとAI後に先端ハードと電力インフラが浮上",
+        "excerpt": "最近の株式市場ではマクロ経済や企業業績だけでなく政治・外交・軍事要因の影響が強まり、コロナとAIが米中覇権競争の焦点を先端ハードと電力インフラに集めている。",
+        "body": "最近の株式市場は、マクロ経済指標や企業業績だけでなく、政治・外交・軍事的要因の影響をより大きく受けている。原文は、コロナとAIが引き起こした変化の中で米中覇権競争の本質を取り上げ、先端ハードウェアと電力インフラが重要な解決策として浮上していると説明した。特に近年ほど戦争が頻繁に起きた例は珍しいとして、市場変数の範囲が広がったとの見方を示している。そのため投資家は景気や業績に加え、国際秩序の変化と戦略産業の基盤も併せて見る必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "中美霸权竞争核心浮现：疫情与AI之后，先进硬件和电力基础设施成关键",
+        "excerpt": "近期股市除宏观经济和企业业绩外，政治、外交、军事因素影响扩大；疫情与AI引发的中美霸权竞争，正聚焦先进硬件和电力基础设施。",
+        "body": "近期股市不仅受到宏观经济指标和企业业绩影响，政治、外交、军事因素的影响也在加大。原文指出，在疫情和AI引发的变化中，中美霸权竞争的本质正在显现，先进硬件和电力基础设施成为关键答案。文章还提到，像近几年这样战争频繁爆发的情况并不多见，因此市场变量的范围已经扩大。由此，投资者除了关注经济周期和企业业绩，也需要同时观察国际秩序变化以及战略产业的基础。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Rivalidad EE. UU.-China tras Covid e IA: hardware avanzado e infraestructura eléctrica ganan peso",
+        "excerpt": "Los mercados bursátiles reciben cada vez más influencia política, diplomática y militar además de datos macro y resultados; Covid e IA sitúan el hardware avanzado y la energía en el centro de la rivalidad EE. UU.-China.",
+        "body": "Los mercados bursátiles recientes no están influidos solo por indicadores macroeconómicos y resultados empresariales, sino también con más fuerza por factores políticos, diplomáticos y militares. El texto original analiza la esencia de la rivalidad por la hegemonía entre Estados Unidos y China en medio de los cambios provocados por el Covid y la IA, y explica que el hardware avanzado y la infraestructura eléctrica han surgido como respuestas clave. También señala que ha sido poco común ver guerras tan frecuentes como en los últimos años, lo que amplía el rango de variables del mercado. Por ello, los inversores deben observar la economía y los resultados junto con los cambios del orden internacional y la base de las industrias estratégicas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Rivalidade EUA-China após Covid e IA: hardware avançado e infraestrutura elétrica ganham destaque",
+        "excerpt": "Com fatores políticos, diplomáticos e militares pesando mais nas bolsas além da macroeconomia e dos lucros, Covid e IA colocam hardware avançado e energia no centro da disputa EUA-China.",
+        "body": "Os mercados acionários recentes são influenciados não apenas por indicadores macroeconômicos e resultados corporativos, mas também de forma crescente por fatores políticos, diplomáticos e militares. O texto original examina a essência da disputa por hegemonia entre Estados Unidos e China em meio às mudanças provocadas pela Covid e pela IA, explicando que hardware avançado e infraestrutura elétrica surgiram como respostas centrais. Também observa que foram raros os períodos com guerras tão frequentes quanto nos últimos anos, ampliando o conjunto de variáveis de mercado. Assim, investidores precisam acompanhar a economia e os lucros juntamente com mudanças na ordem internacional e as bases das indústrias estratégicas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "USA-China-Rivalität nach Corona und KI: High-End-Hardware und Strominfrastruktur rücken vor",
+        "excerpt": "Aktienmärkte werden neben Makrodaten und Gewinnen stärker von Politik, Diplomatie und Militär geprägt; Corona und KI lenken die USA-China-Rivalität auf Hardware und Strominfrastruktur.",
+        "body": "Die jüngsten Aktienmärkte werden nicht nur von makroökonomischen Indikatoren und Unternehmensgewinnen beeinflusst, sondern zunehmend auch von politischen, diplomatischen und militärischen Faktoren. Der Originaltext beleuchtet das Wesen des Hegemoniekampfs zwischen den USA und China inmitten der durch Corona und KI ausgelösten Veränderungen und erklärt, dass fortschrittliche Hardware und Strominfrastruktur als zentrale Antworten hervortreten. Zudem weist er darauf hin, dass Kriege selten so häufig ausgebrochen sind wie in den vergangenen Jahren, wodurch sich die Bandbreite der Marktvariablen erweitert hat. Anleger sollten daher neben Konjunktur und Gewinnen auch Veränderungen der internationalen Ordnung und die Grundlagen strategischer Industrien beobachten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Rivalité États-Unis-Chine après Covid et IA : matériel avancé et infrastructures électriques au premier plan",
+        "excerpt": "Les marchés actions sont de plus en plus influencés par la politique, la diplomatie et le militaire au-delà de la macroéconomie et des résultats; Covid et IA recentrent la rivalité États-Unis-Chine sur le matériel avancé et l’énergie.",
+        "body": "Les marchés boursiers récents ne sont pas seulement influencés par les indicateurs macroéconomiques et les résultats des entreprises, mais aussi de manière accrue par des facteurs politiques, diplomatiques et militaires. Le texte original analyse la nature de la lutte d’hégémonie entre les États-Unis et la Chine dans les changements provoqués par le Covid et l’IA, en expliquant que le matériel avancé et les infrastructures électriques apparaissent comme des réponses essentielles. Il souligne aussi qu’il est rare de voir des guerres éclater aussi fréquemment que ces dernières années, ce qui élargit l’éventail des variables de marché. Les investisseurs doivent donc suivre l’économie et les résultats, mais aussi l’évolution de l’ordre international et les bases des industries stratégiques. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "جوهر التنافس الأميركي الصيني بعد كورونا والذكاء الاصطناعي: العتاد المتقدم والبنية الكهربائية",
+        "excerpt": "مع تزايد تأثير السياسة والدبلوماسية والعوامل العسكرية في أسواق الأسهم إلى جانب الاقتصاد الكلي والأرباح، تضع كورونا والذكاء الاصطناعي العتاد المتقدم والبنية الكهربائية في قلب التنافس الأميركي الصيني.",
+        "body": "تتأثر أسواق الأسهم في الفترة الأخيرة ليس فقط بمؤشرات الاقتصاد الكلي ونتائج الشركات، بل كذلك بعوامل سياسية ودبلوماسية وعسكرية بصورة أكبر. يتناول النص الأصلي طبيعة التنافس على الهيمنة بين الولايات المتحدة والصين وسط التغيرات التي أطلقتها كورونا والذكاء الاصطناعي، موضحا أن العتاد المتقدم والبنية التحتية للطاقة برزا كإجابتين محوريتين. كما يشير إلى أن اندلاع الحروب بهذا التكرار خلال السنوات القليلة الماضية كان أمرا نادرا، ما يعني اتساع نطاق المتغيرات المؤثرة في السوق. لذلك يحتاج المستثمرون إلى متابعة الاقتصاد والنتائج، إلى جانب تغيرات النظام الدولي وأسس الصناعات الاستراتيجية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोविड और AI के बाद अमेरिका-चीन वर्चस्व संघर्ष का केंद्र: उन्नत हार्डवेयर और बिजली ढांचा",
+        "excerpt": "हाल के शेयर बाजारों में मैक्रो अर्थव्यवस्था और नतीजों से आगे राजनीतिक, कूटनीतिक और सैन्य कारकों का असर बढ़ रहा है; कोविड और AI ने अमेरिका-चीन प्रतिस्पर्धा को उन्नत हार्डवेयर और बिजली ढांचे पर केंद्रित किया है।",
+        "body": "हाल के शेयर बाजार केवल मैक्रो आर्थिक संकेतकों और कंपनियों के नतीजों से प्रभावित नहीं हो रहे, बल्कि राजनीतिक, कूटनीतिक और सैन्य कारकों का प्रभाव भी बढ़ा है। मूल लेख कोविड और AI से पैदा हुए बदलावों के बीच अमेरिका-चीन वर्चस्व प्रतिस्पर्धा के सार को देखता है और बताता है कि उन्नत हार्डवेयर तथा बिजली अवसंरचना प्रमुख उत्तर के रूप में उभरे हैं। लेख यह भी नोट करता है कि पिछले कुछ वर्षों जैसी बार-बार युद्ध की स्थिति दुर्लभ रही है, जिससे बाजार को प्रभावित करने वाले कारकों का दायरा व्यापक हुआ है। इसलिए निवेशकों को अर्थव्यवस्था और नतीजों के साथ अंतरराष्ट्रीय व्यवस्था में बदलाव और रणनीतिक उद्योगों की बुनियाद भी देखनी होगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Rivalitas AS-China setelah Covid dan AI: perangkat keras maju dan infrastruktur listrik menguat",
+        "excerpt": "Pasar saham kini makin dipengaruhi faktor politik, diplomatik, dan militer selain makroekonomi serta kinerja emiten; Covid dan AI menempatkan perangkat keras maju dan infrastruktur listrik di pusat rivalitas AS-China.",
+        "body": "Pasar saham belakangan ini tidak hanya dipengaruhi indikator makroekonomi dan kinerja perusahaan, tetapi juga semakin besar oleh faktor politik, diplomatik, dan militer. Naskah asli menyoroti esensi persaingan hegemoni antara Amerika Serikat dan China di tengah perubahan yang dipicu Covid dan AI, serta menjelaskan bahwa perangkat keras maju dan infrastruktur listrik muncul sebagai jawaban utama. Artikel itu juga mencatat bahwa jarang terjadi perang sesering beberapa tahun terakhir, sehingga ruang lingkup variabel pasar menjadi lebih luas. Karena itu, investor perlu memantau ekonomi dan kinerja perusahaan bersama perubahan tatanan internasional serta fondasi industri strategis. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "fa35716f7d99",
+    "slug": "삼전닉스-그렇게-올라도-여전히-싸다미래-숫자로-보는-선행-per-464236",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T19:03:51.909Z",
+    "updatedAt": "2026-05-10T19:03:51.909Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042783",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042783",
+    "titleFingerprint": "48122642bd58342d3c45814d738a7f37bd2fd976",
+    "dedupKeys": [
+      "fa35716f7d993fed6e75ed60601b45df2486913f",
+      "48122642bd58342d3c45814d738a7f37bd2fd976",
+      "aaac990815f932a4d0ba076a634e85cf66e9371a"
+    ],
+    "imageUrl": "/images/articles/fa35716f7d99.jpg",
+    "i18n": {
+      "ko": {
+        "title": "선행 PER로 본 삼전닉스 밸류에이션, 올라도 여전히 싼가",
+        "excerpt": "매일경제는 주린이 ABC에서 삼성전자·SK하이닉스 등 반도체주가 오른 뒤에도 싸다고 볼 수 있는지 미래 이익 기준 선행 PER로 살피는 방법을 설명했다.",
+        "body": "매일경제는 주린이 ABC를 통해 삼성전자와 SK하이닉스 등 이른바 ‘삼전닉스’ 주가가 크게 오른 뒤에도 여전히 싸다고 볼 수 있는지를 선행 PER 관점에서 짚었다. 앞서 이 코너는 기업의 성적표인 EPS, 즉 주당순이익과 시장의 기대치를 뜻하는 PER, 주가수익배수가 곱해져 하나의 주가가 형성되는 구조를 설명했다. 이번 주제는 현재 실적이 아니라 미래 숫자로 밸류에이션을 보는 선행 PER이다. 주가가 이미 상승했더라도 향후 이익 전망이 함께 커지면 평가가 달라질 수 있다는 점이 핵심이다. 투자자는 단순한 주가 상승률보다 EPS와 PER의 관계, 그리고 미래 이익 기준의 배수를 함께 확인할 필요가 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Forward PER and Samsung-SK Hynix Valuation: Still Cheap After Gains?",
+        "excerpt": "Maeil Business Newspaper’s Jurini ABC explains how to assess whether Samsung Electronics and SK Hynix remain cheap after rising, using forward PER based on future earnings.",
+        "body": "Maeil Business Newspaper examined, through its Jurini ABC series, whether Samsung Electronics and SK Hynix, often grouped in Korea as “Samjeon-nix,” can still be considered cheap after strong share-price gains, using the lens of forward PER. The previous lesson explained how a stock price is formed when EPS, or earnings per share, is multiplied by PER, the price-earnings multiple that reflects market expectations. This installment focuses on forward PER, which values a company with future numbers rather than only current results. The key point is that even if a stock has already risen, its valuation can look different if future earnings forecasts also increase. Investors need to check the relationship between EPS and PER, along with multiples based on expected earnings, instead of looking only at the share-price rise. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "予想PERで見るサムスン電子・SKハイニックス、上昇後も割安か",
+        "excerpt": "毎日経済は「株初心者ABC」で、サムスン電子とSKハイニックスが上昇後も割安と見られるかを、将来利益に基づく予想PERで説明した。",
+        "body": "毎日経済は「株初心者ABC」を通じて、サムスン電子とSKハイニックス、いわゆる「サムジョンニックス」の株価が大きく上昇した後もなお割安と見られるのかを、予想PERの観点から取り上げた。前回は、企業の成績表に当たるEPS、つまり1株当たり利益と、市場の期待値を示すPER、株価収益率が掛け合わされて一つの株価が形成される仕組みを説明した。今回のテーマは、現在の実績ではなく将来の数字でバリュエーションを見る予想PERだ。株価がすでに上がっていても、今後の利益見通しが同時に大きくなれば評価は変わり得る点が核心となる。投資家は単純な株価上昇率だけでなく、EPSとPERの関係、そして将来利益基準の倍率を併せて確認する必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "用预期市盈率看三星电子与SK海力士，涨后仍便宜吗",
+        "excerpt": "每日经济在“股市新手ABC”中说明，三星电子和SK海力士股价上涨后是否仍可视为便宜，应以未来盈利为基础的预期市盈率来观察。",
+        "body": "每日经济通过“股市新手ABC”栏目，从预期市盈率角度分析三星电子和SK海力士等所谓“三电力士”股价大幅上涨后是否仍可被视为便宜。此前该栏目说明，作为企业成绩单的EPS，即每股收益，与代表市场预期的PER，即市盈率相乘，才形成一个股票价格。此次主题是不用当前业绩，而用未来数字观察估值的预期市盈率。核心在于，即使股价已经上涨，如果未来盈利预期也同步扩大，估值判断仍可能不同。投资者不应只看单纯的股价涨幅，还需要同时确认EPS与PER的关系，以及基于未来盈利的倍数。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "PER adelantado en Samsung y SK Hynix: ¿siguen baratas tras subir?",
+        "excerpt": "Maeil Business Newspaper explicó en Jurini ABC cómo evaluar si Samsung Electronics y SK Hynix siguen baratas tras sus alzas usando el PER adelantado basado en beneficios futuros.",
+        "body": "Maeil Business Newspaper analizó en su serie Jurini ABC si las acciones de Samsung Electronics y SK Hynix, agrupadas popularmente en Corea como “Samjeon-nix”, aún pueden considerarse baratas después de fuertes subidas, desde la perspectiva del PER adelantado. En la entrega anterior explicó que una cotización se forma al multiplicar el EPS, o beneficio por acción, por el PER, múltiplo precio-beneficio que refleja las expectativas del mercado. El tema actual es el PER adelantado, que valora una empresa con cifras futuras y no solo con resultados presentes. La idea central es que, aunque una acción ya haya subido, su valoración puede verse distinta si también aumentan las previsiones de beneficios. Los inversores deben revisar la relación entre EPS y PER y los múltiplos basados en beneficios esperados, no solo el porcentaje de alza de la acción. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "PER futuro em Samsung e SK Hynix: ainda estão baratas após a alta?",
+        "excerpt": "O Maeil Business Newspaper explicou no Jurini ABC como avaliar se Samsung Electronics e SK Hynix seguem baratas após as altas usando o PER futuro baseado em lucros esperados.",
+        "body": "O Maeil Business Newspaper analisou, na série Jurini ABC, se Samsung Electronics e SK Hynix, frequentemente reunidas na Coreia como “Samjeon-nix”, ainda podem ser consideradas baratas depois de fortes altas nas ações, sob a ótica do PER futuro. Na edição anterior, a coluna explicou que o preço de uma ação se forma quando o EPS, ou lucro por ação, é multiplicado pelo PER, múltiplo preço-lucro que representa as expectativas do mercado. O tema atual é o PER futuro, que avalia a empresa com números projetados, não apenas com resultados atuais. O ponto central é que, mesmo após a alta da ação, a avaliação pode mudar se as previsões de lucro futuro também aumentarem. Investidores devem observar a relação entre EPS e PER e os múltiplos baseados em lucros esperados, não só a valorização do preço. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Forward-KGV bei Samsung und SK Hynix: Nach Kursanstieg noch günstig?",
+        "excerpt": "Maeil Business Newspaper erklärt in Jurini ABC, wie sich prüfen lässt, ob Samsung Electronics und SK Hynix nach Kursgewinnen über das Forward-KGV auf Basis künftiger Gewinne noch günstig wirken.",
+        "body": "Maeil Business Newspaper beleuchtete in der Reihe Jurini ABC, ob Samsung Electronics und SK Hynix, in Korea oft gemeinsam als „Samjeon-nix“ bezeichnet, nach deutlichen Kursanstiegen weiterhin als günstig gelten können, und zwar aus Sicht des Forward-KGV. Zuvor hatte die Reihe erklärt, dass ein Aktienkurs entsteht, wenn das EPS, also der Gewinn je Aktie, mit dem KGV multipliziert wird, dem Kurs-Gewinn-Multiple, das Markterwartungen widerspiegelt. Diesmal geht es um das Forward-KGV, das eine Bewertung nicht nur anhand aktueller Ergebnisse, sondern mit künftigen Zahlen betrachtet. Entscheidend ist: Selbst wenn eine Aktie bereits gestiegen ist, kann die Bewertung anders ausfallen, wenn auch die erwarteten künftigen Gewinne zulegen. Anleger sollten daher nicht nur den Kursanstieg, sondern auch das Verhältnis von EPS und KGV sowie Multiples auf Basis erwarteter Gewinne prüfen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "PER anticipé de Samsung et SK Hynix : encore bon marché après la hausse ?",
+        "excerpt": "Maeil Business Newspaper explique dans Jurini ABC comment juger si Samsung Electronics et SK Hynix restent bon marché après leur hausse grâce au PER anticipé fondé sur les bénéfices futurs.",
+        "body": "Maeil Business Newspaper a examiné, dans sa série Jurini ABC, si Samsung Electronics et SK Hynix, souvent regroupées en Corée sous le nom de « Samjeon-nix », peuvent encore être considérées comme bon marché après une forte hausse de leurs cours, à travers le prisme du PER anticipé. L’épisode précédent expliquait qu’un cours de Bourse se forme lorsque le BPA, ou bénéfice par action, est multiplié par le PER, le multiple cours-bénéfice qui reflète les attentes du marché. Le thème actuel est le PER anticipé, qui valorise une entreprise avec des chiffres futurs plutôt qu’avec les seuls résultats présents. L’idée clé est que, même si une action a déjà monté, son évaluation peut changer si les prévisions de bénéfices futurs augmentent aussi. Les investisseurs doivent donc examiner la relation entre BPA et PER ainsi que les multiples fondés sur les bénéfices attendus, et pas seulement la hausse du cours. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "مكرر الربحية المستقبلي لسامسونغ وSK هاينكس: هل بقيتا رخيصتين بعد الصعود؟",
+        "excerpt": "شرحت صحيفة ماييل الاقتصادية في سلسلة Jurini ABC كيفية تقييم ما إذا كانت سامسونغ إلكترونيكس وSK هاينكس لا تزالان رخيصتين بعد الارتفاع عبر مكرر الربحية المستقبلي.",
+        "body": "تناولت صحيفة ماييل الاقتصادية، عبر سلسلة Jurini ABC، ما إذا كانت أسهم سامسونغ إلكترونيكس وSK هاينكس، المعروفتين معا في كوريا باسم «سامجون-نيكس»، لا تزال تعد رخيصة بعد ارتفاع كبير في الأسعار، وذلك من منظور مكرر الربحية المستقبلي. وكانت الحلقة السابقة قد أوضحت أن سعر السهم يتشكل عندما يضرب ربح السهم EPS في مكرر الربحية PER، وهو مضاعف السعر إلى الربح الذي يعكس توقعات السوق. أما موضوع هذه الحلقة فهو مكرر الربحية المستقبلي، الذي ينظر إلى التقييم عبر أرقام مستقبلية لا عبر النتائج الحالية فقط. الفكرة الأساسية أن السهم، حتى إذا كان قد ارتفع بالفعل، قد يبدو تقييمه مختلفا إذا ارتفعت أيضا توقعات الأرباح المستقبلية. لذلك يحتاج المستثمرون إلى فحص علاقة EPS وPER، وكذلك المضاعفات المبنية على الأرباح المتوقعة، بدلا من الاكتفاء بنسبة ارتفاع السعر. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "फॉरवर्ड PER से Samsung और SK Hynix का मूल्यांकन, तेजी के बाद भी सस्ते?",
+        "excerpt": "Maeil Business Newspaper ने Jurini ABC में बताया कि Samsung Electronics और SK Hynix की तेजी के बाद भी उन्हें सस्ता माना जा सकता है या नहीं, यह भविष्य की आय पर आधारित फॉरवर्ड PER से कैसे देखा जाता है।",
+        "body": "Maeil Business Newspaper ने अपनी Jurini ABC श्रृंखला में Samsung Electronics और SK Hynix, जिन्हें कोरिया में अक्सर “Samjeon-nix” कहा जाता है, के शेयरों में बड़ी तेजी के बाद भी उनके सस्ते बने रहने के सवाल को फॉरवर्ड PER के नजरिए से समझाया। पिछले भाग में बताया गया था कि किसी शेयर की कीमत EPS, यानी प्रति शेयर आय, और PER, यानी बाजार की अपेक्षाओं को दर्शाने वाले प्राइस-अर्निंग्स मल्टिपल, के गुणन से बनती है। इस बार विषय फॉरवर्ड PER है, जो मौजूदा नतीजों के बजाय भविष्य के आंकड़ों से वैल्यूएशन देखता है। मुख्य बात यह है कि शेयर पहले ही चढ़ चुका हो, तब भी यदि भविष्य की आय का अनुमान साथ-साथ बढ़ता है तो मूल्यांकन अलग दिख सकता है। निवेशकों को केवल शेयर की तेजी नहीं, बल्कि EPS और PER का संबंध तथा अपेक्षित आय पर आधारित मल्टिपल भी देखना चाहिए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Forward PER Samsung dan SK Hynix: Masih Murah Setelah Reli?",
+        "excerpt": "Maeil Business Newspaper dalam Jurini ABC menjelaskan cara menilai apakah Samsung Electronics dan SK Hynix masih murah setelah naik, memakai forward PER berbasis laba masa depan.",
+        "body": "Maeil Business Newspaper melalui seri Jurini ABC membahas apakah saham Samsung Electronics dan SK Hynix, yang di Korea kerap digabung sebagai “Samjeon-nix”, masih dapat dianggap murah setelah kenaikan besar, dengan melihat forward PER. Pada pembahasan sebelumnya, seri ini menjelaskan bahwa harga saham terbentuk ketika EPS, atau laba per saham, dikalikan dengan PER, yaitu rasio harga terhadap laba yang mencerminkan ekspektasi pasar. Topik kali ini adalah forward PER, yang menilai valuasi dengan angka masa depan, bukan hanya kinerja saat ini. Intinya, meski harga saham sudah naik, penilaiannya bisa berubah jika proyeksi laba masa depan juga meningkat. Investor perlu memeriksa hubungan EPS dan PER serta kelipatan berbasis laba yang diharapkan, bukan hanya persentase kenaikan harga saham. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "4a2ea0199249",
     "slug": "주식은-장기분산투자해야-성공부동산은-실거주-위주로-접근-257072",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Harapan KOSPI 7000 Picu Dana 100 Juta Won Masuk ke Saham Incaran Investor Besar",
         "excerpt": "Hankyung melaporkan investor ritel besar yang menggerakkan dana sekitar 100 juta won memusatkan pembelian pada saham tertentu di tengah ekspektasi KOSPI 7000.",
         "body": "Hankyung melaporkan bahwa di tengah ekspektasi terhadap level KOSPI 7000, investor ritel besar yang menggerakkan dana sekaligus sekitar 100 juta won memborong saham tertentu. Berdasarkan judul artikel, perhatian pasar tertuju pada arah aliran dana individu bernilai besar seiring meningkatnya harapan kenaikan indeks. Karena ringkasan asli tidak disediakan, nama saham spesifik, nilai pembelian, periode, dan angka latar belakang rinci tidak tersedia dalam informasi yang terkonfirmasi. Arus ini dapat menjadi petunjuk mengenai sentimen investor ritel dan dinamika penawaran-permintaan per saham. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "55b963ebcc0d",
-    "slug": "미국일본전공정후공정반도체-etf-각양각색-623093",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T10:47:05.158Z",
-    "updatedAt": "2026-05-10T10:47:05.158Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051065431",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051065431",
-    "titleFingerprint": "f413584b02562c8886f77d2ec7b899965d336a60",
-    "dedupKeys": [
-      "55b963ebcc0da6b02733d2059ebeda49bcb0ef46",
-      "f413584b02562c8886f77d2ec7b899965d336a60",
-      "af07af8166695e5eea58b76583ca930ebbb6f68c"
-    ],
-    "imageUrl": "/images/articles/55b963ebcc0d.png",
-    "i18n": {
-      "ko": {
-        "title": "반도체 ETF 선택지 확대, 미국·일본·전공정·후공정별로 갈린 투자 포인트",
-        "excerpt": "한국경제는 반도체 ETF가 미국과 일본, 전공정과 후공정 등 지역과 밸류체인별로 다양해졌다고 보도했다. 투자자는 상품별 초점 차이를 확인해야 한다.",
-        "body": "반도체 ETF 시장에서 미국, 일본, 전공정, 후공정 등 서로 다른 투자 축을 내세운 상품들이 다양하게 제시되고 있다고 한국경제가 보도했다. 보도에 따르면 같은 반도체 테마라도 편입 대상이 미국 중심인지 일본 중심인지, 또는 반도체 생산 과정 중 전공정에 초점을 두는지 후공정에 초점을 두는지에 따라 성격이 달라진다. 이는 투자자가 단순히 ‘반도체 ETF’라는 이름만 보고 선택하기보다 지역과 공정, 밸류체인 노출 범위를 함께 살펴야 함을 뜻한다. 관련 상품의 차별화는 반도체 산업에 대한 투자 수요가 세분화되고 있음을 보여준다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Semiconductor ETFs Expand as U.S., Japan, Front-End and Back-End Themes Divide Choices",
-        "excerpt": "Hankyung reported that semiconductor ETFs now vary by region and value-chain focus, including U.S., Japan, front-end and back-end themes, requiring closer product comparison.",
-        "body": "Hankyung reported that the semiconductor ETF market is offering a wider range of products built around different investment axes, including the United States, Japan, front-end processes and back-end processes. According to the report, even ETFs under the same semiconductor theme can differ depending on whether their holdings are centered on the U.S. or Japan, or whether they focus on front-end or back-end stages of chip production. This means investors should not choose based only on the label “semiconductor ETF,” but should also check regional exposure, process focus and value-chain coverage. The differentiation of these products shows that demand for semiconductor investment is becoming more segmented. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "半導体ETFの選択肢拡大、米国・日本・前工程・後工程で投資軸が分化",
-        "excerpt": "韓国経済は、半導体ETFが米国、日本、前工程、後工程など地域とバリューチェーン別に多様化していると報じた。商品ごとの焦点確認が重要だ。",
-        "body": "韓国経済は、半導体ETF市場で米国、日本、前工程、後工程など異なる投資軸を掲げる商品が多様に提示されていると報じた。報道によると、同じ半導体テーマでも、組み入れ対象が米国中心なのか日本中心なのか、また半導体生産工程のうち前工程に焦点を当てるのか後工程に焦点を当てるのかによって性格が異なる。これは投資家が単に「半導体ETF」という名称だけで選ぶのではなく、地域、工程、バリューチェーンへのエクスポージャーをあわせて確認する必要があることを意味する。商品の差別化は、半導体産業への投資需要が細分化していることを示している。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "半导体ETF选择增多，美国、日本、前道与后道工序成投资分化点",
-        "excerpt": "韩国经济报道称，半导体ETF正按美国、日本、前道工序和后道工序等地区与价值链维度多样化，投资者需比较产品重点。",
-        "body": "韩国经济报道称，半导体ETF市场正在推出更多以不同投资轴心为重点的产品，包括美国、日本、前道工序和后道工序等。报道称，即使同属半导体主题，ETF的性质也会因持仓对象偏向美国还是日本，或聚焦芯片生产中的前道工序还是后道工序而不同。这意味着投资者不应只凭“半导体ETF”这一名称作出选择，还需要同时查看地区敞口、工序重点和价值链覆盖范围。相关产品的差异化显示，市场对半导体产业的投资需求正在进一步细分。来源: hankyung.com"
-      },
-      "es": {
-        "title": "ETF de semiconductores se diversifican por EE.UU., Japón, fase inicial y fase final",
-        "excerpt": "Hankyung informó que los ETF de semiconductores se han diversificado por región y cadena de valor, con enfoques en EE.UU., Japón, procesos iniciales y finales.",
-        "body": "Hankyung informó que el mercado de ETF de semiconductores presenta una gama más amplia de productos basados en distintos ejes de inversión, como Estados Unidos, Japón, procesos iniciales y procesos finales. Según el reporte, incluso dentro del mismo tema de semiconductores, el carácter de cada ETF puede variar según si sus componentes se centran en EE.UU. o Japón, o si se enfocan en etapas iniciales o finales de la producción de chips. Esto implica que los inversores no deberían elegir solo por el nombre “ETF de semiconductores”, sino revisar también la exposición regional, el foco del proceso y el alcance dentro de la cadena de valor. La diferenciación muestra una demanda de inversión más segmentada. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "ETFs de semicondutores se diversificam entre EUA, Japão, front-end e back-end",
-        "excerpt": "O Hankyung informou que ETFs de semicondutores variam por região e cadeia de valor, incluindo EUA, Japão, processos front-end e back-end, exigindo comparação cuidadosa.",
-        "body": "O Hankyung informou que o mercado de ETFs de semicondutores oferece uma variedade maior de produtos construídos em torno de diferentes eixos de investimento, como Estados Unidos, Japão, processos front-end e processos back-end. Segundo a reportagem, mesmo dentro do mesmo tema de semicondutores, os ETFs podem ter características diferentes conforme suas carteiras estejam centradas nos EUA ou no Japão, ou conforme foquem etapas front-end ou back-end da produção de chips. Isso significa que o investidor não deve escolher apenas pelo nome “ETF de semicondutores”, mas também verificar exposição regional, foco de processo e cobertura da cadeia de valor. A diferenciação indica demanda de investimento mais segmentada. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Halbleiter-ETFs werden vielfältiger: USA, Japan, Front-End und Back-End im Fokus",
-        "excerpt": "Hankyung berichtete, dass Halbleiter-ETFs nach Region und Wertschöpfungskette variieren, darunter USA, Japan, Front-End- und Back-End-Schwerpunkte.",
-        "body": "Hankyung berichtete, dass der Markt für Halbleiter-ETFs eine breitere Palette von Produkten anbietet, die auf unterschiedlichen Investitionsachsen beruhen, darunter die USA, Japan, Front-End-Prozesse und Back-End-Prozesse. Dem Bericht zufolge können sich ETFs trotz desselben Halbleiterthemas unterscheiden, je nachdem, ob ihre Bestandteile stärker auf die USA oder Japan ausgerichtet sind oder ob sie sich auf Front-End- oder Back-End-Stufen der Chipproduktion konzentrieren. Anleger sollten daher nicht allein nach der Bezeichnung „Halbleiter-ETF“ auswählen, sondern auch regionale Ausrichtung, Prozessfokus und Abdeckung der Wertschöpfungskette prüfen. Die Produktdifferenzierung zeigt eine stärker segmentierte Nachfrage nach Halbleiterinvestments. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les ETF semi-conducteurs se multiplient entre États-Unis, Japon, front-end et back-end",
-        "excerpt": "Hankyung rapporte que les ETF semi-conducteurs se diversifient par région et chaîne de valeur, avec des axes États-Unis, Japon, front-end et back-end.",
-        "body": "Hankyung rapporte que le marché des ETF semi-conducteurs propose une gamme plus large de produits construits autour d’axes d’investissement distincts, notamment les États-Unis, le Japon, les processus front-end et les processus back-end. Selon l’article, même au sein du même thème des semi-conducteurs, un ETF peut avoir un profil différent selon que ses composants sont centrés sur les États-Unis ou le Japon, ou selon qu’il cible les étapes front-end ou back-end de la production de puces. Les investisseurs ne devraient donc pas se fier uniquement au nom « ETF semi-conducteurs », mais aussi examiner l’exposition régionale, le processus visé et la couverture de la chaîne de valeur. Cette différenciation montre une demande d’investissement plus segmentée. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صناديق ETF لأشباه الموصلات تتنوع بين أميركا واليابان والمراحل الأمامية والخلفية",
-        "excerpt": "ذكرت هانكيونغ أن صناديق ETF لأشباه الموصلات أصبحت أكثر تنوعا حسب المنطقة وسلسلة القيمة، بما يشمل أميركا واليابان والمراحل الأمامية والخلفية.",
-        "body": "ذكرت هانكيونغ أن سوق صناديق ETF لأشباه الموصلات يعرض مجموعة أوسع من المنتجات القائمة على محاور استثمارية مختلفة، منها الولايات المتحدة واليابان والمراحل الأمامية والمراحل الخلفية في الإنتاج. ووفقا للتقرير، فإن الصناديق التي تحمل موضوع أشباه الموصلات نفسه قد تختلف في طبيعتها بحسب ما إذا كانت مكوناتها تتركز في الولايات المتحدة أو اليابان، أو ما إذا كانت تركز على المراحل الأمامية أو الخلفية من تصنيع الرقائق. وهذا يعني أن المستثمرين لا ينبغي أن يختاروا اعتمادا على اسم “ETF لأشباه الموصلات” فقط، بل عليهم فحص الانكشاف الجغرافي وتركيز العملية ونطاق سلسلة القيمة. ويظهر هذا التمايز أن الطلب الاستثماري على قطاع أشباه الموصلات أصبح أكثر تجزؤا. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर ETF विकल्प बढ़े, अमेरिका, जापान, फ्रंट-एंड और बैक-एंड बने अलग फोकस",
-        "excerpt": "हैंक्युंग ने बताया कि सेमीकंडक्टर ETF अब अमेरिका, जापान, फ्रंट-एंड और बैक-एंड जैसे क्षेत्रीय और वैल्यू-चेन फोकस के आधार पर विविध हो रहे हैं।",
-        "body": "हैंक्युंग ने बताया कि सेमीकंडक्टर ETF बाजार में अमेरिका, जापान, फ्रंट-एंड प्रक्रिया और बैक-एंड प्रक्रिया जैसे अलग-अलग निवेश आधारों पर बने उत्पाद अधिक विविध रूप में सामने आ रहे हैं। रिपोर्ट के अनुसार, एक ही सेमीकंडक्टर थीम के भीतर भी ETF की प्रकृति इस बात पर निर्भर करती है कि उसकी होल्डिंग अमेरिका केंद्रित है या जापान केंद्रित, या वह चिप उत्पादन की फ्रंट-एंड अवस्था पर ध्यान देता है या बैक-एंड अवस्था पर। इसका अर्थ है कि निवेशकों को केवल “सेमीकंडक्टर ETF” नाम देखकर चयन नहीं करना चाहिए, बल्कि क्षेत्रीय एक्सपोजर, प्रक्रिया फोकस और वैल्यू-चेन कवरेज भी देखना चाहिए। उत्पादों का यह अंतर दिखाता है कि सेमीकंडक्टर निवेश मांग अधिक विभाजित हो रही है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "ETF Semikonduktor Makin Beragam, dari AS, Jepang, Front-End hingga Back-End",
-        "excerpt": "Hankyung melaporkan ETF semikonduktor kini makin beragam menurut wilayah dan rantai nilai, termasuk fokus AS, Jepang, proses front-end dan back-end.",
-        "body": "Hankyung melaporkan bahwa pasar ETF semikonduktor menawarkan pilihan produk yang semakin beragam berdasarkan poros investasi berbeda, termasuk Amerika Serikat, Jepang, proses front-end dan proses back-end. Menurut laporan tersebut, meski sama-sama bertema semikonduktor, karakter ETF dapat berbeda tergantung apakah konstituennya berpusat pada AS atau Jepang, atau apakah fokusnya pada tahap front-end atau back-end dalam produksi chip. Artinya, investor tidak sebaiknya memilih hanya berdasarkan nama “ETF semikonduktor”, tetapi juga perlu memeriksa eksposur wilayah, fokus proses dan cakupan rantai nilai. Diferensiasi produk ini menunjukkan permintaan investasi pada industri semikonduktor semakin tersegmentasi. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "b8b7f9f60eae",
-    "slug": "코스닥-순환매-가능성10-이상-추가상승-여력있다-210884",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T10:46:05.167Z",
-    "updatedAt": "2026-05-10T10:46:05.167Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051065981",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051065981",
-    "titleFingerprint": "039fb0bba2c85cd05467622438a04d27677c1b32",
-    "dedupKeys": [
-      "b8b7f9f60eaeb14d9890bf9883509af2846af0a9",
-      "039fb0bba2c85cd05467622438a04d27677c1b32",
-      "6892af5f48afd4f39516c3b106ffad8d689b86bc"
-    ],
-    "imageUrl": "/images/articles/b8b7f9f60eae.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스닥 순환매 기대 커졌다…120일선까지 10% 이상 추가상승 여력 주목",
-        "excerpt": "한국경제는 코스피가 매물대에 막힐 경우 상대적으로 덜 오른 코스닥으로 순환매가 확산될 수 있으며, 120일선까지 10% 이상 추가 상승 여력이 있다고 전했다.",
-        "body": "코스닥시장이 거래소 시장의 매물대 부담 속에서 대안으로 부각될 수 있다는 전망이 나왔다. 한국경제에 따르면 거래소가 지지부진할 경우 그동안 상대적으로 덜 오른 코스닥의 강세가 뚜렷해질 가능성이 제기됐다. 코스닥은 50선을 돌파한 뒤 2차 저항선인 120일선 55선까지 매물 부담이 적어 10% 이상 추가 상승 여력이 있다는 분석이다. 거래량은 최근 연일 3조원대를 넘고 거래대금도 1조원 안팎을 기록했다. 개인의 차익실현 이후 대기 자금, 외국인의 우량주 관심, 다음과 NHN 등 인터넷주의 강세도 긍정 요인으로 거론됐다. 다만 실적이 뒷받침되지 않는 종목은 반등 시 현금 비중 확보가 바람직하다는 조언도 함께 제시됐다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KOSDAQ Rotation Gains Attention as Analysts See Over 10% Upside to 120-Day Line",
-        "excerpt": "Hankyung reported that if the main exchange remains capped by overhead supply, rotational buying may shift to the relatively lagging KOSDAQ, leaving room for more than 10% additional gains.",
-        "body": "The KOSDAQ market could emerge as an alternative while the main exchange faces resistance from overhead supply, according to Hankyung. The report said that if the exchange remains sluggish, strength in the relatively underperforming KOSDAQ could become more visible. After breaking above the 50 level, the KOSDAQ faces limited supply pressure until the 55 level, where the 120-day moving average is located, implying more than 10% additional upside. Recent trading volume has exceeded the 3 trillion range on consecutive days, while transaction value has hovered around 1 trillion won. Cash held by individuals after profit-taking, foreign interest in quality shares, and gains in internet stocks such as Daum and NHN were cited as positive factors. However, the report also advised using rebounds in stocks without earnings support to secure more cash. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "コスダック循環物色に期待、120日線まで10％超の追加上昇余地",
-        "excerpt": "韓国経済新聞は、取引所市場が上値の売り物に抑えられる場合、相対的に出遅れたコスダックへ循環物色が広がり、10％超の追加上昇余地があると伝えた。",
-        "body": "コスダック市場が、取引所市場の上値の売り物負担の中で代替先として浮上する可能性があるとの見方が出ている。韓国経済新聞によると、取引所市場が伸び悩む場合、これまで相対的に出遅れていたコスダックの強さが鮮明になる可能性が指摘された。コスダックは50台を突破した後、2次抵抗線である120日移動平均線の55台まで売り物負担が小さく、10％超の追加上昇余地があるとの分析だ。最近の出来高は連日3兆台を超え、売買代金も1兆ウォン前後を記録した。個人の利益確定後の待機資金、外国人の優良株への関心、DaumやNHNなどインターネット株の上昇も好材料として挙げられた。ただし、業績が伴わない銘柄については反発時に現金比率を高めるのが望ましいとの助言も示された。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "KOSDAQ轮动买盘受关注，至120日线仍有逾10%上行空间",
-        "excerpt": "韩国经济新闻报道称，若交易所市场受上方套牢盘压制，相对滞涨的KOSDAQ可能迎来轮动买盘，并具备超过10%的进一步上涨空间。",
-        "body": "在交易所市场面临上方套牢盘压力之际，KOSDAQ市场可能成为替代选择。韩国经济新闻报道称，若交易所市场走势低迷，此前相对滞涨的KOSDAQ强势可能更加明显。分析认为，KOSDAQ突破50点后，到位于55点附近的120日均线这一第二阻力位之前，抛压相对有限，因此仍有超过10%的进一步上涨空间。近期成交量连续多日超过3万亿规模，成交金额也在1万亿韩元左右。个人投资者获利了结后的待机资金、外资对优质股的关注，以及Daum、NHN等互联网股走强，也被列为积极因素。不过，报道同时建议，对业绩缺乏支撑的个股，应利用反弹提高现金比重。来源: hankyung.com"
-      },
-      "es": {
-        "title": "El KOSDAQ atrae rotación: ven más de 10% de potencial hasta la media de 120 días",
-        "excerpt": "Hankyung informó que, si el mercado principal queda frenado por resistencias, las compras rotativas podrían desplazarse al KOSDAQ, relativamente rezagado, con más de 10% de recorrido adicional.",
-        "body": "El mercado KOSDAQ podría ganar protagonismo como alternativa mientras la bolsa principal enfrenta presión de oferta en zonas de resistencia, según Hankyung. El reporte señaló que, si el mercado principal sigue sin avanzar, la fortaleza del KOSDAQ, que había subido relativamente menos, podría hacerse más evidente. Tras superar el nivel de 50, el KOSDAQ tendría poca presión de venta hasta el nivel de 55, donde se ubica la media móvil de 120 días, lo que implica más de 10% de potencial adicional. El volumen reciente ha superado durante varios días la zona de 3 billones, mientras el valor negociado ronda 1 billón de wones. También se citaron como factores positivos el efectivo disponible tras la toma de ganancias de inversores minoristas, el interés extranjero por acciones de calidad y el avance de valores de internet como Daum y NHN. Aun así, se recomendó aprovechar los rebotes en acciones sin respaldo de resultados para elevar la proporción de efectivo. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "KOSDAQ ganha força com rotação e pode subir mais de 10% até a média de 120 dias",
-        "excerpt": "O Hankyung informou que, se a bolsa principal ficar limitada por resistências, a rotação pode migrar para o KOSDAQ, relativamente atrasado, deixando espaço para alta adicional superior a 10%.",
-        "body": "O mercado KOSDAQ pode surgir como alternativa enquanto a bolsa principal enfrenta pressão de oferta em zonas de resistência, segundo o Hankyung. A reportagem afirmou que, se o mercado principal continuar sem direção, a força do KOSDAQ, que havia subido relativamente menos, pode ficar mais clara. Depois de romper o nível de 50, o KOSDAQ teria pouca pressão vendedora até o nível de 55, onde está a média móvel de 120 dias, o que indica potencial de alta adicional superior a 10%. O volume recente tem superado por vários dias a faixa de 3 trilhões, enquanto o valor negociado gira em torno de 1 trilhão de won. Também foram citados como fatores positivos o caixa de investidores individuais após realização de lucros, o interesse estrangeiro por ações de qualidade e a alta de papéis de internet como Daum e NHN. Ainda assim, a reportagem recomendou usar repiques em ações sem suporte de resultados para aumentar a posição em caixa. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KOSDAQ-Rotation rückt in den Fokus: Über 10% Potenzial bis zur 120-Tage-Linie",
-        "excerpt": "Hankyung berichtete, dass bei anhaltendem Widerstand im Hauptmarkt rotierende Käufe in den relativ zurückgebliebenen KOSDAQ fließen könnten, mit mehr als 10% weiterem Aufwärtspotenzial.",
-        "body": "Der KOSDAQ-Markt könnte als Alternative an Bedeutung gewinnen, während der Hauptmarkt durch Angebotsdruck an Widerstandszonen belastet bleibt, berichtete Hankyung. Sollte der Hauptmarkt weiter schwächeln, könnte die Stärke des relativ zurückgebliebenen KOSDAQ deutlicher hervortreten. Nach dem Ausbruch über die Marke von 50 gebe es bis zur zweiten Widerstandszone bei 55, wo die 120-Tage-Linie verläuft, nur begrenzten Verkaufsdruck. Daraus ergebe sich ein zusätzliches Aufwärtspotenzial von mehr als 10%. Das Handelsvolumen lag zuletzt mehrere Tage in Folge über der Marke von 3 Billionen, der Handelswert bewegte sich um 1 Billion Won. Als positive Faktoren wurden zudem Barreserven privater Anleger nach Gewinnmitnahmen, ausländisches Interesse an Qualitätswerten sowie Kursgewinne bei Internetaktien wie Daum und NHN genannt. Bei Aktien ohne Ergebnisunterstützung wurde jedoch geraten, Erholungen zur Erhöhung der Cashquote zu nutzen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le KOSDAQ porté par la rotation: plus de 10% de potentiel vers la moyenne 120 jours",
-        "excerpt": "Hankyung a indiqué que, si le marché principal reste bloqué par des résistances, les achats par rotation pourraient se diriger vers le KOSDAQ, moins avancé, avec plus de 10% de hausse possible.",
-        "body": "Le marché KOSDAQ pourrait apparaître comme une alternative alors que le marché principal subit la pression de zones de résistance, selon Hankyung. Le média a indiqué que, si la place principale reste hésitante, la vigueur du KOSDAQ, qui avait relativement moins progressé, pourrait devenir plus nette. Après avoir franchi le niveau de 50, le KOSDAQ rencontrerait peu de pression vendeuse jusqu’au niveau de 55, où se situe la moyenne mobile à 120 jours, ce qui laisse entrevoir plus de 10% de potentiel supplémentaire. Les volumes récents ont dépassé plusieurs jours de suite la zone des 3 billions, tandis que la valeur échangée avoisine 1 billion de wons. Les liquidités des particuliers après prises de bénéfices, l’intérêt étranger pour les valeurs de qualité et la hausse des titres internet comme Daum et NHN ont aussi été cités comme facteurs positifs. Toutefois, il a été conseillé de profiter des rebonds sur les titres sans soutien des résultats pour renforcer la part de liquidités. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كوسداك يترقب موجة تدوير شرائي مع إمكانية صعود تتجاوز 10% حتى متوسط 120 يوما",
-        "excerpt": "ذكرت هانكيونغ أنه إذا ظل السوق الرئيسي مقيدا بمناطق مقاومة، فقد تنتقل عمليات الشراء الدورية إلى كوسداك الأقل صعودا، مع مساحة ارتفاع إضافية تتجاوز 10%.",
-        "body": "قد يبرز سوق كوسداك كبديل في ظل ضغط المعروض عند مناطق المقاومة في السوق الرئيسي، بحسب هانكيونغ. وذكر التقرير أنه إذا استمر ضعف أداء السوق الرئيسي، فقد تصبح قوة كوسداك، الذي ارتفع بدرجة أقل نسبيا، أكثر وضوحا. وبعد تجاوز مستوى 50، يواجه كوسداك ضغط بيع محدودا حتى مستوى 55، حيث يقع المتوسط المتحرك لـ120 يوما، ما يعني وجود إمكانية صعود إضافية تتجاوز 10%. وتجاوز حجم التداول مؤخرا نطاق 3 تريليونات لعدة أيام متتالية، بينما دار إجمالي قيمة التداول حول 1 تريليون وون. كما عُدت السيولة المتاحة لدى الأفراد بعد جني الأرباح، واهتمام الأجانب بالأسهم الجيدة، وصعود أسهم الإنترنت مثل Daum وNHN عوامل إيجابية. ومع ذلك، نصح التقرير باستخدام الارتدادات في الأسهم غير المدعومة بالأرباح لزيادة نسبة السيولة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KOSDAQ में रोटेशन की उम्मीद, 120-दिन रेखा तक 10% से अधिक बढ़त की गुंजाइश",
-        "excerpt": "Hankyung ने बताया कि यदि मुख्य एक्सचेंज ऊपरी सप्लाई दबाव में अटका रहता है, तो रोटेशनल खरीद अपेक्षाकृत पीछे रहे KOSDAQ में जा सकती है, जिससे 10% से अधिक अतिरिक्त बढ़त की जगह बनती है।",
-        "body": "मुख्य एक्सचेंज में ऊपरी सप्लाई दबाव के बीच KOSDAQ बाजार एक विकल्प के रूप में उभर सकता है, Hankyung के अनुसार। रिपोर्ट में कहा गया कि यदि मुख्य बाजार सुस्त रहता है, तो अब तक अपेक्षाकृत कम चढ़े KOSDAQ की मजबूती अधिक स्पष्ट हो सकती है। 50 के स्तर को पार करने के बाद KOSDAQ पर 55 के स्तर तक, जहां 120-दिन की मूविंग एवरेज है, बिकवाली का दबाव कम है। इससे 10% से अधिक अतिरिक्त बढ़त की संभावना बनती है। हाल के दिनों में ट्रेडिंग वॉल्यूम लगातार 3 ट्रिलियन के दायरे से ऊपर रहा, जबकि ट्रेडिंग वैल्यू करीब 1 ट्रिलियन वॉन रही। मुनाफावसूली के बाद व्यक्तिगत निवेशकों के पास उपलब्ध नकदी, गुणवत्तापूर्ण शेयरों में विदेशी रुचि, और Daum तथा NHN जैसे इंटरनेट शेयरों की मजबूती को भी सकारात्मक कारक बताया गया। हालांकि, जिन शेयरों को कमाई का समर्थन नहीं है, उनमें उछाल पर नकदी अनुपात बढ़ाने की सलाह दी गई। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Rotasi KOSDAQ Menguat, Ada Ruang Kenaikan Lebih 10% Menuju Garis 120 Hari",
-        "excerpt": "Hankyung melaporkan bahwa jika bursa utama tertahan oleh area pasokan, rotasi beli dapat beralih ke KOSDAQ yang relatif tertinggal, membuka ruang kenaikan tambahan lebih dari 10%.",
-        "body": "Pasar KOSDAQ dapat muncul sebagai alternatif saat bursa utama menghadapi tekanan pasokan di area resistance, menurut Hankyung. Laporan itu menyebutkan bahwa jika bursa utama tetap lesu, kekuatan KOSDAQ yang sebelumnya relatif tertinggal dapat makin terlihat. Setelah menembus level 50, KOSDAQ dinilai memiliki tekanan jual yang kecil hingga level 55, tempat garis rata-rata bergerak 120 hari berada, sehingga menyiratkan ruang kenaikan tambahan lebih dari 10%. Volume perdagangan terbaru beberapa hari berturut-turut melampaui kisaran 3 triliun, sementara nilai transaksi berada di sekitar 1 triliun won. Dana siaga investor individu setelah aksi ambil untung, minat asing pada saham berkualitas, serta penguatan saham internet seperti Daum dan NHN juga disebut sebagai faktor positif. Namun, laporan itu juga menyarankan agar rebound pada saham yang tidak didukung kinerja digunakan untuk meningkatkan porsi kas. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "13461ed5d305",
-    "slug": "두산퓨얼셀-최다-매수삼성전자-우선주도-담아-754303",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T10:44:38.342Z",
-    "updatedAt": "2026-05-10T10:44:38.342Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051065961",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051065961",
-    "titleFingerprint": "512314622edf6b54f8c2c7135158612c61a0f41b",
-    "dedupKeys": [
-      "13461ed5d305c0febb3b30e172ce54f3098ffb53",
-      "512314622edf6b54f8c2c7135158612c61a0f41b",
-      "bc8bc1a4e46b47f9d2a4b0455e4dc68ed6ce3ae2"
-    ],
-    "imageUrl": "/images/articles/13461ed5d305.png",
-    "i18n": {
-      "ko": {
-        "title": "두산퓨얼셀 최다 매수, 삼성전자 우선주도 투자자 관심 확대",
-        "excerpt": "hankyung.com 보도에 따르면 투자자 매수 흐름에서 두산퓨얼셀이 최다 매수 종목으로 언급됐고, 삼성전자 우선주도 함께 담긴 것으로 전해졌다.",
-        "body": "hankyung.com은 투자자 매수 동향과 관련해 두산퓨얼셀이 최다 매수 종목으로 언급됐다고 보도했다. 보도 제목에 따르면 삼성전자 우선주도 함께 매수 대상에 포함됐다. 이번 내용은 특정 투자 주체의 매수 흐름에서 어떤 종목이 두드러졌는지를 보여주는 사례로, 두산퓨얼셀과 삼성전자 우선주가 투자자 관심 종목으로 거론됐다는 점이 핵심이다. 다만 제공된 원문 정보에는 구체적인 매수 규모, 기간, 투자 주체, 주가 변동률 등 세부 수치는 포함되지 않았다. 따라서 영향과 전망은 해당 종목들이 매수 목록에 올랐다는 사실 범위에서만 해석할 수 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Doosan Fuel Cell Tops Buying List as Samsung Electronics Preferred Shares Added",
-        "excerpt": "According to hankyung.com, Doosan Fuel Cell was cited as the most-bought stock in investor buying trends, while Samsung Electronics preferred shares were also included.",
-        "body": "hankyung.com reported that Doosan Fuel Cell was cited as the most-bought stock in a review of investor buying trends. According to the headline, Samsung Electronics preferred shares were also added to the buying list. The report highlights which names stood out in a particular buying flow, with Doosan Fuel Cell and Samsung Electronics preferred shares mentioned as stocks drawing investor attention. However, the provided source information does not include detailed figures such as purchase size, period, investor category, or share-price movement. Therefore, any impact or outlook can only be read within the limited fact that these stocks appeared on the buying list. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "斗山フューエルセルが買い最多、サムスン電子優先株にも関心",
-        "excerpt": "hankyung.comによると、投資家の買い動向で斗山フューエルセルが最多買い銘柄として言及され、サムスン電子優先株も組み入れられた。",
-        "body": "hankyung.comは、投資家の買い動向に関連して、斗山フューエルセルが最多買い銘柄として言及されたと報じた。見出しによれば、サムスン電子の優先株も買い対象に含まれた。今回の内容は、特定の買いの流れの中でどの銘柄が目立ったかを示すもので、斗山フューエルセルとサムスン電子優先株が投資家の関心銘柄として取り上げられた点が中心だ。ただし、提供された原文情報には買い付け規模、期間、投資主体、株価変動率などの具体的な数値は含まれていない。そのため、影響や見通しは、これらの銘柄が買いリストに上がったという事実の範囲でのみ解釈できる。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "斗山燃料电池买入居首，三星电子优先股也获关注",
-        "excerpt": "据hankyung.com报道，在投资者买入动向中，斗山燃料电池被提及为买入最多的股票，三星电子优先股也被纳入买入名单。",
-        "body": "hankyung.com报道称，在投资者买入动向中，斗山燃料电池被提及为买入最多的股票。根据标题，三星电子优先股也被纳入买入对象。该报道显示，在某一买入流向中哪些股票较为突出，核心信息是斗山燃料电池和三星电子优先股被列为受到投资者关注的股票。不过，所提供的原文信息未包含具体买入规模、期间、投资主体或股价涨跌幅等详细数据。因此，对影响和前景的解读只能限于这些股票出现在买入名单这一事实范围内。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Doosan Fuel Cell lidera compras y acciones preferentes de Samsung también atraen interés",
-        "excerpt": "Según hankyung.com, Doosan Fuel Cell fue citado como el valor más comprado en los flujos de inversores, mientras también se incorporaron preferentes de Samsung Electronics.",
-        "body": "hankyung.com informó que Doosan Fuel Cell fue citado como el valor más comprado dentro de una revisión de los flujos de compra de inversores. Según el titular, las acciones preferentes de Samsung Electronics también fueron incluidas entre los valores adquiridos. El dato muestra qué nombres destacaron dentro de un flujo concreto de compras, con Doosan Fuel Cell y las preferentes de Samsung Electronics como valores mencionados por el interés inversor. Sin embargo, la información original proporcionada no incluye cifras detalladas sobre volumen de compra, periodo, tipo de inversor o variación de precio. Por ello, el impacto y la perspectiva solo pueden interpretarse dentro del hecho limitado de que estos valores aparecieron en la lista de compras. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Doosan Fuel Cell lidera compras e preferenciais da Samsung também entram na lista",
-        "excerpt": "Segundo o hankyung.com, a Doosan Fuel Cell foi citada como a ação mais comprada em fluxos de investidores, e preferenciais da Samsung Electronics também foram incluídas.",
-        "body": "O hankyung.com informou que a Doosan Fuel Cell foi citada como a ação mais comprada em uma análise dos fluxos de compra de investidores. De acordo com o título, as ações preferenciais da Samsung Electronics também entraram na lista de compras. A notícia indica quais papéis se destacaram em determinado movimento comprador, com Doosan Fuel Cell e preferenciais da Samsung Electronics mencionadas como ações de interesse dos investidores. No entanto, as informações originais fornecidas não trazem detalhes como volume comprado, período, tipo de investidor ou variação das ações. Assim, impacto e perspectiva só podem ser interpretados dentro do fato limitado de que esses papéis apareceram na lista de compras. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Doosan Fuel Cell meistgekauft, auch Samsung Electronics Vorzüge im Fokus",
-        "excerpt": "Laut hankyung.com wurde Doosan Fuel Cell in den Kaufströmen von Anlegern als meistgekaufter Wert genannt; auch Vorzugsaktien von Samsung Electronics wurden aufgenommen.",
-        "body": "hankyung.com berichtete, dass Doosan Fuel Cell im Zusammenhang mit Anlegerkäufen als meistgekaufter Wert genannt wurde. Der Überschrift zufolge wurden auch Vorzugsaktien von Samsung Electronics gekauft. Die Meldung zeigt, welche Titel in einem bestimmten Kaufstrom hervorstachen: Doosan Fuel Cell und Samsung Electronics Vorzugsaktien wurden als Werte mit Anlegerinteresse erwähnt. Die bereitgestellten Originalinformationen enthalten jedoch keine konkreten Angaben zu Kaufvolumen, Zeitraum, Anlegergruppe oder Kursveränderungen. Daher lassen sich Wirkung und Ausblick nur im Rahmen der Tatsache bewerten, dass diese Titel auf der Kaufliste standen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Doosan Fuel Cell en tête des achats, les préférentielles Samsung aussi retenues",
-        "excerpt": "Selon hankyung.com, Doosan Fuel Cell a été cité comme le titre le plus acheté dans les flux d’investisseurs, tandis que les préférentielles Samsung Electronics ont aussi été ajoutées.",
-        "body": "hankyung.com a rapporté que Doosan Fuel Cell avait été cité comme le titre le plus acheté dans l’analyse des flux d’achat d’investisseurs. D’après le titre, les actions préférentielles de Samsung Electronics ont également été incluses parmi les achats. L’information montre quels titres se sont distingués dans un flux d’achat donné, Doosan Fuel Cell et les préférentielles Samsung Electronics étant mentionnés comme valeurs attirant l’attention des investisseurs. Toutefois, les informations originales fournies ne précisent pas le montant des achats, la période, le type d’investisseur ni l’évolution des cours. L’impact et les perspectives ne peuvent donc être interprétés que dans la limite du fait que ces titres figurent sur la liste d’achats. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "دوسان فيول سيل تتصدر الشراء وأسهم سامسونغ الممتازة تدخل القائمة",
-        "excerpt": "بحسب hankyung.com، ذُكرت دوسان فيول سيل كأكثر الأسهم شراء ضمن تدفقات المستثمرين، كما شملت القائمة الأسهم الممتازة لشركة سامسونغ إلكترونيكس.",
-        "body": "أفاد موقع hankyung.com بأن دوسان فيول سيل ذُكرت كأكثر الأسهم شراء في سياق متابعة اتجاهات شراء المستثمرين. ووفق العنوان، شملت عمليات الشراء أيضا الأسهم الممتازة لشركة سامسونغ إلكترونيكس. وتوضح المعلومة أي الأسهم برزت ضمن تدفق شرائي محدد، إذ ورد اسما دوسان فيول سيل والأسهم الممتازة لسامسونغ إلكترونيكس كأوراق تحظى باهتمام المستثمرين. لكن المعلومات الأصلية المتاحة لا تتضمن تفاصيل مثل حجم الشراء أو الفترة الزمنية أو فئة المستثمرين أو تغيرات الأسعار. لذلك لا يمكن قراءة الأثر أو التوقعات إلا ضمن حدود حقيقة أن هذه الأسهم ظهرت في قائمة الشراء. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Doosan Fuel Cell में सबसे ज्यादा खरीद, Samsung Electronics प्रेफरेंस शेयर भी शामिल",
-        "excerpt": "hankyung.com के अनुसार निवेशकों की खरीदारी में Doosan Fuel Cell को सबसे अधिक खरीदा गया शेयर बताया गया, जबकि Samsung Electronics के प्रेफरेंस शेयर भी शामिल रहे।",
-        "body": "hankyung.com ने निवेशकों की खरीदारी के रुझान पर रिपोर्ट करते हुए बताया कि Doosan Fuel Cell को सबसे अधिक खरीदा गया शेयर कहा गया। शीर्षक के अनुसार Samsung Electronics के प्रेफरेंस शेयर भी खरीद सूची में शामिल रहे। यह जानकारी दिखाती है कि किसी खास खरीद प्रवाह में कौन से शेयर प्रमुख रहे, जिसमें Doosan Fuel Cell और Samsung Electronics के प्रेफरेंस शेयर निवेशकों की रुचि वाले नामों के रूप में सामने आए। हालांकि उपलब्ध मूल जानकारी में खरीद का आकार, अवधि, निवेशक वर्ग या शेयर मूल्य में बदलाव जैसे विस्तृत आंकड़े नहीं दिए गए हैं। इसलिए प्रभाव और आगे की दिशा को केवल इस तथ्य तक सीमित रखकर समझा जा सकता है कि ये शेयर खरीद सूची में शामिल थे। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Doosan Fuel Cell Paling Banyak Dibeli, Saham Preferen Samsung Juga Masuk",
-        "excerpt": "Menurut hankyung.com, Doosan Fuel Cell disebut sebagai saham yang paling banyak dibeli dalam arus beli investor, sementara saham preferen Samsung Electronics juga ikut dikoleksi.",
-        "body": "hankyung.com melaporkan bahwa Doosan Fuel Cell disebut sebagai saham yang paling banyak dibeli dalam pembahasan tren pembelian investor. Berdasarkan judul, saham preferen Samsung Electronics juga masuk dalam daftar pembelian. Informasi ini menunjukkan saham mana yang menonjol dalam arus beli tertentu, dengan Doosan Fuel Cell dan saham preferen Samsung Electronics disebut sebagai nama yang menarik perhatian investor. Namun, informasi asli yang diberikan tidak mencakup rincian seperti nilai pembelian, periode, kategori investor, atau perubahan harga saham. Karena itu, dampak dan prospeknya hanya dapat dibaca dalam batas fakta bahwa saham-saham tersebut muncul dalam daftar pembelian. Sumber: hankyung.com."
       }
     }
   }
