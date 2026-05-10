@@ -1,5 +1,230 @@
 [
   {
+    "id": "b901b8503f46",
+    "slug": "집값-잡는-건-좋은데-그러다-세입자-허리-휠-판매매-보다-전세가-더-뛰었다-385401",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T22:55:24.557Z",
+    "updatedAt": "2026-05-10T22:55:24.557Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042861",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042861",
+    "titleFingerprint": "e686b8cb5fb5e6685c3c07d57a00ccb326aa955f",
+    "dedupKeys": [
+      "b901b8503f46e1fe6a7d8447f4d773c731047f89",
+      "e686b8cb5fb5e6685c3c07d57a00ccb326aa955f",
+      "eacaaad02ca22f4dbc5da67bee69a5738a0bcd77"
+    ],
+    "imageUrl": "/images/articles/b901b8503f46.jpg",
+    "i18n": {
+      "ko": {
+        "title": "수도권 전세가격 상승률 2.20%, 매매보다 더 뛴 아파트 시장",
+        "excerpt": "올해 들어 수도권 아파트 전세가격 상승률이 2.20%로 매매가격 상승률 1.79%를 웃돌며 다주택자 규제와 신축 감소가 전세 시장 부담을 키우고 있다.",
+        "body": "올해 들어 수도권 아파트 시장에서 전세가격 상승률이 매매가격 상승률을 앞지른 것으로 나타났다. 매매가격이 1.79% 오르는 동안 전세가격은 2.20% 상승해 세입자 부담이 더 크게 부각됐다. 원문은 다주택자 규제와 신축 아파트 공급 감소가 전세 가격 상승에 영향을 준 요인으로 거론됐다고 전했다. 또 보유세를 올릴 경우 그 부담이 세입자에게 전가될 수 있다는 우려도 함께 제기됐다. 집값 안정 정책이 매매시장에는 영향을 주더라도 전세 시장에는 다른 압력으로 작용할 수 있다는 점에서 향후 전세가격 흐름이 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Metro Jeonse Rents Rise 2.20%, Outpacing Apartment Sale Prices",
+        "excerpt": "This year, apartment jeonse prices in the Seoul metropolitan area rose 2.20%, above the 1.79% gain in sale prices, as landlord rules and fewer new homes added pressure.",
+        "body": "Apartment jeonse prices in the Seoul metropolitan area have risen faster than sale prices so far this year. While apartment sale prices climbed 1.79%, jeonse prices increased 2.20%, highlighting a heavier burden on tenants. The original report cited regulations on multiple-home owners and a decline in newly built apartments as factors affecting the rise in jeonse prices. It also raised concerns that higher property holding taxes could be passed on to tenants. Even if policies aimed at stabilizing home prices affect the sales market, they may create different pressure in the rental market, making future jeonse price trends important to watch. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "首都圏マンションのチョンセ2.20%上昇、売買価格を上回る",
+        "excerpt": "今年に入り首都圏マンションのチョンセ価格上昇率は2.20%となり、売買価格の1.79%を上回った。多住宅所有者規制と新築減少が負担を高めている。",
+        "body": "今年に入り、首都圏のマンション市場ではチョンセ価格の上昇率が売買価格の上昇率を上回った。売買価格が1.79%上昇する間、チョンセ価格は2.20%上がり、借り手の負担がより大きく意識されている。原文は、多住宅所有者への規制と新築マンション供給の減少がチョンセ価格上昇に影響した要因として挙げられたと伝えた。また、保有税を引き上げれば、その負担が借り手に転嫁される可能性があるとの懸念も示された。住宅価格安定策が売買市場に影響しても、チョンセ市場には別の圧力となり得るため、今後の価格動向が注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首都圈公寓全租价涨2.20%，涨幅超过买卖价格",
+        "excerpt": "今年以来，首都圈公寓全租价格上涨2.20%，高于买卖价格1.79%的涨幅，多房者监管和新房减少正加重租客负担。",
+        "body": "今年以来，首都圈公寓市场的全租价格涨幅超过了买卖价格涨幅。买卖价格上涨1.79%的同时，全租价格上涨2.20%，租客负担进一步凸显。原文称，多房者监管以及新建公寓供应减少被认为是影响全租价格上涨的因素。报道还提出，如果提高持有税，相关负担可能转嫁给租客。稳定房价的政策即使对买卖市场产生影响，也可能在全租市场形成不同压力，因此未来全租价格走势受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Jeonse en Seúl metropolitano sube 2,20% y supera al precio de venta",
+        "excerpt": "Este año, el jeonse de apartamentos en el área metropolitana de Seúl subió 2,20%, por encima del 1,79% de los precios de venta, presionado por reglas a multipropietarios y menos obra nueva.",
+        "body": "En lo que va del año, los precios de jeonse de apartamentos en el área metropolitana de Seúl han subido más que los precios de venta. Mientras las ventas aumentaron 1,79%, el jeonse avanzó 2,20%, lo que resalta una mayor carga para los inquilinos. El reporte original citó las regulaciones a propietarios con varias viviendas y la reducción de apartamentos nuevos como factores que influyen en el alza del jeonse. También planteó la preocupación de que un aumento del impuesto a la tenencia pueda trasladarse a los inquilinos. Aunque las políticas para estabilizar la vivienda afecten al mercado de compraventa, pueden generar otra presión en el alquiler. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Jeonse na região de Seul sobe 2,20% e supera preços de venda",
+        "excerpt": "Neste ano, o jeonse de apartamentos na região metropolitana de Seul subiu 2,20%, acima da alta de 1,79% nas vendas, com regras sobre múltiplos imóveis e menos unidades novas elevando a pressão.",
+        "body": "Desde o início do ano, os preços de jeonse de apartamentos na região metropolitana de Seul subiram mais que os preços de venda. Enquanto os valores de venda avançaram 1,79%, o jeonse aumentou 2,20%, evidenciando maior peso para os inquilinos. A reportagem original citou regulações sobre proprietários de múltiplos imóveis e a queda na oferta de apartamentos novos como fatores que influenciaram a alta do jeonse. Também houve preocupação de que um aumento do imposto sobre posse de imóveis possa ser repassado aos inquilinos. Mesmo que políticas de estabilização afetem as vendas, elas podem pressionar o mercado de aluguel. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Jeonse-Mieten im Großraum Seoul steigen 2,20% und überholen Kaufpreise",
+        "excerpt": "Seit Jahresbeginn legten Jeonse-Preise für Wohnungen im Großraum Seoul um 2,20% zu und damit stärker als Kaufpreise mit 1,79%, belastet durch Regeln für Mehrfachbesitzer und weniger Neubauten.",
+        "body": "Im bisherigen Jahresverlauf sind die Jeonse-Preise für Wohnungen im Großraum Seoul stärker gestiegen als die Kaufpreise. Während die Kaufpreise um 1,79% zulegten, stiegen die Jeonse-Preise um 2,20%, wodurch die Belastung für Mieter deutlicher wird. Der Originalbericht nannte Regulierungen für Eigentümer mehrerer Wohnungen und den Rückgang neu gebauter Apartments als Faktoren für den Anstieg der Jeonse-Preise. Zudem wurde die Sorge geäußert, dass höhere Besitzsteuern auf Mieter abgewälzt werden könnten. Selbst wenn Maßnahmen zur Stabilisierung der Hauspreise den Kaufmarkt beeinflussen, können sie im Mietmarkt anderen Druck erzeugen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le jeonse du Grand Séoul grimpe de 2,20%, plus vite que les ventes",
+        "excerpt": "Depuis le début de l’année, le jeonse des appartements du Grand Séoul a augmenté de 2,20%, contre 1,79% pour les prix de vente, sous l’effet des règles visant les multipropriétaires et du recul du neuf.",
+        "body": "Depuis le début de l’année, les prix du jeonse des appartements dans la région métropolitaine de Séoul progressent plus vite que les prix de vente. Alors que les ventes ont augmenté de 1,79%, le jeonse a gagné 2,20%, accentuant la charge pour les locataires. L’article original cite les restrictions visant les propriétaires de plusieurs logements et la baisse des appartements neufs comme facteurs de hausse. Il évoque aussi la crainte qu’une augmentation de la taxe de détention soit répercutée sur les locataires. Même si les politiques de stabilisation des prix agissent sur le marché de l’achat, elles peuvent créer une pression différente sur le marché locatif. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ارتفاع جونسي شقق منطقة سول 2.20% متجاوزا أسعار البيع",
+        "excerpt": "منذ بداية العام ارتفعت أسعار جونسي للشقق في منطقة سول الكبرى 2.20%، مقابل 1.79% لأسعار البيع، مع ضغط من قيود ملاك المنازل المتعددة وتراجع الشقق الجديدة.",
+        "body": "منذ بداية هذا العام، ارتفعت أسعار جونسي للشقق في منطقة سول الكبرى بوتيرة أسرع من أسعار البيع. فبينما زادت أسعار البيع 1.79%، ارتفعت أسعار جونسي 2.20%، ما أبرز عبئا أكبر على المستأجرين. وذكر التقرير الأصلي أن القيود على مالكي عدة منازل وانخفاض المعروض من الشقق الجديدة من العوامل التي أثرت في ارتفاع أسعار جونسي. كما أثيرت مخاوف من أن زيادة ضريبة الحيازة قد تُنقل تكلفتها إلى المستأجرين. وحتى إذا أثرت سياسات استقرار أسعار المنازل في سوق البيع، فقد تخلق ضغطا مختلفا في سوق الإيجار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल क्षेत्र में जोंसे 2.20% चढ़ा, बिक्री कीमतों से तेज बढ़त",
+        "excerpt": "इस वर्ष सियोल महानगरीय क्षेत्र में अपार्टमेंट जोंसे कीमतें 2.20% बढ़ीं, जबकि बिक्री कीमतें 1.79% चढ़ीं; बहु-घर मालिक नियम और नए निर्माण में कमी दबाव बढ़ा रहे हैं।",
+        "body": "इस वर्ष अब तक सियोल महानगरीय क्षेत्र के अपार्टमेंट बाजार में जोंसे कीमतों की वृद्धि बिक्री कीमतों से आगे रही है। बिक्री कीमतें 1.79% बढ़ीं, जबकि जोंसे कीमतें 2.20% चढ़ीं, जिससे किरायेदारों पर अधिक बोझ सामने आया। मूल रिपोर्ट में बहु-घर मालिकों पर नियमों और नए अपार्टमेंट की आपूर्ति में कमी को जोंसे कीमतों की बढ़त को प्रभावित करने वाले कारणों के रूप में बताया गया। साथ ही यह चिंता भी उठी कि होल्डिंग टैक्स बढ़ने पर उसका बोझ किरायेदारों पर डाला जा सकता है। घर कीमत स्थिर करने की नीतियां बिक्री बाजार को प्रभावित करें, फिर भी किराया बाजार पर अलग दबाव बन सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Jeonse Seoul Raya Naik 2,20%, Melampaui Harga Jual Apartemen",
+        "excerpt": "Tahun ini, harga jeonse apartemen di wilayah metropolitan Seoul naik 2,20%, lebih tinggi dari kenaikan harga jual 1,79%, dipicu aturan pemilik banyak rumah dan berkurangnya unit baru.",
+        "body": "Sejauh tahun ini, harga jeonse apartemen di wilayah metropolitan Seoul naik lebih cepat daripada harga jual. Saat harga jual meningkat 1,79%, harga jeonse naik 2,20%, sehingga beban penyewa semakin terlihat. Laporan asli menyebut regulasi terhadap pemilik beberapa rumah dan penurunan pasokan apartemen baru sebagai faktor yang memengaruhi kenaikan harga jeonse. Kekhawatiran juga muncul bahwa kenaikan pajak kepemilikan dapat dibebankan kepada penyewa. Meski kebijakan stabilisasi harga rumah berdampak pada pasar jual beli, kebijakan itu dapat menciptakan tekanan berbeda di pasar sewa. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ab4d13012006",
+    "slug": "연합뉴스-이-시각-헤드라인---0730-295388",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T22:54:24.409Z",
+    "updatedAt": "2026-05-10T22:54:24.409Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511010100011",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511010100011",
+    "titleFingerprint": "75cee09d97a5cb83eb25566c84e961b456c462ac",
+    "dedupKeys": [
+      "ab4d1301200626f836709c9d26d1935c434b6bcd",
+      "75cee09d97a5cb83eb25566c84e961b456c462ac",
+      "b611d0dbec9e3bd871a48db49c334a5a4b066be3"
+    ],
+    "imageUrl": "/images/articles/ab4d13012006.jpg",
+    "i18n": {
+      "ko": {
+        "title": "트럼프, 이란 종전안 답변 ‘완전 용납불가’…협상 좌초 위기 부각",
+        "excerpt": "연합뉴스 07:30 헤드라인에 따르면 트럼프가 이란의 종전안 답변을 “완전히 용납불가”라고 밝히며 관련 협상이 좌초 위기에 놓였다.",
+        "body": "연합뉴스가 전한 07:30 이 시각 헤드라인에 따르면 트럼프는 이란이 종전안에 보낸 답변을 두고 “완전히 용납불가”라고 밝혔다. 보도 제목은 이 발언으로 관련 협상이 좌초 위기에 놓였다고 전했다. 공개된 원문 요약에는 종전안의 구체적 내용이나 이란 답변의 세부 사항, 협상 당사자들의 추가 입장은 제시되지 않았다. 다만 트럼프의 강한 표현은 협상 흐름에 중대한 불확실성을 더한 신호로 읽힌다. 외환·원자재 시장에서는 지정학적 긴장 관련 헤드라인이 단기 변동성 요인으로 주목될 수 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Trump Calls Iran Response to End-War Plan ‘Unacceptable’ as Talks Face Risk",
+        "excerpt": "According to Yonhap’s 07:30 headline, Trump said Iran’s response to an end-war proposal was “completely unacceptable,” putting talks at risk.",
+        "body": "According to Yonhap News Agency’s 07:30 headline roundup, Trump said Iran’s response to an end-war proposal was “completely unacceptable.” The headline reported that the related negotiations now face the risk of breaking down. The original summary did not provide details of the proposal, the contents of Iran’s response, or additional positions from the negotiating parties. Still, Trump’s strong wording points to heightened uncertainty around the talks. For foreign exchange and commodity markets, headlines tied to geopolitical tension may be watched as a potential short-term volatility factor. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "トランプ氏、イランの終戦案回答を「完全に容認不可」交渉暗礁の危機",
+        "excerpt": "聯合ニュースの07:30見出しによると、トランプ氏はイランの終戦案への回答を「完全に容認不可」とし、交渉は暗礁に乗り上げる危機にある。",
+        "body": "聯合ニュースが伝えた07:30の「この時刻のヘッドライン」によると、トランプ氏はイランが終戦案に示した回答について「完全に容認不可」と述べた。見出しは、この発言により関連交渉が暗礁に乗り上げる危機にあると伝えている。公開された原文要約では、終戦案の具体的内容、イラン側回答の詳細、交渉当事者の追加見解は示されていない。ただし、トランプ氏の強い表現は交渉の先行きに大きな不確実性が加わったことを示す。為替・商品市場では、地政学的緊張に関する見出しが短期的な変動要因として注目され得る。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "特朗普称伊朗对停战方案答复“完全不可接受”，谈判面临破局风险",
+        "excerpt": "据韩联社07:30头条，特朗普称伊朗对停战方案的答复“完全不可接受”，相关谈判因此面临搁浅风险。",
+        "body": "据韩联社07:30“此刻头条”报道，特朗普表示，伊朗对停战方案作出的答复“完全不可接受”。该标题称，这一表态使相关谈判面临搁浅风险。公开的原文摘要并未提供停战方案的具体内容、伊朗答复的细节，或谈判各方的进一步立场。不过，特朗普措辞强硬，显示谈判进程的不确定性上升。对外汇和大宗商品市场而言，与地缘政治紧张相关的标题可能成为短期波动因素并受到关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Trump califica de “inaceptable” la respuesta de Irán y las negociaciones peligran",
+        "excerpt": "Según el titular de Yonhap de las 07:30, Trump dijo que la respuesta de Irán a una propuesta para poner fin a la guerra era “completamente inaceptable”.",
+        "body": "Según el resumen de titulares de Yonhap de las 07:30, Trump afirmó que la respuesta de Irán a una propuesta para poner fin a la guerra era “completamente inaceptable”. El titular indicó que las negociaciones relacionadas enfrentan ahora el riesgo de quedar descarriladas. El resumen original no ofreció detalles sobre el contenido de la propuesta, la respuesta iraní ni posiciones adicionales de las partes negociadoras. Aun así, el tono firme de Trump señala una mayor incertidumbre sobre el curso de las conversaciones. En los mercados de divisas y materias primas, los titulares vinculados a tensiones geopolíticas pueden ser observados como un factor de volatilidad a corto plazo. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Trump rejeita resposta do Irã a plano de fim de guerra e negociações entram em risco",
+        "excerpt": "Segundo a manchete da Yonhap às 07:30, Trump disse que a resposta do Irã a uma proposta de fim da guerra foi “completamente inaceitável”.",
+        "body": "Segundo o resumo de manchetes da Yonhap às 07:30, Trump afirmou que a resposta do Irã a uma proposta para encerrar a guerra foi “completamente inaceitável”. A manchete informou que as negociações relacionadas correm o risco de fracassar. O resumo original não apresentou detalhes sobre o conteúdo da proposta, a resposta iraniana ou posições adicionais das partes envolvidas. Ainda assim, a formulação forte de Trump indica maior incerteza sobre o rumo das conversas. Nos mercados de câmbio e commodities, manchetes ligadas a tensões geopolíticas podem ser acompanhadas como fator de volatilidade de curto prazo. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Trump nennt Irans Antwort auf Friedensplan „inakzeptabel“: Gespräche vor Krise",
+        "excerpt": "Laut Yonhaps Schlagzeile von 07:30 sagte Trump, Irans Antwort auf einen Plan zur Kriegsbeendigung sei „völlig inakzeptabel“.",
+        "body": "Laut der Schlagzeilenübersicht von Yonhap um 07:30 sagte Trump, Irans Antwort auf einen Vorschlag zur Beendigung des Krieges sei „völlig inakzeptabel“. Die Meldung berichtete, dass die betreffenden Verhandlungen damit vor dem Risiko eines Scheiterns stehen. Die veröffentlichte Zusammenfassung nannte keine Einzelheiten zum Inhalt des Vorschlags, zur iranischen Antwort oder zu weiteren Positionen der Verhandlungsparteien. Trumps scharfe Wortwahl deutet jedoch auf erhöhte Unsicherheit über den Fortgang der Gespräche hin. An den Devisen- und Rohstoffmärkten können Schlagzeilen zu geopolitischen Spannungen als kurzfristiger Volatilitätsfaktor beachtet werden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Trump juge la réponse iranienne « inacceptable » et les négociations menacées",
+        "excerpt": "Selon le titre de Yonhap à 07:30, Trump a déclaré que la réponse de l’Iran à une proposition de fin de guerre était « totalement inacceptable ».",
+        "body": "Selon la revue des titres de Yonhap à 07:30, Trump a déclaré que la réponse de l’Iran à une proposition visant à mettre fin à la guerre était « totalement inacceptable ». Le titre indique que les négociations concernées risquent désormais de s’enliser. Le résumé original ne donne pas de détails sur le contenu de la proposition, la réponse iranienne ou les positions supplémentaires des parties aux discussions. Toutefois, la formule ferme employée par Trump signale une incertitude accrue autour du processus. Sur les marchés des changes et des matières premières, les titres liés aux tensions géopolitiques peuvent être surveillés comme facteur de volatilité à court terme. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "ترامب يرفض رد إيران على خطة إنهاء الحرب ويصفه بغير المقبول كلياً",
+        "excerpt": "وفق عنوان يونهاب عند 07:30، قال ترامب إن رد إيران على مقترح لإنهاء الحرب “غير مقبول كلياً”، ما يضع المفاوضات أمام خطر التعثر.",
+        "body": "وفق موجز عناوين يونهاب عند الساعة 07:30، قال ترامب إن رد إيران على مقترح لإنهاء الحرب “غير مقبول كلياً”. وأفاد العنوان بأن المفاوضات المرتبطة بهذا الملف باتت تواجه خطر التعثر. ولم يتضمن الملخص الأصلي تفاصيل عن مضمون المقترح أو بنود الرد الإيراني أو مواقف إضافية من أطراف التفاوض. ومع ذلك، فإن صياغة ترامب الحادة تشير إلى ارتفاع مستوى عدم اليقين بشأن مسار المحادثات. وفي أسواق العملات والسلع، قد تحظى العناوين المرتبطة بالتوترات الجيوسياسية بمتابعة كعامل محتمل للتقلبات قصيرة الأجل. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "ट्रंप ने ईरान के युद्धविराम प्रस्ताव पर जवाब को ‘अस्वीकार्य’ बताया",
+        "excerpt": "योनहाप के 07:30 शीर्षक के अनुसार, ट्रंप ने कहा कि युद्ध समाप्ति प्रस्ताव पर ईरान का जवाब “पूरी तरह अस्वीकार्य” है, जिससे वार्ता जोखिम में है।",
+        "body": "योनहाप समाचार एजेंसी के 07:30 शीर्षक सारांश के अनुसार, ट्रंप ने कहा कि युद्ध समाप्ति प्रस्ताव पर ईरान का जवाब “पूरी तरह अस्वीकार्य” है। शीर्षक में बताया गया कि संबंधित वार्ता अब पटरी से उतरने के जोखिम में है। मूल सारांश में प्रस्ताव की विशिष्ट सामग्री, ईरान के जवाब का विवरण या वार्ता पक्षों की अतिरिक्त स्थिति नहीं दी गई। फिर भी, ट्रंप की कड़ी भाषा वार्ता के आगे के रास्ते को लेकर बढ़ी अनिश्चितता का संकेत देती है। विदेशी मुद्रा और कमोडिटी बाजारों में भू-राजनीतिक तनाव से जुड़े शीर्षक अल्पकालिक उतार-चढ़ाव के कारक के रूप में देखे जा सकते हैं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Trump Sebut Jawaban Iran atas Usulan Akhiri Perang ‘Tak Dapat Diterima’",
+        "excerpt": "Menurut tajuk Yonhap pukul 07:30, Trump menyebut jawaban Iran atas usulan mengakhiri perang “sepenuhnya tak dapat diterima,” membuat negosiasi berisiko.",
+        "body": "Menurut rangkuman tajuk Yonhap pukul 07:30, Trump mengatakan jawaban Iran atas usulan untuk mengakhiri perang “sepenuhnya tak dapat diterima.” Tajuk itu menyebut negosiasi terkait kini menghadapi risiko kandas. Ringkasan asli tidak memuat rincian isi usulan, detail jawaban Iran, atau posisi tambahan dari para pihak yang berunding. Namun, pilihan kata Trump yang keras menunjukkan meningkatnya ketidakpastian atas arah pembicaraan. Di pasar valuta asing dan komoditas, tajuk yang berkaitan dengan ketegangan geopolitik dapat diperhatikan sebagai faktor volatilitas jangka pendek. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "6e4adbec1cd7",
+    "slug": "sk하이닉스-삼성-성과급에-따라-추가-성과급-요구-가능성-ls-234880",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T22:53:32.645Z",
+    "updatedAt": "2026-05-10T22:53:32.645Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051169906",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051169906",
+    "titleFingerprint": "a6b5cbe80f8fe1ff38950a1f19531aaace15e035",
+    "dedupKeys": [
+      "6e4adbec1cd7f1f2f2bc624c0e372dfc00947a6c",
+      "a6b5cbe80f8fe1ff38950a1f19531aaace15e035",
+      "c0a9fbdf347fff439d664009d51b9d122179c20e"
+    ],
+    "imageUrl": "/images/articles/6e4adbec1cd7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SK하이닉스 추가 성과급 요구 가능성, 삼성 지급안이 변수로 부상",
+        "excerpt": "LS는 삼성 성과급 수준에 따라 SK하이닉스 내부에서도 추가 성과급 요구가 제기될 수 있다고 봤다. 반도체 업계 보상 흐름이 노사 협상 변수로 떠올랐다.",
+        "body": "LS는 삼성의 성과급 지급 수준이 SK하이닉스의 추가 성과급 요구 가능성에 영향을 줄 수 있다고 분석했다. 보도 제목에 따르면 이번 사안은 반도체 업계의 성과 보상 흐름과 맞물려 있으며, 삼성의 성과급 결정이 SK하이닉스 구성원들의 요구 수준을 자극할 수 있다는 관측이다. 구체적인 지급 규모나 협상 일정은 원문 요약에 제시되지 않았다. 시장은 양사 보상 정책이 노사 관계와 인건비 부담, 향후 반도체 업황 회복 국면의 이익 배분 논의에 어떤 영향을 줄지 주시하고 있다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "SK hynix may seek extra bonuses as Samsung payout becomes key variable",
+        "excerpt": "LS said SK hynix employees could raise demands for additional bonuses depending on Samsung’s bonus decision, making chip-sector compensation a labor talks issue.",
+        "body": "LS analyzed that Samsung’s bonus payout level could affect the possibility of additional bonus demands at SK hynix. According to the reported headline, the issue is tied to broader performance-based compensation trends in the semiconductor industry, with Samsung’s decision potentially influencing expectations among SK hynix employees. The original summary did not provide specific payout amounts or a negotiation timetable. Markets are watching whether the two companies’ compensation policies will affect labor relations, personnel costs and discussions over profit sharing as the chip cycle recovers. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "SKハイニックス追加賞与要求の可能性、サムスン支給案が焦点に",
+        "excerpt": "LSは、サムスンの成果給水準次第でSKハイニックスでも追加成果給要求が出る可能性があるとみており、半導体業界の労使交渉材料になっている。",
+        "body": "LSは、サムスンの成果給支給水準がSKハイニックスの追加成果給要求の可能性に影響し得ると分析した。報道の見出しによると、今回の事案は半導体業界の業績連動報酬の流れと関連しており、サムスンの決定がSKハイニックスの従業員側の要求水準を刺激する可能性があるとの見方だ。具体的な支給規模や交渉日程は原文の要約には示されていない。市場は両社の報酬政策が労使関係、人件費負担、半導体市況回復局面での利益配分論議に及ぼす影響を注視している。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "SK海力士或要求追加奖金，三星绩效奖金方案成关键变量",
+        "excerpt": "LS认为，三星绩效奖金水平可能引发SK海力士内部追加奖金要求，半导体行业薪酬安排正成为劳资协商的重要变量。",
+        "body": "LS分析称，三星绩效奖金的发放水平可能影响SK海力士提出追加绩效奖金要求的可能性。根据报道标题，此事与半导体行业绩效薪酬趋势相关，三星的奖金决定可能影响SK海力士员工的诉求水平。原文摘要未提供具体发放规模或协商时间表。市场正关注两家公司的薪酬政策是否会影响劳资关系、人力成本，以及半导体景气复苏阶段的利润分配讨论。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "SK hynix podría pedir bonos extra si el pago de Samsung marca el tono",
+        "excerpt": "LS señaló que el nivel de bonificación de Samsung podría llevar a SK hynix a reclamar pagos adicionales, convirtiendo la compensación en un factor laboral clave.",
+        "body": "LS analizó que el nivel de bonificación de Samsung podría influir en la posibilidad de que SK hynix enfrente demandas de bonos adicionales. Según el titular citado, el caso se vincula con la tendencia de compensación por desempeño en la industria de semiconductores, donde la decisión de Samsung podría elevar las expectativas de los empleados de SK hynix. El resumen original no indicó montos concretos ni un calendario de negociación. El mercado observa si las políticas de pago de ambas empresas afectarán las relaciones laborales, los costos de personal y el debate sobre reparto de beneficios durante la recuperación del sector. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "SK hynix pode pedir bônus extra se pagamento da Samsung elevar pressão",
+        "excerpt": "A LS avaliou que o nível de bônus da Samsung pode gerar pedidos adicionais na SK hynix, tornando a remuneração por desempenho uma variável nas negociações trabalhistas.",
+        "body": "A LS analisou que o nível de pagamento de bônus da Samsung pode influenciar a possibilidade de pedidos de bônus adicionais na SK hynix. Segundo o título da reportagem, o tema está ligado à tendência de remuneração por desempenho no setor de semicondutores, e a decisão da Samsung pode afetar as expectativas dos funcionários da SK hynix. O resumo original não apresentou valores específicos nem cronograma de negociação. O mercado acompanha se as políticas de remuneração das duas empresas terão impacto nas relações trabalhistas, nos custos com pessoal e nas discussões sobre divisão de lucros durante a recuperação do setor. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "SK hynix könnte Zusatzbonus fordern, Samsung-Zahlung wird zum Faktor",
+        "excerpt": "LS sieht die Möglichkeit zusätzlicher Bonusforderungen bei SK hynix abhängig von Samsungs Bonusniveau; damit rückt Vergütung in den Fokus der Chip-Arbeitsgespräche.",
+        "body": "LS analysierte, dass die Höhe der Bonuszahlungen von Samsung die Möglichkeit zusätzlicher Bonusforderungen bei SK hynix beeinflussen könnte. Dem gemeldeten Titel zufolge steht das Thema im Zusammenhang mit leistungsabhängiger Vergütung in der Halbleiterbranche; Samsungs Entscheidung könnte die Erwartungen der Beschäftigten von SK hynix prägen. Konkrete Auszahlungsbeträge oder ein Verhandlungszeitplan wurden in der ursprünglichen Zusammenfassung nicht genannt. Der Markt beobachtet, ob die Vergütungspolitik beider Unternehmen Arbeitsbeziehungen, Personalkosten und Debatten über Gewinnverteilung im Zuge einer Erholung der Chipbranche beeinflusst. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "SK hynix pourrait réclamer un bonus si Samsung fixe un niveau élevé",
+        "excerpt": "LS estime que le niveau des primes chez Samsung pourrait entraîner des demandes de bonus supplémentaires chez SK hynix, un enjeu pour les négociations sociales.",
+        "body": "LS a estimé que le niveau des primes versées par Samsung pourrait influencer la possibilité de demandes de bonus supplémentaires chez SK hynix. D’après le titre rapporté, le dossier s’inscrit dans la tendance des rémunérations liées à la performance dans les semi-conducteurs, la décision de Samsung pouvant affecter les attentes des salariés de SK hynix. Le résumé original ne mentionne ni montant précis ni calendrier de négociation. Le marché surveille l’impact potentiel des politiques de rémunération des deux groupes sur les relations sociales, les coûts de personnel et les discussions sur le partage des bénéfices lors de la reprise du secteur. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "إس كيه هاينكس قد تطالب بمكافآت إضافية إذا أثرت مكافآت سامسونغ",
+        "excerpt": "قالت LS إن مستوى مكافآت سامسونغ قد يدفع موظفي إس كيه هاينكس إلى طلب مكافآت إضافية، ما يجعل التعويضات عاملا في مفاوضات قطاع الرقائق.",
+        "body": "حللت LS أن مستوى مكافآت سامسونغ قد يؤثر في احتمال مطالبة إس كيه هاينكس بمكافآت أداء إضافية. ووفقا لعنوان التقرير، ترتبط المسألة باتجاه التعويضات المرتبطة بالأداء في صناعة أشباه الموصلات، وقد تؤثر قرارات سامسونغ في مستوى توقعات العاملين في إس كيه هاينكس. ولم يورد الملخص الأصلي مبالغ محددة أو جدولا زمنيا للتفاوض. تراقب السوق ما إذا كانت سياسات المكافآت لدى الشركتين ستنعكس على علاقات العمل وتكاليف الموظفين ونقاشات تقاسم الأرباح مع تعافي دورة الرقائق. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "SK hynix में अतिरिक्त बोनस मांग संभव, Samsung भुगतान बना अहम संकेत",
+        "excerpt": "LS ने कहा कि Samsung के बोनस स्तर के आधार पर SK hynix में अतिरिक्त बोनस की मांग उठ सकती है, जिससे चिप उद्योग में वेतन नीति श्रम वार्ता का मुद्दा बन गई है।",
+        "body": "LS ने विश्लेषण किया कि Samsung के बोनस भुगतान का स्तर SK hynix में अतिरिक्त प्रदर्शन बोनस की मांग की संभावना को प्रभावित कर सकता है। रिपोर्ट के शीर्षक के अनुसार, यह मामला सेमीकंडक्टर उद्योग में प्रदर्शन आधारित पारिश्रमिक की प्रवृत्ति से जुड़ा है और Samsung का फैसला SK hynix कर्मचारियों की अपेक्षाओं को प्रभावित कर सकता है। मूल सारांश में भुगतान की ठोस राशि या बातचीत की समयसीमा नहीं दी गई। बाजार देख रहा है कि दोनों कंपनियों की बोनस नीति श्रम संबंधों, कर्मचारी लागत और चिप चक्र की रिकवरी के दौरान लाभ वितरण की चर्चा पर क्या असर डालती है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "SK hynix berpeluang minta bonus tambahan, pembayaran Samsung jadi pemicu",
+        "excerpt": "LS menilai tingkat bonus Samsung dapat memunculkan tuntutan bonus tambahan di SK hynix, menjadikan kompensasi kinerja isu penting dalam negosiasi tenaga kerja chip.",
+        "body": "LS menganalisis bahwa tingkat pembayaran bonus Samsung dapat memengaruhi kemungkinan munculnya tuntutan bonus tambahan di SK hynix. Berdasarkan judul laporan, isu ini terkait dengan tren kompensasi berbasis kinerja di industri semikonduktor, sementara keputusan Samsung dapat memengaruhi ekspektasi karyawan SK hynix. Ringkasan asli tidak mencantumkan nilai pembayaran konkret atau jadwal negosiasi. Pasar memantau apakah kebijakan kompensasi kedua perusahaan akan berdampak pada hubungan industrial, biaya tenaga kerja, serta pembahasan pembagian laba saat siklus chip pulih. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "64cb5c74a420",
     "slug": "머니톡스-격동의-하이닉스①부실기업-초일류기업으로-거듭나다-500766",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Dana kebijakan cegah pinjaman 18% setelah kasus Myeongryundang",
         "excerpt": "Pemerintah akan menghentikan dana kebijakan bagi kantor pusat waralaba yang meminjam murah lalu menyalurkannya sebagai pinjaman berbunga tinggi ke gerai.",
         "body": "Pemerintah akan memperketat pengawasan atas penggunaan dana kebijakan oleh kantor pusat waralaba untuk mencegah terulangnya kasus Myeongryundang. Langkah ini menyasar praktik ketika kantor pusat waralaba meminjam dana bernuansa publik dengan bunga rendah, lalu menawarkannya kepada gerai waralaba sebagai pinjaman berbunga sekitar 18%. Fokus kebijakan ini adalah mencegah dana yang disiapkan untuk mendukung gerai waralaba berubah menjadi alat keuntungan bagi kantor pusat. Jika kasus serupa kembali dikonfirmasi, pasokan dana kebijakan kepada kantor pusat waralaba terkait dapat dihentikan. Langkah tersebut diperkirakan mengurangi beban pendanaan gerai dan menjaga tujuan publik dana kebijakan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "30fabce9a9ac",
-    "slug": "직장갑질119-프리랜서-4명-중-3명-근로자-추정제-도입-찬성-683170",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T15:09:22.267Z",
-    "updatedAt": "2026-05-10T15:09:22.267Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510014400004",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510014400004",
-    "titleFingerprint": "3a30ba3d8ec5a322ef8ba3a43baf95740419aa3b",
-    "dedupKeys": [
-      "30fabce9a9acfa2e297b91aa3e29806a1ebe52ac",
-      "3a30ba3d8ec5a322ef8ba3a43baf95740419aa3b",
-      "a908efa5936efc6d25fd8c7ee7bb31c3cb7b346c"
-    ],
-    "imageUrl": "/images/articles/30fabce9a9ac.jpg",
-    "i18n": {
-      "ko": {
-        "title": "프리랜서 4명 중 3명, ‘근로자 추정제’ 도입 찬성…직장갑질119 발표",
-        "excerpt": "직장갑질119는 10일 프리랜서·특수고용 노동자 다수가 ‘근로자 추정제’ 도입에 찬성한다며 제도 도입 필요성을 제기했다고 밝혔다.",
-        "body": "시민단체 직장갑질119는 10일 프리랜서와 특수고용 노동자 대다수가 ‘근로자 추정제’ 도입에 찬성하고 있다고 밝혔다. 단체는 프리랜서 4명 중 3명이 해당 제도 도입에 찬성한다는 점을 들어, 고용 형태가 불분명한 노동자 보호를 위한 제도 논의가 필요하다고 강조했다. ‘근로자 추정제’는 일정 요건을 충족하면 노동자를 근로자로 추정하는 방식의 제도로 소개됐다. 이번 발표는 프리랜서·특수고용 노동자의 노동권 보호 논의에 영향을 줄 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Three in Four Freelancers Support Worker Presumption System, Group Says",
-        "excerpt": "Workplace Gapjil 119 said on the 10th that most freelancers and specially employed workers support introducing a worker presumption system.",
-        "body": "Civic group Workplace Gapjil 119 said on the 10th that a large majority of freelancers and specially employed workers support the introduction of a “worker presumption system.” The group cited that three out of four freelancers favor the system and stressed the need to discuss protections for workers whose employment status is unclear. The system was described as a framework that presumes a person to be a worker when certain conditions are met. The announcement is expected to add weight to discussions on labor rights protections for freelancers and specially employed workers. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "フリーランス4人に3人が「労働者推定制」導入に賛成、団体発表",
-        "excerpt": "職場パワハラ119は10日、フリーランスや特殊雇用労働者の大多数が「労働者推定制」の導入に賛成していると明らかにした。",
-        "body": "市民団体の職場パワハラ119は10日、フリーランスと特殊雇用労働者の大多数が「労働者推定制」の導入に賛成していると発表した。同団体は、フリーランスの4人に3人が同制度の導入を支持している点を挙げ、雇用形態が不明確な労働者を保護するための制度的議論が必要だと強調した。「労働者推定制」は、一定の要件を満たす場合に労働者と推定する仕組みとして紹介された。今回の発表は、フリーランスや特殊雇用労働者の労働権保護をめぐる議論に影響を与える見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "四分之三自由职业者赞成引入“劳动者推定制”，团体发布",
-        "excerpt": "职场甲乙119于10日表示，多数自由职业者和特殊雇佣劳动者赞成引入“劳动者推定制”，并提出制度必要性。",
-        "body": "市民团体职场甲乙119于10日表示，自由职业者和特殊雇佣劳动者中的大多数赞成引入“劳动者推定制”。该团体指出，四分之三的自由职业者支持该制度，并强调有必要讨论保护雇佣形态不明确劳动者的制度安排。“劳动者推定制”被介绍为在满足一定条件时将劳动者推定为劳动者的制度。此次发布预计将影响围绕自由职业者和特殊雇佣劳动者劳动权保护的讨论。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Tres de cada cuatro freelancers apoyan presunción laboral, dice grupo",
-        "excerpt": "Workplace Gapjil 119 dijo el día 10 que la mayoría de freelancers y trabajadores de empleo especial apoya introducir un sistema de presunción laboral.",
-        "body": "El grupo cívico Workplace Gapjil 119 afirmó el día 10 que una amplia mayoría de freelancers y trabajadores de empleo especial apoya la introducción de un “sistema de presunción de trabajador”. La organización señaló que tres de cada cuatro freelancers están a favor del sistema y subrayó la necesidad de debatir medidas para proteger a trabajadores con una situación laboral poco clara. El sistema fue presentado como un mecanismo que presume la condición de trabajador cuando se cumplen ciertos requisitos. El anuncio podría influir en el debate sobre la protección de derechos laborales de freelancers y trabajadores de empleo especial. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Três em cada quatro freelancers apoiam presunção de vínculo, diz grupo",
-        "excerpt": "O Workplace Gapjil 119 afirmou no dia 10 que a maioria dos freelancers e trabalhadores de emprego especial apoia a adoção de um sistema de presunção laboral.",
-        "body": "O grupo cívico Workplace Gapjil 119 afirmou no dia 10 que a maioria dos freelancers e trabalhadores de emprego especial apoia a introdução de um “sistema de presunção de trabalhador”. A entidade citou que três em cada quatro freelancers são favoráveis ao sistema e destacou a necessidade de discutir proteção para trabalhadores cuja forma de contratação é pouco clara. O sistema foi apresentado como um mecanismo que presume a condição de trabalhador quando certos requisitos são atendidos. O anúncio deve repercutir no debate sobre direitos trabalhistas de freelancers e trabalhadores de emprego especial. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Drei von vier Freelancern für Arbeitnehmer-Vermutung, meldet Gruppe",
-        "excerpt": "Workplace Gapjil 119 erklärte am 10., die meisten Freelancer und besonders Beschäftigten unterstützten die Einführung eines Systems zur Arbeitnehmer-Vermutung.",
-        "body": "Die Bürgergruppe Workplace Gapjil 119 erklärte am 10., dass eine große Mehrheit der Freelancer und besonders Beschäftigten die Einführung eines „Systems zur Arbeitnehmer-Vermutung“ unterstützt. Die Gruppe verwies darauf, dass drei von vier Freelancern für das System seien, und betonte die Notwendigkeit einer Debatte über Schutzmaßnahmen für Beschäftigte mit unklarer Erwerbsform. Das System wurde als Regelung beschrieben, nach der eine Person bei Erfüllung bestimmter Voraussetzungen als Arbeitnehmer vermutet wird. Die Mitteilung dürfte die Diskussion über den Schutz der Arbeitsrechte von Freelancern und besonders Beschäftigten beeinflussen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Trois freelances sur quatre soutiennent la présomption de salariat",
-        "excerpt": "Workplace Gapjil 119 a déclaré le 10 que la majorité des freelances et travailleurs à emploi spécial soutient l’introduction d’un système de présomption de salariat.",
-        "body": "L’organisation civique Workplace Gapjil 119 a déclaré le 10 qu’une large majorité des freelances et des travailleurs à emploi spécial soutient l’introduction d’un « système de présomption de travailleur ». Elle a indiqué que trois freelances sur quatre y sont favorables et a souligné la nécessité de débattre de protections pour les travailleurs dont le statut d’emploi est flou. Le système a été présenté comme un dispositif présumant la qualité de travailleur lorsque certaines conditions sont remplies. Cette annonce devrait peser sur les discussions relatives à la protection des droits du travail des freelances et travailleurs à emploi spécial. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "ثلاثة من كل أربعة مستقلين يؤيدون نظام افتراض صفة العامل",
-        "excerpt": "قالت منظمة Workplace Gapjil 119 في العاشر إن معظم المستقلين والعاملين بعقود خاصة يؤيدون إدخال نظام يفترض صفة العامل عند توافر شروط معينة.",
-        "body": "قالت منظمة مدنية تدعى Workplace Gapjil 119 في العاشر إن الغالبية العظمى من المستقلين والعاملين بعقود خاصة تؤيد إدخال “نظام افتراض صفة العامل”. وأوضحت المنظمة أن ثلاثة من كل أربعة مستقلين يؤيدون هذا النظام، مشددة على ضرورة مناقشة حماية العمال الذين تكون صيغة عملهم غير واضحة. وجرى تقديم النظام باعتباره آلية تفترض صفة العامل عند استيفاء شروط محددة. ومن المتوقع أن يؤثر هذا الإعلان في النقاش المتعلق بحماية حقوق العمل للمستقلين والعاملين بعقود خاصة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "चार में तीन फ्रीलांसर ‘वर्कर प्रिजम्पशन’ प्रणाली के पक्ष में: समूह",
-        "excerpt": "Workplace Gapjil 119 ने 10 तारीख को कहा कि अधिकांश फ्रीलांसर और विशेष रोजगार वाले श्रमिक ‘वर्कर प्रिजम्पशन’ प्रणाली लागू करने के पक्ष में हैं।",
-        "body": "नागरिक समूह Workplace Gapjil 119 ने 10 तारीख को कहा कि फ्रीलांसरों और विशेष रोजगार वाले श्रमिकों का बड़ा बहुमत ‘वर्कर प्रिजम्पशन सिस्टम’ लागू करने का समर्थन करता है। समूह ने बताया कि चार में से तीन फ्रीलांसर इस व्यवस्था के पक्ष में हैं और अस्पष्ट रोजगार स्थिति वाले श्रमिकों की सुरक्षा पर संस्थागत चर्चा की जरूरत पर जोर दिया। इस प्रणाली को ऐसी व्यवस्था के रूप में बताया गया है जिसमें कुछ शर्तें पूरी होने पर व्यक्ति को श्रमिक माना जाता है। यह घोषणा फ्रीलांसरों और विशेष रोजगार श्रमिकों के श्रम अधिकारों की सुरक्षा पर चर्चा को प्रभावित कर सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Tiga dari Empat Freelancer Dukung Sistem Praduga Pekerja, Kata Grup",
-        "excerpt": "Workplace Gapjil 119 pada tanggal 10 menyatakan mayoritas freelancer dan pekerja berstatus khusus mendukung penerapan sistem praduga pekerja.",
-        "body": "Kelompok sipil Workplace Gapjil 119 pada tanggal 10 menyatakan bahwa mayoritas besar freelancer dan pekerja berstatus khusus mendukung penerapan “sistem praduga pekerja”. Kelompok itu menyebut tiga dari empat freelancer menyetujui sistem tersebut dan menekankan perlunya pembahasan perlindungan bagi pekerja dengan status kerja yang tidak jelas. Sistem itu diperkenalkan sebagai mekanisme yang menganggap seseorang sebagai pekerja ketika syarat tertentu terpenuhi. Pengumuman ini diperkirakan akan memengaruhi pembahasan perlindungan hak kerja bagi freelancer dan pekerja berstatus khusus. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7604c8bce20d",
-    "slug": "명륜진사갈비-가맹점주에-고리-대출하고-인테리어비용-바가지-746213",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T15:08:28.874Z",
-    "updatedAt": "2026-05-10T15:08:28.874Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510020600002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510020600002",
-    "titleFingerprint": "4e6f79951e66f3c20c5021e80c784fb88a663382",
-    "dedupKeys": [
-      "7604c8bce20d37d1d5c714a145baf54f3c0fdc93",
-      "4e6f79951e66f3c20c5021e80c784fb88a663382",
-      "a88605a2fa3bf98349da737ecad0f2df9e13593a"
-    ],
-    "imageUrl": "/images/articles/7604c8bce20d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "명륜진사갈비 가맹점주 고리 대출·인테리어비 논란, 공정위 심의로",
-        "excerpt": "명륜진사갈비 운영사 명륜당이 가맹점주 대상 고금리 대출과 인테리어 비용 부과 논란으로 공정거래위원회 심의 절차에 오른 것으로 전해졌다.",
-        "body": "명륜진사갈비 운영업체 명륜당이 가맹점주에게 고금리 대출을 제공하고 인테리어 비용을 과도하게 부담시켰다는 의혹으로 공정거래위원회의 심의 대상이 됐다. 연합뉴스에 따르면 명륜당은 가맹점을 상대로 고리 대부업을 했다는 논란을 빚었고, 인테리어 비용 산정과 부과 방식도 문제가 된 것으로 알려졌다. 공정위 심의는 가맹본부와 점주 사이의 거래 조건이 공정했는지 따지는 절차다. 최종 제재 여부와 수위는 위원회 판단을 거쳐 결정될 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Myeongryun Jinsa Galbi Faces FTC Review Over Franchise Loans and Interior Costs",
-        "excerpt": "Myeongryundang, operator of Myeongryun Jinsa Galbi, has reportedly come under Fair Trade Commission review over high-interest loans to franchisees and interior cost charges.",
-        "body": "Myeongryundang, the operator of the restaurant brand Myeongryun Jinsa Galbi, has become subject to review by South Korea’s Fair Trade Commission over allegations that it provided high-interest loans to franchise owners and imposed excessive interior construction costs. According to Yonhap News Agency, the company had already drawn controversy for running high-rate lending involving franchisees, while the way interior expenses were calculated and charged also came under scrutiny. The review will examine whether transaction terms between the franchisor and franchisees were fair. Any final sanctions and their level are expected to be decided after the commission’s deliberation. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "明倫進士カルビ、加盟店向け高利貸しと内装費問題で公取委審議へ",
-        "excerpt": "明倫進士カルビを運営する明倫堂が、加盟店主への高金利融資と内装費用負担をめぐる問題で、公正取引委員会の審議対象になったと伝えられた。",
-        "body": "韓国の外食ブランド、明倫進士カルビを運営する明倫堂が、加盟店主に高金利の融資を行い、内装費用を過度に負担させた疑いで、公正取引委員会の審議対象となった。聯合ニュースによると、同社は加盟店を相手に高利の貸付業を行ったとして議論を呼び、内装費用の算定や請求の方法も問題視されている。公取委の審議は、フランチャイズ本部と加盟店主の取引条件が公正だったかを確認する手続きだ。最終的な制裁の有無と水準は、委員会の判断を経て決まる見通し。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "明伦进士排骨因加盟商高息贷款和装修费争议接受公正委审议",
-        "excerpt": "明伦进士排骨运营商明伦堂因向加盟商提供高息贷款并收取装修费用等争议，据报已进入韩国公平交易委员会审议程序。",
-        "body": "韩国餐饮品牌明伦进士排骨的运营商明伦堂，因涉嫌向加盟店主提供高息贷款并让其承担过高装修费用，成为韩国公平交易委员会审议对象。据韩联社报道，明伦堂曾因面向加盟店从事高利放贷引发争议，装修费用的计算和收取方式也被认为存在问题。公正委的审议将确认加盟总部与加盟店主之间的交易条件是否公平。最终是否处罚以及处罚力度，预计将在委员会审议后决定。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Myeongryun Jinsa Galbi, bajo revisión por préstamos caros y costos de reforma",
-        "excerpt": "Myeongryundang, operadora de Myeongryun Jinsa Galbi, afronta una revisión de la autoridad surcoreana por préstamos de alto interés a franquiciados y cargos de reforma.",
-        "body": "Myeongryundang, operadora de la marca de restaurantes Myeongryun Jinsa Galbi, quedó bajo revisión de la Comisión de Comercio Justo de Corea del Sur por sospechas de haber dado préstamos de alto interés a dueños de franquicias y de haberles impuesto costos excesivos de interiorismo. Según Yonhap, la empresa ya había generado controversia por actividades de préstamo con altas tasas dirigidas a franquiciados, y también se cuestionó la forma en que calculó y cobró los gastos de reforma. La revisión examinará si las condiciones comerciales entre la central y los franquiciados fueron justas. La decisión final sobre sanciones dependerá de la deliberación de la comisión. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Myeongryun Jinsa Galbi é analisada por empréstimos caros e custos de reforma",
-        "excerpt": "A Myeongryundang, operadora da Myeongryun Jinsa Galbi, entrou em análise regulatória por empréstimos de juros altos a franqueados e cobranças de reforma.",
-        "body": "A Myeongryundang, operadora da rede de restaurantes Myeongryun Jinsa Galbi, tornou-se alvo de análise da Comissão de Comércio Justo da Coreia do Sul por suspeitas de oferecer empréstimos de juros elevados a franqueados e impor custos excessivos de reforma e interiores. Segundo a Yonhap, a empresa já havia causado controvérsia por atuar com crédito caro junto às unidades franqueadas, e a forma de calcular e cobrar as despesas de interior também passou a ser questionada. A análise verificará se as condições de negociação entre franqueadora e franqueados foram justas. A decisão sobre eventual punição e seu nível deverá sair após a deliberação da comissão. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Myeongryun Jinsa Galbi wegen teurer Kredite und Ausbaukosten unter Prüfung",
-        "excerpt": "Myeongryundang, Betreiber von Myeongryun Jinsa Galbi, steht wegen hoch verzinster Darlehen an Franchisenehmer und belastender Innenausbaukosten unter Prüfung.",
-        "body": "Myeongryundang, Betreiber der Restaurantmarke Myeongryun Jinsa Galbi, ist wegen des Verdachts hoch verzinster Kredite an Franchisenehmer und überhöhter Innenausbaukosten Gegenstand einer Prüfung der südkoreanischen Fair Trade Commission geworden. Nach Angaben von Yonhap hatte das Unternehmen bereits Kontroversen ausgelöst, weil es gegenüber Franchisebetrieben Kredite zu hohen Zinsen vergeben haben soll; auch die Berechnung und Belastung der Ausbaukosten steht infrage. Die Prüfung soll klären, ob die Geschäftsbedingungen zwischen Franchisegeber und Franchisenehmern fair waren. Ob und in welcher Höhe Sanktionen verhängt werden, entscheidet die Kommission nach ihrer Beratung. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Myeongryun Jinsa Galbi visée pour prêts coûteux et frais d’aménagement",
-        "excerpt": "Myeongryundang, exploitant de Myeongryun Jinsa Galbi, fait l’objet d’un examen pour des prêts à taux élevés aux franchisés et des frais d’aménagement contestés.",
-        "body": "Myeongryundang, exploitant de la marque de restaurants Myeongryun Jinsa Galbi, fait l’objet d’un examen de la Commission sud-coréenne du commerce équitable pour des soupçons de prêts à taux élevés accordés à des franchisés et de frais d’aménagement intérieur excessifs. Selon Yonhap, l’entreprise avait déjà suscité une controverse pour des activités de prêt coûteuses auprès de ses magasins franchisés, tandis que le calcul et la facturation des frais d’intérieur sont également contestés. L’examen devra déterminer si les conditions de transaction entre le franchiseur et les franchisés étaient équitables. Les sanctions éventuelles et leur niveau seront décidés après délibération de la commission. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "ميونغريون جينسا غالبي تحت مراجعة بسبب قروض مرتفعة وفواتير تجهيز",
-        "excerpt": "تواجه شركة ميونغريوندانغ، مشغلة ميونغريون جينسا غالبي، مراجعة من هيئة التجارة العادلة في كوريا بسبب قروض عالية الفائدة وتكاليف تجهيز للفروع.",
-        "body": "أصبحت شركة ميونغريوندانغ، المشغلة لعلامة المطاعم ميونغريون جينسا غالبي، موضع مراجعة من لجنة التجارة العادلة في كوريا الجنوبية بسبب شبهات تقديم قروض مرتفعة الفائدة لأصحاب الفروع وتحميلهم تكاليف تجهيز داخلي مبالغاً فيها. ووفقاً لوكالة يونهاب، أثارت الشركة جدلاً لأنها تعاملت مع الفروع بنشاط إقراض عالي الفائدة، كما أثيرت تساؤلات حول طريقة احتساب تكاليف التصميم الداخلي وفرضها. وتهدف المراجعة إلى تحديد ما إذا كانت شروط التعامل بين مانح الامتياز وأصحاب الفروع عادلة. ومن المتوقع أن تحدد اللجنة لاحقاً ما إذا كانت ستفرض عقوبات ومستواها. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Myeongryun Jinsa Galbi पर महंगे कर्ज और इंटीरियर लागत को लेकर समीक्षा",
-        "excerpt": "Myeongryun Jinsa Galbi चलाने वाली Myeongryundang पर फ्रेंचाइजी मालिकों को ऊंचे ब्याज वाले कर्ज और इंटीरियर खर्च थोपने के आरोपों की समीक्षा हो रही है।",
-        "body": "रेस्तरां ब्रांड Myeongryun Jinsa Galbi की संचालक कंपनी Myeongryundang, फ्रेंचाइजी मालिकों को ऊंचे ब्याज पर कर्ज देने और उनसे अधिक इंटीरियर खर्च वसूलने के संदेह में दक्षिण कोरिया के फेयर ट्रेड कमीशन की समीक्षा के दायरे में आई है। Yonhap के अनुसार, कंपनी फ्रेंचाइजी दुकानों के खिलाफ ऊंची दरों वाले ऋण कारोबार को लेकर पहले ही विवाद में थी, और इंटीरियर खर्च की गणना तथा वसूली के तरीके पर भी सवाल उठे हैं। यह समीक्षा देखेगी कि फ्रेंचाइजर और फ्रेंचाइजी मालिकों के बीच व्यापार शर्तें निष्पक्ष थीं या नहीं। अंतिम दंड और उसका स्तर आयोग की सुनवाई के बाद तय होने की उम्मीद है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Myeongryun Jinsa Galbi Ditinjau atas Pinjaman Mahal dan Biaya Interior",
-        "excerpt": "Myeongryundang, operator Myeongryun Jinsa Galbi, masuk proses tinjauan otoritas persaingan Korea atas pinjaman berbunga tinggi dan biaya interior bagi pewaralaba.",
-        "body": "Myeongryundang, operator merek restoran Myeongryun Jinsa Galbi, menjadi objek tinjauan Komisi Perdagangan Adil Korea Selatan atas dugaan pemberian pinjaman berbunga tinggi kepada pemilik gerai waralaba serta pembebanan biaya interior yang berlebihan. Menurut Yonhap, perusahaan tersebut telah memicu kontroversi karena praktik pinjaman berbunga tinggi terhadap gerai waralaba, sementara cara penghitungan dan pembebanan biaya interior juga dipersoalkan. Tinjauan ini akan menilai apakah syarat transaksi antara pemberi waralaba dan pemilik gerai berjalan adil. Keputusan akhir mengenai sanksi dan tingkatnya diperkirakan ditetapkan setelah deliberasi komisi. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1be3795ca492",
-    "slug": "지방보조금-집행-보탬e-카드-새마을금고신협수협도-가능-942914",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T15:07:12.792Z",
-    "updatedAt": "2026-05-10T15:07:12.792Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510014600530",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510014600530",
-    "titleFingerprint": "3f76b2b405efa0ef1f9865e7954020d2b69998eb",
-    "dedupKeys": [
-      "1be3795ca4922985374139a1b291e232585c4bee",
-      "3f76b2b405efa0ef1f9865e7954020d2b69998eb",
-      "66b992502ebb5cefb30ecfb70e6b383a609389fe"
-    ],
-    "imageUrl": "/images/articles/1be3795ca492.jpg",
-    "i18n": {
-      "ko": {
-        "title": "보탬e 전용카드 확대, 새마을금고·신협·수협서도 지방보조금 집행 가능",
-        "excerpt": "행정안전부가 지방보조금통합관리망 ‘보탬e’ 전용카드 서비스 범위를 기존 12개 시중은행에서 새마을금고·신협·수협까지 넓혀 보조금 집행 편의를 높인다.",
-        "body": "행정안전부는 지방보조금 집행에 쓰이는 ‘보탬e(지방보조금통합관리망) 전용카드’ 서비스 범위를 확대한다고 밝혔다. 기존에는 12개 시중은행을 통해 해당 전용카드 서비스를 이용할 수 있었지만, 앞으로는 새마을금고와 신협, 수협에서도 가능해진다. 보탬e는 지방보조금의 신청과 교부, 집행, 정산 등을 통합 관리하는 시스템이다. 전용카드 사용처가 늘어나면 지방보조사업자는 거래 금융기관 선택 폭을 넓힐 수 있고, 지방보조금 집행 과정의 접근성도 개선될 것으로 보인다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Botem-e Subsidy Card Expands to Saemaul Geumgo, Credit Unions and Suhyup",
-        "excerpt": "South Korea’s interior ministry is expanding the Botem-e local subsidy card service beyond 12 commercial banks to Saemaul Geumgo, credit unions and Suhyup.",
-        "body": "South Korea’s Ministry of the Interior and Safety said it will expand the service scope of the dedicated Botem-e card used for executing local subsidies. Until now, the card service had been available through 12 commercial banks. It will now also be available at Saemaul Geumgo, credit unions and Suhyup. Botem-e is an integrated management network for local subsidies, covering applications, grants, spending and settlement. With more financial institutions supporting the card, local subsidy project operators will have a wider choice of banks and improved access during subsidy execution. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "地方補助金のボテムe専用カード、セマウル金庫・信協・水協にも拡大",
-        "excerpt": "韓国行政安全部は地方補助金統合管理網「ボテムe」専用カードの対象を従来の12市中銀行からセマウル金庫、信協、水協へ広げる。",
-        "body": "韓国行政安全部は、地方補助金の執行に使われる「ボテムe（地方補助金統合管理網）専用カード」のサービス範囲を拡大すると明らかにした。これまでは12の市中銀行を通じて同カードサービスを利用できたが、今後はセマウル金庫、信用協同組合、水協でも利用できる。ボテムeは地方補助金の申請、交付、執行、精算などを統合管理するシステム。対応金融機関が増えることで、地方補助事業者は取引金融機関の選択肢を広げられ、補助金執行過程の利便性も高まる見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "地方补助金Botem-e专用卡扩围，可在新村金库、信协和水协使用",
-        "excerpt": "韩国行政安全部将地方补助金综合管理网“Botem-e”专用卡服务范围，从原有12家商业银行扩大至新村金库、信协和水协。",
-        "body": "韩国行政安全部表示，将扩大用于地方补助金执行的“Botem-e（地方补助金综合管理网）专用卡”服务范围。此前，该专用卡服务可通过12家商业银行使用；今后，新村金库、信用合作社和水协也将支持该服务。Botem-e是对地方补助金申请、发放、执行和结算等环节进行统一管理的系统。随着可使用该卡的金融机构增加，地方补助项目运营主体将拥有更多交易金融机构选择，地方补助金执行过程的可及性也有望改善。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "La tarjeta Botem-e para subsidios locales se amplía a Saemaul, cooperativas y Suhyup",
-        "excerpt": "El Ministerio del Interior de Corea del Sur ampliará la tarjeta Botem-e de subsidios locales desde 12 bancos comerciales a Saemaul Geumgo, cooperativas de crédito y Suhyup.",
-        "body": "El Ministerio del Interior y Seguridad de Corea del Sur informó que ampliará el alcance del servicio de la tarjeta exclusiva Botem-e, utilizada para ejecutar subsidios locales. Hasta ahora, el servicio estaba disponible a través de 12 bancos comerciales. En adelante también podrá usarse en Saemaul Geumgo, cooperativas de crédito y Suhyup. Botem-e es una red integrada de gestión de subsidios locales que cubre solicitudes, concesiones, ejecución y liquidación. Al aumentar las instituciones financieras participantes, los operadores de proyectos con subsidios locales tendrán más opciones bancarias y mejor acceso durante la ejecución de los fondos. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Cartão Botem-e para subsídios locais chega a Saemaul, cooperativas e Suhyup",
-        "excerpt": "O Ministério do Interior da Coreia do Sul ampliará o cartão Botem-e de subsídios locais, antes restrito a 12 bancos comerciais, para Saemaul Geumgo, cooperativas de crédito e Suhyup.",
-        "body": "O Ministério do Interior e Segurança da Coreia do Sul informou que ampliará o alcance do serviço do cartão exclusivo Botem-e, usado na execução de subsídios locais. Até agora, o serviço podia ser utilizado por meio de 12 bancos comerciais. A partir da expansão, também estará disponível no Saemaul Geumgo, em cooperativas de crédito e no Suhyup. O Botem-e é uma rede integrada de gestão de subsídios locais, cobrindo solicitação, concessão, execução e prestação de contas. Com mais instituições financeiras participantes, operadores de projetos subsidiados terão mais opções e melhor acesso ao executar os recursos. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Botem-e-Karte für lokale Zuschüsse wird auf Saemaul, Kreditgenossenschaften und Suhyup erweitert",
-        "excerpt": "Südkoreas Innenministerium erweitert die Botem-e-Karte für lokale Zuschüsse von bisher 12 Geschäftsbanken auf Saemaul Geumgo, Kreditgenossenschaften und Suhyup.",
-        "body": "Das südkoreanische Ministerium für Inneres und Sicherheit teilte mit, den Serviceumfang der speziellen Botem-e-Karte für die Abwicklung lokaler Zuschüsse zu erweitern. Bisher war der Kartendienst über 12 Geschäftsbanken verfügbar. Künftig kann er auch bei Saemaul Geumgo, Kreditgenossenschaften und Suhyup genutzt werden. Botem-e ist ein integriertes Verwaltungsnetz für lokale Zuschüsse und umfasst Antragstellung, Bewilligung, Ausführung und Abrechnung. Mit der größeren Zahl teilnehmender Finanzinstitute erhalten Träger lokaler Förderprojekte mehr Auswahl bei ihren Bankverbindungen und besseren Zugang bei der Mittelverwendung. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "La carte Botem-e des subventions locales s’étend à Saemaul, aux coopératives et à Suhyup",
-        "excerpt": "Le ministère sud-coréen de l’Intérieur élargit la carte Botem-e des subventions locales, jusqu’ici disponible dans 12 banques commerciales, à Saemaul Geumgo, aux coopératives de crédit et à Suhyup.",
-        "body": "Le ministère sud-coréen de l’Intérieur et de la Sécurité a annoncé l’élargissement du service de la carte dédiée Botem-e, utilisée pour l’exécution des subventions locales. Jusqu’à présent, ce service était accessible par l’intermédiaire de 12 banques commerciales. Il sera désormais aussi disponible auprès de Saemaul Geumgo, des coopératives de crédit et de Suhyup. Botem-e est un réseau intégré de gestion des subventions locales couvrant les demandes, l’octroi, l’exécution et le règlement. L’augmentation du nombre d’établissements participants offrira aux opérateurs de projets subventionnés plus de choix financiers et un meilleur accès lors de l’utilisation des fonds. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "توسيع بطاقة Botem-e للدعم المحلي لتشمل سايماول واتحادات الائتمان وسوهيوب",
-        "excerpt": "توسع وزارة الداخلية الكورية الجنوبية خدمة بطاقة Botem-e المخصصة للدعم المحلي من 12 مصرفا تجاريا إلى سايماول غومغو واتحادات الائتمان وسوهيوب.",
-        "body": "قالت وزارة الداخلية والسلامة في كوريا الجنوبية إنها ستوسع نطاق خدمة بطاقة Botem-e المخصصة لاستخدام الدعم المحلي. وكانت الخدمة متاحة حتى الآن عبر 12 مصرفا تجاريا، لكنها ستصبح متاحة أيضا لدى سايماول غومغو واتحادات الائتمان وسوهيوب. ويعد Botem-e شبكة متكاملة لإدارة الدعم المحلي، تشمل الطلبات والمنح والتنفيذ والتسوية. ومع زيادة المؤسسات المالية التي تدعم البطاقة، سيتمكن مشغلو مشروعات الدعم المحلي من اختيار نطاق أوسع من المؤسسات المالية، كما تتحسن إمكانية الوصول أثناء تنفيذ أموال الدعم. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "स्थानीय सब्सिडी के लिए Botem-e कार्ड अब Saemaul, क्रेडिट यूनियन और Suhyup में भी",
-        "excerpt": "दक्षिण कोरिया का आंतरिक मंत्रालय Botem-e स्थानीय सब्सिडी कार्ड सेवा को 12 वाणिज्यिक बैंकों से आगे Saemaul Geumgo, क्रेडिट यूनियनों और Suhyup तक बढ़ा रहा है।",
-        "body": "दक्षिण कोरिया के आंतरिक और सुरक्षा मंत्रालय ने कहा कि स्थानीय सब्सिडी के निष्पादन में इस्तेमाल होने वाले समर्पित Botem-e कार्ड की सेवा सीमा बढ़ाई जाएगी। अब तक यह कार्ड सेवा 12 वाणिज्यिक बैंकों के माध्यम से उपलब्ध थी। आगे यह Saemaul Geumgo, क्रेडिट यूनियनों और Suhyup में भी उपलब्ध होगी। Botem-e स्थानीय सब्सिडी के आवेदन, अनुदान, खर्च और निपटान को एकीकृत रूप से प्रबंधित करने वाला नेटवर्क है। अधिक वित्तीय संस्थानों के जुड़ने से स्थानीय सब्सिडी परियोजना संचालकों को बैंक चुनने के अधिक विकल्प मिलेंगे और सब्सिडी खर्च की प्रक्रिया तक पहुंच बेहतर होगी। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kartu Botem-e Subsidi Daerah Diperluas ke Saemaul, Koperasi Kredit dan Suhyup",
-        "excerpt": "Kementerian Dalam Negeri Korea Selatan memperluas layanan kartu Botem-e subsidi daerah dari 12 bank komersial ke Saemaul Geumgo, koperasi kredit dan Suhyup.",
-        "body": "Kementerian Dalam Negeri dan Keselamatan Korea Selatan menyatakan akan memperluas cakupan layanan kartu khusus Botem-e yang digunakan untuk pelaksanaan subsidi daerah. Sebelumnya, layanan kartu ini tersedia melalui 12 bank komersial. Ke depan, layanan tersebut juga dapat digunakan di Saemaul Geumgo, koperasi kredit dan Suhyup. Botem-e adalah jaringan manajemen terpadu untuk subsidi daerah, mencakup pengajuan, penyaluran, pelaksanaan dan penyelesaian. Dengan bertambahnya lembaga keuangan pendukung, pelaksana proyek subsidi daerah memiliki lebih banyak pilihan bank dan akses yang lebih baik dalam penggunaan dana subsidi. Sumber: yna.co.kr"
       }
     }
   }
