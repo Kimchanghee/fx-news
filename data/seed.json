@@ -1,5 +1,230 @@
 [
   {
+    "id": "c20226d3dee8",
+    "slug": "연합뉴스-이-시각-헤드라인---1500-616511",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T12:16:33.099Z",
+    "updatedAt": "2026-05-10T12:16:33.099Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510029900011",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510029900011",
+    "titleFingerprint": "2272aab9a34b64a09df5b1eb8272e9bc6b2b9b62",
+    "dedupKeys": [
+      "c20226d3dee8f5ccfedbbffc398d98d40ce5ac6b",
+      "2272aab9a34b64a09df5b1eb8272e9bc6b2b9b62",
+      "0dea2631e85d041a4fdaaeec85d045882b308c61"
+    ],
+    "imageUrl": "/images/articles/c20226d3dee8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이색 후보 열전 주목…배달기사·개그우먼·요양보호사까지 등장",
+        "excerpt": "연합뉴스 15시 헤드라인은 배달기사, 개그우먼, 요양보호사 등 다양한 이력의 이색 후보들이 선거전에 나섰고 전과 15범 후보도 포함됐다고 전했다.",
+        "body": "연합뉴스가 15시 현재 주요 헤드라인으로 배달기사, 개그우먼, 요양보호사 등 다양한 직업과 이력을 가진 이색 후보들의 선거전 소식을 전했다. 보도에 따르면 이번 후보군에는 일반 정치권에서 흔히 보기 어려운 배경을 지닌 인물들이 포함됐으며, 전과 15범 후보도 언급됐다. 이는 선거 과정에서 후보자의 직업, 이력, 전과 등 개인 배경이 유권자 관심사로 부각되고 있음을 보여준다. 향후 선거전에서는 각 후보의 경력과 자질에 대한 검증이 이어질 것으로 보인다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Unusual Candidates Draw Attention, From Delivery Rider to Comedian and Caregiver",
+        "excerpt": "Yonhap’s 15:00 headline reported that candidates with varied backgrounds, including a delivery rider, comedian and caregiver, entered the race, with one candidate having 15 prior convictions.",
+        "body": "Yonhap News reported in its 15:00 headline that an election race is featuring unusual candidates with diverse jobs and backgrounds, including a delivery rider, a comedian and a caregiver. According to the report, the candidate lineup includes people whose profiles are not commonly seen in mainstream politics, and it also mentions a candidate with 15 prior convictions. The report shows that voters’ attention is turning to candidates’ occupations, records and personal backgrounds during the campaign. Further scrutiny of each candidate’s experience and qualifications is expected as the race continues. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "異色候補に注目、配達員・女性芸人・介護職まで選挙戦に登場",
+        "excerpt": "聯合ニュースの15時ヘッドラインは、配達員、女性芸人、介護職など多様な経歴の異色候補が選挙戦に加わり、前科15犯の候補も含まれると伝えた。",
+        "body": "聯合ニュースは15時現在の主要ヘッドラインとして、配達員、女性芸人、介護職など多様な職業と経歴を持つ異色候補の選挙戦を伝えた。報道によると、今回の候補者には一般的な政治圏ではあまり見られない背景を持つ人物が含まれ、前科15犯の候補にも言及された。これは選挙過程で候補者の職業、経歴、前科など個人的背景が有権者の関心事として浮上していることを示す。今後の選挙戦では、各候補の経歴と資質に対する検証が続くとみられる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "特殊候选人引关注：外卖员、女喜剧演员、护理员纷纷登场",
+        "excerpt": "韩联社15时头条报道称，外卖员、女喜剧演员、护理员等拥有多样经历的特殊候选人投入选战，其中还包括一名有15次前科的候选人。",
+        "body": "韩联社在15时主要头条中报道称，外卖员、女喜剧演员、护理员等拥有不同职业和经历的特殊候选人正在展开选战。据报道，此次候选人群体中包括一些在一般政治圈并不常见背景的人物，同时也提到了一名有15次前科的候选人。这显示，在选举过程中，候选人的职业、履历、前科等个人背景正成为选民关注的焦点。随着选战推进，各候选人的经历与资质预计将继续受到检验。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Candidatos inusuales ganan foco: repartidor, comediante y cuidadora en campaña",
+        "excerpt": "El titular de Yonhap de las 15:00 informó que candidatos con trayectorias diversas, como repartidor, comediante y cuidadora, compiten en la elección, incluido uno con 15 antecedentes penales.",
+        "body": "Yonhap News informó en su titular de las 15:00 que la campaña electoral cuenta con candidatos inusuales de ocupaciones y trayectorias diversas, entre ellos un repartidor, una comediante y una cuidadora. Según el reporte, la lista incluye perfiles poco habituales en la política convencional y también menciona a un candidato con 15 antecedentes penales. La información muestra que la ocupación, el historial y los antecedentes personales de los candidatos están ganando atención entre los votantes durante el proceso electoral. Se espera que continúe el examen de la experiencia y las cualidades de cada candidato. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Candidatos incomuns chamam atenção: entregador, comediante e cuidadora",
+        "excerpt": "A manchete das 15h da Yonhap informou que candidatos de perfis variados, como entregador, comediante e cuidadora, entraram na disputa eleitoral, incluindo um com 15 antecedentes criminais.",
+        "body": "A Yonhap News informou em sua manchete das 15h que a disputa eleitoral reúne candidatos incomuns, com profissões e trajetórias variadas, incluindo entregador, comediante e cuidadora. Segundo a reportagem, o grupo de candidatos inclui pessoas com perfis pouco frequentes na política tradicional, além de mencionar um candidato com 15 antecedentes criminais. O caso mostra que ocupação, histórico e antecedentes pessoais dos candidatos estão ganhando destaque entre os eleitores durante a campanha. A verificação da experiência e das qualificações de cada candidato deve continuar conforme a eleição avança. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Ungewöhnliche Kandidaten im Fokus: Lieferfahrer, Komikerin und Pflegekraft",
+        "excerpt": "Yonhap meldete um 15:00 Uhr, dass Kandidaten mit unterschiedlichen Profilen, darunter Lieferfahrer, Komikerin und Pflegekraft, im Wahlkampf stehen; auch ein Kandidat mit 15 Vorstrafen wurde genannt.",
+        "body": "Yonhap News berichtete in der 15:00-Uhr-Schlagzeile über einen Wahlkampf mit ungewöhnlichen Kandidaten aus verschiedenen Berufen und Lebensläufen, darunter ein Lieferfahrer, eine Komikerin und eine Pflegekraft. Dem Bericht zufolge umfasst das Kandidatenfeld Personen mit Hintergründen, die in der etablierten Politik eher selten zu sehen sind. Erwähnt wurde auch ein Kandidat mit 15 Vorstrafen. Damit rücken Beruf, Werdegang und Vorstrafen der Kandidaten im Wahlprozess stärker in den Blick der Wähler. Im weiteren Verlauf des Wahlkampfs dürfte die Prüfung von Erfahrung und Eignung der einzelnen Kandidaten anhalten. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Candidats atypiques en vue : livreur, humoriste et aide-soignante en campagne",
+        "excerpt": "Le titre de Yonhap à 15 h indique que des candidats aux parcours variés, dont un livreur, une humoriste et une aide-soignante, participent à la course, avec aussi un candidat aux 15 condamnations.",
+        "body": "Yonhap News a rapporté dans son titre de 15 h qu’une campagne électorale met en scène des candidats atypiques aux professions et parcours variés, dont un livreur, une humoriste et une aide-soignante. Selon l’information, la liste comprend des profils rarement observés dans la politique traditionnelle, et mentionne aussi un candidat ayant 15 condamnations. Cela montre que le métier, le parcours et les antécédents personnels des candidats deviennent des sujets d’attention pour les électeurs pendant le processus électoral. L’examen de l’expérience et des qualités de chaque candidat devrait se poursuivre. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مرشحون غير مألوفين يلفتون الانتباه: عامل توصيل وكوميدية ومقدمة رعاية",
+        "excerpt": "أفادت عناوين يونهاب عند الساعة 15:00 بأن مرشحين بخلفيات متنوعة، بينهم عامل توصيل وكوميدية ومقدمة رعاية، دخلوا السباق الانتخابي، مع ذكر مرشح لديه 15 سابقة.",
+        "body": "أوردت وكالة يونهاب في عناوينها الرئيسية عند الساعة 15:00 خبرا عن سباق انتخابي يضم مرشحين غير مألوفين من أصحاب مهن وخلفيات متنوعة، بينهم عامل توصيل وكوميدية ومقدمة رعاية. ووفقا للتقرير، تشمل قائمة المرشحين شخصيات ذات خلفيات لا تظهر كثيرا في السياسة التقليدية، كما ذُكر مرشح لديه 15 سابقة جنائية. ويشير ذلك إلى أن مهن المرشحين وسيرهم وسجلاتهم الشخصية أصبحت من عناصر اهتمام الناخبين خلال العملية الانتخابية. ومن المتوقع استمرار التدقيق في خبرات كل مرشح ومؤهلاته مع تقدم السباق. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "अलग पृष्ठभूमि वाले उम्मीदवार चर्चा में, डिलीवरी कर्मी से कॉमेडियन तक",
+        "excerpt": "योनहाप की 15:00 बजे की हेडलाइन के अनुसार डिलीवरी कर्मी, महिला कॉमेडियन और केयरगिवर जैसे विविध पृष्ठभूमि वाले उम्मीदवार चुनाव मैदान में हैं, जिनमें 15 आपराधिक रिकॉर्ड वाला उम्मीदवार भी शामिल है।",
+        "body": "योनहाप न्यूज ने 15:00 बजे की प्रमुख हेडलाइन में बताया कि चुनावी मुकाबले में डिलीवरी कर्मी, महिला कॉमेडियन और केयरगिवर जैसे अलग-अलग पेशे और पृष्ठभूमि वाले असामान्य उम्मीदवार शामिल हैं। रिपोर्ट के अनुसार, उम्मीदवारों की सूची में ऐसे लोग हैं जिनकी पृष्ठभूमि आम राजनीतिक दायरे में कम दिखाई देती है, और इसमें 15 आपराधिक रिकॉर्ड वाले एक उम्मीदवार का भी उल्लेख है। इससे पता चलता है कि चुनाव प्रक्रिया में उम्मीदवारों का पेशा, अनुभव और व्यक्तिगत रिकॉर्ड मतदाताओं की रुचि का विषय बन रहे हैं। आगे चुनाव अभियान में हर उम्मीदवार के अनुभव और योग्यता की जांच जारी रहने की संभावना है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kandidat Tak Biasa Jadi Sorotan, dari Kurir hingga Komedian dan Perawat",
+        "excerpt": "Headline Yonhap pukul 15.00 melaporkan kandidat dengan latar beragam, termasuk kurir, komedian, dan perawat lansia, ikut bertarung dalam pemilu, termasuk satu kandidat dengan 15 catatan pidana.",
+        "body": "Yonhap News dalam headline pukul 15.00 melaporkan persaingan pemilu yang diwarnai kandidat tak biasa dengan profesi dan latar belakang beragam, termasuk kurir, komedian, dan perawat lansia. Menurut laporan itu, daftar kandidat mencakup figur dengan profil yang jarang terlihat dalam politik arus utama, serta menyebut satu kandidat dengan 15 catatan pidana. Hal ini menunjukkan bahwa pekerjaan, riwayat, dan latar pribadi kandidat menjadi perhatian pemilih dalam proses pemilu. Ke depan, pemeriksaan atas pengalaman dan kualitas masing-masing kandidat diperkirakan terus berlanjut. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a95ebc1568be",
+    "slug": "더-커진-중동-리스크한국-산업-전반에-피해-눈덩이-508390",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T12:15:37.214Z",
+    "updatedAt": "2026-05-10T12:15:37.214Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510050700003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510050700003",
+    "titleFingerprint": "563b63b1fc91a80ee56e61eb8527f08eb7c502d2",
+    "dedupKeys": [
+      "a95ebc1568be87a496138d914bac46b025c11798",
+      "563b63b1fc91a80ee56e61eb8527f08eb7c502d2",
+      "7ac533b8d750834cd22fd4637d9ae1abdb6e0612"
+    ],
+    "imageUrl": "/images/articles/a95ebc1568be.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중동 리스크 재고조, 한국 선박 화재 외부 공격 확인에 산업 피해 우려",
+        "excerpt": "연합뉴스는 한국 국적 선박 나무호 화재가 외부 공격에 따른 것으로 확인되며 중동발 리스크가 다시 커지고 한국 산업 전반의 피해 우려가 확산하고 있다고 전했다.",
+        "body": "한국 국적 선박 나무호에서 발생한 화재가 외부 공격에 의한 것으로 확인되면서 중동발 리스크가 다시 고조될 수 있다는 우려가 커지고 있다. 연합뉴스에 따르면 이번 사안은 중동 정세 불안이 해상 운송과 에너지·원자재 흐름, 관련 산업 전반에 부담으로 작용할 수 있다는 점에서 주목된다. 원문은 한국 산업 전반의 피해가 ‘눈덩이’처럼 커질 가능성을 제기했으나, 구체적인 피해 규모나 수치는 제시하지 않았다. 향후 관건은 추가 위험 확산 여부와 국내 산업계의 대응이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Middle East Risk Rises as Attack Behind Korean Ship Fire Sparks Industry Concern",
+        "excerpt": "Yonhap reported that a fire on the South Korean vessel Namuho was confirmed to have been caused by an external attack, renewing concerns over Middle East risks and wider industrial damage.",
+        "body": "Concerns are growing that Middle East-related risks could intensify again after a fire on the South Korean-flagged vessel Namuho was confirmed to have been caused by an external attack. According to Yonhap News, the case is drawing attention because instability in the region could weigh on maritime transport, energy and raw material flows, and broader industries. The original report raised the possibility that damage across South Korean industry could grow rapidly, but it did not provide specific loss figures or detailed numbers. The key issue ahead is whether additional risks spread and how domestic industries respond. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "中東リスク再燃、韓国船火災が外部攻撃と確認され産業被害に懸念",
+        "excerpt": "聯合ニュースは、韓国籍船ナム号の火災が外部攻撃によるものと確認され、中東発のリスク再拡大と韓国産業全般への被害懸念が広がっていると伝えた。",
+        "body": "韓国籍船ナム号で発生した火災が外部攻撃によるものと確認され、中東発のリスクが再び高まる可能性への懸念が強まっている。聯合ニュースによると、今回の事案は中東情勢の不安が海上輸送、エネルギー・原材料の流れ、関連産業全般に負担となり得る点で注目されている。原文は、韓国産業全般の被害が雪だるま式に拡大する可能性を指摘したが、具体的な被害規模や数値は示していない。今後の焦点は追加リスクの拡散有無と国内産業界の対応だ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "中东风险再升温，韩国船舶火灾确认为外部攻击引发产业担忧",
+        "excerpt": "韩联社报道称，韩国籍船舶Namuho火灾已确认由外部攻击造成，中东风险可能再次上升，韩国整体产业受损担忧正在扩大。",
+        "body": "韩国籍船舶Namuho发生的火灾被确认由外部攻击造成后，市场对中东相关风险再度升温的担忧正在加大。据韩联社报道，此事受到关注，是因为中东局势不稳可能对海上运输、能源和原材料流动以及相关产业整体形成压力。原文指出，韩国整体产业的损失可能像滚雪球一样扩大，但未提供具体损失规模或相关数字。接下来的关键在于额外风险是否扩散，以及韩国国内产业界将如何应对。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Riesgo en Oriente Medio aumenta tras ataque a buque surcoreano y preocupa a la industria",
+        "excerpt": "Yonhap informó que el incendio del buque surcoreano Namuho fue causado por un ataque externo, reavivando temores sobre riesgos desde Oriente Medio y daños industriales amplios.",
+        "body": "Aumenta la preocupación por una nueva escalada de riesgos vinculados a Oriente Medio después de que se confirmara que el incendio del buque surcoreano Namuho fue causado por un ataque externo. Según Yonhap, el caso llama la atención porque la inestabilidad regional podría presionar el transporte marítimo, los flujos de energía y materias primas, y a las industrias relacionadas. El informe original planteó la posibilidad de que los daños al conjunto de la industria surcoreana crezcan rápidamente, aunque no ofreció cifras concretas ni una estimación del impacto. La clave será si se extienden nuevos riesgos y cómo responde el sector industrial nacional. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Risco no Oriente Médio cresce após ataque a navio sul-coreano preocupar indústria",
+        "excerpt": "A Yonhap informou que o incêndio no navio sul-coreano Namuho foi causado por um ataque externo, reacendendo temores sobre riscos no Oriente Médio e danos industriais.",
+        "body": "Cresce a preocupação de que os riscos ligados ao Oriente Médio voltem a se intensificar depois que o incêndio no navio sul-coreano Namuho foi confirmado como resultado de um ataque externo. Segundo a Yonhap, o caso chama atenção porque a instabilidade regional pode pressionar o transporte marítimo, os fluxos de energia e matérias-primas e setores industriais relacionados. A reportagem original apontou a possibilidade de danos à indústria sul-coreana como um todo aumentarem rapidamente, mas não apresentou valores específicos nem números detalhados. O ponto central agora é se novos riscos se espalharão e como a indústria doméstica responderá. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Nahost-Risiko steigt erneut nach Angriff auf südkoreanisches Schiff und belastet Industrie",
+        "excerpt": "Yonhap meldete, dass der Brand auf dem südkoreanischen Schiff Namuho durch einen externen Angriff verursacht wurde, wodurch Sorgen über Nahost-Risiken und Industrieschäden wachsen.",
+        "body": "Die Sorge wächst, dass sich Risiken aus dem Nahen Osten erneut verschärfen könnten, nachdem bestätigt wurde, dass der Brand auf dem südkoreanischen Schiff Namuho durch einen externen Angriff verursacht wurde. Laut Yonhap News steht der Vorfall im Fokus, weil regionale Instabilität den Seetransport, Energie- und Rohstoffströme sowie damit verbundene Industrien belasten kann. Der ursprüngliche Bericht verwies auf die Möglichkeit, dass Schäden in der südkoreanischen Industrie insgesamt rasch zunehmen könnten, nannte jedoch keine konkreten Schadenssummen oder Zahlen. Entscheidend wird nun, ob sich weitere Risiken ausbreiten und wie die heimische Industrie reagiert. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Risque au Moyen-Orient ravivé après l’attaque liée à l’incendie d’un navire sud-coréen",
+        "excerpt": "Yonhap a rapporté que l’incendie du navire sud-coréen Namuho a été confirmé comme dû à une attaque extérieure, ravivant les craintes pour l’industrie coréenne.",
+        "body": "Les inquiétudes montent quant à une nouvelle intensification des risques liés au Moyen-Orient après la confirmation que l’incendie du navire sud-coréen Namuho a été causé par une attaque extérieure. Selon Yonhap News, l’affaire retient l’attention car l’instabilité régionale pourrait peser sur le transport maritime, les flux d’énergie et de matières premières ainsi que sur les secteurs industriels concernés. Le rapport original évoque la possibilité de dommages croissants pour l’ensemble de l’industrie sud-coréenne, sans toutefois fournir de montants précis ni de chiffres détaillés. L’enjeu sera de savoir si d’autres risques se propagent et comment l’industrie nationale réagit. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "تصاعد مخاطر الشرق الأوسط بعد تأكيد هجوم خارجي وراء حريق سفينة كورية",
+        "excerpt": "ذكرت يونهاب أن حريق السفينة الكورية الجنوبية ناموهو تأكد أنه نجم عن هجوم خارجي، ما أعاد المخاوف من ارتفاع مخاطر الشرق الأوسط واتساع الضرر الصناعي.",
+        "body": "تتزايد المخاوف من عودة تصاعد المخاطر المرتبطة بالشرق الأوسط بعدما تأكد أن الحريق الذي اندلع في السفينة الكورية الجنوبية ناموهو كان نتيجة هجوم خارجي. ووفقاً لوكالة يونهاب، يلفت هذا الحادث الانتباه لأن اضطراب الأوضاع في المنطقة قد يشكل عبئاً على النقل البحري وتدفقات الطاقة والمواد الخام والقطاعات الصناعية المرتبطة بها. وأشار التقرير الأصلي إلى احتمال اتساع الضرر في عموم الصناعة الكورية الجنوبية، لكنه لم يقدم أرقاماً محددة أو تقديرات تفصيلية لحجم الخسائر. وتبقى المسألة الأساسية هي ما إذا كانت مخاطر إضافية ستنتشر وكيف ستتعامل الصناعة المحلية معها. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कोरियाई जहाज में आग पर बाहरी हमले की पुष्टि से मध्य पूर्व जोखिम फिर बढ़ा",
+        "excerpt": "योनहाप ने बताया कि दक्षिण कोरियाई जहाज नामुहो में लगी आग बाहरी हमले से हुई, जिससे मध्य पूर्व से जुड़े जोखिम और उद्योगों पर नुकसान की चिंता फिर बढ़ी।",
+        "body": "दक्षिण कोरियाई ध्वज वाले जहाज नामुहो में लगी आग बाहरी हमले के कारण होने की पुष्टि के बाद मध्य पूर्व से जुड़े जोखिम फिर बढ़ने की चिंता तेज हो गई है। योनहाप न्यूज के अनुसार, यह घटना इसलिए अहम है क्योंकि क्षेत्रीय अस्थिरता समुद्री परिवहन, ऊर्जा और कच्चे माल के प्रवाह तथा संबंधित उद्योगों पर दबाव डाल सकती है। मूल रिपोर्ट ने संकेत दिया कि दक्षिण कोरिया के समूचे उद्योग पर नुकसान तेजी से बढ़ सकता है, लेकिन उसने नुकसान की कोई ठोस राशि या विस्तृत आंकड़े नहीं दिए। आगे मुख्य सवाल यह है कि क्या अतिरिक्त जोखिम फैलते हैं और घरेलू उद्योग कैसे प्रतिक्रिया देता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Risiko Timur Tengah Meningkat Setelah Kebakaran Kapal Korea Dipastikan Akibat Serangan",
+        "excerpt": "Yonhap melaporkan kebakaran kapal Korea Selatan Namuho dipastikan akibat serangan eksternal, memicu kembali kekhawatiran risiko Timur Tengah dan dampak pada industri.",
+        "body": "Kekhawatiran meningkat bahwa risiko terkait Timur Tengah dapat kembali membesar setelah kebakaran pada kapal berbendera Korea Selatan Namuho dipastikan disebabkan oleh serangan eksternal. Menurut Yonhap News, kasus ini menjadi perhatian karena ketidakstabilan kawasan dapat membebani transportasi laut, arus energi dan bahan baku, serta industri terkait secara luas. Laporan asli menyebut kemungkinan kerugian di seluruh industri Korea Selatan dapat membesar dengan cepat, tetapi tidak menyajikan angka kerugian atau data rinci. Fokus berikutnya adalah apakah risiko tambahan akan menyebar dan bagaimana industri domestik merespons. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1bc61f072f5b",
+    "slug": "전삼노-나서서-끝내달라파업-대신-타결-원한다는-삼성맨들-무슨-일-669116",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T12:14:29.224Z",
+    "updatedAt": "2026-05-10T12:14:29.225Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12042818",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12042818",
+    "titleFingerprint": "3abb78d370b8acf82088f1f0b7edbc11ade69a05",
+    "dedupKeys": [
+      "1bc61f072f5bba85261fb1d7f4d3bd54ec488d8a",
+      "3abb78d370b8acf82088f1f0b7edbc11ade69a05",
+      "a57db53482af45f93829887c334a654f712b7507"
+    ],
+    "imageUrl": "/images/articles/1bc61f072f5b.png",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 임금협상 막바지 진통…직원들 “파업 대신 타결” 목소리 확산",
+        "excerpt": "삼성전자 임금 협상이 사후조정 절차를 하루 앞두고 막바지 진통을 겪는 가운데 직원들 사이에서 파업을 피하고 실리적으로 타결해야 한다는 요구가 커지고 있다.",
+        "body": "삼성전자의 임금 협상이 막바지 진통을 겪는 가운데 사후조정 절차를 하루 앞둔 직원들 사이에서 “파업만은 막아야 한다”는 목소리가 빠르게 확산되고 있다. 원문에 따르면 일부 삼성전자 직원들은 전국삼성전자노동조합이 강경 투쟁보다 협상 마무리에 나서야 한다는 실리적 입장을 보이고 있다. 임금 협상이 장기화될 경우 파업 가능성이 부각될 수 있는 만큼, 직원들 사이에서는 노사 모두 부담을 줄이는 방향의 타결 필요성이 제기된다. 향후 사후조정 절차와 노조의 판단이 협상 국면의 분수령이 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Wage Talks Near Final Hurdle as Staff Push for Deal Over Strike",
+        "excerpt": "As Samsung Electronics’ wage negotiations face last-minute strain one day before post-mediation, employees are increasingly calling for a practical settlement to avoid a strike.",
+        "body": "Samsung Electronics’ wage negotiations are facing last-minute strain, and one day before the post-mediation process, calls are spreading quickly among employees to “avoid a strike at all costs.” According to the original report, some Samsung Electronics staff want the National Samsung Electronics Union to focus on concluding negotiations rather than pursuing a hard-line struggle. As prolonged wage talks could raise the possibility of a strike, employees are stressing the need for a settlement that reduces the burden on both labor and management. The post-mediation process and the union’s decision are expected to become a key turning point. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子の賃金交渉が最終局面、社員から「ストより妥結」求める声拡大",
+        "excerpt": "サムスン電子の賃金交渉が事後調整手続きを翌日に控えて難航するなか、社員の間でストを避け実利的に妥結すべきだとの声が急速に広がっている。",
+        "body": "サムスン電子の賃金交渉が最終局面で難航するなか、事後調整手続きを翌日に控えた社員の間で「ストだけは避けるべきだ」との声が急速に広がっている。原文によると、一部のサムスン電子社員は、全国サムスン電子労働組合が強硬闘争よりも交渉の締めくくりに乗り出すべきだという実利的な立場を示している。賃金交渉が長期化すればストの可能性が浮上し得るため、社員の間では労使双方の負担を減らす方向での妥結が必要だとの見方が出ている。今後の事後調整手続きと労組の判断が交渉局面の分岐点になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子薪资谈判进入最后阵痛，员工呼吁“避免罢工、尽快达成协议”",
+        "excerpt": "三星电子薪资谈判在事后调解程序前一天陷入最后阶段拉锯，员工之间要求避免罢工、以务实方式达成协议的声音正在扩大。",
+        "body": "三星电子的薪资谈判正经历最后阶段的阵痛，在事后调解程序开始前一天，员工之间“必须避免罢工”的声音迅速扩散。根据原文，一些三星电子员工认为，全国三星电子劳动组合应把重点放在完成谈判上，而不是采取强硬斗争路线。由于薪资谈判若长期拖延，罢工可能性可能进一步凸显，员工之间开始提出应以减轻劳资双方负担的方向达成协议。接下来的事后调解程序以及工会的判断，预计将成为谈判局势的关键分水岭。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Negociación salarial de Samsung Electronics se tensa: empleados piden acuerdo y no huelga",
+        "excerpt": "La negociación salarial de Samsung Electronics afronta tensiones finales un día antes de la mediación posterior, mientras empleados piden evitar una huelga y cerrar un acuerdo práctico.",
+        "body": "La negociación salarial de Samsung Electronics atraviesa tensiones de última hora y, a un día del procedimiento de mediación posterior, se extiende entre los empleados la idea de que “hay que evitar la huelga”. Según el texto original, parte del personal de Samsung Electronics considera que el Sindicato Nacional de Samsung Electronics debería centrarse en cerrar la negociación antes que en una lucha de línea dura. Si las conversaciones salariales se prolongan, podría aumentar la posibilidad de una huelga, por lo que entre los empleados se plantea la necesidad de un acuerdo que reduzca la carga para trabajadores y dirección. El procedimiento de mediación posterior y la decisión del sindicato serán un punto clave. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Negociação salarial da Samsung Electronics entra em fase crítica, com funcionários contra greve",
+        "excerpt": "A negociação salarial da Samsung Electronics enfrenta tensão final na véspera da mediação posterior, enquanto funcionários defendem evitar greve e fechar um acordo pragmático.",
+        "body": "A negociação salarial da Samsung Electronics passa por tensões de última hora e, um dia antes do procedimento de mediação posterior, cresce rapidamente entre os funcionários a voz de que “a greve deve ser evitada”. Segundo o texto original, parte dos empregados da Samsung Electronics quer que o Sindicato Nacional da Samsung Electronics avance para concluir as negociações, em vez de adotar uma linha de confronto mais dura. Caso as conversas salariais se prolonguem, a possibilidade de greve pode ganhar destaque, e por isso funcionários defendem um acordo que reduza o peso para trabalhadores e administração. A mediação posterior e a decisão do sindicato devem marcar o rumo das negociações. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics bei Lohnverhandlungen unter Druck: Beschäftigte drängen auf Einigung statt Streik",
+        "excerpt": "Die Lohnverhandlungen bei Samsung Electronics stehen kurz vor der nachträglichen Schlichtung unter Druck, während Beschäftigte zunehmend eine pragmatische Einigung ohne Streik fordern.",
+        "body": "Die Lohnverhandlungen bei Samsung Electronics geraten in der Schlussphase unter Druck. Einen Tag vor dem Verfahren der nachträglichen Schlichtung verbreitet sich unter Beschäftigten rasch die Forderung, „einen Streik unbedingt zu verhindern“. Dem Originalbericht zufolge sprechen sich einige Mitarbeiter von Samsung Electronics dafür aus, dass die National Samsung Electronics Union den Abschluss der Verhandlungen in den Vordergrund stellt, statt auf einen harten Arbeitskampf zu setzen. Sollten sich die Lohnverhandlungen weiter hinziehen, könnte die Möglichkeit eines Streiks stärker in den Fokus rücken. Daher wird unter Beschäftigten eine Einigung gefordert, die die Belastung für Arbeitnehmer und Management verringert. Das Schlichtungsverfahren und die Entscheidung der Gewerkschaft dürften nun entscheidend sein. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Négociations salariales chez Samsung Electronics: des employés veulent un accord plutôt qu’une grève",
+        "excerpt": "Les négociations salariales de Samsung Electronics traversent une phase tendue à la veille de la médiation postérieure, tandis que des employés réclament un accord pragmatique sans grève.",
+        "body": "Les négociations salariales de Samsung Electronics connaissent des tensions de dernière minute. À la veille de la procédure de médiation postérieure, l’idée qu’il faut “éviter la grève” se répand rapidement parmi les employés. Selon le texte original, une partie du personnel de Samsung Electronics estime que le Syndicat national de Samsung Electronics devrait chercher à conclure les discussions plutôt que poursuivre une ligne de confrontation ferme. Si les négociations salariales se prolongent, la possibilité d’une grève pourrait être davantage mise en avant. Les employés soulignent donc la nécessité d’un accord réduisant la charge pour les salariés comme pour la direction. La médiation postérieure et la décision du syndicat devraient être décisives. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مفاوضات أجور سامسونغ إلكترونيكس تتعثر في مرحلتها الأخيرة والموظفون يفضلون التسوية على الإضراب",
+        "excerpt": "تواجه مفاوضات الأجور في سامسونغ إلكترونيكس توترا قبل يوم من إجراء التسوية اللاحقة، بينما تتزايد دعوات الموظفين لتجنب الإضراب والتوصل إلى اتفاق عملي.",
+        "body": "تشهد مفاوضات الأجور في سامسونغ إلكترونيكس توترا في مرحلتها الأخيرة، وقبل يوم من إجراء التسوية اللاحقة تنتشر بسرعة بين الموظفين دعوات تقول إن “الإضراب يجب أن يُمنع”. ووفقا للنص الأصلي، يرى بعض موظفي سامسونغ إلكترونيكس أن على النقابة الوطنية لسامسونغ إلكترونيكس التركيز على إنهاء المفاوضات بدلا من المضي في مواجهة متشددة. وإذا طال أمد مفاوضات الأجور فقد تبرز إمكانية الإضراب، لذلك يطرح الموظفون ضرورة التوصل إلى تسوية تخفف العبء عن العمال والإدارة معا. ومن المتوقع أن يشكل إجراء التسوية اللاحقة وقرار النقابة نقطة تحول في مسار المفاوضات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics वेतन वार्ता अंतिम मोड़ पर, कर्मचारी हड़ताल नहीं समझौता चाहते",
+        "excerpt": "Samsung Electronics की वेतन वार्ता बाद की मध्यस्थता से एक दिन पहले अंतिम तनाव से गुजर रही है, जबकि कर्मचारियों में हड़ताल टालकर व्यावहारिक समझौते की मांग बढ़ रही है।",
+        "body": "Samsung Electronics की वेतन वार्ता अंतिम चरण में तनाव से गुजर रही है और बाद की मध्यस्थता प्रक्रिया से एक दिन पहले कर्मचारियों के बीच “हड़ताल किसी भी हाल में रोकनी चाहिए” वाली आवाज तेजी से फैल रही है। मूल रिपोर्ट के अनुसार, Samsung Electronics के कुछ कर्मचारी चाहते हैं कि National Samsung Electronics Union कड़े संघर्ष के बजाय बातचीत को समाप्त करने पर ध्यान दे। यदि वेतन वार्ता लंबी खिंचती है, तो हड़ताल की संभावना उभर सकती है, इसलिए कर्मचारियों के बीच ऐसा समझौता जरूरी बताया जा रहा है जिससे श्रमिकों और प्रबंधन दोनों पर बोझ कम हो। आगे की मध्यस्थता प्रक्रिया और यूनियन का निर्णय वार्ता की दिशा तय करने वाला अहम मोड़ बन सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Negosiasi Upah Samsung Electronics Memanas, Karyawan Dorong Kesepakatan Bukan Mogok",
+        "excerpt": "Negosiasi upah Samsung Electronics mengalami ketegangan akhir sehari sebelum prosedur mediasi lanjutan, sementara karyawan makin menyerukan penyelesaian praktis untuk menghindari mogok.",
+        "body": "Negosiasi upah Samsung Electronics sedang mengalami ketegangan di tahap akhir. Sehari sebelum prosedur mediasi lanjutan, suara karyawan yang menyatakan bahwa “mogok harus dicegah” menyebar cepat. Menurut teks asli, sebagian karyawan Samsung Electronics menilai Serikat Pekerja Nasional Samsung Electronics perlu bergerak untuk menuntaskan perundingan, bukan memilih perjuangan garis keras. Jika negosiasi upah berlarut-larut, kemungkinan mogok dapat semakin menonjol. Karena itu, di kalangan karyawan muncul kebutuhan akan kesepakatan yang mengurangi beban bagi pekerja dan manajemen. Prosedur mediasi lanjutan dan keputusan serikat diperkirakan menjadi titik penting dalam arah negosiasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "3bf59774ef0e",
     "slug": "880만원-내고-매칭된-소개남-카톡-프로필엔-웨딩-d108-513766",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Konflik Keluar dari Proyek Klub Kampus Berujung Kebuntuan 7,5 Jam",
         "excerpt": "Yonhap melaporkan proyek klub universitas di Seoul berubah menjadi kebuntuan 7,5 jam setelah seorang peserta menyatakan akan keluar karena harus bepergian ke luar negeri.",
         "body": "Perselisihan soal niat keluar dari proyek klub universitas di Seoul berujung pada kebuntuan selama 7,5 jam, menurut laporan Yonhap. Dalam laporan itu, seorang peserta disebut menyatakan, “Saya harus bepergian ke luar negeri, jadi saya akan keluar dari proyek.” Namun, seperti tergambar dalam judul asli yang menyebut bahwa peserta tidak bisa keluar sesuka hati, muncul perbedaan pendapat mengenai pengunduran diri tersebut dan situasi pun berlangsung lama. Kasus ini menunjukkan bahwa komunikasi dan prosedur dalam proyek klub universitas dapat menjadi titik konflik ketika partisipasi atau pengunduran diri dipersoalkan. Rincian kejadian dan tindak lanjut perlu merujuk pada laporan asli. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "86498259f6a3",
-    "slug": "반려동물-5천원-카시트-품절-대란펫-시장에-실속형-바람-765895",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T22:53:25.429Z",
-    "updatedAt": "2026-05-09T22:53:25.429Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509024000030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509024000030",
-    "titleFingerprint": "01d3098229eeed5264a43a012e9a137285196068",
-    "dedupKeys": [
-      "86498259f6a340c15603c0c2733e7db0255f77b6",
-      "01d3098229eeed5264a43a012e9a137285196068",
-      "a3b780696332416e898df5bfde4b8ce630dbb45b"
-    ],
-    "imageUrl": "/images/articles/86498259f6a3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반려동물 5천원 카시트 품절 대란, 펫 시장에 실속형 소비 확산",
-        "excerpt": "서울에서 반려동물용 5천원 카시트가 품절 대란을 빚으며 사료와 소모품 가격 부담 속 가성비 제품을 찾는 소비 흐름이 펫 시장에서 확산되고 있다.",
-        "body": "서울에서 반려동물용 5천원 카시트가 품절 대란을 빚으며 펫 시장에 ‘실속형’ 소비 바람이 불고 있다. 사룟값부터 소모품까지 반려동물 관련 비용이 오르는 가운데, 소비자들은 품질 차이가 크지 않다면 자연스럽게 가성비 제품을 선택하는 분위기다. 이번 사례는 가격 부담이 커진 반려동물 양육자들이 필수·편의용품을 고를 때 낮은 가격과 실용성을 함께 따지는 흐름을 보여준다. 펫 시장에서는 고가 제품뿐 아니라 기본 기능을 갖춘 저가형 상품에 대한 관심도 이어질 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Pet Car Seat at 5,000 Won Sells Out as Value Spending Grows in Pet Market",
-        "excerpt": "In Seoul, a 5,000 won pet car seat has sold out as rising costs for feed and supplies push pet owners toward value-focused products with similar quality.",
-        "body": "In Seoul, a 5,000 won car seat for pets has sold out, showing a growing shift toward practical, value-focused spending in the pet market. As costs rise for pet food and everyday supplies, consumers are increasingly choosing affordable products when they see little difference in quality. The case reflects how pet owners facing higher care expenses are weighing both price and usefulness when buying essential and convenience items. In the pet market, interest is expected to continue not only in premium goods but also in low-priced products that provide basic functions. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "ペット用5千ウォン車シートが品切れ、ペット市場に実用消費の流れ",
-        "excerpt": "ソウルでペット用5千ウォン車シートが品切れとなり、飼料や消耗品の値上がりを背景に、品質差が小さい割安商品を選ぶ動きが広がっている。",
-        "body": "ソウルでペット用の5千ウォン車シートが品切れとなり、ペット市場に「実用型」消費の流れが広がっている。飼料代から消耗品まで、ペット関連費用が上がるなか、消費者は品質に大きな差がなければ自然とコストパフォーマンスの高い商品を選んでいる。今回の事例は、負担が増した飼い主が必需品や便利グッズを購入する際、低価格と実用性を同時に重視していることを示す。ペット市場では高価格商品だけでなく、基本機能を備えた低価格商品への関心も続く見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "宠物5000韩元汽车座椅售罄，宠物市场兴起实用型消费",
-        "excerpt": "在首尔，宠物用5000韩元汽车座椅出现售罄热潮，饲料和消耗品涨价压力下，消费者更倾向选择质量差异不大的高性价比产品。",
-        "body": "在首尔，宠物用5000韩元汽车座椅出现售罄热潮，显示宠物市场正在兴起“实用型”消费趋势。随着宠物饲料和各类消耗品价格上涨，消费者在认为质量差异不大时，更自然地选择性价比产品。这一案例反映出，在养宠成本增加的情况下，宠物主人购买必需品和便利用品时，会同时考虑低价格和实用性。宠物市场中，除高价产品外，具备基本功能的低价商品也预计将继续受到关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Silla de auto para mascotas de 5.000 wones se agota y crece el ahorro",
-        "excerpt": "En Seúl, una silla de auto para mascotas de 5.000 wones se agotó mientras el alza de alimentos y consumibles impulsa la búsqueda de productos más económicos.",
-        "body": "En Seúl, una silla de auto para mascotas de 5.000 wones se agotó, señal de que el mercado de mascotas está adoptando un consumo más práctico y orientado al precio. Con aumentos en el alimento y en los consumibles para animales, los consumidores tienden a elegir productos de buena relación calidad-precio cuando no perciben grandes diferencias de calidad. El caso muestra que los dueños de mascotas, presionados por mayores costos, valoran tanto el precio bajo como la utilidad al comprar artículos básicos o de conveniencia. En el mercado pet, el interés podría continuar no solo en productos caros, sino también en opciones económicas con funciones básicas. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Cadeirinha pet de 5.000 won esgota e consumo econômico ganha força",
-        "excerpt": "Em Seul, uma cadeirinha pet de 5.000 won esgotou enquanto a alta de ração e itens de uso diário leva consumidores a buscar produtos com melhor custo-benefício.",
-        "body": "Em Seul, uma cadeirinha de carro para pets de 5.000 won esgotou, indicando a expansão de um consumo mais prático e econômico no mercado de animais de estimação. Com a alta dos preços de ração e itens de uso diário, consumidores tendem a escolher produtos de melhor custo-benefício quando não veem grande diferença de qualidade. O caso mostra que tutores, diante de custos maiores, avaliam preço baixo e utilidade ao comprar itens essenciais ou de conveniência. No mercado pet, o interesse deve continuar não apenas por produtos caros, mas também por opções baratas com funções básicas. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "5.000-Won-Autositz für Haustiere ausverkauft: Spartrend im Pet-Markt",
-        "excerpt": "In Seoul ist ein Haustier-Autositz für 5.000 Won ausverkauft, während steigende Kosten für Futter und Verbrauchsartikel die Nachfrage nach preiswerten Produkten fördern.",
-        "body": "In Seoul ist ein Autositz für Haustiere zum Preis von 5.000 Won ausverkauft, was einen Trend zu praktischen und preisbewussten Käufen im Haustiermarkt zeigt. Da Futter und Verbrauchsartikel für Haustiere teurer werden, greifen Verbraucher eher zu Produkten mit gutem Preis-Leistungs-Verhältnis, wenn sie kaum Qualitätsunterschiede sehen. Der Fall zeigt, dass Haustierhalter bei höheren Betreuungskosten beim Kauf von Grund- und Komfortartikeln sowohl niedrige Preise als auch Nutzen abwägen. Im Pet-Markt dürfte das Interesse daher nicht nur an teuren Produkten, sondern auch an günstigen Waren mit Basisfunktionen anhalten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Siège auto pour animal à 5 000 wons épuisé, le marché pet cherche le prix juste",
-        "excerpt": "À Séoul, un siège auto pour animal à 5 000 wons s’est retrouvé en rupture, alors que la hausse des aliments et consommables pousse vers les produits abordables.",
-        "body": "À Séoul, un siège auto pour animaux vendu 5 000 wons s’est retrouvé en rupture, illustrant la montée d’une consommation plus pratique et attentive au prix sur le marché pet. Alors que les coûts des aliments et des consommables pour animaux augmentent, les consommateurs choisissent plus naturellement des produits au bon rapport qualité-prix lorsqu’ils ne perçoivent pas de grande différence de qualité. Ce cas montre que les propriétaires, confrontés à des dépenses plus élevées, évaluent à la fois le prix bas et l’utilité pour les articles essentiels ou pratiques. L’intérêt devrait donc se poursuivre aussi pour les produits peu chers dotés de fonctions de base. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "نفاد مقعد سيارة للحيوانات بسعر 5 آلاف وون مع صعود الشراء العملي",
-        "excerpt": "في سيول، نفد مقعد سيارة للحيوانات الأليفة بسعر 5 آلاف وون، مع دفع ارتفاع أسعار الطعام والمستلزمات المستهلكين إلى منتجات أوفر إذا لم يختلف مستوى الجودة كثيرا.",
-        "body": "في سيول، نفد مقعد سيارة للحيوانات الأليفة بسعر 5 آلاف وون، ما يعكس اتجاها متزايدا نحو الاستهلاك العملي والموفر في سوق الحيوانات الأليفة. ومع ارتفاع تكاليف الطعام والمستلزمات اليومية، يتجه المستهلكون إلى المنتجات ذات القيمة السعرية الأفضل عندما لا يرون فارقا كبيرا في الجودة. وتظهر هذه الحالة أن مربي الحيوانات، تحت ضغط زيادة تكاليف الرعاية، يوازنون بين السعر المنخفض والمنفعة عند شراء اللوازم الأساسية أو العملية. ومن المتوقع أن يستمر الاهتمام في السوق ليس فقط بالمنتجات مرتفعة السعر، بل أيضا بالسلع منخفضة السعر ذات الوظائف الأساسية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "5,000 वॉन का पेट कार सीट आउट ऑफ स्टॉक, बाजार में किफायती खरीद का रुझान",
-        "excerpt": "सियोल में 5,000 वॉन का पेट कार सीट बिककर खत्म हो गया, क्योंकि चारे और उपभोग्य वस्तुओं की बढ़ती कीमतों के बीच उपभोक्ता किफायती उत्पादों की ओर मुड़ रहे हैं।",
-        "body": "सियोल में पालतू जानवरों के लिए 5,000 वॉन का कार सीट बिककर खत्म हो गया, जिससे पेट बाजार में व्यावहारिक और किफायती खरीद का रुझान दिखता है। चारे से लेकर उपभोग्य वस्तुओं तक पालतू जानवरों से जुड़े खर्च बढ़ रहे हैं, इसलिए उपभोक्ता गुणवत्ता में बड़ा फर्क न होने पर स्वाभाविक रूप से बेहतर कीमत वाले उत्पाद चुन रहे हैं। यह मामला दिखाता है कि बढ़ते पालन-पोषण खर्च के बीच पालतू जानवरों के मालिक जरूरी और सुविधा वाले सामान खरीदते समय कम कीमत और उपयोगिता दोनों पर ध्यान दे रहे हैं। पेट बाजार में महंगे उत्पादों के साथ बुनियादी काम करने वाले कम कीमत वाले सामान में भी रुचि बने रहने की संभावना है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kursi Mobil Hewan 5.000 Won Ludes, Tren Hemat Menguat di Pasar Pet",
-        "excerpt": "Di Seoul, kursi mobil hewan peliharaan seharga 5.000 won ludes saat kenaikan harga pakan dan perlengkapan mendorong konsumen memilih produk bernilai ekonomis.",
-        "body": "Di Seoul, kursi mobil untuk hewan peliharaan seharga 5.000 won ludes, menunjukkan menguatnya konsumsi praktis dan hemat di pasar pet. Ketika biaya pakan hingga perlengkapan habis pakai terus naik, konsumen cenderung memilih produk bernilai ekonomis jika perbedaan kualitas tidak besar. Kasus ini memperlihatkan bahwa pemilik hewan peliharaan, di tengah beban biaya perawatan yang meningkat, mempertimbangkan harga rendah dan kegunaan saat membeli barang penting maupun perlengkapan pendukung. Di pasar pet, minat diperkirakan berlanjut bukan hanya pada produk mahal, tetapi juga pada barang murah dengan fungsi dasar. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cde4c4b7742b",
-    "slug": "라벨갈이-신고했는데-포상금-3천만원-대리인에게행정심판-제기-483379",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T22:52:32.805Z",
-    "updatedAt": "2026-05-09T22:52:32.805Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508143200065",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508143200065",
-    "titleFingerprint": "ca5e978f52176c1ed525c40ed6d228c6ee225c60",
-    "dedupKeys": [
-      "cde4c4b7742bd51f13b4fc73ed42354587b09ecf",
-      "ca5e978f52176c1ed525c40ed6d228c6ee225c60",
-      "533160f84a2ca3f8ad6f7da6a2e363835c347c7f"
-    ],
-    "imageUrl": "/images/articles/cde4c4b7742b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "라벨갈이 신고 포상금 3천만원 논란, 제보자 행정심판 제기",
-        "excerpt": "인천에서 원산지를 속여 판매하는 ‘라벨갈이’를 제보한 남성이 신고를 대신 맡은 관세사에게 포상금 3천만원이 지급되자 행정심판을 제기했다.",
-        "body": "인천에서 원산지를 속여 판매하는 이른바 ‘라벨갈이’ 행위를 제보한 남성이 포상금 지급을 둘러싸고 행정심판을 제기했다. 이 남성은 자신을 대신해 신고 업무를 맡은 관세사에게 포상금 3천만원이 지급된 데 문제를 제기한 것으로 전해졌다. 라벨갈이는 상품의 원산지 표시를 바꿔 소비자에게 다른 원산지 제품처럼 판매하는 행위로, 제보와 신고 절차가 단속의 단서가 될 수 있다. 이번 사안은 제보자와 대리 신고인 사이에서 포상금 수령 주체가 누구인지가 쟁점으로 떠올랐다. 행정심판 결과에 따라 유사 신고 사례의 포상금 지급 판단에도 관심이 모일 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Label-Switching Whistleblower Challenges 30 Million Won Reward Paid to Agent",
-        "excerpt": "In Incheon, a man who tipped off authorities about origin-label switching filed an administrative appeal after a 30 million won reward went to the customs broker who reported on his behalf.",
-        "body": "A man in Incheon who reported alleged origin-label switching has filed an administrative appeal over the payment of a reward. The man is contesting the fact that a 30 million won reward was paid to the customs broker who handled the report on his behalf. Label switching refers to selling goods by changing or disguising their country-of-origin labeling, making products appear to come from a different origin. Tips and formal reports can become leads for enforcement action in such cases. The dispute has raised the question of who should receive a reward when the informant and the person who filed the report are not the same. The outcome of the administrative appeal may draw attention from similar reward-payment cases. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "原産地ラベル替え通報の報奨金3000万ウォン、代理人支給で行政審判",
-        "excerpt": "仁川で原産地を偽って販売する「ラベル替え」を情報提供した男性が、代理通報した関税士に報奨金3000万ウォンが支給され行政審判を申し立てた。",
-        "body": "仁川で原産地を偽って販売する、いわゆる「ラベル替え」行為を情報提供した男性が、報奨金の支給をめぐり行政審判を申し立てた。男性は、自分に代わって通報手続きを担当した関税士に報奨金3000万ウォンが支給されたことを問題視しているとされる。ラベル替えは商品の原産地表示を変え、消費者に別の原産地の商品であるかのように販売する行為で、情報提供や通報手続きが取り締まりの端緒になり得る。今回の事案では、情報提供者と代理通報者の間で報奨金の受取人を誰と見るかが争点となった。行政審判の結果は、類似の通報事例における報奨金判断にも関心を集めそうだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "举报产地“换标签”奖金3000万韩元给代理人，当事人提行政审判",
-        "excerpt": "仁川一名男子举报虚假产地销售的“换标签”行为后，因3000万韩元奖金支付给代为申报的关税士而提出行政审判。",
-        "body": "在仁川，一名举报虚假标示原产地销售、即所谓“换标签”行为的男子，就奖金支付问题提出行政审判。据悉，该男子认为，3000万韩元举报奖金被支付给代其办理申报的关税士存在问题。所谓换标签，是指更改商品原产地标识，使消费者误以为商品来自其他产地并进行销售的行为，线索提供和正式申报可能成为执法查处的依据。本案的焦点在于，当举报线索提供者与代理申报人并非同一人时，奖金应由谁领取。行政审判结果预计将引发对类似申报案件奖金支付判断的关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Denunció cambio de etiquetas y el premio de 30 millones fue al agente: apelación",
-        "excerpt": "En Incheon, un hombre que alertó sobre ventas con origen falso presentó un recurso administrativo después de que la recompensa de 30 millones de wones fuera al agente aduanero que denunció por él.",
-        "body": "Un hombre de Incheon que informó sobre la venta de productos con origen falsificado, conocida como cambio de etiquetas, presentó un recurso administrativo por el pago de una recompensa. El hombre cuestiona que los 30 millones de wones fueran entregados al agente aduanero que realizó la denuncia en su nombre. El cambio de etiquetas consiste en alterar la indicación de origen de un producto para venderlo como si procediera de otro lugar. Las informaciones y denuncias formales pueden servir como base para acciones de control. En este caso, el punto central es quién debe recibir la recompensa cuando el informante y quien tramita la denuncia no son la misma persona. El resultado del recurso podría atraer atención sobre casos similares. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Denúncia de troca de rótulo gera disputa por recompensa de 30 milhões de won",
-        "excerpt": "Em Incheon, um homem que informou venda com origem falsificada entrou com recurso administrativo após a recompensa de 30 milhões de won ser paga ao despachante aduaneiro que denunciou por ele.",
-        "body": "Um homem em Incheon que informou sobre a venda de produtos com origem falsificada, prática conhecida como troca de rótulo, apresentou um recurso administrativo sobre o pagamento de uma recompensa. Ele contesta o fato de que 30 milhões de won foram pagos ao despachante aduaneiro que conduziu a denúncia em seu nome. A troca de rótulo envolve alterar a indicação de origem de mercadorias para vendê-las como se viessem de outro local. Informações e denúncias formais podem servir de ponto de partida para fiscalização. O caso coloca em debate quem deve receber a recompensa quando o informante e o representante que faz a denúncia não são a mesma pessoa. O resultado pode chamar atenção em casos semelhantes. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Etikettentausch gemeldet, 30 Mio. Won Prämie an Vertreter: Einspruch",
-        "excerpt": "In Incheon legte ein Mann Verwaltungsbeschwerde ein, nachdem eine Prämie von 30 Millionen Won für seinen Hinweis auf Herkunftstäuschung an den Zollagenten gezahlt wurde, der für ihn meldete.",
-        "body": "Ein Mann in Incheon, der den Verkauf von Waren mit gefälschter Herkunftsangabe, den sogenannten Etikettentausch, gemeldet hatte, hat wegen der Auszahlung einer Prämie Verwaltungsbeschwerde eingelegt. Er beanstandet, dass 30 Millionen Won an den Zollagenten gezahlt wurden, der die Meldung in seinem Namen übernommen hatte. Beim Etikettentausch wird die Herkunftskennzeichnung von Waren geändert, damit sie Verbrauchern als Produkte anderer Herkunft verkauft werden können. Hinweise und formelle Meldungen können Grundlage für Kontrollen sein. In diesem Fall steht im Mittelpunkt, wer die Prämie erhalten soll, wenn Hinweisgeber und meldender Vertreter nicht identisch sind. Das Ergebnis könnte für ähnliche Fälle Beachtung finden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Signalement de faux étiquetage: 30 millions de wons versés au mandataire",
-        "excerpt": "À Incheon, un homme ayant signalé une vente avec origine falsifiée a saisi le contentieux administratif après le versement de 30 millions de wons au déclarant agissant pour lui.",
-        "body": "À Incheon, un homme qui avait signalé une vente de produits avec origine falsifiée, pratique dite de changement d’étiquette, a engagé une procédure administrative au sujet d’une récompense. Il conteste le versement de 30 millions de wons au commissionnaire en douane qui avait effectué la déclaration en son nom. Le changement d’étiquette consiste à modifier l’indication d’origine d’un produit afin de le vendre comme s’il provenait d’un autre lieu. Les signalements et déclarations formelles peuvent servir de point de départ aux contrôles. L’affaire pose la question du bénéficiaire de la récompense lorsque l’informateur et le déclarant mandaté sont différents. La décision pourrait retenir l’attention dans des cas similaires. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "مبلّغ عن تبديل بلد المنشأ يطعن بعد منح 30 مليون وون للوكيل",
-        "excerpt": "في إنتشون، قدّم رجل بلاغا عن بيع سلع ببلد منشأ مزيف، ثم رفع طعنا إداريا بعدما صُرفت مكافأة قدرها 30 مليون وون للمخلص الجمركي الذي أبلغ نيابة عنه.",
-        "body": "في إنتشون، رفع رجل أبلغ عن بيع سلع مع تزوير بلد المنشأ، وهي ممارسة تعرف بتبديل الملصقات، طعنا إداريا بشأن دفع مكافأة. ويعترض الرجل على صرف مكافأة قدرها 30 مليون وون للمخلص الجمركي الذي تولى تقديم البلاغ نيابة عنه. ويشير تبديل الملصقات إلى تغيير بيان بلد المنشأ على السلع لبيعها للمستهلكين كما لو كانت من منشأ آخر. ويمكن أن تشكل المعلومات والبلاغات الرسمية مدخلا لإجراءات الرقابة. وتتمحور القضية حول من يحق له تلقي المكافأة عندما لا يكون مقدم المعلومة والشخص الذي قدّم البلاغ رسميا هو نفسه. وقد يلفت قرار الطعن الانتباه في حالات مشابهة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "लेबल बदलने की सूचना पर 3 करोड़ वॉन इनाम एजेंट को, प्रशासनिक अपील",
-        "excerpt": "इंचियोन में मूल देश छिपाकर बिक्री की ‘लेबल बदलने’ की सूचना देने वाले व्यक्ति ने 3 करोड़ वॉन का इनाम उसकी ओर से रिपोर्ट करने वाले कस्टम्स ब्रोकर को मिलने पर प्रशासनिक अपील की।",
-        "body": "इंचियोन में मूल देश को गलत बताकर बिक्री करने वाली तथाकथित ‘लेबल बदलने’ की गतिविधि की सूचना देने वाले एक व्यक्ति ने इनाम भुगतान को लेकर प्रशासनिक अपील दायर की है। बताया गया कि उस व्यक्ति ने आपत्ति जताई है कि 3 करोड़ वॉन का इनाम उस कस्टम्स ब्रोकर को दिया गया जिसने उसकी ओर से रिपोर्ट की प्रक्रिया संभाली थी। लेबल बदलना वह तरीका है जिसमें सामान के मूल देश का 표시 बदलकर उसे किसी अन्य मूल देश का उत्पाद बताकर बेचा जाता है। ऐसी सूचना और औपचारिक रिपोर्ट जांच की शुरुआत बन सकती हैं। इस मामले में मुद्दा यह है कि जब सूचनादाता और代理 रिपोर्ट करने वाला व्यक्ति अलग हों तो इनाम किसे मिलना चाहिए। अपील का परिणाम समान मामलों में इनाम भुगतान पर ध्यान खींच सकता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Pelapor Ganti Label Ajukan Banding, Hadiah 30 Juta Won Diberikan ke Agen",
-        "excerpt": "Di Incheon, pria yang memberi informasi soal penjualan dengan asal barang palsu mengajukan banding administratif setelah hadiah 30 juta won dibayarkan kepada pialang bea cukai yang melapor untuknya.",
-        "body": "Seorang pria di Incheon yang memberi informasi tentang penjualan barang dengan asal yang dipalsukan, praktik yang disebut ganti label, mengajukan banding administratif terkait pembayaran hadiah. Pria itu mempersoalkan pembayaran hadiah 30 juta won kepada pialang bea cukai yang menangani laporan atas namanya. Ganti label berarti mengubah keterangan asal barang sehingga produk dijual kepada konsumen seolah berasal dari tempat lain. Informasi dan laporan resmi dapat menjadi dasar awal penindakan. Dalam kasus ini, persoalan utamanya adalah siapa yang berhak menerima hadiah ketika pemberi informasi dan pihak yang mengajukan laporan bukan orang yang sama. Hasil banding administratif diperkirakan menarik perhatian pada kasus serupa. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e32bab33fc04",
-    "slug": "학회-갈-돈-없었다국제학회-발표-28-급감-313505",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T22:51:35.888Z",
-    "updatedAt": "2026-05-09T22:51:35.888Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508132600017",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508132600017",
-    "titleFingerprint": "039c9bab1933a6fe593a127d41492ba7713c51d8",
-    "dedupKeys": [
-      "e32bab33fc0471d491827491bcb24f727074fba1",
-      "039c9bab1933a6fe593a127d41492ba7713c51d8",
-      "5f3d90824a9b8768670c96eb839e33eca23ad219"
-    ],
-    "imageUrl": "/images/articles/e32bab33fc04.jpg",
-    "i18n": {
-      "ko": {
-        "title": "R&D 예산 삭감 여파, 국제학회 발표 28% 급감…연구 현장 위축",
-        "excerpt": "R&D 예산 삭감 여파로 국내 연구자들이 해외 학회 출장과 특허 활동을 줄이면서 국제학회 발표가 28% 감소한 것으로 나타났다고 연합뉴스가 보도했다.",
-        "body": "서울발 연합뉴스 보도에 따르면 R&D 예산 삭감 여파로 국내 연구자들의 국제학회 발표가 28% 급감한 것으로 나타났다. 연구자들은 실제 해외 학회 출장과 특허 활동 등을 줄인 것으로 통계에 드러났다. 이번 수치는 예산 축소가 연구 현장의 대외 활동과 성과 확산 과정에 영향을 미쳤음을 보여준다. 학회 발표 감소는 연구 교류와 국제 협력 기회 축소로 이어질 수 있어 향후 연구 활동 전반의 위축 여부가 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "R&D Budget Cuts Hit Research: International Conference Presentations Drop 28%",
-        "excerpt": "Yonhap reported that South Korean researchers reduced overseas conference trips and patent activity after R&D budget cuts, with international conference presentations falling 28%.",
-        "body": "According to a Yonhap report from Seoul, international conference presentations by South Korean researchers fell 28% in the aftermath of R&D budget cuts. Statistics showed that researchers reduced actual overseas conference travel as well as patent-related activities. The figures indicate that budget reductions affected external research activity and the process of sharing research outcomes. The decline in conference presentations could narrow opportunities for academic exchange and international cooperation, drawing attention to whether research activity will weaken further. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "R&D予算削減の影響、国際学会発表が28%急減…研究現場に萎縮感",
-        "excerpt": "聯合ニュースは、R&D予算削減の影響で韓国の研究者が海外学会出張や特許活動を減らし、国際学会発表が28%減少したと報じた。",
-        "body": "ソウル発の聯合ニュース報道によると、R&D予算削減の影響で韓国の研究者による国際学会発表が28%急減した。統計では、研究者が実際の海外学会出張や特許活動などを減らしたことが示された。今回の数値は、予算縮小が研究現場の対外活動や成果発信の過程に影響を及ぼしたことを示している。学会発表の減少は研究交流や国際協力の機会縮小につながる可能性があり、今後の研究活動全体への影響が注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "R&D预算削减冲击研究现场，国际学会发表骤降28%",
-        "excerpt": "韩联社报道称，受R&D预算削减影响，韩国研究人员减少海外学会出差和专利活动，国际学会发表数量下降28%。",
-        "body": "据首尔韩联社报道，受R&D预算削减影响，韩国研究人员的国际学会发表数量骤降28%。统计显示，研究人员实际减少了海外学会出差以及专利相关活动。该数据表明，预算缩减已经影响到研究现场的对外活动和成果传播过程。学会发表减少可能进一步压缩研究交流和国际合作机会，因此外界关注今后整体研究活动是否会继续萎缩。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Recortes en I+D golpean la investigación: ponencias internacionales caen 28%",
-        "excerpt": "Yonhap informó que, tras los recortes de presupuesto en I+D, investigadores surcoreanos redujeron viajes a congresos y actividad de patentes; las ponencias bajaron 28%.",
-        "body": "Según un reporte de Yonhap desde Seúl, las presentaciones de investigadores surcoreanos en congresos internacionales cayeron 28% tras los recortes del presupuesto de I+D. Las estadísticas muestran que los investigadores redujeron viajes reales al extranjero para asistir a congresos y también actividades relacionadas con patentes. La cifra indica que la reducción presupuestaria afectó la actividad externa de la investigación y la difusión de resultados. La caída de ponencias puede limitar el intercambio académico y la cooperación internacional, por lo que se observa su impacto futuro. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Cortes em P&D afetam pesquisa: apresentações internacionais caem 28%",
-        "excerpt": "A Yonhap informou que, após cortes no orçamento de P&D, pesquisadores sul-coreanos reduziram viagens a congressos e atividades de patentes; apresentações caíram 28%.",
-        "body": "Segundo reportagem da Yonhap em Seul, as apresentações de pesquisadores sul-coreanos em conferências internacionais caíram 28% após os cortes no orçamento de P&D. As estatísticas mostraram que os pesquisadores reduziram viagens reais ao exterior para conferências e também atividades ligadas a patentes. O número indica que a redução orçamentária afetou as atividades externas de pesquisa e a divulgação de resultados. A queda nas apresentações pode reduzir oportunidades de intercâmbio acadêmico e cooperação internacional, mantendo atenção sobre os efeitos futuros. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "F&E-Kürzungen treffen Forschung: Internationale Konferenzbeiträge sinken um 28%",
-        "excerpt": "Yonhap berichtete, dass südkoreanische Forscher nach F&E-Budgetkürzungen Auslandsreisen zu Konferenzen und Patentaktivitäten reduzierten; Beiträge sanken um 28%.",
-        "body": "Laut einem Yonhap-Bericht aus Seoul gingen die internationalen Konferenzbeiträge südkoreanischer Forscher infolge von Kürzungen im F&E-Budget um 28% zurück. Statistiken zeigten, dass Forscher tatsächliche Auslandsreisen zu Konferenzen sowie Patentaktivitäten reduzierten. Die Zahlen machen deutlich, dass die Budgetkürzungen externe Forschungsaktivitäten und die Verbreitung von Ergebnissen beeinflussten. Der Rückgang der Konferenzbeiträge könnte Chancen für wissenschaftlichen Austausch und internationale Zusammenarbeit verringern. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Coupes en R&D: les présentations en conférences internationales chutent de 28%",
-        "excerpt": "Yonhap rapporte qu’après des coupes budgétaires en R&D, des chercheurs sud-coréens ont réduit voyages à l’étranger et activités de brevet; les présentations ont baissé de 28%.",
-        "body": "Selon un reportage de Yonhap depuis Séoul, les présentations de chercheurs sud-coréens lors de conférences internationales ont chuté de 28% après les coupes dans le budget de R&D. Les statistiques montrent que les chercheurs ont réduit leurs déplacements réels à l’étranger pour des conférences ainsi que leurs activités liées aux brevets. Ce chiffre indique que la baisse du budget a touché les activités extérieures de recherche et la diffusion des résultats. La diminution des présentations pourrait réduire les échanges scientifiques et la coopération internationale. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "خفض ميزانية البحث والتطوير يضغط على الباحثين: عروض المؤتمرات الدولية تهبط 28%",
-        "excerpt": "ذكرت يونهاب أن باحثين في كوريا الجنوبية قلصوا السفر إلى المؤتمرات الخارجية وأنشطة براءات الاختراع بعد خفض ميزانية البحث والتطوير، فانخفضت العروض الدولية 28%.",
-        "body": "بحسب تقرير ليونهاب من سيول، انخفضت عروض الباحثين الكوريين الجنوبيين في المؤتمرات الدولية بنسبة 28% عقب خفض ميزانية البحث والتطوير. وأظهرت الإحصاءات أن الباحثين قلصوا السفر الفعلي إلى الخارج لحضور المؤتمرات، إلى جانب أنشطة مرتبطة ببراءات الاختراع. وتشير هذه الأرقام إلى أن تقليص الميزانية أثر في النشاط الخارجي للبحث وفي نشر نتائجه. وقد يؤدي تراجع عروض المؤتمرات إلى تقليص فرص التبادل العلمي والتعاون الدولي، ما يسلط الضوء على تأثيره في نشاط البحث لاحقا. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "R&D बजट कटौती का असर: अंतरराष्ट्रीय सम्मेलन प्रस्तुतियां 28% घटीं",
-        "excerpt": "Yonhap के अनुसार, R&D बजट कटौती के बाद दक्षिण कोरियाई शोधकर्ताओं ने विदेशी सम्मेलनों की यात्राएं और पेटेंट गतिविधियां घटाईं, जिससे प्रस्तुतियां 28% कम हुईं।",
-        "body": "सियोल से Yonhap की रिपोर्ट के अनुसार, R&D बजट कटौती के बाद दक्षिण कोरियाई शोधकर्ताओं की अंतरराष्ट्रीय सम्मेलन प्रस्तुतियां 28% घट गईं। आंकड़ों से पता चला कि शोधकर्ताओं ने विदेशी सम्मेलनों में वास्तविक यात्रा और पेटेंट से जुड़ी गतिविधियों को कम किया। यह संख्या दिखाती है कि बजट में कमी ने शोध क्षेत्र की बाहरी गतिविधियों और परिणामों के प्रसार को प्रभावित किया। सम्मेलन प्रस्तुतियों में गिरावट अकादमिक आदान-प्रदान और अंतरराष्ट्रीय सहयोग के अवसरों को सीमित कर सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Pemangkasan Anggaran R&D Terasa: Presentasi Konferensi Internasional Turun 28%",
-        "excerpt": "Yonhap melaporkan peneliti Korea Selatan mengurangi perjalanan ke konferensi luar negeri dan aktivitas paten setelah pemangkasan anggaran R&D; presentasi internasional turun 28%.",
-        "body": "Menurut laporan Yonhap dari Seoul, presentasi peneliti Korea Selatan di konferensi internasional turun 28% setelah pemangkasan anggaran R&D. Statistik menunjukkan para peneliti mengurangi perjalanan nyata ke luar negeri untuk menghadiri konferensi serta aktivitas terkait paten. Angka ini menunjukkan bahwa pengurangan anggaran memengaruhi kegiatan eksternal penelitian dan proses penyebaran hasilnya. Penurunan presentasi konferensi dapat mempersempit peluang pertukaran akademik dan kerja sama internasional, sehingga dampaknya terhadap aktivitas riset ke depan menjadi perhatian. Sumber: yna.co.kr"
       }
     }
   }
