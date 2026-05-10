@@ -1,5 +1,230 @@
 [
   {
+    "id": "08a14f061035",
+    "slug": "한투증권-고물가-우려-잠시-내려놓고-반도체-계속-붙잡아야-489022",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T23:38:10.426Z",
+    "updatedAt": "2026-05-10T23:38:10.426Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511018700008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511018700008",
+    "titleFingerprint": "1ab7d9d6d1c2ddf1529094b4edeb726f8607bba2",
+    "dedupKeys": [
+      "08a14f06103581a07a9100bd2db5b8411dcd4019",
+      "1ab7d9d6d1c2ddf1529094b4edeb726f8607bba2",
+      "03e057675dc435ba0c3c54c2f3a482a2a8ed8302"
+    ],
+    "imageUrl": "/images/articles/08a14f061035.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체 투자 유지 강조한 한투증권, 고물가 우려보다 AI 수혜 주목",
+        "excerpt": "한국투자증권은 11일 고물가 우려를 잠시 내려놓고 AI 혁신의 수혜 대상으로 꼽히는 반도체를 계속 붙잡아야 한다고 밝혔다.",
+        "body": "한국투자증권은 11일 고물가 우려에 과도하게 매달리기보다 인공지능(AI) 혁신의 수혜가 예상되는 반도체에 대한 관심을 이어가야 한다고 밝혔다. 회사는 고물가 부담이 시장의 주요 변수로 남아 있지만, AI 확산 과정에서 반도체가 핵심 수혜 대상으로 평가된다는 점에 주목했다. 이에 따라 투자자들은 물가 관련 불확실성을 잠시 내려놓고 반도체 업종의 흐름을 계속 살펴볼 필요가 있다는 설명이다. 이번 의견은 반도체가 AI 혁신과 맞물려 시장에서 중요한 투자 테마로 남아 있음을 보여준다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Korea Investment Says Stay With Semiconductors Despite Inflation Worries",
+        "excerpt": "Korea Investment & Securities said on the 11th that investors should set aside inflation concerns for now and keep holding semiconductors, a key beneficiary of AI innovation.",
+        "body": "Korea Investment & Securities said on the 11th that investors should avoid focusing too heavily on high inflation concerns and maintain interest in semiconductors, which it described as beneficiaries of artificial intelligence innovation. The firm noted that inflation remains an important market variable, but emphasized that semiconductors are being viewed as a core beneficiary as AI spreads. It said investors may need to put inflation-related uncertainty aside for the moment and continue watching the semiconductor sector’s trend. The view shows that semiconductors remain an important investment theme tied to AI innovation. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "韓国投資証券、物価高懸念より半導体投資の継続に注目",
+        "excerpt": "韓国投資証券は11日、物価高への懸念をいったん脇に置き、AI革新の恩恵を受ける半導体を引き続き重視すべきだと述べた。",
+        "body": "韓国投資証券は11日、物価高への懸念に過度にとらわれるより、人工知能（AI）革新の恩恵が見込まれる半導体への関心を維持すべきだと明らかにした。同社は、物価高の負担が市場の主要な変数として残っている一方で、AIの普及過程で半導体が中核的な受益対象と評価されている点に注目した。投資家は物価を巡る不確実性をいったん脇に置き、半導体業種の流れを引き続き見守る必要があるとの説明だ。今回の見方は、半導体がAI革新と結びつき、市場で重要な投資テーマとして残っていることを示している。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国投资证券称应继续关注半导体，暂放高通胀担忧",
+        "excerpt": "韩国投资证券11日表示，应暂时放下高通胀担忧，继续把握作为AI创新受益对象的半导体板块。",
+        "body": "韩国投资证券11日表示，与其过度关注高通胀担忧，不如继续关注有望受益于人工智能（AI）创新的半导体。该公司指出，高通胀负担仍是市场的重要变量，但在AI扩散过程中，半导体被视为核心受益对象，这一点值得关注。因此，投资者有必要暂时搁置与物价相关的不确定性，继续观察半导体行业走势。此番观点显示，半导体与AI创新相互关联，仍是市场上的重要投资主题。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Korea Investment aconseja mantener semiconductores pese a la inflación",
+        "excerpt": "Korea Investment & Securities dijo el día 11 que los inversores deberían dejar de lado por ahora la preocupación por la inflación y seguir atentos a los semiconductores, beneficiarios de la innovación en IA.",
+        "body": "Korea Investment & Securities dijo el día 11 que los inversores deberían evitar centrarse en exceso en la preocupación por la alta inflación y mantener el interés en los semiconductores, considerados beneficiarios de la innovación en inteligencia artificial (IA). La firma señaló que la presión inflacionaria sigue siendo una variable importante para el mercado, pero destacó que los semiconductores son vistos como un beneficiario clave en el proceso de expansión de la IA. Según explicó, los inversores podrían necesitar dejar temporalmente de lado la incertidumbre ligada a los precios y seguir observando la tendencia del sector. La opinión muestra que los semiconductores siguen siendo un tema de inversión importante vinculado a la innovación en IA. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Korea Investment recomenda manter semicondutores apesar da inflação",
+        "excerpt": "A Korea Investment & Securities afirmou no dia 11 que investidores devem deixar de lado, por ora, as preocupações com a inflação e continuar atentos aos semicondutores, beneficiários da inovação em IA.",
+        "body": "A Korea Investment & Securities afirmou no dia 11 que os investidores devem evitar foco excessivo nas preocupações com a inflação elevada e manter o interesse nos semicondutores, apontados como beneficiários da inovação em inteligência artificial (IA). A empresa observou que a pressão inflacionária continua sendo uma variável importante para o mercado, mas destacou que os semicondutores são vistos como beneficiários centrais no avanço da IA. Assim, os investidores podem precisar deixar temporariamente de lado a incerteza ligada aos preços e seguir acompanhando a tendência do setor. A avaliação mostra que os semicondutores permanecem como tema relevante de investimento ligado à inovação em IA. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Korea Investment rät trotz Inflationssorgen weiter zu Halbleitern",
+        "excerpt": "Korea Investment & Securities erklärte am 11., Anleger sollten Inflationssorgen vorerst zurückstellen und Halbleiter weiter im Blick behalten, da sie von KI-Innovationen profitieren.",
+        "body": "Korea Investment & Securities erklärte am 11., Anleger sollten sich nicht zu stark auf die Sorge über hohe Inflation konzentrieren, sondern das Interesse an Halbleitern aufrechterhalten, die als Profiteure der Innovation bei künstlicher Intelligenz (KI) gelten. Das Unternehmen wies darauf hin, dass Inflationsdruck weiterhin eine wichtige Marktvariable bleibt, betonte jedoch, dass Halbleiter im Zuge der Verbreitung von KI als zentrale Nutznießer bewertet werden. Anleger müssten die preisbezogene Unsicherheit daher vorerst zurückstellen und den Trend im Halbleitersektor weiter beobachten. Die Einschätzung zeigt, dass Halbleiter in Verbindung mit KI-Innovation ein wichtiges Investmentthema bleiben. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Korea Investment conseille de garder les semi-conducteurs malgré l’inflation",
+        "excerpt": "Korea Investment & Securities a déclaré le 11 que les investisseurs devraient mettre de côté les craintes liées à l’inflation et rester positionnés sur les semi-conducteurs, bénéficiaires de l’innovation en IA.",
+        "body": "Korea Investment & Securities a déclaré le 11 que les investisseurs devraient éviter de se concentrer excessivement sur les inquiétudes liées à la forte inflation et maintenir leur intérêt pour les semi-conducteurs, considérés comme bénéficiaires de l’innovation en intelligence artificielle (IA). La société a indiqué que la pression inflationniste reste une variable importante pour le marché, mais a souligné que les semi-conducteurs sont vus comme un bénéficiaire central de la diffusion de l’IA. Les investisseurs pourraient donc devoir mettre temporairement de côté l’incertitude liée aux prix et continuer à suivre la tendance du secteur. Cette opinion montre que les semi-conducteurs restent un thème d’investissement important lié à l’innovation en IA. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كوريا إنفستمنت تدعو للتمسك بأشباه الموصلات رغم مخاوف التضخم",
+        "excerpt": "قالت كوريا إنفستمنت آند سيكيوريتيز في اليوم الحادي عشر إن على المستثمرين تنحية مخاوف التضخم مؤقتا ومواصلة التمسك بأشباه الموصلات المستفيدة من ابتكار الذكاء الاصطناعي.",
+        "body": "قالت كوريا إنفستمنت آند سيكيوريتيز في اليوم الحادي عشر إن المستثمرين ينبغي ألا يركزوا بشكل مفرط على مخاوف التضخم المرتفع، بل عليهم مواصلة الاهتمام بأشباه الموصلات التي تعد من المستفيدين من ابتكار الذكاء الاصطناعي. وأوضحت الشركة أن ضغوط الأسعار لا تزال متغيرا رئيسيا في السوق، لكنها شددت على أن أشباه الموصلات تُقيّم كأحد المستفيدين الأساسيين مع انتشار الذكاء الاصطناعي. لذلك قد يحتاج المستثمرون إلى وضع عدم اليقين المرتبط بالأسعار جانبا مؤقتا ومتابعة اتجاه قطاع أشباه الموصلات. ويظهر هذا الرأي أن أشباه الموصلات تبقى موضوعا استثماريا مهما مرتبطا بابتكار الذكاء الاصطناعي. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "Korea Investment ने महंगाई चिंता के बीच सेमीकंडक्टर पर टिके रहने को कहा",
+        "excerpt": "Korea Investment & Securities ने 11 तारीख को कहा कि निवेशकों को फिलहाल महंगाई की चिंता अलग रखकर AI नवाचार से लाभान्वित माने जा रहे सेमीकंडक्टर पर ध्यान बनाए रखना चाहिए।",
+        "body": "Korea Investment & Securities ने 11 तारीख को कहा कि निवेशकों को ऊंची महंगाई की चिंता पर जरूरत से अधिक केंद्रित होने के बजाय कृत्रिम बुद्धिमत्ता (AI) नवाचार से लाभान्वित होने वाले सेमीकंडक्टर में रुचि बनाए रखनी चाहिए। कंपनी ने कहा कि महंगाई का दबाव बाजार का एक प्रमुख कारक बना हुआ है, लेकिन AI के प्रसार की प्रक्रिया में सेमीकंडक्टर को मुख्य लाभार्थी के रूप में देखा जा रहा है। इसलिए निवेशकों को कीमतों से जुड़ी अनिश्चितता को फिलहाल अलग रखकर सेमीकंडक्टर क्षेत्र की प्रवृत्ति पर नजर बनाए रखने की जरूरत हो सकती है। यह राय दिखाती है कि सेमीकंडक्टर AI नवाचार से जुड़ा एक महत्वपूर्ण निवेश विषय बना हुआ है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Korea Investment Sarankan Tetap Pegang Semikonduktor di Tengah Inflasi",
+        "excerpt": "Korea Investment & Securities pada tanggal 11 menyatakan investor sebaiknya sementara mengesampingkan kekhawatiran inflasi dan tetap memegang semikonduktor sebagai penerima manfaat inovasi AI.",
+        "body": "Korea Investment & Securities pada tanggal 11 menyatakan bahwa investor sebaiknya tidak terlalu terpaku pada kekhawatiran inflasi tinggi, melainkan tetap mempertahankan perhatian pada semikonduktor yang dinilai mendapat manfaat dari inovasi kecerdasan buatan (AI). Perusahaan itu mencatat bahwa beban inflasi masih menjadi variabel utama pasar, tetapi menekankan bahwa semikonduktor dipandang sebagai penerima manfaat inti dalam proses penyebaran AI. Karena itu, investor perlu sementara mengesampingkan ketidakpastian terkait harga dan terus mencermati arah sektor semikonduktor. Pandangan ini menunjukkan bahwa semikonduktor tetap menjadi tema investasi penting yang terkait dengan inovasi AI. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "2b633ed01968",
+    "slug": "nh투자-yg엔터-1분기-실적-컨센서스-부합하반기-모멘텀-주목-448855",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T23:37:17.409Z",
+    "updatedAt": "2026-05-10T23:37:17.409Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511019300008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511019300008",
+    "titleFingerprint": "6e5a3ab80ccd5aca7b696d975a8dc483db1530dd",
+    "dedupKeys": [
+      "2b633ed01968da72f41c24a7926219aec11272e2",
+      "6e5a3ab80ccd5aca7b696d975a8dc483db1530dd",
+      "e8bd7540c941b8117aa084e9766dca0d16b4bb94"
+    ],
+    "imageUrl": "/images/articles/2b633ed01968.jpg",
+    "i18n": {
+      "ko": {
+        "title": "YG엔터 1분기 실적 컨센서스 부합, NH투자 “하반기 모멘텀 주목”",
+        "excerpt": "NH투자증권은 11일 와이지엔터테인먼트의 1분기 실적이 시장 컨센서스에 부합했다며, 향후 투자 판단에서는 하반기 모멘텀에 주목할 필요가 있다고 밝혔다.",
+        "body": "NH투자증권[005940]은 11일 와이지엔터테인먼트[122870]에 대해 1분기 실적이 컨센서스, 즉 시장 평균 전망치에 부합했다고 평가했다. 이번 평가는 와이지엔터테인먼트의 분기 실적이 시장 기대에서 크게 벗어나지 않았다는 점에 초점을 맞춘 것이다. NH투자증권은 단기 실적보다 하반기 모멘텀에 주목할 필요가 있다고 봤다. 이에 따라 시장에서는 와이지엔터테인먼트의 향후 흐름과 하반기 실적 및 사업 전개가 투자 판단의 주요 변수로 거론될 수 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "YG Entertainment Q1 Results Meet Consensus, NH Investment Flags H2 Momentum",
+        "excerpt": "NH Investment & Securities said on the 11th that YG Entertainment’s first-quarter results met market consensus, adding that investors should watch second-half momentum.",
+        "body": "NH Investment & Securities [005940] said on the 11th that YG Entertainment [122870] posted first-quarter results in line with consensus, referring to the market’s average forecast. The assessment focused on the fact that YG Entertainment’s quarterly performance did not materially deviate from market expectations. NH Investment & Securities said attention should be paid to momentum in the second half rather than only near-term earnings. As a result, YG Entertainment’s future trend, second-half performance and business developments may be cited as key factors for investment judgment. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "YGエンタメ1四半期業績は市場予想に一致、NH投資「下期モメンタム注目」",
+        "excerpt": "NH投資証券は11日、YGエンターテインメントの第1四半期業績が市場コンセンサスに合致したとし、今後は下半期のモメンタムに注目すべきだと述べた。",
+        "body": "NH投資証券[005940]は11日、YGエンターテインメント[122870]について、第1四半期業績がコンセンサス、すなわち市場平均予想に合致したと評価した。今回の評価は、YGエンターテインメントの四半期業績が市場の期待から大きく外れなかった点に焦点を当てたものだ。NH投資証券は、短期業績だけでなく下半期のモメンタムに注目する必要があるとみている。これにより、市場ではYGエンターテインメントの今後の流れ、下半期業績、事業展開が投資判断の主要な変数として取り上げられる可能性がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "YG娱乐一季度业绩符合共识，NH投资称关注下半年动能",
+        "excerpt": "NH投资证券11日表示，YG娱乐第一季度业绩符合市场共识，今后在投资判断中有必要关注下半年的动能。",
+        "body": "NH投资证券[005940]11日就YG娱乐[122870]表示，其第一季度业绩符合共识，即市场平均预期。此次评价的重点在于，YG娱乐的季度业绩并未明显偏离市场期待。NH投资证券认为，相比只看短期业绩，更有必要关注下半年的动能。因此，市场在判断YG娱乐投资价值时，可能会把其后续走势、下半年业绩以及业务推进情况视为主要变量。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "YG Entertainment cumple consenso en el primer trimestre, NH destaca impulso del segundo semestre",
+        "excerpt": "NH Investment & Securities dijo el día 11 que los resultados del primer trimestre de YG Entertainment estuvieron en línea con el consenso del mercado y pidió observar el impulso del segundo semestre.",
+        "body": "NH Investment & Securities [005940] afirmó el día 11 que YG Entertainment [122870] registró resultados del primer trimestre acordes con el consenso, es decir, con la previsión promedio del mercado. La evaluación se centró en que el desempeño trimestral de YG Entertainment no se apartó de forma significativa de las expectativas del mercado. NH Investment & Securities señaló que conviene prestar atención al impulso del segundo semestre, más allá de los resultados de corto plazo. Por ello, la evolución futura de YG Entertainment, sus resultados del segundo semestre y el desarrollo de sus negocios pueden ser variables clave para las decisiones de inversión. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "YG Entertainment alinha resultados do 1º trimestre ao consenso, NH vê impulso no 2º semestre",
+        "excerpt": "A NH Investment & Securities disse no dia 11 que os resultados do primeiro trimestre da YG Entertainment ficaram em linha com o consenso de mercado e que o impulso do segundo semestre merece atenção.",
+        "body": "A NH Investment & Securities [005940] afirmou no dia 11 que a YG Entertainment [122870] apresentou resultados do primeiro trimestre em linha com o consenso, isto é, com a média das projeções do mercado. A avaliação destacou que o desempenho trimestral da YG Entertainment não se afastou de forma relevante das expectativas do mercado. A NH Investment & Securities disse que é necessário observar o impulso do segundo semestre, além dos resultados de curto prazo. Assim, a trajetória futura da YG Entertainment, seus resultados no segundo semestre e a evolução dos negócios podem ser citados como fatores centrais para decisões de investimento. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "YG Entertainment trifft im ersten Quartal Konsens, NH Investment sieht Dynamik im zweiten Halbjahr",
+        "excerpt": "NH Investment & Securities erklärte am 11., dass die Ergebnisse von YG Entertainment im ersten Quartal den Marktkonsens erfüllten und der Fokus nun auf der Dynamik im zweiten Halbjahr liege.",
+        "body": "NH Investment & Securities [005940] erklärte am 11., dass YG Entertainment [122870] im ersten Quartal Ergebnisse erzielt habe, die dem Konsens, also der durchschnittlichen Markterwartung, entsprachen. Die Einschätzung konzentrierte sich darauf, dass die Quartalsleistung von YG Entertainment nicht wesentlich von den Erwartungen des Marktes abwich. NH Investment & Securities betonte, dass neben den kurzfristigen Ergebnissen die Dynamik im zweiten Halbjahr beachtet werden müsse. Damit könnten die weitere Entwicklung von YG Entertainment, die Ergebnisse im zweiten Halbjahr und die geschäftliche Umsetzung zu wichtigen Faktoren für Anlageentscheidungen werden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "YG Entertainment conforme au consensus au 1er trimestre, NH surveille l’élan du second semestre",
+        "excerpt": "NH Investment & Securities a indiqué le 11 que les résultats du premier trimestre de YG Entertainment étaient conformes au consensus du marché et que l’élan du second semestre devait être suivi.",
+        "body": "NH Investment & Securities [005940] a déclaré le 11 que YG Entertainment [122870] avait publié des résultats du premier trimestre conformes au consensus, c’est-à-dire à la prévision moyenne du marché. Cette évaluation souligne que la performance trimestrielle de YG Entertainment ne s’est pas nettement écartée des attentes du marché. NH Investment & Securities estime qu’il faut prêter attention à l’élan du second semestre, au-delà des seuls résultats de court terme. Ainsi, l’évolution future de YG Entertainment, ses résultats du second semestre et le développement de ses activités pourraient devenir des variables importantes pour les décisions d’investissement. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "نتائج YG Entertainment للربع الأول توافق التوقعات، وNH تركز على زخم النصف الثاني",
+        "excerpt": "قالت NH Investment & Securities في اليوم 11 إن نتائج YG Entertainment للربع الأول جاءت متوافقة مع إجماع السوق، مع ضرورة متابعة زخم النصف الثاني.",
+        "body": "قالت NH Investment & Securities [005940] في اليوم 11 إن YG Entertainment [122870] سجلت نتائج للربع الأول متوافقة مع الإجماع، أي متوسط توقعات السوق. وتركز التقييم على أن الأداء الفصلي للشركة لم يبتعد بشكل كبير عن توقعات السوق. وترى NH Investment & Securities أن الانتباه يجب أن يتجه إلى زخم النصف الثاني، إلى جانب النتائج قصيرة الأجل. وبناء على ذلك، قد تصبح حركة YG Entertainment المقبلة ونتائج النصف الثاني وتطور الأعمال عوامل رئيسية في أحكام الاستثمار. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "YG Entertainment की पहली तिमाही सहमति के अनुरूप, NH ने दूसरी छमाही की गति पर ध्यान दिया",
+        "excerpt": "NH Investment & Securities ने 11 तारीख को कहा कि YG Entertainment की पहली तिमाही के नतीजे बाजार सहमति के अनुरूप रहे और आगे दूसरी छमाही की गति पर नजर जरूरी है।",
+        "body": "NH Investment & Securities [005940] ने 11 तारीख को YG Entertainment [122870] के बारे में कहा कि पहली तिमाही के नतीजे सहमति, यानी बाजार के औसत अनुमान, के अनुरूप रहे। यह आकलन इस बात पर केंद्रित था कि YG Entertainment का तिमाही प्रदर्शन बाजार उम्मीदों से 크게 अलग नहीं रहा। NH Investment & Securities ने कहा कि अल्पकालिक नतीजों के साथ-साथ दूसरी छमाही की गति पर ध्यान देने की जरूरत है। इसलिए बाजार में YG Entertainment की आगे की दिशा, दूसरी छमाही के नतीजे और कारोबार की प्रगति निवेश निर्णय के प्रमुख कारक माने जा सकते हैं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Laba Kuartal I YG Entertainment Sesuai Konsensus, NH Soroti Momentum Semester II",
+        "excerpt": "NH Investment & Securities pada tanggal 11 menyatakan kinerja kuartal pertama YG Entertainment sesuai konsensus pasar dan perhatian perlu diarahkan pada momentum semester kedua.",
+        "body": "NH Investment & Securities [005940] pada tanggal 11 menilai YG Entertainment [122870] mencatat kinerja kuartal pertama yang sesuai dengan konsensus, yakni rata-rata perkiraan pasar. Penilaian ini berfokus pada fakta bahwa hasil kuartalan YG Entertainment tidak menyimpang besar dari ekspektasi pasar. NH Investment & Securities menyebut perhatian perlu diberikan pada momentum semester kedua, bukan hanya pada kinerja jangka pendek. Karena itu, arah YG Entertainment ke depan, hasil semester kedua, dan perkembangan bisnisnya dapat menjadi variabel utama dalam pertimbangan investasi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "bdca8bbc5c0e",
+    "slug": "kb證-호실적-한국콜마-성장성-대비-주가-저평가목표가-540769",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T23:36:28.092Z",
+    "updatedAt": "2026-05-10T23:36:28.092Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511019800008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511019800008",
+    "titleFingerprint": "8050aaff699d00c5e4e5e69336c786a2b93a68de",
+    "dedupKeys": [
+      "bdca8bbc5c0eb7d8dc615dd278178c8866af9bc4",
+      "8050aaff699d00c5e4e5e69336c786a2b93a68de",
+      "1b2a2be6d440c1a76825e90691413b46645bdfd2"
+    ],
+    "imageUrl": "/images/articles/bdca8bbc5c0e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국콜마 호실적에 KB증권 목표가 상향…성장성 대비 저평가 주목",
+        "excerpt": "KB증권은 11일 1분기 기대치를 웃돈 한국콜마 실적을 근거로 성장성 대비 주가가 저렴하다고 평가하며 목표주가를 상향했다.",
+        "body": "KB증권은 11일 한국콜마가 1분기 시장 기대치를 웃도는 실적을 기록했다며 목표주가를 상향했다. 서울=연합뉴스 이민영 기자 보도에 따르면 KB증권은 한국콜마에 대해 \"성장성 대비 주가가 저렴하다\"고 평가했다. 이번 판단의 핵심은 1분기 호실적이다. 기대치를 넘어선 실적이 확인되면서 회사의 성장성에 비해 현재 주가가 낮게 평가돼 있다는 분석이 제시됐다. 목표가 상향은 실적 개선 흐름과 밸류에이션 매력을 함께 반영한 조치로 풀이된다. 다만 기사에서 구체적인 목표주가 수치나 추가 전망치는 제시되지 않았다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Kolmar Korea Shares Seen Undervalued as KB Securities Raises Target",
+        "excerpt": "KB Securities said on the 11th that Kolmar Korea’s first-quarter results beat expectations and raised its target price, citing a cheap valuation versus growth.",
+        "body": "KB Securities raised its target price for Kolmar Korea on the 11th, saying the company posted first-quarter earnings that exceeded market expectations. According to a report by Lee Min-young of Yonhap News Agency in Seoul, KB Securities assessed that Kolmar Korea’s share price is \"cheap relative to its growth potential.\" The key basis for the view was the strong first-quarter performance. With results coming in above expectations, the brokerage said the current stock price appears undervalued compared with the company’s growth profile. The target-price increase is understood as reflecting both improved earnings momentum and valuation appeal. The report did not provide a specific target-price figure or additional forecasts. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "韓国コルマー好決算でKB証券が目標株価上げ、成長性比で割安",
+        "excerpt": "KB証券は11日、1四半期決算が期待を上回った韓国コルマーについて、成長性に比べ株価が割安だとして目標株価を引き上げた。",
+        "body": "KB証券は11日、韓国コルマーが第1四半期に市場期待を上回る業績を記録したとして、目標株価を引き上げた。ソウル発の聯合ニュース、イ・ミニョン記者の報道によると、KB証券は韓国コルマーについて「成長性に比べ株価が安い」と評価した。今回の判断の中心にあるのは第1四半期の好業績だ。期待を上回る実績が確認されたことで、同社の成長性に対して現在の株価は低く評価されているとの分析が示された。目標株価の引き上げは、業績改善の流れとバリュエーション面の魅力をあわせて反映したものとみられる。ただし記事では具体的な目標株価や追加見通しは示されていない。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国科玛一季度业绩亮眼，KB证券上调目标价并称估值偏低",
+        "excerpt": "KB证券11日表示，韩国科玛一季度业绩超出预期，考虑到其成长性，当前股价仍显便宜，因此上调目标价。",
+        "body": "KB证券11日上调韩国科玛目标价，理由是该公司第一季度业绩超过市场预期。据韩联社首尔记者李敏英报道，KB证券评价韩国科玛称，其股价“相对于成长性较为便宜”。此次判断的核心依据是一季度的良好业绩。随着高于预期的业绩得到确认，券商认为，与公司的成长性相比，当前股价处于偏低评价水平。目标价上调可理解为同时反映了业绩改善趋势和估值吸引力。不过，报道未披露具体目标价数值或更多后续展望。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "KB Securities eleva precio objetivo de Kolmar Korea por sólidos resultados",
+        "excerpt": "KB Securities dijo el día 11 que Kolmar Korea superó expectativas en el primer trimestre y elevó su precio objetivo al verla barata frente a su crecimiento.",
+        "body": "KB Securities elevó el día 11 su precio objetivo para Kolmar Korea, después de que la compañía registrara resultados del primer trimestre por encima de las expectativas del mercado. Según informó Lee Min-young de Yonhap News Agency desde Seúl, KB Securities consideró que la acción de Kolmar Korea está \"barata en comparación con su potencial de crecimiento\". La base principal de la evaluación fue el sólido desempeño trimestral. Tras confirmarse cifras mejores de lo previsto, la firma señaló que el precio actual de la acción parece bajo frente al perfil de crecimiento de la empresa. El alza del precio objetivo refleja tanto la mejora de resultados como el atractivo de valoración. La nota no incluyó una cifra concreta del objetivo ni previsiones adicionales. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "KB Securities eleva preço-alvo da Kolmar Korea após resultados fortes",
+        "excerpt": "A KB Securities disse no dia 11 que a Kolmar Korea superou expectativas no 1º trimestre e elevou o preço-alvo, citando valuation barato ante o crescimento.",
+        "body": "A KB Securities elevou no dia 11 o preço-alvo da Kolmar Korea, afirmando que a empresa apresentou resultados do primeiro trimestre acima das expectativas do mercado. Segundo reportagem de Lee Min-young, da Yonhap News Agency em Seul, a KB Securities avaliou que a ação da Kolmar Korea está \"barata em relação ao seu potencial de crescimento\". O ponto central da análise foi o desempenho forte no trimestre. Com a confirmação de resultados melhores que o esperado, a corretora indicou que o preço atual da ação parece subavaliado diante do perfil de crescimento da companhia. A alta do preço-alvo reflete a melhora dos lucros e o apelo de valuation. A reportagem não informou um valor específico para o preço-alvo nem projeções adicionais. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "KB Securities hebt Kursziel für Kolmar Korea nach starken Quartalszahlen an",
+        "excerpt": "KB Securities erklärte am 11., Kolmar Korea habe im ersten Quartal die Erwartungen übertroffen, und erhöhte das Kursziel wegen günstiger Bewertung zum Wachstum.",
+        "body": "KB Securities hat am 11. das Kursziel für Kolmar Korea angehoben, nachdem das Unternehmen im ersten Quartal Ergebnisse über den Markterwartungen erzielt hatte. Laut einem Bericht von Lee Min-young von Yonhap News Agency aus Seoul bewertete KB Securities die Aktie von Kolmar Korea als \"günstig im Verhältnis zum Wachstumspotenzial\". Grundlage der Einschätzung waren die starken Zahlen des ersten Quartals. Da die Ergebnisse über den Erwartungen lagen, sieht die Wertpapierfirma den aktuellen Aktienkurs im Vergleich zum Wachstum des Unternehmens als niedrig bewertet an. Die Anhebung des Kursziels spiegelt sowohl die verbesserte Ergebnisentwicklung als auch die Bewertungsattraktivität wider. Konkrete Kurszielzahlen oder zusätzliche Prognosen nannte der Bericht nicht. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "KB Securities relève l’objectif de Kolmar Korea après de solides résultats",
+        "excerpt": "KB Securities a indiqué le 11 que Kolmar Korea avait dépassé les attentes au 1er trimestre et a relevé son objectif, jugeant le titre bon marché face à sa croissance.",
+        "body": "KB Securities a relevé le 11 son objectif de cours pour Kolmar Korea, après des résultats du premier trimestre supérieurs aux attentes du marché. Selon un article de Lee Min-young de Yonhap News Agency à Séoul, KB Securities estime que l’action Kolmar Korea est \"bon marché par rapport à son potentiel de croissance\". Le principal élément de cette analyse est la bonne performance trimestrielle. Avec des résultats confirmés au-dessus des attentes, la société de courtage considère que le cours actuel est sous-évalué au regard du profil de croissance de l’entreprise. Le relèvement de l’objectif reflète à la fois l’amélioration des résultats et l’attrait de la valorisation. L’article ne mentionne pas de niveau précis d’objectif ni de prévisions supplémentaires. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كيه بي سيكيوريتيز ترفع السعر المستهدف لكولمار كوريا بعد نتائج قوية",
+        "excerpt": "قالت كيه بي سيكيوريتيز في 11 إن نتائج كولمار كوريا للربع الأول فاقت التوقعات، ورفعت السعر المستهدف معتبرة السهم رخيصا قياسا بالنمو.",
+        "body": "رفعت كيه بي سيكيوريتيز في 11 السعر المستهدف لسهم كولمار كوريا، بعدما سجلت الشركة نتائج في الربع الأول تجاوزت توقعات السوق. وبحسب تقرير لي مين يونغ من وكالة يونهاب للأنباء في سيول، قيّمت كيه بي سيكيوريتيز سهم كولمار كوريا بأنه \"رخيص مقارنة بإمكانات النمو\". وكان أساس هذا التقييم هو الأداء القوي في الربع الأول. ومع تأكد النتائج التي جاءت أعلى من المتوقع، رأت شركة الوساطة أن السعر الحالي للسهم يبدو منخفض التقييم مقارنة بمسار نمو الشركة. وتعكس زيادة السعر المستهدف تحسن الأرباح وجاذبية التقييم في الوقت نفسه. ولم يورد التقرير رقما محددا للسعر المستهدف أو توقعات إضافية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "मजबूत नतीजों पर KB Securities ने Kolmar Korea का लक्ष्य मूल्य बढ़ाया",
+        "excerpt": "KB Securities ने 11 तारीख को कहा कि Kolmar Korea के पहली तिमाही नतीजे उम्मीद से बेहतर रहे और वृद्धि क्षमता के मुकाबले शेयर सस्ता दिखता है।",
+        "body": "KB Securities ने 11 तारीख को Kolmar Korea के लिए लक्ष्य मूल्य बढ़ाया, क्योंकि कंपनी ने पहली तिमाही में बाजार उम्मीदों से बेहतर प्रदर्शन दर्ज किया। सियोल से Yonhap News Agency की ली मिन-यंग की रिपोर्ट के अनुसार, KB Securities ने Kolmar Korea के शेयर को \"वृद्धि क्षमता की तुलना में सस्ता\" बताया। इस आकलन का मुख्य आधार पहली तिमाही का मजबूत प्रदर्शन रहा। उम्मीद से बेहतर नतीजों की पुष्टि के बाद ब्रोकरेज ने कहा कि कंपनी की वृद्धि क्षमता की तुलना में मौजूदा शेयर मूल्य कम आंका गया प्रतीत होता है। लक्ष्य मूल्य में बढ़ोतरी को आय सुधार की दिशा और मूल्यांकन आकर्षण, दोनों को दर्शाने वाला कदम माना जा सकता है। रिपोर्ट में लक्ष्य मूल्य का कोई विशिष्ट आंकड़ा या अतिरिक्त अनुमान नहीं दिया गया। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "KB Securities Naikkan Target Kolmar Korea Usai Kinerja Kuartal I Kuat",
+        "excerpt": "KB Securities pada tanggal 11 menyebut kinerja kuartal I Kolmar Korea melampaui ekspektasi dan menaikkan target harga karena saham dinilai murah terhadap pertumbuhan.",
+        "body": "KB Securities pada tanggal 11 menaikkan target harga untuk Kolmar Korea setelah perusahaan mencatat kinerja kuartal pertama yang melampaui ekspektasi pasar. Menurut laporan Lee Min-young dari Yonhap News Agency di Seoul, KB Securities menilai harga saham Kolmar Korea \"murah dibandingkan potensi pertumbuhannya\". Dasar utama penilaian tersebut adalah hasil kuat pada kuartal pertama. Setelah kinerja yang lebih baik dari perkiraan terkonfirmasi, sekuritas itu menyatakan harga saham saat ini tampak dinilai rendah dibandingkan profil pertumbuhan perusahaan. Kenaikan target harga dipahami mencerminkan perbaikan kinerja dan daya tarik valuasi. Laporan tersebut tidak menyebutkan angka target harga tertentu atau proyeksi tambahan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "2bdf11ee5bc0",
     "slug": "부산소식-제7회-부산과학기술혁신상-수상-기업-선정-251134",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Pembangunan depan Jongmyo disorot, Kepala Warisan tekankan kajian dampak",
         "excerpt": "Huh Min, Kepala Badan Warisan Nasional Korea Selatan, mengatakan proyek pembangunan ulang di depan Jongmyo, Seoul, memerlukan Kajian Dampak Warisan Dunia dan memperingatkan langkah tambahan jika dilanjutkan tanpa penilaian.",
         "body": "Huh Min, Kepala Badan Warisan Nasional Korea Selatan, menyatakan bahwa proyek pembangunan ulang di depan Jongmyo, Seoul, situs Warisan Dunia UNESCO, memerlukan Kajian Dampak Warisan Dunia (HIA) untuk mempertimbangkan nilai pelestarian dan lanskap sekitarnya. Isu ini menarik perhatian karena menyangkut perlunya pemeriksaan awal atas dampak pembangunan di sekitar Jongmyo terhadap situs warisan dunia. Huh mengatakan langkah tambahan dapat diambil jika proyek dipaksakan tanpa kajian dampak. Jongmyo adalah salah satu situs Warisan Dunia UNESCO utama di Seoul, sehingga keseimbangan antara perlindungan warisan budaya dan penataan kota menjadi pokok persoalan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "53d1965fb0d0",
-    "slug": "뉴발란스-여의도-한강공원에-러닝-체험-공간대여-서비스-제공-844537",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T15:57:51.339Z",
-    "updatedAt": "2026-05-10T15:57:51.339Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510015400030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510015400030",
-    "titleFingerprint": "dc91a22e36d419062ff1395c7392a9c11821bad0",
-    "dedupKeys": [
-      "53d1965fb0d0bebea9188ce6a087be346a33f760",
-      "dc91a22e36d419062ff1395c7392a9c11821bad0",
-      "49bb551d87c7cd25ae719a554c9055053b83616b"
-    ],
-    "imageUrl": "/images/articles/53d1965fb0d0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "뉴발란스, 여의도 한강공원 이크루즈 선착장에 러닝 체험 공간 열고 대여 서비스 제공",
-        "excerpt": "이랜드월드가 전개하는 뉴발란스는 서울 여의도 한강공원 이크루즈 선착장에 러닝 체험 공간을 마련하고 방문객 대상 대여 서비스를 제공한다.",
-        "body": "이랜드월드가 전개하는 스포츠 브랜드 뉴발란스는 서울 여의도 한강공원 이크루즈 선착장에 러닝 체험 공간을 마련하고 대여 서비스를 제공한다고 연합뉴스가 보도했다. 이번 공간은 한강공원을 찾는 방문객이 러닝을 체험할 수 있도록 조성된 장소로, 브랜드가 운영하는 현장형 체험 서비스라는 점이 특징이다. 여의도 한강공원은 도심 속 러닝 수요가 꾸준한 지역으로, 선착장 인근 접근성을 활용해 이용자 접점을 넓히는 효과가 예상된다. 뉴발란스는 해당 공간을 통해 러닝 경험과 브랜드 체험을 함께 제공한다. 출처: yna.co.kr."
-      },
-      "en": {
-        "title": "New Balance Opens Running Experience Space at Yeouido Hangang Park With Rental Service",
-        "excerpt": "New Balance, operated by E-Land World, has set up a running experience space at the E Cruise dock in Seoul’s Yeouido Hangang Park and will offer rentals to visitors.",
-        "body": "New Balance, the sports brand operated by E-Land World, has opened a running experience space at the E Cruise dock in Seoul’s Yeouido Hangang Park and will provide a rental service, Yonhap News Agency reported. The space is designed for visitors to the Hangang Park area to experience running and is notable as an on-site brand experience service. Yeouido Hangang Park is a downtown area with steady running demand, and the dock location may help the brand expand contact with users through accessible park traffic. Through the space, New Balance is offering both a running experience and brand engagement. Source: yna.co.kr."
-      },
-      "ja": {
-        "title": "ニューバランス、汝矣島漢江公園のEクルーズ船着場にランニング体験空間を開設",
-        "excerpt": "イーランドワールドが展開するニューバランスは、ソウル汝矣島漢江公園のEクルーズ船着場にランニング体験空間を設け、来訪者向けにレンタルサービスを提供する。",
-        "body": "イーランドワールドが展開するスポーツブランドのニューバランスは、ソウル汝矣島漢江公園のEクルーズ船着場にランニング体験空間を設け、レンタルサービスを提供すると聯合ニュースが報じた。この空間は、漢江公園を訪れる人がランニングを体験できるように造成された場所で、ブランドが運営する現場型体験サービスである点が特徴だ。汝矣島漢江公園は都心でランニング需要が続く地域であり、船着場周辺のアクセスを生かして利用者との接点を広げる効果が見込まれる。ニューバランスはこの空間を通じて、ランニング体験とブランド体験をあわせて提供する。出典: yna.co.kr."
-      },
-      "zh": {
-        "title": "New Balance在汝矣岛汉江公园E Cruise码头开设跑步体验空间并提供租借服务",
-        "excerpt": "由衣恋世界运营的New Balance在首尔汝矣岛汉江公园E Cruise码头设立跑步体验空间，并面向到访者提供租借服务。",
-        "body": "韩联社报道称，由衣恋世界运营的运动品牌New Balance在首尔汝矣岛汉江公园E Cruise码头设立跑步体验空间，并提供租借服务。该空间面向到访汉江公园的游客，让他们能够体验跑步，是品牌运营的现场型体验服务。汝矣岛汉江公园位于市中心，跑步需求稳定，借助码头周边的便利位置，品牌有望扩大与使用者的接触点。New Balance将通过这一空间同时提供跑步体验和品牌体验。来源: yna.co.kr."
-      },
-      "es": {
-        "title": "New Balance abre un espacio de running en Yeouido Hangang Park con servicio de alquiler",
-        "excerpt": "New Balance, marca gestionada por E-Land World, instaló un espacio de experiencia de running en el muelle E Cruise del parque Yeouido Hangang de Seúl y ofrecerá alquileres a visitantes.",
-        "body": "New Balance, la marca deportiva gestionada por E-Land World, instaló un espacio de experiencia de running en el muelle E Cruise del parque Yeouido Hangang de Seúl y ofrecerá un servicio de alquiler, informó la agencia Yonhap. El espacio fue creado para que los visitantes del parque puedan probar la actividad de correr, y destaca como un servicio de experiencia presencial operado por la marca. Yeouido Hangang Park es una zona urbana con demanda constante de running, y la ubicación junto al muelle permite ampliar los puntos de contacto con los usuarios. New Balance ofrecerá allí tanto experiencia de running como interacción con la marca. Fuente: yna.co.kr."
-      },
-      "pt": {
-        "title": "New Balance abre espaço de corrida no Yeouido Hangang Park com serviço de aluguel",
-        "excerpt": "A New Balance, operada pela E-Land World, instalou um espaço de experiência de corrida no píer E Cruise do Yeouido Hangang Park, em Seul, e oferecerá aluguel a visitantes.",
-        "body": "A New Balance, marca esportiva operada pela E-Land World, instalou um espaço de experiência de corrida no píer E Cruise do Yeouido Hangang Park, em Seul, e oferecerá um serviço de aluguel, informou a agência Yonhap. O espaço foi criado para que visitantes do parque possam experimentar a corrida, destacando-se como um serviço presencial de experiência de marca. O Yeouido Hangang Park é uma área urbana com demanda constante por corrida, e a localização próxima ao píer pode ampliar os pontos de contato com os usuários. Por meio do espaço, a New Balance oferecerá experiência de corrida e contato com a marca. Fonte: yna.co.kr."
-      },
-      "de": {
-        "title": "New Balance eröffnet Lauf-Erlebnisfläche im Yeouido Hangang Park mit Verleihservice",
-        "excerpt": "New Balance, betrieben von E-Land World, richtet am E-Cruise-Anleger im Yeouido Hangang Park in Seoul eine Lauf-Erlebnisfläche ein und bietet Besuchern einen Verleihservice.",
-        "body": "New Balance, die von E-Land World betriebene Sportmarke, hat am E-Cruise-Anleger im Yeouido Hangang Park in Seoul eine Lauf-Erlebnisfläche eingerichtet und bietet dort einen Verleihservice an, berichtete die Nachrichtenagentur Yonhap. Die Fläche wurde geschaffen, damit Besucher des Hangang-Parks Laufen vor Ort erleben können, und ist als standortbezogener Markenservice angelegt. Der Yeouido Hangang Park ist ein innerstädtisches Gebiet mit stetiger Laufnachfrage; die Lage am Anleger kann den Kontakt zu Nutzern erweitern. New Balance verbindet dort Lauferlebnis und Markenerfahrung. Quelle: yna.co.kr."
-      },
-      "fr": {
-        "title": "New Balance ouvre un espace running au Yeouido Hangang Park avec service de location",
-        "excerpt": "New Balance, marque exploitée par E-Land World, a installé un espace d’expérience running au quai E Cruise du parc Yeouido Hangang à Séoul et proposera un service de location aux visiteurs.",
-        "body": "New Balance, la marque de sport exploitée par E-Land World, a installé un espace d’expérience running au quai E Cruise du parc Yeouido Hangang à Séoul et proposera un service de location, a rapporté l’agence Yonhap. Cet espace a été conçu pour permettre aux visiteurs du parc de faire l’expérience de la course, avec un service de marque déployé directement sur site. Le parc Yeouido Hangang se situe en centre-ville et connaît une demande régulière pour le running; l’emplacement près du quai peut élargir les points de contact avec les utilisateurs. New Balance y proposera à la fois une expérience de course et une expérience de marque. Source: yna.co.kr."
-      },
-      "ar": {
-        "title": "نيو بالانس تفتح مساحة لتجربة الجري في حديقة يويدو هانغانغ مع خدمة تأجير",
-        "excerpt": "أنشأت نيو بالانس، التي تديرها إي لاند وورلد، مساحة لتجربة الجري عند رصيف E Cruise في حديقة يويدو هانغانغ بسيول، وستوفر خدمة تأجير للزوار.",
-        "body": "ذكرت وكالة يونهاب أن علامة نيو بالانس الرياضية، التي تديرها إي لاند وورلد، أنشأت مساحة لتجربة الجري عند رصيف E Cruise في حديقة يويدو هانغانغ في سيول، وستوفر خدمة تأجير. صُممت هذه المساحة لتمكين زوار حديقة هانغانغ من تجربة الجري، وهي تبرز كخدمة تجربة ميدانية تديرها العلامة. وتعد حديقة يويدو هانغانغ منطقة حضرية تشهد طلبا مستمرا على الجري، كما يمكن لموقعها قرب الرصيف أن يوسع نقاط التواصل مع المستخدمين. ومن خلال هذه المساحة، تقدم نيو بالانس تجربة الجري وتجربة العلامة معا. المصدر: yna.co.kr."
-      },
-      "hi": {
-        "title": "न्यू बैलेंस ने येउइदो हानगांग पार्क में रनिंग अनुभव स्थल खोला, किराये की सेवा भी",
-        "excerpt": "ई-लैंड वर्ल्ड द्वारा संचालित न्यू बैलेंस ने सियोल के येउइदो हानगांग पार्क के E Cruise घाट पर रनिंग अनुभव स्थल बनाया है और आगंतुकों को किराये की सेवा देगा।",
-        "body": "योनहाप समाचार एजेंसी के अनुसार, ई-लैंड वर्ल्ड द्वारा संचालित स्पोर्ट्स ब्रांड न्यू बैलेंस ने सियोल के येउइदो हानगांग पार्क के E Cruise घाट पर रनिंग अनुभव स्थल बनाया है और किराये की सेवा प्रदान करेगा। यह स्थान हानगांग पार्क आने वाले लोगों को रनिंग का अनुभव कराने के लिए तैयार किया गया है और इसे ब्रांड की现场 अनुभव सेवा के रूप में देखा जा रहा है। येउइदो हानगांग पार्क शहर के भीतर ऐसा क्षेत्र है जहां रनिंग की मांग लगातार रहती है, और घाट के पास की पहुंच उपयोगकर्ताओं से संपर्क बढ़ाने में मदद कर सकती है। न्यू बैलेंस इस स्थान के जरिए रनिंग अनुभव और ब्रांड अनुभव दोनों उपलब्ध कराएगा। स्रोत: yna.co.kr."
-      },
-      "id": {
-        "title": "New Balance Buka Ruang Pengalaman Lari di Yeouido Hangang Park dengan Layanan Sewa",
-        "excerpt": "New Balance yang dijalankan E-Land World membuka ruang pengalaman lari di dermaga E Cruise, Yeouido Hangang Park, Seoul, dan menyediakan layanan sewa bagi pengunjung.",
-        "body": "New Balance, merek olahraga yang dijalankan E-Land World, membuka ruang pengalaman lari di dermaga E Cruise, Yeouido Hangang Park, Seoul, dan akan menyediakan layanan sewa, menurut laporan Yonhap. Ruang ini dibuat agar pengunjung Hangang Park dapat mencoba pengalaman berlari, sekaligus menjadi layanan pengalaman langsung yang dioperasikan oleh merek tersebut. Yeouido Hangang Park merupakan kawasan pusat kota dengan permintaan lari yang stabil, dan lokasi dekat dermaga dapat memperluas titik temu dengan pengguna. Melalui ruang ini, New Balance menawarkan pengalaman lari sekaligus pengalaman merek. Sumber: yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "ced75c5b92dd",
-    "slug": "현대硏-환율-10-오르면-물가-최대-05p취약층-부담확대-586682",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T15:56:50.892Z",
-    "updatedAt": "2026-05-10T15:56:50.892Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509039000002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509039000002",
-    "titleFingerprint": "5b7d61b13ede7f73ab8275a2cc76e268a21e6171",
-    "dedupKeys": [
-      "ced75c5b92dd52e53c88b6a39dc9247f47beefe9",
-      "5b7d61b13ede7f73ab8275a2cc76e268a21e6171",
-      "1604886eb5014dd9c4ff11ceeebe9358e165c3fd"
-    ],
-    "imageUrl": "/images/articles/ced75c5b92dd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "환율 10% 상승 시 소비자물가 최대 0.5%p↑, 취약층 부담 커진다",
-        "excerpt": "현대경제연구원은 10일 원/달러 환율이 10% 오르면 소비자물가가 약 0.3~0.5%포인트 상승할 수 있어 취약계층 부담이 확대된다고 분석했다.",
-        "body": "현대경제연구원은 10일 원/달러 환율이 10% 상승할 경우 소비자물가가 약 0.3~0.5%포인트 오를 수 있다고 분석했다. 환율 상승은 수입 물가와 생활비 부담을 통해 물가 전반에 영향을 줄 수 있다는 설명이다. 연구원은 이 같은 물가 상승 압력이 취약계층의 부담을 확대할 수 있다고 봤다. 특히 소득 여력이 낮은 계층은 같은 물가 상승에도 체감 부담이 더 커질 수 있어 환율 변동에 따른 물가 영향을 주의 깊게 살펴야 한다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Won-Dollar Rate Rise of 10% May Lift CPI by Up to 0.5pp, HRI Says",
-        "excerpt": "Hyundai Research Institute said on the 10th that a 10% rise in the won-dollar exchange rate could raise consumer prices by about 0.3 to 0.5 percentage point.",
-        "body": "Hyundai Research Institute said on the 10th that if the won-dollar exchange rate rises by 10%, consumer prices could increase by about 0.3 to 0.5 percentage point. The analysis indicates that a weaker won may affect overall prices through import costs and living expenses. The institute said such inflationary pressure could increase the burden on vulnerable groups. Households with limited income may feel a larger impact from the same price increase, making it important to monitor how exchange-rate movements feed into consumer prices. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "ウォン安10％で消費者物価最大0.5ポイント上昇も、現代経済研究院",
-        "excerpt": "現代経済研究院は10日、ウォン・ドル相場が10％上昇すれば消費者物価が約0.3～0.5ポイント上がり、脆弱層の負担が拡大すると分析した。",
-        "body": "現代経済研究院は10日、ウォン・ドル相場が10％上昇した場合、消費者物価が約0.3～0.5ポイント上がる可能性があると分析した。為替の上昇は輸入物価や生活費負担を通じて、物価全般に影響を与え得るという説明だ。同研究院は、こうした物価上昇圧力が脆弱層の負担を広げる可能性があるとみている。特に所得余力の低い層は同じ物価上昇でも体感負担がより大きくなり得るため、為替変動に伴う物価影響を注意深く見る必要がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩元兑美元汇率升10%或推高CPI最多0.5个百分点，弱势群体承压",
-        "excerpt": "现代经济研究院10日分析称，韩元兑美元汇率若上升10%，消费者物价可能上涨约0.3至0.5个百分点，弱势群体负担将扩大。",
-        "body": "现代经济研究院10日分析称，如果韩元兑美元汇率上升10%，消费者物价可能上涨约0.3至0.5个百分点。该研究院表示，汇率上升可能通过进口价格和生活成本负担影响整体物价。研究院认为，这类物价上涨压力可能扩大弱势群体的负担。尤其是收入余力较低的群体，即使面对相同幅度的物价上涨，实际感受到的压力也可能更大，因此需要密切关注汇率波动对物价的影响。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Alza del 10% en el won-dólar elevaría el IPC hasta 0,5 pp, según HRI",
-        "excerpt": "El Hyundai Research Institute dijo el día 10 que una subida del 10% del tipo won-dólar podría elevar los precios al consumidor entre 0,3 y 0,5 puntos porcentuales.",
-        "body": "El Hyundai Research Institute afirmó el día 10 que, si el tipo de cambio won-dólar sube un 10%, los precios al consumidor podrían aumentar entre 0,3 y 0,5 puntos porcentuales. El análisis señala que el alza cambiaria puede influir en los precios generales a través de los precios de importación y el costo de vida. El instituto consideró que esta presión inflacionaria podría ampliar la carga sobre los grupos vulnerables. En particular, los hogares con menor margen de ingresos pueden sentir más el mismo aumento de precios, por lo que conviene observar el impacto del tipo de cambio en la inflación. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Alta de 10% no won-dólar pode elevar IPC em até 0,5 pp, diz instituto",
-        "excerpt": "O Hyundai Research Institute afirmou no dia 10 que uma alta de 10% na taxa won-dólar pode elevar os preços ao consumidor em cerca de 0,3 a 0,5 ponto percentual.",
-        "body": "O Hyundai Research Institute afirmou no dia 10 que, se a taxa de câmbio won-dólar subir 10%, os preços ao consumidor podem avançar cerca de 0,3 a 0,5 ponto percentual. A análise indica que a alta cambial pode afetar os preços em geral por meio dos custos de importação e das despesas de vida. O instituto avaliou que essa pressão inflacionária pode ampliar o peso sobre grupos vulneráveis. Famílias com menor folga de renda podem sentir mais intensamente o mesmo aumento de preços, o que torna necessário acompanhar o efeito das oscilações cambiais sobre a inflação. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "10% höherer Won-Dollar-Kurs könnte Verbraucherpreise bis 0,5 Prozentpunkte treiben",
-        "excerpt": "Das Hyundai Research Institute erklärte am 10., ein Anstieg des Won-Dollar-Wechselkurses um 10% könne die Verbraucherpreise um etwa 0,3 bis 0,5 Prozentpunkte erhöhen.",
-        "body": "Das Hyundai Research Institute erklärte am 10., dass ein Anstieg des Won-Dollar-Wechselkurses um 10% die Verbraucherpreise um etwa 0,3 bis 0,5 Prozentpunkte erhöhen könnte. Der Wechselkursanstieg könne über Importpreise und Lebenshaltungskosten auf das allgemeine Preisniveau wirken. Das Institut geht davon aus, dass dieser Inflationsdruck die Belastung vulnerabler Gruppen vergrößern kann. Besonders Haushalte mit geringem Einkommensspielraum könnten denselben Preisanstieg stärker spüren, weshalb die Auswirkungen von Wechselkursschwankungen auf die Verbraucherpreise aufmerksam verfolgt werden sollten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Une hausse de 10% du won-dollar pourrait ajouter jusqu’à 0,5 point à l’IPC",
-        "excerpt": "Le Hyundai Research Institute a indiqué le 10 qu’une hausse de 10% du taux won-dollar pourrait faire augmenter les prix à la consommation d’environ 0,3 à 0,5 point.",
-        "body": "Le Hyundai Research Institute a indiqué le 10 que si le taux de change won-dollar augmentait de 10%, les prix à la consommation pourraient progresser d’environ 0,3 à 0,5 point de pourcentage. Selon l’analyse, la hausse du change peut peser sur l’ensemble des prix via les prix à l’importation et le coût de la vie. L’institut estime que cette pression inflationniste pourrait accroître la charge supportée par les groupes vulnérables. Les ménages ayant une marge de revenu limitée peuvent ressentir plus fortement une même hausse des prix, d’où l’importance de suivre l’effet des variations de change sur l’inflation. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "ارتفاع الوون مقابل الدولار 10% قد يرفع التضخم حتى 0.5 نقطة مئوية",
-        "excerpt": "قال معهد هيونداي للأبحاث الاقتصادية في العاشر إن ارتفاع سعر صرف الوون مقابل الدولار 10% قد يزيد أسعار المستهلكين بنحو 0.3 إلى 0.5 نقطة مئوية.",
-        "body": "قال معهد هيونداي للأبحاث الاقتصادية في العاشر إن ارتفاع سعر صرف الوون مقابل الدولار بنسبة 10% قد يرفع أسعار المستهلكين بنحو 0.3 إلى 0.5 نقطة مئوية. ويوضح التحليل أن ارتفاع سعر الصرف يمكن أن يؤثر في مستوى الأسعار عموما عبر أسعار الواردات وتكاليف المعيشة. ورأى المعهد أن هذه الضغوط السعرية قد توسع العبء على الفئات الهشة. فالأسر ذات القدرة الدخلية المحدودة قد تشعر بعبء أكبر حتى مع الزيادة نفسها في الأسعار، ما يستدعي متابعة أثر تقلبات الصرف على أسعار المستهلكين. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "वॉन-डॉलर दर 10% बढ़ी तो CPI अधिकतम 0.5 प्रतिशत अंक चढ़ सकता है",
-        "excerpt": "ह्युंडई रिसर्च इंस्टीट्यूट ने 10 तारीख को कहा कि वॉन-डॉलर विनिमय दर 10% बढ़ने पर उपभोक्ता कीमतें लगभग 0.3 से 0.5 प्रतिशत अंक तक बढ़ सकती हैं।",
-        "body": "ह्युंडई रिसर्च इंस्टीट्यूट ने 10 तारीख को विश्लेषण किया कि वॉन-डॉलर विनिमय दर 10% बढ़ने पर उपभोक्ता कीमतें लगभग 0.3 से 0.5 प्रतिशत अंक तक बढ़ सकती हैं। संस्थान के अनुसार, विनिमय दर में वृद्धि आयात कीमतों और जीवन-यापन लागत के जरिए समग्र कीमतों को प्रभावित कर सकती है। संस्थान ने कहा कि इस तरह का महंगाई दबाव कमजोर वर्गों पर बोझ बढ़ा सकता है। विशेष रूप से कम आय-क्षमता वाले परिवार समान मूल्य वृद्धि का भी अधिक असर महसूस कर सकते हैं, इसलिए विनिमय दर में उतार-चढ़ाव का उपभोक्ता कीमतों पर प्रभाव ध्यान से देखना जरूरी है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kurs Won-Dolar Naik 10% Bisa Dorong CPI Hingga 0,5 Poin Persentase",
-        "excerpt": "Hyundai Research Institute pada tanggal 10 menyatakan kurs won-dolar yang naik 10% dapat menaikkan harga konsumen sekitar 0,3 hingga 0,5 poin persentase.",
-        "body": "Hyundai Research Institute pada tanggal 10 menganalisis bahwa jika kurs won-dolar naik 10%, harga konsumen dapat meningkat sekitar 0,3 hingga 0,5 poin persentase. Kenaikan kurs dapat memengaruhi harga secara umum melalui harga impor dan beban biaya hidup. Lembaga itu menilai tekanan kenaikan harga tersebut dapat memperbesar beban kelompok rentan. Terutama kelompok dengan ruang pendapatan rendah bisa merasakan beban yang lebih besar meski kenaikan harga sama, sehingga dampak fluktuasi kurs terhadap harga konsumen perlu dicermati. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b370c8d8bdad",
-    "slug": "김정관-러트닉-대미-투자-프로젝트-논의마스가도-시동-923852",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T15:55:54.535Z",
-    "updatedAt": "2026-05-10T15:55:54.535Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510018800003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510018800003",
-    "titleFingerprint": "259064bf39e0f5a893fc5daa882d1d222838b968",
-    "dedupKeys": [
-      "b370c8d8bdadbcd6bfaa07154686276ead0c8b2f",
-      "259064bf39e0f5a893fc5daa882d1d222838b968",
-      "41b57dbd6d0a8d4d1e23c12f742c8f4f2bc31e2c"
-    ],
-    "imageUrl": "/images/articles/b370c8d8bdad.jpg",
-    "i18n": {
-      "ko": {
-        "title": "김정관-러트닉, 워싱턴서 대미 투자 프로젝트 논의…마스가 본격 시동",
-        "excerpt": "한미 정부가 워싱턴DC에서 고위급 협의를 열고 지난해 무역 합의에 따른 3천500억달러 규모 대미 투자 프로젝트와 ‘마스가’ 추진 방안을 논의했다.",
-        "body": "김정관 측과 러트닉 측은 워싱턴DC에서 한미 고위급 협의를 갖고 지난해 무역 합의에 따른 대미 투자 프로젝트를 논의했다. 핵심 의제는 3천500억달러, 약 523조원 규모로 언급된 투자 이행과 관련 사업 추진 방향이었다. 이번 협의에서는 ‘마스가’도 시동을 걸며 양국 간 후속 절차가 본격화되는 흐름을 보였다. 대규모 투자 프로젝트는 한미 무역 합의 이행의 주요 축으로, 향후 세부 사업 조율과 실행 일정이 관심사로 떠오를 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Kim Jung-kwan and Lutnick Discuss US Investment Projects as MASGA Gets Under Way",
-        "excerpt": "South Korea and the United States held high-level talks in Washington, D.C., to discuss $350 billion in US investment projects tied to last year’s trade agreement and the launch of MASGA.",
-        "body": "Kim Jung-kwan’s side and Lutnick’s side held high-level South Korea-US consultations in Washington, D.C., to discuss investment projects in the United States under last year’s trade agreement. The central agenda was the implementation of investments cited at $350 billion, or about 523 trillion won, and the direction of related projects. The talks also marked the start of MASGA, showing that follow-up procedures between the two governments are moving into a more active phase. The large-scale investment projects are a key part of implementing the bilateral trade agreement, with attention expected to turn to detailed project coordination and execution schedules. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "金正官氏とラトニック氏、対米投資プロジェクト協議…MASGAも始動",
-        "excerpt": "韓米両政府はワシントンDCで高官協議を開き、昨年の貿易合意に基づく3500億ドル規模の対米投資プロジェクトとMASGA推進策を話し合った。",
-        "body": "金正官氏側とラトニック氏側はワシントンDCで韓米高官協議を行い、昨年の貿易合意に基づく対米投資プロジェクトについて協議した。主要議題は3500億ドル、約523兆ウォン規模とされた投資の履行と関連事業の推進方向だった。今回の協議では「MASGA」も始動し、両国間の後続手続きが本格化する流れを示した。大規模投資プロジェクトは韓米貿易合意履行の重要な柱であり、今後は細部事業の調整と実行日程が焦点になる見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "金正官与卢特尼克在华盛顿讨论对美投资项目，MASGA也启动",
-        "excerpt": "韩美两国政府在华盛顿DC举行高级别磋商，讨论去年贸易协议下3500亿美元规模对美投资项目以及推进MASGA的方案。",
-        "body": "金正官方面与卢特尼克方面在华盛顿DC举行韩美高级别磋商，讨论去年贸易协议下的对美投资项目。核心议题是落实规模为3500亿美元、约523万亿韩元的投资，以及相关项目的推进方向。此次磋商还启动了“MASGA”，显示两国后续程序正进入正式推进阶段。大规模投资项目是韩美贸易协议履行的重要支柱，今后具体项目协调和执行时间表预计将成为关注重点。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Kim Jung-kwan y Lutnick negocian inversión en EE. UU.; MASGA empieza a moverse",
-        "excerpt": "Los gobiernos de Corea del Sur y Estados Unidos celebraron consultas de alto nivel en Washington D. C. para tratar proyectos de inversión por 350.000 millones de dólares y el avance de MASGA.",
-        "body": "Las partes de Kim Jung-kwan y Lutnick celebraron consultas de alto nivel entre Corea del Sur y Estados Unidos en Washington D. C. para discutir proyectos de inversión en Estados Unidos derivados del acuerdo comercial del año pasado. El eje fue la ejecución de inversiones citadas en 350.000 millones de dólares, unos 523 billones de wones, y la dirección de los proyectos relacionados. En la reunión también se puso en marcha MASGA, lo que muestra que los procedimientos posteriores entre ambos gobiernos entran en una fase más activa. Estos proyectos de gran escala son un pilar de la aplicación del acuerdo comercial bilateral, y la atención se centrará en la coordinación detallada y el calendario de ejecución. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Kim Jung-kwan e Lutnick discutem investimento nos EUA; MASGA começa a avançar",
-        "excerpt": "Coreia do Sul e Estados Unidos realizaram consultas de alto nível em Washington, D.C., sobre projetos de investimento de US$ 350 bilhões ligados ao acordo comercial do ano passado e ao MASGA.",
-        "body": "As equipes de Kim Jung-kwan e Lutnick realizaram consultas de alto nível entre Coreia do Sul e Estados Unidos em Washington, D.C., para discutir projetos de investimento nos EUA previstos no acordo comercial do ano passado. O tema central foi a execução de investimentos citados em US$ 350 bilhões, cerca de 523 trilhões de wones, e a direção dos projetos relacionados. A reunião também marcou o início do MASGA, indicando que os procedimentos de acompanhamento entre os dois governos estão ganhando tração. Os projetos de grande escala são um eixo da implementação do acordo comercial bilateral, com foco futuro na coordenação detalhada e nos cronogramas de execução. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Kim Jung-kwan und Lutnick beraten US-Investitionen; MASGA startet ebenfalls",
-        "excerpt": "Südkorea und die USA hielten in Washington, D.C., hochrangige Gespräche über US-Investitionsprojekte im Umfang von 350 Milliarden Dollar aus dem Handelsabkommen des Vorjahres und MASGA.",
-        "body": "Die Seiten von Kim Jung-kwan und Lutnick führten in Washington, D.C., hochrangige Konsultationen zwischen Südkorea und den USA über Investitionsprojekte in den Vereinigten Staaten im Rahmen des Handelsabkommens vom vergangenen Jahr. Im Mittelpunkt standen die Umsetzung von Investitionen in Höhe von 350 Milliarden Dollar, etwa 523 Billionen Won, sowie die Ausrichtung der damit verbundenen Projekte. Bei den Gesprächen wurde auch MASGA angestoßen, was zeigt, dass die Folgeschritte zwischen beiden Regierungen konkreter werden. Die Großinvestitionen sind ein wichtiger Bestandteil der Umsetzung des bilateralen Handelsabkommens; künftig dürften Detailabstimmungen und Zeitpläne im Fokus stehen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Kim Jung-kwan et Lutnick discutent des investissements aux États-Unis; MASGA démarre",
-        "excerpt": "La Corée du Sud et les États-Unis ont tenu à Washington des consultations de haut niveau sur 350 milliards de dollars d’investissements liés à l’accord commercial de l’an dernier et sur MASGA.",
-        "body": "Les équipes de Kim Jung-kwan et de Lutnick ont tenu à Washington, D.C., des consultations de haut niveau entre la Corée du Sud et les États-Unis afin de discuter de projets d’investissement aux États-Unis prévus par l’accord commercial de l’an dernier. Le principal sujet portait sur la mise en œuvre d’investissements évalués à 350 milliards de dollars, soit environ 523 billions de wons, et sur l’orientation des projets associés. La réunion a aussi lancé MASGA, montrant que les procédures de suivi entre les deux gouvernements entrent dans une phase plus active. Ces grands projets constituent un axe majeur de l’application de l’accord commercial bilatéral, avec une attention attendue sur la coordination détaillée et les calendriers d’exécution. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كيم جونغ-كوان ولوتنيك يبحثان مشاريع الاستثمار في أميركا وبدء تحرك MASGA",
-        "excerpt": "عقدت حكومتا كوريا الجنوبية والولايات المتحدة مشاورات رفيعة في واشنطن لبحث مشاريع استثمارية بقيمة 350 مليار دولار مرتبطة باتفاق التجارة العام الماضي وخطط MASGA.",
-        "body": "عقد جانب كيم جونغ-كوان وجانب لوتنيك مشاورات رفيعة المستوى بين كوريا الجنوبية والولايات المتحدة في واشنطن العاصمة لبحث مشاريع الاستثمار في الولايات المتحدة بموجب اتفاق التجارة الذي أبرم العام الماضي. وتمحور النقاش حول تنفيذ استثمارات قُدرت بـ350 مليار دولار، أي نحو 523 تريليون وون، واتجاه المشاريع المرتبطة بها. كما شهدت المشاورات بدء تحرك MASGA، ما يشير إلى دخول الإجراءات اللاحقة بين الحكومتين مرحلة أكثر نشاطا. وتعد هذه المشاريع الاستثمارية الضخمة محورا رئيسيا في تنفيذ الاتفاق التجاري الثنائي، مع ترقب تنسيق التفاصيل وجداول التنفيذ لاحقا. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "किम जंग-क्वान और लुटनिक ने अमेरिकी निवेश परियोजनाओं पर चर्चा की, MASGA भी शुरू",
-        "excerpt": "दक्षिण कोरिया और अमेरिका ने वाशिंगटन डीसी में उच्चस्तरीय वार्ता कर पिछले साल के व्यापार समझौते से जुड़ी 350 अरब डॉलर की अमेरिकी निवेश परियोजनाओं और MASGA पर चर्चा की।",
-        "body": "किम जंग-क्वान पक्ष और लुटनिक पक्ष ने वाशिंगटन डीसी में दक्षिण कोरिया-अमेरिका उच्चस्तरीय परामर्श किया और पिछले साल के व्यापार समझौते के तहत अमेरिका में निवेश परियोजनाओं पर चर्चा की। मुख्य मुद्दा 350 अरब डॉलर, यानी लगभग 523 ट्रिलियन वोन, के निवेश के क्रियान्वयन और संबंधित परियोजनाओं की दिशा था। इस बैठक में MASGA की भी शुरुआत हुई, जिससे दोनों सरकारों के बीच आगे की प्रक्रियाएं अधिक सक्रिय चरण में जाती दिखीं। ये बड़े निवेश परियोजनाएं द्विपक्षीय व्यापार समझौते के पालन का अहम हिस्सा हैं, और आगे विस्तृत परियोजना समन्वय तथा कार्यान्वयन समय-सारिणी पर ध्यान रहेगा। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kim Jung-kwan dan Lutnick Bahas Investasi AS; MASGA Mulai Bergerak",
-        "excerpt": "Pemerintah Korea Selatan dan Amerika Serikat menggelar konsultasi tingkat tinggi di Washington, D.C., untuk membahas proyek investasi AS senilai US$350 miliar dari kesepakatan dagang tahun lalu dan MASGA.",
-        "body": "Pihak Kim Jung-kwan dan pihak Lutnick mengadakan konsultasi tingkat tinggi Korea Selatan-Amerika Serikat di Washington, D.C., untuk membahas proyek investasi di AS berdasarkan kesepakatan dagang tahun lalu. Agenda utamanya adalah pelaksanaan investasi yang disebut bernilai US$350 miliar, atau sekitar 523 triliun won, serta arah proyek terkait. Dalam pembicaraan ini, MASGA juga mulai digerakkan, menunjukkan bahwa prosedur lanjutan antara kedua pemerintah memasuki tahap yang lebih aktif. Proyek investasi berskala besar tersebut menjadi pilar penting pelaksanaan kesepakatan dagang bilateral, dengan perhatian berikutnya pada koordinasi rinci dan jadwal eksekusi. Sumber: yna.co.kr"
       }
     }
   }
