@@ -1,5 +1,230 @@
 [
   {
+    "id": "55b963ebcc0d",
+    "slug": "미국일본전공정후공정반도체-etf-각양각색-623093",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T10:47:05.158Z",
+    "updatedAt": "2026-05-10T10:47:05.158Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051065431",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051065431",
+    "titleFingerprint": "f413584b02562c8886f77d2ec7b899965d336a60",
+    "dedupKeys": [
+      "55b963ebcc0da6b02733d2059ebeda49bcb0ef46",
+      "f413584b02562c8886f77d2ec7b899965d336a60",
+      "af07af8166695e5eea58b76583ca930ebbb6f68c"
+    ],
+    "imageUrl": "/images/articles/55b963ebcc0d.png",
+    "i18n": {
+      "ko": {
+        "title": "반도체 ETF 선택지 확대, 미국·일본·전공정·후공정별로 갈린 투자 포인트",
+        "excerpt": "한국경제는 반도체 ETF가 미국과 일본, 전공정과 후공정 등 지역과 밸류체인별로 다양해졌다고 보도했다. 투자자는 상품별 초점 차이를 확인해야 한다.",
+        "body": "반도체 ETF 시장에서 미국, 일본, 전공정, 후공정 등 서로 다른 투자 축을 내세운 상품들이 다양하게 제시되고 있다고 한국경제가 보도했다. 보도에 따르면 같은 반도체 테마라도 편입 대상이 미국 중심인지 일본 중심인지, 또는 반도체 생산 과정 중 전공정에 초점을 두는지 후공정에 초점을 두는지에 따라 성격이 달라진다. 이는 투자자가 단순히 ‘반도체 ETF’라는 이름만 보고 선택하기보다 지역과 공정, 밸류체인 노출 범위를 함께 살펴야 함을 뜻한다. 관련 상품의 차별화는 반도체 산업에 대한 투자 수요가 세분화되고 있음을 보여준다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Semiconductor ETFs Expand as U.S., Japan, Front-End and Back-End Themes Divide Choices",
+        "excerpt": "Hankyung reported that semiconductor ETFs now vary by region and value-chain focus, including U.S., Japan, front-end and back-end themes, requiring closer product comparison.",
+        "body": "Hankyung reported that the semiconductor ETF market is offering a wider range of products built around different investment axes, including the United States, Japan, front-end processes and back-end processes. According to the report, even ETFs under the same semiconductor theme can differ depending on whether their holdings are centered on the U.S. or Japan, or whether they focus on front-end or back-end stages of chip production. This means investors should not choose based only on the label “semiconductor ETF,” but should also check regional exposure, process focus and value-chain coverage. The differentiation of these products shows that demand for semiconductor investment is becoming more segmented. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "半導体ETFの選択肢拡大、米国・日本・前工程・後工程で投資軸が分化",
+        "excerpt": "韓国経済は、半導体ETFが米国、日本、前工程、後工程など地域とバリューチェーン別に多様化していると報じた。商品ごとの焦点確認が重要だ。",
+        "body": "韓国経済は、半導体ETF市場で米国、日本、前工程、後工程など異なる投資軸を掲げる商品が多様に提示されていると報じた。報道によると、同じ半導体テーマでも、組み入れ対象が米国中心なのか日本中心なのか、また半導体生産工程のうち前工程に焦点を当てるのか後工程に焦点を当てるのかによって性格が異なる。これは投資家が単に「半導体ETF」という名称だけで選ぶのではなく、地域、工程、バリューチェーンへのエクスポージャーをあわせて確認する必要があることを意味する。商品の差別化は、半導体産業への投資需要が細分化していることを示している。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "半导体ETF选择增多，美国、日本、前道与后道工序成投资分化点",
+        "excerpt": "韩国经济报道称，半导体ETF正按美国、日本、前道工序和后道工序等地区与价值链维度多样化，投资者需比较产品重点。",
+        "body": "韩国经济报道称，半导体ETF市场正在推出更多以不同投资轴心为重点的产品，包括美国、日本、前道工序和后道工序等。报道称，即使同属半导体主题，ETF的性质也会因持仓对象偏向美国还是日本，或聚焦芯片生产中的前道工序还是后道工序而不同。这意味着投资者不应只凭“半导体ETF”这一名称作出选择，还需要同时查看地区敞口、工序重点和价值链覆盖范围。相关产品的差异化显示，市场对半导体产业的投资需求正在进一步细分。来源: hankyung.com"
+      },
+      "es": {
+        "title": "ETF de semiconductores se diversifican por EE.UU., Japón, fase inicial y fase final",
+        "excerpt": "Hankyung informó que los ETF de semiconductores se han diversificado por región y cadena de valor, con enfoques en EE.UU., Japón, procesos iniciales y finales.",
+        "body": "Hankyung informó que el mercado de ETF de semiconductores presenta una gama más amplia de productos basados en distintos ejes de inversión, como Estados Unidos, Japón, procesos iniciales y procesos finales. Según el reporte, incluso dentro del mismo tema de semiconductores, el carácter de cada ETF puede variar según si sus componentes se centran en EE.UU. o Japón, o si se enfocan en etapas iniciales o finales de la producción de chips. Esto implica que los inversores no deberían elegir solo por el nombre “ETF de semiconductores”, sino revisar también la exposición regional, el foco del proceso y el alcance dentro de la cadena de valor. La diferenciación muestra una demanda de inversión más segmentada. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "ETFs de semicondutores se diversificam entre EUA, Japão, front-end e back-end",
+        "excerpt": "O Hankyung informou que ETFs de semicondutores variam por região e cadeia de valor, incluindo EUA, Japão, processos front-end e back-end, exigindo comparação cuidadosa.",
+        "body": "O Hankyung informou que o mercado de ETFs de semicondutores oferece uma variedade maior de produtos construídos em torno de diferentes eixos de investimento, como Estados Unidos, Japão, processos front-end e processos back-end. Segundo a reportagem, mesmo dentro do mesmo tema de semicondutores, os ETFs podem ter características diferentes conforme suas carteiras estejam centradas nos EUA ou no Japão, ou conforme foquem etapas front-end ou back-end da produção de chips. Isso significa que o investidor não deve escolher apenas pelo nome “ETF de semicondutores”, mas também verificar exposição regional, foco de processo e cobertura da cadeia de valor. A diferenciação indica demanda de investimento mais segmentada. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Halbleiter-ETFs werden vielfältiger: USA, Japan, Front-End und Back-End im Fokus",
+        "excerpt": "Hankyung berichtete, dass Halbleiter-ETFs nach Region und Wertschöpfungskette variieren, darunter USA, Japan, Front-End- und Back-End-Schwerpunkte.",
+        "body": "Hankyung berichtete, dass der Markt für Halbleiter-ETFs eine breitere Palette von Produkten anbietet, die auf unterschiedlichen Investitionsachsen beruhen, darunter die USA, Japan, Front-End-Prozesse und Back-End-Prozesse. Dem Bericht zufolge können sich ETFs trotz desselben Halbleiterthemas unterscheiden, je nachdem, ob ihre Bestandteile stärker auf die USA oder Japan ausgerichtet sind oder ob sie sich auf Front-End- oder Back-End-Stufen der Chipproduktion konzentrieren. Anleger sollten daher nicht allein nach der Bezeichnung „Halbleiter-ETF“ auswählen, sondern auch regionale Ausrichtung, Prozessfokus und Abdeckung der Wertschöpfungskette prüfen. Die Produktdifferenzierung zeigt eine stärker segmentierte Nachfrage nach Halbleiterinvestments. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les ETF semi-conducteurs se multiplient entre États-Unis, Japon, front-end et back-end",
+        "excerpt": "Hankyung rapporte que les ETF semi-conducteurs se diversifient par région et chaîne de valeur, avec des axes États-Unis, Japon, front-end et back-end.",
+        "body": "Hankyung rapporte que le marché des ETF semi-conducteurs propose une gamme plus large de produits construits autour d’axes d’investissement distincts, notamment les États-Unis, le Japon, les processus front-end et les processus back-end. Selon l’article, même au sein du même thème des semi-conducteurs, un ETF peut avoir un profil différent selon que ses composants sont centrés sur les États-Unis ou le Japon, ou selon qu’il cible les étapes front-end ou back-end de la production de puces. Les investisseurs ne devraient donc pas se fier uniquement au nom « ETF semi-conducteurs », mais aussi examiner l’exposition régionale, le processus visé et la couverture de la chaîne de valeur. Cette différenciation montre une demande d’investissement plus segmentée. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صناديق ETF لأشباه الموصلات تتنوع بين أميركا واليابان والمراحل الأمامية والخلفية",
+        "excerpt": "ذكرت هانكيونغ أن صناديق ETF لأشباه الموصلات أصبحت أكثر تنوعا حسب المنطقة وسلسلة القيمة، بما يشمل أميركا واليابان والمراحل الأمامية والخلفية.",
+        "body": "ذكرت هانكيونغ أن سوق صناديق ETF لأشباه الموصلات يعرض مجموعة أوسع من المنتجات القائمة على محاور استثمارية مختلفة، منها الولايات المتحدة واليابان والمراحل الأمامية والمراحل الخلفية في الإنتاج. ووفقا للتقرير، فإن الصناديق التي تحمل موضوع أشباه الموصلات نفسه قد تختلف في طبيعتها بحسب ما إذا كانت مكوناتها تتركز في الولايات المتحدة أو اليابان، أو ما إذا كانت تركز على المراحل الأمامية أو الخلفية من تصنيع الرقائق. وهذا يعني أن المستثمرين لا ينبغي أن يختاروا اعتمادا على اسم “ETF لأشباه الموصلات” فقط، بل عليهم فحص الانكشاف الجغرافي وتركيز العملية ونطاق سلسلة القيمة. ويظهر هذا التمايز أن الطلب الاستثماري على قطاع أشباه الموصلات أصبح أكثر تجزؤا. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर ETF विकल्प बढ़े, अमेरिका, जापान, फ्रंट-एंड और बैक-एंड बने अलग फोकस",
+        "excerpt": "हैंक्युंग ने बताया कि सेमीकंडक्टर ETF अब अमेरिका, जापान, फ्रंट-एंड और बैक-एंड जैसे क्षेत्रीय और वैल्यू-चेन फोकस के आधार पर विविध हो रहे हैं।",
+        "body": "हैंक्युंग ने बताया कि सेमीकंडक्टर ETF बाजार में अमेरिका, जापान, फ्रंट-एंड प्रक्रिया और बैक-एंड प्रक्रिया जैसे अलग-अलग निवेश आधारों पर बने उत्पाद अधिक विविध रूप में सामने आ रहे हैं। रिपोर्ट के अनुसार, एक ही सेमीकंडक्टर थीम के भीतर भी ETF की प्रकृति इस बात पर निर्भर करती है कि उसकी होल्डिंग अमेरिका केंद्रित है या जापान केंद्रित, या वह चिप उत्पादन की फ्रंट-एंड अवस्था पर ध्यान देता है या बैक-एंड अवस्था पर। इसका अर्थ है कि निवेशकों को केवल “सेमीकंडक्टर ETF” नाम देखकर चयन नहीं करना चाहिए, बल्कि क्षेत्रीय एक्सपोजर, प्रक्रिया फोकस और वैल्यू-चेन कवरेज भी देखना चाहिए। उत्पादों का यह अंतर दिखाता है कि सेमीकंडक्टर निवेश मांग अधिक विभाजित हो रही है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "ETF Semikonduktor Makin Beragam, dari AS, Jepang, Front-End hingga Back-End",
+        "excerpt": "Hankyung melaporkan ETF semikonduktor kini makin beragam menurut wilayah dan rantai nilai, termasuk fokus AS, Jepang, proses front-end dan back-end.",
+        "body": "Hankyung melaporkan bahwa pasar ETF semikonduktor menawarkan pilihan produk yang semakin beragam berdasarkan poros investasi berbeda, termasuk Amerika Serikat, Jepang, proses front-end dan proses back-end. Menurut laporan tersebut, meski sama-sama bertema semikonduktor, karakter ETF dapat berbeda tergantung apakah konstituennya berpusat pada AS atau Jepang, atau apakah fokusnya pada tahap front-end atau back-end dalam produksi chip. Artinya, investor tidak sebaiknya memilih hanya berdasarkan nama “ETF semikonduktor”, tetapi juga perlu memeriksa eksposur wilayah, fokus proses dan cakupan rantai nilai. Diferensiasi produk ini menunjukkan permintaan investasi pada industri semikonduktor semakin tersegmentasi. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "b8b7f9f60eae",
+    "slug": "코스닥-순환매-가능성10-이상-추가상승-여력있다-210884",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T10:46:05.167Z",
+    "updatedAt": "2026-05-10T10:46:05.167Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051065981",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051065981",
+    "titleFingerprint": "039fb0bba2c85cd05467622438a04d27677c1b32",
+    "dedupKeys": [
+      "b8b7f9f60eaeb14d9890bf9883509af2846af0a9",
+      "039fb0bba2c85cd05467622438a04d27677c1b32",
+      "6892af5f48afd4f39516c3b106ffad8d689b86bc"
+    ],
+    "imageUrl": "/images/articles/b8b7f9f60eae.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스닥 순환매 기대 커졌다…120일선까지 10% 이상 추가상승 여력 주목",
+        "excerpt": "한국경제는 코스피가 매물대에 막힐 경우 상대적으로 덜 오른 코스닥으로 순환매가 확산될 수 있으며, 120일선까지 10% 이상 추가 상승 여력이 있다고 전했다.",
+        "body": "코스닥시장이 거래소 시장의 매물대 부담 속에서 대안으로 부각될 수 있다는 전망이 나왔다. 한국경제에 따르면 거래소가 지지부진할 경우 그동안 상대적으로 덜 오른 코스닥의 강세가 뚜렷해질 가능성이 제기됐다. 코스닥은 50선을 돌파한 뒤 2차 저항선인 120일선 55선까지 매물 부담이 적어 10% 이상 추가 상승 여력이 있다는 분석이다. 거래량은 최근 연일 3조원대를 넘고 거래대금도 1조원 안팎을 기록했다. 개인의 차익실현 이후 대기 자금, 외국인의 우량주 관심, 다음과 NHN 등 인터넷주의 강세도 긍정 요인으로 거론됐다. 다만 실적이 뒷받침되지 않는 종목은 반등 시 현금 비중 확보가 바람직하다는 조언도 함께 제시됐다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSDAQ Rotation Gains Attention as Analysts See Over 10% Upside to 120-Day Line",
+        "excerpt": "Hankyung reported that if the main exchange remains capped by overhead supply, rotational buying may shift to the relatively lagging KOSDAQ, leaving room for more than 10% additional gains.",
+        "body": "The KOSDAQ market could emerge as an alternative while the main exchange faces resistance from overhead supply, according to Hankyung. The report said that if the exchange remains sluggish, strength in the relatively underperforming KOSDAQ could become more visible. After breaking above the 50 level, the KOSDAQ faces limited supply pressure until the 55 level, where the 120-day moving average is located, implying more than 10% additional upside. Recent trading volume has exceeded the 3 trillion range on consecutive days, while transaction value has hovered around 1 trillion won. Cash held by individuals after profit-taking, foreign interest in quality shares, and gains in internet stocks such as Daum and NHN were cited as positive factors. However, the report also advised using rebounds in stocks without earnings support to secure more cash. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "コスダック循環物色に期待、120日線まで10％超の追加上昇余地",
+        "excerpt": "韓国経済新聞は、取引所市場が上値の売り物に抑えられる場合、相対的に出遅れたコスダックへ循環物色が広がり、10％超の追加上昇余地があると伝えた。",
+        "body": "コスダック市場が、取引所市場の上値の売り物負担の中で代替先として浮上する可能性があるとの見方が出ている。韓国経済新聞によると、取引所市場が伸び悩む場合、これまで相対的に出遅れていたコスダックの強さが鮮明になる可能性が指摘された。コスダックは50台を突破した後、2次抵抗線である120日移動平均線の55台まで売り物負担が小さく、10％超の追加上昇余地があるとの分析だ。最近の出来高は連日3兆台を超え、売買代金も1兆ウォン前後を記録した。個人の利益確定後の待機資金、外国人の優良株への関心、DaumやNHNなどインターネット株の上昇も好材料として挙げられた。ただし、業績が伴わない銘柄については反発時に現金比率を高めるのが望ましいとの助言も示された。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSDAQ轮动买盘受关注，至120日线仍有逾10%上行空间",
+        "excerpt": "韩国经济新闻报道称，若交易所市场受上方套牢盘压制，相对滞涨的KOSDAQ可能迎来轮动买盘，并具备超过10%的进一步上涨空间。",
+        "body": "在交易所市场面临上方套牢盘压力之际，KOSDAQ市场可能成为替代选择。韩国经济新闻报道称，若交易所市场走势低迷，此前相对滞涨的KOSDAQ强势可能更加明显。分析认为，KOSDAQ突破50点后，到位于55点附近的120日均线这一第二阻力位之前，抛压相对有限，因此仍有超过10%的进一步上涨空间。近期成交量连续多日超过3万亿规模，成交金额也在1万亿韩元左右。个人投资者获利了结后的待机资金、外资对优质股的关注，以及Daum、NHN等互联网股走强，也被列为积极因素。不过，报道同时建议，对业绩缺乏支撑的个股，应利用反弹提高现金比重。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El KOSDAQ atrae rotación: ven más de 10% de potencial hasta la media de 120 días",
+        "excerpt": "Hankyung informó que, si el mercado principal queda frenado por resistencias, las compras rotativas podrían desplazarse al KOSDAQ, relativamente rezagado, con más de 10% de recorrido adicional.",
+        "body": "El mercado KOSDAQ podría ganar protagonismo como alternativa mientras la bolsa principal enfrenta presión de oferta en zonas de resistencia, según Hankyung. El reporte señaló que, si el mercado principal sigue sin avanzar, la fortaleza del KOSDAQ, que había subido relativamente menos, podría hacerse más evidente. Tras superar el nivel de 50, el KOSDAQ tendría poca presión de venta hasta el nivel de 55, donde se ubica la media móvil de 120 días, lo que implica más de 10% de potencial adicional. El volumen reciente ha superado durante varios días la zona de 3 billones, mientras el valor negociado ronda 1 billón de wones. También se citaron como factores positivos el efectivo disponible tras la toma de ganancias de inversores minoristas, el interés extranjero por acciones de calidad y el avance de valores de internet como Daum y NHN. Aun así, se recomendó aprovechar los rebotes en acciones sin respaldo de resultados para elevar la proporción de efectivo. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSDAQ ganha força com rotação e pode subir mais de 10% até a média de 120 dias",
+        "excerpt": "O Hankyung informou que, se a bolsa principal ficar limitada por resistências, a rotação pode migrar para o KOSDAQ, relativamente atrasado, deixando espaço para alta adicional superior a 10%.",
+        "body": "O mercado KOSDAQ pode surgir como alternativa enquanto a bolsa principal enfrenta pressão de oferta em zonas de resistência, segundo o Hankyung. A reportagem afirmou que, se o mercado principal continuar sem direção, a força do KOSDAQ, que havia subido relativamente menos, pode ficar mais clara. Depois de romper o nível de 50, o KOSDAQ teria pouca pressão vendedora até o nível de 55, onde está a média móvel de 120 dias, o que indica potencial de alta adicional superior a 10%. O volume recente tem superado por vários dias a faixa de 3 trilhões, enquanto o valor negociado gira em torno de 1 trilhão de won. Também foram citados como fatores positivos o caixa de investidores individuais após realização de lucros, o interesse estrangeiro por ações de qualidade e a alta de papéis de internet como Daum e NHN. Ainda assim, a reportagem recomendou usar repiques em ações sem suporte de resultados para aumentar a posição em caixa. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSDAQ-Rotation rückt in den Fokus: Über 10% Potenzial bis zur 120-Tage-Linie",
+        "excerpt": "Hankyung berichtete, dass bei anhaltendem Widerstand im Hauptmarkt rotierende Käufe in den relativ zurückgebliebenen KOSDAQ fließen könnten, mit mehr als 10% weiterem Aufwärtspotenzial.",
+        "body": "Der KOSDAQ-Markt könnte als Alternative an Bedeutung gewinnen, während der Hauptmarkt durch Angebotsdruck an Widerstandszonen belastet bleibt, berichtete Hankyung. Sollte der Hauptmarkt weiter schwächeln, könnte die Stärke des relativ zurückgebliebenen KOSDAQ deutlicher hervortreten. Nach dem Ausbruch über die Marke von 50 gebe es bis zur zweiten Widerstandszone bei 55, wo die 120-Tage-Linie verläuft, nur begrenzten Verkaufsdruck. Daraus ergebe sich ein zusätzliches Aufwärtspotenzial von mehr als 10%. Das Handelsvolumen lag zuletzt mehrere Tage in Folge über der Marke von 3 Billionen, der Handelswert bewegte sich um 1 Billion Won. Als positive Faktoren wurden zudem Barreserven privater Anleger nach Gewinnmitnahmen, ausländisches Interesse an Qualitätswerten sowie Kursgewinne bei Internetaktien wie Daum und NHN genannt. Bei Aktien ohne Ergebnisunterstützung wurde jedoch geraten, Erholungen zur Erhöhung der Cashquote zu nutzen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le KOSDAQ porté par la rotation: plus de 10% de potentiel vers la moyenne 120 jours",
+        "excerpt": "Hankyung a indiqué que, si le marché principal reste bloqué par des résistances, les achats par rotation pourraient se diriger vers le KOSDAQ, moins avancé, avec plus de 10% de hausse possible.",
+        "body": "Le marché KOSDAQ pourrait apparaître comme une alternative alors que le marché principal subit la pression de zones de résistance, selon Hankyung. Le média a indiqué que, si la place principale reste hésitante, la vigueur du KOSDAQ, qui avait relativement moins progressé, pourrait devenir plus nette. Après avoir franchi le niveau de 50, le KOSDAQ rencontrerait peu de pression vendeuse jusqu’au niveau de 55, où se situe la moyenne mobile à 120 jours, ce qui laisse entrevoir plus de 10% de potentiel supplémentaire. Les volumes récents ont dépassé plusieurs jours de suite la zone des 3 billions, tandis que la valeur échangée avoisine 1 billion de wons. Les liquidités des particuliers après prises de bénéfices, l’intérêt étranger pour les valeurs de qualité et la hausse des titres internet comme Daum et NHN ont aussi été cités comme facteurs positifs. Toutefois, il a été conseillé de profiter des rebonds sur les titres sans soutien des résultats pour renforcer la part de liquidités. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوسداك يترقب موجة تدوير شرائي مع إمكانية صعود تتجاوز 10% حتى متوسط 120 يوما",
+        "excerpt": "ذكرت هانكيونغ أنه إذا ظل السوق الرئيسي مقيدا بمناطق مقاومة، فقد تنتقل عمليات الشراء الدورية إلى كوسداك الأقل صعودا، مع مساحة ارتفاع إضافية تتجاوز 10%.",
+        "body": "قد يبرز سوق كوسداك كبديل في ظل ضغط المعروض عند مناطق المقاومة في السوق الرئيسي، بحسب هانكيونغ. وذكر التقرير أنه إذا استمر ضعف أداء السوق الرئيسي، فقد تصبح قوة كوسداك، الذي ارتفع بدرجة أقل نسبيا، أكثر وضوحا. وبعد تجاوز مستوى 50، يواجه كوسداك ضغط بيع محدودا حتى مستوى 55، حيث يقع المتوسط المتحرك لـ120 يوما، ما يعني وجود إمكانية صعود إضافية تتجاوز 10%. وتجاوز حجم التداول مؤخرا نطاق 3 تريليونات لعدة أيام متتالية، بينما دار إجمالي قيمة التداول حول 1 تريليون وون. كما عُدت السيولة المتاحة لدى الأفراد بعد جني الأرباح، واهتمام الأجانب بالأسهم الجيدة، وصعود أسهم الإنترنت مثل Daum وNHN عوامل إيجابية. ومع ذلك، نصح التقرير باستخدام الارتدادات في الأسهم غير المدعومة بالأرباح لزيادة نسبة السيولة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSDAQ में रोटेशन की उम्मीद, 120-दिन रेखा तक 10% से अधिक बढ़त की गुंजाइश",
+        "excerpt": "Hankyung ने बताया कि यदि मुख्य एक्सचेंज ऊपरी सप्लाई दबाव में अटका रहता है, तो रोटेशनल खरीद अपेक्षाकृत पीछे रहे KOSDAQ में जा सकती है, जिससे 10% से अधिक अतिरिक्त बढ़त की जगह बनती है।",
+        "body": "मुख्य एक्सचेंज में ऊपरी सप्लाई दबाव के बीच KOSDAQ बाजार एक विकल्प के रूप में उभर सकता है, Hankyung के अनुसार। रिपोर्ट में कहा गया कि यदि मुख्य बाजार सुस्त रहता है, तो अब तक अपेक्षाकृत कम चढ़े KOSDAQ की मजबूती अधिक स्पष्ट हो सकती है। 50 के स्तर को पार करने के बाद KOSDAQ पर 55 के स्तर तक, जहां 120-दिन की मूविंग एवरेज है, बिकवाली का दबाव कम है। इससे 10% से अधिक अतिरिक्त बढ़त की संभावना बनती है। हाल के दिनों में ट्रेडिंग वॉल्यूम लगातार 3 ट्रिलियन के दायरे से ऊपर रहा, जबकि ट्रेडिंग वैल्यू करीब 1 ट्रिलियन वॉन रही। मुनाफावसूली के बाद व्यक्तिगत निवेशकों के पास उपलब्ध नकदी, गुणवत्तापूर्ण शेयरों में विदेशी रुचि, और Daum तथा NHN जैसे इंटरनेट शेयरों की मजबूती को भी सकारात्मक कारक बताया गया। हालांकि, जिन शेयरों को कमाई का समर्थन नहीं है, उनमें उछाल पर नकदी अनुपात बढ़ाने की सलाह दी गई। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Rotasi KOSDAQ Menguat, Ada Ruang Kenaikan Lebih 10% Menuju Garis 120 Hari",
+        "excerpt": "Hankyung melaporkan bahwa jika bursa utama tertahan oleh area pasokan, rotasi beli dapat beralih ke KOSDAQ yang relatif tertinggal, membuka ruang kenaikan tambahan lebih dari 10%.",
+        "body": "Pasar KOSDAQ dapat muncul sebagai alternatif saat bursa utama menghadapi tekanan pasokan di area resistance, menurut Hankyung. Laporan itu menyebutkan bahwa jika bursa utama tetap lesu, kekuatan KOSDAQ yang sebelumnya relatif tertinggal dapat makin terlihat. Setelah menembus level 50, KOSDAQ dinilai memiliki tekanan jual yang kecil hingga level 55, tempat garis rata-rata bergerak 120 hari berada, sehingga menyiratkan ruang kenaikan tambahan lebih dari 10%. Volume perdagangan terbaru beberapa hari berturut-turut melampaui kisaran 3 triliun, sementara nilai transaksi berada di sekitar 1 triliun won. Dana siaga investor individu setelah aksi ambil untung, minat asing pada saham berkualitas, serta penguatan saham internet seperti Daum dan NHN juga disebut sebagai faktor positif. Namun, laporan itu juga menyarankan agar rebound pada saham yang tidak didukung kinerja digunakan untuk meningkatkan porsi kas. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "13461ed5d305",
+    "slug": "두산퓨얼셀-최다-매수삼성전자-우선주도-담아-754303",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T10:44:38.342Z",
+    "updatedAt": "2026-05-10T10:44:38.342Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051065961",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051065961",
+    "titleFingerprint": "512314622edf6b54f8c2c7135158612c61a0f41b",
+    "dedupKeys": [
+      "13461ed5d305c0febb3b30e172ce54f3098ffb53",
+      "512314622edf6b54f8c2c7135158612c61a0f41b",
+      "bc8bc1a4e46b47f9d2a4b0455e4dc68ed6ce3ae2"
+    ],
+    "imageUrl": "/images/articles/13461ed5d305.png",
+    "i18n": {
+      "ko": {
+        "title": "두산퓨얼셀 최다 매수, 삼성전자 우선주도 투자자 관심 확대",
+        "excerpt": "hankyung.com 보도에 따르면 투자자 매수 흐름에서 두산퓨얼셀이 최다 매수 종목으로 언급됐고, 삼성전자 우선주도 함께 담긴 것으로 전해졌다.",
+        "body": "hankyung.com은 투자자 매수 동향과 관련해 두산퓨얼셀이 최다 매수 종목으로 언급됐다고 보도했다. 보도 제목에 따르면 삼성전자 우선주도 함께 매수 대상에 포함됐다. 이번 내용은 특정 투자 주체의 매수 흐름에서 어떤 종목이 두드러졌는지를 보여주는 사례로, 두산퓨얼셀과 삼성전자 우선주가 투자자 관심 종목으로 거론됐다는 점이 핵심이다. 다만 제공된 원문 정보에는 구체적인 매수 규모, 기간, 투자 주체, 주가 변동률 등 세부 수치는 포함되지 않았다. 따라서 영향과 전망은 해당 종목들이 매수 목록에 올랐다는 사실 범위에서만 해석할 수 있다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Doosan Fuel Cell Tops Buying List as Samsung Electronics Preferred Shares Added",
+        "excerpt": "According to hankyung.com, Doosan Fuel Cell was cited as the most-bought stock in investor buying trends, while Samsung Electronics preferred shares were also included.",
+        "body": "hankyung.com reported that Doosan Fuel Cell was cited as the most-bought stock in a review of investor buying trends. According to the headline, Samsung Electronics preferred shares were also added to the buying list. The report highlights which names stood out in a particular buying flow, with Doosan Fuel Cell and Samsung Electronics preferred shares mentioned as stocks drawing investor attention. However, the provided source information does not include detailed figures such as purchase size, period, investor category, or share-price movement. Therefore, any impact or outlook can only be read within the limited fact that these stocks appeared on the buying list. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "斗山フューエルセルが買い最多、サムスン電子優先株にも関心",
+        "excerpt": "hankyung.comによると、投資家の買い動向で斗山フューエルセルが最多買い銘柄として言及され、サムスン電子優先株も組み入れられた。",
+        "body": "hankyung.comは、投資家の買い動向に関連して、斗山フューエルセルが最多買い銘柄として言及されたと報じた。見出しによれば、サムスン電子の優先株も買い対象に含まれた。今回の内容は、特定の買いの流れの中でどの銘柄が目立ったかを示すもので、斗山フューエルセルとサムスン電子優先株が投資家の関心銘柄として取り上げられた点が中心だ。ただし、提供された原文情報には買い付け規模、期間、投資主体、株価変動率などの具体的な数値は含まれていない。そのため、影響や見通しは、これらの銘柄が買いリストに上がったという事実の範囲でのみ解釈できる。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "斗山燃料电池买入居首，三星电子优先股也获关注",
+        "excerpt": "据hankyung.com报道，在投资者买入动向中，斗山燃料电池被提及为买入最多的股票，三星电子优先股也被纳入买入名单。",
+        "body": "hankyung.com报道称，在投资者买入动向中，斗山燃料电池被提及为买入最多的股票。根据标题，三星电子优先股也被纳入买入对象。该报道显示，在某一买入流向中哪些股票较为突出，核心信息是斗山燃料电池和三星电子优先股被列为受到投资者关注的股票。不过，所提供的原文信息未包含具体买入规模、期间、投资主体或股价涨跌幅等详细数据。因此，对影响和前景的解读只能限于这些股票出现在买入名单这一事实范围内。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Doosan Fuel Cell lidera compras y acciones preferentes de Samsung también atraen interés",
+        "excerpt": "Según hankyung.com, Doosan Fuel Cell fue citado como el valor más comprado en los flujos de inversores, mientras también se incorporaron preferentes de Samsung Electronics.",
+        "body": "hankyung.com informó que Doosan Fuel Cell fue citado como el valor más comprado dentro de una revisión de los flujos de compra de inversores. Según el titular, las acciones preferentes de Samsung Electronics también fueron incluidas entre los valores adquiridos. El dato muestra qué nombres destacaron dentro de un flujo concreto de compras, con Doosan Fuel Cell y las preferentes de Samsung Electronics como valores mencionados por el interés inversor. Sin embargo, la información original proporcionada no incluye cifras detalladas sobre volumen de compra, periodo, tipo de inversor o variación de precio. Por ello, el impacto y la perspectiva solo pueden interpretarse dentro del hecho limitado de que estos valores aparecieron en la lista de compras. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Doosan Fuel Cell lidera compras e preferenciais da Samsung também entram na lista",
+        "excerpt": "Segundo o hankyung.com, a Doosan Fuel Cell foi citada como a ação mais comprada em fluxos de investidores, e preferenciais da Samsung Electronics também foram incluídas.",
+        "body": "O hankyung.com informou que a Doosan Fuel Cell foi citada como a ação mais comprada em uma análise dos fluxos de compra de investidores. De acordo com o título, as ações preferenciais da Samsung Electronics também entraram na lista de compras. A notícia indica quais papéis se destacaram em determinado movimento comprador, com Doosan Fuel Cell e preferenciais da Samsung Electronics mencionadas como ações de interesse dos investidores. No entanto, as informações originais fornecidas não trazem detalhes como volume comprado, período, tipo de investidor ou variação das ações. Assim, impacto e perspectiva só podem ser interpretados dentro do fato limitado de que esses papéis apareceram na lista de compras. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Doosan Fuel Cell meistgekauft, auch Samsung Electronics Vorzüge im Fokus",
+        "excerpt": "Laut hankyung.com wurde Doosan Fuel Cell in den Kaufströmen von Anlegern als meistgekaufter Wert genannt; auch Vorzugsaktien von Samsung Electronics wurden aufgenommen.",
+        "body": "hankyung.com berichtete, dass Doosan Fuel Cell im Zusammenhang mit Anlegerkäufen als meistgekaufter Wert genannt wurde. Der Überschrift zufolge wurden auch Vorzugsaktien von Samsung Electronics gekauft. Die Meldung zeigt, welche Titel in einem bestimmten Kaufstrom hervorstachen: Doosan Fuel Cell und Samsung Electronics Vorzugsaktien wurden als Werte mit Anlegerinteresse erwähnt. Die bereitgestellten Originalinformationen enthalten jedoch keine konkreten Angaben zu Kaufvolumen, Zeitraum, Anlegergruppe oder Kursveränderungen. Daher lassen sich Wirkung und Ausblick nur im Rahmen der Tatsache bewerten, dass diese Titel auf der Kaufliste standen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Doosan Fuel Cell en tête des achats, les préférentielles Samsung aussi retenues",
+        "excerpt": "Selon hankyung.com, Doosan Fuel Cell a été cité comme le titre le plus acheté dans les flux d’investisseurs, tandis que les préférentielles Samsung Electronics ont aussi été ajoutées.",
+        "body": "hankyung.com a rapporté que Doosan Fuel Cell avait été cité comme le titre le plus acheté dans l’analyse des flux d’achat d’investisseurs. D’après le titre, les actions préférentielles de Samsung Electronics ont également été incluses parmi les achats. L’information montre quels titres se sont distingués dans un flux d’achat donné, Doosan Fuel Cell et les préférentielles Samsung Electronics étant mentionnés comme valeurs attirant l’attention des investisseurs. Toutefois, les informations originales fournies ne précisent pas le montant des achats, la période, le type d’investisseur ni l’évolution des cours. L’impact et les perspectives ne peuvent donc être interprétés que dans la limite du fait que ces titres figurent sur la liste d’achats. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "دوسان فيول سيل تتصدر الشراء وأسهم سامسونغ الممتازة تدخل القائمة",
+        "excerpt": "بحسب hankyung.com، ذُكرت دوسان فيول سيل كأكثر الأسهم شراء ضمن تدفقات المستثمرين، كما شملت القائمة الأسهم الممتازة لشركة سامسونغ إلكترونيكس.",
+        "body": "أفاد موقع hankyung.com بأن دوسان فيول سيل ذُكرت كأكثر الأسهم شراء في سياق متابعة اتجاهات شراء المستثمرين. ووفق العنوان، شملت عمليات الشراء أيضا الأسهم الممتازة لشركة سامسونغ إلكترونيكس. وتوضح المعلومة أي الأسهم برزت ضمن تدفق شرائي محدد، إذ ورد اسما دوسان فيول سيل والأسهم الممتازة لسامسونغ إلكترونيكس كأوراق تحظى باهتمام المستثمرين. لكن المعلومات الأصلية المتاحة لا تتضمن تفاصيل مثل حجم الشراء أو الفترة الزمنية أو فئة المستثمرين أو تغيرات الأسعار. لذلك لا يمكن قراءة الأثر أو التوقعات إلا ضمن حدود حقيقة أن هذه الأسهم ظهرت في قائمة الشراء. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "Doosan Fuel Cell में सबसे ज्यादा खरीद, Samsung Electronics प्रेफरेंस शेयर भी शामिल",
+        "excerpt": "hankyung.com के अनुसार निवेशकों की खरीदारी में Doosan Fuel Cell को सबसे अधिक खरीदा गया शेयर बताया गया, जबकि Samsung Electronics के प्रेफरेंस शेयर भी शामिल रहे।",
+        "body": "hankyung.com ने निवेशकों की खरीदारी के रुझान पर रिपोर्ट करते हुए बताया कि Doosan Fuel Cell को सबसे अधिक खरीदा गया शेयर कहा गया। शीर्षक के अनुसार Samsung Electronics के प्रेफरेंस शेयर भी खरीद सूची में शामिल रहे। यह जानकारी दिखाती है कि किसी खास खरीद प्रवाह में कौन से शेयर प्रमुख रहे, जिसमें Doosan Fuel Cell और Samsung Electronics के प्रेफरेंस शेयर निवेशकों की रुचि वाले नामों के रूप में सामने आए। हालांकि उपलब्ध मूल जानकारी में खरीद का आकार, अवधि, निवेशक वर्ग या शेयर मूल्य में बदलाव जैसे विस्तृत आंकड़े नहीं दिए गए हैं। इसलिए प्रभाव और आगे की दिशा को केवल इस तथ्य तक सीमित रखकर समझा जा सकता है कि ये शेयर खरीद सूची में शामिल थे। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Doosan Fuel Cell Paling Banyak Dibeli, Saham Preferen Samsung Juga Masuk",
+        "excerpt": "Menurut hankyung.com, Doosan Fuel Cell disebut sebagai saham yang paling banyak dibeli dalam arus beli investor, sementara saham preferen Samsung Electronics juga ikut dikoleksi.",
+        "body": "hankyung.com melaporkan bahwa Doosan Fuel Cell disebut sebagai saham yang paling banyak dibeli dalam pembahasan tren pembelian investor. Berdasarkan judul, saham preferen Samsung Electronics juga masuk dalam daftar pembelian. Informasi ini menunjukkan saham mana yang menonjol dalam arus beli tertentu, dengan Doosan Fuel Cell dan saham preferen Samsung Electronics disebut sebagai nama yang menarik perhatian investor. Namun, informasi asli yang diberikan tidak mencakup rincian seperti nilai pembelian, periode, kategori investor, atau perubahan harga saham. Karena itu, dampak dan prospeknya hanya dapat dibaca dalam batas fakta bahwa saham-saham tersebut muncul dalam daftar pembelian. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "0b47a0516c76",
     "slug": "억대-큰손-개미-증시-대거-복귀-747542",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Rumah Kosong Direvitalisasi: Gudang Beras dan Garam Jadi Ruang Bersama",
         "excerpt": "Saat angka kelahiran rendah, penurunan populasi, dan perpindahan penduduk menambah rumah kosong di Korea Selatan, bekas tempat penyimpanan beras dan garam diubah menjadi ruang bersama.",
         "body": "Di tengah meningkatnya rumah kosong di berbagai wilayah Korea Selatan akibat rendahnya angka kelahiran, penurunan jumlah penduduk, dan perpindahan populasi, sebuah tempat yang dulu digunakan untuk menyimpan beras dan garam diperkenalkan sebagai ruang bersama. Rumah kosong yang muncul setiap tahun telah disebut sebagai masalah karena merusak pemandangan wilayah dan mengancam keselamatan. Kasus ini menunjukkan bahwa ruang yang terbengkalai tidak harus dilihat hanya sebagai objek pembongkaran atau penutupan, tetapi dapat diubah menjadi tempat untuk penggunaan bersama. Ketika jumlah rumah kosong terus meningkat, pemanfaatan regeneratif dapat terkait dengan perbaikan lingkungan hidup dan pengurangan kekhawatiran keselamatan. Sumber: yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "a88e968b0062",
-    "slug": "르포-직원들-떠나고-손님은-김밥-한-줄만중동발-고물가에-휘청-720536",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T21:34:35.653Z",
-    "updatedAt": "2026-05-09T21:34:35.653Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509041900030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509041900030",
-    "titleFingerprint": "5ac89975d36eb0f23568c290e316edc8e16f3570",
-    "dedupKeys": [
-      "a88e968b0062eadfd9fb31595d2d02c483e0601f",
-      "5ac89975d36eb0f23568c290e316edc8e16f3570",
-      "88c594b80f4f7a8e181fe6a1c40df095bf61f256"
-    ],
-    "imageUrl": "/images/articles/a88e968b0062.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중동발 고물가에 서울 분식·떡집 흔들, 쌀·곡물값 30% 상승 체감",
-        "excerpt": "서울 자영업자들이 중동발 고물가 여파로 쌀과 곡물 가격 상승을 체감하며 가격 인상 부담과 소비 위축 속에 어려움을 겪고 있다.",
-        "body": "서울의 분식점과 떡집 등 서민 음식 자영업자들이 중동발 고물가 여파로 비용 부담과 매출 둔화를 동시에 겪고 있다. 한 업주는 체감상 1년 전보다 쌀과 곡물 가격이 30% 오른 것 같다고 말했다. 그러나 떡값처럼 손님이 민감하게 받아들이는 품목은 쉽게 올리기 어렵다는 하소연도 나온다. 인건비 부담 속에 직원들이 떠나고, 손님은 김밥 한 줄만 사는 등 소비도 위축된 분위기다. 원재료 가격 상승이 외식·간식 가격에 바로 반영되기 어려워 영세 자영업자의 압박은 이어질 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Middle East-Driven Inflation Hits Seoul Snack Shops as Rice, Grain Costs Climb",
-        "excerpt": "Self-employed food sellers in Seoul are struggling as Middle East-linked inflation raises perceived rice and grain costs while price hikes remain difficult.",
-        "body": "Small food businesses such as snack shops and rice cake stores in Seoul are facing both higher costs and slower sales amid inflation linked to the Middle East. One shop owner said rice and grain prices feel about 30% higher than a year earlier. Yet owners say it is difficult to raise prices on items such as rice cakes because customers are sensitive to them. With labor costs weighing on stores, employees have left, while some customers buy only one roll of gimbap, reflecting weaker consumption. As raw material costs are hard to pass directly into food and snack prices, pressure on small merchants is expected to continue. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "中東発の物価高がソウルの粉食店直撃、米・穀物価格30％上昇を実感",
-        "excerpt": "ソウルの自営業者は中東発の物価高で米や穀物価格の上昇を感じ、値上げの難しさと消費低迷に直面している。",
-        "body": "ソウルの粉食店や餅店など庶民的な飲食自営業者が、中東発の物価高により費用負担と売上鈍化を同時に抱えている。ある店主は、体感では1年前より米と穀物の価格が30％ほど上がったようだと話した。しかし餅の価格のように客が敏感に受け止める品目は簡単に上げられないとの声も出ている。人件費負担の中で従業員が離れ、客はキンパ1本だけを買うなど消費も冷え込んだ雰囲気だ。原材料価格の上昇を外食・間食価格にすぐ反映しにくく、零細自営業者への圧力は続く見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "中东引发高物价冲击首尔小吃店，米和谷物成本体感涨三成",
-        "excerpt": "首尔个体餐饮商户受中东引发的高物价影响，感受到米和谷物价格上涨，并面临涨价困难与消费萎缩。",
-        "body": "首尔的紫菜包饭店、年糕店等平民餐饮个体商户，正因中东引发的高物价同时承受成本负担和销售放缓。一名店主表示，体感上米和谷物价格似乎比一年前上涨了30%。但也有商户诉苦称，像年糕这类顾客对价格敏感的商品，很难轻易涨价。在人工成本压力下，员工离开店铺，而顾客只买一条紫菜包饭等现象也显示消费趋弱。由于原材料涨价难以立即反映到外食和小吃价格上，小微个体商户的压力预计将持续。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Inflación ligada a Oriente Medio golpea tiendas de Seúl; arroz y granos suben",
-        "excerpt": "Comerciantes de comida en Seúl sufren el alza de arroz y granos por la inflación vinculada a Oriente Medio, con dificultad para subir precios.",
-        "body": "Pequeños negocios de comida en Seúl, como tiendas de gimbap y pasteles de arroz, afrontan a la vez mayores costos y ventas más lentas por la inflación vinculada a Oriente Medio. Un comerciante dijo que, según su percepción, los precios del arroz y los granos han subido cerca de un 30% frente a hace un año. Sin embargo, los dueños señalan que es difícil elevar precios de productos como los pasteles de arroz, porque los clientes son sensibles. Con la carga laboral, empleados se han ido, mientras algunos clientes compran solo un rollo de gimbap, señal de consumo débil. La presión sobre pequeños autónomos seguirá si no pueden trasladar el alza de materias primas. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Inflação ligada ao Oriente Médio pressiona lanchonetes de Seul e arroz sobe",
-        "excerpt": "Pequenos comerciantes de comida em Seul sentem alta de arroz e grãos com a inflação ligada ao Oriente Médio, mas têm dificuldade para reajustar preços.",
-        "body": "Pequenos negócios de comida em Seul, como lojas de gimbap e de bolos de arroz, enfrentam custos maiores e vendas mais fracas em meio à inflação ligada ao Oriente Médio. Um comerciante disse que, na percepção dele, os preços do arroz e dos grãos parecem cerca de 30% mais altos do que há um ano. Ainda assim, donos afirmam que é difícil elevar preços de itens como bolos de arroz, pois os clientes reagem com sensibilidade. Com a pressão dos custos trabalhistas, funcionários foram embora, enquanto clientes compram apenas um rolo de gimbap, sinal de consumo retraído. Como a alta das matérias-primas não é facilmente repassada aos preços, a pressão deve continuar. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Nahostbedingte Inflation trifft Seouls Imbisse, Reis und Getreide spürbar teurer",
-        "excerpt": "Kleine Lebensmittelbetriebe in Seoul leiden unter nahostbedingter Inflation, höheren Reis- und Getreidekosten sowie schwacher Nachfrage.",
-        "body": "Kleine Lebensmittelbetriebe in Seoul, darunter Imbisse und Reiskuchenläden, kämpfen wegen der nahostbedingten Inflation zugleich mit höheren Kosten und schwächeren Umsätzen. Ein Ladeninhaber sagte, Reis und Getreide fühlten sich rund 30% teurer an als vor einem Jahr. Dennoch sei es schwer, Preise für Waren wie Reiskuchen anzuheben, weil Kunden darauf empfindlich reagieren. Unter dem Druck der Personalkosten haben Beschäftigte die Läden verlassen, während manche Kunden nur noch eine Rolle Gimbap kaufen, was auf gedämpften Konsum hindeutet. Da Rohstoffkosten kaum sofort in Essenspreise weitergegeben werden können, dürfte der Druck auf kleine Selbstständige anhalten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "L’inflation venue du Moyen-Orient frappe les petits restaurants de Séoul",
-        "excerpt": "À Séoul, des petits commerces alimentaires subissent la hausse du riz et des céréales liée au Moyen-Orient, sans pouvoir relever facilement leurs prix.",
-        "body": "À Séoul, des petits commerces alimentaires comme les échoppes de gimbap et les boutiques de gâteaux de riz subissent à la fois la hausse des coûts et le ralentissement des ventes sous l’effet d’une inflation liée au Moyen-Orient. Un commerçant estime que les prix du riz et des céréales paraissent environ 30% plus élevés qu’il y a un an. Mais les propriétaires disent qu’il est difficile d’augmenter les prix d’articles comme les gâteaux de riz, auxquels les clients sont sensibles. Avec la charge salariale, des employés sont partis, tandis que certains clients n’achètent qu’un rouleau de gimbap. La pression devrait se poursuivre faute de pouvoir répercuter rapidement les matières premières. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "تضخم مرتبط بالشرق الأوسط يضغط على مطاعم سيول وأسعار الأرز والحبوب ترتفع",
-        "excerpt": "يعاني أصحاب متاجر الطعام الصغيرة في سيول من ارتفاع أسعار الأرز والحبوب بسبب التضخم المرتبط بالشرق الأوسط مع صعوبة رفع الأسعار.",
-        "body": "تواجه متاجر الطعام الصغيرة في سيول، مثل محال الكيمباب وكعك الأرز، ضغطا مزدوجا من ارتفاع التكاليف وتباطؤ المبيعات وسط تضخم مرتبط بالشرق الأوسط. وقال أحد أصحاب المتاجر إن أسعار الأرز والحبوب تبدو، حسب الشعور العام، أعلى بنحو 30% مقارنة بما كانت عليه قبل عام. لكن أصحاب المحال يقولون إن رفع أسعار سلع مثل كعك الأرز ليس سهلا لأن الزبائن حساسون تجاهها. ومع عبء تكاليف العمالة، غادر موظفون، بينما يشتري بعض الزبائن لفة كيمباب واحدة فقط، ما يعكس ضعفا في الاستهلاك. وبما أن ارتفاع المواد الخام يصعب نقله مباشرة إلى أسعار الطعام، فمن المتوقع استمرار الضغط على صغار التجار. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "मध्य पूर्व से जुड़ी महंगाई ने सियोल की छोटी दुकानों पर दबाव बढ़ाया",
-        "excerpt": "सियोल के छोटे खाद्य कारोबारियों को मध्य पूर्व से जुड़ी महंगाई के बीच चावल और अनाज महंगा लग रहा है, पर कीमतें बढ़ाना कठिन है।",
-        "body": "सियोल में गिम्बाप दुकानों और चावल के केक की दुकानों जैसे छोटे खाद्य कारोबार मध्य पूर्व से जुड़ी महंगाई के कारण लागत बढ़ने और बिक्री धीमी होने का सामना कर रहे हैं। एक दुकानदार ने कहा कि महसूस होता है कि चावल और अनाज की कीमतें एक साल पहले की तुलना में करीब 30% बढ़ गई हैं। फिर भी दुकानदारों का कहना है कि चावल के केक जैसी वस्तुओं के दाम आसानी से नहीं बढ़ाए जा सकते, क्योंकि ग्राहक कीमतों को लेकर संवेदनशील हैं। श्रम लागत के दबाव में कर्मचारी चले गए हैं और कुछ ग्राहक केवल एक गिम्बाप रोल खरीद रहे हैं, जिससे कमजोर खपत दिखती है। कच्चे माल की लागत को तुरंत खाद्य कीमतों में जोड़ना कठिन होने से छोटे कारोबारियों पर दबाव जारी रह सकता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Inflasi dari Timur Tengah Tekan Kedai Seoul, Harga Beras dan Biji-bijian Naik",
-        "excerpt": "Pelaku usaha makanan kecil di Seoul merasakan kenaikan harga beras dan biji-bijian akibat inflasi terkait Timur Tengah, sementara harga sulit dinaikkan.",
-        "body": "Usaha makanan kecil di Seoul, seperti kedai gimbap dan toko kue beras, menghadapi beban biaya lebih tinggi sekaligus penjualan yang melambat akibat inflasi terkait Timur Tengah. Seorang pemilik usaha mengatakan harga beras dan biji-bijian terasa sekitar 30% lebih tinggi dibanding setahun lalu. Namun pemilik toko menyebut harga barang seperti kue beras sulit dinaikkan karena pelanggan sensitif terhadap perubahan harga. Di tengah beban biaya tenaga kerja, karyawan pergi, sementara sebagian pelanggan hanya membeli satu gulung gimbap, mencerminkan konsumsi yang melemah. Karena kenaikan bahan baku sulit langsung diteruskan ke harga makanan, tekanan pada usaha kecil diperkirakan berlanjut. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f89e391e4d13",
-    "slug": "고유가에-저비용항공사-운항-900편-감축무급휴직-속출-288687",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T21:33:28.739Z",
-    "updatedAt": "2026-05-09T21:33:28.739Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509037700003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509037700003",
-    "titleFingerprint": "b8bb02b6622bb852a783ee6c19cfcb4df177f34b",
-    "dedupKeys": [
-      "f89e391e4d13e15260ae0801da71b836d0c0aa24",
-      "b8bb02b6622bb852a783ee6c19cfcb4df177f34b",
-      "ffa94d52e936968d371a6946f6ea3b6278505cd4"
-    ],
-    "imageUrl": "/images/articles/f89e391e4d13.jpg",
-    "i18n": {
-      "ko": {
-        "title": "고유가 직격탄에 저비용항공사 900편 감축, 무급휴직 확산",
-        "excerpt": "고유가 부담이 커지자 저비용항공사들이 운항 900편을 줄이고, 제주항공은 6월 한 달 객실 승무원 희망자를 대상으로 무급휴직을 실시한다.",
-        "body": "고유가 여파로 국내 저비용항공사들이 운항 계획을 축소하고 인력 운용 조정에 들어갔다. 제주항공은 지난 8일 객실 승무원 중 희망자를 대상으로 6월 한 달간 무급휴직을 실시한다고 밝혔다. 원문에 따르면 저비용항공사 운항 감축 규모는 900편에 이른다. 항공유 가격 부담이 커진 상황에서 비용 절감 압박이 운항 축소와 무급휴직으로 이어진 것이다. 이번 조치는 항공 수요와 비용 구조에 민감한 저비용항공 업계의 부담을 보여준다. 향후 고유가 흐름이 이어질 경우 운항 편수와 근무 형태 조정이 업계 전반의 주요 이슈가 될 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "High Oil Prices Force Low-Cost Airlines to Cut 900 Flights, Unpaid Leave Spreads",
-        "excerpt": "As fuel-cost pressure rises, low-cost airlines are cutting 900 flights, while Jeju Air will offer unpaid leave to volunteer cabin crew for the month of June.",
-        "body": "Amid the impact of high oil prices, South Korea’s low-cost airlines are scaling back flight operations and adjusting staffing plans. Jeju Air said on the 8th that it would implement unpaid leave for cabin crew members who volunteer for it during the month of June. According to the original report, the scale of flight reductions by low-cost carriers reaches 900 flights. Rising jet fuel costs have increased pressure to cut expenses, leading to both reduced operations and unpaid leave. The move highlights how sensitive low-cost airlines are to fuel prices and cost structures. If high oil prices continue, flight schedules and work arrangements may remain key issues for the industry. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "高油価でLCCが900便削減、済州航空は6月に無給休職実施",
-        "excerpt": "高油価による負担が強まる中、格安航空会社は運航900便を削減し、済州航空は6月の1カ月間、希望する客室乗務員を対象に無給休職を実施する。",
-        "body": "高油価の影響で、韓国の格安航空会社が運航計画を縮小し、人員運用の調整に入っている。済州航空は8日、客室乗務員のうち希望者を対象に、6月の1カ月間、無給休職を実施すると明らかにした。原文によると、格安航空会社による運航削減規模は900便に達する。航空燃料価格の負担が高まる中、費用削減圧力が運航縮小と無給休職につながった形だ。今回の措置は、需要と費用構造に敏感なLCC業界の負担を示している。高油価が続けば、運航便数と勤務形態の調整が業界全体の主要課題となる可能性がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "高油价冲击低成本航空削减900个航班，无薪休假增多",
-        "excerpt": "随着高油价压力加大，低成本航空公司削减900个航班，济州航空将在6月一个月内面向自愿客舱乘务员实施无薪休假。",
-        "body": "受高油价影响，韩国低成本航空公司正在缩减航班计划，并调整人员运营安排。济州航空8日表示，将在6月一个月内，对客舱乘务员中的自愿者实施无薪休假。根据原文，低成本航空公司的航班削减规模达到900个航班。航空燃油价格负担上升，使削减成本的压力传导至航班缩减和无薪休假。此次措施显示出低成本航空行业对航空需求和成本结构的高度敏感。如果高油价走势持续，航班数量和工作形式调整可能继续成为行业关注的主要问题。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Altos precios del petróleo llevan a aerolíneas low cost a recortar 900 vuelos",
-        "excerpt": "Ante la presión de los altos precios del combustible, las aerolíneas de bajo costo recortan 900 vuelos y Jeju Air aplicará licencias sin sueldo en junio a tripulantes voluntarios.",
-        "body": "Por el impacto de los altos precios del petróleo, las aerolíneas de bajo costo de Corea del Sur están reduciendo sus planes de operación y ajustando la gestión de personal. Jeju Air informó el día 8 que aplicará durante todo junio licencias sin sueldo a los miembros de cabina que se ofrezcan voluntariamente. Según el texto original, el recorte de operaciones de las aerolíneas low cost alcanza 900 vuelos. El aumento de la carga por el precio del combustible de aviación está elevando la presión para reducir costos, lo que deriva en menos vuelos y licencias sin sueldo. La medida muestra la sensibilidad del sector low cost a la demanda y a la estructura de costos. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Petróleo caro leva low costs a cortar 900 voos; licença sem salário avança",
-        "excerpt": "Com a pressão dos preços elevados do combustível, companhias aéreas de baixo custo cortam 900 voos, e a Jeju Air dará licença sem salário em junho a tripulantes voluntários.",
-        "body": "Com o impacto dos altos preços do petróleo, companhias aéreas de baixo custo da Coreia do Sul estão reduzindo planos de operação e ajustando a gestão de pessoal. A Jeju Air informou no dia 8 que aplicará, durante o mês de junho, licença sem salário a comissários de bordo que se candidatarem voluntariamente. Segundo o texto original, o corte de operações das low costs chega a 900 voos. O aumento do peso do combustível de aviação elevou a pressão por redução de custos, levando a menos voos e a licenças sem remuneração. A medida mostra a sensibilidade do setor de baixo custo à demanda e à estrutura de custos. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Hohe Ölpreise treffen Billigflieger: 900 Flüge gestrichen, unbezahlter Urlaub",
-        "excerpt": "Wegen steigender Treibstoffkosten kürzen Billigfluggesellschaften 900 Flüge; Jeju Air bietet freiwilligem Kabinenpersonal im Juni einen Monat unbezahlten Urlaub an.",
-        "body": "Die hohen Ölpreise belasten südkoreanische Billigfluggesellschaften, die nun Flugpläne kürzen und ihre Personalplanung anpassen. Jeju Air teilte am 8. mit, dass Kabinenpersonal, das sich freiwillig meldet, im Juni einen Monat unbezahlten Urlaub nehmen kann. Dem Originalbericht zufolge beläuft sich die Kürzung bei Low-Cost-Airlines auf 900 Flüge. Die höheren Kosten für Flugtreibstoff erhöhen den Druck, Ausgaben zu senken, was zu weniger Flügen und unbezahltem Urlaub führt. Die Maßnahme zeigt, wie empfindlich das Geschäftsmodell der Billigflieger auf Nachfrage und Kostenstruktur reagiert. Halten hohe Ölpreise an, dürften Flugpläne und Arbeitsmodelle wichtige Branchenthemen bleiben. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Prix élevés du pétrole: les compagnies low cost réduisent 900 vols",
-        "excerpt": "Face à la hausse des coûts du carburant, les compagnies à bas coûts réduisent 900 vols, tandis que Jeju Air proposera en juin un congé sans solde au personnel de cabine volontaire.",
-        "body": "Sous l’effet des prix élevés du pétrole, les compagnies aériennes à bas coûts sud-coréennes réduisent leurs plans de vol et ajustent leur gestion du personnel. Jeju Air a indiqué le 8 qu’elle mettrait en place, pendant tout le mois de juin, un congé sans solde pour les membres du personnel de cabine volontaires. Selon le texte original, la réduction des opérations des compagnies low cost atteint 900 vols. La hausse du coût du carburant aérien accroît la pression pour réduire les dépenses, ce qui se traduit par moins de vols et des congés non rémunérés. Cette mesure illustre la sensibilité du secteur low cost à la demande et à la structure des coûts. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "ارتفاع النفط يدفع شركات الطيران منخفض التكلفة لخفض 900 رحلة وإجازات بلا أجر",
-        "excerpt": "مع تزايد ضغط أسعار الوقود المرتفعة، تخفض شركات الطيران منخفضة التكلفة 900 رحلة، وتطبق جيجو إير إجازة بلا أجر في يونيو على أفراد طاقم المقصورة الراغبين.",
-        "body": "بفعل تأثير ارتفاع أسعار النفط، بدأت شركات الطيران منخفضة التكلفة في كوريا الجنوبية تقليص خطط التشغيل وتعديل إدارة القوى العاملة. وقالت جيجو إير في الثامن من الشهر إنها ستطبق إجازة بلا أجر طوال شهر يونيو على أفراد طاقم المقصورة الذين يتقدمون طوعا. ووفقا للنص الأصلي، يصل حجم خفض الرحلات لدى شركات الطيران منخفضة التكلفة إلى 900 رحلة. وقد أدى ارتفاع عبء أسعار وقود الطائرات إلى زيادة الضغط لخفض التكاليف، ما انعكس في تقليص الرحلات والإجازات غير المدفوعة. وتظهر هذه الخطوة حساسية القطاع للطلب وهيكل التكاليف. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "महंगे तेल से लो-कॉस्ट एयरलाइंस 900 उड़ानें घटाएंगी, अवैतनिक अवकाश बढ़ा",
-        "excerpt": "ईंधन लागत का दबाव बढ़ने पर लो-कॉस्ट एयरलाइंस 900 उड़ानें घटा रही हैं, जबकि Jeju Air जून में इच्छुक केबिन क्रू को एक महीने का अवैतनिक अवकाश देगी।",
-        "body": "तेल की ऊंची कीमतों के असर से दक्षिण कोरिया की लो-कॉस्ट एयरलाइंस उड़ान योजनाएं घटा रही हैं और कर्मचारियों के संचालन में बदलाव कर रही हैं। Jeju Air ने 8 तारीख को कहा कि वह जून के पूरे महीने के लिए इच्छुक केबिन क्रू सदस्यों को अवैतनिक अवकाश देगी। मूल रिपोर्ट के अनुसार, लो-कॉस्ट एयरलाइंस की उड़ान कटौती का पैमाना 900 उड़ानों तक पहुंचता है। विमान ईंधन की कीमतों का बोझ बढ़ने से लागत घटाने का दबाव बढ़ा है, जिसके चलते उड़ानें कम करने और अवैतनिक अवकाश जैसे कदम उठाए जा रहे हैं। यह कदम दिखाता है कि लो-कॉस्ट एयरलाइन क्षेत्र मांग और लागत संरचना के प्रति कितना संवेदनशील है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Harga Minyak Tinggi, Maskapai LCC Pangkas 900 Penerbangan dan Cuti Tanpa Gaji",
-        "excerpt": "Tekanan harga bahan bakar yang tinggi membuat maskapai berbiaya rendah memangkas 900 penerbangan, sementara Jeju Air menerapkan cuti tanpa gaji bagi awak kabin sukarela pada Juni.",
-        "body": "Dampak harga minyak yang tinggi membuat maskapai berbiaya rendah di Korea Selatan mengurangi rencana penerbangan dan menyesuaikan pengelolaan tenaga kerja. Jeju Air pada tanggal 8 menyatakan akan menerapkan cuti tanpa gaji selama satu bulan pada Juni bagi awak kabin yang mengajukan diri. Menurut teks asli, skala pengurangan operasi maskapai LCC mencapai 900 penerbangan. Beban harga bahan bakar pesawat yang meningkat menambah tekanan untuk menekan biaya, sehingga berujung pada pengurangan penerbangan dan cuti tanpa gaji. Langkah ini menunjukkan sensitivitas industri LCC terhadap permintaan dan struktur biaya. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cfb5be7d479e",
-    "slug": "20대의-테슬라-기아-제치고-지난달-국내-전기차-첫-1위-348988",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T21:32:32.496Z",
-    "updatedAt": "2026-05-09T21:32:32.496Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509042700003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509042700003",
-    "titleFingerprint": "7896331f2884b3abc9c1971d827cba1f84d2321d",
-    "dedupKeys": [
-      "cfb5be7d479e3e2ef1fb0ed7f0f76abb3924bf52",
-      "7896331f2884b3abc9c1971d827cba1f84d2321d",
-      "d74d14b5e2011c527047156bb61999944588467f"
-    ],
-    "imageUrl": "/images/articles/cfb5be7d479e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "테슬라, 기아 제치고 국내 승용 전기차 판매 첫 1위 올라",
-        "excerpt": "미국 테슬라가 지난달 국내 승용 전기차 시장에서 한국 기아를 처음으로 앞서며 판매 1위 브랜드에 올랐다고 연합뉴스가 보도했다.",
-        "body": "미국 전기차 브랜드 테슬라가 지난달 국내 승용 전기차 분야에서 한국 기아를 처음으로 제치고 판매 1위 브랜드가 됐다. 보도에 따르면 테슬라는 국내 승용 전기차 판매 순위에서 기아를 앞서며 월간 기준 선두에 올랐다. 이번 결과는 국내 전기차 시장에서 수입 브랜드인 테슬라가 한국 완성차 브랜드 기아를 처음 넘어섰다는 점에서 주목된다. 다만 원문 요약에는 구체적인 판매 대수나 차종별 실적은 포함되지 않았다. 향후 국내 승용 전기차 브랜드 경쟁 구도에 관심이 이어질 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Tesla Tops Kia to Lead South Korea Passenger EV Sales for First Time",
-        "excerpt": "Tesla became the top-selling passenger electric vehicle brand in South Korea last month, overtaking Kia for the first time, Yonhap News Agency reported.",
-        "body": "Tesla became the No. 1 brand in South Korea's passenger electric vehicle segment last month, overtaking Kia for the first time. According to the report, the U.S. electric vehicle maker moved ahead of the Korean automaker in monthly passenger EV sales. The result draws attention because Tesla, an imported brand, surpassed Kia in the domestic passenger EV ranking for the first time. The original summary did not provide specific sales volumes or model-level figures. Market attention is likely to remain on how competition among passenger EV brands in South Korea develops. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "テスラ、起亜を抜き韓国乗用EV販売で初の首位に",
-        "excerpt": "米テスラが先月、韓国の乗用電気自動車市場で起亜を初めて上回り、販売首位ブランドになったと聯合ニュースが報じた。",
-        "body": "米電気自動車ブランドのテスラが先月、韓国の乗用電気自動車分野で起亜を初めて抜き、販売首位ブランドとなった。報道によると、テスラは韓国国内の乗用EV販売順位で韓国完成車ブランドの起亜を上回り、月間ベースでトップに立った。今回の結果は、輸入ブランドであるテスラが国内乗用EV市場で起亜を初めて超えた点で注目される。原文の要約には具体的な販売台数や車種別実績は含まれていない。今後、韓国の乗用EVブランド間の競争構図に関心が続く見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "特斯拉首次超越起亚，登顶韩国乘用电动车销量榜",
-        "excerpt": "据韩联社报道，美国特斯拉上月在韩国乘用电动车市场首次超过韩国起亚，成为销量第一品牌。",
-        "body": "美国电动车品牌特斯拉上月在韩国乘用电动车领域首次超过韩国起亚，成为销量第一品牌。报道称，特斯拉在韩国国内乘用电动车月度销量排名中领先起亚，登上首位。这一结果受到关注，因为作为进口品牌的特斯拉首次在韩国乘用电动车市场超过本土整车品牌起亚。原文摘要未提供具体销量或按车型划分的业绩数据。未来，韩国乘用电动车品牌之间的竞争格局预计仍将受到市场关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Tesla supera a Kia y lidera por primera vez los eléctricos en Corea",
-        "excerpt": "Tesla fue el mes pasado la marca más vendida de vehículos eléctricos de pasajeros en Corea del Sur, superando por primera vez a Kia, informó Yonhap.",
-        "body": "Tesla se convirtió el mes pasado en la marca número uno en el segmento de vehículos eléctricos de pasajeros de Corea del Sur, tras superar por primera vez a Kia. Según el reporte, la automotriz eléctrica estadounidense quedó por delante de la marca coreana en las ventas mensuales de eléctricos de pasajeros. El resultado destaca porque Tesla, una marca importada, rebasó por primera vez a Kia en este mercado local. El resumen original no incluyó cifras concretas de ventas ni resultados por modelo. La atención seguirá centrada en la evolución de la competencia entre marcas de vehículos eléctricos de pasajeros en Corea del Sur. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Tesla supera Kia e lidera elétricos de passeio na Coreia pela 1ª vez",
-        "excerpt": "A Tesla foi no mês passado a marca líder em vendas de veículos elétricos de passeio na Coreia do Sul, ultrapassando a Kia pela primeira vez, informou a Yonhap.",
-        "body": "A Tesla tornou-se no mês passado a marca número um no segmento de veículos elétricos de passeio da Coreia do Sul, superando a Kia pela primeira vez. Segundo a reportagem, a fabricante americana de veículos elétricos ficou à frente da montadora coreana nas vendas mensais de elétricos de passeio. O resultado chama atenção porque a Tesla, uma marca importada, ultrapassou pela primeira vez a Kia nesse mercado doméstico. O resumo original não trouxe volumes específicos de vendas nem desempenho por modelo. A evolução da disputa entre marcas de veículos elétricos de passeio na Coreia do Sul deve continuar no foco do mercado. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Tesla überholt Kia und führt Koreas Pkw-Elektroautomarkt erstmals an",
-        "excerpt": "Tesla war im vergangenen Monat die meistverkaufte Marke für elektrische Pkw in Südkorea und lag erstmals vor Kia, wie Yonhap berichtete.",
-        "body": "Tesla ist im vergangenen Monat zur Nummer eins im südkoreanischen Segment der elektrischen Pkw aufgestiegen und hat Kia erstmals überholt. Dem Bericht zufolge lag der US-Elektroautohersteller bei den monatlichen Verkäufen von elektrischen Pkw vor dem koreanischen Autobauer. Das Ergebnis ist bemerkenswert, weil Tesla als Importmarke Kia im heimischen Markt für elektrische Pkw zum ersten Mal übertraf. Die ursprüngliche Zusammenfassung nannte keine konkreten Verkaufszahlen und keine Ergebnisse nach Modell. Der weitere Wettbewerb zwischen den Marken im südkoreanischen Pkw-Elektroautomarkt dürfte daher aufmerksam verfolgt werden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Tesla dépasse Kia et prend pour la première fois la tête des VE en Corée",
-        "excerpt": "Tesla est devenue le mois dernier la première marque de voitures électriques particulières en Corée du Sud, devant Kia pour la première fois, selon Yonhap.",
-        "body": "Tesla est devenue le mois dernier la marque numéro un du segment des voitures électriques particulières en Corée du Sud, en dépassant Kia pour la première fois. Selon le reportage, le constructeur américain de véhicules électriques a devancé le constructeur coréen dans les ventes mensuelles de voitures électriques particulières. Ce résultat retient l'attention car Tesla, marque importée, a dépassé Kia pour la première fois sur ce marché national. Le résumé original ne fournit pas de volumes de ventes précis ni de résultats par modèle. L'évolution de la concurrence entre marques de voitures électriques particulières en Corée du Sud devrait rester suivie. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "تسلا تتجاوز كيا وتتصدر مبيعات السيارات الكهربائية في كوريا لأول مرة",
-        "excerpt": "أصبحت تسلا الشهر الماضي العلامة الأكثر مبيعا في سوق سيارات الركاب الكهربائية في كوريا الجنوبية، متقدمة على كيا لأول مرة، وفق يونهاب.",
-        "body": "أصبحت تسلا، العلامة الأميركية للسيارات الكهربائية، الشهر الماضي العلامة الأولى في قطاع سيارات الركاب الكهربائية في كوريا الجنوبية بعد أن تجاوزت كيا للمرة الأولى. وبحسب التقرير، تقدمت تسلا على شركة كيا الكورية في ترتيب المبيعات الشهرية لسيارات الركاب الكهربائية داخل السوق المحلية. وتبرز أهمية النتيجة لأنها المرة الأولى التي تتفوق فيها تسلا، بوصفها علامة مستوردة، على كيا في هذا القطاع. ولم يتضمن الملخص الأصلي أرقاما محددة للمبيعات أو أداء حسب الطراز. ومن المتوقع أن يستمر الاهتمام باتجاه المنافسة بين علامات سيارات الركاب الكهربائية في كوريا الجنوبية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "टेस्ला ने किआ को पीछे छोड़ दक्षिण कोरिया EV बिक्री में पहली बार शीर्ष स्थान पाया",
-        "excerpt": "योनहाप के अनुसार, टेस्ला ने पिछले महीने दक्षिण कोरिया के यात्री इलेक्ट्रिक वाहन बाजार में पहली बार किआ को पीछे छोड़कर बिक्री में पहला स्थान हासिल किया।",
-        "body": "अमेरिकी इलेक्ट्रिक वाहन ब्रांड टेस्ला पिछले महीने दक्षिण कोरिया के यात्री इलेक्ट्रिक वाहन क्षेत्र में पहली बार किआ को पीछे छोड़कर बिक्री में शीर्ष ब्रांड बन गया। रिपोर्ट के अनुसार, टेस्ला ने मासिक यात्री EV बिक्री रैंकिंग में कोरियाई वाहन निर्माता किआ से आगे स्थान बनाया। यह परिणाम इसलिए ध्यान खींचता है क्योंकि आयातित ब्रांड टेस्ला ने घरेलू यात्री इलेक्ट्रिक वाहन बाजार में पहली बार किआ को पार किया है। मूल सारांश में बिक्री की विशिष्ट संख्या या मॉडलवार प्रदर्शन शामिल नहीं था। आगे दक्षिण कोरिया में यात्री EV ब्रांडों की प्रतिस्पर्धा पर बाजार की नजर बनी रह सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Tesla Salip Kia, Pertama Kali Pimpin Penjualan EV Penumpang Korea",
-        "excerpt": "Tesla menjadi merek kendaraan listrik penumpang terlaris di Korea Selatan bulan lalu setelah untuk pertama kalinya menyalip Kia, menurut Yonhap.",
-        "body": "Tesla menjadi merek nomor satu di segmen kendaraan listrik penumpang Korea Selatan bulan lalu setelah untuk pertama kalinya menyalip Kia. Menurut laporan tersebut, produsen kendaraan listrik asal Amerika Serikat itu berada di depan pabrikan Korea dalam penjualan bulanan EV penumpang. Hasil ini menarik perhatian karena Tesla, sebagai merek impor, untuk pertama kalinya melampaui Kia di pasar kendaraan listrik penumpang domestik. Ringkasan asli tidak memuat angka penjualan spesifik atau kinerja berdasarkan model. Perkembangan persaingan antar merek EV penumpang di Korea Selatan diperkirakan tetap menjadi perhatian pasar. Sumber: yna.co.kr"
       }
     }
   }
