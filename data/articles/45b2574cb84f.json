@@ -1,0 +1,75 @@
+{
+  "id": "45b2574cb84f",
+  "slug": "당신의-지인이-위험합니다챗gpt-자해-위험-알림-도입-887677",
+  "channelId": "FX",
+  "category": "fx",
+  "publishedAt": "2026-05-10T05:52:06.146Z",
+  "updatedAt": "2026-05-10T05:52:06.146Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/business/12042499",
+  "canonicalUrl": "https://www.mk.co.kr/news/business/12042499",
+  "titleFingerprint": "88e9a05797a48a87ff31b8dac2df0ccdca40e91d",
+  "dedupKeys": [
+    "45b2574cb84f572bdae5a4d88739ba5787d1ee6a",
+    "88e9a05797a48a87ff31b8dac2df0ccdca40e91d",
+    "f6ecfc838742a2bc63e0f7e79244aaa263a98baf"
+  ],
+  "imageUrl": "/images/articles/45b2574cb84f.png",
+  "i18n": {
+    "ko": {
+      "title": "챗GPT 자해 위험 알림 도입, ‘신뢰하는 사람’ 등록으로 지인에 통보",
+      "excerpt": "오픈AI가 챗GPT에서 사용자 자해 위험이 감지될 경우 미리 등록한 ‘신뢰하는 사람’에게 알림을 보내는 기능을 도입해 위기 대응을 강화한다.",
+      "body": "오픈AI가 챗GPT 사용자에게서 자해 위험 신호가 감지될 경우 미리 등록한 지인에게 알림을 보내는 기능을 도입한다. 사용자는 챗GPT에 ‘신뢰하는 사람’을 등록할 수 있으며, 시스템이 자해 위험을 발견하면 해당 사람에게 관련 알림이 전달되는 방식이다. 이번 기능은 대화형 AI 이용 과정에서 위험 징후가 나타날 때 주변인의 개입 가능성을 높이기 위한 조치로 풀이된다. 챗GPT 이용자가 위기 상황에 놓였을 때 사전에 지정한 사람이 이를 알 수 있게 되면서, 플랫폼의 안전 대응 체계에도 변화가 예상된다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "ChatGPT Adds Self-Harm Risk Alerts to Notify Trusted Contacts",
+      "excerpt": "OpenAI is introducing a ChatGPT feature that alerts a pre-registered “trusted person” when signs of a user’s self-harm risk are detected.",
+      "body": "OpenAI is introducing a feature in ChatGPT that sends an alert to a pre-registered contact when signs of a user’s self-harm risk are detected. Users will be able to register a “trusted person” in ChatGPT, and if the system identifies a self-harm risk, a related notification will be delivered to that person. The feature is aimed at increasing the possibility of intervention by people around the user when risk signals appear during use of conversational AI. If a ChatGPT user is in a crisis, a designated person may be informed in advance, marking a change in the platform’s safety response system. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "ChatGPT、自傷リスク通知を導入へ 「信頼する人」に危険を知らせる",
+      "excerpt": "OpenAIは、ChatGPTで利用者の自傷リスクが検知された場合、事前に登録した「信頼する人」へ通知する機能を導入する。",
+      "body": "OpenAIは、ChatGPT利用者に自傷リスクの兆候が検知された場合、事前に登録した知人へ通知を送る機能を導入する。利用者はChatGPTに「信頼する人」を登録でき、システムが自傷リスクを発見すると、その人物に関連通知が届く仕組みだ。今回の機能は、対話型AIの利用中に危険な兆候が現れた際、周囲の人が介入できる可能性を高めるための措置とみられる。ChatGPT利用者が危機的状況に置かれた場合、あらかじめ指定した人が把握できるようになり、プラットフォームの安全対応体制にも変化が見込まれる。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "ChatGPT将推出自伤风险提醒，可通知预设“信任的人”",
+      "excerpt": "OpenAI将为ChatGPT引入自伤风险提醒功能，当系统发现用户存在相关风险时，会向用户预先登记的“信任的人”发送通知。",
+      "body": "OpenAI将为ChatGPT推出一项功能：当检测到用户存在自伤风险信号时，系统会向用户预先登记的联系人发送提醒。用户可在ChatGPT中登记一名“信任的人”，一旦系统发现自伤风险，相关通知将传递给该联系人。此举被视为在对话式AI使用过程中出现危险迹象时，提高身边人介入可能性的措施。若ChatGPT用户处于危机状态，事先指定的人将有机会获知情况，平台的安全应对机制也预计将随之发生变化。来源：mk.co.kr"
+    },
+    "es": {
+      "title": "ChatGPT añadirá alertas de autolesión para avisar a contactos de confianza",
+      "excerpt": "OpenAI introducirá en ChatGPT una función que avisa a una “persona de confianza” registrada previamente si detecta riesgo de autolesión en el usuario.",
+      "body": "OpenAI introducirá en ChatGPT una función que enviará una alerta a un contacto registrado previamente cuando se detecten señales de riesgo de autolesión en un usuario. La persona usuaria podrá registrar en ChatGPT a una “persona de confianza”, y si el sistema identifica un riesgo de autolesión, esa persona recibirá la notificación correspondiente. La medida busca aumentar la posibilidad de intervención de personas cercanas cuando aparezcan señales de peligro durante el uso de la IA conversacional. Si un usuario de ChatGPT se encuentra en una situación de crisis, la persona designada podrá ser informada, lo que anticipa cambios en el sistema de respuesta de seguridad de la plataforma. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "ChatGPT terá alertas de risco de automutilação para contatos de confiança",
+      "excerpt": "A OpenAI vai introduzir no ChatGPT um recurso que avisa uma “pessoa de confiança” cadastrada quando sinais de risco de automutilação forem detectados.",
+      "body": "A OpenAI vai introduzir no ChatGPT um recurso que envia um alerta a um contato previamente cadastrado quando forem detectados sinais de risco de automutilação em um usuário. O usuário poderá registrar no ChatGPT uma “pessoa de confiança”, e, se o sistema identificar risco de automutilação, a notificação correspondente será encaminhada a essa pessoa. A medida busca aumentar a possibilidade de intervenção de pessoas próximas quando sinais de perigo surgirem durante o uso da IA conversacional. Caso um usuário do ChatGPT esteja em situação de crise, a pessoa designada poderá ser informada, indicando mudanças no sistema de resposta de segurança da plataforma. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "ChatGPT führt Warnung bei Selbstverletzungsrisiko für Vertrauenspersonen ein",
+      "excerpt": "OpenAI führt in ChatGPT eine Funktion ein, die eine zuvor registrierte „Vertrauensperson“ benachrichtigt, wenn ein Selbstverletzungsrisiko erkannt wird.",
+      "body": "OpenAI führt in ChatGPT eine Funktion ein, die eine zuvor registrierte Kontaktperson benachrichtigt, wenn bei einem Nutzer Hinweise auf ein Selbstverletzungsrisiko erkannt werden. Nutzer können in ChatGPT eine „Vertrauensperson“ hinterlegen; entdeckt das System ein entsprechendes Risiko, wird diese Person darüber informiert. Die Funktion soll die Möglichkeit erhöhen, dass Menschen im Umfeld eingreifen können, wenn während der Nutzung von konversationeller KI gefährliche Signale auftreten. Gerät ein ChatGPT-Nutzer in eine Krise, kann eine vorab bestimmte Person davon erfahren, was auf Änderungen im Sicherheitsreaktionssystem der Plattform hindeutet. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "ChatGPT va alerter un contact de confiance en cas de risque d’automutilation",
+      "excerpt": "OpenAI va intégrer à ChatGPT une fonction qui prévient une « personne de confiance » enregistrée à l’avance si un risque d’automutilation est détecté.",
+      "body": "OpenAI va intégrer à ChatGPT une fonction qui envoie une alerte à un contact enregistré à l’avance lorsque des signes de risque d’automutilation sont détectés chez un utilisateur. L’utilisateur pourra inscrire dans ChatGPT une « personne de confiance »; si le système identifie un risque, une notification sera transmise à cette personne. Cette mesure vise à accroître la possibilité d’intervention de proches lorsque des signaux de danger apparaissent lors de l’utilisation de l’IA conversationnelle. Si un utilisateur de ChatGPT se trouve en situation de crise, la personne désignée pourra en être informée, ce qui laisse prévoir une évolution du dispositif de sécurité de la plateforme. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "ChatGPT يضيف تنبيهات خطر إيذاء النفس لإبلاغ جهة موثوقة مسجلة مسبقا",
+      "excerpt": "تعتزم OpenAI إدخال ميزة في ChatGPT ترسل تنبيها إلى “شخص موثوق” مسجل مسبقا عند رصد مؤشرات على خطر إيذاء المستخدم لنفسه.",
+      "body": "تعتزم OpenAI إدخال ميزة في ChatGPT ترسل تنبيها إلى جهة اتصال مسجلة مسبقا عندما يتم رصد إشارات على خطر إيذاء المستخدم لنفسه. ويمكن للمستخدم تسجيل “شخص موثوق” داخل ChatGPT، وإذا اكتشف النظام خطرا متعلقا بإيذاء النفس فسيتم إرسال إشعار إلى ذلك الشخص. وتهدف هذه الخطوة إلى زيادة إمكانية تدخل المحيطين بالمستخدم عند ظهور مؤشرات خطر أثناء استخدام الذكاء الاصطناعي الحواري. وإذا كان مستخدم ChatGPT في وضع أزمة، فقد يتمكن الشخص المحدد مسبقا من معرفة ذلك، ما يشير إلى تغير في نظام استجابة السلامة على المنصة. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "ChatGPT में आत्म-हानि जोखिम अलर्ट, भरोसेमंद व्यक्ति को सूचना मिलेगी",
+      "excerpt": "OpenAI ChatGPT में ऐसी सुविधा ला रहा है जो उपयोगकर्ता में आत्म-हानि का जोखिम दिखने पर पहले से पंजीकृत “भरोसेमंद व्यक्ति” को अलर्ट भेजेगी।",
+      "body": "OpenAI ChatGPT में एक नई सुविधा ला रहा है, जिसके तहत उपयोगकर्ता में आत्म-हानि के जोखिम के संकेत मिलने पर पहले से पंजीकृत संपर्क को अलर्ट भेजा जाएगा। उपयोगकर्ता ChatGPT में “भरोसेमंद व्यक्ति” को दर्ज कर सकेगा, और यदि सिस्टम आत्म-हानि से जुड़ा जोखिम पहचानता है, तो संबंधित सूचना उस व्यक्ति तक पहुंचेगी। यह कदम संवादात्मक AI के उपयोग के दौरान खतरनाक संकेत दिखने पर आसपास के लोगों के हस्तक्षेप की संभावना बढ़ाने के उद्देश्य से देखा जा रहा है। यदि ChatGPT उपयोगकर्ता संकट की स्थिति में हो, तो पहले से चुना गया व्यक्ति इसकी जानकारी पा सकेगा, जिससे प्लेटफॉर्म की सुरक्षा प्रतिक्रिया व्यवस्था में बदलाव की उम्मीद है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "ChatGPT Siapkan Peringatan Risiko Melukai Diri ke Kontak Tepercaya",
+      "excerpt": "OpenAI akan menghadirkan fitur ChatGPT yang memberi tahu “orang tepercaya” yang didaftarkan sebelumnya saat risiko pengguna melukai diri terdeteksi.",
+      "body": "OpenAI akan menghadirkan fitur di ChatGPT yang mengirimkan peringatan kepada kontak yang telah didaftarkan sebelumnya ketika tanda risiko pengguna melukai diri terdeteksi. Pengguna dapat mendaftarkan “orang tepercaya” di ChatGPT, dan jika sistem menemukan risiko melukai diri, pemberitahuan terkait akan dikirim kepada orang tersebut. Fitur ini bertujuan meningkatkan kemungkinan intervensi dari orang sekitar ketika tanda bahaya muncul selama penggunaan AI percakapan. Jika pengguna ChatGPT berada dalam situasi krisis, orang yang telah ditentukan sebelumnya dapat mengetahuinya, sehingga sistem respons keselamatan platform diperkirakan ikut berubah. Sumber: mk.co.kr"
+    }
+  }
+}

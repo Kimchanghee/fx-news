@@ -1,5 +1,230 @@
 [
   {
+    "id": "3728f7ca1e0a",
+    "slug": "롯데웰푸드-분석-구조적-이익-개선-가능성을-충분히-반영하지-못한-주가-355171",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T05:54:24.852Z",
+    "updatedAt": "2026-05-10T05:54:24.852Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605106305i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605106305i",
+    "titleFingerprint": "feb8900d3991b062865c1a7412791bc723f453cb",
+    "dedupKeys": [
+      "3728f7ca1e0a247a26ed89f9713d4fdd40164778",
+      "feb8900d3991b062865c1a7412791bc723f453cb",
+      "d9d90cfa60c63293ef291a85f4ea31e0746a7053"
+    ],
+    "imageUrl": "/images/articles/3728f7ca1e0a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "롯데웰푸드 주가 분석, 구조적 이익 개선 기대가 덜 반영됐나",
+        "excerpt": "한국경제는 롯데웰푸드 주가가 구조적 이익 개선 가능성을 충분히 반영하지 못했다는 분석을 전하며 투자 판단의 핵심 변수를 짚었다.",
+        "body": "한국경제는 롯데웰푸드에 대해 현재 주가가 구조적 이익 개선 가능성을 충분히 반영하지 못했다는 분석을 전했다. 이번 분석의 핵심은 단기적인 주가 움직임보다 기업의 이익 체질 변화 가능성이 시장 가격에 얼마나 반영됐는지에 있다. 롯데웰푸드는 식품 업종 내 주요 상장사로, 투자자들은 실적 흐름과 수익성 개선 여부를 함께 살피고 있다. 기사 제목이 강조한 구조적 이익 개선은 일시적 요인이 아닌 지속 가능한 수익성 변화 가능성을 가리킨다. 향후 주가 평가는 이 같은 개선 가능성이 실제 실적과 시장 기대에 어떻게 연결되는지에 따라 달라질 수 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Lotte Wellfood Stock Analysis: Has Structural Profit Upside Been Underpriced?",
+        "excerpt": "Hankyung reported an analysis suggesting Lotte Wellfood’s share price may not fully reflect the possibility of structural profit improvement.",
+        "body": "Hankyung reported an analysis of Lotte Wellfood stating that the current share price may not fully reflect the possibility of structural profit improvement. The focus is not only on short-term stock moves but on how much potential change in the company’s earnings profile has been priced in by the market. As a major listed food company, Lotte Wellfood is being watched by investors for both earnings trends and profitability improvement. The phrase structural profit improvement points to the possibility of sustainable profitability change rather than a temporary factor. Future share-price evaluation may depend on how that improvement potential connects with actual results and market expectations. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ロッテウェルフード株価分析、構造的な利益改善余地は未反映か",
+        "excerpt": "韓国経済新聞は、ロッテウェルフードの株価が構造的な利益改善の可能性を十分に反映していないとの分析を伝えた。",
+        "body": "韓国経済新聞は、ロッテウェルフードについて、現在の株価が構造的な利益改善の可能性を十分に反映していないとの分析を伝えた。今回の焦点は、短期的な株価変動だけでなく、同社の利益体質が変わる可能性を市場価格がどこまで織り込んでいるかにある。ロッテウェルフードは食品業界の主要上場企業であり、投資家は業績の流れと収益性改善の有無をあわせて見ている。構造的な利益改善という表現は、一時的要因ではなく持続的な収益性変化の可能性を示す。今後の株価評価は、この改善余地が実際の業績と市場期待にどう結びつくかに左右される可能性がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "乐天Wellfood股价分析：结构性盈利改善预期是否尚未充分反映",
+        "excerpt": "韩国经济新闻报道称，有分析认为乐天Wellfood当前股价尚未充分反映结构性盈利改善的可能性。",
+        "body": "韩国经济新闻报道称，关于乐天Wellfood，有分析认为当前股价尚未充分反映结构性盈利改善的可能性。此次分析的重点不只是短期股价波动，而是市场价格在多大程度上反映了公司盈利体质变化的可能性。乐天Wellfood是食品行业的重要上市公司，投资者同时关注其业绩走势和盈利能力改善情况。标题中强调的结构性盈利改善，指向的并非一次性因素，而是可持续盈利能力变化的可能。未来股价评价或将取决于这种改善可能性如何与实际业绩和市场预期相连接。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Análisis de Lotte Wellfood: ¿la acción no refleja aún la mejora estructural?",
+        "excerpt": "Hankyung informó de un análisis según el cual la acción de Lotte Wellfood no reflejaría plenamente la posibilidad de una mejora estructural de beneficios.",
+        "body": "Hankyung informó de un análisis sobre Lotte Wellfood que señala que el precio actual de la acción podría no reflejar plenamente la posibilidad de una mejora estructural de beneficios. El punto central no es solo el movimiento bursátil de corto plazo, sino cuánto ha incorporado el mercado un posible cambio en el perfil de ganancias de la empresa. Como una de las principales compañías cotizadas del sector alimentario, Lotte Wellfood es observada por los inversores por su evolución de resultados y su rentabilidad. La mejora estructural de beneficios alude a una posible transformación sostenible, no a un factor temporal. La valoración futura de la acción dependerá de cómo esa posibilidad se conecte con los resultados reales y las expectativas del mercado. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Análise da Lotte Wellfood: ação ainda não precifica melhora estrutural?",
+        "excerpt": "O Hankyung informou uma análise segundo a qual a ação da Lotte Wellfood pode não refletir plenamente a possibilidade de melhora estrutural dos lucros.",
+        "body": "O Hankyung informou uma análise sobre a Lotte Wellfood segundo a qual o preço atual da ação pode não refletir plenamente a possibilidade de melhora estrutural dos lucros. O foco não está apenas nos movimentos de curto prazo da ação, mas em quanto o mercado já incorporou uma possível mudança no perfil de rentabilidade da empresa. Como uma importante companhia listada do setor de alimentos, a Lotte Wellfood é acompanhada por investidores em relação à trajetória de resultados e à melhora da lucratividade. A expressão melhora estrutural dos lucros aponta para uma mudança sustentável de rentabilidade, e não para um fator temporário. A avaliação futura da ação pode depender de como esse potencial se conecta aos resultados reais e às expectativas do mercado. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Lotte-Wellfood-Analyse: Spiegelt die Aktie strukturelle Gewinnchancen noch nicht wider?",
+        "excerpt": "Hankyung berichtete über eine Analyse, wonach der Kurs von Lotte Wellfood das Potenzial struktureller Gewinnverbesserungen nicht vollständig widerspiegelt.",
+        "body": "Hankyung berichtete über eine Analyse zu Lotte Wellfood, wonach der aktuelle Aktienkurs das Potenzial struktureller Gewinnverbesserungen möglicherweise nicht vollständig widerspiegelt. Im Mittelpunkt steht nicht nur die kurzfristige Kursbewegung, sondern die Frage, wie stark der Markt eine mögliche Veränderung der Ertragsqualität bereits eingepreist hat. Als wichtiger börsennotierter Lebensmittelkonzern wird Lotte Wellfood von Anlegern mit Blick auf Ergebnisentwicklung und Rentabilitätsverbesserung beobachtet. Der Begriff strukturelle Gewinnverbesserung verweist auf eine mögliche nachhaltige Veränderung der Profitabilität, nicht auf einen einmaligen Effekt. Die künftige Bewertung der Aktie dürfte davon abhängen, wie sich dieses Potenzial mit tatsächlichen Ergebnissen und Markterwartungen verbindet. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Analyse de Lotte Wellfood : le potentiel de bénéfices structurels est-il sous-évalué ?",
+        "excerpt": "Hankyung a rapporté une analyse selon laquelle le cours de Lotte Wellfood ne refléterait pas pleinement le potentiel d’amélioration structurelle des bénéfices.",
+        "body": "Hankyung a rapporté une analyse de Lotte Wellfood indiquant que le cours actuel de l’action pourrait ne pas refléter pleinement le potentiel d’amélioration structurelle des bénéfices. L’enjeu ne porte pas seulement sur les mouvements de court terme du titre, mais sur la part de ce possible changement du profil bénéficiaire déjà intégrée par le marché. Lotte Wellfood, grande société cotée du secteur alimentaire, est suivie par les investisseurs pour l’évolution de ses résultats et de sa rentabilité. L’expression amélioration structurelle des bénéfices renvoie à une possible transformation durable de la rentabilité, et non à un facteur temporaire. L’évaluation future du titre dépendra de la manière dont ce potentiel se reliera aux résultats effectifs et aux attentes du marché. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "تحليل سهم لوتيه ويل فود: هل لم ينعكس تحسن الأرباح الهيكلي بعد؟",
+        "excerpt": "ذكرت هانكيونغ تحليلا يفيد بأن سعر سهم لوتيه ويل فود قد لا يعكس بالكامل احتمال تحسن الأرباح بشكل هيكلي.",
+        "body": "ذكرت هانكيونغ في تحليل عن لوتيه ويل فود أن سعر السهم الحالي قد لا يعكس بالكامل احتمال تحسن الأرباح بشكل هيكلي. ولا يتركز الاهتمام على حركة السهم القصيرة الأجل فقط، بل على مدى إدراج السوق لاحتمال تغير بنية أرباح الشركة في السعر. وتعد لوتيه ويل فود من الشركات المدرجة الرئيسية في قطاع الأغذية، لذلك يتابع المستثمرون مسار نتائجها ومدى تحسن ربحيتها. ويشير تعبير تحسن الأرباح الهيكلي إلى احتمال تغير مستدام في الربحية، لا إلى عامل مؤقت. وقد يعتمد تقييم السهم لاحقا على كيفية ارتباط هذا الاحتمال بالنتائج الفعلية وتوقعات السوق. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Lotte Wellfood शेयर विश्लेषण: क्या संरचनात्मक लाभ सुधार अभी कम आंका गया है?",
+        "excerpt": "Hankyung ने बताया कि Lotte Wellfood के शेयर मूल्य में संरचनात्मक लाभ सुधार की संभावना पूरी तरह शामिल नहीं हो सकती।",
+        "body": "Hankyung ने Lotte Wellfood पर एक विश्लेषण में कहा कि मौजूदा शेयर मूल्य में संरचनात्मक लाभ सुधार की संभावना पूरी तरह शामिल नहीं हो सकती। मुख्य मुद्दा केवल अल्पकालिक शेयर चाल नहीं है, बल्कि यह है कि कंपनी की कमाई की गुणवत्ता में संभावित बदलाव को बाजार ने कीमत में कितना शामिल किया है। खाद्य क्षेत्र की प्रमुख सूचीबद्ध कंपनियों में से एक होने के कारण Lotte Wellfood पर निवेशक नतीजों की दिशा और लाभप्रदता सुधार दोनों के लिहाज से नजर रख रहे हैं। संरचनात्मक लाभ सुधार का अर्थ किसी अस्थायी कारण से नहीं, बल्कि टिकाऊ लाभप्रदता परिवर्तन की संभावना से है। आगे शेयर का मूल्यांकन इस बात पर निर्भर कर सकता है कि यह सुधार संभावना वास्तविक नतीजों और बाजार अपेक्षाओं से कैसे जुड़ती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Analisis Saham Lotte Wellfood: Potensi Perbaikan Laba Struktural Belum Tercermin?",
+        "excerpt": "Hankyung melaporkan analisis bahwa harga saham Lotte Wellfood mungkin belum sepenuhnya mencerminkan potensi perbaikan laba struktural.",
+        "body": "Hankyung melaporkan analisis tentang Lotte Wellfood yang menyebut harga saham saat ini mungkin belum sepenuhnya mencerminkan potensi perbaikan laba struktural. Fokusnya bukan hanya pergerakan saham jangka pendek, tetapi seberapa jauh pasar sudah memasukkan kemungkinan perubahan profil laba perusahaan ke dalam harga. Sebagai salah satu emiten utama di sektor makanan, Lotte Wellfood dipantau investor dari sisi tren kinerja dan perbaikan profitabilitas. Istilah perbaikan laba struktural mengarah pada kemungkinan perubahan profitabilitas yang berkelanjutan, bukan faktor sementara. Penilaian saham ke depan dapat bergantung pada bagaimana potensi tersebut terhubung dengan hasil aktual dan ekspektasi pasar. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "a0727fdafc5a",
+    "slug": "광주-여고생-살해-피의자-사이코패스-검사-결과-내일11일-공개-237439",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T05:53:24.588Z",
+    "updatedAt": "2026-05-10T05:53:24.588Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051063437",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051063437",
+    "titleFingerprint": "ff87af65cac399849bbe90cb655b6652c93494d1",
+    "dedupKeys": [
+      "a0727fdafc5a8d1c7d6e3d03b8abe517374ea1d1",
+      "ff87af65cac399849bbe90cb655b6652c93494d1",
+      "90e39c045b72ecb6b2603c10fba4f691723f2f0c"
+    ],
+    "imageUrl": "/images/articles/a0727fdafc5a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "광주 여고생 살해 피의자 사이코패스 검사 결과, 11일 공개 예정",
+        "excerpt": "광주에서 여고생을 살해하고 남고생에게 흉기를 휘두른 혐의를 받는 24세 피의자의 사이코패스 검사 결과가 11일 공개될 예정이라고 hankyung.com이 전했다.",
+        "body": "광주 도심에서 여고생을 살해하고 남고생에게 중상을 입힌 혐의를 받는 24세 피의자 장모 씨의 사이코패스 검사 결과가 11일 공개될 예정이다. 사건은 지난 5일 0시 11분께 광주 광산구 월계동 한 대학교 인근 보행로에서 발생했다. 경찰에 따르면 장 씨는 고교 2학년 A양(17)을 흉기로 찔러 숨지게 하고, 다른 고교생 B군(17)에게도 흉기를 휘두른 혐의로 구속됐다. 경찰은 범행 동기와 계획성 여부를 계속 수사하고 있으며, 신상정보 공개 절차도 진행 중이다. 검사 결과 공개는 수사의 향후 방향과 사건 경위 규명에 영향을 줄 전망이다. 출처: hankyung.com 인용."
+      },
+      "en": {
+        "title": "Gwangju High School Girl Murder Suspect’s Psychopathy Test Result Due May 11",
+        "excerpt": "The psychopathy test result for a 24-year-old suspect accused of killing a high school girl and attacking a male student in Gwangju is set to be released on May 11, hankyung.com reported.",
+        "body": "The psychopathy test result for Jang, a 24-year-old suspect accused of killing a high school girl and seriously injuring a male student in downtown Gwangju, is scheduled to be released on May 11. The incident occurred at around 12:11 a.m. on May 5 on a walkway near a university in Wolgye-dong, Gwangsan-gu, Gwangju. According to police, Jang was arrested on allegations of fatally stabbing a 17-year-old second-year high school student and attacking another 17-year-old student with a weapon. Investigators are continuing to examine the motive and whether the crime was planned, while procedures to disclose the suspect’s identity are also under way. The test result is expected to affect the direction of the investigation. Source: cited from hankyung.com."
+      },
+      "ja": {
+        "title": "光州女子高校生殺害容疑者のサイコパス検査結果、11日に公開へ",
+        "excerpt": "光州で女子高校生を殺害し男子高校生にも刃物を振るった疑いがある24歳の容疑者について、サイコパス検査の結果が11日に公開される予定だとhankyung.comが報じた。",
+        "body": "光州都心で女子高校生を殺害し、男子高校生に重傷を負わせた疑いがある24歳の容疑者チャン氏のサイコパス検査結果が、11日に公開される予定だ。事件は5日午前0時11分ごろ、光州広域市光山区月桂洞の大学近くの歩道で発生した。警察によると、チャン氏は高校2年のAさん（17）を刃物で刺して死亡させ、別の高校生Bさん（17）にも刃物を振るった疑いで拘束された。警察は犯行動機や計画性の有無を引き続き調べており、身元情報公開の手続きも進めている。検査結果の公開は、今後の捜査方針と事件経緯の解明に影響するとみられる。出典：hankyung.com引用。"
+      },
+      "zh": {
+        "title": "光州女高中生遇害案嫌疑人精神病态检测结果将于11日公开",
+        "excerpt": "据hankyung.com报道，涉嫌在光州杀害一名女高中生并持刀攻击一名男高中生的24岁嫌疑人，其精神病态检测结果预计将于11日公开。",
+        "body": "涉嫌在光州市中心杀害一名女高中生并导致一名男高中生重伤的24岁嫌疑人张某，其精神病态检测结果预计将于11日公开。案件发生在5日0时11分许，地点位于光州广域市光山区月桂洞一所大学附近的人行道。警方称，张某因涉嫌持刀刺死一名17岁高二女生A某，并向另一名17岁高中生B某挥刀攻击，已被拘留。警方正继续调查作案动机以及是否存在预谋，同时也在推进嫌疑人身份信息公开程序。检测结果的公布预计将影响后续侦查方向和案件经过的查明。来源：引用hankyung.com。"
+      },
+      "es": {
+        "title": "Resultado de prueba de psicopatía del sospechoso de asesinato en Gwangju saldrá el 11",
+        "excerpt": "El resultado de la prueba de psicopatía a un sospechoso de 24 años acusado de matar a una estudiante y atacar a otro alumno en Gwangju se publicará el 11 de mayo, informó hankyung.com.",
+        "body": "El resultado de la prueba de psicopatía realizada a Jang, sospechoso de 24 años acusado de matar a una estudiante de secundaria y herir gravemente a un alumno en el centro de Gwangju, está previsto para el 11 de mayo. El hecho ocurrió alrededor de las 0:11 del 5 de mayo en un sendero cercano a una universidad en Wolgye-dong, distrito de Gwangsan, Gwangju. Según la policía, Jang fue detenido por presuntamente apuñalar mortalmente a una alumna de segundo año de secundaria de 17 años y atacar con un arma blanca a otro estudiante de 17 años. La policía sigue investigando el motivo y si hubo planificación, mientras avanza el procedimiento para revelar la identidad del sospechoso. El resultado puede influir en el rumbo de la investigación. Fuente: citado de hankyung.com."
+      },
+      "pt": {
+        "title": "Resultado de teste de psicopatia de suspeito em Gwangju será divulgado no dia 11",
+        "excerpt": "O resultado do teste de psicopatia de um suspeito de 24 anos acusado de matar uma estudante e atacar outro aluno em Gwangju será divulgado em 11 de maio, informou o hankyung.com.",
+        "body": "O resultado do teste de psicopatia de Jang, suspeito de 24 anos acusado de matar uma estudante do ensino médio e ferir gravemente um aluno no centro de Gwangju, deve ser divulgado em 11 de maio. O caso ocorreu por volta de 0h11 de 5 de maio, em uma passagem para pedestres perto de uma universidade em Wolgye-dong, distrito de Gwangsan, Gwangju. Segundo a polícia, Jang foi preso sob acusação de esfaquear fatalmente uma estudante de 17 anos do segundo ano do ensino médio e atacar outro estudante de 17 anos com uma arma branca. A polícia continua apurando a motivação e se houve planejamento, enquanto também avança o processo de divulgação da identidade do suspeito. O resultado pode orientar os próximos passos da investigação. Fonte: citado de hankyung.com."
+      },
+      "de": {
+        "title": "Psychopathie-Test des Verdächtigen im Mordfall Gwangju soll am 11. Mai kommen",
+        "excerpt": "Das Ergebnis des Psychopathie-Tests eines 24-jährigen Verdächtigen, der in Gwangju eine Schülerin getötet und einen Schüler angegriffen haben soll, wird am 11. Mai veröffentlicht, berichtet hankyung.com.",
+        "body": "Das Ergebnis des Psychopathie-Tests von Jang, einem 24-jährigen Verdächtigen, der im Zentrum von Gwangju eine Oberschülerin getötet und einen Schüler schwer verletzt haben soll, soll am 11. Mai veröffentlicht werden. Der Vorfall ereignete sich am 5. Mai gegen 0:11 Uhr auf einem Fußweg nahe einer Universität in Wolgye-dong im Bezirk Gwangsan von Gwangju. Nach Angaben der Polizei wurde Jang wegen des Verdachts festgenommen, eine 17-jährige Schülerin tödlich erstochen und einen weiteren 17-jährigen Schüler mit einer Waffe angegriffen zu haben. Die Ermittler prüfen weiter das Motiv und eine mögliche Planung der Tat; zugleich läuft das Verfahren zur Offenlegung der Identität des Verdächtigen. Das Testergebnis dürfte die weitere Ermittlungsrichtung beeinflussen. Quelle: zitiert nach hankyung.com."
+      },
+      "fr": {
+        "title": "Résultat du test de psychopathie du suspect du meurtre à Gwangju attendu le 11 mai",
+        "excerpt": "Le résultat du test de psychopathie d’un suspect de 24 ans accusé d’avoir tué une lycéenne et attaqué un lycéen à Gwangju doit être publié le 11 mai, selon hankyung.com.",
+        "body": "Le résultat du test de psychopathie de Jang, suspect de 24 ans accusé d’avoir tué une lycéenne et grièvement blessé un lycéen dans le centre de Gwangju, doit être publié le 11 mai. Les faits se sont produits le 5 mai vers 0 h 11 sur un chemin piéton près d’une université à Wolgye-dong, dans l’arrondissement de Gwangsan à Gwangju. Selon la police, Jang a été placé en détention pour avoir présumément poignardé mortellement une lycéenne de 17 ans en deuxième année et attaqué un autre élève de 17 ans avec une arme blanche. Les enquêteurs poursuivent leurs recherches sur le mobile et le caractère prémédité éventuel, tandis que la procédure de divulgation de l’identité du suspect avance. Le résultat pourrait peser sur la suite de l’enquête. Source : cité de hankyung.com."
+      },
+      "ar": {
+        "title": "نتيجة فحص السيكوباتية لمشتبه بقتل طالبة في غوانغجو ستعلن في 11 مايو",
+        "excerpt": "أفاد موقع hankyung.com بأن نتيجة فحص السيكوباتية لمشتبه به يبلغ 24 عاما، متهم بقتل طالبة ثانوية ومهاجمة طالب آخر في غوانغجو، ستعلن في 11 مايو.",
+        "body": "من المقرر إعلان نتيجة فحص السيكوباتية لجانغ، وهو مشتبه به يبلغ 24 عاما متهم بقتل طالبة ثانوية وإصابة طالب آخر بجروح خطيرة في وسط غوانغجو، في 11 مايو. ووقعت الحادثة نحو الساعة 0:11 من صباح 5 مايو على ممر للمشاة قرب جامعة في وولغي-دونغ بمنطقة غوانغسان في غوانغجو. ووفقا للشرطة، أوقف جانغ للاشتباه في طعنه طالبة في الصف الثاني الثانوي تبلغ 17 عاما حتى الموت، ومهاجمته طالبا آخر يبلغ 17 عاما بسلاح أبيض. وتواصل الشرطة التحقيق في الدافع وما إذا كانت الجريمة مخططة، كما تمضي في إجراءات الكشف عن هوية المشتبه به. ومن المتوقع أن تؤثر نتيجة الفحص في اتجاه التحقيق. المصدر: نقلا عن hankyung.com."
+      },
+      "hi": {
+        "title": "ग्वांगजू छात्रा हत्या संदिग्ध की साइकोपैथी जांच का नतीजा 11 मई को आएगा",
+        "excerpt": "hankyung.com के अनुसार, ग्वांगजू में एक छात्रा की हत्या और एक छात्र पर हमले के आरोपी 24 वर्षीय संदिग्ध की साइकोपैथी जांच का नतीजा 11 मई को सार्वजनिक किया जाएगा।",
+        "body": "ग्वांगजू के शहरी क्षेत्र में एक हाई स्कूल छात्रा की हत्या और एक छात्र को गंभीर रूप से घायल करने के आरोपी 24 वर्षीय संदिग्ध जांग की साइकोपैथी जांच का नतीजा 11 मई को सार्वजनिक होने वाला है। घटना 5 मई को रात 12:11 बजे के करीब ग्वांगजू के ग्वांगसान जिले के वोल्ग्ये-डोंग में एक विश्वविद्यालय के पास पैदल मार्ग पर हुई। पुलिस के अनुसार, जांग को 17 वर्षीय कक्षा 11 की छात्रा ए को चाकू मारकर मारने और 17 वर्षीय दूसरे छात्र बी पर भी धारदार हथियार से हमला करने के आरोप में गिरफ्तार किया गया है। पुलिस अपराध के मकसद और योजना की संभावना की जांच जारी रखे हुए है, साथ ही संदिग्ध की पहचान सार्वजनिक करने की प्रक्रिया भी चल रही है। जांच नतीजा आगे की जांच की दिशा को प्रभावित कर सकता है। स्रोत: hankyung.com से उद्धृत।"
+      },
+      "id": {
+        "title": "Hasil Tes Psikopati Tersangka Pembunuhan Siswi Gwangju Dirilis 11 Mei",
+        "excerpt": "Hasil tes psikopati terhadap tersangka berusia 24 tahun yang dituduh membunuh seorang siswi dan menyerang siswa lain di Gwangju akan dirilis pada 11 Mei, lapor hankyung.com.",
+        "body": "Hasil tes psikopati terhadap Jang, tersangka berusia 24 tahun yang dituduh membunuh seorang siswi SMA dan melukai parah seorang siswa di pusat kota Gwangju, dijadwalkan dirilis pada 11 Mei. Peristiwa itu terjadi sekitar pukul 00.11 pada 5 Mei di jalur pejalan kaki dekat sebuah universitas di Wolgye-dong, Distrik Gwangsan, Gwangju. Menurut polisi, Jang ditahan atas dugaan menikam hingga tewas seorang siswi kelas dua SMA berusia 17 tahun dan menyerang siswa lain berusia 17 tahun dengan senjata tajam. Polisi terus menyelidiki motif dan kemungkinan perencanaan, sementara prosedur pengungkapan identitas tersangka juga berjalan. Hasil tes diperkirakan memengaruhi arah penyelidikan berikutnya. Sumber: dikutip dari hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "45b2574cb84f",
+    "slug": "당신의-지인이-위험합니다챗gpt-자해-위험-알림-도입-887677",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T05:52:06.146Z",
+    "updatedAt": "2026-05-10T05:52:06.146Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12042499",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12042499",
+    "titleFingerprint": "88e9a05797a48a87ff31b8dac2df0ccdca40e91d",
+    "dedupKeys": [
+      "45b2574cb84f572bdae5a4d88739ba5787d1ee6a",
+      "88e9a05797a48a87ff31b8dac2df0ccdca40e91d",
+      "f6ecfc838742a2bc63e0f7e79244aaa263a98baf"
+    ],
+    "imageUrl": "/images/articles/45b2574cb84f.png",
+    "i18n": {
+      "ko": {
+        "title": "챗GPT 자해 위험 알림 도입, ‘신뢰하는 사람’ 등록으로 지인에 통보",
+        "excerpt": "오픈AI가 챗GPT에서 사용자 자해 위험이 감지될 경우 미리 등록한 ‘신뢰하는 사람’에게 알림을 보내는 기능을 도입해 위기 대응을 강화한다.",
+        "body": "오픈AI가 챗GPT 사용자에게서 자해 위험 신호가 감지될 경우 미리 등록한 지인에게 알림을 보내는 기능을 도입한다. 사용자는 챗GPT에 ‘신뢰하는 사람’을 등록할 수 있으며, 시스템이 자해 위험을 발견하면 해당 사람에게 관련 알림이 전달되는 방식이다. 이번 기능은 대화형 AI 이용 과정에서 위험 징후가 나타날 때 주변인의 개입 가능성을 높이기 위한 조치로 풀이된다. 챗GPT 이용자가 위기 상황에 놓였을 때 사전에 지정한 사람이 이를 알 수 있게 되면서, 플랫폼의 안전 대응 체계에도 변화가 예상된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "ChatGPT Adds Self-Harm Risk Alerts to Notify Trusted Contacts",
+        "excerpt": "OpenAI is introducing a ChatGPT feature that alerts a pre-registered “trusted person” when signs of a user’s self-harm risk are detected.",
+        "body": "OpenAI is introducing a feature in ChatGPT that sends an alert to a pre-registered contact when signs of a user’s self-harm risk are detected. Users will be able to register a “trusted person” in ChatGPT, and if the system identifies a self-harm risk, a related notification will be delivered to that person. The feature is aimed at increasing the possibility of intervention by people around the user when risk signals appear during use of conversational AI. If a ChatGPT user is in a crisis, a designated person may be informed in advance, marking a change in the platform’s safety response system. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ChatGPT、自傷リスク通知を導入へ 「信頼する人」に危険を知らせる",
+        "excerpt": "OpenAIは、ChatGPTで利用者の自傷リスクが検知された場合、事前に登録した「信頼する人」へ通知する機能を導入する。",
+        "body": "OpenAIは、ChatGPT利用者に自傷リスクの兆候が検知された場合、事前に登録した知人へ通知を送る機能を導入する。利用者はChatGPTに「信頼する人」を登録でき、システムが自傷リスクを発見すると、その人物に関連通知が届く仕組みだ。今回の機能は、対話型AIの利用中に危険な兆候が現れた際、周囲の人が介入できる可能性を高めるための措置とみられる。ChatGPT利用者が危機的状況に置かれた場合、あらかじめ指定した人が把握できるようになり、プラットフォームの安全対応体制にも変化が見込まれる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "ChatGPT将推出自伤风险提醒，可通知预设“信任的人”",
+        "excerpt": "OpenAI将为ChatGPT引入自伤风险提醒功能，当系统发现用户存在相关风险时，会向用户预先登记的“信任的人”发送通知。",
+        "body": "OpenAI将为ChatGPT推出一项功能：当检测到用户存在自伤风险信号时，系统会向用户预先登记的联系人发送提醒。用户可在ChatGPT中登记一名“信任的人”，一旦系统发现自伤风险，相关通知将传递给该联系人。此举被视为在对话式AI使用过程中出现危险迹象时，提高身边人介入可能性的措施。若ChatGPT用户处于危机状态，事先指定的人将有机会获知情况，平台的安全应对机制也预计将随之发生变化。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "ChatGPT añadirá alertas de autolesión para avisar a contactos de confianza",
+        "excerpt": "OpenAI introducirá en ChatGPT una función que avisa a una “persona de confianza” registrada previamente si detecta riesgo de autolesión en el usuario.",
+        "body": "OpenAI introducirá en ChatGPT una función que enviará una alerta a un contacto registrado previamente cuando se detecten señales de riesgo de autolesión en un usuario. La persona usuaria podrá registrar en ChatGPT a una “persona de confianza”, y si el sistema identifica un riesgo de autolesión, esa persona recibirá la notificación correspondiente. La medida busca aumentar la posibilidad de intervención de personas cercanas cuando aparezcan señales de peligro durante el uso de la IA conversacional. Si un usuario de ChatGPT se encuentra en una situación de crisis, la persona designada podrá ser informada, lo que anticipa cambios en el sistema de respuesta de seguridad de la plataforma. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "ChatGPT terá alertas de risco de automutilação para contatos de confiança",
+        "excerpt": "A OpenAI vai introduzir no ChatGPT um recurso que avisa uma “pessoa de confiança” cadastrada quando sinais de risco de automutilação forem detectados.",
+        "body": "A OpenAI vai introduzir no ChatGPT um recurso que envia um alerta a um contato previamente cadastrado quando forem detectados sinais de risco de automutilação em um usuário. O usuário poderá registrar no ChatGPT uma “pessoa de confiança”, e, se o sistema identificar risco de automutilação, a notificação correspondente será encaminhada a essa pessoa. A medida busca aumentar a possibilidade de intervenção de pessoas próximas quando sinais de perigo surgirem durante o uso da IA conversacional. Caso um usuário do ChatGPT esteja em situação de crise, a pessoa designada poderá ser informada, indicando mudanças no sistema de resposta de segurança da plataforma. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "ChatGPT führt Warnung bei Selbstverletzungsrisiko für Vertrauenspersonen ein",
+        "excerpt": "OpenAI führt in ChatGPT eine Funktion ein, die eine zuvor registrierte „Vertrauensperson“ benachrichtigt, wenn ein Selbstverletzungsrisiko erkannt wird.",
+        "body": "OpenAI führt in ChatGPT eine Funktion ein, die eine zuvor registrierte Kontaktperson benachrichtigt, wenn bei einem Nutzer Hinweise auf ein Selbstverletzungsrisiko erkannt werden. Nutzer können in ChatGPT eine „Vertrauensperson“ hinterlegen; entdeckt das System ein entsprechendes Risiko, wird diese Person darüber informiert. Die Funktion soll die Möglichkeit erhöhen, dass Menschen im Umfeld eingreifen können, wenn während der Nutzung von konversationeller KI gefährliche Signale auftreten. Gerät ein ChatGPT-Nutzer in eine Krise, kann eine vorab bestimmte Person davon erfahren, was auf Änderungen im Sicherheitsreaktionssystem der Plattform hindeutet. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "ChatGPT va alerter un contact de confiance en cas de risque d’automutilation",
+        "excerpt": "OpenAI va intégrer à ChatGPT une fonction qui prévient une « personne de confiance » enregistrée à l’avance si un risque d’automutilation est détecté.",
+        "body": "OpenAI va intégrer à ChatGPT une fonction qui envoie une alerte à un contact enregistré à l’avance lorsque des signes de risque d’automutilation sont détectés chez un utilisateur. L’utilisateur pourra inscrire dans ChatGPT une « personne de confiance »; si le système identifie un risque, une notification sera transmise à cette personne. Cette mesure vise à accroître la possibilité d’intervention de proches lorsque des signaux de danger apparaissent lors de l’utilisation de l’IA conversationnelle. Si un utilisateur de ChatGPT se trouve en situation de crise, la personne désignée pourra en être informée, ce qui laisse prévoir une évolution du dispositif de sécurité de la plateforme. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ChatGPT يضيف تنبيهات خطر إيذاء النفس لإبلاغ جهة موثوقة مسجلة مسبقا",
+        "excerpt": "تعتزم OpenAI إدخال ميزة في ChatGPT ترسل تنبيها إلى “شخص موثوق” مسجل مسبقا عند رصد مؤشرات على خطر إيذاء المستخدم لنفسه.",
+        "body": "تعتزم OpenAI إدخال ميزة في ChatGPT ترسل تنبيها إلى جهة اتصال مسجلة مسبقا عندما يتم رصد إشارات على خطر إيذاء المستخدم لنفسه. ويمكن للمستخدم تسجيل “شخص موثوق” داخل ChatGPT، وإذا اكتشف النظام خطرا متعلقا بإيذاء النفس فسيتم إرسال إشعار إلى ذلك الشخص. وتهدف هذه الخطوة إلى زيادة إمكانية تدخل المحيطين بالمستخدم عند ظهور مؤشرات خطر أثناء استخدام الذكاء الاصطناعي الحواري. وإذا كان مستخدم ChatGPT في وضع أزمة، فقد يتمكن الشخص المحدد مسبقا من معرفة ذلك، ما يشير إلى تغير في نظام استجابة السلامة على المنصة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ChatGPT में आत्म-हानि जोखिम अलर्ट, भरोसेमंद व्यक्ति को सूचना मिलेगी",
+        "excerpt": "OpenAI ChatGPT में ऐसी सुविधा ला रहा है जो उपयोगकर्ता में आत्म-हानि का जोखिम दिखने पर पहले से पंजीकृत “भरोसेमंद व्यक्ति” को अलर्ट भेजेगी।",
+        "body": "OpenAI ChatGPT में एक नई सुविधा ला रहा है, जिसके तहत उपयोगकर्ता में आत्म-हानि के जोखिम के संकेत मिलने पर पहले से पंजीकृत संपर्क को अलर्ट भेजा जाएगा। उपयोगकर्ता ChatGPT में “भरोसेमंद व्यक्ति” को दर्ज कर सकेगा, और यदि सिस्टम आत्म-हानि से जुड़ा जोखिम पहचानता है, तो संबंधित सूचना उस व्यक्ति तक पहुंचेगी। यह कदम संवादात्मक AI के उपयोग के दौरान खतरनाक संकेत दिखने पर आसपास के लोगों के हस्तक्षेप की संभावना बढ़ाने के उद्देश्य से देखा जा रहा है। यदि ChatGPT उपयोगकर्ता संकट की स्थिति में हो, तो पहले से चुना गया व्यक्ति इसकी जानकारी पा सकेगा, जिससे प्लेटफॉर्म की सुरक्षा प्रतिक्रिया व्यवस्था में बदलाव की उम्मीद है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "ChatGPT Siapkan Peringatan Risiko Melukai Diri ke Kontak Tepercaya",
+        "excerpt": "OpenAI akan menghadirkan fitur ChatGPT yang memberi tahu “orang tepercaya” yang didaftarkan sebelumnya saat risiko pengguna melukai diri terdeteksi.",
+        "body": "OpenAI akan menghadirkan fitur di ChatGPT yang mengirimkan peringatan kepada kontak yang telah didaftarkan sebelumnya ketika tanda risiko pengguna melukai diri terdeteksi. Pengguna dapat mendaftarkan “orang tepercaya” di ChatGPT, dan jika sistem menemukan risiko melukai diri, pemberitahuan terkait akan dikirim kepada orang tersebut. Fitur ini bertujuan meningkatkan kemungkinan intervensi dari orang sekitar ketika tanda bahaya muncul selama penggunaan AI percakapan. Jika pengguna ChatGPT berada dalam situasi krisis, orang yang telah ditentukan sebelumnya dapat mengetahuinya, sehingga sistem respons keselamatan platform diperkirakan ikut berubah. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "3b4d744d600a",
     "slug": "페리카나-불륜-소재-ai-광고-논란에-사과게시물-삭제-252278",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Kokun dan Nagomi Nakotako Umumkan Cerai Setelah 9 Tahun Pacaran dan 2 Tahun Menikah",
         "excerpt": "Pasangan Jepang Kokun dan Nagomi dari kanal terkenal ‘Nakotako’ menyinggung perceraian di akun masing-masing setelah laporan Oricon News pada tanggal 5, mengakhiri dua tahun pernikahan.",
         "body": "Kokun dan Nagomi, yang dikenal lewat kanal Jepang populer ‘Nakotako’, mengumumkan perceraian setelah dua tahun menikah. Oricon News melaporkan pada tanggal 5 bahwa keduanya menyebut perceraian di akun masing-masing dan menyampaikan perasaan mereka saat ini. Pasangan ini dikenal sebagai pasangan selebritas yang menikah setelah sembilan tahun berpacaran, sehingga kabar tersebut menarik perhatian. Menurut teks asli, Nagomi menjelaskan perceraian dengan maksud bahwa pembicaraan telah dilakukan. Karena perpisahan ini terjadi setelah hubungan panjang dan kehidupan pernikahan, penggemar memperhatikan aktivitas keduanya ke depan serta kemungkinan pernyataan tambahan di akun pribadi mereka. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "954b0f78d9be",
-    "slug": "로또-1등-16명-18억6천만원씩16-18-20-32-33-39-298879",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T19:02:34.935Z",
-    "updatedAt": "2026-05-09T19:02:34.935Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042381",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042381",
-    "titleFingerprint": "e1e61ecb44f598980a040d7912d0af2298deadd5",
-    "dedupKeys": [
-      "954b0f78d9be1dc5dc8ddfc579bb9ab87df8135b",
-      "e1e61ecb44f598980a040d7912d0af2298deadd5",
-      "cb7e61feccc55eb1c54d8844c4d1a512aba99a29"
-    ],
-    "imageUrl": "/images/articles/954b0f78d9be.jpg",
-    "i18n": {
-      "ko": {
-        "title": "로또 1223회 1등 16명, 당첨번호 16·18·20·32·33·39 공개",
-        "excerpt": "동행복권은 9일 제1223회 로또복권 추첨 결과 1등 당첨번호가 16, 18, 20, 32, 33, 39로 결정됐고 1등 16명이 각 18억6천만원씩 받는다고 밝혔다.",
-        "body": "로또복권 운영사 동행복권은 9일 제1223회 로또복권 추첨에서 1등 당첨번호가 ‘16, 18, 20, 32, 33, 39’로 뽑혔다고 밝혔다. 2등 보너스 번호는 ‘26’이다. 이번 회차 1등 당첨자는 모두 16명이며, 각각 18억6천만원씩 당첨금을 받는다. 공개된 번호와 당첨 인원, 1등 당첨금 규모는 로또 구매자들이 당첨 여부를 확인하는 핵심 기준이 된다. 당첨자는 공식 확인 절차와 지급 기준에 따라 당첨금을 수령하게 된다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Lotto 1223: 16 First-Prize Winners, Numbers 16·18·20·32·33·39",
-        "excerpt": "Donghaeng Lottery said on the 9th that the winning numbers for Lotto draw No. 1223 were 16, 18, 20, 32, 33 and 39, with 16 first-prize winners receiving 1.86 billion won each.",
-        "body": "Donghaeng Lottery, the operator of Lotto, said on the 9th that the first-prize winning numbers in the 1223rd Lotto draw were “16, 18, 20, 32, 33, 39.” The second-prize bonus number was “26.” A total of 16 players won first prize in this round, and each will receive 1.86 billion won. The announced numbers, number of winners and prize amount are the key information buyers need to check whether their tickets won. Winners will receive their prizes according to the official verification and payment procedures. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "ロト1223回、1等16人に18億6000万ウォンずつ 番号公開",
-        "excerpt": "同幸宝くじは9日、第1223回ロト抽選で1等当選番号が16、18、20、32、33、39に決まり、1等16人が各18億6000万ウォンを受け取ると発表した。",
-        "body": "ロト宝くじの運営会社である同幸宝くじは9日、第1223回ロト宝くじの抽選で1等当選番号が「16、18、20、32、33、39」に選ばれたと発表した。2等のボーナス番号は「26」だ。今回の回次の1等当選者は計16人で、それぞれ18億6000万ウォンの当選金を受け取る。公開された番号、当選者数、1等当選金の規模は、購入者が当選の有無を確認するための主要な基準となる。当選者は公式確認手続きと支給基準に従って当選金を受け取る。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "第1223期乐透头奖16人中奖 号码16·18·20·32·33·39公布",
-        "excerpt": "韩国乐透运营商Donghaeng Lottery于9日表示，第1223期乐透头奖号码为16、18、20、32、33、39，16名头奖得主每人获得18.6亿韩元。",
-        "body": "韩国乐透彩票运营商Donghaeng Lottery于9日表示，第1223期乐透彩票开奖结果中，头奖号码为“16、18、20、32、33、39”。二等奖特别号码为“26”。本期共有16名头奖中奖者，每人将获得18.6亿韩元奖金。公布的中奖号码、中奖人数和头奖金额，是购买彩票者核对是否中奖的核心信息。中奖者将按照官方确认程序和支付标准领取奖金。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Lotto 1223 deja 16 ganadores: números 16·18·20·32·33·39",
-        "excerpt": "Donghaeng Lottery informó el día 9 que los números ganadores del sorteo 1223 del Lotto fueron 16, 18, 20, 32, 33 y 39; 16 acertantes recibirán 1.860 millones de wones cada uno.",
-        "body": "Donghaeng Lottery, operadora del Lotto, informó el día 9 que los números ganadores del primer premio en el sorteo 1223 fueron “16, 18, 20, 32, 33, 39”. El número complementario del segundo premio fue “26”. En esta edición hubo 16 ganadores del primer premio, y cada uno recibirá 1.860 millones de wones. Los números publicados, la cantidad de ganadores y el monto del primer premio son la información clave para que los compradores comprueben sus boletos. Los ganadores cobrarán el premio según los procedimientos oficiales de verificación y pago. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Lotto 1223 tem 16 ganhadores; números 16·18·20·32·33·39",
-        "excerpt": "A Donghaeng Lottery informou no dia 9 que os números sorteados no concurso 1223 do Lotto foram 16, 18, 20, 32, 33 e 39, com 16 ganhadores recebendo 1,86 bilhão de won cada.",
-        "body": "A Donghaeng Lottery, operadora do Lotto, informou no dia 9 que os números vencedores do primeiro prêmio no sorteio 1223 foram “16, 18, 20, 32, 33, 39”. O número bônus do segundo prêmio foi “26”. Nesta rodada, houve 16 ganhadores do primeiro prêmio, e cada um receberá 1,86 bilhão de won. Os números divulgados, o total de ganhadores e o valor do prêmio principal são as informações essenciais para que os compradores verifiquem seus bilhetes. Os ganhadores receberão o prêmio conforme os procedimentos oficiais de confirmação e pagamento. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Lotto 1223: 16 Gewinner erhalten je 1,86 Mrd. Won, Zahlen veröffentlicht",
-        "excerpt": "Donghaeng Lottery teilte am 9. mit, dass die Gewinnzahlen der Lotto-Ziehung 1223 16, 18, 20, 32, 33 und 39 sind; 16 Erstpreisgewinner erhalten je 1,86 Milliarden Won.",
-        "body": "Donghaeng Lottery, der Betreiber der Lottoziehung, teilte am 9. mit, dass die Gewinnzahlen des ersten Preises in der 1223. Lottoziehung “16, 18, 20, 32, 33, 39” lauten. Die Zusatzzahl für den zweiten Preis ist “26”. In dieser Runde gibt es insgesamt 16 Gewinner des ersten Preises, die jeweils 1,86 Milliarden Won erhalten. Die veröffentlichten Zahlen, die Zahl der Gewinner und die Höhe des Hauptgewinns sind die zentralen Angaben, mit denen Käufer ihre Lose prüfen können. Die Gewinner erhalten ihre Preise nach den offiziellen Prüf- und Auszahlungsverfahren. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Lotto 1223: 16 gagnants du premier rang, numéros 16·18·20·32·33·39",
-        "excerpt": "Donghaeng Lottery a annoncé le 9 que les numéros gagnants du tirage Lotto 1223 étaient 16, 18, 20, 32, 33 et 39, avec 16 gagnants recevant chacun 1,86 milliard de wons.",
-        "body": "Donghaeng Lottery, l’opérateur du Lotto, a annoncé le 9 que les numéros gagnants du premier rang du 1223e tirage étaient « 16, 18, 20, 32, 33, 39 ». Le numéro bonus du deuxième rang est « 26 ». Cette édition compte au total 16 gagnants du premier rang, chacun devant recevoir 1,86 milliard de wons. Les numéros publiés, le nombre de gagnants et le montant du premier prix constituent les informations essentielles permettant aux acheteurs de vérifier leurs billets. Les gagnants recevront leur prix selon les procédures officielles de vérification et de paiement. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "لوتو 1223: 16 فائزا بالجائزة الأولى والأرقام 16·18·20·32·33·39",
-        "excerpt": "أعلنت Donghaeng Lottery في التاسع أن أرقام الفوز في سحب لوتو رقم 1223 هي 16 و18 و20 و32 و33 و39، وأن 16 فائزا بالجائزة الأولى سيحصل كل منهم على 1.86 مليار وون.",
-        "body": "أعلنت شركة Donghaeng Lottery، المشغلة لليانصيب لوتو، في التاسع أن أرقام الجائزة الأولى في السحب رقم 1223 جاءت “16، 18، 20، 32، 33، 39”. وكان رقم المكافأة للجائزة الثانية هو “26”. وبلغ عدد الفائزين بالجائزة الأولى في هذه الجولة 16 فائزا، وسيحصل كل منهم على 1.86 مليار وون. وتعد الأرقام المعلنة وعدد الفائزين وقيمة الجائزة الأولى المعلومات الأساسية التي يحتاجها المشترون للتحقق من تذاكرهم. وسيتسلم الفائزون الجوائز وفقا لإجراءات التحقق والدفع الرسمية. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "लॉटो 1223 में 16 प्रथम विजेता, नंबर 16·18·20·32·33·39 घोषित",
-        "excerpt": "Donghaeng Lottery ने 9 तारीख को बताया कि लॉटो ड्रॉ संख्या 1223 के विजेता नंबर 16, 18, 20, 32, 33 और 39 हैं, और 16 प्रथम विजेताओं को प्रत्येक 1.86 अरब वॉन मिलेंगे।",
-        "body": "लॉटो संचालक Donghaeng Lottery ने 9 तारीख को बताया कि 1223वें लॉटो ड्रॉ में प्रथम पुरस्कार के विजेता नंबर “16, 18, 20, 32, 33, 39” निकले। दूसरे पुरस्कार का बोनस नंबर “26” है। इस बार प्रथम पुरस्कार के कुल 16 विजेता हैं, और प्रत्येक को 1.86 अरब वॉन की राशि मिलेगी। घोषित नंबर, विजेताओं की संख्या और प्रथम पुरस्कार की राशि टिकट खरीदने वालों के लिए अपने परिणाम की जांच करने की मुख्य जानकारी है। विजेता आधिकारिक सत्यापन और भुगतान प्रक्रिया के अनुसार पुरस्कार राशि प्राप्त करेंगे। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Lotto 1223: 16 Pemenang Utama, Nomor 16·18·20·32·33·39",
-        "excerpt": "Donghaeng Lottery pada tanggal 9 menyatakan bahwa nomor pemenang undian Lotto ke-1223 adalah 16, 18, 20, 32, 33, dan 39, dengan 16 pemenang utama menerima 1,86 miliar won masing-masing.",
-        "body": "Donghaeng Lottery, operator Lotto, pada tanggal 9 menyatakan bahwa nomor pemenang hadiah pertama dalam undian Lotto ke-1223 adalah “16, 18, 20, 32, 33, 39”. Nomor bonus untuk hadiah kedua adalah “26”. Pada putaran ini terdapat 16 pemenang hadiah pertama, dan masing-masing akan menerima 1,86 miliar won. Nomor yang diumumkan, jumlah pemenang, dan nilai hadiah utama menjadi informasi inti bagi pembeli untuk memeriksa tiket mereka. Para pemenang akan menerima hadiah sesuai prosedur verifikasi dan pembayaran resmi. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "e3ff369da6e9",
-    "slug": "누나도-좋아요키-큰-두부상-선호결정사-찾는-요즘-2030의-이상형-583698",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T19:01:40.460Z",
-    "updatedAt": "2026-05-09T19:01:40.460Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042382",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042382",
-    "titleFingerprint": "dcfe382c9eeb07139b3acd7c6dc57895789dac43",
-    "dedupKeys": [
-      "e3ff369da6e9d34db92007d6ec69aff7b69f76f4",
-      "dcfe382c9eeb07139b3acd7c6dc57895789dac43",
-      "675b6eada28ceacdf3d12718ea484d676711c15b"
-    ],
-    "imageUrl": "/images/articles/e3ff369da6e9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "2030 결정사 이상형 변화, ‘누나도 좋아요’부터 키 큰 두부상 선호까지",
-        "excerpt": "최근 결혼정보회사를 찾는 2030세대 사이에서 가입 이유와 이상형 기준이 달라지고 있다. 남성은 만남 시간 부족, 여성은 검증된 상대를 주요 이유로 꼽았다.",
-        "body": "최근 결혼정보회사를 찾는 2030세대의 가입 이유와 이상형 기준이 달라지고 있다. 남성은 이성을 만날 시간적 여유가 부족해 결정사를 찾는 경우가 많고, 여성은 검증된 상대를 만나기 위해 가입하는 경향이 나타났다. 이상형에서도 ‘누나도 좋다’는 반응이나 ‘키 큰 두부상’을 선호한다는 표현처럼 연령과 이미지에 대한 기준이 다양해지고 있다. 특히 여성의 외모만 중시하던 흐름에서 벗어나 능력과 직업도 중요한 요소로 보는 분위기가 확인된다. 이는 2030의 만남 방식과 배우자 선택 기준이 보다 현실적이고 다층적으로 바뀌고 있음을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "How Koreans in Their 20s and 30s Are Changing Matchmaking Preferences",
-        "excerpt": "Recent interest in matchmaking firms among Koreans in their 20s and 30s shows different reasons by gender: men cite lack of time to meet partners, while women seek vetted matches.",
-        "body": "Recent reports show that Koreans in their 20s and 30s using matchmaking companies have different reasons for joining and more varied ideas of an ideal partner. Men often say they lack the time and space to meet potential partners, while women tend to join in order to meet someone who has already been verified. Preferences are also becoming more diverse, with comments such as being open to an older woman or favoring a tall, soft-featured “tofu-like” look. The trend also suggests that men no longer focus only on women’s appearance, with ability and occupation now treated as important factors. The shift points to more practical and layered standards for dating and marriage among younger adults. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国2030世代の結婚相談所選び、理想像は年上女性や高身長の豆腐顔へ",
-        "excerpt": "最近、韓国の20〜30代が結婚情報会社を利用する理由と理想の相手像に変化が出ている。男性は出会う時間不足、女性は検証済みの相手を求めている。",
-        "body": "最近、韓国で結婚情報会社を訪れる20〜30代の加入理由と理想の相手像が変化している。男性は異性と出会う時間的余裕がないため利用するケースが多く、女性は検証された相手に会うため加入する傾向がある。理想像でも「年上女性でもよい」という反応や、「背が高い豆腐顔」を好むという表現のように、年齢や印象に関する基準が多様化している。さらに、女性の外見だけを見るのではなく、能力や職業も重要な要素として捉える雰囲気が確認される。これは若い世代の出会い方と配偶者選びの基準が、より現実的で多層的に変わっていることを示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国二三十岁人群相亲偏好变化：年上女性与高个豆腐相受关注",
-        "excerpt": "近期，韩国二三十岁人群选择婚恋信息公司的理由和理想型标准出现变化。男性多因没时间认识异性，女性则更重视遇到经过验证的对象。",
-        "body": "近期，韩国二三十岁人群寻找婚恋信息公司的理由和理想对象标准正在发生变化。男性较多表示因为没有时间和余力认识异性而选择相关服务，女性则倾向于为了见到经过验证的对象而加入。理想型方面，类似“姐姐也可以”以及偏好“高个豆腐相”的说法，显示年龄和外貌气质标准更加多样。报道还显示，如今并非只看女性外貌，能力和职业也被视为重要因素。这一变化反映出年轻一代的相识方式和择偶标准正变得更现实、更立体。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Jóvenes coreanos cambian su ideal de pareja en agencias matrimoniales",
-        "excerpt": "Entre coreanos de 20 y 30 años crece el uso de agencias matrimoniales con motivos distintos por género: ellos citan falta de tiempo y ellas buscan parejas verificadas.",
-        "body": "Entre los coreanos de 20 y 30 años que acuden a agencias matrimoniales se observan cambios tanto en las razones de inscripción como en el ideal de pareja. Muchos hombres dicen que recurren a estos servicios porque no tienen tiempo suficiente para conocer a personas del sexo opuesto, mientras que muchas mujeres lo hacen para encontrarse con alguien previamente verificado. Las preferencias también se diversifican, con respuestas como aceptar a una mujer mayor o preferir una imagen alta y de rasgos suaves, descrita como “tipo tofu”. Además, ya no se mira solo la apariencia femenina; la capacidad y la profesión también se consideran factores importantes. El cambio muestra criterios más prácticos y complejos entre los jóvenes adultos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Coreanos de 20 e 30 anos mudam ideal de par nas agências matrimoniais",
-        "excerpt": "Entre coreanos na faixa dos 20 e 30 anos, os motivos para usar agências matrimoniais variam por gênero: homens citam falta de tempo e mulheres buscam pares verificados.",
-        "body": "Entre coreanos na faixa dos 20 e 30 anos que procuram agências matrimoniais, mudam tanto os motivos de adesão quanto os critérios de parceiro ideal. Homens costumam dizer que não têm tempo ou disponibilidade para conhecer pessoas do sexo oposto, enquanto mulheres tendem a se inscrever para encontrar alguém já verificado. As preferências também se tornaram mais variadas, com reações como aceitar uma mulher mais velha ou preferir uma aparência alta e de traços suaves, descrita como “tipo tofu”. O relato indica ainda que a aparência feminina já não é o único foco; capacidade e profissão também são vistas como elementos importantes. A mudança mostra padrões de escolha mais realistas e múltiplos entre jovens adultos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Koreas 20- bis 30-Jährige ändern ihr Partnerideal bei Partnervermittlern",
-        "excerpt": "Bei koreanischen Menschen in den 20ern und 30ern unterscheiden sich die Gründe für Partnervermittlungen nach Geschlecht: Männer nennen Zeitmangel, Frauen geprüfte Kontakte.",
-        "body": "Bei koreanischen Menschen in den 20ern und 30ern, die Partnervermittlungen nutzen, verändern sich sowohl die Beitrittsgründe als auch das Bild des idealen Partners. Männer geben häufig an, nicht genug Zeit und Spielraum zu haben, um potenzielle Partnerinnen kennenzulernen. Frauen neigen dagegen dazu, sich anzumelden, um eine bereits geprüfte Person zu treffen. Auch die Vorlieben werden vielfältiger: Reaktionen wie Offenheit gegenüber einer älteren Frau oder die Präferenz für eine große, weich wirkende „Tofu“-Ausstrahlung zeigen veränderte Maßstäbe. Zudem zählt nicht mehr nur das Aussehen von Frauen; Fähigkeiten und Beruf gelten ebenfalls als wichtige Faktoren. Das verweist auf realistischere und vielschichtigere Kriterien junger Erwachsener. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les jeunes Coréens redéfinissent l’idéal amoureux via les agences matrimoniales",
-        "excerpt": "Chez les Coréens de 20 à 39 ans, les raisons d’adhérer à une agence matrimoniale diffèrent: les hommes manquent de temps, les femmes cherchent des profils vérifiés.",
-        "body": "Chez les Coréens de 20 à 39 ans qui se tournent vers les agences matrimoniales, les raisons d’inscription et l’image du partenaire idéal évoluent. Les hommes expliquent souvent qu’ils n’ont pas assez de temps ni de marge pour rencontrer des personnes du sexe opposé. Les femmes, elles, ont plutôt tendance à s’inscrire afin de rencontrer quelqu’un dont le profil a été vérifié. Les préférences deviennent aussi plus diverses, avec des réactions favorables envers une femme plus âgée ou une attirance pour une silhouette grande aux traits doux, dite de type “tofu”. Le regard ne se limite plus à l’apparence féminine: les compétences et la profession comptent aussi. Cette évolution montre des critères plus réalistes et nuancés chez les jeunes adultes. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "شباب كوريا في العشرينات والثلاثينات يغيّرون معايير الشريك عبر شركات الزواج",
-        "excerpt": "تُظهر شركات الزواج في كوريا اختلاف دوافع الجيل في العشرينات والثلاثينات حسب الجنس؛ فالرجال يشيرون إلى ضيق الوقت، والنساء يبحثن عن شريك موثوق.",
-        "body": "تتغير دوافع الكوريين في العشرينات والثلاثينات للانضمام إلى شركات معلومات الزواج، كما تتغير صورة الشريك المثالي لديهم. يقول كثير من الرجال إنهم يلجأون إلى هذه الشركات بسبب عدم توافر الوقت الكافي للقاء أشخاص من الجنس الآخر، بينما تميل النساء إلى التسجيل من أجل مقابلة طرف تم التحقق منه مسبقا. وتزداد المعايير تنوعا أيضا، مع عبارات مثل قبول امرأة أكبر سنا أو تفضيل مظهر طويل وملامح ناعمة يوصف بأنه شبيه بالتوفو. كما لم يعد التركيز مقتصرا على مظهر المرأة، إذ باتت القدرة والمهنة من العوامل المهمة. يعكس ذلك تحولا في طرق التعارف ومعايير اختيار الشريك لدى الشباب نحو قدر أكبر من الواقعية والتعدد. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरिया के 20-30 आयु वर्ग में मैचमेकिंग और आदर्श साथी की पसंद बदल रही है",
-        "excerpt": "कोरिया के 20 और 30 की उम्र वाले युवाओं में विवाह सूचना कंपनियों से जुड़ने के कारण लिंग के अनुसार अलग हैं: पुरुष समय की कमी बताते हैं, महिलाएं सत्यापित साथी चाहती हैं।",
-        "body": "कोरिया में विवाह सूचना कंपनियों की ओर रुख करने वाले 20 और 30 की उम्र के लोगों के कारण और आदर्श साथी की परिभाषा बदल रही है। पुरुषों में कई लोग कहते हैं कि विपरीत लिंग से मिलने के लिए समय और अवकाश नहीं है, इसलिए वे ऐसी सेवाओं का उपयोग करते हैं। महिलाएं अधिकतर सत्यापित व्यक्ति से मिलने के लिए जुड़ती हैं। पसंद भी विविध हो रही है, जैसे बड़ी उम्र की महिला को स्वीकार करना या लंबे कद और नरम चेहरे वाले “टोफू जैसे” रूप को पसंद करना। रिपोर्ट यह भी दिखाती है कि अब केवल महिला की सुंदरता नहीं देखी जाती; क्षमता और पेशा भी अहम तत्व माने जाते हैं। यह बदलाव युवा वयस्कों में मिलने-जुलने और जीवनसाथी चुनने के मानकों को अधिक व्यावहारिक और बहुपक्षीय बनाता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Generasi 20-30 Korea Ubah Kriteria Pasangan di Layanan Perjodohan",
-        "excerpt": "Di Korea, alasan generasi 20-30 memakai layanan informasi pernikahan berbeda menurut gender: pria kekurangan waktu bertemu lawan jenis, perempuan mencari pasangan terverifikasi.",
-        "body": "Di Korea, alasan generasi usia 20-an dan 30-an menggunakan perusahaan informasi pernikahan serta kriteria pasangan ideal mereka sedang berubah. Pria banyak menyebut kurangnya waktu dan kesempatan untuk bertemu lawan jenis sebagai alasan bergabung, sedangkan perempuan cenderung mencari pasangan yang sudah terverifikasi. Kriteria ideal juga makin beragam, terlihat dari tanggapan seperti menerima perempuan yang lebih tua atau menyukai sosok tinggi dengan wajah lembut yang disebut “tipe tahu”. Selain itu, penilaian tidak lagi hanya berfokus pada penampilan perempuan; kemampuan dan pekerjaan juga dianggap sebagai faktor penting. Perubahan ini menunjukkan cara bertemu dan memilih pasangan di kalangan dewasa muda menjadi lebih realistis dan berlapis. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6d9da10ded78",
-    "slug": "실화냐-이-정도는-써야-사람-작가-인증ai-시대-달라진-글쓰기-381793",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-09T19:00:34.582Z",
-    "updatedAt": "2026-05-09T19:00:34.582Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12042384",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12042384",
-    "titleFingerprint": "8e19dd8328eade24e5faef8355993be570ff0f5f",
-    "dedupKeys": [
-      "6d9da10ded78c84e0bf748b3d974dca40241dbd3",
-      "8e19dd8328eade24e5faef8355993be570ff0f5f",
-      "3c84842e4edaaf55e194bf7e36d4760bb8f97099"
-    ],
-    "imageUrl": "/images/articles/6d9da10ded78.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 시대 글쓰기 변화, ‘너무 매끄러운 문장’이 작가 인증을 흔든다",
-        "excerpt": "뉴욕 카피라이터 사라 스즈키 하버드는 AI 시대에 지나치게 매끄러운 글이 독자 의심을 부르자 에세이와 SNS에 일부러 어색한 표현을 넣고 있다.",
-        "body": "AI 시대 글쓰기 방식이 달라지고 있다. 뉴욕에서 카피라이터로 일하는 사라 스즈키 하버드(32)는 최근 자신의 에세이나 SNS 게시물에 평소라면 쓰지 않았을 표현을 넣고 있다. 지나치게 매끄럽고 완벽한 문장이 오히려 AI가 쓴 글처럼 보인다는 독자들의 의심 때문이다. 이에 일부 작가들은 어색한 문장, 과장된 감탄, 다듬지 않은 표현을 남기며 ‘사람이 쓴 글’이라는 신호를 만들고 있다. 글의 완성도를 높이는 것이 미덕이던 관행이 AI 확산 이후 흔들리는 모습이다. 앞으로 온라인 글쓰기에서는 자연스러운 결함과 개인의 말투가 신뢰를 가르는 요소로 더 주목받을 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "AI-Era Writing Shift: Why Overly Smooth Sentences Raise Doubt",
-        "excerpt": "New York copywriter Sarah Suzuki Harvard is adding awkward wording to essays and social posts as readers increasingly suspect overly polished writing may be AI-made.",
-        "body": "Writing habits are changing in the AI era. Sarah Suzuki Harvard, 32, a copywriter in New York, has recently begun adding expressions to her essays and social media posts that she normally would not use. The reason is that overly smooth and perfect sentences can make readers suspect the text was written by AI. Some writers are therefore leaving in awkward phrasing, exaggerated exclamations, and less polished wording as signals that a human wrote the piece. A practice that once valued maximum polish is being unsettled by the spread of AI. In online writing, natural imperfections and an individual voice may become more important markers of trust. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "AI時代の文章術、滑らかすぎる文が「人間の作家」証明を揺さぶる",
-        "excerpt": "ニューヨークのコピーライター、サラ・スズキ・ハーバード氏は、AI時代に滑らかすぎる文章が疑われるため、エッセーやSNSに不自然な表現を入れている。",
-        "body": "AI時代に文章の書き方が変わっている。ニューヨークでコピーライターとして働くサラ・スズキ・ハーバード氏（32）は最近、自身のエッセーやSNS投稿に、普段なら使わない表現をあえて入れている。滑らかで完璧すぎる文が、かえってAIが書いた文章のように見えるという読者の疑いがあるためだ。一部の作家は、不自然な文、強い感嘆、整え切らない表現を残し、「人間が書いた文章」であることを示そうとしている。完成度を高めることが美徳とされてきた慣行は、AIの広がりで揺らいでいる。今後、オンライン文章では自然な欠点や個人の語り口が信頼を分ける要素として注目される可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "AI时代写作变了：过于流畅的句子反而让作者身份受质疑",
-        "excerpt": "纽约文案撰稿人萨拉·铃木·哈佛在AI时代发现，过于流畅的文字会引发读者怀疑，因此在随笔和社交媒体中加入生硬表达。",
-        "body": "AI时代的写作方式正在发生变化。32岁的萨拉·铃木·哈佛在纽约担任文案撰稿人，最近她开始在自己的随笔和社交媒体帖子中加入一些平时不会使用的表达。原因是过于流畅、完美的句子反而会让读者怀疑文章是否由AI撰写。因此，一些作者会保留生硬句子、夸张感叹和未经完全打磨的措辞，把这些当作“人类写作”的信号。过去以提高完成度为美德的写作习惯，正因AI扩散而受到动摇。今后，在线写作中自然的瑕疵和个人语气可能更受关注，并成为判断信任的重要因素。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La escritura en la era de la IA: frases demasiado pulidas despiertan sospechas",
-        "excerpt": "Sarah Suzuki Harvard, copywriter en Nueva York, introduce expresiones torpes en ensayos y redes porque los textos demasiado perfectos generan dudas en la era de la IA.",
-        "body": "La forma de escribir está cambiando en la era de la IA. Sarah Suzuki Harvard, de 32 años, copywriter en Nueva York, ha empezado recientemente a incluir en sus ensayos y publicaciones en redes expresiones que normalmente no usaría. El motivo es que las frases demasiado fluidas y perfectas pueden hacer que los lectores sospechen que el texto fue escrito por IA. Por eso, algunos autores dejan frases incómodas, exclamaciones exageradas y palabras menos pulidas como señales de que el texto fue escrito por una persona. La antigua práctica de valorar la máxima perfección se ve cuestionada por la expansión de la IA. En adelante, las imperfecciones naturales y la voz personal podrían ganar peso como factores de confianza en la escritura en línea. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Escrita na era da IA: texto perfeito demais já levanta suspeitas",
-        "excerpt": "Sarah Suzuki Harvard, redatora em Nova York, passou a incluir expressões estranhas em ensaios e posts porque textos muito polidos podem parecer feitos por IA.",
-        "body": "A forma de escrever está mudando na era da IA. Sarah Suzuki Harvard, de 32 anos, redatora em Nova York, começou recentemente a inserir em seus ensaios e publicações nas redes sociais expressões que normalmente não usaria. O motivo é que frases excessivamente fluidas e perfeitas podem levar leitores a suspeitar que o texto foi escrito por IA. Por isso, alguns autores deixam frases estranhas, exclamações exageradas e termos menos lapidados como sinais de que uma pessoa escreveu o conteúdo. A prática de valorizar o máximo acabamento, antes vista como virtude, está sendo abalada pela expansão da IA. Daqui em diante, imperfeições naturais e uma voz pessoal podem ganhar mais importância como elementos de confiança na escrita online. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Schreiben im KI-Zeitalter: Zu glatte Sätze machen Leser misstrauisch",
-        "excerpt": "Die New Yorker Texterin Sarah Suzuki Harvard baut absichtlich unbeholfene Formulierungen in Essays und Social Posts ein, weil zu perfekte Texte nach KI klingen können.",
-        "body": "Im KI-Zeitalter verändert sich die Art des Schreibens. Sarah Suzuki Harvard, 32, arbeitet als Copywriterin in New York und fügt ihren Essays und Beiträgen in sozialen Medien neuerdings Ausdrücke hinzu, die sie normalerweise nicht verwenden würde. Der Grund: Zu glatte und perfekte Sätze können bei Lesern den Verdacht wecken, der Text sei von KI geschrieben. Einige Autoren lassen deshalb unbeholfene Sätze, übertriebene Ausrufe und weniger geschliffene Formulierungen stehen, um zu zeigen, dass ein Mensch geschrieben hat. Die frühere Gewohnheit, möglichst hohe Perfektion als Stärke zu sehen, gerät durch die Verbreitung von KI ins Wanken. Künftig könnten natürliche Unvollkommenheiten und eine persönliche Stimme im Online-Schreiben stärker als Vertrauenssignal zählen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Écriture à l’ère de l’IA : les phrases trop lisses éveillent le soupçon",
-        "excerpt": "Sarah Suzuki Harvard, conceptrice-rédactrice à New York, ajoute des tournures maladroites à ses essais et posts, car les textes trop parfaits semblent parfois écrits par IA.",
-        "body": "À l’ère de l’IA, la manière d’écrire évolue. Sarah Suzuki Harvard, 32 ans, conceptrice-rédactrice à New York, ajoute récemment à ses essais et publications sur les réseaux sociaux des expressions qu’elle n’aurait normalement pas utilisées. La raison est simple : des phrases trop fluides et parfaites peuvent pousser les lecteurs à soupçonner un texte généré par IA. Certains auteurs laissent donc des phrases maladroites, des exclamations appuyées et des formulations moins polies pour signaler qu’un humain a écrit le texte. L’habitude de viser une finition maximale, longtemps considérée comme une qualité, est bousculée par la diffusion de l’IA. À l’avenir, les imperfections naturelles et la voix personnelle pourraient devenir des marqueurs de confiance plus visibles dans l’écriture en ligne. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الكتابة في عصر الذكاء الاصطناعي: الجمل المصقولة جدا تثير الشك",
-        "excerpt": "سارة سوزوكي هارفارد، كاتبة إعلانات في نيويورك، تضيف عمدا عبارات غير مألوفة إلى مقالاتها ومنشوراتها لأن النص شديد السلاسة قد يبدو مولدا بالذكاء الاصطناعي.",
-        "body": "تتغير طريقة الكتابة في عصر الذكاء الاصطناعي. سارة سوزوكي هارفارد، البالغة 32 عاما وتعمل كاتبة إعلانات في نيويورك، بدأت مؤخرا تضيف إلى مقالاتها ومنشوراتها على وسائل التواصل تعبيرات لم تكن لتستخدمها عادة. السبب أن الجمل شديدة السلاسة والكمال قد تجعل القراء يشكون في أن النص كتب بواسطة الذكاء الاصطناعي. لذلك يترك بعض الكتاب جملا غير متقنة، وتعجبات مبالغ فيها، وصياغات أقل تهذيبا كإشارة إلى أن إنسانا كتب النص. العادة التي كانت ترى رفع مستوى الصقل فضيلة بدأت تهتز مع انتشار الذكاء الاصطناعي. وقد تصبح العيوب الطبيعية ونبرة الكاتب الشخصية عناصر أكثر أهمية في بناء الثقة بالكتابة على الإنترنت. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "AI युग में लेखन बदला: बहुत चिकने वाक्य अब लेखक पर शक बढ़ाते हैं",
-        "excerpt": "न्यूयॉर्क की कॉपीराइटर सारा सुजुकी हार्वर्ड अब निबंधों और सोशल पोस्ट में जानबूझकर अटपटे शब्द जोड़ रही हैं, क्योंकि बहुत परिपूर्ण लेखन AI जैसा लग सकता है।",
-        "body": "AI युग में लिखने का तरीका बदल रहा है। न्यूयॉर्क में कॉपीराइटर के रूप में काम करने वाली 32 वर्षीय सारा सुजुकी हार्वर्ड ने हाल में अपने निबंधों और सोशल मीडिया पोस्ट में ऐसे भाव जोड़ने शुरू किए हैं जिन्हें वह सामान्यतः नहीं लिखतीं। वजह यह है कि बहुत चिकने और परिपूर्ण वाक्य पाठकों को यह शक दिला सकते हैं कि लेख AI ने लिखा है। इसलिए कुछ लेखक अटपटे वाक्य, बढ़ा-चढ़ाकर लिखे विस्मयादिबोधक और कम तराशे हुए शब्द छोड़ रहे हैं, ताकि यह संकेत मिले कि पाठ मनुष्य ने लिखा है। लेखन को अधिकतम परिपूर्ण बनाने की पुरानी धारणा AI के फैलाव के बाद हिल रही है। आगे ऑनलाइन लेखन में स्वाभाविक कमियां और निजी आवाज भरोसे के अहम संकेत बन सकती हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Menulis di Era AI: Kalimat Terlalu Mulus Kini Justru Bikin Curiga",
-        "excerpt": "Sarah Suzuki Harvard, copywriter di New York, mulai menyisipkan ungkapan janggal dalam esai dan unggahan media sosial karena tulisan terlalu rapi kerap dicurigai buatan AI.",
-        "body": "Cara menulis berubah di era AI. Sarah Suzuki Harvard, 32 tahun, copywriter yang bekerja di New York, belakangan memasukkan ungkapan yang biasanya tidak akan ia pakai dalam esai dan unggahan media sosialnya. Alasannya, kalimat yang terlalu mulus dan sempurna justru dapat membuat pembaca curiga bahwa teks itu ditulis oleh AI. Karena itu, sebagian penulis membiarkan kalimat janggal, seruan berlebihan, dan pilihan kata yang tidak sepenuhnya dipoles sebagai tanda bahwa tulisan tersebut dibuat manusia. Kebiasaan lama yang menilai kesempurnaan sebagai keunggulan mulai goyah setelah AI meluas. Ke depan, kekurangan alami dan gaya tutur pribadi dapat makin diperhatikan sebagai unsur kepercayaan dalam tulisan daring. Sumber: mk.co.kr"
       }
     }
   }
