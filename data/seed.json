@@ -1,5 +1,230 @@
 [
   {
+    "id": "c704b32e5a21",
+    "slug": "이란-美-협상안에-답변-중재국-파키스탄에-전달-788033",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T17:53:48.980Z",
+    "updatedAt": "2026-05-10T17:53:48.980Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12042832",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12042832",
+    "titleFingerprint": "29976e0f6b2e6243e24428f4867b860e0b9507c5",
+    "dedupKeys": [
+      "c704b32e5a21bb23fa5903893d8a681454636791",
+      "29976e0f6b2e6243e24428f4867b860e0b9507c5",
+      "271b329833bf41e52dbc699598145038eca1a0c6"
+    ],
+    "imageUrl": "/images/articles/c704b32e5a21.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이란, 미국 종전 협상안 답변 파키스탄에 전달…휴전 국면 새 변수",
+        "excerpt": "이란이 10일 현지시간 미국의 종전 협상안에 대한 답변을 중재국인 파키스탄 측에 전달했다는 보도가 나오면서 위태로운 휴전 상태가 새 협상 국면으로 들어설 가능성이 제기됐다.",
+        "body": "이란이 10일 현지시간 미국의 종전 협상안에 대한 답변을 중재국인 파키스탄 측에 전달했다는 보도가 나왔다. 보도에 따르면 이번 답변 전달은 양국 간 위태로운 휴전 상태가 이어지는 가운데 이뤄졌다. 미국이 제시한 종전 협상안에 대해 이란이 공식 답변을 넘긴 것으로 알려지면서, 그동안 불확실성이 컸던 협상 흐름은 새로운 국면에 들어설 전망이다. 다만 답변의 구체적인 내용이나 향후 협상 일정은 원문에서 공개되지 않았다. 시장과 외교 당국은 휴전 유지 여부와 후속 협의 진행 상황을 주시할 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Iran Sends Reply to U.S. War-End Proposal Through Pakistan, Raising Ceasefire Focus",
+        "excerpt": "Iran reportedly delivered its response to a U.S. war-end negotiation proposal to mediator Pakistan on the 10th local time, raising attention over whether the fragile ceasefire could enter a new phase.",
+        "body": "Iran reportedly delivered its response to a U.S. proposal for negotiations to end the war to Pakistan, which is acting as a mediator, on the 10th local time. According to the report, the move came as a fragile ceasefire between the two sides continued. With Iran said to have handed over an official reply to the U.S. proposal, the previously uncertain negotiation track is expected to move into a new phase. The original report did not disclose the details of Iran’s response or the schedule for any further talks. Markets and diplomatic authorities are expected to watch whether the ceasefire holds and whether follow-up consultations proceed. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "イラン、米国の終戦交渉案への回答をパキスタンに伝達…停戦局面に新たな焦点",
+        "excerpt": "イランが現地時間10日、米国の終戦交渉案に対する回答を仲介国パキスタン側に伝えたと報じられ、不安定な停戦状態が新たな交渉局面に入る可能性が注目されている。",
+        "body": "イランが現地時間10日、米国の終戦交渉案に対する回答を仲介国であるパキスタン側に伝えたとの報道が出た。報道によると、今回の回答伝達は、両国の不安定な停戦状態が続く中で行われた。米国が示した終戦交渉案に対し、イランが公式な回答を渡したとされ、これまで不透明だった交渉の流れは新たな局面に入る見通しだ。ただし、回答の具体的な内容や今後の交渉日程は原文では明らかにされていない。市場と外交当局は、停戦が維持されるか、後続協議が進むかを注視するとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "伊朗经巴基斯坦转交对美国停战谈判方案答复，脆弱停火迎新焦点",
+        "excerpt": "据报道，伊朗于当地时间10日将对美国停战谈判方案的答复交给调停方巴基斯坦。在双方脆弱停火持续之际，谈判可能进入新的阶段。",
+        "body": "据报道，伊朗于当地时间10日将对美国停战谈判方案的答复交给作为调停方的巴基斯坦。报道称，此次答复转交发生在双方脆弱停火状态持续之际。随着伊朗据称已就美国提出的停战谈判方案提交正式答复，此前充满不确定性的谈判进程有望进入新的阶段。不过，原文并未披露答复的具体内容，也未说明后续谈判日程。市场和外交部门预计将继续关注停火能否维持，以及后续磋商是否推进。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Irán entrega a Pakistán su respuesta a la propuesta de EE. UU. para poner fin al conflicto",
+        "excerpt": "Irán habría entregado el día 10, hora local, a Pakistán, país mediador, su respuesta a la propuesta de negociación de EE. UU. para poner fin al conflicto, mientras continúa una frágil tregua.",
+        "body": "Irán habría entregado el día 10, hora local, a Pakistán, que actúa como país mediador, su respuesta a la propuesta de negociación de Estados Unidos para poner fin al conflicto. Según el reporte, la entrega se produjo mientras continuaba una frágil situación de alto el fuego entre ambas partes. Al conocerse que Irán habría remitido una respuesta oficial a la propuesta estadounidense, el proceso negociador, hasta ahora marcado por la incertidumbre, podría entrar en una nueva fase. El texto original no reveló el contenido concreto de la respuesta ni el calendario de futuras conversaciones. Los mercados y las autoridades diplomáticas seguirán atentos a la continuidad de la tregua y a posibles consultas posteriores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Irã envia ao Paquistão resposta à proposta dos EUA para encerrar conflito",
+        "excerpt": "O Irã teria enviado no dia 10, horário local, ao Paquistão, país mediador, sua resposta à proposta de negociação dos EUA para encerrar o conflito, em meio à continuidade de um cessar-fogo frágil.",
+        "body": "O Irã teria enviado no dia 10, horário local, ao Paquistão, que atua como mediador, sua resposta à proposta de negociação dos Estados Unidos para encerrar o conflito. Segundo a reportagem, a entrega ocorreu enquanto seguia uma situação frágil de cessar-fogo entre as partes. Com a informação de que o Irã apresentou uma resposta oficial à proposta norte-americana, o processo de negociação, até então incerto, deve entrar em uma nova fase. O texto original não revelou o conteúdo específico da resposta nem o cronograma de futuras conversas. Mercados e autoridades diplomáticas devem acompanhar se o cessar-fogo será mantido e se novas consultas avançarão. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Iran übermittelt Pakistan Antwort auf US-Vorschlag zur Beendigung des Konflikts",
+        "excerpt": "Iran soll am 10. Ortszeit seine Antwort auf den US-Verhandlungsvorschlag zur Beendigung des Konflikts an den Vermittler Pakistan übermittelt haben, während die fragile Waffenruhe anhält.",
+        "body": "Iran soll am 10. Ortszeit seine Antwort auf den Verhandlungsvorschlag der USA zur Beendigung des Konflikts an Pakistan übermittelt haben, das als Vermittler auftritt. Dem Bericht zufolge erfolgte die Übergabe, während zwischen den beiden Seiten weiter eine fragile Waffenruhe bestand. Da Iran demnach eine offizielle Antwort auf den US-Vorschlag übergeben hat, dürfte der bislang von Unsicherheit geprägte Verhandlungsverlauf in eine neue Phase eintreten. Der ursprüngliche Bericht nannte weder den konkreten Inhalt der Antwort noch einen Zeitplan für weitere Gespräche. Märkte und diplomatische Stellen dürften beobachten, ob die Waffenruhe hält und ob Anschlussgespräche vorankommen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’Iran transmet au Pakistan sa réponse à la proposition américaine de fin de conflit",
+        "excerpt": "L’Iran aurait transmis le 10, heure locale, au Pakistan, pays médiateur, sa réponse à la proposition de négociation des États-Unis visant à mettre fin au conflit, alors qu’un cessez-le-feu fragile se poursuit.",
+        "body": "L’Iran aurait transmis le 10, heure locale, au Pakistan, qui agit comme médiateur, sa réponse à la proposition de négociation des États-Unis visant à mettre fin au conflit. Selon le rapport, cette transmission intervient alors qu’un cessez-le-feu fragile se poursuit entre les deux parties. Le fait que l’Iran aurait remis une réponse officielle à la proposition américaine laisse entrevoir une nouvelle phase pour un processus de négociation jusque-là incertain. Le texte original ne précise pas le contenu détaillé de la réponse ni le calendrier d’éventuels pourparlers ultérieurs. Les marchés et les autorités diplomatiques devraient suivre le maintien du cessez-le-feu et l’avancée de consultations de suivi. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إيران تسلم باكستان ردها على مقترح أميركي لإنهاء الصراع وسط ترقب للهدنة",
+        "excerpt": "أفادت تقارير بأن إيران سلمت في العاشر بالتوقيت المحلي ردها على مقترح تفاوض أميركي لإنهاء الصراع إلى باكستان بصفتها وسيطا، في ظل استمرار وقف إطلاق نار هش.",
+        "body": "أفادت تقارير بأن إيران سلمت في العاشر بالتوقيت المحلي ردها على مقترح تفاوض أميركي لإنهاء الصراع إلى باكستان التي تقوم بدور الوسيط. وبحسب التقرير، جاءت هذه الخطوة بينما استمرت حالة وقف إطلاق نار هشة بين الطرفين. ومع ورود أنباء عن تسليم إيران ردا رسميا على المقترح الأميركي، يُنتظر أن تدخل مسار المفاوضات، الذي اتسم بعدم اليقين، مرحلة جديدة. ولم يكشف النص الأصلي عن مضمون الرد بالتفصيل أو جدول أي محادثات لاحقة. ومن المتوقع أن تتابع الأسواق والجهات الدبلوماسية ما إذا كان وقف إطلاق النار سيستمر وما إذا كانت المشاورات التالية ستمضي قدما. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ईरान ने अमेरिकी युद्ध-विराम प्रस्ताव पर जवाब पाकिस्तान को सौंपा, वार्ता पर नजर",
+        "excerpt": "रिपोर्ट के अनुसार ईरान ने स्थानीय समयानुसार 10 तारीख को अमेरिका के युद्ध समाप्ति वार्ता प्रस्ताव पर अपना जवाब मध्यस्थ पाकिस्तान को सौंपा, जबकि नाजुक संघर्षविराम जारी है।",
+        "body": "रिपोर्ट के अनुसार ईरान ने स्थानीय समयानुसार 10 तारीख को अमेरिका के युद्ध समाप्ति वार्ता प्रस्ताव पर अपना जवाब मध्यस्थ की भूमिका निभा रहे पाकिस्तान को सौंपा। रिपोर्ट में कहा गया कि यह कदम दोनों पक्षों के बीच नाजुक संघर्षविराम जारी रहने के दौरान उठाया गया। अमेरिका की ओर से रखे गए प्रस्ताव पर ईरान द्वारा आधिकारिक जवाब सौंपे जाने की खबर से अब तक अनिश्चित रही वार्ता प्रक्रिया नए चरण में प्रवेश कर सकती है। मूल रिपोर्ट में जवाब की ठोस सामग्री या आगे की बातचीत की समय-सारिणी का खुलासा नहीं किया गया। बाजार और राजनयिक अधिकारी संघर्षविराम के बने रहने और आगे की सलाह-मशविरा प्रक्रिया पर नजर रख सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Iran Serahkan Jawaban atas Proposal AS ke Pakistan, Gencatan Senjata Jadi Sorotan",
+        "excerpt": "Iran dilaporkan menyerahkan jawaban atas proposal negosiasi AS untuk mengakhiri konflik kepada Pakistan sebagai mediator pada tanggal 10 waktu setempat, saat gencatan senjata rapuh masih berlangsung.",
+        "body": "Iran dilaporkan menyerahkan jawaban atas proposal negosiasi Amerika Serikat untuk mengakhiri konflik kepada Pakistan, yang bertindak sebagai mediator, pada tanggal 10 waktu setempat. Menurut laporan tersebut, penyampaian jawaban ini terjadi ketika kondisi gencatan senjata yang rapuh antara kedua pihak masih berlanjut. Dengan Iran disebut telah menyerahkan jawaban resmi atas proposal AS, alur perundingan yang sebelumnya penuh ketidakpastian diperkirakan memasuki fase baru. Laporan asli tidak mengungkap isi rinci jawaban tersebut maupun jadwal pembicaraan berikutnya. Pasar dan otoritas diplomatik diperkirakan akan mencermati apakah gencatan senjata bertahan dan apakah konsultasi lanjutan bergerak maju. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "8c13c9feaf78",
+    "slug": "오늘부터-다주택자-양도세-중과최고세율-825-113301",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T17:52:44.712Z",
+    "updatedAt": "2026-05-10T17:52:44.712Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508125000003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508125000003",
+    "titleFingerprint": "ea6508ac57676ce7cc2d578b0330588ca4b4d409",
+    "dedupKeys": [
+      "8c13c9feaf7873b890dfe30e1f265e6990e157df",
+      "ea6508ac57676ce7cc2d578b0330588ca4b4d409",
+      "f663617de428fe08d8e17c087464802ad80293e4"
+    ],
+    "imageUrl": "/images/articles/8c13c9feaf78.jpg",
+    "i18n": {
+      "ko": {
+        "title": "다주택자 양도세 중과 오늘 재개, 최고세율 82.5% 적용",
+        "excerpt": "다주택자에 대한 양도소득세 중과 제도가 오늘부터 4년 만에 재개되며, 관련 매도자는 최고 82.5% 세율 적용 가능성을 확인해야 한다.",
+        "body": "다주택자에 대한 양도소득세 중과 제도가 오늘부터 4년 만에 재개됐다. 이에 따라 여러 주택을 보유한 사람이 주택을 양도할 경우 양도소득세 부담이 커질 수 있으며, 최고세율은 82.5%로 제시됐다. 이번 재개는 중단됐던 다주택자 양도세 중과가 다시 적용된다는 점에서 부동산 거래와 세금 계산에 직접적인 영향을 주는 사안이다. 다주택자는 매도 시점과 보유 주택 수에 따라 세 부담을 점검할 필요가 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Multi-Home Capital Gains Tax Surcharge Resumes, Top Rate at 82.5%",
+        "excerpt": "South Korea’s capital gains tax surcharge on multiple-home owners resumes today after four years, with affected sellers facing a possible top rate of 82.5%.",
+        "body": "South Korea’s capital gains tax surcharge on multiple-home owners resumes today after a four-year suspension. Under the renewed system, people who own multiple homes may face a higher capital gains tax burden when selling property, with the top rate cited at 82.5%. The restart matters because a rule that had been paused is now being applied again, directly affecting property transactions and tax calculations. Multiple-home owners need to check their tax burden according to the timing of sale and the number of homes they hold. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "多住宅保有者の譲渡税重課が本日再開、最高税率82.5%",
+        "excerpt": "韓国で多住宅保有者に対する譲渡所得税の重課制度が本日から4年ぶりに再開され、対象となる売却者は最高82.5%の税率を確認する必要がある。",
+        "body": "韓国で多住宅保有者に対する譲渡所得税の重課制度が本日から4年ぶりに再開された。これにより、複数の住宅を保有する人が住宅を譲渡する場合、譲渡所得税の負担が増える可能性があり、最高税率は82.5%と示された。今回の再開は、中断されていた多住宅保有者向けの譲渡税重課が再び適用される点で、不動産取引と税額計算に直接影響する事案だ。多住宅保有者は売却時期と保有住宅数に応じて税負担を確認する必要がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "多套房持有者资本利得税重税今起恢复，最高税率82.5%",
+        "excerpt": "韩国针对多套房持有者的资本利得税重税制度今日时隔4年恢复，相关卖方需关注最高82.5%税率的适用可能。",
+        "body": "韩国针对多套房持有者的资本利得税重税制度从今日起时隔4年恢复。根据该制度，持有多套住房的人在转让住房时，资本利得税负担可能增加，最高税率被列为82.5%。此次恢复的重点在于，此前中断的多套房持有者转让税重税将重新适用，对房地产交易和税额计算产生直接影响。多套房持有者需要根据出售时间和持有住房数量检查税负。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Recargo a plusvalías de multipropietarios vuelve hoy, tasa máxima 82,5%",
+        "excerpt": "Corea del Sur reanuda hoy tras cuatro años el recargo del impuesto a las ganancias de capital para dueños de varias viviendas, con una tasa máxima posible del 82,5%.",
+        "body": "Corea del Sur reanudó hoy, tras cuatro años, el sistema de recargo del impuesto a las ganancias de capital para propietarios de varias viviendas. Con la medida, quienes poseen más de una casa pueden enfrentar una mayor carga fiscal al vender una vivienda, y la tasa máxima señalada es del 82,5%. La reactivación es relevante porque vuelve a aplicarse un régimen que estaba suspendido, con impacto directo en las operaciones inmobiliarias y en el cálculo de impuestos. Los multipropietarios deben revisar su carga fiscal según el momento de venta y la cantidad de viviendas que poseen. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Sobretaxa sobre ganho de capital de múltiplos imóveis volta; teto é 82,5%",
+        "excerpt": "A Coreia do Sul retomou hoje, após quatro anos, a sobretaxa do imposto sobre ganho de capital para donos de várias casas, com alíquota máxima possível de 82,5%.",
+        "body": "A Coreia do Sul retomou hoje, depois de quatro anos, o sistema de sobretaxa do imposto sobre ganho de capital para proprietários de múltiplas moradias. Com a volta da regra, quem possui várias casas pode enfrentar maior carga tributária ao vender um imóvel, e a alíquota máxima indicada é de 82,5%. A retomada é importante porque uma medida que estava suspensa passa a ser aplicada novamente, afetando diretamente transações imobiliárias e cálculos de impostos. Proprietários de várias moradias devem verificar a carga conforme a data da venda e o número de imóveis mantidos. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Mehrhausbesitzer zahlen wieder Zuschlag auf Veräußerungssteuer, bis 82,5%",
+        "excerpt": "Südkorea führt den Zuschlag auf die Kapitalertragsteuer für Besitzer mehrerer Wohnungen heute nach vier Jahren wieder ein; möglich ist ein Spitzensatz von 82,5%.",
+        "body": "Südkorea hat den Zuschlag auf die Kapitalertragsteuer für Besitzer mehrerer Wohnungen heute nach vier Jahren wieder eingeführt. Damit kann sich die Steuerlast erhöhen, wenn Personen mit mehreren Wohnimmobilien ein Objekt verkaufen; als Spitzensatz werden 82,5% genannt. Die Wiederaufnahme ist bedeutsam, weil eine ausgesetzte Regel für Mehrhausbesitzer nun erneut gilt und damit Immobiliengeschäfte sowie Steuerberechnungen unmittelbar betrifft. Betroffene Eigentümer sollten ihre Belastung je nach Verkaufszeitpunkt und Zahl der gehaltenen Wohnungen prüfen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "La surtaxe sur les plus-values des multipropriétaires reprend, taux à 82,5%",
+        "excerpt": "La Corée du Sud réactive aujourd’hui après quatre ans la surtaxe sur les plus-values immobilières des détenteurs de plusieurs logements, avec un taux maximal de 82,5%.",
+        "body": "La Corée du Sud a réactivé aujourd’hui, après quatre ans, le dispositif de surtaxe sur l’impôt des plus-values pour les détenteurs de plusieurs logements. Avec ce retour, les personnes possédant plusieurs habitations peuvent voir leur charge fiscale augmenter lors d’une cession, le taux maximal indiqué étant de 82,5%. Cette reprise est importante car une règle suspendue s’applique de nouveau, avec un effet direct sur les transactions immobilières et le calcul de l’impôt. Les multipropriétaires doivent vérifier leur charge selon la date de vente et le nombre de logements détenus. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "استئناف ضريبة أرباح بيع المنازل المتعددة اليوم بمعدل أقصى 82.5%",
+        "excerpt": "استأنفت كوريا الجنوبية اليوم بعد أربع سنوات نظام التشديد الضريبي على أرباح بيع العقارات لمالكي عدة منازل، مع احتمال تطبيق معدل أقصى يبلغ 82.5%.",
+        "body": "استأنفت كوريا الجنوبية اليوم نظام التشديد على ضريبة أرباح رأس المال المفروضة على مالكي عدة منازل، وذلك بعد توقف دام أربع سنوات. وبموجب عودة النظام، قد تزداد الأعباء الضريبية على من يملكون أكثر من منزل عند بيع العقار، مع الإشارة إلى معدل أقصى يبلغ 82.5%. وتكمن أهمية الاستئناف في أن قاعدة كانت معلقة ستطبق مجددا، ما يؤثر مباشرة في معاملات العقارات وحساب الضرائب. وينبغي لمالكي عدة منازل مراجعة العبء الضريبي وفقا لتوقيت البيع وعدد المنازل المملوكة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कई घरों पर पूंजीगत लाभ कर अधिभार आज से फिर लागू, शीर्ष दर 82.5%",
+        "excerpt": "दक्षिण कोरिया में कई घरों के मालिकों पर पूंजीगत लाभ कर अधिभार चार साल बाद आज से फिर शुरू हुआ, जिसमें प्रभावित विक्रेताओं पर अधिकतम 82.5% दर लागू हो सकती है।",
+        "body": "दक्षिण कोरिया में कई घरों के मालिकों पर पूंजीगत लाभ कर अधिभार प्रणाली आज से चार साल बाद फिर शुरू हो गई। इस व्यवस्था के लौटने से कई आवास रखने वाले लोगों पर घर बेचते समय पूंजीगत लाभ कर का बोझ बढ़ सकता है, और अधिकतम दर 82.5% बताई गई है। यह पुनरारंभ इसलिए महत्वपूर्ण है क्योंकि रुकी हुई व्यवस्था अब फिर लागू होगी, जिससे रियल एस्टेट लेनदेन और कर गणना पर सीधा असर पड़ेगा। कई घरों के मालिकों को बिक्री के समय और अपने घरों की संख्या के अनुसार कर बोझ की जांच करनी चाहिए। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Pajak Capital Gain Pemilik Banyak Rumah Berlaku Lagi, Tarif Puncak 82,5%",
+        "excerpt": "Korea Selatan mulai hari ini memberlakukan kembali setelah empat tahun tambahan pajak capital gain bagi pemilik banyak rumah, dengan tarif tertinggi 82,5%.",
+        "body": "Korea Selatan mulai hari ini memberlakukan kembali sistem tambahan pajak capital gain bagi pemilik banyak rumah setelah empat tahun dihentikan. Dengan aturan yang kembali berlaku, orang yang memiliki beberapa rumah dapat menghadapi beban pajak lebih besar saat menjual properti, dengan tarif tertinggi disebut 82,5%. Pemulihan ini penting karena aturan yang sempat ditangguhkan kini diterapkan lagi, sehingga berdampak langsung pada transaksi properti dan perhitungan pajak. Pemilik banyak rumah perlu memeriksa beban pajak sesuai waktu penjualan dan jumlah rumah yang dimiliki. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "eab1e03b7ea9",
+    "slug": "oecd-에너지물가-상승률-한달새-86p글로벌-인플레-재점화-739765",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T17:51:52.214Z",
+    "updatedAt": "2026-05-10T17:51:52.214Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509033700002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509033700002",
+    "titleFingerprint": "d5c97ac6e13bb82a53b6aaae9cb863ce898ad959",
+    "dedupKeys": [
+      "eab1e03b7ea91f82ff6658cb131e8758898bbd4b",
+      "d5c97ac6e13bb82a53b6aaae9cb863ce898ad959",
+      "bc05ad858b8ba0cbb0a0b7e11001b52c208983ed"
+    ],
+    "imageUrl": "/images/articles/eab1e03b7ea9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "OECD 에너지물가 상승률 3월 급등…글로벌 인플레 재점화 우려",
+        "excerpt": "OECD 회원국의 3월 에너지 물가 상승률이 한 달 새 8.6%포인트 뛰며 글로벌 인플레이션 압력이 다시 커질 수 있다는 우려가 제기됐다.",
+        "body": "경제협력개발기구(OECD) 회원국의 지난 3월 에너지 물가 상승률이 한 달 만에 8.6%포인트 상승했다. 연합뉴스 보도에 따르면 에너지 가격 상승세가 빠르게 확대되면서 글로벌 인플레이션이 다시 자극받을 수 있다는 관측이 나온다. 에너지 물가는 소비자물가 전반에 영향을 미치는 핵심 변수인 만큼, 이번 상승은 각국 물가 흐름을 점검해야 할 신호로 해석된다. 다만 보도된 수치는 OECD 회원국의 3월 에너지 물가 상승률 변화에 관한 것으로, 추가 전망은 향후 지표 확인이 필요하다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "OECD Energy Inflation Jumped in March, Reviving Global Price Concerns",
+        "excerpt": "Energy inflation across OECD member countries rose by 8.6 percentage points in March from the previous month, raising concerns that global inflation pressures could re-emerge.",
+        "body": "Energy inflation in OECD member countries rose by 8.6 percentage points in March from a month earlier. According to Yonhap News Agency, the sharp pickup in energy prices has raised concerns that global inflation could be reignited. Because energy prices are a key factor influencing broader consumer prices, the increase is being viewed as a signal to closely monitor inflation trends across countries. The reported figure refers to the March change in energy inflation among OECD members, and further outlooks will require confirmation through upcoming data. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "OECDエネルギー物価、3月に急上昇　世界インフレ再燃に警戒",
+        "excerpt": "OECD加盟国の3月のエネルギー物価上昇率が前月から8.6ポイント上昇し、世界的なインフレ圧力が再び強まる可能性が意識されている。",
+        "body": "経済協力開発機構（OECD）加盟国の3月のエネルギー物価上昇率は、前月から8.6ポイント上昇した。聯合ニュースによると、エネルギー価格の上昇ペースが速まったことで、世界的なインフレが再び刺激される可能性が指摘されている。エネルギー物価は消費者物価全体に影響を及ぼす重要な要因であり、今回の上昇は各国の物価動向を注視すべきシグナルと受け止められる。ただし、報じられた数値はOECD加盟国の3月のエネルギー物価上昇率の変化に関するもので、今後の見通しは追加指標の確認が必要だ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "OECD能源通胀3月大幅上升，全球通胀再燃引关注",
+        "excerpt": "OECD成员国3月能源价格涨幅较前一个月上升8.6个百分点，引发市场对全球通胀压力可能再度升温的关注。",
+        "body": "经济合作与发展组织（OECD）成员国3月能源价格涨幅较前一个月上升8.6个百分点。据韩联社报道，能源价格上涨势头迅速扩大，使全球通胀可能再次受到刺激的担忧升温。能源价格是影响整体消费者价格的重要变量，因此此次上升被视为需要继续观察各国物价走势的信号。不过，报道中的数据仅涉及OECD成员国3月能源价格涨幅的变化，后续判断仍需等待更多指标确认。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Inflación energética de la OCDE sube en marzo y reaviva alertas globales",
+        "excerpt": "La inflación energética en los países de la OCDE aumentó 8,6 puntos porcentuales en marzo frente al mes previo, elevando la preocupación por una reactivación inflacionaria global.",
+        "body": "La inflación de los precios de la energía en los países miembros de la OCDE aumentó 8,6 puntos porcentuales en marzo respecto al mes anterior. Según la agencia Yonhap, el rápido avance de los precios energéticos ha generado preocupación por una posible reactivación de la inflación global. Dado que la energía es un factor clave para el conjunto de los precios al consumidor, este repunte se interpreta como una señal para vigilar la evolución de la inflación en distintos países. La cifra informada se refiere al cambio de marzo en la inflación energética de la OCDE, por lo que cualquier perspectiva adicional requiere nuevos datos. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Inflação de energia da OCDE salta em março e reacende alerta global",
+        "excerpt": "A inflação de energia nos países da OCDE subiu 8,6 pontos percentuais em março ante o mês anterior, ampliando preocupações sobre nova pressão inflacionária global.",
+        "body": "A inflação dos preços de energia nos países membros da OCDE subiu 8,6 pontos percentuais em março em relação ao mês anterior. Segundo a agência Yonhap, a aceleração dos preços de energia levantou preocupações de que a inflação global possa voltar a ser estimulada. Como a energia é uma variável central para os preços ao consumidor em geral, o avanço é visto como um sinal para acompanhar de perto a trajetória da inflação nos países. O dado divulgado se refere à mudança de março na inflação de energia entre membros da OCDE, e novas conclusões dependem de indicadores futuros. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "OECD-Energiepreise steigen im März stark und schüren Inflationssorgen",
+        "excerpt": "Die Energieinflation in den OECD-Ländern legte im März binnen eines Monats um 8,6 Prozentpunkte zu und weckt Sorgen über erneut zunehmenden globalen Preisdruck.",
+        "body": "Die Energiepreisinflation in den Mitgliedstaaten der OECD ist im März gegenüber dem Vormonat um 8,6 Prozentpunkte gestiegen. Nach Angaben der Nachrichtenagentur Yonhap nährt der schnelle Anstieg der Energiepreise die Sorge, dass die globale Inflation erneut angefacht werden könnte. Da Energiepreise ein wichtiger Faktor für die allgemeinen Verbraucherpreise sind, gilt der Anstieg als Signal, die Preisentwicklung in den einzelnen Ländern genau zu beobachten. Die gemeldete Zahl bezieht sich auf die Veränderung der Energieinflation im März in OECD-Ländern; weitere Einschätzungen erfordern kommende Daten. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "L’inflation énergétique de l’OCDE bondit en mars, alerte mondiale ravivée",
+        "excerpt": "L’inflation des prix de l’énergie dans les pays de l’OCDE a augmenté de 8,6 points en mars sur un mois, ravivant les inquiétudes sur les pressions inflationnistes mondiales.",
+        "body": "L’inflation des prix de l’énergie dans les pays membres de l’OCDE a progressé de 8,6 points de pourcentage en mars par rapport au mois précédent. Selon l’agence Yonhap, l’accélération des prix de l’énergie suscite des inquiétudes quant à une possible relance de l’inflation mondiale. Les prix de l’énergie étant un facteur clé pour l’ensemble des prix à la consommation, cette hausse est perçue comme un signal appelant à surveiller l’évolution des prix dans les différents pays. Le chiffre rapporté concerne la variation de mars de l’inflation énergétique dans l’OCDE; toute perspective supplémentaire devra être confirmée par de nouveaux indicateurs. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "تضخم الطاقة في دول OECD يقفز في مارس ويجدد مخاوف الأسعار العالمية",
+        "excerpt": "ارتفع معدل تضخم أسعار الطاقة في دول منظمة التعاون الاقتصادي والتنمية خلال مارس بـ8.6 نقطة مئوية خلال شهر واحد، ما أثار مخاوف من تجدد ضغوط التضخم العالمي.",
+        "body": "ارتفع معدل تضخم أسعار الطاقة في الدول الأعضاء بمنظمة التعاون الاقتصادي والتنمية خلال مارس بـ8.6 نقطة مئوية مقارنة بالشهر السابق. ووفقاً لوكالة يونهاب، فإن تسارع ارتفاع أسعار الطاقة أثار مخاوف من احتمال إعادة تنشيط التضخم العالمي. وبما أن أسعار الطاقة تعد عاملاً أساسياً يؤثر في أسعار المستهلكين عموماً، فإن هذا الارتفاع يُنظر إليه كإشارة تستدعي متابعة اتجاهات الأسعار في الدول المختلفة. ويقتصر الرقم المنشور على تغير تضخم الطاقة في دول المنظمة خلال مارس، بينما تحتاج أي توقعات إضافية إلى تأكيد عبر بيانات لاحقة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "OECD ऊर्जा मुद्रास्फीति मार्च में तेज उछली, वैश्विक महंगाई चिंता बढ़ी",
+        "excerpt": "OECD सदस्य देशों में मार्च के दौरान ऊर्जा कीमतों की मुद्रास्फीति एक महीने में 8.6 प्रतिशत अंक बढ़ी, जिससे वैश्विक महंगाई दबाव फिर उभरने की चिंता बढ़ी।",
+        "body": "OECD सदस्य देशों में मार्च के दौरान ऊर्जा कीमतों की मुद्रास्फीति पिछले महीने की तुलना में 8.6 प्रतिशत अंक बढ़ी। योनहाप समाचार एजेंसी के अनुसार, ऊर्जा कीमतों में तेज बढ़ोतरी से यह चिंता सामने आई है कि वैश्विक मुद्रास्फीति फिर से प्रोत्साहित हो सकती है। ऊर्जा कीमतें व्यापक उपभोक्ता कीमतों को प्रभावित करने वाला प्रमुख कारक हैं, इसलिए यह वृद्धि विभिन्न देशों की महंगाई प्रवृत्ति पर निगरानी रखने का संकेत मानी जा रही है। प्रकाशित आंकड़ा OECD सदस्य देशों में मार्च की ऊर्जा मुद्रास्फीति में बदलाव से संबंधित है, और आगे के आकलन के लिए आगामी संकेतकों की पुष्टि जरूरी होगी। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Inflasi Energi OECD Melonjak pada Maret, Kekhawatiran Global Muncul Lagi",
+        "excerpt": "Inflasi harga energi di negara anggota OECD naik 8,6 poin persentase pada Maret dari bulan sebelumnya, memicu kekhawatiran tekanan inflasi global dapat kembali menguat.",
+        "body": "Inflasi harga energi di negara-negara anggota OECD pada Maret naik 8,6 poin persentase dibandingkan bulan sebelumnya. Menurut laporan Yonhap News Agency, laju kenaikan harga energi yang cepat memunculkan kekhawatiran bahwa inflasi global dapat kembali terdorong. Karena harga energi merupakan faktor penting yang memengaruhi harga konsumen secara keseluruhan, kenaikan ini dipandang sebagai sinyal untuk memantau tren inflasi di berbagai negara. Angka yang dilaporkan merujuk pada perubahan inflasi energi OECD pada Maret, sementara prospek lebih lanjut memerlukan konfirmasi dari data berikutnya. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "f394a97bf2cd",
     "slug": "석유최고가격-방파제로-글로벌-물가-격랑-피할까-980605",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Madeca Cream Centellian24 DongKook Dicari Pesat Usai Promo Olive Young",
         "excerpt": "Madeca Cream Centellian24 milik DongKook Pharmaceutical mencapai level pencarian Google tertinggi 52 minggu pada 31 Agustus-6 September, dipicu promo Olive Young dan ulasan luar negeri.",
         "body": "Minat pencarian terhadap Madeca Cream, produk utama merek dermokosmetik Centellian24 milik DongKook Pharmaceutical, mencapai level tertinggi 52 minggu di Google Trends pada 31 Agustus-6 September. Menurut Hankyung, pemicu utamanya adalah promo rutin September Olive Young. Madeca Cream adalah kosmetik fungsional untuk pencerahan dan perbaikan kerutan yang diluncurkan pada 2015. Perbincangan meluas karena ulasan positif dari pengguna Amerika Serikat dan Jepang di Olive Young Global Mall. DongKook sejak 2020 membidik pasar luar negeri seperti China, Jepang, dan Amerika Serikat, sementara video promosi Centellian24 di TikTok pada Juli mencatat 3,8 juta tayangan. Penjualan healthcare semester pertama mencapai 157,7 miliar won, atau 34,5% dari total. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "4742663dda04",
-    "slug": "고공비행-반도체-etf-지금-올라타도-될까요-158948",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T09:07:23.949Z",
-    "updatedAt": "2026-05-10T09:07:23.949Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051065451",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051065451",
-    "titleFingerprint": "8585d2084f6440f3fae0c7444372dc19c235dad2",
-    "dedupKeys": [
-      "4742663dda04c15e9e071050c314890503c1fcbf",
-      "8585d2084f6440f3fae0c7444372dc19c235dad2",
-      "f81de7d0c1cd64e8be2aacc9373854819e8830b3"
-    ],
-    "imageUrl": "/images/articles/4742663dda04.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 ETF 고공비행, 지금 투자해도 될까 핵심 점검",
-        "excerpt": "한국경제는 반도체 ETF가 높은 상승 흐름을 보이는 가운데 투자자들이 지금 진입해도 되는지 살펴보는 기사를 전했다.",
-        "body": "한국경제는 ‘고공비행’ 중인 반도체 ETF에 대해 투자자들이 지금 올라타도 되는지 묻는 기사를 전했다. 기사는 반도체 관련 상장지수펀드가 강한 흐름을 보이는 상황에서 신규 투자 판단이 관심사가 됐다는 점을 다뤘다. 원문에 구체적인 수익률, 기간, 종목 구성, 자금 유입 규모는 제시되지 않았다. 따라서 투자자는 해당 ETF의 상승 배경과 변동성, 반도체 업황과 시장 흐름을 함께 확인할 필요가 있다. 이번 보도는 반도체 ETF 투자 시점에 대한 시장의 관심을 보여준다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Semiconductor ETFs Are Flying High: Is It Still Time to Buy?",
-        "excerpt": "Hankyung reported on whether investors should enter semiconductor ETFs now as the funds continue to show strong upward momentum.",
-        "body": "Hankyung reported on semiconductor ETFs that are described as flying high, asking whether investors should still get on board now. The article focuses on how the strong performance of semiconductor-related exchange-traded funds has made the timing of new investment a key question. The original source did not provide specific returns, time periods, holdings, or fund inflow figures. Investors therefore need to review the reasons behind the rise, volatility, semiconductor industry conditions, and broader market trends together. The report highlights market interest in the timing of semiconductor ETF investment. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "半導体ETFが高騰、今から投資してもよいのか要点確認",
-        "excerpt": "韓国経済新聞は、半導体ETFが強い上昇基調を見せる中、投資家が今から参入すべきかを点検する記事を伝えた。",
-        "body": "韓国経済新聞は、「高空飛行」する半導体ETFについて、投資家が今から乗ってもよいのかを問う記事を伝えた。記事は、半導体関連の上場投資信託が強い流れを見せる中、新規投資の判断時点が関心事になっている点を扱った。原文には具体的な収益率、期間、構成銘柄、資金流入規模は示されていない。そのため投資家は、上昇の背景や変動性、半導体市況、市場全体の流れを併せて確認する必要がある。今回の報道は、半導体ETFの投資時点に対する市場の関心を示している。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "半导体ETF高位上行，现在还能上车吗？关键观察",
-        "excerpt": "韩国经济新闻报道称，在半导体ETF持续呈现强势走势之际，投资者关注现在是否仍适合进场。",
-        "body": "韩国经济新闻报道称，针对正在“高空飞行”的半导体ETF，市场关注投资者现在是否还能上车。报道聚焦于半导体相关交易型开放式指数基金走势强劲，使新增投资的时点判断成为关注焦点。原文未提供具体收益率、统计期间、成分持仓或资金流入规模。因此，投资者需要一并确认相关ETF上涨背景、波动性、半导体行业景气度以及整体市场走势。此次报道显示，市场对半导体ETF投资时机的关注正在升温。出处: hankyung.com"
-      },
-      "es": {
-        "title": "ETF de semiconductores en fuerte alza: ¿aún conviene entrar?",
-        "excerpt": "Hankyung informó sobre si los inversores deberían entrar ahora en ETF de semiconductores mientras estos mantienen una fuerte tendencia alcista.",
-        "body": "Hankyung informó sobre los ETF de semiconductores descritos como en “vuelo alto”, planteando si los inversores deberían subirse ahora. El artículo aborda cómo el sólido desempeño de los fondos cotizados vinculados a semiconductores ha convertido el momento de una nueva inversión en un tema de interés. La fuente original no presentó rentabilidades concretas, periodos, composición de carteras ni cifras de entradas de capital. Por ello, los inversores deben revisar conjuntamente las razones del alza, la volatilidad, las condiciones del sector de semiconductores y la tendencia general del mercado. El reporte muestra el interés del mercado por el momento de invertir en estos ETF. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "ETFs de semicondutores disparam: ainda é hora de entrar?",
-        "excerpt": "O Hankyung informou se investidores devem entrar agora em ETFs de semicondutores, enquanto esses fundos seguem com forte tendência de alta.",
-        "body": "O Hankyung publicou uma reportagem sobre ETFs de semicondutores descritos como em “voo alto”, questionando se os investidores ainda deveriam entrar agora. O texto trata de como o forte desempenho dos fundos negociados em bolsa ligados a semicondutores tornou o momento de novo investimento um ponto de atenção. A fonte original não apresentou retornos específicos, períodos, composição das carteiras nem volumes de entrada de recursos. Assim, investidores precisam avaliar em conjunto os motivos da alta, a volatilidade, as condições do setor de semicondutores e a tendência geral do mercado. A reportagem mostra o interesse do mercado pelo momento de investir nesses ETFs. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Halbleiter-ETFs im Höhenflug: Ist ein Einstieg jetzt noch sinnvoll?",
-        "excerpt": "Hankyung berichtete darüber, ob Anleger jetzt noch in Halbleiter-ETFs einsteigen sollten, während diese eine starke Aufwärtsbewegung zeigen.",
-        "body": "Hankyung berichtete über Halbleiter-ETFs, die als im Höhenflug beschrieben werden, und stellte die Frage, ob Anleger jetzt noch einsteigen sollten. Der Artikel behandelt, dass die starke Entwicklung börsengehandelter Fonds mit Halbleiterbezug den Zeitpunkt neuer Investitionen in den Mittelpunkt rückt. Die Originalquelle nannte keine konkreten Renditen, Zeiträume, Portfoliobestandteile oder Mittelzuflüsse. Anleger sollten daher die Gründe für den Anstieg, die Volatilität, die Lage der Halbleiterbranche und den allgemeinen Markttrend gemeinsam prüfen. Der Bericht zeigt das Marktinteresse am richtigen Einstiegszeitpunkt bei Halbleiter-ETFs. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "ETF semi-conducteurs en forte hausse : faut-il encore entrer ?",
-        "excerpt": "Hankyung a rapporté que les investisseurs s’interrogent sur l’opportunité d’entrer maintenant dans les ETF semi-conducteurs en forte hausse.",
-        "body": "Hankyung a publié un article sur les ETF liés aux semi-conducteurs, décrits comme en plein « vol en altitude », en demandant si les investisseurs devraient encore monter à bord maintenant. L’article souligne que la forte dynamique des fonds indiciels cotés liés aux semi-conducteurs rend le moment d’un nouvel investissement particulièrement suivi. La source originale ne fournit pas de rendement précis, de période, de composition de portefeuille ni de montant d’entrées de capitaux. Les investisseurs doivent donc examiner ensemble les raisons de la hausse, la volatilité, la conjoncture du secteur des semi-conducteurs et la tendance générale du marché. Ce reportage montre l’intérêt du marché pour le timing d’investissement dans ces ETF. Source : hankyung.com"
-      },
-      "ar": {
-        "title": "صناديق أشباه الموصلات المتداولة تحلق عالياً: هل حان وقت الدخول؟",
-        "excerpt": "أفادت هانكيونغ بأن المستثمرين يتساءلون عما إذا كان دخول صناديق ETF لأشباه الموصلات مناسباً الآن مع استمرار زخمها الصاعد.",
-        "body": "أفادت هانكيونغ بتقرير عن صناديق المؤشرات المتداولة المرتبطة بأشباه الموصلات، ووصفتها بأنها تحلق عالياً، طارحة سؤال ما إذا كان ينبغي للمستثمرين الدخول الآن. يركز التقرير على أن الأداء القوي لهذه الصناديق جعل توقيت الاستثمار الجديد موضع اهتمام. ولم يورد المصدر الأصلي عوائد محددة أو فترة زمنية أو مكونات المحافظ أو حجم تدفقات الأموال. لذلك يحتاج المستثمرون إلى مراجعة خلفية الارتفاع والتقلبات وظروف قطاع أشباه الموصلات واتجاه السوق العام معاً. ويظهر التقرير اهتمام السوق بتوقيت الاستثمار في صناديق ETF لأشباه الموصلات. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर ETF ऊंचाई पर, क्या अब निवेश करना सही रहेगा?",
-        "excerpt": "हैंक्युंग ने बताया कि सेमीकंडक्टर ETF में मजबूत तेजी के बीच निवेशक अब इनमें प्रवेश करना चाहिए या नहीं, इस पर ध्यान दे रहे हैं।",
-        "body": "हैंक्युंग ने उन सेमीकंडक्टर ETF पर रिपोर्ट दी जिन्हें तेज ऊंचाई पर बताया गया है, और पूछा कि क्या निवेशकों को अब इनमें शामिल होना चाहिए। लेख में बताया गया कि सेमीकंडक्टर से जुड़े एक्सचेंज ट्रेडेड फंडों की मजबूत चाल ने नए निवेश के समय को प्रमुख सवाल बना दिया है। मूल स्रोत में विशिष्ट रिटर्न, अवधि, होल्डिंग संरचना या धन प्रवाह के आंकड़े नहीं दिए गए। इसलिए निवेशकों को बढ़त की पृष्ठभूमि, उतार-चढ़ाव, सेमीकंडक्टर उद्योग की स्थिति और व्यापक बाजार रुझान को साथ देखकर जांचना चाहिए। यह रिपोर्ट सेमीकंडक्टर ETF में निवेश के समय को लेकर बाजार की रुचि दिखाती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "ETF Semikonduktor Terbang Tinggi, Masih Layak Masuk Sekarang?",
-        "excerpt": "Hankyung melaporkan apakah investor sebaiknya masuk ke ETF semikonduktor sekarang saat produk tersebut menunjukkan tren kenaikan kuat.",
-        "body": "Hankyung melaporkan ETF semikonduktor yang disebut sedang “terbang tinggi”, dengan pertanyaan apakah investor masih perlu masuk sekarang. Artikel itu menyoroti bahwa kinerja kuat exchange traded fund terkait semikonduktor membuat waktu investasi baru menjadi perhatian. Sumber asli tidak menyajikan angka imbal hasil, periode, komposisi kepemilikan, atau besaran aliran dana secara spesifik. Karena itu, investor perlu meninjau bersama latar belakang kenaikan, volatilitas, kondisi industri semikonduktor, dan arah pasar secara umum. Laporan ini menunjukkan minat pasar terhadap waktu investasi pada ETF semikonduktor. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "b8ba66c20e3f",
-    "slug": "단독-주주들-속-타들어가는데카카오-노조-우리도-영업익-10-달라-832804",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T09:06:30.857Z",
-    "updatedAt": "2026-05-10T09:06:30.857Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12042692",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12042692",
-    "titleFingerprint": "4943ab2d19caaa6861e7d80c6194cdb372e93736",
-    "dedupKeys": [
-      "b8ba66c20e3f5cf3b0f02a09785ac2826e17339a",
-      "4943ab2d19caaa6861e7d80c6194cdb372e93736",
-      "076622109a98cf45d45cef34f03ce637bfe835f4"
-    ],
-    "imageUrl": "/images/articles/b8ba66c20e3f.png",
-    "i18n": {
-      "ko": {
-        "title": "카카오 노조, 영업이익 10% 성과급 요구…본사 첫 파업 위기 고조",
-        "excerpt": "카카오 노조가 SK하이닉스 사례처럼 영업이익 10% 이상을 성과급으로 요구하면서 카카오가 창사 이래 처음 본사 파업 위기에 직면했다고 mk.co.kr이 보도했다.",
-        "body": "국내 대표 IT 기업 카카오가 창사 이래 처음으로 본사 파업 위기에 놓였다. 전국화학섬유식품산업노동조합 카카오지회, 즉 카카오 노조가 SK하이닉스처럼 영업이익의 10% 이상을 성과급으로 달라고 요구하면서 노사 갈등이 부각됐다. 원문은 주주들이 속을 태우는 상황에서 노조의 성과급 요구가 제기됐다고 전했다. 요구의 핵심 수치는 영업이익 10% 이상이며, 비교 대상으로는 SK하이닉스 사례가 언급됐다. 이번 사안은 카카오 본사 차원의 첫 파업 가능성이라는 점에서 회사와 주주, 구성원 모두의 관심이 커질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kakao Union Seeks 10% of Operating Profit, Raising First HQ Strike Risk",
-        "excerpt": "Kakao’s union has demanded performance bonuses worth at least 10% of operating profit, similar to SK hynix, putting Kakao at risk of its first headquarters strike, mk.co.kr reported.",
-        "body": "Kakao, one of South Korea’s leading IT companies, is facing the risk of a strike at its headquarters for the first time since its founding. The Kakao branch of the Korean Chemical, Textile and Food Workers’ Union has demanded performance bonuses equal to at least 10% of operating profit, citing the SK hynix case. The original report said the demand came as shareholders were already growing anxious. The key figure in the demand is more than 10% of operating profit, with SK hynix mentioned as the comparison. The issue is expected to draw attention from the company, shareholders and employees because it could become Kakao’s first headquarters-level strike. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "カカオ労組、営業利益10％の成果給要求　本社初のスト危機に",
-        "excerpt": "カカオ労組がSKハイニックスのように営業利益の10％以上を成果給として求め、カカオが創業以来初の本社スト危機に直面したとmk.co.krが報じた。",
-        "body": "韓国を代表するIT企業カカオが、創業以来初めて本社でのストライキ危機に直面している。全国化学繊維食品産業労働組合カカオ支会、すなわちカカオ労組は、SKハイニックスのように営業利益の10％以上を成果給として支給するよう求め、労使対立が浮き彫りになった。原文は、株主の不安が高まる状況で労組の成果給要求が出されたと伝えた。要求の核心となる数値は営業利益10％以上で、比較対象としてSKハイニックスの事例が挙げられた。今回の事案はカカオ本社レベルで初のストとなる可能性があるため、会社、株主、社員の関心が高まる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Kakao工会要求营业利润10%作奖金，总部首次罢工风险升温",
-        "excerpt": "据mk.co.kr报道，Kakao工会要求像SK海力士一样将营业利润10%以上作为绩效奖金，Kakao面临创立以来首次总部罢工危机。",
-        "body": "韩国代表性IT企业Kakao正面临创立以来首次总部罢工危机。全国化学纤维食品产业劳动组合Kakao支会，即Kakao工会，要求像SK海力士一样将营业利润的10%以上作为绩效奖金发放，劳资矛盾因此受到关注。原文称，在股东感到焦虑的情况下，工会提出了这一绩效奖金要求。该要求的核心数字是营业利润10%以上，比较对象则是SK海力士案例。由于此事可能发展为Kakao总部层面的首次罢工，预计公司、股东和员工都将持续关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Sindicato de Kakao pide 10% del beneficio operativo y eleva riesgo de huelga",
-        "excerpt": "El sindicato de Kakao pidió bonos equivalentes a más del 10% del beneficio operativo, como SK hynix, y la empresa enfrenta su primera amenaza de huelga en la sede, informó mk.co.kr.",
-        "body": "Kakao, una de las principales empresas de tecnología de Corea del Sur, enfrenta por primera vez desde su fundación el riesgo de una huelga en su sede. La sección de Kakao del Sindicato Coreano de Trabajadores Químicos, Textiles y Alimentarios exigió bonos de desempeño equivalentes a al menos el 10% del beneficio operativo, citando el caso de SK hynix. El reporte original señaló que la demanda surgió en momentos de inquietud entre los accionistas. La cifra clave es más del 10% del beneficio operativo, con SK hynix como referencia. El caso atraerá atención de la empresa, los accionistas y los empleados porque podría convertirse en la primera huelga a nivel de sede de Kakao. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Sindicato da Kakao pede 10% do lucro operacional e amplia risco de greve",
-        "excerpt": "O sindicato da Kakao pediu bônus de desempenho de mais de 10% do lucro operacional, como na SK hynix, levando a empresa ao risco de sua primeira greve na sede, informou o mk.co.kr.",
-        "body": "A Kakao, uma das principais empresas de tecnologia da Coreia do Sul, enfrenta pela primeira vez desde sua fundação o risco de greve em sua sede. A seção da Kakao do Sindicato Coreano dos Trabalhadores Químicos, Têxteis e Alimentícios exigiu bônus de desempenho equivalentes a pelo menos 10% do lucro operacional, citando o caso da SK hynix. A reportagem original afirmou que a demanda surgiu enquanto acionistas demonstravam preocupação. O número central do pedido é mais de 10% do lucro operacional, com a SK hynix como comparação. O tema deve atrair atenção da empresa, dos acionistas e dos funcionários por poder se tornar a primeira greve na sede da Kakao. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kakao-Gewerkschaft fordert 10% des Betriebsgewinns, Streikrisiko wächst",
-        "excerpt": "Die Kakao-Gewerkschaft verlangt Boni von mindestens 10% des Betriebsgewinns nach dem Vorbild von SK hynix; Kakao droht erstmals ein Streik in der Zentrale, berichtete mk.co.kr.",
-        "body": "Kakao, eines der führenden IT-Unternehmen Südkoreas, steht erstmals seit seiner Gründung vor der Gefahr eines Streiks in der Konzernzentrale. Die Kakao-Sparte der Korean Chemical, Textile and Food Workers’ Union fordert Leistungsboni in Höhe von mindestens 10% des Betriebsgewinns und verweist dabei auf SK hynix. Der Originalbericht meldete, dass diese Forderung in einer Situation erhöhter Unruhe unter Aktionären erhoben wurde. Die zentrale Kennzahl der Forderung lautet mehr als 10% des Betriebsgewinns, als Vergleich wird SK hynix genannt. Da es sich um den ersten möglichen Streik auf Ebene der Kakao-Zentrale handeln könnte, dürfte das Thema bei Unternehmen, Aktionären und Beschäftigten Aufmerksamkeit auslösen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le syndicat de Kakao réclame 10% du bénéfice opérationnel, risque de grève",
-        "excerpt": "Le syndicat de Kakao demande des primes d’au moins 10% du bénéfice opérationnel, comme chez SK hynix, plaçant l’entreprise face à un premier risque de grève au siège, selon mk.co.kr.",
-        "body": "Kakao, l’une des principales entreprises technologiques sud-coréennes, fait face pour la première fois depuis sa création à un risque de grève dans son siège. La branche Kakao du Syndicat coréen des travailleurs de la chimie, du textile et de l’alimentation demande des primes de performance équivalentes à au moins 10% du bénéfice opérationnel, en citant l’exemple de SK hynix. Le rapport original indique que cette demande intervient alors que les actionnaires sont déjà inquiets. Le chiffre central est supérieur à 10% du bénéfice opérationnel, avec SK hynix comme référence. L’affaire devrait attirer l’attention de l’entreprise, des actionnaires et des salariés car elle pourrait devenir la première grève au niveau du siège de Kakao. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "نقابة كاكاو تطالب بـ10% من الربح التشغيلي وتزيد خطر أول إضراب بالمقر",
-        "excerpt": "طالبت نقابة كاكاو بمكافآت أداء لا تقل عن 10% من الربح التشغيلي على غرار SK hynix، ما يضع الشركة أمام خطر أول إضراب في مقرها، بحسب mk.co.kr.",
-        "body": "تواجه كاكاو، إحدى أبرز شركات تكنولوجيا المعلومات في كوريا الجنوبية، خطر إضراب في مقرها للمرة الأولى منذ تأسيسها. فقد طالبت شعبة كاكاو في نقابة عمال الصناعات الكيميائية والنسيجية والغذائية الكورية بمكافآت أداء تعادل 10% على الأقل من الربح التشغيلي، مستندة إلى مثال SK hynix. وذكر التقرير الأصلي أن هذا المطلب طُرح بينما كان المساهمون يشعرون بالقلق. الرقم المحوري في الطلب هو أكثر من 10% من الربح التشغيلي، مع ذكر SK hynix كحالة مقارنة. ومن المتوقع أن يحظى الأمر باهتمام الشركة والمساهمين والموظفين لأنه قد يصبح أول إضراب على مستوى مقر كاكاو. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Kakao यूनियन ने परिचालन लाभ का 10% मांगा, पहली मुख्यालय हड़ताल का जोखिम",
-        "excerpt": "Kakao यूनियन ने SK hynix की तरह परिचालन लाभ के 10% से अधिक को प्रदर्शन बोनस के रूप में मांगा है, जिससे कंपनी पहली मुख्यालय हड़ताल के जोखिम में है, mk.co.kr ने बताया।",
-        "body": "दक्षिण कोरिया की प्रमुख आईटी कंपनी Kakao अपने गठन के बाद पहली बार मुख्यालय स्तर की हड़ताल के जोखिम का सामना कर रही है। कोरियन केमिकल, टेक्सटाइल एंड फूड वर्कर्स यूनियन की Kakao शाखा ने SK hynix की तरह परिचालन लाभ के कम से कम 10% के बराबर प्रदर्शन बोनस की मांग की है। मूल रिपोर्ट के अनुसार, यह मांग ऐसे समय सामने आई जब शेयरधारक पहले से चिंतित थे। मांग का मुख्य आंकड़ा परिचालन लाभ का 10% से अधिक है, और तुलना के लिए SK hynix का उदाहरण दिया गया है। यह मामला कंपनी, शेयरधारकों और कर्मचारियों का ध्यान खींच सकता है क्योंकि यह Kakao के मुख्यालय स्तर की पहली हड़ताल बन सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Serikat Kakao Minta 10% Laba Operasi, Risiko Mogok Kantor Pusat Meningkat",
-        "excerpt": "Serikat Kakao meminta bonus kinerja lebih dari 10% laba operasi seperti SK hynix, membuat Kakao menghadapi risiko mogok kantor pusat pertama sejak berdiri, lapor mk.co.kr.",
-        "body": "Kakao, salah satu perusahaan IT utama Korea Selatan, menghadapi risiko mogok di kantor pusat untuk pertama kalinya sejak didirikan. Cabang Kakao dari Serikat Pekerja Industri Kimia, Tekstil, dan Makanan Korea menuntut bonus kinerja setara sedikitnya 10% dari laba operasi, dengan merujuk pada kasus SK hynix. Laporan asli menyebut tuntutan itu muncul saat para pemegang saham sedang merasa cemas. Angka utama dalam tuntutan tersebut adalah lebih dari 10% laba operasi, sementara SK hynix disebut sebagai pembanding. Isu ini diperkirakan menarik perhatian perusahaan, pemegang saham, dan karyawan karena dapat menjadi mogok pertama di tingkat kantor pusat Kakao. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c52e0ea93886",
-    "slug": "개발도상국-성장-모델인-韓-핵심-요소는-교육기술혁신-127080",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T09:05:28.349Z",
-    "updatedAt": "2026-05-10T09:05:28.349Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12042727",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12042727",
-    "titleFingerprint": "b81ddfe7f8a73a90e28d58182c72aeae09ac8b77",
-    "dedupKeys": [
-      "c52e0ea938865fa95b80e0ecd71b2e35ac611de8",
-      "b81ddfe7f8a73a90e28d58182c72aeae09ac8b77",
-      "896b7e844b14ba461ec29eeafae555b715e8d591"
-    ],
-    "imageUrl": "/images/articles/c52e0ea93886.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국 성장 모델 핵심은 교육·기술혁신, 세계은행이 본 개발도상국 해법",
-        "excerpt": "광저 천 세계은행 플래닛 부문 부총재는 8일 세종컨퍼런스에서 한국의 개발도상국 성장 모델 핵심 요소로 교육과 기술혁신을 꼽고 에너지 전환 가능성도 언급했다.",
-        "body": "광저 천 세계은행 플래닛 부문 부총재는 지난 8일 세종컨퍼런스에서 한국이 개발도상국 성장 모델로 주목받는 핵심 요인으로 교육과 기술혁신을 제시했다. 그는 한국의 성장 경험이 개발도상국에 참고 사례가 될 수 있다고 봤다. 천 부총재는 또 중동 전쟁에서 비롯된 고유가가 석유 수입국에는 부담이지만, 역설적으로 탈탄소화를 위한 에너지 전환을 더 빠르게 추진하는 계기가 될 수 있다고 말했다. 고유가 환경이 에너지 안보와 비용 문제를 동시에 부각시키면서 수입국의 정책 선택에도 영향을 줄 수 있다는 취지다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Korea Growth Model Centers on Education and Tech Innovation, World Bank Says",
-        "excerpt": "World Bank Planet Vice President Guangzhe Chen said at the Sejong Conference on May 8 that education and technological innovation are key to Korea’s growth model for developing countries.",
-        "body": "World Bank Planet Vice President Guangzhe Chen said at the Sejong Conference on May 8 that education and technological innovation are core elements of Korea’s growth model for developing countries. He viewed Korea’s development experience as a reference case for emerging economies. Chen also said high oil prices triggered by the war in the Middle East, while a burden for oil-importing countries, could paradoxically accelerate their energy transition for decarbonization. His point was that a high-price environment highlights both energy security and cost pressures, influencing policy choices in importing nations. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "韓国成長モデルの核心は教育・技術革新、世界銀行が示す途上国のヒント",
-        "excerpt": "世界銀行プラネット部門の広哲・陳副総裁は5月8日の世宗コンファレンスで、韓国の途上国向け成長モデルの核心に教育と技術革新を挙げた。",
-        "body": "世界銀行プラネット部門の広哲・陳副総裁は5月8日、世宗コンファレンスで、韓国が開発途上国の成長モデルとして注目される核心要因に教育と技術革新を挙げた。陳副総裁は、韓国の成長経験が途上国にとって参考事例になり得るとの見方を示した。また、中東戦争に由来する原油高は石油輸入国に負担となる一方、逆説的に脱炭素化に向けたエネルギー転換をさらに加速させる契機になり得ると述べた。原油高がエネルギー安全保障とコスト問題を同時に浮き彫りにし、輸入国の政策選択にも影響し得るという趣旨だ。出所はmk.co.kr。"
-      },
-      "zh": {
-        "title": "韩国增长模式核心在教育与技术创新，世界银行谈发展中国家路径",
-        "excerpt": "世界银行地球事务副行长广哲·陈5月8日在世宗会议上表示，教育和技术创新是韩国作为发展中国家增长模式的核心要素。",
-        "body": "世界银行地球事务副行长广哲·陈5月8日在世宗会议上表示，韩国作为发展中国家增长模式受到关注，其核心因素是教育和技术创新。他认为，韩国的增长经验可成为发展中国家的参考案例。陈还表示，中东战争引发的高油价虽然会给石油进口国带来负担，但也可能反过来成为加快脱碳能源转型的契机。其意思是，高油价环境同时凸显能源安全和成本问题，并可能影响进口国的政策选择。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Modelo de crecimiento de Corea: educación e innovación tecnológica, según el Banco Mundial",
-        "excerpt": "Guangzhe Chen, vicepresidente de Planeta del Banco Mundial, dijo el 8 de mayo en la Conferencia de Sejong que la educación y la innovación tecnológica explican el modelo coreano.",
-        "body": "Guangzhe Chen, vicepresidente de Planeta del Banco Mundial, dijo el 8 de mayo en la Conferencia de Sejong que la educación y la innovación tecnológica son elementos centrales del modelo de crecimiento de Corea para los países en desarrollo. Señaló que la experiencia coreana puede servir como referencia para esas economías. Chen también afirmó que los altos precios del petróleo derivados de la guerra en Oriente Medio, aunque suponen una carga para los importadores, podrían acelerar de forma paradójica la transición energética hacia la descarbonización. La idea es que el encarecimiento del crudo destaca tanto la seguridad energética como los costos, influyendo en las decisiones de política. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Modelo de crescimento da Coreia tem educação e inovação, diz Banco Mundial",
-        "excerpt": "Guangzhe Chen, vice-presidente de Planeta do Banco Mundial, disse em 8 de maio na Conferência de Sejong que educação e inovação tecnológica são centrais no modelo coreano.",
-        "body": "Guangzhe Chen, vice-presidente de Planeta do Banco Mundial, afirmou em 8 de maio, na Conferência de Sejong, que educação e inovação tecnológica são elementos centrais do modelo de crescimento da Coreia para países em desenvolvimento. Ele avaliou que a experiência coreana pode servir como referência para essas economias. Chen também disse que a alta do petróleo causada pela guerra no Oriente Médio, embora pese sobre países importadores, pode paradoxalmente acelerar a transição energética voltada à descarbonização. O ponto é que preços elevados reforçam ao mesmo tempo questões de segurança energética e custos, influenciando escolhas de política. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Koreas Wachstumsmodell beruht auf Bildung und Technologieinnovation, sagt Weltbank",
-        "excerpt": "Weltbank-Planet-Vizepräsident Guangzhe Chen sagte am 8. Mai auf der Sejong-Konferenz, Bildung und technologische Innovation seien Kernpunkte des koreanischen Modells.",
-        "body": "Guangzhe Chen, Vizepräsident des Planet-Bereichs der Weltbank, sagte am 8. Mai auf der Sejong-Konferenz, Bildung und technologische Innovation seien zentrale Elemente des koreanischen Wachstumsmodells für Entwicklungsländer. Er sah Koreas Entwicklungserfahrung als möglichen Referenzfall für diese Länder. Chen erklärte zudem, dass hohe Ölpreise infolge des Kriegs im Nahen Osten für Ölimporteure zwar eine Belastung seien, zugleich aber paradoxerweise die Energiewende zur Dekarbonisierung beschleunigen könnten. Gemeint ist, dass hohe Preise Energieversorgungssicherheit und Kostenfragen zugleich hervorheben und politische Entscheidungen der Importländer beeinflussen können. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Le modèle de croissance coréen repose sur l’éducation et l’innovation, selon la Banque mondiale",
-        "excerpt": "Guangzhe Chen, vice-président Planète de la Banque mondiale, a déclaré le 8 mai à la conférence de Sejong que l’éducation et l’innovation technologique sont clés.",
-        "body": "Guangzhe Chen, vice-président du pôle Planète de la Banque mondiale, a déclaré le 8 mai lors de la conférence de Sejong que l’éducation et l’innovation technologique sont des éléments centraux du modèle de croissance coréen pour les pays en développement. Il a estimé que l’expérience de la Corée pouvait servir de référence à ces économies. Chen a aussi indiqué que la hausse des prix du pétrole liée à la guerre au Moyen-Orient, bien qu’elle pèse sur les pays importateurs, pourrait paradoxalement accélérer leur transition énergétique vers la décarbonation. Selon lui, un pétrole cher met en avant à la fois la sécurité énergétique et les coûts, influençant les choix politiques. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "نموذج النمو الكوري يرتكز على التعليم والابتكار التقني وفق البنك الدولي",
-        "excerpt": "قال غوانغزه تشن، نائب رئيس قطاع الكوكب في البنك الدولي، في مؤتمر سيجونغ يوم 8 مايو إن التعليم والابتكار التقني عنصران أساسيان في نموذج كوريا للنمو.",
-        "body": "قال غوانغزه تشن، نائب رئيس قطاع الكوكب في البنك الدولي، في مؤتمر سيجونغ يوم 8 مايو إن التعليم والابتكار التقني يمثلان عنصرين محوريين في نموذج النمو الكوري للدول النامية. ورأى أن تجربة كوريا في النمو يمكن أن تكون حالة مرجعية لهذه الدول. وأضاف تشن أن ارتفاع أسعار النفط الناتج عن الحرب في الشرق الأوسط، رغم أنه يشكل عبئاً على الدول المستوردة للنفط، قد يصبح على نحو معاكس دافعاً لتسريع تحول الطاقة من أجل إزالة الكربون. والمقصود أن بيئة الأسعار المرتفعة تبرز في الوقت نفسه أمن الطاقة وتكاليفها، وقد تؤثر في خيارات السياسات لدى الدول المستوردة. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "कोरिया विकास मॉडल में शिक्षा और तकनीकी नवाचार मुख्य, विश्व बैंक की राय",
-        "excerpt": "विश्व बैंक के प्लैनेट विभाग के उपाध्यक्ष गुआंगझे चेन ने 8 मई को सेजोंग सम्मेलन में कहा कि कोरिया के विकास मॉडल में शिक्षा और तकनीकी नवाचार मुख्य तत्व हैं।",
-        "body": "विश्व बैंक के प्लैनेट विभाग के उपाध्यक्ष गुआंगझे चेन ने 8 मई को सेजोंग सम्मेलन में कहा कि विकासशील देशों के लिए कोरिया के विकास मॉडल के मुख्य कारक शिक्षा और तकनीकी नवाचार हैं। उन्होंने माना कि कोरिया का विकास अनुभव विकासशील देशों के लिए संदर्भ बन सकता है। चेन ने यह भी कहा कि मध्य पूर्व युद्ध से पैदा हुई ऊंची तेल कीमतें तेल आयातक देशों पर बोझ डालती हैं, लेकिन विडंबना यह है कि वे डीकार्बोनाइजेशन के लिए ऊर्जा संक्रमण को और तेज करने का अवसर भी बन सकती हैं। उनका आशय था कि महंगा तेल ऊर्जा सुरक्षा और लागत, दोनों सवालों को सामने लाता है और आयातक देशों की नीति पसंदों को प्रभावित कर सकता है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Model Pertumbuhan Korea Bertumpu pada Pendidikan dan Inovasi Teknologi, Kata Bank Dunia",
-        "excerpt": "Wakil Presiden Planet Bank Dunia Guangzhe Chen mengatakan pada 8 Mei di Konferensi Sejong bahwa pendidikan dan inovasi teknologi menjadi inti model pertumbuhan Korea.",
-        "body": "Wakil Presiden Planet Bank Dunia Guangzhe Chen mengatakan pada 8 Mei di Konferensi Sejong bahwa pendidikan dan inovasi teknologi merupakan elemen inti model pertumbuhan Korea bagi negara berkembang. Ia menilai pengalaman pertumbuhan Korea dapat menjadi rujukan bagi negara-negara tersebut. Chen juga mengatakan harga minyak tinggi akibat perang di Timur Tengah, meski menjadi beban bagi negara pengimpor minyak, secara paradoks dapat mempercepat transisi energi untuk dekarbonisasi. Maksudnya, lingkungan harga tinggi menyoroti keamanan energi dan persoalan biaya sekaligus, sehingga dapat memengaruhi pilihan kebijakan negara pengimpor. Sumber: mk.co.kr."
       }
     }
   }
