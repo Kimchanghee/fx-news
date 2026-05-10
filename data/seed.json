@@ -1,5 +1,230 @@
 [
   {
+    "id": "53d1965fb0d0",
+    "slug": "뉴발란스-여의도-한강공원에-러닝-체험-공간대여-서비스-제공-844537",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T15:57:51.339Z",
+    "updatedAt": "2026-05-10T15:57:51.339Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510015400030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510015400030",
+    "titleFingerprint": "dc91a22e36d419062ff1395c7392a9c11821bad0",
+    "dedupKeys": [
+      "53d1965fb0d0bebea9188ce6a087be346a33f760",
+      "dc91a22e36d419062ff1395c7392a9c11821bad0",
+      "49bb551d87c7cd25ae719a554c9055053b83616b"
+    ],
+    "imageUrl": "/images/articles/53d1965fb0d0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "뉴발란스, 여의도 한강공원 이크루즈 선착장에 러닝 체험 공간 열고 대여 서비스 제공",
+        "excerpt": "이랜드월드가 전개하는 뉴발란스는 서울 여의도 한강공원 이크루즈 선착장에 러닝 체험 공간을 마련하고 방문객 대상 대여 서비스를 제공한다.",
+        "body": "이랜드월드가 전개하는 스포츠 브랜드 뉴발란스는 서울 여의도 한강공원 이크루즈 선착장에 러닝 체험 공간을 마련하고 대여 서비스를 제공한다고 연합뉴스가 보도했다. 이번 공간은 한강공원을 찾는 방문객이 러닝을 체험할 수 있도록 조성된 장소로, 브랜드가 운영하는 현장형 체험 서비스라는 점이 특징이다. 여의도 한강공원은 도심 속 러닝 수요가 꾸준한 지역으로, 선착장 인근 접근성을 활용해 이용자 접점을 넓히는 효과가 예상된다. 뉴발란스는 해당 공간을 통해 러닝 경험과 브랜드 체험을 함께 제공한다. 출처: yna.co.kr."
+      },
+      "en": {
+        "title": "New Balance Opens Running Experience Space at Yeouido Hangang Park With Rental Service",
+        "excerpt": "New Balance, operated by E-Land World, has set up a running experience space at the E Cruise dock in Seoul’s Yeouido Hangang Park and will offer rentals to visitors.",
+        "body": "New Balance, the sports brand operated by E-Land World, has opened a running experience space at the E Cruise dock in Seoul’s Yeouido Hangang Park and will provide a rental service, Yonhap News Agency reported. The space is designed for visitors to the Hangang Park area to experience running and is notable as an on-site brand experience service. Yeouido Hangang Park is a downtown area with steady running demand, and the dock location may help the brand expand contact with users through accessible park traffic. Through the space, New Balance is offering both a running experience and brand engagement. Source: yna.co.kr."
+      },
+      "ja": {
+        "title": "ニューバランス、汝矣島漢江公園のEクルーズ船着場にランニング体験空間を開設",
+        "excerpt": "イーランドワールドが展開するニューバランスは、ソウル汝矣島漢江公園のEクルーズ船着場にランニング体験空間を設け、来訪者向けにレンタルサービスを提供する。",
+        "body": "イーランドワールドが展開するスポーツブランドのニューバランスは、ソウル汝矣島漢江公園のEクルーズ船着場にランニング体験空間を設け、レンタルサービスを提供すると聯合ニュースが報じた。この空間は、漢江公園を訪れる人がランニングを体験できるように造成された場所で、ブランドが運営する現場型体験サービスである点が特徴だ。汝矣島漢江公園は都心でランニング需要が続く地域であり、船着場周辺のアクセスを生かして利用者との接点を広げる効果が見込まれる。ニューバランスはこの空間を通じて、ランニング体験とブランド体験をあわせて提供する。出典: yna.co.kr."
+      },
+      "zh": {
+        "title": "New Balance在汝矣岛汉江公园E Cruise码头开设跑步体验空间并提供租借服务",
+        "excerpt": "由衣恋世界运营的New Balance在首尔汝矣岛汉江公园E Cruise码头设立跑步体验空间，并面向到访者提供租借服务。",
+        "body": "韩联社报道称，由衣恋世界运营的运动品牌New Balance在首尔汝矣岛汉江公园E Cruise码头设立跑步体验空间，并提供租借服务。该空间面向到访汉江公园的游客，让他们能够体验跑步，是品牌运营的现场型体验服务。汝矣岛汉江公园位于市中心，跑步需求稳定，借助码头周边的便利位置，品牌有望扩大与使用者的接触点。New Balance将通过这一空间同时提供跑步体验和品牌体验。来源: yna.co.kr."
+      },
+      "es": {
+        "title": "New Balance abre un espacio de running en Yeouido Hangang Park con servicio de alquiler",
+        "excerpt": "New Balance, marca gestionada por E-Land World, instaló un espacio de experiencia de running en el muelle E Cruise del parque Yeouido Hangang de Seúl y ofrecerá alquileres a visitantes.",
+        "body": "New Balance, la marca deportiva gestionada por E-Land World, instaló un espacio de experiencia de running en el muelle E Cruise del parque Yeouido Hangang de Seúl y ofrecerá un servicio de alquiler, informó la agencia Yonhap. El espacio fue creado para que los visitantes del parque puedan probar la actividad de correr, y destaca como un servicio de experiencia presencial operado por la marca. Yeouido Hangang Park es una zona urbana con demanda constante de running, y la ubicación junto al muelle permite ampliar los puntos de contacto con los usuarios. New Balance ofrecerá allí tanto experiencia de running como interacción con la marca. Fuente: yna.co.kr."
+      },
+      "pt": {
+        "title": "New Balance abre espaço de corrida no Yeouido Hangang Park com serviço de aluguel",
+        "excerpt": "A New Balance, operada pela E-Land World, instalou um espaço de experiência de corrida no píer E Cruise do Yeouido Hangang Park, em Seul, e oferecerá aluguel a visitantes.",
+        "body": "A New Balance, marca esportiva operada pela E-Land World, instalou um espaço de experiência de corrida no píer E Cruise do Yeouido Hangang Park, em Seul, e oferecerá um serviço de aluguel, informou a agência Yonhap. O espaço foi criado para que visitantes do parque possam experimentar a corrida, destacando-se como um serviço presencial de experiência de marca. O Yeouido Hangang Park é uma área urbana com demanda constante por corrida, e a localização próxima ao píer pode ampliar os pontos de contato com os usuários. Por meio do espaço, a New Balance oferecerá experiência de corrida e contato com a marca. Fonte: yna.co.kr."
+      },
+      "de": {
+        "title": "New Balance eröffnet Lauf-Erlebnisfläche im Yeouido Hangang Park mit Verleihservice",
+        "excerpt": "New Balance, betrieben von E-Land World, richtet am E-Cruise-Anleger im Yeouido Hangang Park in Seoul eine Lauf-Erlebnisfläche ein und bietet Besuchern einen Verleihservice.",
+        "body": "New Balance, die von E-Land World betriebene Sportmarke, hat am E-Cruise-Anleger im Yeouido Hangang Park in Seoul eine Lauf-Erlebnisfläche eingerichtet und bietet dort einen Verleihservice an, berichtete die Nachrichtenagentur Yonhap. Die Fläche wurde geschaffen, damit Besucher des Hangang-Parks Laufen vor Ort erleben können, und ist als standortbezogener Markenservice angelegt. Der Yeouido Hangang Park ist ein innerstädtisches Gebiet mit stetiger Laufnachfrage; die Lage am Anleger kann den Kontakt zu Nutzern erweitern. New Balance verbindet dort Lauferlebnis und Markenerfahrung. Quelle: yna.co.kr."
+      },
+      "fr": {
+        "title": "New Balance ouvre un espace running au Yeouido Hangang Park avec service de location",
+        "excerpt": "New Balance, marque exploitée par E-Land World, a installé un espace d’expérience running au quai E Cruise du parc Yeouido Hangang à Séoul et proposera un service de location aux visiteurs.",
+        "body": "New Balance, la marque de sport exploitée par E-Land World, a installé un espace d’expérience running au quai E Cruise du parc Yeouido Hangang à Séoul et proposera un service de location, a rapporté l’agence Yonhap. Cet espace a été conçu pour permettre aux visiteurs du parc de faire l’expérience de la course, avec un service de marque déployé directement sur site. Le parc Yeouido Hangang se situe en centre-ville et connaît une demande régulière pour le running; l’emplacement près du quai peut élargir les points de contact avec les utilisateurs. New Balance y proposera à la fois une expérience de course et une expérience de marque. Source: yna.co.kr."
+      },
+      "ar": {
+        "title": "نيو بالانس تفتح مساحة لتجربة الجري في حديقة يويدو هانغانغ مع خدمة تأجير",
+        "excerpt": "أنشأت نيو بالانس، التي تديرها إي لاند وورلد، مساحة لتجربة الجري عند رصيف E Cruise في حديقة يويدو هانغانغ بسيول، وستوفر خدمة تأجير للزوار.",
+        "body": "ذكرت وكالة يونهاب أن علامة نيو بالانس الرياضية، التي تديرها إي لاند وورلد، أنشأت مساحة لتجربة الجري عند رصيف E Cruise في حديقة يويدو هانغانغ في سيول، وستوفر خدمة تأجير. صُممت هذه المساحة لتمكين زوار حديقة هانغانغ من تجربة الجري، وهي تبرز كخدمة تجربة ميدانية تديرها العلامة. وتعد حديقة يويدو هانغانغ منطقة حضرية تشهد طلبا مستمرا على الجري، كما يمكن لموقعها قرب الرصيف أن يوسع نقاط التواصل مع المستخدمين. ومن خلال هذه المساحة، تقدم نيو بالانس تجربة الجري وتجربة العلامة معا. المصدر: yna.co.kr."
+      },
+      "hi": {
+        "title": "न्यू बैलेंस ने येउइदो हानगांग पार्क में रनिंग अनुभव स्थल खोला, किराये की सेवा भी",
+        "excerpt": "ई-लैंड वर्ल्ड द्वारा संचालित न्यू बैलेंस ने सियोल के येउइदो हानगांग पार्क के E Cruise घाट पर रनिंग अनुभव स्थल बनाया है और आगंतुकों को किराये की सेवा देगा।",
+        "body": "योनहाप समाचार एजेंसी के अनुसार, ई-लैंड वर्ल्ड द्वारा संचालित स्पोर्ट्स ब्रांड न्यू बैलेंस ने सियोल के येउइदो हानगांग पार्क के E Cruise घाट पर रनिंग अनुभव स्थल बनाया है और किराये की सेवा प्रदान करेगा। यह स्थान हानगांग पार्क आने वाले लोगों को रनिंग का अनुभव कराने के लिए तैयार किया गया है और इसे ब्रांड की现场 अनुभव सेवा के रूप में देखा जा रहा है। येउइदो हानगांग पार्क शहर के भीतर ऐसा क्षेत्र है जहां रनिंग की मांग लगातार रहती है, और घाट के पास की पहुंच उपयोगकर्ताओं से संपर्क बढ़ाने में मदद कर सकती है। न्यू बैलेंस इस स्थान के जरिए रनिंग अनुभव और ब्रांड अनुभव दोनों उपलब्ध कराएगा। स्रोत: yna.co.kr."
+      },
+      "id": {
+        "title": "New Balance Buka Ruang Pengalaman Lari di Yeouido Hangang Park dengan Layanan Sewa",
+        "excerpt": "New Balance yang dijalankan E-Land World membuka ruang pengalaman lari di dermaga E Cruise, Yeouido Hangang Park, Seoul, dan menyediakan layanan sewa bagi pengunjung.",
+        "body": "New Balance, merek olahraga yang dijalankan E-Land World, membuka ruang pengalaman lari di dermaga E Cruise, Yeouido Hangang Park, Seoul, dan akan menyediakan layanan sewa, menurut laporan Yonhap. Ruang ini dibuat agar pengunjung Hangang Park dapat mencoba pengalaman berlari, sekaligus menjadi layanan pengalaman langsung yang dioperasikan oleh merek tersebut. Yeouido Hangang Park merupakan kawasan pusat kota dengan permintaan lari yang stabil, dan lokasi dekat dermaga dapat memperluas titik temu dengan pengguna. Melalui ruang ini, New Balance menawarkan pengalaman lari sekaligus pengalaman merek. Sumber: yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "ced75c5b92dd",
+    "slug": "현대硏-환율-10-오르면-물가-최대-05p취약층-부담확대-586682",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T15:56:50.892Z",
+    "updatedAt": "2026-05-10T15:56:50.892Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509039000002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509039000002",
+    "titleFingerprint": "5b7d61b13ede7f73ab8275a2cc76e268a21e6171",
+    "dedupKeys": [
+      "ced75c5b92dd52e53c88b6a39dc9247f47beefe9",
+      "5b7d61b13ede7f73ab8275a2cc76e268a21e6171",
+      "1604886eb5014dd9c4ff11ceeebe9358e165c3fd"
+    ],
+    "imageUrl": "/images/articles/ced75c5b92dd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "환율 10% 상승 시 소비자물가 최대 0.5%p↑, 취약층 부담 커진다",
+        "excerpt": "현대경제연구원은 10일 원/달러 환율이 10% 오르면 소비자물가가 약 0.3~0.5%포인트 상승할 수 있어 취약계층 부담이 확대된다고 분석했다.",
+        "body": "현대경제연구원은 10일 원/달러 환율이 10% 상승할 경우 소비자물가가 약 0.3~0.5%포인트 오를 수 있다고 분석했다. 환율 상승은 수입 물가와 생활비 부담을 통해 물가 전반에 영향을 줄 수 있다는 설명이다. 연구원은 이 같은 물가 상승 압력이 취약계층의 부담을 확대할 수 있다고 봤다. 특히 소득 여력이 낮은 계층은 같은 물가 상승에도 체감 부담이 더 커질 수 있어 환율 변동에 따른 물가 영향을 주의 깊게 살펴야 한다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Won-Dollar Rate Rise of 10% May Lift CPI by Up to 0.5pp, HRI Says",
+        "excerpt": "Hyundai Research Institute said on the 10th that a 10% rise in the won-dollar exchange rate could raise consumer prices by about 0.3 to 0.5 percentage point.",
+        "body": "Hyundai Research Institute said on the 10th that if the won-dollar exchange rate rises by 10%, consumer prices could increase by about 0.3 to 0.5 percentage point. The analysis indicates that a weaker won may affect overall prices through import costs and living expenses. The institute said such inflationary pressure could increase the burden on vulnerable groups. Households with limited income may feel a larger impact from the same price increase, making it important to monitor how exchange-rate movements feed into consumer prices. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "ウォン安10％で消費者物価最大0.5ポイント上昇も、現代経済研究院",
+        "excerpt": "現代経済研究院は10日、ウォン・ドル相場が10％上昇すれば消費者物価が約0.3～0.5ポイント上がり、脆弱層の負担が拡大すると分析した。",
+        "body": "現代経済研究院は10日、ウォン・ドル相場が10％上昇した場合、消費者物価が約0.3～0.5ポイント上がる可能性があると分析した。為替の上昇は輸入物価や生活費負担を通じて、物価全般に影響を与え得るという説明だ。同研究院は、こうした物価上昇圧力が脆弱層の負担を広げる可能性があるとみている。特に所得余力の低い層は同じ物価上昇でも体感負担がより大きくなり得るため、為替変動に伴う物価影響を注意深く見る必要がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩元兑美元汇率升10%或推高CPI最多0.5个百分点，弱势群体承压",
+        "excerpt": "现代经济研究院10日分析称，韩元兑美元汇率若上升10%，消费者物价可能上涨约0.3至0.5个百分点，弱势群体负担将扩大。",
+        "body": "现代经济研究院10日分析称，如果韩元兑美元汇率上升10%，消费者物价可能上涨约0.3至0.5个百分点。该研究院表示，汇率上升可能通过进口价格和生活成本负担影响整体物价。研究院认为，这类物价上涨压力可能扩大弱势群体的负担。尤其是收入余力较低的群体，即使面对相同幅度的物价上涨，实际感受到的压力也可能更大，因此需要密切关注汇率波动对物价的影响。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Alza del 10% en el won-dólar elevaría el IPC hasta 0,5 pp, según HRI",
+        "excerpt": "El Hyundai Research Institute dijo el día 10 que una subida del 10% del tipo won-dólar podría elevar los precios al consumidor entre 0,3 y 0,5 puntos porcentuales.",
+        "body": "El Hyundai Research Institute afirmó el día 10 que, si el tipo de cambio won-dólar sube un 10%, los precios al consumidor podrían aumentar entre 0,3 y 0,5 puntos porcentuales. El análisis señala que el alza cambiaria puede influir en los precios generales a través de los precios de importación y el costo de vida. El instituto consideró que esta presión inflacionaria podría ampliar la carga sobre los grupos vulnerables. En particular, los hogares con menor margen de ingresos pueden sentir más el mismo aumento de precios, por lo que conviene observar el impacto del tipo de cambio en la inflación. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Alta de 10% no won-dólar pode elevar IPC em até 0,5 pp, diz instituto",
+        "excerpt": "O Hyundai Research Institute afirmou no dia 10 que uma alta de 10% na taxa won-dólar pode elevar os preços ao consumidor em cerca de 0,3 a 0,5 ponto percentual.",
+        "body": "O Hyundai Research Institute afirmou no dia 10 que, se a taxa de câmbio won-dólar subir 10%, os preços ao consumidor podem avançar cerca de 0,3 a 0,5 ponto percentual. A análise indica que a alta cambial pode afetar os preços em geral por meio dos custos de importação e das despesas de vida. O instituto avaliou que essa pressão inflacionária pode ampliar o peso sobre grupos vulneráveis. Famílias com menor folga de renda podem sentir mais intensamente o mesmo aumento de preços, o que torna necessário acompanhar o efeito das oscilações cambiais sobre a inflação. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "10% höherer Won-Dollar-Kurs könnte Verbraucherpreise bis 0,5 Prozentpunkte treiben",
+        "excerpt": "Das Hyundai Research Institute erklärte am 10., ein Anstieg des Won-Dollar-Wechselkurses um 10% könne die Verbraucherpreise um etwa 0,3 bis 0,5 Prozentpunkte erhöhen.",
+        "body": "Das Hyundai Research Institute erklärte am 10., dass ein Anstieg des Won-Dollar-Wechselkurses um 10% die Verbraucherpreise um etwa 0,3 bis 0,5 Prozentpunkte erhöhen könnte. Der Wechselkursanstieg könne über Importpreise und Lebenshaltungskosten auf das allgemeine Preisniveau wirken. Das Institut geht davon aus, dass dieser Inflationsdruck die Belastung vulnerabler Gruppen vergrößern kann. Besonders Haushalte mit geringem Einkommensspielraum könnten denselben Preisanstieg stärker spüren, weshalb die Auswirkungen von Wechselkursschwankungen auf die Verbraucherpreise aufmerksam verfolgt werden sollten. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Une hausse de 10% du won-dollar pourrait ajouter jusqu’à 0,5 point à l’IPC",
+        "excerpt": "Le Hyundai Research Institute a indiqué le 10 qu’une hausse de 10% du taux won-dollar pourrait faire augmenter les prix à la consommation d’environ 0,3 à 0,5 point.",
+        "body": "Le Hyundai Research Institute a indiqué le 10 que si le taux de change won-dollar augmentait de 10%, les prix à la consommation pourraient progresser d’environ 0,3 à 0,5 point de pourcentage. Selon l’analyse, la hausse du change peut peser sur l’ensemble des prix via les prix à l’importation et le coût de la vie. L’institut estime que cette pression inflationniste pourrait accroître la charge supportée par les groupes vulnérables. Les ménages ayant une marge de revenu limitée peuvent ressentir plus fortement une même hausse des prix, d’où l’importance de suivre l’effet des variations de change sur l’inflation. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "ارتفاع الوون مقابل الدولار 10% قد يرفع التضخم حتى 0.5 نقطة مئوية",
+        "excerpt": "قال معهد هيونداي للأبحاث الاقتصادية في العاشر إن ارتفاع سعر صرف الوون مقابل الدولار 10% قد يزيد أسعار المستهلكين بنحو 0.3 إلى 0.5 نقطة مئوية.",
+        "body": "قال معهد هيونداي للأبحاث الاقتصادية في العاشر إن ارتفاع سعر صرف الوون مقابل الدولار بنسبة 10% قد يرفع أسعار المستهلكين بنحو 0.3 إلى 0.5 نقطة مئوية. ويوضح التحليل أن ارتفاع سعر الصرف يمكن أن يؤثر في مستوى الأسعار عموما عبر أسعار الواردات وتكاليف المعيشة. ورأى المعهد أن هذه الضغوط السعرية قد توسع العبء على الفئات الهشة. فالأسر ذات القدرة الدخلية المحدودة قد تشعر بعبء أكبر حتى مع الزيادة نفسها في الأسعار، ما يستدعي متابعة أثر تقلبات الصرف على أسعار المستهلكين. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "वॉन-डॉलर दर 10% बढ़ी तो CPI अधिकतम 0.5 प्रतिशत अंक चढ़ सकता है",
+        "excerpt": "ह्युंडई रिसर्च इंस्टीट्यूट ने 10 तारीख को कहा कि वॉन-डॉलर विनिमय दर 10% बढ़ने पर उपभोक्ता कीमतें लगभग 0.3 से 0.5 प्रतिशत अंक तक बढ़ सकती हैं।",
+        "body": "ह्युंडई रिसर्च इंस्टीट्यूट ने 10 तारीख को विश्लेषण किया कि वॉन-डॉलर विनिमय दर 10% बढ़ने पर उपभोक्ता कीमतें लगभग 0.3 से 0.5 प्रतिशत अंक तक बढ़ सकती हैं। संस्थान के अनुसार, विनिमय दर में वृद्धि आयात कीमतों और जीवन-यापन लागत के जरिए समग्र कीमतों को प्रभावित कर सकती है। संस्थान ने कहा कि इस तरह का महंगाई दबाव कमजोर वर्गों पर बोझ बढ़ा सकता है। विशेष रूप से कम आय-क्षमता वाले परिवार समान मूल्य वृद्धि का भी अधिक असर महसूस कर सकते हैं, इसलिए विनिमय दर में उतार-चढ़ाव का उपभोक्ता कीमतों पर प्रभाव ध्यान से देखना जरूरी है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kurs Won-Dolar Naik 10% Bisa Dorong CPI Hingga 0,5 Poin Persentase",
+        "excerpt": "Hyundai Research Institute pada tanggal 10 menyatakan kurs won-dolar yang naik 10% dapat menaikkan harga konsumen sekitar 0,3 hingga 0,5 poin persentase.",
+        "body": "Hyundai Research Institute pada tanggal 10 menganalisis bahwa jika kurs won-dolar naik 10%, harga konsumen dapat meningkat sekitar 0,3 hingga 0,5 poin persentase. Kenaikan kurs dapat memengaruhi harga secara umum melalui harga impor dan beban biaya hidup. Lembaga itu menilai tekanan kenaikan harga tersebut dapat memperbesar beban kelompok rentan. Terutama kelompok dengan ruang pendapatan rendah bisa merasakan beban yang lebih besar meski kenaikan harga sama, sehingga dampak fluktuasi kurs terhadap harga konsumen perlu dicermati. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "b370c8d8bdad",
+    "slug": "김정관-러트닉-대미-투자-프로젝트-논의마스가도-시동-923852",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-10T15:55:54.535Z",
+    "updatedAt": "2026-05-10T15:55:54.535Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510018800003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510018800003",
+    "titleFingerprint": "259064bf39e0f5a893fc5daa882d1d222838b968",
+    "dedupKeys": [
+      "b370c8d8bdadbcd6bfaa07154686276ead0c8b2f",
+      "259064bf39e0f5a893fc5daa882d1d222838b968",
+      "41b57dbd6d0a8d4d1e23c12f742c8f4f2bc31e2c"
+    ],
+    "imageUrl": "/images/articles/b370c8d8bdad.jpg",
+    "i18n": {
+      "ko": {
+        "title": "김정관-러트닉, 워싱턴서 대미 투자 프로젝트 논의…마스가 본격 시동",
+        "excerpt": "한미 정부가 워싱턴DC에서 고위급 협의를 열고 지난해 무역 합의에 따른 3천500억달러 규모 대미 투자 프로젝트와 ‘마스가’ 추진 방안을 논의했다.",
+        "body": "김정관 측과 러트닉 측은 워싱턴DC에서 한미 고위급 협의를 갖고 지난해 무역 합의에 따른 대미 투자 프로젝트를 논의했다. 핵심 의제는 3천500억달러, 약 523조원 규모로 언급된 투자 이행과 관련 사업 추진 방향이었다. 이번 협의에서는 ‘마스가’도 시동을 걸며 양국 간 후속 절차가 본격화되는 흐름을 보였다. 대규모 투자 프로젝트는 한미 무역 합의 이행의 주요 축으로, 향후 세부 사업 조율과 실행 일정이 관심사로 떠오를 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Kim Jung-kwan and Lutnick Discuss US Investment Projects as MASGA Gets Under Way",
+        "excerpt": "South Korea and the United States held high-level talks in Washington, D.C., to discuss $350 billion in US investment projects tied to last year’s trade agreement and the launch of MASGA.",
+        "body": "Kim Jung-kwan’s side and Lutnick’s side held high-level South Korea-US consultations in Washington, D.C., to discuss investment projects in the United States under last year’s trade agreement. The central agenda was the implementation of investments cited at $350 billion, or about 523 trillion won, and the direction of related projects. The talks also marked the start of MASGA, showing that follow-up procedures between the two governments are moving into a more active phase. The large-scale investment projects are a key part of implementing the bilateral trade agreement, with attention expected to turn to detailed project coordination and execution schedules. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "金正官氏とラトニック氏、対米投資プロジェクト協議…MASGAも始動",
+        "excerpt": "韓米両政府はワシントンDCで高官協議を開き、昨年の貿易合意に基づく3500億ドル規模の対米投資プロジェクトとMASGA推進策を話し合った。",
+        "body": "金正官氏側とラトニック氏側はワシントンDCで韓米高官協議を行い、昨年の貿易合意に基づく対米投資プロジェクトについて協議した。主要議題は3500億ドル、約523兆ウォン規模とされた投資の履行と関連事業の推進方向だった。今回の協議では「MASGA」も始動し、両国間の後続手続きが本格化する流れを示した。大規模投資プロジェクトは韓米貿易合意履行の重要な柱であり、今後は細部事業の調整と実行日程が焦点になる見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "金正官与卢特尼克在华盛顿讨论对美投资项目，MASGA也启动",
+        "excerpt": "韩美两国政府在华盛顿DC举行高级别磋商，讨论去年贸易协议下3500亿美元规模对美投资项目以及推进MASGA的方案。",
+        "body": "金正官方面与卢特尼克方面在华盛顿DC举行韩美高级别磋商，讨论去年贸易协议下的对美投资项目。核心议题是落实规模为3500亿美元、约523万亿韩元的投资，以及相关项目的推进方向。此次磋商还启动了“MASGA”，显示两国后续程序正进入正式推进阶段。大规模投资项目是韩美贸易协议履行的重要支柱，今后具体项目协调和执行时间表预计将成为关注重点。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Kim Jung-kwan y Lutnick negocian inversión en EE. UU.; MASGA empieza a moverse",
+        "excerpt": "Los gobiernos de Corea del Sur y Estados Unidos celebraron consultas de alto nivel en Washington D. C. para tratar proyectos de inversión por 350.000 millones de dólares y el avance de MASGA.",
+        "body": "Las partes de Kim Jung-kwan y Lutnick celebraron consultas de alto nivel entre Corea del Sur y Estados Unidos en Washington D. C. para discutir proyectos de inversión en Estados Unidos derivados del acuerdo comercial del año pasado. El eje fue la ejecución de inversiones citadas en 350.000 millones de dólares, unos 523 billones de wones, y la dirección de los proyectos relacionados. En la reunión también se puso en marcha MASGA, lo que muestra que los procedimientos posteriores entre ambos gobiernos entran en una fase más activa. Estos proyectos de gran escala son un pilar de la aplicación del acuerdo comercial bilateral, y la atención se centrará en la coordinación detallada y el calendario de ejecución. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Kim Jung-kwan e Lutnick discutem investimento nos EUA; MASGA começa a avançar",
+        "excerpt": "Coreia do Sul e Estados Unidos realizaram consultas de alto nível em Washington, D.C., sobre projetos de investimento de US$ 350 bilhões ligados ao acordo comercial do ano passado e ao MASGA.",
+        "body": "As equipes de Kim Jung-kwan e Lutnick realizaram consultas de alto nível entre Coreia do Sul e Estados Unidos em Washington, D.C., para discutir projetos de investimento nos EUA previstos no acordo comercial do ano passado. O tema central foi a execução de investimentos citados em US$ 350 bilhões, cerca de 523 trilhões de wones, e a direção dos projetos relacionados. A reunião também marcou o início do MASGA, indicando que os procedimentos de acompanhamento entre os dois governos estão ganhando tração. Os projetos de grande escala são um eixo da implementação do acordo comercial bilateral, com foco futuro na coordenação detalhada e nos cronogramas de execução. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Kim Jung-kwan und Lutnick beraten US-Investitionen; MASGA startet ebenfalls",
+        "excerpt": "Südkorea und die USA hielten in Washington, D.C., hochrangige Gespräche über US-Investitionsprojekte im Umfang von 350 Milliarden Dollar aus dem Handelsabkommen des Vorjahres und MASGA.",
+        "body": "Die Seiten von Kim Jung-kwan und Lutnick führten in Washington, D.C., hochrangige Konsultationen zwischen Südkorea und den USA über Investitionsprojekte in den Vereinigten Staaten im Rahmen des Handelsabkommens vom vergangenen Jahr. Im Mittelpunkt standen die Umsetzung von Investitionen in Höhe von 350 Milliarden Dollar, etwa 523 Billionen Won, sowie die Ausrichtung der damit verbundenen Projekte. Bei den Gesprächen wurde auch MASGA angestoßen, was zeigt, dass die Folgeschritte zwischen beiden Regierungen konkreter werden. Die Großinvestitionen sind ein wichtiger Bestandteil der Umsetzung des bilateralen Handelsabkommens; künftig dürften Detailabstimmungen und Zeitpläne im Fokus stehen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Kim Jung-kwan et Lutnick discutent des investissements aux États-Unis; MASGA démarre",
+        "excerpt": "La Corée du Sud et les États-Unis ont tenu à Washington des consultations de haut niveau sur 350 milliards de dollars d’investissements liés à l’accord commercial de l’an dernier et sur MASGA.",
+        "body": "Les équipes de Kim Jung-kwan et de Lutnick ont tenu à Washington, D.C., des consultations de haut niveau entre la Corée du Sud et les États-Unis afin de discuter de projets d’investissement aux États-Unis prévus par l’accord commercial de l’an dernier. Le principal sujet portait sur la mise en œuvre d’investissements évalués à 350 milliards de dollars, soit environ 523 billions de wons, et sur l’orientation des projets associés. La réunion a aussi lancé MASGA, montrant que les procédures de suivi entre les deux gouvernements entrent dans une phase plus active. Ces grands projets constituent un axe majeur de l’application de l’accord commercial bilatéral, avec une attention attendue sur la coordination détaillée et les calendriers d’exécution. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كيم جونغ-كوان ولوتنيك يبحثان مشاريع الاستثمار في أميركا وبدء تحرك MASGA",
+        "excerpt": "عقدت حكومتا كوريا الجنوبية والولايات المتحدة مشاورات رفيعة في واشنطن لبحث مشاريع استثمارية بقيمة 350 مليار دولار مرتبطة باتفاق التجارة العام الماضي وخطط MASGA.",
+        "body": "عقد جانب كيم جونغ-كوان وجانب لوتنيك مشاورات رفيعة المستوى بين كوريا الجنوبية والولايات المتحدة في واشنطن العاصمة لبحث مشاريع الاستثمار في الولايات المتحدة بموجب اتفاق التجارة الذي أبرم العام الماضي. وتمحور النقاش حول تنفيذ استثمارات قُدرت بـ350 مليار دولار، أي نحو 523 تريليون وون، واتجاه المشاريع المرتبطة بها. كما شهدت المشاورات بدء تحرك MASGA، ما يشير إلى دخول الإجراءات اللاحقة بين الحكومتين مرحلة أكثر نشاطا. وتعد هذه المشاريع الاستثمارية الضخمة محورا رئيسيا في تنفيذ الاتفاق التجاري الثنائي، مع ترقب تنسيق التفاصيل وجداول التنفيذ لاحقا. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "किम जंग-क्वान और लुटनिक ने अमेरिकी निवेश परियोजनाओं पर चर्चा की, MASGA भी शुरू",
+        "excerpt": "दक्षिण कोरिया और अमेरिका ने वाशिंगटन डीसी में उच्चस्तरीय वार्ता कर पिछले साल के व्यापार समझौते से जुड़ी 350 अरब डॉलर की अमेरिकी निवेश परियोजनाओं और MASGA पर चर्चा की।",
+        "body": "किम जंग-क्वान पक्ष और लुटनिक पक्ष ने वाशिंगटन डीसी में दक्षिण कोरिया-अमेरिका उच्चस्तरीय परामर्श किया और पिछले साल के व्यापार समझौते के तहत अमेरिका में निवेश परियोजनाओं पर चर्चा की। मुख्य मुद्दा 350 अरब डॉलर, यानी लगभग 523 ट्रिलियन वोन, के निवेश के क्रियान्वयन और संबंधित परियोजनाओं की दिशा था। इस बैठक में MASGA की भी शुरुआत हुई, जिससे दोनों सरकारों के बीच आगे की प्रक्रियाएं अधिक सक्रिय चरण में जाती दिखीं। ये बड़े निवेश परियोजनाएं द्विपक्षीय व्यापार समझौते के पालन का अहम हिस्सा हैं, और आगे विस्तृत परियोजना समन्वय तथा कार्यान्वयन समय-सारिणी पर ध्यान रहेगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kim Jung-kwan dan Lutnick Bahas Investasi AS; MASGA Mulai Bergerak",
+        "excerpt": "Pemerintah Korea Selatan dan Amerika Serikat menggelar konsultasi tingkat tinggi di Washington, D.C., untuk membahas proyek investasi AS senilai US$350 miliar dari kesepakatan dagang tahun lalu dan MASGA.",
+        "body": "Pihak Kim Jung-kwan dan pihak Lutnick mengadakan konsultasi tingkat tinggi Korea Selatan-Amerika Serikat di Washington, D.C., untuk membahas proyek investasi di AS berdasarkan kesepakatan dagang tahun lalu. Agenda utamanya adalah pelaksanaan investasi yang disebut bernilai US$350 miliar, atau sekitar 523 triliun won, serta arah proyek terkait. Dalam pembicaraan ini, MASGA juga mulai digerakkan, menunjukkan bahwa prosedur lanjutan antara kedua pemerintah memasuki tahap yang lebih aktif. Proyek investasi berskala besar tersebut menjadi pilar penting pelaksanaan kesepakatan dagang bilateral, dengan perhatian berikutnya pada koordinasi rinci dan jadwal eksekusi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "70ef1f23767c",
     "slug": "옛-금천경찰서-터에-시립도서관공공주택-건립2029년-완공-581004",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "ChatGPT Siapkan Peringatan Risiko Melukai Diri ke Kontak Tepercaya",
         "excerpt": "OpenAI akan menghadirkan fitur ChatGPT yang memberi tahu “orang tepercaya” yang didaftarkan sebelumnya saat risiko pengguna melukai diri terdeteksi.",
         "body": "OpenAI akan menghadirkan fitur di ChatGPT yang mengirimkan peringatan kepada kontak yang telah didaftarkan sebelumnya ketika tanda risiko pengguna melukai diri terdeteksi. Pengguna dapat mendaftarkan “orang tepercaya” di ChatGPT, dan jika sistem menemukan risiko melukai diri, pemberitahuan terkait akan dikirim kepada orang tersebut. Fitur ini bertujuan meningkatkan kemungkinan intervensi dari orang sekitar ketika tanda bahaya muncul selama penggunaan AI percakapan. Jika pengguna ChatGPT berada dalam situasi krisis, orang yang telah ditentukan sebelumnya dapat mengetahuinya, sehingga sistem respons keselamatan platform diperkirakan ikut berubah. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3b4d744d600a",
-    "slug": "페리카나-불륜-소재-ai-광고-논란에-사과게시물-삭제-252278",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T04:44:06.285Z",
-    "updatedAt": "2026-05-10T04:44:06.285Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510023700030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510023700030",
-    "titleFingerprint": "350e8ee0ed8cfae1010a43d39b32064c2f8fe695",
-    "dedupKeys": [
-      "3b4d744d600a89a90c75797ea5e9309e9620bd70",
-      "350e8ee0ed8cfae1010a43d39b32064c2f8fe695",
-      "aa07443c921de68992c1f1cef9a4f26e53c1c9b5"
-    ],
-    "imageUrl": "/images/articles/3b4d744d600a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "페리카나 AI 광고 논란 사과, '불륜 소재' 영상 삭제까지",
-        "excerpt": "치킨 업체 페리카나는 불륜을 소재로 한 AI 광고 영상이 논란이 되자 사과하고 관련 게시물을 삭제했다. 연합뉴스 보도에 따르면 해당 광고는 온라인상 비판을 받았다.",
-        "body": "치킨 업체 페리카나가 불륜을 소재로 한 인공지능(AI) 광고 영상으로 논란이 커지자 사과하고 관련 게시물을 삭제했다. 연합뉴스에 따르면 이번 사안은 페리카나가 게시한 AI 광고 영상의 소재가 부적절하다는 반응이 나오면서 불거졌다. 회사는 논란 이후 사과 입장을 내고 게시물을 내린 것으로 전해졌다. AI를 활용한 광고 제작이 늘어나는 가운데, 브랜드가 민감한 소재를 다룰 때 소비자 정서와 표현 방식에 더 신중해야 한다는 점이 다시 부각됐다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Pelicana Apologizes Over AI Ad Controversy, Removes Infidelity-Themed Post",
-        "excerpt": "Chicken chain Pelicana apologized and deleted an AI-generated advertisement after its infidelity-themed video drew controversy, according to a Yonhap report from Seoul.",
-        "body": "Pelicana, a South Korean chicken brand, apologized and removed a related post after controversy grew over an artificial intelligence advertising video that used infidelity as its theme. According to Yonhap News Agency, the issue emerged after viewers criticized the subject matter of the AI ad as inappropriate. The company reportedly issued an apology and took down the post after the backlash. As more brands use AI in advertising production, the case highlights the need to handle sensitive themes carefully and consider consumer sentiment in brand messaging. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "ペリカナ、AI広告騒動で謝罪　不倫題材の動画投稿を削除",
-        "excerpt": "韓国のチキンブランド、ペリカナは不倫を題材にしたAI広告動画が物議を醸したことを受け、謝罪し関連投稿を削除したと聯合ニュースが報じた。",
-        "body": "韓国のチキンブランド、ペリカナは、不倫を題材にした人工知能（AI）広告動画をめぐり批判が広がったことを受け、謝罪し関連投稿を削除した。聯合ニュースによると、問題はペリカナが公開したAI広告動画の題材について、不適切だとの反応が出たことで表面化した。会社は騒動後に謝罪の立場を示し、投稿を取り下げたと伝えられている。AIを活用した広告制作が増える中、ブランドが敏感な素材を扱う際には消費者感情と表現方法により慎重である必要があることが改めて示された。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "Pelicana为AI广告争议道歉，删除“婚外情题材”视频帖文",
-        "excerpt": "韩国炸鸡品牌Pelicana因一则以婚外情为题材的AI广告视频引发争议后道歉，并删除相关帖文；韩联社报道称该广告受到网络批评。",
-        "body": "韩国炸鸡品牌Pelicana因一则以婚外情为题材的人工智能（AI）广告视频引发争议后，已道歉并删除相关帖文。据韩联社报道，事件起因是Pelicana发布的AI广告视频题材被部分网友认为不妥，从而引发批评。公司随后表达歉意，并撤下该帖文。随着品牌在广告制作中更多使用AI，本次事件再次显示，企业在处理敏感题材时需要更加注意消费者情绪和表达方式，以避免品牌沟通引发争议。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Pelicana se disculpa por anuncio de IA y borra video sobre infidelidad",
-        "excerpt": "La cadena de pollo Pelicana se disculpó y eliminó una publicación tras la polémica por un anuncio creado con IA que usaba la infidelidad como tema, informó Yonhap.",
-        "body": "La marca surcoreana de pollo Pelicana se disculpó y retiró una publicación relacionada después de que creciera la polémica por un video publicitario de inteligencia artificial (IA) centrado en la infidelidad. Según la agencia Yonhap, el caso surgió cuando el contenido del anuncio de IA publicado por Pelicana fue criticado por considerarse inapropiado. La empresa emitió una disculpa y eliminó el material tras la controversia. En un contexto de mayor uso de IA en la producción publicitaria, el episodio subraya la necesidad de tratar temas sensibles con cautela y considerar la reacción de los consumidores. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Pelicana pede desculpas por anúncio de IA e apaga vídeo sobre infidelidade",
-        "excerpt": "A rede de frango Pelicana pediu desculpas e removeu uma publicação após a controvérsia causada por um anúncio de IA com tema de infidelidade, informou a Yonhap.",
-        "body": "A marca sul-coreana de frango Pelicana pediu desculpas e removeu uma publicação relacionada depois que aumentou a controvérsia sobre um vídeo publicitário de inteligência artificial (IA) que usava a infidelidade como tema. Segundo a agência Yonhap, o caso surgiu após críticas de que o tema do anúncio de IA publicado pela Pelicana era inadequado. A empresa teria divulgado um pedido de desculpas e retirado o post depois da repercussão. Com o avanço do uso de IA na criação de anúncios, o episódio reforça a necessidade de tratar temas sensíveis com cuidado e considerar a percepção dos consumidores. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Pelicana entschuldigt sich für KI-Werbung und löscht Beitrag zu Affäre",
-        "excerpt": "Die Hähnchenmarke Pelicana hat sich nach Kritik an einem KI-Werbevideo mit Untreue-Thema entschuldigt und den Beitrag gelöscht, berichtete Yonhap aus Seoul.",
-        "body": "Die südkoreanische Hähnchenmarke Pelicana hat sich entschuldigt und einen zugehörigen Beitrag gelöscht, nachdem ein Werbevideo mit künstlicher Intelligenz (KI) zum Thema Untreue eine Kontroverse ausgelöst hatte. Nach Angaben der Nachrichtenagentur Yonhap entstand der Streit, weil das von Pelicana veröffentlichte KI-Werbevideo wegen seines Themas als unangemessen kritisiert wurde. Das Unternehmen gab nach der Kritik eine Entschuldigung ab und entfernte den Beitrag. Da immer mehr Marken KI für Werbung nutzen, zeigt der Fall erneut, dass sensible Themen in der Markenkommunikation vorsichtig behandelt werden müssen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Pelicana s’excuse après une publicité IA controversée sur l’infidélité",
-        "excerpt": "La marque de poulet Pelicana s’est excusée et a supprimé une publication après la polémique suscitée par une publicité générée par IA sur l’infidélité, selon Yonhap.",
-        "body": "La marque sud-coréenne de poulet Pelicana s’est excusée et a supprimé une publication liée à une vidéo publicitaire réalisée avec l’intelligence artificielle (IA), dont le thème était l’infidélité. Selon l’agence Yonhap, l’affaire a éclaté après des critiques jugeant inapproprié le sujet de cette publicité IA publiée par Pelicana. L’entreprise a ensuite présenté des excuses et retiré le contenu concerné. Alors que l’usage de l’IA dans la production publicitaire se développe, cet épisode rappelle que les marques doivent traiter les sujets sensibles avec prudence et tenir compte de la perception des consommateurs. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "بيليكانا تعتذر عن إعلان ذكاء اصطناعي مثير للجدل وتحذف منشور الخيانة",
-        "excerpt": "اعتذرت شركة بيليكانا للدجاج وحذفت منشورا مرتبطا بإعلان صمم بالذكاء الاصطناعي بعد جدل حول استخدام موضوع الخيانة الزوجية، وفق ما نقلته يونهاب من سيول.",
-        "body": "قدمت شركة بيليكانا الكورية المتخصصة في الدجاج اعتذارا وحذفت منشورا مرتبطا بها بعد تصاعد الجدل حول مقطع إعلاني صمم بالذكاء الاصطناعي واتخذ من الخيانة الزوجية موضوعا له. وبحسب وكالة يونهاب للأنباء، بدأت القضية بعدما واجه الإعلان الذي نشرته بيليكانا انتقادات بسبب اعتبار موضوعه غير ملائم. وبعد الجدل، أصدرت الشركة موقفا اعتذاريا وأزالت المنشور. ومع تزايد استخدام الذكاء الاصطناعي في إنتاج الإعلانات، يبرز هذا الحدث الحاجة إلى تعامل العلامات التجارية بحذر مع الموضوعات الحساسة ومراعاة مشاعر المستهلكين. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Pelicana ने AI विज्ञापन विवाद पर माफी मांगी, बेवफाई वाला पोस्ट हटाया",
-        "excerpt": "चिकन कंपनी Pelicana ने बेवफाई को विषय बनाने वाले AI विज्ञापन वीडियो पर विवाद के बाद माफी मांगी और संबंधित पोस्ट हटा दिया, Yonhap ने सियोल से रिपोर्ट किया।",
-        "body": "दक्षिण कोरियाई चिकन ब्रांड Pelicana ने बेवफाई को विषय बनाने वाले कृत्रिम बुद्धिमत्ता (AI) विज्ञापन वीडियो पर विवाद बढ़ने के बाद माफी मांगी और संबंधित पोस्ट हटा दिया। Yonhap News Agency के अनुसार, मामला तब सामने आया जब Pelicana द्वारा पोस्ट किए गए AI विज्ञापन वीडियो की सामग्री को अनुचित बताते हुए आलोचना हुई। कंपनी ने विवाद के बाद माफी जारी की और पोस्ट वापस ले लिया। विज्ञापन निर्माण में AI के बढ़ते उपयोग के बीच यह घटना दिखाती है कि संवेदनशील विषयों को संभालते समय ब्रांडों को उपभोक्ता भावना और अभिव्यक्ति के तरीके पर अधिक सावधानी बरतनी चाहिए। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Pelicana Minta Maaf atas Iklan AI Kontroversial, Hapus Unggahan Perselingkuhan",
-        "excerpt": "Perusahaan ayam Pelicana meminta maaf dan menghapus unggahan setelah video iklan AI bertema perselingkuhan memicu kontroversi, menurut laporan Yonhap dari Seoul.",
-        "body": "Merek ayam asal Korea Selatan, Pelicana, meminta maaf dan menghapus unggahan terkait setelah kontroversi muncul atas video iklan berbasis kecerdasan buatan (AI) yang mengangkat tema perselingkuhan. Menurut Kantor Berita Yonhap, persoalan ini mencuat setelah materi iklan AI yang dipublikasikan Pelicana dinilai tidak pantas oleh sebagian pihak. Perusahaan kemudian menyampaikan permintaan maaf dan menurunkan unggahan tersebut. Seiring meningkatnya penggunaan AI dalam produksi iklan, kasus ini kembali menyoroti perlunya merek berhati-hati saat memakai tema sensitif dan memperhatikan sentimen konsumen. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "77fde4d33a91",
-    "slug": "파마리서치-분석-리쥬란으로-또-최고-실적2분기-성장-모멘텀-재개-114809",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T04:43:14.011Z",
-    "updatedAt": "2026-05-10T04:43:14.011Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605106215i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605106215i",
-    "titleFingerprint": "42485a5858afef606df282caf0ed081367fdd1fb",
-    "dedupKeys": [
-      "77fde4d33a91bb198c4214bafddce037c5ca3345",
-      "42485a5858afef606df282caf0ed081367fdd1fb",
-      "3da6ddb20c4c0394c77e0c3a5561e3fbe9e3dc5e"
-    ],
-    "imageUrl": "/images/articles/77fde4d33a91.jpg",
-    "i18n": {
-      "ko": {
-        "title": "파마리서치, 리쥬란 효과로 최고 실적…2분기 성장 모멘텀 주목",
-        "excerpt": "파마리서치가 리쥬란을 중심으로 다시 최고 실적을 기록했다는 분석이 나왔다. 시장은 2분기 성장 모멘텀 재개 여부와 향후 실적 흐름에 주목하고 있다.",
-        "body": "파마리서치가 리쥬란을 앞세워 다시 최고 실적을 냈다는 분석이 제기됐다. 한국경제 보도에 따르면 파마리서치는 리쥬란 중심의 실적 개선 흐름을 이어가며 2분기 성장 모멘텀 재개 가능성이 주목받고 있다. 리쥬란은 회사 실적을 견인하는 핵심 제품으로 언급됐고, 이번 분석은 최고 실적과 2분기 회복 흐름을 함께 짚었다. 투자자들은 리쥬란 수요가 향후 실적에 어떤 영향을 줄지 확인할 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "PharmaResearch Hits Record Results on Rejuran as Q2 Growth Momentum Returns",
-        "excerpt": "An analysis says PharmaResearch again posted record results led by Rejuran, with market attention turning to whether second-quarter growth momentum can resume and support future earnings.",
-        "body": "PharmaResearch has again delivered record results led by Rejuran, according to an analysis cited by Korea Economic Daily. The report said the company’s earnings improvement remains centered on Rejuran, while attention is now on the possible return of growth momentum in the second quarter. Rejuran was identified as a core product driving performance, and the analysis linked the latest record results with a potential recovery trend in Q2. Investors are expected to watch how Rejuran demand affects future earnings. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ファーマリサーチ、リジュランで最高業績…第2四半期の成長再開に注目",
-        "excerpt": "ファーマリサーチがリジュランを中心に再び最高業績を記録したとの分析が出た。市場は第2四半期の成長モメンタム再開と今後の業績動向に注目している。",
-        "body": "ファーマリサーチがリジュランを前面に出し、再び最高業績を上げたとの分析が示された。韓国経済新聞の報道によると、同社はリジュランを中心とした業績改善の流れを続けており、第2四半期の成長モメンタム再開の可能性が注目されている。リジュランは業績をけん引する中核製品として言及され、今回の分析は最高業績と第2四半期の回復基調をあわせて取り上げた。投資家は今後、リジュラン需要が業績に与える影響を確認するとみられる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "PharmaResearch凭Rejuran再创最佳业绩，二季度增长动能受关注",
-        "excerpt": "有分析称，PharmaResearch在Rejuran带动下再次取得最佳业绩。市场正关注其第二季度增长动能能否恢复，以及未来业绩走势。",
-        "body": "有分析指出，PharmaResearch借助Rejuran再次取得最佳业绩。据《韩国经济》报道，PharmaResearch延续了以Rejuran为中心的业绩改善趋势，第二季度增长动能恢复的可能性正受到关注。Rejuran被提及为带动公司业绩的核心产品，此次分析同时聚焦最佳业绩和第二季度复苏趋势。投资者预计将继续观察Rejuran需求将如何影响未来业绩。来源: hankyung.com"
-      },
-      "es": {
-        "title": "PharmaResearch logra récord por Rejuran y mira al impulso de crecimiento del 2T",
-        "excerpt": "Un análisis señala que PharmaResearch volvió a registrar resultados récord gracias a Rejuran. El mercado observa si el impulso de crecimiento se reanuda en el segundo trimestre.",
-        "body": "PharmaResearch volvió a alcanzar resultados récord impulsada por Rejuran, según un análisis citado por Korea Economic Daily. El informe indica que la mejora de los resultados de la compañía sigue centrada en Rejuran, mientras crece la atención sobre la posible reanudación del impulso de crecimiento en el segundo trimestre. Rejuran fue mencionado como un producto clave que sostiene el desempeño, y el análisis vinculó el nuevo récord con una posible recuperación en el 2T. Los inversores observarán cómo la demanda de Rejuran influye en los resultados futuros. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "PharmaResearch bate recorde com Rejuran e mira retomada de crescimento no 2º tri",
-        "excerpt": "Uma análise aponta que a PharmaResearch voltou a registrar desempenho recorde liderado pelo Rejuran. O mercado acompanha a retomada do impulso de crescimento no segundo trimestre.",
-        "body": "A PharmaResearch voltou a apresentar resultados recordes impulsionada pelo Rejuran, segundo análise citada pelo Korea Economic Daily. A reportagem afirma que a melhora do desempenho da empresa segue centrada no Rejuran, enquanto cresce a atenção sobre a possível retomada do impulso de crescimento no segundo trimestre. O Rejuran foi citado como produto central para os resultados, e a análise relacionou o novo recorde à tendência de recuperação no 2º trimestre. Investidores devem acompanhar como a demanda pelo Rejuran afetará os resultados futuros. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "PharmaResearch erzielt Rekordergebnis mit Rejuran, Q2-Wachstum rückt in den Fokus",
-        "excerpt": "Eine Analyse sieht PharmaResearch dank Rejuran erneut auf Rekordniveau. Der Markt achtet nun darauf, ob sich die Wachstumsdynamik im zweiten Quartal wieder fortsetzt.",
-        "body": "PharmaResearch hat nach einer von Korea Economic Daily zitierten Analyse erneut ein Rekordergebnis erzielt, getragen von Rejuran. Dem Bericht zufolge setzt das Unternehmen seine ergebnisverbessernde Entwicklung rund um Rejuran fort, während die mögliche Rückkehr der Wachstumsdynamik im zweiten Quartal in den Fokus rückt. Rejuran wurde als zentrales Produkt genannt, das die Leistung antreibt, und die Analyse verband das Rekordergebnis mit einer möglichen Erholung im Q2. Anleger dürften beobachten, wie sich die Nachfrage nach Rejuran auf künftige Ergebnisse auswirkt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "PharmaResearch signe un record grâce à Rejuran, la dynamique du T2 en ligne de mire",
-        "excerpt": "Une analyse indique que PharmaResearch a de nouveau enregistré des résultats record grâce à Rejuran. Le marché surveille la reprise possible de la dynamique de croissance au deuxième trimestre.",
-        "body": "PharmaResearch a de nouveau affiché des résultats record portés par Rejuran, selon une analyse citée par Korea Economic Daily. Le rapport indique que l’amélioration des performances de l’entreprise reste centrée sur Rejuran, tandis que l’attention se porte sur une possible reprise de la dynamique de croissance au deuxième trimestre. Rejuran a été présenté comme un produit clé soutenant les résultats, et l’analyse a associé ce record à une tendance de redressement au T2. Les investisseurs devraient suivre l’effet de la demande de Rejuran sur les résultats futurs. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "فارما ريسيرش تسجل أداء قياسيا بفضل ريجوران وترقب لزخم الربع الثاني",
-        "excerpt": "أشار تحليل إلى أن فارما ريسيرش حققت مجددا أداء قياسيا بدعم من ريجوران. وتتركز أنظار السوق على استئناف زخم النمو في الربع الثاني ومسار الأرباح المقبلة.",
-        "body": "حققت فارما ريسيرش مجددا أداء قياسيا مدفوعا بمنتج ريجوران، وفق تحليل نقلته صحيفة كوريا الاقتصادية. وذكر التقرير أن تحسن أداء الشركة لا يزال يتمحور حول ريجوران، بينما يزداد الاهتمام بإمكانية استئناف زخم النمو في الربع الثاني. وجرى وصف ريجوران بأنه منتج رئيسي يقود نتائج الشركة، وربط التحليل بين الأداء القياسي الأخير واتجاه التعافي المحتمل في الربع الثاني. ومن المتوقع أن يراقب المستثمرون أثر الطلب على ريجوران في النتائج المستقبلية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Rejuran के दम पर PharmaResearch का रिकॉर्ड प्रदर्शन, Q2 ग्रोथ मोमेंटम पर नजर",
-        "excerpt": "एक विश्लेषण के अनुसार PharmaResearch ने Rejuran के नेतृत्व में फिर रिकॉर्ड प्रदर्शन किया। बाजार की नजर दूसरी तिमाही में ग्रोथ मोमेंटम की वापसी और आगे की आय पर है।",
-        "body": "Korea Economic Daily द्वारा उद्धृत विश्लेषण के अनुसार, PharmaResearch ने Rejuran के सहारे फिर रिकॉर्ड प्रदर्शन किया है। रिपोर्ट में कहा गया कि कंपनी की आय सुधार की धारा Rejuran पर केंद्रित बनी हुई है, जबकि दूसरी तिमाही में ग्रोथ मोमेंटम फिर शुरू होने की संभावना पर ध्यान बढ़ा है। Rejuran को कंपनी के प्रदर्शन को आगे बढ़ाने वाला मुख्य उत्पाद बताया गया, और विश्लेषण ने रिकॉर्ड परिणामों को Q2 में संभावित सुधार से जोड़ा। निवेशक देखेंगे कि Rejuran की मांग भविष्य की आय को कैसे प्रभावित करती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "PharmaResearch Cetak Rekor Berkat Rejuran, Momentum Pertumbuhan Q2 Jadi Fokus",
-        "excerpt": "Sebuah analisis menyebut PharmaResearch kembali mencetak kinerja terbaik berkat Rejuran. Pasar kini mencermati apakah momentum pertumbuhan kuartal kedua dapat kembali berlanjut.",
-        "body": "PharmaResearch kembali mencatat kinerja terbaik dengan dukungan Rejuran, menurut analisis yang dikutip Korea Economic Daily. Laporan tersebut menyebut perbaikan kinerja perusahaan masih berpusat pada Rejuran, sementara perhatian tertuju pada kemungkinan kembalinya momentum pertumbuhan pada kuartal kedua. Rejuran disebut sebagai produk inti yang mendorong hasil perusahaan, dan analisis ini menyoroti kinerja rekor serta potensi pemulihan pada Q2. Investor diperkirakan akan memantau dampak permintaan Rejuran terhadap kinerja mendatang. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "dadf92edf268",
-    "slug": "코트라-中-선전서-한중-이차전지-수출상담회-762706",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T04:42:26.080Z",
-    "updatedAt": "2026-05-10T04:42:26.080Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12042480",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12042480",
-    "titleFingerprint": "3dc1e7202ad2d1c8ac0d315fd4e37ac42e8466dd",
-    "dedupKeys": [
-      "dadf92edf268c422eaa93e259a22b66fcdcf52d7",
-      "3dc1e7202ad2d1c8ac0d315fd4e37ac42e8466dd",
-      "3f956d8ed84ddf2cfc7a2eb731a5ec1af14c9d93"
-    ],
-    "imageUrl": "/images/articles/dadf92edf268.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코트라, 중국 선전서 한·중 이차전지 수출상담회 개최",
-        "excerpt": "코트라는 10일 중국 광둥성 선전에서 13일부터 다음 달 19일까지 한·중 이차전지 수출상담 및 화상상담회를 연다고 밝혔다.",
-        "body": "대한무역투자진흥공사(코트라)는 10일 중국 광둥성 선전에서 ‘한·중 이차전지 수출상담 및 화상상담회’를 개최한다고 밝혔다. 행사는 오는 13일부터 다음 달 19일까지 진행된다. 이번 상담회는 한국과 중국의 이차전지 분야 수출 상담을 위해 마련됐으며, 현장 상담과 화상 상담 방식이 함께 운영된다. 이차전지 관련 기업들은 중국 선전에서 진행되는 상담 일정을 통해 양국 간 비즈니스 접점을 확인하게 된다. 구체적인 참가 규모나 상담 성과는 원문에 공개되지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOTRA to Host Korea-China Secondary Battery Export Talks in Shenzhen",
-        "excerpt": "KOTRA said on the 10th it will hold Korea-China secondary battery export and video consultations in Shenzhen, Guangdong, from May 13 to June 19.",
-        "body": "The Korea Trade-Investment Promotion Agency, or KOTRA, said on the 10th that it will hold the “Korea-China Secondary Battery Export Consultation and Video Consultation” in Shenzhen, Guangdong Province, China. The event will run from May 13 through June 19. The consultation program is designed for export talks in the secondary battery sector between Korea and China, combining on-site consultations with video meetings. Companies related to secondary batteries will use the Shenzhen schedule to check business contact points between the two countries. The original report did not disclose the number of participants or expected consultation results. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOTRA、中国・深圳で韓中二次電池輸出商談会を開催へ",
-        "excerpt": "KOTRAは10日、中国広東省深圳で13日から来月19日まで韓中二次電池輸出商談およびオンライン商談会を開くと発表した。",
-        "body": "大韓貿易投資振興公社（KOTRA）は10日、中国広東省深圳で「韓中二次電池輸出商談およびオンライン商談会」を開催すると発表した。開催期間は13日から来月19日まで。今回の商談会は、韓国と中国の二次電池分野における輸出商談のために設けられ、現地での商談とオンライン商談が併せて運営される。二次電池関連企業は、深圳で進められる日程を通じて両国間のビジネス接点を確認することになる。参加規模や商談成果の詳細は原文では公表されていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOTRA将在中国深圳举办韩中二次电池出口洽谈会",
-        "excerpt": "KOTRA于10日表示，将于13日至下月19日在中国广东省深圳举办韩中二次电池出口洽谈及视频洽谈会。",
-        "body": "大韩贸易投资振兴公社（KOTRA）10日表示，将在中国广东省深圳举办“韩中二次电池出口洽谈及视频洽谈会”。活动时间为13日至下月19日。本次洽谈会面向韩国与中国二次电池领域的出口洽谈需求，采取现场洽谈和视频洽谈并行的方式。二次电池相关企业将通过在深圳进行的洽谈日程，确认两国之间的商务接点。原文未公开具体参会规模或洽谈成果预期。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOTRA organizará en Shenzhen una ronda exportadora de baterías secundarias",
-        "excerpt": "KOTRA informó el día 10 que celebrará del 13 al 19 del próximo mes en Shenzhen, Guangdong, consultas de exportación y por video sobre baterías secundarias.",
-        "body": "La Agencia de Promoción del Comercio y la Inversión de Corea, KOTRA, informó el día 10 que celebrará en Shenzhen, provincia china de Guangdong, la “Ronda de consultas de exportación y videoconferencias Corea-China sobre baterías secundarias”. El evento se desarrollará del 13 al 19 del próximo mes. La iniciativa está preparada para consultas de exportación en el sector de baterías secundarias entre Corea y China, con reuniones presenciales y por video. Las empresas vinculadas al sector podrán revisar puntos de contacto comercial entre ambos países durante la agenda en Shenzhen. El texto original no reveló cifras de participación ni resultados esperados. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOTRA fará em Shenzhen rodada Coreia-China de baterias secundárias",
-        "excerpt": "A KOTRA informou no dia 10 que realizará de 13 até 19 do próximo mês, em Shenzhen, Guangdong, consultas de exportação e por vídeo sobre baterias secundárias.",
-        "body": "A Agência de Promoção de Comércio e Investimento da Coreia, KOTRA, informou no dia 10 que realizará em Shenzhen, na província chinesa de Guangdong, a “Rodada de Consultas de Exportação e Videoconsultas Coreia-China sobre Baterias Secundárias”. O evento ocorrerá de 13 até 19 do próximo mês. A rodada foi preparada para consultas de exportação no setor de baterias secundárias entre Coreia e China, combinando encontros presenciais e por vídeo. Empresas relacionadas ao setor poderão verificar pontos de contato de negócios entre os dois países durante a agenda em Shenzhen. O texto original não informou número de participantes nem resultados esperados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOTRA veranstaltet in Shenzhen Exportgespräche zu Sekundärbatterien",
-        "excerpt": "KOTRA teilte am 10. mit, vom 13. bis zum 19. des kommenden Monats in Shenzhen, Guangdong, koreanisch-chinesische Export- und Videoberatungen zu Sekundärbatterien abzuhalten.",
-        "body": "Die Korea Trade-Investment Promotion Agency, KOTRA, teilte am 10. mit, in Shenzhen in der chinesischen Provinz Guangdong die „koreanisch-chinesischen Exportberatungen und Videoberatungen zu Sekundärbatterien“ zu veranstalten. Die Veranstaltung läuft vom 13. bis zum 19. des kommenden Monats. Sie ist für Exportgespräche im Bereich Sekundärbatterien zwischen Korea und China vorgesehen und verbindet Vor-Ort-Beratungen mit Videoterminen. Unternehmen aus dem Bereich Sekundärbatterien können im Rahmen des Programms in Shenzhen geschäftliche Kontaktpunkte zwischen beiden Ländern prüfen. Angaben zur Teilnehmerzahl oder zu erwarteten Ergebnissen wurden im Originalbericht nicht genannt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "KOTRA tiendra à Shenzhen des consultations export sur les batteries secondaires",
-        "excerpt": "KOTRA a annoncé le 10 qu’elle organisera du 13 au 19 du mois prochain à Shenzhen, Guangdong, des consultations d’exportation et par vidéo sur les batteries secondaires.",
-        "body": "L’Agence coréenne de promotion du commerce et de l’investissement, KOTRA, a annoncé le 10 qu’elle organiserait à Shenzhen, dans la province chinoise du Guangdong, les « consultations d’exportation et consultations vidéo Corée-Chine sur les batteries secondaires ». L’événement se déroulera du 13 au 19 du mois prochain. Il vise les discussions d’exportation dans le secteur des batteries secondaires entre la Corée et la Chine, avec des rendez-vous sur place et en vidéo. Les entreprises liées aux batteries secondaires pourront examiner les points de contact commerciaux entre les deux pays dans le cadre du programme à Shenzhen. Le texte original ne précise pas le nombre de participants ni les résultats attendus. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوترا تنظم في شنتشن لقاءات تصدير كورية صينية للبطاريات الثانوية",
-        "excerpt": "أعلنت كوترا في 10 من الشهر أنها ستعقد من 13 حتى 19 من الشهر المقبل في شنتشن بمقاطعة قوانغدونغ لقاءات تصدير ومشاورات عبر الفيديو للبطاريات الثانوية.",
-        "body": "أعلنت وكالة كوريا لترويج التجارة والاستثمار، كوترا، في 10 من الشهر أنها ستنظم في شنتشن بمقاطعة قوانغدونغ الصينية «لقاءات التشاور الكورية الصينية للتصدير والمشاورات عبر الفيديو بشأن البطاريات الثانوية». ومن المقرر أن يستمر الحدث من يوم 13 حتى يوم 19 من الشهر المقبل. ويأتي هذا اللقاء لخدمة مشاورات التصدير في مجال البطاريات الثانوية بين كوريا والصين، مع تشغيل اجتماعات حضورية ومشاورات عبر الفيديو. وستتمكن الشركات المرتبطة بالبطاريات الثانوية من متابعة نقاط التواصل التجاري بين البلدين عبر جدول شنتشن. ولم يذكر النص الأصلي حجم المشاركة أو نتائج متوقعة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOTRA शेन्ज़ेन में कोरिया-चीन सेकेंडरी बैटरी निर्यात बैठक करेगा",
-        "excerpt": "KOTRA ने 10 तारीख को बताया कि वह 13 तारीख से अगले महीने 19 तारीख तक चीन के ग्वांगडोंग प्रांत के शेन्ज़ेन में सेकेंडरी बैटरी निर्यात और वीडियो परामर्श बैठक करेगा।",
-        "body": "कोरिया ट्रेड-इन्वेस्टमेंट प्रमोशन एजेंसी, KOTRA, ने 10 तारीख को कहा कि वह चीन के ग्वांगडोंग प्रांत के शेन्ज़ेन में “कोरिया-चीन सेकेंडरी बैटरी निर्यात परामर्श और वीडियो परामर्श बैठक” आयोजित करेगी। यह कार्यक्रम 13 तारीख से अगले महीने 19 तारीख तक चलेगा। यह बैठक कोरिया और चीन के बीच सेकेंडरी बैटरी क्षेत्र में निर्यात परामर्श के लिए तैयार की गई है, जिसमें现场 परामर्श और वीडियो परामर्श दोनों चलेंगे। सेकेंडरी बैटरी से जुड़ी कंपनियां शेन्ज़ेन में होने वाले कार्यक्रम के जरिए दोनों देशों के कारोबारी संपर्क बिंदु देख सकेंगी। मूल रिपोर्ट में प्रतिभागियों की संख्या या अपेक्षित नतीजों का खुलासा नहीं किया गया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOTRA Gelar Konsultasi Ekspor Baterai Sekunder Korea-China di Shenzhen",
-        "excerpt": "KOTRA menyatakan pada tanggal 10 bahwa pihaknya akan mengadakan konsultasi ekspor dan konsultasi video baterai sekunder Korea-China di Shenzhen, Guangdong, mulai 13 hingga 19 bulan depan.",
-        "body": "Korea Trade-Investment Promotion Agency, KOTRA, menyatakan pada tanggal 10 bahwa pihaknya akan mengadakan “Konsultasi Ekspor dan Konsultasi Video Baterai Sekunder Korea-China” di Shenzhen, Provinsi Guangdong, China. Acara ini berlangsung mulai tanggal 13 hingga 19 bulan depan. Konsultasi tersebut disiapkan untuk pembahasan ekspor di sektor baterai sekunder antara Korea dan China, dengan format pertemuan langsung serta konsultasi video. Perusahaan terkait baterai sekunder akan memeriksa titik kontak bisnis antara kedua negara melalui jadwal di Shenzhen. Laporan asli tidak mengungkap jumlah peserta atau hasil konsultasi yang diharapkan. Sumber: mk.co.kr"
       }
     }
   }
