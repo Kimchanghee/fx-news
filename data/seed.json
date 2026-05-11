@@ -1,5 +1,230 @@
 [
   {
+    "id": "68c034f850e6",
+    "slug": "정유사-웃고-항공사-울고실적-전망-희비-584247",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T21:24:00.106Z",
+    "updatedAt": "2026-05-11T21:24:00.106Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051190141",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051190141",
+    "titleFingerprint": "1f0405316e54a2f9a4cd8d5f2c13add28fb275cb",
+    "dedupKeys": [
+      "68c034f850e666af31049c996399c9ac33a71d92",
+      "1f0405316e54a2f9a4cd8d5f2c13add28fb275cb",
+      "99686c61cac9a3b28884e647a214a8c6c8b981a6"
+    ],
+    "imageUrl": "/images/articles/68c034f850e6.png",
+    "i18n": {
+      "ko": {
+        "title": "정유사 실적 전망은 웃고 항공사는 울고…유가 민감 업종 희비에 시장 주목",
+        "excerpt": "한국경제 보도에 따르면 정유사와 항공사의 실적 전망이 엇갈리며 업종별 희비가 나타났다. 원문은 정유사는 웃고 항공사는 우는 구도로 전망 차이를 전했다.",
+        "body": "한국경제는 정유사와 항공사의 실적 전망이 서로 다른 방향으로 갈리며 업종별 희비가 나타났다고 보도했다. 원문 제목은 정유사가 웃고 항공사가 운다는 표현으로 두 업종의 분위기 차이를 압축했다. 제공된 원문 정보에는 구체적인 발표 시점, 실적 수치, 전망치를 산출한 기관명은 포함되지 않았다. 다만 정유사와 항공사가 모두 유가와 비용 구조 변화에 민감한 업종이라는 점에서 실적 전망의 온도 차이가 시장의 관심을 끄는 사안으로 정리된다. 향후 투자자는 원문에 제시된 세부 지표와 기업별 전망을 확인할 필요가 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Refiners See Brighter Earnings Outlook as Airlines Face Pressure, Report Says",
+        "excerpt": "According to Hankyung, earnings outlooks for refiners and airlines are diverging, with the report framing refiners as upbeat while airlines face a weaker outlook.",
+        "body": "Hankyung reported that earnings outlooks for refiners and airlines are moving in different directions, creating a clear split between the two sectors. The original headline summarized the contrast by saying refiners are smiling while airlines are crying. The provided source information does not include a specific publication time, earnings figures, or the name of an institution behind the forecasts. Still, because both refiners and airlines are sensitive to oil prices and cost structures, the difference in earnings expectations is a market issue to watch. Investors should check the original article for detailed indicators and company-level forecasts. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "石油精製会社は業績見通しに明るさ、航空会社は苦戦との報道",
+        "excerpt": "韓国経済新聞によると、石油精製会社と航空会社の業績見通しが分かれ、精製会社は明るく、航空会社は厳しい構図として伝えられた。",
+        "body": "韓国経済新聞は、石油精製会社と航空会社の業績見通しが異なる方向に分かれ、業種別の明暗が表れていると報じた。原文の見出しは、精製会社が笑い、航空会社が泣くという表現で、両業種の雰囲気の差を端的に示している。提供された原文情報には、具体的な発表時点、業績数値、見通しを算出した機関名は含まれていない。ただ、石油精製会社と航空会社はいずれも原油価格やコスト構造の変化に敏感な業種であるため、業績見通しの温度差は市場の注目材料となる。投資家は原文の詳細指標と企業別見通しを確認する必要がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "炼油企业业绩预期向好，航空公司承压，行业前景分化受关注",
+        "excerpt": "据韩国经济新闻报道，炼油企业与航空公司的业绩预期出现分化，报道以炼油企业笑、航空公司哭来概括两个行业的不同处境。",
+        "body": "韩国经济新闻报道称，炼油企业和航空公司的业绩预期正朝不同方向发展，行业之间出现明显分化。原文标题用炼油企业在笑、航空公司在哭的表述，概括了两个行业氛围的差异。所提供的原文信息并未包含具体发布时间、业绩数字，也未列明给出预测的机构名称。不过，炼油企业和航空公司都对油价及成本结构变化较为敏感，因此业绩预期的温差成为市场关注的议题。投资者仍需查阅原文中的详细指标和各公司展望。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Refinerías mejoran sus perspectivas mientras aerolíneas sufren, según Hankyung",
+        "excerpt": "Según Hankyung, las perspectivas de resultados de refinerías y aerolíneas se han dividido, con un tono favorable para las primeras y presión para las segundas.",
+        "body": "Hankyung informó que las perspectivas de resultados de las refinerías y las aerolíneas avanzan en direcciones distintas, marcando una clara diferencia entre sectores. El titular original resume el contraste al señalar que las refinerías sonríen mientras las aerolíneas lloran. La información proporcionada no incluye una fecha concreta de publicación, cifras de resultados ni el nombre de la institución que elaboró las previsiones. Aun así, dado que ambos sectores son sensibles al precio del petróleo y a los cambios en la estructura de costos, la brecha en las expectativas de beneficios atrae la atención del mercado. Los inversores deben consultar el artículo original para ver indicadores y previsiones por empresa. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Refinarias veem perspectiva melhor, enquanto aéreas sofrem, diz Hankyung",
+        "excerpt": "Segundo o Hankyung, as perspectivas de resultados de refinarias e companhias aéreas se dividiram, com tom positivo para refinarias e pressão sobre aéreas.",
+        "body": "O Hankyung informou que as perspectivas de resultados de refinarias e companhias aéreas estão seguindo direções diferentes, criando uma divisão clara entre os setores. O título original resume o contraste ao dizer que as refinarias sorriem enquanto as companhias aéreas choram. As informações fornecidas não incluem data específica de publicação, números de resultados ou o nome da instituição responsável pelas projeções. Ainda assim, como ambos os setores são sensíveis ao preço do petróleo e à estrutura de custos, a diferença nas expectativas de lucro chama a atenção do mercado. Investidores devem consultar o artigo original para verificar indicadores detalhados e projeções por empresa. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Raffinerien mit besserem Ausblick, Airlines unter Druck, berichtet Hankyung",
+        "excerpt": "Laut Hankyung gehen die Gewinnaussichten von Raffinerien und Fluggesellschaften auseinander: Raffinerien wirken begünstigt, Airlines stehen unter Druck.",
+        "body": "Hankyung berichtete, dass sich die Gewinnaussichten von Raffinerien und Fluggesellschaften in unterschiedliche Richtungen entwickeln und damit eine klare Branchenteilung zeigen. Die ursprüngliche Überschrift fasste den Gegensatz mit der Formulierung zusammen, Raffinerien lächelten, während Airlines weinten. Die vorliegenden Ausgangsinformationen enthalten keinen konkreten Veröffentlichungszeitpunkt, keine Ergebniszahlen und keinen Namen einer Institution, die die Prognosen erstellt hat. Dennoch sind beide Branchen empfindlich gegenüber Ölpreisen und Veränderungen der Kostenstruktur, weshalb die unterschiedliche Ergebnisperspektive für den Markt relevant ist. Anleger sollten im Originalartikel die Detailindikatoren und Unternehmensprognosen prüfen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Raffineurs mieux orientés, compagnies aériennes sous pression, selon Hankyung",
+        "excerpt": "Selon Hankyung, les perspectives de résultats divergent entre raffineurs et compagnies aériennes, les premiers étant présentés comme favorisés et les secondes sous pression.",
+        "body": "Hankyung a rapporté que les perspectives de résultats des raffineurs et des compagnies aériennes évoluent dans des directions opposées, faisant apparaître un contraste net entre les secteurs. Le titre original résume cet écart en indiquant que les raffineurs sourient tandis que les compagnies aériennes pleurent. Les informations fournies ne mentionnent pas de date précise de publication, de chiffres de résultats ni le nom de l’institution à l’origine des prévisions. Toutefois, comme ces deux secteurs sont sensibles aux prix du pétrole et à la structure des coûts, l’écart de perspectives retient l’attention du marché. Les investisseurs doivent consulter l’article original pour vérifier les indicateurs détaillés et les prévisions par entreprise. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "مصافي النفط تبدو أفضل في توقعات الأرباح وشركات الطيران تحت ضغط وفق هانكيونغ",
+        "excerpt": "بحسب هانكيونغ، تباينت توقعات الأرباح بين مصافي النفط وشركات الطيران، إذ صوّر التقرير المصافي في وضع أكثر إيجابية والطيران تحت ضغط.",
+        "body": "ذكرت هانكيونغ أن توقعات الأرباح لمصافي النفط وشركات الطيران تسير في اتجاهين مختلفين، ما يكشف تباينا واضحا بين القطاعين. ولخص العنوان الأصلي هذا الفرق بالقول إن مصافي النفط تبتسم بينما تبكي شركات الطيران. ولا تتضمن المعلومات المقدمة تاريخ نشر محددا أو أرقاما تفصيلية للأرباح أو اسم الجهة التي أعدت التوقعات. ومع ذلك، فإن كلا القطاعين حساسان لأسعار النفط ولتغيرات هيكل التكاليف، لذلك فإن اختلاف توقعات الأداء يعد موضوعا يلفت انتباه السوق. وينبغي للمستثمرين الرجوع إلى المقال الأصلي للاطلاع على المؤشرات التفصيلية والتوقعات الخاصة بكل شركة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "रिफाइनरी कंपनियों का आउटलुक बेहतर, एयरलाइंस पर दबाव: हानक्यूंग रिपोर्ट",
+        "excerpt": "हानक्यूंग के अनुसार रिफाइनरी कंपनियों और एयरलाइंस की आय संभावनाएं अलग-अलग दिख रही हैं, जहां रिफाइनरी पक्ष मजबूत और एयरलाइंस दबाव में बताई गई हैं।",
+        "body": "हानक्यूंग ने बताया कि रिफाइनरी कंपनियों और एयरलाइंस की आय संभावनाएं अलग दिशाओं में जा रही हैं, जिससे दोनों क्षेत्रों के बीच स्पष्ट अंतर दिखता है। मूल शीर्षक ने इस अंतर को इस तरह संक्षेप में रखा कि रिफाइनरी कंपनियां मुस्कुरा रही हैं जबकि एयरलाइंस रो रही हैं। उपलब्ध मूल जानकारी में प्रकाशन का सटीक समय, आय से जुड़े आंकड़े या पूर्वानुमान देने वाली संस्था का नाम शामिल नहीं है। फिर भी दोनों क्षेत्र तेल कीमतों और लागत संरचना में बदलाव के प्रति संवेदनशील हैं, इसलिए आय संभावनाओं का यह अंतर बाजार के लिए ध्यान देने योग्य मुद्दा है। निवेशकों को विस्तृत संकेतकों और कंपनीवार अनुमानों के लिए मूल लेख देखना चाहिए। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Prospek Laba Kilang Lebih Cerah, Maskapai Tertekan, Menurut Hankyung",
+        "excerpt": "Menurut Hankyung, prospek kinerja kilang minyak dan maskapai penerbangan bergerak berbeda, dengan kilang terlihat lebih positif sementara maskapai tertekan.",
+        "body": "Hankyung melaporkan bahwa prospek kinerja kilang minyak dan maskapai penerbangan bergerak ke arah yang berbeda, sehingga memunculkan perbedaan jelas antar sektor. Judul asli merangkum kontras itu dengan menyebut kilang minyak tersenyum sementara maskapai menangis. Informasi sumber yang diberikan tidak memuat waktu publikasi spesifik, angka kinerja, atau nama lembaga yang menyusun proyeksi. Namun, karena kedua sektor sama-sama sensitif terhadap harga minyak dan perubahan struktur biaya, perbedaan prospek laba menjadi isu yang diperhatikan pasar. Investor perlu melihat artikel asli untuk memeriksa indikator rinci dan proyeksi tiap perusahaan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "77a581071642",
+    "slug": "삼성-파업은-공멸-정부-강경대응-필요노동경제학-대가의-경고-895105",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T21:22:41.109Z",
+    "updatedAt": "2026-05-11T21:22:41.109Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12044150",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12044150",
+    "titleFingerprint": "489ac8cd79693a165d35511d428e1eb3b5a5044f",
+    "dedupKeys": [
+      "77a5810716428f1f845b14683343766e6b207d74",
+      "489ac8cd79693a165d35511d428e1eb3b5a5044f",
+      "d7d1e3cf8cadb24186bc657e8622273e85de69c2"
+    ],
+    "imageUrl": "/images/articles/77a581071642.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 파업 경고한 노동경제학자 “정부 강경대응 검토해야”",
+        "excerpt": "이종훈 명지대 명예교수는 삼성전자 노조 파업이 노사 모두에 피해를 줄 수 있다며 정부의 강경 대응과 긴급조정권 검토 필요성을 제기했다.",
+        "body": "이종훈 명지대 명예교수는 삼성전자 노동조합의 파업을 두고 노사 모두에 손실을 부를 수 있는 선택이라고 경고했다. 그는 지금 중요한 것은 노조가 스스로 한 걸음 물러설 명분과 출구를 열어주는 것이라고 강조했다. 배경에는 개별 기업의 과도한 보상이 노동시장 전체를 흔들 수 있다는 우려가 있다. 이 교수는 사태가 장기화할 경우 정부가 강경 대응에 나서야 하며, 긴급조정권 발동도 검토할 필요가 있다고 밝혔다. 이번 발언은 삼성전자 노사 갈등이 기업 내부 문제를 넘어 노동시장 전반의 기준과 기대에 영향을 줄 수 있다는 점을 지적한 것이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Strike Warning: Labor Economist Urges Tough Government Response",
+        "excerpt": "Professor emeritus Lee Jong-hoon of Myongji University warned that a Samsung Electronics union strike could hurt both sides and called for a tougher government response, including review of emergency adjustment powers.",
+        "body": "Lee Jong-hoon, professor emeritus at Myongji University, warned that a strike by Samsung Electronics’ labor union could become a choice that damages both labor and management. He stressed that the priority now is to give the union justification and an exit route to step back on its own. Behind his remarks is concern that excessive compensation at a single company could shake the broader labor market. Lee said that if the dispute drags on, the government should take a firm response and also consider invoking emergency adjustment powers. His comments point to the risk that the Samsung Electronics labor dispute could affect standards and expectations across the labor market beyond one company. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子ストに警鐘、労働経済学者が政府の強硬対応を提言",
+        "excerpt": "明知大学の李鍾勲名誉教授は、サムスン電子労組のストが労使双方に損害を与え得るとして、政府の強硬対応と緊急調整権の検討を求めた。",
+        "body": "明知大学の李鍾勲名誉教授は、サムスン電子労働組合のストライキについて、労使双方に損失をもたらし得る選択だと警告した。李氏は、今重要なのは労組が自ら一歩引くための名分と出口を用意することだと強調した。背景には、個別企業の過度な補償が労働市場全体を揺るがしかねないとの懸念がある。李氏は、事態が長期化する場合、政府は強硬対応に乗り出すべきであり、緊急調整権の発動も検討する必要があると述べた。今回の発言は、サムスン電子の労使対立が企業内部の問題を超え、労働市場全般の基準と期待に影響し得る点を指摘したものだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子罢工警告：劳动经济学者称政府需考虑强硬应对",
+        "excerpt": "明知大学名誉教授李钟勋表示，三星电子工会罢工可能让劳资双方受损，并提出政府强硬应对及考虑启动紧急调整权的必要性。",
+        "body": "明知大学名誉教授李钟勋就三星电子工会罢工警告称，这可能成为给劳资双方都带来损失的选择。他强调，当前重要的是为工会自行后退一步创造名分和出口。其背景是对单个企业过度补偿可能撼动整个劳动市场的担忧。李教授表示，若事态长期化，政府应采取强硬应对，并有必要考虑启动紧急调整权。此次发言指出，三星电子劳资矛盾可能不只是企业内部问题，还会影响整个劳动市场的标准与预期。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Huelga en Samsung Electronics: economista laboral pide respuesta firme del Gobierno",
+        "excerpt": "Lee Jong-hoon, profesor emérito de la Universidad Myongji, advirtió que la huelga sindical en Samsung Electronics puede dañar a ambas partes y pidió evaluar una respuesta firme del Gobierno.",
+        "body": "Lee Jong-hoon, profesor emérito de la Universidad Myongji, advirtió que la huelga del sindicato de Samsung Electronics podría convertirse en una decisión perjudicial tanto para los trabajadores como para la empresa. Subrayó que lo importante ahora es dar al sindicato una justificación y una salida para retroceder por sí mismo. Detrás de sus palabras está la preocupación de que una compensación excesiva en una empresa individual pueda sacudir todo el mercado laboral. Lee señaló que, si el conflicto se prolonga, el Gobierno debería adoptar una respuesta firme y considerar también el uso del derecho de ajuste de emergencia. Sus declaraciones apuntan a que el conflicto laboral en Samsung Electronics podría influir en los estándares y expectativas del mercado laboral en general. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Greve na Samsung Electronics: economista alerta e pede reação firme do governo",
+        "excerpt": "Lee Jong-hoon, professor emérito da Universidade Myongji, afirmou que a greve do sindicato da Samsung Electronics pode prejudicar ambos os lados e defendeu avaliar medidas firmes do governo.",
+        "body": "Lee Jong-hoon, professor emérito da Universidade Myongji, alertou que a greve do sindicato da Samsung Electronics pode se tornar uma escolha prejudicial tanto para trabalhadores quanto para a empresa. Ele ressaltou que o ponto mais importante agora é oferecer ao sindicato uma justificativa e uma saída para recuar por conta própria. A preocupação de fundo é que uma compensação excessiva em uma única empresa possa abalar todo o mercado de trabalho. Lee disse que, se a situação se prolongar, o governo deve adotar uma resposta firme e também considerar o acionamento do poder de ajuste emergencial. A declaração indica que o conflito trabalhista na Samsung Electronics pode afetar padrões e expectativas do mercado de trabalho além da própria empresa. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung-Electronics-Streik: Arbeitsökonom fordert harte Regierungsreaktion",
+        "excerpt": "Lee Jong-hoon, emeritierter Professor der Myongji University, warnte, ein Streik der Samsung-Electronics-Gewerkschaft könne beiden Seiten schaden, und forderte eine harte Regierungsreaktion.",
+        "body": "Lee Jong-hoon, emeritierter Professor der Myongji University, warnte, dass ein Streik der Gewerkschaft von Samsung Electronics eine Entscheidung sein könne, die sowohl Arbeitnehmern als auch Management schade. Er betonte, jetzt sei es wichtig, der Gewerkschaft eine Begründung und einen Ausweg zu geben, damit sie selbst einen Schritt zurückgehen könne. Hintergrund ist die Sorge, dass übermäßige Vergütung in einem einzelnen Unternehmen den gesamten Arbeitsmarkt erschüttern könnte. Lee sagte, wenn sich der Konflikt verlängere, müsse die Regierung hart reagieren und auch die Ausübung von Notanpassungsrechten prüfen. Seine Äußerung weist darauf hin, dass der Arbeitskonflikt bei Samsung Electronics über das Unternehmen hinaus Standards und Erwartungen im gesamten Arbeitsmarkt beeinflussen kann. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Grève chez Samsung Electronics : un économiste appelle l’État à durcir sa réponse",
+        "excerpt": "Lee Jong-hoon, professeur émérite à l’Université Myongji, avertit que la grève syndicale chez Samsung Electronics pourrait nuire aux deux parties et appelle à étudier une réponse ferme de l’État.",
+        "body": "Lee Jong-hoon, professeur émérite à l’Université Myongji, a averti que la grève du syndicat de Samsung Electronics pourrait devenir un choix dommageable pour les salariés comme pour la direction. Il a souligné que l’essentiel, à ce stade, est d’offrir au syndicat une justification et une porte de sortie pour reculer de lui-même. En toile de fond figure la crainte qu’une rémunération excessive dans une seule entreprise ne déstabilise l’ensemble du marché du travail. Lee a déclaré que, si le conflit se prolonge, le gouvernement devrait adopter une réponse ferme et envisager aussi l’activation du pouvoir d’ajustement d’urgence. Ses propos indiquent que le conflit social chez Samsung Electronics pourrait influencer les normes et attentes du marché du travail au-delà de l’entreprise. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إضراب سامسونغ إلكترونيكس تحت التحذير: خبير عمل يدعو لرد حكومي حازم",
+        "excerpt": "حذر لي جونغ هون، الأستاذ الفخري في جامعة ميونغجي، من أن إضراب نقابة سامسونغ إلكترونيكس قد يضر بالطرفين، داعيا إلى رد حكومي حازم ودراسة صلاحيات التسوية الطارئة.",
+        "body": "حذر لي جونغ هون، الأستاذ الفخري في جامعة ميونغجي، من أن إضراب نقابة سامسونغ إلكترونيكس قد يتحول إلى خيار يسبب خسائر للعمال والإدارة معا. وشدد على أن الأهم الآن هو توفير مبرر ومخرج يسمحان للنقابة بالتراجع خطوة من تلقاء نفسها. وتأتي هذه التصريحات في ظل مخاوف من أن التعويضات المفرطة في شركة منفردة قد تهز سوق العمل بأكمله. وقال لي إنه إذا طال أمد الأزمة فعلى الحكومة أن تتخذ ردا حازما، وأن تدرس أيضا تفعيل صلاحيات التسوية الطارئة. وتشير تصريحاته إلى أن نزاع العمل في سامسونغ إلكترونيكس قد يتجاوز حدود الشركة ليؤثر في معايير وتوقعات سوق العمل عموما. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics हड़ताल पर चेतावनी: श्रम अर्थशास्त्री ने सख्त सरकारी रुख मांगा",
+        "excerpt": "म्योंगजी विश्वविद्यालय के प्रोफेसर एमेरिटस ली जोंग-हून ने कहा कि Samsung Electronics यूनियन की हड़ताल दोनों पक्षों को नुकसान पहुंचा सकती है और सरकार से सख्त प्रतिक्रिया पर विचार करने को कहा।",
+        "body": "म्योंगजी विश्वविद्यालय के प्रोफेसर एमेरिटस ली जोंग-हून ने Samsung Electronics की श्रमिक यूनियन की हड़ताल पर चेतावनी दी कि यह श्रमिकों और प्रबंधन दोनों के लिए नुकसानदेह विकल्प बन सकती है। उन्होंने जोर दिया कि अभी अहम बात यह है कि यूनियन को खुद एक कदम पीछे हटने के लिए औचित्य और निकास का रास्ता दिया जाए। इसके पीछे चिंता यह है कि किसी एक कंपनी में अत्यधिक मुआवजा पूरे श्रम बाजार को प्रभावित कर सकता है। ली ने कहा कि यदि स्थिति लंबी खिंचती है तो सरकार को सख्त प्रतिक्रिया देनी चाहिए और आपात समायोजन अधिकार लागू करने पर भी विचार करना चाहिए। यह टिप्पणी बताती है कि Samsung Electronics का श्रम विवाद कंपनी के भीतर तक सीमित नहीं रहकर व्यापक श्रम बाजार के मानकों और अपेक्षाओं को प्रभावित कर सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Mogok Samsung Electronics Diperingatkan: Ekonom Desak Respons Tegas Pemerintah",
+        "excerpt": "Profesor emeritus Lee Jong-hoon dari Universitas Myongji memperingatkan bahwa mogok serikat Samsung Electronics dapat merugikan kedua pihak dan meminta pemerintah mempertimbangkan respons tegas.",
+        "body": "Lee Jong-hoon, profesor emeritus Universitas Myongji, memperingatkan bahwa mogok serikat pekerja Samsung Electronics dapat menjadi pilihan yang merugikan baik pekerja maupun manajemen. Ia menekankan bahwa hal terpenting saat ini adalah membuka alasan dan jalan keluar agar serikat dapat mundur satu langkah dengan sendirinya. Latar belakangnya adalah kekhawatiran bahwa kompensasi berlebihan di satu perusahaan dapat mengguncang seluruh pasar tenaga kerja. Lee mengatakan, jika situasi berlarut-larut, pemerintah perlu mengambil respons tegas dan mempertimbangkan penggunaan hak penyesuaian darurat. Pernyataan ini menunjukkan bahwa konflik ketenagakerjaan Samsung Electronics dapat memengaruhi standar dan ekspektasi pasar tenaga kerja secara luas, melampaui persoalan internal perusahaan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "73118f45994f",
+    "slug": "삼성전자-노사-오늘-마지막-사후조정총파업-막을까-850143",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T21:21:21.379Z",
+    "updatedAt": "2026-05-11T21:21:21.379Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044162",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044162",
+    "titleFingerprint": "fb50005cb5fc29ae6303c2a9e0e6a3ad1b40f35e",
+    "dedupKeys": [
+      "73118f45994fceeb69abc1c8f3a16bad827b83ee",
+      "fb50005cb5fc29ae6303c2a9e0e6a3ad1b40f35e",
+      "3f75373c0b67742c4f3510836ddcde3ebca224f9"
+    ],
+    "imageUrl": "/images/articles/73118f45994f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 노사 오늘 마지막 사후조정, 21일 총파업 막을까",
+        "excerpt": "삼성전자 노사가 오늘 정부 중재 아래 성과급 갈등을 둘러싼 마지막 사후조정에 나선다. 전날 12시간 협상에도 결론을 내지 못해 21일 총파업 여부가 주목된다.",
+        "body": "삼성전자 노사가 오늘 정부 중재 아래 성과급 갈등을 둘러싼 마지막 사후조정 협상에 들어간다. 양측은 전날 12시간 가까운 마라톤 협상을 벌였지만 결론을 내지 못했고, 오는 21일 예고된 총파업을 막을 수 있을지가 핵심 쟁점으로 떠올랐다. 이번 협상은 성과급 문제를 둘러싼 노사 갈등이 이어지는 가운데 마련된 마지막 조정 절차다. 합의가 이뤄질 경우 총파업 가능성은 낮아질 수 있지만, 접점을 찾지 못하면 예고된 파업 일정이 현실화될 수 있다. 회사와 노조 모두 정부 중재 테이블에서 남은 쟁점을 조율해야 하는 상황이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Labor Talks Enter Final Mediation Before Strike Deadline",
+        "excerpt": "Samsung Electronics management and labor enter final government-mediated talks today over a bonus dispute after nearly 12 hours of negotiations failed to reach a deal ahead of a planned June 21 general strike.",
+        "body": "Samsung Electronics management and labor are entering final post-mediation talks today under government mediation over a dispute involving performance bonuses. The two sides held nearly 12 hours of marathon negotiations the previous day but failed to reach a conclusion, putting attention on whether they can prevent the general strike scheduled for June 21. The latest talks are the final mediation step as labor-management conflict over bonuses continues. If an agreement is reached, the possibility of a general strike could decrease. If no common ground is found, the planned strike schedule could move forward. Both the company and the union must now narrow the remaining issues at the government-mediated table. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子労使がきょう最後の事後調整、21日の全面スト回避なるか",
+        "excerpt": "サムスン電子の労使はきょう、政府の仲裁の下で成果給をめぐる最後の事後調整に臨む。前日の約12時間交渉でも結論に至らず、21日の全面スト回避が焦点だ。",
+        "body": "サムスン電子の労使はきょう、政府の仲裁の下で成果給をめぐる最後の事後調整交渉に入る。双方は前日、約12時間に及ぶマラソン交渉を行ったものの結論を出せず、21日に予告された全面ストライキを防げるかが最大の焦点となっている。今回の交渉は、成果給問題をめぐる労使対立が続く中で設けられた最後の調整手続きだ。合意に至れば全面ストの可能性は低下し得るが、接点を見いだせなければ予告されたスト日程が現実化する可能性がある。会社と労組はいずれも政府仲裁の場で残る争点を詰める必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子劳资今日最后调解，能否避免21日总罢工受关注",
+        "excerpt": "三星电子劳资双方今日将在政府调解下就绩效奖金争议进行最后协商。前一天近12小时谈判仍无结果，能否阻止21日总罢工成为焦点。",
+        "body": "三星电子劳资双方今日将在政府调解下，就绩效奖金争议进入最后的事后调解谈判。双方前一天进行了近12小时的马拉松式协商，但未能得出结论，因此能否避免定于21日的总罢工成为核心关注点。此次谈判是在围绕绩效奖金问题的劳资矛盾持续之际安排的最后调解程序。如果达成协议，总罢工的可能性或将降低；如果仍无法找到共同点，预告的罢工日程可能会成为现实。公司和工会都需要在政府调解桌上协调剩余争议。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics encara mediación final con sindicatos antes de huelga del 21",
+        "excerpt": "Samsung Electronics y su sindicato negocian hoy bajo mediación del Gobierno por el conflicto sobre bonificaciones, tras casi 12 horas de conversaciones sin acuerdo antes de la huelga general prevista para el 21.",
+        "body": "La dirección y el sindicato de Samsung Electronics entran hoy en la última ronda de mediación posterior bajo intervención del Gobierno por el conflicto sobre las bonificaciones por desempeño. Las partes mantuvieron el día anterior casi 12 horas de negociaciones maratonianas, pero no lograron una conclusión, por lo que la atención se centra en si podrán evitar la huelga general prevista para el día 21. Esta negociación es el último procedimiento de ajuste en medio de la disputa laboral por las bonificaciones. Si se alcanza un acuerdo, la posibilidad de una huelga general podría disminuir; si no encuentran un punto común, el calendario de huelga anunciado podría materializarse. Empresa y sindicato deben coordinar los asuntos pendientes en la mesa mediada por el Gobierno. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics faz mediação final com sindicato antes de greve do dia 21",
+        "excerpt": "A Samsung Electronics e o sindicato negociam hoje sob mediação do governo sobre bônus por desempenho, após quase 12 horas de conversas sem acordo antes da greve geral prevista para o dia 21.",
+        "body": "A direção e o sindicato da Samsung Electronics entram hoje na última rodada de mediação posterior sob intervenção do governo, em meio ao conflito sobre bônus por desempenho. As partes realizaram no dia anterior quase 12 horas de negociações maratonas, mas não chegaram a uma conclusão, colocando em foco a possibilidade de evitar a greve geral marcada para o dia 21. Esta negociação é o último procedimento de ajuste enquanto prossegue a disputa trabalhista sobre os bônus. Se houver acordo, a chance de greve geral pode diminuir; se não houver convergência, o calendário de paralisação anunciado pode se concretizar. Empresa e sindicato precisam ajustar os pontos restantes na mesa mediada pelo governo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics vor letzter Schlichtung mit Gewerkschaft vor Streik am 21.",
+        "excerpt": "Samsung Electronics und die Gewerkschaft verhandeln heute unter staatlicher Vermittlung über den Streit um Leistungsprämien, nachdem fast 12 Stunden Gespräche ohne Ergebnis blieben und ein Generalstreik am 21. droht.",
+        "body": "Samsung Electronics und die Arbeitnehmerseite treten heute unter staatlicher Vermittlung in die letzte nachgelagerte Schlichtungsrunde zum Streit über Leistungsprämien ein. Beide Seiten hatten am Vortag fast 12 Stunden lang marathonartige Gespräche geführt, kamen jedoch zu keinem Ergebnis. Damit steht im Mittelpunkt, ob der für den 21. angekündigte Generalstreik noch verhindert werden kann. Die aktuellen Gespräche bilden den letzten Vermittlungsschritt, während der Konflikt um die Prämien anhält. Kommt eine Einigung zustande, könnte die Wahrscheinlichkeit eines Generalstreiks sinken. Finden die Parteien keine Schnittmenge, könnte der angekündigte Streikplan Realität werden. Unternehmen und Gewerkschaft müssen die verbleibenden Streitpunkte am staatlich vermittelten Tisch klären. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics en médiation finale avec le syndicat avant la grève du 21",
+        "excerpt": "Samsung Electronics et son syndicat négocient aujourd’hui sous médiation gouvernementale sur les primes de performance, après près de 12 heures de discussions sans accord avant la grève générale prévue le 21.",
+        "body": "La direction et le syndicat de Samsung Electronics entament aujourd’hui une dernière médiation sous l’égide du gouvernement au sujet du différend sur les primes de performance. Les deux parties ont mené la veille près de 12 heures de négociations marathon, sans parvenir à une conclusion, ce qui place au centre des discussions la possibilité d’éviter la grève générale annoncée pour le 21. Cette négociation constitue la dernière étape de médiation alors que le conflit social autour des primes se poursuit. Si un accord est trouvé, la probabilité d’une grève générale pourrait diminuer. Faute de terrain d’entente, le calendrier de grève annoncé pourrait se concrétiser. L’entreprise et le syndicat doivent encore régler les points restants à la table de médiation gouvernementale. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس تدخل وساطة أخيرة مع النقابة قبل إضراب 21",
+        "excerpt": "تدخل إدارة سامسونغ إلكترونيكس والنقابة اليوم مفاوضات أخيرة بوساطة حكومية حول خلاف مكافآت الأداء، بعد نحو 12 ساعة من محادثات بلا نتيجة وقبل إضراب عام مقرر في 21.",
+        "body": "تدخل إدارة سامسونغ إلكترونيكس والنقابة اليوم جولة أخيرة من التوفيق اللاحق بوساطة حكومية بشأن الخلاف حول مكافآت الأداء. وكان الطرفان قد أجريا في اليوم السابق مفاوضات ماراثونية استمرت نحو 12 ساعة، لكنهما لم يتوصلا إلى نتيجة، ما يجعل السؤال الأساسي هو ما إذا كان بالإمكان منع الإضراب العام المعلن في 21. وتأتي هذه المفاوضات كإجراء التوفيق الأخير في ظل استمرار النزاع العمالي حول المكافآت. وإذا تم التوصل إلى اتفاق، فقد تتراجع احتمالات الإضراب العام، أما إذا لم يجد الطرفان نقطة التقاء فقد يمضي جدول الإضراب المعلن إلى التنفيذ. ويتعين على الشركة والنقابة تنسيق القضايا المتبقية على طاولة الوساطة الحكومية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics में आज अंतिम मध्यस्थता, 21 की आम हड़ताल टलेगी?",
+        "excerpt": "Samsung Electronics प्रबंधन और यूनियन आज सरकारी मध्यस्थता में प्रदर्शन बोनस विवाद पर अंतिम वार्ता करेंगे। पिछले दिन लगभग 12 घंटे की बातचीत बेनतीजा रही, इसलिए 21 की आम हड़ताल पर नजर है।",
+        "body": "Samsung Electronics प्रबंधन और यूनियन आज सरकारी मध्यस्थता के तहत प्रदर्शन बोनस से जुड़े विवाद पर अंतिम पश्च-मध्यस्थता वार्ता में प्रवेश कर रहे हैं। दोनों पक्षों ने पिछले दिन लगभग 12 घंटे की मैराथन बातचीत की, लेकिन कोई निष्कर्ष नहीं निकला। इसलिए ध्यान इस बात पर है कि क्या 21 तारीख के लिए घोषित आम हड़ताल को रोका जा सकेगा। यह वार्ता बोनस मुद्दे पर जारी श्रम-प्रबंधन विवाद के बीच अंतिम समायोजन प्रक्रिया है। यदि समझौता होता है, तो आम हड़ताल की संभावना घट सकती है। यदि साझा आधार नहीं मिलता, तो घोषित हड़ताल कार्यक्रम वास्तविक हो सकता है। कंपनी और यूनियन दोनों को सरकारी मध्यस्थता की मेज पर बचे हुए मुद्दों को समेटना होगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Electronics Masuki Mediasi Akhir Sebelum Ancaman Mogok 21",
+        "excerpt": "Manajemen dan serikat Samsung Electronics hari ini menjalani mediasi akhir pemerintah terkait sengketa bonus kinerja, setelah hampir 12 jam negosiasi sehari sebelumnya belum menghasilkan kesepakatan menjelang mogok umum 21.",
+        "body": "Manajemen dan serikat Samsung Electronics hari ini memasuki negosiasi mediasi lanjutan terakhir di bawah penengahan pemerintah terkait sengketa bonus kinerja. Kedua pihak pada hari sebelumnya menggelar negosiasi maraton hampir 12 jam, tetapi belum mencapai kesimpulan, sehingga perhatian tertuju pada apakah mogok umum yang dijadwalkan pada tanggal 21 dapat dicegah. Perundingan ini menjadi prosedur mediasi terakhir di tengah berlanjutnya konflik ketenagakerjaan mengenai bonus. Jika kesepakatan tercapai, kemungkinan mogok umum dapat menurun. Namun jika titik temu tidak ditemukan, jadwal mogok yang telah diumumkan bisa menjadi kenyataan. Perusahaan dan serikat harus menuntaskan isu tersisa di meja mediasi pemerintah. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "7650c8254529",
     "slug": "호르무즈-봉쇄에-유가-껑충아람코-1분기-실적-뜀박질-529475",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Reformasi Tarif Pengisian EV Picu Protes atas Batas Harga Kartu Roaming",
         "excerpt": "Pemerintah menyiapkan perubahan tarif pengisian publik EV, sementara industri menilai metode biaya terkait kartu roaming terlalu ideal dan memberatkan.",
         "body": "Rencana pemerintah untuk merinci kembali sistem tarif pengisian publik kendaraan listrik memicu keluhan yang makin besar dari industri pengisian daya. Pelaku industri menilai kartu roaming, alat pembayaran utama untuk pengisian EV, pada praktiknya menjadi batas atas harga pasar, sehingga rumus tarif publik berdampak langsung pada profitabilitas operator swasta. Kritik terutama tertuju pada perhitungan biaya dalam rancangan itu, yang dianggap menetapkan tingkat penggunaan pengisi daya dan umur perangkat secara terlalu ideal. Industri khawatir standar tersebut memaksa perusahaan berkorban dan dapat menghambat penyebaran kendaraan listrik. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7b6d76a91509",
-    "slug": "결렬땐-40조-날아간다삼성전자-노사-오늘-벼랑끝-협상-811497",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T01:14:25.857Z",
-    "updatedAt": "2026-05-11T01:14:25.857Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12042940",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12042940",
-    "titleFingerprint": "93d545f97cdb215607c0c8b3dbd3be4c9f3a1618",
-    "dedupKeys": [
-      "7b6d76a9150958a0a5ae1b2b9976aa1978c3f513",
-      "93d545f97cdb215607c0c8b3dbd3be4c9f3a1618",
-      "8ffca2720e4b0cea1e60bd221e0086ceff89e730"
-    ],
-    "imageUrl": "/images/articles/7b6d76a91509.png",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 노사 총파업 전 막판 협상, 성과급 쟁점 담판 주목",
-        "excerpt": "삼성전자 노사가 21일 예정된 총파업을 앞두고 정부 중재로 막판 협상에 나서며, 성과급 재원과 지급 기준을 둘러싼 담판 결과에 관심이 쏠린다.",
-        "body": "삼성전자 노사가 오는 21일로 예정된 총파업을 앞두고 정부의 중재 아래 막판 협상에 들어간다. 이번 협상은 총파업 현실화를 막기 위한 벼랑 끝 담판으로, 핵심 쟁점은 성과급 재원과 지급 기준이다. 노사 간 입장 차가 좁혀지지 않을 경우 삼성전자 창사 이래 최대 규모의 파업이 현실화할 수 있다는 점에서 시장과 산업계의 관심이 집중되고 있다. 원문 제목은 협상 결렬 시 ‘40조’ 규모 손실 가능성을 언급했다. 막판 협상에서 접점을 찾을지, 총파업으로 이어질지가 관건이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Electronics Labor Talks Near Strike Deadline Focus on Bonus Dispute",
-        "excerpt": "Samsung Electronics and its union are entering last-minute government-mediated talks before a planned June 21 general strike, with bonus funding and payment standards at issue.",
-        "body": "Samsung Electronics and its labor union are set to enter last-minute negotiations under government mediation ahead of a general strike scheduled for June 21. The talks are a final attempt to prevent the strike, with the central dispute focused on the funding source and criteria for performance bonuses. If the two sides fail to narrow their differences, the company could face the largest strike in its history. Markets and industry observers are watching whether the negotiations produce a settlement or lead to a full walkout. The original report’s headline cited the possibility of a “40 trillion won” loss if talks break down. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン電子労使、総スト前に最終交渉　成果給が焦点",
-        "excerpt": "サムスン電子の労使は21日に予定された総ストを前に、政府の仲裁で最終交渉に入り、成果給の財源と支給基準を巡る協議が焦点となる。",
-        "body": "サムスン電子の労使は、21日に予定されている総ストライキを前に、政府の仲裁の下で最終交渉に入る。今回の協議は総ストの現実化を防ぐための瀬戸際の交渉で、主な争点は成果給の財源と支給基準だ。労使の隔たりが縮まらなければ、サムスン電子の創業以来最大規模のストライキにつながる可能性があるため、市場と産業界の関心が集まっている。原文の見出しは、交渉決裂時に「40兆」規模の損失可能性に言及した。妥協点を見いだせるかが焦点だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星电子劳资总罢工前最后谈判，绩效奖金分歧成焦点",
-        "excerpt": "三星电子劳资双方将在21日计划总罢工前，在政府调解下展开最后谈判，绩效奖金资金来源和支付标准成为核心争议。",
-        "body": "三星电子劳资双方将在定于21日举行的总罢工前，在政府调解下进行最后谈判。此次谈判被视为避免总罢工成为现实的最后协商，核心争议在于绩效奖金的资金来源和支付标准。如果双方未能缩小分歧，三星电子可能面临创立以来最大规模的罢工，因此市场和产业界高度关注谈判结果。原文标题提到，若谈判破裂，可能出现“40万亿”规模损失。最后谈判能否找到交集，将决定事态走向。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samsung Electronics negocia al límite antes de huelga general por bonos",
-        "excerpt": "Samsung Electronics y su sindicato afrontan una negociación final mediada por el Gobierno antes de la huelga general prevista para el día 21, con los bonos como eje del conflicto.",
-        "body": "Samsung Electronics y su sindicato entran en una negociación de última hora bajo mediación del Gobierno antes de la huelga general prevista para el día 21. La reunión busca evitar que la huelga se concrete, y el principal punto de disputa es la fuente de financiación y los criterios de pago de los bonos por desempeño. Si las partes no reducen sus diferencias, la compañía podría enfrentar la mayor huelga desde su fundación. Los mercados y la industria observan si el diálogo logra un acuerdo o deriva en paro total. El titular original mencionó una posible pérdida de “40 billones de wones” si fracasan las conversaciones. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Samsung Electronics faz negociação final antes de greve por bônus",
-        "excerpt": "Samsung Electronics e sindicato entram em negociação final mediada pelo governo antes da greve geral prevista para o dia 21, com recursos e critérios de bônus no centro da disputa.",
-        "body": "A Samsung Electronics e seu sindicato iniciam uma negociação de última hora, mediada pelo governo, antes da greve geral prevista para o dia 21. A rodada é uma tentativa final de evitar a paralisação, tendo como principais pontos de conflito a fonte de recursos e os critérios de pagamento dos bônus por desempenho. Se as partes não reduzirem as diferenças, a empresa poderá enfrentar a maior greve de sua história. O mercado e o setor industrial acompanham se haverá acordo ou avanço para uma paralisação total. O título original citou possível perda de “40 trilhões de wones” em caso de ruptura. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung Electronics verhandelt vor Generalstreik über Bonusstreit",
-        "excerpt": "Samsung Electronics und die Gewerkschaft gehen vor dem für den 21. geplanten Generalstreik in letzte, staatlich vermittelte Gespräche über Finanzierung und Kriterien von Boni.",
-        "body": "Samsung Electronics und seine Gewerkschaft treten vor dem für den 21. geplanten Generalstreik in letzte Verhandlungen unter staatlicher Vermittlung ein. Die Gespräche sollen den Streik noch verhindern; im Mittelpunkt stehen die Finanzierungsquelle und die Kriterien für leistungsbezogene Boni. Wenn beide Seiten ihre Differenzen nicht verringern, könnte Samsung Electronics vor dem größten Streik seiner Unternehmensgeschichte stehen. Märkte und Industrie beobachten, ob die Verhandlungen zu einer Einigung führen oder in einen umfassenden Ausstand münden. Die Originalüberschrift nannte bei einem Scheitern mögliche Verluste von „40 Billionen Won“. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samsung Electronics en négociation finale avant la grève sur les primes",
-        "excerpt": "Samsung Electronics et son syndicat entament une négociation de dernière minute sous médiation gouvernementale avant la grève générale prévue le 21, avec les primes au centre du conflit.",
-        "body": "Samsung Electronics et son syndicat s’engagent dans des négociations de dernière minute sous médiation du gouvernement avant la grève générale prévue le 21. Cette discussion vise à éviter la concrétisation du mouvement, avec pour principal point de blocage la source de financement et les critères de versement des primes de performance. Si les deux parties ne réduisent pas leurs écarts, l’entreprise pourrait connaître la plus grande grève de son histoire. Les marchés et le secteur industriel suivent l’issue de ces pourparlers. Le titre original évoquait une possible perte de « 40 billions de wons » en cas d’échec. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سامسونغ إلكترونيكس تفاوض قبل الإضراب العام وسط خلاف على المكافآت",
-        "excerpt": "تدخل سامسونغ إلكترونيكس ونقابتها مفاوضات أخيرة بوساطة حكومية قبل الإضراب العام المقرر في 21، مع تركّز الخلاف على تمويل مكافآت الأداء ومعايير صرفها.",
-        "body": "تستعد سامسونغ إلكترونيكس ونقابتها للدخول في مفاوضات أخيرة بوساطة الحكومة قبل الإضراب العام المقرر في 21. وتهدف هذه المحادثات إلى منع تحول الإضراب إلى واقع، بينما يتمحور الخلاف الرئيسي حول مصدر تمويل مكافآت الأداء ومعايير صرفها. وإذا لم يتمكن الطرفان من تضييق فجوة المواقف، فقد تواجه الشركة أكبر إضراب منذ تأسيسها. لذلك تتابع الأسواق والقطاعات الصناعية ما إذا كانت المفاوضات ستنتهي بتسوية أم ستقود إلى إضراب شامل. وذكر العنوان الأصلي احتمال خسارة قدرها “40 تريليون وون” إذا فشلت المحادثات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung Electronics में आम हड़ताल से पहले अंतिम बातचीत, बोनस विवाद केंद्र में",
-        "excerpt": "Samsung Electronics और उसकी यूनियन 21 तारीख को प्रस्तावित आम हड़ताल से पहले सरकारी मध्यस्थता में अंतिम बातचीत करेंगी, जिसमें प्रदर्शन बोनस का फंड और मानक मुख्य मुद्दे हैं।",
-        "body": "Samsung Electronics और उसकी श्रमिक यूनियन 21 तारीख को प्रस्तावित आम हड़ताल से पहले सरकारी मध्यस्थता के तहत अंतिम दौर की बातचीत में प्रवेश कर रही हैं। यह वार्ता हड़ताल को वास्तविकता बनने से रोकने की अंतिम कोशिश मानी जा रही है। मुख्य विवाद प्रदर्शन बोनस के लिए संसाधन और भुगतान मानकों को लेकर है। यदि दोनों पक्ष अपने मतभेद कम नहीं कर पाते, तो कंपनी अपने इतिहास की सबसे बड़ी हड़ताल का सामना कर सकती है। बाजार और उद्योग जगत इस बात पर नजर रखे हुए हैं कि बातचीत से समझौता निकलेगा या मामला पूर्ण हड़ताल तक जाएगा। मूल शीर्षक में वार्ता विफल होने पर “40 ट्रिलियन वॉन” नुकसान की संभावना का उल्लेख था। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Samsung Electronics Negosiasi Terakhir Jelang Mogok Umum Soal Bonus",
-        "excerpt": "Samsung Electronics dan serikat pekerjanya memasuki negosiasi akhir dengan mediasi pemerintah sebelum mogok umum yang dijadwalkan pada 21, dengan bonus kinerja sebagai isu utama.",
-        "body": "Samsung Electronics dan serikat pekerjanya akan memasuki negosiasi menit terakhir dengan mediasi pemerintah menjelang mogok umum yang dijadwalkan pada 21. Perundingan ini menjadi upaya akhir untuk mencegah mogok terjadi, dengan isu utama pada sumber dana dan standar pembayaran bonus kinerja. Jika kedua pihak gagal mempersempit perbedaan, Samsung Electronics dapat menghadapi mogok terbesar sejak perusahaan berdiri. Pasar dan kalangan industri mencermati apakah negosiasi akan menghasilkan kesepakatan atau berujung pada mogok penuh. Judul asli menyebut potensi kerugian “40 triliun won” jika pembicaraan gagal. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "bb554b964bc7",
-    "slug": "폰-반납하면-중고-시세에-10만원-추가-보상갤s26-페스타-확대-운영-329512",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T01:13:26.712Z",
-    "updatedAt": "2026-05-11T01:13:26.712Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12042947",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12042947",
-    "titleFingerprint": "b278abb2b5b7695b3245a233ce47bb5a31de868e",
-    "dedupKeys": [
-      "bb554b964bc7a7502ba625e949efb55d9b360b90",
-      "b278abb2b5b7695b3245a233ce47bb5a31de868e",
-      "404cca490a9aedacd9a0ab9dfc2873f7ecd41780"
-    ],
-    "imageUrl": "/images/articles/bb554b964bc7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "갤럭시 S26 페스타 확대, 폰 반납 시 중고 시세에 10만원 추가 보상",
-        "excerpt": "삼성전자는 11일 갤럭시 S26 패밀리 페스타를 확대 운영한다고 밝혔다. 오는 31일까지 제품 구매 고객에게 기존 휴대폰 반납 시 중고 시세에 10만원을 더 보상한다.",
-        "body": "삼성전자는 11일 갤럭시 S26 패밀리 페스타를 확대 운영한다고 밝혔다. 이번 행사는 오는 31일까지 진행되며, 행사 기간 제품을 구매한 고객을 대상으로 기존 휴대폰 반납 혜택을 제공한다. 고객이 사용하던 폰을 반납하면 중고 시세에 10만원을 추가로 보상받을 수 있다. 삼성전자는 갤럭시 S26 구매 고객의 부담을 낮추기 위해 페스타 운영 범위를 넓힌 것으로 전해졌다. 이번 확대 운영은 행사 종료일인 31일까지 적용된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Galaxy S26 Festa Expanded With 100,000 Won Bonus on Phone Trade-Ins",
-        "excerpt": "Samsung Electronics said on May 11 it is expanding the Galaxy S26 Family Festa, offering buyers through May 31 an extra 100,000 won on top of used-phone market value when they return a device.",
-        "body": "Samsung Electronics announced on May 11 that it is expanding the Galaxy S26 Family Festa. The event runs until May 31 and offers benefits to customers who purchase eligible products during the campaign period. Customers who return their existing phones can receive the used-device market value plus an additional 100,000 won. Samsung Electronics is said to be broadening the Festa program to reduce the purchase burden for Galaxy S26 customers. The expanded offer applies until the event ends on May 31. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "Galaxy S26フェスタ拡大、スマホ返却で中古相場に10万ウォン上乗せ",
-        "excerpt": "サムスン電子は11日、Galaxy S26ファミリーフェスタを拡大運営すると発表した。31日までの購入者は端末返却時に中古相場へ10万ウォンを追加で受け取れる。",
-        "body": "サムスン電子は11日、Galaxy S26ファミリーフェスタを拡大運営すると発表した。今回のイベントは31日まで実施され、期間中に製品を購入した顧客を対象に、既存スマートフォンの返却特典を提供する。利用していた端末を返却すれば、中古相場に10万ウォンを加えた補償を受けられる。サムスン電子はGalaxy S26購入顧客の負担を下げるため、フェスタの運営範囲を広げたとされる。拡大運営はイベント終了日の31日まで適用される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Galaxy S26 Festa扩大运营，旧机回收按二手价再补10万韩元",
-        "excerpt": "三星电子11日表示，将扩大运营Galaxy S26 Family Festa。到31日为止，购买产品的顾客交回旧手机时，可在二手市价基础上再获10万韩元补偿。",
-        "body": "三星电子11日宣布扩大运营Galaxy S26 Family Festa。本次活动将持续到31日，面向活动期间购买产品的顾客提供旧手机回收优惠。顾客交回正在使用的手机时，可在二手市价基础上额外获得10万韩元补偿。三星电子据称是为降低Galaxy S26购买顾客的负担而扩大Festa运营范围。此次扩大运营适用至活动结束日31日。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Galaxy S26 Festa se amplía: 100.000 won extra al entregar un móvil usado",
-        "excerpt": "Samsung Electronics anunció el día 11 la ampliación de Galaxy S26 Family Festa. Hasta el 31, los compradores recibirán 100.000 won adicionales al valor de mercado usado si entregan su teléfono.",
-        "body": "Samsung Electronics anunció el día 11 que ampliará la operación de Galaxy S26 Family Festa. La campaña se desarrolla hasta el 31 y ofrece beneficios a los clientes que compren productos durante el periodo del evento. Quienes entreguen su teléfono actual podrán recibir el valor de mercado de segunda mano más una compensación adicional de 100.000 won. Según la información, Samsung Electronics amplía el alcance de Festa para reducir la carga de compra de los clientes de Galaxy S26. La ampliación se aplicará hasta el cierre del evento, el día 31. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Galaxy S26 Festa é ampliada com 100 mil won extras na troca de celular",
-        "excerpt": "A Samsung Electronics informou no dia 11 que ampliará o Galaxy S26 Family Festa. Até o dia 31, compradores que devolverem um celular receberão o preço de usado mais 100 mil won adicionais.",
-        "body": "A Samsung Electronics anunciou no dia 11 que está ampliando a operação do Galaxy S26 Family Festa. A ação segue até o dia 31 e oferece benefícios aos clientes que comprarem produtos durante o período da campanha. Ao devolver o telefone que já usavam, os clientes poderão receber o valor de mercado do aparelho usado mais uma compensação adicional de 100 mil won. Segundo a informação, a Samsung Electronics ampliou o Festa para reduzir o peso da compra para clientes do Galaxy S26. A ampliação vale até o fim do evento, no dia 31. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Galaxy S26 Festa erweitert: 100.000 Won extra bei Rückgabe alter Handys",
-        "excerpt": "Samsung Electronics teilte am 11. mit, die Galaxy S26 Family Festa auszuweiten. Bis zum 31. erhalten Käufer bei Rückgabe eines Handys zusätzlich zum Gebrauchtmarktwert 100.000 Won.",
-        "body": "Samsung Electronics gab am 11. bekannt, die Galaxy S26 Family Festa auszuweiten. Die Aktion läuft bis zum 31. und richtet sich an Kunden, die während des Veranstaltungszeitraums Produkte kaufen. Wer sein bisheriges Handy zurückgibt, kann den Gebrauchtmarktwert plus eine zusätzliche Entschädigung von 100.000 Won erhalten. Samsung Electronics soll den Umfang der Festa erweitert haben, um die Kaufbelastung für Galaxy-S26-Kunden zu senken. Die erweiterte Aktion gilt bis zum Ende der Veranstaltung am 31. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Galaxy S26 Festa élargi: 100 000 wons en plus pour la reprise d’un téléphone",
-        "excerpt": "Samsung Electronics a annoncé le 11 l’élargissement du Galaxy S26 Family Festa. Jusqu’au 31, les acheteurs qui rendent un téléphone recevront 100 000 wons en plus de sa valeur d’occasion.",
-        "body": "Samsung Electronics a annoncé le 11 qu’il élargissait le Galaxy S26 Family Festa. L’opération se déroule jusqu’au 31 et concerne les clients qui achètent des produits pendant la période de l’événement. En restituant leur téléphone actuel, ils peuvent recevoir la valeur du marché de l’occasion plus une compensation supplémentaire de 100 000 wons. Samsung Electronics aurait étendu le programme Festa afin de réduire la charge d’achat pour les clients du Galaxy S26. Cette extension s’applique jusqu’à la fin de l’événement, le 31. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "توسيع Galaxy S26 Festa: 100 ألف وون إضافية عند تسليم الهاتف القديم",
-        "excerpt": "أعلنت سامسونغ إلكترونيكس في 11 مايو توسيع Galaxy S26 Family Festa. وحتى 31 مايو، يحصل المشترون عند تسليم هاتفهم على سعره في سوق المستعمل مضافا إليه 100 ألف وون.",
-        "body": "أعلنت سامسونغ إلكترونيكس في 11 مايو أنها توسع برنامج Galaxy S26 Family Festa. ويستمر الحدث حتى 31 مايو، ويقدم مزايا للعملاء الذين يشترون المنتجات خلال فترة الحملة. وعند تسليم الهاتف الذي كانوا يستخدمونه، يمكن للعملاء الحصول على قيمة الجهاز في سوق الهواتف المستعملة إضافة إلى تعويض إضافي قدره 100 ألف وون. ويفيد الخبر بأن سامسونغ إلكترونيكس وسعت نطاق Festa لتخفيف عبء الشراء على عملاء Galaxy S26. ويسري هذا التوسيع حتى نهاية الحدث في 31 مايو. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Galaxy S26 Festa का विस्तार, फोन लौटाने पर पुराने दाम से 1 लाख वोन अधिक",
-        "excerpt": "सैमसंग इलेक्ट्रॉनिक्स ने 11 मई को Galaxy S26 Family Festa के विस्तार की घोषणा की। 31 मई तक उत्पाद खरीदने वाले ग्राहकों को फोन लौटाने पर पुराने बाजार मूल्य के साथ 1 लाख वोन अतिरिक्त मिलेंगे।",
-        "body": "सैमसंग इलेक्ट्रॉनिक्स ने 11 मई को कहा कि वह Galaxy S26 Family Festa का विस्तार कर रही है। यह आयोजन 31 मई तक चलेगा और अभियान अवधि में उत्पाद खरीदने वाले ग्राहकों को मौजूदा फोन लौटाने का लाभ देगा। ग्राहक अपना इस्तेमाल किया हुआ फोन लौटाने पर पुराने फोन के बाजार मूल्य के साथ अतिरिक्त 1 लाख वोन का मुआवजा पा सकते हैं। जानकारी के अनुसार, सैमसंग इलेक्ट्रॉनिक्स ने Galaxy S26 ग्राहकों की खरीद लागत का बोझ कम करने के लिए Festa का दायरा बढ़ाया है। यह विस्तारित संचालन 31 मई को आयोजन समाप्त होने तक लागू रहेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Galaxy S26 Festa Diperluas, Tukar Ponsel Dapat Tambahan 100 Ribu Won",
-        "excerpt": "Samsung Electronics pada 11 Mei mengumumkan perluasan Galaxy S26 Family Festa. Hingga 31 Mei, pembeli yang menyerahkan ponsel lama mendapat nilai pasar bekas plus tambahan 100 ribu won.",
-        "body": "Samsung Electronics mengumumkan pada 11 Mei bahwa mereka memperluas Galaxy S26 Family Festa. Program ini berlangsung hingga 31 Mei dan memberikan manfaat bagi pelanggan yang membeli produk selama periode acara. Pelanggan yang menyerahkan ponsel yang sedang digunakan dapat menerima nilai pasar perangkat bekas ditambah kompensasi 100 ribu won. Samsung Electronics disebut memperluas cakupan Festa untuk mengurangi beban pembelian bagi pelanggan Galaxy S26. Perluasan ini berlaku sampai acara berakhir pada 31 Mei. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a9ee9973993f",
-    "slug": "매경경영지원본부-칼럼-직무-중심의-hr-어떻게-준비해야-하는가-300131",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T01:12:38.003Z",
-    "updatedAt": "2026-05-11T01:12:38.003Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12042963",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12042963",
-    "titleFingerprint": "7a86c14c9c97fcfbbcb98dee6401bcb7859d2ce5",
-    "dedupKeys": [
-      "a9ee9973993fe3d63c7ff3507d3215cb0155773c",
-      "7a86c14c9c97fcfbbcb98dee6401bcb7859d2ce5",
-      "8e8da652c63d683d29291c2b86bc861c2a31bd18"
-    ],
-    "imageUrl": "/images/articles/a9ee9973993f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "직무 중심 HR 전환 준비법, 매경경영지원본부가 짚은 핵심 과제",
-        "excerpt": "매경경영지원본부 칼럼은 최근 HR 흐름으로 직무 중심 전환을 제시하며 회사와 직원의 관계를 ‘일’ 기준 계약으로 다시 봐야 한다고 설명했다.",
-        "body": "최근 HR의 주요 흐름 가운데 하나로 직무 중심, 즉 Job-based HR 전환이 부각되고 있다. 매경경영지원본부 칼럼은 기업이 직무 중심의 HR로 가야 한다고 짚으며, 회사와 직원의 관계를 ‘일’을 기준으로 한 계약 관계로 설명했다. 배경에는 사람 중심 인사 관행에서 벗어나 직무와 역할을 기준으로 HR을 설계해야 한다는 문제의식이 있다. 원문이 제시한 핵심은 회사가 직원에게 일을 맡기고, 그 일을 기준으로 관계가 형성된다는 점이다. 이에 따라 기업은 직무 중심 HR을 준비할 때 업무 자체를 기준으로 인사 운영을 바라보는 관점 전환이 필요하다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Job-Based HR Shift: Key Preparation Points Highlighted by Maeil Business",
-        "excerpt": "A Maeil Business HR column said a recent HR trend is the move toward job-based systems, viewing the company-employee relationship as a contract built around work.",
-        "body": "One of the notable recent trends in HR is the shift toward job-based HR. A Maeil Business Management Support Headquarters column said companies need to move in this direction and described the relationship between a company and an employee as a contractual one based on work. The context is a need to design HR around jobs and roles rather than only around people-centered practices. The core point in the original article is that a company assigns work to employees, and that work forms the basis of the relationship. As companies prepare for job-based HR, they need to view personnel management through the work itself. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "職務中心HRへの転換準備、毎経経営支援本部が示した要点",
-        "excerpt": "毎経経営支援本部のコラムは、近年のHR動向として職務中心への転換を挙げ、会社と社員の関係を「仕事」を基準にした契約関係と説明した。",
-        "body": "近年のHRにおける主要な流れの一つとして、職務中心、すなわちJob-based HRへの転換が注目されている。毎経経営支援本部のコラムは、企業は職務中心のHRへ進むべきだと指摘し、会社と社員の関係を「仕事」を基準にした契約関係として説明した。背景には、人を中心にした人事慣行だけでなく、職務と役割を基準にHRを設計する必要があるという問題意識がある。原文が示した核心は、会社が社員に仕事を任せ、その仕事を基準に関係が形成されるという点だ。企業が職務中心HRを準備するには、業務そのものを基準に人事運営を見る視点への転換が必要となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "职务中心HR转型如何准备？每日经济经营支援本部解读要点",
-        "excerpt": "每日经济经营支援本部专栏指出，近期HR重要趋势之一是转向职务中心，并将公司与员工关系解释为以“工作”为基础的契约关系。",
-        "body": "近期HR的主要趋势之一，是向职务中心，即Job-based HR转型。每日经济经营支援本部专栏指出，企业应走向职务中心HR，并将公司与员工之间的关系说明为以“工作”为标准的契约关系。其背景在于，人事管理需要从单纯以人为中心的惯例中扩展出来，以职务和角色为基准设计HR。原文提出的核心是，公司向员工交付工作，而双方关系也以这项工作为基础形成。因此，企业在准备职务中心HR时，需要把人事运营的观察基准转向工作本身。出处: mk.co.kr"
-      },
-      "es": {
-        "title": "HR basado en puestos: claves para preparar la transición según Maeil Business",
-        "excerpt": "Una columna de Maeil Business señaló que una tendencia reciente en HR es pasar a un modelo basado en puestos, entendiendo la relación empresa-empleado como un contrato centrado en el trabajo.",
-        "body": "Una de las tendencias recientes más relevantes en HR es la transición hacia un modelo basado en puestos, o Job-based HR. Una columna de la sede de apoyo a la gestión de Maeil Business afirmó que las empresas deben avanzar en esa dirección y describió la relación entre empresa y empleado como una relación contractual basada en el trabajo. El contexto es la necesidad de diseñar HR tomando como referencia las funciones y los roles, más allá de prácticas centradas solo en la persona. El punto central del texto original es que la empresa encarga trabajo al empleado y esa labor constituye la base de la relación. Por ello, al preparar HR basado en puestos, las compañías deben mirar la gestión de personal desde el trabajo mismo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "RH baseado em cargos: como preparar a transição segundo o Maeil Business",
-        "excerpt": "Uma coluna do Maeil Business apontou que uma tendência recente de RH é migrar para o modelo baseado em cargos, vendo a relação empresa-funcionário como contrato baseado no trabalho.",
-        "body": "Uma das principais tendências recentes em RH é a transição para o modelo baseado em cargos, ou Job-based HR. Uma coluna da sede de apoio à gestão do Maeil Business afirmou que as empresas devem seguir nessa direção e descreveu a relação entre empresa e funcionário como uma relação contratual baseada no trabalho. O contexto é a necessidade de desenhar o RH com base em funções e papéis, para além de práticas centradas apenas nas pessoas. O ponto central do texto original é que a empresa atribui trabalho ao funcionário, e esse trabalho forma a base da relação. Assim, ao preparar um RH baseado em cargos, as empresas precisam observar a gestão de pessoas a partir do próprio trabalho. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Jobbasiertes HR: So bereiten Unternehmen den Wandel laut Maeil Business vor",
-        "excerpt": "Eine Kolumne von Maeil Business nennt den Wechsel zu jobbasierter HR als aktuellen Trend und beschreibt das Verhältnis zwischen Unternehmen und Beschäftigten als arbeitsbezogenen Vertrag.",
-        "body": "Einer der wichtigen aktuellen HR-Trends ist der Wechsel zu jobbasierter HR, also Job-based HR. Eine Kolumne der Management-Support-Zentrale von Maeil Business erklärte, Unternehmen müssten sich in diese Richtung bewegen, und beschrieb das Verhältnis zwischen Unternehmen und Mitarbeitenden als vertragliche Beziehung auf Grundlage der Arbeit. Hintergrund ist die Notwendigkeit, HR nicht nur aus personenbezogenen Praktiken heraus, sondern anhand von Aufgaben und Rollen zu gestalten. Der Kernpunkt des Originaltexts lautet: Das Unternehmen überträgt Mitarbeitenden Arbeit, und diese Arbeit bildet die Basis der Beziehung. Daher müssen Unternehmen bei der Vorbereitung jobbasierter HR die Personalarbeit vom konkreten Arbeitsinhalt aus betrachten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "RH centré sur les postes : les clés de préparation selon Maeil Business",
-        "excerpt": "Une chronique de Maeil Business présente le passage à une RH centrée sur les postes comme une tendance récente, en définissant la relation entreprise-salarié comme un contrat fondé sur le travail.",
-        "body": "L’une des tendances récentes majeures des RH est le passage à une approche centrée sur les postes, ou Job-based HR. Une chronique du siège de soutien à la gestion de Maeil Business indique que les entreprises doivent aller dans cette direction et décrit la relation entre l’entreprise et le salarié comme une relation contractuelle fondée sur le travail. Le contexte est la nécessité de concevoir les RH à partir des fonctions et des rôles, au-delà des seules pratiques centrées sur la personne. Le point essentiel du texte original est que l’entreprise confie un travail au salarié et que ce travail constitue la base de la relation. Pour préparer une RH centrée sur les postes, les entreprises doivent donc regarder la gestion du personnel à partir du travail lui-même. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "التحول إلى الموارد البشرية القائمة على الوظيفة: نقاط التحضير وفق Maeil Business",
-        "excerpt": "أوضحت مقالة في Maeil Business أن أحد توجهات الموارد البشرية الحديثة هو الانتقال إلى نموذج قائم على الوظيفة، حيث تُفهم علاقة الشركة بالموظف كعقد يقوم على العمل.",
-        "body": "يبرز التحول إلى الموارد البشرية القائمة على الوظيفة، أو Job-based HR، كأحد الاتجاهات المهمة حديثا في مجال الموارد البشرية. وذكرت مقالة صادرة عن مقر دعم الإدارة في Maeil Business أن الشركات ينبغي أن تتجه إلى هذا النموذج، موضحة أن العلاقة بين الشركة والموظف هي علاقة تعاقدية تقوم على العمل. وتأتي هذه الفكرة في سياق الحاجة إلى تصميم الموارد البشرية اعتمادا على الوظائف والأدوار، لا على الممارسات المتمحورة حول الأشخاص فقط. والنقطة الأساسية في النص الأصلي هي أن الشركة تكلف الموظف بعمل، وأن هذا العمل يشكل أساس العلاقة. لذلك، عند الاستعداد للموارد البشرية القائمة على الوظيفة، تحتاج الشركات إلى النظر إلى إدارة الأفراد من خلال العمل نفسه. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "जॉब-आधारित HR बदलाव की तैयारी: Maeil Business ने बताए मुख्य बिंदु",
-        "excerpt": "Maeil Business के कॉलम ने कहा कि HR की हालिया प्रमुख दिशा जॉब-आधारित प्रणाली की ओर बदलाव है, जिसमें कंपनी और कर्मचारी का संबंध काम पर आधारित अनुबंध माना जाता है।",
-        "body": "HR की हालिया प्रमुख प्रवृत्तियों में से एक जॉब-आधारित, यानी Job-based HR की ओर बदलाव है। Maeil Business Management Support Headquarters के कॉलम ने कहा कि कंपनियों को जॉब-केंद्रित HR की ओर जाना चाहिए और कंपनी तथा कर्मचारी के संबंध को काम पर आधारित अनुबंध संबंध के रूप में समझाया। इसकी पृष्ठभूमि में यह विचार है कि HR को केवल व्यक्ति-केंद्रित प्रथाओं से नहीं, बल्कि काम और भूमिका के आधार पर डिजाइन करने की जरूरत है। मूल लेख का मुख्य बिंदु यह है कि कंपनी कर्मचारी को काम देती है और वही काम संबंध का आधार बनता है। इसलिए जॉब-आधारित HR की तैयारी करते समय कंपनियों को मानव संसाधन संचालन को काम स्वयं के आधार पर देखने की जरूरत है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "HR Berbasis Jabatan: Cara Menyiapkan Transisi Menurut Maeil Business",
-        "excerpt": "Kolom Maeil Business menyebut peralihan ke HR berbasis jabatan sebagai tren terbaru, dengan hubungan perusahaan-karyawan dipandang sebagai kontrak yang berpusat pada pekerjaan.",
-        "body": "Salah satu tren utama terbaru dalam HR adalah peralihan ke HR berbasis jabatan, atau Job-based HR. Kolom dari Maeil Business Management Support Headquarters menyatakan bahwa perusahaan perlu bergerak ke arah HR berbasis jabatan dan menjelaskan hubungan perusahaan dengan karyawan sebagai hubungan kontraktual yang didasarkan pada pekerjaan. Latar belakangnya adalah kebutuhan untuk merancang HR berdasarkan jabatan dan peran, bukan hanya praktik yang berpusat pada individu. Inti dari teks asli adalah bahwa perusahaan memberikan pekerjaan kepada karyawan, dan pekerjaan itu menjadi dasar terbentuknya hubungan. Karena itu, saat menyiapkan HR berbasis jabatan, perusahaan perlu melihat pengelolaan SDM dari pekerjaan itu sendiri. Sumber: mk.co.kr"
       }
     }
   }
