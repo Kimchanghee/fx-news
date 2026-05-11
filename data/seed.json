@@ -1,5 +1,230 @@
 [
   {
+    "id": "20a07ee9fe3e",
+    "slug": "패시브-vs-액티브반도체-커버드콜-etf-전쟁-814415",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T20:10:57.740Z",
+    "updatedAt": "2026-05-11T20:10:57.740Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051190621",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051190621",
+    "titleFingerprint": "cdf39d3ce6f030e70a1d234189b27244d8e316b5",
+    "dedupKeys": [
+      "20a07ee9fe3e0fa2a9b15722c8734c35ac07ee43",
+      "cdf39d3ce6f030e70a1d234189b27244d8e316b5",
+      "718371b9b56a881be84ab1b504b2659eff28c51b"
+    ],
+    "imageUrl": "/images/articles/20a07ee9fe3e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체 커버드콜 ETF 경쟁 격화…삼성 패시브·미래 액티브 맞대결",
+        "excerpt": "삼성자산운용과 미래에셋자산운용이 반도체 커버드콜 ETF 시장에서 각각 패시브형과 액티브형 전략을 내세우며 21조원 커버드콜 ETF 시장 주도권 경쟁에 나섰다.",
+        "body": "국내 상장지수펀드(ETF) 시장을 양분하는 삼성자산운용과 미래에셋자산운용이 반도체 커버드콜 ETF를 놓고 맞붙고 있다. 미래에셋자산운용은 지난달 21일 ‘TIGER 반도체TOP10커버드콜액티브’를 상장했고, 삼성자산운용은 ‘KODEX 반도체 타겟위클리커버드콜’ 출시를 예고했다. 미래에셋 상품은 삼성전자와 SK하이닉스 등 개별 종목 옵션을 활용하는 액티브 전략이 특징이며, 상장 첫날 832억원의 순매수가 몰렸다. 삼성 상품은 기존 흥행작인 ‘KODEX 200 타겟위클리커버드콜’과 유사한 구조의 패시브형으로 알려졌다. 21조원 규모 커버드콜 ETF 시장의 경쟁이 반도체 테마로 확산하면서 투자자는 분배 구조와 옵션 전략을 함께 비교해야 할 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Semiconductor Covered-Call ETF Fight Intensifies as Samsung and Mirae Split Strategies",
+        "excerpt": "Samsung Asset Management and Mirae Asset are competing in semiconductor covered-call ETFs, using passive and active strategies as the 21 trillion won covered-call ETF market expands.",
+        "body": "Samsung Asset Management and Mirae Asset Global Investments, two major players in Korea’s ETF market, are competing over semiconductor covered-call ETFs. Mirae Asset listed the TIGER Semiconductor TOP10 Covered Call Active ETF on April 21, while Samsung Asset Management has previewed the KODEX Semiconductor Target Weekly Covered Call ETF. Mirae’s product uses an active strategy based on individual stock options, including Samsung Electronics and SK hynix, and drew 83.2 billion won in net buying on its first trading day. Samsung’s product is known to follow a passive structure similar to its successful KODEX 200 Target Weekly Covered Call ETF. As competition in the 21 trillion won covered-call ETF market spreads to semiconductors, investors are expected to compare payout structures and option strategies closely. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "半導体カバードコールETF競争が激化、サムスンはパッシブ・未来はアクティブ",
+        "excerpt": "サムスン資産運用と未来アセットが半導体カバードコールETFで、パッシブ型とアクティブ型の戦略を掲げ、21兆ウォン規模市場の主導権を競っている。",
+        "body": "韓国ETF市場を二分するサムスン資産運用と未来アセット資産運用が、半導体カバードコールETFをめぐって競争している。未来アセットは4月21日に「TIGER半導体TOP10カバードコールアクティブ」を上場し、サムスン資産運用は「KODEX半導体ターゲットウィークリーカバードコール」の投入を予告した。未来アセットの商品はサムスン電子やSKハイニックスなど個別銘柄のオプションを活用するアクティブ戦略が特徴で、上場初日に832億ウォンの純買いを集めた。サムスンの商品は、既存の人気商品「KODEX 200ターゲットウィークリーカバードコール」と似たパッシブ型構造とされる。21兆ウォン規模のカバードコールETF市場で競争が半導体テーマに広がる中、投資家は分配構造とオプション戦略を比較する必要がありそうだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "半导体备兑看涨ETF竞争升温，三星被动型对阵未来主动型",
+        "excerpt": "三星资产管理和未来资产在半导体备兑看涨ETF市场分别推出被动型与主动型策略，争夺规模达21万亿韩元的备兑看涨ETF市场主导权。",
+        "body": "韩国ETF市场两大公司三星资产管理和未来资产管理正在半导体备兑看涨ETF领域展开竞争。未来资产已于4月21日上市“TIGER半导体TOP10备兑看涨主动型ETF”，三星资产管理则预告推出“KODEX半导体目标周度备兑看涨ETF”。未来资产产品的特点是采用主动策略，使用三星电子、SK海力士等个股期权，上市首日获得832亿韩元净买入。三星产品则被认为采用与其畅销产品“KODEX 200目标周度备兑看涨ETF”类似的被动型结构。随着21万亿韩元规模的备兑看涨ETF市场竞争扩展至半导体主题，投资者预计需要同时比较分配结构和期权策略。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Batalla de ETF covered call de semiconductores: Samsung pasivo contra Mirae activo",
+        "excerpt": "Samsung Asset Management y Mirae Asset compiten en ETF covered call de semiconductores con estrategias pasivas y activas, dentro de un mercado de 21 billones de wones.",
+        "body": "Samsung Asset Management y Mirae Asset Global Investments, dos grandes firmas del mercado coreano de ETF, compiten en ETF covered call centrados en semiconductores. Mirae Asset lanzó el 21 de abril el TIGER Semiconductor TOP10 Covered Call Active ETF, mientras Samsung Asset Management anticipó el KODEX Semiconductor Target Weekly Covered Call ETF. El producto de Mirae usa una estrategia activa basada en opciones de acciones individuales, incluidas Samsung Electronics y SK hynix, y recibió compras netas por 83.200 millones de wones en su primer día de cotización. El producto de Samsung se conoce como una estructura pasiva similar a su exitoso KODEX 200 Target Weekly Covered Call ETF. A medida que la competencia del mercado de ETF covered call de 21 billones de wones se extiende a semiconductores, los inversores deberán comparar la estructura de distribución y la estrategia de opciones. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Disputa por ETF covered call de semicondutores opõe Samsung passiva e Mirae ativa",
+        "excerpt": "Samsung Asset Management e Mirae Asset disputam ETFs covered call de semicondutores com estratégias passiva e ativa, mirando um mercado de 21 trilhões de won.",
+        "body": "Samsung Asset Management e Mirae Asset Global Investments, duas líderes do mercado coreano de ETFs, estão competindo em ETFs covered call de semicondutores. A Mirae Asset listou em 21 de abril o TIGER Semiconductor TOP10 Covered Call Active ETF, enquanto a Samsung Asset Management anunciou o KODEX Semiconductor Target Weekly Covered Call ETF. O produto da Mirae usa uma estratégia ativa com opções de ações individuais, incluindo Samsung Electronics e SK hynix, e atraiu 83,2 bilhões de won em compras líquidas no primeiro dia de negociação. O produto da Samsung é conhecido por seguir uma estrutura passiva semelhante à do bem-sucedido KODEX 200 Target Weekly Covered Call ETF. Com a disputa do mercado de ETFs covered call de 21 trilhões de won avançando para semicondutores, investidores devem comparar estruturas de distribuição e estratégias de opções. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Halbleiter-Covered-Call-ETFs: Samsung setzt passiv, Mirae aktiv dagegen",
+        "excerpt": "Samsung Asset Management und Mirae Asset konkurrieren bei Halbleiter-Covered-Call-ETFs mit passiven und aktiven Ansätzen im 21 Billionen Won schweren Covered-Call-ETF-Markt.",
+        "body": "Samsung Asset Management und Mirae Asset Global Investments, zwei Schwergewichte des koreanischen ETF-Markts, konkurrieren bei Halbleiter-Covered-Call-ETFs. Mirae Asset brachte am 21. April den TIGER Semiconductor TOP10 Covered Call Active ETF an die Börse, während Samsung Asset Management den KODEX Semiconductor Target Weekly Covered Call ETF angekündigt hat. Das Produkt von Mirae nutzt eine aktive Strategie mit Optionen auf Einzeltitel wie Samsung Electronics und SK hynix und verzeichnete am ersten Handelstag Nettokäufe von 83,2 Milliarden Won. Samsungs Produkt soll eine passive Struktur haben, ähnlich dem erfolgreichen KODEX 200 Target Weekly Covered Call ETF. Da sich der Wettbewerb im 21 Billionen Won schweren Covered-Call-ETF-Markt auf Halbleiter ausweitet, dürften Anleger Ausschüttungsstruktur und Optionsstrategie genauer vergleichen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "ETF covered call semi-conducteurs: Samsung en passif face à Mirae en actif",
+        "excerpt": "Samsung Asset Management et Mirae Asset s’affrontent sur les ETF covered call de semi-conducteurs avec des stratégies passive et active, dans un marché de 21 000 milliards de wons.",
+        "body": "Samsung Asset Management et Mirae Asset Global Investments, deux acteurs majeurs du marché coréen des ETF, se disputent les ETF covered call liés aux semi-conducteurs. Mirae Asset a coté le 21 avril le TIGER Semiconductor TOP10 Covered Call Active ETF, tandis que Samsung Asset Management a annoncé le KODEX Semiconductor Target Weekly Covered Call ETF. Le produit de Mirae repose sur une stratégie active utilisant des options sur actions individuelles, dont Samsung Electronics et SK hynix, et a attiré 83,2 milliards de wons d’achats nets le premier jour. Le produit de Samsung serait construit selon une structure passive proche de son succès KODEX 200 Target Weekly Covered Call ETF. Alors que la concurrence du marché des ETF covered call de 21 000 milliards de wons s’étend aux semi-conducteurs, les investisseurs devront comparer la structure de distribution et la stratégie d’options. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "منافسة صناديق ETF المغطاة لأشباه الموصلات تشتد بين سامسونغ وميراي",
+        "excerpt": "تتنافس سامسونغ لإدارة الأصول وميراي أست على صناديق ETF المغطاة لأشباه الموصلات باستراتيجيتين، سلبية ونشطة، في سوق يبلغ حجمه 21 تريليون وون.",
+        "body": "تتنافس سامسونغ لإدارة الأصول وميراي أست غلوبال إنفستمنتس، وهما من أكبر لاعبي سوق صناديق ETF في كوريا، في صناديق ETF المغطاة المرتبطة بأشباه الموصلات. أدرجت ميراي أست في 21 أبريل صندوق TIGER Semiconductor TOP10 Covered Call Active ETF، بينما أعلنت سامسونغ لإدارة الأصول عن صندوق KODEX Semiconductor Target Weekly Covered Call ETF. يعتمد صندوق ميراي على استراتيجية نشطة تستخدم خيارات على أسهم منفردة، منها سامسونغ إلكترونيكس وSK hynix، وسجل في أول يوم تداول صافي شراء قدره 83.2 مليار وون. أما صندوق سامسونغ فيُعرف بأنه يتبع بنية سلبية مشابهة لصندوقها الناجح KODEX 200 Target Weekly Covered Call ETF. ومع امتداد المنافسة في سوق صناديق ETF المغطاة البالغ 21 تريليون وون إلى أشباه الموصلات، يتوقع أن يقارن المستثمرون بين هيكل التوزيعات واستراتيجية الخيارات. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर कवर्ड कॉल ETF में जंग, सैमसंग पैसिव और मिरे एक्टिव रणनीति पर",
+        "excerpt": "Samsung Asset Management और Mirae Asset सेमीकंडक्टर कवर्ड कॉल ETF में पैसिव और एक्टिव रणनीतियों के साथ 21 ट्रिलियन वॉन के बाजार में बढ़त की होड़ कर रहे हैं।",
+        "body": "कोरिया के ETF बाजार के दो बड़े खिलाड़ी Samsung Asset Management और Mirae Asset Global Investments सेमीकंडक्टर कवर्ड कॉल ETF को लेकर आमने-सामने हैं। Mirae Asset ने 21 अप्रैल को TIGER Semiconductor TOP10 Covered Call Active ETF सूचीबद्ध किया, जबकि Samsung Asset Management ने KODEX Semiconductor Target Weekly Covered Call ETF लाने की घोषणा की है। Mirae का उत्पाद Samsung Electronics और SK hynix जैसे अलग-अलग शेयरों के विकल्पों का उपयोग करने वाली एक्टिव रणनीति पर आधारित है और पहले कारोबारी दिन इसमें 83.2 अरब वॉन की शुद्ध खरीद हुई। Samsung का उत्पाद उसके सफल KODEX 200 Target Weekly Covered Call ETF जैसी पैसिव संरचना वाला माना जा रहा है। 21 ट्रिलियन वॉन के कवर्ड कॉल ETF बाजार की प्रतिस्पर्धा सेमीकंडक्टर थीम तक फैलने के साथ निवेशकों को वितरण ढांचे और विकल्प रणनीति की तुलना करनी होगी। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Persaingan ETF covered call semikonduktor memanas, Samsung pasif lawan Mirae aktif",
+        "excerpt": "Samsung Asset Management dan Mirae Asset bersaing di ETF covered call semikonduktor dengan strategi pasif dan aktif, mengejar pasar covered call ETF senilai 21 triliun won.",
+        "body": "Samsung Asset Management dan Mirae Asset Global Investments, dua pemain besar pasar ETF Korea, bersaing dalam ETF covered call berbasis semikonduktor. Mirae Asset mencatatkan TIGER Semiconductor TOP10 Covered Call Active ETF pada 21 April, sementara Samsung Asset Management mengumumkan KODEX Semiconductor Target Weekly Covered Call ETF. Produk Mirae memakai strategi aktif berbasis opsi saham individual, termasuk Samsung Electronics dan SK hynix, serta mencatat pembelian bersih 83,2 miliar won pada hari pertama perdagangan. Produk Samsung dikenal memakai struktur pasif yang mirip dengan produk suksesnya, KODEX 200 Target Weekly Covered Call ETF. Saat persaingan pasar covered call ETF senilai 21 triliun won meluas ke tema semikonduktor, investor diperkirakan perlu membandingkan struktur distribusi dan strategi opsi. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "5197b89ea1b5",
+    "slug": "금감원-상장사-감리-주기-대폭-단축-640676",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T20:09:39.969Z",
+    "updatedAt": "2026-05-11T20:09:39.969Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051190611",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051190611",
+    "titleFingerprint": "c3a328252a41adab042c264daa0524f0af9f78de",
+    "dedupKeys": [
+      "5197b89ea1b5525ca279be1c5f89bcbe95c82fd8",
+      "c3a328252a41adab042c264daa0524f0af9f78de",
+      "a889f84b881c793c721f63dc39495b70e7fa92e5"
+    ],
+    "imageUrl": "/images/articles/5197b89ea1b5.png",
+    "i18n": {
+      "ko": {
+        "title": "금감원, 상장사 감리 주기 대폭 단축…회계 감독 속도 높인다",
+        "excerpt": "금융감독원이 상장사 감리 주기를 대폭 단축한다. 상장기업 회계 감독의 적시성을 높이기 위한 조치로, 관련 내용은 hankyung.com 보도를 통해 전해졌다.",
+        "body": "금융감독원이 상장사 감리 주기를 대폭 단축한다. 상장기업을 대상으로 한 감리 절차의 시간 간격을 줄여 회계 감독의 적시성을 높이려는 조치다. 원문 요약에는 구체적인 시행 시점, 단축 폭, 적용 대상의 세부 범위는 제시되지 않았다. 이번 내용은 상장사 회계 관리와 감독 체계에 직접 관련된 사안으로, 시장 참여자들은 향후 세부 기준과 실제 운영 방식에 주목할 필요가 있다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "FSS to Sharply Shorten Listed-Company Review Cycle, Raising Oversight Pace",
+        "excerpt": "South Korea’s Financial Supervisory Service will sharply shorten the review cycle for listed companies to improve the timeliness of accounting oversight, according to hankyung.com.",
+        "body": "South Korea’s Financial Supervisory Service will sharply shorten the review cycle for listed companies. The move is aimed at reducing the interval between review procedures for listed firms and improving the timeliness of accounting oversight. The source summary did not provide the exact implementation date, the size of the reduction, or detailed scope of covered companies. The issue is directly tied to accounting management and supervisory systems for listed firms, so market participants will need to watch for detailed standards and operating methods. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "韓国金融監督院、上場企業の監理周期を大幅短縮へ",
+        "excerpt": "韓国金融監督院は上場企業の監理周期を大幅に短縮する。会計監督の適時性を高める措置として、hankyung.comが報じた。",
+        "body": "韓国金融監督院は、上場企業の監理周期を大幅に短縮する。上場企業を対象にした監理手続きの間隔を縮め、会計監督の適時性を高めるための措置だ。原文の要約では、具体的な施行時期、短縮幅、適用対象の詳細範囲は示されていない。今回の内容は上場企業の会計管理と監督体制に直接関わる事案であり、市場関係者は今後の詳細基準と実際の運用方式に注目する必要がある。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "韩国金融监督院将大幅缩短上市公司审查周期",
+        "excerpt": "韩国金融监督院将大幅缩短上市公司审查周期，以提高会计监管的及时性。相关内容由hankyung.com报道。",
+        "body": "韩国金融监督院将大幅缩短上市公司审查周期。此举旨在减少针对上市企业的审查程序间隔，提高会计监管的及时性。原文摘要未说明具体实施时间、缩短幅度以及适用对象的详细范围。该事项与上市公司的会计管理和监管体系直接相关，市场参与者有必要关注后续细则和实际运行方式。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "El FSS acortará con fuerza el ciclo de revisión de empresas cotizadas",
+        "excerpt": "El Servicio de Supervisión Financiera de Corea del Sur acortará de forma significativa el ciclo de revisión de empresas cotizadas para mejorar la oportunidad del control contable, según hankyung.com.",
+        "body": "El Servicio de Supervisión Financiera de Corea del Sur acortará de forma significativa el ciclo de revisión de las empresas cotizadas. La medida busca reducir el intervalo entre los procedimientos de revisión aplicados a compañías listadas y mejorar la oportunidad de la supervisión contable. El resumen original no indica la fecha concreta de aplicación, la magnitud del recorte ni el alcance detallado de las empresas incluidas. El asunto está directamente vinculado con la gestión contable y el sistema de supervisión de las cotizadas, por lo que el mercado deberá seguir los criterios y métodos operativos que se anuncien. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "FSS reduzirá fortemente ciclo de revisão de empresas listadas",
+        "excerpt": "O Serviço de Supervisão Financeira da Coreia do Sul reduzirá de forma significativa o ciclo de revisão de empresas listadas para aumentar a tempestividade da supervisão contábil, segundo hankyung.com.",
+        "body": "O Serviço de Supervisão Financeira da Coreia do Sul reduzirá de forma significativa o ciclo de revisão das empresas listadas. A medida busca diminuir o intervalo entre os procedimentos de revisão aplicados às companhias em bolsa e elevar a tempestividade da supervisão contábil. O resumo original não informa a data específica de implementação, o tamanho da redução nem o escopo detalhado das empresas abrangidas. O tema está diretamente ligado à gestão contábil e ao sistema de supervisão das companhias listadas, por isso participantes do mercado devem acompanhar os critérios e métodos operacionais futuros. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "FSS verkürzt Prüfzyklus für börsennotierte Unternehmen deutlich",
+        "excerpt": "Die südkoreanische Finanzaufsicht FSS wird den Prüfzyklus für börsennotierte Unternehmen deutlich verkürzen, um die Aktualität der Rechnungslegungsaufsicht zu verbessern, berichtet hankyung.com.",
+        "body": "Die südkoreanische Finanzaufsicht FSS wird den Prüfzyklus für börsennotierte Unternehmen deutlich verkürzen. Ziel ist es, die Abstände zwischen Prüfverfahren für gelistete Firmen zu verringern und die Aktualität der Rechnungslegungsaufsicht zu erhöhen. Die ursprüngliche Zusammenfassung nennt weder den konkreten Umsetzungszeitpunkt noch das Ausmaß der Verkürzung oder den genauen Kreis der betroffenen Unternehmen. Das Thema betrifft unmittelbar Rechnungslegung und Aufsichtssysteme börsennotierter Firmen; Marktteilnehmer sollten daher weitere Detailregeln und die praktische Umsetzung beobachten. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Le FSS réduira fortement le cycle de contrôle des sociétés cotées",
+        "excerpt": "Le Service sud-coréen de supervision financière réduira nettement le cycle de contrôle des sociétés cotées afin d’améliorer la rapidité de la surveillance comptable, selon hankyung.com.",
+        "body": "Le Service sud-coréen de supervision financière réduira nettement le cycle de contrôle des sociétés cotées. Cette mesure vise à raccourcir l’intervalle entre les procédures de contrôle appliquées aux entreprises cotées et à améliorer la rapidité de la surveillance comptable. Le résumé original ne précise pas la date d’entrée en vigueur, l’ampleur de la réduction ni le périmètre détaillé des sociétés concernées. Le sujet touche directement la gestion comptable et le dispositif de supervision des sociétés cotées; les acteurs du marché devront donc suivre les critères détaillés et les modalités d’application à venir. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "هيئة الرقابة المالية الكورية تقلص دورة مراجعة الشركات المدرجة بحدة",
+        "excerpt": "تعتزم هيئة الرقابة المالية في كوريا الجنوبية تقليص دورة مراجعة الشركات المدرجة بشكل كبير لتحسين توقيت الرقابة المحاسبية، وفق ما نقلته hankyung.com.",
+        "body": "تعتزم هيئة الرقابة المالية في كوريا الجنوبية تقليص دورة مراجعة الشركات المدرجة بشكل كبير. وتهدف الخطوة إلى تقليل الفاصل الزمني بين إجراءات المراجعة المطبقة على الشركات المدرجة ورفع توقيت الرقابة المحاسبية. ولم يوضح ملخص النص الأصلي موعد التنفيذ المحدد أو حجم التقليص أو النطاق التفصيلي للشركات المشمولة. ويرتبط هذا الموضوع مباشرة بإدارة الحسابات ونظام الرقابة على الشركات المدرجة، لذلك يحتاج المشاركون في السوق إلى متابعة المعايير التفصيلية وطريقة التشغيل الفعلية لاحقا. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "FSS सूचीबद्ध कंपनियों की समीक्षा अवधि में बड़ी कटौती करेगा",
+        "excerpt": "दक्षिण कोरिया की वित्तीय पर्यवेक्षण सेवा सूचीबद्ध कंपनियों की समीक्षा अवधि में बड़ी कटौती करेगी, ताकि लेखा निगरानी की समयबद्धता बेहतर हो सके, hankyung.com के अनुसार।",
+        "body": "दक्षिण कोरिया की वित्तीय पर्यवेक्षण सेवा सूचीबद्ध कंपनियों की समीक्षा अवधि में बड़ी कटौती करेगी। इस कदम का उद्देश्य सूचीबद्ध कंपनियों के लिए समीक्षा प्रक्रियाओं के बीच अंतराल घटाना और लेखा निगरानी की समयबद्धता बढ़ाना है। मूल सारांश में लागू होने की सटीक तारीख, कटौती की मात्रा या लागू कंपनियों के विस्तृत दायरे की जानकारी नहीं दी गई है। यह विषय सूचीबद्ध कंपनियों के लेखा प्रबंधन और निगरानी व्यवस्था से सीधे जुड़ा है, इसलिए बाजार प्रतिभागियों को आगे आने वाले विस्तृत मानकों और वास्तविक संचालन पद्धति पर नजर रखनी होगी। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "FSS Pangkas Tajam Siklus Pemeriksaan Perusahaan Tercatat",
+        "excerpt": "Financial Supervisory Service Korea Selatan akan memangkas tajam siklus pemeriksaan perusahaan tercatat untuk meningkatkan ketepatan waktu pengawasan akuntansi, menurut hankyung.com.",
+        "body": "Financial Supervisory Service Korea Selatan akan memangkas tajam siklus pemeriksaan perusahaan tercatat. Langkah ini bertujuan mengurangi jeda antarprosedur pemeriksaan terhadap emiten dan meningkatkan ketepatan waktu pengawasan akuntansi. Ringkasan asli tidak menyebutkan waktu penerapan yang spesifik, besar pemangkasan, maupun cakupan rinci perusahaan yang terdampak. Isu ini berkaitan langsung dengan pengelolaan akuntansi dan sistem pengawasan perusahaan tercatat, sehingga pelaku pasar perlu mencermati standar rinci dan cara operasional yang akan diumumkan berikutnya. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "493c005bb1e7",
+    "slug": "불장에-날아오른-증권株미래에셋-日노무라-추월-106697",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T20:08:48.149Z",
+    "updatedAt": "2026-05-11T20:08:48.149Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051191281",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051191281",
+    "titleFingerprint": "d42ad025862a63591c58c5a7c3b27f3dffc48b0e",
+    "dedupKeys": [
+      "493c005bb1e799af114e6c9463b6a2eb2aa51f65",
+      "d42ad025862a63591c58c5a7c3b27f3dffc48b0e",
+      "30a2bc9fd7668917262e9f43d97c7db03368b946"
+    ],
+    "imageUrl": "/images/articles/493c005bb1e7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "증권주 불장에 미래에셋 급부상, 일본 노무라 추월 소식 주목",
+        "excerpt": "증권주가 강세를 보이는 불장 속에서 미래에셋이 일본 노무라를 추월했다는 소식이 전해지며 국내 금융투자업계의 위상 변화에 관심이 쏠리고 있다.",
+        "body": "증권주가 불장 흐름을 타고 강세를 보이는 가운데 미래에셋이 일본 노무라를 추월했다는 소식이 전해졌다. 한국경제(hankyung.com)에 따르면 이번 움직임은 상승장 속 증권업종에 대한 투자심리가 개선되는 과정에서 부각됐다. 원문 제목은 미래에셋의 약진과 일본 대표 증권사 노무라와의 비교를 핵심으로 제시했다. 다만 제공된 원문 정보에는 추월 기준, 구체적 수치, 시점 등 세부 내용은 포함되지 않았다. 이번 보도는 국내 증권사의 상대적 위상 변화와 증권주 강세 흐름을 함께 보여주는 사례로 해석된다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Securities Rally Lifts Mirae Asset as It Overtakes Japan’s Nomura",
+        "excerpt": "Mirae Asset has reportedly overtaken Japan’s Nomura amid a strong rally in securities stocks, drawing attention to shifting standing in the financial investment sector.",
+        "body": "Mirae Asset has reportedly overtaken Japan’s Nomura as securities stocks gained strength in a bull-market environment. According to Hankyung.com, the development stood out as investor sentiment toward brokerage and securities shares improved during the market upswing. The original headline highlighted Mirae Asset’s rise and its comparison with Nomura, one of Japan’s major securities firms. The provided source information did not include the exact basis of the overtaking, detailed figures, or a specific timing. The report points to both the strength of securities stocks and a possible change in the relative standing of a Korean financial firm. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "証券株上昇で未来アセットが浮上、日本の野村を追い抜く",
+        "excerpt": "証券株が強い相場の流れに乗るなか、未来アセットが日本の野村を追い抜いたとの報道があり、金融投資業界の地位変化に関心が集まっている。",
+        "body": "証券株が強気相場の流れを受けて上昇するなか、未来アセットが日本の野村を追い抜いたとのニュースが伝えられた。Hankyung.comによると、この動きは上昇相場の中で証券業種に対する投資心理が改善する過程で注目された。原文の見出しは、未来アセットの躍進と日本を代表する証券会社である野村との比較を中心に示している。ただし、提供された原文情報には、追い抜いた基準、具体的な数値、時点などの詳細は含まれていない。今回の報道は、韓国証券会社の相対的な地位変化と証券株の強さを同時に示す事例といえる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "证券股牛市走强，未来资产崛起并超过日本野村",
+        "excerpt": "在证券股随牛市走强之际，未来资产被报道已超过日本野村，引发市场对韩国金融投资行业地位变化的关注。",
+        "body": "在证券股受牛市推动而走强的背景下，未来资产超过日本野村的消息受到关注。据Hankyung.com报道，这一动向是在上涨行情中，市场对证券行业投资情绪改善的过程中显现出来的。原文标题将未来资产的跃升，以及其与日本代表性证券公司野村的比较作为核心信息。不过，所提供的原文信息未包含超过的具体标准、详细数据或确切时间。本次报道显示出韩国证券公司的相对地位变化，也反映了证券股在当前市场中的强势表现。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El rally de valores impulsa a Mirae Asset y supera a Nomura de Japón",
+        "excerpt": "Mirae Asset habría superado a Nomura de Japón en medio de una fuerte subida de las acciones de valores, atrayendo atención sobre cambios en el sector financiero.",
+        "body": "Mirae Asset habría superado a Nomura de Japón mientras las acciones del sector de valores avanzan con fuerza en un mercado alcista. Según Hankyung.com, este movimiento destacó en un contexto de mejora del ánimo inversor hacia las compañías de corretaje y valores durante la subida del mercado. El titular original subraya el avance de Mirae Asset y la comparación con Nomura, una de las firmas de valores representativas de Japón. La información proporcionada no incluye el criterio exacto del adelantamiento, cifras detalladas ni una fecha concreta. El reporte muestra tanto la fortaleza de las acciones de valores como un cambio relativo en la posición de una firma financiera surcoreana. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Alta das corretoras impulsiona Mirae Asset, que supera Nomura do Japão",
+        "excerpt": "A Mirae Asset teria superado a japonesa Nomura em meio à forte alta das ações de corretoras, chamando atenção para mudanças no setor de investimento financeiro.",
+        "body": "A Mirae Asset teria superado a Nomura do Japão enquanto as ações do setor de corretoras e valores ganham força em um mercado de alta. Segundo o Hankyung.com, o movimento chamou atenção no processo de melhora do sentimento dos investidores em relação ao setor de valores durante a valorização do mercado. O título original destaca a ascensão da Mirae Asset e a comparação com a Nomura, uma das principais corretoras japonesas. As informações fornecidas não incluem o critério exato da superação, números detalhados nem um momento específico. A notícia aponta tanto para a força das ações do setor quanto para uma mudança relativa na posição de uma empresa financeira sul-coreana. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Securities-Rally treibt Mirae Asset vor Nomura aus Japan",
+        "excerpt": "Mirae Asset soll Japans Nomura im Zuge starker Kursgewinne bei Securities-Aktien überholt haben und lenkt den Blick auf Verschiebungen im Finanzsektor.",
+        "body": "Mirae Asset soll Japans Nomura überholt haben, während Securities- und Brokeraktien in einem Bullenmarkt deutlich zulegten. Laut Hankyung.com fiel diese Entwicklung auf, als sich die Anlegerstimmung gegenüber dem Wertpapiersektor im Zuge der Markterholung verbesserte. Die ursprüngliche Überschrift stellt den Aufstieg von Mirae Asset und den Vergleich mit Nomura, einem repräsentativen japanischen Wertpapierhaus, in den Mittelpunkt. Die bereitgestellten Angaben enthalten jedoch keine genaue Grundlage des Überholens, keine konkreten Zahlen und keinen exakten Zeitpunkt. Der Bericht verweist damit auf die Stärke von Securities-Aktien und auf eine mögliche Veränderung der relativen Position eines südkoreanischen Finanzunternehmens. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le rally des valeurs financières porte Mirae Asset devant Nomura",
+        "excerpt": "Mirae Asset aurait dépassé le japonais Nomura dans un contexte de forte hausse des valeurs de courtage, attirant l’attention sur l’évolution du secteur financier.",
+        "body": "Mirae Asset aurait dépassé le japonais Nomura alors que les valeurs liées aux titres et au courtage progressent fortement dans un marché haussier. Selon Hankyung.com, ce mouvement s’est distingué au moment où le sentiment des investisseurs envers le secteur des valeurs mobilières s’améliorait avec la hausse du marché. Le titre original met l’accent sur l’essor de Mirae Asset et sur la comparaison avec Nomura, l’une des maisons de titres représentatives du Japon. Les informations fournies ne précisent pas le critère exact du dépassement, les chiffres détaillés ni le moment précis. Le reportage illustre à la fois la vigueur des valeurs du secteur et un changement relatif de position pour une société financière sud-coréenne. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صعود أسهم الوساطة يدفع ميراي أسيت لتجاوز نومورا اليابانية",
+        "excerpt": "تجاوزت ميراي أسيت على ما يبدو شركة نومورا اليابانية وسط موجة صعود قوية في أسهم شركات الأوراق المالية، ما لفت الانتباه إلى تغيرات في مكانة القطاع المالي.",
+        "body": "تردد أن ميراي أسيت تجاوزت شركة نومورا اليابانية في وقت استفادت فيه أسهم شركات الأوراق المالية من أجواء سوق صاعدة. ووفقاً لموقع Hankyung.com، برز هذا التطور مع تحسن شهية المستثمرين تجاه قطاع الوساطة والأوراق المالية خلال موجة الارتفاع. وركز العنوان الأصلي على صعود ميراي أسيت ومقارنتها بنومورا، وهي من أبرز شركات الأوراق المالية في اليابان. لكن المعلومات المتاحة من النص الأصلي لا تتضمن معيار التجاوز بدقة، ولا أرقاماً تفصيلية، ولا توقيتاً محدداً. ويشير التقرير إلى قوة أسهم القطاع وإلى تغير محتمل في المكانة النسبية لشركة مالية كورية جنوبية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सिक्योरिटीज शेयरों की तेजी से Mirae Asset ने जापान की Nomura को पछाड़ा",
+        "excerpt": "सिक्योरिटीज शेयरों में मजबूत तेजी के बीच Mirae Asset के जापान की Nomura से आगे निकलने की खबर आई है, जिससे वित्तीय निवेश क्षेत्र की स्थिति में बदलाव पर ध्यान गया है।",
+        "body": "सिक्योरिटीज शेयरों में बुल मार्केट की मजबूती के बीच Mirae Asset के जापान की Nomura को पीछे छोड़ने की खबर सामने आई। Hankyung.com के अनुसार, बाजार की तेजी के दौरान ब्रोकरेज और सिक्योरिटीज क्षेत्र के प्रति निवेशकों की धारणा बेहतर होने के बीच यह घटनाक्रम उभरा। मूल शीर्षक में Mirae Asset की तेज बढ़त और जापान की प्रमुख सिक्योरिटीज कंपनी Nomura के साथ तुलना को मुख्य बिंदु बनाया गया है। उपलब्ध मूल जानकारी में आगे निकलने का सटीक आधार, विस्तृत आंकड़े या निश्चित समय शामिल नहीं हैं। यह रिपोर्ट सिक्योरिटीज शेयरों की मजबूती और एक दक्षिण कोरियाई वित्तीय कंपनी की सापेक्ष स्थिति में बदलाव को दिखाती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Reli Saham Sekuritas Dorong Mirae Asset Lewati Nomura Jepang",
+        "excerpt": "Mirae Asset dilaporkan melampaui Nomura Jepang di tengah reli kuat saham sekuritas, menarik perhatian pada perubahan posisi di industri investasi keuangan.",
+        "body": "Mirae Asset dilaporkan melampaui Nomura Jepang ketika saham-saham sekuritas menguat dalam suasana pasar bullish. Menurut Hankyung.com, perkembangan ini menonjol saat sentimen investor terhadap sektor broker dan sekuritas membaik seiring kenaikan pasar. Judul asli menekankan lonjakan Mirae Asset dan perbandingannya dengan Nomura, salah satu perusahaan sekuritas utama Jepang. Informasi sumber yang diberikan tidak memuat dasar pasti dari pelampauan tersebut, angka rinci, ataupun waktu spesifik. Laporan ini menunjukkan kekuatan saham sekuritas sekaligus perubahan posisi relatif sebuah perusahaan keuangan Korea Selatan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "8dd0bc665a11",
     "slug": "내년-영업익-1000조-시대반도체가-바꾼-코스피-체급-175866",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Ketegangan Timur Tengah dan KTT AS-China Sorot KOSPI di Level 7.500",
         "excerpt": "Hankyung melaporkan bahwa pasar mencermati apakah KOSPI dapat bertahan di level 7.500 saat ketegangan Timur Tengah dan KTT AS-China menjadi faktor eksternal utama.",
         "body": "Hankyung melaporkan bahwa ketidakstabilan di Timur Tengah dan KTT Amerika Serikat-China muncul bersamaan sebagai variabel utama pasar, sehingga perhatian tertuju pada apakah KOSPI dapat bertahan di sekitar level 7.500. Teks asli menyoroti ketidakpastian eksternal dan pertemuan para pemimpin AS dan China sebagai faktor yang dapat memengaruhi sentimen investor serta arah pasar saham Korea Selatan. Angka utama yang disebut adalah level KOSPI 7.500. Ke depan, pasar akan memantau perkembangan di Timur Tengah dan berita terkait KTT AS-China untuk menilai apakah indeks mampu menjaga level tersebut. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "08a14f061035",
-    "slug": "한투증권-고물가-우려-잠시-내려놓고-반도체-계속-붙잡아야-489022",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T23:38:10.426Z",
-    "updatedAt": "2026-05-10T23:38:10.426Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511018700008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511018700008",
-    "titleFingerprint": "1ab7d9d6d1c2ddf1529094b4edeb726f8607bba2",
-    "dedupKeys": [
-      "08a14f06103581a07a9100bd2db5b8411dcd4019",
-      "1ab7d9d6d1c2ddf1529094b4edeb726f8607bba2",
-      "03e057675dc435ba0c3c54c2f3a482a2a8ed8302"
-    ],
-    "imageUrl": "/images/articles/08a14f061035.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 투자 유지 강조한 한투증권, 고물가 우려보다 AI 수혜 주목",
-        "excerpt": "한국투자증권은 11일 고물가 우려를 잠시 내려놓고 AI 혁신의 수혜 대상으로 꼽히는 반도체를 계속 붙잡아야 한다고 밝혔다.",
-        "body": "한국투자증권은 11일 고물가 우려에 과도하게 매달리기보다 인공지능(AI) 혁신의 수혜가 예상되는 반도체에 대한 관심을 이어가야 한다고 밝혔다. 회사는 고물가 부담이 시장의 주요 변수로 남아 있지만, AI 확산 과정에서 반도체가 핵심 수혜 대상으로 평가된다는 점에 주목했다. 이에 따라 투자자들은 물가 관련 불확실성을 잠시 내려놓고 반도체 업종의 흐름을 계속 살펴볼 필요가 있다는 설명이다. 이번 의견은 반도체가 AI 혁신과 맞물려 시장에서 중요한 투자 테마로 남아 있음을 보여준다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Korea Investment Says Stay With Semiconductors Despite Inflation Worries",
-        "excerpt": "Korea Investment & Securities said on the 11th that investors should set aside inflation concerns for now and keep holding semiconductors, a key beneficiary of AI innovation.",
-        "body": "Korea Investment & Securities said on the 11th that investors should avoid focusing too heavily on high inflation concerns and maintain interest in semiconductors, which it described as beneficiaries of artificial intelligence innovation. The firm noted that inflation remains an important market variable, but emphasized that semiconductors are being viewed as a core beneficiary as AI spreads. It said investors may need to put inflation-related uncertainty aside for the moment and continue watching the semiconductor sector’s trend. The view shows that semiconductors remain an important investment theme tied to AI innovation. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "韓国投資証券、物価高懸念より半導体投資の継続に注目",
-        "excerpt": "韓国投資証券は11日、物価高への懸念をいったん脇に置き、AI革新の恩恵を受ける半導体を引き続き重視すべきだと述べた。",
-        "body": "韓国投資証券は11日、物価高への懸念に過度にとらわれるより、人工知能（AI）革新の恩恵が見込まれる半導体への関心を維持すべきだと明らかにした。同社は、物価高の負担が市場の主要な変数として残っている一方で、AIの普及過程で半導体が中核的な受益対象と評価されている点に注目した。投資家は物価を巡る不確実性をいったん脇に置き、半導体業種の流れを引き続き見守る必要があるとの説明だ。今回の見方は、半導体がAI革新と結びつき、市場で重要な投資テーマとして残っていることを示している。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国投资证券称应继续关注半导体，暂放高通胀担忧",
-        "excerpt": "韩国投资证券11日表示，应暂时放下高通胀担忧，继续把握作为AI创新受益对象的半导体板块。",
-        "body": "韩国投资证券11日表示，与其过度关注高通胀担忧，不如继续关注有望受益于人工智能（AI）创新的半导体。该公司指出，高通胀负担仍是市场的重要变量，但在AI扩散过程中，半导体被视为核心受益对象，这一点值得关注。因此，投资者有必要暂时搁置与物价相关的不确定性，继续观察半导体行业走势。此番观点显示，半导体与AI创新相互关联，仍是市场上的重要投资主题。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Korea Investment aconseja mantener semiconductores pese a la inflación",
-        "excerpt": "Korea Investment & Securities dijo el día 11 que los inversores deberían dejar de lado por ahora la preocupación por la inflación y seguir atentos a los semiconductores, beneficiarios de la innovación en IA.",
-        "body": "Korea Investment & Securities dijo el día 11 que los inversores deberían evitar centrarse en exceso en la preocupación por la alta inflación y mantener el interés en los semiconductores, considerados beneficiarios de la innovación en inteligencia artificial (IA). La firma señaló que la presión inflacionaria sigue siendo una variable importante para el mercado, pero destacó que los semiconductores son vistos como un beneficiario clave en el proceso de expansión de la IA. Según explicó, los inversores podrían necesitar dejar temporalmente de lado la incertidumbre ligada a los precios y seguir observando la tendencia del sector. La opinión muestra que los semiconductores siguen siendo un tema de inversión importante vinculado a la innovación en IA. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Korea Investment recomenda manter semicondutores apesar da inflação",
-        "excerpt": "A Korea Investment & Securities afirmou no dia 11 que investidores devem deixar de lado, por ora, as preocupações com a inflação e continuar atentos aos semicondutores, beneficiários da inovação em IA.",
-        "body": "A Korea Investment & Securities afirmou no dia 11 que os investidores devem evitar foco excessivo nas preocupações com a inflação elevada e manter o interesse nos semicondutores, apontados como beneficiários da inovação em inteligência artificial (IA). A empresa observou que a pressão inflacionária continua sendo uma variável importante para o mercado, mas destacou que os semicondutores são vistos como beneficiários centrais no avanço da IA. Assim, os investidores podem precisar deixar temporariamente de lado a incerteza ligada aos preços e seguir acompanhando a tendência do setor. A avaliação mostra que os semicondutores permanecem como tema relevante de investimento ligado à inovação em IA. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Korea Investment rät trotz Inflationssorgen weiter zu Halbleitern",
-        "excerpt": "Korea Investment & Securities erklärte am 11., Anleger sollten Inflationssorgen vorerst zurückstellen und Halbleiter weiter im Blick behalten, da sie von KI-Innovationen profitieren.",
-        "body": "Korea Investment & Securities erklärte am 11., Anleger sollten sich nicht zu stark auf die Sorge über hohe Inflation konzentrieren, sondern das Interesse an Halbleitern aufrechterhalten, die als Profiteure der Innovation bei künstlicher Intelligenz (KI) gelten. Das Unternehmen wies darauf hin, dass Inflationsdruck weiterhin eine wichtige Marktvariable bleibt, betonte jedoch, dass Halbleiter im Zuge der Verbreitung von KI als zentrale Nutznießer bewertet werden. Anleger müssten die preisbezogene Unsicherheit daher vorerst zurückstellen und den Trend im Halbleitersektor weiter beobachten. Die Einschätzung zeigt, dass Halbleiter in Verbindung mit KI-Innovation ein wichtiges Investmentthema bleiben. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Korea Investment conseille de garder les semi-conducteurs malgré l’inflation",
-        "excerpt": "Korea Investment & Securities a déclaré le 11 que les investisseurs devraient mettre de côté les craintes liées à l’inflation et rester positionnés sur les semi-conducteurs, bénéficiaires de l’innovation en IA.",
-        "body": "Korea Investment & Securities a déclaré le 11 que les investisseurs devraient éviter de se concentrer excessivement sur les inquiétudes liées à la forte inflation et maintenir leur intérêt pour les semi-conducteurs, considérés comme bénéficiaires de l’innovation en intelligence artificielle (IA). La société a indiqué que la pression inflationniste reste une variable importante pour le marché, mais a souligné que les semi-conducteurs sont vus comme un bénéficiaire central de la diffusion de l’IA. Les investisseurs pourraient donc devoir mettre temporairement de côté l’incertitude liée aux prix et continuer à suivre la tendance du secteur. Cette opinion montre que les semi-conducteurs restent un thème d’investissement important lié à l’innovation en IA. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كوريا إنفستمنت تدعو للتمسك بأشباه الموصلات رغم مخاوف التضخم",
-        "excerpt": "قالت كوريا إنفستمنت آند سيكيوريتيز في اليوم الحادي عشر إن على المستثمرين تنحية مخاوف التضخم مؤقتا ومواصلة التمسك بأشباه الموصلات المستفيدة من ابتكار الذكاء الاصطناعي.",
-        "body": "قالت كوريا إنفستمنت آند سيكيوريتيز في اليوم الحادي عشر إن المستثمرين ينبغي ألا يركزوا بشكل مفرط على مخاوف التضخم المرتفع، بل عليهم مواصلة الاهتمام بأشباه الموصلات التي تعد من المستفيدين من ابتكار الذكاء الاصطناعي. وأوضحت الشركة أن ضغوط الأسعار لا تزال متغيرا رئيسيا في السوق، لكنها شددت على أن أشباه الموصلات تُقيّم كأحد المستفيدين الأساسيين مع انتشار الذكاء الاصطناعي. لذلك قد يحتاج المستثمرون إلى وضع عدم اليقين المرتبط بالأسعار جانبا مؤقتا ومتابعة اتجاه قطاع أشباه الموصلات. ويظهر هذا الرأي أن أشباه الموصلات تبقى موضوعا استثماريا مهما مرتبطا بابتكار الذكاء الاصطناعي. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Korea Investment ने महंगाई चिंता के बीच सेमीकंडक्टर पर टिके रहने को कहा",
-        "excerpt": "Korea Investment & Securities ने 11 तारीख को कहा कि निवेशकों को फिलहाल महंगाई की चिंता अलग रखकर AI नवाचार से लाभान्वित माने जा रहे सेमीकंडक्टर पर ध्यान बनाए रखना चाहिए।",
-        "body": "Korea Investment & Securities ने 11 तारीख को कहा कि निवेशकों को ऊंची महंगाई की चिंता पर जरूरत से अधिक केंद्रित होने के बजाय कृत्रिम बुद्धिमत्ता (AI) नवाचार से लाभान्वित होने वाले सेमीकंडक्टर में रुचि बनाए रखनी चाहिए। कंपनी ने कहा कि महंगाई का दबाव बाजार का एक प्रमुख कारक बना हुआ है, लेकिन AI के प्रसार की प्रक्रिया में सेमीकंडक्टर को मुख्य लाभार्थी के रूप में देखा जा रहा है। इसलिए निवेशकों को कीमतों से जुड़ी अनिश्चितता को फिलहाल अलग रखकर सेमीकंडक्टर क्षेत्र की प्रवृत्ति पर नजर बनाए रखने की जरूरत हो सकती है। यह राय दिखाती है कि सेमीकंडक्टर AI नवाचार से जुड़ा एक महत्वपूर्ण निवेश विषय बना हुआ है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Korea Investment Sarankan Tetap Pegang Semikonduktor di Tengah Inflasi",
-        "excerpt": "Korea Investment & Securities pada tanggal 11 menyatakan investor sebaiknya sementara mengesampingkan kekhawatiran inflasi dan tetap memegang semikonduktor sebagai penerima manfaat inovasi AI.",
-        "body": "Korea Investment & Securities pada tanggal 11 menyatakan bahwa investor sebaiknya tidak terlalu terpaku pada kekhawatiran inflasi tinggi, melainkan tetap mempertahankan perhatian pada semikonduktor yang dinilai mendapat manfaat dari inovasi kecerdasan buatan (AI). Perusahaan itu mencatat bahwa beban inflasi masih menjadi variabel utama pasar, tetapi menekankan bahwa semikonduktor dipandang sebagai penerima manfaat inti dalam proses penyebaran AI. Karena itu, investor perlu sementara mengesampingkan ketidakpastian terkait harga dan terus mencermati arah sektor semikonduktor. Pandangan ini menunjukkan bahwa semikonduktor tetap menjadi tema investasi penting yang terkait dengan inovasi AI. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2b633ed01968",
-    "slug": "nh투자-yg엔터-1분기-실적-컨센서스-부합하반기-모멘텀-주목-448855",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T23:37:17.409Z",
-    "updatedAt": "2026-05-10T23:37:17.409Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511019300008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511019300008",
-    "titleFingerprint": "6e5a3ab80ccd5aca7b696d975a8dc483db1530dd",
-    "dedupKeys": [
-      "2b633ed01968da72f41c24a7926219aec11272e2",
-      "6e5a3ab80ccd5aca7b696d975a8dc483db1530dd",
-      "e8bd7540c941b8117aa084e9766dca0d16b4bb94"
-    ],
-    "imageUrl": "/images/articles/2b633ed01968.jpg",
-    "i18n": {
-      "ko": {
-        "title": "YG엔터 1분기 실적 컨센서스 부합, NH투자 “하반기 모멘텀 주목”",
-        "excerpt": "NH투자증권은 11일 와이지엔터테인먼트의 1분기 실적이 시장 컨센서스에 부합했다며, 향후 투자 판단에서는 하반기 모멘텀에 주목할 필요가 있다고 밝혔다.",
-        "body": "NH투자증권[005940]은 11일 와이지엔터테인먼트[122870]에 대해 1분기 실적이 컨센서스, 즉 시장 평균 전망치에 부합했다고 평가했다. 이번 평가는 와이지엔터테인먼트의 분기 실적이 시장 기대에서 크게 벗어나지 않았다는 점에 초점을 맞춘 것이다. NH투자증권은 단기 실적보다 하반기 모멘텀에 주목할 필요가 있다고 봤다. 이에 따라 시장에서는 와이지엔터테인먼트의 향후 흐름과 하반기 실적 및 사업 전개가 투자 판단의 주요 변수로 거론될 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "YG Entertainment Q1 Results Meet Consensus, NH Investment Flags H2 Momentum",
-        "excerpt": "NH Investment & Securities said on the 11th that YG Entertainment’s first-quarter results met market consensus, adding that investors should watch second-half momentum.",
-        "body": "NH Investment & Securities [005940] said on the 11th that YG Entertainment [122870] posted first-quarter results in line with consensus, referring to the market’s average forecast. The assessment focused on the fact that YG Entertainment’s quarterly performance did not materially deviate from market expectations. NH Investment & Securities said attention should be paid to momentum in the second half rather than only near-term earnings. As a result, YG Entertainment’s future trend, second-half performance and business developments may be cited as key factors for investment judgment. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "YGエンタメ1四半期業績は市場予想に一致、NH投資「下期モメンタム注目」",
-        "excerpt": "NH投資証券は11日、YGエンターテインメントの第1四半期業績が市場コンセンサスに合致したとし、今後は下半期のモメンタムに注目すべきだと述べた。",
-        "body": "NH投資証券[005940]は11日、YGエンターテインメント[122870]について、第1四半期業績がコンセンサス、すなわち市場平均予想に合致したと評価した。今回の評価は、YGエンターテインメントの四半期業績が市場の期待から大きく外れなかった点に焦点を当てたものだ。NH投資証券は、短期業績だけでなく下半期のモメンタムに注目する必要があるとみている。これにより、市場ではYGエンターテインメントの今後の流れ、下半期業績、事業展開が投資判断の主要な変数として取り上げられる可能性がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "YG娱乐一季度业绩符合共识，NH投资称关注下半年动能",
-        "excerpt": "NH投资证券11日表示，YG娱乐第一季度业绩符合市场共识，今后在投资判断中有必要关注下半年的动能。",
-        "body": "NH投资证券[005940]11日就YG娱乐[122870]表示，其第一季度业绩符合共识，即市场平均预期。此次评价的重点在于，YG娱乐的季度业绩并未明显偏离市场期待。NH投资证券认为，相比只看短期业绩，更有必要关注下半年的动能。因此，市场在判断YG娱乐投资价值时，可能会把其后续走势、下半年业绩以及业务推进情况视为主要变量。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "YG Entertainment cumple consenso en el primer trimestre, NH destaca impulso del segundo semestre",
-        "excerpt": "NH Investment & Securities dijo el día 11 que los resultados del primer trimestre de YG Entertainment estuvieron en línea con el consenso del mercado y pidió observar el impulso del segundo semestre.",
-        "body": "NH Investment & Securities [005940] afirmó el día 11 que YG Entertainment [122870] registró resultados del primer trimestre acordes con el consenso, es decir, con la previsión promedio del mercado. La evaluación se centró en que el desempeño trimestral de YG Entertainment no se apartó de forma significativa de las expectativas del mercado. NH Investment & Securities señaló que conviene prestar atención al impulso del segundo semestre, más allá de los resultados de corto plazo. Por ello, la evolución futura de YG Entertainment, sus resultados del segundo semestre y el desarrollo de sus negocios pueden ser variables clave para las decisiones de inversión. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "YG Entertainment alinha resultados do 1º trimestre ao consenso, NH vê impulso no 2º semestre",
-        "excerpt": "A NH Investment & Securities disse no dia 11 que os resultados do primeiro trimestre da YG Entertainment ficaram em linha com o consenso de mercado e que o impulso do segundo semestre merece atenção.",
-        "body": "A NH Investment & Securities [005940] afirmou no dia 11 que a YG Entertainment [122870] apresentou resultados do primeiro trimestre em linha com o consenso, isto é, com a média das projeções do mercado. A avaliação destacou que o desempenho trimestral da YG Entertainment não se afastou de forma relevante das expectativas do mercado. A NH Investment & Securities disse que é necessário observar o impulso do segundo semestre, além dos resultados de curto prazo. Assim, a trajetória futura da YG Entertainment, seus resultados no segundo semestre e a evolução dos negócios podem ser citados como fatores centrais para decisões de investimento. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "YG Entertainment trifft im ersten Quartal Konsens, NH Investment sieht Dynamik im zweiten Halbjahr",
-        "excerpt": "NH Investment & Securities erklärte am 11., dass die Ergebnisse von YG Entertainment im ersten Quartal den Marktkonsens erfüllten und der Fokus nun auf der Dynamik im zweiten Halbjahr liege.",
-        "body": "NH Investment & Securities [005940] erklärte am 11., dass YG Entertainment [122870] im ersten Quartal Ergebnisse erzielt habe, die dem Konsens, also der durchschnittlichen Markterwartung, entsprachen. Die Einschätzung konzentrierte sich darauf, dass die Quartalsleistung von YG Entertainment nicht wesentlich von den Erwartungen des Marktes abwich. NH Investment & Securities betonte, dass neben den kurzfristigen Ergebnissen die Dynamik im zweiten Halbjahr beachtet werden müsse. Damit könnten die weitere Entwicklung von YG Entertainment, die Ergebnisse im zweiten Halbjahr und die geschäftliche Umsetzung zu wichtigen Faktoren für Anlageentscheidungen werden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "YG Entertainment conforme au consensus au 1er trimestre, NH surveille l’élan du second semestre",
-        "excerpt": "NH Investment & Securities a indiqué le 11 que les résultats du premier trimestre de YG Entertainment étaient conformes au consensus du marché et que l’élan du second semestre devait être suivi.",
-        "body": "NH Investment & Securities [005940] a déclaré le 11 que YG Entertainment [122870] avait publié des résultats du premier trimestre conformes au consensus, c’est-à-dire à la prévision moyenne du marché. Cette évaluation souligne que la performance trimestrielle de YG Entertainment ne s’est pas nettement écartée des attentes du marché. NH Investment & Securities estime qu’il faut prêter attention à l’élan du second semestre, au-delà des seuls résultats de court terme. Ainsi, l’évolution future de YG Entertainment, ses résultats du second semestre et le développement de ses activités pourraient devenir des variables importantes pour les décisions d’investissement. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "نتائج YG Entertainment للربع الأول توافق التوقعات، وNH تركز على زخم النصف الثاني",
-        "excerpt": "قالت NH Investment & Securities في اليوم 11 إن نتائج YG Entertainment للربع الأول جاءت متوافقة مع إجماع السوق، مع ضرورة متابعة زخم النصف الثاني.",
-        "body": "قالت NH Investment & Securities [005940] في اليوم 11 إن YG Entertainment [122870] سجلت نتائج للربع الأول متوافقة مع الإجماع، أي متوسط توقعات السوق. وتركز التقييم على أن الأداء الفصلي للشركة لم يبتعد بشكل كبير عن توقعات السوق. وترى NH Investment & Securities أن الانتباه يجب أن يتجه إلى زخم النصف الثاني، إلى جانب النتائج قصيرة الأجل. وبناء على ذلك، قد تصبح حركة YG Entertainment المقبلة ونتائج النصف الثاني وتطور الأعمال عوامل رئيسية في أحكام الاستثمار. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "YG Entertainment की पहली तिमाही सहमति के अनुरूप, NH ने दूसरी छमाही की गति पर ध्यान दिया",
-        "excerpt": "NH Investment & Securities ने 11 तारीख को कहा कि YG Entertainment की पहली तिमाही के नतीजे बाजार सहमति के अनुरूप रहे और आगे दूसरी छमाही की गति पर नजर जरूरी है।",
-        "body": "NH Investment & Securities [005940] ने 11 तारीख को YG Entertainment [122870] के बारे में कहा कि पहली तिमाही के नतीजे सहमति, यानी बाजार के औसत अनुमान, के अनुरूप रहे। यह आकलन इस बात पर केंद्रित था कि YG Entertainment का तिमाही प्रदर्शन बाजार उम्मीदों से 크게 अलग नहीं रहा। NH Investment & Securities ने कहा कि अल्पकालिक नतीजों के साथ-साथ दूसरी छमाही की गति पर ध्यान देने की जरूरत है। इसलिए बाजार में YG Entertainment की आगे की दिशा, दूसरी छमाही के नतीजे और कारोबार की प्रगति निवेश निर्णय के प्रमुख कारक माने जा सकते हैं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Laba Kuartal I YG Entertainment Sesuai Konsensus, NH Soroti Momentum Semester II",
-        "excerpt": "NH Investment & Securities pada tanggal 11 menyatakan kinerja kuartal pertama YG Entertainment sesuai konsensus pasar dan perhatian perlu diarahkan pada momentum semester kedua.",
-        "body": "NH Investment & Securities [005940] pada tanggal 11 menilai YG Entertainment [122870] mencatat kinerja kuartal pertama yang sesuai dengan konsensus, yakni rata-rata perkiraan pasar. Penilaian ini berfokus pada fakta bahwa hasil kuartalan YG Entertainment tidak menyimpang besar dari ekspektasi pasar. NH Investment & Securities menyebut perhatian perlu diberikan pada momentum semester kedua, bukan hanya pada kinerja jangka pendek. Karena itu, arah YG Entertainment ke depan, hasil semester kedua, dan perkembangan bisnisnya dapat menjadi variabel utama dalam pertimbangan investasi. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "bdca8bbc5c0e",
-    "slug": "kb證-호실적-한국콜마-성장성-대비-주가-저평가목표가-540769",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T23:36:28.092Z",
-    "updatedAt": "2026-05-10T23:36:28.092Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511019800008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511019800008",
-    "titleFingerprint": "8050aaff699d00c5e4e5e69336c786a2b93a68de",
-    "dedupKeys": [
-      "bdca8bbc5c0eb7d8dc615dd278178c8866af9bc4",
-      "8050aaff699d00c5e4e5e69336c786a2b93a68de",
-      "1b2a2be6d440c1a76825e90691413b46645bdfd2"
-    ],
-    "imageUrl": "/images/articles/bdca8bbc5c0e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국콜마 호실적에 KB증권 목표가 상향…성장성 대비 저평가 주목",
-        "excerpt": "KB증권은 11일 1분기 기대치를 웃돈 한국콜마 실적을 근거로 성장성 대비 주가가 저렴하다고 평가하며 목표주가를 상향했다.",
-        "body": "KB증권은 11일 한국콜마가 1분기 시장 기대치를 웃도는 실적을 기록했다며 목표주가를 상향했다. 서울=연합뉴스 이민영 기자 보도에 따르면 KB증권은 한국콜마에 대해 \"성장성 대비 주가가 저렴하다\"고 평가했다. 이번 판단의 핵심은 1분기 호실적이다. 기대치를 넘어선 실적이 확인되면서 회사의 성장성에 비해 현재 주가가 낮게 평가돼 있다는 분석이 제시됐다. 목표가 상향은 실적 개선 흐름과 밸류에이션 매력을 함께 반영한 조치로 풀이된다. 다만 기사에서 구체적인 목표주가 수치나 추가 전망치는 제시되지 않았다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Kolmar Korea Shares Seen Undervalued as KB Securities Raises Target",
-        "excerpt": "KB Securities said on the 11th that Kolmar Korea’s first-quarter results beat expectations and raised its target price, citing a cheap valuation versus growth.",
-        "body": "KB Securities raised its target price for Kolmar Korea on the 11th, saying the company posted first-quarter earnings that exceeded market expectations. According to a report by Lee Min-young of Yonhap News Agency in Seoul, KB Securities assessed that Kolmar Korea’s share price is \"cheap relative to its growth potential.\" The key basis for the view was the strong first-quarter performance. With results coming in above expectations, the brokerage said the current stock price appears undervalued compared with the company’s growth profile. The target-price increase is understood as reflecting both improved earnings momentum and valuation appeal. The report did not provide a specific target-price figure or additional forecasts. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "韓国コルマー好決算でKB証券が目標株価上げ、成長性比で割安",
-        "excerpt": "KB証券は11日、1四半期決算が期待を上回った韓国コルマーについて、成長性に比べ株価が割安だとして目標株価を引き上げた。",
-        "body": "KB証券は11日、韓国コルマーが第1四半期に市場期待を上回る業績を記録したとして、目標株価を引き上げた。ソウル発の聯合ニュース、イ・ミニョン記者の報道によると、KB証券は韓国コルマーについて「成長性に比べ株価が安い」と評価した。今回の判断の中心にあるのは第1四半期の好業績だ。期待を上回る実績が確認されたことで、同社の成長性に対して現在の株価は低く評価されているとの分析が示された。目標株価の引き上げは、業績改善の流れとバリュエーション面の魅力をあわせて反映したものとみられる。ただし記事では具体的な目標株価や追加見通しは示されていない。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国科玛一季度业绩亮眼，KB证券上调目标价并称估值偏低",
-        "excerpt": "KB证券11日表示，韩国科玛一季度业绩超出预期，考虑到其成长性，当前股价仍显便宜，因此上调目标价。",
-        "body": "KB证券11日上调韩国科玛目标价，理由是该公司第一季度业绩超过市场预期。据韩联社首尔记者李敏英报道，KB证券评价韩国科玛称，其股价“相对于成长性较为便宜”。此次判断的核心依据是一季度的良好业绩。随着高于预期的业绩得到确认，券商认为，与公司的成长性相比，当前股价处于偏低评价水平。目标价上调可理解为同时反映了业绩改善趋势和估值吸引力。不过，报道未披露具体目标价数值或更多后续展望。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "KB Securities eleva precio objetivo de Kolmar Korea por sólidos resultados",
-        "excerpt": "KB Securities dijo el día 11 que Kolmar Korea superó expectativas en el primer trimestre y elevó su precio objetivo al verla barata frente a su crecimiento.",
-        "body": "KB Securities elevó el día 11 su precio objetivo para Kolmar Korea, después de que la compañía registrara resultados del primer trimestre por encima de las expectativas del mercado. Según informó Lee Min-young de Yonhap News Agency desde Seúl, KB Securities consideró que la acción de Kolmar Korea está \"barata en comparación con su potencial de crecimiento\". La base principal de la evaluación fue el sólido desempeño trimestral. Tras confirmarse cifras mejores de lo previsto, la firma señaló que el precio actual de la acción parece bajo frente al perfil de crecimiento de la empresa. El alza del precio objetivo refleja tanto la mejora de resultados como el atractivo de valoración. La nota no incluyó una cifra concreta del objetivo ni previsiones adicionales. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "KB Securities eleva preço-alvo da Kolmar Korea após resultados fortes",
-        "excerpt": "A KB Securities disse no dia 11 que a Kolmar Korea superou expectativas no 1º trimestre e elevou o preço-alvo, citando valuation barato ante o crescimento.",
-        "body": "A KB Securities elevou no dia 11 o preço-alvo da Kolmar Korea, afirmando que a empresa apresentou resultados do primeiro trimestre acima das expectativas do mercado. Segundo reportagem de Lee Min-young, da Yonhap News Agency em Seul, a KB Securities avaliou que a ação da Kolmar Korea está \"barata em relação ao seu potencial de crescimento\". O ponto central da análise foi o desempenho forte no trimestre. Com a confirmação de resultados melhores que o esperado, a corretora indicou que o preço atual da ação parece subavaliado diante do perfil de crescimento da companhia. A alta do preço-alvo reflete a melhora dos lucros e o apelo de valuation. A reportagem não informou um valor específico para o preço-alvo nem projeções adicionais. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "KB Securities hebt Kursziel für Kolmar Korea nach starken Quartalszahlen an",
-        "excerpt": "KB Securities erklärte am 11., Kolmar Korea habe im ersten Quartal die Erwartungen übertroffen, und erhöhte das Kursziel wegen günstiger Bewertung zum Wachstum.",
-        "body": "KB Securities hat am 11. das Kursziel für Kolmar Korea angehoben, nachdem das Unternehmen im ersten Quartal Ergebnisse über den Markterwartungen erzielt hatte. Laut einem Bericht von Lee Min-young von Yonhap News Agency aus Seoul bewertete KB Securities die Aktie von Kolmar Korea als \"günstig im Verhältnis zum Wachstumspotenzial\". Grundlage der Einschätzung waren die starken Zahlen des ersten Quartals. Da die Ergebnisse über den Erwartungen lagen, sieht die Wertpapierfirma den aktuellen Aktienkurs im Vergleich zum Wachstum des Unternehmens als niedrig bewertet an. Die Anhebung des Kursziels spiegelt sowohl die verbesserte Ergebnisentwicklung als auch die Bewertungsattraktivität wider. Konkrete Kurszielzahlen oder zusätzliche Prognosen nannte der Bericht nicht. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "KB Securities relève l’objectif de Kolmar Korea après de solides résultats",
-        "excerpt": "KB Securities a indiqué le 11 que Kolmar Korea avait dépassé les attentes au 1er trimestre et a relevé son objectif, jugeant le titre bon marché face à sa croissance.",
-        "body": "KB Securities a relevé le 11 son objectif de cours pour Kolmar Korea, après des résultats du premier trimestre supérieurs aux attentes du marché. Selon un article de Lee Min-young de Yonhap News Agency à Séoul, KB Securities estime que l’action Kolmar Korea est \"bon marché par rapport à son potentiel de croissance\". Le principal élément de cette analyse est la bonne performance trimestrielle. Avec des résultats confirmés au-dessus des attentes, la société de courtage considère que le cours actuel est sous-évalué au regard du profil de croissance de l’entreprise. Le relèvement de l’objectif reflète à la fois l’amélioration des résultats et l’attrait de la valorisation. L’article ne mentionne pas de niveau précis d’objectif ni de prévisions supplémentaires. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كيه بي سيكيوريتيز ترفع السعر المستهدف لكولمار كوريا بعد نتائج قوية",
-        "excerpt": "قالت كيه بي سيكيوريتيز في 11 إن نتائج كولمار كوريا للربع الأول فاقت التوقعات، ورفعت السعر المستهدف معتبرة السهم رخيصا قياسا بالنمو.",
-        "body": "رفعت كيه بي سيكيوريتيز في 11 السعر المستهدف لسهم كولمار كوريا، بعدما سجلت الشركة نتائج في الربع الأول تجاوزت توقعات السوق. وبحسب تقرير لي مين يونغ من وكالة يونهاب للأنباء في سيول، قيّمت كيه بي سيكيوريتيز سهم كولمار كوريا بأنه \"رخيص مقارنة بإمكانات النمو\". وكان أساس هذا التقييم هو الأداء القوي في الربع الأول. ومع تأكد النتائج التي جاءت أعلى من المتوقع، رأت شركة الوساطة أن السعر الحالي للسهم يبدو منخفض التقييم مقارنة بمسار نمو الشركة. وتعكس زيادة السعر المستهدف تحسن الأرباح وجاذبية التقييم في الوقت نفسه. ولم يورد التقرير رقما محددا للسعر المستهدف أو توقعات إضافية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "मजबूत नतीजों पर KB Securities ने Kolmar Korea का लक्ष्य मूल्य बढ़ाया",
-        "excerpt": "KB Securities ने 11 तारीख को कहा कि Kolmar Korea के पहली तिमाही नतीजे उम्मीद से बेहतर रहे और वृद्धि क्षमता के मुकाबले शेयर सस्ता दिखता है।",
-        "body": "KB Securities ने 11 तारीख को Kolmar Korea के लिए लक्ष्य मूल्य बढ़ाया, क्योंकि कंपनी ने पहली तिमाही में बाजार उम्मीदों से बेहतर प्रदर्शन दर्ज किया। सियोल से Yonhap News Agency की ली मिन-यंग की रिपोर्ट के अनुसार, KB Securities ने Kolmar Korea के शेयर को \"वृद्धि क्षमता की तुलना में सस्ता\" बताया। इस आकलन का मुख्य आधार पहली तिमाही का मजबूत प्रदर्शन रहा। उम्मीद से बेहतर नतीजों की पुष्टि के बाद ब्रोकरेज ने कहा कि कंपनी की वृद्धि क्षमता की तुलना में मौजूदा शेयर मूल्य कम आंका गया प्रतीत होता है। लक्ष्य मूल्य में बढ़ोतरी को आय सुधार की दिशा और मूल्यांकन आकर्षण, दोनों को दर्शाने वाला कदम माना जा सकता है। रिपोर्ट में लक्ष्य मूल्य का कोई विशिष्ट आंकड़ा या अतिरिक्त अनुमान नहीं दिया गया। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "KB Securities Naikkan Target Kolmar Korea Usai Kinerja Kuartal I Kuat",
-        "excerpt": "KB Securities pada tanggal 11 menyebut kinerja kuartal I Kolmar Korea melampaui ekspektasi dan menaikkan target harga karena saham dinilai murah terhadap pertumbuhan.",
-        "body": "KB Securities pada tanggal 11 menaikkan target harga untuk Kolmar Korea setelah perusahaan mencatat kinerja kuartal pertama yang melampaui ekspektasi pasar. Menurut laporan Lee Min-young dari Yonhap News Agency di Seoul, KB Securities menilai harga saham Kolmar Korea \"murah dibandingkan potensi pertumbuhannya\". Dasar utama penilaian tersebut adalah hasil kuat pada kuartal pertama. Setelah kinerja yang lebih baik dari perkiraan terkonfirmasi, sekuritas itu menyatakan harga saham saat ini tampak dinilai rendah dibandingkan profil pertumbuhan perusahaan. Kenaikan target harga dipahami mencerminkan perbaikan kinerja dan daya tarik valuasi. Laporan tersebut tidak menyebutkan angka target harga tertentu atau proyeksi tambahan. Sumber: yna.co.kr"
       }
     }
   }
