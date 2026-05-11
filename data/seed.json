@@ -1,5 +1,230 @@
 [
   {
+    "id": "ca678e7b4cae",
+    "slug": "삼성-파업땐-韓-신뢰도-흔들경쟁-국가-반사이익-얻을-것-259538",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T12:27:47.777Z",
+    "updatedAt": "2026-05-11T12:27:47.777Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12043481",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12043481",
+    "titleFingerprint": "38c8080998b7dda2565ca55ebf513467f3496869",
+    "dedupKeys": [
+      "ca678e7b4caeee3cf01a5612e1b45882cfe75bf4",
+      "38c8080998b7dda2565ca55ebf513467f3496869",
+      "c1b4aa3055672c25530e2fea67ae068414aed0ec"
+    ],
+    "imageUrl": "/images/articles/ca678e7b4cae.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 파업 우려에 암참 경고…한국 투자 신뢰도 흔들릴까",
+        "excerpt": "주한미국상공회의소가 최근 삼성전자 노조의 파업 가능성에 공개 우려를 표하며, 생산 차질이 글로벌 반도체 공급망과 한국 투자 신뢰도에 영향을 줄 수 있다고 밝혔다.",
+        "body": "주한미국상공회의소(암참)가 삼성전자 노조의 파업 가능성과 관련해 공개적으로 우려를 표명했다. 암참은 파업으로 생산 차질이 현실화할 경우 글로벌 반도체 공급망에 부담이 생기고, 한국의 투자 신뢰도에도 부정적 영향을 줄 수 있다고 봤다. 삼성전자는 글로벌 반도체 시장의 핵심 기업인 만큼 노사 갈등이 장기화하면 한국 산업 전반의 안정성에 대한 시선도 흔들릴 수 있다는 지적이다. 암참은 경쟁 국가들이 반사이익을 얻을 가능성도 언급했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Strike Concern Draws AmCham Warning Over Korea Investment Trust",
+        "excerpt": "The American Chamber of Commerce in Korea publicly raised concern over a possible Samsung Electronics union strike, warning that production disruption could affect chip supply chains and Korea’s investment credibility.",
+        "body": "The American Chamber of Commerce in Korea, known as AmCham Korea, has publicly expressed concern over the possibility of a strike by Samsung Electronics’ union. AmCham said that if a strike leads to actual production disruption, it could place pressure on the global semiconductor supply chain and negatively affect confidence in Korea as an investment destination. Because Samsung Electronics is a key company in the global chip market, prolonged labor-management conflict could also influence perceptions of stability across Korean industry. AmCham also mentioned the possibility that competing countries could gain a reflective benefit. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子のスト懸念に在韓米商議所が警告、韓国投資信頼に影響も",
+        "excerpt": "在韓米国商工会議所は最近、サムスン電子労組のスト可能性に公開の懸念を示し、生産支障が半導体供給網と韓国の投資信頼に影響し得ると述べた。",
+        "body": "在韓米国商工会議所（AMCHAM Korea）は、サムスン電子労組によるストライキの可能性について公開的に懸念を表明した。AMCHAMは、ストによって生産支障が現実化した場合、世界の半導体供給網に負担が生じ、韓国への投資信頼にも否定的な影響を与え得るとみている。サムスン電子は世界の半導体市場で中核的な企業であるため、労使対立が長期化すれば韓国産業全体の安定性を見る視線も揺らぎかねないとの指摘だ。AMCHAMは競争国が反射的利益を得る可能性にも言及した。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子罢工担忧引发美商会警示，韩国投资信任度或受冲击",
+        "excerpt": "驻韩美国商会近日就三星电子工会可能罢工公开表达担忧，称若生产受阻，全球半导体供应链和韩国投资信任度都可能受到影响。",
+        "body": "驻韩美国商会（AmCham Korea）就三星电子工会可能举行罢工公开表达了担忧。该商会认为，如果罢工导致生产受阻成为现实，全球半导体供应链可能承压，韩国作为投资目的地的信任度也可能受到负面影响。由于三星电子是全球半导体市场的核心企业，劳资矛盾若长期化，外界对韩国整体产业稳定性的看法也可能动摇。驻韩美国商会还提到，竞争国家有可能因此获得反射性利益。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Posible huelga en Samsung inquieta a AmCham y pone en foco la confianza en Corea",
+        "excerpt": "La Cámara de Comercio Americana en Corea expresó preocupación pública por una posible huelga del sindicato de Samsung Electronics, al advertir efectos sobre la cadena global de chips y la confianza inversora en Corea.",
+        "body": "La Cámara de Comercio Americana en Corea, AmCham Korea, expresó públicamente su preocupación por la posibilidad de una huelga del sindicato de Samsung Electronics. La entidad señaló que, si la huelga se traduce en interrupciones reales de producción, podría generar presión sobre la cadena global de suministro de semiconductores y afectar negativamente la confianza en Corea como destino de inversión. Dado que Samsung Electronics es una empresa clave en el mercado mundial de chips, una prolongación del conflicto laboral también podría alterar la percepción sobre la estabilidad de la industria coreana. AmCham mencionó además que países competidores podrían obtener beneficios indirectos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Possível greve na Samsung preocupa AmCham e ameaça confiança em investimentos na Coreia",
+        "excerpt": "A Câmara Americana de Comércio na Coreia manifestou preocupação pública com uma possível greve do sindicato da Samsung Electronics, alertando para impactos na cadeia global de chips e na confiança em investimentos no país.",
+        "body": "A Câmara Americana de Comércio na Coreia, AmCham Korea, manifestou publicamente preocupação com a possibilidade de greve do sindicato da Samsung Electronics. A entidade afirmou que, se a paralisação causar interrupções reais na produção, isso poderá pressionar a cadeia global de fornecimento de semicondutores e afetar negativamente a confiança na Coreia como destino de investimentos. Como a Samsung Electronics é uma empresa central no mercado global de chips, um conflito trabalhista prolongado também pode influenciar a percepção sobre a estabilidade da indústria coreana. A AmCham também mencionou a possibilidade de países concorrentes obterem benefícios indiretos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung-Streikrisiko alarmiert AmCham und rückt Koreas Investorenvertrauen in den Fokus",
+        "excerpt": "Die Amerikanische Handelskammer in Korea äußerte öffentlich Sorge über einen möglichen Streik der Samsung-Electronics-Gewerkschaft und warnte vor Folgen für Chip-Lieferketten und Koreas Investitionsvertrauen.",
+        "body": "Die Amerikanische Handelskammer in Korea, AmCham Korea, hat öffentlich Besorgnis über die Möglichkeit eines Streiks der Gewerkschaft von Samsung Electronics geäußert. Nach Einschätzung der Kammer könnten tatsächliche Produktionsstörungen die globale Halbleiter-Lieferkette belasten und das Vertrauen in Korea als Investitionsstandort negativ beeinflussen. Da Samsung Electronics ein Schlüsselunternehmen im weltweiten Chipmarkt ist, könnte ein länger andauernder Arbeitskonflikt auch die Wahrnehmung der Stabilität der koreanischen Industrie insgesamt beeinträchtigen. AmCham erwähnte zudem die Möglichkeit, dass konkurrierende Länder indirekt profitieren könnten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Risque de grève chez Samsung : l’AmCham alerte sur la confiance envers la Corée",
+        "excerpt": "La Chambre de commerce américaine en Corée a publiquement exprimé son inquiétude face à une possible grève du syndicat de Samsung Electronics, évoquant des risques pour la chaîne mondiale des puces et la confiance des investisseurs.",
+        "body": "La Chambre de commerce américaine en Corée, AmCham Korea, a publiquement exprimé son inquiétude concernant la possibilité d’une grève du syndicat de Samsung Electronics. Selon l’organisation, si une grève entraînait de réelles perturbations de production, elle pourrait peser sur la chaîne mondiale d’approvisionnement en semi-conducteurs et nuire à la confiance envers la Corée comme destination d’investissement. Samsung Electronics étant une entreprise clé du marché mondial des puces, un conflit social prolongé pourrait aussi affecter la perception de la stabilité de l’industrie coréenne dans son ensemble. L’AmCham a également mentionné que des pays concurrents pourraient en tirer un avantage indirect. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مخاوف إضراب سامسونغ تدفع غرفة التجارة الأميركية للتحذير من تراجع الثقة بكوريا",
+        "excerpt": "أعربت غرفة التجارة الأميركية في كوريا علنا عن قلقها من احتمال إضراب نقابة سامسونغ إلكترونيكس، محذرة من أثر محتمل على سلاسل توريد الرقائق وثقة الاستثمار في كوريا.",
+        "body": "أعربت غرفة التجارة الأميركية في كوريا، المعروفة باسم أمCham Korea، عن قلقها العلني إزاء احتمال إضراب نقابة سامسونغ إلكترونيكس. وذكرت الغرفة أنه إذا تحول الإضراب إلى اضطراب فعلي في الإنتاج، فقد يفرض ضغطا على سلسلة توريد أشباه الموصلات العالمية ويؤثر سلبا في الثقة بكوريا كوجهة للاستثمار. وبما أن سامسونغ إلكترونيكس شركة محورية في سوق الرقائق العالمي، فإن استمرار النزاع بين الإدارة والعمال قد يؤثر أيضا في النظرة إلى استقرار الصناعة الكورية عموما. كما أشارت الغرفة إلى احتمال حصول الدول المنافسة على مكاسب غير مباشرة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung हड़ताल की आशंका पर AmCham की चेतावनी, कोरिया की निवेश साख पर असर संभव",
+        "excerpt": "कोरिया में अमेरिकी वाणिज्य मंडल ने Samsung Electronics यूनियन की संभावित हड़ताल पर सार्वजनिक चिंता जताई और कहा कि उत्पादन बाधा से वैश्विक चिप आपूर्ति श्रृंखला व कोरिया की निवेश साख प्रभावित हो सकती है।",
+        "body": "कोरिया में अमेरिकी वाणिज्य मंडल, AmCham Korea, ने Samsung Electronics की यूनियन की संभावित हड़ताल को लेकर सार्वजनिक रूप से चिंता व्यक्त की है। AmCham ने कहा कि यदि हड़ताल से उत्पादन में वास्तविक बाधा आती है, तो वैश्विक सेमीकंडक्टर आपूर्ति श्रृंखला पर दबाव पड़ सकता है और निवेश गंतव्य के रूप में कोरिया की विश्वसनीयता पर नकारात्मक असर हो सकता है। Samsung Electronics वैश्विक चिप बाजार की प्रमुख कंपनी है, इसलिए श्रम-प्रबंधन विवाद लंबा खिंचने पर कोरियाई उद्योग की समग्र स्थिरता को लेकर धारणा भी प्रभावित हो सकती है। AmCham ने यह भी कहा कि प्रतिस्पर्धी देशों को अप्रत्यक्ष लाभ मिल सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Risiko Mogok Samsung Picu Peringatan AmCham soal Kepercayaan Investasi Korea",
+        "excerpt": "Kamar Dagang Amerika di Korea secara terbuka menyatakan kekhawatiran atas kemungkinan mogok serikat Samsung Electronics, karena gangguan produksi dapat memengaruhi rantai pasok cip global dan kepercayaan investasi Korea.",
+        "body": "Kamar Dagang Amerika di Korea, AmCham Korea, secara terbuka menyampaikan kekhawatiran terkait kemungkinan mogok serikat pekerja Samsung Electronics. AmCham menilai, jika mogok benar-benar mengganggu produksi, hal itu dapat memberi tekanan pada rantai pasok semikonduktor global dan berdampak negatif pada kepercayaan terhadap Korea sebagai tujuan investasi. Karena Samsung Electronics merupakan perusahaan kunci di pasar cip global, konflik pekerja-manajemen yang berkepanjangan juga dapat memengaruhi pandangan terhadap stabilitas industri Korea secara keseluruhan. AmCham juga menyebut kemungkinan negara pesaing memperoleh keuntungan tidak langsung. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "2c06696754ba",
+    "slug": "엔비디아-ai-어벤져스에-58조원-쐈다-805366",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T12:26:45.220Z",
+    "updatedAt": "2026-05-11T12:26:45.220Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12043488",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12043488",
+    "titleFingerprint": "7b1089266e0fce736946a3a66585c9559318f3d5",
+    "dedupKeys": [
+      "2c06696754ba8279b2b3c0e6f4030b5129ec220f",
+      "7b1089266e0fce736946a3a66585c9559318f3d5",
+      "c02f912076e99463a12c18a4d11db29b9887a298"
+    ],
+    "imageUrl": "/images/articles/2c06696754ba.jpg",
+    "i18n": {
+      "ko": {
+        "title": "엔비디아, AI 생태계에 58조원 투자…‘AI 어벤져스’ 구축 속도",
+        "excerpt": "AI 칩 시장 1위 엔비디아가 막대한 현금 창출력을 바탕으로 글로벌 AI 생태계 전반에 58조원을 투자하며 하드웨어 공급을 넘어 주도권 확대에 나섰다.",
+        "body": "엔비디아가 인공지능(AI) 칩 시장 1위 기업으로서 확보한 막대한 현금 창출력을 바탕으로 글로벌 AI 생태계 전반에 대규모 투자를 단행하고 있다. 투자 규모는 58조원으로 전해졌으며, 이는 단순한 하드웨어 공급을 넘어 AI 산업 전반의 주도권을 강화하려는 움직임으로 풀이된다. 엔비디아는 AI 칩 수요 확대 속에서 생태계 참여 기업들과의 연결을 넓히며 영향력을 키우고 있다. 이번 투자는 글로벌 AI 경쟁 구도에서 엔비디아의 입지를 더욱 공고히 하는 계기가 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Nvidia Invests 58 Trillion Won in AI Ecosystem, Accelerating ‘AI Avengers’ Strategy",
+        "excerpt": "Nvidia, the No. 1 company in the AI chip market, is investing 58 trillion won across the global AI ecosystem, using its cash generation power to expand beyond hardware supply.",
+        "body": "Nvidia, the leading company in the artificial intelligence chip market, is making large-scale investments across the global AI ecosystem based on its strong cash generation capacity. The investment is reported at 58 trillion won, signaling a move beyond simply supplying hardware toward strengthening control across the broader AI industry. As demand for AI chips grows, Nvidia is expanding links with companies participating in the ecosystem and increasing its influence. The investment is expected to further solidify Nvidia’s position in the global AI competition. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "エヌビディア、AI生態系に58兆ウォン投資…「AIアベンジャーズ」加速",
+        "excerpt": "AIチップ市場首位のエヌビディアは、強力な現金創出力を背景に世界のAI生態系全体へ58兆ウォンを投じ、ハード供給を超えた主導権拡大に動いている。",
+        "body": "人工知能（AI）チップ市場で首位に立つエヌビディアが、強力な現金創出力を背景に、世界のAI生態系全体へ大規模投資を進めている。投資規模は58兆ウォンと伝えられ、単なるハードウェア供給にとどまらず、AI産業全般で主導権を強めようとする動きと受け止められる。AIチップ需要が拡大するなか、エヌビディアは生態系に参加する企業とのつながりを広げ、影響力を高めている。今回の投資は、世界的なAI競争における同社の地位をさらに固める契機になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "英伟达向AI生态投资58万亿韩元，加速打造“AI复仇者联盟”",
+        "excerpt": "AI芯片市场第一的英伟达正凭借强大的现金创造能力，向全球AI生态投入58万亿韩元，从硬件供应扩展到生态主导权。",
+        "body": "作为人工智能（AI）芯片市场排名第一的企业，英伟达正凭借强大的现金创造能力，对全球AI生态系统进行大规模投资。相关投资规模据称达到58万亿韩元，这显示其行动已不只是供应硬件，而是意在强化对AI产业整体的主导权。随着AI芯片需求扩大，英伟达正扩大与生态系统参与企业的连接，并提升自身影响力。此次投资预计将进一步巩固英伟达在全球AI竞争格局中的地位。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Nvidia invierte 58 billones de wones en IA y acelera su estrategia ‘AI Avengers’",
+        "excerpt": "Nvidia, líder del mercado de chips de IA, invierte 58 billones de wones en el ecosistema global de inteligencia artificial para ampliar su influencia más allá del suministro de hardware.",
+        "body": "Nvidia, la empresa número uno del mercado de chips de inteligencia artificial, está realizando inversiones a gran escala en todo el ecosistema global de IA gracias a su fuerte capacidad de generación de efectivo. La inversión asciende, según la información disponible, a 58 billones de wones, lo que apunta a un movimiento que va más allá del simple suministro de hardware y busca reforzar su control sobre la industria de IA en general. En medio del aumento de la demanda de chips de IA, Nvidia amplía sus vínculos con empresas del ecosistema y eleva su influencia. La inversión podría consolidar aún más su posición en la competencia global de IA. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Nvidia investe 58 trilhões de wons em IA e acelera estratégia ‘AI Avengers’",
+        "excerpt": "A Nvidia, líder no mercado de chips de IA, está investindo 58 trilhões de wons em todo o ecossistema global de inteligência artificial para ampliar sua liderança além do hardware.",
+        "body": "A Nvidia, empresa número um no mercado de chips de inteligência artificial, está realizando investimentos de grande escala em todo o ecossistema global de IA com base em sua forte capacidade de geração de caixa. O valor informado é de 58 trilhões de wons, indicando um movimento que vai além do simples fornecimento de hardware e busca fortalecer sua liderança em toda a indústria de IA. Com a demanda por chips de IA em expansão, a Nvidia amplia conexões com empresas participantes do ecossistema e aumenta sua influência. O investimento deve reforçar ainda mais sua posição na competição global de IA. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Nvidia investiert 58 Billionen Won in KI-Ökosystem und stärkt ‘AI Avengers’",
+        "excerpt": "Nvidia, Marktführer bei KI-Chips, investiert 58 Billionen Won in das globale KI-Ökosystem und nutzt seine starke Cash-Generierung, um über Hardwarelieferungen hinaus Einfluss auszubauen.",
+        "body": "Nvidia, die Nummer eins im Markt für Chips für künstliche Intelligenz, tätigt auf Basis seiner starken Fähigkeit zur Cash-Generierung umfangreiche Investitionen im globalen KI-Ökosystem. Das Investitionsvolumen wird mit 58 Billionen Won angegeben und zeigt einen Schritt, der über die reine Lieferung von Hardware hinausgeht und auf stärkere Kontrolle in der gesamten KI-Branche abzielt. Während die Nachfrage nach KI-Chips wächst, erweitert Nvidia die Verbindungen zu Unternehmen im Ökosystem und erhöht seinen Einfluss. Diese Investition dürfte die Position des Unternehmens im globalen KI-Wettbewerb weiter festigen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Nvidia investit 58 billions de wons dans l’IA et accélère son écosystème",
+        "excerpt": "Nvidia, numéro un du marché des puces d’IA, investit 58 billions de wons dans l’écosystème mondial de l’intelligence artificielle pour renforcer son influence au-delà du matériel.",
+        "body": "Nvidia, premier acteur du marché des puces d’intelligence artificielle, réalise des investissements de grande ampleur dans l’ensemble de l’écosystème mondial de l’IA grâce à sa forte capacité de génération de trésorerie. Le montant évoqué atteint 58 billions de wons, ce qui traduit une démarche dépassant la simple fourniture de matériel afin de renforcer son contrôle sur l’industrie de l’IA dans son ensemble. Avec la hausse de la demande de puces d’IA, Nvidia élargit ses liens avec les entreprises de l’écosystème et accroît son influence. Cet investissement devrait consolider davantage sa position dans la concurrence mondiale de l’IA. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إنفيديا تستثمر 58 تريليون وون في منظومة الذكاء الاصطناعي وتعزز نفوذها",
+        "excerpt": "إنفيديا، الشركة الأولى في سوق رقائق الذكاء الاصطناعي، تستثمر 58 تريليون وون في منظومة الذكاء الاصطناعي العالمية لتوسيع نفوذها إلى ما بعد توريد العتاد.",
+        "body": "تقوم إنفيديا، الشركة الأولى في سوق رقائق الذكاء الاصطناعي، باستثمارات واسعة النطاق في منظومة الذكاء الاصطناعي العالمية اعتمادا على قدرتها الكبيرة على توليد السيولة. وتبلغ قيمة الاستثمار المعلنة 58 تريليون وون، ما يشير إلى تحرك يتجاوز مجرد توريد العتاد نحو تعزيز السيطرة على قطاع الذكاء الاصطناعي الأوسع. ومع اتساع الطلب على رقائق الذكاء الاصطناعي، توسع إنفيديا روابطها مع الشركات المشاركة في المنظومة وتزيد تأثيرها. ومن المتوقع أن يعزز هذا الاستثمار موقع الشركة في المنافسة العالمية بمجال الذكاء الاصطناعي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "एनवीडिया ने AI इकोसिस्टम में 58 ट्रिलियन वॉन लगाए, ‘AI Avengers’ रणनीति तेज",
+        "excerpt": "AI चिप बाजार की नंबर एक कंपनी एनवीडिया अपनी मजबूत नकद सृजन क्षमता के आधार पर वैश्विक AI इकोसिस्टम में 58 ट्रिलियन वॉन निवेश कर रही है।",
+        "body": "कृत्रिम बुद्धिमत्ता चिप बाजार की अग्रणी कंपनी एनवीडिया अपनी मजबूत नकद सृजन क्षमता के आधार पर वैश्विक AI इकोसिस्टम में बड़े पैमाने पर निवेश कर रही है। निवेश का आकार 58 ट्रिलियन वॉन बताया गया है, जो यह संकेत देता है कि कंपनी केवल हार्डवेयर आपूर्ति से आगे बढ़कर व्यापक AI उद्योग में अपनी पकड़ मजबूत करना चाहती है। AI चिप की मांग बढ़ने के बीच एनवीडिया इकोसिस्टम में शामिल कंपनियों के साथ संबंध बढ़ा रही है और अपना प्रभाव विस्तार कर रही है। यह निवेश वैश्विक AI प्रतिस्पर्धा में एनवीडिया की स्थिति को और मजबूत कर सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Nvidia Investasi 58 Triliun Won di Ekosistem AI, Percepat Strategi ‘AI Avengers’",
+        "excerpt": "Nvidia, pemimpin pasar chip AI, berinvestasi 58 triliun won di ekosistem kecerdasan buatan global untuk memperluas pengaruhnya melampaui pasokan perangkat keras.",
+        "body": "Nvidia, perusahaan nomor satu di pasar chip kecerdasan buatan, melakukan investasi berskala besar di seluruh ekosistem AI global dengan bertumpu pada kemampuan kuatnya dalam menghasilkan kas. Nilai investasi tersebut dilaporkan mencapai 58 triliun won, menandai langkah yang melampaui sekadar pasokan perangkat keras menuju penguatan kendali di industri AI secara lebih luas. Seiring meningkatnya permintaan chip AI, Nvidia memperluas hubungan dengan perusahaan peserta ekosistem dan meningkatkan pengaruhnya. Investasi ini diperkirakan akan semakin memperkuat posisi Nvidia dalam persaingan AI global. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "32848a28da48",
+    "slug": "이재용-회장-주식자산-50조-돌파삼성가-주식가치-100조-시대-297165",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T12:25:05.013Z",
+    "updatedAt": "2026-05-11T12:25:05.013Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12043526",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12043526",
+    "titleFingerprint": "7aa0125a7b43fa05544c0eb03fa5c80f1817f2fa",
+    "dedupKeys": [
+      "32848a28da48fe64ec95dac5fec2ee358d58c576",
+      "7aa0125a7b43fa05544c0eb03fa5c80f1817f2fa",
+      "0b2ad05e5b95f2c57d73667d1cff26aee52a7cca"
+    ],
+    "imageUrl": "/images/articles/32848a28da48.png",
+    "i18n": {
+      "ko": {
+        "title": "이재용 주식자산 50조 돌파, 삼성가 주식가치 100조 시대 열렸다",
+        "excerpt": "한국CXO연구소 조사에 따르면 코스피가 8000을 향해 상승하는 가운데 이재용 삼성전자 회장의 주식 가치가 51조6593억원으로 50조원을 넘어섰다.",
+        "body": "한국CXO연구소가 국내 주요 주주의 주식 재산 현황을 조사한 결과, 이재용 삼성전자 회장의 주식 가치가 51조6593억원으로 집계되며 50조원을 넘어섰다. 코스피가 8000선을 향해 거침없이 상승하는 흐름 속에서 삼성전자 주가가 6%대 급등해 주당 28만5500원을 기록한 점이 배경으로 제시됐다. 이 회장의 보유 주식 가치 확대와 함께 삼성가 전체 주식 가치가 100조원 시대에 들어섰다는 평가가 나왔다. 이번 조사 결과는 국내 증시 상승세와 대형주 가치 재평가가 주요 주주 자산에 미치는 영향을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Lee Jae-yong’s Stock Assets Top 50 Trillion Won as Samsung Family Nears 100 Trillion Era",
+        "excerpt": "According to Korea CXO Institute, Samsung Electronics Chairman Lee Jae-yong’s stock value reached 51.6593 trillion won as the Kospi climbed toward 8,000.",
+        "body": "A Korea CXO Institute survey of major domestic shareholders found that Samsung Electronics Chairman Lee Jae-yong’s stock holdings were valued at 51.6593 trillion won, surpassing the 50 trillion won mark. The report cited the Kospi’s strong rise toward the 8,000 level and a more than 6% surge in Samsung Electronics shares to 285,500 won per share as key background factors. Along with the increase in Lee’s stock wealth, the total stock value of the Samsung family was described as entering the 100 trillion won era. The findings show how the Korean stock market rally and revaluation of large-cap shares are affecting major shareholders’ assets. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "李在鎔氏の株式資産50兆ウォン突破、サムスン一家は100兆時代へ",
+        "excerpt": "韓国CXO研究所の調査で、コスピが8000に向けて上昇する中、李在鎔サムスン電子会長の株式価値は51兆6593億ウォンとなった。",
+        "body": "韓国CXO研究所が国内主要株主の株式資産状況を調査した結果、サムスン電子の李在鎔会長の株式価値は51兆6593億ウォンと集計され、50兆ウォンを超えた。コスピが8000台に向けて勢いよく上昇する中、サムスン電子株が6%台急騰し、1株28万5500ウォンを記録したことが背景として示された。李会長の保有株式価値の拡大とともに、サムスン一家全体の株式価値が100兆ウォン時代に入ったとの評価が出ている。今回の調査は、韓国株式市場の上昇と大型株の価値見直しが主要株主の資産に及ぼす影響を示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "李在镕股票资产突破50万亿韩元，三星家族迈入100万亿时代",
+        "excerpt": "韩国CXO研究所调查显示，在KOSPI向8000点上行之际，三星电子会长李在镕持股价值达51.6593万亿韩元。",
+        "body": "韩国CXO研究所对韩国主要股东的股票资产现状进行调查后显示，三星电子会长李在镕的持股价值为51.6593万亿韩元，突破50万亿韩元。报道指出，KOSPI指数正向8000点持续上行，同时三星电子股价大涨逾6%，达到每股285500韩元，这是相关背景因素。随着李会长所持股票价值扩大，三星家族整体股票价值也被评价为进入100万亿韩元时代。此次调查显示，韩国股市上涨和大型股价值重估正在影响主要股东资产。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Activos bursátiles de Lee Jae-yong superan 50 billones de wones y Samsung entra en era de 100 billones",
+        "excerpt": "Según Korea CXO Institute, el valor accionario de Lee Jae-yong llegó a 51,6593 billones de wones mientras el Kospi avanza hacia los 8.000 puntos.",
+        "body": "Una encuesta de Korea CXO Institute sobre la riqueza accionaria de los principales accionistas surcoreanos mostró que las participaciones de Lee Jae-yong, presidente de Samsung Electronics, alcanzaron un valor de 51,6593 billones de wones, superando los 50 billones. El contexto señalado fue el fuerte avance del Kospi hacia los 8.000 puntos y el salto de más del 6% de las acciones de Samsung Electronics, hasta 285.500 wones por título. Junto con el aumento del valor de las acciones de Lee, se evaluó que el valor total de las acciones de la familia Samsung entró en la era de los 100 billones de wones. El resultado muestra el impacto del alza bursátil local y la revalorización de grandes compañías en los activos de los principales accionistas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ações de Lee Jae-yong passam de 50 trilhões de won e família Samsung mira era de 100 trilhões",
+        "excerpt": "Segundo o Korea CXO Institute, o valor das ações de Lee Jae-yong chegou a 51,6593 trilhões de won enquanto o Kospi avança rumo aos 8.000 pontos.",
+        "body": "Um levantamento do Korea CXO Institute sobre a riqueza em ações dos principais acionistas da Coreia do Sul mostrou que as participações de Lee Jae-yong, presidente da Samsung Electronics, foram avaliadas em 51,6593 trilhões de won, superando a marca de 50 trilhões. O relatório citou como contexto a forte alta do Kospi rumo aos 8.000 pontos e o salto de mais de 6% das ações da Samsung Electronics, para 285.500 won por ação. Com a expansão do valor acionário de Lee, a avaliação é de que o valor total das ações da família Samsung entrou na era dos 100 trilhões de won. O resultado mostra como a alta da bolsa sul-coreana e a reavaliação de grandes empresas afetam os ativos dos principais acionistas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Lee Jae-yongs Aktienvermögen steigt über 50 Bio. Won, Samsung-Familie erreicht 100-Bio.-Ära",
+        "excerpt": "Laut Korea CXO Institute erreichte Lee Jae-yongs Aktienwert 51,6593 Bio. Won, während der Kospi weiter in Richtung 8.000 Punkte steigt.",
+        "body": "Eine Untersuchung des Korea CXO Institute zur Aktiensituation großer inländischer Anteilseigner ergab, dass die Beteiligungen von Lee Jae-yong, Chairman von Samsung Electronics, mit 51,6593 Billionen Won bewertet wurden und damit die Marke von 50 Billionen Won überschritten. Als Hintergrund wurden der kräftige Anstieg des Kospi in Richtung 8.000 Punkte sowie ein Kurssprung der Samsung-Electronics-Aktie um mehr als 6% auf 285.500 Won je Aktie genannt. Mit dem höheren Wert von Lees Aktien wurde zugleich bewertet, dass der gesamte Aktienwert der Samsung-Familie in die Ära von 100 Billionen Won eingetreten ist. Die Ergebnisse zeigen, wie die Rally am koreanischen Aktienmarkt und die Neubewertung großer Werte die Vermögen wichtiger Aktionäre beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La fortune boursière de Lee Jae-yong dépasse 50 000 Mds de wons, Samsung entre dans l’ère des 100 000 Mds",
+        "excerpt": "Selon le Korea CXO Institute, la valeur des actions de Lee Jae-yong atteint 51 659,3 Mds de wons alors que le Kospi progresse vers 8 000 points.",
+        "body": "Une enquête du Korea CXO Institute sur le patrimoine en actions des principaux actionnaires sud-coréens indique que les titres détenus par Lee Jae-yong, président de Samsung Electronics, sont évalués à 51 659,3 milliards de wons, au-delà du seuil de 50 000 milliards. Le rapport cite comme contexte la forte progression du Kospi vers 8 000 points et la hausse de plus de 6% de l’action Samsung Electronics, à 285 500 wons par action. Avec l’augmentation de la valeur des actions détenues par Lee, la valeur totale des actions de la famille Samsung est présentée comme entrant dans l’ère des 100 000 milliards de wons. Ces résultats montrent l’effet de la hausse du marché coréen et de la revalorisation des grandes capitalisations sur les actifs des principaux actionnaires. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ثروة لي جاي يونغ من الأسهم تتجاوز 50 تريليون وون وعائلة سامسونغ تدخل عصر 100 تريليون",
+        "excerpt": "بحسب معهد Korea CXO، بلغت قيمة أسهم رئيس سامسونغ إلكترونيكس لي جاي يونغ 51.6593 تريليون وون مع صعود كوسبي نحو 8000 نقطة.",
+        "body": "أظهر مسح أجراه معهد Korea CXO حول ثروات الأسهم لدى كبار المساهمين المحليين أن قيمة الأسهم التي يملكها لي جاي يونغ، رئيس سامسونغ إلكترونيكس، بلغت 51.6593 تريليون وون، متجاوزة مستوى 50 تريليون وون. وذُكر أن الخلفية تتمثل في صعود مؤشر كوسبي بقوة نحو مستوى 8000 نقطة، وقفزة سهم سامسونغ إلكترونيكس بأكثر من 6% إلى 285500 وون للسهم. ومع زيادة قيمة حيازات لي من الأسهم، وُصف إجمالي قيمة أسهم عائلة سامسونغ بأنه دخل عصر 100 تريليون وون. وتوضح نتائج المسح تأثير صعود سوق الأسهم الكورية وإعادة تقييم الأسهم الكبرى في أصول كبار المساهمين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ली जे-योंग की शेयर संपत्ति 50 ट्रिलियन वॉन पार, सैमसंग परिवार 100 ट्रिलियन युग में",
+        "excerpt": "Korea CXO Institute के अनुसार, कोस्पी के 8,000 की ओर बढ़ने के बीच सैमसंग इलेक्ट्रॉनिक्स चेयरमैन ली जे-योंग की शेयर वैल्यू 51.6593 ट्रिलियन वॉन रही।",
+        "body": "Korea CXO Institute द्वारा घरेलू प्रमुख शेयरधारकों की शेयर संपत्ति पर किए गए सर्वेक्षण में पाया गया कि Samsung Electronics के चेयरमैन ली जे-योंग की शेयर होल्डिंग्स का मूल्य 51.6593 ट्रिलियन वॉन हो गया, जो 50 ट्रिलियन वॉन से ऊपर है। रिपोर्ट में कोस्पी के 8,000 स्तर की ओर तेज बढ़त और Samsung Electronics के शेयरों में 6% से अधिक उछाल के साथ प्रति शेयर 285,500 वॉन तक पहुंचने को पृष्ठभूमि बताया गया। ली की शेयर वैल्यू बढ़ने के साथ सैमसंग परिवार की कुल शेयर वैल्यू को 100 ट्रिलियन वॉन युग में प्रवेश करने वाला बताया गया। यह सर्वेक्षण दिखाता है कि कोरियाई शेयर बाजार की तेजी और बड़े शेयरों का पुनर्मूल्यांकन प्रमुख शेयरधारकों की संपत्ति को कैसे प्रभावित कर रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Aset Saham Lee Jae-yong Tembus 50 Triliun Won, Keluarga Samsung Masuki Era 100 Triliun",
+        "excerpt": "Menurut Korea CXO Institute, nilai saham Ketua Samsung Electronics Lee Jae-yong mencapai 51,6593 triliun won saat Kospi bergerak menuju 8.000.",
+        "body": "Survei Korea CXO Institute mengenai kekayaan saham para pemegang saham utama di Korea Selatan menunjukkan bahwa nilai kepemilikan saham Lee Jae-yong, Ketua Samsung Electronics, mencapai 51,6593 triliun won dan melampaui 50 triliun won. Latar yang disebutkan adalah laju Kospi yang terus naik menuju level 8.000 serta lonjakan saham Samsung Electronics lebih dari 6% ke 285.500 won per saham. Seiring kenaikan nilai saham Lee, total nilai saham keluarga Samsung dinilai memasuki era 100 triliun won. Hasil ini menunjukkan bagaimana reli pasar saham Korea dan penilaian ulang saham berkapitalisasi besar memengaruhi aset para pemegang saham utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "8dfeac76407a",
     "slug": "에쓰오일-유가-급등에-1분기-흑자전환-196629",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Kriteria Bantuan Harga Minyak Tinggi Tahap Kedua Dirilis 11, Sasar 70% Terbawah Pendapatan",
         "excerpt": "Kriteria pembayaran tahap kedua bantuan dampak harga minyak tinggi akan diumumkan pada 11, dengan penerima diseleksi dari 70% terbawah berdasarkan pendapatan, lapor Yonhap.",
         "body": "Kriteria pembayaran tahap kedua bantuan bagi korban harga minyak tinggi akan diumumkan pada 11. Menurut Yonhap News Agency, kriteria ini berkaitan dengan prosedur pembayaran tahap kedua untuk mendukung kelompok yang terdampak harga minyak tinggi. Penerima diperkirakan akan dipilih dari 70% terbawah berdasarkan pendapatan. Pengumuman ini dapat menjadi informasi penting bagi rumah tangga yang ingin memastikan sasaran dan kriteria bantuan. Cara pembayaran konkret dan syarat rinci diperkirakan akan dikonfirmasi melalui kriteria yang diumumkan pada 11. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7f35c0779783",
-    "slug": "이진숙-자유민주-위해-마지막-열정-바칠-것장동혁-국감-최고스타-예약-349182",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T20:27:26.282Z",
-    "updatedAt": "2026-05-10T20:27:26.282Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12042803",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042803",
-    "titleFingerprint": "ad10668e359abc48a43052c56aaf8e9c858b8230",
-    "dedupKeys": [
-      "7f35c0779783529fca1f9dab7c5d4f8e541c8f67",
-      "ad10668e359abc48a43052c56aaf8e9c858b8230",
-      "c017ccb56680c8f1c9d398a3dffc2412f79da9aa"
-    ],
-    "imageUrl": "/images/articles/7f35c0779783.png",
-    "i18n": {
-      "ko": {
-        "title": "이진숙 대구 달성 보궐선거 출사표…장동혁 지원 속 지지층 결집",
-        "excerpt": "이진숙 국민의힘 대구 달성군 국회의원 보궐선거 예비후보가 10일 선거사무소 개소식을 열고 장동혁 대표 등 당 지도부 지원 속 지지층 결집에 나섰다.",
-        "body": "이진숙 국민의힘 대구 달성군 국회의원 보궐선거 예비후보가 10일 선거사무소 개소식을 열고 본격적인 지지층 결집에 나섰다. 개소식은 당 지도부의 지원 속에 진행됐으며, 국민의힘 장동혁 대표가 참석해 힘을 보탰다. 이 예비후보는 자유민주를 위해 마지막 열정을 바치겠다는 뜻을 밝히며 선거전에 임하는 각오를 드러냈다. 장 대표는 이 예비후보를 향해 국감 최고스타를 예약했다는 취지의 발언으로 지원 메시지를 냈다. 이번 행사는 보궐선거를 앞두고 지역 조직과 지지 기반을 다지는 자리로 해석된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Lee Jin-sook Opens Daegu Dalseong By-Election Office With Party Backing",
-        "excerpt": "People Power Party preliminary candidate Lee Jin-sook opened her campaign office on the 10th for the Daegu Dalseong-gun National Assembly by-election, rallying supporters with party leadership support.",
-        "body": "Lee Jin-sook, a People Power Party preliminary candidate in the National Assembly by-election for Daegu’s Dalseong-gun, opened her campaign office on the 10th and moved to rally her support base. The event was held with backing from the party leadership, and People Power Party leader Jang Dong-hyeok attended to lend support. Lee said she would devote her final passion to liberal democracy, signaling her resolve ahead of the race. Jang offered a message of support, saying in effect that Lee was set to become a top star of the National Assembly audit. The opening was positioned as a chance to strengthen local organization and support before the by-election. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "李眞淑氏、大邱達城補選へ事務所開き…張東赫代表が支援",
-        "excerpt": "国民の力の大邱達城郡国会議員補欠選挙予備候補、李眞淑氏は10日、選挙事務所の開所式を開き、党指導部の支援を受けて支持層結集に乗り出した。",
-        "body": "国民の力の大邱達城郡国会議員補欠選挙予備候補である李眞淑氏は10日、選挙事務所の開所式を開き、本格的に支持層の結集に乗り出した。開所式は党指導部の支援の中で行われ、国民の力の張東赫代表が出席して後押しした。李氏は、自由民主のために最後の情熱をささげる考えを示し、選挙戦に臨む覚悟を明らかにした。張代表は李氏について、国政監査の最高スターを予約したという趣旨の発言で支援メッセージを送った。今回の行事は補欠選挙を前に、地域組織と支持基盤を固める場と受け止められる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "李真淑开启大邱达城补选竞选办公室，张东赫到场助阵",
-        "excerpt": "国民力量大邱达城郡国会议员补选预备候选人李真淑10日举行竞选办公室开所式，在党领导层支持下凝聚支持者。",
-        "body": "国民力量大邱达城郡国会议员补选预备候选人李真淑10日举行竞选办公室开所式，正式展开支持层凝聚行动。开所式在党领导层支持下进行，国民力量党代表张东赫出席并提供助力。李真淑表示，将为自由民主奉献最后的热情，展现投入选战的决心。张东赫则以李真淑已预订国政监察最高明星的说法传递支持信息。此次活动被视为在补选前巩固地区组织和支持基础的场合。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Lee Jin-sook abre oficina para la elección parcial de Daegu Dalseong",
-        "excerpt": "Lee Jin-sook, precandidata del Partido del Poder Popular para la elección parcial parlamentaria de Daegu Dalseong-gun, abrió el día 10 su oficina de campaña con apoyo de la dirigencia.",
-        "body": "Lee Jin-sook, precandidata del Partido del Poder Popular para la elección parcial a la Asamblea Nacional por Daegu Dalseong-gun, inauguró el día 10 su oficina de campaña y comenzó a movilizar a sus seguidores. El acto se realizó con el respaldo de la dirigencia del partido, y el líder Jang Dong-hyeok asistió para mostrar apoyo. Lee afirmó que dedicará su última pasión a la democracia liberal, mostrando su determinación ante la contienda. Jang transmitió un mensaje de respaldo al decir, en esencia, que Lee tenía reservado el papel de máxima estrella de la auditoría parlamentaria. El evento se interpreta como una ocasión para consolidar la organización local y la base de apoyo antes de la elección parcial. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Lee Jin-sook abre escritório para eleição parcial em Daegu Dalseong",
-        "excerpt": "Lee Jin-sook, pré-candidata do Partido do Poder Popular à eleição parcial parlamentar de Daegu Dalseong-gun, abriu no dia 10 seu escritório de campanha com apoio da liderança partidária.",
-        "body": "Lee Jin-sook, pré-candidata do Partido do Poder Popular à eleição parcial para a Assembleia Nacional por Daegu Dalseong-gun, abriu no dia 10 seu escritório de campanha e passou a mobilizar sua base de apoio. A cerimônia ocorreu com respaldo da liderança do partido, e o líder Jang Dong-hyeok esteve presente para reforçar o apoio. Lee declarou que dedicará sua última paixão à democracia liberal, mostrando sua disposição para a disputa. Jang enviou uma mensagem de apoio ao afirmar, em essência, que Lee já tinha reservado o posto de maior estrela da auditoria parlamentar. O evento é visto como uma oportunidade para fortalecer a organização local e a base de apoio antes da eleição parcial. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Lee Jin-sook eröffnet Wahlbüro für Nachwahl in Daegu-Dalseong",
-        "excerpt": "Lee Jin-sook, Vorwahlkandidatin der People Power Party für die Parlamentsnachwahl in Daegu Dalseong-gun, eröffnete am 10. ihr Wahlbüro und sammelte mit Parteirückhalt Unterstützer.",
-        "body": "Lee Jin-sook, Vorwahlkandidatin der People Power Party für die Nachwahl zur Nationalversammlung in Daegu Dalseong-gun, eröffnete am 10. ihr Wahlbüro und begann, ihre Unterstützerbasis zu bündeln. Die Eröffnungsfeier fand mit Unterstützung der Parteiführung statt; Parteichef Jang Dong-hyeok nahm teil und stärkte ihr den Rücken. Lee erklärte, sie werde ihre letzte Leidenschaft der liberalen Demokratie widmen, und machte damit ihre Entschlossenheit für den Wahlkampf deutlich. Jang sandte eine Unterstützungsbotschaft, indem er sinngemäß sagte, Lee habe den Platz als Topstar der Parlamentsprüfung bereits reserviert. Die Veranstaltung gilt als Schritt zur Festigung der lokalen Organisation und Unterstützungsbasis vor der Nachwahl. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Lee Jin-sook ouvre son bureau pour la partielle de Daegu Dalseong",
-        "excerpt": "Lee Jin-sook, précandidate du People Power Party à l’élection partielle législative de Daegu Dalseong-gun, a ouvert le 10 son bureau de campagne avec le soutien de la direction du parti.",
-        "body": "Lee Jin-sook, précandidate du People Power Party à l’élection partielle de l’Assemblée nationale à Daegu Dalseong-gun, a ouvert le 10 son bureau de campagne et entrepris de rassembler sa base de soutien. La cérémonie s’est tenue avec l’appui de la direction du parti, et le chef du parti Jang Dong-hyeok y a assisté pour apporter son soutien. Lee a déclaré qu’elle consacrerait sa dernière passion à la démocratie libérale, affichant sa détermination pour la campagne. Jang a envoyé un message de soutien en affirmant, en substance, que Lee avait déjà réservé sa place de grande vedette de l’audit parlementaire. L’événement est perçu comme une étape pour consolider l’organisation locale et la base de soutien avant la partielle. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "لي جين سوك تفتتح مكتب حملتها لانتخابات دايغو دالسونغ بدعم حزبي",
-        "excerpt": "افتتحت لي جين سوك، المرشحة التمهيدية عن حزب قوة الشعب في الانتخابات البرلمانية التكميلية بدائرة دايغو دالسونغ، مكتب حملتها يوم 10 بدعم من قيادة الحزب.",
-        "body": "افتتحت لي جين سوك، المرشحة التمهيدية عن حزب قوة الشعب في الانتخابات التكميلية للجمعية الوطنية عن دايغو دالسونغ، مكتب حملتها يوم 10 وبدأت حشد قاعدة مؤيديها. وجرت مراسم الافتتاح بدعم من قيادة الحزب، وحضر رئيس حزب قوة الشعب جانغ دونغ هيوك لتقديم الدعم. وقالت لي إنها ستكرس حماسها الأخير من أجل الديمقراطية الليبرالية، مظهرة عزمها على خوض السباق. ووجه جانغ رسالة دعم قال فيها، بمعنى الكلام، إن لي حجزت موقع النجمة الأبرز في التفتيش البرلماني. ويُنظر إلى الحدث بوصفه مناسبة لتعزيز التنظيم المحلي وقاعدة الدعم قبل الانتخابات التكميلية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "डेगू डालसोंग उपचुनाव के लिए ली जिन-सूक ने खोला चुनाव कार्यालय",
-        "excerpt": "पीपल पावर पार्टी की डेगू डालसोंग-गुन संसदीय उपचुनाव की प्रारंभिक उम्मीदवार ली जिन-सूक ने 10 तारीख को पार्टी नेतृत्व के समर्थन के बीच चुनाव कार्यालय खोला।",
-        "body": "पीपल पावर पार्टी की डेगू डालसोंग-गुन नेशनल असेंबली उपचुनाव की प्रारंभिक उम्मीदवार ली जिन-सूक ने 10 तारीख को अपना चुनाव कार्यालय खोला और समर्थक आधार को संगठित करने की शुरुआत की। यह उद्घाटन पार्टी नेतृत्व के समर्थन के बीच हुआ, और पीपल पावर पार्टी के नेता जांग डोंग-ह्योक उपस्थित होकर समर्थन देने पहुंचे। ली ने कहा कि वह उदार लोकतंत्र के लिए अपना अंतिम उत्साह समर्पित करेंगी, जिससे चुनावी मुकाबले को लेकर उनका संकल्प सामने आया। जांग ने समर्थन संदेश देते हुए कहा कि ली ने संसदीय ऑडिट की शीर्ष स्टार की जगह लगभग तय कर ली है। यह कार्यक्रम उपचुनाव से पहले स्थानीय संगठन और समर्थन आधार को मजबूत करने का अवसर माना जा रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Lee Jin-sook Buka Kantor Kampanye Pilkada Sela Daegu Dalseong",
-        "excerpt": "Lee Jin-sook, bakal calon Partai Kekuatan Rakyat untuk pemilihan sela anggota Majelis Nasional di Daegu Dalseong-gun, membuka kantor kampanye pada tanggal 10 dengan dukungan pimpinan partai.",
-        "body": "Lee Jin-sook, bakal calon Partai Kekuatan Rakyat dalam pemilihan sela anggota Majelis Nasional untuk Daegu Dalseong-gun, membuka kantor kampanye pada tanggal 10 dan mulai mengonsolidasikan basis pendukungnya. Acara pembukaan berlangsung dengan dukungan pimpinan partai, sementara Ketua Partai Kekuatan Rakyat Jang Dong-hyeok hadir untuk memberi dukungan. Lee menyatakan akan mencurahkan semangat terakhirnya bagi demokrasi liberal, menunjukkan tekadnya menghadapi kontestasi. Jang menyampaikan pesan dukungan dengan menyebut, pada intinya, bahwa Lee telah memesan posisi sebagai bintang utama audit parlemen. Acara ini dipandang sebagai momentum memperkuat organisasi lokal dan basis dukungan menjelang pemilihan sela. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4bd6794294f5",
-    "slug": "단독-미분양됐다고-세금-수억-내라니-서민주택-빌라-공급감소-우려-238760",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T20:26:13.636Z",
-    "updatedAt": "2026-05-10T20:26:13.636Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042806",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042806",
-    "titleFingerprint": "ff0a6721962e878533c8889a6e0ff309d8128825",
-    "dedupKeys": [
-      "4bd6794294f5fe84ec191ba0b556bbdc7b51090a",
-      "ff0a6721962e878533c8889a6e0ff309d8128825",
-      "ab933a02d093bcfaa67777ea797e3719bfda0b19"
-    ],
-    "imageUrl": "/images/articles/4bd6794294f5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "빌라 미분양 취득세 추징 위기…서민주택 공급감소 우려 커진다",
-        "excerpt": "소규모 빌라 건축주들이 신축 빌라 분양 실패 뒤 수억 원대 취득세 추징 위기에 놓이면서 서민 주거의 징검다리였던 빌라 공급 감소 우려가 커지고 있다.",
-        "body": "소규모 빌라 건축주들이 신축 빌라를 분양하지 못한 뒤 수억 원대 취득세를 추징받을 위기에 놓였다. 원문에 따르면 미분양이 발생한 건축주들에게 세금 부담이 더해지면서 자금난이 커지고 있다. 빌라는 그동안 아파트 진입이 어려운 서민층에게 주거의 ‘징검다리’ 역할을 해왔지만, 공급 주체인 소규모 건축주들의 부담이 커질 경우 신규 공급이 위축될 수 있다는 우려가 제기된다. 분양 실패가 세금 리스크로 이어지는 구조가 지속되면 빌라 시장의 공급 여건은 더 나빠질 가능성이 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Unsold Villa Tax Bills Raise Fears of Shrinking Affordable Housing Supply",
-        "excerpt": "Small-scale villa builders face the risk of paying hundreds of millions of won in acquisition tax after failed sales of newly built units, raising concerns over reduced affordable housing supply.",
-        "body": "Small-scale villa builders are facing the risk of being charged hundreds of millions of won in acquisition tax after failing to sell newly built villa units. According to the original report, the additional tax burden is deepening financial pressure on builders affected by unsold inventory. Villas have served as a housing bridge for lower-income households that find it difficult to enter the apartment market. If the financial strain on these small builders grows, concerns are rising that new villa supply could shrink. A structure in which sales failure leads to tax risk may further weaken supply conditions in the villa market. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "新築ビラ未分譲で取得税追徴の危機、庶民住宅の供給減懸念",
-        "excerpt": "小規模ビラ建築主が新築ビラの分譲失敗後、数億ウォン規模の取得税追徴に直面し、庶民住宅の橋渡し役だったビラ供給減への懸念が広がっている。",
-        "body": "小規模ビラ建築主が新築ビラを分譲できなかった後、数億ウォン規模の取得税を追徴される危機に直面している。原文によると、未分譲が発生した建築主に税負担が加わり、資金難が深まっている。ビラはこれまで、マンション取得が難しい庶民層にとって住まいの「橋渡し」の役割を果たしてきた。しかし、供給主体である小規模建築主の負担が増えれば、新規供給が萎縮する可能性があるとの懸念が出ている。分譲失敗が税務リスクにつながる構造が続けば、ビラ市場の供給環境はさらに悪化する可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "新建联排住宅滞销引发取得税追缴风险，平民住房供应恐减少",
-        "excerpt": "小规模联排住宅建造方因新建住房销售失败，面临数亿韩元取得税追缴风险，市场担忧曾承担平民住房过渡作用的住宅供应将减少。",
-        "body": "小规模联排住宅建造方在新建住宅未能售出后，正面临被追缴数亿韩元取得税的风险。原文称，出现滞销的建造方面临额外税负，资金压力正在加重。此类住宅此前一直为难以进入公寓市场的普通家庭发挥住房“过渡桥梁”作用。但如果作为供应主体的小规模建造方负担继续上升，新供应可能受到抑制，相关担忧正在扩大。若销售失败继续转化为税务风险，联排住宅市场的供应条件可能进一步恶化。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Impuesto a villas sin vender enciende alarma por menor oferta de vivienda asequible",
-        "excerpt": "Pequeños constructores de villas afrontan posibles cobros de cientos de millones de wones en impuesto de adquisición tras no vender nuevas unidades, lo que eleva el temor a menor oferta popular.",
-        "body": "Pequeños constructores de villas afrontan el riesgo de recibir cobros de cientos de millones de wones en impuesto de adquisición tras no lograr vender unidades recién construidas. Según el reporte original, la carga fiscal adicional está agravando las dificultades de financiación de los constructores con inventario sin vender. Las villas han funcionado como una vivienda puente para hogares de menores ingresos que tienen dificultades para acceder al mercado de apartamentos. Si aumenta la presión sobre estos pequeños proveedores, crece la preocupación de que la nueva oferta de villas se reduzca. Si la falta de ventas sigue convirtiéndose en riesgo fiscal, las condiciones de suministro del mercado podrían deteriorarse. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Imposto sobre vilas não vendidas acende temor de queda na oferta popular",
-        "excerpt": "Pequenos construtores de vilas enfrentam risco de pagar centenas de milhões de won em imposto de aquisição após falha nas vendas, elevando a preocupação com menor oferta habitacional acessível.",
-        "body": "Pequenos construtores de vilas enfrentam o risco de serem cobrados em centenas de milhões de won em imposto de aquisição depois de não conseguirem vender unidades recém-construídas. Segundo o texto original, a carga tributária adicional está ampliando as dificuldades financeiras dos construtores afetados por imóveis não vendidos. As vilas têm servido como uma ponte habitacional para famílias de menor renda que têm dificuldade de entrar no mercado de apartamentos. Se a pressão sobre esses pequenos fornecedores aumentar, cresce a preocupação de que a nova oferta de vilas diminua. Caso a falha nas vendas continue levando a risco tributário, as condições de oferta do mercado podem piorar. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Steuern auf unverkaufte Villen schüren Sorge um weniger bezahlbaren Wohnraum",
-        "excerpt": "Kleine Villa-Bauherren riskieren nach gescheitertem Verkauf neuer Einheiten Erwerbsteuerforderungen in Milliarden-Won-Höhe, was Sorgen über ein sinkendes Angebot an günstigem Wohnraum verstärkt.",
-        "body": "Kleine Bauherren von Villen stehen vor dem Risiko, nach dem gescheiterten Verkauf neu gebauter Einheiten Erwerbsteuer in Höhe von mehreren hundert Millionen Won zahlen zu müssen. Dem Originalbericht zufolge verschärft die zusätzliche Steuerlast die Finanzierungsprobleme der von unverkauften Beständen betroffenen Bauherren. Villen galten bisher als Wohnbrücke für Haushalte mit geringem Einkommen, denen der Einstieg in den Apartmentmarkt schwerfällt. Wenn die Belastung der kleinen Anbieter zunimmt, wächst die Sorge, dass das neue Angebot an Villen zurückgeht. Setzt sich eine Struktur fort, in der Verkaufsfehlschläge zu Steuerrisiken werden, könnten sich die Angebotsbedingungen im Villenmarkt weiter verschlechtern. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Taxes sur villas invendues: inquiétude pour l’offre de logements abordables",
-        "excerpt": "De petits constructeurs de villas risquent des redressements de taxe d’acquisition de plusieurs centaines de millions de wons après des ventes ratées, alimentant les craintes sur l’offre populaire.",
-        "body": "De petits constructeurs de villas risquent de devoir payer plusieurs centaines de millions de wons de taxe d’acquisition après avoir échoué à vendre des unités neuves. Selon le texte original, cette charge fiscale supplémentaire aggrave les difficultés de financement des constructeurs touchés par les invendus. Les villas ont jusqu’ici joué un rôle de passerelle résidentielle pour les ménages modestes qui peinent à accéder au marché des appartements. Si la pression financière sur ces petits fournisseurs augmente, les inquiétudes grandissent quant à un recul de la nouvelle offre de villas. Si l’échec des ventes continue de se transformer en risque fiscal, les conditions d’approvisionnement du marché pourraient se détériorer. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ضرائب على الفلل غير المباعة تثير مخاوف من تراجع مساكن ذوي الدخل المحدود",
-        "excerpt": "يواجه صغار بناة الفلل خطر تحصيل ضرائب استحواذ بمئات الملايين من الوونات بعد فشل بيع وحدات جديدة، ما يزيد القلق بشأن تراجع المعروض السكني الميسر.",
-        "body": "يواجه صغار بناة الفلل خطر فرض ضرائب استحواذ تصل إلى مئات الملايين من الوونات بعد عدم تمكنهم من بيع فلل جديدة. ووفق النص الأصلي، فإن العبء الضريبي الإضافي يزيد الضغوط المالية على البناة الذين تعرضوا لمخزون غير مباع. وقد أدت الفلل دور جسر سكني للأسر محدودة الدخل التي يصعب عليها دخول سوق الشقق. وإذا زادت الأعباء على صغار مزودي هذا النوع من السكن، فقد يتراجع المعروض الجديد، وهو ما يثير القلق. استمرار تحول فشل البيع إلى مخاطر ضريبية قد يضعف ظروف العرض في سوق الفلل أكثر. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "न बिके विला पर अधिग्रहण कर का खतरा, किफायती आवास आपूर्ति घटने की आशंका",
-        "excerpt": "छोटे विला बिल्डरों को नई इकाइयां न बिकने के बाद करोड़ों वोन के अधिग्रहण कर वसूली जोखिम का सामना है, जिससे आम लोगों के लिए आवास आपूर्ति घटने की चिंता बढ़ी है।",
-        "body": "छोटे विला बिल्डरों को नए बने विला न बिकने के बाद करोड़ों वोन के अधिग्रहण कर की वसूली का खतरा झेलना पड़ रहा है। मूल रिपोर्ट के अनुसार, बिना बिके मकानों से प्रभावित बिल्डरों पर अतिरिक्त कर बोझ पड़ने से उनकी वित्तीय कठिनाइयां बढ़ रही हैं। विला अब तक उन निम्न आय वर्ग के परिवारों के लिए आवासीय सेतु की भूमिका निभाते रहे हैं, जिनके लिए अपार्टमेंट बाजार में प्रवेश मुश्किल है। यदि आपूर्ति करने वाले छोटे बिल्डरों पर दबाव और बढ़ता है, तो नई विला आपूर्ति सिकुड़ने की आशंका जताई जा रही है। बिक्री विफलता के कर जोखिम में बदलने की स्थिति जारी रही तो विला बाजार की आपूर्ति परिस्थितियां और खराब हो सकती हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pajak Vila Tak Terjual Picu Kekhawatiran Pasokan Hunian Terjangkau Menurun",
-        "excerpt": "Pengembang vila skala kecil menghadapi risiko tagihan pajak akuisisi ratusan juta won setelah gagal menjual unit baru, memicu kekhawatiran pasokan hunian terjangkau berkurang.",
-        "body": "Pengembang vila skala kecil menghadapi risiko dikenai pajak akuisisi hingga ratusan juta won setelah gagal menjual vila yang baru dibangun. Menurut laporan asli, beban pajak tambahan memperberat kesulitan pendanaan para pengembang yang terdampak unit tak terjual. Vila selama ini berperan sebagai jembatan hunian bagi kelompok masyarakat berpenghasilan rendah yang sulit masuk ke pasar apartemen. Jika beban para pengembang kecil sebagai pemasok utama meningkat, kekhawatiran muncul bahwa pasokan vila baru dapat menyusut. Apabila kegagalan penjualan terus berubah menjadi risiko pajak, kondisi pasokan di pasar vila bisa semakin memburuk. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "913742dc67fc",
-    "slug": "백악관-트럼프-방중서-미중투자위-설립이란-문제도-논의-402006",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T20:25:15.286Z",
-    "updatedAt": "2026-05-10T20:25:15.286Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12042839",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12042839",
-    "titleFingerprint": "d1f4537d6ac02211df3eb70dac2c3ca91d9be382",
-    "dedupKeys": [
-      "913742dc67fc129c8c43055d0b8b0326e6c2f1f9",
-      "d1f4537d6ac02211df3eb70dac2c3ca91d9be382",
-      "3b45b8e61687882ad09625274385983cc7c886fb"
-    ],
-    "imageUrl": "/images/articles/913742dc67fc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프 방중 앞두고 미중투자위 설립 논의…이란 문제도 정상회담 의제",
-        "excerpt": "백악관은 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 오는 14일 오전 베이징에서 정상회담을 열고 미중투자위 설립과 이란 문제 등을 논의한다고 밝혔다.",
-        "body": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석은 중국 현지시간으로 오는 14일 오전 베이징에서 정상회담을 진행한다. 백악관은 이번 트럼프 대통령 방중에서 미중투자위원회 설립과 이란 문제가 논의될 예정이라고 밝혔다. 원문에 따르면 무역위원회는 양국 무역을 관리하는 구조가 될 것으로 보이며, 투자위원회는 투자 관련 현안을 논의하는 포럼 성격을 가질 것으로 전해졌다. 이번 회담은 미중 간 무역 관리와 투자 현안 논의의 틀을 마련할 수 있다는 점에서 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Trump China visit to discuss US-China investment panel and Iran issue at summit",
-        "excerpt": "The White House said Donald Trump and Xi Jinping will meet in Beijing on the morning of the 14th to discuss a US-China investment committee and the Iran issue.",
-        "body": "US President Donald Trump and Chinese President Xi Jinping will hold a summit in Beijing on the morning of the 14th, China local time. The White House said Trump’s visit to China will include discussions on establishing a US-China Investment Committee and on the Iran issue. According to the original report, a trade committee is expected to become a structure for managing trade between the two countries, while the investment committee will also serve as a forum for discussing investment-related issues. The meeting is drawing attention as it may set a framework for managing US-China trade and investment talks. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "トランプ氏訪中で米中投資委設立を協議へ、イラン問題も首脳会談の議題に",
-        "excerpt": "ホワイトハウスは、トランプ米大統領と習近平中国国家主席が14日午前に北京で首脳会談を行い、米中投資委員会設立とイラン問題を協議すると明らかにした。",
-        "body": "ドナルド・トランプ米大統領と習近平中国国家主席は、中国現地時間の14日午前、北京で首脳会談を行う。ホワイトハウスは、今回のトランプ大統領の訪中で米中投資委員会の設立とイラン問題が協議される予定だと明らかにした。原文によると、貿易委員会は両国の貿易を管理する仕組みになるとみられ、投資委員会は投資関連の懸案を話し合うフォーラムの性格も持つという。今回の会談は、米中間の貿易管理と投資懸案協議の枠組みを整える可能性がある点で注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "特朗普访华将讨论设立美中投资委员会，伊朗问题也列入会谈议程",
-        "excerpt": "白宫表示，特朗普与习近平将于中国当地时间14日上午在北京举行首脑会谈，讨论设立美中投资委员会以及伊朗问题等议题。",
-        "body": "美国总统唐纳德·特朗普与中国国家主席习近平将于中国当地时间14日上午在北京举行首脑会谈。白宫表示，特朗普此次访华期间，双方预计将讨论设立美中投资委员会以及伊朗问题。根据原文，贸易委员会预计将成为管理两国贸易的架构，而投资委员会也将具有讨论投资相关悬案的论坛性质。此次会谈因可能为美中贸易管理和投资议题磋商建立框架而受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Visita de Trump a China abordará comité de inversión bilateral y el tema Irán",
-        "excerpt": "La Casa Blanca dijo que Donald Trump y Xi Jinping se reunirán en Pekín la mañana del día 14 para tratar la creación de un comité de inversión EE.UU.-China y el tema de Irán.",
-        "body": "El presidente estadounidense Donald Trump y el presidente chino Xi Jinping celebrarán una cumbre en Pekín la mañana del día 14, hora local de China. La Casa Blanca informó que durante la visita de Trump a China se discutirá la creación de un Comité de Inversión EE.UU.-China y también el tema de Irán. Según el texto original, el comité de comercio parece destinado a convertirse en una estructura para gestionar el comercio bilateral, mientras que el comité de inversión tendría además el carácter de foro para tratar asuntos relacionados con la inversión. La reunión llama la atención porque podría establecer un marco para gestionar el comercio y los temas de inversión entre ambos países. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Visita de Trump à China discutirá comitê de investimento e questão do Irã",
-        "excerpt": "A Casa Branca afirmou que Donald Trump e Xi Jinping se reunirão em Pequim na manhã do dia 14 para discutir a criação de um comitê de investimento EUA-China e a questão do Irã.",
-        "body": "O presidente dos Estados Unidos, Donald Trump, e o presidente da China, Xi Jinping, realizarão uma cúpula em Pequim na manhã do dia 14, no horário local chinês. A Casa Branca informou que, durante a visita de Trump à China, serão discutidas a criação de um Comitê de Investimento EUA-China e a questão do Irã. Segundo o texto original, o comitê de comércio deve funcionar como uma estrutura para administrar o comércio entre os dois países, enquanto o comitê de investimento também terá caráter de fórum para tratar de temas ligados a investimentos. A reunião chama atenção por poder criar uma base para a gestão do comércio e das pautas de investimento entre EUA e China. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Trump-Besuch in China: US-chinesischer Investitionsausschuss und Iran im Fokus",
-        "excerpt": "Das Weiße Haus erklärte, Donald Trump und Xi Jinping würden am Morgen des 14. in Peking über einen US-chinesischen Investitionsausschuss und die Iran-Frage beraten.",
-        "body": "US-Präsident Donald Trump und Chinas Staatspräsident Xi Jinping werden am Morgen des 14. nach chinesischer Ortszeit in Peking ein Gipfeltreffen abhalten. Das Weiße Haus teilte mit, dass bei Trumps China-Besuch die Einrichtung eines US-chinesischen Investitionsausschusses sowie die Iran-Frage besprochen werden sollen. Dem Originalbericht zufolge dürfte ein Handelsausschuss zu einer Struktur für die Verwaltung des Handels zwischen beiden Ländern werden, während der Investitionsausschuss zugleich den Charakter eines Forums für investitionsbezogene Themen haben soll. Das Treffen steht im Fokus, weil es einen Rahmen für Handelsmanagement und Investitionsgespräche zwischen den USA und China schaffen könnte. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Visite de Trump en Chine: comité d’investissement sino-américain et Iran au menu",
-        "excerpt": "La Maison-Blanche a indiqué que Donald Trump et Xi Jinping tiendront un sommet à Pékin le matin du 14 pour discuter d’un comité d’investissement États-Unis-Chine et du dossier iranien.",
-        "body": "Le président américain Donald Trump et le président chinois Xi Jinping tiendront un sommet à Pékin le matin du 14, heure locale chinoise. La Maison-Blanche a indiqué que la visite de Trump en Chine inclura des discussions sur la création d’un comité d’investissement États-Unis-Chine ainsi que sur la question iranienne. Selon le texte original, le comité commercial devrait devenir une structure de gestion du commerce entre les deux pays, tandis que le comité d’investissement aurait aussi le rôle d’un forum consacré aux sujets liés à l’investissement. Cette rencontre retient l’attention car elle pourrait établir un cadre pour la gestion du commerce et des dossiers d’investissement entre les deux pays. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "زيارة ترامب إلى الصين تبحث لجنة استثمار أمريكية صينية وملف إيران في القمة",
-        "excerpt": "قال البيت الأبيض إن دونالد ترامب وشي جين بينغ سيعقدان قمة في بكين صباح يوم 14 بالتوقيت المحلي لبحث إنشاء لجنة استثمار أمريكية صينية وقضية إيران.",
-        "body": "يعقد الرئيس الأمريكي دونالد ترامب والرئيس الصيني شي جين بينغ قمة في بكين صباح يوم 14 بالتوقيت المحلي في الصين. وقال البيت الأبيض إن زيارة ترامب إلى الصين ستتضمن بحث إنشاء لجنة استثمار أمريكية صينية، إضافة إلى مناقشة قضية إيران. ووفق النص الأصلي، من المتوقع أن تصبح لجنة التجارة هيكلا لإدارة التجارة بين البلدين، بينما ستكون لجنة الاستثمار ذات طابع منتدى لبحث القضايا المتعلقة بالاستثمار. وتحظى القمة باهتمام لأنها قد تضع إطارا لإدارة التجارة ومناقشة ملفات الاستثمار بين الولايات المتحدة والصين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ट्रंप की चीन यात्रा में अमेरिका-चीन निवेश समिति और ईरान मुद्दे पर चर्चा",
-        "excerpt": "व्हाइट हाउस ने कहा कि डोनाल्ड ट्रंप और शी जिनपिंग चीन के स्थानीय समयानुसार 14 तारीख की सुबह बीजिंग में शिखर बैठक करेंगे, जिसमें अमेरिका-चीन निवेश समिति और ईरान मुद्दे पर चर्चा होगी।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीन के राष्ट्रपति शी जिनपिंग चीन के स्थानीय समयानुसार 14 तारीख की सुबह बीजिंग में शिखर बैठक करेंगे। व्हाइट हाउस के अनुसार, ट्रंप की इस चीन यात्रा में अमेरिका-चीन निवेश समिति की स्थापना और ईरान मुद्दे पर चर्चा होने की योजना है। मूल रिपोर्ट के अनुसार, व्यापार समिति दोनों देशों के व्यापार को प्रबंधित करने वाली संरचना बन सकती है, जबकि निवेश समिति निवेश से जुड़े लंबित मुद्दों पर चर्चा करने वाले मंच का स्वरूप भी रखेगी। यह बैठक इसलिए ध्यान में है क्योंकि इससे अमेरिका-चीन व्यापार प्रबंधन और निवेश मुद्दों पर बातचीत के लिए ढांचा बन सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kunjungan Trump ke China bahas komite investasi AS-China dan isu Iran",
-        "excerpt": "Gedung Putih menyatakan Donald Trump dan Xi Jinping akan menggelar KTT di Beijing pada pagi hari tanggal 14 untuk membahas pembentukan komite investasi AS-China dan isu Iran.",
-        "body": "Presiden Amerika Serikat Donald Trump dan Presiden China Xi Jinping akan menggelar pertemuan puncak di Beijing pada pagi hari tanggal 14 waktu setempat China. Gedung Putih menyatakan bahwa dalam kunjungan Trump ke China kali ini, pembentukan Komite Investasi AS-China dan isu Iran akan dibahas. Menurut teks asli, komite perdagangan diperkirakan akan menjadi struktur yang mengelola perdagangan kedua negara, sementara komite investasi juga akan berfungsi sebagai forum untuk membahas isu-isu terkait investasi. Pertemuan ini mendapat perhatian karena dapat membentuk kerangka untuk pengelolaan perdagangan dan pembahasan isu investasi antara AS dan China. Sumber: mk.co.kr"
       }
     }
   }
