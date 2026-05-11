@@ -1,5 +1,230 @@
 [
   {
+    "id": "fb00e750480f",
+    "slug": "삼성-파업에-질주한-마이크론월가-이런-게-보이면-팔아라-김현석의-월스트리트나우-419258",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T23:35:37.073Z",
+    "updatedAt": "2026-05-11T23:35:37.073Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605129402i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605129402i",
+    "titleFingerprint": "c28c922efba92b25a3b5d2eb6a9950cfeae0aec6",
+    "dedupKeys": [
+      "fb00e750480feb0b81db152c64732d2fd8579142",
+      "c28c922efba92b25a3b5d2eb6a9950cfeae0aec6",
+      "e9922b897300b78ad22460a6e0a741149e69156a"
+    ],
+    "imageUrl": "/images/articles/fb00e750480f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성 파업 속 마이크론 급등…월가가 경고한 매도 신호는",
+        "excerpt": "한국경제는 삼성 파업 이슈 속에서 마이크론 주가가 질주했고, 월가가 특정 신호를 매도 판단의 기준으로 언급했다고 보도했다.",
+        "body": "한국경제(hankyung.com)의 ‘김현석의 월스트리트나우’는 삼성 파업 이슈가 부각되는 가운데 마이크론이 강하게 올랐다고 전했다. 기사 제목은 삼성 파업과 마이크론의 질주, 그리고 월가의 “이런 게 보이면 팔아라”는 경고를 핵심으로 제시했다. 구체적인 요약 정보는 제공되지 않았지만, 보도는 반도체주 흐름과 투자자들의 매도 판단 신호를 함께 다룬 것으로 정리된다. 시장 영향은 삼성 관련 노사 변수와 마이크론 주가 움직임이 반도체 투자 심리에 어떤 의미를 갖는지에 초점이 맞춰진다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Micron Rallies as Samsung Strike Looms; Wall Street Flags Sell Signal",
+        "excerpt": "Hankyung reported that Micron surged amid Samsung strike concerns, while Wall Street pointed to a market signal investors should watch for selling.",
+        "body": "Hankyung.com’s ‘Kim Hyun-seok’s Wall Street Now’ reported that Micron advanced sharply as Samsung’s strike issue drew market attention. The headline centers on Samsung’s labor action, Micron’s rally, and Wall Street’s warning that investors should sell when a certain signal appears. No detailed summary was provided, so the article can only be framed around the stated facts: semiconductor stock momentum, Samsung-related labor risk, and Wall Street’s sell-signal message. The market focus is whether Samsung’s labor variable and Micron’s stock move affect sentiment toward memory and broader chip shares. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "サムスンストでマイクロン急伸、ウォール街が示した売りシグナル",
+        "excerpt": "韓国経済は、サムスンのスト問題が浮上するなかマイクロン株が上昇し、ウォール街が売り判断のシグナルに言及したと報じた。",
+        "body": "韓国経済（hankyung.com）の『キム・ヒョンソクのウォールストリートナウ』は、サムスンのストライキ問題が注目されるなか、マイクロンが力強く上昇したと伝えた。見出しはサムスンのスト、マイクロンの急伸、そしてウォール街の「こうしたものが見えたら売れ」という警告を軸にしている。詳細な要約は示されていないため、確認できる事実は半導体株の動き、サムスン関連の労使リスク、ウォール街の売りシグナルへの言及に限られる。市場の焦点は、この材料がメモリー株と半導体投資心理に与える影響だ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "三星罢工背景下美光大涨，华尔街提示卖出信号",
+        "excerpt": "韩国经济报道，在三星罢工议题升温之际，美光股价加速上涨，华尔街则提到投资者应关注的卖出信号。",
+        "body": "韩国经济（hankyung.com）的《金贤锡的华尔街Now》报道称，在三星罢工问题受到关注的背景下，美光股价强劲上涨。标题聚焦三星罢工、美光上涨，以及华尔街“看到这种情况就卖出”的警示。由于未提供具体摘要，可确认的信息限于半导体股走势、三星相关劳资变量，以及华尔街对卖出信号的提醒。市场影响主要在于，三星劳资风险和美光股价变化是否会影响存储芯片及更广泛半导体板块的投资情绪。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Micron sube con la huelga de Samsung; Wall Street advierte señal de venta",
+        "excerpt": "Hankyung informó que Micron avanzó con fuerza en medio del conflicto laboral de Samsung, mientras Wall Street señaló una referencia para vender.",
+        "body": "Hankyung.com, en ‘Kim Hyun-seok’s Wall Street Now’, informó que Micron subió con fuerza mientras el mercado observaba el tema de la huelga en Samsung. El titular se centra en la huelga de Samsung, el avance de Micron y la advertencia de Wall Street de vender cuando aparezca cierta señal. No se ofreció un resumen detallado, por lo que los hechos disponibles se limitan al movimiento de las acciones de semiconductores, el riesgo laboral vinculado a Samsung y la mención de una señal de venta. El impacto de mercado se enfoca en cómo estos factores afectan el ánimo inversor hacia memorias y chips. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Micron dispara com greve da Samsung; Wall Street alerta para sinal de venda",
+        "excerpt": "O Hankyung informou que a Micron avançou em meio à questão da greve na Samsung, enquanto Wall Street citou um sinal a observar para vender.",
+        "body": "O Hankyung.com, em ‘Kim Hyun-seok’s Wall Street Now’, informou que a Micron subiu com força enquanto a questão da greve na Samsung ganhava atenção do mercado. A manchete destaca a greve da Samsung, a arrancada da Micron e o alerta de Wall Street de vender quando determinado sinal aparecer. Como não foi fornecido um resumo detalhado, os fatos confirmados se limitam ao movimento das ações de semicondutores, ao risco trabalhista ligado à Samsung e à menção de um sinal de venda. O foco do mercado é o efeito desses fatores sobre o sentimento em memória e chips. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Micron steigt wegen Samsung-Streik; Wall Street warnt vor Verkaufssignal",
+        "excerpt": "Hankyung berichtete, dass Micron im Umfeld des Samsung-Streiks stark zulegte, während die Wall Street ein Verkaufssignal hervorhob.",
+        "body": "Hankyung.com berichtete in ‘Kim Hyun-seok’s Wall Street Now’, dass Micron deutlich zulegte, während der Samsung-Streik am Markt Aufmerksamkeit erhielt. Die Überschrift stellt den Samsung-Streik, die Rally von Micron und die Warnung der Wall Street in den Mittelpunkt, bei einem bestimmten Signal zu verkaufen. Da keine detaillierte Zusammenfassung vorliegt, beschränken sich die bestätigten Fakten auf die Bewegung bei Halbleiteraktien, das Samsung-bezogene Arbeitskampfrisiko und den Hinweis auf ein Verkaufssignal. Entscheidend ist, wie diese Faktoren die Stimmung bei Speicher- und Chipwerten beeinflussen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Micron bondit avec la grève chez Samsung; Wall Street signale quand vendre",
+        "excerpt": "Hankyung a rapporté que Micron progressait fortement alors que la grève chez Samsung attirait l’attention, Wall Street évoquant un signal de vente.",
+        "body": "Hankyung.com, dans ‘Kim Hyun-seok’s Wall Street Now’, a rapporté que Micron avait fortement progressé alors que la question de la grève chez Samsung retenait l’attention du marché. Le titre met en avant la grève de Samsung, la hausse de Micron et l’avertissement de Wall Street invitant à vendre lorsqu’un certain signal apparaît. Aucun résumé détaillé n’étant fourni, les faits confirmés se limitent au mouvement des valeurs de semi-conducteurs, au risque social lié à Samsung et à la mention d’un signal de vente. L’enjeu est l’effet sur le sentiment envers la mémoire et les puces. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "ميكرون تقفز وسط إضراب سامسونغ وول ستريت تشير إلى إشارة بيع",
+        "excerpt": "ذكرت هانكيونغ أن سهم ميكرون صعد بقوة مع بروز قضية إضراب سامسونغ، بينما أشارت وول ستريت إلى إشارة ينبغي مراقبتها للبيع.",
+        "body": "أفاد موقع hankyung.com في مادة «وول ستريت الآن» لكيم هيون سوك بأن ميكرون صعدت بقوة بينما جذبت قضية إضراب سامسونغ انتباه السوق. يركز العنوان على إضراب سامسونغ، واندفاع سهم ميكرون، وتحذير وول ستريت من البيع عند ظهور إشارة معينة. وبما أنه لم يتم تقديم ملخص تفصيلي، فإن الوقائع المتاحة تقتصر على حركة أسهم أشباه الموصلات، ومخاطر العمل المرتبطة بسامسونغ، والإشارة إلى معيار للبيع. ينصب تأثير السوق على ما إذا كانت هذه العوامل ستؤثر في معنويات الاستثمار تجاه الذاكرة والرقائق. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "सैमसंग हड़ताल के बीच माइक्रोन तेज, वॉल स्ट्रीट ने बिक्री संकेत बताया",
+        "excerpt": "हैंक्युंग ने बताया कि सैमसंग हड़ताल मुद्दे के बीच माइक्रोन में तेज बढ़त दिखी, जबकि वॉल स्ट्रीट ने बेचने के लिए एक संकेत पर ध्यान दिलाया।",
+        "body": "hankyung.com के ‘किम ह्युन-सोक्स वॉल स्ट्रीट नाउ’ ने बताया कि सैमसंग की हड़ताल का मुद्दा बाजार में उभरने के बीच माइक्रोन में मजबूत तेजी आई। शीर्षक सैमसंग हड़ताल, माइक्रोन की तेजी और वॉल स्ट्रीट की इस चेतावनी पर केंद्रित है कि ऐसा संकेत दिखे तो बेचना चाहिए। विस्तृत सार उपलब्ध नहीं है, इसलिए पुष्ट तथ्य अर्धचालक शेयरों की चाल, सैमसंग से जुड़ा श्रम जोखिम और बिक्री संकेत के उल्लेख तक सीमित हैं। बाजार का ध्यान इस बात पर है कि ये कारक मेमोरी और व्यापक चिप शेयरों की निवेश धारणा को कैसे प्रभावित करते हैं। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Micron melesat di tengah mogok Samsung; Wall Street beri sinyal jual",
+        "excerpt": "Hankyung melaporkan Micron menguat tajam saat isu mogok Samsung mencuat, sementara Wall Street menyoroti sinyal yang perlu diperhatikan untuk menjual.",
+        "body": "Hankyung.com dalam ‘Kim Hyun-seok’s Wall Street Now’ melaporkan bahwa Micron naik kuat ketika isu mogok Samsung menarik perhatian pasar. Judul berita menyoroti mogok Samsung, laju kenaikan Micron, serta peringatan Wall Street bahwa investor perlu menjual saat sinyal tertentu terlihat. Karena ringkasan rinci tidak tersedia, fakta yang dapat dipastikan terbatas pada pergerakan saham semikonduktor, risiko ketenagakerjaan terkait Samsung, dan penyebutan sinyal jual. Fokus pasar adalah apakah faktor tersebut memengaruhi sentimen terhadap saham memori dan chip secara luas. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "8fa82fc793cf",
+    "slug": "s-oil-종전-후에도-유가정제마진-변동성-불가피목표가-신한-757613",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T23:34:14.998Z",
+    "updatedAt": "2026-05-11T23:34:14.998Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051295596",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051295596",
+    "titleFingerprint": "0ef6f63a77079ff8bb85c67f1cc54c7b2aee8d18",
+    "dedupKeys": [
+      "8fa82fc793cf2272de8c9768a7e5b7e37754e15d",
+      "0ef6f63a77079ff8bb85c67f1cc54c7b2aee8d18",
+      "5360faa584b016d6dc7aab6342a77225aac68e3d"
+    ],
+    "imageUrl": "/images/articles/8fa82fc793cf.jpg",
+    "i18n": {
+      "ko": {
+        "title": "S-Oil 목표가 상향…종전 뒤 유가·정제마진 변동성 변수",
+        "excerpt": "신한투자증권은 S-Oil에 대해 종전 이후에도 국제유가와 정제마진 변동성이 불가피하다고 보고 목표주가를 상향했다.",
+        "body": "신한투자증권은 S-Oil에 대해 전쟁이 끝난 뒤에도 국제유가와 정제마진의 변동성이 불가피하다고 분석하며 목표주가를 상향했다. 이번 판단은 정유업 실적이 유가 흐름과 제품별 정제마진에 민감하게 움직이는 구조를 반영한 것이다. 종전은 공급 불안 완화 요인이 될 수 있지만, 유가와 정제마진이 안정적으로 고정된다는 의미는 아니라는 점이 핵심이다. 이에 따라 S-Oil 투자 판단에서는 향후 유가 방향, 정제마진 변동 폭, 정유 업황의 지속성이 주요 변수로 제시됐다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "S-Oil Target Price Raised as Oil and Refining Margin Volatility Looms",
+        "excerpt": "Shinhan Investment raised its target price for S-Oil, saying oil prices and refining margins are likely to remain volatile even after the war ends.",
+        "body": "Shinhan Investment Securities raised its target price for S-Oil, analyzing that volatility in international oil prices and refining margins will remain unavoidable even after the war ends. The view reflects the structure of the refining business, where earnings are highly sensitive to crude price trends and product-specific margins. An end to the war may ease supply concerns, but it does not mean oil prices and refining margins will become fixed or stable. For S-Oil, future oil-price direction, the scale of margin swings, and the durability of refining conditions remain the key variables for investors. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "S-Oil目標株価引き上げ、終戦後も原油・精製マージン変動が焦点",
+        "excerpt": "新韓投資証券はS-Oilについて、終戦後も国際原油価格と精製マージンの変動性は避けられないとして目標株価を引き上げた。",
+        "body": "新韓投資証券はS-Oilについて、戦争が終わった後も国際原油価格と精製マージンの変動性は避けられないと分析し、目標株価を引き上げた。今回の判断は、精油業の業績が原油価格の動きと製品別の精製マージンに敏感に左右される構造を反映している。終戦は供給不安を和らげる要因になり得るが、原油価格と精製マージンが安定的に固定されることを意味するわけではない。S-Oilの投資判断では、今後の原油価格の方向、精製マージンの変動幅、精油市況の持続性が主要な変数として示された。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "S-Oil目标价上调，战后油价与炼油利润率波动仍是关键",
+        "excerpt": "新韩投资证券上调S-Oil目标价，认为即使战争结束，国际油价和炼油利润率的波动仍难以避免。",
+        "body": "新韩投资证券上调了S-Oil的目标价，并分析称，即使战争结束，国际油价和炼油利润率的波动仍不可避免。这一判断反映了炼油行业业绩对油价走势和各类产品炼油利润率高度敏感的结构。战争结束可能缓解供应不安，但并不意味着油价和炼油利润率会稳定在固定水平。因此，在判断S-Oil投资价值时，未来油价方向、炼油利润率波动幅度以及炼油景气的持续性被列为主要变量。来源: hankyung.com."
+      },
+      "es": {
+        "title": "S-Oil sube su precio objetivo pese a volatilidad en crudo y márgenes",
+        "excerpt": "Shinhan Investment elevó el precio objetivo de S-Oil al prever que el petróleo y los márgenes de refino seguirán volátiles incluso tras el fin de la guerra.",
+        "body": "Shinhan Investment Securities elevó el precio objetivo de S-Oil al considerar que la volatilidad de los precios internacionales del petróleo y de los márgenes de refino seguirá siendo inevitable incluso después del fin de la guerra. La lectura refleja una estructura en la que los resultados del negocio de refino dependen de forma sensible del precio del crudo y de los márgenes por producto. El fin del conflicto puede aliviar la preocupación por el suministro, pero no implica que el crudo y los márgenes se estabilicen de forma permanente. Para S-Oil, la dirección futura del petróleo, la magnitud de los cambios en los márgenes y la continuidad del ciclo de refino son las variables clave. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "S-Oil tem preço-alvo elevado, mas volatilidade do petróleo segue no radar",
+        "excerpt": "A Shinhan Investment elevou o preço-alvo da S-Oil, avaliando que petróleo e margens de refino devem seguir voláteis mesmo após o fim da guerra.",
+        "body": "A Shinhan Investment Securities elevou o preço-alvo da S-Oil ao avaliar que a volatilidade dos preços internacionais do petróleo e das margens de refino continuará inevitável mesmo depois do fim da guerra. A análise reflete a estrutura do setor de refino, em que os resultados reagem de forma sensível ao movimento do petróleo e às margens por produto. O fim do conflito pode aliviar preocupações de oferta, mas não significa que o petróleo e as margens ficarão estáveis ou fixos. Para a S-Oil, a direção futura do petróleo, a amplitude das oscilações das margens e a sustentação do ciclo de refino seguem como variáveis centrais. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "S-Oil-Kursziel steigt, doch Öl- und Raffineriemargen bleiben volatil",
+        "excerpt": "Shinhan Investment hob das Kursziel für S-Oil an und erwartet auch nach einem Kriegsende anhaltende Volatilität bei Ölpreisen und Raffineriemargen.",
+        "body": "Shinhan Investment Securities hat das Kursziel für S-Oil angehoben und zugleich betont, dass Schwankungen bei internationalen Ölpreisen und Raffineriemargen auch nach einem Kriegsende unvermeidlich bleiben. Die Einschätzung spiegelt die Struktur des Raffineriegeschäfts wider, dessen Ergebnisse stark von Rohölpreisen und produktspezifischen Margen abhängen. Ein Kriegsende kann Versorgungsrisiken mindern, bedeutet aber keine dauerhaft festen oder stabilen Ölpreise und Margen. Für S-Oil bleiben daher die künftige Ölpreisrichtung, die Breite der Margenschwankungen und die Dauerhaftigkeit der Raffineriekonjunktur die zentralen Variablen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "S-Oil voit son objectif relevé, pétrole et marges de raffinage restent volatils",
+        "excerpt": "Shinhan Investment a relevé son objectif sur S-Oil, estimant que le pétrole et les marges de raffinage resteront volatils même après la fin de la guerre.",
+        "body": "Shinhan Investment Securities a relevé son objectif de cours sur S-Oil, estimant que la volatilité des prix internationaux du pétrole et des marges de raffinage restera inévitable même après la fin de la guerre. Cette analyse reflète la structure du raffinage, dont les résultats dépendent fortement de l’évolution du brut et des marges par produit. La fin du conflit peut réduire les inquiétudes sur l’offre, mais elle ne signifie pas que le pétrole et les marges deviendront durablement stables. Pour S-Oil, la trajectoire future du pétrole, l’ampleur des variations de marges et la solidité du cycle du raffinage restent les principales variables. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "رفع السعر المستهدف لسهم S-Oil مع استمرار تقلب النفط وهوامش التكرير",
+        "excerpt": "رفعت شينهان للاستثمار السعر المستهدف لسهم S-Oil، معتبرة أن تقلب أسعار النفط وهوامش التكرير سيبقى قائما حتى بعد انتهاء الحرب.",
+        "body": "رفعت شينهان للاستثمار للأوراق المالية السعر المستهدف لسهم S-Oil، موضحة أن تقلب أسعار النفط العالمية وهوامش التكرير سيظل أمرا لا مفر منه حتى بعد انتهاء الحرب. ويعكس هذا التقييم طبيعة قطاع التكرير، حيث تتأثر الأرباح بشدة باتجاه أسعار الخام وهوامش المنتجات المختلفة. وقد يخفف انتهاء الحرب من مخاوف الإمدادات، لكنه لا يعني أن أسعار النفط وهوامش التكرير ستصبح ثابتة أو مستقرة. وبالنسبة إلى S-Oil، تبقى اتجاهات أسعار النفط المقبلة، وحجم تقلب الهوامش، واستمرارية أوضاع قطاع التكرير هي المتغيرات الأساسية للمستثمرين. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "S-Oil का लक्ष्य मूल्य बढ़ा, युद्ध बाद भी तेल और रिफाइनिंग मार्जिन अस्थिर",
+        "excerpt": "शिनहान इन्वेस्टमेंट ने S-Oil का लक्ष्य मूल्य बढ़ाया और कहा कि युद्ध समाप्त होने के बाद भी तेल कीमतों व रिफाइनिंग मार्जिन में उतार-चढ़ाव बना रहेगा।",
+        "body": "शिनहान इन्वेस्टमेंट सिक्योरिटीज ने S-Oil का लक्ष्य मूल्य बढ़ाया है। उसका विश्लेषण है कि युद्ध समाप्त होने के बाद भी अंतरराष्ट्रीय तेल कीमतों और रिफाइनिंग मार्जिन में उतार-चढ़ाव से बचना कठिन होगा। यह राय रिफाइनिंग उद्योग की उस संरचना को दर्शाती है जिसमें आय कच्चे तेल की दिशा और उत्पाद-वार मार्जिन पर संवेदनशील रूप से निर्भर करती है। युद्ध का अंत आपूर्ति संबंधी चिंता कम कर सकता है, लेकिन इसका अर्थ यह नहीं है कि तेल कीमतें और मार्जिन स्थिर हो जाएंगे। S-Oil के लिए आगे तेल कीमतों की दिशा, मार्जिन में बदलाव की सीमा और रिफाइनिंग बाजार की निरंतरता प्रमुख निवेश कारक रहेंगे। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Target Harga S-Oil Naik, Volatilitas Minyak dan Margin Kilang Tetap Jadi Risiko",
+        "excerpt": "Shinhan Investment menaikkan target harga S-Oil karena menilai harga minyak dan margin kilang tetap bergejolak meski perang berakhir.",
+        "body": "Shinhan Investment Securities menaikkan target harga S-Oil setelah menilai bahwa volatilitas harga minyak internasional dan margin kilang tetap tidak terhindarkan bahkan setelah perang berakhir. Pandangan ini mencerminkan struktur bisnis penyulingan, yang kinerjanya sangat sensitif terhadap arah harga minyak mentah dan margin tiap produk. Berakhirnya perang dapat meredakan kekhawatiran pasokan, tetapi tidak berarti harga minyak dan margin kilang akan menjadi stabil secara tetap. Bagi S-Oil, arah harga minyak ke depan, besarnya perubahan margin, dan keberlanjutan kondisi industri penyulingan menjadi variabel utama bagi investor. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "04fcca44faea",
+    "slug": "삼성sk두산-주가-날더니-결국50대-그룹-시총-5400조-자산-첫-추월-619217",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T23:33:02.045Z",
+    "updatedAt": "2026-05-11T23:33:02.045Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044225",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044225",
+    "titleFingerprint": "68647646b1db59b03bb2177163826fa35fa02bca",
+    "dedupKeys": [
+      "04fcca44faead5505b06470794c053c27b5bcfce",
+      "68647646b1db59b03bb2177163826fa35fa02bca",
+      "a9f9b4155397d7eacfa84a80525e936b263d3e4f"
+    ],
+    "imageUrl": "/images/articles/04fcca44faea.jpg",
+    "i18n": {
+      "ko": {
+        "title": "50대 그룹 시총 5400조 첫 자산 추월…삼성·SK·두산 주가 급등 효과",
+        "excerpt": "국내 50대 그룹 시가총액이 5년 사이 187% 늘어 5400조원에 이르며 처음으로 공정자산을 넘어섰고, 자산 대비 시총 비율은 1.66배로 상승했다.",
+        "body": "국내 50대 그룹의 시가총액이 최근 5년 사이 크게 늘며 처음으로 공정자산 규모를 추월했다. mk.co.kr에 따르면 50대 그룹 시총은 5년 새 187% 증가해 5400조원 수준에 이르렀고, 같은 기간 자산은 51% 늘어나는 데 그쳤다. 이에 따라 자산 대비 시가총액 비율은 0.87배에서 1.66배로 높아졌다. 그룹별로는 두산이 4.39배로 가장 높았고 SK와 삼성이 뒤를 이었다. 삼성, SK, 두산 등 주요 그룹 주가 강세가 전체 시총 확대를 이끈 가운데, 자산 증가 속도보다 시장 평가가 더 빠르게 반영된 흐름으로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Top 50 Korean Groups’ Market Cap Hits 5,400 Trillion Won, Overtaking Assets",
+        "excerpt": "The market value of South Korea’s 50 largest groups rose 187% over five years to about 5,400 trillion won, surpassing fair assets for the first time.",
+        "body": "The combined market capitalization of South Korea’s 50 largest business groups has overtaken their fair asset value for the first time after a sharp rise over the past five years. According to mk.co.kr, their market value increased 187% to around 5,400 trillion won, while assets grew 51% over the same period. As a result, the market-cap-to-asset ratio rose from 0.87 times to 1.66 times. By group, Doosan recorded the highest ratio at 4.39 times, followed by SK and Samsung. Strong share prices at major groups including Samsung, SK and Doosan drove the overall expansion, showing that market valuations have risen faster than asset growth. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国50大グループ時価総額5400兆ウォン、初めて資産を上回る",
+        "excerpt": "韓国50大グループの時価総額は5年で187%増の約5400兆ウォンとなり、公正資産を初めて上回った。資産比率は1.66倍に上昇した。",
+        "body": "韓国50大グループの時価総額が過去5年で大きく増え、初めて公正資産規模を上回った。mk.co.krによると、50大グループの時価総額は5年で187%増加し、約5400兆ウォンに達した。一方、同期間の資産増加率は51%にとどまった。この結果、資産に対する時価総額の比率は0.87倍から1.66倍へ上昇した。グループ別では斗山が4.39倍で最も高く、SKとサムスンが続いた。サムスン、SK、斗山など主要グループの株価上昇が全体の時価総額拡大をけん引し、資産増加より市場評価が速く反映された形だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国50大集团市值达5400万亿韩元，首次超过资产规模",
+        "excerpt": "韩国50大集团市值5年增长187%，达到约5400万亿韩元，并首次超过公允资产；市值与资产比率升至1.66倍。",
+        "body": "韩国50大集团的总市值在近5年大幅增长，并首次超过公允资产规模。据mk.co.kr报道，50大集团市值5年间增长187%，达到约5400万亿韩元，而同期资产仅增长51%。因此，市值相对于资产的比率从0.87倍升至1.66倍。按集团来看，斗山以4.39倍居首，SK和三星随后。三星、SK、斗山等主要集团股价走强，带动整体市值扩大，显示市场估值的上升速度快于资产增长。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Los 50 mayores grupos coreanos superan sus activos con 5.400 billones de wones",
+        "excerpt": "La capitalización de los 50 mayores grupos de Corea del Sur subió 187% en cinco años hasta unos 5.400 billones de wones y superó por primera vez sus activos.",
+        "body": "La capitalización bursátil conjunta de los 50 mayores grupos empresariales de Corea del Sur superó por primera vez el valor de sus activos justos tras un fuerte aumento en los últimos cinco años. Según mk.co.kr, su valor de mercado creció 187% hasta unos 5.400 billones de wones, mientras que los activos aumentaron 51% en el mismo período. Así, la relación entre capitalización y activos pasó de 0,87 veces a 1,66 veces. Por grupos, Doosan registró la mayor proporción, con 4,39 veces, seguido por SK y Samsung. La fortaleza de las acciones de Samsung, SK y Doosan impulsó la expansión general, reflejando una valoración de mercado más rápida que el crecimiento de activos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "50 maiores grupos da Coreia somam 5.400 trilhões de won e superam ativos",
+        "excerpt": "O valor de mercado dos 50 maiores grupos sul-coreanos subiu 187% em cinco anos, chegou a cerca de 5.400 trilhões de won e superou os ativos pela primeira vez.",
+        "body": "A capitalização de mercado combinada dos 50 maiores grupos empresariais da Coreia do Sul superou pela primeira vez o valor de seus ativos justos após forte avanço nos últimos cinco anos. Segundo o mk.co.kr, o valor de mercado cresceu 187%, para cerca de 5.400 trilhões de won, enquanto os ativos aumentaram 51% no mesmo período. Com isso, a relação entre valor de mercado e ativos passou de 0,87 vez para 1,66 vez. Entre os grupos, a Doosan teve a maior proporção, de 4,39 vezes, seguida por SK e Samsung. A alta das ações de Samsung, SK e Doosan impulsionou a expansão total, mostrando que a avaliação de mercado avançou mais rápido que os ativos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Südkoreas Top-50-Konzerne erreichen 5.400 Billionen Won und überholen Assets",
+        "excerpt": "Die Marktkapitalisierung der 50 größten südkoreanischen Gruppen stieg in fünf Jahren um 187% auf rund 5.400 Billionen Won und übertraf erstmals die Vermögenswerte.",
+        "body": "Die gemeinsame Marktkapitalisierung der 50 größten Unternehmensgruppen Südkoreas hat erstmals ihren Fair-Asset-Wert übertroffen, nachdem sie in den vergangenen fünf Jahren stark gestiegen war. Laut mk.co.kr erhöhte sich der Börsenwert um 187% auf rund 5.400 Billionen Won, während die Vermögenswerte im selben Zeitraum nur um 51% zunahmen. Dadurch stieg das Verhältnis von Marktkapitalisierung zu Assets von 0,87 auf 1,66. Nach Gruppen lag Doosan mit 4,39 am höchsten, gefolgt von SK und Samsung. Starke Aktienkurse bei Samsung, SK und Doosan trieben die gesamte Ausweitung an und zeigen, dass Markt Bewertungen schneller gestiegen sind als die Vermögenswerte. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les 50 grands groupes coréens atteignent 5 400 billions de wons en Bourse",
+        "excerpt": "La capitalisation des 50 plus grands groupes sud-coréens a bondi de 187% en cinq ans à environ 5 400 billions de wons, dépassant leurs actifs pour la première fois.",
+        "body": "La capitalisation boursière cumulée des 50 plus grands groupes sud-coréens a dépassé pour la première fois la valeur de leurs actifs équitables après une forte hausse sur cinq ans. Selon mk.co.kr, leur valeur de marché a augmenté de 187% pour atteindre environ 5 400 billions de wons, tandis que les actifs ont progressé de 51% sur la même période. Le ratio capitalisation sur actifs est ainsi passé de 0,87 fois à 1,66 fois. Par groupe, Doosan affiche le niveau le plus élevé, à 4,39 fois, devant SK et Samsung. La vigueur des actions de Samsung, SK et Doosan a porté l’ensemble, montrant que les valorisations de marché ont progressé plus vite que les actifs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "القيمة السوقية لأكبر 50 مجموعة كورية تبلغ 5400 تريليون وون وتتجاوز الأصول",
+        "excerpt": "ارتفعت القيمة السوقية لأكبر 50 مجموعة في كوريا الجنوبية 187% خلال خمس سنوات إلى نحو 5400 تريليون وون، متجاوزة الأصول العادلة لأول مرة.",
+        "body": "تجاوزت القيمة السوقية المجمعة لأكبر 50 مجموعة أعمال في كوريا الجنوبية قيمة أصولها العادلة لأول مرة، بعد صعود قوي خلال السنوات الخمس الماضية. وبحسب mk.co.kr، زادت القيمة السوقية لهذه المجموعات 187% لتصل إلى نحو 5400 تريليون وون، بينما ارتفعت الأصول 51% فقط خلال الفترة نفسها. ونتيجة لذلك، صعدت نسبة القيمة السوقية إلى الأصول من 0.87 مرة إلى 1.66 مرة. وعلى مستوى المجموعات، سجلت دوسان أعلى نسبة عند 4.39 مرة، تلتها SK ثم سامسونغ. وجاء التوسع العام مدفوعا بقوة أسهم سامسونغ وSK ودوسان، ما يعكس ارتفاع تقييمات السوق بوتيرة أسرع من نمو الأصول. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "दक्षिण कोरिया के शीर्ष 50 समूहों का बाजार मूल्य 5,400 ट्रिलियन वॉन, संपत्ति से आगे",
+        "excerpt": "दक्षिण कोरिया के 50 बड़े समूहों का बाजार पूंजीकरण पांच साल में 187% बढ़कर करीब 5,400 ट्रिलियन वॉन हुआ और पहली बार निष्पक्ष संपत्तियों से ऊपर निकला।",
+        "body": "दक्षिण कोरिया के 50 सबसे बड़े कारोबारी समूहों का संयुक्त बाजार पूंजीकरण पिछले पांच वर्षों की तेज वृद्धि के बाद पहली बार उनकी निष्पक्ष संपत्ति के मूल्य से आगे निकल गया। mk.co.kr के अनुसार, इन समूहों का बाजार मूल्य 187% बढ़कर करीब 5,400 ट्रिलियन वॉन पर पहुंचा, जबकि इसी अवधि में संपत्तियां 51% बढ़ीं। इससे बाजार पूंजीकरण और संपत्ति का अनुपात 0.87 गुना से बढ़कर 1.66 गुना हो गया। समूहों में Doosan का अनुपात 4.39 गुना के साथ सबसे अधिक रहा, उसके बाद SK और Samsung रहे। Samsung, SK और Doosan जैसे प्रमुख समूहों के मजबूत शेयर भाव ने कुल बाजार मूल्य को बढ़ाया, जिससे दिखता है कि बाजार मूल्यांकन संपत्ति वृद्धि से तेज रहा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kapitalisasi 50 Grup Terbesar Korea Capai 5.400 Triliun Won, Lampaui Aset",
+        "excerpt": "Kapitalisasi pasar 50 grup terbesar Korea Selatan naik 187% dalam lima tahun menjadi sekitar 5.400 triliun won dan untuk pertama kalinya melampaui aset wajar.",
+        "body": "Kapitalisasi pasar gabungan 50 grup bisnis terbesar Korea Selatan untuk pertama kalinya melampaui nilai aset wajar setelah meningkat tajam dalam lima tahun terakhir. Menurut mk.co.kr, nilai pasar 50 grup tersebut naik 187% menjadi sekitar 5.400 triliun won, sementara aset hanya meningkat 51% pada periode yang sama. Akibatnya, rasio kapitalisasi pasar terhadap aset naik dari 0,87 kali menjadi 1,66 kali. Berdasarkan grup, Doosan mencatat rasio tertinggi sebesar 4,39 kali, diikuti SK dan Samsung. Penguatan saham Samsung, SK, dan Doosan mendorong ekspansi kapitalisasi pasar secara keseluruhan, menunjukkan penilaian pasar bergerak lebih cepat daripada pertumbuhan aset. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "a2ee1639890e",
     "slug": "삼성증권-증시-활황에-1분기-순이익-4509억역대-최대-517344",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "GS Caltex Learning Garden di Seoul Forest Ditata Ulang Jadi Taman Belajar Ekologi",
         "excerpt": "GS Caltex akan menata ulang ‘GS Caltex Learning Garden’ di Seoul Forest menjadi ruang belajar ekologi yang dapat dikunjungi siapa saja, seiring partisipasinya sebagai taman perusahaan di Seoul International Garden Show 2026.",
         "body": "‘GS Caltex Learning Garden’ yang dibangun GS Caltex di Seoul Forest akan ditata ulang sebagai ruang belajar ekologi yang terbuka bagi semua pengunjung. Pembenahan ini merupakan bagian dari persiapan untuk menampilkan taman tersebut sebagai taman perusahaan dalam Seoul International Garden Show 2026. Learning Garden dibuat sebagai tempat warga dapat mengenal alam dan ekologi di tengah kota. Melalui penataan ulang ini, GS Caltex berencana memperkuat fungsi publik dan edukatif taman tersebut. Bagi pengunjung Seoul Forest, tempat ini diperkirakan menjadi ruang yang memadukan istirahat dengan pengalaman pendidikan ekologi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "52d59a67dbfc",
-    "slug": "삼다원-장만순산삼가-공의보-천-노블레스-가정의-달-특집에-선정-148542",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T07:36:46.900Z",
-    "updatedAt": "2026-05-11T07:36:46.900Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12043323",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12043323",
-    "titleFingerprint": "a4047c10487b946c340f294e6ee915e0bedd4b5a",
-    "dedupKeys": [
-      "52d59a67dbfc57c984b70b2c830d5b8fa159bd17",
-      "a4047c10487b946c340f294e6ee915e0bedd4b5a",
-      "b7bc447517c3b1605f197ab94cecf1bfe1969461"
-    ],
-    "imageUrl": "/images/articles/52d59a67dbfc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "공의보 천, 노블레스 2026년 5월 가정의 달 특집 선정",
-        "excerpt": "삼다원 장만순산삼가의 프리미엄 헤리티지 제품 공의보 천이 2026년 5월 노블레스 가정의 달 특집에 선정됐다고 mk.co.kr이 전했다.",
-        "body": "삼다원 장만순산삼가의 프리미엄 헤리티지 제품 공의보 천(天)이 노블레스(Noblesse) 2026년 5월호 가정의 달 특집에 선정됐다. 이번 선정은 5월 가정의 달을 맞아 소개된 특집 지면에 공의보 천이 포함됐다는 내용이다. 공의보 천은 삼다원 장만순산삼가가 내세우는 프리미엄 헤리티지 제품으로, 원문은 해당 제품이 노블레스 5월호 특집에 이름을 올렸다는 사실을 전했다. 관련 보도는 제품의 선정 사실과 매체, 발행 시점을 중심으로 소개됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Gonguibo Cheon Selected for Noblesse May 2026 Family Month Feature",
-        "excerpt": "Samdawon Jang Man-soon Sansamga’s premium heritage product Gonguibo Cheon was selected for Noblesse’s May 2026 Family Month feature, mk.co.kr reported.",
-        "body": "Samdawon Jang Man-soon Sansamga’s premium heritage product Gonguibo Cheon was selected for the Family Month feature in the May 2026 issue of Noblesse. The selection means the product was included in a special feature published for Family Month in May. Gonguibo Cheon is presented by Samdawon Jang Man-soon Sansamga as a premium heritage product, and the original report focused on its inclusion in the Noblesse May issue feature. The report centered on the selected product, the magazine, and the timing of publication. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "公義寶 天、ノブレス2026年5月号の家庭の月特集に選定",
-        "excerpt": "三多園チャン・マンスン山参家のプレミアムヘリテージ製品、公義寶 天がノブレス2026年5月号の家庭の月特集に選ばれたとmk.co.krが伝えた。",
-        "body": "三多園チャン・マンスン山参家のプレミアムヘリテージ製品、公義寶 天が、ノブレスの2026年5月号「家庭の月」特集に選定された。今回の選定は、5月の家庭の月に合わせて紹介された特集紙面に同製品が含まれたという内容だ。公義寶 天は三多園チャン・マンスン山参家が掲げるプレミアムヘリテージ製品で、原文は同製品がノブレス5月号特集に名を連ねた事実を伝えた。報道は製品の選定、掲載媒体、発行時期を中心に紹介している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "公义宝 天入选Noblesse 2026年5月家庭月特辑",
-        "excerpt": "据mk.co.kr报道，三多园张万顺山参家的高端传承产品公义宝 天入选Noblesse 2026年5月号家庭月特辑。",
-        "body": "三多园张万顺山参家的高端传承产品公义宝 天入选Noblesse 2026年5月号家庭月特辑。此次入选意味着该产品被纳入5月家庭月推出的特辑版面。公义宝 天是三多园张万顺山参家主打的高端传承产品，原文重点报道了该产品出现在Noblesse 5月号特辑中的事实。相关报道围绕入选产品、刊载媒体以及发行时间进行介绍。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Gonguibo Cheon entra en el especial de mayo 2026 de Noblesse",
-        "excerpt": "El producto premium de herencia Gonguibo Cheon, de Samdawon Jang Man-soon Sansamga, fue seleccionado para el especial del Mes de la Familia de Noblesse, informó mk.co.kr.",
-        "body": "Gonguibo Cheon, producto premium de herencia de Samdawon Jang Man-soon Sansamga, fue seleccionado para el especial del Mes de la Familia de la edición de mayo de 2026 de Noblesse. La selección indica que el producto fue incluido en una sección especial publicada con motivo del Mes de la Familia en mayo. Gonguibo Cheon es presentado por Samdawon Jang Man-soon Sansamga como un producto premium de herencia, y el reporte original destacó su inclusión en el especial de mayo de Noblesse. La información se centró en el producto elegido, la revista y el momento de publicación. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Gonguibo Cheon é destaque na edição de maio de 2026 da Noblesse",
-        "excerpt": "O produto premium de herança Gonguibo Cheon, da Samdawon Jang Man-soon Sansamga, foi selecionado para o especial do Mês da Família da Noblesse, informou mk.co.kr.",
-        "body": "Gonguibo Cheon, produto premium de herança da Samdawon Jang Man-soon Sansamga, foi selecionado para o especial do Mês da Família da edição de maio de 2026 da Noblesse. A seleção significa que o produto foi incluído em uma pauta especial publicada para o Mês da Família em maio. Gonguibo Cheon é apresentado pela Samdawon Jang Man-soon Sansamga como um produto premium de herança, e a reportagem original destacou sua presença no especial de maio da Noblesse. A notícia concentrou-se no produto selecionado, na revista e no período de publicação. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Gonguibo Cheon für Noblesse-Sonderteil im Mai 2026 ausgewählt",
-        "excerpt": "Das Premium-Heritage-Produkt Gonguibo Cheon von Samdawon Jang Man-soon Sansamga wurde für den Familienmonat-Sonderteil der Noblesse-Ausgabe Mai 2026 ausgewählt, berichtete mk.co.kr.",
-        "body": "Gonguibo Cheon, ein Premium-Heritage-Produkt von Samdawon Jang Man-soon Sansamga, wurde für den Familienmonat-Sonderteil der Noblesse-Ausgabe Mai 2026 ausgewählt. Die Auswahl bedeutet, dass das Produkt in einem im Mai zum Familienmonat veröffentlichten Sonderteil vorgestellt wurde. Gonguibo Cheon wird von Samdawon Jang Man-soon Sansamga als Premium-Heritage-Produkt positioniert, und der Originalbericht hob seine Aufnahme in den Noblesse-Sonderteil der Maiausgabe hervor. Die Meldung konzentrierte sich auf das ausgewählte Produkt, das Medium und den Veröffentlichungszeitpunkt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Gonguibo Cheon choisi pour le spécial Famille de Noblesse en mai 2026",
-        "excerpt": "Le produit premium d’héritage Gonguibo Cheon de Samdawon Jang Man-soon Sansamga a été choisi pour le spécial du Mois de la famille de Noblesse, selon mk.co.kr.",
-        "body": "Gonguibo Cheon, produit premium d’héritage de Samdawon Jang Man-soon Sansamga, a été choisi pour le dossier du Mois de la famille du numéro de mai 2026 de Noblesse. Cette sélection signifie que le produit a été inclus dans une rubrique spéciale publiée en mai à l’occasion du Mois de la famille. Gonguibo Cheon est présenté par Samdawon Jang Man-soon Sansamga comme un produit premium d’héritage, et l’article original a mis l’accent sur son inclusion dans le dossier de mai de Noblesse. Le reportage s’est concentré sur le produit sélectionné, le média et la date de publication. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "غونغيبو تشون ضمن عدد Noblesse الخاص بشهر العائلة في مايو 2026",
-        "excerpt": "اختير منتج غونغيبو تشون التراثي الفاخر من Samdawon Jang Man-soon Sansamga لملف شهر العائلة في عدد Noblesse لشهر مايو 2026، وفق mk.co.kr.",
-        "body": "اختير غونغيبو تشون، المنتج التراثي الفاخر من Samdawon Jang Man-soon Sansamga، لملف شهر العائلة في عدد مايو 2026 من مجلة Noblesse. ويعني هذا الاختيار أن المنتج أدرج ضمن مادة خاصة نشرت بمناسبة شهر العائلة في مايو. وتقدم Samdawon Jang Man-soon Sansamga غونغيبو تشون بوصفه منتجا تراثيا فاخرا، وركز التقرير الأصلي على حقيقة إدراجه في ملف عدد مايو من Noblesse. وتمحورت التغطية حول المنتج المختار والوسيلة الإعلامية وتوقيت النشر. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Gonguibo Cheon Noblesse मई 2026 फैमिली मंथ फीचर में चयनित",
-        "excerpt": "Samdawon Jang Man-soon Sansamga का प्रीमियम हेरिटेज उत्पाद Gonguibo Cheon Noblesse के मई 2026 फैमिली मंथ विशेषांक में चुना गया, mk.co.kr ने बताया।",
-        "body": "Samdawon Jang Man-soon Sansamga का प्रीमियम हेरिटेज उत्पाद Gonguibo Cheon Noblesse के मई 2026 अंक के फैमिली मंथ विशेष फीचर में चयनित हुआ। इस चयन का अर्थ है कि उत्पाद मई में फैमिली मंथ के लिए प्रकाशित विशेष सामग्री में शामिल किया गया। Gonguibo Cheon को Samdawon Jang Man-soon Sansamga अपने प्रीमियम हेरिटेज उत्पाद के रूप में प्रस्तुत करता है, और मूल रिपोर्ट ने Noblesse के मई अंक के फीचर में इसके शामिल होने के तथ्य पर ध्यान दिया। रिपोर्ट उत्पाद, पत्रिका और प्रकाशन समय पर केंद्रित रही। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Gonguibo Cheon Masuk Fitur Bulan Keluarga Noblesse Mei 2026",
-        "excerpt": "Produk premium heritage Gonguibo Cheon dari Samdawon Jang Man-soon Sansamga terpilih untuk fitur Bulan Keluarga Noblesse edisi Mei 2026, menurut mk.co.kr.",
-        "body": "Gonguibo Cheon, produk premium heritage dari Samdawon Jang Man-soon Sansamga, terpilih untuk fitur Bulan Keluarga dalam Noblesse edisi Mei 2026. Pemilihan ini berarti produk tersebut masuk dalam rubrik khusus yang diterbitkan untuk Bulan Keluarga pada Mei. Gonguibo Cheon diperkenalkan oleh Samdawon Jang Man-soon Sansamga sebagai produk premium heritage, dan laporan asli menyoroti fakta bahwa produk itu tampil dalam fitur Noblesse edisi Mei. Pemberitaan berfokus pada produk yang dipilih, media penerbit, dan waktu publikasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "264ac09f23cb",
-    "slug": "중기옴부즈만-2026-중기규제혁신-정부포상-2차-후보자-모집-187554",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T07:35:49.653Z",
-    "updatedAt": "2026-05-11T07:35:49.653Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12043330",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12043330",
-    "titleFingerprint": "dc193eb0a4dc311e20895eb098794e1c2c97bfe6",
-    "dedupKeys": [
-      "264ac09f23cb2f21587f4c29da60ddbedfce75f2",
-      "dc193eb0a4dc311e20895eb098794e1c2c97bfe6",
-      "060060141a6964fb862e8a7399dfa47eaaaaab65"
-    ],
-    "imageUrl": "/images/articles/264ac09f23cb.png",
-    "i18n": {
-      "ko": {
-        "title": "중소기업 규제혁신 정부포상 후보자 2차 모집, 6월 5일까지 접수 연장",
-        "excerpt": "중소기업 옴부즈만은 11일 ‘2026년 중소기업 규제혁신 정부포상’ 추천 후보자 모집을 6월 5일까지 연장하고 분야 제한 없이 폭넓게 접수한다고 밝혔다.",
-        "body": "중소기업 옴부즈만은 11일 ‘2026년 중소기업 규제혁신 정부포상’ 추천 후보자 모집 기간을 다음 달 5일까지 연장한다고 밝혔다. 이번 2차 모집은 분야 제한 없이 폭넓게 접수하는 방식으로 진행된다. 해당 포상은 중소기업 규제혁신에 기여한 후보자를 추천받기 위한 절차로, 접수 기한 연장을 통해 더 많은 추천과 참여를 확보하려는 취지다. 중소기업 규제 개선과 관련한 활동을 대상으로 후보자 추천이 가능하며, 최종 선정 절차는 모집 이후 진행될 예정이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "SME regulatory innovation awards reopen nominations until June 5",
-        "excerpt": "The Small and Medium Business Ombudsman said on May 11 that nominations for the 2026 SME Regulatory Innovation Government Awards have been extended until June 5 without field restrictions.",
-        "body": "The Small and Medium Business Ombudsman announced on May 11 that it will extend the nomination period for the 2026 SME Regulatory Innovation Government Awards until June 5. The second round of recruitment is being conducted broadly, with no restrictions on fields. The awards are designed to receive recommendations for candidates who have contributed to regulatory innovation for small and medium-sized enterprises. By extending the deadline, the office aims to secure wider nominations and participation. Candidates may be recommended for activities related to improving SME regulations, with final selection procedures to follow after the application period. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "中小企業規制革新の政府表彰候補、6月5日まで2次募集延長",
-        "excerpt": "中小企業オンブズマンは11日、「2026年中小企業規制革新政府表彰」の推薦候補者募集を6月5日まで延長し、分野を問わず幅広く受け付けると発表した。",
-        "body": "中小企業オンブズマンは11日、「2026年中小企業規制革新政府表彰」の推薦候補者募集期間を来月5日まで延長すると発表した。今回の2次募集は、分野の制限を設けず幅広く受け付ける方式で進められる。同表彰は、中小企業の規制革新に貢献した候補者の推薦を受けるための手続きで、受付期限の延長により、より多くの推薦と参加を確保する狙いがある。中小企業の規制改善に関する活動を対象に候補者推薦が可能で、最終選定手続きは募集後に進められる予定だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "中小企业规制创新政府表彰候选人二次征集延至6月5日",
-        "excerpt": "中小企业监察官11日表示，“2026年中小企业规制创新政府表彰”推荐候选人征集期限延长至6月5日，将不限制领域广泛受理。",
-        "body": "中小企业监察官11日宣布，将把“2026年中小企业规制创新政府表彰”推荐候选人的征集期限延长至下月5日。本次第二轮征集将不设领域限制，以广泛受理的方式进行。该表彰旨在接收对中小企业规制创新作出贡献的候选人推荐。通过延长受理期限，相关方面希望获得更多推荐和参与。凡与中小企业规制改善相关的活动均可推荐候选人，最终评选程序预计将在征集结束后进行。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Premios a innovación regulatoria de pymes amplían candidaturas hasta el 5 de junio",
-        "excerpt": "El Defensor de las Pymes anunció el 11 de mayo que amplía hasta el 5 de junio la recepción de candidatos recomendados para los Premios Gubernamentales 2026 a la Innovación Regulatoria de Pymes.",
-        "body": "El Defensor de las Pequeñas y Medianas Empresas anunció el 11 de mayo que ampliará hasta el 5 de junio el periodo de recepción de candidatos recomendados para los Premios Gubernamentales 2026 a la Innovación Regulatoria de Pymes. Esta segunda convocatoria se realiza de forma amplia, sin restricciones por campo. El objetivo del premio es recibir recomendaciones de candidatos que hayan contribuido a la innovación regulatoria para las pequeñas y medianas empresas. Con la extensión del plazo, se busca asegurar más recomendaciones y participación. Podrán recomendarse candidatos por actividades relacionadas con la mejora regulatoria de las pymes, y la selección final continuará después del periodo de recepción. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Prêmio de inovação regulatória para PMEs reabre indicações até 5 de junho",
-        "excerpt": "O Ombudsman das PMEs informou em 11 de maio que prorrogou até 5 de junho o prazo para indicações ao Prêmio Governamental 2026 de Inovação Regulatória para Pequenas e Médias Empresas.",
-        "body": "O Ombudsman das Pequenas e Médias Empresas anunciou em 11 de maio que estenderá até 5 de junho o período de indicações para o Prêmio Governamental 2026 de Inovação Regulatória para PMEs. Esta segunda rodada de seleção será conduzida de forma ampla, sem restrições de área. A premiação tem como objetivo receber recomendações de candidatos que contribuíram para a inovação regulatória voltada às pequenas e médias empresas. Com a prorrogação do prazo, busca-se garantir mais indicações e participação. Candidatos podem ser recomendados por atividades ligadas à melhoria regulatória das PMEs, e o processo de seleção final deve ocorrer após o fim das inscrições. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Regulierungsinnovationspreis für KMU: zweite Nominierungsrunde bis 5. Juni",
-        "excerpt": "Der Ombudsmann für kleine und mittlere Unternehmen teilte am 11. Mai mit, dass die Nominierungsfrist für den Regierungspreis 2026 für Regulierungsinnovation bei KMU bis zum 5. Juni verlängert wird.",
-        "body": "Der Ombudsmann für kleine und mittlere Unternehmen gab am 11. Mai bekannt, dass die Frist für empfohlene Kandidaten für den Regierungspreis 2026 für Regulierungsinnovation bei KMU bis zum 5. Juni verlängert wird. Diese zweite Runde der Kandidatensuche wird breit und ohne Beschränkung auf bestimmte Bereiche durchgeführt. Der Preis soll Empfehlungen für Kandidaten sammeln, die zur Regulierungsinnovation für kleine und mittlere Unternehmen beigetragen haben. Mit der Verlängerung der Frist sollen mehr Empfehlungen und Beteiligung ermöglicht werden. Kandidaten können für Aktivitäten im Zusammenhang mit der Verbesserung von KMU-Regulierungen empfohlen werden; die endgültige Auswahl soll nach Abschluss der Bewerbungsphase folgen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Prix de l’innovation réglementaire des PME: candidatures prolongées au 5 juin",
-        "excerpt": "Le Médiateur des petites et moyennes entreprises a annoncé le 11 mai prolonger jusqu’au 5 juin les recommandations de candidats au Prix gouvernemental 2026 de l’innovation réglementaire des PME.",
-        "body": "Le Médiateur des petites et moyennes entreprises a annoncé le 11 mai que la période de recommandation des candidats au Prix gouvernemental 2026 de l’innovation réglementaire des PME serait prolongée jusqu’au 5 juin. Cette deuxième phase de recrutement se déroule largement, sans restriction de domaine. Le prix vise à recevoir des recommandations de candidats ayant contribué à l’innovation réglementaire pour les petites et moyennes entreprises. La prolongation du délai doit permettre d’obtenir davantage de recommandations et de participation. Les candidats peuvent être recommandés pour des activités liées à l’amélioration de la réglementation des PME, et la sélection finale aura lieu après la période de réception. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تمديد ترشيحات جائزة الابتكار التنظيمي للشركات الصغيرة حتى 5 يونيو",
-        "excerpt": "أعلن أمين مظالم الشركات الصغيرة والمتوسطة في 11 مايو تمديد استقبال المرشحين الموصى بهم لجائزة الحكومة لعام 2026 للابتكار التنظيمي للشركات الصغيرة والمتوسطة حتى 5 يونيو دون قيود على المجالات.",
-        "body": "أعلن أمين مظالم الشركات الصغيرة والمتوسطة في 11 مايو أنه سيمدد فترة استقبال المرشحين الموصى بهم لجائزة الحكومة لعام 2026 للابتكار التنظيمي للشركات الصغيرة والمتوسطة حتى 5 يونيو. وتجري هذه الجولة الثانية من募集 المرشحين بصورة واسعة ومن دون قيود على المجالات. وتهدف الجائزة إلى تلقي توصيات بمرشحين أسهموا في الابتكار التنظيمي للشركات الصغيرة والمتوسطة. ومن خلال تمديد الموعد النهائي، تسعى الجهة إلى ضمان مزيد من الترشيحات والمشاركة. ويمكن التوصية بمرشحين عن أنشطة مرتبطة بتحسين اللوائح الخاصة بالشركات الصغيرة والمتوسطة، على أن تتم إجراءات الاختيار النهائي بعد انتهاء فترة الاستقبال. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "एसएमई नियामकीय नवाचार पुरस्कार के लिए नामांकन 5 जून तक बढ़े",
-        "excerpt": "लघु और मध्यम उद्यम लोकपाल ने 11 मई को कहा कि 2026 एसएमई नियामकीय नवाचार सरकारी पुरस्कार के लिए अनुशंसित उम्मीदवारों की भर्ती 5 जून तक बढ़ा दी गई है और सभी क्षेत्रों से आवेदन लिए जाएंगे।",
-        "body": "लघु और मध्यम उद्यम लोकपाल ने 11 मई को घोषणा की कि ‘2026 एसएमई नियामकीय नवाचार सरकारी पुरस्कार’ के लिए अनुशंसित उम्मीदवारों की भर्ती अवधि अगले महीने की 5 तारीख तक बढ़ाई जाएगी। यह दूसरी भर्ती बिना किसी क्षेत्रीय सीमा के व्यापक रूप से की जा रही है। इस पुरस्कार का उद्देश्य उन उम्मीदवारों की सिफारिशें प्राप्त करना है जिन्होंने लघु और मध्यम उद्यमों के नियामकीय नवाचार में योगदान दिया है। समयसीमा बढ़ाकर अधिक सिफारिशें और भागीदारी सुनिश्चित करने का इरादा है। एसएमई नियमन सुधार से संबंधित गतिविधियों के लिए उम्मीदवारों की सिफारिश की जा सकती है, और अंतिम चयन प्रक्रिया भर्ती अवधि के बाद आगे बढ़ेगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Nominasi Penghargaan Inovasi Regulasi UKM diperpanjang hingga 5 Juni",
-        "excerpt": "Ombudsman Usaha Kecil dan Menengah pada 11 Mei menyatakan masa rekomendasi kandidat Penghargaan Pemerintah 2026 untuk Inovasi Regulasi UKM diperpanjang hingga 5 Juni tanpa batasan bidang.",
-        "body": "Ombudsman Usaha Kecil dan Menengah mengumumkan pada 11 Mei bahwa masa rekomendasi kandidat untuk Penghargaan Pemerintah 2026 bagi Inovasi Regulasi UKM diperpanjang hingga 5 Juni. Rekrutmen tahap kedua ini dilakukan secara luas tanpa batasan bidang. Penghargaan tersebut bertujuan menerima rekomendasi kandidat yang telah berkontribusi pada inovasi regulasi bagi usaha kecil dan menengah. Dengan perpanjangan batas waktu, pihak terkait berupaya memperoleh lebih banyak rekomendasi dan partisipasi. Kandidat dapat direkomendasikan untuk kegiatan yang berkaitan dengan perbaikan regulasi UKM, dan proses seleksi akhir akan dilakukan setelah masa penerimaan selesai. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6b5e312cf90e",
-    "slug": "성과-배분-구조-문제-vs-성실-교섭-중카카오도-노조-파업-리스크-634517",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T07:34:34.573Z",
-    "updatedAt": "2026-05-11T07:34:34.574Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12043370",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12043370",
-    "titleFingerprint": "aa8e852c335d975303dd3671ac0d4775f30b2748",
-    "dedupKeys": [
-      "6b5e312cf90ed2a6811256b6202902b2296876da",
-      "aa8e852c335d975303dd3671ac0d4775f30b2748",
-      "7ec75a2ea320b3b08ebdb32f069b1b1d00b470ea"
-    ],
-    "imageUrl": "/images/articles/6b5e312cf90e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "카카오 노조 파업 리스크 부상, 성과 배분 구조 놓고 임금협약 난항",
-        "excerpt": "카카오가 올해 임금협약에서 노사 합의점을 찾지 못하면서 노동조합이 단체행동을 예고했고, 성과 배분 구조 문제와 성실 교섭 입장이 맞서 파업 가능성도 거론된다.",
-        "body": "카카오의 노사 갈등이 올해 임금협약 협상에서 합의점을 찾지 못하며 깊어지고 있다. 노동조합은 성과 배분 구조에 문제가 있다고 보고 단체행동을 예고했으며, 최악의 경우 파업 가능성도 배제하기 어렵다는 전망이 나온다. 카카오 측은 성실하게 교섭을 이어가고 있다는 입장을 내놓은 것으로 전해졌다. 이번 갈등은 임금협약을 둘러싼 노사 간 이견이 핵심이며, 합의가 지연될수록 조직 내부 불확실성과 서비스 운영 부담에 대한 우려가 커질 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kakao Faces Strike Risk as Wage Talks Stall Over Performance Pay Structure",
-        "excerpt": "Kakao’s labor dispute has deepened after this year’s wage agreement talks failed to produce a deal, with the union warning of collective action and a strike not ruled out.",
-        "body": "Kakao’s labor-management tensions are deepening as the two sides have failed to reach agreement in this year’s wage negotiations. The union says there is a problem with the company’s performance distribution structure and has warned of collective action, while a strike cannot be ruled out in the worst case. Kakao is reported to have said it is continuing negotiations in good faith. The dispute centers on differences over the wage agreement, and a prolonged delay could increase uncertainty inside the organization and raise concerns about operational pressure. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "カカオに労組ストリスク、成果配分構造めぐり賃金交渉が難航",
-        "excerpt": "カカオは今年の賃金協約で労使が合意点を見いだせず、労働組合が団体行動を予告した。成果配分構造をめぐる対立からストの可能性も浮上している。",
-        "body": "カカオの労使対立は、今年の賃金協約交渉で合意に至らず深まっている。労働組合は成果配分構造に問題があるとして団体行動を予告しており、最悪の場合はストライキも排除できないとの見方が出ている。一方、カカオ側は誠実に交渉を続けているとの立場を示したと伝えられる。今回の対立の核心は賃金協約をめぐる労使間の意見差であり、合意が遅れるほど組織内の不確実性やサービス運営への負担を懸念する声が強まる可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Kakao面临工会罢工风险，绩效分配结构争议拖累薪资谈判",
-        "excerpt": "Kakao今年薪资协议谈判未能达成一致，工会预告集体行动；围绕绩效分配结构的问题与公司称正诚实协商的立场相互对立。",
-        "body": "Kakao的劳资矛盾正在加深，原因是双方在今年的薪资协议谈判中未能找到一致点。工会认为公司的绩效分配结构存在问题，并已预告将采取集体行动；在最坏情况下，罢工也难以排除。据报道，Kakao方面则表示正在诚实地继续协商。此次争议的核心是围绕薪资协议的劳资分歧，若达成协议继续延迟，可能会增加组织内部的不确定性，并引发对服务运营负担的担忧。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kakao afronta riesgo de huelga sindical por disputa sobre reparto de desempeño",
-        "excerpt": "Kakao no logró un acuerdo en la negociación salarial de este año y el sindicato avisó de acciones colectivas, con la estructura de reparto de desempeño como foco del conflicto.",
-        "body": "La tensión laboral en Kakao se profundiza después de que la empresa y el sindicato no lograran alcanzar un acuerdo en la negociación salarial de este año. El sindicato sostiene que existe un problema en la estructura de reparto de desempeño y anunció posibles acciones colectivas; en el peor escenario, no se descarta una huelga. Kakao, por su parte, habría afirmado que continúa negociando de buena fe. El conflicto se centra en las diferencias sobre el convenio salarial, y una demora prolongada podría aumentar la incertidumbre interna y las preocupaciones sobre la presión operativa. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kakao enfrenta risco de greve sindical após impasse sobre remuneração variável",
-        "excerpt": "A Kakao não chegou a um acordo no pacto salarial deste ano, e o sindicato avisou que pode iniciar ação coletiva em meio à disputa sobre a estrutura de distribuição de resultados.",
-        "body": "A tensão entre a Kakao e seus trabalhadores se aprofunda após a falta de acordo nas negociações do pacto salarial deste ano. O sindicato afirma que há problemas na estrutura de distribuição de resultados e anunciou a possibilidade de ação coletiva; no pior cenário, uma greve não está descartada. A Kakao, por sua vez, teria declarado que segue negociando de boa fé. O centro do conflito está nas divergências em torno do acordo salarial, e a demora em uma solução pode ampliar a incerteza interna e levantar preocupações sobre pressão nas operações. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kakao vor Streikrisiko: Streit über Leistungsbeteiligung belastet Lohnrunde",
-        "excerpt": "Kakao hat in den diesjährigen Lohnverhandlungen keine Einigung erzielt; die Gewerkschaft kündigte kollektive Maßnahmen an, während ein Streik nicht ausgeschlossen wird.",
-        "body": "Bei Kakao verschärft sich der Arbeitskonflikt, nachdem Arbeitgeber und Gewerkschaft in den diesjährigen Lohnverhandlungen keine Einigung erzielt haben. Die Gewerkschaft sieht ein Problem in der Struktur der Leistungsbeteiligung und kündigte kollektive Maßnahmen an; im schlimmsten Fall ist auch ein Streik nicht auszuschließen. Kakao soll erklärt haben, die Verhandlungen aufrichtig fortzusetzen. Im Kern geht es um Differenzen rund um das Lohnabkommen. Je länger eine Einigung ausbleibt, desto stärker könnten interne Unsicherheit und Sorgen über Belastungen im Betrieb werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Kakao exposé à un risque de grève syndicale sur le partage des performances",
-        "excerpt": "Kakao n’a pas trouvé d’accord dans les négociations salariales de cette année, et le syndicat a annoncé une action collective sur fond de désaccord autour du partage des performances.",
-        "body": "Le conflit social chez Kakao s’aggrave après l’absence d’accord dans les négociations salariales de cette année. Le syndicat estime que la structure de partage des performances pose problème et a annoncé une action collective; dans le pire des cas, une grève ne peut pas être exclue. Kakao aurait indiqué poursuivre les discussions de bonne foi. Le cœur du différend porte sur la convention salariale, et plus l’accord tarde, plus l’incertitude interne et les inquiétudes liées à la charge opérationnelle pourraient augmenter. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كاكاو تواجه خطر إضراب نقابي مع تعثر مفاوضات الأجور وتوزيع الأداء",
-        "excerpt": "تعثر اتفاق الأجور لهذا العام في كاكاو دفع النقابة إلى التلويح بتحرك جماعي، وسط خلاف حول هيكل توزيع الأداء وموقف الشركة بأنها تواصل التفاوض بجدية.",
-        "body": "تتعمق الخلافات العمالية داخل كاكاو بعد فشل الطرفين في التوصل إلى اتفاق في مفاوضات الأجور لهذا العام. وتقول النقابة إن هناك مشكلة في هيكل توزيع الأداء، وقد أعلنت نيتها القيام بتحرك جماعي، فيما لا يمكن استبعاد الإضراب في أسوأ الحالات. ومن جانبها، أفادت التقارير بأن كاكاو تؤكد استمرارها في التفاوض بحسن نية. يتمحور النزاع حول اختلافات بين الإدارة والنقابة بشأن اتفاق الأجور، وقد يؤدي تأخر التوصل إلى تسوية إلى زيادة حالة عدم اليقين داخل المنظمة وإثارة مخاوف بشأن أعباء التشغيل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Kakao पर हड़ताल जोखिम, प्रदर्शन वितरण ढांचे पर वेतन वार्ता अटकी",
-        "excerpt": "Kakao में इस साल के वेतन समझौते पर सहमति नहीं बन सकी, जिसके बाद यूनियन ने सामूहिक कार्रवाई की चेतावनी दी और हड़ताल की संभावना भी चर्चा में है।",
-        "body": "Kakao में श्रम-प्रबंधन तनाव इस साल के वेतन समझौते पर सहमति न बनने के बाद गहरा रहा है। यूनियन का कहना है कि प्रदर्शन वितरण ढांचे में समस्या है और उसने सामूहिक कार्रवाई की चेतावनी दी है; सबसे खराब स्थिति में हड़ताल से भी इनकार नहीं किया जा सकता। बताया गया है कि Kakao का पक्ष है कि वह ईमानदारी से बातचीत जारी रखे हुए है। विवाद का मुख्य बिंदु वेतन समझौते को लेकर दोनों पक्षों के मतभेद हैं। सहमति में देरी बढ़ने पर संगठन के भीतर अनिश्चितता और सेवा संचालन पर दबाव को लेकर चिंताएं बढ़ सकती हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kakao Hadapi Risiko Mogok Serikat saat Struktur Bagi Kinerja Dipersoalkan",
-        "excerpt": "Kakao belum mencapai kesepakatan dalam perjanjian upah tahun ini, membuat serikat pekerja menyiapkan aksi kolektif dan membuka risiko mogok dalam skenario terburuk.",
-        "body": "Ketegangan hubungan kerja di Kakao semakin dalam setelah perusahaan dan serikat pekerja gagal menemukan titik temu dalam perjanjian upah tahun ini. Serikat menilai ada masalah pada struktur pembagian kinerja dan telah memberi sinyal aksi kolektif; dalam skenario terburuk, mogok kerja juga tidak dapat dikesampingkan. Pihak Kakao dilaporkan menyatakan tetap menjalankan perundingan dengan itikad baik. Inti konflik ini adalah perbedaan pandangan mengenai perjanjian upah, dan semakin lama kesepakatan tertunda, kekhawatiran atas ketidakpastian internal serta beban operasional dapat meningkat. Sumber: mk.co.kr"
       }
     }
   }
