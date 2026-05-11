@@ -1,5 +1,230 @@
 [
   {
+    "id": "4910dce79c7b",
+    "slug": "중동전쟁에-k석화-불안한-깜짝-실적-575934",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T10:06:16.602Z",
+    "updatedAt": "2026-05-11T10:06:16.602Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12043552",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12043552",
+    "titleFingerprint": "da4a8beca4177ad42a7348377508f7157f15a6b1",
+    "dedupKeys": [
+      "4910dce79c7bd68266877893e42fde05b33ebec7",
+      "da4a8beca4177ad42a7348377508f7157f15a6b1",
+      "432be9442e5c26deeb3210db1d023008d68ddc1e"
+    ],
+    "imageUrl": "/images/articles/4910dce79c7b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중동 전쟁 장기화에 K석화 1분기 깜짝 실적, 나프타 가격이 변수",
+        "excerpt": "국내 석유화학 산업이 중국발 저가 공세와 글로벌 업황 침체, 구조 개편 압력 속에서도 올해 1분기 예상 밖 실적을 냈다. 중동 전쟁 장기화로 나프타 가격이 핵심 변수로 떠올랐다.",
+        "body": "국내 석유화학 산업이 올해 1분기 ‘깜짝 실적’을 냈다. 중국발 저가 공세와 전 세계적 업황 침체로 구조 개편 압력이 커진 상황에서 나온 결과다. 업계의 기초·핵심 원료인 나프타 가격은 중동 전쟁 장기화와 맞물려 불안 요인으로 부각됐다. 석유화학 기업들은 원가와 수익성 변동에 민감한 구조인 만큼, 원료 가격 흐름이 향후 실적의 관건으로 꼽힌다. 다만 업황 침체와 중국산 저가 제품 경쟁이 이어지고 있어 1분기 성과가 안정적 회복으로 이어질지는 지켜봐야 한다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korean Petrochemicals Post Surprise Q1 Results as Middle East War Lifts Naphtha Risk",
+        "excerpt": "South Korea’s petrochemical industry delivered unexpected first-quarter results this year despite low-price pressure from China, a global industry slump and restructuring pressure, with naphtha costs emerging as a key risk.",
+        "body": "South Korea’s petrochemical industry posted a “surprise” performance in the first quarter of this year. The result came as companies faced restructuring pressure amid low-price competition from China and a global downturn in the sector. Naphtha, a basic and core feedstock for the industry, has become a source of uncertainty as the Middle East war drags on. Because petrochemical companies are highly sensitive to changes in input costs and profitability, the direction of naphtha prices is seen as a key factor for future earnings. Still, the industry slump and competition from low-priced Chinese products continue, so it remains unclear whether the first-quarter result will lead to a stable recovery. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "中東戦争長期化で韓国石化が1四半期にサプライズ決算、ナフサ価格が焦点",
+        "excerpt": "韓国の石油化学産業は、中国発の低価格攻勢と世界的な市況低迷、構造改革圧力の中でも今年第1四半期に予想外の業績を上げた。中東戦争の長期化でナフサ価格が重要な変数となった。",
+        "body": "韓国の石油化学産業が今年第1四半期に「サプライズ業績」を記録した。中国発の低価格攻勢と世界的な業況低迷により構造改革圧力が強まる中で出た結果だ。業界の基礎・中核原料であるナフサ価格は、中東戦争の長期化と重なり不安要因として浮上している。石油化学企業は原価と収益性の変動に敏感な構造であるため、原料価格の動きが今後の業績の鍵とみられる。ただし、市況低迷と中国産低価格製品との競争は続いており、第1四半期の成果が安定した回復につながるかは見守る必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "中东战争延宕下韩国石化一季度业绩意外向好，石脑油价格成关键",
+        "excerpt": "韩国石化行业在中国低价攻势、全球行业低迷和结构调整压力之下，今年一季度仍取得意外业绩。随着中东战争长期化，石脑油价格成为核心变量。",
+        "body": "韩国石油化工行业今年一季度取得“意外业绩”。这一结果出现在中国低价攻势和全球行业低迷导致结构调整压力加大的背景下。作为行业基础和核心原料的石脑油价格，因中东战争长期化而成为不稳定因素。石化企业的成本和盈利能力对原料价格变化高度敏感，因此石脑油价格走势被视为未来业绩的关键。不过，行业低迷和来自中国低价产品的竞争仍在持续，一季度表现能否转化为稳定复苏仍需观察。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Petroquímica coreana sorprende en el primer trimestre mientras la guerra en Oriente Medio presiona la nafta",
+        "excerpt": "La industria petroquímica surcoreana obtuvo resultados inesperados en el primer trimestre pese a la ofensiva de bajos precios de China, la debilidad global del sector y la presión para reestructurarse.",
+        "body": "La industria petroquímica de Corea del Sur registró un desempeño “sorpresa” en el primer trimestre de este año. El resultado llegó en medio de una mayor presión de reestructuración provocada por la ofensiva de bajos precios de China y la desaceleración mundial del sector. La nafta, materia prima básica y clave para la industria, se ha convertido en un factor de incertidumbre por la prolongación de la guerra en Oriente Medio. Dado que las empresas petroquímicas son sensibles a los cambios en costos y rentabilidad, la evolución del precio de la nafta será clave para sus próximos resultados. Aun así, la debilidad del sector y la competencia de productos chinos baratos continúan. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Petroquímica coreana surpreende no 1º trimestre com guerra no Oriente Médio elevando risco da nafta",
+        "excerpt": "A indústria petroquímica sul-coreana teve resultado inesperado no primeiro trimestre apesar da pressão de preços baixos da China, da fraqueza global do setor e das exigências de reestruturação.",
+        "body": "A indústria petroquímica da Coreia do Sul apresentou um desempenho “surpresa” no primeiro trimestre deste ano. O resultado ocorreu em meio à crescente pressão por reestruturação, causada pela ofensiva de preços baixos da China e pela desaceleração global do setor. A nafta, matéria-prima básica e essencial para a indústria, tornou-se um fator de incerteza com a prolongação da guerra no Oriente Médio. Como as empresas petroquímicas são sensíveis a mudanças de custo e rentabilidade, a trajetória do preço da nafta é vista como ponto-chave para os próximos resultados. Ainda assim, a fraqueza do setor e a competição com produtos chineses baratos continuam. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Koreas Petrochemie überrascht im ersten Quartal, doch Nahostkrieg macht Naphtha zum Risiko",
+        "excerpt": "Südkoreas Petrochemie erzielte im ersten Quartal unerwartete Ergebnisse, obwohl chinesischer Preisdruck, die weltweite Branchenschwäche und Restrukturierungsdruck anhalten. Naphtha wird zum zentralen Faktor.",
+        "body": "Südkoreas petrochemische Industrie hat im ersten Quartal dieses Jahres eine überraschende Leistung erzielt. Das Ergebnis kam zustande, obwohl der Restrukturierungsdruck durch niedrige Preise aus China und die weltweite Schwäche der Branche zunimmt. Naphtha, ein grundlegender und zentraler Rohstoff der Industrie, rückt durch den langwierigen Krieg im Nahen Osten als Unsicherheitsfaktor in den Fokus. Da petrochemische Unternehmen stark auf Kosten- und Margenänderungen reagieren, gilt die Entwicklung der Naphtha-Preise als entscheidend für die künftigen Ergebnisse. Dennoch halten Branchenschwäche und Wettbewerb durch günstige chinesische Produkte an. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La pétrochimie coréenne surprend au 1er trimestre, la guerre au Moyen-Orient ravive le risque sur le naphta",
+        "excerpt": "L’industrie pétrochimique sud-coréenne a signé des résultats inattendus au premier trimestre malgré la pression des bas prix chinois, la faiblesse mondiale du secteur et les appels à la restructuration.",
+        "body": "L’industrie pétrochimique sud-coréenne a enregistré une performance « surprise » au premier trimestre de cette année. Ce résultat intervient alors que la pression à la restructuration s’intensifie sous l’effet de l’offensive de prix bas venue de Chine et du ralentissement mondial du secteur. Le naphta, matière première de base et essentielle pour l’industrie, devient un facteur d’incertitude avec la prolongation de la guerre au Moyen-Orient. Les entreprises pétrochimiques étant sensibles aux variations de coûts et de rentabilité, l’évolution du prix du naphta sera déterminante pour les résultats à venir. Toutefois, la faiblesse du secteur et la concurrence des produits chinois bon marché persistent. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "البتروكيماويات الكورية تفاجئ بنتائج الربع الأول مع تحول النافثا إلى عامل خطر بفعل حرب الشرق الأوسط",
+        "excerpt": "حققت صناعة البتروكيماويات في كوريا الجنوبية نتائج غير متوقعة في الربع الأول رغم ضغط الأسعار المنخفضة من الصين والركود العالمي وضغوط إعادة الهيكلة، مع بروز النافثا كعامل حاسم.",
+        "body": "سجلت صناعة البتروكيماويات في كوريا الجنوبية أداء مفاجئا في الربع الأول من هذا العام. وجاءت النتيجة رغم تصاعد ضغوط إعادة الهيكلة بسبب هجوم الأسعار المنخفضة من الصين والركود العالمي في القطاع. وأصبحت النافثا، وهي مادة خام أساسية ومحورية للصناعة، عاملا يثير القلق مع إطالة أمد الحرب في الشرق الأوسط. وبما أن شركات البتروكيماويات حساسة لتغيرات التكلفة والربحية، فإن مسار أسعار النافثا يعد عاملا رئيسيا في النتائج المقبلة. ومع ذلك، ما زال ركود القطاع والمنافسة من المنتجات الصينية منخفضة السعر مستمرين، لذلك يبقى من غير الواضح ما إذا كانت نتائج الربع الأول ستقود إلى تعاف مستقر. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "मध्य पूर्व युद्ध के बीच कोरियाई पेट्रोकेमिकल्स के पहली तिमाही नतीजे चौंकाने वाले, नैफ्था बना अहम जोखिम",
+        "excerpt": "दक्षिण कोरिया के पेट्रोकेमिकल उद्योग ने चीन की कम कीमत वाली प्रतिस्पर्धा, वैश्विक सुस्ती और पुनर्गठन दबाव के बावजूद इस साल पहली तिमाही में अप्रत्याशित प्रदर्शन किया।",
+        "body": "दक्षिण कोरिया के पेट्रोकेमिकल उद्योग ने इस साल पहली तिमाही में “चौंकाने वाला” प्रदर्शन किया। यह नतीजा ऐसे समय आया जब चीन की कम कीमत वाली प्रतिस्पर्धा और वैश्विक उद्योग मंदी के कारण पुनर्गठन का दबाव बढ़ रहा था। उद्योग की बुनियादी और प्रमुख कच्ची सामग्री नैफ्था की कीमत मध्य पूर्व युद्ध के लंबा खिंचने से अनिश्चितता का कारण बन गई है। पेट्रोकेमिकल कंपनियां लागत और लाभप्रदता में बदलाव के प्रति संवेदनशील होती हैं, इसलिए नैफ्था कीमतों की दिशा आगे के नतीजों के लिए अहम मानी जा रही है। हालांकि उद्योग की सुस्ती और सस्ते चीनी उत्पादों से प्रतिस्पर्धा जारी है, इसलिए पहली तिमाही का प्रदर्शन स्थिर सुधार में बदलेगा या नहीं, यह देखना होगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Petrokimia Korea Cetak Kinerja Mengejutkan Kuartal I, Perang Timur Tengah Jadikan Nafta Variabel Utama",
+        "excerpt": "Industri petrokimia Korea Selatan mencatat kinerja tak terduga pada kuartal I tahun ini meski menghadapi tekanan harga murah dari China, pelemahan global, dan desakan restrukturisasi.",
+        "body": "Industri petrokimia Korea Selatan mencatat kinerja “mengejutkan” pada kuartal pertama tahun ini. Hasil itu muncul saat tekanan restrukturisasi meningkat akibat serangan harga murah dari China dan pelemahan industri secara global. Nafta, bahan baku dasar sekaligus utama bagi industri, menjadi faktor ketidakpastian seiring berlarutnya perang di Timur Tengah. Karena perusahaan petrokimia sangat sensitif terhadap perubahan biaya dan profitabilitas, arah harga nafta dipandang sebagai kunci bagi kinerja berikutnya. Namun, pelemahan industri dan persaingan dari produk China berharga murah masih berlanjut, sehingga perlu dilihat apakah capaian kuartal pertama dapat berujung pada pemulihan yang stabil. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "fcc4d27f1637",
+    "slug": "캐즘서-헤매는-일본차k배터리-수주-차질-우려-466362",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T10:04:51.145Z",
+    "updatedAt": "2026-05-11T10:04:51.145Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12043551",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12043551",
+    "titleFingerprint": "a3f9ab47403a552f775e7d9977e8d154312af5ca",
+    "dedupKeys": [
+      "fcc4d27f1637e9cb563c150d2a63765b35d1c388",
+      "a3f9ab47403a552f775e7d9977e8d154312af5ca",
+      "78c3723a69ab1aea763c2e53ea67d957d564c350"
+    ],
+    "imageUrl": "/images/articles/fcc4d27f1637.jpg",
+    "i18n": {
+      "ko": {
+        "title": "일본차 전기차 캐즘 장기화에 K배터리 수주 차질 우려 커진다",
+        "excerpt": "일본 완성차 업체들이 글로벌 전기차 캐즘 변화에 기민하게 대응하지 못하면서 K배터리 업계의 수주 차질 우려가 커지고 있다.",
+        "body": "글로벌 전기차 캐즘, 즉 수요 절벽 국면에 빠르게 대응하지 못한 일본 완성차 업체들이 후폭풍을 맞고 있다. 지난 3월 중동 전쟁 이후 전기차 수요는 늘고 있지만, 회복 속도는 당초 예상보다 더딘 것으로 전해졌다. 이 같은 흐름은 일본차와 공급 관계를 맺은 K배터리 업계에도 부담으로 작용할 수 있다. 완성차 업체의 전기차 전략 지연이나 판매 회복 둔화가 이어질 경우 배터리 수주 일정에도 차질 우려가 제기된다. mk.co.kr은 일본 완성차 업체들이 전기차 캐즘 변화에 기민하게 대응하지 못해 거센 후폭풍을 맞고 있다고 전했다."
+      },
+      "en": {
+        "title": "Japanese Carmakers’ EV Chasm Deepens, Raising K-Battery Order Concerns",
+        "excerpt": "Japanese automakers’ slow response to the global EV demand chasm is raising concerns that Korean battery makers could face order disruptions.",
+        "body": "Japanese automakers are facing strong aftereffects after failing to respond quickly to the global electric vehicle chasm, or demand cliff. Since the Middle East war in March, EV demand has been increasing, but the pace of recovery is said to be slower than expected. This trend could also weigh on Korean battery companies that have supply ties with Japanese carmakers. If automakers’ EV strategies are delayed or sales recovery remains sluggish, concerns may grow over possible disruptions to battery order schedules. mk.co.kr reported that Japanese automakers are facing heavy fallout after failing to respond nimbly to changes in the EV chasm."
+      },
+      "ja": {
+        "title": "日本車のEVキャズム長期化、Kバッテリー受注への影響懸念",
+        "excerpt": "世界的なEV需要のキャズム変化に日本の完成車メーカーが機敏に対応できず、Kバッテリー業界の受注に支障が出るとの懸念が広がっている。",
+        "body": "世界的な電気自動車のキャズム、すなわち需要の崖に素早く対応できなかった日本の完成車メーカーが強い余波に直面している。3月の中東戦争以降、EV需要は増えているものの、回復の速度は当初の予想より鈍いとされる。こうした流れは、日本車メーカーと供給関係を持つKバッテリー業界にも負担となり得る。完成車メーカーのEV戦略の遅れや販売回復の鈍化が続けば、バッテリー受注日程にも支障が出るとの懸念が浮上する。mk.co.krは、日本の完成車メーカーがEVキャズムの変化に機敏に対応できず、激しい余波を受けていると伝えた。"
+      },
+      "zh": {
+        "title": "日本车企深陷电动车需求断层，K电池订单受阻担忧升温",
+        "excerpt": "日本整车企业未能迅速应对全球电动车需求断层变化，韩国电池行业对订单可能受影响的担忧正在扩大。",
+        "body": "未能快速应对全球电动车“鸿沟”、即需求断崖局面的日本整车企业，正遭遇强烈后续冲击。自3月中东战争以来，电动车需求有所增加，但恢复速度据称慢于此前预期。这样的走势也可能给与日本车企存在供应关系的韩国电池行业带来压力。如果整车企业电动车战略延迟或销售恢复放缓持续，电池订单日程也可能出现受阻担忧。mk.co.kr报道称，日本整车企业因未能敏捷应对电动车需求断层变化，正面临猛烈后果。"
+      },
+      "es": {
+        "title": "Automotrices japonesas en el bache EV elevan temor por pedidos de K-baterías",
+        "excerpt": "La lenta respuesta de las automotrices japonesas al chasm global de los vehículos eléctricos aumenta la preocupación por posibles retrasos en pedidos de baterías coreanas.",
+        "body": "Las automotrices japonesas afrontan fuertes repercusiones tras no responder con rapidez al chasm global de los vehículos eléctricos, es decir, a la caída de la demanda. Desde la guerra en Medio Oriente de marzo, la demanda de vehículos eléctricos ha aumentado, pero la recuperación avanza más lento de lo previsto. Esta tendencia también puede convertirse en una carga para la industria coreana de baterías vinculada al suministro de fabricantes japoneses. Si se retrasan las estrategias EV de las automotrices o sigue débil la recuperación de ventas, crecerá la preocupación por posibles alteraciones en los calendarios de pedidos de baterías. mk.co.kr informó que las automotrices japonesas sufren un fuerte impacto por no adaptarse con agilidad al cambio del chasm EV."
+      },
+      "pt": {
+        "title": "Montadoras japonesas no chasm dos EVs ampliam temor por pedidos de K-baterias",
+        "excerpt": "A resposta lenta das montadoras japonesas ao chasm global dos veículos elétricos aumenta a preocupação com possíveis atrasos em pedidos de baterias coreanas.",
+        "body": "As montadoras japonesas enfrentam fortes efeitos após não responderem rapidamente ao chasm global dos veículos elétricos, isto é, ao abismo de demanda. Desde a guerra no Oriente Médio em março, a demanda por EVs tem aumentado, mas a recuperação ocorre em ritmo mais lento que o esperado. Esse movimento também pode pesar sobre a indústria coreana de baterias que mantém relações de fornecimento com fabricantes japonesas. Caso as estratégias de EV das montadoras se atrasem ou a recuperação das vendas siga fraca, podem crescer as preocupações com interrupções nos cronogramas de pedidos de baterias. O mk.co.kr informou que as montadoras japonesas sofrem forte repercussão por não reagirem com agilidade às mudanças no chasm dos EVs."
+      },
+      "de": {
+        "title": "Japans Autobauer im EV-Chasm: Sorgen um K-Batterie-Aufträge nehmen zu",
+        "excerpt": "Japans Autohersteller reagierten nur langsam auf den globalen Nachfrageeinbruch bei Elektroautos, was Sorgen über mögliche Störungen bei koreanischen Batterieaufträgen schürt.",
+        "body": "Japans Autohersteller stehen unter starkem Druck, nachdem sie auf den globalen Elektroauto-Chasm, also den Nachfrageabbruch, nicht schnell genug reagiert haben. Seit dem Krieg im Nahen Osten im März steigt die Nachfrage nach Elektrofahrzeugen zwar, doch die Erholung verläuft Berichten zufolge langsamer als erwartet. Diese Entwicklung kann auch die koreanische Batteriebranche belasten, die Lieferbeziehungen zu japanischen Autobauern unterhält. Verzögern sich EV-Strategien der Hersteller oder bleibt die Verkaufserholung schwach, könnten Sorgen über Störungen bei Batterieaufträgen zunehmen. mk.co.kr berichtete, dass Japans Autohersteller heftige Folgen spüren, weil sie nicht flexibel genug auf den Wandel im EV-Chasm reagierten."
+      },
+      "fr": {
+        "title": "Constructeurs japonais freinés par le chasm EV, inquiétudes pour les K-batteries",
+        "excerpt": "La réponse lente des constructeurs japonais au chasm mondial des véhicules électriques accroît les craintes de perturbations dans les commandes de batteries coréennes.",
+        "body": "Les constructeurs automobiles japonais subissent de fortes répercussions après n’avoir pas réagi assez vite au chasm mondial des véhicules électriques, c’est-à-dire à la falaise de la demande. Depuis la guerre au Moyen-Orient en mars, la demande de véhicules électriques augmente, mais la reprise serait plus lente que prévu. Cette tendance peut aussi peser sur l’industrie coréenne des batteries liée aux constructeurs japonais par des accords d’approvisionnement. Si les stratégies EV des constructeurs prennent du retard ou si la reprise des ventes reste faible, les inquiétudes sur les calendriers de commandes de batteries pourraient s’accentuer. mk.co.kr a rapporté que les constructeurs japonais affrontent un fort contrecoup pour ne pas avoir répondu avec agilité aux changements du chasm EV."
+      },
+      "ar": {
+        "title": "شركات السيارات اليابانية وسط فجوة الطلب على الكهرباء تثير قلق بطاريات كوريا",
+        "excerpt": "عدم استجابة شركات السيارات اليابانية بسرعة لتحولات فجوة الطلب العالمية على السيارات الكهربائية يزيد المخاوف من تعطل طلبات بطاريات كوريا.",
+        "body": "تواجه شركات السيارات اليابانية تداعيات قوية بعدما لم تستجب بسرعة لفجوة الطلب العالمية على السيارات الكهربائية، أي حافة تراجع الطلب. ومنذ حرب الشرق الأوسط في مارس، ازداد الطلب على السيارات الكهربائية، لكن وتيرة التعافي تبدو أبطأ من المتوقع. وقد يشكل هذا المسار عبئا أيضا على صناعة البطاريات الكورية المرتبطة بعلاقات توريد مع شركات السيارات اليابانية. وإذا استمر تأخر استراتيجيات السيارات الكهربائية لدى الشركات أو تباطؤ تعافي المبيعات، فقد تزداد المخاوف من اضطراب جداول طلبات البطاريات. ونقل mk.co.kr أن شركات السيارات اليابانية تواجه تداعيات شديدة لأنها لم تتعامل بمرونة مع تغيرات فجوة الطلب على السيارات الكهربائية."
+      },
+      "hi": {
+        "title": "EV मांग की खाई में जापानी कार कंपनियां, K-बैटरी ऑर्डर पर बढ़ी चिंता",
+        "excerpt": "वैश्विक इलेक्ट्रिक वाहन मांग की खाई में बदलाव पर जापानी वाहन कंपनियों की धीमी प्रतिक्रिया से कोरियाई बैटरी उद्योग में ऑर्डर बाधित होने की चिंता बढ़ रही है।",
+        "body": "वैश्विक इलेक्ट्रिक वाहन चasm, यानी मांग में तेज गिरावट, पर तेजी से प्रतिक्रिया न दे पाने के कारण जापानी वाहन निर्माता कड़े असर का सामना कर रहे हैं। मार्च में मध्य पूर्व युद्ध के बाद इलेक्ट्रिक वाहनों की मांग बढ़ी है, लेकिन सुधार की गति उम्मीद से धीमी बताई जा रही है। यह रुझान उन कोरियाई बैटरी कंपनियों पर भी बोझ बन सकता है जिनके जापानी वाहन कंपनियों से आपूर्ति संबंध हैं। यदि वाहन निर्माताओं की EV रणनीति में देरी या बिक्री सुधार की सुस्ती जारी रहती है, तो बैटरी ऑर्डर कार्यक्रमों में बाधा की चिंता उठ सकती है। mk.co.kr ने बताया कि EV चasm में बदलाव पर फुर्ती से प्रतिक्रिया न दे पाने के कारण जापानी वाहन कंपनियां तीव्र hậu प्रभाव झेल रही हैं।"
+      },
+      "id": {
+        "title": "Pabrikan Jepang Terjebak Chasm EV, Kekhawatiran Pesanan K-Baterai Meningkat",
+        "excerpt": "Lambannya respons pabrikan otomotif Jepang terhadap perubahan chasm permintaan EV global memicu kekhawatiran gangguan pesanan bagi industri baterai Korea.",
+        "body": "Pabrikan otomotif Jepang menghadapi dampak kuat setelah gagal merespons cepat chasm kendaraan listrik global, yaitu jurang permintaan. Sejak perang Timur Tengah pada Maret, permintaan kendaraan listrik meningkat, tetapi laju pemulihan disebut lebih lambat dari perkiraan. Tren ini juga dapat menjadi beban bagi industri baterai Korea yang memiliki hubungan pasokan dengan pabrikan Jepang. Jika strategi EV pabrikan tertunda atau pemulihan penjualan tetap lambat, kekhawatiran atas gangguan jadwal pesanan baterai dapat muncul. mk.co.kr melaporkan bahwa pabrikan Jepang menghadapi dampak besar karena tidak tangkas merespons perubahan chasm EV."
+      }
+    }
+  },
+  {
+    "id": "23f70593809a",
+    "slug": "삼전-노사-최후협상-여전한-간극-257631",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T10:03:41.629Z",
+    "updatedAt": "2026-05-11T10:03:41.629Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12043581",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12043581",
+    "titleFingerprint": "b8520ce9b83972e3da3c638828c8e6f08f71269b",
+    "dedupKeys": [
+      "23f70593809ab887e43cf7e736c5e6a0251f4eef",
+      "b8520ce9b83972e3da3c638828c8e6f08f71269b",
+      "ddf5cff0918d123b6cd5a2e9badc8de838149288"
+    ],
+    "imageUrl": "/images/articles/23f70593809a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 노사 최후협상 난항, 성과급 명문화 놓고 간극 여전",
+        "excerpt": "삼성전자 노사가 정부 중재로 한 달 반 만에 협상 테이블에 복귀했지만 성과급 명문화 등을 둘러싼 이견을 좁히지 못하며 최후협상이 난항을 겪고 있다.",
+        "body": "삼성전자 노사가 정부의 중재로 한 달 반 만에 다시 협상 테이블에 앉았지만, 성과급 명문화 등을 둘러싼 핵심 쟁점에서 접점을 찾지 못하고 있다. 이번 협상은 노사 간 갈등이 장기화되는 가운데 고용노동부 장관까지 나서 사회적 책임을 강조하며 중재에 나선 자리였다. 그러나 성과급 제도를 명확히 문서화하는 문제를 포함한 주요 요구 사항에서 양측의 입장 차가 여전히 큰 것으로 전해졌다. 협상이 ‘최후협상’ 성격으로 진행되는 만큼 합의 여부는 향후 노사 관계의 분수령이 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Labor Talks Stall as Bonus Clause Gap Remains",
+        "excerpt": "Samsung Electronics and its labor union returned to negotiations after a month and a half under government mediation, but remain divided over formalizing performance bonuses.",
+        "body": "Samsung Electronics and its labor union sat down for talks again after a month and a half under government mediation, but they have yet to find common ground on key issues, including whether to codify performance bonuses. The negotiations came as the dispute between labor and management continued, with even the minister of employment and labor stepping in to stress social responsibility and mediate. Still, the two sides reportedly remain far apart on major demands, including putting the bonus system clearly into writing. As the talks are being treated as a “final negotiation,” whether an agreement is reached is expected to become a turning point for future labor relations. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子労使の最終交渉難航、成果給明文化で隔たり続く",
+        "excerpt": "サムスン電子の労使は政府の仲裁で1カ月半ぶりに交渉の場に戻ったが、成果給の明文化などをめぐる見解の差を埋められていない。",
+        "body": "サムスン電子の労使は政府の仲裁により1カ月半ぶりに再び交渉のテーブルに着いたが、成果給の明文化など核心争点で接点を見いだせていない。今回の交渉は労使対立が長期化する中、雇用労働部長官までが社会的責任を強調して仲裁に乗り出した場だった。しかし、成果給制度を明確に文書化する問題を含む主要要求をめぐり、双方の立場の隔たりはなお大きいと伝えられている。交渉が「最終交渉」の性格で進められているだけに、合意の可否は今後の労使関係の分岐点になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子劳资最终谈判受阻，绩效奖金明文化分歧仍在",
+        "excerpt": "三星电子劳资双方在政府调解下时隔一个半月重回谈判桌，但围绕绩效奖金明文化等问题仍未缩小分歧。",
+        "body": "三星电子劳资双方在政府调解下时隔一个半月再次坐到谈判桌前，但在包括绩效奖金明文化在内的核心议题上仍未找到交集。此次谈判是在劳资矛盾持续的背景下进行的，韩国雇佣劳动部长也出面强调社会责任并参与调解。不过，据悉双方在主要诉求上仍存在较大立场差异，其中包括是否将绩效奖金制度明确写入文件。由于本轮谈判具有“最终谈判”的性质，能否达成协议预计将成为今后劳资关系的重要分水岭。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics y sindicato encallan en negociación final por bonos",
+        "excerpt": "Samsung Electronics y su sindicato volvieron a la mesa tras mes y medio con mediación del Gobierno, pero siguen sin cerrar la brecha sobre formalizar los bonos.",
+        "body": "Samsung Electronics y su sindicato volvieron a sentarse a negociar tras un mes y medio gracias a la mediación del Gobierno, pero aún no encuentran un punto común en asuntos clave, incluida la formalización de los bonos por desempeño. La reunión se produjo mientras el conflicto laboral se prolonga, con la intervención incluso del ministro de Empleo y Trabajo, quien subrayó la responsabilidad social y actuó como mediador. Sin embargo, las posiciones de ambas partes siguen muy alejadas en demandas principales, incluida la documentación clara del sistema de bonos. Dado que las conversaciones tienen carácter de “negociación final”, el resultado podría marcar un punto de inflexión en las relaciones laborales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics e sindicato travam em negociação final sobre bônus",
+        "excerpt": "Samsung Electronics e sindicato voltaram à mesa após um mês e meio com mediação do governo, mas seguem sem consenso sobre formalizar bônus de desempenho.",
+        "body": "A Samsung Electronics e seu sindicato voltaram à mesa de negociação após um mês e meio, sob mediação do governo, mas ainda não encontraram consenso em pontos centrais, incluindo a formalização dos bônus por desempenho. A rodada ocorreu em meio ao prolongamento do conflito entre trabalhadores e administração, com a participação até do ministro do Emprego e Trabalho, que destacou a responsabilidade social e tentou mediar. Mesmo assim, as posições dos dois lados continuam distantes em demandas importantes, como registrar claramente o sistema de bônus em documento. Como as conversas têm caráter de “negociação final”, um acordo deve ser decisivo para as futuras relações trabalhistas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics: Letzte Tarifrunde stockt wegen Bonus-Regelung",
+        "excerpt": "Samsung Electronics und die Gewerkschaft verhandelten nach eineinhalb Monaten unter Vermittlung der Regierung erneut, bleiben aber bei der schriftlichen Bonusregelung uneins.",
+        "body": "Samsung Electronics und seine Gewerkschaft haben nach eineinhalb Monaten unter Vermittlung der Regierung wieder Verhandlungen aufgenommen, konnten bei zentralen Fragen wie der schriftlichen Festlegung von Leistungsboni aber keine Annäherung erzielen. Die Gespräche fanden statt, während der Konflikt zwischen Arbeitnehmerseite und Management anhält; sogar der Minister für Beschäftigung und Arbeit schaltete sich ein, betonte gesellschaftliche Verantwortung und vermittelte. Dennoch liegen die Positionen beider Seiten bei wichtigen Forderungen weiter deutlich auseinander, darunter die klare Dokumentation des Bonussystems. Da die Runde als „letzte Verhandlung“ gilt, dürfte eine Einigung zum Wendepunkt für die künftigen Arbeitsbeziehungen werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics: ultime négociation bloquée sur les primes",
+        "excerpt": "Samsung Electronics et son syndicat ont repris les discussions après un mois et demi avec médiation publique, mais restent divisés sur la formalisation des primes.",
+        "body": "Samsung Electronics et son syndicat se sont de nouveau assis à la table des négociations après un mois et demi, sous la médiation du gouvernement, mais n’ont pas encore trouvé de terrain d’entente sur les questions clés, dont la formalisation des primes de performance. Cette réunion intervient alors que le conflit social se prolonge, avec l’intervention du ministre de l’Emploi et du Travail, qui a souligné la responsabilité sociale et tenté une médiation. Les positions des deux parties restent toutefois éloignées sur les principales demandes, notamment l’inscription claire du système de primes dans un document. Ces discussions ayant le caractère d’une « négociation finale », leur issue pourrait devenir un tournant pour les relations sociales à venir. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تعثر المفاوضات النهائية في سامسونغ إلكترونيكس بسبب مكافآت الأداء",
+        "excerpt": "عاد طرفا العمل في سامسونغ إلكترونيكس إلى طاولة التفاوض بعد شهر ونصف بوساطة حكومية، لكن الخلاف مستمر حول توثيق مكافآت الأداء رسميا.",
+        "body": "عاد طرفا العمل في سامسونغ إلكترونيكس إلى طاولة المفاوضات بعد شهر ونصف بوساطة من الحكومة، لكنهما لم يتوصلا بعد إلى نقطة التقاء بشأن القضايا الرئيسية، ومنها توثيق مكافآت الأداء بصورة رسمية. وجاءت هذه الجولة مع استمرار الخلاف بين الإدارة والعمال، حتى إن وزير التوظيف والعمل تدخل للتوسط مؤكدا المسؤولية الاجتماعية. ومع ذلك، لا تزال مواقف الجانبين متباعدة بشأن المطالب الأساسية، بما في ذلك وضع نظام المكافآت في وثيقة واضحة. وبما أن المحادثات تجري بصفتها «مفاوضات نهائية»، فمن المتوقع أن يشكل التوصل إلى اتفاق أو عدمه نقطة تحول في علاقات العمل المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सैमसंग इलेक्ट्रॉनिक्स की अंतिम वार्ता अटकी, बोनस लिखित करने पर दूरी",
+        "excerpt": "सैमसंग इलेक्ट्रॉनिक्स और यूनियन डेढ़ महीने बाद सरकारी मध्यस्थता में फिर बातचीत पर लौटे, लेकिन प्रदर्शन बोनस को लिखित रूप देने पर मतभेद बरकरार हैं।",
+        "body": "सैमसंग इलेक्ट्रॉनिक्स और उसके श्रमिक संगठन ने सरकार की मध्यस्थता में डेढ़ महीने बाद फिर बातचीत की मेज संभाली, लेकिन प्रदर्शन बोनस को लिखित रूप से स्पष्ट करने सहित प्रमुख मुद्दों पर सहमति नहीं बन सकी। यह वार्ता तब हुई जब श्रम और प्रबंधन के बीच विवाद लंबा खिंच रहा है, और रोजगार एवं श्रम मंत्री तक ने सामाजिक जिम्मेदारी पर जोर देते हुए मध्यस्थता की। फिर भी बताया गया है कि बोनस प्रणाली को साफ तौर पर दस्तावेज में दर्ज करने जैसे मुख्य मांगों पर दोनों पक्षों के रुख में अब भी बड़ा अंतर है। चूंकि यह दौर “अंतिम वार्ता” के रूप में देखा जा रहा है, इसलिए समझौता होगा या नहीं, यह आगे के श्रम संबंधों के लिए निर्णायक मोड़ बन सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Negosiasi akhir Samsung Electronics dan serikat buntu soal bonus",
+        "excerpt": "Samsung Electronics dan serikat pekerja kembali berunding setelah satu setengah bulan lewat mediasi pemerintah, tetapi masih berbeda sikap soal formalisasi bonus kinerja.",
+        "body": "Samsung Electronics dan serikat pekerjanya kembali duduk di meja perundingan setelah satu setengah bulan melalui mediasi pemerintah, tetapi belum menemukan titik temu pada isu utama, termasuk formalisasi bonus kinerja. Perundingan ini berlangsung saat konflik antara manajemen dan pekerja berlarut, bahkan Menteri Ketenagakerjaan ikut turun tangan dengan menekankan tanggung jawab sosial dan melakukan mediasi. Namun, posisi kedua pihak dilaporkan masih jauh berbeda pada tuntutan utama, termasuk kejelasan tertulis mengenai sistem bonus. Karena pembicaraan ini dipandang sebagai “negosiasi akhir”, tercapai atau tidaknya kesepakatan diperkirakan menjadi titik penting bagi hubungan industrial ke depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "4e5f222ab4c6",
     "slug": "성창훈-조폐공사-사장-서비스경영학회-sea-수상-352998",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Kebakaran Turbin Pembangkit di Saha, Busan, Asap Hitam Menyebar dan Api Besar Terkendali",
         "excerpt": "Pada 10 Mei sekitar pukul 15.53, kebakaran terjadi pada turbin Kantor Pusat Pembangkit Gas Alam Busan di Gamcheon-dong, Saha-gu, hingga asap hitam menutupi area sekitar.",
         "body": "Pada 10 Mei sekitar pukul 15.53, kebakaran terjadi pada turbin Kantor Pusat Pembangkit Gas Alam Busan, yang juga disebut Kantor Pusat Bitdream, di Gamcheon-dong, Saha-gu, Busan. Kebakaran itu membuat asap hitam menutupi kawasan sekitar, sehingga laporan dari warga yang melihat kejadian tersebut berdatangan. Markas Pemadam Kebakaran dan Penanggulangan Bencana Busan menangani situasi di lokasi, dan api besar dilaporkan telah berhasil dikendalikan. Kebakaran disebut bermula dari turbin di dalam pembangkit, tetapi laporan asli tidak merinci penyebab maupun skala kerusakan. Karena terjadi pada peralatan pembangkit listrik, penyebaran asap dan langkah keselamatan di lokasi tetap menjadi perhatian utama. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "58418ca83f50",
-    "slug": "손실-20까지는-나라가-막아줘국민성장펀드-뭐길래-498220",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T19:37:11.007Z",
-    "updatedAt": "2026-05-10T19:37:11.007Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042788",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042788",
-    "titleFingerprint": "7b5f93ceeeb3a38f89aa29570331e682c2a19bb7",
-    "dedupKeys": [
-      "58418ca83f50b8b8dc3ba0d9fcd5e6f65d87ac05",
-      "7b5f93ceeeb3a38f89aa29570331e682c2a19bb7",
-      "1a7aa5848af9d645fb216b0768bc832097b727d1"
-    ],
-    "imageUrl": "/images/articles/58418ca83f50.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국민성장펀드 22일부터 선착순 판매, 손실 20% 방어 구조는",
-        "excerpt": "정부가 국민 자금을 모아 운용하는 국민참여형 국민성장펀드가 오는 22일부터 3주 동안 선착순 판매된다. 손실 20%까지 방어하는 구조가 핵심이다.",
-        "body": "국민참여형 국민성장펀드가 오는 22일부터 3주 동안 선착순으로 판매된다. 이 상품은 줄여서 국민참여성장펀드로 불리며, 정부가 펀드를 통해 국민 자금을 모아 운용하는 방식이다. 원문에 따르면 투자 손실이 발생할 경우 20%까지는 나라가 막아주는 구조가 소개됐다. 판매 기간은 22일부터 3주로 한정돼 있고, 선착순 방식이라는 점이 투자자 관심을 키우는 요인이다. 다만 펀드 상품인 만큼 판매 조건과 손실 방어 방식에 대한 확인이 필요하다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "National Growth Fund Opens First-Come Sale on 22nd With 20% Loss Shield",
-        "excerpt": "The public-participation National Growth Fund will be sold on a first-come basis for three weeks from the 22nd, with a structure that shields losses up to 20%.",
-        "body": "The public-participation National Growth Fund will go on sale from the 22nd for three weeks on a first-come basis. The product is also referred to as the Public Participation Growth Fund. According to the original report, the government will operate the fund by gathering public capital, and the structure includes protection against investment losses of up to 20%. The limited three-week sales window and first-come format are key points for investors. As it is a fund product, buyers need to check the sales conditions and how the loss-protection mechanism works. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "国民成長ファンド、22日から先着販売 損失20％まで防御",
-        "excerpt": "国民参加型の国民成長ファンドが22日から3週間、先着順で販売される。投資損失を20％まで国が防ぐ仕組みが焦点だ。",
-        "body": "国民参加型の国民成長ファンドが22日から3週間、先着順で販売される。この商品は略して国民参加成長ファンドとも呼ばれる。原文によると、政府がファンドを通じて国民の資金を集めて運用する方式で、投資損失が発生した場合には20％まで国が防ぐ構造が紹介された。販売期間は22日から3週間に限られ、先着順である点が投資家の関心を高める要因となっている。ただしファンド商品であるため、販売条件と損失防御の仕組みを確認する必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "国民成长基金22日起先到先得销售，损失20%防护受关注",
-        "excerpt": "国民参与型国民成长基金将从22日起连续三周以先到先得方式销售，核心在于投资损失最高20%的防护结构。",
-        "body": "国民参与型国民成长基金将从22日起连续三周以先到先得方式销售。该产品也被简称为国民参与成长基金。根据原文，政府将通过出售基金汇集国民资金并进行运作，产品结构中介绍了若发生投资损失，最高20%由国家进行防护。销售期限定为自22日起三周，且采取先到先得方式，这成为吸引投资者关注的因素。不过，由于其属于基金产品，投资者仍需确认销售条件以及损失防护机制的具体方式。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Fondo Nacional de Crecimiento se vende desde el 22 con cobertura de pérdidas del 20%",
-        "excerpt": "El Fondo Nacional de Crecimiento de participación ciudadana saldrá a la venta por orden de llegada durante tres semanas desde el día 22, con cobertura de pérdidas de hasta el 20%.",
-        "body": "El Fondo Nacional de Crecimiento de participación ciudadana saldrá a la venta desde el día 22 durante tres semanas por orden de llegada. El producto también se conoce de forma abreviada como Fondo de Crecimiento de Participación Ciudadana. Según el texto original, el gobierno reunirá capital de los ciudadanos mediante el fondo para administrarlo, y se presentó una estructura en la que el Estado cubre pérdidas de inversión de hasta el 20%. El plazo limitado de tres semanas y la venta por orden de llegada son los puntos que atraen atención. Al tratarse de un fondo, conviene revisar las condiciones de venta y el mecanismo de cobertura. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Fundo Nacional de Crescimento será vendido no dia 22 com proteção de perda de 20%",
-        "excerpt": "O Fundo Nacional de Crescimento com participação popular será vendido por ordem de chegada durante três semanas a partir do dia 22, com proteção contra perdas de até 20%.",
-        "body": "O Fundo Nacional de Crescimento com participação popular será vendido a partir do dia 22, por três semanas, em sistema de ordem de chegada. O produto também é chamado de Fundo de Crescimento com Participação Popular. Segundo o texto original, o governo reunirá recursos dos cidadãos por meio do fundo para administrá-los, e foi apresentada uma estrutura em que o Estado protege contra perdas de investimento de até 20%. O período de venda limitado a três semanas e o modelo por ordem de chegada são fatores de interesse para investidores. Por ser um fundo, é necessário verificar as condições de venda e o funcionamento da proteção contra perdas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Nationaler Wachstumsfonds startet am 22. mit Schutz vor 20% Verlust",
-        "excerpt": "Der bürgerbeteiligte Nationale Wachstumsfonds wird ab dem 22. drei Wochen lang nach dem Prinzip First Come, First Served verkauft und soll Verluste bis 20% abfedern.",
-        "body": "Der bürgerbeteiligte Nationale Wachstumsfonds wird ab dem 22. für drei Wochen nach dem Prinzip First Come, First Served verkauft. Das Produkt wird verkürzt auch Bürgerbeteiligungs-Wachstumsfonds genannt. Laut Originalbericht sammelt die Regierung über den Fonds Kapital von Bürgern ein und verwaltet es. Vorgestellt wurde eine Struktur, bei der der Staat Anlageverluste bis zu 20% abfedert. Die auf drei Wochen begrenzte Verkaufsfrist und die Vergabe nach Reihenfolge der Anträge erhöhen das Interesse der Anleger. Da es sich um ein Fondsprodukt handelt, sollten Verkaufsbedingungen und der Mechanismus des Verlustschutzes geprüft werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Fonds national de croissance vendu dès le 22 avec protection des pertes de 20%",
-        "excerpt": "Le Fonds national de croissance à participation publique sera vendu selon l’ordre d’arrivée pendant trois semaines à partir du 22, avec une protection des pertes jusqu’à 20%.",
-        "body": "Le Fonds national de croissance à participation publique sera mis en vente à partir du 22 pendant trois semaines, selon l’ordre d’arrivée. Ce produit est aussi appelé, en abrégé, Fonds de croissance à participation publique. Selon le texte original, le gouvernement réunira des capitaux auprès des citoyens au moyen du fonds afin de les gérer, avec une structure présentée comme protégeant les pertes d’investissement jusqu’à 20%. La période de vente limitée à trois semaines et le principe du premier arrivé sont les principaux éléments d’attention. Comme il s’agit d’un fonds, les conditions de vente et le mécanisme de protection des pertes doivent être vérifiés. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صندوق النمو الوطني يبدأ البيع في 22 مع حماية خسائر حتى 20%",
-        "excerpt": "يُطرح صندوق النمو الوطني بمشاركة المواطنين للبيع بأسبقية الحجز لمدة ثلاثة أسابيع بدءا من يوم 22، مع هيكل يحمي من خسائر الاستثمار حتى 20%.",
-        "body": "يبدأ بيع صندوق النمو الوطني بمشاركة المواطنين اعتبارا من يوم 22 ولمدة ثلاثة أسابيع، وفق نظام أسبقية الحجز. ويُعرف المنتج اختصارا باسم صندوق النمو بمشاركة المواطنين. وبحسب النص الأصلي، ستجمع الحكومة أموال المواطنين عبر الصندوق لتديرها، مع تقديم هيكل يحمي من خسائر الاستثمار حتى نسبة 20%. وتعد مدة البيع المحدودة بثلاثة أسابيع وطريقة الأسبقية من أبرز العوامل التي تجذب اهتمام المستثمرين. وبما أنه منتج صندوق استثماري، فمن الضروري التحقق من شروط البيع وآلية الحماية من الخسائر. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "नेशनल ग्रोथ फंड 22 से पहले आओ बिक्री, 20% नुकसान सुरक्षा पर नजर",
-        "excerpt": "जनभागीदारी वाला नेशनल ग्रोथ फंड 22 तारीख से तीन सप्ताह तक पहले आओ, पहले पाओ आधार पर बिकेगा, जिसमें 20% तक निवेश नुकसान से सुरक्षा की संरचना प्रमुख है।",
-        "body": "जनभागीदारी वाला नेशनल ग्रोथ फंड 22 तारीख से तीन सप्ताह तक पहले आओ, पहले पाओ आधार पर बिक्री के लिए उपलब्ध होगा। इस उत्पाद को संक्षेप में पब्लिक पार्टिसिपेशन ग्रोथ फंड भी कहा जाता है। मूल रिपोर्ट के अनुसार, सरकार इस फंड के जरिये जनता की पूंजी जुटाकर उसका संचालन करेगी, और इसमें निवेश नुकसान होने पर 20% तक देश की ओर से सुरक्षा देने की संरचना बताई गई है। बिक्री अवधि 22 तारीख से केवल तीन सप्ताह तक सीमित है और पहले आओ व्यवस्था निवेशकों की रुचि बढ़ा रही है। चूंकि यह फंड उत्पाद है, इसलिए बिक्री शर्तों और नुकसान सुरक्षा तंत्र की पुष्टि आवश्यक है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "National Growth Fund Dijual Mulai 22, Kerugian Hingga 20% Dilindungi",
-        "excerpt": "National Growth Fund berbasis partisipasi publik akan dijual berdasarkan siapa cepat dia dapat selama tiga minggu mulai tanggal 22, dengan struktur perlindungan rugi hingga 20%.",
-        "body": "National Growth Fund berbasis partisipasi publik akan dijual mulai tanggal 22 selama tiga minggu dengan sistem siapa cepat dia dapat. Produk ini juga disebut secara singkat sebagai Public Participation Growth Fund. Menurut laporan asli, pemerintah akan menghimpun dana masyarakat melalui fund tersebut untuk dikelola, dengan struktur yang memperkenalkan perlindungan atas kerugian investasi hingga 20%. Masa penjualan yang terbatas selama tiga minggu dan mekanisme siapa cepat dia dapat menjadi faktor yang menarik perhatian investor. Karena ini merupakan produk fund, syarat penjualan dan cara kerja perlindungan kerugian perlu diperiksa. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cd18a6c71d5b",
-    "slug": "7500-찍은-코스피-더-갈까-토해낼까-145228",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T19:36:17.798Z",
-    "updatedAt": "2026-05-10T19:36:17.798Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042786",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042786",
-    "titleFingerprint": "47fd3627143099a6d0bbb350a6130e38b11ab200",
-    "dedupKeys": [
-      "cd18a6c71d5bfb57a5ef2386abd44aa44ac7662e",
-      "47fd3627143099a6d0bbb350a6130e38b11ab200",
-      "25bdf69ef314e348caec558d2a19c99f0dfae2c2"
-    ],
-    "imageUrl": "/images/articles/cd18a6c71d5b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7500선 돌파 후 향방 주목, 지난주 13% 급등세 이어질까",
-        "excerpt": "코스피가 지난주 13% 넘게 상승해 5월 8일 7498로 마감했고, 5월 7일 장중 7531까지 오르며 7500선 돌파 이후 흐름에 관심이 쏠린다.",
-        "body": "코스피가 지난주 13% 넘게 뛰며 5월 8일 7498로 마감했다. 5월 7일 장중에는 7531까지 치솟아 7500선을 넘어섰다. 지난주 국내 증시는 “7500 찍었다”는 말로 요약될 만큼 강한 상승 흐름을 보였다. 핵심 수치는 주간 상승률 13% 이상, 5월 8일 종가 7498, 5월 7일 장중 고점 7531이다. 이에 따라 시장의 관심은 코스피가 7500선 돌파 이후 추가 상승을 이어갈지, 단기 급등분을 되돌릴지에 모이고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI’s 7,500 Breakout in Focus After 13% Weekly Surge",
-        "excerpt": "The KOSPI rose more than 13% last week, closed at 7,498 on May 8, and reached 7,531 intraday on May 7, drawing attention to its next move after topping 7,500.",
-        "body": "The KOSPI jumped more than 13% last week and closed at 7,498 on May 8. On May 7, it climbed as high as 7,531 intraday, moving above the 7,500 mark. Last week’s Korean stock market was summed up by the phrase, “It hit 7,500,” reflecting the strength of the rally. The key figures are a weekly gain of more than 13%, a May 8 close of 7,498, and a May 7 intraday high of 7,531. Market attention is now focused on whether the KOSPI can extend gains after breaking 7,500 or give back part of its sharp advance. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPIが7500突破、先週13％超上昇後の行方に注目",
-        "excerpt": "KOSPIは先週13％超上昇し、5月8日に7498で終了。5月7日には取引時間中に7531まで上昇し、7500突破後の展開が注目されている。",
-        "body": "KOSPIは先週13％を超えて上昇し、5月8日に7498で取引を終えた。5月7日の取引時間中には7531まで急伸し、7500台を上回った。先週の韓国株式市場は「7500を付けた」という一言で要約されるほど強い上昇を見せた。主な数値は週間上昇率13％超、5月8日の終値7498、5月7日の取引時間中高値7531である。市場の関心は、KOSPIが7500突破後も上昇を続けるのか、短期急騰分を戻すのかに集まっている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI突破7500点后走势受关注，上周涨幅超过13%",
-        "excerpt": "KOSPI上周上涨超过13%，5月8日收于7498点，5月7日盘中升至7531点，市场关注其突破7500点后的后续走势。",
-        "body": "KOSPI上周上涨超过13%，并于5月8日收于7498点。5月7日盘中，指数一度升至7531点，突破7500点关口。上周韩国股市几乎可以用“到了7500点”来概括，显示出强劲上涨势头。关键数据包括周涨幅超过13%、5月8日收盘7498点，以及5月7日盘中高点7531点。市场关注的焦点在于，KOSPI突破7500点后是否会继续上涨，还是回吐短期快速上涨的部分涨幅。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI supera los 7.500 puntos y enfoca el mercado tras subir más del 13%",
-        "excerpt": "El KOSPI avanzó más del 13% la semana pasada, cerró en 7.498 el 8 de mayo y tocó 7.531 intradía el 7 de mayo, elevando la atención sobre su rumbo posterior.",
-        "body": "El KOSPI subió más del 13% la semana pasada y cerró en 7.498 el 8 de mayo. El 7 de mayo llegó a 7.531 puntos durante la sesión, superando la barrera de 7.500. La bolsa coreana de la semana pasada se resumió en una frase: “tocó 7.500”, reflejo de una fuerte tendencia alcista. Las cifras clave son una subida semanal superior al 13%, el cierre de 7.498 del 8 de mayo y el máximo intradía de 7.531 del 7 de mayo. La atención del mercado se centra ahora en si el KOSPI prolongará el avance tras superar 7.500 o devolverá parte del rápido repunte. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI rompe 7.500 pontos e mercado observa alta semanal acima de 13%",
-        "excerpt": "O KOSPI subiu mais de 13% na semana passada, fechou a 7.498 em 8 de maio e tocou 7.531 no intradia de 7 de maio, atraindo atenção para o próximo movimento.",
-        "body": "O KOSPI avançou mais de 13% na semana passada e fechou a 7.498 em 8 de maio. Em 7 de maio, chegou a 7.531 durante o pregão, superando a marca de 7.500 pontos. O mercado acionário coreano da semana passada pôde ser resumido pela frase “chegou a 7.500”, dada a força da alta. Os principais números são ganho semanal superior a 13%, fechamento de 7.498 em 8 de maio e máxima intradiária de 7.531 em 7 de maio. A atenção agora está voltada para saber se o KOSPI continuará subindo após romper 7.500 ou devolverá parte do avanço rápido. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI über 7.500 Punkten: Nach 13% Wochenplus rückt Ausblick in den Fokus",
-        "excerpt": "Der KOSPI stieg vergangene Woche um mehr als 13%, schloss am 8. Mai bei 7.498 und erreichte am 7. Mai intraday 7.531 Punkte; nun zählt der weitere Verlauf.",
-        "body": "Der KOSPI legte in der vergangenen Woche um mehr als 13% zu und schloss am 8. Mai bei 7.498 Punkten. Am 7. Mai stieg er im Tagesverlauf bis auf 7.531 Punkte und überschritt damit die Marke von 7.500. Der koreanische Aktienmarkt der Vorwoche ließ sich mit dem Satz „7.500 erreicht“ zusammenfassen. Die zentralen Zahlen sind ein Wochenplus von mehr als 13%, der Schlussstand von 7.498 am 8. Mai und das Intraday-Hoch von 7.531 am 7. Mai. Im Fokus steht nun, ob der KOSPI nach dem Sprung über 7.500 weiter steigt oder einen Teil des schnellen Anstiegs abgibt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI franchit 7 500 points après une hausse hebdomadaire de plus de 13%",
-        "excerpt": "Le KOSPI a gagné plus de 13% la semaine dernière, clôturé à 7 498 le 8 mai et atteint 7 531 en séance le 7 mai, plaçant la suite du mouvement au centre de l’attention.",
-        "body": "Le KOSPI a progressé de plus de 13% la semaine dernière et a clôturé à 7 498 le 8 mai. Le 7 mai, il est monté jusqu’à 7 531 en séance, dépassant le seuil de 7 500 points. La Bourse coréenne de la semaine passée pouvait se résumer par la formule « il a touché 7 500 », tant la hausse a été marquée. Les chiffres clés sont une hausse hebdomadaire supérieure à 13%, une clôture à 7 498 le 8 mai et un plus haut intrajournalier de 7 531 le 7 mai. L’attention se porte désormais sur la capacité du KOSPI à prolonger sa hausse après 7 500 ou à rendre une partie de son rebond rapide. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7500 نقطة بعد صعود أسبوعي يفوق 13% والأنظار على المسار التالي",
-        "excerpt": "ارتفع مؤشر كوسبي بأكثر من 13% الأسبوع الماضي، وأغلق عند 7498 في 8 مايو، ولامس 7531 نقطة خلال جلسة 7 مايو، ما يضع تحركه التالي تحت المتابعة.",
-        "body": "ارتفع مؤشر كوسبي بأكثر من 13% الأسبوع الماضي وأغلق عند 7498 نقطة في 8 مايو. وفي 7 مايو، صعد خلال الجلسة إلى 7531 نقطة، متجاوزا مستوى 7500. ويمكن تلخيص أداء سوق الأسهم الكورية الأسبوع الماضي بعبارة “بلغ 7500”، في إشارة إلى قوة موجة الصعود. الأرقام الأساسية هي ارتفاع أسبوعي يفوق 13%، وإغلاق 8 مايو عند 7498، وقمة 7 مايو خلال الجلسة عند 7531. وينصب اهتمام السوق الآن على ما إذا كان كوسبي سيواصل الصعود بعد اختراق 7500 أم سيتخلى عن جزء من مكاسبه السريعة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 7,500 के पार, 13% साप्ताहिक उछाल के बाद आगे की दिशा पर नजर",
-        "excerpt": "KOSPI पिछले सप्ताह 13% से अधिक चढ़कर 8 मई को 7,498 पर बंद हुआ और 7 मई को कारोबार के दौरान 7,531 तक पहुंचा, जिससे 7,500 के बाद की चाल पर ध्यान है।",
-        "body": "KOSPI पिछले सप्ताह 13% से अधिक उछला और 8 मई को 7,498 पर बंद हुआ। 7 मई को कारोबार के दौरान यह 7,531 तक चढ़ गया और 7,500 के स्तर को पार कर गया। पिछले सप्ताह कोरियाई शेयर बाजार को “7,500 छू लिया” वाक्य में समेटा जा सकता है, क्योंकि तेजी मजबूत रही। प्रमुख आंकड़े हैं: साप्ताहिक बढ़त 13% से अधिक, 8 मई का बंद स्तर 7,498, और 7 मई का इंट्राडे उच्च स्तर 7,531। अब बाजार की नजर इस बात पर है कि KOSPI 7,500 पार करने के बाद बढ़त जारी रखेगा या तेज उछाल का कुछ हिस्सा गंवाएगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Tembus 7.500, Arah Berikutnya Disorot Usai Naik Lebih dari 13%",
-        "excerpt": "KOSPI naik lebih dari 13% pekan lalu, ditutup di 7.498 pada 8 Mei, dan sempat mencapai 7.531 intraday pada 7 Mei, memicu perhatian pada pergerakan berikutnya.",
-        "body": "KOSPI melonjak lebih dari 13% pekan lalu dan ditutup di 7.498 pada 8 Mei. Pada 7 Mei, indeks sempat naik hingga 7.531 dalam perdagangan intraday, menembus level 7.500. Bursa saham Korea pekan lalu dapat diringkas dengan kalimat “mencapai 7.500”, mencerminkan kuatnya tren kenaikan. Angka utama adalah kenaikan mingguan lebih dari 13%, penutupan 8 Mei di 7.498, dan level tertinggi intraday 7 Mei di 7.531. Perhatian pasar kini tertuju pada apakah KOSPI akan melanjutkan kenaikan setelah menembus 7.500 atau mengembalikan sebagian kenaikan cepatnya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d71b86aa32e9",
-    "slug": "재수할-결심-고2부터-끝난다최상위권-변수된-내신-865997",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T19:35:19.840Z",
-    "updatedAt": "2026-05-10T19:35:19.840Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042789",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042789",
-    "titleFingerprint": "ed41a9f8a48549486fe1e3560e87f4d24a3be719",
-    "dedupKeys": [
-      "d71b86aa32e961919a31c62fc135c4b88269ddb7",
-      "ed41a9f8a48549486fe1e3560e87f4d24a3be719",
-      "aaf8088bb940a92d6901aa4a6784dac727ec2fa4"
-    ],
-    "imageUrl": "/images/articles/d71b86aa32e9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "2028 대입 전형계획 발표, 최상위권 변수로 떠오른 내신 영향",
-        "excerpt": "2028학년도 대입 전형계획이 전국 218개 대학 기준으로 공개되며, 상위권대 정시 비중 축소와 내신 5등급제 개편이 최상위권 입시 변수로 부상했다.",
-        "body": "2028학년도 대학입시 전형계획이 전국 218개 대학을 대상으로 발표되면서 고교 내신의 영향이 최상위권 입시의 핵심 변수로 떠올랐다. 원문에 따르면 2028학년도에는 내신 5등급제 개편과 수능 개편이 함께 적용된다. 특히 상위권 대학의 정시 비중이 큰 폭으로 줄어드는 흐름이 제시됐고, 서울권 대학의 정시 비중은 36.2%인 반면 지방권은 10.2%로 나타났다. 이에 따라 정시 중심으로 재도전을 고려하는 전략보다 고교 재학 중 내신 관리의 중요성이 커질 수 있다. 관련 내용은 mk.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "2028 College Admissions Plan Puts School Grades at Center of Top-Tier Race",
-        "excerpt": "Admissions plans for 218 universities for the 2028 school year show reduced regular admissions shares at top schools and a shift to a five-grade school record system.",
-        "body": "Admissions plans for the 2028 school year have been announced for 218 universities nationwide, making high school records a key variable for top-tier applicants. According to the source text, the 2028 admissions cycle will apply both a revised five-grade school record system and changes to the national college entrance exam. The report says the share of regular admissions at leading universities will be sharply reduced. In Seoul-area universities, the regular admissions share stands at 36.2%, compared with 10.2% in regional universities. As a result, managing school grades during high school may become more important than a strategy centered on retaking the exam. This article cites mk.co.kr."
-      },
-      "ja": {
-        "title": "2028年度入試計画発表、最上位層の焦点に浮上した内申の影響",
-        "excerpt": "全国218大学の2028年度入試計画が公表され、上位大学の定時募集比率縮小と内申5等級制改編が最上位層の変数となった。",
-        "body": "2028年度大学入試の選考計画が全国218大学を対象に発表され、高校の内申が最上位層入試の重要な変数として浮上した。原文によると、2028年度には内申5等級制への改編と大学修学能力試験の改編が同時に適用される。特に上位大学では定時募集の比率が大きく縮小する流れが示された。ソウル圏大学の定時募集比率は36.2%である一方、地方圏は10.2%だった。これにより、定時募集中心で再挑戦を考える戦略よりも、高校在学中の内申管理の重要性が高まる可能性がある。関連内容はmk.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "2028年大学招生方案公布，校内成绩成顶尖考生关键变量",
-        "excerpt": "韩国218所大学公布2028学年招生方案，顶尖大学定时招生比例缩小，校内成绩5等级制改革成为升学新焦点。",
-        "body": "韩国全国218所大学的2028学年大学招生方案公布后，高中校内成绩成为顶尖考生升学中的重要变量。原文显示，2028学年将同时适用校内成绩5等级制改革和高考制度改革。报道指出，排名靠前大学的定时招生比例将大幅缩小。首尔地区大学的定时招生比例为36.2%，而地方地区为10.2%。因此，与以定时招生和复读为中心的策略相比，高中在读期间的校内成绩管理重要性可能进一步上升。相关内容引自mk.co.kr报道。"
-      },
-      "es": {
-        "title": "Plan de admisión 2028 eleva las notas escolares como factor clave",
-        "excerpt": "Los planes de admisión de 218 universidades para 2028 muestran menor peso de la vía regular en centros de élite y una reforma del sistema de cinco niveles.",
-        "body": "Los planes de admisión universitaria para el año académico 2028 fueron anunciados para 218 universidades del país, situando las calificaciones escolares como una variable clave para los aspirantes de mayor nivel. Según el texto original, en 2028 se aplicarán tanto la reforma del expediente escolar a un sistema de cinco niveles como cambios en el examen nacional de acceso. El informe señala una fuerte reducción de la proporción de admisiones regulares en las universidades de mayor rango. En el área de Seúl, esa proporción es del 36,2%, frente al 10,2% en las regiones. Así, la gestión de las notas durante la secundaria puede ganar importancia frente a una estrategia centrada en repetir el examen. La información cita a mk.co.kr."
-      },
-      "pt": {
-        "title": "Plano de admissão de 2028 coloca notas escolares no centro da disputa",
-        "excerpt": "Planos de 218 universidades para 2028 mostram queda na participação da admissão regular nas instituições de ponta e reforma do sistema de cinco níveis.",
-        "body": "Os planos de admissão universitária para o ano letivo de 2028 foram anunciados para 218 universidades em todo o país, colocando o histórico escolar do ensino médio como uma variável central para os candidatos de melhor desempenho. Segundo o texto original, em 2028 serão aplicadas tanto a reforma para um sistema de cinco níveis nas notas escolares quanto mudanças no exame nacional de entrada. O relatório aponta forte redução da participação da admissão regular nas universidades de ponta. Nas instituições da região de Seul, essa fatia é de 36,2%, contra 10,2% nas regiões fora da capital. Com isso, administrar as notas durante o ensino médio pode ganhar peso em relação a uma estratégia focada em refazer o exame. O conteúdo cita mk.co.kr."
-      },
-      "de": {
-        "title": "Zulassungsplan 2028 rückt Schulnoten für Top-Bewerber in den Fokus",
-        "excerpt": "Die Pläne von 218 Universitäten für 2028 zeigen sinkende reguläre Zulassungsquoten an Spitzenhochschulen und eine Reform des fünfstufigen Notensystems.",
-        "body": "Die Zulassungspläne für das Studienjahr 2028 wurden für 218 Universitäten landesweit veröffentlicht und rücken die Schulnoten als zentrale Variable für Bewerber im Spitzensegment in den Vordergrund. Dem Ausgangstext zufolge werden 2028 sowohl die Reform des fünfstufigen Schulleistungssystems als auch Änderungen der nationalen Hochschulaufnahmeprüfung angewendet. Besonders an führenden Universitäten soll der Anteil der regulären Zulassung deutlich sinken. In Universitäten im Raum Seoul liegt dieser Anteil bei 36,2%, in regionalen Hochschulen bei 10,2%. Damit kann die Pflege der Schulnoten während der Oberstufe wichtiger werden als eine Strategie, die auf eine erneute Prüfung ausgerichtet ist. Die Angaben beziehen sich auf mk.co.kr."
-      },
-      "fr": {
-        "title": "Admissions 2028 : les notes scolaires deviennent décisives en tête",
-        "excerpt": "Les plans de 218 universités pour 2028 montrent un recul de l’admission régulière dans les établissements de haut rang et une réforme du système à cinq niveaux.",
-        "body": "Les plans d’admission universitaire pour l’année 2028 ont été annoncés pour 218 universités du pays, faisant du dossier scolaire un facteur clé pour les candidats les mieux classés. Selon le texte d’origine, la réforme du système de notes scolaires en cinq niveaux et la réforme de l’examen national d’entrée s’appliqueront ensemble en 2028. Le rapport indique une forte baisse de la part des admissions régulières dans les universités les plus sélectives. Dans la région de Séoul, cette part atteint 36,2%, contre 10,2% dans les régions. Ainsi, la gestion des notes au lycée pourrait devenir plus importante qu’une stratégie centrée sur une nouvelle tentative à l’examen. Ces informations citent mk.co.kr."
-      },
-      "ar": {
-        "title": "خطة قبول 2028 تجعل الدرجات المدرسية عاملا حاسما للنخبة",
-        "excerpt": "أظهرت خطط القبول في 218 جامعة لعام 2028 تراجع حصة القبول المنتظم في الجامعات العليا، مع إصلاح نظام السجل المدرسي إلى خمسة مستويات.",
-        "body": "أُعلنت خطط القبول الجامعي للعام الدراسي 2028 في 218 جامعة على مستوى البلاد، ما جعل السجل المدرسي في المرحلة الثانوية متغيرا رئيسيا للمتقدمين من الفئة الأعلى. وبحسب النص الأصلي، سيُطبق في 2028 إصلاح نظام الدرجات المدرسية إلى خمسة مستويات إلى جانب تعديل امتحان القبول الجامعي الوطني. ويشير التقرير إلى أن حصة القبول المنتظم في الجامعات العليا ستنخفض بشكل كبير. وتبلغ هذه الحصة في جامعات منطقة سيول 36.2%، مقابل 10.2% في الجامعات الإقليمية. لذلك قد تزداد أهمية إدارة الدرجات أثناء الدراسة الثانوية مقارنة باستراتيجية تركز على إعادة الامتحان. يستند هذا المحتوى إلى تقرير mk.co.kr."
-      },
-      "hi": {
-        "title": "2028 प्रवेश योजना में शीर्ष छात्रों के लिए स्कूल ग्रेड अहम कारक",
-        "excerpt": "2028 के लिए 218 विश्वविद्यालयों की प्रवेश योजनाओं में शीर्ष संस्थानों में नियमित प्रवेश अनुपात घटा और स्कूल रिकॉर्ड की पांच-स्तरीय प्रणाली प्रमुख बनी।",
-        "body": "2028 शैक्षणिक वर्ष के लिए देशभर के 218 विश्वविद्यालयों की प्रवेश योजनाएं घोषित होने के बाद हाई स्कूल रिकॉर्ड शीर्ष श्रेणी के आवेदकों के लिए अहम कारक बन गया है। मूल पाठ के अनुसार, 2028 में स्कूल रिकॉर्ड की पांच-स्तरीय प्रणाली में बदलाव और राष्ट्रीय कॉलेज प्रवेश परीक्षा में सुधार साथ-साथ लागू होंगे। रिपोर्ट में कहा गया है कि शीर्ष विश्वविद्यालयों में नियमित प्रवेश का अनुपात काफी घटेगा। सियोल क्षेत्र के विश्वविद्यालयों में नियमित प्रवेश का अनुपात 36.2% है, जबकि क्षेत्रीय विश्वविद्यालयों में यह 10.2% है। ऐसे में परीक्षा दोबारा देने पर केंद्रित रणनीति की तुलना में हाई स्कूल के दौरान ग्रेड प्रबंधन का महत्व बढ़ सकता है। यह सामग्री mk.co.kr की रिपोर्ट का हवाला देती है।"
-      },
-      "id": {
-        "title": "Rencana Masuk Kampus 2028 Jadikan Nilai Sekolah Faktor Utama",
-        "excerpt": "Rencana penerimaan 218 universitas untuk 2028 menunjukkan porsi jalur reguler di kampus papan atas turun dan sistem nilai sekolah lima tingkat direformasi.",
-        "body": "Rencana penerimaan mahasiswa untuk tahun ajaran 2028 telah diumumkan untuk 218 universitas di seluruh negeri, menjadikan catatan nilai sekolah menengah sebagai variabel utama bagi pelamar papan atas. Menurut teks asli, pada 2028 akan diterapkan reformasi sistem nilai sekolah lima tingkat bersama perubahan pada ujian masuk perguruan tinggi nasional. Laporan itu menyebut porsi penerimaan reguler di universitas unggulan akan turun tajam. Di universitas wilayah Seoul, porsinya 36,2%, sedangkan di wilayah daerah 10,2%. Karena itu, pengelolaan nilai selama sekolah menengah dapat menjadi lebih penting dibanding strategi yang berpusat pada mengulang ujian. Konten ini mengutip laporan mk.co.kr."
       }
     }
   }
