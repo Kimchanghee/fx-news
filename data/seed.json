@@ -1,5 +1,230 @@
 [
   {
+    "id": "f01e8ca10ae2",
+    "slug": "원익ips-메모리-장기계약-수혜목표가-nh-454912",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T00:02:43.861Z",
+    "updatedAt": "2026-05-11T00:02:43.861Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051171336",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051171336",
+    "titleFingerprint": "d7160bcc794c17b5aca52c714b1fdf87452aa556",
+    "dedupKeys": [
+      "f01e8ca10ae29f8fbf48a178f9fa4fbc39a65c35",
+      "d7160bcc794c17b5aca52c714b1fdf87452aa556",
+      "fc19d1c30f60c8bcec114c617356932f183c4de8"
+    ],
+    "imageUrl": "/images/articles/f01e8ca10ae2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원익IPS 목표가 상향, NH ‘메모리 장기계약 수혜’ 주목",
+        "excerpt": "NH는 원익IPS가 메모리 장기계약의 수혜를 받을 것으로 보고 목표가를 상향했다. 메모리 관련 계약 기대가 투자 판단의 핵심 배경으로 제시됐다.",
+        "body": "NH는 원익IPS에 대해 메모리 장기계약의 수혜가 기대된다며 목표가를 상향했다. 이번 판단은 원익IPS가 메모리 분야와 관련된 장기계약 흐름에서 긍정적 영향을 받을 수 있다는 분석에 기반했다. 구체적인 수치나 계약 조건은 원문에 제시되지 않았지만, NH는 메모리 장기계약을 핵심 투자 포인트로 봤다. 이에 따라 시장에서는 원익IPS의 향후 실적 전망과 관련 장비 수요 흐름에 관심이 이어질 수 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Wonik IPS Target Raised as NH Cites Memory Long-Term Contract Benefit",
+        "excerpt": "NH raised its target price for Wonik IPS, citing expected benefits from long-term memory contracts. The memory contract outlook was presented as the key investment point.",
+        "body": "NH raised its target price for Wonik IPS, saying the company is expected to benefit from long-term contracts in the memory sector. The view is based on the analysis that Wonik IPS could see a positive impact from long-term contract trends related to memory. The original report did not provide specific figures or contract terms, but NH highlighted memory long-term contracts as the main investment point. Market attention may therefore continue to focus on Wonik IPS’s earnings outlook and related equipment demand. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ウォニクIPS目標株価引き上げ、NHがメモリー長期契約の恩恵に注目",
+        "excerpt": "NHはウォニクIPSがメモリー長期契約の恩恵を受けるとみて目標株価を引き上げた。契約期待が投資判断の中心材料とされた。",
+        "body": "NHはウォニクIPSについて、メモリー分野の長期契約による恩恵が期待されるとして目標株価を引き上げた。今回の判断は、ウォニクIPSがメモリー関連の長期契約の流れから前向きな影響を受ける可能性があるとの分析に基づく。原文では具体的な数値や契約条件は示されていないが、NHはメモリー長期契約を主要な投資ポイントとして挙げた。今後、市場では同社の業績見通しと関連装置需要の動向に関心が続く可能性がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Wonik IPS目标价上调，NH关注存储长期合约受益",
+        "excerpt": "NH上调Wonik IPS目标价，认为公司有望受益于存储领域长期合约。存储合约预期被列为投资判断的核心依据。",
+        "body": "NH上调了Wonik IPS的目标价，理由是该公司有望受益于存储领域的长期合约。此次判断基于这样一种分析，即Wonik IPS可能从与存储相关的长期合约趋势中获得积极影响。原文未披露具体数字或合约条件，但NH将存储长期合约视为主要投资看点。因此，市场后续可能继续关注Wonik IPS的业绩前景以及相关设备需求走势。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Wonik IPS sube precio objetivo: NH destaca contratos de memoria",
+        "excerpt": "NH elevó el precio objetivo de Wonik IPS al prever beneficios de contratos de largo plazo en memoria. Esa expectativa fue el eje de su evaluación de inversión.",
+        "body": "NH elevó el precio objetivo de Wonik IPS al señalar que la compañía podría beneficiarse de contratos de largo plazo en el sector de memoria. La decisión se basa en el análisis de que Wonik IPS puede recibir un impacto positivo de la tendencia de contratos vinculados a memoria. El texto original no presentó cifras concretas ni condiciones contractuales, pero NH identificó los contratos de largo plazo en memoria como el principal punto de inversión. Por ello, el mercado podría seguir atento a las perspectivas de resultados de Wonik IPS y a la demanda de equipos relacionados. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Wonik IPS tem preço-alvo elevado; NH vê benefício em memória",
+        "excerpt": "A NH elevou o preço-alvo da Wonik IPS ao apontar benefícios esperados de contratos de longo prazo em memória, fator central para sua avaliação de investimento.",
+        "body": "A NH elevou o preço-alvo da Wonik IPS, afirmando que a empresa deve se beneficiar de contratos de longo prazo no segmento de memória. A avaliação se baseia na análise de que a Wonik IPS pode receber impacto positivo do fluxo de contratos de longo prazo ligados à memória. O texto original não trouxe números específicos nem condições contratuais, mas a NH destacou esses contratos como o principal ponto de investimento. Assim, o mercado pode continuar acompanhando as perspectivas de desempenho da Wonik IPS e a demanda por equipamentos relacionados. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Wonik IPS: Kursziel erhöht, NH sieht Vorteil durch Speicherverträge",
+        "excerpt": "NH hat das Kursziel für Wonik IPS angehoben und verweist auf erwartete Vorteile aus langfristigen Speicherverträgen als zentralen Grund der Einschätzung.",
+        "body": "NH hat das Kursziel für Wonik IPS angehoben, da das Unternehmen von langfristigen Verträgen im Speicherbereich profitieren dürfte. Die Einschätzung beruht auf der Analyse, dass Wonik IPS durch langfristige Vertragsentwicklungen rund um Speicher positive Impulse erhalten könnte. Konkrete Zahlen oder Vertragsbedingungen wurden im Original nicht genannt, doch NH hob langfristige Speicherverträge als wichtigsten Investmentpunkt hervor. Daher dürfte der Markt weiter auf die Ergebnisperspektiven von Wonik IPS und die Nachfrage nach zugehöriger Ausrüstung achten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Wonik IPS: objectif relevé, NH mise sur les contrats mémoire",
+        "excerpt": "NH a relevé son objectif de cours sur Wonik IPS, citant les bénéfices attendus de contrats à long terme dans la mémoire comme principal facteur d’investissement.",
+        "body": "NH a relevé son objectif de cours sur Wonik IPS, estimant que l’entreprise devrait bénéficier de contrats à long terme dans le secteur de la mémoire. Cette décision repose sur l’analyse selon laquelle Wonik IPS pourrait être positivement affectée par les tendances de contrats de long terme liés à la mémoire. Le texte original ne donne pas de chiffres précis ni de conditions contractuelles, mais NH présente ces contrats comme le principal point d’investissement. Le marché pourrait donc continuer de suivre les perspectives de résultats de Wonik IPS et la demande d’équipements associés. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "رفع السعر المستهدف لـ Wonik IPS مع تركيز NH على عقود الذاكرة",
+        "excerpt": "رفعت NH السعر المستهدف لشركة Wonik IPS، مشيرة إلى استفادة متوقعة من عقود طويلة الأجل في قطاع الذاكرة باعتبارها أساس التقييم الاستثماري.",
+        "body": "رفعت NH السعر المستهدف لشركة Wonik IPS، موضحة أن الشركة يُتوقع أن تستفيد من عقود طويلة الأجل في قطاع الذاكرة. ويستند هذا التقييم إلى تحليل يرى أن Wonik IPS قد تتلقى أثرا إيجابيا من اتجاهات العقود طويلة الأجل المرتبطة بالذاكرة. ولم يورد النص الأصلي أرقاما محددة أو شروطا تعاقدية، لكن NH اعتبرت عقود الذاكرة طويلة الأجل نقطة الاستثمار الرئيسية. لذلك قد يواصل السوق متابعة توقعات أداء Wonik IPS واتجاه الطلب على المعدات ذات الصلة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Wonik IPS लक्ष्य मूल्य बढ़ा, NH ने मेमोरी दीर्घकालिक अनुबंध लाभ बताया",
+        "excerpt": "NH ने Wonik IPS का लक्ष्य मूल्य बढ़ाया और मेमोरी क्षेत्र के दीर्घकालिक अनुबंधों से संभावित लाभ को निवेश आकलन का मुख्य आधार बताया।",
+        "body": "NH ने Wonik IPS का लक्ष्य मूल्य बढ़ाया है, यह कहते हुए कि कंपनी को मेमोरी क्षेत्र के दीर्घकालिक अनुबंधों से लाभ मिलने की उम्मीद है। यह आकलन इस विश्लेषण पर आधारित है कि Wonik IPS मेमोरी से जुड़े दीर्घकालिक अनुबंधों की प्रवृत्ति से सकारात्मक प्रभाव प्राप्त कर सकती है। मूल रिपोर्ट में विशिष्ट आंकड़े या अनुबंध शर्तें नहीं दी गईं, लेकिन NH ने मेमोरी दीर्घकालिक अनुबंधों को प्रमुख निवेश बिंदु बताया। इसलिए बाजार का ध्यान Wonik IPS की आय संभावनाओं और संबंधित उपकरण मांग पर बना रह सकता है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Target Wonik IPS Dinaikkan, NH Soroti Manfaat Kontrak Memori",
+        "excerpt": "NH menaikkan target harga Wonik IPS karena memperkirakan manfaat dari kontrak jangka panjang di sektor memori sebagai faktor utama penilaian investasi.",
+        "body": "NH menaikkan target harga Wonik IPS, dengan alasan perusahaan diperkirakan mendapat manfaat dari kontrak jangka panjang di sektor memori. Penilaian ini didasarkan pada analisis bahwa Wonik IPS dapat menerima dampak positif dari tren kontrak jangka panjang yang terkait dengan memori. Teks asli tidak menyebutkan angka spesifik atau ketentuan kontrak, tetapi NH menyoroti kontrak memori jangka panjang sebagai poin investasi utama. Karena itu, pasar dapat terus mencermati prospek kinerja Wonik IPS dan permintaan peralatan terkait. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "731ebee0e256",
+    "slug": "한국콜마-韓법인-창사-이래-최대-분기-실적목표가-유안타-695453",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T00:01:53.487Z",
+    "updatedAt": "2026-05-11T00:01:53.487Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051169986",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051169986",
+    "titleFingerprint": "e6129b2cb0f88b2d7588905641ebf4a7de3d4794",
+    "dedupKeys": [
+      "731ebee0e2562cd2071b0c0956db63f97e880984",
+      "e6129b2cb0f88b2d7588905641ebf4a7de3d4794",
+      "6bfdd0f851625b2770f1ba735c690fc38e590281"
+    ],
+    "imageUrl": "/images/articles/731ebee0e256.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국콜마 분기 실적 신기록, 韓법인 창사 이래 최대 성과에 목표가 상향",
+        "excerpt": "유안타증권은 한국콜마가 한국 법인 창사 이래 최대 분기 실적을 기록했다고 평가하며 목표가를 상향했다. 실적 개선 평가가 투자 판단의 핵심 근거로 제시됐다.",
+        "body": "유안타증권은 한국콜마가 한국 법인 창사 이래 최대 분기 실적을 냈다고 평가하며 목표가를 상향했다. 이번 평가는 한국콜마의 최근 분기 실적이 국내 법인 설립 이후 가장 높은 수준에 도달했다는 점에 초점을 맞췄다. 구체적인 목표가 조정 폭이나 세부 실적 수치는 원문 요약에 제시되지 않았다. 시장에서는 사상 최대 분기 실적이라는 표현 자체가 한국콜마의 실적 흐름과 기업가치 판단에 영향을 줄 수 있는 핵심 신호로 해석될 수 있다. 다만 향후 주가와 실적 전망은 추가 공시와 증권사 보고서의 세부 수치를 함께 확인할 필요가 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Kolmar Korea Posts Record Quarterly Result, Yuanta Raises Target Price",
+        "excerpt": "Yuanta Securities said Kolmar Korea posted its strongest quarterly performance since the founding of its Korean entity and raised its target price, citing improved earnings as the key basis.",
+        "body": "Yuanta Securities assessed that Kolmar Korea recorded the largest quarterly performance since the founding of its Korean entity and raised its target price. The assessment focused on the fact that the company’s latest quarterly result reached the highest level since the establishment of its domestic corporation. The original summary did not provide the exact target-price adjustment or detailed earnings figures. Even so, the phrase record quarterly performance can be read as a key signal for judging Kolmar Korea’s earnings momentum and corporate value. Future share-price and earnings views should be checked alongside additional disclosures and detailed brokerage data. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "韓国コルマー、韓国法人で過去最高の四半期実績 ユアンタが目標株価引き上げ",
+        "excerpt": "ユアンタ証券は韓国コルマーが韓国法人設立以来で最大の四半期実績を記録したと評価し、目標株価を引き上げた。業績改善が判断材料となった。",
+        "body": "ユアンタ証券は、韓国コルマーが韓国法人の設立以来で最大の四半期実績を上げたと評価し、目標株価を引き上げた。今回の評価は、直近四半期の実績が国内法人設立後で最も高い水準に達した点に焦点を当てている。具体的な目標株価の調整幅や詳細な業績数値は、原文要約には示されていない。もっとも、過去最高の四半期実績という表現は、韓国コルマーの業績の流れと企業価値判断に影響し得る重要なシグナルと受け止められる。今後の株価や業績見通しは、追加開示と証券会社レポートの詳細数値を確認する必要がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Kolmar Korea季度业绩创纪录，韩法人创立以来最高获上调目标价",
+        "excerpt": "Yuanta证券评价称，Kolmar Korea韩国法人录得创立以来最大季度业绩，并上调目标价；业绩改善被视为此次投资判断的核心依据。",
+        "body": "Yuanta证券评价称，Kolmar Korea韩国法人录得创立以来最大季度业绩，并上调目标价。此次评价聚焦于该公司最近一个季度业绩达到韩国国内法人设立以来最高水平。原文摘要未提供目标价上调幅度或具体业绩数据。尽管如此，“最大季度业绩”这一表述本身可被视为判断Kolmar Korea业绩趋势和企业价值的重要信号。未来股价和业绩展望仍需结合后续公告以及证券公司报告中的详细数据进行确认。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Kolmar Korea logra trimestre récord y Yuanta eleva su precio objetivo",
+        "excerpt": "Yuanta Securities dijo que Kolmar Korea registró su mayor resultado trimestral desde la creación de su filial coreana y elevó su precio objetivo por la mejora de beneficios.",
+        "body": "Yuanta Securities evaluó que Kolmar Korea registró el mayor resultado trimestral desde la creación de su entidad coreana y elevó su precio objetivo. La valoración se centró en que el desempeño del último trimestre alcanzó el nivel más alto desde el establecimiento de la sociedad nacional. El resumen original no incluyó el tamaño exacto del ajuste del precio objetivo ni cifras detalladas de resultados. Aun así, la expresión de resultado trimestral récord puede interpretarse como una señal clave para valorar la trayectoria de beneficios y el valor corporativo de Kolmar Korea. Las perspectivas de acción y beneficios deberán contrastarse con futuras divulgaciones y datos detallados de informes de corredurías. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Kolmar Korea tem trimestre recorde e Yuanta eleva preço-alvo da ação",
+        "excerpt": "A Yuanta Securities afirmou que a Kolmar Korea registrou o maior desempenho trimestral desde a criação de sua pessoa jurídica coreana e elevou o preço-alvo com base na melhora dos resultados.",
+        "body": "A Yuanta Securities avaliou que a Kolmar Korea registrou o maior desempenho trimestral desde a criação de sua entidade coreana e elevou o preço-alvo. A análise destacou que o resultado do trimestre mais recente chegou ao nível mais alto desde a fundação da companhia doméstica. O resumo original não informou o tamanho do ajuste no preço-alvo nem números detalhados de desempenho. Ainda assim, a expressão desempenho trimestral recorde pode ser interpretada como um sinal importante para avaliar a tendência de resultados e o valor corporativo da Kolmar Korea. As perspectivas para ação e lucros devem ser verificadas junto com novos comunicados e dados detalhados de relatórios de corretoras. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Kolmar Korea mit Rekordquartal, Yuanta hebt Kursziel nach starkem Ergebnis an",
+        "excerpt": "Yuanta Securities erklärte, Kolmar Korea habe das stärkste Quartal seit Gründung der koreanischen Einheit erzielt, und hob wegen der verbesserten Ergebnislage das Kursziel an.",
+        "body": "Yuanta Securities bewertete, dass Kolmar Korea das größte Quartalsergebnis seit der Gründung seiner koreanischen Einheit erzielt hat, und hob das Kursziel an. Im Mittelpunkt stand, dass das jüngste Quartalsergebnis den höchsten Stand seit Errichtung der inländischen Gesellschaft erreichte. Die ursprüngliche Zusammenfassung nannte weder die genaue Höhe der Kurszielanpassung noch detaillierte Ergebniszahlen. Dennoch kann der Hinweis auf ein Rekordquartal als wichtiges Signal für die Beurteilung der Ergebnisdynamik und des Unternehmenswerts von Kolmar Korea verstanden werden. Künftige Einschätzungen zu Aktie und Ergebnis sollten mit weiteren Veröffentlichungen und detaillierten Daten aus Analystenberichten abgeglichen werden. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Kolmar Korea signe un trimestre record, Yuanta relève son objectif de cours",
+        "excerpt": "Yuanta Securities a estimé que Kolmar Korea avait réalisé sa meilleure performance trimestrielle depuis la création de son entité coréenne et a relevé son objectif de cours.",
+        "body": "Yuanta Securities a estimé que Kolmar Korea avait enregistré la plus forte performance trimestrielle depuis la création de son entité coréenne et a relevé son objectif de cours. L’évaluation met l’accent sur le fait que le dernier trimestre a atteint le niveau le plus élevé depuis l’établissement de la société nationale. Le résumé d’origine ne précise pas l’ampleur de la révision de l’objectif de cours ni les chiffres détaillés des résultats. Toutefois, l’expression de performance trimestrielle record peut être considérée comme un signal important pour juger de la dynamique bénéficiaire et de la valeur de Kolmar Korea. Les perspectives de cours et de résultats devront être vérifiées avec les prochaines publications et les données détaillées des rapports de courtiers. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كولمار كوريا تسجل أفضل أداء فصلي ويوانتا ترفع السعر المستهدف",
+        "excerpt": "قالت يوانتا للأوراق المالية إن كولمار كوريا سجلت أكبر أداء فصلي منذ تأسيس كيانها الكوري، ورفعت السعر المستهدف استنادا إلى تحسن النتائج.",
+        "body": "قيّمت يوانتا للأوراق المالية أن كولمار كوريا سجلت أكبر أداء فصلي منذ تأسيس كيانها الكوري، ورفعت السعر المستهدف. وتركز التقييم على أن نتائج الربع الأخير بلغت أعلى مستوى منذ إنشاء الشركة المحلية في كوريا. ولم يورد ملخص النص الأصلي مقدار تعديل السعر المستهدف أو الأرقام التفصيلية للأداء. ومع ذلك، فإن وصف الأداء الفصلي بأنه قياسي يمكن أن يعد إشارة مهمة عند تقييم مسار أرباح كولمار كوريا وقيمتها المؤسسية. وينبغي التحقق من توقعات السهم والأرباح لاحقا عبر الإفصاحات الإضافية والبيانات التفصيلية في تقارير شركات الأوراق المالية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Kolmar Korea का तिमाही प्रदर्शन रिकॉर्ड स्तर पर, Yuanta ने लक्ष्य मूल्य बढ़ाया",
+        "excerpt": "Yuanta Securities ने कहा कि Kolmar Korea ने अपनी कोरियाई इकाई की स्थापना के बाद सबसे बड़ा तिमाही प्रदर्शन दर्ज किया और बेहतर नतीजों के आधार पर लक्ष्य मूल्य बढ़ाया।",
+        "body": "Yuanta Securities ने आकलन किया कि Kolmar Korea ने अपनी कोरियाई इकाई की स्थापना के बाद सबसे बड़ा तिमाही प्रदर्शन दर्ज किया है और लक्ष्य मूल्य बढ़ाया है। यह मूल्यांकन इस बात पर केंद्रित था कि हालिया तिमाही नतीजा घरेलू कंपनी की स्थापना के बाद सबसे ऊंचे स्तर पर पहुंचा। मूल सारांश में लक्ष्य मूल्य समायोजन की सटीक मात्रा या विस्तृत वित्तीय आंकड़े नहीं दिए गए। फिर भी, रिकॉर्ड तिमाही प्रदर्शन का उल्लेख Kolmar Korea की आय गति और कंपनी मूल्यांकन को समझने के लिए एक अहम संकेत माना जा सकता है। आगे शेयर मूल्य और आय दृष्टिकोण को अतिरिक्त खुलासों तथा ब्रोकरेज रिपोर्टों के विस्तृत आंकड़ों के साथ जांचना होगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Kolmar Korea Cetak Kinerja Kuartal Rekor, Yuanta Naikkan Target Harga",
+        "excerpt": "Yuanta Securities menilai Kolmar Korea mencatat kinerja kuartalan terbesar sejak pendirian entitas Koreanya dan menaikkan target harga berdasarkan perbaikan hasil usaha.",
+        "body": "Yuanta Securities menilai Kolmar Korea mencatat kinerja kuartalan terbesar sejak pendirian entitas Koreanya dan menaikkan target harga. Penilaian ini berfokus pada fakta bahwa hasil kuartal terbaru mencapai level tertinggi sejak perusahaan domestik tersebut didirikan. Ringkasan asli tidak mencantumkan besaran penyesuaian target harga maupun angka kinerja yang terperinci. Meski demikian, frasa kinerja kuartalan rekor dapat dibaca sebagai sinyal penting dalam menilai tren laba dan nilai perusahaan Kolmar Korea. Prospek harga saham dan kinerja ke depan tetap perlu dikonfirmasi bersama pengungkapan tambahan serta data rinci dari laporan sekuritas. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "5087a0deff7a",
+    "slug": "중동-불안-美中-정상회담코스피-7500-안착-여부-주목-144339",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T00:00:57.998Z",
+    "updatedAt": "2026-05-11T00:00:57.998Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605117026i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605117026i",
+    "titleFingerprint": "d46a0d132dc3218135ca2fca30c47d5692b68654",
+    "dedupKeys": [
+      "5087a0deff7a201b5dd684210f383274388a372d",
+      "d46a0d132dc3218135ca2fca30c47d5692b68654",
+      "2de54af73b7c0d3dfaadd767926edbce67ef020c"
+    ],
+    "imageUrl": "",
+    "i18n": {
+      "ko": {
+        "title": "중동 불안·美中 정상회담 변수 속 코스피 7500선 안착 여부에 시장 관심 집중",
+        "excerpt": "한국경제는 중동 불안과 미국·중국 정상회담이라는 대외 변수가 맞물린 상황에서 코스피가 7500선에 안착할 수 있을지가 주목된다고 전했다.",
+        "body": "한국경제는 중동 불안과 미국·중국 정상회담이 동시에 시장의 주요 변수로 떠오른 가운데 코스피 7500선 안착 여부가 관심을 받고 있다고 보도했다. 원문은 대외 정세 불안과 미·중 정상 간 만남이 투자 심리에 영향을 줄 수 있는 환경에서 국내 증시 흐름이 주목된다는 점을 제목으로 제시했다. 관련 수치로는 코스피 7500선이 핵심 기준으로 언급됐다. 향후 시장은 중동 불안의 전개와 미·중 정상회담 관련 흐름을 확인하며 코스피가 해당 선을 지켜낼지 살필 것으로 보인다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Middle East Tensions and U.S.-China Summit Put KOSPI 7,500 in Focus",
+        "excerpt": "Hankyung reported that investors are watching whether the KOSPI can settle above 7,500 as Middle East tensions and the U.S.-China summit emerge as key external factors.",
+        "body": "Hankyung reported that Middle East unrest and the U.S.-China summit have emerged at the same time as major market variables, drawing attention to whether the KOSPI can settle around the 7,500 level. The original article presented external geopolitical uncertainty and a meeting between the U.S. and Chinese leaders as factors that could shape investor sentiment and the direction of South Korea’s stock market. The key figure cited is the KOSPI 7,500 line. Markets are expected to watch developments in the Middle East and news related to the U.S.-China summit while assessing whether the index can hold that level. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "中東不安と米中首脳会談が焦点、KOSPI7500定着に市場の関心",
+        "excerpt": "韓国経済新聞は、中東不安と米中首脳会談という対外要因が重なる中、KOSPIが7500台に定着できるかが注目されていると伝えた。",
+        "body": "韓国経済新聞は、中東不安と米中首脳会談が同時に市場の主要な変数として浮上する中、KOSPIの7500台定着が関心を集めていると報じた。原文は、対外情勢の不安と米中首脳の会談が投資心理に影響し得る環境で、韓国株式市場の流れが注目されている点を見出しで示した。関連する数値としてはKOSPI7500が核心的な基準として挙げられた。今後、市場は中東不安の展開と米中首脳会談をめぐる動きを確認しながら、指数が同水準を維持できるかを見極めるとみられる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "中东不安与美中峰会成变量，市场关注KOSPI能否站稳7500点",
+        "excerpt": "韩国经济新闻报道称，在中东不安和美中峰会等外部变量交织之际，市场正关注KOSPI能否在7500点附近站稳。",
+        "body": "韩国经济新闻报道称，中东不安和美中峰会同时成为市场主要变量，KOSPI能否在7500点一线站稳正受到关注。原文标题指出，在外部局势不安以及美中领导人会晤可能影响投资心理的环境下，韩国股市走势成为市场焦点。相关数字中，KOSPI 7500点被作为核心基准提及。接下来，市场将关注中东不安的后续发展以及美中峰会相关动向，并观察指数能否守住这一水平。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Tensión en Oriente Medio y cumbre EE.UU.-China centran la atención en el KOSPI 7.500",
+        "excerpt": "Hankyung informó que el mercado observa si el KOSPI puede consolidarse en 7.500 puntos mientras pesan la tensión en Oriente Medio y la cumbre entre EE.UU. y China.",
+        "body": "Hankyung informó que la inestabilidad en Oriente Medio y la cumbre entre Estados Unidos y China han surgido al mismo tiempo como variables clave para el mercado, poniendo el foco en si el KOSPI puede consolidarse en torno a los 7.500 puntos. El texto original presenta la incertidumbre externa y el encuentro entre los líderes estadounidense y chino como factores que podrían influir en el sentimiento inversor y en la dirección de la bolsa surcoreana. La cifra central mencionada es el nivel de 7.500 del KOSPI. El mercado seguirá la evolución de Oriente Medio y las noticias de la cumbre para comprobar si el índice mantiene ese nivel. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Tensão no Oriente Médio e cúpula EUA-China colocam KOSPI 7.500 no foco",
+        "excerpt": "O Hankyung informou que investidores observam se o KOSPI conseguirá se firmar nos 7.500 pontos em meio à tensão no Oriente Médio e à cúpula entre EUA e China.",
+        "body": "O Hankyung informou que a instabilidade no Oriente Médio e a cúpula entre Estados Unidos e China surgiram ao mesmo tempo como variáveis importantes para o mercado, aumentando a atenção sobre a possibilidade de o KOSPI se firmar na faixa dos 7.500 pontos. O texto original destacou que a incerteza externa e o encontro entre os líderes dos EUA e da China podem influenciar o sentimento dos investidores e o rumo da bolsa sul-coreana. O principal número citado é o nível de 7.500 do KOSPI. O mercado deve acompanhar os desdobramentos no Oriente Médio e as notícias sobre a cúpula para avaliar se o índice manterá esse patamar. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Nahost-Unruhe und USA-China-Gipfel rücken KOSPI-Marke von 7.500 in den Fokus",
+        "excerpt": "Hankyung berichtete, dass Anleger beobachten, ob sich der KOSPI bei 7.500 etablieren kann, während Nahost-Unruhe und der USA-China-Gipfel als externe Faktoren wirken.",
+        "body": "Hankyung berichtete, dass die Unruhe im Nahen Osten und der Gipfel zwischen den USA und China gleichzeitig zu wichtigen Marktvariablen geworden sind. Dadurch richtet sich die Aufmerksamkeit darauf, ob sich der KOSPI im Bereich von 7.500 etablieren kann. Der Originaltext stellt die außenpolitische Unsicherheit und das Treffen der Staatschefs der USA und Chinas als Faktoren dar, die die Anlegerstimmung und die Richtung des südkoreanischen Aktienmarkts beeinflussen können. Als zentrale Zahl wird die KOSPI-Marke von 7.500 genannt. Der Markt dürfte die Entwicklung im Nahen Osten und Meldungen zum USA-China-Gipfel verfolgen, um zu beurteilen, ob der Index dieses Niveau halten kann. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Tensions au Moyen-Orient et sommet États-Unis-Chine: le KOSPI 7 500 surveillé",
+        "excerpt": "Hankyung rapporte que les marchés surveillent la capacité du KOSPI à s’installer autour de 7 500 alors que les tensions au Moyen-Orient et le sommet États-Unis-Chine pèsent.",
+        "body": "Hankyung a rapporté que l’instabilité au Moyen-Orient et le sommet entre les États-Unis et la Chine sont devenus simultanément des variables majeures pour le marché, attirant l’attention sur la capacité du KOSPI à s’installer autour de 7 500. Le texte original présente l’incertitude extérieure et la rencontre entre les dirigeants américain et chinois comme des facteurs pouvant influencer le sentiment des investisseurs et l’orientation de la Bourse sud-coréenne. Le chiffre clé mentionné est le seuil de 7 500 du KOSPI. Les marchés devraient suivre l’évolution au Moyen-Orient et les informations liées au sommet pour vérifier si l’indice peut conserver ce niveau. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "توتر الشرق الأوسط وقمة أميركا والصين يضعان كوسبي 7500 تحت المجهر",
+        "excerpt": "ذكرت هانكيونغ أن الأسواق تترقب ما إذا كان مؤشر كوسبي سيتمكن من الاستقرار عند مستوى 7500 مع بروز توتر الشرق الأوسط وقمة أميركا والصين كعاملين خارجيين.",
+        "body": "ذكرت هانكيونغ أن الاضطراب في الشرق الأوسط وقمة الولايات المتحدة والصين برزا في الوقت نفسه كمتغيرين رئيسيين في السوق، ما جعل مسألة استقرار مؤشر كوسبي حول مستوى 7500 محط اهتمام. ويعرض النص الأصلي عدم اليقين الخارجي ولقاء زعيمي الولايات المتحدة والصين كعاملين قد يؤثران في معنويات المستثمرين واتجاه سوق الأسهم الكورية الجنوبية. الرقم الأساسي المذكور هو مستوى 7500 لمؤشر كوسبي. ومن المتوقع أن تتابع الأسواق تطورات الشرق الأوسط والأخبار المرتبطة بالقمة لتقييم قدرة المؤشر على الحفاظ على هذا المستوى. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "मध्य पूर्व तनाव और अमेरिका-चीन शिखर बैठक से KOSPI 7,500 पर नजर",
+        "excerpt": "Hankyung ने बताया कि मध्य पूर्व की अस्थिरता और अमेरिका-चीन शिखर बैठक जैसे बाहरी कारकों के बीच बाजार देख रहा है कि KOSPI 7,500 पर टिक पाता है या नहीं।",
+        "body": "Hankyung ने बताया कि मध्य पूर्व की अस्थिरता और अमेरिका-चीन शिखर बैठक एक साथ बाजार के प्रमुख कारक बनकर उभरे हैं, जिससे यह ध्यान में है कि KOSPI 7,500 के स्तर पर टिक सकता है या नहीं। मूल लेख में बाहरी भू-राजनीतिक अनिश्चितता और अमेरिका तथा चीन के नेताओं की बैठक को ऐसे तत्वों के रूप में रखा गया है जो निवेशक भावना और दक्षिण कोरियाई शेयर बाजार की दिशा को प्रभावित कर सकते हैं। प्रमुख संख्या KOSPI का 7,500 स्तर है। बाजार मध्य पूर्व की स्थिति और अमेरिका-चीन शिखर बैठक से जुड़ी खबरों को देखते हुए आकलन करेगा कि सूचकांक यह स्तर बनाए रखता है या नहीं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Ketegangan Timur Tengah dan KTT AS-China Sorot KOSPI di Level 7.500",
+        "excerpt": "Hankyung melaporkan bahwa pasar mencermati apakah KOSPI dapat bertahan di level 7.500 saat ketegangan Timur Tengah dan KTT AS-China menjadi faktor eksternal utama.",
+        "body": "Hankyung melaporkan bahwa ketidakstabilan di Timur Tengah dan KTT Amerika Serikat-China muncul bersamaan sebagai variabel utama pasar, sehingga perhatian tertuju pada apakah KOSPI dapat bertahan di sekitar level 7.500. Teks asli menyoroti ketidakpastian eksternal dan pertemuan para pemimpin AS dan China sebagai faktor yang dapat memengaruhi sentimen investor serta arah pasar saham Korea Selatan. Angka utama yang disebut adalah level KOSPI 7.500. Ke depan, pasar akan memantau perkembangan di Timur Tengah dan berita terkait KTT AS-China untuk menilai apakah indeks mampu menjaga level tersebut. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "08a14f061035",
     "slug": "한투증권-고물가-우려-잠시-내려놓고-반도체-계속-붙잡아야-489022",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Pajak tambahan capital gain untuk pemilik banyak rumah berlaku lagi, izin akhir pekan berlanjut",
         "excerpt": "Korea Selatan memberlakukan kembali pajak tambahan capital gain bagi pemilik banyak rumah mulai 10 Mei, sementara permohonan izin transaksi tanah hingga 9 Mei terus diajukan untuk menghindari beban lebih besar.",
         "body": "Korea Selatan memberlakukan kembali pajak tambahan atas capital gain bagi pemilik beberapa rumah mulai 10 Mei. Hingga 9 Mei, hari terakhir masa penangguhan, aktivitas transaksi menjelang tenggat terus terjadi untuk menghindari beban pajak yang lebih berat. Menurut laporan Yonhap dari Seoul, pemilik banyak rumah bergegas mengajukan permohonan izin transaksi tanah agar terhindar dari penerapan pajak tambahan, dan permohonan terkait tetap berlanjut pada akhir pekan. Pergerakan ini mencerminkan tekanan waktu akibat berakhirnya masa penangguhan dan perubahan aturan pajak. Pasar melihatnya sebagai penumpukan permohonan tepat sebelum aturan diberlakukan kembali. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cba863ae19d7",
-    "slug": "현대그린푸드-사찰음식-간편식-출시도림법송스님-협업-101519",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T16:19:13.303Z",
-    "updatedAt": "2026-05-10T16:19:13.303Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510012300030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510012300030",
-    "titleFingerprint": "3cf9ee3209eedf8334301f0b1092cef404a07a23",
-    "dedupKeys": [
-      "cba863ae19d753d95ad11f3df40616ff8f542c0a",
-      "3cf9ee3209eedf8334301f0b1092cef404a07a23",
-      "92711b53bef4393273ec8d16deaf55d620b2b744"
-    ],
-    "imageUrl": "/images/articles/cba863ae19d7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "현대그린푸드, 사찰음식 간편식 5종 출시…도림·법송스님 협업",
-        "excerpt": "현대백화점그룹 계열 종합식품기업 현대그린푸드가 온라인몰 그리팅몰에서 도림·법송스님과 협업한 사찰음식 간편식 5종을 출시했다.",
-        "body": "현대백화점그룹 계열 종합식품기업 현대그린푸드는 온라인몰 ‘그리팅몰’에서 사찰음식 간편식 5종을 출시했다. 이번 제품은 도림스님, 법송스님과 협업해 선보인 간편식으로, 사찰음식에 대한 관심을 온라인 간편식 상품으로 연결한 것이 핵심이다. 현대그린푸드는 그리팅몰을 통해 해당 5종을 판매하며, 종합식품기업으로서 간편식 상품군을 넓히는 흐름을 이어가고 있다. 이번 출시는 사찰음식을 집에서도 간편하게 접할 수 있는 선택지를 제공한다는 점에서 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Hyundai Green Food Launches 5 Temple Food Ready Meals With Monks",
-        "excerpt": "Hyundai Green Food, a food company under Hyundai Department Store Group, launched five temple food ready meals on its online mall, Greeting Mall, in collaboration with monks Dorim and Beopsong.",
-        "body": "Hyundai Green Food, a comprehensive food company affiliated with Hyundai Department Store Group, has launched five temple food ready-meal products on its online mall, Greeting Mall. The products were developed in collaboration with monks Dorim and Beopsong, bringing temple cuisine into a convenient meal format for online shoppers. Through Greeting Mall, Hyundai Green Food is selling the five-item lineup as part of its broader ready-meal offering. The release is notable because it gives consumers a simpler way to experience temple food at home while keeping the focus on the company’s online retail channel. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "現代グリーンフード、寺院料理の簡便食5種を発売…僧侶と協業",
-        "excerpt": "現代百貨店グループ系の総合食品企業、現代グリーンフードがオンラインモール「グリーティングモール」で、道林・法松僧侶と協業した寺院料理の簡便食5種を発売した。",
-        "body": "現代百貨店グループ系列の総合食品企業、現代グリーンフードは、オンラインモール「グリーティングモール」で寺院料理の簡便食5種を発売した。今回の商品は道林僧侶、法松僧侶との協業により企画されたもので、寺院料理への関心をオンラインで購入できる簡便食につなげた点が特徴だ。現代グリーンフードはグリーティングモールを通じてこの5種を販売し、総合食品企業として簡便食の商品群を広げている。家庭でも寺院料理をより手軽に味わえる選択肢として注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "现代绿色食品推出5款寺院料理方便餐，与道林、法松师父合作",
-        "excerpt": "现代百货集团旗下综合食品企业现代绿色食品在在线商城Greeting Mall推出5款寺院料理方便餐，产品由道林、法松师父合作开发。",
-        "body": "现代百货集团旗下综合食品企业现代绿色食品在在线商城“Greeting Mall”推出5款寺院料理方便餐。此次产品由道林师父和法松师父合作参与，将寺院料理与线上方便餐商品相结合，是发布的核心内容。现代绿色食品通过Greeting Mall销售这5款产品，并继续扩大其方便餐品类。此次推出的意义在于，为消费者提供了在家中更便捷接触寺院料理的选择，同时也凸显了该公司在线商城渠道的作用。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Hyundai Green Food lanza 5 comidas listas de cocina templaria",
-        "excerpt": "Hyundai Green Food, empresa alimentaria del Hyundai Department Store Group, lanzó en Greeting Mall cinco comidas listas de cocina templaria junto con los monjes Dorim y Beopsong.",
-        "body": "Hyundai Green Food, empresa integral de alimentos afiliada al Hyundai Department Store Group, lanzó cinco comidas listas de cocina templaria en su tienda en línea Greeting Mall. Los productos fueron desarrollados en colaboración con los monjes Dorim y Beopsong, y trasladan la cocina de templo a un formato de comida práctica para venta en línea. La compañía comercializa la línea de cinco productos a través de Greeting Mall, ampliando su oferta de comidas preparadas. El lanzamiento destaca por ofrecer una forma más sencilla de acceder a la cocina templaria en casa. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Hyundai Green Food lança 5 refeições prontas de culinária de templo",
-        "excerpt": "A Hyundai Green Food, empresa de alimentos do Hyundai Department Store Group, lançou no Greeting Mall cinco refeições prontas de culinária de templo em colaboração com os monges Dorim e Beopsong.",
-        "body": "A Hyundai Green Food, empresa abrangente de alimentos ligada ao Hyundai Department Store Group, lançou cinco refeições prontas de culinária de templo em sua loja online Greeting Mall. Os produtos foram desenvolvidos em colaboração com os monges Dorim e Beopsong, levando a comida de templo para um formato prático de refeição vendida online. A empresa comercializa a linha de cinco itens pelo Greeting Mall, ampliando sua oferta de refeições prontas. O lançamento chama atenção por oferecer aos consumidores uma forma mais simples de experimentar a culinária de templo em casa. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Hyundai Green Food bringt 5 Tempelkost-Fertiggerichte online heraus",
-        "excerpt": "Hyundai Green Food, ein Lebensmittelunternehmen der Hyundai Department Store Group, verkauft über Greeting Mall fünf Tempelkost-Fertiggerichte, entwickelt mit den Mönchen Dorim und Beopsong.",
-        "body": "Hyundai Green Food, ein umfassendes Lebensmittelunternehmen der Hyundai Department Store Group, hat fünf Fertiggerichte auf Basis von Tempelkost in seinem Online-Shop Greeting Mall eingeführt. Die Produkte entstanden in Zusammenarbeit mit den Mönchen Dorim und Beopsong und übertragen Tempelküche in ein bequemes Online-Fertiggerichtformat. Hyundai Green Food verkauft die fünf Produkte über Greeting Mall und erweitert damit sein Angebot an Fertiggerichten. Die Einführung ist bemerkenswert, weil sie Verbrauchern eine einfachere Möglichkeit bietet, Tempelkost zu Hause zu erleben. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Hyundai Green Food lance 5 plats prêts de cuisine de temple en ligne",
-        "excerpt": "Hyundai Green Food, entreprise alimentaire du Hyundai Department Store Group, a lancé sur Greeting Mall cinq plats prêts de cuisine de temple conçus avec les moines Dorim et Beopsong.",
-        "body": "Hyundai Green Food, entreprise alimentaire intégrée affiliée au Hyundai Department Store Group, a lancé cinq plats prêts de cuisine de temple sur sa boutique en ligne Greeting Mall. Ces produits ont été développés en collaboration avec les moines Dorim et Beopsong, afin de proposer la cuisine de temple sous forme de repas pratiques vendus en ligne. L’entreprise commercialise cette gamme de cinq produits via Greeting Mall, élargissant son offre de plats préparés. Ce lancement retient l’attention car il donne aux consommateurs un moyen plus simple de découvrir la cuisine de temple à domicile. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "هيونداي غرين فود تطلق 5 وجبات جاهزة من طعام المعابد بالتعاون مع رهبان",
-        "excerpt": "أطلقت هيونداي غرين فود، التابعة لمجموعة هيونداي ديبارتمنت ستور، خمس وجبات جاهزة من طعام المعابد عبر Greeting Mall بالتعاون مع الراهبين دوريم وبيوبسونغ.",
-        "body": "أطلقت هيونداي غرين فود، وهي شركة أغذية شاملة تابعة لمجموعة هيونداي ديبارتمنت ستور، خمس وجبات جاهزة من طعام المعابد عبر متجرها الإلكتروني Greeting Mall. وجاءت المنتجات بالتعاون مع الراهبين دوريم وبيوبسونغ، لتقديم طعام المعابد في صيغة وجبات سهلة الشراء عبر الإنترنت. وتبيع الشركة المجموعة المكونة من خمسة أصناف عبر Greeting Mall، في إطار توسيع تشكيلة الوجبات الجاهزة لديها. ويبرز هذا الإطلاق لأنه يمنح المستهلكين خيارا أبسط لتجربة طعام المعابد في المنزل. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Hyundai Green Food ने मंदिर भोजन की 5 रेडी मील पेश कीं",
-        "excerpt": "Hyundai Department Store Group से जुड़ी Hyundai Green Food ने Greeting Mall पर भिक्षु Dorim और Beopsong के सहयोग से मंदिर भोजन की पांच रेडी मील लॉन्च की हैं।",
-        "body": "Hyundai Department Store Group से संबद्ध व्यापक खाद्य कंपनी Hyundai Green Food ने अपने ऑनलाइन मॉल Greeting Mall पर मंदिर भोजन की पांच रेडी मील लॉन्च की हैं। ये उत्पाद भिक्षु Dorim और Beopsong के सहयोग से तैयार किए गए हैं, जिनके जरिए मंदिर भोजन को ऑनलाइन खरीदी जा सकने वाली सुविधाजनक भोजन श्रेणी में पेश किया गया है। Hyundai Green Food इन पांच उत्पादों को Greeting Mall के माध्यम से बेच रही है और अपनी रेडी मील पेशकश का विस्तार कर रही है। यह लॉन्च घर पर मंदिर भोजन को सरल तरीके से आजमाने का विकल्प देता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Hyundai Green Food Luncurkan 5 Makanan Praktis Ala Kuil",
-        "excerpt": "Hyundai Green Food, perusahaan pangan Hyundai Department Store Group, meluncurkan lima makanan praktis ala kuil di Greeting Mall bersama biksu Dorim dan Beopsong.",
-        "body": "Hyundai Green Food, perusahaan pangan terpadu yang berafiliasi dengan Hyundai Department Store Group, meluncurkan lima produk makanan praktis ala kuil di toko online Greeting Mall. Produk ini dikembangkan melalui kolaborasi dengan biksu Dorim dan Beopsong, menghadirkan makanan kuil dalam format hidangan praktis yang dapat dibeli secara online. Hyundai Green Food menjual kelima produk tersebut melalui Greeting Mall sekaligus memperluas lini makanan siap saji. Peluncuran ini menarik karena memberi konsumen cara yang lebih mudah untuk menikmati makanan kuil di rumah. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "fba8ea0b7f81",
-    "slug": "스타벅스-악마는-프라다를-입는다2-음료영화-레시피-구현-864766",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T16:18:19.725Z",
-    "updatedAt": "2026-05-10T16:18:19.725Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510013100030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510013100030",
-    "titleFingerprint": "0e2b22985475feefc854d918231f064cd1141b6b",
-    "dedupKeys": [
-      "fba8ea0b7f815ffe701add2915fed08f33bafa1f",
-      "0e2b22985475feefc854d918231f064cd1141b6b",
-      "b15fcfeac6cc539b8459e3440547190d0fcd2393"
-    ],
-    "imageUrl": "/images/articles/fba8ea0b7f81.jpg",
-    "i18n": {
-      "ko": {
-        "title": "스타벅스, ‘악마는 프라다를 입는다2’ 음료 출시…영화 속 레시피 구현",
-        "excerpt": "스타벅스 코리아가 영화 ‘악마는 프라다를 입는다2’ 개봉에 맞춰 주인공 캐릭터에서 영감을 받은 커스텀 음료를 선보이며 영화 속 레시피를 구현했다.",
-        "body": "스타벅스 코리아는 영화 ‘악마는 프라다를 입는다2’ 개봉에 맞춰 영화 속 주인공 캐릭터에서 영감을 받은 커스텀 음료를 선보였다. 이번 음료는 영화 속 레시피를 구현한 형태로, 작품과 브랜드 경험을 연결한 메뉴로 소개됐다. 원문에 따르면 스타벅스 코리아는 개봉 시점에 맞춰 해당 음료를 내놓았으며, 영화 팬과 매장 이용객이 캐릭터에서 착안한 커스텀 음료를 접할 수 있도록 했다. 이번 출시는 영화 콘텐츠와 음료 메뉴를 결합한 사례로 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Starbucks Korea Launches ‘Devil Wears Prada 2’ Drink Inspired by Film Recipe",
-        "excerpt": "Starbucks Korea introduced a custom drink inspired by a main character in ‘The Devil Wears Prada 2,’ timed with the film’s release and based on its movie recipe.",
-        "body": "Starbucks Korea has introduced a custom drink timed to the release of the film ‘The Devil Wears Prada 2,’ inspired by a main character from the movie. The drink is presented as a recreation of a recipe seen in the film, linking the movie’s content with the Starbucks store experience. According to the original report, Starbucks Korea launched the beverage in line with the film’s opening, giving movie fans and customers a chance to try a character-inspired custom drink. The release is being noted as a case of combining film content with a beverage menu. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "スターバックス韓国、『プラダを着た悪魔2』飲料発売…映画レシピを再現",
-        "excerpt": "スターバックス韓国は映画『プラダを着た悪魔2』の公開に合わせ、主人公キャラクターに着想を得たカスタム飲料を発売し、映画内のレシピを再現した。",
-        "body": "スターバックス韓国は、映画『プラダを着た悪魔2』の公開に合わせ、映画の主人公キャラクターから着想を得たカスタム飲料を発売した。今回の飲料は、映画に登場するレシピを再現した形で、作品とブランド体験をつなぐメニューとして紹介された。原文によると、スターバックス韓国は公開時期に合わせて同飲料を投入し、映画ファンや店舗利用客がキャラクターに基づくカスタム飲料を楽しめるようにした。映画コンテンツと飲料メニューを組み合わせた事例として注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "星巴克韩国推出《穿普拉达的女王2》饮品，还原电影配方",
-        "excerpt": "星巴克韩国配合电影《穿普拉达的女王2》上映，推出受主角人物启发的定制饮品，并以电影中的配方为基础进行呈现。",
-        "body": "星巴克韩国配合电影《穿普拉达的女王2》上映，推出了一款受电影主角人物启发的定制饮品。该饮品以还原电影中的配方为卖点，被介绍为连接影片内容与星巴克门店体验的菜单。根据原文，星巴克韩国在影片上映节点推出这款饮品，让电影粉丝和门店顾客能够接触到以角色为灵感的定制饮品。此次推出被视为电影内容与饮品菜单结合的案例。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Starbucks Corea lanza bebida de ‘El diablo viste de Prada 2’ con receta del filme",
-        "excerpt": "Starbucks Corea presentó una bebida personalizada inspirada en un personaje protagonista de ‘El diablo viste de Prada 2’, coincidiendo con el estreno y recreando una receta de la película.",
-        "body": "Starbucks Corea presentó una bebida personalizada con motivo del estreno de la película ‘El diablo viste de Prada 2’, inspirada en un personaje protagonista del filme. La bebida se describe como una recreación de una receta vista en la película, conectando el contenido cinematográfico con la experiencia de la marca en tienda. Según el texto original, Starbucks Corea lanzó el producto en línea con el estreno para que los fans de la película y los clientes pudieran probar una bebida personalizada basada en el personaje. El lanzamiento destaca como un caso de unión entre cine y menú de bebidas. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Starbucks Coreia lança bebida de ‘O Diabo Veste Prada 2’ com receita do filme",
-        "excerpt": "A Starbucks Coreia apresentou uma bebida personalizada inspirada em uma personagem principal de ‘O Diabo Veste Prada 2’, alinhada à estreia e baseada na receita do filme.",
-        "body": "A Starbucks Coreia apresentou uma bebida personalizada no período de estreia do filme ‘O Diabo Veste Prada 2’, inspirada em uma personagem principal da obra. A bebida é apresentada como uma recriação de uma receita vista no filme, conectando o conteúdo cinematográfico à experiência da marca nas lojas. Segundo o texto original, a Starbucks Coreia lançou a bebida em sintonia com a estreia, permitindo que fãs do filme e clientes conheçam uma opção personalizada inspirada na personagem. O lançamento chama atenção como exemplo de combinação entre conteúdo de cinema e menu de bebidas. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Starbucks Korea bringt Getränk zu ‘Der Teufel trägt Prada 2’ nach Filmrezept",
-        "excerpt": "Starbucks Korea hat zum Start von ‘Der Teufel trägt Prada 2’ ein personalisiertes Getränk vorgestellt, inspiriert von einer Hauptfigur und nach einem Rezept aus dem Film umgesetzt.",
-        "body": "Starbucks Korea hat zum Kinostart des Films ‘Der Teufel trägt Prada 2’ ein personalisiertes Getränk vorgestellt, das von einer Hauptfigur des Films inspiriert ist. Das Getränk wird als Umsetzung eines im Film gezeigten Rezepts beschrieben und verbindet Filminhalt mit dem Markenerlebnis in den Filialen. Laut Originalbericht brachte Starbucks Korea das Getränk passend zum Filmstart heraus, damit Fans und Kundinnen sowie Kunden ein von der Figur inspiriertes Custom-Getränk probieren können. Die Einführung gilt als Beispiel für die Verbindung von Filmcontent und Getränkekarte. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Starbucks Corée lance une boisson ‘Le Diable s’habille en Prada 2’ inspirée du film",
-        "excerpt": "Starbucks Corée a dévoilé une boisson personnalisée inspirée d’un personnage principal de ‘Le Diable s’habille en Prada 2’, à l’occasion de la sortie du film et de sa recette.",
-        "body": "Starbucks Corée a lancé une boisson personnalisée à l’occasion de la sortie du film ‘Le Diable s’habille en Prada 2’, inspirée d’un personnage principal de l’œuvre. Cette boisson est présentée comme une recréation d’une recette vue dans le film, reliant le contenu cinématographique à l’expérience de marque en magasin. Selon le texte original, Starbucks Corée a proposé cette boisson au moment de la sortie afin que les fans du film et les clients puissent découvrir une création personnalisée inspirée du personnage. Ce lancement illustre l’association entre contenu de film et menu de boissons. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "ستاربكس كوريا تطلق مشروب ‘الشيطان يرتدي برادا 2’ بوصفة مستوحاة من الفيلم",
-        "excerpt": "قدمت ستاربكس كوريا مشروبا مخصصا مستوحى من شخصية رئيسية في فيلم ‘الشيطان يرتدي برادا 2’ بالتزامن مع عرضه، مع تنفيذ وصفة ظهرت في الفيلم.",
-        "body": "أطلقت ستاربكس كوريا مشروبا مخصصا بالتزامن مع عرض فيلم ‘الشيطان يرتدي برادا 2’، وهو مستوحى من شخصية رئيسية في العمل. ويقدم المشروب بوصفه تنفيذا لوصفة ظهرت في الفيلم، بما يربط محتوى الفيلم بتجربة العلامة داخل المتاجر. ووفقا للنص الأصلي، طرحت ستاربكس كوريا هذا المشروب مع موعد عرض الفيلم، ليتمكن محبو العمل وزبائن المتاجر من تجربة مشروب مخصص مستوحى من الشخصية. ويعد الإطلاق مثالا على الجمع بين محتوى سينمائي وقائمة مشروبات. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "स्टारबक्स कोरिया ने ‘द डेविल वियर्स प्राडा 2’ ड्रिंक पेश की, फिल्मी रेसिपी पर आधारित",
-        "excerpt": "स्टारबक्स कोरिया ने ‘द डेविल वियर्स प्राडा 2’ की रिलीज के साथ मुख्य किरदार से प्रेरित कस्टम ड्रिंक पेश की, जिसे फिल्म की रेसिपी के आधार पर बनाया गया है।",
-        "body": "स्टारबक्स कोरिया ने फिल्म ‘द डेविल वियर्स प्राडा 2’ की रिलीज के समय एक कस्टम ड्रिंक पेश की है, जो फिल्म के मुख्य किरदार से प्रेरित है। इस पेय को फिल्म में दिखाई गई रेसिपी को लागू करने वाले मेनू के रूप में प्रस्तुत किया गया है, जिससे फिल्म सामग्री और स्टोर अनुभव को जोड़ा गया है। मूल रिपोर्ट के अनुसार, स्टारबक्स कोरिया ने रिलीज के समय यह पेय उपलब्ध कराया, ताकि फिल्म प्रशंसक और ग्राहक किरदार से प्रेरित कस्टम ड्रिंक का अनुभव कर सकें। यह लॉन्च फिल्म सामग्री और पेय मेनू को जोड़ने का उदाहरण है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Starbucks Korea Rilis Minuman ‘The Devil Wears Prada 2’ dari Resep Film",
-        "excerpt": "Starbucks Korea memperkenalkan minuman kustom yang terinspirasi dari karakter utama ‘The Devil Wears Prada 2’, bertepatan dengan perilisan film dan mengadaptasi resep di dalamnya.",
-        "body": "Starbucks Korea memperkenalkan minuman kustom bertepatan dengan perilisan film ‘The Devil Wears Prada 2’, yang terinspirasi dari karakter utama dalam film tersebut. Minuman ini disajikan sebagai penerapan resep yang muncul di film, sekaligus menghubungkan konten sinema dengan pengalaman merek di gerai. Menurut teks asli, Starbucks Korea meluncurkan minuman itu pada momentum perilisan film agar penggemar dan pelanggan dapat mencoba minuman kustom yang terinspirasi dari karakter. Peluncuran ini menjadi contoh penggabungan konten film dengan menu minuman. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a814b783638d",
-    "slug": "국가유산청장-종묘-앞-개발-영향평가-없이-강행-시-추가-조치-982338",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T16:17:25.671Z",
-    "updatedAt": "2026-05-10T16:17:25.671Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510011400005",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510011400005",
-    "titleFingerprint": "4403442792d1a7c28147539333c2586a87493aa4",
-    "dedupKeys": [
-      "a814b783638d063bab67f98fd3d61fbb7635528f",
-      "4403442792d1a7c28147539333c2586a87493aa4",
-      "92225d5bf6f4eea26ee1d6af4a3c80b2ce549cb7"
-    ],
-    "imageUrl": "/images/articles/a814b783638d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "종묘 앞 재개발 제동 건 국가유산청장, 세계유산영향평가 필요성 강조",
-        "excerpt": "허민 국가유산청장은 서울 종묘 앞 재개발 사업과 관련해 유네스코 세계유산 보호를 위해 세계유산영향평가가 필요하며, 평가 없이 강행하면 추가 조치를 검토하겠다고 밝혔다.",
-        "body": "허민 국가유산청장은 서울 종묘 앞 재개발 사업에 대해 유네스코 세계유산인 종묘의 보존 가치와 주변 경관을 고려한 세계유산영향평가(HIA)가 필요하다고 밝혔다. 이번 사안은 종묘 인근 개발이 세계유산에 미칠 영향을 사전에 점검해야 하는지와 관련해 주목받고 있다. 허 청장은 영향평가 없이 사업이 강행될 경우 추가 조치에 나설 수 있다는 입장을 내놨다. 종묘는 서울의 대표적인 유네스코 세계유산으로, 주변 개발 과정에서 문화유산 보호와 도시 정비 사이의 균형이 핵심 쟁점으로 떠올랐다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Jongmyo Redevelopment Faces Scrutiny as Heritage Chief Urges Impact Review",
-        "excerpt": "Huh Min, head of South Korea’s national heritage agency, said a World Heritage Impact Assessment is needed for redevelopment in front of Seoul’s Jongmyo and warned of further steps if it proceeds without review.",
-        "body": "Huh Min, head of South Korea’s national heritage agency, said redevelopment in front of Seoul’s Jongmyo, a UNESCO World Heritage site, requires a World Heritage Impact Assessment (HIA) to consider preservation value and the surrounding landscape. The issue has drawn attention over whether the project’s potential impact on the heritage site should be reviewed in advance. Huh said additional measures could be taken if the project is pushed ahead without an impact assessment. Jongmyo is one of Seoul’s major UNESCO World Heritage sites, making the balance between heritage protection and urban redevelopment a central issue. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "宗廟前の再開発に国家遺産庁長官が警鐘、世界遺産影響評価を強調",
-        "excerpt": "許民・国家遺産庁長官は、ソウルの宗廟前再開発について、ユネスコ世界遺産保護のため世界遺産影響評価が必要で、評価なしに進めれば追加措置を検討すると述べた。",
-        "body": "許民・国家遺産庁長官は、ユネスコ世界遺産であるソウルの宗廟前の再開発事業について、保存価値と周辺景観を考慮する世界遺産影響評価（HIA）が必要だと明らかにした。今回の事案は、宗廟付近の開発が世界遺産に及ぼす影響を事前に点検すべきかをめぐり注目されている。許長官は、影響評価なしに事業が強行される場合、追加措置に出る可能性があるとの立場を示した。宗廟はソウルを代表するユネスコ世界遺産であり、周辺開発では文化遺産保護と都市整備の均衡が核心的な争点となっている。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "宗庙前重开发受关注，韩国国家遗产厅长强调须做影响评估",
-        "excerpt": "韩国国家遗产厅长许民表示，首尔宗庙前重开发项目为保护联合国教科文组织世界遗产，需要进行世界遗产影响评估；若未评估而推进，将考虑追加措施。",
-        "body": "韩国国家遗产厅长许民表示，针对首尔宗庙前重开发项目，有必要进行世界遗产影响评估（HIA），以考量这一联合国教科文组织世界遗产的保存价值和周边景观。该事件受到关注，焦点在于宗庙附近开发是否应事先检查其对世界遗产可能造成的影响。许民表示，如果项目在没有影响评估的情况下被强行推进，可能采取追加措施。宗庙是首尔具有代表性的联合国教科文组织世界遗产，周边开发过程中，文化遗产保护与城市整治之间的平衡成为核心议题。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Reurbanización frente a Jongmyo bajo lupa: Patrimonio exige evaluar impacto",
-        "excerpt": "Huh Min, jefe de la agencia surcoreana de patrimonio, dijo que la reurbanización frente a Jongmyo en Seúl necesita una Evaluación de Impacto sobre el Patrimonio Mundial y advirtió posibles medidas si avanza sin revisión.",
-        "body": "Huh Min, jefe de la agencia nacional de patrimonio de Corea del Sur, afirmó que el proyecto de reurbanización frente a Jongmyo, en Seúl, sitio declarado Patrimonio Mundial por la UNESCO, requiere una Evaluación de Impacto sobre el Patrimonio Mundial (HIA) para considerar su valor de conservación y el paisaje circundante. El caso ha atraído atención por la necesidad de revisar de antemano el posible impacto del desarrollo cercano sobre el sitio patrimonial. Huh señaló que podrían adoptarse medidas adicionales si el proyecto se impulsa sin evaluación. Jongmyo es uno de los principales sitios UNESCO de Seúl, por lo que el equilibrio entre protección cultural y renovación urbana es el eje del debate. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Obra diante de Jongmyo sob pressão: chefe do Patrimônio exige avaliação",
-        "excerpt": "Huh Min, chefe da agência de patrimônio da Coreia do Sul, disse que a reurbanização diante de Jongmyo, em Seul, precisa de Avaliação de Impacto sobre Patrimônio Mundial e alertou para medidas se avançar sem análise.",
-        "body": "Huh Min, chefe da agência nacional de patrimônio da Coreia do Sul, afirmou que o projeto de reurbanização diante de Jongmyo, em Seul, Patrimônio Mundial da UNESCO, exige uma Avaliação de Impacto sobre Patrimônio Mundial (HIA) para considerar seu valor de preservação e a paisagem ao redor. O caso chama atenção pela necessidade de verificar previamente o possível impacto do desenvolvimento próximo sobre o bem patrimonial. Huh disse que medidas adicionais poderão ser adotadas caso o projeto avance sem avaliação de impacto. Jongmyo é um dos principais patrimônios mundiais da UNESCO em Seul, tornando o equilíbrio entre proteção cultural e reordenamento urbano o ponto central da questão. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Jongmyo-Neuentwicklung im Fokus: Kulturerbechef fordert Folgenprüfung",
-        "excerpt": "Huh Min, Leiter der südkoreanischen Kulturerbebehörde, sagte, für die Neuentwicklung vor Seouls Jongmyo sei eine Welterbe-Verträglichkeitsprüfung nötig; bei Umsetzung ohne Prüfung seien weitere Schritte möglich.",
-        "body": "Huh Min, Leiter der nationalen Kulturerbebehörde Südkoreas, erklärte, dass die Neuentwicklung vor Jongmyo in Seoul, einer UNESCO-Welterbestätte, eine Welterbe-Verträglichkeitsprüfung (HIA) erfordere, um den Erhaltungswert und die umliegende Landschaft zu berücksichtigen. Der Fall steht im Fokus, weil geprüft werden soll, ob die möglichen Auswirkungen der Entwicklung in der Nähe des Welterbes vorab bewertet werden müssen. Huh sagte, zusätzliche Maßnahmen könnten folgen, falls das Vorhaben ohne Folgenprüfung vorangetrieben werde. Jongmyo zählt zu den wichtigsten UNESCO-Welterbestätten Seouls, wodurch das Gleichgewicht zwischen Kulturerbeschutz und Stadterneuerung zur zentralen Frage wird. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Projet devant Jongmyo sous surveillance: l’agence du patrimoine exige une étude",
-        "excerpt": "Huh Min, chef de l’agence sud-coréenne du patrimoine, a déclaré que le réaménagement devant Jongmyo à Séoul nécessite une évaluation d’impact sur le patrimoine mondial et a évoqué des mesures si le projet avance sans examen.",
-        "body": "Huh Min, chef de l’agence nationale du patrimoine de Corée du Sud, a déclaré que le projet de réaménagement devant Jongmyo, à Séoul, site inscrit au patrimoine mondial de l’UNESCO, nécessite une évaluation d’impact sur le patrimoine mondial (HIA) afin de prendre en compte sa valeur de conservation et le paysage environnant. L’affaire attire l’attention sur la nécessité d’examiner à l’avance l’impact potentiel du développement proche du site. Huh a indiqué que des mesures supplémentaires pourraient être prises si le projet était mené sans évaluation d’impact. Jongmyo est l’un des principaux sites UNESCO de Séoul, ce qui place l’équilibre entre protection du patrimoine culturel et aménagement urbain au cœur du débat. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "تطوير أمام جونغميو يواجه تدقيقا: رئيس التراث يشدد على تقييم الأثر",
-        "excerpt": "قال هو مين، رئيس وكالة التراث الوطنية في كوريا الجنوبية، إن مشروع التطوير أمام جونغميو في سيول يحتاج إلى تقييم أثر على التراث العالمي، محذرا من إجراءات إضافية إذا مضى دون مراجعة.",
-        "body": "قال هو مين، رئيس وكالة التراث الوطنية في كوريا الجنوبية، إن مشروع إعادة التطوير أمام جونغميو في سيول، وهو موقع مدرج على قائمة اليونسكو للتراث العالمي، يحتاج إلى تقييم أثر على التراث العالمي (HIA) لمراعاة قيمة الحفظ والمشهد المحيط. وتحظى القضية باهتمام لأنها تتعلق بما إذا كان يجب فحص التأثير المحتمل للتطوير القريب على موقع التراث العالمي مسبقا. وأوضح هو أن إجراءات إضافية قد تُتخذ إذا جرى دفع المشروع قدما من دون تقييم للأثر. ويعد جونغميو من أبرز مواقع التراث العالمي لليونسكو في سيول، ما يجعل التوازن بين حماية التراث الثقافي وإعادة تنظيم المدينة محور القضية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "जोंगम्यो के सामने पुनर्विकास पर नजर, विरासत प्रमुख ने प्रभाव आकलन पर जोर दिया",
-        "excerpt": "दक्षिण कोरिया की राष्ट्रीय विरासत एजेंसी के प्रमुख हुह मिन ने कहा कि सियोल के जोंगम्यो के सामने पुनर्विकास के लिए विश्व धरोहर प्रभाव आकलन जरूरी है और बिना आकलन आगे बढ़ने पर अतिरिक्त कदम उठ सकते हैं।",
-        "body": "दक्षिण कोरिया की राष्ट्रीय विरासत एजेंसी के प्रमुख हुह मिन ने कहा कि सियोल में यूनेस्को विश्व धरोहर जोंगम्यो के सामने पुनर्विकास परियोजना के लिए विश्व धरोहर प्रभाव आकलन (HIA) आवश्यक है, ताकि संरक्षण मूल्य और आसपास के परिदृश्य पर विचार किया जा सके। यह मुद्दा इसलिए ध्यान में है कि जोंगम्यो के पास विकास से विश्व धरोहर पर पड़ने वाले प्रभाव की पहले से जांच होनी चाहिए या नहीं। हुह ने कहा कि यदि परियोजना प्रभाव आकलन के बिना आगे बढ़ाई गई तो अतिरिक्त कदम उठाए जा सकते हैं। जोंगम्यो सियोल की प्रमुख यूनेस्को विश्व धरोहरों में से एक है, इसलिए सांस्कृतिक विरासत संरक्षण और शहरी पुनर्विकास के बीच संतुलन मुख्य मुद्दा बन गया है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Pembangunan depan Jongmyo disorot, Kepala Warisan tekankan kajian dampak",
-        "excerpt": "Huh Min, Kepala Badan Warisan Nasional Korea Selatan, mengatakan proyek pembangunan ulang di depan Jongmyo, Seoul, memerlukan Kajian Dampak Warisan Dunia dan memperingatkan langkah tambahan jika dilanjutkan tanpa penilaian.",
-        "body": "Huh Min, Kepala Badan Warisan Nasional Korea Selatan, menyatakan bahwa proyek pembangunan ulang di depan Jongmyo, Seoul, situs Warisan Dunia UNESCO, memerlukan Kajian Dampak Warisan Dunia (HIA) untuk mempertimbangkan nilai pelestarian dan lanskap sekitarnya. Isu ini menarik perhatian karena menyangkut perlunya pemeriksaan awal atas dampak pembangunan di sekitar Jongmyo terhadap situs warisan dunia. Huh mengatakan langkah tambahan dapat diambil jika proyek dipaksakan tanpa kajian dampak. Jongmyo adalah salah satu situs Warisan Dunia UNESCO utama di Seoul, sehingga keseimbangan antara perlindungan warisan budaya dan penataan kota menjadi pokok persoalan. Sumber: yna.co.kr"
       }
     }
   }
