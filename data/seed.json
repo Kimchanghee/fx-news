@@ -1,5 +1,230 @@
 [
   {
+    "id": "8dd0bc665a11",
+    "slug": "내년-영업익-1000조-시대반도체가-바꾼-코스피-체급-175866",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T19:29:37.774Z",
+    "updatedAt": "2026-05-11T19:29:37.774Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051191291",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051191291",
+    "titleFingerprint": "73576718491cda0710ed56253f4cf0a083e405a4",
+    "dedupKeys": [
+      "8dd0bc665a11fdc44ce7eb5f5639e58334c710d0",
+      "73576718491cda0710ed56253f4cf0a083e405a4",
+      "9ba079883b798a601a1d3dbc92224809decd9010"
+    ],
+    "imageUrl": "/images/articles/8dd0bc665a11.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체가 끌어올린 코스피 체급, 내년 영업이익 1000조 전망",
+        "excerpt": "5월 11일 에프앤가이드 집계에서 유가증권시장 170곳의 내년 영업이익 전망치가 1050조2303억원으로 올라, 반도체 실적 개선이 코스피 체급 변화를 이끄는 것으로 나타났다.",
+        "body": "11일 금융정보업체 에프앤가이드에 따르면 증권사 세 곳 이상이 실적을 전망한 유가증권시장 상장사 170곳의 올해 연결 영업이익 전망치는 849조5262억원, 내년 전망치는 1050조2303억원으로 집계됐다. 한 달 전 올해 전망치 676조8813억원보다 25% 늘어난 수치다. 실적 전망 상향은 삼성전자와 SK하이닉스가 주도했다. 두 회사의 합산 영업이익 전망치는 올해 587조6624억원, 내년 768조5790억원으로 전체의 69%, 73%를 차지한다. 메모리 반도체 평균판매가격 상승과 장기공급계약 체결이 배경으로 제시됐다. 이날 코스피는 4.32% 오른 7822.24에 마감했고, JP모간은 목표 지수 10,000을 제시했다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Semiconductors Lift Kospi Scale as 2027 Operating Profit Tops W1,000tn",
+        "excerpt": "On May 11, FnGuide data showed 170 Kospi-listed firms are forecast to post W1,050.2303tn in operating profit next year, led by stronger semiconductor earnings.",
+        "body": "According to FnGuide on May 11, 170 Kospi-listed companies with earnings estimates from at least three brokerages are forecast to post consolidated operating profit of W849.5262tn this year and W1,050.2303tn next year. This year's estimate is up 25% from W676.8813tn a month earlier. Samsung Electronics and SK Hynix are driving the revision. Their combined operating profit forecasts stand at W587.6624tn this year and W768.579tn next year, accounting for 69% and 73% of the total. Rising memory chip average selling prices and long-term supply agreements were cited as key factors. The Kospi closed up 4.32% at 7,822.24, while JPMorgan presented a 10,000 target. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "半導体が押し上げるKOSPIの規模、来年営業益1000兆ウォン展望",
+        "excerpt": "5月11日のFnGuide集計で、有価証券市場170社の来年営業利益見通しは1050兆2303億ウォンとなり、半導体の収益改善がKOSPIの評価を押し上げた。",
+        "body": "5月11日、金融情報会社FnGuideによると、証券会社3社以上が業績を予想する有価証券市場上場企業170社の連結営業利益見通しは、今年849兆5262億ウォン、来年1050兆2303億ウォンと集計された。今年の見通しは1カ月前の676兆8813億ウォンから25%増えた。上方修正を主導したのはサムスン電子とSKハイニックスだ。両社の合算営業利益見通しは今年587兆6624億ウォン、来年768兆5790億ウォンで、全体の69%、73%を占める。メモリー半導体の平均販売価格上昇と長期供給契約が背景とされた。この日KOSPIは4.32%高の7822.24で終了し、JPモルガンは目標指数を10,000と示した。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "半导体抬升KOSPI体量，明年营业利润料迈入1000万亿韩元",
+        "excerpt": "5月11日FnGuide数据显示，韩国有价证券市场170家上市公司明年营业利润预估升至1050.2303万亿韩元，半导体业绩改善成为核心动力。",
+        "body": "据金融信息机构FnGuide 5月11日数据，至少三家券商给出业绩预测的韩国有价证券市场170家上市公司，今年合并营业利润预计为849.5262万亿韩元，明年为1050.2303万亿韩元。今年预估较一个月前的676.8813万亿韩元增加25%。上调主要由三星电子和SK海力士推动。两家公司合计营业利润预计今年为587.6624万亿韩元，明年为768.5790万亿韩元，分别占整体的69%和73%。报道提到，存储芯片平均售价上涨及长期供货协议签订是背景因素。当天KOSPI收涨4.32%至7822.24，摩根大通提出10,000点目标。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Semiconductores elevan al Kospi: beneficio operativo superaría W1.000 billones",
+        "excerpt": "El 11 de mayo, FnGuide estimó que 170 firmas del mercado Kospi lograrán W1.050,2303 billones de beneficio operativo el próximo año por el impulso de los chips.",
+        "body": "Según FnGuide el 11 de mayo, 170 compañías cotizadas en el mercado Kospi con previsiones de al menos tres casas de bolsa registrarían un beneficio operativo consolidado de W849,5262 billones este año y W1.050,2303 billones el próximo. La previsión para este año subió 25% frente a los W676,8813 billones de hace un mes. La revisión está liderada por Samsung Electronics y SK Hynix. Su beneficio operativo combinado se estima en W587,6624 billones este año y W768,5790 billones el próximo, equivalentes al 69% y 73% del total. El alza del precio medio de venta de memorias y los contratos de suministro a largo plazo fueron citados como factores. El Kospi cerró con un avance del 4,32% a 7.822,24, y JPMorgan fijó un objetivo de 10.000. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Semicondutores elevam o Kospi e lucro operacional pode passar de W1.000 tri",
+        "excerpt": "Em 11 de maio, dados da FnGuide indicaram que 170 empresas do Kospi devem somar W1.050,2303 trilhões em lucro operacional no próximo ano, puxadas por chips.",
+        "body": "Segundo a FnGuide em 11 de maio, 170 empresas listadas no mercado Kospi com estimativas de pelo menos três corretoras devem registrar lucro operacional consolidado de W849,5262 trilhões neste ano e W1.050,2303 trilhões no próximo. A projeção deste ano subiu 25% ante W676,8813 trilhões um mês antes. Samsung Electronics e SK Hynix lideram a revisão. A previsão combinada de lucro operacional das duas é de W587,6624 trilhões neste ano e W768,5790 trilhões no próximo, equivalendo a 69% e 73% do total. A alta do preço médio de venda de memórias e contratos de fornecimento de longo prazo foram apontados como fatores. O Kospi fechou em alta de 4,32%, a 7.822,24, e o JPMorgan indicou meta de 10.000 pontos. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Halbleiter heben Kospi-Niveau: Betriebsgewinn 2027 über W1.000 Bio erwartet",
+        "excerpt": "FnGuide-Daten vom 11. Mai zeigen: 170 Kospi-Unternehmen sollen nächstes Jahr W1.050,2303 Bio Betriebsgewinn erzielen, getrieben von besseren Chip-Erträgen.",
+        "body": "Nach Angaben von FnGuide vom 11. Mai werden 170 im Kospi notierte Unternehmen, für die mindestens drei Broker Prognosen abgeben, in diesem Jahr einen konsolidierten Betriebsgewinn von W849,5262 Bio und im nächsten Jahr W1.050,2303 Bio erzielen. Die Schätzung für dieses Jahr liegt 25% über den W676,8813 Bio von vor einem Monat. Samsung Electronics und SK Hynix treiben die Anhebung. Ihr gemeinsamer Betriebsgewinn wird für dieses Jahr auf W587,6624 Bio und für nächstes Jahr auf W768,5790 Bio geschätzt, was 69% bzw. 73% des Gesamtwerts entspricht. Als Gründe wurden steigende durchschnittliche Verkaufspreise für Speicherchips und langfristige Lieferverträge genannt. Der Kospi schloss 4,32% höher bei 7.822,24; JPMorgan nannte ein Ziel von 10.000 Punkten. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Les semi-conducteurs changent l’échelle du Kospi, bénéfice prévu au-delà de W1.000 tn",
+        "excerpt": "Le 11 mai, FnGuide a estimé que 170 sociétés du Kospi atteindraient W1.050,2303 tn de bénéfice opérationnel l’an prochain, grâce au redressement des puces.",
+        "body": "Selon FnGuide le 11 mai, 170 sociétés cotées sur le Kospi disposant de prévisions d’au moins trois courtiers devraient afficher un bénéfice opérationnel consolidé de W849,5262 tn cette année et de W1.050,2303 tn l’an prochain. L’estimation de cette année a augmenté de 25% par rapport aux W676,8813 tn d’il y a un mois. La révision est menée par Samsung Electronics et SK Hynix. Leur bénéfice opérationnel combiné est estimé à W587,6624 tn cette année et W768,5790 tn l’an prochain, soit 69% et 73% du total. La hausse des prix moyens de vente des mémoires et les contrats d’approvisionnement de long terme sont cités comme facteurs. Le Kospi a clôturé en hausse de 4,32% à 7.822,24, tandis que JPMorgan a fixé un objectif de 10.000. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "أشباه الموصلات ترفع وزن كوسبي وأرباح التشغيل قد تتجاوز 1000 تريليون وون",
+        "excerpt": "في 11 مايو أظهرت بيانات FnGuide أن أرباح التشغيل المتوقعة لـ170 شركة مدرجة في كوسبي قد تبلغ 1050.2303 تريليون وون العام المقبل بدعم من الرقائق.",
+        "body": "وفق بيانات FnGuide في 11 مايو، من المتوقع أن تحقق 170 شركة مدرجة في سوق كوسبي ولديها تقديرات من ثلاث شركات وساطة على الأقل أرباح تشغيل موحدة قدرها 849.5262 تريليون وون هذا العام و1050.2303 تريليون وون العام المقبل. تقدير هذا العام ارتفع 25% عن 676.8813 تريليون وون قبل شهر. وتقود Samsung Electronics وSK Hynix هذا الرفع. تبلغ توقعات أرباح التشغيل المجمعة للشركتين 587.6624 تريليون وون هذا العام و768.5790 تريليون وون العام المقبل، أي 69% و73% من الإجمالي. وذُكر ارتفاع متوسط أسعار بيع ذاكرات أشباه الموصلات وعقود التوريد طويلة الأجل كعوامل رئيسية. أغلق كوسبي مرتفعا 4.32% عند 7822.24، وقدمت JPMorgan هدفا عند 10,000 نقطة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर से बदला Kospi का आकार, अगले साल W1,000 ट्रिलियन मुनाफे का अनुमान",
+        "excerpt": "11 मई को FnGuide के आंकड़ों में Kospi की 170 कंपनियों का अगले साल ऑपरेटिंग प्रॉफिट W1,050.2303 ट्रिलियन आंका गया, जिसे चिप सेक्टर की कमाई ने सहारा दिया।",
+        "body": "11 मई को FnGuide के अनुसार, कम से कम तीन ब्रोकरेज के अनुमान वाली Kospi में सूचीबद्ध 170 कंपनियों का समेकित ऑपरेटिंग प्रॉफिट इस साल W849.5262 ट्रिलियन और अगले साल W1,050.2303 ट्रिलियन रहने का अनुमान है। इस साल का अनुमान एक महीने पहले के W676.8813 ट्रिलियन से 25% अधिक है। इस बढ़ोतरी की अगुवाई Samsung Electronics और SK Hynix कर रही हैं। दोनों कंपनियों का संयुक्त ऑपरेटिंग प्रॉफिट इस साल W587.6624 ट्रिलियन और अगले साल W768.5790 ट्रिलियन आंका गया है, जो कुल का 69% और 73% है। मेमोरी चिप के औसत बिक्री मूल्य में तेजी और दीर्घकालिक आपूर्ति अनुबंधों को कारण बताया गया। Kospi 4.32% चढ़कर 7,822.24 पर बंद हुआ, जबकि JPMorgan ने 10,000 का लक्ष्य दिया। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Semikonduktor Angkat Level Kospi, Laba Operasi 2027 Diproyeksi Tembus W1.000 T",
+        "excerpt": "Pada 11 Mei, data FnGuide menunjukkan 170 emiten Kospi diproyeksi membukukan laba operasi W1.050,2303 triliun tahun depan, ditopang perbaikan kinerja chip.",
+        "body": "Menurut FnGuide pada 11 Mei, 170 emiten pasar Kospi yang memiliki estimasi kinerja dari sedikitnya tiga sekuritas diproyeksi mencatat laba operasi konsolidasi W849,5262 triliun tahun ini dan W1.050,2303 triliun tahun depan. Estimasi tahun ini naik 25% dari W676,8813 triliun sebulan sebelumnya. Samsung Electronics dan SK Hynix memimpin revisi tersebut. Gabungan proyeksi laba operasi keduanya mencapai W587,6624 triliun tahun ini dan W768,5790 triliun tahun depan, masing-masing 69% dan 73% dari total. Kenaikan harga jual rata-rata memori dan kontrak pasokan jangka panjang disebut sebagai faktor utama. Kospi ditutup naik 4,32% ke 7.822,24, sementara JPMorgan menetapkan target 10.000. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "5005f4cce57d",
+    "slug": "조너선-크레인-中-ai-역량-美만큼-강력지금이-레드테크-투자할-때-809077",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T19:28:28.897Z",
+    "updatedAt": "2026-05-11T19:28:28.897Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051190561",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051190561",
+    "titleFingerprint": "84012fabdf298a9c52f8af67cac87b3cd641c1ba",
+    "dedupKeys": [
+      "5005f4cce57decd0a790bb4858a6ea2b4c709efd",
+      "84012fabdf298a9c52f8af67cac87b3cd641c1ba",
+      "58d720ae37039337e1904c747d46c6543013fd07"
+    ],
+    "imageUrl": "/images/articles/5005f4cce57d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중국 AI 역량 주목한 조너선 크레인 “레드테크 투자 적기”",
+        "excerpt": "조너선 크레인은 hankyung.com 보도에서 중국의 AI 역량이 미국만큼 강력하다고 평가하며 현재가 레드테크에 투자할 시점이라고 밝혔다.",
+        "body": "조너선 크레인은 hankyung.com 보도를 통해 중국의 인공지능(AI) 역량이 미국만큼 강력하다고 평가하며 지금이 ‘레드테크’에 투자할 때라고 말했다. 보도에 따르면 핵심 메시지는 중국 AI 경쟁력에 대한 재평가와 관련 기술주 투자 시점에 맞춰져 있다. 원문에 별도 수치나 세부 투자 대상은 제시되지 않았지만, 크레인의 발언은 미·중 기술 경쟁 속에서 중국 기술 기업에 대한 투자 관심을 환기한다. 향후 시장은 중국 AI 산업의 실제 성과와 투자 심리 변화를 주시할 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Jonathan Krane Says China’s AI Strength Rivals US, Backs Red-Tech Investing",
+        "excerpt": "Jonathan Krane said in a hankyung.com report that China’s AI capabilities are as strong as America’s and that now is the time to invest in red tech.",
+        "body": "Jonathan Krane said in a hankyung.com report that China’s artificial intelligence capabilities are as strong as those of the United States, adding that now is the time to invest in “red tech.” According to the report, his key message centers on a reassessment of China’s AI competitiveness and the timing of investment in related technology shares. The original text did not provide additional figures or specific investment targets, but Krane’s remarks draw attention to Chinese technology firms amid US-China tech competition. Markets are expected to watch China’s AI performance and investor sentiment. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ジョナサン・クレーン氏、中国AIは米国並みと評価しレッドテック投資を強調",
+        "excerpt": "ジョナサン・クレーン氏はhankyung.comの報道で、中国のAI能力は米国並みに強力で、今がレッドテック投資の時期だと述べた。",
+        "body": "ジョナサン・クレーン氏はhankyung.comの報道で、中国の人工知能（AI）能力は米国と同じくらい強力だと評価し、今が「レッドテック」に投資する時期だと述べた。報道によると、主な焦点は中国AIの競争力を再評価することと、関連テクノロジー株への投資タイミングにある。原文では追加の数値や具体的な投資対象は示されていないが、同氏の発言は米中技術競争の中で中国テック企業への関心を促す内容だ。今後、市場は中国AI産業の実績と投資心理の変化を注視するとみられる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "乔纳森·克莱恩称中国AI实力比肩美国，现在是投资红色科技时机",
+        "excerpt": "乔纳森·克莱恩在hankyung.com报道中表示，中国AI能力与美国一样强大，现在正是投资红色科技的时候。",
+        "body": "乔纳森·克莱恩在hankyung.com报道中表示，中国人工智能（AI）能力与美国一样强大，并称现在是投资“红色科技”的时候。报道称，其核心信息集中在重新评估中国AI竞争力，以及相关科技股的投资时点。原文未提供更多具体数据或明确投资标的，但克莱恩的表态在中美科技竞争背景下，提醒市场关注中国科技企业。未来市场预计将继续观察中国AI产业的实际表现以及投资情绪变化。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Jonathan Krane afirma que la IA china rivaliza con EE. UU. y ve momento para red tech",
+        "excerpt": "Jonathan Krane dijo en hankyung.com que la capacidad de IA de China es tan fuerte como la de EE. UU. y que ahora es momento de invertir en red tech.",
+        "body": "Jonathan Krane afirmó en un reporte de hankyung.com que la capacidad de inteligencia artificial de China es tan fuerte como la de Estados Unidos y que ahora es el momento de invertir en “red tech”. Según la nota, el mensaje central se enfoca en reevaluar la competitividad china en IA y en el momento de entrada en acciones tecnológicas relacionadas. El texto original no incluyó cifras adicionales ni objetivos concretos de inversión, pero sus declaraciones llaman la atención sobre las tecnológicas chinas dentro de la competencia tecnológica entre EE. UU. y China. El mercado observará el desempeño real de la IA china y el cambio en el ánimo inversor. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Jonathan Krane diz que IA da China rivaliza com EUA e vê hora de investir em red tech",
+        "excerpt": "Jonathan Krane afirmou ao hankyung.com que a capacidade de IA da China é tão forte quanto a dos EUA e que agora é hora de investir em red tech.",
+        "body": "Jonathan Krane afirmou em reportagem do hankyung.com que a capacidade de inteligência artificial da China é tão forte quanto a dos Estados Unidos e que este é o momento de investir em “red tech”. Segundo a reportagem, a mensagem principal está na reavaliação da competitividade chinesa em IA e no timing de investimento em ações de tecnologia relacionadas. O texto original não trouxe números adicionais nem alvos específicos de investimento, mas a fala de Krane chama atenção para empresas chinesas de tecnologia em meio à disputa tecnológica entre EUA e China. O mercado deve acompanhar o desempenho da IA chinesa e a mudança no sentimento dos investidores. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Jonathan Krane: Chinas KI so stark wie die USA, jetzt in Red Tech investieren",
+        "excerpt": "Jonathan Krane sagte laut hankyung.com, Chinas KI-Fähigkeiten seien so stark wie die der USA; nun sei der Zeitpunkt für Red-Tech-Investments.",
+        "body": "Jonathan Krane sagte laut einem Bericht von hankyung.com, Chinas Fähigkeiten im Bereich künstliche Intelligenz seien so stark wie die der Vereinigten Staaten, und jetzt sei der Zeitpunkt, in „Red Tech“ zu investieren. Dem Bericht zufolge liegt seine Kernbotschaft in einer Neubewertung der chinesischen KI-Wettbewerbsfähigkeit und des Einstiegszeitpunkts bei entsprechenden Technologiewerten. Der Originaltext nannte keine zusätzlichen Zahlen oder konkreten Anlageziele, doch Kranes Aussage lenkt inmitten des Technologiewettbewerbs zwischen den USA und China den Blick auf chinesische Tech-Unternehmen. Der Markt dürfte die tatsächliche Leistung der chinesischen KI-Branche und die Anlegerstimmung beobachten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Jonathan Krane juge l’IA chinoise aussi forte que celle des États-Unis et vise la red tech",
+        "excerpt": "Jonathan Krane a déclaré à hankyung.com que les capacités d’IA de la Chine sont aussi fortes que celles des États-Unis et que le moment est venu d’investir.",
+        "body": "Jonathan Krane a déclaré dans un article de hankyung.com que les capacités de la Chine en intelligence artificielle sont aussi fortes que celles des États-Unis, ajoutant que le moment est venu d’investir dans la « red tech ». Selon l’article, le message central porte sur la réévaluation de la compétitivité chinoise dans l’IA et sur le calendrier d’investissement dans les valeurs technologiques liées. Le texte original ne fournit pas de chiffres supplémentaires ni de cibles d’investissement précises, mais les propos de Krane attirent l’attention sur les entreprises technologiques chinoises dans le contexte de la rivalité technologique sino-américaine. Les marchés suivront les performances de l’IA chinoise et l’évolution du sentiment des investisseurs. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "جوناثان كرين: قدرات الذكاء الاصطناعي الصينية تضاهي أمريكا ووقت الاستثمار في ريد تك",
+        "excerpt": "قال جوناثان كرين في تقرير hankyung.com إن قدرات الصين في الذكاء الاصطناعي قوية مثل الولايات المتحدة، وإن الوقت مناسب للاستثمار في ريد تك.",
+        "body": "قال جوناثان كرين في تقرير نشره hankyung.com إن قدرات الصين في الذكاء الاصطناعي قوية بقدر قدرات الولايات المتحدة، مضيفاً أن الوقت الحالي مناسب للاستثمار في «ريد تك». وبحسب التقرير، تتركز الرسالة الرئيسية على إعادة تقييم تنافسية الصين في الذكاء الاصطناعي وتوقيت الاستثمار في أسهم التكنولوجيا المرتبطة بها. ولم يورد النص الأصلي أرقاماً إضافية أو أهدافاً استثمارية محددة، لكن تصريحات كرين تلفت الانتباه إلى شركات التكنولوجيا الصينية وسط المنافسة التقنية بين الولايات المتحدة والصين. ومن المتوقع أن تتابع الأسواق الأداء الفعلي لقطاع الذكاء الاصطناعي الصيني وتغير معنويات المستثمرين. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "जोनाथन क्रेन बोले, चीन की AI क्षमता अमेरिका जितनी मजबूत, रेड टेक में निवेश का समय",
+        "excerpt": "जोनाथन क्रेन ने hankyung.com की रिपोर्ट में कहा कि चीन की AI क्षमता अमेरिका जितनी मजबूत है और अभी रेड टेक में निवेश करने का समय है।",
+        "body": "जोनाथन क्रेन ने hankyung.com की रिपोर्ट में कहा कि चीन की कृत्रिम बुद्धिमत्ता यानी AI क्षमता अमेरिका जितनी मजबूत है और अभी “रेड टेक” में निवेश करने का समय है। रिपोर्ट के अनुसार, उनका मुख्य संदेश चीन की AI प्रतिस्पर्धात्मकता के पुनर्मूल्यांकन और संबंधित टेक्नोलॉजी शेयरों में निवेश के समय पर केंद्रित है। मूल पाठ में अतिरिक्त आंकड़े या विशिष्ट निवेश लक्ष्य नहीं दिए गए, लेकिन क्रेन की टिप्पणी अमेरिका-चीन तकनीकी प्रतिस्पर्धा के बीच चीनी टेक कंपनियों पर ध्यान खींचती है। आगे बाजार चीन के AI उद्योग के वास्तविक प्रदर्शन और निवेशक भावना में बदलाव पर नजर रखेगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Jonathan Krane Sebut AI China Sekuat AS, Kini Waktu Investasi Red Tech",
+        "excerpt": "Jonathan Krane dalam laporan hankyung.com mengatakan kemampuan AI China sekuat Amerika Serikat dan saat ini merupakan waktu untuk berinvestasi di red tech.",
+        "body": "Jonathan Krane dalam laporan hankyung.com mengatakan kemampuan kecerdasan buatan atau AI China sama kuatnya dengan Amerika Serikat, serta menyebut saat ini sebagai waktu untuk berinvestasi di “red tech”. Menurut laporan tersebut, pesan utamanya berfokus pada penilaian ulang daya saing AI China dan waktu investasi pada saham teknologi terkait. Teks asli tidak memuat angka tambahan atau target investasi tertentu, tetapi pernyataan Krane menyoroti perusahaan teknologi China di tengah persaingan teknologi AS-China. Ke depan, pasar diperkirakan memantau kinerja nyata industri AI China dan perubahan sentimen investor. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "95ea07f6ee87",
+    "slug": "1만피-설마-했는데삼전닉스-768조에-개미들-환호-127466",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T19:27:25.417Z",
+    "updatedAt": "2026-05-11T19:27:25.417Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051190171",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051190171",
+    "titleFingerprint": "60fddbaa4a5364f02a91fee6f165ccdd0cb3e0ee",
+    "dedupKeys": [
+      "95ea07f6ee877bb00fd8805c931793cd1f978777",
+      "60fddbaa4a5364f02a91fee6f165ccdd0cb3e0ee",
+      "aadf32599f80c5afef71ee5b63e548512f2529af"
+    ],
+    "imageUrl": "/images/articles/95ea07f6ee87.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·SK하이닉스 내년 영업익 768조 전망, 코스피 1만 기대 다시 커졌다",
+        "excerpt": "5월 11일 한국경제는 에프앤가이드 집계를 인용해 삼성전자와 SK하이닉스의 내년 합산 영업이익 전망치가 768조5790억원으로 높아졌고, 코스피 1만 전망이 확산됐다고 보도했다.",
+        "body": "5월 11일 한국경제에 따르면 금융정보업체 에프앤가이드가 집계한 유가증권시장 상장사 170곳의 올해 연결 영업이익 전망치는 849조5262억원, 내년 전망치는 1050조2303억원이다. 이 가운데 삼성전자와 SK하이닉스의 합산 영업이익 전망치는 올해 587조6624억원, 내년 768조5790억원으로 각각 전체의 69%, 73%를 차지했다. 코스피는 이날 4.32% 오른 7822.24에 마감했고, 두 회사 합산 시가총액은 3009조원으로 3000조원을 넘었다. JP모간은 강세장 시나리오에서 코스피 1만을 제시했고 현대차증권은 연말 전망치를 9750으로 높였다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Samsung Electronics and SK Hynix 2027 profit outlook hits W768tn",
+        "excerpt": "On May 11, Hankyung reported, citing FnGuide, that Samsung Electronics and SK Hynix’s combined operating profit outlook for next year rose to W768.579tn, lifting talk of a KOSPI 10,000 scenario.",
+        "body": "According to Hankyung on May 11, FnGuide’s consensus for 170 KOSPI-listed companies with estimates from at least three brokerages put this year’s combined operating profit at W849.5262tn and next year’s at W1,050.2303tn. Samsung Electronics and SK Hynix accounted for the upgrade: their combined operating profit outlook was W587.6624tn for this year and W768.579tn for next year, equal to 69% and 73% of the total. The KOSPI closed up 4.32% at 7,822.24, while the two companies’ combined market value topped W3,009tn. JPMorgan presented a 10,000 KOSPI target in a bull-case scenario, and Hyundai Motor Securities raised its year-end outlook to 9,750. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "サムスン電子・SKハイニックス来年営業益768兆ウォン予想、KOSPI1万期待",
+        "excerpt": "韓国経済新聞は5月11日、FnGuide集計を基に、サムスン電子とSKハイニックスの来年合算営業利益予想が768兆5790億ウォンに上がり、KOSPI1万観測が広がったと報じた。",
+        "body": "韓国経済新聞が5月11日に報じたところによると、FnGuideが集計した証券会社3社以上の予想がある有価証券市場上場170社の連結営業利益見通しは、今年849兆5262億ウォン、来年1050兆2303億ウォンだった。上方修正をけん引しているのはサムスン電子とSKハイニックスで、両社の合算営業利益予想は今年587兆6624億ウォン、来年768兆5790億ウォンと、全体の69%、73%を占める。KOSPIはこの日4.32%高の7822.24で引け、両社の合算時価総額は3009兆ウォンを超えた。JPモルガンは強気シナリオでKOSPI1万を示し、現代車証券は年末見通しを9750に引き上げた。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "三星电子与SK海力士明年营业利润预期达768万亿韩元，KOSPI万点升温",
+        "excerpt": "韩国经济新闻5月11日援引FnGuide数据称，三星电子和SK海力士明年合计营业利润预期升至768.579万亿韩元，KOSPI一万点预期随之扩散。",
+        "body": "据韩国经济新闻5月11日报道，FnGuide统计的、至少有三家券商给出预测的170家韩国主板上市公司，今年合计营业利润预期为849.5262万亿韩元，明年为1050.2303万亿韩元。推高预期的是三星电子和SK海力士，两家公司合计营业利润预期今年为587.6624万亿韩元，明年为768.579万亿韩元，分别占整体的69%和73%。KOSPI当日上涨4.32%，收于7822.24点；两家公司合计市值达到3009万亿韩元，突破3000万亿韩元。摩根大通在强势情景下提出KOSPI一万点目标，现代汽车证券将年末预期上调至9750点。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Samsung y SK Hynix elevan previsión de beneficio a 768 billones de wones",
+        "excerpt": "Hankyung informó el 11 de mayo, citando a FnGuide, que la previsión de beneficio operativo conjunto de Samsung Electronics y SK Hynix para el próximo año subió a 768,579 billones de wones.",
+        "body": "Según Hankyung el 11 de mayo, FnGuide estimó que 170 empresas del mercado KOSPI con previsiones de al menos tres casas de bolsa lograrán un beneficio operativo combinado de 849,5262 billones de wones este año y 1.050,2303 billones el próximo. Samsung Electronics y SK Hynix impulsan la revisión: su beneficio operativo conjunto previsto es de 587,6624 billones de wones este año y 768,579 billones el próximo, equivalentes al 69% y 73% del total. El KOSPI cerró ese día con un alza del 4,32% en 7.822,24 puntos, mientras la capitalización conjunta de ambas compañías superó los 3.009 billones de wones. JPMorgan planteó un KOSPI de 10.000 en un escenario alcista y Hyundai Motor Securities elevó su meta de fin de año a 9.750. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Samsung e SK Hynix veem lucro operacional previsto de W768 tri em 2027",
+        "excerpt": "O Hankyung informou em 11 de maio, com dados da FnGuide, que a previsão de lucro operacional conjunto da Samsung Electronics e da SK Hynix para o próximo ano subiu para W768,579 trilhões.",
+        "body": "Segundo o Hankyung em 11 de maio, a FnGuide apurou que 170 empresas listadas no KOSPI com estimativas de pelo menos três corretoras devem somar lucro operacional de W849,5262 trilhões neste ano e W1.050,2303 trilhões no próximo. Samsung Electronics e SK Hynix puxam a revisão: a previsão combinada das duas é de W587,6624 trilhões neste ano e W768,579 trilhões no próximo, ou 69% e 73% do total. O KOSPI fechou em alta de 4,32%, a 7.822,24 pontos, e o valor de mercado combinado das duas empresas passou de W3.009 trilhões. O JPMorgan indicou KOSPI a 10.000 em cenário otimista, enquanto a Hyundai Motor Securities elevou sua projeção de fim de ano para 9.750. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Samsung und SK Hynix: Gewinnprognose steigt auf 768 Bio. Won",
+        "excerpt": "Hankyung berichtete am 11. Mai unter Berufung auf FnGuide, dass die operative Gewinnprognose von Samsung Electronics und SK Hynix für das kommende Jahr auf 768,579 Billionen Won gestiegen ist.",
+        "body": "Laut Hankyung vom 11. Mai beziffert FnGuide den erwarteten operativen Gewinn von 170 KOSPI-Unternehmen mit Schätzungen von mindestens drei Brokerhäusern auf 849,5262 Billionen Won in diesem Jahr und 1.050,2303 Billionen Won im kommenden Jahr. Getrieben wird die Anhebung von Samsung Electronics und SK Hynix: Für beide zusammen werden 587,6624 Billionen Won in diesem Jahr und 768,579 Billionen Won im nächsten Jahr erwartet, was 69% beziehungsweise 73% des Gesamtwerts entspricht. Der KOSPI schloss an diesem Tag 4,32% höher bei 7.822,24 Punkten; die gemeinsame Marktkapitalisierung der beiden Firmen überschritt 3.009 Billionen Won. JPMorgan nannte in einem Bullenszenario 10.000 Punkte, Hyundai Motor Securities hob das Jahresendziel auf 9.750 an. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Samsung et SK Hynix: prévision de bénéfice portée à 768 billions de wons",
+        "excerpt": "Hankyung a rapporté le 11 mai, sur la base des données FnGuide, que la prévision de bénéfice opérationnel combiné de Samsung Electronics et SK Hynix pour l’an prochain atteint 768,579 billions de wons.",
+        "body": "Selon Hankyung le 11 mai, FnGuide estime que 170 sociétés cotées sur le KOSPI et suivies par au moins trois maisons de courtage dégageront 849,5262 billions de wons de bénéfice opérationnel cette année et 1.050,2303 billions l’an prochain. Samsung Electronics et SK Hynix portent cette révision: leur bénéfice opérationnel combiné est attendu à 587,6624 billions de wons cette année et 768,579 billions l’an prochain, soit 69% et 73% du total. Le KOSPI a clôturé en hausse de 4,32% à 7.822,24 points, tandis que la capitalisation cumulée des deux groupes a dépassé 3.009 billions de wons. JPMorgan a évoqué un KOSPI à 10.000 dans un scénario haussier et Hyundai Motor Securities a relevé sa cible de fin d’année à 9.750. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "سامسونغ وSK هاينكس ترفعان توقعات الأرباح إلى 768 تريليون وون",
+        "excerpt": "ذكرت هانكيونغ في 11 مايو، نقلا عن بيانات FnGuide، أن توقعات الربح التشغيلي المجمع لسامسونغ إلكترونيكس وSK هاينكس للعام المقبل ارتفعت إلى 768.579 تريليون وون.",
+        "body": "بحسب هانكيونغ في 11 مايو، قدرت FnGuide الربح التشغيلي المجمع لـ170 شركة مدرجة في سوق كوسبي ولديها توقعات من ثلاث شركات وساطة أو أكثر عند 849.5262 تريليون وون هذا العام و1,050.2303 تريليون وون في العام المقبل. وتقود سامسونغ إلكترونيكس وSK هاينكس هذا الرفع، إذ بلغت توقعات ربحهما التشغيلي المجمع 587.6624 تريليون وون لهذا العام و768.579 تريليون وون للعام المقبل، بما يعادل 69% و73% من الإجمالي. وأغلق كوسبي مرتفعا 4.32% عند 7,822.24 نقطة، بينما تجاوزت القيمة السوقية المجمعة للشركتين 3,009 تريليونات وون. وقدمت JPMorgan هدف 10,000 نقطة في سيناريو صعودي، ورفعت Hyundai Motor Securities توقعها لنهاية العام إلى 9,750. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Samsung और SK Hynix का अगले साल मुनाफा अनुमान 768 ट्रिलियन वॉन",
+        "excerpt": "Hankyung ने 11 मई को FnGuide के हवाले से बताया कि Samsung Electronics और SK Hynix का अगले साल का संयुक्त परिचालन लाभ अनुमान 768.579 ट्रिलियन वॉन तक बढ़ गया, जिससे KOSPI 10,000 की चर्चा तेज हुई।",
+        "body": "11 मई को Hankyung के अनुसार, FnGuide ने कम से कम तीन ब्रोकरेज अनुमानों वाली 170 KOSPI-सूचीबद्ध कंपनियों का संयुक्त परिचालन लाभ इस साल 849.5262 ट्रिलियन वॉन और अगले साल 1,050.2303 ट्रिलियन वॉन आंका। इस बढ़ोतरी का मुख्य कारण Samsung Electronics और SK Hynix हैं। दोनों का संयुक्त परिचालन लाभ अनुमान इस साल 587.6624 ट्रिलियन वॉन और अगले साल 768.579 ट्रिलियन वॉन है, जो कुल का क्रमशः 69% और 73% है। KOSPI उस दिन 4.32% बढ़कर 7,822.24 पर बंद हुआ, जबकि दोनों कंपनियों का संयुक्त बाजार मूल्य 3,009 ट्रिलियन वॉन से ऊपर गया। JPMorgan ने तेजी के परिदृश्य में KOSPI 10,000 का लक्ष्य रखा और Hyundai Motor Securities ने सालांत अनुमान 9,750 किया। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Samsung dan SK Hynix diproyeksi raih laba W768 triliun tahun depan",
+        "excerpt": "Hankyung melaporkan pada 11 Mei, mengutip FnGuide, bahwa proyeksi laba operasi gabungan Samsung Electronics dan SK Hynix tahun depan naik menjadi W768,579 triliun, memicu ekspektasi KOSPI 10.000.",
+        "body": "Menurut Hankyung pada 11 Mei, FnGuide menghitung proyeksi laba operasi gabungan 170 emiten KOSPI yang memiliki estimasi dari sedikitnya tiga sekuritas sebesar W849,5262 triliun tahun ini dan W1.050,2303 triliun tahun depan. Samsung Electronics dan SK Hynix menjadi pendorong utama: proyeksi laba operasi gabungan keduanya mencapai W587,6624 triliun tahun ini dan W768,579 triliun tahun depan, masing-masing 69% dan 73% dari total. KOSPI ditutup naik 4,32% ke 7.822,24, sementara kapitalisasi pasar gabungan dua perusahaan itu menembus W3.009 triliun. JPMorgan mengajukan target KOSPI 10.000 dalam skenario bullish, dan Hyundai Motor Securities menaikkan proyeksi akhir tahun ke 9.750. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "50675d02c3dc",
     "slug": "10년-전-한국판-노무라-꿈꾼-미래에셋-이젠-롤모델-뛰어넘었다-764403",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "KB Securities Naikkan Target Kolmar Korea Usai Kinerja Kuartal I Kuat",
         "excerpt": "KB Securities pada tanggal 11 menyebut kinerja kuartal I Kolmar Korea melampaui ekspektasi dan menaikkan target harga karena saham dinilai murah terhadap pertumbuhan.",
         "body": "KB Securities pada tanggal 11 menaikkan target harga untuk Kolmar Korea setelah perusahaan mencatat kinerja kuartal pertama yang melampaui ekspektasi pasar. Menurut laporan Lee Min-young dari Yonhap News Agency di Seoul, KB Securities menilai harga saham Kolmar Korea \"murah dibandingkan potensi pertumbuhannya\". Dasar utama penilaian tersebut adalah hasil kuat pada kuartal pertama. Setelah kinerja yang lebih baik dari perkiraan terkonfirmasi, sekuritas itu menyatakan harga saham saat ini tampak dinilai rendah dibandingkan profil pertumbuhan perusahaan. Kenaikan target harga dipahami mencerminkan perbaikan kinerja dan daya tarik valuasi. Laporan tersebut tidak menyebutkan angka target harga tertentu atau proyeksi tambahan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2bdf11ee5bc0",
-    "slug": "부산소식-제7회-부산과학기술혁신상-수상-기업-선정-251134",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T23:16:33.307Z",
-    "updatedAt": "2026-05-10T23:16:33.307Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511015100051",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511015100051",
-    "titleFingerprint": "e83e1fdefa11f1cb518a94da9ef77d7da9da2b17",
-    "dedupKeys": [
-      "2bdf11ee5bc03d9462a4a4b7a897863cb56f6d6c",
-      "e83e1fdefa11f1cb518a94da9ef77d7da9da2b17",
-      "73051c95fb4edb240cfa445787d747152ddccae0"
-    ],
-    "imageUrl": "/images/articles/2bdf11ee5bc0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "부산과학기술혁신상 제7회 수상 기업 선정, 지역 혁신 성장 주목",
-        "excerpt": "부산시는 제7회 부산과학기술혁신상 수상 기업을 선정해 지역 산업의 혁신 성장을 이끈 기업과 연구자를 발굴·포상한다고 밝혔다.",
-        "body": "부산시는 제7회 부산과학기술혁신상 수상 기업을 선정했다. 이번 상은 부산 지역 산업의 혁신 성장을 이끈 기업과 연구자를 발굴하고 포상하기 위해 마련됐다. 부산시는 지역 과학기술 기반의 산업 경쟁력 강화와 혁신 사례 확산에 초점을 맞춰 수상 대상을 선정했다. 구체적인 수상 기업 명단과 세부 공적은 원문 요약에 공개되지 않았다. 이번 선정은 지역 기업과 연구자의 성과를 알리고, 부산 산업 생태계의 혁신 동력을 확인하는 계기가 될 전망이다. 출처인 yna.co.kr은 “제7회 부산과학기술혁신상 수상 기업 선정” 소식을 전했다."
-      },
-      "en": {
-        "title": "Busan Selects 7th Science and Technology Innovation Award Winners",
-        "excerpt": "Busan City selected companies for the 7th Busan Science and Technology Innovation Award to recognize firms and researchers driving local industrial innovation.",
-        "body": "Busan City has selected the winning companies for the 7th Busan Science and Technology Innovation Award. The award is designed to identify and honor companies and researchers that have led innovative growth in the city’s local industries. Busan said the selection focuses on strengthening science- and technology-based industrial competitiveness and spreading examples of innovation. The original summary did not disclose the names of the winning companies or detailed achievements. The selection is expected to highlight the work of local companies and researchers while confirming the innovation momentum of Busan’s industrial ecosystem. Source yna.co.kr reported the news under “Selection of companies for the 7th Busan Science and Technology Innovation Award.”"
-      },
-      "ja": {
-        "title": "釜山科学技術革新賞、第7回受賞企業を選定し地域成長に注目",
-        "excerpt": "釜山市は第7回釜山科学技術革新賞の受賞企業を選定し、地域産業の革新的成長を導いた企業と研究者を発掘・表彰すると明らかにした。",
-        "body": "釜山市は第7回釜山科学技術革新賞の受賞企業を選定した。この賞は、釜山地域産業の革新的成長を導いた企業と研究者を発掘し、表彰するために設けられた。釜山市は、地域の科学技術を基盤とする産業競争力の強化と、革新事例の拡散に重点を置いて受賞対象を選んだ。具体的な受賞企業名や詳細な功績は、原文の要約では公開されていない。今回の選定は、地域企業と研究者の成果を知らせ、釜山の産業生態系における革新の原動力を確認する契機になる見通しだ。出典のyna.co.krは「第7回釜山科学技術革新賞受賞企業選定」のニュースを伝えた。"
-      },
-      "zh": {
-        "title": "釜山科学技术创新奖第七届获奖企业出炉，聚焦本地产业创新",
-        "excerpt": "釜山市选定第七届釜山科学技术创新奖获奖企业，旨在发掘并奖励推动当地产业创新增长的企业和研究人员。",
-        "body": "釜山市已选定第七届釜山科学技术创新奖获奖企业。该奖项旨在发掘并表彰引领釜山地区产业创新增长的企业和研究人员。釜山市表示，评选重点放在强化以科学技术为基础的地区产业竞争力，以及推广创新案例上。原文摘要未公开具体获奖企业名单和详细功绩。此次评选有望展示本地企业和研究人员的成果，并成为确认釜山产业生态系统创新动力的契机。来源yna.co.kr报道称，釜山市“选定第七届釜山科学技术创新奖获奖企业”。"
-      },
-      "es": {
-        "title": "Busan elige ganadores del 7º Premio de Innovación Científica y Tecnológica",
-        "excerpt": "La ciudad de Busan seleccionó a las empresas ganadoras del 7º Premio de Innovación Científica y Tecnológica para reconocer a firmas e investigadores locales.",
-        "body": "La ciudad de Busan seleccionó a las empresas ganadoras del 7º Premio de Innovación Científica y Tecnológica de Busan. El galardón busca identificar y premiar a empresas e investigadores que han impulsado el crecimiento innovador de las industrias locales. Busan centró la selección en reforzar la competitividad industrial basada en ciencia y tecnología y en difundir casos de innovación. El resumen original no divulgó los nombres de las empresas ganadoras ni detalles de sus méritos. La selección permitirá destacar los logros de compañías e investigadores locales y confirmar el impulso innovador del ecosistema industrial de Busan. La fuente yna.co.kr informó la “selección de empresas ganadoras del 7º Premio de Innovación Científica y Tecnológica de Busan”."
-      },
-      "pt": {
-        "title": "Busan escolhe empresas vencedoras do 7º Prêmio de Inovação Científica",
-        "excerpt": "A cidade de Busan selecionou as empresas vencedoras do 7º Prêmio de Inovação em Ciência e Tecnologia para reconhecer firmas e pesquisadores locais.",
-        "body": "A cidade de Busan selecionou as empresas vencedoras do 7º Prêmio de Inovação em Ciência e Tecnologia de Busan. A premiação foi criada para identificar e homenagear empresas e pesquisadores que lideraram o crescimento inovador das indústrias locais. Busan concentrou a escolha no fortalecimento da competitividade industrial baseada em ciência e tecnologia e na divulgação de casos de inovação. O resumo original não informou os nomes das empresas vencedoras nem detalhes de suas realizações. A seleção deve dar visibilidade ao desempenho de empresas e pesquisadores locais e confirmar a força de inovação do ecossistema industrial de Busan. A fonte yna.co.kr noticiou a “seleção das empresas vencedoras do 7º Prêmio de Inovação em Ciência e Tecnologia de Busan”."
-      },
-      "de": {
-        "title": "Busan wählt Gewinner des 7. Wissenschafts- und Technologieinnovationspreises",
-        "excerpt": "Die Stadt Busan hat Unternehmen für den 7. Busan Science and Technology Innovation Award ausgewählt, um lokale Firmen und Forschende auszuzeichnen.",
-        "body": "Die Stadt Busan hat die Gewinnerunternehmen des 7. Busan Science and Technology Innovation Award ausgewählt. Der Preis soll Unternehmen und Forschende ermitteln und auszeichnen, die das innovative Wachstum der regionalen Industrie vorangetrieben haben. Busan legte den Fokus der Auswahl auf die Stärkung der wissenschafts- und technologiebasierten Wettbewerbsfähigkeit der lokalen Industrie sowie auf die Verbreitung von Innovationsbeispielen. Die ursprüngliche Zusammenfassung nennt keine konkreten Unternehmensnamen oder detaillierten Leistungen. Die Auswahl dürfte die Erfolge lokaler Unternehmen und Forschender sichtbar machen und die Innovationskraft des industriellen Ökosystems von Busan unterstreichen. Die Quelle yna.co.kr berichtete über die „Auswahl der Gewinnerunternehmen des 7. Busan Science and Technology Innovation Award“."
-      },
-      "fr": {
-        "title": "Busan sélectionne les lauréats du 7e Prix d’innovation scientifique",
-        "excerpt": "La ville de Busan a choisi les entreprises lauréates du 7e Prix d’innovation scientifique et technologique afin de distinguer entreprises et chercheurs locaux.",
-        "body": "La ville de Busan a sélectionné les entreprises lauréates du 7e Prix d’innovation scientifique et technologique de Busan. Cette distinction vise à repérer et récompenser les entreprises et les chercheurs qui ont porté la croissance innovante des industries locales. Busan a axé la sélection sur le renforcement de la compétitivité industrielle fondée sur la science et la technologie, ainsi que sur la diffusion d’exemples d’innovation. Le résumé original ne précise pas les noms des entreprises lauréates ni le détail de leurs réalisations. Cette sélection devrait mettre en lumière les résultats des entreprises et chercheurs locaux et confirmer l’élan d’innovation de l’écosystème industriel de Busan. La source yna.co.kr a rapporté la “sélection des entreprises lauréates du 7e Prix d’innovation scientifique et technologique de Busan”."
-      },
-      "ar": {
-        "title": "بوسان تختار الفائزين بجائزة الابتكار العلمي والتكنولوجي السابعة",
-        "excerpt": "اختارت مدينة بوسان الشركات الفائزة بجائزة بوسان السابعة للابتكار العلمي والتكنولوجي لتكريم الشركات والباحثين الذين قادوا نمو الصناعة المحلية.",
-        "body": "اختارت مدينة بوسان الشركات الفائزة بجائزة بوسان السابعة للابتكار العلمي والتكنولوجي. وتهدف الجائزة إلى اكتشاف وتكريم الشركات والباحثين الذين قادوا النمو الابتكاري في الصناعات المحلية بالمدينة. وركزت بوسان في الاختيار على تعزيز التنافسية الصناعية القائمة على العلوم والتكنولوجيا ونشر نماذج الابتكار. ولم يكشف ملخص النص الأصلي عن أسماء الشركات الفائزة أو تفاصيل إنجازاتها. ومن المتوقع أن تسلط هذه الخطوة الضوء على إنجازات الشركات والباحثين المحليين، وأن تؤكد زخم الابتكار في المنظومة الصناعية في بوسان. وذكر المصدر yna.co.kr خبر “اختيار الشركات الفائزة بجائزة بوسان السابعة للابتكار العلمي والتكنولوجي”."
-      },
-      "hi": {
-        "title": "बुसान ने 7वें विज्ञान-प्रौद्योगिकी नवाचार पुरस्कार विजेता चुने",
-        "excerpt": "बुसान शहर ने 7वें बुसान विज्ञान और प्रौद्योगिकी नवाचार पुरस्कार के लिए विजेता कंपनियों को चुना, ताकि स्थानीय उद्योगों को आगे बढ़ाने वालों को सम्मान मिले।",
-        "body": "बुसान शहर ने 7वें बुसान विज्ञान और प्रौद्योगिकी नवाचार पुरस्कार के लिए विजेता कंपनियों का चयन किया है। यह पुरस्कार उन कंपनियों और शोधकर्ताओं की पहचान कर उन्हें सम्मानित करने के लिए है, जिन्होंने स्थानीय उद्योगों की नवाचारी वृद्धि का नेतृत्व किया। बुसान ने चयन में विज्ञान और प्रौद्योगिकी आधारित औद्योगिक प्रतिस्पर्धा को मजबूत करने और नवाचार के उदाहरणों को फैलाने पर ध्यान दिया। मूल सारांश में विजेता कंपनियों के नाम या उनके विस्तृत योगदान का खुलासा नहीं किया गया। यह चयन स्थानीय कंपनियों और शोधकर्ताओं की उपलब्धियों को सामने लाने तथा बुसान के औद्योगिक पारिस्थितिकी तंत्र की नवाचार शक्ति को रेखांकित करने का अवसर बनेगा। स्रोत yna.co.kr ने “7वें बुसान विज्ञान और प्रौद्योगिकी नवाचार पुरस्कार विजेता कंपनियों के चयन” की खबर दी।"
-      },
-      "id": {
-        "title": "Busan Pilih Pemenang Penghargaan Inovasi Sains dan Teknologi ke-7",
-        "excerpt": "Pemerintah Kota Busan memilih perusahaan pemenang Penghargaan Inovasi Sains dan Teknologi Busan ke-7 untuk mengapresiasi perusahaan dan peneliti lokal.",
-        "body": "Pemerintah Kota Busan memilih perusahaan pemenang Penghargaan Inovasi Sains dan Teknologi Busan ke-7. Penghargaan ini disiapkan untuk menemukan dan memberi apresiasi kepada perusahaan serta peneliti yang memimpin pertumbuhan inovatif industri lokal. Busan menitikberatkan seleksi pada penguatan daya saing industri berbasis sains dan teknologi serta penyebaran contoh inovasi. Ringkasan asli tidak mengungkap nama perusahaan pemenang maupun rincian capaian mereka. Pemilihan ini diperkirakan akan menyoroti kinerja perusahaan dan peneliti lokal sekaligus menegaskan daya dorong inovasi dalam ekosistem industri Busan. Sumber yna.co.kr melaporkan kabar “pemilihan perusahaan pemenang Penghargaan Inovasi Sains dan Teknologi Busan ke-7”."
-      }
-    }
-  },
-  {
-    "id": "2d1ce27412e5",
-    "slug": "도시건축-현안과-미래-방향은저탄소-목조-도시건축-포럼-529869",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T23:15:31.618Z",
-    "updatedAt": "2026-05-10T23:15:31.618Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510020000005",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510020000005",
-    "titleFingerprint": "00f8856942303fd13c4c5237c7a73077058ee9f3",
-    "dedupKeys": [
-      "2d1ce27412e5f9cec97cb4160559a2f46b39b9d0",
-      "00f8856942303fd13c4c5237c7a73077058ee9f3",
-      "a03d177070648b6fb6b68edf49b92224d49928e1"
-    ],
-    "imageUrl": "/images/articles/2d1ce27412e5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "저탄소 목조 도시건축 포럼, 서울 혜화동서 도시·건축 현안과 미래 방향 논의",
-        "excerpt": "저탄소사회를 지향하는 목조건축협회(LOWCA)가 올해 말까지 서울 혜화동 차무에서 총 7회 ‘저탄소 목조 도시건축 포럼’을 열고 도시·건축 현안과 미래 방향을 다룬다.",
-        "body": "저탄소사회를 지향하는 목조건축협회(LOWCA)는 올해 말까지 서울 혜화동 차무에서 ‘저탄소 목조 도시건축 포럼’을 총 7회 개최한다. 이번 포럼은 도시와 건축을 둘러싼 현안을 짚고, 저탄소 사회로 가기 위한 목조 도시건축의 미래 방향을 논의하는 자리로 마련됐다. 목조건축은 탄소 배출을 줄이려는 건축 분야의 관심 속에서 대안적 흐름으로 거론되고 있으며, 협회는 포럼을 통해 관련 논의를 이어갈 계획이다. 향후 7차례에 걸친 논의가 도시·건축 분야의 저탄소 전환 담론을 넓히는 계기가 될지 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Low-Carbon Wooden Urban Architecture Forum to Discuss City and Building Issues in Seoul",
-        "excerpt": "The Korea Woods Construction Society for Low-Carbon, LOWCA, will hold seven Low-Carbon Wooden Urban Architecture Forum sessions at Chamu in Hyehwa-dong, Seoul, through year-end.",
-        "body": "The Korea Woods Construction Society for Low-Carbon, LOWCA, will hold the Low-Carbon Wooden Urban Architecture Forum seven times through the end of this year at Chamu in Hyehwa-dong, Seoul. The forum is designed to examine current urban and architectural issues and discuss the future direction of wooden urban architecture for a low-carbon society. Wooden architecture is being mentioned as part of the architectural sector’s efforts to reduce carbon emissions, and the association plans to continue related discussions through the forum. Attention is on whether the seven sessions will broaden debate on the low-carbon transition in cities and architecture. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "低炭素木造都市建築フォーラム、ソウル恵化洞で都市・建築の課題と未来を議論",
-        "excerpt": "低炭素社会を志向する木造建築協会LOWCAは、年末までソウル恵化洞のチャムで計7回にわたり低炭素木造都市建築フォーラムを開く。",
-        "body": "低炭素社会を志向する木造建築協会（LOWCA）は、今年末までソウル恵化洞のチャムで「低炭素木造都市建築フォーラム」を計7回開催する。今回のフォーラムは、都市と建築をめぐる懸案を点検し、低炭素社会へ向かうための木造都市建築の未来の方向性を議論する場として設けられた。木造建築は、炭素排出を減らそうとする建築分野の関心の中で代替的な流れとして取り上げられており、協会はフォーラムを通じて関連議論を続ける計画だ。7回にわたる議論が都市・建築分野の低炭素転換の論点を広げる契機となるか注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "低碳木结构城市建筑论坛将在首尔惠化洞讨论城市与建筑课题",
-        "excerpt": "倡导低碳社会的木结构建筑协会LOWCA将于今年年底前在首尔惠化洞Chamu举办共7场低碳木结构城市建筑论坛。",
-        "body": "倡导低碳社会的木结构建筑协会（LOWCA）将在今年年底前，于首尔惠化洞Chamu举办共7场“低碳木结构城市建筑论坛”。该论坛旨在梳理城市与建筑领域的现实议题，并讨论面向低碳社会的木结构城市建筑未来方向。在建筑领域关注减少碳排放的背景下，木结构建筑被视为一种替代性趋势，协会计划通过论坛延续相关讨论。接下来7场讨论能否扩大城市与建筑领域低碳转型的公共议题，受到关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Foro de arquitectura urbana en madera baja en carbono debatirá retos urbanos en Seúl",
-        "excerpt": "LOWCA, la asociación de arquitectura en madera orientada a una sociedad baja en carbono, celebrará hasta fin de año siete foros en Chamu, Hyehwa-dong, Seúl.",
-        "body": "La asociación de arquitectura en madera orientada a una sociedad baja en carbono, LOWCA, celebrará hasta finales de este año el Foro de Arquitectura Urbana en Madera Baja en Carbono en siete sesiones en Chamu, Hyehwa-dong, Seúl. El foro busca revisar los asuntos actuales de la ciudad y la arquitectura, y debatir la dirección futura de la arquitectura urbana en madera para avanzar hacia una sociedad baja en carbono. La construcción en madera se menciona como una corriente alternativa dentro del interés del sector por reducir emisiones de carbono, y la asociación prevé mantener ese debate mediante el foro. La atención se centra en si las siete sesiones ampliarán la conversación sobre la transición baja en carbono en ciudades y arquitectura. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Fórum de arquitetura urbana em madeira de baixo carbono discutirá desafios em Seul",
-        "excerpt": "A LOWCA, associação de construção em madeira voltada a uma sociedade de baixo carbono, realizará sete sessões do fórum em Chamu, Hyehwa-dong, Seul, até o fim do ano.",
-        "body": "A associação de construção em madeira voltada a uma sociedade de baixo carbono, LOWCA, realizará até o fim deste ano o Fórum de Arquitetura Urbana em Madeira de Baixo Carbono em sete sessões no Chamu, em Hyehwa-dong, Seul. O fórum foi criado para examinar questões atuais de cidades e arquitetura e discutir os rumos futuros da arquitetura urbana em madeira para uma sociedade de baixo carbono. A construção em madeira é citada como uma tendência alternativa em meio ao interesse do setor em reduzir emissões de carbono, e a associação planeja manter o debate por meio do fórum. A expectativa é saber se as sete discussões ampliarão a pauta da transição de baixo carbono no campo urbano e arquitetônico. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Forum für kohlenstoffarme Holz-Stadtarchitektur diskutiert Stadt- und Baufragen in Seoul",
-        "excerpt": "LOWCA, der Verband für Holzbau mit Ziel einer kohlenstoffarmen Gesellschaft, richtet bis Jahresende sieben Forumstermine in Chamu, Hyehwa-dong, Seoul, aus.",
-        "body": "Der Verband für Holzbau mit Ziel einer kohlenstoffarmen Gesellschaft, LOWCA, veranstaltet bis Ende dieses Jahres das Forum für kohlenstoffarme Holz-Stadtarchitektur in insgesamt sieben Sitzungen im Chamu in Hyehwa-dong, Seoul. Das Forum soll aktuelle Fragen rund um Stadt und Architektur aufgreifen und die künftige Richtung der Holz-Stadtarchitektur für eine kohlenstoffarme Gesellschaft diskutieren. Holzbau wird im Bausektor im Zusammenhang mit Bemühungen zur Verringerung von CO2-Emissionen als alternativer Ansatz genannt, und der Verband will die Debatte über das Forum fortführen. Im Fokus steht, ob die sieben Sitzungen die Diskussion über den kohlenstoffarmen Wandel in Stadt und Architektur erweitern werden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Un forum sur l’architecture urbaine en bois bas carbone discutera des enjeux à Séoul",
-        "excerpt": "LOWCA, association de construction en bois tournée vers une société bas carbone, organisera sept sessions du forum à Chamu, Hyehwa-dong, Séoul, d’ici la fin de l’année.",
-        "body": "L’association de construction en bois tournée vers une société bas carbone, LOWCA, organisera d’ici la fin de l’année le Forum sur l’architecture urbaine en bois bas carbone en sept sessions à Chamu, dans le quartier de Hyehwa-dong à Séoul. Le forum vise à examiner les enjeux actuels liés à la ville et à l’architecture, et à discuter de l’orientation future de l’architecture urbaine en bois pour une société bas carbone. La construction en bois est évoquée comme une tendance alternative dans un secteur du bâtiment attentif à la réduction des émissions de carbone, et l’association prévoit de poursuivre ces discussions au fil du forum. Les sept rencontres pourraient élargir le débat sur la transition bas carbone dans les domaines urbain et architectural. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "منتدى العمارة الحضرية الخشبية منخفضة الكربون يناقش قضايا المدن والبناء في سيول",
-        "excerpt": "تنظم جمعية العمارة الخشبية الهادفة إلى مجتمع منخفض الكربون LOWCA سبع جلسات للمنتدى في تشامو بحي هيهوا دونغ في سيول حتى نهاية العام.",
-        "body": "تعتزم جمعية العمارة الخشبية الهادفة إلى مجتمع منخفض الكربون (LOWCA) عقد «منتدى العمارة الحضرية الخشبية منخفضة الكربون» سبع مرات حتى نهاية هذا العام في تشامو بحي هيهوا دونغ في سيول. ويهدف المنتدى إلى تناول القضايا الراهنة المرتبطة بالمدن والعمارة، ومناقشة الاتجاه المستقبلي للعمارة الحضرية الخشبية من أجل مجتمع منخفض الكربون. وتُطرح العمارة الخشبية ضمن اهتمام قطاع البناء بخفض انبعاثات الكربون كمسار بديل، وتخطط الجمعية لمواصلة النقاشات ذات الصلة عبر المنتدى. وينصب الاهتمام على ما إذا كانت الجلسات السبع ستوسع النقاش حول التحول منخفض الكربون في مجالي المدن والعمارة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "कम कार्बन लकड़ी शहरी वास्तुकला फोरम सियोल में शहर और भवन मुद्दों पर चर्चा करेगा",
-        "excerpt": "कम कार्बन समाज की ओर उन्मुख लकड़ी वास्तुकला संघ LOWCA इस साल के अंत तक सियोल के ह्येह्वा-डोंग स्थित चामू में कुल सात फोरम आयोजित करेगा।",
-        "body": "कम कार्बन समाज की ओर उन्मुख लकड़ी वास्तुकला संघ (LOWCA) इस साल के अंत तक सियोल के ह्येह्वा-डोंग स्थित चामू में “कम कार्बन लकड़ी शहरी वास्तुकला फोरम” कुल सात बार आयोजित करेगा। यह फोरम शहर और वास्तुकला से जुड़े मौजूदा मुद्दों की समीक्षा करने और कम कार्बन समाज की दिशा में लकड़ी आधारित शहरी वास्तुकला के भविष्य पर चर्चा करने के लिए तैयार किया गया है। कार्बन उत्सर्जन घटाने में रुचि बढ़ने के बीच लकड़ी वास्तुकला को भवन क्षेत्र में एक वैकल्पिक प्रवृत्ति के रूप में देखा जा रहा है, और संघ फोरम के माध्यम से संबंधित चर्चा जारी रखेगा। ध्यान इस बात पर है कि सात सत्र शहर और वास्तुकला क्षेत्र में कम कार्बन परिवर्तन की बहस को कितना व्यापक बनाते हैं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Forum Arsitektur Kota Kayu Rendah Karbon Bahas Isu Perkotaan dan Bangunan di Seoul",
-        "excerpt": "LOWCA, asosiasi arsitektur kayu yang mengarah pada masyarakat rendah karbon, akan menggelar tujuh sesi forum di Chamu, Hyehwa-dong, Seoul, hingga akhir tahun.",
-        "body": "Asosiasi arsitektur kayu yang mengarah pada masyarakat rendah karbon, LOWCA, akan menggelar Forum Arsitektur Kota Kayu Rendah Karbon sebanyak tujuh kali hingga akhir tahun ini di Chamu, Hyehwa-dong, Seoul. Forum ini disiapkan untuk meninjau isu terkini seputar kota dan arsitektur serta membahas arah masa depan arsitektur kota berbasis kayu menuju masyarakat rendah karbon. Arsitektur kayu disebut sebagai salah satu arus alternatif di tengah perhatian sektor bangunan terhadap pengurangan emisi karbon, dan asosiasi berencana melanjutkan diskusi terkait melalui forum tersebut. Perhatian tertuju pada apakah tujuh sesi ini dapat memperluas wacana transisi rendah karbon di bidang perkotaan dan arsitektur. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "96042ba0190d",
-    "slug": "마켓뷰-7천피-기록한-코스피-8천피-갈까-차익실현-매물-쏟아질까-679380",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T23:14:19.878Z",
-    "updatedAt": "2026-05-10T23:14:19.878Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511015700008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511015700008",
-    "titleFingerprint": "d738ff6ccc4d960f9a82e654128ee8a21427a54d",
-    "dedupKeys": [
-      "96042ba0190ddd481ad4393c108a0c94ced309bf",
-      "d738ff6ccc4d960f9a82e654128ee8a21427a54d",
-      "469a9ec47077e996d7effaf57f38c121faf38308"
-    ],
-    "imageUrl": "/images/articles/96042ba0190d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7,000 돌파 후 8,000 도전 주목, 차익실현 매물 변수",
-        "excerpt": "지난주 7,000포인트를 넘어선 국내 증시가 11일 사상 첫 8,000포인트에 도달할 수 있을지와 차익실현 매물 부담이 시장 관심사로 떠올랐다.",
-        "body": "지난주 코스피가 7,000포인트를 돌파한 뒤 국내 증시는 11일 사상 최초 8,000포인트 도달 여부에 관심이 모이고 있다. 연합뉴스에 따르면 시장의 초점은 기록적인 상승 흐름이 이어질지, 또는 단기 급등에 따른 차익실현 매물이 쏟아질지에 맞춰져 있다. 7,000포인트 돌파는 국내 증시의 상징적 수준을 넘어선 움직임으로 평가되며, 다음 관전 지점은 8,000포인트다. 다만 원문은 구체적인 추가 지표나 수급 수치를 제시하지 않았다. 투자자들은 11일 장중 흐름을 통해 상승 지속 가능성과 매물 압력을 함께 확인할 전망이다. 출처: yna.co.kr."
-      },
-      "en": {
-        "title": "KOSPI Eyes 8,000 After Passing 7,000 as Profit-Taking Risk Looms",
-        "excerpt": "After South Korea’s stock market topped 7,000 points last week, attention turns to whether it can reach a historic 8,000 on the 11th amid possible profit-taking.",
-        "body": "After the KOSPI crossed the 7,000-point mark last week, South Korea’s stock market is drawing attention over whether it can reach 8,000 points for the first time on the 11th. According to Yonhap News Agency, the market focus is whether the record-setting advance will continue or whether profit-taking orders will emerge after the sharp short-term rise. The move above 7,000 is viewed as a symbolic milestone for domestic equities, with 8,000 now becoming the next point of interest. The original report did not provide additional detailed indicators or supply-demand figures. Investors are expected to watch intraday trading on the 11th for signs of continued momentum and selling pressure. Source: yna.co.kr."
-      },
-      "ja": {
-        "title": "KOSPI、7,000突破後に8,000到達なるか 利益確定売りも焦点",
-        "excerpt": "先週7,000ポイントを突破した韓国株式市場は、11日に史上初の8,000ポイントへ届くか、利益確定売りが出るかに注目が集まっている。",
-        "body": "先週、KOSPIが7,000ポイントを突破した後、韓国株式市場では11日に史上初めて8,000ポイントに到達できるかが注目されている。聯合ニュースによると、市場の焦点は記録的な上昇の流れが続くのか、短期急騰を受けた利益確定売りが出るのかに置かれている。7,000ポイント突破は韓国株式市場にとって象徴的な水準を超えた動きと受け止められ、次の注目点は8,000ポイントとなっている。ただし原文は、追加の具体的な指標や需給関連の数値を示していない。投資家は11日の取引中の動きを通じて、上昇継続の可能性と売り圧力を確認する見通しだ。出典: yna.co.kr."
-      },
-      "zh": {
-        "title": "KOSPI突破7,000点后冲击8,000点，获利回吐压力受关注",
-        "excerpt": "韩国股市上周突破7,000点后，市场关注其能否在11日首次升至8,000点，同时短线急涨后的获利回吐卖盘也成为焦点。",
-        "body": "上周KOSPI突破7,000点后，韩国国内股市正受到关注，焦点是11日能否首次达到8,000点。据韩联社报道，市场关注的是创纪录的上涨走势能否延续，还是短期快速上涨后会出现获利回吐卖盘。突破7,000点被视为韩国股市越过象征性关口的表现，下一观察点则是8,000点。不过，原文未提供进一步的具体指标或资金供需数据。投资者预计将通过11日盘中走势，同时观察上涨延续的可能性和卖盘压力。来源: yna.co.kr."
-      },
-      "es": {
-        "title": "KOSPI mira los 8.000 tras superar 7.000 puntos; toma de ganancias pesa",
-        "excerpt": "Tras superar los 7.000 puntos la semana pasada, la bolsa surcoreana centra la atención en si podrá alcanzar por primera vez los 8.000 el día 11.",
-        "body": "Después de que el KOSPI superara los 7.000 puntos la semana pasada, la bolsa surcoreana concentra la atención en si podrá llegar por primera vez a los 8.000 puntos el día 11. Según la agencia Yonhap, el foco del mercado está en si continuará el avance récord o si aparecerán ventas para realizar beneficios tras la fuerte subida de corto plazo. El cruce de los 7.000 puntos se considera un movimiento que supera un nivel simbólico para el mercado bursátil nacional, y el siguiente punto de observación es 8.000. El texto original no ofreció indicadores adicionales ni cifras concretas de oferta y demanda. Los inversores seguirán la sesión del día 11 para evaluar tanto la continuidad del alza como la presión vendedora. Fuente: yna.co.kr."
-      },
-      "pt": {
-        "title": "KOSPI mira 8.000 após superar 7.000 pontos; realização de lucros preocupa",
-        "excerpt": "Após ultrapassar 7.000 pontos na semana passada, a bolsa sul-coreana volta as atenções para a chance de chegar pela primeira vez a 8.000 no dia 11.",
-        "body": "Depois de o KOSPI ultrapassar a marca de 7.000 pontos na semana passada, o mercado acionário sul-coreano chama atenção sobre a possibilidade de atingir 8.000 pontos pela primeira vez no dia 11. Segundo a agência Yonhap, o foco do mercado está em saber se o avanço recorde continuará ou se surgirão vendas de realização de lucros após a forte alta de curto prazo. A superação dos 7.000 pontos é vista como a passagem de um nível simbólico para a bolsa doméstica, e o próximo ponto de observação é 8.000. O texto original não apresentou indicadores adicionais nem números específicos de oferta e demanda. Investidores devem acompanhar o pregão do dia 11 para verificar tanto a continuidade da alta quanto a pressão vendedora. Fonte: yna.co.kr."
-      },
-      "de": {
-        "title": "KOSPI nach Sprung über 7.000 im Blick: Reichen die Käufe bis 8.000?",
-        "excerpt": "Nach dem Anstieg des südkoreanischen Aktienmarkts über 7.000 Punkte richtet sich der Blick auf den 11. und die Frage nach 8.000 Punkten oder Gewinnmitnahmen.",
-        "body": "Nachdem der KOSPI in der vergangenen Woche die Marke von 7.000 Punkten überschritten hat, richtet sich am südkoreanischen Aktienmarkt der Blick darauf, ob am 11. erstmals 8.000 Punkte erreicht werden können. Laut Yonhap News Agency steht im Mittelpunkt, ob die rekordartige Aufwärtsbewegung anhält oder ob nach dem kurzfristig starken Anstieg Gewinnmitnahmen einsetzen. Der Sprung über 7.000 Punkte gilt als Überschreiten einer symbolischen Schwelle für den heimischen Aktienmarkt, während 8.000 nun der nächste Beobachtungspunkt ist. Der Originalbericht nannte keine weiteren konkreten Indikatoren oder Angebots- und Nachfragezahlen. Anleger dürften den Handel am 11. verfolgen, um Aufwärtsdynamik und Verkaufsdruck zugleich zu prüfen. Quelle: yna.co.kr."
-      },
-      "fr": {
-        "title": "Le KOSPI vise 8 000 après 7 000 points, avec les prises de bénéfices en risque",
-        "excerpt": "Après avoir dépassé 7 000 points la semaine dernière, la Bourse sud-coréenne surveille une possible première montée à 8 000 le 11 et les prises de bénéfices.",
-        "body": "Après le franchissement des 7 000 points par le KOSPI la semaine dernière, le marché boursier sud-coréen attire l’attention sur sa capacité à atteindre pour la première fois 8 000 points le 11. Selon l’agence Yonhap, le marché se concentre sur deux questions: la poursuite de la hausse record ou l’arrivée de ventes de prise de bénéfices après la forte progression de court terme. Le passage au-dessus de 7 000 points est considéré comme le dépassement d’un seuil symbolique pour les actions nationales, tandis que 8 000 devient le prochain niveau observé. Le texte original ne fournit pas d’autres indicateurs précis ni de chiffres de flux. Les investisseurs devraient suivre la séance du 11 pour évaluer à la fois la dynamique haussière et la pression vendeuse. Source: yna.co.kr."
-      },
-      "ar": {
-        "title": "كوسبي يراقب 8,000 نقطة بعد تجاوز 7,000 ومخاطر جني الأرباح حاضرة",
-        "excerpt": "بعد أن تجاوزت سوق الأسهم الكورية 7,000 نقطة الأسبوع الماضي، يتركز الاهتمام على إمكان بلوغ 8,000 نقطة لأول مرة يوم 11 وسط احتمال جني الأرباح.",
-        "body": "بعد أن تجاوز مؤشر كوسبي مستوى 7,000 نقطة الأسبوع الماضي، تتجه الأنظار في سوق الأسهم الكورية إلى ما إذا كان يمكنه بلوغ 8,000 نقطة للمرة الأولى يوم 11. وبحسب وكالة يونهاب، يتركز اهتمام السوق على ما إذا كان الصعود القياسي سيستمر، أم ستظهر أوامر بيع لجني الأرباح بعد الارتفاع السريع في المدى القصير. ويعد تجاوز 7,000 نقطة عبورا لمستوى رمزي في السوق المحلية، بينما أصبحت 8,000 نقطة محطة المتابعة التالية. ولم يورد النص الأصلي مؤشرات إضافية محددة أو أرقاما تفصيلية عن العرض والطلب. ومن المتوقع أن يتابع المستثمرون حركة التداول خلال يوم 11 لتقييم فرص استمرار الصعود وضغط البيع في الوقت نفسه. المصدر: yna.co.kr."
-      },
-      "hi": {
-        "title": "7,000 पार करने के बाद KOSPI की नजर 8,000 पर, मुनाफावसूली बनी अहम कसौटी",
-        "excerpt": "पिछले सप्ताह 7,000 अंक पार करने के बाद दक्षिण कोरियाई शेयर बाजार पर नजर है कि क्या वह 11 तारीख को पहली बार 8,000 अंक तक पहुंच सकेगा।",
-        "body": "पिछले सप्ताह KOSPI के 7,000 अंक पार करने के बाद दक्षिण कोरिया के शेयर बाजार में ध्यान इस बात पर है कि क्या वह 11 तारीख को पहली बार 8,000 अंक तक पहुंच सकता है। योनहाप समाचार एजेंसी के अनुसार, बाजार का मुख्य सवाल यह है कि रिकॉर्ड तेजी जारी रहेगी या अल्पकालिक तेज बढ़त के बाद मुनाफावसूली की बिकवाली आएगी। 7,000 अंक का स्तर घरेलू शेयर बाजार के लिए एक प्रतीकात्मक सीमा माना जा रहा है, और अगला निगरानी स्तर 8,000 अंक है। मूल रिपोर्ट ने कोई अतिरिक्त ठोस संकेतक या आपूर्ति-मांग से जुड़े आंकड़े नहीं दिए। निवेशक 11 तारीख के कारोबार में तेजी की निरंतरता और बिकवाली के दबाव, दोनों को परखेंगे। स्रोत: yna.co.kr."
-      },
-      "id": {
-        "title": "KOSPI Tembus 7.000, Kini Pasar Menanti 8.000 dan Aksi Ambil Untung",
-        "excerpt": "Setelah pasar saham Korea Selatan melewati 7.000 poin pekan lalu, perhatian tertuju pada peluang mencapai 8.000 untuk pertama kalinya pada tanggal 11.",
-        "body": "Setelah KOSPI menembus level 7.000 poin pekan lalu, pasar saham Korea Selatan menjadi sorotan terkait apakah indeks itu dapat mencapai 8.000 poin untuk pertama kalinya pada tanggal 11. Menurut kantor berita Yonhap, fokus pasar adalah apakah laju kenaikan yang mencetak rekor akan berlanjut atau muncul tekanan jual untuk merealisasikan keuntungan setelah kenaikan tajam jangka pendek. Penembusan 7.000 poin dipandang sebagai pergerakan melewati level simbolis bagi pasar saham domestik, sementara 8.000 menjadi titik pantau berikutnya. Naskah asli tidak menyajikan indikator tambahan atau angka rinci mengenai penawaran dan permintaan. Investor diperkirakan mencermati perdagangan tanggal 11 untuk melihat peluang kelanjutan kenaikan sekaligus tekanan jual. Sumber: yna.co.kr."
       }
     }
   }
