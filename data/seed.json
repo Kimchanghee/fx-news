@@ -1,5 +1,230 @@
 [
   {
+    "id": "0acd3f61195a",
+    "slug": "동국제강-고객사-외상거래-문턱-낮춘다신보-페이원-보증-도입-119938",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T17:27:00.813Z",
+    "updatedAt": "2026-05-11T17:27:00.813Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12043190",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12043190",
+    "titleFingerprint": "c706072e13324cb2b72f5c30279727783e57635c",
+    "dedupKeys": [
+      "0acd3f61195a224fb7de411efbbfe7b92ea2f76a",
+      "c706072e13324cb2b72f5c30279727783e57635c",
+      "21b428a18d744c5f30a5afbd016818725955ace4"
+    ],
+    "imageUrl": "/images/articles/0acd3f61195a.png",
+    "i18n": {
+      "ko": {
+        "title": "동국제강, 외상거래 문턱 낮춘다…신보 ‘페이원 보증’ 도입",
+        "excerpt": "동국제강은 고객사의 외상 결제 부담을 줄이기 위해 신용보증기금의 ‘페이원 보증’을 도입하고, 보증 신청부터 한도 관리까지 원스톱으로 지원한다.",
+        "body": "동국제강이 고객사의 외상거래 이용 문턱을 낮추기 위해 신용보증기금의 ‘페이원 보증’을 도입했다. 이번 도입으로 현금 카드에 이어 외상 결제 시스템까지 갖추며 고객사의 결제 선택 폭을 넓혔다. 페이원 보증은 동국제강 사이트 안에서 보증 신청부터 한도 관리까지 원스톱으로 처리할 수 있는 방식이며, 당일 발급도 가능하다. 기업당 보증 한도는 10억원이며 보증료 차감 혜택도 제공된다. 철강 거래 고객사는 외상 결제 활용을 통해 단기 현금 흐름을 개선할 수 있을 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Dongkuk Steel Lowers Credit Purchase Barriers With PayOne Guarantee",
+        "excerpt": "Dongkuk Steel has introduced the Korea Credit Guarantee Fund’s PayOne Guarantee to ease customers’ credit payment burden and support applications and limit management in one stop.",
+        "body": "Dongkuk Steel has introduced the Korea Credit Guarantee Fund’s PayOne Guarantee to lower the barrier for customers using credit transactions. With the move, the company now has a credit payment system in place in addition to its cash card option, widening payment choices for customers. PayOne Guarantee allows users to handle the full process, from guarantee application to limit management, through Dongkuk Steel’s website, and issuance can be completed on the same day. The guarantee limit is 1 billion won per company, with benefits including deducted guarantee fees. Steel trading customers are expected to improve short-term cash flow by using credit payments. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "東国製鋼、掛け取引のハードル下げる…信保「PayOne保証」導入",
+        "excerpt": "東国製鋼は顧客企業の掛け決済負担を軽減するため、信用保証基金の「PayOne保証」を導入し、保証申請から限度管理までワンストップで支援する。",
+        "body": "東国製鋼は、顧客企業が掛け取引を利用しやすくするため、信用保証基金の「PayOne保証」を導入した。これにより、現金カードに続いて掛け決済システムも整え、顧客の決済選択肢を広げた。PayOne保証は、東国製鋼のサイト内で保証申請から限度管理までをワンストップで処理できる仕組みで、当日発行も可能だ。企業1社当たりの保証限度は10億ウォンで、保証料差し引きの特典も提供される。鉄鋼取引先は掛け決済の活用により、短期的な現金フローの改善が期待される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "东国制钢引入“PayOne保证” 降低客户赊账交易门槛",
+        "excerpt": "东国制钢为减轻客户企业赊账结算负担，引入信用保证基金“PayOne保证”，并在网站内支持从保证申请到额度管理的一站式办理。",
+        "body": "东国制钢为降低客户使用赊账交易的门槛，引入了信用保证基金的“PayOne保证”。通过此次引入，公司在现金卡之外进一步完善了赊账结算系统，扩大客户的支付选择。PayOne保证可在东国制钢网站内完成从保证申请到额度管理的一站式处理，并可实现当日签发。每家企业的保证额度为10亿韩元，同时还提供保证费扣减等优惠。钢铁交易客户有望通过使用赊账结算改善短期现金流。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Dongkuk Steel facilita compras a crédito con la garantía PayOne",
+        "excerpt": "Dongkuk Steel incorporó la garantía PayOne del Korea Credit Guarantee Fund para aliviar la carga de pagos a crédito de sus clientes y gestionar solicitudes y límites en un solo proceso.",
+        "body": "Dongkuk Steel introdujo la garantía PayOne del Korea Credit Guarantee Fund para reducir la barrera de entrada a las transacciones a crédito de sus clientes. Con esta medida, la empresa completa su sistema de pagos a crédito además de la tarjeta de efectivo, ampliando las opciones de pago disponibles. PayOne permite tramitar en el sitio de Dongkuk Steel todo el proceso, desde la solicitud de garantía hasta la gestión del límite, con posibilidad de emisión el mismo día. El límite por empresa es de 1.000 millones de wones y se ofrecen beneficios como deducciones en la comisión de garantía. Los clientes del sector siderúrgico podrán mejorar su flujo de caja de corto plazo mediante pagos a crédito. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Dongkuk Steel reduz barreira para compras a prazo com garantia PayOne",
+        "excerpt": "A Dongkuk Steel adotou a garantia PayOne do Korea Credit Guarantee Fund para aliviar o peso dos pagamentos a prazo de clientes e permitir solicitação e gestão de limite em um só fluxo.",
+        "body": "A Dongkuk Steel adotou a garantia PayOne do Korea Credit Guarantee Fund para reduzir a barreira de uso de transações a prazo por seus clientes. Com a iniciativa, a empresa passa a contar com um sistema de pagamento a prazo além do cartão em dinheiro, ampliando as opções de pagamento. A PayOne permite processar, no site da Dongkuk Steel, desde a solicitação da garantia até a gestão do limite em um único serviço, com emissão possível no mesmo dia. O limite por empresa é de 1 bilhão de wones, com benefícios como dedução da taxa de garantia. Clientes do setor de aço poderão melhorar o fluxo de caixa de curto prazo ao usar pagamentos a prazo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Dongkuk Steel senkt Hürde für Warenkredit mit PayOne-Garantie",
+        "excerpt": "Dongkuk Steel führt die PayOne-Garantie des Korea Credit Guarantee Fund ein, um Kunden bei Kreditkäufen zu entlasten und Antrag sowie Limitverwaltung zentral abzuwickeln.",
+        "body": "Dongkuk Steel hat die PayOne-Garantie des Korea Credit Guarantee Fund eingeführt, um Kunden den Zugang zu Kreditgeschäften zu erleichtern. Damit verfügt das Unternehmen neben der Bargeldkarte nun auch über ein System für Zahlungen auf Ziel und erweitert die Zahlungsoptionen seiner Kunden. Die PayOne-Garantie ermöglicht es, auf der Website von Dongkuk Steel den gesamten Ablauf von der Garantiebeantragung bis zur Limitverwaltung aus einer Hand zu erledigen; eine Ausstellung am selben Tag ist möglich. Das Garantielimit beträgt 1 Milliarde Won je Unternehmen, zudem gibt es Vorteile wie Abzüge bei der Garantiegebühr. Kunden im Stahlhandel können durch Zahlungen auf Ziel ihren kurzfristigen Cashflow verbessern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Dongkuk Steel facilite les achats à crédit avec la garantie PayOne",
+        "excerpt": "Dongkuk Steel a adopté la garantie PayOne du Korea Credit Guarantee Fund afin d’alléger la charge des paiements à crédit pour ses clients et de gérer demandes et plafonds en un seul parcours.",
+        "body": "Dongkuk Steel a introduit la garantie PayOne du Korea Credit Guarantee Fund afin d’abaisser le seuil d’accès aux transactions à crédit pour ses clients. Avec cette mesure, l’entreprise complète son dispositif de paiement à crédit en plus de la carte de paiement comptant, élargissant les choix de règlement. PayOne permet de traiter sur le site de Dongkuk Steel l’ensemble du processus, de la demande de garantie à la gestion du plafond, avec une émission possible le jour même. Le plafond par entreprise est de 1 milliard de wons, avec des avantages tels que la déduction des frais de garantie. Les clients du secteur sidérurgique pourront améliorer leur trésorerie à court terme grâce aux paiements à crédit. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "دونغكوك ستيل تخفّض عتبة الشراء الآجل عبر ضمان PayOne",
+        "excerpt": "اعتمدت دونغكوك ستيل ضمان PayOne التابع لصندوق ضمان الائتمان الكوري لتخفيف عبء السداد الآجل على العملاء ودعم طلب الضمان وإدارة الحد في خطوة واحدة.",
+        "body": "أدخلت دونغكوك ستيل ضمان PayOne التابع لصندوق ضمان الائتمان الكوري لخفض عتبة استخدام العملاء للمعاملات الآجلة. وبهذه الخطوة، أصبحت الشركة تمتلك نظاما متكاملا للسداد الآجل إلى جانب بطاقة الدفع النقدي، ما يوسع خيارات الدفع أمام العملاء. يتيح ضمان PayOne تنفيذ العملية كاملة عبر موقع دونغكوك ستيل، من طلب الضمان إلى إدارة الحد، مع إمكانية الإصدار في اليوم نفسه. ويبلغ حد الضمان لكل شركة مليار وون، مع مزايا تشمل خصم رسوم الضمان. ومن المتوقع أن يساعد استخدام السداد الآجل عملاء تجارة الصلب على تحسين التدفق النقدي قصير الأجل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "डोंगकुक स्टील ने PayOne गारंटी से उधार लेनदेन की बाधा घटाई",
+        "excerpt": "डोंगकुक स्टील ने ग्राहकों के उधार भुगतान बोझ को कम करने के लिए कोरिया क्रेडिट गारंटी फंड की PayOne गारंटी अपनाई, जिससे आवेदन और सीमा प्रबंधन एक ही जगह होगा।",
+        "body": "डोंगकुक स्टील ने ग्राहकों के लिए उधार लेनदेन का उपयोग आसान बनाने के उद्देश्य से कोरिया क्रेडिट गारंटी फंड की PayOne गारंटी शुरू की है। इस कदम से नकद कार्ड के बाद अब उधार भुगतान प्रणाली भी तैयार हो गई है, जिससे ग्राहकों के भुगतान विकल्प बढ़े हैं। PayOne गारंटी के तहत डोंगकुक स्टील की साइट पर गारंटी आवेदन से लेकर सीमा प्रबंधन तक पूरी प्रक्रिया एक ही जगह पूरी की जा सकती है और उसी दिन जारी करना भी संभव है। प्रति कंपनी गारंटी सीमा 1 अरब वोन है और गारंटी शुल्क में कटौती जैसे लाभ भी मिलते हैं। इस्पात 거래 고객 उधार भुगतान के उपयोग से अल्पकालिक नकदी प्रवाह सुधार सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Dongkuk Steel Permudah Transaksi Kredit Lewat Jaminan PayOne",
+        "excerpt": "Dongkuk Steel mengadopsi Jaminan PayOne dari Korea Credit Guarantee Fund untuk meringankan beban pembayaran kredit pelanggan serta mengelola pengajuan dan limit dalam satu layanan.",
+        "body": "Dongkuk Steel mengadopsi Jaminan PayOne dari Korea Credit Guarantee Fund untuk menurunkan hambatan bagi pelanggan dalam menggunakan transaksi kredit. Dengan langkah ini, perusahaan melengkapi sistem pembayaran kredit selain kartu tunai, sehingga pilihan pembayaran pelanggan menjadi lebih luas. Jaminan PayOne memungkinkan proses dari pengajuan jaminan hingga pengelolaan limit dilakukan secara terpadu di situs Dongkuk Steel, dengan penerbitan yang dapat dilakukan pada hari yang sama. Limit jaminan per perusahaan sebesar 1 miliar won, disertai manfaat seperti pengurangan biaya jaminan. Pelanggan perdagangan baja diharapkan dapat memperbaiki arus kas jangka pendek melalui penggunaan pembayaran kredit. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "6e2a4cc6d978",
+    "slug": "정부-지원-잡아라히트펌프-보일러-시장-키우는-삼성lg-893032",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T17:25:59.874Z",
+    "updatedAt": "2026-05-11T17:25:59.874Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12043192",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12043192",
+    "titleFingerprint": "74ef88dc1044a41b35fae051ca607cd1c124b2d6",
+    "dedupKeys": [
+      "6e2a4cc6d978644d1278d84ff237161d5674cae3",
+      "74ef88dc1044a41b35fae051ca607cd1c124b2d6",
+      "0582b04bd4dc23b73f2161c2f346bcb278107bf1"
+    ],
+    "imageUrl": "/images/articles/6e2a4cc6d978.jpg",
+    "i18n": {
+      "ko": {
+        "title": "히트펌프 보일러 시장 선점 나선 삼성·LG, 정부 난방 전기화 지원 주목",
+        "excerpt": "기후에너지환경부가 2026년 난방 전기화 사업 대상을 선정하는 가운데 삼성·LG가 고효율 히트펌프 보일러 솔루션으로 시장 공략에 나섰다.",
+        "body": "기후에너지환경부가 2026년을 난방 전기화의 원년으로 삼고 관련 사업 대상을 선정 중인 가운데 삼성전자와 LG전자가 히트펌프 보일러 시장 확대에 나서고 있다. 양사는 고효율 난방 솔루션을 앞세워 정부 지원 수요를 겨냥하고 있다. 난방 전기화는 기존 화석연료 중심 난방을 전기 기반 고효율 설비로 전환하는 흐름과 맞물려 주목받고 있다. 다만 전기 사용량 증가에 따른 전기요금 부담, 이른바 전기세 폭탄 우려가 변수로 꼽힌다. 이에 누진세 개선 여부도 시장 확산의 핵심 쟁점으로 부상했다. 정부 사업 선정과 요금 체계 논의가 맞물리며 삼성·LG의 히트펌프 보일러 경쟁은 더 치열해질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung and LG Target Heat Pump Boiler Growth as Korea Weighs Heating Electrification Aid",
+        "excerpt": "As Korea’s climate and energy ministry selects targets for its 2026 heating electrification program, Samsung and LG are moving to expand high-efficiency heat pump boiler solutions.",
+        "body": "South Korea’s Ministry of Climate, Energy and Environment is selecting targets for a heating electrification program as it marks 2026 as the first year of the policy push, while Samsung Electronics and LG Electronics are moving to expand the heat pump boiler market. The two companies are aiming at demand tied to government support with high-efficiency heating solutions. Heating electrification is drawing attention as part of a shift from fossil fuel-based heating to electric, high-efficiency systems. However, concerns over higher electricity use and potential bill shocks remain a key variable. Whether the progressive electricity tariff system is improved has also emerged as a central issue for wider adoption. As government project selection and rate discussions proceed together, competition between Samsung and LG in heat pump boilers is expected to intensify. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ヒートポンプボイラー市場を狙うサムスン・LG、韓国政府の暖房電化支援に注目",
+        "excerpt": "韓国の気候エネルギー環境部が2026年の暖房電化事業対象を選定する中、サムスンとLGは高効率ヒートポンプボイラーで市場攻略を進めている。",
+        "body": "韓国の気候エネルギー環境部が2026年を暖房電化の元年と位置づけ、関連事業の対象を選定している中、サムスン電子とLG電子がヒートポンプボイラー市場の拡大に乗り出している。両社は高効率の暖房ソリューションを前面に出し、政府支援に伴う需要を狙う。暖房電化は、化石燃料中心の暖房を電気ベースの高効率設備へ転換する流れと重なり注目されている。ただし、電力使用量の増加による料金負担、いわゆる電気料金ショックへの懸念が変数となる。累進料金制の改善も普及拡大の重要な争点に浮上した。政府事業の選定と料金体系の議論が並行する中、サムスンとLGのヒートポンプボイラー競争はさらに激しくなる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星、LG抢占热泵锅炉市场，韩国政府供暖电气化支持受关注",
+        "excerpt": "韩国气候能源环境部正在遴选2026年供暖电气化项目对象，三星和LG则以高效热泵锅炉解决方案加快开拓市场。",
+        "body": "韩国气候能源环境部将2026年定位为供暖电气化元年，并正在遴选相关项目对象。在此背景下，三星电子和LG电子正推动热泵锅炉市场扩大。两家公司以高效供暖解决方案为核心，瞄准政府支持带来的需求。供暖电气化与从以化石燃料为主的供暖方式转向电力驱动高效设备的趋势相呼应，因此受到关注。不过，电力使用量增加可能带来的电费负担，即所谓电费冲击忧虑，仍是关键变量。阶梯电价制度能否改善，也成为市场扩散的重要议题。随着政府项目遴选和电价体系讨论同步推进，三星与LG在热泵锅炉领域的竞争预计将更加激烈。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung y LG aceleran en calderas con bomba de calor ante apoyo a electrificación térmica",
+        "excerpt": "Mientras el ministerio climático y energético de Corea selecciona proyectos de electrificación de calefacción para 2026, Samsung y LG apuestan por soluciones eficientes de bomba de calor.",
+        "body": "El Ministerio de Clima, Energía y Medio Ambiente de Corea del Sur está seleccionando los objetivos de su programa de electrificación de la calefacción, al considerar 2026 como el año inicial de esta política, mientras Samsung Electronics y LG Electronics buscan ampliar el mercado de calderas con bomba de calor. Ambas compañías apuntan a la demanda asociada al apoyo gubernamental con soluciones de calefacción de alta eficiencia. La electrificación térmica gana atención al alinearse con el cambio desde sistemas basados en combustibles fósiles hacia equipos eléctricos eficientes. Sin embargo, el aumento del consumo eléctrico y el temor a facturas elevadas siguen siendo variables clave. La posible mejora del sistema tarifario progresivo también se ha convertido en un tema central para la expansión del mercado. Con la selección de proyectos y el debate tarifario en marcha, la competencia entre Samsung y LG podría intensificarse. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung e LG miram caldeiras com bomba de calor com apoio à eletrificação do aquecimento",
+        "excerpt": "Enquanto o ministério de clima e energia da Coreia seleciona projetos de eletrificação do aquecimento para 2026, Samsung e LG avançam com soluções eficientes de bomba de calor.",
+        "body": "O Ministério do Clima, Energia e Meio Ambiente da Coreia do Sul está selecionando os alvos de seu programa de eletrificação do aquecimento, ao definir 2026 como o primeiro ano dessa iniciativa, enquanto Samsung Electronics e LG Electronics buscam ampliar o mercado de caldeiras com bomba de calor. As duas empresas miram a demanda ligada ao apoio do governo com soluções de aquecimento de alta eficiência. A eletrificação do aquecimento chama atenção por acompanhar a transição de sistemas baseados em combustíveis fósseis para equipamentos elétricos eficientes. Ainda assim, o aumento do uso de eletricidade e o receio de contas elevadas seguem como variáveis importantes. A possível revisão do sistema de tarifas progressivas também virou ponto central para a expansão do mercado. Com a seleção dos projetos e o debate tarifário em paralelo, a disputa entre Samsung e LG deve ficar mais acirrada. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung und LG drängen in Wärmepumpenkessel-Markt, Koreas Heizungsförderung im Fokus",
+        "excerpt": "Während Koreas Klima- und Energieministerium Ziele für die Heizungs-Elektrifizierung 2026 auswählt, setzen Samsung und LG auf effiziente Wärmepumpenkessel-Lösungen.",
+        "body": "Das südkoreanische Ministerium für Klima, Energie und Umwelt wählt derzeit Ziele für ein Programm zur Elektrifizierung des Heizens aus und betrachtet 2026 als Startjahr dieser Initiative. Gleichzeitig wollen Samsung Electronics und LG Electronics den Markt für Wärmepumpenkessel ausbauen. Beide Unternehmen setzen auf hocheffiziente Heizlösungen und zielen auf Nachfrage im Zusammenhang mit staatlicher Unterstützung. Die Elektrifizierung des Heizens gewinnt an Bedeutung, weil sie mit dem Wandel von fossilen Heizsystemen zu elektrischen, effizienten Anlagen verbunden ist. Zugleich bleiben Sorgen über höheren Stromverbrauch und mögliche starke Stromrechnungen ein wichtiger Faktor. Auch die Frage, ob das progressive Stromtarifsystem verbessert wird, rückt als Schlüsselthema für eine breitere Verbreitung in den Fokus. Mit Projektauswahl und Tarifdebatte dürfte der Wettbewerb zwischen Samsung und LG zunehmen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung et LG visent les chaudières à pompe à chaleur avec l’aide à l’électrification",
+        "excerpt": "Alors que le ministère coréen du climat et de l’énergie sélectionne les projets d’électrification du chauffage pour 2026, Samsung et LG misent sur des solutions efficaces.",
+        "body": "Le ministère sud-coréen du Climat, de l’Énergie et de l’Environnement sélectionne les bénéficiaires d’un programme d’électrification du chauffage, en faisant de 2026 l’année de lancement de cette orientation, tandis que Samsung Electronics et LG Electronics cherchent à développer le marché des chaudières à pompe à chaleur. Les deux groupes ciblent la demande liée au soutien public avec des solutions de chauffage à haut rendement. L’électrification du chauffage attire l’attention car elle accompagne le passage de systèmes fondés sur les combustibles fossiles à des équipements électriques efficaces. Toutefois, la hausse possible de la consommation d’électricité et la crainte de factures élevées restent des variables importantes. L’amélioration éventuelle du système de tarification progressive devient aussi un enjeu central pour l’adoption. Avec la sélection des projets et le débat tarifaire, la concurrence entre Samsung et LG devrait s’intensifier. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ وإل جي تستهدفان سوق غلايات المضخات الحرارية مع دعم كهربة التدفئة في كوريا",
+        "excerpt": "بينما تختار وزارة المناخ والطاقة والبيئة في كوريا أهداف برنامج كهربة التدفئة لعام 2026، تتحرك سامسونغ وإل جي بحلول غلايات مضخات حرارية عالية الكفاءة.",
+        "body": "تعمل وزارة المناخ والطاقة والبيئة في كوريا الجنوبية على اختيار أهداف برنامج كهربة التدفئة، مع اعتبار عام 2026 نقطة انطلاق لهذا التوجه، في حين تسعى سامسونغ إلكترونيكس وإل جي إلكترونيكس إلى توسيع سوق غلايات المضخات الحرارية. وتستهدف الشركتان الطلب المرتبط بالدعم الحكومي عبر حلول تدفئة عالية الكفاءة. وتحظى كهربة التدفئة بالاهتمام لأنها ترتبط بالتحول من أنظمة تعتمد على الوقود الأحفوري إلى معدات كهربائية عالية الكفاءة. لكن زيادة استخدام الكهرباء وما قد ينتج عنها من أعباء في الفواتير تبقى عاملا مهما. كما برزت مسألة تحسين نظام التعرفة التصاعدية للكهرباء كقضية محورية لتوسيع السوق. ومع تزامن اختيار المشاريع ومناقشة نظام الأسعار، من المتوقع أن تشتد المنافسة بين سامسونغ وإل جي في غلايات المضخات الحرارية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "हीट पंप बॉयलर बाजार पर Samsung और LG की नजर, कोरिया की हीटिंग विद्युतीकरण सहायता चर्चा में",
+        "excerpt": "कोरिया का जलवायु, ऊर्जा और पर्यावरण मंत्रालय 2026 के हीटिंग विद्युतीकरण कार्यक्रम के लक्ष्य चुन रहा है, जबकि Samsung और LG उच्च दक्षता वाले हीट पंप बॉयलर समाधान बढ़ा रही हैं।",
+        "body": "दक्षिण कोरिया का जलवायु, ऊर्जा और पर्यावरण मंत्रालय 2026 को हीटिंग विद्युतीकरण की शुरुआत का वर्ष मानते हुए संबंधित कार्यक्रम के लक्ष्यों का चयन कर रहा है। इसी बीच Samsung Electronics और LG Electronics हीट पंप बॉयलर बाजार का विस्तार करने में जुटी हैं। दोनों कंपनियां सरकारी समर्थन से जुड़ी मांग को ध्यान में रखकर उच्च दक्षता वाले हीटिंग समाधान आगे बढ़ा रही हैं। हीटिंग विद्युतीकरण इसलिए ध्यान खींच रहा है क्योंकि यह जीवाश्म ईंधन आधारित हीटिंग से बिजली आधारित उच्च दक्षता उपकरणों की ओर बदलाव से जुड़ा है। हालांकि बिजली उपयोग बढ़ने से बिल का बोझ, यानी अधिक बिजली बिल की चिंता, एक अहम कारक बनी हुई है। प्रगतिशील बिजली शुल्क प्रणाली में सुधार होगा या नहीं, यह भी बाजार विस्तार का मुख्य मुद्दा बन गया है। सरकारी परियोजना चयन और शुल्क प्रणाली पर चर्चा के साथ Samsung और LG के बीच प्रतिस्पर्धा और तेज हो सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung dan LG Bidik Pasar Boiler Pompa Panas saat Dukungan Elektrifikasi Pemanas Disorot",
+        "excerpt": "Saat Kementerian Iklim, Energi, dan Lingkungan Korea memilih sasaran program elektrifikasi pemanas 2026, Samsung dan LG mendorong solusi boiler pompa panas berefisiensi tinggi.",
+        "body": "Kementerian Iklim, Energi, dan Lingkungan Korea Selatan sedang memilih sasaran program elektrifikasi pemanas dengan menetapkan 2026 sebagai tahun awal kebijakan tersebut, sementara Samsung Electronics dan LG Electronics bergerak memperluas pasar boiler pompa panas. Kedua perusahaan menargetkan permintaan yang terkait dengan dukungan pemerintah melalui solusi pemanas berefisiensi tinggi. Elektrifikasi pemanas menarik perhatian karena sejalan dengan peralihan dari pemanas berbasis bahan bakar fosil ke peralatan listrik yang lebih efisien. Namun, kekhawatiran atas kenaikan penggunaan listrik dan potensi lonjakan tagihan masih menjadi variabel penting. Perbaikan sistem tarif listrik progresif juga muncul sebagai isu utama bagi perluasan pasar. Seiring seleksi proyek pemerintah dan pembahasan tarif berjalan bersamaan, persaingan Samsung dan LG di boiler pompa panas diperkirakan makin ketat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "70b5c4688219",
+    "slug": "단독-영업익-15-달라는-카카오-노조-노사-협상-조기완료-앞둔-네이버-622464",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-11T17:24:38.832Z",
+    "updatedAt": "2026-05-11T17:24:38.832Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12043196",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12043196",
+    "titleFingerprint": "8b5f7d6c8d06a0a9557d63a87388958ed5f12db1",
+    "dedupKeys": [
+      "70b5c4688219573d28e1c52bbd520953e88a2509",
+      "8b5f7d6c8d06a0a9557d63a87388958ed5f12db1",
+      "bc055840a0e7f169a4d9164264b9d19a10255538"
+    ],
+    "imageUrl": "/images/articles/70b5c4688219.jpg",
+    "i18n": {
+      "ko": {
+        "title": "네이버 임금협상 5.3% 잠정 합의, ‘영업익 15%’ 요구 카카오와 대비",
+        "excerpt": "네이버가 노동조합과 임금 상승률 5.3%에 잠정 합의하고 조만간 조합원 찬반 투표를 진행할 예정인 가운데, 카카오 노조의 요구와 대비되고 있다.",
+        "body": "네이버가 노동조합인 전국화섬식품노조 네이버지회와 올해 임금협상에서 임금 상승률 5.3%에 잠정 합의했다. 조만간 조합원 찬반 투표가 실시될 예정이며, 합의가 확정되면 네이버는 노사 협상을 조기에 마무리하게 된다. 이번 합의는 카카오 노조가 ‘영업이익 15%’를 요구하며 협상 국면에 놓인 상황과 대비된다. 네이버는 조기 노사 합의를 통해 신사업 추진 속도를 높일 수 있는 기반을 마련하는 반면, 카카오는 협상 향방이 불확실한 상황으로 전해졌다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Naver Reaches Tentative 5.3% Wage Deal, Contrasting Kakao Union’s 15% Profit Demand",
+        "excerpt": "Naver has tentatively agreed with its union on a 5.3% wage increase and is set to hold a member vote soon, drawing contrast with Kakao’s union demand.",
+        "body": "Naver has reached a tentative agreement with its labor union, the Naver branch of the Korean Chemical and Food Workers’ Union, on a 5.3% wage increase for this year. A vote by union members is expected to take place soon, and if approved, the company will conclude wage talks early. The agreement stands in contrast to Kakao, where the union is demanding 15% of operating profit amid ongoing negotiations. Naver’s early labor agreement could support faster progress on new businesses, while Kakao’s bargaining outlook remains uncertain. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ネイバー賃上げ5.3％で暫定合意、営業益15％要求のカカオ労組と対照",
+        "excerpt": "ネイバーは労組と賃金上昇率5.3％で暫定合意し、近く組合員投票を行う予定で、カカオ労組の要求とは対照的な状況だ。",
+        "body": "ネイバーは労働組合である全国化学繊維食品産業労組ネイバー支会と、今年の賃金交渉で賃金上昇率5.3％に暫定合意した。近く組合員による賛否投票が実施される予定で、可決されればネイバーは労使交渉を早期に終えることになる。今回の合意は、カカオ労組が「営業利益の15％」を要求して交渉局面にある状況と対照的だ。ネイバーは早期の労使合意により新規事業の推進速度を高める基盤を整える一方、カカオは交渉の行方が不透明な状況と伝えられている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Naver薪资谈判暂定涨薪5.3%，与要求营业利润15%的Kakao形成对比",
+        "excerpt": "Naver与工会就5.3%的薪资涨幅达成暂定协议，并将很快举行会员赞反投票，和Kakao工会的诉求形成鲜明对比。",
+        "body": "Naver已与其工会全国化纤食品工会Naver支会，就今年工资谈判中的5.3%薪资涨幅达成暂定协议。公司预计不久后举行工会会员赞反投票，若协议获得通过，Naver将提前结束劳资谈判。此次协议与Kakao工会要求“营业利润15%”并处于谈判阶段的情况形成对比。Naver通过较早达成劳资协议，有望为推进新业务速度奠定基础；而Kakao的谈判走向则仍处于不确定状态。据mk.co.kr报道。"
+      },
+      "es": {
+        "title": "Naver pacta de forma provisional una subida salarial del 5,3%, frente a la demanda de Kakao",
+        "excerpt": "Naver acordó provisionalmente con su sindicato una subida salarial del 5,3% y pronto someterá el pacto a votación, en contraste con Kakao.",
+        "body": "Naver alcanzó un acuerdo provisional con su sindicato, la filial de Naver del Sindicato Nacional de Trabajadores Químicos, Textiles y Alimentarios, para una subida salarial del 5,3% este año. La votación de los afiliados se celebrará próximamente y, si se aprueba, la empresa cerrará pronto la negociación laboral. El acuerdo contrasta con Kakao, cuyo sindicato reclama el 15% del beneficio operativo en medio de las negociaciones. Naver podría ganar margen para acelerar nuevos negocios mediante un acuerdo laboral temprano, mientras el rumbo de las conversaciones en Kakao sigue incierto. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Naver fecha acordo salarial provisório de 5,3%, em contraste com exigência do sindicato da Kakao",
+        "excerpt": "A Naver chegou a um acordo provisório com o sindicato para reajuste salarial de 5,3% e fará votação dos membros em breve, contrastando com a Kakao.",
+        "body": "A Naver chegou a um acordo provisório com seu sindicato, a seção da Naver do Sindicato Nacional dos Trabalhadores Químicos, Têxteis e Alimentícios, para um reajuste salarial de 5,3% neste ano. A votação dos membros deve ocorrer em breve e, se aprovada, a empresa encerrará cedo as negociações trabalhistas. O acordo contrasta com a Kakao, cujo sindicato exige 15% do lucro operacional em meio às conversas. A Naver pode criar base para acelerar novos negócios com um acordo trabalhista antecipado, enquanto o rumo da negociação da Kakao permanece incerto. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Naver erzielt vorläufige 5,3%-Lohnvereinbarung, Kontrast zu Kakaos 15%-Forderung",
+        "excerpt": "Naver hat mit seiner Gewerkschaft vorläufig 5,3% Lohnerhöhung vereinbart und plant bald eine Mitgliederabstimmung, anders als Kakao.",
+        "body": "Naver hat mit seiner Gewerkschaft, der Naver-Sektion der Korean Chemical and Food Workers’ Union, eine vorläufige Vereinbarung über eine Lohnerhöhung von 5,3% für dieses Jahr erzielt. In Kürze soll eine Abstimmung der Gewerkschaftsmitglieder stattfinden; bei Zustimmung würden die Lohnverhandlungen früh abgeschlossen. Die Einigung steht im Gegensatz zu Kakao, wo die Gewerkschaft 15% des operativen Gewinns fordert und die Gespräche noch laufen. Naver könnte durch die frühe Einigung eine Grundlage schaffen, neue Geschäftsbereiche schneller voranzutreiben, während der Ausgang bei Kakao unklar bleibt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Naver s’accorde provisoirement sur 5,3% de hausse salariale, contraste avec Kakao",
+        "excerpt": "Naver a conclu avec son syndicat un accord provisoire de hausse salariale de 5,3% et organisera bientôt un vote, contrairement à Kakao.",
+        "body": "Naver a conclu un accord provisoire avec son syndicat, la branche Naver du Korean Chemical and Food Workers’ Union, sur une hausse salariale de 5,3% pour cette année. Un vote des adhérents doit avoir lieu prochainement et, en cas d’approbation, l’entreprise achèvera tôt les négociations sociales. Cet accord contraste avec Kakao, dont le syndicat réclame 15% du bénéfice opérationnel dans le cadre des discussions. Naver pourrait ainsi disposer d’une base pour accélérer ses nouveaux projets, tandis que l’issue des négociations chez Kakao reste incertaine. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "نافر تتوصل لاتفاق مبدئي على زيادة 5.3% للأجور مقابل مطالب نقابة كاكاو بـ15%",
+        "excerpt": "توصلت نافر إلى اتفاق مبدئي مع نقابتها على زيادة الأجور 5.3% وتعتزم إجراء تصويت للأعضاء قريباً، في تباين مع مطالب نقابة كاكاو.",
+        "body": "توصلت نافر إلى اتفاق مبدئي مع نقابتها، فرع نافر في النقابة الوطنية لعمال الصناعات الكيميائية والغذائية، بشأن زيادة الأجور بنسبة 5.3% هذا العام. ومن المقرر إجراء تصويت بين أعضاء النقابة قريباً، وإذا تمت الموافقة فستنهي الشركة مفاوضات العمل مبكراً. ويأتي هذا الاتفاق في تباين مع كاكاو، حيث تطالب النقابة بـ15% من الأرباح التشغيلية وسط مفاوضات مستمرة. وقد يمنح الاتفاق المبكر نافر أساساً لتسريع أعمالها الجديدة، بينما يبقى مسار مفاوضات كاكاو غير واضح. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Naver ने 5.3% वेतन वृद्धि पर अस्थायी सहमति बनाई, Kakao यूनियन की 15% मांग से अलग तस्वीर",
+        "excerpt": "Naver ने यूनियन के साथ 5.3% वेतन वृद्धि पर अस्थायी समझौता किया है और जल्द सदस्य मतदान होगा, जबकि Kakao यूनियन 15% परिचालन लाभ मांग रही है।",
+        "body": "Naver ने अपनी यूनियन, Korean Chemical and Food Workers’ Union की Naver शाखा, के साथ इस वर्ष 5.3% वेतन वृद्धि पर अस्थायी सहमति बनाई है। जल्द ही यूनियन सदस्यों के बीच पक्ष-विपक्ष मतदान कराया जाएगा और मंजूरी मिलने पर कंपनी वेतन वार्ता को समय से पहले पूरा कर लेगी। यह स्थिति Kakao से अलग है, जहां यूनियन ‘परिचालन लाभ का 15%’ मांगते हुए बातचीत में है। शुरुआती श्रम समझौते से Naver को नए कारोबारों की गति बढ़ाने का आधार मिल सकता है, जबकि Kakao की वार्ता की दिशा अनिश्चित बताई जा रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Naver Sepakati Sementara Kenaikan Gaji 5,3%, Berbeda dari Tuntutan Serikat Kakao",
+        "excerpt": "Naver mencapai kesepakatan sementara dengan serikat pekerja untuk kenaikan gaji 5,3% dan segera menggelar pemungutan suara anggota.",
+        "body": "Naver mencapai kesepakatan sementara dengan serikat pekerjanya, cabang Naver dari Korean Chemical and Food Workers’ Union, terkait kenaikan gaji 5,3% untuk tahun ini. Pemungutan suara anggota serikat akan digelar dalam waktu dekat, dan jika disetujui, Naver akan menyelesaikan negosiasi ketenagakerjaan lebih awal. Kesepakatan ini kontras dengan Kakao, yang serikat pekerjanya menuntut 15% dari laba operasional dalam proses negosiasi. Naver dapat memiliki dasar untuk mempercepat bisnis baru melalui kesepakatan awal, sementara arah negosiasi Kakao masih belum pasti. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "0914b0eec154",
     "slug": "굴-껍데기도-발전소-소재된다에코쉘-한국남부발전과-실증사업-254917",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Mobil Bekas Terus Kuasai Gang di Incheon Imbas Gangguan Ekspor",
         "excerpt": "Pada 8 Mei, di jalan kepiting Okryeon-dong, Distrik Yeonsu, Incheon, terlihat mobil bekas terus menempati gang tanpa izin, dengan gangguan ekspor akibat perang Timur Tengah disebut sebagai latar belakang.",
         "body": "Pada 8 Mei, di jalan kepiting Okryeon-dong, Distrik Yeonsu, Incheon, terlihat mobil bekas terus menempati gang tanpa izin. Menurut laporan, masalah ini muncul di tengah gangguan ekspor yang dikaitkan dengan dampak perang Timur Tengah. Di lokasi Incheon, keberadaan mobil bekas yang memenuhi ruang gang terus menjadi sorotan karena memengaruhi penggunaan jalan di sekitarnya. Ringkasan asli tidak menyebutkan langkah konkret atau jadwal penyelesaian ke depan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0d14a3584010",
-    "slug": "너도-성공하고-싶어-그럼-벤츠-대신한국인-특별대우-아우디-킬러車-최기성의-허브車-834384",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T22:13:21.236Z",
-    "updatedAt": "2026-05-10T22:13:21.236Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12041451",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12041451",
-    "titleFingerprint": "35430538ef4b3b6d5f984b91963a1d313f1b861f",
-    "dedupKeys": [
-      "0d14a3584010fe895466b80724eafffdab71556d",
-      "35430538ef4b3b6d5f984b91963a1d313f1b861f",
-      "c4b9ab0a1f6ec1b9e3e8494ca31a1645fa63ee44"
-    ],
-    "imageUrl": "/images/articles/0d14a3584010.jpg",
-    "i18n": {
-      "ko": {
-        "title": "아우디코리아 신형 A6, 한국 고객 신뢰 회복 내건 ‘성공 동반자’ 전략",
-        "excerpt": "아우디코리아가 한국 시장에서 신형 A6를 앞세워 고객 신뢰 회복과 ‘성공을 위한 동반자’ 이미지를 강화하겠다는 약속 이행에 나섰다.",
-        "body": "아우디코리아가 한국 시장에서 신형 A6를 앞세워 고객 신뢰 회복에 나섰다. 원문에 따르면 회사는 “한국인에게 진짜 더 잘하겠다”는 메시지와 함께 신형 A6를 ‘성공을 위한 동반자’로 내세웠다. 그동안 제품 이슈와 판매 중단 등으로 한국에서 고객 신뢰를 쌓는 데 어려움이 있었다는 점도 언급됐다. 이번 신형 A6 전략은 한국 소비자에게 더 적극적으로 대응하겠다는 약속을 실제 제품과 마케팅으로 연결하려는 움직임으로 풀이된다. 수입차 시장에서 신뢰와 브랜드 경험이 구매 판단의 핵심으로 작용하는 만큼, 아우디코리아의 행보가 향후 판매 회복과 브랜드 평가에 어떤 영향을 줄지 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Audi Korea’s New A6 Puts Customer Trust First in ‘Partner for Success’ Push",
-        "excerpt": "Audi Korea is using the new A6 in the Korean market to rebuild customer trust and reinforce its image as a “partner for success.”",
-        "body": "Audi Korea is moving to restore customer trust in the Korean market with the new A6. According to the original report, the company presented the model with the message that it would “really do better for Koreans” and positioned the new A6 as a “partner for success.” The report also noted that Audi Korea had faced difficulties building trust in Korea because of product issues and sales suspensions. The new A6 strategy appears to connect the company’s pledge to respond more actively to Korean consumers with its product and marketing approach. As trust and brand experience remain key factors in imported-car purchases, attention is turning to how Audi Korea’s move may affect future sales recovery and brand perception. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "アウディコリア新型A6、韓国顧客の信頼回復掲げる成功パートナー戦略",
-        "excerpt": "アウディコリアは韓国市場で新型A6を前面に出し、顧客信頼の回復と「成功のためのパートナー」というイメージ強化に動いている。",
-        "body": "アウディコリアが韓国市場で新型A6を前面に出し、顧客信頼の回復に乗り出した。原文によると、同社は「韓国人に本当にもっとよくする」というメッセージとともに、新型A6を「成功のためのパートナー」と位置づけた。これまで製品問題や販売中断などにより、韓国で顧客信頼を築くことに難しさがあった点も言及された。今回の新型A6戦略は、韓国の消費者により積極的に対応するという約束を、実際の商品とマーケティングにつなげる動きとみられる。輸入車市場では信頼とブランド体験が購入判断の重要要素となるだけに、アウディコリアの動きが今後の販売回復とブランド評価にどう影響するか注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "奥迪韩国推新A6，以重建客户信任打造“成功伙伴”定位",
-        "excerpt": "奥迪韩国在韩国市场以新款A6为核心，履行改善服务承诺，强化客户信任与“成功伙伴”的品牌形象。",
-        "body": "奥迪韩国正以新款A6为核心，在韩国市场推进客户信任重建。根据原文，该公司传递了“会真正对韩国人做得更好”的信息，并将新款A6定位为“成功的伙伴”。报道还提到，过去由于产品问题、销售中断等因素，奥迪韩国在韩国建立客户信任面临困难。此次新款A6战略，可被视为将更积极回应韩国消费者的承诺，与实际产品和营销行动相连接的举措。在进口车市场，信任和品牌体验是影响购买判断的关键因素，因此奥迪韩国此举将如何影响今后的销量恢复和品牌评价，受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Audi Corea impulsa el nuevo A6 para recuperar confianza y ser socio del éxito",
-        "excerpt": "Audi Corea apuesta por el nuevo A6 en el mercado surcoreano para recuperar la confianza del cliente y reforzar su imagen como “socio para el éxito”.",
-        "body": "Audi Corea está intentando recuperar la confianza de los clientes en el mercado surcoreano con el nuevo A6. Según el texto original, la compañía presentó el modelo con el mensaje de que “realmente lo hará mejor para los coreanos” y posicionó el nuevo A6 como un “socio para el éxito”. También se mencionó que, por problemas de producto y suspensiones de ventas, la marca había tenido dificultades para construir confianza en Corea. La estrategia del nuevo A6 parece vincular la promesa de responder de forma más activa a los consumidores coreanos con el producto y el marketing. En un mercado de importados donde la confianza y la experiencia de marca pesan en la compra, se observa cómo este movimiento afectará ventas y percepción. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Audi Coreia aposta no novo A6 para recuperar confiança e ser parceiro do sucesso",
-        "excerpt": "A Audi Coreia usa o novo A6 no mercado sul-coreano para recuperar a confiança dos clientes e reforçar a imagem de “parceira para o sucesso”.",
-        "body": "A Audi Coreia está avançando para recuperar a confiança dos clientes no mercado sul-coreano com o novo A6. Segundo o texto original, a empresa apresentou o modelo com a mensagem de que “realmente fará melhor pelos coreanos” e posicionou o novo A6 como um “parceiro para o sucesso”. Também foi mencionado que problemas de produto e interrupções nas vendas dificultaram a construção de confiança na Coreia. A estratégia do novo A6 parece conectar a promessa de responder de forma mais ativa aos consumidores coreanos com produto e marketing. Como confiança e experiência de marca são fatores centrais na compra de carros importados, há atenção sobre o impacto dessa iniciativa nas vendas e na avaliação da marca. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Audi Korea setzt mit neuem A6 auf Vertrauen und Partner-für-Erfolg-Strategie",
-        "excerpt": "Audi Korea will mit dem neuen A6 im koreanischen Markt Vertrauen zurückgewinnen und das Bild eines „Partners für Erfolg“ stärken.",
-        "body": "Audi Korea will im koreanischen Markt mit dem neuen A6 das Vertrauen der Kunden zurückgewinnen. Dem Originalbericht zufolge verband das Unternehmen das Modell mit der Botschaft, man werde „für Koreaner wirklich besser sein“, und positionierte den neuen A6 als „Partner für Erfolg“. Zugleich wurde erwähnt, dass Produktprobleme und Verkaufsstopps es erschwert hatten, in Korea Kundenvertrauen aufzubauen. Die Strategie rund um den neuen A6 zeigt den Versuch, das Versprechen einer aktiveren Reaktion auf koreanische Verbraucher mit Produkt und Marketing zu verbinden. Da Vertrauen und Markenerlebnis im Importautomarkt wichtige Kaufkriterien sind, richtet sich der Blick darauf, wie dieser Schritt künftige Verkäufe und die Markenbewertung beeinflusst. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Audi Corée mise sur le nouvel A6 pour restaurer la confiance des clients coréens",
-        "excerpt": "Audi Corée met en avant le nouvel A6 pour regagner la confiance en Corée et renforcer son image de « partenaire de la réussite ».",
-        "body": "Audi Corée cherche à restaurer la confiance des clients sur le marché coréen avec le nouvel A6. Selon le texte original, l’entreprise a accompagné ce modèle du message selon lequel elle ferait « vraiment mieux pour les Coréens » et a présenté le nouvel A6 comme un « partenaire de la réussite ». Le reportage rappelle aussi que des problèmes de produit et des interruptions de ventes avaient rendu difficile la construction de la confiance en Corée. Cette stratégie autour du nouvel A6 semble relier la promesse d’une réponse plus active aux consommateurs coréens à l’offre produit et au marketing. Dans un marché des voitures importées où la confiance et l’expérience de marque comptent fortement, l’effet sur les ventes et l’image de marque sera suivi. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أودي كوريا تراهن على A6 الجديدة لاستعادة الثقة كشريك للنجاح",
-        "excerpt": "تدفع أودي كوريا بطراز A6 الجديد في السوق الكورية لاستعادة ثقة العملاء وتعزيز صورتها بوصفها “شريكا للنجاح”.",
-        "body": "تتحرك أودي كوريا لاستعادة ثقة العملاء في السوق الكورية عبر طراز A6 الجديد. ووفقا للنص الأصلي، قدمت الشركة السيارة برسالة مفادها أنها “ستبذل جهدا حقيقيا أكبر للكوريين”، ووصفت A6 الجديدة بأنها “شريك للنجاح”. كما أشار التقرير إلى أن مشكلات في المنتجات وتوقفات في البيع جعلت بناء الثقة مع العملاء في كوريا أمرا صعبا. وتبدو استراتيجية A6 الجديدة محاولة لربط وعد الشركة بالاستجابة بفاعلية أكبر للمستهلكين الكوريين بالمنتج والتسويق. وبما أن الثقة وتجربة العلامة التجارية عاملان مهمان في قرارات شراء السيارات المستوردة، يتركز الاهتمام على أثر هذه الخطوة في تعافي المبيعات وتقييم العلامة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Audi Korea नई A6 से ग्राहक भरोसा लौटाने और सफलता का साथी बनने की कोशिश में",
-        "excerpt": "Audi Korea कोरियाई बाजार में नई A6 के जरिए ग्राहक भरोसा फिर से मजबूत करने और “सफलता के साथी” की छवि आगे बढ़ाने पर काम कर रही है।",
-        "body": "Audi Korea कोरियाई बाजार में नई A6 के जरिए ग्राहक भरोसा बहाल करने की कोशिश कर रही है। मूल रिपोर्ट के अनुसार, कंपनी ने यह संदेश दिया कि वह “कोरियाई लोगों के लिए सच में बेहतर करेगी” और नई A6 को “सफलता का साथी” बताया। रिपोर्ट में यह भी कहा गया कि उत्पाद संबंधी मुद्दों और बिक्री रुकने जैसी स्थितियों के कारण कोरिया में ग्राहक भरोसा बनाना कठिन रहा। नई A6 की रणनीति को कोरियाई ग्राहकों के प्रति अधिक सक्रिय प्रतिक्रिया देने के वादे को उत्पाद और मार्केटिंग से जोड़ने की कोशिश के रूप में देखा जा सकता है। आयातित कार बाजार में भरोसा और ब्रांड अनुभव खरीद फैसले के अहम आधार हैं, इसलिए Audi Korea के इस कदम का बिक्री सुधार और ब्रांड मूल्यांकन पर असर ध्यान में रहेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Audi Korea Andalkan A6 Baru untuk Pulihkan Kepercayaan Pelanggan Korea",
-        "excerpt": "Audi Korea memakai A6 baru di pasar Korea untuk memulihkan kepercayaan pelanggan dan memperkuat citra sebagai “mitra untuk sukses”.",
-        "body": "Audi Korea bergerak memulihkan kepercayaan pelanggan di pasar Korea lewat A6 baru. Menurut teks asli, perusahaan menyampaikan pesan bahwa mereka “benar-benar akan berbuat lebih baik untuk orang Korea” dan menempatkan A6 baru sebagai “mitra untuk sukses”. Laporan itu juga menyebut bahwa isu produk dan penghentian penjualan sebelumnya membuat Audi Korea kesulitan membangun kepercayaan pelanggan di Korea. Strategi A6 baru ini terlihat sebagai upaya menghubungkan janji untuk merespons konsumen Korea secara lebih aktif dengan produk dan pemasaran. Karena kepercayaan dan pengalaman merek menjadi faktor penting dalam pembelian mobil impor, langkah Audi Korea ini akan diperhatikan terkait dampaknya pada pemulihan penjualan dan penilaian merek. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b31f3cf2d3e7",
-    "slug": "샷-오늘-아파트-야시장-제발-알려주세요-195888",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T22:12:23.283Z",
-    "updatedAt": "2026-05-10T22:12:23.283Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508118700011",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508118700011",
-    "titleFingerprint": "4be28ac162e8dc4ff4e48722540553df98408dad",
-    "dedupKeys": [
-      "b31f3cf2d3e7bff9b234b70b8df45759b9911b58",
-      "4be28ac162e8dc4ff4e48722540553df98408dad",
-      "359d5c361c8317b4d5ad35589ecd74e56bae2bc2"
-    ],
-    "imageUrl": "/images/articles/b31f3cf2d3e7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "아파트 야시장 문의에 관심 집중, 두부김치·곱창·닭발 메뉴 눈길",
-        "excerpt": "연합뉴스는 서울발 기사에서 아파트 야시장 정보를 찾는 목소리와 함께 포장마차 현수막에 적힌 두부김치, 묵무침, 곱창, 닭발 등 안주 메뉴를 전했다.",
-        "body": "연합뉴스 강민지 인턴기자는 서울발 기사에서 “오늘 아파트 야시장 제발 알려주세요”라는 제목으로 아파트 야시장 정보를 찾는 분위기를 전했다. 원문 요약에 따르면 포장마차 현수막에는 두부김치와 묵무침, 곱창, 닭발 등 구미를 당기는 안주 메뉴가 빼곡히 적혀 있었다. 공개된 요약 범위에서는 야시장의 구체적 장소, 운영 시간, 주최 측, 방문객 수 등 추가 수치는 제시되지 않았다. 기사 내용은 아파트 단지 안팎에서 열리는 야시장에 대한 생활 밀착형 관심과 먹거리 메뉴가 주목받는 장면을 보여준다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Apartment Night Market Queries Draw Attention as Food Stall Menus Stand Out",
-        "excerpt": "Yonhap reported from Seoul on public interest in finding apartment night market information, highlighting stall banners listing tofu kimchi, acorn jelly salad, gopchang and chicken feet.",
-        "body": "Yonhap News intern reporter Kang Min-ji reported from Seoul under the headline, “Please tell me today’s apartment night market,” describing interest in information about apartment night markets. According to the original summary, a food stall banner was packed with appetizing side-dish menus including tofu kimchi, seasoned acorn jelly, gopchang and chicken feet. Within the disclosed summary, no specific venue, operating hours, organizer or visitor figures were provided. The article shows a scene in which everyday interest in night markets around apartment complexes and their food offerings drew attention. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "マンション夜市の情報求める声、豆腐キムチやホルモンの屋台メニューに注目",
-        "excerpt": "聯合ニュースはソウル発の記事で、マンション夜市の情報を求める声とともに、豆腐キムチ、ムク和え、ホルモン、鶏足などの屋台メニューを伝えた。",
-        "body": "聯合ニュースのカン・ミンジインターン記者はソウル発の記事で、「きょうのマンション夜市をどうか教えてください」という見出しの下、マンション夜市の情報を探す雰囲気を伝えた。原文の要約によると、屋台の横断幕には豆腐キムチ、ムク和え、ホルモン、鶏足など、食欲をそそるつまみメニューがぎっしり並んでいた。公開された要約の範囲では、具体的な場所、運営時間、主催者、来場者数などの追加情報は示されていない。記事は、マンション団地周辺の夜市と食べ物への生活密着型の関心を示している。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "公寓夜市信息受关注，豆腐泡菜、肥肠和鸡爪摊位菜单吸睛",
-        "excerpt": "韩联社首尔报道提到，人们寻找公寓夜市信息的声音受到关注，摊位横幅上列有豆腐泡菜、凉拌橡子冻、肥肠、鸡爪等下酒菜。",
-        "body": "韩联社实习记者姜敏智在首尔发稿中以“今天的公寓夜市请一定告诉我”为题，报道了人们寻找公寓夜市信息的氛围。根据原文摘要，路边摊横幅上密密麻麻写着豆腐泡菜、凉拌橡子冻、肥肠、鸡爪等令人有食欲的下酒菜菜单。已公开的摘要范围内，没有提供夜市的具体地点、营业时间、主办方或访客人数等进一步数据。该报道呈现了公寓小区内外夜市及其小吃菜单受到生活化关注的场景。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Consultas por mercados nocturnos en apartamentos destacan menús de puestos",
-        "excerpt": "Yonhap informó desde Seúl sobre el interés por ubicar mercados nocturnos en apartamentos y destacó carteles de puestos con tofu kimchi, ensalada de muk, gopchang y patas de pollo.",
-        "body": "La reportera en prácticas Kang Min-ji, de Yonhap, informó desde Seúl bajo el título “Por favor, díganme cuál es el mercado nocturno de apartamentos de hoy”, describiendo el interés por encontrar información sobre estos mercados. Según el resumen original, el cartel de un puesto estaba lleno de menús apetitosos para acompañar bebidas, como tofu kimchi, ensalada de muk, gopchang y patas de pollo. En el resumen divulgado no se indicaron lugar concreto, horario, organizador ni cifras de visitantes. La nota muestra una escena de atención cotidiana hacia los mercados nocturnos en torno a complejos de apartamentos y sus comidas. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Busca por mercados noturnos em apartamentos destaca cardápios de barracas",
-        "excerpt": "A Yonhap relatou de Seul o interesse por informações sobre mercados noturnos em apartamentos, citando faixas de barracas com tofu kimchi, muk temperado, gopchang e pés de frango.",
-        "body": "A repórter estagiária Kang Min-ji, da Yonhap, informou de Seul sob o título “Por favor, me digam qual é o mercado noturno de apartamentos de hoje”, descrevendo a busca por informações sobre esse tipo de feira. Segundo o resumo original, a faixa de uma barraca estava repleta de petiscos apetitosos, incluindo tofu kimchi, muk temperado, gopchang e pés de frango. No trecho divulgado, não foram apresentados local específico, horário de funcionamento, organizador ou números de visitantes. A reportagem mostra o interesse cotidiano por mercados noturnos em áreas de apartamentos e por seus cardápios. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Anfragen zu Apartment-Nachtmärkten rücken Imbissmenüs in den Fokus",
-        "excerpt": "Yonhap berichtete aus Seoul über Interesse an Informationen zu Apartment-Nachtmärkten und hob Standbanner mit Tofu-Kimchi, Muk-Salat, Gopchang und Hühnerfüßen hervor.",
-        "body": "Yonhap-Praktikantin Kang Min-ji berichtete aus Seoul unter der Überschrift „Bitte sagt mir den heutigen Apartment-Nachtmarkt“ über das Interesse an Informationen zu solchen Nachtmärkten. Laut der Originalzusammenfassung war ein Imbissbanner dicht mit appetitanregenden Menüs gefüllt, darunter Tofu-Kimchi, gewürzter Muk-Salat, Gopchang und Hühnerfüße. Im veröffentlichten Zusammenfassungstext wurden kein konkreter Ort, keine Öffnungszeiten, kein Veranstalter und keine Besucherzahlen genannt. Der Artikel zeigt, wie alltagsnahe Aufmerksamkeit auf Nachtmärkte rund um Apartmentanlagen und deren Essensangebote fällt. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Les marchés nocturnes d’appartements recherchés, les menus de stands attirent l’œil",
-        "excerpt": "Yonhap a rapporté depuis Séoul l’intérêt pour les informations sur les marchés nocturnes d’appartements, avec des stands listant tofu kimchi, salade de muk, gopchang et pattes de poulet.",
-        "body": "La journaliste stagiaire Kang Min-ji de Yonhap a publié depuis Séoul un article titré « S’il vous plaît, dites-moi quel est le marché nocturne d’appartements aujourd’hui », décrivant l’intérêt pour ces informations. Selon le résumé original, la banderole d’un stand était remplie de menus appétissants pour accompagner les boissons, dont tofu kimchi, salade de muk, gopchang et pattes de poulet. Dans le résumé disponible, aucun lieu précis, horaire, organisateur ni chiffre de fréquentation n’est indiqué. L’article montre une scène où les marchés nocturnes autour des complexes résidentiels et leurs plats suscitent une attention quotidienne. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "استفسارات عن سوق ليلي في مجمعات الشقق تبرز قوائم عربات الطعام",
-        "excerpt": "نقلت يونهاب من سيول اهتماما بمعلومات الأسواق الليلية في مجمعات الشقق، مع لافتات عربات تعرض توفو كيمتشي وسلطة موك وأمعاء مشوية وأقدام دجاج.",
-        "body": "نشرت المتدربة الصحفية كانغ مين جي في يونهاب تقريرا من سيول بعنوان “أرجوكم أخبروني عن سوق الشقق الليلي اليوم”، ووصفت اهتماما بالحصول على معلومات عن هذه الأسواق. ووفق الملخص الأصلي، امتلأت لافتة عربة طعام بقوائم مقبلات شهية، منها توفو كيمتشي، وسلطة موك، وغوبتشانغ، وأقدام الدجاج. ولم يتضمن الملخص المنشور تفاصيل إضافية عن الموقع المحدد أو ساعات التشغيل أو الجهة المنظمة أو أعداد الزوار. يعرض التقرير مشهدا لاهتمام يومي بالأسواق الليلية داخل مجمعات الشقق وحولها وبما تقدمه من مأكولات. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "अपार्टमेंट नाइट मार्केट की जानकारी पर ध्यान, स्टॉल मेनू बने आकर्षण",
-        "excerpt": "योनहाप ने सियोल से बताया कि लोग अपार्टमेंट नाइट मार्केट की जानकारी खोज रहे हैं, जबकि स्टॉल बैनर पर टोफू किमची, मुक सलाद, गोपचांग और चिकन फीट जैसे मेनू दिखे।",
-        "body": "योनहाप की इंटर्न रिपोर्टर कांग मिन-जी ने सियोल से “कृपया आज का अपार्टमेंट नाइट मार्केट बताइए” शीर्षक के तहत अपार्टमेंट नाइट मार्केट की जानकारी खोजने के माहौल को बताया। मूल सारांश के अनुसार, एक फूड स्टॉल के बैनर पर टोफू किमची, मुक सलाद, गोपचांग और चिकन फीट जैसे स्वाद बढ़ाने वाले स्नैक मेनू भरे हुए थे। उपलब्ध सारांश में बाजार का सटीक स्थान, संचालन समय, आयोजक या आगंतुकों की संख्या जैसी अतिरिक्त जानकारी नहीं दी गई। रिपोर्ट अपार्टमेंट परिसरों के आसपास नाइट मार्केट और खाद्य मेनू में रोजमर्रा की रुचि दिखाती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Pencarian Pasar Malam Apartemen Disorot, Menu Tenda Makan Menarik Perhatian",
-        "excerpt": "Yonhap melaporkan dari Seoul soal minat mencari informasi pasar malam apartemen, dengan spanduk tenda makan berisi menu tahu kimchi, salad muk, gopchang, dan ceker ayam.",
-        "body": "Reporter magang Yonhap Kang Min-ji melaporkan dari Seoul dengan judul “Tolong beri tahu pasar malam apartemen hari ini,” menggambarkan suasana pencarian informasi tentang pasar malam apartemen. Menurut ringkasan asli, spanduk tenda makan dipenuhi menu lauk pendamping yang menggugah selera, termasuk tahu kimchi, salad muk, gopchang, dan ceker ayam. Dalam ringkasan yang tersedia, tidak disebutkan lokasi tertentu, jam operasional, penyelenggara, atau jumlah pengunjung. Artikel ini menunjukkan perhatian sehari-hari terhadap pasar malam di dalam dan sekitar kompleks apartemen serta menu makanannya. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ffe365378e1e",
-    "slug": "李대통령-세입자있는-1주택자-매도기회갭투자허용-주장-억까-116990",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-10T22:11:14.415Z",
-    "updatedAt": "2026-05-10T22:11:14.415Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511007600001",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511007600001",
-    "titleFingerprint": "c71f4b6078b4539184b8f9dc1ee7545e9734abb1",
-    "dedupKeys": [
-      "ffe365378e1ef953b01bc9b63d5e4954be77169e",
-      "c71f4b6078b4539184b8f9dc1ee7545e9734abb1",
-      "86739384fdaaa6687d41b6035bcd633bce789b4d"
-    ],
-    "imageUrl": "/images/articles/ffe365378e1e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이재명 대통령, 토지거래허가구역 1주택 매도 기회 논란에 반박",
-        "excerpt": "이재명 대통령은 11일 토지거래허가구역 내 세입자 있는 비거주 1주택 매수 허용 논란에 대해 갭투자 허용 주장은 사실과 다르다고 밝혔다.",
-        "body": "이재명 대통령은 11일 정부가 토지거래허가구역 안에서 세입자가 있는 비거주 1주택자의 주택 매수를 허용하는 방안을 두고 제기된 논란에 반박했다. 이 대통령은 해당 조치가 세입자를 둔 1주택자에게 매도 기회를 주기 위한 취지라고 설명했다. 토지거래허가구역은 주택 거래에 허가 절차가 적용되는 지역으로, 이번 언급은 세를 낀 주택 거래와 갭투자 허용 여부를 둘러싼 해석이 쟁점이 된 가운데 나왔다. 이 대통령은 이를 갭투자 허용으로 보는 주장은 부당한 비판이라는 취지로 말했다. 시장에서는 정부 설명과 실제 적용 기준에 대한 확인이 이어질 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "President Lee Rejects Gap-Investment Claims Over Home Sale Rule",
-        "excerpt": "President Lee Jae Myung said on the 11th that criticism of allowing purchases of tenant-occupied single homes in land permit zones as gap investment is inaccurate.",
-        "body": "President Lee Jae Myung on the 11th rejected controversy over the government’s plan to allow purchases of homes owned by non-resident single-home owners with tenants inside land transaction permit zones. Lee said the measure is intended to give single-home owners with tenants an opportunity to sell. Land transaction permit zones are areas where housing deals require approval, and his remarks came as interpretations differed over whether tenant-occupied home transactions amount to permission for gap investment. Lee said characterizing the measure as allowing gap investment is unfair criticism. The market is expected to watch for the government’s explanation and the exact standards for application. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "李大統領、土地取引許可区域の1住宅売却機会論争に反論",
-        "excerpt": "李在明大統領は11日、土地取引許可区域内の賃借人付き非居住1住宅購入をギャップ投資容認と見る主張は事実と異なると述べた。",
-        "body": "李在明大統領は11日、政府が土地取引許可区域内で賃借人がいる非居住1住宅所有者の住宅購入を認める案をめぐる論争に反論した。李大統領は、この措置は賃借人を抱える1住宅所有者に売却機会を与える趣旨だと説明した。土地取引許可区域は住宅取引に許可手続きが適用される地域で、今回の発言は賃貸中の住宅取引とギャップ投資容認の有無をめぐる解釈が争点となる中で出た。李大統領は、これをギャップ投資容認と見る主張は不当な批判だとの趣旨を示した。市場では政府説明と実際の適用基準の確認が続く見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "李在明回应土地交易许可区一套房出售机会争议",
-        "excerpt": "李在明总统11日表示，将土地交易许可区内带租约非自住一套房购买解读为允许差价投资的说法并不符合事实。",
-        "body": "李在明总统11日就政府拟允许在土地交易许可区内购买带有租户的非自住一套房相关争议作出回应。李总统说明，该措施的宗旨是为有租户的一套房业主提供出售机会。土地交易许可区是住房交易适用许可程序的区域，此次表态是在带租约住宅交易是否等同于允许差价投资的解读成为焦点之际作出的。李总统表示，将其视为允许差价投资的主张属于不当批评。市场预计将继续关注政府说明以及实际适用标准。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Lee rechaza críticas sobre compraventa de una vivienda con inquilino",
-        "excerpt": "El presidente Lee Jae Myung dijo el día 11 que es incorrecto presentar la compra de viviendas con inquilino en zonas con permiso de transacción como inversión gap.",
-        "body": "El presidente Lee Jae Myung rechazó el día 11 la controversia sobre el plan del Gobierno de permitir la compra de viviendas de propietarios no residentes con una sola casa y con inquilinos dentro de zonas sujetas a permiso de transacción de tierras. Lee explicó que la medida busca dar una oportunidad de venta a propietarios de una sola vivienda que tienen inquilinos. Estas zonas exigen autorización para las operaciones inmobiliarias, y sus comentarios llegaron mientras se debatía si las transacciones de casas con alquiler implican permitir la inversión gap. Lee afirmó que describir la medida como una autorización de ese tipo de inversión es una crítica injusta. El mercado seguirá atento a la explicación oficial y a los criterios de aplicación. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Lee rebate críticas sobre venda de imóvel único com inquilino",
-        "excerpt": "O presidente Lee Jae Myung disse no dia 11 que chamar a compra de casas com inquilino em zonas de permissão de transação de liberação de gap investment não condiz com os fatos.",
-        "body": "O presidente Lee Jae Myung rebateu no dia 11 a controvérsia sobre o plano do governo de permitir a compra, em zonas sujeitas a autorização de transações de terras, de imóveis pertencentes a proprietários não residentes que possuem apenas uma casa e têm inquilinos. Lee explicou que a medida tem o objetivo de dar a esses proprietários uma oportunidade de venda. Nessas zonas, as transações imobiliárias passam por procedimento de autorização, e a declaração veio em meio ao debate sobre se negócios com imóveis alugados significam permitir gap investment. Lee afirmou que interpretar a medida dessa forma é uma crítica injusta. O mercado deve acompanhar a explicação do governo e os critérios efetivos de aplicação. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Lee weist Kritik an Verkaufschance für vermietete Einzelwohnung zurück",
-        "excerpt": "Präsident Lee Jae Myung erklärte am 11., der Vorwurf, Käufe vermieteter Einzelwohnungen in Genehmigungszonen erlaubten Gap-Investitionen, sei unzutreffend.",
-        "body": "Präsident Lee Jae Myung wies am 11. die Kontroverse um den Regierungsplan zurück, in Boden-Transaktionsgenehmigungszonen den Kauf von Wohnungen nicht dort lebender Eigentümer mit nur einer Immobilie und Mietern zuzulassen. Lee erklärte, die Maßnahme solle solchen Eigentümern eine Verkaufsmöglichkeit geben. In diesen Zonen unterliegen Immobilientransaktionen einem Genehmigungsverfahren. Seine Äußerung erfolgte, als die Frage strittig war, ob Geschäfte mit vermieteten Wohnungen als Erlaubnis für Gap-Investitionen zu werten seien. Lee sagte sinngemäß, diese Darstellung sei eine ungerechtfertigte Kritik. Der Markt dürfte nun auf die Erläuterungen der Regierung und die konkreten Anwendungskriterien achten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Lee conteste les critiques sur la vente de logements loués en zone régulée",
-        "excerpt": "Le président Lee Jae Myung a déclaré le 11 qu’assimiler l’achat de logements loués en zones soumises à autorisation à une permission d’investissement gap est inexact.",
-        "body": "Le président Lee Jae Myung a rejeté le 11 la controverse autour du projet du gouvernement d’autoriser, dans les zones soumises à permis de transaction foncière, l’achat de logements appartenant à des propriétaires non résidents ne possédant qu’un bien et ayant des locataires. Lee a expliqué que la mesure vise à offrir une possibilité de vente à ces propriétaires. Dans ces zones, les transactions immobilières nécessitent une autorisation, et ses propos interviennent alors que l’interprétation des ventes de logements loués comme une permission d’investissement gap fait débat. Lee a estimé qu’une telle lecture relevait d’une critique injuste. Le marché devrait suivre les explications du gouvernement et les critères d’application concrets. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "لي يرفض انتقادات بيع منزل وحيد مؤجر داخل مناطق تصاريح الأراضي",
-        "excerpt": "قال الرئيس لي جاي ميونغ في 11 إن اعتبار شراء منازل وحيدة مؤجرة في مناطق تصاريح معاملات الأراضي سماحا باستثمار الفجوة لا يعكس الوقائع.",
-        "body": "رفض الرئيس لي جاي ميونغ في 11 الجدل بشأن خطة الحكومة للسماح بشراء منازل يملكها أصحاب غير مقيمين لديهم منزل واحد فقط وفيها مستأجرون داخل مناطق تصاريح معاملات الأراضي. وأوضح لي أن الإجراء يهدف إلى منح مالكي المنزل الواحد الذين لديهم مستأجرون فرصة للبيع. وتخضع الصفقات السكنية في هذه المناطق لإجراءات تصريح، وجاء التصريح وسط خلاف حول ما إذا كانت معاملات المنازل المؤجرة تعني السماح باستثمار الفجوة. وقال لي إن تصوير الإجراء على أنه سماح بهذا النوع من الاستثمار يعد نقدا غير منصف. ومن المتوقع أن تتابع السوق توضيحات الحكومة ومعايير التطبيق الفعلية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "ली ने किरायेदार वाले एकमात्र घर की बिक्री पर गैप निवेश आरोप खारिज किए",
-        "excerpt": "राष्ट्रपति ली जे म्युंग ने 11 तारीख को कहा कि भूमि लेनदेन अनुमति क्षेत्रों में किरायेदार वाले एकमात्र घर की खरीद को गैप निवेश की अनुमति कहना तथ्यात्मक नहीं है।",
-        "body": "राष्ट्रपति ली जे म्युंग ने 11 तारीख को सरकार की उस योजना पर उठे विवाद का जवाब दिया जिसके तहत भूमि लेनदेन अनुमति क्षेत्रों में किरायेदार वाले, गैर-निवासी एकमात्र गृहस्वामी के मकान की खरीद की अनुमति दी जाएगी। ली ने कहा कि इस कदम का उद्देश्य ऐसे एकमात्र गृहस्वामियों को बिक्री का अवसर देना है जिनके घर में किरायेदार हैं। इन क्षेत्रों में आवासीय लेनदेन के लिए अनुमति प्रक्रिया लागू होती है, और यह टिप्पणी उस समय आई जब किरायेदार सहित घरों के सौदे को गैप निवेश की अनुमति मानने की व्याख्या विवाद का विषय बनी। ली ने कहा कि इसे गैप निवेश की अनुमति बताना अनुचित आलोचना है। बाजार अब सरकार के स्पष्टीकरण और वास्तविक लागू मानकों पर नजर रखेगा। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Lee Bantah Isu Izin Gap Investment untuk Rumah Tunggal Berpenyewa",
-        "excerpt": "Presiden Lee Jae Myung pada 11 mengatakan klaim bahwa pembelian rumah tunggal berpenyewa di zona izin transaksi tanah berarti izin gap investment tidak sesuai fakta.",
-        "body": "Presiden Lee Jae Myung pada 11 membantah kontroversi atas rencana pemerintah mengizinkan pembelian rumah milik pemilik nonresiden yang hanya memiliki satu rumah dan memiliki penyewa di dalam zona izin transaksi tanah. Lee menjelaskan bahwa kebijakan itu dimaksudkan untuk memberi kesempatan menjual bagi pemilik satu rumah yang memiliki penyewa. Zona izin transaksi tanah adalah wilayah di mana transaksi hunian memerlukan prosedur persetujuan, dan pernyataan ini muncul saat tafsir mengenai transaksi rumah berpenyewa serta apakah hal itu berarti izin gap investment menjadi perdebatan. Lee menyatakan bahwa menyebut kebijakan tersebut sebagai izin gap investment merupakan kritik yang tidak adil. Pasar diperkirakan akan mencermati penjelasan pemerintah dan standar penerapan sebenarnya. Sumber: yna.co.kr"
       }
     }
   }
