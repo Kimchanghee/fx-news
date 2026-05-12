@@ -1,5 +1,230 @@
 [
   {
+    "id": "16732edb1903",
+    "slug": "팔천피-턱밑-찍고-숨고르는-코스피코스닥선-바이오주-반등-873736",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T02:07:01.197Z",
+    "updatedAt": "2026-05-12T02:07:01.197Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051202756",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051202756",
+    "titleFingerprint": "ff5ef3b11be1d1a1734379dd9ba4f653da83d17f",
+    "dedupKeys": [
+      "16732edb19038b6c36438beec594ef14cee1e317",
+      "ff5ef3b11be1d1a1734379dd9ba4f653da83d17f",
+      "ddf10a8bba9487476b60213844ff229f20dab1f4"
+    ],
+    "imageUrl": "/images/articles/16732edb1903.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 ‘팔천피’ 턱밑 숨고르기, 코스닥 바이오주 반등 흐름에 시장 촉각 집중",
+        "excerpt": "한국경제는 코스피가 ‘팔천피’ 턱밑까지 오른 뒤 숨고르기에 들어섰고, 코스닥 시장에서는 바이오주가 반등했다고 전했다.",
+        "body": "국내 증시는 한국경제 보도 기준 코스피가 ‘팔천피’로 불리는 8000선에 근접한 뒤 상승 속도를 조절하는 흐름을 보였다. 코스피는 최근 강한 랠리 이후 단기 숨고르기에 들어선 것으로 소개됐고, 코스닥 시장에서는 바이오주가 반등하며 투자자 관심을 끌었다. 제공된 원문 정보에는 구체적인 지수 등락률, 종목명, 거래대금 수치는 포함되지 않았다. 이번 흐름은 코스피의 고점 부담과 코스닥 내 업종별 순환매 가능성을 동시에 보여주는 대목으로 해석된다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSPI Pauses Near 8,000 as KOSDAQ Biotech Shares Rebound, Drawing Market Focus",
+        "excerpt": "Hankyung reported that the KOSPI paused after approaching the so-called 8,000-point mark, while biotech shares rebounded on the KOSDAQ market.",
+        "body": "South Korean equities showed a mixed tone, according to Hankyung, as the KOSPI slowed after moving close to the 8,000 level, often referred to locally as ‘palcheonpi.’ The benchmark index was described as taking a breather following its recent advance, while biotech stocks on the KOSDAQ market staged a rebound and drew investor attention. The provided source information did not include specific index changes, company names, or trading-value figures. The move highlights both near-term caution around the KOSPI’s elevated level and renewed interest in sector rotation within KOSDAQ. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPIは8000目前で一服、KOSDAQではバイオ株反発に市場の関心集まる",
+        "excerpt": "韓国経済新聞は、KOSPIが「8000目前」まで上昇した後に一服し、KOSDAQ市場ではバイオ株が反発したと伝えた。",
+        "body": "韓国株式市場では、韓国経済新聞の報道によると、KOSPIが「パルチョンピ」と呼ばれる8000台目前まで接近した後、上昇の勢いをいったん抑える展開となった。最近の強い上昇後に指数が一服する一方、KOSDAQ市場ではバイオ株が反発し、投資家の注目を集めた。提供された原文情報には、具体的な指数の騰落率、個別銘柄名、売買代金などの数値は含まれていない。今回の動きは、KOSPIの高値警戒感とKOSDAQ内の業種循環への関心を同時に示している。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSPI逼近8000点后暂歇，KOSDAQ生物科技股反弹受关注",
+        "excerpt": "韩国经济报道称，KOSPI在逼近被称为“八千点”的关口后进入休整，KOSDAQ市场生物科技股出现反弹。",
+        "body": "据韩国经济报道，韩国股市呈现分化走势，KOSPI在接近当地所称“八千点”的8000点关口后，上涨节奏有所放缓。该指数被描述为在近期强势上涨后进入短线休整，而KOSDAQ市场中的生物科技股则出现反弹，吸引投资者关注。所提供的原文信息未列出具体指数涨跌幅、个股名称或成交额等数据。这一走势显示，市场一方面关注KOSPI高位后的压力，另一方面也留意KOSDAQ内部行业轮动的可能性。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El KOSPI toma pausa cerca de 8.000 puntos mientras rebotan biotecnológicas del KOSDAQ",
+        "excerpt": "Hankyung informó que el KOSPI se tomó un respiro tras acercarse al nivel de 8.000 puntos, mientras las acciones biotecnológicas rebotaron en el KOSDAQ.",
+        "body": "La renta variable surcoreana mostró un tono mixto, según Hankyung, después de que el KOSPI se acercara al nivel de 8.000 puntos, conocido localmente como ‘palcheonpi,’ y moderara su avance. El índice fue descrito como en fase de pausa tras una fuerte subida reciente, mientras que en el mercado KOSDAQ las acciones biotecnológicas repuntaron y atrajeron la atención de los inversores. La información original proporcionada no incluyó variaciones concretas del índice, nombres de compañías ni cifras de negociación. El movimiento refleja cautela ante el elevado nivel del KOSPI y renovado interés por la rotación sectorial en KOSDAQ. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSPI faz pausa perto dos 8.000 pontos e biotecnologia do KOSDAQ volta a subir",
+        "excerpt": "O Hankyung informou que o KOSPI perdeu fôlego após se aproximar dos 8.000 pontos, enquanto ações de biotecnologia se recuperaram no KOSDAQ.",
+        "body": "As ações sul-coreanas tiveram desempenho misto, segundo o Hankyung, com o KOSPI reduzindo o ritmo depois de se aproximar do patamar de 8.000 pontos, conhecido localmente como ‘palcheonpi.’ O índice foi descrito como em fase de pausa após uma forte alta recente, enquanto no mercado KOSDAQ as ações de biotecnologia reagiram e chamaram a atenção dos investidores. As informações originais fornecidas não trouxeram variações específicas do índice, nomes de empresas ou dados de volume negociado. O movimento aponta para cautela diante do nível elevado do KOSPI e para maior interesse em rotação setorial no KOSDAQ. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSPI legt nahe 8.000 Punkten Pause ein, während Biotech-Werte im KOSDAQ anziehen",
+        "excerpt": "Hankyung berichtete, dass der KOSPI nach dem Annähern an die Marke von 8.000 Punkten innehielt, während Biotech-Aktien im KOSDAQ zulegten.",
+        "body": "Südkoreas Aktienmarkt zeigte laut Hankyung ein gemischtes Bild: Der KOSPI verringerte sein Tempo, nachdem er sich der lokal als ‘palcheonpi’ bezeichneten Marke von 8.000 Punkten genähert hatte. Der Leitindex wurde nach der jüngsten kräftigen Rally als in einer Atempause beschrieben, während im KOSDAQ-Markt Biotech-Aktien eine Gegenbewegung zeigten und Anlegerinteresse weckten. Die vorliegenden Ausgangsinformationen enthielten keine konkreten Indexveränderungen, Unternehmensnamen oder Handelsumsätze. Die Entwicklung verweist zugleich auf Vorsicht angesichts des hohen KOSPI-Niveaus und auf Interesse an Sektorrotation im KOSDAQ. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le KOSPI marque une pause près des 8 000 points, les biotechs du KOSDAQ rebondissent",
+        "excerpt": "Hankyung a rapporté que le KOSPI a ralenti après s’être approché du seuil des 8 000 points, tandis que les valeurs biotechnologiques ont rebondi sur le KOSDAQ.",
+        "body": "Le marché actions sud-coréen a affiché une tonalité contrastée, selon Hankyung, le KOSPI ralentissant après s’être rapproché du seuil des 8 000 points, souvent appelé localement ‘palcheonpi.’ L’indice de référence a été présenté comme marquant une pause après sa récente progression, tandis que les valeurs biotechnologiques du KOSDAQ ont rebondi et attiré l’attention des investisseurs. Les informations sources fournies ne mentionnaient pas de variations chiffrées de l’indice, de noms d’entreprises ni de volumes d’échanges. Ce mouvement illustre à la fois la prudence autour du niveau élevé du KOSPI et l’intérêt pour une rotation sectorielle au sein du KOSDAQ. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوسبي يلتقط أنفاسه قرب 8000 نقطة وأسهم التكنولوجيا الحيوية ترتد في كوسداك",
+        "excerpt": "أفادت هانكيونغ بأن مؤشر كوسبي هدأ بعد اقترابه من مستوى 8000 نقطة، بينما سجلت أسهم التكنولوجيا الحيوية في كوسداك ارتدادا.",
+        "body": "أظهرت الأسهم الكورية الجنوبية أداء متباينا، بحسب هانكيونغ، إذ خفف مؤشر كوسبي وتيرته بعد اقترابه من مستوى 8000 نقطة المعروف محليا باسم ‘بال تشون بي.’ ووصفت الحركة بأنها استراحة قصيرة بعد صعود قوي في الآونة الأخيرة، في حين شهد سوق كوسداك ارتدادا في أسهم التكنولوجيا الحيوية جذب اهتمام المستثمرين. ولم تتضمن المعلومات الأصلية المقدمة نسب تغير محددة للمؤشر أو أسماء شركات أو أرقاما لقيم التداول. وتبرز هذه الحركة حذرا قصير الأجل تجاه المستوى المرتفع لكوسبي، إلى جانب اهتمام متجدد بالدوران القطاعي داخل كوسداك. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI 8,000 के पास ठहरा, KOSDAQ में बायोटेक शेयरों की वापसी पर बाजार की नजर",
+        "excerpt": "हैनक्यूंग के अनुसार KOSPI 8,000 अंक के करीब पहुंचने के बाद ठहरता दिखा, जबकि KOSDAQ बाजार में बायोटेक शेयरों ने वापसी की।",
+        "body": "दक्षिण कोरियाई शेयर बाजार में मिला-जुला रुख दिखा, हैनक्यूंग की रिपोर्ट के अनुसार KOSPI स्थानीय रूप से ‘पालचॉनपी’ कहे जाने वाले 8,000 अंक के स्तर के करीब पहुंचने के बाद अपनी तेजी को धीमा करता दिखा। हालिया मजबूत बढ़त के बाद मुख्य सूचकांक को विराम लेते हुए बताया गया, जबकि KOSDAQ बाजार में बायोटेक शेयरों ने वापसी की और निवेशकों का ध्यान खींचा। उपलब्ध मूल जानकारी में सूचकांक की सटीक बढ़त-गिरावट, कंपनियों के नाम या कारोबार मूल्य के आंकड़े शामिल नहीं थे। यह चाल KOSPI के ऊंचे स्तर पर सतर्कता और KOSDAQ में सेक्टर रोटेशन की रुचि दोनों को दिखाती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KOSPI Jeda Dekat 8.000 Poin, Saham Biotek KOSDAQ Rebound dan Jadi Sorotan",
+        "excerpt": "Hankyung melaporkan KOSPI mengambil jeda setelah mendekati level 8.000 poin, sementara saham bioteknologi di pasar KOSDAQ berbalik menguat.",
+        "body": "Pasar saham Korea Selatan bergerak beragam, menurut Hankyung, ketika KOSPI memperlambat laju setelah mendekati level 8.000 poin yang secara lokal disebut ‘palcheonpi.’ Indeks acuan tersebut digambarkan sedang mengambil jeda setelah reli kuat baru-baru ini, sementara di pasar KOSDAQ saham bioteknologi mencatat rebound dan menarik perhatian investor. Informasi sumber yang diberikan tidak memuat perubahan indeks secara spesifik, nama emiten, atau angka nilai transaksi. Pergerakan ini menunjukkan kewaspadaan jangka pendek terhadap posisi tinggi KOSPI sekaligus minat baru pada rotasi sektor di KOSDAQ. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "09e65451b46f",
+    "slug": "속보-코스피-장중-최고치-찍고-3-넘게-급락-전환7600선-아래로-125684",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T02:05:35.188Z",
+    "updatedAt": "2026-05-12T02:05:35.188Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051203416",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051203416",
+    "titleFingerprint": "8c4262b5fda6b4f50b4738f61c853b1b757acf75",
+    "dedupKeys": [
+      "09e65451b46f01f2c706b08399cd2c79aa51deb9",
+      "8c4262b5fda6b4f50b4738f61c853b1b757acf75",
+      "788438d30dfb197536cdb93fb5a587abdfb7ace2"
+    ],
+    "imageUrl": "/images/articles/09e65451b46f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 장중 최고치 후 급락 전환, 3% 넘게 밀리며 7600선 하회",
+        "excerpt": "코스피가 장중 최고치를 기록한 뒤 3% 넘게 급락세로 돌아서며 7600선 아래로 내려갔다고 hankyung.com이 속보로 전했다.",
+        "body": "코스피가 장중 최고치를 찍은 뒤 급락세로 전환했다. hankyung.com에 따르면 코스피는 이날 거래 중 최고치를 기록했지만 이후 낙폭을 키우며 3% 넘게 하락했고, 7600선 아래로 내려갔다. 이번 움직임은 장중 고점 형성 직후 매도 압력이 커지며 지수 흐름이 급격히 바뀐 사례로 전해졌다. 구체적인 하락 원인이나 추가 수급 내용은 원문에 제시되지 않았다. 투자자들은 장중 변동성이 확대된 만큼 지수의 회복 여부와 7600선 재진입 가능성을 주시할 필요가 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSPI Turns Sharply Lower After Intraday High, Falls Over 3% Below 7,600",
+        "excerpt": "The KOSPI hit an intraday high before reversing sharply, dropping more than 3% and falling below the 7,600 level, hankyung.com reported in a breaking update.",
+        "body": "The KOSPI reversed sharply lower after touching an intraday high. According to hankyung.com, the index reached its highest level during the session but later widened losses, falling more than 3% and moving below the 7,600 mark. The move was reported as a sudden shift in market direction after the intraday peak, as selling pressure increased. The original report did not provide a specific reason for the decline or further details on market flows. Investors may watch whether volatility continues and whether the index can recover the 7,600 level. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPI、取引時間中の最高値後に急反落　3％超下落し7600割れ",
+        "excerpt": "KOSPIは取引時間中に最高値を付けた後、3％超の急落に転じ、7600を下回ったとhankyung.comが速報で伝えた。",
+        "body": "KOSPIは取引時間中に最高値を付けた後、急落に転じた。hankyung.comによると、同指数はこの日の取引中に最高値を記録したが、その後下げ幅を広げ、3％を超えて下落し、7600を下回った。今回の動きは、日中高値を形成した直後に売り圧力が強まり、指数の流れが急変したケースとして伝えられた。具体的な下落要因や追加の需給状況は原文では示されていない。投資家は変動性の拡大を踏まえ、指数の回復可否と7600回復の可能性を注視する必要がある。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSPI盘中创新高后急转下跌，跌超3%并失守7600点",
+        "excerpt": "hankyung.com快讯称，KOSPI盘中触及最高点后急转下跌，跌幅超过3%，并跌破7600点关口。",
+        "body": "KOSPI在盘中触及最高点后转为急跌。根据hankyung.com报道，该指数当天交易中一度创下盘中最高水平，但随后跌幅扩大，跌逾3%，并跌破7600点。报道显示，这一走势是在盘中高点形成后卖压加大，导致指数方向迅速转变。原文未说明具体下跌原因，也未提供进一步资金流向细节。鉴于盘中波动扩大，投资者需关注指数能否恢复，以及是否可能重新站上7600点。来源: hankyung.com"
+      },
+      "es": {
+        "title": "KOSPI cae más de 3% tras marcar máximo intradía y pierde los 7.600 puntos",
+        "excerpt": "El KOSPI marcó un máximo intradía y luego giró bruscamente a la baja, con una caída superior al 3% que lo llevó por debajo de 7.600, informó hankyung.com.",
+        "body": "El KOSPI cambió bruscamente de dirección tras tocar un máximo intradía. Según hankyung.com, el índice alcanzó su nivel más alto durante la sesión, pero después amplió las pérdidas, cayó más de 3% y descendió por debajo de los 7.600 puntos. El movimiento fue presentado como un giro rápido del mercado después del máximo intradía, en medio de una mayor presión vendedora. El reporte original no indicó una causa concreta de la caída ni ofreció más datos sobre flujos de mercado. Los inversores pueden seguir de cerca si continúa la volatilidad y si el índice recupera los 7.600 puntos. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSPI vira para queda após máxima intradiária, recua mais de 3% e perde 7.600",
+        "excerpt": "O KOSPI atingiu máxima intradiária antes de inverter para forte queda, recuando mais de 3% e ficando abaixo de 7.600 pontos, informou hankyung.com.",
+        "body": "O KOSPI virou para forte queda depois de tocar uma máxima intradiária. Segundo o hankyung.com, o índice registrou o maior nível durante a sessão, mas depois ampliou as perdas, caiu mais de 3% e ficou abaixo da marca de 7.600 pontos. O movimento foi relatado como uma mudança rápida de direção logo após o pico do dia, com aumento da pressão vendedora. A reportagem original não apresentou uma causa específica para a queda nem detalhes adicionais sobre fluxos de mercado. Investidores devem observar se a volatilidade continua e se o índice consegue recuperar o nível de 7.600. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSPI dreht nach Intraday-Hoch stark ins Minus, fällt über 3% unter 7.600",
+        "excerpt": "Der KOSPI erreichte zunächst ein Intraday-Hoch, drehte dann deutlich ins Minus, verlor mehr als 3% und fiel unter 7.600 Punkte, meldete hankyung.com.",
+        "body": "Der KOSPI ist nach einem Intraday-Hoch deutlich ins Minus gedreht. Nach Angaben von hankyung.com erreichte der Index während des Handels zunächst seinen höchsten Stand des Tages, weitete anschließend aber die Verluste aus, fiel um mehr als 3% und rutschte unter die Marke von 7.600 Punkten. Die Bewegung wurde als rascher Richtungswechsel nach dem Tageshoch beschrieben, ausgelöst durch zunehmenden Verkaufsdruck. Der ursprüngliche Bericht nannte keinen konkreten Grund für den Rückgang und keine weiteren Details zu Marktflüssen. Anleger dürften nun verfolgen, ob die Volatilität anhält und ob der Index die Marke von 7.600 zurückerobern kann. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le KOSPI chute de plus de 3% après un plus haut intrajournalier et passe sous 7.600",
+        "excerpt": "Le KOSPI a atteint un plus haut en séance avant de basculer en forte baisse, reculant de plus de 3% sous le seuil de 7.600, selon hankyung.com.",
+        "body": "Le KOSPI a brusquement basculé en baisse après avoir atteint un plus haut intrajournalier. Selon hankyung.com, l’indice a inscrit son niveau le plus élevé pendant la séance, puis a creusé ses pertes, reculant de plus de 3% et passant sous le seuil de 7.600 points. Ce mouvement a été présenté comme un changement rapide de tendance après le sommet de séance, avec une pression vendeuse accrue. Le rapport initial ne précise pas la cause exacte de la baisse ni d’autres détails sur les flux de marché. Les investisseurs pourraient surveiller la poursuite de la volatilité et la capacité de l’indice à repasser au-dessus de 7.600. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوسبي يهبط بأكثر من 3% بعد قمة خلال الجلسة ويتراجع دون 7600 نقطة",
+        "excerpt": "بلغ مؤشر كوسبي أعلى مستوى خلال الجلسة قبل أن يتحول إلى هبوط حاد بأكثر من 3% ويتراجع دون 7600 نقطة، وفق ما أوردته hankyung.com.",
+        "body": "تحول مؤشر كوسبي إلى هبوط حاد بعد أن سجل أعلى مستوى له خلال الجلسة. ووفقًا لما نقلته hankyung.com، بلغ المؤشر ذروته أثناء التداول، ثم وسع خسائره ليتراجع بأكثر من 3% وينخفض دون مستوى 7600 نقطة. وجاءت هذه الحركة كتحول سريع في اتجاه المؤشر بعد القمة intraday، مع ازدياد ضغوط البيع. ولم يذكر التقرير الأصلي سببًا محددًا للهبوط أو تفاصيل إضافية عن تدفقات السوق. وقد يراقب المستثمرون استمرار التقلبات وإمكانية عودة المؤشر فوق مستوى 7600 نقطة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI इंट्राडे उच्च स्तर के बाद 3% से अधिक टूटा, 7,600 के नीचे फिसला",
+        "excerpt": "hankyung.com के अनुसार KOSPI ने इंट्राडे उच्च स्तर छूने के बाद तेज गिरावट दर्ज की, 3% से अधिक टूटकर 7,600 के स्तर से नीचे चला गया।",
+        "body": "KOSPI इंट्राडे उच्च स्तर छूने के बाद तेज गिरावट में बदल गया। hankyung.com के अनुसार, सूचकांक ने कारोबार के दौरान अपना उच्चतम स्तर दर्ज किया, लेकिन बाद में नुकसान बढ़ा और यह 3% से अधिक गिरकर 7,600 के स्तर से नीचे चला गया। यह चाल दिन के उच्च स्तर के तुरंत बाद बिकवाली दबाव बढ़ने से सूचकांक की दिशा में तेज बदलाव के रूप में सामने आई। मूल रिपोर्ट में गिरावट का कोई विशिष्ट कारण या बाजार प्रवाह से जुड़ी अतिरिक्त जानकारी नहीं दी गई। निवेशक अब बढ़ी हुई अस्थिरता और 7,600 स्तर पर संभावित वापसी पर नजर रख सकते हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KOSPI Berbalik Anjlok Usai Rekor Intraday, Turun Lebih 3% di Bawah 7.600",
+        "excerpt": "KOSPI mencetak level tertinggi intraday sebelum berbalik turun tajam lebih dari 3% dan jatuh di bawah 7.600, menurut laporan cepat hankyung.com.",
+        "body": "KOSPI berbalik turun tajam setelah menyentuh level tertinggi intraday. Menurut hankyung.com, indeks tersebut sempat mencatat level tertinggi selama perdagangan hari itu, namun kemudian memperlebar penurunan, melemah lebih dari 3%, dan turun di bawah level 7.600. Pergerakan ini dilaporkan sebagai perubahan arah yang cepat setelah puncak intraday, ketika tekanan jual meningkat. Laporan asli tidak menyebutkan penyebab spesifik penurunan atau rincian tambahan mengenai arus pasar. Investor dapat mencermati apakah volatilitas berlanjut dan apakah indeks mampu kembali ke atas level 7.600. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "ac7fb6bcbb5a",
+    "slug": "협력사-근로자-자격증-취득-지원한국서부발전-노동부폴리텍대와-협약-120122",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T02:04:29.069Z",
+    "updatedAt": "2026-05-12T02:04:29.069Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044413",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044413",
+    "titleFingerprint": "291e98d81c495701bc4ee0c8cb353f098d9fb030",
+    "dedupKeys": [
+      "ac7fb6bcbb5adf7c7376a76f2a3b239ad1c20d72",
+      "291e98d81c495701bc4ee0c8cb353f098d9fb030",
+      "24e92230f556016c5d53f521080582784159b197"
+    ],
+    "imageUrl": "/images/articles/ac7fb6bcbb5a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국서부발전, 협력사 근로자 자격증 취득 지원 협약 체결",
+        "excerpt": "한국서부발전은 11일 충남 태안 본사에서 고용노동부 서산지청, 한국폴리텍대학 충남캠퍼스와 협약을 맺고 석탄화력발전 협력사 근로자의 고용안정 지원에 나섰다.",
+        "body": "한국서부발전이 석탄화력발전 협력사 근로자의 고용안정을 돕기 위해 정부 및 교육기관과 손을 잡았다. 서부발전은 지난 11일 충남 태안 본사에서 고용노동부 서산지청, 한국폴리텍대학 충남캠퍼스와 협력사 근로자 자격증 취득 지원을 위한 협약을 체결했다. 이번 협약은 석탄화력발전 분야 협력사 근로자들이 필요한 직무 역량을 갖추고 고용 안정성을 높일 수 있도록 지원하는 데 초점이 맞춰졌다. 정부 기관과 교육기관이 함께 참여하면서 현장 근로자의 교육 기회 확대와 자격 취득 지원이 추진될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea Western Power signs pact to support partner workers’ certifications",
+        "excerpt": "Korea Western Power signed an agreement on May 11 at its Taean headquarters with the Seosan labor office and Korea Polytechnics’ Chungnam campus to support job stability for coal power partner workers.",
+        "body": "Korea Western Power has joined with a government agency and an educational institution to support job stability for employees of partner companies in coal-fired power generation. The company signed an agreement on May 11 at its headquarters in Taean, South Chungcheong Province, with the Seosan branch of the Ministry of Employment and Labor and Korea Polytechnics’ Chungnam campus to help partner-company workers obtain certifications. The pact focuses on helping workers in the coal power sector build job skills and improve employment security. With both public and educational bodies participating, support for training opportunities and certification acquisition is expected to move forward. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国西部発電、協力会社労働者の資格取得支援で協定締結",
+        "excerpt": "韓国西部発電は11日、忠南泰安の本社で雇用労働部瑞山支庁、韓国ポリテク大学忠南キャンパスと協定を結び、石炭火力発電の協力会社労働者の雇用安定支援に乗り出した。",
+        "body": "韓国西部発電が、石炭火力発電の協力会社で働く労働者の雇用安定を支援するため、政府機関と教育機関と連携した。同社は11日、忠清南道泰安の本社で、雇用労働部瑞山支庁、韓国ポリテク大学忠南キャンパスと、協力会社労働者の資格取得支援に関する協定を締結した。今回の協定は、石炭火力発電分野の協力会社労働者が必要な職務能力を身につけ、雇用の安定性を高められるよう支援することに重点を置く。政府機関と教育機関の参加により、現場労働者への教育機会拡大と資格取得支援が進められる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国西部发电签署协议，支持合作企业员工取得资格证",
+        "excerpt": "韩国西部发电11日在忠南泰安总部与雇佣劳动部瑞山支厅、韩国理工大学忠南校区签约，支持煤电合作企业员工就业稳定。",
+        "body": "韩国西部发电为支持煤炭火力发电合作企业员工的就业稳定，与政府机构和教育机构携手合作。公司于11日在忠清南道泰安总部，与雇佣劳动部瑞山支厅、韩国理工大学忠南校区签署协议，帮助合作企业员工取得相关资格证。此次协议重点在于支持煤电领域合作企业员工掌握所需岗位能力，并提升就业稳定性。随着政府机构和教育机构共同参与，面向一线员工的教育机会扩大和资格取得支持预计将得到推进。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Korea Western Power apoyará certificaciones de empleados de socios",
+        "excerpt": "Korea Western Power firmó el 11 de mayo en su sede de Taean un acuerdo con la oficina laboral de Seosan y Korea Polytechnics Chungnam para apoyar la estabilidad laboral de trabajadores socios del sector termoeléctrico de carbón.",
+        "body": "Korea Western Power se unió a una agencia gubernamental y a una institución educativa para apoyar la estabilidad laboral de empleados de empresas asociadas en la generación termoeléctrica a carbón. La compañía firmó el 11 de mayo, en su sede de Taean, provincia de Chungcheong del Sur, un acuerdo con la oficina de Seosan del Ministerio de Empleo y Trabajo y el campus Chungnam de Korea Polytechnics para ayudar a esos trabajadores a obtener certificaciones. El acuerdo se centra en que los empleados del sector adquieran competencias laborales necesarias y refuercen su seguridad en el empleo. Con la participación pública y educativa, se prevé ampliar oportunidades de formación y apoyo a certificaciones. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Korea Western Power firma acordo para apoiar certificações de parceiros",
+        "excerpt": "A Korea Western Power assinou em 11 de maio, em Taean, um acordo com o escritório trabalhista de Seosan e a Korea Polytechnics Chungnam para apoiar a estabilidade de trabalhadores parceiros em usinas a carvão.",
+        "body": "A Korea Western Power se uniu a uma agência governamental e a uma instituição educacional para apoiar a estabilidade no emprego de trabalhadores de empresas parceiras na geração termelétrica a carvão. A companhia assinou em 11 de maio, em sua sede em Taean, na província de Chungcheong do Sul, um acordo com o escritório de Seosan do Ministério do Emprego e Trabalho e o campus Chungnam da Korea Polytechnics para ajudar esses trabalhadores a obter certificações. O acordo busca apoiar competências profissionais necessárias e elevar a segurança no emprego. Com a participação de órgãos públicos e educacionais, devem avançar oportunidades de formação e apoio à certificação. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Korea Western Power unterstützt Zertifikate für Partnerbeschäftigte",
+        "excerpt": "Korea Western Power schloss am 11. Mai in Taean mit dem Arbeitsministerium-Büro Seosan und Korea Polytechnics Chungnam eine Vereinbarung zur Beschäftigungsstabilität von Partnerarbeitern in Kohlekraftwerken.",
+        "body": "Korea Western Power arbeitet mit einer Regierungsstelle und einer Bildungseinrichtung zusammen, um die Beschäftigungsstabilität von Mitarbeitern von Partnerunternehmen in der Kohlekraft zu unterstützen. Das Unternehmen unterzeichnete am 11. Mai an seinem Hauptsitz in Taean, Provinz Süd-Chungcheong, eine Vereinbarung mit der Seosan-Zweigstelle des Ministeriums für Beschäftigung und Arbeit sowie dem Chungnam-Campus von Korea Polytechnics. Ziel ist es, Beschäftigte von Partnerfirmen beim Erwerb von Zertifikaten zu unterstützen. Die Vereinbarung konzentriert sich darauf, notwendige berufliche Kompetenzen aufzubauen und die Arbeitsplatzsicherheit zu erhöhen. Mit öffentlicher und Bildungsbeteiligung sollen Schulungsangebote und Zertifizierungshilfen ausgeweitet werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Korea Western Power soutient les certifications des salariés partenaires",
+        "excerpt": "Korea Western Power a signé le 11 mai à Taean un accord avec le bureau du travail de Seosan et Korea Polytechnics Chungnam afin de soutenir la stabilité d’emploi des salariés partenaires du charbon.",
+        "body": "Korea Western Power s’est associée à une agence publique et à un établissement d’enseignement pour soutenir la stabilité de l’emploi des salariés d’entreprises partenaires dans la production d’électricité au charbon. L’entreprise a signé le 11 mai, à son siège de Taean dans la province du Chungcheong du Sud, un accord avec le bureau de Seosan du ministère de l’Emploi et du Travail et le campus Chungnam de Korea Polytechnics. L’objectif est d’aider les salariés des partenaires à obtenir des certifications. L’accord vise à renforcer les compétences professionnelles nécessaires et la sécurité de l’emploi dans le secteur. Avec la participation publique et éducative, les possibilités de formation et l’aide à la certification devraient progresser. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوريا ويسترن باور تدعم شهادات عمال الشركات الشريكة باتفاق جديد",
+        "excerpt": "وقعت كوريا ويسترن باور في 11 مايو بمقرها في تايان اتفاقا مع مكتب سوسان للعمل وحرم تشونغنام لكلية كوريا بوليتكنك لدعم استقرار توظيف عمال شركاء محطات الفحم.",
+        "body": "تعاونت كوريا ويسترن باور مع جهة حكومية ومؤسسة تعليمية لدعم استقرار توظيف العاملين في الشركات الشريكة بقطاع توليد الكهرباء من الفحم. ووقعت الشركة في 11 مايو، في مقرها بمدينة تايان في مقاطعة تشونغتشونغ الجنوبية، اتفاقا مع فرع سوسان لوزارة التوظيف والعمل وحرم تشونغنام لكلية كوريا بوليتكنك لمساعدة عمال الشركات الشريكة على الحصول على شهادات مهنية. يركز الاتفاق على تمكين العاملين في قطاع محطات الفحم من اكتساب المهارات الوظيفية اللازمة وتعزيز استقرارهم الوظيفي. ومع مشاركة الجهات الحكومية والتعليمية، من المتوقع توسيع فرص التدريب ودعم الحصول على الشهادات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया वेस्टर्न पावर साझेदार कर्मचारियों के प्रमाणपत्र में मदद करेगी",
+        "excerpt": "कोरिया वेस्टर्न पावर ने 11 मई को ताएआन मुख्यालय में सेओसान श्रम कार्यालय और कोरिया पॉलीटेक्निक्स चुंगनाम परिसर के साथ समझौता किया, ताकि कोयला बिजली साझेदार कंपनियों के कर्मचारियों की रोजगार स्थिरता को समर्थन मिल सके।",
+        "body": "कोरिया वेस्टर्न पावर ने कोयला आधारित बिजली उत्पादन से जुड़ी साझेदार कंपनियों के कर्मचारियों की रोजगार स्थिरता में मदद के लिए सरकारी एजेंसी और शैक्षणिक संस्थान के साथ सहयोग किया है। कंपनी ने 11 मई को दक्षिण चुंगचेओंग प्रांत के ताएआन स्थित मुख्यालय में रोजगार और श्रम मंत्रालय की सेओसान शाखा तथा कोरिया पॉलीटेक्निक्स के चुंगनाम परिसर के साथ समझौता किया। इसका उद्देश्य साझेदार कंपनियों के कर्मचारियों को प्रमाणपत्र हासिल करने में सहायता देना है। समझौता कोयला बिजली क्षेत्र के कर्मचारियों को जरूरी कार्य कौशल दिलाने और रोजगार सुरक्षा बढ़ाने पर केंद्रित है। सरकारी और शैक्षणिक भागीदारी से प्रशिक्षण अवसर और प्रमाणपत्र समर्थन आगे बढ़ने की उम्मीद है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Korea Western Power dukung sertifikasi pekerja perusahaan mitra",
+        "excerpt": "Korea Western Power menandatangani perjanjian pada 11 Mei di kantor pusat Taean dengan kantor tenaga kerja Seosan dan Korea Polytechnics Chungnam untuk mendukung stabilitas kerja pekerja mitra PLTU batu bara.",
+        "body": "Korea Western Power menggandeng lembaga pemerintah dan institusi pendidikan untuk mendukung stabilitas kerja karyawan perusahaan mitra di sektor pembangkit listrik tenaga batu bara. Perusahaan menandatangani perjanjian pada 11 Mei di kantor pusatnya di Taean, Provinsi Chungcheong Selatan, bersama kantor Seosan Kementerian Ketenagakerjaan dan Tenaga Kerja serta kampus Chungnam Korea Polytechnics. Perjanjian ini bertujuan membantu pekerja perusahaan mitra memperoleh sertifikasi. Fokusnya adalah mendukung pekerja sektor PLTU batu bara agar memiliki kompetensi kerja yang dibutuhkan dan meningkatkan keamanan kerja. Dengan keterlibatan pemerintah dan lembaga pendidikan, peluang pelatihan serta dukungan sertifikasi bagi pekerja lapangan diperkirakan akan diperluas. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "2bdc5309cd99",
     "slug": "삼전닉스-말고-여기로-몰렸다아침부터-16-이상-급등-307588",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Samsung Electronics: keputusan serikat jadi kunci sengketa batas bonus",
         "excerpt": "Samsung Electronics dan serikat melanjutkan mediasi lanjutan upah serta perjanjian kerja hingga tanggal 12, dengan penghapusan dan pelembagaan batas bonus kinerja sebagai isu utama.",
         "body": "Samsung Electronics dan serikat pekerja melanjutkan negosiasi mediasi lanjutan terkait upah dan perjanjian kerja bersama hingga tanggal 12. Isu utamanya adalah tuntutan serikat untuk menghapus batas atas bonus kinerja dan menjadikannya sistem yang dilembagakan. Menurut teks asli, keputusan serikat dipandang sebagai faktor kunci yang akan menentukan arah perundingan. Pihak perusahaan menyatakan bahwa menerima tuntutan tersebut dapat memicu penolakan dari divisi DX dan pemegang saham, sehingga klausul itu sulit untuk dikompromikan. Fokus kini tertuju pada apakah kedua pihak dapat mempersempit perbedaan mengenai cara perhitungan dan pembayaran bonus. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "ca678e7b4cae",
-    "slug": "삼성-파업땐-韓-신뢰도-흔들경쟁-국가-반사이익-얻을-것-259538",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T12:27:47.777Z",
-    "updatedAt": "2026-05-11T12:27:47.777Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12043481",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12043481",
-    "titleFingerprint": "38c8080998b7dda2565ca55ebf513467f3496869",
-    "dedupKeys": [
-      "ca678e7b4caeee3cf01a5612e1b45882cfe75bf4",
-      "38c8080998b7dda2565ca55ebf513467f3496869",
-      "c1b4aa3055672c25530e2fea67ae068414aed0ec"
-    ],
-    "imageUrl": "/images/articles/ca678e7b4cae.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 파업 우려에 암참 경고…한국 투자 신뢰도 흔들릴까",
-        "excerpt": "주한미국상공회의소가 최근 삼성전자 노조의 파업 가능성에 공개 우려를 표하며, 생산 차질이 글로벌 반도체 공급망과 한국 투자 신뢰도에 영향을 줄 수 있다고 밝혔다.",
-        "body": "주한미국상공회의소(암참)가 삼성전자 노조의 파업 가능성과 관련해 공개적으로 우려를 표명했다. 암참은 파업으로 생산 차질이 현실화할 경우 글로벌 반도체 공급망에 부담이 생기고, 한국의 투자 신뢰도에도 부정적 영향을 줄 수 있다고 봤다. 삼성전자는 글로벌 반도체 시장의 핵심 기업인 만큼 노사 갈등이 장기화하면 한국 산업 전반의 안정성에 대한 시선도 흔들릴 수 있다는 지적이다. 암참은 경쟁 국가들이 반사이익을 얻을 가능성도 언급했다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Strike Concern Draws AmCham Warning Over Korea Investment Trust",
-        "excerpt": "The American Chamber of Commerce in Korea publicly raised concern over a possible Samsung Electronics union strike, warning that production disruption could affect chip supply chains and Korea’s investment credibility.",
-        "body": "The American Chamber of Commerce in Korea, known as AmCham Korea, has publicly expressed concern over the possibility of a strike by Samsung Electronics’ union. AmCham said that if a strike leads to actual production disruption, it could place pressure on the global semiconductor supply chain and negatively affect confidence in Korea as an investment destination. Because Samsung Electronics is a key company in the global chip market, prolonged labor-management conflict could also influence perceptions of stability across Korean industry. AmCham also mentioned the possibility that competing countries could gain a reflective benefit. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン電子のスト懸念に在韓米商議所が警告、韓国投資信頼に影響も",
-        "excerpt": "在韓米国商工会議所は最近、サムスン電子労組のスト可能性に公開の懸念を示し、生産支障が半導体供給網と韓国の投資信頼に影響し得ると述べた。",
-        "body": "在韓米国商工会議所（AMCHAM Korea）は、サムスン電子労組によるストライキの可能性について公開的に懸念を表明した。AMCHAMは、ストによって生産支障が現実化した場合、世界の半導体供給網に負担が生じ、韓国への投資信頼にも否定的な影響を与え得るとみている。サムスン電子は世界の半導体市場で中核的な企業であるため、労使対立が長期化すれば韓国産業全体の安定性を見る視線も揺らぎかねないとの指摘だ。AMCHAMは競争国が反射的利益を得る可能性にも言及した。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星电子罢工担忧引发美商会警示，韩国投资信任度或受冲击",
-        "excerpt": "驻韩美国商会近日就三星电子工会可能罢工公开表达担忧，称若生产受阻，全球半导体供应链和韩国投资信任度都可能受到影响。",
-        "body": "驻韩美国商会（AmCham Korea）就三星电子工会可能举行罢工公开表达了担忧。该商会认为，如果罢工导致生产受阻成为现实，全球半导体供应链可能承压，韩国作为投资目的地的信任度也可能受到负面影响。由于三星电子是全球半导体市场的核心企业，劳资矛盾若长期化，外界对韩国整体产业稳定性的看法也可能动摇。驻韩美国商会还提到，竞争国家有可能因此获得反射性利益。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Posible huelga en Samsung inquieta a AmCham y pone en foco la confianza en Corea",
-        "excerpt": "La Cámara de Comercio Americana en Corea expresó preocupación pública por una posible huelga del sindicato de Samsung Electronics, al advertir efectos sobre la cadena global de chips y la confianza inversora en Corea.",
-        "body": "La Cámara de Comercio Americana en Corea, AmCham Korea, expresó públicamente su preocupación por la posibilidad de una huelga del sindicato de Samsung Electronics. La entidad señaló que, si la huelga se traduce en interrupciones reales de producción, podría generar presión sobre la cadena global de suministro de semiconductores y afectar negativamente la confianza en Corea como destino de inversión. Dado que Samsung Electronics es una empresa clave en el mercado mundial de chips, una prolongación del conflicto laboral también podría alterar la percepción sobre la estabilidad de la industria coreana. AmCham mencionó además que países competidores podrían obtener beneficios indirectos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Possível greve na Samsung preocupa AmCham e ameaça confiança em investimentos na Coreia",
-        "excerpt": "A Câmara Americana de Comércio na Coreia manifestou preocupação pública com uma possível greve do sindicato da Samsung Electronics, alertando para impactos na cadeia global de chips e na confiança em investimentos no país.",
-        "body": "A Câmara Americana de Comércio na Coreia, AmCham Korea, manifestou publicamente preocupação com a possibilidade de greve do sindicato da Samsung Electronics. A entidade afirmou que, se a paralisação causar interrupções reais na produção, isso poderá pressionar a cadeia global de fornecimento de semicondutores e afetar negativamente a confiança na Coreia como destino de investimentos. Como a Samsung Electronics é uma empresa central no mercado global de chips, um conflito trabalhista prolongado também pode influenciar a percepção sobre a estabilidade da indústria coreana. A AmCham também mencionou a possibilidade de países concorrentes obterem benefícios indiretos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung-Streikrisiko alarmiert AmCham und rückt Koreas Investorenvertrauen in den Fokus",
-        "excerpt": "Die Amerikanische Handelskammer in Korea äußerte öffentlich Sorge über einen möglichen Streik der Samsung-Electronics-Gewerkschaft und warnte vor Folgen für Chip-Lieferketten und Koreas Investitionsvertrauen.",
-        "body": "Die Amerikanische Handelskammer in Korea, AmCham Korea, hat öffentlich Besorgnis über die Möglichkeit eines Streiks der Gewerkschaft von Samsung Electronics geäußert. Nach Einschätzung der Kammer könnten tatsächliche Produktionsstörungen die globale Halbleiter-Lieferkette belasten und das Vertrauen in Korea als Investitionsstandort negativ beeinflussen. Da Samsung Electronics ein Schlüsselunternehmen im weltweiten Chipmarkt ist, könnte ein länger andauernder Arbeitskonflikt auch die Wahrnehmung der Stabilität der koreanischen Industrie insgesamt beeinträchtigen. AmCham erwähnte zudem die Möglichkeit, dass konkurrierende Länder indirekt profitieren könnten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Risque de grève chez Samsung : l’AmCham alerte sur la confiance envers la Corée",
-        "excerpt": "La Chambre de commerce américaine en Corée a publiquement exprimé son inquiétude face à une possible grève du syndicat de Samsung Electronics, évoquant des risques pour la chaîne mondiale des puces et la confiance des investisseurs.",
-        "body": "La Chambre de commerce américaine en Corée, AmCham Korea, a publiquement exprimé son inquiétude concernant la possibilité d’une grève du syndicat de Samsung Electronics. Selon l’organisation, si une grève entraînait de réelles perturbations de production, elle pourrait peser sur la chaîne mondiale d’approvisionnement en semi-conducteurs et nuire à la confiance envers la Corée comme destination d’investissement. Samsung Electronics étant une entreprise clé du marché mondial des puces, un conflit social prolongé pourrait aussi affecter la perception de la stabilité de l’industrie coréenne dans son ensemble. L’AmCham a également mentionné que des pays concurrents pourraient en tirer un avantage indirect. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مخاوف إضراب سامسونغ تدفع غرفة التجارة الأميركية للتحذير من تراجع الثقة بكوريا",
-        "excerpt": "أعربت غرفة التجارة الأميركية في كوريا علنا عن قلقها من احتمال إضراب نقابة سامسونغ إلكترونيكس، محذرة من أثر محتمل على سلاسل توريد الرقائق وثقة الاستثمار في كوريا.",
-        "body": "أعربت غرفة التجارة الأميركية في كوريا، المعروفة باسم أمCham Korea، عن قلقها العلني إزاء احتمال إضراب نقابة سامسونغ إلكترونيكس. وذكرت الغرفة أنه إذا تحول الإضراب إلى اضطراب فعلي في الإنتاج، فقد يفرض ضغطا على سلسلة توريد أشباه الموصلات العالمية ويؤثر سلبا في الثقة بكوريا كوجهة للاستثمار. وبما أن سامسونغ إلكترونيكس شركة محورية في سوق الرقائق العالمي، فإن استمرار النزاع بين الإدارة والعمال قد يؤثر أيضا في النظرة إلى استقرار الصناعة الكورية عموما. كما أشارت الغرفة إلى احتمال حصول الدول المنافسة على مكاسب غير مباشرة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung हड़ताल की आशंका पर AmCham की चेतावनी, कोरिया की निवेश साख पर असर संभव",
-        "excerpt": "कोरिया में अमेरिकी वाणिज्य मंडल ने Samsung Electronics यूनियन की संभावित हड़ताल पर सार्वजनिक चिंता जताई और कहा कि उत्पादन बाधा से वैश्विक चिप आपूर्ति श्रृंखला व कोरिया की निवेश साख प्रभावित हो सकती है।",
-        "body": "कोरिया में अमेरिकी वाणिज्य मंडल, AmCham Korea, ने Samsung Electronics की यूनियन की संभावित हड़ताल को लेकर सार्वजनिक रूप से चिंता व्यक्त की है। AmCham ने कहा कि यदि हड़ताल से उत्पादन में वास्तविक बाधा आती है, तो वैश्विक सेमीकंडक्टर आपूर्ति श्रृंखला पर दबाव पड़ सकता है और निवेश गंतव्य के रूप में कोरिया की विश्वसनीयता पर नकारात्मक असर हो सकता है। Samsung Electronics वैश्विक चिप बाजार की प्रमुख कंपनी है, इसलिए श्रम-प्रबंधन विवाद लंबा खिंचने पर कोरियाई उद्योग की समग्र स्थिरता को लेकर धारणा भी प्रभावित हो सकती है। AmCham ने यह भी कहा कि प्रतिस्पर्धी देशों को अप्रत्यक्ष लाभ मिल सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Risiko Mogok Samsung Picu Peringatan AmCham soal Kepercayaan Investasi Korea",
-        "excerpt": "Kamar Dagang Amerika di Korea secara terbuka menyatakan kekhawatiran atas kemungkinan mogok serikat Samsung Electronics, karena gangguan produksi dapat memengaruhi rantai pasok cip global dan kepercayaan investasi Korea.",
-        "body": "Kamar Dagang Amerika di Korea, AmCham Korea, secara terbuka menyampaikan kekhawatiran terkait kemungkinan mogok serikat pekerja Samsung Electronics. AmCham menilai, jika mogok benar-benar mengganggu produksi, hal itu dapat memberi tekanan pada rantai pasok semikonduktor global dan berdampak negatif pada kepercayaan terhadap Korea sebagai tujuan investasi. Karena Samsung Electronics merupakan perusahaan kunci di pasar cip global, konflik pekerja-manajemen yang berkepanjangan juga dapat memengaruhi pandangan terhadap stabilitas industri Korea secara keseluruhan. AmCham juga menyebut kemungkinan negara pesaing memperoleh keuntungan tidak langsung. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2c06696754ba",
-    "slug": "엔비디아-ai-어벤져스에-58조원-쐈다-805366",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T12:26:45.220Z",
-    "updatedAt": "2026-05-11T12:26:45.220Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12043488",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12043488",
-    "titleFingerprint": "7b1089266e0fce736946a3a66585c9559318f3d5",
-    "dedupKeys": [
-      "2c06696754ba8279b2b3c0e6f4030b5129ec220f",
-      "7b1089266e0fce736946a3a66585c9559318f3d5",
-      "c02f912076e99463a12c18a4d11db29b9887a298"
-    ],
-    "imageUrl": "/images/articles/2c06696754ba.jpg",
-    "i18n": {
-      "ko": {
-        "title": "엔비디아, AI 생태계에 58조원 투자…‘AI 어벤져스’ 구축 속도",
-        "excerpt": "AI 칩 시장 1위 엔비디아가 막대한 현금 창출력을 바탕으로 글로벌 AI 생태계 전반에 58조원을 투자하며 하드웨어 공급을 넘어 주도권 확대에 나섰다.",
-        "body": "엔비디아가 인공지능(AI) 칩 시장 1위 기업으로서 확보한 막대한 현금 창출력을 바탕으로 글로벌 AI 생태계 전반에 대규모 투자를 단행하고 있다. 투자 규모는 58조원으로 전해졌으며, 이는 단순한 하드웨어 공급을 넘어 AI 산업 전반의 주도권을 강화하려는 움직임으로 풀이된다. 엔비디아는 AI 칩 수요 확대 속에서 생태계 참여 기업들과의 연결을 넓히며 영향력을 키우고 있다. 이번 투자는 글로벌 AI 경쟁 구도에서 엔비디아의 입지를 더욱 공고히 하는 계기가 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Nvidia Invests 58 Trillion Won in AI Ecosystem, Accelerating ‘AI Avengers’ Strategy",
-        "excerpt": "Nvidia, the No. 1 company in the AI chip market, is investing 58 trillion won across the global AI ecosystem, using its cash generation power to expand beyond hardware supply.",
-        "body": "Nvidia, the leading company in the artificial intelligence chip market, is making large-scale investments across the global AI ecosystem based on its strong cash generation capacity. The investment is reported at 58 trillion won, signaling a move beyond simply supplying hardware toward strengthening control across the broader AI industry. As demand for AI chips grows, Nvidia is expanding links with companies participating in the ecosystem and increasing its influence. The investment is expected to further solidify Nvidia’s position in the global AI competition. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "エヌビディア、AI生態系に58兆ウォン投資…「AIアベンジャーズ」加速",
-        "excerpt": "AIチップ市場首位のエヌビディアは、強力な現金創出力を背景に世界のAI生態系全体へ58兆ウォンを投じ、ハード供給を超えた主導権拡大に動いている。",
-        "body": "人工知能（AI）チップ市場で首位に立つエヌビディアが、強力な現金創出力を背景に、世界のAI生態系全体へ大規模投資を進めている。投資規模は58兆ウォンと伝えられ、単なるハードウェア供給にとどまらず、AI産業全般で主導権を強めようとする動きと受け止められる。AIチップ需要が拡大するなか、エヌビディアは生態系に参加する企業とのつながりを広げ、影響力を高めている。今回の投資は、世界的なAI競争における同社の地位をさらに固める契機になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "英伟达向AI生态投资58万亿韩元，加速打造“AI复仇者联盟”",
-        "excerpt": "AI芯片市场第一的英伟达正凭借强大的现金创造能力，向全球AI生态投入58万亿韩元，从硬件供应扩展到生态主导权。",
-        "body": "作为人工智能（AI）芯片市场排名第一的企业，英伟达正凭借强大的现金创造能力，对全球AI生态系统进行大规模投资。相关投资规模据称达到58万亿韩元，这显示其行动已不只是供应硬件，而是意在强化对AI产业整体的主导权。随着AI芯片需求扩大，英伟达正扩大与生态系统参与企业的连接，并提升自身影响力。此次投资预计将进一步巩固英伟达在全球AI竞争格局中的地位。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Nvidia invierte 58 billones de wones en IA y acelera su estrategia ‘AI Avengers’",
-        "excerpt": "Nvidia, líder del mercado de chips de IA, invierte 58 billones de wones en el ecosistema global de inteligencia artificial para ampliar su influencia más allá del suministro de hardware.",
-        "body": "Nvidia, la empresa número uno del mercado de chips de inteligencia artificial, está realizando inversiones a gran escala en todo el ecosistema global de IA gracias a su fuerte capacidad de generación de efectivo. La inversión asciende, según la información disponible, a 58 billones de wones, lo que apunta a un movimiento que va más allá del simple suministro de hardware y busca reforzar su control sobre la industria de IA en general. En medio del aumento de la demanda de chips de IA, Nvidia amplía sus vínculos con empresas del ecosistema y eleva su influencia. La inversión podría consolidar aún más su posición en la competencia global de IA. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Nvidia investe 58 trilhões de wons em IA e acelera estratégia ‘AI Avengers’",
-        "excerpt": "A Nvidia, líder no mercado de chips de IA, está investindo 58 trilhões de wons em todo o ecossistema global de inteligência artificial para ampliar sua liderança além do hardware.",
-        "body": "A Nvidia, empresa número um no mercado de chips de inteligência artificial, está realizando investimentos de grande escala em todo o ecossistema global de IA com base em sua forte capacidade de geração de caixa. O valor informado é de 58 trilhões de wons, indicando um movimento que vai além do simples fornecimento de hardware e busca fortalecer sua liderança em toda a indústria de IA. Com a demanda por chips de IA em expansão, a Nvidia amplia conexões com empresas participantes do ecossistema e aumenta sua influência. O investimento deve reforçar ainda mais sua posição na competição global de IA. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Nvidia investiert 58 Billionen Won in KI-Ökosystem und stärkt ‘AI Avengers’",
-        "excerpt": "Nvidia, Marktführer bei KI-Chips, investiert 58 Billionen Won in das globale KI-Ökosystem und nutzt seine starke Cash-Generierung, um über Hardwarelieferungen hinaus Einfluss auszubauen.",
-        "body": "Nvidia, die Nummer eins im Markt für Chips für künstliche Intelligenz, tätigt auf Basis seiner starken Fähigkeit zur Cash-Generierung umfangreiche Investitionen im globalen KI-Ökosystem. Das Investitionsvolumen wird mit 58 Billionen Won angegeben und zeigt einen Schritt, der über die reine Lieferung von Hardware hinausgeht und auf stärkere Kontrolle in der gesamten KI-Branche abzielt. Während die Nachfrage nach KI-Chips wächst, erweitert Nvidia die Verbindungen zu Unternehmen im Ökosystem und erhöht seinen Einfluss. Diese Investition dürfte die Position des Unternehmens im globalen KI-Wettbewerb weiter festigen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Nvidia investit 58 billions de wons dans l’IA et accélère son écosystème",
-        "excerpt": "Nvidia, numéro un du marché des puces d’IA, investit 58 billions de wons dans l’écosystème mondial de l’intelligence artificielle pour renforcer son influence au-delà du matériel.",
-        "body": "Nvidia, premier acteur du marché des puces d’intelligence artificielle, réalise des investissements de grande ampleur dans l’ensemble de l’écosystème mondial de l’IA grâce à sa forte capacité de génération de trésorerie. Le montant évoqué atteint 58 billions de wons, ce qui traduit une démarche dépassant la simple fourniture de matériel afin de renforcer son contrôle sur l’industrie de l’IA dans son ensemble. Avec la hausse de la demande de puces d’IA, Nvidia élargit ses liens avec les entreprises de l’écosystème et accroît son influence. Cet investissement devrait consolider davantage sa position dans la concurrence mondiale de l’IA. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إنفيديا تستثمر 58 تريليون وون في منظومة الذكاء الاصطناعي وتعزز نفوذها",
-        "excerpt": "إنفيديا، الشركة الأولى في سوق رقائق الذكاء الاصطناعي، تستثمر 58 تريليون وون في منظومة الذكاء الاصطناعي العالمية لتوسيع نفوذها إلى ما بعد توريد العتاد.",
-        "body": "تقوم إنفيديا، الشركة الأولى في سوق رقائق الذكاء الاصطناعي، باستثمارات واسعة النطاق في منظومة الذكاء الاصطناعي العالمية اعتمادا على قدرتها الكبيرة على توليد السيولة. وتبلغ قيمة الاستثمار المعلنة 58 تريليون وون، ما يشير إلى تحرك يتجاوز مجرد توريد العتاد نحو تعزيز السيطرة على قطاع الذكاء الاصطناعي الأوسع. ومع اتساع الطلب على رقائق الذكاء الاصطناعي، توسع إنفيديا روابطها مع الشركات المشاركة في المنظومة وتزيد تأثيرها. ومن المتوقع أن يعزز هذا الاستثمار موقع الشركة في المنافسة العالمية بمجال الذكاء الاصطناعي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "एनवीडिया ने AI इकोसिस्टम में 58 ट्रिलियन वॉन लगाए, ‘AI Avengers’ रणनीति तेज",
-        "excerpt": "AI चिप बाजार की नंबर एक कंपनी एनवीडिया अपनी मजबूत नकद सृजन क्षमता के आधार पर वैश्विक AI इकोसिस्टम में 58 ट्रिलियन वॉन निवेश कर रही है।",
-        "body": "कृत्रिम बुद्धिमत्ता चिप बाजार की अग्रणी कंपनी एनवीडिया अपनी मजबूत नकद सृजन क्षमता के आधार पर वैश्विक AI इकोसिस्टम में बड़े पैमाने पर निवेश कर रही है। निवेश का आकार 58 ट्रिलियन वॉन बताया गया है, जो यह संकेत देता है कि कंपनी केवल हार्डवेयर आपूर्ति से आगे बढ़कर व्यापक AI उद्योग में अपनी पकड़ मजबूत करना चाहती है। AI चिप की मांग बढ़ने के बीच एनवीडिया इकोसिस्टम में शामिल कंपनियों के साथ संबंध बढ़ा रही है और अपना प्रभाव विस्तार कर रही है। यह निवेश वैश्विक AI प्रतिस्पर्धा में एनवीडिया की स्थिति को और मजबूत कर सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Nvidia Investasi 58 Triliun Won di Ekosistem AI, Percepat Strategi ‘AI Avengers’",
-        "excerpt": "Nvidia, pemimpin pasar chip AI, berinvestasi 58 triliun won di ekosistem kecerdasan buatan global untuk memperluas pengaruhnya melampaui pasokan perangkat keras.",
-        "body": "Nvidia, perusahaan nomor satu di pasar chip kecerdasan buatan, melakukan investasi berskala besar di seluruh ekosistem AI global dengan bertumpu pada kemampuan kuatnya dalam menghasilkan kas. Nilai investasi tersebut dilaporkan mencapai 58 triliun won, menandai langkah yang melampaui sekadar pasokan perangkat keras menuju penguatan kendali di industri AI secara lebih luas. Seiring meningkatnya permintaan chip AI, Nvidia memperluas hubungan dengan perusahaan peserta ekosistem dan meningkatkan pengaruhnya. Investasi ini diperkirakan akan semakin memperkuat posisi Nvidia dalam persaingan AI global. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "32848a28da48",
-    "slug": "이재용-회장-주식자산-50조-돌파삼성가-주식가치-100조-시대-297165",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T12:25:05.013Z",
-    "updatedAt": "2026-05-11T12:25:05.013Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12043526",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12043526",
-    "titleFingerprint": "7aa0125a7b43fa05544c0eb03fa5c80f1817f2fa",
-    "dedupKeys": [
-      "32848a28da48fe64ec95dac5fec2ee358d58c576",
-      "7aa0125a7b43fa05544c0eb03fa5c80f1817f2fa",
-      "0b2ad05e5b95f2c57d73667d1cff26aee52a7cca"
-    ],
-    "imageUrl": "/images/articles/32848a28da48.png",
-    "i18n": {
-      "ko": {
-        "title": "이재용 주식자산 50조 돌파, 삼성가 주식가치 100조 시대 열렸다",
-        "excerpt": "한국CXO연구소 조사에 따르면 코스피가 8000을 향해 상승하는 가운데 이재용 삼성전자 회장의 주식 가치가 51조6593억원으로 50조원을 넘어섰다.",
-        "body": "한국CXO연구소가 국내 주요 주주의 주식 재산 현황을 조사한 결과, 이재용 삼성전자 회장의 주식 가치가 51조6593억원으로 집계되며 50조원을 넘어섰다. 코스피가 8000선을 향해 거침없이 상승하는 흐름 속에서 삼성전자 주가가 6%대 급등해 주당 28만5500원을 기록한 점이 배경으로 제시됐다. 이 회장의 보유 주식 가치 확대와 함께 삼성가 전체 주식 가치가 100조원 시대에 들어섰다는 평가가 나왔다. 이번 조사 결과는 국내 증시 상승세와 대형주 가치 재평가가 주요 주주 자산에 미치는 영향을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Lee Jae-yong’s Stock Assets Top 50 Trillion Won as Samsung Family Nears 100 Trillion Era",
-        "excerpt": "According to Korea CXO Institute, Samsung Electronics Chairman Lee Jae-yong’s stock value reached 51.6593 trillion won as the Kospi climbed toward 8,000.",
-        "body": "A Korea CXO Institute survey of major domestic shareholders found that Samsung Electronics Chairman Lee Jae-yong’s stock holdings were valued at 51.6593 trillion won, surpassing the 50 trillion won mark. The report cited the Kospi’s strong rise toward the 8,000 level and a more than 6% surge in Samsung Electronics shares to 285,500 won per share as key background factors. Along with the increase in Lee’s stock wealth, the total stock value of the Samsung family was described as entering the 100 trillion won era. The findings show how the Korean stock market rally and revaluation of large-cap shares are affecting major shareholders’ assets. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "李在鎔氏の株式資産50兆ウォン突破、サムスン一家は100兆時代へ",
-        "excerpt": "韓国CXO研究所の調査で、コスピが8000に向けて上昇する中、李在鎔サムスン電子会長の株式価値は51兆6593億ウォンとなった。",
-        "body": "韓国CXO研究所が国内主要株主の株式資産状況を調査した結果、サムスン電子の李在鎔会長の株式価値は51兆6593億ウォンと集計され、50兆ウォンを超えた。コスピが8000台に向けて勢いよく上昇する中、サムスン電子株が6%台急騰し、1株28万5500ウォンを記録したことが背景として示された。李会長の保有株式価値の拡大とともに、サムスン一家全体の株式価値が100兆ウォン時代に入ったとの評価が出ている。今回の調査は、韓国株式市場の上昇と大型株の価値見直しが主要株主の資産に及ぼす影響を示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "李在镕股票资产突破50万亿韩元，三星家族迈入100万亿时代",
-        "excerpt": "韩国CXO研究所调查显示，在KOSPI向8000点上行之际，三星电子会长李在镕持股价值达51.6593万亿韩元。",
-        "body": "韩国CXO研究所对韩国主要股东的股票资产现状进行调查后显示，三星电子会长李在镕的持股价值为51.6593万亿韩元，突破50万亿韩元。报道指出，KOSPI指数正向8000点持续上行，同时三星电子股价大涨逾6%，达到每股285500韩元，这是相关背景因素。随着李会长所持股票价值扩大，三星家族整体股票价值也被评价为进入100万亿韩元时代。此次调查显示，韩国股市上涨和大型股价值重估正在影响主要股东资产。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Activos bursátiles de Lee Jae-yong superan 50 billones de wones y Samsung entra en era de 100 billones",
-        "excerpt": "Según Korea CXO Institute, el valor accionario de Lee Jae-yong llegó a 51,6593 billones de wones mientras el Kospi avanza hacia los 8.000 puntos.",
-        "body": "Una encuesta de Korea CXO Institute sobre la riqueza accionaria de los principales accionistas surcoreanos mostró que las participaciones de Lee Jae-yong, presidente de Samsung Electronics, alcanzaron un valor de 51,6593 billones de wones, superando los 50 billones. El contexto señalado fue el fuerte avance del Kospi hacia los 8.000 puntos y el salto de más del 6% de las acciones de Samsung Electronics, hasta 285.500 wones por título. Junto con el aumento del valor de las acciones de Lee, se evaluó que el valor total de las acciones de la familia Samsung entró en la era de los 100 billones de wones. El resultado muestra el impacto del alza bursátil local y la revalorización de grandes compañías en los activos de los principales accionistas. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ações de Lee Jae-yong passam de 50 trilhões de won e família Samsung mira era de 100 trilhões",
-        "excerpt": "Segundo o Korea CXO Institute, o valor das ações de Lee Jae-yong chegou a 51,6593 trilhões de won enquanto o Kospi avança rumo aos 8.000 pontos.",
-        "body": "Um levantamento do Korea CXO Institute sobre a riqueza em ações dos principais acionistas da Coreia do Sul mostrou que as participações de Lee Jae-yong, presidente da Samsung Electronics, foram avaliadas em 51,6593 trilhões de won, superando a marca de 50 trilhões. O relatório citou como contexto a forte alta do Kospi rumo aos 8.000 pontos e o salto de mais de 6% das ações da Samsung Electronics, para 285.500 won por ação. Com a expansão do valor acionário de Lee, a avaliação é de que o valor total das ações da família Samsung entrou na era dos 100 trilhões de won. O resultado mostra como a alta da bolsa sul-coreana e a reavaliação de grandes empresas afetam os ativos dos principais acionistas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Lee Jae-yongs Aktienvermögen steigt über 50 Bio. Won, Samsung-Familie erreicht 100-Bio.-Ära",
-        "excerpt": "Laut Korea CXO Institute erreichte Lee Jae-yongs Aktienwert 51,6593 Bio. Won, während der Kospi weiter in Richtung 8.000 Punkte steigt.",
-        "body": "Eine Untersuchung des Korea CXO Institute zur Aktiensituation großer inländischer Anteilseigner ergab, dass die Beteiligungen von Lee Jae-yong, Chairman von Samsung Electronics, mit 51,6593 Billionen Won bewertet wurden und damit die Marke von 50 Billionen Won überschritten. Als Hintergrund wurden der kräftige Anstieg des Kospi in Richtung 8.000 Punkte sowie ein Kurssprung der Samsung-Electronics-Aktie um mehr als 6% auf 285.500 Won je Aktie genannt. Mit dem höheren Wert von Lees Aktien wurde zugleich bewertet, dass der gesamte Aktienwert der Samsung-Familie in die Ära von 100 Billionen Won eingetreten ist. Die Ergebnisse zeigen, wie die Rally am koreanischen Aktienmarkt und die Neubewertung großer Werte die Vermögen wichtiger Aktionäre beeinflussen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La fortune boursière de Lee Jae-yong dépasse 50 000 Mds de wons, Samsung entre dans l’ère des 100 000 Mds",
-        "excerpt": "Selon le Korea CXO Institute, la valeur des actions de Lee Jae-yong atteint 51 659,3 Mds de wons alors que le Kospi progresse vers 8 000 points.",
-        "body": "Une enquête du Korea CXO Institute sur le patrimoine en actions des principaux actionnaires sud-coréens indique que les titres détenus par Lee Jae-yong, président de Samsung Electronics, sont évalués à 51 659,3 milliards de wons, au-delà du seuil de 50 000 milliards. Le rapport cite comme contexte la forte progression du Kospi vers 8 000 points et la hausse de plus de 6% de l’action Samsung Electronics, à 285 500 wons par action. Avec l’augmentation de la valeur des actions détenues par Lee, la valeur totale des actions de la famille Samsung est présentée comme entrant dans l’ère des 100 000 milliards de wons. Ces résultats montrent l’effet de la hausse du marché coréen et de la revalorisation des grandes capitalisations sur les actifs des principaux actionnaires. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ثروة لي جاي يونغ من الأسهم تتجاوز 50 تريليون وون وعائلة سامسونغ تدخل عصر 100 تريليون",
-        "excerpt": "بحسب معهد Korea CXO، بلغت قيمة أسهم رئيس سامسونغ إلكترونيكس لي جاي يونغ 51.6593 تريليون وون مع صعود كوسبي نحو 8000 نقطة.",
-        "body": "أظهر مسح أجراه معهد Korea CXO حول ثروات الأسهم لدى كبار المساهمين المحليين أن قيمة الأسهم التي يملكها لي جاي يونغ، رئيس سامسونغ إلكترونيكس، بلغت 51.6593 تريليون وون، متجاوزة مستوى 50 تريليون وون. وذُكر أن الخلفية تتمثل في صعود مؤشر كوسبي بقوة نحو مستوى 8000 نقطة، وقفزة سهم سامسونغ إلكترونيكس بأكثر من 6% إلى 285500 وون للسهم. ومع زيادة قيمة حيازات لي من الأسهم، وُصف إجمالي قيمة أسهم عائلة سامسونغ بأنه دخل عصر 100 تريليون وون. وتوضح نتائج المسح تأثير صعود سوق الأسهم الكورية وإعادة تقييم الأسهم الكبرى في أصول كبار المساهمين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ली जे-योंग की शेयर संपत्ति 50 ट्रिलियन वॉन पार, सैमसंग परिवार 100 ट्रिलियन युग में",
-        "excerpt": "Korea CXO Institute के अनुसार, कोस्पी के 8,000 की ओर बढ़ने के बीच सैमसंग इलेक्ट्रॉनिक्स चेयरमैन ली जे-योंग की शेयर वैल्यू 51.6593 ट्रिलियन वॉन रही।",
-        "body": "Korea CXO Institute द्वारा घरेलू प्रमुख शेयरधारकों की शेयर संपत्ति पर किए गए सर्वेक्षण में पाया गया कि Samsung Electronics के चेयरमैन ली जे-योंग की शेयर होल्डिंग्स का मूल्य 51.6593 ट्रिलियन वॉन हो गया, जो 50 ट्रिलियन वॉन से ऊपर है। रिपोर्ट में कोस्पी के 8,000 स्तर की ओर तेज बढ़त और Samsung Electronics के शेयरों में 6% से अधिक उछाल के साथ प्रति शेयर 285,500 वॉन तक पहुंचने को पृष्ठभूमि बताया गया। ली की शेयर वैल्यू बढ़ने के साथ सैमसंग परिवार की कुल शेयर वैल्यू को 100 ट्रिलियन वॉन युग में प्रवेश करने वाला बताया गया। यह सर्वेक्षण दिखाता है कि कोरियाई शेयर बाजार की तेजी और बड़े शेयरों का पुनर्मूल्यांकन प्रमुख शेयरधारकों की संपत्ति को कैसे प्रभावित कर रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Aset Saham Lee Jae-yong Tembus 50 Triliun Won, Keluarga Samsung Masuki Era 100 Triliun",
-        "excerpt": "Menurut Korea CXO Institute, nilai saham Ketua Samsung Electronics Lee Jae-yong mencapai 51,6593 triliun won saat Kospi bergerak menuju 8.000.",
-        "body": "Survei Korea CXO Institute mengenai kekayaan saham para pemegang saham utama di Korea Selatan menunjukkan bahwa nilai kepemilikan saham Lee Jae-yong, Ketua Samsung Electronics, mencapai 51,6593 triliun won dan melampaui 50 triliun won. Latar yang disebutkan adalah laju Kospi yang terus naik menuju level 8.000 serta lonjakan saham Samsung Electronics lebih dari 6% ke 285.500 won per saham. Seiring kenaikan nilai saham Lee, total nilai saham keluarga Samsung dinilai memasuki era 100 triliun won. Hasil ini menunjukkan bagaimana reli pasar saham Korea dan penilaian ulang saham berkapitalisasi besar memengaruhi aset para pemegang saham utama. Sumber: mk.co.kr"
       }
     }
   }
