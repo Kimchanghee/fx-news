@@ -1,0 +1,75 @@
+{
+  "id": "97df15f137bc",
+  "slug": "게임데이터센터-성장으로-매출-두-자릿수-성장한-nhn-343744",
+  "channelId": "FX",
+  "category": "fx",
+  "publishedAt": "2026-05-12T15:50:35.292Z",
+  "updatedAt": "2026-05-12T15:50:35.292Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/business/12044617",
+  "canonicalUrl": "https://www.mk.co.kr/news/business/12044617",
+  "titleFingerprint": "a35f674577c91b9b3e59518b1e39b93b1c6e3a52",
+  "dedupKeys": [
+    "97df15f137bcc8bf77468ab6ed757325ddf39f4c",
+    "a35f674577c91b9b3e59518b1e39b93b1c6e3a52",
+    "c34dc4f9394a6cfda5026b487e5d24b2806509d2"
+  ],
+  "imageUrl": "/images/articles/97df15f137bc.png",
+  "i18n": {
+    "ko": {
+      "title": "NHN 1분기 매출 두 자릿수 성장, 게임·결제·클라우드가 견인",
+      "excerpt": "NHN은 올 1분기 게임·결제·클라우드 사업 성장에 힘입어 매출이 두 자릿수 증가했지만, AI·클라우드용 GPU 투자 영향으로 영업이익은 감소했다.",
+      "body": "NHN은 올 1분기 게임, 결제, 클라우드 사업 성장에 힘입어 매출이 두 자릿수 증가했다고 밝혔다. 사업별로는 게임 부문과 결제 관련 사업, 클라우드 사업이 외형 성장을 이끌었다. 다만 인공지능(AI)과 클라우드 경쟁력 강화를 위한 GPU 투자 부담이 반영되면서 영업이익은 감소했다. 회사는 클라우드 사업 확대에도 속도를 낼 계획이다. 이번 실적은 핵심 사업의 매출 성장세가 이어지는 가운데, 미래 인프라 투자가 단기 수익성에 영향을 준 사례로 해석된다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "NHN Q1 Revenue Grows Double Digits as Games, Payments and Cloud Lead",
+      "excerpt": "NHN posted double-digit revenue growth in the first quarter, driven by games, payments and cloud, while operating profit fell due to GPU investment for AI and cloud.",
+      "body": "NHN said its revenue grew by double digits in the first quarter, supported by growth in its games, payments and cloud businesses. By business area, games, payment-related operations and cloud services led the company’s top-line expansion. However, operating profit declined as the burden of GPU investment for strengthening artificial intelligence (AI) and cloud competitiveness was reflected in results. The company also plans to accelerate the expansion of its cloud business. The results show continued revenue momentum in NHN’s core businesses, while future infrastructure investment weighed on short-term profitability. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "NHN、第1四半期売上が2桁成長 ゲーム・決済・クラウドがけん引",
+      "excerpt": "NHNは第1四半期にゲーム、決済、クラウド事業の成長で売上高が2桁増となった一方、AI・クラウド向けGPU投資で営業利益は減少した。",
+      "body": "NHNは、今年第1四半期にゲーム、決済、クラウド事業の成長を背景に売上高が2桁増加したと明らかにした。事業別では、ゲーム部門、決済関連事業、クラウド事業が外形成長をけん引した。一方で、人工知能（AI）とクラウド競争力を強化するためのGPU投資負担が反映され、営業利益は減少した。会社はクラウド事業の拡大にもさらに速度を上げる方針だ。今回の業績は、主力事業の売上成長が続く中で、将来インフラへの投資が短期的な収益性に影響した事例と受け止められる。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "NHN一季度营收两位数增长，游戏、支付和云业务拉动",
+      "excerpt": "NHN今年一季度在游戏、支付和云业务增长带动下实现两位数营收增长，但受AI和云业务GPU投资影响，营业利润下降。",
+      "body": "NHN表示，今年第一季度在游戏、支付和云业务增长的推动下，营收实现两位数增长。按业务来看，游戏部门、支付相关业务以及云业务带动了公司规模扩张。不过，为增强人工智能（AI）和云竞争力而进行的GPU投资负担反映在业绩中，导致营业利润下降。公司还计划加快云业务扩张。此次业绩显示，NHN核心业务的营收增长势头仍在延续，但面向未来基础设施的投资对短期盈利能力产生了影响。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "NHN logra crecimiento de ingresos de dos dígitos por juegos, pagos y nube",
+      "excerpt": "NHN registró en el primer trimestre un aumento de ingresos de dos dígitos gracias a juegos, pagos y nube, aunque el beneficio operativo cayó por inversión en GPU para IA y nube.",
+      "body": "NHN informó que sus ingresos crecieron a doble dígito en el primer trimestre del año, impulsados por la expansión de sus negocios de juegos, pagos y nube. Por áreas, la división de juegos, las actividades relacionadas con pagos y los servicios en la nube lideraron el crecimiento de la compañía. Sin embargo, el beneficio operativo disminuyó al reflejarse la carga de inversión en GPU destinada a reforzar la competitividad en inteligencia artificial (IA) y nube. La empresa también prevé acelerar la expansión de su negocio cloud. Los resultados muestran que el crecimiento de las líneas principales continúa, mientras la inversión en infraestructura futura afecta la rentabilidad de corto plazo. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "NHN tem receita com alta de dois dígitos puxada por jogos, pagamentos e nuvem",
+      "excerpt": "A NHN registrou no 1º trimestre crescimento de receita de dois dígitos com jogos, pagamentos e nuvem, mas o lucro operacional caiu por investimentos em GPUs para IA e cloud.",
+      "body": "A NHN informou que sua receita cresceu em dois dígitos no primeiro trimestre deste ano, apoiada pela expansão dos negócios de jogos, pagamentos e nuvem. Por segmento, a área de jogos, as operações relacionadas a pagamentos e os serviços de cloud lideraram o avanço da receita. No entanto, o lucro operacional recuou, refletindo o peso dos investimentos em GPUs para fortalecer a competitividade em inteligência artificial (IA) e nuvem. A companhia também planeja acelerar a ampliação do negócio de cloud. O resultado indica continuidade no crescimento das principais frentes de receita, enquanto investimentos em infraestrutura futura pressionam a rentabilidade de curto prazo. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "NHN steigert Quartalsumsatz zweistellig dank Games, Payments und Cloud",
+      "excerpt": "NHN erzielte im ersten Quartal ein zweistelliges Umsatzwachstum durch Games, Payments und Cloud, während der Betriebsgewinn wegen GPU-Investitionen für KI und Cloud sank.",
+      "body": "NHN teilte mit, dass der Umsatz im ersten Quartal dieses Jahres zweistellig gestiegen ist, getragen vom Wachstum in den Bereichen Games, Zahlungen und Cloud. Nach Geschäftsbereichen führten die Spielesparte, zahlungsbezogene Aktivitäten und Cloud-Dienste die Ausweitung des Geschäftsvolumens an. Der Betriebsgewinn ging jedoch zurück, da die Belastung durch GPU-Investitionen zur Stärkung der Wettbewerbsfähigkeit bei künstlicher Intelligenz (KI) und Cloud berücksichtigt wurde. Das Unternehmen will zudem den Ausbau des Cloud-Geschäfts beschleunigen. Die Ergebnisse zeigen anhaltendes Umsatzwachstum in den Kerngeschäften, während Investitionen in künftige Infrastruktur kurzfristig die Profitabilität belasten. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "NHN affiche une croissance à deux chiffres grâce aux jeux, paiements et cloud",
+      "excerpt": "NHN a enregistré au premier trimestre une hausse à deux chiffres de son chiffre d’affaires grâce aux jeux, paiements et cloud, mais son bénéfice d’exploitation a reculé avec les investissements GPU.",
+      "body": "NHN a annoncé que son chiffre d’affaires avait progressé à deux chiffres au premier trimestre de l’année, soutenu par la croissance des activités jeux, paiements et cloud. Par secteur, les jeux, les activités liées aux paiements et les services cloud ont porté l’expansion du groupe. Toutefois, le bénéfice d’exploitation a diminué, sous l’effet des investissements en GPU destinés à renforcer la compétitivité dans l’intelligence artificielle (IA) et le cloud. L’entreprise prévoit également d’accélérer le développement de son activité cloud. Ces résultats montrent que la dynamique de revenus des activités clés se poursuit, tandis que les investissements d’infrastructure future pèsent sur la rentabilité à court terme. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "إيرادات NHN تنمو بمعدل مزدوج بدعم الألعاب والمدفوعات والسحابة",
+      "excerpt": "سجلت NHN في الربع الأول نموا مزدوج الرقم في الإيرادات بفضل الألعاب والمدفوعات والسحابة، لكن الربح التشغيلي تراجع بسبب استثمارات وحدات GPU للذكاء الاصطناعي والسحابة.",
+      "body": "أعلنت NHN أن إيراداتها نمت بمعدل مزدوج الرقم في الربع الأول من هذا العام، مدعومة بنمو أعمال الألعاب والمدفوعات والحوسبة السحابية. وبحسب القطاعات، قادت وحدة الألعاب والأعمال المرتبطة بالمدفوعات وخدمات السحابة توسع حجم الأعمال. ومع ذلك، انخفض الربح التشغيلي بعد انعكاس عبء الاستثمار في وحدات GPU لتعزيز القدرة التنافسية في الذكاء الاصطناعي والسحابة. وتخطط الشركة أيضا لتسريع توسيع أعمالها السحابية. وتظهر النتائج استمرار زخم نمو الإيرادات في الأنشطة الأساسية، بينما تؤثر استثمارات البنية التحتية المستقبلية في الربحية قصيرة الأجل. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "NHN की पहली तिमाही आय दो अंकों में बढ़ी, गेम, भुगतान और क्लाउड ने दिया बल",
+      "excerpt": "NHN ने पहली तिमाही में गेम, भुगतान और क्लाउड कारोबार की बढ़त से दो अंकों की राजस्व वृद्धि दर्ज की, लेकिन AI और क्लाउड के लिए GPU निवेश से परिचालन लाभ घटा।",
+      "body": "NHN ने कहा कि इस वर्ष की पहली तिमाही में गेम, भुगतान और क्लाउड कारोबार की वृद्धि के दम पर उसका राजस्व दो अंकों में बढ़ा। कारोबार के हिसाब से गेम विभाग, भुगतान से जुड़े व्यवसाय और क्लाउड सेवाओं ने कंपनी के बाहरी विस्तार को आगे बढ़ाया। हालांकि, कृत्रिम बुद्धिमत्ता (AI) और क्लाउड प्रतिस्पर्धा को मजबूत करने के लिए GPU निवेश का बोझ परिणामों में दिखा, जिससे परिचालन लाभ घट गया। कंपनी क्लाउड कारोबार के विस्तार की गति भी बढ़ाने की योजना रखती है। यह प्रदर्शन बताता है कि मुख्य व्यवसायों में राजस्व वृद्धि जारी है, जबकि भविष्य की अवसंरचना में निवेश अल्पकालिक लाभप्रदता पर असर डाल रहा है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Pendapatan NHN Kuartal I Tumbuh Dua Digit Ditopang Gim, Pembayaran dan Cloud",
+      "excerpt": "NHN mencatat pertumbuhan pendapatan dua digit pada kuartal I berkat gim, pembayaran dan cloud, namun laba operasi turun akibat investasi GPU untuk AI dan cloud.",
+      "body": "NHN menyatakan pendapatannya tumbuh dua digit pada kuartal pertama tahun ini, didukung pertumbuhan bisnis gim, pembayaran dan cloud. Berdasarkan segmen, divisi gim, bisnis terkait pembayaran dan layanan cloud memimpin perluasan skala pendapatan perusahaan. Namun, laba operasi menurun karena beban investasi GPU untuk memperkuat daya saing kecerdasan buatan (AI) dan cloud tercermin dalam kinerja. Perusahaan juga berencana mempercepat ekspansi bisnis cloud. Hasil ini menunjukkan momentum pertumbuhan pendapatan pada bisnis inti masih berlanjut, sementara investasi infrastruktur masa depan memengaruhi profitabilitas jangka pendek. Sumber: mk.co.kr"
+    }
+  }
+}

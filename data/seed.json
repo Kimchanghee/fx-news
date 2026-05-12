@@ -1,5 +1,230 @@
 [
   {
+    "id": "97df15f137bc",
+    "slug": "게임데이터센터-성장으로-매출-두-자릿수-성장한-nhn-343744",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T15:50:35.292Z",
+    "updatedAt": "2026-05-12T15:50:35.292Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044617",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044617",
+    "titleFingerprint": "a35f674577c91b9b3e59518b1e39b93b1c6e3a52",
+    "dedupKeys": [
+      "97df15f137bcc8bf77468ab6ed757325ddf39f4c",
+      "a35f674577c91b9b3e59518b1e39b93b1c6e3a52",
+      "c34dc4f9394a6cfda5026b487e5d24b2806509d2"
+    ],
+    "imageUrl": "/images/articles/97df15f137bc.png",
+    "i18n": {
+      "ko": {
+        "title": "NHN 1분기 매출 두 자릿수 성장, 게임·결제·클라우드가 견인",
+        "excerpt": "NHN은 올 1분기 게임·결제·클라우드 사업 성장에 힘입어 매출이 두 자릿수 증가했지만, AI·클라우드용 GPU 투자 영향으로 영업이익은 감소했다.",
+        "body": "NHN은 올 1분기 게임, 결제, 클라우드 사업 성장에 힘입어 매출이 두 자릿수 증가했다고 밝혔다. 사업별로는 게임 부문과 결제 관련 사업, 클라우드 사업이 외형 성장을 이끌었다. 다만 인공지능(AI)과 클라우드 경쟁력 강화를 위한 GPU 투자 부담이 반영되면서 영업이익은 감소했다. 회사는 클라우드 사업 확대에도 속도를 낼 계획이다. 이번 실적은 핵심 사업의 매출 성장세가 이어지는 가운데, 미래 인프라 투자가 단기 수익성에 영향을 준 사례로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "NHN Q1 Revenue Grows Double Digits as Games, Payments and Cloud Lead",
+        "excerpt": "NHN posted double-digit revenue growth in the first quarter, driven by games, payments and cloud, while operating profit fell due to GPU investment for AI and cloud.",
+        "body": "NHN said its revenue grew by double digits in the first quarter, supported by growth in its games, payments and cloud businesses. By business area, games, payment-related operations and cloud services led the company’s top-line expansion. However, operating profit declined as the burden of GPU investment for strengthening artificial intelligence (AI) and cloud competitiveness was reflected in results. The company also plans to accelerate the expansion of its cloud business. The results show continued revenue momentum in NHN’s core businesses, while future infrastructure investment weighed on short-term profitability. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "NHN、第1四半期売上が2桁成長 ゲーム・決済・クラウドがけん引",
+        "excerpt": "NHNは第1四半期にゲーム、決済、クラウド事業の成長で売上高が2桁増となった一方、AI・クラウド向けGPU投資で営業利益は減少した。",
+        "body": "NHNは、今年第1四半期にゲーム、決済、クラウド事業の成長を背景に売上高が2桁増加したと明らかにした。事業別では、ゲーム部門、決済関連事業、クラウド事業が外形成長をけん引した。一方で、人工知能（AI）とクラウド競争力を強化するためのGPU投資負担が反映され、営業利益は減少した。会社はクラウド事業の拡大にもさらに速度を上げる方針だ。今回の業績は、主力事業の売上成長が続く中で、将来インフラへの投資が短期的な収益性に影響した事例と受け止められる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "NHN一季度营收两位数增长，游戏、支付和云业务拉动",
+        "excerpt": "NHN今年一季度在游戏、支付和云业务增长带动下实现两位数营收增长，但受AI和云业务GPU投资影响，营业利润下降。",
+        "body": "NHN表示，今年第一季度在游戏、支付和云业务增长的推动下，营收实现两位数增长。按业务来看，游戏部门、支付相关业务以及云业务带动了公司规模扩张。不过，为增强人工智能（AI）和云竞争力而进行的GPU投资负担反映在业绩中，导致营业利润下降。公司还计划加快云业务扩张。此次业绩显示，NHN核心业务的营收增长势头仍在延续，但面向未来基础设施的投资对短期盈利能力产生了影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "NHN logra crecimiento de ingresos de dos dígitos por juegos, pagos y nube",
+        "excerpt": "NHN registró en el primer trimestre un aumento de ingresos de dos dígitos gracias a juegos, pagos y nube, aunque el beneficio operativo cayó por inversión en GPU para IA y nube.",
+        "body": "NHN informó que sus ingresos crecieron a doble dígito en el primer trimestre del año, impulsados por la expansión de sus negocios de juegos, pagos y nube. Por áreas, la división de juegos, las actividades relacionadas con pagos y los servicios en la nube lideraron el crecimiento de la compañía. Sin embargo, el beneficio operativo disminuyó al reflejarse la carga de inversión en GPU destinada a reforzar la competitividad en inteligencia artificial (IA) y nube. La empresa también prevé acelerar la expansión de su negocio cloud. Los resultados muestran que el crecimiento de las líneas principales continúa, mientras la inversión en infraestructura futura afecta la rentabilidad de corto plazo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "NHN tem receita com alta de dois dígitos puxada por jogos, pagamentos e nuvem",
+        "excerpt": "A NHN registrou no 1º trimestre crescimento de receita de dois dígitos com jogos, pagamentos e nuvem, mas o lucro operacional caiu por investimentos em GPUs para IA e cloud.",
+        "body": "A NHN informou que sua receita cresceu em dois dígitos no primeiro trimestre deste ano, apoiada pela expansão dos negócios de jogos, pagamentos e nuvem. Por segmento, a área de jogos, as operações relacionadas a pagamentos e os serviços de cloud lideraram o avanço da receita. No entanto, o lucro operacional recuou, refletindo o peso dos investimentos em GPUs para fortalecer a competitividade em inteligência artificial (IA) e nuvem. A companhia também planeja acelerar a ampliação do negócio de cloud. O resultado indica continuidade no crescimento das principais frentes de receita, enquanto investimentos em infraestrutura futura pressionam a rentabilidade de curto prazo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "NHN steigert Quartalsumsatz zweistellig dank Games, Payments und Cloud",
+        "excerpt": "NHN erzielte im ersten Quartal ein zweistelliges Umsatzwachstum durch Games, Payments und Cloud, während der Betriebsgewinn wegen GPU-Investitionen für KI und Cloud sank.",
+        "body": "NHN teilte mit, dass der Umsatz im ersten Quartal dieses Jahres zweistellig gestiegen ist, getragen vom Wachstum in den Bereichen Games, Zahlungen und Cloud. Nach Geschäftsbereichen führten die Spielesparte, zahlungsbezogene Aktivitäten und Cloud-Dienste die Ausweitung des Geschäftsvolumens an. Der Betriebsgewinn ging jedoch zurück, da die Belastung durch GPU-Investitionen zur Stärkung der Wettbewerbsfähigkeit bei künstlicher Intelligenz (KI) und Cloud berücksichtigt wurde. Das Unternehmen will zudem den Ausbau des Cloud-Geschäfts beschleunigen. Die Ergebnisse zeigen anhaltendes Umsatzwachstum in den Kerngeschäften, während Investitionen in künftige Infrastruktur kurzfristig die Profitabilität belasten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "NHN affiche une croissance à deux chiffres grâce aux jeux, paiements et cloud",
+        "excerpt": "NHN a enregistré au premier trimestre une hausse à deux chiffres de son chiffre d’affaires grâce aux jeux, paiements et cloud, mais son bénéfice d’exploitation a reculé avec les investissements GPU.",
+        "body": "NHN a annoncé que son chiffre d’affaires avait progressé à deux chiffres au premier trimestre de l’année, soutenu par la croissance des activités jeux, paiements et cloud. Par secteur, les jeux, les activités liées aux paiements et les services cloud ont porté l’expansion du groupe. Toutefois, le bénéfice d’exploitation a diminué, sous l’effet des investissements en GPU destinés à renforcer la compétitivité dans l’intelligence artificielle (IA) et le cloud. L’entreprise prévoit également d’accélérer le développement de son activité cloud. Ces résultats montrent que la dynamique de revenus des activités clés se poursuit, tandis que les investissements d’infrastructure future pèsent sur la rentabilité à court terme. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إيرادات NHN تنمو بمعدل مزدوج بدعم الألعاب والمدفوعات والسحابة",
+        "excerpt": "سجلت NHN في الربع الأول نموا مزدوج الرقم في الإيرادات بفضل الألعاب والمدفوعات والسحابة، لكن الربح التشغيلي تراجع بسبب استثمارات وحدات GPU للذكاء الاصطناعي والسحابة.",
+        "body": "أعلنت NHN أن إيراداتها نمت بمعدل مزدوج الرقم في الربع الأول من هذا العام، مدعومة بنمو أعمال الألعاب والمدفوعات والحوسبة السحابية. وبحسب القطاعات، قادت وحدة الألعاب والأعمال المرتبطة بالمدفوعات وخدمات السحابة توسع حجم الأعمال. ومع ذلك، انخفض الربح التشغيلي بعد انعكاس عبء الاستثمار في وحدات GPU لتعزيز القدرة التنافسية في الذكاء الاصطناعي والسحابة. وتخطط الشركة أيضا لتسريع توسيع أعمالها السحابية. وتظهر النتائج استمرار زخم نمو الإيرادات في الأنشطة الأساسية، بينما تؤثر استثمارات البنية التحتية المستقبلية في الربحية قصيرة الأجل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "NHN की पहली तिमाही आय दो अंकों में बढ़ी, गेम, भुगतान और क्लाउड ने दिया बल",
+        "excerpt": "NHN ने पहली तिमाही में गेम, भुगतान और क्लाउड कारोबार की बढ़त से दो अंकों की राजस्व वृद्धि दर्ज की, लेकिन AI और क्लाउड के लिए GPU निवेश से परिचालन लाभ घटा।",
+        "body": "NHN ने कहा कि इस वर्ष की पहली तिमाही में गेम, भुगतान और क्लाउड कारोबार की वृद्धि के दम पर उसका राजस्व दो अंकों में बढ़ा। कारोबार के हिसाब से गेम विभाग, भुगतान से जुड़े व्यवसाय और क्लाउड सेवाओं ने कंपनी के बाहरी विस्तार को आगे बढ़ाया। हालांकि, कृत्रिम बुद्धिमत्ता (AI) और क्लाउड प्रतिस्पर्धा को मजबूत करने के लिए GPU निवेश का बोझ परिणामों में दिखा, जिससे परिचालन लाभ घट गया। कंपनी क्लाउड कारोबार के विस्तार की गति भी बढ़ाने की योजना रखती है। यह प्रदर्शन बताता है कि मुख्य व्यवसायों में राजस्व वृद्धि जारी है, जबकि भविष्य की अवसंरचना में निवेश अल्पकालिक लाभप्रदता पर असर डाल रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pendapatan NHN Kuartal I Tumbuh Dua Digit Ditopang Gim, Pembayaran dan Cloud",
+        "excerpt": "NHN mencatat pertumbuhan pendapatan dua digit pada kuartal I berkat gim, pembayaran dan cloud, namun laba operasi turun akibat investasi GPU untuk AI dan cloud.",
+        "body": "NHN menyatakan pendapatannya tumbuh dua digit pada kuartal pertama tahun ini, didukung pertumbuhan bisnis gim, pembayaran dan cloud. Berdasarkan segmen, divisi gim, bisnis terkait pembayaran dan layanan cloud memimpin perluasan skala pendapatan perusahaan. Namun, laba operasi menurun karena beban investasi GPU untuk memperkuat daya saing kecerdasan buatan (AI) dan cloud tercermin dalam kinerja. Perusahaan juga berencana mempercepat ekspansi bisnis cloud. Hasil ini menunjukkan momentum pertumbuhan pendapatan pada bisnis inti masih berlanjut, sementara investasi infrastruktur masa depan memengaruhi profitabilitas jangka pendek. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "73efd40dc4dc",
+    "slug": "가구업계-톱2-한샘현대리바트-건설경기-불황-속-이것에-실적-희비-엇갈렸다-295059",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T15:48:53.990Z",
+    "updatedAt": "2026-05-12T15:48:53.990Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044671",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044671",
+    "titleFingerprint": "eb1bbfeade877a935d70c69ed16d8d6caaddc680",
+    "dedupKeys": [
+      "73efd40dc4dcb77df4f10fb3645b436f6dc4585d",
+      "eb1bbfeade877a935d70c69ed16d8d6caaddc680",
+      "53a9feeca487a9d72a04edf803a951e77af5954d"
+    ],
+    "imageUrl": "/images/articles/73efd40dc4dc.png",
+    "i18n": {
+      "ko": {
+        "title": "한샘·현대리바트 1분기 실적 희비, B2C·B2B 비중이 갈랐다",
+        "excerpt": "가구업계 1·2위 한샘과 현대리바트가 건설경기 침체 속 1분기 실적에서 엇갈린 결과를 냈다. B2C와 B2B 사업 비중 차이가 영업이익 격차로 나타났다.",
+        "body": "가구업계 1·2위인 한샘과 현대리바트가 건설경기 침체가 이어진 1분기 실적에서 엇갈린 흐름을 보였다. mk.co.kr에 따르면 한샘은 1분기 영업이익 101억원을 기록하며 상대적으로 선방했다. 반면 현대리바트의 1분기 영업이익은 10억원에 그쳤다. 실적 차이는 사업 구조에서 비롯됐다. 한샘은 B2C 사업 비중이 높아 건설경기 부진의 직접 충격을 상대적으로 덜 받은 반면, 현대리바트는 B2B 비중이 높아 건설경기 침체의 영향을 크게 받았다. 가구 기업 전반의 실적이 악화하는 가운데, 소비자 대상 사업과 건설 연계 사업의 비중 차이가 수익성에 직접 반영된 것으로 풀이된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hanssem and Hyundai Livart Q1 profits split by B2C and B2B exposure",
+        "excerpt": "South Korea’s top two furniture firms, Hanssem and Hyundai Livart, posted sharply different first-quarter results as the construction downturn hit B2B-heavy operations harder.",
+        "body": "Hanssem and Hyundai Livart, South Korea’s No. 1 and No. 2 furniture companies, showed contrasting first-quarter results amid a prolonged construction market slump. According to mk.co.kr, Hanssem posted operating profit of 10.1 billion won in the first quarter, holding up relatively well. Hyundai Livart, by contrast, reported operating profit of 1.0 billion won. The difference came from their business structures. Hanssem has a higher share of B2C operations, which limited the direct impact of weak construction activity. Hyundai Livart has a higher B2B share and was hit more directly by the downturn. As furniture firms broadly face weaker earnings, the split between consumer-facing and construction-linked businesses was reflected directly in profitability. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ハンセムと現代リバートの1四半期業績、B2C・B2B比率で明暗",
+        "excerpt": "韓国家具業界1、2位のハンセムと現代リバートは、建設景気の低迷が続く中、第1四半期業績で明暗が分かれた。事業比率の差が利益差につながった。",
+        "body": "韓国家具業界1、2位のハンセムと現代リバートは、建設景気の低迷が続いた第1四半期業績で対照的な結果となった。mk.co.krによると、ハンセムの第1四半期営業利益は101億ウォンで、相対的に底堅さを見せた。一方、現代リバートの営業利益は10億ウォンにとどまった。差を生んだのは事業構造だ。ハンセムはB2C事業の比率が高く、建設景気不振の直接的な影響を比較的抑えた。これに対し、現代リバートはB2B比率が高く、建設景気低迷の打撃を大きく受けた。家具企業全般で業績悪化が進む中、消費者向け事業と建設連動事業の比率差が収益性に直接反映された形だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩森与现代Livart一季度业绩分化，B2C与B2B占比成关键",
+        "excerpt": "韩国前两大家具企业韩森和现代Livart在建筑景气低迷的一季度业绩表现分化，B2C与B2B业务占比差异直接反映在营业利润上。",
+        "body": "韩国前两大家具企业韩森和现代Livart在建筑景气持续低迷的一季度业绩中呈现不同走势。据mk.co.kr报道，韩森一季度营业利润为101亿韩元，表现相对稳健。相比之下，现代Livart一季度营业利润仅为10亿韩元。业绩差异源于业务结构。韩森B2C业务占比较高，因此相对较少受到建筑景气不振的直接冲击。现代Livart则因B2B占比较高，受到建筑景气低迷的影响更大。在家具企业整体业绩恶化的背景下，面向消费者业务与建筑相关业务的占比差异，直接反映在盈利能力上。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hanssem y Hyundai Livart dividen resultados del 1T por peso B2C y B2B",
+        "excerpt": "Las dos mayores firmas de muebles de Corea del Sur, Hanssem y Hyundai Livart, registraron resultados opuestos en el primer trimestre por la caída de la construcción.",
+        "body": "Hanssem y Hyundai Livart, las dos mayores empresas de muebles de Corea del Sur, mostraron resultados contrastantes en el primer trimestre en medio de la desaceleración del sector de la construcción. Según mk.co.kr, Hanssem registró un beneficio operativo de 10.100 millones de wones en el trimestre, resistiendo relativamente bien. En cambio, Hyundai Livart obtuvo un beneficio operativo de 1.000 millones de wones. La diferencia se explicó por la estructura de negocio. Hanssem tiene una mayor proporción de operaciones B2C, lo que redujo el impacto directo de la debilidad de la construcción. Hyundai Livart, con mayor peso B2B, recibió un golpe más fuerte. En un contexto de deterioro general de resultados en el sector del mueble, la proporción entre negocios al consumidor y negocios vinculados a la construcción se reflejó directamente en la rentabilidad. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Hanssem e Hyundai Livart divergem no 1º tri por peso de B2C e B2B",
+        "excerpt": "As duas maiores empresas de móveis da Coreia do Sul, Hanssem e Hyundai Livart, tiveram resultados distintos no primeiro trimestre em meio à fraqueza da construção.",
+        "body": "Hanssem e Hyundai Livart, as duas maiores empresas de móveis da Coreia do Sul, apresentaram desempenhos contrastantes no primeiro trimestre, em meio à desaceleração do setor de construção. Segundo o mk.co.kr, a Hanssem registrou lucro operacional de 10,1 bilhões de won no período, mostrando relativa resistência. Já a Hyundai Livart teve lucro operacional de 1,0 bilhão de won. A diferença veio da estrutura de negócios. A Hanssem tem maior participação de operações B2C, o que reduziu o impacto direto da fraqueza da construção. A Hyundai Livart, com maior peso em B2B, foi mais atingida pela retração. Com a piora geral dos resultados das empresas de móveis, a diferença entre negócios voltados ao consumidor e negócios ligados à construção se refletiu diretamente na rentabilidade. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hanssem und Hyundai Livart im 1. Quartal getrennt durch B2C- und B2B-Anteil",
+        "excerpt": "Südkoreas zwei größte Möbelunternehmen Hanssem und Hyundai Livart meldeten im ersten Quartal gegensätzliche Ergebnisse, da die Bauflaute B2B-lastige Geschäfte stärker traf.",
+        "body": "Hanssem und Hyundai Livart, die Nummer eins und zwei der südkoreanischen Möbelbranche, zeigten im ersten Quartal angesichts der anhaltenden Schwäche am Bau unterschiedliche Ergebnisse. Laut mk.co.kr erzielte Hanssem einen operativen Gewinn von 10,1 Milliarden Won und hielt sich damit vergleichsweise gut. Hyundai Livart kam dagegen nur auf 1,0 Milliarde Won operativen Gewinn. Der Unterschied lag in der Geschäftsstruktur. Hanssem hat einen höheren Anteil am B2C-Geschäft und war daher weniger direkt von der schwachen Baukonjunktur betroffen. Hyundai Livart ist stärker auf B2B ausgerichtet und spürte den Abschwung deutlicher. Während sich die Ergebnisse der Möbelunternehmen insgesamt verschlechtern, spiegelte sich der Anteil von Verbraucher- und baunahen Geschäften direkt in der Profitabilität wider. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hanssem et Hyundai Livart divergent au T1 selon leur poids B2C et B2B",
+        "excerpt": "Les deux premiers fabricants sud-coréens de meubles, Hanssem et Hyundai Livart, ont affiché des résultats contrastés au premier trimestre sous l’effet du ralentissement de la construction.",
+        "body": "Hanssem et Hyundai Livart, les deux premiers acteurs sud-coréens du meuble, ont publié des résultats contrastés au premier trimestre alors que le marché de la construction restait déprimé. Selon mk.co.kr, Hanssem a enregistré un bénéfice opérationnel de 10,1 milliards de wons, faisant preuve d’une résistance relative. Hyundai Livart, en revanche, n’a dégagé que 1,0 milliard de wons de bénéfice opérationnel. L’écart s’explique par la structure des activités. Hanssem dispose d’une part plus élevée d’activités B2C, ce qui a limité l’impact direct de la faiblesse de la construction. Hyundai Livart, plus exposé au B2B, a été davantage touché. Alors que les résultats des entreprises du meuble se détériorent globalement, la répartition entre activités grand public et activités liées à la construction s’est directement reflétée dans la rentabilité. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هانسيم وهيونداي ليفارت في الربع الأول: الفارق صنعه وزن B2C وB2B",
+        "excerpt": "سجلت أكبر شركتين للأثاث في كوريا الجنوبية، هانسيم وهيونداي ليفارت، نتائج متباينة في الربع الأول مع استمرار ركود قطاع البناء وتأثر الأعمال المرتبطة به.",
+        "body": "أظهرت هانسيم وهيونداي ليفارت، أكبر شركتين في قطاع الأثاث بكوريا الجنوبية، مسارين مختلفين في نتائج الربع الأول وسط استمرار تباطؤ سوق البناء. ووفقاً لـ mk.co.kr، سجلت هانسيم ربحاً تشغيلياً قدره 10.1 مليار وون في الربع الأول، ما عكس قدرة نسبية على الصمود. في المقابل، بلغ الربح التشغيلي لهيونداي ليفارت 1.0 مليار وون فقط. وجاء الفارق من هيكل الأعمال. فهانسيم تعتمد بدرجة أكبر على أعمال B2C، ما خفف الأثر المباشر لضعف البناء. أما هيونداي ليفارت فلديها حصة أعلى من أعمال B2B، لذلك تلقت تأثيراً أكبر من ركود البناء. ومع تدهور أرباح شركات الأثاث عموماً، انعكس الفرق بين الأعمال الموجهة للمستهلك وتلك المرتبطة بالبناء مباشرة على الربحية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Hanssem और Hyundai Livart के Q1 नतीजे, B2C-B2B हिस्सेदारी से बदली तस्वीर",
+        "excerpt": "दक्षिण कोरिया की शीर्ष दो फर्नीचर कंपनियों Hanssem और Hyundai Livart के पहली तिमाही नतीजे निर्माण क्षेत्र की मंदी के बीच अलग रहे। B2C और B2B हिस्सेदारी ने मुनाफे का अंतर बनाया।",
+        "body": "दक्षिण कोरिया की फर्नीचर उद्योग की शीर्ष दो कंपनियां Hanssem और Hyundai Livart निर्माण क्षेत्र की जारी मंदी के बीच पहली तिमाही में अलग-अलग प्रदर्शन करती दिखीं। mk.co.kr के अनुसार, Hanssem ने पहली तिमाही में 10.1 अरब वॉन का परिचालन लाभ दर्ज किया और अपेक्षाकृत बेहतर स्थिति में रही। इसके विपरीत, Hyundai Livart का परिचालन लाभ 1.0 अरब वॉन तक सीमित रहा। यह अंतर कारोबार की संरचना से आया। Hanssem में B2C कारोबार की हिस्सेदारी अधिक है, इसलिए निर्माण क्षेत्र की कमजोरी का सीधा असर अपेक्षाकृत कम रहा। Hyundai Livart में B2B हिस्सेदारी अधिक है, जिससे निर्माण मंदी का प्रभाव ज्यादा पड़ा। फर्नीचर कंपनियों के समग्र नतीजे कमजोर होने के बीच उपभोक्ता-केंद्रित और निर्माण-संबद्ध कारोबार की हिस्सेदारी सीधे लाभप्रदता में दिखाई दी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hanssem dan Hyundai Livart berbeda di kuartal I karena porsi B2C dan B2B",
+        "excerpt": "Dua perusahaan furnitur terbesar Korea Selatan, Hanssem dan Hyundai Livart, mencatat hasil kuartal pertama yang berbeda saat lesunya konstruksi menekan bisnis terkait B2B.",
+        "body": "Hanssem dan Hyundai Livart, dua perusahaan furnitur terbesar di Korea Selatan, menunjukkan kinerja berbeda pada kuartal pertama di tengah pelemahan berlanjut di sektor konstruksi. Menurut mk.co.kr, Hanssem membukukan laba operasi 10,1 miliar won pada kuartal pertama dan relatif mampu bertahan. Sebaliknya, laba operasi Hyundai Livart hanya mencapai 1,0 miliar won. Perbedaan itu berasal dari struktur bisnis. Hanssem memiliki porsi bisnis B2C yang lebih tinggi, sehingga dampak langsung dari lesunya konstruksi relatif lebih kecil. Hyundai Livart memiliki porsi B2B lebih besar dan lebih terdampak oleh pelemahan konstruksi. Saat kinerja perusahaan furnitur secara umum memburuk, perbedaan porsi bisnis konsumen dan bisnis terkait konstruksi langsung tercermin pada profitabilitas. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "0c5f46e5d1e9",
+    "slug": "젠슨-황이-찜한-이-회사세상에서-제일-빠른-유리로-美-증시-씹어먹는-중-942703",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T15:46:54.612Z",
+    "updatedAt": "2026-05-12T15:46:54.612Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044683",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044683",
+    "titleFingerprint": "e73c5911e6cb5227567abfdb58426b42b7a21b46",
+    "dedupKeys": [
+      "0c5f46e5d1e9bf6748180933d7d90cc7e446b8ba",
+      "e73c5911e6cb5227567abfdb58426b42b7a21b46",
+      "c101a2b52bcec8a19e5156145da2778e1e0a8bea"
+    ],
+    "imageUrl": "/images/articles/0c5f46e5d1e9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "엔비디아·코닝 ‘빛의 동맹’…젠슨 황이 택한 유리 기업에 시장 주목",
+        "excerpt": "엔비디아가 5월 들어 AI 생태계 투자를 확대하는 가운데 코닝과 계약을 맺었다. 젠슨 황이 주목한 ‘빠른 유리’ 기술이 미국 증시 관심을 끌고 있다.",
+        "body": "엔비디아와 코닝이 5월 인공지능(AI) 생태계 확장 흐름 속에서 이른바 ‘빛의 동맹’을 맺었다. 원문에 따르면 엔비디아는 최근 AI 관련 분야에 적극적으로 자금을 투입하고 있으며, 그중 하나가 코닝과의 계약이다. 코닝은 ‘세상에서 제일 빠른 유리’로 소개된 기술을 앞세워 미국 증시에서 주목받고 있다. 이번 계약은 AI 인프라 경쟁이 하드웨어와 소재 영역으로 넓어지고 있음을 보여준다. 다만 구체적인 계약 규모나 실적 영향은 원문에 제시되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Nvidia-Corning ‘Light Alliance’ Puts Jensen Huang’s Glass Pick in Focus",
+        "excerpt": "Nvidia signed a deal with Corning in May as it expands spending across the AI ecosystem. The glass company highlighted by Jensen Huang is drawing attention in U.S. markets.",
+        "body": "Nvidia and Corning formed what the original report calls a ‘light alliance’ in May, amid Nvidia’s broader push to expand its artificial intelligence ecosystem. According to the report, Nvidia has been spending aggressively on AI-related areas this month, and one of those moves is its contract with Corning. Corning is being spotlighted for technology described as the ‘world’s fastest glass’ and is gaining attention in the U.S. stock market. The deal shows how AI infrastructure competition is extending beyond chips into hardware and materials. The report did not provide a specific contract value or earnings impact. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "エヌビディアとコーニングが光の同盟、ジェンスン・フアン氏注目のガラス企業",
+        "excerpt": "エヌビディアは5月、AIエコシステムへの投資を広げる中でコーニングと契約した。フアン氏が注目した高速ガラス技術に米株式市場の関心が集まっている。",
+        "body": "エヌビディアとコーニングは5月、人工知能（AI）エコシステム拡大の流れの中で、原文がいう『光の同盟』を結んだ。報道によると、エヌビディアは今月、AI関連分野に積極的に資金を投じており、その一つがコーニングとの契約だ。コーニングは『世界で最も速いガラス』と紹介された技術を前面に出し、米株式市場で注目されている。今回の契約は、AIインフラ競争が半導体だけでなくハードウェアや素材分野へ広がっていることを示す。ただし、具体的な契約規模や業績への影響は原文では示されていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "英伟达携手康宁结成“光之联盟”，黄仁勋看中的玻璃公司受关注",
+        "excerpt": "英伟达5月在扩大AI生态投资之际与康宁签约。黄仁勋关注的高速玻璃技术，正成为美国股市投资者讨论的焦点之一。",
+        "body": "英伟达与康宁在5月人工智能（AI）生态扩张的背景下，结成原文所称的“光之联盟”。据报道，英伟达本月正积极向AI相关领域投入资金，其中一项动作就是与康宁签订合同。康宁凭借被称为“世界上最快的玻璃”的技术，在美国股市受到关注。该合作显示，AI基础设施竞争正在从芯片延伸到硬件和材料领域。不过，原文未披露具体合同金额，也未给出对业绩影响的量化说明。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Nvidia y Corning sellan una ‘alianza de luz’ que pone foco en el vidrio veloz",
+        "excerpt": "Nvidia firmó en mayo un contrato con Corning mientras amplía su inversión en el ecosistema de IA. La firma de vidrio asociada a Jensen Huang atrae atención en Wall Street.",
+        "body": "Nvidia y Corning sellaron en mayo lo que el informe original llama una ‘alianza de luz’, dentro del avance de Nvidia para ampliar su ecosistema de inteligencia artificial (IA). Según el reporte, Nvidia ha estado destinando fuertes recursos a áreas vinculadas con la IA durante este mes, y una de esas decisiones es el contrato con Corning. La compañía destaca por una tecnología presentada como el ‘vidrio más rápido del mundo’ y está captando interés en el mercado bursátil estadounidense. El acuerdo muestra que la competencia en infraestructura de IA se extiende de los chips al hardware y los materiales. El texto no detalla el valor del contrato ni su impacto en resultados. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Nvidia e Corning fecham ‘aliança de luz’ e vidro escolhido por Huang ganha foco",
+        "excerpt": "A Nvidia fechou em maio um acordo com a Corning enquanto amplia investimentos no ecossistema de IA. A empresa de vidro ligada a Jensen Huang chama atenção no mercado dos EUA.",
+        "body": "Nvidia e Corning firmaram em maio o que o texto original chama de ‘aliança de luz’, em meio ao avanço da Nvidia para ampliar seu ecossistema de inteligência artificial (IA). Segundo a reportagem, a Nvidia vem destinando recursos de forma ativa a áreas relacionadas à IA neste mês, e uma dessas iniciativas é o contrato com a Corning. A empresa é destacada por uma tecnologia descrita como o ‘vidro mais rápido do mundo’ e vem atraindo atenção no mercado acionário dos EUA. O acordo mostra que a disputa por infraestrutura de IA se estende dos chips para hardware e materiais. O texto não informa valor do contrato nem impacto específico nos resultados. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Nvidia und Corning schließen ‘Licht-Allianz’: Huangs Glasfavorit im Fokus",
+        "excerpt": "Nvidia hat im Mai im Zuge höherer Ausgaben für das KI-Ökosystem einen Vertrag mit Corning geschlossen. Das von Jensen Huang beachtete schnelle Glas rückt an der US-Börse in den Blick.",
+        "body": "Nvidia und Corning haben im Mai im Umfeld des Ausbaus des Ökosystems für künstliche Intelligenz (KI) eine vom Originalbericht so genannte ‘Licht-Allianz’ geschlossen. Dem Bericht zufolge investiert Nvidia in diesem Monat aktiv Geld in KI-nahe Bereiche; einer dieser Schritte ist der Vertrag mit Corning. Corning wird mit einer Technologie hervorgehoben, die als ‘schnellstes Glas der Welt’ beschrieben wird, und zieht Aufmerksamkeit am US-Aktienmarkt auf sich. Die Vereinbarung zeigt, dass der Wettbewerb um KI-Infrastruktur über Chips hinaus auf Hardware und Materialien übergreift. Konkrete Angaben zu Vertragswert oder Ergebniseffekt nennt der Bericht nicht. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Nvidia et Corning nouent une ‘alliance de lumière’, le verre suivi par Huang attire",
+        "excerpt": "Nvidia a signé en mai un contrat avec Corning alors qu’elle accroît ses dépenses dans l’écosystème de l’IA. La société de verre mise en avant par Jensen Huang attire l’attention aux États-Unis.",
+        "body": "Nvidia et Corning ont conclu en mai ce que le texte original appelle une ‘alliance de lumière’, dans le contexte de l’expansion de l’écosystème de l’intelligence artificielle (IA) de Nvidia. Selon l’article, Nvidia consacre ce mois-ci des moyens importants à des domaines liés à l’IA, et l’un de ces mouvements est son contrat avec Corning. Corning est mise en avant pour une technologie décrite comme le ‘verre le plus rapide du monde’ et suscite l’intérêt sur le marché boursier américain. Cet accord montre que la concurrence dans l’infrastructure IA s’étend des puces au matériel et aux matériaux. Le montant du contrat et son effet sur les résultats ne sont pas précisés. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إنفيديا وكورنينغ في ‘تحالف الضوء’ وزجاج اختاره جنسن هوانغ تحت الأنظار",
+        "excerpt": "وقعت إنفيديا في مايو عقدا مع كورنينغ مع توسيع إنفاقها على منظومة الذكاء الاصطناعي. تقنية الزجاج السريع التي لفتت نظر جنسن هوانغ تجذب اهتمام سوق الأسهم الأميركية.",
+        "body": "أبرمت إنفيديا وكورنينغ في مايو ما وصفه النص الأصلي بأنه ‘تحالف الضوء’، ضمن مسار توسيع منظومة الذكاء الاصطناعي لدى إنفيديا. ووفقا للتقرير، تضخ إنفيديا هذا الشهر أموالا بنشاط في مجالات مرتبطة بالذكاء الاصطناعي، ومن بين هذه الخطوات عقدها مع كورنينغ. وتبرز كورنينغ بتقنية جرى تقديمها على أنها ‘أسرع زجاج في العالم’، ما جعلها محط اهتمام في سوق الأسهم الأميركية. يوضح الاتفاق أن منافسة بنية الذكاء الاصطناعي لا تقتصر على الرقائق، بل تمتد إلى العتاد والمواد. ولم يذكر النص قيمة العقد أو أثرا محددا على النتائج. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "एनवीडिया-कॉर्निंग ‘लाइट अलायंस’, जेन्सन हुआंग की पसंद बनी ग्लास कंपनी",
+        "excerpt": "एनवीडिया ने मई में AI इकोसिस्टम पर खर्च बढ़ाते हुए कॉर्निंग से करार किया। जेन्सन हुआंग से जुड़ी तेज ग्लास तकनीक अमेरिकी शेयर बाजार में ध्यान खींच रही है।",
+        "body": "एनवीडिया और कॉर्निंग ने मई में कृत्रिम बुद्धिमत्ता (AI) इकोसिस्टम के विस्तार के बीच वह समझौता किया जिसे मूल रिपोर्ट ने ‘लाइट अलायंस’ कहा है। रिपोर्ट के अनुसार, एनवीडिया इस महीने AI से जुड़े क्षेत्रों में सक्रिय रूप से धन लगा रही है, और उन्हीं कदमों में कॉर्निंग के साथ अनुबंध शामिल है। कॉर्निंग को ‘दुनिया का सबसे तेज ग्लास’ कही गई तकनीक के कारण अमेरिकी शेयर बाजार में ध्यान मिल रहा है। यह करार दिखाता है कि AI इन्फ्रास्ट्रक्चर की प्रतिस्पर्धा चिप्स से आगे हार्डवेयर और सामग्री क्षेत्र तक फैल रही है। मूल लेख में अनुबंध राशि या आय पर असर का विवरण नहीं दिया गया है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Nvidia-Corning Bentuk ‘Aliansi Cahaya’, Perusahaan Kaca Pilihan Huang Disorot",
+        "excerpt": "Nvidia meneken kontrak dengan Corning pada Mei saat memperluas belanja untuk ekosistem AI. Teknologi kaca cepat yang dikaitkan dengan Jensen Huang menarik perhatian pasar saham AS.",
+        "body": "Nvidia dan Corning pada Mei membentuk apa yang disebut laporan asli sebagai ‘aliansi cahaya’ di tengah upaya Nvidia memperluas ekosistem kecerdasan buatan (AI). Menurut laporan tersebut, Nvidia bulan ini aktif menggelontorkan dana ke bidang terkait AI, dan salah satu langkahnya adalah kontrak dengan Corning. Corning disorot berkat teknologi yang digambarkan sebagai ‘kaca tercepat di dunia’ dan menarik perhatian di pasar saham AS. Kesepakatan ini menunjukkan persaingan infrastruktur AI meluas dari chip ke perangkat keras dan material. Laporan asli tidak menyebutkan nilai kontrak atau dampak spesifik terhadap kinerja. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "2bf7c825dfab",
     "slug": "배터리태양광-전략산업-보호하려면직접환급제-절실-404007",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Saham Semikonduktor Dorong S&P 500 dan Nasdaq ke Rekor Meski Timur Tengah Gelisah",
         "excerpt": "Di Wall Street, S&P 500 dan Nasdaq melanjutkan rekor tertinggi berkat penguatan saham semikonduktor meski ada kekhawatiran Timur Tengah.",
         "body": "Bursa saham New York mempertahankan tren kenaikan meski dibayangi ketidakstabilan di Timur Tengah, ditopang oleh penguatan saham terkait semikonduktor. Indeks S&P 500 dan Nasdaq terus mencatat rekor tertinggi, dengan aksi beli pada saham teknologi disebut memimpin pasar. Ketegangan geopolitik dapat membatasi minat terhadap aset berisiko, tetapi sektor semikonduktor menopang kenaikan indeks dan menjaga sentimen investor. Perhatian pasar kini tertuju pada apakah ketidakpastian di Timur Tengah akan meluas dan apakah kekuatan saham semikonduktor dapat terus mendukung kenaikan indeks utama. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "a9050a03b074",
-    "slug": "원익qnc-분석-실적-발표-후-9-빠진-주가주목해야-할-핵심-변수는-771194",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T22:44:56.942Z",
-    "updatedAt": "2026-05-11T22:44:56.942Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605118814i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605118814i",
-    "titleFingerprint": "c6d6be2f36c44e67aeabf1bc7628e2bea3629c9b",
-    "dedupKeys": [
-      "a9050a03b07458e2f86a09380387019fb297b2c1",
-      "c6d6be2f36c44e67aeabf1bc7628e2bea3629c9b",
-      "e1d6bdf1ba1fc10be6705f3df3b591fe3a2a7997"
-    ],
-    "imageUrl": "/images/articles/a9050a03b074.jpg",
-    "i18n": {
-      "ko": {
-        "title": "원익QnC 주가 9% 하락, 실적 발표 뒤 확인할 핵심 변수",
-        "excerpt": "원익QnC 주가가 실적 발표 이후 9% 빠진 가운데, 투자자들은 실적 발표 내용과 향후 주가 흐름에 영향을 줄 핵심 변수를 점검해야 하는 상황이다.",
-        "body": "원익QnC는 실적 발표 이후 주가가 9% 하락하며 시장의 관심을 받았다. 이번 이슈의 핵심은 발표된 실적이 투자심리에 어떤 영향을 줬는지, 그리고 이후 주가 흐름을 좌우할 변수가 무엇인지다. 제공된 원문 정보상 구체적인 매출, 영업이익, 전망치 등 세부 수치는 공개되지 않았지만, 제목은 실적 발표 직후 주가 하락폭이 9%였다는 점을 분명히 제시한다. 투자자들은 추가 공시와 후속 보도를 통해 실적 세부 내용과 주요 변수의 변화를 확인할 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Wonik QnC Shares Fall 9% After Earnings: Key Variables to Watch",
-        "excerpt": "Wonik QnC shares dropped 9% after its earnings announcement, putting investor focus on the reported results and the key variables that may shape the stock’s next move.",
-        "body": "Wonik QnC drew market attention after its share price fell 9% following an earnings announcement. The central issue is how the reported results affected investor sentiment and which key variables could influence the stock’s direction from here. Based on the information provided, detailed figures such as revenue, operating profit, or forecasts were not included, but the headline clearly states that the stock declined 9% after the earnings release. Investors may need to review additional filings and follow-up reports to confirm the detailed results and changes in the main variables. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ウォニクQnC株9%下落、決算発表後に注目すべき変数",
-        "excerpt": "ウォニクQnCの株価は決算発表後に9%下落し、投資家の関心は発表内容と今後の株価を左右し得る主要な変数に集まっている。",
-        "body": "ウォニクQnCは決算発表後、株価が9%下落し市場の注目を集めた。今回の焦点は、発表された決算が投資心理にどのような影響を与えたのか、そして今後の株価推移を左右する主要な変数が何かという点だ。提供された原文情報では、売上高、営業利益、見通しなどの具体的な数値は示されていないが、見出しは決算発表直後の株価下落率が9%だったことを明確に伝えている。投資家は追加開示や続報を通じて、決算の詳細と主要変数の変化を確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Wonik QnC财报后股价下跌9%，关键变量成关注焦点",
-        "excerpt": "Wonik QnC在业绩发布后股价下跌9%，投资者关注业绩内容以及可能影响后续股价走势的关键变量。",
-        "body": "Wonik QnC在业绩发布后股价下跌9%，引发市场关注。本次事件的核心在于，已发布的业绩对投资情绪产生了怎样的影响，以及哪些关键变量可能左右之后的股价走势。根据所提供的原文信息，收入、营业利润、业绩展望等具体数据并未列出，但标题明确指出，业绩发布后股价跌幅为9%。投资者需要通过后续公告和相关报道，进一步确认业绩细节以及主要变量的变化。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Wonik QnC cae 9% tras resultados: variables clave bajo la lupa",
-        "excerpt": "Las acciones de Wonik QnC cayeron 9% después de la publicación de resultados, centrando la atención en las cifras anunciadas y en las variables que pueden influir en el precio.",
-        "body": "Wonik QnC captó la atención del mercado después de que su acción cayera 9% tras la publicación de resultados. El punto central es cómo esos resultados influyeron en el ánimo de los inversionistas y qué variables clave podrían afectar la evolución posterior del precio. Según la información original proporcionada, no se incluyeron cifras concretas de ingresos, beneficio operativo o previsiones, pero el titular deja claro que la caída posterior al anuncio fue de 9%. Los inversionistas deberán revisar comunicados adicionales y reportes posteriores para confirmar los detalles del desempeño y los cambios en las principales variables. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Wonik QnC cai 9% após resultados: variáveis-chave em foco",
-        "excerpt": "As ações da Wonik QnC recuaram 9% após a divulgação de resultados, levando investidores a observar os números anunciados e as variáveis que podem afetar o preço.",
-        "body": "A Wonik QnC chamou a atenção do mercado depois que suas ações caíram 9% após a divulgação de resultados. O ponto central é como os resultados anunciados afetaram o sentimento dos investidores e quais variáveis-chave podem influenciar a trajetória das ações daqui em diante. Com base nas informações fornecidas, não foram apresentados dados detalhados de receita, lucro operacional ou projeções, mas o título afirma claramente que a queda após o anúncio foi de 9%. Investidores devem acompanhar comunicados adicionais e reportagens posteriores para confirmar os detalhes dos resultados e as mudanças nas principais variáveis. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Wonik QnC verliert 9% nach Zahlen: Diese Faktoren rücken in den Fokus",
-        "excerpt": "Die Aktie von Wonik QnC fiel nach der Ergebnisveröffentlichung um 9%, wodurch die gemeldeten Zahlen und zentrale Einflussfaktoren für den weiteren Kursverlauf in den Blick rücken.",
-        "body": "Wonik QnC rückte in den Fokus des Marktes, nachdem die Aktie nach der Veröffentlichung der Geschäftszahlen um 9% gefallen war. Entscheidend ist, wie die gemeldeten Ergebnisse die Anlegerstimmung beeinflusst haben und welche zentralen Variablen den weiteren Kursverlauf prägen könnten. Aus den bereitgestellten Originalinformationen gehen keine konkreten Angaben zu Umsatz, operativem Gewinn oder Prognosen hervor, doch die Überschrift nennt eindeutig einen Kursrückgang von 9% nach der Veröffentlichung. Anleger sollten weitere Mitteilungen und Anschlussberichte prüfen, um Details der Ergebnisse und Veränderungen der wichtigsten Variablen zu bestätigen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Wonik QnC recule de 9% après ses résultats: variables clés à suivre",
-        "excerpt": "L’action Wonik QnC a chuté de 9% après la publication des résultats, attirant l’attention sur les chiffres annoncés et les variables susceptibles d’influencer la suite.",
-        "body": "Wonik QnC a attiré l’attention du marché après une baisse de 9% de son action à la suite de la publication de ses résultats. L’enjeu principal est de comprendre comment ces résultats ont pesé sur le sentiment des investisseurs et quelles variables clés pourraient influencer l’évolution du titre. D’après les informations originales fournies, aucun détail chiffré sur le chiffre d’affaires, le résultat opérationnel ou les prévisions n’est mentionné, mais le titre indique clairement une baisse de 9% après l’annonce. Les investisseurs devront consulter les publications complémentaires et les articles de suivi pour confirmer les détails des résultats et l’évolution des principales variables. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سهم Wonik QnC يهبط 9% بعد النتائج والمتغيرات الأساسية تحت المجهر",
-        "excerpt": "هبط سهم Wonik QnC بنسبة 9% بعد إعلان النتائج، ما جعل المستثمرين يركزون على مضمون الإعلان والمتغيرات الرئيسية التي قد تؤثر في مسار السهم لاحقا.",
-        "body": "جذب سهم Wonik QnC اهتمام السوق بعدما تراجع بنسبة 9% عقب إعلان النتائج. وتتمثل القضية الأساسية في كيفية تأثير النتائج المعلنة على معنويات المستثمرين، وما المتغيرات الرئيسية التي قد تحدد اتجاه السهم في الفترة المقبلة. وبحسب المعلومات الأصلية المقدمة، لم تُذكر أرقام تفصيلية مثل الإيرادات أو الربح التشغيلي أو التوقعات، لكن العنوان يوضح بجلاء أن السهم انخفض 9% بعد إعلان النتائج. لذلك يحتاج المستثمرون إلى متابعة الإفصاحات اللاحقة والتقارير التالية للتحقق من تفاصيل الأداء وتغير المتغيرات الرئيسية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Wonik QnC नतीजों के बाद 9% गिरा, प्रमुख कारकों पर नजर",
-        "excerpt": "Wonik QnC का शेयर नतीजों की घोषणा के बाद 9% गिरा, जिससे निवेशकों का ध्यान घोषित प्रदर्शन और आगे शेयर चाल को प्रभावित करने वाले मुख्य कारकों पर गया।",
-        "body": "Wonik QnC ने नतीजों की घोषणा के बाद शेयर में 9% गिरावट के कारण बाजार का ध्यान खींचा। मुख्य सवाल यह है कि घोषित नतीजों ने निवेशक धारणा को कैसे प्रभावित किया और आगे शेयर की दिशा तय करने वाले प्रमुख कारक कौन से हो सकते हैं। उपलब्ध मूल जानकारी में राजस्व, परिचालन लाभ या अनुमान जैसे विस्तृत आंकड़े शामिल नहीं हैं, लेकिन शीर्षक स्पष्ट करता है कि नतीजों के बाद शेयर 9% गिरा। निवेशकों को प्रदर्शन के विवरण और प्रमुख कारकों में बदलाव की पुष्टि के लिए अतिरिक्त खुलासों और आगे की रिपोर्टों को देखना होगा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Saham Wonik QnC Turun 9% Usai Kinerja, Variabel Kunci Disorot",
-        "excerpt": "Saham Wonik QnC turun 9% setelah pengumuman kinerja, membuat investor menyoroti isi laporan dan variabel utama yang dapat memengaruhi arah harga berikutnya.",
-        "body": "Wonik QnC menjadi perhatian pasar setelah harga sahamnya turun 9% seusai pengumuman kinerja. Isu utamanya adalah bagaimana hasil yang diumumkan memengaruhi sentimen investor dan variabel kunci apa yang dapat menentukan arah saham selanjutnya. Berdasarkan informasi asli yang diberikan, angka rinci seperti pendapatan, laba operasional, atau proyeksi tidak dicantumkan, tetapi judulnya secara jelas menyebut penurunan 9% setelah rilis kinerja. Investor perlu memeriksa keterbukaan tambahan dan laporan lanjutan untuk memastikan rincian hasil serta perubahan pada variabel utama. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "823765ce82ff",
-    "slug": "구윤철-올해-성장률-2-상회-예상증시-여전히-저평가-394292",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T22:43:51.825Z",
-    "updatedAt": "2026-05-11T22:43:51.825Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605118527i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605118527i",
-    "titleFingerprint": "5a743977ae039cbd4dcf6888a36e33b5eeed2a83",
-    "dedupKeys": [
-      "823765ce82ff3d3b53f927d1766319186a76a981",
-      "5a743977ae039cbd4dcf6888a36e33b5eeed2a83",
-      "3b12d44a52beddc9ee85b609340140a2e757fe8f"
-    ],
-    "imageUrl": "/images/articles/823765ce82ff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "구윤철 성장률 2% 상회 전망, 한국 증시 저평가 진단 주목",
-        "excerpt": "구윤철 부총리 겸 기획재정부 장관은 5월 11일 기자간담회에서 올해 성장률이 2%를 웃돌 것으로 보고, 한국 증시는 PBR 기준 여전히 저평가됐다고 밝혔다.",
-        "body": "구윤철 부총리 겸 기획재정부 장관은 5월 11일 정부세종청사 기자간담회에서 올해 한국 경제성장률이 2%를 상회할 것으로 예상한다고 밝혔다. 상세 전망치는 다음달 발표할 하반기 경제성장전략에서 제시할 계획이다. 정부는 지난 1월 올해 성장률을 2%로 전망했으나, 1분기 성장률이 1.7%로 한국은행의 2월 전망치 0.9%를 크게 웃돌자 눈높이를 높였다. 구 부총리는 1~2월 수출이 세계 5위로 일본과 이탈리아를 넘어섰고, 1분기 경상수지 흑자가 738억달러로 역대 최대였다고 설명했다. 코스피 7800선 돌파와 관련해서는 PBR 기준 한국 증시가 선진국 대비 낮다고 말했다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Koo Yun-cheol Sees Korea Growth Above 2%, Says Stocks Remain Undervalued",
-        "excerpt": "Deputy Prime Minister and Finance Minister Koo Yun-cheol said on May 11 that Korea’s 2026 growth is expected to exceed 2%, while local stocks remain undervalued on a PBR basis.",
-        "body": "Deputy Prime Minister and Finance Minister Koo Yun-cheol said at a press briefing at the Government Complex Sejong on May 11 that South Korea’s economy is expected to grow by more than 2% this year. He said detailed figures will be presented next month in the government’s second-half economic growth strategy. The government had forecast 2% growth in January, but raised its view after first-quarter GDP growth reached 1.7%, far above the Bank of Korea’s February estimate of 0.9%. Koo cited exports, saying Korea ranked fifth globally in January-February, ahead of Japan and Italy, and posted a record current-account surplus of $73.8 billion in the first quarter. On the Kospi surpassing 7,800, he said Korean stocks remain low versus developed markets on a PBR basis. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "具潤哲氏、韓国成長率2％超を予想　株式市場はなお割安と診断",
-        "excerpt": "具潤哲副首相兼企画財政部長官は5月11日、今年の韓国成長率は2％を上回る見通しで、韓国株はPBR基準でなお割安だと述べた。",
-        "body": "具潤哲副首相兼企画財政部長官は5月11日、政府世宗庁舎で開いた記者懇談会で、今年の韓国経済成長率は2％を上回るとの見通しを示した。詳細な予測値は来月発表する下半期経済成長戦略で提示する計画だ。政府は1月に今年の成長率を2％と見込んでいたが、1～3月期成長率が1.7％となり、韓国銀行が2月に示した0.9％を大きく上回ったため、見通しを引き上げた。具氏は、1～2月の輸出が世界5位となり日本とイタリアを上回り、1～3月期の経常黒字が738億ドルで過去最大だったと説明した。コスピが7800台を突破したことについては、PBR基準で韓国株は先進国に比べ低い水準だと述べた。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "具润哲预计韩国增长率超2%，称韩股按PBR看仍被低估",
-        "excerpt": "韩国副总理兼企划财政部长官具润哲5月11日表示，今年韩国经济增长率预计超过2%，韩国股市按市净率衡量仍低于发达市场水平。",
-        "body": "韩国副总理兼企划财政部长官具润哲5月11日在政府世宗办公楼举行记者座谈会时表示，预计今年韩国经济增长率将超过2%。他称，具体预测值将在下月发布的下半年经济增长战略中提出。韩国政府1月曾预测今年增长率为2%，但一季度增长率达到1.7%，明显高于韩国银行2月提出的0.9%预期，因此政府上调了判断。具润哲表示，1至2月韩国出口升至全球第五，超过日本和意大利，一季度经常账户顺差为738亿美元，创历史新高。对于KOSPI首次突破7800点，他称按市净率看，韩国股市相较发达国家仍处于较低水平。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Koo Yun-cheol prevé crecimiento sobre 2% y ve la bolsa coreana infravalorada",
-        "excerpt": "Koo Yun-cheol, vice primer ministro y ministro de Finanzas, dijo el 11 de mayo que Corea crecería más del 2% este año y que sus acciones siguen baratas por PBR.",
-        "body": "Koo Yun-cheol, vice primer ministro y ministro de Finanzas, dijo el 11 de mayo en una rueda de prensa en el Complejo Gubernamental de Sejong que la economía surcoreana crecería más del 2% este año. Las cifras detalladas se presentarán el próximo mes en la estrategia económica para el segundo semestre. El Gobierno había previsto en enero un crecimiento del 2%, pero elevó su visión después de que el PIB del primer trimestre creciera un 1,7%, muy por encima del 0,9% estimado por el Banco de Corea en febrero. Koo citó las exportaciones: Corea ocupó el quinto lugar mundial en enero-febrero, por delante de Japón e Italia, y registró un superávit por cuenta corriente récord de 73.800 millones de dólares en el primer trimestre. Sobre el Kospi por encima de 7.800, dijo que la bolsa coreana sigue baja frente a mercados desarrollados por PBR. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Koo Yun-cheol vê crescimento acima de 2% e bolsa coreana ainda descontada",
-        "excerpt": "Koo Yun-cheol, vice-primeiro-ministro e ministro das Finanças, disse em 11 de maio que a Coreia deve crescer mais de 2% neste ano e que as ações seguem baratas por PBR.",
-        "body": "Koo Yun-cheol, vice-primeiro-ministro e ministro das Finanças, afirmou em 11 de maio, em coletiva no Complexo Governamental de Sejong, que a economia sul-coreana deve crescer mais de 2% neste ano. Os números detalhados serão apresentados no próximo mês na estratégia de crescimento econômico para o segundo semestre. O governo previa em janeiro crescimento de 2%, mas elevou a avaliação depois que o PIB do primeiro trimestre avançou 1,7%, bem acima da projeção de 0,9% do Banco da Coreia em fevereiro. Koo citou as exportações: a Coreia ficou em quinto lugar no mundo em janeiro-fevereiro, superando Japão e Itália, e registrou superávit em conta corrente recorde de US$ 73,8 bilhões no primeiro trimestre. Sobre o Kospi acima de 7.800, disse que a bolsa coreana segue baixa ante mercados desenvolvidos pelo PBR. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Koo Yun-cheol erwartet Wachstum über 2 Prozent, koreanische Aktien weiter günstig",
-        "excerpt": "Vizepremier und Finanzminister Koo Yun-cheol sagte am 11. Mai, Koreas Wachstum dürfte 2026 über 2% liegen; gemessen am PBR seien heimische Aktien weiter niedrig bewertet.",
-        "body": "Vizepremier und Finanzminister Koo Yun-cheol sagte am 11. Mai bei einem Pressegespräch im Regierungskomplex Sejong, Südkoreas Wirtschaft werde in diesem Jahr voraussichtlich um mehr als 2% wachsen. Detaillierte Zahlen sollen im kommenden Monat in der Wachstumsstrategie für das zweite Halbjahr vorgestellt werden. Die Regierung hatte im Januar 2% Wachstum prognostiziert, hob ihre Einschätzung aber an, nachdem das BIP im ersten Quartal um 1,7% gewachsen war und damit die Februar-Prognose der Bank of Korea von 0,9% deutlich übertraf. Koo verwies auf die Exporte: Korea lag im Januar und Februar weltweit auf Rang fünf, vor Japan und Italien, und erzielte im ersten Quartal einen Rekordüberschuss in der Leistungsbilanz von 73,8 Mrd. Dollar. Zum Kospi über 7.800 sagte er, koreanische Aktien seien nach PBR gegenüber Industrieländern weiter niedrig bewertet. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Koo Yun-cheol prévoit une croissance supérieure à 2% et juge la Bourse sous-évaluée",
-        "excerpt": "Le vice-Premier ministre et ministre des Finances Koo Yun-cheol a déclaré le 11 mai que la Corée devrait croître de plus de 2% et que ses actions restent sous-évaluées au PBR.",
-        "body": "Le vice-Premier ministre et ministre des Finances Koo Yun-cheol a déclaré le 11 mai, lors d’un point presse au complexe gouvernemental de Sejong, que l’économie sud-coréenne devrait croître de plus de 2% cette année. Les chiffres détaillés seront présentés le mois prochain dans la stratégie économique du second semestre. Le gouvernement avait prévu en janvier une croissance de 2%, mais il a relevé son appréciation après une hausse du PIB de 1,7% au premier trimestre, nettement supérieure à la prévision de 0,9% publiée par la Banque de Corée en février. Koo a cité les exportations: la Corée s’est classée cinquième mondiale en janvier-février, devant le Japon et l’Italie, et a enregistré un excédent courant record de 73,8 milliards de dollars au premier trimestre. À propos du Kospi au-dessus de 7.800, il a dit que les actions coréennes restent basses face aux marchés développés selon le PBR. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "كو يون تشول يتوقع نموا فوق 2% ويرى الأسهم الكورية ما زالت مقومة بأقل من قيمتها",
-        "excerpt": "قال نائب رئيس الوزراء ووزير المالية كو يون تشول في 11 مايو إن نمو كوريا هذا العام مرشح لتجاوز 2%، وإن الأسهم المحلية لا تزال منخفضة التقييم وفق معيار السعر إلى القيمة الدفترية.",
-        "body": "قال نائب رئيس الوزراء ووزير المالية كو يون تشول في مؤتمر صحفي بالمجمع الحكومي في سيجونغ يوم 11 مايو إن اقتصاد كوريا الجنوبية من المتوقع أن ينمو بأكثر من 2% هذا العام. وأضاف أن الأرقام التفصيلية ستعرض الشهر المقبل ضمن استراتيجية النمو الاقتصادي للنصف الثاني. وكانت الحكومة قد توقعت في يناير نموا قدره 2%، لكنها رفعت تقديرها بعدما بلغ نمو الربع الأول 1.7%، متجاوزا بوضوح توقع بنك كوريا في فبراير البالغ 0.9%. وأشار كو إلى الصادرات، موضحا أن كوريا احتلت المركز الخامس عالميا في يناير وفبراير متقدمة على اليابان وإيطاليا، وأن فائض الحساب الجاري في الربع الأول بلغ رقما قياسيا قدره 73.8 مليار دولار. وبشأن تجاوز كوسبي مستوى 7800، قال إن الأسهم الكورية لا تزال منخفضة مقارنة بالأسواق المتقدمة وفق معيار PBR. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "कू यून-चोल ने 2% से अधिक वृद्धि का अनुमान जताया, कोरियाई शेयर अब भी सस्ते",
-        "excerpt": "उप प्रधानमंत्री और वित्त मंत्री कू यून-चोल ने 11 मई को कहा कि इस साल कोरिया की वृद्धि 2% से ऊपर रह सकती है और PBR आधार पर शेयर बाजार अब भी कम मूल्यांकित है।",
-        "body": "उप प्रधानमंत्री और वित्त मंत्री कू यून-चोल ने 11 मई को सेजोंग सरकारी परिसर में प्रेस ब्रीफिंग में कहा कि दक्षिण कोरिया की अर्थव्यवस्था इस साल 2% से अधिक बढ़ने की उम्मीद है। विस्तृत अनुमान अगले महीने जारी होने वाली दूसरी छमाही की आर्थिक वृद्धि रणनीति में दिए जाएंगे। सरकार ने जनवरी में 2% वृद्धि का अनुमान लगाया था, लेकिन पहली तिमाही की वृद्धि 1.7% रही, जो बैंक ऑफ कोरिया के फरवरी अनुमान 0.9% से काफी अधिक थी, इसलिए सरकार ने अपना आकलन बढ़ाया। कू ने निर्यात को वजह बताया: जनवरी-फरवरी में कोरिया दुनिया में पांचवें स्थान पर रहा, जापान और इटली से आगे, और पहली तिमाही में चालू खाते का अधिशेष रिकॉर्ड 73.8 अरब डॉलर रहा। कोस्पी के 7,800 से ऊपर जाने पर उन्होंने कहा कि PBR आधार पर कोरियाई शेयर विकसित बाजारों की तुलना में अभी भी निचले स्तर पर हैं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Koo Yun-cheol Perkirakan Pertumbuhan di Atas 2%, Saham Korea Masih Murah",
-        "excerpt": "Wakil PM sekaligus Menteri Keuangan Koo Yun-cheol pada 11 Mei mengatakan ekonomi Korea tahun ini diperkirakan tumbuh di atas 2%, sementara saham lokal masih rendah berbasis PBR.",
-        "body": "Wakil Perdana Menteri sekaligus Menteri Keuangan Koo Yun-cheol mengatakan dalam jumpa pers di Kompleks Pemerintah Sejong pada 11 Mei bahwa ekonomi Korea Selatan diperkirakan tumbuh lebih dari 2% tahun ini. Angka rinci akan disampaikan bulan depan dalam strategi pertumbuhan ekonomi semester kedua. Pemerintah pada Januari memperkirakan pertumbuhan 2%, tetapi menaikkan pandangan setelah pertumbuhan kuartal pertama mencapai 1,7%, jauh di atas proyeksi Bank of Korea pada Februari sebesar 0,9%. Koo menyoroti ekspor: Korea berada di peringkat kelima dunia pada Januari-Februari, melampaui Jepang dan Italia, dan mencatat surplus transaksi berjalan kuartal pertama sebesar US$73,8 miliar, tertinggi sepanjang sejarah. Terkait Kospi yang menembus 7.800, ia mengatakan saham Korea masih rendah dibanding pasar maju berdasarkan PBR. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "00220c034d47",
-    "slug": "1년간-주가-2배-뛴-한화인적분할-후에도-상승세-이어갈까-200563",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T22:42:29.626Z",
-    "updatedAt": "2026-05-11T22:42:29.626Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084396i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084396i",
-    "titleFingerprint": "9b92ab3167c91acdf3368d40a3c0d3b5cfb20657",
-    "dedupKeys": [
-      "00220c034d4714a2760b4e0377806f897343622d",
-      "9b92ab3167c91acdf3368d40a3c0d3b5cfb20657",
-      "593adabd3ddfa0b83a91efcf605875a72d35e4ea"
-    ],
-    "imageUrl": "/images/articles/00220c034d47.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한화 주가 1년 새 2배 상승, 인적분할 이후 흐름에 투자자 관심",
-        "excerpt": "한화 주가가 최근 1년 동안 두 배 수준으로 오른 가운데, 시장은 인적분할 이후에도 상승세가 이어질지에 주목하고 있다.",
-        "body": "한화 주가는 최근 1년 동안 두 배 수준으로 상승하며 시장의 관심을 받았다. 보도에 따르면 투자자들의 초점은 한화가 추진한 인적분할 이후에도 이 같은 주가 흐름이 이어질 수 있는지에 맞춰져 있다. 주가가 단기간이 아닌 1년이라는 기간에 걸쳐 크게 오른 만큼, 분할 이후의 기업 구조 변화가 향후 투자 판단의 핵심 변수로 거론된다. 다만 원문은 향후 주가 방향을 단정하지 않고, 상승세 지속 여부를 시장의 관심사로 제시했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Hanwha Stock Doubles in a Year as Investors Watch Post-Spinoff Momentum",
-        "excerpt": "Hanwha shares have roughly doubled over the past year, putting investor focus on whether the rally can continue after the company’s spinoff.",
-        "body": "Hanwha’s share price has drawn market attention after rising to about twice its level over the past year. According to the report, investors are now focused on whether that upward trend can continue after Hanwha’s spinoff. Because the stock’s gain occurred over a full year rather than in a short burst, the company’s structure following the separation is being viewed as an important factor for future investment judgment. The original article does not conclude where the share price will go next, but presents the continuation of the rally as the key market question. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ハンファ株が1年で2倍に上昇、人的分割後の勢い継続に注目",
-        "excerpt": "ハンファ株がこの1年で約2倍に上昇したなか、市場では人的分割後も上昇基調が続くかに関心が集まっている。",
-        "body": "ハンファの株価は最近1年間で約2倍に上昇し、市場の注目を集めている。報道によると、投資家の焦点はハンファが進めた人的分割後もこうした株価の流れが続くかどうかに向けられている。短期間ではなく1年にわたり大きく上昇しただけに、分割後の企業構造の変化が今後の投資判断における重要な要素として意識されている。ただし原文は今後の株価方向を断定せず、上昇継続の可否を市場の関心事として示している。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "韩华股价一年翻倍，投资者关注人力分割后涨势能否延续",
-        "excerpt": "韩华股价过去一年升至约两倍水平，市场正关注其人力分割之后，当前上涨走势是否还能继续。",
-        "body": "韩华股价在最近一年升至约两倍水平，引发市场关注。据报道，投资者目前的焦点在于韩华推进人力分割之后，这一股价走势能否继续。由于股价并非短期内波动，而是在一年时间里明显上涨，分割后的企业结构变化被视为今后投资判断的重要因素。不过，原文并未对未来股价方向作出结论，而是将涨势能否延续作为市场关注的核心问题提出。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Hanwha duplica su acción en un año y el mercado mira el impulso tras la escisión",
-        "excerpt": "Las acciones de Hanwha se han duplicado aproximadamente en el último año, y los inversores observan si la subida seguirá tras la escisión.",
-        "body": "La acción de Hanwha ha llamado la atención del mercado tras subir hasta aproximadamente el doble de su nivel en el último año. Según el reporte, el foco de los inversores está en si esa tendencia alcista puede continuar después de la escisión de la compañía. Dado que el avance se produjo a lo largo de un año y no como un movimiento breve, la estructura empresarial posterior a la separación se considera un factor relevante para futuras decisiones de inversión. El artículo original no afirma una dirección futura del precio, sino que plantea la continuidad de la subida como la pregunta central del mercado. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Ação da Hanwha dobra em um ano e mercado acompanha impulso após cisão",
-        "excerpt": "As ações da Hanwha quase dobraram no último ano, levando investidores a observar se a alta continuará após a cisão da empresa.",
-        "body": "A ação da Hanwha chamou atenção do mercado ao subir para cerca do dobro de seu nível no último ano. Segundo a reportagem, o foco dos investidores agora está em saber se essa tendência de alta poderá continuar após a cisão da empresa. Como o avanço ocorreu ao longo de um ano, e não em um movimento de curto prazo, a estrutura corporativa depois da separação é vista como um fator importante para futuras decisões de investimento. O texto original não define a direção futura da ação, mas apresenta a continuidade da alta como a principal questão do mercado. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Hanwha-Aktie verdoppelt sich in einem Jahr, Markt blickt auf Zeit nach Abspaltung",
-        "excerpt": "Die Hanwha-Aktie hat sich binnen eines Jahres etwa verdoppelt; Anleger fragen sich nun, ob der Anstieg nach der Abspaltung weitergeht.",
-        "body": "Die Aktie von Hanwha hat Marktaufmerksamkeit auf sich gezogen, nachdem sie innerhalb des vergangenen Jahres auf etwa das Doppelte gestiegen ist. Dem Bericht zufolge richtet sich der Fokus der Anleger nun darauf, ob dieser Aufwärtstrend nach der Abspaltung von Hanwha anhalten kann. Da der Kursanstieg nicht nur kurzfristig, sondern über ein Jahr hinweg erfolgte, gilt die Unternehmensstruktur nach der Trennung als wichtiger Faktor für künftige Anlageentscheidungen. Der Originalartikel legt keine künftige Kursrichtung fest, sondern stellt die mögliche Fortsetzung der Rally als zentrale Marktfrage dar. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "L’action Hanwha double en un an, le marché surveille l’élan après la scission",
-        "excerpt": "L’action Hanwha a presque doublé sur un an, plaçant l’attention des investisseurs sur la poursuite éventuelle de la hausse après la scission.",
-        "body": "L’action Hanwha a attiré l’attention du marché après avoir atteint environ le double de son niveau d’il y a un an. Selon l’article, les investisseurs se concentrent désormais sur la question de savoir si cette tendance haussière peut se poursuivre après la scission de Hanwha. Comme la progression s’est produite sur une période d’un an plutôt que lors d’un mouvement bref, la structure de l’entreprise après la séparation est considérée comme un élément important pour les décisions d’investissement futures. Le texte original ne tranche pas sur l’évolution du cours, mais présente la poursuite de la hausse comme la grande question du marché. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سهم هانهوا يتضاعف خلال عام والمستثمرون يترقبون المسار بعد الانقسام",
-        "excerpt": "ارتفع سهم هانهوا إلى نحو الضعف خلال عام، ما جعل المستثمرين يركزون على ما إذا كان الزخم سيستمر بعد الانقسام البشري للشركة.",
-        "body": "جذب سهم هانهوا اهتمام السوق بعدما ارتفع خلال العام الماضي إلى نحو ضعف مستواه السابق. ووفقا للتقرير، يتركز اهتمام المستثمرين الآن على ما إذا كان هذا الاتجاه الصاعد يمكن أن يستمر بعد الانقسام البشري الذي أجرته هانهوا. وبما أن الارتفاع تحقق على مدى عام كامل وليس عبر حركة قصيرة الأجل، فإن هيكل الشركة بعد الفصل يعد عاملا مهما في تقييمات الاستثمار المقبلة. ولا يجزم النص الأصلي باتجاه السهم مستقبلا، بل يطرح استمرار الصعود بوصفه السؤال الرئيسي في السوق. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "हैनव्हा शेयर एक साल में दोगुना, विभाजन के बाद तेजी पर निवेशकों की नजर",
-        "excerpt": "हैनव्हा का शेयर पिछले एक साल में लगभग दोगुना हुआ है, और निवेशक देख रहे हैं कि मानव-विभाजन के बाद यह तेजी जारी रहती है या नहीं।",
-        "body": "हैनव्हा के शेयर ने पिछले एक साल में लगभग दोगुने स्तर तक चढ़कर बाजार का ध्यान खींचा है। रिपोर्ट के अनुसार, निवेशकों का ध्यान अब इस बात पर है कि हैनव्हा के मानव-विभाजन के बाद भी यह तेजी जारी रह सकती है या नहीं। चूंकि शेयर में यह बढ़त थोड़े समय की उछाल नहीं बल्कि पूरे एक साल में आई है, इसलिए विभाजन के बाद कंपनी की संरचना भविष्य के निवेश निर्णयों का अहम कारक मानी जा रही है। मूल लेख भविष्य की दिशा पर निष्कर्ष नहीं देता, बल्कि तेजी जारी रहने के सवाल को बाजार की मुख्य दिलचस्पी के रूप में रखता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Saham Hanwha naik dua kali lipat setahun, pasar cermati tren usai pemisahan",
-        "excerpt": "Saham Hanwha naik sekitar dua kali lipat dalam setahun terakhir, membuat investor menyoroti apakah penguatan berlanjut setelah pemisahan usaha.",
-        "body": "Harga saham Hanwha menarik perhatian pasar setelah naik hingga sekitar dua kali lipat dalam satu tahun terakhir. Menurut laporan tersebut, fokus investor kini tertuju pada apakah tren kenaikan itu dapat berlanjut setelah Hanwha melakukan pemisahan secara spin-off. Karena kenaikan terjadi sepanjang satu tahun, bukan hanya dalam pergerakan jangka pendek, perubahan struktur perusahaan setelah pemisahan dipandang sebagai faktor penting bagi keputusan investasi berikutnya. Artikel asli tidak memastikan arah harga saham ke depan, melainkan menempatkan kelanjutan penguatan sebagai pertanyaan utama pasar. Sumber: hankyung.com"
       }
     }
   }
