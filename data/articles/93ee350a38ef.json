@@ -1,0 +1,75 @@
+{
+  "id": "93ee350a38ef",
+  "slug": "온디바이스-ai-반도체-슈퍼사이클-이끈다-715253",
+  "channelId": "FX",
+  "category": "fx",
+  "publishedAt": "2026-05-12T18:16:01.737Z",
+  "updatedAt": "2026-05-12T18:16:01.737Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026051218011",
+  "canonicalUrl": "https://www.hankyung.com/article/2026051218011",
+  "titleFingerprint": "6ad4d73dfe949aa8bedb08fdd608ef89683f7573",
+  "dedupKeys": [
+    "93ee350a38ef97f077e8724080c7d4289a4ba1df",
+    "6ad4d73dfe949aa8bedb08fdd608ef89683f7573",
+    "4803b10ce18cf7517647f17c37fa993ef57f18c1"
+  ],
+  "imageUrl": "/images/articles/93ee350a38ef.jpg",
+  "i18n": {
+    "ko": {
+      "title": "온디바이스 AI와 D램 슈퍼사이클, HBM 넘어 반도체 수요 넓힌다",
+      "excerpt": "한국경제신문은 최근 AI 서버와 온디바이스 AI 확산으로 HBM뿐 아니라 GDDR7·LPDDR5 등 D램 전반의 수요가 늘며 반도체 슈퍼사이클 기대가 커졌다고 전했다.",
+      "body": "한국경제신문은 최근 인공지능(AI) 투자가 서버를 넘어 스마트폰, PC, 자율주행차 등에 적용되는 온디바이스 AI로 확산하면서 D램 중심의 반도체 슈퍼사이클 기대가 커지고 있다고 보도했다. AI 서버용 HBM 수요가 먼저 호황을 이끌었고, GDDR7·LPDDR5 같은 범용 D램과 SSD 수요도 함께 늘고 있다. 모건스탠리는 메모리 사이클이 2027년까지 이어질 수 있다고 봤고, 글로벌 HBM 시장은 2023년 30억달러에서 2027년 530억달러로 커질 것으로 전망됐다. 테크인사이츠는 D램 시장이 2024년 980억달러에서 2030년 2200억달러로 확대될 수 있다고 예상했다. 다만 CXMT의 첨단 D램 진입, HBM 공급 과잉, 미국 반도체 관세는 변수로 제시됐다. 출처: hankyung.com"
+    },
+    "en": {
+      "title": "On-Device AI Broadens the DRAM Supercycle Beyond HBM Demand",
+      "excerpt": "Hankyung reported that AI servers and the spread of on-device AI are lifting demand not only for HBM but also for DRAM such as GDDR7 and LPDDR5, raising supercycle expectations.",
+      "body": "Hankyung reported that expectations for a DRAM-led semiconductor supercycle are growing as artificial intelligence investment expands beyond servers into on-device AI for smartphones, PCs and autonomous vehicles. Demand for HBM used in AI servers first drove the upturn, while demand for general DRAM such as GDDR7 and LPDDR5, as well as SSDs, is also rising. Morgan Stanley said the memory cycle could continue through 2027, and the global HBM market was forecast to grow from $3 billion in 2023 to $53 billion in 2027. TechInsights projected the DRAM market could expand from $98 billion in 2024 to $220 billion in 2030. Variables include CXMT’s entry into advanced DRAM, possible HBM oversupply and U.S. semiconductor tariffs. Source: hankyung.com"
+    },
+    "ja": {
+      "title": "オンデバイスAIがDRAMスーパーサイクル拡大、HBM超え需要広がる",
+      "excerpt": "韓国経済新聞は、AIサーバーとオンデバイスAIの拡大でHBMだけでなくGDDR7・LPDDR5などDRAM全般の需要が増え、スーパーサイクル期待が高まったと伝えた。",
+      "body": "韓国経済新聞は、人工知能（AI）投資がサーバーを越え、スマートフォン、PC、自動運転車などに適用されるオンデバイスAIへ広がり、DRAM中心の半導体スーパーサイクルへの期待が高まっていると報じた。AIサーバー向けHBM需要が先に好況をけん引し、GDDR7・LPDDR5などの汎用DRAMやSSDの需要も増えている。モルガン・スタンレーはメモリーサイクルが2027年まで続く可能性があると見ており、世界のHBM市場は2023年の30億ドルから2027年に530億ドルへ拡大すると予想された。TechInsightsはDRAM市場が2024年の980億ドルから2030年に2200億ドルへ広がる可能性があると見込んだ。ただし、CXMTの先端DRAM参入、HBMの供給過剰、米国の半導体関税は変数として示された。出典: hankyung.com"
+    },
+    "zh": {
+      "title": "端侧AI扩大DRAM超级周期，半导体需求从HBM继续外溢",
+      "excerpt": "《韩国经济新闻》称，AI服务器和端侧AI扩散正在推高HBM以及GDDR7、LPDDR5等DRAM需求，半导体超级周期预期升温。",
+      "body": "《韩国经济新闻》报道称，人工智能投资正从服务器扩展到用于智能手机、PC和自动驾驶汽车的端侧AI，市场对以DRAM为中心的半导体超级周期的期待正在升温。AI服务器所需的HBM需求率先带动景气，GDDR7、LPDDR5等通用DRAM以及SSD需求也在增加。摩根士丹利认为，存储周期可能延续至2027年；全球HBM市场预计将从2023年的30亿美元扩大到2027年的530亿美元。TechInsights预计，DRAM市场可能从2024年的980亿美元增至2030年的2200亿美元。不过，CXMT进入先进DRAM、HBM可能供过于求以及美国半导体关税被列为变量。来源: hankyung.com"
+    },
+    "es": {
+      "title": "La IA en dispositivo amplía el superciclo DRAM más allá del HBM",
+      "excerpt": "Hankyung informó que los servidores de IA y la expansión de la IA en dispositivo elevan la demanda de HBM y de DRAM como GDDR7 y LPDDR5, reforzando expectativas de superciclo.",
+      "body": "Hankyung informó que aumentan las expectativas de un superciclo de semiconductores liderado por DRAM, a medida que la inversión en inteligencia artificial se expande más allá de los servidores hacia la IA en dispositivo para smartphones, PC y vehículos autónomos. La demanda de HBM para servidores de IA impulsó primero el auge, mientras también crece la demanda de DRAM general como GDDR7 y LPDDR5, además de SSD. Morgan Stanley dijo que el ciclo de memoria podría continuar hasta 2027, y se prevé que el mercado global de HBM pase de 3.000 millones de dólares en 2023 a 53.000 millones en 2027. TechInsights estimó que el mercado DRAM podría crecer de 98.000 millones de dólares en 2024 a 220.000 millones en 2030. Las variables son la entrada de CXMT en DRAM avanzada, un posible exceso de oferta de HBM y los aranceles estadounidenses a semiconductores. Fuente: hankyung.com"
+    },
+    "pt": {
+      "title": "IA no dispositivo amplia superciclo de DRAM para além da demanda por HBM",
+      "excerpt": "O Hankyung informou que servidores de IA e a expansão da IA no dispositivo elevam a demanda por HBM e por DRAM como GDDR7 e LPDDR5, aumentando a expectativa de superciclo.",
+      "body": "O Hankyung informou que crescem as expectativas de um superciclo de semicondutores liderado por DRAM, à medida que o investimento em inteligência artificial se expande dos servidores para a IA no dispositivo em smartphones, PCs e veículos autônomos. A demanda por HBM para servidores de IA impulsionou primeiro a alta, enquanto também cresce a procura por DRAM geral, como GDDR7 e LPDDR5, além de SSDs. O Morgan Stanley afirmou que o ciclo de memória pode continuar até 2027, e o mercado global de HBM foi projetado para crescer de US$ 3 bilhões em 2023 para US$ 53 bilhões em 2027. A TechInsights estimou que o mercado de DRAM pode passar de US$ 98 bilhões em 2024 para US$ 220 bilhões em 2030. As variáveis incluem a entrada da CXMT em DRAM avançada, possível excesso de oferta de HBM e tarifas dos EUA sobre semicondutores. Fonte: hankyung.com"
+    },
+    "de": {
+      "title": "On-Device-KI weitet DRAM-Superzyklus über HBM-Nachfrage hinaus aus",
+      "excerpt": "Hankyung berichtete, dass KI-Server und On-Device-KI die Nachfrage nach HBM sowie DRAM wie GDDR7 und LPDDR5 erhöhen und Erwartungen an einen Halbleiter-Superzyklus stärken.",
+      "body": "Hankyung berichtete, dass die Erwartungen an einen von DRAM getragenen Halbleiter-Superzyklus steigen, da Investitionen in künstliche Intelligenz über Server hinaus auf On-Device-KI in Smartphones, PCs und autonomen Fahrzeugen ausgreifen. Die Nachfrage nach HBM für KI-Server trieb den Aufschwung zuerst an, während auch die Nachfrage nach allgemeinem DRAM wie GDDR7 und LPDDR5 sowie nach SSDs zunimmt. Morgan Stanley erklärte, der Speicherzyklus könne bis 2027 andauern; der globale HBM-Markt soll von 3 Milliarden US-Dollar im Jahr 2023 auf 53 Milliarden US-Dollar im Jahr 2027 wachsen. TechInsights erwartet, dass der DRAM-Markt von 98 Milliarden US-Dollar 2024 auf 220 Milliarden US-Dollar 2030 steigen könnte. Als Variablen gelten CXMTs Eintritt in fortgeschrittenen DRAM, ein mögliches HBM-Überangebot und US-Halbleiterzölle. Quelle: hankyung.com"
+    },
+    "fr": {
+      "title": "L’IA embarquée élargit le supercycle DRAM au-delà de la demande HBM",
+      "excerpt": "Hankyung a rapporté que les serveurs d’IA et l’essor de l’IA embarquée dopent la demande de HBM et de DRAM comme GDDR7 et LPDDR5, renforçant les attentes de supercycle.",
+      "body": "Hankyung a rapporté que les attentes d’un supercycle des semi-conducteurs tiré par la DRAM augmentent, alors que les investissements dans l’intelligence artificielle s’étendent au-delà des serveurs vers l’IA embarquée dans les smartphones, les PC et les véhicules autonomes. La demande de HBM pour les serveurs d’IA a d’abord porté la reprise, tandis que la demande de DRAM générale comme GDDR7 et LPDDR5, ainsi que de SSD, progresse aussi. Morgan Stanley estime que le cycle mémoire pourrait se poursuivre jusqu’en 2027, et le marché mondial du HBM devrait passer de 3 milliards de dollars en 2023 à 53 milliards en 2027. TechInsights prévoit que le marché DRAM pourrait croître de 98 milliards de dollars en 2024 à 220 milliards en 2030. Les variables citées sont l’entrée de CXMT dans la DRAM avancée, un possible excès d’offre de HBM et les droits de douane américains sur les semi-conducteurs. Source: hankyung.com"
+    },
+    "ar": {
+      "title": "الذكاء الاصطناعي على الأجهزة يوسع دورة DRAM الفائقة خارج طلب HBM",
+      "excerpt": "ذكرت هانكيونغ أن خوادم الذكاء الاصطناعي وانتشار الذكاء الاصطناعي على الأجهزة يرفعان الطلب على HBM وذاكرات DRAM مثل GDDR7 وLPDDR5، ما يعزز توقعات الدورة الفائقة.",
+      "body": "ذكرت هانكيونغ أن توقعات دورة فائقة في أشباه الموصلات تقودها DRAM تتزايد مع توسع استثمارات الذكاء الاصطناعي من الخوادم إلى الذكاء الاصطناعي على الأجهزة في الهواتف الذكية والحواسيب والسيارات ذاتية القيادة. وقد قاد الطلب على HBM لخوادم الذكاء الاصطناعي موجة الصعود أولا، بينما يرتفع أيضا الطلب على DRAM العامة مثل GDDR7 وLPDDR5، إضافة إلى وحدات SSD. وقالت مورغان ستانلي إن دورة الذاكرة قد تستمر حتى 2027، وتوقعت نمو سوق HBM العالمية من 3 مليارات دولار في 2023 إلى 53 مليار دولار في 2027. كما توقعت TechInsights أن يتوسع سوق DRAM من 98 مليار دولار في 2024 إلى 220 مليار دولار في 2030. وتشمل المتغيرات دخول CXMT إلى DRAM المتقدمة، واحتمال فائض معروض HBM، والرسوم الأميركية على أشباه الموصلات. المصدر: hankyung.com"
+    },
+    "hi": {
+      "title": "ऑन-डिवाइस AI ने HBM से आगे DRAM सुपरcycle की मांग बढ़ाई",
+      "excerpt": "Hankyung ने बताया कि AI सर्वर और ऑन-डिवाइस AI के विस्तार से HBM के साथ GDDR7 और LPDDR5 जैसी DRAM की मांग बढ़ रही है, जिससे सेमीकंडक्टर सुपरcycle की उम्मीद मजबूत हुई है।",
+      "body": "Hankyung के अनुसार, कृत्रिम बुद्धिमत्ता में निवेश सर्वरों से आगे बढ़कर स्मार्टफोन, PC और स्वायत्त वाहनों में इस्तेमाल होने वाली ऑन-डिवाइस AI तक फैल रहा है, जिससे DRAM केंद्रित सेमीकंडक्टर सुपरcycle की उम्मीद बढ़ रही है। AI सर्वरों के लिए HBM मांग ने पहले तेजी को आगे बढ़ाया, जबकि GDDR7 और LPDDR5 जैसी सामान्य DRAM तथा SSD की मांग भी बढ़ रही है। Morgan Stanley ने कहा कि मेमोरी cycle 2027 तक जारी रह सकता है, और वैश्विक HBM बाजार 2023 के 3 अरब डॉलर से 2027 में 53 अरब डॉलर तक बढ़ने का अनुमान है। TechInsights ने DRAM बाजार के 2024 के 98 अरब डॉलर से 2030 में 220 अरब डॉलर तक बढ़ने का अनुमान दिया। CXMT का उन्नत DRAM में प्रवेश, HBM की संभावित अतिरिक्त आपूर्ति और अमेरिकी सेमीकंडक्टर टैरिफ प्रमुख चर बताए गए। स्रोत: hankyung.com"
+    },
+    "id": {
+      "title": "AI On-Device Perluas Supercycle DRAM Melampaui Permintaan HBM",
+      "excerpt": "Hankyung melaporkan server AI dan penyebaran AI on-device menaikkan permintaan HBM serta DRAM seperti GDDR7 dan LPDDR5, sehingga ekspektasi supercycle semikonduktor menguat.",
+      "body": "Hankyung melaporkan bahwa ekspektasi supercycle semikonduktor yang dipimpin DRAM meningkat karena investasi kecerdasan buatan meluas dari server ke AI on-device pada smartphone, PC, dan kendaraan otonom. Permintaan HBM untuk server AI lebih dulu mendorong kenaikan, sementara permintaan DRAM umum seperti GDDR7 dan LPDDR5, serta SSD, juga bertambah. Morgan Stanley menilai siklus memori dapat berlanjut hingga 2027, dan pasar HBM global diperkirakan tumbuh dari US$3 miliar pada 2023 menjadi US$53 miliar pada 2027. TechInsights memperkirakan pasar DRAM dapat naik dari US$98 miliar pada 2024 menjadi US$220 miliar pada 2030. Variabelnya mencakup masuknya CXMT ke DRAM canggih, kemungkinan kelebihan pasokan HBM, dan tarif semikonduktor AS. Sumber: hankyung.com"
+    }
+  }
+}
