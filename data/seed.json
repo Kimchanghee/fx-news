@@ -1,5 +1,230 @@
 [
   {
+    "id": "fe95a4704b69",
+    "slug": "lg엔솔-30대-임원-비결-출근하기전-자기암시죠-714080",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T12:23:34.112Z",
+    "updatedAt": "2026-05-12T12:23:34.112Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044867",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044867",
+    "titleFingerprint": "2d5b4aea45366dd59d5e91a7b89cca469845cca0",
+    "dedupKeys": [
+      "fe95a4704b69fb71cd987b288b343f6b13c1be56",
+      "2d5b4aea45366dd59d5e91a7b89cca469845cca0",
+      "fc17f46a141677e58b89534774f4d25041b44057"
+    ],
+    "imageUrl": "/images/articles/fe95a4704b69.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LG엔솔 최연소 AI 연구위원 임준호, 배터리 설계 이끈 30대 임원의 ‘출근 전 자기암시’ 비결",
+        "excerpt": "LG에너지솔루션에서 역대 최연소이자 첫 AI 전문 연구위원으로 발탁된 임준호 제품개발AI팀 임원이 배터리 최적 설계와 출근 전 자기암시 비결로 주목받고 있다.",
+        "body": "LG에너지솔루션에서 임준호 제품개발AI팀 임원이 역대 최연소이자 첫 AI 전문 연구위원으로 발탁되며 주목받고 있다. 그는 수만 가지 데이터를 조합해 배터리 최적 설계도를 그려내는 인공지능 전문가로 소개됐다. 원문에 따르면 임 연구위원은 30대 임원으로 성장한 비결과 관련해 출근하기 전 자기암시를 언급했다. 배터리 개발 과정에서 방대한 데이터를 다루는 AI 역량이 제품 설계의 효율성과 정확도를 높이는 핵심 요소로 부각되는 가운데, LG에너지솔루션의 AI 전문 인재 발탁은 연구개발 경쟁력 강화 흐름과 맞닿아 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "LG Energy Solution’s Youngest AI Research Fellow Jun-ho Lim and His Pre-Work Self-Affirmation Habit",
+        "excerpt": "Jun-ho Lim, named LG Energy Solution’s youngest and first AI-specialized research fellow, is drawing attention for battery design work and his pre-work self-affirmation routine.",
+        "body": "Jun-ho Lim of LG Energy Solution’s Product Development AI Team is drawing attention after being selected as the company’s youngest-ever and first AI-specialized research fellow. He was introduced as an artificial intelligence expert who combines tens of thousands of data points to create optimal battery designs. According to the original report, Lim, an executive in his 30s, cited self-affirmation before going to work as part of the secret behind his rise. As AI capability for handling massive data becomes central to improving the efficiency and accuracy of battery development, LG Energy Solution’s appointment of AI-focused talent aligns with efforts to strengthen research and development competitiveness. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "LGエナジーソリューション最年少AI研究委員の林俊鎬氏、30代役員を支えた出勤前の自己暗示",
+        "excerpt": "LGエナジーソリューションで史上最年少かつ初のAI専門研究委員に選ばれた林俊鎬氏が、電池最適設計と出勤前の自己暗示で注目されている。",
+        "body": "LGエナジーソリューションの製品開発AIチームに所属する林俊鎬氏が、同社史上最年少で初のAI専門研究委員に抜てきされ、注目を集めている。林氏は、数万種類のデータを組み合わせて電池の最適な設計図を描き出す人工知能の専門家として紹介された。原文によると、30代役員となった林研究委員は成長の秘訣として、出勤前の自己暗示に言及した。電池開発で膨大なデータを扱うAI能力が設計の効率性と正確性を高める重要要素として浮上する中、LGエナジーソリューションによるAI専門人材の登用は研究開発競争力の強化につながる動きといえる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "LG新能源最年轻AI研究委员林俊浩：30多岁高管的秘诀是上班前自我暗示",
+        "excerpt": "LG新能源史上最年轻、首位AI专业研究委员林俊浩因电池最优设计能力和上班前自我暗示习惯受到关注。",
+        "body": "LG新能源产品开发AI团队的林俊浩被选为公司史上最年轻、也是首位AI专业研究委员，因而受到关注。他被介绍为一名人工智能专家，能够组合数万种数据，绘制出电池的最优设计方案。根据原文报道，作为30多岁的高管，林研究委员在谈到成长秘诀时提到了上班前的自我暗示。随着在电池开发过程中处理海量数据的AI能力，成为提升产品设计效率和准确性的关键因素，LG新能源启用AI专业人才的举措，也与强化研发竞争力的趋势相一致。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Jun-ho Lim, el investigador de IA más joven de LG Energy Solution, revela su hábito antes del trabajo",
+        "excerpt": "Jun-ho Lim, el ejecutivo nombrado primer investigador especializado en IA y el más joven de LG Energy Solution, destaca por su diseño óptimo de baterías y su autoafirmación matinal.",
+        "body": "Jun-ho Lim, del equipo de IA para desarrollo de productos de LG Energy Solution, atrae atención tras ser elegido como el investigador especializado en IA más joven de la historia de la compañía y el primero en esa categoría. Fue presentado como un experto en inteligencia artificial capaz de combinar decenas de miles de datos para trazar diseños óptimos de baterías. Según el informe original, Lim, ejecutivo treintañero, mencionó la autoafirmación antes de ir al trabajo como parte de su secreto. En un contexto en el que la capacidad de la IA para manejar datos masivos se vuelve clave para mejorar la eficiencia y precisión del diseño de baterías, la designación de talento especializado en IA por parte de LG Energy Solution se vincula con el fortalecimiento de su competitividad en I+D. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Jun-ho Lim, mais jovem pesquisador de IA da LG Energy Solution, destaca autoafirmação antes do trabalho",
+        "excerpt": "Jun-ho Lim, primeiro pesquisador especializado em IA e o mais jovem da LG Energy Solution, chama atenção pelo desenho ideal de baterias e pela autoafirmação antes do expediente.",
+        "body": "Jun-ho Lim, da equipe de IA de desenvolvimento de produtos da LG Energy Solution, ganhou destaque ao ser escolhido como o mais jovem pesquisador da história da empresa e o primeiro especializado em inteligência artificial. Ele foi apresentado como um especialista em IA capaz de combinar dezenas de milhares de dados para criar desenhos ideais de baterias. Segundo a reportagem original, Lim, executivo na faixa dos 30 anos, citou a autoafirmação antes de sair para o trabalho como parte de seu segredo. À medida que a capacidade de IA para lidar com grandes volumes de dados se torna essencial para elevar a eficiência e a precisão no desenvolvimento de baterias, a escolha de talentos especializados em IA pela LG Energy Solution se conecta ao reforço da competitividade em pesquisa e desenvolvimento. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Jun-ho Lim, jüngster KI-Forschungsfellow von LG Energy Solution, setzt vor der Arbeit auf Selbstsuggestion",
+        "excerpt": "Jun-ho Lim, jüngster und erster auf KI spezialisierter Forschungsfellow von LG Energy Solution, steht wegen optimaler Batteriedesigns und Selbstsuggestion vor Arbeitsbeginn im Fokus.",
+        "body": "Jun-ho Lim aus dem Product Development AI Team von LG Energy Solution sorgt für Aufmerksamkeit, nachdem er zum jüngsten Forschungsfellow in der Geschichte des Unternehmens und zum ersten mit KI-Spezialisierung ernannt wurde. Er wurde als Experte für künstliche Intelligenz vorgestellt, der Zehntausende Datensätze kombiniert, um optimale Batteriedesigns zu erstellen. Dem Originalbericht zufolge nannte Lim, ein Manager in seinen 30ern, Selbstsuggestion vor dem Arbeitsweg als Teil seines Erfolgsgeheimnisses. Da KI-Fähigkeiten zur Verarbeitung großer Datenmengen in der Batterieentwicklung immer wichtiger werden, um Effizienz und Genauigkeit des Designs zu erhöhen, passt LG Energy Solutions Berufung von KI-Fachkräften zur Stärkung der Wettbewerbsfähigkeit in Forschung und Entwicklung. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Jun-ho Lim, plus jeune chercheur IA de LG Energy Solution, mise sur l’autosuggestion avant le travail",
+        "excerpt": "Jun-ho Lim, premier chercheur spécialisé en IA et plus jeune de LG Energy Solution, attire l’attention pour la conception optimale de batteries et son autosuggestion matinale.",
+        "body": "Jun-ho Lim, membre de l’équipe IA de développement produit de LG Energy Solution, attire l’attention après avoir été nommé plus jeune chercheur de l’histoire de l’entreprise et premier spécialiste de l’IA à ce poste. Il est présenté comme un expert en intelligence artificielle capable de combiner des dizaines de milliers de données pour établir des conceptions optimales de batteries. Selon l’article original, Lim, dirigeant trentenaire, a évoqué l’autosuggestion avant d’aller au travail comme l’un des secrets de sa progression. Alors que la capacité de l’IA à traiter des données massives devient essentielle pour améliorer l’efficacité et la précision de la conception de batteries, la nomination de talents spécialisés en IA par LG Energy Solution s’inscrit dans le renforcement de sa compétitivité en recherche et développement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "جونهو ليم أصغر باحث ذكاء اصطناعي في LG Energy Solution وسر المدير الثلاثيني قبل الدوام",
+        "excerpt": "جونهو ليم، أصغر وأول باحث متخصص في الذكاء الاصطناعي لدى LG Energy Solution، يلفت الانتباه بتصميم البطاريات الأمثل وعادة الإيحاء الذاتي قبل العمل.",
+        "body": "لفت جونهو ليم من فريق الذكاء الاصطناعي لتطوير المنتجات في LG Energy Solution الانتباه بعد اختياره أصغر باحث في تاريخ الشركة وأول باحث متخصص في الذكاء الاصطناعي. وقد قُدم بوصفه خبيرا في الذكاء الاصطناعي يجمع عشرات الآلاف من البيانات لرسم التصميم الأمثل للبطاريات. ووفقا للتقرير الأصلي، أشار ليم، وهو مدير في الثلاثينات من عمره، إلى الإيحاء الذاتي قبل الذهاب إلى العمل كجزء من سر صعوده. ومع بروز قدرة الذكاء الاصطناعي على التعامل مع البيانات الضخمة كعامل أساسي لرفع كفاءة ودقة تصميم البطاريات، فإن اختيار LG Energy Solution لمواهب متخصصة في الذكاء الاصطناعي يرتبط بمسار تعزيز التنافسية في البحث والتطوير. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "LG Energy Solution के सबसे युवा AI रिसर्च फेलो जुनहो लिम, काम से पहले आत्म-संकेत है 30 वर्षीय अधिकारी का राज",
+        "excerpt": "LG Energy Solution के सबसे युवा और पहले AI-विशेषज्ञ रिसर्च फेलो जुनहो लिम बैटरी के श्रेष्ठ डिजाइन और काम से पहले आत्म-संकेत की आदत के कारण चर्चा में हैं।",
+        "body": "LG Energy Solution की प्रोडक्ट डेवलपमेंट AI टीम के जुनहो लिम कंपनी के इतिहास में सबसे युवा और पहले AI-विशेषज्ञ रिसर्च फेलो चुने जाने के बाद ध्यान खींच रहे हैं। उन्हें ऐसे कृत्रिम बुद्धिमत्ता विशेषज्ञ के रूप में पेश किया गया है जो हजारों तरह के डेटा को जोड़कर बैटरी का श्रेष्ठ डिजाइन तैयार करते हैं। मूल रिपोर्ट के अनुसार, तीस की उम्र वाले अधिकारी लिम ने अपनी प्रगति के रहस्य में काम पर जाने से पहले आत्म-संकेत का उल्लेख किया। बैटरी विकास में बड़े डेटा को संभालने की AI क्षमता जब डिजाइन की दक्षता और सटीकता बढ़ाने का प्रमुख तत्व बन रही है, तब LG Energy Solution द्वारा AI विशेषज्ञ प्रतिभा को आगे लाना अनुसंधान और विकास प्रतिस्पर्धा को मजबूत करने की दिशा से जुड़ा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Jun-ho Lim, Peneliti AI Termuda LG Energy Solution, Ungkap Kebiasaan Afirmasi Sebelum Bekerja",
+        "excerpt": "Jun-ho Lim, peneliti khusus AI pertama sekaligus termuda di LG Energy Solution, disorot berkat desain baterai optimal dan kebiasaan afirmasi sebelum berangkat kerja.",
+        "body": "Jun-ho Lim dari Tim AI Pengembangan Produk LG Energy Solution menjadi sorotan setelah terpilih sebagai peneliti termuda sepanjang sejarah perusahaan sekaligus peneliti pertama yang khusus menangani AI. Ia diperkenalkan sebagai pakar kecerdasan buatan yang menggabungkan puluhan ribu data untuk menyusun desain baterai yang optimal. Menurut laporan asli, Lim, eksekutif berusia 30-an, menyebut afirmasi diri sebelum berangkat kerja sebagai bagian dari rahasia perkembangannya. Ketika kemampuan AI dalam mengolah data besar semakin penting untuk meningkatkan efisiensi dan akurasi desain baterai, pengangkatan talenta khusus AI oleh LG Energy Solution sejalan dengan upaya memperkuat daya saing riset dan pengembangan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "42bd5e71acda",
+    "slug": "동원그룹-조덕희-장학금-남도학숙-245명에-총-13억-488868",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T12:21:40.088Z",
+    "updatedAt": "2026-05-12T12:21:40.088Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044872",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044872",
+    "titleFingerprint": "ac866dcdb79a455777b1561d34e6c8ac28fe62a8",
+    "dedupKeys": [
+      "42bd5e71acdae964b8531af9abcf8b8557a3ef3e",
+      "ac866dcdb79a455777b1561d34e6c8ac28fe62a8",
+      "5541435710b3369c38043ca7efcc522cd7b4bcc2"
+    ],
+    "imageUrl": "/images/articles/42bd5e71acda.jpg",
+    "i18n": {
+      "ko": {
+        "title": "동원그룹 조덕희 장학금, 남도학숙 245명에 누적 13억원 지원",
+        "excerpt": "동원그룹은 올해 광주광역시와 전라남도가 공동 운영하는 남도학숙에 20년째 조덕희 장학금을 수여하며 누적 245명에게 약 13억원을 지원했다.",
+        "body": "동원그룹이 올해 광주광역시와 전라남도가 공동으로 운영하는 남도학숙에 ‘조덕희 장학금’을 수여했다. 이번 장학금 수여는 올해로 20년째 이어진 지원이다. 원문에 따르면 동원그룹의 조덕희 장학금은 남도학숙 학생들을 대상으로 누적 장학생 245명을 기록했으며, 지급된 장학금 규모는 약 13억원에 달한다. 남도학숙은 광주시와 전남도가 함께 운영하는 시설로, 이번 장학금은 지역 학생 지원의 연속성을 보여주는 사례로 소개됐다. 동원그룹은 같은 장학 사업을 장기간 이어오며 누적 지원 규모를 확대해 왔다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Dongwon Group’s Cho Deok-hee Scholarship Supports 245 Namdo Dormitory Students",
+        "excerpt": "Dongwon Group awarded the Cho Deok-hee Scholarship to Namdo Dormitory for the 20th year, supporting 245 students with about 1.3 billion won in total.",
+        "body": "Dongwon Group has awarded the Cho Deok-hee Scholarship this year to Namdo Dormitory, which is jointly operated by Gwangju Metropolitan City and South Jeolla Province. The scholarship program has now continued for 20 years. According to the original report, Dongwon Group’s Cho Deok-hee Scholarship has supported a cumulative 245 students at Namdo Dormitory, with total scholarship payments reaching about 1.3 billion won. Namdo Dormitory is operated jointly by Gwangju and South Jeolla, and the latest award was presented as an example of continued support for local students. Dongwon Group has expanded the cumulative scale of support by maintaining the same scholarship program over a long period. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "東遠グループの趙徳熙奨学金、南道学宿245人に累計13億ウォン支援",
+        "excerpt": "東遠グループは今年、光州広域市と全羅南道が共同運営する南道学宿に20年連続で趙徳熙奨学金を授与し、累計245人に約13億ウォンを支援した。",
+        "body": "東遠グループは今年、光州広域市と全羅南道が共同で運営する南道学宿に「趙徳熙奨学金」を授与した。この奨学金の授与は今年で20年目となる。原文によると、東遠グループの趙徳熙奨学金は南道学宿の学生を対象に、累計奨学生数245人を記録し、支給された奨学金の規模は約13億ウォンに達する。南道学宿は光州市と全羅南道が共同運営する施設で、今回の奨学金は地域学生支援の継続性を示す事例として紹介された。東遠グループは同じ奨学事業を長期間続け、累計支援規模を拡大してきた。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "东远集团“赵德熙奖学金”累计资助南道学宿245人达13亿韩元",
+        "excerpt": "东远集团今年连续第20年向光州广域市和全罗南道共同运营的南道学宿颁发赵德熙奖学金，累计资助245人约13亿韩元。",
+        "body": "东远集团今年向由光州广域市和全罗南道共同运营的南道学宿颁发了“赵德熙奖学金”。该奖学金的颁发已持续到第20年。根据原文，东远集团的赵德熙奖学金面向南道学宿学生，累计获奖学生人数为245人，发放奖学金规模约达13亿韩元。南道学宿是光州市和全罗南道共同运营的设施，本次奖学金被介绍为持续支持地区学生的案例。东远集团长期延续同一奖学项目，并不断扩大累计支持规模。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Beca Cho Deok-hee de Dongwon Group apoya a 245 alumnos de Namdo Dormitory",
+        "excerpt": "Dongwon Group entregó por vigésimo año la beca Cho Deok-hee a Namdo Dormitory, operado por Gwangju y Jeolla del Sur, con 245 beneficiarios y unos 1.300 millones de wones.",
+        "body": "Dongwon Group entregó este año la beca Cho Deok-hee a Namdo Dormitory, una residencia operada conjuntamente por la ciudad metropolitana de Gwangju y la provincia de Jeolla del Sur. La concesión de esta beca cumple ahora 20 años de continuidad. Según el texto original, la beca Cho Deok-hee de Dongwon Group ha beneficiado de forma acumulada a 245 estudiantes de Namdo Dormitory, con un monto total cercano a 1.300 millones de wones. Namdo Dormitory es una instalación gestionada por Gwangju y Jeolla del Sur, y esta ayuda fue presentada como un ejemplo de apoyo sostenido a estudiantes locales. Dongwon Group ha ampliado la escala acumulada de apoyo al mantener el mismo programa durante un largo periodo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Bolsa Cho Deok-hee do Dongwon Group apoia 245 alunos do Namdo Dormitory",
+        "excerpt": "O Dongwon Group concedeu pelo 20º ano a bolsa Cho Deok-hee ao Namdo Dormitory, operado por Gwangju e Jeolla do Sul, somando 245 alunos e cerca de 1,3 bilhão de won.",
+        "body": "O Dongwon Group concedeu este ano a bolsa Cho Deok-hee ao Namdo Dormitory, instituição operada em conjunto pela Cidade Metropolitana de Gwangju e pela Província de Jeolla do Sul. A concessão da bolsa chega agora ao 20º ano. Segundo o texto original, a bolsa Cho Deok-hee do Dongwon Group já apoiou, de forma acumulada, 245 estudantes do Namdo Dormitory, com valor total de aproximadamente 1,3 bilhão de won. O Namdo Dormitory é uma instalação administrada por Gwangju e Jeolla do Sul, e a nova concessão foi apresentada como exemplo de continuidade no apoio a estudantes locais. O Dongwon Group ampliou o volume acumulado de apoio ao manter o mesmo programa por longo período. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Dongwon Groups Cho-Deok-hee-Stipendium unterstützt 245 Namdo-Studierende",
+        "excerpt": "Dongwon Group vergab das Cho-Deok-hee-Stipendium im 20. Jahr an das von Gwangju und Süd-Jeolla betriebene Namdo Dormitory; insgesamt wurden 245 Studierende mit rund 1,3 Mrd. Won gefördert.",
+        "body": "Dongwon Group hat in diesem Jahr das Cho-Deok-hee-Stipendium an das Namdo Dormitory vergeben, das gemeinsam von der Metropole Gwangju und der Provinz Süd-Jeolla betrieben wird. Die Vergabe dieses Stipendiums läuft damit bereits im 20. Jahr. Dem Originalbericht zufolge hat das Cho-Deok-hee-Stipendium von Dongwon Group am Namdo Dormitory kumuliert 245 Studierende unterstützt; die ausgezahlte Summe beläuft sich auf rund 1,3 Milliarden Won. Das Namdo Dormitory ist eine gemeinsam geführte Einrichtung von Gwangju und Süd-Jeolla, und die aktuelle Stipendienvergabe wurde als Beispiel für kontinuierliche Unterstützung regionaler Studierender vorgestellt. Dongwon Group hat den kumulierten Förderumfang durch die langfristige Fortführung desselben Programms ausgebaut. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La bourse Cho Deok-hee de Dongwon Group soutient 245 étudiants de Namdo",
+        "excerpt": "Dongwon Group a remis pour la 20e année la bourse Cho Deok-hee au Namdo Dormitory, géré par Gwangju et le Jeolla du Sud, avec 245 bénéficiaires et environ 1,3 milliard de wons.",
+        "body": "Dongwon Group a remis cette année la bourse Cho Deok-hee au Namdo Dormitory, établissement exploité conjointement par la ville métropolitaine de Gwangju et la province du Jeolla du Sud. Cette remise de bourse se poursuit désormais depuis 20 ans. Selon le texte original, la bourse Cho Deok-hee de Dongwon Group a soutenu au total 245 étudiants du Namdo Dormitory, pour un montant cumulé d’environ 1,3 milliard de wons. Le Namdo Dormitory est une structure gérée par Gwangju et le Jeolla du Sud, et cette attribution a été présentée comme un exemple de soutien continu aux étudiants locaux. Dongwon Group a élargi l’ampleur cumulée de son aide en maintenant le même programme de bourses sur une longue période. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "منحة تشو دوك-هي من دونغ وون تدعم 245 طالبا في نامدو بـ1.3 مليار وون",
+        "excerpt": "قدمت مجموعة دونغ وون منحة تشو دوك-هي للعام العشرين إلى نامدو هاكسوك، الذي تديره غوانغجو وجنوب جولا، ليصل الدعم إلى 245 طالبا ونحو 1.3 مليار وون.",
+        "body": "قدمت مجموعة دونغ وون هذا العام منحة «تشو دوك-هي» إلى نامدو هاكسوك، وهو مرفق تديره بشكل مشترك مدينة غوانغجو الكبرى ومقاطعة جنوب جولا. ويستمر تقديم هذه المنحة للعام العشرين. ووفقا للنص الأصلي، دعمت منحة تشو دوك-هي التابعة لمجموعة دونغ وون 245 طالبا بشكل تراكمي في نامدو هاكسوك، وبلغ إجمالي قيمة المنح المدفوعة نحو 1.3 مليار وون. ونامدو هاكسوك مرفق تشغله غوانغجو وجنوب جولا معا، وقد عُرضت هذه المنحة بوصفها مثالا على استمرار دعم الطلاب المحليين. ووسعت مجموعة دونغ وون حجم الدعم التراكمي عبر مواصلة برنامج المنح نفسه لفترة طويلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "डोंगवोन ग्रुप की चो देओक-ही छात्रवृत्ति, नामदो के 245 छात्रों को समर्थन",
+        "excerpt": "डोंगवोन ग्रुप ने ग्वांगजू और दक्षिण जिओला द्वारा संयुक्त रूप से संचालित नामदो छात्रावास को 20वें वर्ष चो देओक-ही छात्रवृत्ति दी, कुल 245 छात्रों को करीब 1.3 अरब वोन मिले।",
+        "body": "डोंगवोन ग्रुप ने इस वर्ष ग्वांगजू महानगर और दक्षिण जिओला प्रांत द्वारा संयुक्त रूप से संचालित नामदो छात्रावास को ‘चो देओक-ही छात्रवृत्ति’ प्रदान की। यह छात्रवृत्ति इस साल लगातार 20वें वर्ष दी गई है। मूल रिपोर्ट के अनुसार, डोंगवोन ग्रुप की चो देओक-ही छात्रवृत्ति ने नामदो छात्रावास के छात्रों में अब तक कुल 245 विद्यार्थियों को समर्थन दिया है, और दी गई राशि लगभग 1.3 अरब वोन तक पहुंचती है। नामदो छात्रावास ग्वांगजू और दक्षिण जिओला द्वारा मिलकर संचालित सुविधा है, और यह छात्रवृत्ति स्थानीय छात्रों के निरंतर समर्थन के उदाहरण के रूप में पेश की गई। डोंगवोन ग्रुप ने लंबे समय तक इसी छात्रवृत्ति कार्यक्रम को जारी रखते हुए कुल सहायता का दायरा बढ़ाया है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Beasiswa Cho Deok-hee Dongwon Group Dukung 245 Siswa Namdo Dormitory",
+        "excerpt": "Dongwon Group memberikan Beasiswa Cho Deok-hee untuk tahun ke-20 kepada Namdo Dormitory yang dikelola Gwangju dan Jeolla Selatan, dengan total 245 penerima dan sekitar 1,3 miliar won.",
+        "body": "Dongwon Group tahun ini memberikan Beasiswa Cho Deok-hee kepada Namdo Dormitory, yang dikelola bersama oleh Kota Metropolitan Gwangju dan Provinsi Jeolla Selatan. Pemberian beasiswa ini telah berlangsung selama 20 tahun. Menurut naskah asli, Beasiswa Cho Deok-hee dari Dongwon Group telah mendukung secara kumulatif 245 siswa di Namdo Dormitory, dengan total dana beasiswa sekitar 1,3 miliar won. Namdo Dormitory merupakan fasilitas yang dioperasikan bersama oleh Gwangju dan Jeolla Selatan, dan pemberian beasiswa ini diperkenalkan sebagai contoh kesinambungan dukungan bagi siswa daerah. Dongwon Group telah memperluas skala dukungan kumulatif dengan mempertahankan program beasiswa yang sama dalam jangka panjang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c43e091816bb",
+    "slug": "lg전자-무료-세탁소-나이지리아에-선물-761675",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T12:18:26.339Z",
+    "updatedAt": "2026-05-12T12:18:26.339Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044871",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044871",
+    "titleFingerprint": "2e489bad4c92fd641d818bdd0000820553aa9734",
+    "dedupKeys": [
+      "c43e091816bbe056c6ec57afa83615cbeb01b036",
+      "2e489bad4c92fd641d818bdd0000820553aa9734",
+      "0d616cb5b4b00c31c7ebdc522c676cb392ea0e67"
+    ],
+    "imageUrl": "/images/articles/c43e091816bb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LG전자 무료 세탁소, 나이지리아 아비아·이모주에 태양광 식수 시설도 구축",
+        "excerpt": "LG전자가 12일 나이지리아 아비아주 아바와 이모주 오웨리에 태양광 기반 식수 시설과 이동식 무료 세탁방을 구축해 주민 생활환경 개선에 나섰다고 밝혔다.",
+        "body": "LG전자는 12일 나이지리아 아비아주 아바 지역과 이모주 오웨리 지역에 태양광 기반 식수 시설과 이동식 무료 세탁방을 최근 구축했다고 밝혔다. 이번 시설은 현지 주민들이 더 안정적으로 깨끗한 식수를 이용하고, 세탁 서비스를 무료로 활용할 수 있도록 마련됐다. 공개된 내용에 따르면 LG전자는 두 지역을 대상으로 식수와 위생 관련 생활 인프라를 지원하는 형태의 활동을 진행했다. 태양광 기반 설비는 전력 접근성이 제한될 수 있는 환경에서도 식수 시설 운영을 돕는 방식이다. 이동식 무료 세탁방은 주민들이 일상 위생을 관리하는 데 활용될 전망이다. 이번 구축은 나이지리아 지역사회 생활환경 개선에 초점을 맞춘 사회공헌 활동으로 소개됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "LG Electronics Opens Free Laundry and Solar Water Facilities in Nigeria",
+        "excerpt": "LG Electronics said on May 12 it recently built solar-powered drinking water facilities and mobile free laundry rooms in Aba, Abia State, and Owerri, Imo State, Nigeria.",
+        "body": "LG Electronics said on May 12 that it recently built solar-powered drinking water facilities and mobile free laundry rooms in Aba, Abia State, and Owerri, Imo State, Nigeria. The facilities were prepared so local residents can access clean drinking water more reliably and use laundry services free of charge. According to the disclosed information, LG Electronics carried out support activities in the two areas focused on daily infrastructure related to water and hygiene. The solar-based systems are designed to help operate drinking water facilities even in environments where access to electricity may be limited. The mobile free laundry rooms are expected to support residents in managing everyday hygiene. The project was introduced as a social contribution effort focused on improving living conditions in Nigerian communities. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "LG電子、ナイジェリアに無料ランドリーと太陽光飲料水施設を整備",
+        "excerpt": "LG電子は12日、ナイジェリアのアビア州アバ地域とイモ州オウェリ地域に、太陽光基盤の飲料水施設と移動式無料ランドリーを最近整備したと明らかにした。",
+        "body": "LG電子は12日、ナイジェリアのアビア州アバ地域とイモ州オウェリ地域に、太陽光基盤の飲料水施設と移動式無料ランドリーを最近整備したと発表した。これらの施設は、現地住民がより安定的に清潔な飲料水を利用し、洗濯サービスを無料で使えるようにするために設けられた。公表内容によると、LG電子は両地域を対象に、飲料水と衛生に関わる生活インフラを支援する形の活動を進めた。太陽光基盤の設備は、電力へのアクセスが制限される可能性のある環境でも飲料水施設の運営を助ける方式だ。移動式無料ランドリーは、住民の日常的な衛生管理に活用される見通しだ。今回の整備は、ナイジェリア地域社会の生活環境改善に焦点を当てた社会貢献活動として紹介された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "LG电子在尼日利亚建设免费洗衣房和太阳能饮水设施",
+        "excerpt": "LG电子12日表示，近期在尼日利亚阿比亚州阿巴地区和伊莫州奥韦里地区建设了太阳能饮用水设施和移动式免费洗衣房。",
+        "body": "LG电子12日表示，公司近期在尼日利亚阿比亚州阿巴地区和伊莫州奥韦里地区建设了太阳能饮用水设施和移动式免费洗衣房。相关设施旨在让当地居民更稳定地使用清洁饮用水，并免费使用洗衣服务。根据公开信息，LG电子面向这两个地区开展了以饮水和卫生相关生活基础设施为核心的支持活动。太阳能基础设施可在电力获取可能受限的环境下，帮助饮用水设施运行。移动式免费洗衣房预计将用于支持居民的日常卫生管理。此次建设被介绍为一项聚焦改善尼日利亚社区生活环境的社会贡献活动。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "LG Electronics instala lavanderías gratis y agua solar en Nigeria",
+        "excerpt": "LG Electronics informó el 12 de mayo que recientemente instaló sistemas solares de agua potable y lavanderías móviles gratuitas en Aba, estado de Abia, y Owerri, estado de Imo, Nigeria.",
+        "body": "LG Electronics informó el 12 de mayo que recientemente instaló sistemas de agua potable con energía solar y lavanderías móviles gratuitas en Aba, estado de Abia, y Owerri, estado de Imo, Nigeria. Las instalaciones fueron preparadas para que los residentes locales puedan acceder de forma más estable a agua potable limpia y utilizar servicios de lavandería sin costo. Según la información divulgada, LG Electronics llevó a cabo actividades de apoyo en las dos zonas centradas en infraestructura cotidiana relacionada con el agua y la higiene. Los equipos basados en energía solar ayudan a operar las instalaciones de agua potable incluso en entornos donde el acceso a la electricidad puede ser limitado. Las lavanderías móviles gratuitas se utilizarán para apoyar la higiene diaria de los residentes. La iniciativa fue presentada como una acción de contribución social enfocada en mejorar las condiciones de vida de comunidades nigerianas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "LG Electronics leva lavanderia gratuita e água solar a regiões da Nigéria",
+        "excerpt": "A LG Electronics informou em 12 de maio que instalou recentemente sistemas solares de água potável e lavanderias móveis gratuitas em Aba, no estado de Abia, e Owerri, no estado de Imo, na Nigéria.",
+        "body": "A LG Electronics informou em 12 de maio que instalou recentemente sistemas de água potável movidos a energia solar e lavanderias móveis gratuitas em Aba, no estado de Abia, e Owerri, no estado de Imo, na Nigéria. As instalações foram preparadas para que moradores locais possam ter acesso mais estável a água potável limpa e usar serviços de lavanderia sem custo. Segundo as informações divulgadas, a LG Electronics realizou ações de apoio nas duas regiões com foco em infraestrutura cotidiana ligada à água e à higiene. Os equipamentos baseados em energia solar ajudam a operar as instalações de água potável mesmo em ambientes onde o acesso à eletricidade pode ser limitado. As lavanderias móveis gratuitas devem apoiar os moradores na gestão da higiene diária. A iniciativa foi apresentada como uma ação de contribuição social voltada à melhoria das condições de vida em comunidades nigerianas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "LG Electronics baut kostenlose Wäscherei und Solar-Trinkwasser in Nigeria",
+        "excerpt": "LG Electronics teilte am 12. Mai mit, kürzlich in Aba im Bundesstaat Abia und Owerri im Bundesstaat Imo in Nigeria solarbetriebene Trinkwasseranlagen und mobile kostenlose Wäschereien eingerichtet zu haben.",
+        "body": "LG Electronics teilte am 12. Mai mit, kürzlich in Aba im Bundesstaat Abia und in Owerri im Bundesstaat Imo in Nigeria solarbetriebene Trinkwasseranlagen und mobile kostenlose Wäschereien eingerichtet zu haben. Die Anlagen sollen lokalen Einwohnern einen stabileren Zugang zu sauberem Trinkwasser ermöglichen und kostenlose Wäschedienste bieten. Den veröffentlichten Angaben zufolge unterstützte LG Electronics in den beiden Regionen Alltagsinfrastruktur rund um Wasser und Hygiene. Die solargestützte Ausrüstung hilft beim Betrieb der Trinkwasseranlagen auch in Umgebungen, in denen der Zugang zu Strom begrenzt sein kann. Die mobilen kostenlosen Wäschereien dürften die Bewohner bei der täglichen Hygiene unterstützen. Das Projekt wurde als soziale Beitragsmaßnahme vorgestellt, die auf bessere Lebensbedingungen in nigerianischen Gemeinden abzielt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "LG Electronics installe laveries gratuites et eau solaire au Nigeria",
+        "excerpt": "LG Electronics a annoncé le 12 mai avoir récemment installé des équipements d’eau potable solaire et des laveries mobiles gratuites à Aba, dans l’État d’Abia, et à Owerri, dans l’État d’Imo, au Nigeria.",
+        "body": "LG Electronics a annoncé le 12 mai avoir récemment installé des équipements d’eau potable alimentés par énergie solaire et des laveries mobiles gratuites à Aba, dans l’État d’Abia, et à Owerri, dans l’État d’Imo, au Nigeria. Ces installations visent à permettre aux habitants locaux d’accéder plus régulièrement à une eau potable propre et d’utiliser gratuitement des services de blanchisserie. Selon les informations communiquées, LG Electronics a mené dans les deux zones des actions de soutien centrées sur les infrastructures de vie quotidienne liées à l’eau et à l’hygiène. Les équipements solaires contribuent au fonctionnement des installations d’eau potable même dans des environnements où l’accès à l’électricité peut être limité. Les laveries mobiles gratuites devraient aider les habitants à gérer l’hygiène au quotidien. L’initiative a été présentée comme une action de contribution sociale axée sur l’amélioration des conditions de vie des communautés nigérianes. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إل جي إلكترونيكس تقيم مغاسل مجانية ومرافق مياه شمسية في نيجيريا",
+        "excerpt": "قالت إل جي إلكترونيكس في 12 مايو إنها أنشأت مؤخرا مرافق لمياه الشرب تعمل بالطاقة الشمسية وغرف غسيل متنقلة مجانية في أبا بولاية أبيا وأويري بولاية إيمو في نيجيريا.",
+        "body": "قالت إل جي إلكترونيكس في 12 مايو إنها أنشأت مؤخرا مرافق لمياه الشرب تعمل بالطاقة الشمسية وغرف غسيل متنقلة مجانية في منطقة أبا بولاية أبيا ومنطقة أويري بولاية إيمو في نيجيريا. وتهدف هذه المرافق إلى تمكين السكان المحليين من الحصول على مياه شرب نظيفة بشكل أكثر استقرارا واستخدام خدمات الغسيل مجانا. ووفقا للمعلومات المعلنة، نفذت إل جي إلكترونيكس أنشطة دعم في المنطقتين تركز على البنية المعيشية المرتبطة بالمياه والنظافة. وتساعد التجهيزات المعتمدة على الطاقة الشمسية في تشغيل مرافق مياه الشرب حتى في البيئات التي قد يكون فيها الوصول إلى الكهرباء محدودا. ومن المتوقع أن تساهم غرف الغسيل المتنقلة المجانية في دعم إدارة النظافة اليومية للسكان. وقد قدمت هذه الخطوة باعتبارها نشاطا للمساهمة الاجتماعية يركز على تحسين بيئة المعيشة في المجتمعات النيجيرية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "LG Electronics ने नाइजीरिया में मुफ्त लॉन्ड्री और सौर जल सुविधा बनाई",
+        "excerpt": "LG Electronics ने 12 मई को बताया कि उसने नाइजीरिया के आबिया राज्य के आबा और इमो राज्य के ओवेरी में हाल ही में सौर ऊर्जा आधारित पेयजल सुविधा और मोबाइल मुफ्त लॉन्ड्री स्थापित की है।",
+        "body": "LG Electronics ने 12 मई को बताया कि उसने नाइजीरिया के आबिया राज्य के आबा क्षेत्र और इमो राज्य के ओवेरी क्षेत्र में हाल ही में सौर ऊर्जा आधारित पेयजल सुविधाएं और मोबाइल मुफ्त लॉन्ड्री कक्ष बनाए हैं। ये सुविधाएं इसलिए तैयार की गई हैं ताकि स्थानीय निवासी अधिक स्थिर रूप से स्वच्छ पेयजल प्राप्त कर सकें और लॉन्ड्री सेवा का मुफ्त उपयोग कर सकें। जारी जानकारी के अनुसार, LG Electronics ने दोनों क्षेत्रों में जल और स्वच्छता से जुड़े दैनिक जीवन के बुनियादी ढांचे को समर्थन देने वाली गतिविधि की। सौर ऊर्जा आधारित उपकरण ऐसे वातावरण में भी पेयजल सुविधा के संचालन में मदद करते हैं जहां बिजली तक पहुंच सीमित हो सकती है। मोबाइल मुफ्त लॉन्ड्री कक्ष निवासियों की दैनिक स्वच्छता प्रबंधन में उपयोगी होने की उम्मीद है। इस निर्माण को नाइजीरियाई समुदायों के जीवन환경 में सुधार पर केंद्रित सामाजिक योगदान गतिविधि के रूप में पेश किया गया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "LG Electronics Bangun Laundry Gratis dan Air Tenaga Surya di Nigeria",
+        "excerpt": "LG Electronics pada 12 Mei menyatakan baru-baru ini membangun fasilitas air minum berbasis tenaga surya dan laundry gratis bergerak di Aba, Negara Bagian Abia, serta Owerri, Negara Bagian Imo, Nigeria.",
+        "body": "LG Electronics pada 12 Mei menyatakan bahwa pihaknya baru-baru ini membangun fasilitas air minum berbasis tenaga surya dan ruang laundry gratis bergerak di wilayah Aba, Negara Bagian Abia, serta wilayah Owerri, Negara Bagian Imo, Nigeria. Fasilitas ini disiapkan agar warga setempat dapat mengakses air minum bersih secara lebih stabil dan menggunakan layanan laundry tanpa biaya. Berdasarkan informasi yang diumumkan, LG Electronics menjalankan kegiatan dukungan di dua wilayah tersebut dengan fokus pada infrastruktur kehidupan sehari-hari terkait air dan kebersihan. Peralatan berbasis tenaga surya membantu pengoperasian fasilitas air minum bahkan di lingkungan yang akses listriknya dapat terbatas. Ruang laundry gratis bergerak diperkirakan akan dimanfaatkan warga untuk menjaga kebersihan harian. Pembangunan ini diperkenalkan sebagai kegiatan kontribusi sosial yang berfokus pada perbaikan lingkungan hidup komunitas di Nigeria. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "03aa956802b7",
     "slug": "현대차그룹-생산로봇-도입-속도낸다-525647",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Samsung Electronics Masuki Mediasi Akhir Sebelum Ancaman Mogok 21",
         "excerpt": "Manajemen dan serikat Samsung Electronics hari ini menjalani mediasi akhir pemerintah terkait sengketa bonus kinerja, setelah hampir 12 jam negosiasi sehari sebelumnya belum menghasilkan kesepakatan menjelang mogok umum 21.",
         "body": "Manajemen dan serikat Samsung Electronics hari ini memasuki negosiasi mediasi lanjutan terakhir di bawah penengahan pemerintah terkait sengketa bonus kinerja. Kedua pihak pada hari sebelumnya menggelar negosiasi maraton hampir 12 jam, tetapi belum mencapai kesimpulan, sehingga perhatian tertuju pada apakah mogok umum yang dijadwalkan pada tanggal 21 dapat dicegah. Perundingan ini menjadi prosedur mediasi terakhir di tengah berlanjutnya konflik ketenagakerjaan mengenai bonus. Jika kesepakatan tercapai, kemungkinan mogok umum dapat menurun. Namun jika titik temu tidak ditemukan, jadwal mogok yang telah diumumkan bisa menjadi kenyataan. Perusahaan dan serikat harus menuntaskan isu tersisa di meja mediasi pemerintah. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7650c8254529",
-    "slug": "호르무즈-봉쇄에-유가-껑충아람코-1분기-실적-뜀박질-529475",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T20:52:21.935Z",
-    "updatedAt": "2026-05-11T20:52:21.935Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051190591",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051190591",
-    "titleFingerprint": "a02dd0c64e16d7b547ef553869b509e50e36f15e",
-    "dedupKeys": [
-      "7650c825452951cb009168f218e1e65c90489717",
-      "a02dd0c64e16d7b547ef553869b509e50e36f15e",
-      "3a6173e27f213ad8433faa0d89ae340f40478608"
-    ],
-    "imageUrl": "/images/articles/7650c8254529.png",
-    "i18n": {
-      "ko": {
-        "title": "호르무즈 봉쇄에 유가 급등, 아람코 1분기 순이익 25.6% 증가하며 전망치 상회",
-        "excerpt": "사우디 아람코는 10일 현지시간 1분기 순이익이 유가 상승과 판매량 증가 영향으로 전년보다 25.6% 늘어 시장 전망치를 웃돌았다고 밝혔다.",
-        "body": "사우디아라비아 국영 석유기업 아람코의 올해 1분기 실적이 미국과 이란 간 전쟁에 따른 국제유가 급등 영향으로 호조를 보였다고 10일(현지시간) 로이터와 블룸버그 등이 보도했다. 아람코의 1분기 순이익은 전년 동기 대비 25.6% 증가한 1201억3000만사우디리얄, 약 320억2000만달러로 시장 예상치 309억5000만달러를 웃돌았다. 국제유가는 중동 불안 이전인 2월 초 배럴당 60달러대 중반에서 4월 100달러대로 뛰었다. 회사는 원유 판매량 증가, 유가 상승, 정제·화학 제품 판매량 증가가 실적 개선 배경이라고 밝혔다. 아민 나세르 CEO는 동서 파이프라인이 호르무즈 해협을 우회해 충격을 완화했지만 하루 700만배럴 최대 수송 용량에 도달한 점은 부담이라고 말했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Hormuz Blockade Lifts Oil Prices as Aramco Q1 Profit Jumps 25.6% Above Forecasts",
-        "excerpt": "Saudi Aramco said on May 10 local time that first-quarter net profit rose 25.6% from a year earlier, helped by higher oil prices and sales volumes, beating market forecasts.",
-        "body": "Saudi Arabia’s state oil company Aramco posted stronger first-quarter results as international oil prices surged after the war between the United States and Iran, Reuters and Bloomberg reported on May 10 local time. Aramco’s first-quarter net profit rose 25.6% year on year to 120.13 billion Saudi riyals, or about $32.02 billion, exceeding the market forecast of $30.95 billion. Oil prices climbed from the mid-$60 range per barrel in early February, before Middle East tensions intensified, to the $100 range in April. The company said earnings improved because of higher crude sales volumes, higher oil prices, and increased sales of refined and chemical products. CEO Amin Nasser said the east-west pipeline helped bypass the Strait of Hormuz and ease the shock, but noted the burden of having reached its maximum transport capacity of 7 million barrels per day. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ホルムズ封鎖で原油急騰、アラムコ1～3月期純利益25.6%増で予想上回る",
-        "excerpt": "サウジアラムコは現地時間10日、原油価格上昇と販売量増加を受け、1～3月期純利益が前年同期比25.6%増え、市場予想を上回ったと明らかにした。",
-        "body": "サウジアラビアの国営石油会社サウジアラムコの今年1～3月期業績は、米国とイランの戦争に伴う国際原油価格の急騰を受けて堅調だったと、ロイター通信とブルームバーグ通信などが現地時間10日に報じた。アラムコの1～3月期純利益は前年同期比25.6%増の1201億3000万サウジリヤル、約320億2000万ドルとなり、市場予想の309億5000万ドルを上回った。国際原油価格は中東不安が強まる前の2月初めの1バレル60ドル台半ばから、4月には100ドル台へ上昇した。同社は原油販売量の増加、原油価格の上昇、精製・化学製品の販売量増加が業績改善の背景だと説明した。アミン・ナセルCEOは、東西パイプラインがホルムズ海峡を迂回して衝撃を和らげた一方、日量700万バレルの最大輸送能力に達している点は負担だと述べた。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "霍尔木兹封锁推高油价，沙特阿美一季度净利增25.6%超预期",
-        "excerpt": "沙特阿美当地时间10日表示，受油价上涨和销量增加推动，一季度净利润同比增长25.6%，高于市场预期。",
-        "body": "据路透社和彭博社等当地时间10日报道，受美国与伊朗战争引发的国际油价急涨影响，沙特阿拉伯国有石油企业沙特阿美今年一季度业绩表现强劲。阿美一季度净利润同比增长25.6%，达1201.3亿沙特里亚尔，约合320.2亿美元，高于市场预期的309.5亿美元。国际油价从中东局势恶化前2月初的每桶60多美元中段，在4月升至100美元区间。公司表示，原油销量增加、油价上涨以及炼化产品销量增加，是业绩改善的原因。首席执行官阿明·纳赛尔称，东西向管道绕开霍尔木兹海峡，缓解了能源冲击，但该管道已达到每日700万桶最大运输能力，这一点构成压力。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Bloqueo de Ormuz dispara el crudo y Aramco eleva 25,6% su beneficio del primer trimestre",
-        "excerpt": "Saudi Aramco dijo el día 10, hora local, que su beneficio neto del primer trimestre subió un 25,6% interanual por el alza del petróleo y mayores ventas, superando previsiones.",
-        "body": "La petrolera estatal saudí Aramco registró un sólido resultado en el primer trimestre por el fuerte aumento de los precios internacionales del petróleo tras la guerra entre Estados Unidos e Irán, informaron Reuters y Bloomberg el día 10, hora local. El beneficio neto trimestral de Aramco aumentó un 25,6% interanual, hasta 120.130 millones de riyales saudíes, unos 32.020 millones de dólares, por encima de la previsión del mercado de 30.950 millones. El petróleo pasó de la zona media de 60 dólares por barril a comienzos de febrero, antes del aumento de la tensión en Oriente Medio, a la zona de 100 dólares en abril. La empresa atribuyó la mejora a mayores volúmenes de venta de crudo, precios más altos del petróleo y más ventas de productos refinados y químicos. El CEO Amin Nasser dijo que el oleoducto este-oeste ayudó a eludir el estrecho de Ormuz y mitigar el impacto, aunque alcanzar su capacidad máxima de 7 millones de barriles diarios supone una carga. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Bloqueio de Ormuz eleva petróleo e lucro da Aramco cresce 25,6% no 1º trimestre",
-        "excerpt": "A Saudi Aramco informou no dia 10, horário local, que o lucro líquido do primeiro trimestre subiu 25,6% em relação ao ano anterior, com petróleo mais caro e maior volume de vendas.",
-        "body": "A estatal saudita de petróleo Aramco apresentou desempenho mais forte no primeiro trimestre, impulsionada pela alta dos preços internacionais do petróleo após a guerra entre Estados Unidos e Irã, informaram Reuters e Bloomberg no dia 10, horário local. O lucro líquido da Aramco no trimestre cresceu 25,6% ante o ano anterior, para 120,13 bilhões de riais sauditas, cerca de US$ 32,02 bilhões, acima da previsão de mercado de US$ 30,95 bilhões. O petróleo saiu da faixa média de US$ 60 por barril no início de fevereiro, antes do agravamento das tensões no Oriente Médio, e chegou à faixa de US$ 100 em abril. A companhia disse que a melhora veio do aumento do volume de vendas de petróleo bruto, da alta do preço do petróleo e do crescimento nas vendas de produtos refinados e químicos. O CEO Amin Nasser afirmou que o oleoduto leste-oeste ajudou a contornar o Estreito de Ormuz e aliviar o choque, mas destacou como pressão o fato de já ter atingido a capacidade máxima de 7 milhões de barris por dia. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Hormus-Blockade treibt Ölpreis: Aramco steigert Q1-Gewinn um 25,6% über Prognose",
-        "excerpt": "Saudi Aramco teilte am 10. Mai Ortszeit mit, dass der Nettogewinn im ersten Quartal dank höherer Ölpreise und Verkaufsvolumen um 25,6% zum Vorjahr stieg und die Prognosen übertraf.",
-        "body": "Der saudi-arabische Staatsölkonzern Aramco hat im ersten Quartal dank des kräftigen Anstiegs der internationalen Ölpreise infolge des Kriegs zwischen den USA und Iran starke Ergebnisse erzielt, berichteten Reuters und Bloomberg am 10. Mai Ortszeit. Der Nettogewinn stieg gegenüber dem Vorjahr um 25,6% auf 120,13 Milliarden Saudi-Riyal, rund 32,02 Milliarden Dollar, und lag damit über der Markterwartung von 30,95 Milliarden Dollar. Der Ölpreis kletterte von Mitte 60 Dollar je Barrel Anfang Februar, vor der Zuspitzung der Nahost-Spannungen, im April in den Bereich von 100 Dollar. Das Unternehmen nannte höhere Rohölabsätze, gestiegene Ölpreise sowie mehr Verkäufe von Raffinerie- und Chemieprodukten als Gründe. CEO Amin Nasser sagte, die Ost-West-Pipeline habe geholfen, die Straße von Hormus zu umgehen und den Schock abzufedern; belastend sei jedoch, dass sie bereits ihre maximale Transportkapazität von 7 Millionen Barrel pro Tag erreicht habe. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Blocage d’Ormuz: le pétrole grimpe et le bénéfice d’Aramco bondit de 25,6% au T1",
-        "excerpt": "Saudi Aramco a annoncé le 10 mai, heure locale, que son bénéfice net du premier trimestre avait augmenté de 25,6% sur un an, porté par la hausse du pétrole et des volumes vendus.",
-        "body": "La compagnie pétrolière publique saoudienne Aramco a enregistré de bons résultats au premier trimestre, portée par la forte hausse des prix internationaux du pétrole après la guerre entre les États-Unis et l’Iran, ont rapporté Reuters et Bloomberg le 10 mai, heure locale. Le bénéfice net trimestriel d’Aramco a progressé de 25,6% sur un an à 120,13 milliards de riyals saoudiens, soit environ 32,02 milliards de dollars, au-dessus de la prévision du marché de 30,95 milliards. Le pétrole est passé d’un niveau médian de 60 dollars le baril début février, avant l’aggravation des tensions au Moyen-Orient, à la zone des 100 dollars en avril. L’entreprise a attribué l’amélioration à l’augmentation des volumes de vente de brut, à la hausse des prix du pétrole et à la progression des ventes de produits raffinés et chimiques. Le PDG Amin Nasser a déclaré que l’oléoduc est-ouest avait permis de contourner le détroit d’Ormuz et d’atténuer le choc, tout en soulignant que sa capacité maximale de 7 millions de barils par jour était déjà atteinte. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "إغلاق هرمز يرفع النفط وأرباح أرامكو الفصلية تزيد 25.6% متجاوزة التوقعات",
-        "excerpt": "قالت أرامكو السعودية في 10 مايو بالتوقيت المحلي إن صافي ربح الربع الأول ارتفع 25.6% سنويا بدعم من صعود أسعار النفط وزيادة المبيعات، متجاوزا توقعات السوق.",
-        "body": "حققت شركة أرامكو السعودية، شركة النفط الحكومية في السعودية، أداء قويا في الربع الأول مع القفزة في أسعار النفط العالمية نتيجة الحرب بين الولايات المتحدة وإيران، بحسب ما نقلته رويترز وبلومبرغ في 10 مايو بالتوقيت المحلي. وارتفع صافي ربح أرامكو في الربع الأول 25.6% على أساس سنوي إلى 120.13 مليار ريال سعودي، أي نحو 32.02 مليار دولار، متجاوزا توقعات السوق البالغة 30.95 مليار دولار. وارتفع سعر النفط من منتصف نطاق الستين دولارا للبرميل في أوائل فبراير، قبل تفاقم التوتر في الشرق الأوسط، إلى نطاق 100 دولار في أبريل. وقالت الشركة إن تحسن النتائج جاء من زيادة مبيعات الخام، وارتفاع أسعار النفط، ونمو مبيعات المنتجات المكررة والكيميائية. وقال الرئيس التنفيذي أمين الناصر إن خط الأنابيب الشرقي الغربي ساعد في تجاوز مضيق هرمز وتخفيف الصدمة، لكن وصوله إلى طاقته القصوى البالغة 7 ملايين برميل يوميا يمثل عبئا. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "हॉर्मुज बंदी से तेल उछला, अरामको का पहली तिमाही शुद्ध लाभ 25.6% बढ़ा",
-        "excerpt": "सऊदी अरामको ने स्थानीय समयानुसार 10 मई को कहा कि तेल कीमतों और बिक्री मात्रा में वृद्धि से पहली तिमाही का शुद्ध लाभ सालाना 25.6% बढ़ा और बाजार अनुमान से ऊपर रहा।",
-        "body": "सऊदी अरब की सरकारी तेल कंपनी अरामको के इस साल की पहली तिमाही के नतीजे अमेरिका और ईरान के बीच युद्ध के बाद अंतरराष्ट्रीय तेल कीमतों में तेज उछाल से मजबूत रहे, रॉयटर्स और ब्लूमबर्ग ने स्थानीय समयानुसार 10 मई को रिपोर्ट किया। अरामको का पहली तिमाही का शुद्ध लाभ सालाना 25.6% बढ़कर 120.13 अरब सऊदी रियाल, यानी करीब 32.02 अरब डॉलर, रहा और 30.95 अरब डॉलर के बाजार अनुमान से ऊपर निकला। मध्य पूर्व तनाव बढ़ने से पहले फरवरी की शुरुआत में तेल करीब मध्य 60 डॉलर प्रति बैरल पर था, जो अप्रैल में 100 डॉलर के दायरे में पहुंच गया। कंपनी ने कहा कि कच्चे तेल की बिक्री मात्रा, तेल कीमतों और रिफाइंड व रसायन उत्पादों की बिक्री में वृद्धि से नतीजे सुधरे। सीईओ अमीन नासर ने कहा कि पूर्व-पश्चिम पाइपलाइन ने हॉर्मुज जलडमरूमध्य को बाइपास कर झटके को कम किया, लेकिन इसका प्रतिदिन 70 लाख बैरल की अधिकतम क्षमता पर पहुंचना दबाव है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Blokade Hormuz Dorong Harga Minyak, Laba Q1 Aramco Naik 25,6% Lampaui Estimasi",
-        "excerpt": "Saudi Aramco pada 10 Mei waktu setempat menyatakan laba bersih kuartal pertama naik 25,6% secara tahunan, didukung kenaikan harga minyak dan volume penjualan, melampaui perkiraan pasar.",
-        "body": "Perusahaan minyak negara Arab Saudi, Aramco, mencatat kinerja kuartal pertama yang kuat karena lonjakan harga minyak internasional akibat perang antara Amerika Serikat dan Iran, menurut laporan Reuters dan Bloomberg pada 10 Mei waktu setempat. Laba bersih Aramco kuartal pertama naik 25,6% dibanding tahun sebelumnya menjadi 120,13 miliar riyal Saudi, atau sekitar 32,02 miliar dolar AS, melampaui perkiraan pasar 30,95 miliar dolar AS. Harga minyak naik dari kisaran pertengahan 60 dolar AS per barel pada awal Februari, sebelum ketegangan Timur Tengah meningkat, ke kisaran 100 dolar AS pada April. Perusahaan menyebut peningkatan volume penjualan minyak mentah, kenaikan harga minyak, serta pertumbuhan penjualan produk olahan dan kimia sebagai pendorong hasil tersebut. CEO Amin Nasser mengatakan pipa timur-barat membantu melewati Selat Hormuz dan meredam guncangan, tetapi kapasitas maksimumnya sebesar 7 juta barel per hari sudah tercapai dan menjadi beban. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "eb768091855e",
-    "slug": "구윤철-올-성장률-2-넘는다확장재정으로-잠재성장률-높일-것-886254",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T20:50:45.287Z",
-    "updatedAt": "2026-05-11T20:50:45.287Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051190731",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051190731",
-    "titleFingerprint": "a9b951554e160ca8e9068af8f7ca9bce60b3f6b1",
-    "dedupKeys": [
-      "eb768091855edb3ce49d00758d6c595b6e8d5622",
-      "a9b951554e160ca8e9068af8f7ca9bce60b3f6b1",
-      "f4a828f7f9313d3fa4ddcdd8ddf2bad930215c27"
-    ],
-    "imageUrl": "/images/articles/eb768091855e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "구윤철, 올해 성장률 2% 초과 전망…확장재정으로 잠재성장률 제고",
-        "excerpt": "구윤철은 올해 한국 경제 성장률이 2%를 넘을 것으로 전망하며, 확장재정을 통해 잠재성장률을 높이겠다는 방향을 밝혔다.",
-        "body": "구윤철은 올해 성장률이 2%를 넘을 것이라고 밝혔다. 그는 확장재정을 통해 잠재성장률을 높이겠다는 입장을 제시했다. 이번 발언의 핵심은 단기 성장률 전망과 중장기 성장 여력 제고 방향에 맞춰져 있다. 수치로는 올해 성장률 2% 초과 가능성이 언급됐고, 정책 수단으로는 확장재정이 제시됐다. 향후 경제정책 논의에서는 성장률 전망과 재정 역할, 잠재성장률 개선 방안이 함께 주목될 전망이다. 출처: hankyung.com 인용."
-      },
-      "en": {
-        "title": "Koo Yun-cheol sees growth above 2% this year, backs expansionary fiscal policy",
-        "excerpt": "Koo Yun-cheol said South Korea’s economy is expected to grow more than 2% this year and signaled plans to raise potential growth through expansionary fiscal policy.",
-        "body": "Koo Yun-cheol said this year’s economic growth rate will exceed 2%. He also stated that expansionary fiscal policy would be used to raise potential growth. The core of the remarks centers on a near-term growth outlook and the direction for improving medium- to long-term growth capacity. The only figure cited was the possibility of growth above 2% this year, while expansionary fiscal policy was presented as the policy tool. Future economic policy discussions are likely to focus on the growth outlook, the role of fiscal policy and ways to improve potential growth. Source: cited from hankyung.com."
-      },
-      "ja": {
-        "title": "具潤哲氏、今年の成長率2%超を予想…拡張財政で潜在成長率引き上げへ",
-        "excerpt": "具潤哲氏は今年の韓国経済成長率が2%を超えるとの見通しを示し、拡張的な財政運営で潜在成長率を高める方針を明らかにした。",
-        "body": "具潤哲氏は、今年の成長率が2%を超えるとの見方を示した。あわせて、拡張的な財政政策を通じて潜在成長率を高める考えを示した。今回の発言の焦点は、短期的な成長率見通しと、中長期的な成長余力を高める政策方向にある。数値としては今年の成長率が2%を上回る可能性が示され、政策手段として拡張財政が挙げられた。今後の経済政策論議では、成長率見通し、財政の役割、潜在成長率の改善策が注目される見通しだ。出典: hankyung.com引用。"
-      },
-      "zh": {
-        "title": "具润哲称今年增长率将超2%：将以扩张财政提高潜在增长率",
-        "excerpt": "具润哲表示，今年韩国经济增长率有望超过2%，并提出将通过扩张性财政政策提高潜在增长率的方向。",
-        "body": "具润哲表示，今年经济增长率将超过2%。他同时提出，将通过扩张性财政政策提高潜在增长率。此次表态的核心在于短期增长率展望，以及提升中长期增长潜力的政策方向。相关数字方面，仅提到今年增长率可能超过2%；政策工具方面，则提出扩张性财政。今后的经济政策讨论预计将继续关注增长率展望、财政作用以及改善潜在增长率的方案。来源：引自 hankyung.com。"
-      },
-      "es": {
-        "title": "Koo Yun-cheol prevé crecimiento superior al 2% y apuesta por política fiscal expansiva",
-        "excerpt": "Koo Yun-cheol afirmó que la economía crecerá más del 2% este año y señaló que buscará elevar el crecimiento potencial mediante una política fiscal expansiva.",
-        "body": "Koo Yun-cheol afirmó que la tasa de crecimiento de este año superará el 2%. También señaló que se buscará elevar el crecimiento potencial mediante una política fiscal expansiva. El eje de sus declaraciones combina una previsión de crecimiento de corto plazo con una orientación para fortalecer la capacidad de crecimiento a medio y largo plazo. La cifra mencionada fue la posibilidad de un crecimiento superior al 2% este año, mientras que la herramienta de política indicada fue la expansión fiscal. Las próximas discusiones económicas pondrán atención en la previsión de crecimiento, el papel de la política fiscal y las medidas para mejorar el crecimiento potencial. Fuente: citado de hankyung.com."
-      },
-      "pt": {
-        "title": "Koo Yun-cheol prevê crescimento acima de 2% e defende política fiscal expansionista",
-        "excerpt": "Koo Yun-cheol disse que a economia deve crescer mais de 2% este ano e indicou que pretende elevar o crescimento potencial com política fiscal expansionista.",
-        "body": "Koo Yun-cheol afirmou que a taxa de crescimento deste ano ficará acima de 2%. Ele também declarou que pretende elevar o crescimento potencial por meio de uma política fiscal expansionista. O foco das declarações está na previsão de crescimento de curto prazo e na direção para ampliar a capacidade de crescimento no médio e longo prazo. O número citado foi a possibilidade de crescimento superior a 2% este ano, enquanto a expansão fiscal foi apresentada como instrumento de política. As próximas discussões econômicas devem observar a previsão de crescimento, o papel da política fiscal e formas de melhorar o crescimento potencial. Fonte: citado de hankyung.com."
-      },
-      "de": {
-        "title": "Koo Yun-cheol erwartet über 2% Wachstum und setzt auf expansive Fiskalpolitik",
-        "excerpt": "Koo Yun-cheol sagte, die Wirtschaft werde in diesem Jahr um mehr als 2% wachsen, und kündigte an, das potenzielle Wachstum mit expansiver Fiskalpolitik zu erhöhen.",
-        "body": "Koo Yun-cheol sagte, die Wachstumsrate werde in diesem Jahr über 2% liegen. Zugleich erklärte er, das potenzielle Wachstum solle durch expansive Fiskalpolitik erhöht werden. Der Kern der Aussage liegt in einer kurzfristigen Wachstumsprognose und in der Richtung, die mittel- bis langfristige Wachstumskraft zu stärken. Als Zahl wurde die Möglichkeit eines Wachstums von mehr als 2% in diesem Jahr genannt; als politisches Instrument wurde expansive Fiskalpolitik angeführt. In künftigen wirtschaftspolitischen Debatten dürften Wachstumsprognose, Rolle der Fiskalpolitik und Maßnahmen zur Verbesserung des potenziellen Wachstums im Fokus stehen. Quelle: zitiert nach hankyung.com."
-      },
-      "fr": {
-        "title": "Koo Yun-cheol prévoit plus de 2% de croissance et mise sur une politique budgétaire expansive",
-        "excerpt": "Koo Yun-cheol a déclaré que la croissance dépasserait 2% cette année et a indiqué vouloir relever la croissance potentielle par une politique budgétaire expansive.",
-        "body": "Koo Yun-cheol a déclaré que le taux de croissance de cette année dépasserait 2%. Il a également indiqué que la croissance potentielle serait relevée grâce à une politique budgétaire expansive. Le cœur de ses propos porte sur une prévision de croissance à court terme et sur l’orientation visant à renforcer la capacité de croissance à moyen et long terme. Le chiffre mentionné est la possibilité d’une croissance supérieure à 2% cette année, tandis que l’expansion budgétaire a été présentée comme outil de politique économique. Les prochains débats économiques devraient porter sur la prévision de croissance, le rôle du budget et les moyens d’améliorer la croissance potentielle. Source : cité de hankyung.com."
-      },
-      "ar": {
-        "title": "كو يون تشول يتوقع نموا فوق 2% هذا العام ويدعم سياسة مالية توسعية",
-        "excerpt": "قال كو يون تشول إن النمو الاقتصادي هذا العام سيتجاوز 2%، موضحا أن رفع معدل النمو المحتمل سيتم عبر سياسة مالية توسعية.",
-        "body": "قال كو يون تشول إن معدل النمو هذا العام سيتجاوز 2%. وأضاف أن السياسة المالية التوسعية ستستخدم لرفع معدل النمو المحتمل. تتركز التصريحات على توقعات النمو في الأجل القصير وعلى اتجاه زيادة قدرة النمو في الأجلين المتوسط والطويل. الرقم الوحيد المذكور هو احتمال تجاوز النمو 2% هذا العام، أما أداة السياسة المطروحة فهي التوسع المالي. ومن المتوقع أن تتركز مناقشات السياسة الاقتصادية المقبلة على توقعات النمو، ودور السياسة المالية، وسبل تحسين معدل النمو المحتمل. المصدر: نقلا عن hankyung.com."
-      },
-      "hi": {
-        "title": "कू यून-चोल का अनुमान: इस साल वृद्धि 2% से ऊपर, विस्तारवादी राजकोषीय नीति पर जोर",
-        "excerpt": "कू यून-चोल ने कहा कि इस साल आर्थिक वृद्धि 2% से अधिक रहेगी और विस्तारवादी राजकोषीय नीति के जरिए संभावित वृद्धि दर बढ़ाने की दिशा बताई।",
-        "body": "कू यून-चोल ने कहा कि इस साल वृद्धि दर 2% से अधिक रहेगी। उन्होंने यह भी कहा कि विस्तारवादी राजकोषीय नीति के जरिए संभावित वृद्धि दर को बढ़ाया जाएगा। उनके बयान का मुख्य बिंदु अल्पकालिक वृद्धि अनुमान और मध्यम से दीर्घ अवधि की वृद्धि क्षमता को मजबूत करने की नीति दिशा है। उल्लेखित आंकड़ा इस साल 2% से अधिक वृद्धि की संभावना है, जबकि नीति साधन के रूप में विस्तारवादी राजकोषीय नीति रखी गई। आगे की आर्थिक नीति चर्चा में वृद्धि अनुमान, राजकोषीय नीति की भूमिका और संभावित वृद्धि दर सुधारने के उपायों पर ध्यान रहने की संभावना है। स्रोत: hankyung.com से उद्धृत."
-      },
-      "id": {
-        "title": "Koo Yun-cheol prediksi pertumbuhan di atas 2%, dorong fiskal ekspansif",
-        "excerpt": "Koo Yun-cheol menyatakan pertumbuhan ekonomi tahun ini akan melampaui 2% dan menegaskan arah untuk menaikkan pertumbuhan potensial lewat fiskal ekspansif.",
-        "body": "Koo Yun-cheol mengatakan tingkat pertumbuhan tahun ini akan melampaui 2%. Ia juga menyampaikan bahwa kebijakan fiskal ekspansif akan digunakan untuk menaikkan pertumbuhan potensial. Inti pernyataan tersebut berada pada prospek pertumbuhan jangka pendek dan arah peningkatan kapasitas pertumbuhan dalam jangka menengah hingga panjang. Angka yang disebut adalah kemungkinan pertumbuhan di atas 2% tahun ini, sementara instrumen kebijakan yang diajukan adalah fiskal ekspansif. Pembahasan kebijakan ekonomi berikutnya diperkirakan akan menyoroti prospek pertumbuhan, peran fiskal, dan cara meningkatkan pertumbuhan potensial. Sumber: dikutip dari hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "0b6449302864",
-    "slug": "반년새-주가-36-쑥시총-1위-넘보는-알파벳-920986",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T20:49:45.416Z",
-    "updatedAt": "2026-05-11T20:49:45.416Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051190601",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051190601",
-    "titleFingerprint": "f25ba6c769f00a3827bb67ecadcc035a2d04549c",
-    "dedupKeys": [
-      "0b6449302864e6253e9d3d6962a66cdb818734f5",
-      "f25ba6c769f00a3827bb67ecadcc035a2d04549c",
-      "3022bad891d6c94639bfc8476b4adb6d3a7cb66b"
-    ],
-    "imageUrl": "/images/articles/0b6449302864.png",
-    "i18n": {
-      "ko": {
-        "title": "알파벳 주가 반년새 36% 상승, 시총 1위 추격에 시장 주목",
-        "excerpt": "알파벳이 최근 반년 사이 주가를 36% 끌어올리며 시가총액 1위 자리를 넘볼 만큼 몸집을 키웠다는 소식이 전해졌다.",
-        "body": "알파벳이 최근 반년 사이 주가를 36% 올리며 시가총액 1위 자리를 넘보는 수준까지 올라섰다고 hankyung.com이 전했다. 이번 소식의 핵심은 짧지 않은 6개월 동안 주가가 크게 뛰었고, 그 결과 시장 내 기업가치 순위 경쟁에서 알파벳의 존재감이 커졌다는 점이다. 원문은 구체적인 배경 설명 없이 ‘반년새 주가 36% 상승’과 ‘시총 1위 추격’이라는 흐름을 중심으로 전했다. 주가 상승 폭이 커진 만큼 투자자들은 알파벳의 시가총액 변화와 1위 기업과의 격차에 관심을 둘 수 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Alphabet Shares Jump 36% in Six Months as Market-Cap Race Draws Attention",
-        "excerpt": "Alphabet has reportedly lifted its share price by 36% over the past six months, growing large enough to challenge for the top market-cap position.",
-        "body": "Alphabet’s share price has risen 36% over the past six months, bringing the company close to challenging for the No. 1 spot by market capitalization, hankyung.com reported. The key point is that the stock posted a sharp gain over a six-month period, increasing Alphabet’s presence in the market-value rankings. The original report focused on the two facts: a 36% share-price rise in half a year and Alphabet’s approach toward the market-cap leader. With that scale of stock appreciation, investors may watch changes in Alphabet’s market value and its gap with the top-ranked company. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "アルファベット株が半年で36％上昇、時価総額首位争いに注目",
-        "excerpt": "アルファベットの株価がこの半年で36％上昇し、時価総額で首位をうかがう規模に近づいたと報じられた。",
-        "body": "アルファベットの株価がこの半年で36％上昇し、時価総額で首位をうかがう水準まで浮上したと、hankyung.comが伝えた。今回の要点は、6カ月という期間で株価が大きく伸び、その結果として企業価値ランキングでアルファベットの存在感が増したことだ。原文は詳しい背景説明には踏み込まず、「半年で株価36％上昇」と「時価総額首位を追う動き」を中心に報じている。上昇幅が大きいだけに、投資家は今後の時価総額の変化と首位企業との差に注目する可能性がある。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "Alphabet股价半年涨36%，逼近市值第一引发市场关注",
-        "excerpt": "据报道，Alphabet近半年股价上涨36%，公司规模扩大到足以挑战市值第一的位置，市场关注度随之升温。",
-        "body": "据hankyung.com报道，Alphabet近半年股价上涨36%，已升至接近挑战市值第一的位置。此次消息的核心在于，股价在六个月内明显上涨，使Alphabet在企业市值排名竞争中的存在感增强。原文未展开具体背景，而是围绕“半年股价上涨36%”以及“逼近市值第一”这一走势进行报道。鉴于股价涨幅较大，投资者可能继续关注Alphabet市值变化，以及其与第一名企业之间的差距。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Alphabet sube 36% en seis meses y se acerca al primer puesto por capitalización",
-        "excerpt": "Alphabet habría elevado su acción un 36% en los últimos seis meses, aumentando su tamaño hasta acercarse al liderazgo por capitalización bursátil.",
-        "body": "Las acciones de Alphabet subieron un 36% en los últimos seis meses, situando a la compañía cerca de disputar el primer puesto por capitalización bursátil, informó hankyung.com. El punto central es que la acción avanzó con fuerza durante un periodo de seis meses, lo que aumentó la presencia de Alphabet en la competencia por valor de mercado. El informe original se centró en dos datos: la subida del 36% en medio año y el acercamiento al líder por capitalización. Con una ganancia de esa magnitud, los inversores pueden seguir atentos a los cambios en el valor de mercado de Alphabet y a la brecha con la empresa líder. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Alphabet avança 36% em seis meses e mira liderança em valor de mercado",
-        "excerpt": "A Alphabet teria visto suas ações subirem 36% nos últimos seis meses, aproximando-se da disputa pelo maior valor de mercado.",
-        "body": "As ações da Alphabet subiram 36% nos últimos seis meses, levando a companhia a um nível próximo de disputar o primeiro lugar em valor de mercado, informou o hankyung.com. O ponto principal é que o papel teve forte alta em um período de seis meses, ampliando a presença da Alphabet na competição entre as empresas de maior capitalização. A reportagem original destacou dois fatos: a valorização de 36% em meio ano e a aproximação da liderança em valor de mercado. Com esse avanço, investidores podem observar as mudanças na capitalização da Alphabet e a distância em relação à empresa líder. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Alphabet-Aktie steigt in sechs Monaten um 36% und rückt an Börsenwert-Spitze heran",
-        "excerpt": "Alphabet hat seinen Aktienkurs binnen sechs Monaten offenbar um 36% gesteigert und nähert sich damit der Spitze nach Marktkapitalisierung.",
-        "body": "Die Aktie von Alphabet ist in den vergangenen sechs Monaten um 36% gestiegen und hat das Unternehmen nahe an die Spitzenposition nach Marktkapitalisierung gebracht, berichtete hankyung.com. Entscheidend ist, dass der Kurs über ein halbes Jahr deutlich zulegte und Alphabet dadurch in der Rangliste der Unternehmenswerte stärker in den Fokus rückte. Der Originalbericht konzentrierte sich auf zwei Punkte: den Kursanstieg von 36% in sechs Monaten und die Annäherung an den Marktwert-Spitzenreiter. Angesichts dieses Anstiegs dürften Anleger die weitere Entwicklung der Marktkapitalisierung von Alphabet und den Abstand zum führenden Unternehmen beobachten. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Alphabet gagne 36% en six mois et se rapproche du sommet en capitalisation",
-        "excerpt": "Alphabet aurait vu son action progresser de 36% en six mois, au point de se rapprocher de la première place en capitalisation boursière.",
-        "body": "L’action Alphabet a progressé de 36% au cours des six derniers mois, plaçant l’entreprise près d’une possible première place en capitalisation boursière, a rapporté hankyung.com. Le point essentiel est que le titre a fortement monté sur une période de six mois, renforçant la présence d’Alphabet dans le classement des valeurs de marché. L’article original s’est concentré sur deux éléments: une hausse de 36% en un semestre et un rapprochement du leader par capitalisation. Compte tenu de cette progression, les investisseurs peuvent suivre l’évolution de la capitalisation d’Alphabet et l’écart avec l’entreprise en tête. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "سهم ألفابت يرتفع 36% في نصف عام ويقترب من صدارة القيمة السوقية",
-        "excerpt": "ارتفع سهم ألفابت خلال الأشهر الستة الأخيرة بنسبة 36%، لتقترب الشركة من منافسة المركز الأول من حيث القيمة السوقية، وفق تقرير إعلامي.",
-        "body": "ارتفع سهم ألفابت بنسبة 36% خلال الأشهر الستة الأخيرة، ما وضع الشركة قرب مستوى المنافسة على المركز الأول من حيث القيمة السوقية، بحسب ما نقل hankyung.com. وتتمثل النقطة الأساسية في أن السهم سجل صعودا كبيرا خلال فترة نصف عام، الأمر الذي عزز حضور ألفابت في سباق ترتيب الشركات حسب القيمة السوقية. وركز التقرير الأصلي على حقيقتين: ارتفاع السهم 36% خلال نصف عام، واقترابه من متصدر القيمة السوقية. ومع هذا الحجم من الصعود، قد يراقب المستثمرون تغيرات القيمة السوقية لألفابت والفجوة بينها وبين الشركة صاحبة المركز الأول. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Alphabet का शेयर छह महीनों में 36% चढ़ा, मार्केट कैप में शीर्ष के करीब",
-        "excerpt": "Alphabet के शेयर में पिछले छह महीनों में 36% की तेजी आई है, जिससे कंपनी मार्केट कैप में पहले स्थान की दौड़ के करीब पहुंचती दिखी।",
-        "body": "hankyung.com के अनुसार, Alphabet का शेयर पिछले छह महीनों में 36% चढ़ा है और कंपनी मार्केट कैप के आधार पर पहले स्थान को चुनौती देने के करीब पहुंच गई है। मुख्य बात यह है कि छह महीने की अवधि में शेयर में तेज बढ़त हुई, जिससे बाजार मूल्य की रैंकिंग में Alphabet की उपस्थिति और मजबूत दिखी। मूल रिपोर्ट ने दो तथ्यों पर ध्यान दिया: आधे साल में 36% शेयर वृद्धि और मार्केट कैप में शीर्ष कंपनी के करीब पहुंचना। इस बढ़त के बाद निवेशक Alphabet के बाजार मूल्य में बदलाव और पहले स्थान वाली कंपनी से उसके अंतर पर नजर रख सकते हैं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Saham Alphabet Naik 36% dalam Enam Bulan, Dekati Puncak Kapitalisasi Pasar",
-        "excerpt": "Alphabet dilaporkan mencatat kenaikan saham 36% dalam enam bulan terakhir, membuat nilainya mendekati perebutan posisi pertama kapitalisasi pasar.",
-        "body": "Saham Alphabet naik 36% dalam enam bulan terakhir, membawa perusahaan itu mendekati posisi untuk menantang peringkat pertama kapitalisasi pasar, menurut hankyung.com. Inti kabarnya adalah harga saham naik tajam selama periode enam bulan, sehingga keberadaan Alphabet dalam persaingan nilai pasar perusahaan makin menonjol. Laporan asli berfokus pada dua fakta: kenaikan saham 36% dalam setengah tahun dan langkah Alphabet mendekati pemimpin kapitalisasi pasar. Dengan kenaikan sebesar itu, investor dapat mencermati perubahan nilai pasar Alphabet serta jaraknya dari perusahaan peringkat pertama. Sumber: hankyung.com."
       }
     }
   }
