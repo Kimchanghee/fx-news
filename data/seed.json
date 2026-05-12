@@ -1,5 +1,230 @@
 [
   {
+    "id": "2bf7c825dfab",
+    "slug": "배터리태양광-전략산업-보호하려면직접환급제-절실-404007",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T14:51:28.629Z",
+    "updatedAt": "2026-05-12T14:51:28.629Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044699",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044699",
+    "titleFingerprint": "dc6a41227d6e9d86d218d0e46972af29ec9f1130",
+    "dedupKeys": [
+      "2bf7c825dfab0b85e45787d5fa0f3f12d2ddbc83",
+      "dc6a41227d6e9d86d218d0e46972af29ec9f1130",
+      "e9d836a73def043db589e5541c190ce1aee1894b"
+    ],
+    "imageUrl": "/images/articles/2bf7c825dfab.jpg",
+    "i18n": {
+      "ko": {
+        "title": "배터리·태양광 전략산업 보호, ‘한국형 IRA’ 직접환급제가 관건",
+        "excerpt": "글로벌 공급망 재편과 자국 우선주의가 확산되는 가운데 배터리·태양광 등 전략산업을 보호하려면 생산량 연동 지원과 직접환급제가 필요하다는 주장이 제기됐다.",
+        "body": "글로벌 공급망 재편과 자국 우선주의 확산 속에서 배터리·태양광 등 전략산업을 보호하려면 ‘한국형 IRA’에 직접환급제를 도입해야 한다는 주장이 나왔다. 핵심은 생산량에 지원을 연동해 적자 기업도 실질적 혜택을 받을 수 있게 하는 것이다. 원문은 반도체를 포함한 전략산업이 글로벌 경쟁의 전면에 놓였고, 산업 안보 차원의 대응이 중요해졌다고 강조했다. 직접환급제가 마련되면 이익이 나지 않는 기업도 세액공제에 그치지 않고 지원 효과를 체감할 수 있다는 점이 부각된다. 향후 제도 설계는 국내 전략산업 보호와 공급망 대응 역량을 좌우할 변수로 거론된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Battery and Solar Industry Protection Hinges on Direct Refunds in Korea-Style IRA",
+        "excerpt": "As supply chains shift and national-first policies spread, calls are growing for a Korea-style IRA that links support to output and uses direct refunds for strategic industries.",
+        "body": "Amid global supply chain realignment and the spread of national-first policies, calls have emerged for direct refunds under a “Korea-style IRA” to protect strategic industries such as batteries and solar power. The key proposal is to link support to production volume so that loss-making companies can also receive practical benefits. The source says strategic sectors, including semiconductors, are at the center of global competition and that industrial security has become more important. With direct refunds, companies without profits would not be limited to tax credits and could feel the effect of support. The design of the system is expected to matter for protecting domestic strategic industries and responding to supply chain pressures. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "電池・太陽光の戦略産業保護、韓国版IRAの直接還付制が焦点",
+        "excerpt": "供給網再編と自国優先主義が広がる中、電池・太陽光など戦略産業を守るには、生産量連動支援と直接還付制が必要との声が出ている。",
+        "body": "世界的な供給網再編と自国優先主義の拡大を受け、電池・太陽光などの戦略産業を保護するには「韓国版IRA」に直接還付制を導入すべきだとの主張が出た。核心は、生産量に支援を連動させ、赤字企業も実質的な恩恵を受けられるようにすることだ。原文は、半導体を含む戦略産業がグローバル競争の前面にあり、産業安全保障としての対応が重要になったと強調した。直接還付制が整えば、利益が出ていない企業も税額控除にとどまらず支援効果を実感できる点が注目される。制度設計は国内戦略産業の保護と供給網対応力を左右する要因として挙げられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "电池与太阳能战略产业保护，韩版IRA直接退还制成关键",
+        "excerpt": "在全球供应链重组和本国优先主义扩散之际，有观点认为，保护电池、太阳能等战略产业需要与产量挂钩的支持和直接退还制。",
+        "body": "随着全球供应链重组和本国优先主义扩散，有观点提出，为保护电池、太阳能等战略产业，应在“韩国版IRA”中引入直接退还制。其核心是将支持与产量挂钩，使亏损企业也能获得实际利益。原文强调，包括半导体在内的战略产业正处于全球竞争前沿，产业安全层面的应对变得更加重要。若建立直接退还制，尚未盈利的企业也不再只局限于税额抵免，而能感受到支持效果。未来制度设计被视为影响韩国国内战略产业保护和供应链应对能力的重要因素。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Baterías y solar: la protección estratégica depende de reembolsos directos",
+        "excerpt": "Ante la reconfiguración de las cadenas de suministro y el auge del nacionalismo económico, crecen los llamados a una IRA coreana con apoyo ligado a producción y reembolsos directos.",
+        "body": "En medio de la reconfiguración de las cadenas globales de suministro y la expansión de políticas de prioridad nacional, surgió el llamado a introducir reembolsos directos en una “IRA coreana” para proteger industrias estratégicas como baterías y energía solar. La propuesta central es vincular el apoyo al volumen de producción para que también las empresas con pérdidas reciban beneficios reales. El texto original subraya que sectores estratégicos, incluidos los semiconductores, están en el frente de la competencia global y que la seguridad industrial ha ganado importancia. Con reembolsos directos, las compañías sin ganancias no quedarían limitadas a créditos fiscales y podrían percibir el efecto del apoyo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Baterias e solar: proteção estratégica exige reembolso direto na IRA coreana",
+        "excerpt": "Com cadeias globais em rearranjo e políticas de prioridade nacional em alta, cresce a defesa de uma IRA coreana com apoio ligado à produção e reembolso direto.",
+        "body": "Diante da reorganização das cadeias globais de suprimento e da expansão do nacionalismo econômico, surgiu a defesa de incluir reembolso direto em uma “IRA coreana” para proteger indústrias estratégicas como baterias e energia solar. O ponto central é atrelar o apoio ao volume de produção, permitindo que empresas deficitárias também recebam benefícios efetivos. O texto original destaca que setores estratégicos, incluindo semicondutores, estão na linha de frente da competição global e que a segurança industrial se tornou mais importante. Com o reembolso direto, companhias sem lucro não ficariam restritas a créditos tributários e poderiam sentir o efeito do apoio. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Batterie- und Solarindustrie: Koreas IRA braucht direkte Rückerstattung",
+        "excerpt": "Angesichts neuer Lieferketten und nationaler Vorrangpolitik wird für strategische Branchen wie Batterien und Solarenergie eine produktionsgebundene Förderung mit direkter Rückerstattung gefordert.",
+        "body": "Vor dem Hintergrund der Neuordnung globaler Lieferketten und der Ausbreitung nationaler Vorrangpolitik wird gefordert, in eine „koreanische IRA“ direkte Rückerstattungen aufzunehmen, um strategische Branchen wie Batterien und Solarenergie zu schützen. Kern des Vorschlags ist, die Unterstützung an die Produktionsmenge zu koppeln, damit auch verlustreiche Unternehmen tatsächliche Vorteile erhalten können. Der Ausgangstext betont, dass strategische Branchen einschließlich Halbleitern im Zentrum des globalen Wettbewerbs stehen und industrielle Sicherheit wichtiger geworden ist. Mit einer direkten Rückerstattung wären Unternehmen ohne Gewinn nicht nur auf Steuergutschriften beschränkt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Batteries et solaire: l’IRA coréenne doit miser sur le remboursement direct",
+        "excerpt": "Face à la recomposition des chaînes d’approvisionnement et au repli national, des voix demandent une IRA coréenne liant l’aide à la production avec remboursement direct.",
+        "body": "Dans un contexte de recomposition des chaînes d’approvisionnement mondiales et de montée des politiques de priorité nationale, des appels émergent pour introduire un remboursement direct dans une « IRA coréenne » afin de protéger les industries stratégiques comme les batteries et le solaire. L’idée centrale est de lier le soutien au volume de production afin que les entreprises déficitaires puissent aussi bénéficier d’une aide réelle. Le texte d’origine souligne que les secteurs stratégiques, dont les semi-conducteurs, sont au cœur de la concurrence mondiale et que la sécurité industrielle gagne en importance. Un remboursement direct permettrait aux entreprises non rentables de ne pas dépendre seulement de crédits d’impôt. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "حماية البطاريات والطاقة الشمسية تتوقف على رد مباشر في IRA كورية",
+        "excerpt": "مع إعادة تشكيل سلاسل الإمداد العالمية واتساع سياسات تفضيل الداخل، تبرز دعوات لربط دعم الصناعات الاستراتيجية بالإنتاج عبر نظام رد مباشر.",
+        "body": "في ظل إعادة تشكيل سلاسل الإمداد العالمية واتساع سياسات تفضيل الداخل، ظهرت دعوات لإدخال نظام رد مباشر ضمن «IRA كورية» لحماية الصناعات الاستراتيجية مثل البطاريات والطاقة الشمسية. جوهر الطرح هو ربط الدعم بحجم الإنتاج حتى تتمكن الشركات الخاسرة أيضا من الحصول على منفعة فعلية. ويؤكد النص الأصلي أن الصناعات الاستراتيجية، بما في ذلك أشباه الموصلات، باتت في واجهة المنافسة العالمية، وأن أهمية الأمن الصناعي ازدادت. وإذا تم اعتماد الرد المباشر، فلن تقتصر الشركات غير الرابحة على الائتمانات الضريبية، بل يمكنها لمس أثر الدعم بصورة أوضح. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "बैटरी और सौर रणनीतिक उद्योगों की सुरक्षा के लिए प्रत्यक्ष रिफंड जरूरी",
+        "excerpt": "वैश्विक आपूर्ति शृंखलाओं के पुनर्गठन और देश-प्रथम नीतियों के बीच बैटरी व सौर जैसे रणनीतिक उद्योगों के लिए उत्पादन-आधारित समर्थन और प्रत्यक्ष रिफंड की मांग उठी।",
+        "body": "वैश्विक आपूर्ति शृंखलाओं के पुनर्गठन और देश-प्रथम नीतियों के फैलाव के बीच बैटरी और सौर ऊर्जा जैसे रणनीतिक उद्योगों की रक्षा के लिए “कोरियाई IRA” में प्रत्यक्ष रिफंड प्रणाली लाने की मांग सामने आई है। प्रस्ताव का केंद्र यह है कि समर्थन को उत्पादन मात्रा से जोड़ा जाए, ताकि घाटे में चल रहीं कंपनियों को भी वास्तविक लाभ मिल सके। मूल रिपोर्ट ने जोर दिया कि सेमीकंडक्टर सहित रणनीतिक उद्योग वैश्विक प्रतिस्पर्धा के अग्रिम मोर्चे पर हैं और औद्योगिक सुरक्षा का महत्व बढ़ गया है। प्रत्यक्ष रिफंड लागू होने पर बिना लाभ वाली कंपनियां केवल कर क्रेडिट तक सीमित नहीं रहेंगी और समर्थन का असर महसूस कर सकेंगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Proteksi Industri Baterai dan Surya Butuh Refund Langsung ala IRA Korea",
+        "excerpt": "Di tengah perombakan rantai pasok global dan meluasnya kebijakan mengutamakan negara sendiri, muncul dorongan agar IRA Korea memberi dukungan berbasis produksi dan refund langsung.",
+        "body": "Di tengah perombakan rantai pasok global dan meluasnya kebijakan yang mengutamakan kepentingan nasional, muncul seruan agar “IRA Korea” memasukkan skema refund langsung untuk melindungi industri strategis seperti baterai dan tenaga surya. Intinya, dukungan perlu dikaitkan dengan volume produksi agar perusahaan yang merugi pun bisa menerima manfaat nyata. Teks asli menekankan bahwa industri strategis, termasuk semikonduktor, berada di garis depan persaingan global dan keamanan industri menjadi semakin penting. Dengan refund langsung, perusahaan yang belum mencetak laba tidak hanya bergantung pada kredit pajak, tetapi dapat merasakan efek dukungan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "3432b371c5b8",
+    "slug": "청렴한-일터-조성한국동서발전-신임-노동조합과-윤리-실천-선언문-채택-442464",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T14:49:45.949Z",
+    "updatedAt": "2026-05-12T14:49:45.949Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044704",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044704",
+    "titleFingerprint": "fd929643ce1965f6d25e9878809cdb1ea0b35ef7",
+    "dedupKeys": [
+      "3432b371c5b84a33b2e7db5b598c412d8adde44a",
+      "fd929643ce1965f6d25e9878809cdb1ea0b35ef7",
+      "0a61b0888d3ef1f39be3a402e3a85c7289e18fe0"
+    ],
+    "imageUrl": "/images/articles/3432b371c5b8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국동서발전 노사, 신임 노조와 청렴·윤리 실천 선언문 채택",
+        "excerpt": "한국동서발전은 12일 신임 노동조합 집행부 출범을 맞아 지난 11일 노사공동 청렴·윤리 실천 선언문을 채택하고 청렴한 일터 조성에 나선다고 밝혔다.",
+        "body": "한국동서발전 노사가 신임 노동조합 집행부 출범을 계기로 청렴한 일터 조성에 함께 나선다. 동서발전은 12일 지난 11일 신임 노동조합 집행부 출범에 맞춰 ‘노사공동 청렴·윤리 실천 선언문’을 채택했다고 밝혔다. 이번 선언은 회사와 노동조합이 공동으로 청렴과 윤리 실천 의지를 확인했다는 데 의미가 있다. 구체적 수치로는 선언 채택일이 11일, 발표일이 12일이며, 주체는 한국동서발전 노사와 신임 노동조합 집행부다. 동서발전은 이를 통해 조직 내 청렴 문화 확산과 윤리적 근무 환경 조성에 힘을 모을 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea East-West Power, New Union Adopt Integrity and Ethics Pledge",
+        "excerpt": "Korea East-West Power said on the 12th that management and its new labor union leadership adopted a joint integrity and ethics pledge on the 11th to build a cleaner workplace.",
+        "body": "Korea East-West Power’s management and labor union are moving together to create a cleaner workplace following the launch of the new union leadership. The company said on the 12th that it adopted a “Joint Labor-Management Integrity and Ethics Practice Declaration” on the 11th, timed with the inauguration of the new union executive team. The declaration is significant because both the company and the union confirmed their shared commitment to integrity and ethical conduct. The key dates are the adoption on the 11th and the announcement on the 12th, with Korea East-West Power management, labor, and the new union leadership as the main parties. The move is expected to support a more ethical work environment. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国東西発電、労使で清廉・倫理実践宣言を採択",
+        "excerpt": "韓国東西発電は12日、新任労働組合執行部の発足に合わせ、11日に労使共同の清廉・倫理実践宣言文を採択したと明らかにした。",
+        "body": "韓国東西発電の労使が、新任労働組合執行部の発足を機に、清廉な職場づくりに共同で取り組む。東西発電は12日、新任労組執行部の発足に合わせ、11日に「労使共同清廉・倫理実践宣言文」を採択したと発表した。今回の宣言は、会社と労働組合が清廉と倫理の実践に向けた意思を共同で確認した点に意味がある。具体的な日程は採択が11日、発表が12日で、主体は韓国東西発電の労使と新任労組執行部だ。東西発電はこれを通じ、組織内の清廉文化の拡散と倫理的な勤務環境づくりに力を合わせる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国东西发电与新任工会采纳廉洁伦理实践宣言",
+        "excerpt": "韩国东西发电12日表示，配合新任工会执行部成立，劳资双方已于11日采纳共同廉洁与伦理实践宣言，推动建设清廉职场。",
+        "body": "韩国东西发电劳资双方将以新任工会执行部成立为契机，共同推进清廉职场建设。东西发电12日表示，配合新任劳动组合执行部成立，已于11日采纳《劳资共同廉洁·伦理实践宣言》。此次宣言的意义在于，公司与工会共同确认了践行廉洁和伦理的意志。具体时间为11日采纳宣言、12日对外公布，参与主体是韩国东西发电劳资双方及新任工会执行部。东西发电预计将借此推动组织内部廉洁文化扩散，并共同营造更加符合伦理的工作环境。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Korea East-West Power y nuevo sindicato adoptan pacto ético",
+        "excerpt": "Korea East-West Power informó el día 12 que, con el inicio de la nueva dirección sindical, patronal y sindicato adoptaron el día 11 una declaración conjunta de integridad y ética.",
+        "body": "La dirección y el sindicato de Korea East-West Power trabajarán juntos para crear un lugar de trabajo íntegro tras el inicio de la nueva ejecutiva sindical. La compañía informó el día 12 que el día 11 adoptó una “Declaración conjunta obrero-patronal de integridad y práctica ética”, coincidiendo con la puesta en marcha de la nueva dirección del sindicato. La declaración es relevante porque empresa y sindicato confirmaron de forma conjunta su voluntad de practicar la integridad y la ética. Los datos concretos son la adopción el día 11 y el anuncio el día 12, con la participación de la dirección, el sindicato y la nueva ejecutiva sindical de Korea East-West Power. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Korea East-West Power e novo sindicato adotam pacto de ética",
+        "excerpt": "A Korea East-West Power informou no dia 12 que, com a posse da nova direção sindical, gestão e sindicato adotaram no dia 11 uma declaração conjunta de integridade e ética.",
+        "body": "A gestão e o sindicato da Korea East-West Power atuarão juntos para criar um ambiente de trabalho íntegro após a posse da nova liderança sindical. A empresa informou no dia 12 que adotou, no dia 11, a “Declaração Conjunta Trabalhista-Patronal de Integridade e Prática Ética”, em linha com o início da nova direção do sindicato. A declaração tem significado por confirmar, de forma conjunta, o compromisso da companhia e do sindicato com a integridade e a ética. As datas centrais são a adoção no dia 11 e o anúncio no dia 12, tendo como partes a gestão, o sindicato e a nova liderança sindical da Korea East-West Power. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Korea East-West Power und neue Gewerkschaft beschließen Ethikerklärung",
+        "excerpt": "Korea East-West Power teilte am 12. mit, dass Management und neue Gewerkschaftsführung am 11. eine gemeinsame Erklärung zu Integrität und ethischem Handeln angenommen haben.",
+        "body": "Management und Gewerkschaft von Korea East-West Power wollen nach dem Start der neuen Gewerkschaftsführung gemeinsam an einem integeren Arbeitsplatz arbeiten. Das Unternehmen teilte am 12. mit, dass am 11. anlässlich des Amtsantritts der neuen Gewerkschaftsspitze eine „gemeinsame Erklärung von Arbeitnehmer- und Arbeitgeberseite zu Integrität und ethischer Praxis“ angenommen wurde. Die Erklärung ist bedeutsam, weil Unternehmen und Gewerkschaft ihren gemeinsamen Willen zu Integrität und ethischem Handeln bekräftigten. Konkret wurde sie am 11. angenommen und am 12. bekannt gegeben; beteiligt sind Management, Arbeitnehmerseite und die neue Gewerkschaftsführung. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Korea East-West Power et le nouveau syndicat adoptent une charte éthique",
+        "excerpt": "Korea East-West Power a annoncé le 12 que la direction et la nouvelle équipe syndicale avaient adopté le 11 une déclaration commune sur l’intégrité et l’éthique.",
+        "body": "La direction et le syndicat de Korea East-West Power s’engagent ensemble à créer un lieu de travail plus intègre à l’occasion de l’entrée en fonction de la nouvelle équipe syndicale. L’entreprise a annoncé le 12 avoir adopté, le 11, une « déclaration commune direction-syndicat sur l’intégrité et la pratique éthique ». Cette déclaration est notable car elle confirme la volonté partagée de l’entreprise et du syndicat de mettre en pratique l’intégrité et l’éthique. Les éléments précis sont l’adoption le 11 et l’annonce le 12, avec comme parties Korea East-West Power, sa représentation syndicale et la nouvelle direction du syndicat. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوريا إيست-ويست باور والنقابة الجديدة تتبنيان إعلان النزاهة والأخلاقيات",
+        "excerpt": "أعلنت كوريا إيست-ويست باور في 12 من الشهر أن الإدارة والقيادة النقابية الجديدة اعتمدتا في 11 منه إعلاناً مشتركاً للنزاهة والممارسة الأخلاقية.",
+        "body": "تتجه إدارة كوريا إيست-ويست باور ونقابتها العمالية إلى العمل معاً من أجل بناء بيئة عمل نزيهة، وذلك بمناسبة انطلاق القيادة النقابية الجديدة. وقالت الشركة في 12 من الشهر إنها اعتمدت في 11 منه «إعلاناً مشتركاً بين الإدارة والعمال للنزاهة والممارسة الأخلاقية» بالتزامن مع بدء عمل المكتب التنفيذي الجديد للنقابة. وتكمن أهمية الإعلان في تأكيد الشركة والنقابة بشكل مشترك إرادتهما في الالتزام بالنزاهة والأخلاقيات. وتشمل الوقائع المحددة اعتماد الإعلان في 11 من الشهر وإعلانه في 12 منه، بمشاركة الإدارة والنقابة والقيادة النقابية الجديدة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया ईस्ट-वेस्ट पावर और नई यूनियन ने नैतिकता घोषणा अपनाई",
+        "excerpt": "कोरिया ईस्ट-वेस्ट पावर ने 12 तारीख को बताया कि नई श्रमिक यूनियन नेतृत्व टीम के गठन पर प्रबंधन और यूनियन ने 11 तारीख को संयुक्त ईमानदारी और नैतिक आचरण घोषणा अपनाई।",
+        "body": "कोरिया ईस्ट-वेस्ट पावर का प्रबंधन और श्रमिक यूनियन नई यूनियन नेतृत्व टीम के गठन के मौके पर ईमानदार कार्यस्थल बनाने के लिए साथ आए हैं। कंपनी ने 12 तारीख को बताया कि नई श्रमिक यूनियन कार्यकारिणी के शुरू होने के अनुरूप 11 तारीख को “प्रबंधन-श्रम संयुक्त ईमानदारी और नैतिक आचरण घोषणा” अपनाई गई। इस घोषणा का महत्व यह है कि कंपनी और यूनियन ने ईमानदारी तथा नैतिक आचरण के प्रति अपनी साझा प्रतिबद्धता की पुष्टि की। प्रमुख तथ्य हैं: घोषणा 11 तारीख को अपनाई गई, 12 तारीख को इसकी जानकारी दी गई, और इसमें कोरिया ईस्ट-वेस्ट पावर का प्रबंधन, श्रमिक पक्ष तथा नई यूनियन नेतृत्व टीम शामिल हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Korea East-West Power dan Serikat Baru Adopsi Deklarasi Etika",
+        "excerpt": "Korea East-West Power pada tanggal 12 menyatakan manajemen dan pengurus serikat pekerja baru mengadopsi deklarasi bersama integritas dan etika pada tanggal 11.",
+        "body": "Manajemen dan serikat pekerja Korea East-West Power bergerak bersama untuk membangun tempat kerja yang berintegritas setelah terbentuknya pengurus serikat pekerja baru. Perusahaan pada tanggal 12 menyatakan bahwa pada tanggal 11, bersamaan dengan dimulainya kepengurusan baru serikat pekerja, pihaknya mengadopsi “Deklarasi Bersama Manajemen-Pekerja tentang Integritas dan Praktik Etika”. Deklarasi ini bermakna karena perusahaan dan serikat pekerja sama-sama menegaskan komitmen terhadap integritas dan etika. Fakta utamanya adalah deklarasi diadopsi pada tanggal 11 dan diumumkan pada tanggal 12, dengan pihak Korea East-West Power, pekerja, dan pengurus serikat baru sebagai pelaku utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "87b249b7e500",
+    "slug": "skc-12조-규모-유상증자실탄-확보로-글라스기판-투자-771014",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T14:48:00.838Z",
+    "updatedAt": "2026-05-12T14:48:00.838Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044709",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044709",
+    "titleFingerprint": "7b5dad9f4971263db7eb7aca825b14dbdcb1d60c",
+    "dedupKeys": [
+      "87b249b7e500a78441bc5c9f9319fb1f49b6182d",
+      "7b5dad9f4971263db7eb7aca825b14dbdcb1d60c",
+      "fc716496d6b43525ac01fc4f5adccfef88ca3956"
+    ],
+    "imageUrl": "/images/articles/87b249b7e500.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SKC 1.2조 유상증자 확정, 글라스기판 투자·재무개선 속도",
+        "excerpt": "SKC가 1조1671억원 규모 유상증자를 통해 반도체 글라스기판 신사업 투자 재원을 확보하고 재무구조 개선에도 속도를 내겠다고 밝혔다.",
+        "body": "SKC가 1조1671억원 규모의 유상증자를 통해 신사업인 반도체 글라스기판 투자와 재무구조 개선에 나선다. 회사는 유상증자 최종 발행가액이 주당 9만9500원으로 정해졌다고 밝혔다. 이번 증자는 대규모 자금 조달을 통해 미래 성장 분야로 꼽히는 글라스기판 사업 투자 여력을 확보하는 데 초점이 맞춰졌다. 동시에 확보한 자금은 재무구조 개선에도 활용될 예정이다. 반도체 소재 사업 확대와 재무 안정성 강화가 함께 추진되는 만큼, 향후 SKC의 투자 집행과 재무 지표 변화가 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "SKC Sets 1.2 Trillion Won Rights Issue to Fund Glass Substrate Push",
+        "excerpt": "SKC said it will raise 1.1671 trillion won through a rights issue to fund its semiconductor glass substrate business and improve its financial structure.",
+        "body": "SKC is moving to secure funds for its new semiconductor glass substrate business and strengthen its balance sheet through a rights issue worth 1.1671 trillion won. The company said the final issue price has been set at 99,500 won per share. The capital raising is focused on giving SKC room to invest in glass substrates, a new business area tied to semiconductor materials. The proceeds are also expected to be used to improve the company’s financial structure. As SKC pursues both investment in semiconductor materials and financial stabilization, attention will turn to how the funds are deployed and how its financial indicators change. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "SKC、1.2兆ウォン増資を確定　ガラス基板投資と財務改善へ",
+        "excerpt": "SKCは1兆1671億ウォン規模の有償増資で半導体ガラス基板事業の投資資金を確保し、財務構造の改善も進める方針だ。",
+        "body": "SKCは1兆1671億ウォン規模の有償増資を通じて、新事業である半導体ガラス基板への投資と財務構造の改善に乗り出す。会社は有償増資の最終発行価格が1株当たり9万9500ウォンに決まったと明らかにした。今回の増資は、大規模な資金調達によって、半導体素材分野の新たな成長領域とされるガラス基板事業への投資余力を確保することに重点が置かれている。同時に、調達資金は財務構造の改善にも活用される見通しだ。半導体素材事業の拡大と財務安定性の強化を並行して進めるだけに、今後の投資執行と財務指標の変化が注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "SKC敲定1.2万亿韩元增资，投向玻璃基板并改善财务",
+        "excerpt": "SKC将通过1.1671万亿韩元有偿增资，为半导体玻璃基板新业务筹资，并同步推进财务结构改善。",
+        "body": "SKC将通过规模达1.1671万亿韩元的有偿增资，投入新业务半导体玻璃基板，并推进财务结构改善。公司表示，本次有偿增资的最终发行价确定为每股9.95万韩元。此次增资的重点在于通过大规模融资， 확보其在半导体材料相关新成长领域玻璃基板业务上的投资能力。同时，募集资金也将用于改善财务结构。随着SKC同时推进半导体材料业务扩张和财务稳定性强化，后续资金投向及财务指标变化将受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "SKC fija ampliación de 1,2 billones de wones para invertir en sustratos de vidrio",
+        "excerpt": "SKC captará 1,1671 billones de wones mediante una ampliación de capital para invertir en sustratos de vidrio para semiconductores y mejorar su estructura financiera.",
+        "body": "SKC avanzará en la inversión en su nuevo negocio de sustratos de vidrio para semiconductores y en la mejora de su estructura financiera mediante una ampliación de capital de 1,1671 billones de wones. La compañía informó que el precio final de emisión quedó fijado en 99.500 wones por acción. La operación se centra en asegurar recursos para invertir en sustratos de vidrio, un área vinculada a materiales para semiconductores. Los fondos obtenidos también se utilizarán para reforzar la estructura financiera. Mientras SKC impulsa la expansión de materiales para semiconductores y la estabilidad financiera, la atención se centrará en la ejecución de la inversión y en la evolución de sus indicadores financieros. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "SKC define aumento de 1,2 trilhão de won para investir em substratos de vidro",
+        "excerpt": "A SKC levantará 1,1671 trilhão de won por meio de aumento de capital para financiar substratos de vidro para semicondutores e melhorar sua estrutura financeira.",
+        "body": "A SKC vai avançar com investimentos em seu novo negócio de substratos de vidro para semicondutores e com a melhoria de sua estrutura financeira por meio de um aumento de capital de 1,1671 trilhão de won. A empresa informou que o preço final de emissão foi definido em 99.500 won por ação. A captação tem como foco garantir recursos para investir em substratos de vidro, área ligada a materiais para semicondutores. Os recursos também deverão ser usados para fortalecer a estrutura financeira. Com a expansão no setor de materiais para semicondutores e a busca por maior estabilidade financeira, a execução dos investimentos e a evolução dos indicadores financeiros da SKC devem atrair atenção. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "SKC legt Kapitalerhöhung über 1,2 Bio. Won für Glas-Substrate fest",
+        "excerpt": "SKC will über eine Kapitalerhöhung von 1,1671 Billionen Won Mittel für Halbleiter-Glas-Substrate sichern und zugleich die Finanzstruktur verbessern.",
+        "body": "SKC will über eine Kapitalerhöhung im Umfang von 1,1671 Billionen Won Investitionen in das neue Geschäft mit Glas-Substraten für Halbleiter finanzieren und seine Finanzstruktur verbessern. Das Unternehmen teilte mit, dass der endgültige Ausgabepreis auf 99.500 Won je Aktie festgelegt wurde. Die Maßnahme zielt darauf, durch umfangreiche Mittelaufnahme Spielraum für Investitionen in Glas-Substrate zu schaffen, ein neues Feld im Bereich Halbleitermaterialien. Zugleich sollen die Erlöse zur Verbesserung der Finanzstruktur genutzt werden. Da SKC die Ausweitung des Halbleitermaterialgeschäfts und die Stärkung der finanziellen Stabilität parallel verfolgt, rücken die Mittelverwendung und künftige Finanzkennzahlen in den Fokus. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "SKC fixe une augmentation de 1,2 billion de wons pour les substrats de verre",
+        "excerpt": "SKC va lever 1,1671 billion de wons par augmentation de capital afin de financer ses substrats de verre pour semi-conducteurs et d’améliorer sa structure financière.",
+        "body": "SKC va engager des investissements dans son nouveau métier des substrats de verre pour semi-conducteurs et améliorer sa structure financière grâce à une augmentation de capital de 1,1671 billion de wons. L’entreprise a indiqué que le prix final d’émission avait été fixé à 99 500 wons par action. L’opération vise à 확보 des ressources pour investir dans les substrats de verre, un domaine lié aux matériaux pour semi-conducteurs. Les fonds levés doivent également servir à renforcer la structure financière. Alors que SKC poursuit à la fois l’expansion de ses activités de matériaux pour semi-conducteurs et la stabilisation de ses finances, l’utilisation des fonds et l’évolution des indicateurs financiers seront suivies de près. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إس كيه سي تحدد زيادة رأسمال بـ1.2 تريليون وون للاستثمار في ركائز الزجاج",
+        "excerpt": "قالت SKC إنها ستجمع 1.1671 تريليون وون عبر زيادة رأسمال لتمويل أعمال ركائز الزجاج لأشباه الموصلات وتحسين هيكلها المالي.",
+        "body": "تتجه SKC إلى تمويل استثماراتها في نشاطها الجديد الخاص بركائز الزجاج لأشباه الموصلات وتحسين هيكلها المالي عبر زيادة رأسمال بقيمة 1.1671 تريليون وون. وذكرت الشركة أن سعر الإصدار النهائي تحدد عند 99,500 وون للسهم. وتركز هذه الخطوة على تأمين قدرة استثمارية في ركائز الزجاج، وهي مجال جديد مرتبط بمواد أشباه الموصلات. كما من المقرر استخدام الأموال التي سيتم جمعها في تحسين الهيكل المالي للشركة. ومع سعي SKC إلى توسيع أعمال مواد أشباه الموصلات وتعزيز الاستقرار المالي في الوقت نفسه، ستتجه الأنظار إلى كيفية تنفيذ الاستثمارات وتغير المؤشرات المالية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "SKC ने 1.2 ट्रिलियन वॉन राइट्स इश्यू तय किया, ग्लास सब्सट्रेट पर जोर",
+        "excerpt": "SKC 1.1671 ट्रिलियन वॉन के राइट्स इश्यू से सेमीकंडक्टर ग्लास सब्सट्रेट कारोबार में निवेश और वित्तीय ढांचे में सुधार की तैयारी कर रही है।",
+        "body": "SKC 1.1671 ट्रिलियन वॉन के राइट्स इश्यू के जरिए अपने नए सेमीकंडक्टर ग्लास सब्सट्रेट कारोबार में निवेश और वित्तीय ढांचे में सुधार की दिशा में आगे बढ़ेगी। कंपनी ने कहा कि इश्यू का अंतिम निर्गम मूल्य 99,500 वॉन प्रति शेयर तय किया गया है। इस पूंजी जुटाने का उद्देश्य सेमीकंडक्टर सामग्री से जुड़े नए विकास क्षेत्र, ग्लास सब्सट्रेट, में निवेश क्षमता 확보 करना है। जुटाई गई राशि का उपयोग वित्तीय संरचना को बेहतर बनाने में भी किया जाएगा। SKC द्वारा सेमीकंडक्टर सामग्री कारोबार के विस्तार और वित्तीय स्थिरता को साथ-साथ आगे बढ़ाए जाने के कारण निवेश क्रियान्वयन और वित्तीय संकेतकों में बदलाव पर ध्यान रहेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "SKC Tetapkan Rights Issue 1,2 Triliun Won untuk Investasi Substrat Kaca",
+        "excerpt": "SKC akan menghimpun 1,1671 triliun won melalui rights issue untuk mendanai bisnis substrat kaca semikonduktor dan memperbaiki struktur keuangan.",
+        "body": "SKC akan bergerak memperkuat investasi pada bisnis baru substrat kaca semikonduktor sekaligus memperbaiki struktur keuangan melalui rights issue senilai 1,1671 triliun won. Perusahaan menyatakan harga penerbitan final ditetapkan sebesar 99.500 won per saham. Aksi korporasi ini berfokus pada 확보 ruang pendanaan untuk berinvestasi di substrat kaca, bidang baru yang terkait dengan material semikonduktor. Dana yang diperoleh juga akan digunakan untuk memperbaiki struktur keuangan. Karena SKC mendorong ekspansi bisnis material semikonduktor dan penguatan stabilitas keuangan secara bersamaan, pelaksanaan investasi dan perubahan indikator keuangannya akan menjadi perhatian. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "d57b01bd0c68",
     "slug": "서울반도체-1분기-매출액-2382억영업이익-18억흑자-전환-250574",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Saham Hanwha naik dua kali lipat setahun, pasar cermati tren usai pemisahan",
         "excerpt": "Saham Hanwha naik sekitar dua kali lipat dalam setahun terakhir, membuat investor menyoroti apakah penguatan berlanjut setelah pemisahan usaha.",
         "body": "Harga saham Hanwha menarik perhatian pasar setelah naik hingga sekitar dua kali lipat dalam satu tahun terakhir. Menurut laporan tersebut, fokus investor kini tertuju pada apakah tren kenaikan itu dapat berlanjut setelah Hanwha melakukan pemisahan secara spin-off. Karena kenaikan terjadi sepanjang satu tahun, bukan hanya dalam pergerakan jangka pendek, perubahan struktur perusahaan setelah pemisahan dipandang sebagai faktor penting bagi keputusan investasi berikutnya. Artikel asli tidak memastikan arah harga saham ke depan, melainkan menempatkan kelanjutan penguatan sebagai pertanyaan utama pasar. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "bd04ee109d59",
-    "slug": "코스피-내년-영업이익-1000조올해-1만피-간다-전망까지-854920",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T22:22:30.812Z",
-    "updatedAt": "2026-05-11T22:22:30.812Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605118961i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605118961i",
-    "titleFingerprint": "25824bf7478d3645179de56dfdeccd3d8a0aed15",
-    "dedupKeys": [
-      "bd04ee109d5978b77fa51b397afd327840df808a",
-      "25824bf7478d3645179de56dfdeccd3d8a0aed15",
-      "ca7d62cc73b2818fbb425f1e2c65ddaba9354bf9"
-    ],
-    "imageUrl": "/images/articles/bd04ee109d59.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 내년 영업이익 1000조 전망, 올해 1만피 가능성까지 부상",
-        "excerpt": "한국경제는 코스피가 반도체·방산 등 주력 업종 실적 개선 기대를 바탕으로 내년 상장사 영업이익 1000조원 전망과 올해 1만피 가능성까지 거론됐다고 전했다.",
-        "body": "한국경제에 따르면 국내 증시에서는 코스피 상장사의 내년 영업이익이 1000조원을 넘어설 수 있다는 전망과 함께 올해 코스피 1만포인트 가능성까지 거론되고 있다. 배경에는 반도체, 방산, 조선, 기계, 정유 등 주력 업종의 실적 개선 기대가 있다. 앞서 KB증권은 올해 유가증권시장 상장사 영업이익을 792조원으로, 내년에는 1000조원 돌파 가능성을 제시했다. 코스피의 12개월 선행 PBR이 세계 증시 평균보다 낮다는 평가도 상승 논리로 제시됐다. 다만 이는 증권가 전망에 따른 시나리오이며, 실제 지수 흐름은 기업 실적과 외국인 수급, 글로벌 증시 환경에 따라 달라질 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KOSPI Profit Forecast Nears 1,000 Trillion Won as 10,000-Point View Emerges",
-        "excerpt": "Hankyung reported that expectations for stronger earnings in semiconductors and other key sectors have lifted forecasts for KOSPI-listed firms’ operating profit and even a 10,000-point scenario.",
-        "body": "According to Hankyung, South Korea’s stock market is seeing forecasts that operating profit at KOSPI-listed companies could exceed 1,000 trillion won next year, while some market views have also raised the possibility of the KOSPI reaching 10,000 points this year. The outlook is tied to expected earnings improvement in major industries such as semiconductors, defense, shipbuilding, machinery and refining. KB Securities previously projected listed firms’ operating profit on the main board at 792 trillion won this year and suggested it could surpass 1,000 trillion won next year. A lower 12-month forward PBR than the global market average was also cited as part of the upside case. These figures remain brokerage forecasts, and actual index moves may depend on earnings, foreign flows and global market conditions. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "KOSPI営業益1000兆ウォン予想、1万ポイント論まで浮上",
-        "excerpt": "韓国経済新聞は、半導体や防衛産業など主力業種の業績改善期待を背景に、KOSPI上場企業の営業利益1000兆ウォン予想と1万ポイント論が出ていると伝えた。",
-        "body": "韓国経済新聞によると、韓国株式市場ではKOSPI上場企業の来年の営業利益が1000兆ウォンを超える可能性があるとの見方に加え、今年KOSPIが1万ポイントに達する可能性まで取り沙汰されている。背景には半導体、防衛、造船、機械、精油など主力業種の業績改善期待がある。KB証券は今年の有価証券市場上場企業の営業利益を792兆ウォン、来年は1000兆ウォン突破の可能性を示した。KOSPIの12カ月先予想PBRが世界株式市場平均を下回るとの評価も上昇論の根拠に挙げられた。ただし、これは証券業界の予測に基づくシナリオであり、実際の指数動向は企業業績、外国人需給、世界市場環境に左右される可能性がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "KOSPI明年营业利润或达1000万亿韩元，1万点预期升温",
-        "excerpt": "韩国经济新闻报道称，受半导体、防务等核心行业业绩改善预期推动，市场提出KOSPI上市公司明年营业利润1000万亿韩元及今年1万点的可能性。",
-        "body": "据韩国经济新闻报道，韩国股市正出现一种观点：KOSPI上市公司明年营业利润可能超过1000万亿韩元，同时也有人提及今年KOSPI达到1万点的可能性。其背景是半导体、防务、造船、机械、炼油等核心行业业绩改善预期。KB证券此前预计，今年有价证券市场上市公司营业利润为792万亿韩元，并提出明年可能突破1000万亿韩元。KOSPI的12个月远期市净率低于全球股市平均水平，也被视为上涨逻辑之一。不过，这仍是券商预测下的情景，实际指数走势将取决于企业业绩、外资供需和全球市场环境。来源: hankyung.com"
-      },
-      "es": {
-        "title": "KOSPI: prevén 1.000 billones de wones en beneficio y surge meta de 10.000",
-        "excerpt": "Hankyung informó que la mejora esperada en semiconductores y otros sectores clave sostiene previsiones de beneficio operativo de 1.000 billones de wones y un escenario de KOSPI en 10.000 puntos.",
-        "body": "Según Hankyung, en el mercado bursátil surcoreano se manejan previsiones de que el beneficio operativo de las compañías del KOSPI podría superar los 1.000 billones de wones el próximo año, mientras también se menciona la posibilidad de que el índice alcance los 10.000 puntos este año. El trasfondo es la expectativa de mejora de resultados en sectores clave como semiconductores, defensa, construcción naval, maquinaria y refino. KB Securities estimó el beneficio operativo de las empresas del mercado principal en 792 billones de wones este año y planteó que podría rebasar los 1.000 billones el próximo. También se citó que el PBR adelantado a 12 meses del KOSPI es inferior al promedio mundial. Aun así, se trata de escenarios de corredurías; el rumbo real dependerá de beneficios, flujos extranjeros y mercados globales. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "KOSPI mira lucro de 1.000 trilhões de won e cenário de 10.000 pontos ganha força",
-        "excerpt": "O Hankyung informou que a expectativa de melhora em semicondutores e setores-chave sustenta projeções de lucro operacional de 1.000 trilhões de won e até um cenário de KOSPI a 10.000 pontos.",
-        "body": "Segundo o Hankyung, o mercado acionário sul-coreano discute projeções de que o lucro operacional das empresas listadas no KOSPI pode superar 1.000 trilhões de won no próximo ano, enquanto também surge a possibilidade de o índice chegar a 10.000 pontos este ano. A base do cenário é a expectativa de melhora nos resultados de setores centrais como semicondutores, defesa, construção naval, máquinas e refino. A KB Securities projetou lucro operacional de 792 trilhões de won para as empresas do mercado principal neste ano e indicou possível superação de 1.000 trilhões no próximo. O PBR projetado de 12 meses do KOSPI, abaixo da média global, também foi citado como argumento de alta. Ainda assim, são cenários de corretoras, e o desempenho real dependerá de lucros, fluxo estrangeiro e mercados globais. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KOSPI-Gewinnprognose bei 1.000 Billionen Won, auch 10.000 Punkte im Gespräch",
-        "excerpt": "Hankyung berichtet, dass bessere Gewinnaussichten in Halbleitern und anderen Kernbranchen Prognosen von 1.000 Billionen Won Betriebsgewinn und ein 10.000-Punkte-Szenario stützen.",
-        "body": "Laut Hankyung werden am südkoreanischen Aktienmarkt Prognosen diskutiert, wonach der operative Gewinn der KOSPI-Unternehmen im kommenden Jahr 1.000 Billionen Won überschreiten könnte. Zugleich wird auch die Möglichkeit eines KOSPI bei 10.000 Punkten in diesem Jahr genannt. Hintergrund sind erwartete Ergebnisverbesserungen in Schlüsselbranchen wie Halbleiter, Verteidigung, Schiffbau, Maschinenbau und Raffinerie. KB Securities hatte den operativen Gewinn der Unternehmen am Hauptmarkt für dieses Jahr auf 792 Billionen Won geschätzt und für das nächste Jahr ein Überschreiten von 1.000 Billionen Won in Aussicht gestellt. Als weiteres Argument wurde ein niedrigeres 12-Monats-Forward-PBR des KOSPI gegenüber dem weltweiten Durchschnitt genannt. Es bleibt jedoch ein Broker-Szenario; der tatsächliche Indexverlauf hängt von Gewinnen, ausländischen Zuflüssen und dem globalen Marktumfeld ab. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "KOSPI: bénéfices attendus à 1 000 billions de wons et scénario des 10 000 points",
-        "excerpt": "Hankyung rapporte que l’amélioration attendue des semi-conducteurs et d’autres secteurs clés nourrit des prévisions de bénéfice opérationnel à 1 000 billions de wons et un scénario à 10 000 points.",
-        "body": "Selon Hankyung, le marché actions sud-coréen voit apparaître des prévisions selon lesquelles le bénéfice opérationnel des sociétés cotées au KOSPI pourrait dépasser 1 000 billions de wons l’an prochain, tandis que la possibilité d’un indice à 10 000 points cette année est également évoquée. Cette perspective repose sur l’amélioration attendue des résultats dans les semi-conducteurs, la défense, la construction navale, les machines et le raffinage. KB Securities a estimé le bénéfice opérationnel des sociétés du marché principal à 792 billions de wons cette année et a évoqué un franchissement de 1 000 billions l’an prochain. Le PBR prospectif à 12 mois du KOSPI, inférieur à la moyenne mondiale, est aussi cité comme argument haussier. Il s’agit toutefois de scénarios de courtiers; l’évolution réelle dépendra des bénéfices, des flux étrangers et des marchés mondiaux. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "توقعات أرباح KOSPI تقترب من 1000 تريليون وون وسيناريو 10 آلاف نقطة يظهر",
-        "excerpt": "ذكرت هانكيونغ أن توقعات تحسن أرباح أشباه الموصلات والقطاعات الرئيسية تدعم تقديرات بوصول أرباح شركات KOSPI التشغيلية إلى 1000 تريليون وون وطرح احتمال 10 آلاف نقطة.",
-        "body": "بحسب هانكيونغ، يشهد سوق الأسهم الكوري الجنوبي توقعات بأن تتجاوز الأرباح التشغيلية للشركات المدرجة في KOSPI حاجز 1000 تريليون وون في العام المقبل، مع طرح احتمال وصول المؤشر إلى 10 آلاف نقطة هذا العام. ويرتبط ذلك بتوقعات تحسن أرباح قطاعات رئيسية مثل أشباه الموصلات والدفاع وبناء السفن والآلات والتكرير. وكانت KB Securities قد قدرت الأرباح التشغيلية لشركات السوق الرئيسية هذا العام عند 792 تريليون وون، وطرحت إمكانية تجاوز 1000 تريليون وون في العام المقبل. كما ذُكر أن مضاعف القيمة الدفترية المتوقع خلال 12 شهرا لـ KOSPI أقل من متوسط الأسواق العالمية كأحد مبررات الصعود. ومع ذلك، تبقى هذه سيناريوهات من شركات الوساطة، وسيتوقف المسار الفعلي على الأرباح وتدفقات الأجانب وبيئة الأسواق العالمية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KOSPI में 1000 ट्रिलियन वॉन लाभ का अनुमान, 10,000 अंक की चर्चा तेज",
-        "excerpt": "Hankyung के अनुसार सेमीकंडक्टर और अन्य प्रमुख क्षेत्रों में मुनाफे की उम्मीद से KOSPI कंपनियों के परिचालन लाभ के 1000 ट्रिलियन वॉन और सूचकांक के 10,000 अंक तक जाने की चर्चा उठी है।",
-        "body": "Hankyung के अनुसार दक्षिण कोरिया के शेयर बाजार में यह अनुमान सामने आ रहा है कि KOSPI में सूचीबद्ध कंपनियों का परिचालन लाभ अगले वर्ष 1000 ट्रिलियन वॉन से ऊपर जा सकता है। साथ ही इस वर्ष KOSPI के 10,000 अंक तक पहुंचने की संभावना भी चर्चा में है। इसकी पृष्ठभूमि सेमीकंडक्टर, रक्षा, जहाज निर्माण, मशीनरी और रिफाइनिंग जैसे प्रमुख क्षेत्रों में आय सुधार की उम्मीद है। KB Securities ने मुख्य बाजार की सूचीबद्ध कंपनियों के इस वर्ष के परिचालन लाभ का अनुमान 792 ट्रिलियन वॉन लगाया और अगले वर्ष 1000 ट्रिलियन वॉन पार करने की संभावना जताई। KOSPI का 12 माह अग्रिम PBR वैश्विक बाजार औसत से कम बताया जाना भी तेजी के तर्क में शामिल है। हालांकि ये ब्रोकरेज पूर्वानुमान हैं; वास्तविक सूचकांक चाल कंपनियों की आय, विदेशी प्रवाह और वैश्विक बाजार स्थितियों पर निर्भर करेगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Laba KOSPI Diproyeksi 1.000 Triliun Won, Skenario 10.000 Poin Ikut Menguat",
-        "excerpt": "Hankyung melaporkan bahwa harapan perbaikan laba semikonduktor dan sektor utama lain mendorong proyeksi laba operasi emiten KOSPI 1.000 triliun won serta skenario indeks 10.000 poin.",
-        "body": "Menurut Hankyung, pasar saham Korea Selatan kini membahas proyeksi bahwa laba operasi perusahaan yang tercatat di KOSPI dapat melampaui 1.000 triliun won tahun depan, sementara kemungkinan indeks mencapai 10.000 poin tahun ini juga ikut disebut. Latar belakangnya adalah ekspektasi perbaikan kinerja di sektor utama seperti semikonduktor, pertahanan, galangan kapal, mesin, dan penyulingan. KB Securities sebelumnya memperkirakan laba operasi emiten papan utama tahun ini sebesar 792 triliun won dan membuka peluang menembus 1.000 triliun won tahun depan. PBR forward 12 bulan KOSPI yang dinilai lebih rendah dari rata-rata bursa global juga menjadi bagian dari argumen kenaikan. Namun, ini tetap skenario dari kalangan sekuritas; pergerakan indeks aktual bergantung pada laba perusahaan, arus dana asing, dan kondisi pasar global. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "4949607086df",
-    "slug": "분리형-bw와-너무-닮은-콜-100-cb대주주는-절대-손해-안본다-225739",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T22:21:04.749Z",
-    "updatedAt": "2026-05-11T22:21:04.749Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051189911",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051189911",
-    "titleFingerprint": "7a114a8f9f6de934fe559ddeae88ef895369afc6",
-    "dedupKeys": [
-      "4949607086dfc2c35be83bb446fa27028aebaca4",
-      "7a114a8f9f6de934fe559ddeae88ef895369afc6",
-      "b5c150ea6d0448ac95fa69b0439f4d6df3cd41a6"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "콜 100% CB 논란 집중점검, 분리형 BW 닮은 구조와 대주주 손익 주목",
-        "excerpt": "한국경제는 ‘콜 100% CB’가 분리형 BW와 매우 닮았다는 문제를 다루며, 해당 구조에서 대주주가 손해를 보지 않는다는 쟁점을 보도했다.",
-        "body": "한국경제는 ‘분리형 BW와 너무 닮은 콜 100% CB’라는 제목으로, 전환사채(CB) 관련 구조가 분리형 신주인수권부사채(BW)와 유사하다는 논점을 제기했다. 보도 핵심은 ‘콜 100% CB’가 대주주에게 불리하게 작동하지 않는 구조로 읽힌다는 점이다. 원문에서 제공된 정보는 제목과 출처에 한정돼 있으며, 구체적 발행 기업, 금액, 일정, 거래 조건은 확인되지 않았다. 따라서 이 사안은 CB와 BW의 유사성, 그리고 대주주 손익 구조에 대한 투자자 관심을 키우는 이슈로 정리된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Call 100% CB Under Scrutiny as Structure Resembles Separable BW",
-        "excerpt": "Hankyung reported that a “call 100% CB” closely resembles a separable BW structure, raising the issue that major shareholders do not lose under the setup.",
-        "body": "Hankyung reported on an issue titled “A ‘call 100% CB’ that looks too much like a separable BW,” focusing on the similarity between the convertible bond structure and a separable bond with warrants. The key point in the original text is that the structure is viewed as one in which major shareholders do not suffer losses. The supplied source information is limited to the title and publisher, with no confirmed company name, amount, schedule, or detailed transaction terms. The issue is therefore summarized as a matter drawing investor attention to the resemblance between CBs and BWs and to the profit-and-loss structure for major shareholders. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "コール100％CBに注目、分離型BWに似た構造と大株主の損益が焦点",
-        "excerpt": "韓国経済新聞は「コール100％CB」が分離型BWに非常に似ており、その構造では大株主が損をしないという論点を報じた。",
-        "body": "韓国経済新聞は「分離型BWとあまりに似ている『コール100％CB』」という見出しで、転換社債（CB）関連の構造が分離型新株予約権付社債（BW）に似ているという論点を提起した。原文の核心は、「コール100％CB」が大株主に不利に働かない構造として読まれる点にある。提供された原文情報は見出しと出所に限られており、具体的な発行企業、金額、日程、取引条件は確認されていない。したがって本件は、CBとBWの類似性、そして大株主の損益構造に投資家の関心を集める問題として整理される。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "100%回购权CB受关注，结构酷似分离型BW且牵动大股东损益",
-        "excerpt": "韩国经济新闻报道称，“100%回购权CB”与分离型BW高度相似，并触及该结构下大股东不会受损的争议点。",
-        "body": "韩国经济新闻以“与分离型BW过于相似的‘100%回购权CB’”为题，提出可转债（CB）相关结构与分离型附认股权证公司债（BW）相似的议题。原文核心在于，“100%回购权CB”被视为一种不会让大股东处于不利地位的结构。所提供的原文信息仅限于标题和出处，未确认具体发行公司、金额、时间表或交易条件。因此，该事件可概括为围绕CB与BW相似性以及大股东损益结构而引发投资者关注的议题。出处: hankyung.com"
-      },
-      "es": {
-        "title": "CB con call del 100% bajo la lupa por su parecido con los BW separables",
-        "excerpt": "Hankyung informó que un “CB con call del 100%” se parece mucho a un BW separable y plantea la cuestión de que el accionista mayoritario no pierde con esa estructura.",
-        "body": "Hankyung abordó el tema bajo el título “Un ‘CB con call del 100%’ demasiado parecido a un BW separable”, centrando la atención en la similitud entre la estructura de un bono convertible y la de un bono con warrants separable. El punto central del texto original es que el “CB con call del 100%” se interpreta como una estructura que no perjudica al accionista mayoritario. La información proporcionada se limita al título y a la fuente, sin empresa emisora, importe, calendario ni condiciones detalladas confirmadas. Por tanto, el asunto se resume como un tema que aumenta el interés de los inversores por la similitud entre CB y BW y por la estructura de ganancias y pérdidas del accionista mayoritario. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "CB com call de 100% entra em foco por semelhança com BW destacável",
-        "excerpt": "O Hankyung informou que um “CB com call de 100%” se parece muito com um BW destacável, levantando a questão de que o acionista controlador não sai prejudicado.",
-        "body": "O Hankyung tratou do tema sob o título “Um ‘CB com call de 100%’ parecido demais com um BW destacável”, destacando a semelhança entre a estrutura de uma debênture conversível e a de uma debênture com bônus de subscrição destacável. O ponto central do texto original é que o “CB com call de 100%” é visto como uma estrutura que não atua contra o acionista controlador. As informações fornecidas se limitam ao título e à fonte, sem confirmação de empresa emissora, valor, cronograma ou termos detalhados da operação. Assim, o caso é resumido como uma questão que amplia a atenção dos investidores para a semelhança entre CB e BW e para a estrutura de ganhos e perdas do acionista controlador. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Call-100%-CB im Fokus wegen Nähe zu abtrennbaren Optionsanleihen",
-        "excerpt": "Hankyung berichtete, dass ein „Call-100%-CB“ einer abtrennbaren Optionsanleihe stark ähnelt und die Frage aufwirft, dass Großaktionäre dabei keinen Verlust tragen.",
-        "body": "Hankyung berichtete unter dem Titel „Ein ‘Call-100%-CB’, der einer abtrennbaren Optionsanleihe zu sehr ähnelt“ über die Ähnlichkeit zwischen der Struktur einer Wandelanleihe und einer abtrennbaren Optionsanleihe. Der Kernpunkt des Originaltexts ist, dass der „Call-100%-CB“ als Struktur gelesen wird, die für Großaktionäre nicht nachteilig wirkt. Die bereitgestellten Informationen beschränken sich auf Titel und Quelle; ein konkretes emittierendes Unternehmen, Betrag, Zeitplan oder detaillierte Transaktionsbedingungen sind nicht bestätigt. Damit ist der Fall als Thema einzuordnen, das die Aufmerksamkeit der Anleger auf die Ähnlichkeit von CB und BW sowie auf die Gewinn- und Verluststruktur von Großaktionären lenkt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "CB avec call à 100 % surveillée pour sa ressemblance avec une BW séparable",
-        "excerpt": "Hankyung a rapporté qu’une « CB avec call à 100 % » ressemble fortement à une BW séparable, soulevant l’enjeu d’une structure où le principal actionnaire ne perd pas.",
-        "body": "Hankyung a traité le sujet sous le titre « Une ‘CB avec call à 100 %’ trop semblable à une BW séparable », en mettant l’accent sur la ressemblance entre la structure d’une obligation convertible et celle d’une obligation à bons de souscription séparable. Le point central du texte original est que la « CB avec call à 100 % » est perçue comme une structure qui ne défavorise pas le principal actionnaire. Les informations fournies se limitent au titre et à la source, sans société émettrice, montant, calendrier ni conditions détaillées confirmés. L’affaire se résume donc à un sujet attirant l’attention des investisseurs sur la similitude entre CB et BW et sur la structure de gains et pertes du principal actionnaire. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سندات CB مع حق شراء 100% تحت المجهر لتشابهها مع BW المنفصلة",
-        "excerpt": "ذكرت هانكيونغ أن سندات «CB مع حق شراء 100%» تشبه إلى حد كبير سندات BW المنفصلة، ما يثير قضية أن المساهم الرئيسي لا يتكبد خسارة في هذا الهيكل.",
-        "body": "تناولت هانكيونغ الموضوع بعنوان يفيد بأن «سندات CB مع حق شراء 100%» تشبه إلى حد كبير سندات BW المنفصلة، وركزت على التشابه بين هيكل السندات القابلة للتحويل وهيكل السندات المزودة بحقوق اكتتاب منفصلة. النقطة الأساسية في النص الأصلي هي أن هذا الهيكل يُقرأ على أنه لا يعمل ضد مصلحة المساهم الرئيسي. المعلومات المتاحة من الأصل تقتصر على العنوان والمصدر، ولا تؤكد اسم الشركة المصدرة أو المبلغ أو الجدول الزمني أو شروط الصفقة التفصيلية. لذلك يُلخص الأمر كقضية تلفت انتباه المستثمرين إلى التشابه بين CB وBW وإلى هيكل الربح والخسارة للمساهم الرئيسي. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "100% कॉल CB पर नजर, अलग BW जैसी संरचना और बड़े शेयरधारक का लाभ-हानि मुद्दा",
-        "excerpt": "हैंक्युंग ने बताया कि “100% कॉल CB” अलग BW से काफी मिलती-जुलती है और इस ढांचे में बड़े शेयरधारक को नुकसान नहीं होने का मुद्दा उठता है।",
-        "body": "हैंक्युंग ने “अलग BW से बहुत मिलती-जुलती ‘100% कॉल CB’” शीर्षक से यह मुद्दा उठाया कि परिवर्तनीय बॉन्ड यानी CB की संबंधित संरचना अलग वारंट-सहित बॉन्ड यानी BW से समानता रखती है। मूल जानकारी का मुख्य बिंदु यह है कि “100% कॉल CB” को ऐसे ढांचे के रूप में देखा जा रहा है जो बड़े शेयरधारक के प्रतिकूल काम नहीं करता। उपलब्ध मूल पाठ शीर्षक और स्रोत तक सीमित है, इसलिए जारी करने वाली कंपनी, राशि, समय-सारिणी या विस्तृत लेनदेन शर्तें पुष्टि नहीं हैं। इस कारण यह मामला CB और BW की समानता तथा बड़े शेयरधारक की लाभ-हानि संरचना पर निवेशकों का ध्यान खींचने वाले मुद्दे के रूप में संक्षेपित होता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "CB Call 100% Disorot karena Mirip BW Terpisah dan Untungkan Pemegang Utama",
-        "excerpt": "Hankyung melaporkan bahwa “CB call 100%” sangat mirip dengan BW terpisah, dengan isu utama bahwa pemegang saham utama tidak dirugikan dalam struktur tersebut.",
-        "body": "Hankyung mengangkat isu berjudul “CB call 100% yang terlalu mirip dengan BW terpisah”, dengan fokus pada kesamaan antara struktur obligasi konversi atau CB dan obligasi dengan waran terpisah atau BW. Pokok laporan asli adalah bahwa “CB call 100%” dipandang sebagai struktur yang tidak bekerja merugikan pemegang saham utama. Informasi sumber yang tersedia hanya mencakup judul dan penerbit, tanpa konfirmasi perusahaan penerbit, nilai, jadwal, atau syarat transaksi terperinci. Karena itu, isu ini dirangkum sebagai perkara yang menarik perhatian investor pada kemiripan CB dan BW serta struktur untung-rugi bagi pemegang saham utama. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "3f3d819935b6",
-    "slug": "다-죽어가던-산업-중동전쟁이-살렸다k석화-부활한-이유는-795012",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T22:19:36.645Z",
-    "updatedAt": "2026-05-11T22:19:36.645Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12044200",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12044200",
-    "titleFingerprint": "638323101e3597ab1a2170cdbd92e2aff3a19896",
-    "dedupKeys": [
-      "3f3d819935b69b08458bef8be3ffb0fd09f96097",
-      "638323101e3597ab1a2170cdbd92e2aff3a19896",
-      "f84c02c222fd2ed160beef992c840c33c0cdeed1"
-    ],
-    "imageUrl": "/images/articles/3f3d819935b6.png",
-    "i18n": {
-      "ko": {
-        "title": "K석화 반등, 중동전쟁에 나프타 재고가치 상승…NCC 가동률도 회복",
-        "excerpt": "중동전쟁 여파로 나프타 가격이 오르며 국내 석유화학 업체들의 재고 재평가 이익이 반영됐고, 롯데케미칼·LG화학·한화솔루션 실적과 NCC 가동률이 반등했다.",
-        "body": "중동전쟁으로 나프타 가격이 오르면서 부진했던 국내 석유화학 업황이 단기 반등했다. 가격 상승은 보유 재고의 재평가로 이어졌고, 롯데케미칼은 영업이익 735억원을 기록했다. LG화학과 한화솔루션도 실적이 개선됐으며, 여천과 대산 지역 NCC 가동률도 올라간 것으로 전해졌다. 다만 이번 개선은 업황 회복이라기보다 원가와 재고 평가에 따른 일시적 효과라는 해석이 나온다. 업계에는 구조조정을 통한 체질 개선이 필요하다는 지적도 제기된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korean petrochemicals rebound as Middle East war lifts naphtha inventory values",
-        "excerpt": "As the Middle East war pushed up naphtha prices, Korean petrochemical firms saw inventory revaluation gains, with Lotte Chemical, LG Chem and Hanwha Solutions showing a rebound.",
-        "body": "Korea’s struggling petrochemical industry posted a short-term rebound as the Middle East war drove naphtha prices higher. The price increase led to revaluation gains on existing inventories, and Lotte Chemical reported operating profit of 73.5 billion won. LG Chem and Hanwha Solutions also improved, while NCC operating rates in Yeocheon and Daesan were said to have risen. Still, the improvement is being viewed less as a full industry recovery than as a temporary effect from costs and inventory valuation. The sector is also being urged to improve fundamentals through restructuring. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国石化が反発、中東戦争でナフサ在庫価値上昇…NCC稼働率も回復",
-        "excerpt": "中東戦争の影響でナフサ価格が上昇し、韓国石油化学各社の在庫再評価益が反映された。ロッテケミカル、LG化学、ハンファソリューションズが反発した。",
-        "body": "中東戦争でナフサ価格が上昇し、低迷していた韓国の石油化学業況が短期的に反発した。価格上昇は保有在庫の再評価につながり、ロッテケミカルは営業利益735億ウォンを記録した。LG化学とハンファソリューションズも業績が改善し、麗川と大山地域のNCC稼働率も上がったと伝えられた。ただし今回の改善は本格的な市況回復というより、原価と在庫評価による一時的効果との見方が出ている。業界には構造調整を通じた体質改善が必要との指摘もある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国石化反弹：中东战争推高石脑油库存价值，NCC开工率回升",
-        "excerpt": "受中东战争影响，石脑油价格上涨，韩国石化企业库存重估收益反映在业绩中，乐天化学、LG化学和韩华解决方案出现反弹。",
-        "body": "由于中东战争推高石脑油价格，低迷的韩国石油化工行业出现短期反弹。价格上涨带来持有库存的重估收益，乐天化学录得735亿韩元营业利润。LG化学和韩华解决方案业绩也有所改善，丽川和大山地区NCC开工率据称同步上升。不过，市场认为此次改善更接近成本和库存评估带来的暂时效果，而非行业景气全面复苏。业内也出现通过结构调整改善体质的声音。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Petroquímica coreana repunta: la guerra en Medio Oriente eleva el valor del nafta",
-        "excerpt": "La guerra en Medio Oriente elevó los precios del nafta y generó revalorización de inventarios en firmas petroquímicas coreanas, impulsando a Lotte Chemical, LG Chem y Hanwha Solutions.",
-        "body": "La industria petroquímica coreana, que venía debilitada, registró un repunte de corto plazo después de que la guerra en Medio Oriente impulsara los precios del nafta. La subida derivó en ganancias por revalorización de inventarios, y Lotte Chemical informó una utilidad operativa de 73.500 millones de wones. LG Chem y Hanwha Solutions también mejoraron, mientras que las tasas de operación de NCC en Yeocheon y Daesan aumentaron. Aun así, la mejora se interpreta más como un efecto temporal de costos y valoración de inventarios que como una recuperación plena del sector. También se señala la necesidad de reestructuración. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Petroquímica coreana reage com alta da nafta na guerra do Oriente Médio",
-        "excerpt": "A guerra no Oriente Médio elevou os preços da nafta e gerou reavaliação de estoques em petroquímicas coreanas, impulsionando Lotte Chemical, LG Chem e Hanwha Solutions.",
-        "body": "A indústria petroquímica da Coreia do Sul, que vinha enfraquecida, teve uma recuperação de curto prazo após a guerra no Oriente Médio elevar os preços da nafta. A alta resultou em ganhos de reavaliação de estoques, e a Lotte Chemical registrou lucro operacional de 73,5 bilhões de wons. LG Chem e Hanwha Solutions também melhoraram, enquanto as taxas de operação de NCC em Yeocheon e Daesan subiram. Ainda assim, a melhora é vista mais como efeito temporário de custos e avaliação de estoques do que como recuperação estrutural do setor. Há também pedidos por reestruturação. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Koreas Petrochemie erholt sich: Nahostkrieg hebt Naphtha-Lagerwerte",
-        "excerpt": "Der Nahostkrieg trieb Naphtha-Preise nach oben und führte bei koreanischen Petrochemiekonzernen zu Neubewertungsgewinnen bei Lagerbeständen, darunter Lotte Chemical, LG Chem und Hanwha Solutions.",
-        "body": "Koreas schwache Petrochemiebranche verzeichnete eine kurzfristige Erholung, nachdem der Nahostkrieg die Naphtha-Preise steigen ließ. Der Preisanstieg führte zu Neubewertungsgewinnen bei vorhandenen Beständen; Lotte Chemical meldete einen operativen Gewinn von 73,5 Milliarden Won. Auch LG Chem und Hanwha Solutions verbesserten sich, während die NCC-Auslastung in Yeocheon und Daesan gestiegen sein soll. Dennoch gilt die Verbesserung eher als temporärer Effekt aus Kosten- und Lagerbewertung denn als echte Branchenwende. Zudem wird eine Restrukturierung zur Stärkung der Grundlagen gefordert. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La pétrochimie coréenne rebondit avec la hausse du naphta liée au Moyen-Orient",
-        "excerpt": "La guerre au Moyen-Orient a fait monter les prix du naphta, entraînant des gains de revalorisation des stocks chez Lotte Chemical, LG Chem et Hanwha Solutions.",
-        "body": "L’industrie pétrochimique sud-coréenne, jusque-là en difficulté, a connu un rebond de court terme après la hausse des prix du naphta liée à la guerre au Moyen-Orient. Cette hausse a entraîné une revalorisation des stocks détenus, et Lotte Chemical a enregistré un bénéfice opérationnel de 73,5 milliards de wons. LG Chem et Hanwha Solutions ont aussi progressé, tandis que les taux d’utilisation des NCC à Yeocheon et Daesan auraient augmenté. Toutefois, cette amélioration est vue davantage comme un effet temporaire des coûts et de la valorisation des stocks que comme une reprise durable. Une restructuration reste jugée nécessaire. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "انتعاش البتروكيماويات الكورية مع ارتفاع النافثا بفعل حرب الشرق الأوسط",
-        "excerpt": "أدى تأثير حرب الشرق الأوسط إلى ارتفاع أسعار النافثا، ما دعم إعادة تقييم المخزونات لدى شركات البتروكيماويات الكورية مثل لوتيه كيميكال وإل جي كيم وهانوا سوليوشنز.",
-        "body": "سجلت صناعة البتروكيماويات الكورية، التي كانت تعاني من الضعف، انتعاشا قصير الأجل مع ارتفاع أسعار النافثا بسبب حرب الشرق الأوسط. وأدى ارتفاع الأسعار إلى مكاسب من إعادة تقييم المخزونات القائمة، فيما حققت لوتيه كيميكال أرباحا تشغيلية بلغت 73.5 مليار وون. كما تحسنت نتائج إل جي كيم وهانوا سوليوشنز، وارتفعت معدلات تشغيل وحدات NCC في يوتشون ودايسان بحسب التقارير. ومع ذلك، ينظر إلى هذا التحسن باعتباره أثرا مؤقتا مرتبطا بالتكاليف وتقييم المخزون لا تعافيا كاملا للقطاع. وتبرز أيضا دعوات لتحسين البنية عبر إعادة الهيكلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरियाई पेट्रोकेमिकल में उछाल: मध्य पूर्व युद्ध से नैफ्था स्टॉक मूल्य बढ़ा",
-        "excerpt": "मध्य पूर्व युद्ध के असर से नैफ्था कीमतें बढ़ीं, जिससे कोरियाई पेट्रोकेमिकल कंपनियों के इन्वेंटरी रीवैल्यूएशन लाभ दिखे और Lotte Chemical, LG Chem व Hanwha Solutions में सुधार आया।",
-        "body": "मध्य पूर्व युद्ध के कारण नैफ्था कीमतों में तेजी आई और कमजोर चल रहा कोरियाई पेट्रोकेमिकल उद्योग अल्पकालिक रूप से उबरा। कीमतों की बढ़त से मौजूदा इन्वेंटरी का पुनर्मूल्यांकन हुआ, और Lotte Chemical ने 73.5 अरब वॉन का ऑपरेटिंग प्रॉफिट दर्ज किया। LG Chem और Hanwha Solutions के प्रदर्शन में भी सुधार हुआ, जबकि Yeocheon और Daesan क्षेत्रों में NCC संचालन दरें बढ़ने की बात सामने आई। फिर भी इस सुधार को उद्योग की पूर्ण रिकवरी के बजाय लागत और इन्वेंटरी वैल्यूएशन से जुड़ा अस्थायी प्रभाव माना जा रहा है। उद्योग में पुनर्गठन के जरिए बुनियादी सुधार की जरूरत भी बताई गई है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Petrokimia Korea pulih saat perang Timur Tengah angkat nilai stok nafta",
-        "excerpt": "Perang Timur Tengah mendorong harga nafta naik dan memicu revaluasi persediaan perusahaan petrokimia Korea, sehingga Lotte Chemical, LG Chem, dan Hanwha Solutions mencatat perbaikan.",
-        "body": "Industri petrokimia Korea yang sebelumnya lesu mencatat pemulihan jangka pendek setelah perang Timur Tengah mendorong harga nafta naik. Kenaikan harga itu memicu revaluasi persediaan yang dimiliki, dan Lotte Chemical membukukan laba operasi 73,5 miliar won. LG Chem dan Hanwha Solutions juga membaik, sementara tingkat operasi NCC di Yeocheon dan Daesan dilaporkan naik. Namun, perbaikan ini dinilai lebih sebagai efek sementara dari biaya dan penilaian persediaan daripada pemulihan penuh industri. Sektor ini juga dinilai perlu memperbaiki struktur melalui restrukturisasi. Sumber: mk.co.kr"
       }
     }
   }
