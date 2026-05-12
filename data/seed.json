@@ -1,5 +1,230 @@
 [
   {
+    "id": "03aa956802b7",
+    "slug": "현대차그룹-생산로봇-도입-속도낸다-525647",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T11:35:42.989Z",
+    "updatedAt": "2026-05-12T11:35:42.989Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044944",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044944",
+    "titleFingerprint": "9757a446065662ddab7a58a72da9259de367fcda",
+    "dedupKeys": [
+      "03aa956802b791ef17831a0c0e125bc4bc0a5b3a",
+      "9757a446065662ddab7a58a72da9259de367fcda",
+      "bcddafe82f7cb5feaaa930493a6a00709ed6312b"
+    ],
+    "imageUrl": "/images/articles/03aa956802b7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "현대차그룹 생산로봇 도입 가속, 스마트팩토리 로보틱스 조직 재편",
+        "excerpt": "현대자동차그룹이 12일 재계에 따르면 스마트팩토리 내 로보틱스 적용 확대를 위해 제조솔루션본부에 로봇 제조 전략 전담 조직을 두는 조직 재편에 나선다.",
+        "body": "현대자동차그룹이 스마트팩토리 내 로보틱스 적용 확대를 위해 생산로봇 도입 체계 정비에 속도를 낸다. 12일 재계에 따르면 현대차그룹은 제조솔루션본부 안에 로봇 제조 전략을 전담하는 조직인 ‘로봇제조솔루션전략’ 관련 조직을 마련하는 방향으로 조직 재편에 나선다. 이번 움직임은 생산 현장에서 로보틱스 활용 범위를 넓히기 위한 내부 실행 체계를 강화하는 데 초점이 맞춰졌다. 제조솔루션본부를 중심으로 전담 기능이 배치되면 스마트팩토리 적용 과제와 생산로봇 전략을 보다 체계적으로 추진할 수 있을 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hyundai Motor Group Speeds Production Robot Push With Smart Factory Reorganization",
+        "excerpt": "Hyundai Motor Group is reorganizing its manufacturing solutions unit to expand robotics use in smart factories, according to industry sources cited on the 12th.",
+        "body": "Hyundai Motor Group is moving faster to prepare its production robot adoption system as it expands robotics applications inside smart factories. According to industry sources on the 12th, the group is pursuing an organizational reshuffle within its Manufacturing Solutions Division to create a dedicated robot manufacturing strategy unit, referred to as Robot Manufacturing Solution Strategy. The move focuses on strengthening an internal execution structure for broadening robotics use on production sites. With a dedicated function placed around the Manufacturing Solutions Division, Hyundai Motor Group is expected to pursue smart factory tasks and production robot strategy in a more systematic way. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "現代自動車グループ、生産ロボット導入を加速 スマート工場組織を再編",
+        "excerpt": "現代自動車グループは12日、スマート工場でのロボティクス適用拡大に向け、製造ソリューション本部内に専任組織を置く再編に乗り出す。",
+        "body": "現代自動車グループが、スマート工場内でのロボティクス適用拡大に向け、生産ロボット導入体制の整備を急ぐ。12日の財界関係者によると、同グループは製造ソリューション本部内にロボット製造戦略を専任する「ロボット製造ソリューション戦略」関連組織を設ける方向で組織再編に着手する。今回の動きは、生産現場でロボティクスの活用範囲を広げるための社内実行体制を強化することに焦点を当てている。製造ソリューション本部を中心に専任機能が配置されれば、スマート工場の適用課題と生産ロボット戦略をより体系的に進められるとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "现代汽车集团加快导入生产机器人，重组智能工厂机器人组织",
+        "excerpt": "据12日产业界消息，现代汽车集团将为扩大智能工厂内机器人应用，在制造解决方案总部设立机器人制造战略专责组织。",
+        "body": "现代汽车集团正加快完善生产机器人导入体系，以扩大智能工厂内的机器人应用。据12日产业界消息，现代汽车集团将在制造解决方案总部内推进组织重组，方向是设立负责机器人制造战略的“机器人制造解决方案战略”相关专责组织。此次举措的重点，是强化内部执行体系，以扩大机器人技术在生产现场的应用范围。若以制造解决方案总部为中心配置专责职能，现代汽车集团有望更系统地推进智能工厂应用课题和生产机器人战略。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hyundai Motor acelera robots de producción con reorganización para fábricas inteligentes",
+        "excerpt": "Hyundai Motor Group reorganiza su división de soluciones de fabricación para ampliar el uso de robótica en fábricas inteligentes, según fuentes empresariales del día 12.",
+        "body": "Hyundai Motor Group acelera la preparación de su sistema de adopción de robots de producción para ampliar las aplicaciones de robótica dentro de sus fábricas inteligentes. Según fuentes empresariales citadas el día 12, el grupo impulsa una reorganización dentro de su División de Soluciones de Fabricación para crear una unidad dedicada a la estrategia de fabricación robótica, denominada Robot Manufacturing Solution Strategy. El movimiento se centra en reforzar la estructura interna de ejecución para ampliar el uso de la robótica en las plantas de producción. Con una función especializada en torno a esa división, el grupo podría avanzar de forma más sistemática en tareas de fábrica inteligente y estrategia de robots de producción. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Hyundai Motor acelera robôs de produção com reorganização para fábricas inteligentes",
+        "excerpt": "O Hyundai Motor Group reorganiza sua divisão de soluções de manufatura para ampliar o uso de robótica em fábricas inteligentes, segundo fontes do setor no dia 12.",
+        "body": "O Hyundai Motor Group está acelerando a preparação de seu sistema de adoção de robôs de produção para expandir aplicações de robótica dentro de fábricas inteligentes. Segundo fontes empresariais no dia 12, o grupo busca uma reorganização dentro da Divisão de Soluções de Manufatura para criar uma unidade dedicada à estratégia de fabricação robótica, chamada Robot Manufacturing Solution Strategy. A iniciativa se concentra em fortalecer a estrutura interna de execução para ampliar o uso de robótica nas linhas de produção. Com uma função dedicada nessa divisão, o grupo deve conduzir tarefas de fábrica inteligente e a estratégia de robôs de produção de modo mais sistemático. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hyundai Motor Group beschleunigt Produktionsroboter durch Smart-Factory-Umbau",
+        "excerpt": "Hyundai Motor Group ordnet laut Branchenkreisen vom 12. seine Manufacturing-Solutions-Sparte neu, um Robotik in Smart Factories breiter einzusetzen.",
+        "body": "Hyundai Motor Group treibt die Vorbereitung seines Systems zur Einführung von Produktionsrobotern voran, um Robotikanwendungen in Smart Factories auszuweiten. Laut Branchenkreisen vom 12. verfolgt der Konzern eine Umstrukturierung innerhalb der Manufacturing Solutions Division, um eine eigene Einheit für Roboterfertigungsstrategie einzurichten, die als Robot Manufacturing Solution Strategy bezeichnet wird. Der Schritt zielt darauf, die interne Umsetzungsstruktur zu stärken und den Einsatz von Robotik in Produktionsstätten auszuweiten. Mit einer dedizierten Funktion rund um die Manufacturing Solutions Division dürfte der Konzern Smart-Factory-Aufgaben und die Produktionsroboterstrategie systematischer vorantreiben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hyundai Motor accélère les robots de production avec une réorganisation smart factory",
+        "excerpt": "Hyundai Motor Group réorganise sa division des solutions de fabrication afin d’élargir l’usage de la robotique dans les usines intelligentes, selon des sources du 12.",
+        "body": "Hyundai Motor Group accélère la préparation de son dispositif d’adoption des robots de production afin d’étendre les applications de robotique dans ses usines intelligentes. Selon des sources du monde des affaires citées le 12, le groupe prépare une réorganisation au sein de sa division Manufacturing Solutions pour créer une unité dédiée à la stratégie de fabrication robotisée, appelée Robot Manufacturing Solution Strategy. Cette initiative vise à renforcer la structure interne d’exécution pour élargir l’usage de la robotique sur les sites de production. Avec cette fonction dédiée, le groupe devrait conduire plus systématiquement les projets de smart factory et sa stratégie de robots de production. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هيونداي موتور تسرع إدخال روبوتات الإنتاج عبر إعادة تنظيم للمصانع الذكية",
+        "excerpt": "تعتزم هيونداي موتور غروب، بحسب مصادر في الأوساط الاقتصادية في 12 من الشهر، إعادة تنظيم وحدة حلول التصنيع لتوسيع تطبيق الروبوتات داخل المصانع الذكية.",
+        "body": "تسرع هيونداي موتور غروب إعداد منظومة إدخال روبوتات الإنتاج بهدف توسيع تطبيقات الروبوتات داخل المصانع الذكية. وبحسب مصادر في الأوساط الاقتصادية في 12 من الشهر، تمضي المجموعة في إعادة تنظيم داخل مقر حلول التصنيع لإنشاء جهة متخصصة في استراتيجية تصنيع الروبوتات، يشار إليها باسم Robot Manufacturing Solution Strategy. وتركز هذه الخطوة على تعزيز هيكل التنفيذ الداخلي لتوسيع نطاق استخدام الروبوتات في مواقع الإنتاج. ومع وضع وظيفة متخصصة حول مقر حلول التصنيع، من المتوقع أن تتمكن المجموعة من دفع مهام المصانع الذكية واستراتيجية روبوتات الإنتاج بصورة أكثر منهجية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Hyundai Motor Group उत्पादन रोबोट अपनाने में तेजी, स्मार्ट फैक्टरी संगठन बदलेगा",
+        "excerpt": "12 तारीख को उद्योग सूत्रों के अनुसार, Hyundai Motor Group स्मार्ट फैक्टरियों में रोबोटिक्स उपयोग बढ़ाने के लिए मैन्युफैक्चरिंग सॉल्यूशंस इकाई का पुनर्गठन कर रहा है।",
+        "body": "Hyundai Motor Group स्मार्ट फैक्टरियों के भीतर रोबोटिक्स अनुप्रयोग बढ़ाने के लिए उत्पादन रोबोट अपनाने की व्यवस्था को तेज कर रहा है। 12 तारीख को उद्योग सूत्रों के अनुसार, समूह अपनी Manufacturing Solutions Division के भीतर संगठनात्मक पुनर्गठन कर रहा है ताकि रोबोट निर्माण रणनीति के लिए समर्पित इकाई बनाई जा सके, जिसे Robot Manufacturing Solution Strategy कहा गया है। इस कदम का उद्देश्य उत्पादन स्थलों पर रोबोटिक्स के उपयोग का दायरा बढ़ाने के लिए आंतरिक कार्यान्वयन ढांचे को मजबूत करना है। Manufacturing Solutions Division के केंद्र में समर्पित भूमिका रखे जाने से स्मार्ट फैक्टरी कार्यों और उत्पादन रोबोट रणनीति को अधिक व्यवस्थित ढंग से आगे बढ़ाया जा सकेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hyundai Motor Group Percepat Robot Produksi Lewat Restrukturisasi Smart Factory",
+        "excerpt": "Hyundai Motor Group, menurut sumber industri pada tanggal 12, menata ulang divisi solusi manufaktur untuk memperluas penerapan robotika di smart factory.",
+        "body": "Hyundai Motor Group mempercepat penataan sistem adopsi robot produksi untuk memperluas penerapan robotika di dalam smart factory. Menurut sumber industri pada tanggal 12, grup tersebut mendorong restrukturisasi organisasi di dalam Divisi Solusi Manufaktur untuk membentuk unit khusus strategi manufaktur robot, yang disebut Robot Manufacturing Solution Strategy. Langkah ini berfokus pada penguatan struktur eksekusi internal agar pemanfaatan robotika di lokasi produksi dapat diperluas. Dengan fungsi khusus yang ditempatkan di sekitar Divisi Solusi Manufaktur, Hyundai Motor Group diperkirakan dapat menjalankan agenda smart factory dan strategi robot produksi secara lebih sistematis. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e55898251b6a",
+    "slug": "esg경영-기후-위기시대-최적-관리전략-234950",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T11:34:09.359Z",
+    "updatedAt": "2026-05-12T11:34:09.359Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044947",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044947",
+    "titleFingerprint": "fe324f3549f0611048ec4c18ec28898a5236f86e",
+    "dedupKeys": [
+      "e55898251b6ad28e30e7083d2a5a773e465a573b",
+      "fe324f3549f0611048ec4c18ec28898a5236f86e",
+      "57b24b7fd8ca44ba25dd6a3dba0fd44e02d09313"
+    ],
+    "imageUrl": "/images/articles/e55898251b6a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "ESG경영 의무공시 확대, 기후 위기시대 기업 위기관리 전략 부상",
+        "excerpt": "정부가 2028년까지 국내 상장사의 ESG 공시를 단계적으로 의무화하는 방안을 추진하면서, ESG를 기후 위기시대 기업 위기관리 전략으로 활용해야 한다는 전문가 조언이 나왔다.",
+        "body": "정부가 2028년까지 국내 상장사의 ESG(환경·책임·투명경영) 공시를 단계적으로 의무화하는 방안을 추진하는 가운데, 전문가들은 ESG경영을 기후 위기시대의 핵심 위기관리 전략으로 활용해야 한다고 조언했다. ESG 공시는 기업이 환경, 사회적 책임, 지배구조 관련 정보를 시장에 투명하게 공개하도록 하는 제도다. 의무화가 확대되면 상장사들은 관련 정보를 더 체계적으로 관리하고 공개해야 한다. 이에 따라 ESG는 단순한 평가 대응을 넘어 기후 리스크와 경영 불확실성을 줄이는 관리 수단으로 주목받고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "ESG disclosure push puts crisis management in focus for listed firms",
+        "excerpt": "As the government moves to phase in mandatory ESG disclosure for domestic listed companies by 2028, experts say ESG should be used as a corporate crisis management strategy in the climate crisis era.",
+        "body": "As the government promotes a plan to make ESG disclosure mandatory in stages for domestic listed companies by 2028, experts advise that ESG management should be used as a key crisis management strategy in the climate crisis era. ESG disclosure is a system that requires companies to transparently provide market information related to the environment, social responsibility and governance. If mandatory disclosure expands, listed companies will need to manage and disclose related information more systematically. As a result, ESG is drawing attention not only as a response to evaluation demands but also as a management tool to reduce climate risks and business uncertainty. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ESG開示義務化の拡大、気候危機時代の企業危機管理戦略に浮上",
+        "excerpt": "政府が2028年までに国内上場企業のESG開示を段階的に義務化する方針を進める中、専門家はESGを企業の危機管理戦略として活用すべきだと助言した。",
+        "body": "政府が2028年までに国内上場企業のESG（環境・責任・透明経営）開示を段階的に義務化する案を進める中、専門家はESG経営を気候危機時代の重要な危機管理戦略として活用すべきだと助言した。ESG開示は、企業が環境、社会的責任、ガバナンスに関する情報を市場に透明に公開する制度だ。義務化が拡大すれば、上場企業は関連情報をより体系的に管理し、公開する必要がある。これによりESGは単なる評価対応を超え、気候リスクと経営の不確実性を減らす管理手段として注目されている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "ESG披露义务扩大，成气候危机时代企业风险管理策略",
+        "excerpt": "韩国政府推进到2028年分阶段强制国内上市公司披露ESG信息之际，专家建议企业将ESG用于气候危机时代的风险管理战略。",
+        "body": "韩国政府正推进到2028年分阶段强制国内上市公司披露ESG（环境、责任、透明经营）信息的方案。在此背景下，专家建议将ESG经营作为气候危机时代的重要企业风险管理战略。ESG披露制度要求企业向市场透明公开与环境、社会责任和治理结构相关的信息。若强制披露范围扩大，上市公司需要更系统地管理并公开相关信息。因此，ESG不再只是应对评价的事项，也正作为降低气候风险和经营不确定性的管理工具受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Divulgación ESG obligatoria impulsa gestión de riesgos empresariales",
+        "excerpt": "Mientras el gobierno impulsa la obligatoriedad gradual de la divulgación ESG para empresas cotizadas nacionales hasta 2028, expertos recomiendan usar ESG como estrategia de gestión de crisis climática.",
+        "body": "El gobierno impulsa un plan para hacer obligatoria de forma gradual, hasta 2028, la divulgación ESG de las empresas nacionales cotizadas. En este contexto, expertos aconsejan utilizar la gestión ESG como una estrategia clave de gestión de crisis en la era de la crisis climática. La divulgación ESG exige que las compañías informen de manera transparente al mercado sobre medio ambiente, responsabilidad social y gobierno corporativo. Si la obligatoriedad se amplía, las cotizadas deberán gestionar y publicar esa información de forma más sistemática. Así, ESG gana atención no solo como respuesta a evaluaciones, sino como herramienta para reducir riesgos climáticos e incertidumbre empresarial. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Divulgação ESG obrigatória ganha peso na gestão de riscos corporativos",
+        "excerpt": "Com o governo avançando para tornar obrigatória, até 2028, a divulgação ESG por empresas listadas nacionais, especialistas defendem o ESG como estratégia de gestão de crise climática.",
+        "body": "O governo promove um plano para tornar obrigatória, em etapas até 2028, a divulgação ESG de empresas nacionais listadas. Nesse contexto, especialistas afirmam que a gestão ESG deve ser usada como uma estratégia central de gestão de crises na era da crise climática. A divulgação ESG exige que as empresas publiquem de forma transparente informações sobre meio ambiente, responsabilidade social e governança. Com a ampliação da obrigatoriedade, as companhias listadas precisarão administrar e divulgar esses dados de modo mais sistemático. Assim, o ESG passa a ser visto não apenas como resposta a avaliações, mas como ferramenta para reduzir riscos climáticos e incertezas de gestão. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "ESG-Pflichtberichte rücken Krisenmanagement von Unternehmen in den Fokus",
+        "excerpt": "Die Regierung treibt bis 2028 eine schrittweise ESG-Berichtspflicht für inländische börsennotierte Unternehmen voran; Experten sehen ESG als Strategie für Krisenmanagement in der Klimakrise.",
+        "body": "Die Regierung verfolgt einen Plan, ESG-Berichte für inländische börsennotierte Unternehmen bis 2028 schrittweise verpflichtend zu machen. In diesem Umfeld raten Experten, ESG-Management als zentrale Strategie für das Krisenmanagement in Zeiten der Klimakrise zu nutzen. ESG-Berichterstattung verlangt von Unternehmen, Informationen zu Umwelt, sozialer Verantwortung und Governance transparent am Markt offenzulegen. Wird die Pflicht ausgeweitet, müssen börsennotierte Unternehmen diese Informationen systematischer verwalten und veröffentlichen. Damit gilt ESG nicht nur als Reaktion auf Bewertungen, sondern zunehmend als Instrument, um Klimarisiken und geschäftliche Unsicherheit zu verringern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La publication ESG obligatoire renforce la gestion des risques d’entreprise",
+        "excerpt": "Alors que le gouvernement veut rendre la publication ESG progressivement obligatoire pour les sociétés cotées nationales d’ici 2028, des experts recommandent d’en faire une stratégie face à la crise climatique.",
+        "body": "Le gouvernement promeut un plan visant à rendre progressivement obligatoire, d’ici 2028, la publication ESG pour les sociétés cotées nationales. Dans ce contexte, des experts recommandent d’utiliser la gestion ESG comme une stratégie essentielle de gestion de crise à l’ère de la crise climatique. La publication ESG impose aux entreprises de communiquer de façon transparente au marché des informations liées à l’environnement, à la responsabilité sociale et à la gouvernance. Si cette obligation s’étend, les sociétés cotées devront gérer et publier ces données de manière plus systématique. L’ESG attire ainsi l’attention non seulement comme réponse aux évaluations, mais aussi comme outil pour réduire les risques climatiques et l’incertitude de gestion. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إفصاح ESG الإلزامي يبرز كاستراتيجية لإدارة أزمات الشركات",
+        "excerpt": "مع دفع الحكومة نحو إلزام الشركات المحلية المدرجة بإفصاحات ESG تدريجيا حتى 2028، يرى خبراء أن ESG يجب أن يستخدم كاستراتيجية لإدارة المخاطر في عصر أزمة المناخ.",
+        "body": "تدفع الحكومة بخطة لجعل إفصاحات ESG للشركات المحلية المدرجة إلزامية على مراحل حتى عام 2028. وفي هذا السياق، ينصح خبراء باستخدام إدارة ESG، أي البيئة والمسؤولية والحوكمة الشفافة، كاستراتيجية رئيسية لإدارة الأزمات في عصر أزمة المناخ. ويقضي إفصاح ESG بأن تكشف الشركات للسوق بشفافية عن المعلومات المتعلقة بالبيئة والمسؤولية الاجتماعية والحوكمة. وإذا اتسع نطاق الإلزام، فسيتعين على الشركات المدرجة إدارة هذه المعلومات ونشرها بصورة أكثر منهجية. لذلك يحظى ESG باهتمام يتجاوز الاستجابة للتقييمات، ليصبح أداة للحد من مخاطر المناخ وعدم اليقين الإداري. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ESG खुलासा अनिवार्यता से कंपनियों की संकट प्रबंधन रणनीति पर जोर",
+        "excerpt": "सरकार 2028 तक घरेलू सूचीबद्ध कंपनियों के ESG खुलासे को चरणबद्ध रूप से अनिवार्य करने की योजना बढ़ा रही है, वहीं विशेषज्ञ इसे जलवायु संकट दौर की जोखिम प्रबंधन रणनीति बता रहे हैं।",
+        "body": "सरकार 2028 तक घरेलू सूचीबद्ध कंपनियों के ESG, यानी पर्यावरण, जिम्मेदारी और पारदर्शी प्रबंधन, खुलासे को चरणबद्ध रूप से अनिवार्य करने की योजना आगे बढ़ा रही है। इसी बीच विशेषज्ञों ने सलाह दी है कि ESG प्रबंधन को जलवायु संकट के दौर में कंपनियों की प्रमुख संकट प्रबंधन रणनीति के रूप में इस्तेमाल किया जाना चाहिए। ESG खुलासा वह व्यवस्था है जिसके तहत कंपनियां पर्यावरण, सामाजिक जिम्मेदारी और शासन से जुड़ी जानकारी बाजार को पारदर्शी रूप से देती हैं। अनिवार्यता बढ़ने पर सूचीबद्ध कंपनियों को संबंधित जानकारी अधिक व्यवस्थित ढंग से संभालनी और प्रकाशित करनी होगी। इसलिए ESG केवल मूल्यांकन का जवाब नहीं, बल्कि जलवायु जोखिम और प्रबंधन अनिश्चितता कम करने का साधन बन रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kewajiban keterbukaan ESG sorot strategi manajemen krisis perusahaan",
+        "excerpt": "Saat pemerintah mendorong kewajiban keterbukaan ESG bertahap bagi emiten domestik hingga 2028, para ahli menilai ESG perlu dipakai sebagai strategi manajemen krisis di era krisis iklim.",
+        "body": "Pemerintah mendorong rencana untuk mewajibkan keterbukaan ESG bagi perusahaan tercatat domestik secara bertahap hingga 2028. Dalam situasi ini, para ahli menyarankan agar manajemen ESG digunakan sebagai strategi utama manajemen krisis di era krisis iklim. Keterbukaan ESG adalah sistem yang meminta perusahaan membuka informasi terkait lingkungan, tanggung jawab sosial, dan tata kelola secara transparan kepada pasar. Jika kewajiban ini diperluas, emiten perlu mengelola dan mengungkap informasi terkait dengan lebih sistematis. Karena itu, ESG mendapat perhatian bukan hanya sebagai respons terhadap penilaian, tetapi juga sebagai alat untuk mengurangi risiko iklim dan ketidakpastian bisnis. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "93b65fb22db4",
+    "slug": "ls전선-군산공장-준공-구리-소재사업-본격화-512709",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T11:32:32.110Z",
+    "updatedAt": "2026-05-12T11:32:32.110Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044946",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044946",
+    "titleFingerprint": "96750d2844d4f945aeff7ca7a9fcf051f2ecaa1e",
+    "dedupKeys": [
+      "93b65fb22db4954feb18cbf6520be479a1021b69",
+      "96750d2844d4f945aeff7ca7a9fcf051f2ecaa1e",
+      "532faa2129447dd7657929c562e8c70683755a1a"
+    ],
+    "imageUrl": "/images/articles/93b65fb22db4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LS전선 군산공장 준공, AI 데이터센터발 구리 수요 대응 본격화",
+        "excerpt": "LS전선은 자회사 한국미래소재의 군산공장 준공을 계기로 AI 데이터센터 확대와 전력망 개편에 따른 구리 수요 증가에 대응해 친환경 구리 소재와 자원순환 사업을 확대한다.",
+        "body": "LS전선이 자회사 한국미래소재의 군산공장 준공을 계기로 구리 소재 사업을 본격화한다. 인공지능(AI) 데이터센터 확대와 전력망 개편으로 구리 수요가 급등하는 가운데, 회사는 친환경 구리 소재와 자원순환 사업 확대에 나섰다. 구리는 전력 인프라와 데이터센터 설비에 쓰이는 핵심 소재로, 전력 사용 증가와 전력망 재편 흐름 속에서 수요가 커지고 있다. LS전선은 군산공장을 기반으로 관련 소재 사업의 생산 기반을 넓히고 자원순환 분야까지 사업 범위를 확장할 계획이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "LS Cable Opens Gunsan Plant to Meet AI Data Center Copper Demand",
+        "excerpt": "LS Cable is expanding eco-friendly copper materials and resource recycling after its subsidiary Korea Future Materials completed the Gunsan plant, responding to rising demand from AI data centers and power grid changes.",
+        "body": "LS Cable is moving to accelerate its copper materials business after the completion of the Gunsan plant by its subsidiary Korea Future Materials. As copper demand rises sharply due to the expansion of artificial intelligence data centers and the restructuring of power grids, the company is expanding eco-friendly copper materials and resource recycling operations. Copper is a core material used in power infrastructure and data center facilities, and demand is growing as electricity use increases and grids are reorganized. LS Cable plans to use the Gunsan plant to broaden its production base for related materials and extend its business into resource recycling. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "LS電線、群山工場竣工でAIデータセンター向け銅需要に対応",
+        "excerpt": "LS電線は子会社の韓国未来素材による群山工場竣工を機に、AIデータセンター拡大と電力網再編で増える銅需要に対応し、環境配慮型銅素材と資源循環事業を拡大する。",
+        "body": "LS電線は、子会社の韓国未来素材が群山工場を竣工したことを機に、銅素材事業を本格化する。人工知能（AI）データセンターの拡大と電力網の再編により銅需要が急増するなか、同社は環境配慮型の銅素材と資源循環事業の拡大に乗り出した。銅は電力インフラやデータセンター設備に使われる中核素材で、電力使用量の増加と電力網再編の流れのなかで需要が高まっている。LS電線は群山工場を基盤に関連素材事業の生産基盤を広げ、資源循環分野まで事業範囲を拡大する計画だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "LS电缆群山工厂竣工，加速应对AI数据中心铜需求",
+        "excerpt": "LS电缆以子公司韩国未来材料群山工厂竣工为契机，因AI数据中心扩张和电网改造带动铜需求上升，扩大环保铜材料和资源循环业务。",
+        "body": "LS电缆以子公司韩国未来材料群山工厂竣工为契机，正式推进铜材料业务。随着人工智能（AI）数据中心扩张和电网改造推动铜需求快速上升，该公司开始扩大环保铜材料和资源循环业务。铜是电力基础设施和数据中心设备使用的关键材料，在用电增加和电网重组的趋势下需求不断扩大。LS电缆计划以群山工厂为基础，扩大相关材料业务的生产基础，并将业务范围延伸至资源循环领域。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "LS Cable inaugura planta en Gunsan y acelera negocio de cobre por demanda de IA",
+        "excerpt": "LS Cable ampliará materiales de cobre ecológicos y reciclaje de recursos tras la finalización de la planta de Gunsan de su filial Korea Future Materials, ante la demanda impulsada por centros de datos de IA y redes eléctricas.",
+        "body": "LS Cable está dando impulso a su negocio de materiales de cobre tras la finalización de la planta de Gunsan de su filial Korea Future Materials. En medio del fuerte aumento de la demanda de cobre por la expansión de los centros de datos de inteligencia artificial y la reorganización de las redes eléctricas, la compañía avanza en materiales de cobre ecológicos y en el negocio de reciclaje de recursos. El cobre es un material clave para la infraestructura eléctrica y los equipos de centros de datos, y su demanda crece con el mayor uso de electricidad y los cambios en las redes. LS Cable planea usar la planta de Gunsan para ampliar su base productiva y extenderse al reciclaje de recursos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "LS Cable conclui fábrica em Gunsan e mira demanda de cobre para data centers de IA",
+        "excerpt": "A LS Cable ampliará materiais de cobre ecológicos e reciclagem de recursos após a conclusão da fábrica de Gunsan da subsidiária Korea Future Materials, em resposta à demanda ligada a data centers de IA e redes elétricas.",
+        "body": "A LS Cable está acelerando seu negócio de materiais de cobre após a conclusão da fábrica de Gunsan de sua subsidiária Korea Future Materials. Com a demanda por cobre crescendo rapidamente devido à expansão dos data centers de inteligência artificial e à reorganização das redes elétricas, a empresa passou a ampliar materiais de cobre ecológicos e negócios de reciclagem de recursos. O cobre é um material essencial para infraestrutura elétrica e equipamentos de data centers, e sua demanda aumenta com o maior consumo de eletricidade e as mudanças nas redes. A LS Cable pretende usar a fábrica de Gunsan para ampliar sua base de produção e expandir para a área de reciclagem de recursos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "LS Cable startet Kupfergeschäft mit Werk in Gunsan für KI-Rechenzentren",
+        "excerpt": "LS Cable baut nach Fertigstellung des Gunsan-Werks der Tochter Korea Future Materials umweltfreundliche Kupfermaterialien und Ressourcenrecycling aus, um auf steigende Nachfrage durch KI-Rechenzentren und Stromnetze zu reagieren.",
+        "body": "LS Cable treibt sein Geschäft mit Kupfermaterialien nach der Fertigstellung des Gunsan-Werks seiner Tochter Korea Future Materials voran. Da die Kupfernachfrage durch den Ausbau von Rechenzentren für künstliche Intelligenz und den Umbau der Stromnetze stark steigt, erweitert das Unternehmen umweltfreundliche Kupfermaterialien und Aktivitäten im Ressourcenrecycling. Kupfer ist ein zentraler Werkstoff für Strominfrastruktur und Anlagen von Rechenzentren. Mit wachsendem Stromverbrauch und der Neuordnung der Netze nimmt die Nachfrage zu. LS Cable will das Werk in Gunsan nutzen, um die Produktionsbasis für entsprechende Materialien zu verbreitern und das Geschäft auf Ressourcenrecycling auszuweiten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "LS Cable ouvre son usine de Gunsan pour répondre à la demande de cuivre liée à l’IA",
+        "excerpt": "LS Cable élargit ses matériaux de cuivre écologiques et le recyclage des ressources après l’achèvement de l’usine de Gunsan de sa filiale Korea Future Materials, face à la demande des centres de données d’IA et des réseaux électriques.",
+        "body": "LS Cable accélère son activité de matériaux en cuivre après l’achèvement de l’usine de Gunsan de sa filiale Korea Future Materials. Alors que la demande de cuivre augmente fortement avec l’expansion des centres de données d’intelligence artificielle et la réorganisation des réseaux électriques, l’entreprise développe des matériaux de cuivre écologiques et des activités de recyclage des ressources. Le cuivre est un matériau clé pour les infrastructures électriques et les équipements de centres de données, et sa demande progresse avec la hausse de la consommation d’électricité et les changements de réseaux. LS Cable prévoit d’utiliser l’usine de Gunsan pour élargir sa base de production et étendre son activité au recyclage des ressources. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إل إس كيبل تفتتح مصنع غونسان لتعزيز أعمال النحاس مع طلب مراكز بيانات الذكاء الاصطناعي",
+        "excerpt": "توسع إل إس كيبل مواد النحاس الصديقة للبيئة وأعمال تدوير الموارد بعد اكتمال مصنع غونسان التابع لشركتها كوريا فيوتشر ماتيريالز، استجابة لطلب متزايد من مراكز بيانات الذكاء الاصطناعي وتحديث شبكات الكهرباء.",
+        "body": "تعمل إل إس كيبل على تسريع أعمال مواد النحاس بعد اكتمال مصنع غونسان التابع لشركتها الفرعية كوريا فيوتشر ماتيريالز. ومع ارتفاع الطلب على النحاس بفعل توسع مراكز بيانات الذكاء الاصطناعي وإعادة تنظيم شبكات الكهرباء، بدأت الشركة توسيع مواد النحاس الصديقة للبيئة وأعمال تدوير الموارد. ويعد النحاس مادة أساسية في البنية التحتية للطاقة ومعدات مراكز البيانات، ويزداد الطلب عليه مع نمو استخدام الكهرباء وتغير بنية الشبكات. وتخطط إل إس كيبل لاستخدام مصنع غونسان لتوسيع قاعدة إنتاج المواد ذات الصلة وتمديد نطاق أعمالها إلى مجال تدوير الموارد. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "LS Cable ने गुनसान संयंत्र पूरा किया, AI डेटा सेंटरों से बढ़ी तांबे की मांग पर जोर",
+        "excerpt": "LS Cable अपनी सहायक Korea Future Materials के गुनसान संयंत्र के पूरा होने के बाद पर्यावरण-अनुकूल तांबा सामग्री और संसाधन पुनर्चक्रण कारोबार बढ़ा रही है, क्योंकि AI डेटा सेंटरों और बिजली ग्रिड बदलाव से मांग बढ़ रही है।",
+        "body": "LS Cable अपनी सहायक कंपनी Korea Future Materials के गुनसान संयंत्र के पूरा होने के बाद तांबा सामग्री कारोबार को तेज कर रही है। कृत्रिम बुद्धिमत्ता डेटा सेंटरों के विस्तार और बिजली ग्रिड के पुनर्गठन से तांबे की मांग तेजी से बढ़ रही है, और इसी बीच कंपनी पर्यावरण-अनुकूल तांबा सामग्री तथा संसाधन पुनर्चक्रण कारोबार का विस्तार कर रही है। तांबा बिजली अवसंरचना और डेटा सेंटर उपकरणों में इस्तेमाल होने वाली प्रमुख सामग्री है, जिसकी मांग बिजली उपयोग बढ़ने और ग्रिड बदलावों के साथ बढ़ रही है। LS Cable गुनसान संयंत्र के आधार पर संबंधित सामग्री की उत्पादन क्षमता बढ़ाने और संसाधन पुनर्चक्रण क्षेत्र तक कारोबार फैलाने की योजना रखती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "LS Cable rampungkan pabrik Gunsan untuk jawab permintaan tembaga pusat data AI",
+        "excerpt": "LS Cable memperluas material tembaga ramah lingkungan dan daur ulang sumber daya setelah pabrik Gunsan milik anak usahanya Korea Future Materials selesai, seiring kenaikan permintaan dari pusat data AI dan pembenahan jaringan listrik.",
+        "body": "LS Cable mulai mempercepat bisnis material tembaga setelah pabrik Gunsan milik anak usahanya, Korea Future Materials, rampung. Di tengah lonjakan permintaan tembaga akibat perluasan pusat data kecerdasan buatan dan pembenahan jaringan listrik, perusahaan memperluas material tembaga ramah lingkungan serta bisnis daur ulang sumber daya. Tembaga merupakan material utama untuk infrastruktur listrik dan peralatan pusat data, sehingga permintaannya meningkat seiring naiknya penggunaan listrik dan perubahan jaringan. LS Cable berencana memanfaatkan pabrik Gunsan untuk memperluas basis produksi material terkait dan memperluas cakupan bisnis ke bidang daur ulang sumber daya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "b602da41be5f",
     "slug": "미래에셋證-업계-첫-분기-순익-1조-돌파-798125",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Saham Alphabet Naik 36% dalam Enam Bulan, Dekati Puncak Kapitalisasi Pasar",
         "excerpt": "Alphabet dilaporkan mencatat kenaikan saham 36% dalam enam bulan terakhir, membuat nilainya mendekati perebutan posisi pertama kapitalisasi pasar.",
         "body": "Saham Alphabet naik 36% dalam enam bulan terakhir, membawa perusahaan itu mendekati posisi untuk menantang peringkat pertama kapitalisasi pasar, menurut hankyung.com. Inti kabarnya adalah harga saham naik tajam selama periode enam bulan, sehingga keberadaan Alphabet dalam persaingan nilai pasar perusahaan makin menonjol. Laporan asli berfokus pada dua fakta: kenaikan saham 36% dalam setengah tahun dan langkah Alphabet mendekati pemimpin kapitalisasi pasar. Dengan kenaikan sebesar itu, investor dapat mencermati perubahan nilai pasar Alphabet serta jaraknya dari perusahaan peringkat pertama. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "20a07ee9fe3e",
-    "slug": "패시브-vs-액티브반도체-커버드콜-etf-전쟁-814415",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T20:10:57.740Z",
-    "updatedAt": "2026-05-11T20:10:57.740Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051190621",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051190621",
-    "titleFingerprint": "cdf39d3ce6f030e70a1d234189b27244d8e316b5",
-    "dedupKeys": [
-      "20a07ee9fe3e0fa2a9b15722c8734c35ac07ee43",
-      "cdf39d3ce6f030e70a1d234189b27244d8e316b5",
-      "718371b9b56a881be84ab1b504b2659eff28c51b"
-    ],
-    "imageUrl": "/images/articles/20a07ee9fe3e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 커버드콜 ETF 경쟁 격화…삼성 패시브·미래 액티브 맞대결",
-        "excerpt": "삼성자산운용과 미래에셋자산운용이 반도체 커버드콜 ETF 시장에서 각각 패시브형과 액티브형 전략을 내세우며 21조원 커버드콜 ETF 시장 주도권 경쟁에 나섰다.",
-        "body": "국내 상장지수펀드(ETF) 시장을 양분하는 삼성자산운용과 미래에셋자산운용이 반도체 커버드콜 ETF를 놓고 맞붙고 있다. 미래에셋자산운용은 지난달 21일 ‘TIGER 반도체TOP10커버드콜액티브’를 상장했고, 삼성자산운용은 ‘KODEX 반도체 타겟위클리커버드콜’ 출시를 예고했다. 미래에셋 상품은 삼성전자와 SK하이닉스 등 개별 종목 옵션을 활용하는 액티브 전략이 특징이며, 상장 첫날 832억원의 순매수가 몰렸다. 삼성 상품은 기존 흥행작인 ‘KODEX 200 타겟위클리커버드콜’과 유사한 구조의 패시브형으로 알려졌다. 21조원 규모 커버드콜 ETF 시장의 경쟁이 반도체 테마로 확산하면서 투자자는 분배 구조와 옵션 전략을 함께 비교해야 할 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Semiconductor Covered-Call ETF Fight Intensifies as Samsung and Mirae Split Strategies",
-        "excerpt": "Samsung Asset Management and Mirae Asset are competing in semiconductor covered-call ETFs, using passive and active strategies as the 21 trillion won covered-call ETF market expands.",
-        "body": "Samsung Asset Management and Mirae Asset Global Investments, two major players in Korea’s ETF market, are competing over semiconductor covered-call ETFs. Mirae Asset listed the TIGER Semiconductor TOP10 Covered Call Active ETF on April 21, while Samsung Asset Management has previewed the KODEX Semiconductor Target Weekly Covered Call ETF. Mirae’s product uses an active strategy based on individual stock options, including Samsung Electronics and SK hynix, and drew 83.2 billion won in net buying on its first trading day. Samsung’s product is known to follow a passive structure similar to its successful KODEX 200 Target Weekly Covered Call ETF. As competition in the 21 trillion won covered-call ETF market spreads to semiconductors, investors are expected to compare payout structures and option strategies closely. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "半導体カバードコールETF競争が激化、サムスンはパッシブ・未来はアクティブ",
-        "excerpt": "サムスン資産運用と未来アセットが半導体カバードコールETFで、パッシブ型とアクティブ型の戦略を掲げ、21兆ウォン規模市場の主導権を競っている。",
-        "body": "韓国ETF市場を二分するサムスン資産運用と未来アセット資産運用が、半導体カバードコールETFをめぐって競争している。未来アセットは4月21日に「TIGER半導体TOP10カバードコールアクティブ」を上場し、サムスン資産運用は「KODEX半導体ターゲットウィークリーカバードコール」の投入を予告した。未来アセットの商品はサムスン電子やSKハイニックスなど個別銘柄のオプションを活用するアクティブ戦略が特徴で、上場初日に832億ウォンの純買いを集めた。サムスンの商品は、既存の人気商品「KODEX 200ターゲットウィークリーカバードコール」と似たパッシブ型構造とされる。21兆ウォン規模のカバードコールETF市場で競争が半導体テーマに広がる中、投資家は分配構造とオプション戦略を比較する必要がありそうだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "半导体备兑看涨ETF竞争升温，三星被动型对阵未来主动型",
-        "excerpt": "三星资产管理和未来资产在半导体备兑看涨ETF市场分别推出被动型与主动型策略，争夺规模达21万亿韩元的备兑看涨ETF市场主导权。",
-        "body": "韩国ETF市场两大公司三星资产管理和未来资产管理正在半导体备兑看涨ETF领域展开竞争。未来资产已于4月21日上市“TIGER半导体TOP10备兑看涨主动型ETF”，三星资产管理则预告推出“KODEX半导体目标周度备兑看涨ETF”。未来资产产品的特点是采用主动策略，使用三星电子、SK海力士等个股期权，上市首日获得832亿韩元净买入。三星产品则被认为采用与其畅销产品“KODEX 200目标周度备兑看涨ETF”类似的被动型结构。随着21万亿韩元规模的备兑看涨ETF市场竞争扩展至半导体主题，投资者预计需要同时比较分配结构和期权策略。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Batalla de ETF covered call de semiconductores: Samsung pasivo contra Mirae activo",
-        "excerpt": "Samsung Asset Management y Mirae Asset compiten en ETF covered call de semiconductores con estrategias pasivas y activas, dentro de un mercado de 21 billones de wones.",
-        "body": "Samsung Asset Management y Mirae Asset Global Investments, dos grandes firmas del mercado coreano de ETF, compiten en ETF covered call centrados en semiconductores. Mirae Asset lanzó el 21 de abril el TIGER Semiconductor TOP10 Covered Call Active ETF, mientras Samsung Asset Management anticipó el KODEX Semiconductor Target Weekly Covered Call ETF. El producto de Mirae usa una estrategia activa basada en opciones de acciones individuales, incluidas Samsung Electronics y SK hynix, y recibió compras netas por 83.200 millones de wones en su primer día de cotización. El producto de Samsung se conoce como una estructura pasiva similar a su exitoso KODEX 200 Target Weekly Covered Call ETF. A medida que la competencia del mercado de ETF covered call de 21 billones de wones se extiende a semiconductores, los inversores deberán comparar la estructura de distribución y la estrategia de opciones. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Disputa por ETF covered call de semicondutores opõe Samsung passiva e Mirae ativa",
-        "excerpt": "Samsung Asset Management e Mirae Asset disputam ETFs covered call de semicondutores com estratégias passiva e ativa, mirando um mercado de 21 trilhões de won.",
-        "body": "Samsung Asset Management e Mirae Asset Global Investments, duas líderes do mercado coreano de ETFs, estão competindo em ETFs covered call de semicondutores. A Mirae Asset listou em 21 de abril o TIGER Semiconductor TOP10 Covered Call Active ETF, enquanto a Samsung Asset Management anunciou o KODEX Semiconductor Target Weekly Covered Call ETF. O produto da Mirae usa uma estratégia ativa com opções de ações individuais, incluindo Samsung Electronics e SK hynix, e atraiu 83,2 bilhões de won em compras líquidas no primeiro dia de negociação. O produto da Samsung é conhecido por seguir uma estrutura passiva semelhante à do bem-sucedido KODEX 200 Target Weekly Covered Call ETF. Com a disputa do mercado de ETFs covered call de 21 trilhões de won avançando para semicondutores, investidores devem comparar estruturas de distribuição e estratégias de opções. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Halbleiter-Covered-Call-ETFs: Samsung setzt passiv, Mirae aktiv dagegen",
-        "excerpt": "Samsung Asset Management und Mirae Asset konkurrieren bei Halbleiter-Covered-Call-ETFs mit passiven und aktiven Ansätzen im 21 Billionen Won schweren Covered-Call-ETF-Markt.",
-        "body": "Samsung Asset Management und Mirae Asset Global Investments, zwei Schwergewichte des koreanischen ETF-Markts, konkurrieren bei Halbleiter-Covered-Call-ETFs. Mirae Asset brachte am 21. April den TIGER Semiconductor TOP10 Covered Call Active ETF an die Börse, während Samsung Asset Management den KODEX Semiconductor Target Weekly Covered Call ETF angekündigt hat. Das Produkt von Mirae nutzt eine aktive Strategie mit Optionen auf Einzeltitel wie Samsung Electronics und SK hynix und verzeichnete am ersten Handelstag Nettokäufe von 83,2 Milliarden Won. Samsungs Produkt soll eine passive Struktur haben, ähnlich dem erfolgreichen KODEX 200 Target Weekly Covered Call ETF. Da sich der Wettbewerb im 21 Billionen Won schweren Covered-Call-ETF-Markt auf Halbleiter ausweitet, dürften Anleger Ausschüttungsstruktur und Optionsstrategie genauer vergleichen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "ETF covered call semi-conducteurs: Samsung en passif face à Mirae en actif",
-        "excerpt": "Samsung Asset Management et Mirae Asset s’affrontent sur les ETF covered call de semi-conducteurs avec des stratégies passive et active, dans un marché de 21 000 milliards de wons.",
-        "body": "Samsung Asset Management et Mirae Asset Global Investments, deux acteurs majeurs du marché coréen des ETF, se disputent les ETF covered call liés aux semi-conducteurs. Mirae Asset a coté le 21 avril le TIGER Semiconductor TOP10 Covered Call Active ETF, tandis que Samsung Asset Management a annoncé le KODEX Semiconductor Target Weekly Covered Call ETF. Le produit de Mirae repose sur une stratégie active utilisant des options sur actions individuelles, dont Samsung Electronics et SK hynix, et a attiré 83,2 milliards de wons d’achats nets le premier jour. Le produit de Samsung serait construit selon une structure passive proche de son succès KODEX 200 Target Weekly Covered Call ETF. Alors que la concurrence du marché des ETF covered call de 21 000 milliards de wons s’étend aux semi-conducteurs, les investisseurs devront comparer la structure de distribution et la stratégie d’options. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "منافسة صناديق ETF المغطاة لأشباه الموصلات تشتد بين سامسونغ وميراي",
-        "excerpt": "تتنافس سامسونغ لإدارة الأصول وميراي أست على صناديق ETF المغطاة لأشباه الموصلات باستراتيجيتين، سلبية ونشطة، في سوق يبلغ حجمه 21 تريليون وون.",
-        "body": "تتنافس سامسونغ لإدارة الأصول وميراي أست غلوبال إنفستمنتس، وهما من أكبر لاعبي سوق صناديق ETF في كوريا، في صناديق ETF المغطاة المرتبطة بأشباه الموصلات. أدرجت ميراي أست في 21 أبريل صندوق TIGER Semiconductor TOP10 Covered Call Active ETF، بينما أعلنت سامسونغ لإدارة الأصول عن صندوق KODEX Semiconductor Target Weekly Covered Call ETF. يعتمد صندوق ميراي على استراتيجية نشطة تستخدم خيارات على أسهم منفردة، منها سامسونغ إلكترونيكس وSK hynix، وسجل في أول يوم تداول صافي شراء قدره 83.2 مليار وون. أما صندوق سامسونغ فيُعرف بأنه يتبع بنية سلبية مشابهة لصندوقها الناجح KODEX 200 Target Weekly Covered Call ETF. ومع امتداد المنافسة في سوق صناديق ETF المغطاة البالغ 21 تريليون وون إلى أشباه الموصلات، يتوقع أن يقارن المستثمرون بين هيكل التوزيعات واستراتيجية الخيارات. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर कवर्ड कॉल ETF में जंग, सैमसंग पैसिव और मिरे एक्टिव रणनीति पर",
-        "excerpt": "Samsung Asset Management और Mirae Asset सेमीकंडक्टर कवर्ड कॉल ETF में पैसिव और एक्टिव रणनीतियों के साथ 21 ट्रिलियन वॉन के बाजार में बढ़त की होड़ कर रहे हैं।",
-        "body": "कोरिया के ETF बाजार के दो बड़े खिलाड़ी Samsung Asset Management और Mirae Asset Global Investments सेमीकंडक्टर कवर्ड कॉल ETF को लेकर आमने-सामने हैं। Mirae Asset ने 21 अप्रैल को TIGER Semiconductor TOP10 Covered Call Active ETF सूचीबद्ध किया, जबकि Samsung Asset Management ने KODEX Semiconductor Target Weekly Covered Call ETF लाने की घोषणा की है। Mirae का उत्पाद Samsung Electronics और SK hynix जैसे अलग-अलग शेयरों के विकल्पों का उपयोग करने वाली एक्टिव रणनीति पर आधारित है और पहले कारोबारी दिन इसमें 83.2 अरब वॉन की शुद्ध खरीद हुई। Samsung का उत्पाद उसके सफल KODEX 200 Target Weekly Covered Call ETF जैसी पैसिव संरचना वाला माना जा रहा है। 21 ट्रिलियन वॉन के कवर्ड कॉल ETF बाजार की प्रतिस्पर्धा सेमीकंडक्टर थीम तक फैलने के साथ निवेशकों को वितरण ढांचे और विकल्प रणनीति की तुलना करनी होगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Persaingan ETF covered call semikonduktor memanas, Samsung pasif lawan Mirae aktif",
-        "excerpt": "Samsung Asset Management dan Mirae Asset bersaing di ETF covered call semikonduktor dengan strategi pasif dan aktif, mengejar pasar covered call ETF senilai 21 triliun won.",
-        "body": "Samsung Asset Management dan Mirae Asset Global Investments, dua pemain besar pasar ETF Korea, bersaing dalam ETF covered call berbasis semikonduktor. Mirae Asset mencatatkan TIGER Semiconductor TOP10 Covered Call Active ETF pada 21 April, sementara Samsung Asset Management mengumumkan KODEX Semiconductor Target Weekly Covered Call ETF. Produk Mirae memakai strategi aktif berbasis opsi saham individual, termasuk Samsung Electronics dan SK hynix, serta mencatat pembelian bersih 83,2 miliar won pada hari pertama perdagangan. Produk Samsung dikenal memakai struktur pasif yang mirip dengan produk suksesnya, KODEX 200 Target Weekly Covered Call ETF. Saat persaingan pasar covered call ETF senilai 21 triliun won meluas ke tema semikonduktor, investor diperkirakan perlu membandingkan struktur distribusi dan strategi opsi. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "5197b89ea1b5",
-    "slug": "금감원-상장사-감리-주기-대폭-단축-640676",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T20:09:39.969Z",
-    "updatedAt": "2026-05-11T20:09:39.969Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051190611",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051190611",
-    "titleFingerprint": "c3a328252a41adab042c264daa0524f0af9f78de",
-    "dedupKeys": [
-      "5197b89ea1b5525ca279be1c5f89bcbe95c82fd8",
-      "c3a328252a41adab042c264daa0524f0af9f78de",
-      "a889f84b881c793c721f63dc39495b70e7fa92e5"
-    ],
-    "imageUrl": "/images/articles/5197b89ea1b5.png",
-    "i18n": {
-      "ko": {
-        "title": "금감원, 상장사 감리 주기 대폭 단축…회계 감독 속도 높인다",
-        "excerpt": "금융감독원이 상장사 감리 주기를 대폭 단축한다. 상장기업 회계 감독의 적시성을 높이기 위한 조치로, 관련 내용은 hankyung.com 보도를 통해 전해졌다.",
-        "body": "금융감독원이 상장사 감리 주기를 대폭 단축한다. 상장기업을 대상으로 한 감리 절차의 시간 간격을 줄여 회계 감독의 적시성을 높이려는 조치다. 원문 요약에는 구체적인 시행 시점, 단축 폭, 적용 대상의 세부 범위는 제시되지 않았다. 이번 내용은 상장사 회계 관리와 감독 체계에 직접 관련된 사안으로, 시장 참여자들은 향후 세부 기준과 실제 운영 방식에 주목할 필요가 있다. 출처는 hankyung.com이다."
-      },
-      "en": {
-        "title": "FSS to Sharply Shorten Listed-Company Review Cycle, Raising Oversight Pace",
-        "excerpt": "South Korea’s Financial Supervisory Service will sharply shorten the review cycle for listed companies to improve the timeliness of accounting oversight, according to hankyung.com.",
-        "body": "South Korea’s Financial Supervisory Service will sharply shorten the review cycle for listed companies. The move is aimed at reducing the interval between review procedures for listed firms and improving the timeliness of accounting oversight. The source summary did not provide the exact implementation date, the size of the reduction, or detailed scope of covered companies. The issue is directly tied to accounting management and supervisory systems for listed firms, so market participants will need to watch for detailed standards and operating methods. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "韓国金融監督院、上場企業の監理周期を大幅短縮へ",
-        "excerpt": "韓国金融監督院は上場企業の監理周期を大幅に短縮する。会計監督の適時性を高める措置として、hankyung.comが報じた。",
-        "body": "韓国金融監督院は、上場企業の監理周期を大幅に短縮する。上場企業を対象にした監理手続きの間隔を縮め、会計監督の適時性を高めるための措置だ。原文の要約では、具体的な施行時期、短縮幅、適用対象の詳細範囲は示されていない。今回の内容は上場企業の会計管理と監督体制に直接関わる事案であり、市場関係者は今後の詳細基準と実際の運用方式に注目する必要がある。出典はhankyung.com。"
-      },
-      "zh": {
-        "title": "韩国金融监督院将大幅缩短上市公司审查周期",
-        "excerpt": "韩国金融监督院将大幅缩短上市公司审查周期，以提高会计监管的及时性。相关内容由hankyung.com报道。",
-        "body": "韩国金融监督院将大幅缩短上市公司审查周期。此举旨在减少针对上市企业的审查程序间隔，提高会计监管的及时性。原文摘要未说明具体实施时间、缩短幅度以及适用对象的详细范围。该事项与上市公司的会计管理和监管体系直接相关，市场参与者有必要关注后续细则和实际运行方式。来源：hankyung.com。"
-      },
-      "es": {
-        "title": "El FSS acortará con fuerza el ciclo de revisión de empresas cotizadas",
-        "excerpt": "El Servicio de Supervisión Financiera de Corea del Sur acortará de forma significativa el ciclo de revisión de empresas cotizadas para mejorar la oportunidad del control contable, según hankyung.com.",
-        "body": "El Servicio de Supervisión Financiera de Corea del Sur acortará de forma significativa el ciclo de revisión de las empresas cotizadas. La medida busca reducir el intervalo entre los procedimientos de revisión aplicados a compañías listadas y mejorar la oportunidad de la supervisión contable. El resumen original no indica la fecha concreta de aplicación, la magnitud del recorte ni el alcance detallado de las empresas incluidas. El asunto está directamente vinculado con la gestión contable y el sistema de supervisión de las cotizadas, por lo que el mercado deberá seguir los criterios y métodos operativos que se anuncien. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "FSS reduzirá fortemente ciclo de revisão de empresas listadas",
-        "excerpt": "O Serviço de Supervisão Financeira da Coreia do Sul reduzirá de forma significativa o ciclo de revisão de empresas listadas para aumentar a tempestividade da supervisão contábil, segundo hankyung.com.",
-        "body": "O Serviço de Supervisão Financeira da Coreia do Sul reduzirá de forma significativa o ciclo de revisão das empresas listadas. A medida busca diminuir o intervalo entre os procedimentos de revisão aplicados às companhias em bolsa e elevar a tempestividade da supervisão contábil. O resumo original não informa a data específica de implementação, o tamanho da redução nem o escopo detalhado das empresas abrangidas. O tema está diretamente ligado à gestão contábil e ao sistema de supervisão das companhias listadas, por isso participantes do mercado devem acompanhar os critérios e métodos operacionais futuros. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "FSS verkürzt Prüfzyklus für börsennotierte Unternehmen deutlich",
-        "excerpt": "Die südkoreanische Finanzaufsicht FSS wird den Prüfzyklus für börsennotierte Unternehmen deutlich verkürzen, um die Aktualität der Rechnungslegungsaufsicht zu verbessern, berichtet hankyung.com.",
-        "body": "Die südkoreanische Finanzaufsicht FSS wird den Prüfzyklus für börsennotierte Unternehmen deutlich verkürzen. Ziel ist es, die Abstände zwischen Prüfverfahren für gelistete Firmen zu verringern und die Aktualität der Rechnungslegungsaufsicht zu erhöhen. Die ursprüngliche Zusammenfassung nennt weder den konkreten Umsetzungszeitpunkt noch das Ausmaß der Verkürzung oder den genauen Kreis der betroffenen Unternehmen. Das Thema betrifft unmittelbar Rechnungslegung und Aufsichtssysteme börsennotierter Firmen; Marktteilnehmer sollten daher weitere Detailregeln und die praktische Umsetzung beobachten. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Le FSS réduira fortement le cycle de contrôle des sociétés cotées",
-        "excerpt": "Le Service sud-coréen de supervision financière réduira nettement le cycle de contrôle des sociétés cotées afin d’améliorer la rapidité de la surveillance comptable, selon hankyung.com.",
-        "body": "Le Service sud-coréen de supervision financière réduira nettement le cycle de contrôle des sociétés cotées. Cette mesure vise à raccourcir l’intervalle entre les procédures de contrôle appliquées aux entreprises cotées et à améliorer la rapidité de la surveillance comptable. Le résumé original ne précise pas la date d’entrée en vigueur, l’ampleur de la réduction ni le périmètre détaillé des sociétés concernées. Le sujet touche directement la gestion comptable et le dispositif de supervision des sociétés cotées; les acteurs du marché devront donc suivre les critères détaillés et les modalités d’application à venir. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "هيئة الرقابة المالية الكورية تقلص دورة مراجعة الشركات المدرجة بحدة",
-        "excerpt": "تعتزم هيئة الرقابة المالية في كوريا الجنوبية تقليص دورة مراجعة الشركات المدرجة بشكل كبير لتحسين توقيت الرقابة المحاسبية، وفق ما نقلته hankyung.com.",
-        "body": "تعتزم هيئة الرقابة المالية في كوريا الجنوبية تقليص دورة مراجعة الشركات المدرجة بشكل كبير. وتهدف الخطوة إلى تقليل الفاصل الزمني بين إجراءات المراجعة المطبقة على الشركات المدرجة ورفع توقيت الرقابة المحاسبية. ولم يوضح ملخص النص الأصلي موعد التنفيذ المحدد أو حجم التقليص أو النطاق التفصيلي للشركات المشمولة. ويرتبط هذا الموضوع مباشرة بإدارة الحسابات ونظام الرقابة على الشركات المدرجة، لذلك يحتاج المشاركون في السوق إلى متابعة المعايير التفصيلية وطريقة التشغيل الفعلية لاحقا. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "FSS सूचीबद्ध कंपनियों की समीक्षा अवधि में बड़ी कटौती करेगा",
-        "excerpt": "दक्षिण कोरिया की वित्तीय पर्यवेक्षण सेवा सूचीबद्ध कंपनियों की समीक्षा अवधि में बड़ी कटौती करेगी, ताकि लेखा निगरानी की समयबद्धता बेहतर हो सके, hankyung.com के अनुसार।",
-        "body": "दक्षिण कोरिया की वित्तीय पर्यवेक्षण सेवा सूचीबद्ध कंपनियों की समीक्षा अवधि में बड़ी कटौती करेगी। इस कदम का उद्देश्य सूचीबद्ध कंपनियों के लिए समीक्षा प्रक्रियाओं के बीच अंतराल घटाना और लेखा निगरानी की समयबद्धता बढ़ाना है। मूल सारांश में लागू होने की सटीक तारीख, कटौती की मात्रा या लागू कंपनियों के विस्तृत दायरे की जानकारी नहीं दी गई है। यह विषय सूचीबद्ध कंपनियों के लेखा प्रबंधन और निगरानी व्यवस्था से सीधे जुड़ा है, इसलिए बाजार प्रतिभागियों को आगे आने वाले विस्तृत मानकों और वास्तविक संचालन पद्धति पर नजर रखनी होगी। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "FSS Pangkas Tajam Siklus Pemeriksaan Perusahaan Tercatat",
-        "excerpt": "Financial Supervisory Service Korea Selatan akan memangkas tajam siklus pemeriksaan perusahaan tercatat untuk meningkatkan ketepatan waktu pengawasan akuntansi, menurut hankyung.com.",
-        "body": "Financial Supervisory Service Korea Selatan akan memangkas tajam siklus pemeriksaan perusahaan tercatat. Langkah ini bertujuan mengurangi jeda antarprosedur pemeriksaan terhadap emiten dan meningkatkan ketepatan waktu pengawasan akuntansi. Ringkasan asli tidak menyebutkan waktu penerapan yang spesifik, besar pemangkasan, maupun cakupan rinci perusahaan yang terdampak. Isu ini berkaitan langsung dengan pengelolaan akuntansi dan sistem pengawasan perusahaan tercatat, sehingga pelaku pasar perlu mencermati standar rinci dan cara operasional yang akan diumumkan berikutnya. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "493c005bb1e7",
-    "slug": "불장에-날아오른-증권株미래에셋-日노무라-추월-106697",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T20:08:48.149Z",
-    "updatedAt": "2026-05-11T20:08:48.149Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051191281",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051191281",
-    "titleFingerprint": "d42ad025862a63591c58c5a7c3b27f3dffc48b0e",
-    "dedupKeys": [
-      "493c005bb1e799af114e6c9463b6a2eb2aa51f65",
-      "d42ad025862a63591c58c5a7c3b27f3dffc48b0e",
-      "30a2bc9fd7668917262e9f43d97c7db03368b946"
-    ],
-    "imageUrl": "/images/articles/493c005bb1e7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "증권주 불장에 미래에셋 급부상, 일본 노무라 추월 소식 주목",
-        "excerpt": "증권주가 강세를 보이는 불장 속에서 미래에셋이 일본 노무라를 추월했다는 소식이 전해지며 국내 금융투자업계의 위상 변화에 관심이 쏠리고 있다.",
-        "body": "증권주가 불장 흐름을 타고 강세를 보이는 가운데 미래에셋이 일본 노무라를 추월했다는 소식이 전해졌다. 한국경제(hankyung.com)에 따르면 이번 움직임은 상승장 속 증권업종에 대한 투자심리가 개선되는 과정에서 부각됐다. 원문 제목은 미래에셋의 약진과 일본 대표 증권사 노무라와의 비교를 핵심으로 제시했다. 다만 제공된 원문 정보에는 추월 기준, 구체적 수치, 시점 등 세부 내용은 포함되지 않았다. 이번 보도는 국내 증권사의 상대적 위상 변화와 증권주 강세 흐름을 함께 보여주는 사례로 해석된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Securities Rally Lifts Mirae Asset as It Overtakes Japan’s Nomura",
-        "excerpt": "Mirae Asset has reportedly overtaken Japan’s Nomura amid a strong rally in securities stocks, drawing attention to shifting standing in the financial investment sector.",
-        "body": "Mirae Asset has reportedly overtaken Japan’s Nomura as securities stocks gained strength in a bull-market environment. According to Hankyung.com, the development stood out as investor sentiment toward brokerage and securities shares improved during the market upswing. The original headline highlighted Mirae Asset’s rise and its comparison with Nomura, one of Japan’s major securities firms. The provided source information did not include the exact basis of the overtaking, detailed figures, or a specific timing. The report points to both the strength of securities stocks and a possible change in the relative standing of a Korean financial firm. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "証券株上昇で未来アセットが浮上、日本の野村を追い抜く",
-        "excerpt": "証券株が強い相場の流れに乗るなか、未来アセットが日本の野村を追い抜いたとの報道があり、金融投資業界の地位変化に関心が集まっている。",
-        "body": "証券株が強気相場の流れを受けて上昇するなか、未来アセットが日本の野村を追い抜いたとのニュースが伝えられた。Hankyung.comによると、この動きは上昇相場の中で証券業種に対する投資心理が改善する過程で注目された。原文の見出しは、未来アセットの躍進と日本を代表する証券会社である野村との比較を中心に示している。ただし、提供された原文情報には、追い抜いた基準、具体的な数値、時点などの詳細は含まれていない。今回の報道は、韓国証券会社の相対的な地位変化と証券株の強さを同時に示す事例といえる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "证券股牛市走强，未来资产崛起并超过日本野村",
-        "excerpt": "在证券股随牛市走强之际，未来资产被报道已超过日本野村，引发市场对韩国金融投资行业地位变化的关注。",
-        "body": "在证券股受牛市推动而走强的背景下，未来资产超过日本野村的消息受到关注。据Hankyung.com报道，这一动向是在上涨行情中，市场对证券行业投资情绪改善的过程中显现出来的。原文标题将未来资产的跃升，以及其与日本代表性证券公司野村的比较作为核心信息。不过，所提供的原文信息未包含超过的具体标准、详细数据或确切时间。本次报道显示出韩国证券公司的相对地位变化，也反映了证券股在当前市场中的强势表现。来源: hankyung.com"
-      },
-      "es": {
-        "title": "El rally de valores impulsa a Mirae Asset y supera a Nomura de Japón",
-        "excerpt": "Mirae Asset habría superado a Nomura de Japón en medio de una fuerte subida de las acciones de valores, atrayendo atención sobre cambios en el sector financiero.",
-        "body": "Mirae Asset habría superado a Nomura de Japón mientras las acciones del sector de valores avanzan con fuerza en un mercado alcista. Según Hankyung.com, este movimiento destacó en un contexto de mejora del ánimo inversor hacia las compañías de corretaje y valores durante la subida del mercado. El titular original subraya el avance de Mirae Asset y la comparación con Nomura, una de las firmas de valores representativas de Japón. La información proporcionada no incluye el criterio exacto del adelantamiento, cifras detalladas ni una fecha concreta. El reporte muestra tanto la fortaleza de las acciones de valores como un cambio relativo en la posición de una firma financiera surcoreana. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Alta das corretoras impulsiona Mirae Asset, que supera Nomura do Japão",
-        "excerpt": "A Mirae Asset teria superado a japonesa Nomura em meio à forte alta das ações de corretoras, chamando atenção para mudanças no setor de investimento financeiro.",
-        "body": "A Mirae Asset teria superado a Nomura do Japão enquanto as ações do setor de corretoras e valores ganham força em um mercado de alta. Segundo o Hankyung.com, o movimento chamou atenção no processo de melhora do sentimento dos investidores em relação ao setor de valores durante a valorização do mercado. O título original destaca a ascensão da Mirae Asset e a comparação com a Nomura, uma das principais corretoras japonesas. As informações fornecidas não incluem o critério exato da superação, números detalhados nem um momento específico. A notícia aponta tanto para a força das ações do setor quanto para uma mudança relativa na posição de uma empresa financeira sul-coreana. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Securities-Rally treibt Mirae Asset vor Nomura aus Japan",
-        "excerpt": "Mirae Asset soll Japans Nomura im Zuge starker Kursgewinne bei Securities-Aktien überholt haben und lenkt den Blick auf Verschiebungen im Finanzsektor.",
-        "body": "Mirae Asset soll Japans Nomura überholt haben, während Securities- und Brokeraktien in einem Bullenmarkt deutlich zulegten. Laut Hankyung.com fiel diese Entwicklung auf, als sich die Anlegerstimmung gegenüber dem Wertpapiersektor im Zuge der Markterholung verbesserte. Die ursprüngliche Überschrift stellt den Aufstieg von Mirae Asset und den Vergleich mit Nomura, einem repräsentativen japanischen Wertpapierhaus, in den Mittelpunkt. Die bereitgestellten Angaben enthalten jedoch keine genaue Grundlage des Überholens, keine konkreten Zahlen und keinen exakten Zeitpunkt. Der Bericht verweist damit auf die Stärke von Securities-Aktien und auf eine mögliche Veränderung der relativen Position eines südkoreanischen Finanzunternehmens. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le rally des valeurs financières porte Mirae Asset devant Nomura",
-        "excerpt": "Mirae Asset aurait dépassé le japonais Nomura dans un contexte de forte hausse des valeurs de courtage, attirant l’attention sur l’évolution du secteur financier.",
-        "body": "Mirae Asset aurait dépassé le japonais Nomura alors que les valeurs liées aux titres et au courtage progressent fortement dans un marché haussier. Selon Hankyung.com, ce mouvement s’est distingué au moment où le sentiment des investisseurs envers le secteur des valeurs mobilières s’améliorait avec la hausse du marché. Le titre original met l’accent sur l’essor de Mirae Asset et sur la comparaison avec Nomura, l’une des maisons de titres représentatives du Japon. Les informations fournies ne précisent pas le critère exact du dépassement, les chiffres détaillés ni le moment précis. Le reportage illustre à la fois la vigueur des valeurs du secteur et un changement relatif de position pour une société financière sud-coréenne. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صعود أسهم الوساطة يدفع ميراي أسيت لتجاوز نومورا اليابانية",
-        "excerpt": "تجاوزت ميراي أسيت على ما يبدو شركة نومورا اليابانية وسط موجة صعود قوية في أسهم شركات الأوراق المالية، ما لفت الانتباه إلى تغيرات في مكانة القطاع المالي.",
-        "body": "تردد أن ميراي أسيت تجاوزت شركة نومورا اليابانية في وقت استفادت فيه أسهم شركات الأوراق المالية من أجواء سوق صاعدة. ووفقاً لموقع Hankyung.com، برز هذا التطور مع تحسن شهية المستثمرين تجاه قطاع الوساطة والأوراق المالية خلال موجة الارتفاع. وركز العنوان الأصلي على صعود ميراي أسيت ومقارنتها بنومورا، وهي من أبرز شركات الأوراق المالية في اليابان. لكن المعلومات المتاحة من النص الأصلي لا تتضمن معيار التجاوز بدقة، ولا أرقاماً تفصيلية، ولا توقيتاً محدداً. ويشير التقرير إلى قوة أسهم القطاع وإلى تغير محتمل في المكانة النسبية لشركة مالية كورية جنوبية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सिक्योरिटीज शेयरों की तेजी से Mirae Asset ने जापान की Nomura को पछाड़ा",
-        "excerpt": "सिक्योरिटीज शेयरों में मजबूत तेजी के बीच Mirae Asset के जापान की Nomura से आगे निकलने की खबर आई है, जिससे वित्तीय निवेश क्षेत्र की स्थिति में बदलाव पर ध्यान गया है।",
-        "body": "सिक्योरिटीज शेयरों में बुल मार्केट की मजबूती के बीच Mirae Asset के जापान की Nomura को पीछे छोड़ने की खबर सामने आई। Hankyung.com के अनुसार, बाजार की तेजी के दौरान ब्रोकरेज और सिक्योरिटीज क्षेत्र के प्रति निवेशकों की धारणा बेहतर होने के बीच यह घटनाक्रम उभरा। मूल शीर्षक में Mirae Asset की तेज बढ़त और जापान की प्रमुख सिक्योरिटीज कंपनी Nomura के साथ तुलना को मुख्य बिंदु बनाया गया है। उपलब्ध मूल जानकारी में आगे निकलने का सटीक आधार, विस्तृत आंकड़े या निश्चित समय शामिल नहीं हैं। यह रिपोर्ट सिक्योरिटीज शेयरों की मजबूती और एक दक्षिण कोरियाई वित्तीय कंपनी की सापेक्ष स्थिति में बदलाव को दिखाती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Reli Saham Sekuritas Dorong Mirae Asset Lewati Nomura Jepang",
-        "excerpt": "Mirae Asset dilaporkan melampaui Nomura Jepang di tengah reli kuat saham sekuritas, menarik perhatian pada perubahan posisi di industri investasi keuangan.",
-        "body": "Mirae Asset dilaporkan melampaui Nomura Jepang ketika saham-saham sekuritas menguat dalam suasana pasar bullish. Menurut Hankyung.com, perkembangan ini menonjol saat sentimen investor terhadap sektor broker dan sekuritas membaik seiring kenaikan pasar. Judul asli menekankan lonjakan Mirae Asset dan perbandingannya dengan Nomura, salah satu perusahaan sekuritas utama Jepang. Informasi sumber yang diberikan tidak memuat dasar pasti dari pelampauan tersebut, angka rinci, ataupun waktu spesifik. Laporan ini menunjukkan kekuatan saham sekuritas sekaligus perubahan posisi relatif sebuah perusahaan keuangan Korea Selatan. Sumber: hankyung.com"
       }
     }
   }
