@@ -1,5 +1,230 @@
 [
   {
+    "id": "d57b01bd0c68",
+    "slug": "서울반도체-1분기-매출액-2382억영업이익-18억흑자-전환-250574",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T13:52:06.440Z",
+    "updatedAt": "2026-05-12T13:52:06.440Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044731",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044731",
+    "titleFingerprint": "91f12538399802b54f1efbf7a87958d09327e3d9",
+    "dedupKeys": [
+      "d57b01bd0c68ea2c986d51b56a20d162bf26086e",
+      "91f12538399802b54f1efbf7a87958d09327e3d9",
+      "b64433113e30d003ee60792db41d5973710b361c"
+    ],
+    "imageUrl": "/images/articles/d57b01bd0c68.png",
+    "i18n": {
+      "ko": {
+        "title": "서울반도체 1분기 영업이익 18억원, 매출 2382억원으로 흑자 전환",
+        "excerpt": "서울반도체는 올해 1분기 매출액 2382억원, 영업이익 18억원을 기록하며 흑자 전환했다고 밝혔다. 고부가가치 제품 판매 확대가 실적 개선 요인으로 제시됐다.",
+        "body": "광반도체 전문기업 서울반도체가 올해 1분기 매출액 2382억원, 영업이익 18억원을 기록하며 흑자 전환했다. 회사는 고부가가치 제품 판매 확대 등이 실적 개선에 영향을 미쳤다고 설명했다. 이번 실적은 매출과 수익성 측면에서 전 분기 대비 회복 흐름을 보여주는 지표로 제시됐다. 서울반도체는 2분기 매출액 전망치로 2700억~2900억원을 제시했다. 이는 1분기보다 높은 수준의 매출 가이던스로, 향후 실적 흐름을 가늠할 수 있는 기준이 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Semiconductor Turns Profitable in Q1 With 2.382 Trillion Won Sales",
+        "excerpt": "Seoul Semiconductor said it posted Q1 revenue of 238.2 billion won and operating profit of 1.8 billion won, turning profitable as higher-value product sales expanded.",
+        "body": "Seoul Semiconductor, a specialist in optical semiconductors, turned profitable in the first quarter of this year with revenue of 238.2 billion won and operating profit of 1.8 billion won. The company said improved performance was supported by expanded sales of high-value-added products. The results indicate a recovery in both sales and profitability compared with the previous performance trend. For the second quarter, Seoul Semiconductor presented a revenue forecast of 270 billion to 290 billion won. That guidance is higher than first-quarter sales and will serve as a reference point for assessing its earnings direction. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウル半導体、1～3月期営業益18億ウォンで黒字転換",
+        "excerpt": "ソウル半導体は今年1～3月期に売上高2382億ウォン、営業利益18億ウォンを記録し黒字転換した。高付加価値製品の販売拡大が業績改善要因とされた。",
+        "body": "光半導体専門企業のソウル半導体は、今年1～3月期に売上高2382億ウォン、営業利益18億ウォンを記録し、黒字転換した。会社側は、高付加価値製品の販売拡大などが業績改善に影響したと説明した。今回の実績は、売上と収益性の面で回復の流れを示す指標として示された。ソウル半導体は4～6月期の売上高見通しとして2700億～2900億ウォンを提示した。これは1～3月期を上回る水準の売上ガイダンスであり、今後の業績動向を見極める基準になる見込みだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔半导体一季度营业利润18亿韩元，销售2382亿韩元转盈",
+        "excerpt": "首尔半导体表示，今年一季度实现销售额2382亿韩元、营业利润18亿韩元，成功转为盈利，高附加值产品销售扩大推动业绩改善。",
+        "body": "光半导体专业企业首尔半导体今年一季度实现销售额2382亿韩元、营业利润18亿韩元，转为盈利。公司说明称，高附加值产品销售扩大等因素推动了业绩改善。此次业绩从销售和盈利能力方面显示出恢复趋势。首尔半导体同时提出二季度销售额展望为2700亿至2900亿韩元。该指引高于一季度销售水平，将成为观察今后业绩走向的参考基准。出处: mk.co.kr"
+      },
+      "es": {
+        "title": "Seoul Semiconductor vuelve a beneficios en el 1T con ventas de 238.200 millones de wones",
+        "excerpt": "Seoul Semiconductor registró en el primer trimestre ventas de 238.200 millones de wones y beneficio operativo de 1.800 millones, apoyada por productos de mayor valor añadido.",
+        "body": "Seoul Semiconductor, empresa especializada en semiconductores ópticos, volvió a beneficios en el primer trimestre de este año tras registrar ventas de 238.200 millones de wones y un beneficio operativo de 1.800 millones de wones. La compañía explicó que la mejora de resultados se debió, entre otros factores, a la expansión de las ventas de productos de alto valor añadido. Las cifras muestran una recuperación en ventas y rentabilidad. Para el segundo trimestre, Seoul Semiconductor presentó una previsión de ingresos de entre 270.000 y 290.000 millones de wones, por encima del nivel del primer trimestre. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Seoul Semiconductor volta ao lucro no 1º trimestre com receita de 238,2 bi de wons",
+        "excerpt": "A Seoul Semiconductor registrou receita de 238,2 bilhões de wons e lucro operacional de 1,8 bilhão no 1º trimestre, com melhora ligada a produtos de maior valor agregado.",
+        "body": "A Seoul Semiconductor, empresa especializada em semicondutores ópticos, voltou ao lucro no primeiro trimestre deste ano ao registrar receita de 238,2 bilhões de wons e lucro operacional de 1,8 bilhão de wons. A companhia explicou que a melhora do desempenho foi influenciada pela expansão das vendas de produtos de alto valor agregado. O resultado indica recuperação em vendas e rentabilidade. Para o segundo trimestre, a Seoul Semiconductor apresentou previsão de receita entre 270 bilhões e 290 bilhões de wons, acima do valor registrado no primeiro trimestre. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Seoul Semiconductor kehrt im ersten Quartal mit 1,8 Mrd. Won Betriebsgewinn in die Gewinnzone zurück",
+        "excerpt": "Seoul Semiconductor erzielte im ersten Quartal 238,2 Mrd. Won Umsatz und 1,8 Mrd. Won Betriebsgewinn. Der Verkauf höherwertiger Produkte stützte die Ergebnisverbesserung.",
+        "body": "Seoul Semiconductor, ein Spezialist für optische Halbleiter, ist im ersten Quartal dieses Jahres in die Gewinnzone zurückgekehrt. Das Unternehmen meldete einen Umsatz von 238,2 Milliarden Won und einen Betriebsgewinn von 1,8 Milliarden Won. Als Grund für die Ergebnisverbesserung nannte Seoul Semiconductor unter anderem den Ausbau des Verkaufs von Produkten mit höherer Wertschöpfung. Die Zahlen zeigen eine Erholung bei Umsatz und Profitabilität. Für das zweite Quartal gab das Unternehmen eine Umsatzprognose von 270 bis 290 Milliarden Won aus. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Seoul Semiconductor redevient rentable au 1er trimestre avec 238,2 milliards de wons de ventes",
+        "excerpt": "Seoul Semiconductor a réalisé au 1er trimestre 238,2 milliards de wons de chiffre d’affaires et 1,8 milliard de bénéfice opérationnel, grâce aux produits à plus forte valeur.",
+        "body": "Seoul Semiconductor, spécialiste des semi-conducteurs optiques, est repassé dans le vert au premier trimestre de cette année avec un chiffre d’affaires de 238,2 milliards de wons et un bénéfice opérationnel de 1,8 milliard de wons. L’entreprise a expliqué que l’amélioration des résultats provenait notamment de l’expansion des ventes de produits à forte valeur ajoutée. Ces chiffres indiquent une reprise des ventes et de la rentabilité. Pour le deuxième trimestre, Seoul Semiconductor prévoit un chiffre d’affaires compris entre 270 et 290 milliards de wons. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سيول سيميكوندكتور تتحول للربحية في الربع الأول بأرباح تشغيلية 1.8 مليار وون",
+        "excerpt": "أعلنت سيول سيميكوندكتور تحقيق مبيعات قدرها 238.2 مليار وون وأرباح تشغيلية 1.8 مليار وون في الربع الأول، مدعومة بتوسع مبيعات المنتجات الأعلى قيمة.",
+        "body": "تحولت شركة سيول سيميكوندكتور، المتخصصة في أشباه الموصلات الضوئية، إلى الربحية في الربع الأول من هذا العام بعد تسجيل مبيعات بقيمة 238.2 مليار وون وأرباح تشغيلية قدرها 1.8 مليار وون. وأوضحت الشركة أن تحسن الأداء تأثر بتوسع مبيعات المنتجات ذات القيمة المضافة العالية. وتشير النتائج إلى تعاف في المبيعات والربحية. وقدمت سيول سيميكوندكتور توقعات لمبيعات الربع الثاني بين 270 مليار و290 مليار وون، وهو مستوى أعلى من مبيعات الربع الأول. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल सेमीकंडक्टर पहली तिमाही में लाभ में लौटी, बिक्री 238.2 अरब वॉन",
+        "excerpt": "सियोल सेमीकंडक्टर ने पहली तिमाही में 238.2 अरब वॉन की बिक्री और 1.8 अरब वॉन का परिचालन लाभ दर्ज किया, जिसमें उच्च मूल्य वाले उत्पादों की बिक्री बढ़ना प्रमुख रहा।",
+        "body": "ऑप्टिकल सेमीकंडक्टर विशेषज्ञ कंपनी सियोल सेमीकंडक्टर इस साल की पहली तिमाही में लाभ में लौट आई। कंपनी ने 238.2 अरब वॉन की बिक्री और 1.8 अरब वॉन का परिचालन लाभ दर्ज किया। कंपनी के अनुसार, उच्च मूल्य-वर्धित उत्पादों की बिक्री बढ़ने सहित कई कारणों से प्रदर्शन में सुधार हुआ। यह परिणाम बिक्री और लाभप्रदता दोनों में सुधार का संकेत देता है। सियोल सेमीकंडक्टर ने दूसरी तिमाही के लिए 270 अरब से 290 अरब वॉन तक की बिक्री का अनुमान पेश किया है, जो पहली तिमाही से अधिक है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Seoul Semiconductor Berbalik Laba Kuartal I, Penjualan Capai 238,2 Miliar Won",
+        "excerpt": "Seoul Semiconductor mencatat penjualan 238,2 miliar won dan laba operasi 1,8 miliar won pada kuartal I, didorong perluasan penjualan produk bernilai tambah tinggi.",
+        "body": "Seoul Semiconductor, perusahaan spesialis semikonduktor optik, berbalik mencetak laba pada kuartal pertama tahun ini dengan penjualan 238,2 miliar won dan laba operasi 1,8 miliar won. Perusahaan menjelaskan bahwa perbaikan kinerja dipengaruhi oleh perluasan penjualan produk bernilai tambah tinggi. Hasil ini menunjukkan pemulihan dari sisi penjualan dan profitabilitas. Untuk kuartal kedua, Seoul Semiconductor memberikan perkiraan penjualan sebesar 270 miliar hingga 290 miliar won, lebih tinggi dibanding realisasi kuartal pertama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1fab268bd192",
+    "slug": "증가하는-시니어-타운-수요웰크론한텍-프로젝트-수주-총력-813205",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T13:50:32.467Z",
+    "updatedAt": "2026-05-12T13:50:32.467Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044733",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044733",
+    "titleFingerprint": "fae332c2e51a9b3682808d406252ffa66df5fa21",
+    "dedupKeys": [
+      "1fab268bd1926f87e7b4dd6a1ccf1064a0780e66",
+      "fae332c2e51a9b3682808d406252ffa66df5fa21",
+      "277b05035f393b311442f35487cc6b1599eb058f"
+    ],
+    "imageUrl": "/images/articles/1fab268bd192.png",
+    "i18n": {
+      "ko": {
+        "title": "시니어 타운 수요 증가에 웰크론한텍, 북위례 빌리지 수주 총력",
+        "excerpt": "웰크론한텍은 12일 시니어 주거·의료시설 건축 수요가 늘어나는 가운데 ‘KB골든라이프케어 북위례 빌리지’ 수주에 전사 역량을 집중한다고 밝혔다.",
+        "body": "플랜트·종합건설 전문기업 웰크론한텍은 12일 ‘KB골든라이프케어 북위례 빌리지(가칭)’ 프로젝트 수주를 위해 전사적인 역량을 집중하고 있다고 밝혔다. 회사는 최근 시니어 주거시설과 의료시설 건축 수요가 늘어나는 흐름에 맞춰 관련 프로젝트 확보에 힘을 싣고 있다. 이번 수주 추진은 고령층을 위한 주거·케어 인프라에 대한 관심이 커지는 가운데 진행되는 사업 기회로, 웰크론한텍의 종합건설 역량이 평가될 수 있는 사안이다. 회사는 해당 프로젝트 수주를 목표로 내부 자원을 결집하고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Welcron Hantec Targets North Wirye Village as Senior-Town Demand Rises",
+        "excerpt": "Welcron Hantec said on the 12th it is focusing companywide capabilities on winning the tentative KB Golden Life Care North Wirye Village project amid rising demand for senior housing and medical facilities.",
+        "body": "Welcron Hantec, a plant and general construction specialist, said on the 12th that it is concentrating companywide capabilities to win the tentative “KB Golden Life Care North Wirye Village” project. The company is strengthening efforts to secure related projects as demand for senior residential facilities and medical facility construction has recently increased. The bid push comes as interest grows in housing and care infrastructure for older adults, making the project an opportunity to assess Welcron Hantec’s general construction capabilities. The company is mobilizing internal resources with the goal of securing the project. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "シニアタウン需要拡大でウェルクロンハンテック、北慰礼ビレッジ受注に注力",
+        "excerpt": "ウェルクロンハンテックは12日、シニア住宅・医療施設の建設需要が高まる中、「KBゴールデンライフケア北慰礼ビレッジ」受注に全社的な力を集中すると明らかにした。",
+        "body": "プラント・総合建設専門企業のウェルクロンハンテックは12日、「KBゴールデンライフケア北慰礼ビレッジ（仮称）」プロジェクトの受注に向け、全社的な能力を集中していると明らかにした。同社は最近、シニア向け住宅施設と医療施設の建設需要が増えている流れに合わせ、関連プロジェクトの確保に力を入れている。今回の受注推進は、高齢層向けの住居・ケアインフラへの関心が高まる中で進められる事業機会であり、同社の総合建設能力が評価され得る案件だ。同社は受注を目標に内部資源を結集している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "老年社区需求上升，Welcron Hantec全力争取北慰礼村项目",
+        "excerpt": "Welcron Hantec于12日表示，随着老年居住及医疗设施建设需求增加，公司正集中全社力量争取“KB Golden Life Care北慰礼村”项目。",
+        "body": "植物工程和综合建设专业企业Welcron Hantec于12日表示，正为争取暂名为“KB Golden Life Care北慰礼村”的项目集中全社力量。公司表示，近期老年居住设施和医疗设施建设需求增加，因此正加强 확보相关项目的努力。此次争取项目是在社会对面向高龄人群的居住和护理基础设施关注提升的背景下推进的业务机会，也将成为评估Welcron Hantec综合建设能力的事项。公司正以获得该项目为目标整合内部资源。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Aumenta la demanda de senior towns y Welcron Hantec va por North Wirye Village",
+        "excerpt": "Welcron Hantec dijo el día 12 que concentra capacidades de toda la empresa para adjudicarse el proyecto provisional KB Golden Life Care North Wirye Village ante la mayor demanda de viviendas y centros médicos para mayores.",
+        "body": "Welcron Hantec, empresa especializada en plantas y construcción integral, informó el día 12 que está concentrando capacidades de toda la compañía para adjudicarse el proyecto provisional “KB Golden Life Care North Wirye Village”. La firma refuerza sus esfuerzos para asegurar proyectos relacionados en un contexto de aumento reciente de la demanda de instalaciones residenciales para mayores y de construcción de centros médicos. Esta iniciativa de adjudicación se desarrolla mientras crece el interés por la infraestructura de vivienda y cuidados para personas mayores, y puede servir para evaluar la capacidad de construcción integral de Welcron Hantec. La empresa está reuniendo recursos internos con el objetivo de ganar el proyecto. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Demanda por senior towns cresce e Welcron Hantec mira North Wirye Village",
+        "excerpt": "A Welcron Hantec afirmou no dia 12 que concentra capacidades de toda a empresa para conquistar o projeto provisório KB Golden Life Care North Wirye Village, diante da maior demanda por moradias e instalações médicas para idosos.",
+        "body": "A Welcron Hantec, especializada em plantas industriais e construção geral, informou no dia 12 que está concentrando capacidades de toda a empresa para vencer o projeto provisório “KB Golden Life Care North Wirye Village”. A companhia vem reforçando esforços para garantir projetos relacionados, acompanhando o recente aumento da demanda por instalações residenciais para idosos e construção de unidades médicas. A iniciativa ocorre em meio ao maior interesse por infraestrutura de moradia e cuidados para a população idosa, e pode ser uma oportunidade para avaliar a capacidade de construção geral da Welcron Hantec. A empresa reúne recursos internos com o objetivo de conquistar o projeto. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Mehr Nachfrage nach Senior Towns: Welcron Hantec setzt auf North Wirye Village",
+        "excerpt": "Welcron Hantec teilte am 12. mit, das Unternehmen bündele seine Kräfte, um das vorläufige Projekt KB Golden Life Care North Wirye Village zu gewinnen, da die Nachfrage nach Seniorenwohn- und medizinischen Einrichtungen steigt.",
+        "body": "Welcron Hantec, ein Spezialist für Anlagenbau und allgemeinen Hochbau, erklärte am 12., das Unternehmen konzentriere seine gesamten Kapazitäten darauf, den Zuschlag für das vorläufige Projekt „KB Golden Life Care North Wirye Village“ zu erhalten. Das Unternehmen verstärkt seine Bemühungen um entsprechende Projekte, da zuletzt die Nachfrage nach Seniorenwohnanlagen und medizinischen Einrichtungen gestiegen ist. Der Vorstoß erfolgt vor dem Hintergrund eines wachsenden Interesses an Wohn- und Pflegeinfrastruktur für ältere Menschen und kann die Fähigkeiten von Welcron Hantec im allgemeinen Bauwesen sichtbar machen. Das Unternehmen bündelt interne Ressourcen mit dem Ziel, das Projekt zu gewinnen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La demande de senior towns augmente, Welcron Hantec vise North Wirye Village",
+        "excerpt": "Welcron Hantec a annoncé le 12 mobiliser l’ensemble de ses capacités pour obtenir le projet provisoire KB Golden Life Care North Wirye Village, alors que la demande de logements seniors et d’établissements médicaux progresse.",
+        "body": "Welcron Hantec, spécialiste des installations industrielles et de la construction générale, a déclaré le 12 qu’elle concentrait les capacités de toute l’entreprise pour remporter le projet provisoire « KB Golden Life Care North Wirye Village ». La société renforce ses efforts pour obtenir des projets liés à la hausse récente de la demande de résidences pour seniors et de constructions d’établissements médicaux. Cette démarche intervient alors que l’intérêt grandit pour les infrastructures de logement et de soins destinées aux personnes âgées, et peut mettre en évidence les capacités de construction générale de Welcron Hantec. L’entreprise rassemble ses ressources internes avec l’objectif d’obtenir ce projet. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ارتفاع طلب مدن كبار السن يدفع ويلكرون هانتك لاستهداف مشروع شمال ويري",
+        "excerpt": "قالت ويلكرون هانتك في 12 من الشهر إنها تركز قدرات الشركة كلها للفوز بمشروع KB Golden Life Care North Wirye Village المؤقت، وسط تزايد الطلب على مساكن كبار السن والمرافق الطبية.",
+        "body": "أعلنت ويلكرون هانتك، المتخصصة في المنشآت والبناء الشامل، في 12 من الشهر أنها تركز قدرات الشركة على الفوز بمشروع “KB Golden Life Care North Wirye Village” المؤقت. وتعمل الشركة على تعزيز جهودها لتأمين مشاريع ذات صلة مع الزيادة الأخيرة في الطلب على مرافق السكن لكبار السن وبناء المرافق الطبية. وتأتي هذه المساعي في وقت يتزايد فيه الاهتمام بالبنية التحتية للسكن والرعاية الموجهة لكبار السن، ما يجعل المشروع فرصة يمكن من خلالها تقييم قدرات ويلكرون هانتك في البناء الشامل. وتجمع الشركة مواردها الداخلية بهدف الفوز بالمشروع. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सीनियर टाउन मांग बढ़ी, Welcron Hantec North Wirye Village परियोजना पर केंद्रित",
+        "excerpt": "Welcron Hantec ने 12 तारीख को कहा कि वरिष्ठ आवास और चिकित्सा सुविधाओं की निर्माण मांग बढ़ने के बीच वह KB Golden Life Care North Wirye Village परियोजना हासिल करने के लिए कंपनी-व्यापी क्षमता लगा रही है।",
+        "body": "प्लांट और सामान्य निर्माण विशेषज्ञ Welcron Hantec ने 12 तारीख को कहा कि वह अस्थायी नाम वाली “KB Golden Life Care North Wirye Village” परियोजना हासिल करने के लिए कंपनी-व्यापी क्षमताओं पर ध्यान केंद्रित कर रही है। कंपनी हाल में वरिष्ठ नागरिकों के आवासीय सुविधाओं और चिकित्सा सुविधाओं के निर्माण की मांग बढ़ने के रुझान के अनुरूप संबंधित परियोजनाएं 확보 करने के प्रयास बढ़ा रही है। यह पहल बुजुर्गों के लिए आवास और देखभाल अवसंरचना में बढ़ती रुचि के बीच आगे बढ़ रही व्यावसायिक संभावना है, जिसमें Welcron Hantec की सामान्य निर्माण क्षमता का मूल्यांकन हो सकता है। कंपनी इस परियोजना को जीतने के लक्ष्य से आंतरिक संसाधन जुटा रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Permintaan Senior Town Meningkat, Welcron Hantec Bidik North Wirye Village",
+        "excerpt": "Welcron Hantec menyatakan pada tanggal 12 bahwa perusahaan memusatkan kemampuan seluruh organisasi untuk meraih proyek sementara KB Golden Life Care North Wirye Village di tengah naiknya permintaan hunian lansia dan fasilitas medis.",
+        "body": "Welcron Hantec, perusahaan spesialis plant dan konstruksi umum, menyatakan pada tanggal 12 bahwa pihaknya memusatkan kemampuan seluruh perusahaan untuk memenangkan proyek sementara “KB Golden Life Care North Wirye Village”. Perusahaan memperkuat upaya memperoleh proyek terkait seiring meningkatnya permintaan terbaru untuk fasilitas hunian lansia dan pembangunan fasilitas medis. Dorongan tender ini berlangsung saat minat terhadap infrastruktur hunian dan perawatan bagi kelompok usia lanjut meningkat, sehingga menjadi peluang untuk menilai kemampuan konstruksi umum Welcron Hantec. Perusahaan mengerahkan sumber daya internal dengan target memperoleh proyek tersebut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "d41fc3e429de",
+    "slug": "통신업-부진에-부동산으로-버텨낸-kt이통사-5조클럽-복귀-가능할까-769335",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T13:48:52.363Z",
+    "updatedAt": "2026-05-12T13:48:52.363Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044740",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044740",
+    "titleFingerprint": "229bf6fc7db83e88a43e2137fc4a35acc006f017",
+    "dedupKeys": [
+      "d41fc3e429de3b1be34c53e4b7b23daf9bc9d02e",
+      "229bf6fc7db83e88a43e2137fc4a35acc006f017",
+      "06a61a4b142694c0a33a50c5bafbe5eb16cf3118"
+    ],
+    "imageUrl": "/images/articles/d41fc3e429de.jpg",
+    "i18n": {
+      "ko": {
+        "title": "KT 실적 부진, 사이버 침해 비용 털고 ‘5조클럽’ 복귀 가능성 주목",
+        "excerpt": "KT가 초유의 사이버 침해 사태 여파로 전년 대비 매출 1%, 영업이익 29.9% 감소한 실적을 공개했지만, 일회성 비용 반영 뒤 연간 실적 전망은 양호하다는 관측이 나온다.",
+        "body": "KT가 초유의 사이버 침해 사태의 직격탄을 맞으며 부진한 성적표를 내놨다. 전년 대비 매출액은 1% 줄었고 영업이익은 29.9% 감소했다. 통신업 부진이 실적에 부담으로 작용했지만, 부동산 부문이 이를 일부 떠받친 것으로 전해졌다. 이번 실적에는 사이버 침해 관련 일회성 비용이 반영된 만큼, 해당 비용을 털어낸 뒤의 연간 실적은 상대적으로 양호할 수 있다는 전망도 제기된다. 시장의 관심은 KT가 이동통신사 ‘5조클럽’ 복귀 가능성을 다시 보여줄 수 있을지에 모인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KT Earnings Slump Puts Focus on Cyber Costs and Return to ‘5 Trillion Club’",
+        "excerpt": "KT reported weaker results after an unprecedented cyber breach, with revenue down 1% and operating profit down 29.9% year on year, though annual performance may improve after one-off costs.",
+        "body": "KT posted weak results after taking a direct hit from an unprecedented cyber breach. Revenue fell 1% from a year earlier, while operating profit dropped 29.9%. The telecom business weighed on overall performance, but the real estate division reportedly helped offset part of the decline. As the latest results include one-off costs related to the cyber incident, some views suggest annual earnings could remain relatively sound once those costs are cleared. Attention now turns to whether KT can show a path back to the mobile carrier “5 trillion club.” Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KT業績不振、サイバー侵害費用後の「5兆クラブ」復帰に注目",
+        "excerpt": "KTは前例のないサイバー侵害の影響で、前年比売上高1%減、営業利益29.9%減の決算を発表したが、一時費用後の年間業績には底堅さを見込む声もある。",
+        "body": "KTは前例のないサイバー侵害の直撃を受け、低調な決算を発表した。売上高は前年同期比1%減、営業利益は29.9%減となった。通信事業の不振が業績の重荷となった一方、不動産部門が一部を下支えしたと伝えられている。今回の決算にはサイバー侵害関連の一時費用が反映されており、その費用を処理した後の年間業績は比較的良好との見方も出ている。市場の関心は、KTが通信会社の「5兆クラブ」復帰の可能性を示せるかに集まっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KT业绩承压，网络攻击费用出清后能否重返“5万亿俱乐部”受关注",
+        "excerpt": "KT受罕见网络入侵事件冲击，公布营收同比下降1%、营业利润下降29.9%的业绩，但一次性费用反映后，全年表现仍被认为可能较稳。",
+        "body": "KT因罕见的网络入侵事件受到直接冲击，公布了低迷业绩。其营收同比下降1%，营业利润减少29.9%。通信业务疲弱对整体业绩形成压力，但据报道，房地产部门在一定程度上提供了支撑。由于本次业绩已反映与网络入侵相关的一次性费用，市场也出现了全年业绩在费用出清后可能相对良好的看法。投资者关注的焦点，是KT能否重新展现回归移动通信运营商“5万亿俱乐部”的可能性。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KT cae por costes de ciberataque y mira su posible regreso al ‘club de 5 billones’",
+        "excerpt": "KT presentó resultados débiles tras un ciberataque sin precedentes: ingresos -1% y beneficio operativo -29,9% interanual, aunque el año podría mejorar tras asumir costes puntuales.",
+        "body": "KT presentó unos resultados débiles tras recibir el impacto directo de un ciberataque sin precedentes. Los ingresos cayeron un 1% frente al año anterior y el beneficio operativo disminuyó un 29,9%. La debilidad del negocio de telecomunicaciones pesó sobre las cuentas, aunque el área inmobiliaria habría compensado parte del deterioro. Como los resultados incluyen costes puntuales vinculados al incidente cibernético, algunas perspectivas apuntan a que el desempeño anual podría ser relativamente sólido una vez absorbidos esos gastos. La atención se centra en si KT podrá volver al “club de 5 billones” de las operadoras móviles. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KT recua com custos de ciberataque e mira volta ao ‘clube dos 5 trilhões’",
+        "excerpt": "A KT divulgou resultados fracos após um incidente cibernético sem precedentes, com receita 1% menor e lucro operacional 29,9% inferior, mas o ano pode melhorar após custos pontuais.",
+        "body": "A KT divulgou resultados fracos depois de ser diretamente atingida por um incidente cibernético sem precedentes. A receita caiu 1% em relação ao ano anterior, enquanto o lucro operacional recuou 29,9%. A fraqueza no negócio de telecomunicações pesou sobre o desempenho, mas a área imobiliária teria ajudado a sustentar parte dos resultados. Como os números já incluem custos pontuais ligados ao incidente, há avaliações de que o desempenho anual pode ser relativamente favorável após a absorção desses gastos. O foco do mercado é se a KT poderá mostrar possibilidade de retorno ao “clube dos 5 trilhões” entre as operadoras móveis. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KT-Gewinn bricht ein: Cyberkosten und Rückkehr in den ‘5-Billionen-Club’ im Fokus",
+        "excerpt": "KT meldete nach einem beispiellosen Cybervorfall schwache Zahlen: Umsatz -1% und operativer Gewinn -29,9% zum Vorjahr, doch nach Einmalkosten könnte das Gesamtjahr solider ausfallen.",
+        "body": "KT hat nach dem direkten Treffer durch einen beispiellosen Cybervorfall schwache Geschäftszahlen vorgelegt. Der Umsatz sank im Jahresvergleich um 1%, der operative Gewinn ging um 29,9% zurück. Die Schwäche im Telekomgeschäft belastete die Ergebnisse, während die Immobiliensparte einen Teil der Einbußen abgefedert haben soll. Da die aktuellen Zahlen einmalige Kosten im Zusammenhang mit dem Cybervorfall enthalten, gibt es Einschätzungen, dass die Jahresleistung nach deren Verarbeitung relativ solide bleiben könnte. Im Mittelpunkt steht nun, ob KT eine Rückkehr in den ‘5-Billionen-Club’ der Mobilfunkanbieter schaffen kann. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "KT pénalisé par un cyberincident, le retour au ‘club des 5 billions’ en question",
+        "excerpt": "KT a publié des résultats affaiblis après un cyberincident inédit, avec un chiffre d’affaires en baisse de 1% et un bénéfice opérationnel en recul de 29,9%, malgré l’espoir d’un meilleur annuel.",
+        "body": "KT a publié des résultats décevants après avoir subi l’impact direct d’un cyberincident sans précédent. Le chiffre d’affaires a reculé de 1% sur un an et le bénéfice opérationnel a chuté de 29,9%. La faiblesse des télécommunications a pesé sur la performance, même si l’activité immobilière aurait partiellement soutenu les comptes. Les résultats intégrant des coûts ponctuels liés à l’incident, certains estiment que la performance annuelle pourrait rester relativement correcte une fois ces charges absorbées. L’attention porte désormais sur la capacité de KT à montrer une possibilité de retour dans le “club des 5 billions” des opérateurs mobiles. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تراجع نتائج KT بفعل اختراق سيبراني والأنظار على العودة إلى «نادي 5 تريليونات»",
+        "excerpt": "أعلنت KT نتائج ضعيفة بعد حادث اختراق سيبراني غير مسبوق، إذ انخفضت الإيرادات 1% والربح التشغيلي 29.9% على أساس سنوي، مع توقعات بتحسن سنوي بعد التكاليف غير المتكررة.",
+        "body": "أعلنت KT نتائج ضعيفة بعدما تلقت ضربة مباشرة من حادث اختراق سيبراني غير مسبوق. وتراجعت الإيرادات 1% مقارنة بالعام السابق، بينما انخفض الربح التشغيلي 29.9%. وشكل ضعف قطاع الاتصالات ضغطا على الأداء، لكن قطاع العقارات ساعد في دعم جزء من النتائج وفق ما ورد. وبما أن الأرقام الحالية تشمل تكاليف غير متكررة مرتبطة بالحادث السيبراني، تظهر آراء تفيد بأن الأداء السنوي قد يبقى مقبولا نسبيا بعد استيعاب هذه التكاليف. وينصب اهتمام السوق على ما إذا كانت KT ستظهر إمكانية العودة إلى «نادي 5 تريليونات» بين شركات الاتصالات المتنقلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KT की आय घटी, साइबर लागत के बाद ‘5 ट्रिलियन क्लब’ में वापसी पर नजर",
+        "excerpt": "KT ने अभूतपूर्व साइबर 침해 घटना के असर से कमजोर नतीजे जारी किए; राजस्व 1% और परिचालन लाभ 29.9% घटा, हालांकि एकमुश्त लागत के बाद वार्षिक प्रदर्शन बेहतर रह सकता है।",
+        "body": "KT ने अभूतपूर्व साइबर 침해 घटना की सीधी मार झेलने के बाद कमजोर नतीजे घोषित किए। कंपनी का राजस्व पिछले वर्ष की तुलना में 1% घटा, जबकि परिचालन लाभ 29.9% कम हुआ। दूरसंचार कारोबार की कमजोरी ने प्रदर्शन पर दबाव डाला, लेकिन रियल एस्टेट विभाग ने आंशिक सहारा दिया बताया गया। चूंकि इस बार के नतीजों में साइबर घटना से जुड़ी एकमुश्त लागत शामिल है, इसलिए इन खर्चों के हटने के बाद वार्षिक प्रदर्शन अपेक्षाकृत ठीक रह सकता है, ऐसी राय भी सामने आई है। बाजार की नजर इस पर है कि KT मोबाइल ऑपरेटरों के “5 ट्रिलियन क्लब” में वापसी की संभावना दिखा पाएगी या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kinerja KT Tertekan Biaya Siber, Peluang Kembali ke ‘Klub 5 Triliun’ Disorot",
+        "excerpt": "KT melaporkan kinerja lemah akibat insiden siber yang belum pernah terjadi sebelumnya, dengan pendapatan turun 1% dan laba operasi turun 29,9% secara tahunan, meski prospek tahunan bisa membaik.",
+        "body": "KT melaporkan kinerja yang lemah setelah terdampak langsung oleh insiden siber yang belum pernah terjadi sebelumnya. Pendapatan turun 1% dibanding tahun sebelumnya, sementara laba operasi merosot 29,9%. Pelemahan bisnis telekomunikasi membebani hasil, tetapi sektor properti disebut membantu menopang sebagian kinerja. Karena laporan ini sudah mencerminkan biaya satu kali terkait insiden siber, muncul pandangan bahwa kinerja tahunan dapat tetap relatif baik setelah biaya tersebut diserap. Perhatian pasar kini tertuju pada apakah KT dapat menunjukkan peluang kembali ke “klub 5 triliun” di antara operator seluler. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "c59565ae6b91",
     "slug": "여행숙박권-등-다양한-상품-드려요예다함-가입-고객에-경품-지급-675840",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Petrokimia Korea pulih saat perang Timur Tengah angkat nilai stok nafta",
         "excerpt": "Perang Timur Tengah mendorong harga nafta naik dan memicu revaluasi persediaan perusahaan petrokimia Korea, sehingga Lotte Chemical, LG Chem, dan Hanwha Solutions mencatat perbaikan.",
         "body": "Industri petrokimia Korea yang sebelumnya lesu mencatat pemulihan jangka pendek setelah perang Timur Tengah mendorong harga nafta naik. Kenaikan harga itu memicu revaluasi persediaan yang dimiliki, dan Lotte Chemical membukukan laba operasi 73,5 miliar won. LG Chem dan Hanwha Solutions juga membaik, sementara tingkat operasi NCC di Yeocheon dan Daesan dilaporkan naik. Namun, perbaikan ini dinilai lebih sebagai efek sementara dari biaya dan penilaian persediaan daripada pemulihan penuh industri. Sektor ini juga dinilai perlu memperbaiki struktur melalui restrukturisasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5ca3bcb600b7",
-    "slug": "전쟁-끝나면-이-업종이-뜬다월가-최고-전략가의-전망-한경-premium9-today-487791",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T21:55:03.452Z",
-    "updatedAt": "2026-05-11T21:55:03.452Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051189941",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051189941",
-    "titleFingerprint": "91f9c0a147ec3c9bf49a5226ec2bbbce48ee2a56",
-    "dedupKeys": [
-      "5ca3bcb600b718bdec2335cb7cbcb4bc1f044bd5",
-      "91f9c0a147ec3c9bf49a5226ec2bbbce48ee2a56",
-      "b8973723a492c3111d4f2d75f4dca6b33e64a4f6"
-    ],
-    "imageUrl": "/images/articles/5ca3bcb600b7.png",
-    "i18n": {
-      "ko": {
-        "title": "전쟁 종료 후 주목 업종은? 월가 최고 전략가가 짚은 시장 전망",
-        "excerpt": "한경 PREMIUM9 TODAY는 전쟁이 끝날 경우 특정 업종이 부상할 수 있다는 월가 최고 전략가의 전망을 전하며, 투자자들이 종전 이후 시장 변화를 주시하고 있다고 보도했다.",
-        "body": "전쟁 종료 이후 어떤 업종이 시장의 주목을 받을지가 투자자들의 관심사로 떠올랐다. 한경 PREMIUM9 TODAY는 월가 최고 전략가의 전망을 인용해, 전쟁이 끝나면 특정 업종이 부각될 수 있다는 관점을 전했다. 기사에 제공된 원문 정보는 해당 전략가의 세부 발언이나 업종명, 구체적 수치까지 공개하지 않았다. 다만 제목은 지정학적 긴장이 완화될 경우 시장의 관심이 전쟁 수혜주에서 전후 회복 관련 업종으로 이동할 수 있다는 문제의식을 담고 있다. 투자자들은 종전 가능성과 업종별 재평가 흐름을 함께 살펴볼 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Postwar Market Winners: Wall Street Strategist Flags a Sector to Watch",
-        "excerpt": "Hankyung PREMIUM9 TODAY reported that a top Wall Street strategist sees a sector potentially gaining attention if war ends, drawing investor focus to postwar market rotation.",
-        "body": "Investor attention is turning to which sector could gain momentum after a war ends. Hankyung PREMIUM9 TODAY cited the outlook of a top Wall Street strategist, reporting that a specific industry may come into focus in a postwar environment. The source information provided does not disclose the strategist’s detailed comments, the exact sector name, or numerical forecasts. Still, the headline frames a key market question: if geopolitical tension eases, investor focus may shift from wartime beneficiaries toward sectors linked to postwar recovery. Market participants are likely to watch both the possibility of peace and any related sector revaluation. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "戦争終結後に注目の業種は？ウォール街有力戦略家の市場見通し",
-        "excerpt": "韓経PREMIUM9 TODAYは、戦争が終われば特定業種が浮上する可能性があるとのウォール街有力戦略家の見方を伝え、投資家の関心が集まっていると報じた。",
-        "body": "戦争終結後にどの業種が市場で注目されるのかが、投資家の関心事になっている。韓経PREMIUM9 TODAYは、ウォール街の有力戦略家の見通しを引用し、戦争が終われば特定の業種が浮上する可能性があると伝えた。提供された原文情報では、戦略家の詳しい発言、具体的な業種名、数値予測までは示されていない。ただし見出しは、地政学的緊張が和らぐ場合、市場の関心が戦時の恩恵を受ける銘柄から戦後回復に関連する業種へ移る可能性を示している。投資家は終戦の可能性と業種別の再評価を併せて見る必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "战争结束后哪些行业受关注？华尔街顶级策略师给出展望",
-        "excerpt": "韩经PREMIUM9 TODAY报道称，华尔街顶级策略师认为，一旦战争结束，某一行业可能受到市场关注，投资者正留意战后市场轮动。",
-        "body": "战争结束后哪些行业可能获得市场关注，正成为投资者关心的问题。韩经PREMIUM9 TODAY援引华尔街顶级策略师的展望称，若战争结束，某一行业可能会受到关注。已提供的原文信息并未披露该策略师的具体表述、行业名称或相关数据预测。不过，标题提出了一个核心市场议题：如果地缘政治紧张缓和，资金关注点可能从战争受益板块转向与战后恢复相关的行业。投资者需要同时观察停战或终战的可能性，以及由此引发的行业再估值变化。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Sectores ganadores tras la guerra: la visión de un estratega de Wall Street",
-        "excerpt": "Hankyung PREMIUM9 TODAY informó que un destacado estratega de Wall Street ve posible que un sector gane relevancia si termina la guerra, elevando el interés por la rotación posbélica.",
-        "body": "La atención de los inversores se centra en qué sector podría ganar protagonismo cuando termine una guerra. Hankyung PREMIUM9 TODAY citó la perspectiva de un destacado estratega de Wall Street, según la cual una industria específica podría destacar en un escenario posbélico. La información original proporcionada no revela los comentarios detallados del estratega, el nombre exacto del sector ni previsiones numéricas. Aun así, el titular plantea una cuestión clave para el mercado: si disminuyen las tensiones geopolíticas, el foco podría desplazarse desde los beneficiarios de la guerra hacia sectores vinculados a la recuperación posterior. Los inversores deberán observar tanto la posibilidad de paz como la revaloración sectorial. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Setor em foco após a guerra: estrategista de Wall Street vê oportunidade",
-        "excerpt": "O Hankyung PREMIUM9 TODAY informou que um importante estrategista de Wall Street vê um setor ganhando atenção caso a guerra termine, ampliando o foco na rotação pós-guerra.",
-        "body": "A atenção dos investidores se volta para qual setor pode ganhar força depois do fim de uma guerra. O Hankyung PREMIUM9 TODAY citou a visão de um importante estrategista de Wall Street, segundo a qual uma indústria específica pode se destacar em um ambiente pós-guerra. As informações originais fornecidas não revelam os comentários detalhados do estrategista, o nome exato do setor nem projeções numéricas. Ainda assim, o título aponta uma questão central para o mercado: se as tensões geopolíticas diminuírem, o foco pode migrar dos beneficiários da guerra para setores ligados à recuperação posterior. Investidores devem acompanhar a possibilidade de paz e a reavaliação setorial. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Branche im Fokus nach Kriegsende: Wall-Street-Stratege nennt Ausblick",
-        "excerpt": "Hankyung PREMIUM9 TODAY berichtete, dass ein führender Wall-Street-Stratege bei einem Kriegsende eine bestimmte Branche im Aufwind sieht und Anleger auf eine Marktrotation achten.",
-        "body": "Anleger fragen sich zunehmend, welche Branche nach dem Ende eines Krieges in den Fokus rücken könnte. Hankyung PREMIUM9 TODAY verwies auf den Ausblick eines führenden Wall-Street-Strategen, wonach eine bestimmte Branche in einem Nachkriegsszenario an Bedeutung gewinnen könnte. Die bereitgestellten Originalinformationen nennen weder detaillierte Aussagen des Strategen noch den konkreten Branchennamen oder Zahlenprognosen. Dennoch stellt die Überschrift eine zentrale Marktfrage: Wenn geopolitische Spannungen nachlassen, könnte sich das Interesse von Kriegsprofiteuren auf Branchen verlagern, die mit der Erholung nach dem Krieg verbunden sind. Anleger sollten Friedensaussichten und sektorale Neubewertungen gemeinsam beobachten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Secteur à suivre après la guerre : l’avis d’un stratège de Wall Street",
-        "excerpt": "Hankyung PREMIUM9 TODAY rapporte qu’un grand stratège de Wall Street estime qu’un secteur pourrait attirer l’attention si la guerre prend fin, sur fond de rotation post-conflit.",
-        "body": "Les investisseurs s’interrogent sur le secteur qui pourrait attirer l’attention du marché après la fin d’une guerre. Hankyung PREMIUM9 TODAY cite les perspectives d’un grand stratège de Wall Street, selon lesquelles une industrie précise pourrait se démarquer dans un environnement post-conflit. Les informations originales fournies ne dévoilent pas les propos détaillés du stratège, le nom exact du secteur ni des prévisions chiffrées. Le titre pose toutefois une question centrale pour les marchés: si les tensions géopolitiques s’apaisent, l’attention pourrait se déplacer des bénéficiaires de la guerre vers les secteurs liés à la reprise d’après-guerre. Les investisseurs devront suivre à la fois les perspectives de paix et la réévaluation sectorielle. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "قطاع يبرز بعد نهاية الحرب: رؤية خبير استراتيجي بارز في وول ستريت",
-        "excerpt": "ذكرت Hankyung PREMIUM9 TODAY أن خبيرا استراتيجيا بارزا في وول ستريت يرى أن قطاعا معينا قد يحظى بالاهتمام إذا انتهت الحرب، وسط ترقب لتحول السوق بعد النزاع.",
-        "body": "يتزايد اهتمام المستثمرين بالسؤال عن القطاع الذي قد يبرز في الأسواق بعد انتهاء الحرب. ونقلت Hankyung PREMIUM9 TODAY رؤية خبير استراتيجي بارز في وول ستريت تفيد بأن صناعة محددة قد تصبح محط الأنظار في بيئة ما بعد الحرب. المعلومات الأصلية المتاحة لا تكشف التصريحات التفصيلية للخبير، ولا اسم القطاع بدقة، ولا أي توقعات رقمية. ومع ذلك، يطرح العنوان قضية سوقية مهمة: إذا خفت التوترات الجيوسياسية، فقد ينتقل اهتمام المستثمرين من المستفيدين من الحرب إلى القطاعات المرتبطة بالتعافي بعدها. لذلك يراقب المستثمرون احتمالات انتهاء الحرب وإعادة تقييم القطاعات. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "युद्ध खत्म होने पर कौन सा सेक्टर उभरेगा? वॉल स्ट्रीट रणनीतिकार की राय",
-        "excerpt": "Hankyung PREMIUM9 TODAY ने बताया कि वॉल स्ट्रीट के एक शीर्ष रणनीतिकार के अनुसार युद्ध खत्म होने पर कोई खास सेक्टर ध्यान में आ सकता है, जिससे निवेशक युद्धोत्तर बाजार बदलाव देख रहे हैं।",
-        "body": "युद्ध खत्म होने के बाद कौन सा सेक्टर बाजार का ध्यान खींच सकता है, यह निवेशकों के लिए अहम सवाल बन गया है। Hankyung PREMIUM9 TODAY ने वॉल स्ट्रीट के एक शीर्ष रणनीतिकार के दृष्टिकोण का हवाला देते हुए बताया कि युद्ध समाप्त होने पर एक खास उद्योग उभर सकता है। उपलब्ध मूल जानकारी में रणनीतिकार की विस्तृत टिप्पणी, सेक्टर का नाम या कोई संख्यात्मक अनुमान शामिल नहीं है। फिर भी शीर्षक बाजार की एक प्रमुख चिंता दिखाता है: यदि भू-राजनीतिक तनाव कम होता है, तो निवेशकों का ध्यान युद्ध से लाभ पाने वाले क्षेत्रों से हटकर युद्धोत्तर रिकवरी से जुड़े सेक्टरों की ओर जा सकता है। निवेशकों को शांति की संभावना और सेक्टरों के पुनर्मूल्यांकन दोनों पर नजर रखनी होगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Sektor yang Menonjol Usai Perang: Pandangan Strateg Wall Street",
-        "excerpt": "Hankyung PREMIUM9 TODAY melaporkan bahwa seorang strateg utama Wall Street melihat sektor tertentu berpotensi mendapat perhatian jika perang berakhir, memicu fokus pada rotasi pasar pascaperang.",
-        "body": "Perhatian investor tertuju pada sektor mana yang dapat menguat setelah perang berakhir. Hankyung PREMIUM9 TODAY mengutip pandangan seorang strateg utama Wall Street yang menyebut bahwa industri tertentu dapat menjadi sorotan dalam kondisi pascaperang. Informasi asli yang tersedia tidak memuat komentar rinci sang strateg, nama sektor secara spesifik, atau proyeksi angka. Namun, judul tersebut menyoroti pertanyaan penting bagi pasar: jika ketegangan geopolitik mereda, perhatian dapat bergeser dari penerima manfaat perang menuju sektor yang terkait dengan pemulihan setelah perang. Investor perlu mencermati peluang berakhirnya perang dan potensi revaluasi antar sektor. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "f351257ed875",
-    "slug": "저금리-대출-수단으로-변질된-cb콜옵션-100가-대세-787925",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T21:53:45.760Z",
-    "updatedAt": "2026-05-11T21:53:45.760Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051189901",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051189901",
-    "titleFingerprint": "e1c5d7682448bd476288cb259adcb98248eb864c",
-    "dedupKeys": [
-      "f351257ed8759bad2073a918be2043b39e9355fc",
-      "e1c5d7682448bd476288cb259adcb98248eb864c",
-      "80fa34a976af9593e1b3eaa200bd567a357a9641"
-    ],
-    "imageUrl": "/images/articles/f351257ed875.jpg",
-    "i18n": {
-      "ko": {
-        "title": "CB 저금리 대출화 논란, '콜옵션 100%' 조건이 시장 대세로 부상",
-        "excerpt": "한국경제는 전환사채(CB)가 본래 투자상품 성격보다 발행사의 저금리 대출 수단처럼 활용되고 있으며, '콜옵션 100%' 조건이 확산되는 흐름을 보도했다.",
-        "body": "한국경제 보도에 따르면 전환사채(CB) 시장에서 발행사가 낮은 비용으로 자금을 조달하는 방식이 두드러지고 있다. CB는 주식 전환권이 붙은 채권이지만, 최근에는 투자자 수익보다 발행사의 자금 확보에 유리한 구조가 부각되고 있다. 특히 발행사가 CB를 되살 수 있는 권리인 콜옵션을 100%까지 붙이는 조건이 대세로 거론됐다. 이는 CB가 저금리 대출 수단처럼 변질됐다는 논란과 맞물린다. 시장에서는 이런 조건이 투자자와 발행사 간 이해관계에 영향을 줄 수 있다는 점이 주목된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "CB Low-Rate Loan Debate Grows as 100% Call Options Become Common",
-        "excerpt": "Hankyung reported that convertible bonds are increasingly being used like low-interest financing tools for issuers, with 100% call-option terms gaining traction in the market.",
-        "body": "According to Hankyung, the convertible bond market is showing a stronger pattern in which issuers raise funds at low cost. A CB is a bond with the right to convert into shares, but recent structures highlight conditions that favor issuers' financing needs more than investor returns. In particular, terms allowing issuers to attach a 100% call option, or the right to buy back the CB, have been cited as becoming mainstream. This is tied to criticism that CBs are being distorted into low-interest loan tools. The market is watching how such terms may affect the balance of interests between investors and issuers. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "CBの低金利融資化に議論、'コールオプション100%'が主流に",
-        "excerpt": "韓国経済新聞は、転換社債（CB）が本来の投資商品という性格よりも発行体の低金利資金調達手段として使われ、100%のコールオプション条件が広がる流れを報じた。",
-        "body": "韓国経済新聞によると、転換社債（CB）市場では発行体が低いコストで資金を調達する動きが目立っている。CBは株式への転換権が付いた債券だが、最近は投資家の収益よりも発行体の資金確保に有利な構造が浮き彫りになっている。特に、発行体がCBを買い戻せる権利であるコールオプションを100%まで付ける条件が主流として取り上げられた。これはCBが低金利融資手段のように変質しているとの議論と結び付いている。市場では、こうした条件が投資家と発行体の利害関係に与える影響が注目される。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "CB低息贷款化引争议，'100%看涨期权'条件成市场主流",
-        "excerpt": "韩国经济新闻报道称，可转换债券（CB）正更多被发行方用作低息融资工具，而非单纯投资产品，附带100%看涨期权的条款正在扩散。",
-        "body": "据韩国经济新闻报道，可转换债券（CB）市场中，发行方以较低成本筹集资金的做法日益突出。CB是附有股票转换权的债券，但近期结构更强调有利于发行方融资需求的条件，而非投资者收益。尤其是发行方可回购CB的权利，即看涨期权，被设定至100%的条款被提及为市场主流。这与CB被指变质为低息贷款工具的争议相联系。市场正在关注此类条件可能如何影响投资者与发行方之间的利益关系。来源: hankyung.com"
-      },
-      "es": {
-        "title": "CB como préstamos baratos: la opción de compra del 100% gana terreno",
-        "excerpt": "Hankyung informó que los bonos convertibles se usan cada vez más como financiación barata para emisores, mientras las condiciones con opción de compra del 100% se extienden en el mercado.",
-        "body": "Según Hankyung, el mercado de bonos convertibles (CB) muestra una tendencia más marcada en la que los emisores obtienen fondos a bajo costo. Un CB es un bono con derecho de conversión en acciones, pero las estructuras recientes resaltan condiciones más favorables para la financiación del emisor que para la rentabilidad del inversor. En particular, se señaló como dominante la inclusión de una opción de compra del 100%, que permite al emisor recomprar el CB. Esto se vincula con la crítica de que los CB se están transformando en herramientas de préstamo a bajo interés. El mercado observa cómo estos términos pueden afectar el equilibrio de intereses entre inversores y emisores. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "CB vira financiamento barato: opção de recompra de 100% ganha força",
-        "excerpt": "O Hankyung informou que debêntures conversíveis vêm sendo usadas como instrumento de financiamento barato por emissores, com cláusulas de opção de recompra de 100% ganhando espaço.",
-        "body": "Segundo o Hankyung, o mercado de debêntures conversíveis (CB) mostra uma tendência em que emissores captam recursos a baixo custo. Um CB é um título com direito de conversão em ações, mas estruturas recentes destacam condições mais favoráveis às necessidades de financiamento do emissor do que ao retorno do investidor. Em especial, foi citada como dominante a cláusula que permite ao emissor recomprar o CB por meio de uma opção de compra de até 100%. Isso se relaciona à crítica de que os CBs estão se transformando em instrumentos semelhantes a empréstimos de baixo juro. O mercado acompanha o impacto desses termos sobre investidores e emissores. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "CB als Billigkredit im Fokus: 100%-Call-Option wird zum Markttrend",
-        "excerpt": "Hankyung berichtete, dass Wandelanleihen zunehmend wie günstige Finanzierungsinstrumente für Emittenten genutzt werden, während 100%-Call-Optionen im Markt an Bedeutung gewinnen.",
-        "body": "Laut Hankyung zeigt der Markt für Wandelanleihen (CB) stärker, dass Emittenten Kapital zu niedrigen Kosten aufnehmen. Eine CB ist eine Anleihe mit dem Recht zur Umwandlung in Aktien, doch jüngste Strukturen stellen Bedingungen heraus, die eher den Finanzierungsbedarf der Emittenten als die Rendite der Investoren begünstigen. Besonders Bedingungen, bei denen Emittenten eine Call-Option von bis zu 100% erhalten, also das Recht zum Rückkauf der CB, wurden als marktprägend genannt. Dies steht im Zusammenhang mit der Kritik, CBs würden zu Instrumenten für Niedrigzinskredite verzerrt. Der Markt beobachtet, wie solche Bedingungen die Interessen von Investoren und Emittenten beeinflussen können. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les CB assimilées à des prêts bon marché, l'option d'achat à 100% s'impose",
-        "excerpt": "Hankyung rapporte que les obligations convertibles sont de plus en plus utilisées comme outils de financement à bas coût par les émetteurs, avec des options d'achat à 100% qui se répandent.",
-        "body": "Selon Hankyung, le marché des obligations convertibles (CB) montre une tendance où les émetteurs lèvent des fonds à faible coût. Une CB est une obligation assortie d'un droit de conversion en actions, mais les structures récentes mettent davantage en avant des conditions favorables au financement des émetteurs qu'au rendement des investisseurs. En particulier, les clauses permettant à l'émetteur de racheter la CB via une option d'achat portée à 100% sont citées comme devenant dominantes. Cela rejoint la critique selon laquelle les CB se transforment en outils proches de prêts à faible taux. Le marché observe l'effet de ces conditions sur l'équilibre entre investisseurs et émetteurs. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سندات CB كقروض منخفضة الفائدة: خيار الشراء 100% يصبح اتجاها",
-        "excerpt": "ذكرت هانكيونغ أن السندات القابلة للتحويل باتت تستخدم أكثر كأداة تمويل منخفضة الكلفة للمصدرين، مع انتشار شروط خيار الشراء بنسبة 100% في السوق.",
-        "body": "وفقا لهانكيونغ، يشهد سوق السندات القابلة للتحويل CB نمطا أوضح يتيح للمصدرين جمع الأموال بتكلفة منخفضة. والسند القابل للتحويل هو دين يمنح حق التحويل إلى أسهم، لكن الهياكل الأخيرة تبرز شروطا تخدم احتياجات تمويل المصدرين أكثر من عوائد المستثمرين. وعلى وجه الخصوص، جرى طرح شرط يمنح المصدر حق إعادة شراء السند عبر خيار شراء بنسبة تصل إلى 100% باعتباره اتجاها سائدا. ويرتبط ذلك بالانتقاد القائل إن هذه السندات تتحول إلى أدوات شبيهة بالقروض منخفضة الفائدة. ويراقب السوق أثر هذه الشروط في توازن المصالح بين المستثمرين والمصدرين. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "CB के सस्ते कर्ज बनने पर बहस, 100% कॉल ऑप्शन शर्त प्रमुख रुझान",
-        "excerpt": "हैंक्युंग ने बताया कि कन्वर्टिबल बॉन्ड जारीकर्ताओं के लिए कम ब्याज वाले वित्तपोषण साधन की तरह अधिक इस्तेमाल हो रहे हैं और 100% कॉल ऑप्शन वाली शर्तें फैल रही हैं।",
-        "body": "हैंक्युंग के अनुसार, कन्वर्टिबल बॉन्ड (CB) बाजार में जारीकर्ताओं के कम लागत पर धन जुटाने का रुझान अधिक स्पष्ट हो रहा है। CB ऐसा बॉन्ड है जिसमें शेयरों में बदलने का अधिकार होता है, लेकिन हाल की संरचनाएं निवेशक रिटर्न से अधिक जारीकर्ता की फंडिंग जरूरतों के पक्ष में दिखती हैं। खास तौर पर, जारीकर्ता को CB वापस खरीदने का अधिकार देने वाला कॉल ऑप्शन 100% तक जोड़ने की शर्त बाजार में प्रमुख बताई गई। यह इस आलोचना से जुड़ता है कि CB कम ब्याज वाले कर्ज साधन की तरह बदल रहे हैं। बाजार देख रहा है कि ऐसी शर्तें निवेशकों और जारीकर्ताओं के हितों के संतुलन को कैसे प्रभावित कर सकती हैं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "CB Jadi Alat Pinjaman Murah, Opsi Beli 100% Menguat di Pasar",
-        "excerpt": "Hankyung melaporkan bahwa obligasi konversi makin digunakan seperti alat pendanaan berbunga rendah bagi penerbit, sementara ketentuan opsi beli 100% semakin meluas di pasar.",
-        "body": "Menurut Hankyung, pasar obligasi konversi (CB) menunjukkan pola yang lebih kuat ketika penerbit menghimpun dana dengan biaya rendah. CB adalah obligasi yang memiliki hak konversi menjadi saham, tetapi struktur terbaru menonjolkan syarat yang lebih menguntungkan kebutuhan pendanaan penerbit daripada imbal hasil investor. Secara khusus, ketentuan yang memberi penerbit hak membeli kembali CB melalui opsi beli hingga 100% disebut menjadi arus utama. Hal ini terkait kritik bahwa CB berubah menjadi alat pinjaman berbunga rendah. Pasar mencermati bagaimana syarat seperti ini dapat memengaruhi keseimbangan kepentingan antara investor dan penerbit. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "fbdeb6b889f6",
-    "slug": "포모-못-견뎠나개미들-급등장에도-추격매수-475287",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T21:52:34.897Z",
-    "updatedAt": "2026-05-11T21:52:34.897Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051190131",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051190131",
-    "titleFingerprint": "71fce16eb0a57b4068cc5079cf00c2295dec42dc",
-    "dedupKeys": [
-      "fbdeb6b889f6a54d28a24fa011618a716ab4f38d",
-      "71fce16eb0a57b4068cc5079cf00c2295dec42dc",
-      "f43a589e8fdc7e2a1b81610b0c772a7bfc13d29d"
-    ],
-    "imageUrl": "/images/articles/fbdeb6b889f6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "개미 추격매수 확산, 급등장에서도 포모에 흔들린 투자심리",
-        "excerpt": "한국경제는 급등장에서도 개인 투자자들이 상승 흐름을 놓칠 수 있다는 불안감, 이른바 포모를 견디지 못하고 추격매수에 나섰다고 보도했다.",
-        "body": "한국경제는 최근 급등장에서 개인 투자자들이 이미 오른 가격에도 매수에 나서는 흐름을 보였다고 전했다. 보도 제목은 ‘포모’를 견디지 못한 개미들이 상승장에서도 추격매수에 나섰다는 점을 부각했다. 여기서 포모는 기회를 놓칠 수 있다는 불안 심리를 뜻하며, 시장이 빠르게 오를 때 투자자들의 매수 판단에 영향을 줄 수 있는 요인으로 언급됐다. 이번 보도는 개인 투자자들의 투자심리가 가격 상승 국면에서 어떻게 움직였는지를 보여주는 사례로 읽힌다. 다만 원문에 구체적인 종목, 기간, 금액, 지수 수치는 제시되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Retail Investors Chase Rally as FOMO Shapes Buying in Surging Market",
-        "excerpt": "Hankyung reported that retail investors kept buying into a sharply rising market, unable to resist FOMO, or the fear of missing further gains.",
-        "body": "Hankyung reported that retail investors entered chase-buying even after prices had already risen sharply. The original headline highlighted that individual investors, often called “ants” in Korea, appeared unable to withstand FOMO during a strong rally. FOMO refers to the fear of missing out and was presented as a factor influencing buying decisions when markets move quickly higher. The report can be read as an example of how retail sentiment reacts in a rising market. The source text did not provide specific stocks, dates, amounts, or index figures. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "個人投資家が追随買い、急騰相場でもFOMOが投資心理を刺激",
-        "excerpt": "韓国経済は、急騰相場の中で個人投資家が上昇を逃す不安、いわゆるFOMOに耐えられず追随買いに動いたと報じた。",
-        "body": "韓国経済は、最近の急騰相場で個人投資家がすでに上昇した価格にもかかわらず買いに動く流れを見せたと伝えた。元の見出しは、FOMOに耐えられなかった個人投資家が上昇局面でも追随買いに出た点を強調している。FOMOとは機会を逃すことへの不安心理を指し、市場が急速に上昇する局面で投資判断に影響し得る要因として示された。今回の報道は、価格上昇時に個人投資家の心理がどう動くかを示す事例といえる。ただし原文には具体的な銘柄、期間、金額、指数の数値は示されていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "散户追涨买入升温，急涨行情中FOMO左右投资情绪",
-        "excerpt": "韩国经济报道称，在市场急涨时，散户投资者因担心错过上涨机会，即所谓FOMO，仍选择追涨买入。",
-        "body": "韩国经济报道称，近期急涨行情中，散户投资者即使面对已经上涨的价格，仍出现买入行为。原文标题强调，散户未能承受所谓FOMO，在上涨市场中继续追涨。FOMO指担心错过机会的心理，在市场快速上行时可能影响投资者的买入判断。该报道可被视为观察价格上涨阶段散户投资情绪变化的案例。不过，原文未提供具体股票、时间区间、金额或指数数据。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Minoristas compran tras la subida mientras el FOMO pesa en el mercado",
-        "excerpt": "Hankyung informó que los inversores minoristas siguieron comprando en un mercado en fuerte alza, impulsados por el temor a perderse más ganancias.",
-        "body": "Hankyung informó que los inversores minoristas compraron incluso después de que los precios ya hubieran subido con fuerza. El titular original destacó que los pequeños inversores no habrían resistido el FOMO y recurrieron a compras de persecución durante el repunte. FOMO alude al temor a quedarse fuera de una oportunidad y fue presentado como un factor que puede influir en las decisiones de compra cuando el mercado avanza rápidamente. La nota muestra cómo puede moverse el ánimo minorista en una fase de alzas. El texto original no incluyó acciones, fechas, importes ni cifras de índices concretas. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Varejo persegue alta enquanto FOMO influencia compras no mercado",
-        "excerpt": "O Hankyung informou que investidores pessoa física seguiram comprando em um mercado em forte alta, movidos pelo medo de perder novos ganhos.",
-        "body": "O Hankyung informou que investidores pessoa física realizaram compras de perseguição mesmo depois de os preços já terem subido com força. O título original destacou que os pequenos investidores não teriam resistido ao FOMO durante a alta. FOMO significa medo de ficar de fora de uma oportunidade e foi apresentado como um fator capaz de influenciar decisões de compra quando o mercado sobe rapidamente. A reportagem pode ser lida como um exemplo de como o sentimento do investidor de varejo reage em uma fase de valorização. O texto original não trouxe ações, datas, valores ou números de índices específicos. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Privatanleger kaufen Rally hinterher, FOMO prägt Marktstimmung",
-        "excerpt": "Hankyung berichtete, dass Privatanleger trotz stark gestiegener Kurse weiter kauften, offenbar getrieben von FOMO, der Angst, Gewinne zu verpassen.",
-        "body": "Hankyung berichtete, dass Privatanleger selbst nach bereits kräftigen Kursanstiegen weiter kauften. Die ursprüngliche Überschrift hob hervor, dass Kleinanleger dem FOMO in einer starken Aufwärtsbewegung offenbar nicht standhielten und dem Markt hinterherkauften. FOMO bezeichnet die Angst, eine Chance zu verpassen, und wurde als möglicher Faktor für Kaufentscheidungen in schnell steigenden Märkten dargestellt. Der Bericht zeigt, wie sich die Stimmung von Privatanlegern in einer Aufwärtsphase bewegen kann. Konkrete Aktien, Zeiträume, Beträge oder Indexstände wurden im Ausgangstext nicht genannt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les particuliers achètent la hausse, le FOMO pèse sur le marché",
-        "excerpt": "Hankyung rapporte que des investisseurs particuliers ont continué d’acheter dans un marché en forte hausse, portés par la peur de manquer la progression.",
-        "body": "Hankyung rapporte que des investisseurs particuliers ont acheté même après une forte progression des prix. Le titre original souligne que ces investisseurs n’auraient pas résisté au FOMO et se seraient lancés dans des achats de poursuite pendant la hausse. Le FOMO désigne la peur de manquer une opportunité et a été présenté comme un facteur pouvant influencer les décisions d’achat lorsque le marché monte rapidement. L’article illustre ainsi la réaction possible du sentiment des particuliers dans une phase de progression des prix. Le texte source ne mentionne pas d’actions, de dates, de montants ou de niveaux d’indices précis. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "المستثمرون الأفراد يطاردون الصعود مع تأثير فومو في قرارات الشراء",
-        "excerpt": "ذكرت هانكيونغ أن المستثمرين الأفراد واصلوا الشراء في سوق صاعدة بقوة، مدفوعين بالخوف من تفويت مزيد من المكاسب، أو ما يعرف بفومو.",
-        "body": "ذكرت هانكيونغ أن المستثمرين الأفراد اتجهوا إلى الشراء حتى بعد ارتفاع الأسعار بقوة. وأبرز العنوان الأصلي أن هؤلاء المستثمرين، المعروفين في كوريا باسم صغار المستثمرين، لم يتحملوا على ما يبدو شعور فومو خلال موجة الصعود. ويشير فومو إلى الخوف من تفويت فرصة، وقد عُرض كعامل يمكن أن يؤثر في قرارات الشراء عندما تتحرك الأسواق صعودا بسرعة. ويُقرأ التقرير كحالة توضح كيفية تحرك معنويات المستثمرين الأفراد في مرحلة ارتفاع الأسعار. ولم يذكر النص الأصلي أسهما أو تواريخ أو مبالغ أو أرقاما محددة للمؤشرات. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "तेज बाजार में रिटेल निवेशकों की पीछा करती खरीदारी, FOMO हावी",
-        "excerpt": "हैंक्युंग ने बताया कि तेज उछाल वाले बाजार में रिटेल निवेशक बढ़त छूट जाने के डर, यानी FOMO, से प्रभावित होकर खरीदारी करते रहे।",
-        "body": "हैंक्युंग ने बताया कि हालिया तेज बाजार में रिटेल निवेशकों ने कीमतें पहले ही बढ़ जाने के बाद भी खरीदारी की। मूल शीर्षक में यह बात उभारी गई कि छोटे निवेशक FOMO को सहन नहीं कर सके और तेजी के बीच पीछा करती खरीदारी में उतर गए। FOMO का अर्थ अवसर छूट जाने का डर है, जिसे तेज चढ़ते बाजार में खरीद निर्णयों को प्रभावित करने वाले कारक के रूप में पेश किया गया। यह रिपोर्ट दिखाती है कि कीमतों में तेजी के दौर में रिटेल निवेशकों की भावना कैसे बदल सकती है। मूल पाठ में किसी खास शेयर, अवधि, राशि या सूचकांक के आंकड़े नहीं दिए गए। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Investor Ritel Kejar Kenaikan, FOMO Dorong Aksi Beli di Pasar",
-        "excerpt": "Hankyung melaporkan bahwa investor ritel tetap membeli di tengah pasar yang melonjak, terdorong rasa takut kehilangan peluang kenaikan atau FOMO.",
-        "body": "Hankyung melaporkan bahwa investor ritel melakukan pembelian meski harga sudah naik tajam. Judul asli menyoroti bahwa investor kecil tampaknya tidak mampu menahan FOMO dan ikut melakukan pembelian mengejar kenaikan di tengah reli. FOMO berarti rasa takut kehilangan peluang, dan disebut sebagai faktor yang dapat memengaruhi keputusan beli ketika pasar bergerak naik cepat. Laporan ini dapat dibaca sebagai contoh bagaimana sentimen investor ritel bergerak dalam fase kenaikan harga. Teks sumber tidak menyebut saham, periode, nilai, atau angka indeks tertentu. Sumber: hankyung.com"
       }
     }
   }
