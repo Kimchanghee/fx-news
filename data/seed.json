@@ -1,5 +1,230 @@
 [
   {
+    "id": "2bdc5309cd99",
+    "slug": "삼전닉스-말고-여기로-몰렸다아침부터-16-이상-급등-307588",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T01:18:52.423Z",
+    "updatedAt": "2026-05-12T01:18:52.423Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051200726",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051200726",
+    "titleFingerprint": "2896cb74224be8a13941763a931abd06990bca36",
+    "dedupKeys": [
+      "2bdc5309cd99af8b57a9acb140212e3e5d3c6e58",
+      "2896cb74224be8a13941763a931abd06990bca36",
+      "2d37c835455fbc3776590a0e20e79d80e5c3fda3"
+    ],
+    "imageUrl": "/images/articles/2bdc5309cd99.jpg",
+    "i18n": {
+      "ko": {
+        "title": "고액자산가 반도체 ETF로 매수 집중, 삼성전자·SK하이닉스 급등 속 수급 확산",
+        "excerpt": "5월 6일 미래에셋증권에 따르면 순자산 10억원 이상 고액투자자들이 삼성전자·SK하이닉스와 반도체·AI 전력 ETF를 최근 한 주 집중 순매수했다.",
+        "body": "5월 6일 미래에셋증권 집계에 따르면 순자산 10억원 이상 고액투자자들은 최근 한 주 삼성전자를 가장 많이 순매수했고, 2위는 SK하이닉스였다. 두 종목은 최근 5거래일 동안 각각 16%, 20% 상승했다. 순매수 3위는 TIGER 반도체TOP10 ETF로, 삼성전자 23.26%, SK하이닉스 29.60%를 담고 한미반도체와 리노공업 등도 포함한다. 구글·아마존·마이크로소프트·메타의 1분기 AI 인프라 지출은 1306억5000만달러로 전년 대비 71% 늘었다. 4위는 KODEX AI전력핵심설비로 집계돼 AI 데이터센터와 전력기기 관련 수급도 확인됐다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Wealthy Investors Buy Semiconductor ETFs as Samsung and SK Hynix Surge",
+        "excerpt": "According to Mirae Asset Securities on May 6, investors with net assets over 1 billion won heavily bought Samsung Electronics, SK Hynix and semiconductor and AI power ETFs over the past week.",
+        "body": "According to Mirae Asset Securities data released on May 6, high-net-worth investors with net assets of at least 1 billion won bought Samsung Electronics the most over the past week, followed by SK Hynix. The two stocks rose 16% and 20%, respectively, over the latest five trading days. The third-largest net purchase was TIGER Semiconductor TOP10 ETF, which holds Samsung Electronics at 23.26% and SK Hynix at 29.60%, along with Hanmi Semiconductor and Leeno Industrial. First-quarter AI infrastructure spending by Google, Amazon, Microsoft and Meta totaled $130.65 billion, up 71% year on year. KODEX AI Power Core Equipment ranked fourth, showing demand for AI data center and power-equipment names. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "富裕層が半導体ETFを買い越し、サムスン電子とSKハイニックス急騰で資金拡散",
+        "excerpt": "未来アセット証券が5月6日に明らかにしたところによると、純資産10億ウォン以上の投資家はこの1週間、サムスン電子、SKハイニックス、半導体・AI電力ETFを集中的に買い越した。",
+        "body": "未来アセット証券が5月6日に集計したデータによると、純資産10億ウォン以上の富裕層投資家は直近1週間でサムスン電子を最も多く買い越し、2位はSKハイニックスだった。両銘柄は直近5営業日でそれぞれ16%、20%上昇した。買い越し3位はTIGER半導体TOP10 ETFで、サムスン電子23.26%、SKハイニックス29.60%を組み入れ、ハンミ半導体やリノ工業なども含む。グーグル、アマゾン、マイクロソフト、メタの1-3月期AIインフラ投資は1306億5000万ドルで前年同期比71%増加した。4位はKODEX AI電力核心設備で、AIデータセンターと電力機器関連への資金流入も確認された。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "高净值资金涌入半导体ETF，三星电子与SK海力士大涨带动买盘扩散",
+        "excerpt": "未来资产证券5月6日数据显示，净资产10亿韩元以上投资者过去一周集中净买入三星电子、SK海力士以及半导体和AI电力ETF。",
+        "body": "根据未来资产证券5月6日统计，净资产10亿韩元以上的高净值投资者过去一周净买入最多的是三星电子，第二位为SK海力士。两只股票最近5个交易日分别上涨16%和20%。净买入第三位是TIGER半导体TOP10 ETF，其中三星电子占23.26%，SK海力士占29.60%，并包含韩美半导体、Leeno Industrial等相关个股。谷歌、亚马逊、微软和Meta第一季度AI基础设施支出合计1306.5亿美元，同比增长71%。第四位为KODEX AI电力核心设备，显示AI数据中心和电力设备相关标的也获得资金关注。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Grandes patrimonios compran ETF de semiconductores tras el salto de Samsung y SK Hynix",
+        "excerpt": "Según Mirae Asset Securities el 6 de mayo, inversores con activos netos superiores a 1.000 millones de wones compraron Samsung Electronics, SK Hynix y ETF de semiconductores y energía para IA en la última semana.",
+        "body": "Según datos de Mirae Asset Securities publicados el 6 de mayo, los inversores con activos netos de al menos 1.000 millones de wones compraron principalmente Samsung Electronics durante la última semana, seguida por SK Hynix. Ambas acciones subieron 16% y 20%, respectivamente, en las últimas cinco sesiones. La tercera mayor compra neta fue el ETF TIGER Semiconductor TOP10, con pesos de 23,26% en Samsung Electronics y 29,60% en SK Hynix, además de Hanmi Semiconductor y Leeno Industrial. Google, Amazon, Microsoft y Meta gastaron 130.650 millones de dólares en infraestructura de IA en el primer trimestre, 71% más interanual. KODEX AI Power Core Equipment ocupó el cuarto lugar, mostrando demanda por centros de datos de IA y equipos eléctricos. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Grandes fortunas compram ETF de semicondutores com alta de Samsung e SK Hynix",
+        "excerpt": "Segundo a Mirae Asset Securities em 6 de maio, investidores com patrimônio líquido acima de 1 bilhão de won compraram Samsung Electronics, SK Hynix e ETFs de semicondutores e energia para IA na última semana.",
+        "body": "De acordo com dados da Mirae Asset Securities divulgados em 6 de maio, investidores de alto patrimônio, com ativos líquidos de pelo menos 1 bilhão de won, mais compraram Samsung Electronics na última semana; SK Hynix ficou em segundo lugar. As duas ações subiram 16% e 20%, respectivamente, nos últimos cinco pregões. A terceira maior compra líquida foi o ETF TIGER Semiconductor TOP10, com Samsung Electronics em 23,26% e SK Hynix em 29,60%, além de Hanmi Semiconductor e Leeno Industrial. Google, Amazon, Microsoft e Meta gastaram US$ 130,65 bilhões em infraestrutura de IA no primeiro trimestre, alta anual de 71%. O KODEX AI Power Core Equipment ficou em quarto, indicando demanda por data centers de IA e equipamentos elétricos. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Vermögende Anleger kaufen Halbleiter-ETFs nach Kursrally bei Samsung und SK Hynix",
+        "excerpt": "Laut Mirae Asset Securities vom 6. Mai kauften Anleger mit Nettovermögen über 1 Mrd. Won in der vergangenen Woche vor allem Samsung Electronics, SK Hynix sowie Halbleiter- und KI-Strom-ETFs.",
+        "body": "Nach Daten von Mirae Asset Securities vom 6. Mai kauften vermögende Anleger mit einem Nettovermögen von mindestens 1 Mrd. Won in der vergangenen Woche am stärksten Samsung Electronics; auf Platz zwei lag SK Hynix. Die beiden Aktien stiegen in den jüngsten fünf Handelstagen um 16% beziehungsweise 20%. Drittgrößter Nettokauf war der TIGER Semiconductor TOP10 ETF, der Samsung Electronics mit 23,26% und SK Hynix mit 29,60% gewichtet und auch Hanmi Semiconductor sowie Leeno Industrial enthält. Google, Amazon, Microsoft und Meta gaben im ersten Quartal 130,65 Mrd. Dollar für KI-Infrastruktur aus, 71% mehr als ein Jahr zuvor. KODEX AI Power Core Equipment lag auf Platz vier und zeigt Nachfrage nach KI-Rechenzentren und Stromausrüstung. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les grandes fortunes achètent des ETF semi-conducteurs après la hausse de Samsung et SK Hynix",
+        "excerpt": "Selon Mirae Asset Securities le 6 mai, les investisseurs détenant plus d’un milliard de wons d’actifs nets ont acheté Samsung Electronics, SK Hynix et des ETF semi-conducteurs et énergie IA sur une semaine.",
+        "body": "D’après les données de Mirae Asset Securities publiées le 6 mai, les investisseurs fortunés disposant d’au moins 1 milliard de wons d’actifs nets ont surtout acheté Samsung Electronics au cours de la semaine écoulée, devant SK Hynix. Les deux actions ont progressé de 16% et 20% sur les cinq dernières séances. Le troisième achat net a été l’ETF TIGER Semiconductor TOP10, composé de Samsung Electronics à 23,26% et de SK Hynix à 29,60%, avec aussi Hanmi Semiconductor et Leeno Industrial. Google, Amazon, Microsoft et Meta ont dépensé 130,65 milliards de dollars en infrastructures d’IA au premier trimestre, soit 71% de plus sur un an. KODEX AI Power Core Equipment arrive quatrième, signalant une demande liée aux centres de données IA et aux équipements électriques. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "الأثرياء يشترون صناديق أشباه الموصلات مع صعود سامسونغ وSK هاينكس",
+        "excerpt": "بحسب ميراى أسيت سيكيوريتيز في 6 مايو، كثف المستثمرون الذين تتجاوز أصولهم الصافية مليار وون شراء سامسونغ إلكترونيكس وSK هاينكس وصناديق أشباه الموصلات وطاقة الذكاء الاصطناعي خلال أسبوع.",
+        "body": "أظهرت بيانات ميراى أسيت سيكيوريتيز في 6 مايو أن المستثمرين ذوي الملاءة العالية، ممن تبلغ أصولهم الصافية مليار وون على الأقل، اشتروا سامسونغ إلكترونيكس بأكبر صافي شراء خلال الأسبوع الأخير، وجاءت SK هاينكس في المركز الثاني. وارتفع السهمان خلال آخر خمسة أيام تداول 16% و20% على التوالي. وجاء صندوق TIGER Semiconductor TOP10 في المركز الثالث، إذ يضم سامسونغ إلكترونيكس بنسبة 23.26% وSK هاينكس بنسبة 29.60%، إضافة إلى Hanmi Semiconductor وLeeno Industrial. وبلغ إنفاق غوغل وأمازون ومايكروسوفت وميتا على بنية الذكاء الاصطناعي في الربع الأول 130.65 مليار دولار، بزيادة سنوية 71%. وجاء KODEX AI Power Core Equipment رابعاً، ما يظهر طلباً على مراكز بيانات الذكاء الاصطناعي ومعدات الطاقة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सैमसंग और SK Hynix की तेजी के बीच अमीर निवेशकों ने सेमीकंडक्टर ETF खरीदे",
+        "excerpt": "Mirae Asset Securities के 6 मई के आंकड़ों के अनुसार, 1 अरब वॉन से अधिक नेट एसेट वाले निवेशकों ने पिछले सप्ताह Samsung Electronics, SK Hynix और सेमीकंडक्टर व AI पावर ETF में भारी नेट खरीदारी की।",
+        "body": "Mirae Asset Securities के 6 मई के आंकड़ों के अनुसार, कम से कम 1 अरब वॉन की नेट एसेट वाले उच्च संपत्ति निवेशकों ने पिछले सप्ताह सबसे अधिक Samsung Electronics खरीदा, जबकि SK Hynix दूसरे स्थान पर रहा। पिछले पांच कारोबारी दिनों में दोनों शेयर क्रमशः 16% और 20% चढ़े। तीसरी सबसे बड़ी नेट खरीद TIGER Semiconductor TOP10 ETF रही, जिसमें Samsung Electronics की हिस्सेदारी 23.26% और SK Hynix की 29.60% है, साथ ही Hanmi Semiconductor और Leeno Industrial भी शामिल हैं। Google, Amazon, Microsoft और Meta ने पहली तिमाही में AI इंफ्रास्ट्रक्चर पर 130.65 अरब डॉलर खर्च किए, जो सालाना आधार पर 71% अधिक है। KODEX AI Power Core Equipment चौथे स्थान पर रहा, जिससे AI डेटा सेंटर और बिजली उपकरणों से जुड़े शेयरों में मांग दिखी। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Investor Kaya Borong ETF Semikonduktor Saat Samsung dan SK Hynix Melonjak",
+        "excerpt": "Menurut Mirae Asset Securities pada 6 Mei, investor dengan aset bersih di atas 1 miliar won banyak membeli Samsung Electronics, SK Hynix, serta ETF semikonduktor dan listrik AI selama sepekan terakhir.",
+        "body": "Menurut data Mirae Asset Securities pada 6 Mei, investor bernilai tinggi dengan aset bersih minimal 1 miliar won paling banyak membeli Samsung Electronics selama sepekan terakhir, disusul SK Hynix. Kedua saham itu naik masing-masing 16% dan 20% dalam lima hari perdagangan terakhir. Pembelian bersih terbesar ketiga adalah ETF TIGER Semiconductor TOP10, yang memegang Samsung Electronics 23,26% dan SK Hynix 29,60%, serta mencakup Hanmi Semiconductor dan Leeno Industrial. Google, Amazon, Microsoft, dan Meta membelanjakan US$130,65 miliar untuk infrastruktur AI pada kuartal I, naik 71% secara tahunan. KODEX AI Power Core Equipment berada di urutan keempat, menunjukkan permintaan pada pusat data AI dan peralatan listrik. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "b9db6dbc46b6",
+    "slug": "30만전자200만닉스-목전삼전닉스-꽉-채워-담은-etf는-800346",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T01:17:40.177Z",
+    "updatedAt": "2026-05-12T01:17:40.177Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605129952i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605129952i",
+    "titleFingerprint": "7750b1c30901bb4dec6bf5313a8da59d0ff023f3",
+    "dedupKeys": [
+      "b9db6dbc46b6f7cad8f95ef1d69dd27e0dba3cdc",
+      "7750b1c30901bb4dec6bf5313a8da59d0ff023f3",
+      "100dbaf441b0708727cb66c058b79624dcce6832"
+    ],
+    "imageUrl": "/images/articles/b9db6dbc46b6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "'30만전자·200만닉스' 목전, 삼성전자·SK하이닉스 ETF 주목",
+        "excerpt": "hankyung.com은 삼성전자와 SK하이닉스 주가가 각각 ‘30만전자’와 ‘200만닉스’에 근접한 상황에서 두 종목을 꽉 채워 담은 ETF에 주목했다.",
+        "body": "hankyung.com은 삼성전자와 SK하이닉스가 각각 ‘30만전자’와 ‘200만닉스’로 불리는 가격대에 다가선 가운데, 두 종목을 비중 있게 담은 ETF가 관심을 받고 있다고 보도했다. 보도 제목은 삼성전자와 SK하이닉스가 목표 가격대 목전에 있다는 점과, 이들 종목을 꽉 채워 담은 ETF가 무엇인지에 초점을 맞췄다. 반도체 대표주인 두 종목의 주가 흐름은 관련 ETF 선택에도 영향을 줄 수 있다. 다만 제공된 원문 정보상 구체적인 ETF 명칭이나 편입 비중, 수익률 수치는 확인되지 않았다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Samsung, SK Hynix Near Key Levels as ETF Focus Sharpens",
+        "excerpt": "hankyung.com reported that as Samsung Electronics and SK Hynix approach the levels dubbed “300,000 Samsung” and “2 million Hynix,” ETFs heavily holding both stocks are drawing attention.",
+        "body": "hankyung.com reported that Samsung Electronics and SK Hynix are nearing price levels described as “300,000 Samsung” and “2 million Hynix,” while attention is turning to ETFs that hold the two stocks in large amounts. The original headline focused on the two semiconductor names approaching those symbolic levels and asked which ETF is packed with Samsung Electronics and SK Hynix. As Korea’s leading chip stocks, their share-price moves may influence interest in related ETFs. However, the provided source text does not confirm a specific ETF name, holding ratio, or return figure. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "サムスン電子・SKハイニックスが節目目前、関連ETFに注目",
+        "excerpt": "hankyung.comは、サムスン電子とSKハイニックスがそれぞれ「30万電子」「200万ニックス」と呼ばれる水準に近づく中、両銘柄を多く組み入れたETFに注目が集まっていると報じた。",
+        "body": "hankyung.comは、サムスン電子とSKハイニックスがそれぞれ「30万電子」「200万ニックス」と呼ばれる価格帯に近づく中、両銘柄を厚く組み入れたETFが関心を集めていると報じた。元の見出しは、サムスン電子とSKハイニックスが節目の水準を目前にしている点と、これらを大きく組み入れたETFがどれかという点に焦点を当てている。韓国の代表的な半導体株である両銘柄の値動きは、関連ETFの選択にも影響し得る。ただし、提供された原文情報では具体的なETF名、組入比率、収益率は確認できない。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "三星电子、SK海力士逼近关键价位，相关ETF受关注",
+        "excerpt": "hankyung.com报道称，三星电子和SK海力士股价分别接近“30万三星”和“200万海力士”水平，重仓两只股票的ETF受到关注。",
+        "body": "hankyung.com报道称，三星电子和SK海力士分别接近被称为“30万三星”和“200万海力士”的价格区间，市场关注点转向重仓这两只股票的ETF。原文标题聚焦于三星电子和SK海力士逼近象征性价位，以及哪只ETF充分配置了这两只股票。作为韩国代表性半导体股，两家公司股价走势可能影响投资者对相关ETF的选择。不过，根据提供的原文信息，具体ETF名称、持仓比例和收益率数据尚未确认。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Samsung y SK Hynix rozan niveles clave y ponen el foco en ETF",
+        "excerpt": "hankyung.com informó que Samsung Electronics y SK Hynix se acercan a los niveles llamados “Samsung 300.000” y “Hynix 2 millones”, mientras ganan atención los ETF con fuerte exposición a ambas.",
+        "body": "hankyung.com informó que Samsung Electronics y SK Hynix se acercan a los niveles de precio conocidos como “Samsung 300.000” y “Hynix 2 millones”, mientras aumenta el interés por los ETF que incorporan ambas acciones con peso relevante. El titular original se centró en que los dos valores de semiconductores están cerca de esos niveles simbólicos y planteó qué ETF está cargado con Samsung Electronics y SK Hynix. Como acciones líderes del sector de chips en Corea, sus movimientos pueden influir en la elección de ETF relacionados. Sin embargo, la información proporcionada no confirma nombre de ETF, ponderaciones ni rentabilidad. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Samsung e SK Hynix perto de níveis-chave elevam foco em ETFs",
+        "excerpt": "O hankyung.com informou que Samsung Electronics e SK Hynix se aproximam dos níveis chamados “Samsung 300 mil” e “Hynix 2 milhões”, atraindo atenção para ETFs com forte exposição às duas ações.",
+        "body": "O hankyung.com informou que Samsung Electronics e SK Hynix estão se aproximando das faixas de preço conhecidas como “Samsung 300 mil” e “Hynix 2 milhões”, enquanto ETFs que carregam as duas ações com peso relevante ganham atenção. O título original destacou que as duas empresas de semicondutores estão perto desses níveis simbólicos e questionou qual ETF está fortemente preenchido com Samsung Electronics e SK Hynix. Como ações representativas de chips na Coreia, seus movimentos podem influenciar a escolha de ETFs relacionados. Porém, o texto fornecido não confirma nome específico de ETF, participação na carteira ou retorno. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Samsung und SK Hynix nahe Schlüsselmarken: ETFs rücken in den Fokus",
+        "excerpt": "hankyung.com berichtete, dass Samsung Electronics und SK Hynix den Marken „300.000 Samsung“ und „2 Millionen Hynix“ näherkommen, während ETFs mit hohem Anteil beider Aktien Aufmerksamkeit erhalten.",
+        "body": "hankyung.com berichtete, dass Samsung Electronics und SK Hynix sich Preisniveaus nähern, die als „300.000 Samsung“ und „2 Millionen Hynix“ bezeichnet werden. Zugleich richtet sich der Blick auf ETFs, die beide Aktien stark gewichten. Die ursprüngliche Überschrift stellte heraus, dass die beiden Halbleiterwerte kurz vor diesen symbolischen Marken stehen, und fragte, welcher ETF mit Samsung Electronics und SK Hynix gut gefüllt ist. Als führende koreanische Chipaktien können ihre Kursbewegungen die Auswahl entsprechender ETFs beeinflussen. Konkrete ETF-Namen, Gewichtungen oder Renditen gehen aus den bereitgestellten Angaben jedoch nicht hervor. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Samsung et SK Hynix proches de seuils clés, les ETF attirent l’attention",
+        "excerpt": "hankyung.com a rapporté que Samsung Electronics et SK Hynix approchent des niveaux dits « Samsung 300 000 » et « Hynix 2 millions », mettant en lumière les ETF fortement exposés aux deux titres.",
+        "body": "hankyung.com a rapporté que Samsung Electronics et SK Hynix se rapprochent de niveaux de prix appelés « Samsung 300 000 » et « Hynix 2 millions », tandis que les ETF fortement investis dans ces deux actions retiennent l’attention. Le titre original met l’accent sur la proximité de ces seuils symboliques pour les deux valeurs des semi-conducteurs et demande quel ETF les détient largement. En tant que titres majeurs du secteur coréen des puces, leurs mouvements boursiers peuvent peser sur le choix des ETF liés. Toutefois, les informations fournies ne confirment ni nom d’ETF, ni pondération, ni performance. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "سامسونغ وSK هاينكس تقتربان من مستويات مهمة والأنظار على صناديق ETF",
+        "excerpt": "ذكر hankyung.com أن سامسونغ إلكترونيكس وSK هاينكس تقتربان من مستويي “سامسونغ 300 ألف” و“هاينكس 2 مليون”، ما يسلط الضوء على صناديق ETF التي تضم السهمين بكثافة.",
+        "body": "ذكر hankyung.com أن سامسونغ إلكترونيكس وSK هاينكس تقتربان من نطاقات سعرية يشار إليها باسم “سامسونغ 300 ألف” و“هاينكس 2 مليون”، بينما يتزايد الاهتمام بصناديق ETF التي تضم السهمين بوزن كبير. وركز العنوان الأصلي على اقتراب شركتي أشباه الموصلات من هذين المستويين الرمزيين، وطرح سؤالا حول الصندوق المتداول الذي يمتلئ بسهمي سامسونغ إلكترونيكس وSK هاينكس. وبصفتهما من أبرز أسهم الرقائق في كوريا، قد تؤثر تحركاتهما السعرية في اختيار الصناديق المرتبطة. لكن المعلومات المقدمة لا تؤكد اسم صندوق محدد أو نسب المكونات أو العائدات. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Samsung और SK Hynix अहम स्तरों के करीब, ETF पर बढ़ा ध्यान",
+        "excerpt": "hankyung.com ने बताया कि Samsung Electronics और SK Hynix क्रमशः “300,000 Samsung” और “2 million Hynix” कहे जाने वाले स्तरों के करीब हैं, जिससे दोनों शेयरों वाले ETF पर ध्यान गया है।",
+        "body": "hankyung.com ने बताया कि Samsung Electronics और SK Hynix उन मूल्य स्तरों के करीब पहुंच रहे हैं जिन्हें “300,000 Samsung” और “2 million Hynix” कहा जा रहा है। इसी बीच, इन दोनों शेयरों को बड़े अनुपात में रखने वाले ETF पर बाजार की नजर है। मूल शीर्षक ने इस बात पर जोर दिया कि दोनों सेमीकंडक्टर शेयर प्रतीकात्मक स्तरों के सामने हैं और सवाल उठाया कि कौन सा ETF Samsung Electronics और SK Hynix से भरा हुआ है। कोरिया के प्रमुख चिप शेयर होने के कारण इनके भाव संबंधित ETF चयन को प्रभावित कर सकते हैं। हालांकि उपलब्ध मूल जानकारी में किसी विशिष्ट ETF का नाम, होल्डिंग अनुपात या रिटर्न आंकड़ा पुष्टि नहीं होता। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Samsung dan SK Hynix Dekati Level Kunci, ETF Terkait Jadi Sorotan",
+        "excerpt": "hankyung.com melaporkan bahwa Samsung Electronics dan SK Hynix mendekati level yang disebut “Samsung 300 ribu” dan “Hynix 2 juta”, membuat ETF yang banyak memuat keduanya menjadi perhatian.",
+        "body": "hankyung.com melaporkan bahwa Samsung Electronics dan SK Hynix masing-masing mendekati kisaran harga yang disebut “Samsung 300 ribu” dan “Hynix 2 juta”, sementara ETF yang memuat kedua saham tersebut dalam porsi besar menarik perhatian. Judul asli menyoroti posisi dua saham semikonduktor itu yang berada di depan level simbolis tersebut dan mempertanyakan ETF mana yang penuh berisi Samsung Electronics dan SK Hynix. Sebagai saham chip utama Korea, pergerakan harga keduanya dapat memengaruhi pilihan ETF terkait. Namun, informasi sumber yang diberikan tidak mengonfirmasi nama ETF tertentu, bobot kepemilikan, atau angka imbal hasil. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "22ae4c2573f3",
+    "slug": "가볍게-인테리어-바꿔볼까현대lc-인테리어-필름-보닥-신제품-54종-출시-414113",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T01:16:37.582Z",
+    "updatedAt": "2026-05-12T01:16:37.583Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12044353",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12044353",
+    "titleFingerprint": "7f99f2d16eea5b1e985df02a01f98aa3dea119f6",
+    "dedupKeys": [
+      "22ae4c2573f3d95775365d19161e42ac5ce9cbc8",
+      "7f99f2d16eea5b1e985df02a01f98aa3dea119f6",
+      "9c149219928ffdf30180d0a575e13236237f464e"
+    ],
+    "imageUrl": "/images/articles/22ae4c2573f3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "현대L&C 인테리어 필름 보닥 신제품 54종 출시, 원목·가죽 패턴 확대",
+        "excerpt": "현대백화점그룹 종합 건자재기업 현대L&C가 12일 인테리어 필름 ‘보닥’ 신제품 54종을 출시하며 벽·몰딩·가구 등에 간편히 붙이는 제품군을 넓혔다.",
+        "body": "현대백화점그룹 종합 건자재기업 현대L&C는 12일 인테리어 필름 ‘보닥’ 신제품 54종을 선보였다고 밝혔다. 이번 신제품은 원목, 회벽, 가죽, 섬유 등 다양한 소재 질감을 패턴으로 구현한 것이 특징이다. 보닥은 벽, 몰딩, 가구 등에 간편하게 부착해 실내 분위기를 바꿀 수 있는 인테리어 필름 제품이다. 현대L&C는 새 제품군을 통해 가볍게 공간을 바꾸려는 소비자 선택지를 넓히게 됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hyundai L&C Launches 54 New Bodaq Interior Films With Wood and Leather Looks",
+        "excerpt": "Hyundai L&C, a Hyundai Department Store Group building materials company, said on the 12th it launched 54 new Bodaq interior films for walls, moldings and furniture.",
+        "body": "Hyundai L&C, the comprehensive building materials company of Hyundai Department Store Group, said on the 12th that it has introduced 54 new products in its Bodaq interior film line. The new products feature patterns that reproduce the textures of wood, plaster walls, leather and fabric. Bodaq is an interior film that can be easily applied to walls, moldings and furniture to change the atmosphere of a room. With the expanded lineup, Hyundai L&C is broadening options for consumers who want a simple interior refresh. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "現代L&C、内装フィルム「ボダック」新製品54種を発売 木目・革調も",
+        "excerpt": "現代百貨店グループの総合建材企業、現代L&Cは12日、壁やモールディング、家具に手軽に貼れる内装フィルム「ボダック」新製品54種を発売した。",
+        "body": "現代百貨店グループの総合建材企業、現代L&Cは12日、内装フィルム「ボダック」の新製品54種を発表した。今回の新製品は、木材、しっくい壁、革、繊維など多様な素材の質感をパターンで表現した点が特徴だ。ボダックは壁、モールディング、家具などに簡単に貼り付け、室内の雰囲気を変えられる内装フィルム製品。現代L&Cは新ラインアップにより、手軽に空間を変えたい消費者の選択肢を広げる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "现代L&C推出54款Bodaq室内装饰膜，扩充木纹与皮革等图案",
+        "excerpt": "现代百货集团旗下综合建材企业现代L&C于12日表示，已推出54款“Bodaq”室内装饰膜新品，可便捷贴附于墙面、线条和家具等。",
+        "body": "现代百货集团旗下综合建材企业现代L&C于12日表示，推出了54款室内装饰膜“Bodaq”新品。本次新品的特点是以图案呈现原木、灰泥墙、皮革、纤维等多种材质质感。Bodaq是一种可便捷贴附在墙面、装饰线条、家具等位置的室内装饰膜产品，用于改变室内氛围。现代L&C通过扩充新品系列，为希望轻松改变空间的消费者提供更多选择。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hyundai L&C lanza 54 nuevos films Bodaq para renovar interiores con acabado madera y cuero",
+        "excerpt": "Hyundai L&C, empresa de materiales de construcción del Grupo Hyundai Department Store, anunció el día 12 el lanzamiento de 54 nuevos films interiores Bodaq para paredes, molduras y muebles.",
+        "body": "Hyundai L&C, empresa integral de materiales de construcción del Grupo Hyundai Department Store, informó el día 12 que presentó 54 nuevos productos de su film interior Bodaq. Los nuevos modelos reproducen mediante patrones las texturas de madera, pared enlucida, cuero y tejido. Bodaq es un film de interior que puede adherirse fácilmente a paredes, molduras y muebles para cambiar el ambiente de un espacio. Con esta nueva línea, Hyundai L&C amplía las opciones para consumidores que buscan renovar interiores de forma sencilla. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Hyundai L&C lança 54 novos filmes Bodaq para interiores com padrões de madeira e couro",
+        "excerpt": "A Hyundai L&C, empresa de materiais de construção do Hyundai Department Store Group, anunciou no dia 12 o lançamento de 54 novos filmes Bodaq para paredes, molduras e móveis.",
+        "body": "A Hyundai L&C, empresa integrada de materiais de construção do Hyundai Department Store Group, informou no dia 12 que apresentou 54 novos produtos da linha de filmes para interiores Bodaq. Os lançamentos reproduzem em padrões as texturas de madeira, parede rebocada, couro e tecido. O Bodaq é um filme decorativo que pode ser aplicado facilmente em paredes, molduras e móveis para mudar o ambiente interno. Com a nova linha, a Hyundai L&C amplia as opções para consumidores que desejam renovar espaços de forma simples. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hyundai L&C bringt 54 neue Bodaq-Innenfolien mit Holz-, Leder- und Stoffmustern heraus",
+        "excerpt": "Hyundai L&C, Baustoffunternehmen der Hyundai Department Store Group, gab am 12. bekannt, 54 neue Bodaq-Innenfolien für Wände, Leisten und Möbel eingeführt zu haben.",
+        "body": "Hyundai L&C, das umfassende Baustoffunternehmen der Hyundai Department Store Group, teilte am 12. mit, 54 neue Produkte seiner Innenfolienlinie Bodaq vorgestellt zu haben. Die Neuheiten setzen die Texturen von Holz, Putzwand, Leder und Stoff in Mustern um. Bodaq ist eine Innenfolie, die sich einfach auf Wänden, Leisten und Möbeln anbringen lässt, um die Atmosphäre eines Raums zu verändern. Mit der erweiterten Produktreihe vergrößert Hyundai L&C die Auswahl für Verbraucher, die ihre Innenräume unkompliziert auffrischen möchten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hyundai L&C lance 54 nouveaux films intérieurs Bodaq aux effets bois, cuir et textile",
+        "excerpt": "Hyundai L&C, entreprise de matériaux de construction du Hyundai Department Store Group, a annoncé le 12 le lancement de 54 nouveaux films intérieurs Bodaq pour murs, moulures et meubles.",
+        "body": "Hyundai L&C, entreprise globale de matériaux de construction du Hyundai Department Store Group, a annoncé le 12 avoir présenté 54 nouveaux produits dans sa gamme de films intérieurs Bodaq. Ces nouveautés reproduisent sous forme de motifs les textures du bois, du mur enduit, du cuir et du textile. Bodaq est un film décoratif qui s’applique facilement sur les murs, les moulures et les meubles pour modifier l’ambiance intérieure. Avec cette nouvelle gamme, Hyundai L&C élargit les choix des consommateurs souhaitant transformer simplement leur espace. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هيونداي L&C تطلق 54 فيلما داخليا جديدا من Bodaq بأنماط الخشب والجلد",
+        "excerpt": "أعلنت هيونداي L&C، شركة مواد البناء التابعة لمجموعة Hyundai Department Store، في 12 من الشهر إطلاق 54 منتجا جديدا من أفلام Bodaq للجدران والقوالب والأثاث.",
+        "body": "أعلنت هيونداي L&C، شركة مواد البناء الشاملة التابعة لمجموعة Hyundai Department Store، في 12 من الشهر أنها طرحت 54 منتجا جديدا من أفلام الديكور الداخلي Bodaq. وتتميز المنتجات الجديدة بأنماط تجسد ملمس الخشب والجدران المطلية والجلد والأقمشة. ويعد Bodaq فيلما داخليا يمكن تثبيته بسهولة على الجدران والقوالب والأثاث لتغيير أجواء المساحة الداخلية. ومن خلال هذه التشكيلة الجديدة، توسع هيونداي L&C خيارات المستهلكين الراغبين في تغيير الديكور بسهولة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Hyundai L&C ने Bodaq इंटीरियर फिल्म के 54 नए उत्पाद उतारे, लकड़ी और लेदर पैटर्न शामिल",
+        "excerpt": "Hyundai Department Store Group की निर्माण सामग्री कंपनी Hyundai L&C ने 12 तारीख को Bodaq इंटीरियर फिल्म के 54 नए उत्पाद पेश किए, जिन्हें दीवारों, मोल्डिंग और फर्नीचर पर लगाया जा सकता है।",
+        "body": "Hyundai Department Store Group की समग्र निर्माण सामग्री कंपनी Hyundai L&C ने 12 तारीख को बताया कि उसने अपनी Bodaq इंटीरियर फिल्म श्रृंखला में 54 नए उत्पाद पेश किए हैं। इन नए उत्पादों में लकड़ी, प्लास्टर दीवार, लेदर और फैब्रिक जैसी विभिन्न सामग्री की बनावट को पैटर्न के रूप में दिखाया गया है। Bodaq ऐसी इंटीरियर फिल्म है जिसे दीवारों, मोल्डिंग और फर्नीचर पर आसानी से चिपकाकर कमरे का माहौल बदला जा सकता है। इस नई श्रृंखला से Hyundai L&C उन उपभोक्ताओं के विकल्प बढ़ा रही है जो सरल तरीके से इंटीरियर बदलना चाहते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hyundai L&C Luncurkan 54 Film Interior Bodaq Baru dengan Motif Kayu, Kulit dan Kain",
+        "excerpt": "Hyundai L&C, perusahaan bahan bangunan Hyundai Department Store Group, pada tanggal 12 mengumumkan 54 produk baru film interior Bodaq untuk dinding, molding dan furnitur.",
+        "body": "Hyundai L&C, perusahaan bahan bangunan terpadu di bawah Hyundai Department Store Group, menyatakan pada tanggal 12 bahwa pihaknya memperkenalkan 54 produk baru film interior Bodaq. Produk baru ini menampilkan pola yang mewujudkan tekstur kayu, dinding plester, kulit dan serat kain. Bodaq adalah film interior yang dapat ditempelkan dengan mudah pada dinding, molding dan furnitur untuk mengubah suasana ruangan. Melalui lini baru ini, Hyundai L&C memperluas pilihan bagi konsumen yang ingin menyegarkan interior secara sederhana. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "4c15cb14c8ae",
     "slug": "속보-코스피-168-오른-795341-개장사상-첫-7900선-돌파-817260",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Aset Saham Lee Jae-yong Tembus 50 Triliun Won, Keluarga Samsung Masuki Era 100 Triliun",
         "excerpt": "Menurut Korea CXO Institute, nilai saham Ketua Samsung Electronics Lee Jae-yong mencapai 51,6593 triliun won saat Kospi bergerak menuju 8.000.",
         "body": "Survei Korea CXO Institute mengenai kekayaan saham para pemegang saham utama di Korea Selatan menunjukkan bahwa nilai kepemilikan saham Lee Jae-yong, Ketua Samsung Electronics, mencapai 51,6593 triliun won dan melampaui 50 triliun won. Latar yang disebutkan adalah laju Kospi yang terus naik menuju level 8.000 serta lonjakan saham Samsung Electronics lebih dari 6% ke 285.500 won per saham. Seiring kenaikan nilai saham Lee, total nilai saham keluarga Samsung dinilai memasuki era 100 triliun won. Hasil ini menunjukkan bagaimana reli pasar saham Korea dan penilaian ulang saham berkapitalisasi besar memengaruhi aset para pemegang saham utama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "8dfeac76407a",
-    "slug": "에쓰오일-유가-급등에-1분기-흑자전환-196629",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T11:19:13.323Z",
-    "updatedAt": "2026-05-11T11:19:13.323Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12043548",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12043548",
-    "titleFingerprint": "83cc113790bf7a11b58b81674c06bb112ca09369",
-    "dedupKeys": [
-      "8dfeac76407a68cf604790bec2d3f437a32a7190",
-      "83cc113790bf7a11b58b81674c06bb112ca09369",
-      "bf2131f2dc4c936052ccffea3f5af5b7e80b3b2e"
-    ],
-    "imageUrl": "/images/articles/8dfeac76407a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "에쓰오일 1분기 흑자전환, 유가 급등에 재고이익 반영",
-        "excerpt": "에쓰오일은 11일 올해 1분기 연결 기준 영업이익이 흑자로 돌아섰다고 밝혔다. 호르무즈 해협 봉쇄에 따른 국제 유가 급등이 재고 관련 이익으로 이어진 영향이다.",
-        "body": "에쓰오일은 11일 올해 1분기 연결 기준 영업이익이 흑자로 돌아섰다고 밝혔다. 호르무즈 해협 봉쇄로 국제 유가가 급등하면서 보유 재고의 평가와 판매 과정에서 관련 이익이 발생한 점이 실적 개선의 핵심 배경으로 제시됐다. 회사는 같은 기간 매출이 8조원대로 집계됐다고 설명했다. 이번 흑자전환은 유가 변동이 정유사의 단기 실적에 직접 영향을 줄 수 있음을 보여준다. 다만 원문에 제시된 내용은 1분기 실적과 유가 급등에 따른 재고 관련 이익에 한정돼 있어 향후 실적 방향은 추가 확인이 필요하다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "S-Oil Swings to Q1 Profit as Oil Price Surge Lifts Inventory Gains",
-        "excerpt": "S-Oil said on the 11th that its first-quarter consolidated operating profit returned to the black, helped by inventory-related gains from a jump in global oil prices after the Hormuz Strait closure.",
-        "body": "S-Oil said on the 11th that its operating profit on a consolidated basis turned positive in the first quarter of this year. The main factor cited was inventory-related gains after international oil prices surged due to the closure of the Strait of Hormuz. The company also said revenue for the same period was in the 8 trillion won range. The turnaround shows how oil price movements can directly affect short-term earnings at refiners. The original report, however, is limited to first-quarter results and inventory gains tied to the oil price spike, so the direction of future earnings requires further confirmation. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "S-Oil、第1四半期に黒字転換　原油高で在庫関連利益が寄与",
-        "excerpt": "S-Oilは11日、今年第1四半期の連結営業利益が黒字に転じたと明らかにした。ホルムズ海峡封鎖による国際原油価格の急騰が在庫関連利益につながった。",
-        "body": "S-Oilは11日、今年第1四半期の連結ベースの営業利益が黒字に転じたと発表した。ホルムズ海峡の封鎖で国際原油価格が急騰し、保有在庫の評価や販売過程で関連利益が発生したことが業績改善の主な背景とされた。同社は同期間の売上高が8兆ウォン台だったとも説明した。今回の黒字転換は、原油価格の変動が精油会社の短期業績に直接影響し得ることを示している。ただし原文で示された内容は第1四半期業績と原油高に伴う在庫関連利益に限られるため、今後の業績方向は追加確認が必要だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "S-Oil一季度扭亏为盈，油价急涨带动库存相关收益",
-        "excerpt": "S-Oil于11日表示，今年第一季度合并口径营业利润转为盈利。霍尔木兹海峡封锁导致国际油价急涨，并带来库存相关收益。",
-        "body": "S-Oil于11日表示，今年第一季度合并口径营业利润转为盈利。公司称，霍尔木兹海峡封锁推动国际油价急剧上涨，在持有库存的估值和销售过程中产生了相关收益，这是业绩改善的主要背景。公司还说明，同期销售额为8万亿韩元区间。此次扭亏显示，油价波动可能直接影响炼油企业的短期业绩。不过，原文提供的信息仅限于第一季度业绩以及油价急涨带来的库存相关收益，未来业绩方向仍需进一步确认。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "S-Oil vuelve a beneficios en el primer trimestre por el salto del crudo",
-        "excerpt": "S-Oil informó el día 11 que su beneficio operativo consolidado del primer trimestre volvió a terreno positivo, apoyado por ganancias de inventario tras el alza del petróleo por el cierre de Ormuz.",
-        "body": "S-Oil informó el día 11 que su beneficio operativo consolidado volvió a terreno positivo en el primer trimestre de este año. La principal razón señalada fue que el fuerte aumento de los precios internacionales del petróleo, causado por el cierre del estrecho de Ormuz, generó ganancias relacionadas con inventarios durante la valoración y venta de existencias. La compañía también indicó que los ingresos del periodo se situaron en el rango de 8 billones de wones. El giro a beneficios muestra que los movimientos del crudo pueden afectar directamente los resultados de corto plazo de una refinería. El texto original se limita a los resultados del primer trimestre y a las ganancias de inventario ligadas al alza del petróleo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "S-Oil volta ao lucro no 1º trimestre com alta do petróleo e estoques",
-        "excerpt": "A S-Oil informou no dia 11 que o lucro operacional consolidado do primeiro trimestre voltou ao positivo, impulsionado por ganhos de estoque após a disparada do petróleo com o fechamento de Ormuz.",
-        "body": "A S-Oil informou no dia 11 que seu lucro operacional consolidado voltou ao campo positivo no primeiro trimestre deste ano. O principal fator apontado foi a geração de ganhos relacionados a estoques depois que os preços internacionais do petróleo dispararam com o fechamento do estreito de Ormuz. A empresa também disse que a receita do período ficou na faixa de 8 trilhões de wones. A virada para lucro mostra que a volatilidade do petróleo pode afetar diretamente o desempenho de curto prazo das refinarias. O conteúdo original, porém, limita-se aos resultados do primeiro trimestre e aos ganhos de estoque ligados à alta do petróleo, sem indicar uma direção futura para os resultados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "S-Oil kehrt im ersten Quartal dank Ölpreissprung in die Gewinnzone zurück",
-        "excerpt": "S-Oil teilte am 11. mit, dass der konsolidierte operative Gewinn im ersten Quartal wieder positiv ausfiel. Grund waren lagerbezogene Gewinne nach dem Ölpreisanstieg infolge der Sperrung von Hormus.",
-        "body": "S-Oil teilte am 11. mit, dass der operative Gewinn auf konsolidierter Basis im ersten Quartal dieses Jahres wieder positiv ausgefallen ist. Als Hauptgrund nannte das Unternehmen lagerbezogene Gewinne, die entstanden, nachdem die internationalen Ölpreise wegen der Sperrung der Straße von Hormus stark gestiegen waren. Der Umsatz im selben Zeitraum lag den Angaben zufolge im Bereich von 8 Billionen Won. Die Rückkehr in die Gewinnzone zeigt, dass Ölpreisbewegungen die kurzfristigen Ergebnisse von Raffinerien direkt beeinflussen können. Der ursprüngliche Bericht beschränkt sich jedoch auf die Erstquartalszahlen und die lagerbezogenen Gewinne aus dem Ölpreisanstieg. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "S-Oil renoue avec le profit au 1er trimestre grâce à la flambée du pétrole",
-        "excerpt": "S-Oil a annoncé le 11 que son bénéfice d’exploitation consolidé du premier trimestre était redevenu positif, porté par des gains de stocks liés à la hausse du pétrole après la fermeture d’Ormuz.",
-        "body": "S-Oil a annoncé le 11 que son bénéfice d’exploitation consolidé était redevenu positif au premier trimestre de cette année. Le principal facteur avancé est la hausse rapide des prix internationaux du pétrole après la fermeture du détroit d’Ormuz, qui a généré des gains liés aux stocks lors de leur valorisation et de leur vente. La société a également indiqué que le chiffre d’affaires de la période se situait dans la tranche des 8 billions de wons. Ce retour au bénéfice montre que les variations du pétrole peuvent influencer directement les résultats à court terme des raffineurs. Le rapport original se limite toutefois aux résultats du premier trimestre et aux gains de stocks liés à cette hausse. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إس-أويل تتحول للربح في الربع الأول مع قفزة النفط ومكاسب المخزون",
-        "excerpt": "قالت إس-أويل في 11 من الشهر إن أرباحها التشغيلية الموحدة في الربع الأول عادت إلى المنطقة الموجبة، بدعم من مكاسب مرتبطة بالمخزون بعد ارتفاع أسعار النفط بسبب إغلاق مضيق هرمز.",
-        "body": "قالت إس-أويل في 11 من الشهر إن أرباحها التشغيلية على أساس موحد تحولت إلى الربح في الربع الأول من هذا العام. وأوضحت أن السبب الرئيسي هو تحقيق مكاسب مرتبطة بالمخزون بعدما ارتفعت أسعار النفط العالمية بقوة نتيجة إغلاق مضيق هرمز، ما انعكس على تقييم المخزون وبيعه. كما ذكرت الشركة أن إيرادات الفترة جاءت في نطاق 8 تريليونات وون. ويظهر هذا التحول أن تقلبات أسعار النفط يمكن أن تؤثر مباشرة في الأداء القصير الأجل لشركات التكرير. غير أن التقرير الأصلي يقتصر على نتائج الربع الأول ومكاسب المخزون الناتجة عن ارتفاع النفط. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "S-Oil पहली तिमाही में मुनाफे में लौटी, तेल कीमतों की छलांग से इन्वेंट्री लाभ",
-        "excerpt": "S-Oil ने 11 तारीख को कहा कि इस साल पहली तिमाही में उसका समेकित परिचालन लाभ फिर सकारात्मक हो गया। होर्मुज जलडमरूमध्य बंद होने से तेल कीमतों में उछाल ने इन्वेंट्री लाभ दिया।",
-        "body": "S-Oil ने 11 तारीख को बताया कि इस साल पहली तिमाही में उसका समेकित परिचालन लाभ मुनाफे में लौट आया। कंपनी के अनुसार, होर्मुज जलडमरूमध्य के बंद होने से अंतरराष्ट्रीय तेल कीमतों में तेज बढ़ोतरी हुई, जिससे रखे गए भंडार के मूल्यांकन और बिक्री के दौरान इन्वेंट्री से जुड़े लाभ बने। कंपनी ने यह भी कहा कि इसी अवधि में बिक्री 8 ट्रिलियन वॉन के दायरे में रही। यह बदलाव दिखाता है कि तेल कीमतों की चाल रिफाइनरी कंपनियों के अल्पकालिक नतीजों को सीधे प्रभावित कर सकती है। हालांकि मूल रिपोर्ट पहली तिमाही के नतीजों और तेल तेजी से जुड़े इन्वेंट्री लाभ तक सीमित है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "S-Oil Berbalik Laba pada Kuartal I saat Lonjakan Minyak Angkat Stok",
-        "excerpt": "S-Oil menyatakan pada tanggal 11 bahwa laba operasional konsolidasian kuartal pertama kembali positif, ditopang keuntungan terkait persediaan setelah harga minyak global melonjak akibat penutupan Hormuz.",
-        "body": "S-Oil menyatakan pada tanggal 11 bahwa laba operasional secara konsolidasian pada kuartal pertama tahun ini kembali mencatatkan hasil positif. Faktor utama yang disebutkan adalah keuntungan terkait persediaan setelah harga minyak internasional melonjak akibat penutupan Selat Hormuz. Kenaikan itu berdampak pada penilaian dan penjualan persediaan yang dimiliki perusahaan. S-Oil juga menjelaskan bahwa pendapatan pada periode yang sama berada di kisaran 8 triliun won. Peralihan ke laba ini menunjukkan bahwa pergerakan harga minyak dapat langsung memengaruhi kinerja jangka pendek perusahaan penyulingan. Namun laporan asli hanya memuat hasil kuartal pertama dan keuntungan persediaan akibat lonjakan minyak. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a0fbe4649f37",
-    "slug": "이노션-1분기-영업익-397억-33-증가사상-최대-기록-376696",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T11:18:01.570Z",
-    "updatedAt": "2026-05-11T11:18:01.570Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12043549",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12043549",
-    "titleFingerprint": "da24a7d59d5e087895cf9b01740b13fff8e2c2ca",
-    "dedupKeys": [
-      "a0fbe4649f372dc04a238ad3670cd8a5a8b57c84",
-      "da24a7d59d5e087895cf9b01740b13fff8e2c2ca",
-      "9b6866b42f87f7178397a73f0089042874c7f78a"
-    ],
-    "imageUrl": "/images/articles/a0fbe4649f37.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이노션 1분기 영업이익 397억, 33% 증가로 사상 최대 기록",
-        "excerpt": "현대자동차그룹 광고계열사 이노션은 11일 업계 집계 기준 올해 1분기 영업이익 397억원을 기록해 전년 대비 33% 늘고 사상 최대 분기 실적을 냈다.",
-        "body": "현대자동차그룹 광고계열사 이노션이 올해 1분기 영업이익 397억원을 기록하며 사상 최대 분기 실적을 냈다. 11일 업계에 따르면 이노션의 1분기 영업이익은 전년 대비 33% 증가했다. 이번 실적은 광고업계 선두인 제일기획의 분기 영업이익을 10년 만에 넘어선 것으로 전해졌다. 이노션은 현대자동차그룹 계열 광고회사로, 이번 1분기 실적 개선을 통해 업계 내 수익성 경쟁에서 존재감을 키웠다. 다만 향후 실적 흐름은 광고시장 환경과 주요 광고주의 집행 규모에 따라 달라질 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Innocean Q1 operating profit jumps 33% to record 39.7 billion won",
-        "excerpt": "Innocean, Hyundai Motor Group’s advertising affiliate, posted first-quarter operating profit of 39.7 billion won, up 33% year on year and its highest quarterly result.",
-        "body": "Innocean, the advertising affiliate of Hyundai Motor Group, recorded operating profit of 39.7 billion won in the first quarter of this year, marking its highest quarterly result. According to industry sources on May 11, Innocean’s first-quarter operating profit rose 33% from a year earlier. The result reportedly surpassed the quarterly operating profit of Cheil Worldwide, the industry leader, for the first time in 10 years. As a Hyundai Motor Group advertising company, Innocean strengthened its presence in profitability competition within the sector through the improved first-quarter performance. Future earnings momentum may depend on advertising market conditions and spending by major advertisers. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "イノション、1四半期営業益397億ウォンで33%増、過去最高",
-        "excerpt": "現代自動車グループの広告系列会社イノションは、今年1四半期の営業利益が397億ウォンとなり、前年同期比33%増で過去最高を記録した。",
-        "body": "現代自動車グループの広告系列会社イノションが、今年第1四半期に営業利益397億ウォンを記録し、四半期ベースで過去最高の実績を上げた。11日の業界情報によると、イノションの第1四半期営業利益は前年同期比33%増加した。今回の実績は、広告業界首位の第一企画の四半期営業利益を10年ぶりに上回ったものと伝えられている。イノションは現代自動車グループ系列の広告会社で、今回の第1四半期業績改善により、業界内の収益性競争で存在感を高めた。今後の業績の流れは、広告市場環境と主要広告主の出稿規模に左右される可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Innocean一季度营业利润397亿韩元，同比增长33%创纪录",
-        "excerpt": "现代汽车集团广告子公司Innocean今年一季度营业利润达397亿韩元，同比增33%，创下季度最高纪录。",
-        "body": "现代汽车集团广告子公司Innocean今年第一季度实现营业利润397亿韩元，创下公司季度业绩最高纪录。据5月11日业内消息，Innocean一季度营业利润同比增长33%。据悉，这一业绩使其季度营业利润时隔10年超过广告行业龙头Cheil Worldwide。作为现代汽车集团旗下广告公司，Innocean凭借一季度业绩改善，在行业盈利能力竞争中的存在感进一步提升。不过，未来业绩走势仍可能取决于广告市场环境以及主要广告主的投放规模。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Innocean eleva 33% su beneficio operativo del 1T y marca récord",
-        "excerpt": "Innocean, filial publicitaria de Hyundai Motor Group, registró en el primer trimestre un beneficio operativo de 39.700 millones de wones, un 33% más interanual.",
-        "body": "Innocean, la filial publicitaria de Hyundai Motor Group, registró en el primer trimestre de este año un beneficio operativo de 39.700 millones de wones, su mayor resultado trimestral hasta la fecha. Según fuentes del sector citadas el 11 de mayo, el beneficio operativo del primer trimestre aumentó un 33% frente al año anterior. El resultado habría superado por primera vez en 10 años el beneficio operativo trimestral de Cheil Worldwide, líder del sector publicitario. Como compañía publicitaria del grupo Hyundai Motor, Innocean reforzó su presencia en la competencia por rentabilidad dentro de la industria. La evolución futura dependerá del entorno del mercado publicitario y del volumen de gasto de los principales anunciantes. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Innocean tem lucro operacional recorde de 39,7 bi de wones no 1T",
-        "excerpt": "A Innocean, afiliada de publicidade do Hyundai Motor Group, teve lucro operacional de 39,7 bilhões de wones no 1º trimestre, alta anual de 33%.",
-        "body": "A Innocean, afiliada de publicidade do Hyundai Motor Group, registrou lucro operacional de 39,7 bilhões de wones no primeiro trimestre deste ano, o maior resultado trimestral de sua história. Segundo fontes do setor em 11 de maio, o lucro operacional do primeiro trimestre subiu 33% em relação ao ano anterior. O desempenho teria superado, pela primeira vez em 10 anos, o lucro operacional trimestral da Cheil Worldwide, líder do setor de publicidade. Como empresa de publicidade ligada ao Hyundai Motor Group, a Innocean ampliou sua presença na disputa por rentabilidade no setor com a melhora do resultado trimestral. A trajetória futura dos resultados pode depender das condições do mercado publicitário e do volume de gastos dos principais anunciantes. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Innocean steigert Q1-Betriebsgewinn um 33% auf Rekordwert",
-        "excerpt": "Innocean, die Werbetochter der Hyundai Motor Group, erzielte im ersten Quartal einen Betriebsgewinn von 39,7 Milliarden Won, 33% mehr als im Vorjahr.",
-        "body": "Innocean, die Werbetochter der Hyundai Motor Group, erzielte im ersten Quartal dieses Jahres einen Betriebsgewinn von 39,7 Milliarden Won und damit das höchste Quartalsergebnis der Unternehmensgeschichte. Branchenangaben vom 11. Mai zufolge stieg der operative Gewinn im ersten Quartal im Jahresvergleich um 33%. Das Ergebnis soll den Quartalsbetriebsgewinn von Cheil Worldwide, dem Branchenführer in der Werbung, erstmals seit 10 Jahren übertroffen haben. Als Werbeunternehmen der Hyundai Motor Group baute Innocean mit der verbesserten Quartalsleistung seine Präsenz im Wettbewerb um Profitabilität aus. Der weitere Ergebnisverlauf dürfte von der Lage am Werbemarkt und den Ausgaben großer Werbekunden abhängen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Innocean porte son bénéfice opérationnel du T1 à un record",
-        "excerpt": "Innocean, filiale publicitaire de Hyundai Motor Group, a dégagé au premier trimestre un bénéfice opérationnel de 39,7 milliards de wons, en hausse de 33%.",
-        "body": "Innocean, filiale publicitaire de Hyundai Motor Group, a enregistré au premier trimestre de cette année un bénéfice opérationnel de 39,7 milliards de wons, son plus haut niveau trimestriel. Selon des sources du secteur le 11 mai, le bénéfice opérationnel du premier trimestre a progressé de 33% sur un an. Cette performance aurait dépassé pour la première fois en 10 ans le bénéfice opérationnel trimestriel de Cheil Worldwide, leader du secteur publicitaire. En tant que société publicitaire du groupe Hyundai Motor, Innocean a renforcé sa présence dans la concurrence sur la rentabilité grâce à cette amélioration trimestrielle. L’évolution future dépendra des conditions du marché publicitaire et du niveau de dépenses des principaux annonceurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إينوشن تسجل ربحا تشغيليا قياسيا في الربع الأول بنمو 33%",
-        "excerpt": "سجلت إينوشن، ذراع الإعلانات التابعة لمجموعة هيونداي موتور، ربحا تشغيليا قدره 39.7 مليار وون في الربع الأول، بزيادة 33% على أساس سنوي.",
-        "body": "سجلت إينوشن، شركة الإعلانات التابعة لمجموعة هيونداي موتور، ربحا تشغيليا قدره 39.7 مليار وون في الربع الأول من هذا العام، وهو أعلى أداء فصلي في تاريخها. ووفقا لمصادر في القطاع في 11 مايو، ارتفع الربح التشغيلي للربع الأول بنسبة 33% مقارنة بالعام السابق. ويقال إن هذه النتيجة تجاوزت الربح التشغيلي الفصلي لشركة Cheil Worldwide، الرائدة في قطاع الإعلانات، للمرة الأولى منذ 10 سنوات. وباعتبارها شركة إعلانات تابعة لمجموعة هيونداي موتور، عززت إينوشن حضورها في منافسة الربحية داخل القطاع من خلال تحسن نتائج الربع الأول. وقد يعتمد مسار الأرباح المقبل على بيئة سوق الإعلانات وحجم إنفاق كبار المعلنين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Innocean का पहली तिमाही परिचालन लाभ 33% बढ़कर रिकॉर्ड स्तर पर",
-        "excerpt": "Hyundai Motor Group की विज्ञापन इकाई Innocean ने पहली तिमाही में 39.7 अरब वॉन का परिचालन लाभ दर्ज किया, जो सालाना आधार पर 33% अधिक है।",
-        "body": "Hyundai Motor Group की विज्ञापन सहयोगी Innocean ने इस वर्ष पहली तिमाही में 39.7 अरब वॉन का परिचालन लाभ दर्ज किया, जो उसका अब तक का सबसे बड़ा तिमाही प्रदर्शन है। 11 मई को उद्योग सूत्रों के अनुसार, Innocean का पहली तिमाही परिचालन लाभ पिछले वर्ष की तुलना में 33% बढ़ा। बताया गया कि इस परिणाम ने विज्ञापन उद्योग की अग्रणी कंपनी Cheil Worldwide के तिमाही परिचालन लाभ को 10 वर्षों में पहली बार पीछे छोड़ा। Hyundai Motor Group से जुड़ी विज्ञापन कंपनी के रूप में Innocean ने पहली तिमाही के बेहतर प्रदर्शन से उद्योग में लाभप्रदता प्रतिस्पर्धा में अपनी उपस्थिति मजबूत की। आगे की आय का रुझान विज्ञापन बाजार की स्थिति और प्रमुख विज्ञापनदाताओं के खर्च के आकार पर निर्भर हो सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Laba operasi Innocean kuartal I naik 33% ke rekor tertinggi",
-        "excerpt": "Innocean, afiliasi periklanan Hyundai Motor Group, membukukan laba operasi kuartal I sebesar 39,7 miliar won, naik 33% secara tahunan dan menjadi rekor.",
-        "body": "Innocean, afiliasi periklanan Hyundai Motor Group, mencatat laba operasi sebesar 39,7 miliar won pada kuartal pertama tahun ini, menjadi kinerja kuartalan tertinggi dalam sejarahnya. Menurut sumber industri pada 11 Mei, laba operasi kuartal pertama Innocean naik 33% dibandingkan tahun sebelumnya. Kinerja tersebut dilaporkan melampaui laba operasi kuartalan Cheil Worldwide, pemimpin industri periklanan, untuk pertama kalinya dalam 10 tahun. Sebagai perusahaan periklanan di bawah Hyundai Motor Group, Innocean memperkuat kehadirannya dalam persaingan profitabilitas sektor melalui perbaikan kinerja kuartal pertama. Arah kinerja berikutnya dapat bergantung pada kondisi pasar periklanan dan besaran belanja pengiklan utama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "da272d38acb1",
-    "slug": "현금이-얼마나-많길래58조어치-쇼핑-엔비디아가-투자한-기업은-651882",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T11:16:58.339Z",
-    "updatedAt": "2026-05-11T11:16:58.339Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12043646",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12043646",
-    "titleFingerprint": "3bc928b49144b39ba8202a3595f94a18fee8b695",
-    "dedupKeys": [
-      "da272d38acb1f056e6671b77df44a13460593c3f",
-      "3bc928b49144b39ba8202a3595f94a18fee8b695",
-      "0aaa43bec6a97872a4062ef2d5aadfcf196ee32b"
-    ],
-    "imageUrl": "/images/articles/da272d38acb1.png",
-    "i18n": {
-      "ko": {
-        "title": "엔비디아 AI 투자 58조원 규모, 막대한 현금으로 생태계 장악 나섰다",
-        "excerpt": "AI 칩 시장 1위 엔비디아가 막대한 현금 창출력을 바탕으로 약 58조원 규모의 투자를 단행하며 글로벌 AI 생태계 전반에서 주도권 확대에 나섰다.",
-        "body": "인공지능(AI) 칩 시장 1위 기업인 엔비디아가 막대한 현금 창출력을 바탕으로 글로벌 AI 생태계 전반에 대규모 투자를 이어가고 있다. 원문에 따르면 엔비디아가 투자한 규모는 약 58조원어치로 거론된다. 이는 단순히 하드웨어를 공급하는 수준을 넘어, AI 산업의 주요 기업과 기술 흐름 전반에서 영향력을 넓히려는 움직임으로 해석된다. AI 칩 수요가 커지는 가운데 엔비디아의 현금 동원력은 생태계 내 협력과 투자 확대의 기반이 되고 있다. 향후 엔비디아가 어떤 기업에 자금을 배치하느냐는 글로벌 AI 시장의 경쟁 구도와 공급망 전략에도 중요한 변수로 작용할 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Nvidia’s 58 Trillion Won AI Investment Push Signals Ecosystem Control",
-        "excerpt": "Nvidia, the No. 1 AI chip company, is using its strong cash-generating power to invest about 58 trillion won across the global AI ecosystem and expand its influence.",
-        "body": "Nvidia, the leading company in the artificial intelligence chip market, is continuing large-scale investments across the global AI ecosystem based on its powerful cash generation. According to the original report, the amount connected to Nvidia’s investments is cited at about 58 trillion won. The move goes beyond supplying hardware and is seen as an effort to expand influence across major companies and technology trends in the AI industry. As demand for AI chips grows, Nvidia’s cash strength is becoming a foundation for broader partnerships and investment. Where Nvidia allocates capital next is expected to be an important factor in global AI competition and supply-chain strategy. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "エヌビディアAI投資58兆ウォン規模、巨額資金で生態系主導へ",
-        "excerpt": "AIチップ市場首位のエヌビディアが、強力な現金創出力を背景に約58兆ウォン規模の投資を進め、世界のAI生態系で影響力拡大を図っている。",
-        "body": "人工知能（AI）チップ市場で首位に立つエヌビディアが、巨額の現金創出力を背景に、世界のAI生態系全般へ大規模投資を続けている。原文によると、エヌビディアが投資した規模は約58兆ウォン相当とされる。これは単なるハードウェア供給にとどまらず、AI産業の主要企業や技術潮流全般で影響力を広げようとする動きと解釈される。AIチップ需要が拡大する中、同社の資金力は協力関係と投資拡大の基盤になっている。今後どの企業に資金を振り向けるかは、世界AI市場の競争構図と供給網戦略にも重要な変数となる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "英伟达AI投资约58万亿韩元，凭雄厚现金扩大全球生态影响力",
-        "excerpt": "AI芯片市场第一的英伟达正依托强大现金创造能力，进行约58万亿韩元规模投资，以扩大其在全球AI生态中的主导权。",
-        "body": "人工智能（AI）芯片市场排名第一的英伟达，正凭借雄厚的现金创造能力，在全球AI生态系统中持续进行大规模投资。根据原文，英伟达相关投资规模被提及约为58万亿韩元。这一举措并不只是供应硬件，而被视为在AI产业主要企业和技术趋势中扩大影响力的行动。随着AI芯片需求增长，英伟达的现金调动能力正成为扩大合作和投资的基础。未来英伟达将资金投向哪些企业，预计也将成为影响全球AI市场竞争格局和供应链战略的重要变量。出处: mk.co.kr"
-      },
-      "es": {
-        "title": "Nvidia invierte unos 58 billones de wones y refuerza su poder en IA",
-        "excerpt": "Nvidia, líder del mercado de chips de IA, usa su fuerte capacidad de generar efectivo para invertir unos 58 billones de wones en el ecosistema global de inteligencia artificial.",
-        "body": "Nvidia, la empresa número uno del mercado de chips de inteligencia artificial, continúa realizando inversiones de gran escala en todo el ecosistema global de IA gracias a su enorme capacidad de generar efectivo. Según el texto original, el volumen asociado a sus inversiones se menciona en unos 58 billones de wones. La medida va más allá del suministro de hardware y se interpreta como un intento de ampliar su influencia sobre empresas clave y tendencias tecnológicas del sector. En medio del aumento de la demanda de chips de IA, la fortaleza financiera de Nvidia sirve de base para más cooperación e inversión. El destino de su capital será una variable relevante para la competencia global y la estrategia de suministro. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Nvidia investe cerca de 58 trilhões de won e amplia força no ecossistema de IA",
-        "excerpt": "Líder no mercado de chips de IA, a Nvidia usa sua forte geração de caixa para investir cerca de 58 trilhões de won no ecossistema global de inteligência artificial.",
-        "body": "A Nvidia, líder do mercado de chips de inteligência artificial, segue realizando investimentos de grande escala em todo o ecossistema global de IA com base em sua forte capacidade de geração de caixa. Segundo o texto original, o volume ligado aos investimentos da Nvidia é citado em cerca de 58 trilhões de won. O movimento vai além do fornecimento de hardware e é visto como uma tentativa de ampliar influência sobre empresas importantes e fluxos tecnológicos do setor de IA. Com a demanda por chips de IA em alta, a força de caixa da Nvidia sustenta mais parcerias e investimentos. Para quais empresas a Nvidia direcionará capital será um fator importante na competição global e nas estratégias de cadeia de suprimentos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Nvidia investiert rund 58 Billionen Won und stärkt Kontrolle im KI-Ökosystem",
-        "excerpt": "Nvidia, Marktführer bei KI-Chips, nutzt seine starke Cash-Generierung für Investitionen von rund 58 Billionen Won im globalen KI-Ökosystem und baut Einfluss aus.",
-        "body": "Nvidia, das führende Unternehmen im Markt für Chips für künstliche Intelligenz, setzt dank seiner starken Fähigkeit zur Cash-Generierung groß angelegte Investitionen im globalen KI-Ökosystem fort. Laut dem Originalbericht wird das mit Nvidias Investitionen verbundene Volumen mit rund 58 Billionen Won genannt. Der Schritt geht über die reine Lieferung von Hardware hinaus und gilt als Versuch, den Einfluss auf zentrale Unternehmen und technologische Entwicklungen der KI-Branche auszuweiten. Da die Nachfrage nach KI-Chips wächst, bildet Nvidias Finanzkraft die Grundlage für mehr Kooperationen und Investitionen. Wohin Nvidia künftig Kapital lenkt, dürfte ein wichtiger Faktor für den globalen KI-Wettbewerb und Lieferkettenstrategien werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Nvidia investit environ 58 billions de wons et étend son emprise sur l’IA",
-        "excerpt": "Nvidia, numéro un des puces d’IA, s’appuie sur sa forte génération de trésorerie pour investir environ 58 billions de wons dans l’écosystème mondial de l’intelligence artificielle.",
-        "body": "Nvidia, première entreprise du marché des puces d’intelligence artificielle, poursuit des investissements de grande ampleur dans l’ensemble de l’écosystème mondial de l’IA grâce à sa forte capacité de génération de trésorerie. Selon le texte original, le montant lié aux investissements de Nvidia est évoqué à environ 58 billions de wons. Cette démarche dépasse la simple fourniture de matériel et s’interprète comme une volonté d’élargir son influence sur les grandes entreprises et les tendances technologiques du secteur. Alors que la demande de puces d’IA augmente, la puissance financière de Nvidia soutient davantage de partenariats et d’investissements. Les prochaines allocations de capital de Nvidia devraient peser sur la concurrence mondiale et les stratégies de chaîne d’approvisionnement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إنفيديا تستثمر نحو 58 تريليون وون لتعزيز نفوذها في منظومة الذكاء الاصطناعي",
-        "excerpt": "تستخدم إنفيديا، المتصدرة لسوق رقائق الذكاء الاصطناعي، قدرتها الكبيرة على توليد النقد لتنفيذ استثمارات بنحو 58 تريليون وون عبر منظومة الذكاء الاصطناعي العالمية.",
-        "body": "تواصل إنفيديا، الشركة الأولى في سوق رقائق الذكاء الاصطناعي، تنفيذ استثمارات واسعة في مختلف أنحاء منظومة الذكاء الاصطناعي العالمية اعتمادا على قدرتها الكبيرة على توليد النقد. ووفقا للنص الأصلي، يشار إلى أن حجم الاستثمارات المرتبطة بإنفيديا يبلغ نحو 58 تريليون وون. ولا يقتصر هذا التحرك على توريد العتاد، بل ينظر إليه كمسعى لتوسيع النفوذ بين الشركات الرئيسية واتجاهات التكنولوجيا في صناعة الذكاء الاصطناعي. ومع نمو الطلب على رقائق الذكاء الاصطناعي، تشكل قوة إنفيديا النقدية قاعدة لتوسيع التعاون والاستثمار. ومن المتوقع أن يكون اتجاه توزيع أموالها عاملا مهما في المنافسة العالمية واستراتيجيات سلاسل الإمداد. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "एनवीडिया का 58 ट्रिलियन वॉन AI निवेश, नकदी ताकत से इकोसिस्टम पर पकड़",
-        "excerpt": "AI चिप बाजार की शीर्ष कंपनी एनवीडिया अपनी मजबूत नकदी सृजन क्षमता के आधार पर वैश्विक AI इकोसिस्टम में करीब 58 ट्रिलियन वॉन का निवेश कर प्रभाव बढ़ा रही है।",
-        "body": "कृत्रिम बुद्धिमत्ता (AI) चिप बाजार की नंबर एक कंपनी एनवीडिया अपनी विशाल नकदी सृजन क्षमता के आधार पर वैश्विक AI इकोसिस्टम में बड़े पैमाने पर निवेश जारी रखे हुए है। मूल रिपोर्ट के अनुसार, एनवीडिया से जुड़े निवेश का आकार लगभग 58 ट्रिलियन वॉन बताया गया है। यह कदम केवल हार्डवेयर आपूर्ति से आगे बढ़कर AI उद्योग की प्रमुख कंपनियों और तकनीकी रुझानों में प्रभाव बढ़ाने की कोशिश के रूप में देखा जा रहा है। AI चिप की मांग बढ़ने के बीच एनवीडिया की नकदी ताकत सहयोग और निवेश विस्तार का आधार बन रही है। आगे कंपनी किन उद्यमों में पूंजी लगाएगी, यह वैश्विक AI बाजार की प्रतिस्पर्धा और आपूर्ति श्रृंखला रणनीति के लिए अहम कारक होगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Investasi AI Nvidia Capai 58 Triliun Won, Perkuat Pengaruh Ekosistem",
-        "excerpt": "Nvidia, pemimpin pasar chip AI, memakai kemampuan menghasilkan kas yang besar untuk berinvestasi sekitar 58 triliun won di ekosistem AI global dan memperluas pengaruhnya.",
-        "body": "Nvidia, perusahaan nomor satu di pasar chip kecerdasan buatan, terus melakukan investasi berskala besar di seluruh ekosistem AI global dengan mengandalkan kemampuan menghasilkan kas yang kuat. Menurut teks asli, nilai investasi yang dikaitkan dengan Nvidia disebut sekitar 58 triliun won. Langkah ini melampaui peran sebagai pemasok perangkat keras dan dipandang sebagai upaya memperluas pengaruh di antara perusahaan utama serta arah teknologi industri AI. Saat permintaan chip AI meningkat, kekuatan kas Nvidia menjadi dasar bagi perluasan kerja sama dan investasi. Ke mana Nvidia menempatkan modal berikutnya diperkirakan menjadi faktor penting dalam peta persaingan AI global dan strategi rantai pasok. Sumber: mk.co.kr"
       }
     }
   }
