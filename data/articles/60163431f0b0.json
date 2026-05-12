@@ -1,0 +1,75 @@
+{
+  "id": "60163431f0b0",
+  "slug": "지구엔-자리가-없다빅테크-ai-전쟁터-우주로-향하는-이유-151958",
+  "channelId": "FX",
+  "category": "fx",
+  "publishedAt": "2026-05-12T19:32:37.161Z",
+  "updatedAt": "2026-05-12T19:32:37.162Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/business/12044808",
+  "canonicalUrl": "https://www.mk.co.kr/news/business/12044808",
+  "titleFingerprint": "7c349256bfff5abf98eb8b179ba1c4bf4428f758",
+  "dedupKeys": [
+    "60163431f0b0eb8d4640ac3abd2fc26ba89bedba",
+    "7c349256bfff5abf98eb8b179ba1c4bf4428f758",
+    "5a0851a203d7cba53dd86f6a72370367b91c1bb6"
+  ],
+  "imageUrl": "/images/articles/60163431f0b0.jpg",
+  "i18n": {
+    "ko": {
+      "title": "우주 데이터센터 경쟁, 빅테크가 AI 인프라를 지구 밖으로 보는 이유",
+      "excerpt": "AI 확산으로 전기·물·부지 부담이 커지자 빅테크가 24시간 태양광과 낮은 온도 조건을 활용할 우주 데이터센터 구상을 검토하고 있다.",
+      "body": "AI 데이터센터 수요가 급증하면서 빅테크의 인프라 경쟁이 지구 밖으로 향하고 있다. 지상에서는 전기와 물, 부지 확보 부담이 커지고 있어 컴퓨팅 설비를 우주로 올리는 구상이 주목받는다. 핵심은 24시간 태양광을 활용할 수 있고 낮은 온도 조건을 기대할 수 있는 우주 환경이다. 다만 우주 데이터센터는 발사·운영 비용, 장비 유지, 데이터 전송 등 해결해야 할 과제가 남아 있다. AI 전쟁이 인프라 경쟁으로 번지는 가운데, 우주는 새로운 선택지로 거론된다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Space Data Centers: Why Big Tech Is Looking Beyond Earth for AI Infrastructure",
+      "excerpt": "As AI expands and pressure grows on power, water and land, Big Tech is reviewing space data centers that could use round-the-clock solar energy and cold conditions.",
+      "body": "As demand for AI data centers rises, Big Tech’s infrastructure race is moving beyond Earth. On the ground, securing electricity, water and land is becoming more difficult, drawing attention to the idea of sending computing facilities into space. The key appeal is an orbital environment where solar power can be available around the clock and low-temperature conditions may help with cooling. Still, space data centers face major issues, including launch and operating costs, equipment maintenance and data transmission. As the AI race becomes an infrastructure race, space is being discussed as a new option. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "宇宙データセンター競争、ビッグテックがAI基盤を地球外に見る理由",
+      "excerpt": "AIの拡大で電力・水・用地の負担が増す中、ビッグテックは24時間太陽光と低温条件を活用できる宇宙データセンター構想を検討している。",
+      "body": "AIデータセンター需要の急増を受け、ビッグテックのインフラ競争は地球の外へ向かっている。地上では電力、水、用地の確保が重い課題となり、コンピューティング設備を宇宙へ送る構想が注目されている。焦点は、24時間太陽光を利用でき、低温条件も期待できる宇宙環境だ。ただし宇宙データセンターには、打ち上げ・運用コスト、機器の保守、データ送信など解決すべき課題が残る。AI競争がインフラ競争へ広がる中、宇宙は新たな選択肢として語られている。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "太空数据中心竞赛：科技巨头为何把AI基础设施看向地球之外",
+      "excerpt": "随着AI扩张推高电力、水和土地压力，科技巨头正评估利用全天候太阳能和低温条件的太空数据中心设想。",
+      "body": "随着AI数据中心需求快速增加，科技巨头的基础设施竞争正走向地球之外。在地面上，电力、水和土地的获取压力不断上升，因此把计算设施送入太空的构想受到关注。其核心吸引力在于太空环境可利用24小时太阳能，并有望借助低温条件缓解冷却负担。不过，太空数据中心仍面临发射和运营成本、设备维护、数据传输等难题。随着AI竞争延伸为基础设施竞争，太空正被视为新的选项。来源：mk.co.kr"
+    },
+    "es": {
+      "title": "Centros de datos espaciales: por qué Big Tech mira fuera de la Tierra para la IA",
+      "excerpt": "Con el avance de la IA y la presión sobre electricidad, agua y suelo, Big Tech evalúa centros de datos espaciales con sol continuo y bajas temperaturas.",
+      "body": "La creciente demanda de centros de datos para IA está llevando la carrera de infraestructura de Big Tech más allá de la Tierra. En tierra, conseguir electricidad, agua y espacio se vuelve cada vez más difícil, por lo que gana atención la idea de enviar instalaciones de computación al espacio. El atractivo central es un entorno con energía solar disponible las 24 horas y condiciones de baja temperatura que podrían ayudar a la refrigeración. Aun así, los centros de datos espaciales enfrentan retos como costos de lanzamiento y operación, mantenimiento de equipos y transmisión de datos. En una carrera de IA cada vez más ligada a infraestructura, el espacio surge como una opción. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Data centers espaciais: por que as big techs olham além da Terra para a IA",
+      "excerpt": "Com a expansão da IA e a pressão sobre energia, água e terrenos, big techs avaliam data centers espaciais com sol contínuo e baixas temperaturas.",
+      "body": "A alta demanda por data centers de IA está levando a disputa de infraestrutura das big techs para além da Terra. No solo, a obtenção de eletricidade, água e áreas adequadas se torna mais difícil, o que chama atenção para a ideia de enviar instalações de computação ao espaço. O principal atrativo é um ambiente com energia solar 24 horas por dia e condições de baixa temperatura que podem ajudar no resfriamento. Ainda assim, data centers espaciais enfrentam desafios como custos de lançamento e operação, manutenção de equipamentos e transmissão de dados. À medida que a corrida da IA vira uma corrida por infraestrutura, o espaço passa a ser citado como nova alternativa. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Weltraum-Rechenzentren: Warum Big Tech KI-Infrastruktur jenseits der Erde prüft",
+      "excerpt": "Mit dem KI-Boom wachsen Engpässe bei Strom, Wasser und Flächen. Big Tech prüft Weltraum-Rechenzentren mit dauerhafter Solarenergie und Kältebedingungen.",
+      "body": "Die steigende Nachfrage nach KI-Rechenzentren treibt den Infrastrukturwettlauf der Big-Tech-Konzerne über die Erde hinaus. Am Boden werden Strom, Wasser und geeignete Flächen zunehmend knapp, weshalb die Idee, Rechenanlagen ins All zu bringen, Aufmerksamkeit erhält. Der Kern des Konzepts ist eine Umgebung, in der Solarenergie rund um die Uhr verfügbar ist und niedrige Temperaturen bei der Kühlung helfen könnten. Dennoch stehen Weltraum-Rechenzentren vor offenen Fragen wie Start- und Betriebskosten, Wartung der Geräte und Datenübertragung. Während der KI-Wettlauf stärker zum Infrastrukturwettlauf wird, gilt der Weltraum als neue Option. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Centres de données spatiaux : pourquoi la Big Tech regarde au-delà de la Terre pour l’IA",
+      "excerpt": "Avec l’essor de l’IA et la pression sur l’électricité, l’eau et le foncier, la Big Tech étudie des centres de données spatiaux alimentés par le soleil continu.",
+      "body": "La demande croissante de centres de données pour l’IA pousse la course aux infrastructures de la Big Tech au-delà de la Terre. Au sol, l’accès à l’électricité, à l’eau et aux terrains devient plus contraint, ce qui attire l’attention sur l’idée d’envoyer des installations de calcul dans l’espace. L’intérêt principal tient à un environnement où l’énergie solaire peut être disponible 24 heures sur 24 et où des conditions de basse température pourraient aider au refroidissement. Mais les centres de données spatiaux doivent encore résoudre les coûts de lancement et d’exploitation, la maintenance des équipements et la transmission des données. Alors que la course à l’IA devient aussi une course aux infrastructures, l’espace est évoqué comme une nouvelle option. Source : mk.co.kr"
+    },
+    "ar": {
+      "title": "مراكز بيانات في الفضاء: لماذا تنظر شركات التقنية الكبرى خارج الأرض لبناء بنية الذكاء الاصطناعي",
+      "excerpt": "مع توسع الذكاء الاصطناعي وتزايد الضغط على الكهرباء والمياه والأراضي، تدرس شركات التقنية الكبرى مراكز بيانات فضائية تستفيد من شمس دائمة وبرودة منخفضة.",
+      "body": "مع ارتفاع الطلب على مراكز بيانات الذكاء الاصطناعي، تتجه منافسة البنية التحتية لدى شركات التقنية الكبرى إلى خارج الأرض. فعلى الأرض تزداد صعوبة تأمين الكهرباء والمياه والمساحات، لذلك يلفت الانتباه تصور نقل منشآت الحوسبة إلى الفضاء. الفكرة الأساسية هي الاستفادة من بيئة تتيح طاقة شمسية على مدار 24 ساعة وظروف حرارة منخفضة قد تساعد في التبريد. مع ذلك، ما زالت مراكز البيانات الفضائية تواجه تحديات مثل تكاليف الإطلاق والتشغيل، وصيانة المعدات، ونقل البيانات. ومع تحول سباق الذكاء الاصطناعي إلى سباق بنية تحتية، يطرح الفضاء كخيار جديد. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "स्पेस डेटा सेंटर की दौड़: AI इन्फ्रास्ट्रक्चर के लिए बिग टेक धरती से बाहर क्यों देख रही है",
+      "excerpt": "AI के विस्तार से बिजली, पानी और जमीन पर दबाव बढ़ने के बीच बिग टेक 24 घंटे सौर ऊर्जा और ठंडी स्थितियों वाले स्पेस डेटा सेंटर पर विचार कर रही है।",
+      "body": "AI डेटा सेंटर की मांग तेजी से बढ़ने के साथ बिग टेक की इन्फ्रास्ट्रक्चर प्रतिस्पर्धा धरती से बाहर की ओर जा रही है। जमीन पर बिजली, पानी और जगह जुटाना कठिन होता जा रहा है, इसलिए कंप्यूटिंग सुविधाओं को अंतरिक्ष में भेजने का विचार ध्यान खींच रहा है। इसका मुख्य आधार ऐसा अंतरिक्ष वातावरण है जहां 24 घंटे सौर ऊर्जा मिल सकती है और कम तापमान वाली स्थितियां कूलिंग में मदद कर सकती हैं। फिर भी स्पेस डेटा सेंटर के सामने लॉन्च और संचालन लागत, उपकरण रखरखाव और डेटा ट्रांसमिशन जैसी चुनौतियां हैं। AI की दौड़ जब इन्फ्रास्ट्रक्चर की दौड़ बन रही है, तब अंतरिक्ष एक नए विकल्प के रूप में सामने आ रहा है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Data Center Antariksa: Mengapa Big Tech Melihat ke Luar Bumi untuk Infrastruktur AI",
+      "excerpt": "Saat AI meluas dan tekanan pada listrik, air, serta lahan meningkat, Big Tech meninjau data center antariksa dengan tenaga surya 24 jam dan suhu rendah.",
+      "body": "Kenaikan permintaan data center AI membuat persaingan infrastruktur Big Tech mengarah ke luar Bumi. Di darat, kebutuhan listrik, air, dan lahan semakin menjadi beban, sehingga gagasan mengirim fasilitas komputasi ke antariksa mulai mendapat perhatian. Daya tarik utamanya adalah lingkungan orbit yang dapat memanfaatkan tenaga surya selama 24 jam dan kondisi suhu rendah yang diharapkan membantu pendinginan. Namun data center antariksa masih menghadapi persoalan biaya peluncuran dan operasi, perawatan perangkat, serta transmisi data. Ketika persaingan AI meluas menjadi persaingan infrastruktur, antariksa disebut sebagai pilihan baru. Sumber: mk.co.kr"
+    }
+  }
+}
