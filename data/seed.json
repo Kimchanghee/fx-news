@@ -1,5 +1,230 @@
 [
   {
+    "id": "4c15cb14c8ae",
+    "slug": "속보-코스피-168-오른-795341-개장사상-첫-7900선-돌파-817260",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T00:35:39.040Z",
+    "updatedAt": "2026-05-12T00:35:39.040Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051298046",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051298046",
+    "titleFingerprint": "a3e56d774ffbfa681e6e98cc79539fd79a1c3e54",
+    "dedupKeys": [
+      "4c15cb14c8ae919657fd00cfa381f5ff2b21f60b",
+      "a3e56d774ffbfa681e6e98cc79539fd79a1c3e54",
+      "35d12844500f87eb4efa64c59558e7fffe9fe822"
+    ],
+    "imageUrl": "/images/articles/4c15cb14c8ae.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7953.41 개장, 1.68% 상승하며 사상 첫 7900선 돌파",
+        "excerpt": "코스피가 개장과 함께 1.68% 오른 7953.41을 기록하며 사상 처음으로 7900선을 넘어섰다고 hankyung.com이 전했습니다.",
+        "body": "코스피가 개장 직후 1.68% 상승한 7953.41로 출발하며 사상 처음으로 7900선을 돌파했다. 이번 개장 수치는 국내 증시의 대표 지수인 코스피가 장 초반부터 강한 상승 흐름을 보였다는 점에서 시장의 주목을 받고 있다. 원문에 따르면 코스피는 7900선을 처음 넘어섰고, 개장 지수는 7953.41로 제시됐다. 다만 요약 정보에는 상승 배경이나 개별 업종, 투자 주체별 매매 동향 등 추가 수치는 포함되지 않았다. 향후 시장은 장중 지수 흐름과 7900선 안착 여부를 확인할 것으로 보인다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "KOSPI Opens at 7,953.41, Up 1.68%, Breaking 7,900 for First Time",
+        "excerpt": "The KOSPI opened 1.68% higher at 7,953.41, surpassing the 7,900 mark for the first time, according to hankyung.com.",
+        "body": "The KOSPI opened at 7,953.41, up 1.68%, breaking above the 7,900 mark for the first time. The opening figure drew attention because South Korea’s benchmark stock index showed a strong rise from the start of trading. According to the original report, the KOSPI crossed 7,900 for the first time, with the opening level stated at 7,953.41. The summary did not include additional details on the reasons for the rise, sector moves, or trading by investor group. Markets are expected to watch the intraday trend and whether the index can hold above 7,900. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "韓国KOSPI、1.68%高の7953.41で開始し初の7900台突破",
+        "excerpt": "韓国総合株価指数KOSPIは寄り付きで1.68%上昇し7953.41を記録、史上初めて7900台を突破したとhankyung.comが伝えました。",
+        "body": "韓国総合株価指数KOSPIは寄り付き直後、1.68%上昇の7953.41で取引を開始し、史上初めて7900台を突破した。今回の寄り付き水準は、韓国株式市場の代表指数が取引開始時点から強い上昇を示した点で注目されている。原文によると、KOSPIは初めて7900台に乗せ、寄り付き指数は7953.41と示された。ただし要約情報には、上昇の背景、個別業種、投資主体別の売買動向などの追加数値は含まれていない。今後は日中の指数推移と7900台定着の有無が確認される見通しだ。出典: hankyung.com。"
+      },
+      "zh": {
+        "title": "韩国KOSPI开盘涨1.68%至7953.41，首次突破7900点",
+        "excerpt": "据hankyung.com报道，韩国KOSPI指数开盘上涨1.68%至7953.41，历史上首次突破7900点关口。",
+        "body": "韩国KOSPI指数开盘后上涨1.68%，报7953.41点，历史上首次突破7900点关口。这一开盘数据受到市场关注，因为作为韩国股市代表性指数的KOSPI在交易初期即显示出强劲上涨势头。根据原文，KOSPI首次越过7900点，开盘指数为7953.41。摘要信息未包含上涨背景、具体行业表现或不同投资主体交易动向等更多数据。后续市场将关注盘中指数走势，以及该指数能否站稳7900点上方。来源: hankyung.com。"
+      },
+      "es": {
+        "title": "KOSPI abre en 7.953,41, sube 1,68% y supera por primera vez los 7.900",
+        "excerpt": "El KOSPI abrió con un alza del 1,68% hasta 7.953,41 y superó por primera vez la barrera de 7.900, informó hankyung.com.",
+        "body": "El KOSPI abrió en 7.953,41 puntos, con un avance del 1,68%, superando por primera vez la barrera de los 7.900. La cifra de apertura llamó la atención porque el índice de referencia del mercado surcoreano mostró una fuerte subida desde el inicio de la sesión. Según el reporte original, el KOSPI cruzó por primera vez el nivel de 7.900 y el dato de apertura fue 7.953,41. El resumen no incluyó detalles adicionales sobre las causas del alza, sectores concretos ni movimientos por tipo de inversor. El mercado seguirá observando la evolución intradía y si el índice logra mantenerse sobre 7.900. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "KOSPI abre a 7.953,41, sobe 1,68% e supera 7.900 pela primeira vez",
+        "excerpt": "O KOSPI abriu em alta de 1,68%, aos 7.953,41 pontos, superando pela primeira vez a marca de 7.900, informou o hankyung.com.",
+        "body": "O KOSPI abriu aos 7.953,41 pontos, em alta de 1,68%, superando pela primeira vez a marca de 7.900. O nível de abertura chamou atenção porque o principal índice acionário da Coreia do Sul mostrou forte avanço desde o início da sessão. Segundo a reportagem original, o KOSPI cruzou 7.900 pela primeira vez, com abertura indicada em 7.953,41. O resumo não trouxe detalhes adicionais sobre os motivos da alta, desempenho setorial ou movimentos por tipo de investidor. O mercado deve acompanhar a trajetória intradiária e verificar se o índice se mantém acima de 7.900. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "KOSPI startet bei 7.953,41, plus 1,68%, erstmals über 7.900 Punkten",
+        "excerpt": "Der KOSPI eröffnete 1,68% höher bei 7.953,41 Punkten und überschritt erstmals die Marke von 7.900, berichtete hankyung.com.",
+        "body": "Der KOSPI eröffnete bei 7.953,41 Punkten und lag damit 1,68% im Plus. Damit überschritt der südkoreanische Leitindex erstmals die Marke von 7.900 Punkten. Der Eröffnungsstand sorgte für Aufmerksamkeit, weil der Index bereits zu Handelsbeginn eine deutliche Aufwärtsbewegung zeigte. Laut Originalmeldung wurde der erste Sprung über 7.900 verzeichnet, der Eröffnungswert lag bei 7.953,41. Weitere Angaben zu den Gründen des Anstiegs, zu einzelnen Branchen oder zu Handelsströmen nach Anlegergruppen enthielt die Zusammenfassung nicht. Beobachtet wird nun der weitere Tagesverlauf und ob der Index über 7.900 bleiben kann. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Le KOSPI ouvre à 7 953,41, en hausse de 1,68%, premier passage au-dessus de 7 900",
+        "excerpt": "Le KOSPI a ouvert en hausse de 1,68% à 7 953,41 points, franchissant pour la première fois le seuil de 7 900, selon hankyung.com.",
+        "body": "Le KOSPI a ouvert à 7 953,41 points, en hausse de 1,68%, franchissant pour la première fois le seuil de 7 900. Ce niveau d’ouverture retient l’attention, car l’indice de référence du marché sud-coréen a affiché une forte progression dès le début de la séance. Selon l’article original, le KOSPI a dépassé 7 900 pour la première fois, avec un niveau d’ouverture indiqué à 7 953,41. Le résumé ne fournit pas d’autres données sur les raisons de la hausse, les secteurs concernés ou les flux par catégorie d’investisseurs. Le marché suivra désormais l’évolution intrajournalière et la capacité de l’indice à rester au-dessus de 7 900. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "مؤشر كوسبي يفتتح عند 7953.41 مرتفعا 1.68% ويتجاوز 7900 لأول مرة",
+        "excerpt": "افتتح مؤشر كوسبي مرتفعا 1.68% عند 7953.41 نقطة، متجاوزا مستوى 7900 للمرة الأولى في تاريخه، بحسب hankyung.com.",
+        "body": "افتتح مؤشر كوسبي عند 7953.41 نقطة، مرتفعا 1.68%، ليتجاوز مستوى 7900 للمرة الأولى في تاريخه. وقد لفت رقم الافتتاح الانتباه لأن المؤشر الرئيسي لسوق الأسهم في كوريا الجنوبية أظهر صعودا قويا منذ بداية التداول. ووفقا للتقرير الأصلي، تجاوز كوسبي مستوى 7900 لأول مرة، وسجل الافتتاح 7953.41 نقطة. ولم تتضمن المعلومات الموجزة تفاصيل إضافية عن أسباب الارتفاع أو أداء القطاعات أو اتجاهات التداول حسب فئات المستثمرين. ومن المتوقع أن تتابع السوق حركة المؤشر خلال الجلسة وما إذا كان سيحافظ على مستوى أعلى من 7900. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "KOSPI 7,953.41 पर खुला, 1.68% उछलकर पहली बार 7,900 के पार",
+        "excerpt": "hankyung.com के अनुसार, KOSPI 1.68% बढ़कर 7,953.41 पर खुला और इतिहास में पहली बार 7,900 के स्तर से ऊपर निकल गया।",
+        "body": "KOSPI 1.68% की बढ़त के साथ 7,953.41 पर खुला और पहली बार 7,900 के स्तर को पार कर गया। यह शुरुआती आंकड़ा इसलिए ध्यान में आया क्योंकि दक्षिण कोरिया के प्रमुख शेयर सूचकांक ने कारोबार की शुरुआत से ही मजबूत बढ़त दिखाई। मूल रिपोर्ट के अनुसार, KOSPI पहली बार 7,900 के ऊपर गया और शुरुआती स्तर 7,953.41 बताया गया। सारांश में बढ़त के कारण, अलग-अलग क्षेत्रों के प्रदर्शन या निवेशक समूहों के हिसाब से कारोबार के रुझान जैसे अतिरिक्त आंकड़े शामिल नहीं थे। बाजार अब दिन के दौरान सूचकांक की चाल और 7,900 से ऊपर टिके रहने की स्थिति पर नजर रखेगा। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "KOSPI Dibuka 7.953,41, Naik 1,68% dan Pertama Kali Tembus 7.900",
+        "excerpt": "KOSPI dibuka naik 1,68% ke 7.953,41 dan untuk pertama kalinya menembus level 7.900, menurut laporan hankyung.com.",
+        "body": "KOSPI dibuka di 7.953,41, naik 1,68%, sekaligus menembus level 7.900 untuk pertama kalinya. Angka pembukaan ini menarik perhatian karena indeks acuan pasar saham Korea Selatan menunjukkan kenaikan kuat sejak awal perdagangan. Menurut laporan asli, KOSPI pertama kali melewati 7.900, dengan level pembukaan tercatat 7.953,41. Ringkasan tidak memuat rincian tambahan mengenai penyebab kenaikan, pergerakan sektor tertentu, atau transaksi berdasarkan kelompok investor. Pasar selanjutnya akan mencermati pergerakan intrahari dan apakah indeks mampu bertahan di atas 7.900. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "94e8036a0385",
+    "slug": "ai-수혜주-팔란티어-ai에-흔들린다-653866",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T00:34:42.671Z",
+    "updatedAt": "2026-05-12T00:34:42.671Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605129738i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605129738i",
+    "titleFingerprint": "8ac82efd3f4355762beebadf53d7cfa881ba8433",
+    "dedupKeys": [
+      "94e8036a038535fad75c214687552861cb8bb7c3",
+      "8ac82efd3f4355762beebadf53d7cfa881ba8433",
+      "7b66d10f739d24827918730f9413ccb34a281392"
+    ],
+    "imageUrl": "/images/articles/94e8036a0385.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 수혜주 팔란티어, AI 변수에 흔들린다…투자심리 재점검",
+        "excerpt": "hankyung.com은 AI 수혜주로 주목받아온 팔란티어가 오히려 AI 변수에 흔들리고 있다는 내용을 전하며 관련 투자심리와 시장 평가 변화에 주목했다.",
+        "body": "AI 수혜주로 분류돼온 팔란티어가 AI라는 같은 변수에 흔들리고 있다는 보도가 나왔다. hankyung.com은 ‘AI 수혜주 팔란티어, AI에 흔들린다’는 제목으로 팔란티어를 둘러싼 시장 평가 변화에 주목했다. 팔란티어는 인공지능 관련 기대감 속에서 대표 수혜주로 거론돼왔지만, 이번 보도는 AI가 더 이상 일방적인 호재로만 받아들여지지 않을 수 있다는 점을 시사한다. 다만 원문에 구체적인 수치나 세부 요약은 제시되지 않았다. 투자자들은 AI 기대가 주가와 기업 평가에 미치는 영향을 다시 점검할 필요가 있다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Palantir, an AI beneficiary stock, is shaken by the AI variable",
+        "excerpt": "hankyung.com reported that Palantir, long viewed as a beneficiary of the AI theme, is now being shaken by the same AI factor, drawing attention to investor sentiment and market reassessment.",
+        "body": "Palantir, often categorized as a beneficiary of the artificial intelligence theme, is facing pressure from the same AI variable, according to a report. hankyung.com highlighted the shift in market perception with the headline, “Palantir, an AI beneficiary stock, is shaken by AI.” The company has been discussed as a representative AI-related winner, but the report suggests AI may no longer be seen only as a one-way positive factor. The original item did not provide specific figures or a detailed summary. Investors may need to reassess how AI expectations affect Palantir’s share price and valuation. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "AI恩恵株パランティア、AI要因で揺れる市場評価に注目",
+        "excerpt": "hankyung.comは、AI恩恵株として注目されてきたパランティアが、逆にAI要因で揺れていると伝え、投資心理と市場評価の変化に焦点を当てた。",
+        "body": "人工知能の恩恵株とされてきたパランティアが、同じAIという要因によって揺れているとの報道が出た。hankyung.comは「AI恩恵株パランティア、AIに揺れる」という趣旨の見出しで、同社をめぐる市場評価の変化に注目した。パランティアはAI関連の期待の中で代表的な受益銘柄として語られてきたが、今回の報道はAIが一方的な好材料としてだけ受け止められない可能性を示している。ただし原文には具体的な数値や詳細な要約は示されていない。投資家はAI期待が株価と企業評価に与える影響を再点検する必要がある。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "AI受益股Palantir反被AI变量撼动，市场评价再受关注",
+        "excerpt": "hankyung.com报道称，长期被视为AI受益股的Palantir如今反而受到AI变量影响，引发市场对投资情绪和估值变化的关注。",
+        "body": "据报道，一直被归类为人工智能受益股的Palantir，正受到同一个AI变量的冲击。hankyung.com以“AI受益股Palantir，被AI动摇”为题，关注围绕Palantir的市场评价变化。Palantir过去在AI相关期待中被视为代表性受益标的，但该报道显示，AI未必只会被市场单向解读为利好。不过，原文未提供具体数据或更详细摘要。投资者需要重新审视AI预期对Palantir股价和企业评价的影响。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Palantir, acción beneficiada por la IA, se tambalea por la misma IA",
+        "excerpt": "hankyung.com informó que Palantir, vista como una acción beneficiada por la IA, ahora se ve sacudida por ese mismo factor, centrando la atención en el ánimo inversor y la valoración del mercado.",
+        "body": "Palantir, considerada una acción beneficiada por el auge de la inteligencia artificial, estaría siendo sacudida por la misma variable de la IA, según un reporte. hankyung.com destacó el cambio de percepción del mercado con el título “Palantir, acción beneficiada por la IA, se tambalea por la IA”. La compañía ha sido mencionada como una de las beneficiarias representativas de las expectativas ligadas a la IA, pero el reporte sugiere que la IA ya no necesariamente se interpreta solo como un factor positivo. El texto original no incluyó cifras concretas ni un resumen detallado. Los inversores deben revisar cómo las expectativas sobre IA afectan la cotización y valoración de Palantir. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Palantir, ação beneficiada pela IA, é abalada pelo próprio fator IA",
+        "excerpt": "O hankyung.com informou que a Palantir, vista como beneficiária da IA, agora é pressionada pelo mesmo fator, chamando atenção para o sentimento dos investidores e a reavaliação do mercado.",
+        "body": "A Palantir, frequentemente classificada como uma ação beneficiada pela inteligência artificial, está sendo abalada pela mesma variável da IA, segundo uma reportagem. O hankyung.com destacou a mudança de percepção do mercado com o título “Palantir, ação beneficiada pela IA, é abalada pela IA”. A empresa vinha sendo citada como uma das principais beneficiárias das expectativas ligadas à IA, mas a reportagem sugere que a tecnologia pode não ser vista apenas como um fator positivo unilateral. O texto original não apresentou números específicos nem resumo detalhado. Investidores devem reavaliar como as expectativas de IA afetam o preço das ações e a avaliação da Palantir. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Palantir als KI-Profiteur gerät durch den KI-Faktor unter Druck",
+        "excerpt": "hankyung.com berichtete, dass Palantir, lange als Profiteur des KI-Trends gesehen, nun durch denselben KI-Faktor ins Wanken gerät und Marktstimmung sowie Bewertung neu betrachtet werden.",
+        "body": "Palantir, bisher häufig als Profiteur des Trends rund um künstliche Intelligenz eingeordnet, steht laut einem Bericht nun durch denselben KI-Faktor unter Druck. hankyung.com verwies mit der Überschrift „KI-Profiteur Palantir wird durch KI erschüttert“ auf eine veränderte Markteinschätzung. Das Unternehmen wurde im Umfeld der KI-Erwartungen als repräsentativer Nutznießer genannt, doch der Bericht deutet an, dass KI nicht mehr nur als einseitig positiver Faktor wahrgenommen werden könnte. Konkrete Zahlen oder eine ausführliche Zusammenfassung wurden im Ausgangstext nicht genannt. Anleger sollten prüfen, wie KI-Erwartungen Kurs und Bewertung von Palantir beeinflussen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Palantir, valeur portée par l’IA, fragilisée par ce même facteur IA",
+        "excerpt": "hankyung.com rapporte que Palantir, longtemps considérée comme une bénéficiaire de l’IA, est désormais secouée par ce même facteur, ce qui attire l’attention sur le sentiment des investisseurs.",
+        "body": "Palantir, souvent classée parmi les valeurs bénéficiaires de l’intelligence artificielle, serait désormais fragilisée par ce même facteur, selon un article. hankyung.com a mis en avant l’évolution de la perception du marché avec le titre « Palantir, valeur bénéficiaire de l’IA, ébranlée par l’IA ». L’entreprise a été citée comme un bénéficiaire représentatif des attentes liées à l’IA, mais l’article suggère que l’IA pourrait ne plus être perçue uniquement comme un facteur favorable. Le texte original ne fournit pas de chiffres précis ni de résumé détaillé. Les investisseurs doivent réexaminer l’effet des attentes autour de l’IA sur le cours et la valorisation de Palantir. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "بالانتير المستفيدة من الذكاء الاصطناعي تهتز بفعل العامل نفسه",
+        "excerpt": "أفاد hankyung.com بأن بالانتير، التي عُدت من الأسهم المستفيدة من الذكاء الاصطناعي، باتت تتأثر بالعامل نفسه، ما يلفت الانتباه إلى معنويات المستثمرين وتقييم السوق.",
+        "body": "أشار تقرير إلى أن بالانتير، التي صُنفت طويلا كسهم مستفيد من الذكاء الاصطناعي، تتعرض الآن لضغوط من العامل نفسه. وركز hankyung.com على تغير نظرة السوق بعنوان يفيد بأن “بالانتير، سهم مستفيد من الذكاء الاصطناعي، تهتز بفعل الذكاء الاصطناعي”. فقد ارتبط اسم الشركة بتوقعات إيجابية حول الذكاء الاصطناعي، لكن التقرير يوحي بأن هذا العامل قد لا يُنظر إليه دائما كدافع إيجابي أحادي الاتجاه. ولم يورد النص الأصلي أرقاما محددة أو ملخصا تفصيليا. لذلك يحتاج المستثمرون إلى إعادة تقييم أثر توقعات الذكاء الاصطناعي في سعر سهم بالانتير وتقييمها. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "AI लाभार्थी शेयर Palantir अब उसी AI कारक से दबाव में",
+        "excerpt": "hankyung.com ने बताया कि AI लाभार्थी शेयर माने जाने वाले Palantir पर अब वही AI कारक दबाव डाल रहा है, जिससे निवेशक भावना और बाजार मूल्यांकन पर ध्यान गया है।",
+        "body": "कृत्रिम बुद्धिमत्ता से लाभ पाने वाले शेयर के रूप में देखे जाने वाले Palantir पर अब उसी AI कारक से दबाव पड़ रहा है, ऐसी रिपोर्ट सामने आई है। hankyung.com ने “AI लाभार्थी Palantir, AI से हिल रहा है” शीर्षक के साथ कंपनी को लेकर बाजार की बदलती धारणा पर ध्यान दिया। Palantir को AI अपेक्षाओं के बीच प्रमुख लाभार्थी के रूप में चर्चा मिली है, लेकिन रिपोर्ट संकेत देती है कि AI को अब केवल एकतरफा सकारात्मक कारक के रूप में नहीं देखा जा सकता। मूल पाठ में कोई विशिष्ट आंकड़े या विस्तृत सारांश नहीं दिए गए। निवेशकों को यह फिर से परखना होगा कि AI अपेक्षाएं Palantir के शेयर मूल्य और मूल्यांकन को कैसे प्रभावित करती हैं। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Palantir, saham penerima manfaat AI, terguncang oleh faktor AI",
+        "excerpt": "hankyung.com melaporkan bahwa Palantir, yang selama ini dipandang sebagai saham penerima manfaat AI, kini terguncang oleh faktor yang sama, menyoroti sentimen investor dan penilaian pasar.",
+        "body": "Palantir, yang kerap dikategorikan sebagai saham penerima manfaat dari kecerdasan buatan, dilaporkan kini terguncang oleh variabel AI yang sama. hankyung.com menyoroti perubahan penilaian pasar dengan judul “Saham penerima manfaat AI Palantir terguncang oleh AI”. Perusahaan ini selama ini disebut sebagai salah satu penerima manfaat utama dari ekspektasi terkait AI, tetapi laporan tersebut menunjukkan bahwa AI mungkin tidak lagi dipandang hanya sebagai faktor positif satu arah. Teks asli tidak memuat angka spesifik atau ringkasan rinci. Investor perlu meninjau kembali bagaimana ekspektasi AI memengaruhi harga saham dan valuasi Palantir. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "8c13f43fccdb",
+    "slug": "한온시스템-2026-채용-연계형-인턴-모집-내일은-직장인-686046",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-12T00:33:34.035Z",
+    "updatedAt": "2026-05-12T00:33:34.036Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044250",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044250",
+    "titleFingerprint": "8544cfa8942a49f3989b972efb7bff74d98f1a97",
+    "dedupKeys": [
+      "8c13f43fccdb506191775336d7e2605b3eb4e9c7",
+      "8544cfa8942a49f3989b972efb7bff74d98f1a97",
+      "b863e94d3997f8b3032a941ef7e3da52065e58ae"
+    ],
+    "imageUrl": "/images/articles/8c13f43fccdb.png",
+    "i18n": {
+      "ko": {
+        "title": "한온시스템 2026 채용연계형 인턴 모집, R&D 직군 중심 선발",
+        "excerpt": "한국앤컴퍼니그룹의 글로벌 자동차 열 에너지 관리 기업 한온시스템이 2026년 상반기 채용 연계형 인턴십을 모집하며 R&D 등 직군에서 인재를 선발한다.",
+        "body": "한국앤컴퍼니그룹 계열의 글로벌 자동차 열 에너지 관리 솔루션 기업 한온시스템이 2026년 상반기 채용 연계형 인턴십 모집에 나섰다. 이번 모집은 인턴십을 통해 직무 역량을 확인하고 채용과 연계하는 방식으로 진행된다. 공개된 모집 직군은 R&D 분야를 중심으로 소프트웨어 개발, 특허 관리, 공조 제어 등이 포함됐다. 한온시스템은 자동차 열 관리 솔루션을 제공하는 기업으로, 이번 인턴십은 관련 기술 직무에 관심 있는 지원자에게 실무 경험과 채용 기회를 함께 제공하는 절차다. 채용 연계형 인턴 선발은 기업의 실무형 인재 확보 흐름과 맞물려 지원자들의 관심을 받을 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hanon Systems Opens 2026 Internship Hiring Track for R&D Roles",
+        "excerpt": "Hanon Systems, a global automotive thermal energy management company under Korea & Company Group, is recruiting interns linked to hiring in the first half of 2026.",
+        "body": "Hanon Systems, a global automotive thermal energy management solutions company under Korea & Company Group, has begun recruiting for its hiring-linked internship program in the first half of 2026. The program is designed to assess job capabilities through internship work and connect selected interns to employment. The disclosed recruitment areas center on R&D and include software development, patent management, and air-conditioning control. As a company providing automotive thermal management solutions, Hanon Systems is offering applicants interested in related technical roles a path to gain practical experience and hiring opportunities. The hiring-linked internship is expected to draw attention from candidates seeking practical career entry points. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ハノンシステムズ、2026年採用連携型インターン募集開始",
+        "excerpt": "韓国アンドカンパニーグループの自動車熱エネルギー管理企業ハノンシステムズが、2026年上半期の採用連携型インターンを募集する。",
+        "body": "韓国アンドカンパニーグループ傘下のグローバル自動車熱エネルギー管理ソリューション企業、ハノンシステムズが2026年上半期の採用連携型インターンシップ募集を開始した。今回の募集は、インターンシップを通じて職務能力を確認し、採用につなげる方式で行われる。公開された募集職種はR&D分野を中心に、ソフトウェア開発、特許管理、空調制御などが含まれる。自動車の熱管理ソリューションを提供する同社にとって、今回のインターンシップは関連技術職に関心のある応募者へ実務経験と採用機会を同時に提供する手続きとなる。実務型人材を確保する流れの中で、応募者の関心を集める見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "翰昂系统启动2026年招聘型实习，聚焦R&D岗位",
+        "excerpt": "韩国앤컴퍼니集团旗下全球汽车热能管理企业翰昂系统，正在招募2026年上半年招聘联动型实习生，岗位包括R&D等方向。",
+        "body": "韩国앤컴퍼니集团旗下全球汽车热能管理解决方案企业翰昂系统，已启动2026年上半年招聘联动型实习项目。此次招募将通过实习过程确认岗位能力，并与后续录用相衔接。已公开的招聘岗位以R&D领域为中心，包括软件开发、专利管理、空调控制等。翰昂系统作为提供汽车热管理解决方案的企业，此次实习将为关注相关技术岗位的申请者提供实际业务经验和招聘机会。招聘联动型实习也与企业 확보 실무型人才的 흐름相符，预计将受到求职者关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hanon Systems abre prácticas 2026 vinculadas a contratación en R&D",
+        "excerpt": "Hanon Systems, empresa global de gestión térmica automotriz de Korea & Company Group, recluta en el primer semestre de 2026 becarios con opción de contratación.",
+        "body": "Hanon Systems, empresa global de soluciones de gestión de energía térmica para automóviles perteneciente a Korea & Company Group, inició la contratación de su programa de prácticas vinculado a empleo para el primer semestre de 2026. El proceso busca verificar competencias laborales durante la práctica y conectarlas con una posible contratación. Las áreas divulgadas se concentran en R&D e incluyen desarrollo de software, gestión de patentes y control de aire acondicionado. Como proveedor de soluciones de gestión térmica automotriz, Hanon Systems ofrece a candidatos interesados en funciones técnicas relacionadas una vía para obtener experiencia práctica y oportunidades de empleo. El formato de prácticas vinculadas a contratación puede atraer atención entre quienes buscan una entrada laboral práctica. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Hanon Systems abre estágio 2026 ligado à contratação em R&D",
+        "excerpt": "A Hanon Systems, empresa global de gestão térmica automotiva do Korea & Company Group, recruta no primeiro semestre de 2026 estagiários com vínculo a contratação.",
+        "body": "A Hanon Systems, empresa global de soluções de gestão de energia térmica automotiva do Korea & Company Group, iniciou o recrutamento para seu programa de estágio vinculado à contratação no primeiro semestre de 2026. O processo foi estruturado para avaliar competências profissionais durante o estágio e conectá-las a oportunidades de contratação. As áreas divulgadas se concentram em R&D e incluem desenvolvimento de software, gestão de patentes e controle de ar-condicionado. Como fornecedora de soluções de gestão térmica para automóveis, a Hanon Systems oferece a candidatos interessados em funções técnicas relacionadas uma chance de obter experiência prática e acesso ao processo de contratação. O modelo deve chamar atenção de candidatos que buscam ingresso profissional com foco prático. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hanon Systems startet 2026 Einstiegspraktikum für R&D-Rollen",
+        "excerpt": "Hanon Systems, globaler Anbieter für thermisches Energiemanagement im Auto unter Korea & Company Group, rekrutiert im ersten Halbjahr 2026 Praktikanten mit Einstellungsbezug.",
+        "body": "Hanon Systems, ein globales Unternehmen für Lösungen im thermischen Energiemanagement von Fahrzeugen unter der Korea & Company Group, hat die Rekrutierung für ein einstellungsbezogenes Praktikumsprogramm im ersten Halbjahr 2026 begonnen. Das Programm soll berufliche Kompetenzen während des Praktikums prüfen und mit einer möglichen Anstellung verbinden. Die veröffentlichten Bereiche konzentrieren sich auf R&D und umfassen Softwareentwicklung, Patentmanagement und Klimasteuerung. Als Anbieter von Lösungen für das thermische Management im Automobilbereich bietet Hanon Systems Bewerbern mit Interesse an entsprechenden technischen Aufgaben praktische Erfahrung und eine Einstellungsperspektive. Das Modell dürfte bei Kandidaten Aufmerksamkeit finden, die einen praxisnahen Berufseinstieg suchen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hanon Systems recrute des stagiaires 2026 liés à l’embauche en R&D",
+        "excerpt": "Hanon Systems, entreprise mondiale de gestion thermique automobile du Korea & Company Group, recrute au premier semestre 2026 des stagiaires liés à l’embauche.",
+        "body": "Hanon Systems, entreprise mondiale de solutions de gestion de l’énergie thermique automobile appartenant au Korea & Company Group, a lancé le recrutement de son programme de stage lié à l’embauche pour le premier semestre 2026. Le dispositif vise à évaluer les compétences professionnelles pendant le stage et à les relier à une éventuelle embauche. Les postes annoncés se concentrent sur la R&D et comprennent le développement logiciel, la gestion des brevets et le contrôle de la climatisation. En tant que fournisseur de solutions de gestion thermique automobile, Hanon Systems offre aux candidats intéressés par ces fonctions techniques une expérience pratique et une opportunité de recrutement. Ce format devrait retenir l’attention des candidats recherchant une entrée professionnelle concrète. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هانون سيستمز تفتح تدريب 2026 المرتبط بالتوظيف في وظائف R&D",
+        "excerpt": "هانون سيستمز، شركة حلول إدارة الطاقة الحرارية للسيارات التابعة لمجموعة Korea & Company، تجند متدربين مرتبطين بالتوظيف في النصف الأول من 2026.",
+        "body": "بدأت هانون سيستمز، وهي شركة عالمية لحلول إدارة الطاقة الحرارية للسيارات تابعة لمجموعة Korea & Company، استقبال طلبات برنامج التدريب المرتبط بالتوظيف للنصف الأول من عام 2026. يهدف البرنامج إلى تقييم كفاءات العمل خلال فترة التدريب وربطها بفرص التوظيف. تتركز المجالات المعلنة على R&D وتشمل تطوير البرمجيات، وإدارة براءات الاختراع، والتحكم في تكييف الهواء. وبصفتها شركة تقدم حلول إدارة حرارية للسيارات، توفر هانون سيستمز للمتقدمين المهتمين بالوظائف التقنية ذات الصلة فرصة لاكتساب خبرة عملية ومسارا محتملا للتوظيف. ومن المتوقع أن يجذب هذا النوع من التدريب اهتمام الباحثين عن بداية مهنية عملية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Hanon Systems ने 2026 hiring-linked internship के लिए R&D भर्ती शुरू की",
+        "excerpt": "Korea & Company Group की वैश्विक ऑटोमोटिव थर्मल एनर्जी मैनेजमेंट कंपनी Hanon Systems 2026 की पहली छमाही में hiring-linked interns की भर्ती कर रही है।",
+        "body": "Korea & Company Group से जुड़ी वैश्विक ऑटोमोटिव थर्मल एनर्जी मैनेजमेंट समाधान कंपनी Hanon Systems ने 2026 की पहली छमाही के लिए hiring-linked internship भर्ती शुरू की है। यह कार्यक्रम internship के दौरान कार्य क्षमता की जांच कर उसे भर्ती से जोड़ने के तरीके पर आधारित है। घोषित भूमिकाएं मुख्य रूप से R&D क्षेत्र में हैं, जिनमें software development, patent management और air-conditioning control शामिल हैं। ऑटोमोबाइल thermal management solutions प्रदान करने वाली कंपनी के रूप में Hanon Systems संबंधित तकनीकी भूमिकाओं में रुचि रखने वाले आवेदकों को व्यावहारिक अनुभव और भर्ती अवसर दोनों देती है। यह hiring-linked internship व्यावहारिक करियर प्रवेश चाहने वाले उम्मीदवारों का ध्यान आकर्षित कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hanon Systems Buka Magang 2026 Terkait Rekrutmen untuk R&D",
+        "excerpt": "Hanon Systems, perusahaan manajemen energi termal otomotif global dari Korea & Company Group, merekrut peserta magang terkait rekrutmen pada semester pertama 2026.",
+        "body": "Hanon Systems, perusahaan solusi manajemen energi termal otomotif global di bawah Korea & Company Group, mulai merekrut program magang terkait rekrutmen untuk semester pertama 2026. Program ini dirancang untuk menilai kemampuan kerja melalui magang dan menghubungkannya dengan proses perekrutan. Bidang yang diumumkan berpusat pada R&D, termasuk pengembangan perangkat lunak, manajemen paten, dan pengendalian pendingin udara. Sebagai penyedia solusi manajemen termal otomotif, Hanon Systems menawarkan kepada pelamar yang tertarik pada peran teknis terkait kesempatan memperoleh pengalaman praktis sekaligus peluang rekrutmen. Skema magang terkait rekrutmen ini diperkirakan menarik perhatian kandidat yang mencari jalur masuk kerja berbasis praktik. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "9c7bc716561d",
     "slug": "삼성증권-증시호황으로-모든-부문-실적-호조목표가-한국-493222",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Investasi AI Nvidia Capai 58 Triliun Won, Perkuat Pengaruh Ekosistem",
         "excerpt": "Nvidia, pemimpin pasar chip AI, memakai kemampuan menghasilkan kas yang besar untuk berinvestasi sekitar 58 triliun won di ekosistem AI global dan memperluas pengaruhnya.",
         "body": "Nvidia, perusahaan nomor satu di pasar chip kecerdasan buatan, terus melakukan investasi berskala besar di seluruh ekosistem AI global dengan mengandalkan kemampuan menghasilkan kas yang kuat. Menurut teks asli, nilai investasi yang dikaitkan dengan Nvidia disebut sekitar 58 triliun won. Langkah ini melampaui peran sebagai pemasok perangkat keras dan dipandang sebagai upaya memperluas pengaruh di antara perusahaan utama serta arah teknologi industri AI. Saat permintaan chip AI meningkat, kekuatan kas Nvidia menjadi dasar bagi perluasan kerja sama dan investasi. Ke mana Nvidia menempatkan modal berikutnya diperkirakan menjadi faktor penting dalam peta persaingan AI global dan strategi rantai pasok. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4910dce79c7b",
-    "slug": "중동전쟁에-k석화-불안한-깜짝-실적-575934",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T10:06:16.602Z",
-    "updatedAt": "2026-05-11T10:06:16.602Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12043552",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12043552",
-    "titleFingerprint": "da4a8beca4177ad42a7348377508f7157f15a6b1",
-    "dedupKeys": [
-      "4910dce79c7bd68266877893e42fde05b33ebec7",
-      "da4a8beca4177ad42a7348377508f7157f15a6b1",
-      "432be9442e5c26deeb3210db1d023008d68ddc1e"
-    ],
-    "imageUrl": "/images/articles/4910dce79c7b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중동 전쟁 장기화에 K석화 1분기 깜짝 실적, 나프타 가격이 변수",
-        "excerpt": "국내 석유화학 산업이 중국발 저가 공세와 글로벌 업황 침체, 구조 개편 압력 속에서도 올해 1분기 예상 밖 실적을 냈다. 중동 전쟁 장기화로 나프타 가격이 핵심 변수로 떠올랐다.",
-        "body": "국내 석유화학 산업이 올해 1분기 ‘깜짝 실적’을 냈다. 중국발 저가 공세와 전 세계적 업황 침체로 구조 개편 압력이 커진 상황에서 나온 결과다. 업계의 기초·핵심 원료인 나프타 가격은 중동 전쟁 장기화와 맞물려 불안 요인으로 부각됐다. 석유화학 기업들은 원가와 수익성 변동에 민감한 구조인 만큼, 원료 가격 흐름이 향후 실적의 관건으로 꼽힌다. 다만 업황 침체와 중국산 저가 제품 경쟁이 이어지고 있어 1분기 성과가 안정적 회복으로 이어질지는 지켜봐야 한다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korean Petrochemicals Post Surprise Q1 Results as Middle East War Lifts Naphtha Risk",
-        "excerpt": "South Korea’s petrochemical industry delivered unexpected first-quarter results this year despite low-price pressure from China, a global industry slump and restructuring pressure, with naphtha costs emerging as a key risk.",
-        "body": "South Korea’s petrochemical industry posted a “surprise” performance in the first quarter of this year. The result came as companies faced restructuring pressure amid low-price competition from China and a global downturn in the sector. Naphtha, a basic and core feedstock for the industry, has become a source of uncertainty as the Middle East war drags on. Because petrochemical companies are highly sensitive to changes in input costs and profitability, the direction of naphtha prices is seen as a key factor for future earnings. Still, the industry slump and competition from low-priced Chinese products continue, so it remains unclear whether the first-quarter result will lead to a stable recovery. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "中東戦争長期化で韓国石化が1四半期にサプライズ決算、ナフサ価格が焦点",
-        "excerpt": "韓国の石油化学産業は、中国発の低価格攻勢と世界的な市況低迷、構造改革圧力の中でも今年第1四半期に予想外の業績を上げた。中東戦争の長期化でナフサ価格が重要な変数となった。",
-        "body": "韓国の石油化学産業が今年第1四半期に「サプライズ業績」を記録した。中国発の低価格攻勢と世界的な業況低迷により構造改革圧力が強まる中で出た結果だ。業界の基礎・中核原料であるナフサ価格は、中東戦争の長期化と重なり不安要因として浮上している。石油化学企業は原価と収益性の変動に敏感な構造であるため、原料価格の動きが今後の業績の鍵とみられる。ただし、市況低迷と中国産低価格製品との競争は続いており、第1四半期の成果が安定した回復につながるかは見守る必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "中东战争延宕下韩国石化一季度业绩意外向好，石脑油价格成关键",
-        "excerpt": "韩国石化行业在中国低价攻势、全球行业低迷和结构调整压力之下，今年一季度仍取得意外业绩。随着中东战争长期化，石脑油价格成为核心变量。",
-        "body": "韩国石油化工行业今年一季度取得“意外业绩”。这一结果出现在中国低价攻势和全球行业低迷导致结构调整压力加大的背景下。作为行业基础和核心原料的石脑油价格，因中东战争长期化而成为不稳定因素。石化企业的成本和盈利能力对原料价格变化高度敏感，因此石脑油价格走势被视为未来业绩的关键。不过，行业低迷和来自中国低价产品的竞争仍在持续，一季度表现能否转化为稳定复苏仍需观察。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Petroquímica coreana sorprende en el primer trimestre mientras la guerra en Oriente Medio presiona la nafta",
-        "excerpt": "La industria petroquímica surcoreana obtuvo resultados inesperados en el primer trimestre pese a la ofensiva de bajos precios de China, la debilidad global del sector y la presión para reestructurarse.",
-        "body": "La industria petroquímica de Corea del Sur registró un desempeño “sorpresa” en el primer trimestre de este año. El resultado llegó en medio de una mayor presión de reestructuración provocada por la ofensiva de bajos precios de China y la desaceleración mundial del sector. La nafta, materia prima básica y clave para la industria, se ha convertido en un factor de incertidumbre por la prolongación de la guerra en Oriente Medio. Dado que las empresas petroquímicas son sensibles a los cambios en costos y rentabilidad, la evolución del precio de la nafta será clave para sus próximos resultados. Aun así, la debilidad del sector y la competencia de productos chinos baratos continúan. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Petroquímica coreana surpreende no 1º trimestre com guerra no Oriente Médio elevando risco da nafta",
-        "excerpt": "A indústria petroquímica sul-coreana teve resultado inesperado no primeiro trimestre apesar da pressão de preços baixos da China, da fraqueza global do setor e das exigências de reestruturação.",
-        "body": "A indústria petroquímica da Coreia do Sul apresentou um desempenho “surpresa” no primeiro trimestre deste ano. O resultado ocorreu em meio à crescente pressão por reestruturação, causada pela ofensiva de preços baixos da China e pela desaceleração global do setor. A nafta, matéria-prima básica e essencial para a indústria, tornou-se um fator de incerteza com a prolongação da guerra no Oriente Médio. Como as empresas petroquímicas são sensíveis a mudanças de custo e rentabilidade, a trajetória do preço da nafta é vista como ponto-chave para os próximos resultados. Ainda assim, a fraqueza do setor e a competição com produtos chineses baratos continuam. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Koreas Petrochemie überrascht im ersten Quartal, doch Nahostkrieg macht Naphtha zum Risiko",
-        "excerpt": "Südkoreas Petrochemie erzielte im ersten Quartal unerwartete Ergebnisse, obwohl chinesischer Preisdruck, die weltweite Branchenschwäche und Restrukturierungsdruck anhalten. Naphtha wird zum zentralen Faktor.",
-        "body": "Südkoreas petrochemische Industrie hat im ersten Quartal dieses Jahres eine überraschende Leistung erzielt. Das Ergebnis kam zustande, obwohl der Restrukturierungsdruck durch niedrige Preise aus China und die weltweite Schwäche der Branche zunimmt. Naphtha, ein grundlegender und zentraler Rohstoff der Industrie, rückt durch den langwierigen Krieg im Nahen Osten als Unsicherheitsfaktor in den Fokus. Da petrochemische Unternehmen stark auf Kosten- und Margenänderungen reagieren, gilt die Entwicklung der Naphtha-Preise als entscheidend für die künftigen Ergebnisse. Dennoch halten Branchenschwäche und Wettbewerb durch günstige chinesische Produkte an. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La pétrochimie coréenne surprend au 1er trimestre, la guerre au Moyen-Orient ravive le risque sur le naphta",
-        "excerpt": "L’industrie pétrochimique sud-coréenne a signé des résultats inattendus au premier trimestre malgré la pression des bas prix chinois, la faiblesse mondiale du secteur et les appels à la restructuration.",
-        "body": "L’industrie pétrochimique sud-coréenne a enregistré une performance « surprise » au premier trimestre de cette année. Ce résultat intervient alors que la pression à la restructuration s’intensifie sous l’effet de l’offensive de prix bas venue de Chine et du ralentissement mondial du secteur. Le naphta, matière première de base et essentielle pour l’industrie, devient un facteur d’incertitude avec la prolongation de la guerre au Moyen-Orient. Les entreprises pétrochimiques étant sensibles aux variations de coûts et de rentabilité, l’évolution du prix du naphta sera déterminante pour les résultats à venir. Toutefois, la faiblesse du secteur et la concurrence des produits chinois bon marché persistent. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "البتروكيماويات الكورية تفاجئ بنتائج الربع الأول مع تحول النافثا إلى عامل خطر بفعل حرب الشرق الأوسط",
-        "excerpt": "حققت صناعة البتروكيماويات في كوريا الجنوبية نتائج غير متوقعة في الربع الأول رغم ضغط الأسعار المنخفضة من الصين والركود العالمي وضغوط إعادة الهيكلة، مع بروز النافثا كعامل حاسم.",
-        "body": "سجلت صناعة البتروكيماويات في كوريا الجنوبية أداء مفاجئا في الربع الأول من هذا العام. وجاءت النتيجة رغم تصاعد ضغوط إعادة الهيكلة بسبب هجوم الأسعار المنخفضة من الصين والركود العالمي في القطاع. وأصبحت النافثا، وهي مادة خام أساسية ومحورية للصناعة، عاملا يثير القلق مع إطالة أمد الحرب في الشرق الأوسط. وبما أن شركات البتروكيماويات حساسة لتغيرات التكلفة والربحية، فإن مسار أسعار النافثا يعد عاملا رئيسيا في النتائج المقبلة. ومع ذلك، ما زال ركود القطاع والمنافسة من المنتجات الصينية منخفضة السعر مستمرين، لذلك يبقى من غير الواضح ما إذا كانت نتائج الربع الأول ستقود إلى تعاف مستقر. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "मध्य पूर्व युद्ध के बीच कोरियाई पेट्रोकेमिकल्स के पहली तिमाही नतीजे चौंकाने वाले, नैफ्था बना अहम जोखिम",
-        "excerpt": "दक्षिण कोरिया के पेट्रोकेमिकल उद्योग ने चीन की कम कीमत वाली प्रतिस्पर्धा, वैश्विक सुस्ती और पुनर्गठन दबाव के बावजूद इस साल पहली तिमाही में अप्रत्याशित प्रदर्शन किया।",
-        "body": "दक्षिण कोरिया के पेट्रोकेमिकल उद्योग ने इस साल पहली तिमाही में “चौंकाने वाला” प्रदर्शन किया। यह नतीजा ऐसे समय आया जब चीन की कम कीमत वाली प्रतिस्पर्धा और वैश्विक उद्योग मंदी के कारण पुनर्गठन का दबाव बढ़ रहा था। उद्योग की बुनियादी और प्रमुख कच्ची सामग्री नैफ्था की कीमत मध्य पूर्व युद्ध के लंबा खिंचने से अनिश्चितता का कारण बन गई है। पेट्रोकेमिकल कंपनियां लागत और लाभप्रदता में बदलाव के प्रति संवेदनशील होती हैं, इसलिए नैफ्था कीमतों की दिशा आगे के नतीजों के लिए अहम मानी जा रही है। हालांकि उद्योग की सुस्ती और सस्ते चीनी उत्पादों से प्रतिस्पर्धा जारी है, इसलिए पहली तिमाही का प्रदर्शन स्थिर सुधार में बदलेगा या नहीं, यह देखना होगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Petrokimia Korea Cetak Kinerja Mengejutkan Kuartal I, Perang Timur Tengah Jadikan Nafta Variabel Utama",
-        "excerpt": "Industri petrokimia Korea Selatan mencatat kinerja tak terduga pada kuartal I tahun ini meski menghadapi tekanan harga murah dari China, pelemahan global, dan desakan restrukturisasi.",
-        "body": "Industri petrokimia Korea Selatan mencatat kinerja “mengejutkan” pada kuartal pertama tahun ini. Hasil itu muncul saat tekanan restrukturisasi meningkat akibat serangan harga murah dari China dan pelemahan industri secara global. Nafta, bahan baku dasar sekaligus utama bagi industri, menjadi faktor ketidakpastian seiring berlarutnya perang di Timur Tengah. Karena perusahaan petrokimia sangat sensitif terhadap perubahan biaya dan profitabilitas, arah harga nafta dipandang sebagai kunci bagi kinerja berikutnya. Namun, pelemahan industri dan persaingan dari produk China berharga murah masih berlanjut, sehingga perlu dilihat apakah capaian kuartal pertama dapat berujung pada pemulihan yang stabil. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "fcc4d27f1637",
-    "slug": "캐즘서-헤매는-일본차k배터리-수주-차질-우려-466362",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T10:04:51.145Z",
-    "updatedAt": "2026-05-11T10:04:51.145Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12043551",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12043551",
-    "titleFingerprint": "a3f9ab47403a552f775e7d9977e8d154312af5ca",
-    "dedupKeys": [
-      "fcc4d27f1637e9cb563c150d2a63765b35d1c388",
-      "a3f9ab47403a552f775e7d9977e8d154312af5ca",
-      "78c3723a69ab1aea763c2e53ea67d957d564c350"
-    ],
-    "imageUrl": "/images/articles/fcc4d27f1637.jpg",
-    "i18n": {
-      "ko": {
-        "title": "일본차 전기차 캐즘 장기화에 K배터리 수주 차질 우려 커진다",
-        "excerpt": "일본 완성차 업체들이 글로벌 전기차 캐즘 변화에 기민하게 대응하지 못하면서 K배터리 업계의 수주 차질 우려가 커지고 있다.",
-        "body": "글로벌 전기차 캐즘, 즉 수요 절벽 국면에 빠르게 대응하지 못한 일본 완성차 업체들이 후폭풍을 맞고 있다. 지난 3월 중동 전쟁 이후 전기차 수요는 늘고 있지만, 회복 속도는 당초 예상보다 더딘 것으로 전해졌다. 이 같은 흐름은 일본차와 공급 관계를 맺은 K배터리 업계에도 부담으로 작용할 수 있다. 완성차 업체의 전기차 전략 지연이나 판매 회복 둔화가 이어질 경우 배터리 수주 일정에도 차질 우려가 제기된다. mk.co.kr은 일본 완성차 업체들이 전기차 캐즘 변화에 기민하게 대응하지 못해 거센 후폭풍을 맞고 있다고 전했다."
-      },
-      "en": {
-        "title": "Japanese Carmakers’ EV Chasm Deepens, Raising K-Battery Order Concerns",
-        "excerpt": "Japanese automakers’ slow response to the global EV demand chasm is raising concerns that Korean battery makers could face order disruptions.",
-        "body": "Japanese automakers are facing strong aftereffects after failing to respond quickly to the global electric vehicle chasm, or demand cliff. Since the Middle East war in March, EV demand has been increasing, but the pace of recovery is said to be slower than expected. This trend could also weigh on Korean battery companies that have supply ties with Japanese carmakers. If automakers’ EV strategies are delayed or sales recovery remains sluggish, concerns may grow over possible disruptions to battery order schedules. mk.co.kr reported that Japanese automakers are facing heavy fallout after failing to respond nimbly to changes in the EV chasm."
-      },
-      "ja": {
-        "title": "日本車のEVキャズム長期化、Kバッテリー受注への影響懸念",
-        "excerpt": "世界的なEV需要のキャズム変化に日本の完成車メーカーが機敏に対応できず、Kバッテリー業界の受注に支障が出るとの懸念が広がっている。",
-        "body": "世界的な電気自動車のキャズム、すなわち需要の崖に素早く対応できなかった日本の完成車メーカーが強い余波に直面している。3月の中東戦争以降、EV需要は増えているものの、回復の速度は当初の予想より鈍いとされる。こうした流れは、日本車メーカーと供給関係を持つKバッテリー業界にも負担となり得る。完成車メーカーのEV戦略の遅れや販売回復の鈍化が続けば、バッテリー受注日程にも支障が出るとの懸念が浮上する。mk.co.krは、日本の完成車メーカーがEVキャズムの変化に機敏に対応できず、激しい余波を受けていると伝えた。"
-      },
-      "zh": {
-        "title": "日本车企深陷电动车需求断层，K电池订单受阻担忧升温",
-        "excerpt": "日本整车企业未能迅速应对全球电动车需求断层变化，韩国电池行业对订单可能受影响的担忧正在扩大。",
-        "body": "未能快速应对全球电动车“鸿沟”、即需求断崖局面的日本整车企业，正遭遇强烈后续冲击。自3月中东战争以来，电动车需求有所增加，但恢复速度据称慢于此前预期。这样的走势也可能给与日本车企存在供应关系的韩国电池行业带来压力。如果整车企业电动车战略延迟或销售恢复放缓持续，电池订单日程也可能出现受阻担忧。mk.co.kr报道称，日本整车企业因未能敏捷应对电动车需求断层变化，正面临猛烈后果。"
-      },
-      "es": {
-        "title": "Automotrices japonesas en el bache EV elevan temor por pedidos de K-baterías",
-        "excerpt": "La lenta respuesta de las automotrices japonesas al chasm global de los vehículos eléctricos aumenta la preocupación por posibles retrasos en pedidos de baterías coreanas.",
-        "body": "Las automotrices japonesas afrontan fuertes repercusiones tras no responder con rapidez al chasm global de los vehículos eléctricos, es decir, a la caída de la demanda. Desde la guerra en Medio Oriente de marzo, la demanda de vehículos eléctricos ha aumentado, pero la recuperación avanza más lento de lo previsto. Esta tendencia también puede convertirse en una carga para la industria coreana de baterías vinculada al suministro de fabricantes japoneses. Si se retrasan las estrategias EV de las automotrices o sigue débil la recuperación de ventas, crecerá la preocupación por posibles alteraciones en los calendarios de pedidos de baterías. mk.co.kr informó que las automotrices japonesas sufren un fuerte impacto por no adaptarse con agilidad al cambio del chasm EV."
-      },
-      "pt": {
-        "title": "Montadoras japonesas no chasm dos EVs ampliam temor por pedidos de K-baterias",
-        "excerpt": "A resposta lenta das montadoras japonesas ao chasm global dos veículos elétricos aumenta a preocupação com possíveis atrasos em pedidos de baterias coreanas.",
-        "body": "As montadoras japonesas enfrentam fortes efeitos após não responderem rapidamente ao chasm global dos veículos elétricos, isto é, ao abismo de demanda. Desde a guerra no Oriente Médio em março, a demanda por EVs tem aumentado, mas a recuperação ocorre em ritmo mais lento que o esperado. Esse movimento também pode pesar sobre a indústria coreana de baterias que mantém relações de fornecimento com fabricantes japonesas. Caso as estratégias de EV das montadoras se atrasem ou a recuperação das vendas siga fraca, podem crescer as preocupações com interrupções nos cronogramas de pedidos de baterias. O mk.co.kr informou que as montadoras japonesas sofrem forte repercussão por não reagirem com agilidade às mudanças no chasm dos EVs."
-      },
-      "de": {
-        "title": "Japans Autobauer im EV-Chasm: Sorgen um K-Batterie-Aufträge nehmen zu",
-        "excerpt": "Japans Autohersteller reagierten nur langsam auf den globalen Nachfrageeinbruch bei Elektroautos, was Sorgen über mögliche Störungen bei koreanischen Batterieaufträgen schürt.",
-        "body": "Japans Autohersteller stehen unter starkem Druck, nachdem sie auf den globalen Elektroauto-Chasm, also den Nachfrageabbruch, nicht schnell genug reagiert haben. Seit dem Krieg im Nahen Osten im März steigt die Nachfrage nach Elektrofahrzeugen zwar, doch die Erholung verläuft Berichten zufolge langsamer als erwartet. Diese Entwicklung kann auch die koreanische Batteriebranche belasten, die Lieferbeziehungen zu japanischen Autobauern unterhält. Verzögern sich EV-Strategien der Hersteller oder bleibt die Verkaufserholung schwach, könnten Sorgen über Störungen bei Batterieaufträgen zunehmen. mk.co.kr berichtete, dass Japans Autohersteller heftige Folgen spüren, weil sie nicht flexibel genug auf den Wandel im EV-Chasm reagierten."
-      },
-      "fr": {
-        "title": "Constructeurs japonais freinés par le chasm EV, inquiétudes pour les K-batteries",
-        "excerpt": "La réponse lente des constructeurs japonais au chasm mondial des véhicules électriques accroît les craintes de perturbations dans les commandes de batteries coréennes.",
-        "body": "Les constructeurs automobiles japonais subissent de fortes répercussions après n’avoir pas réagi assez vite au chasm mondial des véhicules électriques, c’est-à-dire à la falaise de la demande. Depuis la guerre au Moyen-Orient en mars, la demande de véhicules électriques augmente, mais la reprise serait plus lente que prévu. Cette tendance peut aussi peser sur l’industrie coréenne des batteries liée aux constructeurs japonais par des accords d’approvisionnement. Si les stratégies EV des constructeurs prennent du retard ou si la reprise des ventes reste faible, les inquiétudes sur les calendriers de commandes de batteries pourraient s’accentuer. mk.co.kr a rapporté que les constructeurs japonais affrontent un fort contrecoup pour ne pas avoir répondu avec agilité aux changements du chasm EV."
-      },
-      "ar": {
-        "title": "شركات السيارات اليابانية وسط فجوة الطلب على الكهرباء تثير قلق بطاريات كوريا",
-        "excerpt": "عدم استجابة شركات السيارات اليابانية بسرعة لتحولات فجوة الطلب العالمية على السيارات الكهربائية يزيد المخاوف من تعطل طلبات بطاريات كوريا.",
-        "body": "تواجه شركات السيارات اليابانية تداعيات قوية بعدما لم تستجب بسرعة لفجوة الطلب العالمية على السيارات الكهربائية، أي حافة تراجع الطلب. ومنذ حرب الشرق الأوسط في مارس، ازداد الطلب على السيارات الكهربائية، لكن وتيرة التعافي تبدو أبطأ من المتوقع. وقد يشكل هذا المسار عبئا أيضا على صناعة البطاريات الكورية المرتبطة بعلاقات توريد مع شركات السيارات اليابانية. وإذا استمر تأخر استراتيجيات السيارات الكهربائية لدى الشركات أو تباطؤ تعافي المبيعات، فقد تزداد المخاوف من اضطراب جداول طلبات البطاريات. ونقل mk.co.kr أن شركات السيارات اليابانية تواجه تداعيات شديدة لأنها لم تتعامل بمرونة مع تغيرات فجوة الطلب على السيارات الكهربائية."
-      },
-      "hi": {
-        "title": "EV मांग की खाई में जापानी कार कंपनियां, K-बैटरी ऑर्डर पर बढ़ी चिंता",
-        "excerpt": "वैश्विक इलेक्ट्रिक वाहन मांग की खाई में बदलाव पर जापानी वाहन कंपनियों की धीमी प्रतिक्रिया से कोरियाई बैटरी उद्योग में ऑर्डर बाधित होने की चिंता बढ़ रही है।",
-        "body": "वैश्विक इलेक्ट्रिक वाहन चasm, यानी मांग में तेज गिरावट, पर तेजी से प्रतिक्रिया न दे पाने के कारण जापानी वाहन निर्माता कड़े असर का सामना कर रहे हैं। मार्च में मध्य पूर्व युद्ध के बाद इलेक्ट्रिक वाहनों की मांग बढ़ी है, लेकिन सुधार की गति उम्मीद से धीमी बताई जा रही है। यह रुझान उन कोरियाई बैटरी कंपनियों पर भी बोझ बन सकता है जिनके जापानी वाहन कंपनियों से आपूर्ति संबंध हैं। यदि वाहन निर्माताओं की EV रणनीति में देरी या बिक्री सुधार की सुस्ती जारी रहती है, तो बैटरी ऑर्डर कार्यक्रमों में बाधा की चिंता उठ सकती है। mk.co.kr ने बताया कि EV चasm में बदलाव पर फुर्ती से प्रतिक्रिया न दे पाने के कारण जापानी वाहन कंपनियां तीव्र hậu प्रभाव झेल रही हैं।"
-      },
-      "id": {
-        "title": "Pabrikan Jepang Terjebak Chasm EV, Kekhawatiran Pesanan K-Baterai Meningkat",
-        "excerpt": "Lambannya respons pabrikan otomotif Jepang terhadap perubahan chasm permintaan EV global memicu kekhawatiran gangguan pesanan bagi industri baterai Korea.",
-        "body": "Pabrikan otomotif Jepang menghadapi dampak kuat setelah gagal merespons cepat chasm kendaraan listrik global, yaitu jurang permintaan. Sejak perang Timur Tengah pada Maret, permintaan kendaraan listrik meningkat, tetapi laju pemulihan disebut lebih lambat dari perkiraan. Tren ini juga dapat menjadi beban bagi industri baterai Korea yang memiliki hubungan pasokan dengan pabrikan Jepang. Jika strategi EV pabrikan tertunda atau pemulihan penjualan tetap lambat, kekhawatiran atas gangguan jadwal pesanan baterai dapat muncul. mk.co.kr melaporkan bahwa pabrikan Jepang menghadapi dampak besar karena tidak tangkas merespons perubahan chasm EV."
-      }
-    }
-  },
-  {
-    "id": "23f70593809a",
-    "slug": "삼전-노사-최후협상-여전한-간극-257631",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-11T10:03:41.629Z",
-    "updatedAt": "2026-05-11T10:03:41.629Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12043581",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12043581",
-    "titleFingerprint": "b8520ce9b83972e3da3c638828c8e6f08f71269b",
-    "dedupKeys": [
-      "23f70593809ab887e43cf7e736c5e6a0251f4eef",
-      "b8520ce9b83972e3da3c638828c8e6f08f71269b",
-      "ddf5cff0918d123b6cd5a2e9badc8de838149288"
-    ],
-    "imageUrl": "/images/articles/23f70593809a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 노사 최후협상 난항, 성과급 명문화 놓고 간극 여전",
-        "excerpt": "삼성전자 노사가 정부 중재로 한 달 반 만에 협상 테이블에 복귀했지만 성과급 명문화 등을 둘러싼 이견을 좁히지 못하며 최후협상이 난항을 겪고 있다.",
-        "body": "삼성전자 노사가 정부의 중재로 한 달 반 만에 다시 협상 테이블에 앉았지만, 성과급 명문화 등을 둘러싼 핵심 쟁점에서 접점을 찾지 못하고 있다. 이번 협상은 노사 간 갈등이 장기화되는 가운데 고용노동부 장관까지 나서 사회적 책임을 강조하며 중재에 나선 자리였다. 그러나 성과급 제도를 명확히 문서화하는 문제를 포함한 주요 요구 사항에서 양측의 입장 차가 여전히 큰 것으로 전해졌다. 협상이 ‘최후협상’ 성격으로 진행되는 만큼 합의 여부는 향후 노사 관계의 분수령이 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Electronics Labor Talks Stall as Bonus Clause Gap Remains",
-        "excerpt": "Samsung Electronics and its labor union returned to negotiations after a month and a half under government mediation, but remain divided over formalizing performance bonuses.",
-        "body": "Samsung Electronics and its labor union sat down for talks again after a month and a half under government mediation, but they have yet to find common ground on key issues, including whether to codify performance bonuses. The negotiations came as the dispute between labor and management continued, with even the minister of employment and labor stepping in to stress social responsibility and mediate. Still, the two sides reportedly remain far apart on major demands, including putting the bonus system clearly into writing. As the talks are being treated as a “final negotiation,” whether an agreement is reached is expected to become a turning point for future labor relations. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン電子労使の最終交渉難航、成果給明文化で隔たり続く",
-        "excerpt": "サムスン電子の労使は政府の仲裁で1カ月半ぶりに交渉の場に戻ったが、成果給の明文化などをめぐる見解の差を埋められていない。",
-        "body": "サムスン電子の労使は政府の仲裁により1カ月半ぶりに再び交渉のテーブルに着いたが、成果給の明文化など核心争点で接点を見いだせていない。今回の交渉は労使対立が長期化する中、雇用労働部長官までが社会的責任を強調して仲裁に乗り出した場だった。しかし、成果給制度を明確に文書化する問題を含む主要要求をめぐり、双方の立場の隔たりはなお大きいと伝えられている。交渉が「最終交渉」の性格で進められているだけに、合意の可否は今後の労使関係の分岐点になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星电子劳资最终谈判受阻，绩效奖金明文化分歧仍在",
-        "excerpt": "三星电子劳资双方在政府调解下时隔一个半月重回谈判桌，但围绕绩效奖金明文化等问题仍未缩小分歧。",
-        "body": "三星电子劳资双方在政府调解下时隔一个半月再次坐到谈判桌前，但在包括绩效奖金明文化在内的核心议题上仍未找到交集。此次谈判是在劳资矛盾持续的背景下进行的，韩国雇佣劳动部长也出面强调社会责任并参与调解。不过，据悉双方在主要诉求上仍存在较大立场差异，其中包括是否将绩效奖金制度明确写入文件。由于本轮谈判具有“最终谈判”的性质，能否达成协议预计将成为今后劳资关系的重要分水岭。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samsung Electronics y sindicato encallan en negociación final por bonos",
-        "excerpt": "Samsung Electronics y su sindicato volvieron a la mesa tras mes y medio con mediación del Gobierno, pero siguen sin cerrar la brecha sobre formalizar los bonos.",
-        "body": "Samsung Electronics y su sindicato volvieron a sentarse a negociar tras un mes y medio gracias a la mediación del Gobierno, pero aún no encuentran un punto común en asuntos clave, incluida la formalización de los bonos por desempeño. La reunión se produjo mientras el conflicto laboral se prolonga, con la intervención incluso del ministro de Empleo y Trabajo, quien subrayó la responsabilidad social y actuó como mediador. Sin embargo, las posiciones de ambas partes siguen muy alejadas en demandas principales, incluida la documentación clara del sistema de bonos. Dado que las conversaciones tienen carácter de “negociación final”, el resultado podría marcar un punto de inflexión en las relaciones laborales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Samsung Electronics e sindicato travam em negociação final sobre bônus",
-        "excerpt": "Samsung Electronics e sindicato voltaram à mesa após um mês e meio com mediação do governo, mas seguem sem consenso sobre formalizar bônus de desempenho.",
-        "body": "A Samsung Electronics e seu sindicato voltaram à mesa de negociação após um mês e meio, sob mediação do governo, mas ainda não encontraram consenso em pontos centrais, incluindo a formalização dos bônus por desempenho. A rodada ocorreu em meio ao prolongamento do conflito entre trabalhadores e administração, com a participação até do ministro do Emprego e Trabalho, que destacou a responsabilidade social e tentou mediar. Mesmo assim, as posições dos dois lados continuam distantes em demandas importantes, como registrar claramente o sistema de bônus em documento. Como as conversas têm caráter de “negociação final”, um acordo deve ser decisivo para as futuras relações trabalhistas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung Electronics: Letzte Tarifrunde stockt wegen Bonus-Regelung",
-        "excerpt": "Samsung Electronics und die Gewerkschaft verhandelten nach eineinhalb Monaten unter Vermittlung der Regierung erneut, bleiben aber bei der schriftlichen Bonusregelung uneins.",
-        "body": "Samsung Electronics und seine Gewerkschaft haben nach eineinhalb Monaten unter Vermittlung der Regierung wieder Verhandlungen aufgenommen, konnten bei zentralen Fragen wie der schriftlichen Festlegung von Leistungsboni aber keine Annäherung erzielen. Die Gespräche fanden statt, während der Konflikt zwischen Arbeitnehmerseite und Management anhält; sogar der Minister für Beschäftigung und Arbeit schaltete sich ein, betonte gesellschaftliche Verantwortung und vermittelte. Dennoch liegen die Positionen beider Seiten bei wichtigen Forderungen weiter deutlich auseinander, darunter die klare Dokumentation des Bonussystems. Da die Runde als „letzte Verhandlung“ gilt, dürfte eine Einigung zum Wendepunkt für die künftigen Arbeitsbeziehungen werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samsung Electronics: ultime négociation bloquée sur les primes",
-        "excerpt": "Samsung Electronics et son syndicat ont repris les discussions après un mois et demi avec médiation publique, mais restent divisés sur la formalisation des primes.",
-        "body": "Samsung Electronics et son syndicat se sont de nouveau assis à la table des négociations après un mois et demi, sous la médiation du gouvernement, mais n’ont pas encore trouvé de terrain d’entente sur les questions clés, dont la formalisation des primes de performance. Cette réunion intervient alors que le conflit social se prolonge, avec l’intervention du ministre de l’Emploi et du Travail, qui a souligné la responsabilité sociale et tenté une médiation. Les positions des deux parties restent toutefois éloignées sur les principales demandes, notamment l’inscription claire du système de primes dans un document. Ces discussions ayant le caractère d’une « négociation finale », leur issue pourrait devenir un tournant pour les relations sociales à venir. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تعثر المفاوضات النهائية في سامسونغ إلكترونيكس بسبب مكافآت الأداء",
-        "excerpt": "عاد طرفا العمل في سامسونغ إلكترونيكس إلى طاولة التفاوض بعد شهر ونصف بوساطة حكومية، لكن الخلاف مستمر حول توثيق مكافآت الأداء رسميا.",
-        "body": "عاد طرفا العمل في سامسونغ إلكترونيكس إلى طاولة المفاوضات بعد شهر ونصف بوساطة من الحكومة، لكنهما لم يتوصلا بعد إلى نقطة التقاء بشأن القضايا الرئيسية، ومنها توثيق مكافآت الأداء بصورة رسمية. وجاءت هذه الجولة مع استمرار الخلاف بين الإدارة والعمال، حتى إن وزير التوظيف والعمل تدخل للتوسط مؤكدا المسؤولية الاجتماعية. ومع ذلك، لا تزال مواقف الجانبين متباعدة بشأن المطالب الأساسية، بما في ذلك وضع نظام المكافآت في وثيقة واضحة. وبما أن المحادثات تجري بصفتها «مفاوضات نهائية»، فمن المتوقع أن يشكل التوصل إلى اتفاق أو عدمه نقطة تحول في علاقات العمل المقبلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सैमसंग इलेक्ट्रॉनिक्स की अंतिम वार्ता अटकी, बोनस लिखित करने पर दूरी",
-        "excerpt": "सैमसंग इलेक्ट्रॉनिक्स और यूनियन डेढ़ महीने बाद सरकारी मध्यस्थता में फिर बातचीत पर लौटे, लेकिन प्रदर्शन बोनस को लिखित रूप देने पर मतभेद बरकरार हैं।",
-        "body": "सैमसंग इलेक्ट्रॉनिक्स और उसके श्रमिक संगठन ने सरकार की मध्यस्थता में डेढ़ महीने बाद फिर बातचीत की मेज संभाली, लेकिन प्रदर्शन बोनस को लिखित रूप से स्पष्ट करने सहित प्रमुख मुद्दों पर सहमति नहीं बन सकी। यह वार्ता तब हुई जब श्रम और प्रबंधन के बीच विवाद लंबा खिंच रहा है, और रोजगार एवं श्रम मंत्री तक ने सामाजिक जिम्मेदारी पर जोर देते हुए मध्यस्थता की। फिर भी बताया गया है कि बोनस प्रणाली को साफ तौर पर दस्तावेज में दर्ज करने जैसे मुख्य मांगों पर दोनों पक्षों के रुख में अब भी बड़ा अंतर है। चूंकि यह दौर “अंतिम वार्ता” के रूप में देखा जा रहा है, इसलिए समझौता होगा या नहीं, यह आगे के श्रम संबंधों के लिए निर्णायक मोड़ बन सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Negosiasi akhir Samsung Electronics dan serikat buntu soal bonus",
-        "excerpt": "Samsung Electronics dan serikat pekerja kembali berunding setelah satu setengah bulan lewat mediasi pemerintah, tetapi masih berbeda sikap soal formalisasi bonus kinerja.",
-        "body": "Samsung Electronics dan serikat pekerjanya kembali duduk di meja perundingan setelah satu setengah bulan melalui mediasi pemerintah, tetapi belum menemukan titik temu pada isu utama, termasuk formalisasi bonus kinerja. Perundingan ini berlangsung saat konflik antara manajemen dan pekerja berlarut, bahkan Menteri Ketenagakerjaan ikut turun tangan dengan menekankan tanggung jawab sosial dan melakukan mediasi. Namun, posisi kedua pihak dilaporkan masih jauh berbeda pada tuntutan utama, termasuk kejelasan tertulis mengenai sistem bonus. Karena pembicaraan ini dipandang sebagai “negosiasi akhir”, tercapai atau tidaknya kesepakatan diperkirakan menjadi titik penting bagi hubungan industrial ke depan. Sumber: mk.co.kr"
       }
     }
   }
