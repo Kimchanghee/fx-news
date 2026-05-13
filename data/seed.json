@@ -1,5 +1,230 @@
 [
   {
+    "id": "3df3f9631ed9",
+    "slug": "대한항공-la과학센터에-항공기-기증조원태-젊은이들에게-영감-주길-300650",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T06:02:27.408Z",
+    "updatedAt": "2026-05-13T06:02:27.408Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12046143",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12046143",
+    "titleFingerprint": "240f592abddeb70248d34a708d617e0c19aace8d",
+    "dedupKeys": [
+      "3df3f9631ed9099fbf6a50887bf00ac10f35625e",
+      "240f592abddeb70248d34a708d617e0c19aace8d",
+      "6b60006706593c9a40cd56f279a4abd96af899bc"
+    ],
+    "imageUrl": "/images/articles/3df3f9631ed9.png",
+    "i18n": {
+      "ko": {
+        "title": "대한항공 보잉747-400 LA과학센터 기증, 체험형 항공 과학 전시로 재탄생",
+        "excerpt": "대한항공은 20년간 비행한 보잉747-400 퇴역 여객기를 미국 LA과학센터에 기증해 조종석 가상비행 등 미래 세대용 항공 과학 전시로 바꾼다.",
+        "body": "대한항공이 20년간 운항한 보잉747-400 퇴역 여객기를 미국 로스앤젤레스(LA)과학센터에 기증해 미래 세대를 위한 항공 과학 체험형 전시 공간으로 조성한다. 이 항공기는 장기간 비행 임무를 마친 뒤 교육 목적의 전시 자산으로 새 역할을 맡게 된다. 전시 공간에는 조종석 가상비행 등 관람객이 항공 기술을 직접 체험할 수 있는 프로그램이 포함된다. 조원태 대한항공 회장은 이 기증이 젊은이들에게 영감을 주길 바란다는 뜻을 밝혔다. 대한항공의 퇴역 항공기 기증은 항공 산업의 역사와 기술을 교육 현장으로 연결하는 사례로 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korean Air Donates Boeing 747-400 to LA Science Center for Aviation Exhibit",
+        "excerpt": "Korean Air is donating a retired Boeing 747-400 that flew for 20 years to the California Science Center in Los Angeles for hands-on aviation science programs.",
+        "body": "Korean Air is donating a retired Boeing 747-400, which flew for 20 years, to the California Science Center in Los Angeles to create an interactive aviation science exhibition for future generations. After completing its long service as a passenger aircraft, the jet will take on a new role as an educational exhibit. The planned space will include programs that let visitors experience aviation technology, including virtual flight from the cockpit. Korean Air Chairman Cho Won-tae said he hopes the donation will inspire young people. The project highlights how a retired aircraft can connect aviation history and technology with public education. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "大韓航空、ボーイング747-400をLA科学センターへ寄贈し体験型航空展示に",
+        "excerpt": "大韓航空は20年間飛行した退役ボーイング747-400を米ロサンゼルスの科学センターに寄贈し、操縦席の仮想飛行などを備えた航空科学展示に転用する。",
+        "body": "大韓航空は、20年間運航した退役旅客機ボーイング747-400を米ロサンゼルスの科学センターに寄贈し、未来世代のための体験型航空科学展示空間として整備する。この機体は長年の飛行任務を終えた後、教育目的の展示資産として新たな役割を担う。展示空間には、操縦席での仮想飛行など、来館者が航空技術を直接体験できるプログラムが含まれる。大韓航空の趙源泰会長は、この寄贈が若者にインスピレーションを与えることを願うと述べた。退役機の寄贈は、航空産業の歴史と技術を教育現場につなぐ事例として注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "大韩航空向洛杉矶科学中心捐赠波音747-400，打造体验式航空展",
+        "excerpt": "大韩航空将飞行20年的退役波音747-400捐赠给美国洛杉矶科学中心，用于改造为含驾驶舱虚拟飞行等项目的航空科学展区。",
+        "body": "大韩航空将一架飞行20年的退役波音747-400客机捐赠给美国洛杉矶科学中心，计划打造面向未来世代的体验式航空科学展示空间。这架飞机在完成长期飞行任务后，将以教育展示资产的形式承担新的角色。展区将包括驾驶舱虚拟飞行等项目，让参观者直接体验航空技术。大韩航空会长赵源泰表示，希望此次捐赠能为年轻人带来灵感。退役客机从运输工具转变为教育展示空间，也被视为连接航空产业历史、技术与公众教育的案例。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Korean Air dona un Boeing 747-400 al centro científico de LA para muestra aérea",
+        "excerpt": "Korean Air donará un Boeing 747-400 retirado tras 20 años de vuelo al centro científico de Los Ángeles para convertirlo en una exhibición interactiva de aviación.",
+        "body": "Korean Air donará un Boeing 747-400 retirado, que voló durante 20 años, al centro científico de Los Ángeles para crear un espacio interactivo de ciencia aeronáutica destinado a las futuras generaciones. Tras completar su servicio como avión de pasajeros, la aeronave asumirá una nueva función como recurso educativo de exhibición. El espacio incluirá programas que permitirán a los visitantes experimentar la tecnología aérea, como vuelos virtuales desde la cabina. El presidente de Korean Air, Cho Won-tae, expresó su deseo de que la donación inspire a los jóvenes. La iniciativa muestra cómo un avión retirado puede vincular la historia y la tecnología de la aviación con la educación pública. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Korean Air doa Boeing 747-400 ao centro de ciências de LA para exposição aérea",
+        "excerpt": "A Korean Air vai doar um Boeing 747-400 aposentado após 20 anos de voos ao centro de ciências de Los Angeles para uma mostra interativa de aviação.",
+        "body": "A Korean Air vai doar um Boeing 747-400 aposentado, que voou por 20 anos, ao centro de ciências de Los Angeles para criar um espaço interativo de ciência aeronáutica voltado às futuras gerações. Depois de concluir seu longo serviço como aeronave de passageiros, o avião ganhará uma nova função como recurso educacional de exposição. O espaço incluirá programas que permitem aos visitantes experimentar a tecnologia da aviação, como voo virtual na cabine de comando. O presidente da Korean Air, Cho Won-tae, afirmou esperar que a doação inspire os jovens. A iniciativa mostra como uma aeronave aposentada pode conectar a história e a tecnologia da aviação à educação pública. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Korean Air spendet Boeing 747-400 an LA Science Center für Luftfahrt-Ausstellung",
+        "excerpt": "Korean Air spendet eine nach 20 Flugjahren ausgemusterte Boeing 747-400 an das Science Center in Los Angeles, wo sie zur interaktiven Luftfahrtausstellung wird.",
+        "body": "Korean Air spendet eine ausgemusterte Boeing 747-400, die 20 Jahre lang geflogen ist, an das Science Center in Los Angeles. Dort soll sie zu einer interaktiven Ausstellung zur Luftfahrtwissenschaft für künftige Generationen werden. Nach ihrem langen Einsatz als Passagierflugzeug erhält die Maschine damit eine neue Rolle als Bildungsobjekt. Der Ausstellungsbereich soll Programme umfassen, bei denen Besucher Luftfahrttechnik direkt erleben können, darunter virtuelle Flüge im Cockpit. Korean-Air-Chef Cho Won-tae sagte, er hoffe, dass die Spende junge Menschen inspiriere. Das Vorhaben zeigt, wie ein ausgemustertes Flugzeug Luftfahrtgeschichte und Technik mit öffentlicher Bildung verbinden kann. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Korean Air donne un Boeing 747-400 au centre scientifique de LA pour l’aviation",
+        "excerpt": "Korean Air donne un Boeing 747-400 retiré après 20 ans de vol au centre scientifique de Los Angeles pour en faire une exposition aéronautique interactive.",
+        "body": "Korean Air va donner un Boeing 747-400 retiré du service, après 20 ans de vol, au centre scientifique de Los Angeles afin de créer un espace interactif consacré aux sciences aéronautiques pour les générations futures. Après sa longue carrière comme avion de ligne, l’appareil aura un nouveau rôle de support éducatif d’exposition. L’espace comprendra des programmes permettant aux visiteurs de découvrir directement les technologies de l’aviation, dont un vol virtuel depuis le cockpit. Le président de Korean Air, Cho Won-tae, a déclaré espérer que ce don inspirera les jeunes. Cette initiative illustre la manière dont un avion retiré peut relier l’histoire et la technologie aéronautiques à l’éducation du public. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الخطوط الكورية تهدي بوينغ 747-400 إلى مركز علوم لوس أنجلوس لمعرض طيران",
+        "excerpt": "تهدي الخطوط الجوية الكورية طائرة بوينغ 747-400 متقاعدة بعد 20 عاما من الطيران إلى مركز العلوم في لوس أنجلوس لتحويلها إلى معرض تفاعلي للطيران.",
+        "body": "تهدي الخطوط الجوية الكورية طائرة ركاب متقاعدة من طراز بوينغ 747-400، حلقت لمدة 20 عاما، إلى مركز العلوم في لوس أنجلوس بالولايات المتحدة، لتحويلها إلى مساحة عرض تفاعلية لعلوم الطيران موجهة إلى الأجيال المقبلة. وبعد انتهاء خدمتها الطويلة كطائرة ركاب، ستحصل الطائرة على دور جديد كأصل تعليمي معروض للجمهور. وستتضمن المساحة برامج تتيح للزوار اختبار تقنيات الطيران مباشرة، من بينها تجربة طيران افتراضي من قمرة القيادة. وقال رئيس الخطوط الجوية الكورية تشو وون تاي إنه يأمل أن تلهم هذه الهبة الشباب. وتبرز المبادرة كيف يمكن لطائرة متقاعدة أن تربط تاريخ صناعة الطيران وتقنياتها بالتعليم العام. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Korean Air ने LA साइंस सेंटर को Boeing 747-400 दान किया, बनेगी विमानन प्रदर्शनी",
+        "excerpt": "Korean Air 20 साल उड़ान भर चुके सेवानिवृत्त Boeing 747-400 को लॉस एंजिलिस साइंस सेंटर को दान कर रही है, जहां cockpit virtual flight जैसे कार्यक्रम होंगे।",
+        "body": "Korean Air ने 20 साल तक उड़ान भर चुके सेवानिवृत्त Boeing 747-400 यात्री विमान को अमेरिका के लॉस एंजिलिस साइंस सेंटर को दान करने का निर्णय लिया है, ताकि उसे भविष्य की पीढ़ियों के लिए इंटरैक्टिव विमानन विज्ञान प्रदर्शनी में बदला जा सके। लंबे समय तक यात्री विमान के रूप में सेवा देने के बाद यह विमान अब शैक्षणिक प्रदर्शनी संपत्ति की भूमिका निभाएगा। प्रदर्शनी में ऐसे कार्यक्रम शामिल होंगे जिनसे आगंतुक विमानन तकनीक का प्रत्यक्ष अनुभव कर सकेंगे, जिनमें cockpit virtual flight भी शामिल है। Korean Air के चेयरमैन Cho Won-tae ने कहा कि उन्हें उम्मीद है कि यह दान युवाओं को प्रेरणा देगा। यह पहल दिखाती है कि सेवानिवृत्त विमान विमानन इतिहास और तकनीक को सार्वजनिक शिक्षा से जोड़ सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Korean Air Sumbang Boeing 747-400 ke Pusat Sains LA untuk Pameran Aviasi",
+        "excerpt": "Korean Air menyumbangkan Boeing 747-400 pensiun setelah 20 tahun terbang ke pusat sains Los Angeles untuk dijadikan ruang pamer aviasi interaktif.",
+        "body": "Korean Air menyumbangkan pesawat penumpang Boeing 747-400 yang telah pensiun setelah terbang selama 20 tahun kepada pusat sains di Los Angeles, Amerika Serikat, untuk dijadikan ruang pamer sains aviasi interaktif bagi generasi masa depan. Setelah menyelesaikan masa tugas panjang sebagai pesawat penumpang, pesawat ini akan menjalankan peran baru sebagai aset pameran edukatif. Ruang tersebut akan mencakup program yang memungkinkan pengunjung merasakan teknologi penerbangan secara langsung, termasuk penerbangan virtual dari kokpit. Chairman Korean Air Cho Won-tae menyampaikan harapan agar donasi ini memberi inspirasi kepada kaum muda. Inisiatif ini menunjukkan bagaimana pesawat pensiun dapat menghubungkan sejarah dan teknologi industri aviasi dengan pendidikan publik. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "bbbe1a8d87b0",
+    "slug": "이원중-삼양사-팀장-과학기술진흥유공-부총리-표창-516087",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T06:01:19.929Z",
+    "updatedAt": "2026-05-13T06:01:19.929Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12046149",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12046149",
+    "titleFingerprint": "ffc1b5f4faf4be2d184ef9cb0198ffaaf4aa1492",
+    "dedupKeys": [
+      "bbbe1a8d87b027c73b8299c32470d435555c8011",
+      "ffc1b5f4faf4be2d184ef9cb0198ffaaf4aa1492",
+      "40bae6b94370ba88572a3c7772ea5b729eaa8c4f"
+    ],
+    "imageUrl": "/images/articles/bbbe1a8d87b0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이원중 삼양사 팀장, 디스플레이 감광성 소재 양산 공로로 부총리 표창",
+        "excerpt": "삼양사 이원중 전자재료 프로그램 팀장이 2026년 과학의 날 과학기술진흥유공 부총리 표창 전수식에서 디스플레이 감광성 소재 6종 양산 공로를 인정받았다.",
+        "body": "삼양사 소속 이원중 전자재료 프로그램 팀장이 지난 12일 열린 ‘2026년도 과학의 날 과학기술진흥유공 부총리 표창 전수식’에서 부총리 표창을 받았다. 이 팀장은 디스플레이용 감광성 소재 6종을 양산한 공로를 인정받았다. 해당 성과는 전자재료 분야에서 소재 개발과 양산 역량을 보여주는 사례로 평가된다. 삼양사 내부 전자재료 프로그램을 이끄는 역할과 함께 관련 소재의 생산 기반 확대가 이번 표창의 핵심 배경으로 제시됐다. 향후 디스플레이 소재 분야에서 국산화와 안정적 공급 역량 강화에 대한 관심도 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samyang’s Lee Won-jung Honored for Display Photosensitive Materials Output",
+        "excerpt": "Lee Won-jung, electronic materials program team leader at Samyang Corp., was recognized at the 2026 Science Day ceremony for mass-producing six display photosensitive materials.",
+        "body": "Lee Won-jung, electronic materials program team leader at Samyang Corp., received a Deputy Prime Minister commendation at the 2026 Science Day ceremony for contributors to science and technology promotion held on May 12. Lee was recognized for the mass production of six types of photosensitive materials used in displays. The achievement highlights Samyang’s capabilities in electronic materials development and production. His role in leading the company’s electronic materials program and expanding the production base for related materials formed the core basis for the award. Attention is expected to continue on localization and stable supply capabilities in display materials. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "三養社の李元中チーム長、ディスプレー感光性素材量産で副総理表彰",
+        "excerpt": "三養社の李元中電子材料プログラムチーム長が、2026年科学の日の科学技術振興有功副総理表彰伝達式で、ディスプレー感光性素材6種の量産功績を認められた。",
+        "body": "三養社に所属する李元中電子材料プログラムチーム長は、5月12日に開かれた「2026年度科学の日 科学技術振興有功副総理表彰伝達式」で副総理表彰を受けた。李チーム長は、ディスプレー用感光性素材6種を量産した功績が認められた。今回の成果は、電子材料分野における素材開発と量産能力を示す事例と評価されている。社内の電子材料プログラムを率いる役割と、関連素材の生産基盤拡大が表彰の主な背景となった。今後、ディスプレー素材分野での国産化と安定供給能力の強化にも関心が続く見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三养社李元中团队长因量产显示感光材料获副总理表彰",
+        "excerpt": "三养社电子材料项目团队长李元中在2026年科学日科技振兴有功副总理表彰传达仪式上，因量产6种显示用感光材料获认可。",
+        "body": "三养社电子材料项目团队长李元中于5月12日举行的“2026年度科学日科技振兴有功副总理表彰传达仪式”上获得副总理表彰。李团队长因实现6种显示用感光材料量产而受到认可。该成果被视为电子材料领域中材料开发与量产能力的案例。其领导公司内部电子材料项目的角色，以及扩大相关材料生产基础，是此次获奖的核心背景。未来，显示材料领域的国产化和稳定供应能力强化也将继续受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Lee Won-jung de Samyang recibe reconocimiento por materiales fotosensibles",
+        "excerpt": "Lee Won-jung, jefe del programa de materiales electrónicos de Samyang Corp., fue reconocido en el Día de la Ciencia 2026 por producir en masa seis materiales fotosensibles para pantallas.",
+        "body": "Lee Won-jung, jefe del programa de materiales electrónicos de Samyang Corp., recibió una mención del vice primer ministro en la ceremonia de entrega de reconocimientos por contribuciones a la promoción de la ciencia y la tecnología del Día de la Ciencia 2026, celebrada el 12 de mayo. Lee fue reconocido por la producción en masa de seis tipos de materiales fotosensibles para pantallas. El logro muestra la capacidad de Samyang en desarrollo y producción de materiales electrónicos. Su papel al dirigir el programa interno y ampliar la base productiva de estos materiales fue el eje del reconocimiento. La atención seguirá puesta en la localización y el suministro estable de materiales para pantallas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lee Won-jung, da Samyang, é premiado por materiais fotossensíveis",
+        "excerpt": "Lee Won-jung, líder do programa de materiais eletrônicos da Samyang Corp., foi reconhecido no Dia da Ciência de 2026 pela produção em massa de seis materiais fotossensíveis para displays.",
+        "body": "Lee Won-jung, líder do programa de materiais eletrônicos da Samyang Corp., recebeu uma comenda do vice-primeiro-ministro na cerimônia de 2026 do Dia da Ciência para contribuições à promoção da ciência e tecnologia, realizada em 12 de maio. Lee foi reconhecido pela produção em massa de seis tipos de materiais fotossensíveis usados em displays. O feito evidencia a capacidade da Samyang em desenvolvimento e produção de materiais eletrônicos. Sua liderança no programa interno e a ampliação da base produtiva desses materiais foram o principal fundamento da premiação. A atenção deve continuar voltada à localização e ao fornecimento estável de materiais para displays. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samyang-Teamleiter Lee Won-jung für Display-Fotomaterialien ausgezeichnet",
+        "excerpt": "Lee Won-jung, Leiter des Programms für elektronische Materialien bei Samyang Corp., wurde am Wissenschaftstag 2026 für die Serienproduktion von sechs fotosensitiven Displaymaterialien geehrt.",
+        "body": "Lee Won-jung, Leiter des Programms für elektronische Materialien bei Samyang Corp., erhielt bei der am 12. Mai abgehaltenen Zeremonie zum Wissenschaftstag 2026 für Verdienste um die Förderung von Wissenschaft und Technologie eine Auszeichnung des stellvertretenden Premierministers. Lee wurde für die Serienproduktion von sechs Arten fotosensitiver Materialien für Displays gewürdigt. Die Leistung gilt als Beispiel für Samyangs Fähigkeiten bei Entwicklung und Produktion elektronischer Materialien. Seine Rolle bei der Leitung des internen Programms und der Ausbau der Produktionsbasis für diese Materialien bildeten den Kern der Ehrung. Im Fokus bleiben Lokalisierung und stabile Lieferfähigkeit bei Displaymaterialien. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Lee Won-jung de Samyang distingué pour des matériaux photosensibles",
+        "excerpt": "Lee Won-jung, chef du programme matériaux électroniques de Samyang Corp., a été distingué lors de la Journée de la science 2026 pour la production de masse de six matériaux photosensibles pour écrans.",
+        "body": "Lee Won-jung, chef du programme matériaux électroniques de Samyang Corp., a reçu une distinction du vice-Premier ministre lors de la cérémonie 2026 de la Journée de la science consacrée aux contributions à la promotion des sciences et technologies, organisée le 12 mai. Il a été reconnu pour la production de masse de six types de matériaux photosensibles destinés aux écrans. Cette réalisation illustre les capacités de Samyang dans le développement et la production de matériaux électroniques. Son rôle à la tête du programme interne et l’élargissement de la base de production de ces matériaux ont constitué le cœur de la récompense. L’attention devrait rester portée sur la localisation et la stabilité de l’approvisionnement en matériaux pour écrans. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "لي وون جونغ من ساميانغ ينال تكريما لإنتاج مواد حساسة للضوء للشاشات",
+        "excerpt": "حصل لي وون جونغ، قائد برنامج المواد الإلكترونية في ساميانغ، على تقدير في يوم العلوم 2026 بعد إنتاج ستة أنواع من المواد الحساسة للضوء المستخدمة في الشاشات.",
+        "body": "حصل لي وون جونغ، قائد برنامج المواد الإلكترونية في شركة ساميانغ، على وسام من نائب رئيس الوزراء خلال مراسم يوم العلوم لعام 2026 لتكريم المساهمين في تعزيز العلوم والتكنولوجيا، التي أقيمت في 12 مايو. وجاء التكريم تقديرا لإنتاجه الكمي لستة أنواع من المواد الحساسة للضوء المستخدمة في الشاشات. ويبرز هذا الإنجاز قدرات ساميانغ في تطوير المواد الإلكترونية وإنتاجها. كما شكّل دوره في قيادة البرنامج الداخلي للمواد الإلكترونية وتوسيع قاعدة إنتاج المواد ذات الصلة أساسا رئيسيا للتكريم. ومن المتوقع استمرار الاهتمام بتوطين مواد الشاشات وتعزيز القدرة على توفيرها بشكل مستقر. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सैमयांग के ली वोन-जुंग को डिस्प्ले फोटोसेंसिटिव सामग्री के लिए सम्मान",
+        "excerpt": "सैमयांग कॉर्प. के इलेक्ट्रॉनिक सामग्री कार्यक्रम टीम लीडर ली वोन-जुंग को 2026 विज्ञान दिवस समारोह में डिस्प्ले के लिए छह फोटोसेंसिटिव सामग्रियों के बड़े पैमाने पर उत्पादन के लिए मान्यता मिली।",
+        "body": "सैमयांग कॉर्प. के इलेक्ट्रॉनिक सामग्री कार्यक्रम टीम लीडर ली वोन-जुंग को 12 मई को आयोजित 2026 विज्ञान दिवस विज्ञान और प्रौद्योगिकी प्रोत्साहन योगदान समारोह में उप प्रधानमंत्री की प्रशंसा मिली। ली को डिस्प्ले में उपयोग होने वाली छह प्रकार की फोटोसेंसिटिव सामग्रियों के बड़े पैमाने पर उत्पादन के लिए मान्यता दी गई। यह उपलब्धि इलेक्ट्रॉनिक सामग्री के विकास और उत्पादन में सैमयांग की क्षमता को दिखाती है। कंपनी के आंतरिक इलेक्ट्रॉनिक सामग्री कार्यक्रम का नेतृत्व और संबंधित सामग्रियों के उत्पादन आधार का विस्तार इस सम्मान का मुख्य आधार रहा। आगे डिस्प्ले सामग्री के स्थानीयकरण और स्थिर आपूर्ति क्षमता पर ध्यान जारी रहने की उम्मीद है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Lee Won-jung Samyang Raih Penghargaan Berkat Material Fotosensitif Display",
+        "excerpt": "Lee Won-jung, pemimpin tim program material elektronik Samyang Corp., diakui pada Hari Sains 2026 atas produksi massal enam material fotosensitif untuk display.",
+        "body": "Lee Won-jung, pemimpin tim program material elektronik di Samyang Corp., menerima penghargaan Wakil Perdana Menteri pada upacara Hari Sains 2026 untuk kontribusi dalam kemajuan sains dan teknologi yang digelar pada 12 Mei. Lee diakui atas produksi massal enam jenis material fotosensitif yang digunakan untuk display. Capaian ini menunjukkan kemampuan Samyang dalam pengembangan dan produksi material elektronik. Perannya memimpin program material elektronik internal serta perluasan basis produksi material terkait menjadi latar utama penghargaan tersebut. Ke depan, perhatian terhadap lokalisasi dan kemampuan pasokan stabil di bidang material display diperkirakan berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "635149246c84",
+    "slug": "에너지-위기-현장-아이디어로-돌파한국동서발전-에너지-절감-우수사례-공모전-발표회-183144",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T06:00:08.136Z",
+    "updatedAt": "2026-05-13T06:00:08.136Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12046151",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12046151",
+    "titleFingerprint": "c29c5e9c839882a58a9f952174d6419a7371dafc",
+    "dedupKeys": [
+      "635149246c846a862e4dc25ec58203eeb476b7a5",
+      "c29c5e9c839882a58a9f952174d6419a7371dafc",
+      "d3834fff119a4db1722338b7835d00a6bdd32178"
+    ],
+    "imageUrl": "/images/articles/635149246c84.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국동서발전 에너지 절감 공모전 발표회, 연 155억원 비용절감 기대",
+        "excerpt": "한국동서발전은 지난 12일 에너지 안보 위기 대응을 위해 현장 중심 절감 아이디어를 공유하는 에너지 절감 우수사례 공모전 발표회를 열고 실질 성과 창출에 나섰다.",
+        "body": "한국동서발전은 지난 12일 에너지 안보 위기 상황에 대응하기 위해 ‘에너지 절감 우수사례 공모전 발표회’를 열고 현장 중심의 절감 성과를 공유했다. 이번 발표회는 현장에서 나온 아이디어를 바탕으로 적극적인 에너지 절감 활동을 확산하고, 실질적인 비용 절감 효과를 만들기 위해 마련됐다. 회사는 관련 활동을 통해 연간 약 155억원의 비용 절감이 기대된다고 밝혔다. 에너지 안보 위기가 이어지는 가운데 발전 현장의 개선 사례를 발굴해 운영 효율을 높이는 데 초점이 맞춰졌다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea East-West Power shares energy-saving cases, eyes 15.5 billion won in annual savings",
+        "excerpt": "Korea East-West Power held an energy-saving best-practice presentation on the 12th to respond to energy security risks by sharing field-based ideas aimed at practical cost reduction.",
+        "body": "Korea East-West Power held an “Energy-Saving Best Practices Contest Presentation” on the 12th to respond to the energy security crisis and share field-centered savings results. The event was designed to spread active energy-saving efforts based on ideas developed at operating sites and to create tangible cost reductions. The company said the related activities are expected to cut costs by about 15.5 billion won annually. As energy security concerns continue, the focus is on identifying improvement cases from power generation sites and raising operational efficiency. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国東西発電、エネルギー節減事例を共有 年155億ウォン削減に期待",
+        "excerpt": "韓国東西発電は12日、エネルギー安全保障危機への対応として、現場発の節減アイデアを共有する優秀事例公募展の発表会を開いた。",
+        "body": "韓国東西発電は12日、エネルギー安全保障危機に対応するため、「エネルギー節減優秀事例公募展発表会」を開き、現場中心の節減成果を共有した。今回の発表会は、現場で生まれたアイデアを基に積極的なエネルギー節減活動を広げ、実質的なコスト削減効果を生み出すために設けられた。同社は関連活動により、年間約155億ウォンの費用削減が期待されると明らかにした。エネルギー安全保障への懸念が続く中、発電現場の改善事例を発掘し、運営効率を高めることに焦点を当てている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国东西发电发布节能优秀案例，预计每年节省155亿韩元成本",
+        "excerpt": "韩国东西发电12日举行节能优秀案例征集发布会，围绕能源安全危机，分享来自一线现场的节能创意和实际降本成果。",
+        "body": "韩国东西发电12日为应对能源安全危机，举行了“节能优秀案例征集发布会”，分享以现场为中心的节能成果。本次发布会旨在基于一线提出的创意，扩大积极的节能活动，并形成切实的成本节约效果。公司表示，通过相关活动，预计每年可节省约155亿韩元成本。在能源安全危机持续的背景下，活动重点放在发掘发电现场的改进案例，并提升运营效率。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Korea East-West Power presenta casos de ahorro energético y prevé ahorrar 15.500 millones de wones al año",
+        "excerpt": "Korea East-West Power celebró el día 12 una presentación de buenas prácticas de ahorro energético para responder a la crisis de seguridad energética con ideas surgidas en el terreno.",
+        "body": "Korea East-West Power celebró el día 12 la “Presentación del concurso de mejores casos de ahorro energético” para responder a la crisis de seguridad energética y compartir resultados de ahorro centrados en el terreno. El encuentro se organizó para difundir actividades activas de ahorro de energía basadas en ideas surgidas en los lugares de trabajo y generar reducciones de costes reales. La empresa indicó que estas actividades podrían ahorrar alrededor de 15.500 millones de wones al año. En medio de las preocupaciones por la seguridad energética, el foco está en detectar mejoras en las plantas de generación y elevar la eficiencia operativa. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Korea East-West Power divulga casos de economia de energia e prevê poupar 15,5 bilhões de won por ano",
+        "excerpt": "A Korea East-West Power realizou no dia 12 uma apresentação de boas práticas de economia de energia para responder à crise de segurança energética com ideias de campo.",
+        "body": "A Korea East-West Power realizou no dia 12 a “Apresentação do concurso de melhores casos de economia de energia” para responder à crise de segurança energética e compartilhar resultados de redução baseados no campo. O evento foi preparado para ampliar atividades ativas de economia de energia a partir de ideias surgidas nas unidades operacionais e gerar cortes reais de custos. A companhia informou que as ações relacionadas devem permitir economia anual de cerca de 15,5 bilhões de won. Diante da continuidade das preocupações com segurança energética, o foco está em identificar melhorias nos locais de geração e elevar a eficiência operacional. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Korea East-West Power stellt Energiesparfälle vor und erwartet 15,5 Mrd. Won jährliche Einsparungen",
+        "excerpt": "Korea East-West Power veranstaltete am 12. eine Präsentation ausgezeichneter Energiesparfälle, um in der Energiekrise praxisnahe Ideen aus den Standorten zu teilen.",
+        "body": "Korea East-West Power hat am 12. die „Präsentation des Wettbewerbs für ausgezeichnete Energiesparfälle“ veranstaltet, um auf die Energieversorgungskrise zu reagieren und standortnahe Einsparergebnisse zu teilen. Die Veranstaltung soll aktive Energiesparmaßnahmen verbreiten, die auf Ideen aus der Praxis beruhen, und konkrete Kostensenkungen ermöglichen. Das Unternehmen erklärte, durch die entsprechenden Aktivitäten würden jährliche Einsparungen von rund 15,5 Milliarden Won erwartet. Angesichts anhaltender Sorgen um die Energiesicherheit liegt der Schwerpunkt darauf, Verbesserungsbeispiele aus Kraftwerksstandorten zu finden und die betriebliche Effizienz zu steigern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Korea East-West Power présente des cas d’économie d’énergie et vise 15,5 milliards de wons d’économies annuelles",
+        "excerpt": "Korea East-West Power a tenu le 12 une présentation de bonnes pratiques d’économie d’énergie afin de répondre à la crise de sécurité énergétique par des idées issues du terrain.",
+        "body": "Korea East-West Power a organisé le 12 la « présentation du concours des meilleurs cas d’économie d’énergie » afin de répondre à la crise de sécurité énergétique et de partager des résultats centrés sur le terrain. L’événement vise à diffuser des actions actives d’économie d’énergie fondées sur des idées venues des sites opérationnels et à produire des réductions de coûts concrètes. L’entreprise a indiqué que ces activités devraient permettre d’économiser environ 15,5 milliards de wons par an. Alors que les inquiétudes sur la sécurité énergétique se poursuivent, l’accent est mis sur l’identification d’améliorations dans les sites de production et sur l’efficacité opérationnelle. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوريا إيست-ويست باور تعرض حالات ترشيد الطاقة وتتوقع توفير 15.5 مليار وون سنويا",
+        "excerpt": "عقدت كوريا إيست-ويست باور في 12 الشهر عرضا لأفضل ممارسات ترشيد الطاقة لمواجهة أزمة أمن الطاقة عبر أفكار عملية من مواقع العمل.",
+        "body": "عقدت كوريا إيست-ويست باور في 12 الشهر عرضا بعنوان «مسابقة أفضل حالات ترشيد الطاقة» للاستجابة لأزمة أمن الطاقة ومشاركة نتائج الترشيد المرتكزة على مواقع العمل. وجاء العرض لنشر أنشطة ترشيد الطاقة النشطة القائمة على أفكار خرجت من الميدان وتحقيق خفض فعلي في التكاليف. وقالت الشركة إن الأنشطة ذات الصلة يُتوقع أن توفر نحو 15.5 مليار وون سنويا. ومع استمرار أزمة أمن الطاقة، يتركز الاهتمام على اكتشاف حالات تحسين في مواقع توليد الكهرباء ورفع كفاءة التشغيل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Korea East-West Power ने ऊर्जा बचत मामले पेश किए, सालाना 15.5 अरब वॉन बचत की उम्मीद",
+        "excerpt": "Korea East-West Power ने ऊर्जा सुरक्षा संकट से निपटने के लिए 12 तारीख को ऊर्जा बचत श्रेष्ठ मामलों की प्रस्तुति आयोजित की, जिसमें स्थल-आधारित विचार साझा किए गए।",
+        "body": "Korea East-West Power ने ऊर्जा सुरक्षा संकट का जवाब देने के लिए 12 तारीख को “ऊर्जा बचत श्रेष्ठ मामला प्रतियोगिता प्रस्तुति” आयोजित की और स्थल-केंद्रित बचत उपलब्धियां साझा कीं। यह कार्यक्रम कार्यस्थलों से आए विचारों के आधार पर सक्रिय ऊर्जा बचत गतिविधियों को फैलाने और वास्तविक लागत कटौती प्रभाव बनाने के लिए तैयार किया गया। कंपनी ने कहा कि संबंधित गतिविधियों से सालाना लगभग 15.5 अरब वॉन की लागत बचत अपेक्षित है। ऊर्जा सुरक्षा को लेकर चिंता जारी रहने के बीच, ध्यान बिजली उत्पादन स्थलों से सुधार मामलों की पहचान करने और संचालन दक्षता बढ़ाने पर है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Korea East-West Power paparkan kasus hemat energi, bidik penghematan 15,5 miliar won per tahun",
+        "excerpt": "Korea East-West Power pada tanggal 12 menggelar paparan praktik terbaik penghematan energi untuk merespons krisis keamanan energi lewat ide berbasis lapangan.",
+        "body": "Korea East-West Power pada tanggal 12 menggelar “Paparan Kontes Praktik Terbaik Penghematan Energi” untuk merespons krisis keamanan energi dan membagikan capaian penghematan yang berpusat pada lapangan. Acara ini disiapkan untuk memperluas aktivitas penghematan energi aktif berdasarkan ide dari lokasi kerja dan menciptakan efek pengurangan biaya yang nyata. Perusahaan menyatakan kegiatan terkait diperkirakan dapat menghemat biaya sekitar 15,5 miliar won per tahun. Di tengah berlanjutnya kekhawatiran keamanan energi, fokusnya adalah menemukan contoh perbaikan di lokasi pembangkit dan meningkatkan efisiensi operasional. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "bc3abeb4b8f5",
     "slug": "오래-누우세요코웨이-cgv영등포타임스퀘어에-코웨이-비렉스관-오픈-874918",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Nvidia-Corning Bentuk ‘Aliansi Cahaya’, Perusahaan Kaca Pilihan Huang Disorot",
         "excerpt": "Nvidia meneken kontrak dengan Corning pada Mei saat memperluas belanja untuk ekosistem AI. Teknologi kaca cepat yang dikaitkan dengan Jensen Huang menarik perhatian pasar saham AS.",
         "body": "Nvidia dan Corning pada Mei membentuk apa yang disebut laporan asli sebagai ‘aliansi cahaya’ di tengah upaya Nvidia memperluas ekosistem kecerdasan buatan (AI). Menurut laporan tersebut, Nvidia bulan ini aktif menggelontorkan dana ke bidang terkait AI, dan salah satu langkahnya adalah kontrak dengan Corning. Corning disorot berkat teknologi yang digambarkan sebagai ‘kaca tercepat di dunia’ dan menarik perhatian di pasar saham AS. Kesepakatan ini menunjukkan persaingan infrastruktur AI meluas dari chip ke perangkat keras dan material. Laporan asli tidak menyebutkan nilai kontrak atau dampak spesifik terhadap kinerja. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2bf7c825dfab",
-    "slug": "배터리태양광-전략산업-보호하려면직접환급제-절실-404007",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-12T14:51:28.629Z",
-    "updatedAt": "2026-05-12T14:51:28.629Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12044699",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12044699",
-    "titleFingerprint": "dc6a41227d6e9d86d218d0e46972af29ec9f1130",
-    "dedupKeys": [
-      "2bf7c825dfab0b85e45787d5fa0f3f12d2ddbc83",
-      "dc6a41227d6e9d86d218d0e46972af29ec9f1130",
-      "e9d836a73def043db589e5541c190ce1aee1894b"
-    ],
-    "imageUrl": "/images/articles/2bf7c825dfab.jpg",
-    "i18n": {
-      "ko": {
-        "title": "배터리·태양광 전략산업 보호, ‘한국형 IRA’ 직접환급제가 관건",
-        "excerpt": "글로벌 공급망 재편과 자국 우선주의가 확산되는 가운데 배터리·태양광 등 전략산업을 보호하려면 생산량 연동 지원과 직접환급제가 필요하다는 주장이 제기됐다.",
-        "body": "글로벌 공급망 재편과 자국 우선주의 확산 속에서 배터리·태양광 등 전략산업을 보호하려면 ‘한국형 IRA’에 직접환급제를 도입해야 한다는 주장이 나왔다. 핵심은 생산량에 지원을 연동해 적자 기업도 실질적 혜택을 받을 수 있게 하는 것이다. 원문은 반도체를 포함한 전략산업이 글로벌 경쟁의 전면에 놓였고, 산업 안보 차원의 대응이 중요해졌다고 강조했다. 직접환급제가 마련되면 이익이 나지 않는 기업도 세액공제에 그치지 않고 지원 효과를 체감할 수 있다는 점이 부각된다. 향후 제도 설계는 국내 전략산업 보호와 공급망 대응 역량을 좌우할 변수로 거론된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Battery and Solar Industry Protection Hinges on Direct Refunds in Korea-Style IRA",
-        "excerpt": "As supply chains shift and national-first policies spread, calls are growing for a Korea-style IRA that links support to output and uses direct refunds for strategic industries.",
-        "body": "Amid global supply chain realignment and the spread of national-first policies, calls have emerged for direct refunds under a “Korea-style IRA” to protect strategic industries such as batteries and solar power. The key proposal is to link support to production volume so that loss-making companies can also receive practical benefits. The source says strategic sectors, including semiconductors, are at the center of global competition and that industrial security has become more important. With direct refunds, companies without profits would not be limited to tax credits and could feel the effect of support. The design of the system is expected to matter for protecting domestic strategic industries and responding to supply chain pressures. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "電池・太陽光の戦略産業保護、韓国版IRAの直接還付制が焦点",
-        "excerpt": "供給網再編と自国優先主義が広がる中、電池・太陽光など戦略産業を守るには、生産量連動支援と直接還付制が必要との声が出ている。",
-        "body": "世界的な供給網再編と自国優先主義の拡大を受け、電池・太陽光などの戦略産業を保護するには「韓国版IRA」に直接還付制を導入すべきだとの主張が出た。核心は、生産量に支援を連動させ、赤字企業も実質的な恩恵を受けられるようにすることだ。原文は、半導体を含む戦略産業がグローバル競争の前面にあり、産業安全保障としての対応が重要になったと強調した。直接還付制が整えば、利益が出ていない企業も税額控除にとどまらず支援効果を実感できる点が注目される。制度設計は国内戦略産業の保護と供給網対応力を左右する要因として挙げられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "电池与太阳能战略产业保护，韩版IRA直接退还制成关键",
-        "excerpt": "在全球供应链重组和本国优先主义扩散之际，有观点认为，保护电池、太阳能等战略产业需要与产量挂钩的支持和直接退还制。",
-        "body": "随着全球供应链重组和本国优先主义扩散，有观点提出，为保护电池、太阳能等战略产业，应在“韩国版IRA”中引入直接退还制。其核心是将支持与产量挂钩，使亏损企业也能获得实际利益。原文强调，包括半导体在内的战略产业正处于全球竞争前沿，产业安全层面的应对变得更加重要。若建立直接退还制，尚未盈利的企业也不再只局限于税额抵免，而能感受到支持效果。未来制度设计被视为影响韩国国内战略产业保护和供应链应对能力的重要因素。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Baterías y solar: la protección estratégica depende de reembolsos directos",
-        "excerpt": "Ante la reconfiguración de las cadenas de suministro y el auge del nacionalismo económico, crecen los llamados a una IRA coreana con apoyo ligado a producción y reembolsos directos.",
-        "body": "En medio de la reconfiguración de las cadenas globales de suministro y la expansión de políticas de prioridad nacional, surgió el llamado a introducir reembolsos directos en una “IRA coreana” para proteger industrias estratégicas como baterías y energía solar. La propuesta central es vincular el apoyo al volumen de producción para que también las empresas con pérdidas reciban beneficios reales. El texto original subraya que sectores estratégicos, incluidos los semiconductores, están en el frente de la competencia global y que la seguridad industrial ha ganado importancia. Con reembolsos directos, las compañías sin ganancias no quedarían limitadas a créditos fiscales y podrían percibir el efecto del apoyo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Baterias e solar: proteção estratégica exige reembolso direto na IRA coreana",
-        "excerpt": "Com cadeias globais em rearranjo e políticas de prioridade nacional em alta, cresce a defesa de uma IRA coreana com apoio ligado à produção e reembolso direto.",
-        "body": "Diante da reorganização das cadeias globais de suprimento e da expansão do nacionalismo econômico, surgiu a defesa de incluir reembolso direto em uma “IRA coreana” para proteger indústrias estratégicas como baterias e energia solar. O ponto central é atrelar o apoio ao volume de produção, permitindo que empresas deficitárias também recebam benefícios efetivos. O texto original destaca que setores estratégicos, incluindo semicondutores, estão na linha de frente da competição global e que a segurança industrial se tornou mais importante. Com o reembolso direto, companhias sem lucro não ficariam restritas a créditos tributários e poderiam sentir o efeito do apoio. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Batterie- und Solarindustrie: Koreas IRA braucht direkte Rückerstattung",
-        "excerpt": "Angesichts neuer Lieferketten und nationaler Vorrangpolitik wird für strategische Branchen wie Batterien und Solarenergie eine produktionsgebundene Förderung mit direkter Rückerstattung gefordert.",
-        "body": "Vor dem Hintergrund der Neuordnung globaler Lieferketten und der Ausbreitung nationaler Vorrangpolitik wird gefordert, in eine „koreanische IRA“ direkte Rückerstattungen aufzunehmen, um strategische Branchen wie Batterien und Solarenergie zu schützen. Kern des Vorschlags ist, die Unterstützung an die Produktionsmenge zu koppeln, damit auch verlustreiche Unternehmen tatsächliche Vorteile erhalten können. Der Ausgangstext betont, dass strategische Branchen einschließlich Halbleitern im Zentrum des globalen Wettbewerbs stehen und industrielle Sicherheit wichtiger geworden ist. Mit einer direkten Rückerstattung wären Unternehmen ohne Gewinn nicht nur auf Steuergutschriften beschränkt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Batteries et solaire: l’IRA coréenne doit miser sur le remboursement direct",
-        "excerpt": "Face à la recomposition des chaînes d’approvisionnement et au repli national, des voix demandent une IRA coréenne liant l’aide à la production avec remboursement direct.",
-        "body": "Dans un contexte de recomposition des chaînes d’approvisionnement mondiales et de montée des politiques de priorité nationale, des appels émergent pour introduire un remboursement direct dans une « IRA coréenne » afin de protéger les industries stratégiques comme les batteries et le solaire. L’idée centrale est de lier le soutien au volume de production afin que les entreprises déficitaires puissent aussi bénéficier d’une aide réelle. Le texte d’origine souligne que les secteurs stratégiques, dont les semi-conducteurs, sont au cœur de la concurrence mondiale et que la sécurité industrielle gagne en importance. Un remboursement direct permettrait aux entreprises non rentables de ne pas dépendre seulement de crédits d’impôt. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "حماية البطاريات والطاقة الشمسية تتوقف على رد مباشر في IRA كورية",
-        "excerpt": "مع إعادة تشكيل سلاسل الإمداد العالمية واتساع سياسات تفضيل الداخل، تبرز دعوات لربط دعم الصناعات الاستراتيجية بالإنتاج عبر نظام رد مباشر.",
-        "body": "في ظل إعادة تشكيل سلاسل الإمداد العالمية واتساع سياسات تفضيل الداخل، ظهرت دعوات لإدخال نظام رد مباشر ضمن «IRA كورية» لحماية الصناعات الاستراتيجية مثل البطاريات والطاقة الشمسية. جوهر الطرح هو ربط الدعم بحجم الإنتاج حتى تتمكن الشركات الخاسرة أيضا من الحصول على منفعة فعلية. ويؤكد النص الأصلي أن الصناعات الاستراتيجية، بما في ذلك أشباه الموصلات، باتت في واجهة المنافسة العالمية، وأن أهمية الأمن الصناعي ازدادت. وإذا تم اعتماد الرد المباشر، فلن تقتصر الشركات غير الرابحة على الائتمانات الضريبية، بل يمكنها لمس أثر الدعم بصورة أوضح. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "बैटरी और सौर रणनीतिक उद्योगों की सुरक्षा के लिए प्रत्यक्ष रिफंड जरूरी",
-        "excerpt": "वैश्विक आपूर्ति शृंखलाओं के पुनर्गठन और देश-प्रथम नीतियों के बीच बैटरी व सौर जैसे रणनीतिक उद्योगों के लिए उत्पादन-आधारित समर्थन और प्रत्यक्ष रिफंड की मांग उठी।",
-        "body": "वैश्विक आपूर्ति शृंखलाओं के पुनर्गठन और देश-प्रथम नीतियों के फैलाव के बीच बैटरी और सौर ऊर्जा जैसे रणनीतिक उद्योगों की रक्षा के लिए “कोरियाई IRA” में प्रत्यक्ष रिफंड प्रणाली लाने की मांग सामने आई है। प्रस्ताव का केंद्र यह है कि समर्थन को उत्पादन मात्रा से जोड़ा जाए, ताकि घाटे में चल रहीं कंपनियों को भी वास्तविक लाभ मिल सके। मूल रिपोर्ट ने जोर दिया कि सेमीकंडक्टर सहित रणनीतिक उद्योग वैश्विक प्रतिस्पर्धा के अग्रिम मोर्चे पर हैं और औद्योगिक सुरक्षा का महत्व बढ़ गया है। प्रत्यक्ष रिफंड लागू होने पर बिना लाभ वाली कंपनियां केवल कर क्रेडिट तक सीमित नहीं रहेंगी और समर्थन का असर महसूस कर सकेंगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Proteksi Industri Baterai dan Surya Butuh Refund Langsung ala IRA Korea",
-        "excerpt": "Di tengah perombakan rantai pasok global dan meluasnya kebijakan mengutamakan negara sendiri, muncul dorongan agar IRA Korea memberi dukungan berbasis produksi dan refund langsung.",
-        "body": "Di tengah perombakan rantai pasok global dan meluasnya kebijakan yang mengutamakan kepentingan nasional, muncul seruan agar “IRA Korea” memasukkan skema refund langsung untuk melindungi industri strategis seperti baterai dan tenaga surya. Intinya, dukungan perlu dikaitkan dengan volume produksi agar perusahaan yang merugi pun bisa menerima manfaat nyata. Teks asli menekankan bahwa industri strategis, termasuk semikonduktor, berada di garis depan persaingan global dan keamanan industri menjadi semakin penting. Dengan refund langsung, perusahaan yang belum mencetak laba tidak hanya bergantung pada kredit pajak, tetapi dapat merasakan efek dukungan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3432b371c5b8",
-    "slug": "청렴한-일터-조성한국동서발전-신임-노동조합과-윤리-실천-선언문-채택-442464",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-12T14:49:45.949Z",
-    "updatedAt": "2026-05-12T14:49:45.949Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12044704",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12044704",
-    "titleFingerprint": "fd929643ce1965f6d25e9878809cdb1ea0b35ef7",
-    "dedupKeys": [
-      "3432b371c5b84a33b2e7db5b598c412d8adde44a",
-      "fd929643ce1965f6d25e9878809cdb1ea0b35ef7",
-      "0a61b0888d3ef1f39be3a402e3a85c7289e18fe0"
-    ],
-    "imageUrl": "/images/articles/3432b371c5b8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국동서발전 노사, 신임 노조와 청렴·윤리 실천 선언문 채택",
-        "excerpt": "한국동서발전은 12일 신임 노동조합 집행부 출범을 맞아 지난 11일 노사공동 청렴·윤리 실천 선언문을 채택하고 청렴한 일터 조성에 나선다고 밝혔다.",
-        "body": "한국동서발전 노사가 신임 노동조합 집행부 출범을 계기로 청렴한 일터 조성에 함께 나선다. 동서발전은 12일 지난 11일 신임 노동조합 집행부 출범에 맞춰 ‘노사공동 청렴·윤리 실천 선언문’을 채택했다고 밝혔다. 이번 선언은 회사와 노동조합이 공동으로 청렴과 윤리 실천 의지를 확인했다는 데 의미가 있다. 구체적 수치로는 선언 채택일이 11일, 발표일이 12일이며, 주체는 한국동서발전 노사와 신임 노동조합 집행부다. 동서발전은 이를 통해 조직 내 청렴 문화 확산과 윤리적 근무 환경 조성에 힘을 모을 것으로 보인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korea East-West Power, New Union Adopt Integrity and Ethics Pledge",
-        "excerpt": "Korea East-West Power said on the 12th that management and its new labor union leadership adopted a joint integrity and ethics pledge on the 11th to build a cleaner workplace.",
-        "body": "Korea East-West Power’s management and labor union are moving together to create a cleaner workplace following the launch of the new union leadership. The company said on the 12th that it adopted a “Joint Labor-Management Integrity and Ethics Practice Declaration” on the 11th, timed with the inauguration of the new union executive team. The declaration is significant because both the company and the union confirmed their shared commitment to integrity and ethical conduct. The key dates are the adoption on the 11th and the announcement on the 12th, with Korea East-West Power management, labor, and the new union leadership as the main parties. The move is expected to support a more ethical work environment. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国東西発電、労使で清廉・倫理実践宣言を採択",
-        "excerpt": "韓国東西発電は12日、新任労働組合執行部の発足に合わせ、11日に労使共同の清廉・倫理実践宣言文を採択したと明らかにした。",
-        "body": "韓国東西発電の労使が、新任労働組合執行部の発足を機に、清廉な職場づくりに共同で取り組む。東西発電は12日、新任労組執行部の発足に合わせ、11日に「労使共同清廉・倫理実践宣言文」を採択したと発表した。今回の宣言は、会社と労働組合が清廉と倫理の実践に向けた意思を共同で確認した点に意味がある。具体的な日程は採択が11日、発表が12日で、主体は韓国東西発電の労使と新任労組執行部だ。東西発電はこれを通じ、組織内の清廉文化の拡散と倫理的な勤務環境づくりに力を合わせる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国东西发电与新任工会采纳廉洁伦理实践宣言",
-        "excerpt": "韩国东西发电12日表示，配合新任工会执行部成立，劳资双方已于11日采纳共同廉洁与伦理实践宣言，推动建设清廉职场。",
-        "body": "韩国东西发电劳资双方将以新任工会执行部成立为契机，共同推进清廉职场建设。东西发电12日表示，配合新任劳动组合执行部成立，已于11日采纳《劳资共同廉洁·伦理实践宣言》。此次宣言的意义在于，公司与工会共同确认了践行廉洁和伦理的意志。具体时间为11日采纳宣言、12日对外公布，参与主体是韩国东西发电劳资双方及新任工会执行部。东西发电预计将借此推动组织内部廉洁文化扩散，并共同营造更加符合伦理的工作环境。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Korea East-West Power y nuevo sindicato adoptan pacto ético",
-        "excerpt": "Korea East-West Power informó el día 12 que, con el inicio de la nueva dirección sindical, patronal y sindicato adoptaron el día 11 una declaración conjunta de integridad y ética.",
-        "body": "La dirección y el sindicato de Korea East-West Power trabajarán juntos para crear un lugar de trabajo íntegro tras el inicio de la nueva ejecutiva sindical. La compañía informó el día 12 que el día 11 adoptó una “Declaración conjunta obrero-patronal de integridad y práctica ética”, coincidiendo con la puesta en marcha de la nueva dirección del sindicato. La declaración es relevante porque empresa y sindicato confirmaron de forma conjunta su voluntad de practicar la integridad y la ética. Los datos concretos son la adopción el día 11 y el anuncio el día 12, con la participación de la dirección, el sindicato y la nueva ejecutiva sindical de Korea East-West Power. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Korea East-West Power e novo sindicato adotam pacto de ética",
-        "excerpt": "A Korea East-West Power informou no dia 12 que, com a posse da nova direção sindical, gestão e sindicato adotaram no dia 11 uma declaração conjunta de integridade e ética.",
-        "body": "A gestão e o sindicato da Korea East-West Power atuarão juntos para criar um ambiente de trabalho íntegro após a posse da nova liderança sindical. A empresa informou no dia 12 que adotou, no dia 11, a “Declaração Conjunta Trabalhista-Patronal de Integridade e Prática Ética”, em linha com o início da nova direção do sindicato. A declaração tem significado por confirmar, de forma conjunta, o compromisso da companhia e do sindicato com a integridade e a ética. As datas centrais são a adoção no dia 11 e o anúncio no dia 12, tendo como partes a gestão, o sindicato e a nova liderança sindical da Korea East-West Power. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Korea East-West Power und neue Gewerkschaft beschließen Ethikerklärung",
-        "excerpt": "Korea East-West Power teilte am 12. mit, dass Management und neue Gewerkschaftsführung am 11. eine gemeinsame Erklärung zu Integrität und ethischem Handeln angenommen haben.",
-        "body": "Management und Gewerkschaft von Korea East-West Power wollen nach dem Start der neuen Gewerkschaftsführung gemeinsam an einem integeren Arbeitsplatz arbeiten. Das Unternehmen teilte am 12. mit, dass am 11. anlässlich des Amtsantritts der neuen Gewerkschaftsspitze eine „gemeinsame Erklärung von Arbeitnehmer- und Arbeitgeberseite zu Integrität und ethischer Praxis“ angenommen wurde. Die Erklärung ist bedeutsam, weil Unternehmen und Gewerkschaft ihren gemeinsamen Willen zu Integrität und ethischem Handeln bekräftigten. Konkret wurde sie am 11. angenommen und am 12. bekannt gegeben; beteiligt sind Management, Arbeitnehmerseite und die neue Gewerkschaftsführung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Korea East-West Power et le nouveau syndicat adoptent une charte éthique",
-        "excerpt": "Korea East-West Power a annoncé le 12 que la direction et la nouvelle équipe syndicale avaient adopté le 11 une déclaration commune sur l’intégrité et l’éthique.",
-        "body": "La direction et le syndicat de Korea East-West Power s’engagent ensemble à créer un lieu de travail plus intègre à l’occasion de l’entrée en fonction de la nouvelle équipe syndicale. L’entreprise a annoncé le 12 avoir adopté, le 11, une « déclaration commune direction-syndicat sur l’intégrité et la pratique éthique ». Cette déclaration est notable car elle confirme la volonté partagée de l’entreprise et du syndicat de mettre en pratique l’intégrité et l’éthique. Les éléments précis sont l’adoption le 11 et l’annonce le 12, avec comme parties Korea East-West Power, sa représentation syndicale et la nouvelle direction du syndicat. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوريا إيست-ويست باور والنقابة الجديدة تتبنيان إعلان النزاهة والأخلاقيات",
-        "excerpt": "أعلنت كوريا إيست-ويست باور في 12 من الشهر أن الإدارة والقيادة النقابية الجديدة اعتمدتا في 11 منه إعلاناً مشتركاً للنزاهة والممارسة الأخلاقية.",
-        "body": "تتجه إدارة كوريا إيست-ويست باور ونقابتها العمالية إلى العمل معاً من أجل بناء بيئة عمل نزيهة، وذلك بمناسبة انطلاق القيادة النقابية الجديدة. وقالت الشركة في 12 من الشهر إنها اعتمدت في 11 منه «إعلاناً مشتركاً بين الإدارة والعمال للنزاهة والممارسة الأخلاقية» بالتزامن مع بدء عمل المكتب التنفيذي الجديد للنقابة. وتكمن أهمية الإعلان في تأكيد الشركة والنقابة بشكل مشترك إرادتهما في الالتزام بالنزاهة والأخلاقيات. وتشمل الوقائع المحددة اعتماد الإعلان في 11 من الشهر وإعلانه في 12 منه، بمشاركة الإدارة والنقابة والقيادة النقابية الجديدة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरिया ईस्ट-वेस्ट पावर और नई यूनियन ने नैतिकता घोषणा अपनाई",
-        "excerpt": "कोरिया ईस्ट-वेस्ट पावर ने 12 तारीख को बताया कि नई श्रमिक यूनियन नेतृत्व टीम के गठन पर प्रबंधन और यूनियन ने 11 तारीख को संयुक्त ईमानदारी और नैतिक आचरण घोषणा अपनाई।",
-        "body": "कोरिया ईस्ट-वेस्ट पावर का प्रबंधन और श्रमिक यूनियन नई यूनियन नेतृत्व टीम के गठन के मौके पर ईमानदार कार्यस्थल बनाने के लिए साथ आए हैं। कंपनी ने 12 तारीख को बताया कि नई श्रमिक यूनियन कार्यकारिणी के शुरू होने के अनुरूप 11 तारीख को “प्रबंधन-श्रम संयुक्त ईमानदारी और नैतिक आचरण घोषणा” अपनाई गई। इस घोषणा का महत्व यह है कि कंपनी और यूनियन ने ईमानदारी तथा नैतिक आचरण के प्रति अपनी साझा प्रतिबद्धता की पुष्टि की। प्रमुख तथ्य हैं: घोषणा 11 तारीख को अपनाई गई, 12 तारीख को इसकी जानकारी दी गई, और इसमें कोरिया ईस्ट-वेस्ट पावर का प्रबंधन, श्रमिक पक्ष तथा नई यूनियन नेतृत्व टीम शामिल हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Korea East-West Power dan Serikat Baru Adopsi Deklarasi Etika",
-        "excerpt": "Korea East-West Power pada tanggal 12 menyatakan manajemen dan pengurus serikat pekerja baru mengadopsi deklarasi bersama integritas dan etika pada tanggal 11.",
-        "body": "Manajemen dan serikat pekerja Korea East-West Power bergerak bersama untuk membangun tempat kerja yang berintegritas setelah terbentuknya pengurus serikat pekerja baru. Perusahaan pada tanggal 12 menyatakan bahwa pada tanggal 11, bersamaan dengan dimulainya kepengurusan baru serikat pekerja, pihaknya mengadopsi “Deklarasi Bersama Manajemen-Pekerja tentang Integritas dan Praktik Etika”. Deklarasi ini bermakna karena perusahaan dan serikat pekerja sama-sama menegaskan komitmen terhadap integritas dan etika. Fakta utamanya adalah deklarasi diadopsi pada tanggal 11 dan diumumkan pada tanggal 12, dengan pihak Korea East-West Power, pekerja, dan pengurus serikat baru sebagai pelaku utama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "87b249b7e500",
-    "slug": "skc-12조-규모-유상증자실탄-확보로-글라스기판-투자-771014",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-12T14:48:00.838Z",
-    "updatedAt": "2026-05-12T14:48:00.838Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12044709",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12044709",
-    "titleFingerprint": "7b5dad9f4971263db7eb7aca825b14dbdcb1d60c",
-    "dedupKeys": [
-      "87b249b7e500a78441bc5c9f9319fb1f49b6182d",
-      "7b5dad9f4971263db7eb7aca825b14dbdcb1d60c",
-      "fc716496d6b43525ac01fc4f5adccfef88ca3956"
-    ],
-    "imageUrl": "/images/articles/87b249b7e500.jpg",
-    "i18n": {
-      "ko": {
-        "title": "SKC 1.2조 유상증자 확정, 글라스기판 투자·재무개선 속도",
-        "excerpt": "SKC가 1조1671억원 규모 유상증자를 통해 반도체 글라스기판 신사업 투자 재원을 확보하고 재무구조 개선에도 속도를 내겠다고 밝혔다.",
-        "body": "SKC가 1조1671억원 규모의 유상증자를 통해 신사업인 반도체 글라스기판 투자와 재무구조 개선에 나선다. 회사는 유상증자 최종 발행가액이 주당 9만9500원으로 정해졌다고 밝혔다. 이번 증자는 대규모 자금 조달을 통해 미래 성장 분야로 꼽히는 글라스기판 사업 투자 여력을 확보하는 데 초점이 맞춰졌다. 동시에 확보한 자금은 재무구조 개선에도 활용될 예정이다. 반도체 소재 사업 확대와 재무 안정성 강화가 함께 추진되는 만큼, 향후 SKC의 투자 집행과 재무 지표 변화가 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "SKC Sets 1.2 Trillion Won Rights Issue to Fund Glass Substrate Push",
-        "excerpt": "SKC said it will raise 1.1671 trillion won through a rights issue to fund its semiconductor glass substrate business and improve its financial structure.",
-        "body": "SKC is moving to secure funds for its new semiconductor glass substrate business and strengthen its balance sheet through a rights issue worth 1.1671 trillion won. The company said the final issue price has been set at 99,500 won per share. The capital raising is focused on giving SKC room to invest in glass substrates, a new business area tied to semiconductor materials. The proceeds are also expected to be used to improve the company’s financial structure. As SKC pursues both investment in semiconductor materials and financial stabilization, attention will turn to how the funds are deployed and how its financial indicators change. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "SKC、1.2兆ウォン増資を確定　ガラス基板投資と財務改善へ",
-        "excerpt": "SKCは1兆1671億ウォン規模の有償増資で半導体ガラス基板事業の投資資金を確保し、財務構造の改善も進める方針だ。",
-        "body": "SKCは1兆1671億ウォン規模の有償増資を通じて、新事業である半導体ガラス基板への投資と財務構造の改善に乗り出す。会社は有償増資の最終発行価格が1株当たり9万9500ウォンに決まったと明らかにした。今回の増資は、大規模な資金調達によって、半導体素材分野の新たな成長領域とされるガラス基板事業への投資余力を確保することに重点が置かれている。同時に、調達資金は財務構造の改善にも活用される見通しだ。半導体素材事業の拡大と財務安定性の強化を並行して進めるだけに、今後の投資執行と財務指標の変化が注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "SKC敲定1.2万亿韩元增资，投向玻璃基板并改善财务",
-        "excerpt": "SKC将通过1.1671万亿韩元有偿增资，为半导体玻璃基板新业务筹资，并同步推进财务结构改善。",
-        "body": "SKC将通过规模达1.1671万亿韩元的有偿增资，投入新业务半导体玻璃基板，并推进财务结构改善。公司表示，本次有偿增资的最终发行价确定为每股9.95万韩元。此次增资的重点在于通过大规模融资， 확보其在半导体材料相关新成长领域玻璃基板业务上的投资能力。同时，募集资金也将用于改善财务结构。随着SKC同时推进半导体材料业务扩张和财务稳定性强化，后续资金投向及财务指标变化将受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "SKC fija ampliación de 1,2 billones de wones para invertir en sustratos de vidrio",
-        "excerpt": "SKC captará 1,1671 billones de wones mediante una ampliación de capital para invertir en sustratos de vidrio para semiconductores y mejorar su estructura financiera.",
-        "body": "SKC avanzará en la inversión en su nuevo negocio de sustratos de vidrio para semiconductores y en la mejora de su estructura financiera mediante una ampliación de capital de 1,1671 billones de wones. La compañía informó que el precio final de emisión quedó fijado en 99.500 wones por acción. La operación se centra en asegurar recursos para invertir en sustratos de vidrio, un área vinculada a materiales para semiconductores. Los fondos obtenidos también se utilizarán para reforzar la estructura financiera. Mientras SKC impulsa la expansión de materiales para semiconductores y la estabilidad financiera, la atención se centrará en la ejecución de la inversión y en la evolución de sus indicadores financieros. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "SKC define aumento de 1,2 trilhão de won para investir em substratos de vidro",
-        "excerpt": "A SKC levantará 1,1671 trilhão de won por meio de aumento de capital para financiar substratos de vidro para semicondutores e melhorar sua estrutura financeira.",
-        "body": "A SKC vai avançar com investimentos em seu novo negócio de substratos de vidro para semicondutores e com a melhoria de sua estrutura financeira por meio de um aumento de capital de 1,1671 trilhão de won. A empresa informou que o preço final de emissão foi definido em 99.500 won por ação. A captação tem como foco garantir recursos para investir em substratos de vidro, área ligada a materiais para semicondutores. Os recursos também deverão ser usados para fortalecer a estrutura financeira. Com a expansão no setor de materiais para semicondutores e a busca por maior estabilidade financeira, a execução dos investimentos e a evolução dos indicadores financeiros da SKC devem atrair atenção. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "SKC legt Kapitalerhöhung über 1,2 Bio. Won für Glas-Substrate fest",
-        "excerpt": "SKC will über eine Kapitalerhöhung von 1,1671 Billionen Won Mittel für Halbleiter-Glas-Substrate sichern und zugleich die Finanzstruktur verbessern.",
-        "body": "SKC will über eine Kapitalerhöhung im Umfang von 1,1671 Billionen Won Investitionen in das neue Geschäft mit Glas-Substraten für Halbleiter finanzieren und seine Finanzstruktur verbessern. Das Unternehmen teilte mit, dass der endgültige Ausgabepreis auf 99.500 Won je Aktie festgelegt wurde. Die Maßnahme zielt darauf, durch umfangreiche Mittelaufnahme Spielraum für Investitionen in Glas-Substrate zu schaffen, ein neues Feld im Bereich Halbleitermaterialien. Zugleich sollen die Erlöse zur Verbesserung der Finanzstruktur genutzt werden. Da SKC die Ausweitung des Halbleitermaterialgeschäfts und die Stärkung der finanziellen Stabilität parallel verfolgt, rücken die Mittelverwendung und künftige Finanzkennzahlen in den Fokus. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "SKC fixe une augmentation de 1,2 billion de wons pour les substrats de verre",
-        "excerpt": "SKC va lever 1,1671 billion de wons par augmentation de capital afin de financer ses substrats de verre pour semi-conducteurs et d’améliorer sa structure financière.",
-        "body": "SKC va engager des investissements dans son nouveau métier des substrats de verre pour semi-conducteurs et améliorer sa structure financière grâce à une augmentation de capital de 1,1671 billion de wons. L’entreprise a indiqué que le prix final d’émission avait été fixé à 99 500 wons par action. L’opération vise à 확보 des ressources pour investir dans les substrats de verre, un domaine lié aux matériaux pour semi-conducteurs. Les fonds levés doivent également servir à renforcer la structure financière. Alors que SKC poursuit à la fois l’expansion de ses activités de matériaux pour semi-conducteurs et la stabilisation de ses finances, l’utilisation des fonds et l’évolution des indicateurs financiers seront suivies de près. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إس كيه سي تحدد زيادة رأسمال بـ1.2 تريليون وون للاستثمار في ركائز الزجاج",
-        "excerpt": "قالت SKC إنها ستجمع 1.1671 تريليون وون عبر زيادة رأسمال لتمويل أعمال ركائز الزجاج لأشباه الموصلات وتحسين هيكلها المالي.",
-        "body": "تتجه SKC إلى تمويل استثماراتها في نشاطها الجديد الخاص بركائز الزجاج لأشباه الموصلات وتحسين هيكلها المالي عبر زيادة رأسمال بقيمة 1.1671 تريليون وون. وذكرت الشركة أن سعر الإصدار النهائي تحدد عند 99,500 وون للسهم. وتركز هذه الخطوة على تأمين قدرة استثمارية في ركائز الزجاج، وهي مجال جديد مرتبط بمواد أشباه الموصلات. كما من المقرر استخدام الأموال التي سيتم جمعها في تحسين الهيكل المالي للشركة. ومع سعي SKC إلى توسيع أعمال مواد أشباه الموصلات وتعزيز الاستقرار المالي في الوقت نفسه، ستتجه الأنظار إلى كيفية تنفيذ الاستثمارات وتغير المؤشرات المالية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "SKC ने 1.2 ट्रिलियन वॉन राइट्स इश्यू तय किया, ग्लास सब्सट्रेट पर जोर",
-        "excerpt": "SKC 1.1671 ट्रिलियन वॉन के राइट्स इश्यू से सेमीकंडक्टर ग्लास सब्सट्रेट कारोबार में निवेश और वित्तीय ढांचे में सुधार की तैयारी कर रही है।",
-        "body": "SKC 1.1671 ट्रिलियन वॉन के राइट्स इश्यू के जरिए अपने नए सेमीकंडक्टर ग्लास सब्सट्रेट कारोबार में निवेश और वित्तीय ढांचे में सुधार की दिशा में आगे बढ़ेगी। कंपनी ने कहा कि इश्यू का अंतिम निर्गम मूल्य 99,500 वॉन प्रति शेयर तय किया गया है। इस पूंजी जुटाने का उद्देश्य सेमीकंडक्टर सामग्री से जुड़े नए विकास क्षेत्र, ग्लास सब्सट्रेट, में निवेश क्षमता 확보 करना है। जुटाई गई राशि का उपयोग वित्तीय संरचना को बेहतर बनाने में भी किया जाएगा। SKC द्वारा सेमीकंडक्टर सामग्री कारोबार के विस्तार और वित्तीय स्थिरता को साथ-साथ आगे बढ़ाए जाने के कारण निवेश क्रियान्वयन और वित्तीय संकेतकों में बदलाव पर ध्यान रहेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "SKC Tetapkan Rights Issue 1,2 Triliun Won untuk Investasi Substrat Kaca",
-        "excerpt": "SKC akan menghimpun 1,1671 triliun won melalui rights issue untuk mendanai bisnis substrat kaca semikonduktor dan memperbaiki struktur keuangan.",
-        "body": "SKC akan bergerak memperkuat investasi pada bisnis baru substrat kaca semikonduktor sekaligus memperbaiki struktur keuangan melalui rights issue senilai 1,1671 triliun won. Perusahaan menyatakan harga penerbitan final ditetapkan sebesar 99.500 won per saham. Aksi korporasi ini berfokus pada 확보 ruang pendanaan untuk berinvestasi di substrat kaca, bidang baru yang terkait dengan material semikonduktor. Dana yang diperoleh juga akan digunakan untuk memperbaiki struktur keuangan. Karena SKC mendorong ekspansi bisnis material semikonduktor dan penguatan stabilitas keuangan secara bersamaan, pelaksanaan investasi dan perubahan indikator keuangannya akan menjadi perhatian. Sumber: mk.co.kr"
       }
     }
   }
