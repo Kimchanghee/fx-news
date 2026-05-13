@@ -1,5 +1,230 @@
 [
   {
+    "id": "a5a011591cc5",
+    "slug": "속보-코스피-또-사상-최고가-경신784401-512602",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T23:10:29.632Z",
+    "updatedAt": "2026-05-13T23:10:29.632Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051340226",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051340226",
+    "titleFingerprint": "09a5baa5f938ec1a7ebc880f87f2107c0a8364fb",
+    "dedupKeys": [
+      "a5a011591cc5c2c0d40c0850e2bb939b3e46cc0f",
+      "09a5baa5f938ec1a7ebc880f87f2107c0a8364fb",
+      "cd10cf2e84d93a1f455634a46648312575bf2365"
+    ],
+    "imageUrl": "/images/articles/a5a011591cc5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 사상 최고가 또 경신, 지수 7844.01 기록",
+        "excerpt": "코스피가 한국경제 보도 기준 다시 사상 최고가를 경신하며 7844.01을 기록했다. 국내 증시 대표 지수의 최고치 재경신 소식이 시장 관심을 모은다.",
+        "body": "코스피가 한국경제 보도 기준 다시 사상 최고가를 경신하며 7844.01을 기록했다. 이번 소식은 국내 증시 대표 지수가 기존 최고 수준을 넘어섰다는 점에서 투자자와 시장 참가자의 관심을 끌고 있다. 원문에는 별도의 상승 배경, 종목별 흐름, 거래대금, 외국인·기관 수급 등 추가 수치는 제시되지 않았다. 따라서 현재 확인되는 핵심 사실은 코스피가 또 사상 최고가를 새로 썼고, 지수 수준이 7844.01이라는 점이다. 향후 시장은 이 최고가 경신 흐름이 이어지는지와 후속 세부 지표 공개 여부를 주시할 전망이다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "KOSPI Hits Another Record High as Index Reaches 7,844.01",
+        "excerpt": "The KOSPI set another all-time high at 7,844.01, according to Hankyung, drawing market attention to the renewed record for South Korea’s benchmark stock index.",
+        "body": "The KOSPI set another all-time high at 7,844.01, according to a report by Hankyung. The news is drawing attention from investors and market participants because South Korea’s benchmark stock index has moved beyond its previous record level. The original report did not provide additional details such as the reason for the rise, sector or stock movements, trading value, or foreign and institutional flows. Based on the available information, the confirmed facts are that the KOSPI again renewed its all-time high and that the index level was 7,844.01. Markets are expected to watch whether the record-setting trend continues and whether further detailed indicators are released. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "KOSPIが再び史上最高値更新、指数は7,844.01に到達",
+        "excerpt": "韓国経済の報道によると、KOSPIは7,844.01を記録し、再び史上最高値を更新した。韓国の代表株価指数の最高値更新に市場の関心が集まっている。",
+        "body": "韓国経済の報道によると、KOSPIは再び史上最高値を更新し、7,844.01を記録した。韓国株式市場の代表指数が従来の最高水準を上回ったという点で、投資家や市場参加者の関心を集めている。原文では、上昇の背景、個別銘柄の動き、売買代金、外国人や機関投資家の需給など、追加の数値や詳細は示されていない。現時点で確認できる主な事実は、KOSPIが再び史上最高値を塗り替え、指数水準が7,844.01だったということだ。今後、市場はこの最高値更新の流れが続くか、追加の詳細指標が公表されるかを注視するとみられる。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "KOSPI再创历史新高，指数升至7,844.01",
+        "excerpt": "据韩国经济报道，KOSPI再次刷新历史最高点，报7,844.01。韩国股市代表性指数再创新高的消息引发市场关注。",
+        "body": "据韩国经济报道，KOSPI再次刷新历史最高点，达到7,844.01。这一消息受到投资者和市场参与者关注，因为韩国股市代表性指数突破了此前的最高水平。原文未提供上涨背景、个股走势、成交金额、外资与机构资金流向等更多数据或细节。因此，目前可以确认的核心事实是，KOSPI又一次改写历史最高纪录，指数水平为7,844.01。接下来，市场预计将关注这一创新高走势是否延续，以及后续是否公布更详细的相关指标。来源: hankyung.com."
+      },
+      "es": {
+        "title": "El KOSPI marca otro máximo histórico y alcanza 7.844,01 puntos",
+        "excerpt": "El KOSPI volvió a renovar su máximo histórico al situarse en 7.844,01, según Hankyung, un dato que centra la atención del mercado bursátil surcoreano.",
+        "body": "El KOSPI volvió a renovar su máximo histórico y alcanzó los 7.844,01 puntos, según un reporte de Hankyung. La noticia atrae la atención de inversores y participantes del mercado porque el principal índice bursátil de Corea del Sur superó su nivel récord anterior. El texto original no incluyó detalles adicionales sobre las causas de la subida, el comportamiento por valores, el volumen negociado ni los flujos de inversores extranjeros o institucionales. Con la información disponible, los hechos confirmados son que el KOSPI volvió a marcar un máximo histórico y que el nivel del índice fue de 7.844,01. El mercado observará si esta tendencia de récord continúa y si se publican indicadores más detallados. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "KOSPI renova máxima histórica e chega a 7.844,01 pontos",
+        "excerpt": "O KOSPI voltou a atingir uma máxima histórica, aos 7.844,01 pontos, segundo a Hankyung, chamando atenção para novo recorde do principal índice sul-coreano.",
+        "body": "O KOSPI voltou a renovar sua máxima histórica e alcançou 7.844,01 pontos, segundo reportagem da Hankyung. A notícia chama a atenção de investidores e participantes do mercado porque o principal índice acionário da Coreia do Sul superou seu nível recorde anterior. O texto original não trouxe detalhes adicionais sobre os motivos da alta, movimentos por ações, volume negociado ou fluxos de investidores estrangeiros e institucionais. Com as informações disponíveis, os fatos confirmados são que o KOSPI voltou a registrar uma máxima histórica e que o nível do índice foi de 7.844,01. O mercado deve acompanhar se essa sequência de recordes continuará e se novos indicadores detalhados serão divulgados. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "KOSPI erreicht erneut Rekordhoch bei 7.844,01 Punkten",
+        "excerpt": "Der KOSPI hat laut Hankyung mit 7.844,01 Punkten erneut ein Allzeithoch markiert. Der neue Rekord des südkoreanischen Leitindex rückt in den Fokus der Märkte.",
+        "body": "Der KOSPI hat laut einem Bericht von Hankyung erneut ein Allzeithoch erreicht und 7.844,01 Punkte markiert. Die Nachricht zieht die Aufmerksamkeit von Anlegern und Marktteilnehmern auf sich, da der südkoreanische Leitindex sein bisheriges Rekordniveau überschritten hat. Der Originalbericht nannte keine weiteren Angaben zu den Gründen des Anstiegs, zur Entwicklung einzelner Aktien, zum Handelsvolumen oder zu ausländischen und institutionellen Kapitalflüssen. Auf Basis der vorliegenden Informationen sind die bestätigten Fakten, dass der KOSPI erneut ein Allzeithoch erreicht hat und der Indexstand bei 7.844,01 lag. Die Märkte dürften nun beobachten, ob sich diese Rekordbewegung fortsetzt und ob weitere Detaildaten veröffentlicht werden. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Le KOSPI signe un nouveau record historique à 7 844,01 points",
+        "excerpt": "Le KOSPI a de nouveau atteint un plus haut historique à 7 844,01 points, selon Hankyung, attirant l’attention sur le record de l’indice phare sud-coréen.",
+        "body": "Le KOSPI a de nouveau inscrit un plus haut historique en atteignant 7 844,01 points, selon un article de Hankyung. Cette information retient l’attention des investisseurs et des intervenants de marché, car l’indice de référence de la Bourse sud-coréenne a dépassé son précédent niveau record. Le texte original ne fournit pas d’éléments supplémentaires sur les raisons de la hausse, l’évolution des titres, le montant des échanges ou les flux des investisseurs étrangers et institutionnels. À partir des informations disponibles, les faits confirmés sont que le KOSPI a une nouvelle fois battu son record historique et que son niveau était de 7 844,01. Les marchés suivront désormais la poursuite éventuelle de cette dynamique et la publication de données plus détaillées. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "كوسبي يسجل قمة تاريخية جديدة ويبلغ 7,844.01 نقطة",
+        "excerpt": "سجل مؤشر كوسبي مستوى قياسيا تاريخيا جديدا عند 7,844.01 نقطة، وفق هانكيونغ، ما جذب اهتمام السوق إلى الرقم الجديد للمؤشر الكوري الجنوبي الرئيسي.",
+        "body": "سجل مؤشر كوسبي، وفق تقرير هانكيونغ، مستوى قياسيا تاريخيا جديدا وبلغ 7,844.01 نقطة. يحظى الخبر باهتمام المستثمرين والمشاركين في السوق لأنه يعني أن المؤشر الرئيسي للأسهم في كوريا الجنوبية تجاوز مستواه القياسي السابق. لم يورد النص الأصلي تفاصيل إضافية عن أسباب الارتفاع، أو تحركات الأسهم الفردية، أو قيمة التداول، أو تدفقات المستثمرين الأجانب والمؤسسات. وبناء على المعلومات المتاحة، فإن الحقائق المؤكدة هي أن كوسبي جدد مرة أخرى أعلى مستوى تاريخي له وأن مستوى المؤشر كان 7,844.01. ومن المتوقع أن تتابع الأسواق ما إذا كان مسار تسجيل القمم سيستمر، وما إذا كانت ستصدر مؤشرات تفصيلية لاحقة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "KOSPI ने फिर बनाया रिकॉर्ड हाई, सूचकांक 7,844.01 पर पहुंचा",
+        "excerpt": "Hankyung के अनुसार KOSPI ने 7,844.01 पर पहुंचकर फिर सर्वकालिक उच्च स्तर दर्ज किया। दक्षिण कोरिया के प्रमुख शेयर सूचकांक का नया रिकॉर्ड बाजार का ध्यान खींच रहा है।",
+        "body": "Hankyung की रिपोर्ट के अनुसार KOSPI ने फिर सर्वकालिक उच्च स्तर दर्ज किया और 7,844.01 पर पहुंच गया। यह खबर निवेशकों और बाजार प्रतिभागियों का ध्यान खींच रही है, क्योंकि दक्षिण कोरिया का प्रमुख शेयर सूचकांक अपने पिछले रिकॉर्ड स्तर से ऊपर चला गया। मूल रिपोर्ट में तेजी के कारण, अलग-अलग शेयरों की चाल, कारोबार मूल्य, या विदेशी और संस्थागत निवेशकों के प्रवाह जैसे अतिरिक्त आंकड़े नहीं दिए गए। उपलब्ध जानकारी के आधार पर पुष्टि योग्य मुख्य तथ्य यह हैं कि KOSPI ने फिर अपना सर्वकालिक उच्च स्तर बदला और सूचकांक का स्तर 7,844.01 रहा। आगे बाजार यह देखेगा कि क्या यह रिकॉर्ड बनाने की दिशा जारी रहती है और क्या बाद में विस्तृत संकेतक जारी किए जाते हैं। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "KOSPI Kembali Cetak Rekor Tertinggi, Indeks Capai 7.844,01",
+        "excerpt": "KOSPI kembali mencetak rekor tertinggi sepanjang masa di 7.844,01, menurut Hankyung, menarik perhatian pasar pada rekor baru indeks saham utama Korea Selatan.",
+        "body": "KOSPI kembali mencetak rekor tertinggi sepanjang masa dan mencapai 7.844,01, menurut laporan Hankyung. Kabar ini menarik perhatian investor dan pelaku pasar karena indeks saham utama Korea Selatan telah melampaui level rekor sebelumnya. Laporan asli tidak memuat rincian tambahan mengenai latar belakang kenaikan, pergerakan saham tertentu, nilai transaksi, maupun arus investor asing dan institusi. Berdasarkan informasi yang tersedia, fakta utama yang dapat dipastikan adalah bahwa KOSPI sekali lagi memperbarui rekor tertingginya dan level indeks berada di 7.844,01. Ke depan, pasar diperkirakan akan mencermati apakah tren rekor ini berlanjut serta apakah indikator lanjutan yang lebih rinci akan dirilis. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "0d7a9af853c4",
+    "slug": "일동홀딩스-1분기-영업익-88억원전년비-1175-증가-600503",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T23:09:34.577Z",
+    "updatedAt": "2026-05-13T23:09:34.577Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051339296",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051339296",
+    "titleFingerprint": "02e7b46291a1836b807d7cbc9173696b46d1b105",
+    "dedupKeys": [
+      "0d7a9af853c4be854dded98e2c58438fc7904f98",
+      "02e7b46291a1836b807d7cbc9173696b46d1b105",
+      "b44ff3e0be11b3bd5b67cd15bd326339e9e101ba"
+    ],
+    "imageUrl": "/images/articles/0d7a9af853c4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "일동홀딩스 1분기 영업익 88억원, 전년 대비 117.5% 증가",
+        "excerpt": "일동홀딩스는 1분기 영업이익이 88억원으로 전년 동기 대비 117.5% 증가했다고 밝혔다. 실적 개선 폭이 두드러지며 분기 수익성 흐름에 관심이 모인다.",
+        "body": "일동홀딩스는 올해 1분기 영업이익이 88억원으로 전년 동기 대비 117.5% 증가했다고 밝혔다. 이번 발표는 분기 기준 수익성이 전년 같은 기간보다 크게 개선됐다는 점을 보여준다. 원문에 제시된 핵심 수치는 1분기 영업이익 88억원과 전년 대비 증가율 117.5%다. 매출이나 순이익 등 다른 항목은 원문에 포함되지 않았다. 이번 실적은 일동홀딩스의 분기 영업 성과를 확인하는 지표로 활용될 수 있다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "Ildong Holdings Q1 Operating Profit Hits 8.8 Billion Won, Up 117.5%",
+        "excerpt": "Ildong Holdings said its first-quarter operating profit reached 8.8 billion won, up 117.5% from a year earlier, highlighting a sharp year-on-year improvement in profitability.",
+        "body": "Ildong Holdings reported first-quarter operating profit of 8.8 billion won, an increase of 117.5% from the same period a year earlier. The announcement shows that quarterly profitability improved significantly year over year. The key figures provided in the original report are operating profit of 8.8 billion won for the first quarter and a 117.5% year-on-year increase. Other items such as revenue or net profit were not included in the source information. The result may serve as a reference point for assessing Ildong Holdings’ quarterly operating performance. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "一東ホールディングス、1四半期営業益88億ウォン 前年比117.5%増",
+        "excerpt": "一東ホールディングスは第1四半期の営業利益が88億ウォンとなり、前年同期比117.5%増加したと明らかにした。収益性の改善幅に関心が集まる。",
+        "body": "一東ホールディングスは、今年第1四半期の営業利益が88億ウォンとなり、前年同期比117.5%増加したと発表した。今回の発表は、四半期ベースの収益性が前年同期間に比べて大きく改善したことを示している。原文で示された主要数値は、第1四半期営業利益88億ウォンと前年同期比117.5%増という点だ。売上高や純利益などその他の項目は原文に含まれていない。今回の実績は、一東ホールディングスの四半期営業成果を確認する指標として活用され得る。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "一东控股一季度营业利润88亿韩元，同比增117.5%",
+        "excerpt": "一东控股表示，今年一季度营业利润为88亿韩元，较上年同期增长117.5%。该数据反映出公司季度盈利能力同比明显改善。",
+        "body": "一东控股公布，今年第一季度营业利润为88亿韩元，较上年同期增长117.5%。这一公告显示，公司按季度计算的盈利能力较去年同期有明显改善。原文提供的核心数据为第一季度营业利润88亿韩元，以及同比增长117.5%。原文未包含销售额、净利润等其他项目。此次业绩可作为观察一东控股季度经营成果的参考指标。消息来源为hankyung.com。"
+      },
+      "es": {
+        "title": "Ildong Holdings eleva su beneficio operativo trimestral un 117,5%",
+        "excerpt": "Ildong Holdings informó que su beneficio operativo del primer trimestre fue de 8.800 millones de wones, un 117,5% más interanual, reflejando una mejora notable de la rentabilidad.",
+        "body": "Ildong Holdings informó que su beneficio operativo del primer trimestre alcanzó los 8.800 millones de wones, lo que supone un aumento del 117,5% frente al mismo periodo del año anterior. El anuncio muestra una mejora significativa de la rentabilidad trimestral en términos interanuales. Los datos clave incluidos en el texto original son el beneficio operativo de 8.800 millones de wones en el primer trimestre y el incremento interanual del 117,5%. No se incluyeron otros rubros, como ingresos o beneficio neto. El resultado puede servir como referencia para evaluar el desempeño operativo trimestral de Ildong Holdings. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Ildong Holdings tem lucro operacional trimestral de 8,8 bi de wones",
+        "excerpt": "A Ildong Holdings informou lucro operacional de 8,8 bilhões de wones no primeiro trimestre, alta de 117,5% ante o ano anterior, indicando melhora expressiva da rentabilidade.",
+        "body": "A Ildong Holdings informou que seu lucro operacional no primeiro trimestre foi de 8,8 bilhões de wones, um aumento de 117,5% em relação ao mesmo período do ano anterior. O anúncio mostra que a rentabilidade trimestral melhorou de forma significativa na comparação anual. Os principais números apresentados no texto original são lucro operacional de 8,8 bilhões de wones no primeiro trimestre e crescimento anual de 117,5%. Outros itens, como receita ou lucro líquido, não foram incluídos na informação original. O resultado pode ser usado como referência para avaliar o desempenho operacional trimestral da Ildong Holdings. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Ildong Holdings steigert operativen Gewinn im ersten Quartal um 117,5%",
+        "excerpt": "Ildong Holdings meldete für das erste Quartal einen operativen Gewinn von 8,8 Milliarden Won, ein Plus von 117,5% zum Vorjahr und ein Hinweis auf eine klare Margenverbesserung.",
+        "body": "Ildong Holdings hat für das erste Quartal einen operativen Gewinn von 8,8 Milliarden Won gemeldet, 117,5% mehr als im gleichen Zeitraum des Vorjahres. Die Mitteilung zeigt, dass sich die quartalsbezogene Profitabilität im Jahresvergleich deutlich verbessert hat. Die im Original genannten Kernzahlen sind ein operativer Gewinn von 8,8 Milliarden Won im ersten Quartal und ein Anstieg von 117,5% gegenüber dem Vorjahr. Weitere Posten wie Umsatz oder Nettogewinn wurden in der Quelle nicht genannt. Das Ergebnis kann als Kennzahl zur Einordnung der operativen Quartalsleistung von Ildong Holdings dienen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Ildong Holdings porte son bénéfice opérationnel trimestriel à 8,8 Md KRW",
+        "excerpt": "Ildong Holdings a annoncé un bénéfice opérationnel de 8,8 milliards de wons au premier trimestre, en hausse de 117,5% sur un an, signalant une nette amélioration de la rentabilité.",
+        "body": "Ildong Holdings a annoncé que son bénéfice opérationnel du premier trimestre avait atteint 8,8 milliards de wons, soit une hausse de 117,5% par rapport à la même période de l’année précédente. Cette annonce montre une amélioration importante de la rentabilité trimestrielle en glissement annuel. Les chiffres clés fournis dans le texte original sont un bénéfice opérationnel de 8,8 milliards de wons au premier trimestre et une progression annuelle de 117,5%. Les autres éléments, tels que le chiffre d’affaires ou le résultat net, ne sont pas inclus dans la source. Ce résultat peut servir d’indicateur pour évaluer la performance opérationnelle trimestrielle d’Ildong Holdings. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "إلدونغ هولدينغز تسجل ربحا تشغيليا فصليا قدره 8.8 مليار وون",
+        "excerpt": "أعلنت إلدونغ هولدينغز أن ربحها التشغيلي في الربع الأول بلغ 8.8 مليار وون، بزيادة 117.5% على أساس سنوي، ما يعكس تحسنا واضحا في الربحية الفصلية.",
+        "body": "أعلنت إلدونغ هولدينغز أن الربح التشغيلي في الربع الأول من العام بلغ 8.8 مليار وون، بزيادة قدرها 117.5% مقارنة بالفترة نفسها من العام السابق. ويوضح الإعلان أن الربحية الفصلية تحسنت بشكل كبير على أساس سنوي. الأرقام الأساسية الواردة في النص الأصلي هي ربح تشغيلي قدره 8.8 مليار وون في الربع الأول ونمو سنوي بنسبة 117.5%. ولم تتضمن المعلومات الأصلية بنودا أخرى مثل الإيرادات أو صافي الربح. ويمكن استخدام هذه النتيجة كمؤشر لمتابعة الأداء التشغيلي الفصلي لإلدونغ هولدينغز. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "इलडोंग होल्डिंग्स का Q1 परिचालन लाभ 8.8 अरब वॉन, 117.5% बढ़ा",
+        "excerpt": "इलडोंग होल्डिंग्स ने बताया कि पहली तिमाही में परिचालन लाभ 8.8 अरब वॉन रहा, जो सालाना आधार पर 117.5% अधिक है और तिमाही लाभप्रदता में तेज सुधार दिखाता है।",
+        "body": "इलडोंग होल्डिंग्स ने बताया कि इस वर्ष की पहली तिमाही में उसका परिचालन लाभ 8.8 अरब वॉन रहा, जो पिछले वर्ष की समान अवधि की तुलना में 117.5% अधिक है। यह घोषणा दर्शाती है कि तिमाही आधार पर कंपनी की लाभप्रदता में सालाना तुलना में उल्लेखनीय सुधार हुआ। मूल जानकारी में दिए गए मुख्य आंकड़े पहली तिमाही का 8.8 अरब वॉन परिचालन लाभ और 117.5% सालाना वृद्धि हैं। राजस्व या शुद्ध लाभ जैसे अन्य मद मूल स्रोत में शामिल नहीं थे। यह परिणाम इलडोंग होल्डिंग्स के तिमाही परिचालन प्रदर्शन को समझने के लिए संदर्भ संकेतक हो सकता है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Ildong Holdings Catat Laba Operasi Kuartal I 8,8 Miliar Won",
+        "excerpt": "Ildong Holdings menyatakan laba operasi kuartal pertama mencapai 8,8 miliar won, naik 117,5% dibanding tahun sebelumnya, menunjukkan perbaikan profitabilitas triwulanan.",
+        "body": "Ildong Holdings melaporkan laba operasi kuartal pertama sebesar 8,8 miliar won, meningkat 117,5% dibanding periode yang sama tahun sebelumnya. Pengumuman ini menunjukkan bahwa profitabilitas triwulanan membaik secara signifikan secara tahunan. Angka utama yang disampaikan dalam informasi asli adalah laba operasi kuartal pertama sebesar 8,8 miliar won dan kenaikan tahunan 117,5%. Pos lain seperti pendapatan atau laba bersih tidak tercantum dalam sumber asli. Hasil ini dapat menjadi acuan untuk menilai kinerja operasi triwulanan Ildong Holdings. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "46fe1e9eec18",
+    "slug": "sk이노베이션-1분기-영업익-2조1621억원흑자전환-263781",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T23:08:39.574Z",
+    "updatedAt": "2026-05-13T23:08:39.574Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051340466",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051340466",
+    "titleFingerprint": "b81b0b3f88ff8cf7216c5a1c9a8b5da88e94934d",
+    "dedupKeys": [
+      "46fe1e9eec1854313dfbaefe49c4fdddb07ec6a1",
+      "b81b0b3f88ff8cf7216c5a1c9a8b5da88e94934d",
+      "c9415d1d39da605e2bcfe65b7ebf411f4dc0d69c"
+    ],
+    "imageUrl": "/images/articles/46fe1e9eec18.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SK이노베이션 1분기 영업이익 2조1621억원, 흑자전환 발표",
+        "excerpt": "SK이노베이션은 1분기 영업이익이 2조1621억원을 기록하며 흑자전환했다고 밝혔다. 실적 회복 여부에 시장 관심이 집중되고 있다.",
+        "body": "SK이노베이션이 1분기 영업이익 2조1621억원을 기록하며 흑자전환했다. 이번 실적은 회사의 분기 수익성이 다시 플러스로 돌아섰다는 점에서 주목된다. 공개된 핵심 수치는 1분기 영업이익 2조1621억원과 흑자전환 여부다. 전년 또는 직전 분기와의 구체적 비교 수치, 매출, 순이익 등 추가 항목은 원문에 제시된 범위 밖이다. 시장은 SK이노베이션의 실적 개선 흐름과 향후 수익성 지속 여부를 확인할 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "SK Innovation posts Q1 operating profit of 2.1621 trillion won, turns profitable",
+        "excerpt": "SK Innovation said its first-quarter operating profit reached 2.1621 trillion won, marking a return to profit and drawing attention to its earnings recovery.",
+        "body": "SK Innovation recorded first-quarter operating profit of 2.1621 trillion won and returned to profit. The result is notable because the company’s quarterly profitability moved back into positive territory. The key figures disclosed are first-quarter operating profit of 2.1621 trillion won and the turnaround to profit. Specific comparisons with the previous year or prior quarter, as well as revenue and net income, are outside the information provided in the source. Markets are expected to watch whether SK Innovation can maintain its improved earnings trend and profitability. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "SKイノベーション、第1四半期営業利益2兆1621億ウォンで黒字転換",
+        "excerpt": "SKイノベーションは第1四半期の営業利益が2兆1621億ウォンとなり、黒字転換したと発表した。業績回復に注目が集まる。",
+        "body": "SKイノベーションは第1四半期に営業利益2兆1621億ウォンを記録し、黒字転換した。今回の業績は、同社の四半期収益性が再びプラス圏に戻った点で注目される。公開された中心情報は、第1四半期の営業利益2兆1621億ウォンと黒字転換したという事実である。前年または直前四半期との具体的な比較数値、売上高、純利益などの追加項目は原文で示された範囲外だ。市場はSKイノベーションの業績改善の流れと今後の収益性の持続性を確認する見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "SK Innovation一季度营业利润2.1621万亿韩元，实现扭亏为盈",
+        "excerpt": "SK Innovation表示，一季度营业利润达到2.1621万亿韩元并实现扭亏为盈，市场关注其业绩恢复情况。",
+        "body": "SK Innovation一季度录得营业利润2.1621万亿韩元，实现扭亏为盈。此次业绩受到关注，是因为公司的季度盈利能力重新回到正值区间。已披露的核心信息为一季度营业利润2.1621万亿韩元，以及实现扭亏为盈这一事实。与上年或上一季度的具体比较数据、销售额、净利润等其他项目，不在原文提供的信息范围内。市场预计将继续关注SK Innovation业绩改善趋势以及未来盈利能力能否持续。来源: hankyung.com"
+      },
+      "es": {
+        "title": "SK Innovation logra beneficio operativo de 2,1621 billones de wones en el primer trimestre",
+        "excerpt": "SK Innovation informó que su beneficio operativo del primer trimestre alcanzó 2,1621 billones de wones y que volvió a números positivos.",
+        "body": "SK Innovation registró en el primer trimestre un beneficio operativo de 2,1621 billones de wones y volvió a beneficios. El resultado destaca porque la rentabilidad trimestral de la compañía regresó a terreno positivo. Los datos clave divulgados son el beneficio operativo del primer trimestre, de 2,1621 billones de wones, y el hecho de la vuelta a beneficios. Las comparaciones concretas con el año anterior o el trimestre previo, así como ingresos y beneficio neto, quedan fuera de la información presentada en la fuente. El mercado seguirá observando si SK Innovation mantiene la mejora de resultados y la rentabilidad. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "SK Innovation tem lucro operacional de 2,1621 trilhões de won no 1º trimestre",
+        "excerpt": "A SK Innovation informou lucro operacional de 2,1621 trilhões de won no primeiro trimestre, marcando uma virada para o lucro.",
+        "body": "A SK Innovation registrou lucro operacional de 2,1621 trilhões de won no primeiro trimestre e voltou ao lucro. O resultado chama atenção porque a rentabilidade trimestral da companhia retornou ao campo positivo. As informações centrais divulgadas são o lucro operacional de 2,1621 trilhões de won no primeiro trimestre e a virada para o lucro. Comparações específicas com o ano anterior ou com o trimestre imediatamente anterior, além de receita e lucro líquido, não estão no escopo das informações fornecidas pela fonte. O mercado deve acompanhar se a melhora dos resultados e a rentabilidade da SK Innovation serão mantidas. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "SK Innovation erzielt im ersten Quartal 2,1621 Billionen Won Betriebsgewinn",
+        "excerpt": "SK Innovation meldete für das erste Quartal einen Betriebsgewinn von 2,1621 Billionen Won und damit die Rückkehr in die Gewinnzone.",
+        "body": "SK Innovation erzielte im ersten Quartal einen Betriebsgewinn von 2,1621 Billionen Won und kehrte in die Gewinnzone zurück. Das Ergebnis ist bemerkenswert, weil die Quartalsrentabilität des Unternehmens wieder positiv ausfiel. Die veröffentlichten Kerndaten sind der Betriebsgewinn von 2,1621 Billionen Won im ersten Quartal sowie die Rückkehr in die Gewinnzone. Konkrete Vergleiche mit dem Vorjahr oder dem Vorquartal sowie Angaben zu Umsatz und Nettogewinn liegen außerhalb der in der Quelle genannten Informationen. Der Markt dürfte nun beobachten, ob SK Innovation die Verbesserung der Ergebnisse und die Rentabilität fortsetzen kann. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "SK Innovation affiche 2,1621 billions de wons de bénéfice opérationnel au T1",
+        "excerpt": "SK Innovation a annoncé un bénéfice opérationnel de 2,1621 billions de wons au premier trimestre, marquant un retour aux bénéfices.",
+        "body": "SK Innovation a enregistré au premier trimestre un bénéfice opérationnel de 2,1621 billions de wons et est revenue aux bénéfices. Ce résultat retient l’attention car la rentabilité trimestrielle de l’entreprise est repassée en territoire positif. Les informations clés publiées sont le bénéfice opérationnel de 2,1621 billions de wons au premier trimestre et le retour aux bénéfices. Les comparaisons précises avec l’année précédente ou le trimestre précédent, ainsi que le chiffre d’affaires et le bénéfice net, ne font pas partie des informations fournies par la source. Le marché devrait suivre la capacité de SK Innovation à maintenir l’amélioration de ses résultats et sa rentabilité. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "إس كيه إنوفيشن تحقق ربحا تشغيليا قدره 2.1621 تريليون وون في الربع الأول",
+        "excerpt": "أعلنت إس كيه إنوفيشن أن ربحها التشغيلي في الربع الأول بلغ 2.1621 تريليون وون، لتعود إلى تحقيق الأرباح.",
+        "body": "سجلت إس كيه إنوفيشن في الربع الأول ربحا تشغيليا قدره 2.1621 تريليون وون، محققة تحولا إلى الربحية. وتبرز هذه النتيجة لأن ربحية الشركة الفصلية عادت إلى المنطقة الإيجابية. المعلومات الأساسية المعلنة هي الربح التشغيلي للربع الأول البالغ 2.1621 تريليون وون، وحقيقة التحول إلى الربحية. أما المقارنات المحددة مع العام السابق أو الربع السابق، وكذلك الإيرادات وصافي الربح، فهي خارج نطاق المعلومات الواردة في المصدر. ومن المتوقع أن تتابع السوق ما إذا كانت إس كيه إنوفيشن ستواصل تحسن الأداء والربحية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "SK Innovation का पहली तिमाही परिचालन लाभ 2.1621 ट्रिलियन वॉन, मुनाफे में वापसी",
+        "excerpt": "SK Innovation ने बताया कि पहली तिमाही में उसका परिचालन लाभ 2.1621 ट्रिलियन वॉन रहा और कंपनी मुनाफे में लौट आई।",
+        "body": "SK Innovation ने पहली तिमाही में 2.1621 ट्रिलियन वॉन का परिचालन लाभ दर्ज किया और कंपनी मुनाफे में लौट आई। यह परिणाम इसलिए महत्वपूर्ण है क्योंकि कंपनी की तिमाही लाभप्रदता फिर से सकारात्मक क्षेत्र में आई है। जारी की गई मुख्य जानकारी पहली तिमाही का 2.1621 ट्रिलियन वॉन परिचालन लाभ और मुनाफे में वापसी है। पिछले वर्ष या पिछली तिमाही से ठोस तुलना, राजस्व और शुद्ध लाभ जैसे अतिरिक्त आंकड़े स्रोत में दी गई जानकारी के दायरे से बाहर हैं। बाजार अब यह देखेगा कि SK Innovation की आय में सुधार और लाभप्रदता आगे टिकती है या नहीं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "SK Innovation cetak laba operasi 2,1621 triliun won pada kuartal I",
+        "excerpt": "SK Innovation menyatakan laba operasi kuartal pertamanya mencapai 2,1621 triliun won, menandai kembalinya perusahaan ke laba.",
+        "body": "SK Innovation mencatat laba operasi 2,1621 triliun won pada kuartal pertama dan kembali membukukan laba. Hasil ini menjadi perhatian karena profitabilitas kuartalan perusahaan kembali ke wilayah positif. Informasi utama yang diumumkan adalah laba operasi kuartal pertama sebesar 2,1621 triliun won dan fakta bahwa perusahaan berbalik untung. Perbandingan rinci dengan tahun sebelumnya atau kuartal sebelumnya, serta pendapatan dan laba bersih, berada di luar informasi yang disajikan dalam sumber. Pasar diperkirakan akan memantau apakah perbaikan kinerja dan profitabilitas SK Innovation dapat berlanjut. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "03679d91e5f7",
     "slug": "내용은-속여도-목소리는-못속여ceo-목소리-분석하는-로베코자산운용kiw-2026-116384",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Saham robotik melonjak saat investor asing memborong LG Electronics dan Rainbow Robotics",
         "excerpt": "Bulan ini dana asing mengalir kuat ke sektor robotik Korea Selatan, mendorong saham terkait seperti LG Electronics dan Rainbow Robotics naik lebih dari 30%.",
         "body": "Bulan ini, robotik menjadi sektor yang menerima arus dana asing paling kuat di pasar saham Korea Selatan. Saham terkait robot masuk jajaran teratas pembelian bersih investor asing, dengan minat beli terkonsentrasi pada LG Electronics dan Rainbow Robotics. Dengan aliran dana tersebut, harga saham terkait melonjak lebih dari 30% sejak awal bulan. Saat perhatian investor tertuju pada ke mana modal akan bergerak setelah semikonduktor, saham robotik mendapat sorotan pasar berkat pembelian asing. Artikel ini berfokus pada pembelian bersih asing dan kenaikan harga saham, tanpa menyebutkan kinerja mendatang atau kemungkinan kenaikan lanjutan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "8e3ff290bd4a",
-    "slug": "건설2차전지-수익성-개선아이에스동서-영업이익-흑자-전환-993123",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T07:22:57.529Z",
-    "updatedAt": "2026-05-13T07:22:57.529Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12046190",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12046190",
-    "titleFingerprint": "3e39b9aa260d2393f92c68283f1a2bf808002762",
-    "dedupKeys": [
-      "8e3ff290bd4ab532530561e1f9e2bc2007a6ed40",
-      "3e39b9aa260d2393f92c68283f1a2bf808002762",
-      "6fbc8797449d0e8cb527b519bfc1158eed21f99a"
-    ],
-    "imageUrl": "/images/articles/8e3ff290bd4a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "아이에스동서 영업이익 흑자 전환, 건설·2차전지 수익성 개선 주목",
-        "excerpt": "아이에스동서가 13일 공시한 올해 1분기 실적에서 매출 4370억원, 영업이익 1181억원을 기록하며 영업이익 흑자 전환에 성공했다.",
-        "body": "아이에스동서(IS동서)가 올해 1분기 영업이익 흑자 전환에 성공했다. 13일 IS동서 공시에 따르면 1분기 매출은 4370억원, 영업이익은 1181억원으로 집계됐다. 회사 실적 개선 배경으로는 건설 부문과 2차전지 관련 사업의 수익성 개선이 제시됐다. 특히 수익성 회복 흐름 속에서 다음 달 ‘경산 펜타힐즈 W’ 1단지 공급도 예정돼 있어 향후 분양 일정과 실적 흐름이 함께 주목된다. 이번 실적은 영업이익이 흑자로 돌아섰다는 점에서 시장의 관심을 받을 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "IS Dongseo Swings to Operating Profit on Better Construction and Battery Margins",
-        "excerpt": "IS Dongseo reported first-quarter sales of 437 billion won and operating profit of 118.1 billion won on May 13, marking a turnaround to operating profit.",
-        "body": "IS Dongseo returned to operating profit in the first quarter of this year. According to the company’s disclosure on May 13, first-quarter sales reached 437 billion won, while operating profit came to 118.1 billion won. The improvement was attributed to better profitability in the construction business and secondary battery-related operations. The company is also scheduled to supply the first complex of “Gyeongsan Pentahills W” next month, drawing attention to both its sales schedule and future earnings trend. The result is expected to attract market interest because operating profit turned positive. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "アイエス東西が営業黒字転換、建設・二次電池の収益性改善に注目",
-        "excerpt": "アイエス東西は13日の公示で、今年第1四半期に売上高4370億ウォン、営業利益1181億ウォンを記録し、営業黒字に転換した。",
-        "body": "アイエス東西（IS東西）が今年第1四半期に営業利益の黒字転換を果たした。13日の同社公示によると、第1四半期の売上高は4370億ウォン、営業利益は1181億ウォンと集計された。業績改善の背景として、建設部門と二次電池関連事業の収益性改善が示された。収益回復の流れの中で、来月には「慶山ペンタヒルズW」第1団地の供給も予定されており、今後の分譲日程と業績推移がともに注目される。今回の実績は営業利益が黒字に戻った点で市場の関心を集める見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "IS东瑞营业利润转正，建筑与二次电池盈利改善受关注",
-        "excerpt": "IS东瑞13日公告称，今年一季度实现销售额4370亿韩元、营业利润1181亿韩元，营业利润成功转为盈利。",
-        "body": "IS东瑞（IS Dongseo）今年第一季度营业利润成功转正。根据公司13日公告，一季度销售额为4370亿韩元，营业利润为1181亿韩元。业绩改善的背景包括建筑部门和二次电池相关业务盈利能力提升。在盈利恢复的同时，公司还计划于下月供应“庆山Pentahills W”一期，因此后续销售日程和业绩走势将受到关注。此次业绩因营业利润由亏转盈，预计将引发市场关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "IS Dongseo vuelve a beneficio operativo por construcción y baterías secundarias",
-        "excerpt": "IS Dongseo informó el 13 de mayo ventas trimestrales de 437.000 millones de wones y beneficio operativo de 118.100 millones, logrando volver a ganancias.",
-        "body": "IS Dongseo volvió a registrar beneficio operativo en el primer trimestre de este año. Según la divulgación de la compañía del 13 de mayo, las ventas trimestrales alcanzaron 437.000 millones de wones y el beneficio operativo fue de 118.100 millones de wones. La mejora se atribuyó a una mayor rentabilidad en el negocio de construcción y en las operaciones relacionadas con baterías secundarias. En medio de esta recuperación, la empresa prevé suministrar el primer complejo de “Gyeongsan Pentahills W” el próximo mes, por lo que el calendario de ventas y la evolución de resultados serán observados. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "IS Dongseo volta ao lucro operacional com melhora em construção e baterias",
-        "excerpt": "A IS Dongseo informou em 13 de maio receita de 437 bilhões de won e lucro operacional de 118,1 bilhões no 1º trimestre, revertendo para lucro.",
-        "body": "A IS Dongseo voltou ao lucro operacional no primeiro trimestre deste ano. Segundo comunicado da empresa em 13 de maio, a receita trimestral foi de 437 bilhões de won, enquanto o lucro operacional somou 118,1 bilhões de won. A melhora foi atribuída ao aumento da rentabilidade no segmento de construção e nos negócios relacionados a baterias secundárias. Com a recuperação da rentabilidade, a companhia também deve ofertar no próximo mês o primeiro complexo do “Gyeongsan Pentahills W”, o que mantém o foco no cronograma de vendas e na trajetória dos resultados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "IS Dongseo schafft operativen Gewinn dank Bau- und Batteriemargenerholung",
-        "excerpt": "IS Dongseo meldete am 13. Mai für das erste Quartal 437 Mrd. Won Umsatz und 118,1 Mrd. Won Betriebsgewinn und kehrte damit in die Gewinnzone zurück.",
-        "body": "IS Dongseo hat im ersten Quartal dieses Jahres wieder einen operativen Gewinn erzielt. Laut Unternehmensmitteilung vom 13. Mai lag der Quartalsumsatz bei 437 Milliarden Won, der Betriebsgewinn bei 118,1 Milliarden Won. Als Hintergrund der Ergebnisverbesserung wurden höhere Profitabilität im Baugeschäft und in den mit Sekundärbatterien verbundenen Aktivitäten genannt. Zudem ist für den kommenden Monat die Lieferung des ersten Komplexes von „Gyeongsan Pentahills W“ geplant, weshalb sowohl der Verkaufszeitplan als auch die weitere Ergebnisentwicklung im Blick stehen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "IS Dongseo renoue avec le bénéfice opérationnel grâce au bâtiment et aux batteries",
-        "excerpt": "IS Dongseo a annoncé le 13 mai un chiffre d’affaires trimestriel de 437 milliards de wons et un bénéfice opérationnel de 118,1 milliards de wons.",
-        "body": "IS Dongseo a renoué avec un bénéfice opérationnel au premier trimestre de cette année. Selon la publication de la société du 13 mai, le chiffre d’affaires trimestriel a atteint 437 milliards de wons et le bénéfice opérationnel 118,1 milliards de wons. L’amélioration des résultats est liée à une meilleure rentabilité dans la construction et dans les activités relatives aux batteries secondaires. Dans ce contexte de redressement, l’entreprise prévoit aussi de fournir le premier complexe de « Gyeongsan Pentahills W » le mois prochain, ce qui attire l’attention sur le calendrier de vente et l’évolution des résultats. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "آي إس دونغسو تتحول إلى ربح تشغيلي مع تحسن البناء والبطاريات الثانوية",
-        "excerpt": "أعلنت آي إس دونغسو في 13 مايو أن مبيعات الربع الأول بلغت 437 مليار وون وأن الربح التشغيلي سجل 118.1 مليار وون، محققة تحولاً إلى الربحية.",
-        "body": "نجحت آي إس دونغسو في التحول إلى ربح تشغيلي خلال الربع الأول من هذا العام. ووفق إفصاح الشركة في 13 مايو، بلغت المبيعات الفصلية 437 مليار وون، بينما وصل الربح التشغيلي إلى 118.1 مليار وون. وجاء تحسن النتائج مع تحسن ربحية قطاع البناء والأعمال المرتبطة بالبطاريات الثانوية. وفي ظل مسار استعادة الربحية، من المقرر أيضاً طرح المرحلة الأولى من مشروع «غيونغسان بنتاهيلز W» الشهر المقبل، ما يجعل جدول الطرح واتجاه الأرباح اللاحق محل متابعة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "IS Dongseo का परिचालन लाभ मुनाफे में लौटा, निर्माण और बैटरी मार्जिन सुधरे",
-        "excerpt": "IS Dongseo ने 13 मई को बताया कि पहली तिमाही में बिक्री 437 अरब वॉन और परिचालन लाभ 118.1 अरब वॉन रहा, जिससे कंपनी लाभ में लौट आई।",
-        "body": "IS Dongseo इस साल की पहली तिमाही में परिचालन लाभ के स्तर पर मुनाफे में लौट आई। कंपनी की 13 मई की सूचना के अनुसार, पहली तिमाही की बिक्री 437 अरब वॉन रही और परिचालन लाभ 118.1 अरब वॉन दर्ज किया गया। प्रदर्शन में सुधार की वजह निर्माण क्षेत्र और सेकेंडरी बैटरी से जुड़े कारोबार की बेहतर लाभप्रदता बताई गई। लाभप्रदता में सुधार के बीच कंपनी अगले महीने “Gyeongsan Pentahills W” के पहले परिसर की आपूर्ति भी करने वाली है, इसलिए आगे की बिक्री समय-सारणी और नतीजों की दिशा पर ध्यान रहेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "IS Dongseo Berbalik Laba Operasi Berkat Konstruksi dan Baterai Sekunder",
-        "excerpt": "IS Dongseo pada 13 Mei melaporkan penjualan kuartal I sebesar 437 miliar won dan laba operasi 118,1 miliar won, menandai berbalik ke laba.",
-        "body": "IS Dongseo berhasil berbalik mencatat laba operasi pada kuartal pertama tahun ini. Menurut keterbukaan perusahaan pada 13 Mei, penjualan kuartal pertama mencapai 437 miliar won, sementara laba operasi tercatat 118,1 miliar won. Perbaikan kinerja dikaitkan dengan meningkatnya profitabilitas di sektor konstruksi dan bisnis terkait baterai sekunder. Di tengah pemulihan profitabilitas tersebut, perusahaan juga dijadwalkan memasok kompleks pertama “Gyeongsan Pentahills W” bulan depan, sehingga jadwal penjualan dan arah kinerja berikutnya ikut menjadi perhatian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2c2edeaf2587",
-    "slug": "단독-삼성dx-직원들-초기업노조-교섭과정-문제있다법원-가처분신청-추진-920998",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T07:22:03.678Z",
-    "updatedAt": "2026-05-13T07:22:03.678Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12046191",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12046191",
-    "titleFingerprint": "4fd5fb0c1f0c9a551c142e785ce4d6af95622420",
-    "dedupKeys": [
-      "2c2edeaf2587b8a9be9354cb44fdc9f9884395b0",
-      "4fd5fb0c1f0c9a551c142e785ce4d6af95622420",
-      "fd13f3ddc23158d25bb6ff5172c17e26445be1df"
-    ],
-    "imageUrl": "/images/articles/2c2edeaf2587.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성DX 직원들, 초기업노조 교섭 절차 문제 제기…법원 가처분 추진",
-        "excerpt": "삼성전자 노사 임금 협상 사후 조정이 결렬된 가운데 DX 부문 직원들이 초기업노조 교섭 과정의 의견 반영과 절차 정합성 문제를 지적하며 법원 가처분 신청을 추진하고 있다.",
-        "body": "삼성전자 노사 간 임금 협상 사후 조정이 결렬된 가운데, 디바이스경험(DX) 부문 직원들이 초기업노조의 교섭 과정에 문제가 있다며 법원 가처분 신청을 추진하고 있다. 직원들은 교섭 과정에서 구성원 의견이 충분히 반영됐는지, 절차적 정합성이 확보됐는지 등을 문제로 제기한 것으로 전해졌다. 이번 움직임은 교섭 결과에 대한 불만이 단체 행동으로 확산될 조짐을 보이는 사례다. 법원이 가처분을 인용할 경우 향후 협약 체결 등 노사 절차에 제동이 걸릴 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung DX Employees Challenge Union Bargaining Process, Seek Court Injunction",
-        "excerpt": "After post-mediation wage talks between Samsung Electronics and labor broke down, DX division employees are seeking a court injunction over alleged flaws in the bargaining process.",
-        "body": "After post-mediation wage negotiations between Samsung Electronics and labor broke down, employees in the Device eXperience (DX) division are moving to seek a court injunction, arguing that there were problems in the bargaining process led by the supra-enterprise union. The employees reportedly raised concerns over whether workers’ views were properly reflected and whether procedural consistency was secured. The move signals that dissatisfaction with the bargaining process may spread into collective action. If the court accepts the injunction request, it could slow or block steps such as concluding an agreement. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスンDX社員、超企業労組の交渉手続きに問題提起…仮処分申請へ",
-        "excerpt": "サムスン電子の労使賃金交渉の事後調整が決裂する中、DX部門社員が超企業労組の交渉過程を問題視し、裁判所への仮処分申請を進めている。",
-        "body": "サムスン電子の労使間の賃金交渉をめぐる事後調整が決裂する中、デバイスエクスペリエンス（DX）部門の社員らが、超企業労組の交渉過程に問題があるとして裁判所への仮処分申請を進めている。社員らは、交渉過程で構成員の意見が十分に反映されたのか、手続き上の整合性が確保されたのかなどを指摘しているとされる。今回の動きは、交渉への不満が団体行動へ広がる兆しとして受け止められる。裁判所が仮処分を認めれば、今後の協約締結など労使手続きに影響が及ぶ可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星DX员工质疑超企业工会谈判程序，拟向法院申请禁令",
-        "excerpt": "在三星电子劳资薪资谈判事后调解破裂之际，DX部门员工质疑超企业工会谈判过程中的意见反映和程序正当性，正推动向法院申请临时禁令。",
-        "body": "在三星电子劳资之间的薪资谈判事后调解破裂之际，设备体验（DX）部门员工正推动向法院申请临时禁令，理由是超企业工会的谈判过程存在问题。据悉，员工们指出，谈判过程中成员意见是否得到充分反映、程序上的一致性是否得到保障等方面存在疑问。此举显示，对谈判过程的不满有扩散为集体行动的迹象。如果法院支持临时禁令申请，今后协议签署等劳资程序可能受到制约。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Empleados de Samsung DX cuestionan negociación sindical y preparan medida judicial",
-        "excerpt": "Tras fracasar la mediación posterior sobre salarios entre Samsung Electronics y el sindicato, empleados de DX impulsan una cautelar por dudas sobre representación y procedimiento.",
-        "body": "Después de que fracasara la mediación posterior en la negociación salarial entre Samsung Electronics y la parte laboral, empleados de la división Device eXperience (DX) están impulsando una solicitud de medida cautelar ante un tribunal, al alegar problemas en el proceso de negociación del sindicato supraempresarial. Según la información, los empleados cuestionan si las opiniones de los integrantes fueron reflejadas de forma suficiente y si se respetó la coherencia procedimental. El caso muestra señales de que el descontento con la negociación podría extenderse a una acción colectiva. Si el tribunal acepta la cautelar, podría frenar pasos como la firma de un acuerdo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Funcionários da Samsung DX contestam negociação sindical e buscam liminar",
-        "excerpt": "Após o impasse na mediação salarial entre Samsung Electronics e trabalhadores, empregados da divisão DX questionam o processo do sindicato supraempresarial e preparam ação judicial.",
-        "body": "Com o fracasso da mediação posterior nas negociações salariais entre a Samsung Electronics e representantes trabalhistas, funcionários da divisão Device eXperience (DX) avançam com um pedido de liminar na Justiça, alegando problemas no processo de negociação conduzido pelo sindicato supraempresarial. Segundo o relato, os empregados apontam dúvidas sobre a adequada incorporação das opiniões dos membros e sobre a coerência procedimental. O movimento indica sinais de que a insatisfação com a negociação pode se ampliar para uma ação coletiva. Caso a Justiça aceite a liminar, etapas como a assinatura de um acordo poderão ser travadas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung-DX-Beschäftigte kritisieren Gewerkschaftsverhandlungen und planen Eilantrag",
-        "excerpt": "Nach dem Scheitern der nachträglichen Schlichtung in den Lohnverhandlungen bei Samsung Electronics wollen DX-Beschäftigte wegen Verfahrensfragen vor Gericht ziehen.",
-        "body": "Nachdem die nachträgliche Schlichtung der Lohnverhandlungen zwischen Samsung Electronics und der Arbeitnehmerseite gescheitert ist, bereiten Beschäftigte der Sparte Device eXperience (DX) einen gerichtlichen Eilantrag vor. Sie argumentieren, dass es im Verhandlungsprozess der überbetrieblichen Gewerkschaft Probleme gegeben habe. Berichten zufolge verweisen die Mitarbeiter darauf, ob die Meinungen der Mitglieder ausreichend berücksichtigt wurden und ob die verfahrensrechtliche Stimmigkeit gewahrt blieb. Der Schritt deutet darauf hin, dass Unzufriedenheit mit den Verhandlungen in kollektives Handeln übergehen könnte. Gibt das Gericht dem Antrag statt, könnten Schritte wie der Abschluss einer Vereinbarung gebremst werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Des salariés de Samsung DX contestent la négociation syndicale et visent une injonction",
-        "excerpt": "Après l’échec de l’ajustement postérieur des discussions salariales chez Samsung Electronics, des salariés de DX contestent la procédure du syndicat supra-entreprise.",
-        "body": "Alors que l’ajustement postérieur des négociations salariales entre Samsung Electronics et les représentants des salariés a échoué, des employés de la division Device eXperience (DX) préparent une demande d’injonction provisoire devant un tribunal. Ils estiment que le processus de négociation mené par le syndicat supra-entreprise présente des problèmes. Selon les éléments rapportés, ils soulèvent notamment la question de la prise en compte des opinions des membres et de la cohérence procédurale. Ce mouvement montre que le mécontentement lié à la négociation pourrait s’étendre à une action collective. Si le tribunal accepte la demande, la conclusion d’un accord pourrait être freinée. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "موظفو سامسونغ DX يطعنون في مسار تفاوض النقابة ويتجهون لطلب قضائي",
-        "excerpt": "بعد فشل التسوية اللاحقة لمفاوضات الأجور بين سامسونغ إلكترونيكس والعمال، يتحرك موظفو قسم DX لطلب إجراء قضائي بسبب اعتراضات على مسار التفاوض.",
-        "body": "بعد فشل التسوية اللاحقة لمفاوضات الأجور بين سامسونغ إلكترونيكس والجانب العمالي، بدأ موظفون في قسم تجربة الأجهزة Device eXperience (DX) التحرك لتقديم طلب إجراء تحفظي إلى المحكمة، معتبرين أن مسار التفاوض الذي قادته النقابة فوق المؤسسية شابه خلل. ووفق ما ورد، يثير الموظفون تساؤلات حول مدى انعكاس آراء الأعضاء في التفاوض، وحول اتساق الإجراءات المتبعة. وتشير هذه الخطوة إلى احتمال اتساع عدم الرضا عن نتائج ومسار التفاوض إلى تحرك جماعي. وإذا قبلت المحكمة الطلب، فقد تتعطل خطوات لاحقة مثل إبرام الاتفاق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung DX कर्मचारियों ने यूनियन वार्ता प्रक्रिया पर सवाल उठाए, अदालत जाने की तैयारी",
-        "excerpt": "Samsung Electronics और श्रमिक पक्ष के बीच वेतन वार्ता की बाद की मध्यस्थता विफल होने के बाद DX विभाग के कर्मचारी वार्ता प्रक्रिया में राय और प्रक्रिया से जुड़े मुद्दे उठाते हुए निषेधाज्ञा की तैयारी कर रहे हैं।",
-        "body": "Samsung Electronics और श्रमिक पक्ष के बीच वेतन वार्ता की बाद की मध्यस्थता विफल होने के बीच Device eXperience (DX) विभाग के कर्मचारी अदालत में अस्थायी निषेधाज्ञा के लिए आवेदन करने की तैयारी कर रहे हैं। उनका कहना है कि सुप्रा-एंटरप्राइज यूनियन की वार्ता प्रक्रिया में समस्याएं हैं। बताया गया है कि कर्मचारियों ने यह मुद्दा उठाया कि क्या सदस्यों की राय पर्याप्त रूप से शामिल की गई और क्या प्रक्रियात्मक संगति सुनिश्चित की गई। यह कदम दिखाता है कि वार्ता को लेकर असंतोष सामूहिक कार्रवाई की ओर बढ़ सकता है। यदि अदालत आवेदन स्वीकार करती है, तो समझौते पर हस्ताक्षर जैसी आगे की प्रक्रियाओं पर रोक लग सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Karyawan Samsung DX Persoalkan Proses Negosiasi Serikat, Siapkan Gugatan Sela",
-        "excerpt": "Setelah penyesuaian pascaperundingan upah Samsung Electronics dan pekerja gagal, karyawan divisi DX menyoroti proses negosiasi serikat lintas perusahaan dan menyiapkan langkah ke pengadilan.",
-        "body": "Setelah penyesuaian pascaperundingan upah antara Samsung Electronics dan pihak pekerja gagal, karyawan divisi Device eXperience (DX) bergerak untuk mengajukan permohonan provisi ke pengadilan. Mereka menilai ada masalah dalam proses negosiasi yang dilakukan serikat lintas perusahaan. Para karyawan disebut mempertanyakan apakah pendapat anggota telah tercermin secara memadai dan apakah kesesuaian prosedural telah dijaga. Langkah ini menunjukkan tanda bahwa ketidakpuasan terhadap proses negosiasi dapat meluas menjadi aksi kolektif. Jika pengadilan mengabulkan permohonan tersebut, proses seperti penandatanganan perjanjian dapat terhambat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "37af7f21c5cd",
-    "slug": "정수기-얼음-먹고-설사했어-보상해머릿속이-궁금한-진상-고객들-850089",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T07:20:39.421Z",
-    "updatedAt": "2026-05-13T07:20:39.421Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12046265",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12046265",
-    "titleFingerprint": "de1f3677c287da15f918ba118fcfc6a1b53b0466",
-    "dedupKeys": [
-      "37af7f21c5cdfee6a81086bbdacdd6d17371013b",
-      "de1f3677c287da15f918ba118fcfc6a1b53b0466",
-      "734b906729bb4b813c0a6c4a8207b4502382b4e6"
-    ],
-    "imageUrl": "/images/articles/37af7f21c5cd.png",
-    "i18n": {
-      "ko": {
-        "title": "블랙 컨슈머 보상 요구에 가전업계 골치, 콜센터 폭언 피해도 심각",
-        "excerpt": "가전제품 판매 기업들이 정수기 얼음 섭취 뒤 설사 보상 요구, 단답형 응대 트집, 17년 사용 제품 보상 요구 등 블랙 컨슈머 민원으로 대응 부담을 겪고 있다.",
-        "body": "가전제품을 판매하는 기업들이 최근 일부 블랙 컨슈머의 과도한 보상 요구와 악성 민원 대응으로 어려움을 겪고 있다. 정수기 얼음을 먹고 설사했다며 보상을 요구하거나, 상담원이 “네~”라고 단답형으로 응대했다는 이유로 문제를 제기하는 사례가 소개됐다. 17년 넘게 사용한 제품에 대해 보상을 요구한 경우도 있었다. 관련 업계에서는 이런 민원이 콜센터 상담 인력의 부담으로 이어진다고 보고 있다. 콜센터 상담원 10명 중 6명이 폭언을 경험했다는 수치도 제시됐다. 기업들은 정상 소비자 보호와 상담원 보호를 동시에 고려한 대응책 마련에 골치를 앓고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Appliance Firms Struggle With Black Consumer Claims and Call Center Abuse",
-        "excerpt": "Appliance sellers are facing pressure from black consumer complaints, including compensation demands over water purifier ice, objections to brief replies, and claims on products used for over 17 years.",
-        "body": "Companies that sell home appliances are struggling to respond to excessive compensation demands and malicious complaints from some black consumers. Reported cases include a customer demanding compensation after claiming diarrhea from eating ice made by a water purifier, and another taking issue with a counselor’s brief reply of “yes.” There was also a case in which compensation was requested for a product used for more than 17 years. The industry sees such complaints as adding pressure on call center staff. A cited figure showed that 6 out of 10 call center counselors had experienced verbal abuse. Companies are trying to find responses that protect regular consumers while also protecting counselors. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ブラックコンシューマーの補償要求に家電業界が苦慮、相談員への暴言も深刻",
-        "excerpt": "家電販売企業は、浄水器の氷で下痢をしたとの補償要求、短い返答への苦情、17年以上使った製品への補償要求などに対応を迫られている。",
-        "body": "家電製品を販売する企業が、一部のブラックコンシューマーによる過度な補償要求や悪質な苦情への対応に苦慮している。浄水器の氷を食べて下痢をしたとして補償を求める事例や、相談員が「はい」と短く答えたことを問題視する事例が紹介された。17年以上使った製品について補償を要求したケースもあった。業界では、こうした苦情がコールセンター相談員の負担につながっているとみている。相談員10人のうち6人が暴言を経験したとの数値も示された。企業は通常の消費者保護と相談員保護を両立する対応策に頭を悩ませている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "黑色消费者索赔让家电企业头疼，客服遭辱骂问题也突出",
-        "excerpt": "家电销售企业正面对黑色消费者投诉压力，包括称吃净水器冰块后腹泻要求赔偿、挑剔简短回复，以及使用17年以上产品后索赔。",
-        "body": "销售家电产品的企业近期正因部分黑色消费者提出过度赔偿要求和恶意投诉而感到困难。报道中提到，有人称吃了净水器制冰后腹泻并要求赔偿，也有人因客服人员只简短回答“是”而提出问题。还有消费者对使用超过17年的产品要求赔偿。相关行业认为，这类投诉正在加重呼叫中心客服人员的负担。报道还提出，10名呼叫中心客服中有6人经历过辱骂。企业正在为同时保护正常消费者和客服人员而寻找应对方案。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Consumidores abusivos complican a firmas de electrodomésticos y golpean a call centers",
-        "excerpt": "Empresas de electrodomésticos afrontan quejas de consumidores abusivos por hielo de purificador, respuestas breves de operadores y compensaciones por productos usados más de 17 años.",
-        "body": "Las empresas que venden electrodomésticos están teniendo dificultades para responder a demandas excesivas de compensación y quejas maliciosas de algunos consumidores abusivos. Entre los casos citados figura un cliente que pidió compensación tras afirmar que tuvo diarrea por comer hielo de un purificador de agua, y otro que objetó que un asesor respondiera de forma breve con un “sí”. También se mencionó una solicitud de compensación por un producto usado durante más de 17 años. El sector considera que estas quejas aumentan la carga sobre el personal de call center. También se indicó que 6 de cada 10 asesores han sufrido insultos. Las empresas buscan medidas que protejan tanto a los consumidores normales como a los asesores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Consumidores abusivos pressionam setor de eletrodomésticos e expõem call centers",
-        "excerpt": "Empresas de eletrodomésticos lidam com reclamações abusivas por gelo de purificador, respostas curtas de atendentes e pedidos de compensação por produtos usados há mais de 17 anos.",
-        "body": "Empresas que vendem eletrodomésticos enfrentam dificuldades para responder a pedidos excessivos de compensação e reclamações maliciosas de alguns consumidores abusivos. Entre os casos relatados estão um cliente que pediu compensação ao afirmar ter tido diarreia depois de consumir gelo de um purificador de água e outro que questionou a resposta curta de um atendente dizendo apenas “sim”. Também houve pedido de compensação por um produto usado por mais de 17 anos. O setor avalia que esse tipo de reclamação aumenta a pressão sobre equipes de call center. Foi citado ainda que 6 em cada 10 atendentes sofreram abuso verbal. As empresas buscam respostas que protejam consumidores comuns e atendentes. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Problemkunden belasten Haushaltsgerätefirmen, Beschimpfungen in Callcentern nehmen zu",
-        "excerpt": "Haushaltsgeräteanbieter kämpfen mit Beschwerden von Problemkunden, darunter Entschädigungsforderungen wegen Wasserfilter-Eis, Kritik an kurzen Antworten und Ansprüche nach über 17 Jahren Nutzung.",
-        "body": "Unternehmen, die Haushaltsgeräte verkaufen, haben zunehmend Mühe, auf überzogene Entschädigungsforderungen und böswillige Beschwerden einzelner Problemkunden zu reagieren. Genannt wurden Fälle, in denen ein Kunde nach angeblichem Durchfall durch Eis aus einem Wasserreiniger Entschädigung verlangte oder eine kurze Antwort eines Beraters mit „ja“ beanstandete. Auch eine Forderung für ein Produkt, das mehr als 17 Jahre genutzt wurde, wurde erwähnt. Die Branche sieht darin eine zusätzliche Belastung für Callcenter-Mitarbeiter. Zudem wurde die Zahl genannt, dass 6 von 10 Callcenter-Beratern verbale Angriffe erlebt haben. Unternehmen suchen nach Lösungen, die normale Verbraucher und Berater zugleich schützen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Clients abusifs: les fabricants d’électroménager face aux demandes d’indemnisation",
-        "excerpt": "Les vendeurs d’électroménager font face à des plaintes abusives liées à la glace d’un purificateur, à des réponses brèves et à des demandes pour des produits utilisés plus de 17 ans.",
-        "body": "Les entreprises qui vendent des appareils électroménagers peinent à gérer les demandes d’indemnisation excessives et les plaintes malveillantes de certains clients abusifs. Parmi les cas cités figure un client réclamant une compensation après avoir affirmé avoir eu la diarrhée en mangeant de la glace produite par un purificateur d’eau, ainsi qu’un autre contestant une réponse brève d’un conseiller disant simplement “oui”. Un cas de demande d’indemnisation pour un produit utilisé depuis plus de 17 ans a aussi été mentionné. Le secteur estime que ces plaintes alourdissent la charge des centres d’appels. Il a également été indiqué que 6 conseillers sur 10 ont subi des insultes. Les entreprises cherchent des réponses protégeant à la fois les consommateurs ordinaires et les conseillers. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مطالبات المستهلكين المسيئين تربك شركات الأجهزة المنزلية وتضغط على مراكز الاتصال",
-        "excerpt": "تواجه شركات الأجهزة المنزلية شكاوى مسيئة تشمل طلب تعويض بسبب ثلج جهاز تنقية المياه، والاعتراض على رد مقتضب، والمطالبة بتعويض عن منتج استُخدم أكثر من 17 عاما.",
-        "body": "تواجه الشركات التي تبيع الأجهزة المنزلية صعوبات في التعامل مع مطالبات تعويض مفرطة وشكاوى خبيثة من بعض المستهلكين المسيئين. ومن الحالات المعروضة عميل طلب تعويضا بعد أن قال إنه أصيب بالإسهال بسبب تناول ثلج من جهاز لتنقية المياه، وآخر أثار مشكلة لأن موظف خدمة العملاء رد بإجابة قصيرة تعني “نعم”. كما وردت حالة طلب تعويض عن منتج استُخدم لأكثر من 17 عاما. وترى الصناعة أن هذه الشكاوى تزيد العبء على موظفي مراكز الاتصال. كما ذُكر أن 6 من كل 10 من موظفي مراكز الاتصال تعرضوا لإساءات لفظية. وتسعى الشركات إلى إيجاد إجراءات تحمي المستهلكين العاديين والموظفين معا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ब्लैक कंज्यूमर दावों से घरेलू उपकरण कंपनियां परेशान, कॉल सेंटर पर दबाव",
-        "excerpt": "घरेलू उपकरण बेचने वाली कंपनियां वाटर प्यूरीफायर की बर्फ से दस्त, छोटे जवाब पर आपत्ति और 17 साल से अधिक इस्तेमाल उत्पाद पर मुआवजे जैसी शिकायतों से जूझ रही हैं।",
-        "body": "घरेलू उपकरण बेचने वाली कंपनियां कुछ ब्लैक कंज्यूमर की अत्यधिक मुआवजा मांगों और दुर्भावनापूर्ण शिकायतों से निपटने में कठिनाई झेल रही हैं। रिपोर्ट में ऐसे मामले बताए गए जिनमें एक ग्राहक ने वाटर प्यूरीफायर की बर्फ खाने के बाद दस्त होने का दावा करते हुए मुआवजा मांगा, जबकि दूसरे ने काउंसलर के “हां” जैसे संक्षिप्त जवाब को मुद्दा बनाया। 17 साल से अधिक समय तक इस्तेमाल किए गए उत्पाद पर मुआवजा मांगने का मामला भी सामने आया। उद्योग का मानना है कि ऐसी शिकायतें कॉल सेंटर कर्मचारियों पर बोझ बढ़ाती हैं। यह आंकड़ा भी दिया गया कि 10 में से 6 कॉल सेंटर काउंसलर ने मौखिक दुर्व्यवहार का अनुभव किया। कंपनियां सामान्य उपभोक्ताओं और काउंसलरों दोनों की सुरक्षा के उपाय खोज रही हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Klaim Konsumen Bermasalah Bebani Perusahaan Elektronik dan Call Center",
-        "excerpt": "Perusahaan elektronik menghadapi keluhan konsumen bermasalah, mulai dari klaim diare akibat es pemurni air, protes atas jawaban singkat, hingga kompensasi produk yang dipakai lebih dari 17 tahun.",
-        "body": "Perusahaan yang menjual peralatan elektronik rumah tangga mengalami kesulitan menangani tuntutan kompensasi berlebihan dan keluhan jahat dari sebagian konsumen bermasalah. Kasus yang disebutkan antara lain pelanggan yang meminta kompensasi setelah mengaku diare karena memakan es dari pemurni air, serta pelanggan yang mempermasalahkan jawaban singkat petugas berupa “ya”. Ada juga permintaan kompensasi untuk produk yang telah digunakan lebih dari 17 tahun. Industri menilai keluhan seperti ini menambah beban staf call center. Disebutkan pula bahwa 6 dari 10 konselor call center pernah mengalami kekerasan verbal. Perusahaan mencari langkah yang dapat melindungi konsumen normal sekaligus petugas layanan. Sumber: mk.co.kr"
       }
     }
   }
