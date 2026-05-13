@@ -1,5 +1,230 @@
 [
   {
+    "id": "f34ad296e1f5",
+    "slug": "부울경-중소기업에-금융지원부산은행주택금융공사-400억원-상생펀드-368199",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T14:55:49.569Z",
+    "updatedAt": "2026-05-13T14:55:49.569Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12046127",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12046127",
+    "titleFingerprint": "84d36daf214ce4e1e6a80a818399a0af4a4fbb43",
+    "dedupKeys": [
+      "f34ad296e1f53cd2f71a43a704bff91c66172a49",
+      "84d36daf214ce4e1e6a80a818399a0af4a4fbb43",
+      "2759e2c624c98e1f87dc4a072c9fff8d4f5deef6"
+    ],
+    "imageUrl": "/images/articles/f34ad296e1f5.png",
+    "i18n": {
+      "ko": {
+        "title": "부울경 중소기업 금융지원 확대…부산은행·주택금융공사 400억원 펀드",
+        "excerpt": "BNK부산은행은 13일 한국주택금융공사와 400억원 규모 상생펀드를 조성해 부울경 지역 중소기업에 업체당 최대 7억원과 최대 1.60%포인트 금리감면을 지원한다.",
+        "body": "BNK부산은행은 13일 본점에서 한국주택금융공사와 400억원 규모의 상생펀드를 조성해 부산·울산·경남 지역 중소기업 금융지원에 나선다고 밝혔다. 이번 지원은 지역 기업의 자금 부담을 낮추기 위한 상생 금융 성격이다. 지원 한도는 업체당 최대 7억원이며, 대출 금리는 최대 1.60%포인트까지 감면된다. 부산은행과 한국주택금융공사가 함께 마련한 재원은 지역 중소기업의 운영자금 확보와 금융비용 절감에 활용될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Busan Bank, KHFC Launch W40bn Fund for SMEs in Busan-Ulsan-Gyeongnam",
+        "excerpt": "BNK Busan Bank said on May 13 it formed a W40bn mutual growth fund with Korea Housing Finance Corp. to support SMEs in Busan, Ulsan and South Gyeongsang with up to W700mn per company and rate cuts of up to 1.60 percentage points.",
+        "body": "BNK Busan Bank said on May 13 at its headquarters that it has formed a W40bn mutual growth fund with Korea Housing Finance Corp. to provide financial support to small and midsize companies in Busan, Ulsan and South Gyeongsang. The program is aimed at easing funding burdens for local businesses. Each company can receive up to W700mn, while loan rates may be reduced by as much as 1.60 percentage points. The fund jointly prepared by Busan Bank and Korea Housing Finance Corp. is expected to help regional SMEs secure operating funds and lower financing costs. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "釜山銀行・住宅金融公社、釜山・蔚山・慶南中小企業に400億ウォン支援",
+        "excerpt": "BNK釜山銀行は13日、韓国住宅金融公社と400億ウォン規模の共生ファンドを造成し、釜山・蔚山・慶南の中小企業に1社最大7億ウォン、最大1.60ポイントの金利減免を支援する。",
+        "body": "BNK釜山銀行は13日、本店で韓国住宅金融公社と400億ウォン規模の共生ファンドを造成し、釜山・蔚山・慶尚南道地域の中小企業への金融支援に乗り出すと明らかにした。今回の支援は、地域企業の資金負担を軽減するための共生金融の性格を持つ。支援限度は1社当たり最大7億ウォンで、貸出金利は最大1.60ポイントまで引き下げられる。両機関が用意した財源は、地域中小企業の運転資金確保と金融費用の削減に活用される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "釜山银行与韩国住房金融公社设400亿韩元基金支持东南圈中小企业",
+        "excerpt": "BNK釜山银行13日表示，将与韩国住房金融公社设立400亿韩元共生基金，支持釜山、蔚山、庆南中小企业，单家公司最高7亿韩元，并最多下调1.60个百分点利率。",
+        "body": "BNK釜山银行13日在总部表示，将与韩国住房金融公社共同设立400亿韩元规模的共生基金，为釜山、蔚山、庆尚南道地区中小企业提供金融支持。此次支持旨在减轻地区企业的资金负担，属于共生金融措施。单家企业支持额度最高为7亿韩元，贷款利率最多可下调1.60个百分点。由釜山银行和韩国住房金融公社共同筹措的资金，预计将用于帮助地区中小企业 확보运营资金并降低融资成本。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Busan Bank y KHFC crean fondo de W40.000 millones para pymes del sureste coreano",
+        "excerpt": "BNK Busan Bank anunció el 13 de mayo un fondo de crecimiento compartido de W40.000 millones con Korea Housing Finance Corp. para apoyar a pymes de Busan, Ulsan y Gyeongsang del Sur con hasta W700 millones por empresa y recortes de tasa de hasta 1,60 puntos.",
+        "body": "BNK Busan Bank informó el 13 de mayo en su sede que creó con Korea Housing Finance Corp. un fondo de crecimiento compartido de W40.000 millones para ofrecer apoyo financiero a pequeñas y medianas empresas de Busan, Ulsan y Gyeongsang del Sur. La medida busca aliviar la carga de financiación de las compañías regionales. Cada empresa podrá recibir hasta W700 millones, y la tasa de los préstamos podrá reducirse hasta 1,60 puntos porcentuales. Los recursos preparados por ambas entidades se destinarán a ayudar a las pymes locales a asegurar capital operativo y reducir costos financieros. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Busan Bank e KHFC criam fundo de W40 bi para PMEs de Busan, Ulsan e Gyeongnam",
+        "excerpt": "O BNK Busan Bank informou em 13 de maio que criou com a Korea Housing Finance Corp. um fundo de W40 bilhões para apoiar PMEs de Busan, Ulsan e Gyeongnam, com até W700 milhões por empresa e redução de juros de até 1,60 ponto.",
+        "body": "O BNK Busan Bank informou em 13 de maio, em sua sede, que criou com a Korea Housing Finance Corp. um fundo de crescimento compartilhado de W40 bilhões para oferecer apoio financeiro a pequenas e médias empresas de Busan, Ulsan e Gyeongsang do Sul. A iniciativa tem como objetivo reduzir o peso financeiro sobre empresas regionais. O limite de apoio é de até W700 milhões por empresa, com redução da taxa de empréstimo de até 1,60 ponto percentual. Os recursos preparados pelas duas instituições devem ajudar PMEs locais a garantir capital operacional e diminuir custos financeiros. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Busan Bank und KHFC legen W40-Mrd.-Fonds für KMU in Busan, Ulsan und Gyeongnam auf",
+        "excerpt": "Die BNK Busan Bank teilte am 13. Mai mit, sie habe mit der Korea Housing Finance Corp. einen W40-Mrd.-Fonds eingerichtet, um KMU in Busan, Ulsan und Süd-Gyeongsang mit bis zu W700 Mio. je Firma und Zinssenkungen bis 1,60 Punkte zu unterstützen.",
+        "body": "Die BNK Busan Bank erklärte am 13. Mai in ihrer Zentrale, sie habe gemeinsam mit der Korea Housing Finance Corp. einen Fonds für gemeinsames Wachstum im Umfang von W40 Mrd. aufgelegt, um kleine und mittlere Unternehmen in Busan, Ulsan und Süd-Gyeongsang finanziell zu unterstützen. Die Maßnahme soll die Finanzierungslast regionaler Unternehmen verringern. Pro Unternehmen sind bis zu W700 Mio. möglich, und die Kreditzinsen können um bis zu 1,60 Prozentpunkte reduziert werden. Die von beiden Institutionen bereitgestellten Mittel sollen lokalen KMU helfen, Betriebskapital zu sichern und Finanzierungskosten zu senken. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Busan Bank et KHFC lancent un fonds de W40 Mds pour les PME du sud-est coréen",
+        "excerpt": "BNK Busan Bank a annoncé le 13 mai un fonds de croissance partagée de W40 Mds avec Korea Housing Finance Corp. pour soutenir les PME de Busan, Ulsan et Gyeongsang du Sud, avec jusqu’à W700 M par entreprise et une baisse de taux jusqu’à 1,60 point.",
+        "body": "BNK Busan Bank a indiqué le 13 mai, à son siège, avoir constitué avec Korea Housing Finance Corp. un fonds de croissance partagée de W40 Mds afin d’apporter un soutien financier aux petites et moyennes entreprises de Busan, Ulsan et Gyeongsang du Sud. Cette mesure vise à réduire la charge de financement des entreprises régionales. Le plafond d’aide atteint W700 M par entreprise, tandis que le taux des prêts peut être réduit jusqu’à 1,60 point de pourcentage. Les ressources préparées par les deux institutions devraient aider les PME locales à obtenir des fonds de roulement et à réduire leurs coûts financiers. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "بوسان بنك وهيئة تمويل الإسكان يطلقان صندوقا بـ40 مليار وون لدعم شركات الجنوب الشرقي",
+        "excerpt": "أعلن BNK Busan Bank في 13 مايو إنشاء صندوق شراكة بقيمة 40 مليار وون مع Korea Housing Finance Corp. لدعم الشركات الصغيرة والمتوسطة في بوسان وأولسان وكيونغنام، بحد أقصى 700 مليون وون لكل شركة وخفض فائدة حتى 1.60 نقطة.",
+        "body": "أعلن BNK Busan Bank في 13 مايو، من مقره الرئيسي، أنه أنشأ مع Korea Housing Finance Corp. صندوق شراكة بقيمة 40 مليار وون لتقديم دعم مالي للشركات الصغيرة والمتوسطة في بوسان وأولسان ومقاطعة كيونغسانغ الجنوبية. ويهدف هذا الدعم إلى تخفيف أعباء التمويل عن الشركات المحلية. يبلغ الحد الأقصى للدعم 700 مليون وون لكل شركة، ويمكن خفض سعر الفائدة على القروض بما يصل إلى 1.60 نقطة مئوية. ومن المتوقع أن تساعد الموارد التي أعدتها المؤسستان الشركات الصغيرة والمتوسطة في المنطقة على تأمين رأس المال التشغيلي وخفض تكاليف التمويل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Busan Bank और KHFC ने दक्षिण-पूर्व कोरिया की SMEs के लिए W40 अरब का फंड बनाया",
+        "excerpt": "BNK Busan Bank ने 13 मई को Korea Housing Finance Corp. के साथ W40 अरब का साझा विकास फंड बनाने की घोषणा की, जिससे Busan, Ulsan और Gyeongnam की SMEs को प्रति कंपनी W700 मिलियन तक और ब्याज दर में 1.60 अंक तक छूट मिलेगी।",
+        "body": "BNK Busan Bank ने 13 मई को अपने मुख्यालय में कहा कि उसने Korea Housing Finance Corp. के साथ W40 अरब का साझा विकास फंड बनाया है, जिसके जरिए Busan, Ulsan और South Gyeongsang क्षेत्र की छोटी और मध्यम कंपनियों को वित्तीय सहायता दी जाएगी। इस कदम का उद्देश्य क्षेत्रीय कंपनियों के फंडिंग बोझ को कम करना है। प्रति कंपनी सहायता सीमा W700 मिलियन तक है, जबकि ऋण ब्याज दर में अधिकतम 1.60 प्रतिशत अंक तक कटौती की जा सकती है। दोनों संस्थानों द्वारा तैयार संसाधन स्थानीय SMEs को परिचालन पूंजी जुटाने और वित्तीय लागत घटाने में मदद करेंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Busan Bank dan KHFC Bentuk Dana W40 Miliar untuk UKM Busan-Ulsan-Gyeongnam",
+        "excerpt": "BNK Busan Bank pada 13 Mei membentuk dana pertumbuhan bersama W40 miliar dengan Korea Housing Finance Corp. untuk mendukung UKM di Busan, Ulsan, dan Gyeongnam, dengan bantuan hingga W700 juta per perusahaan dan potongan bunga hingga 1,60 poin.",
+        "body": "BNK Busan Bank pada 13 Mei di kantor pusatnya menyatakan telah membentuk dana pertumbuhan bersama senilai W40 miliar dengan Korea Housing Finance Corp. untuk memberikan dukungan keuangan kepada usaha kecil dan menengah di Busan, Ulsan, dan Gyeongsang Selatan. Program ini bertujuan mengurangi beban pendanaan perusahaan daerah. Batas dukungan mencapai W700 juta per perusahaan, sementara suku bunga pinjaman dapat dipangkas hingga 1,60 poin persentase. Dana yang disiapkan kedua lembaga itu diperkirakan membantu UKM lokal memperoleh modal operasional dan menekan biaya pembiayaan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9a058d6439d3",
+    "slug": "말로-켜고-끄고욕실-환기가전에도-ai음성인식-적용-649468",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T14:54:48.184Z",
+    "updatedAt": "2026-05-13T14:54:48.184Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12046334",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12046334",
+    "titleFingerprint": "7f76c14826f23149a9fc00d2841567942bb30473",
+    "dedupKeys": [
+      "9a058d6439d39e1b9df1aef2f5636641e2e90304",
+      "7f76c14826f23149a9fc00d2841567942bb30473",
+      "92f55fb7334a2b846c46623b75ce51a7a3bd1a8d"
+    ],
+    "imageUrl": "/images/articles/9a058d6439d3.png",
+    "i18n": {
+      "ko": {
+        "title": "AI 음성인식 욕실 환기가전, 힘펠이 선보인 말로 켜고 끄는 신제품",
+        "excerpt": "환기가전 기업 힘펠은 AI+ 인증을 획득한 AI 음성인식 욕실 환기 제품을 내놓고, 말로 작동하는 기능을 통해 사용자 편의성을 높였다고 밝혔다.",
+        "body": "환기가전 기업 힘펠이 AI 음성인식으로 작동하는 욕실 환기 제품을 선보였다. 사용자는 제품을 직접 조작하지 않고 말로 켜고 끄는 방식으로 욕실 환기를 관리할 수 있다. 힘펠은 해당 제품이 AI+ 인증을 획득했다고 밝혔다. 환기 관련 제품이 다양하게 출시되는 가운데, 힘펠은 AI 기술을 접목해 사용자 편의성을 높이는 데 초점을 맞췄다. 욕실 환기가전에도 음성인식 기능이 적용되면서 생활가전의 조작 방식이 더 간편해질 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "AI Voice-Controlled Bathroom Ventilation: Himpel Launches Talk-to-Operate Product",
+        "excerpt": "Ventilation appliance company Himpel has introduced an AI voice-recognition bathroom ventilation product with AI+ certification, aiming to improve user convenience through voice operation.",
+        "body": "Himpel, a ventilation appliance company, has introduced a bathroom ventilation product that operates with AI voice recognition. Users can manage bathroom ventilation by turning the product on and off with spoken commands instead of manual controls. Himpel said the product has obtained AI+ certification. As a variety of ventilation-related products continue to enter the market, the company is focusing on applying AI technology to improve user convenience. The addition of voice recognition to bathroom ventilation appliances suggests a simpler way to operate household ventilation products. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "AI音声認識の浴室換気家電、ヒンペルが声で操作する新製品を投入",
+        "excerpt": "換気家電企業ヒンペルは、AI+認証を取得したAI音声認識対応の浴室換気製品を発売し、声で操作できる機能で利便性を高めた。",
+        "body": "換気家電企業のヒンペルが、AI音声認識で作動する浴室換気製品を発表した。利用者は製品を直接操作せず、声でオン・オフを行い浴室の換気を管理できる。ヒンペルは同製品がAI+認証を取得したと説明した。換気関連製品が多様に発売されるなか、同社はAI技術を組み合わせ、利用者の利便性を高めることに重点を置いた。浴室換気家電にも音声認識機能が適用され、生活家電の操作方法はより簡単になるとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "AI语音识别浴室换气家电，Himpel推出可用语音开关的新产品",
+        "excerpt": "换气家电企业Himpel推出获得AI+认证的AI语音识别浴室换气产品，通过语音操作功能提升用户使用便利性。",
+        "body": "换气家电企业Himpel推出了可通过AI语音识别运行的浴室换气产品。用户无需直接操作设备，只需用语音即可开启或关闭产品，管理浴室换气。Himpel表示，该产品已获得AI+认证。在各类换气相关产品不断上市的背景下，Himpel将AI技术应用于产品，重点提升用户便利性。随着语音识别功能被引入浴室换气家电，生活家电的操作方式有望变得更加简便。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Ventilación de baño con voz e IA: Himpel lanza un producto que se enciende hablando",
+        "excerpt": "La empresa de electrodomésticos de ventilación Himpel presentó un producto de ventilación para baño con reconocimiento de voz por IA y certificación AI+ para mejorar la comodidad del usuario.",
+        "body": "Himpel, empresa de electrodomésticos de ventilación, presentó un producto de ventilación para baño que funciona con reconocimiento de voz basado en IA. Los usuarios pueden gestionar la ventilación del baño encendiendo y apagando el producto con comandos hablados, sin manipularlo directamente. Himpel indicó que el producto obtuvo la certificación AI+. Mientras se lanzan diversos productos relacionados con la ventilación, la compañía se centra en incorporar IA para mejorar la comodidad del usuario. La aplicación del reconocimiento de voz a la ventilación de baño apunta a una forma más sencilla de operar estos electrodomésticos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ventilação de banheiro com voz e IA: Himpel lança produto acionado por fala",
+        "excerpt": "A empresa de aparelhos de ventilação Himpel apresentou um produto de ventilação para banheiro com reconhecimento de voz por IA e certificação AI+, buscando ampliar a conveniência do usuário.",
+        "body": "A Himpel, empresa de aparelhos de ventilação, apresentou um produto de ventilação para banheiro que funciona com reconhecimento de voz por IA. Os usuários podem controlar a ventilação do banheiro ligando e desligando o produto por comandos de voz, sem operar o aparelho manualmente. A Himpel informou que o produto obteve a certificação AI+. Em meio ao lançamento de diversos produtos ligados à ventilação, a empresa foca em aplicar tecnologia de IA para aumentar a conveniência do usuário. A adoção de reconhecimento de voz em aparelhos de ventilação para banheiro deve tornar a operação desses produtos domésticos mais simples. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Badlüftung per KI-Sprachsteuerung: Himpel bringt Produkt zum Ein- und Ausschalten per Stimme",
+        "excerpt": "Der Lüftungsgerätehersteller Himpel hat ein Badlüftungsprodukt mit KI-Spracherkennung und AI+-Zertifizierung vorgestellt, das die Bedienung per Stimme erleichtern soll.",
+        "body": "Der Lüftungsgerätehersteller Himpel hat ein Badlüftungsprodukt vorgestellt, das mit KI-Spracherkennung arbeitet. Nutzer können die Badlüftung steuern, indem sie das Produkt per Sprachbefehl ein- und ausschalten, ohne es direkt zu bedienen. Himpel teilte mit, dass das Produkt die AI+-Zertifizierung erhalten hat. Während immer mehr Produkte rund um Lüftung auf den Markt kommen, setzt das Unternehmen auf KI-Technologie, um die Benutzerfreundlichkeit zu erhöhen. Mit der Anwendung von Spracherkennung auf Badlüftungsgeräte dürfte die Bedienung von Haushaltslüftung einfacher werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Ventilation de salle de bain à commande vocale IA: Himpel lance un produit activé à la voix",
+        "excerpt": "Le fabricant d’appareils de ventilation Himpel a présenté un produit de ventilation de salle de bain avec reconnaissance vocale IA et certification AI+ afin d’améliorer le confort d’usage.",
+        "body": "Himpel, fabricant d’appareils de ventilation, a présenté un produit de ventilation pour salle de bain fonctionnant avec la reconnaissance vocale par IA. Les utilisateurs peuvent gérer la ventilation en allumant ou en éteignant le produit par la voix, sans manipulation directe. Himpel a indiqué que le produit avait obtenu la certification AI+. Alors que divers produits liés à la ventilation sont lancés, l’entreprise met l’accent sur l’intégration de l’IA pour améliorer la commodité d’utilisation. L’arrivée de la reconnaissance vocale dans les appareils de ventilation de salle de bain devrait rendre leur fonctionnement plus simple. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تهوية الحمام بالذكاء الاصطناعي الصوتي: هيمبل تطرح منتجا يعمل بالأوامر الصوتية",
+        "excerpt": "طرحت شركة هيمبل لأجهزة التهوية منتجا لتهوية الحمام يعمل بالتعرف الصوتي المدعوم بالذكاء الاصطناعي وحصل على اعتماد AI+ بهدف تحسين راحة المستخدم.",
+        "body": "طرحت شركة هيمبل المتخصصة في أجهزة التهوية منتجا لتهوية الحمام يعمل بتقنية التعرف الصوتي بالذكاء الاصطناعي. ويمكن للمستخدمين إدارة تهوية الحمام عبر تشغيل المنتج أو إيقافه بالأوامر الصوتية بدلا من التحكم اليدوي المباشر. وقالت هيمبل إن المنتج حصل على اعتماد AI+. ومع طرح منتجات متنوعة مرتبطة بالتهوية، تركز الشركة على دمج تقنية الذكاء الاصطناعي لرفع مستوى راحة المستخدم. ويشير تطبيق التعرف الصوتي في أجهزة تهوية الحمام إلى طريقة تشغيل أبسط للأجهزة المنزلية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI वॉइस रिकग्निशन वाला बाथरूम वेंटिलेशन, Himpel ने बोलकर चलने वाला उत्पाद पेश किया",
+        "excerpt": "वेंटिलेशन उपकरण कंपनी Himpel ने AI+ प्रमाणन प्राप्त AI वॉइस रिकग्निशन वाला बाथरूम वेंटिलेशन उत्पाद पेश किया, जिसका लक्ष्य उपयोगकर्ता सुविधा बढ़ाना है।",
+        "body": "वेंटिलेशन उपकरण कंपनी Himpel ने AI वॉइस रिकग्निशन से चलने वाला बाथरूम वेंटिलेशन उत्पाद पेश किया है। उपयोगकर्ता उत्पाद को सीधे छुए बिना आवाज से उसे चालू या बंद कर बाथरूम की वेंटिलेशन व्यवस्था संभाल सकते हैं। Himpel ने बताया कि इस उत्पाद को AI+ प्रमाणन मिला है। वेंटिलेशन से जुड़े विविध उत्पाद बाजार में आने के बीच कंपनी ने AI तकनीक जोड़कर उपयोगकर्ता सुविधा बढ़ाने पर ध्यान दिया है। बाथरूम वेंटिलेशन उपकरणों में वॉइस रिकग्निशन लागू होने से घरेलू उपकरणों का संचालन अधिक आसान हो सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Ventilasi Kamar Mandi Berbasis Suara AI, Himpel Rilis Produk yang Bisa Dinyalakan Lewat Ucapan",
+        "excerpt": "Perusahaan perangkat ventilasi Himpel memperkenalkan produk ventilasi kamar mandi dengan pengenalan suara AI bersertifikasi AI+ untuk meningkatkan kemudahan pengguna.",
+        "body": "Himpel, perusahaan perangkat ventilasi, memperkenalkan produk ventilasi kamar mandi yang beroperasi dengan pengenalan suara berbasis AI. Pengguna dapat mengatur ventilasi kamar mandi dengan menyalakan atau mematikan produk lewat perintah suara tanpa mengoperasikannya secara langsung. Himpel menyatakan produk tersebut telah memperoleh sertifikasi AI+. Di tengah beragamnya produk terkait ventilasi yang dirilis, perusahaan berfokus menerapkan teknologi AI untuk meningkatkan kemudahan pengguna. Penerapan pengenalan suara pada perangkat ventilasi kamar mandi menunjukkan cara pengoperasian peralatan rumah tangga yang lebih sederhana. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e499dba43301",
+    "slug": "금호석화-최경주재단에-장학금-3천만원-기부-506765",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T14:53:49.147Z",
+    "updatedAt": "2026-05-13T14:53:49.147Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12046343",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12046343",
+    "titleFingerprint": "3207a42f8102e222615a194085ec9c2aba22657a",
+    "dedupKeys": [
+      "e499dba43301c2e1cffbaf56b16efb2242660650",
+      "3207a42f8102e222615a194085ec9c2aba22657a",
+      "67d5f1c1e8ab0d2469b73200cb30c7e4ffe884d8"
+    ],
+    "imageUrl": "/images/articles/e499dba43301.jpg",
+    "i18n": {
+      "ko": {
+        "title": "금호석화, 최경주재단에 장학금 3000만원 기부…이공계 인재 지원",
+        "excerpt": "금호석유화학그룹은 13일 최경주재단에 이공계 인재 육성을 위한 장학금 3000만원을 기부했다고 밝혔다. 장학금은 화학공학 등 관련 전공 학생 지원에 쓰인다.",
+        "body": "금호석유화학그룹은 13일 최경주재단에 이공계 인재 육성을 위한 장학금 3000만원을 기부했다고 밝혔다. 이번 장학금은 화학공학을 비롯해 로봇공학, 컴퓨터공학, 인공지능학, 정보보안·암호 관련 분야 등 이공계 전공 인재를 지원하는 데 사용된다. 회사의 기부는 미래 기술 분야 인재 양성을 돕는 사회공헌 활동의 일환으로 해석된다. 장학금 지원을 통해 관련 전공 학생들의 학업 지속과 성장 기반 마련에 보탬이 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kumho Petrochemical Donates 30 Million Won Scholarship to Choi Kyoung-Ju Foundation",
+        "excerpt": "Kumho Petrochemical Group said on the 13th it donated 30 million won to the Choi Kyoung-Ju Foundation to support science and engineering talent, including students in chemical engineering and related fields.",
+        "body": "Kumho Petrochemical Group announced on the 13th that it donated 30 million won in scholarship funds to the Choi Kyoung-Ju Foundation to help foster science and engineering talent. The scholarship will support students majoring in fields such as chemical engineering, robotics, computer engineering, artificial intelligence, and information security and cryptography-related areas. The donation is part of the company’s social contribution efforts to assist the development of talent in future technology fields. The funding is expected to help students in related majors continue their studies and build a foundation for growth. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "錦湖石化、崔京周財団に奨学金3000万ウォン寄付…理工系人材を支援",
+        "excerpt": "錦湖石油化学グループは13日、理工系人材の育成に向け、崔京周財団に奨学金3000万ウォンを寄付したと発表した。化学工学など関連専攻の学生支援に使われる。",
+        "body": "錦湖石油化学グループは13日、理工系人材の育成を目的に、崔京周財団へ奨学金3000万ウォンを寄付したと発表した。今回の奨学金は、化学工学をはじめ、ロボット工学、コンピューター工学、人工知能学、情報セキュリティ・暗号関連分野など、理工系専攻の人材支援に使われる。今回の寄付は、未来技術分野の人材育成を支える社会貢献活動の一環と位置づけられる。奨学金支援により、関連専攻の学生が学業を継続し、成長基盤を整える助けになる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "锦湖石化向崔京周基金会捐赠3000万韩元奖学金，支持理工人才",
+        "excerpt": "锦湖石油化学集团13日表示，已向崔京周基金会捐赠3000万韩元奖学金，用于培养理工科人才，支持化学工程等相关专业学生。",
+        "body": "锦湖石油化学集团13日表示，已向崔京周基金会捐赠3000万韩元奖学金，以支持理工科人才培养。本次奖学金将用于资助化学工程、机器人工程、计算机工程、人工智能、信息安全及密码相关领域等理工科专业人才。该捐赠可视为公司支持未来技术领域人才成长的社会贡献活动之一。通过奖学金支持，相关专业学生有望在持续学业和建立成长基础方面获得帮助。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Kumho Petrochemical dona 30 millones de wones en becas a la Fundación Choi Kyoung-Ju",
+        "excerpt": "Kumho Petrochemical Group informó el día 13 que donó 30 millones de wones a la Fundación Choi Kyoung-Ju para formar talento en ciencia e ingeniería, incluidos campos como ingeniería química.",
+        "body": "Kumho Petrochemical Group anunció el día 13 que donó 30 millones de wones en becas a la Fundación Choi Kyoung-Ju para apoyar la formación de talento en ciencia e ingeniería. La beca se destinará a estudiantes de áreas como ingeniería química, robótica, ingeniería informática, inteligencia artificial, seguridad de la información y campos relacionados con criptografía. La donación forma parte de las actividades de contribución social de la compañía para respaldar el desarrollo de talento en tecnologías futuras. Se espera que el apoyo ayude a estudiantes de estas especialidades a continuar sus estudios y fortalecer su base de crecimiento. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Kumho Petrochemical doa 30 milhões de won em bolsas à Fundação Choi Kyoung-Ju",
+        "excerpt": "O Kumho Petrochemical Group informou no dia 13 que doou 30 milhões de won à Fundação Choi Kyoung-Ju para apoiar talentos em ciência e engenharia, incluindo engenharia química e áreas relacionadas.",
+        "body": "O Kumho Petrochemical Group anunciou no dia 13 que doou 30 milhões de won em bolsas à Fundação Choi Kyoung-Ju para ajudar na formação de talentos em ciência e engenharia. O apoio será destinado a estudantes de áreas como engenharia química, robótica, engenharia da computação, inteligência artificial, segurança da informação e campos relacionados à criptografia. A doação faz parte das iniciativas de contribuição social da empresa para apoiar talentos em tecnologias futuras. A bolsa deve ajudar estudantes desses cursos a manter os estudos e construir uma base para seu crescimento. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kumho Petrochemical spendet 30 Mio. Won an Choi-Kyoung-Ju-Stiftung für MINT-Talente",
+        "excerpt": "Kumho Petrochemical Group teilte am 13. mit, der Choi-Kyoung-Ju-Stiftung 30 Mio. Won für Stipendien zur Förderung von MINT-Talenten gespendet zu haben, darunter Studierende der Chemietechnik.",
+        "body": "Kumho Petrochemical Group gab am 13. bekannt, der Choi-Kyoung-Ju-Stiftung 30 Millionen Won als Stipendienmittel zur Förderung von Talenten in Wissenschaft und Technik gespendet zu haben. Die Stipendien sollen Studierende in Bereichen wie Chemietechnik, Robotik, Informatik, künstlicher Intelligenz sowie Informationssicherheit und kryptografiebezogenen Feldern unterstützen. Die Spende ist Teil der gesellschaftlichen Beiträge des Unternehmens zur Förderung von Nachwuchs in Zukunftstechnologien. Die Unterstützung dürfte Studierenden entsprechender Fachrichtungen helfen, ihr Studium fortzusetzen und eine Grundlage für weiteres Wachstum zu schaffen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Kumho Petrochemical donne 30 millions de wons à la Fondation Choi Kyoung-Ju",
+        "excerpt": "Kumho Petrochemical Group a annoncé le 13 avoir donné 30 millions de wons à la Fondation Choi Kyoung-Ju afin de soutenir les talents scientifiques et techniques, notamment en génie chimique.",
+        "body": "Kumho Petrochemical Group a annoncé le 13 avoir versé 30 millions de wons de bourses à la Fondation Choi Kyoung-Ju pour contribuer à la formation de talents dans les sciences et l’ingénierie. Ces bourses soutiendront des étudiants dans des domaines tels que le génie chimique, la robotique, l’ingénierie informatique, l’intelligence artificielle, ainsi que la sécurité de l’information et les secteurs liés à la cryptographie. Ce don s’inscrit dans les actions de contribution sociale de l’entreprise en faveur des futurs domaines technologiques. Il devrait aider les étudiants concernés à poursuivre leurs études et à consolider leur base de développement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كومهو بتروكيميكال تتبرع بـ30 مليون وون لمنح مؤسسة تشوي كيونغ-جو",
+        "excerpt": "أعلنت مجموعة كومهو بتروكيميكال في 13 من الشهر أنها تبرعت بـ30 مليون وون لمؤسسة تشوي كيونغ-جو لدعم تنمية المواهب في العلوم والهندسة، بما في ذلك الهندسة الكيميائية.",
+        "body": "أعلنت مجموعة كومهو بتروكيميكال في 13 من الشهر أنها تبرعت بمنح دراسية بقيمة 30 مليون وون لمؤسسة تشوي كيونغ-جو بهدف دعم تنمية المواهب في مجالات العلوم والهندسة. وستُستخدم المنح لدعم طلاب تخصصات تشمل الهندسة الكيميائية، وهندسة الروبوتات، وهندسة الحاسوب، والذكاء الاصطناعي، وأمن المعلومات والمجالات المرتبطة بالتشفير. وتأتي هذه الخطوة ضمن أنشطة المساهمة الاجتماعية للشركة لدعم تنمية الكفاءات في مجالات التكنولوجيا المستقبلية. ومن المتوقع أن تساعد المنح الطلاب في هذه التخصصات على مواصلة دراستهم وبناء أساس للنمو. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कुम्हो पेट्रोकेमिकल ने चोई क्यौंग-जू फाउंडेशन को 3 करोड़ वॉन की छात्रवृत्ति दी",
+        "excerpt": "कुम्हो पेट्रोकेमिकल ग्रुप ने 13 तारीख को बताया कि उसने विज्ञान और इंजीनियरिंग प्रतिभाओं के विकास के लिए चोई क्यौंग-जू फाउंडेशन को 3 करोड़ वॉन की छात्रवृत्ति दान की है।",
+        "body": "कुम्हो पेट्रोकेमिकल ग्रुप ने 13 तारीख को घोषणा की कि उसने विज्ञान और इंजीनियरिंग प्रतिभाओं को बढ़ावा देने के लिए चोई क्यौंग-जू फाउंडेशन को 3 करोड़ वॉन की छात्रवृत्ति राशि दान की है। यह छात्रवृत्ति केमिकल इंजीनियरिंग, रोबोटिक्स इंजीनियरिंग, कंप्यूटर इंजीनियरिंग, आर्टिफिशियल इंटेलिजेंस, सूचना सुरक्षा और क्रिप्टोग्राफी से जुड़े क्षेत्रों जैसे विज्ञान-इंजीनियरिंग विषयों के छात्रों को समर्थन देने में इस्तेमाल होगी। यह दान भविष्य की प्रौद्योगिकी से जुड़े क्षेत्रों में प्रतिभा विकास को सहायता देने वाली कंपनी की सामाजिक योगदान गतिविधि का हिस्सा है। इससे संबंधित विषयों के छात्रों को पढ़ाई जारी रखने और विकास की बुनियाद बनाने में मदद मिलने की उम्मीद है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kumho Petrochemical Donasikan Beasiswa 30 Juta Won ke Yayasan Choi Kyoung-Ju",
+        "excerpt": "Kumho Petrochemical Group menyatakan pada 13 bahwa pihaknya menyumbangkan beasiswa 30 juta won kepada Yayasan Choi Kyoung-Ju untuk mendukung talenta sains dan teknik, termasuk teknik kimia.",
+        "body": "Kumho Petrochemical Group mengumumkan pada 13 bahwa pihaknya menyumbangkan dana beasiswa sebesar 30 juta won kepada Yayasan Choi Kyoung-Ju untuk membantu pengembangan talenta di bidang sains dan teknik. Beasiswa ini akan digunakan untuk mendukung mahasiswa jurusan seperti teknik kimia, teknik robotika, teknik komputer, kecerdasan buatan, serta bidang keamanan informasi dan kriptografi. Donasi tersebut merupakan bagian dari kegiatan kontribusi sosial perusahaan untuk mendukung pengembangan talenta di bidang teknologi masa depan. Dukungan beasiswa ini diharapkan membantu mahasiswa terkait melanjutkan studi dan membangun dasar pertumbuhan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "d89b6b94f9d3",
     "slug": "32살-대한항공-퇴역-점보기-la과학관서-새임무-얻었다-381758",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Penerus Semikonduktor Melonjak 18% Sehari, Investor Asing Ikut Memborong",
         "excerpt": "Menurut Hankyung, saham yang disebut sebagai ‘penerus setelah semikonduktor’ melonjak 18% dalam sehari, sementara investor asing juga membelinya besar-besaran.",
         "body": "Saham yang mendapat perhatian sebagai ‘penerus setelah semikonduktor’ melonjak 18% dalam satu hari. Menurut Hankyung, saham tersebut mencatat kenaikan tajam dalam jangka pendek, dan investor asing juga ikut membeli. Laporan itu menyebut ekspektasi mengenai ke mana minat pasar akan bergerak setelah semikonduktor tercermin dalam pergerakan harga saham. Angka utama yang disebut adalah kenaikan harian 18%, disertai aktivitas beli oleh investor asing. Namun, berdasarkan informasi yang dipublikasikan, nama saham dan nilai pembelian secara rinci belum dapat dikonfirmasi. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "f6129433e063",
-    "slug": "콜마홀딩스-1분기-영업익-204억원전년비-549-증가-383342",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-12T21:26:21.863Z",
-    "updatedAt": "2026-05-12T21:26:21.863Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051210546",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051210546",
-    "titleFingerprint": "ae548e70a04657a259b5b2f0ff24db77779ab52a",
-    "dedupKeys": [
-      "f6129433e0639870964d378e984f93ddb555067d",
-      "ae548e70a04657a259b5b2f0ff24db77779ab52a",
-      "f48690bb108d4907b6255187a73477ef3c6e61b8"
-    ],
-    "imageUrl": "/images/articles/f6129433e063.png",
-    "i18n": {
-      "ko": {
-        "title": "콜마홀딩스 1분기 영업익 204억원, 전년 대비 549% 증가",
-        "excerpt": "콜마홀딩스는 1분기 영업이익이 204억원으로 전년 대비 549% 증가했다고 밝혔다. 분기 실적 개선 폭이 크게 나타나 시장의 관심이 집중된다.",
-        "body": "콜마홀딩스는 올해 1분기 영업이익이 204억원을 기록해 전년 동기 대비 549% 증가했다고 밝혔다. 이번 발표는 회사의 분기 수익성이 전년 같은 기간보다 크게 개선됐다는 점을 보여준다. 원문에서 제공된 핵심 수치는 1분기 영업이익 204억원과 전년 대비 증가율 549%다. 매출, 순이익, 사업 부문별 세부 실적 등 추가 지표는 원문 정보에 포함되지 않았다. 이번 실적은 콜마홀딩스의 최근 영업 성과를 확인하는 기준으로 활용될 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Kolmar Holdings Q1 Operating Profit Hits 20.4 Billion Won, Up 549% YoY",
-        "excerpt": "Kolmar Holdings said its first-quarter operating profit reached 20.4 billion won, rising 549% from a year earlier and drawing attention to the sharp improvement.",
-        "body": "Kolmar Holdings said its operating profit for the first quarter came to 20.4 billion won, up 549% from the same period a year earlier. The announcement shows that the company’s quarterly profitability improved sharply compared with the previous year. The key figures provided in the original report are first-quarter operating profit of 20.4 billion won and a year-on-year increase of 549%. Additional indicators such as revenue, net income, or business-segment details were not included in the source information. The result can serve as a reference point for assessing Kolmar Holdings’ recent operating performance. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "コルマーホールディングス、1四半期営業益204億ウォンで前年比549％増",
-        "excerpt": "コルマーホールディングスは第1四半期の営業利益が204億ウォンとなり、前年同期比549％増加したと明らかにした。大幅な改善に関心が集まる。",
-        "body": "コルマーホールディングスは、今年第1四半期の営業利益が204億ウォンとなり、前年同期比で549％増加したと発表した。今回の発表は、同社の四半期収益性が前年同期に比べて大きく改善したことを示している。原文で示された主な数値は、第1四半期営業利益204億ウォンと前年比549％増という内容だ。売上高、純利益、事業部門別の詳細実績など追加指標は原文情報に含まれていない。今回の実績は、コルマーホールディングスの最近の営業成果を確認する基準になり得る。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Kolmar Holdings第一季度营业利润204亿韩元，同比增加549%",
-        "excerpt": "Kolmar Holdings表示，第一季度营业利润为204亿韩元，同比增加549%。季度盈利能力大幅改善，引发市场关注。",
-        "body": "Kolmar Holdings表示，今年第一季度营业利润达到204亿韩元，较上年同期增加549%。这一发布显示，公司季度盈利能力较去年同期明显改善。原文提供的核心数据为第一季度营业利润204亿韩元，以及同比增幅549%。销售额、净利润、各业务部门具体业绩等其他指标未包含在原文信息中。该业绩可作为观察Kolmar Holdings近期经营成果的基础参考。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Kolmar Holdings eleva su beneficio operativo del 1T a 20.400 millones de wones",
-        "excerpt": "Kolmar Holdings informó que su beneficio operativo del primer trimestre fue de 20.400 millones de wones, un aumento interanual del 549%, destacando una fuerte mejora.",
-        "body": "Kolmar Holdings informó que su beneficio operativo del primer trimestre alcanzó los 20.400 millones de wones, un 549% más que en el mismo periodo del año anterior. El anuncio muestra que la rentabilidad trimestral de la compañía mejoró de forma marcada frente al año previo. Las cifras clave incluidas en la información original son el beneficio operativo del primer trimestre, de 20.400 millones de wones, y el aumento interanual del 549%. No se incluyeron otros indicadores, como ingresos, beneficio neto o detalles por segmento de negocio. El resultado puede servir como referencia para evaluar el desempeño operativo reciente de Kolmar Holdings. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Kolmar Holdings tem lucro operacional de 20,4 bi de won no 1º trimestre",
-        "excerpt": "A Kolmar Holdings informou que o lucro operacional do primeiro trimestre chegou a 20,4 bilhões de won, alta de 549% ante o ano anterior, indicando forte melhora.",
-        "body": "A Kolmar Holdings informou que seu lucro operacional no primeiro trimestre foi de 20,4 bilhões de won, um aumento de 549% em relação ao mesmo período do ano anterior. O anúncio mostra que a rentabilidade trimestral da empresa melhorou de forma expressiva na comparação anual. Os principais dados apresentados na informação original são o lucro operacional de 20,4 bilhões de won no primeiro trimestre e a alta anual de 549%. Indicadores adicionais, como receita, lucro líquido ou detalhes por área de negócios, não foram incluídos na fonte. O resultado pode servir como referência para acompanhar o desempenho operacional recente da Kolmar Holdings. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Kolmar Holdings steigert operativen Gewinn im 1. Quartal auf 20,4 Mrd. Won",
-        "excerpt": "Kolmar Holdings meldete für das erste Quartal einen operativen Gewinn von 20,4 Milliarden Won, ein Plus von 549% zum Vorjahr und ein deutliches Signal besserer Profitabilität.",
-        "body": "Kolmar Holdings teilte mit, dass der operative Gewinn im ersten Quartal 20,4 Milliarden Won erreichte und damit um 549% gegenüber dem Vorjahreszeitraum stieg. Die Meldung zeigt, dass sich die Quartalsprofitabilität des Unternehmens im Jahresvergleich stark verbessert hat. Die im Original genannten Kerndaten sind der operative Gewinn von 20,4 Milliarden Won im ersten Quartal sowie der Anstieg um 549% gegenüber dem Vorjahr. Weitere Kennzahlen wie Umsatz, Nettogewinn oder Details nach Geschäftsbereichen wurden in der Quelle nicht genannt. Das Ergebnis kann als Bezugspunkt für die jüngste operative Entwicklung von Kolmar Holdings dienen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Kolmar Holdings porte son bénéfice opérationnel du T1 à 20,4 milliards de wons",
-        "excerpt": "Kolmar Holdings a annoncé un bénéfice opérationnel de 20,4 milliards de wons au premier trimestre, en hausse de 549% sur un an, signalant une nette amélioration.",
-        "body": "Kolmar Holdings a indiqué que son bénéfice opérationnel du premier trimestre avait atteint 20,4 milliards de wons, soit une hausse de 549% par rapport à la même période de l’année précédente. Cette annonce montre une forte amélioration de la rentabilité trimestrielle de l’entreprise en glissement annuel. Les chiffres clés fournis par l’information d’origine sont le bénéfice opérationnel de 20,4 milliards de wons au premier trimestre et la progression annuelle de 549%. Les données supplémentaires, comme le chiffre d’affaires, le bénéfice net ou le détail par activité, ne figurent pas dans la source. Ce résultat peut servir de repère pour suivre la performance opérationnelle récente de Kolmar Holdings. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كولمار هولدينغز تسجل ربحا تشغيليا بـ20.4 مليار وون في الربع الأول",
-        "excerpt": "أعلنت كولمار هولدينغز أن ربحها التشغيلي في الربع الأول بلغ 20.4 مليار وون، بزيادة 549% على أساس سنوي، ما يبرز تحسنا كبيرا في الربحية.",
-        "body": "أعلنت كولمار هولدينغز أن الربح التشغيلي في الربع الأول من هذا العام بلغ 20.4 مليار وون، بزيادة قدرها 549% مقارنة بالفترة نفسها من العام السابق. ويظهر الإعلان أن ربحية الشركة الفصلية تحسنت بشكل كبير على أساس سنوي. الأرقام الأساسية الواردة في التقرير الأصلي هي ربح تشغيلي قدره 20.4 مليار وون في الربع الأول ونمو سنوي بنسبة 549%. ولم تتضمن معلومات المصدر مؤشرات إضافية مثل الإيرادات أو صافي الربح أو تفاصيل الأداء حسب قطاعات الأعمال. ويمكن استخدام هذه النتيجة كمرجع لمتابعة الأداء التشغيلي الأخير لكولمار هولدينغز. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Kolmar Holdings का Q1 ऑपरेटिंग प्रॉफिट 20.4 अरब वॉन, सालाना 549% बढ़ा",
-        "excerpt": "Kolmar Holdings ने बताया कि पहली तिमाही में ऑपरेटिंग प्रॉफिट 20.4 अरब वॉन रहा, जो सालाना आधार पर 549% बढ़ा और लाभप्रदता में तेज सुधार दिखाता है।",
-        "body": "Kolmar Holdings ने कहा कि इस वर्ष पहली तिमाही में उसका ऑपरेटिंग प्रॉफिट 20.4 अरब वॉन रहा, जो पिछले वर्ष की समान अवधि की तुलना में 549% अधिक है। यह घोषणा दिखाती है कि कंपनी की तिमाही लाभप्रदता सालाना आधार पर काफी सुधरी है। मूल रिपोर्ट में दिए गए प्रमुख आंकड़े पहली तिमाही का 20.4 अरब वॉन का ऑपरेटिंग प्रॉफिट और 549% की सालाना वृद्धि हैं। राजस्व, शुद्ध लाभ या व्यवसाय खंडों के विस्तृत प्रदर्शन जैसे अतिरिक्त संकेतक स्रोत जानकारी में शामिल नहीं थे। यह परिणाम Kolmar Holdings के हालिया परिचालन प्रदर्शन को समझने के लिए एक आधार बन सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Kolmar Holdings Catat Laba Operasi Kuartal I 20,4 Miliar Won, Naik 549%",
-        "excerpt": "Kolmar Holdings menyatakan laba operasi kuartal pertama mencapai 20,4 miliar won, naik 549% secara tahunan, menunjukkan perbaikan profitabilitas yang tajam.",
-        "body": "Kolmar Holdings menyatakan laba operasi pada kuartal pertama tahun ini mencapai 20,4 miliar won, meningkat 549% dibandingkan periode yang sama tahun sebelumnya. Pengumuman ini menunjukkan bahwa profitabilitas kuartalan perusahaan membaik tajam secara tahunan. Angka utama yang tersedia dalam informasi asli adalah laba operasi kuartal pertama sebesar 20,4 miliar won dan kenaikan tahunan 549%. Indikator tambahan seperti pendapatan, laba bersih, atau rincian kinerja per segmen bisnis tidak tercantum dalam sumber. Hasil ini dapat menjadi acuan untuk melihat kinerja operasi terbaru Kolmar Holdings. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "f1dcb0293316",
-    "slug": "美-비료기업-모자이크-중동-전쟁에-비료-생산-감축-327375",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-12T21:25:29.110Z",
-    "updatedAt": "2026-05-12T21:25:29.110Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605120877i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605120877i",
-    "titleFingerprint": "4aa7d47d476b3853d55a6401de4c49d29d9eb8c1",
-    "dedupKeys": [
-      "f1dcb02933168d817250886e1820749b239b46b0",
-      "4aa7d47d476b3853d55a6401de4c49d29d9eb8c1",
-      "60a3e107bdaec11fb686ef366ef03ffe8a4f9ea2"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "미국 비료기업 모자이크 생산 감축, 중동 전쟁 여파에 비료 공급 우려",
-        "excerpt": "미국 비료기업 모자이크가 중동 전쟁 영향으로 비료 생산을 줄였다. 원자재 시장은 생산 감축이 비료 공급과 가격 흐름에 미칠 영향을 주시하고 있다.",
-        "body": "미국 비료기업 모자이크가 중동 전쟁 영향으로 비료 생산을 감축했다. 이번 조치는 지정학적 불안이 에너지와 원자재 시장을 넘어 비료 생산에도 부담으로 작용하고 있음을 보여준다. 제공된 원문에는 감축 규모, 대상 품목, 시행 기간 등 세부 수치는 제시되지 않았다. 비료는 농산물 생산과 연결되는 핵심 투입재인 만큼, 생산 축소 소식은 공급 안정성과 가격 흐름을 살피는 시장 참가자들의 관심을 끌 수 있다. 향후 영향은 감축 기간과 중동 전쟁의 전개에 따라 달라질 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "U.S. Fertilizer Maker Mosaic Cuts Output as Middle East War Raises Supply Concerns",
-        "excerpt": "U.S. fertilizer company Mosaic has reduced fertilizer production due to the Middle East war, drawing attention to possible effects on supply stability and commodity markets.",
-        "body": "U.S. fertilizer company Mosaic has cut fertilizer production because of the Middle East war. The move shows how geopolitical instability is weighing not only on energy and commodity markets but also on fertilizer production. The provided source does not specify the scale of the reduction, affected products, or the implementation period. Because fertilizer is a key input for agricultural production, news of lower output may draw attention from market participants watching supply stability and price trends. The eventual impact may depend on how long the production cut lasts and how the Middle East war develops. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "米肥料大手モザイクが生産削減、中東戦争で肥料供給不安に注目",
-        "excerpt": "米肥料企業モザイクが中東戦争の影響で肥料生産を削減した。市場では供給安定性や価格動向への影響に関心が集まっている。",
-        "body": "米国の肥料企業モザイクが、中東戦争の影響で肥料生産を削減した。今回の動きは、地政学的な不安がエネルギーや原材料市場だけでなく、肥料生産にも負担となっていることを示している。提供された原文では、削減規模、対象品目、実施期間などの具体的な数値は示されていない。肥料は農産物生産につながる重要な投入材であるため、生産縮小のニュースは供給の安定性や価格動向を見守る市場参加者の関心を集める可能性がある。今後の影響は、削減期間と中東戦争の展開によって変わり得る。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "美国化肥企业美盛削减产量，中东战争引发供应担忧",
-        "excerpt": "美国化肥企业美盛因中东战争影响削减化肥生产，市场正关注这一变化对化肥供应稳定和大宗商品价格走势的影响。",
-        "body": "美国化肥企业美盛因中东战争影响削减了化肥生产。此举显示，地缘政治不稳定不仅对能源和大宗商品市场构成压力，也正在影响化肥生产。所提供的原文未列明减产规模、涉及品种或执行期限等具体数据。化肥是农业生产的重要投入品，因此产量下调的消息可能引起关注供应稳定和价格走势的市场参与者重视。后续影响将取决于减产持续时间以及中东战争的发展。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Mosaic reduce producción de fertilizantes en EE. UU. por la guerra en Medio Oriente",
-        "excerpt": "La estadounidense Mosaic redujo la producción de fertilizantes por la guerra en Medio Oriente, mientras el mercado observa posibles efectos en oferta y precios.",
-        "body": "La empresa estadounidense de fertilizantes Mosaic redujo la producción de fertilizantes debido a la guerra en Medio Oriente. La medida muestra que la inestabilidad geopolítica está presionando no solo a los mercados de energía y materias primas, sino también a la producción de fertilizantes. La fuente proporcionada no detalla el tamaño del recorte, los productos afectados ni el periodo de aplicación. Como los fertilizantes son insumos clave para la producción agrícola, la noticia puede atraer la atención de participantes del mercado que siguen la estabilidad del suministro y la evolución de los precios. El impacto dependerá de la duración del recorte y del desarrollo de la guerra. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Mosaic corta produção de fertilizantes nos EUA com guerra no Oriente Médio",
-        "excerpt": "A norte-americana Mosaic reduziu a produção de fertilizantes devido à guerra no Oriente Médio, elevando a atenção sobre oferta, estabilidade e preços.",
-        "body": "A empresa norte-americana de fertilizantes Mosaic reduziu a produção de fertilizantes devido à guerra no Oriente Médio. A decisão mostra que a instabilidade geopolítica pressiona não apenas os mercados de energia e commodities, mas também a produção de fertilizantes. A fonte fornecida não informa o tamanho do corte, os produtos afetados nem o período de implementação. Como fertilizantes são insumos essenciais para a produção agrícola, a notícia pode chamar a atenção de participantes do mercado que acompanham a estabilidade da oferta e a trajetória dos preços. O impacto futuro dependerá da duração do corte e da evolução da guerra no Oriente Médio. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "US-Düngerkonzern Mosaic kürzt Produktion wegen Krieg im Nahen Osten",
-        "excerpt": "Der US-Düngerkonzern Mosaic hat wegen des Kriegs im Nahen Osten die Produktion reduziert. Märkte achten nun auf mögliche Folgen für Angebot und Preise.",
-        "body": "Der US-Düngerkonzern Mosaic hat wegen des Kriegs im Nahen Osten seine Düngemittelproduktion gekürzt. Der Schritt zeigt, dass geopolitische Unsicherheit nicht nur Energie- und Rohstoffmärkte belastet, sondern auch die Produktion von Düngemitteln. In der bereitgestellten Quelle werden Umfang der Kürzung, betroffene Produkte und Dauer der Maßnahme nicht genannt. Da Düngemittel ein wichtiger Einsatzfaktor für die landwirtschaftliche Produktion sind, dürfte die Nachricht die Aufmerksamkeit von Marktteilnehmern auf sich ziehen, die Angebotsstabilität und Preisentwicklung verfolgen. Die weiteren Auswirkungen hängen von der Dauer der Kürzung und vom Verlauf des Kriegs im Nahen Osten ab. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Mosaic réduit sa production d’engrais aux États-Unis avec la guerre au Moyen-Orient",
-        "excerpt": "Le groupe américain Mosaic a réduit sa production d’engrais en raison de la guerre au Moyen-Orient, attirant l’attention sur l’offre et les prix.",
-        "body": "Le groupe américain d’engrais Mosaic a réduit sa production d’engrais en raison de la guerre au Moyen-Orient. Cette décision montre que l’instabilité géopolitique pèse non seulement sur les marchés de l’énergie et des matières premières, mais aussi sur la production d’engrais. La source fournie ne précise pas l’ampleur de la réduction, les produits concernés ni la période d’application. Les engrais étant un intrant essentiel pour la production agricole, cette baisse de production peut retenir l’attention des acteurs du marché qui surveillent la stabilité de l’offre et l’évolution des prix. Les effets dépendront de la durée de la réduction et de l’évolution de la guerre. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "شركة موزايك الأميركية تخفض إنتاج الأسمدة مع تداعيات حرب الشرق الأوسط",
-        "excerpt": "خفضت شركة موزايك الأميركية إنتاج الأسمدة بسبب حرب الشرق الأوسط، وسط متابعة السوق لاحتمالات تأثير ذلك في استقرار الإمدادات واتجاه الأسعار.",
-        "body": "خفضت شركة موزايك الأميركية لإنتاج الأسمدة إنتاجها بسبب حرب الشرق الأوسط. وتوضح هذه الخطوة أن الاضطراب الجيوسياسي لا يضغط على أسواق الطاقة والسلع الأولية فحسب، بل يمتد أيضا إلى إنتاج الأسمدة. ولا يورد النص المقدم تفاصيل عن حجم الخفض أو المنتجات المتأثرة أو مدة التنفيذ. وبما أن الأسمدة تعد مدخلا أساسيا في الإنتاج الزراعي، فإن خبر خفض الإنتاج قد يجذب اهتمام المشاركين في السوق الذين يتابعون استقرار الإمدادات واتجاه الأسعار. وسيعتمد الأثر اللاحق على مدة الخفض ومسار الحرب في الشرق الأوسط. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "अमेरिकी उर्वरक कंपनी Mosaic ने मध्य पूर्व युद्ध के असर से उत्पादन घटाया",
-        "excerpt": "अमेरिकी उर्वरक कंपनी Mosaic ने मध्य पूर्व युद्ध के प्रभाव में उर्वरक उत्पादन घटाया, जिससे आपूर्ति स्थिरता और कीमतों पर बाजार की नजर है।",
-        "body": "अमेरिकी उर्वरक कंपनी Mosaic ने मध्य पूर्व युद्ध के कारण उर्वरक उत्पादन घटाया है। यह कदम दिखाता है कि भू-राजनीतिक अस्थिरता केवल ऊर्जा और कमोडिटी बाजारों पर ही नहीं, बल्कि उर्वरक उत्पादन पर भी दबाव डाल रही है। उपलब्ध मूल जानकारी में कटौती का आकार, प्रभावित उत्पादों या लागू अवधि के बारे में विशिष्ट आंकड़े नहीं दिए गए हैं। उर्वरक कृषि उत्पादन से जुड़ा एक अहम इनपुट है, इसलिए उत्पादन में कमी की खबर आपूर्ति स्थिरता और कीमतों की दिशा पर नजर रखने वाले बाजार प्रतिभागियों का ध्यान खींच सकती है। आगे का असर कटौती की अवधि और मध्य पूर्व युद्ध की दिशा पर निर्भर करेगा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Mosaic AS Pangkas Produksi Pupuk karena Dampak Perang Timur Tengah",
-        "excerpt": "Perusahaan pupuk AS Mosaic memangkas produksi pupuk akibat perang Timur Tengah, membuat pasar mencermati dampaknya pada pasokan dan harga.",
-        "body": "Perusahaan pupuk Amerika Serikat, Mosaic, memangkas produksi pupuk karena dampak perang Timur Tengah. Langkah ini menunjukkan bahwa ketidakstabilan geopolitik tidak hanya menekan pasar energi dan komoditas, tetapi juga produksi pupuk. Sumber yang diberikan tidak merinci besaran pemangkasan, produk yang terdampak, atau periode pelaksanaannya. Karena pupuk merupakan input penting bagi produksi pertanian, kabar penurunan produksi dapat menarik perhatian pelaku pasar yang memantau stabilitas pasokan dan arah harga. Dampak berikutnya akan bergantung pada lamanya pemangkasan dan perkembangan perang di Timur Tengah. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "6182271de2e7",
-    "slug": "샤워실-들어간-아들-혼잣말에-소름끼쳤는데89년생-임원의-비밀은-387873",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-12T21:24:03.104Z",
-    "updatedAt": "2026-05-12T21:24:03.104Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12045683",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12045683",
-    "titleFingerprint": "70451d3b56eaa3149d364046446041eac90d9887",
-    "dedupKeys": [
-      "6182271de2e763cbb1ad6da61a996d7916f478df",
-      "70451d3b56eaa3149d364046446041eac90d9887",
-      "28daa0d02d70e17dd4b4125b3d9198235a763d5a"
-    ],
-    "imageUrl": "/images/articles/6182271de2e7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LG엔솔 89년생 임원의 AI 배터리 설계 비밀, 4년 만의 특급승진 배경",
-        "excerpt": "LG에너지솔루션 임준호 제품개발AI팀장은 아침마다 ‘행복하다’는 자기암시를 이어가며 입사 4년 만에 임원급 특급승진을 이뤘고, AI로 배터리 최적 설계를 몇 분 만에 구현했다.",
-        "body": "LG에너지솔루션의 1989년생 임준호 제품개발AI팀장이 입사 4년 만에 임원급으로 특급승진한 배경이 주목받고 있다. 원문에 따르면 임 팀장은 아침마다 ‘행복하다’고 자기암시를 하며 업무에 몰입해 왔다. 그는 수만 가지 데이터를 조합해 배터리 최적 설계도를 그려내는 AI 기반 제품개발 업무를 맡고 있다. 기존에 많은 시간과 검토가 필요했던 배터리 최적 설계를 몇 분 만에 끝낼 수 있도록 한 점이 핵심 성과로 제시됐다. 배터리 산업에서 설계 효율과 개발 속도가 경쟁력으로 떠오르는 가운데, AI 활용 역량과 빠른 승진 사례가 함께 부각됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LG Energy Solution’s 1989-born AI battery executive and the rise behind a rapid promotion",
-        "excerpt": "LG Energy Solution’s Junho Lim, head of the Product Development AI Team, reportedly used daily self-affirmation and earned an executive-level rapid promotion four years after joining, while using AI to complete optimal battery designs in minutes.",
-        "body": "Junho Lim, born in 1989 and head of the Product Development AI Team at LG Energy Solution, is drawing attention after receiving an executive-level rapid promotion just four years after joining the company. According to the source article, Lim has repeated the self-affirmation “I am happy” every morning while focusing on his work. He leads AI-based product development that combines tens of thousands of data points to produce optimal battery design plans. The key achievement cited is reducing battery optimization work, which previously required extensive time and review, to just a few minutes. As design efficiency and development speed become critical in the battery industry, his AI capabilities and fast promotion have come into focus. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LGエナジーソリューション89年生まれAI幹部、4年で特進した背景",
-        "excerpt": "LGエナジーソリューションの製品開発AIチーム長、イム・ジュンホ氏は毎朝「幸せだ」と自己暗示を続け、入社4年で役員級の特進を果たし、AIで電池の最適設計を数分で実現した。",
-        "body": "LGエナジーソリューションの1989年生まれ、イム・ジュンホ製品開発AIチーム長が、入社4年で役員級に特進した背景に関心が集まっている。原文によると、イム氏は毎朝「幸せだ」と自己暗示をかけながら業務に没頭してきた。担当するのは、数万通りのデータを組み合わせて電池の最適設計図を描き出すAIベースの製品開発だ。従来は多くの時間と検討を要した電池の最適設計を、数分で終えられるようにした点が主な成果として示された。電池業界で設計効率と開発速度が競争力となる中、AI活用力と異例の昇進が同時に注目されている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "LG新能源89年生AI高管的电池设计秘诀，入职4年获快速晋升",
-        "excerpt": "LG新能源产品开发AI团队负责人林俊浩每天早晨进行“我很幸福”的自我暗示，入职4年后获得高管级快速晋升，并用AI在数分钟内完成电池最优设计。",
-        "body": "LG新能源1989年出生的产品开发AI团队负责人林俊浩，因入职4年后获得高管级快速晋升而受到关注。原文称，林俊浩每天早晨都会进行“我很幸福”的自我暗示，并投入工作。他负责基于AI的产品开发，通过组合数万种数据绘制电池最优设计图。报道指出，其核心成果是把过去需要大量时间和反复审核的电池最优设计，缩短到几分钟内完成。随着电池行业把设计效率和开发速度视为竞争力，林俊浩的AI应用能力和快速晋升案例一同受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El ejecutivo de IA de baterías de LG Energy Solution nacido en 1989 y su ascenso en 4 años",
-        "excerpt": "Junho Lim, jefe del equipo de IA para desarrollo de productos de LG Energy Solution, repite cada mañana que es feliz, logró un ascenso de nivel ejecutivo cuatro años después de entrar y usa IA para diseñar baterías óptimas en minutos.",
-        "body": "Junho Lim, nacido en 1989 y jefe del equipo de IA para desarrollo de productos de LG Energy Solution, atrae atención por haber logrado un ascenso rápido de nivel ejecutivo solo cuatro años después de incorporarse. Según el texto original, Lim se ha repetido cada mañana la afirmación “soy feliz” mientras se concentraba en su trabajo. Su área combina decenas de miles de datos para crear, mediante IA, diseños óptimos de baterías. El logro central señalado es que un proceso que antes requería mucho tiempo y revisión ahora puede completarse en pocos minutos. En una industria de baterías donde la eficiencia del diseño y la velocidad de desarrollo ganan importancia, destacan tanto su capacidad de uso de IA como su rápido ascenso. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Executivo de IA de baterias da LG Energy Solution nascido em 1989 avançou em 4 anos",
-        "excerpt": "Junho Lim, líder da equipe de IA de desenvolvimento de produtos da LG Energy Solution, repete pela manhã que é feliz, recebeu promoção de nível executivo em quatro anos e usa IA para concluir desenhos ideais de baterias em minutos.",
-        "body": "Junho Lim, nascido em 1989 e líder da equipe de IA de desenvolvimento de produtos da LG Energy Solution, chama atenção após receber uma promoção rápida de nível executivo apenas quatro anos depois de entrar na empresa. Segundo o texto original, Lim repete todas as manhãs a autoafirmação “sou feliz” enquanto se dedica ao trabalho. Ele atua no desenvolvimento de produtos baseado em IA, combinando dezenas de milhares de dados para criar desenhos ideais de baterias. O principal resultado citado é reduzir para poucos minutos uma otimização de baterias que antes exigia muito tempo e revisão. À medida que eficiência de projeto e velocidade de desenvolvimento se tornam competitivas no setor, sua capacidade em IA e sua promoção rápida ganham destaque. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LG Energy Solution: 1989 geborener KI-Batteriemanager und sein Aufstieg in vier Jahren",
-        "excerpt": "Junho Lim, Leiter des Product Development AI Teams bei LG Energy Solution, nutzt täglich die Selbstaffirmation „Ich bin glücklich“, wurde nach vier Jahren auf Executive-Niveau befördert und erstellt mit KI optimale Batteriedesigns in Minuten.",
-        "body": "Junho Lim, 1989 geboren und Leiter des Product Development AI Teams bei LG Energy Solution, steht im Fokus, weil er nur vier Jahre nach seinem Eintritt eine schnelle Beförderung auf Executive-Niveau erreichte. Dem Ausgangsbericht zufolge wiederholt Lim jeden Morgen die Selbstaffirmation „Ich bin glücklich“ und konzentriert sich auf seine Arbeit. Er verantwortet KI-basierte Produktentwicklung, bei der Zehntausende Daten kombiniert werden, um optimale Batteriedesigns zu erstellen. Als zentrale Leistung wird genannt, dass eine Batterieoptimierung, die früher viel Zeit und Prüfung erforderte, nun in wenigen Minuten abgeschlossen werden kann. Da Designeffizienz und Entwicklungstempo in der Batteriebranche an Bedeutung gewinnen, rücken seine KI-Kompetenz und sein schneller Aufstieg gemeinsam in den Blick. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Chez LG Energy Solution, le cadre IA né en 1989 qui a accéléré la conception des batteries",
-        "excerpt": "Junho Lim, responsable de l’équipe IA de développement produit chez LG Energy Solution, répète chaque matin qu’il est heureux, a obtenu une promotion de niveau dirigeant en quatre ans et utilise l’IA pour optimiser les batteries en minutes.",
-        "body": "Junho Lim, né en 1989 et responsable de l’équipe IA de développement produit chez LG Energy Solution, attire l’attention après une promotion rapide à un niveau dirigeant seulement quatre ans après son arrivée. Selon l’article d’origine, Lim répète chaque matin l’auto-suggestion « je suis heureux » tout en se concentrant sur son travail. Il dirige un développement produit fondé sur l’IA, combinant des dizaines de milliers de données pour produire des plans de conception optimale de batteries. Le résultat central cité est la capacité à terminer en quelques minutes une optimisation de batteries qui demandait auparavant beaucoup de temps et de vérifications. Alors que l’efficacité de conception et la vitesse de développement deviennent cruciales dans l’industrie des batteries, ses compétences en IA et sa promotion rapide ressortent. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تنفيذي الذكاء الاصطناعي في بطاريات LG Energy Solution المولود عام 1989 وسر ترقيته السريعة",
-        "excerpt": "جونهو ليم، رئيس فريق الذكاء الاصطناعي لتطوير المنتجات في LG Energy Solution، يكرر صباحا أنه سعيد، ونال ترقية بمستوى تنفيذي بعد 4 سنوات من انضمامه، ويستخدم الذكاء الاصطناعي لإنجاز التصميم الأمثل للبطاريات خلال دقائق.",
-        "body": "يحظى جونهو ليم، المولود عام 1989 ورئيس فريق الذكاء الاصطناعي لتطوير المنتجات في LG Energy Solution، باهتمام بعد حصوله على ترقية سريعة بمستوى تنفيذي بعد أربع سنوات فقط من انضمامه إلى الشركة. وبحسب النص الأصلي، كان ليم يكرر كل صباح عبارة توكيد ذاتي مفادها «أنا سعيد» مع التركيز على عمله. ويتولى تطوير منتجات قائم على الذكاء الاصطناعي يجمع عشرات الآلاف من البيانات لرسم تصميمات مثلى للبطاريات. والإنجاز الأساسي المذكور هو تقليص عملية التصميم الأمثل للبطارية، التي كانت تتطلب وقتا ومراجعات كثيرة، إلى بضع دقائق. ومع تزايد أهمية كفاءة التصميم وسرعة التطوير في صناعة البطاريات، برزت قدرته على استخدام الذكاء الاصطناعي وترقيته السريعة معا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "LG Energy Solution के 1989 में जन्मे AI बैटरी अधिकारी की तेज पदोन्नति का रहस्य",
-        "excerpt": "LG Energy Solution में उत्पाद विकास AI टीम के प्रमुख जूनहो लिम हर सुबह ‘मैं खुश हूं’ का आत्म-संकेत दोहराते रहे, नौकरी में आने के 4 साल बाद कार्यकारी स्तर की तेज पदोन्नति पाई और AI से बैटरी का इष्टतम डिजाइन मिनटों में पूरा किया।",
-        "body": "LG Energy Solution के 1989 में जन्मे उत्पाद विकास AI टीम प्रमुख जूनहो लिम, कंपनी में शामिल होने के सिर्फ चार साल बाद कार्यकारी स्तर की तेज पदोन्नति पाने के कारण चर्चा में हैं। मूल लेख के अनुसार, लिम हर सुबह ‘मैं खुश हूं’ का आत्म-संकेत दोहराते हुए काम पर ध्यान केंद्रित करते रहे। वह AI आधारित उत्पाद विकास का नेतृत्व करते हैं, जिसमें हजारों तरह के डेटा को जोड़कर बैटरी का इष्टतम डिजाइन तैयार किया जाता है। मुख्य उपलब्धि यह बताई गई कि जिस बैटरी अनुकूलन में पहले काफी समय और समीक्षा लगती थी, उसे अब कुछ ही मिनटों में पूरा किया जा सकता है। बैटरी उद्योग में डिजाइन दक्षता और विकास गति के प्रतिस्पर्धी महत्व के बीच, उनकी AI क्षमता और तेज पदोन्नति साथ-साथ उभरी हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Eksekutif AI baterai LG Energy Solution kelahiran 1989 dan alasan promosi cepat 4 tahun",
-        "excerpt": "Junho Lim, kepala Tim AI Pengembangan Produk LG Energy Solution, setiap pagi melakukan sugesti diri bahwa ia bahagia, meraih promosi setingkat eksekutif dalam 4 tahun, dan memakai AI untuk menyelesaikan desain baterai optimal dalam menit.",
-        "body": "Junho Lim, kelahiran 1989 dan kepala Tim AI Pengembangan Produk LG Energy Solution, menjadi sorotan setelah meraih promosi cepat setingkat eksekutif hanya empat tahun setelah bergabung. Menurut artikel asli, Lim setiap pagi mengulang sugesti diri “saya bahagia” sambil fokus pada pekerjaannya. Ia menangani pengembangan produk berbasis AI yang menggabungkan puluhan ribu data untuk membuat rancangan desain baterai optimal. Capaian utama yang disebut adalah mengubah proses desain optimal baterai, yang sebelumnya membutuhkan banyak waktu dan peninjauan, menjadi pekerjaan yang selesai dalam beberapa menit. Saat efisiensi desain dan kecepatan pengembangan makin penting di industri baterai, kemampuan AI dan promosi cepatnya ikut disorot. Sumber: mk.co.kr"
       }
     }
   }
