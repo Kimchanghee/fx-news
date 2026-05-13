@@ -1,5 +1,230 @@
 [
   {
+    "id": "2ddb0b545650",
+    "slug": "해외-투자-줄여라-금감원-개입에-증권사-한숨-516048",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T19:02:35.100Z",
+    "updatedAt": "2026-05-13T19:02:35.100Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051344981",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051344981",
+    "titleFingerprint": "d4c23893dd01882df79dbdcf40eb3e1aa72b7663",
+    "dedupKeys": [
+      "2ddb0b545650972786bc3a47c4adc54ba585cae9",
+      "d4c23893dd01882df79dbdcf40eb3e1aa72b7663",
+      "2e981192f432e89f936311ce7b2cf46e475ee684"
+    ],
+    "imageUrl": "/images/articles/2ddb0b545650.png",
+    "i18n": {
+      "ko": {
+        "title": "금감원 IMA 해외투자 축소 권고에 증권사 수익률 관리 부담 커졌다, 원금보장 상품 운용 난항",
+        "excerpt": "금융감독원이 13일 한국투자증권 등 IMA 인가 증권사에 해외 상품 투자 비중 축소와 국내 자산 확대를 권고하면서 증권업계의 수익률 관리 부담이 커졌다.",
+        "body": "13일 투자은행(IB)업계에 따르면 금융감독원은 최근 한국투자증권 등 종합투자계좌(IMA) 인가 증권사에 해외 상품 투자 비중을 줄이고 국내 자산 편입을 확대하라고 권고했다. 금감원은 한국투자·NH투자·미래에셋증권 등에 리스크 관리 강화를 주문하는 과정에서 이 같은 내용을 전달했다. 한국투자증권 IMA 1호는 운용 규모의 15.57%인 1755억원을 해외 사모대출에 투자했고, 아레스 유럽 스트레티지 인컴펀드에도 516억원을 넣어 리스크를 분산했다. 업계는 IMA가 4% 목표 수익률과 원금 보장을 제시하는 상품인 만큼 고수익 자산 편입이 불가피하다고 설명한다. 국내 투자 상품이 충분하지 않은 상황에서 규제가 강화되면 수익률 확보와 투자자 유치가 동시에 어려워질 수 있다는 우려가 나온다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "FSS Urges IMA Overseas Investment Cuts, Raising Brokerage Yield Pressure",
+        "excerpt": "South Korea’s Financial Supervisory Service told IMA-licensed brokerages such as Korea Investment & Securities to reduce overseas product exposure and add domestic assets, increasing pressure on yield management.",
+        "body": "According to investment banking industry sources on May 13, the Financial Supervisory Service recently advised brokerages licensed for investment management accounts, including Korea Investment & Securities, to reduce overseas product investments and increase domestic asset allocations. The message was delivered as the regulator asked Korea Investment, NH Investment & Securities and Mirae Asset Securities to strengthen risk management. Korea Investment’s first IMA invested 175.5 billion won, or 15.57% of assets under management, in overseas private debt and 51.6 billion won in the Ares European Strategic Income Fund to diversify risk. Brokerages say IMA products target a 4% return and guarantee principal, making higher-yield assets necessary. With limited domestic products available, tighter rules could make both returns and investor acquisition harder. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "金融監督院のIMA海外投資縮小要請で証券会社の利回り管理負担が拡大",
+        "excerpt": "韓国金融監督院が13日、韓国投資証券などIMA認可証券会社に海外商品の投資比率縮小と国内資産拡大を勧告し、業界の利回り管理負担が増している。",
+        "body": "13日の投資銀行業界によると、韓国金融監督院は最近、韓国投資証券など総合投資口座（IMA）認可証券会社に対し、海外商品の投資比率を下げ、国内資産の組み入れを増やすよう勧告した。金融監督院は韓国投資、NH投資、未来アセット証券などにリスク管理強化を求める過程でこの内容を伝えた。韓国投資証券のIMA第1号は運用規模の15.57%に当たる1755億ウォンを海外プライベートデットに投資し、アレス・欧州ストラテジック・インカム・ファンドにも516億ウォンを投じてリスクを分散した。業界は、IMAが4%の目標利回りと元本保証を掲げる商品であるため、高利回り資産の組み入れは避けにくいと説明している。国内投資商品が十分でない中、規制が強まれば利回り確保と投資家誘致が同時に難しくなるとの懸念が出ている。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "韩国金融监督院建议IMA削减海外投资，券商收益率管理压力上升",
+        "excerpt": "韩国金融监督院13日建议韩国投资证券等获批IMA的券商降低海外商品投资比重、扩大国内资产配置，使券商业收益率管理负担加重。",
+        "body": "据投资银行业界5月13日消息，韩国金融监督院近日建议韩国投资证券等综合投资账户（IMA）获批券商减少海外商品投资比重，并扩大国内资产纳入。该要求是在金融监督院要求韩国投资、NH投资、未来资产证券等加强风险管理的过程中提出的。韩国投资证券IMA 1号将运用规模的15.57%、即1755亿韩元投资于海外私人贷款，并向Ares欧洲策略收益基金投入516亿韩元，以分散风险。券商业界表示，IMA是提出4%目标收益率并保障本金的产品，因此纳入一定高收益资产不可避免。在国内可投产品不足的情况下，若相关监管继续加强，收益率 확보和吸引投资者可能同时变得更困难。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El FSS pide reducir inversión exterior en IMA y eleva la presión sobre corredoras",
+        "excerpt": "El 13 de mayo, el Servicio de Supervisión Financiera de Corea recomendó a corredoras con licencia IMA, como Korea Investment & Securities, reducir inversiones extranjeras y ampliar activos locales.",
+        "body": "Según fuentes del sector de banca de inversión el 13 de mayo, el Servicio de Supervisión Financiera de Corea recomendó recientemente a las corredoras autorizadas para cuentas integrales de inversión (IMA), incluida Korea Investment & Securities, reducir la proporción de inversión en productos extranjeros y aumentar la incorporación de activos nacionales. La indicación se transmitió mientras el regulador pedía a Korea Investment, NH Investment & Securities y Mirae Asset Securities reforzar la gestión de riesgos. El primer IMA de Korea Investment invirtió 175.500 millones de wones, el 15,57% de sus activos gestionados, en deuda privada extranjera, y 51.600 millones de wones en el Ares European Strategic Income Fund para diversificar riesgos. Las corredoras señalan que el IMA ofrece una rentabilidad objetivo del 4% y garantía de principal, por lo que necesita activos de mayor rendimiento. Con pocos productos locales adecuados, una regulación más estricta podría dificultar tanto la rentabilidad como la captación de inversores. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "FSS recomenda cortar investimento externo em IMA e aumenta pressão sobre corretoras",
+        "excerpt": "Em 13 de maio, o Serviço de Supervisão Financeira da Coreia orientou corretoras licenciadas para IMA, como a Korea Investment & Securities, a reduzir produtos externos e ampliar ativos domésticos.",
+        "body": "Segundo fontes do setor de banco de investimento em 13 de maio, o Serviço de Supervisão Financeira da Coreia recomendou recentemente a corretoras autorizadas a operar contas integradas de investimento (IMA), incluindo a Korea Investment & Securities, reduzir a fatia aplicada em produtos estrangeiros e ampliar a alocação em ativos domésticos. A orientação foi passada enquanto o regulador cobrava de Korea Investment, NH Investment & Securities e Mirae Asset Securities um reforço na gestão de riscos. O primeiro IMA da Korea Investment aplicou 175,5 bilhões de wons, ou 15,57% do volume sob gestão, em crédito privado no exterior, além de 51,6 bilhões de wons no Ares European Strategic Income Fund para diversificar riscos. As corretoras afirmam que o IMA oferece meta de retorno de 4% e garantia do principal, o que torna necessários ativos de maior rendimento. Com poucos produtos locais adequados, regras mais rígidas podem dificultar tanto o retorno quanto a atração de investidores. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "FSS drängt IMA-Anbieter zu weniger Auslandsanlagen, Broker unter Renditedruck",
+        "excerpt": "Die südkoreanische Finanzaufsicht empfahl am 13. Mai IMA-lizenzierten Wertpapierhäusern wie Korea Investment & Securities, Auslandsprodukte zu reduzieren und mehr inländische Anlagen aufzunehmen.",
+        "body": "Nach Angaben aus der Investmentbanking-Branche vom 13. Mai hat die südkoreanische Finanzaufsicht FSS Wertpapierhäusern mit Genehmigung für integrierte Anlagekonten (IMA), darunter Korea Investment & Securities, jüngst empfohlen, den Anteil ausländischer Produkte zu senken und mehr inländische Vermögenswerte aufzunehmen. Die Mitteilung erfolgte im Zuge der Aufforderung an Korea Investment, NH Investment & Securities und Mirae Asset Securities, ihr Risikomanagement zu stärken. Das erste IMA von Korea Investment investierte 175,5 Milliarden Won, 15,57% des verwalteten Volumens, in ausländische private Kredite sowie 51,6 Milliarden Won in den Ares European Strategic Income Fund zur Risikostreuung. Die Branche verweist darauf, dass IMA-Produkte eine Zielrendite von 4% und Kapitalgarantie bieten, weshalb höher rentierliche Anlagen nötig seien. Bei begrenzten heimischen Anlageprodukten könnten strengere Regeln Renditesicherung und Kundengewinnung zugleich erschweren. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le FSS veut moins d’investissements étrangers dans les IMA, pression accrue sur les courtiers",
+        "excerpt": "Le 13 mai, le Service coréen de supervision financière a recommandé aux courtiers agréés IMA, dont Korea Investment & Securities, de réduire les produits étrangers et d’accroître les actifs locaux.",
+        "body": "Selon des sources du secteur de la banque d’investissement le 13 mai, le Service coréen de supervision financière a récemment recommandé aux sociétés de courtage agréées pour les comptes d’investissement intégrés (IMA), dont Korea Investment & Securities, de réduire la part des produits étrangers et d’augmenter l’intégration d’actifs domestiques. Cette consigne a été transmise alors que le régulateur demandait à Korea Investment, NH Investment & Securities et Mirae Asset Securities de renforcer leur gestion des risques. Le premier IMA de Korea Investment a investi 175,5 milliards de wons, soit 15,57% des actifs gérés, dans de la dette privée étrangère, ainsi que 51,6 milliards de wons dans l’Ares European Strategic Income Fund afin de diversifier les risques. Les courtiers expliquent que l’IMA vise un rendement de 4% et garantit le principal, ce qui rend nécessaires des actifs à rendement plus élevé. Faute de produits locaux suffisants, un durcissement des règles pourrait compliquer à la fois la performance et l’attraction des investisseurs. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "الرقابة المالية الكورية تطلب خفض استثمارات IMA الخارجية وتزيد ضغط العائد على شركات الوساطة",
+        "excerpt": "في 13 مايو أوصت هيئة الرقابة المالية الكورية شركات الوساطة المرخصة لحسابات IMA، مثل كوريا إنفستمنت، بخفض الاستثمار في المنتجات الخارجية وزيادة الأصول المحلية.",
+        "body": "بحسب مصادر في قطاع بنوك الاستثمار في 13 مايو، أوصت هيئة الرقابة المالية الكورية مؤخرا شركات الوساطة المرخصة لتشغيل حسابات الاستثمار الشاملة IMA، ومن بينها كوريا إنفستمنت للأوراق المالية، بخفض نسبة الاستثمار في المنتجات الخارجية وزيادة إدراج الأصول المحلية. وجاءت الرسالة أثناء طلب الهيئة من كوريا إنفستمنت وNH إنفستمنت وميرا أست للأوراق المالية تعزيز إدارة المخاطر. واستثمر أول حساب IMA لدى كوريا إنفستمنت 175.5 مليار وون، أي 15.57% من حجم الإدارة، في قروض خاصة خارجية، كما وضع 51.6 مليار وون في صندوق Ares European Strategic Income Fund لتنويع المخاطر. وتقول شركات الوساطة إن المنتج يستهدف عائدا قدره 4% ويضمن أصل المال، ما يجعل إدراج أصول أعلى عائدا أمرا صعب التجنب. ومع نقص المنتجات المحلية المناسبة، قد تجعل القيود الأشد تحقيق العائد وجذب المستثمرين أكثر صعوبة في الوقت نفسه. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "IMA में विदेशी निवेश घटाने की FSS सलाह से ब्रोकरेज पर रिटर्न प्रबंधन दबाव बढ़ा",
+        "excerpt": "13 मई को दक्षिण कोरिया के वित्तीय पर्यवेक्षण सेवा ने Korea Investment & Securities जैसी IMA-लाइसेंस प्राप्त ब्रोकरेज कंपनियों को विदेशी उत्पाद निवेश घटाने और घरेलू परिसंपत्तियां बढ़ाने की सलाह दी।",
+        "body": "13 मई को निवेश बैंकिंग उद्योग के सूत्रों के अनुसार, दक्षिण कोरिया की वित्तीय पर्यवेक्षण सेवा ने हाल में Korea Investment & Securities सहित समेकित निवेश खाते यानी IMA की मंजूरी पाने वाली ब्रोकरेज कंपनियों से विदेशी उत्पादों में निवेश अनुपात घटाने और घरेलू परिसंपत्तियों का समावेश बढ़ाने की सिफारिश की। यह संदेश Korea Investment, NH Investment & Securities और Mirae Asset Securities को जोखिम प्रबंधन मजबूत करने के निर्देश के दौरान दिया गया। Korea Investment के पहले IMA ने प्रबंधन आकार का 15.57%, यानी 175.5 अरब वॉन, विदेशी निजी ऋण में लगाया और जोखिम बांटने के लिए Ares European Strategic Income Fund में 51.6 अरब वॉन निवेश किया। उद्योग का कहना है कि IMA 4% लक्ष्य रिटर्न और मूलधन गारंटी देता है, इसलिए अधिक रिटर्न वाली परिसंपत्तियां जरूरी हो जाती हैं। घरेलू निवेश उत्पाद पर्याप्त न होने पर नियम सख्त होने से रिटर्न पाना और निवेशक जुटाना दोनों कठिन हो सकते हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "FSS Minta Investasi Luar Negeri IMA Dikurangi, Tekanan Imbal Hasil Sekuritas Naik",
+        "excerpt": "Pada 13 Mei, Otoritas Pengawas Keuangan Korea meminta perusahaan sekuritas berizin IMA seperti Korea Investment & Securities mengurangi produk luar negeri dan menambah aset domestik.",
+        "body": "Menurut sumber industri perbankan investasi pada 13 Mei, Otoritas Pengawas Keuangan Korea baru-baru ini merekomendasikan perusahaan sekuritas berizin rekening investasi terpadu (IMA), termasuk Korea Investment & Securities, untuk mengurangi porsi investasi produk luar negeri dan memperbesar aset domestik. Pesan itu disampaikan saat regulator meminta Korea Investment, NH Investment & Securities, dan Mirae Asset Securities memperkuat manajemen risiko. IMA pertama Korea Investment menanamkan 175,5 miliar won, atau 15,57% dari dana kelolaan, pada pinjaman swasta luar negeri, serta 51,6 miliar won pada Ares European Strategic Income Fund untuk menyebar risiko. Industri sekuritas menjelaskan bahwa IMA menawarkan target imbal hasil 4% dan jaminan pokok, sehingga aset berimbal hasil lebih tinggi sulit dihindari. Dengan produk investasi domestik yang terbatas, aturan lebih ketat dapat menyulitkan pencapaian imbal hasil sekaligus akuisisi investor. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "e59c9f9b0698",
+    "slug": "천연기념물-진돗개-혈통-블록체인으로-관리한다-656713",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T19:01:09.898Z",
+    "updatedAt": "2026-05-13T19:01:09.898Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051342986",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051342986",
+    "titleFingerprint": "38e42891e986dd672f4d64340f18d80e2ea938c3",
+    "dedupKeys": [
+      "e59c9f9b06987104044e7d0caf6f393689e2d6bf",
+      "38e42891e986dd672f4d64340f18d80e2ea938c3",
+      "0a5433e8ee68800cfb4399e8fe14862bd078077b"
+    ],
+    "imageUrl": "/images/articles/e59c9f9b0698.jpg",
+    "i18n": {
+      "ko": {
+        "title": "진돗개 혈통 블록체인 관리 본격화, 천연기념물 보존 체계 디지털 전환",
+        "excerpt": "전남 진도군은 이달 중 블록체인 기반 진돗개 혈통인증관리 시스템 개발에 착수해 10월까지 마무리하고 연내 가동할 방침이다.",
+        "body": "전남 진도군이 국가 천연기념물인 진돗개 혈통 관리에 블록체인 기술을 도입한다. 12일 업계에 따르면 진도군은 이달 중 블록체인 기반 진돗개 혈통인증관리 시스템 개발 사업에 착수하고, 오는 10월까지 개발을 마친 뒤 연내 가동할 계획이다. 핵심은 혈통을 관리·추적하는 분산신원인증(DID) 시스템 구축이다. DID는 신원 정보를 단일 중앙서버가 아닌 여러 장부에 분산 저장해 인증 효율성을 높이고 위·변조를 막는 기술이다. 진도군은 DID를 활용한 모바일 진돗개 혈통 증명서 발급을 추진하며, 혈통 심사를 거쳐 천연기념물로 지정된 약 1100마리가 대상이다. 체내 RFID를 활용한 인증 서비스도 디지털화한다. 진도군은 투명성과 정확성 제고를 기대하며, 운영 추이에 따라 NFT 발급 등 확장 방안도 검토한다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Jindo Dog Pedigrees Move to Blockchain as Natural Monument Registry Goes Digital",
+        "excerpt": "Jindo County in South Jeolla will begin developing a blockchain-based pedigree certification system this month, aiming to finish it by October and launch it within the year.",
+        "body": "Jindo County in South Jeolla Province will introduce blockchain technology to manage the pedigrees of Jindo dogs, a national natural monument. According to industry sources on May 12, the county will begin developing a blockchain-based Jindo dog pedigree certification management system this month, complete development by October, and put it into operation within the year. The core of the project is a decentralized identity, or DID, system to manage and track pedigrees. DID stores identity information across distributed ledgers rather than a single central server, improving authentication efficiency and helping prevent forgery or tampering. Jindo County plans to issue mobile Jindo dog pedigree certificates using DID for about 1,100 dogs designated as natural monuments after pedigree screening. Authentication services using RFID devices implanted in the dogs will also be digitized. The county expects greater transparency and accuracy and will consider expansions such as NFT issuance depending on system operations. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "珍島犬の血統管理にブロックチェーン、天然記念物保存体制をデジタル化",
+        "excerpt": "韓国・全羅南道珍島郡は今月、ブロックチェーン基盤の珍島犬血統認証管理システム開発に着手し、10月完了、年内稼働を目指す。",
+        "body": "韓国・全羅南道珍島郡は、国の天然記念物である珍島犬の血統管理にブロックチェーン技術を導入する。業界によると、珍島郡は5月中にブロックチェーン基盤の珍島犬血統認証管理システム開発事業に着手し、10月までに開発を終え、年内に稼働させる方針だ。事業の中心は、血統を管理・追跡する分散型ID（DID）システムの構築である。DIDは身元情報を単一の中央サーバーではなく複数の台帳に分散保存し、認証効率を高め、改ざんを防ぐ技術だ。珍島郡はDIDを活用したモバイル珍島犬血統証明書の発行を進める。対象は血統審査を経て天然記念物に指定された約1100頭で、体内に埋め込まれたRFIDを使う認証サービスもデジタル化する。透明性と正確性の向上を見込み、運用状況に応じてNFT発行などの拡張も検討する。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "珍岛犬血统将用区块链管理，天然纪念物保护体系加速数字化",
+        "excerpt": "韩国全南珍岛郡本月将启动基于区块链的珍岛犬血统认证管理系统开发，计划10月前完成并在年内投入运行。",
+        "body": "韩国全罗南道珍岛郡将把区块链技术引入国家天然纪念物珍岛犬的血统管理。业内消息称，珍岛郡将于本月启动“基于区块链的珍岛犬血统认证管理系统”开发项目，计划在10月前完成开发，并于年内运行。该项目核心是建设用于管理和追踪血统的去中心化身份认证（DID）系统。DID将身份信息分散存储在多个账本中，而非单一中央服务器，以提高认证效率并防止伪造和篡改。珍岛郡计划利用DID发行移动版珍岛犬血统证明，约1100只经血统审查后被指定为天然纪念物的珍岛犬将成为对象。借助犬只体内植入的RFID进行的认证服务也将数字化。珍岛郡期待提高血统管理的透明度和准确性，并将根据系统运行情况研究发行NFT等扩展方案。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Pedigrí del perro Jindo pasará a blockchain para digitalizar su protección oficial",
+        "excerpt": "El condado surcoreano de Jindo iniciará este mes un sistema blockchain de certificación de pedigrí, con desarrollo previsto hasta octubre y operación antes de fin de año.",
+        "body": "El condado de Jindo, en la provincia surcoreana de Jeolla del Sur, incorporará tecnología blockchain a la gestión del pedigrí del perro Jindo, reconocido como monumento natural nacional. Según fuentes del sector citadas el 12 de mayo, el condado comenzará este mes el desarrollo de un sistema de gestión de certificación de pedigrí basado en blockchain, con el objetivo de completarlo en octubre y ponerlo en marcha dentro del año. El núcleo del proyecto es un sistema de identidad descentralizada, o DID, para gestionar y rastrear los linajes. DID almacena la información de identidad en varios registros distribuidos en lugar de un único servidor central, lo que mejora la eficiencia de la autenticación y ayuda a evitar falsificaciones o alteraciones. Jindo planea emitir certificados móviles de pedigrí para unos 1.100 perros designados como monumento natural tras revisión genealógica. También se digitalizará la autenticación mediante RFID implantado en los animales. El condado espera mayor transparencia y precisión, y estudiará opciones como NFT según la operación del sistema. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Linhagem do cão Jindo será gerida em blockchain em avanço digital de patrimônio natural",
+        "excerpt": "O condado sul-coreano de Jindo iniciará neste mês um sistema blockchain para certificar linhagens, com conclusão prevista até outubro e operação ainda este ano.",
+        "body": "O condado de Jindo, na província sul-coreana de Jeolla do Sul, adotará tecnologia blockchain para gerir a linhagem dos cães Jindo, reconhecidos como monumento natural nacional. Segundo fontes do setor em 12 de maio, o condado começará neste mês o desenvolvimento de um sistema de gestão de certificação de linhagem baseado em blockchain, com conclusão prevista até outubro e operação ainda neste ano. O foco do projeto é criar um sistema de identidade descentralizada, ou DID, para gerir e rastrear pedigrees. A DID armazena informações de identidade em vários registros distribuídos, e não em um único servidor central, elevando a eficiência da autenticação e ajudando a impedir falsificação ou adulteração. Jindo planeja emitir certificados móveis de linhagem para cerca de 1.100 cães designados como monumentos naturais após avaliação de pedigree. A autenticação por RFID implantado nos animais também será digitalizada. O condado espera mais transparência e precisão e avaliará expansões como NFTs conforme a operação do sistema. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Jindo-Hund-Stammbäume kommen auf die Blockchain, Naturdenkmal-Schutz wird digital",
+        "excerpt": "Der südkoreanische Kreis Jindo startet diesen Monat ein blockchainbasiertes System zur Stammbaumzertifizierung, das bis Oktober fertig sein und noch 2026 laufen soll.",
+        "body": "Der Kreis Jindo in der südkoreanischen Provinz Süd-Jeolla führt Blockchain-Technologie für die Verwaltung der Stammbäume von Jindo-Hunden ein, die als nationales Naturdenkmal gelten. Branchenangaben vom 12. Mai zufolge beginnt Jindo noch in diesem Monat mit der Entwicklung eines blockchainbasierten Systems zur Zertifizierung und Verwaltung der Jindo-Hund-Stammbäume. Die Entwicklung soll bis Oktober abgeschlossen sein, der Betrieb noch innerhalb des Jahres starten. Kern des Projekts ist ein System für dezentrale Identität, kurz DID, zur Verwaltung und Nachverfolgung der Abstammung. DID speichert Identitätsdaten nicht auf einem einzelnen Zentralserver, sondern verteilt auf mehrere Register, wodurch die Authentifizierung effizienter und Fälschung oder Manipulation erschwert werden. Jindo plant mobile Stammbaumzertifikate für rund 1.100 Hunde, die nach Prüfung als Naturdenkmal ausgewiesen wurden. Auch die Authentifizierung über implantierte RFID-Chips wird digitalisiert. Der Kreis erwartet mehr Transparenz und Genauigkeit und prüft je nach Systembetrieb Erweiterungen wie NFT-Ausgaben. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les pedigrees du chien Jindo passent à la blockchain pour numériser leur conservation",
+        "excerpt": "Le comté sud-coréen de Jindo lancera ce mois-ci un système blockchain de certification des pedigrees, avec une finalisation prévue en octobre et une mise en service cette année.",
+        "body": "Le comté de Jindo, dans la province sud-coréenne du Jeolla du Sud, va introduire la blockchain dans la gestion des pedigrees du chien Jindo, classé monument naturel national. Selon des sources du secteur le 12 mai, le comté lancera ce mois-ci le développement d’un système de gestion de certification des pedigrees fondé sur la blockchain, avec une finalisation prévue d’ici octobre et une mise en service avant la fin de l’année. Le cœur du projet est un système d’identité décentralisée, ou DID, destiné à gérer et suivre les lignées. La DID stocke les informations d’identité dans plusieurs registres distribués plutôt que sur un serveur central unique, ce qui améliore l’efficacité de l’authentification et aide à prévenir la falsification ou l’altération. Jindo prévoit d’émettre des certificats mobiles de pedigree pour environ 1.100 chiens désignés monuments naturels après examen de leur lignée. L’authentification via RFID implantée dans les animaux sera aussi numérisée. Le comté attend plus de transparence et de précision, et étudiera des extensions comme les NFT selon le fonctionnement du système. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "إدارة أنساب كلاب جيندو بالبلوكتشين مع رقمنة حماية النصب الطبيعي الكوري",
+        "excerpt": "تبدأ مقاطعة جيندو الكورية هذا الشهر تطوير نظام قائم على البلوكتشين لتوثيق أنساب كلاب جيندو، على أن يكتمل في أكتوبر ويعمل قبل نهاية العام.",
+        "body": "تعتزم مقاطعة جيندو في إقليم جولا الجنوبي بكوريا الجنوبية إدخال تقنية البلوكتشين في إدارة أنساب كلاب جيندو المصنفة كنصب طبيعي وطني. ووفق مصادر في القطاع في 12 مايو، ستبدأ المقاطعة هذا الشهر تطوير نظام لإدارة توثيق أنساب كلاب جيندو قائم على البلوكتشين، مع خطة لإنهاء التطوير بحلول أكتوبر وتشغيله قبل نهاية العام. يقوم المشروع على بناء نظام هوية لامركزية، أو DID، لإدارة الأنساب وتتبعها. وتخزن هذه التقنية معلومات الهوية في سجلات موزعة متعددة بدلا من خادم مركزي واحد، ما يرفع كفاءة التحقق ويساعد على منع التزوير أو التلاعب. وتخطط جيندو لإصدار شهادات نسب متنقلة باستخدام DID لنحو 1100 كلب جيندو صُنفت كنصب طبيعي بعد فحص النسب. كما ستتم رقمنة خدمة التحقق عبر شرائح RFID المزروعة في أجسام الكلاب. وتتوقع المقاطعة زيادة الشفافية والدقة، وستدرس توسيعات مثل إصدار NFT حسب سير تشغيل النظام. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "जिंदो कुत्तों की वंशावली अब ब्लॉकचेन पर, प्राकृतिक धरोहर संरक्षण होगा डिजिटल",
+        "excerpt": "दक्षिण कोरिया का जिंदो काउंटी इस महीने ब्लॉकचेन आधारित वंशावली प्रमाणन प्रणाली का विकास शुरू करेगा, जिसे अक्टूबर तक पूरा कर इसी वर्ष चालू करने की योजना है।",
+        "body": "दक्षिण कोरिया के दक्षिण जिओला प्रांत का जिंदो काउंटी राष्ट्रीय प्राकृतिक स्मारक माने जाने वाले जिंदो कुत्तों की वंशावली प्रबंधन में ब्लॉकचेन तकनीक अपनाएगा। 12 मई को उद्योग सूत्रों के अनुसार, काउंटी इस महीने ब्लॉकचेन आधारित जिंदो कुत्ता वंशावली प्रमाणन प्रबंधन प्रणाली का विकास शुरू करेगा, इसे अक्टूबर तक पूरा करेगा और वर्ष के भीतर चालू करेगा। परियोजना का मुख्य भाग वंशावली को प्रबंधित और ट्रैक करने के लिए विकेंद्रीकृत पहचान, यानी DID, प्रणाली बनाना है। DID पहचान जानकारी को एक केंद्रीय सर्वर के बजाय कई वितरित खातों में संग्रहीत करता है, जिससे प्रमाणीकरण दक्षता बढ़ती है और जालसाजी या छेड़छाड़ रोकने में मदद मिलती है। जिंदो काउंटी DID के जरिए मोबाइल जिंदो कुत्ता वंशावली प्रमाणपत्र जारी करने की योजना बना रहा है। वंशावली जांच के बाद प्राकृतिक स्मारक नामित करीब 1,100 कुत्ते इसके दायरे में होंगे। शरीर में लगे RFID के जरिए प्रमाणीकरण सेवा भी डिजिटल होगी। काउंटी पारदर्शिता और सटीकता बढ़ने की उम्मीद करता है और संचालन के आधार पर NFT जारी करने जैसे विस्तार विकल्पों पर भी विचार करेगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Silsilah Anjing Jindo Masuk Blockchain, Pelestarian Monumen Alam Makin Digital",
+        "excerpt": "Kabupaten Jindo di Korea Selatan akan mulai mengembangkan sistem sertifikasi silsilah berbasis blockchain bulan ini, ditargetkan selesai Oktober dan beroperasi tahun ini.",
+        "body": "Kabupaten Jindo di Provinsi Jeolla Selatan, Korea Selatan, akan menerapkan teknologi blockchain untuk mengelola silsilah anjing Jindo, yang berstatus monumen alam nasional. Menurut sumber industri pada 12 Mei, Jindo akan memulai pengembangan sistem manajemen sertifikasi silsilah anjing Jindo berbasis blockchain bulan ini, menyelesaikannya hingga Oktober, lalu mengoperasikannya sebelum akhir tahun. Inti proyek ini adalah membangun sistem identitas terdesentralisasi, atau DID, untuk mengelola dan melacak silsilah. DID menyimpan informasi identitas di beberapa buku besar terdistribusi, bukan pada satu server pusat, sehingga meningkatkan efisiensi autentikasi dan membantu mencegah pemalsuan atau perubahan data. Jindo berencana menerbitkan sertifikat silsilah anjing Jindo versi seluler menggunakan DID bagi sekitar 1.100 anjing yang ditetapkan sebagai monumen alam setelah pemeriksaan silsilah. Layanan autentikasi memakai RFID yang tertanam di tubuh anjing juga akan didigitalisasi. Kabupaten ini mengharapkan transparansi dan akurasi lebih tinggi, serta akan mempertimbangkan perluasan seperti penerbitan NFT sesuai perkembangan operasi sistem. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "697b59056eba",
+    "slug": "하루-만에-되살아난-투심코스피-사상-최고치-마감-901413",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T18:59:47.515Z",
+    "updatedAt": "2026-05-13T18:59:47.516Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051344961",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051344961",
+    "titleFingerprint": "003fb3da89186d13f098e7c0e6b6468e7ffbbb36",
+    "dedupKeys": [
+      "697b59056ebadc8e96d00b2aadc5fc99bbb0f758",
+      "003fb3da89186d13f098e7c0e6b6468e7ffbbb36",
+      "1961be5e4078742698b6085917c95021d6605e55"
+    ],
+    "imageUrl": "/images/articles/697b59056eba.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7844.01 사상 최고치 마감, 대기자금 유입에 하루 만에 투심 회복세",
+        "excerpt": "13일 코스피지수는 전날 급락 후 하루 만에 반등해 2.63% 오른 7844.01로 마감하며 종가 기준 사상 최고치를 새로 썼다.",
+        "body": "13일 코스피지수는 전날보다 2.63% 상승한 7844.01에 거래를 마치며 종가 기준 사상 최고치를 경신했다. 글로벌 증시 하락으로 투자심리 악화 우려가 있었지만, 조정을 기다리던 대기자금이 유입되며 하루 만에 반등했다. 장 초반 지수는 7406.14까지 밀렸고 반도체주 약세가 부담이 됐다. 이후 현대차그룹주와 반도체주의 반등이 지수 상승을 이끌었다. 개인과 기관은 각각 1조8000억원어치를 순매수했고, 외국인은 4조원 가까이 순매도했다. 투자자예탁금은 12일 기준 137조4174억원으로 집계됐다. 모건스탠리는 올해 코스피 전망치를 9500으로 제시했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSPI Closes at Record 7,844.01 as Waiting Cash Revives Investor Sentiment",
+        "excerpt": "On May 13, the KOSPI rebounded one day after a sharp drop, rising 2.63% to close at a record 7,844.01 as sidelined funds returned to the market.",
+        "body": "On May 13, the KOSPI rose 2.63% from the previous session to close at 7,844.01, setting a new record closing high. Concerns had grown after global stocks fell overnight, but funds waiting for a correction flowed into the market and helped sentiment recover within a day. The index slipped as low as 7,406.14 early in the session, pressured by weakness in semiconductor shares. It later recovered as Hyundai Motor Group stocks and chip names rebounded. Retail and institutional investors each bought a net 1.8 trillion won, while foreign investors sold nearly 4 trillion won. Investor deposits stood at 137.4174 trillion won as of May 12. Morgan Stanley set its 2026 KOSPI outlook at 9,500. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPIが7844.01で史上最高値引け、待機資金流入で投資心理が1日で回復",
+        "excerpt": "5月13日のKOSPIは急落から1日で反発し、前日比2.63%高の7844.01で終了、終値ベースの史上最高値を更新した。",
+        "body": "5月13日、KOSPI指数は前日比2.63%上昇の7844.01で取引を終え、終値ベースの史上最高値を更新した。前夜の世界株安で投資心理の悪化が懸念されたが、調整を待っていた待機資金が市場に流入し、1日で反発した。指数は取引序盤に7406.14まで下落し、半導体株の弱さが重荷となった。その後、現代自動車グループ株と半導体株が持ち直し、上昇を主導した。個人と機関投資家はそれぞれ1兆8000億ウォンを買い越し、外国人は4兆ウォン近くを売り越した。投資家預託金は12日時点で137兆4174億ウォン。モルガン・スタンレーは今年のKOSPI見通しを9500とした。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSPI收于7844.01点创历史新高，观望资金入场推动情绪一日修复",
+        "excerpt": "5月13日，KOSPI在前一日大跌后迅速反弹，收涨2.63%至7844.01点，刷新收盘历史最高纪录。",
+        "body": "5月13日，KOSPI指数较前一交易日上涨2.63%，收于7844.01点，刷新收盘历史最高纪录。隔夜全球股市下跌曾引发投资情绪恶化担忧，但等待调整的观望资金大量流入市场，推动指数在一天内反弹。盘初指数一度跌至7406.14点，半导体股走弱构成压力。随后现代汽车集团相关股票和半导体股回升，带动大盘上涨。个人投资者和机构分别净买入1.8万亿韩元，外资则净卖出近4万亿韩元。截至5月12日，投资者保证金为137.4174万亿韩元。摩根士丹利将今年KOSPI预期定为9500点。来源: hankyung.com"
+      },
+      "es": {
+        "title": "KOSPI cierra en récord de 7.844,01 puntos tras volver el apetito inversor en un día",
+        "excerpt": "El 13 de mayo, el KOSPI rebotó un día después de la fuerte caída y subió 2,63% hasta 7.844,01 puntos, un nuevo máximo histórico de cierre.",
+        "body": "El 13 de mayo, el KOSPI avanzó 2,63% frente a la sesión anterior y cerró en 7.844,01 puntos, marcando un nuevo máximo histórico de cierre. La caída nocturna de las bolsas globales había generado preocupación por el ánimo inversor, pero el dinero que esperaba una corrección entró en el mercado y facilitó el rebote en un solo día. Al inicio de la sesión, el índice bajó hasta 7.406,14 puntos, presionado por la debilidad de los semiconductores. Después se recuperó con el impulso de las acciones del grupo Hyundai Motor y de los chips. Minoristas e instituciones compraron en neto 1,8 billones de wones cada uno, mientras los extranjeros vendieron casi 4 billones. Los depósitos de inversores sumaban 137,4174 billones de wones al 12 de mayo. Morgan Stanley proyectó el KOSPI en 9.500 este año. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSPI fecha no recorde de 7.844,01 com volta do apetite por risco em um dia",
+        "excerpt": "Em 13 de maio, o KOSPI reagiu um dia após a forte queda, subiu 2,63% e fechou em 7.844,01 pontos, novo recorde histórico de fechamento.",
+        "body": "Em 13 de maio, o índice KOSPI subiu 2,63% ante a sessão anterior e fechou a 7.844,01 pontos, renovando o recorde histórico de fechamento. A queda das bolsas globais na véspera elevou o receio de piora no sentimento, mas recursos que aguardavam uma correção entraram no mercado e sustentaram a recuperação em um dia. No início do pregão, o índice caiu até 7.406,14 pontos, pressionado pela fraqueza dos semicondutores. Depois, ações do grupo Hyundai Motor e papéis de chips se recuperaram e lideraram a alta. Investidores individuais e institucionais compraram 1,8 trilhão de wones líquidos cada, enquanto estrangeiros venderam quase 4 trilhões. Os depósitos de investidores somavam 137,4174 trilhões de wones em 12 de maio. O Morgan Stanley projetou o KOSPI em 9.500 neste ano. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSPI schließt mit Rekord bei 7.844,01 Punkten, wartendes Kapital stützt Stimmung",
+        "excerpt": "Am 13. Mai erholte sich der KOSPI einen Tag nach dem starken Rückgang und schloss 2,63% höher bei 7.844,01 Punkten, einem Rekordschlussstand.",
+        "body": "Am 13. Mai stieg der KOSPI gegenüber dem Vortag um 2,63% und schloss bei 7.844,01 Punkten, dem höchsten Schlussstand seiner Geschichte. Nach Verlusten an den globalen Börsen hatte Sorge um die Anlegerstimmung bestanden, doch Kapital, das auf eine Korrektur gewartet hatte, floss in den Markt und ermöglichte die Erholung innerhalb eines Tages. Zu Handelsbeginn fiel der Index bis auf 7.406,14 Punkte, belastet von schwachen Halbleiterwerten. Später trugen Aktien der Hyundai Motor Group und Chipwerte zur Erholung bei. Privatanleger und Institutionelle kauften jeweils netto 1,8 Billionen Won, während Ausländer fast 4 Billionen Won verkauften. Die Anlegerguthaben lagen am 12. Mai bei 137,4174 Billionen Won. Morgan Stanley setzte den KOSPI-Ausblick für dieses Jahr auf 9.500. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le KOSPI finit à un record de 7 844,01 points, porté par le retour rapide des capitaux",
+        "excerpt": "Le 13 mai, le KOSPI a rebondi un jour après sa forte baisse, gagnant 2,63% pour clôturer à 7 844,01 points, un record historique de clôture.",
+        "body": "Le 13 mai, l’indice KOSPI a progressé de 2,63% par rapport à la veille pour terminer à 7 844,01 points, un nouveau record historique de clôture. La baisse des marchés mondiaux pendant la nuit avait suscité des craintes pour le sentiment des investisseurs, mais les capitaux en attente d’une correction sont revenus sur le marché et ont permis un rebond en une journée. En début de séance, l’indice était tombé à 7 406,14 points, sous la pression des valeurs de semi-conducteurs. Il s’est ensuite repris grâce aux actions du groupe Hyundai Motor et aux titres liés aux puces. Les particuliers et les institutions ont chacun acheté pour 1 800 milliards de wons nets, tandis que les étrangers ont vendu près de 4 000 milliards. Les dépôts des investisseurs atteignaient 137 417,4 milliards de wons au 12 mai. Morgan Stanley vise 9 500 pour le KOSPI cette année. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوسبي يغلق عند 7,844.01 نقطة كرقم قياسي مع عودة شهية المستثمرين خلال يوم",
+        "excerpt": "في 13 مايو، ارتد مؤشر كوسبي بعد يوم واحد من هبوط حاد، مرتفعا 2.63% ليغلق عند 7,844.01 نقطة، وهو أعلى إغلاق تاريخي له.",
+        "body": "في 13 مايو، ارتفع مؤشر كوسبي 2.63% عن الجلسة السابقة وأغلق عند 7,844.01 نقطة، مسجلا أعلى مستوى إغلاق في تاريخه. وكانت خسائر الأسواق العالمية خلال الليل قد أثارت مخاوف بشأن معنويات المستثمرين، لكن الأموال التي كانت تنتظر تصحيحا تدفقت إلى السوق وساعدت على التعافي خلال يوم واحد. في بداية الجلسة هبط المؤشر إلى 7,406.14 نقطة، مع ضغط من ضعف أسهم أشباه الموصلات. ثم تعافى بدعم من أسهم مجموعة هيونداي موتور وأسهم الرقائق. اشترى الأفراد والمؤسسات صافي 1.8 تريليون وون لكل منهما، بينما باع الأجانب ما يقرب من 4 تريليونات وون. وبلغت ودائع المستثمرين 137.4174 تريليون وون في 12 مايو. وحددت مورغان ستانلي توقعها للمؤشر هذا العام عند 9,500 نقطة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI 7,844.01 पर रिकॉर्ड बंद, एक दिन में लौटी निवेश धारणा को नकदी का सहारा",
+        "excerpt": "13 मई को KOSPI तेज गिरावट के एक दिन बाद उछला और 2.63% बढ़कर 7,844.01 पर बंद हुआ, जो बंद भाव के आधार पर नया ऐतिहासिक उच्च स्तर है।",
+        "body": "13 मई को KOSPI सूचकांक पिछले सत्र से 2.63% बढ़कर 7,844.01 पर बंद हुआ और बंद भाव के आधार पर नया ऐतिहासिक उच्च स्तर बना। रात भर वैश्विक शेयर बाजारों में गिरावट से निवेश धारणा बिगड़ने की आशंका थी, लेकिन सुधार का इंतजार कर रही नकदी बाजार में आई और सूचकांक एक दिन में संभल गया। शुरुआती कारोबार में सूचकांक 7,406.14 तक गिरा था, जहां सेमीकंडक्टर शेयरों की कमजोरी दबाव बनी। बाद में Hyundai Motor Group के शेयरों और चिप शेयरों की वापसी ने तेजी को सहारा दिया। व्यक्तिगत और संस्थागत निवेशकों ने अलग-अलग 1.8 ट्रिलियन वॉन की शुद्ध खरीद की, जबकि विदेशी निवेशकों ने करीब 4 ट्रिलियन वॉन बेचे। 12 मई तक निवेशक जमा 137.4174 ट्रिलियन वॉन थे। Morgan Stanley ने इस साल KOSPI का अनुमान 9,500 रखा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KOSPI Ditutup Rekor 7.844,01, Dana Siaga Bantu Pulihkan Sentimen dalam Sehari",
+        "excerpt": "Pada 13 Mei, KOSPI rebound sehari setelah penurunan tajam, naik 2,63% dan ditutup di 7.844,01, rekor tertinggi baru berdasarkan penutupan.",
+        "body": "Pada 13 Mei, indeks KOSPI naik 2,63% dari sesi sebelumnya dan ditutup di 7.844,01, mencetak rekor tertinggi baru berdasarkan harga penutupan. Penurunan bursa global semalam sempat memicu kekhawatiran atas sentimen investor, tetapi dana yang menunggu koreksi masuk ke pasar dan membantu pemulihan dalam satu hari. Pada awal perdagangan, indeks sempat turun ke 7.406,14, terbebani pelemahan saham semikonduktor. Setelah itu, saham Hyundai Motor Group dan saham chip berbalik naik dan memimpin penguatan. Investor ritel dan institusi masing-masing membukukan beli bersih 1,8 triliun won, sementara investor asing menjual hampir 4 triliun won. Dana nasabah investor tercatat 137,4174 triliun won per 12 Mei. Morgan Stanley menetapkan proyeksi KOSPI tahun ini di 9.500. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "43d8e4e1c88a",
     "slug": "gs리테일-2조-클럽-복귀허서홍-대표-취임-1년만-687493",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Reli Semikonduktor Angkat Kapitalisasi Pasar Korea 4.500 Triliun Won",
         "excerpt": "Dalam 11 bulan sejak pemerintahan Lee Jae-myung dimulai, kapitalisasi pasar saham Korea naik dari 2.597 menjadi 7.088 triliun won, dipimpin saham chip.",
         "body": "Dalam 11 bulan sejak pemerintahan Lee Jae-myung mulai menjabat, total kapitalisasi pasar saham Korea meningkat dari 2.597 triliun won menjadi 7.088 triliun won, bertambah sekitar 4.491 triliun won. Kekuatan sektor semikonduktor mendorong perluasan pasar, dengan Samsung Electronics dan SK Hynix melonjak 56%. Berdasarkan grup usaha, SK Group menyalip LG dan Hyundai Motor dan menetap di posisi kedua menurut nilai pasar. Hyosung, Mirae Asset, dan LS juga menguat bersama, menambah tenaga pada tren kenaikan. Pasar Korea menunjukkan meningkatnya pengaruh saham chip berkapitalisasi besar sekaligus perubahan peringkat nilai pasar di antara grup utama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7ba836ba14a0",
-    "slug": "오기형-코리아-프리미엄-지배구조-개혁에-달렸다-kiw-2026-731328",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-12T23:43:39.328Z",
-    "updatedAt": "2026-05-12T23:43:39.328Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605120336i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605120336i",
-    "titleFingerprint": "9be2d1231ada282026659534dbc7561d996cb6e7",
-    "dedupKeys": [
-      "7ba836ba14a02b15529deb9c06265e6be116d670",
-      "9be2d1231ada282026659534dbc7561d996cb6e7",
-      "e865ebec79c9c2820eb055b8948929165535a1a1"
-    ],
-    "imageUrl": "/images/articles/7ba836ba14a0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코리아 프리미엄 핵심은 지배구조 개혁, 오기형 KIW 2026 발언",
-        "excerpt": "오기형은 KIW 2026에서 코리아 프리미엄의 향방이 지배구조 개혁에 달려 있다고 밝혔다. 한국 시장 평가와 기업 지배구조 개선의 연결성이 핵심 메시지다.",
-        "body": "오기형은 KIW 2026에서 코리아 프리미엄의 향방이 지배구조 개혁에 달려 있다고 밝혔다. 발언의 초점은 한국 시장이 더 높은 평가를 받기 위해 기업 지배구조 개선이 중요하다는 데 맞춰졌다. 원문에 별도 요약이나 구체적 수치, 세부 발언 전문은 제시되지 않았다. 따라서 이번 내용은 코리아 프리미엄 논의가 지배구조 개혁과 직접 연결돼 있다는 메시지에 한정된다. 시장 참여자들은 향후 관련 논의가 한국 자본시장 평가와 제도 개선 방향에 어떤 영향을 줄지 주목할 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Korea Premium Depends on Governance Reform, Oh Ki-hyung Says at KIW 2026",
-        "excerpt": "Oh Ki-hyung said at KIW 2026 that the direction of the Korea premium depends on governance reform, linking Korea’s market valuation to corporate governance improvement.",
-        "body": "Oh Ki-hyung said at KIW 2026 that the direction of the Korea premium depends on governance reform. His remarks focused on the view that stronger corporate governance is important if the Korean market is to receive a higher valuation. The source text did not provide a separate summary, detailed figures, or a full transcript of the remarks. Therefore, this report is limited to the message that the Korea premium discussion is directly tied to governance reform. Market participants may watch how related debate affects the assessment of Korea’s capital market and future institutional reform. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "コリアプレミアムの鍵はガバナンス改革、呉奇炯氏がKIW 2026で発言",
-        "excerpt": "呉奇炯氏はKIW 2026で、コリアプレミアムの行方はガバナンス改革にかかっていると述べ、韓国市場評価と企業統治改善の関係を強調した。",
-        "body": "呉奇炯氏はKIW 2026で、コリアプレミアムの行方はガバナンス改革にかかっていると述べた。発言の焦点は、韓国市場がより高い評価を受けるためには企業統治の改善が重要だという点に置かれた。原文には別途の要約や具体的な数値、発言全文は示されていない。そのため本稿は、コリアプレミアムをめぐる議論がガバナンス改革と直接結び付いているというメッセージに限定する。市場参加者は今後、関連議論が韓国資本市場の評価と制度改善の方向にどのような影響を与えるか注目できる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "韩国溢价关键在治理改革，吴奇炯在KIW 2026发表观点",
-        "excerpt": "吴奇炯在KIW 2026表示，韩国溢价的走向取决于公司治理改革，核心信息是韩国市场估值与企业治理改善之间的关联。",
-        "body": "吴奇炯在KIW 2026表示，韩国溢价的走向取决于公司治理改革。他的发言重点在于，若韩国市场希望获得更高评价，改善企业治理十分重要。原文未提供单独摘要、具体数据或发言全文。因此，本文内容仅限于韩国溢价讨论与治理改革直接相关这一信息。市场参与者可关注相关讨论今后将如何影响韩国资本市场评价以及制度改善方向。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Prima de Corea depende de reforma de gobernanza, dice Oh Ki-hyung en KIW 2026",
-        "excerpt": "Oh Ki-hyung dijo en KIW 2026 que la prima de Corea depende de la reforma de la gobernanza, vinculando la valoración del mercado coreano con mejoras corporativas.",
-        "body": "Oh Ki-hyung dijo en KIW 2026 que el rumbo de la prima de Corea depende de la reforma de la gobernanza. El foco de sus declaraciones fue que mejorar la gobernanza corporativa es importante para que el mercado coreano reciba una valoración más alta. El texto original no incluyó un resumen separado, cifras concretas ni la transcripción completa de sus palabras. Por ello, esta nota se limita al mensaje de que el debate sobre la prima de Corea está directamente conectado con la reforma de la gobernanza. Los participantes del mercado podrán observar cómo esta discusión influye en la evaluación del mercado de capitales de Corea y en la dirección de mejoras institucionales. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Prêmio Coreia depende de reforma de governança, diz Oh Ki-hyung no KIW 2026",
-        "excerpt": "Oh Ki-hyung afirmou no KIW 2026 que o rumo do prêmio Coreia depende da reforma de governança, ligando a avaliação do mercado coreano à melhora corporativa.",
-        "body": "Oh Ki-hyung afirmou no KIW 2026 que o rumo do prêmio Coreia depende da reforma de governança. O foco da declaração foi a ideia de que a melhoria da governança corporativa é importante para que o mercado coreano receba uma avaliação mais alta. O texto original não trouxe resumo separado, números específicos nem a íntegra das falas. Assim, esta reportagem se limita à mensagem de que o debate sobre o prêmio Coreia está diretamente ligado à reforma de governança. Participantes do mercado podem acompanhar como a discussão afetará a avaliação do mercado de capitais coreano e a direção de melhorias institucionais. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Korea-Prämie hängt von Governance-Reform ab, sagt Oh Ki-hyung bei KIW 2026",
-        "excerpt": "Oh Ki-hyung sagte bei KIW 2026, die Richtung der Korea-Prämie hänge von Governance-Reformen ab und verband Koreas Marktbewertung mit besserer Unternehmensführung.",
-        "body": "Oh Ki-hyung sagte bei KIW 2026, dass die Richtung der Korea-Prämie von Governance-Reformen abhängt. Im Mittelpunkt seiner Aussage stand, dass eine bessere Unternehmensführung wichtig ist, damit der koreanische Markt höher bewertet werden kann. Der Ausgangstext enthielt keine separate Zusammenfassung, konkreten Zahlen oder vollständigen Wortlaut der Äußerungen. Daher beschränkt sich dieser Bericht auf die Botschaft, dass die Debatte über die Korea-Prämie direkt mit Governance-Reformen verbunden ist. Marktteilnehmer können verfolgen, wie diese Diskussion die Bewertung des koreanischen Kapitalmarkts und die Richtung institutioneller Verbesserungen beeinflusst. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Prime coréenne liée à la réforme de la gouvernance, dit Oh Ki-hyung au KIW 2026",
-        "excerpt": "Oh Ki-hyung a déclaré au KIW 2026 que l’avenir de la prime coréenne dépend de la réforme de la gouvernance, reliant valorisation du marché et gouvernance.",
-        "body": "Oh Ki-hyung a déclaré au KIW 2026 que l’avenir de la prime coréenne dépend de la réforme de la gouvernance. Ses propos ont mis l’accent sur l’importance d’améliorer la gouvernance d’entreprise pour que le marché coréen bénéficie d’une meilleure valorisation. Le texte source ne fournit pas de résumé distinct, de chiffres précis ni de transcription complète des déclarations. Cet article se limite donc au message selon lequel le débat sur la prime coréenne est directement lié à la réforme de la gouvernance. Les acteurs du marché pourront suivre l’effet de cette discussion sur l’évaluation du marché des capitaux coréen et sur l’orientation des améliorations institutionnelles. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "علاوة كوريا ترتبط بإصلاح الحوكمة، أوه كي-هيونغ يصرح في KIW 2026",
-        "excerpt": "قال أوه كي-هيونغ في KIW 2026 إن مسار علاوة كوريا يعتمد على إصلاح الحوكمة، رابطا تقييم السوق الكورية بتحسين حوكمة الشركات.",
-        "body": "قال أوه كي-هيونغ في KIW 2026 إن مسار علاوة كوريا يعتمد على إصلاح الحوكمة. وتركزت رسالته على أن تحسين حوكمة الشركات مهم كي تحصل السوق الكورية على تقييم أعلى. ولم يقدم النص الأصلي ملخصا منفصلا أو أرقاما محددة أو النص الكامل للتصريحات. لذلك يقتصر هذا التقرير على الرسالة التي تفيد بأن نقاش علاوة كوريا مرتبط مباشرة بإصلاح الحوكمة. ويمكن للمشاركين في السوق متابعة كيفية تأثير هذا النقاش في تقييم سوق رأس المال الكورية واتجاه التحسينات المؤسسية المقبلة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "कोरिया प्रीमियम की कुंजी गवर्नेंस सुधार, KIW 2026 में ओह की-ह्युंग का बयान",
-        "excerpt": "ओह की-ह्युंग ने KIW 2026 में कहा कि कोरिया प्रीमियम की दिशा गवर्नेंस सुधार पर निर्भर है, जिससे बाजार मूल्यांकन और कॉरपोरेट गवर्नेंस जुड़ते हैं।",
-        "body": "ओह की-ह्युंग ने KIW 2026 में कहा कि कोरिया प्रीमियम की दिशा गवर्नेंस सुधार पर निर्भर है। उनके बयान का केंद्र यह था कि कोरियाई बाजार को ऊंचा मूल्यांकन पाने के लिए कॉरपोरेट गवर्नेंस में सुधार महत्वपूर्ण है। मूल पाठ में अलग सारांश, ठोस आंकड़े या बयान का पूरा पाठ नहीं दिया गया। इसलिए यह रिपोर्ट केवल इस संदेश तक सीमित है कि कोरिया प्रीमियम पर चर्चा सीधे गवर्नेंस सुधार से जुड़ी है। बाजार प्रतिभागी देख सकते हैं कि आगे यह बहस कोरिया के पूंजी बाजार के मूल्यांकन और संस्थागत सुधार की दिशा को कैसे प्रभावित करती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Premium Korea Bergantung pada Reformasi Tata Kelola, Kata Oh Ki-hyung di KIW 2026",
-        "excerpt": "Oh Ki-hyung mengatakan di KIW 2026 bahwa arah premium Korea bergantung pada reformasi tata kelola, mengaitkan valuasi pasar dengan perbaikan korporasi.",
-        "body": "Oh Ki-hyung mengatakan di KIW 2026 bahwa arah premium Korea bergantung pada reformasi tata kelola. Fokus pernyataannya adalah bahwa perbaikan tata kelola perusahaan penting agar pasar Korea mendapat valuasi yang lebih tinggi. Teks sumber tidak memberikan ringkasan terpisah, angka khusus, atau transkrip lengkap pernyataan tersebut. Karena itu, laporan ini dibatasi pada pesan bahwa pembahasan premium Korea terkait langsung dengan reformasi tata kelola. Pelaku pasar dapat mencermati bagaimana diskusi ini memengaruhi penilaian pasar modal Korea dan arah perbaikan kelembagaan ke depan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "cbd903499268",
-    "slug": "한전kps-분석-원전-르네상스-효과-톡톡배당-확대-가능성도-442824",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-12T23:42:39.440Z",
-    "updatedAt": "2026-05-12T23:42:39.440Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605120770i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605120770i",
-    "titleFingerprint": "fafa87f7d8184316810a41f8f061c2fab7c9dd58",
-    "dedupKeys": [
-      "cbd9034992685a5fb3719c902b1f35b6874a17c5",
-      "fafa87f7d8184316810a41f8f061c2fab7c9dd58",
-      "4d6c573c70101e4f81e7b419fd361a272178d95a"
-    ],
-    "imageUrl": "/images/articles/cbd903499268.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한전KPS 분석, ‘원전 르네상스’ 효과 부각…배당 확대 가능성 주목",
-        "excerpt": "hankyung.com은 한전KPS 분석에서 ‘원전 르네상스’ 효과가 나타나고 있으며 배당 확대 가능성도 함께 거론된다고 보도했다.",
-        "body": "hankyung.com은 ‘[한전KPS 분석] 원전 르네상스 효과 톡톡…배당 확대 가능성도’라는 제목의 기사에서 한전KPS를 둘러싼 원전 관련 흐름과 배당 확대 가능성을 다뤘다. 제공된 원문 정보에 따르면 핵심은 ‘원전 르네상스’ 효과가 한전KPS 분석의 주요 배경으로 제시됐고, 이와 함께 배당 확대 가능성이 언급됐다는 점이다. 구체적인 실적 수치나 배당 규모, 시점은 원문 요약에 포함되지 않았다. 투자자는 원전 산업 흐름과 배당 정책 변화 가능성을 함께 확인할 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KEPCO KPS Analysis Highlights Nuclear Renaissance Effect and Dividend Upside",
-        "excerpt": "hankyung.com reported that its KEPCO KPS analysis points to a visible “nuclear renaissance” effect and also mentions the possibility of higher dividends.",
-        "body": "hankyung.com covered KEPCO KPS in an article titled “[KEPCO KPS Analysis] Nuclear renaissance effect delivers results… possibility of dividend expansion too.” Based on the provided source information, the key point is that the “nuclear renaissance” effect was presented as a major factor in the KEPCO KPS analysis, while the possibility of expanding dividends was also mentioned. Specific earnings figures, dividend amounts, or timing were not included in the supplied summary. Investors may need to watch both nuclear industry trends and potential changes in dividend policy. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "韓電KPS分析、原発ルネサンス効果が浮上…配当拡大の可能性にも注目",
-        "excerpt": "hankyung.comは韓電KPS分析で「原発ルネサンス」効果が表れており、配当拡大の可能性も取り上げられたと報じた。",
-        "body": "hankyung.comは「【韓電KPS分析】『原発ルネサンス』効果が鮮明…配当拡大の可能性も」という記事で、韓電KPSを巡る原発関連の流れと配当拡大の可能性を扱った。提供された原文情報によると、核心は「原発ルネサンス」効果が韓電KPS分析の主な背景として示され、あわせて配当拡大の可能性が言及された点だ。具体的な業績数値、配当規模、時期は要約に含まれていない。投資家は原発産業の流れと配当政策の変化可能性を併せて確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "韩电KPS分析聚焦“核电复兴”效应，分红扩大可能性受关注",
-        "excerpt": "hankyung.com报道称，在韩电KPS分析中，“核电复兴”效应正在显现，同时也提到分红扩大可能性。",
-        "body": "hankyung.com在题为《【韩电KPS分析】“核电复兴”效应明显…也有分红扩大可能性》的报道中，讨论了围绕韩电KPS的核电相关趋势以及分红扩大可能性。根据所提供的原文信息，核心在于“核电复兴”效应被列为韩电KPS分析的重要背景，同时还提到分红扩大可能性。具体业绩数据、分红规模和时间点未包含在原文摘要中。投资者有必要同时关注核电行业趋势和分红政策变化的可能性。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Análisis de KEPCO KPS destaca el efecto del renacimiento nuclear y dividendos",
-        "excerpt": "hankyung.com informó que el análisis de KEPCO KPS señala el efecto del “renacimiento nuclear” y menciona la posibilidad de ampliar dividendos.",
-        "body": "hankyung.com abordó a KEPCO KPS en un artículo titulado “[Análisis de KEPCO KPS] El efecto del renacimiento nuclear se nota… también posibilidad de ampliar dividendos”. Según la información original proporcionada, el punto central es que el efecto del “renacimiento nuclear” se presentó como un contexto clave del análisis de KEPCO KPS, junto con la posibilidad de ampliar dividendos. El resumen no incluye cifras concretas de resultados, tamaño del dividendo ni calendario. Los inversores deben revisar tanto la tendencia de la industria nuclear como posibles cambios en la política de dividendos. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Análise da KEPCO KPS destaca renascimento nuclear e possível alta de dividendos",
-        "excerpt": "O hankyung.com informou que a análise da KEPCO KPS aponta o efeito do “renascimento nuclear” e também menciona a possibilidade de ampliar dividendos.",
-        "body": "O hankyung.com tratou da KEPCO KPS em artigo intitulado “[Análise da KEPCO KPS] Efeito do renascimento nuclear aparece com força… também há possibilidade de ampliar dividendos”. Segundo as informações originais fornecidas, o ponto central é que o efeito do “renascimento nuclear” foi apresentado como contexto importante da análise da KEPCO KPS, ao mesmo tempo em que se mencionou a possibilidade de expansão dos dividendos. Números específicos de resultados, valor dos dividendos ou prazo não constam no resumo. Investidores devem acompanhar tanto a tendência do setor nuclear quanto possíveis mudanças na política de dividendos. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KEPCO-KPS-Analyse zeigt Effekt der nuklearen Renaissance und Dividendenspielraum",
-        "excerpt": "hankyung.com berichtete, dass die KEPCO-KPS-Analyse den Effekt der „nuklearen Renaissance“ hervorhebt und auch mögliche höhere Dividenden erwähnt.",
-        "body": "hankyung.com behandelte KEPCO KPS in einem Artikel mit dem Titel „[KEPCO-KPS-Analyse] Effekt der nuklearen Renaissance deutlich… auch Möglichkeit einer Dividendenerhöhung“. Auf Basis der bereitgestellten Originalinformationen ist der Kernpunkt, dass der Effekt der „nuklearen Renaissance“ als wichtiger Hintergrund der KEPCO-KPS-Analyse genannt wurde und zugleich die Möglichkeit einer Ausweitung der Dividende erwähnt wird. Konkrete Ergebniszahlen, Dividendenhöhe oder Zeitpunkt sind in der Zusammenfassung nicht enthalten. Anleger sollten sowohl die Entwicklung der Nuklearbranche als auch mögliche Änderungen der Dividendenpolitik prüfen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Analyse de KEPCO KPS: renaissance nucléaire en vue et dividendes sous surveillance",
-        "excerpt": "hankyung.com a rapporté que son analyse de KEPCO KPS met en avant l’effet de la « renaissance nucléaire » et évoque aussi une possible hausse des dividendes.",
-        "body": "hankyung.com a consacré un article à KEPCO KPS sous le titre « [Analyse de KEPCO KPS] L’effet de la renaissance nucléaire se fait sentir… possibilité aussi d’une hausse des dividendes ». Selon les informations originales fournies, le point central est que l’effet de la « renaissance nucléaire » est présenté comme un contexte majeur de l’analyse de KEPCO KPS, avec une mention de la possibilité d’élargir les dividendes. Le résumé ne contient pas de chiffres précis de résultats, de montant de dividende ni de calendrier. Les investisseurs doivent suivre à la fois la tendance du secteur nucléaire et les changements possibles de politique de dividendes. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "تحليل كيبكو KPS يبرز أثر النهضة النووية واحتمال توسيع التوزيعات",
-        "excerpt": "أفاد hankyung.com بأن تحليل كيبكو KPS يشير إلى ظهور أثر “النهضة النووية”، مع الإشارة أيضا إلى احتمال توسيع توزيعات الأرباح.",
-        "body": "تناول hankyung.com شركة كيبكو KPS في مقال بعنوان “[تحليل كيبكو KPS] أثر النهضة النووية يظهر بوضوح… واحتمال توسيع التوزيعات أيضا”. وبحسب معلومات النص الأصلي المقدمة، تتمثل النقطة الأساسية في أن أثر “النهضة النووية” طُرح كخلفية رئيسية لتحليل كيبكو KPS، مع ذكر احتمال توسيع توزيعات الأرباح. ولم يتضمن الملخص أرقاما محددة للأداء أو حجم التوزيعات أو توقيتها. لذلك يحتاج المستثمرون إلى متابعة اتجاه صناعة الطاقة النووية وإمكانية تغير سياسة التوزيعات معا. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KEPCO KPS विश्लेषण में परमाणु पुनर्जागरण प्रभाव और डिविडेंड संभावना",
-        "excerpt": "hankyung.com ने बताया कि KEPCO KPS विश्लेषण में “परमाणु पुनर्जागरण” का प्रभाव दिख रहा है और डिविडेंड विस्तार की संभावना भी उल्लेखित है।",
-        "body": "hankyung.com ने “[KEPCO KPS विश्लेषण] परमाणु पुनर्जागरण का असर स्पष्ट… डिविडेंड विस्तार की संभावना भी” शीर्षक वाले लेख में KEPCO KPS से जुड़े परमाणु ऊर्जा रुझान और डिविडेंड विस्तार की संभावना को कवर किया। उपलब्ध मूल जानकारी के अनुसार मुख्य बात यह है कि “परमाणु पुनर्जागरण” प्रभाव को KEPCO KPS विश्लेषण की प्रमुख पृष्ठभूमि के रूप में प्रस्तुत किया गया, साथ ही डिविडेंड बढ़ाने की संभावना का उल्लेख हुआ। विशिष्ट आय आंकड़े, डिविडेंड राशि या समयसीमा सारांश में शामिल नहीं हैं। निवेशकों को परमाणु उद्योग के रुझान और डिविडेंड नीति में संभावित बदलाव दोनों पर ध्यान देना चाहिए। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Analisis KEPCO KPS Soroti Efek Renaisans Nuklir dan Peluang Dividen",
-        "excerpt": "hankyung.com melaporkan bahwa analisis KEPCO KPS menunjukkan efek “renaisans nuklir” dan juga menyebut kemungkinan perluasan dividen.",
-        "body": "hankyung.com membahas KEPCO KPS dalam artikel berjudul “[Analisis KEPCO KPS] Efek renaisans nuklir terasa jelas… kemungkinan perluasan dividen juga”. Berdasarkan informasi asli yang diberikan, poin utamanya adalah efek “renaisans nuklir” disajikan sebagai latar penting dalam analisis KEPCO KPS, sekaligus disebutkan kemungkinan perluasan dividen. Ringkasan tidak memuat angka kinerja, besaran dividen, atau waktu pelaksanaannya secara spesifik. Investor perlu mencermati tren industri nuklir dan kemungkinan perubahan kebijakan dividen secara bersamaan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "ec7d3573da27",
-    "slug": "브이원텍-반도체-핵심부품-sic링-자동외관-검사장비-개발수주-472394",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-12T23:41:43.406Z",
-    "updatedAt": "2026-05-12T23:41:43.407Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051207836",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051207836",
-    "titleFingerprint": "3c332fe24e29beaedef15e9d87a8d98aee09d289",
-    "dedupKeys": [
-      "ec7d3573da279a2387733682090916b127878c09",
-      "3c332fe24e29beaedef15e9d87a8d98aee09d289",
-      "386ae1ba48b1cc9cfa4a8bc33a68ef794f269b1f"
-    ],
-    "imageUrl": "/images/articles/ec7d3573da27.png",
-    "i18n": {
-      "ko": {
-        "title": "브이원텍, 반도체 핵심부품 SiC링 자동외관 검사장비 개발·수주",
-        "excerpt": "브이원텍이 반도체 핵심부품으로 꼽히는 SiC링의 자동외관 검사장비를 개발하고 수주했다고 hankyung.com이 전했다.",
-        "body": "브이원텍이 반도체 핵심부품인 SiC링 자동외관 검사장비를 개발하고 관련 장비를 수주했다. 이번 소식은 SiC링 검사 공정에 자동외관 검사장비가 적용되는 사례로, 반도체 부품 품질 확인과 검사 효율화 측면에서 주목된다. 원문에 따르면 브이원텍은 SiC링을 대상으로 한 자동외관 검사장비 개발과 수주 사실을 밝혔다. 구체적인 수주 규모나 공급 일정 등 추가 수치는 원문에 제시되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "V-One Tech Develops and Wins Order for SiC Ring Inspection Equipment",
-        "excerpt": "V-One Tech has developed and secured an order for automated visual inspection equipment for SiC rings, a key semiconductor component, hankyung.com reported.",
-        "body": "V-One Tech has developed automated visual inspection equipment for SiC rings, a key semiconductor component, and secured an order for the equipment. The news highlights the application of automated visual inspection to the SiC ring inspection process, drawing attention to component quality checks and inspection efficiency in semiconductor production. According to the original report, V-One Tech disclosed both the development and order for the SiC ring inspection system. Specific order size or delivery timing was not provided in the source. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ブイワンテック、SiCリング自動外観検査装置を開発・受注",
-        "excerpt": "ブイワンテックが半導体の中核部品とされるSiCリング向け自動外観検査装置を開発し、受注したとhankyung.comが報じた。",
-        "body": "ブイワンテックは、半導体の中核部品であるSiCリング向け自動外観検査装置を開発し、関連装置を受注した。今回の発表は、SiCリングの検査工程に自動外観検査装置が適用される事例として、半導体部品の品質確認と検査効率化の面で注目される。原文によると、同社はSiCリングを対象にした自動外観検査装置の開発と受注の事実を明らかにした。具体的な受注規模や供給日程などの追加数値は示されていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "V-One Tech开发并接获SiC环自动外观检测设备订单",
-        "excerpt": "据hankyung.com报道，V-One Tech已开发用于半导体核心部件SiC环的自动外观检测设备，并获得相关订单。",
-        "body": "V-One Tech开发了用于半导体核心部件SiC环的自动外观检测设备，并获得相关设备订单。该消息显示，自动外观检测设备被应用于SiC环检测工序，在半导体零部件质量确认和检测效率提升方面受到关注。根据原文，V-One Tech披露了面向SiC环的自动外观检测设备开发及接单事实。原文未提供具体订单规模、供应日程等追加数据。来源: hankyung.com"
-      },
-      "es": {
-        "title": "V-One Tech desarrolla y recibe pedido de equipo de inspección SiC",
-        "excerpt": "V-One Tech desarrolló y recibió un pedido de equipos de inspección visual automática para anillos SiC, componente clave de semiconductores, informó hankyung.com.",
-        "body": "V-One Tech desarrolló equipos de inspección visual automática para anillos SiC, considerados componentes clave de semiconductores, y recibió un pedido relacionado. La noticia muestra la aplicación de equipos de inspección visual automática al proceso de revisión de anillos SiC, con atención en la verificación de calidad de componentes y la eficiencia de inspección. Según el informe original, la compañía comunicó el desarrollo y la recepción del pedido de estos equipos para anillos SiC. El texto no incluye cifras sobre el tamaño del pedido ni calendario de suministro. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "V-One Tech desenvolve e recebe pedido de inspeção automática para SiC",
-        "excerpt": "A V-One Tech desenvolveu e recebeu um pedido de equipamento de inspeção visual automática para anéis SiC, componente-chave de semicondutores, informou o hankyung.com.",
-        "body": "A V-One Tech desenvolveu equipamento de inspeção visual automática para anéis SiC, componentes essenciais de semicondutores, e recebeu um pedido relacionado. A notícia destaca a aplicação desse tipo de equipamento ao processo de inspeção de anéis SiC, com foco na verificação de qualidade dos componentes e na eficiência da inspeção. Segundo o texto original, a empresa informou o desenvolvimento e o pedido do equipamento voltado a anéis SiC. O relatório não apresentou valores do pedido, cronograma de fornecimento ou outros números adicionais. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "V-One Tech entwickelt und erhält Auftrag für SiC-Ring-Prüfanlage",
-        "excerpt": "V-One Tech hat eine automatische Sichtprüfanlage für SiC-Ringe, ein wichtiges Halbleiterbauteil, entwickelt und einen Auftrag erhalten, berichtete hankyung.com.",
-        "body": "V-One Tech hat eine automatische Sichtprüfanlage für SiC-Ringe, ein zentrales Halbleiterbauteil, entwickelt und einen entsprechenden Auftrag erhalten. Die Meldung zeigt den Einsatz automatischer Sichtprüfung im Prüfprozess von SiC-Ringen und lenkt den Blick auf Qualitätskontrolle und Effizienz bei der Inspektion von Halbleiterkomponenten. Dem Originalbericht zufolge gab V-One Tech die Entwicklung und den Auftrag für die Anlage bekannt. Konkrete Angaben zu Auftragsvolumen oder Lieferterminen wurden nicht genannt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "V-One Tech développe et reçoit une commande d’inspection des anneaux SiC",
-        "excerpt": "V-One Tech a développé et reçu une commande pour un équipement d’inspection visuelle automatique des anneaux SiC, composant clé des semi-conducteurs, selon hankyung.com.",
-        "body": "V-One Tech a développé un équipement d’inspection visuelle automatique pour les anneaux SiC, un composant clé des semi-conducteurs, et a reçu une commande liée à cet équipement. L’information met en avant l’application de l’inspection visuelle automatique au processus de contrôle des anneaux SiC, avec un intérêt pour la vérification de la qualité des composants et l’efficacité de l’inspection. Selon le texte original, l’entreprise a annoncé le développement et la commande de cet équipement destiné aux anneaux SiC. Aucun montant de commande ni calendrier de livraison n’a été précisé. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "في-ون تك تطور معدات فحص آلي لحلقات SiC وتحصل على طلبية",
-        "excerpt": "أفاد hankyung.com بأن في-ون تك طورت معدات فحص بصري آلي لحلقات SiC، وهي مكون رئيسي في أشباه الموصلات، وحصلت على طلبية لها.",
-        "body": "طورت في-ون تك معدات فحص بصري آلي لحلقات SiC، وهي من المكونات الرئيسية في أشباه الموصلات، وحصلت على طلبية مرتبطة بهذه المعدات. وتبرز هذه الأنباء تطبيق الفحص البصري الآلي في عملية فحص حلقات SiC، مع التركيز على التحقق من جودة مكونات أشباه الموصلات وكفاءة الفحص. وبحسب النص الأصلي، أعلنت الشركة عن تطوير معدات الفحص الخاصة بحلقات SiC وعن تلقي الطلبية. ولم يورد المصدر تفاصيل عن حجم الطلبية أو جدول التوريد. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "V-One Tech ने SiC रिंग निरीक्षण उपकरण विकसित कर ऑर्डर हासिल किया",
-        "excerpt": "hankyung.com के अनुसार, V-One Tech ने सेमीकंडक्टर के प्रमुख घटक SiC रिंग के लिए स्वचालित विजुअल निरीक्षण उपकरण विकसित किया और ऑर्डर हासिल किया।",
-        "body": "V-One Tech ने सेमीकंडक्टर के प्रमुख घटक SiC रिंग के लिए स्वचालित विजुअल निरीक्षण उपकरण विकसित किया और उससे संबंधित ऑर्डर हासिल किया। यह खबर SiC रिंग की जांच प्रक्रिया में स्वचालित विजुअल निरीक्षण उपकरण के उपयोग को दिखाती है, जिससे सेमीकंडक्टर घटकों की गुणवत्ता जांच और निरीक्षण दक्षता पर ध्यान जाता है। मूल रिपोर्ट के अनुसार, कंपनी ने SiC रिंग के लिए उपकरण विकास और ऑर्डर प्राप्त होने की जानकारी दी। स्रोत में ऑर्डर के आकार या आपूर्ति समय-सारिणी जैसे अतिरिक्त आंकड़े नहीं दिए गए। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "V-One Tech Kembangkan dan Terima Pesanan Alat Inspeksi SiC Ring",
-        "excerpt": "V-One Tech mengembangkan dan menerima pesanan alat inspeksi visual otomatis untuk SiC ring, komponen inti semikonduktor, menurut hankyung.com.",
-        "body": "V-One Tech mengembangkan alat inspeksi visual otomatis untuk SiC ring, komponen inti semikonduktor, dan menerima pesanan terkait alat tersebut. Kabar ini menunjukkan penerapan alat inspeksi visual otomatis pada proses pemeriksaan SiC ring, dengan perhatian pada pengecekan kualitas komponen semikonduktor dan efisiensi inspeksi. Menurut laporan asli, V-One Tech mengungkap pengembangan dan penerimaan pesanan alat inspeksi untuk SiC ring. Sumber tidak menyebutkan nilai pesanan, jadwal pasokan, atau angka tambahan lainnya. Sumber: hankyung.com"
       }
     }
   }
