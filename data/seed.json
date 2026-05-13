@@ -1,5 +1,230 @@
 [
   {
+    "id": "62654a7beae1",
+    "slug": "lg전자-90-폭등-무서운-질주지금-살까-ai에-물었더니-261021",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T21:43:00.076Z",
+    "updatedAt": "2026-05-13T21:43:00.076Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051341687",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051341687",
+    "titleFingerprint": "4639dae651fe5300b0332c90ced9a58ce17bffc1",
+    "dedupKeys": [
+      "62654a7beae148985a2db3737bd9ea244434dc96",
+      "4639dae651fe5300b0332c90ced9a58ce17bffc1",
+      "de2a455c87a703e283fa26721932ac57584a0cd0"
+    ],
+    "imageUrl": "/images/articles/62654a7beae1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LG전자 주가 90% 급등, AI가 짚은 매수 판단 핵심 변수와 리스크 점검",
+        "excerpt": "한국경제는 2026년 5월 13일 LG전자 주가가 단기간 90% 급등한 가운데 AI 분석이 1분기 어닝 서프라이즈와 신사업 모멘텀, 주요 리스크를 함께 짚었다고 보도했다.",
+        "body": "2026년 5월 13일 한국경제 보도에 따르면 LG전자 주가가 단기간 90% 급등하면서 투자자들의 매수 판단 관심이 커졌다. AI 투자 분석 도구 에픽AI 코파일럿은 LG전자가 올해 1분기 어닝 서프라이즈를 통해 이익 체력 개선을 확인했고, AI·로보틱스·데이터센터 등 신사업 모멘텀이 주가 리레이팅의 핵심 동인으로 부각됐다고 분석했다. 다만 주가가 짧은 기간 크게 오른 만큼 신사업 모멘텀의 실현 속도, 관세 환급 규모와 시점, 글로벌 소비심리 회복 여부, 메모리 가격 상승에 따른 원가 부담을 점검해야 한다고 했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "LG Electronics Stock Jumps 90%, AI Flags Key Buy Factors and Risks",
+        "excerpt": "Hankyung reported on May 13, 2026 that LG Electronics’ 90% short-term stock surge drew investor attention as AI weighed earnings strength, new-business momentum and risks.",
+        "body": "According to a Hankyung report on May 13, 2026, LG Electronics shares rose 90% in a short period, increasing investor interest in whether to buy. EpicAI Copilot, an AI investment analysis tool, said LG Electronics confirmed improved profit strength through a first-quarter earnings surprise, while momentum in new businesses such as AI, robotics and data centers emerged as a key driver of stock rerating. However, because the share price has climbed sharply in a short time, it said investors should check the pace at which new-business momentum is realized, the scale and timing of tariff refunds, recovery in global consumer sentiment, and cost pressure from rising memory prices. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "LG電子株が90％急騰、AIが示した買い判断の要点とリスク",
+        "excerpt": "韓国経済新聞は2026年5月13日、LG電子株が短期間で90％急騰し、AI分析が1～3月期の好決算、新事業の勢い、主要リスクを指摘したと報じた。",
+        "body": "韓国経済新聞が2026年5月13日に報じたところによると、LG電子の株価は短期間で90％上昇し、投資家の買い判断への関心が高まった。AI投資分析ツールのEpicAI Copilotは、LG電子が今年1～3月期のアーニングサプライズを通じて利益体質の改善を確認し、AI、ロボティクス、データセンターなどの新事業モメンタムが株価リレーティングの中核要因として浮上していると分析した。ただし株価が短期間で大きく上昇したため、新事業モメンタムの実現速度、関税還付の規模と時期、世界の消費心理の回復、メモリー価格上昇によるコスト負担を点検する必要があるとした。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "LG电子股价急涨90%，AI点出买入判断关键因素与风险",
+        "excerpt": "韩国经济新闻2026年5月13日报道，LG电子股价短期上涨90%，AI分析同时关注一季度业绩惊喜、新业务动能及主要风险。",
+        "body": "据韩国经济新闻2026年5月13日报道，LG电子股价在短期内上涨90%，投资者对是否买入的关注升温。AI投资分析工具EpicAI Copilot表示，LG电子通过今年一季度业绩惊喜确认了盈利能力改善，AI、机器人、数据中心等新业务动能成为推动股价重新评级的核心因素。不过，由于股价在短时间内大幅上涨，仍需检查新业务动能落地速度、关税返还的规模和时间、全球消费心理恢复情况，以及存储器价格上涨带来的成本压力。来源: hankyung.com"
+      },
+      "es": {
+        "title": "LG Electronics sube 90% en bolsa: la IA marca claves de compra y riesgos",
+        "excerpt": "Hankyung informó el 13 de mayo de 2026 que LG Electronics subió 90% en poco tiempo y que la IA evaluó su sorpresa de resultados, nuevos negocios y riesgos clave.",
+        "body": "Según informó Hankyung el 13 de mayo de 2026, las acciones de LG Electronics subieron 90% en un corto periodo, elevando el interés de los inversores sobre si comprar. EpicAI Copilot, una herramienta de análisis de inversión con IA, señaló que LG Electronics confirmó una mejora de su capacidad de beneficio con una sorpresa de resultados en el primer trimestre, mientras el impulso de nuevos negocios como IA, robótica y centros de datos destacó como motor clave de la rerating bursátil. Aun así, dado el rápido avance de la acción, indicó que deben revisarse la velocidad de materialización de esos negocios, el tamaño y calendario de los reembolsos arancelarios, la recuperación del consumo global y la presión de costes por el alza de precios de memoria. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "LG Electronics salta 90% na bolsa; IA aponta fatores de compra e riscos",
+        "excerpt": "O Hankyung informou em 13 de maio de 2026 que a LG Electronics subiu 90% em pouco tempo, enquanto a IA avaliou surpresa nos lucros, novos negócios e riscos.",
+        "body": "Segundo reportagem do Hankyung em 13 de maio de 2026, as ações da LG Electronics subiram 90% em um curto período, aumentando o interesse dos investidores sobre uma possível compra. O EpicAI Copilot, ferramenta de análise de investimentos com IA, afirmou que a LG Electronics confirmou melhora na força de lucro após uma surpresa nos resultados do primeiro trimestre, enquanto o impulso de novos negócios como IA, robótica e data centers surgiu como fator central para a reavaliação das ações. Porém, como o preço avançou fortemente em pouco tempo, a ferramenta disse que é preciso observar a velocidade de realização desses negócios, o tamanho e o momento dos reembolsos tarifários, a recuperação do consumo global e a pressão de custos causada pela alta dos preços de memória. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "LG Electronics Aktie steigt 90 Prozent, KI nennt Kaufpunkte und Risiken",
+        "excerpt": "Hankyung berichtete am 13. Mai 2026, dass LG Electronics kurzfristig 90% zulegte und KI Ergebnisstärke, neue Geschäftsfelder und zentrale Risiken einordnete.",
+        "body": "Laut einem Bericht von Hankyung vom 13. Mai 2026 ist die Aktie von LG Electronics in kurzer Zeit um 90% gestiegen, wodurch das Interesse der Anleger an einer Kaufentscheidung zunahm. Das KI-Investmentanalyse-Tool EpicAI Copilot erklärte, LG Electronics habe mit einer Ergebnisüberraschung im ersten Quartal eine verbesserte Gewinnkraft bestätigt. Zugleich seien neue Geschäftsfelder wie KI, Robotik und Rechenzentren als wichtige Treiber einer Neubewertung der Aktie hervorgetreten. Da der Kurs jedoch in kurzer Zeit stark gestiegen ist, sollten Anleger das Tempo der Umsetzung dieser neuen Geschäftsdynamik, Umfang und Zeitpunkt von Zollrückerstattungen, die Erholung der weltweiten Konsumstimmung sowie Kostendruck durch steigende Speicherpreise prüfen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "LG Electronics bondit de 90%, l’IA pointe les critères d’achat et risques",
+        "excerpt": "Hankyung a rapporté le 13 mai 2026 que l’action LG Electronics avait gagné 90% à court terme, tandis que l’IA évaluait résultats, nouveaux relais et risques.",
+        "body": "Selon Hankyung, dans un article du 13 mai 2026, l’action LG Electronics a progressé de 90% en peu de temps, renforçant l’intérêt des investisseurs pour une éventuelle décision d’achat. EpicAI Copilot, outil d’analyse d’investissement par IA, a indiqué que LG Electronics avait confirmé l’amélioration de sa capacité bénéficiaire grâce à une surprise sur les résultats du premier trimestre, tandis que l’élan de nouveaux métiers comme l’IA, la robotique et les centres de données s’imposait comme un moteur clé de revalorisation du titre. Toutefois, compte tenu de la forte hausse rapide, il faut examiner la vitesse de concrétisation de ces nouveaux relais, le montant et le calendrier des remboursements tarifaires, la reprise du moral des consommateurs mondiaux et la pression sur les coûts liée à la hausse des prix de la mémoire. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "سهم إل جي إلكترونيكس يقفز 90% والذكاء الاصطناعي يحدد عوامل الشراء والمخاطر",
+        "excerpt": "أفاد هانكيونغ في 13 مايو 2026 بأن سهم إل جي إلكترونيكس قفز 90% في فترة قصيرة، بينما قيّم تحليل الذكاء الاصطناعي قوة الأرباح وزخم الأعمال الجديدة والمخاطر.",
+        "body": "وفق تقرير هانكيونغ في 13 مايو 2026، ارتفع سهم إل جي إلكترونيكس 90% خلال فترة قصيرة، ما زاد اهتمام المستثمرين بقرار الشراء. وقالت أداة تحليل الاستثمار بالذكاء الاصطناعي EpicAI Copilot إن الشركة أكدت تحسن قوة أرباحها عبر مفاجأة نتائج الربع الأول، وإن زخم الأعمال الجديدة مثل الذكاء الاصطناعي والروبوتات ومراكز البيانات برز كمحرك رئيسي لإعادة تقييم السهم. لكنها أشارت إلى أنه، بسبب الصعود الحاد خلال مدة قصيرة، ينبغي فحص سرعة تحقق زخم الأعمال الجديدة، وحجم وتوقيت استرداد الرسوم الجمركية، وتعافي ثقة المستهلكين عالميا، وضغط التكاليف الناتج عن ارتفاع أسعار الذاكرة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "LG Electronics शेयर 90% उछला, AI ने खरीद के कारक और जोखिम बताए",
+        "excerpt": "Hankyung ने 13 मई 2026 को बताया कि LG Electronics का शेयर कम समय में 90% चढ़ा, जबकि AI विश्लेषण ने तिमाही नतीजों, नए कारोबार और जोखिमों को साथ देखा।",
+        "body": "Hankyung की 13 मई 2026 की रिपोर्ट के अनुसार, LG Electronics का शेयर कम समय में 90% चढ़ा, जिससे निवेशकों में खरीद निर्णय को लेकर रुचि बढ़ी। AI निवेश विश्लेषण टूल EpicAI Copilot ने कहा कि LG Electronics ने इस साल पहली तिमाही की earnings surprise के जरिए लाभ क्षमता में सुधार की पुष्टि की है, जबकि AI, रोबोटिक्स और डेटा सेंटर जैसे नए कारोबारों की गति शेयर के rerating का मुख्य कारण बनकर उभरी है। हालांकि शेयर कम समय में काफी बढ़ा है, इसलिए नए कारोबार की गति कितनी जल्दी वास्तविक नतीजों में बदलेगी, tariff refund का आकार और समय, वैश्विक उपभोक्ता भावना की रिकवरी, और memory price बढ़ने से लागत दबाव जैसे पहलुओं की जांच जरूरी है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Saham LG Electronics Melonjak 90%, AI Soroti Faktor Beli dan Risiko",
+        "excerpt": "Hankyung melaporkan pada 13 Mei 2026 bahwa saham LG Electronics naik 90% dalam waktu singkat, sementara AI menilai kejutan laba, bisnis baru, dan risiko utama.",
+        "body": "Menurut laporan Hankyung pada 13 Mei 2026, saham LG Electronics naik 90% dalam waktu singkat, membuat minat investor terhadap keputusan membeli meningkat. EpicAI Copilot, alat analisis investasi berbasis AI, menyebut LG Electronics telah mengonfirmasi perbaikan kekuatan laba melalui kejutan kinerja kuartal pertama tahun ini, sementara momentum bisnis baru seperti AI, robotika, dan pusat data muncul sebagai penggerak utama rerating saham. Namun, karena harga saham naik tajam dalam waktu pendek, alat tersebut menilai investor perlu memeriksa kecepatan realisasi momentum bisnis baru, besaran dan waktu pengembalian tarif, pemulihan sentimen konsumen global, serta tekanan biaya akibat kenaikan harga memori. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "5f5ad8bddc88",
+    "slug": "케미칼-제치고-쇼핑-날았다롯데-간판-계열사-11년-만에-교체-904799",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T21:41:52.524Z",
+    "updatedAt": "2026-05-13T21:41:52.524Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605133508i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605133508i",
+    "titleFingerprint": "5291f211c185f15b8c823d13a6a67b77377f8a9c",
+    "dedupKeys": [
+      "5f5ad8bddc88da86c6a0bfb88f8dc0a24a983311",
+      "5291f211c185f15b8c823d13a6a67b77377f8a9c",
+      "5df79cbd66903e0d84ada9d126373b682c6c661b"
+    ],
+    "imageUrl": "/images/articles/5f5ad8bddc88.jpg",
+    "i18n": {
+      "ko": {
+        "title": "롯데쇼핑, 백화점 실적 호조에 롯데케미칼 제치고 11년 만에 그룹 시총 1위 탈환",
+        "excerpt": "롯데쇼핑이 13일 백화점 부문 호조와 주가 상승에 힘입어 롯데케미칼을 제치고 2015년 이후 약 11년 만에 롯데그룹 시가총액 1위에 올랐다.",
+        "body": "롯데그룹의 대장주가 11년 만에 화학에서 유통으로 바뀌었다. 13일 한국거래소에 따르면 롯데쇼핑은 5거래일 연속 상승해 16만100원에 마감했고, 시가총액은 4조5290억원으로 롯데케미칼 3조6915억원을 앞섰다. 롯데쇼핑이 그룹 시총 1위를 되찾은 것은 2015년 이후 약 11년 만이다. 배경에는 방한 외국인 증가와 증시 활황에 따른 고가 소비 확대, 백화점 부문 실적 개선이 있다. 롯데쇼핑의 올 1분기 영업이익은 2529억원으로 전년보다 70.6% 늘었다. 반면 롯데케미칼은 석유화학 업황 부진으로 전성기 대비 몸값이 4분의 1 수준으로 줄었다. hankyung.com은 이번 변화를 롯데그룹 사업 전략과 산업별 흐름이 맞물린 결과로 전했다."
+      },
+      "en": {
+        "title": "Lotte Shopping Regains Group Market-Cap Lead as Chemicals Lose Ground After 11 Years",
+        "excerpt": "Lotte Shopping rose to the top market-cap position within Lotte Group on May 13, overtaking Lotte Chemical for the first time in about 11 years since 2015.",
+        "body": "Lotte Group’s leading listed affiliate has shifted from chemicals back to retail after 11 years. According to the Korea Exchange on May 13, Lotte Shopping closed at 160,100 won after rising for five straight sessions, bringing its market capitalization to 4.529 trillion won, ahead of Lotte Chemical’s 3.692 trillion won. It is the first time since 2015 that Lotte Shopping has reclaimed the group’s top market-cap position. The move reflects a rise in foreign visitors to Korea, stronger premium consumption amid a buoyant stock market, and improved department-store earnings. Lotte Shopping’s first-quarter operating profit reached 252.9 billion won, up 70.6% from a year earlier. Lotte Chemical, by contrast, has seen its value fall to about one-quarter of its peak amid a weak petrochemical cycle. hankyung.com described the change as the result of Lotte Group’s business strategy intersecting with industry trends."
+      },
+      "ja": {
+        "title": "ロッテショッピング、百貨店好調でロッテケミカル抜き11年ぶり時価総額首位",
+        "excerpt": "ロッテショッピングは5月13日、百貨店部門の好調と株価上昇を背景にロッテケミカルを抜き、2015年以来約11年ぶりにロッテグループ時価総額首位となった。",
+        "body": "ロッテグループの主力上場会社は、11年ぶりに化学から小売へ入れ替わった。韓国取引所によると、5月13日のロッテショッピング株は5営業日続伸し16万100ウォンで取引を終え、時価総額は4兆5290億ウォンとなった。ロッテケミカルの3兆6915億ウォンを上回った。ロッテショッピングがグループ時価総額首位を取り戻したのは2015年以来約11年ぶり。背景には訪韓外国人の増加、株式市場の活況による高額消費の拡大、百貨店部門の業績改善がある。1-3月期の営業利益は2529億ウォンで前年同期比70.6%増えた。一方、ロッテケミカルは石油化学市況の低迷で企業価値がピーク比約4分の1に縮小した。hankyung.comは、今回の変化をロッテグループの事業戦略と産業別の流れが重なった結果と伝えた。"
+      },
+      "zh": {
+        "title": "乐天购物凭百货业绩反超乐天化学，11年来重夺集团市值第一",
+        "excerpt": "乐天购物5月13日受百货业务改善和股价上涨推动，超过乐天化学，自2015年以来约11年来首次重回乐天集团市值第一。",
+        "body": "乐天集团的核心上市公司时隔11年从化工重新转向零售。韩国交易所数据显示，5月13日乐天购物股价连续第五个交易日上涨，收于160100韩元，市值达4.529万亿韩元，超过乐天化学的3.6915万亿韩元。这是乐天购物自2015年以来约11年来首次重夺集团市值第一。其背景包括访韩外国游客增加、股市活跃带动高端消费扩大，以及百货部门业绩改善。乐天购物今年一季度营业利润为2529亿韩元，同比增加70.6%。相比之下，受石化行业景气低迷影响，乐天化学的估值已降至高峰期约四分之一。hankyung.com称，这一变化是乐天集团业务战略与各行业走势交织的结果。"
+      },
+      "es": {
+        "title": "Lotte Shopping supera a Lotte Chemical y recupera el liderazgo bursátil tras 11 años",
+        "excerpt": "Lotte Shopping superó el 13 de mayo a Lotte Chemical en valor de mercado dentro del Grupo Lotte, apoyada por el repunte de sus acciones y el mejor desempeño de grandes almacenes.",
+        "body": "La principal filial cotizada del Grupo Lotte cambió de química a comercio minorista tras 11 años. Según la Bolsa de Corea, Lotte Shopping cerró el 13 de mayo en 160.100 wones tras cinco sesiones consecutivas al alza, con una capitalización de 4,529 billones de wones, por encima de los 3,6915 billones de Lotte Chemical. Es la primera vez desde 2015 que Lotte Shopping recupera el primer lugar del grupo por valor bursátil. El cambio se explica por el aumento de visitantes extranjeros a Corea, el mayor consumo de alta gama impulsado por un mercado bursátil fuerte y la mejora del negocio de grandes almacenes. Su beneficio operativo del primer trimestre fue de 252.900 millones de wones, un 70,6% más interanual. En contraste, Lotte Chemical ha visto caer su valor a cerca de una cuarta parte de su máximo por la debilidad petroquímica. hankyung.com lo presentó como resultado de la estrategia del grupo y las tendencias sectoriales."
+      },
+      "pt": {
+        "title": "Lotte Shopping supera Lotte Chemical e volta à liderança em valor de mercado após 11 anos",
+        "excerpt": "A Lotte Shopping ultrapassou a Lotte Chemical em 13 de maio e reassumiu a maior capitalização de mercado do Grupo Lotte pela primeira vez desde 2015.",
+        "body": "A principal empresa listada do Grupo Lotte voltou a ser do varejo, e não da química, após 11 anos. Segundo a Bolsa da Coreia, a Lotte Shopping encerrou 13 de maio a 160.100 wons, em sua quinta alta consecutiva, com valor de mercado de 4,529 trilhões de wons, acima dos 3,6915 trilhões da Lotte Chemical. Foi a primeira vez desde 2015 que a Lotte Shopping retomou a liderança em capitalização dentro do grupo. O movimento reflete o aumento de visitantes estrangeiros na Coreia, a expansão do consumo de alto padrão em meio à alta da bolsa e a melhora dos resultados das lojas de departamento. O lucro operacional do primeiro trimestre chegou a 252,9 bilhões de wons, alta anual de 70,6%. Já a Lotte Chemical viu seu valor cair para cerca de um quarto do pico, afetada pela fraqueza petroquímica. O hankyung.com relatou que a mudança combina estratégia do grupo e tendências setoriais."
+      },
+      "de": {
+        "title": "Lotte Shopping überholt Lotte Chemical und ist nach 11 Jahren wieder wertvollste Gruppentochter",
+        "excerpt": "Lotte Shopping überholte am 13. Mai Lotte Chemical bei der Marktkapitalisierung innerhalb der Lotte Group, gestützt auf Kursgewinne und bessere Kaufhauszahlen.",
+        "body": "Die führende börsennotierte Tochter der Lotte Group kommt nach 11 Jahren wieder aus dem Einzelhandel statt aus der Chemie. Nach Angaben der Korea Exchange schloss Lotte Shopping am 13. Mai nach fünf Gewinntagen in Folge bei 160.100 Won. Die Marktkapitalisierung erreichte 4,529 Billionen Won und lag damit vor Lotte Chemical mit 3,6915 Billionen Won. Erstmals seit 2015 steht Lotte Shopping damit wieder an der Spitze des Konzerns. Gründe sind mehr ausländische Besucher in Korea, höherer Premiumkonsum in einem starken Aktienmarkt und bessere Ergebnisse im Kaufhausgeschäft. Im ersten Quartal stieg der operative Gewinn auf 252,9 Milliarden Won, 70,6% mehr als ein Jahr zuvor. Lotte Chemical hingegen verlor wegen der schwachen Petrochemie etwa drei Viertel seines Spitzenwerts. hankyung.com ordnete den Wechsel als Ergebnis von Lottes Geschäftsstrategie und Branchentrends ein."
+      },
+      "fr": {
+        "title": "Lotte Shopping dépasse Lotte Chemical et redevient numéro un du groupe après 11 ans",
+        "excerpt": "Lotte Shopping a dépassé Lotte Chemical le 13 mai en capitalisation au sein du groupe Lotte, portée par la hausse de son titre et l’amélioration des grands magasins.",
+        "body": "La principale filiale cotée du groupe Lotte est repassée de la chimie à la distribution après 11 ans. Selon la Korea Exchange, Lotte Shopping a clôturé le 13 mai à 160 100 wons après cinq séances de hausse, portant sa capitalisation à 4 529 milliards de wons, devant les 3 691,5 milliards de Lotte Chemical. C’est la première fois depuis 2015 que Lotte Shopping reprend la première place du groupe. Ce changement s’appuie sur l’augmentation des visiteurs étrangers en Corée, la progression de la consommation haut de gamme liée à la vigueur boursière et l’amélioration des résultats des grands magasins. Son bénéfice opérationnel du premier trimestre a atteint 252,9 milliards de wons, en hausse de 70,6% sur un an. À l’inverse, Lotte Chemical a vu sa valeur tomber à environ un quart de son pic avec la faiblesse de la pétrochimie. hankyung.com présente ce basculement comme le résultat de la stratégie du groupe et des tendances sectorielles."
+      },
+      "ar": {
+        "title": "لوتيه شوبينغ تتجاوز لوتيه كيميكال وتستعيد صدارة القيمة السوقية بعد 11 عاما",
+        "excerpt": "صعدت لوتيه شوبينغ في 13 مايو إلى أكبر قيمة سوقية داخل مجموعة لوتيه، متجاوزة لوتيه كيميكال للمرة الأولى منذ نحو 11 عاما بدعم من أداء المتاجر الكبرى.",
+        "body": "تغيرت الشركة القيادية المدرجة في مجموعة لوتيه من الكيماويات إلى التجزئة بعد 11 عاما. وبحسب بورصة كوريا، أغلقت لوتيه شوبينغ في 13 مايو عند 160100 وون بعد خمسة أيام تداول متتالية من الصعود، وبلغت قيمتها السوقية 4.529 تريليون وون، متقدمة على لوتيه كيميكال البالغة 3.6915 تريليون وون. وهذه أول مرة منذ 2015 تستعيد فيها لوتيه شوبينغ المركز الأول داخل المجموعة. وجاء ذلك مع زيادة الزوار الأجانب إلى كوريا، واتساع الاستهلاك الفاخر بفضل نشاط سوق الأسهم، وتحسن أداء قطاع المتاجر الكبرى. وبلغ الربح التشغيلي في الربع الأول 252.9 مليار وون، بزيادة 70.6% على أساس سنوي. في المقابل، تراجعت قيمة لوتيه كيميكال إلى نحو ربع ذروتها بسبب ضعف قطاع البتروكيماويات. ونقل hankyung.com أن هذا التحول نتج عن تداخل استراتيجية المجموعة مع اتجاهات القطاعات."
+      },
+      "hi": {
+        "title": "लोट्टे शॉपिंग ने लोट्टे केमिकल को पछाड़ा, 11 साल बाद समूह में बाजार मूल्य पर शीर्ष",
+        "excerpt": "लोट्टे शॉपिंग ने 13 मई को डिपार्टमेंट स्टोर कारोबार और शेयर तेजी के सहारे लोट्टे केमिकल को पछाड़कर 2015 के बाद पहली बार समूह में बाजार पूंजीकरण का शीर्ष स्थान पाया।",
+        "body": "लोट्टे समूह की प्रमुख सूचीबद्ध कंपनी 11 साल बाद रसायन से खुदरा कारोबार की ओर बदल गई। कोरिया एक्सचेंज के अनुसार, 13 मई को लोट्टे शॉपिंग का शेयर लगातार पांचवें सत्र चढ़कर 160100 वॉन पर बंद हुआ और उसका बाजार पूंजीकरण 4.529 ट्रिलियन वॉन हो गया, जो लोट्टे केमिकल के 3.6915 ट्रिलियन वॉन से अधिक है। 2015 के बाद यह पहली बार है जब लोट्टे शॉपिंग ने समूह में पहला स्थान वापस लिया। इसके पीछे कोरिया आने वाले विदेशी पर्यटकों की बढ़ोतरी, मजबूत शेयर बाजार से ऊंचे दाम वाले उपभोग में वृद्धि और डिपार्टमेंट स्टोर कारोबार का बेहतर प्रदर्शन है। पहली तिमाही में परिचालन लाभ 252.9 अरब वॉन रहा, जो सालाना आधार पर 70.6% अधिक है। दूसरी ओर, पेट्रोकेमिकल उद्योग की कमजोरी से लोट्टे केमिकल का मूल्य अपने शिखर के करीब एक चौथाई तक घट गया। hankyung.com ने इसे समूह रणनीति और उद्योग प्रवृत्तियों के मेल का परिणाम बताया।"
+      },
+      "id": {
+        "title": "Lotte Shopping Salip Lotte Chemical, Kembali Jadi Nomor Satu Grup Setelah 11 Tahun",
+        "excerpt": "Lotte Shopping pada 13 Mei menyalip Lotte Chemical dalam kapitalisasi pasar Grup Lotte, didorong kenaikan saham dan kinerja bisnis department store yang membaik.",
+        "body": "Saham utama Grup Lotte bergeser dari kimia kembali ke ritel setelah 11 tahun. Menurut Bursa Korea, Lotte Shopping ditutup pada 13 Mei di 160.100 won setelah naik lima sesi beruntun, dengan kapitalisasi pasar 4,529 triliun won, melampaui Lotte Chemical sebesar 3,6915 triliun won. Ini pertama kalinya sejak 2015 Lotte Shopping kembali menjadi perusahaan terbesar di grup berdasarkan nilai pasar. Latar belakangnya adalah peningkatan wisatawan asing ke Korea, konsumsi barang bernilai tinggi yang menguat seiring pasar saham yang ramai, serta membaiknya kinerja department store. Laba operasional kuartal pertama Lotte Shopping mencapai 252,9 miliar won, naik 70,6% dari tahun sebelumnya. Sebaliknya, nilai Lotte Chemical menyusut menjadi sekitar seperempat dari puncaknya akibat lemahnya industri petrokimia. hankyung.com menyebut perubahan ini sebagai hasil pertemuan strategi bisnis Lotte Group dan tren industri."
+      }
+    }
+  },
+  {
+    "id": "adc84a385985",
+    "slug": "거래소-ai-자회사-페어랩스-활용한-인공지능-전환-속도-664807",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T21:40:24.576Z",
+    "updatedAt": "2026-05-13T21:40:24.576Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051342266",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051342266",
+    "titleFingerprint": "0bd0a26e7145cb5089016273f5fa3fb1e0f0d993",
+    "dedupKeys": [
+      "adc84a385985b05eb2762958a8fb6e5b7163a602",
+      "0bd0a26e7145cb5089016273f5fa3fb1e0f0d993",
+      "69e3c8d31a46bc828626c6f0b8ecba77f1ecdf58"
+    ],
+    "imageUrl": "/images/articles/adc84a385985.jpg",
+    "i18n": {
+      "ko": {
+        "title": "거래소, AI 자회사 페어랩스 앞세워 인공지능 전환 속도",
+        "excerpt": "거래소가 AI 자회사 페어랩스를 활용해 인공지능 전환에 속도를 내고 있다고 hankyung.com이 보도했다. 구체적 일정과 수치는 원문에 제시되지 않았다.",
+        "body": "거래소가 AI 자회사 페어랩스를 활용해 인공지능 전환에 속도를 내고 있다고 hankyung.com이 보도했다. 이번 내용의 핵심은 거래소가 내부 AI 역량을 강화하는 과정에서 페어랩스를 전환의 실행 축으로 삼고 있다는 점이다. 원문에서 공개된 정보는 거래소, AI 자회사 페어랩스, 인공지능 전환 가속이라는 사실에 한정된다. 구체적인 투자 규모, 적용 부문, 일정, 성과 수치 등은 제시되지 않았다. 향후 관련 세부 계획이 공개될 경우 거래소의 업무 자동화와 데이터 활용 전략을 가늠할 근거가 될 수 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Exchange Speeds AI Shift With Subsidiary Fair Labs at the Center",
+        "excerpt": "An exchange is accelerating its artificial intelligence transition by using its AI subsidiary Fair Labs, hankyung.com reported. No detailed timeline or figures were provided.",
+        "body": "An exchange is accelerating its artificial intelligence transition by using its AI subsidiary Fair Labs, according to hankyung.com. The key point is that the exchange is placing Fair Labs at the center of execution as it strengthens internal AI capabilities. The information available in the original report is limited to the exchange, its AI subsidiary Fair Labs, and the faster push toward AI transformation. Specific investment amounts, business areas, schedules, or performance figures were not provided. If more details are disclosed later, they may help assess the exchange’s automation and data-use strategy. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "取引所、AI子会社フェアラボス活用で人工知能転換を加速",
+        "excerpt": "取引所がAI子会社フェアラボスを活用し、人工知能への転換を加速しているとhankyung.comが報じた。具体的な日程や数値は示されていない。",
+        "body": "取引所がAI子会社フェアラボスを活用し、人工知能への転換を加速しているとhankyung.comが報じた。今回の要点は、取引所が社内のAI能力を強化する過程で、フェアラボスを転換の実行軸に据えていることだ。原文で確認できる情報は、取引所、AI子会社フェアラボス、人工知能転換の加速という事実に限られる。投資規模、適用分野、日程、成果指標などの詳細は示されていない。今後、関連計画が公開されれば、取引所の業務自動化やデータ活用戦略を判断する材料になり得る。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "交易所借AI子公司Fair Labs加快人工智能转型步伐",
+        "excerpt": "据hankyung.com报道，交易所正利用AI子公司Fair Labs加快人工智能转型。原文未披露具体时间表、投资规模或相关数据。",
+        "body": "据hankyung.com报道，交易所正利用AI子公司Fair Labs加快人工智能转型。此次信息的核心在于，交易所在强化内部AI能力的过程中，将Fair Labs作为推进转型的执行主体。原文披露的信息仅限于交易所、AI子公司Fair Labs以及人工智能转型加速这一事实。具体投资规模、应用领域、推进时间表和成果数据尚未给出。若后续公布更多细节，将有助于外界判断交易所在业务自动化和数据利用方面的战略方向。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Bolsa acelera su giro a la IA con su filial Fair Labs como eje",
+        "excerpt": "Una bolsa está acelerando su transición a la inteligencia artificial mediante su filial de IA Fair Labs, informó hankyung.com. No se detallaron plazos ni cifras.",
+        "body": "Una bolsa está acelerando su transición a la inteligencia artificial mediante su filial de IA Fair Labs, según informó hankyung.com. El punto central es que la bolsa está usando Fair Labs como eje de ejecución mientras refuerza sus capacidades internas de IA. La información disponible en el texto original se limita a la bolsa, la filial de IA Fair Labs y la aceleración de la transformación hacia inteligencia artificial. No se ofrecieron detalles sobre inversión, áreas de aplicación, calendario o métricas de desempeño. Si se publican nuevos datos, podrán ayudar a evaluar su estrategia de automatización y uso de datos. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Bolsa acelera virada para IA com subsidiária Fair Labs no centro",
+        "excerpt": "Uma bolsa está acelerando sua transição para inteligência artificial usando a subsidiária de IA Fair Labs, informou hankyung.com. O texto não trouxe prazos ou números.",
+        "body": "Uma bolsa está acelerando sua transição para inteligência artificial usando a subsidiária de IA Fair Labs, segundo o hankyung.com. O ponto central é que a bolsa coloca a Fair Labs como eixo de execução enquanto fortalece suas capacidades internas de IA. As informações disponíveis no texto original se limitam à bolsa, à subsidiária de IA Fair Labs e à aceleração da transformação em inteligência artificial. Não foram apresentados valores de investimento, áreas de aplicação, cronograma ou indicadores de desempenho. Caso novos detalhes sejam divulgados, eles poderão ajudar a avaliar a estratégia de automação e uso de dados da bolsa. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Börse beschleunigt KI-Wandel mit Tochter Fair Labs als Kern",
+        "excerpt": "Eine Börse beschleunigt ihre Umstellung auf künstliche Intelligenz mithilfe ihrer KI-Tochter Fair Labs, berichtete hankyung.com. Konkrete Zeitpläne oder Zahlen wurden nicht genannt.",
+        "body": "Eine Börse beschleunigt ihre Umstellung auf künstliche Intelligenz mithilfe ihrer KI-Tochter Fair Labs, wie hankyung.com berichtete. Im Mittelpunkt steht, dass die Börse Fair Labs als operative Achse nutzt, während sie interne KI-Kompetenzen stärkt. Die im Original verfügbaren Informationen beschränken sich auf die Börse, die KI-Tochter Fair Labs und die beschleunigte KI-Transformation. Angaben zu Investitionsvolumen, Einsatzbereichen, Zeitplan oder Leistungskennzahlen wurden nicht gemacht. Sollten später weitere Details veröffentlicht werden, könnten sie Hinweise auf die Automatisierungs- und Datennutzungsstrategie der Börse geben. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Une Bourse accélère sa transition IA avec sa filiale Fair Labs",
+        "excerpt": "Une Bourse accélère sa transition vers l’intelligence artificielle en s’appuyant sur sa filiale IA Fair Labs, a rapporté hankyung.com. Aucun calendrier ni chiffre précis n’a été fourni.",
+        "body": "Une Bourse accélère sa transition vers l’intelligence artificielle en s’appuyant sur sa filiale IA Fair Labs, selon hankyung.com. Le point central est que cette Bourse place Fair Labs au cœur de l’exécution alors qu’elle renforce ses capacités internes en IA. Les informations disponibles dans le texte d’origine se limitent à la Bourse, à la filiale IA Fair Labs et à l’accélération de la transformation vers l’intelligence artificielle. Aucun montant d’investissement, domaine d’application, calendrier ou indicateur de performance n’a été fourni. De futurs détails pourraient aider à évaluer sa stratégie d’automatisation et d’usage des données. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "البورصة تسرع تحول الذكاء الاصطناعي عبر فير لابس التابعة",
+        "excerpt": "تسرع بورصة تحولها نحو الذكاء الاصطناعي عبر شركتها التابعة فير لابس، وفق ما ذكره hankyung.com. ولم ترد في النص تفاصيل عن الجداول الزمنية أو الأرقام.",
+        "body": "تسرع بورصة تحولها نحو الذكاء الاصطناعي عبر شركتها التابعة المتخصصة في الذكاء الاصطناعي فير لابس، بحسب ما ذكره hankyung.com. وتتمثل النقطة الأساسية في أن البورصة تجعل فير لابس محور التنفيذ أثناء تعزيز قدراتها الداخلية في الذكاء الاصطناعي. وتقتصر المعلومات المتاحة في النص الأصلي على البورصة، وشركة فير لابس التابعة، وتسريع التحول إلى الذكاء الاصطناعي. ولم تُذكر تفاصيل عن حجم الاستثمار أو مجالات التطبيق أو الجدول الزمني أو مؤشرات الأداء. وإذا نُشرت تفاصيل لاحقة، فقد تساعد في تقييم استراتيجية البورصة للأتمتة واستخدام البيانات. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "एक्सचेंज ने AI बदलाव तेज किया, सहायक Fair Labs बनी केंद्र में",
+        "excerpt": "hankyung.com के अनुसार, एक एक्सचेंज अपनी AI सहायक Fair Labs के जरिए कृत्रिम बुद्धिमत्ता परिवर्तन को तेज कर रहा है। मूल जानकारी में समयसीमा या आंकड़े नहीं दिए गए।",
+        "body": "hankyung.com के अनुसार, एक एक्सचेंज अपनी AI सहायक Fair Labs का उपयोग कर कृत्रिम बुद्धिमत्ता परिवर्तन को तेज कर रहा है। मुख्य बात यह है कि एक्सचेंज आंतरिक AI क्षमता मजबूत करते हुए Fair Labs को इस बदलाव के क्रियान्वयन का केंद्र बना रहा है। मूल रिपोर्ट में उपलब्ध जानकारी एक्सचेंज, AI सहायक Fair Labs और कृत्रिम बुद्धिमत्ता परिवर्तन की गति बढ़ाने तक सीमित है। निवेश राशि, लागू क्षेत्रों, समयसीमा या प्रदर्शन से जुड़े आंकड़े नहीं दिए गए। यदि आगे अधिक विवरण सामने आते हैं, तो वे एक्सचेंज की स्वचालन और डेटा उपयोग रणनीति को समझने में मदद कर सकते हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Bursa Percepat Transisi AI Lewat Anak Usaha Fair Labs",
+        "excerpt": "Sebuah bursa mempercepat transisi kecerdasan buatan dengan memanfaatkan anak usaha AI Fair Labs, menurut hankyung.com. Rincian jadwal dan angka tidak disebutkan.",
+        "body": "Sebuah bursa mempercepat transisi kecerdasan buatan dengan memanfaatkan anak usaha AI Fair Labs, menurut hankyung.com. Inti informasinya adalah bahwa bursa tersebut menempatkan Fair Labs sebagai poros pelaksanaan saat memperkuat kemampuan AI internal. Informasi yang tersedia dalam teks asli terbatas pada bursa, anak usaha AI Fair Labs, dan percepatan transformasi kecerdasan buatan. Tidak ada rincian mengenai nilai investasi, area penerapan, jadwal, atau angka kinerja. Jika rincian tambahan diumumkan kemudian, hal itu dapat membantu menilai strategi otomatisasi dan pemanfaatan data bursa. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "8464e40061ab",
     "slug": "한-달-만에-220억-몰렸다삼전닉스-앞세운-공모펀드도-들썩-603711",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Chung Yong-jin Jual Rumah Mewah Hannam-dong Sebelum Pajak Lebih Tinggi",
         "excerpt": "Ketua Grup Shinsegae Chung Yong-jin menjual pada tanggal 6 rumah Hannam-dong yang dibeli dari ibunya pada 2018 seharga 16,1 miliar won kepada Booyoung Housing senilai 25,5 miliar won.",
         "body": "Ketua Grup Shinsegae Chung Yong-jin dilaporkan menjual rumah tapak mewah di Hannam-dong, Seoul, sebelum berakhirnya penangguhan pajak capital gain yang lebih berat bagi pemilik banyak rumah. Menurut teks asli, Chung membeli rumah itu pada 2018 dari ibunya, Ketua Grup Shinsegae Lee Myung-hee, seharga 16,1 miliar won, lalu menjualnya pada tanggal 6 kepada Booyoung Housing seharga 25,5 miliar won. Penjualan terjadi tiga hari sebelum batas waktu tanggal 9. Laporan tersebut menyebut transaksi ini mengurangi beban pajak sekitar separuh dibandingkan nilai pajak dengan pengenaan tambahan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "46bc70ad9e36",
-    "slug": "속보-김민석-총리-삼성전자-어떤-경우에도-파업하지-않게-노사대화-지원-958812",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T03:24:07.470Z",
-    "updatedAt": "2026-05-13T03:24:07.470Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12045928",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12045928",
-    "titleFingerprint": "6c786834a9c92b33df05140f829a808a3dd068cf",
-    "dedupKeys": [
-      "46bc70ad9e36219c4aab577585d960e70659146b",
-      "6c786834a9c92b33df05140f829a808a3dd068cf",
-      "99953d31abd023f97bf81bb98b02914843246376"
-    ],
-    "imageUrl": "/images/articles/46bc70ad9e36.png",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 파업 방지 노사대화 지원, 김민석 총리 긴급 지시",
-        "excerpt": "김민석 국무총리는 13일 긴급 관계장관회의에서 삼성전자가 어떤 경우에도 파업으로 이어지지 않도록 노사 간 대화가 지속되게 적극 지원하라고 관계 부처에 지시했다.",
-        "body": "김민석 국무총리는 13일 긴급 관계장관회의를 주재하며 삼성전자 노사 문제가 파업으로 이어지지 않도록 정부 차원의 대화 지원을 주문했다. 김 총리는 관계 부처에 노사 간 대화가 지속적으로 이루어지도록 적극 지원해야 한다고 밝혔다. 이번 발언의 핵심 시점은 13일이며, 대상은 삼성전자와 관계 부처의 노사 대응이다. 파업 가능성이 제기되는 상황에서 정부는 대화 유지에 초점을 맞추겠다는 입장을 분명히 한 것이다. 향후 관건은 노사 협의가 계속 이어지는지와 관계 부처의 지원이 실제 대화 흐름을 뒷받침하는지다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Samsung Electronics strike prevention: Prime Minister Kim orders labor talks support",
-        "excerpt": "Prime Minister Kim Min-seok told ministries on the 13th to actively support continued labor-management dialogue so Samsung Electronics does not move toward a strike under any circumstances.",
-        "body": "Prime Minister Kim Min-seok chaired an emergency meeting of related ministers on the 13th and called for government support for dialogue so Samsung Electronics’ labor-management issue does not lead to a strike. Kim said the relevant ministries must actively help ensure that talks between labor and management continue. The key timing in the report is the 13th, and the focus is Samsung Electronics and the ministries’ labor response. With the risk of a strike being raised, the government made clear that maintaining dialogue is its priority. The next point to watch is whether labor-management discussions continue and whether ministry support helps sustain that process. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "サムスン電子のスト回避へ、金民錫首相が労使対話支援を指示",
-        "excerpt": "金民錫首相は13日の緊急関係閣僚会議で、サムスン電子がいかなる場合もストに至らないよう、労使対話の継続を積極支援するよう関係省庁に指示した。",
-        "body": "金民錫首相は13日、緊急関係閣僚会議を主宰し、サムスン電子の労使問題がストにつながらないよう、政府レベルで対話を支援するよう求めた。金首相は関係省庁に対し、労使間の対話が継続的に行われるよう積極的に支援すべきだと述べた。報道の主要な時点は13日で、対象はサムスン電子と関係省庁の労使対応だ。ストの可能性が取り沙汰される中、政府は対話の維持に重点を置く姿勢を明確にした。今後は労使協議が続くか、関係省庁の支援が対話の流れを支えるかが焦点となる。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "三星电子罢工防范升级，金民锡总理要求支持劳资对话",
-        "excerpt": "金民锡国务总理13日在紧急相关部长会议上要求有关部门积极支持劳资对话持续进行，确保三星电子在任何情况下都不走向罢工。",
-        "body": "金民锡国务总理13日主持紧急相关部长会议，要求政府层面支持对话，避免三星电子劳资问题发展为罢工。金总理向有关部门表示，应积极支持劳资双方持续进行对话。该报道的关键时间是13日，涉及对象是三星电子以及有关部门的劳资应对。面对可能出现罢工的情况，政府明确将维持对话作为重点。接下来需要关注的是劳资协商能否继续进行，以及有关部门的支持能否实际支撑对话进程。来源：引用mk.co.kr。"
-      },
-      "es": {
-        "title": "Samsung Electronics y la huelga: Kim Min-seok ordena apoyar el diálogo laboral",
-        "excerpt": "El primer ministro Kim Min-seok pidió el día 13 a los ministerios apoyar activamente el diálogo entre empresa y trabajadores para que Samsung Electronics no llegue a una huelga bajo ninguna circunstancia.",
-        "body": "El primer ministro Kim Min-seok presidió el día 13 una reunión urgente de ministros relacionados y pidió apoyo gubernamental al diálogo para que el conflicto laboral en Samsung Electronics no derive en una huelga. Kim señaló que los ministerios competentes deben respaldar activamente la continuidad de las conversaciones entre la empresa y los trabajadores. El dato temporal central del informe es el día 13, y el foco está en Samsung Electronics y la respuesta laboral de las autoridades. Ante la posibilidad de una huelga, el Gobierno dejó claro que su prioridad es mantener el diálogo. Ahora la atención estará en si las conversaciones continúan y si el apoyo ministerial sostiene ese proceso. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Samsung Electronics: premiê Kim manda apoiar diálogo para evitar greve",
-        "excerpt": "O primeiro-ministro Kim Min-seok pediu no dia 13 que ministérios apoiem ativamente o diálogo entre empresa e trabalhadores para que a Samsung Electronics não chegue a uma greve em nenhuma hipótese.",
-        "body": "O primeiro-ministro Kim Min-seok presidiu no dia 13 uma reunião emergencial de ministros relacionados e pediu apoio do governo ao diálogo para que a questão trabalhista da Samsung Electronics não resulte em greve. Kim afirmou que os ministérios competentes devem ajudar ativamente para que as conversas entre trabalhadores e direção continuem. O principal marco temporal da notícia é o dia 13, e o foco é a Samsung Electronics e a resposta trabalhista das autoridades. Diante da possibilidade de greve, o governo deixou claro que manter o diálogo é a prioridade. O ponto a observar agora é se as negociações continuarão e se o apoio ministerial sustentará esse processo. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Samsung Electronics: Premier Kim fordert Dialoghilfe zur Streikvermeidung",
-        "excerpt": "Premierminister Kim Min-seok wies die zuständigen Ministerien am 13. an, den fortgesetzten Dialog zwischen Arbeitnehmern und Management aktiv zu unterstützen, damit Samsung Electronics unter keinen Umständen in einen Streik gerät.",
-        "body": "Premierminister Kim Min-seok leitete am 13. eine Dringlichkeitssitzung zuständiger Minister und forderte staatliche Unterstützung für Gespräche, damit die Arbeitsfrage bei Samsung Electronics nicht zu einem Streik führt. Kim sagte, die zuständigen Ministerien müssten aktiv dafür sorgen, dass der Dialog zwischen Arbeitnehmern und Management fortgesetzt wird. Der zentrale Zeitpunkt der Meldung ist der 13.; im Mittelpunkt stehen Samsung Electronics und die arbeitsbezogene Reaktion der Ministerien. Angesichts einer möglichen Streikentwicklung machte die Regierung klar, dass sie auf die Aufrechterhaltung des Dialogs setzt. Entscheidend wird nun sein, ob die Gespräche weitergehen und ob die ministerielle Unterstützung diesen Prozess trägt. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Samsung Electronics: Kim Min-seok demande un soutien au dialogue anti-grève",
-        "excerpt": "Le Premier ministre Kim Min-seok a demandé le 13 aux ministères de soutenir activement le dialogue social afin que Samsung Electronics n’aille vers une grève en aucune circonstance.",
-        "body": "Le Premier ministre Kim Min-seok a présidé le 13 une réunion d’urgence des ministres concernés et a demandé un soutien gouvernemental au dialogue afin que le dossier social de Samsung Electronics ne débouche pas sur une grève. Kim a déclaré que les ministères compétents devaient aider activement à maintenir les échanges entre les salariés et la direction. Le repère temporel central est le 13, et le sujet porte sur Samsung Electronics ainsi que la réponse sociale des autorités. Face à la possibilité d’une grève, le gouvernement a clairement mis l’accent sur la poursuite du dialogue. La suite dépendra de la continuité des discussions et de la capacité du soutien ministériel à accompagner ce processus. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "سامسونغ إلكترونيكس وتفادي الإضراب: كيم مين سوك يوجه بدعم الحوار العمالي",
-        "excerpt": "طلب رئيس الوزراء كيم مين سوك في 13 من الوزارات المعنية دعم استمرار الحوار بين العمال والإدارة بنشاط، حتى لا تصل سامسونغ إلكترونيكس إلى الإضراب تحت أي ظرف.",
-        "body": "ترأس رئيس الوزراء كيم مين سوك في 13 اجتماعا طارئا للوزراء المعنيين، ودعا إلى دعم حكومي للحوار كي لا تتحول قضية العمل في سامسونغ إلكترونيكس إلى إضراب. وقال كيم إن على الوزارات المعنية أن تدعم بنشاط استمرار الحوار بين العمال والإدارة. التوقيت الأساسي في الخبر هو يوم 13، والموضوع يتركز على سامسونغ إلكترونيكس واستجابة الجهات الحكومية لقضية العمل. ومع طرح احتمال الإضراب، أوضحت الحكومة أن الحفاظ على الحوار هو محور موقفها. وستتركز المتابعة المقبلة على ما إذا كانت المفاوضات بين الطرفين ستستمر، وما إذا كان دعم الوزارات سيسند مسار الحوار فعليا. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "Samsung Electronics में हड़ताल रोकने को किम मिन-सोक ने वार्ता समर्थन का निर्देश दिया",
-        "excerpt": "प्रधानमंत्री किम मिन-सोक ने 13 तारीख को संबंधित मंत्रालयों से कहा कि Samsung Electronics में किसी भी स्थिति में हड़ताल न हो, इसके लिए श्रम-प्रबंधन वार्ता जारी रखने में सक्रिय समर्थन दिया जाए।",
-        "body": "प्रधानमंत्री किम मिन-सोक ने 13 तारीख को संबंधित मंत्रियों की आपात बैठक की अध्यक्षता की और कहा कि Samsung Electronics का श्रम-प्रबंधन मुद्दा हड़ताल तक न पहुंचे, इसके लिए सरकार संवाद का समर्थन करे। किम ने संबंधित मंत्रालयों से कहा कि श्रमिकों और प्रबंधन के बीच बातचीत लगातार जारी रहे, इसके लिए सक्रिय सहायता दी जानी चाहिए। रिपोर्ट का मुख्य समय 13 तारीख है और केंद्र में Samsung Electronics तथा मंत्रालयों की श्रम संबंधी प्रतिक्रिया है। हड़ताल की संभावना उठने की स्थिति में सरकार ने स्पष्ट किया कि उसका जोर संवाद बनाए रखने पर है। आगे ध्यान इस बात पर रहेगा कि वार्ता जारी रहती है या नहीं और मंत्रालयों का समर्थन इस प्रक्रिया को कितना सहारा देता है। स्रोत: mk.co.kr से उद्धृत."
-      },
-      "id": {
-        "title": "Samsung Electronics cegah mogok, PM Kim minta dukungan dialog pekerja-manajemen",
-        "excerpt": "Perdana Menteri Kim Min-seok pada tanggal 13 meminta kementerian terkait aktif mendukung dialog pekerja-manajemen agar Samsung Electronics tidak berujung pada mogok dalam keadaan apa pun.",
-        "body": "Perdana Menteri Kim Min-seok memimpin rapat darurat para menteri terkait pada tanggal 13 dan meminta dukungan pemerintah terhadap dialog agar persoalan ketenagakerjaan Samsung Electronics tidak berujung pada mogok. Kim menyatakan kementerian terkait harus aktif membantu agar pembicaraan antara pekerja dan manajemen terus berlangsung. Titik waktu utama laporan ini adalah tanggal 13, dengan fokus pada Samsung Electronics dan respons ketenagakerjaan kementerian. Di tengah kemungkinan mogok, pemerintah menegaskan prioritasnya adalah menjaga dialog. Ke depan, perhatian tertuju pada apakah perundingan pekerja-manajemen berlanjut dan apakah dukungan kementerian benar-benar menopang proses tersebut. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "b57f11dec477",
-    "slug": "수산비나모터-베트남-2026-골든-드래곤-어워즈-수상-933693",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T03:23:01.410Z",
-    "updatedAt": "2026-05-13T03:23:01.410Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12044835",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12044835",
-    "titleFingerprint": "825d11d85bb7962c87efc100eb639a1f2121b255",
-    "dedupKeys": [
-      "b57f11dec4776d88b3931c8a842457301b07a9e0",
-      "825d11d85bb7962c87efc100eb639a1f2121b255",
-      "f93bd42b39afde4f8ca545fa9c58714e07035c7c"
-    ],
-    "imageUrl": "/images/articles/b57f11dec477.jpg",
-    "i18n": {
-      "ko": {
-        "title": "수산비나모터, 베트남 2026 골든 드래곤 어워즈 TOP10 성장기업 수상",
-        "excerpt": "수산그룹의 베트남 계열사 수산비나모터가 13일 베트남 대표 외국인투자기업 시상식인 2026 골든 드래곤 어워즈에서 인상적 성장 기업 TOP10에 선정됐다.",
-        "body": "수산그룹의 베트남 계열사인 수산비나모터가 13일 베트남의 대표 외국인투자기업 시상식인 ‘2026 골든 드래곤 어워즈’에서 ‘2025-2026 베트남 내 인상적 성장 기업 TOP10’에 선정됐다. 이번 수상은 베트남에서 활동하는 외국인투자기업을 대상으로 한 시상에서 이뤄졌다는 점에서 의미가 있다. 수산비나모터는 수산그룹의 현지 계열사로, 이번 선정은 베트남 사업에서의 성장성을 인정받은 사례로 해석된다. 향후 베트남 시장 내 기업 인지도와 대외 신뢰도 제고에 긍정적 영향을 줄 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Susan Vina Motor Wins Top 10 Growth Honor at Vietnam Golden Dragon Awards 2026",
-        "excerpt": "Susan Vina Motor, a Vietnam affiliate of Susan Group, was named among the Top 10 impressive growth companies at the 2026 Golden Dragon Awards on the 13th.",
-        "body": "Susan Vina Motor, the Vietnam affiliate of Susan Group, was selected on the 13th as one of the “Top 10 Impressive Growth Companies in Vietnam 2025-2026” at the 2026 Golden Dragon Awards, a major awards event for foreign-invested enterprises in Vietnam. The recognition is notable because it came from an awards program focused on foreign-invested companies operating in the country. As Susan Group’s local affiliate, Susan Vina Motor’s selection reflects recognition of its growth in the Vietnamese market. The award may help strengthen the company’s visibility and external credibility in Vietnam. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "スサンビナモーター、ベトナム2026ゴールデンドラゴン賞で成長企業TOP10に選出",
-        "excerpt": "スサングループのベトナム系列会社スサンビナモーターが13日、2026ゴールデンドラゴン賞で印象的な成長企業TOP10に選ばれた。",
-        "body": "スサングループのベトナム系列会社であるスサンビナモーターは13日、ベトナムを代表する外国投資企業向け表彰式「2026ゴールデンドラゴンアワード」で、「2025-2026年ベトナムにおける印象的な成長企業TOP10」に選定された。今回の受賞は、ベトナムで活動する外国投資企業を対象とした表彰である点で意味がある。スサンビナモーターはスサングループの現地系列会社であり、今回の選定はベトナム事業での成長性が認められた事例といえる。今後、同市場での企業認知度と対外的な信頼度向上につながる可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "水山Vina Motor获越南2026金龙奖成长企业TOP10荣誉",
-        "excerpt": "水山集团越南子公司水山Vina Motor于13日在越南代表性外资企业评奖2026金龙奖中入选印象成长企业TOP10。",
-        "body": "水山集团的越南子公司水山Vina Motor于13日在越南代表性外商投资企业颁奖活动“2026金龙奖”中，入选“2025-2026年越南令人瞩目成长企业TOP10”。此次获奖的意义在于，该奖项面向在越南开展业务的外商投资企业。水山Vina Motor作为水山集团的当地子公司，此次入选可被视为其在越南业务成长性获得认可的案例。未来，这一荣誉可能有助于提升其在越南市场的企业知名度和外部信任度。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Susan Vina Motor gana honor Top 10 de crecimiento en Golden Dragon Awards 2026 de Vietnam",
-        "excerpt": "Susan Vina Motor, filial vietnamita de Susan Group, fue elegida el día 13 entre las Top 10 empresas de crecimiento destacado en los Golden Dragon Awards 2026.",
-        "body": "Susan Vina Motor, filial vietnamita de Susan Group, fue seleccionada el día 13 como una de las “Top 10 empresas de crecimiento destacado en Vietnam 2025-2026” en los Golden Dragon Awards 2026, una ceremonia representativa para empresas con inversión extranjera en Vietnam. El reconocimiento es relevante porque procede de un premio dirigido a compañías extranjeras que operan en el país. Como filial local de Susan Group, la selección de Susan Vina Motor refleja el reconocimiento a su crecimiento en el mercado vietnamita. El premio puede contribuir a mejorar su visibilidad corporativa y credibilidad externa en Vietnam. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Susan Vina Motor recebe Top 10 de crescimento no Golden Dragon Awards 2026 do Vietnã",
-        "excerpt": "A Susan Vina Motor, afiliada vietnamita do Susan Group, foi escolhida no dia 13 entre as Top 10 empresas de crescimento marcante no Golden Dragon Awards 2026.",
-        "body": "A Susan Vina Motor, afiliada vietnamita do Susan Group, foi selecionada no dia 13 como uma das “Top 10 empresas de crescimento impressionante no Vietnã 2025-2026” no Golden Dragon Awards 2026, premiação representativa para empresas de investimento estrangeiro no Vietnã. O reconhecimento é significativo por ocorrer em uma premiação voltada a companhias estrangeiras que atuam no país. Como afiliada local do Susan Group, a escolha da Susan Vina Motor indica reconhecimento de seu crescimento nos negócios vietnamitas. O prêmio pode ajudar a elevar sua visibilidade corporativa e credibilidade externa no mercado do Vietnã. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Susan Vina Motor erhält Top-10-Wachstumsauszeichnung bei Vietnams Golden Dragon Awards 2026",
-        "excerpt": "Susan Vina Motor, die Vietnam-Tochter der Susan Group, wurde am 13. bei den Golden Dragon Awards 2026 als eines der Top-10-Wachstumsunternehmen ausgezeichnet.",
-        "body": "Susan Vina Motor, die Vietnam-Tochter der Susan Group, wurde am 13. bei den „Golden Dragon Awards 2026“, einer wichtigen Auszeichnung für ausländisch investierte Unternehmen in Vietnam, als eines der „Top 10 beeindruckenden Wachstumsunternehmen in Vietnam 2025-2026“ ausgewählt. Die Auszeichnung ist bedeutsam, weil sie sich an ausländisch investierte Unternehmen richtet, die in Vietnam tätig sind. Als lokale Tochter der Susan Group steht die Auswahl von Susan Vina Motor für die Anerkennung des Wachstums im Vietnam-Geschäft. Der Preis kann die Bekanntheit des Unternehmens und das externe Vertrauen im vietnamesischen Markt stärken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Susan Vina Motor distinguée Top 10 croissance aux Golden Dragon Awards 2026 du Vietnam",
-        "excerpt": "Susan Vina Motor, filiale vietnamienne de Susan Group, a été nommée le 13 parmi les Top 10 entreprises à croissance remarquable aux Golden Dragon Awards 2026.",
-        "body": "Susan Vina Motor, filiale vietnamienne de Susan Group, a été sélectionnée le 13 parmi les “Top 10 entreprises à croissance remarquable au Vietnam 2025-2026” lors des Golden Dragon Awards 2026, une cérémonie majeure dédiée aux entreprises à investissement étranger au Vietnam. Cette distinction est notable car elle provient d’un prix visant les sociétés étrangères actives dans le pays. En tant que filiale locale de Susan Group, la sélection de Susan Vina Motor traduit la reconnaissance de sa croissance sur le marché vietnamien. Elle pourrait contribuer à renforcer sa visibilité et sa crédibilité externe au Vietnam. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سوسان فينا موتور تفوز بتكريم أفضل 10 شركات نموا في جوائز التنين الذهبي 2026 بفيتنام",
-        "excerpt": "اختيرت سوسان فينا موتور، التابعة الفيتنامية لمجموعة سوسان، يوم 13 ضمن أفضل 10 شركات ذات نمو لافت في جوائز التنين الذهبي 2026.",
-        "body": "اختيرت سوسان فينا موتور، التابعة الفيتنامية لمجموعة سوسان، يوم 13 ضمن “أفضل 10 شركات ذات نمو لافت في فيتنام 2025-2026” في جوائز التنين الذهبي 2026، وهي فعالية بارزة لتكريم الشركات ذات الاستثمار الأجنبي في فيتنام. وتكتسب الجائزة أهميتها لأنها موجهة إلى الشركات الأجنبية العاملة في البلاد. وبصفتها تابعة محلية لمجموعة سوسان، يعكس اختيار سوسان فينا موتور اعترافا بنمو أعمالها في السوق الفيتنامية. وقد يسهم هذا التكريم في تعزيز حضور الشركة وثقتها الخارجية داخل فيتنام. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Susan Vina Motor को वियतनाम Golden Dragon Awards 2026 में Top 10 Growth सम्मान",
-        "excerpt": "Susan Group की वियतनाम इकाई Susan Vina Motor को 13 तारीख को Golden Dragon Awards 2026 में प्रभावशाली वृद्धि वाली Top 10 कंपनियों में चुना गया।",
-        "body": "Susan Group की वियतनाम सहयोगी कंपनी Susan Vina Motor को 13 तारीख को वियतनाम के प्रमुख विदेशी निवेश कंपनियों के पुरस्कार समारोह “2026 Golden Dragon Awards” में “2025-2026 वियतनाम की प्रभावशाली वृद्धि वाली Top 10 कंपनियों” में चुना गया। यह सम्मान इसलिए उल्लेखनीय है क्योंकि यह वियतनाम में काम कर रही विदेशी निवेश कंपनियों को दिया जाता है। Susan Vina Motor, Susan Group की स्थानीय सहयोगी कंपनी है और यह चयन वियतनाम कारोबार में उसकी वृद्धि को मान्यता मिलने का उदाहरण है। इससे वियतनाम बाजार में कंपनी की पहचान और बाहरी भरोसे को बढ़ाने में मदद मिल सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Susan Vina Motor Raih Top 10 Pertumbuhan di Golden Dragon Awards 2026 Vietnam",
-        "excerpt": "Susan Vina Motor, afiliasi Susan Group di Vietnam, pada tanggal 13 terpilih sebagai Top 10 perusahaan dengan pertumbuhan impresif di Golden Dragon Awards 2026.",
-        "body": "Susan Vina Motor, afiliasi Susan Group di Vietnam, pada tanggal 13 terpilih sebagai salah satu “Top 10 Perusahaan dengan Pertumbuhan Impresif di Vietnam 2025-2026” dalam Golden Dragon Awards 2026, ajang penghargaan utama bagi perusahaan investasi asing di Vietnam. Penghargaan ini bermakna karena diberikan dalam acara yang menilai perusahaan asing yang beroperasi di negara tersebut. Sebagai afiliasi lokal Susan Group, pemilihan Susan Vina Motor menunjukkan pengakuan atas pertumbuhan bisnisnya di Vietnam. Penghargaan ini dapat membantu meningkatkan pengenalan perusahaan dan kepercayaan eksternal di pasar Vietnam. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d53594c7e12a",
-    "slug": "우수벤처-코스닥-남아달라-벤처기업협회-등-코스닥시장-잔류-호소문-발표-266834",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T03:21:59.795Z",
-    "updatedAt": "2026-05-13T03:21:59.795Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12045992",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12045992",
-    "titleFingerprint": "7f4747b4ff50eac101e8905d9cc4cd50bd66ca64",
-    "dedupKeys": [
-      "d53594c7e12a7985f2fd1b6aa1eef620d20ef78a",
-      "7f4747b4ff50eac101e8905d9cc4cd50bd66ca64",
-      "934d87c272fd60b4155986974f526eb460e76624"
-    ],
-    "imageUrl": "/images/articles/d53594c7e12a.png",
-    "i18n": {
-      "ko": {
-        "title": "코스닥 잔류 호소 나선 벤처단체들, 우수 벤처기업 이탈 우려 부각",
-        "excerpt": "벤처기업협회·코스닥협회·한국벤처캐피탈협회가 13일 코스닥 선도기업의 시장 이탈을 우려하며 우수 벤처기업의 코스닥 잔류를 호소했다.",
-        "body": "벤처기업협회·코스닥협회·한국벤처캐피탈협회 등 벤처기업 관련 협단체들은 13일 우수 벤처기업들이 코스닥시장에 남아달라는 호소문을 발표했다. 이들은 코스닥 선도기업의 이탈 가능성에 우려를 표명하며, 코스닥시장이 벤처기업 성장과 자금 조달의 주요 기반이라는 점을 강조했다. 협단체들은 기관투자자 확대와 규제 차등화 등 시장 환경 개선을 위한 노력이 필요하다고 밝혔다. 이번 호소문은 우수 벤처기업의 잔류가 코스닥시장 신뢰와 성장성 유지에 중요하다는 메시지로 풀이된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Venture Groups Urge Leading Firms to Stay on KOSDAQ Amid Exit Concerns",
-        "excerpt": "The Korea Venture Business Association, KOSDAQ Association and venture capital group on May 13 urged top venture firms to remain on KOSDAQ, citing concerns over departures.",
-        "body": "Venture-related organizations, including the Korea Venture Business Association, the KOSDAQ Association and the Korea Venture Capital Association, issued an appeal on May 13 urging strong venture companies to remain listed on the KOSDAQ market. The groups expressed concern that leading KOSDAQ companies could leave the market, while stressing that KOSDAQ has served as a key base for venture company growth and fundraising. They said efforts are needed to improve market conditions, including expanding institutional investors and differentiating regulations. The appeal underscores that retaining strong venture firms is important for maintaining trust and growth potential in the KOSDAQ market. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ベンチャー団体がKOSDAQ残留を要請、有力企業の離脱懸念を強調",
-        "excerpt": "ベンチャー企業協会、KOSDAQ協会、韓国ベンチャーキャピタル協会は13日、有力ベンチャー企業のKOSDAQ残留を求めた。",
-        "body": "ベンチャー企業協会、KOSDAQ協会、韓国ベンチャーキャピタル協会などベンチャー関連団体は13日、優良ベンチャー企業にKOSDAQ市場へ残ってほしいとする要請文を発表した。各団体はKOSDAQを代表する企業の離脱可能性に懸念を示し、KOSDAQ市場がベンチャー企業の成長と資金調達を支える主要な基盤である点を強調した。あわせて、機関投資家の拡大や規制の差別化など、市場環境を改善する努力が必要だとした。今回の要請は、優良ベンチャー企業の残留がKOSDAQ市場の信頼と成長性の維持に重要だというメッセージと受け止められる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国创投团体呼吁优秀企业留守KOSDAQ，担忧龙头企业出走",
-        "excerpt": "韩国风险企业协会、KOSDAQ协会和韩国风险投资协会13日发布呼吁书，称担忧KOSDAQ领先企业离场，呼吁优秀创投企业留守市场。",
-        "body": "韩国风险企业协会、KOSDAQ协会、韩国风险投资协会等与风险企业相关的团体13日发布呼吁书，呼吁优秀风险企业继续留在KOSDAQ市场。相关团体对KOSDAQ领先企业可能离开市场表示担忧，并强调KOSDAQ市场一直是风险企业成长和融资的重要基础。团体表示，需要通过扩大机构投资者、实施差异化监管等方式改善市场环境。此次呼吁传递的信息是，优秀风险企业的留守对于维持KOSDAQ市场信任度和成长性具有重要意义。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Asociaciones de capital riesgo piden a firmas líderes seguir en KOSDAQ",
-        "excerpt": "La asociación de empresas de riesgo, la de KOSDAQ y la de capital riesgo de Corea pidieron el 13 de mayo que las mejores firmas permanezcan en KOSDAQ ante temores de salida.",
-        "body": "Organizaciones vinculadas a empresas de riesgo, entre ellas la Korea Venture Business Association, la KOSDAQ Association y la Korea Venture Capital Association, publicaron el 13 de mayo un llamamiento para que las empresas de riesgo destacadas permanezcan en el mercado KOSDAQ. Las entidades expresaron preocupación por la posible salida de compañías líderes de KOSDAQ y subrayaron que el mercado ha sido una base clave para el crecimiento y la financiación de estas empresas. También señalaron la necesidad de mejorar el entorno del mercado mediante la ampliación de inversores institucionales y una diferenciación regulatoria. El mensaje central es que retener a las mejores firmas es importante para mantener la confianza y el potencial de crecimiento de KOSDAQ. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Entidades de venture capital pedem permanência de empresas líderes na KOSDAQ",
-        "excerpt": "A associação de empresas de risco, a KOSDAQ Association e a associação coreana de venture capital pediram em 13 de maio que boas empresas sigam na KOSDAQ.",
-        "body": "Entidades ligadas a empresas de risco, incluindo a Korea Venture Business Association, a KOSDAQ Association e a Korea Venture Capital Association, divulgaram em 13 de maio um apelo para que empresas de risco de destaque permaneçam no mercado KOSDAQ. As organizações manifestaram preocupação com a possível saída de empresas líderes da KOSDAQ e ressaltaram que o mercado tem sido uma base importante para o crescimento e a captação de recursos dessas companhias. Elas afirmaram que são necessários esforços para melhorar o ambiente de mercado, como ampliar a presença de investidores institucionais e diferenciar regulações. O apelo destaca que manter boas empresas de risco é relevante para preservar a confiança e o potencial de crescimento da KOSDAQ. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Venture-Verbände bitten Spitzenfirmen um Verbleib an der KOSDAQ",
-        "excerpt": "Der Venture-Unternehmensverband, die KOSDAQ Association und der koreanische VC-Verband riefen am 13. Mai führende Venture-Firmen zum Verbleib an der KOSDAQ auf.",
-        "body": "Venture-nahe Organisationen, darunter die Korea Venture Business Association, die KOSDAQ Association und die Korea Venture Capital Association, veröffentlichten am 13. Mai einen Appell an starke Venture-Unternehmen, im KOSDAQ-Markt zu bleiben. Die Verbände äußerten Sorge über einen möglichen Abgang führender KOSDAQ-Unternehmen und betonten, dass der Markt eine wichtige Grundlage für Wachstum und Finanzierung von Venture-Firmen sei. Zugleich nannten sie notwendige Anstrengungen zur Verbesserung des Marktumfelds, darunter den Ausbau institutioneller Investoren und eine differenzierte Regulierung. Der Appell macht deutlich, dass der Verbleib starker Venture-Unternehmen für Vertrauen und Wachstumskraft der KOSDAQ wichtig ist. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Des associations de capital-risque appellent les leaders à rester au KOSDAQ",
-        "excerpt": "L’association coréenne des entreprises innovantes, celle du KOSDAQ et l’association du capital-risque ont demandé le 13 mai aux meilleures sociétés de rester au KOSDAQ.",
-        "body": "Des organisations liées aux entreprises innovantes, dont la Korea Venture Business Association, la KOSDAQ Association et la Korea Venture Capital Association, ont publié le 13 mai un appel demandant aux entreprises innovantes de premier plan de rester cotées sur le marché KOSDAQ. Elles ont exprimé leur inquiétude face à un possible départ de sociétés leaders du KOSDAQ, tout en soulignant que ce marché constitue une base majeure pour la croissance et le financement des entreprises innovantes. Les organisations ont indiqué que des efforts sont nécessaires pour améliorer l’environnement de marché, notamment l’élargissement des investisseurs institutionnels et une différenciation réglementaire. Cet appel souligne que le maintien de ces entreprises est important pour préserver la confiance et le potentiel de croissance du KOSDAQ. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "جمعيات رأس المال الجريء تطالب الشركات البارزة بالبقاء في كوسداك",
-        "excerpt": "دعت جمعية شركات المشاريع وجمعية كوسداك وجمعية رأس المال الجريء الكورية في 13 مايو الشركات المتميزة إلى البقاء في سوق كوسداك وسط مخاوف من مغادرة الشركات القيادية.",
-        "body": "أصدرت منظمات مرتبطة بشركات المشاريع، من بينها جمعية شركات المشاريع الكورية وجمعية كوسداك وجمعية رأس المال الجريء الكورية، في 13 مايو بيان مناشدة يدعو الشركات المتميزة إلى البقاء في سوق كوسداك. وأعربت هذه الجهات عن قلقها من احتمال مغادرة شركات قيادية للسوق، مؤكدة أن كوسداك يشكل قاعدة رئيسية لنمو شركات المشاريع وجمع التمويل. وقالت المنظمات إن تحسين بيئة السوق يتطلب جهودا مثل توسيع قاعدة المستثمرين المؤسسيين وتطبيق تمايز في القواعد التنظيمية. وتؤكد المناشدة أن بقاء الشركات المتميزة مهم للحفاظ على الثقة وإمكانات النمو في سوق كوسداك. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "वेंचर संगठनों ने अग्रणी कंपनियों से KOSDAQ में बने रहने की अपील की",
-        "excerpt": "वेंचर बिजनेस एसोसिएशन, KOSDAQ एसोसिएशन और कोरिया वेंचर कैपिटल एसोसिएशन ने 13 मई को शीर्ष वेंचर कंपनियों से बाजार में बने रहने की अपील की।",
-        "body": "वेंचर कंपनियों से जुड़े संगठनों, जिनमें Korea Venture Business Association, KOSDAQ Association और Korea Venture Capital Association शामिल हैं, ने 13 मई को एक अपील जारी कर मजबूत वेंचर कंपनियों से KOSDAQ बाजार में बने रहने का आग्रह किया। संगठनों ने KOSDAQ की अग्रणी कंपनियों के संभावित बाहर जाने पर चिंता जताई और कहा कि यह बाजार वेंचर कंपनियों की वृद्धि और पूंजी जुटाने का प्रमुख आधार रहा है। उन्होंने संस्थागत निवेशकों का विस्तार करने और नियमों में भेदभावपूर्ण ढील या अलग व्यवस्था जैसी बाजार सुधार कोशिशों की जरूरत बताई। यह अपील बताती है कि अच्छी वेंचर कंपनियों का बने रहना KOSDAQ बाजार के भरोसे और विकास क्षमता को बनाए रखने के लिए महत्वपूर्ण है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Asosiasi Ventura Minta Perusahaan Unggulan Tetap Bertahan di KOSDAQ",
-        "excerpt": "Asosiasi perusahaan ventura, Asosiasi KOSDAQ, dan Asosiasi Modal Ventura Korea pada 13 Mei meminta perusahaan ventura unggulan tetap berada di KOSDAQ.",
-        "body": "Organisasi terkait perusahaan ventura, termasuk Korea Venture Business Association, KOSDAQ Association, dan Korea Venture Capital Association, pada 13 Mei menerbitkan seruan agar perusahaan ventura unggulan tetap berada di pasar KOSDAQ. Mereka menyampaikan kekhawatiran atas kemungkinan keluarnya perusahaan-perusahaan pemimpin dari KOSDAQ, sekaligus menekankan bahwa pasar tersebut merupakan basis utama bagi pertumbuhan dan pendanaan perusahaan ventura. Organisasi itu menyatakan perlunya upaya memperbaiki lingkungan pasar, termasuk memperluas investor institusional dan membedakan regulasi. Seruan ini menegaskan bahwa keberadaan perusahaan ventura unggulan penting untuk menjaga kepercayaan dan daya tumbuh pasar KOSDAQ. Sumber: mk.co.kr"
       }
     }
   }
