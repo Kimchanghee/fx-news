@@ -1,5 +1,230 @@
 [
   {
+    "id": "f6e17f8b9ad4",
+    "slug": "재고착시로-정유-깜짝-실적-하반기엔-수익악화-우려-커-865507",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T11:16:19.456Z",
+    "updatedAt": "2026-05-13T11:16:19.456Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12046431",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12046431",
+    "titleFingerprint": "d9a70ad161812d42d477716bb135457377d3be43",
+    "dedupKeys": [
+      "f6e17f8b9ad4b76b4ae7160392828d733596449b",
+      "d9a70ad161812d42d477716bb135457377d3be43",
+      "f7f571744d54487b34272b73ff3eca140c151975"
+    ],
+    "imageUrl": "/images/articles/f6e17f8b9ad4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "정유사 1분기 깜짝 실적, ‘재고착시’ 효과에 하반기 수익성 우려",
+        "excerpt": "중동 전쟁 장기화로 국제유가가 급변한 가운데 국내 정유기업들이 올해 1분기 호실적을 냈지만, 재고 재평가에 따른 일시적 효과라는 우려가 커지고 있다.",
+        "body": "중동 전쟁 장기화로 국제유가가 급변하는 가운데 국내 정유기업들이 올해 1분기 깜짝 실적을 낸 것으로 확인됐다. 유가 변동성이 커지면서 보유 재고의 가치가 재평가됐고, 이 과정에서 영업이익이 크게 늘어난 것으로 풀이된다. 다만 업계에서는 이번 호실적의 절반 이상이 본업 수익성 개선이 아니라 재고 재평가에 따른 일시적 ‘착시 효과’라는 설명이 나온다. 국제유가 흐름이 다시 흔들릴 경우 하반기에는 정유사의 수익성이 악화될 수 있다는 우려도 커지고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Refiners’ Q1 Earnings Surprise Raises H2 Profit Concerns on Inventory Effect",
+        "excerpt": "As the prolonged Middle East war drove sharp swings in global oil prices, South Korean refiners posted strong Q1 results, but concerns are growing over one-off inventory revaluation gains.",
+        "body": "South Korean refining companies delivered better-than-expected results in the first quarter as international oil prices fluctuated sharply amid the prolonged Middle East war. The gains are understood to have been boosted by a revaluation of inventories as oil price volatility increased. However, industry observers say more than half of operating profit came from a temporary “inventory illusion” rather than a fundamental improvement in refining profitability. If global oil prices remain unstable or reverse course, concerns are rising that refiners’ earnings could deteriorate in the second half. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "製油各社の1〜3月期好業績、在庫評価益で下期収益悪化懸念",
+        "excerpt": "中東戦争の長期化で国際原油価格が急変するなか、韓国の製油会社は1〜3月期に好業績を出したが、在庫再評価による一時効果との懸念が強まっている。",
+        "body": "中東戦争の長期化で国際原油価格が大きく変動するなか、韓国の製油会社が今年1〜3月期に予想外の好業績を収めたことが確認された。原油価格の変動性が高まり、保有在庫の価値が再評価されたことで、営業利益が大きく押し上げられたとみられる。ただし業界では、今回の好業績の半分以上が本業の収益性改善ではなく、在庫再評価による一時的な「錯視効果」だとの見方が出ている。国際原油価格の流れが再び揺らげば、下期には製油会社の収益性が悪化するとの懸念も強まっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "炼油企业一季度业绩超预期，库存重估效应引发下半年盈利担忧",
+        "excerpt": "在中东战争长期化导致国际油价剧烈波动之际，韩国炼油企业今年一季度业绩亮眼，但市场担忧这主要来自库存重估的一次性收益。",
+        "body": "随着中东战争长期化，国际油价剧烈波动，韩国炼油企业今年第一季度取得了超预期业绩。油价波动加大使企业持有库存的价值被重新评估，并被认为显著推高了营业利润。不过，业内认为，这次良好业绩中超过一半并非来自主营盈利能力改善，而是库存重估带来的一次性“错觉效应”。如果国际油价走势再次出现大幅摇摆，下半年炼油企业盈利能力可能恶化的担忧正在升温。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Refineras surcoreanas sorprenden en Q1, pero el efecto inventario preocupa",
+        "excerpt": "Con la guerra en Oriente Medio prolongada y el petróleo internacional muy volátil, las refineras surcoreanas lograron buenos resultados en Q1, aunque crecen dudas por revalorización de inventarios.",
+        "body": "Las empresas refinadoras de Corea del Sur registraron resultados mejores de lo esperado en el primer trimestre, mientras los precios internacionales del crudo fluctuaron con fuerza por la prolongación de la guerra en Oriente Medio. La mayor volatilidad del petróleo habría elevado el valor de los inventarios y, con ello, impulsado el beneficio operativo. Sin embargo, en el sector se señala que más de la mitad de esas ganancias responde a un efecto temporal de revalorización de inventarios, no a una mejora estructural de la rentabilidad. Si el mercado del crudo vuelve a moverse bruscamente, aumentan las preocupaciones por un deterioro de beneficios en la segunda mitad del año. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Refinarias sul-coreanas surpreendem no 1º tri, mas efeito estoque preocupa",
+        "excerpt": "Com a guerra no Oriente Médio prolongada e o petróleo global volátil, refinarias sul-coreanas tiveram forte 1º trimestre, mas cresce a preocupação com ganhos temporários por reavaliação de estoques.",
+        "body": "As refinarias sul-coreanas registraram resultados acima do esperado no primeiro trimestre, em meio à forte oscilação dos preços internacionais do petróleo causada pela prolongada guerra no Oriente Médio. A volatilidade do petróleo levou à reavaliação do valor dos estoques mantidos pelas empresas, o que teria ampliado de forma expressiva o lucro operacional. No entanto, o setor avalia que mais da metade desse resultado veio de um efeito temporário de “ilusão de estoque”, e não de melhora real na rentabilidade do negócio principal. Se os preços internacionais voltarem a oscilar, aumentam as preocupações com piora dos lucros no segundo semestre. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Raffinerien mit Q1-Überraschung: Inventareffekt schürt Sorgen für H2",
+        "excerpt": "Wegen des anhaltenden Kriegs im Nahen Osten schwankten die Ölpreise stark. Südkoreas Raffinerien meldeten starke Q1-Zahlen, doch Einmaleffekte aus Vorratsbewertungen bereiten Sorge.",
+        "body": "Südkoreanische Raffinerieunternehmen haben im ersten Quartal überraschend starke Ergebnisse erzielt, während die internationalen Ölpreise infolge des anhaltenden Kriegs im Nahen Osten stark schwankten. Die höhere Volatilität führte offenbar zu einer Neubewertung der gehaltenen Vorräte und stützte dadurch den operativen Gewinn deutlich. Branchenkreise weisen jedoch darauf hin, dass mehr als die Hälfte des operativen Gewinns auf einen vorübergehenden Inventareffekt zurückzuführen sei und nicht auf eine nachhaltige Verbesserung der Kernertragskraft. Sollten die Ölpreise erneut stark schwanken, wächst die Sorge vor einer Verschlechterung der Profitabilität im zweiten Halbjahr. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Raffineurs coréens: bons résultats au T1, mais l’effet stocks inquiète",
+        "excerpt": "La guerre prolongée au Moyen-Orient a fait varier fortement les prix du pétrole. Les raffineurs coréens ont publié un bon T1, mais les gains liés aux stocks suscitent des doutes.",
+        "body": "Les entreprises sud-coréennes de raffinage ont enregistré des résultats meilleurs que prévu au premier trimestre, alors que les prix internationaux du pétrole ont fortement fluctué avec la prolongation de la guerre au Moyen-Orient. Cette volatilité a entraîné une réévaluation de la valeur des stocks détenus, ce qui aurait nettement accru le résultat opérationnel. Toutefois, le secteur estime que plus de la moitié de ce bénéfice provient d’un effet temporaire de réévaluation des stocks, et non d’une amélioration réelle de la rentabilité du cœur d’activité. Si les prix du pétrole restent instables, les inquiétudes sur une dégradation des profits au second semestre s’accentuent. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أرباح مصافي كوريا في الربع الأول تثير القلق بفعل تأثير المخزونات",
+        "excerpt": "مع استمرار حرب الشرق الأوسط وتقلب أسعار النفط العالمية، سجلت شركات التكرير الكورية نتائج قوية في الربع الأول، لكن المخاوف تتزايد من مكاسب مؤقتة ناتجة عن إعادة تقييم المخزونات.",
+        "body": "حققت شركات التكرير الكورية الجنوبية نتائج مفاجئة في الربع الأول من هذا العام، وسط تقلبات حادة في أسعار النفط العالمية مع إطالة أمد الحرب في الشرق الأوسط. ويُفهم أن زيادة تقلب الأسعار رفعت قيمة المخزونات التي تحتفظ بها الشركات، ما دعم الأرباح التشغيلية بشكل كبير. لكن القطاع يرى أن أكثر من نصف هذه الأرباح لا يعكس تحسنا في ربحية النشاط الأساسي، بل أثرا مؤقتا ناجما عن إعادة تقييم المخزونات. وإذا عادت أسعار النفط العالمية إلى التقلب، فقد تتزايد المخاوف من تراجع ربحية شركات التكرير في النصف الثاني. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "रिफाइनरियों की Q1 कमाई चमकी, पर इन्वेंटरी प्रभाव से H2 मुनाफे पर चिंता",
+        "excerpt": "मध्य पूर्व युद्ध लंबा खिंचने से वैश्विक तेल कीमतों में तेज उतार-चढ़ाव आया और दक्षिण कोरियाई रिफाइनरियों ने पहली तिमाही में मजबूत नतीजे दिए, लेकिन इन्वेंटरी पुनर्मूल्यांकन पर चिंता बढ़ी।",
+        "body": "मध्य पूर्व युद्ध के लंबे खिंचने से अंतरराष्ट्रीय कच्चे तेल की कीमतों में तेज उतार-चढ़ाव के बीच दक्षिण कोरिया की रिफाइनिंग कंपनियों ने इस साल पहली तिमाही में उम्मीद से बेहतर प्रदर्शन किया। तेल कीमतों की अस्थिरता बढ़ने से कंपनियों के पास मौजूद इन्वेंटरी का मूल्य दोबारा आंका गया, जिससे परिचालन लाभ में बड़ा इजाफा माना जा रहा है। हालांकि उद्योग का कहना है कि इस लाभ का आधे से अधिक हिस्सा मुख्य कारोबार की लाभप्रदता में सुधार नहीं, बल्कि इन्वेंटरी पुनर्मूल्यांकन से बना अस्थायी “भ्रम प्रभाव” है। यदि वैश्विक तेल कीमतें फिर डगमगाती हैं, तो दूसरी छमाही में रिफाइनरियों की कमाई कमजोर पड़ने की चिंता बढ़ सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kinerja Kilang Q1 Mengejutkan, Efek Stok Picu Kekhawatiran Laba Semester II",
+        "excerpt": "Saat perang Timur Tengah berkepanjangan membuat harga minyak global bergejolak, perusahaan kilang Korea Selatan mencatat kinerja kuat Q1, tetapi kekhawatiran muncul karena revaluasi persediaan.",
+        "body": "Perusahaan kilang Korea Selatan membukukan kinerja mengejutkan pada kuartal pertama tahun ini, ketika harga minyak internasional bergerak tajam akibat perang Timur Tengah yang berkepanjangan. Volatilitas harga minyak membuat nilai persediaan yang dimiliki perusahaan direvaluasi, sehingga laba operasional meningkat signifikan. Namun, pelaku industri menilai lebih dari separuh laba operasional tersebut berasal dari efek sementara revaluasi persediaan, bukan dari perbaikan profitabilitas bisnis inti. Jika arah harga minyak global kembali bergejolak, kekhawatiran terhadap penurunan profitabilitas kilang pada paruh kedua tahun ini semakin besar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "93beacfb52e6",
+    "slug": "인당-7500만원-성과급으로-달라조선업까지-번진-노조의-요구-782831",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T11:15:11.590Z",
+    "updatedAt": "2026-05-13T11:15:11.590Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12046570",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12046570",
+    "titleFingerprint": "45265b51ede0d685319f7629ac94bec5c8f45f14",
+    "dedupKeys": [
+      "93beacfb52e65e29026962080959f6f53202ea6a",
+      "45265b51ede0d685319f7629ac94bec5c8f45f14",
+      "47cd4b4bab1cef3474a2073e70942105576fe48e"
+    ],
+    "imageUrl": "/images/articles/93beacfb52e6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "현대중공업 노조 성과급 요구, 1인당 7500만원 논란 조선업 임단협 쟁점",
+        "excerpt": "현대중공업 노조가 임단협 요구안 설명에서 영업이익 30% 조합원 지급, 상여금 100% 등 임금 인상과 AI 도입 시 고용 보호 제도 마련을 요구했다.",
+        "body": "현대중공업 노동조합이 최근 임금·단체협약 요구안을 설명하며 영업이익의 30%를 조합원에게 지급하고 상여금 100% 등을 포함한 임금 인상을 요구했다. 원문 제목에서는 이 요구가 1인당 7500만원 성과급 논란으로 소개됐다. 산업계 전반에서 성과급 등 보상안을 둘러싼 노사 갈등이 이어지는 가운데, 이 쟁점이 조선업으로도 확산된 모습이다. 노조는 인공지능(AI) 도입 시 고용 보호 제도를 마련해야 한다는 내용도 요구안에 포함했다. 향후 임단협 협상에서는 성과 배분 방식, 상여금 인상, AI 도입에 따른 고용 안정 장치가 핵심 쟁점이 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hyundai Heavy union bonus demand puts shipbuilding wage talks in focus",
+        "excerpt": "Hyundai Heavy Industries’ union said in its wage and collective bargaining demands that 30% of operating profit be paid to members, along with a 100% bonus and job protections if AI is introduced.",
+        "body": "Hyundai Heavy Industries’ labor union recently outlined its wage and collective bargaining demands, calling for 30% of operating profit to be distributed to union members and for wage increases including a 100% bonus. The original article framed the demand as a controversy over performance bonuses worth 75 million won per person. As labor-management disputes over bonuses and other compensation continue across industry, the issue has now spread to shipbuilding. The union also included a demand for employment protection measures if artificial intelligence (AI) is introduced. In upcoming negotiations, profit-sharing, bonus increases and job security tied to AI adoption are expected to be key issues. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "現代重工業労組の成果給要求、造船業の賃金交渉で焦点に",
+        "excerpt": "現代重工業労組は賃金・団体協約の要求案で、営業利益の30%を組合員に支給し、賞与100%などの賃上げとAI導入時の雇用保護制度を求めた。",
+        "body": "現代重工業の労働組合は最近、賃金・団体協約の要求案を説明し、営業利益の30%を組合員に支給することや、賞与100%などを含む賃金引き上げを求めた。原文の見出しでは、この要求が1人当たり7500万ウォンの成果給をめぐる論点として紹介された。産業界で成果給など補償案をめぐる労使対立が続く中、この争点は造船業にも広がっている。労組は人工知能（AI）導入時に雇用保護制度を設けることも要求案に含めた。今後の交渉では、成果配分、賞与引き上げ、AI導入に伴う雇用安定策が主要な争点となる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "现代重工工会绩效奖金要求升温，造船业劳资谈判成焦点",
+        "excerpt": "现代重工工会在工资和集体协议要求说明中提出，将营业利润30%支付给工会成员，并要求100%奖金等加薪措施及引入AI时的就业保护制度。",
+        "body": "现代重工工会近日说明工资和集体协议要求案，提出将营业利润的30%支付给工会成员，并要求包括100%奖金在内的工资上调。原文标题将这一要求概括为每人7500万韩元绩效奖金的争议。在产业界围绕绩效奖金等补偿方案的劳资矛盾持续之际，该议题也蔓延至造船业。工会还把引入人工智能（AI）时需建立就业保护制度纳入要求。未来谈判中，业绩分配方式、奖金上调以及AI导入后的就业稳定措施预计将成为核心焦点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El sindicato de Hyundai Heavy exige bonificaciones y centra la negociación naval",
+        "excerpt": "El sindicato de Hyundai Heavy Industries pidió en su propuesta laboral repartir el 30% del beneficio operativo entre afiliados, subir salarios con una bonificación del 100% y proteger empleos si se introduce IA.",
+        "body": "El sindicato de Hyundai Heavy Industries explicó recientemente sus demandas de convenio salarial y colectivo, que incluyen distribuir el 30% del beneficio operativo entre los afiliados y aumentar la remuneración con una bonificación del 100%. El título original presentó la petición como una controversia por incentivos de 75 millones de wones por persona. Mientras continúan en la industria los conflictos laborales por bonos y compensaciones, el debate se ha extendido al sector naval. El sindicato también pidió establecer mecanismos de protección del empleo si se introduce inteligencia artificial (IA). En las próximas negociaciones, el reparto de resultados, la subida de bonificaciones y la estabilidad laboral ante la IA serán puntos clave. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Sindicato da Hyundai Heavy pede bônus e leva tensão salarial à construção naval",
+        "excerpt": "O sindicato da Hyundai Heavy Industries pediu, na proposta de negociação coletiva, pagamento de 30% do lucro operacional aos membros, bônus de 100%, reajustes salariais e proteção ao emprego com IA.",
+        "body": "O sindicato da Hyundai Heavy Industries apresentou recentemente suas demandas de acordo salarial e coletivo, pedindo que 30% do lucro operacional seja pago aos sindicalizados e que haja aumento salarial incluindo bônus de 100%. O título original descreveu a reivindicação como uma controvérsia sobre bônus de desempenho de 75 milhões de wons por pessoa. Em meio a conflitos trabalhistas no setor industrial sobre bonificações e outras compensações, a questão chegou também à construção naval. O sindicato incluiu ainda a criação de mecanismos de proteção ao emprego caso a inteligência artificial (IA) seja adotada. Nas próximas negociações, a divisão dos resultados, o aumento de bônus e a segurança no emprego ligada à IA devem ser temas centrais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hyundai-Heavy-Gewerkschaft fordert Bonus, Tarifstreit erreicht Schiffbau",
+        "excerpt": "Die Gewerkschaft von Hyundai Heavy Industries fordert in den Tarifverhandlungen 30% des Betriebsgewinns für Mitglieder, 100% Bonus, Lohnerhöhungen und Beschäftigungsschutz bei KI-Einsatz.",
+        "body": "Die Gewerkschaft von Hyundai Heavy Industries hat zuletzt ihre Forderungen für Lohn- und Tarifverhandlungen erläutert. Sie verlangt, 30% des Betriebsgewinns an Gewerkschaftsmitglieder auszuzahlen und die Vergütung unter anderem mit einem Bonus von 100% zu erhöhen. Der Originaltitel stellte die Forderung als Streit um Leistungsprämien von 75 Millionen Won pro Person dar. Während in der Industrie Konflikte über Boni und andere Vergütungen anhalten, hat das Thema nun auch den Schiffbau erreicht. Zudem fordert die Gewerkschaft Schutzregelungen für Arbeitsplätze, falls künstliche Intelligenz (KI) eingeführt wird. In den Verhandlungen dürften Gewinnverteilung, Bonusanhebung und Beschäftigungssicherung bei KI zentrale Punkte sein. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le syndicat de Hyundai Heavy réclame des primes, le chantier naval sous tension",
+        "excerpt": "Le syndicat de Hyundai Heavy Industries demande, dans ses revendications salariales et collectives, 30% du bénéfice d’exploitation pour les adhérents, une prime de 100% et des protections d’emploi en cas d’IA.",
+        "body": "Le syndicat de Hyundai Heavy Industries a récemment présenté ses revendications pour les négociations salariales et collectives. Il demande que 30% du bénéfice d’exploitation soit versé aux adhérents et réclame une hausse de rémunération incluant une prime de 100%. Le titre original a présenté cette demande comme une controverse autour de primes de performance de 75 millions de wons par personne. Alors que les conflits sociaux sur les primes et les compensations se poursuivent dans l’industrie, le sujet gagne aussi la construction navale. Le syndicat demande également un dispositif de protection de l’emploi si l’intelligence artificielle (IA) est introduite. Les prochains pourparlers devraient donc porter sur le partage des résultats, les primes et la sécurité de l’emploi liée à l’IA. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "نقابة هيونداي للصناعات الثقيلة تطالب بمكافآت وتدفع مفاوضات بناء السفن للواجهة",
+        "excerpt": "طالبت نقابة هيونداي للصناعات الثقيلة في مقترحات الأجور والاتفاق الجماعي بدفع 30% من الربح التشغيلي للأعضاء، وزيادة تشمل مكافأة 100%، وحماية الوظائف عند إدخال الذكاء الاصطناعي.",
+        "body": "عرضت نقابة عمال هيونداي للصناعات الثقيلة مؤخرا مطالبها في مفاوضات الأجور والاتفاق الجماعي، داعية إلى توزيع 30% من الربح التشغيلي على أعضاء النقابة وزيادة الأجور بما يشمل مكافأة بنسبة 100%. وقدم العنوان الأصلي هذه المطالب باعتبارها جدلا حول مكافآت أداء تبلغ 75 مليون وون للفرد. ومع استمرار الخلافات العمالية في القطاع الصناعي بشأن المكافآت والتعويضات، امتدت القضية إلى صناعة بناء السفن. كما أدرجت النقابة مطلب وضع نظام لحماية التوظيف عند إدخال الذكاء الاصطناعي. ومن المتوقع أن تكون آلية توزيع الأرباح وزيادة المكافآت وضمان الوظائف المرتبط بالذكاء الاصطناعي محاور رئيسية في المفاوضات المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Hyundai Heavy यूनियन की बोनस मांग से शिपबिल्डिंग वेतन वार्ता केंद्र में",
+        "excerpt": "Hyundai Heavy Industries यूनियन ने वेतन और सामूहिक समझौता मांगों में परिचालन लाभ का 30% सदस्यों को देने, 100% बोनस सहित वेतन वृद्धि और AI लागू होने पर रोजगार सुरक्षा की मांग की।",
+        "body": "Hyundai Heavy Industries की मजदूर यूनियन ने हाल में वेतन और सामूहिक समझौते की अपनी मांगें बताते हुए परिचालन लाभ का 30% यूनियन सदस्यों को देने और 100% बोनस सहित वेतन वृद्धि की मांग की। मूल शीर्षक में इस मांग को प्रति व्यक्ति 7.5 करोड़ वॉन के प्रदर्शन बोनस विवाद के रूप में पेश किया गया। उद्योग जगत में प्रदर्शन बोनस और अन्य मुआवजा प्रस्तावों पर श्रम-प्रबंधन विवाद जारी हैं, और यह मुद्दा अब जहाज निर्माण क्षेत्र तक फैल गया है। यूनियन ने कृत्रिम बुद्धिमत्ता (AI) लागू होने पर रोजगार सुरक्षा व्यवस्था बनाने की मांग भी शामिल की। आगामी वार्ताओं में लाभ वितरण, बोनस वृद्धि और AI से जुड़ी रोजगार स्थिरता प्रमुख मुद्दे रहने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Serikat Hyundai Heavy tuntut bonus, isu upah meluas ke industri galangan kapal",
+        "excerpt": "Serikat Hyundai Heavy Industries dalam tuntutan perundingan upah meminta 30% laba operasi dibayar kepada anggota, kenaikan termasuk bonus 100%, serta perlindungan kerja jika AI diterapkan.",
+        "body": "Serikat pekerja Hyundai Heavy Industries baru-baru ini menjelaskan tuntutan perundingan upah dan perjanjian kerja bersama, termasuk pembayaran 30% laba operasi kepada anggota serikat dan kenaikan upah dengan bonus 100%. Judul asli menyebut tuntutan itu sebagai kontroversi bonus kinerja senilai 75 juta won per orang. Saat perselisihan buruh-manajemen mengenai bonus dan kompensasi terus terjadi di sektor industri, isu tersebut kini merambah industri galangan kapal. Serikat juga memasukkan tuntutan agar dibuat sistem perlindungan kerja jika kecerdasan buatan (AI) diterapkan. Dalam negosiasi mendatang, pembagian hasil, kenaikan bonus, dan keamanan kerja terkait AI diperkirakan menjadi isu utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5b306833c8e1",
+    "slug": "12조원-자금-리파이낸싱-종결한국남부발전-美-전력시장-금융비용-연간-423억원-절감-990597",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T11:14:01.420Z",
+    "updatedAt": "2026-05-13T11:14:01.420Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12046576",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12046576",
+    "titleFingerprint": "609eb53686ca6692fd3a6217ff09cbc486752af3",
+    "dedupKeys": [
+      "5b306833c8e1ded6bd9c5a1e15c2db1e0160155b",
+      "609eb53686ca6692fd3a6217ff09cbc486752af3",
+      "0700eceae35e21dfc99128515a50579fb72ef45f"
+    ],
+    "imageUrl": "/images/articles/5b306833c8e1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국남부발전, 미국 전력시장 리파이낸싱으로 연 423억원 금융비용 절감",
+        "excerpt": "한국남부발전은 미국 에너지 인프라 공동투자 성과를 바탕으로 1.2조원 규모 자금 리파이낸싱을 마무리하고 연간 423억원의 금융비용 절감 효과를 확보했다.",
+        "body": "한국남부발전이 미국 전력시장 투자와 관련해 1.2조원 규모 자금 리파이낸싱을 종결하며 연간 423억원의 금융비용을 절감하게 됐다. 이번 성과는 K금융 대미투자 협력 간담회에서 소개됐으며, KB와 우리 등 국내 금융사도 참여했다. 한국남부발전은 미국 북동부와 중서부 전력시장에서 에너지 인프라 공동투자를 추진해 왔고, 해당 시장에서 최고 레버리지 기록과 리파이낸싱 성공을 거뒀다. 이번 금융비용 절감은 해외 전력시장 투자에서 국내 공기업과 금융권의 협력 사례로 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPO cuts annual financing costs by 42.3 billion won via US power market refinancing",
+        "excerpt": "Korea Southern Power completed a 1.2 trillion won refinancing tied to US energy infrastructure investment, securing an annual financing cost reduction of 42.3 billion won.",
+        "body": "Korea Southern Power has completed a 1.2 trillion won refinancing linked to its investment in the US power market, reducing annual financing costs by 42.3 billion won. The outcome was presented at a roundtable on K-finance cooperation for US investment, with domestic financial firms including KB and Woori taking part. KOSPO has pursued joint investment in energy infrastructure in the US Northeast and Midwest power markets, where it recorded the highest leverage and succeeded in refinancing. The cost savings highlight cooperation between a Korean public power company and domestic financial institutions in overseas power market investment. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国南部発電、米電力市場のリファイナンスで年423億ウォン費用削減",
+        "excerpt": "韓国南部発電は米エネルギーインフラ共同投資を基に1.2兆ウォン規模の資金リファイナンスを終え、年間423億ウォンの金融費用削減効果を確保した。",
+        "body": "韓国南部発電は、米国電力市場への投資に関連して1.2兆ウォン規模の資金リファイナンスを完了し、年間423億ウォンの金融費用を削減することになった。今回の成果はK金融の対米投資協力懇談会で紹介され、KBやウリなど韓国国内の金融会社も参加した。韓国南部発電は米国北東部・中西部の電力市場でエネルギーインフラ共同投資を進めてきており、同市場で最高レバレッジの記録とリファイナンス成功を収めた。今回の費用削減は、海外電力市場投資における韓国公企業と金融界の協力事例として注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国南部发电完成美国电力市场再融资 年省融资成本423亿韩元",
+        "excerpt": "韩国南部发电基于美国能源基础设施共同投资成果，完成1.2万亿韩元资金再融资，获得每年节省423亿韩元融资成本的效果。",
+        "body": "韩国南部发电围绕美国电力市场投资完成了1.2万亿韩元规模的资金再融资，每年将减少423亿韩元融资成本。该成果在“K金融对美投资合作座谈会”上介绍，KB、友利等韩国国内金融机构也参与其中。韩国南部发电一直在美国东北部和中西部电力市场推进能源基础设施共同投资，并在相关市场创下最高杠杆纪录且成功完成再融资。此次融资成本下降，被视为韩国公共电力企业与国内金融界在海外电力市场投资中合作的案例。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPO ahorra 42.300 millones de wones al año con refinanciación en el mercado eléctrico de EE. UU.",
+        "excerpt": "Korea Southern Power cerró una refinanciación de 1,2 billones de wones vinculada a inversión conjunta en infraestructura energética de EE. UU., reduciendo costes financieros anuales.",
+        "body": "Korea Southern Power completó una refinanciación de 1,2 billones de wones relacionada con su inversión en el mercado eléctrico de Estados Unidos, lo que reducirá sus costes financieros anuales en 42.300 millones de wones. El resultado fue presentado en una reunión sobre cooperación de K-finance para inversiones en EE. UU., con participación de firmas financieras surcoreanas como KB y Woori. La compañía ha impulsado inversiones conjuntas en infraestructura energética en los mercados eléctricos del noreste y medio oeste de EE. UU., donde logró el mayor apalancamiento y una refinanciación exitosa. El ahorro destaca como un caso de cooperación entre una empresa pública eléctrica coreana y el sector financiero local. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPO reduz 42,3 bilhões de wones ao ano com refinanciamento no mercado elétrico dos EUA",
+        "excerpt": "A Korea Southern Power concluiu refinanciamento de 1,2 trilhão de wones ligado a investimento conjunto em infraestrutura energética nos EUA, reduzindo custos financeiros anuais.",
+        "body": "A Korea Southern Power concluiu um refinanciamento de 1,2 trilhão de wones relacionado ao seu investimento no mercado de energia elétrica dos Estados Unidos, reduzindo os custos financeiros anuais em 42,3 bilhões de wones. O resultado foi apresentado em uma reunião sobre cooperação do K-finance para investimentos nos EUA, com participação de instituições financeiras sul-coreanas como KB e Woori. A empresa vem promovendo investimentos conjuntos em infraestrutura energética nos mercados elétricos do Nordeste e do Meio-Oeste dos EUA, onde registrou a maior alavancagem e concluiu o refinanciamento com sucesso. A economia destaca a cooperação entre uma estatal coreana de energia e o setor financeiro doméstico. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPO spart jährlich 42,3 Mrd. Won durch Refinanzierung im US-Strommarkt",
+        "excerpt": "Korea Southern Power schloss eine Refinanzierung über 1,2 Billionen Won im Zusammenhang mit gemeinsamer US-Energieinfrastruktur-Investition ab und senkt jährliche Finanzierungskosten.",
+        "body": "Korea Southern Power hat im Zusammenhang mit Investitionen im US-Strommarkt eine Refinanzierung über 1,2 Billionen Won abgeschlossen und senkt damit die jährlichen Finanzierungskosten um 42,3 Milliarden Won. Das Ergebnis wurde bei einem Treffen zur K-Finance-Kooperation für US-Investitionen vorgestellt; auch südkoreanische Finanzunternehmen wie KB und Woori nahmen teil. KOSPO hat gemeinsame Investitionen in Energieinfrastruktur in den Strommärkten des Nordostens und Mittleren Westens der USA vorangetrieben und dort den höchsten Verschuldungsgrad sowie eine erfolgreiche Refinanzierung erreicht. Die Einsparung gilt als Beispiel für die Zusammenarbeit zwischen einem koreanischen öffentlichen Energieunternehmen und heimischen Finanzinstituten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "KOSPO réduit ses frais financiers de 42,3 milliards de wons par an grâce au refinancement aux États-Unis",
+        "excerpt": "Korea Southern Power a finalisé un refinancement de 1,2 billion de wons lié à un investissement commun dans les infrastructures énergétiques américaines, réduisant ses coûts annuels.",
+        "body": "Korea Southern Power a finalisé un refinancement de 1,2 billion de wons lié à ses investissements sur le marché américain de l’électricité, ce qui réduira ses frais financiers annuels de 42,3 milliards de wons. Ce résultat a été présenté lors d’une réunion sur la coopération de la K-finance pour les investissements aux États-Unis, avec la participation d’acteurs financiers sud-coréens comme KB et Woori. L’entreprise a poursuivi des investissements communs dans les infrastructures énergétiques des marchés électriques du Nord-Est et du Midwest américains, où elle a enregistré le plus haut effet de levier et réussi son refinancement. Cette économie illustre la coopération entre une entreprise publique coréenne d’électricité et le secteur financier local. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبو تخفض تكاليف التمويل 42.3 مليار وون سنويا عبر إعادة تمويل في سوق الكهرباء الأميركي",
+        "excerpt": "أنهت كوريا ساوثرن باور إعادة تمويل بقيمة 1.2 تريليون وون مرتبطة باستثمار مشترك في بنية الطاقة الأميركية، ما يخفض تكاليف التمويل السنوية.",
+        "body": "أنهت كوريا ساوثرن باور إعادة تمويل بقيمة 1.2 تريليون وون مرتبطة باستثماراتها في سوق الكهرباء بالولايات المتحدة، ما سيخفض تكاليف التمويل السنوية بمقدار 42.3 مليار وون. عُرضت هذه النتيجة خلال اجتماع للتعاون في استثمارات K-finance داخل الولايات المتحدة، بمشاركة شركات مالية كورية محلية منها KB وWoori. وكانت الشركة قد دفعت باستثمارات مشتركة في بنية الطاقة في أسواق الكهرباء بشمال شرق الولايات المتحدة ووسطها الغربي، حيث سجلت أعلى مستوى للرافعة المالية ونجحت في إعادة التمويل. ويبرز هذا الخفض كحالة تعاون بين شركة كهرباء عامة كورية والقطاع المالي المحلي في الاستثمار الخارجي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPO ने अमेरिकी बिजली बाजार रीफाइनेंसिंग से सालाना 42.3 अरब वोन लागत घटाई",
+        "excerpt": "कोरिया सदर्न पावर ने अमेरिकी ऊर्जा अवसंरचना संयुक्त निवेश से जुड़ी 1.2 ट्रिलियन वोन की रीफाइनेंसिंग पूरी की, जिससे सालाना वित्तीय लागत घटेगी।",
+        "body": "कोरिया सदर्न पावर ने अमेरिकी बिजली बाजार में अपने निवेश से जुड़ी 1.2 ट्रिलियन वोन की फंड रीफाइनेंसिंग पूरी कर ली है, जिससे उसकी सालाना वित्तीय लागत 42.3 अरब वोन कम होगी। यह उपलब्धि अमेरिका में K-finance निवेश सहयोग बैठक में पेश की गई, जिसमें KB और Woori जैसी दक्षिण कोरियाई वित्तीय कंपनियां भी शामिल रहीं। कंपनी अमेरिका के उत्तर-पूर्वी और मिडवेस्ट बिजली बाजारों में ऊर्जा अवसंरचना के संयुक्त निवेश को आगे बढ़ा रही थी, जहां उसने उच्चतम लेवरेज दर्ज किया और रीफाइनेंसिंग में सफलता पाई। यह बचत विदेशी बिजली बाजार निवेश में कोरियाई सार्वजनिक बिजली कंपनी और घरेलू वित्तीय क्षेत्र के सहयोग का उदाहरण है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPO hemat biaya pembiayaan 42,3 miliar won per tahun lewat refinancing pasar listrik AS",
+        "excerpt": "Korea Southern Power menuntaskan refinancing dana 1,2 triliun won terkait investasi bersama infrastruktur energi AS, sehingga memangkas biaya pembiayaan tahunan.",
+        "body": "Korea Southern Power menuntaskan refinancing dana senilai 1,2 triliun won terkait investasinya di pasar listrik Amerika Serikat, sehingga biaya pembiayaan tahunan berkurang 42,3 miliar won. Capaian ini dipaparkan dalam pertemuan kerja sama investasi K-finance ke AS, yang juga diikuti perusahaan keuangan domestik seperti KB dan Woori. KOSPO telah mendorong investasi bersama infrastruktur energi di pasar listrik wilayah Timur Laut dan Midwest AS, tempat perusahaan mencatat leverage tertinggi dan berhasil melakukan refinancing. Penghematan ini menjadi contoh kerja sama antara perusahaan listrik publik Korea dan sektor keuangan domestik dalam investasi pasar listrik luar negeri. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "04a31bbf2241",
     "slug": "삼성-등-10대그룹-인재-육성-청년-6800명-직무교육-나서-247627",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Data Center Antariksa: Mengapa Big Tech Melihat ke Luar Bumi untuk Infrastruktur AI",
         "excerpt": "Saat AI meluas dan tekanan pada listrik, air, serta lahan meningkat, Big Tech meninjau data center antariksa dengan tenaga surya 24 jam dan suhu rendah.",
         "body": "Kenaikan permintaan data center AI membuat persaingan infrastruktur Big Tech mengarah ke luar Bumi. Di darat, kebutuhan listrik, air, dan lahan semakin menjadi beban, sehingga gagasan mengirim fasilitas komputasi ke antariksa mulai mendapat perhatian. Daya tarik utamanya adalah lingkungan orbit yang dapat memanfaatkan tenaga surya selama 24 jam dan kondisi suhu rendah yang diharapkan membantu pendinginan. Namun data center antariksa masih menghadapi persoalan biaya peluncuran dan operasi, perawatan perangkat, serta transmisi data. Ketika persaingan AI meluas menjadi persaingan infrastruktur, antariksa disebut sebagai pilihan baru. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "bf77e70fcd08",
-    "slug": "코스콤다올투자증권-sto-플랫폼-맞손참여사-10곳으로-확대-140649",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-12T18:59:57.705Z",
-    "updatedAt": "2026-05-12T18:59:57.705Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051215476",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051215476",
-    "titleFingerprint": "9fdf780a521f5eb09bb7b0ff0ac96a09f3b780eb",
-    "dedupKeys": [
-      "bf77e70fcd08bc31c6ee43494302b09fee9d54df",
-      "9fdf780a521f5eb09bb7b0ff0ac96a09f3b780eb",
-      "31c7de8302236b3f7db237c660a2cac5d071d6ef"
-    ],
-    "imageUrl": "/images/articles/bf77e70fcd08.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스콤·다올투자증권 STO 플랫폼 협력, 참여사 10곳으로 확대",
-        "excerpt": "코스콤과 다올투자증권이 토큰증권(STO) 플랫폼 협력을 맺고 참여사를 10곳으로 늘렸다. STO 인프라 확대 흐름 속 플랫폼 협력 범위가 넓어지고 있다.",
-        "body": "코스콤과 다올투자증권이 토큰증권(STO) 플랫폼 분야에서 손을 잡았다. 양사는 STO 플랫폼 협력을 통해 관련 참여사를 10곳으로 확대했다. 이번 협력은 증권업계의 토큰증권 인프라 구축 움직임 속에서 이뤄진 것으로, 플랫폼 참여 기반을 넓히는 데 초점이 맞춰져 있다. 참여사가 10곳으로 늘어나면서 STO 플랫폼 생태계의 협업 범위도 확대될 것으로 보인다. 다만 구체적인 서비스 일정이나 세부 사업 조건은 원문에 제시되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Koscom and Daol Investment Expand STO Platform Partners to 10",
-        "excerpt": "Koscom and Daol Investment & Securities have joined hands on a security token offering platform, expanding the number of participating companies to 10 amid STO infrastructure efforts.",
-        "body": "Koscom and Daol Investment & Securities have partnered in the security token offering (STO) platform field. Through the cooperation, the number of companies participating in the STO platform has expanded to 10. The move comes as the securities industry continues efforts to build token securities infrastructure, with the focus on broadening the platform’s participant base. As participation rises to 10 companies, the scope of collaboration in the STO platform ecosystem is expected to widen. Specific service timelines or detailed business terms were not provided in the source article. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "コスコム・ダオル投資証券、STOプラットフォーム協力で参加10社に拡大",
-        "excerpt": "コスコムとダオル投資証券がSTOプラットフォームで協力し、参加企業を10社に拡大した。証券業界のトークン証券インフラ整備の流れの中で進められた。",
-        "body": "コスコムとダオル投資証券がトークン証券（STO）プラットフォーム分野で提携した。両社はSTOプラットフォーム協力を通じ、関連参加企業を10社に拡大した。今回の協力は、証券業界でトークン証券インフラ構築の動きが進む中で行われたもので、プラットフォームの参加基盤を広げることに重点が置かれている。参加企業が10社に増えたことで、STOプラットフォーム生態系における協業範囲も広がるとみられる。ただし、具体的なサービス日程や詳細な事業条件は原文で示されていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Koscom与Daol投资证券携手STO平台，参与方增至10家",
-        "excerpt": "Koscom与Daol投资证券在证券型代币发行平台展开合作，并将参与企业扩大至10家，反映证券行业推进STO基础设施建设的动向。",
-        "body": "Koscom与Daol投资证券在证券型代币发行（STO）平台领域达成合作。两家公司通过此次STO平台合作，将相关参与企业扩大至10家。该合作是在证券行业推进代币证券基础设施建设的背景下进行的，重点在于扩大平台参与基础。随着参与方增至10家，STO平台生态中的协作范围也有望进一步扩大。不过，原文未披露具体服务时间表或详细业务条件。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Koscom y Daol Investment amplían a 10 los socios de su plataforma STO",
-        "excerpt": "Koscom y Daol Investment & Securities acordaron cooperar en una plataforma de tokens de valores y elevaron a 10 el número de empresas participantes.",
-        "body": "Koscom y Daol Investment & Securities se han aliado en el ámbito de las plataformas de ofertas de tokens de valores (STO). A través de esta cooperación, las compañías ampliaron a 10 el número de empresas participantes en la plataforma STO. La medida se produce en medio de los esfuerzos del sector de valores por construir infraestructura para tokens de valores, con el foco en ampliar la base de participación de la plataforma. Con 10 participantes, también se espera que aumente el alcance de la colaboración dentro del ecosistema STO. El artículo original no detalla fechas de servicio ni condiciones comerciales específicas. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Koscom e Daol Investment ampliam para 10 os participantes da plataforma STO",
-        "excerpt": "Koscom e Daol Investment & Securities firmaram cooperação em uma plataforma de tokens mobiliários e ampliaram para 10 o número de empresas participantes.",
-        "body": "A Koscom e a Daol Investment & Securities firmaram parceria no campo das plataformas de oferta de tokens mobiliários (STO). Com a cooperação, o número de empresas participantes da plataforma STO foi ampliado para 10. A iniciativa ocorre em meio aos esforços do setor de valores mobiliários para construir infraestrutura de tokens, com foco em ampliar a base de participação da plataforma. Com a chegada a 10 participantes, o escopo de colaboração no ecossistema da plataforma STO também tende a se expandir. O texto original não informou cronograma de serviço nem condições comerciais detalhadas. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Koscom und Daol Investment erweitern STO-Plattform auf 10 Teilnehmer",
-        "excerpt": "Koscom und Daol Investment & Securities kooperieren bei einer STO-Plattform und erhöhen die Zahl der teilnehmenden Unternehmen auf 10 im Zuge des Ausbaus von Token-Wertpapier-Infrastruktur.",
-        "body": "Koscom und Daol Investment & Securities haben eine Kooperation im Bereich der Plattformen für Security Token Offerings (STO) vereinbart. Durch die Zusammenarbeit wurde die Zahl der an der STO-Plattform beteiligten Unternehmen auf 10 erhöht. Der Schritt erfolgt vor dem Hintergrund von Bemühungen der Wertpapierbranche, Infrastruktur für Token-Wertpapiere aufzubauen, und zielt darauf ab, die Teilnehmerbasis der Plattform zu verbreitern. Mit nun 10 Teilnehmern dürfte sich auch der Kooperationsumfang im STO-Plattform-Ökosystem erweitern. Konkrete Servicetermine oder detaillierte Geschäftsbedingungen wurden im Original nicht genannt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Koscom et Daol Investment portent à 10 les partenaires de leur plateforme STO",
-        "excerpt": "Koscom et Daol Investment & Securities coopèrent sur une plateforme de security tokens et portent à 10 le nombre d’entreprises participantes dans le cadre du développement de l’infrastructure STO.",
-        "body": "Koscom et Daol Investment & Securities ont conclu une coopération dans le domaine des plateformes d’offres de security tokens (STO). Grâce à cet accord, le nombre d’entreprises participantes à la plateforme STO passe à 10. Cette initiative intervient alors que le secteur des valeurs mobilières poursuit la mise en place d’infrastructures liées aux titres tokenisés, avec pour objectif d’élargir la base de participation de la plateforme. Avec 10 participants, le périmètre de collaboration de l’écosystème STO devrait également s’étendre. L’article source ne précise pas de calendrier de service ni de conditions commerciales détaillées. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كوسكوم ودا올 للاستثمار توسعان منصة STO إلى 10 شركات مشاركة",
-        "excerpt": "اتفقت كوسكوم وداول للاستثمار والأوراق المالية على التعاون في منصة رموز الأوراق المالية STO، ما رفع عدد الشركات المشاركة إلى 10 ضمن جهود بناء البنية التحتية.",
-        "body": "دخلت كوسكوم وداول للاستثمار والأوراق المالية في تعاون بمجال منصات عروض رموز الأوراق المالية (STO). ومن خلال هذا التعاون، ارتفع عدد الشركات المشاركة في منصة STO إلى 10. تأتي الخطوة في إطار تحركات قطاع الأوراق المالية لبناء بنية تحتية للرموز المالية، مع تركيز على توسيع قاعدة المشاركة في المنصة. ومع وصول عدد المشاركين إلى 10، من المتوقع أن يتسع نطاق التعاون داخل منظومة منصة STO. ولم يورد النص الأصلي مواعيد خدمة محددة أو شروط أعمال تفصيلية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Koscom-Daol Investment की STO प्लेटफॉर्म साझेदारी, भागीदार 10 हुए",
-        "excerpt": "Koscom और Daol Investment & Securities ने सिक्योरिटी टोकन ऑफरिंग प्लेटफॉर्म पर सहयोग किया और भाग लेने वाली कंपनियों की संख्या 10 तक बढ़ाई।",
-        "body": "Koscom और Daol Investment & Securities ने सिक्योरिटी टोकन ऑफरिंग (STO) प्लेटफॉर्म क्षेत्र में साझेदारी की है। इस सहयोग के जरिए STO प्लेटफॉर्म से जुड़ी भागीदार कंपनियों की संख्या 10 हो गई है। यह कदम प्रतिभूति उद्योग में टोकन सिक्योरिटीज इंफ्रास्ट्रक्चर बनाने की गतिविधियों के बीच उठाया गया है, जिसका केंद्र प्लेटफॉर्म की भागीदारी आधार को व्यापक करना है। भागीदारों की संख्या 10 होने से STO प्लेटफॉर्म इकोसिस्टम में सहयोग का दायरा भी बढ़ने की संभावना है। मूल लेख में सेवा शुरू होने की समयसीमा या विस्तृत कारोबारी शर्तें नहीं दी गईं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Koscom dan Daol Investment Perluas Mitra Platform STO Jadi 10",
-        "excerpt": "Koscom dan Daol Investment & Securities bekerja sama dalam platform security token offering dan memperluas jumlah perusahaan peserta menjadi 10 di tengah pembangunan infrastruktur STO.",
-        "body": "Koscom dan Daol Investment & Securities menjalin kerja sama di bidang platform security token offering (STO). Melalui kerja sama ini, jumlah perusahaan yang berpartisipasi dalam platform STO bertambah menjadi 10. Langkah tersebut berlangsung di tengah upaya industri sekuritas membangun infrastruktur token sekuritas, dengan fokus memperluas basis peserta platform. Dengan jumlah peserta mencapai 10 perusahaan, cakupan kolaborasi dalam ekosistem platform STO juga diperkirakan melebar. Namun, jadwal layanan konkret atau ketentuan bisnis terperinci tidak disebutkan dalam artikel sumber. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "e8492dcd8f4c",
-    "slug": "교보생명-디지털자산-조직-신설블록체인-신사업-포석-831720",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-12T18:58:20.554Z",
-    "updatedAt": "2026-05-12T18:58:20.554Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051215306",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051215306",
-    "titleFingerprint": "6377d50d930da4047eecf52470e596a5db28558c",
-    "dedupKeys": [
-      "e8492dcd8f4c79dbbac59efc774dbe78a22acb09",
-      "6377d50d930da4047eecf52470e596a5db28558c",
-      "27c2cd9b43e8e196b60e75a1fdb8c7677f70b18e"
-    ],
-    "imageUrl": "/images/articles/e8492dcd8f4c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "교보생명 디지털자산 조직 신설, STO·RWA 블록체인 신사업 본격화",
-        "excerpt": "교보생명은 2026년 4월 디지털자산 전담 부서를 신설하고 법제화에 대비해 STO, RWA, 스테이블코인 등 블록체인 기반 신사업 준비에 나섰다.",
-        "body": "교보생명이 2026년 4월 디지털자산 전담 부서를 신설하고 관련 사업 구체화에 착수했다. 12일 hankyung.com에 따르면 회사는 지난해 하반기부터 기획·개발 전문 인력을 확보해 왔으며, 디지털자산 법제화에 대비해 토큰증권(STO), 실물연계자산(RWA), 스테이블코인, 웹3 사업을 검토하고 있다. 신설 부서는 그룹 차원의 중장기 로드맵을 총괄할 전망이다. 해외법인 설립, 국경 간 결제, 자체 지갑, 송금, 수탁 서비스, RWA 플랫폼 개발도 추진 중이다. 교보생명은 리플과 국채 거래 기술 검증을 점검했고, 서클의 아크 공개 테스트넷과 KDX 컨소시엄에도 참여했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Kyobo Life Sets Up Digital Asset Unit as STO and RWA Plans Advance",
-        "excerpt": "Kyobo Life created a dedicated digital asset department in April 2026 to prepare blockchain-based businesses including STOs, RWAs and stablecoins ahead of regulation.",
-        "body": "Kyobo Life Insurance created a dedicated digital asset department in April 2026 and began detailing related business plans. According to hankyung.com on May 12, the company has been hiring planning and development specialists since the second half of last year as it prepares for digital asset legislation. Areas under review include security token offerings, real-world assets, stablecoins and Web3. The new unit is expected to oversee a groupwide mid- to long-term roadmap. Kyobo is also reviewing an overseas digital asset entity, cross-border payments, its own wallet, remittance and custody services, and an RWA platform. It has checked a Ripple government-bond trading proof project and joined Circle’s Arc public testnet and the KDX consortium. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "教保生命がデジタル資産組織新設、STO・RWA新事業を本格検討",
-        "excerpt": "教保生命は2026年4月にデジタル資産専門部署を新設し、制度整備を見据えてSTO、RWA、ステーブルコインなどのブロックチェーン事業を準備している。",
-        "body": "教保生命は2026年4月、デジタル資産の専門部署を新設し、関連事業の具体化に着手した。5月12日のhankyung.comによると、同社は昨年下半期から企画・開発分野の専門人材を確保しており、デジタル資産の法制化に備えてSTO、RWA、ステーブルコイン、Web3事業を検討している。新部署はグループ全体の中長期ロードマップを統括する見通しだ。海外法人設立、越境決済、独自ウォレット、送金、カストディ、RWAプラットフォーム開発も進めている。リップルとは国債取引の技術検証を点検し、サークルのArc公開テストネットとKDXコンソーシアムにも参加した。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "教保生命新设数字资产部门，推进STO与RWA区块链业务",
-        "excerpt": "教保生命于2026年4月新设数字资产专责部门，为数字资产立法做准备，研究STO、RWA、稳定币和Web3等区块链新业务。",
-        "body": "教保生命于2026年4月新设数字资产专责部门，并开始细化相关业务。hankyung.com 5月12日报道称，公司自去年下半年以来持续引进企划和开发领域专业人才，正为数字资产法制化做准备，研究证券型代币发行、实物资产代币化、稳定币和Web3业务。新部门预计将统筹集团层面的中长期数字资产路线图。公司还在研究设立数字资产海外法人、跨境支付、稳定币应用、自有区块链钱包、汇款、托管服务和RWA平台开发。教保生命已与Ripple检查国债交易技术验证项目，并参与Circle的Arc公开测试网和KDX联盟。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Kyobo Life crea unidad de activos digitales y avanza en STO y RWA",
-        "excerpt": "Kyobo Life creó en abril de 2026 un departamento de activos digitales para preparar negocios de blockchain como STO, RWA, stablecoins y Web3 ante la regulación.",
-        "body": "Kyobo Life Insurance creó en abril de 2026 un departamento dedicado a activos digitales y empezó a concretar planes de negocio relacionados. Según hankyung.com el 12 de mayo, la compañía viene incorporando especialistas en planificación y desarrollo desde la segunda mitad del año pasado para prepararse ante la legislación de activos digitales. Revisa áreas como ofertas de tokens de valor, activos del mundo real, stablecoins y Web3. La nueva unidad coordinaría una hoja de ruta de medio y largo plazo para el grupo. También estudia una filial extranjera, pagos transfronterizos, monedero propio, remesas, custodia y una plataforma RWA. Además revisó con Ripple una prueba de negociación de bonos públicos y participa en la testnet Arc de Circle y en KDX. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Kyobo Life cria unidade de ativos digitais e avança em STO e RWA",
-        "excerpt": "A Kyobo Life criou em abril de 2026 uma área dedicada a ativos digitais para preparar negócios em blockchain, incluindo STO, RWA, stablecoins e Web3.",
-        "body": "A Kyobo Life Insurance criou em abril de 2026 um departamento dedicado a ativos digitais e começou a detalhar negócios relacionados. Segundo o hankyung.com em 12 de maio, a empresa vem contratando especialistas em planejamento e desenvolvimento desde o segundo semestre do ano passado para se preparar para a legislação de ativos digitais. As frentes em análise incluem ofertas de tokens de valores mobiliários, ativos do mundo real, stablecoins e Web3. A nova unidade deve coordenar um roteiro de médio e longo prazo para o grupo. A empresa também avalia uma entidade no exterior, pagamentos internacionais, carteira própria, remessas, custódia e plataforma RWA. A Kyobo verificou com a Ripple um teste de negociação de títulos públicos e participa da testnet Arc da Circle e do consórcio KDX. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Kyobo Life gründet Digital-Asset-Team und prüft STO- und RWA-Geschäfte",
-        "excerpt": "Kyobo Life hat im April 2026 eine Digital-Asset-Abteilung gegründet, um Blockchain-Geschäfte wie STO, RWA, Stablecoins und Web3 vor neuer Regulierung vorzubereiten.",
-        "body": "Kyobo Life Insurance hat im April 2026 eine eigene Abteilung für digitale Vermögenswerte gegründet und mit der Konkretisierung entsprechender Geschäfte begonnen. Laut hankyung.com vom 12. Mai baut das Unternehmen seit der zweiten Hälfte des Vorjahres Fachpersonal für Planung und Entwicklung auf, um sich auf die Gesetzgebung zu digitalen Vermögenswerten vorzubereiten. Geprüft werden Security Token Offerings, Real-World Assets, Stablecoins und Web3. Die neue Einheit soll eine mittel- bis langfristige Roadmap für die Gruppe steuern. Ebenfalls geprüft werden eine Auslandsgesellschaft, grenzüberschreitende Zahlungen, eine eigene Wallet, Überweisungs- und Verwahrdienste sowie eine RWA-Plattform. Kyobo prüfte mit Ripple ein Staatsanleihen-Testprojekt und beteiligt sich an Circles Arc-Testnet und am KDX-Konsortium. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Kyobo Life crée une unité actifs numériques et avance sur STO et RWA",
-        "excerpt": "Kyobo Life a créé en avril 2026 une unité dédiée aux actifs numériques afin de préparer des activités blockchain autour des STO, RWA, stablecoins et Web3.",
-        "body": "Kyobo Life Insurance a créé en avril 2026 un département dédié aux actifs numériques et a commencé à préciser ses projets connexes. Selon hankyung.com le 12 mai, l’entreprise recrute depuis le second semestre de l’an dernier des spécialistes de la planification et du développement afin de se préparer à la légalisation des actifs numériques. Les domaines étudiés comprennent les security token offerings, les actifs réels tokenisés, les stablecoins et le Web3. La nouvelle unité devrait piloter une feuille de route de moyen et long terme pour le groupe. Kyobo examine aussi une entité étrangère, les paiements transfrontaliers, un portefeuille propre, les transferts, la conservation et une plateforme RWA. Elle a vérifié avec Ripple un test de négociation d’obligations publiques et participe au testnet Arc de Circle ainsi qu’au consortium KDX. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كيوبو لايف تنشئ وحدة للأصول الرقمية وتتحرك نحو STO وRWA",
-        "excerpt": "أنشأت كيوبو لايف في أبريل 2026 قسما متخصصا للأصول الرقمية استعدادا للتشريعات، مع دراسة أعمال بلوكتشين تشمل STO وRWA والعملات المستقرة وWeb3.",
-        "body": "أنشأت كيوبو لايف للتأمين في أبريل 2026 قسما مخصصا للأصول الرقمية وبدأت تفصيل خطط الأعمال المرتبطة به. ووفقا لموقع hankyung.com في 12 مايو، واصلت الشركة منذ النصف الثاني من العام الماضي استقطاب متخصصين في التخطيط والتطوير استعدادا لتشريعات الأصول الرقمية. وتشمل المجالات قيد الدراسة عروض الرموز المالية، والأصول المرتبطة بأصول حقيقية، والعملات المستقرة، وWeb3. ومن المتوقع أن يتولى القسم الجديد خريطة طريق متوسطة وطويلة الأجل على مستوى المجموعة. كما تدرس الشركة إنشاء كيان خارجي للأصول الرقمية، والمدفوعات العابرة للحدود، ومحفظة خاصة، وخدمات التحويل والحفظ، ومنصة RWA. وراجعت كيوبو مع ريبل اختبارا تقنيا لتداول السندات الحكومية، وشاركت في شبكة Arc التجريبية العامة من Circle واتحاد KDX. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Kyobo Life ने डिजिटल एसेट इकाई बनाई, STO और RWA योजनाएं आगे बढ़ीं",
-        "excerpt": "Kyobo Life ने अप्रैल 2026 में डिजिटल एसेट विभाग बनाया, ताकि नियमन से पहले STO, RWA, स्टेबलकॉइन और Web3 जैसे ब्लॉकचेन कारोबारों की तैयारी हो सके।",
-        "body": "Kyobo Life Insurance ने अप्रैल 2026 में डिजिटल एसेट के लिए समर्पित विभाग बनाया और संबंधित कारोबारों की योजना को ठोस रूप देना शुरू किया। hankyung.com ने 12 मई को बताया कि कंपनी पिछले साल की दूसरी छमाही से योजना और विकास क्षेत्र के विशेषज्ञों को जोड़ रही है, ताकि डिजिटल एसेट कानूनों की तैयारी हो सके। जिन क्षेत्रों पर विचार हो रहा है उनमें सिक्योरिटी टोकन ऑफरिंग, वास्तविक संपत्ति आधारित एसेट, स्टेबलकॉइन और Web3 शामिल हैं। नया विभाग समूह की मध्यम और दीर्घकालिक रोडमैप देख सकता है। कंपनी विदेशी डिजिटल एसेट इकाई, सीमा-पार भुगतान, अपनी वॉलेट, रेमिटेंस, कस्टडी सेवा और RWA प्लेटफॉर्म भी देख रही है। Kyobo ने Ripple के साथ सरकारी बॉन्ड ट्रेडिंग तकनीक परीक्षण की समीक्षा की और Circle के Arc सार्वजनिक टेस्टनेट तथा KDX कंसोर्टियम में भी भाग लिया। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Kyobo Life Bentuk Unit Aset Digital, Dorong Rencana STO dan RWA",
-        "excerpt": "Kyobo Life membentuk departemen aset digital pada April 2026 untuk menyiapkan bisnis blockchain seperti STO, RWA, stablecoin, dan Web3 menjelang regulasi.",
-        "body": "Kyobo Life Insurance membentuk departemen khusus aset digital pada April 2026 dan mulai merinci bisnis terkait. Menurut hankyung.com pada 12 Mei, perusahaan telah merekrut tenaga ahli perencanaan dan pengembangan sejak paruh kedua tahun lalu untuk bersiap menghadapi legislasi aset digital. Area yang dikaji mencakup security token offering, real-world assets, stablecoin, dan Web3. Unit baru ini diperkirakan akan mengoordinasikan peta jalan jangka menengah dan panjang di tingkat grup. Kyobo juga mengkaji pendirian entitas luar negeri, pembayaran lintas batas, dompet sendiri, remitansi, layanan kustodian, dan platform RWA. Perusahaan telah meninjau uji teknologi perdagangan obligasi pemerintah bersama Ripple serta bergabung dalam testnet publik Arc milik Circle dan konsorsium KDX. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "037b92ff765b",
-    "slug": "속보-삼성전자-노조-중노위-중재안-거부사후조정-최종-결렬-198283",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-12T18:56:15.337Z",
-    "updatedAt": "2026-05-12T18:56:15.337Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12045510",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12045510",
-    "titleFingerprint": "0486cf47782d0ea1207efdaa33de327f3c8e44fd",
-    "dedupKeys": [
-      "037b92ff765b4321cea2d8b13af206bd974aa9ef",
-      "0486cf47782d0ea1207efdaa33de327f3c8e44fd",
-      "8b93a7b67dd54cc8b1a9817bf8aa1eafad41c57f"
-    ],
-    "imageUrl": "/images/articles/037b92ff765b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 노조, 중노위 중재안 거부…사후조정 최종 결렬 확인",
-        "excerpt": "삼성전자 노조가 중앙노동위원회 중재안을 거부하면서 사후조정 절차가 최종 결렬됐다고 mk.co.kr이 전했다.",
-        "body": "삼성전자 노조가 중앙노동위원회 중재안을 받아들이지 않으면서 사후조정 절차가 최종 결렬됐다. mk.co.kr에 따르면 이번 사안의 핵심은 노조가 중노위가 제시한 중재안을 거부했다는 점이다. 원문에 공개된 정보는 제목상 ‘속보’로, 구체적인 쟁점이나 추가 수치, 사측 입장 등은 별도로 제시되지 않았다. 사후조정이 최종 결렬된 만큼 삼성전자 노사 협의 흐름은 이후 공개되는 공식 발표와 후속 보도에서 확인될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Electronics union rejects NLRC mediation proposal as post-mediation talks collapse",
-        "excerpt": "Samsung Electronics’ union rejected a National Labor Relations Commission mediation proposal, leading to the final collapse of post-mediation, mk.co.kr reported.",
-        "body": "Samsung Electronics’ union rejected a mediation proposal from the National Labor Relations Commission, bringing the post-mediation process to a final collapse. According to mk.co.kr, the central fact is that the union did not accept the proposal presented by the labor commission. The original item was framed as breaking news, and it did not provide further details such as specific disputed issues, figures, or the company’s response. With post-mediation now ended, the next phase of labor-management discussions will depend on later official statements and follow-up reporting. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン電子労組、中労委の仲裁案を拒否…事後調整が最終決裂",
-        "excerpt": "サムスン電子労組が中央労働委員会の仲裁案を拒否し、事後調整手続きが最終的に決裂したとmk.co.krが伝えた。",
-        "body": "サムスン電子労組は中央労働委員会が提示した仲裁案を受け入れず、事後調整手続きは最終的に決裂した。mk.co.krによると、今回の核心は労組が中労委の仲裁案を拒否した点にある。原文は「速報」として伝えられており、具体的な争点、関連数値、会社側の立場など追加情報は示されていない。事後調整が最終決裂したことで、今後の労使協議の流れは公式発表や続報で確認される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星电子工会拒绝中央劳动委员会调解方案，事后调解最终破裂",
-        "excerpt": "据mk.co.kr报道，三星电子工会拒绝中央劳动委员会提出的调解方案，事后调解程序最终宣告破裂。",
-        "body": "三星电子工会未接受中央劳动委员会提出的调解方案，事后调解程序最终破裂。据mk.co.kr报道，此次事件的核心在于工会拒绝了中劳委提出的调解方案。原文以“快讯”形式发布，未另行提供具体争议焦点、相关数据或公司方面立场等补充信息。随着事后调解最终破裂，三星电子劳资协商的后续走向仍需通过官方公告和后续报道确认。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Sindicato de Samsung Electronics rechaza mediación laboral y fracasa el ajuste posterior",
-        "excerpt": "El sindicato de Samsung Electronics rechazó la propuesta de mediación de la comisión laboral central y el proceso posterior quedó definitivamente roto, informó mk.co.kr.",
-        "body": "El sindicato de Samsung Electronics rechazó una propuesta de mediación presentada por la Comisión Central de Relaciones Laborales, por lo que el proceso de ajuste posterior quedó definitivamente roto. Según mk.co.kr, el punto central es que el sindicato no aceptó la propuesta del organismo laboral. La nota original fue publicada como noticia de última hora y no incluyó detalles adicionales sobre los puntos en disputa, cifras relacionadas ni la postura de la empresa. Tras el fracaso final del ajuste posterior, el curso de las conversaciones laborales dependerá de comunicados oficiales y reportes posteriores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Sindicato da Samsung Electronics rejeita mediação trabalhista e ajuste posterior fracassa",
-        "excerpt": "O sindicato da Samsung Electronics rejeitou a proposta de mediação da comissão trabalhista central, levando ao fracasso final do ajuste posterior, informou mk.co.kr.",
-        "body": "O sindicato da Samsung Electronics rejeitou uma proposta de mediação apresentada pela Comissão Central de Relações Trabalhistas, encerrando com fracasso o processo de ajuste posterior. Segundo o mk.co.kr, o ponto principal é que o sindicato não aceitou a proposta sugerida pelo órgão trabalhista. A notícia original foi publicada como urgente e não trouxe detalhes adicionais sobre pontos de disputa, números relacionados ou a posição da empresa. Com o ajuste posterior definitivamente rompido, os próximos passos das discussões trabalhistas dependerão de comunicados oficiais e novas reportagens. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung-Electronics-Gewerkschaft lehnt Schlichtung ab, Nachvermittlung endgültig gescheitert",
-        "excerpt": "Die Gewerkschaft von Samsung Electronics lehnte den Schlichtungsvorschlag der zentralen Arbeitskommission ab; die Nachvermittlung scheiterte endgültig, berichtet mk.co.kr.",
-        "body": "Die Gewerkschaft von Samsung Electronics hat einen Schlichtungsvorschlag der zentralen Arbeitskommission abgelehnt, womit das Nachvermittlungsverfahren endgültig gescheitert ist. Laut mk.co.kr liegt der Kern des Falls darin, dass die Gewerkschaft den von der Kommission vorgelegten Vorschlag nicht annahm. Die ursprüngliche Meldung wurde als Eilmeldung veröffentlicht und enthielt keine weiteren Angaben zu konkreten Streitpunkten, Zahlen oder zur Position des Unternehmens. Nach dem endgültigen Scheitern der Nachvermittlung wird der weitere Verlauf der Gespräche durch offizielle Mitteilungen und Folgeberichte zu klären sein. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le syndicat de Samsung Electronics rejette la médiation, l’ajustement final échoue",
-        "excerpt": "Le syndicat de Samsung Electronics a rejeté la proposition de médiation de la commission centrale du travail, entraînant l’échec définitif de la procédure, selon mk.co.kr.",
-        "body": "Le syndicat de Samsung Electronics a refusé une proposition de médiation présentée par la Commission centrale des relations du travail, ce qui a entraîné l’échec définitif de la procédure d’ajustement postérieur. Selon mk.co.kr, l’élément central est le rejet par le syndicat de la proposition soumise par l’organisme du travail. L’article original a été publié comme une alerte et ne fournit pas d’autres détails sur les points de désaccord, les chiffres concernés ou la position de l’entreprise. Après cet échec final, la suite des discussions sociales devra être confirmée par des annonces officielles et des articles ultérieurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "نقابة سامسونغ إلكترونيكس ترفض وساطة لجنة العمل وتنتهي التسوية اللاحقة بالفشل",
-        "excerpt": "رفضت نقابة سامسونغ إلكترونيكس مقترح الوساطة الصادر عن لجنة علاقات العمل المركزية، ما أدى إلى فشل نهائي للتسوية اللاحقة، وفق mk.co.kr.",
-        "body": "رفضت نقابة سامسونغ إلكترونيكس مقترح وساطة قدمته لجنة علاقات العمل المركزية، وبذلك انتهت إجراءات التسوية اللاحقة بالفشل النهائي. ووفق ما نقلته mk.co.kr، فإن جوهر الخبر هو عدم قبول النقابة للمقترح الذي قدمته اللجنة. وقد وردت المعلومة الأصلية في صيغة خبر عاجل، من دون تفاصيل إضافية عن نقاط الخلاف المحددة أو أرقام ذات صلة أو موقف الشركة. ومع انهيار التسوية اللاحقة نهائيا، ستتضح الخطوات التالية في مسار المحادثات العمالية عبر البيانات الرسمية والتقارير اللاحقة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung Electronics यूनियन ने श्रम आयोग की मध्यस्थता ठुकराई, बाद की सुलह विफल",
-        "excerpt": "Samsung Electronics की यूनियन ने केंद्रीय श्रम संबंध आयोग के मध्यस्थता प्रस्ताव को अस्वीकार किया, जिससे बाद की सुलह प्रक्रिया अंतिम रूप से विफल हुई, mk.co.kr ने बताया।",
-        "body": "Samsung Electronics की यूनियन ने केंद्रीय श्रम संबंध आयोग की ओर से दिए गए मध्यस्थता प्रस्ताव को स्वीकार नहीं किया, जिसके बाद बाद की सुलह प्रक्रिया अंतिम रूप से विफल हो गई। mk.co.kr के अनुसार, इस मामले का मुख्य तथ्य यह है कि यूनियन ने आयोग के प्रस्ताव को अस्वीकार किया। मूल खबर को ब्रेकिंग न्यूज के रूप में प्रकाशित किया गया था और इसमें विवाद के विशिष्ट मुद्दों, संबंधित आंकड़ों या कंपनी की प्रतिक्रिया जैसी अतिरिक्त जानकारी नहीं दी गई। सुलह प्रक्रिया के अंतिम रूप से टूटने के बाद आगे की श्रम-प्रबंधन बातचीत की दिशा आधिकारिक बयानों और बाद की रिपोर्टों से स्पष्ट होगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Serikat Samsung Electronics tolak mediasi komisi tenaga kerja, penyesuaian akhir buntu",
-        "excerpt": "Serikat Samsung Electronics menolak proposal mediasi Komisi Hubungan Ketenagakerjaan Pusat, sehingga proses penyesuaian pascamediasi akhirnya buntu, lapor mk.co.kr.",
-        "body": "Serikat Samsung Electronics menolak proposal mediasi yang diajukan Komisi Hubungan Ketenagakerjaan Pusat, sehingga proses penyesuaian pascamediasi berakhir buntu. Menurut mk.co.kr, inti peristiwa ini adalah serikat tidak menerima proposal yang disampaikan komisi tersebut. Berita asli dipublikasikan sebagai kabar mendadak dan tidak memuat rincian tambahan mengenai pokok sengketa, angka terkait, atau posisi perusahaan. Setelah penyesuaian pascamediasi resmi gagal, arah pembicaraan tenaga kerja berikutnya akan bergantung pada pernyataan resmi dan laporan lanjutan. Sumber: mk.co.kr"
       }
     }
   }
