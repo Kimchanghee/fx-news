@@ -1,0 +1,75 @@
+{
+  "id": "eb5d9ed7c8a8",
+  "slug": "횡설수설말실수도-찰떡같이-알아듣네구글-램블러-ai-비서-판도-바꿀까-946815",
+  "channelId": "FX",
+  "category": "fx",
+  "publishedAt": "2026-05-13T08:22:27.133Z",
+  "updatedAt": "2026-05-13T08:22:27.133Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/business/12046269",
+  "canonicalUrl": "https://www.mk.co.kr/news/business/12046269",
+  "titleFingerprint": "6dcc63b5d59d623aae236c5ea366916f4da6aff7",
+  "dedupKeys": [
+    "eb5d9ed7c8a8cca40ba7748cad2c086026f0d75e",
+    "6dcc63b5d59d623aae236c5ea366916f4da6aff7",
+    "9ebadd6a23940620f19cac7cee01ecd908ca0cf0"
+  ],
+  "imageUrl": "/images/articles/eb5d9ed7c8a8.png",
+  "i18n": {
+    "ko": {
+      "title": "구글 램블러 공개, 말실수까지 다듬는 AI 음성 비서 경쟁 주목",
+      "excerpt": "구글이 사용자의 투박한 음성을 실시간으로 세련된 문장으로 재구성하는 차세대 AI 음성 비서 램블러를 선보이며 음성 비서 기술 경쟁의 새 변수로 떠올랐다.",
+      "body": "구글이 사용자의 횡설수설한 말이나 말실수까지 실시간으로 다듬어 세련된 문장으로 재구성하는 차세대 인공지능 음성 비서 기술 램블러를 선보였다. 이 기술은 단순히 음성을 받아쓰는 수준을 넘어, 사용자의 의도와 맥락을 파악해 자연스러운 표현으로 바꾸는 데 초점을 맞춘다. 기존 음성 비서가 명령 인식과 텍스트 변환에 머물렀다면 램블러는 대화 과정에서 어색한 표현을 정리하는 방향으로 확장된 것이 특징이다. 사용자가 완성된 문장으로 말하지 않아도 의미를 살려 정돈된 문장으로 제시할 수 있다는 점에서 AI 비서 활용 방식에 변화를 줄 수 있다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Google Rambler Debuts as AI Voice Assistant Refines Rough Speech in Real Time",
+      "excerpt": "Google has introduced Rambler, a next-generation AI voice assistant technology that restructures rough user speech into polished sentences in real time, drawing attention in the voice assistant race.",
+      "body": "Google has unveiled Rambler, a next-generation artificial intelligence voice assistant technology that can refine rambling speech and verbal slips in real time and reconstruct them into polished sentences. The technology goes beyond simple speech-to-text transcription by focusing on understanding the user’s intent and context, then turning rough input into natural expression. While existing voice assistants have largely centered on command recognition and text conversion, Rambler expands the role of the assistant toward organizing awkward spoken language during conversation. Its ability to preserve meaning even when a user does not speak in complete sentences could affect how AI assistants are used. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "グーグルのランブラー公開、言い間違いも整えるAI音声アシスタントに注目",
+      "excerpt": "グーグルは、利用者の粗い発話をリアルタイムで洗練された文章に再構成する次世代AI音声アシスタント技術ランブラーを披露し、競争の焦点となっている。",
+      "body": "グーグルは、利用者のまとまりに欠ける発話や言い間違いまでリアルタイムで整え、洗練された文章に再構成する次世代人工知能音声アシスタント技術ランブラーを披露した。この技術は単に音声を書き起こす段階を超え、利用者の意図と文脈を把握し、自然な表現に変えることに重点を置く。従来の音声アシスタントが命令認識やテキスト変換を中心としていたのに対し、ランブラーは会話の中でぎこちない表現を整理する方向へ機能を広げた点が特徴だ。完全な文章で話さなくても意味を生かして整った文にできるため、AIアシスタントの使い方に変化をもたらす可能性がある。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "谷歌Rambler亮相，实时修饰口误与杂乱表达的AI语音助手受关注",
+      "excerpt": "谷歌推出下一代AI语音助手技术Rambler，可实时将用户粗糙语音重组为更流畅的句子，成为语音助手技术竞争中的新看点。",
+      "body": "谷歌推出了名为Rambler的下一代人工智能语音助手技术，可实时整理用户杂乱的表达和口误，并将其重构为更 polished、自然的句子。该技术并不只是把语音转成文字，而是强调理解用户意图和语境，再把粗糙输入转换成更顺畅的表达。以往语音助手主要停留在识别命令和文本转换层面，而Rambler的特点在于把功能扩展到对话过程中整理不自然表达。即便用户没有说出完整句子，它也能保留原意并生成更整齐的文本，这可能影响AI助手的使用方式。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Google Rambler llega para pulir errores al hablar y agita la carrera de asistentes IA",
+      "excerpt": "Google presentó Rambler, una tecnología de asistente de voz con IA que reorganiza en tiempo real frases torpes o imprecisas en oraciones más cuidadas, elevando la competencia del sector.",
+      "body": "Google presentó Rambler, una tecnología de asistente de voz con inteligencia artificial de próxima generación capaz de corregir en tiempo real expresiones confusas y errores al hablar para reconstruirlos como oraciones más pulidas. La tecnología va más allá de transcribir la voz: se centra en captar la intención y el contexto del usuario para convertir una entrada poco refinada en una formulación natural. Mientras los asistentes de voz existentes se han enfocado sobre todo en reconocer órdenes y transformar voz en texto, Rambler amplía su función hacia la organización de expresiones incómodas durante la conversación. Su capacidad de conservar el significado aunque el usuario no hable con frases completas podría cambiar la forma de usar asistentes de IA. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Google Rambler estreia ao corrigir falas confusas e eleva disputa de assistentes de IA",
+      "excerpt": "O Google apresentou o Rambler, tecnologia de assistente de voz com IA que reorganiza em tempo real falas pouco claras em frases mais polidas, chamando atenção na disputa do setor.",
+      "body": "O Google apresentou o Rambler, uma tecnologia de assistente de voz com inteligência artificial de próxima geração capaz de refinar em tempo real falas confusas e deslizes verbais, reconstruindo-os como frases mais polidas. A tecnologia vai além da simples transcrição de voz, pois busca entender a intenção e o contexto do usuário para transformar uma fala bruta em uma expressão natural. Enquanto assistentes de voz existentes se concentraram em reconhecer comandos e converter fala em texto, o Rambler amplia essa função ao organizar expressões pouco naturais durante a conversa. Mesmo quando o usuário não fala em frases completas, a capacidade de preservar o significado e apresentar uma frase ordenada pode alterar o uso de assistentes de IA. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Google Rambler vorgestellt: KI-Sprachassistent glättet Versprecher in Echtzeit",
+      "excerpt": "Google hat Rambler vorgestellt, eine neue KI-Sprachassistententechnik, die grobe Spracheingaben in Echtzeit in ausgefeilte Sätze umformt und den Wettbewerb neu belebt.",
+      "body": "Google hat Rambler vorgestellt, eine Sprachassistententechnik der nächsten Generation auf Basis künstlicher Intelligenz, die abschweifende Formulierungen und Versprecher von Nutzern in Echtzeit glättet und in ausgefeilte Sätze umformt. Die Technik geht über reine Spracherkennung und Transkription hinaus: Sie soll Absicht und Kontext des Nutzers erfassen und rohe Sprache in natürliche Formulierungen übertragen. Während bestehende Sprachassistenten vor allem auf Befehlserkennung und Textumwandlung ausgerichtet waren, erweitert Rambler die Rolle des Assistenten auf das Ordnen unbeholfener Ausdrücke im Gespräch. Dass auch unvollständige Sätze sinngemäß in klare Formulierungen überführt werden können, könnte die Nutzung von KI-Assistenten verändern. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Google Rambler dévoilé, l’assistant vocal IA qui reformule les hésitations en temps réel",
+      "excerpt": "Google a présenté Rambler, une technologie d’assistant vocal IA capable de restructurer en temps réel une parole approximative en phrases plus soignées, nouvel enjeu du secteur.",
+      "body": "Google a dévoilé Rambler, une technologie d’assistant vocal de nouvelle génération fondée sur l’intelligence artificielle, capable de corriger en temps réel les propos décousus et les lapsus d’un utilisateur pour les reconstruire en phrases plus soignées. Elle dépasse la simple transcription de la voix en texte en cherchant à comprendre l’intention et le contexte de l’utilisateur afin de transformer une entrée brute en expression naturelle. Là où les assistants vocaux existants se concentraient surtout sur la reconnaissance de commandes et la conversion en texte, Rambler étend leur rôle à l’organisation d’expressions maladroites au fil de la conversation. Même sans phrase complète, la capacité à préserver le sens et à proposer une formulation claire pourrait modifier l’usage des assistants IA. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "غوغل تكشف Rambler: مساعد صوتي بالذكاء الاصطناعي يصقل التعثرات فوريا",
+      "excerpt": "قدمت غوغل تقنية Rambler، وهي مساعد صوتي من الجيل التالي بالذكاء الاصطناعي يعيد صياغة الكلام الخام للمستخدم في جمل أكثر سلاسة لحظة بلحظة.",
+      "body": "كشفت غوغل عن Rambler، وهي تقنية مساعد صوتي من الجيل التالي تعتمد على الذكاء الاصطناعي وتستطيع تهذيب الكلام المتعثر وزلات اللسان لدى المستخدم في الوقت الفعلي وإعادة بنائه في جمل أكثر صقلا. لا تقف التقنية عند تحويل الصوت إلى نص، بل تركز على فهم نية المستخدم والسياق ثم تحويل المدخلات الخام إلى تعبير طبيعي. وبينما تركز المساعدات الصوتية الحالية غالبا على التعرف إلى الأوامر وتحويل الكلام إلى نص، يوسع Rambler الدور نحو ترتيب العبارات غير السلسة أثناء المحادثة. وقد يؤثر ذلك في طريقة استخدام مساعدات الذكاء الاصطناعي، لأنه يحافظ على المعنى حتى عندما لا يتحدث المستخدم بجمل مكتملة. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "Google Rambler पेश, बोलने की गलती भी तुरंत सुधारने वाला AI वॉइस असिस्टेंट",
+      "excerpt": "Google ने Rambler नाम की अगली पीढ़ी की AI वॉइस असिस्टेंट तकनीक पेश की है, जो उपयोगकर्ता की असंगठित आवाज को वास्तविक समय में बेहतर वाक्यों में बदलती है।",
+      "body": "Google ने Rambler नाम की अगली पीढ़ी की कृत्रिम बुद्धिमत्ता आधारित वॉइस असिस्टेंट तकनीक पेश की है, जो उपयोगकर्ता की उलझी हुई बातों और बोलने की गलतियों को वास्तविक समय में सुधारकर उन्हें अधिक परिष्कृत वाक्यों में बदल सकती है। यह तकनीक केवल आवाज को लिखित पाठ में बदलने तक सीमित नहीं है, बल्कि उपयोगकर्ता की मंशा और संदर्भ को समझकर कच्चे इनपुट को स्वाभाविक अभिव्यक्ति में बदलने पर केंद्रित है। मौजूदा वॉइस असिस्टेंट मुख्य रूप से आदेश पहचानने और आवाज को टेक्स्ट में बदलने पर केंद्रित रहे हैं, जबकि Rambler बातचीत के दौरान अटपटे वाक्यों को व्यवस्थित करने की दिशा में आगे बढ़ता है। उपयोगकर्ता पूर्ण वाक्य न भी बोले, तब भी अर्थ को बनाए रखते हुए सुव्यवस्थित वाक्य देना AI असिस्टेंट के उपयोग का तरीका बदल सकता है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Google Rambler Diperkenalkan, Asisten Suara AI yang Merapikan Salah Ucap Real Time",
+      "excerpt": "Google memperkenalkan Rambler, teknologi asisten suara AI generasi baru yang menyusun ulang ucapan kasar pengguna menjadi kalimat lebih rapi secara real time.",
+      "body": "Google memperkenalkan Rambler, teknologi asisten suara berbasis kecerdasan buatan generasi berikutnya yang dapat merapikan ucapan bertele-tele dan salah ucap pengguna secara real time lalu menyusunnya kembali menjadi kalimat yang lebih halus. Teknologi ini melampaui sekadar transkripsi suara, karena berfokus pada pemahaman maksud dan konteks pengguna untuk mengubah input yang kasar menjadi ungkapan alami. Jika asisten suara yang ada selama ini terutama berpusat pada pengenalan perintah dan konversi suara ke teks, Rambler memperluas fungsi itu ke arah merapikan ekspresi yang canggung dalam percakapan. Kemampuan mempertahankan makna meski pengguna tidak berbicara dengan kalimat lengkap dapat memengaruhi cara penggunaan asisten AI. Sumber: mk.co.kr"
+    }
+  }
+}
