@@ -1,5 +1,230 @@
 [
   {
+    "id": "bc3abeb4b8f5",
+    "slug": "오래-누우세요코웨이-cgv영등포타임스퀘어에-코웨이-비렉스관-오픈-874918",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T04:43:09.339Z",
+    "updatedAt": "2026-05-13T04:43:09.339Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12045919",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12045919",
+    "titleFingerprint": "ec47807b211733c4b9f8ac836ac676536d6e69b3",
+    "dedupKeys": [
+      "bc3abeb4b8f55730025d5d76c90150f97f50ad8a",
+      "ec47807b211733c4b9f8ac836ac676536d6e69b3",
+      "a8bf84b8de7afed6bacef3ae59c575ec36de1eb5"
+    ],
+    "imageUrl": "/images/articles/bc3abeb4b8f5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코웨이 비렉스관, CGV영등포타임스퀘어에 모션베드 영화관 오픈",
+        "excerpt": "코웨이는 13일 CGV영등포타임스퀘어점에 전 좌석 스트레칭 모션베드를 설치한 ‘코웨이 비렉스관’을 열고 이날부터 운영에 들어갔다고 밝혔다.",
+        "body": "코웨이가 13일 CGV영등포타임스퀘어점에 ‘코웨이 비렉스관’을 오픈하고 이날부터 운영을 시작했다. 이 상영관은 전 좌석에 스트레칭 기능을 갖춘 모션베드를 설치한 것이 특징이다. 코웨이는 자사 수면·휴식 브랜드인 비렉스를 영화 관람 환경과 결합해 관객이 제품을 직접 경험할 수 있는 공간을 마련했다. 업계에서는 영화관과 호텔 등 이용 시간이 비교적 긴 공간과 협업해 소비자의 체험 시간을 확보하려는 경쟁이 이어지고 있다. 이번 비렉스관은 영화 관람 중 제품 체험을 자연스럽게 연결하는 사례로 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Coway Birex Hall Opens at CGV Yeongdeungpo Times Square With Motion Beds",
+        "excerpt": "Coway said on the 13th it opened the ‘Coway Birex Hall’ at CGV Yeongdeungpo Times Square, with stretching motion beds installed in every seat.",
+        "body": "Coway opened the ‘Coway Birex Hall’ at CGV Yeongdeungpo Times Square on the 13th and began operating it the same day. The theater is characterized by stretching motion beds installed in every seat. Coway has combined its sleep and relaxation brand Birex with a moviegoing environment to create a space where viewers can experience the products directly. In the industry, companies are continuing to compete for consumer experience time through collaborations with places where users stay relatively long, such as cinemas and hotels. The Birex Hall is drawing attention as a case that naturally links product experience with movie viewing. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "コーウェイBirex館、CGV永登浦タイムスクエアにモーションベッド映画館開設",
+        "excerpt": "コーウェイは13日、CGV永登浦タイムスクエア店に全席ストレッチ機能付きモーションベッドを設置した「コーウェイBirex館」を開設したと発表した。",
+        "body": "コーウェイは13日、CGV永登浦タイムスクエア店に「コーウェイBirex館」をオープンし、同日から運営を開始した。この上映館は、全席にストレッチ機能を備えたモーションベッドを設置した点が特徴だ。コーウェイは自社の睡眠・休息ブランドであるBirexを映画鑑賞環境と結び付け、観客が製品を直接体験できる空間を用意した。業界では、映画館やホテルなど利用時間が比較的長い空間と協業し、消費者の体験時間を確保しようとする競争が続いている。今回のBirex館は、映画鑑賞中に製品体験を自然につなげる事例として注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Coway Birex影厅落地CGV永登浦时代广场，全座配备运动床",
+        "excerpt": "Coway于13日表示，已在CGV永登浦时代广场店开设“Coway Birex影厅”，全座安装带伸展功能的运动床，并于当天开始运营。",
+        "body": "Coway于13日在CGV永登浦时代广场店开设“Coway Birex影厅”，并从当天起开始运营。该影厅的特点是所有座位均安装带伸展功能的运动床。Coway将旗下睡眠与休息品牌Birex同观影环境结合，打造让观众直接体验产品的空间。业内正在通过与电影院、酒店等停留时间相对较长的场所合作，持续争夺消费者体验时间。此次Birex影厅被视为在电影观看过程中自然连接产品体验的案例。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "Coway Birex abre en CGV Yeongdeungpo Times Square con camas de movimiento",
+        "excerpt": "Coway informó el día 13 que abrió la ‘Sala Coway Birex’ en CGV Yeongdeungpo Times Square, con camas de movimiento con estiramiento en todos los asientos.",
+        "body": "Coway abrió el día 13 la ‘Sala Coway Birex’ en CGV Yeongdeungpo Times Square e inició su operación ese mismo día. La sala se distingue por tener camas de movimiento con función de estiramiento instaladas en todos los asientos. Coway combinó su marca de sueño y descanso, Birex, con el entorno de una sala de cine para crear un espacio donde los espectadores puedan experimentar directamente los productos. En el sector continúa la competencia por asegurar tiempo de experiencia del consumidor mediante colaboraciones con espacios donde la permanencia es relativamente larga, como cines y hoteles. Esta sala Birex llama la atención como un caso que conecta de forma natural la experiencia del producto con la visualización de películas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Coway Birex abre no CGV Yeongdeungpo Times Square com camas de movimento",
+        "excerpt": "A Coway informou no dia 13 que abriu a ‘Sala Coway Birex’ no CGV Yeongdeungpo Times Square, com camas de movimento com alongamento em todos os assentos.",
+        "body": "A Coway abriu no dia 13 a ‘Sala Coway Birex’ no CGV Yeongdeungpo Times Square e iniciou a operação no mesmo dia. A sala se destaca por ter camas de movimento com função de alongamento instaladas em todos os assentos. A Coway combinou sua marca de sono e descanso, Birex, com o ambiente de cinema para criar um espaço onde os espectadores possam experimentar diretamente os produtos. No setor, continua a disputa para garantir tempo de experiência do consumidor por meio de colaborações com locais de permanência relativamente longa, como cinemas e hotéis. A sala Birex chama atenção como um caso que conecta naturalmente a experiência do produto à sessão de cinema. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Coway Birex-Saal im CGV Yeongdeungpo Times Square mit Motion-Betten eröffnet",
+        "excerpt": "Coway teilte am 13. mit, im CGV Yeongdeungpo Times Square den ‘Coway Birex-Saal’ eröffnet zu haben, in dem alle Sitze als Stretching-Motion-Betten ausgeführt sind.",
+        "body": "Coway hat am 13. im CGV Yeongdeungpo Times Square den ‘Coway Birex-Saal’ eröffnet und den Betrieb am selben Tag aufgenommen. Kennzeichnend für den Kinosaal ist, dass alle Plätze mit Motion-Betten mit Stretching-Funktion ausgestattet sind. Coway verbindet damit seine Schlaf- und Erholungsmarke Birex mit dem Kinoerlebnis und schafft einen Raum, in dem Besucher die Produkte direkt erleben können. In der Branche setzt sich der Wettbewerb fort, durch Kooperationen mit Orten mit vergleichsweise langer Aufenthaltsdauer, etwa Kinos und Hotels, mehr Erfahrungszeit der Verbraucher zu sichern. Der Birex-Saal gilt als Beispiel dafür, Produkterlebnis und Filmvorführung natürlich miteinander zu verbinden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Coway Birex ouvre au CGV Yeongdeungpo Times Square avec lits motorisés",
+        "excerpt": "Coway a annoncé le 13 l’ouverture de la ‘salle Coway Birex’ au CGV Yeongdeungpo Times Square, équipée de lits motorisés avec fonction d’étirement à toutes les places.",
+        "body": "Coway a ouvert le 13 la ‘salle Coway Birex’ au CGV Yeongdeungpo Times Square et a commencé son exploitation le même jour. Cette salle se distingue par l’installation, à toutes les places, de lits motorisés dotés d’une fonction d’étirement. Coway associe sa marque de sommeil et de repos Birex à l’environnement du cinéma afin de proposer un espace où les spectateurs peuvent expérimenter directement les produits. Dans le secteur, la concurrence se poursuit pour capter du temps d’expérience consommateur grâce à des collaborations avec des lieux où la durée de présence est relativement longue, comme les cinémas et les hôtels. Cette salle Birex attire l’attention comme exemple reliant naturellement expérience produit et visionnage de films. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "قاعة Coway Birex تفتح في CGV Yeongdeungpo Times Square بأسرة حركة",
+        "excerpt": "أعلنت Coway في 13 من الشهر افتتاح ‘قاعة Coway Birex’ في CGV Yeongdeungpo Times Square، مع تركيب أسرّة حركة مزودة بوظيفة التمدد في جميع المقاعد.",
+        "body": "افتتحت Coway في 13 من الشهر ‘قاعة Coway Birex’ في CGV Yeongdeungpo Times Square وبدأت تشغيلها في اليوم نفسه. وتتميز القاعة بتركيب أسرّة حركة مزودة بوظيفة التمدد في جميع المقاعد. جمعت Coway بين علامتها الخاصة بالنوم والراحة Birex وبيئة مشاهدة الأفلام، لتوفير مساحة تتيح للجمهور تجربة المنتجات مباشرة. وفي القطاع، تتواصل المنافسة على تأمين وقت أطول لتجربة المستهلك من خلال التعاون مع أماكن يقضي فيها المستخدمون وقتا طويلا نسبيا، مثل دور السينما والفنادق. وتلفت قاعة Birex الانتباه بوصفها مثالا يربط تجربة المنتج بمشاهدة الأفلام بصورة طبيعية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "CGV Yeongdeungpo Times Square में Coway Birex हॉल, मोशन बेड सीटों के साथ खुला",
+        "excerpt": "Coway ने 13 तारीख को बताया कि उसने CGV Yeongdeungpo Times Square में ‘Coway Birex Hall’ खोला है, जहां हर सीट पर स्ट्रेचिंग मोशन बेड लगाया गया है।",
+        "body": "Coway ने 13 तारीख को CGV Yeongdeungpo Times Square में ‘Coway Birex Hall’ खोला और उसी दिन से इसका संचालन शुरू किया। इस थिएटर की खासियत यह है कि हर सीट पर स्ट्रेचिंग फ़ंक्शन वाला मोशन बेड लगाया गया है। Coway ने अपने स्लीप और रेस्ट ब्रांड Birex को फिल्म देखने के वातावरण से जोड़कर ऐसी जगह बनाई है जहां दर्शक उत्पादों का प्रत्यक्ष अनुभव कर सकें। उद्योग में सिनेमा और होटल जैसी अपेक्षाकृत लंबे उपयोग समय वाली जगहों के साथ सहयोग के जरिए उपभोक्ता अनुभव समय 확보 करने की प्रतिस्पर्धा जारी है। यह Birex Hall फिल्म देखने के दौरान उत्पाद अनुभव को स्वाभाविक रूप से जोड़ने वाले उदाहरण के रूप में ध्यान खींच रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Coway Birex Hall Dibuka di CGV Yeongdeungpo Times Square dengan Motion Bed",
+        "excerpt": "Coway menyatakan pada tanggal 13 bahwa ‘Coway Birex Hall’ telah dibuka di CGV Yeongdeungpo Times Square, dengan motion bed berfitur peregangan di semua kursi.",
+        "body": "Coway membuka ‘Coway Birex Hall’ di CGV Yeongdeungpo Times Square pada tanggal 13 dan mulai mengoperasikannya pada hari yang sama. Studio ini ditandai dengan pemasangan motion bed berfitur peregangan di seluruh kursi. Coway menggabungkan merek tidur dan istirahatnya, Birex, dengan lingkungan menonton film untuk menyediakan ruang tempat penonton dapat merasakan produk secara langsung. Di industri, persaingan untuk mengamankan waktu pengalaman konsumen terus berlangsung melalui kolaborasi dengan ruang yang memiliki durasi penggunaan relatif panjang, seperti bioskop dan hotel. Birex Hall ini menarik perhatian sebagai contoh yang menghubungkan pengalaman produk secara alami dengan kegiatan menonton film. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "041f2e5bc8c0",
+    "slug": "인천항만공사-1415일-중고차부품-수출-상담회-208308",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T04:42:10.737Z",
+    "updatedAt": "2026-05-13T04:42:10.737Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12045927",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12045927",
+    "titleFingerprint": "ad71c27130872e05b32d90e8f77deece0bd88d6c",
+    "dedupKeys": [
+      "041f2e5bc8c02aa4aaadbd98cc2ed93b67285598",
+      "ad71c27130872e05b32d90e8f77deece0bd88d6c",
+      "3fe20a1807ab90aefa125e422895afc50000b641"
+    ],
+    "imageUrl": "/images/articles/041f2e5bc8c0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "인천항만공사 중고차·부품 수출 상담회, 14~15일 인천서 개최",
+        "excerpt": "인천항만공사는 14~15일 쉐라톤그랜드 인천호텔에서 중고차·부품 수출 상담회를 열고 중소기업 61개사와 해외 바이어 33곳의 상담 기회를 마련한다.",
+        "body": "인천항만공사(사장 이경규)는 14~15일 쉐라톤그랜드 인천호텔에서 중고차·부품 수출 상담회를 개최한다. 이번 행사는 대한무역투자진흥공사, 인천상공회의소 등과 함께 열리며, 중소기업 61개사와 해외 바이어 33곳이 참가한다. 상담회는 국내 중고차와 자동차 부품 관련 기업이 해외 바이어를 직접 만나 수출 상담을 진행하는 자리로 마련됐다. 인천항을 기반으로 한 관련 업계의 해외 판로 확대와 기업 간 거래 기회 발굴에 초점이 맞춰진다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Incheon Port Authority to Host Used Car and Parts Export Talks on May 14-15",
+        "excerpt": "Incheon Port Authority will hold used car and auto parts export consultations at Sheraton Grand Incheon Hotel on May 14-15, with 61 SMEs and 33 overseas buyers attending.",
+        "body": "Incheon Port Authority, led by President Lee Kyung-kyu, will hold a used car and auto parts export consultation event on May 14-15 at the Sheraton Grand Incheon Hotel. The event is organized with the Korea Trade-Investment Promotion Agency and the Incheon Chamber of Commerce and Industry, among others. A total of 61 small and medium-sized companies and 33 overseas buyers will participate. The meetings are designed to let domestic used car and auto parts companies meet foreign buyers directly for export consultations. The focus is on expanding overseas sales channels and finding business opportunities for related companies based around Incheon Port. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "仁川港湾公社、中古車・部品輸出商談会を14～15日に仁川で開催",
+        "excerpt": "仁川港湾公社は14～15日、シェラトングランド仁川ホテルで中古車・部品輸出商談会を開き、中小企業61社と海外バイヤー33社が参加する。",
+        "body": "仁川港湾公社（社長イ・ギョンギュ）は14～15日、シェラトングランド仁川ホテルで中古車・自動車部品の輸出商談会を開催する。今回の行事は大韓貿易投資振興公社、仁川商工会議所などと共に開かれ、中小企業61社と海外バイヤー33社が参加する。商談会は、国内の中古車および自動車部品関連企業が海外バイヤーと直接会い、輸出相談を行う場として設けられた。仁川港を基盤とする関連業界の海外販路拡大と企業間取引機会の発掘に焦点を当てる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "仁川港湾公社将于14至15日举办二手车及零部件出口洽谈会",
+        "excerpt": "仁川港湾公社将于14至15日在仁川喜来登大酒店举办二手车及汽车零部件出口洽谈会，61家中小企业和33家海外买家将参加。",
+        "body": "仁川港湾公社（社长李京圭）将于14日至15日在仁川喜来登大酒店举办二手车及汽车零部件出口洽谈会。本次活动将与大韩贸易投资振兴公社、仁川商工会议所等共同举行，61家中小企业和33家海外买家将参加。洽谈会旨在为韩国二手车和汽车零部件相关企业提供与海外买家直接会面并开展出口洽谈的机会。活动重点在于帮助以仁川港为基础的相关行业拓展海外销售渠道，并发掘企业间交易机会。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Autoridad Portuaria de Incheon realizará ronda de exportación de autos usados y piezas",
+        "excerpt": "La Autoridad Portuaria de Incheon celebrará el 14 y 15 de mayo una ronda de exportación de autos usados y autopartes con 61 pymes y 33 compradores extranjeros.",
+        "body": "La Autoridad Portuaria de Incheon, presidida por Lee Kyung-kyu, celebrará el 14 y 15 de mayo una ronda de consultas de exportación de autos usados y autopartes en el Sheraton Grand Incheon Hotel. El evento se realizará junto con la Agencia de Promoción de Comercio e Inversión de Corea y la Cámara de Comercio e Industria de Incheon, entre otras entidades. Participarán 61 pequeñas y medianas empresas y 33 compradores extranjeros. La reunión está diseñada para que compañías nacionales vinculadas a autos usados y piezas de automóviles contacten directamente con compradores del exterior. El foco estará en ampliar canales de venta internacionales y encontrar oportunidades de negocio para empresas relacionadas con el Puerto de Incheon. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Porto de Incheon fará encontro de exportação de carros usados e autopeças",
+        "excerpt": "A Autoridade Portuária de Incheon realizará, em 14 e 15 de maio, um encontro de exportação de carros usados e autopeças com 61 PMEs e 33 compradores estrangeiros.",
+        "body": "A Autoridade Portuária de Incheon, presidida por Lee Kyung-kyu, realizará nos dias 14 e 15 de maio um encontro de consultas para exportação de carros usados e autopeças no Sheraton Grand Incheon Hotel. O evento será promovido com a Agência Coreana de Promoção do Comércio e Investimento e a Câmara de Comércio e Indústria de Incheon, entre outras entidades. Ao todo, 61 pequenas e médias empresas e 33 compradores estrangeiros participarão. A iniciativa foi organizada para que empresas nacionais de carros usados e peças automotivas se encontrem diretamente com compradores do exterior. O foco é ampliar canais de venda internacionais e identificar oportunidades de negócios ligadas ao Porto de Incheon. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Incheon Port Authority veranstaltet Exportgespräche für Gebrauchtwagen und Teile",
+        "excerpt": "Die Incheon Port Authority richtet am 14. und 15. Mai im Sheraton Grand Incheon Hotel Exportgespräche für Gebrauchtwagen und Autoteile mit 61 KMU und 33 ausländischen Käufern aus.",
+        "body": "Die Incheon Port Authority unter Präsident Lee Kyung-kyu veranstaltet am 14. und 15. Mai im Sheraton Grand Incheon Hotel Exportgespräche für Gebrauchtwagen und Autoteile. Die Veranstaltung findet gemeinsam mit der Korea Trade-Investment Promotion Agency und der Industrie- und Handelskammer Incheon sowie weiteren Partnern statt. Teilnehmen werden 61 kleine und mittlere Unternehmen sowie 33 ausländische Käufer. Das Treffen soll heimischen Unternehmen aus den Bereichen Gebrauchtwagen und Autoteile direkte Exportgespräche mit Käufern aus dem Ausland ermöglichen. Im Mittelpunkt stehen die Erweiterung internationaler Absatzkanäle und die Suche nach Geschäftsmöglichkeiten für Unternehmen im Umfeld des Hafens Incheon. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le port d’Incheon organise des rencontres export pour voitures d’occasion et pièces",
+        "excerpt": "L’Autorité portuaire d’Incheon tiendra les 14 et 15 mai, au Sheraton Grand Incheon Hotel, des rencontres export avec 61 PME et 33 acheteurs étrangers.",
+        "body": "L’Autorité portuaire d’Incheon, dirigée par Lee Kyung-kyu, organisera les 14 et 15 mai au Sheraton Grand Incheon Hotel des rencontres de consultation à l’exportation pour les voitures d’occasion et les pièces automobiles. L’événement se tiendra avec l’Agence coréenne de promotion du commerce et des investissements, la Chambre de commerce et d’industrie d’Incheon et d’autres partenaires. Il réunira 61 petites et moyennes entreprises et 33 acheteurs étrangers. Ces rencontres permettront aux entreprises nationales actives dans les voitures d’occasion et les pièces automobiles de discuter directement avec des acheteurs étrangers. L’objectif est d’élargir les débouchés à l’international et d’identifier des opportunités commerciales liées au port d’Incheon. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هيئة ميناء إنتشون تنظم لقاءات تصدير للسيارات المستعملة وقطع الغيار",
+        "excerpt": "تنظم هيئة ميناء إنتشون يومي 14 و15 مايو في فندق شيراتون غراند إنتشون لقاءات تصدير للسيارات المستعملة وقطع الغيار بمشاركة 61 شركة صغيرة ومتوسطة و33 مشتريا أجنبيا.",
+        "body": "تعتزم هيئة ميناء إنتشون، برئاسة لي كيونغ-كيو، تنظيم لقاءات تشاورية لتصدير السيارات المستعملة وقطع غيار السيارات يومي 14 و15 مايو في فندق شيراتون غراند إنتشون. ويقام الحدث بالتعاون مع وكالة كوريا لترويج التجارة والاستثمار وغرفة تجارة وصناعة إنتشون وجهات أخرى. ومن المقرر أن تشارك فيه 61 شركة صغيرة ومتوسطة و33 مشتريا من الخارج. وتهدف اللقاءات إلى إتاحة فرصة للشركات الكورية العاملة في السيارات المستعملة وقطع الغيار للقاء المشترين الأجانب مباشرة وإجراء مشاورات تصديرية. ويركز الحدث على توسيع قنوات البيع الخارجية واكتشاف فرص تعامل بين الشركات المرتبطة بميناء إنتشون. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "इंचियोन पोर्ट अथॉरिटी 14-15 मई को पुराने वाहनों व पार्ट्स निर्यात बैठक करेगी",
+        "excerpt": "इंचियोन पोर्ट अथॉरिटी 14-15 मई को शेरेटन ग्रैंड इंचियोन होटल में पुराने वाहनों और ऑटो पार्ट्स निर्यात बैठक करेगी, जिसमें 61 एसएमई और 33 विदेशी खरीदार शामिल होंगे।",
+        "body": "इंचियोन पोर्ट अथॉरिटी, जिसके अध्यक्ष ली क्यूंग-क्यू हैं, 14 और 15 मई को शेरेटन ग्रैंड इंचियोन होटल में पुराने वाहनों और ऑटो पार्ट्स के निर्यात परामर्श कार्यक्रम आयोजित करेगी। यह कार्यक्रम कोरिया ट्रेड-इन्वेस्टमेंट प्रमोशन एजेंसी और इंचियोन चैंबर ऑफ कॉमर्स एंड इंडस्ट्री सहित अन्य संस्थाओं के साथ आयोजित होगा। इसमें 61 छोटे और मध्यम उद्यम तथा 33 विदेशी खरीदार भाग लेंगे। बैठक का उद्देश्य घरेलू पुराने वाहन और ऑटो पार्ट्स कंपनियों को विदेशी खरीदारों से सीधे मिलाकर निर्यात परामर्श कराना है। इसका ध्यान इंचियोन पोर्ट से जुड़े उद्योगों के लिए विदेशी बिक्री चैनल बढ़ाने और कारोबारी अवसर खोजने पर रहेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Otoritas Pelabuhan Incheon Gelar Konsultasi Ekspor Mobil Bekas dan Suku Cadang",
+        "excerpt": "Otoritas Pelabuhan Incheon akan menggelar konsultasi ekspor mobil bekas dan suku cadang pada 14-15 Mei di Sheraton Grand Incheon Hotel, diikuti 61 UKM dan 33 pembeli luar negeri.",
+        "body": "Otoritas Pelabuhan Incheon, yang dipimpin Presiden Lee Kyung-kyu, akan menggelar acara konsultasi ekspor mobil bekas dan suku cadang otomotif pada 14-15 Mei di Sheraton Grand Incheon Hotel. Kegiatan ini diselenggarakan bersama Korea Trade-Investment Promotion Agency, Kamar Dagang dan Industri Incheon, serta pihak lain. Sebanyak 61 usaha kecil dan menengah serta 33 pembeli luar negeri akan berpartisipasi. Acara ini disiapkan agar perusahaan domestik di bidang mobil bekas dan suku cadang otomotif dapat bertemu langsung dengan pembeli asing untuk konsultasi ekspor. Fokusnya adalah memperluas saluran penjualan luar negeri dan menemukan peluang transaksi bagi industri terkait Pelabuhan Incheon. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "aabaf48e2b0f",
+    "slug": "단독-양도세-절반-줄여정용진-다주택자-중과-시행-사흘-전-한남동-고급주택-매각-253389",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-13T04:41:08.667Z",
+    "updatedAt": "2026-05-13T04:41:08.667Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12046060",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12046060",
+    "titleFingerprint": "be65f18a2f9997f980ca48647a929b3efb2c45ab",
+    "dedupKeys": [
+      "aabaf48e2b0fdd32b21187366290b944df0723b3",
+      "be65f18a2f9997f980ca48647a929b3efb2c45ab",
+      "ffb4ab5edbcd2776246a3f6575efe2497f5c29a9"
+    ],
+    "imageUrl": "/images/articles/aabaf48e2b0f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "정용진 한남동 고급주택 매각, 다주택자 양도세 중과 앞두고 세 부담 줄였다",
+        "excerpt": "정용진 신세계그룹 회장이 2018년 모친에게 161억원에 산 한남동 단독주택을 6일 부영주택에 255억원에 매각해 양도세 중과 유예 마감 전 정리했다.",
+        "body": "정용진 신세계그룹 회장이 다주택자 양도소득세 중과 유예 종료를 앞두고 서울 한남동 고급 단독주택을 매각한 것으로 전해졌다. 원문에 따르면 정 회장은 2018년 모친 이명희 신세계그룹 회장에게 해당 주택을 161억원에 매입했고, 이달 6일 부영주택에 255억원에 팔았다. 매각 시점은 9일 양도세 중과 유예 마감을 사흘 앞둔 때다. 이 거래로 중과 세액과 비교해 절반가량의 세 부담을 줄인 것으로 보도됐다. 다주택자 과세 유예 종료를 앞두고 고가 주택 처분 사례로 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Chung Yong-jin Sells Hannam-dong Luxury Home Before Higher Capital Gains Tax",
+        "excerpt": "Shinsegae Group Chairman Chung Yong-jin sold a Hannam-dong detached house bought from his mother for 16.1 billion won in 2018 to Booyoung Housing for 25.5 billion won on the 6th.",
+        "body": "Shinsegae Group Chairman Chung Yong-jin reportedly sold a luxury detached house in Hannam-dong, Seoul, shortly before the grace period for heavier capital gains tax on multiple-home owners ended. According to the source, Chung bought the property from his mother, Shinsegae Group Chairwoman Lee Myung-hee, for 16.1 billion won in 2018 and sold it to Booyoung Housing for 25.5 billion won on the 6th. The sale came three days before the grace period expired on the 9th. The report said the transaction reduced his tax burden by roughly half compared with the surtaxed amount. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "鄭溶鎮氏、漢南洞高級住宅を売却 多住宅者譲渡税重課前に税負担軽減",
+        "excerpt": "新世界グループの鄭溶鎮会長は、2018年に母から161億ウォンで購入した漢南洞の戸建て住宅を6日、富栄住宅に255億ウォンで売却した。",
+        "body": "新世界グループの鄭溶鎮会長が、多住宅者に対する譲渡所得税の重課猶予終了を前に、ソウル・漢南洞の高級戸建て住宅を売却したと伝えられた。原文によると、鄭氏は2018年に母の李明熙・新世界グループ会長から同住宅を161億ウォンで購入し、今月6日に富栄住宅へ255億ウォンで売却した。売却時点は9日の譲渡税重課猶予期限の3日前だった。この取引により、重課税額と比べて税負担をおよそ半分減らしたと報じられている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "郑溶镇出售汉南洞高端住宅，赶在多房者转让税重课前减轻税负",
+        "excerpt": "新世界集团会长郑溶镇将2018年从母亲处以161亿韩元购入的汉南洞独栋住宅，于6日以255亿韩元出售给富荣住宅。",
+        "body": "据报道，新世界集团会长郑溶镇在多房者转让所得税重课缓征结束前，出售了首尔汉南洞一处高端独栋住宅。原文称，郑溶镇于2018年从其母、新世界集团会长李明熙处以161亿韩元购入该住宅，并于本月6日以255亿韩元卖给富荣住宅。交易时间距离9日转让税重课缓征期结束仅三天。报道称，与适用重课税额相比，此次出售使其税负减少约一半。该交易因发生在多房者税收缓征到期前而受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Chung Yong-jin vende casa de lujo en Hannam-dong antes del recargo fiscal",
+        "excerpt": "Chung Yong-jin, presidente de Shinsegae, vendió el día 6 a Booyoung Housing por 25.500 millones de wones una vivienda comprada a su madre en 2018 por 16.100 millones.",
+        "body": "Chung Yong-jin, presidente del Grupo Shinsegae, habría vendido una vivienda unifamiliar de lujo en Hannam-dong, Seúl, antes de que terminara la suspensión del recargo del impuesto a las ganancias de capital para propietarios de varias viviendas. Según el texto original, Chung compró la casa en 2018 a su madre, Lee Myung-hee, presidenta de Shinsegae, por 16.100 millones de wones, y la vendió el día 6 a Booyoung Housing por 25.500 millones. La operación se cerró tres días antes del vencimiento del día 9. El reporte indicó que redujo la carga fiscal en cerca de la mitad frente al impuesto con recargo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Chung Yong-jin vende casa de luxo em Hannam-dong antes de imposto maior",
+        "excerpt": "Chung Yong-jin, presidente do Grupo Shinsegae, vendeu no dia 6 à Booyoung Housing por 25,5 bilhões de won uma casa comprada de sua mãe em 2018 por 16,1 bilhões.",
+        "body": "Chung Yong-jin, presidente do Grupo Shinsegae, teria vendido uma casa de luxo em Hannam-dong, Seul, pouco antes do fim da suspensão do imposto maior sobre ganho de capital para proprietários de múltiplos imóveis. Segundo o texto original, Chung comprou a residência em 2018 de sua mãe, Lee Myung-hee, presidente do Grupo Shinsegae, por 16,1 bilhões de won, e a vendeu no dia 6 à Booyoung Housing por 25,5 bilhões de won. A venda ocorreu três dias antes do prazo de 9 dias. A reportagem afirmou que a operação reduziu a carga tributária em cerca de metade ante o valor com sobretaxa. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Chung Yong-jin verkauft Luxushaus in Hannam-dong vor höherer Steuerlast",
+        "excerpt": "Shinsegae-Chef Chung Yong-jin verkaufte am 6. ein 2018 von seiner Mutter für 16,1 Mrd. Won gekauftes Haus in Hannam-dong für 25,5 Mrd. Won an Booyoung Housing.",
+        "body": "Chung Yong-jin, Vorsitzender der Shinsegae Group, soll kurz vor dem Ende der Aussetzung einer höheren Kapitalertragsteuer für Eigentümer mehrerer Wohnungen ein luxuriöses Einfamilienhaus in Hannam-dong, Seoul, verkauft haben. Laut Originalbericht kaufte Chung das Haus 2018 von seiner Mutter Lee Myung-hee, Vorsitzende der Shinsegae Group, für 16,1 Milliarden Won und verkaufte es am 6. für 25,5 Milliarden Won an Booyoung Housing. Der Verkauf erfolgte drei Tage vor Ablauf der Frist am 9. Dem Bericht zufolge verringerte die Transaktion die Steuerlast gegenüber dem erhöhten Betrag um etwa die Hälfte. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Chung Yong-jin vend une maison de luxe à Hannam-dong avant la surtaxe",
+        "excerpt": "Chung Yong-jin, président de Shinsegae, a vendu le 6 à Booyoung Housing pour 25,5 milliards de wons une maison achetée à sa mère en 2018 pour 16,1 milliards.",
+        "body": "Chung Yong-jin, président du groupe Shinsegae, aurait vendu une maison individuelle de luxe à Hannam-dong, Séoul, juste avant la fin du sursis sur la surtaxe des plus-values immobilières visant les propriétaires de plusieurs logements. Selon le texte original, Chung avait acheté ce bien en 2018 à sa mère, Lee Myung-hee, présidente du groupe Shinsegae, pour 16,1 milliards de wons, puis l’a vendu le 6 à Booyoung Housing pour 25,5 milliards de wons. La transaction a eu lieu trois jours avant l’échéance du 9. Le reportage indique que la charge fiscale a été réduite d’environ moitié par rapport au montant surtaxé. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تشونغ يونغ-جين يبيع منزلا فاخرا في هانام-دونغ قبل ضريبة أعلى",
+        "excerpt": "باع رئيس مجموعة شينسيغيه تشونغ يونغ-جين في اليوم السادس منزلا اشتراه من والدته عام 2018 مقابل 16.1 مليار وون إلى بويونغ هاوسينغ مقابل 25.5 مليار وون.",
+        "body": "أفادت تقارير بأن تشونغ يونغ-جين، رئيس مجموعة شينسيغيه، باع منزلا فاخرا مستقلا في هانام-دونغ في سيول قبل انتهاء فترة تعليق الضريبة الأشد على أرباح بيع العقارات لمالكي عدة منازل. ووفقا للنص الأصلي، اشترى تشونغ المنزل عام 2018 من والدته لي ميونغ-هي، رئيسة مجموعة شينسيغيه، مقابل 16.1 مليار وون، ثم باعه في اليوم السادس إلى بويونغ هاوسينغ مقابل 25.5 مليار وون. وجاء البيع قبل ثلاثة أيام من انتهاء المهلة في اليوم التاسع. وذكر التقرير أن الصفقة خفضت العبء الضريبي بنحو النصف مقارنة بمبلغ الضريبة المشددة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "चुंग योंग-जिन ने ऊंचे कैपिटल गेन टैक्स से पहले हन्नम-डोंग लक्जरी घर बेचा",
+        "excerpt": "शिनसेगे समूह के चेयरमैन चुंग योंग-जिन ने 2018 में अपनी मां से 16.1 अरब वॉन में खरीदा हन्नम-डोंग का घर 6 तारीख को बूयंग हाउसिंग को 25.5 अरब वॉन में बेचा।",
+        "body": "शिनसेगे समूह के चेयरमैन चुंग योंग-जिन ने बहु-आवास मालिकों पर पूंजीगत लाभ कर की भारी दर की छूट अवधि खत्म होने से पहले सियोल के हन्नम-डोंग में एक लक्जरी स्वतंत्र मकान बेच दिया। मूल रिपोर्ट के अनुसार, चुंग ने 2018 में यह घर अपनी मां और शिनसेगे समूह की चेयरवुमन ली म्युंग-ही से 16.1 अरब वॉन में खरीदा था और इस महीने 6 तारीख को इसे बूयंग हाउसिंग को 25.5 अरब वॉन में बेच दिया। बिक्री 9 तारीख की समयसीमा से तीन दिन पहले हुई। रिपोर्ट में कहा गया कि इससे भारी कर लागू होने की तुलना में कर बोझ लगभग आधा घटा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Chung Yong-jin Jual Rumah Mewah Hannam-dong Sebelum Pajak Lebih Tinggi",
+        "excerpt": "Ketua Grup Shinsegae Chung Yong-jin menjual pada tanggal 6 rumah Hannam-dong yang dibeli dari ibunya pada 2018 seharga 16,1 miliar won kepada Booyoung Housing senilai 25,5 miliar won.",
+        "body": "Ketua Grup Shinsegae Chung Yong-jin dilaporkan menjual rumah tapak mewah di Hannam-dong, Seoul, sebelum berakhirnya penangguhan pajak capital gain yang lebih berat bagi pemilik banyak rumah. Menurut teks asli, Chung membeli rumah itu pada 2018 dari ibunya, Ketua Grup Shinsegae Lee Myung-hee, seharga 16,1 miliar won, lalu menjualnya pada tanggal 6 kepada Booyoung Housing seharga 25,5 miliar won. Penjualan terjadi tiga hari sebelum batas waktu tanggal 9. Laporan tersebut menyebut transaksi ini mengurangi beban pajak sekitar separuh dibandingkan nilai pajak dengan pengenaan tambahan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "46bc70ad9e36",
     "slug": "속보-김민석-총리-삼성전자-어떤-경우에도-파업하지-않게-노사대화-지원-958812",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "SKC Tetapkan Rights Issue 1,2 Triliun Won untuk Investasi Substrat Kaca",
         "excerpt": "SKC akan menghimpun 1,1671 triliun won melalui rights issue untuk mendanai bisnis substrat kaca semikonduktor dan memperbaiki struktur keuangan.",
         "body": "SKC akan bergerak memperkuat investasi pada bisnis baru substrat kaca semikonduktor sekaligus memperbaiki struktur keuangan melalui rights issue senilai 1,1671 triliun won. Perusahaan menyatakan harga penerbitan final ditetapkan sebesar 99.500 won per saham. Aksi korporasi ini berfokus pada 확보 ruang pendanaan untuk berinvestasi di substrat kaca, bidang baru yang terkait dengan material semikonduktor. Dana yang diperoleh juga akan digunakan untuk memperbaiki struktur keuangan. Karena SKC mendorong ekspansi bisnis material semikonduktor dan penguatan stabilitas keuangan secara bersamaan, pelaksanaan investasi dan perubahan indikator keuangannya akan menjadi perhatian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d57b01bd0c68",
-    "slug": "서울반도체-1분기-매출액-2382억영업이익-18억흑자-전환-250574",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-12T13:52:06.440Z",
-    "updatedAt": "2026-05-12T13:52:06.440Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12044731",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12044731",
-    "titleFingerprint": "91f12538399802b54f1efbf7a87958d09327e3d9",
-    "dedupKeys": [
-      "d57b01bd0c68ea2c986d51b56a20d162bf26086e",
-      "91f12538399802b54f1efbf7a87958d09327e3d9",
-      "b64433113e30d003ee60792db41d5973710b361c"
-    ],
-    "imageUrl": "/images/articles/d57b01bd0c68.png",
-    "i18n": {
-      "ko": {
-        "title": "서울반도체 1분기 영업이익 18억원, 매출 2382억원으로 흑자 전환",
-        "excerpt": "서울반도체는 올해 1분기 매출액 2382억원, 영업이익 18억원을 기록하며 흑자 전환했다고 밝혔다. 고부가가치 제품 판매 확대가 실적 개선 요인으로 제시됐다.",
-        "body": "광반도체 전문기업 서울반도체가 올해 1분기 매출액 2382억원, 영업이익 18억원을 기록하며 흑자 전환했다. 회사는 고부가가치 제품 판매 확대 등이 실적 개선에 영향을 미쳤다고 설명했다. 이번 실적은 매출과 수익성 측면에서 전 분기 대비 회복 흐름을 보여주는 지표로 제시됐다. 서울반도체는 2분기 매출액 전망치로 2700억~2900억원을 제시했다. 이는 1분기보다 높은 수준의 매출 가이던스로, 향후 실적 흐름을 가늠할 수 있는 기준이 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Seoul Semiconductor Turns Profitable in Q1 With 2.382 Trillion Won Sales",
-        "excerpt": "Seoul Semiconductor said it posted Q1 revenue of 238.2 billion won and operating profit of 1.8 billion won, turning profitable as higher-value product sales expanded.",
-        "body": "Seoul Semiconductor, a specialist in optical semiconductors, turned profitable in the first quarter of this year with revenue of 238.2 billion won and operating profit of 1.8 billion won. The company said improved performance was supported by expanded sales of high-value-added products. The results indicate a recovery in both sales and profitability compared with the previous performance trend. For the second quarter, Seoul Semiconductor presented a revenue forecast of 270 billion to 290 billion won. That guidance is higher than first-quarter sales and will serve as a reference point for assessing its earnings direction. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ソウル半導体、1～3月期営業益18億ウォンで黒字転換",
-        "excerpt": "ソウル半導体は今年1～3月期に売上高2382億ウォン、営業利益18億ウォンを記録し黒字転換した。高付加価値製品の販売拡大が業績改善要因とされた。",
-        "body": "光半導体専門企業のソウル半導体は、今年1～3月期に売上高2382億ウォン、営業利益18億ウォンを記録し、黒字転換した。会社側は、高付加価値製品の販売拡大などが業績改善に影響したと説明した。今回の実績は、売上と収益性の面で回復の流れを示す指標として示された。ソウル半導体は4～6月期の売上高見通しとして2700億～2900億ウォンを提示した。これは1～3月期を上回る水準の売上ガイダンスであり、今後の業績動向を見極める基準になる見込みだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "首尔半导体一季度营业利润18亿韩元，销售2382亿韩元转盈",
-        "excerpt": "首尔半导体表示，今年一季度实现销售额2382亿韩元、营业利润18亿韩元，成功转为盈利，高附加值产品销售扩大推动业绩改善。",
-        "body": "光半导体专业企业首尔半导体今年一季度实现销售额2382亿韩元、营业利润18亿韩元，转为盈利。公司说明称，高附加值产品销售扩大等因素推动了业绩改善。此次业绩从销售和盈利能力方面显示出恢复趋势。首尔半导体同时提出二季度销售额展望为2700亿至2900亿韩元。该指引高于一季度销售水平，将成为观察今后业绩走向的参考基准。出处: mk.co.kr"
-      },
-      "es": {
-        "title": "Seoul Semiconductor vuelve a beneficios en el 1T con ventas de 238.200 millones de wones",
-        "excerpt": "Seoul Semiconductor registró en el primer trimestre ventas de 238.200 millones de wones y beneficio operativo de 1.800 millones, apoyada por productos de mayor valor añadido.",
-        "body": "Seoul Semiconductor, empresa especializada en semiconductores ópticos, volvió a beneficios en el primer trimestre de este año tras registrar ventas de 238.200 millones de wones y un beneficio operativo de 1.800 millones de wones. La compañía explicó que la mejora de resultados se debió, entre otros factores, a la expansión de las ventas de productos de alto valor añadido. Las cifras muestran una recuperación en ventas y rentabilidad. Para el segundo trimestre, Seoul Semiconductor presentó una previsión de ingresos de entre 270.000 y 290.000 millones de wones, por encima del nivel del primer trimestre. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Seoul Semiconductor volta ao lucro no 1º trimestre com receita de 238,2 bi de wons",
-        "excerpt": "A Seoul Semiconductor registrou receita de 238,2 bilhões de wons e lucro operacional de 1,8 bilhão no 1º trimestre, com melhora ligada a produtos de maior valor agregado.",
-        "body": "A Seoul Semiconductor, empresa especializada em semicondutores ópticos, voltou ao lucro no primeiro trimestre deste ano ao registrar receita de 238,2 bilhões de wons e lucro operacional de 1,8 bilhão de wons. A companhia explicou que a melhora do desempenho foi influenciada pela expansão das vendas de produtos de alto valor agregado. O resultado indica recuperação em vendas e rentabilidade. Para o segundo trimestre, a Seoul Semiconductor apresentou previsão de receita entre 270 bilhões e 290 bilhões de wons, acima do valor registrado no primeiro trimestre. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Seoul Semiconductor kehrt im ersten Quartal mit 1,8 Mrd. Won Betriebsgewinn in die Gewinnzone zurück",
-        "excerpt": "Seoul Semiconductor erzielte im ersten Quartal 238,2 Mrd. Won Umsatz und 1,8 Mrd. Won Betriebsgewinn. Der Verkauf höherwertiger Produkte stützte die Ergebnisverbesserung.",
-        "body": "Seoul Semiconductor, ein Spezialist für optische Halbleiter, ist im ersten Quartal dieses Jahres in die Gewinnzone zurückgekehrt. Das Unternehmen meldete einen Umsatz von 238,2 Milliarden Won und einen Betriebsgewinn von 1,8 Milliarden Won. Als Grund für die Ergebnisverbesserung nannte Seoul Semiconductor unter anderem den Ausbau des Verkaufs von Produkten mit höherer Wertschöpfung. Die Zahlen zeigen eine Erholung bei Umsatz und Profitabilität. Für das zweite Quartal gab das Unternehmen eine Umsatzprognose von 270 bis 290 Milliarden Won aus. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Seoul Semiconductor redevient rentable au 1er trimestre avec 238,2 milliards de wons de ventes",
-        "excerpt": "Seoul Semiconductor a réalisé au 1er trimestre 238,2 milliards de wons de chiffre d’affaires et 1,8 milliard de bénéfice opérationnel, grâce aux produits à plus forte valeur.",
-        "body": "Seoul Semiconductor, spécialiste des semi-conducteurs optiques, est repassé dans le vert au premier trimestre de cette année avec un chiffre d’affaires de 238,2 milliards de wons et un bénéfice opérationnel de 1,8 milliard de wons. L’entreprise a expliqué que l’amélioration des résultats provenait notamment de l’expansion des ventes de produits à forte valeur ajoutée. Ces chiffres indiquent une reprise des ventes et de la rentabilité. Pour le deuxième trimestre, Seoul Semiconductor prévoit un chiffre d’affaires compris entre 270 et 290 milliards de wons. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سيول سيميكوندكتور تتحول للربحية في الربع الأول بأرباح تشغيلية 1.8 مليار وون",
-        "excerpt": "أعلنت سيول سيميكوندكتور تحقيق مبيعات قدرها 238.2 مليار وون وأرباح تشغيلية 1.8 مليار وون في الربع الأول، مدعومة بتوسع مبيعات المنتجات الأعلى قيمة.",
-        "body": "تحولت شركة سيول سيميكوندكتور، المتخصصة في أشباه الموصلات الضوئية، إلى الربحية في الربع الأول من هذا العام بعد تسجيل مبيعات بقيمة 238.2 مليار وون وأرباح تشغيلية قدرها 1.8 مليار وون. وأوضحت الشركة أن تحسن الأداء تأثر بتوسع مبيعات المنتجات ذات القيمة المضافة العالية. وتشير النتائج إلى تعاف في المبيعات والربحية. وقدمت سيول سيميكوندكتور توقعات لمبيعات الربع الثاني بين 270 مليار و290 مليار وون، وهو مستوى أعلى من مبيعات الربع الأول. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सियोल सेमीकंडक्टर पहली तिमाही में लाभ में लौटी, बिक्री 238.2 अरब वॉन",
-        "excerpt": "सियोल सेमीकंडक्टर ने पहली तिमाही में 238.2 अरब वॉन की बिक्री और 1.8 अरब वॉन का परिचालन लाभ दर्ज किया, जिसमें उच्च मूल्य वाले उत्पादों की बिक्री बढ़ना प्रमुख रहा।",
-        "body": "ऑप्टिकल सेमीकंडक्टर विशेषज्ञ कंपनी सियोल सेमीकंडक्टर इस साल की पहली तिमाही में लाभ में लौट आई। कंपनी ने 238.2 अरब वॉन की बिक्री और 1.8 अरब वॉन का परिचालन लाभ दर्ज किया। कंपनी के अनुसार, उच्च मूल्य-वर्धित उत्पादों की बिक्री बढ़ने सहित कई कारणों से प्रदर्शन में सुधार हुआ। यह परिणाम बिक्री और लाभप्रदता दोनों में सुधार का संकेत देता है। सियोल सेमीकंडक्टर ने दूसरी तिमाही के लिए 270 अरब से 290 अरब वॉन तक की बिक्री का अनुमान पेश किया है, जो पहली तिमाही से अधिक है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Seoul Semiconductor Berbalik Laba Kuartal I, Penjualan Capai 238,2 Miliar Won",
-        "excerpt": "Seoul Semiconductor mencatat penjualan 238,2 miliar won dan laba operasi 1,8 miliar won pada kuartal I, didorong perluasan penjualan produk bernilai tambah tinggi.",
-        "body": "Seoul Semiconductor, perusahaan spesialis semikonduktor optik, berbalik mencetak laba pada kuartal pertama tahun ini dengan penjualan 238,2 miliar won dan laba operasi 1,8 miliar won. Perusahaan menjelaskan bahwa perbaikan kinerja dipengaruhi oleh perluasan penjualan produk bernilai tambah tinggi. Hasil ini menunjukkan pemulihan dari sisi penjualan dan profitabilitas. Untuk kuartal kedua, Seoul Semiconductor memberikan perkiraan penjualan sebesar 270 miliar hingga 290 miliar won, lebih tinggi dibanding realisasi kuartal pertama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1fab268bd192",
-    "slug": "증가하는-시니어-타운-수요웰크론한텍-프로젝트-수주-총력-813205",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-12T13:50:32.467Z",
-    "updatedAt": "2026-05-12T13:50:32.467Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12044733",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12044733",
-    "titleFingerprint": "fae332c2e51a9b3682808d406252ffa66df5fa21",
-    "dedupKeys": [
-      "1fab268bd1926f87e7b4dd6a1ccf1064a0780e66",
-      "fae332c2e51a9b3682808d406252ffa66df5fa21",
-      "277b05035f393b311442f35487cc6b1599eb058f"
-    ],
-    "imageUrl": "/images/articles/1fab268bd192.png",
-    "i18n": {
-      "ko": {
-        "title": "시니어 타운 수요 증가에 웰크론한텍, 북위례 빌리지 수주 총력",
-        "excerpt": "웰크론한텍은 12일 시니어 주거·의료시설 건축 수요가 늘어나는 가운데 ‘KB골든라이프케어 북위례 빌리지’ 수주에 전사 역량을 집중한다고 밝혔다.",
-        "body": "플랜트·종합건설 전문기업 웰크론한텍은 12일 ‘KB골든라이프케어 북위례 빌리지(가칭)’ 프로젝트 수주를 위해 전사적인 역량을 집중하고 있다고 밝혔다. 회사는 최근 시니어 주거시설과 의료시설 건축 수요가 늘어나는 흐름에 맞춰 관련 프로젝트 확보에 힘을 싣고 있다. 이번 수주 추진은 고령층을 위한 주거·케어 인프라에 대한 관심이 커지는 가운데 진행되는 사업 기회로, 웰크론한텍의 종합건설 역량이 평가될 수 있는 사안이다. 회사는 해당 프로젝트 수주를 목표로 내부 자원을 결집하고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Welcron Hantec Targets North Wirye Village as Senior-Town Demand Rises",
-        "excerpt": "Welcron Hantec said on the 12th it is focusing companywide capabilities on winning the tentative KB Golden Life Care North Wirye Village project amid rising demand for senior housing and medical facilities.",
-        "body": "Welcron Hantec, a plant and general construction specialist, said on the 12th that it is concentrating companywide capabilities to win the tentative “KB Golden Life Care North Wirye Village” project. The company is strengthening efforts to secure related projects as demand for senior residential facilities and medical facility construction has recently increased. The bid push comes as interest grows in housing and care infrastructure for older adults, making the project an opportunity to assess Welcron Hantec’s general construction capabilities. The company is mobilizing internal resources with the goal of securing the project. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "シニアタウン需要拡大でウェルクロンハンテック、北慰礼ビレッジ受注に注力",
-        "excerpt": "ウェルクロンハンテックは12日、シニア住宅・医療施設の建設需要が高まる中、「KBゴールデンライフケア北慰礼ビレッジ」受注に全社的な力を集中すると明らかにした。",
-        "body": "プラント・総合建設専門企業のウェルクロンハンテックは12日、「KBゴールデンライフケア北慰礼ビレッジ（仮称）」プロジェクトの受注に向け、全社的な能力を集中していると明らかにした。同社は最近、シニア向け住宅施設と医療施設の建設需要が増えている流れに合わせ、関連プロジェクトの確保に力を入れている。今回の受注推進は、高齢層向けの住居・ケアインフラへの関心が高まる中で進められる事業機会であり、同社の総合建設能力が評価され得る案件だ。同社は受注を目標に内部資源を結集している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "老年社区需求上升，Welcron Hantec全力争取北慰礼村项目",
-        "excerpt": "Welcron Hantec于12日表示，随着老年居住及医疗设施建设需求增加，公司正集中全社力量争取“KB Golden Life Care北慰礼村”项目。",
-        "body": "植物工程和综合建设专业企业Welcron Hantec于12日表示，正为争取暂名为“KB Golden Life Care北慰礼村”的项目集中全社力量。公司表示，近期老年居住设施和医疗设施建设需求增加，因此正加强 확보相关项目的努力。此次争取项目是在社会对面向高龄人群的居住和护理基础设施关注提升的背景下推进的业务机会，也将成为评估Welcron Hantec综合建设能力的事项。公司正以获得该项目为目标整合内部资源。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Aumenta la demanda de senior towns y Welcron Hantec va por North Wirye Village",
-        "excerpt": "Welcron Hantec dijo el día 12 que concentra capacidades de toda la empresa para adjudicarse el proyecto provisional KB Golden Life Care North Wirye Village ante la mayor demanda de viviendas y centros médicos para mayores.",
-        "body": "Welcron Hantec, empresa especializada en plantas y construcción integral, informó el día 12 que está concentrando capacidades de toda la compañía para adjudicarse el proyecto provisional “KB Golden Life Care North Wirye Village”. La firma refuerza sus esfuerzos para asegurar proyectos relacionados en un contexto de aumento reciente de la demanda de instalaciones residenciales para mayores y de construcción de centros médicos. Esta iniciativa de adjudicación se desarrolla mientras crece el interés por la infraestructura de vivienda y cuidados para personas mayores, y puede servir para evaluar la capacidad de construcción integral de Welcron Hantec. La empresa está reuniendo recursos internos con el objetivo de ganar el proyecto. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Demanda por senior towns cresce e Welcron Hantec mira North Wirye Village",
-        "excerpt": "A Welcron Hantec afirmou no dia 12 que concentra capacidades de toda a empresa para conquistar o projeto provisório KB Golden Life Care North Wirye Village, diante da maior demanda por moradias e instalações médicas para idosos.",
-        "body": "A Welcron Hantec, especializada em plantas industriais e construção geral, informou no dia 12 que está concentrando capacidades de toda a empresa para vencer o projeto provisório “KB Golden Life Care North Wirye Village”. A companhia vem reforçando esforços para garantir projetos relacionados, acompanhando o recente aumento da demanda por instalações residenciais para idosos e construção de unidades médicas. A iniciativa ocorre em meio ao maior interesse por infraestrutura de moradia e cuidados para a população idosa, e pode ser uma oportunidade para avaliar a capacidade de construção geral da Welcron Hantec. A empresa reúne recursos internos com o objetivo de conquistar o projeto. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Mehr Nachfrage nach Senior Towns: Welcron Hantec setzt auf North Wirye Village",
-        "excerpt": "Welcron Hantec teilte am 12. mit, das Unternehmen bündele seine Kräfte, um das vorläufige Projekt KB Golden Life Care North Wirye Village zu gewinnen, da die Nachfrage nach Seniorenwohn- und medizinischen Einrichtungen steigt.",
-        "body": "Welcron Hantec, ein Spezialist für Anlagenbau und allgemeinen Hochbau, erklärte am 12., das Unternehmen konzentriere seine gesamten Kapazitäten darauf, den Zuschlag für das vorläufige Projekt „KB Golden Life Care North Wirye Village“ zu erhalten. Das Unternehmen verstärkt seine Bemühungen um entsprechende Projekte, da zuletzt die Nachfrage nach Seniorenwohnanlagen und medizinischen Einrichtungen gestiegen ist. Der Vorstoß erfolgt vor dem Hintergrund eines wachsenden Interesses an Wohn- und Pflegeinfrastruktur für ältere Menschen und kann die Fähigkeiten von Welcron Hantec im allgemeinen Bauwesen sichtbar machen. Das Unternehmen bündelt interne Ressourcen mit dem Ziel, das Projekt zu gewinnen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La demande de senior towns augmente, Welcron Hantec vise North Wirye Village",
-        "excerpt": "Welcron Hantec a annoncé le 12 mobiliser l’ensemble de ses capacités pour obtenir le projet provisoire KB Golden Life Care North Wirye Village, alors que la demande de logements seniors et d’établissements médicaux progresse.",
-        "body": "Welcron Hantec, spécialiste des installations industrielles et de la construction générale, a déclaré le 12 qu’elle concentrait les capacités de toute l’entreprise pour remporter le projet provisoire « KB Golden Life Care North Wirye Village ». La société renforce ses efforts pour obtenir des projets liés à la hausse récente de la demande de résidences pour seniors et de constructions d’établissements médicaux. Cette démarche intervient alors que l’intérêt grandit pour les infrastructures de logement et de soins destinées aux personnes âgées, et peut mettre en évidence les capacités de construction générale de Welcron Hantec. L’entreprise rassemble ses ressources internes avec l’objectif d’obtenir ce projet. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ارتفاع طلب مدن كبار السن يدفع ويلكرون هانتك لاستهداف مشروع شمال ويري",
-        "excerpt": "قالت ويلكرون هانتك في 12 من الشهر إنها تركز قدرات الشركة كلها للفوز بمشروع KB Golden Life Care North Wirye Village المؤقت، وسط تزايد الطلب على مساكن كبار السن والمرافق الطبية.",
-        "body": "أعلنت ويلكرون هانتك، المتخصصة في المنشآت والبناء الشامل، في 12 من الشهر أنها تركز قدرات الشركة على الفوز بمشروع “KB Golden Life Care North Wirye Village” المؤقت. وتعمل الشركة على تعزيز جهودها لتأمين مشاريع ذات صلة مع الزيادة الأخيرة في الطلب على مرافق السكن لكبار السن وبناء المرافق الطبية. وتأتي هذه المساعي في وقت يتزايد فيه الاهتمام بالبنية التحتية للسكن والرعاية الموجهة لكبار السن، ما يجعل المشروع فرصة يمكن من خلالها تقييم قدرات ويلكرون هانتك في البناء الشامل. وتجمع الشركة مواردها الداخلية بهدف الفوز بالمشروع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सीनियर टाउन मांग बढ़ी, Welcron Hantec North Wirye Village परियोजना पर केंद्रित",
-        "excerpt": "Welcron Hantec ने 12 तारीख को कहा कि वरिष्ठ आवास और चिकित्सा सुविधाओं की निर्माण मांग बढ़ने के बीच वह KB Golden Life Care North Wirye Village परियोजना हासिल करने के लिए कंपनी-व्यापी क्षमता लगा रही है।",
-        "body": "प्लांट और सामान्य निर्माण विशेषज्ञ Welcron Hantec ने 12 तारीख को कहा कि वह अस्थायी नाम वाली “KB Golden Life Care North Wirye Village” परियोजना हासिल करने के लिए कंपनी-व्यापी क्षमताओं पर ध्यान केंद्रित कर रही है। कंपनी हाल में वरिष्ठ नागरिकों के आवासीय सुविधाओं और चिकित्सा सुविधाओं के निर्माण की मांग बढ़ने के रुझान के अनुरूप संबंधित परियोजनाएं 확보 करने के प्रयास बढ़ा रही है। यह पहल बुजुर्गों के लिए आवास और देखभाल अवसंरचना में बढ़ती रुचि के बीच आगे बढ़ रही व्यावसायिक संभावना है, जिसमें Welcron Hantec की सामान्य निर्माण क्षमता का मूल्यांकन हो सकता है। कंपनी इस परियोजना को जीतने के लक्ष्य से आंतरिक संसाधन जुटा रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Permintaan Senior Town Meningkat, Welcron Hantec Bidik North Wirye Village",
-        "excerpt": "Welcron Hantec menyatakan pada tanggal 12 bahwa perusahaan memusatkan kemampuan seluruh organisasi untuk meraih proyek sementara KB Golden Life Care North Wirye Village di tengah naiknya permintaan hunian lansia dan fasilitas medis.",
-        "body": "Welcron Hantec, perusahaan spesialis plant dan konstruksi umum, menyatakan pada tanggal 12 bahwa pihaknya memusatkan kemampuan seluruh perusahaan untuk memenangkan proyek sementara “KB Golden Life Care North Wirye Village”. Perusahaan memperkuat upaya memperoleh proyek terkait seiring meningkatnya permintaan terbaru untuk fasilitas hunian lansia dan pembangunan fasilitas medis. Dorongan tender ini berlangsung saat minat terhadap infrastruktur hunian dan perawatan bagi kelompok usia lanjut meningkat, sehingga menjadi peluang untuk menilai kemampuan konstruksi umum Welcron Hantec. Perusahaan mengerahkan sumber daya internal dengan target memperoleh proyek tersebut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d41fc3e429de",
-    "slug": "통신업-부진에-부동산으로-버텨낸-kt이통사-5조클럽-복귀-가능할까-769335",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-12T13:48:52.363Z",
-    "updatedAt": "2026-05-12T13:48:52.363Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12044740",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12044740",
-    "titleFingerprint": "229bf6fc7db83e88a43e2137fc4a35acc006f017",
-    "dedupKeys": [
-      "d41fc3e429de3b1be34c53e4b7b23daf9bc9d02e",
-      "229bf6fc7db83e88a43e2137fc4a35acc006f017",
-      "06a61a4b142694c0a33a50c5bafbe5eb16cf3118"
-    ],
-    "imageUrl": "/images/articles/d41fc3e429de.jpg",
-    "i18n": {
-      "ko": {
-        "title": "KT 실적 부진, 사이버 침해 비용 털고 ‘5조클럽’ 복귀 가능성 주목",
-        "excerpt": "KT가 초유의 사이버 침해 사태 여파로 전년 대비 매출 1%, 영업이익 29.9% 감소한 실적을 공개했지만, 일회성 비용 반영 뒤 연간 실적 전망은 양호하다는 관측이 나온다.",
-        "body": "KT가 초유의 사이버 침해 사태의 직격탄을 맞으며 부진한 성적표를 내놨다. 전년 대비 매출액은 1% 줄었고 영업이익은 29.9% 감소했다. 통신업 부진이 실적에 부담으로 작용했지만, 부동산 부문이 이를 일부 떠받친 것으로 전해졌다. 이번 실적에는 사이버 침해 관련 일회성 비용이 반영된 만큼, 해당 비용을 털어낸 뒤의 연간 실적은 상대적으로 양호할 수 있다는 전망도 제기된다. 시장의 관심은 KT가 이동통신사 ‘5조클럽’ 복귀 가능성을 다시 보여줄 수 있을지에 모인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KT Earnings Slump Puts Focus on Cyber Costs and Return to ‘5 Trillion Club’",
-        "excerpt": "KT reported weaker results after an unprecedented cyber breach, with revenue down 1% and operating profit down 29.9% year on year, though annual performance may improve after one-off costs.",
-        "body": "KT posted weak results after taking a direct hit from an unprecedented cyber breach. Revenue fell 1% from a year earlier, while operating profit dropped 29.9%. The telecom business weighed on overall performance, but the real estate division reportedly helped offset part of the decline. As the latest results include one-off costs related to the cyber incident, some views suggest annual earnings could remain relatively sound once those costs are cleared. Attention now turns to whether KT can show a path back to the mobile carrier “5 trillion club.” Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KT業績不振、サイバー侵害費用後の「5兆クラブ」復帰に注目",
-        "excerpt": "KTは前例のないサイバー侵害の影響で、前年比売上高1%減、営業利益29.9%減の決算を発表したが、一時費用後の年間業績には底堅さを見込む声もある。",
-        "body": "KTは前例のないサイバー侵害の直撃を受け、低調な決算を発表した。売上高は前年同期比1%減、営業利益は29.9%減となった。通信事業の不振が業績の重荷となった一方、不動産部門が一部を下支えしたと伝えられている。今回の決算にはサイバー侵害関連の一時費用が反映されており、その費用を処理した後の年間業績は比較的良好との見方も出ている。市場の関心は、KTが通信会社の「5兆クラブ」復帰の可能性を示せるかに集まっている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KT业绩承压，网络攻击费用出清后能否重返“5万亿俱乐部”受关注",
-        "excerpt": "KT受罕见网络入侵事件冲击，公布营收同比下降1%、营业利润下降29.9%的业绩，但一次性费用反映后，全年表现仍被认为可能较稳。",
-        "body": "KT因罕见的网络入侵事件受到直接冲击，公布了低迷业绩。其营收同比下降1%，营业利润减少29.9%。通信业务疲弱对整体业绩形成压力，但据报道，房地产部门在一定程度上提供了支撑。由于本次业绩已反映与网络入侵相关的一次性费用，市场也出现了全年业绩在费用出清后可能相对良好的看法。投资者关注的焦点，是KT能否重新展现回归移动通信运营商“5万亿俱乐部”的可能性。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KT cae por costes de ciberataque y mira su posible regreso al ‘club de 5 billones’",
-        "excerpt": "KT presentó resultados débiles tras un ciberataque sin precedentes: ingresos -1% y beneficio operativo -29,9% interanual, aunque el año podría mejorar tras asumir costes puntuales.",
-        "body": "KT presentó unos resultados débiles tras recibir el impacto directo de un ciberataque sin precedentes. Los ingresos cayeron un 1% frente al año anterior y el beneficio operativo disminuyó un 29,9%. La debilidad del negocio de telecomunicaciones pesó sobre las cuentas, aunque el área inmobiliaria habría compensado parte del deterioro. Como los resultados incluyen costes puntuales vinculados al incidente cibernético, algunas perspectivas apuntan a que el desempeño anual podría ser relativamente sólido una vez absorbidos esos gastos. La atención se centra en si KT podrá volver al “club de 5 billones” de las operadoras móviles. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KT recua com custos de ciberataque e mira volta ao ‘clube dos 5 trilhões’",
-        "excerpt": "A KT divulgou resultados fracos após um incidente cibernético sem precedentes, com receita 1% menor e lucro operacional 29,9% inferior, mas o ano pode melhorar após custos pontuais.",
-        "body": "A KT divulgou resultados fracos depois de ser diretamente atingida por um incidente cibernético sem precedentes. A receita caiu 1% em relação ao ano anterior, enquanto o lucro operacional recuou 29,9%. A fraqueza no negócio de telecomunicações pesou sobre o desempenho, mas a área imobiliária teria ajudado a sustentar parte dos resultados. Como os números já incluem custos pontuais ligados ao incidente, há avaliações de que o desempenho anual pode ser relativamente favorável após a absorção desses gastos. O foco do mercado é se a KT poderá mostrar possibilidade de retorno ao “clube dos 5 trilhões” entre as operadoras móveis. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KT-Gewinn bricht ein: Cyberkosten und Rückkehr in den ‘5-Billionen-Club’ im Fokus",
-        "excerpt": "KT meldete nach einem beispiellosen Cybervorfall schwache Zahlen: Umsatz -1% und operativer Gewinn -29,9% zum Vorjahr, doch nach Einmalkosten könnte das Gesamtjahr solider ausfallen.",
-        "body": "KT hat nach dem direkten Treffer durch einen beispiellosen Cybervorfall schwache Geschäftszahlen vorgelegt. Der Umsatz sank im Jahresvergleich um 1%, der operative Gewinn ging um 29,9% zurück. Die Schwäche im Telekomgeschäft belastete die Ergebnisse, während die Immobiliensparte einen Teil der Einbußen abgefedert haben soll. Da die aktuellen Zahlen einmalige Kosten im Zusammenhang mit dem Cybervorfall enthalten, gibt es Einschätzungen, dass die Jahresleistung nach deren Verarbeitung relativ solide bleiben könnte. Im Mittelpunkt steht nun, ob KT eine Rückkehr in den ‘5-Billionen-Club’ der Mobilfunkanbieter schaffen kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "KT pénalisé par un cyberincident, le retour au ‘club des 5 billions’ en question",
-        "excerpt": "KT a publié des résultats affaiblis après un cyberincident inédit, avec un chiffre d’affaires en baisse de 1% et un bénéfice opérationnel en recul de 29,9%, malgré l’espoir d’un meilleur annuel.",
-        "body": "KT a publié des résultats décevants après avoir subi l’impact direct d’un cyberincident sans précédent. Le chiffre d’affaires a reculé de 1% sur un an et le bénéfice opérationnel a chuté de 29,9%. La faiblesse des télécommunications a pesé sur la performance, même si l’activité immobilière aurait partiellement soutenu les comptes. Les résultats intégrant des coûts ponctuels liés à l’incident, certains estiment que la performance annuelle pourrait rester relativement correcte une fois ces charges absorbées. L’attention porte désormais sur la capacité de KT à montrer une possibilité de retour dans le “club des 5 billions” des opérateurs mobiles. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تراجع نتائج KT بفعل اختراق سيبراني والأنظار على العودة إلى «نادي 5 تريليونات»",
-        "excerpt": "أعلنت KT نتائج ضعيفة بعد حادث اختراق سيبراني غير مسبوق، إذ انخفضت الإيرادات 1% والربح التشغيلي 29.9% على أساس سنوي، مع توقعات بتحسن سنوي بعد التكاليف غير المتكررة.",
-        "body": "أعلنت KT نتائج ضعيفة بعدما تلقت ضربة مباشرة من حادث اختراق سيبراني غير مسبوق. وتراجعت الإيرادات 1% مقارنة بالعام السابق، بينما انخفض الربح التشغيلي 29.9%. وشكل ضعف قطاع الاتصالات ضغطا على الأداء، لكن قطاع العقارات ساعد في دعم جزء من النتائج وفق ما ورد. وبما أن الأرقام الحالية تشمل تكاليف غير متكررة مرتبطة بالحادث السيبراني، تظهر آراء تفيد بأن الأداء السنوي قد يبقى مقبولا نسبيا بعد استيعاب هذه التكاليف. وينصب اهتمام السوق على ما إذا كانت KT ستظهر إمكانية العودة إلى «نادي 5 تريليونات» بين شركات الاتصالات المتنقلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KT की आय घटी, साइबर लागत के बाद ‘5 ट्रिलियन क्लब’ में वापसी पर नजर",
-        "excerpt": "KT ने अभूतपूर्व साइबर 침해 घटना के असर से कमजोर नतीजे जारी किए; राजस्व 1% और परिचालन लाभ 29.9% घटा, हालांकि एकमुश्त लागत के बाद वार्षिक प्रदर्शन बेहतर रह सकता है।",
-        "body": "KT ने अभूतपूर्व साइबर 침해 घटना की सीधी मार झेलने के बाद कमजोर नतीजे घोषित किए। कंपनी का राजस्व पिछले वर्ष की तुलना में 1% घटा, जबकि परिचालन लाभ 29.9% कम हुआ। दूरसंचार कारोबार की कमजोरी ने प्रदर्शन पर दबाव डाला, लेकिन रियल एस्टेट विभाग ने आंशिक सहारा दिया बताया गया। चूंकि इस बार के नतीजों में साइबर घटना से जुड़ी एकमुश्त लागत शामिल है, इसलिए इन खर्चों के हटने के बाद वार्षिक प्रदर्शन अपेक्षाकृत ठीक रह सकता है, ऐसी राय भी सामने आई है। बाजार की नजर इस पर है कि KT मोबाइल ऑपरेटरों के “5 ट्रिलियन क्लब” में वापसी की संभावना दिखा पाएगी या नहीं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kinerja KT Tertekan Biaya Siber, Peluang Kembali ke ‘Klub 5 Triliun’ Disorot",
-        "excerpt": "KT melaporkan kinerja lemah akibat insiden siber yang belum pernah terjadi sebelumnya, dengan pendapatan turun 1% dan laba operasi turun 29,9% secara tahunan, meski prospek tahunan bisa membaik.",
-        "body": "KT melaporkan kinerja yang lemah setelah terdampak langsung oleh insiden siber yang belum pernah terjadi sebelumnya. Pendapatan turun 1% dibanding tahun sebelumnya, sementara laba operasi merosot 29,9%. Pelemahan bisnis telekomunikasi membebani hasil, tetapi sektor properti disebut membantu menopang sebagian kinerja. Karena laporan ini sudah mencerminkan biaya satu kali terkait insiden siber, muncul pandangan bahwa kinerja tahunan dapat tetap relatif baik setelah biaya tersebut diserap. Perhatian pasar kini tertuju pada apakah KT dapat menunjukkan peluang kembali ke “klub 5 triliun” di antara operator seluler. Sumber: mk.co.kr"
       }
     }
   }
