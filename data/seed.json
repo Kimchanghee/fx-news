@@ -1,5 +1,230 @@
 [
   {
+    "id": "71078fb583a9",
+    "slug": "lg-알파세대-과학-영재부터-석박사까지-미래-기술-인재-확보-나선다-213564",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T07:03:06.080Z",
+    "updatedAt": "2026-05-14T07:03:06.080Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12047558",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12047558",
+    "titleFingerprint": "170fc6e9f3b005805bc42f8f28020d2cee9e950d",
+    "dedupKeys": [
+      "71078fb583a93185c3e2ee64f6f99e60a10cc312",
+      "170fc6e9f3b005805bc42f8f28020d2cee9e950d",
+      "7e52811ea7fa5875f8db8f6915f3c5cb21cd7a7b"
+    ],
+    "imageUrl": "/images/articles/71078fb583a9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LG 테크 콘퍼런스 개최, 알파세대부터 석·박사까지 미래 인재 확보",
+        "excerpt": "LG가 14일 ‘LG 테크 콘퍼런스’를 열고 2010~2024년생 알파세대 과학 영재와 국내외 석·박사 등 미래 기술 인재 확보에 나섰다.",
+        "body": "LG가 14일 ‘LG 테크 콘퍼런스’를 개최하고 미래 기술 인재 확보에 나섰다. 대상은 2010~2024년생 알파세대 과학 영재부터 국내외 석·박사급 인재까지 폭넓게 포함된다. LG 테크 콘퍼런스는 2012년 시작된 행사로, LG가 미래 기술 경쟁력 강화를 위해 인재와의 접점을 넓히는 자리다. 이번 행사는 과학 영재와 고급 연구 인력을 조기에 발굴하고 연결하는 데 초점을 맞췄다. 향후 LG의 기술 인재 확보 전략과 연구개발 역량 강화에 영향을 줄 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "LG Tech Conference Targets Future Talent From Alpha Generation to PhDs",
+        "excerpt": "LG held the LG Tech Conference on the 14th to secure future technology talent, from Alpha Generation science prodigies born in 2010-2024 to master’s and doctoral researchers.",
+        "body": "LG held the LG Tech Conference on the 14th as part of its push to secure future technology talent. The scope ranges from Alpha Generation science prodigies born between 2010 and 2024 to master’s and doctoral talent in Korea and abroad. Launched in 2012, the LG Tech Conference serves as a venue for LG to expand contact with talent needed to strengthen future technology competitiveness. This year’s event focused on discovering and connecting with young science talent and advanced research personnel. It is expected to support LG’s talent strategy and R&D capability. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "LGテックカンファレンス開催、アルファ世代から修士・博士まで人材確保",
+        "excerpt": "LGは14日、「LGテックカンファレンス」を開き、2010〜2024年生まれのアルファ世代の科学英才から国内外の修士・博士人材まで、未来技術人材の確保に乗り出した。",
+        "body": "LGは14日、「LGテックカンファレンス」を開催し、未来技術人材の確保に乗り出した。対象は2010〜2024年生まれのアルファ世代の科学英才から、韓国国内外の修士・博士級人材まで幅広い。LGテックカンファレンスは2012年に始まった行事で、LGが未来技術の競争力を高めるため、人材との接点を広げる場となっている。今回の行事は、科学英才と高度研究人材を早期に発掘し、つなげることに焦点を当てた。今後、LGの技術人材確保戦略と研究開発力の強化に影響するとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "LG技术大会锁定未来人才，从阿尔法世代科学英才到硕博人才",
+        "excerpt": "LG于14日举行“LG技术大会”，面向2010至2024年出生的阿尔法世代科学英才以及海内外硕博士等未来技术人才展开招揽。",
+        "body": "LG于14日举行“LG技术大会”，正式推进未来技术人才 확보。对象涵盖2010至2024年出生的阿尔法世代科学英才，以及韩国国内外硕士、博士级人才。LG技术大会始于2012年，是LG为提升未来技术竞争力、扩大与人才接触而举办的平台。本次活动重点在于尽早发现并连接科学英才和高层次研究人员。该举措预计将对LG未来的技术人才 확보战略和研发能力强化产生影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "LG Tech Conference busca talento futuro, de la generación Alfa a másteres y doctores",
+        "excerpt": "LG celebró el 14 la LG Tech Conference para captar talento tecnológico futuro, desde jóvenes prodigios científicos de la generación Alfa nacidos entre 2010 y 2024 hasta másteres y doctores.",
+        "body": "LG celebró el 14 la LG Tech Conference como parte de su estrategia para asegurar talento tecnológico futuro. El alcance incluye desde jóvenes prodigios científicos de la generación Alfa, nacidos entre 2010 y 2024, hasta talento con máster y doctorado en Corea y en el extranjero. La LG Tech Conference comenzó en 2012 y funciona como un espacio para que LG amplíe sus vínculos con personas clave para reforzar su competitividad tecnológica futura. Esta edición se centró en identificar y conectar de forma temprana a talento científico y personal investigador avanzado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "LG Tech Conference mira talentos futuros, da geração Alfa a mestres e doutores",
+        "excerpt": "A LG realizou no dia 14 a LG Tech Conference para atrair talentos de tecnologia do futuro, de jovens prodígios científicos da geração Alfa nascidos entre 2010 e 2024 a mestres e doutores.",
+        "body": "A LG realizou no dia 14 a LG Tech Conference como parte de sua iniciativa para garantir talentos de tecnologia do futuro. O público vai de jovens prodígios científicos da geração Alfa, nascidos entre 2010 e 2024, a profissionais com mestrado e doutorado na Coreia e no exterior. Criada em 2012, a LG Tech Conference é um espaço em que a LG amplia o contato com talentos necessários para fortalecer sua competitividade tecnológica futura. A edição deste ano concentrou-se em identificar e conectar talentos científicos e pesquisadores avançados. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "LG Tech Conference wirbt um Zukunftstalente von Generation Alpha bis Promotion",
+        "excerpt": "LG veranstaltete am 14. die LG Tech Conference, um künftige Technologietalente zu gewinnen, von wissenschaftlich begabten Angehörigen der Generation Alpha bis zu Master- und Promotionskräften.",
+        "body": "LG veranstaltete am 14. die LG Tech Conference und verstärkt damit die Suche nach künftigen Technologietalenten. Die Zielgruppe reicht von wissenschaftlich begabten Angehörigen der Generation Alpha, geboren zwischen 2010 und 2024, bis zu Master- und Promotionskräften im In- und Ausland. Die LG Tech Conference wurde 2012 gestartet und dient LG als Plattform, um Kontakte zu Talenten für künftige technologische Wettbewerbsfähigkeit auszubauen. Im Fokus standen die frühe Entdeckung und Vernetzung von Nachwuchs und hochqualifizierten Forschenden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "LG Tech Conference vise les talents futurs, de la génération Alpha aux doctorants",
+        "excerpt": "LG a organisé le 14 la LG Tech Conference afin de recruter des talents technologiques d’avenir, des jeunes doués en sciences de la génération Alpha nés entre 2010 et 2024 aux titulaires de master et doctorat.",
+        "body": "LG a organisé le 14 la LG Tech Conference dans le cadre de ses efforts pour 확보 des talents technologiques d’avenir. Le public visé va des jeunes doués en sciences de la génération Alpha, nés entre 2010 et 2024, aux profils de niveau master et doctorat en Corée et à l’étranger. Lancée en 2012, la LG Tech Conference permet à LG d’élargir ses contacts avec les talents nécessaires au renforcement de sa compétitivité technologique future. Cette édition s’est concentrée sur l’identification et la mise en relation précoces de talents scientifiques et de chercheurs qualifiés. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مؤتمر LG للتقنية يستهدف مواهب المستقبل من جيل ألفا إلى حملة الدكتوراه",
+        "excerpt": "عقدت LG في 14 من الشهر مؤتمر LG للتقنية لاستقطاب مواهب التكنولوجيا المستقبلية، من الموهوبين علميا في جيل ألفا المولودين بين 2010 و2024 إلى حملة الماجستير والدكتوراه.",
+        "body": "عقدت LG في 14 من الشهر مؤتمر LG للتقنية ضمن جهودها لتأمين مواهب التكنولوجيا المستقبلية. وتشمل الفئة المستهدفة الموهوبين علميا من جيل ألفا، المولودين بين 2010 و2024، إضافة إلى أصحاب درجات الماجستير والدكتوراه داخل كوريا وخارجها. بدأ مؤتمر LG للتقنية في عام 2012، ويعد منصة توسع من خلالها LG تواصلها مع المواهب اللازمة لتعزيز قدرتها التنافسية في تقنيات المستقبل. وركزت نسخة هذا العام على اكتشاف المواهب العلمية والباحثين المتقدمين وربطهم مبكرا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "LG टेक कॉन्फ्रेंस में भविष्य की प्रतिभा पर जोर, अल्फा जेनरेशन से पीएचडी तक",
+        "excerpt": "LG ने 14 तारीख को LG टेक कॉन्फ्रेंस आयोजित कर 2010-2024 में जन्मे अल्फा जेनरेशन के विज्ञान प्रतिभाशाली छात्रों से लेकर देश-विदेश के मास्टर और पीएचडी प्रतिभाओं तक को जोड़ने की पहल की।",
+        "body": "LG ने 14 तारीख को LG टेक कॉन्फ्रेंस आयोजित कर भविष्य की तकनीकी प्रतिभा 확보 करने की दिशा में कदम बढ़ाया। इसका दायरा 2010 से 2024 के बीच जन्मे अल्फा जेनरेशन के विज्ञान प्रतिभाशाली युवाओं से लेकर कोरिया और विदेशों के मास्टर तथा पीएचडी स्तर की प्रतिभाओं तक है। LG टेक कॉन्फ्रेंस 2012 में शुरू हुई थी और यह LG के लिए भविष्य की तकनीकी प्रतिस्पर्धा मजबूत करने हेतु प्रतिभाओं से संपर्क बढ़ाने का मंच है। इस बार का आयोजन विज्ञान प्रतिभा और उन्नत शोध कर्मियों की शुरुआती पहचान व संपर्क पर केंद्रित रहा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "LG Tech Conference Bidik Talenta Masa Depan, dari Generasi Alfa hingga Doktor",
+        "excerpt": "LG menggelar LG Tech Conference pada tanggal 14 untuk menjaring talenta teknologi masa depan, dari anak berbakat sains Generasi Alfa kelahiran 2010-2024 hingga lulusan master dan doktor.",
+        "body": "LG menggelar LG Tech Conference pada tanggal 14 sebagai bagian dari upaya mengamankan talenta teknologi masa depan. Sasarannya mencakup anak berbakat sains Generasi Alfa yang lahir pada 2010-2024 hingga talenta tingkat master dan doktor di dalam maupun luar Korea. LG Tech Conference dimulai pada 2012 dan menjadi ajang bagi LG untuk memperluas kontak dengan talenta yang dibutuhkan guna memperkuat daya saing teknologi masa depan. Acara tahun ini berfokus pada penemuan dini dan penghubungan talenta sains serta peneliti tingkat lanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "2e6cb6e22431",
+    "slug": "어제-무리했으니-오늘은-쉬세요나보다-내-몸-더-잘-아는-이-시계-607324",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T07:02:10.220Z",
+    "updatedAt": "2026-05-14T07:02:10.220Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12047567",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12047567",
+    "titleFingerprint": "9494f9f490320feaeb57bc46590320c5bce727f6",
+    "dedupKeys": [
+      "2e6cb6e224319eb93f005293f112b3c3c04152e7",
+      "9494f9f490320feaeb57bc46590320c5bce727f6",
+      "568fee1364f88137c91dc8f34b6ba90bb6f2a224"
+    ],
+    "imageUrl": "/images/articles/2e6cb6e22431.png",
+    "i18n": {
+      "ko": {
+        "title": "러닝 인구 1000만 시대, 내 몸 상태까지 읽는 ‘데이터 시계’ 주목",
+        "excerpt": "국내 러닝 인구가 1000만명에 이르면서 달리기 기록을 정밀 분석하고 공유하는 데이터 기반 시계와 러닝 관리에 대한 관심이 높아지고 있다.",
+        "body": "국내에서 러닝 인구 1000만명 시대가 열리며 달리기를 즐기는 사람들이 자신의 몸 상태와 기록을 더 세밀하게 확인하려는 흐름이 커지고 있다. 단순히 뛰는 데 그치지 않고, 운동 기록을 정밀하게 분석하고 다른 사람과 공유하는 데이터 기반 러닝 문화가 확산되는 분위기다. ‘어제 무리했으니 오늘은 쉬라’는 식으로 몸 상태를 알려주는 시계형 기기는 이런 관심의 중심에 놓였다. 러닝이 대중적인 취미로 자리 잡으면서 기록 관리와 컨디션 확인 기능을 갖춘 제품에 대한 주목도도 함께 높아질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea’s 10 Million Runners Put Data-Driven Body-Tracking Watches in Focus",
+        "excerpt": "As South Korea’s running population reaches 10 million, interest is rising in data-based watches that analyze running records and help users check their condition.",
+        "body": "As South Korea enters an era of 10 million runners, more people are looking to check their physical condition and running records in greater detail. The trend is moving beyond simply running, toward a data-based running culture in which users closely analyze their exercise records and share them with others. Watch-type devices that can suggest taking a rest after overexertion are drawing attention within this shift. As running becomes a mainstream hobby, products that support record management and condition checks are expected to attract further interest. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国ランナー1000万人時代、体調まで読むデータ型ウォッチに注目",
+        "excerpt": "韓国でランニング人口が1000万人に達し、記録を精密に分析し共有できるデータ型ウォッチと体調管理への関心が高まっている。",
+        "body": "韓国でランニング人口1000万人時代が開かれ、走る人々が自分の体調や記録をより細かく確認しようとする流れが強まっている。単に走る行為にとどまらず、運動記録を精密に分析し、他の人と共有するデータ基盤のランニング文化が広がっている。『昨日は無理をしたので今日は休んで』といった形で体の状態を知らせる時計型機器は、この関心の中心にある。ランニングが大衆的な趣味として定着するなか、記録管理やコンディション確認機能を備えた製品への注目も高まりそうだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国跑步人口达1000万，能读懂身体状态的数据手表受关注",
+        "excerpt": "韩国跑步人口达到1000万，能够精细分析并分享跑步记录的数据型手表以及跑步状态管理正受到更多关注。",
+        "body": "随着韩国进入跑步人口1000万时代，跑者希望更细致地查看自身身体状态和运动记录的趋势正在增强。关注点已不只是跑步本身，而是进一步扩展到精确分析运动数据并与他人分享的跑步文化。能够根据身体状态提示“昨天运动过量，今天休息”的手表型设备，正处在这一关注的中心。随着跑步成为大众化爱好，具备记录管理和状态确认功能的产品预计也将获得更多关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Diez millones de corredores en Corea impulsan los relojes que leen el cuerpo",
+        "excerpt": "Con 10 millones de corredores en Corea del Sur, crece el interés por relojes basados en datos que analizan marcas y ayudan a revisar el estado físico.",
+        "body": "Corea del Sur ha entrado en una etapa con 10 millones de personas que corren, y aumenta el interés por comprobar con más detalle el estado físico y los registros de entrenamiento. La tendencia va más allá de correr: se extiende una cultura basada en datos, en la que los usuarios analizan con precisión sus marcas y las comparten. Los dispositivos tipo reloj que indican cuándo conviene descansar tras un esfuerzo excesivo se sitúan en el centro de esta atención. A medida que correr se consolida como afición popular, también crecerá el foco sobre productos con gestión de registros y control de condición física. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Coreia chega a 10 milhões de corredores e destaca relógios guiados por dados",
+        "excerpt": "Com 10 milhões de corredores na Coreia do Sul, cresce o interesse por relógios de dados que analisam registros de corrida e ajudam a acompanhar o corpo.",
+        "body": "A Coreia do Sul entrou na era de 10 milhões de praticantes de corrida, e mais pessoas buscam verificar com precisão seu estado físico e seus registros. A atenção já não se limita ao ato de correr: avança uma cultura de corrida baseada em dados, na qual os usuários analisam detalhadamente os treinos e compartilham resultados. Dispositivos em formato de relógio que avisam quando é melhor descansar após esforço excessivo estão no centro dessa tendência. Com a corrida se tornando um hobby popular, produtos com gestão de registros e checagem de condição tendem a receber ainda mais atenção. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "10 Millionen Läufer in Korea: Daten-Uhren für Körperstatus rücken in den Fokus",
+        "excerpt": "In Südkorea gibt es rund 10 Millionen Läufer; dadurch wächst das Interesse an datenbasierten Uhren, die Laufwerte analysieren und den Zustand prüfen.",
+        "body": "Südkorea ist in eine Phase mit 10 Millionen Läufern eingetreten, und immer mehr Menschen wollen ihren körperlichen Zustand und ihre Laufdaten genauer überprüfen. Der Trend geht über das reine Laufen hinaus: Eine datenbasierte Laufkultur breitet sich aus, in der Trainingsaufzeichnungen präzise analysiert und mit anderen geteilt werden. Uhrenartige Geräte, die nach hoher Belastung zu einer Pause raten können, stehen dabei im Mittelpunkt des Interesses. Da Laufen zu einem breiten Hobby wird, dürfte auch die Aufmerksamkeit für Produkte mit Funktionen zur Aufzeichnung und Zustandskontrolle weiter steigen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "10 millions de coureurs en Corée: les montres qui lisent le corps gagnent en intérêt",
+        "excerpt": "Avec 10 millions de coureurs en Corée du Sud, l’intérêt augmente pour les montres de données capables d’analyser les performances et l’état physique.",
+        "body": "La Corée du Sud entre dans une période où la population de coureurs atteint 10 millions, et de plus en plus de personnes veulent suivre plus finement leur état physique et leurs records. L’intérêt dépasse le simple fait de courir: une culture de la course fondée sur les données se développe, avec analyse précise des entraînements et partage des résultats. Les dispositifs de type montre, capables d’indiquer qu’il vaut mieux se reposer après un effort excessif, sont au centre de cette attention. Alors que la course devient un loisir populaire, les produits offrant gestion des records et suivi de condition devraient être davantage remarqués. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "10 ملايين عداء في كوريا يرفعون الاهتمام بساعات تقرأ حالة الجسم بالبيانات",
+        "excerpt": "مع وصول عدد ممارسي الجري في كوريا الجنوبية إلى 10 ملايين، يتزايد الاهتمام بساعات تعتمد على البيانات لتحليل السجلات ومتابعة الحالة البدنية.",
+        "body": "دخلت كوريا الجنوبية مرحلة يبلغ فيها عدد ممارسي الجري 10 ملايين شخص، ما زاد رغبة العدائين في متابعة حالتهم البدنية وسجلاتهم الرياضية بدقة أكبر. ولم يعد الاهتمام مقتصرا على الجري نفسه، بل يتجه إلى ثقافة جري قائمة على البيانات، حيث يتم تحليل سجلات التمرين بدقة ومشاركتها مع الآخرين. وتبرز الأجهزة التي تأتي على شكل ساعة ويمكنها تنبيه المستخدم إلى الراحة بعد مجهود زائد في قلب هذا الاهتمام. ومع تحول الجري إلى هواية واسعة الانتشار، من المتوقع أن تحظى المنتجات التي توفر إدارة السجلات وفحص الحالة البدنية بمزيد من الانتباه. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया में 1 करोड़ रनर, शरीर की हालत पढ़ने वाली डेटा घड़ियों पर नजर",
+        "excerpt": "दक्षिण कोरिया में रनिंग आबादी 1 करोड़ तक पहुंचने के साथ रिकॉर्ड का सटीक विश्लेषण और शरीर की स्थिति बताने वाली डेटा आधारित घड़ियों में रुचि बढ़ रही है।",
+        "body": "दक्षिण कोरिया में रनिंग करने वालों की संख्या 1 करोड़ तक पहुंच गई है, और लोग अब अपनी शारीरिक स्थिति तथा दौड़ के रिकॉर्ड को अधिक बारीकी से देखना चाहते हैं। ध्यान केवल दौड़ने तक सीमित नहीं रहा; व्यायाम रिकॉर्ड का सटीक विश्लेषण करने और उन्हें दूसरों के साथ साझा करने वाली डेटा आधारित रनिंग संस्कृति फैल रही है। ऐसी घड़ी जैसे उपकरण, जो अधिक मेहनत के बाद आराम करने की सलाह दे सकते हैं, इस रुचि के केंद्र में हैं। जैसे-जैसे रनिंग आम शौक बन रही है, रिकॉर्ड प्रबंधन और कंडीशन जांच वाली सुविधाओं वाले उत्पादों पर ध्यान और बढ़ने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Populasi Pelari Korea 10 Juta, Jam Data Pembaca Kondisi Tubuh Jadi Sorotan",
+        "excerpt": "Saat populasi pelari Korea Selatan mencapai 10 juta, minat pada jam berbasis data yang menganalisis catatan lari dan memantau kondisi tubuh meningkat.",
+        "body": "Korea Selatan memasuki era dengan 10 juta orang yang berlari, dan semakin banyak pelari ingin memeriksa kondisi tubuh serta catatan lari mereka secara lebih rinci. Perhatian tidak lagi berhenti pada aktivitas berlari, tetapi berkembang menjadi budaya lari berbasis data, tempat catatan olahraga dianalisis secara presisi dan dibagikan kepada orang lain. Perangkat berbentuk jam yang dapat menyarankan istirahat setelah pengguna berolahraga terlalu keras menjadi pusat perhatian dalam tren ini. Seiring lari menjadi hobi populer, produk dengan fungsi pengelolaan catatan dan pengecekan kondisi diperkirakan makin disorot. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "32ee0e4d3346",
+    "slug": "두산에너빌리티-2026-파트너스-데이-개최협력사와-소통-강화-782280",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T07:01:02.131Z",
+    "updatedAt": "2026-05-14T07:01:02.131Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12047574",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12047574",
+    "titleFingerprint": "190430e5666f9284c4f1367131a5d5f7410978f3",
+    "dedupKeys": [
+      "32ee0e4d334699968f13b43484102e30ea9996e9",
+      "190430e5666f9284c4f1367131a5d5f7410978f3",
+      "f2089bb18b8b884a62594ca75aa2ec022b2ff735"
+    ],
+    "imageUrl": "/images/articles/32ee0e4d3346.jpg",
+    "i18n": {
+      "ko": {
+        "title": "두산에너빌리티, 2026 파트너스 데이 개최…AX·품질·ESG 상생 강화",
+        "excerpt": "두산에너빌리티가 경남 창원 본사에서 2026 파트너스 데이를 열고 협력사와 AX, 품질, ESG 경쟁력 강화 사례를 공유하며 소통을 확대했다.",
+        "body": "두산에너빌리티는 경남 창원 본사에서 협력사와의 상생협력 강화를 위한 ‘2026 파트너스 데이’를 개최했다. 이번 행사는 협력사와의 소통을 넓히고 경쟁력 강화 방안을 공유하기 위해 마련됐다. 행사에서는 AX, 품질, ESG 등 협력사 경쟁력 제고와 관련한 사례가 소개됐다. 두산에너빌리티는 협력사의 역량 강화가 회사 경쟁력과도 연결된다는 점을 강조했다. 정연인 부회장은 “협력사 경쟁력이 곧 두산 경쟁력”이라고 밝혔다. 이번 행사는 공급망 전반의 협력 기반을 다지고 상생협력의 방향을 확인하는 자리로 평가된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Doosan Enerbility Hosts 2026 Partners Day to Boost AX, Quality and ESG Cooperation",
+        "excerpt": "Doosan Enerbility held its 2026 Partners Day at its Changwon headquarters to share partner competitiveness cases in AX, quality and ESG and expand communication.",
+        "body": "Doosan Enerbility held its 2026 Partners Day at its headquarters in Changwon, South Gyeongsang Province, to strengthen shared growth with partner companies. The event was organized to broaden communication with suppliers and share ways to enhance competitiveness. Cases related to partner capability building in AX, quality and ESG were presented. Doosan Enerbility emphasized that stronger partner capabilities are directly linked to its own competitiveness. Vice Chairman Jung Yeon-in said, “Partner competitiveness is Doosan’s competitiveness.” The event served as a forum to reinforce cooperation across the supply chain and confirm the direction of shared growth. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "斗山エナビリティ、2026パートナーズデー開催…AX・品質・ESG協力を強化",
+        "excerpt": "斗山エナビリティは昌原本社で2026パートナーズデーを開き、協力会社とAX、品質、ESGの競争力強化事例を共有し対話を広げた。",
+        "body": "斗山エナビリティは慶尚南道昌原の本社で、協力会社との共生協力を強化するため「2026パートナーズデー」を開催した。今回の行事は、協力会社とのコミュニケーションを拡大し、競争力を高める方法を共有するために設けられた。会場ではAX、品質、ESGなど、協力会社の競争力向上に関する事例が紹介された。斗山エナビリティは、協力会社の力量強化が自社の競争力にもつながる点を強調した。鄭然寅副会長は「協力会社の競争力がすなわち斗山の競争力だ」と述べた。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "斗山能源举办2026合作伙伴日，强化AX、质量与ESG协同",
+        "excerpt": "斗山能源在庆南昌原总部举行2026合作伙伴日，与合作企业分享AX、质量和ESG竞争力提升案例，扩大沟通。",
+        "body": "斗山能源在庆尚南道昌原总部举办“2026合作伙伴日”，旨在加强与合作企业的共同成长合作。此次活动为扩大与供应商的沟通、分享提升竞争力的方法而举行。活动中介绍了与AX、质量、ESG等相关的合作企业竞争力提升案例。斗山能源强调，合作企业能力的增强也与公司自身竞争力相连接。副会长郑然仁表示：“合作企业的竞争力就是斗山的竞争力。”此次活动被视为巩固供应链整体合作基础、确认共赢合作方向的场合。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Doosan Enerbility celebra Partners Day 2026 y refuerza cooperación en AX, calidad y ESG",
+        "excerpt": "Doosan Enerbility celebró en su sede de Changwon el Partners Day 2026 para compartir casos de competitividad en AX, calidad y ESG con sus socios.",
+        "body": "Doosan Enerbility celebró el “Partners Day 2026” en su sede de Changwon, en la provincia surcoreana de Gyeongsang del Sur, para fortalecer la cooperación de crecimiento compartido con sus empresas asociadas. El evento se organizó para ampliar la comunicación con los proveedores y compartir medidas para mejorar la competitividad. Durante la jornada se presentaron casos relacionados con AX, calidad y ESG. La compañía subrayó que el fortalecimiento de las capacidades de sus socios está vinculado a su propia competitividad. El vicepresidente Jung Yeon-in afirmó: “La competitividad de los socios es la competitividad de Doosan”. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Doosan Enerbility realiza Partners Day 2026 e reforça cooperação em AX, qualidade e ESG",
+        "excerpt": "A Doosan Enerbility realizou o Partners Day 2026 em Changwon para compartilhar com fornecedores casos de competitividade em AX, qualidade e ESG.",
+        "body": "A Doosan Enerbility realizou o “Partners Day 2026” em sua sede em Changwon, na província de Gyeongsang do Sul, para fortalecer a cooperação de crescimento compartilhado com empresas parceiras. O evento foi preparado para ampliar a comunicação com fornecedores e compartilhar formas de elevar a competitividade. Foram apresentados casos ligados a AX, qualidade e ESG, voltados ao fortalecimento da competitividade dos parceiros. A Doosan Enerbility destacou que a melhoria das capacidades das empresas parceiras também está conectada à competitividade da própria companhia. O vice-presidente Jung Yeon-in disse: “A competitividade dos parceiros é a competitividade da Doosan”. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Doosan Enerbility veranstaltet Partners Day 2026 und stärkt AX-, Qualitäts- und ESG-Kooperation",
+        "excerpt": "Doosan Enerbility veranstaltete am Hauptsitz in Changwon den Partners Day 2026, um mit Partnerfirmen Fälle zu AX, Qualität und ESG zu teilen.",
+        "body": "Doosan Enerbility hat am Hauptsitz in Changwon in der südkoreanischen Provinz Süd-Gyeongsang den „Partners Day 2026“ veranstaltet, um die partnerschaftliche Zusammenarbeit mit Zulieferern zu stärken. Die Veranstaltung sollte den Austausch mit Partnerunternehmen ausweiten und Wege zur Steigerung der Wettbewerbsfähigkeit teilen. Vorgestellt wurden Beispiele zu AX, Qualität und ESG. Doosan Enerbility betonte, dass stärkere Fähigkeiten der Partner direkt mit der eigenen Wettbewerbsfähigkeit verbunden seien. Vizevorsitzender Jung Yeon-in sagte: „Die Wettbewerbsfähigkeit der Partner ist die Wettbewerbsfähigkeit von Doosan.“ Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Doosan Enerbility organise le Partners Day 2026 et renforce l’AX, la qualité et l’ESG",
+        "excerpt": "Doosan Enerbility a organisé le Partners Day 2026 à son siège de Changwon afin de partager avec ses partenaires des cas sur l’AX, la qualité et l’ESG.",
+        "body": "Doosan Enerbility a organisé le « Partners Day 2026 » à son siège de Changwon, dans la province sud-coréenne du Gyeongsang du Sud, afin de renforcer la coopération de croissance partagée avec ses entreprises partenaires. L’événement visait à élargir la communication avec les fournisseurs et à partager des moyens d’améliorer leur compétitivité. Des cas liés à l’AX, à la qualité et à l’ESG ont été présentés. Doosan Enerbility a souligné que le renforcement des capacités de ses partenaires est aussi lié à sa propre compétitivité. Le vice-président Jung Yeon-in a déclaré : « La compétitivité des partenaires est celle de Doosan. » Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "دوسان إنربيلتي تعقد يوم الشركاء 2026 لتعزيز التعاون في AX والجودة وESG",
+        "excerpt": "عقدت دوسان إنربيلتي يوم الشركاء 2026 في مقرها بتشانغوون لمشاركة حالات تعزيز تنافسية الشركاء في AX والجودة وESG وتوسيع التواصل.",
+        "body": "عقدت دوسان إنربيلتي فعالية «يوم الشركاء 2026» في مقرها الرئيسي بمدينة تشانغوون في مقاطعة كيونغسانغ الجنوبية، بهدف تعزيز التعاون القائم على النمو المشترك مع الشركات الشريكة. ونظمت الفعالية لتوسيع التواصل مع الموردين ومشاركة سبل تعزيز التنافسية. وشهدت الفعالية عرض حالات تتعلق بتقوية تنافسية الشركاء في مجالات AX والجودة وESG. وأكدت دوسان إنربيلتي أن تعزيز قدرات الشركات الشريكة يرتبط أيضا بتنافسية الشركة نفسها. وقال نائب الرئيس جونغ يون-إن: «تنافسية الشركاء هي تنافسية دوسان». المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Doosan Enerbility ने 2026 Partners Day आयोजित किया, AX, गुणवत्ता और ESG सहयोग मजबूत",
+        "excerpt": "Doosan Enerbility ने चांगवोन मुख्यालय में 2026 Partners Day आयोजित कर साझेदार कंपनियों के साथ AX, गुणवत्ता और ESG प्रतिस्पर्धा के मामले साझा किए।",
+        "body": "Doosan Enerbility ने दक्षिण कोरिया के ग्योंगसांगनाम-दो स्थित चांगवोन मुख्यालय में साझेदार कंपनियों के साथ साझा विकास सहयोग को मजबूत करने के लिए “2026 Partners Day” आयोजित किया। यह कार्यक्रम आपूर्तिकर्ताओं के साथ संवाद बढ़ाने और प्रतिस्पर्धात्मकता मजबूत करने के उपाय साझा करने के लिए रखा गया था। इसमें AX, गुणवत्ता और ESG से जुड़े साझेदार कंपनियों की प्रतिस्पर्धा बढ़ाने के उदाहरण प्रस्तुत किए गए। कंपनी ने जोर दिया कि साझेदारों की क्षमता मजबूत होना Doosan की अपनी प्रतिस्पर्धा से भी जुड़ा है। उपाध्यक्ष Jung Yeon-in ने कहा, “साझेदारों की प्रतिस्पर्धा ही Doosan की प्रतिस्पर्धा है।” स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Doosan Enerbility Gelar Partners Day 2026, Perkuat AX, Kualitas, dan ESG",
+        "excerpt": "Doosan Enerbility menggelar Partners Day 2026 di kantor pusat Changwon untuk berbagi kasus peningkatan daya saing mitra dalam AX, kualitas, dan ESG.",
+        "body": "Doosan Enerbility menggelar “Partners Day 2026” di kantor pusatnya di Changwon, Provinsi Gyeongsang Selatan, untuk memperkuat kerja sama pertumbuhan bersama dengan perusahaan mitra. Acara ini disiapkan untuk memperluas komunikasi dengan pemasok dan berbagi cara meningkatkan daya saing. Dalam acara tersebut, perusahaan memaparkan contoh peningkatan daya saing mitra terkait AX, kualitas, dan ESG. Doosan Enerbility menekankan bahwa penguatan kemampuan perusahaan mitra juga terhubung dengan daya saing perusahaan. Wakil Chairman Jung Yeon-in mengatakan, “Daya saing mitra adalah daya saing Doosan.” Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "a35e4a44837b",
     "slug": "경주-방폐장-2단계-가동표층처분시설-1년-만에-운영-시작현장르포-364238",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Tenaga Surya Kawasan Industri Didorong: KOSPO Gandeng KICOX dan Shinhan AM",
         "excerpt": "Korea Southern Power menandatangani kerja sama dengan KICOX dan Shinhan Asset Management untuk mengembangkan PLTS atap di kawasan industri dan memperluas energi terbarukan.",
         "body": "Korea Southern Power mulai membangun sistem kerja sama dengan Korea Industrial Complex Corporation dan Shinhan Asset Management untuk mengembangkan tenaga surya dengan memanfaatkan atap bangunan di dalam kawasan industri. Kesepakatan ini berfokus pada penggunaan atap bangunan kawasan industri sebagai ruang penyebaran energi terbarukan, serta pengembangan proyek oleh lembaga terkait sebagai “satu tim”. Melalui langkah ini, KOSPO mendorong perluasan pasokan tenaga surya berbasis kawasan industri. Karena memakai atap yang belum dimanfaatkan, bukan lahan tambahan, pendekatan ini menjadi perhatian karena berpotensi mengurangi beban penyediaan lokasi baru dan membantu perluasan energi terbarukan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f34ad296e1f5",
-    "slug": "부울경-중소기업에-금융지원부산은행주택금융공사-400억원-상생펀드-368199",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T14:55:49.569Z",
-    "updatedAt": "2026-05-13T14:55:49.569Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12046127",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12046127",
-    "titleFingerprint": "84d36daf214ce4e1e6a80a818399a0af4a4fbb43",
-    "dedupKeys": [
-      "f34ad296e1f53cd2f71a43a704bff91c66172a49",
-      "84d36daf214ce4e1e6a80a818399a0af4a4fbb43",
-      "2759e2c624c98e1f87dc4a072c9fff8d4f5deef6"
-    ],
-    "imageUrl": "/images/articles/f34ad296e1f5.png",
-    "i18n": {
-      "ko": {
-        "title": "부울경 중소기업 금융지원 확대…부산은행·주택금융공사 400억원 펀드",
-        "excerpt": "BNK부산은행은 13일 한국주택금융공사와 400억원 규모 상생펀드를 조성해 부울경 지역 중소기업에 업체당 최대 7억원과 최대 1.60%포인트 금리감면을 지원한다.",
-        "body": "BNK부산은행은 13일 본점에서 한국주택금융공사와 400억원 규모의 상생펀드를 조성해 부산·울산·경남 지역 중소기업 금융지원에 나선다고 밝혔다. 이번 지원은 지역 기업의 자금 부담을 낮추기 위한 상생 금융 성격이다. 지원 한도는 업체당 최대 7억원이며, 대출 금리는 최대 1.60%포인트까지 감면된다. 부산은행과 한국주택금융공사가 함께 마련한 재원은 지역 중소기업의 운영자금 확보와 금융비용 절감에 활용될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Busan Bank, KHFC Launch W40bn Fund for SMEs in Busan-Ulsan-Gyeongnam",
-        "excerpt": "BNK Busan Bank said on May 13 it formed a W40bn mutual growth fund with Korea Housing Finance Corp. to support SMEs in Busan, Ulsan and South Gyeongsang with up to W700mn per company and rate cuts of up to 1.60 percentage points.",
-        "body": "BNK Busan Bank said on May 13 at its headquarters that it has formed a W40bn mutual growth fund with Korea Housing Finance Corp. to provide financial support to small and midsize companies in Busan, Ulsan and South Gyeongsang. The program is aimed at easing funding burdens for local businesses. Each company can receive up to W700mn, while loan rates may be reduced by as much as 1.60 percentage points. The fund jointly prepared by Busan Bank and Korea Housing Finance Corp. is expected to help regional SMEs secure operating funds and lower financing costs. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "釜山銀行・住宅金融公社、釜山・蔚山・慶南中小企業に400億ウォン支援",
-        "excerpt": "BNK釜山銀行は13日、韓国住宅金融公社と400億ウォン規模の共生ファンドを造成し、釜山・蔚山・慶南の中小企業に1社最大7億ウォン、最大1.60ポイントの金利減免を支援する。",
-        "body": "BNK釜山銀行は13日、本店で韓国住宅金融公社と400億ウォン規模の共生ファンドを造成し、釜山・蔚山・慶尚南道地域の中小企業への金融支援に乗り出すと明らかにした。今回の支援は、地域企業の資金負担を軽減するための共生金融の性格を持つ。支援限度は1社当たり最大7億ウォンで、貸出金利は最大1.60ポイントまで引き下げられる。両機関が用意した財源は、地域中小企業の運転資金確保と金融費用の削減に活用される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "釜山银行与韩国住房金融公社设400亿韩元基金支持东南圈中小企业",
-        "excerpt": "BNK釜山银行13日表示，将与韩国住房金融公社设立400亿韩元共生基金，支持釜山、蔚山、庆南中小企业，单家公司最高7亿韩元，并最多下调1.60个百分点利率。",
-        "body": "BNK釜山银行13日在总部表示，将与韩国住房金融公社共同设立400亿韩元规模的共生基金，为釜山、蔚山、庆尚南道地区中小企业提供金融支持。此次支持旨在减轻地区企业的资金负担，属于共生金融措施。单家企业支持额度最高为7亿韩元，贷款利率最多可下调1.60个百分点。由釜山银行和韩国住房金融公社共同筹措的资金，预计将用于帮助地区中小企业 확보运营资金并降低融资成本。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Busan Bank y KHFC crean fondo de W40.000 millones para pymes del sureste coreano",
-        "excerpt": "BNK Busan Bank anunció el 13 de mayo un fondo de crecimiento compartido de W40.000 millones con Korea Housing Finance Corp. para apoyar a pymes de Busan, Ulsan y Gyeongsang del Sur con hasta W700 millones por empresa y recortes de tasa de hasta 1,60 puntos.",
-        "body": "BNK Busan Bank informó el 13 de mayo en su sede que creó con Korea Housing Finance Corp. un fondo de crecimiento compartido de W40.000 millones para ofrecer apoyo financiero a pequeñas y medianas empresas de Busan, Ulsan y Gyeongsang del Sur. La medida busca aliviar la carga de financiación de las compañías regionales. Cada empresa podrá recibir hasta W700 millones, y la tasa de los préstamos podrá reducirse hasta 1,60 puntos porcentuales. Los recursos preparados por ambas entidades se destinarán a ayudar a las pymes locales a asegurar capital operativo y reducir costos financieros. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Busan Bank e KHFC criam fundo de W40 bi para PMEs de Busan, Ulsan e Gyeongnam",
-        "excerpt": "O BNK Busan Bank informou em 13 de maio que criou com a Korea Housing Finance Corp. um fundo de W40 bilhões para apoiar PMEs de Busan, Ulsan e Gyeongnam, com até W700 milhões por empresa e redução de juros de até 1,60 ponto.",
-        "body": "O BNK Busan Bank informou em 13 de maio, em sua sede, que criou com a Korea Housing Finance Corp. um fundo de crescimento compartilhado de W40 bilhões para oferecer apoio financeiro a pequenas e médias empresas de Busan, Ulsan e Gyeongsang do Sul. A iniciativa tem como objetivo reduzir o peso financeiro sobre empresas regionais. O limite de apoio é de até W700 milhões por empresa, com redução da taxa de empréstimo de até 1,60 ponto percentual. Os recursos preparados pelas duas instituições devem ajudar PMEs locais a garantir capital operacional e diminuir custos financeiros. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Busan Bank und KHFC legen W40-Mrd.-Fonds für KMU in Busan, Ulsan und Gyeongnam auf",
-        "excerpt": "Die BNK Busan Bank teilte am 13. Mai mit, sie habe mit der Korea Housing Finance Corp. einen W40-Mrd.-Fonds eingerichtet, um KMU in Busan, Ulsan und Süd-Gyeongsang mit bis zu W700 Mio. je Firma und Zinssenkungen bis 1,60 Punkte zu unterstützen.",
-        "body": "Die BNK Busan Bank erklärte am 13. Mai in ihrer Zentrale, sie habe gemeinsam mit der Korea Housing Finance Corp. einen Fonds für gemeinsames Wachstum im Umfang von W40 Mrd. aufgelegt, um kleine und mittlere Unternehmen in Busan, Ulsan und Süd-Gyeongsang finanziell zu unterstützen. Die Maßnahme soll die Finanzierungslast regionaler Unternehmen verringern. Pro Unternehmen sind bis zu W700 Mio. möglich, und die Kreditzinsen können um bis zu 1,60 Prozentpunkte reduziert werden. Die von beiden Institutionen bereitgestellten Mittel sollen lokalen KMU helfen, Betriebskapital zu sichern und Finanzierungskosten zu senken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Busan Bank et KHFC lancent un fonds de W40 Mds pour les PME du sud-est coréen",
-        "excerpt": "BNK Busan Bank a annoncé le 13 mai un fonds de croissance partagée de W40 Mds avec Korea Housing Finance Corp. pour soutenir les PME de Busan, Ulsan et Gyeongsang du Sud, avec jusqu’à W700 M par entreprise et une baisse de taux jusqu’à 1,60 point.",
-        "body": "BNK Busan Bank a indiqué le 13 mai, à son siège, avoir constitué avec Korea Housing Finance Corp. un fonds de croissance partagée de W40 Mds afin d’apporter un soutien financier aux petites et moyennes entreprises de Busan, Ulsan et Gyeongsang du Sud. Cette mesure vise à réduire la charge de financement des entreprises régionales. Le plafond d’aide atteint W700 M par entreprise, tandis que le taux des prêts peut être réduit jusqu’à 1,60 point de pourcentage. Les ressources préparées par les deux institutions devraient aider les PME locales à obtenir des fonds de roulement et à réduire leurs coûts financiers. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "بوسان بنك وهيئة تمويل الإسكان يطلقان صندوقا بـ40 مليار وون لدعم شركات الجنوب الشرقي",
-        "excerpt": "أعلن BNK Busan Bank في 13 مايو إنشاء صندوق شراكة بقيمة 40 مليار وون مع Korea Housing Finance Corp. لدعم الشركات الصغيرة والمتوسطة في بوسان وأولسان وكيونغنام، بحد أقصى 700 مليون وون لكل شركة وخفض فائدة حتى 1.60 نقطة.",
-        "body": "أعلن BNK Busan Bank في 13 مايو، من مقره الرئيسي، أنه أنشأ مع Korea Housing Finance Corp. صندوق شراكة بقيمة 40 مليار وون لتقديم دعم مالي للشركات الصغيرة والمتوسطة في بوسان وأولسان ومقاطعة كيونغسانغ الجنوبية. ويهدف هذا الدعم إلى تخفيف أعباء التمويل عن الشركات المحلية. يبلغ الحد الأقصى للدعم 700 مليون وون لكل شركة، ويمكن خفض سعر الفائدة على القروض بما يصل إلى 1.60 نقطة مئوية. ومن المتوقع أن تساعد الموارد التي أعدتها المؤسستان الشركات الصغيرة والمتوسطة في المنطقة على تأمين رأس المال التشغيلي وخفض تكاليف التمويل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Busan Bank और KHFC ने दक्षिण-पूर्व कोरिया की SMEs के लिए W40 अरब का फंड बनाया",
-        "excerpt": "BNK Busan Bank ने 13 मई को Korea Housing Finance Corp. के साथ W40 अरब का साझा विकास फंड बनाने की घोषणा की, जिससे Busan, Ulsan और Gyeongnam की SMEs को प्रति कंपनी W700 मिलियन तक और ब्याज दर में 1.60 अंक तक छूट मिलेगी।",
-        "body": "BNK Busan Bank ने 13 मई को अपने मुख्यालय में कहा कि उसने Korea Housing Finance Corp. के साथ W40 अरब का साझा विकास फंड बनाया है, जिसके जरिए Busan, Ulsan और South Gyeongsang क्षेत्र की छोटी और मध्यम कंपनियों को वित्तीय सहायता दी जाएगी। इस कदम का उद्देश्य क्षेत्रीय कंपनियों के फंडिंग बोझ को कम करना है। प्रति कंपनी सहायता सीमा W700 मिलियन तक है, जबकि ऋण ब्याज दर में अधिकतम 1.60 प्रतिशत अंक तक कटौती की जा सकती है। दोनों संस्थानों द्वारा तैयार संसाधन स्थानीय SMEs को परिचालन पूंजी जुटाने और वित्तीय लागत घटाने में मदद करेंगे। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Busan Bank dan KHFC Bentuk Dana W40 Miliar untuk UKM Busan-Ulsan-Gyeongnam",
-        "excerpt": "BNK Busan Bank pada 13 Mei membentuk dana pertumbuhan bersama W40 miliar dengan Korea Housing Finance Corp. untuk mendukung UKM di Busan, Ulsan, dan Gyeongnam, dengan bantuan hingga W700 juta per perusahaan dan potongan bunga hingga 1,60 poin.",
-        "body": "BNK Busan Bank pada 13 Mei di kantor pusatnya menyatakan telah membentuk dana pertumbuhan bersama senilai W40 miliar dengan Korea Housing Finance Corp. untuk memberikan dukungan keuangan kepada usaha kecil dan menengah di Busan, Ulsan, dan Gyeongsang Selatan. Program ini bertujuan mengurangi beban pendanaan perusahaan daerah. Batas dukungan mencapai W700 juta per perusahaan, sementara suku bunga pinjaman dapat dipangkas hingga 1,60 poin persentase. Dana yang disiapkan kedua lembaga itu diperkirakan membantu UKM lokal memperoleh modal operasional dan menekan biaya pembiayaan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9a058d6439d3",
-    "slug": "말로-켜고-끄고욕실-환기가전에도-ai음성인식-적용-649468",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T14:54:48.184Z",
-    "updatedAt": "2026-05-13T14:54:48.184Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12046334",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12046334",
-    "titleFingerprint": "7f76c14826f23149a9fc00d2841567942bb30473",
-    "dedupKeys": [
-      "9a058d6439d39e1b9df1aef2f5636641e2e90304",
-      "7f76c14826f23149a9fc00d2841567942bb30473",
-      "92f55fb7334a2b846c46623b75ce51a7a3bd1a8d"
-    ],
-    "imageUrl": "/images/articles/9a058d6439d3.png",
-    "i18n": {
-      "ko": {
-        "title": "AI 음성인식 욕실 환기가전, 힘펠이 선보인 말로 켜고 끄는 신제품",
-        "excerpt": "환기가전 기업 힘펠은 AI+ 인증을 획득한 AI 음성인식 욕실 환기 제품을 내놓고, 말로 작동하는 기능을 통해 사용자 편의성을 높였다고 밝혔다.",
-        "body": "환기가전 기업 힘펠이 AI 음성인식으로 작동하는 욕실 환기 제품을 선보였다. 사용자는 제품을 직접 조작하지 않고 말로 켜고 끄는 방식으로 욕실 환기를 관리할 수 있다. 힘펠은 해당 제품이 AI+ 인증을 획득했다고 밝혔다. 환기 관련 제품이 다양하게 출시되는 가운데, 힘펠은 AI 기술을 접목해 사용자 편의성을 높이는 데 초점을 맞췄다. 욕실 환기가전에도 음성인식 기능이 적용되면서 생활가전의 조작 방식이 더 간편해질 것으로 보인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "AI Voice-Controlled Bathroom Ventilation: Himpel Launches Talk-to-Operate Product",
-        "excerpt": "Ventilation appliance company Himpel has introduced an AI voice-recognition bathroom ventilation product with AI+ certification, aiming to improve user convenience through voice operation.",
-        "body": "Himpel, a ventilation appliance company, has introduced a bathroom ventilation product that operates with AI voice recognition. Users can manage bathroom ventilation by turning the product on and off with spoken commands instead of manual controls. Himpel said the product has obtained AI+ certification. As a variety of ventilation-related products continue to enter the market, the company is focusing on applying AI technology to improve user convenience. The addition of voice recognition to bathroom ventilation appliances suggests a simpler way to operate household ventilation products. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "AI音声認識の浴室換気家電、ヒンペルが声で操作する新製品を投入",
-        "excerpt": "換気家電企業ヒンペルは、AI+認証を取得したAI音声認識対応の浴室換気製品を発売し、声で操作できる機能で利便性を高めた。",
-        "body": "換気家電企業のヒンペルが、AI音声認識で作動する浴室換気製品を発表した。利用者は製品を直接操作せず、声でオン・オフを行い浴室の換気を管理できる。ヒンペルは同製品がAI+認証を取得したと説明した。換気関連製品が多様に発売されるなか、同社はAI技術を組み合わせ、利用者の利便性を高めることに重点を置いた。浴室換気家電にも音声認識機能が適用され、生活家電の操作方法はより簡単になるとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "AI语音识别浴室换气家电，Himpel推出可用语音开关的新产品",
-        "excerpt": "换气家电企业Himpel推出获得AI+认证的AI语音识别浴室换气产品，通过语音操作功能提升用户使用便利性。",
-        "body": "换气家电企业Himpel推出了可通过AI语音识别运行的浴室换气产品。用户无需直接操作设备，只需用语音即可开启或关闭产品，管理浴室换气。Himpel表示，该产品已获得AI+认证。在各类换气相关产品不断上市的背景下，Himpel将AI技术应用于产品，重点提升用户便利性。随着语音识别功能被引入浴室换气家电，生活家电的操作方式有望变得更加简便。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Ventilación de baño con voz e IA: Himpel lanza un producto que se enciende hablando",
-        "excerpt": "La empresa de electrodomésticos de ventilación Himpel presentó un producto de ventilación para baño con reconocimiento de voz por IA y certificación AI+ para mejorar la comodidad del usuario.",
-        "body": "Himpel, empresa de electrodomésticos de ventilación, presentó un producto de ventilación para baño que funciona con reconocimiento de voz basado en IA. Los usuarios pueden gestionar la ventilación del baño encendiendo y apagando el producto con comandos hablados, sin manipularlo directamente. Himpel indicó que el producto obtuvo la certificación AI+. Mientras se lanzan diversos productos relacionados con la ventilación, la compañía se centra en incorporar IA para mejorar la comodidad del usuario. La aplicación del reconocimiento de voz a la ventilación de baño apunta a una forma más sencilla de operar estos electrodomésticos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ventilação de banheiro com voz e IA: Himpel lança produto acionado por fala",
-        "excerpt": "A empresa de aparelhos de ventilação Himpel apresentou um produto de ventilação para banheiro com reconhecimento de voz por IA e certificação AI+, buscando ampliar a conveniência do usuário.",
-        "body": "A Himpel, empresa de aparelhos de ventilação, apresentou um produto de ventilação para banheiro que funciona com reconhecimento de voz por IA. Os usuários podem controlar a ventilação do banheiro ligando e desligando o produto por comandos de voz, sem operar o aparelho manualmente. A Himpel informou que o produto obteve a certificação AI+. Em meio ao lançamento de diversos produtos ligados à ventilação, a empresa foca em aplicar tecnologia de IA para aumentar a conveniência do usuário. A adoção de reconhecimento de voz em aparelhos de ventilação para banheiro deve tornar a operação desses produtos domésticos mais simples. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Badlüftung per KI-Sprachsteuerung: Himpel bringt Produkt zum Ein- und Ausschalten per Stimme",
-        "excerpt": "Der Lüftungsgerätehersteller Himpel hat ein Badlüftungsprodukt mit KI-Spracherkennung und AI+-Zertifizierung vorgestellt, das die Bedienung per Stimme erleichtern soll.",
-        "body": "Der Lüftungsgerätehersteller Himpel hat ein Badlüftungsprodukt vorgestellt, das mit KI-Spracherkennung arbeitet. Nutzer können die Badlüftung steuern, indem sie das Produkt per Sprachbefehl ein- und ausschalten, ohne es direkt zu bedienen. Himpel teilte mit, dass das Produkt die AI+-Zertifizierung erhalten hat. Während immer mehr Produkte rund um Lüftung auf den Markt kommen, setzt das Unternehmen auf KI-Technologie, um die Benutzerfreundlichkeit zu erhöhen. Mit der Anwendung von Spracherkennung auf Badlüftungsgeräte dürfte die Bedienung von Haushaltslüftung einfacher werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Ventilation de salle de bain à commande vocale IA: Himpel lance un produit activé à la voix",
-        "excerpt": "Le fabricant d’appareils de ventilation Himpel a présenté un produit de ventilation de salle de bain avec reconnaissance vocale IA et certification AI+ afin d’améliorer le confort d’usage.",
-        "body": "Himpel, fabricant d’appareils de ventilation, a présenté un produit de ventilation pour salle de bain fonctionnant avec la reconnaissance vocale par IA. Les utilisateurs peuvent gérer la ventilation en allumant ou en éteignant le produit par la voix, sans manipulation directe. Himpel a indiqué que le produit avait obtenu la certification AI+. Alors que divers produits liés à la ventilation sont lancés, l’entreprise met l’accent sur l’intégration de l’IA pour améliorer la commodité d’utilisation. L’arrivée de la reconnaissance vocale dans les appareils de ventilation de salle de bain devrait rendre leur fonctionnement plus simple. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تهوية الحمام بالذكاء الاصطناعي الصوتي: هيمبل تطرح منتجا يعمل بالأوامر الصوتية",
-        "excerpt": "طرحت شركة هيمبل لأجهزة التهوية منتجا لتهوية الحمام يعمل بالتعرف الصوتي المدعوم بالذكاء الاصطناعي وحصل على اعتماد AI+ بهدف تحسين راحة المستخدم.",
-        "body": "طرحت شركة هيمبل المتخصصة في أجهزة التهوية منتجا لتهوية الحمام يعمل بتقنية التعرف الصوتي بالذكاء الاصطناعي. ويمكن للمستخدمين إدارة تهوية الحمام عبر تشغيل المنتج أو إيقافه بالأوامر الصوتية بدلا من التحكم اليدوي المباشر. وقالت هيمبل إن المنتج حصل على اعتماد AI+. ومع طرح منتجات متنوعة مرتبطة بالتهوية، تركز الشركة على دمج تقنية الذكاء الاصطناعي لرفع مستوى راحة المستخدم. ويشير تطبيق التعرف الصوتي في أجهزة تهوية الحمام إلى طريقة تشغيل أبسط للأجهزة المنزلية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "AI वॉइस रिकग्निशन वाला बाथरूम वेंटिलेशन, Himpel ने बोलकर चलने वाला उत्पाद पेश किया",
-        "excerpt": "वेंटिलेशन उपकरण कंपनी Himpel ने AI+ प्रमाणन प्राप्त AI वॉइस रिकग्निशन वाला बाथरूम वेंटिलेशन उत्पाद पेश किया, जिसका लक्ष्य उपयोगकर्ता सुविधा बढ़ाना है।",
-        "body": "वेंटिलेशन उपकरण कंपनी Himpel ने AI वॉइस रिकग्निशन से चलने वाला बाथरूम वेंटिलेशन उत्पाद पेश किया है। उपयोगकर्ता उत्पाद को सीधे छुए बिना आवाज से उसे चालू या बंद कर बाथरूम की वेंटिलेशन व्यवस्था संभाल सकते हैं। Himpel ने बताया कि इस उत्पाद को AI+ प्रमाणन मिला है। वेंटिलेशन से जुड़े विविध उत्पाद बाजार में आने के बीच कंपनी ने AI तकनीक जोड़कर उपयोगकर्ता सुविधा बढ़ाने पर ध्यान दिया है। बाथरूम वेंटिलेशन उपकरणों में वॉइस रिकग्निशन लागू होने से घरेलू उपकरणों का संचालन अधिक आसान हो सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Ventilasi Kamar Mandi Berbasis Suara AI, Himpel Rilis Produk yang Bisa Dinyalakan Lewat Ucapan",
-        "excerpt": "Perusahaan perangkat ventilasi Himpel memperkenalkan produk ventilasi kamar mandi dengan pengenalan suara AI bersertifikasi AI+ untuk meningkatkan kemudahan pengguna.",
-        "body": "Himpel, perusahaan perangkat ventilasi, memperkenalkan produk ventilasi kamar mandi yang beroperasi dengan pengenalan suara berbasis AI. Pengguna dapat mengatur ventilasi kamar mandi dengan menyalakan atau mematikan produk lewat perintah suara tanpa mengoperasikannya secara langsung. Himpel menyatakan produk tersebut telah memperoleh sertifikasi AI+. Di tengah beragamnya produk terkait ventilasi yang dirilis, perusahaan berfokus menerapkan teknologi AI untuk meningkatkan kemudahan pengguna. Penerapan pengenalan suara pada perangkat ventilasi kamar mandi menunjukkan cara pengoperasian peralatan rumah tangga yang lebih sederhana. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e499dba43301",
-    "slug": "금호석화-최경주재단에-장학금-3천만원-기부-506765",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T14:53:49.147Z",
-    "updatedAt": "2026-05-13T14:53:49.147Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12046343",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12046343",
-    "titleFingerprint": "3207a42f8102e222615a194085ec9c2aba22657a",
-    "dedupKeys": [
-      "e499dba43301c2e1cffbaf56b16efb2242660650",
-      "3207a42f8102e222615a194085ec9c2aba22657a",
-      "67d5f1c1e8ab0d2469b73200cb30c7e4ffe884d8"
-    ],
-    "imageUrl": "/images/articles/e499dba43301.jpg",
-    "i18n": {
-      "ko": {
-        "title": "금호석화, 최경주재단에 장학금 3000만원 기부…이공계 인재 지원",
-        "excerpt": "금호석유화학그룹은 13일 최경주재단에 이공계 인재 육성을 위한 장학금 3000만원을 기부했다고 밝혔다. 장학금은 화학공학 등 관련 전공 학생 지원에 쓰인다.",
-        "body": "금호석유화학그룹은 13일 최경주재단에 이공계 인재 육성을 위한 장학금 3000만원을 기부했다고 밝혔다. 이번 장학금은 화학공학을 비롯해 로봇공학, 컴퓨터공학, 인공지능학, 정보보안·암호 관련 분야 등 이공계 전공 인재를 지원하는 데 사용된다. 회사의 기부는 미래 기술 분야 인재 양성을 돕는 사회공헌 활동의 일환으로 해석된다. 장학금 지원을 통해 관련 전공 학생들의 학업 지속과 성장 기반 마련에 보탬이 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kumho Petrochemical Donates 30 Million Won Scholarship to Choi Kyoung-Ju Foundation",
-        "excerpt": "Kumho Petrochemical Group said on the 13th it donated 30 million won to the Choi Kyoung-Ju Foundation to support science and engineering talent, including students in chemical engineering and related fields.",
-        "body": "Kumho Petrochemical Group announced on the 13th that it donated 30 million won in scholarship funds to the Choi Kyoung-Ju Foundation to help foster science and engineering talent. The scholarship will support students majoring in fields such as chemical engineering, robotics, computer engineering, artificial intelligence, and information security and cryptography-related areas. The donation is part of the company’s social contribution efforts to assist the development of talent in future technology fields. The funding is expected to help students in related majors continue their studies and build a foundation for growth. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "錦湖石化、崔京周財団に奨学金3000万ウォン寄付…理工系人材を支援",
-        "excerpt": "錦湖石油化学グループは13日、理工系人材の育成に向け、崔京周財団に奨学金3000万ウォンを寄付したと発表した。化学工学など関連専攻の学生支援に使われる。",
-        "body": "錦湖石油化学グループは13日、理工系人材の育成を目的に、崔京周財団へ奨学金3000万ウォンを寄付したと発表した。今回の奨学金は、化学工学をはじめ、ロボット工学、コンピューター工学、人工知能学、情報セキュリティ・暗号関連分野など、理工系専攻の人材支援に使われる。今回の寄付は、未来技術分野の人材育成を支える社会貢献活動の一環と位置づけられる。奨学金支援により、関連専攻の学生が学業を継続し、成長基盤を整える助けになる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "锦湖石化向崔京周基金会捐赠3000万韩元奖学金，支持理工人才",
-        "excerpt": "锦湖石油化学集团13日表示，已向崔京周基金会捐赠3000万韩元奖学金，用于培养理工科人才，支持化学工程等相关专业学生。",
-        "body": "锦湖石油化学集团13日表示，已向崔京周基金会捐赠3000万韩元奖学金，以支持理工科人才培养。本次奖学金将用于资助化学工程、机器人工程、计算机工程、人工智能、信息安全及密码相关领域等理工科专业人才。该捐赠可视为公司支持未来技术领域人才成长的社会贡献活动之一。通过奖学金支持，相关专业学生有望在持续学业和建立成长基础方面获得帮助。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kumho Petrochemical dona 30 millones de wones en becas a la Fundación Choi Kyoung-Ju",
-        "excerpt": "Kumho Petrochemical Group informó el día 13 que donó 30 millones de wones a la Fundación Choi Kyoung-Ju para formar talento en ciencia e ingeniería, incluidos campos como ingeniería química.",
-        "body": "Kumho Petrochemical Group anunció el día 13 que donó 30 millones de wones en becas a la Fundación Choi Kyoung-Ju para apoyar la formación de talento en ciencia e ingeniería. La beca se destinará a estudiantes de áreas como ingeniería química, robótica, ingeniería informática, inteligencia artificial, seguridad de la información y campos relacionados con criptografía. La donación forma parte de las actividades de contribución social de la compañía para respaldar el desarrollo de talento en tecnologías futuras. Se espera que el apoyo ayude a estudiantes de estas especialidades a continuar sus estudios y fortalecer su base de crecimiento. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kumho Petrochemical doa 30 milhões de won em bolsas à Fundação Choi Kyoung-Ju",
-        "excerpt": "O Kumho Petrochemical Group informou no dia 13 que doou 30 milhões de won à Fundação Choi Kyoung-Ju para apoiar talentos em ciência e engenharia, incluindo engenharia química e áreas relacionadas.",
-        "body": "O Kumho Petrochemical Group anunciou no dia 13 que doou 30 milhões de won em bolsas à Fundação Choi Kyoung-Ju para ajudar na formação de talentos em ciência e engenharia. O apoio será destinado a estudantes de áreas como engenharia química, robótica, engenharia da computação, inteligência artificial, segurança da informação e campos relacionados à criptografia. A doação faz parte das iniciativas de contribuição social da empresa para apoiar talentos em tecnologias futuras. A bolsa deve ajudar estudantes desses cursos a manter os estudos e construir uma base para seu crescimento. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kumho Petrochemical spendet 30 Mio. Won an Choi-Kyoung-Ju-Stiftung für MINT-Talente",
-        "excerpt": "Kumho Petrochemical Group teilte am 13. mit, der Choi-Kyoung-Ju-Stiftung 30 Mio. Won für Stipendien zur Förderung von MINT-Talenten gespendet zu haben, darunter Studierende der Chemietechnik.",
-        "body": "Kumho Petrochemical Group gab am 13. bekannt, der Choi-Kyoung-Ju-Stiftung 30 Millionen Won als Stipendienmittel zur Förderung von Talenten in Wissenschaft und Technik gespendet zu haben. Die Stipendien sollen Studierende in Bereichen wie Chemietechnik, Robotik, Informatik, künstlicher Intelligenz sowie Informationssicherheit und kryptografiebezogenen Feldern unterstützen. Die Spende ist Teil der gesellschaftlichen Beiträge des Unternehmens zur Förderung von Nachwuchs in Zukunftstechnologien. Die Unterstützung dürfte Studierenden entsprechender Fachrichtungen helfen, ihr Studium fortzusetzen und eine Grundlage für weiteres Wachstum zu schaffen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Kumho Petrochemical donne 30 millions de wons à la Fondation Choi Kyoung-Ju",
-        "excerpt": "Kumho Petrochemical Group a annoncé le 13 avoir donné 30 millions de wons à la Fondation Choi Kyoung-Ju afin de soutenir les talents scientifiques et techniques, notamment en génie chimique.",
-        "body": "Kumho Petrochemical Group a annoncé le 13 avoir versé 30 millions de wons de bourses à la Fondation Choi Kyoung-Ju pour contribuer à la formation de talents dans les sciences et l’ingénierie. Ces bourses soutiendront des étudiants dans des domaines tels que le génie chimique, la robotique, l’ingénierie informatique, l’intelligence artificielle, ainsi que la sécurité de l’information et les secteurs liés à la cryptographie. Ce don s’inscrit dans les actions de contribution sociale de l’entreprise en faveur des futurs domaines technologiques. Il devrait aider les étudiants concernés à poursuivre leurs études et à consolider leur base de développement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كومهو بتروكيميكال تتبرع بـ30 مليون وون لمنح مؤسسة تشوي كيونغ-جو",
-        "excerpt": "أعلنت مجموعة كومهو بتروكيميكال في 13 من الشهر أنها تبرعت بـ30 مليون وون لمؤسسة تشوي كيونغ-جو لدعم تنمية المواهب في العلوم والهندسة، بما في ذلك الهندسة الكيميائية.",
-        "body": "أعلنت مجموعة كومهو بتروكيميكال في 13 من الشهر أنها تبرعت بمنح دراسية بقيمة 30 مليون وون لمؤسسة تشوي كيونغ-جو بهدف دعم تنمية المواهب في مجالات العلوم والهندسة. وستُستخدم المنح لدعم طلاب تخصصات تشمل الهندسة الكيميائية، وهندسة الروبوتات، وهندسة الحاسوب، والذكاء الاصطناعي، وأمن المعلومات والمجالات المرتبطة بالتشفير. وتأتي هذه الخطوة ضمن أنشطة المساهمة الاجتماعية للشركة لدعم تنمية الكفاءات في مجالات التكنولوجيا المستقبلية. ومن المتوقع أن تساعد المنح الطلاب في هذه التخصصات على مواصلة دراستهم وبناء أساس للنمو. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कुम्हो पेट्रोकेमिकल ने चोई क्यौंग-जू फाउंडेशन को 3 करोड़ वॉन की छात्रवृत्ति दी",
-        "excerpt": "कुम्हो पेट्रोकेमिकल ग्रुप ने 13 तारीख को बताया कि उसने विज्ञान और इंजीनियरिंग प्रतिभाओं के विकास के लिए चोई क्यौंग-जू फाउंडेशन को 3 करोड़ वॉन की छात्रवृत्ति दान की है।",
-        "body": "कुम्हो पेट्रोकेमिकल ग्रुप ने 13 तारीख को घोषणा की कि उसने विज्ञान और इंजीनियरिंग प्रतिभाओं को बढ़ावा देने के लिए चोई क्यौंग-जू फाउंडेशन को 3 करोड़ वॉन की छात्रवृत्ति राशि दान की है। यह छात्रवृत्ति केमिकल इंजीनियरिंग, रोबोटिक्स इंजीनियरिंग, कंप्यूटर इंजीनियरिंग, आर्टिफिशियल इंटेलिजेंस, सूचना सुरक्षा और क्रिप्टोग्राफी से जुड़े क्षेत्रों जैसे विज्ञान-इंजीनियरिंग विषयों के छात्रों को समर्थन देने में इस्तेमाल होगी। यह दान भविष्य की प्रौद्योगिकी से जुड़े क्षेत्रों में प्रतिभा विकास को सहायता देने वाली कंपनी की सामाजिक योगदान गतिविधि का हिस्सा है। इससे संबंधित विषयों के छात्रों को पढ़ाई जारी रखने और विकास की बुनियाद बनाने में मदद मिलने की उम्मीद है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kumho Petrochemical Donasikan Beasiswa 30 Juta Won ke Yayasan Choi Kyoung-Ju",
-        "excerpt": "Kumho Petrochemical Group menyatakan pada 13 bahwa pihaknya menyumbangkan beasiswa 30 juta won kepada Yayasan Choi Kyoung-Ju untuk mendukung talenta sains dan teknik, termasuk teknik kimia.",
-        "body": "Kumho Petrochemical Group mengumumkan pada 13 bahwa pihaknya menyumbangkan dana beasiswa sebesar 30 juta won kepada Yayasan Choi Kyoung-Ju untuk membantu pengembangan talenta di bidang sains dan teknik. Beasiswa ini akan digunakan untuk mendukung mahasiswa jurusan seperti teknik kimia, teknik robotika, teknik komputer, kecerdasan buatan, serta bidang keamanan informasi dan kriptografi. Donasi tersebut merupakan bagian dari kegiatan kontribusi sosial perusahaan untuk mendukung pengembangan talenta di bidang teknologi masa depan. Dukungan beasiswa ini diharapkan membantu mahasiswa terkait melanjutkan studi dan membangun dasar pertumbuhan. Sumber: mk.co.kr"
       }
     }
   }
