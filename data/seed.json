@@ -1,5 +1,230 @@
 [
   {
+    "id": "713a6be3db49",
+    "slug": "벡트-글로벌-기업-스카이워스와-led-제품-독점-공급-mou-951424",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T21:56:10.175Z",
+    "updatedAt": "2026-05-14T21:56:10.176Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051464116",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051464116",
+    "titleFingerprint": "c67e1f4333758885eb96b89c32335f3e54a46348",
+    "dedupKeys": [
+      "713a6be3db491f7a6ebd838a0a651792e71ec137",
+      "c67e1f4333758885eb96b89c32335f3e54a46348",
+      "a36fce7bee43ad9a66716fbd829a957d0bbbca76"
+    ],
+    "imageUrl": "/images/articles/713a6be3db49.jpg",
+    "i18n": {
+      "ko": {
+        "title": "벡트, 스카이워스와 LED 제품 독점 공급 MOU 체결",
+        "excerpt": "벡트가 글로벌 기업 스카이워스와 LED 제품 독점 공급을 위한 양해각서를 체결했다. 이번 MOU는 LED 제품 공급 협력의 기반을 마련한 내용이다.",
+        "body": "벡트가 글로벌 기업 스카이워스와 LED 제품 독점 공급을 위한 양해각서(MOU)를 체결했다고 한국경제가 보도했다. 이번 합의는 벡트와 스카이워스가 LED 제품 공급을 둘러싼 협력 관계를 공식화했다는 점에 초점이 맞춰진다. 원문에 따르면 구체적인 공급 규모, 계약 기간, 세부 제품군 등 추가 조건은 공개되지 않았다. 이번 MOU는 양사가 LED 제품 공급 협력의 틀을 마련한 사례로, 향후 세부 계약과 실행 단계가 주목된다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Vect Signs Exclusive LED Supply MOU With Skyworth",
+        "excerpt": "Vect signed a memorandum of understanding with global company Skyworth for the exclusive supply of LED products, setting a formal basis for supply cooperation.",
+        "body": "Vect has signed a memorandum of understanding (MOU) with global company Skyworth for the exclusive supply of LED products, according to Hankyung. The agreement focuses on formalizing cooperation between Vect and Skyworth in the supply of LED products. Based on the original report, additional terms such as supply volume, contract period, and detailed product categories were not disclosed. The MOU establishes a framework for LED product supply cooperation, with attention now on any future detailed contracts and implementation steps. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ベクト、スカイワースとLED製品の独占供給MOUを締結",
+        "excerpt": "ベクトはグローバル企業スカイワースとLED製品の独占供給に向けた覚書を締結した。今回のMOUは供給協力の基盤を整える内容だ。",
+        "body": "ベクトがグローバル企業スカイワースとLED製品の独占供給に向けた覚書（MOU）を締結したと韓国経済が報じた。今回の合意は、ベクトとスカイワースがLED製品供給をめぐる協力関係を公式化した点に焦点がある。原文によると、具体的な供給規模、契約期間、詳細な製品群など追加条件は公開されていない。今回のMOUは両社がLED製品供給協力の枠組みを整えた事例であり、今後の詳細契約と実行段階が注目される。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Vect与创维签署LED产品独家供应MOU",
+        "excerpt": "Vect与全球企业创维签署LED产品独家供应谅解备忘录。该MOU为双方围绕LED产品供应开展合作奠定正式基础。",
+        "body": "据韩国经济报道，Vect已与全球企业创维签署LED产品独家供应谅解备忘录（MOU）。此次协议的重点在于，Vect与创维正式确立围绕LED产品供应的合作关系。根据原文，具体供应规模、合同期限以及详细产品类别等附加条件尚未公开。该MOU为双方LED产品供应合作建立框架，未来是否推进详细合同及执行阶段将受到关注。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Vect firma MOU de suministro exclusivo de LED con Skyworth",
+        "excerpt": "Vect firmó un memorando de entendimiento con la empresa global Skyworth para el suministro exclusivo de productos LED, creando una base formal de cooperación.",
+        "body": "Vect firmó un memorando de entendimiento (MOU) con la empresa global Skyworth para el suministro exclusivo de productos LED, informó Hankyung. El acuerdo se centra en formalizar la cooperación entre Vect y Skyworth en torno al suministro de productos LED. Según el reporte original, no se divulgaron condiciones adicionales como volumen de suministro, duración del contrato o categorías específicas de productos. Este MOU establece un marco para la cooperación en suministro LED, mientras se observarán posibles contratos detallados y pasos de ejecución. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Vect assina MOU de fornecimento exclusivo de LED com Skyworth",
+        "excerpt": "A Vect assinou um memorando de entendimento com a global Skyworth para fornecimento exclusivo de produtos LED, criando uma base formal de cooperação.",
+        "body": "A Vect assinou um memorando de entendimento (MOU) com a empresa global Skyworth para o fornecimento exclusivo de produtos LED, informou o Hankyung. O acordo tem como foco formalizar a cooperação entre Vect e Skyworth no fornecimento de produtos LED. Segundo a reportagem original, não foram divulgados termos adicionais, como volume de fornecimento, prazo contratual ou categorias detalhadas de produtos. O MOU estabelece uma estrutura para a cooperação no fornecimento de LED, com atenção voltada a futuros contratos detalhados e etapas de execução. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Vect schließt MOU zur exklusiven LED-Lieferung mit Skyworth",
+        "excerpt": "Vect hat mit dem globalen Unternehmen Skyworth eine Absichtserklärung zur exklusiven Lieferung von LED-Produkten unterzeichnet und damit eine Kooperationsbasis geschaffen.",
+        "body": "Vect hat mit dem globalen Unternehmen Skyworth eine Absichtserklärung (MOU) zur exklusiven Lieferung von LED-Produkten unterzeichnet, berichtete Hankyung. Die Vereinbarung zielt darauf ab, die Zusammenarbeit zwischen Vect und Skyworth bei der Lieferung von LED-Produkten offiziell festzuhalten. Laut Originalbericht wurden weitere Bedingungen wie Lieferumfang, Vertragsdauer oder detaillierte Produktgruppen nicht veröffentlicht. Das MOU schafft einen Rahmen für die Kooperation bei LED-Produkten; im Fokus stehen nun mögliche Detailverträge und Umsetzungsschritte. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Vect signe un MOU d’approvisionnement LED exclusif avec Skyworth",
+        "excerpt": "Vect a signé un protocole d’accord avec l’entreprise mondiale Skyworth pour l’approvisionnement exclusif en produits LED, posant une base de coopération formelle.",
+        "body": "Vect a signé un protocole d’accord (MOU) avec l’entreprise mondiale Skyworth pour l’approvisionnement exclusif en produits LED, selon Hankyung. L’accord vise à formaliser la coopération entre Vect et Skyworth autour de la fourniture de produits LED. D’après l’article original, les conditions supplémentaires, notamment le volume d’approvisionnement, la durée du contrat et les catégories précises de produits, n’ont pas été divulguées. Ce MOU établit un cadre de coopération pour les produits LED, avec une attention portée aux futurs contrats détaillés et aux étapes de mise en œuvre. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "فكت توقع مذكرة توريد حصرية لمنتجات LED مع سكاي وورث",
+        "excerpt": "وقعت فكت مذكرة تفاهم مع الشركة العالمية سكاي وورث لتوريد منتجات LED بشكل حصري، بما يضع أساسا رسميا للتعاون في التوريد.",
+        "body": "وقعت فكت مذكرة تفاهم مع الشركة العالمية سكاي وورث لتوريد منتجات LED بشكل حصري، بحسب ما أوردته هانكيونغ. وتركز الاتفاقية على إضفاء طابع رسمي على التعاون بين فكت وسكاي وورث في مجال توريد منتجات LED. ووفقا للتقرير الأصلي، لم يتم الكشف عن شروط إضافية مثل حجم التوريد أو مدة العقد أو فئات المنتجات التفصيلية. وتمثل هذه المذكرة إطارا للتعاون في توريد منتجات LED، مع ترقب أي عقود تفصيلية وخطوات تنفيذ لاحقة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Vect ने Skyworth के साथ LED आपूर्ति का विशेष MOU किया",
+        "excerpt": "Vect ने वैश्विक कंपनी Skyworth के साथ LED उत्पादों की विशेष आपूर्ति के लिए समझौता ज्ञापन पर हस्ताक्षर किए, जिससे आपूर्ति सहयोग का आधार बना।",
+        "body": "Hankyung के अनुसार, Vect ने वैश्विक कंपनी Skyworth के साथ LED उत्पादों की विशेष आपूर्ति के लिए समझौता ज्ञापन (MOU) पर हस्ताक्षर किए हैं। यह समझौता LED उत्पादों की आपूर्ति को लेकर Vect और Skyworth के सहयोग को औपचारिक रूप देता है। मूल रिपोर्ट के अनुसार, आपूर्ति की मात्रा, अनुबंध अवधि और विस्तृत उत्पाद श्रेणियों जैसी अतिरिक्त शर्तों का खुलासा नहीं किया गया। यह MOU LED उत्पाद आपूर्ति सहयोग का ढांचा तैयार करता है, और आगे विस्तृत अनुबंधों व क्रियान्वयन चरणों पर ध्यान रहेगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Vect Teken MOU Pasokan Eksklusif LED dengan Skyworth",
+        "excerpt": "Vect menandatangani nota kesepahaman dengan perusahaan global Skyworth untuk pasokan eksklusif produk LED, membentuk dasar resmi kerja sama pasokan.",
+        "body": "Vect menandatangani nota kesepahaman (MOU) dengan perusahaan global Skyworth untuk pasokan eksklusif produk LED, menurut laporan Hankyung. Kesepakatan ini berfokus pada formalisasi kerja sama antara Vect dan Skyworth dalam pasokan produk LED. Berdasarkan laporan asli, ketentuan tambahan seperti volume pasokan, masa kontrak, dan kategori produk secara rinci belum diungkapkan. MOU ini membentuk kerangka kerja sama pasokan produk LED, dengan perhatian berikutnya pada kemungkinan kontrak terperinci dan tahap pelaksanaan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "0e3b6f990fe1",
+    "slug": "동원수산-하반기-신규-거대-트롤선-dw-nova호-투입-예정-389706",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T21:55:20.341Z",
+    "updatedAt": "2026-05-14T21:55:20.341Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051464316",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051464316",
+    "titleFingerprint": "c0434f1f5a1458b872e48b8762199c6645c258f6",
+    "dedupKeys": [
+      "0e3b6f990fe147cec77d82fdc3c17d0907d6841a",
+      "c0434f1f5a1458b872e48b8762199c6645c258f6",
+      "dc18b6a1b5a7a56cc00fab6d77f1be6fb8634600"
+    ],
+    "imageUrl": "/images/articles/0e3b6f990fe1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "동원수산, 하반기 신규 거대 트롤선 ‘DW NOVA’ 투입 예정 발표",
+        "excerpt": "동원수산은 하반기 신규 거대 트롤선 ‘DW NOVA’호를 투입할 예정이라고 밝혔다. 원양 조업 선단 운용과 향후 사업 전개에 관심이 쏠린다.",
+        "body": "동원수산은 올해 하반기 신규 거대 트롤선 ‘DW NOVA’호를 투입할 예정이라고 밝혔다. 이번 발표는 회사가 보유·운용하는 원양 조업 선단과 관련한 신규 선박 투입 계획을 알린 것이다. 원문에서 확인되는 핵심 내용은 투입 시점이 하반기라는 점, 선박명이 ‘DW NOVA’호라는 점, 해당 선박이 신규 거대 트롤선이라는 점이다. 구체적인 건조 규모, 투자 금액, 조업 해역, 예상 매출 효과 등 추가 수치는 원문 요약에 제시되지 않았다. 신규 선박 투입은 동원수산의 향후 조업 역량과 선단 운영 계획을 살펴볼 주요 변수로 언급될 수 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Dongwon Fisheries to Deploy New Large Trawler ‘DW NOVA’ in Second Half",
+        "excerpt": "Dongwon Fisheries said it plans to deploy the new large trawler ‘DW NOVA’ in the second half, drawing attention to its distant-water fleet operations.",
+        "body": "Dongwon Fisheries said it plans to deploy a new large trawler, the ‘DW NOVA,’ in the second half of this year. The announcement concerns the company’s plan to add a new vessel to its distant-water fishing fleet operations. The confirmed points from the original report are the timing, set for the second half; the vessel name, ‘DW NOVA’; and the classification of the ship as a new large trawler. Additional figures such as construction size, investment amount, fishing area, or expected sales impact were not provided in the source summary. The vessel’s deployment may become a key point to watch in Dongwon Fisheries’ future fleet operation plans. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "東遠水産、下半期に新大型トロール船「DW NOVA」投入予定",
+        "excerpt": "東遠水産は下半期に新大型トロール船「DW NOVA」を投入する予定だと明らかにした。遠洋漁業船団の運用計画に関心が集まる。",
+        "body": "東遠水産は今年下半期に新大型トロール船「DW NOVA」を投入する予定だと明らかにした。今回の発表は、同社が保有・運用する遠洋漁業船団に関連し、新たな船舶投入計画を知らせる内容だ。原文で確認できる核心情報は、投入時期が下半期であること、船名が「DW NOVA」であること、同船が新大型トロール船であることだ。建造規模、投資額、操業海域、予想される売上効果などの追加数値は、原文要約には示されていない。新船投入は、東遠水産の今後の操業能力と船団運用計画を見る上で注目点となる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "东远水产拟下半年投入新大型拖网渔船“DW NOVA”",
+        "excerpt": "东远水产表示，计划在下半年投入新大型拖网渔船“DW NOVA”。市场关注其远洋捕捞船队运营及后续业务安排。",
+        "body": "东远水产表示，计划在今年下半年投入新大型拖网渔船“DW NOVA”。此次发布的内容，是公司围绕其持有和运营的远洋捕捞船队，公布新增船舶投入计划。原文可确认的核心信息包括：投入时间为下半年，船名为“DW NOVA”，该船为新大型拖网渔船。关于建造规模、投资金额、作业海域、预计销售影响等进一步数据，原文摘要中未提供。新船投入可作为观察东远水产未来捕捞能力和船队运营计划的一个重要变量。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Dongwon Fisheries prevé sumar el gran arrastrero ‘DW NOVA’ en el segundo semestre",
+        "excerpt": "Dongwon Fisheries anunció que planea incorporar el nuevo gran arrastrero ‘DW NOVA’ en el segundo semestre, con foco en su flota de pesca de altura.",
+        "body": "Dongwon Fisheries informó que tiene previsto incorporar en el segundo semestre de este año un nuevo gran arrastrero llamado ‘DW NOVA’. El anuncio se refiere al plan de la compañía para sumar una nueva embarcación a la operación de su flota de pesca de altura. Los datos confirmados en el texto original son el calendario, fijado para el segundo semestre; el nombre del buque, ‘DW NOVA’; y su clasificación como nuevo gran arrastrero. La fuente resumida no incluye cifras adicionales sobre tamaño de construcción, monto de inversión, zona de faena o impacto esperado en ventas. La incorporación del buque será un punto a seguir en los planes operativos de Dongwon Fisheries. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Dongwon Fisheries planeja operar novo grande arrastão ‘DW NOVA’ no 2º semestre",
+        "excerpt": "A Dongwon Fisheries afirmou que pretende colocar em operação o novo grande arrastão ‘DW NOVA’ no segundo semestre, em meio ao foco sobre sua frota oceânica.",
+        "body": "A Dongwon Fisheries informou que planeja colocar em operação, no segundo semestre deste ano, o novo grande arrastão ‘DW NOVA’. O anúncio trata do plano da empresa de adicionar uma nova embarcação às operações de sua frota de pesca oceânica. As informações confirmadas no texto original são o prazo, previsto para o segundo semestre; o nome da embarcação, ‘DW NOVA’; e sua classificação como um novo grande arrastão. O resumo da fonte não apresenta dados adicionais sobre porte de construção, valor de investimento, área de pesca ou efeito esperado sobre as vendas. A entrada do navio será um ponto de atenção nos planos futuros de operação da frota da Dongwon Fisheries. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Dongwon Fisheries will neuen Großtrawler ‘DW NOVA’ im zweiten Halbjahr einsetzen",
+        "excerpt": "Dongwon Fisheries teilte mit, den neuen Großtrawler ‘DW NOVA’ im zweiten Halbjahr einsetzen zu wollen. Im Fokus stehen die künftigen Flottenpläne.",
+        "body": "Dongwon Fisheries erklärte, dass im zweiten Halbjahr dieses Jahres der neue Großtrawler ‘DW NOVA’ eingesetzt werden soll. Die Mitteilung betrifft den Plan des Unternehmens, ein neues Schiff in den Betrieb seiner Hochseefischerei-Flotte aufzunehmen. Aus dem Originalbericht gehen vor allem drei Punkte hervor: der geplante Einsatzzeitpunkt im zweiten Halbjahr, der Schiffsname ‘DW NOVA’ und die Einordnung als neuer Großtrawler. Weitere Angaben zu Baugröße, Investitionssumme, Fanggebiet oder erwarteten Umsatzeffekten wurden in der Quellzusammenfassung nicht genannt. Der Einsatz des neuen Schiffs ist damit ein wichtiger Beobachtungspunkt für die künftigen Flotten- und Betriebspläne von Dongwon Fisheries. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Dongwon Fisheries prévoit de déployer le grand chalutier ‘DW NOVA’ au second semestre",
+        "excerpt": "Dongwon Fisheries a annoncé prévoir le déploiement du nouveau grand chalutier ‘DW NOVA’ au second semestre, attirant l’attention sur sa flotte hauturière.",
+        "body": "Dongwon Fisheries a indiqué qu’elle prévoyait de déployer au second semestre de cette année un nouveau grand chalutier nommé ‘DW NOVA’. Cette annonce porte sur le plan de l’entreprise visant à intégrer un nouveau navire dans l’exploitation de sa flotte de pêche hauturière. Les éléments confirmés dans le texte original sont le calendrier, fixé au second semestre, le nom du navire, ‘DW NOVA’, et sa nature de nouveau grand chalutier. Le résumé source ne fournit pas de chiffres supplémentaires sur la taille de construction, le montant de l’investissement, la zone de pêche ou l’effet attendu sur les ventes. Ce déploiement sera un point à suivre dans les futurs plans d’exploitation de Dongwon Fisheries. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "دونغ وون فيشريز تعتزم تشغيل سفينة الجر الكبيرة الجديدة ‘DW NOVA’ في النصف الثاني",
+        "excerpt": "قالت دونغ وون فيشريز إنها تخطط لتشغيل سفينة الجر الكبيرة الجديدة ‘DW NOVA’ في النصف الثاني، مع ترقب خطط أسطول الصيد البعيد.",
+        "body": "أعلنت دونغ وون فيشريز أنها تخطط لتشغيل سفينة جر كبيرة جديدة تحمل اسم ‘DW NOVA’ في النصف الثاني من هذا العام. ويتعلق الإعلان بخطة الشركة لإدخال سفينة جديدة ضمن عمليات أسطولها للصيد في المياه البعيدة. وتتمثل المعلومات المؤكدة في النص الأصلي في أن موعد التشغيل سيكون في النصف الثاني، وأن اسم السفينة هو ‘DW NOVA’، وأنها سفينة جر كبيرة جديدة. ولم يورد ملخص المصدر أرقاما إضافية حول حجم البناء أو قيمة الاستثمار أو منطقة الصيد أو الأثر المتوقع على المبيعات. لذلك يعد تشغيل السفينة الجديدة نقطة متابعة في خطط دونغ وون فيشريز المستقبلية لتشغيل الأسطول. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Dongwon Fisheries दूसरी छमाही में नया बड़ा ट्रॉलर ‘DW NOVA’ उतारेगी",
+        "excerpt": "Dongwon Fisheries ने कहा कि वह दूसरी छमाही में नया बड़ा ट्रॉलर ‘DW NOVA’ तैनात करने की योजना बना रही है, जिससे उसके दूरसमुद्री बेड़े पर ध्यान गया है।",
+        "body": "Dongwon Fisheries ने बताया कि वह इस वर्ष की दूसरी छमाही में नया बड़ा ट्रॉलर ‘DW NOVA’ तैनात करने की योजना बना रही है। यह घोषणा कंपनी के दूरसमुद्री मत्स्य बेड़े के संचालन में एक नए पोत को शामिल करने की योजना से जुड़ी है। मूल रिपोर्ट से पुष्टि होने वाली मुख्य बातें हैं: तैनाती का समय दूसरी छमाही, पोत का नाम ‘DW NOVA’, और इसका नया बड़ा ट्रॉलर होना। निर्माण आकार, निवेश राशि, मछली पकड़ने का क्षेत्र या संभावित बिक्री प्रभाव जैसे अतिरिक्त आंकड़े स्रोत सारांश में नहीं दिए गए हैं। नए पोत की तैनाती Dongwon Fisheries की भविष्य की बेड़ा संचालन योजना और मत्स्य क्षमता को देखने का प्रमुख बिंदु हो सकती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Dongwon Fisheries Akan Kerahkan Trawler Besar Baru ‘DW NOVA’ pada Semester II",
+        "excerpt": "Dongwon Fisheries menyatakan akan mengerahkan trawler besar baru ‘DW NOVA’ pada semester kedua, menarik perhatian pada operasi armada penangkapan laut jauh.",
+        "body": "Dongwon Fisheries menyatakan berencana mengerahkan trawler besar baru bernama ‘DW NOVA’ pada semester kedua tahun ini. Pengumuman ini berkaitan dengan rencana perusahaan menambahkan kapal baru ke operasi armada penangkapan ikan laut jauh yang dimiliki dan dijalankannya. Informasi utama yang terkonfirmasi dari teks asli adalah waktu pengerahan pada semester kedua, nama kapal ‘DW NOVA’, serta statusnya sebagai trawler besar baru. Rincian tambahan seperti ukuran pembangunan, nilai investasi, wilayah operasi, atau dampak penjualan yang diperkirakan tidak disajikan dalam ringkasan sumber. Pengerahan kapal baru ini menjadi poin penting untuk mencermati rencana operasi armada Dongwon Fisheries ke depan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "55d129660d93",
+    "slug": "역대급-불장에서-혼자-폭락한전-담은-개미들-눈물-종목-902509",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T21:54:22.873Z",
+    "updatedAt": "2026-05-14T21:54:22.873Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051474636",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051474636",
+    "titleFingerprint": "2018c313d5fbbcab4f865221bea1e21f1ef07e24",
+    "dedupKeys": [
+      "55d129660d934157987f0fe14382c9e63a79bdd4",
+      "2018c313d5fbbcab4f865221bea1e21f1ef07e24",
+      "06f28522f3fba73ef23c9b1420d055d2276f6fd3"
+    ],
+    "imageUrl": "/images/articles/55d129660d93.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한전 주가, 역대급 불장 속 나홀로 급락…개미 투자자 손실 우려",
+        "excerpt": "한국전력 주가가 역대급 강세장 분위기 속에서도 홀로 급락하며 한전을 담은 개인 투자자들의 손실 우려가 커졌다고 hankyung.com이 보도했다.",
+        "body": "한국전력 주가가 역대급 불장으로 불리는 증시 흐름 속에서도 홀로 급락하며 시장의 관심을 끌고 있다. 강세장이 이어지는 가운데 한전을 매수한 개인 투자자들은 기대와 달리 주가 하락을 맞으며 손실 우려가 커진 상황이다. 원문은 ‘역대급 불장에서 혼자 폭락’이라는 표현으로 한전의 부진을 전했다. 전체 시장 분위기와 달리 개별 종목이 약세를 보이면서 투자자들의 종목 선택 부담도 부각됐다. 향후 한전 주가 흐름은 개인 투자자들의 손익과 투자 심리에 영향을 줄 수 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KEPCO Shares Drop Alone in Record Bull Market, Retail Investors Face Loss Fears",
+        "excerpt": "KEPCO shares fell sharply even as the broader market enjoyed what was described as a record bull run, raising loss concerns among retail investors, hankyung.com reported.",
+        "body": "Korea Electric Power Corp. shares drew attention after falling sharply on their own during a market described as a record bull run. While the broader stock market remained strong, individual investors who bought KEPCO faced an outcome opposite to their expectations as the share price declined. The original report described the move as a stock “plunging alone in a record bull market.” The contrast between the wider market mood and KEPCO’s weakness highlighted the burden of stock selection for retail investors. The future path of KEPCO shares may affect investor gains, losses and sentiment. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "韓国電力株、記録的強気相場で単独急落…個人投資家に損失懸念",
+        "excerpt": "韓国電力の株価が記録的な強気相場の中でも単独で急落し、同株を買った個人投資家の損失懸念が強まったとhankyung.comが報じた。",
+        "body": "韓国電力の株価が、記録的な強気相場とされる市場の流れの中でも単独で急落し、注目を集めている。相場全体の強さが続く一方、韓国電力を買った個人投資家は期待とは異なる株価下落に直面し、損失への懸念を抱える状況となった。原文は「記録的な強気相場で一人だけ暴落」という表現で同銘柄の不振を伝えた。市場全体の雰囲気とは異なる個別銘柄の弱さにより、投資家の銘柄選択の重さも浮き彫りになった。今後の株価推移は個人投資家の損益と心理に影響を及ぼし得る。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "韩国电力股价在史上级牛市中独自暴跌，散户投资者承压",
+        "excerpt": "韩国电力股价在被称为史上级牛市的市场氛围中仍独自大跌，买入该股的个人投资者损失担忧升温，hankyung.com报道。",
+        "body": "韩国电力股价在被称为史上级牛市的股市走势中仍独自大幅下跌，引发市场关注。在整体市场保持强势的情况下，买入韩国电力的个人投资者却遭遇与预期相反的股价下跌，损失担忧随之扩大。原文以“在史上级牛市中独自暴跌”来描述该股的低迷表现。与整体市场气氛不同，个别股票走弱也凸显了投资者选股所面临的压力。韩国电力后续股价走势可能影响个人投资者的盈亏和投资情绪。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Acciones de KEPCO caen solas en mercado alcista récord y preocupan a minoristas",
+        "excerpt": "Las acciones de Korea Electric Power cayeron con fuerza pese a un mercado descrito como alcista récord, elevando la preocupación por pérdidas entre minoristas, informó hankyung.com.",
+        "body": "Las acciones de Korea Electric Power llamaron la atención al caer con fuerza por sí solas dentro de un mercado bursátil descrito como un rally alcista récord. Mientras el mercado general mantenía un tono fuerte, los inversores minoristas que compraron KEPCO afrontaron una caída contraria a sus expectativas y crecientes preocupaciones por pérdidas. El informe original describió el caso como una acción que “se desploma sola en un mercado alcista récord”. La diferencia entre el ánimo general del mercado y la debilidad del valor resaltó la carga de seleccionar acciones individuales. La evolución futura de KEPCO puede influir en las ganancias, pérdidas y sentimiento de los inversores minoristas. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Ações da KEPCO caem sozinhas em alta histórica e preocupam investidores pessoa física",
+        "excerpt": "As ações da Korea Electric Power recuaram fortemente mesmo em um mercado descrito como alta histórica, elevando temores de perdas entre pessoas físicas, informou hankyung.com.",
+        "body": "As ações da Korea Electric Power chamaram atenção ao cair fortemente de forma isolada em meio a um mercado acionário descrito como uma alta histórica. Enquanto o mercado mais amplo continuava forte, investidores pessoa física que compraram KEPCO enfrentaram uma queda contrária às expectativas, aumentando a preocupação com perdas. A reportagem original descreveu o movimento como uma ação que “despenca sozinha em uma alta histórica”. O contraste entre o ambiente geral do mercado e a fraqueza do papel destacou o peso da escolha de ações individuais. A trajetória futura da KEPCO pode afetar ganhos, perdas e sentimento desses investidores. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KEPCO-Aktie fällt allein im Rekord-Bullenmarkt, Privatanleger fürchten Verluste",
+        "excerpt": "Die Aktie von Korea Electric Power fiel trotz eines als Rekord-Bullenmarkt beschriebenen Umfelds deutlich, was bei Privatanlegern Verlustsorgen auslöste, berichtete hankyung.com.",
+        "body": "Die Aktie von Korea Electric Power rückte in den Fokus, nachdem sie in einem als Rekord-Bullenmarkt beschriebenen Börsenumfeld allein deutlich gefallen war. Während der Gesamtmarkt stark blieb, sahen sich Privatanleger, die KEPCO gekauft hatten, mit einem Kursrückgang entgegen ihren Erwartungen konfrontiert. Dadurch wuchsen die Sorgen über Verluste. Der Originalbericht beschrieb die Entwicklung als Aktie, die „in einem Rekord-Bullenmarkt allein abstürzt“. Der Gegensatz zwischen der allgemeinen Marktstimmung und der Schwäche des Einzelwerts verdeutlichte auch die Belastung durch die Aktienauswahl. Der weitere Verlauf der KEPCO-Aktie kann Gewinne, Verluste und Stimmung der Privatanleger beeinflussen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "L’action KEPCO chute seule dans un marché haussier record, les particuliers inquiets",
+        "excerpt": "L’action Korea Electric Power a fortement reculé malgré un marché qualifié de haussier record, suscitant des craintes de pertes chez les particuliers, selon hankyung.com.",
+        "body": "L’action Korea Electric Power a attiré l’attention en chutant fortement de manière isolée dans un marché boursier décrit comme une phase haussière record. Alors que l’ensemble du marché restait solide, les investisseurs particuliers ayant acheté KEPCO ont subi une baisse contraire à leurs attentes, ce qui a accru les inquiétudes liées aux pertes. L’article original a présenté le titre comme “s’effondrant seul dans un marché haussier record”. Le contraste entre l’ambiance générale du marché et la faiblesse de cette valeur a aussi mis en évidence le poids du choix des titres individuels. L’évolution future de KEPCO pourrait peser sur les gains, les pertes et le sentiment des particuliers. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "سهم كيبكو يهبط منفردا وسط سوق صاعدة قياسية ومخاوف خسائر للأفراد",
+        "excerpt": "هبط سهم شركة كوريا إلكتريك باور بقوة رغم أجواء سوق وصفت بأنها صاعدة قياسية، ما زاد مخاوف الخسائر لدى المستثمرين الأفراد، وفق hankyung.com.",
+        "body": "جذب سهم شركة كوريا إلكتريك باور الانتباه بعدما هبط بقوة وبشكل منفرد وسط سوق أسهم وُصفت بأنها في موجة صعود قياسية. وبينما ظل السوق الأوسع قويا، واجه المستثمرون الأفراد الذين اشتروا سهم كيبكو تراجعا مخالفا لتوقعاتهم، ما رفع القلق من الخسائر. ووصف التقرير الأصلي الحركة بأنها سهم “ينهار وحده في سوق صاعدة قياسية”. وأبرز التباين بين مزاج السوق العام وضعف السهم عبء اختيار الأسهم الفردية على المستثمرين. وقد يؤثر المسار المقبل لسهم كيبكو في أرباح وخسائر ومعنويات المستثمرين الأفراد. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "रिकॉर्ड बुल मार्केट में KEPCO शेयर अकेला लुढ़का, खुदरा निवेशकों की चिंता बढ़ी",
+        "excerpt": "Korea Electric Power का शेयर रिकॉर्ड बुल मार्केट कहे जा रहे माहौल में भी तेज गिरा, जिससे इसे खरीदने वाले खुदरा निवेशकों में नुकसान की चिंता बढ़ी, hankyung.com ने बताया।",
+        "body": "Korea Electric Power का शेयर उस बाजार माहौल में भी ध्यान का केंद्र बना, जिसे रिकॉर्ड बुल मार्केट कहा जा रहा था, क्योंकि यह शेयर अकेले तेज गिरावट में रहा। व्यापक बाजार में मजबूती बनी रहने के बावजूद KEPCO खरीदने वाले खुदरा निवेशकों को उम्मीद के उलट गिरावट का सामना करना पड़ा और नुकसान की चिंता बढ़ी। मूल रिपोर्ट ने इसे “रिकॉर्ड बुल मार्केट में अकेला ध्वस्त” होने वाला शेयर बताया। पूरे बाजार के सकारात्मक माहौल और इस एकल शेयर की कमजोरी के अंतर ने शेयर चयन के दबाव को भी सामने रखा। आगे KEPCO की चाल खुदरा निवेशकों के लाभ-हानि और निवेश भावना को प्रभावित कर सकती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Saham KEPCO Jatuh Sendiri di Bull Market Rekor, Investor Ritel Khawatir Rugi",
+        "excerpt": "Saham Korea Electric Power turun tajam meski pasar disebut berada dalam bull market rekor, memicu kekhawatiran rugi bagi investor ritel, lapor hankyung.com.",
+        "body": "Saham Korea Electric Power menarik perhatian setelah turun tajam sendirian di tengah pasar saham yang disebut sebagai bull market rekor. Saat pasar secara umum tetap kuat, investor ritel yang membeli KEPCO justru menghadapi penurunan harga yang berlawanan dengan ekspektasi, sehingga kekhawatiran kerugian meningkat. Laporan asli menggambarkan kondisi itu sebagai saham yang “anjlok sendirian dalam bull market rekor”. Perbedaan antara suasana pasar secara luas dan pelemahan saham individual ini menyoroti beban pemilihan saham bagi investor. Pergerakan KEPCO ke depan dapat memengaruhi untung-rugi dan sentimen investor ritel. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "82cac976b8b6",
     "slug": "와이즈버즈-자사주-매입소각-및-주식-병합-추진-결정-617286",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "LX Pantos Raih Penghargaan Kerja Sama Ketenagakerjaan, 50 Tahun Tanpa Mogok",
         "excerpt": "LX Pantos meraih Penghargaan Kerja Sama Ketenagakerjaan karena mempertahankan budaya tanpa mogok selama 50 tahun sejak berdiri pada 1977.",
         "body": "LX Pantos meraih Penghargaan Kerja Sama Ketenagakerjaan setelah diakui mempertahankan rekor tanpa mogok selama 50 tahun sejak berdiri pada 1977. Di tengah meningkatnya konflik antara pekerja dan manajemen di sektor industri, perusahaan ini dinilai sebagai contoh kerja sama yang saling menguntungkan. LX Pantos dilaporkan mencegah konflik internal melalui kanal komunikasi dengan generasi MZ, termasuk junior board. Penghargaan ini dipandang sebagai contoh bagaimana kepercayaan jangka panjang dan struktur komunikasi antara pekerja dan manajemen menghasilkan capaian nyata. CEO Lee Yong-ho menyatakan akan terus mempertahankan budaya ketenagakerjaan yang maju. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "71078fb583a9",
-    "slug": "lg-알파세대-과학-영재부터-석박사까지-미래-기술-인재-확보-나선다-213564",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T07:03:06.080Z",
-    "updatedAt": "2026-05-14T07:03:06.080Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12047558",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12047558",
-    "titleFingerprint": "170fc6e9f3b005805bc42f8f28020d2cee9e950d",
-    "dedupKeys": [
-      "71078fb583a93185c3e2ee64f6f99e60a10cc312",
-      "170fc6e9f3b005805bc42f8f28020d2cee9e950d",
-      "7e52811ea7fa5875f8db8f6915f3c5cb21cd7a7b"
-    ],
-    "imageUrl": "/images/articles/71078fb583a9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LG 테크 콘퍼런스 개최, 알파세대부터 석·박사까지 미래 인재 확보",
-        "excerpt": "LG가 14일 ‘LG 테크 콘퍼런스’를 열고 2010~2024년생 알파세대 과학 영재와 국내외 석·박사 등 미래 기술 인재 확보에 나섰다.",
-        "body": "LG가 14일 ‘LG 테크 콘퍼런스’를 개최하고 미래 기술 인재 확보에 나섰다. 대상은 2010~2024년생 알파세대 과학 영재부터 국내외 석·박사급 인재까지 폭넓게 포함된다. LG 테크 콘퍼런스는 2012년 시작된 행사로, LG가 미래 기술 경쟁력 강화를 위해 인재와의 접점을 넓히는 자리다. 이번 행사는 과학 영재와 고급 연구 인력을 조기에 발굴하고 연결하는 데 초점을 맞췄다. 향후 LG의 기술 인재 확보 전략과 연구개발 역량 강화에 영향을 줄 것으로 보인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LG Tech Conference Targets Future Talent From Alpha Generation to PhDs",
-        "excerpt": "LG held the LG Tech Conference on the 14th to secure future technology talent, from Alpha Generation science prodigies born in 2010-2024 to master’s and doctoral researchers.",
-        "body": "LG held the LG Tech Conference on the 14th as part of its push to secure future technology talent. The scope ranges from Alpha Generation science prodigies born between 2010 and 2024 to master’s and doctoral talent in Korea and abroad. Launched in 2012, the LG Tech Conference serves as a venue for LG to expand contact with talent needed to strengthen future technology competitiveness. This year’s event focused on discovering and connecting with young science talent and advanced research personnel. It is expected to support LG’s talent strategy and R&D capability. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LGテックカンファレンス開催、アルファ世代から修士・博士まで人材確保",
-        "excerpt": "LGは14日、「LGテックカンファレンス」を開き、2010〜2024年生まれのアルファ世代の科学英才から国内外の修士・博士人材まで、未来技術人材の確保に乗り出した。",
-        "body": "LGは14日、「LGテックカンファレンス」を開催し、未来技術人材の確保に乗り出した。対象は2010〜2024年生まれのアルファ世代の科学英才から、韓国国内外の修士・博士級人材まで幅広い。LGテックカンファレンスは2012年に始まった行事で、LGが未来技術の競争力を高めるため、人材との接点を広げる場となっている。今回の行事は、科学英才と高度研究人材を早期に発掘し、つなげることに焦点を当てた。今後、LGの技術人材確保戦略と研究開発力の強化に影響するとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "LG技术大会锁定未来人才，从阿尔法世代科学英才到硕博人才",
-        "excerpt": "LG于14日举行“LG技术大会”，面向2010至2024年出生的阿尔法世代科学英才以及海内外硕博士等未来技术人才展开招揽。",
-        "body": "LG于14日举行“LG技术大会”，正式推进未来技术人才 확보。对象涵盖2010至2024年出生的阿尔法世代科学英才，以及韩国国内外硕士、博士级人才。LG技术大会始于2012年，是LG为提升未来技术竞争力、扩大与人才接触而举办的平台。本次活动重点在于尽早发现并连接科学英才和高层次研究人员。该举措预计将对LG未来的技术人才 확보战略和研发能力强化产生影响。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "LG Tech Conference busca talento futuro, de la generación Alfa a másteres y doctores",
-        "excerpt": "LG celebró el 14 la LG Tech Conference para captar talento tecnológico futuro, desde jóvenes prodigios científicos de la generación Alfa nacidos entre 2010 y 2024 hasta másteres y doctores.",
-        "body": "LG celebró el 14 la LG Tech Conference como parte de su estrategia para asegurar talento tecnológico futuro. El alcance incluye desde jóvenes prodigios científicos de la generación Alfa, nacidos entre 2010 y 2024, hasta talento con máster y doctorado en Corea y en el extranjero. La LG Tech Conference comenzó en 2012 y funciona como un espacio para que LG amplíe sus vínculos con personas clave para reforzar su competitividad tecnológica futura. Esta edición se centró en identificar y conectar de forma temprana a talento científico y personal investigador avanzado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "LG Tech Conference mira talentos futuros, da geração Alfa a mestres e doutores",
-        "excerpt": "A LG realizou no dia 14 a LG Tech Conference para atrair talentos de tecnologia do futuro, de jovens prodígios científicos da geração Alfa nascidos entre 2010 e 2024 a mestres e doutores.",
-        "body": "A LG realizou no dia 14 a LG Tech Conference como parte de sua iniciativa para garantir talentos de tecnologia do futuro. O público vai de jovens prodígios científicos da geração Alfa, nascidos entre 2010 e 2024, a profissionais com mestrado e doutorado na Coreia e no exterior. Criada em 2012, a LG Tech Conference é um espaço em que a LG amplia o contato com talentos necessários para fortalecer sua competitividade tecnológica futura. A edição deste ano concentrou-se em identificar e conectar talentos científicos e pesquisadores avançados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LG Tech Conference wirbt um Zukunftstalente von Generation Alpha bis Promotion",
-        "excerpt": "LG veranstaltete am 14. die LG Tech Conference, um künftige Technologietalente zu gewinnen, von wissenschaftlich begabten Angehörigen der Generation Alpha bis zu Master- und Promotionskräften.",
-        "body": "LG veranstaltete am 14. die LG Tech Conference und verstärkt damit die Suche nach künftigen Technologietalenten. Die Zielgruppe reicht von wissenschaftlich begabten Angehörigen der Generation Alpha, geboren zwischen 2010 und 2024, bis zu Master- und Promotionskräften im In- und Ausland. Die LG Tech Conference wurde 2012 gestartet und dient LG als Plattform, um Kontakte zu Talenten für künftige technologische Wettbewerbsfähigkeit auszubauen. Im Fokus standen die frühe Entdeckung und Vernetzung von Nachwuchs und hochqualifizierten Forschenden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "LG Tech Conference vise les talents futurs, de la génération Alpha aux doctorants",
-        "excerpt": "LG a organisé le 14 la LG Tech Conference afin de recruter des talents technologiques d’avenir, des jeunes doués en sciences de la génération Alpha nés entre 2010 et 2024 aux titulaires de master et doctorat.",
-        "body": "LG a organisé le 14 la LG Tech Conference dans le cadre de ses efforts pour 확보 des talents technologiques d’avenir. Le public visé va des jeunes doués en sciences de la génération Alpha, nés entre 2010 et 2024, aux profils de niveau master et doctorat en Corée et à l’étranger. Lancée en 2012, la LG Tech Conference permet à LG d’élargir ses contacts avec les talents nécessaires au renforcement de sa compétitivité technologique future. Cette édition s’est concentrée sur l’identification et la mise en relation précoces de talents scientifiques et de chercheurs qualifiés. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مؤتمر LG للتقنية يستهدف مواهب المستقبل من جيل ألفا إلى حملة الدكتوراه",
-        "excerpt": "عقدت LG في 14 من الشهر مؤتمر LG للتقنية لاستقطاب مواهب التكنولوجيا المستقبلية، من الموهوبين علميا في جيل ألفا المولودين بين 2010 و2024 إلى حملة الماجستير والدكتوراه.",
-        "body": "عقدت LG في 14 من الشهر مؤتمر LG للتقنية ضمن جهودها لتأمين مواهب التكنولوجيا المستقبلية. وتشمل الفئة المستهدفة الموهوبين علميا من جيل ألفا، المولودين بين 2010 و2024، إضافة إلى أصحاب درجات الماجستير والدكتوراه داخل كوريا وخارجها. بدأ مؤتمر LG للتقنية في عام 2012، ويعد منصة توسع من خلالها LG تواصلها مع المواهب اللازمة لتعزيز قدرتها التنافسية في تقنيات المستقبل. وركزت نسخة هذا العام على اكتشاف المواهب العلمية والباحثين المتقدمين وربطهم مبكرا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "LG टेक कॉन्फ्रेंस में भविष्य की प्रतिभा पर जोर, अल्फा जेनरेशन से पीएचडी तक",
-        "excerpt": "LG ने 14 तारीख को LG टेक कॉन्फ्रेंस आयोजित कर 2010-2024 में जन्मे अल्फा जेनरेशन के विज्ञान प्रतिभाशाली छात्रों से लेकर देश-विदेश के मास्टर और पीएचडी प्रतिभाओं तक को जोड़ने की पहल की।",
-        "body": "LG ने 14 तारीख को LG टेक कॉन्फ्रेंस आयोजित कर भविष्य की तकनीकी प्रतिभा 확보 करने की दिशा में कदम बढ़ाया। इसका दायरा 2010 से 2024 के बीच जन्मे अल्फा जेनरेशन के विज्ञान प्रतिभाशाली युवाओं से लेकर कोरिया और विदेशों के मास्टर तथा पीएचडी स्तर की प्रतिभाओं तक है। LG टेक कॉन्फ्रेंस 2012 में शुरू हुई थी और यह LG के लिए भविष्य की तकनीकी प्रतिस्पर्धा मजबूत करने हेतु प्रतिभाओं से संपर्क बढ़ाने का मंच है। इस बार का आयोजन विज्ञान प्रतिभा और उन्नत शोध कर्मियों की शुरुआती पहचान व संपर्क पर केंद्रित रहा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "LG Tech Conference Bidik Talenta Masa Depan, dari Generasi Alfa hingga Doktor",
-        "excerpt": "LG menggelar LG Tech Conference pada tanggal 14 untuk menjaring talenta teknologi masa depan, dari anak berbakat sains Generasi Alfa kelahiran 2010-2024 hingga lulusan master dan doktor.",
-        "body": "LG menggelar LG Tech Conference pada tanggal 14 sebagai bagian dari upaya mengamankan talenta teknologi masa depan. Sasarannya mencakup anak berbakat sains Generasi Alfa yang lahir pada 2010-2024 hingga talenta tingkat master dan doktor di dalam maupun luar Korea. LG Tech Conference dimulai pada 2012 dan menjadi ajang bagi LG untuk memperluas kontak dengan talenta yang dibutuhkan guna memperkuat daya saing teknologi masa depan. Acara tahun ini berfokus pada penemuan dini dan penghubungan talenta sains serta peneliti tingkat lanjut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2e6cb6e22431",
-    "slug": "어제-무리했으니-오늘은-쉬세요나보다-내-몸-더-잘-아는-이-시계-607324",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T07:02:10.220Z",
-    "updatedAt": "2026-05-14T07:02:10.220Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12047567",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12047567",
-    "titleFingerprint": "9494f9f490320feaeb57bc46590320c5bce727f6",
-    "dedupKeys": [
-      "2e6cb6e224319eb93f005293f112b3c3c04152e7",
-      "9494f9f490320feaeb57bc46590320c5bce727f6",
-      "568fee1364f88137c91dc8f34b6ba90bb6f2a224"
-    ],
-    "imageUrl": "/images/articles/2e6cb6e22431.png",
-    "i18n": {
-      "ko": {
-        "title": "러닝 인구 1000만 시대, 내 몸 상태까지 읽는 ‘데이터 시계’ 주목",
-        "excerpt": "국내 러닝 인구가 1000만명에 이르면서 달리기 기록을 정밀 분석하고 공유하는 데이터 기반 시계와 러닝 관리에 대한 관심이 높아지고 있다.",
-        "body": "국내에서 러닝 인구 1000만명 시대가 열리며 달리기를 즐기는 사람들이 자신의 몸 상태와 기록을 더 세밀하게 확인하려는 흐름이 커지고 있다. 단순히 뛰는 데 그치지 않고, 운동 기록을 정밀하게 분석하고 다른 사람과 공유하는 데이터 기반 러닝 문화가 확산되는 분위기다. ‘어제 무리했으니 오늘은 쉬라’는 식으로 몸 상태를 알려주는 시계형 기기는 이런 관심의 중심에 놓였다. 러닝이 대중적인 취미로 자리 잡으면서 기록 관리와 컨디션 확인 기능을 갖춘 제품에 대한 주목도도 함께 높아질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korea’s 10 Million Runners Put Data-Driven Body-Tracking Watches in Focus",
-        "excerpt": "As South Korea’s running population reaches 10 million, interest is rising in data-based watches that analyze running records and help users check their condition.",
-        "body": "As South Korea enters an era of 10 million runners, more people are looking to check their physical condition and running records in greater detail. The trend is moving beyond simply running, toward a data-based running culture in which users closely analyze their exercise records and share them with others. Watch-type devices that can suggest taking a rest after overexertion are drawing attention within this shift. As running becomes a mainstream hobby, products that support record management and condition checks are expected to attract further interest. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国ランナー1000万人時代、体調まで読むデータ型ウォッチに注目",
-        "excerpt": "韓国でランニング人口が1000万人に達し、記録を精密に分析し共有できるデータ型ウォッチと体調管理への関心が高まっている。",
-        "body": "韓国でランニング人口1000万人時代が開かれ、走る人々が自分の体調や記録をより細かく確認しようとする流れが強まっている。単に走る行為にとどまらず、運動記録を精密に分析し、他の人と共有するデータ基盤のランニング文化が広がっている。『昨日は無理をしたので今日は休んで』といった形で体の状態を知らせる時計型機器は、この関心の中心にある。ランニングが大衆的な趣味として定着するなか、記録管理やコンディション確認機能を備えた製品への注目も高まりそうだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国跑步人口达1000万，能读懂身体状态的数据手表受关注",
-        "excerpt": "韩国跑步人口达到1000万，能够精细分析并分享跑步记录的数据型手表以及跑步状态管理正受到更多关注。",
-        "body": "随着韩国进入跑步人口1000万时代，跑者希望更细致地查看自身身体状态和运动记录的趋势正在增强。关注点已不只是跑步本身，而是进一步扩展到精确分析运动数据并与他人分享的跑步文化。能够根据身体状态提示“昨天运动过量，今天休息”的手表型设备，正处在这一关注的中心。随着跑步成为大众化爱好，具备记录管理和状态确认功能的产品预计也将获得更多关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Diez millones de corredores en Corea impulsan los relojes que leen el cuerpo",
-        "excerpt": "Con 10 millones de corredores en Corea del Sur, crece el interés por relojes basados en datos que analizan marcas y ayudan a revisar el estado físico.",
-        "body": "Corea del Sur ha entrado en una etapa con 10 millones de personas que corren, y aumenta el interés por comprobar con más detalle el estado físico y los registros de entrenamiento. La tendencia va más allá de correr: se extiende una cultura basada en datos, en la que los usuarios analizan con precisión sus marcas y las comparten. Los dispositivos tipo reloj que indican cuándo conviene descansar tras un esfuerzo excesivo se sitúan en el centro de esta atención. A medida que correr se consolida como afición popular, también crecerá el foco sobre productos con gestión de registros y control de condición física. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Coreia chega a 10 milhões de corredores e destaca relógios guiados por dados",
-        "excerpt": "Com 10 milhões de corredores na Coreia do Sul, cresce o interesse por relógios de dados que analisam registros de corrida e ajudam a acompanhar o corpo.",
-        "body": "A Coreia do Sul entrou na era de 10 milhões de praticantes de corrida, e mais pessoas buscam verificar com precisão seu estado físico e seus registros. A atenção já não se limita ao ato de correr: avança uma cultura de corrida baseada em dados, na qual os usuários analisam detalhadamente os treinos e compartilham resultados. Dispositivos em formato de relógio que avisam quando é melhor descansar após esforço excessivo estão no centro dessa tendência. Com a corrida se tornando um hobby popular, produtos com gestão de registros e checagem de condição tendem a receber ainda mais atenção. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "10 Millionen Läufer in Korea: Daten-Uhren für Körperstatus rücken in den Fokus",
-        "excerpt": "In Südkorea gibt es rund 10 Millionen Läufer; dadurch wächst das Interesse an datenbasierten Uhren, die Laufwerte analysieren und den Zustand prüfen.",
-        "body": "Südkorea ist in eine Phase mit 10 Millionen Läufern eingetreten, und immer mehr Menschen wollen ihren körperlichen Zustand und ihre Laufdaten genauer überprüfen. Der Trend geht über das reine Laufen hinaus: Eine datenbasierte Laufkultur breitet sich aus, in der Trainingsaufzeichnungen präzise analysiert und mit anderen geteilt werden. Uhrenartige Geräte, die nach hoher Belastung zu einer Pause raten können, stehen dabei im Mittelpunkt des Interesses. Da Laufen zu einem breiten Hobby wird, dürfte auch die Aufmerksamkeit für Produkte mit Funktionen zur Aufzeichnung und Zustandskontrolle weiter steigen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "10 millions de coureurs en Corée: les montres qui lisent le corps gagnent en intérêt",
-        "excerpt": "Avec 10 millions de coureurs en Corée du Sud, l’intérêt augmente pour les montres de données capables d’analyser les performances et l’état physique.",
-        "body": "La Corée du Sud entre dans une période où la population de coureurs atteint 10 millions, et de plus en plus de personnes veulent suivre plus finement leur état physique et leurs records. L’intérêt dépasse le simple fait de courir: une culture de la course fondée sur les données se développe, avec analyse précise des entraînements et partage des résultats. Les dispositifs de type montre, capables d’indiquer qu’il vaut mieux se reposer après un effort excessif, sont au centre de cette attention. Alors que la course devient un loisir populaire, les produits offrant gestion des records et suivi de condition devraient être davantage remarqués. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "10 ملايين عداء في كوريا يرفعون الاهتمام بساعات تقرأ حالة الجسم بالبيانات",
-        "excerpt": "مع وصول عدد ممارسي الجري في كوريا الجنوبية إلى 10 ملايين، يتزايد الاهتمام بساعات تعتمد على البيانات لتحليل السجلات ومتابعة الحالة البدنية.",
-        "body": "دخلت كوريا الجنوبية مرحلة يبلغ فيها عدد ممارسي الجري 10 ملايين شخص، ما زاد رغبة العدائين في متابعة حالتهم البدنية وسجلاتهم الرياضية بدقة أكبر. ولم يعد الاهتمام مقتصرا على الجري نفسه، بل يتجه إلى ثقافة جري قائمة على البيانات، حيث يتم تحليل سجلات التمرين بدقة ومشاركتها مع الآخرين. وتبرز الأجهزة التي تأتي على شكل ساعة ويمكنها تنبيه المستخدم إلى الراحة بعد مجهود زائد في قلب هذا الاهتمام. ومع تحول الجري إلى هواية واسعة الانتشار، من المتوقع أن تحظى المنتجات التي توفر إدارة السجلات وفحص الحالة البدنية بمزيد من الانتباه. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरिया में 1 करोड़ रनर, शरीर की हालत पढ़ने वाली डेटा घड़ियों पर नजर",
-        "excerpt": "दक्षिण कोरिया में रनिंग आबादी 1 करोड़ तक पहुंचने के साथ रिकॉर्ड का सटीक विश्लेषण और शरीर की स्थिति बताने वाली डेटा आधारित घड़ियों में रुचि बढ़ रही है।",
-        "body": "दक्षिण कोरिया में रनिंग करने वालों की संख्या 1 करोड़ तक पहुंच गई है, और लोग अब अपनी शारीरिक स्थिति तथा दौड़ के रिकॉर्ड को अधिक बारीकी से देखना चाहते हैं। ध्यान केवल दौड़ने तक सीमित नहीं रहा; व्यायाम रिकॉर्ड का सटीक विश्लेषण करने और उन्हें दूसरों के साथ साझा करने वाली डेटा आधारित रनिंग संस्कृति फैल रही है। ऐसी घड़ी जैसे उपकरण, जो अधिक मेहनत के बाद आराम करने की सलाह दे सकते हैं, इस रुचि के केंद्र में हैं। जैसे-जैसे रनिंग आम शौक बन रही है, रिकॉर्ड प्रबंधन और कंडीशन जांच वाली सुविधाओं वाले उत्पादों पर ध्यान और बढ़ने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Populasi Pelari Korea 10 Juta, Jam Data Pembaca Kondisi Tubuh Jadi Sorotan",
-        "excerpt": "Saat populasi pelari Korea Selatan mencapai 10 juta, minat pada jam berbasis data yang menganalisis catatan lari dan memantau kondisi tubuh meningkat.",
-        "body": "Korea Selatan memasuki era dengan 10 juta orang yang berlari, dan semakin banyak pelari ingin memeriksa kondisi tubuh serta catatan lari mereka secara lebih rinci. Perhatian tidak lagi berhenti pada aktivitas berlari, tetapi berkembang menjadi budaya lari berbasis data, tempat catatan olahraga dianalisis secara presisi dan dibagikan kepada orang lain. Perangkat berbentuk jam yang dapat menyarankan istirahat setelah pengguna berolahraga terlalu keras menjadi pusat perhatian dalam tren ini. Seiring lari menjadi hobi populer, produk dengan fungsi pengelolaan catatan dan pengecekan kondisi diperkirakan makin disorot. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "32ee0e4d3346",
-    "slug": "두산에너빌리티-2026-파트너스-데이-개최협력사와-소통-강화-782280",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T07:01:02.131Z",
-    "updatedAt": "2026-05-14T07:01:02.131Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12047574",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12047574",
-    "titleFingerprint": "190430e5666f9284c4f1367131a5d5f7410978f3",
-    "dedupKeys": [
-      "32ee0e4d334699968f13b43484102e30ea9996e9",
-      "190430e5666f9284c4f1367131a5d5f7410978f3",
-      "f2089bb18b8b884a62594ca75aa2ec022b2ff735"
-    ],
-    "imageUrl": "/images/articles/32ee0e4d3346.jpg",
-    "i18n": {
-      "ko": {
-        "title": "두산에너빌리티, 2026 파트너스 데이 개최…AX·품질·ESG 상생 강화",
-        "excerpt": "두산에너빌리티가 경남 창원 본사에서 2026 파트너스 데이를 열고 협력사와 AX, 품질, ESG 경쟁력 강화 사례를 공유하며 소통을 확대했다.",
-        "body": "두산에너빌리티는 경남 창원 본사에서 협력사와의 상생협력 강화를 위한 ‘2026 파트너스 데이’를 개최했다. 이번 행사는 협력사와의 소통을 넓히고 경쟁력 강화 방안을 공유하기 위해 마련됐다. 행사에서는 AX, 품질, ESG 등 협력사 경쟁력 제고와 관련한 사례가 소개됐다. 두산에너빌리티는 협력사의 역량 강화가 회사 경쟁력과도 연결된다는 점을 강조했다. 정연인 부회장은 “협력사 경쟁력이 곧 두산 경쟁력”이라고 밝혔다. 이번 행사는 공급망 전반의 협력 기반을 다지고 상생협력의 방향을 확인하는 자리로 평가된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Doosan Enerbility Hosts 2026 Partners Day to Boost AX, Quality and ESG Cooperation",
-        "excerpt": "Doosan Enerbility held its 2026 Partners Day at its Changwon headquarters to share partner competitiveness cases in AX, quality and ESG and expand communication.",
-        "body": "Doosan Enerbility held its 2026 Partners Day at its headquarters in Changwon, South Gyeongsang Province, to strengthen shared growth with partner companies. The event was organized to broaden communication with suppliers and share ways to enhance competitiveness. Cases related to partner capability building in AX, quality and ESG were presented. Doosan Enerbility emphasized that stronger partner capabilities are directly linked to its own competitiveness. Vice Chairman Jung Yeon-in said, “Partner competitiveness is Doosan’s competitiveness.” The event served as a forum to reinforce cooperation across the supply chain and confirm the direction of shared growth. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "斗山エナビリティ、2026パートナーズデー開催…AX・品質・ESG協力を強化",
-        "excerpt": "斗山エナビリティは昌原本社で2026パートナーズデーを開き、協力会社とAX、品質、ESGの競争力強化事例を共有し対話を広げた。",
-        "body": "斗山エナビリティは慶尚南道昌原の本社で、協力会社との共生協力を強化するため「2026パートナーズデー」を開催した。今回の行事は、協力会社とのコミュニケーションを拡大し、競争力を高める方法を共有するために設けられた。会場ではAX、品質、ESGなど、協力会社の競争力向上に関する事例が紹介された。斗山エナビリティは、協力会社の力量強化が自社の競争力にもつながる点を強調した。鄭然寅副会長は「協力会社の競争力がすなわち斗山の競争力だ」と述べた。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "斗山能源举办2026合作伙伴日，强化AX、质量与ESG协同",
-        "excerpt": "斗山能源在庆南昌原总部举行2026合作伙伴日，与合作企业分享AX、质量和ESG竞争力提升案例，扩大沟通。",
-        "body": "斗山能源在庆尚南道昌原总部举办“2026合作伙伴日”，旨在加强与合作企业的共同成长合作。此次活动为扩大与供应商的沟通、分享提升竞争力的方法而举行。活动中介绍了与AX、质量、ESG等相关的合作企业竞争力提升案例。斗山能源强调，合作企业能力的增强也与公司自身竞争力相连接。副会长郑然仁表示：“合作企业的竞争力就是斗山的竞争力。”此次活动被视为巩固供应链整体合作基础、确认共赢合作方向的场合。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Doosan Enerbility celebra Partners Day 2026 y refuerza cooperación en AX, calidad y ESG",
-        "excerpt": "Doosan Enerbility celebró en su sede de Changwon el Partners Day 2026 para compartir casos de competitividad en AX, calidad y ESG con sus socios.",
-        "body": "Doosan Enerbility celebró el “Partners Day 2026” en su sede de Changwon, en la provincia surcoreana de Gyeongsang del Sur, para fortalecer la cooperación de crecimiento compartido con sus empresas asociadas. El evento se organizó para ampliar la comunicación con los proveedores y compartir medidas para mejorar la competitividad. Durante la jornada se presentaron casos relacionados con AX, calidad y ESG. La compañía subrayó que el fortalecimiento de las capacidades de sus socios está vinculado a su propia competitividad. El vicepresidente Jung Yeon-in afirmó: “La competitividad de los socios es la competitividad de Doosan”. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Doosan Enerbility realiza Partners Day 2026 e reforça cooperação em AX, qualidade e ESG",
-        "excerpt": "A Doosan Enerbility realizou o Partners Day 2026 em Changwon para compartilhar com fornecedores casos de competitividade em AX, qualidade e ESG.",
-        "body": "A Doosan Enerbility realizou o “Partners Day 2026” em sua sede em Changwon, na província de Gyeongsang do Sul, para fortalecer a cooperação de crescimento compartilhado com empresas parceiras. O evento foi preparado para ampliar a comunicação com fornecedores e compartilhar formas de elevar a competitividade. Foram apresentados casos ligados a AX, qualidade e ESG, voltados ao fortalecimento da competitividade dos parceiros. A Doosan Enerbility destacou que a melhoria das capacidades das empresas parceiras também está conectada à competitividade da própria companhia. O vice-presidente Jung Yeon-in disse: “A competitividade dos parceiros é a competitividade da Doosan”. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Doosan Enerbility veranstaltet Partners Day 2026 und stärkt AX-, Qualitäts- und ESG-Kooperation",
-        "excerpt": "Doosan Enerbility veranstaltete am Hauptsitz in Changwon den Partners Day 2026, um mit Partnerfirmen Fälle zu AX, Qualität und ESG zu teilen.",
-        "body": "Doosan Enerbility hat am Hauptsitz in Changwon in der südkoreanischen Provinz Süd-Gyeongsang den „Partners Day 2026“ veranstaltet, um die partnerschaftliche Zusammenarbeit mit Zulieferern zu stärken. Die Veranstaltung sollte den Austausch mit Partnerunternehmen ausweiten und Wege zur Steigerung der Wettbewerbsfähigkeit teilen. Vorgestellt wurden Beispiele zu AX, Qualität und ESG. Doosan Enerbility betonte, dass stärkere Fähigkeiten der Partner direkt mit der eigenen Wettbewerbsfähigkeit verbunden seien. Vizevorsitzender Jung Yeon-in sagte: „Die Wettbewerbsfähigkeit der Partner ist die Wettbewerbsfähigkeit von Doosan.“ Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Doosan Enerbility organise le Partners Day 2026 et renforce l’AX, la qualité et l’ESG",
-        "excerpt": "Doosan Enerbility a organisé le Partners Day 2026 à son siège de Changwon afin de partager avec ses partenaires des cas sur l’AX, la qualité et l’ESG.",
-        "body": "Doosan Enerbility a organisé le « Partners Day 2026 » à son siège de Changwon, dans la province sud-coréenne du Gyeongsang du Sud, afin de renforcer la coopération de croissance partagée avec ses entreprises partenaires. L’événement visait à élargir la communication avec les fournisseurs et à partager des moyens d’améliorer leur compétitivité. Des cas liés à l’AX, à la qualité et à l’ESG ont été présentés. Doosan Enerbility a souligné que le renforcement des capacités de ses partenaires est aussi lié à sa propre compétitivité. Le vice-président Jung Yeon-in a déclaré : « La compétitivité des partenaires est celle de Doosan. » Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "دوسان إنربيلتي تعقد يوم الشركاء 2026 لتعزيز التعاون في AX والجودة وESG",
-        "excerpt": "عقدت دوسان إنربيلتي يوم الشركاء 2026 في مقرها بتشانغوون لمشاركة حالات تعزيز تنافسية الشركاء في AX والجودة وESG وتوسيع التواصل.",
-        "body": "عقدت دوسان إنربيلتي فعالية «يوم الشركاء 2026» في مقرها الرئيسي بمدينة تشانغوون في مقاطعة كيونغسانغ الجنوبية، بهدف تعزيز التعاون القائم على النمو المشترك مع الشركات الشريكة. ونظمت الفعالية لتوسيع التواصل مع الموردين ومشاركة سبل تعزيز التنافسية. وشهدت الفعالية عرض حالات تتعلق بتقوية تنافسية الشركاء في مجالات AX والجودة وESG. وأكدت دوسان إنربيلتي أن تعزيز قدرات الشركات الشريكة يرتبط أيضا بتنافسية الشركة نفسها. وقال نائب الرئيس جونغ يون-إن: «تنافسية الشركاء هي تنافسية دوسان». المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Doosan Enerbility ने 2026 Partners Day आयोजित किया, AX, गुणवत्ता और ESG सहयोग मजबूत",
-        "excerpt": "Doosan Enerbility ने चांगवोन मुख्यालय में 2026 Partners Day आयोजित कर साझेदार कंपनियों के साथ AX, गुणवत्ता और ESG प्रतिस्पर्धा के मामले साझा किए।",
-        "body": "Doosan Enerbility ने दक्षिण कोरिया के ग्योंगसांगनाम-दो स्थित चांगवोन मुख्यालय में साझेदार कंपनियों के साथ साझा विकास सहयोग को मजबूत करने के लिए “2026 Partners Day” आयोजित किया। यह कार्यक्रम आपूर्तिकर्ताओं के साथ संवाद बढ़ाने और प्रतिस्पर्धात्मकता मजबूत करने के उपाय साझा करने के लिए रखा गया था। इसमें AX, गुणवत्ता और ESG से जुड़े साझेदार कंपनियों की प्रतिस्पर्धा बढ़ाने के उदाहरण प्रस्तुत किए गए। कंपनी ने जोर दिया कि साझेदारों की क्षमता मजबूत होना Doosan की अपनी प्रतिस्पर्धा से भी जुड़ा है। उपाध्यक्ष Jung Yeon-in ने कहा, “साझेदारों की प्रतिस्पर्धा ही Doosan की प्रतिस्पर्धा है।” स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Doosan Enerbility Gelar Partners Day 2026, Perkuat AX, Kualitas, dan ESG",
-        "excerpt": "Doosan Enerbility menggelar Partners Day 2026 di kantor pusat Changwon untuk berbagi kasus peningkatan daya saing mitra dalam AX, kualitas, dan ESG.",
-        "body": "Doosan Enerbility menggelar “Partners Day 2026” di kantor pusatnya di Changwon, Provinsi Gyeongsang Selatan, untuk memperkuat kerja sama pertumbuhan bersama dengan perusahaan mitra. Acara ini disiapkan untuk memperluas komunikasi dengan pemasok dan berbagi cara meningkatkan daya saing. Dalam acara tersebut, perusahaan memaparkan contoh peningkatan daya saing mitra terkait AX, kualitas, dan ESG. Doosan Enerbility menekankan bahwa penguatan kemampuan perusahaan mitra juga terhubung dengan daya saing perusahaan. Wakil Chairman Jung Yeon-in mengatakan, “Daya saing mitra adalah daya saing Doosan.” Sumber: mk.co.kr"
       }
     }
   }
