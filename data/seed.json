@@ -1,5 +1,230 @@
 [
   {
+    "id": "5a72da71a500",
+    "slug": "삼전닉스-단일종목-레버리지-etf-14개-27일-출격-577116",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T18:29:54.304Z",
+    "updatedAt": "2026-05-14T18:29:54.304Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051469726",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051469726",
+    "titleFingerprint": "b47b78ff59956d02b1d03aa6bd01808aa6a4345d",
+    "dedupKeys": [
+      "5a72da71a50066a926935e5f487b575201cbaba8",
+      "b47b78ff59956d02b1d03aa6bd01808aa6a4345d",
+      "78e3f9f8005a9e367d9793a6b22ae54ba7006b41"
+    ],
+    "imageUrl": "/images/articles/5a72da71a500.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·SK하이닉스 단일종목 레버리지 ETF 14개, 27일 상장",
+        "excerpt": "삼성전자와 SK하이닉스를 기초로 한 단일종목 레버리지 ETF 14개가 27일 출격한다. 국내 대표 반도체주에 연동된 고위험 상품 출시가 투자자 관심을 끈다.",
+        "body": "삼성전자와 SK하이닉스를 기초자산으로 삼는 단일종목 레버리지 ETF 14개가 27일 시장에 나온다. 국내 대표 반도체주 두 종목을 대상으로 한 상장지수펀드가 한꺼번에 출시되는 것이다. 이번 상품은 개별 종목의 움직임에 레버리지 구조를 결합한 형태로, 투자자는 해당 주가 흐름에 더 민감하게 노출된다. 삼성전자와 SK하이닉스는 국내 증시에서 거래대금과 투자자 관심이 큰 종목인 만큼 관련 ETF 출시도 주목받고 있다. 다만 단일종목과 레버리지가 결합된 상품은 수익과 손실 변동성이 모두 커질 수 있어 투자 판단에 유의가 필요하다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "14 Single-Stock Leveraged ETFs on Samsung, SK Hynix Set for May 27",
+        "excerpt": "Fourteen single-stock leveraged ETFs tied to Samsung Electronics and SK Hynix will launch on May 27, drawing investor attention to high-volatility semiconductor-linked products.",
+        "body": "Fourteen single-stock leveraged ETFs based on Samsung Electronics and SK Hynix will enter the market on May 27. The exchange-traded funds are being launched at once around two of South Korea’s leading semiconductor stocks. These products combine exposure to individual share-price moves with a leverage structure, giving investors more sensitive exposure to the underlying stocks. Samsung Electronics and SK Hynix are among the domestic market’s most closely watched names by trading value and investor interest, making the ETF rollout notable. However, products that combine single-stock exposure with leverage can increase both gains and losses, requiring careful investment judgment. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "サムスン電子・SKハイニックス単一銘柄レバレッジETF14本、27日上場",
+        "excerpt": "サムスン電子とSKハイニックスを対象にした単一銘柄レバレッジETF14本が27日に登場する。韓国半導体株連動の高変動商品に関心が集まる。",
+        "body": "サムスン電子とSKハイニックスを基礎資産とする単一銘柄レバレッジETF14本が27日に市場へ投入される。韓国を代表する半導体株2銘柄を対象にした上場投資信託が一斉に発売される形だ。これらの商品は個別銘柄の値動きにレバレッジ構造を組み合わせたもので、投資家は対象株の価格変動により敏感にさらされる。サムスン電子とSKハイニックスは韓国株式市場で売買代金と投資家の関心が大きい銘柄であり、関連ETFの上場も注目されている。ただし単一銘柄とレバレッジを組み合わせた商品は利益と損失の変動幅がともに大きくなり得るため、投資判断には注意が必要だ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "三星电子、SK海力士单一股票杠杆ETF 14只将于27日上市",
+        "excerpt": "以三星电子和SK海力士为标的的14只单一股票杠杆ETF将于27日推出，韩国代表性半导体股相关高波动产品受到投资者关注。",
+        "body": "以三星电子和SK海力士为基础资产的14只单一股票杠杆ETF将于27日进入市场。这意味着围绕韩国两大代表性半导体股票的交易型开放式指数基金将集中推出。此类产品把个股价格波动与杠杆结构相结合，使投资者对相关股票走势获得更敏感的敞口。三星电子和SK海力士在韩国股市中交易金额较大、投资者关注度较高，因此相关ETF上市也备受关注。不过，单一股票与杠杆结合的产品可能同时放大收益和亏损，投资者在作出判断时需要保持谨慎。来源: hankyung.com"
+      },
+      "es": {
+        "title": "14 ETF apalancados de una sola acción sobre Samsung y SK Hynix llegan el 27",
+        "excerpt": "Catorce ETF apalancados de una sola acción vinculados a Samsung Electronics y SK Hynix saldrán al mercado el 27, con foco en productos ligados a semiconductores coreanos.",
+        "body": "Catorce ETF apalancados de una sola acción basados en Samsung Electronics y SK Hynix llegarán al mercado el día 27. Se trata de una salida conjunta de fondos cotizados vinculados a dos de las principales acciones de semiconductores de Corea del Sur. Estos productos combinan los movimientos de una acción individual con una estructura de apalancamiento, lo que ofrece a los inversores una exposición más sensible al comportamiento del precio del subyacente. Samsung Electronics y SK Hynix son valores con alto volumen de negociación e interés inversor en el mercado local, por lo que el lanzamiento de estos ETF recibe atención. Aun así, la combinación de una sola acción y apalancamiento puede ampliar tanto ganancias como pérdidas, por lo que exige cautela. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "14 ETFs alavancados de ação única de Samsung e SK Hynix estreiam no dia 27",
+        "excerpt": "Quatorze ETFs alavancados de ação única ligados à Samsung Electronics e à SK Hynix serão lançados no dia 27, atraindo atenção para produtos de semicondutores coreanos.",
+        "body": "Quatorze ETFs alavancados de ação única baseados na Samsung Electronics e na SK Hynix chegarão ao mercado no dia 27. Os fundos negociados em bolsa serão lançados de uma só vez com foco em duas das principais ações de semicondutores da Coreia do Sul. Esses produtos combinam a variação de preço de ações individuais com uma estrutura de alavancagem, dando aos investidores exposição mais sensível ao movimento dos papéis subjacentes. Samsung Electronics e SK Hynix estão entre os nomes mais acompanhados do mercado local em volume de negociação e interesse dos investidores, o que torna o lançamento relevante. Ainda assim, produtos que unem ação única e alavancagem podem ampliar ganhos e perdas, exigindo cautela na decisão de investimento. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "14 gehebelte Single-Stock-ETFs auf Samsung und SK Hynix starten am 27.",
+        "excerpt": "Vierzehn gehebelte Single-Stock-ETFs auf Samsung Electronics und SK Hynix kommen am 27. an den Markt und lenken den Blick auf volatile Halbleiterprodukte aus Korea.",
+        "body": "Vierzehn gehebelte Single-Stock-ETFs auf Samsung Electronics und SK Hynix kommen am 27. an den Markt. Damit werden börsengehandelte Fonds auf zwei führende südkoreanische Halbleiterwerte gleichzeitig eingeführt. Die Produkte verbinden die Kursbewegung einzelner Aktien mit einer Hebelstruktur, wodurch Anleger stärker auf Bewegungen der zugrunde liegenden Aktien reagieren. Samsung Electronics und SK Hynix gehören am heimischen Aktienmarkt zu den Titeln mit hohem Handelsvolumen und großem Anlegerinteresse, weshalb die Einführung der entsprechenden ETFs Beachtung findet. Zugleich können Produkte, die Einzelaktienexposure und Hebel kombinieren, Gewinne wie Verluste vergrößern. Eine sorgfältige Anlageentscheidung bleibt daher wichtig. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "14 ETF à effet de levier sur Samsung et SK Hynix lancés le 27",
+        "excerpt": "Quatorze ETF à effet de levier sur action unique liés à Samsung Electronics et SK Hynix seront lancés le 27, attirant l’attention sur des produits coréens de semi-conducteurs.",
+        "body": "Quatorze ETF à effet de levier sur action unique, adossés à Samsung Electronics et SK Hynix, arriveront sur le marché le 27. Ces fonds cotés seront lancés simultanément autour de deux grandes valeurs sud-coréennes des semi-conducteurs. Ils combinent les mouvements d’une action individuelle avec une structure de levier, offrant aux investisseurs une exposition plus sensible à l’évolution du cours des titres sous-jacents. Samsung Electronics et SK Hynix figurent parmi les valeurs les plus suivies du marché local en raison de leurs volumes d’échanges et de l’intérêt des investisseurs, ce qui rend ce lancement notable. Toutefois, l’association d’une action unique et d’un levier peut amplifier à la fois les gains et les pertes, appelant à une décision d’investissement prudente. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "إطلاق 14 صندوق ETF برافعة على سهم واحد لسامسونغ وSK هاينكس في 27",
+        "excerpt": "سيتم إطلاق 14 صندوق ETF برافعة مالية مرتبطة بسهم واحد لكل من سامسونغ إلكترونيكس وSK هاينكس في 27، ما يلفت الانتباه إلى منتجات أشباه الموصلات الكورية.",
+        "body": "تدخل 14 صندوق ETF برافعة مالية على سهم واحد، تستند إلى سامسونغ إلكترونيكس وSK هاينكس، السوق في 27. ويعني ذلك إطلاق صناديق متداولة مرتبطة بسهمين رئيسيين في قطاع أشباه الموصلات في كوريا الجنوبية دفعة واحدة. تجمع هذه المنتجات بين حركة سعر السهم الفردي وهيكل الرافعة المالية، ما يجعل تعرض المستثمرين لتحركات الأسهم الأساسية أكثر حساسية. وتعد سامسونغ إلكترونيكس وSK هاينكس من الأسماء التي تحظى بتداول واهتمام كبيرين في السوق المحلية، لذلك يحظى إطلاق صناديق ETF المرتبطة بهما بمتابعة لافتة. لكن الجمع بين سهم واحد والرافعة المالية قد يضخم المكاسب والخسائر على حد سواء، ما يتطلب حذرا في قرار الاستثمار. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Samsung और SK Hynix पर 14 सिंगल-स्टॉक लीवरेज ETF 27 को लॉन्च",
+        "excerpt": "Samsung Electronics और SK Hynix से जुड़े 14 सिंगल-स्टॉक लीवरेज ETF 27 तारीख को बाजार में आएंगे, जिससे कोरियाई सेमीकंडक्टर शेयरों से जुड़े उत्पादों पर ध्यान बढ़ा है।",
+        "body": "Samsung Electronics और SK Hynix को आधार संपत्ति बनाने वाले 14 सिंगल-स्टॉक लीवरेज ETF 27 तारीख को बाजार में आएंगे। यह दक्षिण कोरिया की दो प्रमुख सेमीकंडक्टर कंपनियों के शेयरों पर केंद्रित एक्सचेंज-ट्रेडेड फंडों का एक साथ लॉन्च है। ये उत्पाद किसी एक शेयर की कीमत में बदलाव को लीवरेज संरचना से जोड़ते हैं, जिससे निवेशकों का संबंधित शेयरों की चाल के प्रति एक्सपोजर अधिक संवेदनशील हो जाता है। Samsung Electronics और SK Hynix घरेलू बाजार में कारोबार मूल्य और निवेशक रुचि के लिहाज से प्रमुख नाम हैं, इसलिए इन ETF का लॉन्च ध्यान खींच रहा है। हालांकि सिंगल-स्टॉक और लीवरेज का संयोजन लाभ और नुकसान दोनों की अस्थिरता बढ़ा सकता है, इसलिए निवेश निर्णय में सावधानी जरूरी है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "14 ETF leverage saham tunggal Samsung dan SK Hynix meluncur pada 27",
+        "excerpt": "Empat belas ETF leverage saham tunggal berbasis Samsung Electronics dan SK Hynix akan meluncur pada 27, menarik perhatian pada produk terkait saham semikonduktor Korea.",
+        "body": "Empat belas ETF leverage saham tunggal dengan aset dasar Samsung Electronics dan SK Hynix akan masuk pasar pada tanggal 27. Produk reksa dana yang diperdagangkan di bursa ini diluncurkan sekaligus dengan fokus pada dua saham semikonduktor utama Korea Selatan. Instrumen tersebut menggabungkan pergerakan harga saham individual dengan struktur leverage, sehingga investor mendapat eksposur yang lebih sensitif terhadap perubahan harga saham acuan. Samsung Electronics dan SK Hynix merupakan saham yang banyak diperhatikan di pasar domestik karena nilai transaksi dan minat investor yang besar, sehingga peluncuran ETF terkait ikut menjadi sorotan. Namun, kombinasi saham tunggal dan leverage dapat memperbesar potensi keuntungan sekaligus kerugian, sehingga keputusan investasi perlu dilakukan dengan hati-hati. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "ae0fa323964e",
+    "slug": "내일의-kiw몸값-1조-딥엑스부터-지드래곤-소속사-ipo-무대-선다-948369",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T18:28:52.173Z",
+    "updatedAt": "2026-05-14T18:28:52.173Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605146970i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605146970i",
+    "titleFingerprint": "8c4f8c067c98f8650eadd4f00f16929f6e7e5d3b",
+    "dedupKeys": [
+      "ae0fa323964e47b89374f632ff76a635c8435ade",
+      "8c4f8c067c98f8650eadd4f00f16929f6e7e5d3b",
+      "f0f8bb23e7abc7e0bb9d1249a33c25429bd2a761"
+    ],
+    "imageUrl": "/images/articles/ae0fa323964e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "KIW 2026 IPO 무대에 딥엑스·지드래곤 소속사 등판",
+        "excerpt": "5월 15일 KIW 2026 마지막 날 딥엑스, 갤럭시코퍼레이션 등 비상장 혁신기업이 IPO 청사진과 성장 전략을 공개하며 투자자 관심을 모은다.",
+        "body": "코리아 인베스트먼트 위크(KIW) 2026 마지막 날인 5월 15일, 국내 비상장 혁신기업들이 기업공개(IPO) 청사진을 공개한다. AI 반도체 스타트업 딥엑스, 지드래곤 소속사로 알려진 갤럭시코퍼레이션, 해빗팩토리, 엘리스그룹, 엘박스, 삼홍아크튜리온, 에이로봇 등이 참여한다. 딥엑스는 온디바이스 AI 반도체와 초저전력 NPU 기술을 앞세우며, 상장 시 기업가치가 1조원을 넘을 것으로 시장에서 거론된다. 갤럭시코퍼레이션은 미국 상장 계획과 해외 투자 유치 전략을 설명한다. 한국경제(hankyung.com)에 따르면 이들 기업은 투자자에게 성장 전략과 상장 로드맵을 제시할 예정이다."
+      },
+      "en": {
+        "title": "KIW 2026 IPO Stage: DeepX and G-Dragon Agency in Focus",
+        "excerpt": "On May 15, the final day of KIW 2026, unlisted innovators including DeepX and Galaxy Corporation will present IPO plans and growth strategies to investors.",
+        "body": "On May 15, the final day of Korea Investment Week (KIW) 2026, major unlisted innovation companies in South Korea will unveil their initial public offering plans. Participants include AI semiconductor startup DeepX, Galaxy Corporation, known as G-Dragon’s agency, Habit Factory, Elice Group, LBox, Samhong Arcturion and A-Robot. DeepX is regarded as a leader in on-device AI semiconductors with ultra-low-power NPU technology, and the market is discussing a valuation above 1 trillion won if it lists. Galaxy Corporation will outline its U.S. listing plan and overseas fundraising strategy. According to hankyung.com, the companies will present growth strategies and listing road maps to investors."
+      },
+      "ja": {
+        "title": "KIW 2026のIPO舞台、DeepXとG-DRAGON所属事務所に注目",
+        "excerpt": "5月15日のKIW 2026最終日に、DeepXやギャラクシーコーポレーションなど未上場革新企業がIPO構想と成長戦略を投資家に示す。",
+        "body": "コリア・インベストメント・ウィーク（KIW）2026の最終日である5月15日、韓国の主要未上場革新企業が新規株式公開（IPO）の青写真を公開する。参加企業はAI半導体スタートアップのDeepX、G-DRAGONの所属事務所として知られるギャラクシーコーポレーション、Habit Factory、Elice Group、LBox、Samhong Arcturion、A-Robotなど。DeepXはオンデバイスAI半導体と超低消費電力NPU技術を強みにし、上場時の企業価値が1兆ウォンを超えるとの見方が市場で出ている。ギャラクシーコーポレーションは米国上場計画と海外投資誘致戦略を説明する。hankyung.comによると、各社は投資家に成長戦略と上場ロードマップを提示する予定だ。"
+      },
+      "zh": {
+        "title": "KIW 2026 IPO舞台：DeepX与G-Dragon经纪公司受关注",
+        "excerpt": "5月15日KIW 2026最后一天，DeepX、Galaxy Corporation等未上市创新企业将向投资者展示IPO蓝图和增长战略。",
+        "body": "在韩国投资周（KIW）2026最后一天5月15日，韩国主要未上市创新企业将公布首次公开募股（IPO）蓝图。参与企业包括AI半导体初创公司DeepX、以G-Dragon所属公司闻名的Galaxy Corporation、Habit Factory、Elice Group、LBox、Samhong Arcturion和A-Robot等。DeepX主打端侧AI半导体和超低功耗NPU技术，市场认为其上市时企业价值可能超过1万亿韩元。Galaxy Corporation将说明赴美上市计划和吸引海外投资的战略。据hankyung.com报道，这些企业将向投资者提出增长战略和上市路线图。"
+      },
+      "es": {
+        "title": "KIW 2026: DeepX y la agencia de G-Dragon van al escenario IPO",
+        "excerpt": "El 15 de mayo, último día de KIW 2026, DeepX, Galaxy Corporation y otras firmas innovadoras no cotizadas presentarán planes de IPO y estrategias de crecimiento.",
+        "body": "El 15 de mayo, último día de Korea Investment Week (KIW) 2026, destacadas empresas innovadoras no cotizadas de Corea del Sur presentarán sus planes de oferta pública inicial (IPO). Entre las participantes estarán la startup de semiconductores de IA DeepX, Galaxy Corporation, conocida como la agencia de G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion y A-Robot. DeepX es considerada una referencia en semiconductores de IA en dispositivo y tecnología NPU de ultrabajo consumo, y el mercado menciona una valoración superior a 1 billón de wones si sale a bolsa. Galaxy Corporation expondrá su plan de cotización en Estados Unidos y su estrategia para atraer inversión extranjera. Según hankyung.com, las compañías presentarán a los inversores sus estrategias de crecimiento y hojas de ruta de salida a bolsa."
+      },
+      "pt": {
+        "title": "KIW 2026: DeepX e agência de G-Dragon entram no palco de IPO",
+        "excerpt": "Em 15 de maio, último dia da KIW 2026, DeepX, Galaxy Corporation e outras empresas inovadoras fechadas apresentarão planos de IPO e estratégias de crescimento.",
+        "body": "Em 15 de maio, último dia da Korea Investment Week (KIW) 2026, importantes empresas inovadoras não listadas da Coreia do Sul revelarão seus planos de oferta pública inicial (IPO). Entre as participantes estão a startup de semicondutores de IA DeepX, a Galaxy Corporation, conhecida como agência de G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion e A-Robot. A DeepX é vista como referência em semicondutores de IA on-device e tecnologia NPU de ultrabaixo consumo, e o mercado comenta que seu valor poderia superar 1 trilhão de won se for listada. A Galaxy Corporation explicará seu plano de listagem nos Estados Unidos e sua estratégia para atrair investimento estrangeiro. Segundo hankyung.com, as empresas apresentarão a investidores estratégias de crescimento e roteiros de listagem."
+      },
+      "de": {
+        "title": "KIW 2026: DeepX und G-Dragon-Agentur rücken bei IPOs in den Fokus",
+        "excerpt": "Am 15. Mai, dem letzten Tag der KIW 2026, stellen DeepX, Galaxy Corporation und weitere nicht börsennotierte Innovationsfirmen IPO-Pläne und Wachstumsstrategien vor.",
+        "body": "Am 15. Mai, dem letzten Tag der Korea Investment Week (KIW) 2026, legen führende nicht börsennotierte Innovationsunternehmen aus Südkorea ihre Pläne für Börsengänge offen. Dabei sind das KI-Halbleiter-Startup DeepX, Galaxy Corporation, bekannt als Agentur von G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion und A-Robot. DeepX gilt als führend bei On-Device-KI-Halbleitern und extrem stromsparender NPU-Technologie; am Markt wird bei einem Börsengang ein Unternehmenswert von mehr als 1 Billion Won diskutiert. Galaxy Corporation erläutert Pläne für eine US-Notierung und eine Strategie zur Gewinnung ausländischer Investoren. Laut hankyung.com wollen die Unternehmen Investoren Wachstumsstrategien und Börsenfahrpläne vorstellen."
+      },
+      "fr": {
+        "title": "KIW 2026 : DeepX et l’agence de G-Dragon sur la scène des IPO",
+        "excerpt": "Le 15 mai, dernier jour de KIW 2026, DeepX, Galaxy Corporation et d’autres entreprises innovantes non cotées présenteront leurs projets d’IPO et stratégies de croissance.",
+        "body": "Le 15 mai, dernier jour de la Korea Investment Week (KIW) 2026, de grandes entreprises sud-coréennes innovantes non cotées dévoileront leurs projets d’introduction en Bourse. Parmi elles figurent la start-up de semi-conducteurs IA DeepX, Galaxy Corporation, connue comme l’agence de G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion et A-Robot. DeepX est considérée comme un acteur majeur des semi-conducteurs IA embarqués et de la technologie NPU à très faible consommation, et le marché évoque une valorisation supérieure à 1 000 milliards de wons en cas de cotation. Galaxy Corporation détaillera son projet de cotation aux États-Unis et sa stratégie d’attraction d’investissements étrangers. Selon hankyung.com, ces entreprises présenteront aux investisseurs leurs stratégies de croissance et feuilles de route de cotation."
+      },
+      "ar": {
+        "title": "KIW 2026: ديب إكس ووكالة جي-دراغون على منصة الطروحات",
+        "excerpt": "في 15 مايو، اليوم الأخير من KIW 2026، تعرض ديب إكس وغالاكسي كوربوريشن وشركات ابتكار غير مدرجة خطط الطرح العام واستراتيجيات النمو أمام المستثمرين.",
+        "body": "في 15 مايو، اليوم الأخير من أسبوع كوريا للاستثمار KIW 2026، تكشف شركات ابتكار كورية جنوبية غير مدرجة عن تصوراتها للطرح العام الأولي. وتضم القائمة شركة أشباه موصلات الذكاء الاصطناعي الناشئة ديب إكس، وغالاكسي كوربوريشن المعروفة بأنها وكالة جي-دراغون، وهابيت فاكتوري، وإليس غروب، وإل بوكس، وسامهــونغ أركتوريون، وإيه روبوت. تعد ديب إكس من أبرز شركات أشباه موصلات الذكاء الاصطناعي على الأجهزة وتقنية NPU فائقة انخفاض استهلاك الطاقة، ويتداول السوق احتمال تجاوز قيمتها تريليون وون عند الإدراج. وستعرض غالاكسي كوربوريشن خطة الإدراج في الولايات المتحدة واستراتيجية جذب الاستثمار الخارجي. وبحسب hankyung.com، ستقدم هذه الشركات للمستثمرين استراتيجيات النمو وخرائط طريق الإدراج."
+      },
+      "hi": {
+        "title": "KIW 2026 IPO मंच पर DeepX और G-Dragon की एजेंसी पर नजर",
+        "excerpt": "15 मई को KIW 2026 के अंतिम दिन DeepX, Galaxy Corporation और अन्य गैर-सूचीबद्ध नवाचार कंपनियां निवेशकों के सामने IPO योजनाएं और वृद्धि रणनीतियां रखेंगी।",
+        "body": "15 मई को Korea Investment Week (KIW) 2026 के अंतिम दिन दक्षिण कोरिया की प्रमुख गैर-सूचीबद्ध नवाचार कंपनियां अपनी प्रारंभिक सार्वजनिक पेशकश (IPO) की रूपरेखा पेश करेंगी। इनमें AI सेमीकंडक्टर स्टार्टअप DeepX, G-Dragon की एजेंसी के रूप में प्रसिद्ध Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion और A-Robot शामिल हैं। DeepX ऑन-डिवाइस AI सेमीकंडक्टर और अल्ट्रा-लो-पावर NPU तकनीक के लिए जानी जाती है, और बाजार में चर्चा है कि सूचीबद्ध होने पर इसका मूल्य 1 ट्रिलियन वॉन से ऊपर जा सकता है। Galaxy Corporation अमेरिका में सूचीबद्ध होने की योजना और विदेशी निवेश आकर्षित करने की रणनीति बताएगी। hankyung.com के अनुसार, ये कंपनियां निवेशकों को अपनी वृद्धि रणनीतियां और लिस्टिंग रोडमैप पेश करेंगी।"
+      },
+      "id": {
+        "title": "KIW 2026: DeepX dan Agensi G-Dragon Masuk Panggung IPO",
+        "excerpt": "Pada 15 Mei, hari terakhir KIW 2026, DeepX, Galaxy Corporation, dan perusahaan inovatif nonpublik lain akan memaparkan rencana IPO serta strategi pertumbuhan.",
+        "body": "Pada 15 Mei, hari terakhir Korea Investment Week (KIW) 2026, perusahaan inovatif nonpublik utama Korea Selatan akan mengungkap cetak biru penawaran umum perdana (IPO). Pesertanya mencakup startup semikonduktor AI DeepX, Galaxy Corporation yang dikenal sebagai agensi G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion, dan A-Robot. DeepX menjadi pemain utama semikonduktor AI on-device dengan teknologi NPU berdaya sangat rendah, dan pasar membicarakan valuasi di atas 1 triliun won jika perusahaan itu melantai. Galaxy Corporation akan menjelaskan rencana pencatatan di AS dan strategi menarik investasi luar negeri. Menurut hankyung.com, perusahaan-perusahaan ini akan menyampaikan strategi pertumbuhan dan peta jalan pencatatan kepada investor."
+      }
+    }
+  },
+  {
+    "id": "476aeec4dec7",
+    "slug": "화재증권-동반-성장메리츠금융-1분기-순익-9-증가한-6802억-959571",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T18:27:42.778Z",
+    "updatedAt": "2026-05-14T18:27:42.778Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051470336",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051470336",
+    "titleFingerprint": "b37051ba97fc4d8737f8d8d3b1ed91a5baa1fba7",
+    "dedupKeys": [
+      "476aeec4dec78d578061e5b29ff9f5e83409eb21",
+      "b37051ba97fc4d8737f8d8d3b1ed91a5baa1fba7",
+      "6993f772cb3b2d2da896444f0e00bd2a766de496"
+    ],
+    "imageUrl": "/images/articles/476aeec4dec7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "메리츠금융 1분기 순익 6802억, 화재·증권 동반 성장에 9.6% 증가",
+        "excerpt": "메리츠금융지주는 2026년 1분기 연결 순이익이 6802억원으로 전년 동기 대비 9.6% 늘었다고 14일 공시했다. 증권 IB·운용과 화재 보험손익이 실적을 이끌었다.",
+        "body": "메리츠금융지주는 14일 2026년 1분기 연결 기준 당기순이익이 6802억원으로 전년 동기 대비 9.6% 증가했다고 공시했다. 메리츠증권의 기업금융(IB)·자산운용 호조와 메리츠화재의 안정적인 보험손익이 실적을 뒷받침했다. 같은 기간 매출은 16조3143억원으로 98.2%, 영업이익은 8548억원으로 18.4% 늘었다. 메리츠증권은 순이익 2543억원으로 35.7% 증가했고, 메리츠화재는 별도 기준 순이익 4661억원으로 0.8% 늘었다. 화재의 보험손익은 3346억원, 투자손익은 2962억원이며 자산운용 투자이익률은 5.4%, 지급여력비율은 240%였다. hankyung.com은 회사가 대외 변동성 속에서도 전 사업 부문 체질 개선으로 양호한 실적을 거뒀다고 설명했다고 전했다."
+      },
+      "en": {
+        "title": "Meritz Financial Q1 Net Profit Rises 9.6% to 680.2 Billion Won on Insurance, Securities Growth",
+        "excerpt": "Meritz Financial Group said on May 14 that first-quarter 2026 consolidated net profit rose 9.6% year on year to 680.2 billion won, supported by Meritz Securities and Meritz Fire & Marine.",
+        "body": "Meritz Financial Group disclosed on May 14 that consolidated net profit for the first quarter of 2026 reached 680.2 billion won, up 9.6% from a year earlier. The results were supported by strong investment banking and asset management at Meritz Securities and stable insurance earnings at Meritz Fire & Marine. Revenue rose 98.2% to 16.3143 trillion won, while operating profit increased 18.4% to 854.8 billion won. Meritz Securities posted net profit of 254.3 billion won, up 35.7%, helped by broad growth in IB, asset management and retail as well as improved profitability at its capital unit. Meritz Fire & Marine reported separate net profit of 466.1 billion won, up 0.8%, with insurance profit of 334.6 billion won and investment profit of 296.2 billion won. Its asset management investment yield was 5.4%, and its solvency ratio stood at 240%. Citing hankyung.com, the company said business improvements across divisions helped it deliver solid results despite external volatility."
+      },
+      "ja": {
+        "title": "メリッツ金融、1〜3月期純利益6802億ウォン　火災・証券の伸びで9.6%増",
+        "excerpt": "メリッツ金融持株は5月14日、2026年1〜3月期の連結純利益が前年同期比9.6%増の6802億ウォンだったと公示した。証券と火災保険が支えた。",
+        "body": "メリッツ金融持株は14日、2026年1〜3月期の連結ベース純利益が6802億ウォンとなり、前年同期比9.6%増加したと公示した。メリッツ証券の投資銀行（IB）・資産運用の好調と、メリッツ火災の安定した保険損益が業績を下支えした。同期間の売上高は16兆3143億ウォンで98.2%増、営業利益は8548億ウォンで18.4%増だった。メリッツ証券の純利益は2543億ウォンで35.7%増加し、IB、資産運用、リテールなど全事業部門の成長とキャピタル子会社の収益性改善が寄与した。メリッツ火災は単体基準で純利益4661億ウォン、0.8%増を記録した。保険損益は3346億ウォン、投資損益は2962億ウォンで、資産運用投資利回りは5.4%、支払余力比率は240%だった。hankyung.comによると、同社は外部環境の変動性の中でも全事業部門の体質改善により良好な実績を上げたと説明した。"
+      },
+      "zh": {
+        "title": "Meritz金融一季度净利6802亿韩元，火灾保险与证券同步增长推动9.6%增幅",
+        "excerpt": "Meritz金融控股5月14日公告称，2026年第一季度合并净利润同比增长9.6%至6802亿韩元，证券IB和资产管理、火灾保险收益支撑业绩。",
+        "body": "Meritz金融控股14日公告称，2026年第一季度合并口径净利润为6802亿韩元，较上年同期增长9.6%。业绩主要受到Meritz证券企业金融（IB）和资产管理表现良好，以及Meritz火灾保险稳定保险损益的支撑。同期营业收入为16.3143万亿韩元，增长98.2%；营业利润为8548亿韩元，增长18.4%。Meritz证券第一季度净利润为2543亿韩元，同比增长35.7%，公司称这得益于IB、资产管理、零售等各业务部门均衡增长，以及子公司资本业务盈利能力改善。Meritz火灾保险按单体口径实现净利润4661亿韩元，同比增长0.8%；保险损益为3346亿韩元，投资损益为2962亿韩元。其资产管理投资收益率为5.4%，偿付能力比率为240%。据hankyung.com报道，公司表示，在外部波动性下，各业务部门通过体质改善取得了良好业绩。"
+      },
+      "es": {
+        "title": "Meritz Financial eleva su beneficio neto trimestral un 9,6% hasta 680.200 millones de wones",
+        "excerpt": "Meritz Financial Group informó el 14 de mayo que su beneficio neto consolidado del primer trimestre de 2026 subió un 9,6% interanual, apoyado por valores y seguros.",
+        "body": "Meritz Financial Group comunicó el 14 de mayo que su beneficio neto consolidado del primer trimestre de 2026 fue de 680.200 millones de wones, un 9,6% más que un año antes. El resultado se apoyó en el buen desempeño de banca de inversión y gestión de activos de Meritz Securities y en el resultado asegurador estable de Meritz Fire & Marine. En el mismo periodo, los ingresos crecieron un 98,2% hasta 16,3143 billones de wones, y el beneficio operativo aumentó un 18,4% hasta 854.800 millones. Meritz Securities obtuvo un beneficio neto de 254.300 millones de wones, un 35,7% más, gracias al crecimiento equilibrado en IB, gestión de activos y negocio minorista, además de la mejora de rentabilidad de su filial de capital. Meritz Fire & Marine registró, en base separada, un beneficio neto de 466.100 millones de wones, un 0,8% más. Su resultado asegurador fue de 334.600 millones y el de inversión de 296.200 millones; la rentabilidad de inversión en gestión de activos fue del 5,4% y el ratio de solvencia, del 240%. Según hankyung.com, la compañía explicó que logró resultados sólidos pese a la volatilidad externa mediante mejoras en todas sus áreas."
+      },
+      "pt": {
+        "title": "Meritz Financial tem lucro de 680,2 bi de wones no 1º tri, alta de 9,6% com seguros e corretora",
+        "excerpt": "A Meritz Financial Group informou em 14 de maio que o lucro líquido consolidado do 1º trimestre de 2026 subiu 9,6% em base anual, para 680,2 bilhões de wones.",
+        "body": "A Meritz Financial Group informou em 14 de maio que o lucro líquido consolidado do primeiro trimestre de 2026 foi de 680,2 bilhões de wones, alta de 9,6% ante o mesmo período do ano anterior. O desempenho foi sustentado pela boa performance de banco de investimento e gestão de ativos da Meritz Securities e pelo resultado estável de seguros da Meritz Fire & Marine. No período, a receita avançou 98,2%, para 16,3143 trilhões de wones, e o lucro operacional cresceu 18,4%, para 854,8 bilhões. A Meritz Securities registrou lucro líquido de 254,3 bilhões de wones, alta de 35,7%, com crescimento equilibrado em IB, gestão de ativos e varejo, além de melhora da rentabilidade da subsidiária de capital. A Meritz Fire & Marine teve lucro líquido separado de 466,1 bilhões de wones, avanço de 0,8%. O resultado de seguros foi de 334,6 bilhões de wones, e o resultado de investimentos, de 296,2 bilhões; o retorno de investimento em gestão de ativos foi de 5,4%, e o índice de solvência ficou em 240%. Segundo o hankyung.com, a empresa afirmou que melhorias em todas as divisões permitiram resultados sólidos apesar da volatilidade externa."
+      },
+      "de": {
+        "title": "Meritz Financial steigert Quartalsgewinn um 9,6% auf 680,2 Mrd. Won dank Versicherung und Wertpapieren",
+        "excerpt": "Meritz Financial Group meldete am 14. Mai für das erste Quartal 2026 einen konsolidierten Nettogewinn von 680,2 Mrd. Won, 9,6% mehr als im Vorjahr.",
+        "body": "Meritz Financial Group teilte am 14. Mai mit, dass der konsolidierte Nettogewinn im ersten Quartal 2026 bei 680,2 Mrd. Won lag und damit um 9,6% gegenüber dem Vorjahr stieg. Gestützt wurde das Ergebnis durch ein starkes Investmentbanking- und Asset-Management-Geschäft bei Meritz Securities sowie stabile Versicherungsergebnisse bei Meritz Fire & Marine. Der Umsatz erhöhte sich im gleichen Zeitraum um 98,2% auf 16,3143 Bio. Won, der operative Gewinn um 18,4% auf 854,8 Mrd. Won. Meritz Securities erzielte einen Nettogewinn von 254,3 Mrd. Won, ein Plus von 35,7%, getragen von breitem Wachstum in IB, Asset Management und Retail sowie besserer Profitabilität der Capital-Tochter. Meritz Fire & Marine wies auf Einzelbasis einen Nettogewinn von 466,1 Mrd. Won aus, 0,8% mehr als im Vorjahr. Das Versicherungsergebnis betrug 334,6 Mrd. Won, das Anlageergebnis 296,2 Mrd. Won; die Anlagerendite im Asset Management lag bei 5,4%, die Solvenzquote bei 240%. Laut hankyung.com erklärte das Unternehmen, dass Verbesserungen in allen Geschäftsbereichen trotz externer Volatilität solide Ergebnisse ermöglichten."
+      },
+      "fr": {
+        "title": "Meritz Financial porte son bénéfice net du T1 à 680,2 Mds de wons, en hausse de 9,6%",
+        "excerpt": "Meritz Financial Group a annoncé le 14 mai un bénéfice net consolidé de 680,2 milliards de wons au premier trimestre 2026, en hausse de 9,6% sur un an.",
+        "body": "Meritz Financial Group a indiqué le 14 mai que son bénéfice net consolidé du premier trimestre 2026 avait atteint 680,2 milliards de wons, soit une hausse de 9,6% sur un an. La performance a été soutenue par la bonne tenue de la banque d’investissement et de la gestion d’actifs chez Meritz Securities, ainsi que par des résultats d’assurance stables chez Meritz Fire & Marine. Sur la même période, le chiffre d’affaires a augmenté de 98,2% à 16.314,3 milliards de wons, tandis que le bénéfice opérationnel a progressé de 18,4% à 854,8 milliards. Meritz Securities a dégagé un bénéfice net de 254,3 milliards de wons, en hausse de 35,7%, grâce à une croissance équilibrée dans l’IB, la gestion d’actifs et le détail, ainsi qu’à l’amélioration de la rentabilité de sa filiale de capital. Meritz Fire & Marine a enregistré, en base séparée, un bénéfice net de 466,1 milliards de wons, en hausse de 0,8%. Son résultat d’assurance s’est élevé à 334,6 milliards de wons et son résultat d’investissement à 296,2 milliards; le rendement d’investissement de la gestion d’actifs a été de 5,4% et le ratio de solvabilité de 240%. Selon hankyung.com, l’entreprise a expliqué que les améliorations de structure dans toutes les divisions avaient permis de solides résultats malgré la volatilité externe."
+      },
+      "ar": {
+        "title": "ميريتز فايننشال ترفع صافي ربح الربع الأول 9.6% إلى 680.2 مليار وون بدعم التأمين والأوراق المالية",
+        "excerpt": "أعلنت ميريتز فايننشال غروب في 14 مايو أن صافي ربحها الموحد للربع الأول من 2026 ارتفع 9.6% على أساس سنوي إلى 680.2 مليار وون، بدعم من الأوراق المالية والتأمين.",
+        "body": "أعلنت ميريتز فايننشال غروب في 14 مايو أن صافي ربحها الموحد في الربع الأول من 2026 بلغ 680.2 مليار وون، بزيادة 9.6% عن الفترة نفسها من العام السابق. وجاء الأداء مدعوما بقوة أعمال التمويل الاستثماري وإدارة الأصول لدى ميريتز سيكيوريتيز، وباستقرار أرباح التأمين لدى ميريتز فاير آند مارين. وخلال الفترة نفسها، ارتفعت الإيرادات 98.2% إلى 16.3143 تريليون وون، وزاد الربح التشغيلي 18.4% إلى 854.8 مليار وون. وسجلت ميريتز سيكيوريتيز صافي ربح قدره 254.3 مليار وون، بزيادة 35.7%، نتيجة نمو متوازن في التمويل الاستثماري وإدارة الأصول والتجزئة، إلى جانب تحسن ربحية شركة الكابيتال التابعة. أما ميريتز فاير آند مارين فسجلت على أساس منفصل صافي ربح قدره 466.1 مليار وون، بزيادة 0.8%. وبلغت أرباح التأمين 334.6 مليار وون، وأرباح الاستثمار 296.2 مليار وون، بينما سجل عائد استثمار إدارة الأصول 5.4% ونسبة الملاءة 240%. ونقل hankyung.com عن الشركة قولها إن تحسينات البنية في جميع قطاعات الأعمال ساعدتها على تحقيق نتائج جيدة رغم التقلبات الخارجية."
+      },
+      "hi": {
+        "title": "Meritz Financial का Q1 शुद्ध लाभ 9.6% बढ़कर 680.2 अरब वोन, बीमा और सिक्योरिटीज से सहारा",
+        "excerpt": "Meritz Financial Group ने 14 मई को बताया कि 2026 की पहली तिमाही में उसका समेकित शुद्ध लाभ सालाना 9.6% बढ़कर 680.2 अरब वोन रहा। प्रदर्शन को सिक्योरिटीज और बीमा ने समर्थन दिया।",
+        "body": "Meritz Financial Group ने 14 मई को खुलासा किया कि 2026 की पहली तिमाही में उसका समेकित शुद्ध लाभ 680.2 अरब वोन रहा, जो एक साल पहले की तुलना में 9.6% अधिक है। नतीजों को Meritz Securities के निवेश बैंकिंग और एसेट मैनेजमेंट कारोबार की मजबूती तथा Meritz Fire & Marine के स्थिर बीमा लाभ ने सहारा दिया। इसी अवधि में राजस्व 98.2% बढ़कर 16.3143 ट्रिलियन वोन और परिचालन लाभ 18.4% बढ़कर 854.8 अरब वोन रहा। Meritz Securities ने 254.3 अरब वोन का शुद्ध लाभ दर्ज किया, जो 35.7% अधिक है। कंपनी के अनुसार, IB, एसेट मैनेजमेंट और रिटेल में संतुलित वृद्धि तथा कैपिटल सहायक कंपनी की लाभप्रदता में सुधार ने योगदान दिया। Meritz Fire & Marine ने अलग आधार पर 466.1 अरब वोन का शुद्ध लाभ दर्ज किया, जो 0.8% अधिक है। इसका बीमा लाभ 334.6 अरब वोन और निवेश लाभ 296.2 अरब वोन था; एसेट मैनेजमेंट निवेश प्रतिफल 5.4% और सॉल्वेंसी अनुपात 240% रहा। hankyung.com के अनुसार, कंपनी ने कहा कि बाहरी अस्थिरता के बावजूद सभी व्यवसायों में संरचनात्मक सुधारों से अच्छे नतीजे मिले।"
+      },
+      "id": {
+        "title": "Meritz Financial Cetak Laba Bersih Q1 680,2 Miliar Won, Naik 9,6% Berkat Asuransi dan Sekuritas",
+        "excerpt": "Meritz Financial Group menyatakan pada 14 Mei bahwa laba bersih konsolidasian kuartal I 2026 naik 9,6% secara tahunan menjadi 680,2 miliar won, ditopang sekuritas dan asuransi.",
+        "body": "Meritz Financial Group mengumumkan pada 14 Mei bahwa laba bersih konsolidasian kuartal pertama 2026 mencapai 680,2 miliar won, naik 9,6% dibanding periode yang sama tahun sebelumnya. Kinerja tersebut ditopang oleh kuatnya bisnis investment banking dan manajemen aset Meritz Securities serta pendapatan asuransi yang stabil di Meritz Fire & Marine. Pada periode yang sama, pendapatan naik 98,2% menjadi 16,3143 triliun won, sementara laba operasi meningkat 18,4% menjadi 854,8 miliar won. Meritz Securities membukukan laba bersih 254,3 miliar won, naik 35,7%, didukung pertumbuhan merata di IB, manajemen aset, dan ritel serta perbaikan profitabilitas anak usaha kapital. Meritz Fire & Marine mencatat laba bersih terpisah 466,1 miliar won, naik 0,8%. Laba asuransinya sebesar 334,6 miliar won dan laba investasinya 296,2 miliar won; imbal hasil investasi manajemen aset tercatat 5,4% dan rasio solvabilitas 240%. Menurut hankyung.com, perusahaan menyatakan bahwa perbaikan struktur di seluruh lini bisnis membantu menghasilkan kinerja yang baik meski ada volatilitas eksternal."
+      }
+    }
+  },
+  {
     "id": "7d9c1d6a649e",
     "slug": "에이전트-ai가-전-산업-바꿀-것ai-버블론-반박한-블룸버그-수석-애널-kiw-2026-102994",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "E-Mart Cetak Laba Kuartalan Tertinggi 14 Tahun, PBR 0,3x Jadi Sorotan",
         "excerpt": "Laba operasional kuartal pertama E-Mart dianalisis sebagai level kuartalan tertinggi dalam 14 tahun, membuat PBR rendah 0,3 kali menjadi fokus valuasi.",
         "body": "E-Mart menjadi perhatian setelah laba operasional konsolidasian kuartal pertamanya dianalisis sebagai level kuartalan tertinggi dalam 14 tahun. Menurut Hankyung.com, pendapatan kuartal pertama disajikan sebesar 7,2724 triliun won, sementara laba operasional mencapai 144,6 miliar won, atau 31,9% di atas ekspektasi pasar. Dari sisi valuasi, laporan itu menyebut PER tahun ini sebesar 2 kali dan PBR 0,3 kali. PBR yang rendah menunjukkan harga saham dinilai rendah dibandingkan nilai aset perusahaan. Penilaian ke depan diperkirakan akan mempertimbangkan keberlanjutan laba serta perubahan bisnis seperti perluasan pengiriman SSG.com dan rencana quick commerce. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "221385936786",
-    "slug": "세기의-담판-나서는-트럼프-시진핑수혜주와-피해주는-148269",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T00:04:47.880Z",
-    "updatedAt": "2026-05-14T00:04:47.880Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605145226i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605145226i",
-    "titleFingerprint": "bc9c0ea3e6af2a604429a6e0f838cecd75370098",
-    "dedupKeys": [
-      "2213859367869e4c8aca471810e4291c62f2f35e",
-      "bc9c0ea3e6af2a604429a6e0f838cecd75370098",
-      "c90f84ba937ba95ba5372e3e08983c200d88e7a9"
-    ],
-    "imageUrl": "/images/articles/221385936786.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프·시진핑 베이징 담판, 관세·대만·이란 의제가 수혜주·피해주 가른다",
-        "excerpt": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 14일 베이징에서 정상회담을 열고 무역·관세, 대만, 이란 등 핵심 현안을 논의한다.",
-        "body": "도널드 트럼프 미국 대통령은 13일 저녁 중국 베이징에 도착해 14일 오전 10시 베이징 인민대회당에서 시진핑 중국 국가주석과 정상회담을 한다. 두 정상의 대좌는 지난해 10월 부산 정상회담 이후 약 6개월 만이며, 트럼프 대통령의 중국 방문은 2017년 11월 이후 약 8년 6개월 만이다. 회담 의제는 무역·관세 문제, 대만, 이란, AI와 경제 협력 등으로 제시됐다. 시장은 관세와 비관세 장벽 논의가 업종별 수혜주와 피해주 판단의 변수가 될지 주목하고 있다. 다만 구체적 합의와 종목 영향은 회담 결과 확인 전까지 단정하기 어렵다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Trump-Xi Beijing Talks Put Tariffs, Taiwan and Iran at Center of Market Watch",
-        "excerpt": "U.S. President Donald Trump and Chinese President Xi Jinping meet in Beijing on May 14 to discuss trade, tariffs, Taiwan, Iran and other key issues.",
-        "body": "U.S. President Donald Trump arrived in Beijing on the evening of May 13 and is scheduled to meet Chinese President Xi Jinping at the Great Hall of the People at 10 a.m. on May 14. The meeting comes about six months after their summit in Busan last October, while Trump’s visit to China is his first in about eight years and six months since November 2017. The agenda includes trade and tariffs, Taiwan, Iran, AI and economic cooperation. Markets are watching whether talks on tariffs and non-tariff barriers become a variable in judging potential winners and losers by sector. Specific agreements and stock impacts remain uncertain until the summit outcome is confirmed. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "トランプ・習近平の北京会談、関税・台湾・イランが市場の焦点に",
-        "excerpt": "トランプ米大統領と習近平国家主席は5月14日に北京で首脳会談を行い、貿易・関税、台湾、イランなど主要懸案を協議する。",
-        "body": "ドナルド・トランプ米大統領は5月13日夜に北京へ到着し、14日午前10時に北京の人民大会堂で習近平国家主席と首脳会談を行う。両首脳の会談は昨年10月の釜山会談以来、約6カ月ぶりで、トランプ氏の中国訪問は2017年11月以来、約8年6カ月ぶりとなる。議題には貿易・関税問題、台湾、イラン、AI、経済協力などが挙げられている。市場は関税と非関税障壁をめぐる協議が、業種別の恩恵銘柄と打撃銘柄を判断する材料になるか注目している。ただし具体的な合意や銘柄への影響は、会談結果の確認前には断定しにくい。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "特朗普与习近平北京会谈，关税、台湾和伊朗议题牵动市场",
-        "excerpt": "美国总统特朗普与中国国家主席习近平将于5月14日在北京举行峰会，讨论贸易、关税、台湾、伊朗等核心议题。",
-        "body": "美国总统唐纳德·特朗普于5月13日晚抵达北京，并将于14日上午10时在北京人民大会堂与中国国家主席习近平举行峰会。这是两位领导人继去年10月釜山会谈后约6个月再次会晤，也是特朗普自2017年11月以来约8年6个月后再次访华。会议议题包括贸易与关税、台湾、伊朗、人工智能以及经济合作等。市场关注关税和非关税壁垒讨论是否会成为判断不同行业受益股与受损股的变量。不过，在会谈结果确认前，具体协议及其对个股的影响仍难以断定。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Trump y Xi se reúnen en Pekín con aranceles, Taiwán e Irán bajo la lupa",
-        "excerpt": "Donald Trump y Xi Jinping celebran el 14 de mayo una cumbre en Pekín para tratar comercio, aranceles, Taiwán, Irán y otros asuntos clave.",
-        "body": "El presidente de Estados Unidos, Donald Trump, llegó a Pekín la noche del 13 de mayo y se reunirá con el presidente chino, Xi Jinping, a las 10:00 del 14 de mayo en el Gran Palacio del Pueblo. El encuentro se produce unos seis meses después de la cumbre de Busan de octubre pasado, mientras que la visita de Trump a China es la primera en unos ocho años y seis meses desde noviembre de 2017. La agenda incluye comercio y aranceles, Taiwán, Irán, IA y cooperación económica. Los mercados observan si el debate sobre aranceles y barreras no arancelarias será una variable para identificar sectores beneficiados o perjudicados. Los acuerdos concretos y el impacto en acciones no pueden darse por seguros antes del resultado. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Trump e Xi em Pequim: tarifas, Taiwan e Irã entram no radar dos mercados",
-        "excerpt": "Donald Trump e Xi Jinping se reúnem em Pequim em 14 de maio para discutir comércio, tarifas, Taiwan, Irã e outros temas centrais.",
-        "body": "O presidente dos Estados Unidos, Donald Trump, chegou a Pequim na noite de 13 de maio e deve se reunir com o presidente chinês, Xi Jinping, às 10h de 14 de maio no Grande Salão do Povo. O encontro ocorre cerca de seis meses após a cúpula de Busan, em outubro passado, enquanto a visita de Trump à China é a primeira em cerca de oito anos e seis meses desde novembro de 2017. A pauta inclui comércio e tarifas, Taiwan, Irã, IA e cooperação econômica. Os mercados acompanham se as discussões sobre tarifas e barreiras não tarifárias se tornarão uma variável para avaliar setores beneficiados e prejudicados. Acordos concretos e impactos em ações ainda dependem do resultado da reunião. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Trump-Xi-Gipfel in Peking: Zölle, Taiwan und Iran rücken in den Marktfokus",
-        "excerpt": "Donald Trump und Xi Jinping treffen sich am 14. Mai in Peking, um Handel, Zölle, Taiwan, Iran und weitere zentrale Fragen zu besprechen.",
-        "body": "US-Präsident Donald Trump traf am Abend des 13. Mai in Peking ein und soll am 14. Mai um 10 Uhr in der Großen Halle des Volkes mit Chinas Staatschef Xi Jinping zusammenkommen. Das Treffen folgt rund sechs Monate nach dem Gipfel in Busan im vergangenen Oktober. Trumps China-Besuch ist zudem der erste seit rund acht Jahren und sechs Monaten, seit November 2017. Auf der Agenda stehen Handel und Zölle, Taiwan, Iran, KI und wirtschaftliche Zusammenarbeit. Die Märkte beobachten, ob Gespräche über Zölle und nichttarifäre Hürden zu einem Faktor für mögliche Gewinner- und Verliererbranchen werden. Konkrete Vereinbarungen und Aktienfolgen lassen sich vor dem Ergebnis nicht sicher bestimmen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Sommet Trump-Xi à Pékin : droits de douane, Taïwan et Iran au centre du marché",
-        "excerpt": "Donald Trump et Xi Jinping se rencontrent le 14 mai à Pékin pour discuter commerce, droits de douane, Taïwan, Iran et autres dossiers clés.",
-        "body": "Le président américain Donald Trump est arrivé à Pékin dans la soirée du 13 mai et doit rencontrer le président chinois Xi Jinping le 14 mai à 10 h au Grand Palais du Peuple. Cette rencontre intervient environ six mois après leur sommet de Busan en octobre dernier, tandis que la visite de Trump en Chine est sa première depuis environ huit ans et six mois, depuis novembre 2017. L’ordre du jour comprend commerce et droits de douane, Taïwan, Iran, IA et coopération économique. Les marchés surveillent si les discussions sur les droits de douane et les barrières non tarifaires deviendront un facteur pour distinguer secteurs gagnants et perdants. Les accords précis et l’impact sur les actions restent à confirmer après le sommet. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "قمة ترامب وشي في بكين تضع الرسوم وتايوان وإيران تحت أنظار الأسواق",
-        "excerpt": "يلتقي دونالد ترامب وشي جين بينغ في بكين يوم 14 مايو لبحث التجارة والرسوم الجمركية وتايوان وإيران وقضايا رئيسية أخرى.",
-        "body": "وصل الرئيس الأميركي دونالد ترامب إلى بكين مساء 13 مايو، ومن المقرر أن يلتقي الرئيس الصيني شي جين بينغ في الساعة العاشرة صباح 14 مايو في قاعة الشعب الكبرى. يأتي اللقاء بعد نحو ستة أشهر من قمتهما في بوسان في أكتوبر الماضي، كما أن زيارة ترامب إلى الصين هي الأولى له منذ نحو ثماني سنوات وستة أشهر، منذ نوفمبر 2017. وتشمل الأجندة التجارة والرسوم الجمركية وتايوان وإيران والذكاء الاصطناعي والتعاون الاقتصادي. تراقب الأسواق ما إذا كانت مناقشات الرسوم والحواجز غير الجمركية ستصبح عاملا في تحديد القطاعات المستفيدة والمتضررة. ولا يمكن الجزم بالاتفاقات المحددة أو أثرها على الأسهم قبل إعلان النتائج. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "बीजिंग में ट्रंप-शी वार्ता, शुल्क, ताइवान और ईरान पर बाजार की नजर",
-        "excerpt": "डोनाल्ड ट्रंप और शी चिनफिंग 14 मई को बीजिंग में व्यापार, शुल्क, ताइवान, ईरान और अन्य प्रमुख मुद्दों पर बातचीत करेंगे।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप 13 मई की शाम बीजिंग पहुंचे और 14 मई सुबह 10 बजे ग्रेट हॉल ऑफ द पीपल में चीनी राष्ट्रपति शी चिनफिंग से मिलने वाले हैं। यह मुलाकात पिछले अक्टूबर में बुसान शिखर बैठक के करीब छह महीने बाद हो रही है, जबकि ट्रंप की चीन यात्रा नवंबर 2017 के बाद लगभग आठ साल छह महीने में पहली है। एजेंडे में व्यापार और शुल्क, ताइवान, ईरान, एआई और आर्थिक सहयोग शामिल हैं। बाजार देख रहा है कि शुल्क और गैर-शुल्क बाधाओं पर चर्चा अलग-अलग क्षेत्रों के संभावित लाभार्थी और प्रभावित शेयरों का आकलन करने में कारक बनेगी या नहीं। ठोस समझौते और शेयरों पर प्रभाव बैठक के नतीजे आने से पहले तय नहीं माने जा सकते। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Pertemuan Trump-Xi di Beijing, Tarif, Taiwan, dan Iran Jadi Fokus Pasar",
-        "excerpt": "Donald Trump dan Xi Jinping bertemu di Beijing pada 14 Mei untuk membahas perdagangan, tarif, Taiwan, Iran, dan isu utama lainnya.",
-        "body": "Presiden Amerika Serikat Donald Trump tiba di Beijing pada malam 13 Mei dan dijadwalkan bertemu Presiden China Xi Jinping pukul 10.00 pada 14 Mei di Balai Agung Rakyat. Pertemuan ini terjadi sekitar enam bulan setelah KTT Busan pada Oktober lalu, sementara kunjungan Trump ke China merupakan yang pertama dalam sekitar delapan tahun enam bulan sejak November 2017. Agenda mencakup perdagangan dan tarif, Taiwan, Iran, AI, serta kerja sama ekonomi. Pasar mencermati apakah pembahasan tarif dan hambatan nontarif akan menjadi variabel dalam menilai sektor yang berpotensi diuntungkan atau dirugikan. Namun, kesepakatan konkret dan dampaknya pada saham belum dapat dipastikan sebelum hasil pertemuan diumumkan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "a666df73dd09",
-    "slug": "nc-리니지-클래식-흥행에-실적-개선-기대목표가-유진-971413",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T00:03:27.083Z",
-    "updatedAt": "2026-05-14T00:03:27.083Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051451966",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051451966",
-    "titleFingerprint": "1315e685a3f119b412b1b1ee822596330d38d2d4",
-    "dedupKeys": [
-      "a666df73dd09ab9617d52f20dd7864f86ca76293",
-      "1315e685a3f119b412b1b1ee822596330d38d2d4",
-      "c8115d116644342f487f010b597c540a585cd6ab"
-    ],
-    "imageUrl": "/images/articles/a666df73dd09.jpg",
-    "i18n": {
-      "ko": {
-        "title": "NC 목표가 상향, 리니지 클래식 흥행에 실적 개선 기대 부각",
-        "excerpt": "유진투자증권은 한국경제 보도를 통해 NC가 리니지 클래식 흥행에 힘입어 실적 개선 기대가 커졌다며 목표가를 상향했다고 밝혔다.",
-        "body": "유진투자증권은 한국경제 보도에서 NC에 대해 리니지 클래식 흥행이 실적 개선 기대를 높이고 있다며 목표가를 상향했다. 이번 판단의 핵심은 리니지 클래식의 흥행 성과가 회사 실적 전망에 긍정적으로 작용할 수 있다는 점이다. 구체적인 목표가 조정 폭이나 세부 실적 추정치는 원문에 제시된 제목과 요약 범위에서는 확인되지 않았다. 시장에서는 대표 지식재산권(IP) 기반 신작의 성과가 게임사의 매출 흐름과 투자 심리에 영향을 줄 수 있는 요인으로 평가된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "NC Target Price Raised as Lineage Classic Success Lifts Earnings Hopes",
-        "excerpt": "Eugene Investment & Securities said in a Hankyung report that NC’s earnings outlook has improved on the success of Lineage Classic, leading to a target price upgrade.",
-        "body": "Eugene Investment & Securities raised its target price for NC, according to a Hankyung report, citing growing expectations for earnings improvement driven by the strong performance of Lineage Classic. The key point is that the title’s success may support a more positive view of the company’s results. The original headline and summary do not confirm the size of the target price increase or detailed earnings estimates. In the game sector, performance from major intellectual property-based titles can influence revenue trends and investor sentiment. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "NC目標株価引き上げ、リネージュクラシック好調で業績改善期待",
-        "excerpt": "ユージン投資証券は韓国経済の報道で、NCについてリネージュクラシックの好調を背景に業績改善期待が高まったとして目標株価を引き上げた。",
-        "body": "ユージン投資証券は韓国経済の報道で、NCについてリネージュクラシックの好調が業績改善期待を高めているとして、目標株価を引き上げた。判断の中心は、リネージュクラシックの興行成果が同社の業績見通しに前向きに作用し得るという点だ。目標株価の具体的な引き上げ幅や詳細な業績予想は、提示された原文の見出しと要約の範囲では確認できない。ゲーム会社では主要IPを基盤にした新作の成果が売上の流れや投資心理に影響する要因となる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "NC目标价上调，天堂Classic热度带动业绩改善预期",
-        "excerpt": "据韩国经济报道，裕进投资证券表示，NC因天堂Classic表现强劲，业绩改善预期升温，因此上调其目标价。",
-        "body": "据韩国经济报道，裕进投资证券上调了NC的目标价，理由是天堂Classic的热度提升了市场对其业绩改善的期待。此次判断的核心在于，天堂Classic的表现可能对公司业绩前景产生积极影响。原文标题和摘要范围内未确认目标价具体上调幅度或详细业绩预测。对于游戏公司而言，基于核心知识产权的新作表现，通常会成为影响收入走势和投资情绪的重要因素。来源: hankyung.com"
-      },
-      "es": {
-        "title": "NC sube su precio objetivo por Lineage Classic y mejores expectativas",
-        "excerpt": "Eugene Investment & Securities dijo en un reporte de Hankyung que NC mejora sus expectativas de resultados por el éxito de Lineage Classic y elevó su precio objetivo.",
-        "body": "Eugene Investment & Securities elevó el precio objetivo de NC, según un reporte de Hankyung, al señalar que el éxito de Lineage Classic aumenta las expectativas de mejora de resultados. El punto central es que el desempeño del juego puede influir positivamente en la perspectiva financiera de la compañía. El titular y el resumen originales no confirman el tamaño del aumento del precio objetivo ni estimaciones detalladas de resultados. En el sector de videojuegos, el rendimiento de títulos basados en propiedades intelectuales clave puede afectar ingresos y sentimiento inversor. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "NC tem preço-alvo elevado com Lineage Classic e melhora esperada",
-        "excerpt": "A Eugene Investment & Securities afirmou em reportagem da Hankyung que a NC ganhou expectativa de melhora nos resultados com Lineage Classic e elevou o preço-alvo.",
-        "body": "A Eugene Investment & Securities elevou o preço-alvo da NC, segundo reportagem da Hankyung, citando expectativas maiores de melhora nos resultados impulsionadas pelo sucesso de Lineage Classic. O ponto central é que o desempenho do jogo pode contribuir de forma positiva para a visão sobre os resultados da empresa. O título e o resumo originais não confirmam o tamanho do reajuste do preço-alvo nem projeções financeiras detalhadas. No setor de games, títulos baseados em propriedades intelectuais relevantes podem influenciar receitas e percepção dos investidores. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "NC-Kursziel angehoben: Lineage Classic stärkt Ergebnisfantasie",
-        "excerpt": "Eugene Investment & Securities erklärte laut Hankyung, dass NC dank des Erfolgs von Lineage Classic bessere Ergebniserwartungen habe und hob das Kursziel an.",
-        "body": "Eugene Investment & Securities hat laut einem Bericht von Hankyung das Kursziel für NC angehoben. Begründet wurde dies mit wachsenden Erwartungen an eine Ergebnisverbesserung durch den Erfolg von Lineage Classic. Im Mittelpunkt steht, dass die starke Resonanz auf das Spiel die Geschäftsaussichten des Unternehmens positiv beeinflussen könnte. Die ursprüngliche Überschrift und Zusammenfassung nennen weder die genaue Höhe der Kurszielanhebung noch detaillierte Ergebnisprognosen. In der Spielebranche können Erfolge wichtiger IP-basierter Titel Umsatztrends und Anlegerstimmung prägen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "NC voit son objectif relevé grâce au succès de Lineage Classic",
-        "excerpt": "Eugene Investment & Securities a indiqué dans un article de Hankyung relever son objectif sur NC, porté par les attentes de résultats liées à Lineage Classic.",
-        "body": "Eugene Investment & Securities a relevé son objectif de cours sur NC, selon un article de Hankyung, en citant des attentes accrues d’amélioration des résultats grâce au succès de Lineage Classic. Le point essentiel est que la performance du jeu peut soutenir une lecture plus favorable des perspectives de l’entreprise. Le titre et le résumé d’origine ne précisent pas l’ampleur du relèvement ni les estimations détaillées de résultats. Dans le secteur du jeu vidéo, les performances de titres fondés sur des propriétés intellectuelles majeures peuvent peser sur les revenus et le sentiment des investisseurs. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "رفع السعر المستهدف لسهم NC مع نجاح Lineage Classic وتحسن التوقعات",
-        "excerpt": "قالت يوجين للاستثمار والأوراق المالية في تقرير نقلته هانكيونغ إن توقعات أرباح NC تحسنت بدعم نجاح Lineage Classic، ما دفعها لرفع السعر المستهدف.",
-        "body": "رفعت يوجين للاستثمار والأوراق المالية السعر المستهدف لسهم NC، بحسب تقرير هانكيونغ، مشيرة إلى أن نجاح Lineage Classic عزز التوقعات بتحسن الأداء المالي. وتتمحور القراءة حول أن أداء اللعبة قد يدعم نظرة أكثر إيجابية إلى نتائج الشركة. ولا يوضح العنوان والملخص الأصليان مقدار رفع السعر المستهدف أو تقديرات تفصيلية للأرباح. وفي قطاع الألعاب، يمكن لأداء العناوين المبنية على ملكيات فكرية رئيسية أن يؤثر في اتجاهات الإيرادات ومعنويات المستثمرين. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "NC का लक्ष्य मूल्य बढ़ा, Lineage Classic की सफलता से नतीजों की उम्मीद",
-        "excerpt": "Eugene Investment & Securities ने Hankyung की रिपोर्ट में कहा कि Lineage Classic की सफलता से NC के नतीजों में सुधार की उम्मीद बढ़ी है और लक्ष्य मूल्य बढ़ाया गया है।",
-        "body": "Hankyung की रिपोर्ट के अनुसार, Eugene Investment & Securities ने NC का लक्ष्य मूल्य बढ़ाया है। कारण बताया गया कि Lineage Classic की सफलता से कंपनी के नतीजों में सुधार की उम्मीद मजबूत हुई है। इस आकलन का मुख्य आधार यह है कि गेम का प्रदर्शन कंपनी की आय संभावनाओं पर सकारात्मक असर डाल सकता है। मूल शीर्षक और सारांश में लक्ष्य मूल्य बढ़ोतरी की सटीक मात्रा या विस्तृत आय अनुमान उपलब्ध नहीं हैं। गेम क्षेत्र में प्रमुख बौद्धिक संपदा पर आधारित नए शीर्षकों का प्रदर्शन राजस्व रुझान और निवेशक धारणा को प्रभावित कर सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Target Harga NC Naik, Lineage Classic Dorong Harapan Kinerja",
-        "excerpt": "Eugene Investment & Securities dalam laporan Hankyung menyebut ekspektasi perbaikan kinerja NC meningkat berkat Lineage Classic dan menaikkan target harga.",
-        "body": "Eugene Investment & Securities menaikkan target harga NC, menurut laporan Hankyung, karena keberhasilan Lineage Classic meningkatkan ekspektasi perbaikan kinerja. Inti penilaiannya adalah performa game tersebut dapat memberi pengaruh positif terhadap prospek hasil perusahaan. Judul dan ringkasan asli tidak mengonfirmasi besaran kenaikan target harga maupun rincian proyeksi kinerja. Di sektor game, kinerja judul berbasis kekayaan intelektual utama dapat memengaruhi tren pendapatan dan sentimen investor. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "8609c0661146",
-    "slug": "삼양식품-1분기-실적-예상치-웃돌아목표가-kb-348214",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T00:02:26.691Z",
-    "updatedAt": "2026-05-14T00:02:26.692Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051451306",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051451306",
-    "titleFingerprint": "9859e7bfd66f4dc6239c58bb2166b20ba035c5cc",
-    "dedupKeys": [
-      "8609c06611463d3992f27386bb9698c504fbea6e",
-      "9859e7bfd66f4dc6239c58bb2166b20ba035c5cc",
-      "8e7d33da508635983b4b324a0a027d084208933a"
-    ],
-    "imageUrl": "/images/articles/8609c0661146.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼양식품 1분기 실적 예상치 상회, KB 목표가 상향에 주목",
-        "excerpt": "삼양식품의 1분기 실적이 시장 예상치를 웃돌자 KB가 목표가를 상향했다. 구체적 수치보다 실적 기대 상회 여부가 보도 핵심이다.",
-        "body": "삼양식품은 1분기 실적이 예상치를 웃돌았다는 평가를 받으며 KB의 목표가 상향 대상이 됐다. 이번 보도의 핵심은 삼양식품의 분기 실적이 기존 전망보다 양호했고, 이에 따라 KB가 목표가를 올렸다는 점이다. 제공된 원문 요약에는 매출, 영업이익, 순이익, 조정 후 목표가 등 구체적인 수치는 포함되지 않았다. 투자자들은 향후 실적 흐름과 증권사의 추가 평가를 함께 확인할 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Samyang Foods Q1 Earnings Beat Estimates as KB Raises Target Price",
-        "excerpt": "Samyang Foods’ first-quarter results exceeded expectations, prompting KB to raise its target price. The report centers on the earnings beat, without detailed figures provided.",
-        "body": "Samyang Foods was highlighted after its first-quarter earnings came in above expectations, leading KB to raise its target price. The central point of the report is that the company’s quarterly performance was stronger than previously expected and that KB adjusted its target price upward in response. The provided source summary does not include specific figures such as sales, operating profit, net income, or the revised target price level. Investors may need to track future earnings trends and additional brokerage views. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "三養食品、第1四半期実績が予想上回る、KBが目標株価引き上げ",
-        "excerpt": "三養食品の第1四半期実績が市場予想を上回り、KBが目標株価を引き上げた。具体的な数値より、予想超過が報道の中心だ。",
-        "body": "三養食品は、第1四半期の実績が予想を上回ったとの評価を受け、KBによる目標株価引き上げの対象となった。今回の報道の要点は、同社の四半期業績が従来の見通しより良好であり、それを受けてKBが目標株価を上方修正したという点にある。提供された原文要約には、売上高、営業利益、純利益、修正後の目標株価などの具体的な数値は含まれていない。投資家は今後の業績推移と証券会社の追加評価を確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "三养食品一季度业绩超预期，KB上调目标价引发关注",
-        "excerpt": "三养食品第一季度业绩高于预期，KB因此上调目标价。报道重点是业绩超出预期，未提供具体财务数据。",
-        "body": "三养食品因第一季度业绩高于预期而受到关注，KB也随之上调了目标价。本次报道的核心在于，该公司季度表现优于此前预期，KB据此将目标价上调。原文摘要未包含销售额、营业利润、净利润或调整后的目标价等具体数字。因此，投资者仍需继续关注公司后续业绩走势以及证券机构的进一步评价。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Samyang Foods supera previsiones del 1T y KB eleva su precio objetivo",
-        "excerpt": "Samyang Foods superó las previsiones en el primer trimestre y KB elevó su precio objetivo. El foco está en el resultado mejor de lo esperado, sin cifras detalladas.",
-        "body": "Samyang Foods fue destacada después de que sus resultados del primer trimestre superaran las expectativas, lo que llevó a KB a elevar su precio objetivo. El punto central del informe es que el desempeño trimestral de la compañía fue mejor de lo previsto y que KB ajustó al alza su valoración objetivo. El resumen original no incluye cifras concretas de ventas, beneficio operativo, beneficio neto ni el nuevo precio objetivo. Los inversores deberán seguir la evolución de los resultados y nuevas evaluaciones de las firmas de valores. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Samyang Foods supera estimativas no 1º trimestre e KB eleva preço-alvo",
-        "excerpt": "A Samyang Foods registrou resultados do primeiro trimestre acima do esperado, levando o KB a elevar o preço-alvo. O resumo não traz números financeiros detalhados.",
-        "body": "A Samyang Foods ganhou destaque depois que seus resultados do primeiro trimestre ficaram acima das expectativas, levando o KB a elevar o preço-alvo. O ponto principal da notícia é que o desempenho trimestral da empresa foi melhor do que o previsto e que o KB revisou sua meta para cima em resposta. O resumo original não inclui dados específicos de receita, lucro operacional, lucro líquido ou o novo preço-alvo. Investidores devem acompanhar a trajetória dos resultados e novas avaliações de corretoras. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Samyang Foods übertrifft Q1-Erwartungen, KB hebt Kursziel an",
-        "excerpt": "Samyang Foods hat im ersten Quartal die Erwartungen übertroffen, woraufhin KB das Kursziel anhob. Konkrete Finanzkennzahlen wurden in der Zusammenfassung nicht genannt.",
-        "body": "Samyang Foods rückte in den Fokus, nachdem die Ergebnisse des ersten Quartals über den Erwartungen lagen und KB daraufhin das Kursziel anhob. Der Kern der Meldung ist, dass die Quartalsleistung des Unternehmens besser ausfiel als zuvor erwartet und KB seine Zielbewertung entsprechend nach oben anpasste. Die bereitgestellte Zusammenfassung enthält keine konkreten Angaben zu Umsatz, operativem Gewinn, Nettogewinn oder dem neuen Kursziel. Anleger sollten den weiteren Ergebnisverlauf und zusätzliche Einschätzungen von Wertpapierhäusern beobachten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Samyang Foods dépasse les attentes au T1, KB relève son objectif de cours",
-        "excerpt": "Samyang Foods a publié des résultats du premier trimestre supérieurs aux attentes, conduisant KB à relever son objectif de cours. Aucun chiffre détaillé n’est fourni.",
-        "body": "Samyang Foods a été mise en avant après des résultats du premier trimestre supérieurs aux attentes, ce qui a conduit KB à relever son objectif de cours. Le point essentiel du rapport est que la performance trimestrielle de l’entreprise a été meilleure que prévu et que KB a ajusté son objectif à la hausse en conséquence. Le résumé original ne fournit pas de chiffres précis sur les ventes, le résultat opérationnel, le bénéfice net ou le nouvel objectif de cours. Les investisseurs devront suivre l’évolution des résultats et les prochaines analyses des sociétés de courtage. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ساميانغ فودز تتجاوز توقعات الربع الأول وKB يرفع السعر المستهدف",
-        "excerpt": "تجاوزت نتائج ساميانغ فودز للربع الأول التوقعات، ما دفع KB إلى رفع السعر المستهدف. يركز الخبر على تجاوز التوقعات دون أرقام مالية مفصلة.",
-        "body": "برزت ساميانغ فودز بعدما جاءت نتائجها للربع الأول أعلى من التوقعات، ما دفع KB إلى رفع السعر المستهدف. النقطة الرئيسية في التقرير هي أن أداء الشركة الفصلي كان أفضل من التقديرات السابقة، وأن KB عدل السعر المستهدف صعودا بناء على ذلك. لا يتضمن ملخص المصدر الأصلي أرقاما محددة للمبيعات أو الربح التشغيلي أو صافي الربح أو مستوى السعر المستهدف الجديد. لذلك يحتاج المستثمرون إلى متابعة مسار الأرباح والتقييمات الإضافية من شركات الأوراق المالية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Samyang Foods के Q1 नतीजे अनुमान से बेहतर, KB ने लक्ष्य मूल्य बढ़ाया",
-        "excerpt": "Samyang Foods के पहली तिमाही के नतीजे अनुमान से बेहतर रहे, जिसके बाद KB ने लक्ष्य मूल्य बढ़ाया। उपलब्ध सारांश में विस्तृत वित्तीय आंकड़े नहीं दिए गए हैं।",
-        "body": "Samyang Foods चर्चा में आई क्योंकि पहली तिमाही के नतीजे अनुमान से बेहतर रहे और इसके बाद KB ने लक्ष्य मूल्य बढ़ाया। रिपोर्ट का मुख्य बिंदु यह है कि कंपनी का तिमाही प्रदर्शन पहले की अपेक्षाओं से अच्छा रहा और इसी आधार पर KB ने अपना लक्ष्य मूल्य ऊपर किया। उपलब्ध मूल सारांश में बिक्री, परिचालन लाभ, शुद्ध लाभ या संशोधित लक्ष्य मूल्य जैसे विशिष्ट आंकड़े शामिल नहीं हैं। निवेशकों को आगे की आय प्रवृत्ति और प्रतिभूति कंपनियों के अतिरिक्त मूल्यांकन पर नजर रखनी चाहिए। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Samyang Foods Lampaui Estimasi Kinerja Kuartal I, KB Naikkan Target Harga",
-        "excerpt": "Kinerja kuartal pertama Samyang Foods melampaui estimasi, sehingga KB menaikkan target harga. Ringkasan sumber tidak memuat angka keuangan terperinci.",
-        "body": "Samyang Foods menjadi sorotan setelah kinerja kuartal pertamanya dinilai melampaui estimasi, mendorong KB menaikkan target harga. Inti laporan ini adalah bahwa performa kuartalan perusahaan lebih baik dari perkiraan sebelumnya dan KB menyesuaikan target harga ke atas sebagai respons. Ringkasan sumber yang tersedia tidak mencantumkan angka khusus seperti penjualan, laba operasi, laba bersih, atau level target harga yang baru. Investor perlu memantau tren kinerja berikutnya serta penilaian tambahan dari perusahaan sekuritas. Sumber: hankyung.com"
       }
     }
   }
