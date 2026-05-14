@@ -1,5 +1,230 @@
 [
   {
+    "id": "1b9f3a81ba24",
+    "slug": "전력-자급률-향상서부중부발전-공공주도-산업단지-태양광사업-추진-887516",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T13:01:23.653Z",
+    "updatedAt": "2026-05-14T13:01:23.653Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12047463",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12047463",
+    "titleFingerprint": "97b6fbc6895b044bd81ef6d91e73d11394fe5ae8",
+    "dedupKeys": [
+      "1b9f3a81ba240fd522ebbe648d8edd5bc5127fe2",
+      "97b6fbc6895b044bd81ef6d91e73d11394fe5ae8",
+      "6fce1b6d20d76b3ec14ee2ca7ecda28a2456850c"
+    ],
+    "imageUrl": "/images/articles/1b9f3a81ba24.jpg",
+    "i18n": {
+      "ko": {
+        "title": "산업단지 태양광 확대, 서부·중부발전 공공주도 사업 추진",
+        "excerpt": "한국서부발전과 한국중부발전이 한국산업단지공단과 협력해 산업단지 태양광 발전사업을 확대하고 입주기업의 RE100 이행과 전력 자급률 향상을 지원한다.",
+        "body": "한국서부발전과 한국중부발전은 한국산업단지공단과 손잡고 산업단지 태양광 발전사업 확대에 나선다. 이번 협력은 공공이 주도하는 산업단지 재생에너지 보급을 늘려 전력 자급률을 높이고, 산업단지 입주기업의 RE100 이행을 지원하는 데 초점이 맞춰졌다. 세 기관은 산단 내 태양광 발전사업 추진을 통해 재생에너지 공급 기반을 넓히는 방안을 모색한다. 산업단지 기업들은 전력 사용 비중이 큰 만큼, 태양광 보급 확대가 에너지 전환 대응과 전력 조달 안정성에 영향을 줄 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Industrial Park Solar Expansion: West and KOMIPO Push Public-Led Project",
+        "excerpt": "Korea Western Power and Korea Midland Power are partnering with KICOX to expand solar power in industrial parks, support tenant firms’ RE100 efforts, and improve power self-sufficiency.",
+        "body": "Korea Western Power and Korea Midland Power are joining hands with the Korea Industrial Complex Corporation to expand solar power projects in industrial complexes. The cooperation focuses on increasing publicly led renewable energy deployment in industrial parks, improving power self-sufficiency, and supporting RE100 implementation by tenant companies. The three organizations will seek ways to broaden the renewable energy supply base through solar generation projects inside industrial complexes. Because companies in these parks consume significant electricity, wider solar adoption is expected to affect energy transition responses and power procurement stability. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "産業団地の太陽光拡大、韓国西部・中部発電が公共主導で推進",
+        "excerpt": "韓国西部発電と韓国中部発電は韓国産業団地公団と協力し、産業団地の太陽光発電事業を拡大して入居企業のRE100履行と電力自給率向上を支援する。",
+        "body": "韓国西部発電と韓国中部発電は、韓国産業団地公団と連携し、産業団地における太陽光発電事業の拡大に乗り出す。今回の協力は、公共主導で産業団地内の再生可能エネルギー普及を広げ、電力自給率を高めるとともに、入居企業のRE100履行を支援することに重点を置く。3機関は団地内の太陽光発電事業を通じ、再生可能エネルギー供給基盤を広げる方法を模索する。産業団地の企業は電力使用比率が大きいため、太陽光普及の拡大はエネルギー転換対応と電力調達の安定性に影響するとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "产业园区太阳能扩容，韩国西部与中部发电推进公共主导项目",
+        "excerpt": "韩国西部发电和韩国中部发电将与韩国产业园区公团合作，扩大产业园区太阳能发电项目，支持入驻企业履行RE100并提高电力自给率。",
+        "body": "韩国西部发电和韩国中部发电将携手韩国产业园区公团，扩大产业园区太阳能发电项目。此次合作的重点是通过公共主导方式扩大产业园区可再生能源普及，提高电力自给率，并支持园区入驻企业履行RE100。三家机构将通过推进园区内太阳能发电项目，探索扩大可再生能源供应基础的方案。由于产业园区企业用电占比较高，太阳能普及扩大预计将对能源转型应对和电力采购稳定性产生影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Solar en parques industriales: KOWEPO y KOMIPO impulsan proyecto público",
+        "excerpt": "Korea Western Power y Korea Midland Power colaborarán con KICOX para ampliar la energía solar en parques industriales, apoyar el RE100 de empresas residentes y elevar la autosuficiencia eléctrica.",
+        "body": "Korea Western Power y Korea Midland Power se asociarán con la Korea Industrial Complex Corporation para ampliar los proyectos de generación solar en parques industriales. La cooperación se centra en aumentar la implantación de energías renovables liderada por el sector público, mejorar la autosuficiencia eléctrica y apoyar el cumplimiento de RE100 por parte de las empresas instaladas en esos complejos. Las tres entidades buscarán ampliar la base de suministro renovable mediante proyectos solares dentro de los parques. Dado el elevado consumo eléctrico de estas empresas, una mayor adopción solar podría incidir en la transición energética y en la estabilidad del suministro. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Solar em parques industriais: KOWEPO e KOMIPO avançam com projeto público",
+        "excerpt": "A Korea Western Power e a Korea Midland Power vão cooperar com a KICOX para ampliar a geração solar em parques industriais, apoiar o RE100 das empresas instaladas e elevar a autossuficiência elétrica.",
+        "body": "A Korea Western Power e a Korea Midland Power vão se unir à Korea Industrial Complex Corporation para expandir projetos de geração solar em complexos industriais. A cooperação tem como foco ampliar a oferta de energia renovável conduzida pelo setor público, elevar a autossuficiência elétrica e apoiar o cumprimento do RE100 pelas empresas instaladas nos parques. As três instituições buscarão formas de ampliar a base de fornecimento renovável por meio de projetos solares dentro dos complexos. Como essas empresas têm grande consumo de eletricidade, a expansão solar deve influenciar a resposta à transição energética e a estabilidade no suprimento de energia. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Solar in Industrieparks: KOWEPO und KOMIPO treiben öffentliches Projekt voran",
+        "excerpt": "Korea Western Power und Korea Midland Power kooperieren mit KICOX, um Solarstrom in Industrieparks auszubauen, RE100-Ziele ansässiger Firmen zu unterstützen und die Stromautarkie zu erhöhen.",
+        "body": "Korea Western Power und Korea Midland Power arbeiten mit der Korea Industrial Complex Corporation zusammen, um Solarstromprojekte in Industriekomplexen auszuweiten. Die Kooperation zielt darauf, den öffentlich geführten Ausbau erneuerbarer Energien in Industrieparks zu stärken, die Stromautarkie zu erhöhen und ansässige Unternehmen bei der Umsetzung von RE100 zu unterstützen. Die drei Organisationen wollen über Solarprojekte in den Komplexen die Basis für erneuerbare Energieversorgung verbreitern. Da Unternehmen in Industrieparks viel Strom verbrauchen, dürfte der Solarausbau Auswirkungen auf die Energiewende und die Stabilität der Strombeschaffung haben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Solaire industriel : KOWEPO et KOMIPO lancent un projet public élargi",
+        "excerpt": "Korea Western Power et Korea Midland Power s’associent à KICOX pour développer le solaire dans les parcs industriels, soutenir le RE100 des entreprises résidentes et améliorer l’autosuffisance électrique.",
+        "body": "Korea Western Power et Korea Midland Power s’associent à la Korea Industrial Complex Corporation pour élargir les projets de production solaire dans les complexes industriels. Cette coopération vise à accroître le déploiement d’énergies renouvelables piloté par le secteur public, à améliorer l’autosuffisance électrique et à soutenir la mise en œuvre du RE100 par les entreprises installées dans ces zones. Les trois organismes chercheront à élargir la base d’approvisionnement renouvelable grâce à des projets solaires au sein des complexes. Étant donné la forte consommation d’électricité des entreprises industrielles, l’expansion du solaire devrait peser sur la transition énergétique et la stabilité de l’approvisionnement. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "توسيع الطاقة الشمسية بالمجمعات الصناعية عبر مشروع عام لكوريتي ويسترن وميدلاند",
+        "excerpt": "تتعاون كوريا ويسترن باور وكوريا ميدلاند باور مع مؤسسة المجمعات الصناعية الكورية لتوسيع مشاريع الطاقة الشمسية في المجمعات الصناعية ودعم RE100 ورفع الاكتفاء الكهربائي.",
+        "body": "تتعاون كوريا ويسترن باور وكوريا ميدلاند باور مع مؤسسة المجمعات الصناعية الكورية لتوسيع مشاريع توليد الطاقة الشمسية في المجمعات الصناعية. يركز هذا التعاون على زيادة نشر الطاقة المتجددة بقيادة القطاع العام داخل المجمعات، ورفع معدل الاكتفاء الذاتي من الكهرباء، ودعم الشركات المقيمة في تنفيذ التزامات RE100. وستبحث الجهات الثلاث توسيع قاعدة إمدادات الطاقة المتجددة من خلال مشاريع شمسية داخل هذه المناطق. ونظرا إلى ارتفاع استهلاك الكهرباء لدى شركات المجمعات الصناعية، فإن زيادة انتشار الطاقة الشمسية قد تؤثر في الاستجابة لتحول الطاقة واستقرار تأمين الكهرباء. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "औद्योगिक पार्कों में सौर विस्तार, KOWEPO और KOMIPO की सार्वजनिक पहल",
+        "excerpt": "Korea Western Power और Korea Midland Power, KICOX के साथ मिलकर औद्योगिक पार्कों में सौर ऊर्जा परियोजनाएं बढ़ाएंगी, कंपनियों के RE100 पालन और बिजली आत्मनिर्भरता को समर्थन देंगी।",
+        "body": "Korea Western Power और Korea Midland Power औद्योगिक परिसरों में सौर ऊर्जा परियोजनाओं का विस्तार करने के लिए Korea Industrial Complex Corporation के साथ हाथ मिला रही हैं। यह सहयोग सार्वजनिक नेतृत्व में औद्योगिक पार्कों में नवीकरणीय ऊर्जा की आपूर्ति बढ़ाने, बिजली आत्मनिर्भरता सुधारने और वहां स्थित कंपनियों के RE100 पालन को समर्थन देने पर केंद्रित है। तीनों संस्थाएं परिसरों के भीतर सौर ऊर्जा परियोजनाओं के जरिए नवीकरणीय ऊर्जा आपूर्ति आधार को व्यापक बनाने के तरीके तलाशेंगी। चूंकि औद्योगिक पार्कों की कंपनियों में बिजली खपत अधिक होती है, सौर ऊर्जा का विस्तार ऊर्जा संक्रमण की प्रतिक्रिया और बिजली खरीद की स्थिरता को प्रभावित कर सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Surya di Kawasan Industri: KOWEPO dan KOMIPO Dorong Proyek Publik",
+        "excerpt": "Korea Western Power dan Korea Midland Power bekerja sama dengan KICOX untuk memperluas pembangkit surya di kawasan industri, mendukung RE100 perusahaan penghuni, dan meningkatkan kemandirian listrik.",
+        "body": "Korea Western Power dan Korea Midland Power akan bekerja sama dengan Korea Industrial Complex Corporation untuk memperluas proyek pembangkit listrik tenaga surya di kawasan industri. Kerja sama ini berfokus pada peningkatan penyebaran energi terbarukan yang dipimpin sektor publik, perbaikan kemandirian listrik, serta dukungan terhadap pelaksanaan RE100 oleh perusahaan penghuni kawasan. Ketiga lembaga akan mencari cara memperluas basis pasokan energi terbarukan melalui proyek surya di dalam kawasan industri. Karena perusahaan di kawasan industri memiliki konsumsi listrik besar, perluasan surya diperkirakan memengaruhi respons transisi energi dan stabilitas pengadaan listrik. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "73e2279390bc",
+    "slug": "소노캄-서울-잠실-2032년-개관소노인터내셔널-잠실마이스복합단지-호텔-운영-우선협상대상자-577270",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T13:00:20.681Z",
+    "updatedAt": "2026-05-14T13:00:20.681Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12047486",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12047486",
+    "titleFingerprint": "6ddbe4965c94c94378a3c55b6724d6340018097b",
+    "dedupKeys": [
+      "73e2279390bc3187c6cab857e07b1f7d86178472",
+      "6ddbe4965c94c94378a3c55b6724d6340018097b",
+      "c23c2fbffa3cd9b456cf0b32ab8ca768fb1463e6"
+    ],
+    "imageUrl": "/images/articles/73e2279390bc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "소노캄 서울 잠실 2032년 개관 추진, 소노인터내셔널 호텔 운영 우선협상",
+        "excerpt": "소노인터내셔널이 잠실 스포츠·마이스 파크 복합공간 민간투자사업의 288실 규모 5성급 호텔 운영 우선협상대상자로 선정되며 서울시 위탁운영 사업 확대 기반을 마련했다.",
+        "body": "소노인터내셔널이 서울 잠실에서 추진되는 ‘잠실 스포츠·마이스 파크 복합공간 조성 민간투자사업’의 5성급 호텔 운영사 우선협상대상자에 올랐다. 해당 호텔은 ‘소노캄 서울 잠실’로 2032년 개관이 추진되며, 객실 규모는 288실이다. 이번 선정은 서울시 위탁운영 사업 확대를 위한 기반 마련이라는 점에서 의미가 있다. 잠실 마이스 복합단지 내 호텔 운영 자격을 확보하면 소노인터내셔널은 도심 복합개발 사업과 고급 숙박 운영 영역에서 입지를 넓히게 된다. 다만 현재 단계는 우선협상대상자 선정으로, 향후 협상과 절차가 남아 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Sono Calm Seoul Jamsil Planned for 2032 as Sono International Enters Hotel Talks",
+        "excerpt": "Sono International was named the preferred bidder to operate a 288-room five-star hotel in the Jamsil Sports and MICE Park complex project, laying groundwork to expand Seoul entrusted operations.",
+        "body": "Sono International has been selected as the preferred bidder to operate the five-star hotel planned under the Jamsil Sports and MICE Park mixed-use private investment project in Seoul. The hotel, to be named Sono Calm Seoul Jamsil, is being pursued for a 2032 opening and will have 288 rooms. The selection is significant because it creates a basis for expanding entrusted operation projects with the Seoul Metropolitan Government. If it secures the hotel operating role within the Jamsil MICE complex, Sono International would broaden its position in urban mixed-use development and premium lodging operations. At this stage, however, it is a preferred bidder selection, with negotiations and procedures still ahead. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソノカム・ソウル蚕室、2032年開業へ ソノインターナショナルが優先交渉",
+        "excerpt": "ソノインターナショナルは、蚕室スポーツ・MICEパーク複合空間民間投資事業の288室規模5つ星ホテル運営で優先交渉対象者に選ばれた。",
+        "body": "ソノインターナショナルが、ソウル蚕室で進められる「蚕室スポーツ・MICEパーク複合空間造成民間投資事業」の5つ星ホテル運営会社の優先交渉対象者に選定された。同ホテルは「ソノカム・ソウル蚕室」として2032年の開業が推進され、客室数は288室規模となる。今回の選定は、ソウル市の委託運営事業を拡大する基盤づくりという点で意味がある。蚕室MICE複合団地内のホテル運営資格を確保すれば、同社は都心複合開発事業と高級宿泊運営分野で存在感を広げることになる。ただし現段階は優先交渉対象者の選定であり、今後の協議と手続きが残っている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Sono Calm首尔蚕室拟2032年开业，Sono International获酒店优先谈判权",
+        "excerpt": "Sono International被选为蚕室体育·MICE公园综合空间民间投资项目中288间客房五星级酒店运营的优先谈判对象，为扩大首尔市委托运营业务奠定基础。",
+        "body": "Sono International已被选为首尔蚕室推进的“蚕室体育·MICE公园综合空间建设民间投资项目”五星级酒店运营商优先谈判对象。该酒店拟命名为“Sono Calm首尔蚕室”，计划推动于2032年开业，客房规模为288间。此次入选的意义在于为扩大首尔市委托运营业务奠定基础。若取得蚕室MICE综合园区内酒店运营资格，Sono International将在城市综合开发项目和高端住宿运营领域扩大布局。不过，目前阶段仍为优先谈判对象选定，后续谈判和相关程序仍有待推进。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Sono Calm Seoul Jamsil apunta a 2032; Sono International negocia operar el hotel",
+        "excerpt": "Sono International fue elegido postor preferente para operar un hotel cinco estrellas de 288 habitaciones en el proyecto Jamsil Sports and MICE Park, base para ampliar operaciones delegadas de Seúl.",
+        "body": "Sono International fue seleccionado como postor preferente para operar el hotel de cinco estrellas previsto dentro del proyecto privado de inversión Jamsil Sports and MICE Park, en Seúl. El establecimiento, que se impulsará con el nombre Sono Calm Seoul Jamsil, apunta a abrir en 2032 y contará con 288 habitaciones. La selección es relevante porque sienta una base para ampliar los proyectos de operación delegada de la ciudad de Seúl. Si obtiene la operación del hotel dentro del complejo MICE de Jamsil, Sono International reforzará su posición en desarrollos urbanos mixtos y alojamiento de alta gama. Sin embargo, la fase actual es la de postor preferente, por lo que aún quedan negociaciones y procedimientos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Sono Calm Seoul Jamsil mira 2032; Sono International negocia operação do hotel",
+        "excerpt": "A Sono International foi escolhida como proponente preferencial para operar um hotel cinco estrelas de 288 quartos no projeto Jamsil Sports and MICE Park, base para ampliar operações delegadas de Seul.",
+        "body": "A Sono International foi selecionada como proponente preferencial para operar o hotel cinco estrelas planejado no projeto privado de investimento Jamsil Sports and MICE Park, em Seul. O hotel, a ser chamado Sono Calm Seoul Jamsil, tem abertura prevista em desenvolvimento para 2032 e contará com 288 quartos. A escolha é relevante por criar uma base para ampliar projetos de operação delegada da cidade de Seul. Caso assegure a operação do hotel dentro do complexo MICE de Jamsil, a Sono International ampliará sua presença em empreendimentos urbanos de uso misto e em hospedagem premium. Nesta etapa, porém, trata-se de seleção como proponente preferencial, com negociações e procedimentos ainda pendentes. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Sono Calm Seoul Jamsil für 2032 geplant: Sono International in Hotelverhandlungen",
+        "excerpt": "Sono International wurde als bevorzugter Verhandlungspartner für den Betrieb eines Fünf-Sterne-Hotels mit 288 Zimmern im Jamsil Sports and MICE Park ausgewählt und schafft damit eine Basis für mehr Auftragsbetrieb in Seoul.",
+        "body": "Sono International wurde als bevorzugter Verhandlungspartner für den Betrieb des Fünf-Sterne-Hotels ausgewählt, das im Rahmen des privaten Investitionsprojekts Jamsil Sports and MICE Park in Seoul geplant ist. Das Hotel soll unter dem Namen Sono Calm Seoul Jamsil vorangetrieben werden, 2032 eröffnen und 288 Zimmer umfassen. Die Auswahl ist bedeutsam, weil sie eine Grundlage für den Ausbau von durch Seoul übertragenen Betriebsprojekten schafft. Sichert sich Sono International die Hotelbetriebsrolle im Jamsil-MICE-Komplex, würde das Unternehmen seine Position in innerstädtischen Mischnutzungsprojekten und im gehobenen Beherbergungsbetrieb ausbauen. Derzeit handelt es sich jedoch um die Auswahl als bevorzugter Verhandlungspartner; Verhandlungen und Verfahren stehen noch aus. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Sono Calm Seoul Jamsil visé pour 2032, Sono International en négociation hôtelière",
+        "excerpt": "Sono International a été retenu comme négociateur prioritaire pour exploiter un hôtel cinq étoiles de 288 chambres dans le projet Jamsil Sports and MICE Park, base d’expansion des opérations déléguées de Séoul.",
+        "body": "Sono International a été sélectionné comme négociateur prioritaire pour l’exploitation de l’hôtel cinq étoiles prévu dans le projet d’investissement privé Jamsil Sports and MICE Park, à Séoul. L’établissement, nommé Sono Calm Seoul Jamsil, est porté avec une ouverture visée en 2032 et comptera 288 chambres. Cette sélection est significative car elle crée une base pour élargir les projets d’exploitation confiés par la ville de Séoul. Si Sono International obtient le rôle d’exploitant de l’hôtel au sein du complexe MICE de Jamsil, l’entreprise renforcera sa position dans les développements urbains mixtes et l’hébergement haut de gamme. À ce stade, il s’agit toutefois d’une sélection comme négociateur prioritaire, avec des négociations et procédures encore à mener. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سونو كالم سيول جامسيل يستهدف افتتاح 2032 وسونو إنترناشيونال في مفاوضات التشغيل",
+        "excerpt": "اختيرت سونو إنترناشيونال كجهة تفاوض مفضلة لتشغيل فندق خمس نجوم يضم 288 غرفة ضمن مشروع جامسيل للرياضة وMICE، ما يمهد لتوسيع أعمال التشغيل المفوضة من سيول.",
+        "body": "اختيرت سونو إنترناشيونال كجهة تفاوض مفضلة لتشغيل الفندق ذي الخمس نجوم المخطط ضمن مشروع الاستثمار الخاص لإنشاء مجمع جامسيل للرياضة وMICE في سيول. ومن المقرر دفع المشروع تحت اسم سونو كالم سيول جامسيل مع استهداف افتتاحه في عام 2032، وبطاقة تبلغ 288 غرفة. وتكتسب هذه الخطوة أهميتها لأنها تضع أساسا لتوسيع مشاريع التشغيل المفوضة من حكومة مدينة سيول. وإذا حصلت الشركة على دور تشغيل الفندق داخل مجمع جامسيل MICE، فستوسع حضورها في مشاريع التطوير الحضري المختلط وتشغيل مرافق الإقامة الفاخرة. ومع ذلك، فإن المرحلة الحالية تقتصر على اختيار جهة تفاوض مفضلة، ولا تزال المفاوضات والإجراءات اللاحقة قائمة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Sono Calm Seoul Jamsil 2032 में खुलने की योजना, Sono International को होटल वार्ता प्राथमिकता",
+        "excerpt": "Sono International को Jamsil Sports and MICE Park परियोजना में 288 कमरों वाले पांच सितारा होटल के संचालन के लिए पसंदीदा वार्ताकार चुना गया, जिससे सियोल की委託 संचालन परियोजनाओं के विस्तार का आधार बना।",
+        "body": "Sono International को सियोल के जमसिल में 추진 किए जा रहे ‘Jamsil Sports and MICE Park’ मिश्रित परिसर निजी निवेश परियोजना के पांच सितारा होटल संचालन के लिए पसंदीदा वार्ताकार चुना गया है। यह होटल ‘Sono Calm Seoul Jamsil’ नाम से 2032 में खोलने की दिशा में 추진 किया जा रहा है और इसमें 288 कमरे होंगे। यह चयन इसलिए महत्वपूर्ण है क्योंकि इससे सियोल शहर की委託 संचालन परियोजनाओं को बढ़ाने का आधार तैयार होता है। यदि कंपनी जमसिल MICE परिसर में होटल संचालन की भूमिका हासिल करती है, तो वह शहरी मिश्रित विकास और प्रीमियम आवास संचालन क्षेत्र में अपनी स्थिति मजबूत करेगी। हालांकि, मौजूदा चरण केवल पसंदीदा वार्ताकार चयन का है और आगे वार्ता व प्रक्रियाएं बाकी हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Sono Calm Seoul Jamsil Ditargetkan Buka 2032, Sono International Masuk Negosiasi Hotel",
+        "excerpt": "Sono International terpilih sebagai pihak negosiasi prioritas untuk mengoperasikan hotel bintang lima 288 kamar dalam proyek Jamsil Sports and MICE Park, membuka dasar perluasan operasi titipan Seoul.",
+        "body": "Sono International terpilih sebagai pihak negosiasi prioritas untuk mengoperasikan hotel bintang lima yang direncanakan dalam proyek investasi swasta Jamsil Sports and MICE Park di Seoul. Hotel tersebut akan dikembangkan dengan nama Sono Calm Seoul Jamsil, ditargetkan dibuka pada 2032, dan memiliki 288 kamar. Pemilihan ini bermakna karena menjadi dasar bagi perluasan proyek operasi yang dipercayakan oleh Pemerintah Metropolitan Seoul. Jika memperoleh peran operator hotel di kompleks MICE Jamsil, Sono International akan memperluas posisinya dalam pengembangan perkotaan terpadu dan operasi akomodasi premium. Namun, tahap saat ini masih berupa pemilihan pihak negosiasi prioritas, sehingga negosiasi dan prosedur lanjutan masih tersisa. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "364c20dc3686",
+    "slug": "공급망-동맥경화-뚫는다dhl-중량-화물-특송-승부수-315778",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T12:59:12.163Z",
+    "updatedAt": "2026-05-14T12:59:12.164Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12047542",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12047542",
+    "titleFingerprint": "56a7c9091faac50270dfa871a48465fc680115ed",
+    "dedupKeys": [
+      "364c20dc368640d797d8ba90b847777716577725",
+      "56a7c9091faac50270dfa871a48465fc680115ed",
+      "783115baa9eabd9ea9a1684e7f7c90a20c9d94eb"
+    ],
+    "imageUrl": "/images/articles/364c20dc3686.png",
+    "i18n": {
+      "ko": {
+        "title": "DHL 중량 화물 특송 강화, 3000kg 운송으로 공급망 병목 정조준",
+        "excerpt": "DHL 익스프레스가 단일 화물 1000kg, 건당 최대 3000kg 운송이 가능한 중량 화물 특송을 강화하고 전담 헬프데스크와 실시간 모니터링으로 자동차·제약 수요 공략에 나섰다.",
+        "body": "DHL 익스프레스가 중량 화물 특송 역량을 강화하며 공급망 병목 해소에 승부수를 던졌다. 이번 서비스는 단일 화물 1000kg, 건당 최대 3000kg까지 운송할 수 있는 체계를 앞세운다. 회사는 중량 화물 운송 수요에 대응하기 위해 전담 헬프데스크를 신설하고, 실시간 모니터링을 통해 운송 과정을 관리한다고 밝혔다. 배경에는 자동차와 제약 등 고부가 산업에서 대형·고중량 화물을 빠르게 보내려는 수요가 있다. DHL은 중량 화물 특송을 통해 공급망의 정체 구간을 줄이고 긴급 물류 대응력을 높이는 데 초점을 맞춘다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "DHL Strengthens Heavy-Freight Express, Targets Supply Chain Bottlenecks",
+        "excerpt": "DHL Express is expanding heavy-freight express service for single shipments up to 1,000 kg and 3,000 kg per order, adding a dedicated help desk and real-time monitoring for auto and pharma demand.",
+        "body": "DHL Express is strengthening its heavy-freight express capabilities as a move to ease supply chain bottlenecks. The service is built to handle a single freight item of up to 1,000 kg and up to 3,000 kg per order. The company said it has created a dedicated help desk to respond to demand for heavy-cargo transport and will manage shipping processes through real-time monitoring. The move comes as high-value industries such as automotive and pharmaceuticals seek faster delivery of large and heavy freight. DHL is focusing on reducing stalled points in supply chains and improving urgent logistics response through heavy-freight express. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "DHLが重量貨物特急を強化、3000kg輸送で供給網の停滞に対応",
+        "excerpt": "DHLエクスプレスは単一貨物1000kg、1件最大3000kgの重量貨物特急を強化し、専任ヘルプデスクとリアルタイム監視で自動車・製薬需要を狙う。",
+        "body": "DHLエクスプレスは重量貨物特急の対応力を強化し、サプライチェーンの停滞解消に向けた一手を打ち出した。今回のサービスは、単一貨物1000kg、1件当たり最大3000kgまで輸送できる体制を前面に出す。同社は重量貨物輸送の需要に対応するため専任ヘルプデスクを新設し、リアルタイムモニタリングで輸送過程を管理すると明らかにした。背景には、自動車や製薬など高付加価値産業で大型・高重量貨物を迅速に送る需要がある。DHLは重量貨物特急を通じ、供給網の滞留区間を減らし緊急物流対応力を高めることに焦点を当てる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "DHL加码重货快递，最高3000公斤运输瞄准供应链堵点",
+        "excerpt": "DHL Express强化重货快递服务，支持单件货物1000公斤、每票最高3000公斤运输，并设专属服务台与实时监控，面向汽车、制药等高附加值产业需求。",
+        "body": "DHL Express正在强化重货快递能力，以应对供应链瓶颈。该服务主打单件货物最高1000公斤、每票最高3000公斤的运输体系。公司表示，为满足重货运输需求，已新设专属服务台，并将通过实时监控管理运输流程。其背景是汽车、制药等高附加值产业对大型、高重量货物快速运输的需求。DHL将通过重货快递减少供应链中的停滞环节，并提升紧急物流响应能力。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "DHL refuerza el exprés de carga pesada y apunta a cuellos de botella",
+        "excerpt": "DHL Express amplía su servicio exprés de carga pesada para piezas de 1.000 kg y hasta 3.000 kg por envío, con mesa de ayuda dedicada y monitoreo en tiempo real para automoción y farmacéutica.",
+        "body": "DHL Express está reforzando su capacidad de transporte exprés de carga pesada como una apuesta para aliviar cuellos de botella en la cadena de suministro. El servicio permite mover una pieza individual de hasta 1.000 kg y hasta 3.000 kg por envío. La compañía señaló que creó una mesa de ayuda dedicada para responder a la demanda de transporte de carga pesada y que gestionará el proceso con monitoreo en tiempo real. El contexto es la demanda de industrias de alto valor, como automoción y farmacéutica, que necesitan enviar cargas grandes y pesadas con rapidez. DHL busca reducir tramos de congestión en la cadena de suministro y mejorar la respuesta logística urgente. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "DHL reforça expresso de carga pesada e mira gargalos na cadeia logística",
+        "excerpt": "A DHL Express amplia o serviço expresso de carga pesada para itens de 1.000 kg e até 3.000 kg por remessa, com help desk dedicado e monitoramento em tempo real para os setores automotivo e farmacêutico.",
+        "body": "A DHL Express está reforçando sua capacidade de entrega expressa de cargas pesadas como aposta para aliviar gargalos na cadeia de suprimentos. O serviço permite transportar uma carga individual de até 1.000 kg e até 3.000 kg por remessa. A empresa informou que criou um help desk dedicado para atender à demanda por transporte de cargas pesadas e que administrará o processo por meio de monitoramento em tempo real. O movimento ocorre diante da necessidade de indústrias de alto valor, como automotiva e farmacêutica, de enviar cargas grandes e pesadas com rapidez. A DHL concentra-se em reduzir pontos de retenção na cadeia e elevar a resposta logística urgente. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "DHL stärkt Expressdienst für Schwerfracht und zielt auf Lieferkettenengpässe",
+        "excerpt": "DHL Express baut den Schwerfracht-Express aus: Einzelstücke bis 1.000 kg und Sendungen bis 3.000 kg, unterstützt durch einen eigenen Helpdesk und Echtzeitüberwachung für Auto- und Pharmabranche.",
+        "body": "DHL Express stärkt seine Kapazitäten im Expressversand von Schwerfracht, um Engpässe in Lieferketten zu verringern. Der Service ist auf einzelne Frachtstücke bis 1.000 kg und auf bis zu 3.000 kg je Auftrag ausgelegt. Das Unternehmen teilte mit, dass es für die Nachfrage nach Schwerfrachttransporten einen eigenen Helpdesk eingerichtet hat und den Transportprozess per Echtzeitüberwachung steuern will. Hintergrund ist der Bedarf hochwertiger Branchen wie Automobil und Pharma, große und schwere Güter schnell zu versenden. DHL richtet den Schwerfracht-Express darauf aus, stockende Abschnitte in Lieferketten zu reduzieren und die Reaktionsfähigkeit bei dringender Logistik zu erhöhen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "DHL renforce l’express fret lourd et vise les blocages de la chaîne logistique",
+        "excerpt": "DHL Express développe son service express de fret lourd, avec 1 000 kg par colis et jusqu’à 3 000 kg par envoi, un helpdesk dédié et un suivi en temps réel pour l’automobile et la pharmacie.",
+        "body": "DHL Express renforce ses capacités d’expédition express de fret lourd afin de répondre aux blocages de la chaîne d’approvisionnement. Le service permet de transporter une pièce unique jusqu’à 1 000 kg et jusqu’à 3 000 kg par envoi. L’entreprise a indiqué avoir créé un helpdesk dédié pour répondre à la demande de transport de fret lourd et gérer les opérations grâce à un suivi en temps réel. Cette initiative répond aux besoins d’industries à forte valeur ajoutée, comme l’automobile et la pharmacie, qui cherchent à expédier rapidement des cargaisons volumineuses et lourdes. DHL entend réduire les points de congestion de la chaîne logistique et améliorer la réponse aux urgences. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "DHL تعزز الشحن السريع الثقيل حتى 3000 كجم لاستهداف اختناقات الإمداد",
+        "excerpt": "تعزز DHL Express خدمة الشحن السريع للبضائع الثقيلة، مع نقل شحنة مفردة حتى 1000 كجم وحتى 3000 كجم لكل طلب، عبر مكتب مساعدة مخصص ومراقبة فورية لقطاعات السيارات والأدوية.",
+        "body": "تعزز DHL Express قدراتها في الشحن السريع للبضائع الثقيلة كخطوة لمعالجة اختناقات سلاسل الإمداد. ويتيح النظام نقل شحنة مفردة يصل وزنها إلى 1000 كجم، وبحد أقصى 3000 كجم لكل طلب. وقالت الشركة إنها أنشأت مكتب مساعدة مخصصا للاستجابة لطلب نقل الشحنات الثقيلة، وستدير عملية النقل عبر المراقبة في الوقت الحقيقي. وتأتي هذه الخطوة في ظل طلب من صناعات عالية القيمة مثل السيارات والأدوية على إرسال شحنات كبيرة وثقيلة بسرعة. وتركز DHL من خلال هذه الخدمة على تقليل نقاط التعطل في سلاسل الإمداد ورفع قدرة الاستجابة اللوجستية العاجلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "DHL ने भारी माल एक्सप्रेस सेवा बढ़ाई, 3000 किग्रा ढुलाई से सप्लाई चेन पर फोकस",
+        "excerpt": "DHL Express ने 1000 किग्रा के एकल माल और प्रति ऑर्डर 3000 किग्रा तक की भारी माल एक्सप्रेस सेवा को मजबूत किया है, जिसमें समर्पित हेल्पडेस्क और रियल-टाइम मॉनिटरिंग शामिल हैं।",
+        "body": "DHL Express भारी माल की एक्सप्रेस ढुलाई क्षमता मजबूत कर रही है, ताकि सप्लाई चेन में रुकावटों को कम किया जा सके। यह सेवा एकल माल के लिए 1000 किग्रा और प्रति ऑर्डर अधिकतम 3000 किग्रा तक परिवहन की व्यवस्था पर आधारित है। कंपनी ने कहा कि भारी माल परिवहन की मांग संभालने के लिए समर्पित हेल्पडेस्क बनाया गया है और रियल-टाइम मॉनिटरिंग से ढुलाई प्रक्रिया देखी जाएगी। इसके पीछे ऑटोमोबाइल और फार्मा जैसे उच्च मूल्य वाले उद्योगों में बड़े और भारी माल को तेजी से भेजने की जरूरत है। DHL इस सेवा के जरिए सप्लाई चेन के ठहराव वाले हिस्सों को घटाने और आपात लॉजिस्टिक्स प्रतिक्रिया बढ़ाने पर ध्यान दे रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "DHL Perkuat Ekspres Kargo Berat, Bidik Hambatan Rantai Pasok",
+        "excerpt": "DHL Express memperkuat layanan ekspres kargo berat untuk satu barang hingga 1.000 kg dan maksimal 3.000 kg per pengiriman, dengan help desk khusus dan pemantauan real-time bagi sektor otomotif dan farmasi.",
+        "body": "DHL Express memperkuat kemampuan ekspres kargo berat sebagai langkah untuk mengatasi hambatan rantai pasok. Layanan ini mengedepankan sistem pengiriman untuk satu barang hingga 1.000 kg dan maksimal 3.000 kg per pesanan. Perusahaan menyatakan telah membentuk help desk khusus untuk merespons kebutuhan transportasi kargo berat dan akan mengelola proses pengiriman melalui pemantauan real-time. Latar belakangnya adalah permintaan dari industri bernilai tambah tinggi seperti otomotif dan farmasi untuk mengirim barang besar dan berat dengan cepat. DHL berfokus mengurangi titik kemacetan dalam rantai pasok dan meningkatkan kemampuan respons logistik mendesak melalui ekspres kargo berat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "6cd70e856ba3",
     "slug": "한국-창작자-입맛-잡는다크리에이터-취향-저격할-캐논-신제품은-885060",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "KSP Catat Laba Operasi Kuartal I 4 Miliar Won, Ekspor Komponen Mesin Kapal Naik",
         "excerpt": "KSP pada 13 Mei melaporkan pendapatan konsolidasi kuartal I sebesar 25 miliar won dan laba operasi 4 miliar won, didukung kenaikan ekspor komponen mesin kapal besar.",
         "body": "KSP pada 13 Mei menyatakan bahwa pendapatan konsolidasi kuartal pertama mencapai 25 miliar won dan laba operasi sebesar 4 miliar won. Laba operasi naik 43% dibandingkan periode yang sama tahun sebelumnya. Perusahaan ini memproduksi komponen mesin kapal, dan perbaikan kinerja didorong oleh peningkatan ekspor produk utamanya, yakni komponen mesin kapal besar. Nilai ekspor segmen tersebut bertambah sekitar 3,5 miliar won secara tahunan, sehingga berkontribusi pada pertumbuhan penjualan dan laba. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "42b21eee157d",
-    "slug": "코스콤우리투자증권-토큰증권-플랫폼-사업-협력-mou-879567",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T20:25:09.659Z",
-    "updatedAt": "2026-05-13T20:25:09.660Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051343216",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051343216",
-    "titleFingerprint": "df0a43a6653d3edceed090d23eb6244b561c36ad",
-    "dedupKeys": [
-      "42b21eee157d70cc53c249d14072793f5a5ea9b9",
-      "df0a43a6653d3edceed090d23eb6244b561c36ad",
-      "5c7fe257c986295e47a9d22879b186da646afdb9"
-    ],
-    "imageUrl": "/images/articles/42b21eee157d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스콤·우리투자증권, 토큰증권 플랫폼 사업 협력 MOU 체결",
-        "excerpt": "코스콤과 우리투자증권이 토큰증권 플랫폼 사업 협력을 위한 업무협약을 맺고 관련 플랫폼 사업 추진을 위한 협력 기반을 마련했다고 hankyung.com이 보도했다.",
-        "body": "코스콤과 우리투자증권이 토큰증권 플랫폼 사업 협력을 위한 업무협약(MOU)을 체결했다. hankyung.com 보도에 따르면 양사는 이번 협약을 통해 토큰증권 플랫폼 사업에서 협력하기로 했다. 토큰증권은 실물·금융 자산을 디지털 방식으로 발행·유통하는 영역과 맞닿아 있어 증권업계와 금융 인프라 기업의 협력 필요성이 커지고 있다. 이번 MOU는 코스콤의 금융 IT 인프라 역량과 우리투자증권의 증권 비즈니스 기반을 토대로 플랫폼 사업 협력의 출발점을 마련했다는 점에서 주목된다. 향후 구체적인 사업 추진 방식과 서비스 범위는 양사의 후속 논의에 따라 결정될 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Koscom and Woori Investment Sign MOU on Token Securities Platform",
-        "excerpt": "Koscom and Woori Investment & Securities signed an MOU to cooperate on a token securities platform business, laying groundwork for joint platform initiatives, hankyung.com reported.",
-        "body": "Koscom and Woori Investment & Securities have signed a memorandum of understanding to cooperate on a token securities platform business. According to hankyung.com, the two companies agreed through the MOU to work together in the token securities platform field. Token securities are linked to the digital issuance and distribution of real and financial assets, increasing the need for cooperation between securities firms and financial infrastructure companies. The agreement is notable as a starting point for combining Koscom’s financial IT infrastructure capabilities with Woori Investment & Securities’ securities business base. Specific business plans and service scope are expected to be decided through follow-up discussions between the two companies. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "コスコムとウリ投資証券、トークン証券プラットフォームでMOU",
-        "excerpt": "コスコムとウリ投資証券がトークン証券プラットフォーム事業で協力するための業務協約を締結し、共同事業推進の基盤を整えたとhankyung.comが報じた。",
-        "body": "コスコムとウリ投資証券は、トークン証券プラットフォーム事業で協力するための業務協約（MOU）を締結した。hankyung.comによると、両社は今回の協約を通じて、トークン証券プラットフォーム事業で協力することにした。トークン証券は実物資産や金融資産をデジタル方式で発行・流通させる分野と関係しており、証券業界と金融インフラ企業の協力の必要性が高まっている。今回のMOUは、コスコムの金融ITインフラ能力とウリ投資証券の証券ビジネス基盤をもとに、プラットフォーム事業協力の出発点を設けた点で注目される。具体的な事業推進方法とサービス範囲は、今後の協議で決まる見通しだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Koscom与友利投资证券签署代币证券平台合作MOU",
-        "excerpt": "据hankyung.com报道，Koscom与友利投资证券签署业务谅解备忘录，将在代币证券平台业务上展开合作，并为相关平台项目推进奠定基础。",
-        "body": "Koscom与友利投资证券签署了关于代币证券平台业务合作的谅解备忘录（MOU）。据hankyung.com报道，双方将通过此次协议在代币证券平台业务领域开展合作。代币证券与实物资产和金融资产的数字化发行、流通相关，因此证券行业与金融基础设施企业之间的合作需求正在增加。此次MOU的意义在于，以Koscom的金融IT基础设施能力和友利投资证券的证券业务基础为依托，为平台业务合作设立了起点。未来具体的业务推进方式和服务范围，预计将根据双方后续讨论决定。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Koscom y Woori Investment firman MOU para plataforma de valores tokenizados",
-        "excerpt": "Koscom y Woori Investment & Securities firmaron un MOU para cooperar en una plataforma de valores tokenizados, sentando bases para el negocio conjunto, informó hankyung.com.",
-        "body": "Koscom y Woori Investment & Securities firmaron un memorando de entendimiento para cooperar en el negocio de una plataforma de valores tokenizados. Según hankyung.com, ambas compañías acordaron mediante este MOU colaborar en el área de plataformas para valores tokenizados. Estos valores están vinculados con la emisión y distribución digital de activos reales y financieros, lo que eleva la necesidad de cooperación entre firmas de valores y empresas de infraestructura financiera. El acuerdo destaca porque crea un punto de partida para combinar la capacidad de infraestructura financiera de TI de Koscom con la base de negocio bursátil de Woori Investment & Securities. Los métodos concretos de ejecución y el alcance del servicio se decidirán en conversaciones posteriores. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Koscom e Woori Investment assinam MOU para plataforma de títulos tokenizados",
-        "excerpt": "Koscom e Woori Investment & Securities assinaram um MOU para cooperar em uma plataforma de títulos tokenizados, criando base para iniciativas conjuntas, informou hankyung.com.",
-        "body": "A Koscom e a Woori Investment & Securities assinaram um memorando de entendimento para cooperar no negócio de uma plataforma de títulos tokenizados. Segundo o hankyung.com, as duas empresas concordaram, por meio do MOU, em colaborar nesse segmento. Títulos tokenizados estão ligados à emissão e circulação digital de ativos reais e financeiros, aumentando a necessidade de cooperação entre corretoras e empresas de infraestrutura financeira. O acordo chama atenção por criar um ponto de partida para unir a capacidade de infraestrutura financeira de TI da Koscom à base de negócios de valores mobiliários da Woori Investment & Securities. A forma concreta de execução e o escopo dos serviços deverão ser definidos em discussões posteriores. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Koscom und Woori Investment schließen MOU für Token-Wertpapierplattform",
-        "excerpt": "Koscom und Woori Investment & Securities haben ein MOU zur Zusammenarbeit im Geschäft mit einer Token-Wertpapierplattform unterzeichnet, berichtete hankyung.com.",
-        "body": "Koscom und Woori Investment & Securities haben eine Absichtserklärung zur Zusammenarbeit im Geschäft mit einer Token-Wertpapierplattform unterzeichnet. Laut hankyung.com vereinbarten beide Unternehmen mit dem MOU, in diesem Plattformbereich zusammenzuarbeiten. Token-Wertpapiere stehen mit der digitalen Ausgabe und dem Vertrieb realer und finanzieller Vermögenswerte in Verbindung, wodurch der Kooperationsbedarf zwischen Wertpapierhäusern und Finanzinfrastrukturunternehmen zunimmt. Die Vereinbarung ist bemerkenswert, weil sie einen Ausgangspunkt schafft, um Koscoms Finanz-IT-Infrastrukturkompetenz mit der Wertpapiergeschäftsbasis von Woori Investment & Securities zu verbinden. Konkrete Umsetzungswege und der Leistungsumfang sollen in weiteren Gesprächen festgelegt werden. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Koscom et Woori Investment signent un MOU sur une plateforme de titres tokenisés",
-        "excerpt": "Koscom et Woori Investment & Securities ont signé un MOU pour coopérer dans une plateforme de titres tokenisés, posant les bases d’un projet commun, selon hankyung.com.",
-        "body": "Koscom et Woori Investment & Securities ont signé un protocole d’accord pour coopérer dans le domaine d’une plateforme de titres tokenisés. Selon hankyung.com, les deux entreprises ont convenu, par cet accord, de travailler ensemble sur ce segment. Les titres tokenisés sont liés à l’émission et à la circulation numériques d’actifs réels et financiers, ce qui accroît le besoin de coopération entre sociétés de courtage et entreprises d’infrastructure financière. Ce MOU retient l’attention car il établit un point de départ pour associer les capacités d’infrastructure informatique financière de Koscom à la base d’activité titres de Woori Investment & Securities. Les modalités concrètes et le périmètre des services devraient être déterminés lors de discussions ultérieures. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كوسكوم ووري للاستثمار توقعان مذكرة تفاهم لمنصة أوراق مالية رمزية",
-        "excerpt": "وقعت كوسكوم ووري للاستثمار والأوراق المالية مذكرة تفاهم للتعاون في أعمال منصة الأوراق المالية الرمزية، بما يمهد لمشروعات منصة مشتركة، وفق hankyung.com.",
-        "body": "وقعت كوسكوم ووري للاستثمار والأوراق المالية مذكرة تفاهم للتعاون في أعمال منصة الأوراق المالية الرمزية. وبحسب hankyung.com، اتفقت الشركتان من خلال هذه المذكرة على التعاون في مجال منصة الأوراق المالية الرمزية. وترتبط هذه الأوراق بإصدار وتداول الأصول الحقيقية والمالية رقميا، ما يزيد الحاجة إلى التعاون بين شركات الأوراق المالية وشركات البنية التحتية المالية. وتكتسب المذكرة أهمية لأنها تمثل نقطة انطلاق للجمع بين قدرات كوسكوم في البنية التحتية لتقنية المعلومات المالية وقاعدة أعمال الأوراق المالية لدى ووري للاستثمار والأوراق المالية. ومن المتوقع تحديد طريقة التنفيذ ونطاق الخدمات عبر مناقشات لاحقة بين الطرفين. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Koscom और Woori Investment ने टोकन सिक्योरिटीज प्लेटफॉर्म पर MOU किया",
-        "excerpt": "Koscom और Woori Investment & Securities ने टोकन सिक्योरिटीज प्लेटफॉर्म व्यवसाय में सहयोग के लिए MOU किया, जिससे संयुक्त प्लेटफॉर्म पहल की आधारशिला रखी गई, hankyung.com ने बताया।",
-        "body": "Koscom और Woori Investment & Securities ने टोकन सिक्योरिटीज प्लेटफॉर्म व्यवसाय में सहयोग के लिए समझौता ज्ञापन पर हस्ताक्षर किए हैं। hankyung.com के अनुसार, दोनों कंपनियों ने इस MOU के जरिए टोकन सिक्योरिटीज प्लेटफॉर्म क्षेत्र में मिलकर काम करने पर सहमति जताई। टोकन सिक्योरिटीज वास्तविक और वित्तीय परिसंपत्तियों के डिजिटल निर्गम और वितरण से जुड़ी हैं, इसलिए सिक्योरिटीज कंपनियों और वित्तीय इंफ्रास्ट्रक्चर कंपनियों के बीच सहयोग की जरूरत बढ़ रही है। यह समझौता Koscom की वित्तीय IT इंफ्रास्ट्रक्चर क्षमता और Woori Investment & Securities के सिक्योरिटीज कारोबार आधार को जोड़ते हुए प्लेटफॉर्म सहयोग की शुरुआत के रूप में देखा जा रहा है। ठोस कार्यान्वयन और सेवा दायरा आगे की चर्चाओं में तय होगा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Koscom dan Woori Investment Teken MOU Platform Sekuritas Token",
-        "excerpt": "Koscom dan Woori Investment & Securities menandatangani MOU kerja sama bisnis platform sekuritas token, membuka dasar bagi pengembangan platform bersama, lapor hankyung.com.",
-        "body": "Koscom dan Woori Investment & Securities menandatangani nota kesepahaman untuk bekerja sama dalam bisnis platform sekuritas token. Menurut hankyung.com, kedua perusahaan melalui MOU ini sepakat berkolaborasi di bidang platform sekuritas token. Sekuritas token berkaitan dengan penerbitan dan distribusi digital atas aset riil dan aset keuangan, sehingga kebutuhan kerja sama antara perusahaan sekuritas dan perusahaan infrastruktur keuangan meningkat. MOU ini menjadi perhatian karena menjadi titik awal untuk menggabungkan kemampuan infrastruktur TI keuangan Koscom dengan basis bisnis sekuritas Woori Investment & Securities. Cara pelaksanaan bisnis dan cakupan layanan secara konkret diperkirakan akan ditentukan melalui pembahasan lanjutan kedua pihak. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "2f1bd15f1ee1",
-    "slug": "정은보-부동산-대신-주식사는-시대구조적-혁신-나설-것-kiw-2026-845058",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T20:24:10.546Z",
-    "updatedAt": "2026-05-13T20:24:10.546Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605134121i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605134121i",
-    "titleFingerprint": "45bdba3665fac45ed9f89dd3c7fb87e0678be909",
-    "dedupKeys": [
-      "2f1bd15f1ee13157f71036d120629932786bf697",
-      "45bdba3665fac45ed9f89dd3c7fb87e0678be909",
-      "4c93fae704d18bf53f100b3a23fdafc296a7470a"
-    ],
-    "imageUrl": "/images/articles/2f1bd15f1ee1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "정은보 한국거래소 이사장, “부동산 대신 주식” 시대와 구조혁신 강조",
-        "excerpt": "정은보 한국거래소 이사장은 KIW 2026에서 부동산 대신 주식에 투자하는 시대를 언급하며 한국 자본시장의 구조적 혁신 필요성을 강조했다.",
-        "body": "정은보 한국거래소 이사장은 2026년 5월 12~15일 서울 신라호텔에서 열린 Korea Investment Week 2026(KIW 2026)에서 “부동산 대신 주식 사는 시대”를 언급하며 자본시장 구조적 혁신에 나서겠다고 밝혔다. KIW 2026은 한국경제신문이 주최하고 삼성증권이 주관한 글로벌 투자 콘퍼런스로, 혁신기업 CEO와 주식시장 전문가, 국내외 기관투자자·개인투자자가 참여하는 행사다. 행사 주제는 ‘증시 대도약의 시대, 새로운 투자 기회가 온다’와 ‘Beyond re-rating: Redefining the Global Value Chain’이다. 정 이사장의 발언은 부동산 중심 투자 관행에서 주식시장으로 관심을 넓히는 자본시장 개편 논의와 맞물린다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KRX Chairman Jeong Eun-bo Highlights Shift From Property to Stocks at KIW 2026",
-        "excerpt": "At KIW 2026, Korea Exchange Chairman Jeong Eun-bo said an era of buying stocks instead of real estate is emerging and stressed structural innovation in Korea’s capital market.",
-        "body": "Korea Exchange Chairman Jeong Eun-bo said at Korea Investment Week 2026, held from May 12 to 15, 2026, at The Shilla Seoul, that Korea is entering an era of “buying stocks instead of real estate” and that structural innovation in the capital market is needed. KIW 2026 was a global investment conference hosted by The Korea Economic Daily and organized by Samsung Securities, bringing together innovative company CEOs, stock market experts, domestic and foreign institutional investors, and retail investors. Its themes were “A new era of stock market leap, new investment opportunities are coming” and “Beyond re-rating: Redefining the Global Value Chain.” Jeong’s remarks align with discussions on broadening investor attention from real estate-centered habits toward the stock market. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "鄭恩甫韓国取引所理事長、KIW 2026で不動産から株式への時代を強調",
-        "excerpt": "鄭恩甫・韓国取引所理事長はKIW 2026で、不動産の代わりに株式を買う時代に言及し、韓国資本市場の構造的革新の必要性を強調した。",
-        "body": "韓国取引所の鄭恩甫理事長は、2026年5月12日から15日までソウル新羅ホテルで開かれたKorea Investment Week 2026（KIW 2026）で、「不動産の代わりに株式を買う時代」に言及し、資本市場の構造的革新に取り組む考えを示した。KIW 2026は韓国経済新聞が主催し、サムスン証券が主管したグローバル投資カンファレンスで、革新企業のCEO、株式市場の専門家、国内外の機関投資家、個人投資家が参加する行事だ。テーマは「株式市場大躍進の時代、新たな投資機会が来る」と「Beyond re-rating: Redefining the Global Value Chain」。鄭理事長の発言は、不動産中心の投資慣行から株式市場へ関心を広げる資本市場改革の議論と重なる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "韩国交易所理事长郑恩甫在KIW 2026强调从房地产转向股票的时代",
-        "excerpt": "韩国交易所理事长郑恩甫在KIW 2026表示，正在进入“买股票而非房地产”的时代，并强调韩国资本市场需要结构性创新。",
-        "body": "韩国交易所理事长郑恩甫在2026年5月12日至15日于首尔新罗酒店举行的Korea Investment Week 2026（KIW 2026）上提到“买股票而非房地产的时代”，并表示将推动资本市场结构性创新。KIW 2026是由韩国经济新闻主办、三星证券承办的全球投资会议，参与者包括创新企业CEO、股票市场专家、韩国国内外机构投资者和个人投资者。会议主题为“股市大跃进时代，新的投资机会到来”和“Beyond re-rating: Redefining the Global Value Chain”。郑恩甫的发言与资本市场改革讨论相呼应，即把投资者关注点从以房地产为中心的习惯扩展到股票市场。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Jeong Eun-bo destaca en KIW 2026 la era de invertir en acciones, no en inmuebles",
-        "excerpt": "En KIW 2026, el presidente de Korea Exchange, Jeong Eun-bo, habló de una etapa de comprar acciones en vez de bienes raíces y subrayó la innovación estructural del mercado de capitales.",
-        "body": "El presidente de Korea Exchange, Jeong Eun-bo, afirmó en Korea Investment Week 2026, celebrado del 12 al 15 de mayo de 2026 en The Shilla Seoul, que se abre una era de “comprar acciones en lugar de bienes raíces” y que es necesario impulsar una innovación estructural en el mercado de capitales. KIW 2026 fue una conferencia global de inversión organizada por The Korea Economic Daily y gestionada por Samsung Securities, con participación de CEO de empresas innovadoras, expertos del mercado bursátil, inversionistas institucionales nacionales y extranjeros, y minoristas. Sus temas fueron “La era del gran salto bursátil, llegan nuevas oportunidades de inversión” y “Beyond re-rating: Redefining the Global Value Chain”. Sus declaraciones se vinculan con el debate sobre ampliar el foco inversor desde los inmuebles hacia la bolsa. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Jeong Eun-bo vê na KIW 2026 era de comprar ações em vez de imóveis",
-        "excerpt": "Na KIW 2026, o presidente da Korea Exchange, Jeong Eun-bo, citou a era de comprar ações em vez de imóveis e destacou a necessidade de inovação estrutural no mercado de capitais coreano.",
-        "body": "O presidente da Korea Exchange, Jeong Eun-bo, disse na Korea Investment Week 2026, realizada de 12 a 15 de maio de 2026 no The Shilla Seoul, que a Coreia entra em uma era de “comprar ações em vez de imóveis” e que buscará inovação estrutural no mercado de capitais. A KIW 2026 foi uma conferência global de investimentos promovida pelo The Korea Economic Daily e organizada pela Samsung Securities, reunindo CEOs de empresas inovadoras, especialistas do mercado acionário, investidores institucionais nacionais e estrangeiros e investidores individuais. Os temas foram “A era do grande salto do mercado acionário, novas oportunidades de investimento estão chegando” e “Beyond re-rating: Redefining the Global Value Chain”. A fala de Jeong se conecta ao debate sobre ampliar o interesse dos investidores do setor imobiliário para o mercado de ações. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Jeong Eun-bo betont bei KIW 2026 Ära der Aktien statt Immobilien",
-        "excerpt": "Korea-Exchange-Chef Jeong Eun-bo sprach bei KIW 2026 von einer Zeit, in der Anleger Aktien statt Immobilien kaufen, und betonte strukturelle Innovation im koreanischen Kapitalmarkt.",
-        "body": "Jeong Eun-bo, Vorsitzender der Korea Exchange, sagte auf der Korea Investment Week 2026, die vom 12. bis 15. Mai 2026 im The Shilla Seoul stattfand, Korea trete in eine Ära ein, in der man „Aktien statt Immobilien kauft“, und der Kapitalmarkt brauche strukturelle Innovation. KIW 2026 war eine globale Investmentkonferenz, veranstaltet von The Korea Economic Daily und organisiert von Samsung Securities. Teilgenommen haben CEOs innovativer Unternehmen, Experten des Aktienmarkts, in- und ausländische institutionelle Investoren sowie Privatanleger. Die Themen lauteten „Eine neue Ära des Börsensprungs, neue Investitionschancen kommen“ und „Beyond re-rating: Redefining the Global Value Chain“. Jeongs Aussage steht im Zusammenhang mit Diskussionen, den Anlegerfokus von immobilienzentrierten Gewohnheiten stärker auf den Aktienmarkt auszuweiten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Jeong Eun-bo souligne à KIW 2026 l’ère des actions plutôt que l’immobilier",
-        "excerpt": "Lors de KIW 2026, Jeong Eun-bo, président de Korea Exchange, a évoqué une ère d’achat d’actions plutôt que d’immobilier et insisté sur l’innovation structurelle du marché des capitaux coréen.",
-        "body": "Jeong Eun-bo, président de Korea Exchange, a déclaré lors de Korea Investment Week 2026, organisée du 12 au 15 mai 2026 au Shilla Seoul, que la Corée entrait dans une ère où l’on « achète des actions plutôt que de l’immobilier » et qu’une innovation structurelle du marché des capitaux était nécessaire. KIW 2026 était une conférence mondiale d’investissement organisée par The Korea Economic Daily et pilotée par Samsung Securities, avec des dirigeants d’entreprises innovantes, des experts boursiers, des investisseurs institutionnels coréens et étrangers, ainsi que des investisseurs individuels. Ses thèmes étaient « L’ère du grand bond boursier, de nouvelles opportunités d’investissement arrivent » et « Beyond re-rating: Redefining the Global Value Chain ». Ces propos s’inscrivent dans le débat sur l’élargissement de l’attention des investisseurs, de l’immobilier vers le marché actions. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "جونغ أون-بو يؤكد في KIW 2026 عصر الأسهم بدلا من العقارات",
-        "excerpt": "قال جونغ أون-بو، رئيس بورصة كوريا، في KIW 2026 إن مرحلة شراء الأسهم بدلا من العقارات تبرز الآن، مشددا على الحاجة إلى ابتكار هيكلي في سوق رأس المال الكوري.",
-        "body": "قال جونغ أون-بو، رئيس بورصة كوريا، في Korea Investment Week 2026 الذي عقد بين 12 و15 مايو 2026 في فندق ذا شيلا سيول، إن كوريا تدخل عصر “شراء الأسهم بدلا من العقارات”، وإن سوق رأس المال يحتاج إلى ابتكار هيكلي. كان KIW 2026 مؤتمرا عالميا للاستثمار استضافته The Korea Economic Daily ونظمته Samsung Securities، وشارك فيه رؤساء شركات ابتكارية وخبراء في سوق الأسهم ومستثمرون مؤسسيون من كوريا وخارجها ومستثمرون أفراد. وحمل الحدث موضوعي “عصر قفزة كبرى في سوق الأسهم، فرص استثمارية جديدة قادمة” و“Beyond re-rating: Redefining the Global Value Chain”. وتأتي تصريحات جونغ ضمن نقاشات توسيع اهتمام المستثمرين من العادات المرتكزة على العقارات إلى سوق الأسهم. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KIW 2026 में Jeong Eun-bo ने रियल एस्टेट के बजाय शेयरों के दौर पर जोर दिया",
-        "excerpt": "Korea Exchange के चेयरमैन Jeong Eun-bo ने KIW 2026 में कहा कि रियल एस्टेट के बजाय शेयर खरीदने का दौर उभर रहा है और कोरियाई पूंजी बाजार में संरचनात्मक नवाचार जरूरी है।",
-        "body": "Korea Exchange के चेयरमैन Jeong Eun-bo ने 12 से 15 मई 2026 तक सियोल के The Shilla Seoul में आयोजित Korea Investment Week 2026 में कहा कि कोरिया “रियल एस्टेट के बजाय शेयर खरीदने” के दौर में प्रवेश कर रहा है और पूंजी बाजार में संरचनात्मक नवाचार की जरूरत है। KIW 2026 एक वैश्विक निवेश सम्मेलन था, जिसकी मेजबानी The Korea Economic Daily ने की और आयोजन Samsung Securities ने संभाला। इसमें नवोन्मेषी कंपनियों के CEO, शेयर बाजार विशेषज्ञ, घरेलू और विदेशी संस्थागत निवेशक तथा व्यक्तिगत निवेशक शामिल हुए। कार्यक्रम की थीम “शेयर बाजार की बड़ी छलांग का दौर, नए निवेश अवसर आ रहे हैं” और “Beyond re-rating: Redefining the Global Value Chain” थी। Jeong की टिप्पणी निवेशकों का ध्यान रियल एस्टेट-केंद्रित आदतों से शेयर बाजार की ओर बढ़ाने की पूंजी बाजार सुधार चर्चा से जुड़ती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Jeong Eun-bo di KIW 2026 Tekankan Era Saham, Bukan Properti",
-        "excerpt": "Di KIW 2026, Ketua Korea Exchange Jeong Eun-bo menyebut era membeli saham alih-alih properti dan menegaskan perlunya inovasi struktural di pasar modal Korea.",
-        "body": "Ketua Korea Exchange Jeong Eun-bo mengatakan dalam Korea Investment Week 2026, yang digelar pada 12-15 Mei 2026 di The Shilla Seoul, bahwa Korea memasuki era “membeli saham alih-alih properti” dan perlu mendorong inovasi struktural di pasar modal. KIW 2026 adalah konferensi investasi global yang diselenggarakan oleh The Korea Economic Daily dan diorganisasi oleh Samsung Securities, dengan peserta CEO perusahaan inovatif, pakar pasar saham, investor institusi domestik dan asing, serta investor ritel. Tema acaranya adalah “Era lompatan besar pasar saham, peluang investasi baru datang” dan “Beyond re-rating: Redefining the Global Value Chain”. Pernyataan Jeong sejalan dengan pembahasan reformasi pasar modal untuk memperluas perhatian investor dari kebiasaan berpusat pada properti ke pasar saham. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "32110bd4fc6b",
-    "slug": "사모대출은-2008년의-데자뷔-대안으로-떠오른-비전통-abskiw-2026-777855",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T20:22:52.650Z",
-    "updatedAt": "2026-05-13T20:22:52.650Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605134302i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605134302i",
-    "titleFingerprint": "072789b3a09fe0a9494ae0cb5cba934bb7c95b54",
-    "dedupKeys": [
-      "32110bd4fc6b691bdec7be76882794829316284d",
-      "072789b3a09fe0a9494ae0cb5cba934bb7c95b54",
-      "bec596fa5dee65e5c804224ba369028df6c8c8d4"
-    ],
-    "imageUrl": "/images/articles/32110bd4fc6b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "사모대출 경고등 켜졌다…KIW 2026서 주목받은 비전통 ABS 대안",
-        "excerpt": "폴 노리스 아메리칸 센추리 인베스트먼트 부사장은 13일 KIW 2026에서 사모대출 시장의 위험을 경고하고 비전통 ABS를 대안 투자처로 제시했다.",
-        "body": "폴 노리스 아메리칸 센추리 인베스트먼트 부사장은 13일 서울 신라호텔에서 열린 ‘코리아 인베스트먼트위크(KIW) 2026’에서 사모대출 시장에서 2008년 서브프라임 위기의 데자뷔가 느껴진다고 말했다. 그는 시장 영향권에서 떨어진 비전통적 자산유동화증권(ABS)이 대안 투자처로 부상할 수 있다고 설명했다. 비전통 ABS는 자동차 할부나 신용카드 채권이 아니라 데이터센터, 항공기, 철도, 태양광, 프랜차이즈 등 다양한 자산을 기초로 한다. 반면 사모대출 자산의 30%는 소프트웨어, IT, 헬스케어에 집중돼 AI 발전의 영향을 크게 받고 있다는 지적이다. 출처: hankyung.com/koreamarket/"
-      },
-      "en": {
-        "title": "Private Credit Warning at KIW 2026 Puts Nontraditional ABS in Focus",
-        "excerpt": "Paul Norris of American Century Investments warned at KIW 2026 on May 13 that private credit shows echoes of 2008 and presented nontraditional ABS as an alternative.",
-        "body": "Paul Norris, vice president at American Century Investments, said on May 13 at Korea Investment Week 2026 at the Shilla Hotel in Seoul that the private credit market feels like a deja vu of the 2008 subprime crisis. He said nontraditional asset-backed securities, or ABS, outside the main market pressure zone could emerge as an alternative investment. Unlike ABS backed by auto loans or credit card receivables, nontraditional ABS can be based on data centers, aircraft, railways, solar loans and franchises. By contrast, about 30% of private credit assets are concentrated in software, IT and healthcare, sectors he said are being strongly affected by AI development. Source: hankyung.com/koreamarket/"
-      },
-      "ja": {
-        "title": "プライベートクレジットに警戒感、KIW 2026で非伝統ABSに注目",
-        "excerpt": "アメリカン・センチュリー・インベストメンツのポール・ノリス副社長は13日、KIW 2026で私募貸出市場のリスクと非伝統ABSの代替性を指摘した。",
-        "body": "アメリカン・センチュリー・インベストメンツのポール・ノリス副社長は13日、ソウル新羅ホテルで開かれた「コリア・インベストメントウィーク（KIW）2026」で、私募貸出市場には2008年のサブプライム危機を思わせる状況があると述べた。市場の影響圏から離れた非伝統的な資産担保証券（ABS）が代替投資先になり得るとの見方も示した。非伝統ABSは自動車ローンやクレジットカード債権ではなく、データセンター、航空機、鉄道、太陽光、フランチャイズなど多様な資産を裏付けとする。一方、私募貸出資産の30％はソフトウェア、IT、ヘルスケアに集中し、AI発展の影響を大きく受けているという。出典: hankyung.com/koreamarket/"
-      },
-      "zh": {
-        "title": "私募信贷风险升温，KIW 2026聚焦非传统ABS替代机会",
-        "excerpt": "American Century Investments副总裁Paul Norris在5月13日KIW 2026上警示私募信贷风险，并提出非传统ABS可能成为替代投资选择。",
-        "body": "American Century Investments副总裁Paul Norris于5月13日在首尔新罗酒店举行的“韩国投资周（KIW）2026”上表示，私募信贷市场让人感到2008年次贷危机的既视感。他指出，受市场影响较小的非传统资产支持证券（ABS）可能成为替代投资对象。非传统ABS并非以汽车分期贷款或信用卡应收账款为基础，而是以数据中心、飞机、铁路、太阳能贷款和特许经营等多样资产为基础。相比之下，私募信贷资产的30%集中在软件、IT和医疗保健行业，这些领域正受到人工智能发展的较大影响。来源: hankyung.com/koreamarket/"
-      },
-      "es": {
-        "title": "Alerta por crédito privado: KIW 2026 apunta a ABS no tradicionales",
-        "excerpt": "Paul Norris, de American Century Investments, advirtió el 13 de mayo en KIW 2026 sobre riesgos en el crédito privado y destacó los ABS no tradicionales como alternativa.",
-        "body": "Paul Norris, vicepresidente de American Century Investments, dijo el 13 de mayo en Korea Investment Week 2026, celebrada en el hotel Shilla de Seúl, que el mercado de crédito privado recuerda a la crisis subprime de 2008. Señaló que los valores respaldados por activos no tradicionales, o ABS, alejados de la presión principal del mercado, podrían surgir como una inversión alternativa. A diferencia de los ABS basados en préstamos de autos o cuentas por cobrar de tarjetas de crédito, estos productos pueden respaldarse en centros de datos, aeronaves, ferrocarriles, préstamos solares y franquicias. En cambio, el 30% de los activos de crédito privado se concentra en software, TI y salud, sectores expuestos al impacto del avance de la IA. Fuente: hankyung.com/koreamarket/"
-      },
-      "pt": {
-        "title": "Crédito privado acende alerta no KIW 2026 e ABS não tradicional ganha espaço",
-        "excerpt": "Paul Norris, da American Century Investments, alertou em 13 de maio no KIW 2026 para riscos no crédito privado e apontou ABS não tradicional como alternativa.",
-        "body": "Paul Norris, vice-presidente da American Century Investments, afirmou em 13 de maio, no Korea Investment Week 2026, realizado no hotel Shilla, em Seul, que o mercado de crédito privado traz uma sensação de deja vu da crise subprime de 2008. Segundo ele, títulos lastreados em ativos não tradicionais, ou ABS, fora da principal zona de influência do mercado, podem surgir como alternativa de investimento. Diferentemente de ABS baseados em financiamento de automóveis ou recebíveis de cartão de crédito, esses produtos podem ter como base data centers, aeronaves, ferrovias, empréstimos solares e franquias. Já 30% dos ativos de crédito privado estão concentrados em software, TI e saúde, setores bastante afetados pelo avanço da IA. Fonte: hankyung.com/koreamarket/"
-      },
-      "de": {
-        "title": "Private-Credit-Warnung bei KIW 2026 rückt nichttraditionelle ABS in den Fokus",
-        "excerpt": "Paul Norris von American Century Investments warnte am 13. Mai bei KIW 2026 vor Risiken im Private Credit und nannte nichttraditionelle ABS als mögliche Alternative.",
-        "body": "Paul Norris, Vizepräsident von American Century Investments, sagte am 13. Mai auf der Korea Investment Week 2026 im Shilla Hotel in Seoul, der Private-Credit-Markt erinnere an die Subprime-Krise von 2008. Nichttraditionelle Asset-Backed Securities, kurz ABS, die weniger direkt im Einflussbereich des Marktes liegen, könnten als alternative Anlageklasse an Bedeutung gewinnen. Anders als ABS auf Basis von Autokrediten oder Kreditkartenforderungen stützen sie sich auf Vermögenswerte wie Rechenzentren, Flugzeuge, Eisenbahnen, Solarkredite und Franchise-Modelle. Demgegenüber konzentrieren sich 30% der Private-Credit-Anlagen auf Software, IT und Gesundheitswesen, die stark von der Entwicklung der KI betroffen seien. Quelle: hankyung.com/koreamarket/"
-      },
-      "fr": {
-        "title": "Alerte sur le crédit privé au KIW 2026, les ABS non traditionnels en vue",
-        "excerpt": "Paul Norris, d’American Century Investments, a averti le 13 mai au KIW 2026 des risques du crédit privé et présenté les ABS non traditionnels comme alternative.",
-        "body": "Paul Norris, vice-président d’American Century Investments, a déclaré le 13 mai lors de la Korea Investment Week 2026, à l’hôtel Shilla de Séoul, que le marché du crédit privé donnait une impression de déjà-vu de la crise des subprimes de 2008. Il a expliqué que les titres adossés à des actifs non traditionnels, ou ABS, moins exposés aux pressions du marché, pourraient devenir une alternative d’investissement. Contrairement aux ABS adossés aux prêts automobiles ou aux créances de cartes de crédit, ces produits peuvent reposer sur des centres de données, des avions, des chemins de fer, des prêts solaires ou des franchises. À l’inverse, 30% des actifs de crédit privé sont concentrés dans les logiciels, l’IT et la santé, secteurs fortement touchés par l’essor de l’IA. Source: hankyung.com/koreamarket/"
-      },
-      "ar": {
-        "title": "تحذير من الائتمان الخاص في KIW 2026 يسلط الضوء على ABS غير التقليدية",
-        "excerpt": "حذر بول نوريس من American Century Investments في 13 مايو خلال KIW 2026 من مخاطر سوق الائتمان الخاص، وطرح أوراق ABS غير التقليدية كبديل استثماري محتمل.",
-        "body": "قال بول نوريس، نائب رئيس American Century Investments، في 13 مايو خلال Korea Investment Week 2026 في فندق شيلا بسيول، إن سوق الائتمان الخاص يثير شعورا يشبه أزمة الرهن العقاري عالي المخاطر في 2008. وأوضح أن الأوراق المالية المدعومة بأصول غير تقليدية، أو ABS، والبعيدة نسبيا عن ضغوط السوق، قد تبرز كوجهة استثمارية بديلة. ولا تستند هذه الأوراق إلى قروض السيارات أو مستحقات بطاقات الائتمان، بل إلى أصول مثل مراكز البيانات والطائرات والسكك الحديدية وقروض الطاقة الشمسية والامتيازات التجارية. وفي المقابل، يتركز 30% من أصول الائتمان الخاص في البرمجيات وتكنولوجيا المعلومات والرعاية الصحية، وهي قطاعات تتأثر بقوة بتطور الذكاء الاصطناعي. المصدر: hankyung.com/koreamarket/"
-      },
-      "hi": {
-        "title": "KIW 2026 में निजी कर्ज पर चेतावनी, गैर-पारंपरिक ABS पर बढ़ा ध्यान",
-        "excerpt": "American Century Investments के पॉल नॉरिस ने 13 मई को KIW 2026 में निजी कर्ज बाजार के जोखिमों पर चेताया और गैर-पारंपरिक ABS को वैकल्पिक निवेश बताया।",
-        "body": "American Century Investments के उपाध्यक्ष पॉल नॉरिस ने 13 मई को सियोल के शिला होटल में आयोजित Korea Investment Week 2026 में कहा कि निजी कर्ज बाजार में 2008 के सबप्राइम संकट जैसी स्थिति की झलक महसूस होती है। उन्होंने कहा कि बाजार के मुख्य दबाव से दूर गैर-पारंपरिक एसेट-बैक्ड सिक्योरिटीज, यानी ABS, वैकल्पिक निवेश के रूप में उभर सकती हैं। ये ABS ऑटो लोन या क्रेडिट कार्ड देनदारियों पर नहीं, बल्कि डेटा सेंटर, विमान, रेलवे, सौर ऋण और फ्रेंचाइजी जैसे विविध परिसंपत्तियों पर आधारित हो सकती हैं। इसके विपरीत, निजी कर्ज परिसंपत्तियों का 30% सॉफ्टवेयर, आईटी और हेल्थकेयर में केंद्रित है, जो AI विकास से ज्यादा प्रभावित हो रहे हैं। स्रोत: hankyung.com/koreamarket/"
-      },
-      "id": {
-        "title": "Peringatan Kredit Privat di KIW 2026 Angkat ABS Nontradisional",
-        "excerpt": "Paul Norris dari American Century Investments pada 13 Mei di KIW 2026 memperingatkan risiko kredit privat dan menyebut ABS nontradisional sebagai alternatif investasi.",
-        "body": "Paul Norris, wakil presiden American Century Investments, mengatakan pada 13 Mei dalam Korea Investment Week 2026 di Hotel Shilla, Seoul, bahwa pasar kredit privat terasa seperti deja vu krisis subprime 2008. Ia menjelaskan bahwa sekuritas beragun aset nontradisional, atau ABS, yang berada di luar tekanan utama pasar dapat muncul sebagai alternatif investasi. ABS nontradisional tidak berbasis cicilan mobil atau piutang kartu kredit, melainkan aset seperti pusat data, pesawat, rel kereta, pinjaman tenaga surya, dan waralaba. Sebaliknya, 30% aset kredit privat terkonsentrasi di sektor perangkat lunak, TI, dan kesehatan, yang disebut sangat terdampak oleh perkembangan AI. Sumber: hankyung.com/koreamarket/"
       }
     }
   }
