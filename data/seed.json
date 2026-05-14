@@ -1,5 +1,230 @@
 [
   {
+    "id": "394a5155566c",
+    "slug": "티즈-루멘-리서치-ctv-주목도-측정-확대-옴니채널-마케팅-강화-932135",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T03:17:52.813Z",
+    "updatedAt": "2026-05-14T03:17:52.813Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12047390",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12047390",
+    "titleFingerprint": "501be2f3b89d990501dd35d4648e0a0ba3dee789",
+    "dedupKeys": [
+      "394a5155566cb07deaea5fd2a09beedc62a22734",
+      "501be2f3b89d990501dd35d4648e0a0ba3dee789",
+      "5d1d5e78e7de3cc3f93100dd0cdcacf2b324f788"
+    ],
+    "imageUrl": "/images/articles/394a5155566c.png",
+    "i18n": {
+      "ko": {
+        "title": "티즈·루멘 리서치, CTV 주목도 측정 확대…옴니채널 마케팅 강화 본격화",
+        "excerpt": "옴니채널 성과 플랫폼 티즈가 2026년 5월 6일 뉴욕에서 루멘 리서치와의 파트너십을 CTV 주목도 측정으로 확대하며 마케팅 역량 강화를 알렸다.",
+        "body": "2026년 5월 6일 뉴욕에서 옴니채널 성과 플랫폼 티즈(Teads)는 글로벌 주목도 측정 기술 기업 루멘 리서치(Lumen Research)와의 파트너십을 커넥티드 TV(CTV) 영역으로 확대한다고 밝혔다. 이번 확대는 CTV 환경에서 광고 주목도를 측정하는 범위를 넓히는 데 초점이 있다. 티즈는 옴니채널 성과 플랫폼으로, 루멘 리서치는 글로벌 주목도 측정 기술 기업으로 소개됐다. 양사의 협력 확대는 CTV를 포함한 채널 전반에서 마케팅 성과를 살피려는 흐름과 맞물린다. 기업들은 이를 통해 옴니채널 마케팅 강화를 추진할 수 있을 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Teads and Lumen Research Expand CTV Attention Measurement for Omnichannel Marketing",
+        "excerpt": "Teads said in New York on May 6, 2026, that it expanded its partnership with Lumen Research into CTV attention measurement to strengthen omnichannel marketing.",
+        "body": "On May 6, 2026, in New York, omnichannel performance platform Teads said it expanded its partnership with Lumen Research, a global attention-measurement technology company, into connected TV, or CTV. The expansion focuses on broadening attention measurement in the CTV advertising environment. Teads was described as an omnichannel performance platform, while Lumen Research was identified as a global company specializing in attention-measurement technology. The expanded cooperation aligns with efforts to review marketing performance across channels, including CTV. Companies may use the partnership to support stronger omnichannel marketing. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ティーズとルーメン、CTV注目度測定を拡大しオムニチャネル強化へ",
+        "excerpt": "オムニチャネル成果プラットフォームのティーズは2026年5月6日、ニューヨークでルーメン・リサーチとの提携をCTV注目度測定へ拡大すると発表した。",
+        "body": "2026年5月6日、ニューヨークでオムニチャネル成果プラットフォームのティーズ（Teads）は、世界的な注目度測定技術企業ルーメン・リサーチ（Lumen Research）との提携をコネクテッドTV（CTV）分野へ拡大すると明らかにした。今回の拡大は、CTV広告環境における注目度測定の範囲を広げることに焦点を当てている。ティーズはオムニチャネル成果プラットフォーム、ルーメン・リサーチは注目度測定技術企業として紹介された。両社の協力拡大は、CTVを含む複数チャネルでマーケティング成果を把握しようとする流れと重なる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Teads与Lumen Research扩大CTV注意力测量，强化全渠道营销",
+        "excerpt": "全渠道绩效平台Teads于2026年5月6日在纽约表示，将与Lumen Research的合作扩大至CTV注意力测量，以强化全渠道营销能力。",
+        "body": "2026年5月6日，在纽约，全渠道绩效平台Teads表示，将与全球注意力测量技术公司Lumen Research的合作扩大到联网电视（CTV）领域。此次合作扩大聚焦于拓宽CTV广告环境中的注意力测量范围。Teads被介绍为全渠道绩效平台，Lumen Research则是全球注意力测量技术企业。两家公司扩大合作，与市场希望在包括CTV在内的多渠道中观察营销成效的趋势相吻合。相关企业预计可借此推进全渠道营销能力建设。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Teads y Lumen Research amplían la medición de atención en CTV para marketing omnicanal",
+        "excerpt": "Teads anunció el 6 de mayo de 2026 en Nueva York que amplió su alianza con Lumen Research hacia la medición de atención en CTV para reforzar el marketing omnicanal.",
+        "body": "El 6 de mayo de 2026, en Nueva York, la plataforma de rendimiento omnicanal Teads anunció que ampliaba su alianza con Lumen Research, empresa global de tecnología de medición de atención, al ámbito de la televisión conectada, o CTV. La ampliación se centra en extender el alcance de la medición de atención en entornos publicitarios de CTV. Teads fue presentada como una plataforma de rendimiento omnicanal, mientras que Lumen Research fue descrita como una compañía global especializada en tecnología de medición de atención. La cooperación encaja con el interés por evaluar resultados de marketing en canales que incluyen CTV. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Teads e Lumen Research ampliam medição de atenção em CTV para marketing omnicanal",
+        "excerpt": "A Teads anunciou em 6 de maio de 2026, em Nova York, que ampliou sua parceria com a Lumen Research para medição de atenção em CTV e reforço do marketing omnicanal.",
+        "body": "Em 6 de maio de 2026, em Nova York, a plataforma de desempenho omnicanal Teads informou que ampliou sua parceria com a Lumen Research, empresa global de tecnologia de medição de atenção, para o segmento de TV conectada, ou CTV. A expansão tem como foco ampliar o alcance da medição de atenção no ambiente de publicidade em CTV. A Teads foi apresentada como uma plataforma de desempenho omnicanal, enquanto a Lumen Research foi descrita como uma empresa global de tecnologia de medição de atenção. A cooperação acompanha o movimento de avaliar resultados de marketing em canais que incluem CTV. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Teads und Lumen Research erweitern CTV-Aufmerksamkeitsmessung für Omnichannel-Marketing",
+        "excerpt": "Teads teilte am 6. Mai 2026 in New York mit, die Partnerschaft mit Lumen Research auf CTV-Aufmerksamkeitsmessung auszuweiten, um Omnichannel-Marketing zu stärken.",
+        "body": "Am 6. Mai 2026 teilte die Omnichannel-Performance-Plattform Teads in New York mit, ihre Partnerschaft mit Lumen Research, einem globalen Technologieunternehmen für Aufmerksamkeitsmessung, auf Connected TV, kurz CTV, auszuweiten. Der Schritt konzentriert sich darauf, den Umfang der Aufmerksamkeitsmessung im CTV-Werbeumfeld zu erweitern. Teads wurde als Omnichannel-Performance-Plattform beschrieben, Lumen Research als globales Unternehmen für Technologie zur Aufmerksamkeitsmessung. Die erweiterte Kooperation passt zu dem Bestreben, Marketingergebnisse kanalübergreifend, einschließlich CTV, zu betrachten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Teads et Lumen Research étendent la mesure de l’attention CTV pour le marketing omnicanal",
+        "excerpt": "Teads a annoncé le 6 mai 2026 à New York l’extension de son partenariat avec Lumen Research à la mesure de l’attention en CTV afin de renforcer le marketing omnicanal.",
+        "body": "Le 6 mai 2026, à New York, la plateforme de performance omnicanale Teads a annoncé l’extension de son partenariat avec Lumen Research, entreprise mondiale de technologie de mesure de l’attention, au domaine de la télévision connectée, ou CTV. Cette extension vise à élargir le périmètre de la mesure de l’attention dans l’environnement publicitaire CTV. Teads a été présenté comme une plateforme de performance omnicanale, tandis que Lumen Research a été décrit comme un acteur mondial de la mesure de l’attention. Cette coopération s’inscrit dans l’effort d’évaluer les performances marketing sur plusieurs canaux, dont la CTV. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تيدز ولومن ريسيرش توسعان قياس الانتباه في CTV لتعزيز التسويق متعدد القنوات",
+        "excerpt": "أعلنت تيدز في نيويورك يوم 6 مايو 2026 توسيع شراكتها مع لومن ريسيرش إلى قياس الانتباه في التلفزيون المتصل CTV لدعم التسويق متعدد القنوات.",
+        "body": "في 6 مايو 2026 في نيويورك، أعلنت منصة الأداء متعددة القنوات تيدز (Teads) أنها وسعت شراكتها مع شركة لومن ريسيرش (Lumen Research)، وهي شركة عالمية لتقنيات قياس الانتباه، إلى مجال التلفزيون المتصل CTV. يركز هذا التوسع على توسيع نطاق قياس الانتباه في بيئة إعلانات CTV. وقد قُدمت تيدز باعتبارها منصة أداء متعددة القنوات، بينما وُصفت لومن ريسيرش بأنها شركة عالمية متخصصة في تقنيات قياس الانتباه. ويتماشى توسيع التعاون مع توجه متابعة أداء التسويق عبر القنوات، بما في ذلك CTV. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Teads और Lumen Research ने CTV अटेंशन मापन बढ़ाया, ओम्नीचैनल मार्केटिंग पर जोर",
+        "excerpt": "Teads ने 6 मई 2026 को न्यूयॉर्क में कहा कि उसने Lumen Research के साथ साझेदारी को CTV अटेंशन मापन तक बढ़ाया है, जिससे ओम्नीचैनल मार्केटिंग मजबूत होगी।",
+        "body": "6 मई 2026 को न्यूयॉर्क में ओम्नीचैनल परफॉर्मेंस प्लेटफॉर्म Teads ने बताया कि उसने वैश्विक अटेंशन-मेजरमेंट टेक्नोलॉजी कंपनी Lumen Research के साथ अपनी साझेदारी को कनेक्टेड टीवी, यानी CTV, क्षेत्र तक बढ़ा दिया है। इस विस्तार का फोकस CTV विज्ञापन वातावरण में अटेंशन मापन के दायरे को व्यापक बनाना है। Teads को ओम्नीचैनल परफॉर्मेंस प्लेटफॉर्म और Lumen Research को वैश्विक अटेंशन-मेजरमेंट तकनीक कंपनी के रूप में प्रस्तुत किया गया। दोनों कंपनियों का सहयोग CTV सहित विभिन्न चैनलों में मार्केटिंग प्रदर्शन को देखने की दिशा से जुड़ता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Teads dan Lumen Research Perluas Pengukuran Perhatian CTV untuk Marketing Omnichannel",
+        "excerpt": "Teads mengumumkan pada 6 Mei 2026 di New York bahwa kemitraannya dengan Lumen Research diperluas ke pengukuran perhatian CTV untuk memperkuat marketing omnichannel.",
+        "body": "Pada 6 Mei 2026 di New York, platform kinerja omnichannel Teads menyatakan bahwa kemitraannya dengan Lumen Research, perusahaan teknologi pengukuran perhatian global, diperluas ke ranah connected TV atau CTV. Perluasan ini berfokus pada pelebaran cakupan pengukuran perhatian dalam lingkungan iklan CTV. Teads diperkenalkan sebagai platform kinerja omnichannel, sementara Lumen Research disebut sebagai perusahaan teknologi pengukuran perhatian global. Perluasan kerja sama keduanya sejalan dengan upaya melihat kinerja marketing di berbagai kanal, termasuk CTV. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c4f0238b76b1",
+    "slug": "대표부터-ai-전문가-돼야-뉴패러다임-ai-도입-혁신사례-발표-176215",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T03:16:47.582Z",
+    "updatedAt": "2026-05-14T03:16:47.582Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12047408",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12047408",
+    "titleFingerprint": "2e907c06690aff8bebf9c3d75fcf946f413089d3",
+    "dedupKeys": [
+      "c4f0238b76b1a4931315fd930d7bfa3ccce86841",
+      "2e907c06690aff8bebf9c3d75fcf946f413089d3",
+      "c576485367cf8d70b851d5ab6beccede486a8375"
+    ],
+    "imageUrl": "/images/articles/c4f0238b76b1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "뉴패러다임 AI 도입 혁신사례 공개…스타트업 활용법과 대표 역할 주목",
+        "excerpt": "초기 스케일업 전문 액셀러레이터 뉴패러다임인베스트먼트가 지난 13일 서울 코엑스 스타트업 브랜치에서 스타트업 AI 활용사례를 소개·공유했다.",
+        "body": "초기 스케일업 전문 액셀러레이터 뉴패러다임인베스트먼트는 지난 13일 서울 강남구 코엑스 스타트업 브랜치에서 ‘NP Family AI Seminar’를 열고 ‘AI 도입 혁신사례’를 발표했다. 이번 행사는 스타트업의 AI 활용사례를 소개하고 공유하는 자리로 마련됐다. 공개된 주제는 “대표부터 AI 전문가 돼야”라는 메시지를 중심으로, 스타트업 현장에서 AI 도입이 어떻게 논의되고 있는지 보여줬다. 뉴패러다임은 초기 스케일업을 지원하는 액셀러레이터로서 참여 기업과 관련 사례를 나누며 AI 활용의 필요성을 강조했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "New Paradigm Shares AI Adoption Cases, Highlighting Startup Use and CEO Roles",
+        "excerpt": "New Paradigm Investment, an accelerator for early scaleups, introduced and shared startup AI use cases at COEX Startup Branch in Gangnam, Seoul, on the 13th.",
+        "body": "New Paradigm Investment, an accelerator specializing in early scaleups, held the ‘NP Family AI Seminar’ at COEX Startup Branch in Gangnam, Seoul, on the 13th and presented ‘AI adoption innovation cases.’ The event was designed to introduce and share examples of how startups are using AI. The theme centered on the message that “CEOs must become AI experts first,” showing how AI adoption is being discussed in startup settings. As an accelerator supporting early scaleups, New Paradigm shared related cases with participating companies and emphasized the need to use AI. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ニューパラダイム、AI導入革新事例を公開…スタートアップ活用と代表の役割に注目",
+        "excerpt": "初期スケールアップ専門アクセラレーターのニューパラダイムインベストメントが13日、ソウルのCOEX Startup BranchでスタートアップのAI活用事例を紹介・共有した。",
+        "body": "初期スケールアップ専門アクセラレーターのニューパラダイムインベストメントは13日、ソウル市江南区のCOEX Startup Branchで「NP Family AI Seminar」を開き、「AI導入革新事例」を発表した。今回のイベントは、スタートアップのAI活用事例を紹介し共有する場として設けられた。公開されたテーマは「代表からAI専門家になるべきだ」というメッセージを中心に、スタートアップの現場でAI導入がどのように議論されているかを示した。ニューパラダイムは初期スケールアップを支援するアクセラレーターとして、参加企業と関連事例を共有し、AI活用の必要性を強調した。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "New Paradigm发布AI导入创新案例，聚焦初创企业应用与CEO角色",
+        "excerpt": "专注早期规模化发展的加速器New Paradigm Investment于13日在首尔江南区COEX Startup Branch介绍并分享了初创企业AI应用案例。",
+        "body": "专注早期规模化发展的加速器New Paradigm Investment于13日在首尔江南区COEX Startup Branch举办“NP Family AI Seminar”，并发布“AI导入创新案例”。此次活动旨在介绍和分享初创企业使用AI的案例。公开主题围绕“代表首先要成为AI专家”这一信息，展示了初创企业现场如何讨论AI导入。作为支持早期规模化企业的加速器，New Paradigm与参与企业分享相关案例，并强调AI应用的必要性。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "New Paradigm presenta casos de adopción de IA y destaca el papel del CEO startup",
+        "excerpt": "New Paradigm Investment, aceleradora especializada en scaleups iniciales, presentó y compartió casos de uso de IA en startups el día 13 en COEX Startup Branch, Seúl.",
+        "body": "New Paradigm Investment, una aceleradora especializada en scaleups en etapa inicial, celebró el día 13 el ‘NP Family AI Seminar’ en COEX Startup Branch, en Gangnam, Seúl, y presentó ‘casos innovadores de adopción de IA’. El encuentro fue organizado para introducir y compartir ejemplos de uso de IA por parte de startups. El tema divulgado se centró en el mensaje de que “el CEO debe convertirse primero en experto en IA”, mostrando cómo se debate la adopción de IA en el entorno startup. Como aceleradora que apoya scaleups iniciales, New Paradigm compartió casos relacionados con las empresas participantes y subrayó la necesidad de utilizar IA. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "New Paradigm revela casos de adoção de IA e destaca uso em startups e papel do CEO",
+        "excerpt": "A New Paradigm Investment, aceleradora de scaleups iniciais, apresentou e compartilhou casos de uso de IA por startups no dia 13, no COEX Startup Branch, em Seul.",
+        "body": "A New Paradigm Investment, aceleradora especializada em scaleups em estágio inicial, realizou no dia 13 o ‘NP Family AI Seminar’ no COEX Startup Branch, em Gangnam, Seul, e apresentou ‘casos inovadores de adoção de IA’. O evento foi preparado para apresentar e compartilhar exemplos de uso de IA por startups. O tema divulgado girou em torno da mensagem de que “o CEO deve se tornar primeiro um especialista em IA”, mostrando como a adoção de IA é discutida no ambiente das startups. Como aceleradora que apoia scaleups iniciais, a New Paradigm compartilhou casos relacionados com empresas participantes e enfatizou a necessidade de usar IA. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "New Paradigm zeigt KI-Einführungsfälle und betont Startup-Nutzung sowie CEO-Rolle",
+        "excerpt": "New Paradigm Investment, Accelerator für frühe Scaleups, stellte am 13. im COEX Startup Branch in Seoul KI-Anwendungsfälle von Startups vor und teilte sie.",
+        "body": "New Paradigm Investment, ein auf frühe Scaleups spezialisierter Accelerator, veranstaltete am 13. im COEX Startup Branch im Seouler Stadtteil Gangnam das ‘NP Family AI Seminar’ und präsentierte ‘Innovationsfälle zur KI-Einführung’. Die Veranstaltung diente dazu, Beispiele für den KI-Einsatz von Startups vorzustellen und zu teilen. Im Mittelpunkt stand die Botschaft, dass “zuerst der CEO zum KI-Experten werden muss”, womit gezeigt wurde, wie KI-Einführung in Startup-Umfeldern diskutiert wird. Als Accelerator für frühe Scaleups teilte New Paradigm relevante Fälle mit teilnehmenden Unternehmen und betonte die Notwendigkeit der KI-Nutzung. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "New Paradigm présente des cas d’adoption de l’IA et souligne l’usage startup",
+        "excerpt": "New Paradigm Investment, accélérateur spécialisé dans les jeunes scaleups, a présenté et partagé le 13 des cas d’usage de l’IA par des startups au COEX Startup Branch à Séoul.",
+        "body": "New Paradigm Investment, accélérateur spécialisé dans les scaleups en phase initiale, a organisé le 13 le ‘NP Family AI Seminar’ au COEX Startup Branch, dans le district de Gangnam à Séoul, et a présenté des ‘cas innovants d’adoption de l’IA’. L’événement visait à introduire et partager des exemples d’utilisation de l’IA par des startups. Le thème rendu public s’articulait autour du message selon lequel “le dirigeant doit d’abord devenir expert en IA”, montrant comment l’adoption de l’IA est discutée sur le terrain des startups. En tant qu’accélérateur soutenant les jeunes scaleups, New Paradigm a partagé des cas liés aux entreprises participantes et souligné la nécessité d’utiliser l’IA. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "نيو بارادايم تعرض حالات ابتكار في تبني الذكاء الاصطناعي ودور قادة الشركات الناشئة",
+        "excerpt": "قدمت New Paradigm Investment، وهي مسرعة متخصصة في الشركات بمرحلة التوسع المبكر، حالات استخدام الذكاء الاصطناعي في الشركات الناشئة يوم 13 في COEX Startup Branch بسيول.",
+        "body": "عقدت New Paradigm Investment، وهي مسرعة متخصصة في دعم الشركات في مرحلة التوسع المبكر، ندوة ‘NP Family AI Seminar’ يوم 13 في COEX Startup Branch بمنطقة غانغنام في سيول، وقدمت ‘حالات ابتكار في تبني الذكاء الاصطناعي’. وجاءت الفعالية للتعريف بحالات استخدام الذكاء الاصطناعي لدى الشركات الناشئة ومشاركتها. وتمحور الموضوع حول رسالة مفادها أن “الرئيس التنفيذي يجب أن يصبح أولا خبيرا في الذكاء الاصطناعي”، بما يوضح كيف تجري مناقشة إدخال الذكاء الاصطناعي في بيئة الشركات الناشئة. وبصفتها مسرعة تدعم التوسع المبكر، شاركت New Paradigm الحالات ذات الصلة مع الشركات المشاركة وأكدت الحاجة إلى استخدام الذكاء الاصطناعي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "New Paradigm ने AI अपनाने के नवाचार मामले पेश किए, स्टार्टअप उपयोग पर जोर",
+        "excerpt": "प्रारंभिक स्केलअप विशेषज्ञ एक्सेलरेटर New Paradigm Investment ने 13 तारीख को सियोल के COEX Startup Branch में स्टार्टअप AI उपयोग के मामले पेश और साझा किए।",
+        "body": "प्रारंभिक स्केलअप में विशेषज्ञता रखने वाले एक्सेलरेटर New Paradigm Investment ने 13 तारीख को सियोल के गंगनम-गु स्थित COEX Startup Branch में ‘NP Family AI Seminar’ आयोजित किया और ‘AI अपनाने के नवाचार मामलों’ को पेश किया। यह कार्यक्रम स्टार्टअप द्वारा AI उपयोग के उदाहरणों को 소개 और साझा करने के लिए तैयार किया गया था। घोषित विषय “प्रतिनिधि को पहले AI विशेषज्ञ बनना चाहिए” संदेश पर केंद्रित था, जिससे दिखा कि स्टार्टअप क्षेत्र में AI अपनाने पर कैसे चर्चा हो रही है। प्रारंभिक स्केलअप का समर्थन करने वाले एक्सेलरेटर के रूप में New Paradigm ने सहभागी कंपनियों के साथ संबंधित मामले साझा किए और AI उपयोग की आवश्यकता पर जोर दिया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "New Paradigm Paparkan Kasus Adopsi AI, Soroti Pemakaian Startup dan Peran CEO",
+        "excerpt": "New Paradigm Investment, akselerator khusus scaleup tahap awal, memperkenalkan dan membagikan kasus pemanfaatan AI oleh startup pada tanggal 13 di COEX Startup Branch, Seoul.",
+        "body": "New Paradigm Investment, akselerator yang berfokus pada scaleup tahap awal, menggelar ‘NP Family AI Seminar’ pada tanggal 13 di COEX Startup Branch, Gangnam, Seoul, dan memaparkan ‘kasus inovasi adopsi AI’. Acara ini disiapkan untuk memperkenalkan dan membagikan contoh pemanfaatan AI oleh startup. Tema yang disampaikan berpusat pada pesan bahwa “CEO harus terlebih dahulu menjadi ahli AI”, menunjukkan bagaimana adopsi AI dibahas di lingkungan startup. Sebagai akselerator yang mendukung scaleup tahap awal, New Paradigm membagikan kasus terkait dengan perusahaan peserta dan menekankan perlunya pemanfaatan AI. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "026d1b43d262",
+    "slug": "속보-중노위-삼성전자-노사에-16일-사후조정-재개-요청-490188",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T03:15:46.596Z",
+    "updatedAt": "2026-05-14T03:15:46.596Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12047431",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12047431",
+    "titleFingerprint": "5bfe600b9385413c64e35136f3ba9dbe6ec7fc2d",
+    "dedupKeys": [
+      "026d1b43d26293d14aa3dd08711626b2582c2c87",
+      "5bfe600b9385413c64e35136f3ba9dbe6ec7fc2d",
+      "c7c4f6f30ad40666f9b186feec3cf59fbde9f5de"
+    ],
+    "imageUrl": "/images/articles/026d1b43d262.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중노위, 삼성전자 노사에 16일 사후조정 재개 요청…협의 향방 주목",
+        "excerpt": "중앙노동위원회가 삼성전자 노사에 16일 사후조정을 다시 열 것을 요청했다고 mk.co.kr이 전했다. 노사 협의 재개 여부가 핵심이다.",
+        "body": "중앙노동위원회가 삼성전자 노사에 오는 16일 사후조정을 재개할 것을 요청했다고 mk.co.kr이 보도했다. 이번 요청은 삼성전자 노사 양측을 대상으로 한 것으로, 원문에는 별도 요약이나 세부 쟁점은 제시되지 않았다. 사후조정은 노사 간 이견을 다시 조율하기 위한 절차로, 양측이 요청에 어떻게 응할지가 향후 협의 흐름을 가를 변수다. 현재 확인된 핵심 사실은 중노위의 재개 요청, 대상이 삼성전자 노사라는 점, 날짜가 16일이라는 점이다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Labor panel asks Samsung Electronics labor and management to resume post-mediation on the 16th",
+        "excerpt": "South Korea’s Central Labor Relations Commission asked Samsung Electronics labor and management to reopen post-mediation on the 16th, mk.co.kr reported.",
+        "body": "South Korea’s Central Labor Relations Commission has asked Samsung Electronics labor and management to resume post-mediation on the 16th, according to mk.co.kr. The request was made to both sides at Samsung Electronics. The original item did not provide a separate summary or detailed issues under discussion. Post-mediation is a process for further coordinating differences between labor and management, so whether the two sides respond to the request will shape the next stage of talks. The confirmed facts are the commission’s request, the parties involved, and the date of the 16th. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "中央労働委、サムスン電子労使に16日の事後調停再開を要請",
+        "excerpt": "中央労働委員会がサムスン電子の労使に対し、16日に事後調停を再開するよう要請したとmk.co.krが報じた。",
+        "body": "中央労働委員会がサムスン電子の労使に対し、16日に事後調停を再開するよう要請したと、mk.co.krが報じた。今回の要請はサムスン電子の労使双方を対象にしたものだ。原文では別途の要約や具体的な争点は示されていない。事後調停は労使間の意見の隔たりを改めて調整する手続きであり、双方がこの要請にどう応じるかが今後の協議の流れを左右する。確認された主な事実は、中央労働委の再開要請、対象がサムスン電子労使であること、日付が16日であることだ。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "韩国中劳委要求三星电子劳资双方16日重启事后调解",
+        "excerpt": "据mk.co.kr报道，韩国中央劳动委员会要求三星电子劳资双方于16日重启事后调解，后续协商是否恢复受到关注。",
+        "body": "据mk.co.kr报道，韩国中央劳动委员会已要求三星电子劳资双方于16日重启事后调解。此次要求面向三星电子劳资双方。原文未提供单独摘要，也未列出更具体的争议事项。事后调解是为再次协调劳资分歧而进行的程序，因此双方如何回应这一要求，将影响后续协商的走向。目前可确认的核心事实是：中央劳动委员会提出重启要求，相关对象为三星电子劳资双方，日期为16日。来源：mk.co.kr。"
+      },
+      "es": {
+        "title": "Comisión laboral pide a Samsung Electronics reanudar la mediación posterior el día 16",
+        "excerpt": "La Comisión Central de Relaciones Laborales pidió a Samsung Electronics y sus trabajadores reabrir la mediación posterior el día 16, informó mk.co.kr.",
+        "body": "La Comisión Central de Relaciones Laborales de Corea del Sur pidió a la dirección y a los trabajadores de Samsung Electronics reanudar la mediación posterior el día 16, según informó mk.co.kr. La solicitud fue dirigida a ambas partes de Samsung Electronics. El texto original no incluyó un resumen separado ni detalles sobre los puntos en discusión. La mediación posterior es un procedimiento para volver a coordinar diferencias entre empresa y trabajadores, por lo que la respuesta de las partes marcará el curso de las conversaciones. Los hechos confirmados son la solicitud, las partes involucradas y la fecha del día 16. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Comissão trabalhista pede à Samsung Electronics retomada da mediação posterior no dia 16",
+        "excerpt": "A Comissão Central de Relações Trabalhistas pediu à Samsung Electronics e aos trabalhadores que retomem a mediação posterior no dia 16, informou mk.co.kr.",
+        "body": "A Comissão Central de Relações Trabalhistas da Coreia do Sul pediu à administração e aos trabalhadores da Samsung Electronics que retomem a mediação posterior no dia 16, segundo o mk.co.kr. A solicitação foi feita às duas partes da Samsung Electronics. O texto original não apresentou resumo separado nem detalhes sobre os pontos em discussão. A mediação posterior é um procedimento para tentar coordenar novamente divergências entre empresa e trabalhadores. Assim, a resposta das partes ao pedido deverá orientar o próximo andamento das conversas. Os fatos confirmados são o pedido da comissão, as partes envolvidas e a data do dia 16. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Arbeitskommission bittet Samsung Electronics um Wiederaufnahme der Nachschlichtung am 16.",
+        "excerpt": "Die Zentrale Arbeitsbeziehungskommission Südkoreas bat Samsung Electronics und die Arbeitnehmerseite, die Nachschlichtung am 16. wieder aufzunehmen, meldete mk.co.kr.",
+        "body": "Die Zentrale Arbeitsbeziehungskommission Südkoreas hat die Arbeitnehmer- und Arbeitgeberseite von Samsung Electronics gebeten, die Nachschlichtung am 16. wieder aufzunehmen, wie mk.co.kr berichtete. Die Bitte richtet sich an beide Seiten bei Samsung Electronics. Der Ursprungstext enthielt keine separate Zusammenfassung und keine näheren Angaben zu den Streitpunkten. Die Nachschlichtung dient dazu, Differenzen zwischen Arbeitnehmer- und Arbeitgeberseite erneut zu koordinieren. Wie beide Seiten auf die Bitte reagieren, wird daher den weiteren Verlauf der Gespräche prägen. Bestätigt sind die Bitte der Kommission, die beteiligten Parteien und das Datum des 16. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "La commission du travail demande à Samsung Electronics de reprendre la médiation le 16",
+        "excerpt": "La Commission centrale des relations du travail a demandé aux parties de Samsung Electronics de reprendre la médiation postérieure le 16, selon mk.co.kr.",
+        "body": "La Commission centrale des relations du travail de Corée du Sud a demandé à la direction et aux représentants des travailleurs de Samsung Electronics de reprendre la médiation postérieure le 16, selon mk.co.kr. La demande vise les deux parties chez Samsung Electronics. Le texte original ne fournit pas de résumé distinct ni de détails sur les points en discussion. La médiation postérieure est une procédure destinée à rapprocher de nouveau les positions entre employeur et salariés. La manière dont les deux parties répondront à cette demande orientera donc la suite des échanges. Les faits confirmés sont la demande de la commission, les parties concernées et la date du 16. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "لجنة العمل تطلب من إدارة وعمال سامسونغ إلكترونيكس استئناف الوساطة في 16",
+        "excerpt": "طلبت لجنة علاقات العمل المركزية في كوريا الجنوبية من إدارة وعمال سامسونغ إلكترونيكس استئناف الوساطة اللاحقة في 16، وفق mk.co.kr.",
+        "body": "أفاد موقع mk.co.kr بأن لجنة علاقات العمل المركزية في كوريا الجنوبية طلبت من إدارة وعمال سامسونغ إلكترونيكس استئناف الوساطة اللاحقة في 16. وُجه الطلب إلى طرفي العمل في سامسونغ إلكترونيكس. ولم يورد النص الأصلي ملخصا منفصلا أو تفاصيل إضافية عن نقاط الخلاف. وتعد الوساطة اللاحقة إجراء يهدف إلى تنسيق المواقف مرة أخرى بين العمال والإدارة، لذلك فإن طريقة استجابة الطرفين للطلب ستحدد مسار المحادثات المقبلة. الحقائق المؤكدة هي طلب اللجنة، وأن الأطراف المعنية هي عمال وإدارة سامسونغ إلكترونيكس، وأن الموعد هو 16. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "श्रम आयोग ने सैमसंग इलेक्ट्रॉनिक्स प्रबंधन और श्रमिक पक्ष से 16 को मध्यस्थता फिर शुरू करने को कहा",
+        "excerpt": "दक्षिण कोरिया के केंद्रीय श्रम संबंध आयोग ने सैमसंग इलेक्ट्रॉनिक्स के श्रमिक और प्रबंधन पक्ष से 16 को पश्च-मध्यस्थता फिर शुरू करने को कहा, mk.co.kr ने बताया।",
+        "body": "mk.co.kr के अनुसार, दक्षिण कोरिया के केंद्रीय श्रम संबंध आयोग ने सैमसंग इलेक्ट्रॉनिक्स के श्रमिक और प्रबंधन पक्ष से 16 को पश्च-मध्यस्थता फिर शुरू करने का अनुरोध किया है। यह अनुरोध सैमसंग इलेक्ट्रॉनिक्स के दोनों पक्षों को संबोधित है। मूल खबर में अलग सारांश या विवाद के विशेष बिंदुओं का विवरण नहीं दिया गया। पश्च-मध्यस्थता श्रमिक और प्रबंधन के बीच मतभेदों को फिर से समन्वित करने की प्रक्रिया है। इसलिए दोनों पक्ष इस अनुरोध पर कैसे प्रतिक्रिया देते हैं, इससे आगे की बातचीत की दिशा तय होगी। पुष्टि किए गए तथ्य हैं आयोग का अनुरोध, संबंधित पक्ष और 16 की तारीख। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Komisi tenaga kerja minta manajemen dan pekerja Samsung Electronics lanjutkan mediasi pada 16",
+        "excerpt": "Komisi Hubungan Ketenagakerjaan Pusat Korea Selatan meminta pihak pekerja dan manajemen Samsung Electronics membuka kembali mediasi pasca-proses pada tanggal 16, menurut mk.co.kr.",
+        "body": "Komisi Hubungan Ketenagakerjaan Pusat Korea Selatan meminta pihak pekerja dan manajemen Samsung Electronics melanjutkan mediasi pasca-proses pada tanggal 16, menurut laporan mk.co.kr. Permintaan itu ditujukan kepada kedua pihak di Samsung Electronics. Teks asli tidak memberikan ringkasan terpisah atau rincian mengenai isu yang dibahas. Mediasi pasca-proses merupakan prosedur untuk kembali menyelaraskan perbedaan antara pekerja dan manajemen. Karena itu, cara kedua pihak merespons permintaan tersebut akan menentukan arah pembicaraan berikutnya. Fakta yang terkonfirmasi adalah permintaan komisi, pihak yang terlibat, dan tanggal 16. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "973d9161ec3c",
     "slug": "알테오젠-장중-7대-급등다시-코스닥-시총-1위로-593812",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Laba operasi kilang Korea tembus 5 triliun won di kuartal I, efek persediaan jadi sorotan",
         "excerpt": "Empat perusahaan kilang Korea mencatat laba operasi kejutan 5 triliun won pada kuartal I, namun kenaikan harga minyak membuat valuasi persediaan ikut membesar.",
         "body": "Empat perusahaan kilang utama Korea mencatat laba operasi gabungan 5 triliun won pada kuartal pertama, berbalik tajam dari kondisi rugi menjadi surplus besar. Perang di Timur Tengah yang berkepanjangan membuat harga minyak internasional bergejolak, sehingga nilai persediaan yang dimiliki perusahaan naik dan tercermin dalam kinerja. Namun hasil ini dinilai sebagian sebagai ilusi akuntansi, karena keuntungan valuasi persediaan akibat kenaikan harga minyak lebih besar perannya dibanding perbaikan nyata margin penyulingan. Pada paruh kedua, kekhawatiran atas kenaikan biaya impor minyak mentah meningkat, sementara beban kebijakan harga maksimum yang dibekukan tiga kali berturut-turut juga menjadi tekanan bagi profitabilitas. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "3b1ad73d9df3",
-    "slug": "조명사업-60년-바이오로-새-먹거리-창출-951647",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T12:01:37.034Z",
-    "updatedAt": "2026-05-13T12:01:37.034Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12046395",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12046395",
-    "titleFingerprint": "94d34b9dc7878c0da0c70dc4b23f4bb097a3e6c3",
-    "dedupKeys": [
-      "3b1ad73d9df32e2b6d50e0510227b08d385bbf74",
-      "94d34b9dc7878c0da0c70dc4b23f4bb097a3e6c3",
-      "ca55968c14044f79d234ba8386a2e2f7ca3b3dfe"
-    ],
-    "imageUrl": "/images/articles/3b1ad73d9df3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "우리그린사이언스, 아야나바이오 500만달러 투자로 바이오 신사업 확대",
-        "excerpt": "‘장수램프’로 알려진 우리그룹 산하 우리그린사이언스가 지난 3월 미국 식물세포 바이오테크 기업 아야나바이오에 500만달러를 투자하며 바이오 신사업을 넓혔다.",
-        "body": "‘장수램프’로 유명한 우리그룹(옛 우리조명그룹) 산하 바이오 회사 우리그린사이언스가 지난 3월 미국 식물세포 바이오테크 기업 아야나바이오에 500만달러 규모 투자를 진행했다. 조명사업 60년의 기반을 가진 우리그룹은 바이오 분야를 새로운 먹거리로 삼는 움직임을 본격화하고 있다. 이번 투자는 기존 조명 중심 사업 포트폴리오에 바이오테크 영역을 더하는 사례로, 그룹의 사업 확장 방향을 보여준다. 관련 내용은 mk.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "Woori Green Science Invests $5 Million in Ayana Bio to Expand Biotech Push",
-        "excerpt": "Woori Green Science, a biotech unit of Woori Group known for Jangsu Lamp, invested $5 million in U.S. plant-cell biotech firm Ayana Bio in March to widen its bio business.",
-        "body": "Woori Green Science, a biotech company under Woori Group, formerly Woori Lighting Group and known for its Jangsu Lamp brand, invested $5 million in Ayana Bio, a U.S. plant-cell biotechnology company, in March. With a 60-year foundation in the lighting business, Woori Group is moving to create a new growth source in biotechnology. The investment adds a biotech area to a business portfolio long centered on lighting and shows the group’s direction for expansion. This article cites reporting from mk.co.kr."
-      },
-      "ja": {
-        "title": "ウリグリーンサイエンス、アヤナバイオに500万ドル投資しバイオ拡大",
-        "excerpt": "「長寿ランプ」で知られるウリグループ傘下のウリグリーンサイエンスは3月、米植物細胞バイオ企業アヤナバイオに500万ドルを投資した。",
-        "body": "「長寿ランプ」で知られるウリグループ（旧ウリ照明グループ）傘下のバイオ企業、ウリグリーンサイエンスは3月、米国の植物細胞バイオテック企業アヤナバイオに500万ドル規模の投資を行った。照明事業60年の基盤を持つウリグループは、バイオ分野を新たな成長源とする動きを本格化している。今回の投資は、照明中心だった事業ポートフォリオにバイオテック領域を加える事例であり、グループの事業拡大の方向性を示している。内容はmk.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "Woori Green Science投资Ayana Bio 500万美元，扩大生物科技业务",
-        "excerpt": "以“长寿灯”闻名的Woori集团旗下Woori Green Science今年3月向美国植物细胞生物科技企业Ayana Bio投资500万美元，拓展生物业务。",
-        "body": "以“长寿灯”闻名的Woori集团（原Woori Lighting Group）旗下生物公司Woori Green Science今年3月向美国植物细胞生物科技企业Ayana Bio进行了500万美元规模投资。拥有60年照明业务基础的Woori集团，正把生物领域作为新的增长来源加以推进。此次投资是在原本以照明为中心的业务组合中加入生物科技领域的案例，也显示出集团业务扩张方向。本文引用mk.co.kr报道。"
-      },
-      "es": {
-        "title": "Woori Green Science invierte 5 millones de dólares en Ayana Bio y amplía biotecnología",
-        "excerpt": "Woori Green Science, filial bio de Woori Group conocida por Jangsu Lamp, invirtió en marzo 5 millones de dólares en la firma estadounidense de biotecnología vegetal Ayana Bio.",
-        "body": "Woori Green Science, empresa biotecnológica de Woori Group, antes Woori Lighting Group y conocido por la marca Jangsu Lamp, realizó en marzo una inversión de 5 millones de dólares en Ayana Bio, compañía estadounidense de biotecnología de células vegetales. Con una base de 60 años en el negocio de iluminación, Woori Group está impulsando el área bio como una nueva fuente de crecimiento. La inversión suma biotecnología a una cartera centrada en iluminación y muestra la dirección de expansión del grupo. Este texto cita a mk.co.kr."
-      },
-      "pt": {
-        "title": "Woori Green Science investe US$ 5 milhões na Ayana Bio e amplia aposta em biotecnologia",
-        "excerpt": "A Woori Green Science, empresa bio do Woori Group conhecido pela Jangsu Lamp, investiu em março US$ 5 milhões na norte-americana Ayana Bio, de biotecnologia vegetal.",
-        "body": "A Woori Green Science, empresa de biotecnologia do Woori Group, antigo Woori Lighting Group e conhecido pela marca Jangsu Lamp, realizou em março um investimento de US$ 5 milhões na Ayana Bio, companhia norte-americana de biotecnologia de células vegetais. Com 60 anos de base no negócio de iluminação, o Woori Group avança para fazer da área bio uma nova fonte de crescimento. O investimento acrescenta biotecnologia a um portfólio centrado em iluminação e mostra a direção de expansão do grupo. O conteúdo cita reportagem do mk.co.kr."
-      },
-      "de": {
-        "title": "Woori Green Science investiert 5 Millionen Dollar in Ayana Bio und stärkt Biotech",
-        "excerpt": "Woori Green Science, die Biotech-Tochter der für Jangsu Lamp bekannten Woori Group, investierte im März 5 Millionen Dollar in das US-Pflanzenzell-Biotechunternehmen Ayana Bio.",
-        "body": "Woori Green Science, ein Biotechunternehmen der Woori Group, früher Woori Lighting Group und bekannt für die Marke Jangsu Lamp, hat im März 5 Millionen Dollar in Ayana Bio investiert, ein US-Unternehmen für Pflanzenzell-Biotechnologie. Mit einer 60-jährigen Basis im Beleuchtungsgeschäft treibt Woori Group den Biobereich als neue Wachstumsquelle voran. Die Investition ergänzt das lange auf Beleuchtung ausgerichtete Portfolio um Biotechnologie und zeigt die Expansionsrichtung des Konzerns. Der Beitrag zitiert mk.co.kr."
-      },
-      "fr": {
-        "title": "Woori Green Science investit 5 millions de dollars dans Ayana Bio pour élargir la biotech",
-        "excerpt": "Woori Green Science, filiale bio de Woori Group connue pour Jangsu Lamp, a investi en mars 5 millions de dollars dans l’entreprise américaine de biotechnologie végétale Ayana Bio.",
-        "body": "Woori Green Science, société de biotechnologie de Woori Group, anciennement Woori Lighting Group et connue pour la marque Jangsu Lamp, a réalisé en mars un investissement de 5 millions de dollars dans Ayana Bio, entreprise américaine de biotechnologie de cellules végétales. Forte de 60 ans d’activité dans l’éclairage, Woori Group cherche à faire du domaine bio une nouvelle source de croissance. Cet investissement ajoute la biotechnologie à un portefeuille centré sur l’éclairage et montre l’orientation d’expansion du groupe. Le contenu cite mk.co.kr."
-      },
-      "ar": {
-        "title": "ووري غرين ساينس تستثمر 5 ملايين دولار في أيانا بايو لتوسيع نشاط التكنولوجيا الحيوية",
-        "excerpt": "استثمرت ووري غرين ساينس، شركة التكنولوجيا الحيوية التابعة لمجموعة ووري المعروفة بعلامة جانغسو لامب، 5 ملايين دولار في مارس في شركة Ayana Bio الأميركية المتخصصة في خلايا النبات.",
-        "body": "أجرت ووري غرين ساينس، شركة التكنولوجيا الحيوية التابعة لمجموعة ووري، المعروفة سابقا باسم مجموعة ووري للإضاءة وبعلامة جانغسو لامب، استثمارا بقيمة 5 ملايين دولار في مارس في شركة Ayana Bio الأميركية المتخصصة في التكنولوجيا الحيوية لخلايا النبات. وتتحرك مجموعة ووري، التي تملك أساسا يمتد 60 عاما في أعمال الإضاءة، لجعل مجال التكنولوجيا الحيوية مصدرا جديدا للنمو. يضيف هذا الاستثمار مجالا حيويا إلى محفظة كانت متمحورة حول الإضاءة، ويعرض اتجاه توسع المجموعة. يستند المحتوى إلى تقرير mk.co.kr."
-      },
-      "hi": {
-        "title": "Woori Green Science ने Ayana Bio में 50 लाख डॉलर निवेश कर बायोटेक विस्तार बढ़ाया",
-        "excerpt": "Jangsu Lamp के लिए प्रसिद्ध Woori Group की बायो कंपनी Woori Green Science ने मार्च में अमेरिकी प्लांट-सेल बायोटेक कंपनी Ayana Bio में 50 लाख डॉलर का निवेश किया।",
-        "body": "Jangsu Lamp के लिए प्रसिद्ध Woori Group, जिसे पहले Woori Lighting Group कहा जाता था, की बायोटेक कंपनी Woori Green Science ने मार्च में अमेरिकी प्लांट-सेल बायोटेक कंपनी Ayana Bio में 50 लाख डॉलर का निवेश किया। 60 वर्षों के प्रकाश व्यवसाय की नींव रखने वाला Woori Group बायो क्षेत्र को नई वृद्धि के स्रोत के रूप में आगे बढ़ा रहा है। यह निवेश प्रकाश केंद्रित कारोबार पोर्टफोलियो में बायोटेक क्षेत्र जोड़ने का उदाहरण है और समूह की विस्तार दिशा दिखाता है। यह सामग्री mk.co.kr की रिपोर्ट का हवाला देती है।"
-      },
-      "id": {
-        "title": "Woori Green Science Investasi US$5 Juta di Ayana Bio untuk Perluas Bisnis Biotek",
-        "excerpt": "Woori Green Science, perusahaan bio di bawah Woori Group yang dikenal lewat Jangsu Lamp, pada Maret berinvestasi US$5 juta di perusahaan biotek sel tanaman AS, Ayana Bio.",
-        "body": "Woori Green Science, perusahaan biotek di bawah Woori Group, sebelumnya Woori Lighting Group dan dikenal lewat merek Jangsu Lamp, pada Maret melakukan investasi senilai US$5 juta di Ayana Bio, perusahaan bioteknologi sel tanaman asal Amerika Serikat. Dengan basis 60 tahun di bisnis pencahayaan, Woori Group mulai mendorong bidang bio sebagai sumber pertumbuhan baru. Investasi ini menambahkan area bioteknologi ke portofolio yang selama ini berpusat pada pencahayaan dan menunjukkan arah ekspansi grup. Isi ini mengutip laporan mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "db9f06a9596a",
-    "slug": "한치도-양보안한-삼성노조소외된-dx직원들-소송-준비-535255",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T12:00:43.779Z",
-    "updatedAt": "2026-05-13T12:00:43.779Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12046426",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12046426",
-    "titleFingerprint": "b6c54d66f347c4137ece04ea97aa1a64cfd4ff74",
-    "dedupKeys": [
-      "db9f06a9596a369f2eb3c0871544cb3941a42ab5",
-      "b6c54d66f347c4137ece04ea97aa1a64cfd4ff74",
-      "91088c2d4b609ccbefa04336dc2e49824896d861"
-    ],
-    "imageUrl": "/images/articles/db9f06a9596a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성노조 사후조정 결렬, 소외된 DX 직원들 소송 준비 본격화",
-        "excerpt": "13일 삼성 노사 사후조정이 중앙노동위원회 중재에도 결렬됐다. 노조가 중노위 검토안을 수용할 수 없다고 밝히며 DX 직원들의 소송 준비가 주목된다.",
-        "body": "삼성 노사의 사후조정이 13일 중앙노동위원회 중재로 진행됐지만 결렬됐다. 회사 측이 중노위 중재안을 검토하던 과정에서 노조가 먼저 검토안을 받아들일 수 없다고 선언했기 때문이다. 이번 조정은 기존 교섭 이후 남은 쟁점을 다루기 위해 마련됐으나, 노사 간 입장 차가 좁혀지지 않았다. 원문은 이 과정에서 소외된 DX 직원들이 소송을 준비하고 있다고 전했다. 사후조정 무산으로 삼성 노사 갈등은 법적 대응 가능성까지 포함한 다음 국면으로 이어질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Union Post-Mediation Breaks Down as DX Staff Prepare Lawsuit",
-        "excerpt": "Samsung labor-management post-mediation broke down on May 13 despite National Labor Relations Commission mediation, after the union said it could not accept the review proposal.",
-        "body": "Samsung’s labor-management post-mediation talks broke down on May 13 despite mediation by the National Labor Relations Commission. The breakdown occurred while the company was reviewing the commission’s proposal, because the union first declared that it could not accept the review plan. The session had been arranged to address remaining issues after earlier negotiations, but the gap between the two sides was not narrowed. The original report said DX employees who felt left out are preparing a lawsuit. With post-mediation failing, Samsung’s labor dispute is expected to move into a next phase that could include legal action. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン労組の事後調整が決裂、取り残されたDX社員が訴訟準備",
-        "excerpt": "13日、中央労働委員会の仲裁で開かれたサムスン労使の事後調整は、労組が検討案を受け入れられないと表明し決裂した。",
-        "body": "サムスン労使の事後調整は13日、中央労働委員会の仲裁で行われたが決裂した。会社側が中労委の仲裁案を検討している過程で、労組側が先に検討案を受け入れられないと宣言したためだ。今回の調整は、これまでの交渉後に残った争点を扱うために設けられたが、労使間の隔たりは縮まらなかった。原文は、この過程で疎外されたDX社員が訴訟を準備していると伝えた。事後調整の不成立により、サムスンの労使対立は法的対応の可能性を含む次の局面に進む見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星工会事后调解破裂，被边缘化DX员工准备提起诉讼",
-        "excerpt": "5月13日，在中央劳动委员会调解下进行的三星劳资事后调解宣告破裂，因工会率先表示无法接受中劳委审查方案。",
-        "body": "三星劳资双方的事后调解于5月13日在中央劳动委员会调解下举行，但最终破裂。原因是在公司方面审查中劳委调解方案的过程中，工会方面率先宣布无法接受该审查方案。此次调解原本旨在处理此前谈判后遗留的争议，但劳资双方立场差距未能缩小。原文称，在这一过程中感到被边缘化的DX员工正在准备诉讼。随着事后调解未能达成，三星劳资矛盾预计将进入可能包含法律应对的下一阶段。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Fracasa la mediación posterior del sindicato de Samsung y empleados DX preparan demanda",
-        "excerpt": "El 13 de mayo fracasó la mediación posterior entre Samsung y el sindicato, pese a la intervención de la Comisión Nacional de Relaciones Laborales.",
-        "body": "La mediación posterior entre la dirección de Samsung y el sindicato fracasó el 13 de mayo pese a la intervención de la Comisión Nacional de Relaciones Laborales. La ruptura se produjo mientras la empresa revisaba la propuesta de mediación, ya que el sindicato declaró primero que no podía aceptar el plan de revisión. La instancia buscaba tratar los asuntos pendientes tras negociaciones previas, pero las diferencias entre las partes no se redujeron. El texto original señaló que empleados de DX que se sienten excluidos están preparando una demanda. Con el fracaso de la mediación posterior, el conflicto laboral de Samsung apunta a una nueva fase que podría incluir acciones legales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Mediação do sindicato da Samsung fracassa e funcionários DX preparam ação",
-        "excerpt": "Em 13 de maio, a mediação posterior entre Samsung e sindicato fracassou apesar da Comissão Nacional de Relações Trabalhistas, após rejeição sindical.",
-        "body": "A mediação posterior entre a direção da Samsung e o sindicato fracassou em 13 de maio, mesmo com a intervenção da Comissão Nacional de Relações Trabalhistas. O impasse ocorreu enquanto a empresa analisava a proposta da comissão, pois o sindicato declarou primeiro que não poderia aceitar o plano em avaliação. A reunião havia sido organizada para tratar pontos restantes depois de negociações anteriores, mas a distância entre as posições não diminuiu. O texto original informou que funcionários da divisão DX que se sentiram excluídos estão preparando uma ação judicial. Com o fracasso da mediação, o conflito trabalhista da Samsung deve seguir para uma nova fase, com possibilidade de medidas legais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung-Gewerkschaft scheitert in Nachschlichtung, DX-Beschäftigte bereiten Klage vor",
-        "excerpt": "Am 13. Mai scheiterte die Nachschlichtung zwischen Samsung und der Gewerkschaft trotz Vermittlung der Nationalen Arbeitskommission nach Ablehnung durch die Gewerkschaft.",
-        "body": "Die Nachschlichtung zwischen Samsung und der Gewerkschaft ist am 13. Mai trotz Vermittlung der Nationalen Arbeitskommission gescheitert. Der Abbruch erfolgte, während das Unternehmen den Vermittlungsvorschlag prüfte, da die Gewerkschaft zuerst erklärte, den Prüfentwurf nicht akzeptieren zu können. Die Schlichtung sollte verbliebene Streitpunkte nach früheren Verhandlungen behandeln, doch die Positionen der beiden Seiten näherten sich nicht an. Der Originalbericht meldete, dass sich ausgegrenzte DX-Beschäftigte auf eine Klage vorbereiten. Nach dem Scheitern der Nachschlichtung dürfte der Arbeitskonflikt bei Samsung in eine nächste Phase übergehen, die auch rechtliche Schritte einschließen kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Échec de la médiation du syndicat Samsung, des employés DX préparent une action",
-        "excerpt": "Le 13 mai, la médiation postérieure entre Samsung et le syndicat a échoué malgré l’intervention de la Commission nationale du travail, après le refus syndical.",
-        "body": "La médiation postérieure entre la direction de Samsung et le syndicat a échoué le 13 mai malgré l’intervention de la Commission nationale du travail. La rupture est intervenue alors que l’entreprise examinait la proposition de médiation, le syndicat ayant d’abord déclaré qu’il ne pouvait pas accepter le projet soumis à examen. Cette séance devait traiter les points restés en suspens après les négociations précédentes, mais l’écart entre les positions n’a pas été réduit. Le texte original indique que des employés DX se sentant exclus préparent une action en justice. Avec cet échec, le conflit social chez Samsung devrait entrer dans une nouvelle phase pouvant inclure des recours juridiques. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تعثر وساطة نقابة سامسونغ اللاحقة وموظفو DX يستعدون لدعوى قضائية",
-        "excerpt": "في 13 مايو، فشلت الوساطة اللاحقة بين سامسونغ والنقابة رغم تدخل لجنة علاقات العمل الوطنية، بعدما أعلنت النقابة رفضها مقترح المراجعة.",
-        "body": "فشلت محادثات الوساطة اللاحقة بين إدارة سامسونغ والنقابة في 13 مايو رغم تدخل لجنة علاقات العمل الوطنية. وجاء التعثر بينما كانت الشركة تراجع مقترح اللجنة، إذ أعلنت النقابة أولا أنها لا تستطيع قبول خطة المراجعة. وكانت الجلسة مخصصة لبحث القضايا المتبقية بعد مفاوضات سابقة، لكن الفجوة بين موقفي الطرفين لم تضق. وذكر النص الأصلي أن موظفي DX الذين شعروا بالتهميش يستعدون لرفع دعوى قضائية. ومع فشل الوساطة اللاحقة، من المتوقع أن ينتقل النزاع العمالي في سامسونغ إلى مرحلة جديدة قد تشمل إجراءات قانونية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सैमसंग यूनियन की बाद की मध्यस्थता विफल, DX कर्मचारी मुकदमे की तैयारी में",
-        "excerpt": "13 मई को राष्ट्रीय श्रम संबंध आयोग की मध्यस्थता के बावजूद सैमसंग प्रबंधन और यूनियन की बाद की वार्ता टूट गई, क्योंकि यूनियन ने समीक्षा प्रस्ताव अस्वीकार किया।",
-        "body": "सैमसंग प्रबंधन और यूनियन के बीच बाद की मध्यस्थता 13 मई को राष्ट्रीय श्रम संबंध आयोग की पहल के बावजूद विफल हो गई। यह गतिरोध तब आया जब कंपनी आयोग के मध्यस्थता प्रस्ताव की समीक्षा कर रही थी, क्योंकि यूनियन ने पहले ही कहा कि वह समीक्षा प्रस्ताव स्वीकार नहीं कर सकती। यह बैठक पिछली बातचीत के बाद बचे मुद्दों को निपटाने के लिए रखी गई थी, लेकिन दोनों पक्षों के रुख में अंतर कम नहीं हुआ। मूल रिपोर्ट के अनुसार, इस प्रक्रिया में उपेक्षित महसूस कर रहे DX कर्मचारी मुकदमे की तैयारी कर रहे हैं। मध्यस्थता विफल होने के बाद सैमसंग का श्रम विवाद कानूनी कदमों सहित अगले चरण में जा सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Mediasi Lanjutan Serikat Samsung Gagal, Karyawan DX Siapkan Gugatan",
-        "excerpt": "Pada 13 Mei, mediasi lanjutan antara Samsung dan serikat pekerja gagal meski dimediasi Komisi Hubungan Kerja Nasional setelah serikat menolak rancangan kajian.",
-        "body": "Mediasi lanjutan antara manajemen Samsung dan serikat pekerja gagal pada 13 Mei meski difasilitasi Komisi Hubungan Kerja Nasional. Kebuntuan terjadi saat pihak perusahaan sedang meninjau usulan mediasi komisi, karena serikat lebih dulu menyatakan tidak dapat menerima rancangan kajian tersebut. Pertemuan ini digelar untuk membahas isu yang tersisa setelah perundingan sebelumnya, tetapi jarak posisi kedua pihak tidak menyempit. Teks asli menyebut karyawan DX yang merasa tersisih sedang menyiapkan gugatan. Dengan gagalnya mediasi lanjutan, konflik ketenagakerjaan Samsung diperkirakan masuk ke tahap berikutnya yang dapat mencakup langkah hukum. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "225678a13102",
-    "slug": "hmm-1분기-영업이익-2691억운임-하락에도-글로벌-상위권-수익성-유지-192296",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T11:59:44.925Z",
-    "updatedAt": "2026-05-13T11:59:44.925Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12046428",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12046428",
-    "titleFingerprint": "51017e06b87a68870889b9dfd74588c88ad0a683",
-    "dedupKeys": [
-      "225678a13102b252a7e48139b631bbf6e759a001",
-      "51017e06b87a68870889b9dfd74588c88ad0a683",
-      "5e820ede0fbf651eb8d2f8f902c0412ac4404b3a"
-    ],
-    "imageUrl": "/images/articles/225678a13102.jpg",
-    "i18n": {
-      "ko": {
-        "title": "HMM 1분기 영업이익 2691억, 운임 하락에도 수익성 상위권 유지",
-        "excerpt": "HMM은 올해 1분기 매출 2조7187억원, 영업이익 2691억원을 기록하며 이란 사태발 운임·유가 악재와 미주 운임 급락 속에서도 흑자를 유지했다.",
-        "body": "HMM은 올해 1분기 매출 2조7187억원, 영업이익 2691억원을 기록했다. 이란 사태로 인한 운임과 유가의 이중 악재, 미주 운임 38% 급락에도 영업이익률은 9.9%로 집계됐다. 운임 하락 압력이 컸지만 회사는 흑자를 유지하며 글로벌 해운사 가운데 상위권 수익성을 이어갔다. 이번 실적은 해운 시황 변동과 비용 부담이 동시에 작용한 가운데 나온 결과다. 향후 관건은 운임 약세와 유가 부담이 이어지는 상황에서 수익성 방어가 지속될지 여부다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "HMM Q1 Operating Profit Hits 269.1 Billion Won Despite Freight Rate Slide",
-        "excerpt": "HMM posted first-quarter revenue of 2.7187 trillion won and operating profit of 269.1 billion won, staying profitable despite Iran-linked freight and oil headwinds.",
-        "body": "HMM reported first-quarter revenue of 2.7187 trillion won and operating profit of 269.1 billion won this year. Despite dual pressure from freight rates and oil prices linked to the Iran situation, and a 38% plunge in Americas freight rates, its operating margin stood at 9.9%. The company remained in the black even as falling freight rates weighed on earnings, maintaining profitability among the upper ranks of global shipping firms. The results came as volatile shipping conditions and cost burdens worked at the same time. The key issue ahead is whether HMM can continue defending profitability if weak freight rates and oil-price pressure persist. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "HMM第1四半期営業益2691億ウォン、運賃下落でも高収益維持",
-        "excerpt": "HMMは今年第1四半期に売上高2兆7187億ウォン、営業利益2691億ウォンを記録し、イラン情勢による運賃・原油高の逆風下でも黒字を維持した。",
-        "body": "HMMは今年第1四半期、売上高2兆7187億ウォン、営業利益2691億ウォンを計上した。イラン情勢に伴う運賃と原油価格の二重の悪材料に加え、米州運賃が38%急落したにもかかわらず、営業利益率は9.9%となった。運賃下落圧力は大きかったが、同社は黒字を維持し、世界の海運会社の中でも上位圏の収益性を保った。今回の業績は、海運市況の変動と費用負担が同時に作用する中で出た結果だ。今後は、運賃の弱含みと原油価格負担が続く状況で収益性を守れるかが焦点となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "HMM一季度营业利润2691亿韩元，运价下跌仍守住高盈利",
-        "excerpt": "HMM今年一季度实现营收2.7187万亿韩元、营业利润2691亿韩元，在伊朗局势引发的运价与油价压力及美洲运价大跌中保持盈利。",
-        "body": "HMM今年第一季度实现营收2.7187万亿韩元，营业利润2691亿韩元。尽管受到伊朗局势引发的运价和油价双重不利因素影响，美洲运价还下跌38%，其营业利润率仍达到9.9%。在运价下行压力较大的情况下，公司继续保持盈利，并维持了全球航运企业中靠前的收益水平。本次业绩是在航运市场波动和成本负担同时存在的背景下取得的。接下来，市场关注的重点是，在运价疲软和油价压力延续的情况下，HMM能否继续守住盈利能力。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "HMM gana 269.100 millones de wones en Q1 pese a caída de fletes",
-        "excerpt": "HMM registró en el primer trimestre ingresos de 2,7187 billones de wones y beneficio operativo de 269.100 millones, manteniendo ganancias pese a presión por fletes y petróleo.",
-        "body": "HMM registró este año, en el primer trimestre, ingresos de 2,7187 billones de wones y un beneficio operativo de 269.100 millones de wones. A pesar de la doble presión sobre fletes y precios del petróleo vinculada a la situación en Irán, y de una caída del 38% en las tarifas hacia América, el margen operativo fue del 9,9%. Aunque el descenso de los fletes pesó sobre los resultados, la empresa se mantuvo en números negros y conservó una rentabilidad situada entre las más altas del sector naviero global. El resultado llega en un entorno de volatilidad del mercado marítimo y mayores costes. La cuestión ahora es si podrá defender esa rentabilidad si persisten la debilidad de los fletes y la presión del petróleo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "HMM lucra 269,1 bi de won no 1º tri apesar da queda nos fretes",
-        "excerpt": "A HMM registrou no primeiro trimestre receita de 2,7187 trilhões de won e lucro operacional de 269,1 bilhões, mantendo lucro apesar de pressões de frete e petróleo.",
-        "body": "A HMM registrou neste ano, no primeiro trimestre, receita de 2,7187 trilhões de won e lucro operacional de 269,1 bilhões de won. Mesmo com a dupla pressão sobre fretes e preços do petróleo ligada à situação no Irã, além da queda de 38% nas tarifas das rotas para as Américas, a margem operacional ficou em 9,9%. A queda dos fretes pressionou os resultados, mas a empresa permaneceu lucrativa e manteve rentabilidade entre as mais altas do setor global de navegação. O desempenho ocorreu em meio à volatilidade do mercado marítimo e ao peso dos custos. O ponto de atenção é se a HMM conseguirá preservar essa rentabilidade caso a fraqueza dos fretes e a pressão do petróleo continuem. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "HMM erzielt im Q1 269,1 Mrd. Won operativen Gewinn trotz Frachtrückgang",
-        "excerpt": "HMM meldete im ersten Quartal 2,7187 Billionen Won Umsatz und 269,1 Milliarden Won operativen Gewinn und blieb trotz Iran-bedingter Fracht- und Ölbelastungen profitabel.",
-        "body": "HMM erzielte im ersten Quartal dieses Jahres einen Umsatz von 2,7187 Billionen Won und einen operativen Gewinn von 269,1 Milliarden Won. Trotz doppelter Belastungen durch Frachtraten und Ölpreise im Zusammenhang mit der Iran-Lage sowie eines Rückgangs der Amerikas-Frachtraten um 38% lag die operative Marge bei 9,9%. Der Druck fallender Frachtraten war deutlich, doch das Unternehmen blieb profitabel und hielt eine Rentabilität im oberen Bereich der globalen Reedereien. Das Ergebnis entstand in einem Umfeld schwankender Schifffahrtsmärkte und gleichzeitiger Kostenbelastung. Entscheidend wird nun, ob HMM die Profitabilität verteidigen kann, falls schwache Frachtraten und Ölpreisdruck anhalten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "HMM affiche 269,1 milliards de wons de profit au T1 malgré les frets",
-        "excerpt": "HMM a réalisé au premier trimestre un chiffre d’affaires de 2,7187 billions de wons et un bénéfice opérationnel de 269,1 milliards, restant rentable malgré les pressions.",
-        "body": "HMM a enregistré au premier trimestre de cette année un chiffre d’affaires de 2,7187 billions de wons et un bénéfice opérationnel de 269,1 milliards de wons. Malgré la double pression sur les tarifs de fret et les prix du pétrole liée à la situation iranienne, ainsi qu’une chute de 38% des tarifs vers les Amériques, la marge opérationnelle s’est établie à 9,9%. La baisse des frets a pesé sur les résultats, mais l’entreprise est restée bénéficiaire et a conservé une rentabilité parmi les plus élevées du transport maritime mondial. Cette performance intervient dans un contexte de volatilité du marché maritime et de coûts élevés. L’enjeu sera de savoir si HMM peut préserver cette rentabilité si la faiblesse des frets et la pression pétrolière se prolongent. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "HMM تسجل ربحا تشغيليا 269.1 مليار وون في الربع الأول رغم هبوط الشحن",
-        "excerpt": "سجلت HMM في الربع الأول إيرادات قدرها 2.7187 تريليون وون وربحا تشغيليا 269.1 مليار وون، محافظة على الربحية رغم ضغوط الشحن والنفط المرتبطة بإيران.",
-        "body": "أعلنت HMM أن إيراداتها في الربع الأول من هذا العام بلغت 2.7187 تريليون وون، وأن الربح التشغيلي بلغ 269.1 مليار وون. ورغم الضغط المزدوج على أسعار الشحن وأسعار النفط المرتبط بالوضع في إيران، إضافة إلى هبوط أسعار الشحن إلى الأميركيتين بنسبة 38%، سجل هامش الربح التشغيلي 9.9%. كان ضغط تراجع أسعار الشحن كبيرا، لكن الشركة حافظت على تحقيق الأرباح وبقيت ضمن المراتب المتقدمة عالميا من حيث الربحية بين شركات الشحن البحري. جاءت هذه النتائج في ظل تقلبات سوق الشحن وعبء التكاليف في الوقت نفسه. وسيكون التركيز لاحقا على قدرة HMM على حماية ربحيتها إذا استمرت أسعار الشحن الضعيفة وضغوط النفط. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "HMM का Q1 परिचालन लाभ 269.1 अरब वॉन, मालभाड़ा घटने पर भी मजबूती",
-        "excerpt": "HMM ने पहली तिमाही में 2.7187 ट्रिलियन वॉन राजस्व और 269.1 अरब वॉन परिचालन लाभ दर्ज किया, ईरान से जुड़े मालभाड़ा और तेल दबाव के बावजूद मुनाफा बनाए रखा।",
-        "body": "HMM ने इस साल पहली तिमाही में 2.7187 ट्रिलियन वॉन का राजस्व और 269.1 अरब वॉन का परिचालन लाभ दर्ज किया। ईरान की स्थिति से जुड़े मालभाड़े और तेल कीमतों के दोहरे दबाव तथा अमेरिका मार्गों के मालभाड़े में 38% गिरावट के बावजूद परिचालन लाभ मार्जिन 9.9% रहा। मालभाड़े में गिरावट का दबाव बड़ा था, फिर भी कंपनी मुनाफे में रही और वैश्विक शिपिंग कंपनियों में ऊपरी स्तर की लाभप्रदता बनाए रखी। यह प्रदर्शन ऐसे समय आया जब समुद्री परिवहन बाजार में उतार-चढ़ाव और लागत बोझ साथ-साथ रहे। आगे मुख्य सवाल यह है कि कमजोर मालभाड़े और तेल कीमतों के दबाव के बीच HMM अपनी लाभप्रदता बचाए रख पाएगी या नहीं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "HMM Cetak Laba Operasi 269,1 Miliar Won di Q1 Meski Tarif Turun",
-        "excerpt": "HMM membukukan pendapatan kuartal I sebesar 2,7187 triliun won dan laba operasi 269,1 miliar won, tetap untung meski tertekan tarif angkut dan harga minyak.",
-        "body": "HMM mencatat pendapatan kuartal pertama tahun ini sebesar 2,7187 triliun won dan laba operasi 269,1 miliar won. Meski menghadapi tekanan ganda pada tarif angkut dan harga minyak yang terkait situasi Iran, serta penurunan tarif rute Amerika sebesar 38%, margin laba operasi tetap mencapai 9,9%. Tekanan dari turunnya tarif angkut cukup besar, tetapi perusahaan tetap membukukan laba dan mempertahankan profitabilitas di jajaran atas perusahaan pelayaran global. Kinerja ini muncul saat volatilitas pasar pelayaran dan beban biaya berlangsung bersamaan. Fokus berikutnya adalah apakah HMM dapat terus menjaga profitabilitas jika pelemahan tarif angkut dan tekanan harga minyak berlanjut. Sumber: mk.co.kr"
       }
     }
   }
