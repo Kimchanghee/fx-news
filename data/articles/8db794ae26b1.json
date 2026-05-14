@@ -1,0 +1,75 @@
+{
+  "id": "8db794ae26b1",
+  "slug": "삼전-파업피해-100조-추산-업계-긴급조정권-필요-677955",
+  "channelId": "FX",
+  "category": "fx",
+  "publishedAt": "2026-05-14T09:13:32.091Z",
+  "updatedAt": "2026-05-14T09:13:32.091Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/business/12047863",
+  "canonicalUrl": "https://www.mk.co.kr/news/business/12047863",
+  "titleFingerprint": "9ac17d31886106fc7fa5135ec0ed0a2cba3507f0",
+  "dedupKeys": [
+    "8db794ae26b100fde5e84da3586507fe557833af",
+    "9ac17d31886106fc7fa5135ec0ed0a2cba3507f0",
+    "6eb23a6c64e519e4edd6e3889e7ab03fe08888d7"
+  ],
+  "imageUrl": "/images/articles/8db794ae26b1.jpg",
+  "i18n": {
+    "ko": {
+      "title": "삼성전자 총파업 앞두고 반도체 라인 비상관리, 피해 100조원 추산",
+      "excerpt": "삼성전자가 총파업을 일주일 앞두고 반도체 라인 비상 관리에 들어가면서 업계는 파업 피해가 최대 100조원에 이를 수 있다고 보고 긴급조정권 필요성을 제기했다.",
+      "body": "삼성전자가 총파업을 일주일 앞둔 시점에 반도체 생산 라인 비상 관리에 돌입하면서 파업에 따른 피해가 현실화할 가능성이 커지고 있다. 원문에 따르면 업계는 이번 파업이 핵심 반도체 라인 운영에 영향을 줄 경우 피해 규모가 최대 100조원에 달할 수 있다고 추산했다. 반도체 생산은 공정 특성상 중단이나 차질이 발생하면 복구와 정상화에 큰 비용과 시간이 들어갈 수 있어 산업계의 우려가 커지는 분위기다. 이에 업계에서는 피해 확산을 막기 위해 긴급조정권이 필요하다는 의견이 나오고 있다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Samsung Electronics Faces Strike Risk as Chip-Line Damage Estimate Reaches W100tn",
+      "excerpt": "Samsung Electronics began emergency management of its semiconductor lines one week before a general strike, while industry estimates put potential strike-related damage at up to W100 trillion.",
+      "body": "Samsung Electronics has entered emergency management of its semiconductor production lines one week before a planned general strike, raising the possibility that strike-related damage could begin to materialize. According to the original report, industry estimates suggest losses could reach as much as W100 trillion if the walkout affects key semiconductor line operations. Because semiconductor production can require significant time and cost to recover once disruptions occur, concerns are growing across the industry. Some industry voices are calling for emergency adjustment authority to prevent damage from spreading further. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "サムスン電子、総スト前に半導体ライン非常管理へ 被害100兆ウォン推算",
+      "excerpt": "サムスン電子が総ストを1週間後に控えて半導体ラインの非常管理に入り、業界ではストによる被害が最大100兆ウォンに達する可能性があるとみている。",
+      "body": "サムスン電子は総ストを1週間後に控えた時点で半導体生産ラインの非常管理に入り、ストによる被害が現実化する可能性が高まっている。原文によると、業界は今回のストが主要な半導体ラインの運営に影響を及ぼす場合、被害規模が最大100兆ウォンに達する可能性があると推算している。半導体生産は工程の特性上、中断や支障が発生すると復旧と正常化に大きな費用と時間がかかるため、産業界の懸念が強まっている。これを受け、業界では被害拡大を防ぐため緊急調整権が必要だとの意見が出ている。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "三星电子总罢工前启动半导体线应急管理，损失估算达100万亿韩元",
+      "excerpt": "三星电子在总罢工前一周启动半导体生产线应急管理，业界估算罢工造成的损失最高可能达到100万亿韩元，并提出需要紧急调整权。",
+      "body": "三星电子在总罢工还有一周之际，已进入半导体生产线应急管理状态，罢工造成的损失可能开始现实化。根据原文，业界估算，如果此次罢工影响核心半导体生产线运行，损失规模最高可能达到100万亿韩元。由于半导体生产工艺的特性，一旦发生停产或运行受阻，恢复和正常化可能需要大量成本和时间，因此产业界担忧加剧。对此，业界有人提出，为防止损失进一步扩大，有必要启动紧急调整权。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Samsung activa gestión de emergencia en chips ante huelga y daños de hasta W100 billones",
+      "excerpt": "Samsung Electronics inició la gestión de emergencia de sus líneas de semiconductores una semana antes de la huelga general, mientras el sector estima posibles daños de hasta W100 billones.",
+      "body": "Samsung Electronics inició la gestión de emergencia de sus líneas de producción de semiconductores cuando falta una semana para la huelga general, elevando la posibilidad de que los daños derivados del paro comiencen a materializarse. Según el texto original, el sector estima que las pérdidas podrían alcanzar hasta W100 billones si la huelga afecta la operación de líneas clave de semiconductores. Por las características del proceso de producción de chips, una interrupción o alteración puede requerir mucho tiempo y costos para recuperar la normalidad, lo que aumenta la preocupación industrial. En este contexto, voces del sector plantean la necesidad de una autoridad de ajuste de emergencia para evitar una mayor propagación de los daños. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Samsung põe linhas de chips em emergência antes de greve e dano pode chegar a W100 tri",
+      "excerpt": "A Samsung Electronics iniciou gestão emergencial das linhas de semicondutores uma semana antes da greve geral, enquanto o setor estima danos potenciais de até W100 trilhões.",
+      "body": "A Samsung Electronics entrou em gestão emergencial de suas linhas de produção de semicondutores uma semana antes da greve geral planejada, aumentando a possibilidade de que os danos ligados à paralisação se tornem reais. Segundo o texto original, o setor estima que as perdas possam chegar a W100 trilhões caso a greve afete a operação de linhas essenciais de semicondutores. Pela natureza do processo de fabricação de chips, qualquer interrupção ou falha pode exigir alto custo e tempo para recuperação e normalização, ampliando a preocupação na indústria. Diante disso, representantes do setor defendem a necessidade de autoridade de ajuste emergencial para evitar a expansão dos prejuízos. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Samsung startet Notmanagement für Chiplinien vor Streik, Schaden bis W100 Bio. geschätzt",
+      "excerpt": "Samsung Electronics hat eine Woche vor dem Generalstreik das Notmanagement für Halbleiterlinien begonnen; die Branche schätzt mögliche Streikschäden auf bis zu W100 Billionen.",
+      "body": "Samsung Electronics hat eine Woche vor dem geplanten Generalstreik das Notmanagement für seine Halbleiter-Produktionslinien eingeleitet, womit streikbedingte Schäden konkreter werden könnten. Dem Ausgangsbericht zufolge schätzt die Branche, dass die Verluste bis zu W100 Billionen erreichen könnten, falls der Streik den Betrieb zentraler Halbleiterlinien beeinträchtigt. Aufgrund der besonderen Abläufe in der Chipproduktion können Unterbrechungen oder Störungen erhebliche Kosten und viel Zeit für Wiederherstellung und Normalisierung verursachen. Entsprechend wächst die Sorge in der Industrie. Aus Branchenkreisen kommt daher die Forderung nach einer Notanpassungsbefugnis, um eine Ausweitung der Schäden zu verhindern. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Samsung place ses lignes de puces en urgence avant la grève, dégâts estimés à W100 tn",
+      "excerpt": "Samsung Electronics a lancé une gestion d’urgence de ses lignes de semi-conducteurs une semaine avant la grève générale, alors que le secteur estime les dégâts possibles à W100 billions.",
+      "body": "Samsung Electronics a lancé une gestion d’urgence de ses lignes de production de semi-conducteurs à une semaine de la grève générale prévue, ce qui accroît la possibilité de voir les dommages liés au mouvement se concrétiser. Selon le texte original, le secteur estime que les pertes pourraient atteindre jusqu’à W100 billions si la grève affecte l’exploitation des principales lignes de semi-conducteurs. En raison des caractéristiques du processus de fabrication des puces, toute interruption ou perturbation peut nécessiter des coûts et des délais importants pour le rétablissement et la normalisation. Les inquiétudes montent donc dans l’industrie. Des voix du secteur évoquent la nécessité d’un pouvoir d’ajustement d’urgence pour empêcher l’extension des dégâts. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "سامسونغ تبدأ إدارة طارئة لخطوط الرقائق قبل الإضراب وخسائر محتملة بـ100 تريليون وون",
+      "excerpt": "بدأت سامسونغ إلكترونيكس إدارة طارئة لخطوط أشباه الموصلات قبل أسبوع من الإضراب العام، فيما يقدر القطاع أن الأضرار المحتملة قد تصل إلى 100 تريليون وون.",
+      "body": "دخلت سامسونغ إلكترونيكس في إدارة طارئة لخطوط إنتاج أشباه الموصلات قبل أسبوع من الإضراب العام المقرر، ما يزيد احتمال تحول الأضرار المرتبطة بالإضراب إلى واقع. ووفق النص الأصلي، يقدر القطاع أن حجم الخسائر قد يصل إلى 100 تريليون وون إذا أثر الإضراب في تشغيل خطوط أشباه الموصلات الرئيسية. وبسبب طبيعة عمليات إنتاج الرقائق، فإن أي توقف أو اضطراب قد يتطلب كلفة كبيرة ووقتا طويلا للتعافي والعودة إلى الوضع الطبيعي، وهو ما يرفع مستوى القلق داخل الصناعة. لذلك تطرح جهات في القطاع الحاجة إلى صلاحية تعديل طارئة لمنع اتساع نطاق الأضرار. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "Samsung की चिप लाइनों पर हड़ताल से पहले आपात प्रबंधन, नुकसान W100 ट्रिलियन तक अनुमानित",
+      "excerpt": "Samsung Electronics ने आम हड़ताल से एक सप्ताह पहले सेमीकंडक्टर लाइनों का आपात प्रबंधन शुरू किया, जबकि उद्योग ने संभावित नुकसान W100 ट्रिलियन तक आंका है।",
+      "body": "Samsung Electronics ने प्रस्तावित आम हड़ताल से एक सप्ताह पहले अपनी सेमीकंडक्टर उत्पादन लाइनों के लिए आपात प्रबंधन शुरू कर दिया है, जिससे हड़ताल से जुड़े नुकसान के वास्तविक रूप लेने की आशंका बढ़ गई है। मूल रिपोर्ट के अनुसार, उद्योग का अनुमान है कि यदि हड़ताल प्रमुख सेमीकंडक्टर लाइनों के संचालन को प्रभावित करती है तो नुकसान W100 ट्रिलियन तक पहुंच सकता है। सेमीकंडक्टर उत्पादन की प्रक्रिया ऐसी है कि रुकावट या व्यवधान होने पर बहाली और सामान्य संचालन में बड़ा खर्च और समय लग सकता है। इसी कारण उद्योग जगत की चिंता बढ़ रही है। उद्योग के कुछ पक्ष नुकसान के विस्तार को रोकने के लिए आपात समायोजन अधिकार की आवश्यकता बता रहे हैं। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Samsung Kelola Darurat Lini Chip Jelang Mogok, Kerugian Diperkirakan W100 Triliun",
+      "excerpt": "Samsung Electronics memulai pengelolaan darurat lini semikonduktor sepekan sebelum mogok umum, sementara industri memperkirakan potensi kerugian hingga W100 triliun.",
+      "body": "Samsung Electronics mulai menjalankan pengelolaan darurat pada lini produksi semikonduktor sepekan sebelum rencana mogok umum, sehingga potensi kerugian akibat mogok diperkirakan dapat mulai menjadi nyata. Menurut teks asli, industri memperkirakan kerugian bisa mencapai W100 triliun jika mogok memengaruhi operasi lini semikonduktor utama. Karena karakter proses produksi chip, gangguan atau penghentian dapat membutuhkan biaya dan waktu besar untuk pemulihan serta normalisasi, sehingga kekhawatiran industri meningkat. Dalam situasi ini, kalangan industri menyuarakan perlunya kewenangan penyesuaian darurat untuk mencegah kerugian meluas. Sumber: mk.co.kr"
+    }
+  }
+}

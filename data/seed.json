@@ -1,5 +1,230 @@
 [
   {
+    "id": "8db794ae26b1",
+    "slug": "삼전-파업피해-100조-추산-업계-긴급조정권-필요-677955",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T09:13:32.091Z",
+    "updatedAt": "2026-05-14T09:13:32.091Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12047863",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12047863",
+    "titleFingerprint": "9ac17d31886106fc7fa5135ec0ed0a2cba3507f0",
+    "dedupKeys": [
+      "8db794ae26b100fde5e84da3586507fe557833af",
+      "9ac17d31886106fc7fa5135ec0ed0a2cba3507f0",
+      "6eb23a6c64e519e4edd6e3889e7ab03fe08888d7"
+    ],
+    "imageUrl": "/images/articles/8db794ae26b1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 총파업 앞두고 반도체 라인 비상관리, 피해 100조원 추산",
+        "excerpt": "삼성전자가 총파업을 일주일 앞두고 반도체 라인 비상 관리에 들어가면서 업계는 파업 피해가 최대 100조원에 이를 수 있다고 보고 긴급조정권 필요성을 제기했다.",
+        "body": "삼성전자가 총파업을 일주일 앞둔 시점에 반도체 생산 라인 비상 관리에 돌입하면서 파업에 따른 피해가 현실화할 가능성이 커지고 있다. 원문에 따르면 업계는 이번 파업이 핵심 반도체 라인 운영에 영향을 줄 경우 피해 규모가 최대 100조원에 달할 수 있다고 추산했다. 반도체 생산은 공정 특성상 중단이나 차질이 발생하면 복구와 정상화에 큰 비용과 시간이 들어갈 수 있어 산업계의 우려가 커지는 분위기다. 이에 업계에서는 피해 확산을 막기 위해 긴급조정권이 필요하다는 의견이 나오고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Faces Strike Risk as Chip-Line Damage Estimate Reaches W100tn",
+        "excerpt": "Samsung Electronics began emergency management of its semiconductor lines one week before a general strike, while industry estimates put potential strike-related damage at up to W100 trillion.",
+        "body": "Samsung Electronics has entered emergency management of its semiconductor production lines one week before a planned general strike, raising the possibility that strike-related damage could begin to materialize. According to the original report, industry estimates suggest losses could reach as much as W100 trillion if the walkout affects key semiconductor line operations. Because semiconductor production can require significant time and cost to recover once disruptions occur, concerns are growing across the industry. Some industry voices are calling for emergency adjustment authority to prevent damage from spreading further. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子、総スト前に半導体ライン非常管理へ 被害100兆ウォン推算",
+        "excerpt": "サムスン電子が総ストを1週間後に控えて半導体ラインの非常管理に入り、業界ではストによる被害が最大100兆ウォンに達する可能性があるとみている。",
+        "body": "サムスン電子は総ストを1週間後に控えた時点で半導体生産ラインの非常管理に入り、ストによる被害が現実化する可能性が高まっている。原文によると、業界は今回のストが主要な半導体ラインの運営に影響を及ぼす場合、被害規模が最大100兆ウォンに達する可能性があると推算している。半導体生産は工程の特性上、中断や支障が発生すると復旧と正常化に大きな費用と時間がかかるため、産業界の懸念が強まっている。これを受け、業界では被害拡大を防ぐため緊急調整権が必要だとの意見が出ている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子总罢工前启动半导体线应急管理，损失估算达100万亿韩元",
+        "excerpt": "三星电子在总罢工前一周启动半导体生产线应急管理，业界估算罢工造成的损失最高可能达到100万亿韩元，并提出需要紧急调整权。",
+        "body": "三星电子在总罢工还有一周之际，已进入半导体生产线应急管理状态，罢工造成的损失可能开始现实化。根据原文，业界估算，如果此次罢工影响核心半导体生产线运行，损失规模最高可能达到100万亿韩元。由于半导体生产工艺的特性，一旦发生停产或运行受阻，恢复和正常化可能需要大量成本和时间，因此产业界担忧加剧。对此，业界有人提出，为防止损失进一步扩大，有必要启动紧急调整权。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung activa gestión de emergencia en chips ante huelga y daños de hasta W100 billones",
+        "excerpt": "Samsung Electronics inició la gestión de emergencia de sus líneas de semiconductores una semana antes de la huelga general, mientras el sector estima posibles daños de hasta W100 billones.",
+        "body": "Samsung Electronics inició la gestión de emergencia de sus líneas de producción de semiconductores cuando falta una semana para la huelga general, elevando la posibilidad de que los daños derivados del paro comiencen a materializarse. Según el texto original, el sector estima que las pérdidas podrían alcanzar hasta W100 billones si la huelga afecta la operación de líneas clave de semiconductores. Por las características del proceso de producción de chips, una interrupción o alteración puede requerir mucho tiempo y costos para recuperar la normalidad, lo que aumenta la preocupación industrial. En este contexto, voces del sector plantean la necesidad de una autoridad de ajuste de emergencia para evitar una mayor propagación de los daños. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung põe linhas de chips em emergência antes de greve e dano pode chegar a W100 tri",
+        "excerpt": "A Samsung Electronics iniciou gestão emergencial das linhas de semicondutores uma semana antes da greve geral, enquanto o setor estima danos potenciais de até W100 trilhões.",
+        "body": "A Samsung Electronics entrou em gestão emergencial de suas linhas de produção de semicondutores uma semana antes da greve geral planejada, aumentando a possibilidade de que os danos ligados à paralisação se tornem reais. Segundo o texto original, o setor estima que as perdas possam chegar a W100 trilhões caso a greve afete a operação de linhas essenciais de semicondutores. Pela natureza do processo de fabricação de chips, qualquer interrupção ou falha pode exigir alto custo e tempo para recuperação e normalização, ampliando a preocupação na indústria. Diante disso, representantes do setor defendem a necessidade de autoridade de ajuste emergencial para evitar a expansão dos prejuízos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung startet Notmanagement für Chiplinien vor Streik, Schaden bis W100 Bio. geschätzt",
+        "excerpt": "Samsung Electronics hat eine Woche vor dem Generalstreik das Notmanagement für Halbleiterlinien begonnen; die Branche schätzt mögliche Streikschäden auf bis zu W100 Billionen.",
+        "body": "Samsung Electronics hat eine Woche vor dem geplanten Generalstreik das Notmanagement für seine Halbleiter-Produktionslinien eingeleitet, womit streikbedingte Schäden konkreter werden könnten. Dem Ausgangsbericht zufolge schätzt die Branche, dass die Verluste bis zu W100 Billionen erreichen könnten, falls der Streik den Betrieb zentraler Halbleiterlinien beeinträchtigt. Aufgrund der besonderen Abläufe in der Chipproduktion können Unterbrechungen oder Störungen erhebliche Kosten und viel Zeit für Wiederherstellung und Normalisierung verursachen. Entsprechend wächst die Sorge in der Industrie. Aus Branchenkreisen kommt daher die Forderung nach einer Notanpassungsbefugnis, um eine Ausweitung der Schäden zu verhindern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung place ses lignes de puces en urgence avant la grève, dégâts estimés à W100 tn",
+        "excerpt": "Samsung Electronics a lancé une gestion d’urgence de ses lignes de semi-conducteurs une semaine avant la grève générale, alors que le secteur estime les dégâts possibles à W100 billions.",
+        "body": "Samsung Electronics a lancé une gestion d’urgence de ses lignes de production de semi-conducteurs à une semaine de la grève générale prévue, ce qui accroît la possibilité de voir les dommages liés au mouvement se concrétiser. Selon le texte original, le secteur estime que les pertes pourraient atteindre jusqu’à W100 billions si la grève affecte l’exploitation des principales lignes de semi-conducteurs. En raison des caractéristiques du processus de fabrication des puces, toute interruption ou perturbation peut nécessiter des coûts et des délais importants pour le rétablissement et la normalisation. Les inquiétudes montent donc dans l’industrie. Des voix du secteur évoquent la nécessité d’un pouvoir d’ajustement d’urgence pour empêcher l’extension des dégâts. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ تبدأ إدارة طارئة لخطوط الرقائق قبل الإضراب وخسائر محتملة بـ100 تريليون وون",
+        "excerpt": "بدأت سامسونغ إلكترونيكس إدارة طارئة لخطوط أشباه الموصلات قبل أسبوع من الإضراب العام، فيما يقدر القطاع أن الأضرار المحتملة قد تصل إلى 100 تريليون وون.",
+        "body": "دخلت سامسونغ إلكترونيكس في إدارة طارئة لخطوط إنتاج أشباه الموصلات قبل أسبوع من الإضراب العام المقرر، ما يزيد احتمال تحول الأضرار المرتبطة بالإضراب إلى واقع. ووفق النص الأصلي، يقدر القطاع أن حجم الخسائر قد يصل إلى 100 تريليون وون إذا أثر الإضراب في تشغيل خطوط أشباه الموصلات الرئيسية. وبسبب طبيعة عمليات إنتاج الرقائق، فإن أي توقف أو اضطراب قد يتطلب كلفة كبيرة ووقتا طويلا للتعافي والعودة إلى الوضع الطبيعي، وهو ما يرفع مستوى القلق داخل الصناعة. لذلك تطرح جهات في القطاع الحاجة إلى صلاحية تعديل طارئة لمنع اتساع نطاق الأضرار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung की चिप लाइनों पर हड़ताल से पहले आपात प्रबंधन, नुकसान W100 ट्रिलियन तक अनुमानित",
+        "excerpt": "Samsung Electronics ने आम हड़ताल से एक सप्ताह पहले सेमीकंडक्टर लाइनों का आपात प्रबंधन शुरू किया, जबकि उद्योग ने संभावित नुकसान W100 ट्रिलियन तक आंका है।",
+        "body": "Samsung Electronics ने प्रस्तावित आम हड़ताल से एक सप्ताह पहले अपनी सेमीकंडक्टर उत्पादन लाइनों के लिए आपात प्रबंधन शुरू कर दिया है, जिससे हड़ताल से जुड़े नुकसान के वास्तविक रूप लेने की आशंका बढ़ गई है। मूल रिपोर्ट के अनुसार, उद्योग का अनुमान है कि यदि हड़ताल प्रमुख सेमीकंडक्टर लाइनों के संचालन को प्रभावित करती है तो नुकसान W100 ट्रिलियन तक पहुंच सकता है। सेमीकंडक्टर उत्पादन की प्रक्रिया ऐसी है कि रुकावट या व्यवधान होने पर बहाली और सामान्य संचालन में बड़ा खर्च और समय लग सकता है। इसी कारण उद्योग जगत की चिंता बढ़ रही है। उद्योग के कुछ पक्ष नुकसान के विस्तार को रोकने के लिए आपात समायोजन अधिकार की आवश्यकता बता रहे हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Kelola Darurat Lini Chip Jelang Mogok, Kerugian Diperkirakan W100 Triliun",
+        "excerpt": "Samsung Electronics memulai pengelolaan darurat lini semikonduktor sepekan sebelum mogok umum, sementara industri memperkirakan potensi kerugian hingga W100 triliun.",
+        "body": "Samsung Electronics mulai menjalankan pengelolaan darurat pada lini produksi semikonduktor sepekan sebelum rencana mogok umum, sehingga potensi kerugian akibat mogok diperkirakan dapat mulai menjadi nyata. Menurut teks asli, industri memperkirakan kerugian bisa mencapai W100 triliun jika mogok memengaruhi operasi lini semikonduktor utama. Karena karakter proses produksi chip, gangguan atau penghentian dapat membutuhkan biaya dan waktu besar untuk pemulihan serta normalisasi, sehingga kekhawatiran industri meningkat. Dalam situasi ini, kalangan industri menyuarakan perlunya kewenangan penyesuaian darurat untuk mencegah kerugian meluas. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "32788b5ba1cb",
+    "slug": "동굴대신-땅에-지은-처분시설올-방폐물-4000드럼-처리-목표-594758",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T09:12:27.456Z",
+    "updatedAt": "2026-05-14T09:12:27.456Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12047893",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12047893",
+    "titleFingerprint": "0cf58b7fe97f1b423aaee6103964d136fb88bed8",
+    "dedupKeys": [
+      "32788b5ba1cb346603c0dbb9bbc5d6632135bdc4",
+      "0cf58b7fe97f1b423aaee6103964d136fb88bed8",
+      "f96940e35f74cf94dd37ceca80d766bc1f0d6400"
+    ],
+    "imageUrl": "/images/articles/32788b5ba1cb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "경주 방폐물 처분시설, 동굴 대신 지상 건설…올해 4000드럼 처리 목표",
+        "excerpt": "지난 13일 경북 경주시 문무대왕면에서 확인된 방폐물 처분시설은 동굴이 아닌 지상 건물 형태로 조성됐으며, 올해 방폐물 4000드럼 처리를 목표로 하고 있다.",
+        "body": "지난 13일 경상북도 경주시 문무대왕면에서 확인된 방폐물 처분시설은 동굴 대신 땅 위에 지어진 형태로 운영되고 있다. 언덕 위 전망대에서는 10m 높이의 칸막이로 둘러싸인 네모 반듯한 건물들이 한눈에 들어왔지만, 겉모습만으로는 시설의 정체를 알기 어려웠다. 이번 시설은 올해 방폐물 4000드럼 처리를 목표로 제시했다. 지상 건물형 처분시설이라는 점은 기존 동굴형 방식과 다른 운영 모습을 보여준다. 향후 처리 목표 달성 여부가 방폐물 관리 흐름을 가늠할 핵심 지표가 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Gyeongju Radioactive Waste Facility Built Above Ground Targets 4,000 Drums This Year",
+        "excerpt": "On May 13, a radioactive waste disposal facility in Munmudaewang-myeon, Gyeongju, was seen operating as above-ground buildings rather than a cave, with a 4,000-drum target for this year.",
+        "body": "On May 13, a radioactive waste disposal facility in Munmudaewang-myeon, Gyeongju, North Gyeongsang Province, was confirmed to be operating in a form built on the ground rather than inside a cave. From an observatory on a hill, square, orderly buildings surrounded by 10-meter-high partitions were visible at once, though their purpose was hard to identify from the outside alone. The facility has set a goal of processing 4,000 drums of radioactive waste this year. Its above-ground building format shows a different operating model from cave-style disposal. Whether it reaches the annual target will be a key measure for the flow of radioactive waste management. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "慶州の放射性廃棄物処分施設、洞窟でなく地上建設…今年4000ドラム目標",
+        "excerpt": "5月13日に慶尚北道慶州市文武大王面で確認された放射性廃棄物処分施設は、洞窟ではなく地上建物型で、今年4000ドラムの処理を目標にしている。",
+        "body": "5月13日、慶尚北道慶州市文武大王面で確認された放射性廃棄物処分施設は、洞窟の代わりに地上に建てられた形で運営されている。丘の上の展望台からは、高さ10メートルの仕切りに囲まれた四角い整然とした建物が一望できたが、外観だけでは施設の正体を把握しにくかった。同施設は今年、放射性廃棄物4000ドラムの処理を目標に掲げている。地上建物型の処分施設である点は、従来の洞窟型方式とは異なる運営の姿を示す。目標達成の可否が、今後の放射性廃棄物管理の流れを測る指標となる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "庆州放射性废物处置设施改建地上建筑，今年目标处理4000桶",
+        "excerpt": "5月13日在庆尚北道庆州市文武大王面看到的放射性废物处置设施并非洞穴式，而是地上建筑形态，今年目标处理4000桶废物。",
+        "body": "5月13日，在庆尚北道庆州市文武大王面确认的放射性废物处置设施，并不是建在洞穴中，而是以地上建筑形态运行。从山丘上的瞭望台望去，被10米高隔板围住的方正建筑一目了然，但仅凭外观很难判断其用途。该设施提出今年处理4000桶放射性废物的目标。作为地上建筑型处置设施，它展现出不同于传统洞穴型方式的运营形态。今后能否实现这一处理目标，将成为观察放射性废物管理进展的重要指标。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Instalación de residuos radiactivos en Gyeongju apunta a 4.000 bidones este año",
+        "excerpt": "El 13 de mayo se observó en Munmudaewang-myeon, Gyeongju, una instalación de residuos radiactivos construida sobre tierra, no en una cueva, con meta de 4.000 bidones este año.",
+        "body": "El 13 de mayo, en Munmudaewang-myeon, Gyeongju, provincia de Gyeongsang del Norte, se confirmó que una instalación de disposición de residuos radiactivos opera en edificios construidos sobre el terreno en lugar de una cueva. Desde un observatorio situado en una colina se veían edificios rectangulares rodeados por divisiones de 10 metros de altura, aunque desde fuera era difícil identificar su función. La instalación tiene como objetivo procesar 4.000 bidones de residuos radiactivos este año. Su formato de edificio en superficie muestra una operación distinta del modelo tipo cueva. El cumplimiento de la meta será un indicador clave para evaluar la gestión de estos residuos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Instalação de rejeitos radioativos em Gyeongju mira 4.000 tambores neste ano",
+        "excerpt": "Em 13 de maio, uma instalação de rejeitos radioativos em Munmudaewang-myeon, Gyeongju, foi vista como estrutura terrestre, não em caverna, com meta anual de 4.000 tambores.",
+        "body": "Em 13 de maio, em Munmudaewang-myeon, Gyeongju, província de Gyeongsang do Norte, foi confirmada uma instalação de disposição de rejeitos radioativos construída sobre o solo, em vez de dentro de uma caverna. Do observatório no alto de uma colina, viam-se edifícios retangulares cercados por divisórias de 10 metros de altura, embora fosse difícil identificar sua função apenas pela aparência externa. A instalação estabeleceu a meta de processar 4.000 tambores de rejeitos radioativos neste ano. O formato terrestre mostra uma operação diferente do modelo em caverna. O cumprimento da meta deve servir como indicador do andamento da gestão desses rejeitos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Gyeongjus Anlage für radioaktive Abfälle zielt 2026 auf 4.000 Fässer",
+        "excerpt": "Am 13. Mai wurde in Munmudaewang-myeon, Gyeongju, eine oberirdische Anlage für radioaktive Abfälle sichtbar, nicht als Höhle gebaut, mit einem Jahresziel von 4.000 Fässern.",
+        "body": "Am 13. Mai wurde in Munmudaewang-myeon in Gyeongju, Provinz Nord-Gyeongsang, eine Entsorgungsanlage für radioaktive Abfälle besichtigt, die nicht in einer Höhle, sondern oberirdisch errichtet wurde. Von einem Aussichtspunkt auf einem Hügel waren rechteckige Gebäude zu sehen, die von zehn Meter hohen Trennwänden umgeben waren; allein von außen war ihre Funktion jedoch schwer zu erkennen. Die Anlage verfolgt in diesem Jahr das Ziel, 4.000 Fässer radioaktiver Abfälle zu verarbeiten. Als oberirdischer Gebäudetyp unterscheidet sie sich vom höhlenartigen Entsorgungsmodell. Ob dieses Ziel erreicht wird, dürfte ein wichtiger Maßstab für die weitere Abfallbewirtschaftung sein. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "À Gyeongju, un site de déchets radioactifs vise 4 000 fûts traités cette année",
+        "excerpt": "Le 13 mai, à Munmudaewang-myeon, Gyeongju, un site de déchets radioactifs a été observé sous forme de bâtiments en surface, non de grotte, avec un objectif de 4 000 fûts.",
+        "body": "Le 13 mai, à Munmudaewang-myeon, dans la ville de Gyeongju, province du Gyeongsang du Nord, un site de stockage de déchets radioactifs a été identifié comme une installation construite en surface plutôt que dans une grotte. Depuis un observatoire situé sur une colline, on distinguait des bâtiments rectangulaires entourés de cloisons hautes de 10 mètres, même si leur fonction restait difficile à deviner de l’extérieur. Le site vise le traitement de 4 000 fûts de déchets radioactifs cette année. Ce format de bâtiments en surface montre un mode d’exploitation différent du modèle en grotte. L’atteinte de l’objectif sera un indicateur important de la gestion future de ces déchets. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "منشأة نفايات مشعة في غيونغجو فوق الأرض تستهدف معالجة 4000 برميل هذا العام",
+        "excerpt": "في 13 مايو، ظهرت منشأة التخلص من النفايات المشعة في مونموداي وانغ ميون بمدينة غيونغجو كمبان فوق الأرض لا ككهف، مع هدف معالجة 4000 برميل هذا العام.",
+        "body": "في 13 مايو، تبيّن أن منشأة التخلص من النفايات المشعة في مونموداي وانغ ميون بمدينة غيونغجو في مقاطعة غيونغسانغ الشمالية تعمل على شكل مبان مشيدة فوق الأرض بدلا من كهف. ومن منصة مراقبة على تل، بدت مبان مربعة ومنتظمة محاطة بحواجز ارتفاعها 10 أمتار، لكن من الصعب معرفة طبيعة المنشأة من مظهرها الخارجي فقط. ووضعت المنشأة هدفا لمعالجة 4000 برميل من النفايات المشعة هذا العام. ويظهر نمط البناء فوق الأرض صورة تشغيل مختلفة عن أسلوب الكهوف. وسيكون تحقيق الهدف مؤشرا مهما على مسار إدارة النفايات المشعة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ग्योंगजू की भूमिगत नहीं, जमीन पर बनी रेडियोधर्मी कचरा सुविधा का लक्ष्य 4000 ड्रम",
+        "excerpt": "13 मई को ग्योंगजू के मुनमुदाएवांग-म्योन में देखी गई रेडियोधर्मी कचरा निपटान सुविधा गुफा नहीं बल्कि जमीन पर बने भवनों के रूप में है और इस साल 4000 ड्रम का लक्ष्य रखती है।",
+        "body": "13 मई को उत्तरी ग्योंगसांग प्रांत के ग्योंगजू शहर के मुनमुदाएवांग-म्योन में देखी गई रेडियोधर्मी कचरा निपटान सुविधा गुफा के बजाय जमीन पर बने ढांचे के रूप में संचालित हो रही है। पहाड़ी पर स्थित अवलोकन स्थल से 10 मीटर ऊंची दीवारों से घिरे चौकोर भवन साफ दिखाई दे रहे थे, लेकिन केवल बाहरी रूप देखकर उनकी प्रकृति समझना कठिन था। इस सुविधा ने इस वर्ष रेडियोधर्मी कचरे के 4000 ड्रम संसाधित करने का लक्ष्य रखा है। जमीन पर बने भवनों वाला यह रूप गुफा आधारित तरीके से अलग संचालन दिखाता है। लक्ष्य की प्राप्ति रेडियोधर्मी कचरा प्रबंधन की दिशा का महत्वपूर्ण संकेतक होगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Fasilitas Limbah Radioaktif Gyeongju di Atas Tanah Targetkan 4.000 Drum Tahun Ini",
+        "excerpt": "Pada 13 Mei, fasilitas pembuangan limbah radioaktif di Munmudaewang-myeon, Gyeongju, terlihat berupa bangunan di atas tanah, bukan gua, dengan target 4.000 drum tahun ini.",
+        "body": "Pada 13 Mei, fasilitas pembuangan limbah radioaktif di Munmudaewang-myeon, Gyeongju, Provinsi Gyeongsang Utara, diketahui beroperasi dalam bentuk bangunan di atas tanah, bukan di dalam gua. Dari gardu pandang di atas bukit, terlihat bangunan-bangunan persegi yang dikelilingi sekat setinggi 10 meter, meski sulit mengenali fungsinya hanya dari tampilan luar. Fasilitas ini menetapkan target memproses 4.000 drum limbah radioaktif tahun ini. Bentuk bangunan di atas tanah menunjukkan pola operasi yang berbeda dari metode berbasis gua. Pencapaian target tersebut akan menjadi indikator penting bagi arah pengelolaan limbah radioaktif. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "fb54198d8bb2",
+    "slug": "파업위기-삼전-비상체제-돌입-390179",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T09:11:18.880Z",
+    "updatedAt": "2026-05-14T09:11:18.880Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12047931",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12047931",
+    "titleFingerprint": "f96860c103f29eed8ca4693cbb0f358113a53b09",
+    "dedupKeys": [
+      "fb54198d8bb287bc13c6bf66820c781a2e20ac4b",
+      "f96860c103f29eed8ca4693cbb0f358113a53b09",
+      "41a23c62df00ef7034a65109b9149fe994874d02"
+    ],
+    "imageUrl": "/images/articles/fb54198d8bb2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 파업 위기 속 비상관리 돌입, 생산량 축소 준비 착수",
+        "excerpt": "삼성전자가 노조의 총파업 예고를 일주일 앞둔 14일부터 파업 가능성에 대비해 비상관리 체제에 들어가고 생산량 축소 작업에 착수한 것으로 알려졌다.",
+        "body": "삼성전자가 노조가 예고한 총파업을 일주일 앞두고 비상관리 체제에 들어갔다. 14일 업계에 따르면 삼성전자는 이날부터 파업 상황에 대비해 생산량을 축소하기 위한 작업에 돌입한 것으로 알려졌다. 이번 조치는 노조의 총파업 예고가 임박한 가운데 생산 차질 가능성에 대응하기 위한 준비로 해석된다. 다만 원문에 제시된 정보는 비상관리 돌입과 생산량 축소 준비에 한정되며, 구체적인 감산 규모나 파업 진행 여부는 확인되지 않았다. 출처는 mk.co.kr이다."
+      },
+      "en": {
+        "title": "Samsung Electronics Enters Emergency Mode as Strike Risk Nears",
+        "excerpt": "Samsung Electronics reportedly began emergency management on May 14, one week before a planned union general strike, preparing to reduce output in case of disruption.",
+        "body": "Samsung Electronics has entered an emergency management system one week before a general strike announced by its union. According to industry sources cited on May 14, the company is understood to have begun work from that day to reduce production volume in preparation for a possible strike. The move is being viewed as a response to the risk of production disruption as the union’s planned walkout approaches. The original report only states that emergency management has begun and that output-reduction preparations are under way; it does not confirm the scale of any reduction or whether the strike will proceed. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "サムスン電子、スト危機で非常管理体制へ 生産縮小準備に着手",
+        "excerpt": "サムスン電子は5月14日、労組が予告したゼネストを1週間後に控え、ストに備えた非常管理体制と生産量縮小作業に入ったとされる。",
+        "body": "サムスン電子が、労組の予告したゼネストを1週間後に控え、非常管理体制に入った。5月14日の業界情報によると、同社は同日からストに備えて生産量を縮小するための作業に着手したとされる。今回の対応は、労組のゼネスト予告が近づく中で、生産への支障に備える措置と受け止められる。ただし、原文で示された情報は非常管理入りと生産量縮小準備に限られており、具体的な縮小規模やスト実施の有無は確認されていない。出典はmk.co.kr。"
+      },
+      "zh": {
+        "title": "三星电子面临罢工风险启动应急管理，着手准备缩减产量",
+        "excerpt": "三星电子据悉自5月14日起，在工会预告全面罢工前一周进入应急管理状态，并开始为可能罢工准备缩减产量。",
+        "body": "三星电子在工会预告的全面罢工前一周进入应急管理状态。据5月14日业内消息，三星电子从当天开始着手相关工作，以便在罢工情况下缩减生产量。此举被视为在工会全面罢工预告临近之际，对可能出现的生产受影响情况进行准备。原文提供的信息仅限于公司进入应急管理以及开始准备缩减产量，尚未确认具体减产规模，也未确认罢工是否最终实施。消息来源为mk.co.kr。"
+      },
+      "es": {
+        "title": "Samsung Electronics activa gestión de emergencia ante riesgo de huelga",
+        "excerpt": "Samsung Electronics habría iniciado el 14 de mayo una gestión de emergencia, una semana antes de la huelga general anunciada por el sindicato, y prepara reducir producción.",
+        "body": "Samsung Electronics entró en un sistema de gestión de emergencia una semana antes de la huelga general anunciada por su sindicato. Según fuentes del sector citadas el 14 de mayo, la compañía habría comenzado ese mismo día trabajos para reducir el volumen de producción ante una posible huelga. La medida se entiende como una preparación frente al riesgo de interrupciones productivas mientras se acerca la convocatoria sindical. La información original se limita al inicio de la gestión de emergencia y a la preparación para reducir producción; no confirma el alcance de la reducción ni si la huelga se realizará. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Samsung Electronics entra em emergência diante de risco de greve",
+        "excerpt": "A Samsung Electronics teria iniciado em 14 de maio uma gestão emergencial, uma semana antes da greve geral anunciada pelo sindicato, preparando redução de produção.",
+        "body": "A Samsung Electronics entrou em um regime de gestão emergencial uma semana antes da greve geral anunciada por seu sindicato. Segundo fontes do setor citadas em 14 de maio, a empresa teria começado naquele dia trabalhos para reduzir o volume de produção em preparação para uma possível greve. A medida é vista como resposta ao risco de impacto na produção enquanto a paralisação anunciada pelo sindicato se aproxima. O relato original informa apenas o início da gestão emergencial e a preparação para reduzir a produção; não confirma a escala da redução nem se a greve ocorrerá. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Samsung Electronics startet Notfallmanagement vor drohendem Streik",
+        "excerpt": "Samsung Electronics soll am 14. Mai, eine Woche vor dem von der Gewerkschaft angekündigten Generalstreik, Notfallmanagement und Vorbereitungen zur Produktionskürzung begonnen haben.",
+        "body": "Samsung Electronics ist eine Woche vor dem von der Gewerkschaft angekündigten Generalstreik in ein Notfallmanagement übergegangen. Branchenkreisen zufolge, die am 14. Mai genannt wurden, soll das Unternehmen noch am selben Tag mit Arbeiten begonnen haben, um sich auf eine mögliche Verringerung der Produktionsmenge im Streikfall vorzubereiten. Die Maßnahme wird als Vorbereitung auf mögliche Produktionsbeeinträchtigungen verstanden, da der angekündigte Arbeitskampf näher rückt. Der Originalbericht nennt nur den Beginn des Notfallmanagements und Vorbereitungen zur Produktionskürzung; Umfang und tatsächliche Durchführung des Streiks sind nicht bestätigt. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Samsung Electronics passe en gestion d’urgence face au risque de grève",
+        "excerpt": "Samsung Electronics aurait lancé le 14 mai une gestion d’urgence, une semaine avant la grève générale annoncée par le syndicat, avec des préparatifs de réduction de production.",
+        "body": "Samsung Electronics est passée en mode de gestion d’urgence une semaine avant la grève générale annoncée par son syndicat. Selon des sources du secteur citées le 14 mai, l’entreprise aurait commencé ce jour-là des travaux visant à réduire le volume de production en cas de grève. Cette mesure est comprise comme une préparation au risque de perturbation de la production alors que l’appel syndical se rapproche. Le rapport d’origine se limite au lancement de la gestion d’urgence et aux préparatifs de réduction de production; il ne confirme ni l’ampleur de cette réduction ni la tenue effective de la grève. Source : mk.co.kr."
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس تدخل إدارة طوارئ مع اقتراب خطر الإضراب",
+        "excerpt": "أفادت تقارير بأن سامسونغ إلكترونيكس بدأت في 14 مايو إدارة طوارئ، قبل أسبوع من الإضراب العام الذي أعلنته النقابة، استعدادا لخفض الإنتاج.",
+        "body": "دخلت سامسونغ إلكترونيكس نظام إدارة طوارئ قبل أسبوع من الإضراب العام الذي أعلنت عنه نقابتها. ووفقا لمصادر في القطاع وردت في 14 مايو، بدأت الشركة في ذلك اليوم أعمالا للتحضير لخفض حجم الإنتاج في حال وقوع الإضراب. وتأتي هذه الخطوة في إطار الاستعداد لاحتمال تأثر الإنتاج مع اقتراب موعد الإضراب الذي أعلنته النقابة. وتقتصر المعلومات الواردة في النص الأصلي على بدء إدارة الطوارئ والتحضير لخفض الإنتاج، ولا تؤكد حجم الخفض أو ما إذا كان الإضراب سيمضي فعلا. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "हड़ताल जोखिम के बीच सैमसंग इलेक्ट्रॉनिक्स आपात प्रबंधन में",
+        "excerpt": "सैमसंग इलेक्ट्रॉनिक्स ने यूनियन की घोषित आम हड़ताल से एक सप्ताह पहले 14 मई से आपात प्रबंधन शुरू कर उत्पादन घटाने की तैयारी की है।",
+        "body": "सैमसंग इलेक्ट्रॉनिक्स अपनी यूनियन द्वारा घोषित आम हड़ताल से एक सप्ताह पहले आपात प्रबंधन व्यवस्था में चली गई है। 14 मई को उद्योग सूत्रों के हवाले से बताया गया कि कंपनी ने उसी दिन से संभावित हड़ताल की स्थिति में उत्पादन मात्रा घटाने की तैयारी का काम शुरू किया। यह कदम यूनियन की आम हड़ताल की चेतावनी नजदीक आने के बीच उत्पादन में संभावित बाधा से निपटने की तैयारी के रूप में देखा जा रहा है। मूल जानकारी केवल आपात प्रबंधन शुरू होने और उत्पादन घटाने की तैयारी तक सीमित है; कटौती का आकार या हड़ताल के वास्तविक रूप से होने की पुष्टि नहीं है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Samsung Electronics Masuk Mode Darurat Menjelang Risiko Mogok",
+        "excerpt": "Samsung Electronics dilaporkan mulai 14 Mei memasuki manajemen darurat, sepekan sebelum mogok umum yang diumumkan serikat, dan menyiapkan pengurangan produksi.",
+        "body": "Samsung Electronics memasuki sistem manajemen darurat satu minggu sebelum mogok umum yang diumumkan oleh serikat pekerjanya. Menurut sumber industri yang dikutip pada 14 Mei, perusahaan mulai hari itu melakukan pekerjaan untuk mengurangi volume produksi sebagai persiapan menghadapi kemungkinan mogok. Langkah ini dipandang sebagai persiapan terhadap risiko gangguan produksi saat rencana mogok serikat semakin dekat. Informasi dalam laporan asli terbatas pada dimulainya manajemen darurat dan persiapan pengurangan produksi; tidak ada konfirmasi mengenai skala pengurangan atau apakah mogok akan benar-benar berlangsung. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "f212922195bd",
     "slug": "노사문제에-답한-정의선국가발전-함께-고려해야-617684",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Howard Marks Ungkap Strategi Investasi Era AI, Investor Perlu Mencermati",
         "excerpt": "hankyung.com melaporkan Howard Marks mengungkap strategi investasi untuk era AI, saat kecerdasan buatan makin menjadi faktor penting dalam keputusan pasar.",
         "body": "hankyung.com melaporkan dengan judul “Strategi Investasi Howard Marks di Era AI Diungkap” bahwa Howard Marks memaparkan strategi investasi yang terkait dengan era kecerdasan buatan. Fakta utama yang dapat dikonfirmasi dari informasi sumber adalah bahwa investor Howard Marks disebut dalam konteks strategi investasi untuk era AI. Ketika kecerdasan buatan menjadi variabel penting di pasar keuangan dan penilaian perusahaan, pengungkapan strategi ini menjadi acuan bagi investor untuk membaca tren terkait AI. Pernyataan spesifik, angka, atau jadwal tidak tercantum dalam informasi yang diberikan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "134314434e2b",
-    "slug": "정은보-밸류업으로-체질-개선한-주식시장부동산-넘어설-것-804455",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T16:43:36.954Z",
-    "updatedAt": "2026-05-13T16:43:36.954Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051345491",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051345491",
-    "titleFingerprint": "ba6a4004c64e7f9aca44423631524d9813621f95",
-    "dedupKeys": [
-      "134314434e2b8e0dfbb4a33f094db50d1e07f93a",
-      "ba6a4004c64e7f9aca44423631524d9813621f95",
-      "ed4cc687c23fb5efd1070445079179b3f91d3d17"
-    ],
-    "imageUrl": "/images/articles/134314434e2b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "정은보 밸류업 발언 주목…주식시장 체질 개선이 부동산 넘나",
-        "excerpt": "정은보 한국거래소 이사장은 13일 KIW 2026에서 밸류업 정책과 생산적 금융을 통해 국내 증시 기대수익률을 높이고 자금 흐름이 주식 중심으로 바뀔 수 있다고 밝혔다.",
-        "body": "정은보 한국거래소 이사장은 13일 서울 장충동 신라호텔에서 열린 코리아 인베스트먼트 위크(KIW) 2026 기조강연에서 밸류업 정책으로 국내 주식시장의 구조 변화가 나타나고 있다고 말했다. 그는 여유 자금이 과거 주택 구매로 향했지만 최근에는 금융시장으로 유입되고 있다고 설명했다. 올해 코스피지수는 80% 급등해 지난해 상승률 75.6%를 반년이 안 돼 넘어섰고, 밸류업지수 상승률은 105%로 더 높았다. 거래소는 AI, 반도체, 방산, 조선 등 유망 산업의 기술특례 상장, 부실기업 퇴출, 중복 상장 제한, 24시간 거래 추진 등을 통해 기대수익률을 높이겠다는 방침이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Jung Eun-bo Highlights Value-Up Reform as Stock Market Challenges Real Estate",
-        "excerpt": "Korea Exchange Chairman Jung Eun-bo said at KIW 2026 on May 13 that value-up policies and productive finance could lift expected returns and shift household assets toward stocks.",
-        "body": "Korea Exchange Chairman Jung Eun-bo said in a keynote speech at Korea Investment Week (KIW) 2026, held on May 13 at The Shilla Seoul in Jangchung-dong, that value-up policies are bringing structural change to Korea’s stock market. He explained that surplus household funds once tended to go into home purchases, but have recently been flowing into financial markets. The Kospi has surged 80% this year, exceeding last year’s 75.6% gain in less than half a year, while the value-up index rose 105%. The exchange plans to raise expected returns through tailored special listings for promising industries such as AI, semiconductors, defense and shipbuilding, as well as delisting weak firms, limiting duplicate listings and pursuing 24-hour trading. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "鄭恩甫氏、バリューアップで韓国株市場改革…不動産超えに注目",
-        "excerpt": "韓国取引所の鄭恩甫理事長は5月13日のKIW 2026で、バリューアップ政策と生産的金融により国内株式市場の期待収益率を高め、資金の流れが株式中心に変わり得ると述べた。",
-        "body": "韓国取引所の鄭恩甫理事長は5月13日、ソウル・奨忠洞の新羅ホテルで開かれたコリア・インベストメント・ウィーク（KIW）2026の基調講演で、バリューアップ政策により韓国株式市場に構造的な変化が起きていると述べた。余裕資金はかつて住宅購入に向かう傾向があったが、最近は金融市場に流入していると説明した。今年のKOSPI指数は80%急騰し、昨年の上昇率75.6%を半年足らずで上回り、バリューアップ指数の上昇率は105%とさらに高かった。取引所はAI、半導体、防衛、造船など有望産業向けの技術特例上場、不振企業の退場、重複上場の制限、24時間取引の推進により期待収益率を高める方針だ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "郑恩甫谈价值提升政策：韩国股市体质改善或超越房地产",
-        "excerpt": "韩国交易所理事长郑恩甫5月13日在KIW 2026表示，价值提升政策和生产性金融有望提高韩国股市预期收益率，并推动家庭资产流向股票。",
-        "body": "韩国交易所理事长郑恩甫5月13日在首尔奖忠洞新罗酒店举行的韩国投资周（KIW）2026主题演讲中表示，价值提升政策正在推动韩国股市出现结构性变化。他说明，过去家庭闲置资金往往流向购房，但最近正流入金融市场。今年KOSPI指数已大涨80%，不到半年就超过去年75.6%的涨幅，价值提升指数涨幅则达到105%，表现更高。韩国交易所计划通过为人工智能、半导体、军工、造船等有前景行业定制技术特例上市制度，推动劣质企业退市，限制重复上市，并推进24小时交易，以提高市场预期收益率。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Jung Eun-bo ve el value-up como motor para que la bolsa supere al inmobiliario",
-        "excerpt": "El presidente de Korea Exchange, Jung Eun-bo, dijo el 13 de mayo en KIW 2026 que las políticas value-up y las finanzas productivas pueden elevar la rentabilidad esperada y atraer más fondos a acciones.",
-        "body": "El presidente de Korea Exchange, Jung Eun-bo, afirmó en su discurso principal del Korea Investment Week (KIW) 2026, celebrado el 13 de mayo en el hotel Shilla de Jangchung-dong, Seúl, que las políticas value-up están generando cambios estructurales en el mercado bursátil coreano. Explicó que el excedente de los hogares antes tendía a destinarse a la compra de vivienda, pero recientemente fluye hacia los mercados financieros. El Kospi ha subido 80% este año, superando en menos de medio año el avance de 75,6% del año pasado, mientras que el índice value-up ganó 105%. La bolsa planea elevar la rentabilidad esperada con salidas a bolsa especiales para sectores como IA, semiconductores, defensa y construcción naval, además de expulsar empresas débiles, limitar dobles cotizaciones e impulsar negociación 24 horas. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Jung Eun-bo aponta value-up como força para ações superarem imóveis",
-        "excerpt": "O presidente da Korea Exchange, Jung Eun-bo, disse em 13 de maio no KIW 2026 que políticas de value-up e finanças produtivas podem elevar retornos esperados e direcionar recursos para ações.",
-        "body": "O presidente da Korea Exchange, Jung Eun-bo, disse em discurso principal na Korea Investment Week (KIW) 2026, realizada em 13 de maio no hotel Shilla, em Jangchung-dong, Seul, que as políticas de value-up estão provocando uma mudança estrutural no mercado acionário coreano. Ele explicou que, no passado, recursos excedentes das famílias tendiam a ir para a compra de imóveis, mas recentemente têm fluído para os mercados financeiros. O Kospi subiu 80% neste ano, superando em menos de meio ano a alta de 75,6% do ano passado, enquanto o índice value-up avançou 105%. A bolsa pretende elevar os retornos esperados com listagens especiais para setores promissores como IA, semicondutores, defesa e construção naval, além de retirar empresas frágeis, limitar listagens duplicadas e buscar negociação 24 horas. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Jung Eun-bo sieht Value-up-Reform als Chance gegen Immobilienfokus",
-        "excerpt": "Korea-Exchange-Chef Jung Eun-bo sagte am 13. Mai bei KIW 2026, Value-up-Politik und produktive Finanzierung könnten erwartete Renditen erhöhen und Kapital stärker in Aktien lenken.",
-        "body": "Jung Eun-bo, Chairman der Korea Exchange, sagte in seiner Grundsatzrede auf der Korea Investment Week (KIW) 2026 am 13. Mai im Shilla Hotel in Jangchung-dong, Seoul, dass die Value-up-Politik strukturelle Veränderungen am koreanischen Aktienmarkt auslöse. Er erklärte, überschüssige Mittel der Haushalte seien früher eher in Wohnungskäufe geflossen, zuletzt aber stärker in die Finanzmärkte. Der Kospi ist in diesem Jahr um 80% gestiegen und übertraf damit in weniger als einem halben Jahr den Vorjahresanstieg von 75,6%; der Value-up-Index legte sogar um 105% zu. Die Börse will erwartete Renditen durch Sonderzulassungen für Zukunftsbranchen wie KI, Halbleiter, Rüstung und Schiffbau, den Ausschluss schwacher Unternehmen, Grenzen für Mehrfachnotierungen und 24-Stunden-Handel erhöhen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Jung Eun-bo mise sur le value-up pour faire évoluer la Bourse coréenne",
-        "excerpt": "Le président de Korea Exchange, Jung Eun-bo, a déclaré le 13 mai à KIW 2026 que la politique value-up et la finance productive pourraient relever les rendements attendus et orienter l’épargne vers les actions.",
-        "body": "Le président de Korea Exchange, Jung Eun-bo, a déclaré lors de son discours d’ouverture à la Korea Investment Week (KIW) 2026, organisée le 13 mai à l’hôtel Shilla de Jangchung-dong à Séoul, que la politique value-up provoquait un changement structurel du marché boursier coréen. Il a expliqué que les fonds disponibles des ménages se dirigeaient autrefois vers l’achat de logements, mais affluent récemment vers les marchés financiers. Le Kospi a bondi de 80% cette année, dépassant en moins de six mois la hausse de 75,6% de l’an dernier, tandis que l’indice value-up a progressé de 105%. La Bourse veut relever les rendements attendus via des introductions spéciales pour l’IA, les semi-conducteurs, la défense et la construction navale, l’exclusion d’entreprises faibles, la limitation des doubles cotations et le trading 24 heures. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "جونغ أون بو يربط إصلاح القيمة بصعود الأسهم الكورية أمام العقار",
-        "excerpt": "قال رئيس بورصة كوريا جونغ أون بو في 13 مايو خلال KIW 2026 إن سياسات رفع القيمة والتمويل المنتج قد تزيد العائد المتوقع وتحوّل تدفقات الأسر نحو الأسهم.",
-        "body": "قال جونغ أون بو، رئيس بورصة كوريا، في كلمة رئيسية خلال أسبوع الاستثمار الكوري KIW 2026 الذي عُقد في 13 مايو بفندق شيلا في جانغتشونغ دونغ بسيول، إن سياسات رفع القيمة تحدث تغيرا هيكليا في سوق الأسهم الكورية. وأوضح أن الأموال الفائضة لدى الأسر كانت تتجه سابقا إلى شراء المساكن، لكنها تتدفق في الآونة الأخيرة إلى الأسواق المالية. وارتفع مؤشر كوسبي 80% هذا العام، متجاوزا في أقل من نصف عام مكسب العام الماضي البالغ 75.6%، بينما صعد مؤشر رفع القيمة 105%. وتعتزم البورصة زيادة العائد المتوقع عبر إدراجات خاصة لصناعات واعدة مثل الذكاء الاصطناعي وأشباه الموصلات والدفاع وبناء السفن، إلى جانب إخراج الشركات الضعيفة، والحد من الإدراجات المزدوجة، والسعي إلى تداول على مدار 24 ساعة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "जंग यून-बो का वैल्यू-अप संदेश: शेयर बाजार की मजबूती रियल एस्टेट को चुनौती देगी",
-        "excerpt": "कोरिया एक्सचेंज के चेयरमैन जंग यून-बो ने 13 मई को KIW 2026 में कहा कि वैल्यू-अप नीति और उत्पादक वित्त घरेलू शेयर बाजार के अपेक्षित रिटर्न को बढ़ाकर धन प्रवाह को शेयरों की ओर मोड़ सकते हैं।",
-        "body": "कोरिया एक्सचेंज के चेयरमैन जंग यून-बो ने 13 मई को सियोल के जांगचुंग-डोंग स्थित शिला होटल में आयोजित Korea Investment Week (KIW) 2026 के मुख्य भाषण में कहा कि वैल्यू-अप नीति से कोरियाई शेयर बाजार में संरचनात्मक बदलाव दिख रहा है। उन्होंने बताया कि पहले परिवारों की अतिरिक्त पूंजी अक्सर घर खरीदने में जाती थी, लेकिन हाल में यह वित्तीय बाजारों में आ रही है। इस वर्ष कोस्पी सूचकांक 80% उछला है और आधे साल से कम समय में पिछले वर्ष की 75.6% वृद्धि को पार कर गया है, जबकि वैल्यू-अप सूचकांक 105% बढ़ा। एक्सचेंज AI, सेमीकंडक्टर, रक्षा और जहाज निर्माण जैसे आशाजनक उद्योगों के लिए विशेष लिस्टिंग, कमजोर कंपनियों की निकासी, दोहरी लिस्टिंग पर सीमा और 24 घंटे कारोबार के जरिए अपेक्षित रिटर्न बढ़ाने की योजना रखता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Jung Eun-bo Soroti Value-Up: Bursa Saham Korea Bisa Lampaui Properti",
-        "excerpt": "Ketua Korea Exchange Jung Eun-bo mengatakan pada 13 Mei di KIW 2026 bahwa kebijakan value-up dan pembiayaan produktif dapat menaikkan imbal hasil harapan serta mengalihkan dana ke saham.",
-        "body": "Ketua Korea Exchange Jung Eun-bo mengatakan dalam pidato utama Korea Investment Week (KIW) 2026 yang digelar pada 13 Mei di Hotel Shilla, Jangchung-dong, Seoul, bahwa kebijakan value-up sedang memicu perubahan struktural di pasar saham Korea. Ia menjelaskan bahwa dana lebih rumah tangga dulu cenderung digunakan untuk membeli rumah, tetapi belakangan mengalir ke pasar keuangan. Indeks Kospi tahun ini melonjak 80%, melampaui kenaikan tahun lalu sebesar 75,6% dalam waktu kurang dari setengah tahun, sementara indeks value-up naik 105%. Bursa berencana menaikkan imbal hasil harapan melalui pencatatan khusus bagi industri prospektif seperti AI, semikonduktor, pertahanan dan galangan kapal, serta mengeluarkan perusahaan lemah, membatasi pencatatan ganda, dan mendorong perdagangan 24 jam. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "139366c814a3",
-    "slug": "웨스턴디지털-ai-붐에-백조로-거듭난-hdd-기업-268522",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T16:42:23.022Z",
-    "updatedAt": "2026-05-13T16:42:23.022Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605133370i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605133370i",
-    "titleFingerprint": "2d4e933da4dd729b287b09704e8724042bd41e09",
-    "dedupKeys": [
-      "139366c814a36723de636779374497808878226e",
-      "2d4e933da4dd729b287b09704e8724042bd41e09",
-      "b04a793f86db59eca4d69a7cabda61778963d653"
-    ],
-    "imageUrl": "/images/articles/139366c814a3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "웨스턴디지털, AI 붐 속 HDD 기업 재평가…‘백조’로 변신",
-        "excerpt": "웨스턴디지털이 AI 붐을 계기로 전통적 HDD 기업이라는 평가를 넘어 새롭게 주목받고 있다고 hankyung.com이 전했다.",
-        "body": "웨스턴디지털이 AI 붐 속에서 기존 HDD 기업 이미지를 넘어 재평가받고 있다. hankyung.com은 웨스턴디지털을 ‘AI 붐에 백조로 거듭난 HDD 기업’으로 소개했다. 보도는 인공지능 확산이 데이터 저장 수요와 관련 기업에 대한 시장의 시선을 바꾸는 가운데, 웨스턴디지털이 그 흐름 속에서 새롭게 조명되고 있다는 점에 초점을 맞췄다. 전통적인 하드디스크드라이브 기업으로 분류돼 온 회사가 AI 산업 확장 국면에서 다른 평가를 받고 있다는 내용이다. 향후 관건은 AI 수요가 저장장치 시장 전반의 평가 변화로 이어질지 여부다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Western Digital Reappraised as AI Boom Lifts HDD Company Profile",
-        "excerpt": "Western Digital is drawing renewed attention beyond its traditional HDD image as the AI boom reshapes views on data storage, hankyung.com reported.",
-        "body": "Western Digital is being reappraised amid the AI boom, moving beyond its long-standing image as a traditional HDD company. hankyung.com described the company as an HDD maker that has “turned into a swan” thanks to the AI boom. The report focused on how the spread of artificial intelligence is changing market perceptions of data storage demand and related companies, placing Western Digital back in the spotlight. A company long categorized around hard disk drives is receiving a different assessment as the AI industry expands. The key question ahead is whether AI demand will continue to shift views across the broader storage market. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ウエスタンデジタル、AIブームでHDD企業として再評価",
-        "excerpt": "ウエスタンデジタルがAIブームを契機に、従来のHDD企業という評価を超えて新たに注目されているとhankyung.comが伝えた。",
-        "body": "ウエスタンデジタルがAIブームの中で、従来のHDD企業というイメージを超えて再評価されている。hankyung.comは同社を「AIブームで白鳥に生まれ変わったHDD企業」と紹介した。報道は、人工知能の普及がデータ保存需要と関連企業に対する市場の見方を変える中で、ウエスタンデジタルがその流れの中で改めて注目されている点に焦点を当てた。従来はハードディスクドライブ企業として分類されてきた同社が、AI産業の拡大局面で異なる評価を受けているという内容だ。今後の焦点は、AI需要がストレージ市場全体の評価変化につながるかどうかだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "西部数据因AI热潮获重新评价，HDD企业形象转变",
-        "excerpt": "hankyung.com报道称，西部数据正借AI热潮突破传统HDD企业形象，重新受到市场关注。",
-        "body": "西部数据在AI热潮中正超越其传统HDD企业形象，受到重新评价。hankyung.com将其称为“在AI热潮中蜕变成天鹅的HDD企业”。报道聚焦于人工智能扩散如何改变市场对数据存储需求及相关企业的看法，并使西部数据重新进入关注范围。长期被归类为硬盘驱动器企业的公司，在AI产业扩张阶段正获得不同评价。接下来的关键在于，AI需求是否会继续推动整个存储设备市场的评价变化。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Western Digital gana nueva valoración como empresa HDD por auge de IA",
-        "excerpt": "Western Digital vuelve a atraer atención más allá de su imagen tradicional de empresa HDD por el auge de la IA, informó hankyung.com.",
-        "body": "Western Digital está siendo revalorada en medio del auge de la IA, más allá de su imagen tradicional como empresa de HDD. hankyung.com la presentó como una compañía de discos duros que “renació como cisne” gracias al auge de la inteligencia artificial. El reporte se centró en cómo la expansión de la IA cambia la percepción del mercado sobre la demanda de almacenamiento de datos y sobre las empresas relacionadas, colocando nuevamente a Western Digital bajo los reflectores. Una firma clasificada durante mucho tiempo como fabricante de unidades de disco duro recibe ahora una evaluación distinta en la fase de expansión de la industria de IA. La cuestión clave será si la demanda de IA sigue modificando la valoración del mercado de almacenamiento. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Western Digital é reavaliada como empresa de HDD com avanço da IA",
-        "excerpt": "A Western Digital volta a ganhar atenção além da imagem tradicional de empresa de HDD à medida que o boom da IA muda a visão sobre armazenamento, informou hankyung.com.",
-        "body": "A Western Digital está sendo reavaliada em meio ao boom da IA, superando a imagem tradicional de empresa de HDD. O hankyung.com apresentou a companhia como uma fabricante de discos rígidos que “renasceu como cisne” com o avanço da inteligência artificial. A reportagem destacou como a disseminação da IA muda a percepção do mercado sobre a demanda por armazenamento de dados e sobre empresas relacionadas, recolocando a Western Digital em evidência. Uma companhia há muito classificada como ligada a hard disk drives passa a receber uma avaliação diferente na fase de expansão da indústria de IA. O ponto central daqui em diante é se a demanda por IA continuará alterando a visão sobre o mercado de armazenamento. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Western Digital wird im KI-Boom als HDD-Unternehmen neu bewertet",
-        "excerpt": "Western Digital rückt durch den KI-Boom über sein traditionelles Image als HDD-Unternehmen hinaus wieder in den Fokus, berichtete hankyung.com.",
-        "body": "Western Digital wird im KI-Boom neu bewertet und löst sich damit von seinem bisherigen Image als klassisches HDD-Unternehmen. hankyung.com beschrieb das Unternehmen als HDD-Anbieter, der durch den KI-Boom „zum Schwan geworden“ sei. Der Bericht betonte, dass die Verbreitung künstlicher Intelligenz die Marktsicht auf Datenspeicherbedarf und damit verbundene Unternehmen verändert und Western Digital dadurch erneut in den Fokus rückt. Ein Unternehmen, das lange vor allem den Festplatten zugeordnet wurde, erhält in der Expansionsphase der KI-Industrie eine andere Bewertung. Entscheidend wird sein, ob die KI-Nachfrage die Einschätzung des gesamten Speichermarktes weiter verändert. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Western Digital revalorisé par le boom de l’IA dans le secteur HDD",
-        "excerpt": "Western Digital attire de nouveau l’attention au-delà de son image traditionnelle d’entreprise HDD grâce au boom de l’IA, selon hankyung.com.",
-        "body": "Western Digital est revalorisé dans le contexte du boom de l’IA, au-delà de son image traditionnelle d’entreprise de HDD. hankyung.com a présenté la société comme un fabricant de disques durs devenu “cygne” grâce à l’essor de l’intelligence artificielle. L’article souligne que la diffusion de l’IA modifie le regard du marché sur la demande de stockage de données et sur les entreprises liées, ce qui remet Western Digital en lumière. Longtemps classée parmi les acteurs des disques durs, l’entreprise reçoit une appréciation différente dans la phase d’expansion de l’industrie de l’IA. L’enjeu sera de savoir si la demande liée à l’IA continuera de modifier la perception du marché du stockage. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ويسترن ديجيتال تنال تقييما جديدا مع طفرة الذكاء الاصطناعي",
-        "excerpt": "أفاد hankyung.com بأن ويسترن ديجيتال باتت تحظى باهتمام متجدد يتجاوز صورتها التقليدية كشركة أقراص HDD مع طفرة الذكاء الاصطناعي.",
-        "body": "تحظى ويسترن ديجيتال بإعادة تقييم في ظل طفرة الذكاء الاصطناعي، متجاوزة صورتها التقليدية كشركة مرتبطة بأقراص HDD. وقدمها hankyung.com بوصفها شركة أقراص صلبة «تحولت إلى بجعة» بفضل طفرة الذكاء الاصطناعي. وركز التقرير على أن انتشار الذكاء الاصطناعي يغير نظرة السوق إلى الطلب على تخزين البيانات وإلى الشركات المرتبطة به، ما أعاد تسليط الضوء على ويسترن ديجيتال. فالشركة التي صُنفت طويلا ضمن شركات محركات الأقراص الصلبة تتلقى تقييما مختلفا مع توسع صناعة الذكاء الاصطناعي. وسيكون السؤال الأساسي ما إذا كان طلب الذكاء الاصطناعي سيواصل تغيير تقييم سوق التخزين عموما. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "AI उछाल से Western Digital की HDD कंपनी छवि का पुनर्मूल्यांकन",
-        "excerpt": "hankyung.com के अनुसार AI उछाल के बीच Western Digital पारंपरिक HDD कंपनी की छवि से आगे बढ़कर फिर बाजार का ध्यान खींच रही है।",
-        "body": "AI उछाल के बीच Western Digital का पारंपरिक HDD कंपनी वाला मूल्यांकन बदलता दिख रहा है। hankyung.com ने कंपनी को AI उछाल से “हंस में बदली” HDD कंपनी के रूप में पेश किया। रिपोर्ट का जोर इस बात पर है कि कृत्रिम बुद्धिमत्ता का प्रसार डेटा स्टोरेज मांग और उससे जुड़ी कंपनियों को लेकर बाजार की धारणा बदल रहा है, और इसी प्रवाह में Western Digital फिर से ध्यान में आई है। लंबे समय से हार्ड डिस्क ड्राइव कंपनी के रूप में वर्गीकृत कंपनी को AI उद्योग के विस्तार के दौर में अलग नजर से देखा जा रहा है। आगे मुख्य सवाल यह होगा कि क्या AI मांग पूरे स्टोरेज बाजार के मूल्यांकन में बदलाव जारी रखेगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Western Digital Dinilai Ulang Saat Boom AI Angkat Profil Perusahaan HDD",
-        "excerpt": "Western Digital kembali mendapat perhatian melampaui citra tradisional sebagai perusahaan HDD seiring boom AI, lapor hankyung.com.",
-        "body": "Western Digital sedang dinilai ulang di tengah boom AI, melampaui citra lamanya sebagai perusahaan HDD tradisional. hankyung.com menyebut perusahaan itu sebagai pembuat HDD yang “berubah menjadi angsa” berkat boom kecerdasan buatan. Laporan tersebut menyoroti bagaimana penyebaran AI mengubah pandangan pasar terhadap kebutuhan penyimpanan data dan perusahaan terkait, sehingga Western Digital kembali mendapat sorotan. Perusahaan yang selama ini dikategorikan sebagai pemain hard disk drive kini menerima penilaian berbeda dalam fase ekspansi industri AI. Hal utama ke depan adalah apakah permintaan AI akan terus mengubah penilaian terhadap pasar penyimpanan secara lebih luas. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "d7f791f5dff5",
-    "slug": "반도체-수출규제-완화카드-꺼낼까미중-회담-증시-영향은-분석-110461",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T16:41:24.782Z",
-    "updatedAt": "2026-05-13T16:41:24.782Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051344016",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051344016",
-    "titleFingerprint": "3b4177298431e60828bf65c5e1ca5552911a3edc",
-    "dedupKeys": [
-      "d7f791f5dff52607196102da07915f7d3371f21a",
-      "3b4177298431e60828bf65c5e1ca5552911a3edc",
-      "b9fc5837d8abcd4a9d52ffa12835acaab075137f"
-    ],
-    "imageUrl": "/images/articles/d7f791f5dff5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미·중 회담 앞두고 반도체 수출규제 완화 가능성, 삼성전자·SK하이닉스 급등",
-        "excerpt": "2026년 5월 14일 베이징 미·중 정상회담을 앞두고 반도체 수출규제 완화와 희토류 의제가 국내 반도체·희토류 관련주에 미칠 영향이 주목된다.",
-        "body": "2026년 5월 14일 중국 베이징에서 열리는 미·중 정상회담을 앞두고 국내 증시는 반도체 수출규제 완화 가능성과 희토류 논의에 촉각을 세우고 있다. 회담 전날인 13일 삼성전자는 1.79%, SK하이닉스는 7.68% 올랐고, SK하이닉스는 장중 199만원까지 상승했다. 희토류 대체재 업체 유니온머티리얼도 8.5% 급등했으며 유니온과 동국알앤에스도 각각 3.64%, 1.8% 상승했다. 금융투자업계는 AI와 반도체 등 기술 문제가 핵심 의제 중 하나가 될 것으로 본다. NH투자증권은 중국이 희토류 카드를 앞세워 반도체 수출규제 완화를 끌어낼 경우 한국 메모리 업체에는 부정적이지만, 회담이 동결만 돼도 반사이익이 가능하다고 분석했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "U.S.-China Summit Puts Chip Export Controls in Focus as Samsung and SK Hynix Rally",
-        "excerpt": "Ahead of the May 14, 2026 U.S.-China summit in Beijing, markets are watching how chip export controls and rare earth talks may affect Korean semiconductor stocks.",
-        "body": "Ahead of the U.S.-China summit in Beijing on May 14, 2026, Korean investors are watching whether semiconductor export controls and rare earth issues will affect domestic stocks. On May 13, Samsung Electronics rose 1.79% and SK Hynix gained 7.68%, with SK Hynix reaching 1.99 million won intraday. Union Materials, a producer of rare earth substitutes, jumped 8.5%, while Union and Dongkuk R&S rose 3.64% and 1.8%, respectively. Market participants expect AI and semiconductor technology to be among the key agenda items. NH Investment & Securities said any Chinese push to secure easing of chip export controls through its rare earth leverage would be negative for Korean memory makers, while even a freeze in talks could leave Korean firms with indirect benefits. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "米中会談で半導体輸出規制緩和に関心、サムスン電子とSKハイニックス上昇",
-        "excerpt": "2026年5月14日の北京での米中首脳会談を前に、半導体輸出規制の緩和やレアアース協議が韓国関連株に与える影響が注目される。",
-        "body": "2026年5月14日に中国・北京で開かれる米中首脳会談を前に、韓国市場では半導体輸出規制の緩和可能性とレアアース議題への関心が高まっている。会談前日の13日、サムスン電子は1.79%、SKハイニックスは7.68%上昇し、SKハイニックスは取引時間中に199万ウォンまで上げた。レアアース代替材を手がけるユニオンマテリアルも8.5%急騰し、ユニオンと東国R&Sもそれぞれ3.64%、1.8%上昇した。金融投資業界では、AIと半導体などの技術問題が主要議題の一つになるとの見方が出ている。NH投資証券は、中国がレアアースを材料に半導体輸出規制の緩和を引き出せば韓国メモリー企業には否定的だが、協議が現状維持にとどまっても韓国企業には反射利益があり得ると分析した。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "美中会谈聚焦半导体出口管制，三星电子与SK海力士股价走强",
-        "excerpt": "2026年5月14日北京美中首脑会谈前，市场关注半导体出口管制放松和稀土议题将如何影响韩国半导体及稀土相关股票。",
-        "body": "在2026年5月14日于中国北京举行的美中首脑会谈前，韩国股市正关注半导体出口管制是否可能放松，以及稀土议题对相关股票的影响。会谈前一天的13日，三星电子上涨1.79%，SK海力士上涨7.68%，其中SK海力士盘中一度升至199万韩元。生产稀土替代材料的Union Materials大涨8.5%，Union和Dongkuk R&S也分别上涨3.64%和1.8%。金融投资业界预计，AI和半导体等技术问题将成为核心议题之一。NH投资证券分析称，如果中国利用稀土筹码促成半导体出口管制放松，对韩国存储芯片企业将是不利情景；但即便会谈仅维持现状，韩国企业也可能获得间接受益。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Cumbre EE.UU.-China centra la atención en chips mientras Samsung y SK Hynix suben",
-        "excerpt": "Antes de la cumbre del 14 de mayo de 2026 en Pekín, el mercado observa cómo los controles a chips y las tierras raras pueden afectar a valores coreanos.",
-        "body": "Antes de la cumbre entre Estados Unidos y China que se celebrará el 14 de mayo de 2026 en Pekín, la bolsa surcoreana sigue de cerca la posible relajación de los controles a la exportación de semiconductores y el debate sobre tierras raras. El 13 de mayo, Samsung Electronics subió un 1,79% y SK Hynix avanzó un 7,68%, con SK Hynix tocando 1,99 millones de wones durante la sesión. Union Materials, productora de sustitutos de tierras raras, saltó un 8,5%, mientras Union y Dongkuk R&S ganaron un 3,64% y un 1,8%. El sector financiero prevé que la IA y los semiconductores sean uno de los temas clave. NH Investment & Securities señaló que si China logra una relajación de los controles usando la carta de las tierras raras, sería negativo para las firmas coreanas de memoria; aun así, una simple congelación podría generar beneficios indirectos. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Cúpula EUA-China põe controles de chips no centro, com Samsung e SK Hynix em alta",
-        "excerpt": "Antes da cúpula de 14 de maio de 2026 em Pequim, investidores acompanham efeitos de chips e terras raras sobre ações coreanas de semicondutores.",
-        "body": "Antes da cúpula entre Estados Unidos e China marcada para 14 de maio de 2026 em Pequim, o mercado sul-coreano observa a possível flexibilização dos controles de exportação de semicondutores e a pauta de terras raras. Em 13 de maio, a Samsung Electronics subiu 1,79% e a SK Hynix avançou 7,68%, chegando a 1,99 milhão de won no intradia. A Union Materials, fabricante de substitutos de terras raras, saltou 8,5%, enquanto Union e Dongkuk R&S avançaram 3,64% e 1,8%. O setor financeiro espera que IA e semicondutores estejam entre os temas centrais. A NH Investment & Securities avaliou que, se a China usar as terras raras para obter alívio nas restrições de chips, o cenário será negativo para fabricantes coreanas de memória; se a reunião apenas congelar a situação, elas ainda podem ter ganhos indiretos. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "US-China-Gipfel rückt Chip-Exportkontrollen in den Fokus, Samsung und SK Hynix steigen",
-        "excerpt": "Vor dem Gipfel am 14. Mai 2026 in Peking schaut der Markt auf mögliche Folgen von Chipkontrollen und Seltenen Erden für koreanische Aktien.",
-        "body": "Vor dem US-China-Gipfel am 14. Mai 2026 in Peking achtet der südkoreanische Markt auf eine mögliche Lockerung der Halbleiter-Exportkontrollen und auf Gespräche über Seltene Erden. Am 13. Mai stieg Samsung Electronics um 1,79%, SK Hynix legte um 7,68% zu und erreichte im Tagesverlauf 1,99 Mio. Won. Union Materials, ein Hersteller von Ersatzstoffen für Seltene Erden, sprang um 8,5%, während Union und Dongkuk R&S um 3,64% beziehungsweise 1,8% zulegten. Die Finanzbranche erwartet, dass KI und Halbleitertechnologie zu den Kernthemen zählen. NH Investment & Securities erklärte, eine von China über die Karte der Seltenen Erden erreichte Lockerung der Chipkontrollen wäre für koreanische Speicherchiphersteller negativ; schon ein Einfrieren des Status quo könnte ihnen aber indirekte Vorteile bringen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Sommet États-Unis-Chine: les contrôles sur les puces dopent Samsung et SK Hynix",
-        "excerpt": "Avant le sommet du 14 mai 2026 à Pékin, les marchés surveillent l’effet des contrôles sur les puces et des terres rares sur les valeurs coréennes.",
-        "body": "À l’approche du sommet États-Unis-Chine prévu le 14 mai 2026 à Pékin, la Bourse sud-coréenne suit la possible détente des contrôles à l’exportation de semi-conducteurs et les discussions sur les terres rares. Le 13 mai, Samsung Electronics a gagné 1,79% et SK Hynix 7,68%, cette dernière atteignant 1,99 million de wons en séance. Union Materials, producteur de substituts aux terres rares, a bondi de 8,5%, tandis qu’Union et Dongkuk R&S ont progressé de 3,64% et 1,8%. Les acteurs financiers estiment que l’IA et les semi-conducteurs feront partie des sujets clés. NH Investment & Securities juge qu’un assouplissement obtenu par la Chine grâce aux terres rares serait négatif pour les fabricants coréens de mémoire; même un simple gel des discussions pourrait toutefois leur apporter un avantage indirect. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "قمة أميركا والصين تضع قيود تصدير الرقائق في الواجهة وسامسونغ وSK هاينكس تصعدان",
-        "excerpt": "قبيل قمة بكين في 14 مايو 2026، تترقب الأسواق أثر تخفيف قيود تصدير أشباه الموصلات وملف المعادن النادرة على الأسهم الكورية.",
-        "body": "قبيل القمة الأميركية الصينية المقررة في بكين في 14 مايو 2026، تركز سوق الأسهم الكورية على احتمال تخفيف قيود تصدير أشباه الموصلات وعلى ملف المعادن النادرة. في 13 مايو ارتفع سهم سامسونغ إلكترونيكس 1.79%، وصعد سهم SK هاينكس 7.68%، وبلغ خلال الجلسة 1.99 مليون وون. كما قفز سهم Union Materials، وهي شركة تنتج بدائل للمعادن النادرة، بنسبة 8.5%، وارتفع سهما Union وDongkuk R&S بنسبة 3.64% و1.8% على التوالي. وترى الأوساط المالية أن الذكاء الاصطناعي وأشباه الموصلات سيكونان من القضايا التقنية الرئيسية. وذكرت NH Investment & Securities أن نجاح الصين في انتزاع تخفيف لقيود الرقائق عبر ورقة المعادن النادرة سيكون سلبيا لشركات الذاكرة الكورية، بينما قد يتيح تجميد الوضع الحالي مكاسب غير مباشرة لها. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "अमेरिका-चीन बैठक में चिप निर्यात नियंत्रण पर नजर, Samsung और SK Hynix में उछाल",
-        "excerpt": "14 मई 2026 को बीजिंग में होने वाली अमेरिका-चीन शिखर बैठक से पहले बाजार चिप निर्यात नियंत्रण और रेयर अर्थ मुद्दे के असर पर नजर रखे हुए है।",
-        "body": "14 मई 2026 को बीजिंग में होने वाली अमेरिका-चीन शिखर बैठक से पहले दक्षिण कोरियाई बाजार सेमीकंडक्टर निर्यात नियंत्रण में संभावित ढील और रेयर अर्थ मुद्दे पर नजर रख रहा है। बैठक से एक दिन पहले 13 मई को Samsung Electronics 1.79% और SK Hynix 7.68% चढ़े; SK Hynix दिन के कारोबार में 19.9 लाख वॉन तक पहुंचा। रेयर अर्थ के विकल्प बनाने वाली Union Materials 8.5% उछली, जबकि Union और Dongkuk R&S क्रमशः 3.64% और 1.8% बढ़े। वित्तीय निवेश उद्योग का मानना है कि AI और सेमीकंडक्टर तकनीक प्रमुख एजेंडा में रह सकती है। NH Investment & Securities के अनुसार, अगर चीन रेयर अर्थ कार्ड के जरिए चिप निर्यात नियंत्रण में ढील हासिल करता है तो यह कोरियाई मेमोरी कंपनियों के लिए नकारात्मक होगा; लेकिन बातचीत सिर्फ मौजूदा स्थिति बनाए रखती है, तब भी कोरियाई कंपनियों को परोक्ष लाभ मिल सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "KTT AS-China Sorot Kontrol Ekspor Chip, Samsung dan SK Hynix Menguat Tajam",
-        "excerpt": "Menjelang KTT AS-China di Beijing pada 14 Mei 2026, pasar mencermati dampak kontrol ekspor chip dan isu tanah jarang terhadap saham Korea Selatan.",
-        "body": "Menjelang KTT Amerika Serikat-China di Beijing pada 14 Mei 2026, pasar Korea Selatan mencermati kemungkinan pelonggaran kontrol ekspor semikonduktor dan pembahasan tanah jarang. Pada 13 Mei, Samsung Electronics naik 1,79% dan SK Hynix menguat 7,68%, dengan SK Hynix sempat mencapai 1,99 juta won dalam perdagangan harian. Union Materials, produsen bahan pengganti tanah jarang, melonjak 8,5%, sementara Union dan Dongkuk R&S masing-masing naik 3,64% dan 1,8%. Industri investasi memperkirakan AI dan semikonduktor menjadi salah satu agenda utama. NH Investment & Securities menilai jika China memakai kartu tanah jarang untuk mendorong pelonggaran kontrol ekspor chip, skenarionya negatif bagi produsen memori Korea; namun jika pembicaraan hanya membekukan situasi, perusahaan Korea tetap bisa memperoleh manfaat tidak langsung. Sumber: hankyung.com"
       }
     }
   }
