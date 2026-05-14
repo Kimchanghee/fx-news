@@ -1,5 +1,230 @@
 [
   {
+    "id": "c4005b8ffc2e",
+    "slug": "지난해-벤처투자-68조원-3년만에-최대치-537446",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T11:00:43.289Z",
+    "updatedAt": "2026-05-14T11:00:43.289Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12047809",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12047809",
+    "titleFingerprint": "4a9a75a87aa130a77254795c1fae5b11cfd7e2aa",
+    "dedupKeys": [
+      "c4005b8ffc2e5d50de9002527a579874b280834b",
+      "4a9a75a87aa130a77254795c1fae5b11cfd7e2aa",
+      "5f0895a2ff4486a8b57216a18eac4822901d828f"
+    ],
+    "imageUrl": "/images/articles/c4005b8ffc2e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "벤처투자 6.8조원, AI·반도체·휴머노이드 붐에 3년 만 최대",
+        "excerpt": "중소벤처기업부는 지난달 지난해 국내 벤처투자액이 6조8111억원으로 3년 만에 최대치를 기록했다고 밝혔으며, AI·반도체·휴머노이드 붐이 투자 회복 흐름을 이끌었다.",
+        "body": "지난해 국내 벤처투자 시장이 인공지능(AI), 반도체, 휴머노이드 분야의 관심 확대 속에 3년 만의 최대 규모로 회복했다. 지난달 중소벤처기업부 발표에 따르면 지난해 전체 벤처투자액은 6조8111억원으로 집계됐다. 한동안 위축됐던 국내 벤처투자 업계가 AI와 반도체, 휴머노이드 붐을 계기로 다시 움직이기 시작한 것이다. 이번 수치는 벤처투자 시장이 침체 국면에서 벗어나고 있음을 보여주는 지표로 해석된다. 다만 향후 흐름은 관련 산업의 성장세와 투자 심리 회복 여부에 달려 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Venture Investment Hits 6.8 Trillion Won as AI and Chip Boom Lifts Market",
+        "excerpt": "South Korea’s venture investment reached 6.8111 trillion won last year, the largest in three years, as AI, semiconductors and humanoids revived investor activity, the ministry said last month.",
+        "body": "South Korea’s venture investment market recovered last year to its largest scale in three years as interest grew in artificial intelligence, semiconductors and humanoids. According to an announcement last month by the Ministry of SMEs and Startups, total venture investment last year came to 6.8111 trillion won. The figures show that a domestic venture investment industry that had remained subdued has begun to move again on the back of the AI, semiconductor and humanoid boom. The result is viewed as a sign that the venture investment market is emerging from a slump. Future momentum will depend on growth in related industries and whether investment sentiment continues to recover. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ベンチャー投資6.8兆ウォン、AI・半導体ブームで3年ぶり最大",
+        "excerpt": "中小ベンチャー企業部は先月、昨年の韓国ベンチャー投資額が6兆8111億ウォンとなり3年ぶりの最大規模を記録したと発表した。",
+        "body": "韓国のベンチャー投資市場は昨年、人工知能（AI）、半導体、ヒューマノイド分野への関心拡大を背景に、3年ぶりの最大規模へ回復した。中小ベンチャー企業部が先月発表した内容によると、昨年のベンチャー投資総額は6兆8111億ウォンだった。しばらく萎縮していた国内ベンチャー投資業界が、AI、半導体、ヒューマノイドのブームを契機に再び動き出した形だ。この数値は、ベンチャー投資市場が低迷局面から抜け出しつつあることを示す指標と受け止められる。今後の流れは関連産業の成長と投資心理の回復に左右される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国风险投资达6.8万亿韩元，AI与半导体热潮推动三年来最高",
+        "excerpt": "韩国中小风险企业部上月表示，去年国内风险投资额为6.8111万亿韩元，创三年来最高，AI、半导体和人形机器人热潮带动投资回暖。",
+        "body": "韩国风险投资市场去年在人工智能、半导体和人形机器人领域关注度上升的背景下，恢复至三年来最大规模。韩国中小风险企业部上月发布的数据显示，去年整体风险投资额为6.8111万亿韩元。此前一度收缩的韩国国内风险投资行业，正借助AI、半导体和人形机器人热潮重新启动。这一数字被视为风险投资市场正在走出低迷阶段的信号。不过，后续走势仍取决于相关产业的增长势头以及投资情绪能否持续恢复。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Inversión de riesgo en Corea alcanza 6,8 billones de wones por IA y chips",
+        "excerpt": "El Ministerio de Pymes y Startups informó el mes pasado que la inversión de riesgo en Corea sumó 6,8111 billones de wones el año pasado, su mayor nivel en tres años.",
+        "body": "El mercado surcoreano de inversión de riesgo se recuperó el año pasado hasta su mayor escala en tres años, impulsado por el creciente interés en inteligencia artificial, semiconductores y humanoides. Según informó el mes pasado el Ministerio de Pymes y Startups, la inversión total de riesgo del año pasado fue de 6,8111 billones de wones. La industria local, que había permanecido contenida durante un tiempo, comenzó a moverse nuevamente gracias al auge de la IA, los semiconductores y los humanoides. La cifra se interpreta como una señal de que el mercado está saliendo de una fase de debilidad. La evolución futura dependerá del crecimiento de esos sectores y de la recuperación del ánimo inversor. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Investimento de risco na Coreia soma 6,8 trilhões de wons com IA e chips",
+        "excerpt": "O Ministério das PMEs e Startups informou no mês passado que o investimento de risco na Coreia chegou a 6,8111 trilhões de wons no ano passado, o maior nível em três anos.",
+        "body": "O mercado sul-coreano de investimento de risco se recuperou no ano passado para o maior patamar em três anos, em meio ao aumento do interesse por inteligência artificial, semicondutores e humanoides. Segundo anúncio feito no mês passado pelo Ministério das PMEs e Startups, o investimento total de risco no ano passado somou 6,8111 trilhões de wons. O setor doméstico, que havia permanecido retraído por algum tempo, voltou a se movimentar com o impulso do boom de IA, semicondutores e humanoides. O número é visto como um indicador de que o mercado está saindo de uma fase de baixa. O ritmo futuro dependerá do crescimento desses setores e da recuperação do sentimento de investimento. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Venture-Investitionen in Korea erreichen 6,8 Billionen Won dank KI und Chips",
+        "excerpt": "Das Ministerium für KMU und Startups teilte im vergangenen Monat mit, dass Koreas Venture-Investitionen im Vorjahr 6,8111 Billionen Won erreichten, den höchsten Stand seit drei Jahren.",
+        "body": "Der südkoreanische Venture-Investmentmarkt hat sich im vergangenen Jahr auf den höchsten Stand seit drei Jahren erholt, gestützt durch wachsendes Interesse an künstlicher Intelligenz, Halbleitern und Humanoiden. Nach Angaben des Ministeriums für KMU und Startups aus dem vergangenen Monat belief sich das gesamte Venture-Investment im Vorjahr auf 6,8111 Billionen Won. Die heimische Branche, die längere Zeit zurückhaltend war, kommt durch den Boom bei KI, Halbleitern und Humanoiden wieder in Bewegung. Die Zahl gilt als Hinweis darauf, dass der Markt eine Schwächephase verlässt. Der weitere Verlauf hängt vom Wachstum der betreffenden Branchen und von einer Erholung der Investitionsstimmung ab. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Capital-risque coréen à 6,8 billions de wons, porté par l’IA et les puces",
+        "excerpt": "Le ministère des PME et des Startups a indiqué le mois dernier que l’investissement en capital-risque en Corée avait atteint 6,8111 billions de wons l’an dernier, un plus haut en trois ans.",
+        "body": "Le marché sud-coréen du capital-risque s’est redressé l’an dernier à son plus haut niveau en trois ans, dans un contexte d’intérêt accru pour l’intelligence artificielle, les semi-conducteurs et les humanoïdes. Selon l’annonce faite le mois dernier par le ministère des PME et des Startups, le montant total des investissements en capital-risque a atteint 6,8111 billions de wons l’an dernier. Le secteur national, resté longtemps en retrait, recommence à bouger grâce à l’essor de l’IA, des semi-conducteurs et des humanoïdes. Ce chiffre est interprété comme un signe de sortie de la phase de ralentissement. La suite dépendra de la croissance des secteurs concernés et du rétablissement du sentiment des investisseurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "استثمارات رأس المال الجريء في كوريا تبلغ 6.8 تريليون وون بدعم الذكاء الاصطناعي",
+        "excerpt": "قالت وزارة الشركات الصغيرة والناشئة الشهر الماضي إن استثمارات رأس المال الجريء في كوريا بلغت العام الماضي 6.8111 تريليون وون، وهو أعلى مستوى في ثلاث سنوات.",
+        "body": "تعافى سوق استثمارات رأس المال الجريء في كوريا الجنوبية العام الماضي إلى أكبر حجم له خلال ثلاث سنوات، مع اتساع الاهتمام بالذكاء الاصطناعي وأشباه الموصلات والروبوتات البشرية. ووفق إعلان وزارة الشركات الصغيرة والمتوسطة والناشئة في الشهر الماضي، بلغ إجمالي استثمارات رأس المال الجريء العام الماضي 6.8111 تريليون وون. ويعني ذلك أن القطاع المحلي، الذي ظل منكمشا لفترة، بدأ يتحرك مجددا بدعم طفرة الذكاء الاصطناعي وأشباه الموصلات والروبوتات البشرية. ويُنظر إلى الرقم على أنه مؤشر إلى خروج السوق من مرحلة التباطؤ. وسيعتمد المسار المقبل على نمو الصناعات ذات الصلة وتعافي معنويات الاستثمار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया में वेंचर निवेश 6.8 ट्रिलियन वॉन, AI और चिप्स से तीन साल का उच्च स्तर",
+        "excerpt": "SMEs और Startups मंत्रालय ने पिछले महीने बताया कि दक्षिण कोरिया का वेंचर निवेश पिछले वर्ष 6.8111 ट्रिलियन वॉन रहा, जो तीन वर्षों में सबसे बड़ा स्तर है।",
+        "body": "दक्षिण कोरिया का वेंचर निवेश बाजार पिछले वर्ष कृत्रिम बुद्धिमत्ता, सेमीकंडक्टर और ह्यूमनॉइड क्षेत्रों में बढ़ती रुचि के बीच तीन वर्षों के सबसे बड़े स्तर तक सुधरा। SMEs और Startups मंत्रालय की पिछले महीने की घोषणा के अनुसार, पिछले वर्ष कुल वेंचर निवेश 6.8111 ट्रिलियन वॉन रहा। इसका अर्थ है कि कुछ समय से सुस्त पड़ा घरेलू वेंचर निवेश उद्योग AI, सेमीकंडक्टर और ह्यूमनॉइड उछाल के सहारे फिर सक्रिय होने लगा है। यह आंकड़ा बाजार के मंदी चरण से बाहर निकलने का संकेत माना जा रहा है। आगे की दिशा संबंधित उद्योगों की वृद्धि और निवेश भावना की बहाली पर निर्भर करेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Investasi Ventura Korea Capai 6,8 Triliun Won, Tertinggi 3 Tahun Berkat AI",
+        "excerpt": "Kementerian UKM dan Startup bulan lalu menyatakan investasi ventura Korea tahun lalu mencapai 6,8111 triliun won, level terbesar dalam tiga tahun, ditopang AI, semikonduktor, dan humanoid.",
+        "body": "Pasar investasi ventura Korea Selatan pulih tahun lalu ke skala terbesar dalam tiga tahun, seiring meningkatnya minat pada kecerdasan buatan, semikonduktor, dan humanoid. Menurut pengumuman Kementerian UKM dan Startup bulan lalu, total investasi ventura tahun lalu mencapai 6,8111 triliun won. Industri investasi ventura domestik yang sempat lesu mulai bergerak kembali berkat boom AI, semikonduktor, dan humanoid. Angka ini dipandang sebagai indikator bahwa pasar investasi ventura mulai keluar dari fase pelemahan. Namun, arah berikutnya akan bergantung pada pertumbuhan industri terkait dan pemulihan sentimen investasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "d24c62f80b6a",
+    "slug": "피지컬ai-시험장된-현대차그룹-양재동-사옥-245867",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T10:59:38.882Z",
+    "updatedAt": "2026-05-14T10:59:38.882Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12047864",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12047864",
+    "titleFingerprint": "8ea4975b761a6dfc0b65f352cfd172998dc57d09",
+    "dedupKeys": [
+      "d24c62f80b6ad8e0447114f5b966feea2478f3f5",
+      "8ea4975b761a6dfc0b65f352cfd172998dc57d09",
+      "5a39c83ad4da40de320cd440568b946940efc7c2"
+    ],
+    "imageUrl": "/images/articles/d24c62f80b6a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "피지컬 AI 테스트베드 된 현대차그룹 양재동 사옥, 로봇 3종 배치",
+        "excerpt": "현대자동차그룹이 서울 서초구 양재동 본사 로비를 재단장하고 로봇 3종을 배치해 임직원이 일상 업무 공간에서 피지컬 AI를 접하도록 했다.",
+        "body": "현대자동차그룹의 서울 서초구 양재동 본사가 피지컬 인공지능(AI) 테스트베드로 탈바꿈했다. 그룹은 본사 사옥 로비를 대대적으로 재단장하면서 로봇 3종을 곳곳에 배치해 임직원들이 일상 공간에서 로봇을 접할 수 있도록 했다. 이번 변화는 자동차 기업의 업무 공간이 로봇과 AI 기술을 체험하는 현장으로 확장되고 있음을 보여준다. 배치된 로봇은 사옥 이용자와 임직원이 자연스럽게 마주치는 방식으로 운영돼 피지컬 AI의 실제 적용 가능성을 살피는 기반이 될 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hyundai Motor Group Turns Yangjae HQ Into Physical AI Testbed With Robots",
+        "excerpt": "Hyundai Motor Group has renovated the lobby of its Yangjae headquarters in Seocho-gu, Seoul, placing three types of robots so employees can encounter physical AI in daily workspaces.",
+        "body": "Hyundai Motor Group’s headquarters in Yangjae-dong, Seocho-gu, Seoul, has been transformed into a testbed for physical artificial intelligence. The group extensively remodeled the lobby of its headquarters and placed three types of robots throughout the space, allowing employees to encounter robots in everyday office settings. The move shows how an automaker’s workplace is expanding into a site for experiencing robotics and AI technologies. The robots are positioned so building users and employees can naturally interact with them, creating a basis for observing the real-world applicability of physical AI. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "現代自動車グループ楊才洞本社、フィジカルAI試験場に転換",
+        "excerpt": "現代自動車グループはソウル瑞草区楊才洞の本社ロビーを刷新し、3種類のロボットを配置して、社員が日常空間でフィジカルAIに触れられるようにした。",
+        "body": "現代自動車グループのソウル瑞草区楊才洞本社が、フィジカル人工知能（AI）のテストベッドへと変わった。同グループは本社ビルのロビーを大幅に改装し、3種類のロボットを各所に配置して、社員が日常の業務空間でロボットに接することができるようにした。今回の変化は、自動車企業の職場がロボットとAI技術を体験する現場へ広がっていることを示す。配置されたロボットは、ビル利用者や社員が自然に出会う形で運用され、フィジカルAIの実際の適用可能性を確認する基盤になり得る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "现代汽车集团良才洞总部变身物理AI测试场，部署三类机器人",
+        "excerpt": "现代汽车集团改造首尔瑞草区良才洞总部大堂，并部署三类机器人，让员工在日常办公空间中接触物理人工智能。",
+        "body": "现代汽车集团位于首尔瑞草区良才洞的总部已转变为物理人工智能（AI）测试平台。集团对总部大楼大堂进行了大规模改造，并在各处部署三类机器人，使员工能够在日常办公空间中接触机器人。这一变化显示，汽车企业的工作场所正在扩展为体验机器人和AI技术的现场。所部署的机器人以让大楼使用者和员工自然相遇的方式运行，可成为观察物理AI实际应用可能性的基础。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hyundai Motor Group convierte su sede de Yangjae en banco de pruebas de IA física",
+        "excerpt": "Hyundai Motor Group renovó el vestíbulo de su sede en Yangjae, Seúl, y colocó tres tipos de robots para que sus empleados convivan con la IA física en el espacio laboral diario.",
+        "body": "La sede de Hyundai Motor Group en Yangjae-dong, distrito de Seocho, Seúl, se ha transformado en un banco de pruebas para la inteligencia artificial física. El grupo remodeló ampliamente el vestíbulo del edificio principal y ubicó tres tipos de robots en distintos puntos, de modo que los empleados puedan encontrarse con robots en espacios cotidianos de trabajo. El cambio muestra cómo el lugar de trabajo de una automotriz se amplía hacia un entorno para experimentar tecnologías de robótica e IA. Los robots están dispuestos para que usuarios del edificio y empleados los encuentren de forma natural, lo que puede servir de base para observar la aplicabilidad real de la IA física. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Hyundai Motor Group transforma sede em Yangjae em teste para IA física",
+        "excerpt": "O Hyundai Motor Group reformou o saguão de sua sede em Yangjae, Seul, e instalou três tipos de robôs para que funcionários encontrem IA física no dia a dia do trabalho.",
+        "body": "A sede do Hyundai Motor Group em Yangjae-dong, no distrito de Seocho, em Seul, foi transformada em um ambiente de testes para inteligência artificial física. O grupo reformou amplamente o saguão do prédio principal e distribuiu três tipos de robôs pelo espaço, permitindo que funcionários tenham contato com robôs em áreas comuns de trabalho. A mudança mostra como o local de trabalho de uma montadora se expande para um espaço de experiência com robótica e IA. Os robôs foram posicionados para que usuários do prédio e funcionários os encontrem naturalmente, criando uma base para observar a aplicabilidade real da IA física. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hyundai Motor Group macht Yangjae-Zentrale zum Testfeld für physische KI",
+        "excerpt": "Die Hyundai Motor Group hat die Lobby ihrer Zentrale in Yangjae, Seoul, umgestaltet und drei Robotertypen platziert, damit Beschäftigte physische KI im Arbeitsalltag erleben.",
+        "body": "Die Zentrale der Hyundai Motor Group in Yangjae-dong im Seouler Bezirk Seocho ist zu einem Testfeld für physische künstliche Intelligenz geworden. Die Gruppe hat die Lobby ihres Hauptgebäudes umfassend erneuert und drei Arten von Robotern an verschiedenen Stellen platziert, damit Beschäftigte Robotern im alltäglichen Arbeitsumfeld begegnen können. Die Veränderung zeigt, wie sich der Arbeitsplatz eines Automobilunternehmens zu einem Ort entwickelt, an dem Robotik- und KI-Technologien erlebbar werden. Die Roboter sind so eingesetzt, dass Gebäudenutzer und Mitarbeitende ihnen auf natürliche Weise begegnen, was eine Grundlage zur Beobachtung der praktischen Anwendbarkeit physischer KI schaffen kann. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hyundai Motor Group transforme son siège de Yangjae en banc d’essai d’IA physique",
+        "excerpt": "Hyundai Motor Group a réaménagé le hall de son siège de Yangjae, à Séoul, et y a installé trois types de robots afin que les salariés côtoient l’IA physique au quotidien.",
+        "body": "Le siège de Hyundai Motor Group à Yangjae-dong, dans l’arrondissement de Seocho à Séoul, est devenu un banc d’essai pour l’intelligence artificielle physique. Le groupe a profondément réaménagé le hall de son immeuble principal et placé trois types de robots à différents endroits, afin que les salariés puissent rencontrer des robots dans leur espace de travail quotidien. Cette évolution montre comment le lieu de travail d’un constructeur automobile s’étend à un terrain d’expérience pour les technologies robotiques et d’IA. Les robots sont disposés de manière à être croisés naturellement par les usagers du bâtiment et les employés, ce qui peut servir de base pour observer les possibilités d’application réelle de l’IA physique. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هيونداي موتور تحول مقر يانغجاي إلى منصة اختبار للذكاء الاصطناعي المادي",
+        "excerpt": "أعادت هيونداي موتور غروب تصميم بهو مقرها في يانغجاي بسيول ووزعت ثلاثة أنواع من الروبوتات ليختبر الموظفون الذكاء الاصطناعي المادي في بيئة العمل اليومية.",
+        "body": "تحول مقر هيونداي موتور غروب في يانغجاي دونغ بمنطقة سوتشو في سيول إلى منصة اختبار للذكاء الاصطناعي المادي. فقد أعادت المجموعة تجديد بهو مبنى المقر على نطاق واسع ووضعت ثلاثة أنواع من الروبوتات في مواقع مختلفة، بما يتيح للموظفين مواجهة الروبوتات داخل مساحات العمل اليومية. ويظهر هذا التغيير أن مكان عمل شركة سيارات يتسع ليصبح موقعا لتجربة تقنيات الروبوتات والذكاء الاصطناعي. وتعمل الروبوتات الموضوعة بحيث يلتقي بها مستخدمو المبنى والموظفون بصورة طبيعية، ما قد يوفر أساسا لمتابعة قابلية تطبيق الذكاء الاصطناعي المادي في الواقع. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Hyundai Motor Group का Yangjae मुख्यालय फिजिकल AI टेस्टबेड बना",
+        "excerpt": "Hyundai Motor Group ने सियोल के Seocho-gu स्थित Yangjae मुख्यालय की लॉबी को नया रूप देकर तीन प्रकार के रोबोट लगाए, ताकि कर्मचारी रोजमर्रा के कार्यस्थल में फिजिकल AI से जुड़ सकें।",
+        "body": "Hyundai Motor Group का सियोल के Seocho-gu स्थित Yangjae-dong मुख्यालय फिजिकल आर्टिफिशियल इंटेलिजेंस का टेस्टबेड बन गया है। समूह ने मुख्यालय भवन की लॉबी का बड़े पैमाने पर नवीनीकरण किया और अलग-अलग स्थानों पर तीन प्रकार के रोबोट लगाए, ताकि कर्मचारी रोजमर्रा के कार्यस्थल में रोबोट से परिचित हो सकें। यह बदलाव दिखाता है कि एक वाहन कंपनी का कार्यस्थल रोबोटिक्स और AI तकनीक का अनुभव करने वाले स्थल में बदल रहा है। लगाए गए रोबोट इस तरह संचालित हैं कि भवन उपयोगकर्ता और कर्मचारी उनसे स्वाभाविक रूप से मिल सकें, जिससे फिजिकल AI की वास्तविक उपयोगिता को देखने का आधार बन सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hyundai Motor Group Jadikan Kantor Yangjae Testbed AI Fisik dengan Robot",
+        "excerpt": "Hyundai Motor Group merenovasi lobi kantor pusatnya di Yangjae, Seoul, dan menempatkan tiga jenis robot agar karyawan dapat berinteraksi dengan AI fisik di ruang kerja sehari-hari.",
+        "body": "Kantor pusat Hyundai Motor Group di Yangjae-dong, Seocho-gu, Seoul, telah berubah menjadi testbed untuk kecerdasan buatan fisik. Grup tersebut merombak besar-besaran lobi gedung kantor pusat dan menempatkan tiga jenis robot di berbagai titik, sehingga karyawan dapat menjumpai robot dalam ruang kerja sehari-hari. Perubahan ini menunjukkan bagaimana tempat kerja perusahaan otomotif meluas menjadi lokasi untuk mengalami teknologi robotika dan AI. Robot-robot tersebut ditempatkan agar pengguna gedung dan karyawan dapat bertemu secara alami, sehingga dapat menjadi dasar untuk melihat kemungkinan penerapan AI fisik di dunia nyata. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a2e2df4f771f",
+    "slug": "세기의-재산분할-최태원노소영-법정대면할까2차-조정일-내달-15일로-649521",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T10:57:35.127Z",
+    "updatedAt": "2026-05-14T10:57:35.127Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12048026",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12048026",
+    "titleFingerprint": "759e822b94172a03e2319b2e3abb04f2ed6fee22",
+    "dedupKeys": [
+      "a2e2df4f771fd2c327551bfae5825f6540d9d3f0",
+      "759e822b94172a03e2319b2e3abb04f2ed6fee22",
+      "2224cffcae9b40f46dcad50d3bdda8efcb3d3673"
+    ],
+    "imageUrl": "/images/articles/a2e2df4f771f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "최태원·노소영 재산분할 2차 조정, 내달 15일 법정 대면 가능성",
+        "excerpt": "최태원 SK그룹 회장과 노소영 아트센터 나비 관장이 이혼 확정 후 재산분할 논의를 위해 내달 15일 2차 조정기일에 법정에서 마주할 가능성이 제기됐다.",
+        "body": "최태원(66) SK그룹 회장과 노소영(65) 아트센터 나비 관장이 이혼 확정 이후 재산분할 문제를 논의하기 위해 내달 15일 열리는 2차 조정기일에 법정에서 대면할 것으로 예상된다. 이번 절차는 일명 ‘세기의 이혼’으로 불린 두 사람의 이혼이 확정된 뒤 남은 재산분할 쟁점을 다루기 위한 자리다. 양측이 조정기일에 직접 출석할 경우 재산분할 논의의 향방에 관심이 모일 전망이다. 다만 구체적인 조정 내용이나 합의 가능성은 원문에서 확인되지 않았다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Chey Tae-won, Roh Soh-yeong May Face Court Mediation Over Property Split",
+        "excerpt": "SK Group Chairman Chey Tae-won and Art Center Nabi director Roh Soh-yeong may meet in court on the second mediation date, set for the 15th of next month, to discuss property division after their divorce was finalized.",
+        "body": "SK Group Chairman Chey Tae-won, 66, and Art Center Nabi director Roh Soh-yeong, 65, are expected to face each other in court on the second mediation date scheduled for the 15th of next month to discuss property division after their divorce was finalized. The procedure concerns remaining property-split issues following a divorce widely referred to as the “divorce of the century.” If both sides attend the mediation session in person, attention is likely to focus on the direction of the property division talks. The original report did not confirm specific mediation details or the likelihood of an agreement. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "崔泰源・盧素英氏の財産分与、来月15日の2次調停で法廷対面か",
+        "excerpt": "SKグループの崔泰源会長とアートセンター・ナビの盧素英館長が、離婚確定後の財産分与を協議するため、来月15日の2次調停期日に法廷で対面する可能性がある。",
+        "body": "SKグループの崔泰源（66）会長とアートセンター・ナビの盧素英（65）館長は、離婚確定後の財産分与問題を協議するため、来月15日に開かれる2次調停期日に法廷で対面するとみられている。今回の手続きは、いわゆる「世紀の離婚」と呼ばれた両氏の離婚が確定した後、残された財産分与の争点を扱う場となる。双方が調停期日に直接出席する場合、財産分与協議の行方に関心が集まりそうだ。ただし、具体的な調停内容や合意の可能性は原文では確認されていない。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "崔泰源与卢素英财产分割二次调解，或于下月15日法庭会面",
+        "excerpt": "SK集团会长崔泰源与Art Center Nabi馆长卢素英在离婚确定后，为讨论财产分割问题，可能于下月15日第二次调解期日在法庭会面。",
+        "body": "SK集团会长崔泰源（66岁）与Art Center Nabi馆长卢素英（65岁）预计将在下月15日举行的第二次调解期日中，于法庭就离婚确定后的财产分割问题进行讨论。此次程序是在两人被称为“世纪离婚”的婚姻关系确定解除后，处理剩余财产分割争议的安排。如果双方在调解期日亲自出席，财产分割协商的走向将受到关注。不过，原文未确认具体调解内容或达成协议的可能性。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Chey Tae-won y Roh Soh-yeong podrían verse en corte por reparto patrimonial",
+        "excerpt": "Chey Tae-won, presidente de SK Group, y Roh Soh-yeong, directora de Art Center Nabi, podrían comparecer el día 15 del próximo mes en una segunda mediación sobre la división de bienes tras su divorcio.",
+        "body": "Chey Tae-won, de 66 años y presidente de SK Group, y Roh Soh-yeong, de 65 años y directora de Art Center Nabi, podrían verse en la corte en la segunda fecha de mediación prevista para el día 15 del próximo mes, con el fin de discutir la división de bienes después de que su divorcio quedara confirmado. El procedimiento aborda los puntos pendientes del reparto patrimonial tras un divorcio conocido como el “divorcio del siglo”. Si ambas partes asisten personalmente a la mediación, la atención se centrará en el rumbo de las conversaciones sobre la división de bienes. El informe original no confirmó detalles concretos de la mediación ni la posibilidad de un acuerdo. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Chey Tae-won e Roh Soh-yeong podem se enfrentar em mediação patrimonial",
+        "excerpt": "Chey Tae-won, presidente do SK Group, e Roh Soh-yeong, diretora do Art Center Nabi, podem comparecer ao tribunal no dia 15 do próximo mês para a segunda mediação sobre divisão de bens após o divórcio.",
+        "body": "Chey Tae-won, 66, presidente do SK Group, e Roh Soh-yeong, 65, diretora do Art Center Nabi, devem se encontrar no tribunal na segunda data de mediação, marcada para o dia 15 do próximo mês, para discutir a divisão de bens após a confirmação do divórcio. O procedimento trata das questões patrimoniais restantes depois do divórcio conhecido como o “divórcio do século”. Caso ambos compareçam pessoalmente à sessão de mediação, a atenção deve se voltar ao rumo das discussões sobre a divisão de bens. O texto original não confirmou detalhes específicos da mediação nem a possibilidade de acordo. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Chey Tae-won und Roh Soh-yeong vor zweiter Vermögensmediation",
+        "excerpt": "SK-Group-Chef Chey Tae-won und Art-Center-Nabi-Direktorin Roh Soh-yeong könnten am 15. des nächsten Monats vor Gericht zur zweiten Mediation über die Vermögensaufteilung nach ihrer Scheidung erscheinen.",
+        "body": "Chey Tae-won, 66, Vorsitzender der SK Group, und Roh Soh-yeong, 65, Direktorin des Art Center Nabi, werden voraussichtlich am 15. des nächsten Monats beim zweiten Mediationstermin vor Gericht aufeinandertreffen, um nach der rechtskräftigen Scheidung über die Vermögensaufteilung zu sprechen. Das Verfahren betrifft offene Fragen der Vermögensaufteilung nach einer Scheidung, die als „Scheidung des Jahrhunderts“ bezeichnet wurde. Sollten beide Seiten persönlich zum Mediationstermin erscheinen, dürfte sich die Aufmerksamkeit auf den Verlauf der Gespräche richten. Konkrete Inhalte der Mediation oder eine mögliche Einigung wurden im Originalbericht nicht bestätigt. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Chey Tae-won et Roh Soh-yeong attendus en médiation sur le partage des biens",
+        "excerpt": "Chey Tae-won, président de SK Group, et Roh Soh-yeong, directrice d’Art Center Nabi, pourraient se retrouver au tribunal le 15 du mois prochain pour une deuxième médiation sur le partage des biens après leur divorce.",
+        "body": "Chey Tae-won, 66 ans, président de SK Group, et Roh Soh-yeong, 65 ans, directrice d’Art Center Nabi, devraient se retrouver au tribunal lors de la deuxième date de médiation prévue le 15 du mois prochain afin de discuter du partage des biens après la confirmation de leur divorce. Cette procédure porte sur les questions patrimoniales restantes après un divorce qualifié de « divorce du siècle ». Si les deux parties assistent directement à la séance de médiation, l’attention devrait se porter sur l’orientation des discussions relatives au partage des biens. Le texte original ne confirme pas les détails précis de la médiation ni la possibilité d’un accord. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "تشوي تاي وون ورو سو يونغ أمام وساطة ثانية بشأن تقسيم الممتلكات",
+        "excerpt": "قد يلتقي رئيس مجموعة إس كيه تشوي تاي وون ومديرة مركز آرت سنتر نابي رو سو يونغ في المحكمة يوم 15 من الشهر المقبل خلال جلسة الوساطة الثانية لمناقشة تقسيم الممتلكات بعد تثبيت الطلاق.",
+        "body": "من المتوقع أن يواجه تشوي تاي وون، رئيس مجموعة إس كيه البالغ 66 عاما، ورو سو يونغ، مديرة مركز آرت سنتر نابي البالغة 65 عاما، بعضهما في المحكمة خلال جلسة الوساطة الثانية المقررة يوم 15 من الشهر المقبل لمناقشة تقسيم الممتلكات بعد تثبيت الطلاق. ويتعلق الإجراء بالقضايا المتبقية من تقسيم الممتلكات بعد طلاق وُصف بأنه «طلاق القرن». وإذا حضر الطرفان جلسة الوساطة شخصيا، فمن المرجح أن يتركز الاهتمام على مسار محادثات التقسيم. ولم يؤكد النص الأصلي تفاصيل الوساطة أو احتمال التوصل إلى اتفاق. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "चेय ताए-वोन और रो सो-यंग संपत्ति बंटवारे की दूसरी मध्यस्थता में आमने-सामने हो सकते हैं",
+        "excerpt": "SK Group के चेयरमैन चेय ताए-वोन और Art Center Nabi की निदेशक रो सो-यंग तलाक तय होने के बाद संपत्ति बंटवारे पर चर्चा के लिए अगले महीने की 15 तारीख को दूसरी मध्यस्थता में अदालत में मिल सकते हैं।",
+        "body": "SK Group के चेयरमैन चेय ताए-वोन, 66, और Art Center Nabi की निदेशक रो सो-यंग, 65, तलाक तय होने के बाद संपत्ति बंटवारे पर चर्चा के लिए अगले महीने की 15 तारीख को निर्धारित दूसरी मध्यस्थता तिथि पर अदालत में आमने-सामने हो सकते हैं। यह प्रक्रिया उस तलाक के बाद बचे संपत्ति बंटवारे के मुद्दों से जुड़ी है जिसे व्यापक रूप से “सदी का तलाक” कहा गया। यदि दोनों पक्ष मध्यस्थता में व्यक्तिगत रूप से उपस्थित होते हैं, तो संपत्ति विभाजन वार्ता की दिशा पर ध्यान रहेगा। मूल रिपोर्ट में मध्यस्थता की विशिष्ट सामग्री या समझौते की संभावना की पुष्टि नहीं की गई। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Chey Tae-won dan Roh Soh-yeong Mungkin Bertemu di Mediasi Harta",
+        "excerpt": "Ketua SK Group Chey Tae-won dan Direktur Art Center Nabi Roh Soh-yeong berpotensi bertemu di pengadilan pada tanggal 15 bulan depan dalam mediasi kedua untuk membahas pembagian harta setelah perceraian mereka final.",
+        "body": "Ketua SK Group Chey Tae-won, 66 tahun, dan Direktur Art Center Nabi Roh Soh-yeong, 65 tahun, diperkirakan akan berhadapan di pengadilan pada jadwal mediasi kedua yang ditetapkan tanggal 15 bulan depan untuk membahas pembagian harta setelah perceraian mereka final. Proses ini menangani isu pembagian harta yang tersisa setelah perceraian yang disebut sebagai “perceraian abad ini.” Jika kedua pihak hadir langsung dalam mediasi, perhatian akan tertuju pada arah pembicaraan pembagian harta. Laporan asli tidak mengonfirmasi rincian mediasi atau kemungkinan tercapainya kesepakatan. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "0714378cbdae",
     "slug": "lg-미래-기술-인재-선점-나섰다-539554",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI Ditutup Rekor 7.844,01, Dana Siaga Bantu Pulihkan Sentimen dalam Sehari",
         "excerpt": "Pada 13 Mei, KOSPI rebound sehari setelah penurunan tajam, naik 2,63% dan ditutup di 7.844,01, rekor tertinggi baru berdasarkan penutupan.",
         "body": "Pada 13 Mei, indeks KOSPI naik 2,63% dari sesi sebelumnya dan ditutup di 7.844,01, mencetak rekor tertinggi baru berdasarkan harga penutupan. Penurunan bursa global semalam sempat memicu kekhawatiran atas sentimen investor, tetapi dana yang menunggu koreksi masuk ke pasar dan membantu pemulihan dalam satu hari. Pada awal perdagangan, indeks sempat turun ke 7.406,14, terbebani pelemahan saham semikonduktor. Setelah itu, saham Hyundai Motor Group dan saham chip berbalik naik dan memimpin penguatan. Investor ritel dan institusi masing-masing membukukan beli bersih 1,8 triliun won, sementara investor asing menjual hampir 4 triliun won. Dana nasabah investor tercatat 137,4174 triliun won per 12 Mei. Morgan Stanley menetapkan proyeksi KOSPI tahun ini di 9.500. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "43d8e4e1c88a",
-    "slug": "gs리테일-2조-클럽-복귀허서홍-대표-취임-1년만-687493",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T18:17:55.965Z",
-    "updatedAt": "2026-05-13T18:17:55.965Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605134506i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605134506i",
-    "titleFingerprint": "3b307455903c532b42feb39f0a9aab7c2b47f229",
-    "dedupKeys": [
-      "43d8e4e1c88aed8ca7d8e493ea17ca56ab36c20d",
-      "3b307455903c532b42feb39f0a9aab7c2b47f229",
-      "acae6110e31bc99b370b0743ccfd00aaaeb1200b"
-    ],
-    "imageUrl": "/images/articles/43d8e4e1c88a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "GS리테일 시총 2조 클럽 복귀, 허서홍 대표 취임 1년만의 반등",
-        "excerpt": "GS리테일이 5월 13일 1분기 깜짝 실적에 힘입어 주가와 시가총액을 끌어올리며 허서홍 대표 취임 1년여 만에 ‘2조 클럽’에 복귀했다.",
-        "body": "GS리테일이 2026년 5월 13일 유가증권시장에서 2.92% 오른 2만6400원에 거래를 마치며 52주 최고가를 경신했다. 시가총액은 2조2072억원으로 늘어 호텔 사업 인적분할 등으로 2조원 아래로 내려간 뒤 1년여 만에 ‘2조 클럽’에 복귀했다. 허서홍 대표가 지난해 3월 20일 취임한 이후 주가는 당시 대비 80.2% 상승했다. 상승 배경은 1분기 실적이다. GS리테일은 지난 7일 1분기 영업이익 583억원, 매출 2조8549억원을 공시했다. 영업이익은 전년 동기 대비 39.4%, 매출은 3.8% 증가했고 매출은 1분기 기준 역대 최대다. 편의점, 홈쇼핑, 슈퍼 부문 모두 성장했고 증권사들은 목표주가를 상향했다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "GS Retail returns to W2tn market-cap club one year after Huh Seo-hong took charge",
-        "excerpt": "GS Retail regained a market capitalization above 2 trillion won on May 13 after a first-quarter earnings surprise lifted its share price under CEO Huh Seo-hong.",
-        "body": "GS Retail closed at 26,400 won on the Korea Exchange on May 13, 2026, up 2.92%, setting a new 52-week high. Its market capitalization rose to 2.2072 trillion won, bringing the company back into the “2 trillion won club” about a year after falling below that level following steps including the hotel business spin-off. Since CEO Huh Seo-hong took office on March 20 last year, the share price has climbed 80.2%. The driver was first-quarter performance. On May 7, GS Retail reported operating profit of 58.3 billion won and revenue of 2.8549 trillion won. Operating profit rose 39.4% year on year, while revenue increased 3.8% to a first-quarter record. Convenience stores, home shopping and supermarkets all grew, and brokerages raised target prices. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "GSリテール、時価総額2兆ウォン台に復帰　許西烘代表就任1年で反転",
-        "excerpt": "GSリテールは5月13日、第1四半期の好決算を受けて株価と時価総額を押し上げ、許西烘代表の就任から約1年で2兆ウォン台に戻った。",
-        "body": "GSリテールは2026年5月13日の韓国有価証券市場で2.92%高の2万6400ウォンで取引を終え、52週高値を更新した。時価総額は2兆2072億ウォンに拡大し、ホテル事業の人的分割などで2兆ウォンを下回ってから約1年で「2兆ウォン・クラブ」に復帰した。許西烘代表が昨年3月20日に就任して以降、株価は当時比80.2%上昇した。背景には第1四半期業績がある。GSリテールは5月7日、第1四半期の営業利益583億ウォン、売上高2兆8549億ウォンを公示した。営業利益は前年同期比39.4%、売上高は3.8%増で、第1四半期として過去最高だった。コンビニ、ホームショッピング、スーパー部門がいずれも成長し、証券会社は目標株価を引き上げた。出典: hankyung.com。"
-      },
-      "zh": {
-        "title": "GS Retail市值重返2万亿韩元，许曙洪上任一年后迎来反弹",
-        "excerpt": "GS Retail 5月13日受第一季度业绩超预期推动，股价和市值同步上升，在许曙洪代表上任约一年后重返2万亿韩元市值区间。",
-        "body": "GS Retail于2026年5月13日在韩国有价证券市场收报26400韩元，上涨2.92%，刷新52周高点。公司市值增至2.2072万亿韩元，在因酒店业务人力分拆等因素跌破2万亿韩元后，约一年后重返“2万亿韩元俱乐部”。许曙洪代表去年3月20日上任以来，股价较当时上涨80.2%。推动上涨的是第一季度业绩。GS Retail 5月7日公告称，第一季度营业利润为583亿韩元，销售额为2.8549万亿韩元。营业利润同比增长39.4%，销售额增长3.8%，创第一季度历史新高。便利店、电视购物和超市业务均实现增长，证券公司也上调了目标价。来源: hankyung.com。"
-      },
-      "es": {
-        "title": "GS Retail vuelve al club de 2 billones de wones tras un año con Huh Seo-hong",
-        "excerpt": "GS Retail recuperó el 13 de mayo una capitalización superior a 2 billones de wones, impulsada por resultados del primer trimestre mejores de lo esperado.",
-        "body": "GS Retail cerró el 13 de mayo de 2026 en la Bolsa de Corea a 26.400 wones, un alza del 2,92%, y marcó un nuevo máximo de 52 semanas. Su capitalización subió a 2,2072 billones de wones, con lo que volvió al “club de 2 billones” cerca de un año después de caer por debajo de ese nivel tras factores como la escisión del negocio hotelero. Desde que Huh Seo-hong asumió como director ejecutivo el 20 de marzo del año pasado, la acción ha avanzado un 80,2%. El impulso provino de los resultados del primer trimestre. El 7 de mayo, GS Retail informó un beneficio operativo de 58.300 millones de wones y ventas de 2,8549 billones. El beneficio operativo creció un 39,4% interanual y las ventas un 3,8%, récord para un primer trimestre. Crecieron tiendas de conveniencia, home shopping y supermercados, y las corredoras elevaron precios objetivo. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "GS Retail volta ao clube de 2 tri de won após um ano de Huh Seo-hong",
-        "excerpt": "A GS Retail recuperou em 13 de maio valor de mercado acima de 2 trilhões de won, apoiada por resultados surpreendentes do primeiro trimestre.",
-        "body": "A GS Retail fechou em 13 de maio de 2026 na Bolsa da Coreia a 26.400 won, alta de 2,92%, renovando a máxima de 52 semanas. O valor de mercado subiu para 2,2072 trilhões de won, levando a empresa de volta ao “clube dos 2 trilhões” cerca de um ano depois de cair abaixo desse patamar após fatores como a cisão do negócio hoteleiro. Desde que Huh Seo-hong assumiu como CEO em 20 de março do ano passado, a ação avançou 80,2%. O motor foi o desempenho do primeiro trimestre. Em 7 de maio, a GS Retail divulgou lucro operacional de 58,3 bilhões de won e receita de 2,8549 trilhões de won. O lucro operacional cresceu 39,4% ano a ano e a receita avançou 3,8%, recorde para um primeiro trimestre. Lojas de conveniência, home shopping e supermercados cresceram, e corretoras elevaram preços-alvo. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "GS Retail zurück im 2-Billionen-Won-Club nach einem Jahr Huh Seo-hong",
-        "excerpt": "GS Retail erreichte am 13. Mai wieder mehr als 2 Billionen Won Börsenwert, nachdem starke Zahlen zum ersten Quartal die Aktie deutlich stützten.",
-        "body": "GS Retail schloss am 13. Mai 2026 an der Korea Exchange bei 26.400 Won, ein Plus von 2,92%, und markierte ein neues 52-Wochen-Hoch. Die Marktkapitalisierung stieg auf 2,2072 Billionen Won. Damit kehrte das Unternehmen rund ein Jahr nach dem Rückgang unter diese Marke, unter anderem infolge der Abspaltung des Hotelgeschäfts, in den “2-Billionen-Won-Club” zurück. Seit Huh Seo-hong am 20. März des Vorjahres den Vorstandsvorsitz übernommen hat, legte die Aktie um 80,2% zu. Ausschlaggebend waren die Zahlen zum ersten Quartal. Am 7. Mai meldete GS Retail einen operativen Gewinn von 58,3 Milliarden Won und einen Umsatz von 2,8549 Billionen Won. Der operative Gewinn stieg um 39,4% zum Vorjahr, der Umsatz um 3,8% auf einen Rekord für ein erstes Quartal. Convenience Stores, Homeshopping und Supermärkte wuchsen, Analysten hoben Kursziele an. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "GS Retail retrouve les 2 000 Mds de wons un an après l’arrivée de Huh Seo-hong",
-        "excerpt": "GS Retail a retrouvé le 13 mai une capitalisation supérieure à 2 000 milliards de wons, portée par des résultats du premier trimestre au-dessus des attentes.",
-        "body": "GS Retail a clôturé le 13 mai 2026 à la Bourse de Corée à 26 400 wons, en hausse de 2,92%, inscrivant un nouveau plus haut sur 52 semaines. Sa capitalisation a atteint 2 207,2 milliards de wons, ce qui ramène l’entreprise dans le « club des 2 000 milliards » environ un an après être passée sous ce seuil, notamment après la scission de l’activité hôtelière. Depuis l’arrivée de Huh Seo-hong à la direction générale le 20 mars de l’an dernier, l’action a progressé de 80,2%. Le moteur de la hausse vient des résultats du premier trimestre. Le 7 mai, GS Retail a annoncé un bénéfice d’exploitation de 58,3 milliards de wons et un chiffre d’affaires de 2 854,9 milliards. Le bénéfice d’exploitation a augmenté de 39,4% sur un an et les ventes de 3,8%, un record pour un premier trimestre. Supérettes, téléachat et supermarchés ont progressé, et les courtiers ont relevé leurs objectifs. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "GS Retail تعود إلى نادي تريليوني وون بعد عام من تولي هه سوهونغ",
-        "excerpt": "عادت GS Retail في 13 مايو إلى قيمة سوقية تتجاوز تريليوني وون، مدعومة بنتائج مفاجئة للربع الأول وارتفاع سهمها في عهد الرئيس التنفيذي هه سوهونغ.",
-        "body": "أغلقت GS Retail في 13 مايو 2026 في سوق الأوراق المالية الكورية عند 26400 وون، بارتفاع 2.92%، مسجلة أعلى مستوى في 52 أسبوعا. وارتفعت قيمتها السوقية إلى 2.2072 تريليون وون، لتعود إلى «نادي تريليوني وون» بعد نحو عام من هبوطها دون هذا المستوى عقب عوامل منها فصل نشاط الفنادق. ومنذ تولي هه سوهونغ منصب الرئيس التنفيذي في 20 مارس من العام الماضي، ارتفع السهم 80.2%. وجاء الدعم من نتائج الربع الأول. ففي 7 مايو أعلنت GS Retail أرباحا تشغيلية قدرها 58.3 مليار وون وإيرادات 2.8549 تريليون وون. زادت الأرباح التشغيلية 39.4% على أساس سنوي، وارتفعت الإيرادات 3.8% لتسجل رقما قياسيا للربع الأول. ونمت متاجر الراحة والتسوق المنزلي والسوبرماركت، كما رفعت شركات الأوراق المالية أسعارها المستهدفة. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "GS Retail फिर 2 ट्रिलियन वॉन क्लब में, Huh Seo-hong के एक साल बाद उछाल",
-        "excerpt": "GS Retail ने 13 मई को पहली तिमाही के मजबूत नतीजों के दम पर 2 ट्रिलियन वॉन से अधिक बाजार पूंजीकरण फिर हासिल किया और शेयर 52-सप्ताह ऊंचाई पर पहुंचा।",
-        "body": "GS Retail ने 13 मई 2026 को कोरिया एक्सचेंज में 26,400 वॉन पर कारोबार समाप्त किया, जो 2.92% की बढ़त थी, और 52-सप्ताह का नया उच्च स्तर बनाया। कंपनी का बाजार पूंजीकरण बढ़कर 2.2072 ट्रिलियन वॉन हो गया, जिससे वह होटल व्यवसाय के विभाजन जैसे कारणों से 2 ट्रिलियन वॉन से नीचे जाने के लगभग एक साल बाद फिर “2 ट्रिलियन वॉन क्लब” में लौटी। Huh Seo-hong के पिछले वर्ष 20 मार्च को CEO बनने के बाद से शेयर 80.2% चढ़ा है। बढ़त का मुख्य कारण पहली तिमाही का प्रदर्शन रहा। GS Retail ने 7 मई को 58.3 अरब वॉन का परिचालन लाभ और 2.8549 ट्रिलियन वॉन की बिक्री घोषित की। परिचालन लाभ सालाना 39.4% और बिक्री 3.8% बढ़ी, जो पहली तिमाही का रिकॉर्ड है। सुविधा स्टोर, होम शॉपिंग और सुपरमार्केट सभी बढ़े, और ब्रोकरेज ने लक्ष्य मूल्य बढ़ाए। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "GS Retail kembali ke klub 2 triliun won setahun setelah Huh Seo-hong memimpin",
-        "excerpt": "GS Retail pada 13 Mei kembali mencatat kapitalisasi pasar di atas 2 triliun won setelah kinerja kuartal pertama yang mengejutkan mendorong harga sahamnya.",
-        "body": "GS Retail menutup perdagangan di Bursa Korea pada 13 Mei 2026 di 26.400 won, naik 2,92%, sekaligus mencetak level tertinggi 52 minggu. Kapitalisasi pasarnya meningkat menjadi 2,2072 triliun won, membawa perusahaan kembali ke “klub 2 triliun won” sekitar setahun setelah turun di bawah level itu akibat faktor seperti pemisahan bisnis hotel. Sejak Huh Seo-hong menjabat CEO pada 20 Maret tahun lalu, sahamnya naik 80,2%. Pendorong utama adalah kinerja kuartal pertama. Pada 7 Mei, GS Retail melaporkan laba operasi 58,3 miliar won dan penjualan 2,8549 triliun won. Laba operasi naik 39,4% secara tahunan, sedangkan penjualan naik 3,8% dan menjadi rekor untuk kuartal pertama. Segmen minimarket, home shopping, dan supermarket semuanya tumbuh, sementara perusahaan sekuritas menaikkan target harga. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "ef4fae204833",
-    "slug": "베이시스-차익거래-플랫폼-비공개-테스트-완료-후-출시-333284",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T18:16:37.323Z",
-    "updatedAt": "2026-05-13T18:16:37.323Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051342636",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051342636",
-    "titleFingerprint": "6c0bae21ac2b6253e4895955a491fdeb4b9a7c6f",
-    "dedupKeys": [
-      "ef4fae20483386019dba30d2155909f1c2dd97f2",
-      "6c0bae21ac2b6253e4895955a491fdeb4b9a7c6f",
-      "bcaea03eab254a8de9c2cbcfa91505ee500882bd"
-    ],
-    "imageUrl": "/images/articles/ef4fae204833.jpg",
-    "i18n": {
-      "ko": {
-        "title": "베이시스 차익거래 플랫폼, 비공개 테스트 완료 후 출시 소식",
-        "excerpt": "베이시스가 차익거래 플랫폼의 비공개 테스트를 완료한 뒤 출시했다. 서비스 공개 전 검증 절차를 마친 점이 핵심 내용이다.",
-        "body": "베이시스가 차익거래 플랫폼의 비공개 테스트를 완료한 뒤 플랫폼을 출시했다. 이번 소식은 서비스 공개에 앞서 제한된 환경에서 기능과 운영 흐름을 점검한 뒤 정식 출시 단계로 넘어갔다는 점에 초점이 맞춰진다. 차익거래 플랫폼은 가격 차이를 활용한 거래 기회를 다루는 서비스로, 출시 전 테스트 완료 여부는 이용자와 시장 참여자가 안정성 및 준비 상태를 판단할 때 참고하는 요소가 될 수 있다. 다만 원문에는 출시 일정, 이용 대상, 거래 지원 범위, 성과 수치 등 추가 세부 정보는 제시되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Basis Arbitrage Platform Launches After Completing Private Test",
-        "excerpt": "Basis has launched its arbitrage platform after completing a private test, marking the move from pre-release verification to public availability.",
-        "body": "Basis has launched its arbitrage platform after completing a private test. The report focuses on the platform moving into its launch phase after functions and operational flows were checked in a limited environment before public release. An arbitrage platform handles trading opportunities based on price differences, and completion of testing before launch can be a reference point for users and market participants assessing readiness and stability. The original report did not provide further details such as the launch schedule, eligible users, supported trading scope, or performance figures. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ベイシスの裁定取引プラットフォーム、非公開テスト完了後に始動",
-        "excerpt": "ベイシスは裁定取引プラットフォームの非公開テストを完了し、サービスを開始した。公開前の検証を終えた点が要点だ。",
-        "body": "ベイシスは裁定取引プラットフォームの非公開テストを完了した後、同プラットフォームを開始した。今回のニュースは、公開前に限定された環境で機能と運用の流れを点検し、正式な提供段階へ移った点に焦点がある。裁定取引プラットフォームは価格差を活用した取引機会を扱うサービスであり、開始前のテスト完了は利用者や市場参加者が準備状況と安定性を判断する際の材料になり得る。ただし原文では、開始日程、利用対象、対応する取引範囲、成果数値などの追加情報は示されていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Basis套利交易平台完成非公开测试后正式推出",
-        "excerpt": "Basis在完成套利交易平台的非公开测试后推出该平台，重点在于服务公开前已完成验证流程。",
-        "body": "Basis在完成套利交易平台的非公开测试后推出了该平台。此次消息的重点是，平台在公开服务前于限定环境中检查功能和运营流程，并进入正式推出阶段。套利交易平台主要处理利用价格差异形成的交易机会，因此上线前测试是否完成，可成为用户和市场参与者判断准备程度与稳定性的参考因素。不过，原文未提供推出时间、使用对象、支持的交易范围、成果数据等进一步细节。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Basis lanza plataforma de arbitraje tras completar prueba privada",
-        "excerpt": "Basis lanzó su plataforma de arbitraje después de completar una prueba privada, pasando de la verificación previa al lanzamiento a la salida al mercado.",
-        "body": "Basis lanzó su plataforma de arbitraje después de completar una prueba privada. La noticia se centra en que el servicio pasó a la fase de lanzamiento tras revisar funciones y flujos operativos en un entorno limitado antes de su apertura. Una plataforma de arbitraje aborda oportunidades de negociación basadas en diferencias de precios, por lo que completar pruebas antes del lanzamiento puede servir como referencia para usuarios y participantes del mercado al evaluar preparación y estabilidad. El texto original no incluye más detalles sobre calendario, usuarios habilitados, alcance de negociación admitido o cifras de desempeño. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Basis lança plataforma de arbitragem após concluir teste privado",
-        "excerpt": "A Basis lançou sua plataforma de arbitragem depois de concluir um teste privado, avançando da verificação prévia para a etapa de lançamento.",
-        "body": "A Basis lançou sua plataforma de arbitragem após concluir um teste privado. A notícia destaca a passagem para a fase de lançamento depois que funções e fluxos operacionais foram verificados em um ambiente limitado antes da abertura do serviço. Uma plataforma de arbitragem trata de oportunidades de negociação baseadas em diferenças de preço, e a conclusão de testes antes do lançamento pode servir como referência para usuários e participantes do mercado avaliarem prontidão e estabilidade. O texto original não apresentou detalhes adicionais sobre cronograma, público-alvo, escopo de negociação suportado ou números de desempenho. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Basis startet Arbitrage-Plattform nach abgeschlossenem privaten Test",
-        "excerpt": "Basis hat seine Arbitrage-Plattform nach Abschluss eines privaten Tests gestartet und damit die Vorabprüfung vor der Veröffentlichung beendet.",
-        "body": "Basis hat seine Arbitrage-Plattform nach Abschluss eines privaten Tests gestartet. Im Mittelpunkt steht, dass der Dienst vor der öffentlichen Bereitstellung in einer begrenzten Umgebung auf Funktionen und operative Abläufe geprüft wurde und anschließend in die Startphase überging. Eine Arbitrage-Plattform behandelt Handelschancen, die auf Preisunterschieden beruhen. Der Abschluss eines Tests vor dem Start kann daher für Nutzer und Marktteilnehmer ein Hinweis auf Vorbereitung und Stabilität sein. Der Originalbericht nennt jedoch keine weiteren Details zu Zeitplan, Nutzerkreis, unterstütztem Handelsumfang oder Leistungszahlen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Basis lance sa plateforme d’arbitrage après un test privé finalisé",
-        "excerpt": "Basis a lancé sa plateforme d’arbitrage après avoir terminé un test privé, marquant le passage de la vérification préalable au lancement.",
-        "body": "Basis a lancé sa plateforme d’arbitrage après avoir achevé un test privé. L’information met l’accent sur le passage à la phase de lancement après la vérification des fonctions et des processus opérationnels dans un environnement limité avant l’ouverture du service. Une plateforme d’arbitrage traite des opportunités de transaction fondées sur des écarts de prix, et l’achèvement d’un test avant lancement peut aider les utilisateurs et les acteurs du marché à évaluer la préparation et la stabilité du service. Le texte original ne fournit pas d’autres détails sur le calendrier, les utilisateurs concernés, le périmètre de négociation pris en charge ou les chiffres de performance. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "بيسيس تطلق منصة المراجحة بعد استكمال الاختبار الخاص",
-        "excerpt": "أطلقت بيسيس منصة المراجحة بعد إتمام اختبار خاص، في خطوة تنقل الخدمة من مرحلة التحقق قبل الإطلاق إلى مرحلة التشغيل.",
-        "body": "أطلقت بيسيس منصة المراجحة بعد استكمال اختبار خاص. يركز الخبر على انتقال المنصة إلى مرحلة الإطلاق بعدما جرى فحص الوظائف ومسارات التشغيل في بيئة محدودة قبل إتاحة الخدمة. وتتعامل منصة المراجحة مع فرص التداول القائمة على فروق الأسعار، لذلك قد يكون إكمال الاختبار قبل الإطلاق مؤشرا يستند إليه المستخدمون والمشاركون في السوق عند تقييم الجاهزية والاستقرار. ولم يورد النص الأصلي تفاصيل إضافية عن موعد الإطلاق أو الفئات المستهدفة أو نطاق التداول المدعوم أو أرقام الأداء. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Basis आर्बिट्राज प्लेटफॉर्म निजी परीक्षण पूरा होने के बाद लॉन्च",
-        "excerpt": "Basis ने निजी परीक्षण पूरा करने के बाद अपना आर्बिट्राज प्लेटफॉर्म लॉन्च किया, जिससे सेवा पूर्व-रिलीज सत्यापन से लॉन्च चरण में पहुंची।",
-        "body": "Basis ने निजी परीक्षण पूरा करने के बाद अपना आर्बिट्राज प्लेटफॉर्म लॉन्च किया। इस खबर का मुख्य बिंदु यह है कि सार्वजनिक उपलब्धता से पहले सीमित वातावरण में कार्यों और परिचालन प्रवाह की जांच की गई और उसके बाद सेवा लॉन्च चरण में पहुंची। आर्बिट्राज प्लेटफॉर्म मूल्य अंतर पर आधारित ट्रेडिंग अवसरों से जुड़ा होता है, इसलिए लॉन्च से पहले परीक्षण पूरा होना उपयोगकर्ताओं और बाजार प्रतिभागियों के लिए तैयारी और स्थिरता का आकलन करने में संदर्भ बिंदु हो सकता है। मूल रिपोर्ट में लॉन्च समय, उपयोगकर्ता वर्ग, समर्थित ट्रेडिंग दायरा या प्रदर्शन आंकड़ों जैसी अतिरिक्त जानकारी नहीं दी गई। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Basis Luncurkan Platform Arbitrase Setelah Uji Privat Selesai",
-        "excerpt": "Basis meluncurkan platform arbitrase setelah menyelesaikan uji privat, menandai perpindahan dari verifikasi pra-rilis ke tahap peluncuran.",
-        "body": "Basis meluncurkan platform arbitrase setelah menyelesaikan uji privat. Kabar ini berfokus pada perpindahan layanan ke tahap peluncuran setelah fungsi dan alur operasional diperiksa dalam lingkungan terbatas sebelum dibuka. Platform arbitrase menangani peluang transaksi yang memanfaatkan perbedaan harga, sehingga selesainya pengujian sebelum peluncuran dapat menjadi acuan bagi pengguna dan pelaku pasar dalam menilai kesiapan serta stabilitas. Namun, naskah asli tidak memuat rincian tambahan mengenai jadwal peluncuran, sasaran pengguna, cakupan perdagangan yang didukung, atau angka kinerja. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "aa67392d08da",
-    "slug": "전력기기도-슈퍼사이클2035년까지-이어질-것-688352",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T18:15:35.292Z",
-    "updatedAt": "2026-05-13T18:15:35.293Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051346041",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051346041",
-    "titleFingerprint": "37fa75825b673d872f2f8c5590d2e3d1a6333353",
-    "dedupKeys": [
-      "aa67392d08da9ff79e19cf04639f73218110465b",
-      "37fa75825b673d872f2f8c5590d2e3d1a6333353",
-      "fd3d877fbc21f4de3de1eb1d501230c91c4a9fa3"
-    ],
-    "imageUrl": "/images/articles/aa67392d08da.png",
-    "i18n": {
-      "ko": {
-        "title": "전력기기 슈퍼사이클 2035년까지 지속 전망…AI·리쇼어링 수요 폭발",
-        "excerpt": "국내 대표 전력기기 기업들은 13일 KIW 2026에서 AI 데이터센터, 스마트팩토리, 전기차 충전 인프라 확대를 배경으로 글로벌 전력기기 호황이 2035년까지 이어질 것으로 내다봤다.",
-        "body": "국내 대표 전력기기 기업들은 13일 서울 장충동 신라호텔에서 열린 ‘코리아 인베스트먼트 위크(KIW) 2026’에서 글로벌 전력기기 호황이 2035년까지 이어질 것으로 전망했다. 양재철 HD현대일렉트릭 전력부문장은 2023년에는 전력 수요가 2027년까지 이어질 것으로 봤지만 최근에는 2035년까지 간다는 의견이 많다며 이를 슈퍼사이클보다 뉴노멀로 본다고 밝혔다. HD현대일렉트릭은 울산 공장 증설을 마치고 생산 확대에 들어가며, 미국 앨라배마 공장은 내년 말 완공을 목표로 증설 중이다. LS일렉트릭은 AI 데이터센터, 스마트팩토리, 전기차 충전 인프라 확대로 전력시장 중심축이 송전에서 배전으로 이동하고 있다고 설명했다. 채대석 대표는 2030년 매출 10조원, 영업이익률 10%대 중반, 미국 사업 비중 30% 이상을 목표로 제시했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Power Equipment Supercycle Seen Lasting to 2035 as AI Demand Expands",
-        "excerpt": "South Korea’s leading power-equipment companies said at KIW 2026 on May 13 that global demand may stay strong until 2035, driven by AI data centers, smart factories and EV charging infrastructure.",
-        "body": "South Korea’s leading power-equipment companies said on May 13 at Korea Investment Week (KIW) 2026, held at the Shilla Hotel in Jangchung-dong, Seoul, that the global power-equipment boom is expected to continue until 2035. Yang Jae-cheol, head of HD Hyundai Electric’s power division, said demand had been expected in 2023 to last until 2027, but many now believe it will extend to 2035, calling it a new normal rather than a supercycle. HD Hyundai Electric has completed expansion of its Ulsan plant and is increasing production, while its Alabama plant in the U.S. is being expanded for completion by the end of next year. LS Electric said the center of the power market is shifting from transmission to distribution as AI data centers, smart factories and EV charging infrastructure expand. CEO Chae Dae-seok set targets of 10 trillion won in 2030 sales, a mid-teen operating margin and a U.S. business share above 30%. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "電力機器スーパーサイクル、2035年まで継続見通し…AI需要が拡大",
-        "excerpt": "韓国の主要電力機器企業は13日のKIW 2026で、AIデータセンター、スマート工場、EV充電インフラの拡大を背景に、世界的な好況が2035年まで続くとの見方を示した。",
-        "body": "韓国の主要電力機器企業は13日、ソウル・奨忠洞の新羅ホテルで開かれた「コリア・インベストメント・ウィーク（KIW）2026」で、世界の電力機器市場の好況が2035年まで続くとの見通しを示した。HD現代エレクトリック電力部門の梁在哲部門長は、2023年時点では電力需要が2027年まで続くと見ていたが、最近は2035年まで続くとの意見が多いとし、スーパーサイクルというよりニューノーマルと見ていると述べた。同社は蔚山工場の増設を終え、生産拡大に入る。米アラバマ工場も来年末の完成を目標に増設中だ。LSエレクトリックは、AIデータセンター、スマート工場、EV充電インフラの拡大により、電力市場の軸が送電から配電へ移っていると説明した。蔡大錫代表は2030年売上高10兆ウォン、営業利益率10%台半ば、米国事業比率30%以上を目標に掲げた。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "电力设备超级周期或延续至2035年，AI与回流需求推升市场",
-        "excerpt": "韩国主要电力设备企业13日在KIW 2026表示，受AI数据中心、智能工厂和电动汽车充电基础设施扩张带动，全球电力设备景气有望持续至2035年。",
-        "body": "韩国主要电力设备企业13日在首尔奖忠洞新罗酒店举行的“韩国投资周（KIW）2026”上表示，全球电力设备景气预计将持续到2035年。HD现代电气电力部门负责人梁在哲称，2023年时还认为电力需求会延续到2027年，但近期许多观点认为将持续到2035年，他表示这更像是新常态，而不只是超级周期。HD现代电气已完成蔚山工厂扩建并开始扩大生产，美国阿拉巴马工厂也在扩建，目标是明年年底完工。LS Electric指出，随着AI数据中心、智能工厂和电动汽车充电基础设施扩张，电力市场重心正从输电转向配电。代表蔡大锡提出，到2030年实现销售额10万亿韩元、营业利润率达到10%中段、美国业务占比提高至30%以上。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Equipos eléctricos: el superciclo podría durar hasta 2035 por la demanda de IA",
-        "excerpt": "Empresas surcoreanas líderes en equipos eléctricos dijeron el 13 de mayo en KIW 2026 que el auge global podría continuar hasta 2035 por centros de datos de IA, fábricas inteligentes e infraestructura de carga de vehículos eléctricos.",
-        "body": "Las principales empresas surcoreanas de equipos eléctricos afirmaron el 13 de mayo, durante Korea Investment Week (KIW) 2026 en el hotel Shilla de Jangchung-dong, Seúl, que el auge global del sector podría continuar hasta 2035. Yang Jae-cheol, jefe de la división eléctrica de HD Hyundai Electric, señaló que en 2023 se esperaba que la demanda eléctrica durara hasta 2027, pero que ahora muchas opiniones apuntan a 2035; dijo que lo ve más como una nueva normalidad que como un superciclo. HD Hyundai Electric terminó la ampliación de su planta de Ulsan y aumentará la producción, mientras amplía su fábrica de Alabama, EE. UU., con meta de terminarla a finales del próximo año. LS Electric explicó que el eje del mercado eléctrico se desplaza de la transmisión a la distribución por la expansión de centros de datos de IA, fábricas inteligentes e infraestructura de carga de vehículos eléctricos. Su CEO, Chae Dae-seok, fijó para 2030 ventas de 10 billones de wones, margen operativo de mediados del 10% y más de 30% del negocio en EE. UU. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Superciclo de equipamentos elétricos pode ir até 2035 com demanda de IA",
-        "excerpt": "Empresas sul-coreanas líderes em equipamentos elétricos disseram em 13 de maio, no KIW 2026, que o ciclo global de alta pode durar até 2035, impulsionado por data centers de IA, fábricas inteligentes e carregamento de veículos elétricos.",
-        "body": "As principais empresas sul-coreanas de equipamentos elétricos afirmaram em 13 de maio, no Korea Investment Week (KIW) 2026, realizado no hotel Shilla em Jangchung-dong, Seul, que a expansão global do setor deve continuar até 2035. Yang Jae-cheol, chefe da divisão de energia da HD Hyundai Electric, disse que em 2023 a demanda por eletricidade era vista como sustentada até 2027, mas que agora muitos avaliam que ela seguirá até 2035; para ele, trata-se mais de um novo normal do que de um superciclo. A HD Hyundai Electric concluiu a ampliação da fábrica de Ulsan e inicia aumento de produção, enquanto expande a unidade do Alabama, nos EUA, com conclusão prevista para o fim do próximo ano. A LS Electric afirmou que o centro do mercado elétrico está migrando da transmissão para a distribuição com a expansão de data centers de IA, fábricas inteligentes e infraestrutura de recarga de veículos elétricos. O CEO Chae Dae-seok apresentou metas de 10 trilhões de won em vendas em 2030, margem operacional na faixa média de 10% e participação dos EUA acima de 30%. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Stromausrüster sehen Superzyklus bis 2035 durch KI- und Infrastrukturbedarf",
-        "excerpt": "Führende südkoreanische Stromausrüster erklärten am 13. Mai auf der KIW 2026, dass der weltweite Boom bis 2035 anhalten könnte, getrieben von KI-Rechenzentren, Smart Factories und Ladeinfrastruktur für Elektroautos.",
-        "body": "Führende südkoreanische Stromausrüster erklärten am 13. Mai auf der Korea Investment Week (KIW) 2026 im Shilla Hotel in Jangchung-dong, Seoul, dass der globale Boom bei Stromausrüstung voraussichtlich bis 2035 anhält. Yang Jae-cheol, Leiter der Stromsparte von HD Hyundai Electric, sagte, 2023 sei noch erwartet worden, dass die Stromnachfrage bis 2027 anhalte; inzwischen gingen viele von 2035 aus. Er sehe dies eher als neue Normalität denn als Superzyklus. HD Hyundai Electric hat den Ausbau des Werks Ulsan abgeschlossen und beginnt mit höherer Produktion; das Werk in Alabama in den USA wird mit Ziel Fertigstellung Ende nächsten Jahres erweitert. LS Electric betonte, dass sich der Schwerpunkt des Strommarkts von Übertragung zu Verteilung verlagert, da KI-Rechenzentren, Smart Factories und Ladeinfrastruktur für Elektroautos wachsen. CEO Chae Dae-seok nannte Ziele für 2030: 10 Billionen Won Umsatz, operative Marge im mittleren Zehnprozentbereich und mehr als 30% US-Geschäftsanteil. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Équipements électriques: le supercycle pourrait durer jusqu’en 2035 avec l’IA",
-        "excerpt": "Les grands fabricants sud-coréens d’équipements électriques ont indiqué le 13 mai au KIW 2026 que l’essor mondial pourrait se prolonger jusqu’en 2035, porté par les centres de données IA, les usines intelligentes et la recharge de véhicules électriques.",
-        "body": "Les principaux fabricants sud-coréens d’équipements électriques ont déclaré le 13 mai, lors de la Korea Investment Week (KIW) 2026 à l’hôtel Shilla de Jangchung-dong, à Séoul, que l’essor mondial du secteur devrait se poursuivre jusqu’en 2035. Yang Jae-cheol, responsable de la division énergie de HD Hyundai Electric, a expliqué qu’en 2023 la demande d’électricité était attendue jusqu’en 2027, mais que beaucoup estiment désormais qu’elle ira jusqu’en 2035; il y voit davantage une nouvelle norme qu’un supercycle. HD Hyundai Electric a achevé l’extension de son usine d’Ulsan et augmente sa production, tandis que son usine de l’Alabama, aux États-Unis, est en expansion avec un objectif d’achèvement fin de l’an prochain. LS Electric a indiqué que le centre de gravité du marché de l’électricité se déplace du transport vers la distribution avec l’expansion des centres de données IA, des usines intelligentes et des infrastructures de recharge de véhicules électriques. Le PDG Chae Dae-seok vise pour 2030 un chiffre d’affaires de 10 000 milliards de wons, une marge opérationnelle au milieu de la dizaine et plus de 30% d’activité aux États-Unis. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "دورة فائقة لمعدات الكهرباء قد تمتد إلى 2035 مع توسع طلب الذكاء الاصطناعي",
-        "excerpt": "قالت شركات كورية جنوبية كبرى لمعدات الكهرباء في KIW 2026 يوم 13 مايو إن الرواج العالمي قد يستمر حتى 2035 بدعم مراكز بيانات الذكاء الاصطناعي والمصانع الذكية وبنية شحن المركبات الكهربائية.",
-        "body": "قالت شركات كورية جنوبية كبرى لمعدات الكهرباء يوم 13 مايو، خلال أسبوع كوريا للاستثمار KIW 2026 في فندق شيلا بمنطقة جانغتشونغ دونغ في سيول، إن ازدهار سوق معدات الكهرباء عالميا من المتوقع أن يستمر حتى 2035. وذكر يانغ جاي تشول، رئيس قطاع الطاقة في HD Hyundai Electric، أن التوقعات في 2023 كانت تشير إلى استمرار الطلب على الكهرباء حتى 2027، لكن آراء كثيرة الآن ترى أنه سيمتد إلى 2035، معتبرا أن الأمر أقرب إلى وضع طبيعي جديد منه إلى دورة فائقة. وأكملت HD Hyundai Electric توسعة مصنع أولسان وبدأت زيادة الإنتاج، كما توسع مصنعها في ألاباما بالولايات المتحدة بهدف اكتماله بنهاية العام المقبل. وقالت LS Electric إن محور سوق الكهرباء يتحول من النقل إلى التوزيع مع توسع مراكز بيانات الذكاء الاصطناعي والمصانع الذكية وبنية شحن المركبات الكهربائية. وحدد الرئيس التنفيذي تشاي داي سوك أهدافا لعام 2030 تشمل مبيعات قدرها 10 تريليونات وون، وهامش تشغيل في منتصف خانة العشرة بالمئة، ورفع حصة الأعمال الأمريكية إلى أكثر من 30%. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "बिजली उपकरणों का सुपरचक्र 2035 तक चलने का अनुमान, AI मांग बनी आधार",
-        "excerpt": "दक्षिण कोरिया की प्रमुख बिजली उपकरण कंपनियों ने 13 मई को KIW 2026 में कहा कि AI डेटा सेंटर, स्मार्ट फैक्टरी और EV चार्जिंग इन्फ्रास्ट्रक्चर के विस्तार से वैश्विक तेजी 2035 तक जारी रह सकती है।",
-        "body": "दक्षिण कोरिया की प्रमुख बिजली उपकरण कंपनियों ने 13 मई को सियोल के जांगचुंग-दोंग स्थित शिला होटल में आयोजित Korea Investment Week (KIW) 2026 में कहा कि वैश्विक बिजली उपकरण बाजार की तेजी 2035 तक जारी रहने की संभावना है। HD Hyundai Electric के बिजली विभाग प्रमुख यांग जे-चोल ने कहा कि 2023 में बिजली मांग 2027 तक जारी रहने की उम्मीद थी, लेकिन अब कई लोग इसे 2035 तक जाते देख रहे हैं; उन्होंने इसे सुपरचक्र से अधिक न्यू नॉर्मल बताया। HD Hyundai Electric ने उल्सान संयंत्र का विस्तार पूरा कर उत्पादन बढ़ाना शुरू किया है, जबकि अमेरिका के अलाबामा संयंत्र का विस्तार अगले साल के अंत तक पूरा करने का लक्ष्य है। LS Electric ने कहा कि AI डेटा सेंटर, स्मार्ट फैक्टरी और EV चार्जिंग इन्फ्रास्ट्रक्चर के विस्तार से बिजली बाजार का केंद्र ट्रांसमिशन से डिस्ट्रीब्यूशन की ओर जा रहा है। CEO चाए डे-सोक ने 2030 तक 10 ट्रिलियन वॉन बिक्री, मध्य-दहाई प्रतिशत ऑपरेटिंग मार्जिन और अमेरिकी कारोबार की हिस्सेदारी 30% से ऊपर करने का लक्ष्य रखा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Supercycle Peralatan Listrik Diperkirakan Berlanjut hingga 2035 karena AI",
-        "excerpt": "Perusahaan peralatan listrik utama Korea Selatan mengatakan pada 13 Mei di KIW 2026 bahwa boom global dapat berlangsung hingga 2035, didorong pusat data AI, pabrik pintar, dan infrastruktur pengisian kendaraan listrik.",
-        "body": "Perusahaan peralatan listrik utama Korea Selatan mengatakan pada 13 Mei dalam Korea Investment Week (KIW) 2026 di Hotel Shilla, Jangchung-dong, Seoul, bahwa boom global peralatan listrik diperkirakan berlanjut hingga 2035. Yang Jae-cheol, kepala divisi tenaga HD Hyundai Electric, mengatakan pada 2023 permintaan listrik diperkirakan bertahan hingga 2027, tetapi kini banyak pandangan menyebut hingga 2035; ia menilai ini lebih sebagai normal baru daripada supercycle. HD Hyundai Electric telah menyelesaikan perluasan pabrik Ulsan dan mulai meningkatkan produksi, sementara pabrik Alabama di AS sedang diperluas dengan target selesai akhir tahun depan. LS Electric menyatakan pusat pasar listrik bergeser dari transmisi ke distribusi seiring perluasan pusat data AI, pabrik pintar, dan infrastruktur pengisian kendaraan listrik. CEO Chae Dae-seok menetapkan target 2030 berupa penjualan 10 triliun won, margin operasi di kisaran belasan persen menengah, dan porsi bisnis AS di atas 30%. Sumber: hankyung.com"
       }
     }
   }
