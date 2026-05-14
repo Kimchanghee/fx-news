@@ -1,5 +1,230 @@
 [
   {
+    "id": "1373b74bec8e",
+    "slug": "안전-강화-주력한국남부발전-부산빛드림본부-화재-피해복구-대책본부-가동-935960",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T13:43:40.356Z",
+    "updatedAt": "2026-05-14T13:43:40.356Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12047369",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12047369",
+    "titleFingerprint": "ba6f67942e9daf42becf32826c3a573d11a5eaa8",
+    "dedupKeys": [
+      "1373b74bec8ef640508eee687835d1d372bd2bd1",
+      "ba6f67942e9daf42becf32826c3a573d11a5eaa8",
+      "d6abbf9e3baee955e6f3a67adc8da1d8b31cf1b6"
+    ],
+    "imageUrl": "/images/articles/1373b74bec8e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국남부발전, 부산빛드림본부 화재 피해복구 대책본부 가동",
+        "excerpt": "한국남부발전은 최근 발생한 부산빛드림본부 화재 사고의 신속한 복구와 철저한 원인 조사를 위해 피해복구 대책본부를 가동하고 재발 방지에 나선다.",
+        "body": "한국남부발전이 최근 발생한 부산빛드림본부 화재 사고에 대응해 ‘화재 피해복구 대책본부’를 가동한다. 회사는 신속한 복구와 철저한 조사를 통해 사고 원인을 확인하고 재발 방지에 총력을 기울인다는 방침이다. 이번 대책본부는 부산빛드림본부 현장의 피해 복구를 체계적으로 추진하고, 안전 관리 강화에 초점을 맞춘 대응 체계로 운영된다. 남부발전은 복구 과정에서 관련 절차를 점검하고 사고 재발을 막기 위한 후속 조치를 병행할 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPO Activates Fire Damage Recovery Task Force at Busan Bitdream HQ",
+        "excerpt": "Korea Southern Power has launched a fire damage recovery task force at its Busan Bitdream headquarters to speed recovery, conduct a thorough probe, and prevent recurrence.",
+        "body": "Korea Southern Power has activated a “fire damage recovery task force” in response to a recent fire at its Busan Bitdream headquarters. The company said it will focus on rapid restoration and a thorough investigation to identify the cause of the accident and prevent a recurrence. The task force will systematically manage damage recovery at the Busan Bitdream site while prioritizing stronger safety management. KOSPO is expected to review related procedures during the recovery process and carry out follow-up measures aimed at preventing similar accidents. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国南部発電、釜山ビットドリーム本部の火災復旧対策本部を稼働",
+        "excerpt": "韓国南部発電は、釜山ビットドリーム本部で最近発生した火災事故の迅速な復旧と徹底調査、再発防止に向けて対策本部を稼働する。",
+        "body": "韓国南部発電は、最近発生した釜山ビットドリーム本部の火災事故に対応し、「火災被害復旧対策本部」を稼働する。会社は迅速な復旧と徹底した調査を通じて事故原因を確認し、再発防止に全力を挙げる方針だ。今回の対策本部は、釜山ビットドリーム本部現場の被害復旧を体系的に進め、安全管理の強化に重点を置いた対応体制として運営される。南部発電は復旧過程で関連手続きを点検し、事故再発を防ぐための後続措置も並行するとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国南部发电启动釜山Bitdream本部火灾受损修复对策本部",
+        "excerpt": "韩国南部发电为应对近日釜山Bitdream本部火灾事故，启动受损修复对策本部，推进快速恢复、彻查原因并防止事故重演。",
+        "body": "韩国南部发电为应对近日发生的釜山Bitdream本部火灾事故，启动“火灾受损修复对策本部”。公司表示，将通过快速修复和彻底调查确认事故原因，并全力防止类似事故再次发生。此次对策本部将系统推进釜山Bitdream本部现场的损失修复，并以强化安全管理为重点运行应对体系。南部发电预计将在修复过程中检查相关程序，同时推进防止事故重演的后续措施。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPO activa comité de recuperación por incendio en Busan Bitdream",
+        "excerpt": "Korea Southern Power activó un comité de recuperación por el incendio reciente en Busan Bitdream para acelerar la reparación, investigar a fondo y evitar recurrencias.",
+        "body": "Korea Southern Power activó un “comité de recuperación de daños por incendio” tras el reciente accidente ocurrido en su sede Busan Bitdream. La compañía señaló que concentrará sus esfuerzos en una recuperación rápida y en una investigación exhaustiva para confirmar la causa del incidente y evitar que se repita. El comité gestionará de forma sistemática la recuperación de los daños en el sitio de Busan Bitdream y operará con foco en reforzar la seguridad. KOSPO también revisará los procedimientos relacionados durante el proceso de recuperación y aplicará medidas de seguimiento para prevenir accidentes similares. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPO ativa força-tarefa de recuperação após incêndio em Busan Bitdream",
+        "excerpt": "A Korea Southern Power ativou uma força-tarefa para recuperar danos do incêndio recente em Busan Bitdream, acelerar reparos, investigar causas e evitar recorrência.",
+        "body": "A Korea Southern Power ativou uma “força-tarefa de recuperação de danos por incêndio” em resposta ao recente acidente ocorrido na sede Busan Bitdream. A empresa informou que concentrará esforços na restauração rápida e em uma investigação rigorosa para identificar a causa do acidente e impedir sua recorrência. A força-tarefa conduzirá de forma sistemática a recuperação dos danos no local de Busan Bitdream, com foco no reforço da gestão de segurança. A KOSPO também deve revisar procedimentos relacionados durante o processo de recuperação e adotar medidas posteriores para prevenir acidentes semelhantes. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPO startet Taskforce nach Brand am Standort Busan Bitdream",
+        "excerpt": "Korea Southern Power richtet nach dem jüngsten Brand am Standort Busan Bitdream eine Taskforce ein, um die Wiederherstellung zu beschleunigen, Ursachen zu prüfen und Wiederholungen zu verhindern.",
+        "body": "Korea Southern Power hat nach einem jüngsten Brand am Standort Busan Bitdream eine „Taskforce zur Wiederherstellung nach Brandschäden“ aktiviert. Das Unternehmen will sich auf eine schnelle Wiederherstellung und eine gründliche Untersuchung konzentrieren, um die Unfallursache festzustellen und eine Wiederholung zu verhindern. Die Taskforce soll die Schadensbehebung vor Ort in Busan Bitdream systematisch steuern und den Schwerpunkt auf eine stärkere Sicherheitskontrolle legen. KOSPO dürfte während der Wiederherstellung auch einschlägige Verfahren prüfen und Folgemaßnahmen zur Vermeidung ähnlicher Vorfälle umsetzen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "KOSPO active une cellule de reprise après l’incendie à Busan Bitdream",
+        "excerpt": "Korea Southern Power a lancé une cellule de reprise après le récent incendie du site Busan Bitdream afin d’accélérer la remise en état, enquêter et prévenir toute récidive.",
+        "body": "Korea Southern Power a activé une « cellule de reprise après dommages causés par un incendie » à la suite du récent accident survenu au siège de Busan Bitdream. L’entreprise entend se concentrer sur une remise en état rapide et une enquête approfondie afin d’identifier la cause de l’incident et d’éviter qu’il ne se reproduise. Cette cellule pilotera de manière structurée la réparation des dommages sur le site de Busan Bitdream, avec un accent sur le renforcement de la gestion de la sécurité. KOSPO devrait aussi examiner les procédures liées au processus de reprise et mener des mesures de suivi pour prévenir des accidents similaires. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبو تشغّل مقر تعافي أضرار الحريق في مركز بوسان بيتدريم",
+        "excerpt": "أطلقت كوريا ساوثرن باور مقراً لمعالجة أضرار الحريق الأخير في مركز بوسان بيتدريم بهدف تسريع التعافي، وإجراء تحقيق دقيق، ومنع تكرار الحادث.",
+        "body": "شغّلت شركة كوريا ساوثرن باور «مقر معالجة أضرار الحريق» رداً على حادث حريق وقع مؤخراً في مركز بوسان بيتدريم. وقالت الشركة إنها ستركز على التعافي السريع والتحقيق الدقيق لتحديد سبب الحادث ومنع تكراره. وسيعمل هذا المقر على دفع أعمال استعادة الأضرار في موقع بوسان بيتدريم بصورة منهجية، مع التركيز على تعزيز إدارة السلامة. ومن المتوقع أن تراجع كوسبو الإجراءات ذات الصلة أثناء عملية التعافي، وأن تنفذ تدابير لاحقة لمنع وقوع حوادث مماثلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPO ने बुसान बिटड्रीम में आग से नुकसान की बहाली टास्क फोर्स चलाई",
+        "excerpt": "कोरिया सदर्न पावर ने बुसान बिटड्रीम मुख्यालय में हाल की आग के बाद तेज बहाली, गहन जांच और दुर्घटना की पुनरावृत्ति रोकने के लिए टास्क फोर्स शुरू की।",
+        "body": "कोरिया सदर्न पावर ने बुसान बिटड्रीम मुख्यालय में हाल ही में हुई आग की घटना के जवाब में “आग से नुकसान की बहाली टास्क फोर्स” सक्रिय की है। कंपनी ने कहा कि वह तेज बहाली और गहन जांच के जरिए दुर्घटना के कारण की पुष्टि करेगी और पुनरावृत्ति रोकने पर पूरा ध्यान देगी। यह टास्क फोर्स बुसान बिटड्रीम स्थल पर नुकसान की बहाली को व्यवस्थित रूप से आगे बढ़ाएगी और सुरक्षा प्रबंधन को मजबूत करने पर केंद्रित रहेगी। KOSPO बहाली प्रक्रिया के दौरान संबंधित प्रक्रियाओं की समीक्षा भी कर सकती है और समान दुर्घटनाओं को रोकने के लिए अनुवर्ती कदम उठाएगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPO Aktifkan Posko Pemulihan Kebakaran di Busan Bitdream",
+        "excerpt": "Korea Southern Power mengaktifkan posko pemulihan kerusakan akibat kebakaran terbaru di Busan Bitdream untuk mempercepat pemulihan, menyelidiki penyebab, dan mencegah kejadian berulang.",
+        "body": "Korea Southern Power mengaktifkan “posko pemulihan kerusakan akibat kebakaran” sebagai respons atas insiden kebakaran terbaru di kantor Busan Bitdream. Perusahaan menyatakan akan berfokus pada pemulihan cepat dan penyelidikan menyeluruh untuk memastikan penyebab kecelakaan serta mencegah kejadian serupa terulang. Posko ini akan menjalankan pemulihan kerusakan di lokasi Busan Bitdream secara sistematis dengan penekanan pada penguatan manajemen keselamatan. KOSPO juga diperkirakan meninjau prosedur terkait selama proses pemulihan dan melaksanakan langkah lanjutan untuk mencegah kecelakaan serupa. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e7ca29741ae4",
+    "slug": "시안솔루션-kb증권-시리즈a-투자-유치등급-임플란트-시장-확장-발판-마련-837719",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T13:42:47.487Z",
+    "updatedAt": "2026-05-14T13:42:47.488Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12047461",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12047461",
+    "titleFingerprint": "dec01167824400e11323dda5748af165836e7926",
+    "dedupKeys": [
+      "e7ca29741ae445b95106360dbc1d7d948c988586",
+      "dec01167824400e11323dda5748af165836e7926",
+      "0305e6c1aa30ba1719c84c3d0a32455fc6d6ff80"
+    ],
+    "imageUrl": "/images/articles/e7ca29741ae4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "시안솔루션, KB증권 시리즈A 투자 유치로 임플란트 시장 확장 가속",
+        "excerpt": "환자 맞춤형 의료기기 기업 시안솔루션이 12일 KB증권으로부터 시리즈A 투자를 유치하며 등급 임플란트 시장 확대를 위한 발판을 마련했다.",
+        "body": "환자 맞춤형 의료기기 전문기업 시안솔루션은 12일 KB증권으로부터 시리즈A 투자를 유치했다고 밝혔다. 이번 투자는 대표주관사인 KB증권이 직접 투자자로 참여한 것이 핵심이다. 시안솔루션은 환자 맞춤형 의료기기를 기반으로 사업을 전개해 왔으며, 이번 자금 유치는 등급 임플란트 시장 확장을 위한 재무적 기반을 마련했다는 점에서 주목된다. 회사는 확보한 투자 유치를 바탕으로 관련 시장에서 사업 확대의 발판을 다질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Ciansolution Secures Series A Investment From KB Securities to Expand Implant Market",
+        "excerpt": "Patient-customized medical device company Ciansolution said on the 12th that it secured Series A investment from KB Securities, laying groundwork to expand the graded implant market.",
+        "body": "Ciansolution, a company specializing in patient-customized medical devices, said on the 12th that it secured Series A investment from KB Securities. The key point of this round is that KB Securities, the lead manager, participated directly as an investor. Ciansolution has developed its business around patient-customized medical devices, and the funding is drawing attention as a financial basis for expanding in the graded implant market. With the investment secured, the company is expected to strengthen its foothold for business expansion in the related market. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "シアンソリューション、KB証券のシリーズA投資でインプラント市場拡大へ",
+        "excerpt": "患者カスタム型医療機器企業のシアンソリューションは12日、KB証券からシリーズA投資を誘致し、等級インプラント市場拡大の足場を整えたと明らかにした。",
+        "body": "患者カスタム型医療機器専門企業のシアンソリューションは12日、KB証券からシリーズA投資を誘致したと明らかにした。今回の投資では、代表主幹事であるKB証券が投資家として直接参加した点が注目される。シアンソリューションは患者カスタム型医療機器を基盤に事業を展開してきた企業で、今回の資金調達は等級インプラント市場を拡大するための財務的基盤になる。投資誘致を受け、同社は関連市場で事業拡大の足場を固める見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Ciansolution获KB证券A轮投资，加快拓展等级种植体市场",
+        "excerpt": "患者定制医疗器械企业Ciansolution于12日表示，已从KB证券获得A轮投资，为扩大等级种植体市场奠定基础。",
+        "body": "专注于患者定制医疗器械的企业Ciansolution于12日表示，已从KB证券获得A轮投资。此次投资的核心在于，作为主承销商的KB证券直接以投资者身份参与。Ciansolution一直以患者定制医疗器械为基础推进业务，此次融资因有助于为拓展等级种植体市场建立财务基础而受到关注。凭借本轮投资，该公司预计将在相关市场进一步巩固业务扩张的基础。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Ciansolution obtiene inversión Serie A de KB Securities para ampliar el mercado de implantes",
+        "excerpt": "Ciansolution, firma de dispositivos médicos personalizados para pacientes, informó el día 12 que obtuvo inversión Serie A de KB Securities para impulsar su expansión en implantes graduados.",
+        "body": "Ciansolution, empresa especializada en dispositivos médicos personalizados para pacientes, informó el día 12 que obtuvo una inversión Serie A de KB Securities. El punto central de esta ronda es que KB Securities, entidad líder de la operación, participó directamente como inversionista. Ciansolution ha desarrollado su negocio sobre la base de dispositivos médicos personalizados para pacientes, y esta financiación llama la atención porque le proporciona una base financiera para expandirse en el mercado de implantes graduados. Con la inversión asegurada, la compañía prevé consolidar su plataforma de crecimiento en ese mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ciansolution recebe investimento Série A da KB Securities para ampliar mercado de implantes",
+        "excerpt": "A Ciansolution, empresa de dispositivos médicos personalizados para pacientes, informou no dia 12 que recebeu investimento Série A da KB Securities para expandir o mercado de implantes graduados.",
+        "body": "A Ciansolution, especializada em dispositivos médicos personalizados para pacientes, informou no dia 12 que recebeu investimento Série A da KB Securities. O ponto central da rodada é que a KB Securities, coordenadora líder da operação, participou diretamente como investidora. A Ciansolution desenvolve seus negócios com base em dispositivos médicos personalizados para pacientes, e a captação chama atenção por criar uma base financeira para ampliar sua atuação no mercado de implantes graduados. Com o investimento assegurado, a empresa deve fortalecer sua base de expansão nesse mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Ciansolution erhält Series-A-Investment von KB Securities für Expansion im Implantatmarkt",
+        "excerpt": "Ciansolution, ein Spezialist für patientenindividuelle Medizinprodukte, gab am 12. bekannt, eine Series-A-Investition von KB Securities erhalten zu haben, um den Markt für abgestufte Implantate auszubauen.",
+        "body": "Ciansolution, ein auf patientenindividuelle Medizinprodukte spezialisiertes Unternehmen, gab am 12. bekannt, eine Series-A-Investition von KB Securities erhalten zu haben. Entscheidend ist, dass KB Securities, der Lead Manager der Transaktion, direkt als Investor teilnahm. Ciansolution hat sein Geschäft auf patientenindividuelle Medizinprodukte ausgerichtet, und die Finanzierung gilt als Grundlage für die Expansion im Markt für abgestufte Implantate. Mit der gesicherten Investition dürfte das Unternehmen seine Basis für weiteres Wachstum in diesem Markt stärken. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Ciansolution obtient un investissement de série A de KB Securities pour élargir le marché des implants",
+        "excerpt": "Ciansolution, spécialiste des dispositifs médicaux personnalisés pour les patients, a annoncé le 12 avoir obtenu un investissement de série A de KB Securities afin de soutenir l’expansion du marché des implants gradués.",
+        "body": "Ciansolution, entreprise spécialisée dans les dispositifs médicaux personnalisés pour les patients, a annoncé le 12 avoir obtenu un investissement de série A de KB Securities. L’élément clé de cette opération est la participation directe de KB Securities, chef de file de l’opération, en tant qu’investisseur. Ciansolution développe ses activités autour des dispositifs médicaux personnalisés, et ce financement attire l’attention car il lui apporte une base financière pour élargir sa présence sur le marché des implants gradués. Grâce à cet investissement, l’entreprise devrait consolider son socle de croissance dans ce marché. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سيان سوليوشن تحصل على استثمار من الفئة A من KB Securities لتوسيع سوق الزرعات",
+        "excerpt": "أعلنت سيان سوليوشن، المتخصصة في الأجهزة الطبية المصممة للمرضى، في 12 من الشهر أنها حصلت على استثمار من الفئة A من KB Securities لتمهيد التوسع في سوق الزرعات المصنفة.",
+        "body": "أعلنت شركة سيان سوليوشن، المتخصصة في الأجهزة الطبية المصممة حسب احتياجات المرضى، في 12 من الشهر أنها حصلت على استثمار من الفئة A من KB Securities. وتكمن أهمية هذه الجولة في أن KB Securities، بصفتها الجهة الرئيسية المنظمة، شاركت مباشرة كمستثمر. وقد بنت سيان سوليوشن أعمالها على الأجهزة الطبية المخصصة للمرضى، ويعد هذا التمويل أساسا ماليا لتوسيع حضورها في سوق الزرعات المصنفة. ومن المتوقع أن يساعد الاستثمار الشركة على ترسيخ قاعدة توسعها في السوق ذات الصلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Ciansolution को KB Securities से Series A निवेश, इम्प्लांट बाजार विस्तार को आधार",
+        "excerpt": "मरीजों के लिए अनुकूलित चिकित्सा उपकरण बनाने वाली Ciansolution ने 12 तारीख को बताया कि उसे KB Securities से Series A निवेश मिला है, जिससे ग्रेडेड इम्प्लांट बाजार विस्तार का आधार बनेगा।",
+        "body": "मरीजों के लिए अनुकूलित चिकित्सा उपकरणों की विशेषज्ञ कंपनी Ciansolution ने 12 तारीख को बताया कि उसने KB Securities से Series A निवेश प्राप्त किया है। इस निवेश की खास बात यह है कि मुख्य प्रबंधक KB Securities ने सीधे निवेशक के रूप में भाग लिया। Ciansolution मरीज-विशिष्ट चिकित्सा उपकरणों के आधार पर अपना कारोबार चला रही है, और यह फंडिंग ग्रेडेड इम्प्लांट बाजार में विस्तार के लिए वित्तीय आधार मानी जा रही है। निवेश मिलने के बाद कंपनी संबंधित बाजार में कारोबार विस्तार की नींव को मजबूत करने की दिशा में आगे बढ़ेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Ciansolution Raih Investasi Seri A dari KB Securities untuk Perluas Pasar Implan",
+        "excerpt": "Ciansolution, perusahaan perangkat medis khusus pasien, pada tanggal 12 menyatakan telah memperoleh investasi Seri A dari KB Securities sebagai pijakan memperluas pasar implan bertingkat.",
+        "body": "Ciansolution, perusahaan yang berfokus pada perangkat medis khusus pasien, menyatakan pada tanggal 12 bahwa pihaknya memperoleh investasi Seri A dari KB Securities. Hal utama dalam pendanaan ini adalah KB Securities, sebagai penjamin emisi utama, ikut langsung sebagai investor. Ciansolution telah mengembangkan bisnis berbasis perangkat medis yang disesuaikan untuk pasien, dan pendanaan ini menjadi perhatian karena memberi dasar finansial untuk memperluas pasar implan bertingkat. Dengan investasi tersebut, perusahaan diperkirakan akan memperkuat pijakan ekspansi bisnisnya di pasar terkait. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ecc83abefac5",
+    "slug": "산업장관-삼전-총파업땐-긴급조정-불가피노동장관-회사-망하라는-노조-없어-836253",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T13:41:49.571Z",
+    "updatedAt": "2026-05-14T13:41:49.571Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12048261",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12048261",
+    "titleFingerprint": "f16c38c13ac6819d988b846b739f3cfa2eacd415",
+    "dedupKeys": [
+      "ecc83abefac584bb836e5712e8d8bd7f847beb36",
+      "f16c38c13ac6819d988b846b739f3cfa2eacd415",
+      "3c3f3473a43b0acb0740fc30ec20b184c5eeaf57"
+    ],
+    "imageUrl": "/images/articles/ecc83abefac5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 총파업 예고에 산업장관 “긴급조정 불가피” 발언 주목",
+        "excerpt": "삼성전자 총파업 가능성이 커지는 가운데 김정관 산업통상부 장관은 노조가 오는 21일 파업에 들어가면 긴급조정권 발동이 불가피하다고 밝혔다.",
+        "body": "삼성전자 노조가 예고한 총파업 시점이 다가오면서 정부의 대응 발언이 나왔다. 김정관 산업통상부 장관은 노조가 예고대로 오는 21일 총파업에 돌입할 경우 긴급조정권 발동이 불가피하다고 밝혔다. 이는 삼성전자 파업 위기가 고조되는 상황에서 산업 현장과 공급망에 미칠 영향을 고려한 발언으로 풀이된다. 김영훈 고용노동부 장관은 “회사 망하라는 노조는 없다”는 취지로 언급하며 노사 간 대화와 조정 필요성을 시사했다. 총파업 현실화 여부와 정부 조치가 향후 노사 관계의 핵심 변수가 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Strike Warning Draws Minister’s Emergency Mediation Remark",
+        "excerpt": "As the risk of a Samsung Electronics general strike grows, Industry Minister Kim Jung-kwan said emergency mediation would be unavoidable if the union strikes on the 21st.",
+        "body": "Government officials have commented as the date of a possible Samsung Electronics general strike approaches. Industry Minister Kim Jung-kwan said that if the union proceeds with its announced general strike on the 21st, invoking emergency mediation powers would be unavoidable. The remark came as concerns rise over the strike risk at Samsung Electronics and its potential impact on industrial sites and supply chains. Labor Minister Kim Young-hoon also said, in effect, that no union wants its company to collapse, signaling the need for dialogue and mediation between labor and management. Whether the strike materializes and how the government responds are expected to become key factors in future labor relations. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子の全面スト予告で産業相「緊急調整は不可避」と発言",
+        "excerpt": "サムスン電子の全面スト危機が高まる中、金正官産業通商部長官は労組が21日にストへ入れば緊急調整権の発動は不可避だと述べた。",
+        "body": "サムスン電子労組が予告した全面ストの日程が近づく中、政府から対応に関する発言が出た。金正官産業通商部長官は、労組が予告通り21日に全面ストへ突入する場合、緊急調整権の発動は避けられないと明らかにした。これはサムスン電子のスト危機が高まる状況で、産業現場や供給網への影響を考慮した発言とみられる。金永訓雇用労働部長官は「会社を潰そうとする労組はない」との趣旨で述べ、労使間の対話と調整の必要性を示唆した。全面ストが現実化するか、政府がどのような措置を取るかが今後の労使関係の焦点となりそうだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子总罢工预告升温，产业部长称“紧急调整不可避免”",
+        "excerpt": "在三星电子总罢工风险升高之际，产业通商部部长金正官表示，若工会按预告于21日罢工，启动紧急调整权将不可避免。",
+        "body": "随着三星电子工会预告的总罢工日期临近，韩国政府官员作出回应。产业通商部部长金正官表示，如果工会按原计划于21日进入总罢工，启动紧急调整权将不可避免。该表态出现在三星电子罢工危机加剧之际，被认为考虑到了对产业现场和供应链可能造成的影响。雇佣劳动部部长金永勋也表示，大意是“没有希望公司倒闭的工会”，并暗示劳资之间需要对话与协调。总罢工是否成真以及政府后续措施，将成为今后劳资关系的重要变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics y la huelga general: ministro ve inevitable la mediación urgente",
+        "excerpt": "Ante el aumento del riesgo de huelga general en Samsung Electronics, el ministro Kim Jung-kwan dijo que la mediación urgente sería inevitable si el sindicato para el día 21.",
+        "body": "El Gobierno surcoreano se pronunció mientras se acerca la fecha de la huelga general anunciada por el sindicato de Samsung Electronics. El ministro de Industria, Comercio y Energía, Kim Jung-kwan, afirmó que si el sindicato inicia la huelga general el día 21, tal como anunció, será inevitable activar el mecanismo de mediación urgente. La declaración llega en un contexto de creciente tensión por el posible paro en Samsung Electronics y por su impacto en los centros industriales y la cadena de suministro. El ministro de Trabajo, Kim Young-hoon, señaló en esencia que ningún sindicato quiere que su empresa quiebre, sugiriendo la necesidad de diálogo y coordinación entre las partes. La materialización de la huelga y la respuesta del Gobierno serán variables clave en las relaciones laborales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Greve geral na Samsung Electronics leva ministro a citar mediação urgente inevitável",
+        "excerpt": "Com o risco de greve geral na Samsung Electronics em alta, o ministro Kim Jung-kwan disse que a mediação urgente será inevitável se o sindicato parar no dia 21.",
+        "body": "O governo sul-coreano se manifestou à medida que se aproxima a data da greve geral anunciada pelo sindicato da Samsung Electronics. O ministro da Indústria, Comércio e Energia, Kim Jung-kwan, afirmou que, se o sindicato iniciar a greve geral no dia 21 conforme previsto, será inevitável acionar o direito de mediação urgente. A declaração ocorre em meio ao aumento das preocupações com a crise de greve na Samsung Electronics e seus possíveis efeitos sobre unidades industriais e cadeias de suprimento. O ministro do Trabalho, Kim Young-hoon, também afirmou, em essência, que não há sindicato que queira a falência da empresa, indicando a necessidade de diálogo e ajuste entre trabalhadores e direção. A concretização da greve e a resposta do governo devem ser fatores centrais nas relações trabalhistas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics vor Generalstreik: Minister nennt Notvermittlung unvermeidlich",
+        "excerpt": "Angesichts der wachsenden Gefahr eines Generalstreiks bei Samsung Electronics sagte Industrieminister Kim Jung-kwan, Notvermittlung sei bei einem Streik am 21. unvermeidlich.",
+        "body": "Die südkoreanische Regierung hat sich geäußert, während der vom Samsung-Electronics-Gewerkschaft angekündigte Generalstreik näher rückt. Industrieminister Kim Jung-kwan erklärte, sollte die Gewerkschaft wie angekündigt am 21. in den Generalstreik treten, sei die Ausübung des Rechts auf Notvermittlung unvermeidlich. Die Aussage fällt in eine Phase wachsender Sorgen über die Streikgefahr bei Samsung Electronics und mögliche Folgen für Industriestandorte und Lieferketten. Arbeitsminister Kim Young-hoon sagte sinngemäß, keine Gewerkschaft wolle, dass ihr Unternehmen zugrunde gehe, und deutete damit auf die Notwendigkeit von Dialog und Vermittlung zwischen Arbeitnehmern und Management hin. Ob der Streik tatsächlich stattfindet und wie die Regierung reagiert, dürfte ein zentraler Faktor für die weiteren Arbeitsbeziehungen werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Grève générale chez Samsung Electronics : le ministre évoque une médiation urgente",
+        "excerpt": "Alors que le risque de grève générale chez Samsung Electronics augmente, Kim Jung-kwan a déclaré qu’une médiation urgente serait inévitable si le syndicat cessait le travail le 21.",
+        "body": "Le gouvernement sud-coréen a réagi alors que la date de la grève générale annoncée par le syndicat de Samsung Electronics approche. Le ministre de l’Industrie, du Commerce et de l’Énergie, Kim Jung-kwan, a déclaré que si le syndicat lançait la grève générale le 21 comme prévu, le recours au pouvoir de médiation urgente serait inévitable. Cette déclaration intervient dans un contexte de tensions accrues autour du risque de grève chez Samsung Electronics et de ses effets possibles sur les sites industriels et les chaînes d’approvisionnement. Le ministre du Travail, Kim Young-hoon, a aussi indiqué en substance qu’aucun syndicat ne souhaite la faillite de son entreprise, suggérant la nécessité d’un dialogue et d’un ajustement entre les parties. La réalisation de la grève et la réponse du gouvernement devraient devenir des variables clés des relations sociales. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إضراب سامسونغ إلكترونيكس المرتقب يدفع الوزير للحديث عن تسوية عاجلة لا مفر منها",
+        "excerpt": "مع تصاعد خطر الإضراب العام في سامسونغ إلكترونيكس، قال الوزير كيم جونغ-كوان إن تفعيل التسوية العاجلة سيكون حتميا إذا أضربت النقابة في 21 من الشهر.",
+        "body": "صدرت تصريحات حكومية مع اقتراب موعد الإضراب العام الذي أعلنت عنه نقابة سامسونغ إلكترونيكس. وقال وزير الصناعة والتجارة والطاقة كيم جونغ-كوان إنه إذا مضت النقابة في الإضراب العام يوم 21 كما أعلنت، فسيكون تفعيل حق التسوية العاجلة أمرا لا مفر منه. وجاء التصريح وسط تصاعد القلق بشأن أزمة الإضراب في سامسونغ إلكترونيكس وما قد تتركه من أثر على مواقع الإنتاج وسلاسل الإمداد. كما قال وزير العمل كيم يونغ-هون، بمعنى عام، إنه لا توجد نقابة تريد أن تفلس شركتها، مشيرا إلى الحاجة إلى الحوار والتنسيق بين الإدارة والعمال. ومن المتوقع أن يكون تحقق الإضراب وطبيعة رد الحكومة عاملين رئيسيين في مسار العلاقات العمالية لاحقا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics की आम हड़ताल चेतावनी पर मंत्री बोले, आपात मध्यस्थता अपरिहार्य",
+        "excerpt": "Samsung Electronics में आम हड़ताल का जोखिम बढ़ने के बीच उद्योग मंत्री Kim Jung-kwan ने कहा कि 21 तारीख को हड़ताल होने पर आपात मध्यस्थता अपरिहार्य होगी।",
+        "body": "Samsung Electronics की यूनियन द्वारा घोषित आम हड़ताल की तारीख नजदीक आने के साथ दक्षिण कोरियाई सरकार की प्रतिक्रिया सामने आई है। उद्योग, व्यापार और ऊर्जा मंत्री Kim Jung-kwan ने कहा कि यदि यूनियन घोषणा के अनुसार 21 तारीख को आम हड़ताल शुरू करती है, तो आपात मध्यस्थता अधिकार का उपयोग अपरिहार्य होगा। यह टिप्पणी Samsung Electronics में हड़ताल संकट बढ़ने और औद्योगिक स्थलों तथा आपूर्ति श्रृंखला पर संभावित प्रभाव को देखते हुए आई है। रोजगार और श्रम मंत्री Kim Young-hoon ने भी इस आशय की बात कही कि कोई यूनियन अपनी कंपनी को डूबते देखना नहीं चाहती, जिससे श्रमिकों और प्रबंधन के बीच संवाद और समायोजन की आवश्यकता का संकेत मिला। हड़ताल वास्तविकता बनती है या नहीं और सरकार क्या कदम उठाती है, यह आगे के श्रम संबंधों का प्रमुख कारक होगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Ancaman Mogok Samsung Electronics, Menteri Sebut Mediasi Darurat Tak Terhindarkan",
+        "excerpt": "Saat risiko mogok umum Samsung Electronics meningkat, Menteri Kim Jung-kwan menyatakan mediasi darurat tak terhindarkan jika serikat mogok pada tanggal 21.",
+        "body": "Pemerintah Korea Selatan memberi pernyataan saat tanggal mogok umum yang diumumkan serikat pekerja Samsung Electronics semakin dekat. Menteri Perindustrian, Perdagangan, dan Energi Kim Jung-kwan mengatakan bahwa jika serikat menjalankan mogok umum pada tanggal 21 sesuai rencana, penggunaan kewenangan mediasi darurat tidak dapat dihindari. Pernyataan itu muncul di tengah meningkatnya kekhawatiran atas krisis mogok di Samsung Electronics dan dampaknya terhadap lokasi industri serta rantai pasok. Menteri Ketenagakerjaan Kim Young-hoon juga menyatakan dalam intinya bahwa tidak ada serikat yang ingin perusahaannya bangkrut, mengisyaratkan perlunya dialog dan penyesuaian antara pekerja dan manajemen. Realisasi mogok dan langkah pemerintah diperkirakan menjadi faktor utama dalam hubungan industrial ke depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "1b9f3a81ba24",
     "slug": "전력-자급률-향상서부중부발전-공공주도-산업단지-태양광사업-추진-887516",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Bursa Percepat Transisi AI Lewat Anak Usaha Fair Labs",
         "excerpt": "Sebuah bursa mempercepat transisi kecerdasan buatan dengan memanfaatkan anak usaha AI Fair Labs, menurut hankyung.com. Rincian jadwal dan angka tidak disebutkan.",
         "body": "Sebuah bursa mempercepat transisi kecerdasan buatan dengan memanfaatkan anak usaha AI Fair Labs, menurut hankyung.com. Inti informasinya adalah bahwa bursa tersebut menempatkan Fair Labs sebagai poros pelaksanaan saat memperkuat kemampuan AI internal. Informasi yang tersedia dalam teks asli terbatas pada bursa, anak usaha AI Fair Labs, dan percepatan transformasi kecerdasan buatan. Tidak ada rincian mengenai nilai investasi, area penerapan, jadwal, atau angka kinerja. Jika rincian tambahan diumumkan kemudian, hal itu dapat membantu menilai strategi otomatisasi dan pemanfaatan data bursa. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "8464e40061ab",
-    "slug": "한-달-만에-220억-몰렸다삼전닉스-앞세운-공모펀드도-들썩-603711",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T21:02:07.028Z",
-    "updatedAt": "2026-05-13T21:02:07.028Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605133944i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605133944i",
-    "titleFingerprint": "2b9171ea68a1e8b2175595cd7c1bfd7ff117ae4f",
-    "dedupKeys": [
-      "8464e40061ab24e00db94ef2cd87523157613d1d",
-      "2b9171ea68a1e8b2175595cd7c1bfd7ff117ae4f",
-      "321afa5a9891d60f60547ee3cf9818fa6ee3a25c"
-    ],
-    "imageUrl": "/images/articles/8464e40061ab.png",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자·SK하이닉스 공모펀드에 한 달 220억 유입, 투자자금 들썩",
-        "excerpt": "hankyung.com에 따르면 최근 한 달 사이 삼성전자·SK하이닉스를 앞세운 공모펀드에 220억원이 몰리며 관련 펀드 시장의 자금 흐름이 주목받고 있다.",
-        "body": "최근 한 달 사이 삼성전자와 SK하이닉스를 앞세운 공모펀드에 220억원이 유입되며 공모펀드 시장이 움직이고 있다. hankyung.com은 ‘삼전·닉스’를 내세운 공모펀드에도 자금이 몰렸다고 전했다. 기사 제목에 제시된 핵심 수치는 한 달 만에 220억원이며, 대상은 삼성전자·SK하이닉스 관련 공모펀드다. 이는 특정 대형 반도체 종목을 중심으로 한 공모펀드가 투자자 관심을 받고 있음을 보여준다. 다만 제공된 원문 정보에서는 세부 운용 전략, 개별 펀드명, 수익률 등 추가 수치는 확인되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Samsung Electronics and SK Hynix Public Funds Draw 22 Billion Won in a Month",
-        "excerpt": "According to hankyung.com, public funds led by Samsung Electronics and SK Hynix attracted 22 billion won in one month, putting related fund flows in focus.",
-        "body": "Public funds led by Samsung Electronics and SK Hynix have drawn 22 billion won over the past month, signaling movement in the public fund market. hankyung.com reported that funds featuring “Samjeon” and “Nix,” shorthand references tied to the two chipmakers, also attracted investor money. The key figure presented in the original report is 22 billion won in one month, and the subject is public funds linked to Samsung Electronics and SK Hynix. The report shows investor attention toward public funds centered on major semiconductor names. The provided source information does not confirm additional details such as specific fund names, strategies, or returns. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "サムスン電子・SKハイニックス公募投信に1カ月で220億ウォン流入",
-        "excerpt": "hankyung.comによると、サムスン電子とSKハイニックスを前面に出した公募投信に1カ月で220億ウォンが集まり、資金流入が注目されている。",
-        "body": "この1カ月で、サムスン電子とSKハイニックスを前面に出した公募投信に220億ウォンが流入し、公募投信市場が動きを見せている。hankyung.comは、「サムジョン・ニックス」を掲げた公募投信にも資金が集まったと伝えた。原文で示された核心的な数値は、1カ月で220億ウォンという流入額であり、対象はサムスン電子・SKハイニックス関連の公募投信だ。大型半導体銘柄を中心とする投信が投資家の関心を集めていることを示す内容だ。ただし、提供された原文情報では個別ファンド名、運用戦略、収益率などの追加数値は確認されていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "三星电子、SK海力士公募基金一个月吸金220亿韩元受关注",
-        "excerpt": "据hankyung.com报道，主打三星电子和SK海力士的公募基金一个月内吸引220亿韩元资金，相关基金资金流向受到关注。",
-        "body": "最近一个月，主打三星电子和SK海力士的公募基金流入220亿韩元，公募基金市场出现活跃迹象。hankyung.com报道称，打出“三电、Hynix”概念的公募基金也吸引了资金。原文给出的核心数字是一个月内220亿韩元，相关对象为与三星电子、SK海力士有关的公募基金。这显示出以大型半导体股票为中心的公募基金正受到投资者关注。不过，所提供的原文信息中未确认具体基金名称、投资策略、收益率等更多数据。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Fondos públicos de Samsung Electronics y SK Hynix captan 22.000 millones de wones",
-        "excerpt": "Según hankyung.com, fondos públicos ligados a Samsung Electronics y SK Hynix captaron 22.000 millones de wones en un mes, atrayendo atención del mercado.",
-        "body": "En el último mes, los fondos públicos encabezados por Samsung Electronics y SK Hynix recibieron 22.000 millones de wones, mostrando movimiento en el mercado de fondos públicos. hankyung.com informó que los fondos que destacan “Samjeon” y “Nix”, referencias usadas para esas compañías, también atrajeron dinero. La cifra clave del texto original es una entrada de 22.000 millones de wones en un mes, y el objeto son fondos públicos vinculados a Samsung Electronics y SK Hynix. El dato indica atención de los inversores hacia fondos centrados en grandes valores de semiconductores. La información proporcionada no confirma nombres de fondos, estrategias ni rentabilidades. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Fundos públicos com Samsung Electronics e SK Hynix captam 22 bilhões de won",
-        "excerpt": "Segundo o hankyung.com, fundos públicos ligados à Samsung Electronics e à SK Hynix receberam 22 bilhões de won em um mês, chamando atenção para o fluxo de recursos.",
-        "body": "No último mês, fundos públicos liderados por Samsung Electronics e SK Hynix receberam 22 bilhões de won, indicando movimentação no mercado de fundos públicos. O hankyung.com informou que fundos que destacam “Samjeon” e “Nix”, referências associadas às duas empresas, também atraíram recursos. O número central apresentado no texto original é a entrada de 22 bilhões de won em um mês, tendo como foco fundos públicos relacionados à Samsung Electronics e à SK Hynix. O dado mostra interesse de investidores por fundos centrados em grandes ações de semicondutores. As informações fornecidas não confirmam nomes de fundos, estratégias ou retornos. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Samsung-Electronics- und SK-Hynix-Publikumsfonds sammeln 22 Mrd. Won ein",
-        "excerpt": "Laut hankyung.com flossen in einem Monat 22 Mrd. Won in Publikumsfonds mit Samsung Electronics und SK Hynix, wodurch entsprechende Fondsströme in den Fokus rücken.",
-        "body": "Binnen eines Monats sind 22 Mrd. Won in Publikumsfonds geflossen, die Samsung Electronics und SK Hynix in den Vordergrund stellen. Damit zeigt sich Bewegung am Markt für Publikumsfonds. hankyung.com berichtete, dass auch Fonds mit Bezug auf „Samjeon“ und „Nix“ Kapital anzogen. Die zentrale Zahl des Originalberichts lautet 22 Mrd. Won in einem Monat; betroffen sind Publikumsfonds mit Verbindung zu Samsung Electronics und SK Hynix. Der Bericht zeigt, dass Fonds rund um große Halbleiterwerte Anlegerinteresse wecken. In den bereitgestellten Originalangaben werden konkrete Fondsnamen, Strategien oder Renditen nicht bestätigt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Fonds Samsung Electronics et SK Hynix : 22 milliards de wons en un mois",
-        "excerpt": "Selon hankyung.com, des fonds publics axés sur Samsung Electronics et SK Hynix ont attiré 22 milliards de wons en un mois, plaçant ces flux sous surveillance.",
-        "body": "Au cours du dernier mois, 22 milliards de wons ont afflué vers des fonds publics mettant en avant Samsung Electronics et SK Hynix, signe d’un mouvement sur ce marché. hankyung.com a rapporté que des fonds associés à “Samjeon” et “Nix”, références aux deux groupes, ont également attiré des capitaux. Le chiffre clé du texte original est une collecte de 22 milliards de wons en un mois, concernant des fonds liés à Samsung Electronics et SK Hynix. Cette information montre l’intérêt des investisseurs pour des fonds centrés sur de grands titres des semi-conducteurs. Les données fournies ne confirment pas de noms de fonds, stratégies ou rendements. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صناديق سامسونغ إلكترونيكس وSK هاينكس تجذب 22 مليار وون خلال شهر",
-        "excerpt": "بحسب hankyung.com، جذبت صناديق عامة تركز على سامسونغ إلكترونيكس وSK هاينكس 22 مليار وون خلال شهر واحد، ما سلط الضوء على تدفقات هذه الصناديق.",
-        "body": "خلال الشهر الأخير، تدفقت 22 مليار وون إلى صناديق عامة تتصدرها سامسونغ إلكترونيكس وSK هاينكس، ما يشير إلى حركة في سوق الصناديق العامة. وذكر موقع hankyung.com أن الصناديق التي تبرز اسمي “سامجون” و“نيكس”، المرتبطين بالشركتين، جذبت أموالا أيضا. الرقم الأساسي الوارد في النص الأصلي هو 22 مليار وون خلال شهر واحد، والموضوع هو صناديق عامة مرتبطة بسامسونغ إلكترونيكس وSK هاينكس. وتوضح المعلومة اهتمام المستثمرين بصناديق تتركز حول أسهم كبرى في قطاع أشباه الموصلات. ولا تؤكد المعلومات المتاحة أسماء صناديق محددة أو استراتيجيات أو عوائد. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Samsung Electronics और SK Hynix फंडों में एक महीने में 22 अरब वॉन आए",
-        "excerpt": "hankyung.com के अनुसार, Samsung Electronics और SK Hynix पर केंद्रित सार्वजनिक फंडों में एक महीने में 22 अरब वॉन आए, जिससे फंड फ्लो पर ध्यान बढ़ा।",
-        "body": "पिछले एक महीने में Samsung Electronics और SK Hynix को आगे रखने वाले सार्वजनिक फंडों में 22 अरब वॉन का निवेश आया, जिससे सार्वजनिक फंड बाजार में हलचल दिखी। hankyung.com ने बताया कि “Samjeon” और “Nix” को सामने रखने वाले फंडों में भी पैसा आया। मूल सूचना में दिया गया मुख्य आंकड़ा एक महीने में 22 अरब वॉन का प्रवाह है, और इसका संबंध Samsung Electronics तथा SK Hynix से जुड़े सार्वजनिक फंडों से है। यह बड़े सेमीकंडक्टर शेयरों पर केंद्रित फंडों में निवेशकों की रुचि दिखाता है। उपलब्ध मूल जानकारी में किसी विशेष फंड का नाम, निवेश रणनीति या रिटर्न की अतिरिक्त पुष्टि नहीं है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Dana publik Samsung Electronics dan SK Hynix raup 22 miliar won sebulan",
-        "excerpt": "Menurut hankyung.com, dana publik yang mengusung Samsung Electronics dan SK Hynix menarik 22 miliar won dalam sebulan, membuat arus dana terkait jadi sorotan.",
-        "body": "Dalam satu bulan terakhir, dana publik yang mengusung Samsung Electronics dan SK Hynix menerima aliran dana 22 miliar won, menunjukkan pergerakan di pasar dana publik. hankyung.com melaporkan bahwa dana yang menonjolkan “Samjeon” dan “Nix”, sebutan yang terkait dengan kedua emiten tersebut, juga menarik dana investor. Angka utama dalam informasi asli adalah 22 miliar won dalam satu bulan, dengan objek dana publik terkait Samsung Electronics dan SK Hynix. Hal ini menunjukkan perhatian investor pada dana yang berpusat pada saham besar semikonduktor. Informasi yang tersedia tidak mengonfirmasi nama dana, strategi, atau imbal hasil. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "65a8865df4cd",
-    "slug": "와이즈버즈-1분기-영업이익-30억원전년-동기대비-246-923096",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T21:00:59.034Z",
-    "updatedAt": "2026-05-13T21:00:59.034Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051342776",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051342776",
-    "titleFingerprint": "2de591c8871d1e729b2d28ef9599e07e2e80e26c",
-    "dedupKeys": [
-      "65a8865df4cddba3047c73ecc167c6dcde60aa0a",
-      "2de591c8871d1e729b2d28ef9599e07e2e80e26c",
-      "c1d70772a794f13c62c7d6ca7c15b8f91406781f"
-    ],
-    "imageUrl": "/images/articles/65a8865df4cd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "와이즈버즈 1분기 영업이익 30억원, 전년 대비 24.6% 증가",
-        "excerpt": "와이즈버즈는 1분기 영업이익이 30억원으로 전년 동기 대비 24.6% 증가했다고 hankyung.com이 보도했다.",
-        "body": "와이즈버즈는 1분기 영업이익이 30억원을 기록해 전년 동기 대비 24.6% 증가했다고 밝혔다. 이번 실적은 같은 기간과 비교해 영업이익 기준 수익성이 개선됐음을 보여준다. 원문에는 매출액, 순이익 등 다른 재무 지표는 제시되지 않았다. 투자자와 시장은 이번 수치를 통해 와이즈버즈의 1분기 이익 흐름을 확인할 수 있다. 출처는 hankyung.com이다."
-      },
-      "en": {
-        "title": "Wisebirds Q1 Operating Profit Rises 24.6% Year on Year to 3 Billion Won",
-        "excerpt": "Wisebirds posted first-quarter operating profit of 3 billion won, up 24.6% from a year earlier, hankyung.com reported.",
-        "body": "Wisebirds said its first-quarter operating profit reached 3 billion won, increasing 24.6% from the same period a year earlier. The result shows that profitability, measured by operating profit, improved year on year. The original report did not provide other financial figures such as revenue or net profit. Investors and the market can use this figure to check Wisebirds’ first-quarter earnings trend. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "ワイズバーズ、第1四半期営業利益30億ウォン 前年同期比24.6%増",
-        "excerpt": "ワイズバーズの第1四半期営業利益は30億ウォンとなり、前年同期比24.6%増加したとhankyung.comが報じた。",
-        "body": "ワイズバーズは、第1四半期の営業利益が30億ウォンとなり、前年同期比で24.6%増加したと明らかにした。今回の実績は、営業利益ベースで前年同期より収益性が改善したことを示している。原文では売上高や純利益など、その他の財務指標は示されていない。投資家や市場はこの数値を通じて、ワイズバーズの第1四半期の利益動向を確認できる。出典はhankyung.com。"
-      },
-      "zh": {
-        "title": "Wisebirds第一季度营业利润30亿韩元 同比增长24.6%",
-        "excerpt": "据hankyung.com报道，Wisebirds第一季度营业利润为30亿韩元，较去年同期增长24.6%。",
-        "body": "Wisebirds表示，第一季度营业利润达到30亿韩元，较去年同期增长24.6%。这一业绩显示，按营业利润衡量，公司盈利能力较上年同期有所改善。原文未披露销售额、净利润等其他财务指标。投资者和市场可通过该数据了解Wisebirds第一季度利润走势。来源：hankyung.com。"
-      },
-      "es": {
-        "title": "Wisebirds eleva su beneficio operativo del primer trimestre un 24,6%",
-        "excerpt": "Wisebirds registró un beneficio operativo de 3.000 millones de wones en el primer trimestre, un 24,6% más interanual, informó hankyung.com.",
-        "body": "Wisebirds informó que su beneficio operativo del primer trimestre alcanzó 3.000 millones de wones, un aumento del 24,6% frente al mismo periodo del año anterior. El dato muestra una mejora de la rentabilidad medida por beneficio operativo en comparación interanual. El informe original no incluyó otras cifras financieras, como ingresos o beneficio neto. Inversores y mercado pueden usar este dato para seguir la evolución de las ganancias de Wisebirds en el primer trimestre. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Wisebirds tem lucro operacional de 3 bilhões de won no 1º trimestre",
-        "excerpt": "A Wisebirds registrou lucro operacional de 3 bilhões de won no primeiro trimestre, alta de 24,6% ante um ano antes, segundo hankyung.com.",
-        "body": "A Wisebirds informou que seu lucro operacional no primeiro trimestre chegou a 3 bilhões de won, aumento de 24,6% em relação ao mesmo período do ano anterior. O resultado indica melhora da rentabilidade medida pelo lucro operacional na comparação anual. O texto original não apresentou outros indicadores financeiros, como receita ou lucro líquido. Investidores e mercado podem usar esse número para acompanhar a trajetória de lucro da Wisebirds no primeiro trimestre. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Wisebirds steigert operativen Gewinn im ersten Quartal um 24,6%",
-        "excerpt": "Wisebirds erzielte im ersten Quartal einen operativen Gewinn von 3 Mrd. Won, 24,6% mehr als im Vorjahr, berichtete hankyung.com.",
-        "body": "Wisebirds teilte mit, dass der operative Gewinn im ersten Quartal 3 Mrd. Won erreichte und damit um 24,6% gegenüber dem Vorjahreszeitraum stieg. Das Ergebnis zeigt, dass sich die Rentabilität gemessen am operativen Gewinn im Jahresvergleich verbessert hat. Der Originalbericht enthielt keine weiteren Finanzkennzahlen wie Umsatz oder Nettogewinn. Investoren und Marktteilnehmer können diese Zahl nutzen, um die Gewinnentwicklung von Wisebirds im ersten Quartal einzuordnen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Wisebirds porte son résultat opérationnel du T1 à 3 milliards de wons",
-        "excerpt": "Wisebirds a dégagé au premier trimestre un résultat opérationnel de 3 milliards de wons, en hausse de 24,6% sur un an, selon hankyung.com.",
-        "body": "Wisebirds a indiqué que son résultat opérationnel du premier trimestre avait atteint 3 milliards de wons, soit une hausse de 24,6% par rapport à la même période de l’an dernier. Ce chiffre montre une amélioration de la rentabilité mesurée par le résultat opérationnel en glissement annuel. Le texte original ne fournit pas d’autres indicateurs financiers, comme le chiffre d’affaires ou le bénéfice net. Les investisseurs et le marché peuvent s’appuyer sur cette donnée pour suivre l’évolution des bénéfices de Wisebirds au premier trimestre. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "وايزبيردز تحقق ربحا تشغيليا بـ3 مليارات وون في الربع الأول",
-        "excerpt": "سجلت وايزبيردز ربحا تشغيليا قدره 3 مليارات وون في الربع الأول، بزيادة 24.6% على أساس سنوي، وفق hankyung.com.",
-        "body": "قالت وايزبيردز إن ربحها التشغيلي في الربع الأول بلغ 3 مليارات وون، بزيادة 24.6% مقارنة بالفترة نفسها من العام السابق. وتظهر هذه النتيجة تحسنا في الربحية عند قياسها بالربح التشغيلي على أساس سنوي. ولم يورد التقرير الأصلي مؤشرات مالية أخرى مثل الإيرادات أو صافي الربح. ويمكن للمستثمرين والسوق استخدام هذا الرقم لمتابعة مسار أرباح وايزبيردز في الربع الأول. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Wisebirds का पहली तिमाही परिचालन लाभ 3 अरब वॉन, 24.6% बढ़ा",
-        "excerpt": "Wisebirds ने पहली तिमाही में 3 अरब वॉन का परिचालन लाभ दर्ज किया, जो सालाना आधार पर 24.6% अधिक है, hankyung.com ने बताया।",
-        "body": "Wisebirds ने बताया कि पहली तिमाही में उसका परिचालन लाभ 3 अरब वॉन रहा, जो पिछले वर्ष की समान अवधि से 24.6% अधिक है। यह नतीजा परिचालन लाभ के आधार पर सालाना तुलना में लाभप्रदता में सुधार दिखाता है। मूल रिपोर्ट में राजस्व या शुद्ध लाभ जैसे अन्य वित्तीय आंकड़े नहीं दिए गए। निवेशक और बाजार इस आंकड़े से Wisebirds की पहली तिमाही की लाभ प्रवृत्ति को देख सकते हैं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Wisebirds Cetak Laba Operasi Kuartal I 3 Miliar Won, Naik 24,6%",
-        "excerpt": "Wisebirds mencatat laba operasi kuartal pertama sebesar 3 miliar won, naik 24,6% dibanding setahun sebelumnya, menurut hankyung.com.",
-        "body": "Wisebirds menyatakan laba operasi kuartal pertamanya mencapai 3 miliar won, meningkat 24,6% dibanding periode yang sama tahun sebelumnya. Hasil ini menunjukkan profitabilitas berdasarkan laba operasi membaik secara tahunan. Laporan asli tidak menyajikan indikator keuangan lain seperti pendapatan atau laba bersih. Investor dan pasar dapat menggunakan angka ini untuk melihat tren laba Wisebirds pada kuartal pertama. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "c301dbf3b9a3",
-    "slug": "케이에스피-1분기-영업이익-40억원전년-동기-대비-43-117019",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T21:00:10.303Z",
-    "updatedAt": "2026-05-13T21:00:10.303Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051342866",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051342866",
-    "titleFingerprint": "acf8f852fbb0b5e44b2f384f35ce05b22de7ddfd",
-    "dedupKeys": [
-      "c301dbf3b9a3d33bab8ed6c01602d59f6c588ba1",
-      "acf8f852fbb0b5e44b2f384f35ce05b22de7ddfd",
-      "5e51ee313cc8876994a85f83dc973520257d798e"
-    ],
-    "imageUrl": "/images/articles/c301dbf3b9a3.png",
-    "i18n": {
-      "ko": {
-        "title": "케이에스피 1분기 영업이익 40억원, 선박엔진 부품 수출 증가로 43% 성장",
-        "excerpt": "케이에스피는 13일 1분기 연결 기준 매출 250억원, 영업이익 40억원을 기록했다고 밝혔다. 대형 선박엔진 부품 수출 증가가 실적 개선을 이끌었다.",
-        "body": "케이에스피(KSP)는 13일 1분기 연결 기준 매출 250억원, 영업이익 40억원을 기록했다고 밝혔다. 영업이익은 전년 동기 대비 43% 증가한 수준이다. 회사는 선박용 엔진 부품 제조사로, 이번 실적 개선의 배경에는 주력 제품인 대형 선박엔진 부품 수출 증가가 있었다. 해당 부문 수출액은 전년보다 약 35억원 늘며 매출과 이익 성장에 기여했다. 이번 발표는 주력 수출 품목의 확대가 분기 수익성 개선으로 이어진 사례로 볼 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KSP Q1 Operating Profit Hits 4 Billion Won as Ship Engine Parts Exports Rise 43%",
-        "excerpt": "KSP said on May 13 that Q1 consolidated revenue reached 25 billion won and operating profit hit 4 billion won, helped by stronger exports of large ship engine parts.",
-        "body": "KSP said on May 13 that it posted consolidated first-quarter revenue of 25 billion won and operating profit of 4 billion won. Operating profit rose 43% from the same period a year earlier. The company manufactures marine engine parts, and the improvement was driven by higher exports of its main product line, large ship engine parts. Export value in that segment increased by about 3.5 billion won from a year earlier, contributing to both sales and earnings growth. The announcement shows how expansion in the company’s key export products supported quarterly profitability. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "KSP、1四半期営業利益40億ウォン　船舶エンジン部品輸出増で43%成長",
-        "excerpt": "KSPは13日、1四半期の連結売上高が250億ウォン、営業利益が40億ウォンだったと発表した。大型船舶エンジン部品の輸出増が業績改善を支えた。",
-        "body": "KSPは13日、1四半期の連結基準売上高が250億ウォン、営業利益が40億ウォンだったと発表した。営業利益は前年同期比で43%増加した。船舶用エンジン部品メーカーである同社の業績改善は、主力製品である大型船舶エンジン部品の輸出増が背景となった。同部門の輸出額は前年より約35億ウォン増え、売上と利益の伸びに寄与した。今回の発表は、主力輸出品目の拡大が四半期収益性の改善につながった事例といえる。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "KSP一季度营业利润40亿韩元，船舶发动机零部件出口增长推动43%增幅",
-        "excerpt": "KSP于13日表示，一季度合并口径销售额为250亿韩元，营业利润为40亿韩元。大型船舶发动机零部件出口增加带动业绩改善。",
-        "body": "KSP于13日表示，公司一季度合并口径销售额为250亿韩元，营业利润为40亿韩元。营业利润较去年同期增长43%。该公司是船舶发动机零部件制造商，本次业绩改善的背景是主力产品大型船舶发动机零部件出口增加。该部门出口额同比增加约35亿韩元，对销售额和利润增长作出贡献。此次发布显示，核心出口产品扩大带动了季度盈利能力改善。来源: hankyung.com"
-      },
-      "es": {
-        "title": "KSP eleva su beneficio operativo trimestral a 4.000 millones de wones por exportaciones",
-        "excerpt": "KSP informó el día 13 que sus ventas consolidadas del primer trimestre fueron de 25.000 millones de wones y su beneficio operativo de 4.000 millones, impulsados por exportaciones.",
-        "body": "KSP informó el día 13 que registró en el primer trimestre ventas consolidadas de 25.000 millones de wones y un beneficio operativo de 4.000 millones de wones. El beneficio operativo aumentó un 43% frente al mismo periodo del año anterior. La compañía fabrica piezas para motores marinos, y la mejora de resultados se debió al aumento de las exportaciones de su producto principal, las piezas para grandes motores de buques. Las exportaciones de ese segmento crecieron en unos 3.500 millones de wones interanuales, contribuyendo al avance de ventas y ganancias. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "KSP tem lucro operacional de 4 bilhões de won no 1º tri com alta nas exportações",
-        "excerpt": "A KSP informou no dia 13 que a receita consolidada do 1º trimestre foi de 25 bilhões de won e o lucro operacional chegou a 4 bilhões, apoiado por exportações.",
-        "body": "A KSP informou no dia 13 que registrou receita consolidada de 25 bilhões de won no primeiro trimestre e lucro operacional de 4 bilhões de won. O lucro operacional avançou 43% em relação ao mesmo período do ano anterior. A empresa fabrica peças para motores marítimos, e a melhora do resultado teve como fator o aumento das exportações de seu principal produto, peças para grandes motores de navios. O valor exportado nesse segmento cresceu cerca de 3,5 bilhões de won frente ao ano anterior, contribuindo para vendas e lucro. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KSP erzielt im ersten Quartal 4 Mrd. Won Betriebsgewinn dank höherer Schiffsmotor-Exporte",
-        "excerpt": "KSP meldete am 13. Mai für das erste Quartal 25 Mrd. Won Umsatz und 4 Mrd. Won operativen Gewinn. Gestiegene Exporte großer Schiffsmotorenteile stützten das Ergebnis.",
-        "body": "KSP teilte am 13. Mai mit, im ersten Quartal auf konsolidierter Basis einen Umsatz von 25 Mrd. Won und einen operativen Gewinn von 4 Mrd. Won erzielt zu haben. Der operative Gewinn stieg damit um 43% gegenüber dem Vorjahreszeitraum. Das Unternehmen produziert Schiffsmotorenteile. Die Ergebnisverbesserung wurde durch höhere Exporte seines Kernprodukts, Teile für große Schiffsmotoren, getragen. Der Exportwert dieses Segments nahm im Jahresvergleich um rund 3,5 Mrd. Won zu und trug zum Wachstum von Umsatz und Gewinn bei. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "KSP porte son bénéfice opérationnel trimestriel à 4 milliards de wons grâce aux exportations",
-        "excerpt": "KSP a annoncé le 13 mai un chiffre d’affaires consolidé de 25 milliards de wons au premier trimestre et un bénéfice opérationnel de 4 milliards, soutenus par les exportations.",
-        "body": "KSP a annoncé le 13 mai avoir réalisé au premier trimestre un chiffre d’affaires consolidé de 25 milliards de wons et un bénéfice opérationnel de 4 milliards de wons. Le bénéfice opérationnel a progressé de 43% par rapport à la même période de l’an dernier. Fabricant de pièces pour moteurs marins, l’entreprise a bénéficié de la hausse des exportations de son principal produit, les pièces destinées aux grands moteurs de navires. La valeur exportée de ce segment a augmenté d’environ 3,5 milliards de wons sur un an, soutenant les ventes et les bénéfices. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كي إس بي تسجل ربحا تشغيليا 4 مليارات وون في الربع الأول بدعم صادرات محركات السفن",
-        "excerpt": "أعلنت كي إس بي في 13 مايو أن إيراداتها المجمعة للربع الأول بلغت 25 مليار وون، وأن الربح التشغيلي وصل إلى 4 مليارات وون بفضل صادرات قطع محركات السفن.",
-        "body": "أعلنت كي إس بي في 13 مايو أنها سجلت في الربع الأول إيرادات مجمعة قدرها 25 مليار وون وربحا تشغيليا قدره 4 مليارات وون. وارتفع الربح التشغيلي بنسبة 43% مقارنة بالفترة نفسها من العام السابق. وتعمل الشركة في تصنيع قطع محركات السفن، وجاء تحسن النتائج مدعوما بزيادة صادرات منتجها الرئيسي، وهو قطع محركات السفن الكبيرة. وارتفعت قيمة صادرات هذا القطاع بنحو 3.5 مليارات وون عن العام السابق، ما ساهم في نمو المبيعات والأرباح. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KSP का पहली तिमाही परिचालन लाभ 4 अरब वोन, जहाज इंजन पार्ट्स निर्यात से 43% वृद्धि",
-        "excerpt": "KSP ने 13 मई को बताया कि पहली तिमाही में समेकित राजस्व 25 अरब वोन और परिचालन लाभ 4 अरब वोन रहा। बड़े जहाज इंजन पार्ट्स के निर्यात ने सुधार को सहारा दिया।",
-        "body": "KSP ने 13 मई को कहा कि पहली तिमाही में उसका समेकित राजस्व 25 अरब वोन और परिचालन लाभ 4 अरब वोन रहा। परिचालन लाभ पिछले वर्ष की समान अवधि की तुलना में 43% बढ़ा। कंपनी जहाजों के इंजन पार्ट्स बनाती है, और परिणामों में सुधार का मुख्य कारण बड़े जहाज इंजन पार्ट्स के निर्यात में वृद्धि रहा। इस खंड का निर्यात मूल्य एक साल पहले की तुलना में करीब 3.5 अरब वोन बढ़ा, जिससे बिक्री और लाभ वृद्धि में योगदान मिला। यह घोषणा दिखाती है कि मुख्य निर्यात उत्पादों की वृद्धि ने तिमाही लाभप्रदता को सहारा दिया। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "KSP Catat Laba Operasi Kuartal I 4 Miliar Won, Ekspor Komponen Mesin Kapal Naik",
-        "excerpt": "KSP pada 13 Mei melaporkan pendapatan konsolidasi kuartal I sebesar 25 miliar won dan laba operasi 4 miliar won, didukung kenaikan ekspor komponen mesin kapal besar.",
-        "body": "KSP pada 13 Mei menyatakan bahwa pendapatan konsolidasi kuartal pertama mencapai 25 miliar won dan laba operasi sebesar 4 miliar won. Laba operasi naik 43% dibandingkan periode yang sama tahun sebelumnya. Perusahaan ini memproduksi komponen mesin kapal, dan perbaikan kinerja didorong oleh peningkatan ekspor produk utamanya, yakni komponen mesin kapal besar. Nilai ekspor segmen tersebut bertambah sekitar 3,5 miliar won secara tahunan, sehingga berkontribusi pada pertumbuhan penjualan dan laba. Sumber: hankyung.com"
       }
     }
   }
