@@ -1,5 +1,230 @@
 [
   {
+    "id": "d160725874e8",
+    "slug": "증시랠리-올라탄-국민연금보름-만에-50조-더-벌었다-120125",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T16:26:02.291Z",
+    "updatedAt": "2026-05-14T16:26:02.291Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051472511",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051472511",
+    "titleFingerprint": "e68ea62643268f8d907e1a006571026a83d3377c",
+    "dedupKeys": [
+      "d160725874e88fd8ac03e304cf67da1b5a34a7fe",
+      "e68ea62643268f8d907e1a006571026a83d3377c",
+      "4a621625e44b1451936aedbbb5d042b9fc17f944"
+    ],
+    "imageUrl": "/images/articles/d160725874e8.png",
+    "i18n": {
+      "ko": {
+        "title": "국민연금 1800조원 돌파, 증시 랠리 타고 보름 새 50조 추가 수익",
+        "excerpt": "국민연금은 5월 14일 기금 적립금이 1800조원에 이르렀고, 반도체 중심 코스피 랠리 영향으로 보름 만에 운용수익 약 50조원을 더했다.",
+        "body": "국민연금 기금 적립금이 5월 14일 1800조원을 달성한 것으로 전해졌다. 반도체주를 중심으로 한 코스피 랠리에 힘입어 보름 새 운용수익만 약 50조원 늘었다. 지난해 말 적립금 1458조원과 비교하면 넉 달여 만에 340조원 넘게 증가했으며, 보험료 납입 등 현금 유입을 제외한 올해 운용수익도 300조원 안팎으로 집계됐다. 누적 수익률은 20%를 넘어섰고 국내주식 수익률은 90%대에 이른 것으로 파악된다. 지난해 운용수익 231조6000억원과 수익률 18.82%를 이미 웃도는 흐름이다. 다만 국내주식 비중이 올해 목표치 14.9%를 10%포인트 이상 웃돌면서 리밸런싱 부담도 커졌다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "National Pension Fund Hits 1,800 Trillion Won After Stock Rally Adds 50 Trillion",
+        "excerpt": "South Korea’s National Pension Service reached 1,800 trillion won on May 14 as a semiconductor-led KOSPI rally added about 50 trillion won in investment gains in just 15 days.",
+        "body": "South Korea’s National Pension Service was reported to have reached 1,800 trillion won in fund reserves on May 14. Helped by a KOSPI rally led by semiconductor stocks, investment gains rose by about 50 trillion won in only 15 days. Compared with 1,458 trillion won at the end of last year, reserves increased by more than 340 trillion won in just over four months. Excluding cash inflows such as premium payments, investment gains this year were estimated at around 300 trillion won. The cumulative return has surpassed 20%, while domestic equity returns were understood to be in the 90% range. This already exceeds last year’s 231.6 trillion won in investment gains and 18.82% return. However, the domestic stock allocation is reportedly more than 10 percentage points above this year’s 14.9% target, increasing rebalancing pressure. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "国民年金基金が1800兆ウォン突破、株高で半月に50兆ウォン追加収益",
+        "excerpt": "韓国の国民年金は5月14日、基金積立金が1800兆ウォンに達し、半導体株主導のKOSPI上昇で半月に約50兆ウォンの運用益を追加した。",
+        "body": "韓国の国民年金基金の積立金は5月14日、1800兆ウォンに達したと伝えられた。半導体株を中心とするKOSPIの上昇を受け、半月で運用益だけが約50兆ウォン増えた。昨年末の積立金1458兆ウォンと比べると、4カ月余りで340兆ウォン超の増加となる。保険料納付などの現金流入を除いた今年の運用益も300兆ウォン前後と見られる。累積収益率は20%を超え、国内株式の収益率は90%台に達したと把握されている。昨年の運用益231兆6000億ウォン、収益率18.82%をすでに上回る流れだ。一方、国内株式比率は今年の目標14.9%を10ポイント以上上回るとされ、リバランス負担も高まっている。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "韩国国民年金突破1800万亿韩元，股市上涨半月增赚50万亿",
+        "excerpt": "韩国国民年金5月14日基金积累额达到1800万亿韩元，受半导体股带动的KOSPI上涨影响，半个月新增约50万亿韩元投资收益。",
+        "body": "据报道，韩国国民年金基金积累额在5月14日达到1800万亿韩元。受以半导体股为中心的KOSPI上涨带动，仅半个月投资收益就增加约50万亿韩元。与去年底1458万亿韩元相比，四个多月增加超过340万亿韩元；若剔除保险费缴纳等现金流入，今年投资收益也约为300万亿韩元。累计收益率已超过20%，国内股票收益率被认为达到90%区间。这一表现已超过去年231.6万亿韩元的投资收益和18.82%的收益率。不过，国内股票配置比例据称比今年14.9%的目标高出10个百分点以上，再平衡压力随之上升。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El fondo nacional de pensiones de Corea llega a 1.800 billones de wones",
+        "excerpt": "El Servicio Nacional de Pensiones de Corea alcanzó el 14 de mayo 1.800 billones de wones, tras sumar unos 50 billones en ganancias por el rally del KOSPI liderado por semiconductores.",
+        "body": "El Servicio Nacional de Pensiones de Corea habría alcanzado el 14 de mayo 1.800 billones de wones en reservas del fondo. Impulsado por el rally del KOSPI centrado en acciones de semiconductores, las ganancias de inversión aumentaron unos 50 billones de wones en solo quince días. Frente a los 1.458 billones de wones de finales del año pasado, las reservas crecieron más de 340 billones en algo más de cuatro meses. Excluyendo entradas de efectivo como cotizaciones, las ganancias de inversión de este año rondan los 300 billones de wones. La rentabilidad acumulada superó el 20%, y la de las acciones locales se situaría en la zona del 90%. El resultado ya supera los 231,6 billones de wones y el 18,82% logrados el año pasado. Sin embargo, el peso de acciones locales supera en más de 10 puntos el objetivo del 14,9%, elevando la presión de rebalanceo. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Fundo nacional de pensões da Coreia chega a 1.800 trilhões de wons",
+        "excerpt": "O Serviço Nacional de Pensões da Coreia atingiu em 14 de maio 1.800 trilhões de wons, após ganhar cerca de 50 trilhões em 15 dias com a alta do KOSPI puxada por semicondutores.",
+        "body": "O Serviço Nacional de Pensões da Coreia teria atingido em 14 de maio 1.800 trilhões de wons em reservas. Com o avanço do KOSPI liderado por ações de semicondutores, os ganhos de investimento aumentaram cerca de 50 trilhões de wons em apenas quinze dias. Em relação aos 1.458 trilhões de wons do fim do ano passado, as reservas cresceram mais de 340 trilhões em pouco mais de quatro meses. Excluindo entradas de caixa como contribuições, os ganhos de investimento neste ano são estimados em torno de 300 trilhões de wons. O retorno acumulado passou de 20%, enquanto o retorno das ações domésticas estaria na faixa de 90%. O desempenho já supera os 231,6 trilhões de wons e o retorno de 18,82% do ano passado. Ainda assim, a fatia de ações domésticas supera em mais de 10 pontos a meta de 14,9%, aumentando a pressão por rebalanceamento. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Koreas National Pension Fund steigt auf 1.800 Billionen Won nach Aktienrally",
+        "excerpt": "Der koreanische National Pension Service erreichte am 14. Mai 1.800 Billionen Won, nachdem die Halbleiter-geführte KOSPI-Rally in 15 Tagen rund 50 Billionen Won Anlagegewinn brachte.",
+        "body": "Der koreanische National Pension Service soll am 14. Mai Fondsreserven von 1.800 Billionen Won erreicht haben. Getragen von einer KOSPI-Rally rund um Halbleiterwerte stiegen allein die Anlagegewinne binnen 15 Tagen um etwa 50 Billionen Won. Gegenüber 1.458 Billionen Won zum Ende des Vorjahres legten die Reserven in gut vier Monaten um mehr als 340 Billionen Won zu. Ohne Mittelzuflüsse wie Beitragszahlungen werden die diesjährigen Anlagegewinne auf rund 300 Billionen Won geschätzt. Die kumulierte Rendite liegt über 20%, die Rendite heimischer Aktien soll im Bereich von 90% liegen. Damit werden die Anlagegewinne von 231,6 Billionen Won und die Rendite von 18,82% aus dem Vorjahr bereits übertroffen. Zugleich liegt die Inlandsaktienquote mehr als 10 Prozentpunkte über dem Ziel von 14,9%, was den Rebalancing-Druck erhöht. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le fonds national de pension coréen atteint 1 800 billions de wons",
+        "excerpt": "Le National Pension Service coréen a atteint le 14 mai 1 800 billions de wons, après environ 50 billions de gains en quinze jours grâce au rally du KOSPI tiré par les semi-conducteurs.",
+        "body": "Le National Pension Service coréen aurait atteint le 14 mai 1 800 billions de wons d’actifs en réserve. Portés par le rally du KOSPI centré sur les valeurs de semi-conducteurs, les gains d’investissement ont augmenté d’environ 50 billions de wons en seulement quinze jours. Par rapport aux 1 458 billions de wons de fin d’année dernière, les réserves ont progressé de plus de 340 billions en un peu plus de quatre mois. Hors entrées de trésorerie comme les cotisations, les gains d’investissement de cette année sont estimés autour de 300 billions de wons. Le rendement cumulé dépasse 20%, tandis que le rendement des actions coréennes serait dans la zone de 90%. La performance dépasse déjà les 231,6 billions de wons de gains et le rendement de 18,82% de l’an passé. Mais la part des actions domestiques dépasserait de plus de 10 points l’objectif de 14,9%, renforçant la pression de rééquilibrage. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صندوق التقاعد الوطني الكوري يبلغ 1,800 تريليون وون بدعم صعود الأسهم",
+        "excerpt": "بلغ صندوق التقاعد الوطني في كوريا في 14 مايو 1,800 تريليون وون، بعدما أضافت موجة صعود كوسبي بقيادة أشباه الموصلات نحو 50 تريليون وون خلال نصف شهر.",
+        "body": "أفادت التقارير بأن احتياطي صندوق التقاعد الوطني الكوري بلغ في 14 مايو 1,800 تريليون وون. وبفضل صعود مؤشر كوسبي بقيادة أسهم أشباه الموصلات، زادت أرباح الاستثمار وحدها بنحو 50 تريليون وون خلال نصف شهر. وبالمقارنة مع 1,458 تريليون وون في نهاية العام الماضي، ارتفع الاحتياطي بأكثر من 340 تريليون وون خلال ما يزيد قليلا على أربعة أشهر. وبعد استبعاد التدفقات النقدية مثل اشتراكات التأمين، تقدر أرباح الاستثمار هذا العام بنحو 300 تريليون وون. وتجاوز العائد التراكمي 20%، بينما وصلت عوائد الأسهم المحلية إلى نطاق 90%. وهذا يتجاوز بالفعل أرباح العام الماضي البالغة 231.6 تريليون وون وعائده البالغ 18.82%. لكن وزن الأسهم المحلية يتجاوز هدف هذا العام البالغ 14.9% بأكثر من 10 نقاط مئوية، ما يزيد ضغط إعادة التوازن. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "कोरिया का नेशनल पेंशन फंड 1,800 ट्रिलियन वॉन पर, शेयर रैली से लाभ",
+        "excerpt": "कोरिया का नेशनल पेंशन सर्विस फंड 14 मई को 1,800 ट्रिलियन वॉन पर पहुंचा, क्योंकि सेमीकंडक्टर-नेतृत्व वाली KOSPI रैली ने 15 दिनों में करीब 50 ट्रिलियन वॉन का निवेश लाभ जोड़ा।",
+        "body": "कोरिया के नेशनल पेंशन सर्विस फंड का भंडार 14 मई को 1,800 ट्रिलियन वॉन तक पहुंचने की सूचना है। सेमीकंडक्टर शेयरों के नेतृत्व वाली KOSPI रैली से केवल पंद्रह दिनों में निवेश लाभ करीब 50 ट्रिलियन वॉन बढ़ा। पिछले साल के अंत के 1,458 ट्रिलियन वॉन की तुलना में चार महीने से कुछ अधिक समय में भंडार 340 ट्रिलियन वॉन से ज्यादा बढ़ा। प्रीमियम भुगतान जैसे नकद प्रवाह को छोड़कर भी इस साल का निवेश लाभ लगभग 300 ट्रिलियन वॉन आंका गया। संचयी रिटर्न 20% से ऊपर है, जबकि घरेलू शेयरों का रिटर्न 90% के दायरे में बताया गया। यह पिछले साल के 231.6 ट्रिलियन वॉन निवेश लाभ और 18.82% रिटर्न से पहले ही अधिक है। हालांकि घरेलू शेयरों का हिस्सा 14.9% के लक्ष्य से 10 प्रतिशत अंक से अधिक ऊपर है, जिससे रीबैलेंसिंग का दबाव बढ़ा है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Dana Pensiun Nasional Korea Tembus 1.800 Triliun Won Berkat Reli Saham",
+        "excerpt": "National Pension Service Korea mencapai 1.800 triliun won pada 14 Mei, setelah reli KOSPI yang dipimpin saham semikonduktor menambah sekitar 50 triliun won laba investasi dalam 15 hari.",
+        "body": "Dana National Pension Service Korea dilaporkan mencapai cadangan 1.800 triliun won pada 14 Mei. Didorong reli KOSPI yang berpusat pada saham semikonduktor, laba investasi bertambah sekitar 50 triliun won hanya dalam lima belas hari. Dibandingkan 1.458 triliun won pada akhir tahun lalu, cadangan naik lebih dari 340 triliun won dalam sedikit lebih dari empat bulan. Setelah mengecualikan arus kas seperti pembayaran iuran, laba investasi tahun ini diperkirakan sekitar 300 triliun won. Imbal hasil kumulatif telah melampaui 20%, sementara imbal hasil saham domestik dipahami berada di kisaran 90%. Kinerja ini sudah melampaui laba investasi 231,6 triliun won dan imbal hasil 18,82% tahun lalu. Namun porsi saham domestik dilaporkan lebih dari 10 poin persentase di atas target tahun ini sebesar 14,9%, sehingga tekanan rebalancing meningkat. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "6aec29fa748f",
+    "slug": "몸값-1조-딥엑스-지드래곤-소속사ipo-대어-집결-263300",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T16:24:37.403Z",
+    "updatedAt": "2026-05-14T16:24:37.403Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051472741",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051472741",
+    "titleFingerprint": "3ee38f8449e8a64c5109e0d26e862a3bc36640f5",
+    "dedupKeys": [
+      "6aec29fa748f3e6316ea986e2cba9b4c2beaefbc",
+      "3ee38f8449e8a64c5109e0d26e862a3bc36640f5",
+      "f8a01eb5ad2af41ba237c686ee0023beafac2a17"
+    ],
+    "imageUrl": "/images/articles/6aec29fa748f.png",
+    "i18n": {
+      "ko": {
+        "title": "딥엑스·갤럭시코퍼레이션 IPO 청사진 공개, 1조 몸값 전망 속 KIW 대어 집결",
+        "excerpt": "KIW 2026 마지막 날인 15일 딥엑스와 갤럭시코퍼레이션 등 국내 비상장 혁신기업들이 IPO 청사진을 공개하며 투자자에게 성장 전략과 상장 로드맵을 소개한다.",
+        "body": "코리아 인베스트먼트 위크(KIW) 2026 마지막 날인 15일, 딥엑스와 갤럭시코퍼레이션 등 국내 비상장 혁신기업들이 한자리에 모여 기업공개(IPO) 청사진을 공개한다. 한국경제에 따르면 AI 반도체 스타트업 딥엑스, 갤럭시코퍼레이션, 해빗팩토리, 엘리스그룹, 엘박스, 삼홍아크튜리온, 에이로봇 등이 참여한다. 딥엑스는 온디바이스 AI 반도체와 초저전력 NPU 기술을 앞세우며 현대자동차, 포스코DX 등과 협력해 로봇용 ‘에지 브레인’ 칩 양산에 성공했다. 시장에서는 상장 시 기업가치가 1조원을 넘어설 것으로 본다. 지드래곤 소속사로 알려진 갤럭시코퍼레이션은 미국 상장 계획과 해외 투자 유치 전략을 공개한다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "DeepX and Galaxy Corporation to Unveil IPO Plans as KIW Draws Major Private Firms",
+        "excerpt": "On May 15, the final day of KIW 2026, DeepX, Galaxy Corporation and other Korean private innovation companies will present IPO plans, growth strategies and listing roadmaps to investors.",
+        "body": "On May 15, the final day of Korea Investment Week (KIW) 2026, Korean private innovation companies including DeepX and Galaxy Corporation will gather to unveil their initial public offering (IPO) plans. According to The Korea Economic Daily, participants include AI semiconductor startup DeepX, Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion and Arobot. DeepX is a leading on-device AI semiconductor company with ultra-low-power NPU technology and has cooperated with Hyundai Motor and Posco DX, succeeding in mass production of an “edge brain” chip for robots. The market expects its corporate value to exceed 1 trillion won if it lists. Galaxy Corporation, known as G-Dragon’s agency, will disclose its U.S. listing plan and overseas fundraising strategy. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "DeepXとギャラクシーコーポレーションがIPO構想公開、KIWに未上場有力企業集結",
+        "excerpt": "KIW 2026最終日の5月15日、DeepXやギャラクシーコーポレーションなど韓国の未上場革新企業がIPO構想、成長戦略、上場ロードマップを投資家に示す。",
+        "body": "コリア・インベストメント・ウィーク（KIW）2026の最終日である5月15日、DeepXやギャラクシーコーポレーションなど韓国の未上場革新企業が一堂に集まり、新規株式公開（IPO）の構想を公開する。韓国経済新聞によると、参加企業はAI半導体スタートアップのDeepX、ギャラクシーコーポレーション、Habit Factory、Elice Group、LBox、Samhong Arcturion、Arobotなど。DeepXはオンデバイスAI半導体と超低消費電力NPU技術を強みにし、現代自動車やPosco DXなどと協力してロボット用「エッジブレイン」チップの量産に成功した。市場では上場時の企業価値が1兆ウォンを超えるとみられている。G-DRAGONの所属事務所として知られるギャラクシーコーポレーションは、米国上場計画と海外投資誘致戦略を公開する。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "DeepX与Galaxy Corporation披露IPO蓝图，KIW聚集未上市明星企业",
+        "excerpt": "KIW 2026最后一天5月15日，DeepX、Galaxy Corporation等韩国未上市创新企业将向投资者介绍IPO蓝图、增长战略和上市路线图。",
+        "body": "在韩国投资周（KIW）2026最后一天5月15日，包括DeepX和Galaxy Corporation在内的韩国未上市创新企业将齐聚一堂，披露首次公开募股（IPO）蓝图。据《韩国经济新闻》报道，参会企业包括AI半导体初创公司DeepX、Galaxy Corporation、Habit Factory、Elice Group、LBox、Samhong Arcturion和Arobot等。DeepX是端侧AI半导体领域的代表企业，主打超低功耗NPU技术，并与现代汽车、Posco DX等大企业合作，已成功量产机器人用“边缘大脑”芯片。市场认为其上市时企业价值将超过1万亿韩元。以G-Dragon所属公司闻名的Galaxy Corporation将公布美国上市计划和海外融资战略。来源: hankyung.com"
+      },
+      "es": {
+        "title": "DeepX y Galaxy Corporation revelarán planes de IPO ante grandes firmas privadas en KIW",
+        "excerpt": "El 15 de mayo, último día de KIW 2026, DeepX, Galaxy Corporation y otras empresas privadas innovadoras de Corea presentarán a inversores sus planes de IPO, estrategias de crecimiento y hojas de ruta de salida a bolsa.",
+        "body": "El 15 de mayo, último día de Korea Investment Week (KIW) 2026, empresas privadas innovadoras de Corea, incluidas DeepX y Galaxy Corporation, se reunirán para revelar sus planes de oferta pública inicial (IPO). Según The Korea Economic Daily, participarán la startup de semiconductores de IA DeepX, Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion y Arobot. DeepX es una referencia en semiconductores de IA en dispositivo y tecnología NPU de consumo ultrabajo; ha colaborado con Hyundai Motor y Posco DX, y logró la producción en masa de un chip “edge brain” para robots. El mercado espera que su valor corporativo supere 1 billón de wones si sale a bolsa. Galaxy Corporation, conocida como la agencia de G-Dragon, presentará su plan de cotización en Estados Unidos y su estrategia para atraer inversión extranjera. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "DeepX e Galaxy Corporation mostram planos de IPO enquanto KIW reúne grandes privadas",
+        "excerpt": "Em 15 de maio, último dia da KIW 2026, DeepX, Galaxy Corporation e outras empresas privadas inovadoras da Coreia apresentarão a investidores planos de IPO, estratégias de crescimento e roteiros de listagem.",
+        "body": "Em 15 de maio, último dia da Korea Investment Week (KIW) 2026, empresas privadas inovadoras da Coreia, incluindo DeepX e Galaxy Corporation, se reunirão para revelar seus planos de oferta pública inicial (IPO). Segundo o The Korea Economic Daily, participarão a startup de semicondutores de IA DeepX, Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion e Arobot. A DeepX é destaque em semicondutores de IA on-device e tecnologia NPU de ultrabaixo consumo; em cooperação com Hyundai Motor e Posco DX, conseguiu produzir em massa um chip “edge brain” para robôs. O mercado espera que seu valor corporativo ultrapasse 1 trilhão de won se for listada. A Galaxy Corporation, conhecida como a agência de G-Dragon, apresentará seu plano de listagem nos EUA e sua estratégia de captação de investimento externo. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "DeepX und Galaxy Corporation legen IPO-Pläne vor, KIW bündelt große Privatfirmen",
+        "excerpt": "Am 15. Mai, dem letzten Tag der KIW 2026, stellen DeepX, Galaxy Corporation und weitere koreanische private Innovationsfirmen Investoren ihre IPO-Pläne, Wachstumsstrategien und Börsenfahrpläne vor.",
+        "body": "Am 15. Mai, dem letzten Tag der Korea Investment Week (KIW) 2026, kommen koreanische private Innovationsunternehmen wie DeepX und Galaxy Corporation zusammen, um ihre Pläne für einen Börsengang (IPO) vorzustellen. Laut The Korea Economic Daily nehmen unter anderem das KI-Halbleiter-Startup DeepX, Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion und Arobot teil. DeepX gilt als führend bei On-Device-KI-Halbleitern und ultrastromsparender NPU-Technologie; in Zusammenarbeit mit Hyundai Motor und Posco DX gelang die Massenproduktion eines „Edge Brain“-Chips für Roboter. Der Markt erwartet bei einem Listing einen Unternehmenswert von über 1 Billion Won. Galaxy Corporation, bekannt als Agentur von G-Dragon, wird Pläne für ein US-Listing und eine Strategie zur Gewinnung ausländischer Investitionen offenlegen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "DeepX et Galaxy Corporation dévoilent leurs projets d’IPO devant les grands privés à KIW",
+        "excerpt": "Le 15 mai, dernier jour de KIW 2026, DeepX, Galaxy Corporation et d’autres entreprises privées innovantes coréennes présenteront aux investisseurs leurs projets d’IPO, stratégies de croissance et feuilles de route de cotation.",
+        "body": "Le 15 mai, dernier jour de la Korea Investment Week (KIW) 2026, des entreprises privées innovantes coréennes, dont DeepX et Galaxy Corporation, se réuniront pour dévoiler leurs projets d’introduction en Bourse (IPO). Selon The Korea Economic Daily, les participants incluent la start-up de semi-conducteurs IA DeepX, Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion et Arobot. DeepX est un acteur majeur des semi-conducteurs IA embarqués et de la technologie NPU à très faible consommation; avec Hyundai Motor et Posco DX, elle a réussi la production de masse d’une puce “edge brain” pour robots. Le marché estime que sa valeur dépasserait 1 000 milliards de wons en cas de cotation. Galaxy Corporation, connue comme l’agence de G-Dragon, présentera son plan de cotation aux États-Unis et sa stratégie d’attraction d’investissements étrangers. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "ديب إكس وغالاكسي كوربوريشن تعرضان خطط الطرح العام مع تجمع شركات كبرى في KIW",
+        "excerpt": "في 15 مايو، اليوم الأخير من KIW 2026، ستعرض ديب إكس وغالاكسي كوربوريشن وشركات كورية خاصة مبتكرة أخرى على المستثمرين خطط الطرح العام واستراتيجيات النمو وخريطة الإدراج.",
+        "body": "في 15 مايو، اليوم الأخير من أسبوع كوريا للاستثمار (KIW) 2026، تجتمع شركات كورية خاصة مبتكرة، من بينها ديب إكس وغالاكسي كوربوريشن، للكشف عن خططها للطرح العام الأولي. ووفقاً لصحيفة كوريا الاقتصادية، تشمل الشركات المشاركة ديب إكس الناشئة في أشباه موصلات الذكاء الاصطناعي، وغالاكسي كوربوريشن، وHabit Factory، وElice Group، وLBox، وSamhong Arcturion، وArobot. تعد ديب إكس من أبرز شركات أشباه موصلات الذكاء الاصطناعي على الجهاز وتقنية NPU فائقة الانخفاض في استهلاك الطاقة، وقد تعاونت مع هيونداي موتور وPosco DX ونجحت في الإنتاج الكمي لشريحة “edge brain” للروبوتات. ويتوقع السوق أن تتجاوز قيمتها تريليون وون عند الإدراج. أما غالاكسي كوربوريشن، المعروفة بأنها وكالة جي-دراغون، فستكشف خطة الإدراج في الولايات المتحدة واستراتيجية جذب الاستثمارات الخارجية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "DeepX और Galaxy Corporation IPO योजना दिखाएंगी, KIW में बड़ी निजी कंपनियां जुटेंगी",
+        "excerpt": "KIW 2026 के अंतिम दिन 15 मई को DeepX, Galaxy Corporation और कोरिया की अन्य निजी नवाचार कंपनियां निवेशकों के सामने IPO योजना, वृद्धि रणनीति और लिस्टिंग रोडमैप पेश करेंगी।",
+        "body": "Korea Investment Week (KIW) 2026 के अंतिम दिन 15 मई को DeepX और Galaxy Corporation सहित कोरिया की निजी नवाचार कंपनियां एक मंच पर आकर प्रारंभिक सार्वजनिक निर्गम (IPO) की रूपरेखा पेश करेंगी। The Korea Economic Daily के अनुसार, प्रतिभागियों में AI सेमीकंडक्टर स्टार्टअप DeepX, Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion और Arobot शामिल हैं। DeepX ऑन-डिवाइस AI सेमीकंडक्टर और अल्ट्रा-लो-पावर NPU तकनीक की प्रमुख कंपनी है; उसने Hyundai Motor और Posco DX के साथ सहयोग कर रोबोट के लिए “edge brain” चिप का बड़े पैमाने पर उत्पादन सफल किया है। बाजार को उम्मीद है कि लिस्टिंग पर उसका कॉर्पोरेट मूल्य 1 ट्रिलियन वॉन से अधिक होगा। G-Dragon की एजेंसी के रूप में जानी जाने वाली Galaxy Corporation अमेरिका में लिस्टिंग योजना और विदेशी निवेश आकर्षित करने की रणनीति बताएगी। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "DeepX dan Galaxy Corporation Paparkan Rencana IPO, KIW Kumpulkan Perusahaan Privat Besar",
+        "excerpt": "Pada 15 Mei, hari terakhir KIW 2026, DeepX, Galaxy Corporation, dan perusahaan inovasi privat Korea lainnya akan memaparkan rencana IPO, strategi pertumbuhan, dan peta jalan pencatatan kepada investor.",
+        "body": "Pada 15 Mei, hari terakhir Korea Investment Week (KIW) 2026, perusahaan inovasi privat Korea termasuk DeepX dan Galaxy Corporation akan berkumpul untuk memaparkan rencana penawaran umum perdana (IPO). Menurut The Korea Economic Daily, pesertanya mencakup startup semikonduktor AI DeepX, Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion, dan Arobot. DeepX adalah pemain utama semikonduktor AI on-device dan teknologi NPU berdaya sangat rendah; bekerja sama dengan Hyundai Motor dan Posco DX, perusahaan ini berhasil memproduksi massal chip “edge brain” untuk robot. Pasar memperkirakan nilai perusahaannya akan melampaui 1 triliun won saat listing. Galaxy Corporation, yang dikenal sebagai agensi G-Dragon, akan mengungkap rencana listing di AS dan strategi menarik investasi luar negeri. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "b5873e028909",
+    "slug": "stx그린로지스-썬에이스-매각-추진-722996",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-14T16:23:16.492Z",
+    "updatedAt": "2026-05-14T16:23:16.492Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051472611",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051472611",
+    "titleFingerprint": "cdc6841a46720641e0bc9f5ef28470a6cf7ce591",
+    "dedupKeys": [
+      "b5873e028909636129a7c5b09fc147cd4daa2c65",
+      "cdc6841a46720641e0bc9f5ef28470a6cf7ce591",
+      "01578661f09ae7fbd6a0c2b249135ee27c8c1e2b"
+    ],
+    "imageUrl": "/images/articles/b5873e028909.jpg",
+    "i18n": {
+      "ko": {
+        "title": "STX그린로지스, 썬에이스 매각 추진…물류사업 재편 속도",
+        "excerpt": "STX그린로지스가 14일 벌크선 운용사 썬에이스 보유 지분 매각 절차에 들어가며 운송·물류 부문 사업 재편과 정상화 작업에 속도를 내고 있다.",
+        "body": "STX그린로지스는 14일 벌크선 운용사 썬에이스 매각을 추진하고 있다. 매각 대상은 STX오션서비스와 STX에코가 보유한 썬에이스 지분 95.24%다. 투자은행 업계에 따르면 매각 주관사는 삼정KPMG이며, 잠재 인수 후보를 상대로 오는 28일까지 인수의향서를 받는 절차가 진행된다. STX그린로지스는 2024년 APC PE로부터 썬에이스를 약 280억원에 인수했다. 썬에이스는 30년 업력의 벌크선 운송사로, 현대제철 장기운송계약을 25년 이상 맡아 왔다. 지난해 매출은 776억원, 운용 선대는 311척으로 전해졌다. 이번 매각은 운송·물류 부문 정상화 작업의 하나로 거론된다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "STX Green Logis Moves to Sell Sun Ace Stake as Logistics Restructuring Advances",
+        "excerpt": "STX Green Logis has begun a process to sell its stake in bulk carrier operator Sun Ace, accelerating efforts to reorganize and normalize its transport and logistics business.",
+        "body": "STX Green Logis is pursuing the sale of Sun Ace, a bulk carrier operator, as of May 14. The asset for sale is a 95.24% stake in Sun Ace held by STX Ocean Service and STX Eco. According to investment banking sources, Samjong KPMG is managing the process, with letters of intent from potential buyers due by May 28. STX Green Logis acquired Sun Ace from APC PE in 2024 for about 28 billion won. Sun Ace is a bulk shipping company with a 30-year history and has handled Hyundai Steel’s long-term shipping contracts for more than 25 years. Its revenue last year was reported at 77.6 billion won, with an operating fleet of 311 vessels. The sale is being cited as part of efforts to normalize the transport and logistics segment. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "STXグリーンロジス、サンエース売却推進…物流事業再編を加速",
+        "excerpt": "STXグリーンロジスは14日、バルク船運航会社サンエースの保有株売却手続きに入り、運送・物流部門の再編と正常化を進めている。",
+        "body": "STXグリーンロジスは14日、バルク船運航会社サンエースの売却を推進している。売却対象はSTXオーシャンサービスとSTXエコが保有するサンエース株式95.24%だ。投資銀行業界によると、売却主幹事は三井KPMGで、潜在的な買収候補から5月28日まで買収意向書を受け付ける手続きが進められている。STXグリーンロジスは2024年、APC PEからサンエースを約280億ウォンで取得した。サンエースは30年の業歴を持つバルク船運送会社で、現代製鉄の長期運送契約を25年以上担当してきた。昨年の売上高は776億ウォン、運航船隊は311隻と伝えられている。今回の売却は運送・物流部門の正常化作業の一環とされる。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "STX Green Logis推进出售Sun Ace股权，物流业务重组提速",
+        "excerpt": "STX Green Logis于14日启动出售散货船运营商Sun Ace所持股权的程序，推动运输与物流板块重组及正常化进程。",
+        "body": "STX Green Logis于14日正推进出售散货船运营商Sun Ace。出售标的为STX Ocean Service和STX Eco持有的Sun Ace 95.24%股权。投资银行业界消息称，本次出售由Samjong KPMG担任主管机构，潜在收购方需在5月28日前提交收购意向书。STX Green Logis于2024年从APC PE手中以约280亿韩元收购Sun Ace。Sun Ace是一家拥有30年经营历史的散货船运输公司，25年以上负责现代制铁长期运输合同。该公司去年销售额为776亿韩元，运营船队为311艘。据称，此次出售被视为运输与物流板块正常化工作的一部分。来源: hankyung.com."
+      },
+      "es": {
+        "title": "STX Green Logis impulsa venta de Sun Ace y acelera reorganización logística",
+        "excerpt": "STX Green Logis inició el 14 de mayo el proceso para vender su participación en Sun Ace, operador de graneleros, como parte de la normalización del negocio de transporte y logística.",
+        "body": "STX Green Logis está impulsando desde el 14 de mayo la venta de Sun Ace, operador de buques graneleros. El activo en venta es el 95,24% de Sun Ace en manos de STX Ocean Service y STX Eco. Según fuentes del sector de banca de inversión, Samjong KPMG dirige el proceso y recibirá cartas de intención de posibles compradores hasta el 28 de mayo. STX Green Logis adquirió Sun Ace a APC PE en 2024 por unos 28.000 millones de wones. Sun Ace es una naviera de graneleros con 30 años de trayectoria y ha gestionado contratos de transporte a largo plazo de Hyundai Steel durante más de 25 años. Sus ventas del año pasado fueron de 77.600 millones de wones y su flota operativa fue de 311 buques. La venta se menciona como parte de la normalización del área de transporte y logística. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "STX Green Logis avança na venda da Sun Ace em reestruturação logística",
+        "excerpt": "A STX Green Logis iniciou em 14 de maio o processo para vender sua participação na operadora de graneleiros Sun Ace, acelerando a reorganização do negócio de transporte e logística.",
+        "body": "A STX Green Logis está avançando, em 14 de maio, com a venda da Sun Ace, operadora de navios graneleiros. O ativo à venda é uma participação de 95,24% na Sun Ace detida pela STX Ocean Service e pela STX Eco. Segundo fontes do setor de banco de investimento, a Samjong KPMG conduz o processo e receberá cartas de intenção de potenciais compradores até 28 de maio. A STX Green Logis adquiriu a Sun Ace da APC PE em 2024 por cerca de 28 bilhões de wones. A Sun Ace é uma empresa de transporte de granéis com 30 anos de atuação e há mais de 25 anos opera contratos de longo prazo da Hyundai Steel. A receita do ano passado foi de 77,6 bilhões de wones, com frota operacional de 311 navios. A venda é citada como parte da normalização do segmento de transporte e logística. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "STX Green Logis treibt Verkauf von Sun Ace im Zuge der Logistik-Neuordnung voran",
+        "excerpt": "STX Green Logis hat am 14. Mai den Verkaufsprozess für seine Beteiligung am Massengutfrachter-Betreiber Sun Ace eingeleitet und beschleunigt damit die Neuordnung der Transport- und Logistiksparte.",
+        "body": "STX Green Logis treibt am 14. Mai den Verkauf von Sun Ace, einem Betreiber von Massengutfrachtern, voran. Zum Verkauf steht ein Anteil von 95,24% an Sun Ace, der von STX Ocean Service und STX Eco gehalten wird. Nach Angaben aus Investmentbanking-Kreisen begleitet Samjong KPMG den Prozess; potenzielle Käufer können bis zum 28. Mai Absichtserklärungen einreichen. STX Green Logis hatte Sun Ace 2024 von APC PE für rund 28 Milliarden Won übernommen. Sun Ace ist ein Massengut-Reedereiunternehmen mit 30 Jahren Geschäftstätigkeit und betreut seit mehr als 25 Jahren langfristige Transportverträge von Hyundai Steel. Der Umsatz im vergangenen Jahr lag bei 77,6 Milliarden Won, die operative Flotte bei 311 Schiffen. Der Verkauf wird als Teil der Normalisierung der Transport- und Logistiksparte genannt. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "STX Green Logis veut vendre Sun Ace et accélère la réorganisation logistique",
+        "excerpt": "STX Green Logis a lancé le 14 mai la procédure de vente de sa participation dans Sun Ace, opérateur de vraquiers, dans le cadre de la normalisation de ses activités transport et logistique.",
+        "body": "STX Green Logis poursuit, au 14 mai, la vente de Sun Ace, opérateur de vraquiers. L’actif concerné est une participation de 95,24% dans Sun Ace détenue par STX Ocean Service et STX Eco. Selon des sources du secteur de la banque d’investissement, Samjong KPMG pilote l’opération et les acheteurs potentiels doivent remettre une lettre d’intention d’ici au 28 mai. STX Green Logis avait acquis Sun Ace auprès d’APC PE en 2024 pour environ 28 milliards de wons. Sun Ace est une société de transport de vrac forte de 30 ans d’activité et gère depuis plus de 25 ans des contrats de transport à long terme pour Hyundai Steel. Son chiffre d’affaires de l’an dernier a été rapporté à 77,6 milliards de wons, avec une flotte opérationnelle de 311 navires. Cette vente est présentée comme une étape de normalisation du pôle transport et logistique. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "STX Green Logis تمضي في بيع Sun Ace ضمن إعادة ترتيب أعمال النقل واللوجستيات",
+        "excerpt": "بدأت STX Green Logis في 14 مايو إجراءات بيع حصتها في مشغل سفن البضائع السائبة Sun Ace، ضمن جهود إعادة تنظيم قطاع النقل واللوجستيات وتطبيعه.",
+        "body": "تمضي STX Green Logis في 14 مايو في بيع Sun Ace، وهي شركة تشغل سفن البضائع السائبة. وتشمل الصفقة حصة قدرها 95.24% في Sun Ace تملكها STX Ocean Service وSTX Eco. وبحسب مصادر في قطاع الخدمات المصرفية الاستثمارية، تتولى Samjong KPMG إدارة عملية البيع، على أن تتلقى خطابات النية من المشترين المحتملين حتى 28 مايو. وكانت STX Green Logis قد استحوذت على Sun Ace من APC PE في عام 2024 مقابل نحو 28 مليار وون. وتعمل Sun Ace في نقل البضائع السائبة منذ 30 عاما، وتولت عقود النقل طويلة الأجل لشركة Hyundai Steel لأكثر من 25 عاما. وبلغت إيراداتها في العام الماضي 77.6 مليار وون، مع أسطول تشغيلي من 311 سفينة. وتأتي الصفقة ضمن أعمال تطبيع قطاع النقل واللوجستيات. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "STX Green Logis ने Sun Ace बिक्री प्रक्रिया बढ़ाई, लॉजिस्टिक्स पुनर्गठन तेज",
+        "excerpt": "STX Green Logis ने 14 मई को बल्क कैरियर ऑपरेटर Sun Ace में अपनी हिस्सेदारी बेचने की प्रक्रिया शुरू की, जिससे परिवहन और लॉजिस्टिक्स कारोबार के पुनर्गठन को गति मिली।",
+        "body": "STX Green Logis 14 मई को बल्क कैरियर ऑपरेटर Sun Ace की बिक्री आगे बढ़ा रही है। बिक्री के लिए रखी गई संपत्ति Sun Ace में STX Ocean Service और STX Eco की 95.24% हिस्सेदारी है। निवेश बैंकिंग क्षेत्र के सूत्रों के अनुसार, Samjong KPMG इस बिक्री प्रक्रिया का प्रबंधन कर रही है और संभावित खरीदारों से 28 मई तक आशय पत्र लिए जाएंगे। STX Green Logis ने 2024 में APC PE से Sun Ace को लगभग 28 अरब वॉन में खरीदा था। Sun Ace 30 साल के इतिहास वाली बल्क शिपिंग कंपनी है और 25 साल से अधिक समय से Hyundai Steel के दीर्घकालिक परिवहन अनुबंध संभालती रही है। पिछले वर्ष इसका राजस्व 77.6 अरब वॉन और परिचालन बेड़ा 311 जहाजों का बताया गया। यह बिक्री परिवहन और लॉजिस्टिक्स खंड को सामान्य बनाने की प्रक्रिया का हिस्सा मानी जा रही है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "STX Green Logis Dorong Penjualan Sun Ace Saat Restrukturisasi Logistik Berjalan",
+        "excerpt": "STX Green Logis pada 14 Mei memulai proses penjualan saham di operator kapal curah Sun Ace untuk mempercepat penataan dan normalisasi bisnis transportasi serta logistik.",
+        "body": "STX Green Logis pada 14 Mei tengah mendorong penjualan Sun Ace, operator kapal curah. Aset yang dijual adalah 95,24% saham Sun Ace yang dimiliki STX Ocean Service dan STX Eco. Menurut sumber industri perbankan investasi, Samjong KPMG menjadi penasihat penjualan, dengan surat minat dari calon pembeli diterima hingga 28 Mei. STX Green Logis mengakuisisi Sun Ace dari APC PE pada 2024 senilai sekitar 28 miliar won. Sun Ace adalah perusahaan pengangkutan kapal curah dengan riwayat operasi 30 tahun dan telah menangani kontrak pengangkutan jangka panjang Hyundai Steel selama lebih dari 25 tahun. Pendapatan tahun lalu dilaporkan 77,6 miliar won, dengan armada operasi 311 kapal. Penjualan ini disebut sebagai bagian dari normalisasi segmen transportasi dan logistik. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "c9299ad43138",
     "slug": "하워드-막스-ai-경쟁-과열최후의-승자-예측-어렵다-565044",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "SK Innovation cetak laba operasi 2,1621 triliun won pada kuartal I",
         "excerpt": "SK Innovation menyatakan laba operasi kuartal pertamanya mencapai 2,1621 triliun won, menandai kembalinya perusahaan ke laba.",
         "body": "SK Innovation mencatat laba operasi 2,1621 triliun won pada kuartal pertama dan kembali membukukan laba. Hasil ini menjadi perhatian karena profitabilitas kuartalan perusahaan kembali ke wilayah positif. Informasi utama yang diumumkan adalah laba operasi kuartal pertama sebesar 2,1621 triliun won dan fakta bahwa perusahaan berbalik untung. Perbandingan rinci dengan tahun sebelumnya atau kuartal sebelumnya, serta pendapatan dan laba bersih, berada di luar informasi yang disajikan dalam sumber. Pasar diperkirakan akan memantau apakah perbaikan kinerja dan profitabilitas SK Innovation dapat berlanjut. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "03679d91e5f7",
-    "slug": "내용은-속여도-목소리는-못속여ceo-목소리-분석하는-로베코자산운용kiw-2026-116384",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T22:44:06.964Z",
-    "updatedAt": "2026-05-13T22:44:06.964Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605134061i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605134061i",
-    "titleFingerprint": "4a9706620a61105303b9d5dbec9d0b411825982d",
-    "dedupKeys": [
-      "03679d91e5f79799afba952476754fa3b7877a63",
-      "4a9706620a61105303b9d5dbec9d0b411825982d",
-      "e9fcf4bf455d643650f8e249446d793d25e138bf"
-    ],
-    "imageUrl": "/images/articles/03679d91e5f7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "로베코자산운용 CEO 목소리 분석 주목…KIW 2026서 드러난 투자 단서",
-        "excerpt": "로베코자산운용이 KIW 2026에서 CEO의 발언 내용보다 목소리 분석에 주목하는 투자 접근법을 소개했다고 hankyung.com이 보도했다.",
-        "body": "로베코자산운용이 KIW 2026에서 최고경영자(CEO)의 목소리를 분석하는 투자 접근법을 소개했다고 hankyung.com이 보도했다. 핵심은 “내용은 속여도 목소리는 못 속인다”는 관점이다. 기업 설명이나 실적 발표에서 CEO가 말하는 문장 자체뿐 아니라 목소리에 담긴 변화를 살펴 투자 판단의 참고 신호로 활용한다는 내용이다. 이번 사례는 전통적인 재무제표와 발언 분석을 넘어 경영진 커뮤니케이션의 비언어적 요소까지 투자 분석 대상으로 확장되고 있음을 보여준다. 다만 보도는 해당 접근법의 구체적 성과 수치나 적용 범위를 별도로 제시하지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Robeco’s CEO Voice Analysis Draws Attention at KIW 2026 as an Investment Signal",
-        "excerpt": "Robeco Asset Management introduced at KIW 2026 an investment approach focused on analyzing CEOs’ voices beyond the words they say, hankyung.com reported.",
-        "body": "Robeco Asset Management introduced an investment approach at KIW 2026 that analyzes the voices of chief executives, hankyung.com reported. The key idea is that while the content of a statement may mislead, the voice itself is harder to disguise. In company briefings or earnings presentations, the method looks not only at what a CEO says but also at changes contained in the voice as reference signals for investment judgment. The case shows investment analysis expanding beyond traditional financial statements and spoken remarks into nonverbal elements of executive communication. The report did not provide specific performance figures or the scope of application. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ロベコ資産運用のCEO音声分析に注目、KIW 2026で示された投資シグナル",
-        "excerpt": "ロベコ資産運用がKIW 2026で、CEOの発言内容だけでなく声の分析に注目する投資手法を紹介したとhankyung.comが報じた。",
-        "body": "ロベコ資産運用がKIW 2026で、最高経営責任者（CEO）の声を分析する投資アプローチを紹介したとhankyung.comが報じた。核心は「内容はごまかせても声はごまかせない」という見方だ。企業説明会や決算発表でCEOが話す文章そのものだけでなく、声に含まれる変化を確認し、投資判断の参考シグナルとして活用するという内容である。今回の事例は、従来の財務諸表や発言分析を超え、経営陣コミュニケーションの非言語的要素まで投資分析の対象が広がっていることを示す。ただし報道では、この手法の具体的な成果数値や適用範囲は示されていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "荷宝资管CEO声音分析受关注：KIW 2026展示新的投资线索",
-        "excerpt": "hankyung.com报道称，荷宝资产管理在KIW 2026介绍了一种投资方法，关注的不只是CEO说了什么，还包括其声音分析。",
-        "body": "据hankyung.com报道，荷宝资产管理在KIW 2026介绍了一种分析首席执行官（CEO）声音的投资方法。其核心观点是，“内容可以掩饰，声音却难以掩饰”。在企业说明会或业绩发布中，该方法不仅关注CEO所说的语句本身，也观察声音中包含的变化，并将其作为投资判断的参考信号。该案例显示，投资分析正在从传统财务报表和发言内容，扩展到管理层沟通中的非语言因素。不过，报道并未单独给出该方法的具体业绩数据或适用范围。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Robeco analiza la voz de los CEO: señal de inversión destacada en KIW 2026",
-        "excerpt": "Robeco Asset Management presentó en KIW 2026 un enfoque que analiza la voz de los CEO, más allá del contenido de sus declaraciones, informó hankyung.com.",
-        "body": "Robeco Asset Management presentó en KIW 2026 un enfoque de inversión basado en analizar la voz de los directores ejecutivos, informó hankyung.com. La idea central es que el contenido puede engañar, pero la voz es más difícil de ocultar. En presentaciones corporativas o resultados, el método no observa solo las frases que pronuncia un CEO, sino también los cambios contenidos en su voz como señales de referencia para la decisión de inversión. El caso muestra que el análisis de inversión se está ampliando más allá de los estados financieros tradicionales y los comentarios verbales hacia elementos no verbales de la comunicación directiva. El reporte no detalló cifras concretas de desempeño ni el alcance de aplicación. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Robeco analisa voz de CEOs: sinal de investimento ganha destaque no KIW 2026",
-        "excerpt": "A Robeco Asset Management apresentou no KIW 2026 uma abordagem que analisa a voz de CEOs além do conteúdo das falas, informou o hankyung.com.",
-        "body": "A Robeco Asset Management apresentou no KIW 2026 uma abordagem de investimento que analisa a voz de executivos-chefes, informou o hankyung.com. A ideia central é que o conteúdo pode enganar, mas a voz é mais difícil de disfarçar. Em apresentações corporativas ou divulgações de resultados, o método observa não apenas as frases ditas por um CEO, mas também mudanças presentes na voz como sinais de referência para a decisão de investimento. O caso mostra que a análise de investimentos está se expandindo para além dos demonstrativos financeiros tradicionais e das falas, chegando a elementos não verbais da comunicação da gestão. A reportagem não apresentou números específicos de desempenho nem o escopo de aplicação. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Robeco analysiert CEO-Stimmen: KIW 2026 zeigt neue Hinweise für Anleger",
-        "excerpt": "Robeco Asset Management stellte auf der KIW 2026 einen Ansatz vor, der nicht nur CEO-Aussagen, sondern auch deren Stimme analysiert, berichtete hankyung.com.",
-        "body": "Robeco Asset Management hat auf der KIW 2026 einen Investmentansatz vorgestellt, der die Stimme von Vorstandschefs analysiert, berichtete hankyung.com. Im Mittelpunkt steht die Sichtweise, dass Inhalte täuschen können, die Stimme aber schwerer zu verbergen ist. Bei Unternehmenspräsentationen oder Ergebnisveröffentlichungen betrachtet die Methode nicht nur die Sätze eines CEO, sondern auch Veränderungen in der Stimme als Referenzsignale für Anlageentscheidungen. Der Fall zeigt, dass sich Investmentanalysen über traditionelle Finanzberichte und Aussagen hinaus auf nonverbale Elemente der Managementkommunikation ausweiten. Konkrete Leistungszahlen oder der Anwendungsumfang wurden in dem Bericht nicht genannt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Robeco analyse la voix des CEO: un signal d’investissement mis en avant au KIW 2026",
-        "excerpt": "Robeco Asset Management a présenté au KIW 2026 une approche qui analyse la voix des CEO au-delà du contenu de leurs propos, selon hankyung.com.",
-        "body": "Robeco Asset Management a présenté au KIW 2026 une approche d’investissement fondée sur l’analyse de la voix des dirigeants, a rapporté hankyung.com. L’idée centrale est que le contenu peut tromper, tandis que la voix est plus difficile à masquer. Lors de présentations d’entreprise ou de publications de résultats, la méthode examine non seulement les phrases prononcées par un CEO, mais aussi les changements contenus dans sa voix comme signaux de référence pour la décision d’investissement. Ce cas montre que l’analyse d’investissement s’étend au-delà des états financiers traditionnels et des déclarations vers les éléments non verbaux de la communication des dirigeants. Le reportage n’a pas fourni de chiffres précis de performance ni de périmètre d’application. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "روبيكو تحلل أصوات الرؤساء التنفيذيين: إشارة استثمارية برزت في KIW 2026",
-        "excerpt": "قدمت روبيكو لإدارة الأصول في KIW 2026 نهجا استثماريا يركز على تحليل أصوات الرؤساء التنفيذيين بجانب مضمون تصريحاتهم، وفق hankyung.com.",
-        "body": "ذكرت hankyung.com أن روبيكو لإدارة الأصول قدمت في KIW 2026 نهجا استثماريا يقوم على تحليل أصوات الرؤساء التنفيذيين. وتقوم الفكرة الأساسية على أن مضمون الكلام قد يكون مضللا، لكن الصوت يصعب إخفاء دلالاته. ففي العروض التعريفية للشركات أو إعلانات النتائج، لا تنظر الطريقة إلى الجمل التي يقولها الرئيس التنفيذي فقط، بل تتابع أيضا التغيرات الموجودة في الصوت باعتبارها إشارات مرجعية لقرار الاستثمار. وتظهر هذه الحالة أن تحليل الاستثمار يتوسع من القوائم المالية التقليدية وتحليل التصريحات إلى العناصر غير اللفظية في تواصل الإدارة. ولم يورد التقرير أرقاما محددة للأداء أو نطاق التطبيق. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Robeco ने CEO की आवाज का विश्लेषण दिखाया: KIW 2026 में निवेश संकेत पर जोर",
-        "excerpt": "Robeco Asset Management ने KIW 2026 में CEO के शब्दों से आगे जाकर उनकी आवाज का विश्लेषण करने वाला निवेश दृष्टिकोण पेश किया, hankyung.com ने बताया।",
-        "body": "hankyung.com के अनुसार, Robeco Asset Management ने KIW 2026 में मुख्य कार्यकारी अधिकारियों की आवाज का विश्लेषण करने वाला निवेश दृष्टिकोण पेश किया। इसका मुख्य विचार है कि बयान की सामग्री भ्रामक हो सकती है, लेकिन आवाज को छिपाना कठिन है। कंपनी प्रस्तुतियों या आय परिणामों में यह तरीका CEO द्वारा बोले गए वाक्यों के साथ-साथ आवाज में मौजूद बदलावों को भी निवेश निर्णय के संदर्भ संकेत के रूप में देखता है। यह मामला दिखाता है कि निवेश विश्लेषण पारंपरिक वित्तीय विवरणों और बयान विश्लेषण से आगे बढ़कर प्रबंधन संचार के गैर-मौखिक तत्वों तक फैल रहा है। रिपोर्ट में इस दृष्टिकोण के ठोस प्रदर्शन आंकड़े या लागू दायरा अलग से नहीं बताया गया। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Robeco Analisis Suara CEO: Sinyal Investasi Jadi Sorotan di KIW 2026",
-        "excerpt": "Robeco Asset Management memperkenalkan di KIW 2026 pendekatan investasi yang menganalisis suara CEO, bukan hanya isi pernyataannya, lapor hankyung.com.",
-        "body": "Robeco Asset Management memperkenalkan di KIW 2026 pendekatan investasi yang menganalisis suara chief executive officer, lapor hankyung.com. Intinya adalah pandangan bahwa isi pernyataan bisa menyesatkan, tetapi suara lebih sulit disamarkan. Dalam paparan perusahaan atau pengumuman kinerja, metode ini tidak hanya melihat kalimat yang diucapkan CEO, tetapi juga perubahan dalam suara sebagai sinyal referensi untuk keputusan investasi. Kasus ini menunjukkan bahwa analisis investasi meluas dari laporan keuangan tradisional dan analisis pernyataan ke unsur nonverbal dalam komunikasi manajemen. Laporan tersebut tidak menyajikan angka kinerja spesifik atau cakupan penerapannya. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "608d097f1c0c",
-    "slug": "김지평-김앤장-변호사-상법개정안으로-소송-위험절차적-투명성-가장-중요-kiw-2026-688853",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T22:43:10.554Z",
-    "updatedAt": "2026-05-13T22:43:10.554Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605133921i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605133921i",
-    "titleFingerprint": "957bfc85fe55332284583b43764e5b3d21dbfe22",
-    "dedupKeys": [
-      "608d097f1c0c961d3fe284645cfc0a02c06daeb3",
-      "957bfc85fe55332284583b43764e5b3d21dbfe22",
-      "de4699b7a99da760224e8cc0a8dc63e937c85444"
-    ],
-    "imageUrl": "/images/articles/608d097f1c0c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "상법개정안 소송 위험 커진다…김지평 변호사, 절차 투명성 강조",
-        "excerpt": "김지평 김앤장 변호사는 KIW 2026에서 상법개정안으로 기업의 소송 위험이 커질 수 있다며 절차적 투명성이 가장 중요하다고 밝혔다.",
-        "body": "김지평 김앤장 변호사는 KIW 2026에서 상법개정안이 기업 현장에 미칠 영향과 관련해 소송 위험이 커질 수 있다고 밝혔다. 그는 법 개정 논의가 기업 의사결정 과정과 주주 대응 방식에 직접적인 부담으로 작용할 수 있다는 점을 짚었다. 핵심은 절차적 투명성이다. 의사결정의 근거와 과정을 명확히 남기고, 이해관계자에게 설명 가능한 절차를 갖추는 것이 향후 분쟁 가능성을 줄이는 데 중요하다는 취지다. 이번 발언은 상법개정안을 둘러싼 기업 지배구조와 법적 책임 논의가 이어지는 가운데 나왔다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Commercial Act Revision May Raise Litigation Risk, Kim & Chang Lawyer Warns",
-        "excerpt": "At KIW 2026, Kim & Chang attorney Kim Ji-pyeong said the proposed Commercial Act revision could increase corporate litigation risk, making procedural transparency crucial.",
-        "body": "Kim Ji-pyeong, an attorney at Kim & Chang, said at KIW 2026 that the proposed revision to the Commercial Act could increase litigation risks for companies. He noted that the legal changes under discussion may place a direct burden on corporate decision-making and responses to shareholders. The key point, he said, is procedural transparency. Clearly documenting the basis and process of decisions and maintaining procedures that can be explained to stakeholders are important to reducing future disputes. His remarks came as debate continues over corporate governance and legal responsibility linked to the Commercial Act revision. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "商法改正案で訴訟リスク増加も、金・張の金志平弁護士が警告",
-        "excerpt": "金・張法律事務所の金志平弁護士はKIW 2026で、商法改正案により企業の訴訟リスクが高まり得るとして、手続きの透明性が最も重要だと述べた。",
-        "body": "金・張法律事務所の金志平弁護士はKIW 2026で、商法改正案が企業現場に及ぼす影響について、訴訟リスクが高まる可能性があると述べた。同氏は、法改正の議論が企業の意思決定過程や株主対応に直接的な負担として作用し得る点を指摘した。核心は手続きの透明性だ。意思決定の根拠と過程を明確に残し、利害関係者に説明可能な手続きを整えることが、今後の紛争可能性を下げるうえで重要だという趣旨だ。今回の発言は、商法改正案をめぐる企業統治と法的責任の議論が続くなかで出た。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "商法修订案或推高诉讼风险，金·张律师金志平强调程序透明",
-        "excerpt": "金·张律师事务所律师金志平在KIW 2026表示，商法修订案可能增加企业诉讼风险，程序透明性最为重要。",
-        "body": "金·张律师事务所律师金志平在KIW 2026上表示，商法修订案可能对企业现场产生影响，并使诉讼风险上升。他指出，相关修法讨论可能直接加重企业决策过程和股东应对方式的负担。核心在于程序透明性。明确保留决策依据和过程，并建立能够向利益相关方说明的程序，对于降低未来争议可能性具有重要意义。上述发言出现在围绕商法修订案的公司治理和法律责任讨论持续进行之际。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Reforma de la Ley Comercial elevaría riesgo legal, advierte abogado de Kim & Chang",
-        "excerpt": "Kim Ji-pyeong, abogado de Kim & Chang, dijo en KIW 2026 que la reforma de la Ley Comercial podría aumentar el riesgo de litigios para empresas y que la transparencia procesal es clave.",
-        "body": "Kim Ji-pyeong, abogado de Kim & Chang, afirmó en KIW 2026 que la propuesta de reforma de la Ley Comercial podría aumentar el riesgo de litigios para las empresas. Señaló que el debate sobre la modificación legal puede convertirse en una carga directa para los procesos de toma de decisiones corporativas y la forma de responder a los accionistas. El punto central, dijo, es la transparencia procesal. Dejar claramente documentados la base y el proceso de las decisiones, y contar con procedimientos explicables ante las partes interesadas, es importante para reducir posibles disputas futuras. Sus comentarios se produjeron mientras continúa el debate sobre gobierno corporativo y responsabilidad legal en torno a la reforma. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Revisão da Lei Comercial pode elevar risco de ações, diz advogado da Kim & Chang",
-        "excerpt": "Kim Ji-pyeong, advogado da Kim & Chang, afirmou no KIW 2026 que a revisão da Lei Comercial pode aumentar o risco de litígios para empresas, tornando essencial a transparência processual.",
-        "body": "Kim Ji-pyeong, advogado da Kim & Chang, disse no KIW 2026 que a proposta de revisão da Lei Comercial pode aumentar os riscos de litígio para as empresas. Ele observou que a discussão sobre a mudança legal pode impor um ônus direto aos processos de decisão corporativa e às respostas aos acionistas. O ponto central é a transparência processual. Registrar de forma clara a base e o processo das decisões, além de manter procedimentos explicáveis às partes interessadas, é importante para reduzir a possibilidade de disputas futuras. A declaração ocorre em meio ao debate sobre governança corporativa e responsabilidade legal ligado à revisão da Lei Comercial. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Handelsgesetz-Reform könnte Klagerisiken erhöhen, warnt Kim-&-Chang-Anwalt",
-        "excerpt": "Kim Ji-pyeong von Kim & Chang sagte auf der KIW 2026, die geplante Reform des Handelsgesetzes könne Klagerisiken für Unternehmen erhöhen; entscheidend sei prozedurale Transparenz.",
-        "body": "Kim Ji-pyeong, Anwalt bei Kim & Chang, sagte auf der KIW 2026, die geplante Änderung des Handelsgesetzes könne die Klagerisiken für Unternehmen erhöhen. Er wies darauf hin, dass die laufende Reformdebatte die Entscheidungsprozesse von Unternehmen und den Umgang mit Aktionären direkt belasten könne. Entscheidend sei prozedurale Transparenz. Die Grundlage und der Ablauf von Entscheidungen müssten klar dokumentiert werden, und Verfahren sollten gegenüber Interessengruppen erklärbar sein, um künftige Streitigkeiten zu verringern. Die Äußerung fiel, während die Diskussion über Corporate Governance und rechtliche Verantwortung im Zusammenhang mit der Reform weitergeht. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "La réforme du droit commercial pourrait accroître les litiges, selon Kim & Chang",
-        "excerpt": "Kim Ji-pyeong, avocat chez Kim & Chang, a déclaré lors du KIW 2026 que la réforme du droit commercial pourrait accroître le risque de contentieux pour les entreprises, rendant la transparence procédurale essentielle.",
-        "body": "Kim Ji-pyeong, avocat chez Kim & Chang, a déclaré lors du KIW 2026 que le projet de révision du droit commercial pourrait accroître les risques de contentieux pour les entreprises. Il a souligné que le débat sur cette réforme pouvait peser directement sur les processus de décision des entreprises et leur manière de répondre aux actionnaires. Le point central est la transparence procédurale. Documenter clairement les bases et le processus des décisions, et disposer de procédures explicables aux parties prenantes, est important pour réduire les différends futurs. Ces propos interviennent alors que se poursuivent les discussions sur la gouvernance d’entreprise et la responsabilité juridique liées à cette réforme. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "تعديل قانون التجارة قد يرفع مخاطر الدعاوى، ومحامي كيم آند تشانغ يؤكد الشفافية",
-        "excerpt": "قال المحامي كيم جي بيونغ من كيم آند تشانغ في KIW 2026 إن تعديل قانون التجارة قد يزيد مخاطر التقاضي على الشركات، وإن الشفافية الإجرائية هي الأهم.",
-        "body": "قال كيم جي بيونغ، المحامي في كيم آند تشانغ، خلال KIW 2026 إن مشروع تعديل قانون التجارة قد يزيد مخاطر التقاضي على الشركات. وأشار إلى أن نقاشات تعديل القانون قد تشكل عبئا مباشرا على عملية اتخاذ القرار داخل الشركات وعلى طريقة التعامل مع المساهمين. والنقطة المحورية هي الشفافية الإجرائية. فتوثيق أساس القرارات ومسارها بوضوح، وامتلاك إجراءات يمكن شرحها لأصحاب المصلحة، أمر مهم لتقليل احتمال النزاعات مستقبلا. وجاءت هذه التصريحات في وقت تتواصل فيه النقاشات حول حوكمة الشركات والمسؤولية القانونية المرتبطة بتعديل قانون التجارة. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "वाणिज्यिक कानून संशोधन से मुकदमेबाजी जोखिम बढ़ सकता है: किम एंड चांग वकील",
-        "excerpt": "किम एंड चांग के वकील किम जी-प्योंग ने KIW 2026 में कहा कि वाणिज्यिक कानून संशोधन से कंपनियों का मुकदमेबाजी जोखिम बढ़ सकता है और प्रक्रियागत पारदर्शिता सबसे अहम है।",
-        "body": "किम एंड चांग के वकील किम जी-प्योंग ने KIW 2026 में कहा कि वाणिज्यिक कानून संशोधन प्रस्ताव कंपनियों पर प्रभाव डाल सकता है और मुकदमेबाजी का जोखिम बढ़ा सकता है। उन्होंने बताया कि कानून संशोधन पर चर्चा कंपनियों की निर्णय प्रक्रिया और शेयरधारकों को जवाब देने के तरीके पर सीधा बोझ बन सकती है। मुख्य बात प्रक्रियागत पारदर्शिता है। निर्णयों के आधार और प्रक्रिया को स्पष्ट रूप से दर्ज करना तथा हितधारकों को समझाई जा सकने वाली प्रक्रिया रखना भविष्य के विवादों की संभावना घटाने के लिए महत्वपूर्ण है। यह टिप्पणी वाणिज्यिक कानून संशोधन से जुड़े कॉरपोरेट गवर्नेंस और कानूनी जिम्मेदारी पर जारी चर्चा के बीच आई। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Revisi UU Dagang Bisa Naikkan Risiko Gugatan, Pengacara Kim & Chang Ingatkan",
-        "excerpt": "Kim Ji-pyeong, pengacara Kim & Chang, mengatakan di KIW 2026 bahwa revisi UU Dagang dapat meningkatkan risiko gugatan bagi perusahaan, sehingga transparansi prosedural menjadi paling penting.",
-        "body": "Kim Ji-pyeong, pengacara Kim & Chang, mengatakan di KIW 2026 bahwa rancangan revisi UU Dagang dapat meningkatkan risiko litigasi bagi perusahaan. Ia menilai pembahasan perubahan hukum itu dapat menjadi beban langsung bagi proses pengambilan keputusan perusahaan dan cara merespons pemegang saham. Intinya adalah transparansi prosedural. Mencatat dasar dan proses keputusan secara jelas, serta memiliki prosedur yang dapat dijelaskan kepada para pemangku kepentingan, penting untuk mengurangi potensi sengketa di masa depan. Pernyataan ini muncul saat diskusi tentang tata kelola perusahaan dan tanggung jawab hukum terkait revisi UU Dagang terus berlangsung. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "db7101a71151",
-    "slug": "199만닉스에-환호코스피-사상-최고가-또-갈아치웠다-340181",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-13T22:42:14.902Z",
-    "updatedAt": "2026-05-13T22:42:14.902Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051339616",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051339616",
-    "titleFingerprint": "d5d5b7ee98e8fce447ed5441c20c1f0052dbec8c",
-    "dedupKeys": [
-      "db7101a71151cf21411b96323f113b93f574e156",
-      "d5d5b7ee98e8fce447ed5441c20c1f0052dbec8c",
-      "cde29b7b3abc19764b76d61ec8029c741df92426"
-    ],
-    "imageUrl": "/images/articles/db7101a71151.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 사상 최고가 재경신, SK하이닉스 199만원 근접에 개인·기관 매수세 집중",
-        "excerpt": "13일 코스피가 미국 인플레이션 우려와 기술주 약세를 딛고 2.63% 오른 7844.01에 마감하며 종가 기준 사상 최고가를 2거래일 만에 다시 썼다.",
-        "body": "13일 코스피지수는 전 거래일보다 200.86포인트, 2.63% 오른 7844.01로 마감하며 종가 기준 사상 최고가를 2거래일 만에 다시 경신했다. 장 초반에는 미국 인플레이션 우려와 기술주 약세 여파로 7400선까지 밀렸지만, 이후 개인과 기관 매수세가 유입되며 상승 전환했다. 유가증권시장에서 개인은 1조8870억원, 기관은 1조6870억원어치를 순매수했고 외국인은 3조7230억원 매도 우위를 보였다. 삼성전자는 1.79% 오른 28만4000원, SK하이닉스는 7.68% 상승한 197만6000원에 마감했다. SK하이닉스는 장중 199만원까지 올라 200만원 돌파를 눈앞에 뒀다. 코스닥은 0.20% 내린 1176.93, 원·달러 환율은 0.7원 오른 1490.6원에 주간거래를 마쳤다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KOSPI Hits Record Close Again as SK Hynix Nears 1.99 Million Won",
-        "excerpt": "On May 13, the KOSPI overcame U.S. inflation worries and tech-share weakness to close 2.63% higher at 7,844.01, setting a new record closing high after two sessions.",
-        "body": "On May 13, the KOSPI closed at 7,844.01, up 200.86 points, or 2.63%, from the previous session, renewing its all-time closing high after two trading days. Early in the session, the index fell toward the 7,400 level amid U.S. inflation concerns and weakness in technology shares, but it turned higher as buying by retail and institutional investors came in. In the main KOSPI market, retail investors bought a net 1.887 trillion won and institutions bought 1.687 trillion won, while foreigners sold a net 3.723 trillion won. Samsung Electronics rose 1.79% to 284,000 won, and SK Hynix gained 7.68% to 1,976,000 won. SK Hynix touched 1.99 million won intraday, putting the 2 million won mark in sight. The KOSDAQ slipped 0.20% to 1,176.93, and the won-dollar rate ended daytime trading at 1,490.6 won, up 0.7 won. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "KOSPIが終値で最高値更新、SKハイニックス199万ウォン接近で買い優勢",
-        "excerpt": "13日のKOSPIは米インフレ懸念とハイテク株安を乗り越え、2.63%高の7844.01で終了し、2営業日ぶりに終値ベースの最高値を更新した。",
-        "body": "13日のKOSPI指数は前営業日比200.86ポイント、2.63%高の7844.01で取引を終え、終値ベースの過去最高値を2営業日ぶりに更新した。序盤は米国のインフレ懸念とハイテク株安の影響で7400台まで下げたが、その後、個人投資家と機関投資家の買いが入り上昇に転じた。有価証券市場では個人が1兆8870億ウォン、機関が1兆6870億ウォンを買い越し、外国人は3兆7230億ウォンの売り越しだった。サムスン電子は1.79%高の28万4000ウォン、SKハイニックスは7.68%高の197万6000ウォンで終了した。SKハイニックスは取引時間中に199万ウォンまで上昇し、200万ウォン突破を目前にした。KOSDAQは0.20%安の1176.93、ウォン・ドル相場は0.7ウォン高の1490.6ウォンで日中取引を終えた。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "KOSPI再创收盘新高，SK海力士逼近199万韩元提振人气",
-        "excerpt": "13日，KOSPI克服美国通胀担忧和科技股走弱影响，收涨2.63%至7844.01，时隔两个交易日再创收盘历史新高。",
-        "body": "13日，KOSPI指数较上一交易日上涨200.86点，涨幅2.63%，收于7844.01，时隔两个交易日再次刷新收盘历史高点。当天早盘，受美国通胀担忧和科技股疲弱影响，指数一度跌至7400点一线，但随后在个人和机构投资者买盘流入下转为上涨。在韩国主板市场，个人净买入1.887万亿韩元，机构净买入1.687万亿韩元，外国投资者净卖出3.723万亿韩元。三星电子上涨1.79%，收于28.4万韩元；SK海力士上涨7.68%，收于197.6万韩元。SK海力士盘中一度升至199万韩元，距离突破200万韩元仅一步之遥。KOSDAQ下跌0.20%，收于1176.93；韩元兑美元汇率日间交易收于1490.6韩元，较前一日上涨0.7韩元。来源: hankyung.com"
-      },
-      "es": {
-        "title": "KOSPI marca otro récord de cierre mientras SK Hynix roza 1,99 millones de wones",
-        "excerpt": "El 13 de mayo, el KOSPI superó la preocupación por la inflación en EE. UU. y la debilidad tecnológica, subió 2,63% a 7.844,01 y renovó su récord de cierre.",
-        "body": "El 13 de mayo, el índice KOSPI cerró en 7.844,01 puntos, 200,86 puntos o 2,63% por encima de la sesión anterior, y volvió a marcar un máximo histórico de cierre después de dos jornadas. Al inicio cayó hacia la zona de 7.400 por la preocupación sobre la inflación en Estados Unidos y la debilidad de las acciones tecnológicas, pero luego giró al alza por compras de inversores minoristas e institucionales. En el mercado principal, los particulares compraron neto 1,887 billones de wones y las instituciones 1,687 billones, mientras que los extranjeros vendieron neto 3,723 billones. Samsung Electronics subió 1,79% a 284.000 wones y SK Hynix avanzó 7,68% a 1.976.000 wones. SK Hynix tocó 1,99 millones de wones intradía, cerca de los 2 millones. El KOSDAQ bajó 0,20% a 1.176,93 y el won-dólar cerró la sesión diurna en 1.490,6 wones, 0,7 wones más. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "KOSPI renova máxima de fechamento com SK Hynix perto de 1,99 milhão de won",
-        "excerpt": "Em 13 de maio, o KOSPI superou temores de inflação nos EUA e fraqueza em tecnologia, subiu 2,63% para 7.844,01 e renovou a máxima histórica de fechamento.",
-        "body": "Em 13 de maio, o índice KOSPI fechou em 7.844,01 pontos, alta de 200,86 pontos, ou 2,63%, ante a sessão anterior, renovando a máxima histórica de fechamento após dois pregões. No início, o índice caiu para a faixa dos 7.400 pontos, pressionado por preocupações com a inflação nos Estados Unidos e pela fraqueza das ações de tecnologia, mas virou para alta com compras de investidores individuais e institucionais. No mercado principal, pessoas físicas compraram líquido 1,887 trilhão de won, e instituições, 1,687 trilhão; estrangeiros venderam líquido 3,723 trilhões. Samsung Electronics subiu 1,79% para 284.000 won, e SK Hynix avançou 7,68% para 1.976.000 won. A SK Hynix chegou a 1,99 milhão de won no intradia, perto da marca de 2 milhões. O KOSDAQ caiu 0,20% para 1.176,93, e o câmbio won-dólar encerrou o pregão diurno a 1.490,6 won, alta de 0,7 won. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KOSPI erreicht neues Rekordhoch zum Schluss, SK Hynix nähert sich 1,99 Mio. Won",
-        "excerpt": "Am 13. Mai überwand der KOSPI US-Inflationssorgen und schwache Technologiewerte, stieg um 2,63% auf 7.844,01 Punkte und markierte ein neues Schlussrekordhoch.",
-        "body": "Am 13. Mai schloss der KOSPI bei 7.844,01 Punkten, 200,86 Punkte oder 2,63% höher als am Vortag, und erneuerte nach zwei Handelstagen sein Allzeithoch auf Schlusskursbasis. Zu Beginn fiel der Index wegen US-Inflationssorgen und schwacher Technologiewerte bis in den Bereich von 7.400 Punkten, drehte später aber durch Käufe privater und institutioneller Anleger ins Plus. Am Hauptmarkt kauften Privatanleger netto für 1,887 Billionen Won und Institutionelle für 1,687 Billionen Won, während Ausländer netto für 3,723 Billionen Won verkauften. Samsung Electronics stieg um 1,79% auf 284.000 Won, SK Hynix um 7,68% auf 1.976.000 Won. SK Hynix erreichte im Tagesverlauf 1,99 Millionen Won und rückte damit an die Marke von 2 Millionen Won heran. Der KOSDAQ fiel um 0,20% auf 1.176,93, der Won-Dollar-Kurs beendete den Tageshandel bei 1.490,6 Won, 0,7 Won höher. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le KOSPI inscrit un nouveau record de clôture, SK Hynix approche 1,99 million de wons",
-        "excerpt": "Le 13 mai, le KOSPI a surmonté les craintes d’inflation américaine et la faiblesse technologique, gagnant 2,63% à 7 844,01 pour un nouveau record de clôture.",
-        "body": "Le 13 mai, l’indice KOSPI a clôturé à 7 844,01 points, en hausse de 200,86 points, soit 2,63%, par rapport à la séance précédente, renouvelant son record historique de clôture après deux séances. En début de journée, l’indice était tombé vers les 7 400 points sous l’effet des inquiétudes liées à l’inflation américaine et de la faiblesse des valeurs technologiques, avant de repasser dans le vert grâce aux achats des investisseurs particuliers et institutionnels. Sur le marché principal, les particuliers ont acheté net 1 887 milliards de wons et les institutions 1 687 milliards, tandis que les étrangers ont vendu net 3 723 milliards. Samsung Electronics a gagné 1,79% à 284 000 wons et SK Hynix 7,68% à 1 976 000 wons. SK Hynix a atteint 1,99 million de wons en séance, tout près du seuil des 2 millions. Le KOSDAQ a reculé de 0,20% à 1 176,93, et le taux won-dollar a fini la séance de jour à 1 490,6 wons, en hausse de 0,7 won. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كوسبي يسجل إغلاقا قياسيا جديدا مع اقتراب SK Hynix من 1.99 مليون وون",
-        "excerpt": "في 13 مايو، تجاوز مؤشر كوسبي مخاوف التضخم الأميركية وضعف أسهم التكنولوجيا، وأغلق مرتفعا 2.63% عند 7844.01 نقطة مسجلا رقما قياسيا جديدا للإغلاق.",
-        "body": "في 13 مايو، أغلق مؤشر كوسبي عند 7844.01 نقطة، مرتفعا 200.86 نقطة أو 2.63% عن الجلسة السابقة، ليجدد أعلى مستوى إغلاق تاريخي بعد جلستين. في بداية التداول، تراجع المؤشر إلى نطاق 7400 نقطة بفعل مخاوف التضخم في الولايات المتحدة وضعف أسهم التكنولوجيا، لكنه تحول لاحقا إلى الصعود مع دخول مشتريات من المستثمرين الأفراد والمؤسسات. في السوق الرئيسية، بلغ صافي شراء الأفراد 1.887 تريليون وون، والمؤسسات 1.687 تريليون وون، بينما سجل الأجانب صافي بيع قدره 3.723 تريليون وون. ارتفع سهم سامسونغ إلكترونيكس 1.79% إلى 284 ألف وون، وصعد SK Hynix بنسبة 7.68% إلى 1,976,000 وون. ولامس SK Hynix خلال الجلسة 1.99 مليون وون، مقتربا من مستوى مليوني وون. تراجع كوسداك 0.20% إلى 1176.93، وأنهى سعر الوون مقابل الدولار التداول النهاري عند 1490.6 وون، بارتفاع 0.7 وون. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KOSPI ने फिर बनाया रिकॉर्ड क्लोज, SK Hynix 19.9 लाख वॉन के करीब",
-        "excerpt": "13 मई को KOSPI ने अमेरिकी महंगाई चिंता और टेक शेयरों की कमजोरी को पीछे छोड़ 2.63% बढ़कर 7,844.01 पर बंद हुआ और दो सत्रों बाद नया रिकॉर्ड क्लोज बनाया।",
-        "body": "13 मई को KOSPI सूचकांक पिछले सत्र से 200.86 अंक, यानी 2.63% बढ़कर 7,844.01 पर बंद हुआ और दो कारोबारी सत्रों बाद फिर से रिकॉर्ड क्लोजिंग स्तर पर पहुंचा। शुरुआती कारोबार में अमेरिकी महंगाई चिंता और टेक शेयरों की कमजोरी के कारण सूचकांक 7,400 के स्तर तक फिसला, लेकिन बाद में खुदरा और संस्थागत निवेशकों की खरीदारी से तेजी में लौट आया। मुख्य बाजार में खुदरा निवेशकों ने शुद्ध 1.887 ट्रिलियन वॉन और संस्थानों ने 1.687 ट्रिलियन वॉन की खरीदारी की, जबकि विदेशी निवेशकों ने शुद्ध 3.723 ट्रिलियन वॉन की बिक्री की। Samsung Electronics 1.79% बढ़कर 284,000 वॉन पर और SK Hynix 7.68% चढ़कर 1,976,000 वॉन पर बंद हुआ। SK Hynix दिन में 1.99 मिलियन वॉन तक गया, जिससे 2 मिलियन वॉन का स्तर करीब आ गया। KOSDAQ 0.20% गिरकर 1,176.93 पर रहा, और वॉन-डॉलर दर 0.7 वॉन बढ़कर 1,490.6 वॉन पर दिन का कारोबार खत्म कर गई। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "KOSPI Cetak Rekor Penutupan Lagi saat SK Hynix Dekati 1,99 Juta Won",
-        "excerpt": "Pada 13 Mei, KOSPI mengatasi kekhawatiran inflasi AS dan pelemahan saham teknologi, naik 2,63% ke 7.844,01, serta mencetak rekor penutupan baru.",
-        "body": "Pada 13 Mei, indeks KOSPI ditutup di 7.844,01, naik 200,86 poin atau 2,63% dari sesi sebelumnya, dan kembali memperbarui rekor tertinggi penutupan setelah dua hari perdagangan. Di awal sesi, indeks sempat turun ke area 7.400 karena kekhawatiran inflasi Amerika Serikat dan pelemahan saham teknologi, tetapi kemudian berbalik naik setelah masuknya pembelian dari investor ritel dan institusi. Di pasar utama, investor ritel membukukan beli bersih 1,887 triliun won dan institusi 1,687 triliun won, sementara investor asing mencatat jual bersih 3,723 triliun won. Samsung Electronics naik 1,79% ke 284.000 won, sedangkan SK Hynix menguat 7,68% ke 1.976.000 won. SK Hynix sempat menyentuh 1,99 juta won intrahari, mendekati level 2 juta won. KOSDAQ turun 0,20% ke 1.176,93, dan kurs won-dolar menutup perdagangan siang di 1.490,6 won, naik 0,7 won. Sumber: hankyung.com"
       }
     }
   }
