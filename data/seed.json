@@ -1,5 +1,230 @@
 [
   {
+    "id": "cd7710d9b9e8",
+    "slug": "우량주-뛰자채권혼합-etf-뭉칫돈-753659",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T16:36:20.383Z",
+    "updatedAt": "2026-05-15T16:36:20.383Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051598481",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051598481",
+    "titleFingerprint": "d05366aaaa232ecd7285d417b236605ff6635593",
+    "dedupKeys": [
+      "cd7710d9b9e8961d51f1d8005b2dbaa6e809a68e",
+      "d05366aaaa232ecd7285d417b236605ff6635593",
+      "681f8bcb8edeff356711e68b64dc73a3e79745bc"
+    ],
+    "imageUrl": "/images/articles/cd7710d9b9e8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "채권혼합 ETF에 뭉칫돈, 우량주 상승에 순자산 14조원 돌파",
+        "excerpt": "5월 15일 금융투자업계에 따르면 국내 우량주와 채권을 절반씩 담은 채권혼합형 ETF에 자금이 몰리며 시장 순자산이 5개월 새 14조원대로 커졌다.",
+        "body": "15일 금융투자업계에 따르면 국내 우량주와 채권을 절반씩 섞은 채권혼합형 상장지수펀드(ETF)에 뭉칫돈이 유입됐다. AI 반도체 랠리로 삼성전자와 SK하이닉스를 담은 상품이 인기를 끌자 현대차 등으로 편입 종목을 넓힌 신규 상품도 나오고 있다. 우리자산운용은 다음달 초 삼성전자와 현대차에 각각 25% 투자하는 WON 삼성전자현대차채권혼합50 상장을 준비 중이다. 채권혼합형 ETF 순자산은 작년 말 6조617억원에서 전날 14조1306억원으로 늘었고, 상장 상품은 35개에서 43개가 됐다. 출처: hankyung.com https://www.hankyung.com/article/2026051598481"
+      },
+      "en": {
+        "title": "Bond-mixed ETFs draw large inflows as Korean blue chips rally",
+        "excerpt": "On May 15, the financial investment industry said funds flowed into ETFs split between Korean blue-chip stocks and bonds, lifting market net assets to over 14 trillion won in five months.",
+        "body": "According to the financial investment industry on May 15, large amounts of money flowed into bond-mixed exchange-traded funds that divide assets equally between Korean blue-chip stocks and bonds. Products holding Samsung Electronics and SK hynix gained popularity amid the AI semiconductor rally, prompting new listings that expand holdings to names such as Hyundai Motor. Woori Asset Management plans to list WON Samsung Electronics Hyundai Motor Bond Mixed 50 early next month, investing 25% each in Samsung Electronics and Hyundai Motor. Net assets in the bond-mixed ETF market rose from 6.0617 trillion won at the end of last year to 14.1306 trillion won the previous day, while listed products increased from 35 to 43. Source: hankyung.com https://www.hankyung.com/article/2026051598481"
+      },
+      "ja": {
+        "title": "債券混合ETFに大口資金、韓国優良株上昇で純資産14兆ウォン台",
+        "excerpt": "5月15日、金融投資業界によると、韓国優良株と債券を半分ずつ組み入れる債券混合型ETFに資金が流入し、市場純資産は5カ月で14兆ウォン台に拡大した。",
+        "body": "5月15日、金融投資業界によると、韓国の優良株と債券を半分ずつ組み合わせた債券混合型上場投資信託（ETF）に大口資金が流入した。AI半導体ラリーを背景に、サムスン電子とSKハイニックスを組み入れた商品が人気を集め、現代自動車などへ投資対象を広げる新商品も相次いでいる。ウリ資産運用は来月初め、サムスン電子と現代自動車にそれぞれ25%投資する「WONサムスン電子現代自動車債券混合50」の上場を準備している。債券混合型ETFの純資産は昨年末の6兆617億ウォンから前日時点で14兆1306億ウォンに増え、上場商品数も35本から43本になった。出典: hankyung.com https://www.hankyung.com/article/2026051598481"
+      },
+      "zh": {
+        "title": "债券混合ETF获大额资金流入，韩优质股上涨推高规模",
+        "excerpt": "5月15日，金融投资业界称，资金流入同时配置韩国优质股和债券的债券混合型ETF，市场净资产在五个月内扩大至14万亿韩元以上。",
+        "body": "据金融投资业界5月15日消息，将韩国优质股与债券各配置一半的债券混合型交易所交易基金（ETF）出现大额资金流入。受AI半导体行情带动，持有三星电子和SK海力士的产品受到欢迎，纳入现代汽车等股票的新产品也在推出。友利资产运用计划下月初上市“WON三星电子现代汽车债券混合50”，该产品分别投资三星电子和现代汽车25%。债券混合型ETF市场净资产从去年底的6.0617万亿韩元增至前一日的14.1306万亿韩元，上市产品数量也从35只增至43只。来源: hankyung.com https://www.hankyung.com/article/2026051598481"
+      },
+      "es": {
+        "title": "Los ETF mixtos de bonos captan grandes flujos por el repunte de blue chips coreanas",
+        "excerpt": "El 15 de mayo, la industria financiera indicó que los ETF mixtos que combinan acciones coreanas de calidad y bonos atrajeron fondos, elevando sus activos netos a más de 14 billones de wones.",
+        "body": "Según la industria de inversión financiera el 15 de mayo, entraron grandes sumas en fondos cotizados mixtos de bonos que reparten sus activos entre acciones coreanas de primera línea y renta fija. Los productos con Samsung Electronics y SK hynix ganaron demanda gracias al rally de semiconductores ligados a la IA, y también aparecen nuevos fondos que amplían las carteras a valores como Hyundai Motor. Woori Asset Management prepara para comienzos del próximo mes la salida a bolsa de WON Samsung Electronics Hyundai Motor Bond Mixed 50, que invertirá un 25% en cada compañía. Los activos netos del mercado pasaron de 6,0617 billones de wones a finales del año pasado a 14,1306 billones el día anterior, y los productos listados subieron de 35 a 43. Fuente: hankyung.com https://www.hankyung.com/article/2026051598481"
+      },
+      "pt": {
+        "title": "ETFs mistos de bonds atraem dinheiro com alta das blue chips coreanas",
+        "excerpt": "Em 15 de maio, o setor financeiro informou que ETFs mistos com ações coreanas de qualidade e títulos receberam recursos, levando os ativos líquidos do mercado a mais de 14 trilhões de won.",
+        "body": "Segundo o setor de investimento financeiro em 15 de maio, grandes volumes de dinheiro entraram em ETFs mistos de renda fixa que dividem a carteira entre ações coreanas de primeira linha e títulos. Produtos com Samsung Electronics e SK hynix ganharam popularidade com a alta dos semicondutores ligados à IA, enquanto novos fundos ampliam a composição para nomes como Hyundai Motor. A Woori Asset Management prepara para o início do próximo mês a listagem do WON Samsung Electronics Hyundai Motor Bond Mixed 50, que investirá 25% em cada empresa. Os ativos líquidos dos ETFs mistos de bonds subiram de 6,0617 trilhões de won no fim do ano passado para 14,1306 trilhões no dia anterior, e os produtos listados passaram de 35 para 43. Fonte: hankyung.com https://www.hankyung.com/article/2026051598481"
+      },
+      "de": {
+        "title": "Bond-Misch-ETFs ziehen Milliarden an, Koreas Qualitätsaktien treiben Nachfrage",
+        "excerpt": "Am 15. Mai meldete die Finanzbranche starke Zuflüsse in ETFs, die koreanische Qualitätsaktien und Anleihen kombinieren; das Nettovermögen stieg binnen fünf Monaten auf über 14 Billionen Won.",
+        "body": "Nach Angaben der Finanzinvestmentbranche vom 15. Mai flossen große Beträge in börsengehandelte Bond-Mischfonds, die koreanische Qualitätsaktien und Anleihen je zur Hälfte kombinieren. Produkte mit Samsung Electronics und SK hynix wurden durch die Rally bei KI-Halbleitern stark nachgefragt; zugleich kommen neue Fonds auf den Markt, die Positionen etwa um Hyundai Motor erweitern. Woori Asset Management plant Anfang kommenden Monats die Notierung des WON Samsung Electronics Hyundai Motor Bond Mixed 50, der jeweils 25% in Samsung Electronics und Hyundai Motor investiert. Das Nettovermögen des Marktes stieg von 6,0617 Billionen Won Ende vergangenen Jahres auf zuletzt 14,1306 Billionen Won, die Zahl gelisteter Produkte von 35 auf 43. Quelle: hankyung.com https://www.hankyung.com/article/2026051598481"
+      },
+      "fr": {
+        "title": "Les ETF mixtes obligations attirent des flux massifs grâce aux blue chips coréennes",
+        "excerpt": "Le 15 mai, le secteur financier a signalé des entrées dans les ETF mêlant actions coréennes de qualité et obligations, portant les actifs nets du marché à plus de 14 000 milliards de wons.",
+        "body": "Selon le secteur de l’investissement financier le 15 mai, d’importants capitaux ont afflué vers les ETF mixtes obligataires qui répartissent leurs actifs entre actions coréennes de premier plan et obligations. Les produits détenant Samsung Electronics et SK hynix ont gagné en popularité avec le rally des semi-conducteurs liés à l’IA, tandis que de nouveaux fonds élargissent leurs portefeuilles à des valeurs comme Hyundai Motor. Woori Asset Management prévoit de coter début le mois prochain le WON Samsung Electronics Hyundai Motor Bond Mixed 50, investi à 25% dans chacune des deux sociétés. Les actifs nets du marché sont passés de 6 061,7 milliards de wons fin 2025 à 14 130,6 milliards la veille, et le nombre de produits cotés de 35 à 43. Source: hankyung.com https://www.hankyung.com/article/2026051598481"
+      },
+      "ar": {
+        "title": "صناديق ETF المختلطة بالسندات تجذب أموالا كبيرة مع صعود الأسهم الكورية الممتازة",
+        "excerpt": "في 15 مايو، قالت صناعة الاستثمار المالي إن الأموال تدفقت إلى صناديق ETF تجمع بين الأسهم الكورية الممتازة والسندات، لترفع صافي الأصول إلى أكثر من 14 تريليون وون.",
+        "body": "بحسب صناعة الاستثمار المالي في 15 مايو، تدفقت مبالغ كبيرة إلى صناديق المؤشرات المتداولة المختلطة بالسندات التي تقسم أصولها بالتساوي بين الأسهم الكورية الممتازة والسندات. واكتسبت المنتجات التي تضم Samsung Electronics وSK hynix زخما مع صعود أشباه الموصلات المرتبطة بالذكاء الاصطناعي، كما يجري طرح منتجات جديدة توسع المكونات إلى أسهم مثل Hyundai Motor. وتستعد Woori Asset Management لإدراج صندوق WON Samsung Electronics Hyundai Motor Bond Mixed 50 مطلع الشهر المقبل، مع استثمار 25% في كل من الشركتين. وارتفع صافي أصول سوق هذه الصناديق من 6.0617 تريليون وون في نهاية العام الماضي إلى 14.1306 تريليون وون في اليوم السابق، وزاد عدد المنتجات المدرجة من 35 إلى 43. المصدر: hankyung.com https://www.hankyung.com/article/2026051598481"
+      },
+      "hi": {
+        "title": "कोरियाई ब्लू-चिप उछाल से बॉन्ड-मिश्रित ETF में बड़ा धन प्रवाह",
+        "excerpt": "15 मई को वित्तीय निवेश उद्योग के अनुसार, कोरियाई ब्लू-चिप शेयरों और बॉन्ड को मिलाने वाले ETF में धन आया, जिससे बाजार की शुद्ध संपत्ति पांच महीनों में 14 ट्रिलियन वॉन से ऊपर पहुंची।",
+        "body": "15 मई को वित्तीय निवेश उद्योग के अनुसार, कोरियाई ब्लू-चिप शेयरों और बॉन्ड को बराबर मिलाने वाले बॉन्ड-मिश्रित एक्सचेंज ट्रेडेड फंडों में बड़ा धन प्रवाह हुआ। AI से जुड़े सेमीकंडक्टर रैली के कारण Samsung Electronics और SK hynix रखने वाले उत्पाद लोकप्रिय हुए, जिसके बाद Hyundai Motor जैसे शेयरों को शामिल करने वाले नए उत्पाद भी आ रहे हैं। Woori Asset Management अगले महीने की शुरुआत में WON Samsung Electronics Hyundai Motor Bond Mixed 50 को सूचीबद्ध करने की तैयारी कर रही है, जो Samsung Electronics और Hyundai Motor में 25-25% निवेश करेगा। बॉन्ड-मिश्रित ETF बाजार की शुद्ध संपत्ति पिछले साल के अंत में 6.0617 ट्रिलियन वॉन से बढ़कर पिछले दिन 14.1306 ट्रिलियन वॉन हो गई, और सूचीबद्ध उत्पाद 35 से 43 हो गए। स्रोत: hankyung.com https://www.hankyung.com/article/2026051598481"
+      },
+      "id": {
+        "title": "ETF campuran obligasi diburu saat saham unggulan Korea menguat",
+        "excerpt": "Pada 15 Mei, industri investasi keuangan menyebut dana masuk ke ETF yang memadukan saham unggulan Korea dan obligasi, sehingga aset bersih pasar naik ke atas 14 triliun won dalam lima bulan.",
+        "body": "Menurut industri investasi keuangan pada 15 Mei, dana besar mengalir ke ETF campuran obligasi yang membagi aset antara saham unggulan Korea dan obligasi. Produk yang memegang Samsung Electronics dan SK hynix menjadi populer berkat reli semikonduktor terkait AI, sementara produk baru memperluas komposisi ke saham seperti Hyundai Motor. Woori Asset Management menyiapkan pencatatan WON Samsung Electronics Hyundai Motor Bond Mixed 50 pada awal bulan depan, dengan investasi masing-masing 25% di Samsung Electronics dan Hyundai Motor. Aset bersih pasar ETF campuran obligasi naik dari 6,0617 triliun won pada akhir tahun lalu menjadi 14,1306 triliun won pada hari sebelumnya, dan jumlah produk tercatat bertambah dari 35 menjadi 43. Sumber: hankyung.com https://www.hankyung.com/article/2026051598481"
+      }
+    }
+  },
+  {
+    "id": "0c68b3090568",
+    "slug": "앤드루-헨드리-대표-ai-상업화-시작-버블-단계-아니다-kiw-2026-548024",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T16:35:08.640Z",
+    "updatedAt": "2026-05-15T16:35:08.640Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159607i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159607i",
+    "titleFingerprint": "ebd1b684fe56befe13add7e4f160efbb3dda2394",
+    "dedupKeys": [
+      "0c68b30905683ddc5bb232b35f8545ccf8002866",
+      "ebd1b684fe56befe13add7e4f160efbb3dda2394",
+      "1744d1ff1b0f2aef7273631f5dc9a767aeb26c5e"
+    ],
+    "imageUrl": "/images/articles/0c68b3090568.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 상업화 본격화, 앤드루 헨드리 “버블 단계 아니다” KIW 2026",
+        "excerpt": "앤드루 헨드리 야누스 헨더슨 인베스터스 아시아 대표는 2026년 5월 15일 KIW 2026에서 AI 상업화가 시작됐고 현재 시장은 버블 단계가 아니라고 밝혔다.",
+        "body": "앤드루 헨드리 야누스 헨더슨 인베스터스 아시아 대표는 2026년 5월 15일 서울 신라호텔에서 열린 코리아 인베스트먼트 위크(KIW) 2026에서 인공지능(AI) 시장을 두고 “상업화가 시작됐으며 버블 단계는 아니다”라고 진단했다. KIW 2026은 한국경제신문과 삼성증권이 5월 12일부터 15일까지 개최한 글로벌 투자 콘퍼런스다. 헨드리 대표는 ‘글로벌 주식 시장의 불확실성 대응 전략’ 세션 연사로 소개됐다. 그의 발언은 AI 투자 열기가 이어지는 가운데 상업적 활용이 시장 판단의 핵심 변수로 부상했음을 보여준다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "AI Commercialization Begins, Andrew Hendry Says It Is Not a Bubble at KIW 2026",
+        "excerpt": "Andrew Hendry, CEO Asia at Janus Henderson Investors, said at KIW 2026 on May 15, 2026 that AI commercialization has begun and the market is not in a bubble phase.",
+        "body": "Andrew Hendry, CEO Asia at Janus Henderson Investors, said at Korea Investment Week (KIW) 2026, held at The Shilla Seoul on May 15, 2026, that artificial intelligence commercialization has begun and that the market is not in a bubble phase. KIW 2026 was a global investment conference hosted by The Korea Economic Daily with Samsung Securities from May 12 to 15. Hendry was listed as a speaker for the session “Navigating Uncertainty in Global Equities.” His remarks came as AI investment momentum continues, highlighting commercial adoption as a key factor for market assessment. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "AI商用化が本格化、アンドリュー・ヘンドリー氏「バブル段階ではない」KIW 2026",
+        "excerpt": "ジャナス・ヘンダーソン・インベスターズ・アジアCEOのアンドリュー・ヘンドリー氏は2026年5月15日、KIW 2026でAI商用化は始まっており、バブル段階ではないと述べた。",
+        "body": "ジャナス・ヘンダーソン・インベスターズ・アジアCEOのアンドリュー・ヘンドリー氏は、2026年5月15日にソウル新羅ホテルで開かれたコリア・インベストメント・ウィーク（KIW）2026で、人工知能（AI）市場について「商用化が始まっており、バブル段階ではない」との見方を示した。KIW 2026は韓国経済新聞とサムスン証券が5月12日から15日まで開催したグローバル投資カンファレンス。ヘンドリー氏は「グローバル株式市場の不確実性への対応戦略」セッションの登壇者として紹介された。発言はAI投資熱が続く中、商用活用が市場判断の重要変数になっていることを示す。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "AI商业化启动，Andrew Hendry在KIW 2026称并非泡沫阶段",
+        "excerpt": "Janus Henderson Investors亚洲首席执行官Andrew Hendry于2026年5月15日在KIW 2026表示，AI商业化已经开始，当前市场并非处于泡沫阶段。",
+        "body": "Janus Henderson Investors亚洲首席执行官Andrew Hendry于2026年5月15日在首尔新罗酒店举行的韩国投资周（KIW）2026上表示，人工智能（AI）市场的商业化已经开始，目前并非处于泡沫阶段。KIW 2026是由韩国经济新闻与三星证券于5月12日至15日共同举办的全球投资会议。Hendry被列为“应对全球股票市场不确定性的策略”环节演讲嘉宾。他的表态出现在AI投资热度持续之际，显示商业化应用正成为判断市场的重要变量。来源: hankyung.com"
+      },
+      "es": {
+        "title": "La comercialización de la IA avanza: Andrew Hendry niega una burbuja en KIW 2026",
+        "excerpt": "Andrew Hendry, CEO para Asia de Janus Henderson Investors, dijo el 15 de mayo de 2026 en KIW 2026 que la comercialización de la IA ya comenzó y que el mercado no está en fase de burbuja.",
+        "body": "Andrew Hendry, CEO para Asia de Janus Henderson Investors, afirmó el 15 de mayo de 2026 en Korea Investment Week (KIW) 2026, celebrada en The Shilla Seoul, que la comercialización de la inteligencia artificial (IA) ha comenzado y que el mercado no se encuentra en una fase de burbuja. KIW 2026 fue una conferencia global de inversión organizada por The Korea Economic Daily junto con Samsung Securities del 12 al 15 de mayo. Hendry figuró como ponente en la sesión “Navigating Uncertainty in Global Equities”. Sus declaraciones llegan mientras continúa el interés inversor por la IA y subrayan que el uso comercial se ha convertido en una variable clave para evaluar el mercado. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Comercialização da IA começa, e Andrew Hendry diz na KIW 2026 que não há bolha",
+        "excerpt": "Andrew Hendry, CEO da Janus Henderson Investors Asia, afirmou em 15 de maio de 2026 na KIW 2026 que a comercialização da IA começou e que o mercado não está em fase de bolha.",
+        "body": "Andrew Hendry, CEO da Janus Henderson Investors Asia, afirmou em 15 de maio de 2026, na Korea Investment Week (KIW) 2026, realizada no The Shilla Seoul, que a comercialização da inteligência artificial (IA) começou e que o mercado não está em uma fase de bolha. A KIW 2026 foi uma conferência global de investimentos organizada pelo The Korea Economic Daily com a Samsung Securities entre 12 e 15 de maio. Hendry foi apresentado como palestrante da sessão “Navigating Uncertainty in Global Equities”. A fala ocorre em meio ao forte interesse por investimentos em IA e destaca a adoção comercial como variável central para avaliar o mercado. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KIW 2026: Andrew Hendry sieht Start der KI-Kommerzialisierung, keine Blase",
+        "excerpt": "Andrew Hendry, CEO Asia von Janus Henderson Investors, sagte am 15. Mai 2026 auf der KIW 2026, die Kommerzialisierung von KI habe begonnen und der Markt befinde sich nicht in einer Blasenphase.",
+        "body": "Andrew Hendry, CEO Asia von Janus Henderson Investors, sagte am 15. Mai 2026 auf der Korea Investment Week (KIW) 2026 im The Shilla Seoul, die Kommerzialisierung künstlicher Intelligenz (KI) habe begonnen und der Markt befinde sich nicht in einer Blasenphase. Die KIW 2026 war eine globale Investmentkonferenz, die The Korea Economic Daily gemeinsam mit Samsung Securities vom 12. bis 15. Mai veranstaltete. Hendry wurde als Redner der Sitzung “Navigating Uncertainty in Global Equities” vorgestellt. Seine Aussage fällt in eine Phase anhaltender KI-Investitionsdynamik und hebt die kommerzielle Nutzung als wichtigen Faktor für die Markteinschätzung hervor. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Commercialisation de l’IA: Andrew Hendry affirme à KIW 2026 qu’il ne s’agit pas d’une bulle",
+        "excerpt": "Andrew Hendry, CEO Asia de Janus Henderson Investors, a déclaré le 15 mai 2026 à KIW 2026 que la commercialisation de l’IA avait commencé et que le marché n’était pas en phase de bulle.",
+        "body": "Andrew Hendry, CEO Asia de Janus Henderson Investors, a déclaré le 15 mai 2026 lors de Korea Investment Week (KIW) 2026, organisée au Shilla Seoul, que la commercialisation de l’intelligence artificielle (IA) avait commencé et que le marché n’était pas en phase de bulle. KIW 2026 était une conférence mondiale d’investissement organisée par The Korea Economic Daily avec Samsung Securities du 12 au 15 mai. Hendry était présenté comme intervenant de la session “Navigating Uncertainty in Global Equities”. Ses propos interviennent alors que l’élan d’investissement dans l’IA se poursuit et soulignent que l’adoption commerciale devient une variable clé pour évaluer le marché. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "تسويق الذكاء الاصطناعي يبدأ وأندرو هندري يقول في KIW 2026: ليست فقاعة",
+        "excerpt": "قال أندرو هندري، الرئيس التنفيذي لآسيا في Janus Henderson Investors، في 15 مايو 2026 خلال KIW 2026 إن تسويق الذكاء الاصطناعي بدأ وإن السوق ليس في مرحلة فقاعة.",
+        "body": "قال أندرو هندري، الرئيس التنفيذي لآسيا في Janus Henderson Investors، في 15 مايو 2026 خلال أسبوع كوريا للاستثمار KIW 2026 المنعقد في فندق شيلا سيول، إن تسويق الذكاء الاصطناعي بدأ وإن السوق ليس في مرحلة فقاعة. كان KIW 2026 مؤتمرا استثماريا عالميا نظمته The Korea Economic Daily مع Samsung Securities خلال الفترة من 12 إلى 15 مايو. وجرى تقديم هندري كمتحدث في جلسة “Navigating Uncertainty in Global Equities”. وتأتي تصريحاته مع استمرار زخم الاستثمار في الذكاء الاصطناعي، بما يبرز أن الاستخدام التجاري أصبح عاملا رئيسيا في تقييم السوق. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "AI व्यावसायीकरण शुरू, Andrew Hendry ने KIW 2026 में कहा यह बबल चरण नहीं",
+        "excerpt": "Janus Henderson Investors Asia के CEO Andrew Hendry ने 15 मई 2026 को KIW 2026 में कहा कि AI का व्यावसायीकरण शुरू हो गया है और बाजार बबल चरण में नहीं है।",
+        "body": "Janus Henderson Investors Asia के CEO Andrew Hendry ने 15 मई 2026 को सियोल के The Shilla Seoul में आयोजित Korea Investment Week (KIW) 2026 में कहा कि कृत्रिम बुद्धिमत्ता (AI) का व्यावसायीकरण शुरू हो गया है और बाजार बबल चरण में नहीं है। KIW 2026 वैश्विक निवेश सम्मेलन था, जिसे The Korea Economic Daily और Samsung Securities ने 12 से 15 मई तक आयोजित किया। Hendry को “Navigating Uncertainty in Global Equities” सत्र के वक्ता के रूप में प्रस्तुत किया गया था। उनका बयान ऐसे समय आया जब AI निवेश में रुचि बनी हुई है, और यह दिखाता है कि व्यावसायिक उपयोग बाजार मूल्यांकन का अहम कारक बन रहा है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Komersialisasi AI Dimulai, Andrew Hendry di KIW 2026: Belum Tahap Bubble",
+        "excerpt": "Andrew Hendry, CEO Asia Janus Henderson Investors, mengatakan pada 15 Mei 2026 di KIW 2026 bahwa komersialisasi AI telah dimulai dan pasar belum berada dalam tahap bubble.",
+        "body": "Andrew Hendry, CEO Asia Janus Henderson Investors, mengatakan pada 15 Mei 2026 dalam Korea Investment Week (KIW) 2026 yang digelar di The Shilla Seoul bahwa komersialisasi kecerdasan buatan (AI) telah dimulai dan pasar belum berada dalam tahap bubble. KIW 2026 adalah konferensi investasi global yang diselenggarakan The Korea Economic Daily bersama Samsung Securities pada 12-15 Mei. Hendry tercatat sebagai pembicara sesi “Navigating Uncertainty in Global Equities”. Pernyataannya muncul saat minat investasi AI terus berlanjut, sekaligus menegaskan bahwa adopsi komersial menjadi variabel penting dalam menilai pasar. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "3440efbe9baa",
+    "slug": "전쟁-끝나면-이-업종-뜬다월가-최고전략가의-전망-한경-프리미엄9-today-652397",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T16:33:38.404Z",
+    "updatedAt": "2026-05-15T16:33:38.405Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051597991",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051597991",
+    "titleFingerprint": "6b6d48e481c6199344e06a207ca26d03721b8a5f",
+    "dedupKeys": [
+      "3440efbe9baacebe5287cb91e985e27352af232e",
+      "6b6d48e481c6199344e06a207ca26d03721b8a5f",
+      "3df1cf12d258fd8304ff197f21ad93186673b9d0"
+    ],
+    "imageUrl": "/images/articles/3440efbe9baa.png",
+    "i18n": {
+      "ko": {
+        "title": "전쟁 종식 후 유망 업종은 무엇인가, 월가 최고전략가 전망 주목",
+        "excerpt": "한국경제 한경 프리미엄9 TODAY는 월가 최고전략가가 전쟁 종료 이후 주목할 업종을 전망한 내용을 전하며 투자자 관심이 커지고 있다고 보도했다.",
+        "body": "한국경제 한경 프리미엄9 TODAY는 월가 최고전략가가 전쟁이 끝난 뒤 부각될 업종을 전망한 내용을 보도했다. 보도 제목은 ‘전쟁 끝나면 이 업종 뜬다’로, 전쟁 종료라는 거시적 변화가 특정 업종의 투자 매력과 시장 관심을 높일 수 있다는 관점을 전한다. 원문에서 확인 가능한 핵심 정보는 월가 최고전략가의 전망과 전쟁 이후 업종 변화 가능성이다. 다만 제공된 원문에는 구체적인 업종명, 수치, 발언 전문, 시점별 전망치는 포함되지 않았다. 따라서 투자자는 실제 업종과 근거를 원문에서 확인할 필요가 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Wall Street Strategist’s Post-War Sector Outlook Draws Market Attention",
+        "excerpt": "Hankyung Premium9 TODAY reported that a top Wall Street strategist outlined which sector could gain attention after a war ends, drawing investor interest.",
+        "body": "Hankyung Premium9 TODAY reported on an outlook from a top Wall Street strategist about sectors that may stand out after a war ends. The original headline says, “This sector will rise when the war ends,” conveying the view that a major geopolitical shift could increase market attention and investment appeal for a specific industry. The verifiable information provided is limited to the strategist’s forecast and the possibility of sector changes after a war. The supplied source text does not include the exact sector name, figures, full remarks, or time-based projections. Investors therefore need to check the original article for the specific industry and supporting rationale. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "戦争終結後に有望な業種は何か、ウォール街トップ戦略家の見方",
+        "excerpt": "韓国経済のハンギョン・プレミアム9 TODAYは、ウォール街のトップ戦略家が戦争終結後に注目される業種を展望したと報じた。",
+        "body": "韓国経済のハンギョン・プレミアム9 TODAYは、ウォール街のトップ戦略家が戦争終結後に浮上する可能性のある業種について展望した内容を報じた。見出しは「戦争が終わればこの業種が上がる」で、戦争終結というマクロ環境の変化が特定業種の投資妙味と市場の関心を高める可能性を示している。提供された原文で確認できる核心情報は、戦略家の見通しと戦争後の業種変化の可能性に限られる。具体的な業種名、数値、発言全文、時期別の予測は含まれていない。投資家は詳細な業種と根拠を原文で確認する必要がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "战争结束后哪些行业受益？华尔街顶级策略师观点受关注",
+        "excerpt": "韩国经济韩经 Premium9 TODAY 报道称，华尔街顶级策略师展望了战争结束后可能受到关注的行业，引发投资者兴趣。",
+        "body": "韩国经济韩经 Premium9 TODAY 报道了华尔街顶级策略师对战争结束后可能突出的行业所作的展望。原文标题为“战争结束后这一行业将上涨”，传达出战争结束这一宏观变化可能提升特定行业投资吸引力和市场关注度的观点。根据所提供原文，能够确认的核心信息仅限于该策略师的展望以及战后行业变化的可能性。原文资料未包含具体行业名称、相关数字、完整发言或分阶段预测。因此，投资者需要查阅原文以确认具体行业及其依据。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Sectores tras el fin de la guerra: la previsión de un estratega de Wall Street",
+        "excerpt": "Hankyung Premium9 TODAY informó que un destacado estratega de Wall Street analizó qué sector podría ganar atención cuando termine una guerra.",
+        "body": "Hankyung Premium9 TODAY informó sobre la previsión de un destacado estratega de Wall Street acerca de los sectores que podrían destacar después de que termine una guerra. El titular original dice que “cuando acabe la guerra, este sector subirá”, lo que transmite la idea de que un cambio macroeconómico y geopolítico podría elevar el atractivo de inversión y la atención del mercado hacia una industria concreta. La información verificable del texto facilitado se limita a la previsión del estratega y a la posibilidad de cambios sectoriales tras la guerra. No se incluyen el nombre del sector, cifras, declaraciones completas ni previsiones por plazos. Los inversores deben consultar el artículo original para confirmar el sector y sus fundamentos. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Setor promissor após a guerra: previsão de estrategista de Wall Street",
+        "excerpt": "O Hankyung Premium9 TODAY informou que um dos principais estrategistas de Wall Street avaliou qual setor pode ganhar destaque após o fim de uma guerra.",
+        "body": "O Hankyung Premium9 TODAY informou sobre a previsão de um dos principais estrategistas de Wall Street a respeito dos setores que podem se destacar depois do fim de uma guerra. O título original afirma que “quando a guerra acabar, este setor sobe”, indicando a visão de que uma mudança geopolítica relevante pode elevar o interesse do mercado e o apelo de investimento de uma indústria específica. As informações verificáveis no texto fornecido se limitam à previsão do estrategista e à possibilidade de mudanças setoriais no pós-guerra. Não foram incluídos o nome exato do setor, números, declarações completas ou projeções por período. Investidores devem consultar o artigo original para confirmar o setor e os fundamentos. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Welche Branche nach Kriegsende profitiert: Wall-Street-Stratege im Fokus",
+        "excerpt": "Hankyung Premium9 TODAY berichtete, dass ein führender Wall-Street-Stratege einen Sektor nannte, der nach einem Kriegsende in den Fokus rücken könnte.",
+        "body": "Hankyung Premium9 TODAY berichtete über die Einschätzung eines führenden Wall-Street-Strategen zu Branchen, die nach dem Ende eines Krieges an Bedeutung gewinnen könnten. Die ursprüngliche Überschrift lautet sinngemäß: „Wenn der Krieg endet, steigt diese Branche.“ Damit wird die Sicht vermittelt, dass ein geopolitischer Wandel die Marktaufmerksamkeit und die Investitionsattraktivität einer bestimmten Branche erhöhen kann. Die aus dem bereitgestellten Ausgangstext belegbaren Informationen beschränken sich auf die Prognose des Strategen und die Möglichkeit sektoraler Veränderungen nach dem Krieg. Konkrete Branchennamen, Zahlen, vollständige Aussagen oder zeitliche Prognosen sind nicht enthalten. Anleger sollten den Originalartikel prüfen, um Branche und Begründung zu bestätigen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Quel secteur après la fin de la guerre ? La prévision d’un stratège de Wall Street",
+        "excerpt": "Hankyung Premium9 TODAY rapporte qu’un grand stratège de Wall Street a présenté le secteur susceptible d’attirer l’attention après la fin d’une guerre.",
+        "body": "Hankyung Premium9 TODAY a rapporté les prévisions d’un grand stratège de Wall Street concernant les secteurs qui pourraient se distinguer après la fin d’une guerre. Le titre original indique que “ce secteur montera lorsque la guerre prendra fin”, ce qui traduit l’idée qu’un changement géopolitique majeur pourrait renforcer l’intérêt du marché et l’attrait d’investissement d’une industrie donnée. Les informations vérifiables dans le texte fourni se limitent à la prévision du stratège et à la possibilité de changements sectoriels après la guerre. Le nom précis du secteur, les chiffres, les propos complets et les projections par période ne sont pas fournis. Les investisseurs doivent consulter l’article original pour confirmer le secteur et les arguments avancés. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "أي قطاع قد يبرز بعد انتهاء الحرب؟ توقعات خبير استراتيجي في وول ستريت",
+        "excerpt": "ذكرت هانكيونغ Premium9 TODAY أن خبيرا استراتيجيا بارزا في وول ستريت عرض توقعاته بشأن قطاع قد يحظى بالاهتمام بعد انتهاء الحرب.",
+        "body": "ذكرت هانكيونغ Premium9 TODAY أن خبيرا استراتيجيا بارزا في وول ستريت قدم توقعات بشأن القطاعات التي قد تبرز بعد انتهاء الحرب. ويشير العنوان الأصلي إلى أن «هذا القطاع سيرتفع عندما تنتهي الحرب»، بما يعكس رؤية مفادها أن تغيرا جيوسياسيا كبيرا قد يزيد جاذبية الاستثمار واهتمام السوق بصناعة محددة. المعلومات التي يمكن التحقق منها من النص المقدم تقتصر على توقعات الخبير وإمكان حدوث تغيرات قطاعية بعد الحرب. ولا يتضمن النص اسم القطاع المحدد أو أرقاما أو التصريحات الكاملة أو توقعات زمنية. لذلك يحتاج المستثمرون إلى مراجعة المقال الأصلي لتأكيد القطاع وأسبابه. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "युद्ध खत्म होने के बाद कौन सा सेक्टर उभरेगा, वॉल स्ट्रीट रणनीतिकार की राय",
+        "excerpt": "Hankyung Premium9 TODAY ने बताया कि वॉल स्ट्रीट के एक प्रमुख रणनीतिकार ने युद्ध समाप्त होने के बाद ध्यान खींच सकने वाले सेक्टर पर अपना अनुमान दिया।",
+        "body": "Hankyung Premium9 TODAY ने वॉल स्ट्रीट के एक प्रमुख रणनीतिकार के उस अनुमान पर रिपोर्ट दी जिसमें युद्ध समाप्त होने के बाद उभर सकने वाले क्षेत्रों का उल्लेख किया गया। मूल शीर्षक का आशय है कि “युद्ध खत्म होने पर यह सेक्टर ऊपर जाएगा”, जिससे यह दृष्टिकोण सामने आता है कि बड़ा भू-राजनीतिक बदलाव किसी खास उद्योग की निवेश आकर्षण क्षमता और बाजार की दिलचस्पी बढ़ा सकता है। उपलब्ध मूल पाठ से सत्यापित जानकारी रणनीतिकार के अनुमान और युद्ध के बाद सेक्टर में बदलाव की संभावना तक सीमित है। इसमें विशिष्ट सेक्टर का नाम, आंकड़े, पूरा बयान या समय आधारित अनुमान शामिल नहीं हैं। निवेशकों को सेक्टर और उसके आधार की पुष्टि के लिए मूल लेख देखना चाहिए। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Sektor yang Berpotensi Naik Setelah Perang, Sorotan Strateg Wall Street",
+        "excerpt": "Hankyung Premium9 TODAY melaporkan bahwa seorang strateg utama Wall Street memaparkan sektor yang bisa menarik perhatian setelah perang berakhir.",
+        "body": "Hankyung Premium9 TODAY melaporkan pandangan seorang strateg utama Wall Street mengenai sektor yang dapat menonjol setelah perang berakhir. Judul asli menyebut bahwa “jika perang berakhir, sektor ini akan naik”, yang menunjukkan pandangan bahwa perubahan geopolitik besar dapat meningkatkan daya tarik investasi dan perhatian pasar terhadap industri tertentu. Informasi yang dapat diverifikasi dari teks yang diberikan terbatas pada proyeksi strateg tersebut dan kemungkinan perubahan sektor setelah perang. Teks tidak memuat nama sektor secara spesifik, angka, pernyataan lengkap, atau proyeksi berdasarkan waktu. Investor perlu memeriksa artikel asli untuk memastikan sektor dan dasar analisisnya. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "a70740cc148f",
     "slug": "빚투공매도-규모-나란히-사상-최대-442850",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Samsung Electro-Mechanics Masuki Siklus Kenaikan Harga MLCC, NH Naikkan Target",
         "excerpt": "NH Investment & Securities pada 15 mengatakan Samsung Electro-Mechanics diperkirakan menaikkan sebagian harga MLCC, menaikkan target dari 1 juta menjadi 1,5 juta won dan mempertahankan Buy.",
         "body": "NH Investment & Securities pada 15 menyatakan siklus kenaikan harga di pasar multilayer ceramic capacitor, atau MLCC, mulai menguat bagi Samsung Electro-Mechanics dan menaikkan target harga saham dari 1 juta menjadi 1,5 juta won. Rekomendasi Buy dipertahankan. Analis Hwang Ji-hyun mengatakan perusahaan dipahami berencana menaikkan harga sebagian MLCC untuk distributor. Pesaing Jepang, Murata dan Taiyo Yuden, telah menyebut permintaan MLCC untuk AI tetap kuat dan tingkat utilisasi diperkirakan bertahan di atas 90% sepanjang tahun. NH juga menilai Samsung Electro-Mechanics memiliki divisi paket, sehingga dapat menciptakan sinergi saat struktur VPD makin banyak diadopsi. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "5a8b34f987bb",
-    "slug": "삼성전자-2분기-영업익-90조원-예상주가-상승-여력-충분-kb-701077",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T23:12:57.985Z",
-    "updatedAt": "2026-05-14T23:12:57.985Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051578826",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051578826",
-    "titleFingerprint": "fc98c2089a9a0d3d6d3a6d7e1ab4d49bdcae2b59",
-    "dedupKeys": [
-      "5a8b34f987bb3642077b24fd4c55b9f94e5f83e2",
-      "fc98c2089a9a0d3d6d3a6d7e1ab4d49bdcae2b59",
-      "1ea95d7a1e9b4fd5c9e81aaca52387b31a864054"
-    ],
-    "imageUrl": "/images/articles/5a8b34f987bb.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 2분기 영업익 90조원 전망, KB “주가 상승 여력 충분” 분석에 주목",
-        "excerpt": "KB가 삼성전자의 2분기 영업이익을 90조원으로 예상하며 주가 상승 여력이 충분하다고 평가했다. 한경 보도에 따르면 이번 전망은 삼성전자 실적과 주가 흐름을 함께 주목하게 한다.",
-        "body": "KB는 삼성전자의 2분기 영업이익이 90조원에 이를 것으로 예상하며 주가 상승 여력이 충분하다고 평가했다. 이번 보도는 삼성전자의 분기 실적 전망과 주가 판단을 함께 제시한 내용이다. 핵심 수치는 2분기 영업이익 90조원 전망이며, KB는 이를 바탕으로 삼성전자 주가에 추가 상승 여지가 있다는 의견을 냈다. 다만 원문에 제시된 정보는 영업이익 전망치와 주가 상승 여력 평가에 한정된다. 투자자들은 향후 실제 실적 발표와 시장 반응을 확인할 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Samsung Electronics Q2 Operating Profit Seen at 90 Trillion Won as KB Says Stock Has Upside",
-        "excerpt": "KB expects Samsung Electronics’ second-quarter operating profit to reach 90 trillion won and says the stock has sufficient upside, according to a Hankyung.com report.",
-        "body": "KB expects Samsung Electronics to post second-quarter operating profit of 90 trillion won and assessed that the stock still has sufficient upside. The report links Samsung Electronics’ quarterly earnings outlook with KB’s view on the share price. The key figure presented is the forecast for 90 trillion won in Q2 operating profit, while KB’s conclusion is that further gains in the stock remain possible. The original information is limited to the earnings estimate and the assessment of stock upside. Investors may watch the actual earnings release and market reaction. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "サムスン電子、4〜6月期営業益90兆ウォン予想 KBは株価上昇余地を指摘",
-        "excerpt": "KBはサムスン電子の第2四半期営業利益を90兆ウォンと予想し、株価には十分な上昇余地があると評価した。ハンギョン報道が伝えた内容だ。",
-        "body": "KBは、サムスン電子の第2四半期営業利益が90兆ウォンに達すると予想し、株価には十分な上昇余地があると評価した。今回の報道は、サムスン電子の四半期業績見通しと株価判断をあわせて示したものだ。中心となる数値は第2四半期営業利益90兆ウォンの予想であり、KBはこれを踏まえて同社株に追加上昇の余地があるとの見方を示した。ただし、原文で示された情報は営業利益予想と株価上昇余地の評価に限られる。投資家は今後の実績発表と市場反応を確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "三星电子二季度营业利润预计达90万亿韩元，KB称股价仍有上行空间",
-        "excerpt": "据韩经报道，KB预计三星电子第二季度营业利润将达到90万亿韩元，并认为其股价仍有充足上行空间，市场关注业绩与股价走势。",
-        "body": "KB预计三星电子第二季度营业利润将达到90万亿韩元，并评价称其股价仍有充足上行空间。该报道同时呈现了三星电子季度业绩展望和股价判断。核心数字是第二季度营业利润90万亿韩元的预测，KB据此认为三星电子股价仍存在进一步上涨余地。不过，原文提供的信息仅限于营业利润预测值以及对股价上行空间的评价。投资者仍需关注之后的实际业绩发布和市场反应。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Samsung Electronics prevé beneficio operativo de 90 billones de wones en el 2T, según KB",
-        "excerpt": "KB espera que Samsung Electronics registre un beneficio operativo de 90 billones de wones en el segundo trimestre y afirma que la acción aún tiene suficiente potencial alcista.",
-        "body": "KB prevé que Samsung Electronics alcance un beneficio operativo de 90 billones de wones en el segundo trimestre y evaluó que la acción mantiene suficiente potencial alcista. La información vincula la previsión trimestral de resultados de Samsung Electronics con la lectura de KB sobre el precio de sus acciones. La cifra central es la estimación de 90 billones de wones de beneficio operativo para el 2T, mientras que KB considera que aún existe margen para nuevas subidas. El texto original se limita a esa previsión de beneficio y a la evaluación del potencial bursátil. Los inversores deberán seguir los resultados reales y la reacción del mercado. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Samsung Electronics pode ter lucro operacional de 90 trilhões de won no 2º tri, diz KB",
-        "excerpt": "A KB estima que a Samsung Electronics alcance lucro operacional de 90 trilhões de won no segundo trimestre e avalia que a ação ainda tem potencial suficiente de alta.",
-        "body": "A KB estima que a Samsung Electronics registre lucro operacional de 90 trilhões de won no segundo trimestre e avaliou que a ação ainda tem potencial suficiente de valorização. A notícia reúne a projeção de resultado trimestral da Samsung Electronics e a leitura da KB sobre o preço das ações. O número central é a previsão de 90 trilhões de won em lucro operacional no 2º trimestre, enquanto a KB afirma que há espaço para novas altas no papel. As informações do texto original se limitam à estimativa de lucro e à avaliação sobre o potencial de alta. Investidores devem acompanhar o resultado efetivo e a reação do mercado. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Samsung Electronics: KB erwartet 90 Billionen Won operativen Gewinn im zweiten Quartal",
-        "excerpt": "KB erwartet für Samsung Electronics im zweiten Quartal einen operativen Gewinn von 90 Billionen Won und sieht laut Hankyung.com ausreichend Aufwärtspotenzial für die Aktie.",
-        "body": "KB erwartet, dass Samsung Electronics im zweiten Quartal einen operativen Gewinn von 90 Billionen Won erzielt, und bewertet das Aufwärtspotenzial der Aktie als ausreichend. Der Bericht verbindet damit die Quartalsprognose für Samsung Electronics mit der Einschätzung von KB zur Aktienkursentwicklung. Die zentrale Kennzahl ist die Erwartung eines operativen Gewinns von 90 Billionen Won im zweiten Quartal. Darauf gestützt sieht KB weiteren Spielraum nach oben für die Aktie. Die im Original genannten Informationen beschränken sich auf diese Gewinnprognose und die Bewertung des Kurspotenzials. Anleger sollten die tatsächlichen Ergebnisse und die Marktreaktion verfolgen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Samsung Electronics: KB prévoit 90 billions de wons de bénéfice opérationnel au T2",
-        "excerpt": "KB anticipe pour Samsung Electronics un bénéfice opérationnel de 90 billions de wons au deuxième trimestre et estime que l’action dispose encore d’un potentiel de hausse suffisant.",
-        "body": "KB prévoit que Samsung Electronics réalisera un bénéfice opérationnel de 90 billions de wons au deuxième trimestre et estime que l’action conserve un potentiel de hausse suffisant. L’information associe la prévision de résultats trimestriels de Samsung Electronics à l’évaluation de KB sur le cours de l’action. Le chiffre central est la projection de 90 billions de wons de bénéfice opérationnel au T2, tandis que KB juge qu’une progression supplémentaire du titre reste possible. Les éléments fournis dans le texte original se limitent à cette estimation de bénéfice et à l’appréciation du potentiel boursier. Les investisseurs devront suivre les résultats effectifs et la réaction du marché. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سامسونغ إلكترونيكس: KB يتوقع ربحا تشغيليا قدره 90 تريليون وون في الربع الثاني",
-        "excerpt": "تتوقع KB أن تسجل سامسونغ إلكترونيكس ربحا تشغيليا قدره 90 تريليون وون في الربع الثاني، وترى أن السهم لا يزال يملك مساحة كافية للصعود.",
-        "body": "تتوقع KB أن يبلغ الربح التشغيلي لسامسونغ إلكترونيكس في الربع الثاني 90 تريليون وون، وقيّمت أن السهم ما زال يملك مساحة كافية للصعود. يربط التقرير بين توقعات أرباح سامسونغ إلكترونيكس الفصلية ورأي KB بشأن سعر السهم. الرقم الأساسي الوارد هو توقع ربح تشغيلي قدره 90 تريليون وون في الربع الثاني، فيما ترى KB أن هناك مجالا لمزيد من الارتفاع في السهم. وتقتصر معلومات النص الأصلي على تقدير الربح التشغيلي وتقييم إمكانية صعود السهم. على المستثمرين متابعة النتائج الفعلية ورد فعل السوق لاحقا. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Samsung Electronics का Q2 परिचालन लाभ 90 ट्रिलियन वॉन रहने का अनुमान, KB ने कहा शेयर में गुंजाइश",
-        "excerpt": "KB ने Samsung Electronics का दूसरी तिमाही का परिचालन लाभ 90 ट्रिलियन वॉन रहने का अनुमान लगाया और कहा कि शेयर में अभी पर्याप्त तेजी की गुंजाइश है।",
-        "body": "KB ने अनुमान लगाया है कि Samsung Electronics का दूसरी तिमाही का परिचालन लाभ 90 ट्रिलियन वॉन तक पहुंच सकता है और उसने आकलन किया कि शेयर में अभी पर्याप्त तेजी की गुंजाइश है। यह रिपोर्ट Samsung Electronics के तिमाही नतीजों के अनुमान और शेयर मूल्य पर KB की राय को साथ रखती है। मुख्य आंकड़ा दूसरी तिमाही के लिए 90 ट्रिलियन वॉन परिचालन लाभ का अनुमान है। इसी आधार पर KB ने कहा कि Samsung Electronics के शेयर में और बढ़त की संभावना बनी हुई है। मूल जानकारी परिचालन लाभ अनुमान और शेयर की संभावित तेजी के आकलन तक सीमित है। निवेशकों को वास्तविक नतीजों और बाजार प्रतिक्रिया पर नजर रखनी होगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Samsung Electronics Diproyeksi Cetak Laba Operasi 90 Triliun Won pada Kuartal II, Kata KB",
-        "excerpt": "KB memperkirakan laba operasi Samsung Electronics pada kuartal kedua mencapai 90 triliun won dan menilai sahamnya masih memiliki ruang kenaikan yang cukup.",
-        "body": "KB memperkirakan Samsung Electronics akan mencatat laba operasi 90 triliun won pada kuartal kedua dan menilai sahamnya masih memiliki ruang kenaikan yang cukup. Laporan ini mengaitkan prospek kinerja kuartalan Samsung Electronics dengan pandangan KB terhadap harga sahamnya. Angka utama yang disampaikan adalah proyeksi laba operasi kuartal kedua sebesar 90 triliun won, sementara KB menyatakan masih ada peluang kenaikan lanjutan pada saham tersebut. Informasi dalam teks asli terbatas pada estimasi laba operasi dan penilaian mengenai ruang kenaikan saham. Investor perlu mencermati rilis kinerja aktual dan respons pasar. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "d8959ffeab2a",
-    "slug": "우리자산운용-미-단기채-공모주펀드-순자산-4000억-돌파-355484",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T23:11:57.900Z",
-    "updatedAt": "2026-05-14T23:11:57.900Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051578856",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051578856",
-    "titleFingerprint": "538e20f943edb5110a3b76bb3d9cd96e2aed4105",
-    "dedupKeys": [
-      "d8959ffeab2abe4d1f768c8057f0423f56f0170e",
-      "538e20f943edb5110a3b76bb3d9cd96e2aed4105",
-      "18691f108b95c87210ae3dd37fd781ca196e8c59"
-    ],
-    "imageUrl": "/images/articles/d8959ffeab2a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "우리자산운용 미국 단기채 공모주펀드, 순자산 4000억 돌파",
-        "excerpt": "우리자산운용의 미국 단기채 공모주펀드가 한국경제 보도 기준 순자산 4000억원을 넘어섰다. 단기채와 공모주를 결합한 펀드 규모 확대가 핵심이다.",
-        "body": "우리자산운용의 미국 단기채 공모주펀드가 순자산 4000억원을 돌파했다고 hankyung.com이 보도했다. 이번 소식의 핵심은 해당 펀드의 순자산 규모가 4000억원을 넘어섰다는 점이다. 상품명에서 드러나듯 이 펀드는 미국 단기채와 공모주를 결합한 유형으로 소개됐다. 순자산은 펀드의 운용 규모를 보여주는 대표 지표인 만큼, 이번 돌파는 해당 상품에 모인 자금 규모를 확인하게 하는 수치다. 시장 참가자들은 향후 같은 상품의 순자산 흐름과 관련 공모주펀드 수요를 함께 지켜볼 것으로 보인다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Woori Asset Management US Short-Term Bond IPO Fund Tops 400 Billion Won",
-        "excerpt": "Woori Asset Management’s US short-term bond IPO fund has exceeded 400 billion won in net assets, according to Hankyung.com, highlighting the fund’s growing scale.",
-        "body": "Woori Asset Management’s US short-term bond IPO fund has surpassed 400 billion won in net assets, Hankyung.com reported. The central fact is that the fund’s net asset value has moved beyond the 400 billion won mark. As its name indicates, the product is presented as a fund combining US short-term bonds with IPO investment. Net assets are a key measure of a fund’s operating scale, so the milestone confirms the amount of money gathered in this product. Market participants are expected to watch the fund’s future net asset trend alongside demand for similar IPO funds. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ウリ資産運用の米短期債IPOファンド、純資産4000億ウォン突破",
-        "excerpt": "ウリ資産運用の米短期債IPOファンドが、韓国経済の報道基準で純資産4000億ウォンを突破した。短期債とIPOを組み合わせた商品の規模拡大が焦点だ。",
-        "body": "ウリ資産運用の米短期債IPOファンドが純資産4000億ウォンを突破したと、hankyung.comが報じた。今回のニュースの中心は、同ファンドの純資産規模が4000億ウォンを上回った点にある。商品名が示す通り、このファンドは米国短期債とIPO投資を組み合わせたタイプとして紹介されている。純資産はファンドの運用規模を示す代表的な指標であり、今回の突破は同商品に集まった資金規模を確認させる数字だ。市場関係者は今後、同商品の純資産推移と関連IPOファンド需要をあわせて注視するとみられる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "友利资产运用美国短债打新基金净资产突破4000亿韩元",
-        "excerpt": "据韩国经济网站报道，友利资产运用旗下美国短期债券打新基金净资产已突破4000亿韩元，显示该类基金规模扩大。",
-        "body": "据hankyung.com报道，友利资产运用旗下美国短期债券打新基金净资产突破4000亿韩元。此次消息的核心在于，该基金净资产规模已超过4000亿韩元。正如产品名称所显示，该基金被介绍为结合美国短期债券与新股申购投资的类型。净资产是衡量基金运营规模的代表性指标，因此这一突破确认了该产品所吸引的资金规模。市场参与者预计将继续关注该产品后续净资产走势，以及相关打新基金的需求变化。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Fondo de Woori AM en bonos cortos de EE.UU. e IPO supera 400.000 millones de wones",
-        "excerpt": "El fondo de Woori Asset Management en bonos estadounidenses de corto plazo e IPO superó los 400.000 millones de wones en activos netos, según Hankyung.com.",
-        "body": "El fondo de Woori Asset Management centrado en bonos estadounidenses de corto plazo e inversiones en IPO superó los 400.000 millones de wones en activos netos, informó hankyung.com. El dato central es que el tamaño neto del fondo rebasó ese umbral. Tal como indica su nombre, el producto se presenta como un fondo que combina bonos de corto plazo de Estados Unidos con inversión en ofertas públicas iniciales. Los activos netos son una medida representativa del tamaño de gestión de un fondo, por lo que el hito confirma el volumen de dinero reunido en este producto. El mercado seguirá observando la evolución de esos activos y la demanda de fondos similares de IPO. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Fundo da Woori AM em títulos curtos dos EUA e IPO supera 400 bi de wones",
-        "excerpt": "O fundo da Woori Asset Management em títulos americanos de curto prazo e IPO ultrapassou 400 bilhões de wones em ativos líquidos, segundo o Hankyung.com.",
-        "body": "O fundo da Woori Asset Management em títulos de curto prazo dos Estados Unidos e investimentos em IPO ultrapassou 400 bilhões de wones em ativos líquidos, informou o hankyung.com. O ponto central da notícia é que o patrimônio líquido do fundo superou esse patamar. Como o nome indica, o produto é apresentado como um fundo que combina títulos americanos de curto prazo com investimento em ofertas públicas iniciais. Os ativos líquidos são um indicador representativo da escala de gestão de um fundo, portanto a marca confirma o volume de recursos reunidos nesse produto. O mercado deve acompanhar a evolução desses ativos e a demanda por fundos semelhantes de IPO. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Woori-AM-Fonds für US-Kurzläufer und IPOs überschreitet 400 Mrd. Won",
-        "excerpt": "Der US-Kurzläufer- und IPO-Fonds von Woori Asset Management hat laut Hankyung.com ein Nettovermögen von 400 Mrd. Won überschritten.",
-        "body": "Der Fonds von Woori Asset Management für US-Kurzläufer und IPO-Investments hat ein Nettovermögen von 400 Milliarden Won überschritten, berichtete hankyung.com. Kern der Meldung ist, dass das Nettovermögen dieses Fonds über diese Marke gestiegen ist. Wie der Produktname zeigt, wird der Fonds als Kombination aus kurzfristigen US-Anleihen und IPO-Investitionen beschrieben. Das Nettovermögen gilt als wichtiger Indikator für die Größe eines Fonds, daher bestätigt dieser Schritt das in dem Produkt gebündelte Kapitalvolumen. Marktteilnehmer dürften nun die weitere Entwicklung des Nettovermögens sowie die Nachfrage nach ähnlichen IPO-Fonds beobachten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le fonds Woori AM obligations courtes US et IPO dépasse 400 Mds de wons",
-        "excerpt": "Le fonds de Woori Asset Management combinant obligations américaines courtes et IPO a dépassé 400 milliards de wons d’actifs nets, selon Hankyung.com.",
-        "body": "Le fonds de Woori Asset Management axé sur les obligations américaines de court terme et les investissements en IPO a dépassé 400 milliards de wons d’actifs nets, a rapporté hankyung.com. Le fait central est que la taille nette du fonds a franchi ce seuil. Comme son nom l’indique, le produit est présenté comme un fonds combinant obligations américaines de court terme et investissement dans des introductions en Bourse. Les actifs nets sont un indicateur représentatif de la taille d’un fonds; cette étape confirme donc le volume de capitaux réunis dans ce produit. Les acteurs du marché devraient suivre l’évolution de ces actifs et la demande pour des fonds IPO comparables. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صندوق ووري للسندات الأميركية القصيرة والاكتتابات يتجاوز 400 مليار وون",
-        "excerpt": "تجاوز صندوق ووري لإدارة الأصول للسندات الأميركية قصيرة الأجل والاكتتابات العامة 400 مليار وون من صافي الأصول، وفق ما نقل موقع Hankyung.com.",
-        "body": "أفاد موقع hankyung.com بأن صندوق ووري لإدارة الأصول، الذي يجمع بين السندات الأميركية قصيرة الأجل والاستثمار في الاكتتابات العامة، تجاوز 400 مليار وون من صافي الأصول. جوهر الخبر هو أن حجم صافي أصول الصندوق تخطى هذا المستوى. وكما يشير اسم المنتج، فهو مقدم كصندوق يدمج السندات الأميركية القصيرة مع الاستثمار في الطروحات العامة الأولية. ويعد صافي الأصول مؤشرا رئيسيا على حجم إدارة الصندوق، لذلك تؤكد هذه العتبة حجم الأموال المتجمعة في المنتج. ومن المتوقع أن يراقب المشاركون في السوق مسار صافي الأصول والطلب على صناديق الاكتتابات المشابهة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Woori AM का अमेरिकी शॉर्ट बॉन्ड IPO फंड 400 अरब वॉन से ऊपर",
-        "excerpt": "Hankyung.com के अनुसार, Woori Asset Management के अमेरिकी शॉर्ट-टर्म बॉन्ड IPO फंड की शुद्ध संपत्ति 400 अरब वॉन से अधिक हो गई है।",
-        "body": "Hankyung.com ने बताया कि Woori Asset Management के अमेरिकी शॉर्ट-टर्म बॉन्ड और IPO निवेश फंड की शुद्ध संपत्ति 400 अरब वॉन से अधिक हो गई है। इस खबर का मुख्य तथ्य यही है कि फंड का नेट एसेट आकार 400 अरब वॉन के स्तर को पार कर गया। नाम से स्पष्ट है कि यह उत्पाद अमेरिकी अल्पकालिक बॉन्ड और IPO निवेश को मिलाने वाले फंड के रूप में पेश किया गया है। शुद्ध संपत्ति किसी फंड के संचालन आकार का प्रमुख संकेतक होती है, इसलिए यह उपलब्धि इस उत्पाद में जुटी पूंजी के पैमाने को दिखाती है। बाजार भागीदार आगे इस फंड की शुद्ध संपत्ति की चाल और समान IPO फंडों की मांग पर नजर रखेंगे। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Dana Obligasi Pendek AS dan IPO Woori AM Tembus Aset Bersih 400 Miliar Won",
-        "excerpt": "Dana obligasi jangka pendek AS dan IPO milik Woori Asset Management menembus aset bersih 400 miliar won, menurut Hankyung.com, menyoroti skala produk itu.",
-        "body": "Dana Woori Asset Management yang berfokus pada obligasi jangka pendek Amerika Serikat dan investasi IPO telah melampaui aset bersih 400 miliar won, lapor hankyung.com. Fakta utama berita ini adalah nilai aset bersih dana tersebut melewati ambang 400 miliar won. Seperti terlihat dari namanya, produk ini diperkenalkan sebagai dana yang menggabungkan obligasi jangka pendek AS dengan investasi penawaran umum perdana. Aset bersih merupakan indikator utama skala pengelolaan dana, sehingga pencapaian ini menunjukkan besarnya dana yang terkumpul dalam produk tersebut. Pelaku pasar diperkirakan akan memantau tren aset bersih berikutnya dan permintaan atas dana IPO sejenis. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "4e8f9c02e8e1",
-    "slug": "하나마이크론-sk하닉-협력-강화에-수익성-개선목표가-한국-648703",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T23:10:36.958Z",
-    "updatedAt": "2026-05-14T23:10:36.958Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051578866",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051578866",
-    "titleFingerprint": "1baba80e15546dd51d701520ce5c36d9c022e531",
-    "dedupKeys": [
-      "4e8f9c02e8e15cee6a0568a1c438159e818d0aa4",
-      "1baba80e15546dd51d701520ce5c36d9c022e531",
-      "be002bb060986051cb66b68e662c0023262d4a76"
-    ],
-    "imageUrl": "/images/articles/4e8f9c02e8e1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "하나마이크론, SK하이닉스 협력 강화로 수익성 개선 기대…목표가 상향",
-        "excerpt": "한국투자증권은 하나마이크론이 SK하이닉스와의 협력 강화로 수익성 개선이 기대된다고 보고 목표주가를 올렸다고 한국경제가 보도했다.",
-        "body": "한국경제 보도에 따르면 한국투자증권은 하나마이크론에 대해 SK하이닉스와의 협력 강화가 수익성 개선으로 이어질 수 있다고 평가하며 목표주가를 상향했다. 이번 판단의 핵심은 하나마이크론이 주요 고객사와의 협력 관계를 강화하면서 실적 개선 여지가 커졌다는 점이다. 반도체 후공정 관련 사업에서 고객사와의 연계가 확대되면 수익성 회복 기대도 함께 높아질 수 있다는 분석이다. 다만 보도에서 확인된 내용은 협력 강화와 수익성 개선 기대, 목표주가 상향에 한정된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Hana Micron Seen Improving Profitability on Stronger SK Hynix Ties",
-        "excerpt": "Korea Investment & Securities raised its target price on Hana Micron, citing expectations that stronger cooperation with SK Hynix may improve profitability, Hankyung reported.",
-        "body": "According to Hankyung, Korea Investment & Securities raised its target price for Hana Micron, saying stronger cooperation with SK Hynix could lead to improved profitability. The key point of the assessment is that Hana Micron may have greater room for earnings improvement as it strengthens ties with a major customer. In semiconductor back-end operations, deeper customer cooperation can also raise expectations for a recovery in profitability. The confirmed report is limited to stronger cooperation, expected profitability improvement and the target-price increase. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ハナマイクロン、SKハイニックス協力強化で収益性改善期待",
-        "excerpt": "韓国投資証券は、ハナマイクロンがSKハイニックスとの協力強化により収益性改善が期待されるとして目標株価を引き上げたと韓国経済が報じた。",
-        "body": "韓国経済の報道によると、韓国投資証券はハナマイクロンについて、SKハイニックスとの協力強化が収益性改善につながる可能性があると評価し、目標株価を引き上げた。今回の判断の中心は、ハナマイクロンが主要顧客との協力関係を強めることで業績改善の余地が広がったという点だ。半導体後工程関連事業で顧客との連携が拡大すれば、収益性回復への期待も高まり得る。ただし、報道で確認された内容は協力強化、収益性改善期待、目標株価引き上げに限られる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Hana Micron加强与SK海力士合作，盈利改善预期升温",
-        "excerpt": "据韩国经济报道，韩国投资证券认为Hana Micron加强与SK海力士合作有望改善盈利能力，并上调了其目标价。",
-        "body": "据韩国经济报道，韩国投资证券上调Hana Micron目标价，理由是其与SK海力士的合作加强可能带来盈利能力改善。此次判断的核心在于，Hana Micron通过强化与主要客户的合作关系，业绩改善空间有所扩大。在半导体后道工序相关业务中，若客户联动进一步扩大，盈利恢复预期也可能同步提高。不过，报道确认的信息仅限于合作加强、盈利改善预期以及目标价上调。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Hana Micron: mejora de rentabilidad por mayor cooperación con SK Hynix",
-        "excerpt": "Korea Investment & Securities elevó el precio objetivo de Hana Micron al prever una mejora de rentabilidad por el refuerzo de su cooperación con SK Hynix, informó Hankyung.",
-        "body": "Según Hankyung, Korea Investment & Securities elevó el precio objetivo de Hana Micron al considerar que el refuerzo de la cooperación con SK Hynix podría traducirse en una mejora de la rentabilidad. El punto central del análisis es que Hana Micron tendría más margen para mejorar resultados al fortalecer su relación con un cliente clave. En el negocio relacionado con el posprocesamiento de semiconductores, una mayor vinculación con clientes también puede elevar las expectativas de recuperación de rentabilidad. La información confirmada se limita a la cooperación reforzada, la expectativa de mejora y la subida del precio objetivo. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Hana Micron pode melhorar rentabilidade com laços mais fortes com SK Hynix",
-        "excerpt": "A Korea Investment & Securities elevou o preço-alvo da Hana Micron ao apontar expectativa de melhora na rentabilidade com a cooperação reforçada com a SK Hynix, informou a Hankyung.",
-        "body": "Segundo a Hankyung, a Korea Investment & Securities elevou o preço-alvo da Hana Micron, avaliando que a cooperação mais forte com a SK Hynix pode levar a uma melhora da rentabilidade. O ponto central é que a Hana Micron pode ampliar seu espaço para melhora de resultados ao fortalecer a relação com um cliente importante. Nos negócios ligados ao back-end de semicondutores, uma ligação maior com clientes também pode aumentar as expectativas de recuperação da rentabilidade. A informação confirmada se limita à cooperação reforçada, à expectativa de melhora e à alta do preço-alvo. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Hana Micron: Gewinnmargen im Fokus durch engere SK-Hynix-Kooperation",
-        "excerpt": "Korea Investment & Securities hob das Kursziel für Hana Micron an, da eine engere Zusammenarbeit mit SK Hynix die Profitabilität verbessern könnte, berichtete Hankyung.",
-        "body": "Laut Hankyung hat Korea Investment & Securities das Kursziel für Hana Micron angehoben. Die Begründung: Eine stärkere Kooperation mit SK Hynix könnte zu einer Verbesserung der Profitabilität führen. Im Mittelpunkt der Einschätzung steht, dass Hana Micron durch engere Beziehungen zu einem wichtigen Kunden mehr Spielraum für Ergebnisverbesserungen haben könnte. Im Geschäft rund um Halbleiter-Back-End-Prozesse kann eine ausgeweitete Kundenanbindung auch die Erwartungen an eine Erholung der Rentabilität erhöhen. Bestätigt sind Kooperation, Rentabilitätserwartung und Kurszielanhebung. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Hana Micron: rentabilité attendue en hausse avec SK Hynix",
-        "excerpt": "Korea Investment & Securities a relevé son objectif de cours sur Hana Micron, jugeant que le renforcement de la coopération avec SK Hynix pourrait améliorer la rentabilité, selon Hankyung.",
-        "body": "Selon Hankyung, Korea Investment & Securities a relevé son objectif de cours sur Hana Micron, estimant que le renforcement de la coopération avec SK Hynix pourrait conduire à une amélioration de la rentabilité. Le cœur de l’analyse est que Hana Micron dispose d’une marge accrue d’amélioration de ses résultats en consolidant ses liens avec un client majeur. Dans les activités liées au back-end des semi-conducteurs, une coopération client plus étroite peut aussi soutenir les attentes de redressement de la rentabilité. Les éléments confirmés se limitent à la coopération renforcée, aux attentes de rentabilité et au relèvement de l’objectif. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "هانا مايكرون: توقعات بتحسن الربحية مع تعزيز التعاون مع SK Hynix",
-        "excerpt": "رفعت Korea Investment & Securities السعر المستهدف لهانا مايكرون، مشيرة إلى توقعات بتحسن الربحية مع تعزيز التعاون مع SK Hynix، وفق ما نقلته Hankyung.",
-        "body": "بحسب تقرير Hankyung، رفعت Korea Investment & Securities السعر المستهدف لسهم هانا مايكرون، معتبرة أن تعزيز التعاون مع SK Hynix قد يؤدي إلى تحسن الربحية. وتتمحور القراءة حول أن هانا مايكرون قد تمتلك مساحة أكبر لتحسين الأداء مع تقوية علاقتها بعميل رئيسي. وفي أنشطة ما بعد التصنيع في أشباه الموصلات، قد يؤدي اتساع الارتباط مع العملاء إلى رفع توقعات تعافي الربحية. وتقتصر المعلومات المؤكدة في التقرير على تعزيز التعاون، وتوقع تحسن الربحية، ورفع السعر المستهدف. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Hana Micron: SK Hynix सहयोग मजबूत, लाभप्रदता सुधार की उम्मीद",
-        "excerpt": "Korea Investment & Securities ने SK Hynix के साथ मजबूत सहयोग से Hana Micron की लाभप्रदता सुधरने की संभावना जताते हुए लक्ष्य मूल्य बढ़ाया, Hankyung ने बताया।",
-        "body": "Hankyung के अनुसार, Korea Investment & Securities ने Hana Micron का लक्ष्य मूल्य बढ़ाया है। उसका आकलन है कि SK Hynix के साथ सहयोग मजबूत होने से कंपनी की लाभप्रदता में सुधार हो सकता है। इस राय का मुख्य आधार यह है कि Hana Micron प्रमुख ग्राहक के साथ संबंध मजबूत करते हुए प्रदर्शन सुधारने की अधिक गुंजाइश बना सकती है। सेमीकंडक्टर बैक-एंड से जुड़े कारोबार में ग्राहक संबंधों का विस्तार लाभप्रदता में सुधार की उम्मीद भी बढ़ा सकता है। रिपोर्ट में पुष्टि की गई जानकारी सहयोग मजबूत होने, लाभप्रदता सुधार की उम्मीद और लक्ष्य मूल्य वृद्धि तक सीमित है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Hana Micron: Profitabilitas Diharapkan Membaik Berkat SK Hynix",
-        "excerpt": "Korea Investment & Securities menaikkan target harga Hana Micron karena menilai penguatan kerja sama dengan SK Hynix dapat meningkatkan profitabilitas, lapor Hankyung.",
-        "body": "Menurut Hankyung, Korea Investment & Securities menaikkan target harga Hana Micron dengan penilaian bahwa penguatan kerja sama dengan SK Hynix dapat mengarah pada perbaikan profitabilitas. Inti penilaian tersebut adalah Hana Micron memiliki ruang lebih besar untuk memperbaiki kinerja seiring penguatan hubungan dengan pelanggan utama. Dalam bisnis terkait proses back-end semikonduktor, perluasan keterkaitan dengan pelanggan juga dapat meningkatkan ekspektasi pemulihan profitabilitas. Informasi yang terkonfirmasi terbatas pada penguatan kerja sama, harapan perbaikan profitabilitas, dan kenaikan target harga. Sumber: hankyung.com"
       }
     }
   }
