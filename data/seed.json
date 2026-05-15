@@ -1,5 +1,230 @@
 [
   {
+    "id": "e9456324cef6",
+    "slug": "sk-전략회의이천포럼-통합6월-뉴이천포럼으로-새출발-992749",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T09:38:29.460Z",
+    "updatedAt": "2026-05-15T09:38:29.460Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049374",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049374",
+    "titleFingerprint": "102c78e9d4ea6157bf217250c2ae48425aad7a99",
+    "dedupKeys": [
+      "e9456324cef6767f8035e5561a4b6bcd2febc598",
+      "102c78e9d4ea6157bf217250c2ae48425aad7a99",
+      "acf80a01e93e6fafb4ae385f3ea1dfcca1514a9a"
+    ],
+    "imageUrl": "/images/articles/e9456324cef6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SK그룹 전략회의·이천포럼 통합, 6월 ‘뉴이천포럼’ 출범",
+        "excerpt": "SK그룹은 매년 별도로 열던 상반기 전략 회의와 지식경영 플랫폼 이천포럼을 통합해 6월 11~13일 경기도 이천 SKMS연구소에서 개최한다.",
+        "body": "SK그룹이 매년 따로 개최해 온 상반기 전략 회의와 지식경영 플랫폼 ‘이천포럼’을 하나로 합쳐 다음 달 ‘뉴이천포럼’으로 새롭게 연다. 15일 업계에 따르면 SK그룹은 6월 11일부터 13일까지 경기도 이천시 SKMS연구소에서 통합 행사를 개최한다. 기존에는 상반기 전략 회의와 이천포럼이 각각 별도로 진행됐지만, 올해부터는 두 행사를 묶어 운영하는 방식으로 바뀐다. 이번 통합은 그룹 차원의 전략 논의와 지식경영 플랫폼 기능을 한 자리에서 다루는 형태다. 출처는 mk.co.kr이다."
+      },
+      "en": {
+        "title": "SK Group to Merge Strategy Meeting and Icheon Forum in June",
+        "excerpt": "SK Group will combine its annual first-half strategy meeting and Icheon Forum knowledge platform into the new Icheon Forum on June 11-13 at the SKMS Research Institute in Icheon.",
+        "body": "SK Group will merge two events it had held separately each year: its first-half strategy meeting and the knowledge management platform known as the Icheon Forum. According to industry sources on the 15th, the group will hold the combined event from June 11 to 13 at the SKMS Research Institute in Icheon, Gyeonggi Province. The two gatherings had previously been run independently, but this year they will be operated together under the name New Icheon Forum. The format brings group-level strategy discussions and the role of a knowledge management platform into one venue. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "SKグループ、戦略会議と利川フォーラムを統合し6月始動",
+        "excerpt": "SKグループは毎年別々に開いていた上半期戦略会議と知識経営プラットフォームの利川フォーラムを統合し、6月11～13日に利川のSKMS研究所で開催する。",
+        "body": "SKグループは、毎年別々に開催してきた上半期戦略会議と知識経営プラットフォーム「利川フォーラム」を統合し、来月「ニュー利川フォーラム」として新たに開く。15日の業界情報によると、SKグループは6月11日から13日まで、京畿道利川市のSKMS研究所で統合イベントを開催する。従来は上半期戦略会議と利川フォーラムがそれぞれ独立して行われていたが、今年からは二つの行事をまとめて運営する形に変わる。今回の統合は、グループ次元の戦略議論と知識経営プラットフォームの機能を一つの場で扱う形式となる。出典はmk.co.kr。"
+      },
+      "zh": {
+        "title": "SK集团整合战略会议与利川论坛，6月启动“新利川论坛”",
+        "excerpt": "SK集团将整合每年分别举行的上半年战略会议和知识经营平台利川论坛，于6月11日至13日在京畿道利川SKMS研究所举行。",
+        "body": "SK集团将把每年分别举办的上半年战略会议和知识经营平台“利川论坛”合并，并于下月以“新利川论坛”的形式重新启动。据业界15日消息，SK集团计划于6月11日至13日在京畿道利川市SKMS研究所举行这一整合活动。此前，上半年战略会议和利川论坛分别独立进行，但从今年起，两项活动将合并运营。此次整合意味着集团层面的战略讨论和知识经营平台功能将在同一场合展开。消息来源为mk.co.kr。"
+      },
+      "es": {
+        "title": "SK integrará reunión estratégica y Foro Icheon en junio",
+        "excerpt": "SK Group combinará su reunión estratégica del primer semestre y la plataforma de gestión del conocimiento Foro Icheon del 11 al 13 de junio en el Instituto SKMS de Icheon.",
+        "body": "SK Group integrará dos encuentros que celebraba por separado cada año: la reunión estratégica del primer semestre y la plataforma de gestión del conocimiento conocida como Foro Icheon. Según fuentes del sector citadas el día 15, el grupo celebrará el evento combinado del 11 al 13 de junio en el Instituto de Investigación SKMS de Icheon, en la provincia de Gyeonggi. Hasta ahora, la reunión estratégica y el Foro Icheon se realizaban de forma independiente, pero desde este año pasarán a operar juntos bajo el nombre de Nuevo Foro Icheon. La integración reúne en un mismo espacio las discusiones estratégicas del grupo y la función de plataforma de conocimiento. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "SK une reunião estratégica e Fórum Icheon em junho",
+        "excerpt": "O SK Group vai combinar a reunião estratégica do primeiro semestre e a plataforma de gestão do conhecimento Fórum Icheon entre 11 e 13 de junho no Instituto SKMS, em Icheon.",
+        "body": "O SK Group vai integrar dois eventos que realizava separadamente todos os anos: a reunião estratégica do primeiro semestre e a plataforma de gestão do conhecimento conhecida como Fórum Icheon. Segundo fontes do setor no dia 15, o grupo realizará o evento combinado de 11 a 13 de junho no Instituto de Pesquisa SKMS, em Icheon, na província de Gyeonggi. Até agora, a reunião estratégica e o Fórum Icheon eram conduzidos de forma independente, mas a partir deste ano passarão a ser operados juntos sob o nome Novo Fórum Icheon. A integração reúne, em um mesmo local, discussões estratégicas do grupo e a função de plataforma de conhecimento. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "SK bündelt Strategietreffen und Icheon Forum im Juni",
+        "excerpt": "Die SK Group legt ihr jährliches Strategietreffen im ersten Halbjahr und die Wissensmanagement-Plattform Icheon Forum zusammen und hält das neue Forum vom 11. bis 13. Juni in Icheon ab.",
+        "body": "Die SK Group legt zwei Veranstaltungen zusammen, die bisher jedes Jahr getrennt stattfanden: das Strategietreffen für das erste Halbjahr und die Wissensmanagement-Plattform Icheon Forum. Branchenkreisen zufolge wird die Gruppe die integrierte Veranstaltung vom 11. bis 13. Juni im SKMS Research Institute in Icheon in der Provinz Gyeonggi abhalten. Bislang wurden das Strategietreffen und das Icheon Forum unabhängig voneinander organisiert, doch ab diesem Jahr werden sie unter dem Namen New Icheon Forum gemeinsam betrieben. Die Zusammenlegung bringt strategische Diskussionen auf Gruppenebene und die Funktion einer Wissensmanagement-Plattform an einem Ort zusammen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "SK fusionne réunion stratégique et Forum Icheon en juin",
+        "excerpt": "SK Group regroupera sa réunion stratégique du premier semestre et sa plateforme de gestion des connaissances Forum Icheon du 11 au 13 juin à l’Institut SKMS d’Icheon.",
+        "body": "SK Group va fusionner deux rendez-vous qu’il organisait séparément chaque année : la réunion stratégique du premier semestre et la plateforme de gestion des connaissances appelée Forum Icheon. Selon des sources du secteur citées le 15, le groupe tiendra l’événement intégré du 11 au 13 juin à l’Institut de recherche SKMS d’Icheon, dans la province de Gyeonggi. Jusqu’à présent, la réunion stratégique et le Forum Icheon étaient menés séparément, mais à partir de cette année ils seront organisés ensemble sous le nom de Nouveau Forum Icheon. Cette intégration réunit dans un même lieu les discussions stratégiques du groupe et la fonction de plateforme de connaissances. Source : mk.co.kr."
+      },
+      "ar": {
+        "title": "مجموعة SK تدمج اجتماع الاستراتيجية ومنتدى إيتشون في يونيو",
+        "excerpt": "تدمج مجموعة SK اجتماعها الاستراتيجي للنصف الأول ومنصة إدارة المعرفة منتدى إيتشون، وتعقد الحدث الجديد من 11 إلى 13 يونيو في معهد SKMS بمدينة إيتشون.",
+        "body": "تعتزم مجموعة SK دمج فعاليّتين كانت تعقدهما بشكل منفصل كل عام: الاجتماع الاستراتيجي للنصف الأول ومنصة إدارة المعرفة المعروفة باسم منتدى إيتشون. ووفقاً لمصادر في القطاع في اليوم الخامس عشر، ستعقد المجموعة الحدث الموحّد من 11 إلى 13 يونيو في معهد SKMS للأبحاث بمدينة إيتشون في مقاطعة غيونغي. وكانت الفعاليتان تنظمان سابقاً بصورة مستقلة، لكنهما ستداران هذا العام معاً تحت اسم منتدى إيتشون الجديد. ويجمع هذا الدمج مناقشات الاستراتيجية على مستوى المجموعة ووظيفة منصة إدارة المعرفة في مكان واحد. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "SK Group जून में रणनीति बैठक और Icheon Forum को जोड़ेगा",
+        "excerpt": "SK Group अपनी पहली छमाही की वार्षिक रणनीति बैठक और ज्ञान प्रबंधन मंच Icheon Forum को मिलाकर 11-13 जून को Gyeonggi के Icheon स्थित SKMS Research Institute में आयोजित करेगा।",
+        "body": "SK Group उन दो कार्यक्रमों को एक साथ आयोजित करेगा जिन्हें वह हर साल अलग-अलग करता था: पहली छमाही की रणनीति बैठक और ज्ञान प्रबंधन मंच Icheon Forum। उद्योग सूत्रों के अनुसार, समूह 11 से 13 जून तक Gyeonggi प्रांत के Icheon शहर में SKMS Research Institute में संयुक्त कार्यक्रम आयोजित करेगा। पहले रणनीति बैठक और Icheon Forum अलग-अलग चलाए जाते थे, लेकिन इस वर्ष से इन्हें New Icheon Forum नाम से साथ संचालित किया जाएगा। यह एकीकरण समूह-स्तर की रणनीतिक चर्चा और ज्ञान प्रबंधन मंच की भूमिका को एक ही स्थान पर लाता है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "SK Gabungkan Rapat Strategi dan Forum Icheon pada Juni",
+        "excerpt": "SK Group akan menggabungkan rapat strategi semester pertama dan platform manajemen pengetahuan Forum Icheon pada 11-13 Juni di SKMS Research Institute, Icheon, Gyeonggi.",
+        "body": "SK Group akan menggabungkan dua acara yang selama ini digelar terpisah setiap tahun: rapat strategi semester pertama dan platform manajemen pengetahuan yang dikenal sebagai Forum Icheon. Menurut sumber industri pada tanggal 15, grup tersebut akan mengadakan acara terpadu pada 11 hingga 13 Juni di SKMS Research Institute di Icheon, Provinsi Gyeonggi. Sebelumnya, rapat strategi dan Forum Icheon berjalan secara independen, tetapi mulai tahun ini keduanya akan dioperasikan bersama dengan nama New Icheon Forum. Integrasi ini menempatkan pembahasan strategi tingkat grup dan fungsi platform manajemen pengetahuan dalam satu forum. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "facc9158a38c",
+    "slug": "불닭신화-주도한-김정수삼양식품-회장으로-승진-263902",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T09:37:39.444Z",
+    "updatedAt": "2026-05-15T09:37:39.444Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049375",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049375",
+    "titleFingerprint": "95f891aebe63e619e0a379ee1631d616da4ad035",
+    "dedupKeys": [
+      "facc9158a38c9ec8d3b293c6bff994a81d012158",
+      "95f891aebe63e619e0a379ee1631d616da4ad035",
+      "e706c45adcfa2bf5020e218d7fd948a5eff9ebd5"
+    ],
+    "imageUrl": "/images/articles/facc9158a38c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "김정수 삼양식품 회장 승진, ‘불닭볶음면’ 글로벌 수출 신화 이끈 주역",
+        "excerpt": "‘불닭볶음면’ 개발과 글로벌 수출 성과를 주도한 김정수 삼양식품 부회장이 회장으로 취임하며 글로벌 사업 확대와 책임 경영 강화에 나선다.",
+        "body": "‘불닭볶음면’ 개발을 주도하고 글로벌 수출 성과를 만든 김정수 삼양식품 부회장이 회장으로 취임한다. 삼양식품은 이번 인사를 통해 글로벌 사업 확대와 책임 경영 강화에 속도를 내겠다는 방침이다. 김정수 신임 회장은 불닭볶음면을 중심으로 한 해외 시장 성과를 이끈 인물로 평가된다. 이번 승진은 삼양식품이 해외 수요 확대에 대응하고 글로벌 성장 기반을 다지는 계기가 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samyang Foods Promotes Kim Jung-soo, Leader of Buldak Global Export Success",
+        "excerpt": "Kim Jung-soo, vice chair of Samyang Foods who led Buldak Bokkeummyeon development and global exports, will become chair as the company expands global business.",
+        "body": "Kim Jung-soo, vice chair of Samyang Foods, will take office as chair after leading the development of Buldak Bokkeummyeon and helping create strong global export results. Samyang Foods said the appointment is intended to accelerate global business expansion and strengthen responsible management. Kim is regarded as a key figure behind the overseas success centered on Buldak Bokkeummyeon. The promotion is expected to help the company respond to rising overseas demand and reinforce its global growth base. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "三養食品、ブルダック輸出を主導した金貞洙氏が会長に昇進へ",
+        "excerpt": "ブルダック炒め麺の開発と世界輸出の成果を主導した三養食品の金貞洙副会長が会長に就任し、海外事業拡大と責任経営を強化する。",
+        "body": "ブルダック炒め麺の開発を主導し、世界的な輸出成果を生み出した三養食品の金貞洙副会長が会長に就任する。三養食品は今回の人事を機に、グローバル事業の拡大と責任経営の強化を加速する方針だ。金新会長はブルダック炒め麺を中心とする海外市場での成果を導いた人物と評価されている。今回の昇進は、海外需要の拡大に対応し、グローバル成長基盤を固める契機になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三养食品任命金贞洙为会长，曾主导火鸡面全球出口增长",
+        "excerpt": "主导火鸡面开发并推动全球出口成果的三养食品副会长金贞洙将出任会长，公司借此加快全球业务扩张并强化责任经营。",
+        "body": "主导“火鸡面”开发并创造全球出口成果的三养食品副会长金贞洙将出任会长。三养食品表示，将以此次人事调整为契机，加快全球业务扩张并强化责任经营。金贞洙新任会长被认为是推动以火鸡面为核心的海外市场成果的关键人物。此次晋升预计将帮助三养食品应对海外需求扩大，并进一步巩固全球增长基础。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samyang Foods asciende a Kim Jung-soo, artífice del éxito global de Buldak",
+        "excerpt": "Kim Jung-soo, vicepresidenta de Samyang Foods que lideró Buldak Bokkeummyeon y sus exportaciones globales, asumirá como presidenta para ampliar el negocio mundial.",
+        "body": "Kim Jung-soo, vicepresidenta de Samyang Foods, asumirá como presidenta tras liderar el desarrollo de Buldak Bokkeummyeon y crear resultados de exportación global. Samyang Foods indicó que este nombramiento busca acelerar la expansión de sus negocios internacionales y reforzar la gestión responsable. Kim es considerada una figura clave detrás del desempeño en mercados extranjeros centrado en Buldak Bokkeummyeon. El ascenso se perfila como una oportunidad para responder a la mayor demanda exterior y consolidar la base de crecimiento global. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samyang Foods promove Kim Jung-soo, nome por trás do sucesso global do Buldak",
+        "excerpt": "Kim Jung-soo, vice-presidente da Samyang Foods que liderou o Buldak Bokkeummyeon e suas exportações globais, assumirá como presidente do conselho.",
+        "body": "Kim Jung-soo, vice-presidente da Samyang Foods, assumirá como presidente do conselho após liderar o desenvolvimento do Buldak Bokkeummyeon e gerar resultados de exportação global. A Samyang Foods informou que a nomeação deve acelerar a expansão dos negócios internacionais e fortalecer a gestão responsável. Kim é vista como figura central no desempenho externo baseado no Buldak Bokkeummyeon. A promoção deve ajudar a empresa a responder à demanda no exterior e reforçar sua base de crescimento global. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samyang Foods befördert Kim Jung-soo, treibende Kraft hinter Buldak-Erfolg",
+        "excerpt": "Kim Jung-soo, Vizechefin von Samyang Foods und führend bei Buldak Bokkeummyeon sowie globalen Exporten, wird Vorsitzende des Unternehmens.",
+        "body": "Kim Jung-soo, Vizevorsitzende von Samyang Foods, wird Vorsitzende, nachdem sie die Entwicklung von Buldak Bokkeummyeon geleitet und globale Exporterfolge erzielt hat. Samyang Foods will mit dieser Personalentscheidung die Ausweitung des internationalen Geschäfts beschleunigen und verantwortungsvolle Führung stärken. Kim gilt als zentrale Figur hinter den Auslandsergebnissen rund um Buldak Bokkeummyeon. Die Beförderung dürfte dem Unternehmen helfen, auf wachsende Auslandsnachfrage zu reagieren und seine globale Wachstumsbasis zu festigen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samyang Foods promeut Kim Jung-soo, figure du succès mondial de Buldak",
+        "excerpt": "Kim Jung-soo, vice-présidente de Samyang Foods qui a mené Buldak Bokkeummyeon et ses exportations mondiales, prendra la présidence de l’entreprise.",
+        "body": "Kim Jung-soo, vice-présidente de Samyang Foods, prendra la présidence après avoir dirigé le développement de Buldak Bokkeummyeon et contribué à des résultats d’exportation mondiaux. Samyang Foods entend, avec cette nomination, accélérer l’expansion de ses activités internationales et renforcer une gestion responsable. Kim est considérée comme une figure clé des performances à l’étranger centrées sur Buldak Bokkeummyeon. Cette promotion devrait aider l’entreprise à répondre à la demande extérieure et à consolider sa base de croissance mondiale. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ساميانغ فودز ترقّي كيم جونغ سو بعد قيادتها نجاح بولداك عالميا",
+        "excerpt": "كيم جونغ سو، نائبة رئيس ساميانغ فودز التي قادت تطوير بولداك بوككيوميون ونتائج التصدير العالمية، ستتولى منصب الرئيسة لتعزيز التوسع العالمي.",
+        "body": "ستتولى كيم جونغ سو، نائبة رئيس ساميانغ فودز، منصب الرئيسة بعدما قادت تطوير بولداك بوككيوميون وحققت نتائج في التصدير العالمي. وقالت ساميانغ فودز إن هذا التعيين يهدف إلى تسريع توسيع الأعمال العالمية وتعزيز الإدارة المسؤولة. وتُعد كيم شخصية رئيسية وراء الأداء في الأسواق الخارجية المرتبط ببولداك بوككيوميون. ومن المتوقع أن يساعد هذا الترقية الشركة على الاستجابة لزيادة الطلب الخارجي وترسيخ قاعدة النمو العالمية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "बुलडक की वैश्विक निर्यात सफलता के बाद किम जंग-सू Samyang Foods की चेयर बनीं",
+        "excerpt": "बुलडक बोक्केउम्योन के विकास और वैश्विक निर्यात उपलब्धियों का नेतृत्व करने वाली Samyang Foods की वाइस चेयर किम जंग-सू अब चेयर का पद संभालेंगी।",
+        "body": "Samyang Foods की वाइस चेयर किम जंग-सू चेयर का पद संभालेंगी। उन्होंने बुलडक बोक्केउम्योन के विकास का नेतृत्व किया और वैश्विक निर्यात उपलब्धियों में प्रमुख भूमिका निभाई। कंपनी ने कहा कि इस नियुक्ति के जरिए वह वैश्विक कारोबार विस्तार और जिम्मेदार प्रबंधन को तेज करेगी। किम को बुलडक बोक्केउम्योन केंद्रित विदेशी बाजार प्रदर्शन के पीछे अहम व्यक्ति माना जाता है। यह पदोन्नति कंपनी को विदेशी मांग के विस्तार का जवाब देने और वैश्विक विकास आधार मजबूत करने में मदद कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samyang Foods Angkat Kim Jung-soo, Tokoh di Balik Sukses Global Buldak",
+        "excerpt": "Kim Jung-soo, wakil ketua Samyang Foods yang memimpin pengembangan Buldak Bokkeummyeon dan ekspor global, akan menjabat ketua perusahaan.",
+        "body": "Kim Jung-soo, wakil ketua Samyang Foods, akan menjabat sebagai ketua setelah memimpin pengembangan Buldak Bokkeummyeon dan menciptakan capaian ekspor global. Samyang Foods menyatakan penunjukan ini menjadi momentum untuk mempercepat perluasan bisnis global dan memperkuat manajemen bertanggung jawab. Kim dinilai sebagai tokoh utama di balik kinerja pasar luar negeri yang berpusat pada Buldak Bokkeummyeon. Promosi ini diperkirakan membantu perusahaan merespons permintaan luar negeri dan memperkuat dasar pertumbuhan global. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f671f0fc4aad",
+    "slug": "삼성파업-공포韓증시-검은-금요일-516576",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T09:36:50.767Z",
+    "updatedAt": "2026-05-15T09:36:50.767Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049434",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049434",
+    "titleFingerprint": "dcecb885e8a515437146ec0e6c34e8c7e297c966",
+    "dedupKeys": [
+      "f671f0fc4aad90623d00930f91698d1ac0191658",
+      "dcecb885e8a515437146ec0e6c34e8c7e297c966",
+      "af732463cfc58e1e652bca83920e18c57f6174f0"
+    ],
+    "imageUrl": "/images/articles/f671f0fc4aad.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 파업 우려에 韓증시 검은 금요일, 노조가 내건 대화 조건은 성과급 제도화",
+        "excerpt": "15일 초기업노조 삼성전자지부가 성과급 제도화 안건이 없으면 6월 7일 이후 협의하겠다고 밝히며 삼성전자 파업 우려와 한국 증시 불안이 부각됐다.",
+        "body": "15일 오전 삼성전자 ‘파업 열차’를 이끌고 있는 초기업노조 삼성전자지부가 회사 측의 대화 촉구 제안에 조건부 입장을 내놓으면서 삼성전자 파업 우려가 한국 증시에 부담으로 부각됐다. 노조는 “성과급 제도화 안건이 없다면 6월 7일 이후에 사측과 협의할 의사가 있다”고 밝혔다. 이번 사안의 핵심은 회사와 노조 간 대화 재개 여부이며, 노조는 성과급 제도화를 협의 안건으로 포함해야 한다는 입장을 분명히 했다. 삼성전자 파업 가능성은 국내 대표 기업 이슈라는 점에서 투자심리와 한국 증시 흐름에 영향을 줄 수 있는 변수로 거론된다. 다만 원문에서 확인되는 내용은 노조의 조건부 협의 의사와 회사 측 대화 제안에 대한 반응이다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Samsung Electronics Strike Fears Hit Korean Stocks as Union Sets Bonus Talks Condition",
+        "excerpt": "On the 15th, Samsung Electronics’ union said it would consider talks after June 7 only if bonus system formalization is on the agenda, highlighting strike fears and pressure on Korean stocks.",
+        "body": "On the morning of the 15th, the Samsung Electronics branch of the Supra-Enterprise Union, which is leading Samsung Electronics’ “strike train,” responded conditionally to the company’s call for talks, bringing strike concerns into focus as a burden on the Korean stock market. The union said, “If there is no agenda item on formalizing the bonus system, we are willing to consult with management after June 7.” The central issue is whether dialogue between the company and the union will resume, with the union making clear that bonus system formalization must be included in the talks. As Samsung Electronics is a leading Korean company, a possible strike is being cited as a factor that could affect investor sentiment and the direction of Korean stocks. The original report confirms only the union’s conditional willingness to consult and its response to the company’s proposal for dialogue. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "サムスン電子スト懸念で韓国株に重荷、労組が賞与制度化を対話条件に提示",
+        "excerpt": "15日、サムスン電子労組は賞与制度化が議題になければ6月7日以降に協議する意向を示し、スト懸念と韓国株の不安が浮上した。",
+        "body": "15日午前、サムスン電子の「スト列車」を率いる超企業労組サムスン電子支部が、会社側の対話要請に条件付きの立場を示し、サムスン電子のスト懸念が韓国株式市場の重荷として意識された。労組は「賞与制度化の案件がなければ、6月7日以降に会社側と協議する意思がある」と述べた。今回の焦点は会社と労組の対話再開の可否であり、労組は賞与制度化を協議議題に含めるべきだとの立場を明確にした。韓国を代表する企業であるサムスン電子のスト可能性は、投資心理や韓国株の流れに影響し得る要因として挙げられる。ただし原文で確認される内容は、労組の条件付き協議意思と会社側の対話提案への反応に限られる。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "三星电子罢工担忧压制韩国股市，工会要求将奖金制度化纳入谈判",
+        "excerpt": "15日，三星电子工会表示，若不把奖金制度化列入议题，将在6月7日以后才愿与公司协商，罢工担忧与韩国股市不安升温。",
+        "body": "15日上午，带领三星电子“罢工列车”的超企业工会三星电子支部，对公司方面呼吁对话的提议作出有条件回应，使三星电子罢工担忧成为韩国股市的压力因素。工会表示：“如果没有奖金制度化议题，我们有意在6月7日以后与资方协商。” 此事的核心在于公司与工会是否重启对话，工会明确要求将奖金制度化纳入协商议题。由于三星电子是韩国代表性企业，罢工可能性被视为可能影响投资情绪和韩国股市走势的变量。不过，原文所确认的事实仅限于工会的有条件协商意愿，以及其对公司对话提议的回应。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Temor a huelga en Samsung pesa sobre la bolsa coreana mientras el sindicato exige debatir bonos",
+        "excerpt": "El día 15, el sindicato de Samsung Electronics dijo que solo consideraría negociar después del 7 de junio si la formalización de bonos entra en la agenda, elevando la inquietud bursátil.",
+        "body": "En la mañana del día 15, la rama de Samsung Electronics del sindicato supraempresarial que lidera el “tren de huelga” de la compañía respondió con condiciones al llamado de diálogo de la empresa, lo que puso el temor a una huelga como una carga para la bolsa coreana. El sindicato afirmó: “Si no hay un punto sobre la formalización del sistema de bonos, estamos dispuestos a consultar con la empresa después del 7 de junio”. El eje del asunto es si se reanudará el diálogo entre la compañía y el sindicato, que dejó claro que la formalización de los bonos debe incluirse en la agenda. Dado que Samsung Electronics es una empresa representativa de Corea, la posibilidad de huelga se menciona como un factor que puede influir en el ánimo inversor y en el mercado coreano. El texto original confirma solo la disposición condicional del sindicato y su respuesta a la propuesta de diálogo de la empresa. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Temor de greve na Samsung pesa sobre ações coreanas; sindicato exige pauta sobre bônus",
+        "excerpt": "No dia 15, o sindicato da Samsung Electronics disse que só aceitaria negociar após 7 de junho se a formalização dos bônus entrar na pauta, elevando a cautela no mercado coreano.",
+        "body": "Na manhã do dia 15, a seção da Samsung Electronics do sindicato supraempresarial que lidera o “trem de greve” da companhia respondeu de forma condicional ao pedido de diálogo da empresa, trazendo o temor de greve como um peso para o mercado acionário coreano. O sindicato afirmou: “Se não houver uma pauta sobre a formalização do sistema de bônus, temos disposição para consultar a empresa após 7 de junho”. O ponto central é a retomada ou não do diálogo entre companhia e sindicato, com a entidade deixando claro que a formalização dos bônus deve entrar na agenda. Como a Samsung Electronics é uma empresa representativa da Coreia, a possibilidade de greve é citada como variável capaz de afetar o sentimento dos investidores e o rumo das ações coreanas. O original confirma apenas a disposição condicional do sindicato e sua resposta à proposta de diálogo da empresa. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Streikangst bei Samsung belastet Koreas Aktienmarkt, Gewerkschaft verlangt Bonus-Agenda",
+        "excerpt": "Am 15. erklärte die Samsung-Electronics-Gewerkschaft, sie wolle nach dem 7. Juni nur verhandeln, wenn die Formalisierung des Bonussystems auf der Agenda steht.",
+        "body": "Am Morgen des 15. reagierte die Samsung-Electronics-Sektion der überbetrieblichen Gewerkschaft, die den “Streikzug” bei Samsung Electronics anführt, mit Bedingungen auf den Dialogaufruf des Unternehmens. Damit rückten Streiksorgen als Belastung für den koreanischen Aktienmarkt in den Fokus. Die Gewerkschaft erklärte: “Wenn es keinen Tagesordnungspunkt zur Formalisierung des Bonussystems gibt, sind wir bereit, nach dem 7. Juni mit der Unternehmensseite zu beraten.” Im Kern geht es darum, ob der Dialog zwischen Unternehmen und Gewerkschaft wieder aufgenommen wird. Die Gewerkschaft machte deutlich, dass die Formalisierung des Bonussystems Teil der Gespräche sein müsse. Da Samsung Electronics ein führendes koreanisches Unternehmen ist, wird ein möglicher Streik als Faktor genannt, der Anlegerstimmung und Marktverlauf beeinflussen kann. Der Originalbericht bestätigt nur die bedingte Gesprächsbereitschaft der Gewerkschaft und ihre Reaktion auf den Dialogvorschlag des Unternehmens. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "La crainte d’une grève chez Samsung pèse sur la Bourse coréenne, le syndicat exige les primes",
+        "excerpt": "Le 15, le syndicat de Samsung Electronics a dit qu’il discuterait après le 7 juin seulement si la formalisation des primes figure à l’ordre du jour.",
+        "body": "Dans la matinée du 15, la branche Samsung Electronics du syndicat supra-entreprise, qui mène le “train de la grève” chez Samsung Electronics, a répondu sous conditions à l’appel au dialogue de la direction, plaçant la crainte d’une grève parmi les facteurs pesant sur la Bourse coréenne. Le syndicat a déclaré: “S’il n’y a pas de point sur la formalisation du système de primes, nous sommes disposés à consulter la direction après le 7 juin.” L’enjeu central est la reprise ou non du dialogue entre l’entreprise et le syndicat, ce dernier affirmant que la formalisation des primes doit être incluse dans les discussions. Samsung Electronics étant une entreprise phare en Corée, une éventuelle grève est citée comme un facteur susceptible d’influencer le sentiment des investisseurs et l’évolution du marché coréen. Le texte original confirme seulement la volonté conditionnelle du syndicat et sa réponse à la proposition de dialogue de l’entreprise. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "مخاوف إضراب سامسونغ تضغط على أسهم كوريا والنقابة تشترط بحث نظام المكافآت",
+        "excerpt": "في 15 من الشهر، قالت نقابة سامسونغ إلكترونيكس إنها قد تتفاوض بعد 7 يونيو فقط إذا أدرجت مسألة إضفاء الطابع المؤسسي على المكافآت في جدول الأعمال.",
+        "body": "صباح يوم 15، رد فرع سامسونغ إلكترونيكس في النقابة فوق المؤسسية، الذي يقود “قطار الإضراب” في الشركة، بشكل مشروط على دعوة الإدارة إلى الحوار، ما جعل مخاوف الإضراب عبئا على سوق الأسهم الكورية. وقالت النقابة: “إذا لم يكن هناك بند بشأن إضفاء الطابع المؤسسي على نظام المكافآت، فلدينا استعداد للتشاور مع جانب الشركة بعد 7 يونيو.” جوهر المسألة هو ما إذا كان الحوار بين الشركة والنقابة سيستأنف، إذ أوضحت النقابة أن إدراج نظام المكافآت في جدول المفاوضات شرط أساسي. وبما أن سامسونغ إلكترونيكس شركة ممثلة لكوريا، فإن احتمال الإضراب يطرح كعامل قد يؤثر في معنويات المستثمرين واتجاه السوق الكورية. ولا يؤكد النص الأصلي سوى استعداد النقابة المشروط للتشاور وردها على اقتراح الشركة للحوار. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "Samsung हड़ताल की आशंका से कोरियाई शेयर बाजार दबाव में, यूनियन ने बोनस एजेंडा मांगा",
+        "excerpt": "15 तारीख को Samsung Electronics यूनियन ने कहा कि बोनस व्यवस्था को एजेंडे में न रखने पर वह 7 जून के बाद ही कंपनी से बातचीत पर विचार करेगी।",
+        "body": "15 तारीख की सुबह Samsung Electronics की “हड़ताल ट्रेन” का नेतृत्व कर रही सुपर-एंटरप्राइज यूनियन की Samsung Electronics शाखा ने कंपनी की बातचीत की अपील पर सशर्त रुख रखा, जिससे Samsung Electronics में हड़ताल की आशंका कोरियाई शेयर बाजार पर दबाव के रूप में उभरी। यूनियन ने कहा, “यदि बोनस व्यवस्था को संस्थागत बनाने का एजेंडा नहीं है, तो हम 7 जून के बाद प्रबंधन से परामर्श करने को तैयार हैं।” इस मामले का मुख्य बिंदु कंपनी और यूनियन के बीच बातचीत फिर शुरू होगी या नहीं है, और यूनियन ने स्पष्ट किया कि बोनस व्यवस्था का संस्थाकरण चर्चा में शामिल होना चाहिए। Samsung Electronics कोरिया की प्रमुख कंपनी है, इसलिए संभावित हड़ताल निवेशक भावना और कोरियाई बाजार की दिशा को प्रभावित करने वाला कारक मानी जा रही है। मूल रिपोर्ट में केवल यूनियन की सशर्त बातचीत की इच्छा और कंपनी के संवाद प्रस्ताव पर उसकी प्रतिक्रिया की पुष्टि होती है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Kekhawatiran Mogok Samsung Tekan Bursa Korea, Serikat Minta Agenda Sistem Bonus",
+        "excerpt": "Pada tanggal 15, serikat Samsung Electronics menyatakan hanya bersedia berunding setelah 7 Juni jika formalisasi sistem bonus masuk agenda, memicu kekhawatiran pasar Korea.",
+        "body": "Pada pagi tanggal 15, cabang Samsung Electronics dari serikat supra-perusahaan yang memimpin “kereta mogok” Samsung Electronics memberikan tanggapan bersyarat atas ajakan dialog dari pihak perusahaan, sehingga kekhawatiran mogok menjadi beban bagi pasar saham Korea. Serikat menyatakan, “Jika tidak ada agenda tentang formalisasi sistem bonus, kami bersedia berkonsultasi dengan pihak perusahaan setelah 7 Juni.” Inti persoalannya adalah apakah dialog antara perusahaan dan serikat akan dimulai kembali, sementara serikat menegaskan bahwa formalisasi sistem bonus harus masuk dalam agenda pembahasan. Karena Samsung Electronics merupakan perusahaan utama Korea, kemungkinan mogok disebut sebagai variabel yang dapat memengaruhi sentimen investor dan arah bursa Korea. Namun, isi yang terkonfirmasi dari teks asli hanya mencakup kesediaan bersyarat serikat untuk berunding dan responsnya terhadap proposal dialog perusahaan. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "b056022554d4",
     "slug": "김명수-매경ax-대표-기술은-따라잡혀도-신뢰는-복제-못해-974996",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Demam Emas Era AI: Siapa Diuntungkan Saat Teknologi Mengubah Hidup?",
         "excerpt": "mk.co.kr menyoroti proses kemajuan teknologi mengubah keseharian dan, lewat contoh demam emas, mempertanyakan siapa yang bisa menangkap peluang di era AI.",
         "body": "Perubahan keseharian yang dipicu teknologi kembali menjadi perhatian. mk.co.kr melaporkan bahwa sejarah manusia juga merupakan sejarah perkembangan teknologi, tetapi teknologi tidak langsung mengubah dunia pada saat ditemukan. Sebagian besar revolusi lebih dulu lahir di laboratorium, lalu setelah waktu yang cukup lama mulai memengaruhi kehidupan dan industri. Artikel itu menyinggung adanya pihak yang meraup uang pada masa demam emas, lalu bertanya siapa yang akan memainkan peran tersebut di era AI. Pertanyaan ini diajukan dalam konteks kecerdasan buatan yang dapat bergerak melampaui sekadar tren teknologi dan mendorong perubahan dalam kehidupan sehari-hari serta ekonomi. Sumber: dikutip dari mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5a72da71a500",
-    "slug": "삼전닉스-단일종목-레버리지-etf-14개-27일-출격-577116",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T18:29:54.304Z",
-    "updatedAt": "2026-05-14T18:29:54.304Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051469726",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051469726",
-    "titleFingerprint": "b47b78ff59956d02b1d03aa6bd01808aa6a4345d",
-    "dedupKeys": [
-      "5a72da71a50066a926935e5f487b575201cbaba8",
-      "b47b78ff59956d02b1d03aa6bd01808aa6a4345d",
-      "78e3f9f8005a9e367d9793a6b22ae54ba7006b41"
-    ],
-    "imageUrl": "/images/articles/5a72da71a500.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자·SK하이닉스 단일종목 레버리지 ETF 14개, 27일 상장",
-        "excerpt": "삼성전자와 SK하이닉스를 기초로 한 단일종목 레버리지 ETF 14개가 27일 출격한다. 국내 대표 반도체주에 연동된 고위험 상품 출시가 투자자 관심을 끈다.",
-        "body": "삼성전자와 SK하이닉스를 기초자산으로 삼는 단일종목 레버리지 ETF 14개가 27일 시장에 나온다. 국내 대표 반도체주 두 종목을 대상으로 한 상장지수펀드가 한꺼번에 출시되는 것이다. 이번 상품은 개별 종목의 움직임에 레버리지 구조를 결합한 형태로, 투자자는 해당 주가 흐름에 더 민감하게 노출된다. 삼성전자와 SK하이닉스는 국내 증시에서 거래대금과 투자자 관심이 큰 종목인 만큼 관련 ETF 출시도 주목받고 있다. 다만 단일종목과 레버리지가 결합된 상품은 수익과 손실 변동성이 모두 커질 수 있어 투자 판단에 유의가 필요하다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "14 Single-Stock Leveraged ETFs on Samsung, SK Hynix Set for May 27",
-        "excerpt": "Fourteen single-stock leveraged ETFs tied to Samsung Electronics and SK Hynix will launch on May 27, drawing investor attention to high-volatility semiconductor-linked products.",
-        "body": "Fourteen single-stock leveraged ETFs based on Samsung Electronics and SK Hynix will enter the market on May 27. The exchange-traded funds are being launched at once around two of South Korea’s leading semiconductor stocks. These products combine exposure to individual share-price moves with a leverage structure, giving investors more sensitive exposure to the underlying stocks. Samsung Electronics and SK Hynix are among the domestic market’s most closely watched names by trading value and investor interest, making the ETF rollout notable. However, products that combine single-stock exposure with leverage can increase both gains and losses, requiring careful investment judgment. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "サムスン電子・SKハイニックス単一銘柄レバレッジETF14本、27日上場",
-        "excerpt": "サムスン電子とSKハイニックスを対象にした単一銘柄レバレッジETF14本が27日に登場する。韓国半導体株連動の高変動商品に関心が集まる。",
-        "body": "サムスン電子とSKハイニックスを基礎資産とする単一銘柄レバレッジETF14本が27日に市場へ投入される。韓国を代表する半導体株2銘柄を対象にした上場投資信託が一斉に発売される形だ。これらの商品は個別銘柄の値動きにレバレッジ構造を組み合わせたもので、投資家は対象株の価格変動により敏感にさらされる。サムスン電子とSKハイニックスは韓国株式市場で売買代金と投資家の関心が大きい銘柄であり、関連ETFの上場も注目されている。ただし単一銘柄とレバレッジを組み合わせた商品は利益と損失の変動幅がともに大きくなり得るため、投資判断には注意が必要だ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "三星电子、SK海力士单一股票杠杆ETF 14只将于27日上市",
-        "excerpt": "以三星电子和SK海力士为标的的14只单一股票杠杆ETF将于27日推出，韩国代表性半导体股相关高波动产品受到投资者关注。",
-        "body": "以三星电子和SK海力士为基础资产的14只单一股票杠杆ETF将于27日进入市场。这意味着围绕韩国两大代表性半导体股票的交易型开放式指数基金将集中推出。此类产品把个股价格波动与杠杆结构相结合，使投资者对相关股票走势获得更敏感的敞口。三星电子和SK海力士在韩国股市中交易金额较大、投资者关注度较高，因此相关ETF上市也备受关注。不过，单一股票与杠杆结合的产品可能同时放大收益和亏损，投资者在作出判断时需要保持谨慎。来源: hankyung.com"
-      },
-      "es": {
-        "title": "14 ETF apalancados de una sola acción sobre Samsung y SK Hynix llegan el 27",
-        "excerpt": "Catorce ETF apalancados de una sola acción vinculados a Samsung Electronics y SK Hynix saldrán al mercado el 27, con foco en productos ligados a semiconductores coreanos.",
-        "body": "Catorce ETF apalancados de una sola acción basados en Samsung Electronics y SK Hynix llegarán al mercado el día 27. Se trata de una salida conjunta de fondos cotizados vinculados a dos de las principales acciones de semiconductores de Corea del Sur. Estos productos combinan los movimientos de una acción individual con una estructura de apalancamiento, lo que ofrece a los inversores una exposición más sensible al comportamiento del precio del subyacente. Samsung Electronics y SK Hynix son valores con alto volumen de negociación e interés inversor en el mercado local, por lo que el lanzamiento de estos ETF recibe atención. Aun así, la combinación de una sola acción y apalancamiento puede ampliar tanto ganancias como pérdidas, por lo que exige cautela. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "14 ETFs alavancados de ação única de Samsung e SK Hynix estreiam no dia 27",
-        "excerpt": "Quatorze ETFs alavancados de ação única ligados à Samsung Electronics e à SK Hynix serão lançados no dia 27, atraindo atenção para produtos de semicondutores coreanos.",
-        "body": "Quatorze ETFs alavancados de ação única baseados na Samsung Electronics e na SK Hynix chegarão ao mercado no dia 27. Os fundos negociados em bolsa serão lançados de uma só vez com foco em duas das principais ações de semicondutores da Coreia do Sul. Esses produtos combinam a variação de preço de ações individuais com uma estrutura de alavancagem, dando aos investidores exposição mais sensível ao movimento dos papéis subjacentes. Samsung Electronics e SK Hynix estão entre os nomes mais acompanhados do mercado local em volume de negociação e interesse dos investidores, o que torna o lançamento relevante. Ainda assim, produtos que unem ação única e alavancagem podem ampliar ganhos e perdas, exigindo cautela na decisão de investimento. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "14 gehebelte Single-Stock-ETFs auf Samsung und SK Hynix starten am 27.",
-        "excerpt": "Vierzehn gehebelte Single-Stock-ETFs auf Samsung Electronics und SK Hynix kommen am 27. an den Markt und lenken den Blick auf volatile Halbleiterprodukte aus Korea.",
-        "body": "Vierzehn gehebelte Single-Stock-ETFs auf Samsung Electronics und SK Hynix kommen am 27. an den Markt. Damit werden börsengehandelte Fonds auf zwei führende südkoreanische Halbleiterwerte gleichzeitig eingeführt. Die Produkte verbinden die Kursbewegung einzelner Aktien mit einer Hebelstruktur, wodurch Anleger stärker auf Bewegungen der zugrunde liegenden Aktien reagieren. Samsung Electronics und SK Hynix gehören am heimischen Aktienmarkt zu den Titeln mit hohem Handelsvolumen und großem Anlegerinteresse, weshalb die Einführung der entsprechenden ETFs Beachtung findet. Zugleich können Produkte, die Einzelaktienexposure und Hebel kombinieren, Gewinne wie Verluste vergrößern. Eine sorgfältige Anlageentscheidung bleibt daher wichtig. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "14 ETF à effet de levier sur Samsung et SK Hynix lancés le 27",
-        "excerpt": "Quatorze ETF à effet de levier sur action unique liés à Samsung Electronics et SK Hynix seront lancés le 27, attirant l’attention sur des produits coréens de semi-conducteurs.",
-        "body": "Quatorze ETF à effet de levier sur action unique, adossés à Samsung Electronics et SK Hynix, arriveront sur le marché le 27. Ces fonds cotés seront lancés simultanément autour de deux grandes valeurs sud-coréennes des semi-conducteurs. Ils combinent les mouvements d’une action individuelle avec une structure de levier, offrant aux investisseurs une exposition plus sensible à l’évolution du cours des titres sous-jacents. Samsung Electronics et SK Hynix figurent parmi les valeurs les plus suivies du marché local en raison de leurs volumes d’échanges et de l’intérêt des investisseurs, ce qui rend ce lancement notable. Toutefois, l’association d’une action unique et d’un levier peut amplifier à la fois les gains et les pertes, appelant à une décision d’investissement prudente. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "إطلاق 14 صندوق ETF برافعة على سهم واحد لسامسونغ وSK هاينكس في 27",
-        "excerpt": "سيتم إطلاق 14 صندوق ETF برافعة مالية مرتبطة بسهم واحد لكل من سامسونغ إلكترونيكس وSK هاينكس في 27، ما يلفت الانتباه إلى منتجات أشباه الموصلات الكورية.",
-        "body": "تدخل 14 صندوق ETF برافعة مالية على سهم واحد، تستند إلى سامسونغ إلكترونيكس وSK هاينكس، السوق في 27. ويعني ذلك إطلاق صناديق متداولة مرتبطة بسهمين رئيسيين في قطاع أشباه الموصلات في كوريا الجنوبية دفعة واحدة. تجمع هذه المنتجات بين حركة سعر السهم الفردي وهيكل الرافعة المالية، ما يجعل تعرض المستثمرين لتحركات الأسهم الأساسية أكثر حساسية. وتعد سامسونغ إلكترونيكس وSK هاينكس من الأسماء التي تحظى بتداول واهتمام كبيرين في السوق المحلية، لذلك يحظى إطلاق صناديق ETF المرتبطة بهما بمتابعة لافتة. لكن الجمع بين سهم واحد والرافعة المالية قد يضخم المكاسب والخسائر على حد سواء، ما يتطلب حذرا في قرار الاستثمار. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Samsung और SK Hynix पर 14 सिंगल-स्टॉक लीवरेज ETF 27 को लॉन्च",
-        "excerpt": "Samsung Electronics और SK Hynix से जुड़े 14 सिंगल-स्टॉक लीवरेज ETF 27 तारीख को बाजार में आएंगे, जिससे कोरियाई सेमीकंडक्टर शेयरों से जुड़े उत्पादों पर ध्यान बढ़ा है।",
-        "body": "Samsung Electronics और SK Hynix को आधार संपत्ति बनाने वाले 14 सिंगल-स्टॉक लीवरेज ETF 27 तारीख को बाजार में आएंगे। यह दक्षिण कोरिया की दो प्रमुख सेमीकंडक्टर कंपनियों के शेयरों पर केंद्रित एक्सचेंज-ट्रेडेड फंडों का एक साथ लॉन्च है। ये उत्पाद किसी एक शेयर की कीमत में बदलाव को लीवरेज संरचना से जोड़ते हैं, जिससे निवेशकों का संबंधित शेयरों की चाल के प्रति एक्सपोजर अधिक संवेदनशील हो जाता है। Samsung Electronics और SK Hynix घरेलू बाजार में कारोबार मूल्य और निवेशक रुचि के लिहाज से प्रमुख नाम हैं, इसलिए इन ETF का लॉन्च ध्यान खींच रहा है। हालांकि सिंगल-स्टॉक और लीवरेज का संयोजन लाभ और नुकसान दोनों की अस्थिरता बढ़ा सकता है, इसलिए निवेश निर्णय में सावधानी जरूरी है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "14 ETF leverage saham tunggal Samsung dan SK Hynix meluncur pada 27",
-        "excerpt": "Empat belas ETF leverage saham tunggal berbasis Samsung Electronics dan SK Hynix akan meluncur pada 27, menarik perhatian pada produk terkait saham semikonduktor Korea.",
-        "body": "Empat belas ETF leverage saham tunggal dengan aset dasar Samsung Electronics dan SK Hynix akan masuk pasar pada tanggal 27. Produk reksa dana yang diperdagangkan di bursa ini diluncurkan sekaligus dengan fokus pada dua saham semikonduktor utama Korea Selatan. Instrumen tersebut menggabungkan pergerakan harga saham individual dengan struktur leverage, sehingga investor mendapat eksposur yang lebih sensitif terhadap perubahan harga saham acuan. Samsung Electronics dan SK Hynix merupakan saham yang banyak diperhatikan di pasar domestik karena nilai transaksi dan minat investor yang besar, sehingga peluncuran ETF terkait ikut menjadi sorotan. Namun, kombinasi saham tunggal dan leverage dapat memperbesar potensi keuntungan sekaligus kerugian, sehingga keputusan investasi perlu dilakukan dengan hati-hati. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "ae0fa323964e",
-    "slug": "내일의-kiw몸값-1조-딥엑스부터-지드래곤-소속사-ipo-무대-선다-948369",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T18:28:52.173Z",
-    "updatedAt": "2026-05-14T18:28:52.173Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605146970i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605146970i",
-    "titleFingerprint": "8c4f8c067c98f8650eadd4f00f16929f6e7e5d3b",
-    "dedupKeys": [
-      "ae0fa323964e47b89374f632ff76a635c8435ade",
-      "8c4f8c067c98f8650eadd4f00f16929f6e7e5d3b",
-      "f0f8bb23e7abc7e0bb9d1249a33c25429bd2a761"
-    ],
-    "imageUrl": "/images/articles/ae0fa323964e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "KIW 2026 IPO 무대에 딥엑스·지드래곤 소속사 등판",
-        "excerpt": "5월 15일 KIW 2026 마지막 날 딥엑스, 갤럭시코퍼레이션 등 비상장 혁신기업이 IPO 청사진과 성장 전략을 공개하며 투자자 관심을 모은다.",
-        "body": "코리아 인베스트먼트 위크(KIW) 2026 마지막 날인 5월 15일, 국내 비상장 혁신기업들이 기업공개(IPO) 청사진을 공개한다. AI 반도체 스타트업 딥엑스, 지드래곤 소속사로 알려진 갤럭시코퍼레이션, 해빗팩토리, 엘리스그룹, 엘박스, 삼홍아크튜리온, 에이로봇 등이 참여한다. 딥엑스는 온디바이스 AI 반도체와 초저전력 NPU 기술을 앞세우며, 상장 시 기업가치가 1조원을 넘을 것으로 시장에서 거론된다. 갤럭시코퍼레이션은 미국 상장 계획과 해외 투자 유치 전략을 설명한다. 한국경제(hankyung.com)에 따르면 이들 기업은 투자자에게 성장 전략과 상장 로드맵을 제시할 예정이다."
-      },
-      "en": {
-        "title": "KIW 2026 IPO Stage: DeepX and G-Dragon Agency in Focus",
-        "excerpt": "On May 15, the final day of KIW 2026, unlisted innovators including DeepX and Galaxy Corporation will present IPO plans and growth strategies to investors.",
-        "body": "On May 15, the final day of Korea Investment Week (KIW) 2026, major unlisted innovation companies in South Korea will unveil their initial public offering plans. Participants include AI semiconductor startup DeepX, Galaxy Corporation, known as G-Dragon’s agency, Habit Factory, Elice Group, LBox, Samhong Arcturion and A-Robot. DeepX is regarded as a leader in on-device AI semiconductors with ultra-low-power NPU technology, and the market is discussing a valuation above 1 trillion won if it lists. Galaxy Corporation will outline its U.S. listing plan and overseas fundraising strategy. According to hankyung.com, the companies will present growth strategies and listing road maps to investors."
-      },
-      "ja": {
-        "title": "KIW 2026のIPO舞台、DeepXとG-DRAGON所属事務所に注目",
-        "excerpt": "5月15日のKIW 2026最終日に、DeepXやギャラクシーコーポレーションなど未上場革新企業がIPO構想と成長戦略を投資家に示す。",
-        "body": "コリア・インベストメント・ウィーク（KIW）2026の最終日である5月15日、韓国の主要未上場革新企業が新規株式公開（IPO）の青写真を公開する。参加企業はAI半導体スタートアップのDeepX、G-DRAGONの所属事務所として知られるギャラクシーコーポレーション、Habit Factory、Elice Group、LBox、Samhong Arcturion、A-Robotなど。DeepXはオンデバイスAI半導体と超低消費電力NPU技術を強みにし、上場時の企業価値が1兆ウォンを超えるとの見方が市場で出ている。ギャラクシーコーポレーションは米国上場計画と海外投資誘致戦略を説明する。hankyung.comによると、各社は投資家に成長戦略と上場ロードマップを提示する予定だ。"
-      },
-      "zh": {
-        "title": "KIW 2026 IPO舞台：DeepX与G-Dragon经纪公司受关注",
-        "excerpt": "5月15日KIW 2026最后一天，DeepX、Galaxy Corporation等未上市创新企业将向投资者展示IPO蓝图和增长战略。",
-        "body": "在韩国投资周（KIW）2026最后一天5月15日，韩国主要未上市创新企业将公布首次公开募股（IPO）蓝图。参与企业包括AI半导体初创公司DeepX、以G-Dragon所属公司闻名的Galaxy Corporation、Habit Factory、Elice Group、LBox、Samhong Arcturion和A-Robot等。DeepX主打端侧AI半导体和超低功耗NPU技术，市场认为其上市时企业价值可能超过1万亿韩元。Galaxy Corporation将说明赴美上市计划和吸引海外投资的战略。据hankyung.com报道，这些企业将向投资者提出增长战略和上市路线图。"
-      },
-      "es": {
-        "title": "KIW 2026: DeepX y la agencia de G-Dragon van al escenario IPO",
-        "excerpt": "El 15 de mayo, último día de KIW 2026, DeepX, Galaxy Corporation y otras firmas innovadoras no cotizadas presentarán planes de IPO y estrategias de crecimiento.",
-        "body": "El 15 de mayo, último día de Korea Investment Week (KIW) 2026, destacadas empresas innovadoras no cotizadas de Corea del Sur presentarán sus planes de oferta pública inicial (IPO). Entre las participantes estarán la startup de semiconductores de IA DeepX, Galaxy Corporation, conocida como la agencia de G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion y A-Robot. DeepX es considerada una referencia en semiconductores de IA en dispositivo y tecnología NPU de ultrabajo consumo, y el mercado menciona una valoración superior a 1 billón de wones si sale a bolsa. Galaxy Corporation expondrá su plan de cotización en Estados Unidos y su estrategia para atraer inversión extranjera. Según hankyung.com, las compañías presentarán a los inversores sus estrategias de crecimiento y hojas de ruta de salida a bolsa."
-      },
-      "pt": {
-        "title": "KIW 2026: DeepX e agência de G-Dragon entram no palco de IPO",
-        "excerpt": "Em 15 de maio, último dia da KIW 2026, DeepX, Galaxy Corporation e outras empresas inovadoras fechadas apresentarão planos de IPO e estratégias de crescimento.",
-        "body": "Em 15 de maio, último dia da Korea Investment Week (KIW) 2026, importantes empresas inovadoras não listadas da Coreia do Sul revelarão seus planos de oferta pública inicial (IPO). Entre as participantes estão a startup de semicondutores de IA DeepX, a Galaxy Corporation, conhecida como agência de G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion e A-Robot. A DeepX é vista como referência em semicondutores de IA on-device e tecnologia NPU de ultrabaixo consumo, e o mercado comenta que seu valor poderia superar 1 trilhão de won se for listada. A Galaxy Corporation explicará seu plano de listagem nos Estados Unidos e sua estratégia para atrair investimento estrangeiro. Segundo hankyung.com, as empresas apresentarão a investidores estratégias de crescimento e roteiros de listagem."
-      },
-      "de": {
-        "title": "KIW 2026: DeepX und G-Dragon-Agentur rücken bei IPOs in den Fokus",
-        "excerpt": "Am 15. Mai, dem letzten Tag der KIW 2026, stellen DeepX, Galaxy Corporation und weitere nicht börsennotierte Innovationsfirmen IPO-Pläne und Wachstumsstrategien vor.",
-        "body": "Am 15. Mai, dem letzten Tag der Korea Investment Week (KIW) 2026, legen führende nicht börsennotierte Innovationsunternehmen aus Südkorea ihre Pläne für Börsengänge offen. Dabei sind das KI-Halbleiter-Startup DeepX, Galaxy Corporation, bekannt als Agentur von G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion und A-Robot. DeepX gilt als führend bei On-Device-KI-Halbleitern und extrem stromsparender NPU-Technologie; am Markt wird bei einem Börsengang ein Unternehmenswert von mehr als 1 Billion Won diskutiert. Galaxy Corporation erläutert Pläne für eine US-Notierung und eine Strategie zur Gewinnung ausländischer Investoren. Laut hankyung.com wollen die Unternehmen Investoren Wachstumsstrategien und Börsenfahrpläne vorstellen."
-      },
-      "fr": {
-        "title": "KIW 2026 : DeepX et l’agence de G-Dragon sur la scène des IPO",
-        "excerpt": "Le 15 mai, dernier jour de KIW 2026, DeepX, Galaxy Corporation et d’autres entreprises innovantes non cotées présenteront leurs projets d’IPO et stratégies de croissance.",
-        "body": "Le 15 mai, dernier jour de la Korea Investment Week (KIW) 2026, de grandes entreprises sud-coréennes innovantes non cotées dévoileront leurs projets d’introduction en Bourse. Parmi elles figurent la start-up de semi-conducteurs IA DeepX, Galaxy Corporation, connue comme l’agence de G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion et A-Robot. DeepX est considérée comme un acteur majeur des semi-conducteurs IA embarqués et de la technologie NPU à très faible consommation, et le marché évoque une valorisation supérieure à 1 000 milliards de wons en cas de cotation. Galaxy Corporation détaillera son projet de cotation aux États-Unis et sa stratégie d’attraction d’investissements étrangers. Selon hankyung.com, ces entreprises présenteront aux investisseurs leurs stratégies de croissance et feuilles de route de cotation."
-      },
-      "ar": {
-        "title": "KIW 2026: ديب إكس ووكالة جي-دراغون على منصة الطروحات",
-        "excerpt": "في 15 مايو، اليوم الأخير من KIW 2026، تعرض ديب إكس وغالاكسي كوربوريشن وشركات ابتكار غير مدرجة خطط الطرح العام واستراتيجيات النمو أمام المستثمرين.",
-        "body": "في 15 مايو، اليوم الأخير من أسبوع كوريا للاستثمار KIW 2026، تكشف شركات ابتكار كورية جنوبية غير مدرجة عن تصوراتها للطرح العام الأولي. وتضم القائمة شركة أشباه موصلات الذكاء الاصطناعي الناشئة ديب إكس، وغالاكسي كوربوريشن المعروفة بأنها وكالة جي-دراغون، وهابيت فاكتوري، وإليس غروب، وإل بوكس، وسامهــونغ أركتوريون، وإيه روبوت. تعد ديب إكس من أبرز شركات أشباه موصلات الذكاء الاصطناعي على الأجهزة وتقنية NPU فائقة انخفاض استهلاك الطاقة، ويتداول السوق احتمال تجاوز قيمتها تريليون وون عند الإدراج. وستعرض غالاكسي كوربوريشن خطة الإدراج في الولايات المتحدة واستراتيجية جذب الاستثمار الخارجي. وبحسب hankyung.com، ستقدم هذه الشركات للمستثمرين استراتيجيات النمو وخرائط طريق الإدراج."
-      },
-      "hi": {
-        "title": "KIW 2026 IPO मंच पर DeepX और G-Dragon की एजेंसी पर नजर",
-        "excerpt": "15 मई को KIW 2026 के अंतिम दिन DeepX, Galaxy Corporation और अन्य गैर-सूचीबद्ध नवाचार कंपनियां निवेशकों के सामने IPO योजनाएं और वृद्धि रणनीतियां रखेंगी।",
-        "body": "15 मई को Korea Investment Week (KIW) 2026 के अंतिम दिन दक्षिण कोरिया की प्रमुख गैर-सूचीबद्ध नवाचार कंपनियां अपनी प्रारंभिक सार्वजनिक पेशकश (IPO) की रूपरेखा पेश करेंगी। इनमें AI सेमीकंडक्टर स्टार्टअप DeepX, G-Dragon की एजेंसी के रूप में प्रसिद्ध Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion और A-Robot शामिल हैं। DeepX ऑन-डिवाइस AI सेमीकंडक्टर और अल्ट्रा-लो-पावर NPU तकनीक के लिए जानी जाती है, और बाजार में चर्चा है कि सूचीबद्ध होने पर इसका मूल्य 1 ट्रिलियन वॉन से ऊपर जा सकता है। Galaxy Corporation अमेरिका में सूचीबद्ध होने की योजना और विदेशी निवेश आकर्षित करने की रणनीति बताएगी। hankyung.com के अनुसार, ये कंपनियां निवेशकों को अपनी वृद्धि रणनीतियां और लिस्टिंग रोडमैप पेश करेंगी।"
-      },
-      "id": {
-        "title": "KIW 2026: DeepX dan Agensi G-Dragon Masuk Panggung IPO",
-        "excerpt": "Pada 15 Mei, hari terakhir KIW 2026, DeepX, Galaxy Corporation, dan perusahaan inovatif nonpublik lain akan memaparkan rencana IPO serta strategi pertumbuhan.",
-        "body": "Pada 15 Mei, hari terakhir Korea Investment Week (KIW) 2026, perusahaan inovatif nonpublik utama Korea Selatan akan mengungkap cetak biru penawaran umum perdana (IPO). Pesertanya mencakup startup semikonduktor AI DeepX, Galaxy Corporation yang dikenal sebagai agensi G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion, dan A-Robot. DeepX menjadi pemain utama semikonduktor AI on-device dengan teknologi NPU berdaya sangat rendah, dan pasar membicarakan valuasi di atas 1 triliun won jika perusahaan itu melantai. Galaxy Corporation akan menjelaskan rencana pencatatan di AS dan strategi menarik investasi luar negeri. Menurut hankyung.com, perusahaan-perusahaan ini akan menyampaikan strategi pertumbuhan dan peta jalan pencatatan kepada investor."
-      }
-    }
-  },
-  {
-    "id": "476aeec4dec7",
-    "slug": "화재증권-동반-성장메리츠금융-1분기-순익-9-증가한-6802억-959571",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T18:27:42.778Z",
-    "updatedAt": "2026-05-14T18:27:42.778Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051470336",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051470336",
-    "titleFingerprint": "b37051ba97fc4d8737f8d8d3b1ed91a5baa1fba7",
-    "dedupKeys": [
-      "476aeec4dec78d578061e5b29ff9f5e83409eb21",
-      "b37051ba97fc4d8737f8d8d3b1ed91a5baa1fba7",
-      "6993f772cb3b2d2da896444f0e00bd2a766de496"
-    ],
-    "imageUrl": "/images/articles/476aeec4dec7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "메리츠금융 1분기 순익 6802억, 화재·증권 동반 성장에 9.6% 증가",
-        "excerpt": "메리츠금융지주는 2026년 1분기 연결 순이익이 6802억원으로 전년 동기 대비 9.6% 늘었다고 14일 공시했다. 증권 IB·운용과 화재 보험손익이 실적을 이끌었다.",
-        "body": "메리츠금융지주는 14일 2026년 1분기 연결 기준 당기순이익이 6802억원으로 전년 동기 대비 9.6% 증가했다고 공시했다. 메리츠증권의 기업금융(IB)·자산운용 호조와 메리츠화재의 안정적인 보험손익이 실적을 뒷받침했다. 같은 기간 매출은 16조3143억원으로 98.2%, 영업이익은 8548억원으로 18.4% 늘었다. 메리츠증권은 순이익 2543억원으로 35.7% 증가했고, 메리츠화재는 별도 기준 순이익 4661억원으로 0.8% 늘었다. 화재의 보험손익은 3346억원, 투자손익은 2962억원이며 자산운용 투자이익률은 5.4%, 지급여력비율은 240%였다. hankyung.com은 회사가 대외 변동성 속에서도 전 사업 부문 체질 개선으로 양호한 실적을 거뒀다고 설명했다고 전했다."
-      },
-      "en": {
-        "title": "Meritz Financial Q1 Net Profit Rises 9.6% to 680.2 Billion Won on Insurance, Securities Growth",
-        "excerpt": "Meritz Financial Group said on May 14 that first-quarter 2026 consolidated net profit rose 9.6% year on year to 680.2 billion won, supported by Meritz Securities and Meritz Fire & Marine.",
-        "body": "Meritz Financial Group disclosed on May 14 that consolidated net profit for the first quarter of 2026 reached 680.2 billion won, up 9.6% from a year earlier. The results were supported by strong investment banking and asset management at Meritz Securities and stable insurance earnings at Meritz Fire & Marine. Revenue rose 98.2% to 16.3143 trillion won, while operating profit increased 18.4% to 854.8 billion won. Meritz Securities posted net profit of 254.3 billion won, up 35.7%, helped by broad growth in IB, asset management and retail as well as improved profitability at its capital unit. Meritz Fire & Marine reported separate net profit of 466.1 billion won, up 0.8%, with insurance profit of 334.6 billion won and investment profit of 296.2 billion won. Its asset management investment yield was 5.4%, and its solvency ratio stood at 240%. Citing hankyung.com, the company said business improvements across divisions helped it deliver solid results despite external volatility."
-      },
-      "ja": {
-        "title": "メリッツ金融、1〜3月期純利益6802億ウォン　火災・証券の伸びで9.6%増",
-        "excerpt": "メリッツ金融持株は5月14日、2026年1〜3月期の連結純利益が前年同期比9.6%増の6802億ウォンだったと公示した。証券と火災保険が支えた。",
-        "body": "メリッツ金融持株は14日、2026年1〜3月期の連結ベース純利益が6802億ウォンとなり、前年同期比9.6%増加したと公示した。メリッツ証券の投資銀行（IB）・資産運用の好調と、メリッツ火災の安定した保険損益が業績を下支えした。同期間の売上高は16兆3143億ウォンで98.2%増、営業利益は8548億ウォンで18.4%増だった。メリッツ証券の純利益は2543億ウォンで35.7%増加し、IB、資産運用、リテールなど全事業部門の成長とキャピタル子会社の収益性改善が寄与した。メリッツ火災は単体基準で純利益4661億ウォン、0.8%増を記録した。保険損益は3346億ウォン、投資損益は2962億ウォンで、資産運用投資利回りは5.4%、支払余力比率は240%だった。hankyung.comによると、同社は外部環境の変動性の中でも全事業部門の体質改善により良好な実績を上げたと説明した。"
-      },
-      "zh": {
-        "title": "Meritz金融一季度净利6802亿韩元，火灾保险与证券同步增长推动9.6%增幅",
-        "excerpt": "Meritz金融控股5月14日公告称，2026年第一季度合并净利润同比增长9.6%至6802亿韩元，证券IB和资产管理、火灾保险收益支撑业绩。",
-        "body": "Meritz金融控股14日公告称，2026年第一季度合并口径净利润为6802亿韩元，较上年同期增长9.6%。业绩主要受到Meritz证券企业金融（IB）和资产管理表现良好，以及Meritz火灾保险稳定保险损益的支撑。同期营业收入为16.3143万亿韩元，增长98.2%；营业利润为8548亿韩元，增长18.4%。Meritz证券第一季度净利润为2543亿韩元，同比增长35.7%，公司称这得益于IB、资产管理、零售等各业务部门均衡增长，以及子公司资本业务盈利能力改善。Meritz火灾保险按单体口径实现净利润4661亿韩元，同比增长0.8%；保险损益为3346亿韩元，投资损益为2962亿韩元。其资产管理投资收益率为5.4%，偿付能力比率为240%。据hankyung.com报道，公司表示，在外部波动性下，各业务部门通过体质改善取得了良好业绩。"
-      },
-      "es": {
-        "title": "Meritz Financial eleva su beneficio neto trimestral un 9,6% hasta 680.200 millones de wones",
-        "excerpt": "Meritz Financial Group informó el 14 de mayo que su beneficio neto consolidado del primer trimestre de 2026 subió un 9,6% interanual, apoyado por valores y seguros.",
-        "body": "Meritz Financial Group comunicó el 14 de mayo que su beneficio neto consolidado del primer trimestre de 2026 fue de 680.200 millones de wones, un 9,6% más que un año antes. El resultado se apoyó en el buen desempeño de banca de inversión y gestión de activos de Meritz Securities y en el resultado asegurador estable de Meritz Fire & Marine. En el mismo periodo, los ingresos crecieron un 98,2% hasta 16,3143 billones de wones, y el beneficio operativo aumentó un 18,4% hasta 854.800 millones. Meritz Securities obtuvo un beneficio neto de 254.300 millones de wones, un 35,7% más, gracias al crecimiento equilibrado en IB, gestión de activos y negocio minorista, además de la mejora de rentabilidad de su filial de capital. Meritz Fire & Marine registró, en base separada, un beneficio neto de 466.100 millones de wones, un 0,8% más. Su resultado asegurador fue de 334.600 millones y el de inversión de 296.200 millones; la rentabilidad de inversión en gestión de activos fue del 5,4% y el ratio de solvencia, del 240%. Según hankyung.com, la compañía explicó que logró resultados sólidos pese a la volatilidad externa mediante mejoras en todas sus áreas."
-      },
-      "pt": {
-        "title": "Meritz Financial tem lucro de 680,2 bi de wones no 1º tri, alta de 9,6% com seguros e corretora",
-        "excerpt": "A Meritz Financial Group informou em 14 de maio que o lucro líquido consolidado do 1º trimestre de 2026 subiu 9,6% em base anual, para 680,2 bilhões de wones.",
-        "body": "A Meritz Financial Group informou em 14 de maio que o lucro líquido consolidado do primeiro trimestre de 2026 foi de 680,2 bilhões de wones, alta de 9,6% ante o mesmo período do ano anterior. O desempenho foi sustentado pela boa performance de banco de investimento e gestão de ativos da Meritz Securities e pelo resultado estável de seguros da Meritz Fire & Marine. No período, a receita avançou 98,2%, para 16,3143 trilhões de wones, e o lucro operacional cresceu 18,4%, para 854,8 bilhões. A Meritz Securities registrou lucro líquido de 254,3 bilhões de wones, alta de 35,7%, com crescimento equilibrado em IB, gestão de ativos e varejo, além de melhora da rentabilidade da subsidiária de capital. A Meritz Fire & Marine teve lucro líquido separado de 466,1 bilhões de wones, avanço de 0,8%. O resultado de seguros foi de 334,6 bilhões de wones, e o resultado de investimentos, de 296,2 bilhões; o retorno de investimento em gestão de ativos foi de 5,4%, e o índice de solvência ficou em 240%. Segundo o hankyung.com, a empresa afirmou que melhorias em todas as divisões permitiram resultados sólidos apesar da volatilidade externa."
-      },
-      "de": {
-        "title": "Meritz Financial steigert Quartalsgewinn um 9,6% auf 680,2 Mrd. Won dank Versicherung und Wertpapieren",
-        "excerpt": "Meritz Financial Group meldete am 14. Mai für das erste Quartal 2026 einen konsolidierten Nettogewinn von 680,2 Mrd. Won, 9,6% mehr als im Vorjahr.",
-        "body": "Meritz Financial Group teilte am 14. Mai mit, dass der konsolidierte Nettogewinn im ersten Quartal 2026 bei 680,2 Mrd. Won lag und damit um 9,6% gegenüber dem Vorjahr stieg. Gestützt wurde das Ergebnis durch ein starkes Investmentbanking- und Asset-Management-Geschäft bei Meritz Securities sowie stabile Versicherungsergebnisse bei Meritz Fire & Marine. Der Umsatz erhöhte sich im gleichen Zeitraum um 98,2% auf 16,3143 Bio. Won, der operative Gewinn um 18,4% auf 854,8 Mrd. Won. Meritz Securities erzielte einen Nettogewinn von 254,3 Mrd. Won, ein Plus von 35,7%, getragen von breitem Wachstum in IB, Asset Management und Retail sowie besserer Profitabilität der Capital-Tochter. Meritz Fire & Marine wies auf Einzelbasis einen Nettogewinn von 466,1 Mrd. Won aus, 0,8% mehr als im Vorjahr. Das Versicherungsergebnis betrug 334,6 Mrd. Won, das Anlageergebnis 296,2 Mrd. Won; die Anlagerendite im Asset Management lag bei 5,4%, die Solvenzquote bei 240%. Laut hankyung.com erklärte das Unternehmen, dass Verbesserungen in allen Geschäftsbereichen trotz externer Volatilität solide Ergebnisse ermöglichten."
-      },
-      "fr": {
-        "title": "Meritz Financial porte son bénéfice net du T1 à 680,2 Mds de wons, en hausse de 9,6%",
-        "excerpt": "Meritz Financial Group a annoncé le 14 mai un bénéfice net consolidé de 680,2 milliards de wons au premier trimestre 2026, en hausse de 9,6% sur un an.",
-        "body": "Meritz Financial Group a indiqué le 14 mai que son bénéfice net consolidé du premier trimestre 2026 avait atteint 680,2 milliards de wons, soit une hausse de 9,6% sur un an. La performance a été soutenue par la bonne tenue de la banque d’investissement et de la gestion d’actifs chez Meritz Securities, ainsi que par des résultats d’assurance stables chez Meritz Fire & Marine. Sur la même période, le chiffre d’affaires a augmenté de 98,2% à 16.314,3 milliards de wons, tandis que le bénéfice opérationnel a progressé de 18,4% à 854,8 milliards. Meritz Securities a dégagé un bénéfice net de 254,3 milliards de wons, en hausse de 35,7%, grâce à une croissance équilibrée dans l’IB, la gestion d’actifs et le détail, ainsi qu’à l’amélioration de la rentabilité de sa filiale de capital. Meritz Fire & Marine a enregistré, en base séparée, un bénéfice net de 466,1 milliards de wons, en hausse de 0,8%. Son résultat d’assurance s’est élevé à 334,6 milliards de wons et son résultat d’investissement à 296,2 milliards; le rendement d’investissement de la gestion d’actifs a été de 5,4% et le ratio de solvabilité de 240%. Selon hankyung.com, l’entreprise a expliqué que les améliorations de structure dans toutes les divisions avaient permis de solides résultats malgré la volatilité externe."
-      },
-      "ar": {
-        "title": "ميريتز فايننشال ترفع صافي ربح الربع الأول 9.6% إلى 680.2 مليار وون بدعم التأمين والأوراق المالية",
-        "excerpt": "أعلنت ميريتز فايننشال غروب في 14 مايو أن صافي ربحها الموحد للربع الأول من 2026 ارتفع 9.6% على أساس سنوي إلى 680.2 مليار وون، بدعم من الأوراق المالية والتأمين.",
-        "body": "أعلنت ميريتز فايننشال غروب في 14 مايو أن صافي ربحها الموحد في الربع الأول من 2026 بلغ 680.2 مليار وون، بزيادة 9.6% عن الفترة نفسها من العام السابق. وجاء الأداء مدعوما بقوة أعمال التمويل الاستثماري وإدارة الأصول لدى ميريتز سيكيوريتيز، وباستقرار أرباح التأمين لدى ميريتز فاير آند مارين. وخلال الفترة نفسها، ارتفعت الإيرادات 98.2% إلى 16.3143 تريليون وون، وزاد الربح التشغيلي 18.4% إلى 854.8 مليار وون. وسجلت ميريتز سيكيوريتيز صافي ربح قدره 254.3 مليار وون، بزيادة 35.7%، نتيجة نمو متوازن في التمويل الاستثماري وإدارة الأصول والتجزئة، إلى جانب تحسن ربحية شركة الكابيتال التابعة. أما ميريتز فاير آند مارين فسجلت على أساس منفصل صافي ربح قدره 466.1 مليار وون، بزيادة 0.8%. وبلغت أرباح التأمين 334.6 مليار وون، وأرباح الاستثمار 296.2 مليار وون، بينما سجل عائد استثمار إدارة الأصول 5.4% ونسبة الملاءة 240%. ونقل hankyung.com عن الشركة قولها إن تحسينات البنية في جميع قطاعات الأعمال ساعدتها على تحقيق نتائج جيدة رغم التقلبات الخارجية."
-      },
-      "hi": {
-        "title": "Meritz Financial का Q1 शुद्ध लाभ 9.6% बढ़कर 680.2 अरब वोन, बीमा और सिक्योरिटीज से सहारा",
-        "excerpt": "Meritz Financial Group ने 14 मई को बताया कि 2026 की पहली तिमाही में उसका समेकित शुद्ध लाभ सालाना 9.6% बढ़कर 680.2 अरब वोन रहा। प्रदर्शन को सिक्योरिटीज और बीमा ने समर्थन दिया।",
-        "body": "Meritz Financial Group ने 14 मई को खुलासा किया कि 2026 की पहली तिमाही में उसका समेकित शुद्ध लाभ 680.2 अरब वोन रहा, जो एक साल पहले की तुलना में 9.6% अधिक है। नतीजों को Meritz Securities के निवेश बैंकिंग और एसेट मैनेजमेंट कारोबार की मजबूती तथा Meritz Fire & Marine के स्थिर बीमा लाभ ने सहारा दिया। इसी अवधि में राजस्व 98.2% बढ़कर 16.3143 ट्रिलियन वोन और परिचालन लाभ 18.4% बढ़कर 854.8 अरब वोन रहा। Meritz Securities ने 254.3 अरब वोन का शुद्ध लाभ दर्ज किया, जो 35.7% अधिक है। कंपनी के अनुसार, IB, एसेट मैनेजमेंट और रिटेल में संतुलित वृद्धि तथा कैपिटल सहायक कंपनी की लाभप्रदता में सुधार ने योगदान दिया। Meritz Fire & Marine ने अलग आधार पर 466.1 अरब वोन का शुद्ध लाभ दर्ज किया, जो 0.8% अधिक है। इसका बीमा लाभ 334.6 अरब वोन और निवेश लाभ 296.2 अरब वोन था; एसेट मैनेजमेंट निवेश प्रतिफल 5.4% और सॉल्वेंसी अनुपात 240% रहा। hankyung.com के अनुसार, कंपनी ने कहा कि बाहरी अस्थिरता के बावजूद सभी व्यवसायों में संरचनात्मक सुधारों से अच्छे नतीजे मिले।"
-      },
-      "id": {
-        "title": "Meritz Financial Cetak Laba Bersih Q1 680,2 Miliar Won, Naik 9,6% Berkat Asuransi dan Sekuritas",
-        "excerpt": "Meritz Financial Group menyatakan pada 14 Mei bahwa laba bersih konsolidasian kuartal I 2026 naik 9,6% secara tahunan menjadi 680,2 miliar won, ditopang sekuritas dan asuransi.",
-        "body": "Meritz Financial Group mengumumkan pada 14 Mei bahwa laba bersih konsolidasian kuartal pertama 2026 mencapai 680,2 miliar won, naik 9,6% dibanding periode yang sama tahun sebelumnya. Kinerja tersebut ditopang oleh kuatnya bisnis investment banking dan manajemen aset Meritz Securities serta pendapatan asuransi yang stabil di Meritz Fire & Marine. Pada periode yang sama, pendapatan naik 98,2% menjadi 16,3143 triliun won, sementara laba operasi meningkat 18,4% menjadi 854,8 miliar won. Meritz Securities membukukan laba bersih 254,3 miliar won, naik 35,7%, didukung pertumbuhan merata di IB, manajemen aset, dan ritel serta perbaikan profitabilitas anak usaha kapital. Meritz Fire & Marine mencatat laba bersih terpisah 466,1 miliar won, naik 0,8%. Laba asuransinya sebesar 334,6 miliar won dan laba investasinya 296,2 miliar won; imbal hasil investasi manajemen aset tercatat 5,4% dan rasio solvabilitas 240%. Menurut hankyung.com, perusahaan menyatakan bahwa perbaikan struktur di seluruh lini bisnis membantu menghasilkan kinerja yang baik meski ada volatilitas eksternal."
       }
     }
   }
