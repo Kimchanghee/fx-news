@@ -1,5 +1,230 @@
 [
   {
+    "id": "8198a87a2771",
+    "slug": "한미반도체-美-공략-본격화한미-usa-설립-914009",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T07:37:18.984Z",
+    "updatedAt": "2026-05-15T07:37:18.984Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049224",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049224",
+    "titleFingerprint": "acf0fbc8f69f770f2b60ea54b0241058c41060c3",
+    "dedupKeys": [
+      "8198a87a2771defb01901f0dadddb8ca67bcfbac",
+      "acf0fbc8f69f770f2b60ea54b0241058c41060c3",
+      "19ae8f8b9adeaeeccec1a23f18e115b3371ce221"
+    ],
+    "imageUrl": "/images/articles/8198a87a2771.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한미반도체, 새너제이 ‘한미 USA’ 설립…AI 패키징 공략 본격화",
+        "excerpt": "한미반도체가 미국 새너제이에 현지법인 한미 USA를 설립하고 AI 반도체 패키징 수요 확대에 대응하며 HBM4 수주와 TC본더 시장 공략을 강화한다.",
+        "body": "한미반도체가 미국 새너제이에 현지법인 ‘한미 USA’를 설립하며 미국 시장 공략을 본격화한다. 인공지능(AI) 반도체 수요가 확대되는 가운데, 회사는 현지 거점을 통해 AI 패키징 관련 수요에 대응할 계획이다. 특히 고대역폭메모리(HBM) 차세대 제품인 HBM4 관련 수주 확대 기대와 함께 TC본더 시장 공략을 강화하는 데 초점을 맞춘다. 이번 법인 설립은 미국 내 고객 대응력을 높이고 반도체 장비 시장에서 입지를 넓히기 위한 행보로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hanmi Semiconductor Sets Up Hanmi USA in San Jose to Target AI Packaging",
+        "excerpt": "Hanmi Semiconductor has established Hanmi USA in San Jose to respond to rising AI chip packaging demand and strengthen its push for HBM4 orders and the TC bonder market.",
+        "body": "Hanmi Semiconductor is stepping up its push into the U.S. market by establishing a local entity, Hanmi USA, in San Jose. As demand for artificial intelligence (AI) semiconductors expands, the company plans to use the U.S. base to respond to AI packaging needs. Its focus includes expectations for increased orders related to HBM4, the next-generation high-bandwidth memory product, and a stronger drive into the TC bonder market. The new entity is viewed as a move to improve customer response in the U.S. and broaden its position in the semiconductor equipment market. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ハンミ半導体、サンノゼにHanmi USA設立…AIパッケージングを本格攻略",
+        "excerpt": "ハンミ半導体は米サンノゼに現地法人Hanmi USAを設立し、AI半導体パッケージング需要の拡大に対応し、HBM4受注とTCボンダー市場攻略を強化する。",
+        "body": "ハンミ半導体は米サンノゼに現地法人「Hanmi USA」を設立し、米国市場の攻略を本格化する。人工知能（AI）半導体の需要が拡大するなか、同社は現地拠点を通じてAIパッケージング関連需要に対応する計画だ。特に、次世代高帯域幅メモリーであるHBM4関連の受注拡大への期待とともに、TCボンダー市場の攻略強化に重点を置く。今回の法人設立は、米国内の顧客対応力を高め、半導体装置市場での地位を広げる動きと受け止められる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩美半导体在圣何塞设立Hanmi USA，加速布局AI封装市场",
+        "excerpt": "韩美半导体在美国圣何塞设立当地法人Hanmi USA，以应对AI半导体封装需求扩大，并强化HBM4订单拓展和TC键合机市场攻势。",
+        "body": "韩美半导体在美国圣何塞设立当地法人“Hanmi USA”，正式加快进军美国市场。随着人工智能（AI）半导体需求扩大，公司计划通过这一当地据点应对AI封装相关需求。其重点包括扩大下一代高带宽内存HBM4相关订单的期待，以及进一步强化对TC键合机市场的布局。此次设立法人被视为提升美国客户响应能力、扩大其在半导体设备市场地位的举措。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hanmi Semiconductor crea Hanmi USA en San José para impulsar el empaquetado de IA",
+        "excerpt": "Hanmi Semiconductor estableció Hanmi USA en San José para responder a la demanda de empaquetado de chips de IA y reforzar pedidos HBM4 y el mercado de TC bonders.",
+        "body": "Hanmi Semiconductor acelera su entrada en el mercado estadounidense con la creación de su filial local, Hanmi USA, en San José. En medio del aumento de la demanda de semiconductores de inteligencia artificial (IA), la empresa prevé usar esta base local para atender necesidades de empaquetado de IA. El enfoque incluye expectativas de ampliar pedidos vinculados a HBM4, la próxima generación de memoria de alto ancho de banda, y reforzar su ofensiva en el mercado de TC bonders. La filial se interpreta como un paso para mejorar la respuesta a clientes en EE. UU. y ampliar su posición en equipos para semiconductores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Hanmi Semiconductor cria Hanmi USA em San Jose para avançar em packaging de IA",
+        "excerpt": "A Hanmi Semiconductor estabeleceu a Hanmi USA em San Jose para atender à demanda de packaging de chips de IA e reforçar pedidos de HBM4 e o mercado de TC bonders.",
+        "body": "A Hanmi Semiconductor está intensificando sua entrada no mercado dos Estados Unidos com a criação da subsidiária local Hanmi USA, em San Jose. Com a expansão da demanda por semicondutores de inteligência artificial (IA), a empresa pretende usar a base local para responder às necessidades de packaging de IA. O foco inclui a expectativa de ampliar pedidos ligados ao HBM4, produto de próxima geração de memória de alta largura de banda, e fortalecer a atuação no mercado de TC bonders. A criação da subsidiária é vista como uma medida para melhorar o atendimento a clientes nos EUA e ampliar sua posição no mercado de equipamentos para semicondutores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hanmi Semiconductor gründet Hanmi USA in San Jose für AI-Packaging-Offensive",
+        "excerpt": "Hanmi Semiconductor gründet Hanmi USA in San Jose, um auf steigende Nachfrage nach AI-Chip-Packaging zu reagieren und HBM4-Aufträge sowie den TC-Bonder-Markt zu stärken.",
+        "body": "Hanmi Semiconductor forciert den Einstieg in den US-Markt mit der Gründung der lokalen Gesellschaft Hanmi USA in San Jose. Angesichts der wachsenden Nachfrage nach Halbleitern für künstliche Intelligenz (AI) will das Unternehmen den Standort nutzen, um auf den Bedarf im AI-Packaging zu reagieren. Im Fokus stehen erwartete zusätzliche Aufträge rund um HBM4, die nächste Generation von High-Bandwidth-Memory, sowie eine stärkere Bearbeitung des TC-Bonder-Markts. Die Gründung gilt als Schritt, um die Kundenbetreuung in den USA zu verbessern und die Position im Markt für Halbleiterausrüstung auszubauen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hanmi Semiconductor crée Hanmi USA à San Jose pour viser le packaging IA",
+        "excerpt": "Hanmi Semiconductor a établi Hanmi USA à San Jose afin de répondre à la demande croissante de packaging de puces IA et de renforcer les commandes HBM4 et le marché des TC bonders.",
+        "body": "Hanmi Semiconductor accélère son offensive sur le marché américain avec la création de sa filiale locale Hanmi USA à San Jose. Alors que la demande de semi-conducteurs liés à l’intelligence artificielle (IA) augmente, l’entreprise prévoit d’utiliser cette base locale pour répondre aux besoins de packaging IA. Elle met notamment l’accent sur les attentes d’expansion des commandes liées à HBM4, la prochaine génération de mémoire à haute bande passante, ainsi que sur le renforcement de son approche du marché des TC bonders. Cette création de filiale est perçue comme un moyen d’améliorer la réponse aux clients aux États-Unis et d’élargir sa position dans les équipements pour semi-conducteurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هانمي سيميكونداكتور تؤسس Hanmi USA في سان خوسيه لاستهداف تغليف رقائق الذكاء الاصطناعي",
+        "excerpt": "أسست هانمي سيميكونداكتور شركة Hanmi USA في سان خوسيه للاستجابة لطلب تغليف أشباه موصلات الذكاء الاصطناعي وتعزيز طلبات HBM4 وسوق أجهزة TC Bonder.",
+        "body": "تبدأ هانمي سيميكونداكتور تعزيز دخولها إلى السوق الأمريكية عبر تأسيس كيان محلي باسم “Hanmi USA” في سان خوسيه. ومع اتساع الطلب على أشباه موصلات الذكاء الاصطناعي، تخطط الشركة لاستخدام هذا المركز المحلي للاستجابة لاحتياجات تغليف رقائق الذكاء الاصطناعي. وتركز الخطوة على توقعات زيادة الطلبات المرتبطة بمنتج HBM4، الجيل التالي من الذاكرة عالية النطاق الترددي، إلى جانب تعزيز استهداف سوق أجهزة TC Bonder. ويُنظر إلى تأسيس الكيان الجديد كخطوة لتحسين الاستجابة للعملاء في الولايات المتحدة وتوسيع موقع الشركة في سوق معدات أشباه الموصلات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Hanmi Semiconductor ने San Jose में Hanmi USA बनाई, AI पैकेजिंग पर जोर",
+        "excerpt": "Hanmi Semiconductor ने San Jose में Hanmi USA स्थापित की है, ताकि AI चिप पैकेजिंग मांग का जवाब दिया जा सके और HBM4 ऑर्डर तथा TC bonder बाजार पर पकड़ मजबूत हो।",
+        "body": "Hanmi Semiconductor ने San Jose में स्थानीय इकाई “Hanmi USA” स्थापित कर अमेरिकी बाजार पर अपना ध्यान तेज कर दिया है। कृत्रिम बुद्धिमत्ता (AI) से जुड़े सेमीकंडक्टरों की मांग बढ़ने के बीच कंपनी इस स्थानीय आधार के जरिए AI पैकेजिंग से संबंधित जरूरतों का जवाब देने की योजना बना रही है। इसका प्रमुख फोकस अगली पीढ़ी की हाई-बैंडविड्थ मेमोरी HBM4 से जुड़े ऑर्डर बढ़ने की उम्मीद और TC bonder बाजार में अपनी पकड़ मजबूत करने पर है। इस इकाई की स्थापना को अमेरिका में ग्राहकों को बेहतर प्रतिक्रिया देने और सेमीकंडक्टर उपकरण बाजार में अपनी स्थिति विस्तार देने की दिशा में कदम माना जा रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hanmi Semiconductor Dirikan Hanmi USA di San Jose untuk Garap Packaging AI",
+        "excerpt": "Hanmi Semiconductor mendirikan Hanmi USA di San Jose untuk merespons kenaikan permintaan packaging chip AI serta memperkuat pesanan HBM4 dan pasar TC bonder.",
+        "body": "Hanmi Semiconductor mulai memperkuat langkahnya di pasar Amerika Serikat dengan mendirikan entitas lokal “Hanmi USA” di San Jose. Di tengah meningkatnya permintaan semikonduktor kecerdasan buatan (AI), perusahaan berencana memakai basis lokal ini untuk merespons kebutuhan packaging AI. Fokusnya mencakup harapan perluasan pesanan terkait HBM4, produk memori bandwidth tinggi generasi berikutnya, serta penguatan strategi di pasar TC bonder. Pendirian entitas ini dipandang sebagai langkah untuk meningkatkan respons terhadap pelanggan di AS dan memperluas posisi perusahaan di pasar peralatan semikonduktor. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "673ab0234993",
+    "slug": "동인기연-1분기-매출-620억원영업이익-104-335670",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T07:36:28.988Z",
+    "updatedAt": "2026-05-15T07:36:28.988Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12049244",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12049244",
+    "titleFingerprint": "659a7cad9d9408f88e4351baffe5f0125567079a",
+    "dedupKeys": [
+      "673ab0234993d4b5781cebf5904a5f525a9784ac",
+      "659a7cad9d9408f88e4351baffe5f0125567079a",
+      "4f5cc8887fb3ce2a7967274a39349ba72c2bbf91"
+    ],
+    "imageUrl": "/images/articles/673ab0234993.jpg",
+    "i18n": {
+      "ko": {
+        "title": "동인기연 1분기 매출 620억원, 역대 최대 실적에 영업이익률 10.4%",
+        "excerpt": "동인기연은 15일 올해 1분기 매출 620억원을 기록해 1분기 기준 역대 최대 매출을 냈고, 중국 시장 회복 영향으로 영업이익이 54% 증가했다고 밝혔다.",
+        "body": "아웃도어 장비 제조 전문기업 동인기연은 15일 올해 1분기 매출액이 620억원을 기록했다고 밝혔다. 이는 1분기 매출액 기준으로 역대 최대 수준이다. 회사는 같은 기간 영업이익률이 10.4%를 기록했으며, 영업이익은 전년 동기 대비 54% 증가했다고 설명했다. 실적 개선의 배경으로는 중국 시장 회복이 제시됐다. 1분기 최대 매출과 두 자릿수 영업이익률은 동인기연의 수익성 개선 흐름을 보여주는 지표로 평가된다. 향후 실적 흐름은 중국 시장 회복세가 얼마나 이어지는지에 영향을 받을 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Dong In Entech Q1 Sales Hit 62 Billion Won, Operating Margin Reaches 10.4%",
+        "excerpt": "Dong In Entech said on the 15th that its first-quarter sales reached 62 billion won, a record for any Q1, while operating profit rose 54% as China’s market recovered.",
+        "body": "Outdoor equipment manufacturer Dong In Entech said on the 15th that its sales for the first quarter of this year reached 62 billion won. The figure marks the company’s highest-ever revenue for a first quarter. The company said its operating margin stood at 10.4% during the period, while operating profit increased 54% from a year earlier. Dong In Entech cited recovery in the Chinese market as a key factor behind the improvement. The record Q1 sales and double-digit operating margin indicate a stronger profitability trend for the company. Future performance is likely to depend on how long the recovery in China continues. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "東仁技研、1四半期売上620億ウォンで過去最高 営業利益率10.4%",
+        "excerpt": "東仁技研は15日、今年第1四半期の売上高が620億ウォンとなり、1四半期として過去最高を記録し、中国市場の回復で営業利益が54%増加したと発表した。",
+        "body": "アウトドア装備製造専門企業の東仁技研は15日、今年第1四半期の売上高が620億ウォンを記録したと明らかにした。これは第1四半期の売上高として過去最高水準となる。同社は同期間の営業利益率が10.4%となり、営業利益は前年同期比で54%増加したと説明した。業績改善の背景には中国市場の回復が挙げられた。第1四半期の過去最高売上と2桁の営業利益率は、東仁技研の収益性改善の流れを示す指標とみられる。今後の業績は中国市場の回復がどこまで続くかに左右される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "东仁技研一季度销售额620亿韩元创同期新高，营业利润率10.4%",
+        "excerpt": "东仁技研15日表示，今年第一季度销售额达620亿韩元，创一季度历史最高水平，并受中国市场复苏影响，营业利润同比增长54%。",
+        "body": "户外装备制造专业企业东仁技研15日表示，今年第一季度销售额达到620亿韩元。这是一季度销售额口径下的历史最高水平。公司说明，同期营业利润率为10.4%，营业利润较去年同期增长54%。业绩改善的背景被归因于中国市场复苏。一季度最高销售额和两位数营业利润率，被视为显示东仁技研盈利能力改善趋势的指标。未来业绩走势预计将受到中国市场复苏能否持续的影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Dong In Entech logra ventas trimestrales de 62.000 millones de wones y margen del 10,4%",
+        "excerpt": "Dong In Entech informó el día 15 que sus ventas del primer trimestre alcanzaron 62.000 millones de wones, un récord para ese periodo, con un alza del 54% en el beneficio operativo por la recuperación china.",
+        "body": "El fabricante especializado en equipos para actividades al aire libre Dong In Entech informó el día 15 que sus ventas del primer trimestre de este año alcanzaron 62.000 millones de wones. La cifra representa el mayor nivel histórico para un primer trimestre. La compañía explicó que, en el mismo periodo, el margen operativo fue del 10,4% y que el beneficio operativo aumentó un 54% frente al año anterior. Como trasfondo de la mejora señaló la recuperación del mercado chino. Las ventas récord del primer trimestre y el margen operativo de dos dígitos muestran una mejora en la rentabilidad de Dong In Entech. La evolución futura dependerá de cuánto continúe la recuperación en China. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Dong In Entech registra vendas de 62 bilhões de wons no 1º trimestre e margem de 10,4%",
+        "excerpt": "A Dong In Entech informou no dia 15 que as vendas do primeiro trimestre chegaram a 62 bilhões de wons, recorde para o período, enquanto o lucro operacional subiu 54% com a recuperação da China.",
+        "body": "A fabricante especializada em equipamentos outdoor Dong In Entech informou no dia 15 que sua receita no primeiro trimestre deste ano chegou a 62 bilhões de wons. O valor representa o maior nível já registrado pela empresa para um primeiro trimestre. A companhia disse que a margem operacional no período foi de 10,4% e que o lucro operacional aumentou 54% em relação ao mesmo período do ano anterior. A recuperação do mercado chinês foi apontada como o principal fator por trás da melhora. As vendas recordes no primeiro trimestre e a margem operacional de dois dígitos indicam avanço na rentabilidade da Dong In Entech. O desempenho futuro deve depender da continuidade da recuperação na China. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Dong In Entech erzielt im Q1 62 Mrd. Won Umsatz und 10,4% operative Marge",
+        "excerpt": "Dong In Entech meldete am 15., dass der Umsatz im ersten Quartal 62 Mrd. Won erreichte, ein Q1-Rekord, während der operative Gewinn dank der Erholung in China um 54% stieg.",
+        "body": "Der auf Outdoor-Ausrüstung spezialisierte Hersteller Dong In Entech teilte am 15. mit, dass der Umsatz im ersten Quartal dieses Jahres 62 Mrd. Won erreichte. Das ist der höchste jemals erzielte Umsatz des Unternehmens in einem ersten Quartal. Nach Angaben des Unternehmens lag die operative Marge im selben Zeitraum bei 10,4%, während der operative Gewinn gegenüber dem Vorjahr um 54% zulegte. Als Hintergrund der Ergebnisverbesserung wurde die Erholung des chinesischen Marktes genannt. Der Q1-Rekordumsatz und die zweistellige operative Marge zeigen eine verbesserte Profitabilität bei Dong In Entech. Der weitere Geschäftsverlauf dürfte davon abhängen, wie lange die Erholung in China anhält. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Dong In Entech atteint 62 Mds de wons de ventes au T1, marge opérationnelle de 10,4%",
+        "excerpt": "Dong In Entech a annoncé le 15 que ses ventes du premier trimestre avaient atteint 62 milliards de wons, un record pour cette période, avec un bénéfice opérationnel en hausse de 54% grâce à la reprise chinoise.",
+        "body": "Le fabricant spécialisé d’équipements de plein air Dong In Entech a annoncé le 15 que son chiffre d’affaires du premier trimestre de cette année avait atteint 62 milliards de wons. Ce montant constitue le plus haut niveau jamais enregistré par l’entreprise pour un premier trimestre. La société a indiqué que sa marge opérationnelle sur la période s’était établie à 10,4% et que son bénéfice opérationnel avait progressé de 54% sur un an. Elle a cité la reprise du marché chinois comme facteur de cette amélioration. Le record de ventes au premier trimestre et la marge opérationnelle à deux chiffres montrent une amélioration de la rentabilité de Dong In Entech. L’évolution future dépendra de la poursuite de la reprise en Chine. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "دونغ إن إن تك تسجل مبيعات فصلية بـ62 مليار وون وهامش تشغيل 10.4%",
+        "excerpt": "أعلنت دونغ إن إن تك في 15 مايو أن مبيعات الربع الأول بلغت 62 مليار وون، وهو أعلى مستوى لهذا الربع، فيما زاد الربح التشغيلي 54% بدعم من تعافي السوق الصينية.",
+        "body": "أعلنت شركة دونغ إن إن تك، المتخصصة في تصنيع معدات الأنشطة الخارجية، في 15 مايو أن مبيعاتها في الربع الأول من هذا العام بلغت 62 مليار وون. ويمثل هذا الرقم أعلى مستوى تاريخي لمبيعات الشركة في الربع الأول. وأوضحت الشركة أن هامش الربح التشغيلي خلال الفترة بلغ 10.4%، بينما ارتفع الربح التشغيلي بنسبة 54% مقارنة بالفترة نفسها من العام السابق. وأشارت إلى أن تعافي السوق الصينية كان من عوامل تحسن الأداء. وتظهر المبيعات القياسية في الربع الأول والهامش التشغيلي المكون من رقمين تحسنا في ربحية دونغ إن إن تك. ومن المتوقع أن يتأثر الأداء المقبل بمدى استمرار التعافي في الصين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "डोंग इन एनटेक की पहली तिमाही बिक्री 62 अरब वॉन, परिचालन मार्जिन 10.4%",
+        "excerpt": "डोंग इन एनटेक ने 15 मई को बताया कि पहली तिमाही की बिक्री 62 अरब वॉन रही, जो इस अवधि का रिकॉर्ड है, जबकि चीन बाजार की रिकवरी से परिचालन लाभ 54% बढ़ा।",
+        "body": "आउटडोर उपकरण बनाने वाली विशेषज्ञ कंपनी डोंग इन एनटेक ने 15 मई को बताया कि इस वर्ष की पहली तिमाही में उसकी बिक्री 62 अरब वॉन रही। यह पहली तिमाही की बिक्री के आधार पर कंपनी का अब तक का सबसे ऊंचा स्तर है। कंपनी के अनुसार, इसी अवधि में परिचालन लाभ मार्जिन 10.4% रहा और परिचालन लाभ पिछले वर्ष की समान अवधि से 54% बढ़ा। प्रदर्शन में सुधार के पीछे चीन बाजार की रिकवरी को कारण बताया गया। पहली तिमाही की रिकॉर्ड बिक्री और दो अंकों का परिचालन मार्जिन डोंग इन एनटेक की लाभप्रदता में सुधार का संकेत देता है। आगे का प्रदर्शन इस बात से प्रभावित हो सकता है कि चीन में सुधार कितनी देर तक जारी रहता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Dong In Entech Catat Penjualan Kuartal I 62 Miliar Won, Margin Operasi 10,4%",
+        "excerpt": "Dong In Entech pada 15 Mei menyatakan penjualan kuartal I mencapai 62 miliar won, rekor untuk periode tersebut, sementara laba operasi naik 54% seiring pemulihan pasar China.",
+        "body": "Produsen spesialis perlengkapan outdoor Dong In Entech pada 15 Mei menyatakan penjualan kuartal pertama tahun ini mencapai 62 miliar won. Angka tersebut merupakan penjualan tertinggi perusahaan untuk periode kuartal pertama. Perusahaan menjelaskan bahwa margin laba operasi pada periode yang sama mencapai 10,4%, sementara laba operasi naik 54% dibandingkan periode yang sama tahun lalu. Pemulihan pasar China disebut sebagai latar belakang perbaikan kinerja. Rekor penjualan kuartal pertama dan margin operasi dua digit menunjukkan tren peningkatan profitabilitas Dong In Entech. Kinerja berikutnya diperkirakan akan dipengaruhi oleh seberapa lama pemulihan di China berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "bba6e7dda154",
+    "slug": "세아제강지주-1분기-매출-9919억건설-부진에도-선방-966601",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T07:35:31.273Z",
+    "updatedAt": "2026-05-15T07:35:31.273Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049253",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049253",
+    "titleFingerprint": "cf78532ea6861d62449f95257b5bb1fa5c34b15e",
+    "dedupKeys": [
+      "bba6e7dda15465eec0a8a5a0d74276e83fe3991f",
+      "cf78532ea6861d62449f95257b5bb1fa5c34b15e",
+      "8c6d7d010df76c32f9d30428a856194844a31952"
+    ],
+    "imageUrl": "/images/articles/bba6e7dda154.png",
+    "i18n": {
+      "ko": {
+        "title": "세아제강지주 1분기 매출 9919억, 건설 부진에도 북미 강관 수요로 선방",
+        "excerpt": "세아제강지주는 올해 1분기 건설 경기 부진과 북미 판가 하락, 중동 물류 대란에도 북미 에너지 강관 수요 증가에 힘입어 매출 9919억원을 기록했다.",
+        "body": "세아제강지주는 올해 1분기 매출 9919억원을 기록하며 건설 경기 부진 속에서도 비교적 견조한 흐름을 보였다. 북미 에너지용 강관 수요가 늘어난 점이 매출 방어에 영향을 줬다. 다만 북미 시장 가격 하락과 중동 물류 대란 여파가 겹치면서 영업이익은 하락했다. 회사는 해상풍력 프로젝트가 순항 중이라고 밝혔으며, 자회사 세아윈드는 40만톤 규모 증설을 추진하고 있다. 건설 부진이 이어지는 가운데 에너지 강관과 해상풍력 사업의 흐름이 향후 실적 변수로 꼽힌다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "SeAH Steel Holdings Q1 Revenue Hits 991.9 Billion Won as North America Pipe Demand Holds Up",
+        "excerpt": "SeAH Steel Holdings posted Q1 revenue of 991.9 billion won as stronger North American energy pipe demand helped offset weak construction, lower prices and Middle East logistics disruptions.",
+        "body": "SeAH Steel Holdings recorded revenue of 991.9 billion won in the first quarter of this year, showing a relatively solid performance despite weakness in the construction sector. Increased demand for energy steel pipes in North America helped support sales. However, operating profit declined as lower prices in the North American market and logistics disruptions in the Middle East weighed on results. The company said its offshore wind projects are progressing smoothly, while subsidiary SeAH Wind is pursuing a 400,000-ton capacity expansion. With construction weakness continuing, energy pipe demand and offshore wind projects are key factors for future performance. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "世亜製鋼持株、1-3月期売上9919億ウォン 北米鋼管需要で建設不振を補う",
+        "excerpt": "世亜製鋼持株は今年1-3月期、建設不振や北米価格下落、中東物流混乱にもかかわらず、北米エネルギー鋼管需要の拡大で売上9919億ウォンを記録した。",
+        "body": "世亜製鋼持株は今年1-3月期に売上9919億ウォンを記録し、建設景気の低迷の中でも比較的堅調な流れを示した。北米でエネルギー向け鋼管需要が増えたことが売上の下支えとなった。一方、北米市場での価格下落と中東の物流混乱の影響が重なり、営業利益は減少した。同社は洋上風力プロジェクトが順調に進んでいると説明しており、子会社のSeAH Windは40万トン規模の増設を進めている。建設不振が続く中、エネルギー鋼管と洋上風力事業の動向が今後の業績要因となる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "世亚制钢控股一季度营收9919亿韩元，北美钢管需求支撑业绩",
+        "excerpt": "世亚制钢控股今年一季度在建筑低迷、北美售价下滑和中东物流受扰背景下，受北美能源钢管需求增加带动，实现营收9919亿韩元。",
+        "body": "世亚制钢控股今年第一季度实现营收9919亿韩元，在建筑景气低迷的情况下仍保持相对稳健表现。北美能源用钢管需求增加，对销售形成支撑。不过，北美市场价格下滑以及中东物流危机影响叠加，导致营业利润下降。公司表示，海上风电项目正在顺利推进，子公司SeAH Wind也在推进40万吨规模的扩建。随着建筑行业疲软延续，能源钢管需求和海上风电业务进展将成为未来业绩的重要变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "SeAH Steel Holdings factura 991.900 millones de wones en el 1T pese a la debilidad constructora",
+        "excerpt": "SeAH Steel Holdings registró en el primer trimestre ventas de 991.900 millones de wones, apoyada por la demanda norteamericana de tubos energéticos pese a menores precios y problemas logísticos.",
+        "body": "SeAH Steel Holdings registró ingresos de 991.900 millones de wones en el primer trimestre de este año, manteniendo un desempeño relativamente sólido pese a la debilidad del sector de la construcción. El aumento de la demanda de tubos de acero para energía en Norteamérica ayudó a sostener las ventas. Sin embargo, el beneficio operativo cayó por la bajada de precios en el mercado norteamericano y el impacto de la crisis logística en Oriente Medio. La empresa señaló que sus proyectos de energía eólica marina avanzan con normalidad, mientras su filial SeAH Wind impulsa una ampliación de 400.000 toneladas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "SeAH Steel Holdings fatura 991,9 bilhões de won no 1º tri com apoio da demanda na América do Norte",
+        "excerpt": "A SeAH Steel Holdings registrou receita de 991,9 bilhões de won no 1º trimestre, sustentada pela demanda norte-americana por tubos de energia apesar da fraqueza da construção e da queda de preços.",
+        "body": "A SeAH Steel Holdings registrou receita de 991,9 bilhões de won no primeiro trimestre deste ano, mantendo desempenho relativamente firme apesar da fraqueza no setor de construção. O aumento da demanda por tubos de aço para energia na América do Norte ajudou a sustentar as vendas. Ainda assim, o lucro operacional caiu com a redução dos preços no mercado norte-americano e os efeitos da crise logística no Oriente Médio. A empresa informou que seus projetos de energia eólica offshore avançam normalmente, enquanto a subsidiária SeAH Wind promove uma expansão de 400 mil toneladas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "SeAH Steel Holdings erzielt im ersten Quartal 991,9 Mrd. Won Umsatz dank Nordamerika-Nachfrage",
+        "excerpt": "SeAH Steel Holdings meldete im ersten Quartal 991,9 Mrd. Won Umsatz, gestützt durch höhere Nachfrage nach Energierohren in Nordamerika trotz Baukrise, Preisrückgang und Logistikproblemen.",
+        "body": "SeAH Steel Holdings erzielte im ersten Quartal dieses Jahres einen Umsatz von 991,9 Mrd. Won und zeigte sich trotz der Schwäche im Bausektor vergleichsweise robust. Die gestiegene Nachfrage nach Stahlrohren für Energieanwendungen in Nordamerika stützte den Umsatz. Der operative Gewinn ging jedoch zurück, da niedrigere Preise auf dem nordamerikanischen Markt und die Logistikkrise im Nahen Osten belasteten. Das Unternehmen erklärte, seine Offshore-Windprojekte liefen planmäßig, während die Tochter SeAH Wind eine Erweiterung um 400.000 Tonnen vorantreibt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "SeAH Steel Holdings atteint 991,9 milliards de wons de chiffre d’affaires au 1er trimestre",
+        "excerpt": "SeAH Steel Holdings a réalisé 991,9 milliards de wons de chiffre d’affaires au 1er trimestre, portée par la demande nord-américaine de tubes énergétiques malgré la faiblesse du bâtiment.",
+        "body": "SeAH Steel Holdings a enregistré un chiffre d’affaires de 991,9 milliards de wons au premier trimestre de cette année, affichant une performance relativement solide malgré la faiblesse du secteur de la construction. La hausse de la demande nord-américaine pour les tubes d’acier destinés à l’énergie a soutenu les ventes. En revanche, le résultat opérationnel a reculé sous l’effet de la baisse des prix en Amérique du Nord et des perturbations logistiques au Moyen-Orient. L’entreprise indique que ses projets d’éolien offshore avancent normalement, tandis que sa filiale SeAH Wind poursuit une extension de 400.000 tonnes. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سي آه ستيل هولدنغز تسجل 991.9 مليار وون إيرادات في الربع الأول بدعم طلب أمريكا الشمالية",
+        "excerpt": "سجلت سي آه ستيل هولدنغز إيرادات قدرها 991.9 مليار وون في الربع الأول، مدعومة بزيادة الطلب على أنابيب الطاقة في أمريكا الشمالية رغم ضعف البناء وتراجع الأسعار.",
+        "body": "سجلت سي آه ستيل هولدنغز إيرادات بلغت 991.9 مليار وون في الربع الأول من هذا العام، محافظة على أداء مستقر نسبيا رغم ضعف قطاع البناء. وساعد ارتفاع الطلب على أنابيب الصلب المخصصة للطاقة في أمريكا الشمالية على دعم المبيعات. لكن الأرباح التشغيلية تراجعت نتيجة انخفاض الأسعار في سوق أمريكا الشمالية وتأثير اضطرابات الخدمات اللوجستية في الشرق الأوسط. وقالت الشركة إن مشروعات طاقة الرياح البحرية تسير بسلاسة، بينما تمضي شركتها التابعة سي آه ويند في توسعة بطاقة 400 ألف طن. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "SeAH Steel Holdings की पहली तिमाही आय 991.9 अरब वॉन, उत्तर अमेरिकी पाइप मांग से सहारा",
+        "excerpt": "SeAH Steel Holdings ने पहली तिमाही में 991.9 अरब वॉन का राजस्व दर्ज किया, जिसे निर्माण सुस्ती, कम कीमतों और मध्य पूर्व लॉजिस्टिक्स संकट के बीच उत्तर अमेरिकी ऊर्जा पाइप मांग से सहारा मिला।",
+        "body": "SeAH Steel Holdings ने इस साल पहली तिमाही में 991.9 अरब वॉन का राजस्व दर्ज किया और निर्माण क्षेत्र की सुस्ती के बावजूद अपेक्षाकृत मजबूत प्रदर्शन दिखाया। उत्तर अमेरिका में ऊर्जा उपयोग वाले स्टील पाइप की मांग बढ़ने से बिक्री को सहारा मिला। हालांकि, उत्तर अमेरिकी बाजार में कीमतों में गिरावट और मध्य पूर्व में लॉजिस्टिक्स व्यवधान के असर से परिचालन लाभ घटा। कंपनी ने कहा कि उसके अपतटीय पवन ऊर्जा प्रोजेक्ट सुचारु रूप से आगे बढ़ रहे हैं, जबकि सहायक कंपनी SeAH Wind 400,000 टन क्षमता विस्तार पर काम कर रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "SeAH Steel Holdings Catat Pendapatan Kuartal I 991,9 Miliar Won Berkat Permintaan Pipa Amerika Utara",
+        "excerpt": "SeAH Steel Holdings membukukan pendapatan 991,9 miliar won pada kuartal I, ditopang kenaikan permintaan pipa energi Amerika Utara meski konstruksi lemah, harga turun, dan logistik Timur Tengah terganggu.",
+        "body": "SeAH Steel Holdings mencatat pendapatan 991,9 miliar won pada kuartal pertama tahun ini, menunjukkan kinerja yang relatif solid di tengah pelemahan sektor konstruksi. Kenaikan permintaan pipa baja untuk energi di Amerika Utara membantu menopang penjualan. Namun, laba operasional turun karena penurunan harga di pasar Amerika Utara dan dampak krisis logistik di Timur Tengah. Perusahaan menyatakan proyek pembangkit listrik tenaga angin lepas pantai berjalan lancar, sementara anak usahanya, SeAH Wind, mendorong ekspansi berkapasitas 400.000 ton. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "adde99ea3334",
     "slug": "가온전선-올-1분기-영업익-278억원-역대-최고美-aidc-수요-확대-수혜-560242",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Dalam Investasi Kuantitatif, Penilaian Manusia Utama dan AI Sebagai Pendukung [KIW 2026]",
         "excerpt": "Di KIW 2026, pembahasan tentang investasi kuantitatif dan AI menekankan bahwa keputusan investasi harus tetap berpusat pada penilaian manusia, dengan AI sebagai alat bantu.",
         "body": "Di KIW 2026, muncul pesan bahwa unsur terpenting dalam investasi kuantitatif adalah manusia. Teks asli menekankan bahwa kecerdasan buatan dapat digunakan dalam proses investasi, tetapi penilaian akhir dan strategi harus tetap berpusat pada manusia. Investasi kuantitatif memang berbasis data dan model, namun AI sebaiknya diperlakukan bukan sebagai pengambil keputusan independen, melainkan sebagai pendukung analisis dan eksekusi. Pembahasan ini menunjukkan bahwa di tengah meluasnya AI, tanggung jawab dan penilaian dalam investasi tetap berada pada manusia. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "aacc2eb2fe40",
-    "slug": "1분기에만-1조-잭팟개미들-우르르-몰리자-역대급-실적-477764",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T17:10:01.430Z",
-    "updatedAt": "2026-05-14T17:10:01.430Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605146375i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605146375i",
-    "titleFingerprint": "b296e30bf024a0eb09323816e951aedf27127f99",
-    "dedupKeys": [
-      "aacc2eb2fe409a542296cb81a1920dc6881e5955",
-      "b296e30bf024a0eb09323816e951aedf27127f99",
-      "d9465c8ccc8ecbbf905b4ae839688931ae324751"
-    ],
-    "imageUrl": "/images/articles/aacc2eb2fe40.jpg",
-    "i18n": {
-      "ko": {
-        "title": "1분기 1조 잭팟에 개인투자자 몰렸다…역대급 실적 배경은",
-        "excerpt": "hankyung.com은 1분기에만 1조원 규모의 ‘잭팟’이 발생하고 개인투자자들이 몰리면서 역대급 실적이 나왔다는 내용을 보도했다.",
-        "body": "1분기에만 1조원 규모의 ‘잭팟’이 발생하고 개인투자자들이 대거 몰리면서 역대급 실적이 나온 것으로 전해졌다. hankyung.com 보도에 따르면 이번 실적은 개인투자자들의 집중적인 참여가 맞물린 결과로 소개됐다. 기사 제목은 1분기 성과와 ‘개미’로 불리는 개인투자자의 유입을 핵심 배경으로 제시했다. 관련 수치로는 1분기에만 1조원이라는 규모가 언급됐다. 시장에서는 개인투자자의 참여 확대가 실적 흐름을 가르는 주요 변수로 부각될 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Q1 W1 Trillion Jackpot Draws Retail Investors, Driving Record Results",
-        "excerpt": "hankyung.com reported that a W1 trillion ‘jackpot’ in the first quarter and a rush of retail investors led to record-level performance.",
-        "body": "A W1 trillion ‘jackpot’ in the first quarter reportedly coincided with a surge of retail investors, resulting in record-level performance. According to hankyung.com, the result was presented as being linked to concentrated participation by individual investors. The article’s headline highlighted first-quarter performance and inflows from retail investors, often referred to in Korean markets as ‘ants,’ as key background factors. The main figure cited was W1 trillion in the first quarter alone. Retail participation may remain an important factor in the performance trend. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "第1四半期に1兆ウォンの大当たり、個人投資家殺到で過去級業績",
-        "excerpt": "hankyung.comは、第1四半期だけで1兆ウォン規模の「大当たり」が発生し、個人投資家が集まったことで過去級の業績につながったと報じた。",
-        "body": "第1四半期だけで1兆ウォン規模の「大当たり」が発生し、個人投資家が大きく流入したことで、過去級の業績が出たと伝えられた。hankyung.comの報道によると、今回の業績は個人投資家の集中的な参加が重なった結果として紹介された。記事の見出しは、第1四半期の成果と「アリ」と呼ばれる個人投資家の流入を主要な背景として示している。関連する数値としては、第1四半期だけで1兆ウォンという規模が言及された。市場では個人投資家の参加拡大が業績の流れを左右する要因として注目される。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "一季度1万亿韩元 jackpot 吸引散户涌入，业绩创纪录",
-        "excerpt": "hankyung.com报道称，一季度出现规模达1万亿韩元的“jackpot”，散户投资者蜂拥而入，推动业绩达到历史级水平。",
-        "body": "据报道，仅第一季度就出现了规模达1万亿韩元的“jackpot”，大量散户投资者涌入，带来了历史级业绩。根据hankyung.com报道，此次业绩被描述为与个人投资者的集中参与相互叠加的结果。报道标题将一季度成果以及被称为“蚂蚁”的散户投资者流入，作为核心背景提出。相关数字方面，报道提到仅一季度就达到1万亿韩元的规模。市场上，个人投资者参与扩大可能成为影响业绩走势的重要变量。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Jackpot de 1 billón de wones en el 1T atrae a minoristas y récord",
-        "excerpt": "hankyung.com informó que un ‘jackpot’ de 1 billón de wones solo en el primer trimestre y la entrada de inversores minoristas impulsaron resultados récord.",
-        "body": "Un ‘jackpot’ de 1 billón de wones solo en el primer trimestre habría coincidido con una fuerte llegada de inversores minoristas, dando lugar a resultados de nivel récord. Según hankyung.com, el desempeño fue presentado como resultado de la participación concentrada de inversores individuales. El titular del artículo destacó el resultado del primer trimestre y la entrada de minoristas, conocidos en Corea como ‘hormigas’, como factores centrales. La cifra citada fue de 1 billón de wones solo en el primer trimestre. La mayor participación minorista puede seguir siendo una variable relevante para la evolución de los resultados. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Jackpot de 1 trilhão de wons no 1T atrai varejo e impulsiona recorde",
-        "excerpt": "O hankyung.com informou que um ‘jackpot’ de 1 trilhão de wons apenas no primeiro trimestre e a entrada de investidores de varejo levaram a resultados recordes.",
-        "body": "Um ‘jackpot’ de 1 trilhão de wons apenas no primeiro trimestre teria coincidido com uma forte entrada de investidores de varejo, resultando em desempenho recorde. Segundo o hankyung.com, o resultado foi apresentado como ligado à participação concentrada de investidores individuais. A manchete destacou o desempenho do primeiro trimestre e o fluxo de investidores de varejo, chamados na Coreia de ‘formigas’, como fatores centrais. O principal número citado foi 1 trilhão de wons somente no primeiro trimestre. A ampliação da participação do varejo pode seguir como variável importante para a tendência dos resultados. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Q1-Jackpot von 1 Billion Won lockt Privatanleger und bringt Rekordzahlen",
-        "excerpt": "hankyung.com berichtete, dass ein ‘Jackpot’ von 1 Billion Won allein im ersten Quartal und der Zustrom von Privatanlegern zu rekordnahen Ergebnissen führten.",
-        "body": "Ein ‘Jackpot’ von 1 Billion Won allein im ersten Quartal soll mit einem starken Zustrom von Privatanlegern zusammengefallen sein und zu rekordnahen Ergebnissen geführt haben. Laut hankyung.com wurde die Entwicklung als Ergebnis einer gebündelten Beteiligung einzelner Anleger dargestellt. Die Überschrift hob die Leistung im ersten Quartal und den Zufluss von Privatanlegern, in Korea oft ‘Ameisen’ genannt, als zentrale Hintergründe hervor. Als relevante Zahl wurde 1 Billion Won allein im ersten Quartal genannt. Die wachsende Beteiligung von Privatanlegern kann für den weiteren Ergebnisverlauf ein wichtiger Faktor bleiben. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Jackpot de 1 000 milliards de wons au T1, les particuliers dopent le record",
-        "excerpt": "hankyung.com a rapporté qu’un ‘jackpot’ de 1 000 milliards de wons au premier trimestre et l’afflux d’investisseurs particuliers ont mené à des résultats record.",
-        "body": "Un ‘jackpot’ de 1 000 milliards de wons au seul premier trimestre aurait coïncidé avec un afflux massif d’investisseurs particuliers, entraînant des résultats de niveau record. Selon hankyung.com, cette performance a été présentée comme liée à la participation concentrée des investisseurs individuels. Le titre de l’article mettait en avant la performance du premier trimestre et l’arrivée des particuliers, appelés en Corée ‘fourmis’, comme facteurs centraux. Le chiffre clé cité est de 1 000 milliards de wons sur le seul premier trimestre. La participation accrue des particuliers pourrait rester une variable importante pour l’évolution des résultats. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "جائزة بتريليون وون في الربع الأول تجذب الأفراد وتدفع نتائج قياسية",
-        "excerpt": "ذكر hankyung.com أن ‘جائزة’ بقيمة تريليون وون في الربع الأول وحده وتدفق المستثمرين الأفراد أديا إلى أداء بمستوى قياسي.",
-        "body": "أفادت تقارير بأن ‘جائزة’ بقيمة تريليون وون في الربع الأول وحده تزامنت مع تدفق كبير للمستثمرين الأفراد، ما أدى إلى أداء بمستوى قياسي. ووفقًا لما نشره hankyung.com، فقد قُدمت هذه النتائج على أنها مرتبطة بالمشاركة المكثفة للمستثمرين الأفراد. وأبرز عنوان المقال أداء الربع الأول وتدفق المستثمرين الأفراد، الذين يُشار إليهم في كوريا باسم ‘النمل’، بوصفهما خلفية رئيسية. الرقم المذكور كان تريليون وون في الربع الأول فقط. وقد تبقى مشاركة الأفراد المتزايدة عاملًا مهمًا في مسار الأداء. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "पहली तिमाही में 1 ट्रिलियन वॉन jackpot, खुदरा निवेशकों से रिकॉर्ड नतीजे",
-        "excerpt": "hankyung.com ने बताया कि पहली तिमाही में 1 ट्रिलियन वॉन के ‘jackpot’ और खुदरा निवेशकों की भीड़ ने रिकॉर्ड स्तर के प्रदर्शन को जन्म दिया।",
-        "body": "पहली तिमाही में ही 1 ट्रिलियन वॉन के ‘jackpot’ के साथ खुदरा निवेशकों की बड़ी आमद हुई, जिससे रिकॉर्ड स्तर का प्रदर्शन सामने आया। hankyung.com के अनुसार, इस प्रदर्शन को व्यक्तिगत निवेशकों की केंद्रित भागीदारी से जुड़ा बताया गया। लेख के शीर्षक ने पहली तिमाही के परिणाम और कोरियाई बाजार में ‘चींटियां’ कहे जाने वाले खुदरा निवेशकों के प्रवाह को मुख्य पृष्ठभूमि के रूप में रखा। संबंधित आंकड़े के रूप में पहली तिमाही में 1 ट्रिलियन वॉन का आकार बताया गया। खुदरा भागीदारी में वृद्धि प्रदर्शन की दिशा तय करने वाला अहम कारक बन सकती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Jackpot 1 Triliun Won di Kuartal I, Investor Ritel Dorong Rekor Kinerja",
-        "excerpt": "hankyung.com melaporkan bahwa ‘jackpot’ 1 triliun won pada kuartal pertama dan masuknya investor ritel mendorong kinerja ke level rekor.",
-        "body": "‘Jackpot’ senilai 1 triliun won pada kuartal pertama dilaporkan terjadi bersamaan dengan masuknya banyak investor ritel, sehingga menghasilkan kinerja pada level rekor. Menurut hankyung.com, capaian ini diperkenalkan sebagai hasil dari partisipasi terpusat investor individu. Judul artikel menyoroti kinerja kuartal pertama dan arus masuk investor ritel, yang di Korea sering disebut ‘semut’, sebagai latar utama. Angka yang disebutkan adalah 1 triliun won hanya dalam kuartal pertama. Di pasar, perluasan partisipasi investor ritel dapat menjadi variabel penting bagi arah kinerja. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "edf2846ea3a4",
-    "slug": "하이닉스-이어-카카오까지미국-adr로-눈-돌린-까닭-682092",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T17:09:00.921Z",
-    "updatedAt": "2026-05-14T17:09:00.921Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051472451",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051472451",
-    "titleFingerprint": "06a2608202366b18c42b1da85c7f3fa2110dbc68",
-    "dedupKeys": [
-      "edf2846ea3a49d3dfcc01e496c5c9aed273e1959",
-      "06a2608202366b18c42b1da85c7f3fa2110dbc68",
-      "9d1d236ff6061d82a7266a99c1f2568b4b78126b"
-    ],
-    "imageUrl": "/images/articles/edf2846ea3a4.png",
-    "i18n": {
-      "ko": {
-        "title": "미국 ADR 주목한 카카오모빌리티, SK하이닉스 이어 선택한 배경",
-        "excerpt": "카카오모빌리티가 5월 14일 IB업계에서 미국 ADR 상장 검토 사례로 거론됐다. 중복상장 규제를 피하며 해외 상장 통로를 찾기 위한 선택이라는 설명이다.",
-        "body": "카카오모빌리티가 미국 주식예탁증서(ADR) 상장을 택한 배경은 중복상장 규제를 피하면서 해외에 상장할 수 있는 방법이라는 점이다. 14일 투자은행(IB)업계에 따르면 한국 기업이 미국 주식시장에 진입하는 방식은 주로 플립과 ADR 상장으로 나뉜다. 플립은 미국 신설 법인이 한국 법인을 자회사로 편입한 뒤 현지 지주사를 상장하는 구조다. ADR은 국내 주식을 바탕으로 미국용 예탁증서를 발행해 상장하는 방식이다. 국내 기업의 ADR 사례로는 포스코, 한국전력, SK텔레콤이 있으며 최근 SK하이닉스도 추진 중이다. 향후 관건은 주주 동의 여부로 꼽힌다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Kakao Mobility Turns to U.S. ADRs After SK Hynix: What Is Behind the Move",
-        "excerpt": "Kakao Mobility was cited by investment banking sources on May 14 as looking at a U.S. ADR listing, a route viewed as a way to seek an overseas listing while avoiding duplicate-listing rules.",
-        "body": "Kakao Mobility’s reason for choosing a U.S. American depositary receipt, or ADR, listing is that it offers a way to list overseas while avoiding duplicate-listing restrictions. According to investment banking sources on May 14, Korean companies mainly use two routes to enter the U.S. stock market: a flip or an ADR listing. A flip means setting up a new U.S. entity, placing the Korean company under it as a subsidiary, and listing the local holding company. An ADR listing issues U.S. depositary receipts backed by domestic shares. Korean ADR precedents include Posco, Korea Electric Power and SK Telecom, while SK Hynix has recently been pursuing the same path. Shareholder consent is seen as the key issue ahead. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "SKハイニックスに続きカカオモビリティも米ADRへ、選択の背景",
-        "excerpt": "カカオモビリティは5月14日、IB業界で米国ADR上場を検討する事例として取り上げられた。重複上場規制を避けつつ海外上場を目指す手段とされる。",
-        "body": "カカオモビリティが米国預託証券（ADR）上場を選んだ背景には、重複上場規制を避けながら海外に上場できる方法である点がある。14日の投資銀行（IB）業界によると、韓国企業が米国株式市場に入る方法は主にフリップとADR上場に分かれる。フリップは米国に新会社を設立し、韓国法人を子会社に組み入れたうえで現地持ち株会社を上場させる構造だ。ADRは国内株式を基に米国向け預託証券を発行して上場する方式である。韓国企業のADR事例にはポスコ、韓国電力、SKテレコムがあり、最近はSKハイニックスも推進している。今後の焦点は株主同意の有無とされる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "继SK海力士之后，Kakao Mobility转向美国ADR的原因",
-        "excerpt": "5月14日，投行业界提到Kakao Mobility考虑美国ADR上市。相关做法被视为在规避重复上市监管的同时寻求海外上市通道。",
-        "body": "Kakao Mobility选择美国存托凭证（ADR）上市的背景在于，这是在规避重复上市监管的同时实现海外上市的一种方式。根据5月14日投资银行（IB）行业消息，韩国企业进入美国股市主要有两种路径：翻转架构和ADR上市。翻转架构是在美国设立新公司，将韩国法人纳入其子公司后，让当地控股公司上市。ADR则是以国内股票为基础发行面向美国的存托凭证并上市。韩国企业的ADR案例包括浦项、韩国电力和SK电讯，近期SK海力士也在推进这一方式。未来关键被认为是能否获得股东同意。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Kakao Mobility mira a los ADR en EE. UU. tras SK Hynix: claves del movimiento",
-        "excerpt": "Kakao Mobility fue citada el 14 de mayo por fuentes de banca de inversión como un caso que evalúa cotizar vía ADR en EE. UU., una vía para salir al exterior evitando normas de doble cotización.",
-        "body": "Kakao Mobility eligió una cotización mediante recibos de depósito estadounidenses, o ADR, porque esa vía permite buscar una salida al exterior evitando las restricciones sobre doble cotización. Según fuentes de banca de inversión citadas el 14 de mayo, las empresas coreanas suelen usar dos métodos para entrar en el mercado bursátil de Estados Unidos: el flip y la cotización ADR. El flip consiste en crear una sociedad en EE. UU., incorporar la firma coreana como subsidiaria y cotizar la sociedad holding local. El ADR emite recibos estadounidenses respaldados por acciones locales. Entre los precedentes coreanos figuran Posco, Korea Electric Power y SK Telecom; SK Hynix también lo impulsa recientemente. El punto clave será el consentimiento de los accionistas. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Kakao Mobility mira ADRs nos EUA após SK Hynix: o motivo da escolha",
-        "excerpt": "A Kakao Mobility foi citada em 14 de maio por fontes de banco de investimento como caso de possível listagem via ADR nos EUA, caminho para buscar capital externo sem ferir regras de dupla listagem.",
-        "body": "A Kakao Mobility escolheu uma listagem por recibos de depósito americanos, ou ADRs, porque esse formato permite uma abertura no exterior evitando restrições de dupla listagem. Segundo fontes do setor de banco de investimento em 14 de maio, empresas coreanas usam principalmente dois caminhos para entrar no mercado acionário dos Estados Unidos: o flip e a listagem por ADR. No flip, cria-se uma empresa nos EUA, a companhia coreana passa a ser subsidiária e a holding local é listada. O ADR emite recibos americanos lastreados em ações domésticas. Entre os precedentes coreanos estão Posco, Korea Electric Power e SK Telecom; a SK Hynix também avança recentemente nessa rota. A questão central será o consentimento dos acionistas. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Kakao Mobility setzt nach SK Hynix auf US-ADRs: Hintergrund des Schritts",
-        "excerpt": "Kakao Mobility wurde am 14. Mai in Investmentbanking-Kreisen als Fall einer möglichen US-ADR-Notierung genannt. Der Weg soll eine Auslandsnotierung ermöglichen und zugleich Doppelnotierungsregeln umgehen.",
-        "body": "Kakao Mobility wählte eine Notierung über American Depositary Receipts, kurz ADRs, weil dieser Weg eine Auslandsnotierung ermöglicht und zugleich Beschränkungen für Doppelnotierungen umgeht. Nach Angaben aus Investmentbanking-Kreisen vom 14. Mai nutzen koreanische Unternehmen für den Zugang zum US-Aktienmarkt vor allem zwei Strukturen: einen Flip oder eine ADR-Notierung. Beim Flip wird in den USA eine neue Gesellschaft gegründet, die koreanische Gesellschaft als Tochter eingegliedert und anschließend die lokale Holding notiert. Bei ADRs werden auf Basis heimischer Aktien US-Hinterlegungsscheine ausgegeben. Koreanische Beispiele sind Posco, Korea Electric Power und SK Telecom; zuletzt verfolgt auch SK Hynix diesen Weg. Entscheidend dürfte die Zustimmung der Aktionäre sein. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Kakao Mobility se tourne vers les ADR américains après SK Hynix : les raisons",
-        "excerpt": "Kakao Mobility a été citée le 14 mai par des sources de banque d’investissement comme un cas de cotation ADR aux États-Unis, afin de viser l’étranger tout en évitant les règles de double cotation.",
-        "body": "Kakao Mobility a choisi une cotation par American Depositary Receipts, ou ADR, car ce mécanisme permet de viser une cotation à l’étranger tout en évitant les restrictions liées à la double cotation. Selon des sources de banque d’investissement le 14 mai, les entreprises coréennes utilisent surtout deux voies pour accéder au marché boursier américain : le flip et la cotation ADR. Le flip consiste à créer une société aux États-Unis, à y intégrer l’entité coréenne comme filiale, puis à coter la holding locale. L’ADR repose sur l’émission de certificats américains adossés à des actions domestiques. Posco, Korea Electric Power et SK Telecom figurent parmi les précédents coréens; SK Hynix suit aussi récemment cette voie. L’enjeu clé sera l’accord des actionnaires. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كاكاو موبيليتي تتجه إلى شهادات ADR الأميركية بعد SK Hynix: خلفية القرار",
-        "excerpt": "ذُكرت كاكاو موبيليتي في 14 مايو ضمن أوساط بنوك الاستثمار كحالة تدرس الإدراج عبر شهادات ADR في الولايات المتحدة، باعتباره طريقا للإدراج الخارجي مع تفادي قيود الإدراج المزدوج.",
-        "body": "اختارت كاكاو موبيليتي الإدراج عبر شهادات الإيداع الأميركية ADR لأن هذا المسار يتيح الإدراج في الخارج مع تفادي قيود الإدراج المزدوج. ووفق أوساط بنوك الاستثمار في 14 مايو، تستخدم الشركات الكورية غالبا طريقتين لدخول سوق الأسهم الأميركية: هيكل التحويل أو إدراج ADR. يقوم هيكل التحويل على إنشاء شركة جديدة في الولايات المتحدة، وضم الشركة الكورية إليها كشركة تابعة، ثم إدراج الشركة القابضة المحلية. أما ADR فيعتمد على إصدار شهادات إيداع أميركية مدعومة بأسهم محلية. ومن أمثلة الشركات الكورية التي استخدمت ADR بوسكو وكوريا إلكتريك باور وSK Telecom، فيما تدفع SK Hynix بهذا المسار مؤخرا. وتبقى موافقة المساهمين هي المسألة الرئيسية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "SK Hynix के बाद Kakao Mobility की नजर अमेरिकी ADR पर: क्यों चुना यह रास्ता",
-        "excerpt": "Kakao Mobility को 14 मई को निवेश बैंकिंग सूत्रों ने अमेरिकी ADR लिस्टिंग पर विचार करने वाले मामले के रूप में बताया। यह रास्ता दोहरी लिस्टिंग नियमों से बचते हुए विदेश में सूचीबद्ध होने का विकल्प माना जा रहा है।",
-        "body": "Kakao Mobility ने अमेरिकी डिपॉजिटरी रिसीट, यानी ADR, लिस्टिंग इसलिए चुनी क्योंकि इससे दोहरी लिस्टिंग से जुड़े प्रतिबंधों से बचते हुए विदेश में सूचीबद्ध होने का रास्ता मिलता है। 14 मई को निवेश बैंकिंग उद्योग के अनुसार, कोरियाई कंपनियां अमेरिकी शेयर बाजार में प्रवेश के लिए मुख्य रूप से दो तरीके अपनाती हैं: फ्लिप और ADR लिस्टिंग। फ्लिप में अमेरिका में नई कंपनी बनाई जाती है, कोरियाई कंपनी को उसकी सहायक इकाई बनाया जाता है और फिर स्थानीय होल्डिंग कंपनी को सूचीबद्ध किया जाता है। ADR में घरेलू शेयरों के आधार पर अमेरिकी डिपॉजिटरी रिसीट जारी कर लिस्टिंग होती है। कोरियाई उदाहरणों में Posco, Korea Electric Power और SK Telecom शामिल हैं; हाल में SK Hynix भी यही रास्ता अपना रही है। आगे मुख्य मुद्दा शेयरधारकों की सहमति होगा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Kakao Mobility Lirik ADR AS Setelah SK Hynix: Alasan di Balik Pilihan Ini",
-        "excerpt": "Kakao Mobility disebut pada 14 Mei oleh kalangan perbankan investasi sebagai contoh yang mempertimbangkan pencatatan ADR di AS, jalur untuk masuk bursa luar negeri sambil menghindari aturan pencatatan ganda.",
-        "body": "Kakao Mobility memilih pencatatan melalui American Depositary Receipt, atau ADR, karena jalur ini memungkinkan perusahaan melantai di luar negeri sambil menghindari pembatasan pencatatan ganda. Menurut kalangan perbankan investasi pada 14 Mei, perusahaan Korea umumnya memakai dua cara untuk masuk pasar saham Amerika Serikat: flip dan pencatatan ADR. Flip berarti mendirikan entitas baru di AS, memasukkan perusahaan Korea sebagai anak usaha, lalu mencatatkan holding lokal. ADR menerbitkan sertifikat penitipan AS yang berbasis saham domestik. Contoh ADR perusahaan Korea mencakup Posco, Korea Electric Power, dan SK Telecom; belakangan SK Hynix juga menempuh jalur ini. Faktor utama ke depan adalah persetujuan pemegang saham. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "3d7a89f6d347",
-    "slug": "카카오모빌리티-美-adr-연내-상장-추진-191992",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T17:07:49.642Z",
-    "updatedAt": "2026-05-14T17:07:49.642Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051472421",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051472421",
-    "titleFingerprint": "16878d3d5c136e9249d88715973081de07ba93b6",
-    "dedupKeys": [
-      "3d7a89f6d3470fb8257989a8d052ad6ff8655ad6",
-      "16878d3d5c136e9249d88715973081de07ba93b6",
-      "17bc9a9641204bc797873ecd0257ca88c1d0921a"
-    ],
-    "imageUrl": "/images/articles/3d7a89f6d347.jpg",
-    "i18n": {
-      "ko": {
-        "title": "카카오모빌리티, 미국 ADR 연내 상장 추진…해외 투자자 접점 확대 주목",
-        "excerpt": "카카오모빌리티가 올해 안에 미국 ADR 상장을 추진한다고 hankyung.com이 전했다. 국내 모빌리티 기업의 해외 자본시장 접근 움직임으로 주목된다.",
-        "body": "카카오모빌리티가 올해 안에 미국 ADR 상장을 추진한다고 hankyung.com이 보도했다. ADR은 해외 기업 주식에 투자할 수 있도록 미국 시장에서 거래되는 예탁증서로, 회사가 실제 상장 절차를 진행할 경우 미국 투자자와의 접점이 넓어질 수 있다. 원문에서 확인된 핵심 내용은 ‘카카오모빌리티’가 ‘미국 ADR’을 ‘연내 상장’ 목표로 추진한다는 점이다. 구체적인 일정, 발행 규모, 주관사, 기업가치 등 세부 조건은 제시되지 않았다. 이번 움직임은 카카오모빌리티의 해외 자본시장 활용 가능성을 보여주는 사안으로, 향후 공식 절차와 추가 공시 여부가 관심사다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Kakao Mobility Seeks U.S. ADR Listing This Year, Drawing Investor Attention",
-        "excerpt": "Kakao Mobility is pursuing a U.S. ADR listing within this year, hankyung.com reported, marking a move to connect with overseas capital-market investors.",
-        "body": "Kakao Mobility is pursuing a U.S. ADR listing within this year, according to hankyung.com. An ADR, or American Depositary Receipt, allows shares of a foreign company to be traded in the U.S. market, potentially widening the company’s access to American investors if the listing process moves forward. The confirmed information in the original report is that Kakao Mobility is seeking a U.S. ADR listing by year-end. Specific details such as timing, issuance size, underwriters, and valuation were not provided. The move highlights the company’s possible use of overseas capital markets, with attention now on any formal steps or additional disclosures. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "カカオモビリティ、米国ADRの年内上場を推進…海外投資家との接点に注目",
-        "excerpt": "カカオモビリティが年内に米国ADR上場を推進しているとhankyung.comが報じた。海外資本市場への接近として注目される。",
-        "body": "カカオモビリティが年内に米国ADR上場を推進していると、hankyung.comが報じた。ADRは海外企業の株式を米国市場で取引できるようにする預託証券で、実際に上場手続きが進めば米国投資家との接点が広がる可能性がある。原文で確認された核心は、カカオモビリティが米国ADRを年内上場の目標で推進しているという点だ。具体的な日程、発行規模、主幹事、企業価値などの詳細条件は示されていない。今回の動きは同社の海外資本市場活用の可能性を示すもので、今後の正式手続きや追加開示の有無が注目される。出所: hankyung.com."
-      },
-      "zh": {
-        "title": "Kakao Mobility推进年内美国ADR上市，海外投资者接触面受关注",
-        "excerpt": "据hankyung.com报道，Kakao Mobility正推进今年内在美国以ADR形式上市，此举被视为接近海外资本市场的动向。",
-        "body": "据hankyung.com报道，Kakao Mobility正推进今年内在美国以ADR形式上市。ADR即美国存托凭证，可让海外企业股票在美国市场交易；如果相关上市程序实际推进，公司与美国投资者的接触面可能扩大。原文确认的核心信息是，Kakao Mobility以年内上市为目标推进美国ADR。报道未提供具体时间表、发行规模、承销商、企业估值等细节条件。此次动向显示该公司可能利用海外资本市场，后续正式程序及追加披露是否出现将受到关注。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Kakao Mobility impulsa una salida a bolsa vía ADR en EE. UU. este año",
-        "excerpt": "Kakao Mobility busca listar ADR en Estados Unidos antes de que termine el año, informó hankyung.com, en un movimiento hacia el mercado de capitales internacional.",
-        "body": "Kakao Mobility está impulsando una cotización mediante ADR en Estados Unidos dentro de este año, según informó hankyung.com. Un ADR, o recibo de depósito estadounidense, permite negociar en el mercado de EE. UU. acciones de una empresa extranjera, lo que podría ampliar el contacto de la compañía con inversores estadounidenses si el proceso avanza. La información confirmada en el texto original es que Kakao Mobility busca una salida a bolsa vía ADR en EE. UU. antes de fin de año. No se detallaron calendario, tamaño de emisión, bancos colocadores ni valoración. El movimiento muestra una posible vía de acceso a capital extranjero, con atención en próximos pasos formales o nuevas divulgaciones. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Kakao Mobility busca listagem via ADR nos EUA ainda este ano",
-        "excerpt": "A Kakao Mobility está buscando uma listagem via ADR nos Estados Unidos até o fim deste ano, informou hankyung.com, ampliando o foco em mercados externos.",
-        "body": "A Kakao Mobility está buscando uma listagem via ADR nos Estados Unidos ainda este ano, segundo informou hankyung.com. Um ADR, ou recibo depositário americano, permite que ações de uma empresa estrangeira sejam negociadas no mercado dos EUA, o que pode ampliar o contato da companhia com investidores americanos caso o processo avance. A informação confirmada no texto original é que a Kakao Mobility pretende listar ADRs nos EUA até o fim do ano. Detalhes como cronograma, tamanho da emissão, coordenadores e avaliação não foram apresentados. O movimento mostra uma possível utilização de mercados de capitais externos, com atenção voltada a etapas formais e novas divulgações. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Kakao Mobility strebt US-ADR-Listing noch in diesem Jahr an",
-        "excerpt": "Kakao Mobility treibt laut hankyung.com ein US-ADR-Listing bis Jahresende voran. Der Schritt rückt den Zugang zu ausländischen Kapitalmärkten in den Fokus.",
-        "body": "Kakao Mobility treibt ein US-ADR-Listing noch in diesem Jahr voran, wie hankyung.com berichtete. Ein ADR, also American Depositary Receipt, ermöglicht den Handel von Aktien ausländischer Unternehmen am US-Markt. Sollte das Listingverfahren tatsächlich voranschreiten, könnte sich der Kontakt des Unternehmens zu US-Investoren erweitern. Die im Original bestätigte Kernaussage lautet, dass Kakao Mobility ein US-ADR-Listing bis Jahresende anstrebt. Konkrete Angaben zu Zeitplan, Emissionsvolumen, Konsortialbanken oder Unternehmensbewertung wurden nicht genannt. Der Schritt zeigt die mögliche Nutzung ausländischer Kapitalmärkte; im Fokus stehen nun formelle Verfahren und mögliche weitere Mitteilungen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Kakao Mobility vise une cotation ADR aux États-Unis avant la fin de l’année",
-        "excerpt": "Kakao Mobility cherche à lancer une cotation ADR aux États-Unis cette année, selon hankyung.com, un mouvement vers les marchés de capitaux étrangers.",
-        "body": "Kakao Mobility cherche à obtenir une cotation ADR aux États-Unis avant la fin de l’année, selon hankyung.com. Un ADR, ou certificat américain de dépôt, permet de négocier sur le marché américain les titres d’une entreprise étrangère; si la procédure avance, l’entreprise pourrait élargir ses contacts avec les investisseurs américains. L’information confirmée par le texte original est que Kakao Mobility poursuit un objectif de cotation ADR aux États-Unis cette année. Aucun détail n’a été fourni sur le calendrier, le volume d’émission, les banques chefs de file ou la valorisation. Ce mouvement montre une possible utilisation des marchés de capitaux étrangers, avec une attention portée aux étapes officielles et aux nouvelles annonces. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "كاكاو موبيليتي تسعى لإدراج ADR في الولايات المتحدة خلال هذا العام",
-        "excerpt": "تسعى كاكاو موبيليتي إلى إدراج شهادات ADR في الولايات المتحدة قبل نهاية العام، وفق hankyung.com، في خطوة نحو أسواق رأس المال الخارجية.",
-        "body": "تسعى كاكاو موبيليتي إلى إدراج شهادات ADR في الولايات المتحدة خلال هذا العام، بحسب ما أورد موقع hankyung.com. وتمثل شهادات الإيداع الأميركية أداة تتيح تداول أسهم الشركات الأجنبية في السوق الأميركية، وقد توسع تواصل الشركة مع المستثمرين الأميركيين إذا تقدمت إجراءات الإدراج فعليا. المعلومة المؤكدة في النص الأصلي هي أن كاكاو موبيليتي تدفع باتجاه إدراج ADR أميركي قبل نهاية العام. ولم ترد تفاصيل عن الجدول الزمني أو حجم الإصدار أو الجهات المديرة أو تقييم الشركة. وتبرز الخطوة إمكانية استخدام الشركة لأسواق رأس المال الخارجية، مع ترقب أي إجراءات رسمية أو إفصاحات إضافية. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Kakao Mobility इस साल अमेरिकी ADR लिस्टिंग की तैयारी में",
-        "excerpt": "hankyung.com के अनुसार Kakao Mobility इस साल के भीतर अमेरिकी ADR लिस्टिंग को आगे बढ़ा रही है, जिससे विदेशी पूंजी बाजार से जुड़ाव पर ध्यान गया है।",
-        "body": "hankyung.com के अनुसार Kakao Mobility इस साल के भीतर अमेरिकी ADR लिस्टिंग को आगे बढ़ा रही है। ADR, यानी American Depositary Receipt, विदेशी कंपनी के शेयरों को अमेरिकी बाजार में कारोबार योग्य बनाता है; यदि लिस्टिंग प्रक्रिया आगे बढ़ती है, तो कंपनी का अमेरिकी निवेशकों से संपर्क बढ़ सकता है। मूल रिपोर्ट में पुष्टि की गई मुख्य बात यह है कि Kakao Mobility वर्ष के अंत तक अमेरिकी ADR लिस्टिंग का लक्ष्य लेकर चल रही है। सटीक समय, निर्गम आकार, अंडरराइटर या कंपनी मूल्यांकन जैसे विवरण नहीं दिए गए। यह कदम विदेशी पूंजी बाजारों के उपयोग की संभावना दिखाता है, और अब औपचारिक प्रक्रिया या अतिरिक्त खुलासों पर ध्यान रहेगा। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Kakao Mobility Kejar Listing ADR AS Tahun Ini, Akses Investor Jadi Sorotan",
-        "excerpt": "Kakao Mobility mendorong rencana listing ADR di Amerika Serikat tahun ini, menurut hankyung.com, sebagai langkah menuju pasar modal luar negeri.",
-        "body": "Kakao Mobility mendorong rencana listing ADR di Amerika Serikat dalam tahun ini, menurut laporan hankyung.com. ADR, atau American Depositary Receipt, memungkinkan saham perusahaan asing diperdagangkan di pasar AS, sehingga dapat memperluas kontak perusahaan dengan investor Amerika jika proses listing berjalan. Informasi utama yang dikonfirmasi dalam teks asli adalah bahwa Kakao Mobility menargetkan listing ADR AS sebelum akhir tahun. Rincian seperti jadwal, ukuran penerbitan, penjamin emisi, dan valuasi perusahaan tidak disebutkan. Langkah ini menunjukkan kemungkinan pemanfaatan pasar modal luar negeri, sementara perhatian berikutnya tertuju pada prosedur resmi dan pengungkapan tambahan. Sumber: hankyung.com."
       }
     }
   }
