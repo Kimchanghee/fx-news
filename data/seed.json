@@ -1,5 +1,230 @@
 [
   {
+    "id": "34acab21c728",
+    "slug": "주가를-밀어-올리는-개인-vs-끌어내리는-외국인코스피-8000-놓고-치열한-공방전-914036",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T17:54:32.157Z",
+    "updatedAt": "2026-05-15T17:54:32.157Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159277i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159277i",
+    "titleFingerprint": "6d0cefa9cc82addd219d0b3b6875c3f03f4fe32a",
+    "dedupKeys": [
+      "34acab21c72831a426612a951bf6b301de086e8a",
+      "6d0cefa9cc82addd219d0b3b6875c3f03f4fe32a",
+      "5e69965543029588491381fe68f6229527d88952"
+    ],
+    "imageUrl": "/images/articles/34acab21c728.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 8000 공방, 개인 매수와 외국인 매도에 흔들리는 증시",
+        "excerpt": "한국 증시에서 개인 투자자는 주가를 밀어 올리고 외국인은 끌어내리며 코스피 8000을 둘러싼 치열한 수급 공방이 이어지고 있다.",
+        "body": "한국 증시에서 개인 투자자와 외국인 투자자가 코스피 8000을 놓고 팽팽한 공방을 벌이고 있다. 개인은 주가를 밀어 올리는 매수세로 지수를 지지하는 반면, 외국인은 매도 흐름으로 상승 압력을 제한하고 있다. 이번 흐름은 투자 주체별 수급 방향이 엇갈리면서 시장 변동성을 키우는 모습이다. 코스피 8000이라는 상징적 지점을 둘러싼 힘겨루기는 향후 지수 흐름과 투자심리에 영향을 줄 수 있다. 다만 구체적인 업종별 흐름이나 거래 규모는 원문에 제시되지 않았다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "KOSPI 8000 Battle: Retail Buying Meets Foreign Selling Pressure",
+        "excerpt": "In South Korea’s stock market, retail investors are pushing prices higher while foreign investors are selling, intensifying the fight around KOSPI 8000.",
+        "body": "In South Korea’s stock market, retail and foreign investors are locked in a tense battle over KOSPI 8000. Retail investors are supporting the index with buying that pushes share prices higher, while foreign investors are limiting upward momentum through selling pressure. The split in trading direction between investor groups is adding to market volatility. The struggle around the symbolic KOSPI 8000 level could influence future index movement and investor sentiment. Specific sector trends or trading volumes were not provided in the original text. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "KOSPI8000攻防、個人買いと外国人売りが株価を揺らす",
+        "excerpt": "韓国株式市場では、個人投資家が株価を押し上げる一方、外国人投資家が売りで抑え込み、KOSPI8000を巡る攻防が続いている。",
+        "body": "韓国株式市場で、個人投資家と外国人投資家がKOSPI8000を巡って激しい攻防を繰り広げている。個人は株価を押し上げる買いで指数を支える一方、外国人は売りの流れで上昇圧力を抑えている。投資主体ごとの需給方向が分かれたことで、市場の変動性が高まっている構図だ。象徴的なKOSPI8000を巡る力比べは、今後の指数動向と投資心理に影響を与える可能性がある。ただし、具体的な業種別動向や売買規模は原文に示されていない。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "KOSPI 8000攻防：散户买盘与外资卖压拉锯",
+        "excerpt": "韩国股市中，个人投资者推高股价，外国投资者则以卖盘压制涨势，围绕KOSPI 8000的资金博弈持续升温。",
+        "body": "韩国股市中，个人投资者与外国投资者正围绕KOSPI 8000展开激烈拉锯。个人投资者以买盘支撑指数并推动股价上行，而外国投资者的卖出行为则限制了上涨压力。不同投资主体的资金流向出现分化，使市场波动性有所加大。围绕KOSPI 8000这一象征性点位的较量，可能影响后续指数走势和投资者情绪。不过，原文未提供具体行业表现或成交规模。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "KOSPI 8000 en disputa: compras minoristas frente a ventas extranjeras",
+        "excerpt": "En la bolsa surcoreana, los inversores minoristas impulsan los precios mientras los extranjeros venden, intensificando la disputa en torno al KOSPI 8000.",
+        "body": "En el mercado bursátil de Corea del Sur, los inversores minoristas y extranjeros mantienen una disputa intensa alrededor del KOSPI 8000. Los minoristas sostienen el índice con compras que empujan las acciones al alza, mientras los extranjeros limitan el avance mediante presión vendedora. La diferencia en la dirección de los flujos por tipo de inversor está aumentando la volatilidad del mercado. La pugna en torno al nivel simbólico de KOSPI 8000 puede influir en la evolución futura del índice y en el ánimo inversor. El texto original no incluye datos sectoriales ni volúmenes concretos. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "KOSPI 8000 em disputa: pessoa física compra e estrangeiro vende",
+        "excerpt": "Na bolsa sul-coreana, investidores pessoas físicas elevam os preços enquanto estrangeiros vendem, ampliando a disputa em torno do KOSPI 8000.",
+        "body": "No mercado acionário da Coreia do Sul, investidores pessoas físicas e estrangeiros travam uma disputa intensa em torno do KOSPI 8000. As pessoas físicas sustentam o índice com compras que empurram as ações para cima, enquanto os estrangeiros limitam o avanço por meio de pressão vendedora. A divergência nos fluxos por tipo de investidor aumenta a volatilidade do mercado. A disputa em torno do nível simbólico de KOSPI 8000 pode influenciar a trajetória futura do índice e o sentimento dos investidores. O texto original não informa setores específicos nem volumes de negociação. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "KOSPI 8000 im Fokus: Privatanleger kaufen, Ausländer verkaufen",
+        "excerpt": "Am südkoreanischen Aktienmarkt treiben Privatanleger die Kurse nach oben, während ausländische Investoren verkaufen und den Kampf um KOSPI 8000 verschärfen.",
+        "body": "Am südkoreanischen Aktienmarkt liefern sich Privatanleger und ausländische Investoren einen angespannten Kampf um KOSPI 8000. Privatanleger stützen den Index mit Käufen, die die Aktienkurse nach oben treiben, während ausländische Investoren den Aufwärtsdruck durch Verkäufe begrenzen. Die gegensätzlichen Kapitalflüsse der Anlegergruppen erhöhen die Marktvolatilität. Das Ringen um die symbolische Marke KOSPI 8000 könnte den weiteren Indexverlauf und die Anlegerstimmung beeinflussen. Konkrete Sektorentwicklungen oder Handelsvolumina wurden im Originaltext nicht genannt. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "KOSPI 8000 sous tension : achats des particuliers contre ventes étrangères",
+        "excerpt": "Sur le marché actions sud-coréen, les particuliers poussent les cours à la hausse tandis que les étrangers vendent, accentuant la bataille autour du KOSPI 8000.",
+        "body": "Sur le marché boursier sud-coréen, les investisseurs particuliers et étrangers s’affrontent autour du KOSPI 8000. Les particuliers soutiennent l’indice par des achats qui font monter les cours, tandis que les investisseurs étrangers limitent la hausse par leurs ventes. Cette divergence des flux selon les catégories d’investisseurs accroît la volatilité du marché. Le bras de fer autour du niveau symbolique de KOSPI 8000 pourrait peser sur l’évolution future de l’indice et sur le sentiment des investisseurs. Le texte original ne fournit pas de données sectorielles ni de volumes précis. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "معركة كوسبي 8000: شراء الأفراد يواجه بيع المستثمرين الأجانب",
+        "excerpt": "في سوق الأسهم الكورية الجنوبية، يدفع المستثمرون الأفراد الأسعار صعودا بينما يضغط الأجانب بالبيع، ما يزيد حدة المواجهة حول كوسبي 8000.",
+        "body": "في سوق الأسهم الكورية الجنوبية، يدور صراع حاد بين المستثمرين الأفراد والمستثمرين الأجانب حول مستوى كوسبي 8000. يدعم الأفراد المؤشر عبر مشتريات تدفع أسعار الأسهم إلى الارتفاع، بينما تحد مبيعات الأجانب من زخم الصعود. هذا التباين في اتجاهات التدفقات بين فئات المستثمرين يزيد تقلبات السوق. وقد يؤثر الصراع حول المستوى الرمزي كوسبي 8000 في مسار المؤشر لاحقا وفي معنويات المستثمرين. ولم يورد النص الأصلي تفاصيل عن القطاعات أو أحجام التداول. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "KOSPI 8000 की जंग: खुदरा खरीद बनाम विदेशी बिकवाली दबाव",
+        "excerpt": "दक्षिण कोरियाई शेयर बाजार में खुदरा निवेशक कीमतें ऊपर ले जा रहे हैं, जबकि विदेशी निवेशक बेच रहे हैं, जिससे KOSPI 8000 पर टकराव तेज है।",
+        "body": "दक्षिण कोरिया के शेयर बाजार में खुदरा और विदेशी निवेशकों के बीच KOSPI 8000 को लेकर कड़ा मुकाबला चल रहा है। खुदरा निवेशक खरीदारी के जरिये शेयर कीमतों को ऊपर धकेलते हुए सूचकांक को सहारा दे रहे हैं, जबकि विदेशी निवेशकों की बिकवाली तेजी के दबाव को सीमित कर रही है। निवेशक वर्गों के बीच धन प्रवाह की दिशा अलग होने से बाजार की अस्थिरता बढ़ती दिख रही है। KOSPI 8000 जैसे प्रतीकात्मक स्तर पर यह खींचतान आगे सूचकांक की चाल और निवेशक भावना को प्रभावित कर सकती है। मूल पाठ में क्षेत्रवार रुझान या कारोबार आकार नहीं दिया गया है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "KOSPI 8000 Diperebutkan: Beli Ritel Lawan Jual Asing",
+        "excerpt": "Di pasar saham Korea Selatan, investor ritel mendorong harga naik sementara investor asing menjual, memperketat perebutan level KOSPI 8000.",
+        "body": "Di pasar saham Korea Selatan, investor ritel dan investor asing terlibat tarik-menarik ketat di sekitar KOSPI 8000. Investor ritel menopang indeks lewat aksi beli yang mendorong harga saham naik, sementara investor asing membatasi tekanan kenaikan melalui aksi jual. Perbedaan arah aliran dana antar kelompok investor ini meningkatkan volatilitas pasar. Perebutan level simbolis KOSPI 8000 dapat memengaruhi arah indeks berikutnya dan sentimen investor. Namun, teks asli tidak memuat rincian sektor maupun nilai transaksi tertentu. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "8580a67185c9",
+    "slug": "포토-파랗게-질린-코스피-295966",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T17:53:44.485Z",
+    "updatedAt": "2026-05-15T17:53:44.485Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159712i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159712i",
+    "titleFingerprint": "14988bd6bc8c401804b6c42db87385cf57e92fd7",
+    "dedupKeys": [
+      "8580a67185c9d8e64a2fd29f69f11c640ea27da5",
+      "14988bd6bc8c401804b6c42db87385cf57e92fd7",
+      "b8069a7330feab18f446364d6740c63da1e7ef91"
+    ],
+    "imageUrl": "/images/articles/8580a67185c9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 ‘파랗게 질린’ 장면 포착, 한경닷컴 사진 뉴스로 전한 시장 표정",
+        "excerpt": "한경닷컴은 ‘파랗게 질린 코스피’라는 사진 기사 제목으로 코스피 시장 화면의 긴장된 분위기를 전하며 국내 증시의 한 장면을 보도했다.",
+        "body": "한경닷컴은 사진 기사 ‘[포토] 파랗게 질린 코스피’를 통해 국내 증시를 대표하는 코스피의 한 장면을 전했다. 원문에는 별도 요약 없이 제목과 출처만 제시됐으며, 핵심 내용은 코스피 화면이 ‘파랗게 질린’ 모습으로 포착됐다는 점이다. 배경 수치나 구체적인 지수 변동 폭, 시간대, 원인 등은 원문 정보에 포함되지 않았다. 따라서 이번 기사는 시장 상황을 해석하기보다 사진으로 전달된 코스피의 분위기를 중심으로 이해해야 한다. 외환·원자재 시장 참가자도 국내 증시 흐름을 참고할 수 있으나, 추가 판단에는 별도 지표 확인이 필요하다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "KOSPI Seen ‘Turning Blue’ in Hankyung Photo News, Capturing Market Mood",
+        "excerpt": "Hankyung.com reported a photo item titled ‘KOSPI Turns Blue,’ presenting a tense-looking scene from South Korea’s benchmark stock market without further summary details.",
+        "body": "Hankyung.com published a photo news item titled ‘[Photo] KOSPI Turns Blue,’ showing a scene from South Korea’s benchmark KOSPI market. The original item provides only the headline and source, with no separate summary. Its core information is that a KOSPI screen was captured in a ‘blue’ state. The source does not include background figures, a specific index move, timing, or stated cause. Therefore, the item should be read as a visual report of market atmosphere rather than an analytical explanation. Participants in foreign exchange and commodity markets may monitor Korean equities as context, but further judgment requires separate data checks. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "KOSPIが「青ざめた」場面、韓国経済新聞の写真ニュースが市場の表情伝える",
+        "excerpt": "hankyung.comは「青ざめたKOSPI」という写真記事の見出しで、韓国株式市場を代表するKOSPI画面の緊張感ある一場面を報じた。",
+        "body": "hankyung.comは写真記事「【フォト】青ざめたKOSPI」を通じ、韓国株式市場を代表するKOSPIの一場面を伝えた。原文には別途の要約はなく、見出しと出典のみが示されている。中心となる情報は、KOSPIの画面が「青ざめた」様子として捉えられたという点だ。背景となる数値、具体的な指数変動幅、時間帯、原因などは原文情報に含まれていない。したがって本記事は、市場状況を分析するものではなく、写真で伝えられたKOSPIの雰囲気を中心に読む必要がある。為替・商品市場の参加者も韓国株の動きを参考にできるが、判断には別途データ確認が必要だ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "KOSPI“发蓝”画面被捕捉，韩经网图片新闻呈现市场气氛",
+        "excerpt": "hankyung.com以“发蓝的KOSPI”为题发布图片新闻，报道了韩国代表性股指KOSPI屏幕所呈现的一幕紧张市场画面。",
+        "body": "hankyung.com发布题为“【图片】发蓝的KOSPI”的图片新闻，呈现韩国代表性股市指数KOSPI的一幕。原文未提供单独摘要，仅列出标题和出处。核心信息是，KOSPI屏幕被拍摄成“发蓝”的状态。原文没有包含背景数据、具体指数变动幅度、时间段或原因等内容。因此，这篇报道应被理解为通过图片传达KOSPI市场气氛，而不是对市场走势作出分析。外汇和大宗商品市场参与者也可将韩国股市动向作为参考，但进一步判断仍需另行确认相关指标。出处: hankyung.com."
+      },
+      "es": {
+        "title": "KOSPI aparece ‘teñido de azul’ en foto de Hankyung, señal visual del mercado",
+        "excerpt": "Hankyung.com publicó una nota fotográfica titulada ‘KOSPI teñido de azul’, mostrando una escena del mercado bursátil surcoreano sin añadir más detalles resumidos.",
+        "body": "Hankyung.com difundió una nota fotográfica titulada ‘[Foto] KOSPI teñido de azul’, con una escena del KOSPI, el índice representativo de la bolsa surcoreana. El texto original no incluye un resumen separado y solo presenta el título y la fuente. La información central es que una pantalla del KOSPI fue captada con una apariencia ‘azul’. La fuente no aporta cifras de contexto, variación concreta del índice, horario ni causa indicada. Por ello, la pieza debe leerse como un registro visual del ambiente del mercado, no como un análisis de la situación bursátil. Los participantes de divisas y materias primas pueden observar la bolsa coreana como referencia, pero cualquier conclusión requiere verificar datos adicionales. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "KOSPI surge ‘azulado’ em foto do Hankyung, retratando o clima do mercado",
+        "excerpt": "O hankyung.com publicou uma notícia fotográfica intitulada ‘KOSPI azulado’, mostrando uma cena do principal mercado acionário sul-coreano sem resumo adicional.",
+        "body": "O hankyung.com publicou a notícia fotográfica ‘[Foto] KOSPI azulado’, mostrando uma cena do KOSPI, referência do mercado acionário da Coreia do Sul. O material original não traz resumo separado e apresenta apenas o título e a fonte. A informação central é que uma tela do KOSPI foi registrada com aparência ‘azulada’. A fonte não inclui números de contexto, variação específica do índice, horário ou causa informada. Assim, a notícia deve ser entendida como um registro visual do clima do mercado, e não como uma análise da situação. Participantes dos mercados de câmbio e commodities podem acompanhar as ações coreanas como referência, mas avaliações adicionais exigem checagem de dados próprios. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "KOSPI wirkt ‘blau angelaufen’: Hankyung-Fotonachricht zeigt Marktstimmung",
+        "excerpt": "Hankyung.com meldete eine Fotonachricht mit dem Titel ‘Blau angelaufener KOSPI’ und zeigte damit eine Szene vom südkoreanischen Leitaktienmarkt.",
+        "body": "Hankyung.com veröffentlichte die Fotonachricht ‘[Foto] Blau angelaufener KOSPI’ und zeigte damit eine Szene des KOSPI, des führenden Aktienmarktindex Südkoreas. Der Originaltext enthält keine gesonderte Zusammenfassung, sondern nur Titel und Quelle. Die zentrale Information lautet, dass ein KOSPI-Bildschirm in einem ‘blauen’ Zustand festgehalten wurde. Hintergrundzahlen, eine konkrete Indexveränderung, Uhrzeit oder Ursache nennt die Quelle nicht. Deshalb ist der Beitrag als visuelle Darstellung der Marktstimmung zu lesen, nicht als Analyse der Börsenlage. Teilnehmer an Devisen- und Rohstoffmärkten können koreanische Aktien als Kontext beobachten, sollten für weitere Schlüsse jedoch zusätzliche Daten prüfen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Le KOSPI ‘bleuit’ sur une photo de Hankyung, image de l’ambiance de marché",
+        "excerpt": "Hankyung.com a publié une brève photo intitulée ‘Le KOSPI bleuit’, montrant une scène du marché boursier sud-coréen sans autre résumé détaillé.",
+        "body": "Hankyung.com a publié une information photo intitulée ‘[Photo] Le KOSPI bleuit’, montrant une scène du KOSPI, indice représentatif du marché actions sud-coréen. Le texte original ne comporte pas de résumé distinct et présente seulement le titre et la source. L’information centrale est qu’un écran du KOSPI a été saisi dans un état décrit comme ‘bleui’. La source ne fournit pas de chiffres de contexte, de variation précise de l’indice, d’horaire ni de cause indiquée. L’article doit donc être lu comme un signal visuel de l’ambiance de marché, et non comme une analyse. Les acteurs du change et des matières premières peuvent suivre les actions coréennes en contexte, mais tout jugement exige d’autres données. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "كوسبي يظهر «مزرقا» في خبر مصور من هانكيونغ يرصد أجواء السوق",
+        "excerpt": "نشر موقع hankyung.com خبرا مصورا بعنوان «كوسبي مزرق»، عارضا لقطة من شاشة سوق الأسهم الكورية الجنوبية من دون تقديم ملخص تفصيلي إضافي.",
+        "body": "نشر موقع hankyung.com خبرا مصورا بعنوان «[صورة] كوسبي مزرق»، عارضا مشهدا من مؤشر كوسبي، المؤشر الممثل لسوق الأسهم في كوريا الجنوبية. لا يتضمن النص الأصلي ملخصا منفصلا، بل يورد العنوان والمصدر فقط. المعلومة الأساسية هي أن شاشة كوسبي التقطت في حالة وُصفت بأنها «مزرقّة». ولا يذكر المصدر أرقاما خلفية أو مقدار تغير محدد في المؤشر أو توقيتا أو سببا. لذلك ينبغي قراءة الخبر بوصفه نقلا بصريا لأجواء السوق، لا تحليلا لحركة الأسهم. ويمكن لمتابعي العملات والسلع النظر إلى الأسهم الكورية كسياق، لكن أي حكم إضافي يحتاج إلى بيانات مستقلة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "KOSPI के ‘नीला पड़ने’ की तस्वीर, Hankyung ने बाजार का माहौल दिखाया",
+        "excerpt": "hankyung.com ने ‘नीला पड़ा KOSPI’ शीर्षक से फोटो समाचार प्रकाशित किया, जिसमें दक्षिण कोरिया के प्रमुख शेयर बाजार सूचकांक की एक झलक दिखाई गई।",
+        "body": "hankyung.com ने ‘[फोटो] नीला पड़ा KOSPI’ शीर्षक से एक फोटो समाचार प्रकाशित किया, जिसमें दक्षिण कोरिया के प्रमुख शेयर बाजार सूचकांक KOSPI की एक झलक दिखाई गई। मूल सामग्री में अलग सारांश नहीं है और केवल शीर्षक तथा स्रोत दिए गए हैं। मुख्य जानकारी यह है कि KOSPI की स्क्रीन को ‘नीला पड़ा’ रूप में कैद किया गया। स्रोत में पृष्ठभूमि आंकड़े, सूचकांक में ठोस बदलाव, समय या कारण शामिल नहीं हैं। इसलिए इस खबर को बाजार की स्थिति के विश्लेषण के बजाय तस्वीर से दिखे माहौल के रूप में पढ़ा जाना चाहिए। विदेशी मुद्रा और कमोडिटी बाजार के भागीदार कोरियाई शेयरों की चाल को संदर्भ के रूप में देख सकते हैं, लेकिन आगे के निष्कर्ष के लिए अलग आंकड़ों की जांच जरूरी है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "KOSPI ‘Membiru’ dalam Foto Hankyung, Gambaran Suasana Pasar Korea",
+        "excerpt": "Hankyung.com memuat berita foto berjudul ‘KOSPI membiru’, menampilkan satu adegan layar pasar saham utama Korea Selatan tanpa ringkasan tambahan.",
+        "body": "Hankyung.com menerbitkan berita foto berjudul ‘[Foto] KOSPI membiru’, yang menampilkan satu adegan dari KOSPI, indeks utama pasar saham Korea Selatan. Naskah asli tidak memuat ringkasan terpisah dan hanya menyajikan judul serta sumber. Informasi utamanya adalah layar KOSPI tertangkap dalam keadaan disebut ‘membiru’. Sumber tidak mencantumkan angka latar, besaran perubahan indeks, waktu, atau penyebab tertentu. Karena itu, berita ini perlu dibaca sebagai laporan visual mengenai suasana pasar, bukan sebagai analisis pergerakan bursa. Pelaku pasar valuta asing dan komoditas dapat memantau saham Korea sebagai konteks, tetapi penilaian lebih lanjut memerlukan pemeriksaan data terpisah. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "2443e6d00a36",
+    "slug": "팔천피에-취한-사이어느새-원달러-환율-1500원-분석-958279",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T17:52:42.336Z",
+    "updatedAt": "2026-05-15T17:52:42.337Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051593986",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051593986",
+    "titleFingerprint": "b65e7fde134ea2ba1752e8ae78477b2796e4430d",
+    "dedupKeys": [
+      "2443e6d00a36d1cf10a2967b92c249ff1ff0cf97",
+      "b65e7fde134ea2ba1752e8ae78477b2796e4430d",
+      "15ef1f6330c2f49532d82e25a365ef29b0f404a5"
+    ],
+    "imageUrl": "/images/articles/2443e6d00a36.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원·달러 환율 1500원 돌파, 팔천피 랠리 뒤 가려진 증시 부담 부상",
+        "excerpt": "15일 원·달러 환율이 6거래일 연속 오르며 1500원을 넘어섰다. 코스피 급등 흐름 속 원화 약세와 외국인 순매도가 증시 부담으로 떠올랐다.",
+        "body": "15일 서울 외환시장에서 원·달러 환율은 6거래일째 상승하며 1500원을 넘어섰다. 코스피지수가 가파르게 오른 사이 달러 대비 원화 가치가 떨어지면서 증시에 부담이 커졌다는 분석이다. 한국은행의 2026년 4월 이후 국제금융·외환시장 동향에 따르면 환율은 미·이란 종전 협상 진전 기대와 엔화 강세로 1450원대까지 내려갔지만, 종전 기대 축소와 외국인의 국내 주식 순매도 등으로 하락폭이 줄었다. 삼성증권은 예상을 웃돈 물가지표로 미국 10년물 금리가 4.5%를 넘고 WTI가 배럴당 100달러를 다시 돌파했다고 설명했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Won-Dollar Rate Tops 1,500 as Kospi Rally Faces Currency Pressure",
+        "excerpt": "On May 15, the won-dollar exchange rate rose for a sixth session and moved above 1,500, adding pressure to Korean stocks amid won weakness and foreign selling.",
+        "body": "On May 15, the won-dollar exchange rate climbed for a sixth consecutive trading session and moved above 1,500. The rise came as the Kospi had advanced sharply, while the won weakened against the dollar, creating a burden for the stock market. According to the Bank of Korea’s report on international financial and foreign exchange markets since April 2026, the rate had fallen to the 1,450 range on hopes of progress in U.S.-Iran ceasefire talks and a stronger yen. That decline narrowed as ceasefire expectations faded and foreign investors sold Korean shares. Samsung Securities noted that stronger-than-expected inflation data pushed the U.S. 10-year yield above 4.5%, while WTI crude again exceeded $100 a barrel. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ウォン・ドル相場1500ウォン突破、KOSPI急騰の裏で株式市場に重荷",
+        "excerpt": "15日、ウォン・ドル相場は6営業日連続で上昇し1500ウォンを超えた。KOSPI上昇の一方、ウォン安と外国人売りが市場の負担となった。",
+        "body": "15日のソウル外国為替市場で、ウォン・ドル相場は6営業日連続で上昇し、1500ウォンを超えた。KOSPI指数が急速に上がる間に、ドルに対するウォンの価値が下がり、株式市場への負担が強まったとの分析が出ている。韓国銀行の2026年4月以降の国際金融・外国為替市場動向によると、相場は米国とイランの停戦協議進展への期待や円高を受けて1450ウォン台まで下落したが、停戦期待の後退や外国人投資家による韓国株の純売りで下落幅が縮小した。サムスン証券は、予想を上回る物価指標で米10年債利回りが4.5%を超え、WTIが再び1バレル100ドルを突破したと説明した。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "韩元兑美元汇率突破1500，KOSPI大涨背后浮现汇率压力",
+        "excerpt": "15日，韩元兑美元汇率连续第六个交易日上涨并突破1500。KOSPI快速上涨之际，韩元走弱和外资净卖出成为股市负担。",
+        "body": "15日，首尔外汇市场上韩元兑美元汇率连续第六个交易日上涨，突破1500。报道称，在KOSPI指数快速上升的同时，韩元对美元贬值，给股市带来压力。韩国银行关于2026年4月以来国际金融和外汇市场动向的资料显示，受美国与伊朗停战谈判取得进展的期待以及日元走强影响，汇率一度降至1450区间，但随着停战期待减弱、外国投资者净卖出韩国股票，降幅收窄。三星证券表示，高于预期的物价数据推动美国10年期国债收益率超过4.5%，WTI原油价格再次突破每桶100美元。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El won-dólar supera 1.500 y añade presión al rally del Kospi",
+        "excerpt": "El 15 de mayo, el tipo de cambio won-dólar subió por sexta sesión y superó 1.500, mientras la debilidad del won y las ventas extranjeras pesaron sobre la bolsa coreana.",
+        "body": "El 15 de mayo, el tipo de cambio won-dólar avanzó por sexta sesión consecutiva y superó 1.500 en el mercado cambiario de Seúl. El movimiento se produjo mientras el índice Kospi había subido con fuerza, pero la caída del won frente al dólar empezó a convertirse en una carga para la bolsa. Según el Banco de Corea, en su reporte sobre los mercados financieros y cambiarios internacionales desde abril de 2026, el tipo de cambio había bajado a la zona de 1.450 por las expectativas de avances en las negociaciones de alto el fuego entre EE. UU. e Irán y por la fortaleza del yen. La caída se redujo al enfriarse esas expectativas y por ventas netas de acciones coreanas por parte de extranjeros. Samsung Securities señaló que datos de inflación superiores a lo previsto llevaron el rendimiento del Tesoro estadounidense a 10 años por encima del 4,5% y que el WTI volvió a superar los 100 dólares por barril. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Won-dólar passa de 1.500 e pressiona bolsa apesar do rali do Kospi",
+        "excerpt": "Em 15 de maio, o câmbio won-dólar subiu pela sexta sessão e passou de 1.500, com a fraqueza do won e a venda estrangeira pesando sobre ações coreanas.",
+        "body": "Em 15 de maio, o câmbio won-dólar avançou pela sexta sessão consecutiva no mercado de Seul e passou de 1.500. O movimento ocorreu enquanto o índice Kospi havia subido com força, mas a desvalorização do won frente ao dólar passou a pesar sobre o mercado acionário. Segundo o Banco da Coreia, em relatório sobre os mercados financeiros e cambiais internacionais desde abril de 2026, a taxa havia recuado para a faixa de 1.450 com expectativas de avanço nas negociações de cessar-fogo entre EUA e Irã e a força do iene. Essa queda perdeu força com a redução dessas expectativas e a venda líquida de ações coreanas por estrangeiros. A Samsung Securities afirmou que dados de inflação acima do esperado levaram o juro do Treasury de 10 anos acima de 4,5% e que o WTI voltou a superar US$ 100 por barril. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Won-Dollar-Kurs steigt über 1.500 und belastet den Kospi-Rally",
+        "excerpt": "Am 15. Mai stieg der Won-Dollar-Kurs zum sechsten Mal in Folge über 1.500. Won-Schwäche und ausländische Aktienverkäufe wurden zur Belastung für Seoul.",
+        "body": "Am 15. Mai stieg der Won-Dollar-Wechselkurs am Devisenmarkt in Seoul den sechsten Handelstag in Folge und überschritt die Marke von 1.500. Während der Kospi zuvor kräftig zugelegt hatte, verlor der Won gegenüber dem Dollar an Wert, was als zusätzliche Belastung für den Aktienmarkt gewertet wurde. Nach Angaben der Bank of Korea zu den internationalen Finanz- und Devisenmärkten seit April 2026 war der Kurs wegen Hoffnungen auf Fortschritte bei Gesprächen über ein Ende der Kämpfe zwischen den USA und Iran sowie wegen eines stärkeren Yen bis in den Bereich von 1.450 gefallen. Dieser Rückgang verringerte sich, als die Erwartungen nachließen und ausländische Investoren koreanische Aktien netto verkauften. Samsung Securities erklärte, stärker als erwartete Inflationsdaten hätten die Rendite zehnjähriger US-Staatsanleihen über 4,5% getrieben, während WTI erneut über 100 Dollar je Barrel stieg. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le won-dollar dépasse 1 500 et pèse sur le rally du Kospi",
+        "excerpt": "Le 15 mai, le taux won-dollar a progressé pour une sixième séance et dépassé 1 500, la faiblesse du won et les ventes étrangères pesant sur les actions coréennes.",
+        "body": "Le 15 mai, le taux de change won-dollar a augmenté pour une sixième séance consécutive sur le marché de Séoul et a dépassé 1 500. Cette hausse est intervenue alors que le Kospi avait fortement progressé, mais la baisse du won face au dollar a accru la pression sur le marché actions. Selon la Banque de Corée, dans son point sur les marchés financiers et des changes internationaux depuis avril 2026, le taux était descendu dans la zone de 1 450 grâce aux attentes de progrès dans les discussions de cessez-le-feu entre les États-Unis et l’Iran et à la vigueur du yen. Cette baisse s’est réduite avec le recul de ces attentes et les ventes nettes d’actions coréennes par les investisseurs étrangers. Samsung Securities a indiqué que des chiffres d’inflation supérieurs aux attentes avaient poussé le rendement américain à 10 ans au-dessus de 4,5%, tandis que le WTI repassait au-dessus de 100 dollars le baril. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "سعر الوون مقابل الدولار يتجاوز 1500 ويضغط على صعود كوسبي",
+        "excerpt": "في 15 مايو، ارتفع سعر صرف الوون مقابل الدولار للجلسة السادسة وتجاوز 1500، مع تحول ضعف الوون ومبيعات الأجانب للأسهم الكورية إلى عبء على السوق.",
+        "body": "في 15 مايو، ارتفع سعر صرف الوون مقابل الدولار في سوق سيول للجلسة السادسة على التوالي وتجاوز مستوى 1500. وجاء ذلك بينما كان مؤشر كوسبي قد صعد بقوة، لكن تراجع قيمة الوون أمام الدولار زاد الضغط على سوق الأسهم. وبحسب تقرير بنك كوريا عن أوضاع الأسواق المالية وأسواق الصرف الدولية منذ أبريل 2026، كان السعر قد هبط إلى نطاق 1450 بفعل توقعات تقدم محادثات وقف القتال بين الولايات المتحدة وإيران وقوة الين. لكن هذا الهبوط تقلص مع تراجع تلك التوقعات وقيام المستثمرين الأجانب ببيع صاف للأسهم الكورية. وذكرت سامسونغ للأوراق المالية أن بيانات التضخم الأعلى من المتوقع دفعت عائد سندات الخزانة الأميركية لأجل 10 سنوات فوق 4.5%، كما عاد خام WTI إلى تجاوز 100 دولار للبرميل. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "वॉन-डॉलर दर 1,500 के पार, कोस्पी तेजी पर मुद्रा दबाव बढ़ा",
+        "excerpt": "15 मई को वॉन-डॉलर विनिमय दर छठे सत्र तक बढ़कर 1,500 के पार गई। कोस्पी की तेज बढ़त के बीच कमजोर वॉन और विदेशी बिकवाली बाजार पर बोझ बने।",
+        "body": "15 मई को सियोल विदेशी मुद्रा बाजार में वॉन-डॉलर विनिमय दर लगातार छठे कारोबारी सत्र में बढ़ी और 1,500 के पार चली गई। कोस्पी सूचकांक के तेज चढ़ने के दौरान डॉलर के मुकाबले वॉन का मूल्य घटा, जिससे शेयर बाजार पर दबाव बढ़ने का विश्लेषण सामने आया। बैंक ऑफ कोरिया की अप्रैल 2026 के बाद अंतरराष्ट्रीय वित्तीय और विदेशी मुद्रा बाजार स्थितियों की रिपोर्ट के अनुसार, अमेरिका-ईरान संघर्षविराम वार्ता में प्रगति की उम्मीद और येन की मजबूती से दर 1,450 के दायरे तक नीचे आई थी। लेकिन संघर्षविराम उम्मीदों के घटने और विदेशी निवेशकों की कोरियाई शेयरों में शुद्ध बिकवाली से गिरावट सीमित हो गई। सैमसंग सिक्योरिटीज ने कहा कि उम्मीद से ऊंचे महंगाई आंकड़ों ने अमेरिकी 10-वर्षीय यील्ड को 4.5% से ऊपर पहुंचाया और WTI फिर 100 डॉलर प्रति बैरल से ऊपर गया। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Kurs won-dolar tembus 1.500, reli Kospi dibayangi tekanan valas",
+        "excerpt": "Pada 15 Mei, kurs won-dolar naik untuk sesi keenam dan menembus 1.500. Pelemahan won serta aksi jual asing menjadi beban bagi pasar saham Korea.",
+        "body": "Pada 15 Mei, kurs won-dolar di pasar valuta asing Seoul naik untuk sesi perdagangan keenam berturut-turut dan menembus 1.500. Kenaikan itu terjadi saat indeks Kospi sebelumnya bergerak tajam, tetapi pelemahan won terhadap dolar mulai menjadi beban bagi pasar saham. Menurut laporan Bank of Korea tentang perkembangan pasar keuangan dan valuta asing internasional sejak April 2026, kurs sempat turun ke kisaran 1.450 karena harapan kemajuan negosiasi penghentian perang AS-Iran dan penguatan yen. Penurunan itu menyempit setelah harapan tersebut berkurang dan investor asing mencatat jual bersih saham Korea. Samsung Securities menjelaskan bahwa data inflasi yang melampaui perkiraan mendorong imbal hasil Treasury AS 10 tahun melewati 4,5%, sementara WTI kembali menembus 100 dolar AS per barel. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "093fe6d0174c",
     "slug": "앤스로픽-몸값-9000억弗오픈ai-제쳤다-968415",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "ETF di Era KOSPI 8000: Beli Bertahap, Bobot Setara, Diversifikasi Global",
         "excerpt": "Saat era KOSPI 8000 menjadi perhatian, strategi ETF menyoroti beli bertahap, bobot setara, dan diversifikasi global, dengan pengalaman siklus semikonduktor masa lalu sebagai konteks.",
         "body": "Saat gagasan era KOSPI 8000 menjadi perhatian, kata kunci utama strategi investasi ETF adalah beli bertahap, bobot setara, dan diversifikasi global. Laporan tersebut menekankan pendekatan yang tidak hanya bergantung pada pergerakan satu sektor: membagi waktu pembelian, mengurangi konsentrasi bobot dalam indeks, serta meninjau aset domestik dan luar negeri secara bersamaan. Latar belakangnya adalah pengalaman siklus semikonduktor sebelumnya. Laporan itu menyebut bahwa pada 2017 juga ada “super cycle semikonduktor”, tetapi setelah itu pasar turun selama lebih dari dua tahun. Karena itu, ekspektasi saat ini terhadap “ultra cycle semikonduktor” perlu dihadapi dengan strategi ETF yang terdiversifikasi, bukan optimisme tanpa syarat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "8d1593226eb5",
-    "slug": "8천피-앞두고-삼전닉스-더-담은-초고수팔아치운-종목-봤더니-639110",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-15T00:00:59.896Z",
-    "updatedAt": "2026-05-15T00:00:59.896Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605145877i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605145877i",
-    "titleFingerprint": "29003048edc61b93817c07b5c3146c76fa3c0ec3",
-    "dedupKeys": [
-      "8d1593226eb50d14fda65967c4e6f3d6c2295423",
-      "29003048edc61b93817c07b5c3146c76fa3c0ec3",
-      "102fcb39458a2f0edabf8715b5ff252050dc172f"
-    ],
-    "imageUrl": "/images/articles/8d1593226eb5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "8천피 앞둔 증시, 초고수들이 삼성전자·SK하이닉스 더 담은 이유",
-        "excerpt": "한국경제에 따르면 8천피를 앞둔 국내 증시에서 투자 초고수들이 삼성전자와 SK하이닉스를 추가 매수한 흐름이 주목받고 있다.",
-        "body": "국내 증시가 ‘8천피’를 앞둔 상황에서 투자 초고수들이 삼성전자와 SK하이닉스를 더 담은 것으로 전해졌다. 한국경제 보도 제목에 따르면 이들은 이른바 ‘삼전닉스’로 불리는 대형 반도체주를 추가 매수했고, 동시에 일부 종목은 매도한 것으로 언급됐다. 구체적인 매도 종목과 수치는 원문 요약에 제시되지 않았다. 시장에서는 대형 반도체주 수급 변화가 지수 흐름과 투자심리에 영향을 줄 수 있어 관련 매매 동향에 관심이 이어진다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Top Investors Add Samsung Electronics and SK Hynix as Market Nears 8,000",
-        "excerpt": "According to Hankyung, elite investors drew attention by adding Samsung Electronics and SK Hynix as the Korean market approached the 8,000 level.",
-        "body": "As the Korean stock market approached the so-called 8,000 level, top-performing investors reportedly increased their holdings in Samsung Electronics and SK Hynix. According to the Hankyung headline, they bought more of the major semiconductor names often grouped as “Samjeon-Nix,” while also selling some other stocks. The original summary does not provide the names or figures for the stocks sold. Investors are watching these flows because buying and selling by high-performing market participants can affect sentiment around large chip shares and the broader index. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "8千ポイント目前の韓国株、達人投資家がサムスン電子・SKハイニックス買い増し",
-        "excerpt": "韓国経済新聞によると、8千ポイントを前にした韓国株式市場で投資上級者がサムスン電子とSKハイニックスを買い増した動きが注目されている。",
-        "body": "韓国株式市場がいわゆる8千ポイントを目前にする中、投資上級者がサムスン電子とSKハイニックスをさらに買い増したと伝えられた。韓国経済新聞の見出しによると、彼らは大型半導体株である両銘柄を追加取得する一方、一部銘柄を売却したという。売却銘柄の具体名や数値は、提示された原文要約には含まれていない。大型半導体株の需給変化は指数の流れや投資心理に影響し得るため、市場では関連する売買動向への関心が続いている。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "韩股逼近8000点，高手加仓三星电子与SK海力士受关注",
-        "excerpt": "据韩国经济新闻报道，韩国股市逼近8000点之际，投资高手继续买入三星电子和SK海力士的动向受到市场关注。",
-        "body": "在韩国股市逼近所谓8000点之际，投资高手据称进一步买入三星电子和SK海力士。根据韩国经济新闻的标题，他们加仓了被市场合称为大型半导体股的相关股票，同时也卖出了部分个股。原文摘要未提供被卖出股票的具体名称和数据。由于大型半导体股的资金流向可能影响指数走势和投资情绪，市场正继续关注这些高水平投资者的买卖动向。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Bolsa coreana cerca de 8.000: expertos suman Samsung Electronics y SK Hynix",
-        "excerpt": "Según Hankyung, inversores expertos llamaron la atención al aumentar posiciones en Samsung Electronics y SK Hynix mientras la bolsa coreana se acercaba a 8.000.",
-        "body": "Mientras la bolsa coreana se acercaba al llamado nivel de 8.000, inversores de alto desempeño habrían aumentado sus posiciones en Samsung Electronics y SK Hynix. Según el titular de Hankyung, compraron más acciones de estos grandes valores de semiconductores, al tiempo que vendieron algunos otros títulos. El resumen original no incluye los nombres concretos ni las cifras de las acciones vendidas. El mercado sigue atento a estos movimientos porque los flujos en grandes fabricantes de chips pueden influir en el índice y en el ánimo inversor. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Bolsa coreana perto de 8.000: especialistas reforçam Samsung e SK Hynix",
-        "excerpt": "Segundo o Hankyung, investidores experientes chamaram atenção ao ampliar posições em Samsung Electronics e SK Hynix com o mercado coreano perto de 8.000.",
-        "body": "Com a bolsa coreana se aproximando do chamado nível de 8.000, investidores de alto desempenho teriam aumentado suas posições em Samsung Electronics e SK Hynix. De acordo com o título do Hankyung, eles compraram mais desses grandes papéis de semicondutores e, ao mesmo tempo, venderam algumas outras ações. O resumo original não informa os nomes nem os números específicos dos ativos vendidos. O mercado acompanha esses fluxos porque mudanças na demanda por grandes ações de chips podem afetar o índice e o sentimento dos investidores. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Koreanischer Markt vor 8.000: Profis kaufen Samsung Electronics und SK Hynix",
-        "excerpt": "Laut Hankyung erhöhten erfahrene Anleger ihre Positionen in Samsung Electronics und SK Hynix, während sich der koreanische Aktienmarkt der Marke von 8.000 näherte.",
-        "body": "Während sich der koreanische Aktienmarkt der sogenannten Marke von 8.000 näherte, sollen besonders erfolgreiche Anleger ihre Bestände in Samsung Electronics und SK Hynix ausgebaut haben. Dem Hankyung-Titel zufolge kauften sie weitere große Halbleiterwerte, während sie zugleich einige andere Aktien verkauften. Die ursprüngliche Zusammenfassung nennt keine konkreten verkauften Titel oder Zahlen. Marktteilnehmer beobachten solche Bewegungen genau, weil Kapitalflüsse in großen Chipaktien den Indexverlauf und die Anlegerstimmung beeinflussen können. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Bourse coréenne proche de 8 000 : les experts renforcent Samsung et SK Hynix",
-        "excerpt": "Selon Hankyung, des investisseurs chevronnés ont accru leurs positions dans Samsung Electronics et SK Hynix alors que le marché coréen approchait 8 000.",
-        "body": "Alors que la Bourse coréenne approchait le seuil dit des 8 000, des investisseurs très performants auraient renforcé leurs positions dans Samsung Electronics et SK Hynix. D’après le titre de Hankyung, ils ont acheté davantage de ces grandes valeurs des semi-conducteurs tout en vendant certaines autres actions. Le résumé original ne précise pas les noms ni les chiffres des titres cédés. Le marché suit ces flux de près, car les mouvements sur les grandes actions de puces peuvent influencer l’indice et le sentiment des investisseurs. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "السوق الكورية تقترب من 8000 ونخبة المستثمرين تزيد Samsung وSK Hynix",
-        "excerpt": "بحسب Hankyung، لفت مستثمرون متمرسون الأنظار بزيادة مراكزهم في Samsung Electronics وSK Hynix مع اقتراب السوق الكورية من مستوى 8000.",
-        "body": "مع اقتراب سوق الأسهم الكورية من ما يوصف بمستوى 8000، ورد أن مستثمرين ذوي أداء عال زادوا حيازاتهم في Samsung Electronics وSK Hynix. ووفق عنوان Hankyung، اشترى هؤلاء مزيدا من أسهم أشباه الموصلات الكبرى، وفي الوقت نفسه باعوا بعض الأسهم الأخرى. ولا يتضمن الملخص الأصلي أسماء الأسهم المباعة أو أرقاما محددة عنها. ويتابع السوق هذه التحركات لأن تدفقات الشراء والبيع في أسهم الرقائق الكبرى قد تؤثر في مسار المؤشر ومعنويات المستثمرين. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "8,000 के करीब कोरियाई बाजार, दिग्गज निवेशकों ने Samsung और SK Hynix बढ़ाए",
-        "excerpt": "Hankyung के अनुसार, कोरियाई बाजार के 8,000 स्तर के करीब पहुंचने पर अनुभवी निवेशकों ने Samsung Electronics और SK Hynix में हिस्सेदारी बढ़ाई।",
-        "body": "कोरियाई शेयर बाजार के कथित 8,000 स्तर के करीब पहुंचने के बीच शीर्ष प्रदर्शन करने वाले निवेशकों ने Samsung Electronics और SK Hynix में और खरीदारी की। Hankyung के शीर्षक के अनुसार, उन्होंने इन बड़े सेमीकंडक्टर शेयरों को और जोड़ा, जबकि कुछ अन्य शेयर बेचे। मूल सारांश में बेचे गए शेयरों के नाम या उनसे जुड़े आंकड़े नहीं दिए गए हैं। बाजार इन सौदों पर नजर रख रहा है, क्योंकि बड़े चिप शेयरों में मांग और आपूर्ति का बदलाव सूचकांक की दिशा और निवेशक धारणा को प्रभावित कर सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Bursa Korea Dekati 8.000, Investor Mahir Tambah Samsung dan SK Hynix",
-        "excerpt": "Menurut Hankyung, investor mahir menarik perhatian setelah menambah Samsung Electronics dan SK Hynix saat bursa Korea mendekati level 8.000.",
-        "body": "Saat bursa Korea mendekati level yang disebut 8.000, investor berkinerja tinggi dilaporkan menambah kepemilikan di Samsung Electronics dan SK Hynix. Berdasarkan judul Hankyung, mereka membeli lebih banyak saham semikonduktor besar tersebut, sekaligus menjual sejumlah saham lain. Ringkasan asli tidak mencantumkan nama saham yang dijual maupun angka spesifiknya. Pasar mencermati arus transaksi ini karena perubahan minat pada saham chip besar dapat memengaruhi arah indeks dan sentimen investor. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "58fccb2fce02",
-    "slug": "미중-회담-첫날-강세다우-5만선-돌파-뉴욕증시-브리핑-956028",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-15T00:00:06.666Z",
-    "updatedAt": "2026-05-15T00:00:06.666Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051578226",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051578226",
-    "titleFingerprint": "b8db96df5b59ff4d1f6f528a7eb4dcb69bfd4f42",
-    "dedupKeys": [
-      "58fccb2fce02332851084b7ecfde57d498f7d0c1",
-      "b8db96df5b59ff4d1f6f528a7eb4dcb69bfd4f42",
-      "77338cfdc2fb7e13024113aea7e44688a9d303aa"
-    ],
-    "imageUrl": "/images/articles/58fccb2fce02.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미중 정상회담에 뉴욕증시 강세, 다우 5만선 회복·S&P500 최고치",
-        "excerpt": "14일 현지시간 뉴욕증시는 미중 정상회담을 계기로 기술주 투자심리가 살아나며 3대 지수가 동반 상승했고, 다우는 5만선을 회복했다.",
-        "body": "14일 현지시간 뉴욕증권거래소에서 미국과 중국 정상회담을 계기로 기술주 투자심리가 살아나며 뉴욕증시 주요 지수가 일제히 상승 마감했다. 다우존스30산업평균지수는 전장 대비 370.26포인트(0.75%) 오른 5만63.46에 거래를 마쳤고, S&P500지수는 56.99포인트(0.77%) 상승한 7501.24, 나스닥종합지수는 232.88포인트(0.88%) 오른 2만6335.22에 마감했다. S&P500과 나스닥은 장중 및 종가 기준 사상 최고치를 다시 경신했다. 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 베이징에서 경제 협력 의지를 재확인한 점이 투자심리를 끌어올린 것으로 풀이됐다. 엔비디아는 중국 내 H200 칩 판매 기대감에 4.36% 상승했고 시스코는 실적 호조와 인력 5% 감축 계획 발표로 13.03% 급등했다. 보잉은 4.73% 하락했다. 국제유가는 보합권에서 마감했다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "US-China Summit Lifts Wall Street as Dow Reclaims 50,000 and S&P Hits Record",
-        "excerpt": "On May 14 local time, Wall Street’s three major indexes rose as the US-China summit revived tech sentiment, with the Dow closing back above 50,000.",
-        "body": "On May 14 local time, major Wall Street indexes closed higher on the New York Stock Exchange as technology-share sentiment improved after the US-China summit. The Dow Jones Industrial Average rose 370.26 points, or 0.75%, to 50,063.46. The S&P 500 gained 56.99 points, or 0.77%, to 7,501.24, while the Nasdaq Composite advanced 232.88 points, or 0.88%, to 26,335.22. The S&P 500 and Nasdaq set fresh intraday and closing records, and the Dow recovered the 50,000 level. The article said investor sentiment was lifted as US President Donald Trump and Chinese President Xi Jinping reaffirmed their willingness for economic cooperation in Beijing. Nvidia rose 4.36% on expectations for H200 chip sales in China. Cisco jumped 13.03% after stronger-than-expected results and a plan to cut 5% of its workforce, while Boeing fell 4.73%. Oil ended near flat. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "米中首脳会談でNY株上昇、ダウ5万台回復・S&P500最高値更新",
-        "excerpt": "現地時間14日のニューヨーク株式市場は、米中首脳会談を受けてハイテク株心理が改善し、主要3指数がそろって上昇した。",
-        "body": "現地時間14日のニューヨーク証券取引所では、米中首脳会談をきっかけにハイテク株への投資心理が改善し、主要株価指数がそろって上昇して取引を終えた。ダウ工業株30種平均は前日比370.26ポイント、0.75%高の5万63.46で終了。S&P500指数は56.99ポイント、0.77%上昇の7501.24、ナスダック総合指数は232.88ポイント、0.88%高の2万6335.22で引けた。S&P500とナスダックは、取引時間中と終値ベースで過去最高値を再び更新し、ダウも5万台を回復した。記事は、ドナルド・トランプ米大統領と習近平中国国家主席が北京で経済協力の意思を再確認したことが投資心理を押し上げたと伝えた。エヌビディアは中国でのH200チップ販売期待から4.36%上昇し、シスコは好決算と5%人員削減計画で13.03%急騰。一方、ボーイングは4.73%下落した。原油はほぼ横ばいで終了した。出典: hankyung.com。"
-      },
-      "zh": {
-        "title": "美中峰会提振纽约股市，道指重返5万点、标普500再创新高",
-        "excerpt": "当地时间14日，纽约股市因美中峰会带动科技股投资情绪回暖，三大股指集体收涨，道指重返5万点上方。",
-        "body": "当地时间14日，纽约证券交易所主要股指集体收高，原因是美中峰会推动科技股投资情绪回暖。道琼斯工业平均指数较前一交易日上涨370.26点，涨幅0.75%，收于50063.46点；标普500指数上涨56.99点，涨幅0.77%，收于7501.24点；以科技股为主的纳斯达克综合指数上涨232.88点，涨幅0.88%，收于26335.22点。标普500指数和纳斯达克指数盘中及收盘均再次刷新历史高位，道指也重返5万点。报道指出，美国总统唐纳德·特朗普与中国国家主席习近平当天在北京举行会谈，并重申经济合作意愿，这被认为提振了投资者情绪。英伟达因中国市场H200芯片销售预期上涨4.36%；思科在业绩超预期及宣布裁员5%计划后大涨13.03%；波音则下跌4.73%。国际油价基本持平收盘。来源: hankyung.com。"
-      },
-      "es": {
-        "title": "Cumbre EEUU-China impulsa Wall Street: Dow recupera 50.000 y S&P marca récord",
-        "excerpt": "El 14 de mayo, hora local, Wall Street cerró al alza tras la cumbre EEUU-China, que reactivó el ánimo hacia tecnológicas y llevó al Dow sobre 50.000.",
-        "body": "El 14 de mayo, hora local, los principales índices de la Bolsa de Nueva York cerraron al alza después de que la cumbre entre Estados Unidos y China reactivara el ánimo inversor hacia las tecnológicas. El Dow Jones Industrial Average subió 370,26 puntos, o 0,75%, hasta 50.063,46. El S&P 500 avanzó 56,99 puntos, o 0,77%, hasta 7.501,24, y el Nasdaq Composite ganó 232,88 puntos, o 0,88%, hasta 26.335,22. El S&P 500 y el Nasdaq renovaron máximos históricos tanto intradía como al cierre, mientras el Dow recuperó el nivel de 50.000. La nota señaló que el sentimiento mejoró después de que el presidente estadounidense Donald Trump y el presidente chino Xi Jinping reafirmaran en Pekín su voluntad de cooperación económica. Nvidia subió 4,36% por expectativas de ventas del chip H200 en China. Cisco saltó 13,03% por resultados mejores de lo esperado y un plan para reducir 5% de su plantilla, mientras Boeing cayó 4,73%. El petróleo cerró cerca de la estabilidad. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Cúpula EUA-China anima Wall Street; Dow retoma 50 mil e S&P 500 bate recorde",
-        "excerpt": "Em 14 de maio, no horário local, Wall Street fechou em alta após a cúpula EUA-China reaquecer o apetite por tecnologia e levar o Dow acima de 50 mil.",
-        "body": "Em 14 de maio, no horário local, os principais índices da Bolsa de Nova York fecharam em alta, com a melhora do sentimento em relação às ações de tecnologia após a cúpula entre Estados Unidos e China. O Dow Jones Industrial Average avançou 370,26 pontos, ou 0,75%, para 50.063,46. O S&P 500 subiu 56,99 pontos, ou 0,77%, para 7.501,24, e o Nasdaq Composite ganhou 232,88 pontos, ou 0,88%, para 26.335,22. S&P 500 e Nasdaq renovaram recordes intradiários e de fechamento, enquanto o Dow recuperou a marca de 50 mil pontos. A reportagem afirmou que o sentimento dos investidores foi impulsionado depois que o presidente dos EUA, Donald Trump, e o presidente da China, Xi Jinping, reafirmaram em Pequim a disposição para cooperação econômica. A Nvidia subiu 4,36% com expectativas de vendas do chip H200 na China. A Cisco saltou 13,03% após resultados acima do esperado e plano de cortar 5% da força de trabalho, enquanto a Boeing caiu 4,73%. O petróleo fechou quase estável. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "US-China-Gipfel stützt Wall Street: Dow zurück über 50.000, S&P auf Rekord",
-        "excerpt": "Am 14. Mai Ortszeit schloss Wall Street fester, weil der US-China-Gipfel die Stimmung für Technologiewerte hob und der Dow über 50.000 stieg.",
-        "body": "Am 14. Mai Ortszeit schlossen die wichtigsten Indizes an der New Yorker Börse höher, nachdem der US-China-Gipfel die Stimmung für Technologiewerte verbessert hatte. Der Dow Jones Industrial Average stieg um 370,26 Punkte oder 0,75% auf 50.063,46. Der S&P 500 legte um 56,99 Punkte oder 0,77% auf 7.501,24 zu, während der Nasdaq Composite um 232,88 Punkte oder 0,88% auf 26.335,22 kletterte. S&P 500 und Nasdaq markierten sowohl im Tagesverlauf als auch zum Schluss neue Rekordstände, und der Dow eroberte die Marke von 50.000 zurück. Dem Bericht zufolge wurde die Anlegerstimmung gestützt, nachdem US-Präsident Donald Trump und Chinas Präsident Xi Jinping in Peking ihre Bereitschaft zur wirtschaftlichen Zusammenarbeit bekräftigt hatten. Nvidia stieg wegen Erwartungen an H200-Chipverkäufe in China um 4,36%. Cisco sprang nach besser als erwarteten Ergebnissen und einem Plan zum Abbau von 5% der Belegschaft um 13,03%, während Boeing 4,73% verlor. Öl schloss nahezu unverändert. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Sommet États-Unis-Chine: Wall Street monte, le Dow repasse 50.000, S&P au record",
-        "excerpt": "Le 14 mai, heure locale, Wall Street a fini en hausse après le sommet États-Unis-Chine, qui a ravivé l’appétit pour la tech et porté le Dow au-dessus de 50.000.",
-        "body": "Le 14 mai, heure locale, les principaux indices de la Bourse de New York ont clôturé en hausse, le sommet entre les États-Unis et la Chine ayant ravivé le sentiment envers les valeurs technologiques. Le Dow Jones Industrial Average a gagné 370,26 points, soit 0,75%, à 50.063,46. Le S&P 500 a progressé de 56,99 points, soit 0,77%, à 7.501,24, tandis que le Nasdaq Composite a avancé de 232,88 points, soit 0,88%, à 26.335,22. Le S&P 500 et le Nasdaq ont de nouveau inscrit des records en séance et en clôture, et le Dow a retrouvé le seuil des 50.000 points. L’article indique que le moral des investisseurs a été soutenu après que le président américain Donald Trump et le président chinois Xi Jinping ont réaffirmé à Pékin leur volonté de coopération économique. Nvidia a gagné 4,36% grâce aux attentes de ventes de puces H200 en Chine. Cisco a bondi de 13,03% après des résultats supérieurs aux attentes et l’annonce d’un plan de réduction de 5% des effectifs, tandis que Boeing a reculé de 4,73%. Le pétrole a clôturé proche de l’équilibre. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "قمة أميركا والصين تدعم وول ستريت: داو فوق 50 ألفا وS&P 500 عند قمة",
-        "excerpt": "في 14 مايو بالتوقيت المحلي، أغلقت وول ستريت مرتفعة بعدما أنعشت قمة أميركا والصين شهية أسهم التكنولوجيا وأعادت داو فوق 50 ألف نقطة.",
-        "body": "في 14 مايو بالتوقيت المحلي، أغلقت المؤشرات الرئيسية في بورصة نيويورك على ارتفاع بعدما حسنت القمة بين الولايات المتحدة والصين معنويات الاستثمار في أسهم التكنولوجيا. صعد مؤشر داو جونز الصناعي 370.26 نقطة، أو 0.75%، إلى 50063.46 نقطة. وارتفع S&P 500 بمقدار 56.99 نقطة، أو 0.77%، إلى 7501.24، بينما زاد ناسداك المركب 232.88 نقطة، أو 0.88%، إلى 26335.22. وجدد S&P 500 وناسداك قمما قياسية خلال الجلسة وعند الإغلاق، فيما استعاد داو مستوى 50 ألف نقطة. وذكرت المقالة أن المعنويات تلقت دعما بعدما أكد الرئيس الأميركي دونالد ترامب والرئيس الصيني شي جين بينغ في بكين رغبتهما في التعاون الاقتصادي. وارتفع سهم إنفيديا 4.36% بفعل توقعات بيع رقائق H200 في الصين. وقفز سهم سيسكو 13.03% بعد نتائج فاقت التوقعات وخطة لخفض 5% من العمالة، بينما هبط سهم بوينغ 4.73%. وأغلق النفط قرب مستوى الاستقرار. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "अमेरिका-चीन शिखर वार्ता से वॉल स्ट्रीट तेज, डाउ 50,000 के ऊपर लौटा",
-        "excerpt": "स्थानीय समय 14 मई को अमेरिका-चीन शिखर वार्ता से टेक शेयरों में धारणा सुधरी और वॉल स्ट्रीट के तीनों प्रमुख सूचकांक बढ़त के साथ बंद हुए।",
-        "body": "स्थानीय समय 14 मई को न्यूयॉर्क स्टॉक एक्सचेंज में प्रमुख सूचकांक बढ़त के साथ बंद हुए, क्योंकि अमेरिका और चीन की शिखर वार्ता के बाद टेक शेयरों को लेकर निवेश धारणा सुधरी। डाउ जोन्स इंडस्ट्रियल एवरेज 370.26 अंक, यानी 0.75%, बढ़कर 50,063.46 पर बंद हुआ। S&P 500 सूचकांक 56.99 अंक, यानी 0.77%, चढ़कर 7,501.24 पर पहुंचा, जबकि नैस्डैक कंपोजिट 232.88 अंक, यानी 0.88%, बढ़कर 26,335.22 पर बंद हुआ। S&P 500 और नैस्डैक ने इंट्राडे और क्लोजिंग आधार पर फिर रिकॉर्ड ऊंचाई बनाई, जबकि डाउ ने 50,000 का स्तर वापस हासिल किया। लेख के अनुसार, अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीनी राष्ट्रपति शी जिनपिंग ने बीजिंग में आर्थिक सहयोग की इच्छा दोहराई, जिससे निवेशक भावना को बल मिला। चीन में H200 चिप बिक्री की उम्मीद से एनवीडिया 4.36% चढ़ा। अनुमान से बेहतर नतीजों और 5% कर्मचारियों की कटौती की योजना से सिस्को 13.03% उछला, जबकि बोइंग 4.73% गिरा। कच्चा तेल लगभग स्थिर बंद हुआ। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "KTT AS-China Angkat Wall Street, Dow Kembali 50.000 dan S&P Cetak Rekor",
-        "excerpt": "Pada 14 Mei waktu setempat, Wall Street menguat setelah KTT AS-China memulihkan sentimen saham teknologi dan membawa Dow kembali di atas 50.000.",
-        "body": "Pada 14 Mei waktu setempat, indeks utama di Bursa Efek New York ditutup menguat setelah KTT Amerika Serikat dan China memulihkan sentimen investasi pada saham teknologi. Dow Jones Industrial Average naik 370,26 poin, atau 0,75%, ke 50.063,46. S&P 500 bertambah 56,99 poin, atau 0,77%, ke 7.501,24, sedangkan Nasdaq Composite menguat 232,88 poin, atau 0,88%, ke 26.335,22. S&P 500 dan Nasdaq kembali mencetak rekor tertinggi intraday dan penutupan, sementara Dow memulihkan level 50.000. Artikel tersebut menyebut sentimen investor terangkat setelah Presiden AS Donald Trump dan Presiden China Xi Jinping menegaskan kembali komitmen kerja sama ekonomi di Beijing. Nvidia naik 4,36% karena ekspektasi penjualan chip H200 di China. Cisco melonjak 13,03% setelah hasil kinerja melampaui perkiraan dan pengumuman rencana pemangkasan 5% tenaga kerja, sedangkan Boeing turun 4,73%. Harga minyak ditutup hampir datar. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "25e5be707ea1",
-    "slug": "대주전자재료-삼성전기-mlcc-호황-낙수효과목표가-키움-301857",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T23:58:30.036Z",
-    "updatedAt": "2026-05-14T23:58:30.036Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051578586",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051578586",
-    "titleFingerprint": "6b7280546af8bbf05169ba0cec736ce3d899d2a3",
-    "dedupKeys": [
-      "25e5be707ea1e5ad6d0fc9f4d3585ed7ed83afba",
-      "6b7280546af8bbf05169ba0cec736ce3d899d2a3",
-      "78bda7f902e7a2ab90e8643a7f10a9cf7acd133f"
-    ],
-    "imageUrl": "/images/articles/25e5be707ea1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "대주전자재료 목표가 상향, 삼성전기 MLCC 호황 낙수효과 주목",
-        "excerpt": "키움증권은 대주전자재료가 삼성전기 MLCC 업황 호조의 낙수효과를 받을 수 있다고 보고 목표가를 상향했다는 분석을 제시했다.",
-        "body": "키움증권은 대주전자재료에 대해 삼성전기의 MLCC 호황에 따른 낙수효과가 기대된다며 목표가를 상향했다. 이번 분석은 삼성전기 MLCC 업황 개선이 관련 소재 기업인 대주전자재료의 투자 판단에 영향을 줄 수 있다는 점에 초점을 맞췄다. MLCC는 전자기기와 전장 부품 등에 쓰이는 핵심 수동부품으로, 주요 고객사의 업황 변화가 소재 공급망에도 연결될 수 있다. 키움증권은 이 같은 배경을 바탕으로 대주전자재료의 실적 전망과 주가 평가에 긍정적 요인을 반영한 것으로 풀이된다. 다만 원문에 구체적인 목표가 수준이나 실적 수치는 제시되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Daejoo Electronic Materials Target Raised on Samsung Electro-Mechanics MLCC Boom",
-        "excerpt": "Kiwoom Securities said Daejoo Electronic Materials could benefit from Samsung Electro-Mechanics’ strong MLCC cycle and raised its target price.",
-        "body": "Kiwoom Securities raised its target price for Daejoo Electronic Materials, citing expected spillover benefits from the boom in Samsung Electro-Mechanics’ MLCC business. The analysis focused on how improving MLCC conditions at Samsung Electro-Mechanics could affect investment views on Daejoo Electronic Materials, a related materials supplier. MLCCs are key passive components used in electronic devices and automotive electronics, and changes in a major customer’s business cycle can extend to the materials supply chain. Against this backdrop, Kiwoom appears to have reflected positive factors in its earnings outlook and valuation assessment for Daejoo Electronic Materials. The original report did not provide a specific target price level or earnings figures. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "大州電子材料の目標株価引き上げ、サムスン電機MLCC好況に注目",
-        "excerpt": "キウム証券は、大州電子材料がサムスン電機のMLCC市況好調による波及効果を受ける可能性があるとして目標株価を引き上げた。",
-        "body": "キウム証券は、大州電子材料について、サムスン電機のMLCC好況に伴う波及効果が期待されるとして目標株価を引き上げた。今回の分析は、サムスン電機のMLCC市況改善が関連素材企業である大州電子材料への投資判断に影響し得る点に焦点を当てた。MLCCは電子機器や車載部品などに使われる主要な受動部品であり、主要顧客の業況変化は素材サプライチェーンにもつながり得る。こうした背景を踏まえ、キウム証券は大州電子材料の業績見通しと株価評価に前向きな要因を反映したとみられる。ただし、原文では具体的な目標株価水準や業績数値は示されていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Daejoo电子材料目标价上调，三星电机MLCC景气外溢受关注",
-        "excerpt": "Kiwoom证券认为，Daejoo电子材料有望受益于三星电机MLCC业务景气带来的外溢效应，并上调其目标价。",
-        "body": "Kiwoom证券上调了Daejoo电子材料的目标价，理由是三星电机MLCC业务景气有望带来外溢效应。此次分析聚焦于三星电机MLCC行业状况改善，可能影响市场对相关材料企业Daejoo电子材料的投资判断。MLCC是用于电子设备和汽车电子部件等领域的核心被动元件，主要客户的景气变化可能传导至材料供应链。在这一背景下，Kiwoom证券似乎将积极因素反映到Daejoo电子材料的业绩展望和股价评价中。不过，原文未提供具体目标价水平或业绩数据。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Daejoo Electronic Materials sube objetivo por auge MLCC de Samsung Electro-Mechanics",
-        "excerpt": "Kiwoom Securities elevó el precio objetivo de Daejoo Electronic Materials al prever beneficios indirectos del auge de MLCC en Samsung Electro-Mechanics.",
-        "body": "Kiwoom Securities elevó el precio objetivo de Daejoo Electronic Materials, al señalar que podría beneficiarse indirectamente del auge del negocio de MLCC de Samsung Electro-Mechanics. El análisis se centró en cómo la mejora del ciclo de MLCC en Samsung Electro-Mechanics puede influir en la visión de inversión sobre Daejoo Electronic Materials, una empresa vinculada a materiales. Los MLCC son componentes pasivos clave usados en dispositivos electrónicos y piezas para automoción, por lo que los cambios en el negocio de un cliente importante pueden trasladarse a la cadena de suministro de materiales. Con este contexto, Kiwoom parece haber incorporado factores positivos a su perspectiva de beneficios y valoración bursátil. El texto original no incluyó un precio objetivo concreto ni cifras de resultados. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Daejoo Electronic Materials tem alvo elevado com boom de MLCC da Samsung Electro-Mechanics",
-        "excerpt": "A Kiwoom Securities elevou o preço-alvo da Daejoo Electronic Materials ao prever benefícios indiretos do forte ciclo de MLCC da Samsung Electro-Mechanics.",
-        "body": "A Kiwoom Securities elevou o preço-alvo da Daejoo Electronic Materials, citando a expectativa de benefícios indiretos do boom no negócio de MLCC da Samsung Electro-Mechanics. A análise destacou como a melhora do mercado de MLCC na Samsung Electro-Mechanics pode influenciar a avaliação de investimento da Daejoo Electronic Materials, uma fornecedora relacionada de materiais. MLCCs são componentes passivos essenciais usados em eletrônicos e peças automotivas, e mudanças no ciclo de negócios de um grande cliente podem chegar à cadeia de suprimento de materiais. Nesse contexto, a Kiwoom parece ter refletido fatores positivos na perspectiva de resultados e na avaliação das ações da Daejoo Electronic Materials. O texto original não apresentou preço-alvo específico nem números de desempenho. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Daejoo Electronic Materials: Kursziel steigt wegen Samsung-MLCC-Boom",
-        "excerpt": "Kiwoom Securities erhöhte das Kursziel für Daejoo Electronic Materials, da das Unternehmen vom starken MLCC-Geschäft von Samsung Electro-Mechanics profitieren könnte.",
-        "body": "Kiwoom Securities hat das Kursziel für Daejoo Electronic Materials angehoben und verweist auf erwartete positive Spillover-Effekte aus dem MLCC-Boom von Samsung Electro-Mechanics. Die Analyse konzentriert sich darauf, wie die Verbesserung der MLCC-Branche bei Samsung Electro-Mechanics die Anlageeinschätzung für Daejoo Electronic Materials als verbundenes Materialunternehmen beeinflussen kann. MLCCs sind zentrale passive Bauelemente, die in elektronischen Geräten und Fahrzeugkomponenten eingesetzt werden; Veränderungen im Geschäft eines wichtigen Kunden können sich daher auch auf die Materiallieferkette auswirken. Vor diesem Hintergrund dürfte Kiwoom positive Faktoren in den Ergebnisausblick und die Aktienbewertung von Daejoo Electronic Materials einbezogen haben. Konkrete Kurszielniveaus oder Ergebniszahlen wurden im Originaltext nicht genannt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Daejoo Electronic Materials relevé grâce au boom MLCC de Samsung Electro-Mechanics",
-        "excerpt": "Kiwoom Securities a relevé son objectif sur Daejoo Electronic Materials, anticipant des retombées positives du dynamisme des MLCC chez Samsung Electro-Mechanics.",
-        "body": "Kiwoom Securities a relevé son objectif de cours sur Daejoo Electronic Materials, en évoquant des retombées attendues du boom de l’activité MLCC de Samsung Electro-Mechanics. L’analyse met l’accent sur le fait que l’amélioration du marché des MLCC chez Samsung Electro-Mechanics peut influencer l’opinion d’investissement sur Daejoo Electronic Materials, entreprise liée aux matériaux. Les MLCC sont des composants passifs essentiels utilisés dans les appareils électroniques et les pièces automobiles, et l’évolution de l’activité d’un grand client peut se transmettre à la chaîne d’approvisionnement des matériaux. Dans ce contexte, Kiwoom semble avoir intégré des facteurs positifs dans ses perspectives de résultats et son évaluation boursière. Le texte original ne fournit pas de niveau précis d’objectif de cours ni de chiffres de résultats. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "رفع السعر المستهدف لـ Daejoo Electronic Materials بدعم طفرة MLCC لدى سامسونغ",
-        "excerpt": "رفعت Kiwoom Securities السعر المستهدف لسهم Daejoo Electronic Materials، متوقعة استفادته من قوة أعمال MLCC لدى Samsung Electro-Mechanics.",
-        "body": "رفعت Kiwoom Securities السعر المستهدف لسهم Daejoo Electronic Materials، مشيرة إلى توقعات بتحقيق فوائد غير مباشرة من ازدهار أعمال MLCC لدى Samsung Electro-Mechanics. وركز التحليل على أن تحسن أوضاع سوق MLCC في Samsung Electro-Mechanics قد يؤثر في تقييم الاستثمار في Daejoo Electronic Materials، وهي شركة مرتبطة بمواد هذا القطاع. وتعد MLCC مكونات سلبية رئيسية تستخدم في الأجهزة الإلكترونية وقطع السيارات، ويمكن لتغيرات نشاط عميل رئيسي أن تنتقل إلى سلسلة توريد المواد. وبناء على هذه الخلفية، يبدو أن Kiwoom عكست عوامل إيجابية في توقعات الأرباح وتقييم السهم للشركة. ولم يذكر النص الأصلي مستوى محددا للسعر المستهدف أو أرقاما للأداء. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Samsung Electro-Mechanics MLCC तेजी से Daejoo Electronic Materials लक्ष्य मूल्य बढ़ा",
-        "excerpt": "Kiwoom Securities ने कहा कि Daejoo Electronic Materials को Samsung Electro-Mechanics के मजबूत MLCC कारोबार से लाभ मिल सकता है और लक्ष्य मूल्य बढ़ाया।",
-        "body": "Kiwoom Securities ने Daejoo Electronic Materials के लिए लक्ष्य मूल्य बढ़ाया है, क्योंकि Samsung Electro-Mechanics के MLCC कारोबार में तेजी से परोक्ष लाभ मिलने की उम्मीद है। यह विश्लेषण इस बात पर केंद्रित है कि Samsung Electro-Mechanics में MLCC बाजार की स्थिति सुधरने से संबंधित सामग्री कंपनी Daejoo Electronic Materials पर निवेश दृष्टिकोण प्रभावित हो सकता है। MLCC इलेक्ट्रॉनिक उपकरणों और ऑटोमोटिव पुर्जों में इस्तेमाल होने वाले प्रमुख निष्क्रिय घटक हैं, इसलिए बड़े ग्राहक के कारोबार में बदलाव सामग्री आपूर्ति श्रृंखला तक पहुंच सकता है। इसी पृष्ठभूमि में Kiwoom ने Daejoo Electronic Materials की आय संभावना और शेयर मूल्यांकन में सकारात्मक कारकों को शामिल किया प्रतीत होता है। मूल पाठ में लक्ष्य मूल्य का विशिष्ट स्तर या प्रदर्शन आंकड़े नहीं दिए गए। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Target Daejoo Electronic Materials Naik Berkat Boom MLCC Samsung Electro-Mechanics",
-        "excerpt": "Kiwoom Securities menaikkan target harga Daejoo Electronic Materials karena menilai perusahaan dapat menerima efek limpahan dari kuatnya bisnis MLCC Samsung Electro-Mechanics.",
-        "body": "Kiwoom Securities menaikkan target harga Daejoo Electronic Materials, dengan alasan adanya harapan efek limpahan dari boom bisnis MLCC Samsung Electro-Mechanics. Analisis ini menyoroti bagaimana membaiknya kondisi MLCC di Samsung Electro-Mechanics dapat memengaruhi pandangan investasi terhadap Daejoo Electronic Materials, perusahaan terkait bahan. MLCC adalah komponen pasif utama yang digunakan pada perangkat elektronik dan komponen otomotif, sehingga perubahan bisnis pelanggan besar dapat tersambung ke rantai pasok bahan. Dengan latar belakang tersebut, Kiwoom tampaknya memasukkan faktor positif ke dalam prospek kinerja dan penilaian saham Daejoo Electronic Materials. Teks asli tidak menyebutkan tingkat target harga tertentu atau angka kinerja. Sumber: hankyung.com"
       }
     }
   }
