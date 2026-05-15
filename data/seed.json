@@ -1,5 +1,230 @@
 [
   {
+    "id": "d3355a89bb92",
+    "slug": "삼전닉스-수익률-어떡하지-1-초고수의-선택은-이랬다-678042",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T00:56:33.073Z",
+    "updatedAt": "2026-05-15T00:56:33.073Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605158067i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605158067i",
+    "titleFingerprint": "330710753d4ed984410505ac5d4f8190588430cc",
+    "dedupKeys": [
+      "d3355a89bb92ef04e2d6c6d554fb9a6e393159af",
+      "330710753d4ed984410505ac5d4f8190588430cc",
+      "ad46f92e082418d6f00958d6ad9542f69d527d37"
+    ],
+    "imageUrl": "/images/articles/d3355a89bb92.jpg",
+    "i18n": {
+      "ko": {
+        "title": "수익률 상위 1% 초고수, 삼성전자·SK하이닉스 팔고 LS·삼성증권 담았다",
+        "excerpt": "키움증권 집계에 따르면 2026년 5월 4일 투자 수익률 상위 1% 계좌는 삼성전자와 SK하이닉스를 순매도하고 LS·삼성증권 등 급등주를 순매수했다.",
+        "body": "2026년 5월 6일 한국경제 보도에 따르면 키움증권이 5월 4일 거래를 집계한 결과, 투자 수익률 상위 1% ‘초고수’ 계좌는 삼성전자와 SK하이닉스, TIGER반도체TOP10 등을 가장 많이 순매도했다. 집계 대상은 투자원금 1000만원 초과 계좌 중 전월 기준 수익률 상위 1% 계좌다. 반면 순매수 상위에는 LS, 한미반도체, 삼성증권 등이 올랐다. 당일 LS는 15.06%, 삼성증권은 29.23%, 한국항공우주는 12.88% 상승했다. KODEX 200과 KODEX 레버리지 ETF도 순매도 목록에 포함돼, 기사에서는 지수 추가 상승보다 종목별 차별화 국면을 염두에 둔 매매로 해석했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Top 1% Return Investors Sold Samsung Electronics and SK Hynix, Bought LS and Samsung Securities",
+        "excerpt": "According to Kiwoom Securities data reported on May 6, 2026, top 1% return accounts net sold Samsung Electronics and SK Hynix on May 4 while buying LS and Samsung Securities.",
+        "body": "According to a May 6, 2026 report by Korea Economic Daily, Kiwoom Securities found that on May 4, accounts in the top 1% by investment return most heavily net sold Samsung Electronics, SK Hynix and TIGER Semiconductor TOP10. The sample covered accounts with more than 10 million won in principal and returns in the top 1% as of the previous month. Net buying was led by LS, Hanmi Semiconductor and Samsung Securities. On the same trading day, LS rose 15.06%, Samsung Securities jumped 29.23%, and Korea Aerospace Industries gained 12.88%. KODEX 200 and KODEX Leverage ETFs also appeared on the net selling list, which the article interpreted as trading that focused more on stock-specific divergence than further index gains. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "収益率上位1％の投資家、サムスン電子・SKハイニックスを売りLSなど買い",
+        "excerpt": "韓国経済新聞が2026年5月6日に報じたキウム証券集計では、5月4日に収益率上位1％口座が半導体大型株を売り、LSやサムスン証券を買った。",
+        "body": "韓国経済新聞の2026年5月6日報道によると、キウム証券が5月4日の取引を集計した結果、投資収益率上位1％の「超高手」口座は、サムスン電子、SKハイニックス、TIGER半導体TOP10などを最も多く純売却した。対象は投資元本が1000万ウォンを超え、前月基準で収益率上位1％に入った口座だ。一方、純買い上位にはLS、ハンミ半導体、サムスン証券などが入った。同日、LSは15.06％、サムスン証券は29.23％、韓国航空宇宙は12.88％上昇した。KODEX 200とKODEXレバレッジETFも純売却リストに入り、記事は指数の追加上昇より銘柄別の差別化局面を意識した売買と解釈した。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "收益率前1%高手卖出三星电子、SK海力士，转买LS和三星证券",
+        "excerpt": "据韩国经济新闻2026年5月6日报道，Kiwoom证券统计显示，5月4日收益率前1%账户净卖出三星电子和SK海力士，净买入LS、三星证券等。",
+        "body": "韩国经济新闻2026年5月6日报道称，Kiwoom证券对5月4日交易进行统计后发现，投资收益率前1%的“高手”账户净卖出最多的是三星电子、SK海力士和TIGER半导体TOP10等。统计对象为投资本金超过1000万韩元、按上月收益率进入前1%的账户。相反，净买入排名靠前的包括LS、韩美半导体和三星证券等。当天LS上涨15.06%，三星证券大涨29.23%，韩国航空宇宙上涨12.88%。KODEX 200和KODEX杠杆ETF也出现在净卖出名单中，报道称这可解读为投资者更关注个股分化，而非指数继续上涨。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Inversores del 1% superior vendieron Samsung Electronics y SK Hynix y compraron LS",
+        "excerpt": "Según datos de Kiwoom Securities citados el 6 de mayo de 2026, las cuentas con mejor 1% de rentabilidad vendieron Samsung Electronics y SK Hynix y compraron LS y Samsung Securities.",
+        "body": "Según informó Korea Economic Daily el 6 de mayo de 2026, Kiwoom Securities recopiló las operaciones del 4 de mayo y halló que las cuentas del 1% superior por rentabilidad vendieron principalmente Samsung Electronics, SK Hynix y TIGER Semiconductor TOP10. La muestra incluyó cuentas con más de 10 millones de wones de capital y rentabilidad en el 1% superior del mes previo. En compras netas destacaron LS, Hanmi Semiconductor y Samsung Securities. Ese día, LS subió 15,06%, Samsung Securities avanzó 29,23% y Korea Aerospace Industries ganó 12,88%. KODEX 200 y KODEX Leverage ETF también aparecieron entre las ventas netas, lo que el artículo interpretó como una apuesta por la diferenciación por acciones más que por nuevas alzas del índice. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Top 1% em retorno vendeu Samsung Electronics e SK Hynix e comprou LS e Samsung Securities",
+        "excerpt": "Segundo dados da Kiwoom Securities citados em 6 de maio de 2026, contas no top 1% de retorno venderam Samsung Electronics e SK Hynix e compraram LS e Samsung Securities.",
+        "body": "De acordo com reportagem do Korea Economic Daily de 6 de maio de 2026, a Kiwoom Securities apurou que, nas negociações de 4 de maio, contas no top 1% de retorno de investimento venderam principalmente Samsung Electronics, SK Hynix e TIGER Semiconductor TOP10. O levantamento considerou contas com principal acima de 10 milhões de won e retorno entre o 1% superior no mês anterior. Nas compras líquidas, apareceram LS, Hanmi Semiconductor e Samsung Securities. No mesmo dia, LS subiu 15,06%, Samsung Securities avançou 29,23% e Korea Aerospace Industries ganhou 12,88%. KODEX 200 e KODEX Leverage ETF também entraram na lista de vendas, algo interpretado pelo artigo como foco em diferenciação por ação, não em alta adicional do índice. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Top-1-Prozent-Anleger verkauften Samsung Electronics und SK Hynix, kauften LS und Samsung Securities",
+        "excerpt": "Laut Kiwoom-Securities-Daten, die am 6. Mai 2026 gemeldet wurden, verkauften Konten mit Top-1-Prozent-Renditen am 4. Mai Samsung Electronics und SK Hynix und kauften LS sowie Samsung Securities.",
+        "body": "Nach einem Bericht der Korea Economic Daily vom 6. Mai 2026 wertete Kiwoom Securities die Geschäfte vom 4. Mai aus. Konten im obersten 1 Prozent nach Anlagerendite verkauften netto vor allem Samsung Electronics, SK Hynix und TIGER Semiconductor TOP10. Erfasst wurden Konten mit mehr als 10 Millionen Won Anlagekapital, die im Vormonat zu den besten 1 Prozent gehörten. Auf der Nettokaufliste standen LS, Hanmi Semiconductor und Samsung Securities weit oben. Am selben Handelstag stieg LS um 15,06 Prozent, Samsung Securities um 29,23 Prozent und Korea Aerospace Industries um 12,88 Prozent. Auch KODEX 200 und KODEX Leverage ETF wurden netto verkauft; der Artikel deutete dies als Fokus auf Einzeltitel statt auf weitere Indexgewinne. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les investisseurs du top 1 % ont vendu Samsung Electronics et SK Hynix pour acheter LS",
+        "excerpt": "Selon des données de Kiwoom Securities rapportées le 6 mai 2026, les comptes au top 1 % de rendement ont vendu Samsung Electronics et SK Hynix le 4 mai et acheté LS et Samsung Securities.",
+        "body": "Selon Korea Economic Daily le 6 mai 2026, Kiwoom Securities a compilé les transactions du 4 mai et constaté que les comptes classés dans le top 1 % des rendements ont surtout vendu Samsung Electronics, SK Hynix et TIGER Semiconductor TOP10. L’échantillon couvre les comptes de plus de 10 millions de wons de principal figurant dans le top 1 % le mois précédent. Les achats nets ont porté sur LS, Hanmi Semiconductor et Samsung Securities. Le même jour, LS a gagné 15,06 %, Samsung Securities 29,23 % et Korea Aerospace Industries 12,88 %. Les ETF KODEX 200 et KODEX Leverage figuraient aussi parmi les ventes nettes, ce que l’article interprète comme une stratégie axée sur la différenciation des valeurs plutôt que sur une nouvelle hausse de l’indice. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "أعلى 1% من المستثمرين باعوا سامسونغ إلكترونيكس وSK هاينكس واشتروا LS",
+        "excerpt": "وفق بيانات كيووم سيكيوريتيز المنشورة في 6 مايو 2026، باعت حسابات أعلى 1% من حيث العائد أسهم سامسونغ إلكترونيكس وSK هاينكس في 4 مايو واشترت LS وسامسونغ سيكيوريتيز.",
+        "body": "بحسب تقرير Korea Economic Daily في 6 مايو 2026، أظهرت إحصاءات كيووم سيكيوريتيز لتداولات 4 مايو أن حسابات أعلى 1% من حيث عائد الاستثمار كانت الأكثر بيعا صافيا لأسهم سامسونغ إلكترونيكس وSK هاينكس وTIGER Semiconductor TOP10. وشمل الرصد حسابات يتجاوز أصلها المستثمر 10 ملايين وون وكانت ضمن أعلى 1% في العائد خلال الشهر السابق. في المقابل، تصدرت LS وهانمي سيميكونداكتور وسامسونغ سيكيوريتيز قائمة الشراء الصافي. في ذلك اليوم ارتفع سهم LS بنسبة 15.06%، وسامسونغ سيكيوريتيز 29.23%، وكوريا إيروسبيس إندستريز 12.88%. كما ظهرت صناديق KODEX 200 وKODEX Leverage ETF في قائمة البيع، وفسر التقرير ذلك بالتركيز على تمايز الأسهم لا على مزيد من صعود المؤشر. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "शीर्ष 1% रिटर्न निवेशकों ने Samsung Electronics और SK Hynix बेचे, LS खरीदा",
+        "excerpt": "6 मई 2026 की रिपोर्ट में Kiwoom Securities के आंकड़ों के अनुसार, 4 मई को शीर्ष 1% रिटर्न खातों ने Samsung Electronics और SK Hynix बेचे और LS व Samsung Securities खरीदे।",
+        "body": "Korea Economic Daily की 6 मई 2026 की रिपोर्ट के अनुसार, Kiwoom Securities ने 4 मई के कारोबार का विश्लेषण किया और पाया कि निवेश रिटर्न में शीर्ष 1% खातों ने सबसे अधिक नेट बिक्री Samsung Electronics, SK Hynix और TIGER Semiconductor TOP10 में की। इसमें वे खाते शामिल थे जिनका निवेश मूलधन 1 करोड़ वॉन से अधिक था और जो पिछले महीने रिटर्न के आधार पर शीर्ष 1% में थे। दूसरी ओर, नेट खरीद में LS, Hanmi Semiconductor और Samsung Securities ऊपर रहे। उसी दिन LS 15.06%, Samsung Securities 29.23% और Korea Aerospace Industries 12.88% चढ़े। KODEX 200 और KODEX Leverage ETF भी नेट बिक्री सूची में रहे, जिसे रिपोर्ट ने सूचकांक की और तेजी के बजाय शेयर-विशेष विभेदन पर केंद्रित रणनीति के रूप में समझा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Investor Top 1% Jual Samsung Electronics dan SK Hynix, Beli LS serta Samsung Securities",
+        "excerpt": "Menurut data Kiwoom Securities yang dilaporkan pada 6 Mei 2026, akun imbal hasil top 1% pada 4 Mei menjual Samsung Electronics dan SK Hynix, lalu membeli LS dan Samsung Securities.",
+        "body": "Menurut laporan Korea Economic Daily pada 6 Mei 2026, Kiwoom Securities menghimpun transaksi 4 Mei dan menemukan bahwa akun investasi dengan imbal hasil top 1% paling banyak melakukan jual bersih pada Samsung Electronics, SK Hynix, dan TIGER Semiconductor TOP10. Sampel mencakup akun dengan modal investasi lebih dari 10 juta won dan masuk top 1% berdasarkan imbal hasil bulan sebelumnya. Sementara itu, beli bersih teratas mencakup LS, Hanmi Semiconductor, dan Samsung Securities. Pada hari yang sama, LS naik 15,06%, Samsung Securities melonjak 29,23%, dan Korea Aerospace Industries menguat 12,88%. KODEX 200 dan KODEX Leverage ETF juga masuk daftar jual bersih, yang dalam artikel diartikan sebagai fokus pada diferensiasi saham individual, bukan kenaikan indeks lanjutan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "606487f5754f",
+    "slug": "디지털시스템-복구-실효성-제고한국중부발전-광역지자체와-재난대응-안전한국훈련-실시-569000",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T00:55:17.176Z",
+    "updatedAt": "2026-05-15T00:55:17.176Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12048763",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12048763",
+    "titleFingerprint": "9e1f496b120a98f17ed8bdb5d2e4e0b492e52f09",
+    "dedupKeys": [
+      "606487f5754fafda85c1b72ce5fe77f11b1ee01d",
+      "9e1f496b120a98f17ed8bdb5d2e4e0b492e52f09",
+      "37c69f0b04ef80da5e104bfdf3634edee90131d0"
+    ],
+    "imageUrl": "/images/articles/606487f5754f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국중부발전 재난대응 안전한국훈련, 디지털시스템 복구 역량 점검",
+        "excerpt": "한국중부발전은 지난 14일 인천발전본부에서 광역지자체와 민·관·공 23개 기관 400여 명이 참여한 재난대응 안전한국훈련을 실시했다.",
+        "body": "한국중부발전은 지난 14일 인천발전본부에서 광역지자체와 함께 ‘재난대응 안전한국훈련’을 실시했다. 이번 훈련은 디지털시스템 복구 실효성을 높이고 지역사회와 복합 재난대응 역량을 강화하기 위해 마련됐다. 민·관·공 23개 기관에서 400여 명이 참여해 재난 상황 대응 체계를 점검했다. 훈련은 발전시설과 지역사회가 연계된 대응 능력을 확인하는 데 초점이 맞춰졌다. 한국중부발전은 관계 기관 협력을 통해 재난 대응 안전성을 높이는 계기로 삼았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea Midland Power Tests Digital Recovery in Safe Korea Disaster Drill",
+        "excerpt": "Korea Midland Power held a Safe Korea disaster response drill on May 14 at its Incheon Power Headquarters with a metropolitan local government and about 400 participants from 23 agencies.",
+        "body": "Korea Midland Power held a ‘Safe Korea Disaster Response Drill’ on May 14 at its Incheon Power Headquarters together with a metropolitan local government. The exercise was designed to improve the effectiveness of digital system recovery and strengthen the community’s ability to respond to complex disasters. About 400 people from 23 public, private and government-related institutions took part and reviewed the disaster response system. The drill focused on confirming coordinated response capabilities linked to power generation facilities and the local community. Korea Midland Power used the exercise as an opportunity to enhance disaster response safety through cooperation with related agencies. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国中部発電、安全韓国訓練でデジタルシステム復旧力を点検",
+        "excerpt": "韓国中部発電は14日、仁川発電本部で広域自治体とともに、民・官・公23機関約400人が参加する災害対応安全韓国訓練を実施した。",
+        "body": "韓国中部発電は14日、仁川発電本部で広域自治体とともに「災害対応安全韓国訓練」を実施した。今回の訓練は、デジタルシステム復旧の実効性を高め、地域社会と複合災害への対応能力を強化するために行われた。民間、行政、公共の23機関から約400人が参加し、災害状況への対応体制を点検した。訓練は発電施設と地域社会が連携する対応能力を確認することに重点を置いた。韓国中部発電は関係機関との協力を通じ、災害対応の安全性を高める機会とした。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国中部发电开展安全韩国演练，检查数字系统恢复能力",
+        "excerpt": "韩国中部发电14日在仁川发电本部与广域地方政府共同举行灾难应对安全韩国演练，23个民官公机构约400人参加。",
+        "body": "韩国中部发电14日在仁川发电本部与广域地方政府共同举行“灾难应对安全韩国演练”。此次演练旨在提高数字系统恢复的实效性，并加强地区社会应对复合型灾难的能力。来自民间、政府和公共领域的23个机构约400人参加，检查了灾难情况下的应对体系。演练重点在于确认发电设施与地区社会联动的应对能力。韩国中部发电表示，此次训练成为通过相关机构合作提升灾难应对安全性的契机。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Korea Midland Power prueba recuperación digital en simulacro Safe Korea",
+        "excerpt": "Korea Midland Power realizó el 14 de mayo en su sede de generación de Incheon un simulacro Safe Korea con un gobierno regional y unos 400 participantes de 23 entidades.",
+        "body": "Korea Midland Power realizó el 14 de mayo en su sede de generación de Incheon un ‘simulacro de respuesta ante desastres Safe Korea’ junto con un gobierno metropolitano. El ejercicio buscó elevar la eficacia de la recuperación de sistemas digitales y reforzar la capacidad de la comunidad local para responder a desastres complejos. Unas 400 personas de 23 entidades privadas, gubernamentales y públicas participaron y revisaron el sistema de respuesta ante emergencias. La práctica se centró en comprobar la capacidad coordinada entre las instalaciones de generación eléctrica y la comunidad local. La empresa utilizó el ejercicio para mejorar la seguridad en la respuesta ante desastres mediante la cooperación institucional. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Korea Midland Power testa recuperação digital em treino Safe Korea",
+        "excerpt": "A Korea Midland Power realizou em 14 de maio, na sede de geração de Incheon, um treino Safe Korea com governo regional e cerca de 400 participantes de 23 instituições.",
+        "body": "A Korea Midland Power realizou em 14 de maio, na sede de geração de Incheon, um ‘treino de resposta a desastres Safe Korea’ em conjunto com um governo metropolitano. A atividade foi preparada para aumentar a efetividade da recuperação de sistemas digitais e fortalecer a capacidade da comunidade local de responder a desastres complexos. Cerca de 400 pessoas de 23 instituições privadas, governamentais e públicas participaram e verificaram o sistema de resposta a emergências. O exercício concentrou-se em confirmar a capacidade de resposta coordenada entre instalações de geração de energia e a comunidade regional. A empresa usou o treino como oportunidade para elevar a segurança da resposta a desastres por meio da cooperação entre órgãos relacionados. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Korea Midland Power prüft digitale Wiederherstellung bei Safe-Korea-Übung",
+        "excerpt": "Korea Midland Power führte am 14. Mai am Kraftwerksstandort Incheon mit einer Metropolbehörde eine Safe-Korea-Katastrophenübung mit rund 400 Personen aus 23 Einrichtungen durch.",
+        "body": "Korea Midland Power führte am 14. Mai am Kraftwerksstandort Incheon gemeinsam mit einer Metropolbehörde eine ‘Safe Korea’-Übung zur Katastrophenreaktion durch. Ziel war es, die Wirksamkeit der Wiederherstellung digitaler Systeme zu erhöhen und die Fähigkeit der lokalen Gemeinschaft zur Reaktion auf komplexe Katastrophen zu stärken. Rund 400 Personen aus 23 privaten, staatlichen und öffentlichen Einrichtungen nahmen teil und überprüften das Reaktionssystem für Notlagen. Der Schwerpunkt lag darauf, die koordinierte Einsatzfähigkeit von Kraftwerksanlagen und regionaler Gemeinschaft zu bestätigen. Korea Midland Power nutzte die Übung, um die Sicherheit der Katastrophenreaktion durch Zusammenarbeit mit beteiligten Institutionen zu verbessern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Korea Midland Power teste la reprise numérique lors d’un exercice Safe Korea",
+        "excerpt": "Korea Midland Power a mené le 14 mai, à son siège de production d’Incheon, un exercice Safe Korea avec une collectivité métropolitaine et environ 400 participants de 23 organismes.",
+        "body": "Korea Midland Power a mené le 14 mai, à son siège de production d’Incheon, un ‘exercice Safe Korea de réponse aux catastrophes’ avec une collectivité métropolitaine. L’exercice visait à améliorer l’efficacité de la reprise des systèmes numériques et à renforcer la capacité de la communauté locale à répondre à des catastrophes complexes. Environ 400 personnes issues de 23 organismes privés, publics et gouvernementaux ont participé et vérifié le dispositif de réponse aux situations de crise. La séance a porté sur la capacité de coordination entre les installations de production électrique et la communauté régionale. Korea Midland Power a présenté cet exercice comme une occasion d’accroître la sécurité de la réponse aux catastrophes grâce à la coopération entre institutions concernées. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوريا ميدلاند باور تختبر تعافي الأنظمة الرقمية في تدريب سيف كوريا",
+        "excerpt": "أجرت كوريا ميدلاند باور في 14 مايو بمقر توليد إنشيون تدريب سيف كوريا للاستجابة للكوارث مع حكومة محلية كبرى وبمشاركة نحو 400 شخص من 23 جهة.",
+        "body": "أجرت كوريا ميدلاند باور في 14 مايو، في مقر توليد إنشيون، تدريب «سيف كوريا للاستجابة للكوارث» بالتعاون مع حكومة محلية على مستوى واسع. وهدف التدريب إلى رفع فعالية استعادة الأنظمة الرقمية وتعزيز قدرة المجتمع المحلي على التعامل مع الكوارث المركبة. شارك نحو 400 شخص من 23 مؤسسة من القطاع الخاص والجهات الحكومية والعامة، وجرى فحص منظومة الاستجابة في حالات الكوارث. وركز التدريب على التأكد من قدرة الاستجابة المنسقة بين مرافق توليد الطاقة والمجتمع المحلي. واعتبرت الشركة التدريب فرصة لتعزيز سلامة الاستجابة للكوارث عبر التعاون مع الجهات المعنية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया मिडलैंड पावर ने Safe Korea अभ्यास में डिजिटल रिकवरी क्षमता परखी",
+        "excerpt": "कोरिया मिडलैंड पावर ने 14 मई को इंचियोन पावर मुख्यालय में महानगरीय स्थानीय सरकार के साथ Safe Korea आपदा प्रतिक्रिया अभ्यास किया, जिसमें 23 संस्थाओं के करीब 400 लोग शामिल हुए।",
+        "body": "कोरिया मिडलैंड पावर ने 14 मई को इंचियोन पावर मुख्यालय में महानगरीय स्थानीय सरकार के साथ ‘Safe Korea आपदा प्रतिक्रिया अभ्यास’ आयोजित किया। इस अभ्यास का उद्देश्य डिजिटल सिस्टम रिकवरी की प्रभावशीलता बढ़ाना और स्थानीय समुदाय की जटिल आपदाओं से निपटने की क्षमता मजबूत करना था। निजी, सरकारी और सार्वजनिक क्षेत्रों की 23 संस्थाओं से करीब 400 लोगों ने भाग लिया और आपदा स्थिति में प्रतिक्रिया प्रणाली की जांच की। अभ्यास का केंद्र बिजली उत्पादन सुविधाओं और स्थानीय समुदाय के बीच समन्वित प्रतिक्रिया क्षमता की पुष्टि करना था। कंपनी ने संबंधित संस्थाओं के सहयोग से आपदा प्रतिक्रिया सुरक्षा को बेहतर करने का अवसर बताया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Korea Midland Power Uji Pemulihan Digital dalam Latihan Safe Korea",
+        "excerpt": "Korea Midland Power menggelar latihan tanggap bencana Safe Korea pada 14 Mei di Kantor Pusat Pembangkit Incheon bersama pemerintah daerah metropolitan dan sekitar 400 peserta dari 23 lembaga.",
+        "body": "Korea Midland Power menggelar ‘latihan tanggap bencana Safe Korea’ pada 14 Mei di Kantor Pusat Pembangkit Incheon bersama pemerintah daerah metropolitan. Latihan ini disiapkan untuk meningkatkan efektivitas pemulihan sistem digital dan memperkuat kemampuan masyarakat setempat dalam menghadapi bencana kompleks. Sekitar 400 orang dari 23 lembaga swasta, pemerintah, dan publik ikut serta serta memeriksa sistem respons dalam situasi bencana. Kegiatan ini berfokus pada konfirmasi kemampuan respons terkoordinasi antara fasilitas pembangkit listrik dan komunitas lokal. Korea Midland Power menjadikan latihan tersebut sebagai momentum untuk meningkatkan keselamatan respons bencana melalui kerja sama dengan lembaga terkait. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "647d7f296295",
+    "slug": "코스피-8000시대etf투자-3대-키워드는-289485",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T00:54:24.185Z",
+    "updatedAt": "2026-05-15T00:54:24.185Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12048766",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12048766",
+    "titleFingerprint": "b350dfdecb09e7976ab8e7815f89182906b0242a",
+    "dedupKeys": [
+      "647d7f296295076d8876c046465322e4f7c5aeaf",
+      "b350dfdecb09e7976ab8e7815f89182906b0242a",
+      "f579854a790ea4114a1ba4c32d4fbaba90a9767a"
+    ],
+    "imageUrl": "/images/articles/647d7f296295.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 8000시대 ETF 투자 키워드, 분할매수·동일가중·글로벌 분산",
+        "excerpt": "코스피 8000시대 가능성이 거론되는 가운데 ETF 투자에서 분할매수, 동일가중, 글로벌 분산이 핵심 키워드로 제시됐다. 과거 반도체 사이클 경험도 투자 판단의 배경으로 언급됐다.",
+        "body": "코스피 8000시대가 화두로 떠오른 가운데 ETF 투자 전략의 핵심 키워드로 분할매수, 동일가중, 글로벌 분산이 제시됐다. 해당 보도는 특정 업종 흐름에만 기대기보다 매수 시점을 나누고, 지수 내 비중 편중을 줄이며, 국내외 자산을 함께 살피는 접근을 강조했다. 배경에는 과거 반도체 사이클 경험이 있다. 보도는 2017년에도 ‘반도체 수퍼 사이클’이 있었지만 이후 2년 이상 하락한 사례를 언급하며, 현재의 ‘반도체 울트라 사이클’ 기대를 무조건 낙관하기보다 분산된 ETF 전략으로 대응할 필요가 있다는 점을 짚었다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI 8000 ETF Strategy: Phased Buying, Equal Weighting, Global Diversification",
+        "excerpt": "As talk of a KOSPI 8000 era grows, ETF investors are being pointed toward phased buying, equal weighting and global diversification, with past semiconductor cycles cited as key context.",
+        "body": "As the idea of a KOSPI 8000 era draws attention, the key ETF investment themes highlighted are phased buying, equal weighting and global diversification. The report stresses an approach that does not rely solely on one sector trend: investors divide purchase timing, reduce concentration in index weightings and review both domestic and overseas assets. The background is the past semiconductor cycle. The report notes that even in 2017, when there was talk of a “semiconductor super cycle,” the market fell for more than two years afterward. It says current expectations for a “semiconductor ultra cycle” should be approached with diversified ETF strategies rather than unconditional optimism. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI8000時代のETF投資、分割買い・均等加重・グローバル分散が焦点",
+        "excerpt": "KOSPI8000時代への期待が語られるなか、ETF投資では分割買い、均等加重、グローバル分散が主要キーワードとして示された。過去の半導体サイクルも判断材料に挙げられた。",
+        "body": "KOSPI8000時代が話題となるなか、ETF投資戦略の核心キーワードとして分割買い、均等加重、グローバル分散が提示された。報道は、特定業種の流れだけに頼るのではなく、買いのタイミングを分け、指数内の比重偏重を抑え、国内外の資産を併せて見る姿勢を強調した。背景には過去の半導体サイクルの経験がある。2017年にも「半導体スーパーサイクル」があったが、その後2年以上下落した事例に触れ、現在の「半導体ウルトラサイクル」期待を無条件に楽観せず、分散されたETF戦略で対応する必要があると指摘した。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI 8000时代ETF投资关键词：分批买入、等权重、全球分散",
+        "excerpt": "在KOSPI 8000时代受到关注之际，ETF投资的核心关键词被概括为分批买入、等权重和全球分散，过去半导体周期经验也被作为判断背景提及。",
+        "body": "随着KOSPI 8000时代成为市场话题，ETF投资策略的核心关键词被提出为分批买入、等权重和全球分散。报道强调，投资者不应只依赖某一特定行业走势，而应拆分买入时点，降低指数内部权重过度集中的影响，并同时关注韩国国内和海外资产。其背景在于过去半导体周期的经验。报道提到，2017年也曾出现“半导体超级周期”的说法，但之后市场下跌超过两年。因此，面对当前“半导体超强周期”的期待，报道指出有必要通过分散化ETF策略应对，而不是无条件乐观。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "ETF ante el KOSPI 8000: compras escalonadas, igual ponderación y diversificación global",
+        "excerpt": "Mientras se habla de una era KOSPI 8000, las claves para invertir en ETF son compras escalonadas, igual ponderación y diversificación global, con el ciclo de semiconductores como referencia.",
+        "body": "En medio del debate sobre una posible era del KOSPI 8000, las palabras clave para la estrategia de inversión en ETF son compras escalonadas, igual ponderación y diversificación global. El informe subraya un enfoque que no dependa solo de la tendencia de un sector: dividir los momentos de compra, reducir la concentración de pesos dentro del índice y observar activos tanto locales como internacionales. El contexto es la experiencia previa del ciclo de semiconductores. El reporte recuerda que en 2017 también se habló de un “superciclo de semiconductores”, pero después hubo más de dos años de caídas. Por eso señala que las expectativas actuales de un “ultraciclo de semiconductores” deben abordarse con estrategias diversificadas de ETF, no con optimismo incondicional. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "ETF no KOSPI 8000: compra parcelada, peso igual e diversificação global",
+        "excerpt": "Com a discussão sobre uma era KOSPI 8000, os principais temas para ETFs são compra parcelada, ponderação igual e diversificação global, com o ciclo de semicondutores como referência.",
+        "body": "Com a era KOSPI 8000 em destaque, os principais temas para uma estratégia de investimento em ETFs são compra parcelada, ponderação igual e diversificação global. A reportagem destaca uma abordagem que não dependa apenas do movimento de um setor específico: dividir o momento das compras, reduzir a concentração de pesos dentro do índice e observar ativos locais e internacionais em conjunto. O pano de fundo é a experiência anterior do ciclo de semicondutores. O texto lembra que em 2017 também se falava em “superciclo dos semicondutores”, mas depois houve queda por mais de dois anos. Assim, aponta que a atual expectativa de um “ultraciclo dos semicondutores” deve ser enfrentada com estratégias diversificadas de ETF, e não com otimismo incondicional. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "ETF-Strategie für KOSPI 8000: gestaffelter Kauf, Gleichgewichtung, globale Streuung",
+        "excerpt": "Während eine KOSPI-8000-Ära diskutiert wird, gelten gestaffelter Kauf, Gleichgewichtung und globale Diversifikation als zentrale ETF-Themen. Frühere Halbleiterzyklen liefern den Kontext.",
+        "body": "Während die KOSPI-8000-Ära zum Thema wird, werden gestaffelter Kauf, Gleichgewichtung und globale Diversifikation als zentrale Stichworte für ETF-Investitionen genannt. Der Bericht betont einen Ansatz, der nicht allein auf die Entwicklung eines bestimmten Sektors setzt: Kaufzeitpunkte aufteilen, Gewichtungskonzentrationen im Index verringern und inländische wie ausländische Anlagen gemeinsam betrachten. Hintergrund ist die Erfahrung früherer Halbleiterzyklen. Der Bericht verweist darauf, dass es 2017 ebenfalls einen „Halbleiter-Superzyklus“ gab, der Markt danach jedoch mehr als zwei Jahre fiel. Deshalb sollten aktuelle Erwartungen an einen „Halbleiter-Ultrazyklus“ nicht bedingungslos optimistisch gesehen, sondern mit diversifizierten ETF-Strategien begleitet werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "ETF et KOSPI 8000 : achats fractionnés, pondération égale, diversification mondiale",
+        "excerpt": "Alors que l’idée d’un KOSPI à 8000 points attire l’attention, les mots clés pour les ETF sont achats fractionnés, pondération égale et diversification mondiale, avec le cycle des semi-conducteurs en toile de fond.",
+        "body": "Alors que l’idée d’une ère KOSPI 8000 suscite l’intérêt, les principaux mots clés pour une stratégie d’investissement en ETF sont les achats fractionnés, la pondération égale et la diversification mondiale. Le reportage met l’accent sur une approche qui ne dépend pas uniquement d’un secteur: répartir les moments d’achat, réduire les concentrations de poids dans l’indice et examiner à la fois les actifs nationaux et étrangers. Le contexte vient de l’expérience passée du cycle des semi-conducteurs. Le reportage rappelle qu’en 2017, on parlait déjà d’un « supercycle des semi-conducteurs », mais que le marché avait ensuite reculé pendant plus de deux ans. Il indique donc que les attentes actuelles autour d’un « ultracycle des semi-conducteurs » doivent être abordées avec des stratégies ETF diversifiées plutôt qu’avec un optimisme sans réserve. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "استراتيجية ETF مع كوسبي 8000: شراء تدريجي ووزن متساو وتنويع عالمي",
+        "excerpt": "مع تصاعد الحديث عن عصر كوسبي 8000، تبرز ثلاثة مفاتيح لاستثمار ETF: الشراء التدريجي، والوزن المتساوي، والتنويع العالمي، مع استحضار تجربة دورة أشباه الموصلات السابقة.",
+        "body": "مع تحول فكرة عصر كوسبي 8000 إلى محور اهتمام، طُرحت ثلاثة عناوين رئيسية لاستراتيجية الاستثمار في صناديق ETF: الشراء التدريجي، والوزن المتساوي، والتنويع العالمي. ويؤكد التقرير نهجا لا يعتمد فقط على اتجاه قطاع محدد، بل يقسم توقيت الشراء، ويحد من تركز الأوزان داخل المؤشر، وينظر إلى الأصول المحلية والخارجية معا. وتأتي الخلفية من تجربة دورة أشباه الموصلات السابقة. فقد أشار التقرير إلى أنه في 2017 كان هناك حديث عن “دورة فائقة لأشباه الموصلات”، لكن السوق تراجع بعد ذلك لأكثر من عامين. لذلك يلفت إلى أن توقعات “الدورة الفائقة جدا لأشباه الموصلات” الحالية ينبغي التعامل معها عبر استراتيجيات ETF موزعة، لا عبر تفاؤل غير مشروط. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI 8000 दौर में ETF निवेश: किस्तों में खरीद, समान वेट और वैश्विक विविधीकरण",
+        "excerpt": "KOSPI 8000 दौर की चर्चा के बीच ETF निवेश के लिए किस्तों में खरीद, समान वेट और वैश्विक विविधीकरण प्रमुख संकेतक बताए गए हैं। पुराने सेमीकंडक्टर चक्र का अनुभव भी संदर्भ बना।",
+        "body": "KOSPI 8000 दौर चर्चा में आने के साथ ETF निवेश रणनीति के मुख्य शब्द किस्तों में खरीद, समान वेट और वैश्विक विविधीकरण बताए गए हैं। रिपोर्ट ने ऐसे तरीके पर जोर दिया है जो केवल किसी एक सेक्टर की चाल पर निर्भर न हो: खरीदारी के समय को बांटना, सूचकांक के भीतर वेट की अधिक एकाग्रता को कम करना और घरेलू तथा विदेशी परिसंपत्तियों को साथ देखना। इसकी पृष्ठभूमि पुराने सेमीकंडक्टर चक्र का अनुभव है। रिपोर्ट ने बताया कि 2017 में भी “सेमीकंडक्टर सुपर साइकिल” की बात हुई थी, लेकिन उसके बाद दो साल से अधिक गिरावट रही। इसलिए मौजूदा “सेमीकंडक्टर अल्ट्रा साइकिल” की उम्मीदों को बिना शर्त आशावाद से नहीं, बल्कि विविध ETF रणनीति से देखने की जरूरत बताई गई। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "ETF di Era KOSPI 8000: Beli Bertahap, Bobot Setara, Diversifikasi Global",
+        "excerpt": "Saat era KOSPI 8000 menjadi perhatian, strategi ETF menyoroti beli bertahap, bobot setara, dan diversifikasi global, dengan pengalaman siklus semikonduktor masa lalu sebagai konteks.",
+        "body": "Saat gagasan era KOSPI 8000 menjadi perhatian, kata kunci utama strategi investasi ETF adalah beli bertahap, bobot setara, dan diversifikasi global. Laporan tersebut menekankan pendekatan yang tidak hanya bergantung pada pergerakan satu sektor: membagi waktu pembelian, mengurangi konsentrasi bobot dalam indeks, serta meninjau aset domestik dan luar negeri secara bersamaan. Latar belakangnya adalah pengalaman siklus semikonduktor sebelumnya. Laporan itu menyebut bahwa pada 2017 juga ada “super cycle semikonduktor”, tetapi setelah itu pasar turun selama lebih dari dua tahun. Karena itu, ekspektasi saat ini terhadap “ultra cycle semikonduktor” perlu dihadapi dengan strategi ETF yang terdiversifikasi, bukan optimisme tanpa syarat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "8d1593226eb5",
     "slug": "8천피-앞두고-삼전닉스-더-담은-초고수팔아치운-종목-봤더니-639110",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "DHL Perkuat Ekspres Kargo Berat, Bidik Hambatan Rantai Pasok",
         "excerpt": "DHL Express memperkuat layanan ekspres kargo berat untuk satu barang hingga 1.000 kg dan maksimal 3.000 kg per pengiriman, dengan help desk khusus dan pemantauan real-time bagi sektor otomotif dan farmasi.",
         "body": "DHL Express memperkuat kemampuan ekspres kargo berat sebagai langkah untuk mengatasi hambatan rantai pasok. Layanan ini mengedepankan sistem pengiriman untuk satu barang hingga 1.000 kg dan maksimal 3.000 kg per pesanan. Perusahaan menyatakan telah membentuk help desk khusus untuk merespons kebutuhan transportasi kargo berat dan akan mengelola proses pengiriman melalui pemantauan real-time. Latar belakangnya adalah permintaan dari industri bernilai tambah tinggi seperti otomotif dan farmasi untuk mengirim barang besar dan berat dengan cepat. DHL berfokus mengurangi titik kemacetan dalam rantai pasok dan meningkatkan kemampuan respons logistik mendesak melalui ekspres kargo berat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6cd70e856ba3",
-    "slug": "한국-창작자-입맛-잡는다크리에이터-취향-저격할-캐논-신제품은-885060",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T12:17:32.884Z",
-    "updatedAt": "2026-05-14T12:17:32.884Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12047544",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12047544",
-    "titleFingerprint": "0a575d29f2f810dad3c4eedec03e6b52c4b248ff",
-    "dedupKeys": [
-      "6cd70e856ba3f60e0dda3e9676f5e6cbbbf9c000",
-      "0a575d29f2f810dad3c4eedec03e6b52c4b248ff",
-      "82d807d154fa8fe42fa964cc74429f1753cba672"
-    ],
-    "imageUrl": "/images/articles/6cd70e856ba3.png",
-    "i18n": {
-      "ko": {
-        "title": "캐논코리아, 영상 크리에이터 겨냥 풀프레임 미러리스 국내 첫 공개",
-        "excerpt": "캐논코리아가 14일 서울 코엑스에서 영상 특화 풀프레임 미러리스 카메라를 국내 최초로 공개하며 크리에이터 시장 공략과 이미지 생태계 확장을 밝혔다.",
-        "body": "캐논코리아는 14일 서울 코엑스에서 영상 크리에이터를 겨냥한 영상 특화 풀프레임 미러리스 카메라를 국내 최초로 공개했다. 회사는 이번 신제품을 통해 영상 제작 수요가 커지는 크리에이터 시장에서 이미지 생태계를 넓히겠다는 방향을 제시했다. 공개된 제품은 ‘한국 창작자 입맛’을 겨냥한 신제품으로 소개됐으며, 캐논코리아는 이를 영상 크리에이터 시장의 게임 체인저가 될 제품으로 내세웠다. 향후 국내 창작자와 영상 제작자들이 카메라 선택지와 제작 환경을 넓히는 계기가 될지 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Canon Korea Debuts Full-Frame Mirrorless Camera for Video Creators",
-        "excerpt": "Canon Korea unveiled a video-focused full-frame mirrorless camera for the first time in Korea at COEX Seoul on the 14th, signaling a push into the creator market.",
-        "body": "Canon Korea unveiled a video-specialized full-frame mirrorless camera for the first time in Korea on the 14th at COEX in Seoul, targeting video creators. The company said the new product is part of its effort to expand its imaging ecosystem as demand for creator-led video production grows. The camera was introduced as a new product aimed at the tastes of Korean creators, and Canon Korea positioned it as a potential game changer for the video creator market. Attention is now on whether it will broaden camera choices and production environments for domestic creators and video producers. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "キヤノンコリア、動画クリエイター向けフルサイズミラーレスを韓国初公開",
-        "excerpt": "キヤノンコリアは14日、ソウルCOEXで動画特化型フルサイズミラーレスカメラを韓国で初公開し、クリエイター市場攻略を示した。",
-        "body": "キヤノンコリアは14日、ソウルCOEXで動画クリエイターを狙った動画特化型フルサイズミラーレスカメラを韓国で初めて公開した。同社は今回の新製品を通じ、動画制作需要が高まるクリエイター市場でイメージング・エコシステムを広げる方針を示した。公開された製品は「韓国の創作者の好み」を狙った新製品として紹介され、キヤノンコリアは動画クリエイター市場のゲームチェンジャーになり得る製品と位置づけた。今後、韓国の創作者や映像制作者のカメラ選択肢と制作環境を広げる契機になるか注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "佳能韩国首发面向视频创作者的全画幅无反相机",
-        "excerpt": "佳能韩国14日在首尔COEX首次在韩国公开一款视频特化全画幅无反相机，表明将进军创作者市场并扩大影像生态。",
-        "body": "佳能韩国14日在首尔COEX首次在韩国公开了一款面向视频创作者的视频特化全画幅无反相机。公司表示，将通过这款新品，在视频制作需求扩大的创作者市场中拓展影像生态。该产品被介绍为瞄准“韩国创作者口味”的新品，佳能韩国也将其定位为有望成为视频创作者市场游戏规则改变者的产品。未来它是否会为韩国创作者和视频制作人扩大相机选择与制作环境，受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Canon Korea presenta una mirrorless full frame para creadores de video",
-        "excerpt": "Canon Korea presentó el día 14 en COEX Seúl una cámara mirrorless full frame especializada en video, en su debut nacional para captar al mercado creador.",
-        "body": "Canon Korea presentó el día 14 en COEX, Seúl, una cámara mirrorless full frame especializada en video y dirigida a creadores de contenido audiovisual, en su primera exhibición en Corea. La compañía señaló que con este nuevo producto busca ampliar su ecosistema de imagen dentro de un mercado de creadores donde crece la demanda de producción de video. El producto fue presentado como una novedad pensada para los gustos de los creadores coreanos, y Canon Korea lo posicionó como un posible cambio de juego para ese mercado. La atención se centra ahora en si ampliará las opciones de cámara y el entorno de producción para creadores y productores locales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Canon Korea revela mirrorless full frame para criadores de vídeo",
-        "excerpt": "A Canon Korea apresentou no dia 14, no COEX em Seul, uma câmera mirrorless full frame focada em vídeo, em estreia nacional para mirar o mercado criador.",
-        "body": "A Canon Korea apresentou no dia 14, no COEX em Seul, uma câmera mirrorless full frame especializada em vídeo e voltada a criadores, em sua primeira divulgação na Coreia. A empresa afirmou que, com o novo produto, pretende expandir seu ecossistema de imagem em um mercado de criadores no qual cresce a demanda por produção de vídeo. O produto foi apresentado como uma novidade pensada para o gosto dos criadores coreanos, e a Canon Korea o posicionou como um possível divisor de águas no mercado de criadores de vídeo. Agora, a atenção recai sobre seu potencial para ampliar as opções de câmera e o ambiente de produção de criadores e produtores locais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Canon Korea zeigt Vollformat-Mirrorless für Video-Creator erstmals im Inland",
-        "excerpt": "Canon Korea stellte am 14. im COEX Seoul erstmals in Korea eine videofokussierte spiegellose Vollformatkamera vor und zielt damit auf den Creator-Markt.",
-        "body": "Canon Korea hat am 14. im COEX in Seoul erstmals in Korea eine videofokussierte spiegellose Vollformatkamera vorgestellt, die sich an Video-Creator richtet. Das Unternehmen erklärte, mit dem neuen Produkt sein Imaging-Ökosystem in einem Creator-Markt ausbauen zu wollen, in dem die Nachfrage nach Videoproduktion wächst. Das vorgestellte Produkt wurde als Neuheit beschrieben, die auf den Geschmack koreanischer Kreativer zielt, und Canon Korea positionierte es als möglichen Game Changer für den Markt der Video-Creator. Nun steht im Fokus, ob es die Kameraauswahl und Produktionsumgebung für heimische Kreative und Videoproduzenten erweitern kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Canon Korea dévoile un hybride plein format pensé pour les créateurs vidéo",
-        "excerpt": "Canon Korea a présenté le 14 au COEX de Séoul un appareil hybride plein format axé vidéo, une première nationale destinée au marché des créateurs.",
-        "body": "Canon Korea a dévoilé le 14 au COEX de Séoul un appareil photo hybride plein format spécialisé dans la vidéo et destiné aux créateurs, pour la première fois en Corée. L’entreprise a indiqué vouloir, avec ce nouveau produit, élargir son écosystème d’image dans un marché des créateurs où la demande de production vidéo augmente. Le produit a été présenté comme une nouveauté visant les goûts des créateurs coréens, et Canon Korea l’a positionné comme un possible changement majeur pour le marché des créateurs vidéo. L’attention porte désormais sur sa capacité à élargir les choix d’appareils et l’environnement de production des créateurs et vidéastes locaux. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كانون كوريا تكشف كاميرا فل فريم بلا مرآة موجهة لصناع الفيديو",
-        "excerpt": "كشفت كانون كوريا في 14 من الشهر في مركز COEX بسيول عن كاميرا فل فريم بلا مرآة مخصصة للفيديو للمرة الأولى محليا، مستهدفة سوق المبدعين.",
-        "body": "كشفت كانون كوريا في 14 من الشهر في مركز COEX في سيول عن كاميرا فل فريم بلا مرآة متخصصة في الفيديو وموجهة لصناع المحتوى المرئي، وذلك للمرة الأولى في كوريا. وقالت الشركة إن هذا المنتج الجديد يأتي في إطار توسيع منظومة التصوير لديها مع نمو الطلب على إنتاج الفيديو في سوق المبدعين. وجرى تقديم المنتج بوصفه جديدا يستهدف أذواق المبدعين الكوريين، كما وضعته كانون كوريا كمنتج قد يغير قواعد اللعبة في سوق صناع الفيديو. ويتجه الاهتمام الآن إلى ما إذا كان سيوسع خيارات الكاميرات وبيئة الإنتاج أمام المبدعين ومنتجي الفيديو المحليين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Canon Korea ने वीडियो क्रिएटर्स के लिए फुल-फ्रेम मिररलेस कैमरा दिखाया",
-        "excerpt": "Canon Korea ने 14 तारीख को सियोल COEX में वीडियो-केंद्रित फुल-फ्रेम मिररलेस कैमरा पहली बार कोरिया में पेश किया और क्रिएटर बाजार पर जोर दिया।",
-        "body": "Canon Korea ने 14 तारीख को सियोल के COEX में वीडियो क्रिएटर्स को ध्यान में रखकर बनाया गया वीडियो-विशेष फुल-फ्रेम मिररलेस कैमरा पहली बार कोरिया में पेश किया। कंपनी ने कहा कि इस नए उत्पाद के जरिए वह ऐसे क्रिएटर बाजार में अपनी इमेजिंग इकोसिस्टम का विस्तार करना चाहती है, जहां वीडियो निर्माण की मांग बढ़ रही है। इस उत्पाद को “कोरियाई रचनाकारों की पसंद” को लक्षित करने वाली नई पेशकश के रूप में बताया गया, और Canon Korea ने इसे वीडियो क्रिएटर बाजार का संभावित गेम चेंजर बताया। अब ध्यान इस बात पर है कि क्या यह घरेलू रचनाकारों और वीडियो निर्माताओं के लिए कैमरा विकल्पों और उत्पादन माहौल को व्यापक करेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Canon Korea Perkenalkan Mirrorless Full Frame untuk Kreator Video",
-        "excerpt": "Canon Korea pada 14 hari bulan ini di COEX Seoul pertama kali memperkenalkan kamera mirrorless full frame khusus video di Korea untuk membidik pasar kreator.",
-        "body": "Canon Korea pada tanggal 14 di COEX, Seoul, untuk pertama kalinya di Korea memperkenalkan kamera mirrorless full frame yang dikhususkan untuk video dan ditujukan bagi kreator video. Perusahaan menyatakan bahwa melalui produk baru ini, mereka ingin memperluas ekosistem imaging di pasar kreator yang permintaan produksi videonya terus meningkat. Produk tersebut diperkenalkan sebagai perangkat baru yang menyasar selera kreator Korea, dan Canon Korea menempatkannya sebagai calon game changer di pasar kreator video. Perhatian kini tertuju pada apakah produk ini akan memperluas pilihan kamera dan lingkungan produksi bagi kreator serta pembuat video domestik. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "85e2a11e9ef4",
-    "slug": "hj중공업-친환경-컨테이너선-1호-명명납기-2개월-앞당겨-586898",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T12:16:23.815Z",
-    "updatedAt": "2026-05-14T12:16:23.815Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12047546",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12047546",
-    "titleFingerprint": "67cebcd57c666306986b3b1ccb6757291df0a080",
-    "dedupKeys": [
-      "85e2a11e9ef4507c5a4d243e0b0a8133f2116a02",
-      "67cebcd57c666306986b3b1ccb6757291df0a080",
-      "698bbdb0bdc8c975031b5de7710ef93cbd20b36d"
-    ],
-    "imageUrl": "/images/articles/85e2a11e9ef4.png",
-    "i18n": {
-      "ko": {
-        "title": "HJ중공업 친환경 컨테이너선 1호 명명, 납기 2개월 앞당겼다",
-        "excerpt": "HJ중공업은 14일 부산 영도조선소에서 7900TEU급 친환경 컨테이너선 1호선을 명명하고, 그리스 선주사의 4척 연속 발주 선박 중 첫 인도를 예정보다 2개월 앞당겼다.",
-        "body": "HJ중공업은 14일 부산 영도조선소에서 7900TEU급 친환경 컨테이너선 1호 명명식을 열었다. 이 선박은 20피트 컨테이너 7900개를 실을 수 있는 규모로, 그리스 선주사가 잇따라 주문한 4척 가운데 첫 번째 선박이다. 회사는 납기를 당초 계획보다 2개월 앞당겼다고 밝혔다. 선박에는 탈황설비가 장착됐으며, 향후 메탄올 연료 전환도 가능하도록 설계됐다. 친환경 선박 수요가 이어지는 가운데 이번 조기 납기는 HJ중공업의 건조 일정 관리와 수주 선박 인도 흐름에 의미를 더한다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "HJ Heavy Names First Eco Container Ship, Delivers Two Months Early",
-        "excerpt": "HJ Heavy Industries held a naming ceremony on May 14 at its Yeongdo shipyard in Busan for the first 7,900 TEU eco container ship ordered by a Greek shipowner, moving delivery two months ahead of schedule.",
-        "body": "HJ Heavy Industries held a naming ceremony on May 14 at its Yeongdo shipyard in Busan for its first 7,900 TEU eco-friendly container ship. The vessel can carry 7,900 twenty-foot containers and is the first of four ships ordered in succession by a Greek shipowner. The company said it advanced the delivery schedule by two months from the original plan. The ship is equipped with a desulfurization system and is designed to allow future conversion to methanol fuel. As demand for greener vessels continues, the early delivery highlights HJ Heavy Industries’ shipbuilding schedule management and the progress of its ordered vessels. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "HJ重工業、環境対応コンテナ船1号を命名 納期を2カ月前倒し",
-        "excerpt": "HJ重工業は14日、釜山・影島造船所で7900TEU級の環境対応コンテナ船1号船の命名式を開き、ギリシャ船主が連続発注した4隻の初号船を予定より2カ月早く引き渡す。",
-        "body": "HJ重工業は14日、釜山の影島造船所で7900TEU級環境対応コンテナ船1号船の命名式を開いた。この船は20フィートコンテナを7900個積載できる規模で、ギリシャの船主会社が相次いで発注した4隻のうち最初の船だ。同社は納期を当初計画より2カ月前倒ししたと明らかにした。船舶には脱硫設備が搭載されており、将来的にメタノール燃料へ転換できる設計も備える。環境対応船の需要が続く中、今回の早期納入はHJ重工業の建造日程管理と受注船引き渡しの流れに意味を持つ。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "HJ重工命名首艘环保集装箱船，交付期提前两个月",
-        "excerpt": "HJ重工14日在釜山影岛造船所为7900TEU级环保集装箱船首船举行命名仪式，该船为希腊船东连续订购的4艘之一，交付较计划提前两个月。",
-        "body": "HJ重工14日在釜山影岛造船所为7900TEU级环保集装箱船首船举行命名仪式。该船可装载7900个20英尺集装箱，是希腊船东公司连续订购的4艘船中的第一艘。公司表示，交付时间比原计划提前了两个月。该船配备脱硫设备，并设计为未来可转换使用甲醇燃料。在环保船舶需求持续的背景下，此次提前交付体现了HJ重工的建造进度管理能力，也对后续订单船舶交付具有意义。来源：引自mk.co.kr。"
-      },
-      "es": {
-        "title": "HJ Heavy nombra su primer portacontenedores ecológico y adelanta entrega",
-        "excerpt": "HJ Heavy Industries celebró el 14 de mayo en su astillero de Yeongdo, Busan, la ceremonia de nombre del primer portacontenedores ecológico de 7.900 TEU pedido por un armador griego.",
-        "body": "HJ Heavy Industries celebró el 14 de mayo en el astillero de Yeongdo, en Busan, la ceremonia de nombre de su primer portacontenedores ecológico de 7.900 TEU. El buque puede transportar 7.900 contenedores de 20 pies y es el primero de cuatro barcos encargados consecutivamente por un armador griego. La compañía informó que adelantó la entrega dos meses frente al plan inicial. La nave cuenta con un sistema de desulfuración y está diseñada para poder convertirse en el futuro al uso de combustible de metanol. En medio de la demanda de buques más limpios, esta entrega anticipada destaca la gestión del calendario de construcción de HJ Heavy Industries. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "HJ Heavy batiza primeiro porta-contêiner ecológico e antecipa entrega",
-        "excerpt": "A HJ Heavy Industries realizou em 14 de maio, no estaleiro de Yeongdo, em Busan, a cerimônia de batismo do primeiro porta-contêiner ecológico de 7.900 TEU encomendado por um armador grego.",
-        "body": "A HJ Heavy Industries realizou em 14 de maio, no estaleiro de Yeongdo, em Busan, a cerimônia de batismo de seu primeiro porta-contêiner ecológico de 7.900 TEU. O navio pode transportar 7.900 contêineres de 20 pés e é o primeiro de quatro embarcações encomendadas em sequência por um armador grego. A empresa informou que antecipou a entrega em dois meses em relação ao cronograma original. A embarcação vem equipada com sistema de dessulfurização e foi projetada para permitir futura conversão para combustível de metanol. Com a continuidade da demanda por navios ecológicos, a entrega antecipada reforça a gestão de cronograma da HJ Heavy Industries. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "HJ Heavy tauft erstes Öko-Containerschiff, Lieferung zwei Monate früher",
-        "excerpt": "HJ Heavy Industries hat am 14. Mai auf der Yeongdo-Werft in Busan das erste 7.900-TEU-Öko-Containerschiff eines griechischen Reeders getauft und die Lieferung um zwei Monate vorgezogen.",
-        "body": "HJ Heavy Industries hat am 14. Mai auf der Yeongdo-Werft in Busan die Taufe seines ersten umweltfreundlichen 7.900-TEU-Containerschiffs abgehalten. Das Schiff kann 7.900 20-Fuß-Container transportieren und ist das erste von vier Schiffen, die ein griechischer Reeder nacheinander bestellt hat. Das Unternehmen erklärte, der Liefertermin sei gegenüber dem ursprünglichen Plan um zwei Monate vorgezogen worden. Das Schiff ist mit einer Entschwefelungsanlage ausgestattet und so ausgelegt, dass es künftig auf Methanolbetrieb umgerüstet werden kann. Angesichts der anhaltenden Nachfrage nach umweltfreundlicheren Schiffen unterstreicht die frühe Lieferung das Terminmanagement von HJ Heavy Industries. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "HJ Heavy baptise son premier porte-conteneurs écologique, livré plus tôt",
-        "excerpt": "HJ Heavy Industries a organisé le 14 mai, au chantier naval de Yeongdo à Busan, le baptême de son premier porte-conteneurs écologique de 7 900 EVP commandé par un armateur grec.",
-        "body": "HJ Heavy Industries a organisé le 14 mai, dans son chantier naval de Yeongdo à Busan, la cérémonie de baptême de son premier porte-conteneurs écologique de 7 900 EVP. Le navire peut transporter 7 900 conteneurs de 20 pieds et constitue le premier des quatre navires commandés successivement par un armateur grec. L’entreprise a indiqué avoir avancé la livraison de deux mois par rapport au calendrier initial. Le navire est équipé d’un système de désulfuration et conçu pour permettre une future conversion au carburant méthanol. Alors que la demande de navires plus écologiques se poursuit, cette livraison anticipée met en avant la gestion du calendrier de construction de HJ Heavy Industries. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "إتش جي للصناعات الثقيلة تسمي أول سفينة حاويات صديقة للبيئة مبكرا",
-        "excerpt": "أقامت إتش جي للصناعات الثقيلة في 14 مايو بحوض يونغدو في بوسان مراسم تسمية أول سفينة حاويات صديقة للبيئة بسعة 7900 حاوية نمطية، ضمن أربع سفن طلبها مالك يوناني.",
-        "body": "أقامت إتش جي للصناعات الثقيلة في 14 مايو مراسم تسمية أول سفينة حاويات صديقة للبيئة بسعة 7900 حاوية نمطية في حوض يونغدو لبناء السفن في بوسان. ويمكن للسفينة حمل 7900 حاوية من قياس 20 قدما، وهي الأولى من بين أربع سفن طلبتها تباعا شركة مالكة يونانية. وقالت الشركة إنها قدمت موعد التسليم شهرين عن الخطة الأصلية. وزودت السفينة بمعدات لإزالة الكبريت، كما صممت بما يتيح تحويلها مستقبلا إلى وقود الميثانول. ومع استمرار الطلب على السفن الصديقة للبيئة، يبرز هذا التسليم المبكر إدارة إتش جي للصناعات الثقيلة لجدول البناء وتسليم السفن المطلوبة. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "HJ Heavy ने पहली पर्यावरण अनुकूल कंटेनर शिप का नामकरण किया",
-        "excerpt": "HJ Heavy Industries ने 14 मई को बुसान के योंगदो शिपयार्ड में 7,900 TEU पर्यावरण अनुकूल कंटेनर शिप का नामकरण किया, जिसे ग्रीक जहाज मालिक के चार ऑर्डरों में पहली शिप के रूप में दो महीने पहले सौंपा जाना है।",
-        "body": "HJ Heavy Industries ने 14 मई को बुसान के योंगदो शिपयार्ड में अपनी पहली 7,900 TEU पर्यावरण अनुकूल कंटेनर शिप का नामकरण समारोह आयोजित किया। यह जहाज 20 फुट के 7,900 कंटेनर ले जा सकता है और ग्रीक जहाज मालिक कंपनी द्वारा लगातार ऑर्डर किए गए चार जहाजों में पहला है। कंपनी ने कहा कि उसने मूल योजना की तुलना में डिलीवरी दो महीने पहले कर दी है। जहाज में डीसल्फराइजेशन उपकरण लगे हैं और इसे भविष्य में मेथनॉल ईंधन में बदलने योग्य बनाया गया है। पर्यावरण अनुकूल जहाजों की मांग जारी रहने के बीच, यह शुरुआती डिलीवरी HJ Heavy Industries के निर्माण कार्यक्रम प्रबंधन और ऑर्डर जहाजों की आपूर्ति की गति को दिखाती है। स्रोत: mk.co.kr से उद्धृत."
-      },
-      "id": {
-        "title": "HJ Heavy Namai Kapal Kontainer Ramah Lingkungan Pertama, Lebih Cepat",
-        "excerpt": "HJ Heavy Industries menggelar upacara penamaan kapal kontainer ramah lingkungan 7.900 TEU pada 14 Mei di galangan Yeongdo, Busan, untuk kapal pertama dari empat pesanan pemilik kapal Yunani.",
-        "body": "HJ Heavy Industries menggelar upacara penamaan kapal kontainer ramah lingkungan 7.900 TEU pertamanya pada 14 Mei di galangan kapal Yeongdo, Busan. Kapal ini mampu membawa 7.900 kontainer berukuran 20 kaki dan menjadi kapal pertama dari empat unit yang dipesan secara berurutan oleh pemilik kapal asal Yunani. Perusahaan menyatakan jadwal penyerahan dimajukan dua bulan dari rencana awal. Kapal tersebut dilengkapi fasilitas desulfurisasi dan dirancang agar dapat dikonversi ke bahan bakar metanol di masa depan. Di tengah berlanjutnya permintaan kapal ramah lingkungan, penyerahan lebih awal ini menunjukkan pengelolaan jadwal pembangunan HJ Heavy Industries. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "625c1ae1958a",
-    "slug": "삼성-sk-등-퇴직자-ai가-못하는-현장-문제-해결전문가-매칭-이것-뭐길래-781351",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T12:15:20.732Z",
-    "updatedAt": "2026-05-14T12:15:20.732Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12047643",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12047643",
-    "titleFingerprint": "c26086e43912bc8364b4cbba90cf0ca4ded40cbc",
-    "dedupKeys": [
-      "625c1ae1958a82486adc560cba0babcb3892f889",
-      "c26086e43912bc8364b4cbba90cf0ca4ded40cbc",
-      "8392d087c2619aabe2f9c4385c18c642371dc2d4"
-    ],
-    "imageUrl": "/images/articles/625c1ae1958a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "휴넷탤런트뱅크 전문가 매칭, 삼성·SK 퇴직자 현장 문제 해결 주목",
-        "excerpt": "휴넷탤런트뱅크의 프로젝트형 전문가 서비스가 삼성·SK 등 대기업 퇴직자의 경험을 중소·중견기업 현장 문제 해결에 연결하며 재의뢰율 60%를 기록했다.",
-        "body": "휴넷탤런트뱅크의 프로젝트형 전문가 매칭 서비스가 삼성·SK 등 대기업 퇴직자의 현장 경험을 필요 기업에 연결하며 주목받고 있다. 코스닥 상장 AI 바이오텍 스타트업 B사는 기술개발을 마친 뒤 예상치 못한 과제에 직면한 사례로 소개됐다. 이 서비스의 재의뢰율은 60%로, 휴넷탤런트뱅크는 중소·중견기업의 경영 돌파구 역할을 하고 있다고 설명했다. 회사 관계자는 AI가 확산할수록 현장 문제를 풀 경험과 판단력을 갖춘 전문가의 가치가 커진다고 밝혔다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hunet Talent Bank Expert Matching Draws Notice for Retired Samsung and SK Talent",
-        "excerpt": "Hunet Talent Bank’s project-based expert service links retired Samsung and SK professionals with SMEs and mid-sized firms, recording a 60% repeat request rate.",
-        "body": "Hunet Talent Bank’s project-based expert matching service is drawing attention by connecting companies with the field experience of retirees from major groups such as Samsung and SK. A KOSDAQ-listed AI biotech startup, referred to as Company B, was cited as a case that faced unexpected challenges after completing technology development. The service has a 60% repeat request rate, and Hunet Talent Bank says it is helping SMEs and mid-sized companies find management breakthroughs. A company official said the spread of AI is raising the value of experts with experience and judgment to solve on-site problems. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ヒューネットタレントバンクの専門家マッチング、サムスン・SK退職者に注目",
-        "excerpt": "ヒューネットタレントバンクのプロジェクト型専門家サービスは、サムスンやSKなどの退職者の経験を中小・中堅企業の現場課題解決につなげ、再依頼率60%を記録した。",
-        "body": "ヒューネットタレントバンクのプロジェクト型専門家マッチングサービスが、サムスンやSKなど大企業退職者の現場経験を必要とする企業につなげる仕組みとして注目されている。コスダック上場のAIバイオテックスタートアップB社は、技術開発を終えた後に予想外の課題に直面した事例として紹介された。同サービスの再依頼率は60%で、同社は中小・中堅企業の経営上の突破口になっていると説明した。担当者は、AIが広がるほど現場問題を解く経験と判断力を持つ専門家の価値が高まると述べた。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Hunet Talent Bank专家匹配受关注，三星与SK退休人才解决现场难题",
-        "excerpt": "Hunet Talent Bank的项目型专家服务把三星、SK等大企业退休人员经验连接到中小和中坚企业现场问题，重复委托率达到60%。",
-        "body": "Hunet Talent Bank的项目型专家匹配服务正受到关注，它把三星、SK等大企业退休人员的现场经验连接给有需求的企业。报道提到，一家在KOSDAQ上市的AI生物技术初创公司B在完成技术开发后，遇到了意想不到的课题。该服务的重复委托率为60%，Hunet Talent Bank表示，它正在为中小和中坚企业提供经营突破口。公司相关人士称，随着AI扩散，具备解决现场问题经验和判断力的专家价值正在上升。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Hunet Talent Bank gana atención al conectar expertos retirados de Samsung y SK",
-        "excerpt": "El servicio de expertos por proyecto de Hunet Talent Bank vincula a retirados de Samsung y SK con pymes y empresas medianas, y registra una tasa de recompra del 60%.",
-        "body": "El servicio de emparejamiento de expertos por proyecto de Hunet Talent Bank está atrayendo atención al conectar a empresas con la experiencia de campo de retirados de grandes grupos como Samsung y SK. Una startup de biotecnología de IA cotizada en KOSDAQ, identificada como empresa B, fue citada como caso tras enfrentar retos inesperados después de completar su desarrollo tecnológico. El servicio registra una tasa de repetición de solicitudes del 60%, y Hunet Talent Bank afirma que ayuda a pymes y empresas medianas a encontrar salidas de gestión. Un responsable dijo que, cuanto más se expande la IA, mayor es el valor de expertos con experiencia y criterio para resolver problemas en terreno. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Hunet Talent Bank chama atenção ao conectar aposentados da Samsung e SK",
-        "excerpt": "O serviço de especialistas por projeto da Hunet Talent Bank liga aposentados da Samsung e SK a pequenas e médias empresas, com taxa de nova solicitação de 60%.",
-        "body": "O serviço de matching de especialistas por projeto da Hunet Talent Bank vem chamando atenção ao conectar empresas à experiência prática de aposentados de grandes grupos como Samsung e SK. Uma startup de biotecnologia de IA listada na KOSDAQ, chamada de empresa B, foi citada como caso após enfrentar desafios inesperados depois de concluir o desenvolvimento tecnológico. O serviço tem taxa de nova solicitação de 60%, e a Hunet Talent Bank afirma que ajuda pequenas e médias empresas a encontrar alternativas de gestão. Um representante disse que, quanto mais a IA se expande, maior se torna o valor de especialistas com experiência e julgamento para resolver problemas de campo. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hunet Talent Bank vernetzt frühere Samsung- und SK-Fachkräfte mit Firmenproblemen",
-        "excerpt": "Der projektbasierte Expertenservice von Hunet Talent Bank bringt frühere Samsung- und SK-Mitarbeiter mit KMU und mittelgroßen Firmen zusammen und erreicht 60% Wiederbeauftragungen.",
-        "body": "Der projektbasierte Experten-Matching-Service von Hunet Talent Bank erhält Aufmerksamkeit, weil er Unternehmen mit der Praxiserfahrung ehemaliger Beschäftigter großer Konzerne wie Samsung und SK verbindet. Als Beispiel wurde ein an der KOSDAQ notiertes KI-Biotech-Startup, Unternehmen B, genannt, das nach Abschluss der Technologieentwicklung auf unerwartete Aufgaben stieß. Die Wiederbeauftragungsrate des Dienstes liegt bei 60%. Hunet Talent Bank erklärt, der Service helfe kleinen und mittleren Unternehmen, Managementlösungen zu finden. Ein Unternehmensvertreter sagte, mit der Ausbreitung von KI steige der Wert von Experten, die Erfahrung und Urteilsvermögen zur Lösung von Problemen vor Ort besitzen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Hunet Talent Bank mise sur les retraités de Samsung et SK pour résoudre le terrain",
-        "excerpt": "Le service d’experts par projet de Hunet Talent Bank relie d’anciens cadres de Samsung et SK aux PME et ETI, avec un taux de nouvelle demande de 60%.",
-        "body": "Le service de mise en relation d’experts par projet de Hunet Talent Bank attire l’attention en reliant des entreprises à l’expérience de terrain de retraités de grands groupes comme Samsung et SK. Une startup de biotechnologie IA cotée au KOSDAQ, appelée société B, a été citée comme exemple après avoir rencontré des difficultés inattendues une fois son développement technologique terminé. Le service affiche un taux de nouvelle demande de 60%, et Hunet Talent Bank affirme qu’il sert de levier de gestion pour les PME et ETI. Un responsable a indiqué que, plus l’IA se diffuse, plus la valeur des experts capables de résoudre les problèmes de terrain avec expérience et jugement augmente. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "منصة Hunet Talent Bank تربط متقاعدين من سامسونغ وSK بحلول مشكلات الشركات",
-        "excerpt": "تربط خدمة الخبراء القائمة على المشاريع من Hunet Talent Bank خبرات متقاعدين من سامسونغ وSK بالشركات الصغيرة والمتوسطة، مع معدل إعادة طلب يبلغ 60%.",
-        "body": "تحظى خدمة مطابقة الخبراء القائمة على المشاريع من Hunet Talent Bank بالاهتمام لأنها تصل الشركات بخبرات ميدانية لمتقاعدين من مجموعات كبرى مثل سامسونغ وSK. وذُكرت شركة ناشئة في التكنولوجيا الحيوية المعتمدة على الذكاء الاصطناعي ومدرجة في KOSDAQ، باسم الشركة B، كحالة واجهت تحديات غير متوقعة بعد إتمام تطوير التكنولوجيا. يبلغ معدل إعادة الطلب في الخدمة 60%، وتقول Hunet Talent Bank إنها تساعد الشركات الصغيرة والمتوسطة على إيجاد مخارج إدارية. وقال مسؤول في الشركة إن انتشار الذكاء الاصطناعي يزيد قيمة الخبراء الذين يملكون الخبرة والحكم لحل مشكلات الموقع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Hunet Talent Bank में Samsung और SK के सेवानिवृत्त विशेषज्ञों की मांग बढ़ी",
-        "excerpt": "Hunet Talent Bank की प्रोजेक्ट-आधारित विशेषज्ञ सेवा Samsung और SK से सेवानिवृत्त पेशेवरों को छोटी और मध्यम कंपनियों की现场 समस्याओं से जोड़ रही है, जिसकी पुनः अनुरोध दर 60% है।",
-        "body": "Hunet Talent Bank की प्रोजेक्ट-आधारित विशेषज्ञ मिलान सेवा ध्यान खींच रही है क्योंकि यह Samsung और SK जैसे बड़े समूहों से सेवानिवृत्त लोगों के फील्ड अनुभव को जरूरतमंद कंपनियों से जोड़ती है। KOSDAQ में सूचीबद्ध AI बायोटेक स्टार्टअप B को ऐसे उदाहरण के रूप में पेश किया गया, जिसने तकनीक विकास पूरा करने के बाद अप्रत्याशित चुनौतियों का सामना किया। इस सेवा की पुनः अनुरोध दर 60% है, और Hunet Talent Bank का कहना है कि यह छोटी और मध्यम कंपनियों के लिए प्रबंधन में रास्ता खोलने की भूमिका निभा रही है। कंपनी अधिकारी ने कहा कि AI के फैलने के साथ现场 समस्याएं सुलझाने वाले अनुभव और निर्णय क्षमता वाले विशेषज्ञों का मूल्य बढ़ रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hunet Talent Bank Sorot Pensiunan Samsung dan SK untuk Pecahkan Masalah Lapangan",
-        "excerpt": "Layanan pakar berbasis proyek Hunet Talent Bank menghubungkan pensiunan Samsung dan SK dengan UKM serta perusahaan menengah, mencatat tingkat permintaan ulang 60%.",
-        "body": "Layanan pencocokan pakar berbasis proyek Hunet Talent Bank menarik perhatian karena menghubungkan perusahaan dengan pengalaman lapangan para pensiunan dari grup besar seperti Samsung dan SK. Startup biotek AI yang terdaftar di KOSDAQ, disebut sebagai perusahaan B, dijadikan contoh setelah menghadapi tantangan tak terduga seusai menyelesaikan pengembangan teknologi. Layanan ini mencatat tingkat permintaan ulang 60%, dan Hunet Talent Bank menyatakan perannya membantu UKM serta perusahaan menengah menemukan jalan keluar manajemen. Seorang pejabat perusahaan mengatakan, semakin luas AI digunakan, semakin tinggi nilai pakar yang memiliki pengalaman dan penilaian untuk menyelesaikan masalah di lapangan. Sumber: mk.co.kr"
       }
     }
   }
