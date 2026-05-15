@@ -1,5 +1,230 @@
 [
   {
+    "id": "adde99ea3334",
+    "slug": "가온전선-올-1분기-영업익-278억원-역대-최고美-aidc-수요-확대-수혜-560242",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T06:27:02.867Z",
+    "updatedAt": "2026-05-15T06:27:02.867Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049076",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049076",
+    "titleFingerprint": "0e70d59458f6f185b0e4cd8d4f680d778fe0864b",
+    "dedupKeys": [
+      "adde99ea3334e7bdc822ddea2cfed245c0f213a9",
+      "0e70d59458f6f185b0e4cd8d4f680d778fe0864b",
+      "9f6c89a4416ef97ca095f9fc4a60bc4f004b4d0e"
+    ],
+    "imageUrl": "/images/articles/adde99ea3334.jpg",
+    "i18n": {
+      "ko": {
+        "title": "가온전선 1분기 영업익 278억원 역대 최고, 美 AI 데이터센터 수요 수혜",
+        "excerpt": "가온전선이 올해 1분기 미국 AI 데이터센터 확대에 따른 수출 증가와 미국 생산법인 성장에 힘입어 영업이익 278억원의 역대 최고 실적을 기록했다.",
+        "body": "가온전선은 올해 1분기 영업이익 278억원을 기록하며 분기 기준 역대 최고 실적을 냈다. 미국 인공지능 데이터센터 확대에 따른 수출 증가와 미국 생산법인의 본격적인 성장세가 실적 개선을 이끈 것으로 전해졌다. 특히 미국 빅테크 기업을 대상으로 한 버스덕트 공급 확대가 핵심 요인으로 언급됐다. AI 데이터센터 투자가 늘면서 관련 전력 인프라 수요가 커진 점이 가온전선의 수출과 현지 법인 성장에 긍정적으로 작용했다. 향후 실적 흐름은 미국 AI 데이터센터 수요와 버스덕트 공급 확대 추이에 영향을 받을 전망이다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Gaon Cable posts record Q1 operating profit of 27.8 billion won on US AI data center demand",
+        "excerpt": "Gaon Cable recorded its highest-ever quarterly operating profit of 27.8 billion won in Q1, helped by exports tied to US AI data center expansion and growth at its US production unit.",
+        "body": "Gaon Cable reported operating profit of 27.8 billion won for the first quarter, marking its highest quarterly result on record. The performance was driven by increased exports linked to the expansion of artificial intelligence data centers in the United States and full-scale growth at its US production subsidiary. A key factor cited was expanded bus duct supply to major US big tech companies. As investment in AI data centers grows, demand for related power infrastructure has also increased, benefiting Gaon Cable’s exports and local US operations. Future performance is expected to be influenced by US AI data center demand and the pace of bus duct supply expansion. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "ガオン電線、1Q営業益278億ウォンで過去最高 米AIデータセンター需要が追い風",
+        "excerpt": "ガオン電線は今年1～3月期、米国AIデータセンター拡大に伴う輸出増と米国生産法人の成長を受け、営業利益278億ウォンの過去最高実績を記録した。",
+        "body": "ガオン電線は今年第1四半期に営業利益278億ウォンを計上し、四半期ベースで過去最高の業績を記録した。米国の人工知能データセンター拡大に伴う輸出増加と、米国生産法人の本格的な成長が業績改善を支えたとされる。特に、米国の大手テック企業向けバスダクト供給の拡大が主な要因として挙げられた。AIデータセンター投資の増加により関連電力インフラ需要が拡大し、ガオン電線の輸出と現地法人の成長にプラスに作用した。今後の業績は米国AIデータセンター需要とバスダクト供給拡大の動向に左右される見通しだ。出典: mk.co.kr。"
+      },
+      "zh": {
+        "title": "Gaon Cable一季度营业利润278亿韩元创新高，受益美国AI数据中心需求",
+        "excerpt": "Gaon Cable今年一季度受美国AI数据中心扩张带来的出口增加及美国生产法人增长推动，营业利润达278亿韩元，创历史最高水平。",
+        "body": "Gaon Cable今年第一季度实现营业利润278亿韩元，创下季度业绩历史新高。据悉，美国人工智能数据中心扩张带来的出口增加，以及美国生产法人的正式增长，推动了业绩改善。其中，面向美国大型科技企业的母线槽供应扩大被提及为核心因素。随着AI数据中心投资增加，相关电力基础设施需求扩大，对Gaon Cable的出口和当地法人增长产生了积极影响。未来业绩走势预计将受到美国AI数据中心需求和母线槽供应扩大进展的影响。来源: mk.co.kr。"
+      },
+      "es": {
+        "title": "Gaon Cable logra beneficio operativo récord de 27.800 millones de wones en el 1T por demanda de centros de datos de IA en EE. UU.",
+        "excerpt": "Gaon Cable registró en el primer trimestre un beneficio operativo récord de 27.800 millones de wones, impulsado por mayores exportaciones ligadas a centros de datos de IA en EE. UU. y su filial local.",
+        "body": "Gaon Cable registró en el primer trimestre un beneficio operativo de 27.800 millones de wones, su mejor resultado trimestral histórico. La mejora se atribuyó al aumento de exportaciones por la expansión de centros de datos de inteligencia artificial en Estados Unidos y al crecimiento pleno de su filial de producción estadounidense. En particular, se señaló como factor clave la ampliación del suministro de busductos a grandes tecnológicas de EE. UU. El aumento de la inversión en centros de datos de IA elevó la demanda de infraestructura eléctrica relacionada, lo que favoreció las exportaciones de Gaon Cable y el crecimiento de su operación local. La evolución futura dependerá de la demanda estadounidense de centros de datos de IA y de la expansión del suministro de busductos. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Gaon Cable tem lucro operacional recorde de 27,8 bilhões de won no 1º tri com demanda de data centers de IA nos EUA",
+        "excerpt": "A Gaon Cable registrou no 1º trimestre lucro operacional recorde de 27,8 bilhões de won, apoiada por exportações ligadas a data centers de IA nos EUA e crescimento da unidade local.",
+        "body": "A Gaon Cable registrou lucro operacional de 27,8 bilhões de won no primeiro trimestre, o maior resultado trimestral de sua história. O desempenho foi impulsionado pelo aumento das exportações relacionado à expansão de data centers de inteligência artificial nos Estados Unidos e pelo crescimento mais firme de sua unidade de produção norte-americana. A ampliação do fornecimento de busductos para grandes empresas de tecnologia dos EUA foi citada como fator central. Com o avanço dos investimentos em data centers de IA, a demanda por infraestrutura elétrica relacionada aumentou, beneficiando as exportações da Gaon Cable e sua operação local. O desempenho futuro deve ser influenciado pela demanda dos data centers de IA nos EUA e pela expansão do fornecimento de busductos. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Gaon Cable erzielt im 1. Quartal Rekordbetriebsgewinn von 27,8 Mrd. Won dank US-KI-Rechenzentren",
+        "excerpt": "Gaon Cable erreichte im ersten Quartal mit 27,8 Mrd. Won den höchsten Betriebsgewinn seiner Geschichte, gestützt durch Exporte für US-KI-Rechenzentren und Wachstum der US-Produktion.",
+        "body": "Gaon Cable erzielte im ersten Quartal einen Betriebsgewinn von 27,8 Milliarden Won und damit das höchste Quartalsergebnis seiner Geschichte. Als Treiber galten steigende Exporte im Zuge des Ausbaus von Rechenzentren für künstliche Intelligenz in den USA sowie das deutliche Wachstum der US-Produktionsgesellschaft. Besonders die Ausweitung der Busduct-Lieferungen an große US-Technologiekonzerne wurde als zentraler Faktor genannt. Mit zunehmenden Investitionen in KI-Rechenzentren wächst auch die Nachfrage nach entsprechender Strominfrastruktur, was Gaon Cables Exporten und der lokalen US-Einheit zugutekam. Der weitere Geschäftsverlauf dürfte von der Nachfrage nach US-KI-Rechenzentren und der Ausweitung der Busduct-Lieferungen abhängen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Gaon Cable affiche un bénéfice opérationnel record de 27,8 milliards de wons au T1 grâce aux data centers IA américains",
+        "excerpt": "Gaon Cable a signé au premier trimestre un bénéfice opérationnel record de 27,8 milliards de wons, porté par les exportations liées aux data centers IA aux États-Unis et sa filiale locale.",
+        "body": "Gaon Cable a enregistré au premier trimestre un bénéfice opérationnel de 27,8 milliards de wons, son plus haut niveau trimestriel historique. Cette performance a été soutenue par la hausse des exportations liée à l’expansion des centres de données d’intelligence artificielle aux États-Unis et par la croissance plus marquée de sa filiale de production américaine. L’élargissement de la fourniture de busducts aux grandes entreprises technologiques américaines a été cité comme un facteur clé. La progression des investissements dans les data centers IA accroît la demande d’infrastructures électriques connexes, ce qui a favorisé les exportations de Gaon Cable et sa filiale locale. Les résultats à venir dépendront de la demande américaine en data centers IA et de l’expansion des livraisons de busducts. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "غاون كابل تسجل ربحا تشغيليا قياسيا في الربع الأول بدعم طلب مراكز بيانات الذكاء الاصطناعي الأميركية",
+        "excerpt": "سجلت غاون كابل في الربع الأول ربحا تشغيليا قياسيا بلغ 27.8 مليار وون، مدعوما بزيادة الصادرات المرتبطة بمراكز بيانات الذكاء الاصطناعي في الولايات المتحدة ونمو وحدتها الأميركية.",
+        "body": "أعلنت غاون كابل عن ربح تشغيلي بلغ 27.8 مليار وون في الربع الأول من هذا العام، وهو أعلى أداء فصلي في تاريخها. وجاء التحسن مدفوعا بزيادة الصادرات الناتجة عن توسع مراكز بيانات الذكاء الاصطناعي في الولايات المتحدة، إلى جانب النمو الفعلي لوحدة الإنتاج الأميركية. وذُكر أن توسيع توريد قنوات توزيع الطاقة لشركات التكنولوجيا الكبرى في الولايات المتحدة كان عاملا رئيسيا. ومع ارتفاع الاستثمار في مراكز بيانات الذكاء الاصطناعي، زاد الطلب على البنية التحتية الكهربائية المرتبطة بها، ما انعكس إيجابا على صادرات غاون كابل ونمو وحدتها المحلية. ومن المتوقع أن يتأثر الأداء المقبل بطلب مراكز بيانات الذكاء الاصطناعي في الولايات المتحدة وتوسع توريد قنوات توزيع الطاقة. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "Gaon Cable का पहली तिमाही परिचालन लाभ 27.8 अरब वोन के रिकॉर्ड पर, अमेरिकी AI डेटा सेंटर मांग से फायदा",
+        "excerpt": "Gaon Cable ने पहली तिमाही में 27.8 अरब वोन का अब तक का सबसे ऊंचा परिचालन लाभ दर्ज किया, जिसे अमेरिकी AI डेटा सेंटर विस्तार से जुड़ी निर्यात वृद्धि और अमेरिकी उत्पादन इकाई के विकास से समर्थन मिला।",
+        "body": "Gaon Cable ने इस वर्ष की पहली तिमाही में 27.8 अरब वोन का परिचालन लाभ दर्ज किया, जो तिमाही आधार पर उसका अब तक का सर्वोच्च प्रदर्शन है। कंपनी के प्रदर्शन में सुधार का कारण अमेरिका में कृत्रिम बुद्धिमत्ता डेटा सेंटरों के विस्तार से जुड़ी निर्यात वृद्धि और अमेरिकी उत्पादन इकाई की तेज वृद्धि बताया गया। विशेष रूप से अमेरिकी बड़ी टेक कंपनियों को बसडक्ट आपूर्ति बढ़ना मुख्य कारक के रूप में सामने आया। AI डेटा सेंटरों में निवेश बढ़ने से संबंधित बिजली अवसंरचना की मांग भी बढ़ी, जिससे Gaon Cable के निर्यात और स्थानीय इकाई की वृद्धि को लाभ मिला। आगे का प्रदर्शन अमेरिकी AI डेटा सेंटर मांग और बसडक्ट आपूर्ति विस्तार की गति से प्रभावित हो सकता है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Gaon Cable cetak laba operasi kuartal I rekor 27,8 miliar won berkat permintaan pusat data AI AS",
+        "excerpt": "Gaon Cable mencatat laba operasi kuartal I tertinggi sepanjang sejarah sebesar 27,8 miliar won, didukung ekspor terkait ekspansi pusat data AI di AS dan pertumbuhan unit produksi Amerika.",
+        "body": "Gaon Cable mencatat laba operasi 27,8 miliar won pada kuartal pertama tahun ini, menjadi kinerja kuartalan tertinggi sepanjang sejarah perusahaan. Peningkatan tersebut didorong oleh kenaikan ekspor seiring perluasan pusat data kecerdasan buatan di Amerika Serikat serta pertumbuhan yang mulai kuat dari anak usaha produksi di AS. Perluasan pasokan busduct kepada perusahaan teknologi besar AS disebut sebagai faktor utama. Ketika investasi pusat data AI meningkat, permintaan terhadap infrastruktur kelistrikan terkait ikut bertambah, memberi dampak positif bagi ekspor Gaon Cable dan pertumbuhan unit lokalnya. Kinerja ke depan diperkirakan akan dipengaruhi oleh permintaan pusat data AI di AS dan laju perluasan pasokan busduct. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "0dbee84fe5ef",
+    "slug": "시노펙스-광산-폐수-시장-진입한국광해광업공단과-친환경-정화설비-공동-개발-186013",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T06:25:59.625Z",
+    "updatedAt": "2026-05-15T06:25:59.625Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049149",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049149",
+    "titleFingerprint": "3bee94d6b950cbcc2f7a21c8a7ef071265ff5d5f",
+    "dedupKeys": [
+      "0dbee84fe5ef61462981272888e03964ee260b0a",
+      "3bee94d6b950cbcc2f7a21c8a7ef071265ff5d5f",
+      "a5a45d81af3030a4cf2ca5ba25ec02c46490d40c"
+    ],
+    "imageUrl": "/images/articles/0dbee84fe5ef.png",
+    "i18n": {
+      "ko": {
+        "title": "시노펙스, 광산 폐수 시장 진입…KOMIR와 폐광지역 친환경 정화설비 공동 개발",
+        "excerpt": "시노펙스의 100% 자회사 시노펙스멤브레인이 한국광해광업공단과 손잡고 폐광지역 환경개선을 위한 친환경 광산배수 정화시스템 공동 개발에 나선다.",
+        "body": "시노펙스가 광산 폐수 시장에 진입한다. 시노펙스의 100% 자회사인 시노펙스멤브레인은 한국광해광업공단(KOMIR)과 협력해 폐광지역의 환경개선을 위한 친환경 광산배수 정화시스템을 공동 개발하기로 했다. 이번 협력은 광산배수 정화 설비 개발을 통해 폐광지역에서 발생하는 환경 문제에 대응하려는 목적이다. 시노펙스멤브레인은 시노펙스가 전액 보유한 자회사로, 이번 개발 참여를 통해 기존 사업 역량을 광산배수 정화 분야로 넓히는 계기를 마련했다. 향후 양측의 공동 개발 결과는 폐광지역 환경개선과 관련 정화설비 시장 진입 가능성을 가늠하는 기준이 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Synopex Enters Mine Wastewater Market With KOMIR Eco-Friendly System Project",
+        "excerpt": "Synopex Membrane, a wholly owned subsidiary of Synopex, will jointly develop an eco-friendly mine drainage purification system with KOMIR to improve the environment in abandoned mining areas.",
+        "body": "Synopex is entering the mine wastewater market. Synopex Membrane, a 100% subsidiary of Synopex, has agreed to work with the Korea Mine Rehabilitation and Mineral Resources Corporation (KOMIR) to jointly develop an eco-friendly mine drainage purification system for environmental improvement in abandoned mining areas. The cooperation aims to respond to environmental issues in former mine regions through the development of mine drainage purification equipment. As a wholly owned subsidiary, Synopex Membrane is using this project to expand its business capabilities into mine drainage treatment. The outcome of the joint development is expected to serve as a measure of its potential entry into the related purification equipment market. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "シノペックス、鉱山廃水市場へ参入…KOMIRと環境配慮型浄化設備を共同開発",
+        "excerpt": "シノペックスの100％子会社シノペックスメンブレンは、KOMIRと協力し、廃鉱地域の環境改善に向けた環境配慮型鉱山排水浄化システムを共同開発する。",
+        "body": "シノペックスが鉱山廃水市場に参入する。シノペックスの100％子会社であるシノペックスメンブレンは、韓国鉱害鉱業公団（KOMIR）と連携し、廃鉱地域の環境改善に向けた環境配慮型鉱山排水浄化システムを共同開発することになった。今回の協力は、鉱山排水浄化設備の開発を通じて、廃鉱地域で発生する環境問題に対応することを目的としている。シノペックスメンブレンは、シノペックスが全額出資する子会社であり、今回の開発参加を通じて既存の事業能力を鉱山排水浄化分野へ広げる契機を得た。共同開発の成果は、廃鉱地域の環境改善と関連浄化設備市場への参入可能性を測る基準になる見通しだ。出典：mk.co.kr"
+      },
+      "zh": {
+        "title": "Synopex进军矿山废水市场，与KOMIR共同开发环保净化设备",
+        "excerpt": "Synopex全资子公司Synopex Membrane将与韩国矿害矿业公团合作，共同开发用于废矿地区环境改善的环保型矿山排水净化系统。",
+        "body": "Synopex正在进军矿山废水市场。其100%控股子公司Synopex Membrane将与韩国矿害矿业公团（KOMIR）合作，共同开发用于废矿地区环境改善的环保型矿山排水净化系统。此次合作旨在通过开发矿山排水净化设备，应对废矿地区产生的环境问题。Synopex Membrane是Synopex全资持有的子公司，借助本次开发项目，公司将把既有业务能力延伸至矿山排水净化领域。双方共同开发的成果，预计将成为衡量废矿地区环境改善以及进入相关净化设备市场可能性的依据。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "Synopex entra en aguas residuales mineras con KOMIR y un sistema ecológico",
+        "excerpt": "Synopex Membrane, filial al 100% de Synopex, desarrollará con KOMIR un sistema ecológico de purificación de drenaje minero para mejorar el entorno de zonas de minas abandonadas.",
+        "body": "Synopex entra en el mercado de aguas residuales mineras. Synopex Membrane, filial al 100% de Synopex, acordó colaborar con la Korea Mine Rehabilitation and Mineral Resources Corporation (KOMIR) para desarrollar conjuntamente un sistema ecológico de purificación de drenaje minero destinado a mejorar el entorno de zonas de minas abandonadas. La cooperación busca responder a los problemas ambientales de esas áreas mediante el desarrollo de equipos de purificación de drenaje minero. Como filial de propiedad total, Synopex Membrane utilizará este proyecto para ampliar sus capacidades hacia el tratamiento de drenaje minero. El resultado del desarrollo conjunto servirá para evaluar la mejora ambiental y la posibilidad de entrada en el mercado de equipos relacionados. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Synopex entra no mercado de efluentes de mineração com projeto ecológico da KOMIR",
+        "excerpt": "A Synopex Membrane, subsidiária integral da Synopex, desenvolverá com a KOMIR um sistema ecológico de purificação de drenagem de minas para melhorar áreas de minas desativadas.",
+        "body": "A Synopex está entrando no mercado de efluentes de mineração. A Synopex Membrane, subsidiária 100% controlada pela Synopex, firmou cooperação com a Korea Mine Rehabilitation and Mineral Resources Corporation (KOMIR) para desenvolver conjuntamente um sistema ecológico de purificação de drenagem de minas voltado à melhoria ambiental de áreas de minas desativadas. A parceria tem como objetivo responder a problemas ambientais nessas regiões por meio do desenvolvimento de equipamentos de purificação de drenagem de minas. Como subsidiária integral, a Synopex Membrane usa o projeto para ampliar suas capacidades para o campo de tratamento de drenagem de minas. O resultado do desenvolvimento conjunto deverá indicar o potencial de entrada no mercado relacionado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Synopex steigt mit KOMIR-Projekt für umweltfreundliche Minenwasserreinigung ein",
+        "excerpt": "Synopex Membrane, eine hundertprozentige Tochter von Synopex, entwickelt mit KOMIR ein umweltfreundliches Reinigungssystem für Minenwasser zur Verbesserung stillgelegter Bergbauregionen.",
+        "body": "Synopex steigt in den Markt für Minenabwässer ein. Synopex Membrane, eine 100%ige Tochtergesellschaft von Synopex, wird gemeinsam mit der Korea Mine Rehabilitation and Mineral Resources Corporation (KOMIR) ein umweltfreundliches Reinigungssystem für Minenwasser entwickeln, um die Umwelt in stillgelegten Bergbauregionen zu verbessern. Die Zusammenarbeit soll durch die Entwicklung entsprechender Reinigungsanlagen auf Umweltprobleme in ehemaligen Minengebieten reagieren. Synopex Membrane ist vollständig im Besitz von Synopex und erhält durch das Projekt die Möglichkeit, bestehende Geschäftskompetenzen auf die Minenwasserreinigung auszuweiten. Die Ergebnisse der gemeinsamen Entwicklung dürften als Maßstab für Umweltverbesserungen und einen möglichen Markteintritt bei entsprechenden Anlagen dienen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Synopex entre dans les eaux minières avec KOMIR et un système écologique",
+        "excerpt": "Synopex Membrane, filiale à 100% de Synopex, développera avec KOMIR un système écologique de purification des eaux de drainage minier pour améliorer les zones de mines abandonnées.",
+        "body": "Synopex entre sur le marché des eaux usées minières. Synopex Membrane, filiale détenue à 100% par Synopex, va collaborer avec la Korea Mine Rehabilitation and Mineral Resources Corporation (KOMIR) afin de développer conjointement un système écologique de purification des eaux de drainage minier destiné à améliorer l’environnement dans les zones de mines abandonnées. Cette coopération vise à répondre aux problèmes environnementaux de ces régions grâce au développement d’équipements de purification. En tant que filiale intégralement détenue, Synopex Membrane utilisera ce projet pour élargir ses capacités au traitement des eaux de drainage minier. Les résultats du développement conjoint devraient servir de repère pour l’amélioration environnementale et l’entrée possible sur ce marché. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "سينوبكس تدخل سوق مياه المناجم بالشراكة مع KOMIR لتطوير نظام تنقية صديق للبيئة",
+        "excerpt": "ستعمل سينوبكس ممبرين، التابعة بالكامل لسينوبكس، مع مؤسسة KOMIR على تطوير نظام صديق للبيئة لتنقية تصريف المناجم بهدف تحسين بيئة مناطق المناجم المهجورة.",
+        "body": "تدخل سينوبكس سوق مياه الصرف الناتجة عن المناجم. فقد اتفقت سينوبكس ممبرين، وهي شركة تابعة مملوكة بنسبة 100% لسينوبكس، على التعاون مع مؤسسة كوريا لإعادة تأهيل المناجم والموارد المعدنية (KOMIR) لتطوير نظام صديق للبيئة لتنقية تصريف المناجم من أجل تحسين البيئة في مناطق المناجم المهجورة. يهدف هذا التعاون إلى التعامل مع المشكلات البيئية في تلك المناطق عبر تطوير معدات لتنقية تصريف المناجم. وبصفتها شركة تابعة مملوكة بالكامل، ستستخدم سينوبكس ممبرين هذا المشروع لتوسيع قدراتها إلى مجال تنقية تصريف المناجم. ومن المتوقع أن تكون نتائج التطوير المشترك معيارا لتقييم تحسين البيئة وإمكان دخول سوق معدات التنقية ذات الصلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Synopex खनन अपशिष्ट जल बाजार में उतरी, KOMIR के साथ हरित शोधन प्रणाली विकसित करेगी",
+        "excerpt": "Synopex की पूर्ण स्वामित्व वाली सहायक Synopex Membrane, KOMIR के साथ मिलकर बंद खदान क्षेत्रों के पर्यावरण सुधार के लिए पर्यावरण अनुकूल खदान जल शोधन प्रणाली विकसित करेगी।",
+        "body": "Synopex खनन अपशिष्ट जल बाजार में प्रवेश कर रही है। Synopex की 100% स्वामित्व वाली सहायक कंपनी Synopex Membrane ने Korea Mine Rehabilitation and Mineral Resources Corporation (KOMIR) के साथ मिलकर बंद खदान क्षेत्रों के पर्यावरण सुधार के लिए पर्यावरण अनुकूल खदान जल शोधन प्रणाली विकसित करने पर सहमति दी है। इस सहयोग का उद्देश्य खदान जल शोधन उपकरणों के विकास के जरिए बंद खदान क्षेत्रों में उत्पन्न पर्यावरणीय समस्याओं से निपटना है। Synopex Membrane, Synopex की पूर्ण स्वामित्व वाली सहायक है और इस परियोजना के माध्यम से अपनी मौजूदा व्यावसायिक क्षमता को खदान जल शोधन क्षेत्र तक बढ़ाएगी। संयुक्त विकास के परिणाम बंद खदान क्षेत्रों के पर्यावरण सुधार और संबंधित शोधन उपकरण बाजार में प्रवेश की संभावना को परखने का आधार बनेंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Synopex Masuk Pasar Air Limbah Tambang, Gandeng KOMIR Kembangkan Sistem Hijau",
+        "excerpt": "Synopex Membrane, anak usaha yang 100% dimiliki Synopex, akan mengembangkan sistem pemurnian drainase tambang ramah lingkungan bersama KOMIR untuk memperbaiki lingkungan area tambang terbengkalai.",
+        "body": "Synopex memasuki pasar air limbah tambang. Synopex Membrane, anak perusahaan yang 100% dimiliki Synopex, bekerja sama dengan Korea Mine Rehabilitation and Mineral Resources Corporation (KOMIR) untuk mengembangkan sistem pemurnian drainase tambang ramah lingkungan bagi perbaikan lingkungan di area tambang terbengkalai. Kerja sama ini bertujuan menangani masalah lingkungan di wilayah bekas tambang melalui pengembangan peralatan pemurnian drainase tambang. Sebagai anak usaha yang sepenuhnya dimiliki Synopex, Synopex Membrane menjadikan proyek ini sebagai langkah untuk memperluas kemampuan bisnisnya ke bidang pemurnian drainase tambang. Hasil pengembangan bersama tersebut diperkirakan menjadi tolok ukur bagi perbaikan lingkungan dan peluang masuk ke pasar peralatan pemurnian terkait. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "3709aa9cba68",
+    "slug": "ai-시대-hbm-잘-만든다고-끝-아냐장밋빛-반도체-전망-쓴소리-나온-이유-955350",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T06:24:57.603Z",
+    "updatedAt": "2026-05-15T06:24:57.603Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049162",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049162",
+    "titleFingerprint": "96452c2ed8abd8f62169a013fd1ab57e72dbe9ed",
+    "dedupKeys": [
+      "3709aa9cba68f3e52880ab9f8e293950f10dd582",
+      "96452c2ed8abd8f62169a013fd1ab57e72dbe9ed",
+      "d337a4038c016788d4c9338e26a95f7445b2d9fe"
+    ],
+    "imageUrl": "/images/articles/3709aa9cba68.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 반도체 주도권, HBM 생산력만으론 부족하다는 경고 나온 배경",
+        "excerpt": "미국·대만 중심 AI 동맹 재편 속에서 마이크론·TSMC·엔비디아의 밀착이 부각되며, HBM 제조력보다 초기 설계 참여가 더 중요하다는 지적이 나왔다.",
+        "body": "AI 반도체 경쟁이 미국·대만 중심의 ‘AI 동맹’ 재편 속에서 새 국면을 맞고 있다. 마이크론, TSMC, 엔비디아가 밀착하는 흐름이 부각되면서 HBM을 잘 만드는 능력만으로는 주도권을 장담하기 어렵다는 지적이 나온다. 원문은 메모리 병목 문제가 결국 해결될 과제인 만큼, 경쟁의 핵심이 누가 더 잘 만드느냐보다 초기 설계 단계에 얼마나 깊이 참여하느냐로 옮겨가고 있다고 전했다. 이는 장밋빛 반도체 전망 속에서도 한국 기업들이 제조 경쟁력에만 의존해서는 안 된다는 경고로 해석된다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "AI chip leadership warning: HBM strength alone may not be enough",
+        "excerpt": "As the AI alliance shifts around the U.S. and Taiwan, closer ties among Micron, TSMC and Nvidia are raising warnings that early design involvement matters more than HBM output alone.",
+        "body": "The race for AI semiconductor leadership is entering a new phase as the so-called AI alliance reorganizes around the United States and Taiwan. Closer cooperation among Micron, TSMC and Nvidia is drawing attention, while critics warn that simply making high-quality HBM may not be enough to secure leadership. The original report said the memory bottleneck is ultimately a problem to be solved, and that the key competition is moving from who manufactures better to who participates more deeply in the initial design stage. The message is a caution against relying only on manufacturing strength despite optimistic semiconductor forecasts. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "AI半導体の主導権、HBM製造力だけでは不十分との警告",
+        "excerpt": "米国・台湾中心のAI同盟再編の中で、マイクロン、TSMC、エヌビディアの接近が注目され、HBM製造力より初期設計への関与が重要との指摘が出ている。",
+        "body": "AI半導体の主導権争いは、米国・台湾を中心とする「AI同盟」の再編の中で新たな局面を迎えている。マイクロン、TSMC、エヌビディアの密接な連携が浮上し、HBMをうまく作る能力だけでは主導権を保証できないとの見方が出ている。原文は、メモリーのボトルネック問題はいずれ解決される課題であり、競争の核心は誰がよりよく作るかではなく、初期設計段階にどれだけ深く関与するかへ移っていると伝えた。楽観的な半導体見通しの中でも、製造競争力だけに依存してはならないという警告と受け止められる。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "AI芯片主导权警示：仅靠HBM制造能力或已不够",
+        "excerpt": "在以美国和台湾为中心的AI联盟重组中，美光、台积电与英伟达的紧密合作受到关注，业界指出初期设计参与比单纯HBM制造更关键。",
+        "body": "随着以美国和台湾为中心的“AI联盟”重组，AI半导体主导权竞争进入新阶段。美光、台积电和英伟达的紧密合作受到关注，也引发了仅凭高质量HBM制造能力难以确保主导权的警示。原文指出，内存瓶颈问题终究是需要解决的课题，因此竞争核心正从谁制造得更好，转向谁能在初期设计阶段更深入参与。这意味着，即使半导体前景被看好，企业也不能只依赖制造竞争力。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Liderazgo en chips de IA: por qué fabricar buen HBM ya no bastaría",
+        "excerpt": "Con la alianza de IA reordenándose en torno a EE. UU. y Taiwán, la cercanía entre Micron, TSMC y Nvidia refuerza la idea de que el diseño inicial pesa más que fabricar HBM.",
+        "body": "La competencia por el liderazgo en semiconductores de IA entra en una nueva etapa con la reorganización de la llamada alianza de IA alrededor de Estados Unidos y Taiwán. La mayor cercanía entre Micron, TSMC y Nvidia gana atención, mientras surgen advertencias de que fabricar HBM de alta calidad por sí solo no garantiza el liderazgo. El texto original señaló que el cuello de botella de memoria es un problema que finalmente deberá resolverse, por lo que el eje de la competencia pasa de quién fabrica mejor a quién participa más profundamente en la etapa inicial de diseño. Es una advertencia frente a las previsiones optimistas del sector. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Chips de IA: por que fabricar bom HBM pode não bastar para liderar",
+        "excerpt": "Com a aliança de IA se reorganizando em torno dos EUA e de Taiwan, a aproximação entre Micron, TSMC e Nvidia destaca que o desenho inicial pode pesar mais que o HBM.",
+        "body": "A disputa pela liderança em semicondutores de IA entra em uma nova fase com a reorganização da chamada aliança de IA em torno dos Estados Unidos e de Taiwan. A maior proximidade entre Micron, TSMC e Nvidia chama atenção, enquanto surgem alertas de que apenas fabricar HBM de alta qualidade pode não garantir protagonismo. O texto original afirmou que o gargalo de memória é um problema que acabará sendo resolvido, e que o centro da competição passa de quem fabrica melhor para quem participa mais profundamente da etapa inicial de desenho. A mensagem serve como cautela diante das previsões otimistas para semicondutores. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "KI-Chips: Warum starke HBM-Fertigung allein nicht mehr reicht",
+        "excerpt": "Während sich die KI-Allianz um die USA und Taiwan neu formiert, rücken Micron, TSMC und Nvidia enger zusammen. Entscheidend wird laut Bericht die frühe Designphase, nicht nur HBM.",
+        "body": "Der Wettbewerb um die Führungsrolle bei KI-Halbleitern tritt in eine neue Phase, während sich die sogenannte KI-Allianz um die USA und Taiwan neu ordnet. Die engere Verbindung zwischen Micron, TSMC und Nvidia steht im Fokus, zugleich gibt es Warnungen, dass hochwertige HBM-Fertigung allein keine Führungsposition sichert. Der Originalbericht betonte, dass der Speicherengpass letztlich ein zu lösendes Problem sei. Der Kern des Wettbewerbs verschiebt sich damit von der Frage, wer besser fertigt, hin zu der Frage, wer schon in der frühen Designphase tiefer eingebunden ist. Das gilt als Mahnung trotz optimistischer Halbleiterprognosen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Puces IA : pourquoi bien produire du HBM ne suffirait plus",
+        "excerpt": "Alors que l’alliance IA se réorganise autour des États-Unis et de Taïwan, les liens entre Micron, TSMC et Nvidia soulignent l’importance d’intervenir dès la conception initiale.",
+        "body": "La course au leadership dans les semi-conducteurs d’IA entre dans une nouvelle phase avec la réorganisation de l’« alliance IA » autour des États-Unis et de Taïwan. Le rapprochement entre Micron, TSMC et Nvidia attire l’attention, tandis que des avertissements soulignent que produire un HBM performant ne suffit pas à garantir la domination. Le texte original indique que le goulot d’étranglement de la mémoire est un problème qui devra finir par être résolu. Le cœur de la concurrence se déplace donc de la capacité à mieux fabriquer vers la profondeur de la participation dès la phase de conception initiale. C’est une mise en garde malgré les perspectives optimistes du secteur. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "قيادة رقائق الذكاء الاصطناعي: لماذا لا يكفي تصنيع HBM جيد",
+        "excerpt": "مع إعادة تشكل تحالف الذكاء الاصطناعي حول الولايات المتحدة وتايوان، يبرز تقارب ميكرون وTSMC وإنفيديا، وتزداد أهمية المشاركة في التصميم الأولي لا التصنيع فقط.",
+        "body": "تدخل المنافسة على قيادة أشباه موصلات الذكاء الاصطناعي مرحلة جديدة مع إعادة ترتيب ما يسمى بتحالف الذكاء الاصطناعي حول الولايات المتحدة وتايوان. ويبرز تقارب ميكرون وTSMC وإنفيديا، فيما تظهر تحذيرات من أن تصنيع HBM بجودة عالية وحده لا يضمن موقع الصدارة. وذكر النص الأصلي أن اختناق الذاكرة مشكلة سيجري حلها في النهاية، لذلك ينتقل جوهر المنافسة من سؤال من يصنع بشكل أفضل إلى من يشارك بعمق أكبر في مرحلة التصميم الأولية. وتُقرأ الرسالة كتحذير من الاعتماد على قوة التصنيع فقط رغم التوقعات المتفائلة للقطاع. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "AI चिप नेतृत्व की दौड़ में HBM बनाना ही क्यों काफी नहीं",
+        "excerpt": "अमेरिका और ताइवान केंद्रित AI गठबंधन के पुनर्गठन के बीच माइक्रोन, TSMC और एनवीडिया की नजदीकी दिखाती है कि शुरुआती डिजाइन भागीदारी HBM निर्माण से अधिक अहम हो सकती है।",
+        "body": "AI सेमीकंडक्टर नेतृत्व की दौड़ अमेरिका और ताइवान केंद्रित ‘AI गठबंधन’ के पुनर्गठन के बीच नए चरण में पहुंच रही है। माइक्रोन, TSMC और एनवीडिया की बढ़ती निकटता पर ध्यान है, जबकि यह चेतावनी भी सामने आई है कि केवल अच्छी गुणवत्ता वाला HBM बनाना नेतृत्व सुनिश्चित नहीं करता। मूल रिपोर्ट के अनुसार मेमोरी bottleneck अंततः हल किया जाने वाला मुद्दा है, इसलिए प्रतिस्पर्धा का केंद्र यह नहीं रहेगा कि कौन बेहतर बनाता है, बल्कि यह होगा कि शुरुआती डिजाइन चरण में कौन कितनी गहराई से शामिल है। यह आशावादी सेमीकंडक्टर 전망 के बीच केवल विनिर्माण क्षमता पर निर्भर न रहने की चेतावनी है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Kepemimpinan chip AI: mengapa HBM bagus saja belum cukup",
+        "excerpt": "Saat aliansi AI bergeser di sekitar AS dan Taiwan, kedekatan Micron, TSMC, dan Nvidia menyoroti bahwa keterlibatan desain awal bisa lebih penting daripada produksi HBM.",
+        "body": "Persaingan kepemimpinan semikonduktor AI memasuki babak baru ketika aliansi AI disusun ulang dengan pusat pada Amerika Serikat dan Taiwan. Kedekatan Micron, TSMC, dan Nvidia menjadi sorotan, sementara muncul peringatan bahwa kemampuan membuat HBM berkualitas saja belum tentu menjamin posisi terdepan. Teks asli menyebut masalah bottleneck memori pada akhirnya adalah tugas yang akan diselesaikan. Karena itu, inti persaingan bergeser dari siapa yang membuat lebih baik menjadi siapa yang terlibat lebih dalam sejak tahap desain awal. Pesan ini menjadi peringatan agar tidak hanya mengandalkan daya saing manufaktur di tengah proyeksi semikonduktor yang optimistis. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "5901cc4bc6ed",
     "slug": "속보-삼성전자-사장단-조건없이-임할-것노조도-대화-나서달라-735054",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Kakao Mobility Kejar Listing ADR AS Tahun Ini, Akses Investor Jadi Sorotan",
         "excerpt": "Kakao Mobility mendorong rencana listing ADR di Amerika Serikat tahun ini, menurut hankyung.com, sebagai langkah menuju pasar modal luar negeri.",
         "body": "Kakao Mobility mendorong rencana listing ADR di Amerika Serikat dalam tahun ini, menurut laporan hankyung.com. ADR, atau American Depositary Receipt, memungkinkan saham perusahaan asing diperdagangkan di pasar AS, sehingga dapat memperluas kontak perusahaan dengan investor Amerika jika proses listing berjalan. Informasi utama yang dikonfirmasi dalam teks asli adalah bahwa Kakao Mobility menargetkan listing ADR AS sebelum akhir tahun. Rincian seperti jadwal, ukuran penerbitan, penjamin emisi, dan valuasi perusahaan tidak disebutkan. Langkah ini menunjukkan kemungkinan pemanfaatan pasar modal luar negeri, sementara perhatian berikutnya tertuju pada prosedur resmi dan pengungkapan tambahan. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "d160725874e8",
-    "slug": "증시랠리-올라탄-국민연금보름-만에-50조-더-벌었다-120125",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T16:26:02.291Z",
-    "updatedAt": "2026-05-14T16:26:02.291Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051472511",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051472511",
-    "titleFingerprint": "e68ea62643268f8d907e1a006571026a83d3377c",
-    "dedupKeys": [
-      "d160725874e88fd8ac03e304cf67da1b5a34a7fe",
-      "e68ea62643268f8d907e1a006571026a83d3377c",
-      "4a621625e44b1451936aedbbb5d042b9fc17f944"
-    ],
-    "imageUrl": "/images/articles/d160725874e8.png",
-    "i18n": {
-      "ko": {
-        "title": "국민연금 1800조원 돌파, 증시 랠리 타고 보름 새 50조 추가 수익",
-        "excerpt": "국민연금은 5월 14일 기금 적립금이 1800조원에 이르렀고, 반도체 중심 코스피 랠리 영향으로 보름 만에 운용수익 약 50조원을 더했다.",
-        "body": "국민연금 기금 적립금이 5월 14일 1800조원을 달성한 것으로 전해졌다. 반도체주를 중심으로 한 코스피 랠리에 힘입어 보름 새 운용수익만 약 50조원 늘었다. 지난해 말 적립금 1458조원과 비교하면 넉 달여 만에 340조원 넘게 증가했으며, 보험료 납입 등 현금 유입을 제외한 올해 운용수익도 300조원 안팎으로 집계됐다. 누적 수익률은 20%를 넘어섰고 국내주식 수익률은 90%대에 이른 것으로 파악된다. 지난해 운용수익 231조6000억원과 수익률 18.82%를 이미 웃도는 흐름이다. 다만 국내주식 비중이 올해 목표치 14.9%를 10%포인트 이상 웃돌면서 리밸런싱 부담도 커졌다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "National Pension Fund Hits 1,800 Trillion Won After Stock Rally Adds 50 Trillion",
-        "excerpt": "South Korea’s National Pension Service reached 1,800 trillion won on May 14 as a semiconductor-led KOSPI rally added about 50 trillion won in investment gains in just 15 days.",
-        "body": "South Korea’s National Pension Service was reported to have reached 1,800 trillion won in fund reserves on May 14. Helped by a KOSPI rally led by semiconductor stocks, investment gains rose by about 50 trillion won in only 15 days. Compared with 1,458 trillion won at the end of last year, reserves increased by more than 340 trillion won in just over four months. Excluding cash inflows such as premium payments, investment gains this year were estimated at around 300 trillion won. The cumulative return has surpassed 20%, while domestic equity returns were understood to be in the 90% range. This already exceeds last year’s 231.6 trillion won in investment gains and 18.82% return. However, the domestic stock allocation is reportedly more than 10 percentage points above this year’s 14.9% target, increasing rebalancing pressure. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "国民年金基金が1800兆ウォン突破、株高で半月に50兆ウォン追加収益",
-        "excerpt": "韓国の国民年金は5月14日、基金積立金が1800兆ウォンに達し、半導体株主導のKOSPI上昇で半月に約50兆ウォンの運用益を追加した。",
-        "body": "韓国の国民年金基金の積立金は5月14日、1800兆ウォンに達したと伝えられた。半導体株を中心とするKOSPIの上昇を受け、半月で運用益だけが約50兆ウォン増えた。昨年末の積立金1458兆ウォンと比べると、4カ月余りで340兆ウォン超の増加となる。保険料納付などの現金流入を除いた今年の運用益も300兆ウォン前後と見られる。累積収益率は20%を超え、国内株式の収益率は90%台に達したと把握されている。昨年の運用益231兆6000億ウォン、収益率18.82%をすでに上回る流れだ。一方、国内株式比率は今年の目標14.9%を10ポイント以上上回るとされ、リバランス負担も高まっている。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "韩国国民年金突破1800万亿韩元，股市上涨半月增赚50万亿",
-        "excerpt": "韩国国民年金5月14日基金积累额达到1800万亿韩元，受半导体股带动的KOSPI上涨影响，半个月新增约50万亿韩元投资收益。",
-        "body": "据报道，韩国国民年金基金积累额在5月14日达到1800万亿韩元。受以半导体股为中心的KOSPI上涨带动，仅半个月投资收益就增加约50万亿韩元。与去年底1458万亿韩元相比，四个多月增加超过340万亿韩元；若剔除保险费缴纳等现金流入，今年投资收益也约为300万亿韩元。累计收益率已超过20%，国内股票收益率被认为达到90%区间。这一表现已超过去年231.6万亿韩元的投资收益和18.82%的收益率。不过，国内股票配置比例据称比今年14.9%的目标高出10个百分点以上，再平衡压力随之上升。来源: hankyung.com"
-      },
-      "es": {
-        "title": "El fondo nacional de pensiones de Corea llega a 1.800 billones de wones",
-        "excerpt": "El Servicio Nacional de Pensiones de Corea alcanzó el 14 de mayo 1.800 billones de wones, tras sumar unos 50 billones en ganancias por el rally del KOSPI liderado por semiconductores.",
-        "body": "El Servicio Nacional de Pensiones de Corea habría alcanzado el 14 de mayo 1.800 billones de wones en reservas del fondo. Impulsado por el rally del KOSPI centrado en acciones de semiconductores, las ganancias de inversión aumentaron unos 50 billones de wones en solo quince días. Frente a los 1.458 billones de wones de finales del año pasado, las reservas crecieron más de 340 billones en algo más de cuatro meses. Excluyendo entradas de efectivo como cotizaciones, las ganancias de inversión de este año rondan los 300 billones de wones. La rentabilidad acumulada superó el 20%, y la de las acciones locales se situaría en la zona del 90%. El resultado ya supera los 231,6 billones de wones y el 18,82% logrados el año pasado. Sin embargo, el peso de acciones locales supera en más de 10 puntos el objetivo del 14,9%, elevando la presión de rebalanceo. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Fundo nacional de pensões da Coreia chega a 1.800 trilhões de wons",
-        "excerpt": "O Serviço Nacional de Pensões da Coreia atingiu em 14 de maio 1.800 trilhões de wons, após ganhar cerca de 50 trilhões em 15 dias com a alta do KOSPI puxada por semicondutores.",
-        "body": "O Serviço Nacional de Pensões da Coreia teria atingido em 14 de maio 1.800 trilhões de wons em reservas. Com o avanço do KOSPI liderado por ações de semicondutores, os ganhos de investimento aumentaram cerca de 50 trilhões de wons em apenas quinze dias. Em relação aos 1.458 trilhões de wons do fim do ano passado, as reservas cresceram mais de 340 trilhões em pouco mais de quatro meses. Excluindo entradas de caixa como contribuições, os ganhos de investimento neste ano são estimados em torno de 300 trilhões de wons. O retorno acumulado passou de 20%, enquanto o retorno das ações domésticas estaria na faixa de 90%. O desempenho já supera os 231,6 trilhões de wons e o retorno de 18,82% do ano passado. Ainda assim, a fatia de ações domésticas supera em mais de 10 pontos a meta de 14,9%, aumentando a pressão por rebalanceamento. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Koreas National Pension Fund steigt auf 1.800 Billionen Won nach Aktienrally",
-        "excerpt": "Der koreanische National Pension Service erreichte am 14. Mai 1.800 Billionen Won, nachdem die Halbleiter-geführte KOSPI-Rally in 15 Tagen rund 50 Billionen Won Anlagegewinn brachte.",
-        "body": "Der koreanische National Pension Service soll am 14. Mai Fondsreserven von 1.800 Billionen Won erreicht haben. Getragen von einer KOSPI-Rally rund um Halbleiterwerte stiegen allein die Anlagegewinne binnen 15 Tagen um etwa 50 Billionen Won. Gegenüber 1.458 Billionen Won zum Ende des Vorjahres legten die Reserven in gut vier Monaten um mehr als 340 Billionen Won zu. Ohne Mittelzuflüsse wie Beitragszahlungen werden die diesjährigen Anlagegewinne auf rund 300 Billionen Won geschätzt. Die kumulierte Rendite liegt über 20%, die Rendite heimischer Aktien soll im Bereich von 90% liegen. Damit werden die Anlagegewinne von 231,6 Billionen Won und die Rendite von 18,82% aus dem Vorjahr bereits übertroffen. Zugleich liegt die Inlandsaktienquote mehr als 10 Prozentpunkte über dem Ziel von 14,9%, was den Rebalancing-Druck erhöht. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le fonds national de pension coréen atteint 1 800 billions de wons",
-        "excerpt": "Le National Pension Service coréen a atteint le 14 mai 1 800 billions de wons, après environ 50 billions de gains en quinze jours grâce au rally du KOSPI tiré par les semi-conducteurs.",
-        "body": "Le National Pension Service coréen aurait atteint le 14 mai 1 800 billions de wons d’actifs en réserve. Portés par le rally du KOSPI centré sur les valeurs de semi-conducteurs, les gains d’investissement ont augmenté d’environ 50 billions de wons en seulement quinze jours. Par rapport aux 1 458 billions de wons de fin d’année dernière, les réserves ont progressé de plus de 340 billions en un peu plus de quatre mois. Hors entrées de trésorerie comme les cotisations, les gains d’investissement de cette année sont estimés autour de 300 billions de wons. Le rendement cumulé dépasse 20%, tandis que le rendement des actions coréennes serait dans la zone de 90%. La performance dépasse déjà les 231,6 billions de wons de gains et le rendement de 18,82% de l’an passé. Mais la part des actions domestiques dépasserait de plus de 10 points l’objectif de 14,9%, renforçant la pression de rééquilibrage. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صندوق التقاعد الوطني الكوري يبلغ 1,800 تريليون وون بدعم صعود الأسهم",
-        "excerpt": "بلغ صندوق التقاعد الوطني في كوريا في 14 مايو 1,800 تريليون وون، بعدما أضافت موجة صعود كوسبي بقيادة أشباه الموصلات نحو 50 تريليون وون خلال نصف شهر.",
-        "body": "أفادت التقارير بأن احتياطي صندوق التقاعد الوطني الكوري بلغ في 14 مايو 1,800 تريليون وون. وبفضل صعود مؤشر كوسبي بقيادة أسهم أشباه الموصلات، زادت أرباح الاستثمار وحدها بنحو 50 تريليون وون خلال نصف شهر. وبالمقارنة مع 1,458 تريليون وون في نهاية العام الماضي، ارتفع الاحتياطي بأكثر من 340 تريليون وون خلال ما يزيد قليلا على أربعة أشهر. وبعد استبعاد التدفقات النقدية مثل اشتراكات التأمين، تقدر أرباح الاستثمار هذا العام بنحو 300 تريليون وون. وتجاوز العائد التراكمي 20%، بينما وصلت عوائد الأسهم المحلية إلى نطاق 90%. وهذا يتجاوز بالفعل أرباح العام الماضي البالغة 231.6 تريليون وون وعائده البالغ 18.82%. لكن وزن الأسهم المحلية يتجاوز هدف هذا العام البالغ 14.9% بأكثر من 10 نقاط مئوية، ما يزيد ضغط إعادة التوازن. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "कोरिया का नेशनल पेंशन फंड 1,800 ट्रिलियन वॉन पर, शेयर रैली से लाभ",
-        "excerpt": "कोरिया का नेशनल पेंशन सर्विस फंड 14 मई को 1,800 ट्रिलियन वॉन पर पहुंचा, क्योंकि सेमीकंडक्टर-नेतृत्व वाली KOSPI रैली ने 15 दिनों में करीब 50 ट्रिलियन वॉन का निवेश लाभ जोड़ा।",
-        "body": "कोरिया के नेशनल पेंशन सर्विस फंड का भंडार 14 मई को 1,800 ट्रिलियन वॉन तक पहुंचने की सूचना है। सेमीकंडक्टर शेयरों के नेतृत्व वाली KOSPI रैली से केवल पंद्रह दिनों में निवेश लाभ करीब 50 ट्रिलियन वॉन बढ़ा। पिछले साल के अंत के 1,458 ट्रिलियन वॉन की तुलना में चार महीने से कुछ अधिक समय में भंडार 340 ट्रिलियन वॉन से ज्यादा बढ़ा। प्रीमियम भुगतान जैसे नकद प्रवाह को छोड़कर भी इस साल का निवेश लाभ लगभग 300 ट्रिलियन वॉन आंका गया। संचयी रिटर्न 20% से ऊपर है, जबकि घरेलू शेयरों का रिटर्न 90% के दायरे में बताया गया। यह पिछले साल के 231.6 ट्रिलियन वॉन निवेश लाभ और 18.82% रिटर्न से पहले ही अधिक है। हालांकि घरेलू शेयरों का हिस्सा 14.9% के लक्ष्य से 10 प्रतिशत अंक से अधिक ऊपर है, जिससे रीबैलेंसिंग का दबाव बढ़ा है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Dana Pensiun Nasional Korea Tembus 1.800 Triliun Won Berkat Reli Saham",
-        "excerpt": "National Pension Service Korea mencapai 1.800 triliun won pada 14 Mei, setelah reli KOSPI yang dipimpin saham semikonduktor menambah sekitar 50 triliun won laba investasi dalam 15 hari.",
-        "body": "Dana National Pension Service Korea dilaporkan mencapai cadangan 1.800 triliun won pada 14 Mei. Didorong reli KOSPI yang berpusat pada saham semikonduktor, laba investasi bertambah sekitar 50 triliun won hanya dalam lima belas hari. Dibandingkan 1.458 triliun won pada akhir tahun lalu, cadangan naik lebih dari 340 triliun won dalam sedikit lebih dari empat bulan. Setelah mengecualikan arus kas seperti pembayaran iuran, laba investasi tahun ini diperkirakan sekitar 300 triliun won. Imbal hasil kumulatif telah melampaui 20%, sementara imbal hasil saham domestik dipahami berada di kisaran 90%. Kinerja ini sudah melampaui laba investasi 231,6 triliun won dan imbal hasil 18,82% tahun lalu. Namun porsi saham domestik dilaporkan lebih dari 10 poin persentase di atas target tahun ini sebesar 14,9%, sehingga tekanan rebalancing meningkat. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "6aec29fa748f",
-    "slug": "몸값-1조-딥엑스-지드래곤-소속사ipo-대어-집결-263300",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T16:24:37.403Z",
-    "updatedAt": "2026-05-14T16:24:37.403Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051472741",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051472741",
-    "titleFingerprint": "3ee38f8449e8a64c5109e0d26e862a3bc36640f5",
-    "dedupKeys": [
-      "6aec29fa748f3e6316ea986e2cba9b4c2beaefbc",
-      "3ee38f8449e8a64c5109e0d26e862a3bc36640f5",
-      "f8a01eb5ad2af41ba237c686ee0023beafac2a17"
-    ],
-    "imageUrl": "/images/articles/6aec29fa748f.png",
-    "i18n": {
-      "ko": {
-        "title": "딥엑스·갤럭시코퍼레이션 IPO 청사진 공개, 1조 몸값 전망 속 KIW 대어 집결",
-        "excerpt": "KIW 2026 마지막 날인 15일 딥엑스와 갤럭시코퍼레이션 등 국내 비상장 혁신기업들이 IPO 청사진을 공개하며 투자자에게 성장 전략과 상장 로드맵을 소개한다.",
-        "body": "코리아 인베스트먼트 위크(KIW) 2026 마지막 날인 15일, 딥엑스와 갤럭시코퍼레이션 등 국내 비상장 혁신기업들이 한자리에 모여 기업공개(IPO) 청사진을 공개한다. 한국경제에 따르면 AI 반도체 스타트업 딥엑스, 갤럭시코퍼레이션, 해빗팩토리, 엘리스그룹, 엘박스, 삼홍아크튜리온, 에이로봇 등이 참여한다. 딥엑스는 온디바이스 AI 반도체와 초저전력 NPU 기술을 앞세우며 현대자동차, 포스코DX 등과 협력해 로봇용 ‘에지 브레인’ 칩 양산에 성공했다. 시장에서는 상장 시 기업가치가 1조원을 넘어설 것으로 본다. 지드래곤 소속사로 알려진 갤럭시코퍼레이션은 미국 상장 계획과 해외 투자 유치 전략을 공개한다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "DeepX and Galaxy Corporation to Unveil IPO Plans as KIW Draws Major Private Firms",
-        "excerpt": "On May 15, the final day of KIW 2026, DeepX, Galaxy Corporation and other Korean private innovation companies will present IPO plans, growth strategies and listing roadmaps to investors.",
-        "body": "On May 15, the final day of Korea Investment Week (KIW) 2026, Korean private innovation companies including DeepX and Galaxy Corporation will gather to unveil their initial public offering (IPO) plans. According to The Korea Economic Daily, participants include AI semiconductor startup DeepX, Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion and Arobot. DeepX is a leading on-device AI semiconductor company with ultra-low-power NPU technology and has cooperated with Hyundai Motor and Posco DX, succeeding in mass production of an “edge brain” chip for robots. The market expects its corporate value to exceed 1 trillion won if it lists. Galaxy Corporation, known as G-Dragon’s agency, will disclose its U.S. listing plan and overseas fundraising strategy. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "DeepXとギャラクシーコーポレーションがIPO構想公開、KIWに未上場有力企業集結",
-        "excerpt": "KIW 2026最終日の5月15日、DeepXやギャラクシーコーポレーションなど韓国の未上場革新企業がIPO構想、成長戦略、上場ロードマップを投資家に示す。",
-        "body": "コリア・インベストメント・ウィーク（KIW）2026の最終日である5月15日、DeepXやギャラクシーコーポレーションなど韓国の未上場革新企業が一堂に集まり、新規株式公開（IPO）の構想を公開する。韓国経済新聞によると、参加企業はAI半導体スタートアップのDeepX、ギャラクシーコーポレーション、Habit Factory、Elice Group、LBox、Samhong Arcturion、Arobotなど。DeepXはオンデバイスAI半導体と超低消費電力NPU技術を強みにし、現代自動車やPosco DXなどと協力してロボット用「エッジブレイン」チップの量産に成功した。市場では上場時の企業価値が1兆ウォンを超えるとみられている。G-DRAGONの所属事務所として知られるギャラクシーコーポレーションは、米国上場計画と海外投資誘致戦略を公開する。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "DeepX与Galaxy Corporation披露IPO蓝图，KIW聚集未上市明星企业",
-        "excerpt": "KIW 2026最后一天5月15日，DeepX、Galaxy Corporation等韩国未上市创新企业将向投资者介绍IPO蓝图、增长战略和上市路线图。",
-        "body": "在韩国投资周（KIW）2026最后一天5月15日，包括DeepX和Galaxy Corporation在内的韩国未上市创新企业将齐聚一堂，披露首次公开募股（IPO）蓝图。据《韩国经济新闻》报道，参会企业包括AI半导体初创公司DeepX、Galaxy Corporation、Habit Factory、Elice Group、LBox、Samhong Arcturion和Arobot等。DeepX是端侧AI半导体领域的代表企业，主打超低功耗NPU技术，并与现代汽车、Posco DX等大企业合作，已成功量产机器人用“边缘大脑”芯片。市场认为其上市时企业价值将超过1万亿韩元。以G-Dragon所属公司闻名的Galaxy Corporation将公布美国上市计划和海外融资战略。来源: hankyung.com"
-      },
-      "es": {
-        "title": "DeepX y Galaxy Corporation revelarán planes de IPO ante grandes firmas privadas en KIW",
-        "excerpt": "El 15 de mayo, último día de KIW 2026, DeepX, Galaxy Corporation y otras empresas privadas innovadoras de Corea presentarán a inversores sus planes de IPO, estrategias de crecimiento y hojas de ruta de salida a bolsa.",
-        "body": "El 15 de mayo, último día de Korea Investment Week (KIW) 2026, empresas privadas innovadoras de Corea, incluidas DeepX y Galaxy Corporation, se reunirán para revelar sus planes de oferta pública inicial (IPO). Según The Korea Economic Daily, participarán la startup de semiconductores de IA DeepX, Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion y Arobot. DeepX es una referencia en semiconductores de IA en dispositivo y tecnología NPU de consumo ultrabajo; ha colaborado con Hyundai Motor y Posco DX, y logró la producción en masa de un chip “edge brain” para robots. El mercado espera que su valor corporativo supere 1 billón de wones si sale a bolsa. Galaxy Corporation, conocida como la agencia de G-Dragon, presentará su plan de cotización en Estados Unidos y su estrategia para atraer inversión extranjera. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "DeepX e Galaxy Corporation mostram planos de IPO enquanto KIW reúne grandes privadas",
-        "excerpt": "Em 15 de maio, último dia da KIW 2026, DeepX, Galaxy Corporation e outras empresas privadas inovadoras da Coreia apresentarão a investidores planos de IPO, estratégias de crescimento e roteiros de listagem.",
-        "body": "Em 15 de maio, último dia da Korea Investment Week (KIW) 2026, empresas privadas inovadoras da Coreia, incluindo DeepX e Galaxy Corporation, se reunirão para revelar seus planos de oferta pública inicial (IPO). Segundo o The Korea Economic Daily, participarão a startup de semicondutores de IA DeepX, Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion e Arobot. A DeepX é destaque em semicondutores de IA on-device e tecnologia NPU de ultrabaixo consumo; em cooperação com Hyundai Motor e Posco DX, conseguiu produzir em massa um chip “edge brain” para robôs. O mercado espera que seu valor corporativo ultrapasse 1 trilhão de won se for listada. A Galaxy Corporation, conhecida como a agência de G-Dragon, apresentará seu plano de listagem nos EUA e sua estratégia de captação de investimento externo. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "DeepX und Galaxy Corporation legen IPO-Pläne vor, KIW bündelt große Privatfirmen",
-        "excerpt": "Am 15. Mai, dem letzten Tag der KIW 2026, stellen DeepX, Galaxy Corporation und weitere koreanische private Innovationsfirmen Investoren ihre IPO-Pläne, Wachstumsstrategien und Börsenfahrpläne vor.",
-        "body": "Am 15. Mai, dem letzten Tag der Korea Investment Week (KIW) 2026, kommen koreanische private Innovationsunternehmen wie DeepX und Galaxy Corporation zusammen, um ihre Pläne für einen Börsengang (IPO) vorzustellen. Laut The Korea Economic Daily nehmen unter anderem das KI-Halbleiter-Startup DeepX, Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion und Arobot teil. DeepX gilt als führend bei On-Device-KI-Halbleitern und ultrastromsparender NPU-Technologie; in Zusammenarbeit mit Hyundai Motor und Posco DX gelang die Massenproduktion eines „Edge Brain“-Chips für Roboter. Der Markt erwartet bei einem Listing einen Unternehmenswert von über 1 Billion Won. Galaxy Corporation, bekannt als Agentur von G-Dragon, wird Pläne für ein US-Listing und eine Strategie zur Gewinnung ausländischer Investitionen offenlegen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "DeepX et Galaxy Corporation dévoilent leurs projets d’IPO devant les grands privés à KIW",
-        "excerpt": "Le 15 mai, dernier jour de KIW 2026, DeepX, Galaxy Corporation et d’autres entreprises privées innovantes coréennes présenteront aux investisseurs leurs projets d’IPO, stratégies de croissance et feuilles de route de cotation.",
-        "body": "Le 15 mai, dernier jour de la Korea Investment Week (KIW) 2026, des entreprises privées innovantes coréennes, dont DeepX et Galaxy Corporation, se réuniront pour dévoiler leurs projets d’introduction en Bourse (IPO). Selon The Korea Economic Daily, les participants incluent la start-up de semi-conducteurs IA DeepX, Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion et Arobot. DeepX est un acteur majeur des semi-conducteurs IA embarqués et de la technologie NPU à très faible consommation; avec Hyundai Motor et Posco DX, elle a réussi la production de masse d’une puce “edge brain” pour robots. Le marché estime que sa valeur dépasserait 1 000 milliards de wons en cas de cotation. Galaxy Corporation, connue comme l’agence de G-Dragon, présentera son plan de cotation aux États-Unis et sa stratégie d’attraction d’investissements étrangers. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ديب إكس وغالاكسي كوربوريشن تعرضان خطط الطرح العام مع تجمع شركات كبرى في KIW",
-        "excerpt": "في 15 مايو، اليوم الأخير من KIW 2026، ستعرض ديب إكس وغالاكسي كوربوريشن وشركات كورية خاصة مبتكرة أخرى على المستثمرين خطط الطرح العام واستراتيجيات النمو وخريطة الإدراج.",
-        "body": "في 15 مايو، اليوم الأخير من أسبوع كوريا للاستثمار (KIW) 2026، تجتمع شركات كورية خاصة مبتكرة، من بينها ديب إكس وغالاكسي كوربوريشن، للكشف عن خططها للطرح العام الأولي. ووفقاً لصحيفة كوريا الاقتصادية، تشمل الشركات المشاركة ديب إكس الناشئة في أشباه موصلات الذكاء الاصطناعي، وغالاكسي كوربوريشن، وHabit Factory، وElice Group، وLBox، وSamhong Arcturion، وArobot. تعد ديب إكس من أبرز شركات أشباه موصلات الذكاء الاصطناعي على الجهاز وتقنية NPU فائقة الانخفاض في استهلاك الطاقة، وقد تعاونت مع هيونداي موتور وPosco DX ونجحت في الإنتاج الكمي لشريحة “edge brain” للروبوتات. ويتوقع السوق أن تتجاوز قيمتها تريليون وون عند الإدراج. أما غالاكسي كوربوريشن، المعروفة بأنها وكالة جي-دراغون، فستكشف خطة الإدراج في الولايات المتحدة واستراتيجية جذب الاستثمارات الخارجية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "DeepX और Galaxy Corporation IPO योजना दिखाएंगी, KIW में बड़ी निजी कंपनियां जुटेंगी",
-        "excerpt": "KIW 2026 के अंतिम दिन 15 मई को DeepX, Galaxy Corporation और कोरिया की अन्य निजी नवाचार कंपनियां निवेशकों के सामने IPO योजना, वृद्धि रणनीति और लिस्टिंग रोडमैप पेश करेंगी।",
-        "body": "Korea Investment Week (KIW) 2026 के अंतिम दिन 15 मई को DeepX और Galaxy Corporation सहित कोरिया की निजी नवाचार कंपनियां एक मंच पर आकर प्रारंभिक सार्वजनिक निर्गम (IPO) की रूपरेखा पेश करेंगी। The Korea Economic Daily के अनुसार, प्रतिभागियों में AI सेमीकंडक्टर स्टार्टअप DeepX, Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion और Arobot शामिल हैं। DeepX ऑन-डिवाइस AI सेमीकंडक्टर और अल्ट्रा-लो-पावर NPU तकनीक की प्रमुख कंपनी है; उसने Hyundai Motor और Posco DX के साथ सहयोग कर रोबोट के लिए “edge brain” चिप का बड़े पैमाने पर उत्पादन सफल किया है। बाजार को उम्मीद है कि लिस्टिंग पर उसका कॉर्पोरेट मूल्य 1 ट्रिलियन वॉन से अधिक होगा। G-Dragon की एजेंसी के रूप में जानी जाने वाली Galaxy Corporation अमेरिका में लिस्टिंग योजना और विदेशी निवेश आकर्षित करने की रणनीति बताएगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "DeepX dan Galaxy Corporation Paparkan Rencana IPO, KIW Kumpulkan Perusahaan Privat Besar",
-        "excerpt": "Pada 15 Mei, hari terakhir KIW 2026, DeepX, Galaxy Corporation, dan perusahaan inovasi privat Korea lainnya akan memaparkan rencana IPO, strategi pertumbuhan, dan peta jalan pencatatan kepada investor.",
-        "body": "Pada 15 Mei, hari terakhir Korea Investment Week (KIW) 2026, perusahaan inovasi privat Korea termasuk DeepX dan Galaxy Corporation akan berkumpul untuk memaparkan rencana penawaran umum perdana (IPO). Menurut The Korea Economic Daily, pesertanya mencakup startup semikonduktor AI DeepX, Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion, dan Arobot. DeepX adalah pemain utama semikonduktor AI on-device dan teknologi NPU berdaya sangat rendah; bekerja sama dengan Hyundai Motor dan Posco DX, perusahaan ini berhasil memproduksi massal chip “edge brain” untuk robot. Pasar memperkirakan nilai perusahaannya akan melampaui 1 triliun won saat listing. Galaxy Corporation, yang dikenal sebagai agensi G-Dragon, akan mengungkap rencana listing di AS dan strategi menarik investasi luar negeri. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "b5873e028909",
-    "slug": "stx그린로지스-썬에이스-매각-추진-722996",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T16:23:16.492Z",
-    "updatedAt": "2026-05-14T16:23:16.492Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051472611",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051472611",
-    "titleFingerprint": "cdc6841a46720641e0bc9f5ef28470a6cf7ce591",
-    "dedupKeys": [
-      "b5873e028909636129a7c5b09fc147cd4daa2c65",
-      "cdc6841a46720641e0bc9f5ef28470a6cf7ce591",
-      "01578661f09ae7fbd6a0c2b249135ee27c8c1e2b"
-    ],
-    "imageUrl": "/images/articles/b5873e028909.jpg",
-    "i18n": {
-      "ko": {
-        "title": "STX그린로지스, 썬에이스 매각 추진…물류사업 재편 속도",
-        "excerpt": "STX그린로지스가 14일 벌크선 운용사 썬에이스 보유 지분 매각 절차에 들어가며 운송·물류 부문 사업 재편과 정상화 작업에 속도를 내고 있다.",
-        "body": "STX그린로지스는 14일 벌크선 운용사 썬에이스 매각을 추진하고 있다. 매각 대상은 STX오션서비스와 STX에코가 보유한 썬에이스 지분 95.24%다. 투자은행 업계에 따르면 매각 주관사는 삼정KPMG이며, 잠재 인수 후보를 상대로 오는 28일까지 인수의향서를 받는 절차가 진행된다. STX그린로지스는 2024년 APC PE로부터 썬에이스를 약 280억원에 인수했다. 썬에이스는 30년 업력의 벌크선 운송사로, 현대제철 장기운송계약을 25년 이상 맡아 왔다. 지난해 매출은 776억원, 운용 선대는 311척으로 전해졌다. 이번 매각은 운송·물류 부문 정상화 작업의 하나로 거론된다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "STX Green Logis Moves to Sell Sun Ace Stake as Logistics Restructuring Advances",
-        "excerpt": "STX Green Logis has begun a process to sell its stake in bulk carrier operator Sun Ace, accelerating efforts to reorganize and normalize its transport and logistics business.",
-        "body": "STX Green Logis is pursuing the sale of Sun Ace, a bulk carrier operator, as of May 14. The asset for sale is a 95.24% stake in Sun Ace held by STX Ocean Service and STX Eco. According to investment banking sources, Samjong KPMG is managing the process, with letters of intent from potential buyers due by May 28. STX Green Logis acquired Sun Ace from APC PE in 2024 for about 28 billion won. Sun Ace is a bulk shipping company with a 30-year history and has handled Hyundai Steel’s long-term shipping contracts for more than 25 years. Its revenue last year was reported at 77.6 billion won, with an operating fleet of 311 vessels. The sale is being cited as part of efforts to normalize the transport and logistics segment. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "STXグリーンロジス、サンエース売却推進…物流事業再編を加速",
-        "excerpt": "STXグリーンロジスは14日、バルク船運航会社サンエースの保有株売却手続きに入り、運送・物流部門の再編と正常化を進めている。",
-        "body": "STXグリーンロジスは14日、バルク船運航会社サンエースの売却を推進している。売却対象はSTXオーシャンサービスとSTXエコが保有するサンエース株式95.24%だ。投資銀行業界によると、売却主幹事は三井KPMGで、潜在的な買収候補から5月28日まで買収意向書を受け付ける手続きが進められている。STXグリーンロジスは2024年、APC PEからサンエースを約280億ウォンで取得した。サンエースは30年の業歴を持つバルク船運送会社で、現代製鉄の長期運送契約を25年以上担当してきた。昨年の売上高は776億ウォン、運航船隊は311隻と伝えられている。今回の売却は運送・物流部門の正常化作業の一環とされる。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "STX Green Logis推进出售Sun Ace股权，物流业务重组提速",
-        "excerpt": "STX Green Logis于14日启动出售散货船运营商Sun Ace所持股权的程序，推动运输与物流板块重组及正常化进程。",
-        "body": "STX Green Logis于14日正推进出售散货船运营商Sun Ace。出售标的为STX Ocean Service和STX Eco持有的Sun Ace 95.24%股权。投资银行业界消息称，本次出售由Samjong KPMG担任主管机构，潜在收购方需在5月28日前提交收购意向书。STX Green Logis于2024年从APC PE手中以约280亿韩元收购Sun Ace。Sun Ace是一家拥有30年经营历史的散货船运输公司，25年以上负责现代制铁长期运输合同。该公司去年销售额为776亿韩元，运营船队为311艘。据称，此次出售被视为运输与物流板块正常化工作的一部分。来源: hankyung.com."
-      },
-      "es": {
-        "title": "STX Green Logis impulsa venta de Sun Ace y acelera reorganización logística",
-        "excerpt": "STX Green Logis inició el 14 de mayo el proceso para vender su participación en Sun Ace, operador de graneleros, como parte de la normalización del negocio de transporte y logística.",
-        "body": "STX Green Logis está impulsando desde el 14 de mayo la venta de Sun Ace, operador de buques graneleros. El activo en venta es el 95,24% de Sun Ace en manos de STX Ocean Service y STX Eco. Según fuentes del sector de banca de inversión, Samjong KPMG dirige el proceso y recibirá cartas de intención de posibles compradores hasta el 28 de mayo. STX Green Logis adquirió Sun Ace a APC PE en 2024 por unos 28.000 millones de wones. Sun Ace es una naviera de graneleros con 30 años de trayectoria y ha gestionado contratos de transporte a largo plazo de Hyundai Steel durante más de 25 años. Sus ventas del año pasado fueron de 77.600 millones de wones y su flota operativa fue de 311 buques. La venta se menciona como parte de la normalización del área de transporte y logística. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "STX Green Logis avança na venda da Sun Ace em reestruturação logística",
-        "excerpt": "A STX Green Logis iniciou em 14 de maio o processo para vender sua participação na operadora de graneleiros Sun Ace, acelerando a reorganização do negócio de transporte e logística.",
-        "body": "A STX Green Logis está avançando, em 14 de maio, com a venda da Sun Ace, operadora de navios graneleiros. O ativo à venda é uma participação de 95,24% na Sun Ace detida pela STX Ocean Service e pela STX Eco. Segundo fontes do setor de banco de investimento, a Samjong KPMG conduz o processo e receberá cartas de intenção de potenciais compradores até 28 de maio. A STX Green Logis adquiriu a Sun Ace da APC PE em 2024 por cerca de 28 bilhões de wones. A Sun Ace é uma empresa de transporte de granéis com 30 anos de atuação e há mais de 25 anos opera contratos de longo prazo da Hyundai Steel. A receita do ano passado foi de 77,6 bilhões de wones, com frota operacional de 311 navios. A venda é citada como parte da normalização do segmento de transporte e logística. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "STX Green Logis treibt Verkauf von Sun Ace im Zuge der Logistik-Neuordnung voran",
-        "excerpt": "STX Green Logis hat am 14. Mai den Verkaufsprozess für seine Beteiligung am Massengutfrachter-Betreiber Sun Ace eingeleitet und beschleunigt damit die Neuordnung der Transport- und Logistiksparte.",
-        "body": "STX Green Logis treibt am 14. Mai den Verkauf von Sun Ace, einem Betreiber von Massengutfrachtern, voran. Zum Verkauf steht ein Anteil von 95,24% an Sun Ace, der von STX Ocean Service und STX Eco gehalten wird. Nach Angaben aus Investmentbanking-Kreisen begleitet Samjong KPMG den Prozess; potenzielle Käufer können bis zum 28. Mai Absichtserklärungen einreichen. STX Green Logis hatte Sun Ace 2024 von APC PE für rund 28 Milliarden Won übernommen. Sun Ace ist ein Massengut-Reedereiunternehmen mit 30 Jahren Geschäftstätigkeit und betreut seit mehr als 25 Jahren langfristige Transportverträge von Hyundai Steel. Der Umsatz im vergangenen Jahr lag bei 77,6 Milliarden Won, die operative Flotte bei 311 Schiffen. Der Verkauf wird als Teil der Normalisierung der Transport- und Logistiksparte genannt. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "STX Green Logis veut vendre Sun Ace et accélère la réorganisation logistique",
-        "excerpt": "STX Green Logis a lancé le 14 mai la procédure de vente de sa participation dans Sun Ace, opérateur de vraquiers, dans le cadre de la normalisation de ses activités transport et logistique.",
-        "body": "STX Green Logis poursuit, au 14 mai, la vente de Sun Ace, opérateur de vraquiers. L’actif concerné est une participation de 95,24% dans Sun Ace détenue par STX Ocean Service et STX Eco. Selon des sources du secteur de la banque d’investissement, Samjong KPMG pilote l’opération et les acheteurs potentiels doivent remettre une lettre d’intention d’ici au 28 mai. STX Green Logis avait acquis Sun Ace auprès d’APC PE en 2024 pour environ 28 milliards de wons. Sun Ace est une société de transport de vrac forte de 30 ans d’activité et gère depuis plus de 25 ans des contrats de transport à long terme pour Hyundai Steel. Son chiffre d’affaires de l’an dernier a été rapporté à 77,6 milliards de wons, avec une flotte opérationnelle de 311 navires. Cette vente est présentée comme une étape de normalisation du pôle transport et logistique. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "STX Green Logis تمضي في بيع Sun Ace ضمن إعادة ترتيب أعمال النقل واللوجستيات",
-        "excerpt": "بدأت STX Green Logis في 14 مايو إجراءات بيع حصتها في مشغل سفن البضائع السائبة Sun Ace، ضمن جهود إعادة تنظيم قطاع النقل واللوجستيات وتطبيعه.",
-        "body": "تمضي STX Green Logis في 14 مايو في بيع Sun Ace، وهي شركة تشغل سفن البضائع السائبة. وتشمل الصفقة حصة قدرها 95.24% في Sun Ace تملكها STX Ocean Service وSTX Eco. وبحسب مصادر في قطاع الخدمات المصرفية الاستثمارية، تتولى Samjong KPMG إدارة عملية البيع، على أن تتلقى خطابات النية من المشترين المحتملين حتى 28 مايو. وكانت STX Green Logis قد استحوذت على Sun Ace من APC PE في عام 2024 مقابل نحو 28 مليار وون. وتعمل Sun Ace في نقل البضائع السائبة منذ 30 عاما، وتولت عقود النقل طويلة الأجل لشركة Hyundai Steel لأكثر من 25 عاما. وبلغت إيراداتها في العام الماضي 77.6 مليار وون، مع أسطول تشغيلي من 311 سفينة. وتأتي الصفقة ضمن أعمال تطبيع قطاع النقل واللوجستيات. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "STX Green Logis ने Sun Ace बिक्री प्रक्रिया बढ़ाई, लॉजिस्टिक्स पुनर्गठन तेज",
-        "excerpt": "STX Green Logis ने 14 मई को बल्क कैरियर ऑपरेटर Sun Ace में अपनी हिस्सेदारी बेचने की प्रक्रिया शुरू की, जिससे परिवहन और लॉजिस्टिक्स कारोबार के पुनर्गठन को गति मिली।",
-        "body": "STX Green Logis 14 मई को बल्क कैरियर ऑपरेटर Sun Ace की बिक्री आगे बढ़ा रही है। बिक्री के लिए रखी गई संपत्ति Sun Ace में STX Ocean Service और STX Eco की 95.24% हिस्सेदारी है। निवेश बैंकिंग क्षेत्र के सूत्रों के अनुसार, Samjong KPMG इस बिक्री प्रक्रिया का प्रबंधन कर रही है और संभावित खरीदारों से 28 मई तक आशय पत्र लिए जाएंगे। STX Green Logis ने 2024 में APC PE से Sun Ace को लगभग 28 अरब वॉन में खरीदा था। Sun Ace 30 साल के इतिहास वाली बल्क शिपिंग कंपनी है और 25 साल से अधिक समय से Hyundai Steel के दीर्घकालिक परिवहन अनुबंध संभालती रही है। पिछले वर्ष इसका राजस्व 77.6 अरब वॉन और परिचालन बेड़ा 311 जहाजों का बताया गया। यह बिक्री परिवहन और लॉजिस्टिक्स खंड को सामान्य बनाने की प्रक्रिया का हिस्सा मानी जा रही है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "STX Green Logis Dorong Penjualan Sun Ace Saat Restrukturisasi Logistik Berjalan",
-        "excerpt": "STX Green Logis pada 14 Mei memulai proses penjualan saham di operator kapal curah Sun Ace untuk mempercepat penataan dan normalisasi bisnis transportasi serta logistik.",
-        "body": "STX Green Logis pada 14 Mei tengah mendorong penjualan Sun Ace, operator kapal curah. Aset yang dijual adalah 95,24% saham Sun Ace yang dimiliki STX Ocean Service dan STX Eco. Menurut sumber industri perbankan investasi, Samjong KPMG menjadi penasihat penjualan, dengan surat minat dari calon pembeli diterima hingga 28 Mei. STX Green Logis mengakuisisi Sun Ace dari APC PE pada 2024 senilai sekitar 28 miliar won. Sun Ace adalah perusahaan pengangkutan kapal curah dengan riwayat operasi 30 tahun dan telah menangani kontrak pengangkutan jangka panjang Hyundai Steel selama lebih dari 25 tahun. Pendapatan tahun lalu dilaporkan 77,6 miliar won, dengan armada operasi 311 kapal. Penjualan ini disebut sebagai bagian dari normalisasi segmen transportasi dan logistik. Sumber: hankyung.com."
       }
     }
   }
