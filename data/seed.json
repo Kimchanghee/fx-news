@@ -1,5 +1,230 @@
 [
   {
+    "id": "c41d9945ef41",
+    "slug": "영업익-200조-300조-아니냐총파업-앞둔-삼전-노조-고용부-장관-만나-면담-924434",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T11:26:06.969Z",
+    "updatedAt": "2026-05-15T11:26:06.969Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049505",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049505",
+    "titleFingerprint": "5c129fe39d9d9356ef1b8ab81a3ef881253f91c2",
+    "dedupKeys": [
+      "c41d9945ef413fd84e05e852d10e4984b98b79e5",
+      "5c129fe39d9d9356ef1b8ab81a3ef881253f91c2",
+      "93854c150be0e0f5e75610aa85d3dcfa1cf1b70b"
+    ],
+    "imageUrl": "/images/articles/c41d9945ef41.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 노조 총파업 앞두고 고용부 장관 면담, 교섭위원 교체 요구",
+        "excerpt": "삼성전자 노동조합은 총파업을 앞두고 김영훈 고용노동부 장관과 만나 사측 대표교섭위원 교체와 입장 변화를 요구하며 노사 교섭 쟁점을 전달했다.",
+        "body": "삼성전자 노동조합이 총파업을 앞두고 중재에 나선 김영훈 고용노동부 장관과 면담했다. 노조는 이 자리에서 사측 대표교섭위원 교체와 회사 입장 변화가 선행돼야 한다는 뜻을 전달했다. 원문 제목에는 “영업익 200조? 300조 아니냐”는 표현이 포함돼, 노조가 회사의 실적 인식과 교섭 태도를 문제 삼고 있음을 보여준다. 이번 면담은 총파업을 앞둔 노사 갈등 국면에서 고용노동부 장관이 직접 노조를 만난 사례다. 향후 쟁점은 사측 교섭 대표 구성과 교섭 태도 변화 여부에 맞춰질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics union meets labor minister before general strike, seeks negotiator change",
+        "excerpt": "Samsung Electronics’ labor union met Labor Minister Kim Young-hoon before a planned general strike, demanding a change in the company’s lead negotiators and stance.",
+        "body": "Samsung Electronics’ labor union met Labor Minister Kim Young-hoon as he moved to mediate ahead of a planned general strike. At the meeting, the union said the company should first replace its lead bargaining representatives and change its position. The original headline included the phrase, “Operating profit of 200 trillion? Isn’t it 300 trillion?” indicating that the union is questioning the company’s view of earnings and its bargaining attitude. The meeting came during a labor-management dispute before the general strike, with the labor minister meeting the union directly. The next focus is expected to be whether the company changes its bargaining team and negotiation stance. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子労組、全面スト前に雇用労働相と面談し交渉委員交代を要求",
+        "excerpt": "サムスン電子労組は全面ストを前に金永勲・雇用労働部長官と面談し、会社側の代表交渉委員の交代と立場変更を求めた。",
+        "body": "サムスン電子の労働組合は、全面ストを前に仲裁に乗り出した金永勲・雇用労働部長官と面談した。労組はこの場で、会社側の代表交渉委員の交代と会社の立場変更が先行すべきだとの考えを伝えた。原文の見出しには「営業益200兆？300兆ではないのか」という表現が含まれ、労組が会社の業績認識と交渉姿勢を問題視していることを示している。今回の面談は、全面ストを控えた労使対立の局面で雇用労働部長官が労組と直接会った事例だ。今後の焦点は、会社側の交渉代表構成と交渉姿勢が変わるかどうかに置かれる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子工会总罢工前会见劳动部长，要求更换资方谈判代表",
+        "excerpt": "三星电子工会在总罢工前会见韩国雇佣劳动部长金永勋，要求公司更换首席谈判代表并先行改变谈判立场。",
+        "body": "三星电子工会在总罢工前会见了出面调解的韩国雇佣劳动部长金永勋。工会在会面中表示，公司应先更换资方代表谈判委员，并改变公司立场。原文标题中出现“营业利润200万亿？不是300万亿吗”的表述，显示工会正质疑公司对业绩的认识以及谈判态度。此次会面发生在总罢工前劳资矛盾加剧的背景下，是雇佣劳动部长直接会见工会的一次行动。接下来，外界关注的焦点将是资方谈判代表构成以及公司谈判态度是否发生变化。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Sindicato de Samsung se reúne con el ministro antes de la huelga y pide cambiar negociadores",
+        "excerpt": "El sindicato de Samsung Electronics se reunió con el ministro de Trabajo Kim Young-hoon antes de la huelga general y pidió cambiar a los negociadores de la empresa.",
+        "body": "El sindicato de Samsung Electronics se reunió con el ministro de Trabajo y Empleo, Kim Young-hoon, quien intervino como mediador antes de una huelga general. En la reunión, el sindicato transmitió que la empresa debe cambiar primero a sus representantes principales en la negociación y modificar su postura. El titular original incluía la frase: “¿Beneficio operativo de 200 billones? ¿No son 300 billones?”, lo que muestra que el sindicato cuestiona la lectura de resultados de la compañía y su actitud negociadora. La reunión se produjo en medio del conflicto laboral previo a la huelga general. El foco estará ahora en si la empresa cambia su equipo y su postura de negociación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Sindicato da Samsung se reúne com ministro antes da greve e pede troca de negociadores",
+        "excerpt": "O sindicato da Samsung Electronics reuniu-se com o ministro do Trabalho Kim Young-hoon antes da greve geral e pediu mudança dos negociadores da empresa.",
+        "body": "O sindicato da Samsung Electronics reuniu-se com o ministro do Trabalho e Emprego, Kim Young-hoon, que entrou como mediador antes de uma greve geral. Na reunião, o sindicato afirmou que a empresa deve primeiro substituir seus principais representantes de negociação e mudar sua posição. O título original trazia a frase: “Lucro operacional de 200 trilhões? Não seriam 300 trilhões?”, indicando que o sindicato questiona a percepção da empresa sobre seus resultados e sua postura nas negociações. O encontro ocorreu em meio ao conflito trabalhista antes da greve geral. A atenção agora recai sobre possíveis mudanças na composição da equipe negociadora da empresa e em sua atitude. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung-Gewerkschaft trifft Arbeitsminister vor Generalstreik und fordert neue Verhandler",
+        "excerpt": "Die Gewerkschaft von Samsung Electronics traf vor einem Generalstreik Arbeitsminister Kim Young-hoon und forderte neue Verhandlungsführer sowie eine andere Haltung.",
+        "body": "Die Gewerkschaft von Samsung Electronics hat vor einem geplanten Generalstreik Arbeitsminister Kim Young-hoon getroffen, der als Vermittler eingeschaltet wurde. Bei dem Gespräch erklärte die Gewerkschaft, das Unternehmen müsse zunächst seine führenden Verhandlungsvertreter ersetzen und seine Position ändern. Die ursprüngliche Überschrift enthielt die Formulierung: „Betriebsgewinn von 200 Billionen? Sind es nicht 300 Billionen?“, was zeigt, dass die Gewerkschaft die Sicht des Unternehmens auf die Ergebnisse und dessen Verhandlungshaltung infrage stellt. Das Treffen fand in einer Phase wachsender Spannungen zwischen Arbeitnehmern und Management vor dem Generalstreik statt. Im Mittelpunkt steht nun, ob sich Verhandlungsteam und Haltung des Unternehmens ändern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le syndicat de Samsung rencontre le ministre avant la grève et demande de nouveaux négociateurs",
+        "excerpt": "Le syndicat de Samsung Electronics a rencontré le ministre du Travail Kim Young-hoon avant une grève générale, demandant un changement des négociateurs patronaux.",
+        "body": "Le syndicat de Samsung Electronics a rencontré le ministre du Travail et de l’Emploi, Kim Young-hoon, intervenu comme médiateur avant une grève générale. Lors de l’entretien, le syndicat a indiqué que l’entreprise devait d’abord remplacer ses principaux représentants à la négociation et modifier sa position. Le titre original contenait la formule: « Bénéfice d’exploitation de 200 billions? N’est-ce pas 300 billions? », ce qui montre que le syndicat conteste la perception des résultats par l’entreprise et son attitude dans les discussions. Cette rencontre intervient dans un contexte de conflit social avant la grève générale. L’attention portera désormais sur l’évolution de l’équipe de négociation de l’entreprise et de sa position. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "نقابة سامسونغ إلكترونيكس تلتقي وزير العمل قبل الإضراب وتطلب تغيير المفاوضين",
+        "excerpt": "التقت نقابة سامسونغ إلكترونيكس وزير العمل كيم يونغ هون قبل الإضراب العام، وطالبت بتغيير ممثلي الشركة في التفاوض وتبدل موقفها.",
+        "body": "التقت نقابة سامسونغ إلكترونيكس وزير العمل والتوظيف كيم يونغ هون، الذي تدخل للوساطة قبل إضراب عام مرتقب. وخلال اللقاء، أبلغت النقابة الوزير بأن على الشركة أولا استبدال ممثليها الرئيسيين في المفاوضات وتغيير موقفها. وتضمن العنوان الأصلي عبارة: «أرباح تشغيلية 200 تريليون؟ أليست 300 تريليون؟»، ما يوضح أن النقابة تشكك في رؤية الشركة لأدائها المالي وفي أسلوبها التفاوضي. جاء اللقاء في سياق تصاعد الخلاف العمالي قبل الإضراب العام، مع اجتماع مباشر بين الوزير والنقابة. وينتظر أن يتركز الاهتمام لاحقا على ما إذا كانت الشركة ستغير فريق التفاوض وموقفها. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "हड़ताल से पहले सैमसंग इलेक्ट्रॉनिक्स यूनियन ने श्रम मंत्री से मिलकर वार्ताकार बदलने की मांग की",
+        "excerpt": "सैमसंग इलेक्ट्रॉनिक्स यूनियन ने आम हड़ताल से पहले श्रम मंत्री किम यंग-हून से मुलाकात की और कंपनी के प्रमुख वार्ताकार बदलने व रुख बदलने की मांग रखी।",
+        "body": "सैमसंग इलेक्ट्रॉनिक्स की यूनियन ने आम हड़ताल से पहले मध्यस्थता के लिए आगे आए श्रम और रोजगार मंत्री किम यंग-हून से मुलाकात की। बैठक में यूनियन ने कहा कि कंपनी को पहले अपने प्रमुख वार्ता प्रतिनिधियों को बदलना चाहिए और अपना रुख बदलना चाहिए। मूल शीर्षक में यह वाक्य शामिल था, “ऑपरेटिंग प्रॉफिट 200 ट्रिलियन? क्या यह 300 ट्रिलियन नहीं है?”, जिससे पता चलता है कि यूनियन कंपनी की कमाई को देखने के तरीके और उसके बातचीत के रवैये पर सवाल उठा रही है। यह बैठक आम हड़ताल से पहले श्रम-प्रबंधन विवाद के बीच हुई। अब ध्यान इस पर रहेगा कि कंपनी अपनी वार्ता टीम और बातचीत की स्थिति बदलती है या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Serikat Samsung temui Menteri Ketenagakerjaan jelang mogok, minta negosiator diganti",
+        "excerpt": "Serikat pekerja Samsung Electronics bertemu Menteri Ketenagakerjaan Kim Young-hoon jelang mogok umum, meminta perusahaan mengganti perunding utama dan mengubah sikap.",
+        "body": "Serikat pekerja Samsung Electronics bertemu Menteri Ketenagakerjaan dan Perburuhan Kim Young-hoon, yang turun sebagai mediator menjelang rencana mogok umum. Dalam pertemuan itu, serikat menyampaikan bahwa perusahaan perlu lebih dulu mengganti perwakilan utama dalam perundingan dan mengubah posisinya. Judul asli memuat ungkapan, “Laba operasi 200 triliun? Bukankah 300 triliun?”, yang menunjukkan bahwa serikat mempertanyakan cara perusahaan memandang kinerja dan sikapnya dalam negosiasi. Pertemuan ini terjadi di tengah konflik buruh-manajemen menjelang mogok umum. Fokus berikutnya adalah apakah perusahaan mengubah susunan perunding dan sikap negosiasinya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "dfd220e26717",
+    "slug": "오늘-노조-만난-노동장관-주말엔-경영진-면담총파업-막을까-641826",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T11:25:00.570Z",
+    "updatedAt": "2026-05-15T11:25:00.570Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049537",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049537",
+    "titleFingerprint": "8935cf458598f0c7a961975b1ad1bb0c7dfaa3ac",
+    "dedupKeys": [
+      "dfd220e267177f2c6ec399f6cfb4f43428e81919",
+      "8935cf458598f0c7a961975b1ad1bb0c7dfaa3ac",
+      "16794672a49932d4dd1bd3fab5d4b7ce79a82b80"
+    ],
+    "imageUrl": "/images/articles/dfd220e26717.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 총파업 위기, 노동장관 노조 이어 경영진 면담 중재 나선다",
+        "excerpt": "삼성전자 총파업 위기가 커지는 가운데 김영훈 고용노동부 장관이 15일 노조 집행부에 이어 주말 경영진 면담을 추진하며 직접 중재에 나선다.",
+        "body": "삼성전자 총파업 위기가 고조되는 가운데 김영훈 고용노동부 장관이 노사 양측을 직접 만나 중재에 나선다. 15일 정부와 업계에 따르면 김 장관은 노동조합 집행부를 만난 데 이어 이르면 오는 주말 삼성전자 경영진과도 면담할 예정이다. 이번 움직임은 총파업 가능성이 커지는 상황에서 정부가 노사 대화의 접점을 찾기 위해 개입하는 흐름으로 해석된다. 장관이 노조와 경영진을 잇달아 접촉하면서 파업을 막기 위한 협의가 이어질지 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Strike Risk Grows as Labor Minister Moves to Meet Union and Management",
+        "excerpt": "As Samsung Electronics faces a rising risk of a full strike, Labor Minister Kim Young-hoon met union leaders and is set to meet management as early as this weekend.",
+        "body": "As the risk of a full strike at Samsung Electronics intensifies, Employment and Labor Minister Kim Young-hoon is moving to mediate by meeting both sides directly. According to the government and industry on the 15th, Kim met the union leadership and is expected to hold talks with Samsung Electronics management as early as this weekend. The move comes as the possibility of a full strike grows, with the government seeking a point of dialogue between labor and management. Attention is on whether the minister’s consecutive contacts with the union and executives can keep negotiations moving. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子の全面スト懸念、労働相が労組に続き経営陣とも面談へ",
+        "excerpt": "サムスン電子で全面ストの危機が高まる中、金永勳雇用労働部長官が15日に労組執行部と会い、週末にも経営陣との面談を進める。",
+        "body": "サムスン電子の全面スト危機が高まる中、金永勳雇用労働部長官が労使双方と直接会い、仲裁に乗り出す。15日、政府と業界によると、金長官は労働組合執行部と面談したのに続き、早ければ今週末にもサムスン電子の経営陣と会う予定だ。今回の動きは、全面ストの可能性が大きくなる状況で、政府が労使対話の接点を探るために関与する流れと受け止められる。長官が労組と経営陣に相次いで接触し、スト回避に向けた協議が続くか注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子总罢工风险升温，韩国劳动部长继会工会后将见管理层",
+        "excerpt": "在三星电子总罢工危机加剧之际，韩国雇佣劳动部长金永勋15日会见工会执委会后，最快周末将与管理层面谈。",
+        "body": "随着三星电子总罢工危机升温，韩国雇佣劳动部长金永勋将直接会见劳资双方并展开调解。据15日政府和业界消息，金部长在会见工会执委会后，最快将于本周末与三星电子管理层面谈。此举发生在总罢工可能性上升之际，被视为政府为寻找劳资对话交汇点而介入的过程。部长接连接触工会和经营层后，能否推动避免罢工的协商继续进行，受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Riesgo de huelga total en Samsung: ministro laboral media con sindicato y directivos",
+        "excerpt": "Ante el creciente riesgo de huelga total en Samsung Electronics, el ministro Kim Young-hoon se reunió con el sindicato y prevé ver a la dirección este fin de semana.",
+        "body": "Mientras aumenta el riesgo de una huelga total en Samsung Electronics, el ministro de Empleo y Trabajo, Kim Young-hoon, busca mediar reuniéndose directamente con ambas partes. Según el gobierno y la industria el día 15, Kim ya se reunió con la cúpula del sindicato y podría mantener un encuentro con la dirección de Samsung Electronics tan pronto como este fin de semana. La medida se produce en un contexto de creciente posibilidad de paro total y refleja la intervención del gobierno para encontrar un punto de diálogo entre empresa y trabajadores. La atención se centra en si estos contactos consecutivos ayudarán a mantener las conversaciones. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Risco de greve geral na Samsung cresce, ministro busca mediar com sindicato e gestão",
+        "excerpt": "Com a crise de greve geral na Samsung Electronics em alta, o ministro Kim Young-hoon reuniu-se com o sindicato e deve falar com a direção no fim de semana.",
+        "body": "Com o risco de uma greve geral na Samsung Electronics se intensificando, o ministro do Emprego e Trabalho, Kim Young-hoon, está atuando como mediador ao se reunir diretamente com os dois lados. Segundo governo e setor no dia 15, Kim encontrou a liderança sindical e deve se reunir com a direção da Samsung Electronics já neste fim de semana. A iniciativa ocorre em meio ao aumento da possibilidade de paralisação total e indica uma tentativa do governo de buscar um ponto de diálogo entre trabalhadores e empresa. A atenção se volta para a continuidade das negociações após os contatos do ministro. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung vor Streikrisiko: Arbeitsminister trifft Gewerkschaft und bald Management",
+        "excerpt": "Angesichts der wachsenden Gefahr eines Vollstreiks bei Samsung Electronics traf Arbeitsminister Kim Young-hoon die Gewerkschaft und plant ein Treffen mit dem Management.",
+        "body": "Die Gefahr eines Vollstreiks bei Samsung Electronics nimmt zu, und Arbeitsminister Kim Young-hoon schaltet sich mit direkten Gesprächen ein. Nach Angaben von Regierung und Branche vom 15. traf Kim die Gewerkschaftsführung und will sich frühestens am kommenden Wochenende auch mit dem Management von Samsung Electronics treffen. Der Schritt erfolgt, während die Wahrscheinlichkeit eines umfassenden Streiks steigt, und soll der Regierung helfen, einen Ansatzpunkt für Gespräche zwischen Arbeitnehmern und Unternehmensseite zu finden. Ob die aufeinanderfolgenden Kontakte weitere Verhandlungen ermöglichen, steht nun im Fokus. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung face au risque de grève générale, le ministre du Travail tente une médiation",
+        "excerpt": "Alors que le risque de grève générale augmente chez Samsung Electronics, le ministre Kim Young-hoon a rencontré le syndicat et prévoit de voir la direction ce week-end.",
+        "body": "Alors que la menace d’une grève générale chez Samsung Electronics s’intensifie, le ministre de l’Emploi et du Travail, Kim Young-hoon, intervient en rencontrant directement les deux parties. Selon le gouvernement et le secteur le 15, Kim a rencontré la direction syndicale et devrait s’entretenir avec les dirigeants de Samsung Electronics dès ce week-end. Cette démarche intervient alors que la possibilité d’un arrêt total du travail grandit et traduit la volonté du gouvernement de trouver un point de dialogue entre syndicats et direction. L’attention porte désormais sur la capacité de ces contacts successifs à maintenir les discussions. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "خطر الإضراب الشامل في سامسونغ يتصاعد ووزير العمل يتحرك بين النقابة والإدارة",
+        "excerpt": "مع تصاعد أزمة الإضراب الشامل في سامسونغ إلكترونيكس، التقى وزير العمل كيم يونغ هون قيادة النقابة ويعتزم مقابلة الإدارة في عطلة نهاية الأسبوع.",
+        "body": "مع تصاعد خطر الإضراب الشامل في سامسونغ إلكترونيكس، يتحرك وزير التوظيف والعمل كيم يونغ هون للتوسط عبر لقاء مباشر مع طرفي العمل. ووفق ما أفادت به الحكومة والقطاع في 15 من الشهر، التقى كيم قيادة النقابة، ومن المتوقع أن يجتمع مع إدارة سامسونغ إلكترونيكس في أقرب وقت خلال عطلة نهاية الأسبوع. تأتي هذه الخطوة في ظل تزايد احتمال الإضراب الشامل، وتُفهم على أنها مسعى حكومي للعثور على نقطة حوار بين النقابة والإدارة. ويتركز الاهتمام على ما إذا كانت اللقاءات المتتالية ستدفع المشاورات الرامية إلى تجنب الإضراب. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung में पूर्ण हड़ताल का जोखिम बढ़ा, श्रम मंत्री यूनियन के बाद प्रबंधन से मिलेंगे",
+        "excerpt": "Samsung Electronics में पूर्ण हड़ताल का संकट गहराने के बीच श्रम मंत्री Kim Young-hoon ने यूनियन नेतृत्व से मुलाकात की और सप्ताहांत में प्रबंधन से मिल सकते हैं।",
+        "body": "Samsung Electronics में पूर्ण हड़ताल का जोखिम बढ़ने के बीच रोजगार और श्रम मंत्री Kim Young-hoon दोनों पक्षों से सीधे मिलकर मध्यस्थता कर रहे हैं। सरकार और उद्योग के अनुसार 15 तारीख को Kim ने श्रमिक संघ के नेतृत्व से मुलाकात की और जल्द से जल्द इस सप्ताहांत Samsung Electronics के प्रबंधन से भी बातचीत कर सकते हैं। यह कदम ऐसे समय आया है जब पूर्ण हड़ताल की संभावना बढ़ रही है और सरकार श्रमिकों तथा प्रबंधन के बीच संवाद का आधार खोजने की कोशिश कर रही है। अब ध्यान इस पर है कि मंत्री की लगातार बैठकों से हड़ताल रोकने की बातचीत आगे बढ़ेगी या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Risiko Mogok Total Samsung Meningkat, Menteri Tenaga Kerja Temui Serikat dan Manajemen",
+        "excerpt": "Saat risiko mogok total Samsung Electronics meningkat, Menteri Kim Young-hoon menemui pimpinan serikat dan berencana bertemu manajemen paling cepat akhir pekan ini.",
+        "body": "Risiko mogok total di Samsung Electronics meningkat, dan Menteri Ketenagakerjaan Kim Young-hoon turun langsung untuk memediasi kedua pihak. Menurut pemerintah dan kalangan industri pada tanggal 15, Kim telah bertemu dengan jajaran pimpinan serikat pekerja dan diperkirakan akan bertemu manajemen Samsung Electronics paling cepat akhir pekan ini. Langkah ini muncul saat kemungkinan mogok total semakin besar, dengan pemerintah berupaya mencari titik temu dialog antara pekerja dan manajemen. Perhatian kini tertuju pada apakah kontak beruntun menteri dengan serikat dan eksekutif dapat menjaga perundingan tetap berjalan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "772b147051a1",
+    "slug": "평택-달려가-노조-만난-삼성-사장단-지금이-반도체-골든타임-741368",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T11:24:03.474Z",
+    "updatedAt": "2026-05-15T11:24:03.474Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049541",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049541",
+    "titleFingerprint": "220e13adc5a9f6c8a2004a9feedb020025116c52",
+    "dedupKeys": [
+      "772b147051a16633024ad200802e47f5a49cf788",
+      "220e13adc5a9f6c8a2004a9feedb020025116c52",
+      "2912775f15146791bac06edb346b1ab1048b2dd2"
+    ],
+    "imageUrl": "/images/articles/772b147051a1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성 반도체 총파업 카운트다운, 사장단 평택 노조 방문해 충격 대비",
+        "excerpt": "삼성전자는 15일 사상 초유의 반도체 라인 총파업 가능성이 커지자 평택 사업장을 중심으로 노조를 만나고 웨이퍼 투입량 조절 등 파업 충격 완화에 나섰다.",
+        "body": "삼성전자 사장단은 15일 평택 사업장을 찾아 노조와 만났다. 사상 초유의 반도체 라인 총파업이 카운트다운에 들어가면서 회사가 파업 충격을 줄이기 위한 대비에 나선 것이다. 원문에 따르면 파업이 이뤄지는 평택 사업장을 중심으로 웨이퍼 투입량을 줄이는 방안이 거론됐다. 현장에서는 “지금이 반도체 골든타임”이라는 메시지도 나온 것으로 전해졌다. 반도체 생산 라인은 중단과 재가동의 부담이 큰 만큼, 삼성전자는 핵심 사업장인 평택을 중심으로 생산 차질을 최소화하려는 대응에 들어간 것으로 보인다. 향후 노사 대화와 파업 진행 여부가 생산 현장의 불확실성을 좌우할 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Chip Strike Countdown: Executives Visit Pyeongtaek Union to Limit Impact",
+        "excerpt": "Samsung Electronics moved on the 15th to reduce the impact of a possible unprecedented chip-line general strike, meeting the union in Pyeongtaek and weighing wafer input cuts.",
+        "body": "Samsung Electronics executives visited the Pyeongtaek site on the 15th and met with the union. The move came as an unprecedented general strike at semiconductor lines entered a countdown, prompting the company to prepare measures to reduce disruption. According to the original report, Samsung considered reducing wafer input centered on the Pyeongtaek workplace where the strike would take place. A message that “now is the golden time for semiconductors” was also delivered at the site. Because chip production lines carry heavy burdens when stopped and restarted, Samsung appears to be focusing on Pyeongtaek, a key production base, to minimize disruptions. Future labor-management talks and whether the strike proceeds are expected to shape uncertainty at the production site. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン半導体スト秒読み、社長団が平沢の労組訪問し影響抑制へ",
+        "excerpt": "サムスン電子は15日、前例のない半導体ライン全面ストの可能性が高まる中、平沢事業場を中心に労組と会い、ウエハー投入量調整などの備えに入った。",
+        "body": "サムスン電子の社長団は15日、平沢事業場を訪れ労組と面会した。前例のない半導体ラインの全面ストが秒読み段階に入り、会社がストによる衝撃を抑えるための対応に乗り出したものだ。原文によると、ストが行われる平沢事業場を中心にウエハー投入量を減らす案が取り上げられた。現場では「今が半導体のゴールデンタイム」というメッセージも出たと伝えられている。半導体生産ラインは停止と再稼働の負担が大きいため、サムスン電子は中核拠点である平沢を中心に生産への支障を最小化しようとしているとみられる。今後の労使対話とスト実施の有無が現場の不確実性を左右する見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星半导体总罢工倒计时，高管赴平泽会工会力降冲击",
+        "excerpt": "三星电子15日在史无前例的半导体产线总罢工进入倒计时之际，围绕平泽厂区会见工会，并着手评估减少晶圆投入等应对措施。",
+        "body": "三星电子高管团队15日前往平泽厂区并会见工会。由于史无前例的半导体产线总罢工进入倒计时，公司开始采取措施，试图降低罢工冲击。根据原文报道，围绕可能发生罢工的平泽事业场，减少晶圆投入量的方案被提及。现场还传出“现在是半导体黄金时间”的信息。半导体生产线一旦停摆和重启，负担都很大，因此三星电子似乎正以核心厂区平泽为中心，努力把生产受阻降到最低。接下来劳资对话以及罢工是否推进，将影响生产现场的不确定性。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Huelga de chips en Samsung entra en cuenta atrás y directivos van a Pyeongtaek",
+        "excerpt": "Samsung Electronics actuó el día 15 para reducir el impacto de una posible huelga general inédita en líneas de semiconductores, reuniéndose con el sindicato en Pyeongtaek.",
+        "body": "La cúpula de Samsung Electronics visitó el día 15 el complejo de Pyeongtaek y se reunió con el sindicato. La medida llega cuando una huelga general sin precedentes en las líneas de semiconductores entra en cuenta atrás, lo que llevó a la empresa a preparar respuestas para reducir el impacto. Según el texto original, se planteó reducir el volumen de obleas introducidas, con foco en el centro de Pyeongtaek donde se realizaría la huelga. En el lugar también se transmitió el mensaje de que “ahora es el momento dorado de los semiconductores”. Dado que detener y reiniciar una línea de chips implica una carga elevada, Samsung parece centrarse en Pyeongtaek, un sitio clave, para minimizar interrupciones de producción. El diálogo laboral y la realización de la huelga marcarán la incertidumbre. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Greve de chips da Samsung entra em contagem e executivos vão a Pyeongtaek",
+        "excerpt": "A Samsung Electronics agiu no dia 15 para reduzir o impacto de uma possível greve geral inédita em linhas de semicondutores, reunindo-se com o sindicato em Pyeongtaek.",
+        "body": "Executivos da Samsung Electronics visitaram o complexo de Pyeongtaek no dia 15 e se reuniram com o sindicato. A ação ocorreu quando uma greve geral sem precedentes nas linhas de semicondutores entrou em contagem regressiva, levando a empresa a preparar medidas para reduzir o impacto. Segundo o texto original, foi considerada a redução do volume de wafers inseridos, com foco na unidade de Pyeongtaek onde a greve ocorreria. No local, também foi transmitida a mensagem de que “agora é o momento de ouro dos semicondutores”. Como linhas de chips têm alto custo operacional ao parar e reiniciar, a Samsung parece concentrar sua resposta em Pyeongtaek, uma base essencial, para minimizar interrupções. As próximas conversas trabalhistas e a realização da greve devem definir a incerteza na produção. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung-Chipstreik vor Countdown: Führung trifft Gewerkschaft in Pyeongtaek",
+        "excerpt": "Samsung Electronics bereitete sich am 15. auf einen möglichen beispiellosen Generalstreik in Halbleiterlinien vor und traf in Pyeongtaek die Gewerkschaft.",
+        "body": "Die Führung von Samsung Electronics besuchte am 15. den Standort Pyeongtaek und traf sich mit der Gewerkschaft. Hintergrund ist, dass ein beispielloser Generalstreik in den Halbleiterlinien in die Countdown-Phase eingetreten ist und das Unternehmen Maßnahmen zur Verringerung der Streikfolgen vorbereitet. Dem Originalbericht zufolge wurde vor allem am Standort Pyeongtaek, an dem der Streik stattfinden würde, eine Verringerung des Wafer-Einsatzes erwogen. Vor Ort sei zudem die Botschaft gefallen, „jetzt ist die goldene Zeit für Halbleiter“. Da Chipproduktionslinien bei Stopp und Neustart stark belastet werden, scheint Samsung den Schlüsselstandort Pyeongtaek in den Mittelpunkt zu stellen, um Produktionsstörungen zu minimieren. Der weitere Dialog zwischen Arbeit und Management sowie die Frage, ob der Streik stattfindet, dürften die Unsicherheit bestimmen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Grève des puces chez Samsung: les dirigeants vont à Pyeongtaek voir le syndicat",
+        "excerpt": "Samsung Electronics a agi le 15 pour limiter l’impact d’une possible grève générale inédite des lignes de semi-conducteurs, en rencontrant le syndicat à Pyeongtaek.",
+        "body": "Les dirigeants de Samsung Electronics se sont rendus le 15 sur le site de Pyeongtaek et ont rencontré le syndicat. Cette démarche intervient alors qu’une grève générale sans précédent des lignes de semi-conducteurs entre dans sa phase de compte à rebours, poussant l’entreprise à préparer des mesures pour réduire le choc. Selon le texte original, une baisse du volume de wafers introduits a été évoquée, principalement autour du site de Pyeongtaek où la grève aurait lieu. Sur place, le message selon lequel « c’est maintenant le moment en or des semi-conducteurs » aurait aussi été transmis. Comme l’arrêt et le redémarrage d’une ligne de puces sont lourds à gérer, Samsung semble concentrer sa réponse sur Pyeongtaek, site clé, afin de limiter les perturbations. Les discussions sociales et la tenue de la grève détermineront l’incertitude. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إضراب رقائق سامسونغ يقترب: الإدارة تزور نقابة بيونغتايك لتخفيف الأثر",
+        "excerpt": "تحركت سامسونغ إلكترونيكس في 15 من الشهر لتقليل أثر إضراب عام غير مسبوق محتمل في خطوط أشباه الموصلات، عبر لقاء النقابة في بيونغتايك وبحث خفض إدخال الرقائق.",
+        "body": "زار كبار مسؤولي سامسونغ إلكترونيكس موقع بيونغتايك في 15 من الشهر والتقوا النقابة. وجاءت الخطوة مع دخول إضراب عام غير مسبوق في خطوط أشباه الموصلات مرحلة العد التنازلي، ما دفع الشركة إلى الاستعداد لتقليل الصدمة. وبحسب النص الأصلي، طُرحت إمكانية خفض كمية الرقائق المدخلة، مع التركيز على موقع بيونغتايك حيث سيجري الإضراب. كما نُقلت في الموقع رسالة مفادها أن “الوقت الحالي هو الفترة الذهبية لأشباه الموصلات”. ونظرا إلى أن وقف خطوط إنتاج الرقائق وإعادة تشغيلها يفرضان عبئا كبيرا، تبدو سامسونغ مركزة على بيونغتايك، وهو موقع أساسي، للحد من تعطل الإنتاج. وستحدد محادثات الإدارة والعمال ومسار الإضراب مستوى عدم اليقين في موقع الإنتاج. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सैमसंग चिप हड़ताल की उलटी गिनती, अधिकारी प्योंगटेक यूनियन से मिले",
+        "excerpt": "सैमसंग इलेक्ट्रॉनिक्स ने 15 तारीख को अभूतपूर्व सेमीकंडक्टर लाइन आम हड़ताल की आशंका बढ़ने पर प्योंगटेक में यूनियन से मिलकर असर कम करने की तैयारी शुरू की।",
+        "body": "सैमसंग इलेक्ट्रॉनिक्स के शीर्ष अधिकारी 15 तारीख को प्योंगटेक संयंत्र पहुंचे और यूनियन से मिले। सेमीकंडक्टर लाइनों में अभूतपूर्व आम हड़ताल की उलटी गिनती शुरू होने के बीच कंपनी ने हड़ताल के झटके को कम करने की तैयारी शुरू की। मूल रिपोर्ट के अनुसार, जिस प्योंगटेक परिसर में हड़ताल होनी है, उसे केंद्र में रखकर वेफर इनपुट घटाने का उपाय चर्चा में आया। मौके पर यह संदेश भी दिया गया कि “अभी सेमीकंडक्टर का गोल्डन टाइम है।” चिप उत्पादन लाइन को रोकने और फिर चालू करने का बोझ बड़ा होता है, इसलिए सैमसंग अपने प्रमुख प्योंगटेक स्थल पर उत्पादन व्यवधान कम करने पर ध्यान देती दिख रही है। आगे की श्रम-प्रबंधन बातचीत और हड़ताल का होना उत्पादन स्थल की अनिश्चितता तय करेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Mogok Chip Samsung Masuk Hitung Mundur, Direksi Temui Serikat Pyeongtaek",
+        "excerpt": "Samsung Electronics pada tanggal 15 bergerak mengurangi dampak kemungkinan mogok umum lini semikonduktor yang belum pernah terjadi, dengan menemui serikat di Pyeongtaek.",
+        "body": "Jajaran direksi Samsung Electronics pada tanggal 15 mengunjungi lokasi Pyeongtaek dan bertemu dengan serikat pekerja. Langkah ini dilakukan saat mogok umum yang belum pernah terjadi pada lini semikonduktor memasuki hitung mundur, sehingga perusahaan menyiapkan cara untuk mengurangi dampaknya. Menurut teks asli, opsi mengurangi jumlah wafer yang dimasukkan dibahas dengan fokus pada fasilitas Pyeongtaek, tempat mogok akan berlangsung. Di lokasi juga disampaikan pesan bahwa “sekarang adalah golden time semikonduktor”. Karena lini produksi chip memiliki beban besar saat dihentikan dan dinyalakan kembali, Samsung tampaknya memusatkan respons pada Pyeongtaek sebagai basis utama untuk meminimalkan gangguan produksi. Dialog pekerja-manajemen dan kepastian mogok akan menentukan ketidakpastian di lapangan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "08a80537b974",
     "slug": "탈탄소현지화-투트랙-전략-k철강-고강도-체질개선-388728",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "ETF Aktif Nasdaq Tembus 60%, Jauh di Atas Kenaikan Nasdaq 100 16,51%",
         "excerpt": "Menurut ETF Check pada 14 Mei 2026, ETF aktif Nasdaq KoAct dan TIME jauh mengungguli Nasdaq 100 karena mengikuti pergeseran ke saham infrastruktur AI.",
         "body": "Data ETF Check pada 14 Mei 2026 menunjukkan bahwa ETF aktif berbasis Nasdaq di Amerika Serikat mencatat imbal hasil berlebih yang besar dibanding pasar. ‘KoAct US Nasdaq Growth Companies Active’ membukukan imbal hasil tahun berjalan 64,62%, sedangkan ‘TIME US Nasdaq 100 Active’ mencapai 60,60%. Pada periode yang sama, indeks Nasdaq 100 hanya naik 16,51%. Kedua produk merupakan ETF aktif yang mengikuti indeks Nasdaq 100, dan latar belakang kinerjanya disebut berasal dari respons aktif terhadap kepemimpinan infrastruktur AI, termasuk semikonduktor, listrik, dan komunikasi optik, bukan hanya fokus pada kelompok M7 tradisional. Perbedaan hasil dikaitkan dengan pergeseran dana dari Nvidia, Apple, Amazon, Microsoft, Tesla, Meta, dan Alphabet menuju saham infrastruktur AI. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "bf76b0437c71",
-    "slug": "지금이-기회코스피에-꽂힌-홍콩-큰손들-몰려온-이유-817470",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T19:53:13.846Z",
-    "updatedAt": "2026-05-14T19:53:13.846Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605146591i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605146591i",
-    "titleFingerprint": "c88c5cd79bcc5316615bb72667c4369d51208a38",
-    "dedupKeys": [
-      "bf76b0437c719621131ee922801d766b1786498d",
-      "c88c5cd79bcc5316615bb72667c4369d51208a38",
-      "7942dc7171b66e55cd7bb7ac3ccf5bb9f1fdcf8a"
-    ],
-    "imageUrl": "/images/articles/bf76b0437c71.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 투자 기회 찾는 홍콩 슈퍼리치, 외국인통합계좌가 연 문",
-        "excerpt": "홍콩 푸투증권 VIP 등 40여 명의 슈퍼리치가 14일 서울 여의도 하나증권을 찾아 코스피 투자 기회를 점검하며 외국인통합계좌 확산 기대가 커지고 있다.",
-        "body": "10억달러, 약 1조4800억원 규모 자산을 운용하는 홍콩 슈퍼리치 고객 40여 명이 14일 한국을 찾았다. 이들은 홍콩 푸투증권과 CSOP자산운용이 서울 여의도 하나증권 본사에서 진행한 한국 리서치에 참여하고, 이틀간 국내 주요 상장사와 IR 미팅을 통해 코스피 투자 기회를 살필 예정이다. 배경에는 외국인 투자자가 해외 금융투자회사를 통해 국내 주식을 매매·결제할 수 있는 외국인통합계좌 확대가 있다. 하나증권은 지난해 8월 엠퍼러증권과 서비스를 시작했고 6월 푸투증권과도 출시할 예정이다. 삼성증권은 IBKR과 서비스를 예고했으며 주요 증권사도 준비 중이다. 한국경제는 CSOP SK하이닉스 데일리 2배 레버리지 ETF의 AUM이 8조원에 육박한다고 전했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Hong Kong Super-Rich Eye KOSPI as Omnibus Accounts Open Access",
-        "excerpt": "About 40 Hong Kong VIP investors visited Hana Securities in Seoul on May 14 to assess KOSPI opportunities as Korea’s foreign omnibus account services gain momentum.",
-        "body": "About 40 Hong Kong super-rich clients managing assets of $1 billion, or roughly 1.48 trillion won, visited Korea on May 14. They joined a Korea research session hosted by Futu Securities and CSOP Asset Management at Hana Securities’ headquarters in Yeouido, Seoul, and are set to meet major listed Korean companies for IR sessions over two days to examine KOSPI opportunities. The backdrop is the expansion of foreign omnibus accounts, which allow overseas investors to trade and settle Korean stocks through foreign financial investment firms. Hana Securities began the service with Emperor Securities last August and plans to launch it with Futu in June. Samsung Securities has announced a service with IBKR, while other major brokerages are preparing similar offerings. Hankyung.com reported that the CSOP SK hynix Daily 2x Leveraged ETF’s AUM is nearing 8 trillion won. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "香港富裕層がKOSPI投資機会を探る、外国人統合口座に注目",
-        "excerpt": "香港フートゥ証券のVIPなど約40人の富裕層投資家が5月14日、ソウルのハナ証券を訪れ、KOSPI投資機会と外国人統合口座の拡大を確認した。",
-        "body": "10億ドル、約1兆4800億ウォン規模の資産を運用する香港のスーパーリッチ顧客約40人が5月14日に韓国を訪れた。香港フートゥ証券とCSOPアセットマネジメントがソウル汝矣島のハナ証券本社で開いた韓国リサーチに参加し、2日間にわたり韓国の主要上場企業とのIR面談を通じてKOSPIの投資機会を探る予定だ。背景には、外国人投資家が海外金融投資会社を通じて韓国株を売買・決済できる外国人統合口座の拡大がある。ハナ証券は昨年8月にエンペラー証券とサービスを開始し、6月にはフートゥ証券とも開始する予定だ。サムスン証券はIBKRとのサービスを予告し、主要証券会社も準備している。韓国経済はCSOP SKハイニックス・デイリー2倍レバレッジETFのAUMが8兆ウォンに迫ると報じた。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "香港超级富豪寻找KOSPI机会，外资综合账户打开通道",
-        "excerpt": "约40名香港富途证券VIP等高净值投资者5月14日到访首尔韩亚证券，考察KOSPI投资机会，外资综合账户扩容预期升温。",
-        "body": "管理10亿美元、约1.48万亿韩元资产的约40名香港超级富豪客户于5月14日访问韩国。他们参加了香港富途证券和CSOP资产管理在首尔汝矣岛韩亚证券总部举行的韩国研究活动，并计划在两天内与韩国主要上市公司进行连续IR会谈，寻找KOSPI投资机会。背景是外资综合账户的扩大，该账户允许外国投资者通过海外金融投资公司买卖和结算韩国股票。韩亚证券去年8月与英皇证券率先推出该服务，并计划6月与富途证券合作上线。三星证券已宣布将与IBKR推出服务，其他主要券商也在准备。韩国经济报道称，CSOP SK海力士每日2倍杠杆ETF的AUM接近8万亿韩元。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Súper ricos de Hong Kong buscan oportunidades en KOSPI con nuevas cuentas",
-        "excerpt": "Unos 40 inversores VIP de Hong Kong visitaron Hana Securities en Seúl el 14 de mayo para evaluar oportunidades en KOSPI mientras avanzan las cuentas ómnibus para extranjeros.",
-        "body": "Unos 40 clientes súper ricos de Hong Kong, que gestionan activos por 1.000 millones de dólares, unos 1,48 billones de wones, visitaron Corea el 14 de mayo. Participaron en una sesión de investigación sobre Corea organizada por Futu Securities y CSOP Asset Management en la sede de Hana Securities en Yeouido, Seúl, y durante dos días prevén reunirse con grandes empresas cotizadas para revisar oportunidades en KOSPI. El contexto es la expansión de las cuentas ómnibus para extranjeros, que permiten a inversores foráneos comprar, vender y liquidar acciones coreanas mediante firmas financieras del exterior. Hana Securities inició el servicio con Emperor Securities en agosto pasado y planea lanzarlo con Futu en junio. Samsung Securities anunció un servicio con IBKR y otras grandes casas también se preparan. Hankyung.com informó que el AUM del CSOP SK hynix Daily 2x Leveraged ETF se acerca a 8 billones de wones. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Super-ricos de Hong Kong miram KOSPI com avanço de contas estrangeiras",
-        "excerpt": "Cerca de 40 investidores VIP de Hong Kong visitaram a Hana Securities em Seul em 14 de maio para avaliar oportunidades no KOSPI diante da expansão das contas integradas para estrangeiros.",
-        "body": "Cerca de 40 clientes super-ricos de Hong Kong, que administram US$ 1 bilhão, aproximadamente 1,48 trilhão de won, visitaram a Coreia em 14 de maio. Eles participaram de uma sessão de pesquisa sobre a Coreia organizada pela Futu Securities e pela CSOP Asset Management na sede da Hana Securities, em Yeouido, Seul, e devem se reunir por dois dias com grandes companhias listadas para examinar oportunidades no KOSPI. O pano de fundo é a expansão das contas integradas para estrangeiros, que permitem a investidores externos negociar e liquidar ações coreanas por meio de instituições financeiras no exterior. A Hana Securities iniciou o serviço com a Emperor Securities em agosto passado e planeja lançá-lo com a Futu em junho. A Samsung Securities anunciou serviço com a IBKR, e outras grandes corretoras também se preparam. O Hankyung.com informou que o AUM do CSOP SK hynix Daily 2x Leveraged ETF se aproxima de 8 trilhões de won. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Hongkongs Superreiche prüfen KOSPI-Chancen durch Omnibuskonten",
-        "excerpt": "Rund 40 VIP-Investoren aus Hongkong besuchten am 14. Mai Hana Securities in Seoul, um KOSPI-Chancen zu prüfen, während Koreas ausländische Omnibuskonten an Bedeutung gewinnen.",
-        "body": "Rund 40 superreiche Kunden aus Hongkong, die Vermögen von 1 Milliarde Dollar oder etwa 1,48 Billionen Won verwalten, besuchten am 14. Mai Korea. Sie nahmen an einer Korea-Research-Veranstaltung von Futu Securities und CSOP Asset Management am Hauptsitz von Hana Securities in Yeouido, Seoul, teil und wollen über zwei Tage IR-Termine mit großen börsennotierten koreanischen Unternehmen wahrnehmen, um KOSPI-Chancen zu prüfen. Hintergrund ist die Ausweitung ausländischer Omnibuskonten, über die ausländische Anleger koreanische Aktien über Finanzinvestmentfirmen im Ausland handeln und abwickeln können. Hana Securities startete den Dienst im vergangenen August mit Emperor Securities und plant im Juni einen Start mit Futu. Samsung Securities kündigte einen Dienst mit IBKR an, weitere große Broker bereiten Angebote vor. Hankyung.com berichtete, dass das AUM des CSOP SK hynix Daily 2x Leveraged ETF fast 8 Billionen Won erreicht. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les grandes fortunes de Hong Kong ciblent le KOSPI via les comptes omnibus",
-        "excerpt": "Environ 40 investisseurs VIP de Hong Kong ont visité Hana Securities à Séoul le 14 mai pour étudier le KOSPI, alors que les comptes omnibus pour étrangers se développent.",
-        "body": "Environ 40 clients très fortunés de Hong Kong, gérant 1 milliard de dollars, soit près de 1.480 milliards de wons, se sont rendus en Corée le 14 mai. Ils ont participé à une session de recherche sur la Corée organisée par Futu Securities et CSOP Asset Management au siège de Hana Securities à Yeouido, Séoul, et doivent rencontrer pendant deux jours de grandes sociétés cotées coréennes lors de réunions IR afin d’examiner les opportunités du KOSPI. Le contexte est l’essor des comptes omnibus pour étrangers, qui permettent aux investisseurs étrangers de négocier et régler des actions coréennes via des sociétés financières d’investissement à l’étranger. Hana Securities a lancé ce service avec Emperor Securities en août dernier et prévoit un lancement avec Futu en juin. Samsung Securities a annoncé un service avec IBKR, tandis que d’autres grands courtiers se préparent. Hankyung.com a indiqué que l’AUM du CSOP SK hynix Daily 2x Leveraged ETF approche 8.000 milliards de wons. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "أثرياء هونغ كونغ يترقبون فرص كوسبي مع توسع الحسابات المجمعة",
-        "excerpt": "زار نحو 40 مستثمرا من عملاء هونغ كونغ الأثرياء مقر هانا سيكيوريتيز في سول يوم 14 مايو لدراسة فرص كوسبي مع تنامي خدمات الحسابات المجمعة للأجانب.",
-        "body": "زار نحو 40 عميلا من أثرياء هونغ كونغ، يديرون أصولا بقيمة مليار دولار، أي نحو 1.48 تريليون وون، كوريا يوم 14 مايو. شاركوا في جلسة بحث عن السوق الكورية نظمتها فوتو سيكيوريتيز وCSOP لإدارة الأصول في مقر هانا سيكيوريتيز في يويدو بسول، ومن المقرر أن يعقدوا اجتماعات علاقات مستثمرين مع شركات كورية كبرى مدرجة على مدى يومين لبحث فرص كوسبي. تأتي الزيارة مع توسع الحسابات المجمعة للأجانب، التي تتيح للمستثمرين الأجانب تداول وتسوية الأسهم الكورية عبر شركات استثمار مالي خارجية. بدأت هانا سيكيوريتيز الخدمة مع إمبراطور سيكيوريتيز في أغسطس الماضي وتعتزم إطلاقها مع فوتو في يونيو. كما أعلنت سامسونغ سيكيوريتيز خدمة مع IBKR، وتستعد شركات وساطة كبرى أخرى. وذكر hankyung.com أن أصول صندوق CSOP SK hynix Daily 2x Leveraged ETF تقترب من 8 تريليونات وون. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KOSPI अवसरों पर हांगकांग के सुपर-रिच की नजर, विदेशी खाते बने पुल",
-        "excerpt": "हांगकांग के करीब 40 VIP निवेशक 14 मई को सियोल में हाना सिक्योरिटीज पहुंचे, जहां उन्होंने KOSPI अवसरों और विदेशी ओम्निबस खाते के विस्तार को परखा।",
-        "body": "करीब 1 अरब डॉलर, यानी लगभग 1.48 लाख करोड़ वॉन की संपत्ति संभालने वाले हांगकांग के लगभग 40 सुपर-रिच ग्राहक 14 मई को कोरिया पहुंचे। उन्होंने सियोल के येओइदो स्थित हाना सिक्योरिटीज मुख्यालय में फुतु सिक्योरिटीज और CSOP एसेट मैनेजमेंट द्वारा आयोजित कोरिया रिसर्च सत्र में भाग लिया और दो दिनों तक प्रमुख कोरियाई सूचीबद्ध कंपनियों के साथ IR बैठकों के जरिये KOSPI निवेश अवसरों की समीक्षा करने वाले हैं। इसकी पृष्ठभूमि विदेशी ओम्निबस खातों का विस्तार है, जिनसे विदेशी निवेशक विदेशी वित्तीय निवेश कंपनियों के माध्यम से कोरियाई शेयरों की खरीद-बिक्री और निपटान कर सकते हैं। हाना सिक्योरिटीज ने पिछले अगस्त में Emperor Securities के साथ सेवा शुरू की और जून में Futu के साथ इसे शुरू करने की योजना है। Samsung Securities ने IBKR के साथ सेवा की घोषणा की है और अन्य प्रमुख ब्रोकरेज भी तैयारी में हैं। hankyung.com के अनुसार CSOP SK hynix Daily 2x Leveraged ETF का AUM 8 ट्रिलियन वॉन के करीब है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Super Kaya Hong Kong Lirik Peluang KOSPI lewat Rekening Omnibus Asing",
-        "excerpt": "Sekitar 40 investor VIP Hong Kong mengunjungi Hana Securities di Seoul pada 14 Mei untuk menilai peluang KOSPI seiring meluasnya layanan rekening omnibus asing di Korea.",
-        "body": "Sekitar 40 klien super kaya Hong Kong yang mengelola aset US$1 miliar, atau sekitar 1,48 triliun won, mengunjungi Korea pada 14 Mei. Mereka mengikuti sesi riset Korea yang digelar Futu Securities dan CSOP Asset Management di kantor pusat Hana Securities di Yeouido, Seoul, dan dijadwalkan bertemu perusahaan-perusahaan besar Korea yang tercatat di bursa selama dua hari untuk meninjau peluang investasi KOSPI. Latar belakangnya adalah perluasan rekening omnibus asing, yang memungkinkan investor asing memperdagangkan dan menyelesaikan transaksi saham Korea melalui perusahaan investasi keuangan luar negeri. Hana Securities memulai layanan dengan Emperor Securities pada Agustus lalu dan berencana meluncurkannya bersama Futu pada Juni. Samsung Securities mengumumkan layanan dengan IBKR, sementara broker besar lain juga bersiap. Hankyung.com melaporkan AUM CSOP SK hynix Daily 2x Leveraged ETF mendekati 8 triliun won. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "457846013a45",
-    "slug": "sk네트웍스-분석-슬금슬금-오르다-상한가ai-투자이익도-본격화-630187",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T19:51:51.422Z",
-    "updatedAt": "2026-05-14T19:51:51.422Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605146795i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605146795i",
-    "titleFingerprint": "aeb25a07e4eb9b12a5b5e2b5173d3b9f814c4928",
-    "dedupKeys": [
-      "457846013a459d8b1e3b80a8ab22c9d9d7f31f53",
-      "aeb25a07e4eb9b12a5b5e2b5173d3b9f814c4928",
-      "e9028612ba8748f7a2f448f1f125eeb5426a3d9a"
-    ],
-    "imageUrl": "/images/articles/457846013a45.jpg",
-    "i18n": {
-      "ko": {
-        "title": "SK네트웍스 상한가 분석, AI 투자이익 본격화 신호에 주목",
-        "excerpt": "한국경제는 최근 SK네트웍스 주가가 점진적으로 오르다 상한가에 도달한 흐름과 AI 투자이익이 본격화되는 배경을 분석했다.",
-        "body": "SK네트웍스가 최근 주식시장에서 점진적인 상승 흐름을 이어간 뒤 상한가에 도달하며 투자자 관심을 받았다. 한국경제는 ‘SK네트웍스 분석’ 기사에서 이 같은 주가 움직임과 함께 AI 투자이익이 본격화되고 있다는 점을 핵심 배경으로 제시했다. 기사 제목이 강조한 흐름은 단기 급등만이 아니라 앞서 이어진 완만한 상승세 이후 가격 제한폭까지 오른 장면이다. 투자자들은 SK네트웍스의 기존 사업 흐름과 AI 관련 투자 성과가 주가 평가에 어떻게 반영되는지 주목하고 있다. 다만 원문에서 확인되는 범위는 상한가 기록과 AI 투자이익 본격화라는 분석 축에 한정된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "SK Networks hits limit-up as AI investment gains come into focus",
-        "excerpt": "Hankyung analyzed SK Networks’ recent move from gradual gains to a limit-up session, highlighting the start of more visible AI investment profits.",
-        "body": "SK Networks drew investor attention after its shares moved gradually higher and then reached the daily upper limit. In an analysis article, Hankyung presented this stock-price move alongside the view that gains from AI investments are beginning to materialize. The focus of the headline is not only the sharp limit-up session, but also the slow upward trend that preceded it. Investors are watching how SK Networks’ business profile and AI-related investment results may be reflected in market valuation. Based on the available source information, the confirmed points are limited to the limit-up move and the article’s emphasis on AI investment gains becoming more visible. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "SKネットワークスがストップ高、AI投資益の本格化に注目",
-        "excerpt": "韓国経済新聞は、SKネットワークス株がじわじわ上昇した後にストップ高となった流れと、AI投資益の本格化を分析した。",
-        "body": "SKネットワークスは最近の株式市場で緩やかな上昇を続けた後、ストップ高に達し、投資家の関心を集めた。韓国経済新聞は「SKネットワークス分析」の記事で、この株価の動きとともに、AI投資益が本格化している点を主な背景として示した。見出しが強調したのは、単なる短期急騰ではなく、それ以前から続いていたじわじわとした上昇の末に値幅制限まで上がった場面だ。投資家は、SKネットワークスの既存事業の流れとAI関連投資の成果が株価評価にどう反映されるかに注目している。ただし、原文情報で確認できる内容はストップ高とAI投資益の本格化という分析軸に限られる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "SK Networks涨停分析：AI投资收益开始进入兑现阶段",
-        "excerpt": "韩国经济新闻分析称，SK Networks股价近期在逐步上涨后触及涨停，AI投资收益开始显现成为关注焦点。",
-        "body": "SK Networks近期在股票市场延续逐步上涨走势后触及涨停，引发投资者关注。韩国经济新闻在题为“SK Networks分析”的文章中，将这一股价表现与AI投资收益开始进入更明显阶段联系起来。标题强调的并非单日快速上涨本身，而是在此前缓慢上行之后达到涨停的过程。投资者正在关注SK Networks既有业务走势以及AI相关投资成果将如何反映在市场估值中。不过，依据原文可确认的信息，仅限于该股触及涨停，以及文章提出AI投资收益正在本格化这一分析重点。来源: hankyung.com"
-      },
-      "es": {
-        "title": "SK Networks toca el límite alcista y el mercado mira sus ganancias en IA",
-        "excerpt": "Hankyung analizó cómo SK Networks pasó de una subida gradual a alcanzar el límite alcista, con el inicio de beneficios por inversiones en IA como foco.",
-        "body": "SK Networks atrajo la atención de los inversores después de avanzar gradualmente en bolsa y alcanzar el límite diario de subida. En un artículo de análisis, Hankyung vinculó este movimiento de la acción con la idea de que los beneficios derivados de inversiones en inteligencia artificial empiezan a tomar forma. El foco del titular no está solo en el salto hasta el límite alcista, sino también en la subida pausada que lo precedió. Los inversores observan cómo el perfil de negocio de SK Networks y los resultados de sus inversiones relacionadas con IA pueden reflejarse en la valoración bursátil. Según la información disponible del texto original, los puntos confirmados se limitan al límite alcista y al énfasis en la materialización de beneficios por IA. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "SK Networks chega ao limite de alta com ganhos de investimentos em IA no foco",
-        "excerpt": "O Hankyung analisou a alta gradual da SK Networks até o limite diário, destacando o início de ganhos mais visíveis com investimentos em IA.",
-        "body": "A SK Networks chamou a atenção dos investidores após manter uma trajetória gradual de alta na bolsa e atingir o limite diário de valorização. Em artigo de análise, o Hankyung relacionou esse movimento das ações ao fato de que os ganhos provenientes de investimentos em inteligência artificial começam a ganhar tração. O destaque do título não é apenas a alta brusca até o limite, mas também o avanço moderado observado antes disso. Investidores acompanham como o perfil de negócios da SK Networks e os resultados ligados a investimentos em IA podem ser refletidos na avaliação de mercado. Com base nas informações disponíveis do original, os fatos confirmados se restringem ao limite de alta e ao foco na materialização dos ganhos em IA. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "SK Networks erreicht Kurslimit, KI-Investmentgewinne rücken in den Fokus",
-        "excerpt": "Hankyung analysierte den jüngsten Anstieg von SK Networks bis zum oberen Tageslimit und verwies auf sichtbar werdende Gewinne aus KI-Investitionen.",
-        "body": "SK Networks rückte zuletzt in den Blick der Anleger, nachdem die Aktie zunächst schrittweise gestiegen war und anschließend das obere Tageslimit erreichte. In einem Analyseartikel stellte Hankyung diese Kursbewegung in Zusammenhang mit der Einschätzung, dass Gewinne aus KI-Investitionen nun deutlicher zum Tragen kommen. Der Titel betont nicht nur den Sprung bis zum Limit, sondern auch den zuvor langsamen Aufwärtstrend. Anleger beobachten, wie sich das bestehende Geschäft von SK Networks und Ergebnisse aus KI-bezogenen Investitionen in der Marktbewertung niederschlagen könnten. Nach den verfügbaren Angaben aus dem Original sind bestätigt: das Erreichen des oberen Kurslimits und der Analysefokus auf beginnende KI-Investmentgewinne. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "SK Networks atteint sa limite haute, les gains liés à l’IA attirent l’attention",
-        "excerpt": "Hankyung a analysé la hausse progressive de SK Networks jusqu’à sa limite haute, en soulignant le début de gains plus visibles issus des investissements en IA.",
-        "body": "SK Networks a attiré l’attention des investisseurs après une progression graduelle en Bourse suivie d’une atteinte de la limite quotidienne de hausse. Dans un article d’analyse, Hankyung a associé ce mouvement du cours à l’idée que les gains tirés des investissements dans l’intelligence artificielle commencent à se concrétiser. Le titre ne met pas seulement l’accent sur la hausse jusqu’à la limite, mais aussi sur la montée lente qui l’a précédée. Les investisseurs surveillent la manière dont le profil d’activité de SK Networks et les résultats des investissements liés à l’IA pourraient être reflétés dans la valorisation du marché. D’après les informations disponibles dans l’original, les faits confirmés se limitent à la limite haute et au focus sur les gains d’investissement en IA. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سهم SK Networks يبلغ الحد الأقصى للصعود مع بروز أرباح استثمارات الذكاء الاصطناعي",
-        "excerpt": "حللت هانكيونغ صعود سهم SK Networks تدريجيا قبل بلوغ الحد الأقصى اليومي، مع التركيز على بدء ظهور أرباح استثمارات الذكاء الاصطناعي.",
-        "body": "جذب سهم SK Networks اهتمام المستثمرين بعدما واصل صعودا تدريجيا في السوق ثم بلغ الحد الأقصى اليومي للارتفاع. وفي مقال تحليلي، ربطت هانكيونغ هذه الحركة السعرية بفكرة أن أرباح الاستثمارات في الذكاء الاصطناعي بدأت تدخل مرحلة أكثر وضوحا. ولا يركز العنوان على الصعود الحاد وحده، بل على المسار الهادئ الذي سبقه قبل الوصول إلى الحد الأعلى. يراقب المستثمرون كيف يمكن أن تنعكس أعمال SK Networks القائمة ونتائج استثماراتها المرتبطة بالذكاء الاصطناعي على تقييم السهم. وبحسب المعلومات المتاحة من النص الأصلي، تقتصر النقاط المؤكدة على بلوغ السهم الحد الأعلى والتركيز التحليلي على بدء تحقق أرباح استثمارات الذكاء الاصطناعي. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "SK Networks में अपर सर्किट, AI निवेश लाभ पर बाजार की नजर",
-        "excerpt": "Hankyung ने SK Networks के धीरे-धीरे चढ़कर अपर सर्किट तक पहुंचने और AI निवेश लाभ के अधिक स्पष्ट होने की पृष्ठभूमि का विश्लेषण किया।",
-        "body": "SK Networks ने हाल में शेयर बाजार में धीरे-धीरे बढ़त बनाए रखने के बाद दैनिक ऊपरी सीमा को छूकर निवेशकों का ध्यान खींचा। Hankyung ने अपने विश्लेषण लेख में इस शेयर चाल को AI निवेश से होने वाले लाभ के अधिक स्पष्ट होने से जोड़ा। शीर्षक का जोर केवल अचानक आई तेज बढ़त पर नहीं, बल्कि उससे पहले जारी क्रमिक उछाल के बाद ऊपरी सीमा तक पहुंचने पर है। निवेशक देख रहे हैं कि SK Networks के मौजूदा कारोबार और AI से जुड़े निवेश परिणाम उसके बाजार मूल्यांकन में कैसे झलक सकते हैं। उपलब्ध मूल जानकारी के आधार पर पुष्टि योग्य तथ्य अपर सर्किट तक पहुंचने और AI निवेश लाभ के 본격화 पर लेख के फोकस तक सीमित हैं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "SK Networks sentuh batas atas, laba investasi AI mulai jadi sorotan",
-        "excerpt": "Hankyung menganalisis pergerakan SK Networks yang naik bertahap hingga menyentuh batas atas harian, dengan laba investasi AI mulai terlihat sebagai fokus.",
-        "body": "SK Networks menarik perhatian investor setelah sahamnya bergerak naik secara bertahap di pasar dan kemudian menyentuh batas atas harian. Dalam artikel analisis, Hankyung mengaitkan pergerakan harga ini dengan mulai terlihatnya laba dari investasi kecerdasan buatan. Fokus judul bukan hanya lonjakan hingga batas atas, tetapi juga tren kenaikan perlahan yang terjadi sebelumnya. Investor mencermati bagaimana profil bisnis SK Networks dan hasil investasi terkait AI dapat tercermin dalam valuasi pasar. Berdasarkan informasi yang tersedia dari sumber asli, poin yang dapat dikonfirmasi terbatas pada saham yang menyentuh batas atas dan penekanan artikel bahwa laba investasi AI mulai memasuki tahap yang lebih nyata. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "868e35c9e469",
-    "slug": "b2b-시장-ai-침투율-이제-초기단계증시-과열-걱정할-때-아니다-kiw-2026-681589",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T19:50:50.984Z",
-    "updatedAt": "2026-05-14T19:50:50.984Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605145596i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605145596i",
-    "titleFingerprint": "505a731221c8a1601721d185f73f4f395b48e581",
-    "dedupKeys": [
-      "868e35c9e4690b914c652d518418db7a6b9cc1e0",
-      "505a731221c8a1601721d185f73f4f395b48e581",
-      "0ef4eac8f38f1d43387b105f5671af7f3f9b301c"
-    ],
-    "imageUrl": "/images/articles/868e35c9e469.jpg",
-    "i18n": {
-      "ko": {
-        "title": "B2B AI 침투율 초기단계…KIW 2026서 나온 증시 과열 진단",
-        "excerpt": "KIW 2026에서 B2B 시장의 AI 침투율이 아직 초기 단계라는 진단이 제기됐고, 이에 따라 증시 과열을 우려할 시점은 아니라는 평가가 나왔다.",
-        "body": "KIW 2026에서 B2B 시장의 AI 침투율이 아직 초기 단계라는 진단이 나왔다. hankyung.com 보도에 따르면 행사에서는 기업 간 거래 시장에서 인공지능이 본격적으로 확산되기 전 단계에 있다는 점이 강조됐다. 이에 따라 AI 기대감이 증시에 반영되고 있더라도, 이를 곧바로 과열로 단정해 걱정할 시점은 아니라는 평가가 제시됐다. 이번 발언은 AI가 소비자 영역을 넘어 B2B 시장으로 확장되는 과정에서 성장 여지가 남아 있다는 맥락으로 해석된다. 다만 원문에서 구체적인 침투율 수치나 개별 기업 실적 전망은 제시되지 않았다. 출처는 hankyung.com이다."
-      },
-      "en": {
-        "title": "B2B AI Adoption Still Early, KIW 2026 View Says Stock Overheating Fears Premature",
-        "excerpt": "At KIW 2026, speakers said AI penetration in the B2B market remains at an early stage, suggesting it is not yet time to worry about stock market overheating.",
-        "body": "At KIW 2026, the B2B market’s AI penetration was described as still being in its early stage. According to hankyung.com, the event highlighted that artificial intelligence has not yet fully spread across business-to-business markets. Based on that view, even if AI expectations are being reflected in equity prices, the assessment was that it is premature to conclude the stock market is overheating. The remarks point to remaining room for growth as AI expands beyond consumer-facing areas into B2B markets. The original report did not provide specific penetration-rate figures or forecasts for individual companies. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "B2B市場のAI浸透率は初期段階、KIW 2026で株式過熱懸念は時期尚早との見方",
-        "excerpt": "KIW 2026でB2B市場のAI浸透率はまだ初期段階との診断が示され、株式市場の過熱を懸念する時点ではないとの評価が出た。",
-        "body": "KIW 2026で、B2B市場におけるAI浸透率はまだ初期段階にあるとの診断が示された。hankyung.comの報道によると、同イベントでは企業間取引市場で人工知能が本格的に広がる前の段階にある点が強調された。これにより、AIへの期待が株価に反映されているとしても、それを直ちに過熱と判断して懸念する時期ではないとの評価が示された。今回の発言は、AIが消費者向け領域を越えてB2B市場へ広がる過程で、なお成長余地が残っているという文脈で受け止められる。ただし原文では具体的な浸透率の数値や個別企業の業績見通しは示されていない。出典はhankyung.com。"
-      },
-      "zh": {
-        "title": "B2B市场AI渗透仍处初期，KIW 2026观点称暂非担忧股市过热之时",
-        "excerpt": "在KIW 2026上，有观点认为B2B市场AI渗透率仍处初期阶段，因此目前还不是担忧股市过热的时点。",
-        "body": "在KIW 2026上，B2B市场的AI渗透率仍处于初期阶段的判断被提出。据hankyung.com报道，活动中强调，人工智能在企业对企业交易市场尚未进入全面扩散阶段。基于这一判断，即使AI预期已经反映在股市中，也不应立即将其认定为过热并加以担忧。相关表态可被理解为，AI正从消费者领域向B2B市场扩展，而这一过程中仍存在增长空间。不过，原文未提供具体渗透率数据，也未给出个别企业业绩展望。来源：hankyung.com。"
-      },
-      "es": {
-        "title": "La IA en B2B sigue en fase inicial, según KIW 2026; temores de sobrecalentamiento bursátil son prematuros",
-        "excerpt": "En KIW 2026 se señaló que la penetración de la IA en el mercado B2B aún está en una etapa inicial, por lo que no sería momento de temer un sobrecalentamiento bursátil.",
-        "body": "En KIW 2026 se planteó que la penetración de la IA en el mercado B2B todavía se encuentra en una etapa inicial. Según hankyung.com, en el evento se destacó que la inteligencia artificial aún no se ha extendido plenamente en los mercados de empresa a empresa. Desde esa perspectiva, aunque las expectativas sobre la IA estén reflejándose en las acciones, se consideró prematuro concluir que el mercado bursátil está sobrecalentado. El comentario apunta a que aún existe margen de crecimiento mientras la IA se expande desde el ámbito de consumo hacia el mercado B2B. El texto original no ofreció cifras concretas de penetración ni previsiones de resultados para empresas individuales. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "IA no mercado B2B ainda está no início, diz KIW 2026; temor de bolsa aquecida é prematuro",
-        "excerpt": "No KIW 2026, foi avaliado que a penetração da IA no mercado B2B ainda está em estágio inicial, indicando que não é hora de temer superaquecimento das bolsas.",
-        "body": "No KIW 2026, foi apresentada a avaliação de que a penetração da IA no mercado B2B ainda está em estágio inicial. Segundo o hankyung.com, o evento destacou que a inteligência artificial ainda não se espalhou plenamente pelos mercados de negócios entre empresas. Com base nisso, mesmo que as expectativas em torno da IA já estejam refletidas nas ações, a avaliação foi de que é prematuro concluir que o mercado acionário está superaquecido. A declaração sugere que ainda há espaço de crescimento à medida que a IA se expande além do segmento de consumo para o mercado B2B. O texto original não trouxe números específicos de penetração nem projeções de desempenho para empresas individuais. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "B2B-KI-Durchdringung noch am Anfang: KIW 2026 sieht Sorgen vor Börsenüberhitzung als verfrüht",
-        "excerpt": "Auf der KIW 2026 wurde die KI-Durchdringung im B2B-Markt als frühe Phase beschrieben; Sorgen vor einer Überhitzung der Aktienmärkte gelten daher als verfrüht.",
-        "body": "Auf der KIW 2026 wurde die KI-Durchdringung im B2B-Markt als noch frühe Phase eingeordnet. Laut hankyung.com wurde bei der Veranstaltung betont, dass künstliche Intelligenz in Business-to-Business-Märkten noch nicht vollständig verbreitet ist. Vor diesem Hintergrund sei es verfrüht, aus den in Aktienkursen eingepreisten KI-Erwartungen unmittelbar auf eine Überhitzung des Aktienmarkts zu schließen. Die Aussage verweist darauf, dass weiteres Wachstumspotenzial besteht, während KI über verbrauchernahe Bereiche hinaus in B2B-Märkte vordringt. Der Originalbericht nannte keine konkreten Durchdringungsraten und keine Ergebnisprognosen für einzelne Unternehmen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "L’IA B2B reste au stade initial, selon KIW 2026; les craintes de surchauffe boursière jugées prématurées",
-        "excerpt": "Lors de KIW 2026, la pénétration de l’IA dans le marché B2B a été décrite comme encore initiale, ce qui rend prématurées les craintes de surchauffe boursière.",
-        "body": "Lors de KIW 2026, la pénétration de l’IA dans le marché B2B a été présentée comme encore à un stade initial. Selon hankyung.com, l’événement a souligné que l’intelligence artificielle ne s’est pas encore pleinement diffusée dans les marchés interentreprises. Dans ce contexte, même si les attentes liées à l’IA se reflètent dans les cours des actions, il a été jugé prématuré de conclure à une surchauffe du marché boursier. Cette analyse indique qu’il reste une marge de croissance alors que l’IA s’étend des usages grand public vers le B2B. Le texte original ne fournit pas de taux de pénétration précis ni de prévisions de résultats pour des entreprises individuelles. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "اختراق الذكاء الاصطناعي لسوق B2B لا يزال مبكرا وفق KIW 2026 ومخاوف سخونة الأسهم سابقة لأوانها",
-        "excerpt": "في KIW 2026، طُرح تقييم بأن انتشار الذكاء الاصطناعي في سوق B2B لا يزال في مرحلة أولية، ما يجعل القلق من سخونة سوق الأسهم سابقا لأوانه.",
-        "body": "في KIW 2026، طُرح تقييم يفيد بأن معدل انتشار الذكاء الاصطناعي في سوق B2B لا يزال في مرحلة أولية. ووفقا لما أوردته hankyung.com، شدد الحدث على أن الذكاء الاصطناعي لم ينتشر بعد بصورة كاملة في أسواق التعاملات بين الشركات. وبناء على ذلك، حتى إذا كانت توقعات الذكاء الاصطناعي تنعكس في أسعار الأسهم، فقد اعتُبر أن الحكم على السوق بأنها في حالة سخونة مفرطة ما زال مبكرا. وتشير هذه التصريحات إلى وجود مساحة نمو متبقية مع انتقال الذكاء الاصطناعي من مجالات المستهلكين إلى سوق B2B. ولم يورد النص الأصلي أرقاما محددة لمعدلات الانتشار أو توقعات لأداء شركات بعينها. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "B2B बाजार में AI पैठ अभी शुरुआती, KIW 2026 में शेयर बाजार की तेजी पर चिंता को जल्दबाजी बताया गया",
-        "excerpt": "KIW 2026 में कहा गया कि B2B बाजार में AI की पैठ अभी शुरुआती चरण में है, इसलिए शेयर बाजार के अत्यधिक गरम होने की चिंता अभी समय से पहले है।",
-        "body": "KIW 2026 में B2B बाजार में AI की पैठ को अभी शुरुआती चरण में बताया गया। hankyung.com के अनुसार, कार्यक्रम में इस बात पर जोर दिया गया कि कृत्रिम बुद्धिमत्ता अभी व्यवसाय-से-व्यवसाय बाजारों में पूरी तरह नहीं फैली है। इसी आधार पर कहा गया कि भले ही AI से जुड़ी उम्मीदें शेयर कीमतों में दिख रही हों, इसे तुरंत बाजार के अत्यधिक गरम होने के रूप में मानना जल्दबाजी होगी। यह टिप्पणी संकेत देती है कि AI के उपभोक्ता क्षेत्रों से आगे बढ़कर B2B बाजार में विस्तार के दौरान अभी वृद्धि की गुंजाइश बाकी है। मूल रिपोर्ट में पैठ दर के ठोस आंकड़े या किसी विशेष कंपनी के प्रदर्शन अनुमान नहीं दिए गए। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Penetrasi AI di Pasar B2B Masih Awal, KIW 2026 Nilai Kekhawatiran Saham Panas Terlalu Dini",
-        "excerpt": "Dalam KIW 2026, penetrasi AI di pasar B2B dinilai masih berada pada tahap awal, sehingga kekhawatiran atas pasar saham yang terlalu panas disebut belum waktunya.",
-        "body": "Dalam KIW 2026, penetrasi AI di pasar B2B dinilai masih berada pada tahap awal. Menurut hankyung.com, acara tersebut menekankan bahwa kecerdasan buatan belum sepenuhnya menyebar di pasar bisnis-ke-bisnis. Karena itu, meskipun ekspektasi terhadap AI sudah tercermin di harga saham, penilaian bahwa pasar saham telah terlalu panas dianggap masih prematur. Pernyataan ini menunjukkan masih adanya ruang pertumbuhan saat AI bergerak dari ranah konsumen menuju pasar B2B. Namun, naskah asli tidak menyajikan angka penetrasi yang spesifik maupun proyeksi kinerja perusahaan tertentu. Sumber: hankyung.com."
       }
     }
   }
