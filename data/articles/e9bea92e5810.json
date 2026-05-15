@@ -1,0 +1,75 @@
+{
+  "id": "e9bea92e5810",
+  "slug": "이제는-ai-효율전쟁한국-기업들에-기회-충분하다-262037",
+  "channelId": "FX",
+  "category": "fx",
+  "publishedAt": "2026-05-15T15:11:15.240Z",
+  "updatedAt": "2026-05-15T15:11:15.240Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026051599421",
+  "canonicalUrl": "https://www.hankyung.com/article/2026051599421",
+  "titleFingerprint": "a162d17b25f6e90f8a825d9ee081fb47282c1955",
+  "dedupKeys": [
+    "e9bea92e581053fe9a1227e84c3b51c56b68ef77",
+    "a162d17b25f6e90f8a825d9ee081fb47282c1955",
+    "24466f348f2335d729a6d1964502a11b67dad6f8"
+  ],
+  "imageUrl": "/images/articles/e9bea92e5810.jpg",
+  "i18n": {
+    "ko": {
+      "title": "AI 효율전쟁 본격화, 한국 AI 기업들이 잡을 기회는 충분하다",
+      "excerpt": "15일 서울 신라호텔 KIW 2026에서 국내 AI 기업들이 연산 중심 경쟁이 효율·온디바이스·에지 AI로 옮겨가며 한국 기업에 기회가 있다고 밝혔다.",
+      "body": "15일 서울 장충동 신라호텔에서 열린 코리아 인베스트먼트 위크(KIW) 2026에서 IPO를 앞둔 국내 주요 AI 기업들은 AI 시장의 키워드가 연산에서 효율로, 데이터센터에서 일상 기기로 이동하고 있다고 밝혔다. 포인투테크놀로지는 GPU 연결 인터커넥트 병목이 컴퓨팅 성능을 30%가량 낮출 수 있다며, 기존 구리선보다 전송 거리가 최대 10배 길고 광통신 대비 전력 소비가 3분의 1인 이튜브를 제시했다. 엘리스그룹은 AI 풀스택과 모듈형 데이터센터를, 딥엑스와 모빌린트는 초저전력 반도체와 에지 AI를 강조했다. 모빌린트는 에지 AI 시장이 연 20% 이상 성장하고 NPU가 GPU보다 전력 대비 성능이 4~6배 높다고 설명했다. 출처: hankyung.com"
+    },
+    "en": {
+      "title": "AI Efficiency Race Accelerates as Korean AI Firms See Room to Compete",
+      "excerpt": "At KIW 2026 in Seoul on May 15, Korean AI firms said competition is shifting from raw computing to efficiency, on-device processing and edge AI.",
+      "body": "At Korea Investment Week (KIW) 2026, held May 15 at the Shilla Hotel in Jangchung-dong, Seoul, major Korean AI companies preparing for IPOs said the AI market is moving from computation to efficiency and from data centers to everyday devices. Point2 Technology said interconnect bottlenecks linking GPUs can reduce computing performance by about 30%, and presented e-Tube, which offers up to 10 times the transmission distance of copper wires and uses one-third the power of optical communication. Elice Group highlighted AI full-stack services and modular data centers, while DEEPX and Mobilint stressed ultra-low-power chips and edge AI. Mobilint said the edge AI market is growing more than 20% annually and its NPU delivers 4 to 6 times better performance per watt than GPUs. Source: hankyung.com"
+    },
+    "ja": {
+      "title": "AI効率競争が本格化、韓国AI企業に広がる成長機会",
+      "excerpt": "5月15日にソウルの新羅ホテルで開かれたKIW 2026で、韓国AI企業は競争軸が演算から効率、オンデバイスとエッジAIへ移ると述べた。",
+      "body": "5月15日、ソウル・奨忠洞の新羅ホテルで開かれたコリア・インベストメント・ウィーク（KIW）2026で、IPOを控える韓国の主要AI企業は、AI市場のキーワードが演算から効率へ、データセンターから日常機器へ移っていると説明した。Point2 Technologyは、GPUをつなぐインターコネクトのボトルネックで計算性能が約30%低下し得るとし、銅線より伝送距離が最大10倍長く、光通信比で消費電力が3分の1のe-Tubeを提示した。Elice GroupはAIフルスタックとモジュール型データセンターを、DEEPXとMobilintは超低電力半導体とエッジAIを強調した。MobilintはエッジAI市場が年20%以上成長し、同社NPUはGPUより電力当たり性能が4〜6倍高いと述べた。出典: hankyung.com"
+    },
+    "zh": {
+      "title": "AI效率竞赛升温，韩国AI企业称仍有充足机会",
+      "excerpt": "5月15日在首尔新罗酒店举行的KIW 2026上，韩国AI企业表示，竞争焦点正从算力转向效率、端侧设备和边缘AI。",
+      "body": "5月15日，在首尔奖忠洞新罗酒店举行的韩国投资周（KIW）2026上，多家即将IPO的韩国主要AI企业表示，AI市场关键词正从运算转向效率，从数据中心转向日常设备。Point2 Technology称，连接GPU的互连瓶颈可能使计算性能下降约30%，并介绍了e-Tube技术，其传输距离最长可达传统铜线的10倍，耗电量仅为光通信的三分之一。Elice Group强调AI全栈和模块化数据中心，DEEPX与Mobilint则突出超低功耗芯片和边缘AI。Mobilint表示，边缘AI市场年增长率超过20%，其NPU单位功耗性能比GPU高4至6倍。来源: hankyung.com"
+    },
+    "es": {
+      "title": "La carrera por la eficiencia en IA abre oportunidades para firmas coreanas",
+      "excerpt": "En KIW 2026, celebrado el 15 de mayo en Seúl, empresas coreanas de IA dijeron que la competencia pasa del cómputo bruto a la eficiencia y al edge AI.",
+      "body": "En Korea Investment Week (KIW) 2026, celebrado el 15 de mayo en el hotel Shilla de Jangchung-dong, Seúl, importantes empresas coreanas de IA que preparan sus IPO afirmaron que el mercado pasa del cómputo a la eficiencia y de los centros de datos a los dispositivos cotidianos. Point2 Technology señaló que los cuellos de botella de interconexión entre GPU pueden reducir el rendimiento informático alrededor de 30%, y presentó e-Tube, con una distancia de transmisión hasta 10 veces mayor que el cobre y un consumo de un tercio frente a la comunicación óptica. Elice Group destacó el AI full stack y centros de datos modulares, mientras DEEPX y Mobilint subrayaron chips de muy bajo consumo y edge AI. Mobilint dijo que el mercado de edge AI crece más de 20% anual y que su NPU ofrece entre 4 y 6 veces más rendimiento por vatio que una GPU. Fuente: hankyung.com"
+    },
+    "pt": {
+      "title": "Corrida por eficiência em IA amplia oportunidades para empresas coreanas",
+      "excerpt": "No KIW 2026, em 15 de maio em Seul, empresas coreanas de IA disseram que a disputa migra de computação bruta para eficiência, dispositivos e edge AI.",
+      "body": "Na Korea Investment Week (KIW) 2026, realizada em 15 de maio no hotel Shilla, em Jangchung-dong, Seul, grandes empresas coreanas de IA que se preparam para IPO afirmaram que o mercado está mudando de computação para eficiência e de data centers para dispositivos do cotidiano. A Point2 Technology disse que gargalos de interconexão entre GPUs podem reduzir o desempenho computacional em cerca de 30%, e apresentou o e-Tube, com distância de transmissão até 10 vezes maior que fios de cobre e consumo de um terço frente à comunicação óptica. A Elice Group destacou AI full stack e data centers modulares, enquanto DEEPX e Mobilint enfatizaram chips de baixíssimo consumo e edge AI. A Mobilint disse que o mercado de edge AI cresce mais de 20% ao ano e que sua NPU entrega desempenho por watt 4 a 6 vezes maior que GPUs. Fonte: hankyung.com"
+    },
+    "de": {
+      "title": "KIW 2026: Effizienzrennen bei KI eröffnet koreanischen Firmen Chancen",
+      "excerpt": "Auf der KIW 2026 am 15. Mai in Seoul erklärten koreanische KI-Firmen, der Wettbewerb verlagere sich von Rechenleistung zu Effizienz und Edge AI.",
+      "body": "Auf der Korea Investment Week (KIW) 2026, die am 15. Mai im Shilla Hotel in Jangchung-dong, Seoul, stattfand, sagten führende koreanische KI-Unternehmen vor geplanten Börsengängen, der KI-Markt bewege sich von Rechenleistung zu Effizienz und von Rechenzentren zu Alltagsgeräten. Point2 Technology erklärte, Engpässe bei Interconnects zwischen GPUs könnten die Rechenleistung um etwa 30% senken, und stellte e-Tube vor: Die Technik erreicht bis zu zehnmal längere Übertragungsdistanzen als Kupferleitungen und verbraucht nur ein Drittel der Energie optischer Kommunikation. Elice Group hob AI-Full-Stack und modulare Rechenzentren hervor, während DEEPX und Mobilint Ultra-Low-Power-Chips und Edge AI betonten. Mobilint sagte, der Edge-AI-Markt wachse jährlich um mehr als 20%, und seine NPU biete eine 4- bis 6-mal höhere Leistung pro Watt als GPUs. Quelle: hankyung.com"
+    },
+    "fr": {
+      "title": "La bataille de l’efficacité IA offre des opportunités aux groupes coréens",
+      "excerpt": "Lors de KIW 2026, le 15 mai à Séoul, des entreprises coréennes d’IA ont dit que la concurrence passe du calcul brut à l’efficacité et à l’edge AI.",
+      "body": "Lors de la Korea Investment Week (KIW) 2026, tenue le 15 mai à l’hôtel Shilla de Jangchung-dong, à Séoul, de grandes entreprises coréennes d’IA préparant leur introduction en Bourse ont indiqué que le marché de l’IA passe du calcul à l’efficacité et des centres de données aux appareils du quotidien. Point2 Technology a expliqué que les goulets d’étranglement d’interconnexion entre GPU peuvent réduire les performances informatiques d’environ 30%, et a présenté e-Tube, dont la distance de transmission atteint jusqu’à 10 fois celle du cuivre avec une consommation d’un tiers par rapport à la communication optique. Elice Group a mis en avant l’AI full stack et les centres de données modulaires, tandis que DEEPX et Mobilint ont souligné les puces à très basse consommation et l’edge AI. Mobilint a indiqué que le marché de l’edge AI croît de plus de 20% par an et que son NPU offre une performance par watt 4 à 6 fois supérieure à celle des GPU. Source: hankyung.com"
+    },
+    "ar": {
+      "title": "سباق كفاءة الذكاء الاصطناعي يفتح فرصا واسعة أمام شركات كوريا",
+      "excerpt": "في KIW 2026 بسيول يوم 15 مايو، قالت شركات ذكاء اصطناعي كورية إن المنافسة تنتقل من قوة الحوسبة إلى الكفاءة والأجهزة الطرفية وEdge AI.",
+      "body": "في أسبوع كوريا للاستثمار KIW 2026، الذي عقد في 15 مايو بفندق شيلا في جانغتشونغ دونغ بسيول، قالت شركات ذكاء اصطناعي كورية كبرى تستعد للطرح العام إن سوق الذكاء الاصطناعي ينتقل من الحوسبة إلى الكفاءة، ومن مراكز البيانات إلى الأجهزة اليومية. وأوضحت Point2 Technology أن اختناقات الربط بين وحدات GPU قد تخفض أداء الحوسبة بنحو 30%، وقدمت تقنية e-Tube التي توفر مسافة نقل تصل إلى 10 أضعاف الأسلاك النحاسية وتستهلك ثلث طاقة الاتصال البصري. وركزت Elice Group على خدمات AI full stack ومراكز البيانات المعيارية، بينما شددت DEEPX وMobilint على الرقائق فائقة انخفاض استهلاك الطاقة وEdge AI. وقالت Mobilint إن سوق Edge AI ينمو بأكثر من 20% سنويا، وإن وحدة NPU لديها تقدم أداء لكل واط أعلى من GPU بنحو 4 إلى 6 مرات. المصدر: hankyung.com"
+    },
+    "hi": {
+      "title": "AI दक्षता की दौड़ तेज, कोरियाई AI कंपनियों को बड़े अवसर दिखे",
+      "excerpt": "15 मई को सियोल में KIW 2026 में कोरियाई AI कंपनियों ने कहा कि प्रतिस्पर्धा कच्ची कंप्यूटिंग से दक्षता, ऑन-डिवाइस और edge AI की ओर जा रही है।",
+      "body": "15 मई को सियोल के जांगचुंग-डोंग स्थित शिला होटल में आयोजित Korea Investment Week (KIW) 2026 में IPO की तैयारी कर रही प्रमुख कोरियाई AI कंपनियों ने कहा कि AI बाजार का फोकस कंप्यूटिंग से दक्षता और डेटा सेंटर से रोजमर्रा के उपकरणों की ओर बढ़ रहा है। Point2 Technology ने कहा कि GPU को जोड़ने वाले इंटरकनेक्ट में बाधा आने पर कंप्यूटिंग प्रदर्शन करीब 30% घट सकता है, और e-Tube पेश किया, जिसकी डेटा ट्रांसमिशन दूरी तांबे के तार से अधिकतम 10 गुना लंबी है और बिजली खपत ऑप्टिकल कम्युनिकेशन की एक-तिहाई है। Elice Group ने AI full stack और मॉड्यूलर डेटा सेंटर पर जोर दिया, जबकि DEEPX और Mobilint ने अल्ट्रा-लो-पावर चिप और edge AI को रेखांकित किया। Mobilint ने कहा कि edge AI बाजार सालाना 20% से अधिक बढ़ रहा है और उसका NPU GPU की तुलना में प्रति वाट प्रदर्शन में 4 से 6 गुना बेहतर है। स्रोत: hankyung.com"
+    },
+    "id": {
+      "title": "Perang Efisiensi AI Menguat, Perusahaan Korea Melihat Banyak Peluang",
+      "excerpt": "Pada KIW 2026 di Seoul, 15 Mei, perusahaan AI Korea mengatakan persaingan bergeser dari komputasi mentah ke efisiensi, perangkat harian dan edge AI.",
+      "body": "Dalam Korea Investment Week (KIW) 2026 yang digelar 15 Mei di Shilla Hotel, Jangchung-dong, Seoul, perusahaan AI utama Korea yang bersiap IPO mengatakan pasar AI bergerak dari komputasi menuju efisiensi dan dari pusat data menuju perangkat sehari-hari. Point2 Technology menyebut hambatan interkoneksi yang menghubungkan GPU dapat menurunkan kinerja komputasi sekitar 30%, lalu memperkenalkan e-Tube, dengan jarak transmisi hingga 10 kali kabel tembaga dan konsumsi daya sepertiga dari komunikasi optik. Elice Group menyoroti AI full stack dan pusat data modular, sedangkan DEEPX dan Mobilint menekankan cip berdaya sangat rendah dan edge AI. Mobilint mengatakan pasar edge AI tumbuh lebih dari 20% per tahun dan NPU miliknya memberi kinerja per watt 4 hingga 6 kali lebih tinggi daripada GPU. Sumber: hankyung.com"
+    }
+  }
+}
