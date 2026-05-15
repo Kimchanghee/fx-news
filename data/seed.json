@@ -1,5 +1,230 @@
 [
   {
+    "id": "093fe6d0174c",
+    "slug": "앤스로픽-몸값-9000억弗오픈ai-제쳤다-968415",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T17:14:14.927Z",
+    "updatedAt": "2026-05-15T17:14:14.927Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051597791",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051597791",
+    "titleFingerprint": "18dc9d4031e0521623dae758d5d966bf34e99e20",
+    "dedupKeys": [
+      "093fe6d0174c0fe98f841b08a8868fc0fbf979f1",
+      "18dc9d4031e0521623dae758d5d966bf34e99e20",
+      "d245e8a0b165ea842e8d8f913eba060c930cf7b2"
+    ],
+    "imageUrl": "/images/articles/093fe6d0174c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "앤스로픽 기업가치 9000억달러, 오픈AI 앞질렀다",
+        "excerpt": "앤스로픽의 기업가치가 9000억달러로 평가되며 오픈AI를 제쳤다고 hankyung.com이 보도했다. 생성형 AI 경쟁 구도에서 기업가치 순위 변화가 주목된다.",
+        "body": "앤스로픽의 기업가치가 9000억달러로 평가되며 오픈AI를 앞질렀다고 hankyung.com이 보도했다. 보도에 따르면 핵심 수치는 9000억달러이며, 비교 대상은 생성형 인공지능 시장의 대표 기업인 오픈AI다. 이번 평가는 앤스로픽의 몸값이 오픈AI를 넘어섰다는 점에서 AI 기업 간 가치 경쟁의 변화를 보여준다. 다만 원문에 공개된 정보는 기업가치와 비교 결과에 한정된다. 향후 시장은 앤스로픽과 오픈AI의 기업가치 흐름을 주시할 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Anthropic Valuation Hits $900 Billion, Overtaking OpenAI",
+        "excerpt": "Anthropic has been valued at $900 billion, surpassing OpenAI, hankyung.com reported. The figure highlights a shift in the valuation race among leading generative AI companies.",
+        "body": "Anthropic has been valued at $900 billion, overtaking OpenAI, according to hankyung.com. The key figure in the report is the $900 billion valuation, with OpenAI cited as the comparison point among major generative artificial intelligence companies. The report shows that Anthropic’s market value has moved ahead of OpenAI’s in the AI company valuation race. However, the original information is limited to the valuation and the comparison result. Markets are expected to watch how valuations for Anthropic and OpenAI develop from here. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "Anthropicの企業価値9000億ドル、OpenAIを上回る",
+        "excerpt": "hankyung.comによると、Anthropicの企業価値は9000億ドルと評価され、OpenAIを上回った。生成AI大手の企業価値競争に変化が出ている。",
+        "body": "hankyung.comによると、Anthropicの企業価値は9000億ドルと評価され、OpenAIを上回った。報道で示された中心的な数値は9000億ドルで、比較対象は生成AI市場の代表企業であるOpenAIだ。今回の評価は、Anthropicの企業価値がOpenAIを超えた点で、AI企業間の価値競争の変化を示している。ただし、原文で確認できる情報は企業価値と比較結果に限られる。今後、市場はAnthropicとOpenAIの企業価値の推移を注視するとみられる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Anthropic估值达9000亿美元，超过OpenAI",
+        "excerpt": "据hankyung.com报道，Anthropic估值达到9000亿美元，已超过OpenAI。这一数字显示生成式AI领先企业之间的估值竞争出现变化。",
+        "body": "据hankyung.com报道，Anthropic的企业估值达到9000亿美元，并超过OpenAI。报道中的核心数字是9000亿美元，比较对象则是生成式人工智能市场的代表企业OpenAI。此次估值显示，Anthropic的身价已高于OpenAI，反映出AI企业估值竞争格局的变化。不过，原文披露的信息仅限于估值数字和比较结果。未来市场预计将继续关注Anthropic与OpenAI的估值走势。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Anthropic alcanza una valoración de US$900.000 millones y supera a OpenAI",
+        "excerpt": "Anthropic fue valorada en US$900.000 millones y superó a OpenAI, informó hankyung.com. El dato marca un cambio en la competencia de valoración entre líderes de IA generativa.",
+        "body": "Anthropic fue valorada en US$900.000 millones y superó a OpenAI, según informó hankyung.com. La cifra central del reporte es la valoración de US$900.000 millones, mientras que OpenAI aparece como el punto de comparación entre las principales empresas de inteligencia artificial generativa. La evaluación muestra que el valor de Anthropic quedó por encima del de OpenAI en la carrera de valoración de compañías de IA. Sin embargo, la información original se limita al monto de la valoración y al resultado comparativo. El mercado seguirá atento a la evolución de Anthropic y OpenAI. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Anthropic chega a US$900 bilhões em valuation e supera OpenAI",
+        "excerpt": "A Anthropic foi avaliada em US$900 bilhões e superou a OpenAI, informou o hankyung.com. O dado sinaliza mudança na disputa de valuation entre líderes de IA generativa.",
+        "body": "A Anthropic foi avaliada em US$900 bilhões e superou a OpenAI, segundo informou o hankyung.com. O principal número do relato é o valuation de US$900 bilhões, tendo a OpenAI como referência de comparação entre as grandes empresas de inteligência artificial generativa. A avaliação mostra que o valor da Anthropic passou o da OpenAI na disputa de valuation entre companhias de IA. Ainda assim, as informações do texto original se limitam ao valor atribuído e ao resultado da comparação. O mercado deve acompanhar a evolução dos valuations de Anthropic e OpenAI. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Anthropic mit 900 Milliarden Dollar bewertet und vor OpenAI",
+        "excerpt": "Anthropic wurde mit 900 Milliarden Dollar bewertet und hat OpenAI überholt, berichtete hankyung.com. Die Zahl zeigt eine Verschiebung im Bewertungsrennen führender generativer KI-Firmen.",
+        "body": "Anthropic wurde mit 900 Milliarden Dollar bewertet und hat OpenAI überholt, wie hankyung.com berichtete. Die zentrale Zahl des Berichts ist die Bewertung von 900 Milliarden Dollar, während OpenAI als Vergleichsgröße unter den führenden Unternehmen für generative künstliche Intelligenz genannt wird. Die Bewertung zeigt, dass Anthropics Unternehmenswert über dem von OpenAI liegt und damit eine Veränderung im Bewertungswettbewerb der KI-Unternehmen sichtbar wird. Die Originalangaben beschränken sich jedoch auf die Bewertung und das Vergleichsergebnis. Der Markt dürfte die weitere Entwicklung von Anthropic und OpenAI beobachten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Anthropic valorisée 900 milliards de dollars, devant OpenAI",
+        "excerpt": "Anthropic a été valorisée à 900 milliards de dollars et a dépassé OpenAI, selon hankyung.com. Ce chiffre signale un changement dans la course aux valorisations de l’IA générative.",
+        "body": "Anthropic a été valorisée à 900 milliards de dollars et a dépassé OpenAI, selon hankyung.com. Le chiffre central du rapport est cette valorisation de 900 milliards de dollars, OpenAI servant de point de comparaison parmi les grandes entreprises d’intelligence artificielle générative. Cette évaluation montre que la valeur d’Anthropic est passée devant celle d’OpenAI dans la concurrence entre sociétés d’IA. Toutefois, les informations de l’article d’origine se limitent au montant de la valorisation et au résultat de la comparaison. Le marché devrait suivre l’évolution des valorisations d’Anthropic et d’OpenAI. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "تقييم أنثروبيك يبلغ 900 مليار دولار ويتجاوز أوبنAI",
+        "excerpt": "بلغ تقييم أنثروبيك 900 مليار دولار متجاوزا أوبنAI، بحسب hankyung.com. الرقم يبرز تغيرا في سباق تقييمات شركات الذكاء الاصطناعي التوليدي الكبرى.",
+        "body": "بلغ تقييم أنثروبيك 900 مليار دولار متجاوزا أوبنAI، وفق ما أورده hankyung.com. الرقم الرئيسي في التقرير هو تقييم 900 مليار دولار، بينما جاءت أوبنAI كنقطة مقارنة بين أبرز شركات الذكاء الاصطناعي التوليدي. ويظهر هذا التقييم أن قيمة أنثروبيك أصبحت أعلى من أوبنAI في سباق تقييم شركات الذكاء الاصطناعي. لكن المعلومات الواردة في النص الأصلي تقتصر على رقم التقييم ونتيجة المقارنة. ومن المتوقع أن تتابع السوق مسار تقييمات أنثروبيك وأوبنAI لاحقا. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Anthropic का मूल्यांकन 900 अरब डॉलर, OpenAI से आगे निकला",
+        "excerpt": "hankyung.com के अनुसार Anthropic का मूल्यांकन 900 अरब डॉलर आंका गया और उसने OpenAI को पीछे छोड़ दिया। यह जनरेटिव AI कंपनियों की वैल्यूएशन दौड़ में बदलाव दिखाता है।",
+        "body": "hankyung.com के अनुसार Anthropic का मूल्यांकन 900 अरब डॉलर आंका गया और उसने OpenAI को पीछे छोड़ दिया। रिपोर्ट का मुख्य आंकड़ा 900 अरब डॉलर है, जबकि तुलना के लिए जनरेटिव आर्टिफिशियल इंटेलिजेंस बाजार की प्रमुख कंपनी OpenAI का उल्लेख किया गया है। यह मूल्यांकन दिखाता है कि AI कंपनियों की वैल्यूएशन दौड़ में Anthropic का मूल्य OpenAI से ऊपर पहुंच गया है। हालांकि मूल जानकारी केवल मूल्यांकन राशि और तुलना के नतीजे तक सीमित है। बाजार आगे Anthropic और OpenAI की वैल्यूएशन दिशा पर नजर रखेगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Valuasi Anthropic Capai US$900 Miliar, Lewati OpenAI",
+        "excerpt": "Anthropic dinilai mencapai US$900 miliar dan melampaui OpenAI, lapor hankyung.com. Angka ini menunjukkan perubahan dalam persaingan valuasi perusahaan AI generatif terkemuka.",
+        "body": "Anthropic dinilai mencapai US$900 miliar dan melampaui OpenAI, menurut laporan hankyung.com. Angka utama dalam laporan tersebut adalah valuasi US$900 miliar, dengan OpenAI sebagai pembanding di antara perusahaan besar kecerdasan buatan generatif. Penilaian ini menunjukkan bahwa nilai Anthropic telah berada di atas OpenAI dalam persaingan valuasi perusahaan AI. Namun, informasi asli hanya terbatas pada nilai valuasi dan hasil perbandingan. Pasar diperkirakan akan terus mencermati arah valuasi Anthropic dan OpenAI. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "7d2b8ff1507b",
+    "slug": "국내-최초-법률-ai-에이전트-엘박스ai는-도구-본질은-법률-데이터-kiw-2026-511808",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T17:13:27.064Z",
+    "updatedAt": "2026-05-15T17:13:27.064Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159637i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159637i",
+    "titleFingerprint": "ae67892c10483d957724a6de82710108d5e32834",
+    "dedupKeys": [
+      "7d2b8ff1507b101260a9d648309ddf11e94b9522",
+      "ae67892c10483d957724a6de82710108d5e32834",
+      "47e40127f8caa9def86028d6c309c59f481c547e"
+    ],
+    "imageUrl": "/images/articles/7d2b8ff1507b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국내 최초 법률 AI 에이전트 엘박스, KIW 2026서 데이터 본질 강조",
+        "excerpt": "엘박스는 KIW 2026에서 국내 최초 ‘법률 AI 에이전트’로 소개되며 AI는 도구이고 본질은 법률 데이터라는 메시지를 전했다.",
+        "body": "엘박스가 KIW 2026에서 국내 최초 ‘법률 AI 에이전트’로 소개됐다. 행사에서 강조된 핵심은 AI 자체보다 법률 데이터의 중요성이다. 엘박스는 ‘AI는 도구, 본질은 법률 데이터’라는 관점을 앞세워 법률 AI 서비스의 기반이 무엇인지 설명했다. 이번 내용은 법률 분야에서 AI 에이전트가 주목받는 가운데, 데이터의 품질과 축적이 서비스 경쟁력의 중심이라는 점을 보여준다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "LBox, Korea’s First Legal AI Agent, Highlights Data at KIW 2026",
+        "excerpt": "At KIW 2026, LBox was introduced as Korea’s first legal AI agent, stressing that AI is a tool while legal data remains the core.",
+        "body": "LBox was introduced at KIW 2026 as Korea’s first “legal AI agent.” The central message presented at the event was the importance of legal data over AI itself. LBox emphasized the view that “AI is a tool, and the essence is legal data,” explaining what forms the foundation of legal AI services. The report shows that, as AI agents draw attention in the legal sector, data quality and accumulated legal information stand at the center of service competitiveness. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "韓国初の法律AIエージェントLBox、KIW 2026でデータの本質を強調",
+        "excerpt": "LBoxはKIW 2026で韓国初の「法律AIエージェント」として紹介され、AIは道具で本質は法律データだと強調した。",
+        "body": "LBoxはKIW 2026で韓国初の「法律AIエージェント」として紹介された。会場で示された核心は、AIそのものよりも法律データの重要性だった。LBoxは「AIは道具であり、本質は法律データ」という立場を前面に出し、法律AIサービスの基盤が何であるかを説明した。今回の内容は、法律分野でAIエージェントが注目される中、データの品質と蓄積がサービス競争力の中心にあることを示している。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "韩国首个法律AI代理LBox亮相KIW 2026，强调法律数据才是核心",
+        "excerpt": "LBox在KIW 2026上被介绍为韩国首个“法律AI代理”，并强调AI只是工具，法律数据才是本质。",
+        "body": "LBox在KIW 2026上被介绍为韩国首个“法律AI代理”。现场强调的核心并不是AI本身，而是法律数据的重要性。LBox提出“AI是工具，本质是法律数据”的观点，说明法律AI服务的基础所在。该内容显示，在法律领域AI代理受到关注的背景下，数据质量与法律数据积累正成为服务竞争力的中心。消息来源为hankyung.com。"
+      },
+      "es": {
+        "title": "LBox, primer agente legal de IA en Corea, subraya los datos en KIW 2026",
+        "excerpt": "En KIW 2026, LBox fue presentado como el primer “agente legal de IA” de Corea y destacó que la IA es una herramienta, pero el núcleo son los datos legales.",
+        "body": "LBox fue presentado en KIW 2026 como el primer “agente legal de IA” de Corea. El mensaje central del evento fue la importancia de los datos legales por encima de la propia IA. LBox defendió la idea de que “la IA es una herramienta y la esencia son los datos legales”, explicando cuál es la base de los servicios legales con IA. El contenido muestra que, mientras los agentes de IA ganan atención en el sector jurídico, la calidad y acumulación de datos legales quedan en el centro de la competitividad del servicio. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "LBox, primeiro agente jurídico de IA da Coreia, destaca dados no KIW 2026",
+        "excerpt": "No KIW 2026, a LBox foi apresentada como o primeiro “agente jurídico de IA” da Coreia e afirmou que a IA é ferramenta, enquanto os dados jurídicos são o núcleo.",
+        "body": "A LBox foi apresentada no KIW 2026 como o primeiro “agente jurídico de IA” da Coreia. A mensagem central destacada no evento foi a importância dos dados jurídicos acima da própria IA. A LBox ressaltou a visão de que “a IA é uma ferramenta, e a essência são os dados jurídicos”, explicando a base dos serviços jurídicos com IA. O conteúdo mostra que, enquanto agentes de IA atraem atenção no setor legal, a qualidade e o acúmulo de dados jurídicos estão no centro da competitividade do serviço. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "LBox als Koreas erster Legal-AI-Agent: KIW 2026 rückt Daten in den Fokus",
+        "excerpt": "LBox wurde auf der KIW 2026 als Koreas erster „Legal AI Agent“ vorgestellt und betonte: KI ist ein Werkzeug, entscheidend sind juristische Daten.",
+        "body": "LBox wurde auf der KIW 2026 als Koreas erster „Legal AI Agent“ vorgestellt. Die zentrale Botschaft der Veranstaltung war die Bedeutung juristischer Daten, nicht die KI selbst. LBox stellte den Standpunkt heraus, dass „KI ein Werkzeug ist und das Wesen in juristischen Daten liegt“, und erklärte damit die Grundlage rechtlicher KI-Dienste. Der Bericht zeigt, dass bei wachsender Aufmerksamkeit für KI-Agenten im Rechtsbereich Datenqualität und der Aufbau juristischer Daten im Zentrum der Wettbewerbsfähigkeit von Diensten stehen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "LBox, premier agent IA juridique coréen, met les données au centre à KIW 2026",
+        "excerpt": "À KIW 2026, LBox a été présenté comme le premier « agent IA juridique » de Corée, en soulignant que l’IA est un outil et que les données juridiques sont essentielles.",
+        "body": "LBox a été présenté à KIW 2026 comme le premier « agent IA juridique » de Corée. Le message central de l’événement portait sur l’importance des données juridiques plutôt que sur l’IA elle-même. LBox a mis en avant l’idée selon laquelle « l’IA est un outil, l’essence réside dans les données juridiques », afin d’expliquer la base des services d’IA appliqués au droit. Ce contenu montre que, alors que les agents IA attirent l’attention dans le secteur juridique, la qualité et l’accumulation des données juridiques sont au cœur de la compétitivité des services. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "إل بوكس أول وكيل ذكاء اصطناعي قانوني في كوريا يبرز أهمية البيانات في KIW 2026",
+        "excerpt": "قُدمت إل بوكس في KIW 2026 كأول «وكيل ذكاء اصطناعي قانوني» في كوريا، مؤكدة أن الذكاء الاصطناعي أداة وأن جوهر الخدمة هو البيانات القانونية.",
+        "body": "قُدمت إل بوكس في KIW 2026 بوصفها أول «وكيل ذكاء اصطناعي قانوني» في كوريا. وكانت الرسالة الأساسية في الحدث أن أهمية البيانات القانونية تتقدم على الذكاء الاصطناعي نفسه. وطرحت إل بوكس رؤية مفادها أن «الذكاء الاصطناعي أداة، أما الجوهر فهو البيانات القانونية»، موضحة أساس خدمات الذكاء الاصطناعي في المجال القانوني. ويظهر ذلك أنه مع تزايد الاهتمام بوكلاء الذكاء الاصطناعي في القطاع القانوني، تصبح جودة البيانات وتراكمها محور القدرة التنافسية للخدمة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "कोरिया के पहले लीगल AI एजेंट LBox ने KIW 2026 में डेटा को बताया मूल आधार",
+        "excerpt": "KIW 2026 में LBox को कोरिया के पहले “लीगल AI एजेंट” के रूप में पेश किया गया, जहां कहा गया कि AI एक उपकरण है और मूल तत्व कानूनी डेटा है।",
+        "body": "KIW 2026 में LBox को कोरिया के पहले “लीगल AI एजेंट” के रूप में पेश किया गया। कार्यक्रम में मुख्य जोर AI से अधिक कानूनी डेटा के महत्व पर रहा। LBox ने यह दृष्टिकोण सामने रखा कि “AI एक उपकरण है, और मूल तत्व कानूनी डेटा है,” जिससे कानूनी AI सेवाओं की बुनियाद स्पष्ट हुई। यह सामग्री दिखाती है कि कानूनी क्षेत्र में AI एजेंटों पर ध्यान बढ़ने के बीच डेटा की गुणवत्ता और कानूनी डेटा का संचय सेवा प्रतिस्पर्धा के केंद्र में हैं। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "LBox, Agen AI Hukum Pertama Korea, Soroti Data di KIW 2026",
+        "excerpt": "Di KIW 2026, LBox diperkenalkan sebagai “agen AI hukum” pertama di Korea dan menegaskan bahwa AI adalah alat, sementara inti utamanya adalah data hukum.",
+        "body": "LBox diperkenalkan di KIW 2026 sebagai “agen AI hukum” pertama di Korea. Pesan utama yang ditekankan dalam acara tersebut adalah pentingnya data hukum dibandingkan AI itu sendiri. LBox mengedepankan pandangan bahwa “AI adalah alat, dan esensinya adalah data hukum,” sekaligus menjelaskan dasar layanan AI hukum. Informasi ini menunjukkan bahwa ketika agen AI mendapat perhatian di sektor hukum, kualitas serta akumulasi data hukum menjadi pusat daya saing layanan. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "58795ff2a13a",
+    "slug": "ai-투자-늘린-알리바바-4년만에-손실-615683",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T17:12:38.136Z",
+    "updatedAt": "2026-05-15T17:12:38.136Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051598491",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051598491",
+    "titleFingerprint": "a36338e9c9b3d5aae52dec314805068c4ddaec25",
+    "dedupKeys": [
+      "58795ff2a13aee4ad298ef8e4bf81a16750f7a0c",
+      "a36338e9c9b3d5aae52dec314805068c4ddaec25",
+      "280ebba77106ae75a0fef2421750345eeddbd4ae"
+    ],
+    "imageUrl": "/images/articles/58795ff2a13a.png",
+    "i18n": {
+      "ko": {
+        "title": "알리바바 AI 투자 부담에 4년 만에 순이익 감소, 영업손실 전환에 주가도 하락",
+        "excerpt": "중국 알리바바가 2026회계연도에 매출 증가에도 시장 전망을 밑돌고 영업손실로 전환했다. AI 투자 확대와 배달 경쟁 비용이 수익성을 압박했다.",
+        "body": "중국 알리바바가 2026회계연도(2025년 4월~2026년 3월)에 부진한 실적을 냈다고 14일 현지시간 제일재경과 블룸버그통신 등이 보도했다. 매출은 2434억위안으로 전년 동기 대비 3% 늘었지만 시장 전망치 2472억위안을 밑돌았다. 영업손실은 8억4800만위안으로 적자 전환했고, 순이익은 1059억위안으로 4년 만에 처음 감소했다. 부진 원인으로는 AI 투자 확대와 중국 내 배달 경쟁에 따른 비용 부담이 지목됐다. 알리바바와 징둥그룹 등은 고객 확보를 위해 쿠폰을 확대했고, 이는 수익성 악화로 이어졌다. 알리바바 주가는 이날 3.22% 하락한 141.12달러에 마감했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Alibaba AI spending weighs on profit as first decline in four years hits shares",
+        "excerpt": "Alibaba reported weaker fiscal 2026 results despite higher revenue, missing market forecasts and swinging to an operating loss as AI spending and delivery competition hurt margins.",
+        "body": "Alibaba posted weak results for fiscal 2026, covering April 2025 to March 2026, according to reports on May 14 local time by Yicai and Bloomberg. Revenue rose 3% year on year to 243.4 billion yuan, but it fell short of the market forecast of 247.2 billion yuan. The company swung to an operating loss of 848 million yuan, while net profit fell to 105.9 billion yuan, its first decline in four years. The pressure was linked to increased AI investment and losses from China’s domestic delivery competition. Alibaba, JD.com and other major e-commerce companies expanded coupon offers to win customers, weakening profitability. Alibaba shares closed down 3.22% at $141.12. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "アリババ、AI投資負担で4年ぶり純利益減少、営業赤字転換で株価下落",
+        "excerpt": "中国アリババは2026会計年度に増収ながら市場予想を下回り、営業赤字へ転落した。AI投資拡大と国内配達競争の費用が収益性を圧迫した。",
+        "body": "中国アリババが2026会計年度（2025年4月～2026年3月）に低調な業績を発表したと、第一財経やブルームバーグ通信などが14日現地時間に報じた。売上高は2434億元で前年同期比3%増えたが、市場予想の2472億元を下回った。営業損失は8億4800万元となり赤字転落し、純利益は1059億元で4年ぶりに減少へ転じた。不振の要因にはAI投資の拡大と、中国国内の配達競争による費用負担が挙げられた。アリババや京東集団などは顧客獲得のためクーポンを拡大し、収益性悪化につながった。アリババ株は同日3.22%安の141.12ドルで引けた。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "阿里巴巴AI投资压力拖累利润，四年来首次下滑并转为营业亏损",
+        "excerpt": "阿里巴巴2026财年营收虽增长但低于市场预期，并转为营业亏损。AI投资扩大和中国本土配送竞争成本压缩了盈利能力。",
+        "body": "据第一财经和彭博社等5月14日当地时间报道，中国阿里巴巴在2026财年（2025年4月至2026年3月）交出低迷业绩。公司营收为2434亿元人民币，同比增长3%，但低于市场预期的2472亿元。营业亏损为8.48亿元，转为亏损；净利润为1059亿元，四年来首次下降。业绩承压的原因被指向AI投资扩大以及中国国内配送竞争带来的成本消耗。阿里巴巴、京东集团等大型电商企业为争夺客户发放各类优惠券，导致盈利能力恶化。阿里巴巴股价当日下跌3.22%，收于141.12美元。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Alibaba sufre por inversión en IA: beneficio cae por primera vez en cuatro años",
+        "excerpt": "Alibaba registró resultados débiles en el año fiscal 2026 pese al aumento de ingresos, quedó bajo las previsiones y pasó a pérdida operativa por IA y competencia en reparto.",
+        "body": "Alibaba de China presentó resultados débiles en el año fiscal 2026, de abril de 2025 a marzo de 2026, según informaron el 14 de mayo, hora local, Yicai y Bloomberg. Los ingresos fueron de 243.400 millones de yuanes, un 3% más interanual, pero por debajo de la previsión del mercado de 247.200 millones. La compañía pasó a una pérdida operativa de 848 millones de yuanes, mientras que el beneficio neto cayó a 105.900 millones de yuanes, su primer descenso en cuatro años. La debilidad se atribuyó al aumento de la inversión en IA y al coste de la competencia en reparto dentro de China. Alibaba y JD.com ampliaron cupones para captar clientes, lo que deterioró la rentabilidad. La acción cerró con una caída del 3,22%, en 141,12 dólares. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Alibaba sente peso da IA: lucro cai pela primeira vez em quatro anos",
+        "excerpt": "A Alibaba divulgou resultados fracos no ano fiscal de 2026, com receita abaixo das projeções e virada para prejuízo operacional por investimento em IA e disputa em entregas.",
+        "body": "A chinesa Alibaba apresentou desempenho fraco no ano fiscal de 2026, de abril de 2025 a março de 2026, segundo Yicai e Bloomberg em 14 de maio, horário local. A receita somou 243,4 bilhões de yuans, alta de 3% ante o ano anterior, mas ficou abaixo da previsão de mercado de 247,2 bilhões. A empresa registrou prejuízo operacional de 848 milhões de yuans, revertendo para o vermelho, enquanto o lucro líquido caiu para 105,9 bilhões de yuans, a primeira queda em quatro anos. A pressão foi atribuída ao aumento dos investimentos em IA e aos custos da competição em entregas na China. Alibaba, JD.com e outras empresas ampliaram cupons para conquistar clientes, o que reduziu a rentabilidade. As ações fecharam em queda de 3,22%, a US$ 141,12. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Alibaba leidet unter KI-Investitionen: Gewinn sinkt erstmals seit vier Jahren",
+        "excerpt": "Alibaba meldete für das Geschäftsjahr 2026 trotz Umsatzwachstum schwache Zahlen, verfehlte die Erwartungen und rutschte wegen KI-Ausgaben und Lieferwettbewerb operativ ins Minus.",
+        "body": "Der chinesische Konzern Alibaba hat für das Geschäftsjahr 2026, von April 2025 bis März 2026, schwache Ergebnisse vorgelegt, wie Yicai und Bloomberg am 14. Mai Ortszeit berichteten. Der Umsatz stieg im Jahresvergleich um 3% auf 243,4 Milliarden Yuan, blieb aber unter der Markterwartung von 247,2 Milliarden Yuan. Operativ fiel ein Verlust von 848 Millionen Yuan an, während der Nettogewinn auf 105,9 Milliarden Yuan sank und damit erstmals seit vier Jahren zurückging. Als Gründe wurden höhere KI-Investitionen und Belastungen durch den Lieferwettbewerb in China genannt. Alibaba, JD.com und andere E-Commerce-Konzerne weiteten Gutscheine aus, um Kunden zu gewinnen, was die Profitabilität schwächte. Die Alibaba-Aktie schloss 3,22% tiefer bei 141,12 Dollar. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Alibaba pénalisé par l’IA: bénéfice en recul pour la première fois en quatre ans",
+        "excerpt": "Alibaba a publié des résultats faibles pour l’exercice 2026 malgré une hausse du chiffre d’affaires, sous les attentes et avec une perte opérationnelle liée à l’IA et aux livraisons.",
+        "body": "Le groupe chinois Alibaba a enregistré des résultats décevants pour l’exercice 2026, d’avril 2025 à mars 2026, selon Yicai et Bloomberg le 14 mai, heure locale. Le chiffre d’affaires a atteint 243,4 milliards de yuans, en hausse de 3% sur un an, mais il est resté inférieur à la prévision du marché de 247,2 milliards. Le groupe est passé à une perte opérationnelle de 848 millions de yuans, tandis que le bénéfice net est tombé à 105,9 milliards de yuans, sa première baisse en quatre ans. Cette faiblesse a été attribuée à l’augmentation des investissements dans l’IA et aux coûts de la concurrence dans la livraison en Chine. Alibaba, JD.com et d’autres acteurs ont multiplié les coupons pour gagner des clients, ce qui a pesé sur la rentabilité. L’action Alibaba a clôturé en baisse de 3,22%, à 141,12 dollars. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "استثمارات الذكاء الاصطناعي تضغط على علي بابا والربح يتراجع لأول مرة منذ 4 سنوات",
+        "excerpt": "أعلنت علي بابا نتائج ضعيفة للسنة المالية 2026 رغم نمو الإيرادات، إذ جاءت دون توقعات السوق وتحولت إلى خسارة تشغيلية بفعل استثمارات الذكاء الاصطناعي ومنافسة التوصيل.",
+        "body": "سجلت شركة علي بابا الصينية أداء ضعيفا في السنة المالية 2026، الممتدة من أبريل 2025 إلى مارس 2026، بحسب ما نقلته ييكاي وبلومبرغ في 14 مايو بالتوقيت المحلي. بلغت الإيرادات 243.4 مليار يوان بزيادة 3% على أساس سنوي، لكنها جاءت دون توقعات السوق البالغة 247.2 مليار يوان. وتحولت الشركة إلى خسارة تشغيلية قدرها 848 مليون يوان، بينما انخفض صافي الربح إلى 105.9 مليار يوان، في أول تراجع منذ أربع سنوات. وعزي الضعف إلى زيادة الاستثمار في الذكاء الاصطناعي وتكاليف المنافسة في خدمات التوصيل داخل الصين. فقد وسعت علي بابا وجيه دي دوت كوم وغيرها من شركات التجارة الإلكترونية الكبرى استخدام القسائم لجذب العملاء، ما أضعف الربحية. وأغلق سهم علي بابا منخفضا 3.22% عند 141.12 دولار. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "AI निवेश का दबाव: अलीबाबा का लाभ चार साल में पहली बार घटा, शेयर भी टूटा",
+        "excerpt": "अलीबाबा ने वित्त वर्ष 2026 में राजस्व बढ़ने के बावजूद कमजोर नतीजे दिए, बाजार अनुमान से चूकी और AI निवेश व डिलीवरी प्रतिस्पर्धा के खर्च से परिचालन घाटे में गई।",
+        "body": "चीन की अलीबाबा ने वित्त वर्ष 2026, यानी अप्रैल 2025 से मार्च 2026, में कमजोर प्रदर्शन दर्ज किया, जैसा कि यिकाई और ब्लूमबर्ग ने 14 मई स्थानीय समय पर बताया। कंपनी का राजस्व सालाना आधार पर 3% बढ़कर 243.4 अरब युआन रहा, लेकिन यह 247.2 अरब युआन के बाजार अनुमान से कम था। परिचालन स्तर पर 84.8 करोड़ युआन का घाटा हुआ, जबकि शुद्ध लाभ घटकर 105.9 अरब युआन रह गया, जो चार साल में पहली गिरावट है। कमजोरी की वजह AI निवेश में वृद्धि और चीन में डिलीवरी प्रतिस्पर्धा से जुड़ा खर्च बताया गया। अलीबाबा, JD.com और अन्य बड़ी ई-कॉमर्स कंपनियों ने ग्राहकों को आकर्षित करने के लिए कूपन बढ़ाए, जिससे लाभप्रदता पर दबाव पड़ा। अलीबाबा का शेयर 3.22% गिरकर 141.12 डॉलर पर बंद हुआ। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Alibaba tertekan investasi AI, laba turun pertama kali dalam empat tahun",
+        "excerpt": "Alibaba mencatat hasil lemah pada tahun fiskal 2026 meski pendapatan naik, meleset dari perkiraan pasar dan beralih rugi operasional akibat investasi AI serta kompetisi pengiriman.",
+        "body": "Alibaba asal China mencatat kinerja lemah pada tahun fiskal 2026, periode April 2025 hingga Maret 2026, menurut laporan Yicai dan Bloomberg pada 14 Mei waktu setempat. Pendapatan mencapai 243,4 miliar yuan, naik 3% secara tahunan, tetapi di bawah perkiraan pasar sebesar 247,2 miliar yuan. Perusahaan beralih ke rugi operasional sebesar 848 juta yuan, sementara laba bersih turun menjadi 105,9 miliar yuan, penurunan pertama dalam empat tahun. Tekanan ini dikaitkan dengan peningkatan investasi AI dan biaya dari persaingan layanan pengiriman di China. Alibaba, JD.com, dan perusahaan e-commerce besar lain memperluas kupon untuk menarik pelanggan, sehingga profitabilitas melemah. Saham Alibaba ditutup turun 3,22% ke 141,12 dolar AS. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "cd7710d9b9e8",
     "slug": "우량주-뛰자채권혼합-etf-뭉칫돈-753659",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Target Daejoo Electronic Materials Naik Berkat Boom MLCC Samsung Electro-Mechanics",
         "excerpt": "Kiwoom Securities menaikkan target harga Daejoo Electronic Materials karena menilai perusahaan dapat menerima efek limpahan dari kuatnya bisnis MLCC Samsung Electro-Mechanics.",
         "body": "Kiwoom Securities menaikkan target harga Daejoo Electronic Materials, dengan alasan adanya harapan efek limpahan dari boom bisnis MLCC Samsung Electro-Mechanics. Analisis ini menyoroti bagaimana membaiknya kondisi MLCC di Samsung Electro-Mechanics dapat memengaruhi pandangan investasi terhadap Daejoo Electronic Materials, perusahaan terkait bahan. MLCC adalah komponen pasif utama yang digunakan pada perangkat elektronik dan komponen otomotif, sehingga perubahan bisnis pelanggan besar dapat tersambung ke rantai pasok bahan. Dengan latar belakang tersebut, Kiwoom tampaknya memasukkan faktor positif ke dalam prospek kinerja dan penilaian saham Daejoo Electronic Materials. Teks asli tidak menyebutkan tingkat target harga tertentu atau angka kinerja. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "ffb7025d18bf",
-    "slug": "sk하이닉스-내년-영업익-428조원목표가-300만원-상향-kb-528285",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T23:36:52.569Z",
-    "updatedAt": "2026-05-14T23:36:52.569Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051578596",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051578596",
-    "titleFingerprint": "37fc4b5ff17edb8ab4e784cb543d351769e804c9",
-    "dedupKeys": [
-      "ffb7025d18bf9c8652d6873d4f3da56ab1ae1672",
-      "37fc4b5ff17edb8ab4e784cb543d351769e804c9",
-      "940ab51feab01a3ee058904bc0d42bb003a4627c"
-    ],
-    "imageUrl": "/images/articles/ffb7025d18bf.jpg",
-    "i18n": {
-      "ko": {
-        "title": "SK하이닉스 내년 영업익 428조원 전망, KB 목표가 300만원 상향 - 한경 보도",
-        "excerpt": "KB가 SK하이닉스의 내년 영업이익 전망치를 428조원으로 제시하고 목표주가를 300만원으로 상향했다고 hankyung.com이 보도했다.",
-        "body": "KB가 SK하이닉스의 내년 영업이익 전망치를 428조원으로 제시하고 목표주가를 300만원으로 상향했다고 hankyung.com이 보도했다. 보도 제목에 따르면 이번 전망은 SK하이닉스의 향후 실적 추정과 주가 목표 조정에 초점이 맞춰졌다. 핵심 수치는 내년 영업이익 428조원, 목표주가 300만원이다. 투자자들은 해당 수치가 SK하이닉스에 대한 증권사 전망 변화로 제시됐다는 점을 확인할 필요가 있다. 다만 제공된 원문 정보에는 구체적인 산정 배경이나 추가 실적 항목은 포함되지 않았다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "SK Hynix operating profit forecast at 428 trillion won next year; KB raises target to 3 million won",
-        "excerpt": "KB projected SK Hynix’s operating profit for next year at 428 trillion won and raised its target price to 3 million won, according to hankyung.com.",
-        "body": "KB projected SK Hynix’s operating profit for next year at 428 trillion won and raised its target price to 3 million won, hankyung.com reported. According to the headline, the update focuses on SK Hynix’s future earnings estimate and the adjustment of its share-price target. The key figures are 428 trillion won in operating profit for next year and a 3 million won target price. Investors should note that these numbers were presented as a securities firm’s outlook for SK Hynix. The provided source information does not include detailed assumptions or additional earnings items. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "SKハイニックス、来年営業益428兆ウォン見通し　KBが目標株価300万ウォンに引き上げ",
-        "excerpt": "KBがSKハイニックスの来年営業利益見通しを428兆ウォンとし、目標株価を300万ウォンに引き上げたとhankyung.comが報じた。",
-        "body": "KBがSKハイニックスの来年営業利益見通しを428兆ウォンとし、目標株価を300万ウォンに引き上げたとhankyung.comが報じた。報道の見出しによると、今回の内容はSKハイニックスの今後の業績推定と株価目標の調整に焦点を当てている。主要な数値は、来年の営業利益428兆ウォン、目標株価300万ウォンだ。投資家は、これらの数値がSKハイニックスに対する証券会社の見通しとして示された点を確認する必要がある。ただし、提供された原文情報には具体的な算定背景や追加の業績項目は含まれていない。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "SK海力士明年营业利润预计428万亿韩元，KB上调目标价至300万韩元",
-        "excerpt": "据hankyung.com报道，KB将SK海力士明年营业利润预测列为428万亿韩元，并把目标股价上调至300万韩元。",
-        "body": "据hankyung.com报道，KB将SK海力士明年营业利润预测列为428万亿韩元，并把目标股价上调至300万韩元。根据报道标题，此次内容聚焦于SK海力士未来业绩预估和股价目标调整。核心数字是明年营业利润428万亿韩元、目标股价300万韩元。投资者需要注意，这些数字是作为证券公司对SK海力士的展望提出的。不过，所提供的原文信息未包含具体测算背景或其他业绩项目。来源: hankyung.com。"
-      },
-      "es": {
-        "title": "SK Hynix: KB prevé beneficio operativo de 428 billones de wones y eleva precio objetivo a 3 millones",
-        "excerpt": "KB estimó el beneficio operativo de SK Hynix para el próximo año en 428 billones de wones y elevó su precio objetivo a 3 millones, según hankyung.com.",
-        "body": "KB estimó el beneficio operativo de SK Hynix para el próximo año en 428 billones de wones y elevó su precio objetivo a 3 millones de wones, informó hankyung.com. Según el titular, la actualización se centra en la estimación de resultados futuros de SK Hynix y en el ajuste del precio objetivo de la acción. Las cifras clave son 428 billones de wones de beneficio operativo para el próximo año y un precio objetivo de 3 millones de wones. Los inversores deben tener en cuenta que estos datos fueron presentados como una perspectiva de una firma de valores sobre SK Hynix. La información original proporcionada no incluye detalles de cálculo ni otros rubros de resultados. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "SK Hynix: KB prevê lucro operacional de 428 trilhões de won e eleva preço-alvo a 3 milhões",
-        "excerpt": "A KB projetou o lucro operacional da SK Hynix no próximo ano em 428 trilhões de won e elevou o preço-alvo para 3 milhões, segundo o hankyung.com.",
-        "body": "A KB projetou o lucro operacional da SK Hynix no próximo ano em 428 trilhões de won e elevou o preço-alvo para 3 milhões de won, informou o hankyung.com. Segundo o título da reportagem, a atualização se concentra na estimativa de resultados futuros da SK Hynix e no ajuste do preço-alvo da ação. Os principais números são lucro operacional de 428 trilhões de won no próximo ano e preço-alvo de 3 milhões de won. Investidores devem observar que esses dados foram apresentados como a visão de uma corretora sobre a SK Hynix. A informação original fornecida não inclui premissas detalhadas nem outros itens de resultado. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "SK Hynix: KB erwartet 428 Billionen Won Betriebsgewinn und hebt Kursziel auf 3 Millionen Won",
-        "excerpt": "KB prognostizierte für SK Hynix im nächsten Jahr 428 Billionen Won Betriebsgewinn und hob das Kursziel auf 3 Millionen Won an, laut hankyung.com.",
-        "body": "KB prognostizierte für SK Hynix im nächsten Jahr einen Betriebsgewinn von 428 Billionen Won und hob das Kursziel auf 3 Millionen Won an, berichtete hankyung.com. Dem Titel zufolge konzentriert sich die Meldung auf die künftige Gewinnschätzung für SK Hynix und die Anpassung des Kursziels. Die zentralen Zahlen sind 428 Billionen Won Betriebsgewinn im nächsten Jahr und ein Kursziel von 3 Millionen Won. Anleger sollten beachten, dass diese Werte als Einschätzung eines Wertpapierhauses zu SK Hynix genannt wurden. Die bereitgestellte Originalinformation enthält keine detaillierten Berechnungsgrundlagen oder weiteren Ergebnisposten. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "SK Hynix: KB prévoit 428 billions de wons de bénéfice opérationnel et relève l’objectif à 3 millions",
-        "excerpt": "KB a prévu pour SK Hynix un bénéfice opérationnel de 428 billions de wons l’an prochain et relevé son objectif de cours à 3 millions, selon hankyung.com.",
-        "body": "KB a prévu pour SK Hynix un bénéfice opérationnel de 428 billions de wons l’an prochain et relevé son objectif de cours à 3 millions de wons, a rapporté hankyung.com. D’après le titre, l’information porte sur l’estimation des résultats futurs de SK Hynix et l’ajustement de l’objectif de cours. Les chiffres clés sont un bénéfice opérationnel de 428 billions de wons l’an prochain et un objectif de cours de 3 millions de wons. Les investisseurs doivent noter que ces données sont présentées comme la perspective d’une société de courtage sur SK Hynix. Les informations originales fournies ne comprennent pas d’hypothèses détaillées ni d’autres postes de résultats. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "إس كيه هاينكس: KB تتوقع ربحا تشغيليا 428 تريليون وون وترفع السعر المستهدف إلى 3 ملايين",
-        "excerpt": "توقعت KB أن يبلغ الربح التشغيلي لإس كيه هاينكس في العام المقبل 428 تريليون وون ورفعت السعر المستهدف إلى 3 ملايين وون، بحسب hankyung.com.",
-        "body": "أفاد موقع hankyung.com بأن KB توقعت أن يبلغ الربح التشغيلي لإس كيه هاينكس في العام المقبل 428 تريليون وون، ورفعت السعر المستهدف للسهم إلى 3 ملايين وون. وبحسب عنوان التقرير، يركز التحديث على تقدير الأرباح المستقبلية لإس كيه هاينكس وتعديل السعر المستهدف. الأرقام الرئيسية هي ربح تشغيلي قدره 428 تريليون وون في العام المقبل وسعر مستهدف يبلغ 3 ملايين وون. وينبغي للمستثمرين ملاحظة أن هذه الأرقام طُرحت كتوقعات من شركة أوراق مالية بشأن إس كيه هاينكس. ولا تتضمن المعلومات الأصلية المقدمة خلفيات حسابية تفصيلية أو بنود نتائج إضافية. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "SK Hynix पर KB का अनुमान: अगले साल परिचालन लाभ 428 ट्रिलियन वॉन, लक्ष्य मूल्य 30 लाख वॉन",
-        "excerpt": "KB ने SK Hynix का अगले साल का परिचालन लाभ 428 ट्रिलियन वॉन बताया और लक्ष्य मूल्य 30 लाख वॉन तक बढ़ाया, hankyung.com के अनुसार।",
-        "body": "hankyung.com के अनुसार, KB ने SK Hynix का अगले साल का परिचालन लाभ 428 ट्रिलियन वॉन रहने का अनुमान दिया और लक्ष्य मूल्य 30 लाख वॉन तक बढ़ाया। रिपोर्ट के शीर्षक के मुताबिक, यह जानकारी SK Hynix की भविष्य की आय के अनुमान और शेयर लक्ष्य मूल्य में बदलाव पर केंद्रित है। मुख्य आंकड़े अगले साल 428 ट्रिलियन वॉन का परिचालन लाभ और 30 लाख वॉन का लक्ष्य मूल्य हैं। निवेशकों को ध्यान देना चाहिए कि ये आंकड़े SK Hynix पर एक सिक्योरिटीज फर्म के दृष्टिकोण के रूप में दिए गए हैं। उपलब्ध मूल जानकारी में गणना की विस्तृत पृष्ठभूमि या अतिरिक्त आय मदें शामिल नहीं हैं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "SK Hynix diproyeksi cetak laba operasi 428 triliun won; KB naikkan target ke 3 juta won",
-        "excerpt": "KB memproyeksikan laba operasi SK Hynix tahun depan sebesar 428 triliun won dan menaikkan target harga menjadi 3 juta won, menurut hankyung.com.",
-        "body": "KB memproyeksikan laba operasi SK Hynix tahun depan sebesar 428 triliun won dan menaikkan target harga menjadi 3 juta won, lapor hankyung.com. Berdasarkan judul laporan, pembaruan ini berfokus pada estimasi kinerja masa depan SK Hynix dan penyesuaian target harga saham. Angka utamanya adalah laba operasi tahun depan sebesar 428 triliun won dan target harga 3 juta won. Investor perlu mencermati bahwa angka tersebut disampaikan sebagai pandangan perusahaan sekuritas terhadap SK Hynix. Informasi asli yang diberikan tidak memuat latar perhitungan terperinci atau pos kinerja tambahan. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "88e7a46f03e0",
-    "slug": "한국금융지주-시장-상승-구간에서-높은-수익성목표가-kb-106429",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T23:35:48.451Z",
-    "updatedAt": "2026-05-14T23:35:48.451Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051578396",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051578396",
-    "titleFingerprint": "0809f6801121fa5ad7212cd3581debd2f0554072",
-    "dedupKeys": [
-      "88e7a46f03e05e029f632fce6c305f23af4cdc09",
-      "0809f6801121fa5ad7212cd3581debd2f0554072",
-      "59e82102eec109e2fd678a95b83c9198b81df9c6"
-    ],
-    "imageUrl": "/images/articles/88e7a46f03e0.png",
-    "i18n": {
-      "ko": {
-        "title": "한국금융지주 목표가 35만원으로 상향, KB “시장 상승 수익화 강점”",
-        "excerpt": "KB증권은 14일 한국금융지주가 1분기 어닝 서프라이즈와 자회사 이익 개선을 바탕으로 시장 상승 구간에서 높은 수익성을 확인했다며 목표주가를 35만원으로 올렸다.",
-        "body": "KB증권은 14일 한국금융지주에 대해 시장 상승을 수익으로 연결하는 능력이 확인됐다며 투자의견 매수를 유지하고 목표주가를 기존보다 12.9% 높인 35만원으로 제시했다. 1분기 연결 기준 지배주주순이익은 9149억원으로 전년 동기 대비 99.6% 늘어 컨센서스를 33.9% 웃돌았다. 증권 자회사는 별도 순이익 6240억원을 기록했고, 브로커리지 이자수지와 자산관리 수수료 수익이 크게 증가했다. 밸류자산운용, 저축은행, 캐피탈도 유가증권 평가이익과 충당금 감소 등에 힘입어 실적 개선에 기여했다. KB증권은 올해와 내년 일평균 거래대금 전망을 올리고 2026년 이익 전망치를 2조6700억원으로 상향했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Korea Investment Holdings Target Raised to 350,000 Won as KB Sees Market Upside Gains",
-        "excerpt": "KB Securities said on May 14 that Korea Investment Holdings showed strong profitability in a rising market, lifting its price target to 350,000 won after a first-quarter earnings surprise.",
-        "body": "KB Securities said on May 14 that Korea Investment Holdings has shown an ability to turn market gains into earnings, maintaining its Buy rating and raising its price target by 12.9% to 350,000 won. First-quarter consolidated net profit attributable to controlling shareholders reached 914.9 billion won, up 99.6% from a year earlier and 33.9% above consensus. The securities unit posted standalone net profit of 624.0 billion won, helped by higher brokerage interest income and sharply increased wealth management fees. Value Asset Management, the savings bank and capital subsidiaries also supported results through securities valuation gains and lower provisions. KB raised its daily trading value assumptions for this year and next and lifted its 2026 earnings estimate to 2.67 trillion won. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "韓国金融持株の目標株価35万ウォンへ、KBが市場上昇局面の収益性を評価",
-        "excerpt": "KB証券は14日、韓国金融持株について1四半期のサプライズ決算と子会社の利益改善を踏まえ、市場上昇局面で高い収益性を示したとして目標株価を35万ウォンに引き上げた。",
-        "body": "KB証券は14日、韓国金融持株が市場上昇を利益につなげる力を示したとして、投資判断を買いに据え置き、目標株価を従来比12.9%引き上げ35万ウォンとした。第1四半期の連結ベースの支配株主帰属純利益は9149億ウォンで、前年同期比99.6%増加し、市場予想を33.9%上回った。証券子会社の単独純利益は6240億ウォンとなり、ブローカレッジ関連の利ざやと資産管理手数料収入が大きく伸びた。バリュー資産運用、貯蓄銀行、キャピタル子会社も有価証券評価益や引当金減少などで業績改善に寄与した。KB証券は今年と来年の日次平均売買代金見通しを引き上げ、2026年利益予想を2兆6700億ウォンに上方修正した。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "韩国金融控股目标价上调至35万韩元，KB看好市场上涨期盈利能力",
-        "excerpt": "KB证券14日表示，韩国金融控股凭借一季度业绩超预期和子公司利润改善，在市场上涨阶段展现较高盈利能力，因此将目标价上调至35万韩元。",
-        "body": "KB证券14日表示，韩国金融控股已证明能够把市场上涨转化为收益，维持买入评级，并将目标价较此前上调12.9%至35万韩元。公司一季度合并口径归属控股股东净利润为9149亿韩元，同比增加99.6%，高出市场共识33.9%。证券子公司单独净利润为6240亿韩元，经纪业务相关利息净收入和财富管理手续费收入明显增长。Value资产管理、储蓄银行和资本子公司也因有价证券估值收益及拨备减少等因素改善利润。KB证券上调了今年和明年的日均成交额假设，并将2026年利润预测上调至2.67万亿韩元。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Korea Investment Holdings sube a 350.000 wones como precio objetivo por rentabilidad, según KB",
-        "excerpt": "KB Securities dijo el 14 de mayo que Korea Investment Holdings mostró alta rentabilidad en un mercado alcista, apoyada por una sorpresa de resultados del primer trimestre y mejora en filiales.",
-        "body": "KB Securities afirmó el 14 de mayo que Korea Investment Holdings demostró capacidad para convertir la subida del mercado en ganancias, por lo que mantuvo su recomendación de compra y elevó el precio objetivo un 12,9%, hasta 350.000 wones. El beneficio neto consolidado atribuible a los accionistas controladores en el primer trimestre fue de 914.900 millones de wones, un 99,6% más interanual y un 33,9% por encima del consenso. La filial de valores registró un beneficio neto individual de 624.000 millones de wones, con fuerte aumento del margen de intereses de corretaje y de las comisiones de gestión patrimonial. Value Asset Management, el banco de ahorro y la filial de capital también contribuyeron gracias a ganancias de valoración de valores y menores provisiones. KB elevó sus supuestos de volumen diario medio para este año y el próximo, y subió su previsión de beneficio de 2026 a 2,67 billones de wones. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Korea Investment Holdings tem preço-alvo elevado a 350 mil won com alta rentabilidade, diz KB",
-        "excerpt": "A KB Securities disse em 14 de maio que a Korea Investment Holdings confirmou forte rentabilidade em um mercado em alta, após surpresa nos resultados do 1º trimestre e melhora das subsidiárias.",
-        "body": "A KB Securities afirmou em 14 de maio que a Korea Investment Holdings demonstrou capacidade de converter a alta do mercado em lucro, mantendo a recomendação de compra e elevando o preço-alvo em 12,9%, para 350 mil won. O lucro líquido consolidado atribuível aos acionistas controladores no primeiro trimestre foi de 914,9 bilhões de won, alta de 99,6% em relação ao ano anterior e 33,9% acima do consenso. A subsidiária de valores mobiliários teve lucro líquido individual de 624 bilhões de won, apoiada pelo aumento da margem de juros de corretagem e das taxas de gestão patrimonial. Value Asset Management, banco de poupança e subsidiária de capital também contribuíram com ganhos de avaliação de títulos e queda de provisões. A KB elevou as premissas de volume médio diário para este ano e o próximo e aumentou a previsão de lucro de 2026 para 2,67 trilhões de won. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Korea Investment Holdings: KB erhöht Kursziel auf 350.000 Won wegen starker Marktgewinne",
-        "excerpt": "KB Securities erklärte am 14. Mai, Korea Investment Holdings habe mit einem Ergebnis über Erwartung und besseren Tochtergewinnen hohe Profitabilität in steigenden Märkten gezeigt.",
-        "body": "KB Securities erklärte am 14. Mai, Korea Investment Holdings habe seine Fähigkeit gezeigt, steigende Märkte in Erträge umzusetzen. Die Kaufempfehlung wurde bestätigt, das Kursziel um 12,9% auf 350.000 Won angehoben. Der konsolidierte Nettogewinn, der den beherrschenden Aktionären zuzurechnen ist, lag im ersten Quartal bei 914,9 Milliarden Won, 99,6% mehr als ein Jahr zuvor und 33,9% über dem Konsens. Die Wertpapiertochter erzielte einen Einzelabschluss-Nettogewinn von 624,0 Milliarden Won, gestützt durch höhere Brokerage-Zinserträge und stark gestiegene Wealth-Management-Gebühren. Value Asset Management, die Sparkassen- und die Capital-Tochter trugen dank Bewertungsgewinnen aus Wertpapieren und geringeren Rückstellungen ebenfalls zur Verbesserung bei. KB hob seine Annahmen zum durchschnittlichen Tagesumsatz für dieses und nächstes Jahr sowie die Gewinnprognose 2026 auf 2,67 Billionen Won an. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Korea Investment Holdings porté à 350.000 wons par KB grâce à une forte rentabilité",
-        "excerpt": "KB Securities a indiqué le 14 mai que Korea Investment Holdings avait confirmé une forte rentabilité en marché haussier, grâce à un premier trimestre supérieur aux attentes et à ses filiales.",
-        "body": "KB Securities a déclaré le 14 mai que Korea Investment Holdings avait démontré sa capacité à transformer la hausse du marché en bénéfices. La recommandation d'achat est maintenue et l'objectif de cours relevé de 12,9% à 350.000 wons. Le bénéfice net consolidé attribuable aux actionnaires de contrôle au premier trimestre a atteint 914,9 milliards de wons, en hausse de 99,6% sur un an et 33,9% au-dessus du consensus. La filiale de courtage a dégagé un bénéfice net individuel de 624,0 milliards de wons, soutenu par l'augmentation des revenus d'intérêts liés au courtage et des commissions de gestion de patrimoine. Value Asset Management, la caisse d'épargne et la filiale de capital ont aussi contribué grâce aux gains de valorisation de titres et à la baisse des provisions. KB a relevé ses hypothèses de volume quotidien moyen pour cette année et l'an prochain, ainsi que sa prévision de bénéfice 2026 à 2.670 milliards de wons. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "KB ترفع السعر المستهدف لكوريا إنفستمنت هولدنغز إلى 350 ألف وون مع قوة الربحية",
-        "excerpt": "قالت KB للأوراق المالية في 14 مايو إن كوريا إنفستمنت هولدنغز أظهرت ربحية مرتفعة في سوق صاعدة، بدعم من مفاجأة أرباح الربع الأول وتحسن أرباح الشركات التابعة.",
-        "body": "قالت KB للأوراق المالية في 14 مايو إن كوريا إنفستمنت هولدنغز أثبتت قدرتها على تحويل صعود السوق إلى أرباح، فأبقت على توصية الشراء ورفعت السعر المستهدف 12.9% إلى 350 ألف وون. وبلغ صافي الربح الموحد العائد إلى المساهمين المسيطرين في الربع الأول 914.9 مليار وون، بزيادة 99.6% على أساس سنوي وبما يفوق التوقعات المتفق عليها 33.9%. وسجلت شركة الأوراق المالية التابعة صافي ربح منفردا قدره 624.0 مليار وون، مدعوما بارتفاع صافي دخل الفوائد المرتبط بالوساطة وقفزة رسوم إدارة الثروات. كما ساهمت Value Asset Management وشركة الادخار والتمويل التابعة في تحسن النتائج بفضل مكاسب تقييم الأوراق المالية وتراجع المخصصات. ورفعت KB افتراضات متوسط قيمة التداول اليومية لهذا العام والعام المقبل، كما رفعت توقع ربح 2026 إلى 2.67 تريليون وون. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Korea Investment Holdings का लक्ष्य मूल्य 350,000 वोन, KB ने बाजार तेजी में मुनाफा देखा",
-        "excerpt": "KB Securities ने 14 मई को कहा कि Korea Investment Holdings ने पहली तिमाही की कमाई और सहायक कंपनियों के बेहतर लाभ के आधार पर चढ़ते बाजार में मजबूत लाभप्रदता दिखाई।",
-        "body": "KB Securities ने 14 मई को कहा कि Korea Investment Holdings ने बाजार की तेजी को आय में बदलने की क्षमता दिखाई है। उसने खरीद रेटिंग बनाए रखी और लक्ष्य मूल्य 12.9% बढ़ाकर 350,000 वोन कर दिया। पहली तिमाही में नियंत्रक शेयरधारकों के हिस्से का समेकित शुद्ध लाभ 914.9 अरब वोन रहा, जो सालाना आधार पर 99.6% अधिक और सहमति अनुमान से 33.9% ऊपर था। प्रतिभूति सहायक कंपनी का अलग शुद्ध लाभ 624.0 अरब वोन रहा, जिसे ब्रोकरेज ब्याज आय और वेल्थ मैनेजमेंट शुल्क आय में तेज वृद्धि से समर्थन मिला। Value Asset Management, बचत बैंक और कैपिटल सहायक कंपनियों ने भी प्रतिभूति मूल्यांकन लाभ और प्रावधानों में कमी से परिणामों में योगदान दिया। KB ने इस वर्ष और अगले वर्ष के औसत दैनिक कारोबार मूल्य के अनुमान बढ़ाए और 2026 के लाभ अनुमान को 2.67 ट्रिलियन वोन किया। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Target Korea Investment Holdings Naik ke 350.000 Won, KB Soroti Profit Saat Pasar Menguat",
-        "excerpt": "KB Securities pada 14 Mei menyebut Korea Investment Holdings menunjukkan profitabilitas tinggi saat pasar naik, didukung kejutan laba kuartal I dan perbaikan laba anak usaha.",
-        "body": "KB Securities pada 14 Mei menyatakan Korea Investment Holdings membuktikan kemampuan mengubah kenaikan pasar menjadi laba. Rekomendasi beli dipertahankan dan target harga dinaikkan 12,9% menjadi 350.000 won. Laba bersih konsolidasi yang dapat diatribusikan kepada pemegang saham pengendali pada kuartal I mencapai 914,9 miliar won, naik 99,6% secara tahunan dan 33,9% di atas konsensus. Anak usaha sekuritas mencatat laba bersih mandiri 624,0 miliar won, ditopang kenaikan pendapatan bunga terkait broker dan lonjakan komisi manajemen kekayaan. Value Asset Management, bank tabungan, dan anak usaha pembiayaan juga berkontribusi lewat keuntungan penilaian efek dan penurunan provisi. KB menaikkan asumsi nilai transaksi harian rata-rata untuk tahun ini dan tahun depan, serta menaikkan proyeksi laba 2026 menjadi 2,67 triliun won. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "39e5cd426710",
-    "slug": "삼성전기-mlcc-가격-인상-사이클-시작목표가-nh-472178",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T23:34:27.322Z",
-    "updatedAt": "2026-05-14T23:34:27.322Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051578716",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051578716",
-    "titleFingerprint": "776836c18ebb50eb7bf348568131087400ce2962",
-    "dedupKeys": [
-      "39e5cd426710d5462ad061a16f0e09e429adea9b",
-      "776836c18ebb50eb7bf348568131087400ce2962",
-      "be051881b0872b15ac39b12b643f2e452d7b7429"
-    ],
-    "imageUrl": "/images/articles/39e5cd426710.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전기 MLCC 가격 인상 사이클 본격화, NH 목표가 150만원 상향",
-        "excerpt": "NH투자증권은 15일 삼성전기가 일부 MLCC 가격 인상에 나설 것으로 보고 목표주가를 100만원에서 150만원으로 올렸으며 투자의견 매수를 유지했다.",
-        "body": "NH투자증권은 15일 삼성전기에 대해 다중적층세라믹콘덴서(MLCC) 시장의 가격 인상 사이클이 본격화되고 있다며 목표주가를 기존 100만원에서 150만원으로 상향했다. 투자의견은 매수를 유지했다. 황지현 NH투자증권 연구원은 삼성전기가 유통업체를 대상으로 일부 MLCC 가격을 인상할 계획인 것으로 파악됐다고 밝혔다. 일본 경쟁사 무라타와 태양유전은 AI용 MLCC 수요가 강해 연중 가동률이 90%를 웃돌 것으로 언급했다. NH투자증권은 삼성전기가 패키지 사업부를 보유해 VPD 구조 확산 과정에서 부문 간 시너지를 낼 수 있다고 봤다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Samsung Electro-Mechanics MLCC Price Hike Cycle Begins, NH Lifts Target",
-        "excerpt": "NH Investment & Securities said on the 15th that Samsung Electro-Mechanics is expected to raise prices for some MLCCs, lifting its target price from 1 million won to 1.5 million won and keeping a Buy rating.",
-        "body": "NH Investment & Securities said on the 15th that the price increase cycle in the multilayer ceramic capacitor, or MLCC, market is beginning in earnest for Samsung Electro-Mechanics, raising its target price from 1 million won to 1.5 million won. It maintained a Buy rating. Analyst Hwang Ji-hyun said the company is understood to be planning price increases for some MLCC products sold through distributors. Japanese rivals Murata and Taiyo Yuden have said demand for AI-use MLCCs remains strong and that utilization rates are likely to stay above 90% through the year. NH also noted that Samsung Electro-Mechanics owns a package business, which could create synergy as VPD structures spread. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "サムスン電機、MLCC値上げサイクル本格化 NHが目標株価引き上げ",
-        "excerpt": "NH投資証券は15日、サムスン電機が一部MLCCの価格を引き上げるとみて、目標株価を100万ウォンから150万ウォンへ上げ、投資判断「買い」を維持した。",
-        "body": "NH投資証券は15日、サムスン電機について、積層セラミックコンデンサー（MLCC）市場の値上げサイクルが本格化しているとして、目標株価を従来の100万ウォンから150万ウォンに引き上げた。投資判断は「買い」を維持した。黄志賢研究員は、同社が流通業者向けに一部MLCCの価格を引き上げる計画だと把握されていると述べた。競合する日本の村田製作所と太陽誘電は、AI向けMLCC需要が強く、年中稼働率が90％を上回る水準で推移すると言及している。NH投資証券は、サムスン電機がパッケージ事業部を持つため、VPD構造の拡大局面で部門間シナジーが期待できるとみた。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "三星电机MLCC涨价周期启动，NH上调目标价至150万韩元",
-        "excerpt": "NH投资证券15日表示，三星电机预计将上调部分MLCC价格，因此把目标价从100万韩元上调至150万韩元，并维持“买入”评级。",
-        "body": "NH投资证券15日称，三星电机所在的多层陶瓷电容器（MLCC）市场涨价周期正在正式展开，因此将其目标价从此前的100万韩元上调至150万韩元，并维持“买入”评级。NH投资证券研究员黄志贤表示，据了解三星电机计划面向经销商上调部分MLCC价格。日本竞争对手村田制作所和太阳诱电均提到，AI用MLCC需求持续强劲，全年开工率将维持在90%以上。NH投资证券还认为，三星电机不同于部分MLCC企业，拥有封装业务部门，随着AI服务器企业扩大采用VPD结构，部门间可能产生协同效应。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Samsung Electro-Mechanics inicia ciclo de alza en MLCC, NH sube precio objetivo",
-        "excerpt": "NH Investment & Securities dijo el día 15 que Samsung Electro-Mechanics prevé subir algunos precios de MLCC, elevó su precio objetivo de 1 millón a 1,5 millones de wones y mantuvo Comprar.",
-        "body": "NH Investment & Securities afirmó el día 15 que el ciclo de aumentos de precios en el mercado de condensadores cerámicos multicapa, o MLCC, se está acelerando para Samsung Electro-Mechanics y elevó su precio objetivo de 1 millón a 1,5 millones de wones. La recomendación se mantuvo en Comprar. La analista Hwang Ji-hyun dijo que la compañía planea subir los precios de algunos MLCC dirigidos a distribuidores. Sus competidores japoneses Murata y Taiyo Yuden han señalado que la demanda de MLCC para inteligencia artificial sigue siendo fuerte y que las tasas de utilización se mantendrán por encima del 90% durante el año. NH añadió que la división de empaques de Samsung Electro-Mechanics puede generar sinergias con la expansión de estructuras VPD. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Samsung Electro-Mechanics entra em ciclo de alta de MLCC, NH eleva alvo",
-        "excerpt": "A NH Investment & Securities disse no dia 15 que a Samsung Electro-Mechanics deve elevar preços de alguns MLCCs, subiu o preço-alvo de 1 milhão para 1,5 milhão de won e manteve Compra.",
-        "body": "A NH Investment & Securities afirmou no dia 15 que o ciclo de aumento de preços no mercado de capacitores cerâmicos multicamadas, ou MLCC, está ganhando força para a Samsung Electro-Mechanics e elevou o preço-alvo de 1 milhão para 1,5 milhão de won. A recomendação de Compra foi mantida. A analista Hwang Ji-hyun disse que a empresa deve reajustar alguns preços de MLCC para distribuidores. As japonesas Murata e Taiyo Yuden, concorrentes no segmento, já mencionaram que a demanda por MLCCs para IA segue forte e que as taxas de utilização devem ficar acima de 90% ao longo do ano. A NH também avaliou que a divisão de pacotes da Samsung Electro-Mechanics pode gerar sinergias com a adoção crescente da estrutura VPD. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Samsung Electro-Mechanics startet MLCC-Preiserhöhungszyklus, NH hebt Ziel an",
-        "excerpt": "NH Investment & Securities erklärte am 15., Samsung Electro-Mechanics dürfte Preise für einige MLCCs erhöhen, hob das Kursziel von 1 Mio. auf 1,5 Mio. Won an und bestätigte Kaufen.",
-        "body": "NH Investment & Securities erklärte am 15., dass sich der Preiserhöhungszyklus im Markt für mehrschichtige Keramikkondensatoren, kurz MLCC, bei Samsung Electro-Mechanics beschleunigt, und hob das Kursziel von 1 Mio. auf 1,5 Mio. Won an. Die Einstufung Kaufen blieb bestehen. Analystin Hwang Ji-hyun sagte, das Unternehmen plane nach ihrem Kenntnisstand Preiserhöhungen für einige MLCC-Produkte im Vertriebskanal. Die japanischen Wettbewerber Murata und Taiyo Yuden haben darauf hingewiesen, dass die Nachfrage nach MLCCs für KI-Anwendungen stark bleibt und die Auslastung im Jahresverlauf über 90% liegen dürfte. NH sieht zudem mögliche Synergien mit der Package-Sparte, da VPD-Strukturen breiter eingesetzt werden. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Samsung Electro-Mechanics lance le cycle de hausse des MLCC, NH relève sa cible",
-        "excerpt": "NH Investment & Securities a indiqué le 15 que Samsung Electro-Mechanics devrait relever certains prix de MLCC, portant son objectif de 1 million à 1,5 million de wons et maintenant Acheter.",
-        "body": "NH Investment & Securities a déclaré le 15 que le cycle de hausse des prix sur le marché des condensateurs céramiques multicouches, ou MLCC, se confirmait pour Samsung Electro-Mechanics et a relevé son objectif de cours de 1 million à 1,5 million de wons. La recommandation Acheter a été maintenue. L'analyste Hwang Ji-hyun a indiqué que l'entreprise prévoyait d'augmenter les prix de certains MLCC destinés aux distributeurs. Les concurrents japonais Murata et Taiyo Yuden ont mentionné une demande solide pour les MLCC liés à l'IA, avec des taux d'utilisation attendus au-dessus de 90% sur l'année. NH estime aussi que l'activité de packaging de Samsung Electro-Mechanics peut créer des synergies avec la diffusion des structures VPD. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سامسونغ إلكترو-ميكانيكس تبدأ دورة رفع أسعار MLCC وNH يرفع السعر المستهدف",
-        "excerpt": "قالت NH للاستثمار والأوراق المالية في 15 إن سامسونغ إلكترو-ميكانيكس تتجه لرفع أسعار بعض MLCC، فرفعت السعر المستهدف من مليون إلى 1.5 مليون وون وأبقت توصية الشراء.",
-        "body": "قالت NH للاستثمار والأوراق المالية في 15 إن دورة رفع الأسعار في سوق المكثفات الخزفية متعددة الطبقات، أو MLCC، بدأت تتبلور لدى سامسونغ إلكترو-ميكانيكس، ورفعت السعر المستهدف للسهم من مليون وون إلى 1.5 مليون وون. وأبقت توصية الشراء. وذكرت المحللة هوانغ جي-هيون أن الشركة، بحسب ما هو معروف، تخطط لزيادة أسعار بعض منتجات MLCC الموجهة للموزعين. وكانت الشركتان اليابانيتان المنافسـتان، موراتا وتايو يودن، قد أشارتا إلى أن الطلب على MLCC الخاصة بالذكاء الاصطناعي لا يزال قويا، وأن معدلات التشغيل ستبقى فوق 90% خلال العام. وترى NH أن امتلاك سامسونغ إلكترو-ميكانيكس وحدة للتغليف قد يخلق تآزرا مع انتشار هياكل VPD. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Samsung Electro-Mechanics में MLCC कीमत चक्र शुरू, NH ने लक्ष्य बढ़ाया",
-        "excerpt": "NH Investment & Securities ने 15 तारीख को कहा कि Samsung Electro-Mechanics कुछ MLCC कीमतें बढ़ा सकती है, इसलिए लक्ष्य मूल्य 10 लाख वोन से 15 लाख वोन किया और Buy रेटिंग बनाए रखी।",
-        "body": "NH Investment & Securities ने 15 तारीख को कहा कि Samsung Electro-Mechanics के लिए मल्टीलेयर सिरेमिक कैपेसिटर, यानी MLCC, बाजार में कीमत वृद्धि का चक्र तेज हो रहा है और उसने लक्ष्य मूल्य 10 लाख वोन से बढ़ाकर 15 लाख वोन कर दिया। निवेश राय Buy पर कायम रखी गई। विश्लेषक Hwang Ji-hyun ने कहा कि कंपनी वितरकों के लिए कुछ MLCC उत्पादों के दाम बढ़ाने की योजना बना रही है। जापानी प्रतिस्पर्धी Murata और Taiyo Yuden ने भी कहा है कि AI के लिए MLCC की मांग मजबूत बनी हुई है और साल भर उपयोग दर 90% से ऊपर रह सकती है। NH के अनुसार, Samsung Electro-Mechanics के पास पैकेज कारोबार भी है, इसलिए VPD संरचना के प्रसार से विभागों के बीच तालमेल बन सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Samsung Electro-Mechanics Masuki Siklus Kenaikan Harga MLCC, NH Naikkan Target",
-        "excerpt": "NH Investment & Securities pada 15 mengatakan Samsung Electro-Mechanics diperkirakan menaikkan sebagian harga MLCC, menaikkan target dari 1 juta menjadi 1,5 juta won dan mempertahankan Buy.",
-        "body": "NH Investment & Securities pada 15 menyatakan siklus kenaikan harga di pasar multilayer ceramic capacitor, atau MLCC, mulai menguat bagi Samsung Electro-Mechanics dan menaikkan target harga saham dari 1 juta menjadi 1,5 juta won. Rekomendasi Buy dipertahankan. Analis Hwang Ji-hyun mengatakan perusahaan dipahami berencana menaikkan harga sebagian MLCC untuk distributor. Pesaing Jepang, Murata dan Taiyo Yuden, telah menyebut permintaan MLCC untuk AI tetap kuat dan tingkat utilisasi diperkirakan bertahan di atas 90% sepanjang tahun. NH juga menilai Samsung Electro-Mechanics memiliki divisi paket, sehingga dapat menciptakan sinergi saat struktur VPD makin banyak diadopsi. Sumber: hankyung.com"
       }
     }
   }
