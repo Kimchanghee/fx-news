@@ -1,5 +1,230 @@
 [
   {
+    "id": "5722cd3e5688",
+    "slug": "인프라부터-모델까지ai-풀스택으로-기업-혁신kiw-2026-498033",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T20:13:02.065Z",
+    "updatedAt": "2026-05-15T20:13:02.065Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159340i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159340i",
+    "titleFingerprint": "aad2970efecb891d2baee47e3a3b3550cbe7ad93",
+    "dedupKeys": [
+      "5722cd3e56887742d1b14911686d830d35a9937b",
+      "aad2970efecb891d2baee47e3a3b3550cbe7ad93",
+      "df688a8404acb313b10820c3778f0a095424a24c"
+    ],
+    "imageUrl": "/images/articles/5722cd3e5688.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 풀스택 기업 혁신, 인프라부터 모델까지 KIW 2026서 조명",
+        "excerpt": "한국경제신문은 KIW 2026 관련 보도에서 인프라부터 모델까지 아우르는 ‘AI 풀스택’이 기업 혁신의 핵심 주제로 다뤄졌다고 전했다.",
+        "body": "KIW 2026에서 기업 혁신을 위한 ‘AI 풀스택’이 주요 화두로 제시됐다. 보도에 따르면 논의의 초점은 인공지능 활용을 단일 기술이나 서비스에 그치지 않고, 인프라부터 모델까지 연결된 전 영역으로 확장하는 데 맞춰졌다. AI 풀스택은 기업이 기술 도입 과정에서 기반 인프라와 모델 활용을 함께 고려해야 한다는 점을 부각한다. 이는 AI 전환을 추진하는 기업들이 개별 솔루션보다 전체 구조와 실행 체계를 함께 점검해야 한다는 메시지로 읽힌다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "AI Full Stack for Enterprise Innovation Highlighted at KIW 2026",
+        "excerpt": "Hankyung reported that KIW 2026 spotlighted the “AI full stack,” spanning infrastructure to models, as a key theme for enterprise innovation.",
+        "body": "At KIW 2026, the “AI full stack” emerged as a key theme for enterprise innovation. According to the report, the discussion focused on extending AI adoption beyond a single technology or service to the connected layers from infrastructure to models. The AI full stack highlights that companies need to consider both foundational infrastructure and model use when introducing AI. The message suggests that enterprises pursuing AI transformation should review their overall structure and execution system, not only individual solutions. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "AIフルスタック企業革新、インフラからモデルまでKIW 2026で焦点",
+        "excerpt": "韓国経済新聞は、KIW 2026でインフラからモデルまでを含む「AIフルスタック」が企業革新の主要テーマとして扱われたと伝えた。",
+        "body": "KIW 2026では、企業革新に向けた「AIフルスタック」が主要な論点として示された。報道によると、議論の焦点はAI活用を単一の技術やサービスにとどめず、インフラからモデルまでつながる領域全体へ広げることに置かれた。AIフルスタックは、企業が技術導入の過程で基盤インフラとモデル活用を同時に考慮する必要性を浮き彫りにする。これはAI転換を進める企業に、個別ソリューションだけでなく全体構造と実行体制を点検すべきだというメッセージとして読める。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "AI全栈企业创新成KIW 2026焦点，从基础设施到模型",
+        "excerpt": "韩国经济新闻报道称，KIW 2026将涵盖基础设施到模型的“AI全栈”作为企业创新的重要主题加以讨论。",
+        "body": "在KIW 2026上，面向企业创新的“AI全栈”成为重要议题。报道称，讨论重点在于将人工智能应用从单一技术或服务，扩展到从基础设施到模型相互连接的全领域。AI全栈凸显了企业在引入技术过程中，需要同时考虑底层基础设施和模型应用。对于推进AI转型的企业而言，这一信息意味着不应只关注单个解决方案，还应一并审视整体架构和执行体系。来源: hankyung.com"
+      },
+      "es": {
+        "title": "AI full stack impulsa innovación empresarial en KIW 2026",
+        "excerpt": "Hankyung informó que KIW 2026 destacó el “AI full stack”, desde infraestructura hasta modelos, como tema clave para la innovación empresarial.",
+        "body": "En KIW 2026, el “AI full stack” se presentó como un tema central para la innovación empresarial. Según el informe, el debate se enfocó en ampliar el uso de la inteligencia artificial más allá de una tecnología o servicio aislado, hacia un conjunto conectado que va desde la infraestructura hasta los modelos. El AI full stack subraya que las empresas deben considerar tanto la infraestructura base como el uso de modelos al adoptar IA. El mensaje para las compañías que impulsan su transformación con IA es revisar la estructura completa y el sistema de ejecución, no solo soluciones individuales. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "AI full stack para inovação empresarial ganha foco no KIW 2026",
+        "excerpt": "O Hankyung informou que o KIW 2026 destacou o “AI full stack”, da infraestrutura aos modelos, como tema central para a inovação empresarial.",
+        "body": "No KIW 2026, o “AI full stack” surgiu como um tema importante para a inovação empresarial. Segundo a reportagem, o foco da discussão foi ampliar o uso da inteligência artificial para além de uma tecnologia ou serviço isolado, abrangendo as camadas conectadas da infraestrutura aos modelos. O AI full stack ressalta que as empresas precisam considerar tanto a infraestrutura de base quanto o uso de modelos ao adotar IA. A mensagem indica que companhias em transformação por IA devem avaliar a estrutura geral e o sistema de execução, não apenas soluções individuais. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "AI-Full-Stack für Unternehmensinnovation steht bei KIW 2026 im Fokus",
+        "excerpt": "Hankyung berichtete, dass KIW 2026 den „AI Full Stack“ von Infrastruktur bis Modell als zentrales Thema für Unternehmensinnovation hervorhob.",
+        "body": "Bei KIW 2026 wurde der „AI Full Stack“ als wichtiges Thema für Unternehmensinnovation vorgestellt. Dem Bericht zufolge lag der Fokus darauf, den Einsatz künstlicher Intelligenz nicht auf eine einzelne Technologie oder Dienstleistung zu beschränken, sondern auf verbundene Ebenen von der Infrastruktur bis zu den Modellen auszuweiten. Der AI Full Stack macht deutlich, dass Unternehmen bei der Einführung von KI sowohl die Basisinfrastruktur als auch die Modellnutzung berücksichtigen müssen. Für Firmen, die eine KI-Transformation vorantreiben, lautet die Botschaft, nicht nur Einzellösungen, sondern auch Gesamtstruktur und Umsetzungssystem zu prüfen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "L’AI full stack au cœur de l’innovation d’entreprise à KIW 2026",
+        "excerpt": "Hankyung a rapporté que KIW 2026 a mis en avant l’« AI full stack », de l’infrastructure aux modèles, comme thème clé de l’innovation d’entreprise.",
+        "body": "Lors de KIW 2026, l’« AI full stack » a été présenté comme un thème majeur pour l’innovation des entreprises. Selon l’article, les discussions ont porté sur l’élargissement de l’usage de l’intelligence artificielle au-delà d’une technologie ou d’un service isolé, vers un ensemble connecté allant de l’infrastructure aux modèles. L’AI full stack souligne que les entreprises doivent considérer à la fois l’infrastructure de base et l’utilisation des modèles lors de l’adoption de l’IA. Le message est que les entreprises engagées dans une transformation IA doivent examiner la structure globale et le système d’exécution, pas seulement des solutions individuelles. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "الذكاء الاصطناعي كامل الحزمة للابتكار المؤسسي في KIW 2026",
+        "excerpt": "ذكرت هانكيونغ أن KIW 2026 سلّط الضوء على مفهوم «الذكاء الاصطناعي كامل الحزمة» من البنية التحتية إلى النماذج كموضوع رئيسي لابتكار الشركات.",
+        "body": "في KIW 2026، برز مفهوم «الذكاء الاصطناعي كامل الحزمة» كموضوع مهم لابتكار الشركات. ووفقاً للتقرير، ركز النقاش على توسيع استخدام الذكاء الاصطناعي من كونه تقنية أو خدمة منفردة إلى نطاق مترابط يمتد من البنية التحتية إلى النماذج. يوضح هذا المفهوم أن الشركات عند إدخال تقنيات الذكاء الاصطناعي تحتاج إلى النظر في البنية التحتية الأساسية واستخدام النماذج معاً. وتتمثل الرسالة للشركات التي تدفع تحولها بالذكاء الاصطناعي في مراجعة الهيكل الكامل ونظام التنفيذ، لا الحلول الفردية فقط. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KIW 2026 में AI फुल स्टैक से उद्यम नवाचार पर जोर",
+        "excerpt": "हैंक्युंग ने बताया कि KIW 2026 में इन्फ्रास्ट्रक्चर से मॉडल तक फैले “AI फुल स्टैक” को उद्यम नवाचार के मुख्य विषय के रूप में रेखांकित किया गया।",
+        "body": "KIW 2026 में उद्यम नवाचार के लिए “AI फुल स्टैक” एक प्रमुख विषय के रूप में सामने आया। रिपोर्ट के अनुसार, चर्चा का केंद्र AI उपयोग को किसी एक तकनीक या सेवा तक सीमित न रखकर इन्फ्रास्ट्रक्चर से मॉडल तक जुड़े पूरे क्षेत्र में विस्तार देने पर था। AI फुल स्टैक यह दिखाता है कि कंपनियों को AI अपनाते समय आधारभूत इन्फ्रास्ट्रक्चर और मॉडल उपयोग, दोनों पर साथ-साथ विचार करना चाहिए। AI परिवर्तन आगे बढ़ा रही कंपनियों के लिए संदेश है कि वे केवल अलग-अलग समाधान नहीं, बल्कि पूरी संरचना और क्रियान्वयन प्रणाली की भी समीक्षा करें। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "AI Full Stack untuk Inovasi Perusahaan Jadi Sorotan KIW 2026",
+        "excerpt": "Hankyung melaporkan bahwa KIW 2026 menyoroti “AI full stack”, dari infrastruktur hingga model, sebagai tema utama inovasi perusahaan.",
+        "body": "Di KIW 2026, “AI full stack” menjadi isu utama untuk inovasi perusahaan. Menurut laporan tersebut, pembahasan berfokus pada perluasan pemanfaatan kecerdasan buatan, bukan hanya sebagai satu teknologi atau layanan, tetapi sebagai rangkaian terhubung dari infrastruktur hingga model. AI full stack menegaskan bahwa perusahaan perlu mempertimbangkan infrastruktur dasar dan penggunaan model secara bersamaan saat mengadopsi AI. Pesan bagi perusahaan yang menjalankan transformasi AI adalah meninjau struktur keseluruhan dan sistem eksekusi, bukan hanya solusi individual. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "df668ea8ea6a",
+    "slug": "반도체우주-넘나드는-초정밀-모션-제어져스텍-k-부품-선봉kiw-2026-145026",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T20:12:13.765Z",
+    "updatedAt": "2026-05-15T20:12:13.765Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159289i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159289i",
+    "titleFingerprint": "4d9bca43bdfd0b8cd466a82fa9cc7d409e2d1d62",
+    "dedupKeys": [
+      "df668ea8ea6a6f8dfe011eff815172639c470591",
+      "4d9bca43bdfd0b8cd466a82fa9cc7d409e2d1d62",
+      "b9b007dece9bc441a2fb0d7d29df9e797fdec510"
+    ],
+    "imageUrl": "/images/articles/df668ea8ea6a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "초정밀 모션 제어로 반도체·우주 공략…져스텍, K-부품 선봉",
+        "excerpt": "한국경제는 KIW 2026 보도에서 져스텍이 반도체와 우주 분야를 넘나드는 초정밀 모션 제어 역량으로 ‘K-부품’의 선봉에 섰다고 전했다.",
+        "body": "한국경제는 KIW 2026 관련 보도에서 져스텍이 반도체와 우주 산업을 아우르는 초정밀 모션 제어 기술로 주목받고 있다고 전했다. 보도 제목은 져스텍을 ‘K-부품’의 선봉으로 소개하며, 반도체와 우주라는 고도 산업 영역에서 정밀 부품과 제어 기술의 중요성을 부각했다. 초정밀 모션 제어는 장비의 움직임을 세밀하게 다루는 분야로, 원문은 져스텍의 역할을 해당 산업을 넘나드는 부품 경쟁력의 사례로 제시했다. 이는 한국 부품 기업이 첨단 제조와 우주 분야에서 존재감을 넓히는 흐름과 맞닿아 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Precision Motion Control Targets Chips and Space as Justek Leads K-Parts",
+        "excerpt": "Hankyung reported in its KIW 2026 coverage that Justek is at the forefront of K-parts with ultra-precision motion control spanning semiconductors and space.",
+        "body": "Hankyung reported in its KIW 2026 coverage that Justek is drawing attention for ultra-precision motion control technology used across the semiconductor and space industries. The original headline described Justek as a frontrunner in “K-parts,” highlighting the importance of precision components and control technology in advanced industrial fields such as chips and space. Ultra-precision motion control refers to finely managing equipment movement, and the report presented Justek as an example of component competitiveness across these sectors. The article links the company’s role to the broader presence of Korean parts makers in advanced manufacturing and space. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "超精密モーション制御で半導体・宇宙へ、ジャステックがK部品先導",
+        "excerpt": "韓国経済新聞はKIW 2026報道で、ジャステックが半導体と宇宙分野をまたぐ超精密モーション制御力で「K部品」の先頭に立つと伝えた。",
+        "body": "韓国経済新聞はKIW 2026関連報道で、ジャステックが半導体と宇宙産業を横断する超精密モーション制御技術で注目されていると伝えた。原文の見出しは同社を「K部品」の先導役として紹介し、半導体と宇宙という高度産業領域で精密部品と制御技術の重要性を強調した。超精密モーション制御は装置の動きを細かく扱う分野であり、報道はジャステックの役割を産業をまたぐ部品競争力の事例として示した。これは韓国部品企業が先端製造と宇宙分野で存在感を広げる流れとつながっている。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "超精密运动控制切入半导体与航天，Justek领跑K零部件",
+        "excerpt": "韩国经济新闻在KIW 2026报道中称，Justek凭借跨越半导体和航天领域的超精密运动控制能力，站在“K零部件”前沿。",
+        "body": "韩国经济新闻在KIW 2026相关报道中称，Justek凭借覆盖半导体和航天产业的超精密运动控制技术受到关注。原文标题将Justek称为“K零部件”的先锋，并强调在半导体和航天等高端产业中，精密零部件和控制技术的重要性。超精密运动控制是对设备运动进行细致管理的领域，报道把Justek的角色呈现为跨产业零部件竞争力的案例。这也反映出韩国零部件企业在先进制造和航天领域扩大存在感的趋势。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Control de movimiento ultrapreciso: Justek impulsa K-parts en chips y espacio",
+        "excerpt": "Hankyung informó en su cobertura de KIW 2026 que Justek lidera los K-parts con capacidades de control de movimiento ultrapreciso para semiconductores y espacio.",
+        "body": "Hankyung informó en su cobertura de KIW 2026 que Justek está atrayendo atención por su tecnología de control de movimiento ultrapreciso aplicada a las industrias de semiconductores y espacio. El titular original presentó a Justek como un actor de vanguardia en los “K-parts”, subrayando la importancia de los componentes de precisión y la tecnología de control en sectores avanzados como chips y espacio. El control de movimiento ultrapreciso gestiona con gran detalle el movimiento de equipos, y el reporte mostró a Justek como un ejemplo de competitividad de componentes entre industrias. Esto se vincula con la presencia creciente de fabricantes coreanos de piezas en manufactura avanzada y espacio. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Controle de movimento ultrapreciso põe Justek à frente dos K-parts",
+        "excerpt": "O Hankyung informou na cobertura do KIW 2026 que a Justek lidera os K-parts com controle de movimento ultrapreciso para semicondutores e setor espacial.",
+        "body": "O Hankyung informou em sua cobertura do KIW 2026 que a Justek está chamando atenção por sua tecnologia de controle de movimento ultrapreciso voltada às indústrias de semicondutores e espacial. O título original apresentou a Justek como destaque em “K-parts”, ressaltando a importância de componentes de precisão e tecnologia de controle em áreas industriais avançadas como chips e espaço. O controle de movimento ultrapreciso trata do gerenciamento detalhado do movimento de equipamentos, e a reportagem apontou a Justek como exemplo de competitividade de componentes entre setores. Isso se relaciona ao avanço de empresas coreanas de peças em manufatura avançada e espaço. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Ultrapräzise Bewegungssteuerung: Justek führt K-Teile für Chips und Raumfahrt",
+        "excerpt": "Hankyung berichtete in der KIW-2026-Berichterstattung, dass Justek mit ultrapräziser Bewegungssteuerung für Halbleiter und Raumfahrt an der Spitze der K-Teile steht.",
+        "body": "Hankyung berichtete im Rahmen von KIW 2026, dass Justek mit ultrapräziser Bewegungssteuerungstechnologie für die Halbleiter- und Raumfahrtindustrie Aufmerksamkeit erhält. Die ursprüngliche Überschrift stellte Justek als Vorreiter bei „K-Teilen“ dar und betonte die Bedeutung von Präzisionskomponenten und Steuerungstechnik in Hochtechnologiebereichen wie Chips und Raumfahrt. Ultrapräzise Bewegungssteuerung beschreibt die sehr genaue Kontrolle von Anlagenbewegungen; der Bericht zeigte Justek als Beispiel für branchenübergreifende Komponentenkompetenz. Dies passt zum wachsenden Profil koreanischer Zulieferer in fortschrittlicher Fertigung und Raumfahrt. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Contrôle de mouvement ultraprecis: Justek mène les K-parts des puces à l’espace",
+        "excerpt": "Hankyung a rapporté dans sa couverture de KIW 2026 que Justek se place en tête des K-parts grâce au contrôle de mouvement ultraprecis pour semi-conducteurs et spatial.",
+        "body": "Hankyung a rapporté dans sa couverture de KIW 2026 que Justek attire l’attention avec une technologie de contrôle de mouvement ultraprecis couvrant les industries des semi-conducteurs et du spatial. Le titre original présente Justek comme un acteur de premier plan des « K-parts », en soulignant l’importance des composants de précision et des technologies de contrôle dans des secteurs avancés comme les puces et l’espace. Le contrôle de mouvement ultraprecis consiste à piloter finement les mouvements d’équipements, et l’article cite Justek comme exemple de compétitivité des composants entre secteurs. Cela rejoint la présence croissante des fabricants coréens de pièces dans la fabrication avancée et le spatial. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "التحكم الحركي فائق الدقة يدفع Justek لصدارة مكونات K في الرقائق والفضاء",
+        "excerpt": "ذكرت هانكيونغ في تغطية KIW 2026 أن Justek تقف في طليعة مكونات K بفضل قدرات التحكم الحركي فائق الدقة الممتدة بين أشباه الموصلات والفضاء.",
+        "body": "ذكرت هانكيونغ في تقريرها عن KIW 2026 أن Justek تحظى بالاهتمام بفضل تقنية التحكم الحركي فائق الدقة المستخدمة عبر صناعتي أشباه الموصلات والفضاء. وقد وصف العنوان الأصلي الشركة بأنها في طليعة “مكونات K”، مسلطا الضوء على أهمية المكونات الدقيقة وتقنيات التحكم في مجالات صناعية متقدمة مثل الرقائق والفضاء. ويعني التحكم الحركي فائق الدقة إدارة حركة المعدات بدرجة عالية من التفصيل، وقد قدم التقرير Justek بوصفها مثالا على تنافسية المكونات عبر هذه القطاعات. ويرتبط ذلك باتساع حضور شركات المكونات الكورية في التصنيع المتقدم ومجال الفضاء. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "अल्ट्रा-प्रिसिजन मोशन कंट्रोल से चिप और स्पेस में Justek K-पार्ट्स के आगे",
+        "excerpt": "Hankyung ने KIW 2026 कवरेज में बताया कि Justek सेमीकंडक्टर और स्पेस क्षेत्रों में अल्ट्रा-प्रिसिजन मोशन कंट्रोल क्षमता के साथ K-पार्ट्स की अगली कतार में है।",
+        "body": "Hankyung ने KIW 2026 से जुड़ी रिपोर्ट में बताया कि Justek सेमीकंडक्टर और स्पेस उद्योगों को जोड़ने वाली अल्ट्रा-प्रिसिजन मोशन कंट्रोल तकनीक से ध्यान खींच रही है। मूल शीर्षक ने Justek को “K-पार्ट्स” की अग्रणी कंपनी के रूप में पेश किया और चिप तथा स्पेस जैसे उच्च तकनीकी क्षेत्रों में प्रिसिजन कंपोनेंट्स और कंट्रोल तकनीक के महत्व को रेखांकित किया। अल्ट्रा-प्रिसिजन मोशन कंट्रोल उपकरणों की गति को बेहद सूक्ष्मता से नियंत्रित करने का क्षेत्र है, और रिपोर्ट ने Justek की भूमिका को कई उद्योगों में कंपोनेंट प्रतिस्पर्धा के उदाहरण के रूप में दिखाया। यह उन्नत विनिर्माण और स्पेस क्षेत्र में कोरियाई पार्ट्स कंपनियों की बढ़ती उपस्थिति से जुड़ा है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Kontrol Gerak Ultrapresisi Bawa Justek Pimpin K-Parts Chip dan Antariksa",
+        "excerpt": "Hankyung melaporkan dalam liputan KIW 2026 bahwa Justek berada di garis depan K-parts berkat kontrol gerak ultrapresisi untuk semikonduktor dan antariksa.",
+        "body": "Hankyung melaporkan dalam liputan KIW 2026 bahwa Justek menarik perhatian lewat teknologi kontrol gerak ultrapresisi yang mencakup industri semikonduktor dan antariksa. Judul asli menyebut Justek sebagai pelopor “K-parts” serta menyoroti pentingnya komponen presisi dan teknologi kontrol di bidang industri maju seperti chip dan antariksa. Kontrol gerak ultrapresisi adalah bidang yang mengatur gerakan peralatan secara sangat detail, dan laporan tersebut menampilkan Justek sebagai contoh daya saing komponen lintas sektor. Hal ini terkait dengan meningkatnya kehadiran perusahaan komponen Korea dalam manufaktur maju dan antariksa. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "dce70d4c9936",
+    "slug": "3시간1초ai가-금융-중개-시장-패러다임-바꿀-것-kiw-2026-218407",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T20:11:10.575Z",
+    "updatedAt": "2026-05-15T20:11:10.576Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159376i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159376i",
+    "titleFingerprint": "19a69b7f36379eb797c4f3da74f1394992e17196",
+    "dedupKeys": [
+      "dce70d4c993602fecc655046387f599d4fbce5ca",
+      "19a69b7f36379eb797c4f3da74f1394992e17196",
+      "ecad8c8bec5286da2ba026f8ef90064fbcfc1706"
+    ],
+    "imageUrl": "/images/articles/dce70d4c9936.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 금융중개 혁신…해빗팩토리, 상담 3시간을 1초로 줄인다 [KIW 2026]",
+        "excerpt": "정윤호 해빗팩토리 대표는 15일 서울 신라호텔 KIW 2026에서 AI가 금융 중개 업무를 고효율 구조로 바꾸고 상담사 생산성을 10배 높이고 있다고 밝혔다.",
+        "body": "정윤호 해빗팩토리 대표는 15일 서울 장충동 신라호텔에서 열린 코리아 인베스트먼트 위크(KIW) 2026 넷째 날 행사에서 AI가 금융 중개 시장의 구조를 바꿀 수 있다고 밝혔다. 해빗팩토리는 마이데이터와 30만 건의 보험 약관 데이터를 학습한 AI를 활용해 국내 보험 중개 생산성을 높이고 있다. 기존 대면 중심 금융 중개 업무를 AI로 묶어 더 적은 비용으로 더 많은 거래를 만드는 구조를 지향한다는 설명이다. 정 대표는 AI로 상담사 생산성을 10배 높였다고 소개했으며, 회사는 국내 보험 시장을 넘어 미국 모기지 시장 진출도 추진하고 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "AI Reshapes Financial Brokerage as Habit Factory Targets Faster Advice [KIW 2026]",
+        "excerpt": "Habit Factory CEO Yoonho Jung said at KIW 2026 in Seoul on May 15 that AI is turning financial brokerage into a more efficient structure and raising adviser productivity tenfold.",
+        "body": "Habit Factory CEO Yoonho Jung said on May 15, during the fourth day of Korea Investment Week 2026 at The Shilla Seoul in Jangchung-dong, that AI could change the structure of the financial brokerage market. Habit Factory is using AI trained on MyData and 300,000 insurance policy records to improve productivity in Korea’s insurance brokerage market. Jung said the company is applying AI to roll up a legacy, offline-centered brokerage business into a structure that can generate more transactions at lower cost. He also said AI has lifted adviser productivity tenfold. Beyond Korea’s insurance market, the company is pursuing entry into the U.S. mortgage market. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "AIが金融仲介を変革、ヘビットファクトリーが生産性10倍を提示 [KIW 2026]",
+        "excerpt": "ヘビットファクトリーのチョン・ユンホ代表は5月15日、ソウルのKIW 2026で、AIが金融仲介を高効率構造へ変え、相談員の生産性を10倍高めていると述べた。",
+        "body": "ヘビットファクトリーのチョン・ユンホ代表は5月15日、ソウル・奨忠洞の新羅ホテルで開かれたコリア・インベストメント・ウィーク（KIW）2026の4日目の行事で、AIが金融仲介市場の構造を変え得ると述べた。同社はマイデータと30万件の保険約款データを学習したAIを活用し、韓国の保険仲介市場で生産性を高めている。従来の対面中心の金融仲介業務をAIで統合し、より少ない費用でより多くの取引を生む構造を目指すという。チョン代表はAIにより相談員の生産性を10倍高めたと説明し、韓国の保険市場を越えて米国モーゲージ市場への進出も進めている。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "AI重塑金融中介，Habit Factory称顾问效率提升十倍 [KIW 2026]",
+        "excerpt": "Habit Factory代表郑允浩5月15日在首尔KIW 2026表示，AI正把金融中介业务转向高效率结构，并将顾问生产率提高到10倍。",
+        "body": "Habit Factory代表郑允浩5月15日在首尔奖忠洞新罗酒店举行的韩国投资周（KIW）2026第四天活动上表示，AI可能改变金融中介市场的结构。该公司正利用学习了MyData和30万份保险条款数据的AI，提高韩国保险中介市场的生产率。郑允浩称，公司正在用AI整合以线下和面对面为中心的传统金融中介业务，目标是以更低成本产生更多交易。他还介绍，AI已将顾问生产率提高到10倍。除韩国保险市场外，公司也在推进进入美国抵押贷款市场。来源: hankyung.com"
+      },
+      "es": {
+        "title": "IA cambia la intermediación financiera: Habit Factory eleva productividad [KIW 2026]",
+        "excerpt": "Yoonho Jung, CEO de Habit Factory, dijo el 15 de mayo en KIW 2026 en Seúl que la IA convierte la intermediación financiera en una estructura más eficiente y multiplica por diez la productividad.",
+        "body": "Yoonho Jung, CEO de Habit Factory, afirmó el 15 de mayo, en la cuarta jornada de Korea Investment Week 2026 celebrada en el hotel Shilla de Jangchung-dong, Seúl, que la IA puede cambiar la estructura del mercado de intermediación financiera. Habit Factory usa IA entrenada con MyData y 300.000 registros de pólizas de seguros para elevar la productividad en el mercado coreano de intermediación de seguros. Según Jung, la empresa aplica IA para integrar un negocio tradicional centrado en canales presenciales y crear una estructura capaz de generar más transacciones con menor coste. También dijo que la IA elevó por diez la productividad de los asesores. La compañía busca además entrar en el mercado hipotecario de EE. UU. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "IA muda intermediação financeira e Habit Factory mira mais eficiência [KIW 2026]",
+        "excerpt": "Yoonho Jung, CEO da Habit Factory, afirmou em 15 de maio no KIW 2026 em Seul que a IA torna a intermediação financeira mais eficiente e eleva em dez vezes a produtividade dos consultores.",
+        "body": "Yoonho Jung, CEO da Habit Factory, disse em 15 de maio, no quarto dia da Korea Investment Week 2026 no hotel Shilla, em Jangchung-dong, Seul, que a IA pode mudar a estrutura do mercado de intermediação financeira. A Habit Factory usa IA treinada com MyData e 300 mil dados de contratos de seguro para aumentar a produtividade no mercado coreano de corretagem de seguros. Segundo Jung, a empresa aplica IA para reunir um negócio legado, antes centrado no atendimento presencial, em uma estrutura capaz de gerar mais transações com menor custo. Ele também afirmou que a IA elevou em dez vezes a produtividade dos consultores. A companhia ainda busca entrar no mercado de hipotecas dos EUA. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KI verändert Finanzvermittlung: Habit Factory sieht zehnfache Produktivität [KIW 2026]",
+        "excerpt": "Habit-Factory-Chef Yoonho Jung sagte am 15. Mai auf der KIW 2026 in Seoul, KI mache Finanzvermittlung effizienter und steigere die Produktivität von Beratern um das Zehnfache.",
+        "body": "Yoonho Jung, CEO von Habit Factory, sagte am 15. Mai am vierten Tag der Korea Investment Week 2026 im Shilla Hotel in Jangchung-dong, Seoul, KI könne die Struktur des Finanzvermittlungsmarkts verändern. Habit Factory nutzt KI, die mit MyData und 300.000 Versicherungsbedingungen trainiert wurde, um die Produktivität in der koreanischen Versicherungsvermittlung zu erhöhen. Jung erklärte, das Unternehmen bündele ein traditionell offline und persönlich geprägtes Vermittlungsgeschäft mit KI zu einer Struktur, die bei geringeren Kosten mehr Transaktionen ermöglichen soll. Die Produktivität der Berater sei dadurch um das Zehnfache gestiegen. Zudem treibt das Unternehmen den Eintritt in den US-Hypothekenmarkt voran. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "L’IA transforme le courtage financier, Habit Factory vise plus d’efficacité [KIW 2026]",
+        "excerpt": "Yoonho Jung, PDG de Habit Factory, a déclaré le 15 mai au KIW 2026 à Séoul que l’IA rend l’intermédiation financière plus efficace et multiplie par dix la productivité des conseillers.",
+        "body": "Yoonho Jung, PDG de Habit Factory, a déclaré le 15 mai, lors du quatrième jour de Korea Investment Week 2026 à l’hôtel Shilla de Jangchung-dong, à Séoul, que l’IA pouvait changer la structure du marché de l’intermédiation financière. Habit Factory utilise une IA entraînée sur MyData et 300.000 données de conditions d’assurance afin d’améliorer la productivité du courtage d’assurance en Corée. Selon Jung, l’entreprise applique l’IA pour regrouper une activité traditionnelle centrée sur le présentiel dans une structure capable de générer davantage de transactions à moindre coût. Il a aussi indiqué que l’IA avait multiplié par dix la productivité des conseillers. L’entreprise prépare également son entrée sur le marché hypothécaire américain. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "الذكاء الاصطناعي يغير الوساطة المالية وهابيت فاكتوري ترفع الإنتاجية [KIW 2026]",
+        "excerpt": "قال يونهو جونغ، الرئيس التنفيذي لهابيت فاكتوري، في 15 مايو خلال KIW 2026 في سيول إن الذكاء الاصطناعي يحول الوساطة المالية إلى بنية أعلى كفاءة ويرفع إنتاجية المستشارين عشرة أضعاف.",
+        "body": "قال يونهو جونغ، الرئيس التنفيذي لشركة هابيت فاكتوري، في 15 مايو خلال اليوم الرابع من أسبوع كوريا للاستثمار KIW 2026 في فندق شيلا بمنطقة جانغتشونغ دونغ في سيول، إن الذكاء الاصطناعي قادر على تغيير بنية سوق الوساطة المالية. تستخدم الشركة ذكاء اصطناعيا مدربا على بيانات MyData و300 ألف سجل من شروط وثائق التأمين لزيادة الإنتاجية في سوق وساطة التأمين الكورية. وأوضح جونغ أن الشركة توظف الذكاء الاصطناعي لدمج نشاط وساطة تقليدي كان يعتمد على الحضور المباشر في بنية تولد معاملات أكثر بتكلفة أقل. كما قال إن إنتاجية المستشارين ارتفعت عشرة أضعاف، وإن الشركة تسعى أيضا لدخول سوق الرهن العقاري الأميركية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "AI से वित्तीय मध्यस्थता बदलेगी, Habit Factory ने 10 गुना उत्पादकता बताई [KIW 2026]",
+        "excerpt": "Habit Factory के CEO यूनहो जंग ने 15 मई को सियोल में KIW 2026 में कहा कि AI वित्तीय मध्यस्थता को अधिक कुशल ढांचे में बदल रहा है और सलाहकारों की उत्पादकता 10 गुना बढ़ा रहा है।",
+        "body": "Habit Factory के CEO यूनहो जंग ने 15 मई को सियोल के जंगचुंग-डोंग स्थित शिला होटल में Korea Investment Week 2026 के चौथे दिन कहा कि AI वित्तीय मध्यस्थता बाजार की संरचना बदल सकता है। Habit Factory MyData और 3,00,000 बीमा शर्तों के डेटा पर प्रशिक्षित AI का उपयोग कर कोरिया के बीमा मध्यस्थता बाजार में उत्पादकता बढ़ा रही है। जंग ने कहा कि कंपनी पारंपरिक, ऑफलाइन-केंद्रित वित्तीय मध्यस्थता कारोबार को AI के जरिए ऐसे ढांचे में बदल रही है जो कम लागत पर अधिक लेनदेन कर सके। उन्होंने बताया कि AI से सलाहकारों की उत्पादकता 10 गुना बढ़ी है। कंपनी कोरियाई बीमा बाजार से आगे अमेरिकी मॉर्गेज बाजार में प्रवेश भी 추진 कर रही है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "AI Ubah Intermediasi Keuangan, Habit Factory Dorong Produktivitas [KIW 2026]",
+        "excerpt": "CEO Habit Factory Yoonho Jung mengatakan pada 15 Mei di KIW 2026 Seoul bahwa AI mengubah intermediasi keuangan menjadi struktur lebih efisien dan menaikkan produktivitas penasihat 10 kali.",
+        "body": "CEO Habit Factory Yoonho Jung mengatakan pada 15 Mei, pada hari keempat Korea Investment Week 2026 di Hotel Shilla, Jangchung-dong, Seoul, bahwa AI dapat mengubah struktur pasar intermediasi keuangan. Habit Factory memakai AI yang dilatih dengan MyData dan 300.000 data ketentuan polis asuransi untuk meningkatkan produktivitas di pasar perantara asuransi Korea. Jung menjelaskan perusahaan menerapkan AI untuk menggulirkan bisnis intermediasi keuangan lama yang berpusat pada kanal offline menjadi struktur yang dapat menghasilkan lebih banyak transaksi dengan biaya lebih rendah. Ia juga menyebut AI telah menaikkan produktivitas penasihat 10 kali. Perusahaan turut mendorong ekspansi ke pasar hipotek Amerika Serikat. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "dab227dff05e",
     "slug": "전쟁-때만큼-치솟은-코스피-변동성급등한만큼-조정도-크게-온다-872996",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Korea Southern Power Benahi Rumah Tua di Desa Lereng untuk Cegah Kebakaran",
         "excerpt": "Korea Southern Power pada tanggal 15 menggelar kegiatan sukarela gabungan manajemen dan pekerja di desa lereng Busan, serta menyumbang 10 juta won untuk perbaikan hunian dan pencegahan kebakaran rumah tua.",
         "body": "Korea Southern Power pada tanggal 15 menggelar kegiatan sukarela gabungan antara manajemen dan pekerja di sebuah desa lereng di wilayah Busan untuk memperbaiki lingkungan hunian dan kondisi menetap warga setempat. Kegiatan ini merupakan bagian dari “Proyek Mewujudkan Desa Bahagia” dan disiapkan untuk mencegah kebakaran pada rumah-rumah tua sekaligus memperbaiki lingkungan hidup. Perusahaan menyerahkan donasi sebesar 10 juta won untuk proyek yang dijalankan melalui kerja sama swasta, pemerintah, dan lembaga publik tersebut. Korea Southern Power ikut mendukung masyarakat setempat dalam meninjau lingkungan hunian rentan dan meningkatkan keselamatan warga. Kegiatan ini diperkirakan membantu mengurangi risiko kebakaran rumah tua dan memperbaiki dasar kehidupan warga desa lereng. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "17f00a7aa13d",
-    "slug": "연금계좌-4가지-자금의-비밀세금-차이-알아야-절세한다-740116",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-15T03:53:22.007Z",
-    "updatedAt": "2026-05-15T03:53:22.007Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605158419i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605158419i",
-    "titleFingerprint": "fa5cf4eabdea2dcbb3915f3636ce99e3d15ab5d6",
-    "dedupKeys": [
-      "17f00a7aa13d53031e034b9dec8ef92d7b8fac39",
-      "fa5cf4eabdea2dcbb3915f3636ce99e3d15ab5d6",
-      "f1204992338b7f3f574ea5e99b62d9af95b7a6bf"
-    ],
-    "imageUrl": "/images/articles/17f00a7aa13d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "연금계좌 4가지 자금, 세금 차이 알아야 절세 길 보인다",
-        "excerpt": "한국경제는 연금계좌에 들어 있는 4가지 자금의 성격과 세금 차이를 알아야 은퇴자금 인출 때 불필요한 세 부담을 줄일 수 있다고 전했다.",
-        "body": "한국경제는 연금계좌를 운용하거나 인출할 때 계좌 안에 들어 있는 4가지 자금의 성격을 구분해야 절세가 가능하다고 보도했다. 같은 연금계좌에 들어 있어도 자금의 출처와 과세 이력에 따라 세금이 달라질 수 있다는 점이 핵심이다. 연금계좌는 은퇴자금 마련 수단으로 활용되지만, 인출 단계에서 세금 차이를 이해하지 못하면 예상보다 큰 부담이 생길 수 있다. 기사 제목은 ‘연금계좌 4가지 자금의 비밀…세금 차이 알아야 절세한다’로, 연금계좌 절세 전략의 출발점이 자금 구분에 있음을 강조했다. 투자자와 은퇴 준비자는 계좌 수익률뿐 아니라 자금별 과세 방식도 함께 확인해야 한다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Pension Account Funds: Why Four Tax Rules Matter for Savings",
-        "excerpt": "Hankyung reported that understanding the nature and tax treatment of four types of money inside pension accounts can help reduce unnecessary tax burdens at withdrawal.",
-        "body": "Hankyung reported that people managing or withdrawing from pension accounts need to distinguish the four types of money held in those accounts to save on taxes. The key point is that even within the same pension account, taxes may differ depending on where the money came from and how it was previously taxed. Pension accounts are widely used to prepare retirement funds, but a lack of understanding at the withdrawal stage can create a larger-than-expected tax burden. The article, titled “The Secret of Four Types of Pension Account Funds…Know the Tax Differences to Save Taxes,” stressed that tax planning begins with identifying the nature of each fund. Investors and retirement savers should check not only returns but also the tax treatment of each type of money. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "年金口座の4種類の資金、税金の違いを知れば節税に近づく",
-        "excerpt": "韓国経済新聞は、年金口座内の4種類の資金の性格と税金の違いを理解することが、引き出し時の不要な税負担を抑える鍵になると伝えた。",
-        "body": "韓国経済新聞は、年金口座を運用または引き出す際、口座内にある4種類の資金の性格を区別することが節税につながると報じた。同じ年金口座に入っていても、資金の出所や過去の課税状況によって税金が異なる可能性がある点が核心だ。年金口座は老後資金を準備する手段として使われるが、引き出し段階で税金の違いを理解していなければ、想定以上の負担が生じる可能性がある。記事の題名は「年金口座4種類の資金の秘密…税金の違いを知ってこそ節税できる」で、節税戦略の出発点は資金の区分にあると強調した。投資家と老後準備者は収益率だけでなく、資金別の課税方式も確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "养老金账户四类资金税负不同，弄清差异才有助节税",
-        "excerpt": "韩国经济新闻称，了解养老金账户中四类资金的性质和税收差异，有助于在提取退休资金时减少不必要的税务负担。",
-        "body": "韩国经济新闻报道称，在管理或提取养老金账户资金时，需要区分账户内四类资金的性质，才能更好地进行节税。核心在于，即使资金位于同一个养老金账户内，其来源和既往纳税情况不同，适用税负也可能不同。养老金账户常被用于准备退休资金，但如果在提取阶段不了解税收差异，可能产生超出预期的税务负担。该文题为《养老金账户四类资金的秘密……了解税收差异才能节税》，强调养老金账户节税策略的起点在于区分资金属性。投资者和退休准备者不仅要关注账户收益率，也应同时确认不同资金对应的纳税方式。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Fondos de pensiones: las cuatro clases de dinero y su impacto fiscal",
-        "excerpt": "Hankyung informó que conocer la naturaleza y las diferencias fiscales de cuatro tipos de dinero dentro de una cuenta de pensiones ayuda a evitar cargas tributarias innecesarias al retirar fondos.",
-        "body": "Hankyung informó que, al gestionar o retirar dinero de una cuenta de pensiones, es necesario distinguir la naturaleza de los cuatro tipos de fondos que contiene para poder ahorrar impuestos. La clave es que, aunque el dinero esté en la misma cuenta, la carga fiscal puede variar según su origen y su historial tributario. Las cuentas de pensiones se utilizan para preparar recursos de jubilación, pero no entender las diferencias fiscales en la etapa de retiro puede generar una carga mayor de la esperada. El artículo, titulado “El secreto de los cuatro tipos de dinero en las cuentas de pensiones…hay que conocer las diferencias fiscales para ahorrar impuestos”, subrayó que la estrategia fiscal empieza por clasificar los fondos. Los inversores y quienes preparan su retiro deben revisar no solo la rentabilidad, sino también el tratamiento fiscal de cada tipo de dinero. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Conta de previdência: quatro tipos de recursos e diferenças fiscais",
-        "excerpt": "O Hankyung informou que entender a natureza e a tributação de quatro tipos de recursos em contas de previdência pode reduzir encargos fiscais desnecessários no resgate.",
-        "body": "O Hankyung informou que, ao administrar ou resgatar uma conta de previdência, é preciso distinguir a natureza dos quatro tipos de recursos nela existentes para economizar impostos. O ponto central é que, mesmo dentro da mesma conta, a tributação pode variar conforme a origem do dinheiro e seu histórico fiscal. As contas de previdência são usadas para formar recursos de aposentadoria, mas a falta de compreensão das diferenças fiscais no momento do resgate pode gerar uma carga maior do que a esperada. O artigo, intitulado “O segredo dos quatro tipos de recursos em contas de previdência…é preciso conhecer as diferenças fiscais para economizar impostos”, destacou que a estratégia de economia tributária começa pela classificação dos recursos. Investidores e pessoas que preparam a aposentadoria devem verificar não apenas a rentabilidade, mas também o tratamento fiscal de cada tipo de recurso. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Rentenkonto mit vier Geldarten: Steuerunterschiede entscheiden",
-        "excerpt": "Hankyung berichtete, dass Anleger die Art und Besteuerung von vier Geldarten in Rentenkonten kennen müssen, um beim späteren Abheben unnötige Steuerlasten zu vermeiden.",
-        "body": "Hankyung berichtete, dass Nutzer von Rentenkonten beim Verwalten oder Abheben die vier Arten von Geld im Konto unterscheiden müssen, um Steuern zu sparen. Entscheidend ist, dass selbst innerhalb desselben Rentenkontos unterschiedliche Steuern anfallen können, je nachdem, woher das Geld stammt und wie es zuvor besteuert wurde. Rentenkonten dienen der Vorbereitung auf den Ruhestand, doch wer die Steuerunterschiede bei der Auszahlung nicht versteht, kann stärker belastet werden als erwartet. Der Artikel mit dem Titel „Das Geheimnis der vier Geldarten im Rentenkonto…Steuerunterschiede kennen, um Steuern zu sparen“ betonte, dass Steuerplanung mit der Einordnung der Mittel beginnt. Anleger und Ruhestandsplaner sollten daher nicht nur die Rendite, sondern auch die steuerliche Behandlung jeder Geldart prüfen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Compte retraite: quatre types de fonds et des impôts à distinguer",
-        "excerpt": "Hankyung a indiqué que comprendre la nature et la fiscalité de quatre types de fonds dans un compte retraite peut aider à limiter une charge fiscale inutile lors des retraits.",
-        "body": "Hankyung a rapporté que les détenteurs de comptes retraite doivent distinguer la nature des quatre types de fonds présents dans le compte lorsqu’ils les gèrent ou les retirent, afin de réduire l’impôt. Le point essentiel est que, même dans un même compte retraite, la fiscalité peut varier selon l’origine des fonds et leur historique d’imposition. Les comptes retraite servent à préparer les ressources de fin de carrière, mais une mauvaise compréhension des différences fiscales au moment du retrait peut créer une charge plus lourde que prévu. L’article, intitulé « Le secret des quatre types de fonds dans un compte retraite…connaître les différences fiscales pour économiser l’impôt », souligne que la stratégie fiscale commence par la distinction des fonds. Les investisseurs et les épargnants retraite doivent donc vérifier non seulement le rendement, mais aussi le traitement fiscal de chaque type de fonds. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "حسابات التقاعد وأربعة أنواع من الأموال: فهم الضرائب أساس التوفير",
-        "excerpt": "أفادت هانكيونغ بأن فهم طبيعة أربعة أنواع من الأموال داخل حسابات التقاعد واختلاف معاملتها الضريبية يساعد على تقليل أعباء غير ضرورية عند السحب.",
-        "body": "أفادت هانكيونغ بأن إدارة حسابات التقاعد أو السحب منها يتطلبان التمييز بين طبيعة أربعة أنواع من الأموال داخل الحساب من أجل تحقيق وفورات ضريبية. الفكرة الأساسية هي أن الأموال، حتى لو كانت في الحساب نفسه، قد تخضع لضرائب مختلفة بحسب مصدرها وسجلها الضريبي السابق. وتستخدم حسابات التقاعد للاستعداد المالي لمرحلة ما بعد العمل، لكن عدم فهم الفروق الضريبية عند السحب قد يؤدي إلى عبء أكبر من المتوقع. وجاء عنوان المقال: «سر أربعة أنواع من الأموال في حسابات التقاعد…معرفة الفروق الضريبية ضرورية للتوفير»، مؤكدا أن بداية التخطيط الضريبي تكمن في تصنيف الأموال. وعلى المستثمرين ومن يستعدون للتقاعد مراجعة العائدات، وكذلك طريقة فرض الضريبة على كل نوع من الأموال. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "पेंशन खाते की चार तरह की रकम, टैक्स अंतर समझना ही बचत की कुंजी",
-        "excerpt": "हैंकयुंग ने बताया कि पेंशन खाते में मौजूद चार प्रकार की रकम की प्रकृति और टैक्स अंतर समझने से निकासी के समय अनावश्यक कर बोझ घटाने में मदद मिल सकती है।",
-        "body": "हैंकयुंग ने रिपोर्ट किया कि पेंशन खाते को चलाते या उससे निकासी करते समय खाते में मौजूद चार प्रकार की रकम की प्रकृति अलग-अलग पहचानना टैक्स बचत के लिए जरूरी है। मुख्य बात यह है कि एक ही पेंशन खाते में रखी रकम पर भी उसके स्रोत और पहले की कर स्थिति के आधार पर अलग टैक्स लग सकता है। पेंशन खाते सेवानिवृत्ति निधि तैयार करने का साधन हैं, लेकिन निकासी के चरण में टैक्स अंतर न समझने पर अपेक्षा से अधिक बोझ बन सकता है। लेख का शीर्षक था, “पेंशन खाते की चार तरह की रकम का रहस्य…टैक्स अंतर जानना ही कर बचत है,” जिसमें बताया गया कि कर योजना की शुरुआत रकम के वर्गीकरण से होती है। निवेशकों और सेवानिवृत्ति की तैयारी कर रहे लोगों को केवल रिटर्न नहीं, बल्कि हर प्रकार की रकम की कर व्यवस्था भी देखनी चाहिए। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Rekening pensiun punya empat jenis dana, beda pajak wajib dipahami",
-        "excerpt": "Hankyung melaporkan bahwa memahami sifat dan perbedaan pajak dari empat jenis dana dalam rekening pensiun dapat membantu mengurangi beban pajak saat penarikan.",
-        "body": "Hankyung melaporkan bahwa saat mengelola atau menarik dana dari rekening pensiun, pemilik rekening perlu membedakan sifat empat jenis dana di dalamnya agar dapat menghemat pajak. Intinya, meski berada dalam rekening pensiun yang sama, pajak bisa berbeda tergantung asal dana dan riwayat pengenaan pajaknya. Rekening pensiun digunakan untuk menyiapkan dana hari tua, tetapi jika perbedaan pajak pada tahap penarikan tidak dipahami, beban yang muncul bisa lebih besar dari perkiraan. Artikel berjudul “Rahasia empat jenis dana dalam rekening pensiun…harus tahu perbedaan pajak untuk berhemat” menekankan bahwa strategi penghematan pajak dimulai dari pemisahan jenis dana. Investor dan calon pensiunan perlu memeriksa bukan hanya imbal hasil, tetapi juga perlakuan pajak untuk tiap jenis dana. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "59a747d4a76a",
-    "slug": "팔천피-돌파-후-장중-3대-하락-전환외인기관-팔자-128530",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-15T03:52:12.301Z",
-    "updatedAt": "2026-05-15T03:52:12.301Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051587516",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051587516",
-    "titleFingerprint": "a64b8a5276b703d09f5b9b7dfa248faf7907208e",
-    "dedupKeys": [
-      "59a747d4a76a804076f31e6d12bd0c50052c56b4",
-      "a64b8a5276b703d09f5b9b7dfa248faf7907208e",
-      "bea313947303717a9e0bc73c05a654c9191ec519"
-    ],
-    "imageUrl": "/images/articles/59a747d4a76a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "팔천피 돌파 뒤 3%대 급락 전환, 외국인·기관 매도세가 지수 압박",
-        "excerpt": "팔천피를 넘어섰던 지수가 이날 장중 3%대 하락세로 돌아섰고, 외국인과 기관의 동반 매도세가 지수 흐름을 압박한 것으로 전해졌다.",
-        "body": "팔천피를 돌파했던 지수가 이날 장중 상승분을 반납하고 3%대 하락세로 전환했다. 장 초반 심리적 기준선을 넘어선 뒤에도 외국인과 기관 투자자의 매도세가 이어지며 지수는 낙폭을 키웠다. 이번 흐름은 단기 급등 이후 차익 실현 성격의 매물이 출회된 가운데 수급 부담이 커진 장세로 해석된다. 투자자들은 팔천피 안착 여부와 외국인·기관 매도 강도가 이어질지에 주목하고 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Index Falls Over 3% Intraday After Breaking 8,000 as Foreign and Institutional Selling Weighs",
-        "excerpt": "After moving above the 8,000 mark, the index reversed intraday to a decline of more than 3%, pressured by simultaneous selling from foreign and institutional investors.",
-        "body": "The index, which had broken through the 8,000 level, gave back its gains during the session and turned to a decline of more than 3%. Although it crossed the psychological threshold earlier in trading, continued selling by foreign and institutional investors pushed the index lower. The move reflects mounting supply pressure after a short-term surge, with profit-taking weighing on sentiment. Investors are watching whether the index can settle above 8,000 and whether selling by foreigners and institutions continues. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "8000突破後に一時3％台下落へ転換、外国人・機関の売りが指数を圧迫",
-        "excerpt": "8000を上回った指数はこの日、取引時間中に3％台の下落へ転じ、外国人投資家と機関投資家の売りが相場を圧迫したと伝えられた。",
-        "body": "8000を突破していた指数はこの日、取引時間中に上昇分を失い、3％台の下落へ転じた。序盤に心理的な節目を上回ったものの、外国人投資家と機関投資家の売りが続き、指数は下げ幅を広げた。今回の動きは短期急騰後の利益確定売りが出るなか、需給面の負担が強まった相場として受け止められている。投資家は8000台に定着できるか、外国人・機関の売りが続くかに注目している。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "指数突破8000点后盘中转跌逾3%，外资与机构抛售施压",
-        "excerpt": "该指数在突破8000点后，日内转为下跌逾3%，外资和机构投资者同步卖出，被认为对指数走势形成明显压力。",
-        "body": "此前突破8000点的指数在当日盘中回吐涨幅，并转为下跌逾3%。虽然早盘一度站上这一心理关口，但外资和机构投资者持续卖出，使指数跌幅扩大。此次走势被解读为短期快速上涨后获利了结盘出现，同时资金供需压力加重。投资者正关注指数能否重新稳住8000点，以及外资和机构的卖出力度是否延续。来源: hankyung.com"
-      },
-      "es": {
-        "title": "El índice cae más de 3% intradía tras superar 8.000 por ventas extranjeras e institucionales",
-        "excerpt": "Tras superar la marca de 8.000, el índice giró durante la sesión a una caída superior al 3%, presionado por ventas de inversores extranjeros e institucionales.",
-        "body": "El índice, que había superado el nivel de 8.000, devolvió sus ganancias durante la sesión y pasó a caer más de un 3%. Aunque al inicio de la jornada cruzó ese umbral psicológico, las ventas continuas de inversores extranjeros e institucionales ampliaron las pérdidas. El movimiento se interpreta como presión de oferta tras un fuerte avance de corto plazo, con toma de ganancias pesando sobre el mercado. Los inversores observan si el índice logra asentarse sobre 8.000 y si persisten esas ventas. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Índice cai mais de 3% no intradia após romper 8.000 com vendas externas e institucionais",
-        "excerpt": "Depois de superar a marca de 8.000, o índice virou para queda de mais de 3% durante o pregão, pressionado por vendas de estrangeiros e instituições.",
-        "body": "O índice, que havia rompido o nível de 8.000, devolveu os ganhos durante o pregão e passou a cair mais de 3%. Mesmo após superar no início da sessão esse patamar psicológico, as vendas de investidores estrangeiros e institucionais continuaram e ampliaram as perdas. O movimento é visto como aumento da pressão de oferta após uma alta rápida de curto prazo, com realização de lucros pesando sobre o mercado. Investidores acompanham se o índice conseguirá se firmar acima de 8.000 e se as vendas continuarão. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Index dreht nach Sprung über 8.000 intraday über 3% ins Minus, Ausländer und Institute verkaufen",
-        "excerpt": "Nach dem Anstieg über die Marke von 8.000 drehte der Index im Tagesverlauf auf ein Minus von mehr als 3%, belastet durch Verkäufe ausländischer und institutioneller Anleger.",
-        "body": "Der Index, der zuvor die Marke von 8.000 überschritten hatte, gab seine Gewinne im Handelsverlauf wieder ab und fiel um mehr als 3%. Zwar wurde zu Beginn die psychologisch wichtige Schwelle überschritten, doch anhaltende Verkäufe ausländischer und institutioneller Anleger drückten den Index weiter nach unten. Die Bewegung wird als zunehmender Angebotsdruck nach einem kurzfristig starken Anstieg gewertet, bei dem Gewinnmitnahmen belasteten. Anleger achten nun darauf, ob sich der Index über 8.000 halten kann und ob die Verkäufe anhalten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "L’indice chute de plus de 3% en séance après 8 000, sous la pression des ventes étrangères et institutionnelles",
-        "excerpt": "Après avoir dépassé le seuil de 8 000, l’indice s’est retourné en séance vers une baisse de plus de 3%, freiné par les ventes des investisseurs étrangers et institutionnels.",
-        "body": "L’indice, qui avait franchi le niveau de 8 000, a rendu ses gains en séance et basculé vers une baisse de plus de 3%. Malgré le passage initial au-dessus de ce seuil psychologique, les ventes persistantes des investisseurs étrangers et institutionnels ont accentué le recul. Ce mouvement traduit une pression d’offre accrue après une forte progression de court terme, avec des prises de bénéfices pesant sur le marché. Les investisseurs surveillent désormais la capacité de l’indice à se stabiliser au-dessus de 8 000 et la poursuite éventuelle des ventes. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "المؤشر يتراجع بأكثر من 3% خلال الجلسة بعد اختراق 8000 بفعل بيع الأجانب والمؤسسات",
-        "excerpt": "بعد تجاوز مستوى 8000، تحول المؤشر خلال الجلسة إلى هبوط يتجاوز 3%، مع ضغط واضح من مبيعات المستثمرين الأجانب والمؤسسات.",
-        "body": "المؤشر الذي كان قد اخترق مستوى 8000 تخلى عن مكاسبه خلال الجلسة وتحول إلى هبوط بأكثر من 3%. ورغم تجاوزه في بداية التداول هذا الحاجز النفسي، استمرت مبيعات المستثمرين الأجانب والمؤسسات، ما وسع نطاق التراجع. ويعكس هذا التحرك ضغطا متزايدا في جانب العرض بعد صعود قصير الأجل، مع ظهور عمليات جني أرباح أثرت في المعنويات. يراقب المستثمرون الآن ما إذا كان المؤشر سيتمكن من الاستقرار فوق 8000، وما إذا كانت مبيعات الأجانب والمؤسسات ستستمر. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "8,000 पार करने के बाद सूचकांक इंट्राडे 3% से अधिक गिरा, विदेशी और संस्थागत बिकवाली दबाव बनी",
-        "excerpt": "8,000 के स्तर को पार करने के बाद सूचकांक ने सत्र के दौरान 3% से अधिक गिरावट का रुख लिया, जिस पर विदेशी और संस्थागत निवेशकों की बिकवाली का दबाव रहा।",
-        "body": "8,000 का स्तर पार कर चुके सूचकांक ने दिन के कारोबार में अपनी बढ़त गंवा दी और 3% से अधिक गिरावट में बदल गया। शुरुआती कारोबार में मनोवैज्ञानिक स्तर पार करने के बावजूद विदेशी और संस्थागत निवेशकों की लगातार बिकवाली से सूचकांक पर दबाव बढ़ा। यह चाल अल्पकालिक तेज बढ़त के बाद मुनाफावसूली और आपूर्ति दबाव बढ़ने के रूप में देखी जा रही है। निवेशक अब देख रहे हैं कि सूचकांक 8,000 के ऊपर टिक पाता है या नहीं और विदेशी व संस्थागत बिकवाली जारी रहती है या नहीं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Indeks Berbalik Turun Lebih 3% Intraday Setelah Tembus 8.000, Asing dan Institusi Menjual",
-        "excerpt": "Setelah menembus level 8.000, indeks berbalik melemah lebih dari 3% pada perdagangan intraday, tertekan aksi jual investor asing dan institusi.",
-        "body": "Indeks yang sempat menembus level 8.000 melepas kenaikannya pada perdagangan hari itu dan berbalik turun lebih dari 3%. Meski pada awal sesi berhasil melewati batas psikologis tersebut, aksi jual berlanjut dari investor asing dan institusi membuat pelemahan melebar. Pergerakan ini dipandang sebagai meningkatnya tekanan pasokan setelah kenaikan cepat jangka pendek, dengan aksi ambil untung membebani pasar. Investor mencermati apakah indeks dapat bertahan di atas 8.000 dan apakah penjualan asing serta institusi berlanjut. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "bd6cac3a4093",
-    "slug": "위베어소프트-호라이즌인베스트먼트로부터-프리-a-라운드-투자유치-575823",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-15T03:51:11.035Z",
-    "updatedAt": "2026-05-15T03:51:11.035Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/it/12049019",
-    "canonicalUrl": "https://www.mk.co.kr/news/it/12049019",
-    "titleFingerprint": "56f408b12fa942ad647a1c9b66592c10cb5ecdb2",
-    "dedupKeys": [
-      "bd6cac3a4093d66dbc6cef3a07973f006b334a92",
-      "56f408b12fa942ad647a1c9b66592c10cb5ecdb2",
-      "20541b850128871e39a11e26ba18b8d45885bcd7"
-    ],
-    "imageUrl": "/images/articles/bd6cac3a4093.png",
-    "i18n": {
-      "ko": {
-        "title": "위베어소프트, 호라이즌인베스트먼트 프리 A 투자유치로 API 관리 공급 확대",
-        "excerpt": "API 관리·보안 전문기업 위베어소프트가 15일 호라이즌인베스트먼트로부터 프리 A 라운드 투자유치를 마무리하고 API 통합관리 솔루션 공급에 속도를 낸다고 밝혔다.",
-        "body": "API 관리 및 보안 전문기업 위베어소프트는 15일 호라이즌인베스트먼트로부터 프리 A 라운드 투자유치를 성공적으로 마무리했다고 밝혔다. 회사는 이번 투자를 계기로 API 통합관리 솔루션 등 주요 제품 공급에 박차를 가할 계획이다. 위베어소프트는 API 관리와 보안 영역을 전문으로 하는 기업으로, 기업 시스템 간 연결과 데이터 활용이 늘어나는 환경에서 API 운영 관리 수요에 대응해 왔다. 이번 프리 A 투자유치는 위베어소프트가 관련 솔루션 공급 확대를 추진하는 기반으로 작용할 전망이다. 본 기사는 mk.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "Webearsoft Secures Pre-A Funding from Horizon Investment to Expand API Management",
-        "excerpt": "Webearsoft, an API management and security specialist, said on the 15th it completed a Pre-A funding round from Horizon Investment to accelerate supply of its API integration management solutions.",
-        "body": "Webearsoft, a company specializing in API management and security, announced on the 15th that it successfully completed a Pre-A funding round from Horizon Investment. With the investment, the company plans to accelerate the supply of its core products, including API integration management solutions. Webearsoft focuses on API management and security, responding to growing demand for API operations as enterprise systems become more connected and data use expands. The Pre-A investment is expected to support Webearsoft’s push to broaden the supply of its related solutions. This article cites reporting from mk.co.kr."
-      },
-      "ja": {
-        "title": "ウィベアソフト、ホライゾンインベストメントからプレA投資を誘致",
-        "excerpt": "API管理・セキュリティ専門企業のウィベアソフトは15日、ホライゾンインベストメントからプレAラウンド投資を完了し、API統合管理ソリューション供給を加速すると明らかにした。",
-        "body": "API管理およびセキュリティ専門企業のウィベアソフトは15日、ホライゾンインベストメントからプレAラウンド投資の誘致を成功裏に終えたと発表した。同社は今回の投資を契機に、API統合管理ソリューションなど主要製品の供給に拍車をかける計画だ。ウィベアソフトはAPI管理とセキュリティ分野を専門とする企業で、企業システム間の連携とデータ活用が増える環境の中で、API運用管理需要に対応してきた。今回のプレA投資は、関連ソリューション供給拡大を進める基盤になる見通しだ。本記事はmk.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "Webearsoft获Horizon Investment Pre-A轮投资，加速API管理供应",
-        "excerpt": "专注API管理与安全的Webearsoft于15日表示，已完成来自Horizon Investment的Pre-A轮融资，并将加快API集成管理解决方案供应。",
-        "body": "专注于API管理和安全的企业Webearsoft于15日宣布，已成功完成来自Horizon Investment的Pre-A轮融资。公司计划以此次投资为契机，加快包括API集成管理解决方案在内的主要产品供应。Webearsoft是一家专注API管理与安全领域的企业，在企业系统连接和数据使用不断增加的环境下，持续应对API运营管理需求。此次Pre-A投资预计将成为Webearsoft扩大相关解决方案供应的基础。本文引用mk.co.kr报道。"
-      },
-      "es": {
-        "title": "Webearsoft capta inversión Pre-A de Horizon Investment para ampliar gestión API",
-        "excerpt": "Webearsoft, especialista en gestión y seguridad de API, informó el día 15 que cerró una ronda Pre-A de Horizon Investment para acelerar el suministro de soluciones de gestión integrada de API.",
-        "body": "Webearsoft, empresa especializada en gestión y seguridad de API, anunció el día 15 que completó con éxito una ronda de inversión Pre-A de Horizon Investment. Con esta inversión, la compañía planea acelerar el suministro de sus productos principales, incluidas soluciones de gestión integrada de API. Webearsoft se centra en gestión y seguridad de API y ha respondido a la demanda de operación y administración de API en un entorno donde aumentan la conexión entre sistemas empresariales y el uso de datos. La inversión Pre-A servirá como base para ampliar el suministro de soluciones relacionadas. Este artículo cita información de mk.co.kr."
-      },
-      "pt": {
-        "title": "Webearsoft recebe aporte Pre-A da Horizon Investment para expandir gestão de APIs",
-        "excerpt": "A Webearsoft, especializada em gestão e segurança de APIs, disse no dia 15 que concluiu uma rodada Pre-A da Horizon Investment para acelerar a oferta de soluções de gestão integrada de APIs.",
-        "body": "A Webearsoft, empresa especializada em gestão e segurança de APIs, anunciou no dia 15 que concluiu com sucesso uma rodada de investimento Pre-A da Horizon Investment. Com o aporte, a companhia planeja acelerar a oferta de seus principais produtos, incluindo soluções de gestão integrada de APIs. A Webearsoft atua nas áreas de gestão e segurança de APIs e vem atendendo à demanda por operação de APIs em um ambiente de maior conexão entre sistemas corporativos e uso de dados. O investimento Pre-A deve apoiar a expansão da oferta de soluções relacionadas. Este artigo cita reportagem de mk.co.kr."
-      },
-      "de": {
-        "title": "Webearsoft erhält Pre-A-Investment von Horizon Investment für API-Management",
-        "excerpt": "Webearsoft, Spezialist für API-Management und Sicherheit, teilte am 15. mit, eine Pre-A-Finanzierungsrunde von Horizon Investment abgeschlossen zu haben, um API-Integrationslösungen schneller bereitzustellen.",
-        "body": "Webearsoft, ein auf API-Management und Sicherheit spezialisiertes Unternehmen, gab am 15. bekannt, eine Pre-A-Finanzierungsrunde von Horizon Investment erfolgreich abgeschlossen zu haben. Mit der Investition will das Unternehmen die Bereitstellung wichtiger Produkte, darunter Lösungen für integriertes API-Management, beschleunigen. Webearsoft konzentriert sich auf API-Management und Sicherheit und reagiert damit auf die wachsende Nachfrage nach API-Betrieb, während Unternehmenssysteme stärker vernetzt werden und die Datennutzung zunimmt. Die Pre-A-Investition dürfte als Grundlage für den Ausbau des Angebots entsprechender Lösungen dienen. Dieser Artikel zitiert mk.co.kr."
-      },
-      "fr": {
-        "title": "Webearsoft obtient un financement Pre-A de Horizon Investment pour ses API",
-        "excerpt": "Webearsoft, spécialiste de la gestion et de la sécurité des API, a annoncé le 15 avoir bouclé un tour Pre-A auprès de Horizon Investment afin d’accélérer l’offre de solutions de gestion intégrée des API.",
-        "body": "Webearsoft, entreprise spécialisée dans la gestion et la sécurité des API, a annoncé le 15 avoir finalisé avec succès un tour de financement Pre-A auprès de Horizon Investment. Grâce à cet investissement, la société prévoit d’accélérer la fourniture de ses principaux produits, dont des solutions de gestion intégrée des API. Webearsoft se concentre sur la gestion et la sécurité des API et répond à la demande d’exploitation des API dans un contexte où les systèmes d’entreprise sont davantage connectés et où l’usage des données augmente. Ce financement Pre-A devrait soutenir l’élargissement de l’offre de solutions associées. Cet article cite mk.co.kr."
-      },
-      "ar": {
-        "title": "ويبيرسوفت تحصل على تمويل Pre-A من Horizon Investment لتوسيع إدارة واجهات API",
-        "excerpt": "أعلنت ويبيرسوفت، المتخصصة في إدارة وأمن واجهات API، يوم 15 أنها أنهت جولة تمويل Pre-A من Horizon Investment لتسريع توريد حلول الإدارة المتكاملة لواجهات API.",
-        "body": "أعلنت شركة ويبيرسوفت، المتخصصة في إدارة وأمن واجهات API، يوم 15 أنها أكملت بنجاح جولة تمويل Pre-A من Horizon Investment. وتعتزم الشركة، استنادا إلى هذا الاستثمار، تسريع توريد منتجاتها الرئيسية، بما في ذلك حلول الإدارة المتكاملة لواجهات API. وتركز ويبيرسوفت على مجالي إدارة وأمن واجهات API، مستجيبة للطلب على تشغيل وإدارة هذه الواجهات في بيئة تتزايد فيها الروابط بين أنظمة الشركات ويتوسع فيها استخدام البيانات. ومن المتوقع أن يشكل تمويل Pre-A أساسا لتوسيع توريد الحلول ذات الصلة. يستند هذا المقال إلى تقرير mk.co.kr."
-      },
-      "hi": {
-        "title": "Webearsoft को Horizon Investment से Pre-A फंडिंग, API प्रबंधन आपूर्ति तेज",
-        "excerpt": "API प्रबंधन और सुरक्षा विशेषज्ञ Webearsoft ने 15 तारीख को कहा कि उसने Horizon Investment से Pre-A फंडिंग पूरी कर ली है और API एकीकृत प्रबंधन समाधान की आपूर्ति तेज करेगी।",
-        "body": "API प्रबंधन और सुरक्षा में विशेषज्ञ कंपनी Webearsoft ने 15 तारीख को घोषणा की कि उसने Horizon Investment से Pre-A निवेश दौर सफलतापूर्वक पूरा कर लिया है। कंपनी इस निवेश के आधार पर API एकीकृत प्रबंधन समाधान सहित अपने प्रमुख उत्पादों की आपूर्ति में तेजी लाने की योजना बना रही है। Webearsoft API प्रबंधन और सुरक्षा क्षेत्र पर केंद्रित कंपनी है और उद्यम प्रणालियों के बीच कनेक्टिविटी तथा डेटा उपयोग बढ़ने के माहौल में API संचालन प्रबंधन की मांग का जवाब देती रही है। यह Pre-A निवेश संबंधित समाधानों की आपूर्ति बढ़ाने के लिए आधार बनने की उम्मीद है। यह लेख mk.co.kr की रिपोर्ट का हवाला देता है।"
-      },
-      "id": {
-        "title": "Webearsoft Raih Pendanaan Pre-A Horizon Investment untuk Perluas Manajemen API",
-        "excerpt": "Webearsoft, perusahaan spesialis manajemen dan keamanan API, menyatakan pada tanggal 15 telah menyelesaikan pendanaan Pre-A dari Horizon Investment untuk mempercepat pasokan solusi manajemen integrasi API.",
-        "body": "Webearsoft, perusahaan yang berspesialisasi dalam manajemen dan keamanan API, mengumumkan pada tanggal 15 bahwa mereka berhasil menyelesaikan putaran pendanaan Pre-A dari Horizon Investment. Melalui investasi ini, perusahaan berencana mempercepat pasokan produk utama, termasuk solusi manajemen integrasi API. Webearsoft berfokus pada bidang manajemen dan keamanan API serta merespons kebutuhan operasional API di tengah meningkatnya koneksi antar sistem perusahaan dan penggunaan data. Pendanaan Pre-A ini diperkirakan menjadi dasar bagi Webearsoft untuk memperluas pasokan solusi terkait. Artikel ini mengutip laporan mk.co.kr."
       }
     }
   }
