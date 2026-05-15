@@ -1,5 +1,230 @@
 [
   {
+    "id": "6638c9e496f1",
+    "slug": "dx직원들-초기업노조-상대-교섭중지-가처분신청-130548",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T12:09:39.950Z",
+    "updatedAt": "2026-05-15T12:09:39.950Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049358",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049358",
+    "titleFingerprint": "d16624df777b1a6c00377ae3c09220e070b44bf1",
+    "dedupKeys": [
+      "6638c9e496f1ac8304af0dfbdea6da87c39cc3bb",
+      "d16624df777b1a6c00377ae3c09220e070b44bf1",
+      "26f3b4aa2625910b5fbae3d4843b52dd565e16d5"
+    ],
+    "imageUrl": "/images/articles/6638c9e496f1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 DX 직원들, 초기업노조 상대 교섭중지 가처분 신청",
+        "excerpt": "15일 업계에 따르면 삼성전자 DX 부문 직원들이 초기업노조 삼성전자지부의 교섭 방식에 반발해 교섭중지 가처분 신청에 나서며 집단행동을 본격화했다.",
+        "body": "삼성전자 디바이스경험(DX) 부문 직원들이 초기업노동조합 삼성전자지부를 상대로 교섭중지 가처분 신청에 나서며 집단행동을 본격화하고 있다. 15일 업계에 따르면 이번 움직임은 초기업노조의 교섭 방식에 불만을 품은 DX 부문 직원들이 직접 대응에 나선 사례다. DX 부문은 가전과 모바일 등 삼성전자 주요 소비자 제품 사업을 포함한다. 직원들의 문제 제기가 법적 절차로 이어지면서 노사 교섭 과정의 대표성 및 진행 방식에 대한 관심도 커질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics DX Staff Seek Injunction to Halt Union Bargaining",
+        "excerpt": "Industry sources said on the 15th that Samsung Electronics DX employees, dissatisfied with the bargaining approach of the Samsung branch of a supra-enterprise union, have moved to seek an injunction.",
+        "body": "Employees in Samsung Electronics’ Device Experience (DX) division are stepping up collective action by filing for an injunction to halt bargaining against the Samsung Electronics branch of the supra-enterprise labor union. According to industry sources on the 15th, the move reflects dissatisfaction among DX employees with the union’s bargaining method. The DX division includes key consumer product businesses such as home appliances and mobile devices. As employees’ objections move into a legal process, attention is expected to focus on representation and procedures in labor-management bargaining. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子DX社員、超企業労組に交渉中止仮処分を申請",
+        "excerpt": "業界関係者によると15日、サムスン電子DX部門の社員らが超企業労組サムスン電子支部の交渉方式に反発し、交渉中止の仮処分申請に動いた。",
+        "body": "サムスン電子のデバイス経験（DX）部門の社員らが、超企業労働組合サムスン電子支部を相手取り、交渉中止の仮処分申請に乗り出し、集団行動を本格化させている。15日の業界情報によれば、今回の動きは同労組の交渉方式に不満を持つDX部門社員が直接対応に出た事例だ。DX部門は家電やモバイルなど、サムスン電子の主要な消費者向け製品事業を含む。社員側の問題提起が法的手続きに進んだことで、労使交渉の代表性や進め方への関心も高まりそうだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子DX员工申请叫停超企业工会谈判的临时处分",
+        "excerpt": "据业内15日消息，三星电子DX部门员工因不满超企业工会三星电子支部的谈判方式，已着手申请停止谈判的临时处分，集体行动正式展开。",
+        "body": "三星电子设备体验（DX）部门员工正针对超企业劳动组合三星电子支部申请停止谈判的临时处分，集体行动趋于正式化。据15日业内消息，此举源于DX部门员工对该工会谈判方式的不满，并选择直接采取应对。DX部门涵盖家电、移动等三星电子主要消费产品业务。随着员工方面的质疑进入法律程序，劳资谈判中的代表性以及谈判推进方式预计也将受到更多关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Empleados de DX de Samsung piden frenar la negociación sindical",
+        "excerpt": "Según fuentes del sector el día 15, empleados de la división DX de Samsung Electronics actuaron contra el método de negociación del sindicato supraempresarial y solicitaron una medida cautelar.",
+        "body": "Empleados de la división Device Experience (DX) de Samsung Electronics están intensificando una acción colectiva al solicitar una medida cautelar para detener la negociación con la filial de Samsung Electronics del sindicato supraempresarial. Según fuentes del sector el día 15, la medida responde al descontento de trabajadores de DX con la forma de negociación del sindicato. La división DX incluye negocios clave de productos de consumo, como electrodomésticos y móviles. Al pasar la objeción de los empleados a un procedimiento legal, crecerá la atención sobre la representatividad y el proceso de la negociación laboral. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Funcionários da DX da Samsung pedem suspensão de negociação sindical",
+        "excerpt": "Segundo fontes do setor no dia 15, funcionários da divisão DX da Samsung Electronics reagiram ao método de negociação do sindicato supraempresarial e entraram com pedido cautelar.",
+        "body": "Funcionários da divisão Device Experience (DX) da Samsung Electronics estão intensificando uma ação coletiva ao pedir uma medida cautelar para suspender a negociação com a filial da Samsung Electronics do sindicato supraempresarial. Segundo fontes do setor no dia 15, o movimento reflete a insatisfação de empregados da DX com a forma de negociação do sindicato. A divisão DX inclui negócios centrais de produtos ao consumidor, como eletrodomésticos e dispositivos móveis. Com a contestação dos funcionários avançando para um procedimento legal, deve crescer a atenção sobre representatividade e condução da negociação trabalhista. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung-DX-Mitarbeiter beantragen Stopp der Gewerkschaftsverhandlungen",
+        "excerpt": "Branchenkreisen zufolge haben Mitarbeiter der Samsung-DX-Sparte am 15. wegen Unzufriedenheit mit der Verhandlungsweise der überbetrieblichen Gewerkschaft eine einstweilige Verfügung beantragt.",
+        "body": "Mitarbeiter der Device-Experience-Sparte (DX) von Samsung Electronics treiben kollektive Maßnahmen voran und beantragen gegen die Samsung-Electronics-Niederlassung der überbetrieblichen Gewerkschaft eine einstweilige Verfügung zur Aussetzung der Verhandlungen. Laut Branchenkreisen vom 15. geht der Schritt auf Unzufriedenheit von DX-Mitarbeitern mit der Verhandlungsweise der Gewerkschaft zurück. Die DX-Sparte umfasst wichtige Verbraucherproduktgeschäfte wie Haushaltsgeräte und Mobilgeräte. Da die Einwände der Beschäftigten nun in ein rechtliches Verfahren münden, dürfte die Aufmerksamkeit für Vertretung und Ablauf der Arbeitsverhandlungen zunehmen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Des salariés DX de Samsung demandent l’arrêt des négociations syndicales",
+        "excerpt": "Selon le secteur le 15, des salariés de la division DX de Samsung Electronics, mécontents de la méthode de négociation du syndicat supra-entreprise, ont demandé une mesure conservatoire.",
+        "body": "Des salariés de la division Device Experience (DX) de Samsung Electronics intensifient une action collective en demandant une mesure conservatoire pour suspendre les négociations avec la branche Samsung Electronics du syndicat supra-entreprise. Selon des sources du secteur le 15, cette démarche traduit leur mécontentement face à la méthode de négociation du syndicat. La division DX comprend des activités clés de produits grand public, comme l’électroménager et le mobile. Le passage de cette contestation à une procédure juridique devrait accroître l’attention portée à la représentativité et au déroulement des négociations sociales. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "موظفو DX في سامسونغ يطلبون وقف تفاوض نقابة فوق مؤسسية",
+        "excerpt": "قالت مصادر في القطاع يوم 15 إن موظفي قسم DX في سامسونغ إلكترونيكس، المعترضين على أسلوب تفاوض فرع سامسونغ للنقابة فوق المؤسسية، تقدموا بطلب إجراء مؤقت لوقف التفاوض.",
+        "body": "يصعّد موظفو قسم تجربة الأجهزة (DX) في سامسونغ إلكترونيكس تحركهم الجماعي عبر طلب إجراء مؤقت لوقف التفاوض ضد فرع سامسونغ إلكترونيكس التابع للنقابة العمالية فوق المؤسسية. وبحسب مصادر في القطاع يوم 15، تعكس هذه الخطوة استياء موظفي DX من طريقة التفاوض التي تتبعها النقابة. ويشمل قسم DX أعمال منتجات استهلاكية رئيسية مثل الأجهزة المنزلية والهواتف المحمولة. ومع انتقال اعتراض الموظفين إلى مسار قانوني، من المتوقع أن يزداد الاهتمام بمسألة التمثيل وطريقة سير مفاوضات العمل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung DX कर्मचारियों ने यूनियन वार्ता रोकने को निषेधाज्ञा मांगी",
+        "excerpt": "उद्योग सूत्रों के अनुसार 15 तारीख को Samsung Electronics के DX कर्मचारियों ने सुपर-एंटरप्राइज यूनियन की Samsung शाखा की वार्ता पद्धति से असंतोष जताते हुए रोक की अर्जी दी।",
+        "body": "Samsung Electronics के Device Experience (DX) विभाग के कर्मचारी सुपर-एंटरप्राइज लेबर यूनियन की Samsung Electronics शाखा के खिलाफ वार्ता रोकने की निषेधाज्ञा मांगते हुए सामूहिक कार्रवाई तेज कर रहे हैं। 15 तारीख को उद्योग सूत्रों के अनुसार यह कदम DX कर्मचारियों की उस असंतुष्टि को दिखाता है जो यूनियन की वार्ता पद्धति को लेकर है। DX विभाग में घरेलू उपकरण और मोबाइल जैसे Samsung Electronics के प्रमुख उपभोक्ता उत्पाद कारोबार शामिल हैं। कर्मचारियों की आपत्ति कानूनी प्रक्रिया में जाने से श्रम-प्रबंधन वार्ता की प्रतिनिधित्व व्यवस्था और संचालन पद्धति पर ध्यान बढ़ने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Karyawan DX Samsung Ajukan Perintah Hentikan Negosiasi Serikat",
+        "excerpt": "Menurut sumber industri pada tanggal 15, karyawan divisi DX Samsung Electronics yang tidak puas dengan cara negosiasi serikat supra-perusahaan mulai mengajukan tindakan hukum.",
+        "body": "Karyawan divisi Device Experience (DX) Samsung Electronics mulai memperkuat aksi kolektif dengan mengajukan permohonan perintah sementara untuk menghentikan negosiasi terhadap cabang Samsung Electronics dari serikat pekerja supra-perusahaan. Menurut sumber industri pada tanggal 15, langkah ini mencerminkan ketidakpuasan karyawan DX terhadap cara negosiasi serikat tersebut. Divisi DX mencakup bisnis produk konsumen utama Samsung Electronics, termasuk peralatan rumah tangga dan perangkat mobile. Karena keberatan karyawan masuk ke proses hukum, perhatian terhadap representasi dan tata cara negosiasi ketenagakerjaan diperkirakan meningkat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "cb6481a038e5",
+    "slug": "노벨상-하윗-ai-세금-너무-급진적국민배당금은-시기상조-569991",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T12:08:40.481Z",
+    "updatedAt": "2026-05-15T12:08:40.481Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049363",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049363",
+    "titleFingerprint": "b0fc831ac7bae483743ef6ed3fe9b06b42938aa3",
+    "dedupKeys": [
+      "cb6481a038e5aef23fce7524bc8c696c8cd14f12",
+      "b0fc831ac7bae483743ef6ed3fe9b06b42938aa3",
+      "e2387f2e275fec942952c7fb8f737d725c3be466"
+    ],
+    "imageUrl": "/images/articles/cb6481a038e5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 세금 논쟁에 노벨상 하윗 “너무 급진적”…국민배당금도 시기상조",
+        "excerpt": "피터 하윗 미국 브라운대 명예교수는 15일 AI가 만든 경제적 이익에 과세하는 ‘AI세’ 도입이 너무 급진적이라며 국민배당금 논의도 이르다고 밝혔다.",
+        "body": "피터 하윗 미국 브라운대 명예교수는 15일 인공지능(AI)으로 창출된 경제적 이익에 과세하는 이른바 ‘AI세’ 도입에 대해 “너무 급진적”이라고 말했다. 하윗 교수는 미국 경제학자로, AI 확산에 따른 생산성 향상과 경제적 이익 배분을 둘러싼 정책 논의 속에서 신중론을 제기했다. 그는 AI로 생긴 이익을 세금으로 거둬 국민에게 배당하는 방식도 아직은 시기상조라는 입장을 보였다. 이번 발언은 AI 기술 발전이 노동시장과 소득분배에 미칠 영향을 둘러싼 논쟁이 커지는 가운데 나왔다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Nobel Laureate Howitt Says AI Tax Is ‘Too Radical,’ Citizen Dividends Premature",
+        "excerpt": "Brown University professor emeritus Peter Howitt said on the 15th that taxing economic gains created by AI is too radical and that citizen dividend plans are premature.",
+        "body": "Peter Howitt, professor emeritus at Brown University, said on the 15th that introducing a so-called “AI tax” on economic gains generated by artificial intelligence is “too radical.” Howitt, an American economist, raised a cautious view amid policy debate over productivity gains from AI and how the resulting economic benefits should be distributed. He also indicated that using tax revenue from AI-related gains to pay dividends to citizens is premature. His remarks came as debate grows over how advances in AI could affect labor markets and income distribution. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ノーベル賞のハウィット氏「AI税は急進的すぎる」国民配当も時期尚早",
+        "excerpt": "米ブラウン大学名誉教授のピーター・ハウィット氏は15日、AIが生む経済的利益への課税は急進的すぎ、国民配当の議論も時期尚早だと述べた。",
+        "body": "米ブラウン大学名誉教授のピーター・ハウィット氏は15日、人工知能（AI）によって生み出された経済的利益に課税する、いわゆる「AI税」の導入について「急進的すぎる」と述べた。米国の経済学者であるハウィット氏は、AIの普及による生産性向上と経済的利益の配分をめぐる政策論議の中で、慎重な見方を示した。AIで生じた利益を税として徴収し、国民に配当する方式についても、現時点では時期尚早との立場を示した。発言はAIの進展が労働市場と所得分配に与える影響をめぐる議論が高まる中で出た。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "诺奖得主霍伊特称“AI税过于激进”，全民分红仍为时尚早",
+        "excerpt": "美国布朗大学名誉教授彼得·霍伊特15日表示，对AI创造的经济收益征税过于激进，将其用于全民分红的讨论也为时尚早。",
+        "body": "美国布朗大学名誉教授彼得·霍伊特15日表示，对人工智能（AI）创造的经济收益征税，即所谓“AI税”，做法“过于激进”。作为美国经济学家，霍伊特在围绕AI扩散带来的生产率提升以及经济利益分配的政策讨论中提出了谨慎观点。他还表示，把AI产生的收益通过税收归集后向国民分红，目前仍为时尚早。此番言论出现在AI技术发展对劳动力市场和收入分配影响的争论不断升温之际。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El Nobel Howitt ve “demasiado radical” el impuesto a la IA y prematuro el dividendo ciudadano",
+        "excerpt": "Peter Howitt, profesor emérito de Brown, dijo el día 15 que gravar los beneficios económicos creados por la IA es demasiado radical y que el dividendo ciudadano aún es prematuro.",
+        "body": "Peter Howitt, profesor emérito de la Universidad Brown, dijo el día 15 que introducir un llamado “impuesto a la IA” sobre los beneficios económicos generados por la inteligencia artificial es “demasiado radical”. Howitt, economista estadounidense, planteó una postura prudente dentro del debate político sobre el aumento de productividad derivado de la expansión de la IA y la distribución de esos beneficios. También señaló que recaudar impuestos sobre las ganancias creadas por la IA para pagar dividendos a la ciudadanía es, por ahora, prematuro. Sus comentarios llegan mientras crece la discusión sobre el impacto de la IA en el mercado laboral y la distribución del ingreso. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Nobel Howitt diz que imposto sobre IA é “radical demais” e dividendo cidadão é precoce",
+        "excerpt": "Peter Howitt, professor emérito da Brown, disse no dia 15 que tributar ganhos econômicos criados pela IA é radical demais e que dividendos à população ainda são prematuros.",
+        "body": "Peter Howitt, professor emérito da Universidade Brown, disse no dia 15 que a introdução de um chamado “imposto sobre IA” sobre os benefícios econômicos gerados pela inteligência artificial é “radical demais”. Howitt, economista norte-americano, adotou uma posição cautelosa no debate sobre os ganhos de produtividade trazidos pela expansão da IA e a distribuição desses benefícios econômicos. Ele também indicou que usar impostos sobre ganhos gerados pela IA para pagar dividendos aos cidadãos ainda é prematuro. A declaração ocorre em meio ao avanço das discussões sobre os efeitos da IA no mercado de trabalho e na distribuição de renda. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Nobelpreisträger Howitt nennt KI-Steuer „zu radikal“, Bürgerdividende verfrüht",
+        "excerpt": "Peter Howitt, emeritierter Professor der Brown University, sagte am 15., eine Steuer auf durch KI geschaffene wirtschaftliche Gewinne sei zu radikal und Bürgerdividenden seien verfrüht.",
+        "body": "Peter Howitt, emeritierter Professor an der Brown University, sagte am 15., die Einführung einer sogenannten „KI-Steuer“ auf wirtschaftliche Gewinne, die durch künstliche Intelligenz entstehen, sei „zu radikal“. Der US-Ökonom äußerte sich damit vorsichtig in der politischen Debatte über Produktivitätsgewinne durch die Verbreitung von KI und die Verteilung der daraus entstehenden wirtschaftlichen Vorteile. Auch eine Verwendung solcher Steuereinnahmen für Dividenden an Bürger hält er derzeit für verfrüht. Die Äußerung fällt in eine Zeit wachsender Diskussionen über die Folgen von KI für Arbeitsmärkte und Einkommensverteilung. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le Nobel Howitt juge la taxe IA « trop radicale » et le dividende citoyen prématuré",
+        "excerpt": "Peter Howitt, professeur émérite à Brown, a déclaré le 15 qu’imposer les gains économiques créés par l’IA est trop radical et que le dividende citoyen reste prématuré.",
+        "body": "Peter Howitt, professeur émérite à l’Université Brown, a déclaré le 15 que l’instauration d’une « taxe IA » sur les bénéfices économiques générés par l’intelligence artificielle était « trop radicale ». Économiste américain, Howitt a exprimé une position prudente dans le débat politique sur les gains de productivité liés à la diffusion de l’IA et sur la répartition de ces avantages économiques. Il a aussi estimé qu’utiliser les recettes tirées des gains de l’IA pour verser des dividendes aux citoyens était encore prématuré. Ses propos interviennent alors que s’intensifie le débat sur les effets de l’IA sur le marché du travail et la distribution des revenus. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الحائز على نوبل هاويت: ضريبة الذكاء الاصطناعي «راديكالية للغاية» وتوزيع الأرباح سابق لأوانه",
+        "excerpt": "قال بيتر هاويت، الأستاذ الفخري في جامعة براون، في 15 من الشهر إن فرض ضريبة على المكاسب الاقتصادية الناتجة عن الذكاء الاصطناعي راديكالي للغاية، وإن توزيعات المواطنين ما زالت مبكرة.",
+        "body": "قال بيتر هاويت، الأستاذ الفخري في جامعة براون، في 15 من الشهر إن إدخال ما يسمى «ضريبة الذكاء الاصطناعي» على المكاسب الاقتصادية التي يخلقها الذكاء الاصطناعي هو إجراء «راديكالي للغاية». وطرح هاويت، وهو اقتصادي أمريكي، موقفا حذرا وسط نقاشات السياسات حول زيادة الإنتاجية الناتجة عن انتشار الذكاء الاصطناعي وكيفية توزيع المنافع الاقتصادية المرتبطة بها. كما أشار إلى أن جمع الضرائب من أرباح الذكاء الاصطناعي وتوزيعها كأرباح على المواطنين لا يزال سابقا لأوانه. وجاءت تصريحاته مع اتساع الجدل حول تأثير تطور الذكاء الاصطناعي في سوق العمل وتوزيع الدخل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "नोबेल विजेता हॉविट बोले, AI टैक्स ‘बहुत कट्टर’; नागरिक लाभांश अभी जल्दबाजी",
+        "excerpt": "ब्राउन यूनिवर्सिटी के एमेरिटस प्रोफेसर पीटर हॉविट ने 15 तारीख को कहा कि AI से बने आर्थिक लाभ पर कर लगाना बहुत कट्टर है और नागरिक लाभांश पर चर्चा अभी समय से पहले है।",
+        "body": "ब्राउन यूनिवर्सिटी के एमेरिटस प्रोफेसर पीटर हॉविट ने 15 तारीख को कहा कि कृत्रिम बुद्धिमत्ता यानी AI से पैदा हुए आर्थिक लाभ पर तथाकथित “AI टैक्स” लगाना “बहुत कट्टर” कदम होगा। अमेरिकी अर्थशास्त्री हॉविट ने AI के प्रसार से उत्पादकता में बढ़ोतरी और उससे बने आर्थिक लाभ के वितरण पर चल रही नीतिगत बहस में सतर्क रुख रखा। उन्होंने यह भी संकेत दिया कि AI से बने लाभ को कर के रूप में लेकर नागरिकों को लाभांश देने का तरीका अभी समय से पहले है। यह टिप्पणी ऐसे समय आई है जब AI तकनीक के श्रम बाजार और आय वितरण पर असर को लेकर बहस तेज हो रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Peraih Nobel Howitt: Pajak AI “Terlalu Radikal”, Dividen Warga Masih Terlalu Dini",
+        "excerpt": "Profesor emeritus Brown University Peter Howitt pada tanggal 15 mengatakan pajak atas keuntungan ekonomi dari AI terlalu radikal dan dividen warga masih terlalu dini.",
+        "body": "Peter Howitt, profesor emeritus di Brown University, pada tanggal 15 mengatakan bahwa penerapan apa yang disebut “pajak AI” atas keuntungan ekonomi yang diciptakan oleh kecerdasan buatan adalah langkah yang “terlalu radikal”. Howitt, seorang ekonom Amerika Serikat, menyampaikan pandangan hati-hati dalam perdebatan kebijakan mengenai peningkatan produktivitas akibat penyebaran AI dan pembagian manfaat ekonominya. Ia juga menilai bahwa menarik pajak dari keuntungan yang muncul karena AI lalu membagikannya sebagai dividen kepada warga masih terlalu dini. Pernyataan ini muncul ketika perdebatan tentang dampak kemajuan AI terhadap pasar tenaga kerja dan distribusi pendapatan semakin berkembang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ef2658c8a9af",
+    "slug": "다시-봤다-철근美-데이터센터-뼈대로-화려한-부활-884165",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-15T12:07:42.955Z",
+    "updatedAt": "2026-05-15T12:07:42.956Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049370",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049370",
+    "titleFingerprint": "56b5fabb54e2e63a83bd9159eb55d3e7524035bb",
+    "dedupKeys": [
+      "ef2658c8a9af0fb6b2bacf63a5119f356222a6eb",
+      "56b5fabb54e2e63a83bd9159eb55d3e7524035bb",
+      "24128bb8f2ca172b20dffac47fed6029c9f66d19"
+    ],
+    "imageUrl": "/images/articles/ef2658c8a9af.jpg",
+    "i18n": {
+      "ko": {
+        "title": "철근 수출 부활, 한국 철강업계 미국 데이터센터 붐 타고 반등",
+        "excerpt": "한국 철강업계가 50% 관세 장벽에도 미국 인프라 투자와 AI 데이터센터 건설 확대에 힘입어 10여 년 만의 최대 대미 수출 실적을 기록했다.",
+        "body": "한국 철강업계가 50% 관세 장벽을 넘어 미국 시장에서 10여 년 만에 최대 수출 실적을 냈다. 미국의 대규모 인프라 투자와 인공지능(AI) 확산에 따른 데이터센터 건설 붐이 맞물리며 철근 수요가 다시 부각된 결과다. 철근은 데이터센터의 뼈대를 세우는 핵심 자재로 쓰이며, 한국 철강 제품의 미국 내 존재감을 키우는 요인으로 거론된다. 높은 관세에도 수출이 확대된 배경에는 미국 내 건설 수요 증가가 있다. 업계에는 인프라와 데이터센터 투자가 이어지는 동안 철근 수출 흐름이 유지될지에 관심이 쏠린다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Rebar Exports Revive as Korean Steel Rides U.S. Data Center Boom",
+        "excerpt": "Korean steelmakers recorded their strongest U.S. export performance in more than a decade despite 50% tariffs, helped by U.S. infrastructure spending and AI-driven data center construction.",
+        "body": "Korean steelmakers have overcome a 50% tariff barrier to post their strongest export performance to the U.S. market in more than a decade. The rebound came as large-scale U.S. infrastructure investment coincided with a construction boom for data centers linked to the spread of artificial intelligence. Rebar, used as a core structural material for data center frames, is again drawing attention as demand rises. The increase in exports despite high tariffs reflects stronger U.S. construction demand. The industry is now watching whether rebar export momentum can continue as infrastructure and data center investment proceeds. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "鉄筋輸出が復活、韓国鉄鋼業界が米データセンター需要で反騰",
+        "excerpt": "韓国鉄鋼業界は50%の関税障壁にもかかわらず、米国のインフラ投資とAIデータセンター建設拡大を追い風に、約10年ぶりの対米輸出最高水準を記録した。",
+        "body": "韓国鉄鋼業界が50%の関税障壁を越え、米国市場で約10年ぶりとなる最大規模の輸出実績を上げた。米国の大規模インフラ投資と、人工知能（AI）の普及に伴うデータセンター建設ブームが重なり、鉄筋需要が改めて注目されたためだ。鉄筋はデータセンターの骨組みを支える主要資材として使われ、韓国鉄鋼製品の米国内での存在感を高める要因とされる。高い関税にも輸出が伸びた背景には、米国内の建設需要拡大がある。業界では、インフラとデータセンター投資が続く間、鉄筋輸出の流れが維持されるかに関心が集まっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "钢筋出口回暖，韩国钢铁借美国数据中心热潮反弹",
+        "excerpt": "韩国钢铁业在50%关税壁垒下，仍受美国基础设施投资和AI数据中心建设扩张推动，创下十多年来对美出口最高成绩。",
+        "body": "韩国钢铁业突破50%的关税壁垒，在美国市场取得十多年来最大出口业绩。美国大规模基础设施投资与人工智能（AI）扩散带来的数据中心建设热潮相互叠加，使钢筋需求重新受到关注。钢筋被用于搭建数据中心骨架，是关键结构材料，也被视为提升韩国钢铁产品在美国存在感的因素。尽管面临高关税，出口仍扩大，背景在于美国国内建筑需求增长。业内正关注，在基础设施和数据中心投资持续推进期间，钢筋出口势头能否维持。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El acero corrugado coreano revive con el auge de centros de datos en EE. UU.",
+        "excerpt": "La siderurgia surcoreana logró su mayor exportación a EE. UU. en más de una década pese a aranceles del 50%, impulsada por infraestructura y centros de datos ligados a la IA.",
+        "body": "La industria siderúrgica surcoreana superó una barrera arancelaria del 50% y registró en el mercado estadounidense su mejor desempeño exportador en más de una década. El repunte se produjo por la combinación de grandes inversiones en infraestructura en Estados Unidos y el auge de construcción de centros de datos asociado a la expansión de la inteligencia artificial. El acero corrugado, usado como material estructural clave en el armazón de estos centros, vuelve a ganar protagonismo. El aumento de exportaciones pese a los altos aranceles refleja una mayor demanda de construcción en EE. UU. El sector observa si este flujo podrá mantenerse mientras continúen las inversiones en infraestructura y centros de datos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Vergalhão coreano volta a crescer com boom de data centers nos EUA",
+        "excerpt": "A siderurgia sul-coreana teve o maior desempenho de exportação aos EUA em mais de uma década, apesar de tarifas de 50%, apoiada por infraestrutura e data centers ligados à IA.",
+        "body": "A indústria siderúrgica sul-coreana superou uma barreira tarifária de 50% e registrou no mercado dos Estados Unidos seu maior resultado de exportação em mais de uma década. A recuperação ocorreu com a combinação de grandes investimentos em infraestrutura nos EUA e o boom de construção de data centers ligado à expansão da inteligência artificial. O vergalhão, usado como material estrutural essencial na armação desses centros, voltou a ganhar destaque. O aumento das exportações apesar das tarifas elevadas reflete a maior demanda de construção nos EUA. O setor acompanha se esse fluxo de exportação poderá se manter enquanto prosseguirem os investimentos em infraestrutura e data centers. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Bewehrungsstahl aus Korea belebt sich durch US-Datenzentrumsboom",
+        "excerpt": "Koreas Stahlbranche erzielte trotz 50% Zöllen das stärkste US-Exportresultat seit mehr als zehn Jahren, gestützt durch Infrastrukturinvestitionen und KI-Datenzentren.",
+        "body": "Die südkoreanische Stahlindustrie hat trotz einer Zollbarriere von 50% im US-Markt ihr stärkstes Exportergebnis seit mehr als einem Jahrzehnt erzielt. Ausschlaggebend war das Zusammentreffen großer Infrastrukturinvestitionen in den USA mit einem Bauboom bei Datenzentren, der durch die Verbreitung künstlicher Intelligenz ausgelöst wurde. Bewehrungsstahl wird als zentrales Strukturmaterial für die Rahmen dieser Datenzentren eingesetzt und rückt dadurch wieder stärker in den Fokus. Dass die Exporte trotz hoher Zölle zunahmen, verweist auf die wachsende Baunachfrage in den USA. Die Branche beobachtet nun, ob der Exporttrend anhält, solange Investitionen in Infrastruktur und Datenzentren weiterlaufen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’acier d’armature coréen rebondit avec le boom des data centers aux États-Unis",
+        "excerpt": "La sidérurgie sud-coréenne a signé ses meilleures exportations vers les États-Unis en plus de dix ans malgré des droits de 50%, portée par les infrastructures et les data centers liés à l’IA.",
+        "body": "La sidérurgie sud-coréenne a franchi une barrière tarifaire de 50% et enregistré sur le marché américain sa meilleure performance à l’exportation depuis plus de dix ans. Ce rebond s’explique par la combinaison de grands investissements d’infrastructure aux États-Unis et du boom de construction de centres de données lié à l’essor de l’intelligence artificielle. L’acier d’armature, utilisé comme matériau structurel essentiel pour l’ossature de ces centres, retrouve ainsi une place centrale. La progression des exportations malgré des droits élevés reflète la hausse de la demande de construction aux États-Unis. Le secteur observe désormais si cette dynamique pourra se maintenir avec la poursuite des investissements dans les infrastructures et les data centers. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "حديد التسليح الكوري ينتعش مع طفرة مراكز البيانات في الولايات المتحدة",
+        "excerpt": "سجلت صناعة الصلب الكورية أكبر صادراتها إلى الولايات المتحدة منذ أكثر من عقد رغم رسوم 50%، بدعم من استثمارات البنية التحتية وبناء مراكز بيانات مرتبطة بالذكاء الاصطناعي.",
+        "body": "تمكنت صناعة الصلب الكورية من تجاوز حاجز الرسوم الجمركية البالغ 50% لتسجل في السوق الأمريكية أكبر أداء تصديري لها منذ أكثر من عشر سنوات. وجاء هذا الانتعاش مع تلاقي الاستثمارات الضخمة في البنية التحتية الأمريكية مع طفرة بناء مراكز البيانات الناتجة عن انتشار الذكاء الاصطناعي. ويستخدم حديد التسليح مادة أساسية في الهياكل التي تقوم عليها مراكز البيانات، ما أعاد تسليط الضوء على الطلب عليه. ويعكس نمو الصادرات رغم الرسوم المرتفعة زيادة الطلب على البناء داخل الولايات المتحدة. وتتابع الصناعة ما إذا كان زخم صادرات حديد التسليح سيستمر مع تواصل الاستثمار في البنية التحتية ومراكز البيانات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिकी डेटा सेंटर उछाल से कोरियाई सरिया निर्यात में वापसी",
+        "excerpt": "कोरियाई इस्पात उद्योग ने 50% शुल्क बाधा के बावजूद अमेरिका को एक दशक से अधिक समय का सबसे बड़ा निर्यात दर्ज किया, जिसे बुनियादी ढांचे और AI डेटा सेंटर निर्माण ने सहारा दिया।",
+        "body": "कोरियाई इस्पात उद्योग ने 50% शुल्क बाधा को पार करते हुए अमेरिकी बाजार में एक दशक से अधिक समय का सबसे बड़ा निर्यात प्रदर्शन दर्ज किया। यह सुधार अमेरिका में बड़े पैमाने के बुनियादी ढांचा निवेश और कृत्रिम बुद्धिमत्ता के प्रसार से जुड़े डेटा सेंटर निर्माण उछाल के साथ आया। सरिया डेटा सेंटर के ढांचे को खड़ा करने वाली प्रमुख संरचनात्मक सामग्री के रूप में इस्तेमाल होता है, इसलिए इसकी मांग फिर प्रमुखता से सामने आई है। ऊंचे शुल्क के बावजूद निर्यात बढ़ने की पृष्ठभूमि में अमेरिका की निर्माण मांग में वृद्धि है। उद्योग अब देख रहा है कि बुनियादी ढांचे और डेटा सेंटर निवेश जारी रहने तक सरिया निर्यात की यह गति बनी रहती है या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Ekspor Besi Beton Korea Bangkit Berkat Boom Data Center AS",
+        "excerpt": "Industri baja Korea mencatat ekspor terbesar ke AS dalam lebih dari satu dekade meski tarif 50%, didorong investasi infrastruktur dan pembangunan data center terkait AI.",
+        "body": "Industri baja Korea menembus hambatan tarif 50% dan mencatat kinerja ekspor terbesar ke pasar Amerika Serikat dalam lebih dari satu dekade. Pemulihan ini terjadi saat investasi infrastruktur besar-besaran di AS bertemu dengan boom pembangunan data center yang dipicu penyebaran kecerdasan buatan. Besi beton digunakan sebagai material struktural utama untuk rangka data center, sehingga permintaannya kembali mendapat perhatian. Kenaikan ekspor meski tarif tinggi mencerminkan meningkatnya kebutuhan konstruksi di AS. Pelaku industri kini mencermati apakah arus ekspor besi beton dapat bertahan selama investasi infrastruktur dan data center terus berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "c41d9945ef41",
     "slug": "영업익-200조-300조-아니냐총파업-앞둔-삼전-노조-고용부-장관-만나-면담-924434",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Howard Marks Sebut Investasi AI “Lotere”, Peringatkan Imbal Hasil di KIW 2026",
         "excerpt": "Howard Marks dari Oaktree Capital, yang dikenal memprediksi gelembung dotcom, mengatakan pada 14 Mei di KIW 2026 bahwa investasi di perusahaan AI tidak menjamin imbal hasil.",
         "body": "Howard Marks, ketua Oaktree Capital dan veteran Wall Street yang dikenal memprediksi gelembung dotcom, mengatakan pada 14 Mei di Korea Investment Week (KIW) 2026 di The Shilla Seoul bahwa investasi di perusahaan AI seperti membeli “lotere” dan imbal hasilnya tidak bisa dijamin. Ia menilai IPO yang direncanakan pada paruh kedua tahun ini oleh nama besar AI seperti OpenAI dan Anthropic dapat menjadi petunjuk arah gelembung AI. Marks mengakui potensi besar AI, tetapi menekankan bahwa investasi pada perusahaan AI murni tetap bersifat spekulatif karena ketidakpastian yang tinggi. Ia menambahkan, jika hyperscaler seperti Amazon dan Microsoft makin sengit berebut kepemimpinan AI dan menurunkan harga, bahkan pasar dengan pemenang dominan pun belum tentu menghasilkan laba besar. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "e22574a8a384",
-    "slug": "한국공항-1분기-영업익-196억원전년비-3551-증가-598445",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T20:27:01.013Z",
-    "updatedAt": "2026-05-14T20:27:01.013Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051464386",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051464386",
-    "titleFingerprint": "10b70aed562fd8d304a0729742bed3f06c1764ed",
-    "dedupKeys": [
-      "e22574a8a38481b9e5f77b0cf88438601fa3f8f2",
-      "10b70aed562fd8d304a0729742bed3f06c1764ed",
-      "50a22c78391dc49d76fd4ef75d65d8ef36d7ec68"
-    ],
-    "imageUrl": "/images/articles/e22574a8a384.png",
-    "i18n": {
-      "ko": {
-        "title": "한국공항 1분기 영업이익 196억원, 전년 대비 35.51% 증가",
-        "excerpt": "한국공항은 1분기 영업이익이 196억원으로 전년 동기 대비 35.51% 증가했다고 밝혔다. 항공 관련 실적 흐름을 확인할 핵심 분기 수치다.",
-        "body": "한국공항은 1분기 영업이익이 196억원을 기록해 전년 동기 대비 35.51% 증가했다고 밝혔다. 이번 실적은 회사의 분기 수익성이 지난해 같은 기간보다 개선됐음을 보여주는 수치다. 원문에서 공개된 핵심 정보는 1분기 영업이익 규모와 전년 대비 증가율이며, 매출이나 순이익 등 다른 세부 항목은 제시되지 않았다. 투자자와 시장은 한국공항의 항공 관련 사업 흐름을 가늠하는 지표로 이번 영업이익 증가 폭을 참고할 수 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Korea Airport Q1 Operating Profit Rises 35.51% to 19.6 Billion Won",
-        "excerpt": "Korea Airport reported first-quarter operating profit of 19.6 billion won, up 35.51% from a year earlier, highlighting improved quarterly profitability.",
-        "body": "Korea Airport said its first-quarter operating profit reached 19.6 billion won, an increase of 35.51% from the same period a year earlier. The figure shows that the company’s quarterly profitability improved compared with last year. The original report provided the operating profit amount and year-on-year growth rate, while other details such as revenue or net income were not included. Investors and market watchers may use the increase as a key indicator when reviewing Korea Airport’s aviation-related business performance. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "韓国空港、1四半期営業利益196億ウォン 前年比35.51％増",
-        "excerpt": "韓国空港は第1四半期の営業利益が196億ウォンとなり、前年同期比35.51％増加したと明らかにした。収益性改善を示す四半期指標だ。",
-        "body": "韓国空港は第1四半期の営業利益が196億ウォンを記録し、前年同期比で35.51％増加したと発表した。今回の数値は、同社の四半期収益性が前年の同じ期間より改善したことを示している。原文で示された主な情報は、第1四半期の営業利益額と前年同期比の増加率であり、売上高や純利益などの追加項目は提示されていない。投資家や市場関係者は、韓国空港の航空関連事業の流れを確認する指標として今回の営業利益増加を参考にできる。出所: hankyung.com."
-      },
-      "zh": {
-        "title": "韩国机场一季度营业利润196亿韩元 同比增长35.51%",
-        "excerpt": "韩国机场公布一季度营业利润为196亿韩元，较上年同期增长35.51%。该数据反映公司季度盈利能力较去年同期有所改善。",
-        "body": "韩国机场表示，一季度营业利润达到196亿韩元，较上年同期增长35.51%。这一业绩显示，公司季度盈利能力相比去年同期有所改善。原文披露的核心信息为一季度营业利润规模及同比增幅，未提供营收、净利润等其他细分项目。投资者和市场人士可将此次营业利润增长幅度作为观察韩国机场航空相关业务表现的参考指标。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Korea Airport eleva su beneficio operativo trimestral un 35,51%",
-        "excerpt": "Korea Airport informó que su beneficio operativo del primer trimestre fue de 19.600 millones de wones, un 35,51% más interanual, reflejando mayor rentabilidad.",
-        "body": "Korea Airport informó que su beneficio operativo del primer trimestre alcanzó 19.600 millones de wones, un aumento del 35,51% frente al mismo periodo del año anterior. La cifra muestra una mejora de la rentabilidad trimestral de la compañía respecto al año pasado. La información principal publicada en el texto original se limita al monto del beneficio operativo y a la tasa de crecimiento interanual; no se incluyeron datos de ingresos, beneficio neto u otros rubros. Inversores y analistas pueden usar este aumento como referencia para evaluar el desempeño del negocio vinculado a la aviación de Korea Airport. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Korea Airport tem lucro operacional trimestral de 19,6 bi de wones",
-        "excerpt": "A Korea Airport informou lucro operacional de 19,6 bilhões de wones no primeiro trimestre, alta de 35,51% ante um ano antes, sinalizando melhor rentabilidade.",
-        "body": "A Korea Airport informou que seu lucro operacional do primeiro trimestre chegou a 19,6 bilhões de wones, avanço de 35,51% em relação ao mesmo período do ano anterior. O dado mostra que a rentabilidade trimestral da companhia melhorou frente ao ano passado. As informações centrais divulgadas no texto original são o valor do lucro operacional e a taxa de crescimento anual, sem detalhes adicionais sobre receita, lucro líquido ou outros itens. Investidores e participantes do mercado podem usar esse aumento como referência para acompanhar o desempenho dos negócios ligados à aviação da Korea Airport. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Korea Airport steigert operativen Gewinn im Q1 um 35,51 Prozent",
-        "excerpt": "Korea Airport meldete für das erste Quartal einen operativen Gewinn von 19,6 Mrd. Won, 35,51% mehr als im Vorjahr, und zeigt damit höhere Profitabilität.",
-        "body": "Korea Airport teilte mit, dass der operative Gewinn im ersten Quartal 19,6 Milliarden Won erreichte, ein Plus von 35,51% gegenüber dem Vorjahreszeitraum. Die Zahl zeigt, dass sich die vierteljährliche Profitabilität des Unternehmens im Vergleich zum Vorjahr verbessert hat. Der ursprüngliche Bericht nannte als Kerninformationen den operativen Gewinn und die jährliche Wachstumsrate; Angaben zu Umsatz, Nettogewinn oder weiteren Kennzahlen wurden nicht gemacht. Investoren und Marktbeobachter können den Anstieg als Hinweis auf die Entwicklung des luftfahrtbezogenen Geschäfts von Korea Airport heranziehen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Korea Airport: bénéfice opérationnel trimestriel en hausse de 35,51%",
-        "excerpt": "Korea Airport a annoncé un bénéfice opérationnel de 19,6 milliards de wons au premier trimestre, en hausse de 35,51% sur un an, signe d’une rentabilité accrue.",
-        "body": "Korea Airport a indiqué que son bénéfice opérationnel du premier trimestre avait atteint 19,6 milliards de wons, soit une hausse de 35,51% par rapport à la même période de l’an dernier. Ce chiffre montre une amélioration de la rentabilité trimestrielle de l’entreprise. Le rapport original présente comme informations principales le montant du bénéfice opérationnel et le taux de croissance annuel; il ne donne pas de détails sur le chiffre d’affaires, le résultat net ou d’autres postes. Les investisseurs et observateurs du marché peuvent utiliser cette progression pour suivre la performance des activités liées à l’aviation de Korea Airport. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "كوريا إيربورت تسجل ربحا تشغيليا فصليا بـ19.6 مليار وون",
-        "excerpt": "أعلنت كوريا إيربورت أن ربحها التشغيلي في الربع الأول بلغ 19.6 مليار وون، بزيادة 35.51% على أساس سنوي، ما يعكس تحسن الربحية الفصلية.",
-        "body": "قالت كوريا إيربورت إن ربحها التشغيلي في الربع الأول بلغ 19.6 مليار وون، مرتفعا بنسبة 35.51% مقارنة بالفترة نفسها من العام السابق. ويظهر هذا الرقم أن ربحية الشركة الفصلية تحسنت قياسا بالعام الماضي. المعلومات الأساسية الواردة في النص الأصلي تقتصر على حجم الربح التشغيلي في الربع الأول ونسبة الزيادة السنوية، من دون ذكر تفاصيل عن الإيرادات أو صافي الربح أو بنود أخرى. ويمكن للمستثمرين ومتابعي السوق استخدام هذا الارتفاع كمؤشر عند تقييم أداء أنشطة كوريا إيربورت المرتبطة بالطيران. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Korea Airport का Q1 परिचालन लाभ 35.51% बढ़कर 19.6 अरब वोन",
-        "excerpt": "Korea Airport ने पहली तिमाही में 19.6 अरब वोन का परिचालन लाभ दर्ज किया, जो सालाना आधार पर 35.51% अधिक है और तिमाही लाभप्रदता में सुधार दिखाता है।",
-        "body": "Korea Airport ने बताया कि पहली तिमाही में उसका परिचालन लाभ 19.6 अरब वोन रहा, जो पिछले वर्ष की समान अवधि से 35.51% अधिक है। यह आंकड़ा दिखाता है कि कंपनी की तिमाही लाभप्रदता पिछले साल की तुलना में सुधरी है। मूल रिपोर्ट में मुख्य रूप से पहली तिमाही के परिचालन लाभ की राशि और सालाना वृद्धि दर दी गई है; राजस्व, शुद्ध लाभ या अन्य मदों का विवरण शामिल नहीं था। निवेशक और बाजार पर्यवेक्षक Korea Airport के विमानन-संबंधित कारोबार के प्रदर्शन को समझने के लिए इस बढ़ोतरी को संदर्भ संकेतक के रूप में देख सकते हैं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Korea Airport Cetak Laba Operasi Kuartal I Naik 35,51%",
-        "excerpt": "Korea Airport melaporkan laba operasi kuartal I sebesar 19,6 miliar won, naik 35,51% dibanding tahun sebelumnya, menunjukkan perbaikan profitabilitas kuartalan.",
-        "body": "Korea Airport menyatakan laba operasi kuartal pertama mencapai 19,6 miliar won, naik 35,51% dibanding periode yang sama tahun sebelumnya. Angka ini menunjukkan profitabilitas kuartalan perusahaan membaik dibanding tahun lalu. Informasi utama dalam laporan asli adalah besaran laba operasi kuartal pertama dan tingkat kenaikan tahunan, sementara rincian lain seperti pendapatan atau laba bersih tidak disampaikan. Investor dan pelaku pasar dapat menggunakan kenaikan laba operasi ini sebagai acuan untuk melihat kinerja bisnis Korea Airport yang terkait dengan sektor penerbangan. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "f78cbb3d1bdc",
-    "slug": "속보-코스피-사상-최고치-798141-마감팔천피-가시권-496077",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T20:26:07.912Z",
-    "updatedAt": "2026-05-14T20:26:07.912Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051467336",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051467336",
-    "titleFingerprint": "a42e1316b329213c0ee82ce12fafd8e35e16f461",
-    "dedupKeys": [
-      "f78cbb3d1bdc38202962b75ee07ebcda243dac69",
-      "a42e1316b329213c0ee82ce12fafd8e35e16f461",
-      "bee2d51998c8a2b2080bebe26f24a6d999e55f59"
-    ],
-    "imageUrl": "/images/articles/f78cbb3d1bdc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7981.41 사상 최고 마감, ‘팔천피’ 가시권 진입",
-        "excerpt": "한국경제에 따르면 코스피가 사상 최고치인 7981.41로 마감하며 8000선에 바짝 다가섰다. 국내 증시의 새 고점 기록과 ‘팔천피’ 진입 가능성이 주목된다.",
-        "body": "코스피가 사상 최고치로 장을 마쳤다. 한국경제 보도에 따르면 코스피는 7981.41에 마감하며 역대 최고 마감 기록을 새로 썼다. 지수는 8000선까지 불과 18.59포인트를 남기면서 이른바 ‘팔천피’가 가시권에 들어왔다. 이번 마감가는 국내 주식시장의 고점 경신 흐름을 보여주는 핵심 수치로, 투자자들의 관심은 코스피가 실제로 8000선을 넘어설 수 있을지에 모이고 있다. 다만 원문에는 상승률, 수급 주체, 업종별 등락 등 추가 세부 정보는 제시되지 않았다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "KOSPI Closes at Record 7,981.41 as 8,000 Level Comes Into View",
-        "excerpt": "According to Hankyung, the KOSPI closed at a record 7,981.41, moving close to the 8,000 mark. The new high has put attention on whether the index can enter the so-called 8,000 era.",
-        "body": "The KOSPI ended the session at an all-time closing high. According to Hankyung, the index finished at 7,981.41, setting a new record close. The figure leaves the benchmark only 18.59 points below the 8,000 threshold, bringing the so-called “8,000 KOSPI” into view. The closing level is the central figure in the report and marks a fresh high for South Korea’s stock market. Investor attention is therefore focused on whether the KOSPI can actually move beyond 8,000. The original report did not provide additional details such as the daily gain, investor flows, or sector-by-sector performance. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "KOSPIが7981.41で史上最高値引け、8000台入りが視野に",
-        "excerpt": "韓国経済新聞によると、KOSPIは史上最高値の7981.41で取引を終え、8000の大台に接近した。新高値更新と8000台入りの可能性に関心が集まっている。",
-        "body": "KOSPIが史上最高値で取引を終えた。韓国経済新聞の報道によると、KOSPIは7981.41で引け、終値として過去最高を更新した。指数は8000まであと18.59ポイントに迫り、いわゆる「8000 KOSPI」が視野に入った。今回の終値は韓国株式市場の高値更新を示す中心的な数値であり、市場の関心はKOSPIが実際に8000を突破できるかに向かっている。ただし、原文では上昇率、投資主体別の需給、業種別騰落などの追加情報は示されていない。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "KOSPI收于7981.41创历史新高，8000点关口进入视野",
-        "excerpt": "据韩国经济新闻报道，KOSPI以7981.41点创历史最高收盘纪录，距离8000点仅一步之遥。市场关注该指数能否进入所谓“八千点时代”。",
-        "body": "KOSPI以历史最高水平收盘。据韩国经济新闻报道，KOSPI收于7981.41点，刷新历史最高收盘纪录。该指数距离8000点关口仅差18.59点，所谓“八千点KOSPI”已进入视野。这一收盘点位是报道中的核心数据，也显示韩国股市再度改写高点纪录。投资者关注的焦点因此转向KOSPI能否真正突破8000点。不过，原文未提供当日涨幅、资金流向主体或行业涨跌等更多细节。来源: hankyung.com."
-      },
-      "es": {
-        "title": "KOSPI cierra en récord de 7.981,41 y deja el nivel de 8.000 a la vista",
-        "excerpt": "Según Hankyung, el KOSPI cerró en un máximo histórico de 7.981,41 puntos y quedó muy cerca de los 8.000. El nuevo récord centra la atención en una posible entrada a ese nivel.",
-        "body": "El KOSPI cerró la jornada en un máximo histórico. Según Hankyung, el índice terminó en 7.981,41 puntos, estableciendo un nuevo récord de cierre. La cifra deja al principal indicador bursátil surcoreano a solo 18,59 puntos del umbral de 8.000, por lo que el llamado “KOSPI de 8.000” entra en el radar del mercado. Este cierre es el dato central del reporte y marca una nueva referencia para la bolsa de Corea del Sur. La atención de los inversores se dirige ahora a si el KOSPI podrá superar efectivamente los 8.000 puntos. El texto original no incluyó datos adicionales sobre variación diaria, flujos por tipo de inversor o desempeño sectorial. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "KOSPI fecha em recorde de 7.981,41 e deixa marca de 8.000 no radar",
-        "excerpt": "Segundo o Hankyung, o KOSPI fechou em máxima histórica de 7.981,41 pontos, aproximando-se dos 8.000. O novo recorde destaca a possibilidade de entrada nesse patamar.",
-        "body": "O KOSPI encerrou o pregão em uma máxima histórica. Segundo o Hankyung, o índice fechou em 7.981,41 pontos, renovando o recorde de fechamento. O nível deixa o principal índice acionário sul-coreano apenas 18,59 pontos abaixo da marca de 8.000, colocando o chamado “KOSPI de 8.000” no campo de visão do mercado. Esse fechamento é o principal dado do relato e representa um novo topo para a bolsa da Coreia do Sul. A atenção dos investidores se volta agora para a possibilidade de o KOSPI ultrapassar de fato os 8.000 pontos. O texto original não trouxe detalhes adicionais sobre variação diária, fluxo de investidores ou desempenho por setor. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "KOSPI schließt mit Rekord von 7.981,41, Marke von 8.000 rückt näher",
-        "excerpt": "Laut Hankyung schloss der KOSPI auf einem Rekordstand von 7.981,41 Punkten und näherte sich damit der Marke von 8.000. Der neue Höchststand lenkt den Blick auf einen möglichen Durchbruch.",
-        "body": "Der KOSPI hat die Sitzung auf einem historischen Schlussrekord beendet. Laut Hankyung schloss der Index bei 7.981,41 Punkten und markierte damit ein neues Rekordniveau. Bis zur Marke von 8.000 fehlen nur noch 18,59 Punkte, wodurch der sogenannte „8.000er-KOSPI“ in Sichtweite rückt. Dieser Schlussstand ist die zentrale Kennzahl des Berichts und steht für einen neuen Höchststand am südkoreanischen Aktienmarkt. Die Aufmerksamkeit der Anleger richtet sich nun darauf, ob der KOSPI die 8.000-Punkte-Marke tatsächlich überschreiten kann. Der Originalbericht enthielt keine weiteren Angaben zu Tagesveränderung, Anlegerströmen oder Branchenbewegungen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Le KOSPI clôture à un record de 7 981,41, le seuil des 8 000 en vue",
-        "excerpt": "Selon Hankyung, le KOSPI a clôturé à un record historique de 7 981,41 points, tout près du seuil de 8 000. Ce nouveau sommet place un éventuel franchissement au centre de l’attention.",
-        "body": "Le KOSPI a terminé la séance sur un plus haut historique de clôture. Selon Hankyung, l’indice a fini à 7 981,41 points, établissant un nouveau record. Ce niveau ne se situe plus qu’à 18,59 points du seuil de 8 000, ce qui place le « KOSPI à 8 000 » dans le champ des attentes du marché. Cette clôture constitue le chiffre central de l’information et marque un nouveau sommet pour la Bourse sud-coréenne. L’attention des investisseurs se porte désormais sur la capacité du KOSPI à franchir effectivement les 8 000 points. Le texte original ne fournit pas d’autres détails sur la variation quotidienne, les flux d’investisseurs ou les performances sectorielles. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "كوسبي يغلق عند مستوى قياسي 7981.41 مع اقتراب حاجز 8000 نقطة",
-        "excerpt": "بحسب هانكيونغ، أغلق مؤشر كوسبي عند مستوى قياسي بلغ 7981.41 نقطة، مقتربا من حاجز 8000 نقطة. ويركز السوق على احتمال دخول المؤشر نطاق الثمانية آلاف.",
-        "body": "أنهى مؤشر كوسبي الجلسة عند أعلى مستوى إغلاق في تاريخه. وبحسب تقرير هانكيونغ، أغلق المؤشر عند 7981.41 نقطة، مسجلا رقما قياسيا جديدا للإغلاق. ويفصل المؤشر عن حاجز 8000 نقطة 18.59 نقطة فقط، ما يجعل ما يسمى «كوسبي عند 8000» في نطاق الرؤية. هذا المستوى الختامي هو الرقم الأساسي في التقرير ويمثل قمة جديدة لسوق الأسهم الكورية الجنوبية. لذلك يتجه اهتمام المستثمرين إلى ما إذا كان كوسبي سيتمكن فعليا من تجاوز مستوى 8000 نقطة. ولم يورد النص الأصلي تفاصيل إضافية مثل نسبة الارتفاع اليومية أو تدفقات المستثمرين أو أداء القطاعات. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "KOSPI 7,981.41 के रिकॉर्ड बंद स्तर पर, 8,000 का स्तर अब करीब",
-        "excerpt": "Hankyung के अनुसार, KOSPI 7,981.41 के ऐतिहासिक उच्च बंद स्तर पर पहुंचा और 8,000 अंक के करीब आ गया। नए रिकॉर्ड के बाद बाजार की नजर संभावित 8,000 स्तर पर है।",
-        "body": "KOSPI ने सत्र का समापन अपने ऐतिहासिक उच्च बंद स्तर पर किया। Hankyung की रिपोर्ट के अनुसार, सूचकांक 7,981.41 पर बंद हुआ और नया रिकॉर्ड क्लोज दर्ज किया। यह स्तर 8,000 अंक से केवल 18.59 अंक दूर है, जिससे तथाकथित “8,000 KOSPI” अब नजर में आ गया है। यह बंद स्तर रिपोर्ट का मुख्य आंकड़ा है और दक्षिण कोरिया के शेयर बाजार के लिए नए उच्च स्तर को दर्शाता है। निवेशकों का ध्यान अब इस बात पर है कि KOSPI वास्तव में 8,000 अंक को पार कर पाएगा या नहीं। मूल रिपोर्ट में दैनिक बढ़त, निवेशक प्रवाह या सेक्टरवार प्रदर्शन जैसी अतिरिक्त जानकारी नहीं दी गई। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "KOSPI Ditutup Rekor 7.981,41, Level 8.000 Kini Masuk Jangkauan",
-        "excerpt": "Menurut Hankyung, KOSPI ditutup pada rekor tertinggi 7.981,41 dan semakin dekat ke level 8.000. Rekor baru ini membuat perhatian pasar tertuju pada peluang menembus level tersebut.",
-        "body": "KOSPI menutup sesi perdagangan pada level penutupan tertinggi sepanjang sejarah. Menurut Hankyung, indeks berakhir di 7.981,41, mencetak rekor penutupan baru. Angka itu hanya berjarak 18,59 poin dari ambang 8.000, sehingga istilah “KOSPI 8.000” kini masuk dalam jangkauan pasar. Level penutupan ini menjadi data utama dalam laporan tersebut dan menunjukkan pencapaian puncak baru bagi pasar saham Korea Selatan. Perhatian investor kini tertuju pada apakah KOSPI benar-benar dapat melewati level 8.000. Laporan asli tidak memuat rincian tambahan seperti kenaikan harian, arus investor, atau pergerakan berdasarkan sektor. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "99e8ba6250ec",
-    "slug": "나스닥은-고작-10-올랐는데60-수익률-낸-액티브-etf-비결은-874041",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-14T20:25:01.596Z",
-    "updatedAt": "2026-05-14T20:25:01.596Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605146191i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605146191i",
-    "titleFingerprint": "092a78233027187c3acbb6dfb2d8188c511f67df",
-    "dedupKeys": [
-      "99e8ba6250ecf266998fbe7a0bd0944402c17e2f",
-      "092a78233027187c3acbb6dfb2d8188c511f67df",
-      "93eb4835ed5d8d578f007b9e8bb5723bafc1ed2c"
-    ],
-    "imageUrl": "/images/articles/99e8ba6250ec.jpg",
-    "i18n": {
-      "ko": {
-        "title": "나스닥 액티브 ETF 60%대 수익률, 나스닥100 16.51% 앞선 배경",
-        "excerpt": "2026년 5월 14일 ETF체크에 따르면 KoAct·TIME 나스닥 액티브 ETF가 AI 인프라주 비중 확대 흐름을 타고 나스닥100을 크게 웃도는 수익률을 기록했다.",
-        "body": "2026년 5월 14일 ETF체크 집계에서 미국 나스닥 액티브 상장지수펀드가 시장 대비 큰 초과 수익을 낸 것으로 나타났다. ‘KoAct 미국나스닥성장기업액티브’의 올해 수익률은 64.62%, ‘TIME 미국나스닥100액티브’는 60.60%였다. 같은 기간 나스닥100 지수 수익률은 16.51%에 그쳤다. 두 상품은 나스닥100 지수를 추종하는 액티브 ETF로, 기존 M7 중심보다 AI 반도체 시대의 반도체·전력·광통신 등 AI 인프라 주도주 흐름에 적극 대응한 점이 배경으로 제시됐다. 시장 자금이 엔비디아, 애플, 아마존, 마이크로소프트, 테슬라, 메타, 알파벳 등 기존 빅테크에서 AI 인프라로 이동하는 변화가 성과 차이를 만들었다는 분석이다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Nasdaq Active ETFs Return Over 60%, Outpacing Nasdaq 100’s 16.51%",
-        "excerpt": "According to ETF Check on May 14, 2026, KoAct and TIME Nasdaq active ETFs far outperformed the Nasdaq 100 as they rode the shift toward AI infrastructure stocks.",
-        "body": "ETF Check data on May 14, 2026 showed that U.S. Nasdaq active exchange-traded funds delivered significant excess returns versus the broader market. KoAct US Nasdaq Growth Companies Active posted a year-to-date return of 64.62%, while TIME US Nasdaq 100 Active returned 60.60%. Over the same period, the Nasdaq 100 index gained only 16.51%. Both products are active ETFs tracking the Nasdaq 100, and the reported backdrop was their active response to leadership in AI infrastructure, including semiconductors, power and optical communications, rather than a focus only on the traditional M7 group. The performance gap was linked to money moving from Nvidia, Apple, Amazon, Microsoft, Tesla, Meta and Alphabet toward AI infrastructure names. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "ナスダック型アクティブETFが60％台、ナスダック100を大幅上回る理由",
-        "excerpt": "2026年5月14日のETFチェックによると、KoActとTIMEのナスダック型アクティブETFはAIインフラ株の流れを捉え、ナスダック100を大きく上回った。",
-        "body": "2026年5月14日のETFチェック集計で、米ナスダック型アクティブ上場投資信託が市場を大きく上回る超過収益を上げたことが分かった。『KoAct米国ナスダック成長企業アクティブ』の年初来リターンは64.62％、『TIME米国ナスダック100アクティブ』は60.60％だった。同じ期間のナスダック100指数の上昇率は16.51％にとどまった。両商品はナスダック100指数を追うアクティブETFで、従来のM7中心ではなく、AI半導体時代に半導体、電力、光通信などAIインフラ主導株の流れに積極的に対応した点が背景とされた。資金がエヌビディア、アップル、アマゾン、マイクロソフト、テスラ、メタ、アルファベットなど既存ビッグテックからAIインフラへ移る変化が成績差につながったとの分析だ。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "纳斯达克主动ETF收益超60%，为何大幅跑赢纳指100的16.51%",
-        "excerpt": "ETF Check 2026年5月14日数据显示，KoAct和TIME纳斯达克主动ETF借助AI基础设施股行情，收益率显著高于纳斯达克100指数。",
-        "body": "ETF Check于2026年5月14日的统计显示，美国纳斯达克主动型交易所交易基金相较市场取得明显超额收益。‘KoAct美国纳斯达克成长企业主动’今年以来收益率为64.62%，‘TIME美国纳斯达克100主动’为60.60%。同期纳斯达克100指数收益率仅为16.51%。这两只产品都是跟踪纳斯达克100指数的主动ETF，报道指出，其背景在于它们没有局限于传统M7，而是积极顺应AI半导体时代中半导体、电力、光通信等AI基础设施龙头股的变化。资金从英伟达、苹果、亚马逊、微软、特斯拉、Meta、Alphabet等既有大型科技股转向AI基础设施，被认为是业绩差异的原因。来源: hankyung.com."
-      },
-      "es": {
-        "title": "ETF activos del Nasdaq superan el 60% y baten el 16,51% del Nasdaq 100",
-        "excerpt": "Según ETF Check el 14 de mayo de 2026, los ETF activos Nasdaq de KoAct y TIME superaron ampliamente al Nasdaq 100 al captar el giro hacia acciones de infraestructura de IA.",
-        "body": "Los datos de ETF Check del 14 de mayo de 2026 mostraron que los ETF activos estadounidenses vinculados al Nasdaq lograron una fuerte rentabilidad excedente frente al mercado. KoAct US Nasdaq Growth Companies Active registró un rendimiento anual de 64,62%, mientras que TIME US Nasdaq 100 Active alcanzó 60,60%. En el mismo periodo, el índice Nasdaq 100 avanzó solo 16,51%. Ambos productos son ETF activos que siguen el Nasdaq 100, y el contexto señalado fue su respuesta activa al liderazgo de la infraestructura de IA, como semiconductores, energía y comunicaciones ópticas, en lugar de centrarse solo en el grupo M7 tradicional. El diferencial se atribuyó al movimiento de capital desde Nvidia, Apple, Amazon, Microsoft, Tesla, Meta y Alphabet hacia valores de infraestructura de IA. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "ETFs ativos do Nasdaq passam de 60% e superam os 16,51% do Nasdaq 100",
-        "excerpt": "Segundo o ETF Check em 14 de maio de 2026, ETFs ativos Nasdaq da KoAct e da TIME superaram muito o Nasdaq 100 ao acompanhar a migração para ações de infraestrutura de IA.",
-        "body": "Dados do ETF Check em 14 de maio de 2026 mostraram que ETFs ativos norte-americanos ligados ao Nasdaq obtiveram forte retorno excedente em relação ao mercado. O KoAct US Nasdaq Growth Companies Active acumulou retorno de 64,62% no ano, enquanto o TIME US Nasdaq 100 Active registrou 60,60%. No mesmo período, o índice Nasdaq 100 avançou apenas 16,51%. Os dois produtos são ETFs ativos que seguem o Nasdaq 100, e o contexto citado foi a resposta ativa à liderança de infraestrutura de IA, incluindo semicondutores, energia e comunicação óptica, em vez de uma concentração apenas no grupo M7 tradicional. A diferença de desempenho foi associada à migração de recursos de Nvidia, Apple, Amazon, Microsoft, Tesla, Meta e Alphabet para nomes de infraestrutura de IA. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Nasdaq-Aktiv-ETFs erzielen über 60% und schlagen den Nasdaq 100 deutlich",
-        "excerpt": "Laut ETF Check vom 14. Mai 2026 übertrafen die Nasdaq-Aktiv-ETFs von KoAct und TIME den Nasdaq 100 klar, weil sie den Trend zu KI-Infrastrukturwerten aufgriffen.",
-        "body": "Daten von ETF Check vom 14. Mai 2026 zeigen, dass aktive US-ETFs auf den Nasdaq deutliche Überschussrenditen gegenüber dem Markt erzielten. KoAct US Nasdaq Growth Companies Active kam seit Jahresbeginn auf 64,62%, TIME US Nasdaq 100 Active auf 60,60%. Im gleichen Zeitraum legte der Nasdaq-100-Index nur um 16,51% zu. Beide Produkte sind aktive ETFs, die den Nasdaq 100 nachbilden. Als Hintergrund wurde genannt, dass sie nicht nur auf die traditionellen M7 setzten, sondern aktiv auf führende KI-Infrastrukturthemen wie Halbleiter, Strom und optische Kommunikation reagierten. Die Renditedifferenz wurde mit Kapitalströmen weg von Nvidia, Apple, Amazon, Microsoft, Tesla, Meta und Alphabet hin zu KI-Infrastrukturwerten erklärt. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Les ETF actifs Nasdaq dépassent 60% et devancent nettement le Nasdaq 100",
-        "excerpt": "Selon ETF Check le 14 mai 2026, les ETF actifs Nasdaq de KoAct et TIME ont largement battu le Nasdaq 100 en profitant du basculement vers les valeurs d’infrastructure IA.",
-        "body": "Les données d’ETF Check du 14 mai 2026 montrent que les ETF actifs américains liés au Nasdaq ont généré une forte surperformance par rapport au marché. KoAct US Nasdaq Growth Companies Active affiche un rendement annuel de 64,62%, tandis que TIME US Nasdaq 100 Active atteint 60,60%. Sur la même période, l’indice Nasdaq 100 n’a progressé que de 16,51%. Les deux produits sont des ETF actifs suivant le Nasdaq 100, et le contexte avancé tient à leur réaction active au leadership des infrastructures d’IA, dont les semi-conducteurs, l’électricité et les communications optiques, plutôt qu’à une simple exposition au groupe M7 traditionnel. L’écart de performance est associé à un déplacement des capitaux de Nvidia, Apple, Amazon, Microsoft, Tesla, Meta et Alphabet vers les valeurs d’infrastructure IA. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "صناديق ناسداك النشطة تتجاوز 60% وتتفوق على مكاسب ناسداك 100",
-        "excerpt": "بحسب ETF Check في 14 مايو 2026، تفوقت صناديق KoAct وTIME النشطة المرتبطة بناسداك على مؤشر ناسداك 100 مع استفادتها من التحول نحو أسهم بنية الذكاء الاصطناعي.",
-        "body": "أظهرت بيانات ETF Check في 14 مايو 2026 أن صناديق المؤشرات المتداولة النشطة المرتبطة بسوق ناسداك الأميركي حققت عوائد فائضة كبيرة مقارنة بالسوق. بلغ عائد KoAct US Nasdaq Growth Companies Active منذ بداية العام 64.62%، بينما سجل TIME US Nasdaq 100 Active عائدا قدره 60.60%. وفي الفترة نفسها، اقتصر عائد مؤشر ناسداك 100 على 16.51%. الصندوقان يتتبعان مؤشر ناسداك 100 بأسلوب نشط، وجرى ربط الأداء باستجابتهما لتحول قيادة السوق نحو بنية الذكاء الاصطناعي، مثل أشباه الموصلات والطاقة والاتصالات البصرية، بدلا من التركيز فقط على مجموعة M7 التقليدية. ويعزى الفارق إلى انتقال الأموال من إنفيديا وآبل وأمازون ومايكروسوفت وتسلا وميتا وألفابت نحو أسهم بنية الذكاء الاصطناعي. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Nasdaq सक्रिय ETF 60% से ऊपर, Nasdaq 100 के 16.51% रिटर्न से आगे",
-        "excerpt": "ETF Check के 14 मई 2026 के आंकड़ों के अनुसार KoAct और TIME Nasdaq सक्रिय ETF ने AI इन्फ्रास्ट्रक्चर शेयरों की दिशा पकड़कर Nasdaq 100 से कहीं बेहतर रिटर्न दिया।",
-        "body": "ETF Check के 14 मई 2026 के आंकड़ों से पता चला कि अमेरिकी Nasdaq सक्रिय एक्सचेंज ट्रेडेड फंडों ने बाजार की तुलना में बड़ा अतिरिक्त रिटर्न दिया। ‘KoAct US Nasdaq Growth Companies Active’ का इस साल का रिटर्न 64.62% रहा, जबकि ‘TIME US Nasdaq 100 Active’ ने 60.60% रिटर्न दर्ज किया। इसी अवधि में Nasdaq 100 सूचकांक का रिटर्न केवल 16.51% रहा। दोनों उत्पाद Nasdaq 100 का अनुसरण करने वाले सक्रिय ETF हैं। रिपोर्ट के अनुसार, इनकी बढ़त का कारण पारंपरिक M7 पर निर्भर रहने के बजाय AI सेमीकंडक्टर युग में सेमीकंडक्टर, बिजली और ऑप्टिकल कम्युनिकेशन जैसे AI इन्फ्रास्ट्रक्चर नेतृत्व वाले शेयरों के रुझान पर सक्रिय प्रतिक्रिया थी। Nvidia, Apple, Amazon, Microsoft, Tesla, Meta और Alphabet जैसी बड़ी टेक कंपनियों से AI इन्फ्रास्ट्रक्चर की ओर धन का स्थानांतरण प्रदर्शन अंतर का कारण माना गया। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "ETF Aktif Nasdaq Tembus 60%, Jauh di Atas Kenaikan Nasdaq 100 16,51%",
-        "excerpt": "Menurut ETF Check pada 14 Mei 2026, ETF aktif Nasdaq KoAct dan TIME jauh mengungguli Nasdaq 100 karena mengikuti pergeseran ke saham infrastruktur AI.",
-        "body": "Data ETF Check pada 14 Mei 2026 menunjukkan bahwa ETF aktif berbasis Nasdaq di Amerika Serikat mencatat imbal hasil berlebih yang besar dibanding pasar. ‘KoAct US Nasdaq Growth Companies Active’ membukukan imbal hasil tahun berjalan 64,62%, sedangkan ‘TIME US Nasdaq 100 Active’ mencapai 60,60%. Pada periode yang sama, indeks Nasdaq 100 hanya naik 16,51%. Kedua produk merupakan ETF aktif yang mengikuti indeks Nasdaq 100, dan latar belakang kinerjanya disebut berasal dari respons aktif terhadap kepemimpinan infrastruktur AI, termasuk semikonduktor, listrik, dan komunikasi optik, bukan hanya fokus pada kelompok M7 tradisional. Perbedaan hasil dikaitkan dengan pergeseran dana dari Nvidia, Apple, Amazon, Microsoft, Tesla, Meta, dan Alphabet menuju saham infrastruktur AI. Sumber: hankyung.com."
       }
     }
   }
