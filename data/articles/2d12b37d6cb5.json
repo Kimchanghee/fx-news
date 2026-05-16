@@ -1,0 +1,75 @@
+{
+  "id": "2d12b37d6cb5",
+  "slug": "속보-코스피-급락에-매도-사이드카-발동-832343",
+  "channelId": "FX",
+  "category": "fx",
+  "publishedAt": "2026-05-16T00:01:29.570Z",
+  "updatedAt": "2026-05-16T00:01:29.570Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026051589716",
+  "canonicalUrl": "https://www.hankyung.com/article/2026051589716",
+  "titleFingerprint": "c1c82d8977692de43dd2946278169facd3a1f496",
+  "dedupKeys": [
+    "2d12b37d6cb511f0a0750cb5e713b0ea38b215b1",
+    "c1c82d8977692de43dd2946278169facd3a1f496",
+    "5e3173d0c0149abf5295b6aeb3e07eb483689f39"
+  ],
+  "imageUrl": "/images/articles/2d12b37d6cb5.jpg",
+  "i18n": {
+    "ko": {
+      "title": "코스피 급락에 매도 사이드카 발동, 프로그램 매도호가 일시 정지",
+      "excerpt": "코스피가 급락하면서 한국거래소가 장중 매도 사이드카를 발동했다. 코스피200선물 하락에 따라 프로그램 매도호가 효력이 일시 정지됐다.",
+      "body": "코스피가 장중 급락하면서 유가증권시장에 매도 사이드카가 발동됐다. 한국거래소는 코스피200선물 가격이 큰 폭으로 하락하자 프로그램 매도호가의 효력을 일시 정지했다. 매도 사이드카는 선물 가격 급락이 현물시장으로 번지는 충격을 완화하기 위한 시장 안정 장치다. 이번 조치는 코스피 하락세가 커진 가운데 프로그램 매도 주문을 제한해 단기 변동성을 낮추려는 절차로 해석된다. 시장 참가자들은 지수 낙폭과 선물시장 움직임을 함께 주시하게 됐다. 출처: hankyung.com."
+    },
+    "en": {
+      "title": "KOSPI Plunge Triggers Sell Sidecar, Program Sell Orders Paused",
+      "excerpt": "The Korea Exchange triggered a sell sidecar during a sharp KOSPI drop, temporarily suspending program sell order effects after KOSPI 200 futures fell.",
+      "body": "The KOSPI fell sharply during trading, prompting a sell sidecar in the main stock market. According to the Korea Exchange, the effect of program sell orders was temporarily suspended after KOSPI 200 futures prices dropped significantly. A sell sidecar is a market-stabilizing mechanism designed to ease the impact of a sharp futures decline spilling into the cash market. The measure came as the KOSPI’s losses deepened and was aimed at limiting program sell orders to reduce short-term volatility. Market participants are now watching both the index’s decline and moves in the futures market. Source: hankyung.com."
+    },
+    "ja": {
+      "title": "KOSPI急落で売りサイドカー発動、プログラム売り注文を一時停止",
+      "excerpt": "KOSPIが急落し、韓国取引所は取引時間中に売りサイドカーを発動。KOSPI200先物の下落を受け、プログラム売り注文の効力を一時停止した。",
+      "body": "KOSPIが取引時間中に急落し、有価証券市場で売りサイドカーが発動された。韓国取引所は、KOSPI200先物価格が大きく下落したことを受け、プログラム売り注文の効力を一時停止した。売りサイドカーは、先物価格の急落が現物市場へ波及する衝撃を緩和するための市場安定装置だ。今回の措置は、KOSPIの下げ幅が拡大するなか、プログラム売り注文を制限して短期的な変動性を抑える手続きと受け止められる。市場参加者は指数の下落幅と先物市場の動きをあわせて注視することになった。出典: hankyung.com."
+    },
+    "zh": {
+      "title": "KOSPI急跌触发卖出Sidecar，程序化卖单暂时停止",
+      "excerpt": "KOSPI急跌期间，韩国交易所启动卖出Sidecar。因KOSPI200期货下跌，程序化卖出报价效力被暂时停止。",
+      "body": "KOSPI在盘中急跌，韩国有价证券市场启动了卖出Sidecar。韩国交易所表示，因KOSPI200期货价格大幅下跌，程序化卖出报价的效力被暂时停止。卖出Sidecar是一项市场稳定机制，旨在缓和期货价格急跌向现货市场传导所造成的冲击。此次措施是在KOSPI跌幅扩大的情况下，限制程序化卖单以降低短期波动的程序。市场参与者将同时关注指数跌幅和期货市场走势。来源: hankyung.com."
+    },
+    "es": {
+      "title": "Fuerte caída del KOSPI activa sidecar vendedor y pausa ventas programadas",
+      "excerpt": "El KOSPI cayó con fuerza y la Bolsa de Corea activó un sidecar vendedor durante la sesión, suspendiendo temporalmente órdenes programadas de venta por la baja del KOSPI 200 futuro.",
+      "body": "El KOSPI registró una fuerte caída intradía y se activó un sidecar vendedor en el mercado principal de acciones. Según la Bolsa de Corea, el efecto de las órdenes programadas de venta fue suspendido temporalmente después de una caída pronunciada de los futuros del KOSPI 200. El sidecar vendedor es un mecanismo de estabilización diseñado para moderar el impacto de una caída brusca de los futuros sobre el mercado al contado. La medida llegó mientras aumentaban las pérdidas del KOSPI y busca limitar las ventas programadas para reducir la volatilidad de corto plazo. Los participantes del mercado seguirán atentos al retroceso del índice y al movimiento de los futuros. Fuente: hankyung.com."
+    },
+    "pt": {
+      "title": "Queda forte do KOSPI aciona sidecar vendedor e pausa vendas programadas",
+      "excerpt": "O KOSPI caiu com força e a Bolsa da Coreia acionou um sidecar vendedor durante o pregão, suspendendo temporariamente ordens programadas de venda após baixa dos futuros KOSPI 200.",
+      "body": "O KOSPI caiu acentuadamente durante o pregão, levando ao acionamento de um sidecar vendedor no mercado acionário principal. Segundo a Bolsa da Coreia, o efeito das ordens programadas de venda foi temporariamente suspenso depois que os futuros do KOSPI 200 recuaram de forma significativa. O sidecar vendedor é um mecanismo de estabilização criado para reduzir o impacto de uma queda brusca dos futuros sobre o mercado à vista. A medida ocorreu em meio ao aumento das perdas do KOSPI e busca limitar vendas programadas para conter a volatilidade de curto prazo. Investidores passam a acompanhar tanto a queda do índice quanto os movimentos dos futuros. Fonte: hankyung.com."
+    },
+    "de": {
+      "title": "KOSPI-Einbruch löst Verkaufs-Sidecar aus, Programmverkäufe gestoppt",
+      "excerpt": "Der KOSPI fiel stark, woraufhin die Korea Exchange während des Handels einen Verkaufs-Sidecar auslöste und Programmverkaufsorders nach dem Rückgang der KOSPI-200-Futures vorübergehend stoppte.",
+      "body": "Der KOSPI gab im Handelsverlauf stark nach, sodass am Hauptaktienmarkt ein Verkaufs-Sidecar ausgelöst wurde. Nach Angaben der Korea Exchange wurde die Wirkung von Programmverkaufsorders vorübergehend ausgesetzt, nachdem die KOSPI-200-Futures deutlich gefallen waren. Ein Verkaufs-Sidecar ist ein Marktstabilisierungsmechanismus, der die Auswirkungen eines starken Futures-Rückgangs auf den Kassamarkt abmildern soll. Die Maßnahme erfolgte, als sich die Verluste des KOSPI ausweiteten, und soll Programmverkäufe begrenzen, um kurzfristige Volatilität zu dämpfen. Marktteilnehmer beobachten nun sowohl den Indexrückgang als auch die Bewegungen am Futures-Markt. Quelle: hankyung.com."
+    },
+    "fr": {
+      "title": "Chute du KOSPI: sidecar vendeur déclenché, ventes programmées suspendues",
+      "excerpt": "Le KOSPI a fortement reculé et la Bourse de Corée a déclenché un sidecar vendeur en séance, suspendant temporairement les ordres de vente programmés après la baisse des contrats à terme KOSPI 200.",
+      "body": "Le KOSPI a fortement chuté en séance, entraînant le déclenchement d’un sidecar vendeur sur le marché principal des actions. Selon la Bourse de Corée, l’effet des ordres de vente programmés a été temporairement suspendu après une nette baisse des contrats à terme KOSPI 200. Le sidecar vendeur est un mécanisme de stabilisation destiné à atténuer l’impact d’une forte baisse des futures sur le marché au comptant. Cette mesure intervient alors que le recul du KOSPI s’accentuait et vise à limiter les ventes programmées afin de réduire la volatilité de court terme. Les intervenants surveillent désormais à la fois la baisse de l’indice et les mouvements du marché à terme. Source: hankyung.com."
+    },
+    "ar": {
+      "title": "هبوط حاد في كوسبي يفعّل سايدكار البيع ويوقف أوامر البيع الآلية مؤقتا",
+      "excerpt": "هبط مؤشر كوسبي بقوة خلال الجلسة، فأطلقت بورصة كوريا آلية سايدكار البيع وعلقت مؤقتا أثر أوامر البيع الآلية بعد تراجع عقود كوسبي 200 الآجلة.",
+      "body": "تراجع مؤشر كوسبي بشكل حاد خلال التداول، ما أدى إلى تفعيل آلية سايدكار البيع في سوق الأسهم الرئيسية. ووفقا لبورصة كوريا، جرى تعليق أثر أوامر البيع الآلية مؤقتا بعدما انخفضت أسعار عقود كوسبي 200 الآجلة بصورة كبيرة. وتعد آلية سايدكار البيع أداة لاستقرار السوق تهدف إلى تخفيف أثر الهبوط الحاد في العقود الآجلة على السوق الفورية. وجاء الإجراء مع اتساع خسائر كوسبي، بهدف تقييد أوامر البيع الآلية وخفض التقلبات قصيرة الأجل. ويراقب المشاركون في السوق الآن حجم تراجع المؤشر وحركة سوق العقود الآجلة معا. المصدر: hankyung.com."
+    },
+    "hi": {
+      "title": "KOSPI में तेज गिरावट से सेल साइडकार सक्रिय, प्रोग्राम बिक्री आदेश रुके",
+      "excerpt": "KOSPI में तेज गिरावट के बीच कोरिया एक्सचेंज ने सेल साइडकार सक्रिय किया। KOSPI 200 फ्यूचर्स में गिरावट के बाद प्रोग्राम बिक्री आदेशों का प्रभाव अस्थायी रूप से रोका गया।",
+      "body": "कारोबार के दौरान KOSPI में तेज गिरावट आई, जिसके बाद मुख्य शेयर बाजार में सेल साइडकार सक्रिय किया गया। कोरिया एक्सचेंज के अनुसार, KOSPI 200 फ्यूचर्स की कीमतों में बड़ी गिरावट के बाद प्रोग्राम बिक्री आदेशों का प्रभाव अस्थायी रूप से निलंबित किया गया। सेल साइडकार एक बाजार स्थिरीकरण व्यवस्था है, जिसका उद्देश्य फ्यूचर्स में तेज गिरावट का असर नकद बाजार पर फैलने से कम करना है। यह कदम KOSPI की गिरावट बढ़ने के बीच उठाया गया और इसका मकसद प्रोग्राम बिक्री आदेशों को सीमित कर अल्पकालिक अस्थिरता घटाना है। बाजार प्रतिभागी अब सूचकांक की गिरावट और फ्यूचर्स बाजार की चाल दोनों पर नजर रखेंगे। स्रोत: hankyung.com."
+    },
+    "id": {
+      "title": "KOSPI Anjlok Picu Sidecar Jual, Order Jual Program Dihentikan Sementara",
+      "excerpt": "KOSPI turun tajam dan Bursa Korea mengaktifkan sidecar jual saat perdagangan berlangsung, menghentikan sementara efek order jual program setelah KOSPI 200 futures melemah.",
+      "body": "KOSPI turun tajam saat perdagangan berlangsung, sehingga sidecar jual di pasar saham utama diaktifkan. Menurut Bursa Korea, efek order jual program dihentikan sementara setelah harga KOSPI 200 futures turun besar. Sidecar jual adalah mekanisme stabilisasi pasar yang dirancang untuk meredam dampak penurunan tajam futures terhadap pasar tunai. Langkah ini diambil ketika pelemahan KOSPI membesar dan bertujuan membatasi order jual program untuk mengurangi volatilitas jangka pendek. Pelaku pasar kini mencermati besarnya penurunan indeks sekaligus pergerakan pasar futures. Sumber: hankyung.com."
+    }
+  }
+}
