@@ -1,5 +1,230 @@
 [
   {
+    "id": "dbdb476e9e8f",
+    "slug": "삼성전자-노조내부-갈등과-사내-동요에-참여-압박-안돼상호존중-653719",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-16T01:49:39.629Z",
+    "updatedAt": "2026-05-16T01:49:39.629Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12049932",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12049932",
+    "titleFingerprint": "60adfad5bc6022af51e5f4d47e8a858f98bb70de",
+    "dedupKeys": [
+      "dbdb476e9e8fd9c60b39835d948a2169594fab38",
+      "60adfad5bc6022af51e5f4d47e8a858f98bb70de",
+      "0a5e457945be0a9cc0382574ef88fb525efdd4f3"
+    ],
+    "imageUrl": "/images/articles/dbdb476e9e8f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 총파업 앞두고 사측 “참여 압박 안돼…상호존중” 공지",
+        "excerpt": "삼성전자 노조의 총파업 예고가 나흘 앞으로 다가온 가운데 회사는 쟁의행위 참여 여부가 직원 개인의 자유로운 의사에 따라 결정돼야 한다고 공지했다.",
+        "body": "삼성전자는 노조가 예고한 총파업을 나흘 앞둔 시점에 쟁의행위 참여 여부는 직원 개개인의 자유로운 의사에 따라 결정해야 한다는 메시지를 사내에 공지했다. 회사는 참여를 강요하거나 압박해서는 안 되며 구성원 간 상호존중이 필요하다는 입장을 밝혔다. 이번 공지는 성과급 요구안을 둘러싼 노사 갈등과 노조 내부 갈등, 사내 동요가 이어지는 상황에서 나왔다. 총파업이 임박한 만큼 직원들의 의사결정과 현장 분위기에 영향을 줄 수 있어 향후 노사 대응이 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Urges No Pressure as Union Strike Nears",
+        "excerpt": "With Samsung Electronics’ union strike four days away, the company said each employee must freely decide whether to join any labor action.",
+        "body": "Samsung Electronics issued an internal notice four days before a planned union general strike, saying participation in labor action must be decided by each employee’s free will. The company said no one should be forced or pressured to take part and emphasized mutual respect among employees. The message comes as labor-management tensions continue over demands related to performance bonuses, alongside reported internal union conflict and unease inside the company. With the strike approaching, the notice may affect employees’ decisions and workplace sentiment, keeping attention on the next steps by both labor and management. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子、全面スト前に「参加圧力は不可、相互尊重を」",
+        "excerpt": "サムスン電子の労組が予告した全面ストまで4日となる中、会社は争議行為への参加は社員個人の自由意思で決めるべきだと通知した。",
+        "body": "サムスン電子は、労組が予告した全面ストを4日後に控え、争議行為への参加 여부は社員一人ひとりの自由な意思に基づいて決定されるべきだとのメッセージを社内に通知した。会社は参加を強要したり圧力をかけたりしてはならず、構成員同士の相互尊重が必要だと強調した。今回の通知は、成果給要求案をめぐる労使対立に加え、労組内部の葛藤や社内の動揺が続く中で出された。全面ストが迫る中、社員の判断や職場の雰囲気に影響する可能性があり、今後の労使対応が注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子总罢工临近 公司称“不得施压参与，应相互尊重”",
+        "excerpt": "三星电子工会预告的总罢工还有四天，公司通知称，是否参与争议行动应由每名员工根据自由意愿决定。",
+        "body": "在三星电子工会预告的总罢工还有四天之际，公司在内部发布通知称，是否参与争议行动应由员工个人按照自由意愿决定。公司表示，不应强迫或施压员工参与，并强调成员之间需要相互尊重。该通知发布之际，围绕绩效奖金要求的劳资矛盾仍在持续，同时还出现工会内部矛盾和公司内部动摇。随着总罢工临近，这一信息可能影响员工的个人判断和现场氛围，劳资双方后续应对受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics pide no presionar a empleados ante huelga sindical",
+        "excerpt": "A cuatro días de la huelga general anunciada por el sindicato de Samsung Electronics, la empresa dijo que cada empleado debe decidir libremente si participa.",
+        "body": "Samsung Electronics publicó un aviso interno cuatro días antes de la huelga general anunciada por su sindicato, señalando que la participación en acciones laborales debe decidirse según la libre voluntad de cada empleado. La compañía afirmó que no debe haber coerción ni presión para participar y subrayó la necesidad de respeto mutuo entre los integrantes. El mensaje llega en medio de tensiones laborales por demandas relacionadas con bonos por desempeño, además de conflictos internos en el sindicato e inquietud dentro de la empresa. Con la huelga cercana, la comunicación podría influir en las decisiones de los empleados y en el clima laboral. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics pede que não haja pressão antes de greve sindical",
+        "excerpt": "A quatro dias da greve geral anunciada pelo sindicato da Samsung Electronics, a empresa disse que cada funcionário deve decidir livremente se participa.",
+        "body": "A Samsung Electronics divulgou um comunicado interno quatro dias antes da greve geral anunciada pelo sindicato, afirmando que a participação em ações trabalhistas deve ser decidida pela livre vontade de cada funcionário. A empresa disse que ninguém deve ser forçado ou pressionado a participar e destacou a importância do respeito mútuo entre os empregados. O aviso ocorre em meio a tensões entre empresa e sindicato sobre reivindicações ligadas a bônus por desempenho, além de conflitos internos no sindicato e inquietação dentro da companhia. Com a greve se aproximando, a mensagem pode influenciar decisões individuais e o ambiente de trabalho. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics mahnt vor Streik: Kein Druck zur Teilnahme",
+        "excerpt": "Vier Tage vor dem angekündigten Generalstreik der Samsung-Electronics-Gewerkschaft erklärte das Unternehmen, jeder Beschäftigte müsse frei über eine Teilnahme entscheiden.",
+        "body": "Samsung Electronics hat vier Tage vor dem von der Gewerkschaft angekündigten Generalstreik eine interne Mitteilung veröffentlicht. Darin heißt es, die Teilnahme an Arbeitskampfmaßnahmen müsse von jedem Beschäftigten nach freiem Willen entschieden werden. Das Unternehmen betonte, niemand dürfe zur Teilnahme gezwungen oder unter Druck gesetzt werden, und verwies auf gegenseitigen Respekt unter den Mitarbeitenden. Die Mitteilung erfolgt vor dem Hintergrund anhaltender Spannungen über Forderungen zu Leistungsboni, interner Konflikte in der Gewerkschaft und Unruhe im Unternehmen. Da der Streik näher rückt, richtet sich der Blick auf die nächsten Schritte von Arbeitnehmer- und Arbeitgeberseite. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics refuse toute pression avant la grève syndicale",
+        "excerpt": "À quatre jours de la grève générale annoncée par le syndicat de Samsung Electronics, l’entreprise affirme que chaque salarié doit décider librement de participer.",
+        "body": "Samsung Electronics a publié un avis interne quatre jours avant la grève générale annoncée par son syndicat, indiquant que la participation à une action collective doit relever de la libre volonté de chaque salarié. L’entreprise a déclaré qu’aucune contrainte ni pression ne devait être exercée et a insisté sur le respect mutuel entre les membres du personnel. Ce message intervient alors que les tensions sociales se poursuivent autour des revendications liées aux primes de performance, avec des conflits internes au syndicat et des remous au sein de l’entreprise. À l’approche de la grève, cette communication pourrait peser sur les décisions des salariés et l’ambiance interne. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس تشدد قبل الإضراب: لا ضغط للمشاركة واحترام متبادل",
+        "excerpt": "قبل أربعة أيام من الإضراب العام الذي أعلنته نقابة سامسونغ إلكترونيكس، قالت الشركة إن قرار المشاركة في التحرك العمالي يجب أن يكون حرا لكل موظف.",
+        "body": "أصدرت سامسونغ إلكترونيكس إشعارا داخليا قبل أربعة أيام من الإضراب العام الذي أعلنته النقابة، مؤكدة أن المشاركة في أي تحرك عمالي يجب أن تُقرر وفق الإرادة الحرة لكل موظف. وقالت الشركة إنه لا ينبغي إجبار أي شخص أو الضغط عليه للمشاركة، وشددت على ضرورة الاحترام المتبادل بين العاملين. يأتي هذا الإشعار وسط استمرار التوتر بين الإدارة والنقابة بشأن مطالب تتعلق بمكافآت الأداء، إلى جانب خلافات داخل النقابة واضطراب داخل الشركة. ومع اقتراب موعد الإضراب، قد تؤثر الرسالة في قرارات الموظفين وأجواء العمل، فيما تتركز الأنظار على خطوات الطرفين المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics ने हड़ताल से पहले कहा, भागीदारी पर दबाव नहीं",
+        "excerpt": "Samsung Electronics यूनियन की घोषित आम हड़ताल में चार दिन शेष हैं, कंपनी ने कहा कि श्रमिक कार्रवाई में भागीदारी का निर्णय हर कर्मचारी की स्वतंत्र इच्छा से होना चाहिए।",
+        "body": "Samsung Electronics ने यूनियन द्वारा घोषित आम हड़ताल से चार दिन पहले आंतरिक सूचना जारी कर कहा कि श्रमिक कार्रवाई में भाग लेना या न लेना प्रत्येक कर्मचारी की स्वतंत्र इच्छा से तय होना चाहिए। कंपनी ने कहा कि किसी पर भागीदारी के लिए दबाव या मजबूरी नहीं होनी चाहिए और कर्मचारियों के बीच आपसी सम्मान जरूरी है। यह संदेश प्रदर्शन बोनस से जुड़ी मांगों पर प्रबंधन और यूनियन के बीच तनाव, यूनियन के भीतर मतभेद और कंपनी के अंदर अस्थिर माहौल के बीच आया है। हड़ताल नजदीक होने के कारण यह सूचना कर्मचारियों के निर्णय और कार्यस्थल के माहौल को प्रभावित कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Electronics Minta Tak Ada Tekanan Jelang Mogok Serikat",
+        "excerpt": "Empat hari menjelang mogok umum yang diumumkan serikat Samsung Electronics, perusahaan menyatakan keikutsertaan aksi harus diputuskan bebas oleh tiap karyawan.",
+        "body": "Samsung Electronics mengeluarkan pemberitahuan internal empat hari sebelum mogok umum yang diumumkan serikat pekerja, dengan menyatakan bahwa partisipasi dalam aksi industrial harus ditentukan berdasarkan kehendak bebas masing-masing karyawan. Perusahaan menegaskan tidak boleh ada paksaan atau tekanan untuk ikut serta, serta menekankan perlunya saling menghormati antaranggota perusahaan. Pemberitahuan ini muncul di tengah ketegangan manajemen-serikat terkait tuntutan bonus kinerja, disertai konflik internal serikat dan kegelisahan di dalam perusahaan. Dengan mogok yang semakin dekat, pesan tersebut dapat memengaruhi keputusan karyawan dan suasana kerja. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "db164dc6c46b",
+    "slug": "칸영화제-뜨자마자-또-1위왜-이-배우만-나오면-영화계-들썩일까-2026-칸영화제-437655",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-16T01:48:53.069Z",
+    "updatedAt": "2026-05-16T01:48:53.069Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/culture/12049940",
+    "canonicalUrl": "https://www.mk.co.kr/news/culture/12049940",
+    "titleFingerprint": "9a4368d75d17d3a997c5e1e72ffb25edb838c597",
+    "dedupKeys": [
+      "db164dc6c46b7ae45f008f0431c65c7492bb8afe",
+      "9a4368d75d17d3a997c5e1e72ffb25edb838c597",
+      "8078447e47736cb10c552fb4a0dbe66430753a6f"
+    ],
+    "imageUrl": "/images/articles/db164dc6c46b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "2026 칸영화제 ‘파더랜드’ 주목…산드라 휠러 출연만으로 1위 화제",
+        "excerpt": "2026 칸영화제에서 파벨 파블리코프스키의 ‘파더랜드’가 공개 직후 주목받는 가운데, 독일 배우 산드라 휠러의 존재감이 영화계 관심을 다시 끌고 있다.",
+        "body": "2026 칸영화제에서 파벨 파블리코프스키 감독의 영화 ‘파더랜드’가 공개되자마자 화제의 중심에 섰다. 독일 배우 산드라 휠러가 출연한다는 점이 주목도를 끌어올린 핵심 요인으로 꼽힌다. 휠러는 ‘동시대 최고의 배우’라는 수식어가 어울리는 인물로 소개되며, 영화 ‘추락의 해부’로 2023년 칸영화제 황금종려상과 연결된 이력도 함께 언급됐다. 이번 작품은 칸영화제 현장에서 다시 한 번 휠러의 이름값을 확인하게 한 사례로 받아들여진다. 향후 ‘파더랜드’에 대한 평가와 휠러의 연기 반응이 영화계의 주요 관심사로 이어질 전망이다. 출처: mk.co.kr 인용"
+      },
+      "en": {
+        "title": "Cannes 2026 Spotlight on Fatherland as Sandra Hüller Again Drives No. 1 Buzz",
+        "excerpt": "At the 2026 Cannes Film Festival, Pawel Pawlikowski’s Fatherland drew attention soon after its unveiling, with German actor Sandra Hüller again becoming a major focus.",
+        "body": "At the 2026 Cannes Film Festival, Pawel Pawlikowski’s film Fatherland became a focus of attention soon after it was unveiled. A key reason for the heightened interest is the appearance of German actor Sandra Hüller. Hüller is described as an actor worthy of the phrase “one of the finest actors of her time,” and her link to Anatomy of a Fall, associated with the 2023 Cannes Palme d’Or, was also noted. The new film is being seen at Cannes as another case confirming the weight of Hüller’s name. Reactions to Fatherland and to Hüller’s performance are expected to remain central points of interest in the film world. Source: cited from mk.co.kr"
+      },
+      "ja": {
+        "title": "2026年カンヌ『ファザーランド』注目、サンドラ・ヒュラー出演で再び1位話題",
+        "excerpt": "2026年カンヌ映画祭でパヴェウ・パヴリコフスキの『ファザーランド』が公開直後から注目され、独俳優サンドラ・ヒュラーの存在感が再び話題を集めている。",
+        "body": "2026年カンヌ映画祭で、パヴェウ・パヴリコフスキ監督の映画『ファザーランド』が公開されると同時に話題の中心に立った。注目度を押し上げた主な要因として、ドイツの俳優サンドラ・ヒュラーの出演が挙げられる。ヒュラーは「同時代最高の俳優」という表現がふさわしい人物として紹介され、映画『落下の解剖学』で2023年カンヌ映画祭パルムドールと結びついた経歴も言及された。今回の作品は、カンヌの現場で改めてヒュラーの名前の重みを確認させる事例と受け止められている。今後『ファザーランド』への評価とヒュラーの演技への反応が、映画界の主要な関心事となる見通しだ。出典：mk.co.kr引用"
+      },
+      "zh": {
+        "title": "2026戛纳《父国》受关注，桑德拉·惠勒出场再掀第一话题",
+        "excerpt": "在2026年戛纳电影节上，帕维乌·帕夫利科夫斯基的《父国》亮相后即受关注，德国演员桑德拉·惠勒的存在感再次吸引影坛目光。",
+        "body": "在2026年戛纳电影节上，帕维乌·帕夫利科夫斯基执导的电影《父国》一经亮相便成为话题中心。德国演员桑德拉·惠勒出演，被认为是推高关注度的关键因素。惠勒被介绍为配得上“当代最佳演员”这一称号的人物，她与电影《坠落的审判》及2023年戛纳电影节金棕榈奖相关的履历也被一并提及。此次作品被视为在戛纳现场再次印证惠勒名号影响力的案例。未来，《父国》的评价以及外界对惠勒表演的反应，预计将继续成为电影界的重要关注点。来源：引自 mk.co.kr"
+      },
+      "es": {
+        "title": "Cannes 2026 mira a Fatherland: Sandra Hüller vuelve a impulsar el número 1",
+        "excerpt": "En el Festival de Cannes 2026, Fatherland, de Pawel Pawlikowski, atrajo atención tras su presentación, mientras la actriz alemana Sandra Hüller volvió al centro del interés.",
+        "body": "En el Festival de Cannes 2026, la película Fatherland, dirigida por Pawel Pawlikowski, se situó en el centro de la conversación poco después de su presentación. La presencia de la actriz alemana Sandra Hüller es señalada como un factor clave del aumento de la atención. Hüller fue presentada como una figura a la que le encaja la descripción de “una de las mejores actrices contemporáneas”, y también se mencionó su vínculo con Anatomy of a Fall, asociada con la Palma de Oro de Cannes 2023. Esta nueva obra se interpreta en Cannes como otro ejemplo del peso de su nombre. La valoración de Fatherland y las reacciones a la actuación de Hüller seguirán siendo asuntos relevantes para la industria cinematográfica. Fuente: citado de mk.co.kr"
+      },
+      "pt": {
+        "title": "Cannes 2026 destaca Fatherland, com Sandra Hüller novamente no topo das atenções",
+        "excerpt": "No Festival de Cannes 2026, Fatherland, de Pawel Pawlikowski, chamou atenção logo após a exibição, enquanto a alemã Sandra Hüller voltou a concentrar o interesse do cinema.",
+        "body": "No Festival de Cannes 2026, o filme Fatherland, dirigido por Pawel Pawlikowski, tornou-se centro das atenções assim que foi apresentado. A participação da atriz alemã Sandra Hüller é apontada como um fator essencial para elevar o interesse. Hüller foi descrita como alguém a quem cabe a expressão “uma das melhores atrizes contemporâneas”, e também foi lembrada sua ligação com Anatomy of a Fall, associada à Palma de Ouro de Cannes em 2023. A obra é vista no festival como mais um caso que confirma o peso do nome de Hüller. As avaliações de Fatherland e as reações à atuação da atriz devem seguir como temas importantes no setor cinematográfico. Fonte: citado de mk.co.kr"
+      },
+      "de": {
+        "title": "Cannes 2026: Fatherland im Fokus, Sandra Hüller sorgt erneut für Platz-1-Rummel",
+        "excerpt": "Bei den Filmfestspielen Cannes 2026 rückte Pawel Pawlikowskis Fatherland direkt nach der Vorstellung in den Fokus, während Sandra Hüller erneut großes Interesse auslöste.",
+        "body": "Bei den Filmfestspielen Cannes 2026 stand Pawel Pawlikowskis Film Fatherland kurz nach seiner Vorstellung im Zentrum der Aufmerksamkeit. Als wesentlicher Grund für das gesteigerte Interesse gilt die Mitwirkung der deutschen Schauspielerin Sandra Hüller. Hüller wird als Persönlichkeit beschrieben, zu der die Bezeichnung „eine der besten Schauspielerinnen der Gegenwart“ passt. Zudem wurde ihre Verbindung zu Anatomy of a Fall erwähnt, der mit der Goldenen Palme von Cannes 2023 verknüpft ist. Der neue Film wird in Cannes als weiterer Fall wahrgenommen, der die Strahlkraft von Hüllers Namen bestätigt. Die Bewertung von Fatherland und die Reaktionen auf Hüllers Spiel dürften wichtige Themen der Filmwelt bleiben. Quelle: zitiert nach mk.co.kr"
+      },
+      "fr": {
+        "title": "Cannes 2026 braque les projecteurs sur Fatherland grâce à Sandra Hüller",
+        "excerpt": "Au Festival de Cannes 2026, Fatherland de Pawel Pawlikowski a attiré l’attention dès sa présentation, tandis que l’actrice allemande Sandra Hüller a de nouveau cristallisé l’intérêt.",
+        "body": "Au Festival de Cannes 2026, le film Fatherland de Pawel Pawlikowski s’est retrouvé au centre de l’attention dès sa présentation. La présence de l’actrice allemande Sandra Hüller est citée comme un facteur clé de cet intérêt. Hüller est présentée comme une figure à laquelle convient l’expression « l’une des meilleures actrices contemporaines », et son lien avec Anatomy of a Fall, associé à la Palme d’or de Cannes 2023, a également été mentionné. Cette œuvre est perçue à Cannes comme un nouveau cas confirmant le poids de son nom. Les évaluations de Fatherland et les réactions au jeu de Hüller devraient rester des sujets majeurs dans le monde du cinéma. Source : cité de mk.co.kr"
+      },
+      "ar": {
+        "title": "كان 2026 يسلط الضوء على «فاذرلاند» مع عودة ساندرا هولر إلى صدارة الاهتمام",
+        "excerpt": "في مهرجان كان السينمائي 2026، جذب فيلم «فاذرلاند» لباول بافليكوفسكي الانتباه فور عرضه، فيما عادت الممثلة الألمانية ساندرا هولر إلى مركز الاهتمام السينمائي.",
+        "body": "في مهرجان كان السينمائي 2026، أصبح فيلم «فاذرلاند» للمخرج باول بافليكوفسكي محور الاهتمام فور الكشف عنه. ويعد ظهور الممثلة الألمانية ساندرا هولر أحد العوامل الأساسية التي رفعت مستوى الاهتمام بالعمل. وقد قُدمت هولر بوصفها شخصية يليق بها وصف «إحدى أفضل ممثلات العصر»، كما جرى التذكير بصلتها بفيلم «تشريح سقوط» المرتبط بالسعفة الذهبية في مهرجان كان 2023. ويُنظر إلى هذا العمل في كان بوصفه حالة جديدة تؤكد ثقل اسم هولر في السينما. ومن المتوقع أن تبقى تقييمات «فاذرلاند» وردود الفعل على أداء هولر من أبرز اهتمامات الوسط السينمائي. المصدر: نقلاً عن mk.co.kr"
+      },
+      "hi": {
+        "title": "कान 2026 में Fatherland पर नजर, Sandra Hüller फिर चर्चा के शीर्ष पर",
+        "excerpt": "2026 कान फिल्म फेस्टिवल में पावेल पावलिकोव्स्की की Fatherland के सामने आते ही ध्यान खिंचा, जबकि जर्मन अभिनेत्री Sandra Hüller फिर फिल्म जगत की चर्चा में रहीं।",
+        "body": "2026 कान फिल्म फेस्टिवल में पावेल पावलिकोव्स्की निर्देशित फिल्म Fatherland सामने आते ही चर्चा के केंद्र में आ गई। जर्मन अभिनेत्री Sandra Hüller की उपस्थिति को इसकी प्रमुख वजह माना जा रहा है। Hüller को ऐसी कलाकार के रूप में पेश किया गया जिन पर “समकालीन दौर की सर्वश्रेष्ठ अभिनेत्रियों में से एक” जैसा वर्णन सटीक बैठता है। साथ ही फिल्म Anatomy of a Fall और 2023 कान फिल्म फेस्टिवल के पाल्मे डी’ओर से जुड़ी उनकी पृष्ठभूमि का भी उल्लेख हुआ। यह फिल्म कान में एक बार फिर Hüller के नाम के प्रभाव को दिखाने वाला उदाहरण मानी जा रही है। आगे Fatherland की समीक्षा और Hüller के अभिनय पर प्रतिक्रियाएं फिल्म जगत की मुख्य रुचि बनी रह सकती हैं। स्रोत: mk.co.kr से उद्धृत"
+      },
+      "id": {
+        "title": "Cannes 2026 Soroti Fatherland, Sandra Hüller Lagi-Lagi Jadi Pusat Perhatian",
+        "excerpt": "Di Festival Film Cannes 2026, Fatherland karya Pawel Pawlikowski menarik perhatian segera setelah diperkenalkan, dengan aktris Jerman Sandra Hüller kembali menjadi sorotan.",
+        "body": "Di Festival Film Cannes 2026, film Fatherland garapan Pawel Pawlikowski langsung menjadi pusat perhatian setelah diperkenalkan. Kehadiran aktris Jerman Sandra Hüller disebut sebagai faktor utama yang meningkatkan sorotan. Hüller digambarkan sebagai sosok yang layak menyandang sebutan “salah satu aktor terbaik masa kini”, dan riwayatnya yang terkait dengan Anatomy of a Fall serta Palme d’Or Cannes 2023 juga turut disebutkan. Karya ini dipandang di Cannes sebagai contoh lain yang menegaskan kuatnya nama Hüller. Ke depan, penilaian terhadap Fatherland dan respons atas akting Hüller diperkirakan tetap menjadi perhatian utama dunia film. Sumber: dikutip dari mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "0eaf301f5c7f",
+    "slug": "부정맥-진단-밤샘에스프레소-3잔이면사기-보험설계사-최후는-566974",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-05-16T01:47:43.511Z",
+    "updatedAt": "2026-05-16T01:47:43.511Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12049942",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12049942",
+    "titleFingerprint": "fb58bce3f463df416821f9e901d9b3166b306f5b",
+    "dedupKeys": [
+      "0eaf301f5c7fa7485453fc344d25b150a9a1662f",
+      "fb58bce3f463df416821f9e901d9b3166b306f5b",
+      "41681de19557393cc67cb0d0a5f6db921b7e424b"
+    ],
+    "imageUrl": "/images/articles/0eaf301f5c7f.png",
+    "i18n": {
+      "ko": {
+        "title": "부정맥 허위진단 보험금 사기, 고객에 수법 알려준 설계사 실형",
+        "excerpt": "16일 법조계에 따르면 고객들에게 병원에서 허위로 부정맥 진단을 받는 요령을 알려주고 보험금을 받게 한 보험설계사가 사기 혐의로 실형을 선고받았다.",
+        "body": "고객들이 병원에서 허위로 부정맥 진단을 받도록 요령을 알려주고 보험금을 타게 한 혐의로 재판에 넘겨진 보험설계사가 실형을 선고받았다. 16일 법조계에 따르면 부산지법 형사6단독은 해당 보험설계사의 보험사기 혐의를 유죄로 판단했다. 원문에 따르면 그는 고객들에게 밤을 새우거나 에스프레소 3잔을 마시는 방식 등으로 부정맥 진단을 받는 방법을 알려준 것으로 전해졌다. 이번 판결은 허위 진단을 이용한 보험금 청구가 형사처벌 대상이 될 수 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Insurance Agent Jailed Over Fake Arrhythmia Diagnosis Claims Scheme",
+        "excerpt": "According to legal circles on the 16th, an insurance agent was sentenced to prison for allegedly teaching clients how to obtain false arrhythmia diagnoses and claim insurance payouts.",
+        "body": "An insurance agent who was put on trial for allegedly instructing clients on how to receive false arrhythmia diagnoses at hospitals and obtain insurance payouts has been sentenced to prison. According to legal circles on the 16th, Busan District Court Criminal Division 6 found the agent guilty of insurance fraud. The original report said the agent told clients methods such as staying up all night or drinking three espressos to help receive an arrhythmia diagnosis. The ruling shows that insurance claims based on false diagnoses can lead to criminal punishment. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "不整脈の虚偽診断で保険金詐欺、手口を教えた保険設計士に実刑",
+        "excerpt": "法曹界が16日に明らかにしたところによると、顧客に病院で不整脈の虚偽診断を受ける方法を教え、保険金を受け取らせた保険設計士に実刑が言い渡された。",
+        "body": "顧客が病院で不整脈の虚偽診断を受けられるよう方法を教え、保険金を受け取らせた疑いで裁判にかけられた保険設計士に実刑が言い渡された。法曹界が16日に明らかにしたところによると、釜山地裁刑事6単独はこの保険設計士の保険詐欺容疑を有罪と判断した。原文によれば、同氏は徹夜をしたりエスプレッソを3杯飲んだりする方法などを顧客に伝え、不整脈診断を受けるよう促したとされる。今回の判決は、虚偽診断を利用した保険金請求が刑事処罰の対象になり得ることを示した。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "虚假心律失常诊断骗保，教客户操作的保险代理人获刑",
+        "excerpt": "据法律界16日消息，一名保险代理人因涉嫌教客户在医院取得虚假心律失常诊断并领取保险金，被法院判处实刑。",
+        "body": "一名保险代理人因涉嫌教客户如何在医院取得虚假心律失常诊断并领取保险金而被移送审判，最终被判处实刑。据法律界16日消息，釜山地方法院刑事6单独认定该保险代理人的保险诈骗嫌疑成立。原文称，此人曾向客户说明熬夜或喝3杯浓缩咖啡等方式，以便获得心律失常诊断。该判决显示，利用虚假诊断申请保险金可能成为刑事处罚对象。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Agente de seguros recibe prisión por fraude con falsos diagnósticos de arritmia",
+        "excerpt": "Según fuentes jurídicas el día 16, un agente de seguros fue condenado a prisión por enseñar a clientes cómo obtener falsos diagnósticos de arritmia y cobrar indemnizaciones.",
+        "body": "Un agente de seguros que fue llevado a juicio por presuntamente enseñar a sus clientes cómo recibir diagnósticos falsos de arritmia en hospitales y cobrar pagos del seguro fue condenado a prisión. Según fuentes jurídicas el día 16, la Sala Penal unipersonal 6 del Tribunal del Distrito de Busan declaró culpable al agente por fraude de seguros. El reporte original señala que indicó métodos como pasar la noche despierto o beber tres espressos para obtener un diagnóstico de arritmia. El fallo muestra que reclamar seguros con diagnósticos falsos puede derivar en castigo penal. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Corretor é preso por fraude com falsos diagnósticos de arritmia para seguro",
+        "excerpt": "Segundo o meio jurídico no dia 16, um corretor de seguros foi condenado à prisão por ensinar clientes a obter falsos diagnósticos de arritmia e receber indenizações.",
+        "body": "Um corretor de seguros levado a julgamento por supostamente orientar clientes sobre como obter falsos diagnósticos de arritmia em hospitais e receber pagamentos de seguro foi condenado à prisão. Segundo o meio jurídico no dia 16, a 6ª Vara Criminal unipessoal do Tribunal Distrital de Busan considerou o corretor culpado de fraude securitária. A reportagem original afirma que ele ensinava métodos como passar a noite acordado ou beber três expressos para receber diagnóstico de arritmia. A decisão mostra que pedidos de seguro baseados em diagnósticos falsos podem resultar em punição criminal. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Versicherungsvertreter wegen Betrugs mit falschen Arrhythmie-Diagnosen verurteilt",
+        "excerpt": "Juristischen Kreisen zufolge wurde am 16. bekannt, dass ein Versicherungsvertreter zu Haft verurteilt wurde, weil er Kunden zu falschen Arrhythmie-Diagnosen und Auszahlungen angeleitet haben soll.",
+        "body": "Ein Versicherungsvertreter, der vor Gericht stand, weil er Kunden angeblich erklärt hatte, wie sie in Krankenhäusern falsche Arrhythmie-Diagnosen erhalten und Versicherungszahlungen kassieren könnten, wurde zu einer Haftstrafe verurteilt. Juristischen Kreisen zufolge befand die Strafabteilung 6 des Bezirksgerichts Busan den Vertreter des Versicherungsbetrugs für schuldig. Dem Originalbericht zufolge nannte er Methoden wie eine durchwachte Nacht oder drei Espressos, um eine Arrhythmie-Diagnose zu bekommen. Das Urteil zeigt, dass Versicherungsansprüche auf Basis falscher Diagnosen strafrechtliche Folgen haben können. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Un agent d’assurance emprisonné pour fraude aux faux diagnostics d’arythmie",
+        "excerpt": "Selon des milieux judiciaires le 16, un agent d’assurance a été condamné à de la prison pour avoir expliqué à des clients comment obtenir de faux diagnostics d’arythmie et toucher des indemnités.",
+        "body": "Un agent d’assurance poursuivi pour avoir indiqué à des clients comment obtenir de faux diagnostics d’arythmie à l’hôpital et percevoir des indemnités d’assurance a été condamné à une peine de prison. Selon des milieux judiciaires le 16, la 6e chambre pénale à juge unique du tribunal du district de Busan l’a reconnu coupable de fraude à l’assurance. Le rapport original indique qu’il conseillait notamment de rester éveillé toute la nuit ou de boire trois expressos pour obtenir un diagnostic d’arythmie. Cette décision montre que les demandes d’indemnisation fondées sur de faux diagnostics peuvent entraîner des sanctions pénales. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سجن وكيل تأمين في احتيال بتشخيصات كاذبة لاضطراب نظم القلب",
+        "excerpt": "أفادت أوساط قانونية في 16 من الشهر بأن وكيل تأمين حُكم عليه بالسجن بعدما علّم عملاءه كيفية الحصول على تشخيصات كاذبة باضطراب نظم القلب وصرف تعويضات تأمينية.",
+        "body": "حُكم على وكيل تأمين بالسجن بعد إحالته إلى المحاكمة بتهمة إرشاد عملاء إلى كيفية الحصول على تشخيصات كاذبة باضطراب نظم القلب في المستشفى وصرف مبالغ التأمين. ووفق أوساط قانونية في 16 من الشهر، أدانت الدائرة الجنائية السادسة المنفردة في محكمة بوسان الجزئية الوكيل بتهمة الاحتيال التأميني. وذكر التقرير الأصلي أنه أخبر العملاء بطرق مثل السهر طوال الليل أو شرب ثلاثة أكواب من الإسبريسو للحصول على تشخيص باضطراب نظم القلب. ويظهر الحكم أن مطالبات التأمين القائمة على تشخيصات كاذبة قد تؤدي إلى عقوبة جنائية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "फर्जी एरिदमिया निदान से बीमा धोखाधड़ी, एजेंट को जेल की सजा",
+        "excerpt": "कानूनी जगत के अनुसार 16 तारीख को, ग्राहकों को अस्पताल में फर्जी एरिदमिया निदान लेने और बीमा राशि प्राप्त करने की तरकीब बताने वाले बीमा एजेंट को जेल की सजा सुनाई गई।",
+        "body": "ग्राहकों को अस्पताल में फर्जी एरिदमिया निदान प्राप्त करने के तरीके बताकर उन्हें बीमा भुगतान दिलाने के आरोप में मुकदमे का सामना कर रहे एक बीमा एजेंट को जेल की सजा सुनाई गई। कानूनी जगत के अनुसार 16 तारीख को, बुसान जिला अदालत की आपराधिक एकल पीठ 6 ने एजेंट को बीमा धोखाधड़ी का दोषी माना। मूल रिपोर्ट के अनुसार, उसने ग्राहकों को रात भर जागने या तीन एस्प्रेसो पीने जैसे तरीके बताए ताकि एरिदमिया का निदान मिल सके। यह फैसला दिखाता है कि फर्जी निदान के आधार पर बीमा दावा करना आपराधिक सजा का कारण बन सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Agen Asuransi Dipenjara atas Klaim Palsu Diagnosis Aritmia Nasabah",
+        "excerpt": "Menurut kalangan hukum pada tanggal 16, seorang agen asuransi dijatuhi hukuman penjara karena mengajari nasabah cara mendapat diagnosis aritmia palsu dan mencairkan uang asuransi.",
+        "body": "Seorang agen asuransi yang diadili karena diduga mengajari nasabah cara memperoleh diagnosis aritmia palsu di rumah sakit dan menerima pembayaran asuransi dijatuhi hukuman penjara. Menurut kalangan hukum pada tanggal 16, Pengadilan Distrik Busan Divisi Pidana 6 menyatakan agen tersebut bersalah atas penipuan asuransi. Laporan asli menyebutkan bahwa ia memberi tahu nasabah metode seperti begadang semalaman atau meminum tiga espresso agar mendapat diagnosis aritmia. Putusan ini menunjukkan bahwa klaim asuransi berdasarkan diagnosis palsu dapat berujung pada hukuman pidana. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "da998da298e6",
     "slug": "에르메스-가방이-단돈-2만원대mz-실속소비에-다시-유행-아이템-알아보니-252590",
     "channelId": "FX",
@@ -4271,231 +4496,6 @@
         "title": "Perang Efisiensi AI Menguat, Perusahaan Korea Melihat Banyak Peluang",
         "excerpt": "Pada KIW 2026 di Seoul, 15 Mei, perusahaan AI Korea mengatakan persaingan bergeser dari komputasi mentah ke efisiensi, perangkat harian dan edge AI.",
         "body": "Dalam Korea Investment Week (KIW) 2026 yang digelar 15 Mei di Shilla Hotel, Jangchung-dong, Seoul, perusahaan AI utama Korea yang bersiap IPO mengatakan pasar AI bergerak dari komputasi menuju efisiensi dan dari pusat data menuju perangkat sehari-hari. Point2 Technology menyebut hambatan interkoneksi yang menghubungkan GPU dapat menurunkan kinerja komputasi sekitar 30%, lalu memperkenalkan e-Tube, dengan jarak transmisi hingga 10 kali kabel tembaga dan konsumsi daya sepertiga dari komunikasi optik. Elice Group menyoroti AI full stack dan pusat data modular, sedangkan DEEPX dan Mobilint menekankan cip berdaya sangat rendah dan edge AI. Mobilint mengatakan pasar edge AI tumbuh lebih dari 20% per tahun dan NPU miliknya memberi kinerja per watt 4 hingga 6 kali lebih tinggi daripada GPU. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "74dfc13f776e",
-    "slug": "1000원도-안되는-게-140개떨고-있는-코스닥-개미들-838691",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-15T14:23:15.432Z",
-    "updatedAt": "2026-05-15T14:23:15.432Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051598441",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051598441",
-    "titleFingerprint": "2751a6caf888180e21771492cbc73cf485618475",
-    "dedupKeys": [
-      "74dfc13f776e917fabdd4939edf1174f6eb247fb",
-      "2751a6caf888180e21771492cbc73cf485618475",
-      "3caf6e6b1ca1e3e6cc5664aba4192805fa66ebb7"
-    ],
-    "imageUrl": "/images/articles/74dfc13f776e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스닥 1000원 미만 종목 140개, 불안 커진 개인투자자들",
-        "excerpt": "한국경제는 코스닥에서 주가가 1000원도 안 되는 종목이 140개에 이르며 개인투자자들의 불안이 커지고 있다고 보도했다.",
-        "body": "한국경제는 코스닥 시장에서 주가가 1000원도 안 되는 종목이 140개에 달한다고 보도했다. 기사 제목은 이 같은 저가 종목 증가를 두고 코스닥 개인투자자들이 불안감을 느끼고 있다는 점을 전했다. 현재 확인 가능한 원문 정보는 ‘1000원도 안 되는 종목 140개’와 ‘떨고 있는 코스닥 개미들’이라는 핵심 내용이다. 이는 코스닥 내 초저가 종목의 규모가 투자심리에 부담으로 작용할 수 있음을 보여준다. 다만 구체적인 종목명, 집계 기준일, 원인, 향후 전망은 제공된 원문 정보에 포함돼 있지 않다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KOSDAQ Stocks Below 1,000 Won Hit 140, Retail Investors Grow Uneasy",
-        "excerpt": "Hankyung reported that 140 KOSDAQ-listed stocks are trading below 1,000 won, heightening concern among retail investors in the market.",
-        "body": "Hankyung reported that 140 stocks on the KOSDAQ market are priced at less than 1,000 won. The article’s headline focused on the growing anxiety among retail investors as the number of such low-priced shares stands at 140. The confirmed information from the original text is limited to the figure of “140 stocks below 1,000 won” and the concern felt by KOSDAQ retail investors. This suggests that the scale of ultra-low-priced stocks may be weighing on investor sentiment. However, the original information provided does not include specific stock names, the date of the count, causes, or a detailed outlook. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "KOSDAQで1000ウォン未満が140銘柄、個人投資家に不安広がる",
-        "excerpt": "韓国経済は、KOSDAQで株価が1000ウォンにも満たない銘柄が140に達し、個人投資家の不安が高まっていると報じた。",
-        "body": "韓国経済は、KOSDAQ市場で株価が1000ウォンにも満たない銘柄が140に上ると報じた。記事の見出しは、こうした低価格銘柄の増加を受け、KOSDAQの個人投資家が不安を感じている点を伝えている。確認できる原文情報は「1000ウォンにも満たない銘柄が140」と「震えているKOSDAQの個人投資家」という核心内容に限られる。これは、KOSDAQ内の超低価格銘柄の規模が投資心理の負担になり得ることを示す。ただし、具体的な銘柄名、集計基準日、原因、今後の見通しは提供された原文情報に含まれていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "KOSDAQ低于1000韩元股票达140只，散户投资者不安升温",
-        "excerpt": "韩国经济报道称，KOSDAQ市场中股价不到1000韩元的股票达到140只，令个人投资者的不安情绪上升。",
-        "body": "韩国经济报道称，KOSDAQ市场上股价不到1000韩元的股票达到140只。该报道标题强调，随着这类低价股票数量增加，KOSDAQ个人投资者正感到不安。目前可确认的原文信息仅包括“不到1000韩元的股票有140只”以及“KOSDAQ散户投资者感到担忧”这一核心内容。这显示，KOSDAQ市场内超低价股票的规模可能对投资情绪造成压力。不过，所提供的原文信息并未包含具体股票名称、统计日期、形成原因或后续展望。来源: hankyung.com"
-      },
-      "es": {
-        "title": "KOSDAQ suma 140 acciones por debajo de 1.000 wones y preocupa a minoristas",
-        "excerpt": "Hankyung informó que 140 acciones del KOSDAQ cotizan por debajo de 1.000 wones, elevando la inquietud entre los inversores minoristas.",
-        "body": "Hankyung informó que en el mercado KOSDAQ hay 140 acciones con precios inferiores a 1.000 wones. El titular del artículo destacó la inquietud de los inversores minoristas del KOSDAQ ante el aumento de este grupo de acciones de bajo precio. La información confirmada del texto original se limita a dos puntos: “140 acciones por debajo de 1.000 wones” y la preocupación de los pequeños inversores del KOSDAQ. Esto indica que el volumen de valores de precio ultrabajo puede estar pesando sobre el ánimo inversor. Sin embargo, la información original proporcionada no incluye nombres de acciones, fecha del recuento, causas ni perspectivas futuras. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "KOSDAQ tem 140 ações abaixo de 1.000 wons e aumenta temor de varejo",
-        "excerpt": "O Hankyung informou que 140 ações listadas na KOSDAQ estão abaixo de 1.000 wons, ampliando a preocupação entre investidores pessoas físicas.",
-        "body": "O Hankyung informou que, no mercado KOSDAQ, 140 ações estão sendo negociadas por menos de 1.000 wons. A manchete destacou a ansiedade dos investidores pessoas físicas diante do número de papéis de baixo preço. As informações confirmadas no texto original se limitam ao dado de “140 ações abaixo de 1.000 wons” e à preocupação dos investidores individuais da KOSDAQ. Isso sugere que a escala de ações de preço ultrabaixo pode pesar sobre o sentimento do mercado. No entanto, o material original fornecido não inclui nomes específicos de ações, data de apuração, causas ou uma perspectiva detalhada. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KOSDAQ: 140 Aktien unter 1.000 Won, Privatanleger werden nervös",
-        "excerpt": "Hankyung berichtete, dass am KOSDAQ 140 Aktien unter 1.000 Won notieren und die Sorge unter Privatanlegern zunimmt.",
-        "body": "Hankyung berichtete, dass am KOSDAQ-Markt 140 Aktien zu weniger als 1.000 Won gehandelt werden. Die Überschrift des Artikels stellte die wachsende Verunsicherung der Privatanleger in den Mittelpunkt, nachdem die Zahl dieser niedrig bewerteten Aktien 140 erreicht hat. Die bestätigten Informationen aus dem Ausgangstext beschränken sich auf „140 Aktien unter 1.000 Won“ und die Sorge der KOSDAQ-Privatanleger. Dies deutet darauf hin, dass der Umfang extrem niedrig gepreister Aktien die Anlegerstimmung belasten kann. Konkrete Aktientitel, Stichtag der Zählung, Ursachen oder ein Ausblick sind in den bereitgestellten Originalinformationen jedoch nicht enthalten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "KOSDAQ compte 140 actions sous 1 000 wons, les particuliers s’inquiètent",
-        "excerpt": "Hankyung rapporte que 140 actions du KOSDAQ se négocient sous 1 000 wons, alimentant l’inquiétude des investisseurs particuliers.",
-        "body": "Hankyung a rapporté que 140 actions du marché KOSDAQ se négocient à moins de 1 000 wons. Le titre de l’article met l’accent sur l’inquiétude croissante des investisseurs particuliers face à ce nombre élevé de titres à bas prix. Les informations confirmées dans le texte original se limitent au chiffre de « 140 actions sous 1 000 wons » et à la nervosité des particuliers investissant sur le KOSDAQ. Cela montre que l’ampleur des actions à prix très bas peut peser sur le sentiment des investisseurs. Toutefois, les informations fournies ne précisent pas les noms des titres, la date du décompte, les causes ni les perspectives à venir. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كوسداك يسجل 140 سهما دون 1000 وون وقلق المستثمرين الأفراد يتصاعد",
-        "excerpt": "ذكرت هانكيونغ أن 140 سهما في سوق كوسداك يجري تداولها بأقل من 1000 وون، ما يزيد قلق المستثمرين الأفراد.",
-        "body": "ذكرت هانكيونغ أن سوق كوسداك يضم 140 سهما لا يصل سعر السهم فيها إلى 1000 وون. وركز عنوان التقرير على القلق المتزايد بين المستثمرين الأفراد في كوسداك مع ارتفاع عدد هذه الأسهم منخفضة السعر. المعلومات المؤكدة من النص الأصلي تقتصر على أن “140 سهما دون 1000 وون” وأن مستثمري كوسداك الأفراد يشعرون بالقلق. ويشير ذلك إلى أن حجم الأسهم شديدة الانخفاض في السعر قد يضغط على معنويات المستثمرين. لكن المعلومات الأصلية المقدمة لا تتضمن أسماء الأسهم، أو تاريخ الإحصاء، أو الأسباب، أو توقعات مفصلة للفترة المقبلة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KOSDAQ में 1,000 वॉन से नीचे 140 शेयर, खुदरा निवेशकों की चिंता बढ़ी",
-        "excerpt": "Hankyung ने बताया कि KOSDAQ में 140 शेयर 1,000 वॉन से कम पर कारोबार कर रहे हैं, जिससे खुदरा निवेशकों की बेचैनी बढ़ रही है।",
-        "body": "Hankyung ने बताया कि KOSDAQ बाजार में 140 शेयरों की कीमत 1,000 वॉन से कम है। लेख के शीर्षक ने ऐसे कम कीमत वाले शेयरों की संख्या बढ़ने के बीच KOSDAQ के खुदरा निवेशकों की चिंता को रेखांकित किया। मूल जानकारी से पुष्टि होने वाले तथ्य केवल “1,000 वॉन से कम कीमत वाले 140 शेयर” और “KOSDAQ के छोटे निवेशकों की घबराहट” तक सीमित हैं। यह बताता है कि बेहद कम कीमत वाले शेयरों का आकार निवेशक भावना पर दबाव डाल सकता है। हालांकि, दिए गए मूल पाठ में खास शेयरों के नाम, गिनती की तारीख, कारण या आगे का विस्तृत अनुमान शामिल नहीं है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "KOSDAQ Punya 140 Saham di Bawah 1.000 Won, Investor Ritel Cemas",
-        "excerpt": "Hankyung melaporkan 140 saham di KOSDAQ diperdagangkan di bawah 1.000 won, memicu kecemasan di kalangan investor ritel.",
-        "body": "Hankyung melaporkan bahwa di pasar KOSDAQ terdapat 140 saham dengan harga di bawah 1.000 won. Judul artikel menyoroti meningkatnya kecemasan investor ritel KOSDAQ seiring banyaknya saham berharga rendah tersebut. Informasi yang dapat dikonfirmasi dari teks asli terbatas pada angka “140 saham di bawah 1.000 won” dan kekhawatiran investor individu di KOSDAQ. Hal ini menunjukkan bahwa jumlah saham berharga sangat rendah dapat membebani sentimen investor. Namun, informasi asli yang diberikan tidak mencantumkan nama saham tertentu, tanggal penghitungan, penyebab, atau prospek ke depan secara rinci. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "aad796f3aa18",
-    "slug": "평택시-지역총생산-경기도-톱3-진입-957060",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-15T14:22:17.913Z",
-    "updatedAt": "2026-05-15T14:22:17.913Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12049066",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12049066",
-    "titleFingerprint": "9cf30856775e71debaf2545e696d81e425f29b7d",
-    "dedupKeys": [
-      "aad796f3aa18fc4f891dfbafcf40fef356834f9e",
-      "9cf30856775e71debaf2545e696d81e425f29b7d",
-      "88a4b5969a082ca1d0c83c691a0dd48119511d58"
-    ],
-    "imageUrl": "/images/articles/aad796f3aa18.jpg",
-    "i18n": {
-      "ko": {
-        "title": "평택시 GRDP 41조8499억원, 경기도 31개 시군 중 톱3 진입",
-        "excerpt": "평택시가 지역내총생산 41조8499억원을 기록하며 경기도 31개 시군 가운데 화성시와 성남시에 이어 3위에 올랐고, 제조업과 건설업 활성화가 주요 배경으로 꼽혔다.",
-        "body": "평택시가 지역내총생산(GRDP) 41조8499억원을 기록하며 경기도 31개 시군 가운데 3번째로 높은 규모에 올랐다. 평택시(시장 정장선)는 화성시와 성남시에 이어 경기도 GRDP 상위권에 진입했다. 이번 순위는 지역 경제 규모를 보여주는 지표로, 제조업과 건설업의 활성화가 주요 원인으로 제시됐다. GRDP는 일정 지역에서 생산된 부가가치의 합계를 뜻해 지역 산업 활동과 경제 체력을 가늠하는 데 활용된다. 평택시는 제조업 기반과 건설업 흐름이 맞물리며 도내 주요 경제 거점으로 존재감을 키운 것으로 평가된다. 향후 지역 산업 구조와 건설 경기 흐름이 평택시 경제 지표의 지속 여부를 가를 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Pyeongtaek GRDP reaches 41.8499 trillion won, enters Gyeonggi top 3",
-        "excerpt": "Pyeongtaek recorded GRDP of 41.8499 trillion won, ranking third among Gyeonggi Province’s 31 cities and counties after Hwaseong and Seongnam, driven by active manufacturing and construction.",
-        "body": "Pyeongtaek City recorded gross regional domestic product (GRDP) of 41.8499 trillion won, making it the third-largest economy among Gyeonggi Province’s 31 cities and counties. The city, led by Mayor Jung Jang-seon, ranked after Hwaseong and Seongnam in the province’s GRDP standings. The result is a key indicator of local economic scale, with active manufacturing and construction cited as the main reasons. GRDP measures the total value added produced within a region and is used to assess local industrial activity and economic strength. Pyeongtaek’s manufacturing base and construction momentum helped strengthen its position as a major economic hub in the province. Future industry structure and construction trends will be important for whether the city maintains this economic standing. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "平沢市GRDP41兆8499億ウォン、京畿道31市郡でトップ3入り",
-        "excerpt": "平沢市は地域内総生産41兆8499億ウォンを記録し、京畿道31市郡のうち華城市、城南市に次ぐ3位となり、製造業と建設業の活性化が主因とされた。",
-        "body": "平沢市の地域内総生産（GRDP）は41兆8499億ウォンを記録し、京畿道31市郡の中で3番目に高い規模となった。平沢市（市長・鄭長善）は華城市、城南市に続き、京畿道のGRDP上位圏に入った。今回の順位は地域経済の規模を示す指標であり、製造業と建設業の活性化が主な要因として挙げられた。GRDPは一定地域で生産された付加価値の合計を意味し、地域の産業活動と経済体力を測る際に活用される。平沢市は製造業基盤と建設業の流れが重なり、道内の主要経済拠点として存在感を高めたと評価される。今後は地域産業構造と建設景気の動きが、この経済指標の持続性を左右する見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "平泽市GRDP达41.8499万亿韩元，跻身京畿道前三",
-        "excerpt": "平泽市地区生产总值达41.8499万亿韩元，在京畿道31个市郡中位列第三，仅次于华城市和城南市，制造业与建筑业活跃被指为主要原因。",
-        "body": "平泽市地区生产总值（GRDP）达到41.8499万亿韩元，在京畿道31个市郡中位居第三。平泽市（市长郑长善）仅次于华城市和城南市，进入京畿道GRDP前列。该排名反映了地区经济规模，制造业和建筑业的活跃被认为是主要原因。GRDP指一定区域内生产的附加值总和，常用于衡量地区产业活动和经济实力。平泽市凭借制造业基础和建筑业发展势头，在道内主要经济据点中的存在感进一步增强。未来，当地产业结构和建筑景气走势将影响平泽市能否持续保持这一经济指标表现。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Pyeongtaek alcanza 41,8499 billones de wones en GRDP y entra al top 3 de Gyeonggi",
-        "excerpt": "Pyeongtaek registró un GRDP de 41,8499 billones de wones y quedó tercera entre las 31 ciudades y condados de Gyeonggi, detrás de Hwaseong y Seongnam, por el impulso manufacturero y constructor.",
-        "body": "La ciudad de Pyeongtaek registró un producto regional bruto (GRDP) de 41,8499 billones de wones, el tercer nivel más alto entre las 31 ciudades y condados de la provincia de Gyeonggi. Pyeongtaek, encabezada por el alcalde Jung Jang-seon, se ubicó detrás de Hwaseong y Seongnam en la clasificación provincial. El dato muestra la escala de la economía local, y la activación de la manufactura y la construcción fue señalada como la causa principal. El GRDP mide el valor agregado producido dentro de una región y se usa para evaluar la actividad industrial y la fortaleza económica local. La base manufacturera de Pyeongtaek y el dinamismo de la construcción reforzaron su presencia como centro económico relevante en la provincia. La estructura industrial regional y el ciclo de la construcción serán claves para sostener estos indicadores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Pyeongtaek chega a 41,8499 trilhões de won em GRDP e entra no top 3 de Gyeonggi",
-        "excerpt": "Pyeongtaek registrou GRDP de 41,8499 trilhões de won e ficou em terceiro entre as 31 cidades e condados de Gyeonggi, atrás de Hwaseong e Seongnam, com força da manufatura e construção.",
-        "body": "A cidade de Pyeongtaek registrou produto regional bruto (GRDP) de 41,8499 trilhões de won, o terceiro maior valor entre as 31 cidades e condados da província de Gyeonggi. Pyeongtaek, administrada pelo prefeito Jung Jang-seon, ficou atrás de Hwaseong e Seongnam no ranking provincial. O resultado indica a escala da economia local, e a atividade mais forte nos setores de manufatura e construção foi apontada como principal causa. O GRDP representa a soma do valor agregado produzido em uma região e é usado para medir a atividade industrial e a capacidade econômica local. A base manufatureira de Pyeongtaek e o movimento da construção ampliaram sua presença como polo econômico relevante na província. A continuidade desse desempenho dependerá da estrutura industrial regional e do ritmo da construção. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Pyeongtaek erreicht 41,8499 Billionen Won GRDP und steigt in Gyeonggis Top 3 auf",
-        "excerpt": "Pyeongtaek erzielte ein GRDP von 41,8499 Billionen Won und liegt unter 31 Städten und Kreisen in Gyeonggi hinter Hwaseong und Seongnam auf Rang drei, gestützt durch Industrie und Bau.",
-        "body": "Die Stadt Pyeongtaek hat ein regionales Bruttoinlandsprodukt (GRDP) von 41,8499 Billionen Won erzielt und liegt damit unter den 31 Städten und Kreisen der Provinz Gyeonggi auf Rang drei. Pyeongtaek unter Bürgermeister Jung Jang-seon folgt in der GRDP-Rangliste auf Hwaseong und Seongnam. Die Platzierung zeigt die Größe der lokalen Wirtschaft; als Hauptgründe wurden die Belebung des verarbeitenden Gewerbes und der Bauwirtschaft genannt. Das GRDP misst die Summe der in einer Region geschaffenen Wertschöpfung und dient zur Bewertung industrieller Aktivität und wirtschaftlicher Stärke. Pyeongtaeks industrielle Basis und die Bautätigkeit stärkten seine Rolle als wichtiger Wirtschaftsstandort der Provinz. Künftig werden Industriestruktur und Baukonjunktur entscheidend dafür sein, ob diese Kennziffer gehalten wird. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Pyeongtaek atteint 41,8499 billions de wons de GRDP et entre dans le top 3 du Gyeonggi",
-        "excerpt": "Pyeongtaek a enregistré un GRDP de 41,8499 billions de wons et se classe troisième parmi les 31 villes et comtés du Gyeonggi, après Hwaseong et Seongnam, grâce à l’industrie et au BTP.",
-        "body": "La ville de Pyeongtaek a enregistré un produit régional brut (GRDP) de 41,8499 billions de wons, le troisième niveau le plus élevé parmi les 31 villes et comtés de la province du Gyeonggi. Pyeongtaek, dirigée par le maire Jung Jang-seon, se place derrière Hwaseong et Seongnam dans le classement provincial. Ce résultat illustre l’ampleur de l’économie locale, avec l’activité manufacturière et la construction citées comme principales causes. Le GRDP correspond à la somme de la valeur ajoutée produite dans une région et sert à évaluer l’activité industrielle et la solidité économique locale. La base manufacturière de Pyeongtaek et la dynamique du BTP ont renforcé sa présence comme pôle économique majeur de la province. L’évolution de la structure industrielle et du marché de la construction déterminera la poursuite de cette performance. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "بيونغتايك تسجل 41.8499 تريليون وون في GRDP وتدخل المراكز الثلاثة الأولى في غيونغي",
-        "excerpt": "سجلت بيونغتايك ناتجا محليا إقليميا قدره 41.8499 تريليون وون، لتحتل المركز الثالث بين 31 مدينة ومقاطعة في غيونغي بعد هواسيونغ وسيونغنام، بدعم من التصنيع والبناء.",
-        "body": "سجلت مدينة بيونغتايك ناتجا محليا إقليميا إجماليا (GRDP) قدره 41.8499 تريليون وون، لتصبح ثالث أكبر اقتصاد بين 31 مدينة ومقاطعة في مقاطعة غيونغي. وجاءت بيونغتايك، التي يرأسها العمدة جونغ جانغ-سون، بعد هواسيونغ وسيونغنام في ترتيب GRDP داخل المقاطعة. ويعد هذا الترتيب مؤشرا على حجم الاقتصاد المحلي، إذ ذُكر نشاط قطاعي التصنيع والبناء كسبب رئيسي. ويقيس GRDP مجموع القيمة المضافة المنتجة داخل منطقة محددة، ويستخدم لتقدير النشاط الصناعي والقوة الاقتصادية المحلية. وقد ساعدت قاعدة التصنيع في بيونغتايك وزخم قطاع البناء على تعزيز حضورها كمركز اقتصادي مهم في المقاطعة. وسيؤثر هيكل الصناعة المحلي واتجاهات البناء في استمرار هذه المؤشرات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "प्योंगटेक का GRDP 41.8499 ट्रिलियन वॉन, ग्योंगगी के शीर्ष 3 में प्रवेश",
-        "excerpt": "प्योंगटेक ने 41.8499 ट्रिलियन वॉन का GRDP दर्ज किया और ग्योंगगी के 31 शहरों व काउंटियों में ह्वासोंग और सोंगनाम के बाद तीसरे स्थान पर रहा, जिसका कारण विनिर्माण और निर्माण गतिविधि रही।",
-        "body": "प्योंगटेक सिटी ने 41.8499 ट्रिलियन वॉन का सकल क्षेत्रीय घरेलू उत्पाद (GRDP) दर्ज किया और ग्योंगगी प्रांत के 31 शहरों और काउंटियों में तीसरा सबसे बड़ा स्तर हासिल किया। मेयर जंग जांग-सन के नेतृत्व वाला प्योंगटेक, ह्वासोंग और सोंगनाम के बाद प्रांतीय GRDP रैंकिंग में आया। यह रैंकिंग स्थानीय अर्थव्यवस्था के आकार को दिखाती है, और विनिर्माण तथा निर्माण उद्योग की सक्रियता को मुख्य कारण बताया गया। GRDP किसी क्षेत्र में उत्पादित कुल मूल्यवर्धन को मापता है और स्थानीय औद्योगिक गतिविधि तथा आर्थिक क्षमता का आकलन करने में उपयोग होता है। प्योंगटेक के विनिर्माण आधार और निर्माण क्षेत्र की गति ने उसे प्रांत के प्रमुख आर्थिक केंद्र के रूप में मजबूत किया। आगे स्थानीय औद्योगिक संरचना और निर्माण बाजार की दिशा इस प्रदर्शन की निरंतरता तय करेगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "GRDP Pyeongtaek capai 41,8499 triliun won, masuk 3 besar Gyeonggi",
-        "excerpt": "Pyeongtaek mencatat GRDP 41,8499 triliun won dan menempati peringkat ketiga dari 31 kota dan county di Gyeonggi setelah Hwaseong dan Seongnam, didorong manufaktur dan konstruksi.",
-        "body": "Kota Pyeongtaek mencatat produk domestik regional bruto (GRDP) sebesar 41,8499 triliun won, menjadikannya yang ketiga tertinggi di antara 31 kota dan county di Provinsi Gyeonggi. Pyeongtaek, yang dipimpin Wali Kota Jung Jang-seon, berada di belakang Hwaseong dan Seongnam dalam peringkat GRDP provinsi. Peringkat ini menunjukkan skala ekonomi lokal, dengan aktivitas manufaktur dan konstruksi disebut sebagai penyebab utama. GRDP adalah jumlah nilai tambah yang diproduksi di suatu wilayah dan digunakan untuk menilai aktivitas industri serta kekuatan ekonomi daerah. Basis manufaktur Pyeongtaek dan laju sektor konstruksi memperkuat posisinya sebagai pusat ekonomi penting di provinsi tersebut. Ke depan, struktur industri lokal dan tren konstruksi akan menentukan keberlanjutan indikator ekonomi ini. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9864248391b5",
-    "slug": "인천공항-가면-주차-못했는데-이유-있었네감사-결과에-고개숙인-공사-962449",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-05-15T14:21:07.644Z",
-    "updatedAt": "2026-05-15T14:21:07.644Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12049660",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12049660",
-    "titleFingerprint": "9b2d612f3b6bb36ac07dc71f2f10cbe687ae8da0",
-    "dedupKeys": [
-      "9864248391b556caac24854bf4f645df04e80f3d",
-      "9b2d612f3b6bb36ac07dc71f2f10cbe687ae8da0",
-      "0c8e26e9b63bf7954ac97c518f64b972aef363e3"
-    ],
-    "imageUrl": "/images/articles/9864248391b5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "인천공항 주차난 키운 정기주차권 과다 발급, 공사 공식 사과",
-        "excerpt": "인천국제공항공사가 업무용 정기 주차권을 과도하게 발급해 이용객 주차난을 키웠다는 감사 결과가 나오자 공식 사과했다. 정기주차권 면적은 전체의 84%에 달했고 일부 직원의 사적 이용도 확인됐다.",
-        "body": "인천국제공항공사가 업무용 정기 주차권을 과도하게 발급해 공항 이용객의 주차난을 키웠다는 감사 결과가 나오자 공식 사과했다. 감사 결과에 따르면 정기주차권이 차지하는 면적은 전체 주차 관련 면적의 84%에 달했다. 또 일부 직원이 휴가철 등 업무와 무관한 시기에 정기 주차권을 사적으로 이용한 사례도 확인됐다. 공항 이용객들은 주차 공간 부족을 겪어 왔고, 이번 감사로 내부 주차권 운영 방식이 혼잡을 키운 요인으로 지목됐다. 공사는 감사 결과를 수용하고 고개를 숙였으며, 향후 주차권 관리와 운영 개선이 불가피할 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Incheon Airport Parking Crunch Tied to Excess Staff Passes, Operator Apologizes",
-        "excerpt": "Incheon International Airport Corp. apologized after an audit found excessive issuance of work-related parking passes worsened parking shortages for travelers, with regular pass areas accounting for 84% and some private use by staff confirmed.",
-        "body": "Incheon International Airport Corp. issued an official apology after an audit found that excessive issuance of work-related regular parking passes had worsened parking shortages for airport users. According to the audit, areas assigned to regular parking passes accounted for 84% of the relevant parking space. It also confirmed cases in which some employees used the passes privately during vacation periods and other times unrelated to work. Travelers had faced a lack of parking spaces, and the audit identified the airport’s internal parking pass management as a factor adding to the congestion. The corporation accepted the audit findings and apologized, making improvements to parking pass control and operations likely. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "仁川空港の駐車難、業務用定期駐車券の過剰発給で公社が謝罪",
-        "excerpt": "仁川国際空港公社は、業務用定期駐車券を過剰に発給し利用客の駐車難を深刻化させたとの監査結果を受けて公式に謝罪した。定期駐車券の面積は84%に達し、一部職員の私的利用も確認された。",
-        "body": "仁川国際空港公社は、業務用の定期駐車券を過剰に発給し、空港利用客の駐車難を悪化させたとの監査結果を受け、公式に謝罪した。監査結果によると、定期駐車券が占める面積は関連する駐車面積全体の84%に達した。また、一部の職員が休暇シーズンなど業務と関係のない時期に定期駐車券を私的に利用した事例も確認された。利用客は駐車スペース不足に悩まされており、今回の監査で内部の駐車券運用方式が混雑を招いた要因として指摘された。公社は監査結果を受け入れて謝罪しており、今後は駐車券の管理と運用改善が避けられない見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "仁川机场停车难因定期停车证过度发放加剧，机场公社致歉",
-        "excerpt": "仁川国际机场公社因审计指出其过度发放公务用定期停车证、加剧旅客停车难而正式道歉。定期停车证占用面积达84%，部分员工私用情况也被确认。",
-        "body": "仁川国际机场公社在审计结果显示其过度发放公务用定期停车证、加剧机场旅客停车难后，正式作出道歉。审计结果显示，定期停车证所占面积达到相关停车面积的84%。此外，还确认有部分员工在休假季等与工作无关的时期私自使用定期停车证。机场旅客长期面临停车位不足问题，而此次审计指出，内部停车证运营方式是加重拥堵的因素之一。公社已接受审计结果并低头致歉，今后停车证管理和运营改善预计将不可避免。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Escasez de aparcamiento en Incheon se vinculó a pases excesivos; la operadora se disculpa",
-        "excerpt": "Incheon International Airport Corp. se disculpó tras una auditoría que concluyó que la emisión excesiva de pases regulares de estacionamiento de uso laboral agravó la falta de plazas para usuarios; ocupaban el 84% y hubo usos privados de empleados.",
-        "body": "Incheon International Airport Corp. ofreció una disculpa oficial después de que una auditoría concluyera que la emisión excesiva de pases regulares de estacionamiento para uso laboral agravó la escasez de plazas para los usuarios del aeropuerto. Según la auditoría, el área ocupada por esos pases regulares alcanzaba el 84% del espacio de estacionamiento relacionado. También se confirmaron casos en los que algunos empleados usaron los pases de forma privada durante la temporada de vacaciones y en otros momentos sin relación con el trabajo. Los viajeros habían sufrido falta de plazas, y la auditoría señaló la gestión interna de los pases como un factor que aumentó la congestión. La corporación aceptó los resultados y se disculpó, por lo que se prevén mejoras en la gestión y operación de los pases. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Falta de vagas no Aeroporto de Incheon foi agravada por passes em excesso; operadora pede desculpas",
-        "excerpt": "A Incheon International Airport Corp. pediu desculpas após auditoria apontar que a emissão excessiva de passes regulares de estacionamento para trabalho agravou a falta de vagas para usuários; eles ocupavam 84% da área e houve uso privado por funcionários.",
-        "body": "A Incheon International Airport Corp. apresentou um pedido oficial de desculpas depois que uma auditoria concluiu que a emissão excessiva de passes regulares de estacionamento para uso profissional agravou a falta de vagas para usuários do aeroporto. Segundo a auditoria, a área ocupada por passes regulares correspondia a 84% do espaço de estacionamento relacionado. Também foram confirmados casos em que alguns funcionários usaram os passes de forma privada durante períodos de férias e em momentos sem relação com o trabalho. Passageiros já enfrentavam falta de vagas, e a auditoria apontou a gestão interna dos passes como um fator de aumento da congestão. A empresa aceitou os resultados e se desculpou, tornando provável a melhoria da gestão e da operação dos passes. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Parkplatznot am Flughafen Incheon durch zu viele Dauerparkausweise verschärft, Betreiber entschuldigt sich",
-        "excerpt": "Die Incheon International Airport Corp. entschuldigte sich nach einem Prüfbericht, wonach zu viele dienstliche Dauerparkausweise die Parkplatznot für Reisende verschärften. Die Flächen machten 84% aus, private Nutzung durch einige Beschäftigte wurde bestätigt.",
-        "body": "Die Incheon International Airport Corp. hat sich offiziell entschuldigt, nachdem ein Prüfbericht ergeben hatte, dass die übermäßige Ausgabe dienstlicher Dauerparkausweise die Parkplatznot für Flughafennutzer verschärft hat. Dem Bericht zufolge entfielen 84% der entsprechenden Parkflächen auf Dauerparkausweise. Zudem wurden Fälle bestätigt, in denen einige Beschäftigte die Ausweise während der Ferienzeit und zu anderen nicht dienstlichen Zeiten privat nutzten. Reisende hatten unter fehlenden Parkplätzen gelitten, und die Prüfung nannte die interne Verwaltung der Parkausweise als einen Faktor, der die Überlastung verstärkte. Das Unternehmen akzeptierte die Ergebnisse und entschuldigte sich; Verbesserungen bei Kontrolle und Betrieb der Parkausweise dürften folgen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Pénurie de stationnement à l’aéroport d’Incheon aggravée par trop d’abonnements, l’exploitant s’excuse",
-        "excerpt": "Incheon International Airport Corp. s’est excusée après un audit concluant que l’émission excessive d’abonnements de stationnement professionnels a aggravé le manque de places pour les usagers; ces zones représentaient 84% et des usages privés ont été confirmés.",
-        "body": "Incheon International Airport Corp. a présenté des excuses officielles après qu’un audit a conclu que l’émission excessive d’abonnements de stationnement à usage professionnel avait aggravé la pénurie de places pour les usagers de l’aéroport. Selon l’audit, les zones liées aux abonnements réguliers représentaient 84% de l’espace de stationnement concerné. Des cas ont aussi été confirmés dans lesquels certains employés ont utilisé ces abonnements à titre privé pendant les périodes de vacances et à d’autres moments sans lien avec le travail. Les voyageurs faisaient face à un manque de places, et l’audit a désigné la gestion interne des abonnements comme un facteur de congestion. La société a accepté les conclusions et s’est excusée, rendant probable une amélioration de la gestion et de l’exploitation des abonnements. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أزمة مواقف مطار إنتشون تفاقمت بسبب تصاريح دائمة زائدة والشركة تعتذر",
-        "excerpt": "قدمت شركة مطار إنتشون الدولي اعتذارا رسميا بعد أن خلص تدقيق إلى أن الإفراط في إصدار تصاريح مواقف دائمة لأغراض العمل زاد أزمة المواقف للمسافرين، إذ بلغت مساحتها 84% مع تأكيد استخدام خاص من بعض الموظفين.",
-        "body": "قدمت شركة مطار إنتشون الدولي اعتذارا رسميا بعدما أظهر تدقيق أن الإفراط في إصدار تصاريح مواقف دائمة مخصصة للعمل أدى إلى تفاقم نقص مواقف السيارات لدى مستخدمي المطار. ووفقا لنتائج التدقيق، بلغت المساحة التي تشغلها التصاريح الدائمة 84% من مساحة المواقف المعنية. كما تأكدت حالات استخدم فيها بعض الموظفين هذه التصاريح لأغراض خاصة خلال موسم الإجازات وفترات أخرى لا ترتبط بالعمل. وكان المسافرون يواجهون نقصا في أماكن الوقوف، وأشار التدقيق إلى أن طريقة إدارة التصاريح داخليا كانت من العوامل التي زادت الازدحام. وقبلت الشركة نتائج التدقيق وقدمت اعتذارها، ومن المتوقع أن تصبح تحسينات إدارة وتشغيل التصاريح أمرا لا مفر منه. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "इंचियोन हवाई अड्डे की पार्किंग कमी में नियमित पासों की अधिकता जिम्मेदार, निगम ने माफी मांगी",
-        "excerpt": "इंचियोन इंटरनेशनल एयरपोर्ट कॉर्प. ने ऑडिट में यह सामने आने के बाद माफी मांगी कि कामकाजी नियमित पार्किंग पासों की अत्यधिक जारीगी से यात्रियों की पार्किंग समस्या बढ़ी। इनका क्षेत्र 84% था और कुछ कर्मचारियों के निजी उपयोग की पुष्टि हुई।",
-        "body": "इंचियोन इंटरनेशनल एयरपोर्ट कॉर्प. ने आधिकारिक माफी मांगी है, जब ऑडिट में पाया गया कि कामकाज के लिए नियमित पार्किंग पास अत्यधिक जारी किए गए और इससे हवाई अड्डे के उपयोगकर्ताओं की पार्किंग समस्या बढ़ी। ऑडिट के अनुसार, नियमित पार्किंग पासों से जुड़ा क्षेत्र संबंधित पार्किंग क्षेत्र का 84% था। यह भी पुष्टि हुई कि कुछ कर्मचारियों ने छुट्टियों के मौसम और काम से असंबंधित अन्य समय में इन पासों का निजी उपयोग किया। यात्री पार्किंग स्थानों की कमी का सामना कर रहे थे, और इस ऑडिट ने आंतरिक पार्किंग पास संचालन को भीड़ बढ़ाने वाला कारण बताया। निगम ने ऑडिट निष्कर्ष स्वीकार किए और माफी मांगी, जिससे पास प्रबंधन और संचालन में सुधार की संभावना बढ़ गई है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Krisis Parkir Bandara Incheon Dipicu Kelebihan Kartu Parkir Tetap, Operator Minta Maaf",
-        "excerpt": "Incheon International Airport Corp. meminta maaf setelah audit menemukan penerbitan berlebihan kartu parkir tetap untuk keperluan kerja memperparah kekurangan parkir bagi pengguna; areanya mencapai 84% dan sebagian pegawai memakai secara pribadi.",
-        "body": "Incheon International Airport Corp. menyampaikan permintaan maaf resmi setelah audit menemukan bahwa penerbitan berlebihan kartu parkir tetap untuk keperluan kerja memperparah kesulitan parkir bagi pengguna bandara. Menurut hasil audit, area yang ditempati kartu parkir tetap mencapai 84% dari area parkir terkait. Audit juga memastikan adanya kasus sebagian pegawai menggunakan kartu tersebut untuk kepentingan pribadi selama musim liburan dan pada waktu lain yang tidak berkaitan dengan pekerjaan. Pengguna bandara selama ini menghadapi kekurangan ruang parkir, dan audit menilai pengelolaan internal kartu parkir sebagai salah satu faktor yang memperparah kepadatan. Perusahaan menerima hasil audit dan meminta maaf, sehingga perbaikan pengelolaan serta operasional kartu parkir diperkirakan tidak terhindarkan. Sumber: mk.co.kr"
       }
     }
   }
