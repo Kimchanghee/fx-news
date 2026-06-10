@@ -17,7 +17,8 @@ export const channel = {
     { url: 'https://rss.mt.co.kr/mt_securities.xml', category: 'analysis' },
     { url: 'https://www.mk.co.kr/rss/30000001/', category: 'analysis' },
     { url: 'https://www.investing.com/rss/commodities_Metals.rss', category: 'market' },
-    { url: 'https://www.fxstreet.com/rss/news', category: 'breaking' }
+    { url: 'https://www.fxstreet.com/rss/news', category: 'breaking' },
+    { url: 'https://www.yna.co.kr/rss/market.xml', category: 'market' }
   ] as RSSSource[],
   categories: [
     { slug: 'breaking',    name: { ko: '속보', en: 'Breaking', ja: '速報', zh: '快讯', es: 'Última hora', pt: 'Última hora', de: 'Eilmeldung', fr: 'Dernières', ar: 'عاجل', hi: 'ब्रेकिंग', id: 'Terbaru' } },
