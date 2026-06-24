@@ -19,9 +19,6 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-User-agent: Amazonbot
-Allow: /
-
 Sitemap: https://forexcommoditynews.online/sitemap.xml
 Host: forexcommoditynews.online
 IndexNow-Key: bae156e2838f5b372080b4cd1079f64e
