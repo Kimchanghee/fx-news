@@ -1,5 +1,760 @@
 [
   {
+    "id": "57eefdff0bed",
+    "slug": "gold-renewed-doubts-over-peace-deal-durability-deepen-bearis-915461",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-06-28T19:07:19.291Z",
+    "updatedAt": "2026-06-28T19:07:19.292Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.investing.com/analysis/gold-renewed-doubts-over-peace-deal-durability-deepen-bearish-momentum-200682724",
+    "titleFingerprint": "4b6fd711fef472150e0114e762c396f2a3a31a16",
+    "dedupKeys": [
+      "57eefdff0bed385c12176ad8cbb362a848b3b9f9",
+      "4b6fd711fef472150e0114e762c396f2a3a31a16",
+      "a6b6a77ac9321aa1535fbd5c47167e620673a642"
+    ],
+    "imageUrl": "",
+    "i18n": {
+      "ko": {
+        "title": "금값 약세 확대, 평화 합의 지속성 의구심에 하락 모멘텀 심화",
+        "excerpt": "금 시장은 평화 합의의 지속 가능성을 둘러싼 의구심이 다시 커지면서 안전자산 수요에도 매도 우위 흐름이 강화되고 있다.",
+        "metaDescription": "평화 합의 지속성에 대한 의구심이 커지며 금값 약세 모멘텀이 깊어지고 있다. 달러, 실질금리, 원·달러 환율이 국내 금값 변수로 꼽힌다.",
+        "summary": "금값은 평화 합의 내구성에 대한 의심이 재부각되면서 단기 매도 압력이 커진 가운데 원화 기준 가격은 환율 변수까지 함께 봐야 하는 국면이다.",
+        "body": "금값이 단기 약세 흐름을 이어가고 있다. 최근 평화 합의의 지속 가능성을 둘러싼 의구심이 다시 커지면서 금 시장에는 안전자산 매수와 차익실현 매도가 동시에 유입됐지만, 가격 방향은 매도 우위로 기울었다. 투자자들의 관심은 합의 자체보다 합의가 실제로 유지될 수 있는지에 맞춰졌고, 이 과정에서 금의 상승 탄력은 둔화되는 반면 하락 모멘텀은 더 깊어지는 모습이다.\n\n이번 조정의 핵심 배경은 평화 합의에 대한 신뢰 약화다. 지정학적 위험이 완전히 해소되지 않았다는 인식은 통상 금에 우호적인 재료가 될 수 있다. 그러나 시장은 이미 일정 부분 위험 프리미엄을 가격에 반영해 왔다. 새 불확실성이 등장했음에도 강한 매수세가 뒤따르지 않자 단기 투자자들은 보유 물량을 줄이는 방향으로 움직였다. 금은 이자를 지급하지 않는 자산인 만큼 달러 강세와 실질금리 부담이 함께 나타날 경우 가격 방어력이 약해질 수 있다.\n\n국제 금 가격을 해석할 때는 거래 단위도 함께 살펴야 한다. 국제 금은 통상 트로이온스 단위로 거래되며, 1트로이온스는 31.1035g이다. 국내 투자자가 체감하는 금값은 국제 금 가격에 원·달러 환율을 곱한 뒤 g 단위로 환산해 판단하는 구조다. 국제 금값이 약세를 보이더라도 원화가 약해지면 국내 금값 하락 폭은 제한될 수 있다. 반대로 원화가 강세를 보이면 국제 금값 조정이 국내 시세에 더 크게 반영될 수 있다.\n\nKRX 금시장처럼 1g 단위 거래가 가능한 시장에서는 환율뿐 아니라 부가세, 수수료, 실물 인출 여부가 실제 수익률을 가른다. 실물 금을 인출할 경우 부가가치세 10%와 관련 비용도 함께 고려해야 한다. 따라서 국제 금값 하락이 곧바로 국내 투자자의 손익으로 동일하게 이어진다고 단정하기는 어렵다.\n\n국내 금 투자자에게 이번 약세는 단순한 매수 기회로만 보기 어려운 국면이다. 평화 합의의 내구성에 대한 의심은 가격 변동성을 키우는 재료지만, 금값 방향은 달러, 금리, 위험자산 선호가 함께 결정한다. 단기적으로는 기술적 지지선 이탈 여부와 달러 흐름이 중요하다. 평화 합의가 흔들린다는 신호가 더 강해질 경우 안전자산 수요가 되살아날 수 있으나, 매수세가 가격을 즉시 끌어올린다고 보기는 어렵다. 현재 금 시장은 불확실성 확대에도 약세 모멘텀이 우세한 구간에 들어섰다.",
+        "keywords": [
+          "금값",
+          "국제 금 가격",
+          "평화 합의",
+          "안전자산",
+          "달러 강세",
+          "실질금리",
+          "원달러 환율",
+          "KRX 금시장",
+          "금값 약세 확대, 평화 합의 지속성"
+        ],
+        "faq": [
+          {
+            "q": "금값 약세가 커진 이유는 무엇인가요?",
+            "a": "평화 합의의 지속 가능성에 대한 의구심이 다시 커진 가운데 강한 안전자산 매수세가 뒤따르지 않으면서 매도 우위 흐름이 강화됐기 때문입니다."
+          },
+          {
+            "q": "국내 금값은 국제 금값과 왜 다르게 움직일 수 있나요?",
+            "a": "국내 금값은 국제 금 가격에 원·달러 환율을 반영해 g 단위로 환산되기 때문에 환율 변화에 따라 하락 폭이나 상승 폭이 달라질 수 있습니다."
+          },
+          {
+            "q": "KRX 금시장 투자 시 어떤 비용을 봐야 하나요?",
+            "a": "1g 단위 거래가 가능한 KRX 금시장에서는 환율, 수수료, 실물 인출 여부를 확인해야 하며 실물 인출 시 부가가치세 10%와 관련 비용도 고려해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Gold Weakens as Doubts Over Peace Deal Durability Add Selling Pressure",
+        "excerpt": "Gold is extending its short-term bearish momentum as renewed doubts over the durability of a recent peace deal leave investors weighing safe-haven demand against profit-taking.",
+        "metaDescription": "Gold prices face deeper bearish momentum as doubts over peace deal durability return. See the impact on dollar pricing, Korean investors and outlook.",
+        "summary": "Gold is under pressure as confidence in the durability of a peace deal weakens again. Geopolitical uncertainty normally supports bullion, but this market is being led by short-term selling and dollar sensitivity. Korean investors must also track the won-dollar exchange rate. Volatility is likely to remain elevated.",
+        "body": "Gold is settling into a weaker short-term trend. Renewed doubts over whether the recent peace deal can hold have brought safe-haven buying and profit-taking into the market at the same time, but price action is leaning toward sellers. Investors are focusing less on the existence of the agreement and more on whether it can survive. That shift has slowed gold’s upside momentum and deepened its bearish tone.\n\n## Key Pressure Point\nThe immediate driver is weaker confidence in the durability of the peace deal. Unresolved geopolitical risk can support gold, yet the market had already priced in part of that risk premium. As fresh uncertainty failed to generate strong follow-through buying, short-term investors reduced exposure. Gold pays no yield, so a firmer dollar and real-rate pressure can quickly weaken price support.\n\n## Korean Market Angle\nInternational gold is usually quoted by the troy ounce. One troy ounce equals 31.1035 grams. Korean investors experience gold through both the global dollar price and the USD/KRW exchange rate. If global gold falls while the won weakens, the decline in local gold prices may be limited. If the won strengthens, the global correction can pass through more directly. In the KRX gold market, where trading is possible in gram units, exchange rates, fees, tax treatment and physical withdrawal costs affect actual returns. Physical withdrawal can also involve 10% VAT and related charges.\n\n## Outlook\nThis weakness is not automatically a simple buying opportunity. Doubts over the peace deal raise volatility, but gold’s direction also depends on the dollar, rates and broader risk appetite. In the near term, traders will watch technical support and dollar momentum. Stronger signs that the deal is fraying could revive safe-haven demand, but that does not guarantee an immediate rally. For now, bearish momentum remains the dominant force.",
+        "keywords": [
+          "gold price",
+          "gold market",
+          "gold investment",
+          "peace deal",
+          "safe haven",
+          "USD KRW",
+          "KRX gold",
+          "bullion",
+          "Gold Weakens as Doub"
+        ],
+        "faq": [
+          {
+            "q": "Why is gold weakening?",
+            "a": "Doubts over the peace deal have not triggered strong safe-haven buying, while profit-taking and dollar sensitivity are weighing on prices."
+          },
+          {
+            "q": "Do Korean gold prices move exactly like global gold?",
+            "a": "No. Local prices also reflect the won-dollar exchange rate, trading costs and possible physical withdrawal costs."
+          },
+          {
+            "q": "Does geopolitical risk always lift gold?",
+            "a": "Not always. If risk is already priced in or the dollar and real rates are firm, gold can still weaken."
+          }
+        ]
+      },
+      "ja": {
+        "title": "金価格が弱含み、和平合意の持続性への疑念で売り圧力強まる",
+        "excerpt": "金市場では、最近の和平合意が維持されるかへの疑念が再び強まり、安全資産需要と利益確定売りが交錯する中で短期的な弱気基調が深まっている。",
+        "metaDescription": "金価格は和平合意の持続性への疑念で弱気モメンタムを拡大。ドル、ウォン換算、韓国市場への影響と見通しを整理。",
+        "summary": "金価格は和平合意の持続性に対する疑念が再燃し、下押し圧力を受けている。地政学リスクは通常金需要を支えるが、今回は短期売りとドル動向が重しとなった。韓国の投資家はウォン・ドル相場も確認する必要がある。変動性は続く見通しだ。",
+        "body": "金価格は短期的な弱気基調を強めている。最近の和平合意が長く維持されるかをめぐる疑念が再び広がり、安全資産としての買いと利益確定売りが同時に入ったものの、相場の方向は売り優勢に傾いた。投資家は合意の成立そのものより、実際に持続できるかを重視している。その結果、金の上昇力は鈍り、弱気モメンタムが深まった。\n\n## 弱さを招いた要因\n今回の調整の中心は、和平合意への信頼低下だ。地政学リスクが完全に消えていないとの認識は金にプラスとなり得るが、市場はすでに一定のリスクプレミアムを織り込んでいた。新たな不確実性にもかかわらず強い買いが続かなかったため、短期投資家は保有を減らした。金は利息を生まない資産であり、ドル高と実質金利の圧力が重なると価格の下支えは弱まる。\n\n## 韓国投資家の視点\n国際金は通常トロイオンスで取引される。1トロイオンスは31.1035グラムだ。韓国の投資家が見る金価格は、国際価格にウォン・ドル相場を掛け、グラム単位に換算して判断される。国際価格が下がってもウォン安なら国内価格の下落は抑えられる。反対にウォン高なら国際価格の調整が国内価格により強く反映される。KRX金市場では1グラム単位の取引が可能で、為替、手数料、税金、現物引き出し費用が実際の収益率を左右する。現物引き出しには付加価値税10％と関連費用も考慮が必要だ。\n\n## 見通し\n今回の弱含みを単純な買い場と見るのは難しい。和平合意への疑念は変動性を高めるが、金の方向はドル、金利、リスク選好にも左右される。短期的にはテクニカルな支持線とドルの動きが重要になる。合意が揺らぐ兆候が強まれば安全資産需要が戻る可能性はあるが、直ちに上昇へ転じるとは限らない。現時点では弱気モメンタムが優勢だ。",
+        "keywords": [
+          "金価格",
+          "国際金",
+          "金投資",
+          "和平合意",
+          "安全資産",
+          "ウォンドル",
+          "KRX金市場",
+          "金相場",
+          "金価格が弱含み、和平合意の持続性への疑念"
+        ],
+        "faq": [
+          {
+            "q": "金価格はなぜ弱いのですか？",
+            "a": "和平合意への疑念が強まったものの、安全資産買いが十分に続かず、利益確定売りとドル動向が重しとなっています。"
+          },
+          {
+            "q": "韓国国内の金価格は国際価格と同じですか？",
+            "a": "同じではありません。国際金価格に加え、ウォン・ドル相場、手数料、現物引き出し費用の影響を受けます。"
+          },
+          {
+            "q": "地政学リスクは必ず金価格を押し上げますか？",
+            "a": "通常は支援材料ですが、リスクがすでに織り込まれていたりドルと金利の圧力が強い場合、金は下落することがあります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "金价走弱，和平协议持久性疑虑加深卖压",
+        "excerpt": "金市因近期和平协议能否持续的疑虑重新升温而承压，避险需求与获利了结同时出现，短线弱势动能进一步扩大。",
+        "metaDescription": "金价在和平协议持久性疑虑下扩大弱势。本文解析美元、韩元换算、韩国市场影响与后续展望。",
+        "summary": "金价正受到和平协议持久性疑虑的压制。地缘不确定性通常利好黄金，但本轮行情中短线卖盘和美元因素占据上风。韩国投资者还需关注韩元兑美元汇率。短期波动预计仍将延续。",
+        "body": "金价正在强化短期弱势。近期和平协议能否长期维持的疑虑再度升温，避险买盘与获利了结卖盘同时进入市场，但价格方向更偏向卖方。投资者关注的重点已从协议是否达成，转向协议能否真正执行和延续。由此，黄金上行动能减弱， bearish 走势进一步加深。\n\n## 卖压来源\n本轮调整的核心是市场对和平协议耐久性的信心下降。地缘风险尚未完全消退，理论上有利于黄金，但此前价格已经计入部分风险溢价。新的不确定性未能带来强劲追买，短线资金因而选择降低仓位。黄金本身不产生利息，当美元偏强和实际利率压力同时存在时，价格支撑会变弱。\n\n## 韩国市场影响\n国际黄金通常以金衡盎司计价，1金衡盎司等于31.1035克。韩国投资者感受到的金价，需要把国际美元金价与美元兑韩元汇率结合，再换算为克价。若国际金价下跌但韩元走弱，韩国本地金价跌幅可能受限；若韩元走强，国际金价调整会更明显传导至本地市场。KRX黄金市场可按1克单位交易，汇率、手续费、税费和实物提取成本都会影响实际收益。实物提取还需考虑10%增值税及相关费用。\n\n## 展望\n当前弱势不能简单视为低位买入机会。和平协议持久性的疑虑会放大波动，但黄金方向还取决于美元、利率和风险偏好。短期内，技术支撑位和美元走势是关键。若协议动摇的信号增强，避险需求可能恢复，但并不意味着金价会立即反弹。现阶段，黄金市场仍由弱势动能主导。",
+        "keywords": [
+          "金价",
+          "国际黄金",
+          "黄金投资",
+          "和平协议",
+          "避险资产",
+          "韩元美元",
+          "KRX黄金市场",
+          "黄金走势",
+          "金价走弱，和平协议持久性疑虑加深卖压"
+        ],
+        "faq": [
+          {
+            "q": "金价为何走弱？",
+            "a": "和平协议疑虑未能带来足够强的避险买盘，同时获利了结和美元因素对价格形成压制。"
+          },
+          {
+            "q": "韩国金价会完全跟随国际金价吗？",
+            "a": "不会。韩国金价还受到韩元兑美元汇率、交易费用和实物提取成本影响。"
+          },
+          {
+            "q": "地缘风险一定会推高黄金吗？",
+            "a": "不一定。若风险已被价格反映，或美元与实际利率压力较强，黄金仍可能走弱。"
+          }
+        ]
+      },
+      "es": {
+        "title": "El oro amplía su debilidad por dudas sobre la duración del acuerdo de paz",
+        "excerpt": "El oro profundiza su sesgo bajista de corto plazo ante nuevas dudas sobre la duración del reciente acuerdo de paz, con demanda refugio y toma de ganancias en tensión.",
+        "metaDescription": "El oro enfrenta más presión bajista por dudas sobre el acuerdo de paz. Impacto en dólar, won coreano, inversión local y perspectivas.",
+        "summary": "El oro está bajo presión por la renovada duda sobre la durabilidad del acuerdo de paz. La incertidumbre geopolítica suele favorecer al metal, pero esta vez predominan las ventas de corto plazo y el efecto del dólar. Los inversores coreanos deben vigilar también el tipo de cambio won-dólar. La volatilidad seguirá elevada.",
+        "body": "El oro consolida una tendencia débil de corto plazo. Las dudas sobre si el reciente acuerdo de paz podrá sostenerse han reactivado tanto compras defensivas como ventas por toma de ganancias, pero la dirección del precio se inclina hacia los vendedores. El mercado ya no mira solo la existencia del acuerdo, sino su capacidad real de mantenerse. Ese enfoque ha frenado el impulso alcista del oro y ha profundizado el tono bajista.\n\n## Factor de presión\nEl principal detonante es la pérdida de confianza en la duración del acuerdo de paz. El riesgo geopolítico no resuelto puede apoyar al oro, pero parte de esa prima de riesgo ya estaba reflejada en el precio. Al no aparecer compras fuertes tras la nueva incertidumbre, los operadores de corto plazo redujeron posiciones. El oro no paga intereses, por lo que un dólar firme y la presión de las tasas reales debilitan su soporte.\n\n## Lectura para Corea\nEl oro internacional se cotiza normalmente por onza troy. Una onza troy equivale a 31,1035 gramos. Para un inversor coreano, el precio efectivo depende del precio global en dólares y del tipo de cambio USD/KRW. Si el oro global baja pero el won se debilita, la caída local puede ser limitada. Si el won se fortalece, la corrección internacional se transmite con más claridad. En el mercado de oro KRX, donde se negocia por gramos, el tipo de cambio, las comisiones, los impuestos y el retiro físico influyen en la rentabilidad. El retiro físico puede incluir IVA del 10% y otros costos.\n\n## Perspectiva\nLa caída actual no es automáticamente una oportunidad de compra. Las dudas sobre el acuerdo elevan la volatilidad, pero la dirección del oro también depende del dólar, las tasas y el apetito por riesgo. A corto plazo serán claves los soportes técnicos y el movimiento del dólar. Si aumentan las señales de fragilidad del acuerdo, la demanda refugio podría reactivarse, aunque no garantiza un repunte inmediato. Por ahora domina el impulso bajista.",
+        "keywords": [
+          "precio del oro",
+          "oro internacional",
+          "inversión en oro",
+          "acuerdo de paz",
+          "activo refugio",
+          "USD KRW",
+          "mercado KRX",
+          "lingotes",
+          "El oro amplía su deb"
+        ],
+        "faq": [
+          {
+            "q": "¿Por qué cae el oro?",
+            "a": "Las dudas sobre el acuerdo de paz no generaron compras refugio suficientes, mientras la toma de ganancias y el dólar presionan el precio."
+          },
+          {
+            "q": "¿El oro en Corea se mueve igual que el precio global?",
+            "a": "No. También depende del tipo de cambio won-dólar, comisiones y costos de retiro físico."
+          },
+          {
+            "q": "¿El riesgo geopolítico siempre sube el oro?",
+            "a": "No siempre. Si el riesgo ya está descontado o el dólar y las tasas reales pesan, el oro puede bajar."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Ouro enfraquece com dúvidas sobre a duração do acordo de paz",
+        "excerpt": "O ouro aprofunda o viés baixista de curto prazo enquanto voltam as dúvidas sobre a durabilidade do recente acordo de paz, em meio a busca por proteção e realização de lucros.",
+        "metaDescription": "O ouro perde força com dúvidas sobre a durabilidade do acordo de paz. Veja impacto do dólar, conversão em won e efeitos para investidores coreanos.",
+        "summary": "O ouro sofre pressão com a retomada das dúvidas sobre a durabilidade do acordo de paz. A incerteza geopolítica costuma apoiar o metal, mas desta vez vendas de curto prazo e dólar pesam mais. Investidores coreanos devem acompanhar também o câmbio won-dólar. A volatilidade deve continuar.",
+        "body": "O ouro consolida uma tendência mais fraca no curto prazo. As dúvidas sobre a capacidade do recente acordo de paz se manter trouxeram ao mercado tanto compras defensivas quanto realização de lucros, mas o movimento dos preços favorece os vendedores. O foco dos investidores saiu da existência do acordo e passou para sua resistência prática. Com isso, o impulso de alta do ouro diminuiu e o momento baixista se aprofundou.\n\n## Principal pressão\nO motor da correção é a queda de confiança na durabilidade do acordo de paz. O risco geopolítico ainda presente pode beneficiar o ouro, mas parte desse prêmio de risco já estava nos preços. Como a nova incerteza não gerou compras fortes, investidores de curto prazo reduziram exposição. O ouro não paga juros, portanto dólar firme e pressão das taxas reais enfraquecem a sustentação do preço.\n\n## Impacto na Coreia\nO ouro internacional é cotado normalmente por onça troy. Uma onça troy equivale a 31,1035 gramas. Para o investidor coreano, o preço percebido combina a cotação global em dólares com o câmbio USD/KRW. Se o ouro global cair, mas o won enfraquecer, a queda local pode ser menor. Se o won se valorizar, a correção internacional aparece com mais força. No mercado KRX de ouro, com negociação em gramas, câmbio, taxas, impostos e retirada física influenciam o retorno. A retirada física pode incluir IVA de 10% e outros custos.\n\n## Perspectiva\nA fraqueza atual não deve ser vista automaticamente como ponto de compra. As dúvidas sobre o acordo aumentam a volatilidade, mas o ouro também depende do dólar, dos juros e do apetite por risco. No curto prazo, suportes técnicos e a direção do dólar serão decisivos. Sinais mais fortes de fragilidade do acordo podem reativar a demanda por proteção, mas não garantem alta imediata. Por enquanto, o viés baixista domina.",
+        "keywords": [
+          "preço do ouro",
+          "ouro internacional",
+          "investimento em ouro",
+          "acordo de paz",
+          "porto seguro",
+          "USD KRW",
+          "mercado KRX",
+          "bullion",
+          "Ouro enfraquece com"
+        ],
+        "faq": [
+          {
+            "q": "Por que o ouro está caindo?",
+            "a": "As dúvidas sobre o acordo de paz não geraram compras defensivas suficientes, enquanto realização de lucros e dólar pressionam os preços."
+          },
+          {
+            "q": "O preço do ouro na Coreia segue exatamente o mercado global?",
+            "a": "Não. Ele também reflete o câmbio won-dólar, taxas de negociação e custos de retirada física."
+          },
+          {
+            "q": "Risco geopolítico sempre eleva o ouro?",
+            "a": "Não. Se o risco já estiver nos preços ou se dólar e juros reais pesarem, o ouro pode enfraquecer."
+          }
+        ]
+      },
+      "de": {
+        "title": "Gold gibt nach, Zweifel an Friedensdeal verstärken Verkaufsdruck",
+        "excerpt": "Gold baut seine kurzfristige Schwäche aus, da neue Zweifel an der Haltbarkeit des jüngsten Friedensabkommens sichere Nachfrage und Gewinnmitnahmen gegeneinanderstellen.",
+        "metaDescription": "Gold gerät wegen Zweifeln an der Haltbarkeit des Friedensabkommens unter Druck. Analyse zu Dollar, Won-Umrechnung, Korea-Markt und Ausblick.",
+        "summary": "Gold steht unter Druck, weil Zweifel an der Dauerhaftigkeit des Friedensabkommens zurückkehren. Geopolitische Unsicherheit stützt Gold oft, doch aktuell dominieren kurzfristige Verkäufe und der Dollar. Koreanische Anleger müssen auch den Won-Dollar-Kurs beachten. Die Volatilität dürfte erhöht bleiben.",
+        "body": "Gold festigt seinen schwächeren kurzfristigen Trend. Neue Zweifel daran, ob das jüngste Friedensabkommen Bestand haben kann, haben sowohl Sicherheitskäufe als auch Gewinnmitnahmen ausgelöst. Die Preisrichtung liegt jedoch bei den Verkäufern. Anleger achten weniger auf die bloße Existenz des Abkommens als auf seine praktische Haltbarkeit. Dadurch hat Gold an Aufwärtskraft verloren, während das bärische Momentum zunimmt.\n\n## Belastungsfaktor\nDer wichtigste Auslöser ist das sinkende Vertrauen in die Dauer des Friedensabkommens. Nicht gelöste geopolitische Risiken können Gold grundsätzlich stützen, doch ein Teil dieser Risikoprämie war bereits eingepreist. Da die neue Unsicherheit keine starken Anschlusskäufe brachte, bauten kurzfristige Anleger Positionen ab. Gold wirft keine Zinsen ab, weshalb ein fester Dollar und Druck durch reale Zinsen die Preisstütze schwächen.\n\n## Bedeutung für Korea\nInternational wird Gold meist in Feinunzen gehandelt. Eine Feinunze entspricht 31,1035 Gramm. Für koreanische Anleger ergibt sich der spürbare Goldpreis aus dem globalen Dollarpreis und dem USD/KRW-Wechselkurs. Fällt Gold global, während der Won schwächer wird, kann der lokale Rückgang begrenzt bleiben. Wird der Won stärker, wirkt die globale Korrektur direkter. Am KRX-Goldmarkt, wo Handel in Gramm möglich ist, bestimmen Wechselkurs, Gebühren, Steuern und Kosten einer physischen Auslieferung die tatsächliche Rendite. Bei physischer Auslieferung können 10% Mehrwertsteuer und weitere Kosten anfallen.\n\n## Ausblick\nDie aktuelle Schwäche ist nicht automatisch eine klare Kaufchance. Zweifel am Friedensabkommen erhöhen die Schwankungen, doch Gold hängt ebenso vom Dollar, von Zinsen und von der Risikoneigung ab. Kurzfristig sind technische Unterstützungen und die Dollarentwicklung entscheidend. Stärkere Signale für ein Wanken des Abkommens könnten sichere Nachfrage zurückbringen, garantieren aber keine sofortige Rally. Derzeit überwiegt das bärische Momentum.",
+        "keywords": [
+          "Goldpreis",
+          "Goldmarkt",
+          "Goldanlage",
+          "Friedensabkommen",
+          "sicherer Hafen",
+          "USD KRW",
+          "KRX Gold",
+          "Edelmetall",
+          "Gold gibt nach, Zwei"
+        ],
+        "faq": [
+          {
+            "q": "Warum fällt Gold?",
+            "a": "Zweifel am Friedensabkommen haben keine ausreichend starken Sicherheitskäufe ausgelöst, während Gewinnmitnahmen und Dollarstärke belasten."
+          },
+          {
+            "q": "Bewegt sich der Goldpreis in Korea genauso wie der Weltmarktpreis?",
+            "a": "Nein. Er hängt zusätzlich vom Won-Dollar-Kurs, Handelsgebühren und möglichen Kosten für physische Auslieferung ab."
+          },
+          {
+            "q": "Lässt geopolitisches Risiko Gold immer steigen?",
+            "a": "Nicht immer. Wenn Risiken bereits eingepreist sind oder Dollar und reale Zinsen drücken, kann Gold dennoch fallen."
+          }
+        ]
+      },
+      "fr": {
+        "title": "L’or faiblit, les doutes sur l’accord de paix renforcent les ventes",
+        "excerpt": "L’or accentue sa tendance baissière de court terme alors que les doutes sur la durabilité du récent accord de paix opposent demande refuge et prises de bénéfices.",
+        "metaDescription": "L’or recule avec les doutes sur la durabilité de l’accord de paix. Impact du dollar, conversion en won, marché coréen et perspectives.",
+        "summary": "L’or subit une pression accrue avec le retour des doutes sur la solidité de l’accord de paix. L’incertitude géopolitique soutient souvent le métal, mais les ventes de court terme et le dollar dominent. Les investisseurs coréens doivent aussi suivre le taux won-dollar. La volatilité devrait rester élevée.",
+        "body": "L’or s’installe dans une tendance plus faible à court terme. Les doutes renouvelés sur la capacité du récent accord de paix à durer ont provoqué à la fois des achats de protection et des prises de bénéfices, mais l’évolution des prix reste dominée par les vendeurs. Le marché ne regarde plus seulement l’existence de l’accord, mais sa capacité réelle à tenir. Cette lecture a freiné l’élan haussier de l’or et renforcé le momentum baissier.\n\n## Pression principale\nLe facteur central est la baisse de confiance dans la durabilité de l’accord de paix. Un risque géopolitique non résolu peut soutenir l’or, mais une partie de cette prime de risque était déjà intégrée aux prix. Faute d’achats puissants après la nouvelle incertitude, les investisseurs de court terme ont réduit leurs positions. L’or ne verse pas d’intérêt, ce qui le rend vulnérable lorsque le dollar se raffermit et que les taux réels pèsent.\n\n## Angle coréen\nL’or international est généralement coté en once troy. Une once troy équivaut à 31,1035 grammes. Pour un investisseur coréen, le prix réellement observé dépend du prix mondial en dollars et du taux USD/KRW. Si l’or mondial baisse mais que le won s’affaiblit, la baisse locale peut être limitée. Si le won se renforce, la correction internationale se transmet plus nettement. Sur le marché KRX de l’or, où les transactions en grammes sont possibles, change, frais, fiscalité et retrait physique influencent le rendement. Le retrait physique peut inclure une TVA de 10% et des frais associés.\n\n## Perspectives\nLa faiblesse actuelle n’est pas automatiquement une occasion d’achat. Les doutes sur l’accord accroissent la volatilité, mais la direction de l’or dépend aussi du dollar, des taux et de l’appétit pour le risque. À court terme, les supports techniques et la dynamique du dollar seront déterminants. Des signes plus nets de fragilité de l’accord pourraient ranimer la demande refuge, sans garantir un rebond immédiat. Pour l’instant, le biais baissier domine.",
+        "keywords": [
+          "prix de l’or",
+          "or international",
+          "investissement or",
+          "accord de paix",
+          "valeur refuge",
+          "USD KRW",
+          "marché KRX",
+          "lingot",
+          "L’or faiblit, les do"
+        ],
+        "faq": [
+          {
+            "q": "Pourquoi l’or baisse-t-il ?",
+            "a": "Les doutes sur l’accord de paix n’ont pas entraîné assez d’achats refuge, tandis que les prises de bénéfices et le dollar pèsent."
+          },
+          {
+            "q": "Le prix de l’or en Corée suit-il exactement le prix mondial ?",
+            "a": "Non. Il dépend aussi du taux won-dollar, des frais de transaction et des coûts éventuels de retrait physique."
+          },
+          {
+            "q": "Le risque géopolitique fait-il toujours monter l’or ?",
+            "a": "Pas toujours. Si le risque est déjà intégré ou si le dollar et les taux réels pèsent, l’or peut reculer."
+          }
+        ]
+      },
+      "ar": {
+        "title": "الذهب يضعف مع تجدد الشكوك حول صمود اتفاق السلام",
+        "excerpt": "يتعمق الزخم الهابط للذهب على المدى القصير مع عودة الشكوك حول قدرة اتفاق السلام الأخير على الاستمرار، وسط توازن هش بين طلب الملاذ الآمن وجني الأرباح.",
+        "metaDescription": "الذهب يتعرض لضغط هابط مع الشكوك حول صمود اتفاق السلام. قراءة لتأثير الدولار، الوون الكوري، السوق المحلية والتوقعات.",
+        "summary": "يتعرض الذهب لضغط متزايد مع تجدد الشكوك حول متانة اتفاق السلام. عدم اليقين الجيوسياسي يدعم الذهب عادة، لكن البيع قصير الأجل وحركة الدولار يضغطان الآن على السعر. المستثمرون في كوريا يحتاجون إلى متابعة سعر صرف الوون مقابل الدولار أيضا. التقلبات مرشحة للاستمرار.",
+        "body": "يتجه الذهب إلى ترسيخ مسار أضعف في الأجل القصير. عودة الشكوك بشأن قدرة اتفاق السلام الأخير على الصمود دفعت إلى دخول طلب ملاذ آمن وعمليات جني أرباح في الوقت نفسه، لكن اتجاه السعر مال إلى جانب البائعين. تركيز المستثمرين انتقل من وجود الاتفاق نفسه إلى قدرته الفعلية على الاستمرار. ونتيجة لذلك تباطأت قوة الصعود في الذهب وتعمق الزخم الهابط.\n\n## سبب الضغط\nالعامل الرئيسي هو تراجع الثقة في متانة اتفاق السلام. بقاء المخاطر الجيوسياسية دون حل قد يكون داعما للذهب، لكن السوق كان قد استوعب جزءا من علاوة المخاطر. ومع عدم ظهور شراء قوي بعد موجة الشك الجديدة، خفض مستثمرو الأجل القصير انكشافهم. الذهب لا يدر فائدة، لذلك فإن قوة الدولار وضغط العوائد الحقيقية يضعفان دعمه السعري.\n\n## زاوية السوق الكورية\nيتم تسعير الذهب عالميا غالبا بالأونصة الترويسية. الأونصة الترويسية الواحدة تساوي 31.1035 غراما. بالنسبة للمستثمر الكوري، يتحدد السعر الفعلي من خلال السعر العالمي بالدولار وسعر صرف الدولار مقابل الوون. إذا تراجع الذهب عالميا بينما ضعف الوون، فقد يكون الهبوط المحلي محدودا. أما إذا ارتفع الوون، فقد يظهر التصحيح العالمي بوضوح أكبر في السوق المحلية. في سوق الذهب KRX، حيث يمكن التداول بوحدة الغرام، تؤثر أسعار الصرف والرسوم والضرائب وتكاليف السحب المادي في العائد الفعلي. السحب المادي قد يشمل ضريبة قيمة مضافة 10% وتكاليف إضافية.\n\n## التوقعات\nالضعف الحالي لا يعني تلقائيا فرصة شراء بسيطة. الشكوك حول الاتفاق تزيد التقلبات، لكن اتجاه الذهب يتحدد أيضا بالدولار وأسعار الفائدة وشهية المخاطرة. في المدى القصير ستبقى مستويات الدعم الفنية وحركة الدولار حاسمة. إذا زادت إشارات هشاشة الاتفاق فقد يعود طلب الملاذ الآمن، لكن ذلك لا يضمن صعودا فوريا. في الوقت الراهن يبقى الزخم الهابط هو العامل الأقوى.",
+        "keywords": [
+          "سعر الذهب",
+          "الذهب العالمي",
+          "استثمار الذهب",
+          "اتفاق السلام",
+          "ملاذ آمن",
+          "الدولار وون",
+          "سوق KRX للذهب",
+          "سبائك الذهب",
+          "الذهب يضعف مع تجدد ا"
+        ],
+        "faq": [
+          {
+            "q": "لماذا يضعف الذهب؟",
+            "a": "الشكوك حول اتفاق السلام لم تولد شراء ملاذ آمن كافيا، بينما ضغط جني الأرباح وحركة الدولار على الأسعار."
+          },
+          {
+            "q": "هل يتحرك سعر الذهب في كوريا مثل السعر العالمي تماما؟",
+            "a": "لا. يتأثر أيضا بسعر صرف الوون مقابل الدولار ورسوم التداول وتكاليف السحب المادي المحتملة."
+          },
+          {
+            "q": "هل ترفع المخاطر الجيوسياسية الذهب دائما؟",
+            "a": "ليس دائما. إذا كانت المخاطر مسعرة مسبقا أو كان الدولار والعوائد الحقيقية قويين، فقد يضعف الذهب."
+          }
+        ]
+      },
+      "hi": {
+        "title": "सोना कमजोर, शांति समझौते की टिकाऊपन पर संदेह से बिकवाली बढ़ी",
+        "excerpt": "हालिया शांति समझौते के टिके रहने को लेकर नए संदेह से सोने में अल्पकालिक मंदी गहरी हुई है, जहां सुरक्षित निवेश मांग और मुनाफावसूली आमने-सामने हैं।",
+        "metaDescription": "शांति समझौते की टिकाऊपन पर संदेह से सोने पर दबाव बढ़ा। डॉलर, वॉन रूपांतरण, कोरियाई बाजार प्रभाव और आगे की दिशा पढ़ें।",
+        "summary": "सोना शांति समझौते की मजबूती पर लौटे संदेह के कारण दबाव में है। भू-राजनीतिक अनिश्चितता आमतौर पर सोने को सहारा देती है, लेकिन इस बार अल्पकालिक बिकवाली और डॉलर का असर भारी है। कोरियाई निवेशकों को वॉन-डॉलर विनिमय दर भी देखनी होगी। उतार-चढ़ाव बने रहने की संभावना है।",
+        "body": "सोना अल्पकालिक कमजोर रुझान में और गहराता दिख रहा है। हालिया शांति समझौता कितने समय तक टिकेगा, इस पर संदेह फिर बढ़ा है। इससे बाजार में सुरक्षित निवेश की खरीद और मुनाफावसूली दोनों आईं, लेकिन कीमतों की दिशा विक्रेताओं के पक्ष में झुकी रही। निवेशक अब समझौते के अस्तित्व से अधिक उसकी वास्तविक टिकाऊपन पर ध्यान दे रहे हैं। इसी कारण सोने की तेजी की क्षमता कम हुई और मंदी का मोमेंटम मजबूत हुआ।\n\n## दबाव का मुख्य कारण\nइस गिरावट की जड़ शांति समझौते पर घटता भरोसा है। भू-राजनीतिक जोखिम पूरी तरह समाप्त नहीं हुआ है, इसलिए यह सोने के लिए सहायक हो सकता था। फिर भी बाजार पहले ही कुछ जोखिम प्रीमियम कीमत में शामिल कर चुका था। नई अनिश्चितता के बावजूद मजबूत खरीद न दिखने पर अल्पकालिक निवेशकों ने पोजिशन घटाईं। सोना ब्याज नहीं देता, इसलिए मजबूत डॉलर और वास्तविक दरों का दबाव इसकी कीमत को कमजोर करता है।\n\n## कोरियाई बाजार संदर्भ\nअंतरराष्ट्रीय सोना सामान्यतः ट्रॉय औंस में कोट होता है। 1 ट्रॉय औंस 31.1035 ग्राम के बराबर है। कोरियाई निवेशक के लिए वास्तविक सोने की कीमत वैश्विक डॉलर मूल्य और USD/KRW विनिमय दर दोनों पर निर्भर करती है। यदि वैश्विक सोना गिरता है लेकिन वॉन कमजोर होता है, तो स्थानीय गिरावट सीमित रह सकती है। यदि वॉन मजबूत होता है, तो वैश्विक गिरावट स्थानीय बाजार में अधिक साफ दिख सकती है। KRX गोल्ड मार्केट में ग्राम इकाई में ट्रेडिंग संभव है, इसलिए विनिमय दर, शुल्क, कर और भौतिक निकासी लागत वास्तविक रिटर्न को प्रभावित करते हैं। भौतिक निकासी पर 10% वैट और अन्य खर्च लग सकते हैं।\n\n## आगे की दिशा\nमौजूदा कमजोरी को सीधे खरीदारी का अवसर मानना कठिन है। समझौते पर संदेह अस्थिरता बढ़ाता है, लेकिन सोने की दिशा डॉलर, ब्याज दरों और जोखिम लेने की प्रवृत्ति से भी तय होगी। निकट अवधि में तकनीकी समर्थन और डॉलर की चाल महत्वपूर्ण रहेंगे। यदि समझौते की कमजोरी के संकेत बढ़ते हैं, तो सुरक्षित निवेश मांग लौट सकती है, पर तुरंत तेजी की गारंटी नहीं है। फिलहाल मंदी का मोमेंटम प्रमुख है।",
+        "keywords": [
+          "सोने की कीमत",
+          "अंतरराष्ट्रीय सोना",
+          "सोना निवेश",
+          "शांति समझौता",
+          "सुरक्षित निवेश",
+          "USD KRW",
+          "KRX गोल्ड",
+          "बुलियन",
+          "सोना कमजोर, शांति सम"
+        ],
+        "faq": [
+          {
+            "q": "सोना कमजोर क्यों हो रहा है?",
+            "a": "शांति समझौते पर संदेह के बावजूद पर्याप्त सुरक्षित निवेश खरीद नहीं आई, जबकि मुनाफावसूली और डॉलर ने कीमत पर दबाव डाला।"
+          },
+          {
+            "q": "क्या कोरिया में सोने की कीमत वैश्विक कीमत जैसी ही चलती है?",
+            "a": "नहीं। यह वॉन-डॉलर विनिमय दर, ट्रेडिंग शुल्क और भौतिक निकासी लागत से भी प्रभावित होती है।"
+          },
+          {
+            "q": "क्या भू-राजनीतिक जोखिम हमेशा सोना बढ़ाता है?",
+            "a": "हमेशा नहीं। यदि जोखिम पहले से कीमत में शामिल हो या डॉलर और वास्तविक दरें मजबूत हों, तो सोना गिर सकता है।"
+          }
+        ]
+      },
+      "id": {
+        "title": "Emas Melemah, Keraguan Daya Tahan Kesepakatan Damai Tekan Harga",
+        "excerpt": "Emas memperdalam momentum bearish jangka pendek saat keraguan atas daya tahan kesepakatan damai terbaru kembali muncul, di tengah permintaan lindung nilai dan aksi ambil untung.",
+        "metaDescription": "Harga emas tertekan oleh keraguan atas daya tahan kesepakatan damai. Simak dampak dolar, konversi won, pasar Korea, dan prospeknya.",
+        "summary": "Emas berada di bawah tekanan karena keraguan terhadap ketahanan kesepakatan damai kembali menguat. Ketidakpastian geopolitik biasanya mendukung emas, tetapi kali ini aksi jual jangka pendek dan dolar lebih dominan. Investor Korea juga perlu memantau kurs won-dolar. Volatilitas diperkirakan berlanjut.",
+        "body": "Emas makin mengukuhkan tren lemah dalam jangka pendek. Keraguan baru atas kemampuan kesepakatan damai terbaru untuk bertahan memicu masuknya permintaan aset aman dan aksi ambil untung secara bersamaan, tetapi arah harga lebih condong ke penjual. Investor tidak lagi hanya menilai adanya kesepakatan, melainkan apakah kesepakatan itu benar-benar dapat dipertahankan. Akibatnya, tenaga kenaikan emas melemah dan momentum bearish makin dalam.\n\n## Sumber Tekanan\nFaktor utama koreksi ini adalah menurunnya kepercayaan terhadap daya tahan kesepakatan damai. Risiko geopolitik yang belum selesai dapat mendukung emas, tetapi sebagian premi risiko sudah masuk ke harga. Ketika ketidakpastian baru tidak diikuti pembelian kuat, investor jangka pendek mengurangi posisi. Emas tidak memberi bunga, sehingga dolar yang kuat dan tekanan suku bunga riil dapat melemahkan dukungan harga.\n\n## Konteks Pasar Korea\nEmas internasional biasanya diperdagangkan dalam troy ounce. Satu troy ounce setara 31,1035 gram. Bagi investor Korea, harga yang dirasakan ditentukan oleh harga global dalam dolar dan kurs USD/KRW. Jika emas global turun tetapi won melemah, penurunan harga lokal bisa terbatas. Jika won menguat, koreksi global dapat lebih terasa di pasar domestik. Di pasar emas KRX, yang memungkinkan transaksi per gram, kurs, biaya, pajak, dan penarikan fisik memengaruhi imbal hasil aktual. Penarikan fisik dapat dikenai PPN 10% dan biaya terkait.\n\n## Prospek\nPelemahan saat ini tidak otomatis menjadi peluang beli sederhana. Keraguan atas kesepakatan damai meningkatkan volatilitas, tetapi arah emas juga ditentukan oleh dolar, suku bunga, dan selera risiko. Dalam jangka pendek, level dukungan teknikal dan pergerakan dolar akan penting. Sinyal yang lebih kuat bahwa kesepakatan melemah dapat menghidupkan kembali permintaan aset aman, tetapi tidak menjamin reli langsung. Untuk saat ini, momentum bearish masih dominan.",
+        "keywords": [
+          "harga emas",
+          "emas internasional",
+          "investasi emas",
+          "kesepakatan damai",
+          "aset aman",
+          "USD KRW",
+          "pasar emas KRX",
+          "bullion",
+          "Emas Melemah, Keragu"
+        ],
+        "faq": [
+          {
+            "q": "Mengapa emas melemah?",
+            "a": "Keraguan atas kesepakatan damai tidak memicu pembelian aset aman yang cukup kuat, sementara aksi ambil untung dan dolar menekan harga."
+          },
+          {
+            "q": "Apakah harga emas di Korea selalu sama arahnya dengan harga global?",
+            "a": "Tidak. Harga lokal juga dipengaruhi kurs won-dolar, biaya transaksi, dan biaya penarikan fisik."
+          },
+          {
+            "q": "Apakah risiko geopolitik selalu menaikkan emas?",
+            "a": "Tidak selalu. Jika risiko sudah tercermin dalam harga atau dolar dan suku bunga riil kuat, emas tetap bisa melemah."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "81cfaf2abbee",
+    "slug": "gold-extends-losses-as-stronger-us-dollar-pressures-bulls-430914",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-06-28T19:03:35.794Z",
+    "updatedAt": "2026-06-28T19:03:35.795Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.investing.com/analysis/gold-extends-losses-as-stronger-us-dollar-pressures-bulls-200682759",
+    "titleFingerprint": "1c516fb3eb62fd674d8b98d12199632d111706b1",
+    "dedupKeys": [
+      "81cfaf2abbee31525f84c2bd1ea4f078d50bf4e8",
+      "1c516fb3eb62fd674d8b98d12199632d111706b1",
+      "605d9d7ff5dfdc9c75184ae1b437a0e3517e031b"
+    ],
+    "imageUrl": "",
+    "i18n": {
+      "ko": {
+        "title": "금값, 강달러 압박에 추가 하락…환율·실물 프리미엄 변수 부각",
+        "excerpt": "2026년 6월 29일 금 가격은 미 달러 강세로 추가 하락했다. 달러 표시 자산인 금의 매입 비용이 비달러권에서 높아지며 매수세가 약해졌고, 국내 금시장은 환율과 세금·스프레드 영향까지 반영하고 있다.",
+        "metaDescription": "강달러가 금 매수세를 압박하며 금값이 하락세를 연장했다. 원화 금 투자자는 국제 금 가격, 원·달러 환율, 국내 실물 거래 비용과 달러지수 방향을 함께 점검해야 한다.",
+        "summary": "금값은 2026년 6월 29일 아시아 거래에서 강달러 압박으로 하락세를 이어갔다. 달러로 거래되는 금은 달러 가치가 오르면 비달러권 투자자의 매입 부담이 커져 수요가 둔화된다. 국내에서는 국제 금값 하락이 곧바로 체감 가격 하락으로 이어지지 않을 수 있다. 원·달러 환율, 세금, 거래 스프레드가 원화 금 가격을 함께 움직인다.",
+        "body": "금 가격은 2026년 6월 29일 아시아 거래에서 하락세를 이어갔다. 미 달러 강세가 달러 표시 금의 가격 매력을 낮추며 매수세를 압박한 결과다. 금은 이자를 지급하지 않는 자산인 만큼 달러와 미국 금리 기대가 동시에 강해질 때 상승 탄력이 약해진다. 이날 흐름은 단순한 차익실현보다 통화 변수에 더 민감하게 반응한 약세장이다.\n\n## 강달러가 금 매수세를 누른 배경\n국제 금은 달러로 가격이 매겨진다. 달러가 강해지면 원화, 유로화, 엔화 등 다른 통화권 투자자의 실질 매입 비용이 높아진다. 같은 온스 가격이라도 달러 환산 부담이 커지기 때문에 실물 수요와 ETF 자금 유입이 둔화되기 쉽다. 안전자산 수요가 남아 있어도 달러가 먼저 강세를 보이면 금은 방어적 흐름에 머물 가능성이 커진다. 특히 미국 금리 인하 기대가 늦춰질수록 무이자 자산인 금의 상대 매력은 떨어진다.\n\n## 수치로 보는 원화 투자 영향\n금의 국제 표준 단위는 1트로이온스 31.1035g이다. 국내에서 자주 쓰는 1돈은 3.75g으로, 온스의 약 12.06%에 해당한다. 국내 실물 금 소매가는 국제 금 가격에 원·달러 환율을 곱하고 중량을 환산한 뒤 세금, 거래 스프레드, 세공비가 더해져 형성된다. 따라서 국제 금값이 내려도 원·달러 환율이 오르면 원화 체감 가격 하락은 제한될 수 있다. 반대로 달러 강세가 완화되고 국제 금값이 반등하면 원화 금 가격은 환율 방향에 따라 상승 폭이 달라진다. KRX 금시장과 은행 골드뱅킹, 금 ETF를 이용하는 투자자는 온스 가격만이 아니라 환율, 보관·운용 비용, 매수·매도 호가 차이를 함께 봐야 한다.\n\n## 전망과 시장 파장\n이번 하락은 귀금속 전반의 투자 심리를 위축시켰다. 달러 강세가 지속되면 금 매수세는 가격 반등 때마다 제한을 받을 전망이다. 다만 안전자산 선호와 인플레이션 우려는 낙폭을 줄이는 완충 요인으로 남아 있다. 한국 투자자에게 핵심은 국제 금값과 원·달러 환율의 엇갈림이다. 달러가 더 강해지면 해외 금 가격 약세에도 국내 실물 금값은 버틸 수 있고, 달러가 꺾이면 국제 금의 반등 탄력이 원화 기준 수익률로 이어질 수 있다. 단기적으로는 달러지수 방향과 미국 국채금리, 연방준비제도의 금리 경로가 금값의 다음 분기점을 결정한다.",
+        "keywords": [
+          "금값",
+          "강달러",
+          "미 달러",
+          "국제 금 가격",
+          "원달러 환율",
+          "KRX 금시장",
+          "금 ETF",
+          "귀금속",
+          "미국 국채금리",
+          "금값, 강달러 압박에 추가 하락…환율"
+        ],
+        "faq": [
+          {
+            "q": "금값이 왜 하락했나?",
+            "a": "미 달러 강세가 달러 표시 금의 매입 부담을 키우면서 매수세가 약해졌기 때문이다."
+          },
+          {
+            "q": "강달러는 금 가격에 어떤 영향을 주나?",
+            "a": "달러가 오르면 비달러권 투자자의 실질 매입 비용이 높아져 금 수요와 투자 자금 유입이 둔화될 수 있다."
+          },
+          {
+            "q": "한국 투자자는 무엇을 봐야 하나?",
+            "a": "국제 금 가격뿐 아니라 원·달러 환율, 국내 실물 거래 비용, ETF 운용 비용과 매수·매도 스프레드를 함께 확인해야 한다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Gold Extends Losses as Stronger Dollar Pressures Bullion Buyers",
+        "excerpt": "Gold fell again in Asian trading on June 29, 2026 as a stronger U.S. dollar raised the effective cost for non-dollar buyers and weakened bullion demand.",
+        "metaDescription": "Gold extended losses as dollar strength pressured buyers. Korean investors should track global gold prices, USD/KRW moves, local trading costs and U.S. yields.",
+        "summary": "Gold remained under pressure on June 29, 2026 as the U.S. dollar strengthened. Because bullion is priced in dollars, a firmer greenback raises costs for buyers using won, yen or euros. In Korea, local gold prices may not fall as much as global prices if the won weakens. The dollar index, Treasury yields and Fed rate expectations now shape the next move.",
+        "body": "Gold extended losses in Asian trading on June 29, 2026 as a stronger U.S. dollar reduced the appeal of dollar-priced bullion. The move was driven more by currency pressure than simple profit taking. When the dollar rises, buyers using won, yen or euros face a higher effective cost for the same ounce of gold.\n\n## Why The Dollar Matters\nGold pays no interest and is quoted globally in dollars. A firmer dollar, especially alongside resilient U.S. yields, weakens the case for new bullion purchases. Safe-haven demand remains a cushion, but it has not offset the immediate drag from the currency move.\n\n## Korea Market Impact\nOne troy ounce equals 31.1035 grams. Korea's common retail unit, one don, is 3.75 grams, or about 12.06% of an ounce. Local physical gold prices reflect global gold, USD/KRW, taxes, bid-ask spreads and fabrication costs. A drop in global gold can therefore be partly offset by a weaker won.\n\n## Outlook\nThe next turn depends on the dollar index, U.S. Treasury yields and the Federal Reserve rate path. Persistent dollar strength would cap rebounds, while a softer dollar could restore buying momentum.",
+        "keywords": [
+          "gold price",
+          "strong dollar",
+          "U.S. dollar",
+          "spot gold",
+          "USD KRW",
+          "Korea gold market",
+          "gold ETF",
+          "precious metals",
+          "Treasury yields",
+          "Gold Extends Losses"
+        ],
+        "faq": [
+          {
+            "q": "Why did gold fall?",
+            "a": "A stronger U.S. dollar raised the effective cost of dollar-priced gold for non-dollar buyers, weakening demand."
+          },
+          {
+            "q": "How does a strong dollar affect gold?",
+            "a": "It makes gold more expensive in other currencies and can slow physical demand and ETF inflows."
+          },
+          {
+            "q": "What should Korean investors watch?",
+            "a": "They should track global gold, USD/KRW, local physical costs, ETF fees and bid-ask spreads together."
+          }
+        ]
+      },
+      "ja": {
+        "title": "金価格、強いドルの圧迫で続落　韓国投資家は為替と実物コストに警戒",
+        "excerpt": "2026年6月29日のアジア取引で金価格は続落した。米ドル高によりドル建て金の購入負担が増し、非ドル圏の買い需要が弱まった。",
+        "metaDescription": "金価格はドル高に押されて下落を継続。韓国の投資家は国際金価格、ドルウォン相場、実物取引コスト、米金利を同時に確認する必要がある。",
+        "summary": "金価格は2026年6月29日、強い米ドルを背景に下落した。金はドル建てで取引されるため、ドル高はウォンや円、ユーロを使う投資家の購入負担を高める。韓国では国際価格の下落がそのまま店頭価格に反映されない場合がある。焦点はドル指数、米国債利回り、FRBの金利経路だ。",
+        "body": "金価格は2026年6月29日のアジア取引で下落を続けた。米ドル高がドル建て金の魅力を低下させ、買い手の勢いを抑えた。今回の弱さは単なる利益確定よりも通貨要因の影響が大きい。ドルが上昇すれば、ウォン、円、ユーロを使う投資家は同じ1オンスでも実質的に高い価格を支払うことになる。\n\n## ドル高が重荷となる理由\n金は利息を生まない資産で、世界ではドル建てで価格が示される。ドル高と米金利の底堅さが重なると、新規の金買いは慎重になりやすい。安全資産需要は下支え要因だが、目先では通貨高の圧力が優勢だ。\n\n## 韓国市場への影響\n1トロイオンスは31.1035グラム。韓国で使われる1ドンは3.75グラムで、オンスの約12.06%にあたる。国内の実物金小売価格は国際金価格、ドルウォン相場、税金、売買スプレッド、加工費を反映する。国際金が下がってもウォン安なら体感価格の下落は限られる。\n\n## 見通し\n次の焦点はドル指数、米国債利回り、FRBの金利見通しだ。ドル高が続けば反発は抑えられ、ドルが緩めば買い戻しの余地が広がる。",
+        "keywords": [
+          "金価格",
+          "ドル高",
+          "米ドル",
+          "国際金価格",
+          "ドルウォン",
+          "韓国金市場",
+          "金ETF",
+          "貴金属",
+          "米国債利回り",
+          "金価格、強いドルの圧迫で続落　韓国投資家"
+        ],
+        "faq": [
+          {
+            "q": "金価格はなぜ下落したのか。",
+            "a": "米ドル高により、非ドル圏の投資家にとってドル建て金の購入負担が増したためだ。"
+          },
+          {
+            "q": "ドル高は金にどう影響するのか。",
+            "a": "他通貨建ての購入コストを押し上げ、実物需要やETF資金流入を鈍らせる可能性がある。"
+          },
+          {
+            "q": "韓国の投資家は何を見るべきか。",
+            "a": "国際金価格、ドルウォン相場、実物取引コスト、ETF費用、売買スプレッドを合わせて確認すべきだ。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "金价受强美元压制继续下跌，韩元投资者需关注汇率成本",
+        "excerpt": "2026年6月29日亚洲交易时段，金价继续走低。美元走强抬高了非美元买家的实际购金成本，削弱了黄金买盘。",
+        "metaDescription": "强美元压制黄金买盘，金价延续跌势。韩国投资者需同时关注国际金价、美元兑韩元、实物交易成本和美国利率走势。",
+        "summary": "金价在2026年6月29日亚洲交易中继续承压。黄金以美元计价，美元升值会提高韩元、日元和欧元买家的实际购买成本。韩国本地金价未必会随国际金价同步下跌，因为汇率和交易成本会影响最终价格。美元指数、美国国债收益率和美联储利率路径是短线关键。",
+        "body": "金价在2026年6月29日亚洲交易中继续下跌。美元走强削弱了美元计价黄金的吸引力，并压制买盘。这轮下行更多来自汇率压力，而不是单纯的获利了结。美元上涨时，使用韩元、日元或欧元的投资者购买同一盎司黄金，需要承担更高的实际成本。\n\n## 强美元为何压制黄金\n黄金不产生利息，并在全球市场以美元报价。当美元走强且美国收益率保持韧性时，新增买盘往往趋于谨慎。避险需求仍能提供一定支撑，但短期难以完全抵消汇率压力。\n\n## 韩国市场影响\n1金衡盎司等于31.1035克。韩国常用零售单位1钱为3.75克，约为1盎司的12.06%。韩国实物金零售价由国际金价、美元兑韩元、税费、买卖价差和加工费共同决定。因此，即使国际金价下跌，韩元走弱也可能限制本地价格跌幅。\n\n## 后市展望\n下一阶段取决于美元指数、美国国债收益率和美联储利率路径。若美元继续强势，金价反弹空间将受限；若美元回落，黄金买盘有望恢复。",
+        "keywords": [
+          "金价",
+          "强美元",
+          "美元",
+          "国际金价",
+          "美元兑韩元",
+          "韩国黄金市场",
+          "黄金ETF",
+          "贵金属",
+          "美国国债收益率",
+          "金价受强美元压制继续下跌，韩元投资者需关"
+        ],
+        "faq": [
+          {
+            "q": "金价为什么下跌？",
+            "a": "美元走强提高了非美元买家的实际购金成本，削弱了黄金需求。"
+          },
+          {
+            "q": "强美元如何影响黄金？",
+            "a": "它会让其他货币计价的黄金更贵，从而压制实物需求和ETF资金流入。"
+          },
+          {
+            "q": "韩国投资者应关注什么？",
+            "a": "应同时关注国际金价、美元兑韩元、实物交易成本、ETF费用和买卖价差。"
+          }
+        ]
+      },
+      "es": {
+        "title": "El oro amplía pérdidas por la fortaleza del dólar y presión cambiaria",
+        "excerpt": "El oro volvió a caer en la sesión asiática del 29 de junio de 2026, presionado por un dólar más fuerte que encareció la compra para inversores fuera de EE. UU.",
+        "metaDescription": "El oro amplió pérdidas por la fortaleza del dólar. En Corea, los inversores deben vigilar precio internacional, USD/KRW, costos locales y rendimientos de EE. UU.",
+        "summary": "El oro siguió bajo presión el 29 de junio de 2026 por el avance del dólar estadounidense. Al cotizar en dólares, un billete verde más fuerte eleva el costo para compradores que usan wones, yenes o euros. En Corea, la caída internacional puede no trasladarse por completo si el won se debilita. El dólar, los bonos del Tesoro y la Fed marcan el próximo movimien",
+        "body": "El oro amplió pérdidas en Asia el 29 de junio de 2026. La fortaleza del dólar redujo el atractivo del metal cotizado en esa moneda y frenó a los compradores. La caída respondió más a la presión cambiaria que a una simple toma de ganancias: si el dólar sube, quien compra con wones, yenes o euros paga más por la misma onza.\n\n## Por qué pesa el dólar\nEl oro no paga intereses y se negocia globalmente en dólares. Un dólar firme, junto con rendimientos estadounidenses resistentes, debilita el incentivo para aumentar posiciones. La demanda defensiva ayuda, pero no ha neutralizado el golpe cambiario inmediato.\n\n## Impacto en Corea\nUna onza troy equivale a 31,1035 gramos. En Corea, un don usado en el comercio minorista equivale a 3,75 gramos, cerca del 12,06% de una onza. El precio físico local incorpora oro internacional, USD/KRW, impuestos, diferenciales y costos de fabricación. Por eso, una baja global puede verse limitada por un won más débil.\n\n## Perspectiva\nLa siguiente señal vendrá del índice dólar, los rendimientos del Tesoro y la ruta de tasas de la Fed. Un dólar fuerte limitaría los rebotes; un dólar más suave podría reactivar compras.",
+        "keywords": [
+          "precio del oro",
+          "dólar fuerte",
+          "dólar estadounidense",
+          "oro al contado",
+          "USD KRW",
+          "mercado de oro Corea",
+          "ETF de oro",
+          "metales preciosos",
+          "bonos del Tesoro",
+          "El oro amplía pérdid"
+        ],
+        "faq": [
+          {
+            "q": "¿Por qué cayó el oro?",
+            "a": "El dólar más fuerte elevó el costo efectivo del oro para compradores fuera del área dólar y redujo la demanda."
+          },
+          {
+            "q": "¿Cómo afecta un dólar fuerte al oro?",
+            "a": "Hace que el oro sea más caro en otras monedas y puede frenar la demanda física y los flujos hacia ETF."
+          },
+          {
+            "q": "¿Qué deben vigilar los inversores en Corea?",
+            "a": "Precio internacional, USD/KRW, costos del oro físico, comisiones de ETF y diferenciales de compra y venta."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Ouro amplia perdas com dólar forte e pressão sobre compradores globais",
+        "excerpt": "O ouro voltou a cair na sessão asiática de 29 de junho de 2026, pressionado por um dólar mais forte que elevou o custo para compradores fora dos EUA.",
+        "metaDescription": "O ouro ampliou perdas com a força do dólar. Na Coreia, investidores devem acompanhar preço internacional, USD/KRW, custos locais e juros dos EUA.",
+        "summary": "O ouro seguiu pressionado em 29 de junho de 2026 com a valorização do dólar. Como o metal é cotado em dólares, a moeda mais forte encarece a compra para quem usa won, iene ou euro. Na Coreia, a queda externa pode não aparecer integralmente se o won enfraquecer. Dólar, Treasuries e Fed guiam o próximo movimento.",
+        "body": "O ouro ampliou perdas na Ásia em 29 de junho de 2026. A força do dólar reduziu o apelo do metal cotado na moeda norte-americana e pressionou os compradores. A queda refletiu mais o câmbio do que uma simples realização de lucros: quando o dólar sobe, quem compra com won, iene ou euro paga mais pela mesma onça.\n\n## Por que o dólar pesa\nO ouro não paga juros e é negociado globalmente em dólares. Um dólar firme, especialmente com rendimentos dos EUA resilientes, reduz o incentivo para novas compras. A busca por proteção ainda ajuda, mas não eliminou o impacto cambial imediato.\n\n## Impacto na Coreia\nUma onça troy equivale a 31,1035 gramas. Na Coreia, a unidade varejista chamada don tem 3,75 gramas, cerca de 12,06% de uma onça. O preço físico local reflete ouro global, USD/KRW, impostos, spreads e custos de fabricação. Assim, a queda internacional pode ser limitada por um won mais fraco.\n\n## Perspectiva\nO próximo movimento depende do índice dólar, dos rendimentos dos Treasuries e da trajetória de juros do Fed. Dólar forte limita altas; dólar mais fraco pode reativar compras.",
+        "keywords": [
+          "preço do ouro",
+          "dólar forte",
+          "dólar americano",
+          "ouro spot",
+          "USD KRW",
+          "mercado de ouro da Coreia",
+          "ETF de ouro",
+          "metais preciosos",
+          "Treasuries",
+          "Ouro amplia perdas c"
+        ],
+        "faq": [
+          {
+            "q": "Por que o ouro caiu?",
+            "a": "O dólar mais forte elevou o custo efetivo do ouro para compradores que usam outras moedas."
+          },
+          {
+            "q": "Como o dólar forte afeta o ouro?",
+            "a": "Ele torna o metal mais caro em moedas locais e pode reduzir demanda física e fluxos para ETFs."
+          },
+          {
+            "q": "O que investidores na Coreia devem observar?",
+            "a": "Preço internacional, USD/KRW, custos do ouro físico, taxas de ETF e spreads de compra e venda."
+          }
+        ]
+      },
+      "de": {
+        "title": "Gold fällt weiter, starker Dollar belastet Käufer und Koreas Markt",
+        "excerpt": "Gold gab im asiatischen Handel am 29. Juni 2026 erneut nach. Ein stärkerer US-Dollar verteuerte Käufe außerhalb des Dollarraums und schwächte die Nachfrage.",
+        "metaDescription": "Gold verlängerte seine Verluste, weil der starke Dollar Käufer belastet. Anleger in Korea sollten Weltpreis, USD/KRW, lokale Kosten und US-Renditen prüfen.",
+        "summary": "Gold stand am 29. Juni 2026 weiter unter Druck. Da Gold in Dollar gehandelt wird, erhöht ein stärkerer Dollar die Kosten für Käufer mit Won, Yen oder Euro. In Korea muss ein niedrigerer Weltmarktpreis nicht vollständig bei lokalen Preisen ankommen, wenn der Won schwächer wird. Dollarindex, US-Renditen und Fed-Erwartungen bestimmen den nächsten Impuls.",
+        "body": "Gold verlängerte im asiatischen Handel am 29. Juni 2026 seine Verluste. Der stärkere US-Dollar minderte die Attraktivität des in Dollar gehandelten Metalls und bremste Käufer. Die Schwäche war stärker vom Wechselkurs geprägt als von reinen Gewinnmitnahmen. Steigt der Dollar, zahlen Käufer mit Won, Yen oder Euro effektiv mehr für dieselbe Unze.\n\n## Warum der Dollar zählt\nGold wirft keine Zinsen ab und wird weltweit in Dollar notiert. Ein fester Dollar, besonders zusammen mit robusten US-Renditen, schwächt den Anreiz für neue Käufe. Sicherheitsnachfrage bleibt eine Stütze, gleicht den unmittelbaren Währungsdruck aber nicht aus.\n\n## Wirkung in Korea\nEine Feinunze entspricht 31,1035 Gramm. Die in Korea übliche Einheit Don umfasst 3,75 Gramm, rund 12,06% einer Unze. Lokale physische Preise spiegeln Weltgoldpreis, USD/KRW, Steuern, Spreads und Verarbeitungskosten wider. Ein fallender Weltpreis kann daher durch einen schwächeren Won abgefedert werden.\n\n## Ausblick\nEntscheidend sind Dollarindex, US-Treasury-Renditen und der Zinspfad der Fed. Anhaltende Dollarstärke begrenzt Erholungen; ein schwächerer Dollar könnte Käufer zurückbringen.",
+        "keywords": [
+          "Goldpreis",
+          "starker Dollar",
+          "US-Dollar",
+          "Spotgold",
+          "USD KRW",
+          "Goldmarkt Korea",
+          "Gold ETF",
+          "Edelmetalle",
+          "US-Renditen",
+          "Gold fällt weiter, s"
+        ],
+        "faq": [
+          {
+            "q": "Warum ist Gold gefallen?",
+            "a": "Der stärkere US-Dollar erhöhte die effektiven Kosten für Käufer außerhalb des Dollarraums."
+          },
+          {
+            "q": "Wie wirkt ein starker Dollar auf Gold?",
+            "a": "Er verteuert Gold in anderen Währungen und kann physische Nachfrage sowie ETF-Zuflüsse bremsen."
+          },
+          {
+            "q": "Worauf sollten Anleger in Korea achten?",
+            "a": "Auf Weltgoldpreis, USD/KRW, lokale Kosten für physisches Gold, ETF-Gebühren und Spreads."
+          }
+        ]
+      },
+      "fr": {
+        "title": "L’or prolonge sa baisse sous la pression du dollar fort et du change",
+        "excerpt": "L’or a encore reculé en Asie le 29 juin 2026, pénalisé par un dollar plus fort qui renchérit l’achat pour les investisseurs hors zone dollar.",
+        "metaDescription": "L’or a prolongé ses pertes sous l’effet d’un dollar fort. En Corée, les investisseurs doivent suivre prix mondial, USD/KRW, coûts locaux et taux américains.",
+        "summary": "L’or est resté sous pression le 29 juin 2026 avec la hausse du dollar américain. Comme le métal est coté en dollars, un billet vert plus ferme accroît le coût pour les acheteurs en won, yen ou euro. En Corée, la baisse mondiale peut être amortie par un won plus faible. Dollar, rendements américains et Fed dictent la suite.",
+        "body": "L’or a prolongé ses pertes dans les échanges asiatiques du 29 juin 2026. La vigueur du dollar a réduit l’attrait du métal coté en dollars et freiné les acheteurs. Le repli tient davantage à la pression de change qu’à une simple prise de bénéfices. Quand le dollar monte, les investisseurs en won, yen ou euro paient plus cher la même once.\n\n## Pourquoi le dollar pèse\nL’or ne rapporte pas d’intérêt et se négocie mondialement en dollars. Un dollar ferme, surtout avec des rendements américains résistants, réduit l’intérêt de nouvelles positions. La demande de refuge soutient encore le marché, mais elle ne neutralise pas la pression de change immédiate.\n\n## Impact en Corée\nUne once troy équivaut à 31,1035 grammes. En Corée, l’unité de détail don représente 3,75 grammes, soit environ 12,06% d’une once. Le prix local de l’or physique intègre prix mondial, USD/KRW, taxes, écarts achat-vente et coûts de fabrication. Une baisse mondiale peut donc être limitée par un won plus faible.\n\n## Perspective\nLa suite dépend de l’indice dollar, des rendements des Treasuries et de la trajectoire de taux de la Fed. Un dollar fort plafonnerait les rebonds; un dollar plus faible pourrait relancer les achats.",
+        "keywords": [
+          "prix de l’or",
+          "dollar fort",
+          "dollar américain",
+          "or spot",
+          "USD KRW",
+          "marché de l’or coréen",
+          "ETF or",
+          "métaux précieux",
+          "rendements américains",
+          "L’or prolonge sa bai"
+        ],
+        "faq": [
+          {
+            "q": "Pourquoi l’or a-t-il baissé ?",
+            "a": "Le dollar plus fort a augmenté le coût effectif de l’or pour les acheteurs utilisant d’autres monnaies."
+          },
+          {
+            "q": "Quel est l’effet d’un dollar fort sur l’or ?",
+            "a": "Il rend l’or plus cher en monnaies locales et peut freiner demande physique et flux vers les ETF."
+          },
+          {
+            "q": "Que doivent surveiller les investisseurs en Corée ?",
+            "a": "Le prix mondial, l’USD/KRW, les coûts de l’or physique, les frais d’ETF et les écarts achat-vente."
+          }
+        ]
+      },
+      "ar": {
+        "title": "الذهب يواصل الخسائر مع قوة الدولار وضغطها على المشترين العالميين",
+        "excerpt": "تراجع الذهب مجددا في التعاملات الآسيوية في 29 يونيو 2026، مع ارتفاع الدولار الأميركي الذي زاد تكلفة الشراء على المستثمرين خارج منطقة الدولار.",
+        "metaDescription": "واصل الذهب خسائره تحت ضغط الدولار القوي. في كوريا، يراقب المستثمرون السعر العالمي، زوج الدولار/الوون، تكاليف التداول المحلية وعوائد السندات الأميركية.",
+        "summary": "بقي الذهب تحت ضغط في 29 يونيو 2026 مع صعود الدولار الأميركي. وبما أن الذهب مسعر بالدولار، فإن قوة العملة ترفع التكلفة على المشترين بالوون أو الين أو اليورو. في كوريا قد لا ينعكس هبوط السعر العالمي بالكامل إذا ضعف الوون. يتحكم مؤشر الدولار وعوائد الخزانة ومسار الفائدة الأميركية بالاتجاه التالي.",
+        "body": "واصل الذهب خسائره في التعاملات الآسيوية في 29 يونيو 2026. قوة الدولار الأميركي قللت جاذبية المعدن المسعر بالدولار وضغطت على المشترين. جاء الهبوط مدفوعا بعامل العملة أكثر من كونه مجرد جني أرباح، فارتفاع الدولار يعني أن المستثمر الذي يستخدم الوون أو الين أو اليورو يدفع تكلفة أعلى للأونصة نفسها.\n\n## لماذا يضغط الدولار على الذهب\nالذهب لا يدر فائدة ويتداول عالميا بالدولار. لذلك فإن الدولار القوي، خصوصا مع تماسك عوائد السندات الأميركية، يضعف الحافز لزيادة المراكز. الطلب الدفاعي يظل عامل دعم، لكنه لم يلغ أثر قوة العملة في الأجل القصير.\n\n## أثر ذلك في كوريا\nالأونصة الترويسية تساوي 31.1035 غراما. وفي تجارة التجزئة الكورية، تعادل وحدة الدون 3.75 غرامات، أي نحو 12.06% من الأونصة. السعر المحلي للذهب المادي يتأثر بالسعر العالمي، وسعر الدولار/الوون، والضرائب، وفروق البيع والشراء، وتكاليف التصنيع. لذلك قد يحد ضعف الوون من أثر هبوط الذهب عالميا.\n\n## التوقعات\nالمحطة التالية تعتمد على مؤشر الدولار، وعوائد سندات الخزانة، ومسار الفائدة لدى الاحتياطي الفيدرالي. استمرار قوة الدولار يحد التعافي، أما تراجعه فقد يعيد زخم الشراء.",
+        "keywords": [
+          "سعر الذهب",
+          "الدولار القوي",
+          "الدولار الأميركي",
+          "الذهب الفوري",
+          "الدولار وون",
+          "سوق الذهب في كوريا",
+          "صناديق الذهب",
+          "المعادن النفيسة",
+          "عوائد الخزانة",
+          "الذهب يواصل الخسائر"
+        ],
+        "faq": [
+          {
+            "q": "لماذا انخفض الذهب؟",
+            "a": "لأن قوة الدولار رفعت التكلفة الفعلية للذهب على المشترين الذين يستخدمون عملات أخرى."
+          },
+          {
+            "q": "كيف يؤثر الدولار القوي في الذهب؟",
+            "a": "يجعل الذهب أغلى بالعملات المحلية وقد يبطئ الطلب الفعلي وتدفقات صناديق المؤشرات."
+          },
+          {
+            "q": "ما الذي يجب أن يراقبه المستثمرون في كوريا؟",
+            "a": "السعر العالمي، الدولار/الوون، تكاليف الذهب المادي، رسوم الصناديق وفروق البيع والشراء."
+          }
+        ]
+      },
+      "hi": {
+        "title": "मजबूत डॉलर के दबाव में सोना फिर फिसला, कोरियाई निवेशकों की नजर विनिमय दर पर",
+        "excerpt": "29 जून 2026 को एशियाई कारोबार में सोना फिर गिरा। मजबूत अमेरिकी डॉलर ने गैर-डॉलर खरीदारों के लिए लागत बढ़ाई और बुलियन मांग कमजोर की।",
+        "metaDescription": "मजबूत डॉलर से सोने पर दबाव बढ़ा और कीमतें नीचे रहीं। कोरिया में निवेशकों को वैश्विक सोना, USD/KRW, स्थानीय लागत और अमेरिकी यील्ड देखनी होगी।",
+        "summary": "29 जून 2026 को सोना मजबूत अमेरिकी डॉलर के कारण दबाव में रहा। सोना डॉलर में तय होता है, इसलिए डॉलर चढ़ने पर वॉन, येन या यूरो में खरीद महंगी हो जाती है। कोरिया में कमजोर वॉन वैश्विक गिरावट का असर स्थानीय कीमतों पर सीमित कर सकता है। डॉलर इंडेक्स, अमेरिकी बॉन्ड यील्ड और फेड की दर राह अगला संकेत देंगे।",
+        "body": "29 जून 2026 को एशियाई कारोबार में सोना गिरावट बढ़ाता दिखा। मजबूत अमेरिकी डॉलर ने डॉलर में तय होने वाले सोने की आकर्षकता घटाई और खरीदारों पर दबाव डाला। यह कमजोरी केवल मुनाफावसूली नहीं, बल्कि मुद्रा दबाव से जुड़ी रही। डॉलर चढ़ने पर वॉन, येन या यूरो से खरीदने वाले निवेशकों को उसी एक औंस सोने के लिए अधिक प्रभावी लागत चुकानी पड़ती है।\n\n## डॉलर क्यों अहम है\nसोना ब्याज नहीं देता और वैश्विक बाजार में डॉलर में कोट होता है। जब डॉलर मजबूत रहता है और अमेरिकी यील्ड टिकाऊ रहती है, तो नई खरीद की दलील कमजोर पड़ती है। सुरक्षित निवेश की मांग कुछ सहारा देती है, लेकिन तत्काल मुद्रा दबाव को पूरी तरह संतुलित नहीं कर पाती।\n\n## कोरिया पर असर\nएक ट्रॉय औंस 31.1035 ग्राम होता है। कोरिया की खुदरा इकाई एक डॉन 3.75 ग्राम है, जो एक औंस का लगभग 12.06% है। स्थानीय भौतिक सोने की कीमत वैश्विक सोना, USD/KRW, कर, स्प्रेड और निर्माण लागत से बनती है। इसलिए वैश्विक गिरावट कमजोर वॉन से आंशिक रूप से थम सकती है।\n\n## आगे की दिशा\nअब दिशा डॉलर इंडेक्स, अमेरिकी ट्रेजरी यील्ड और फेड की दर नीति पर निर्भर है। डॉलर मजबूत रहा तो उछाल सीमित रहेगा; डॉलर नरम पड़ा तो खरीदारी लौट सकती है।",
+        "keywords": [
+          "सोने की कीमत",
+          "मजबूत डॉलर",
+          "अमेरिकी डॉलर",
+          "स्पॉट गोल्ड",
+          "USD KRW",
+          "कोरिया सोना बाजार",
+          "गोल्ड ETF",
+          "कीमती धातु",
+          "अमेरिकी यील्ड",
+          "मजबूत डॉलर के दबाव म"
+        ],
+        "faq": [
+          {
+            "q": "सोना क्यों गिरा?",
+            "a": "मजबूत अमेरिकी डॉलर ने गैर-डॉलर खरीदारों के लिए सोने की प्रभावी लागत बढ़ा दी।"
+          },
+          {
+            "q": "मजबूत डॉलर सोने को कैसे प्रभावित करता है?",
+            "a": "यह स्थानीय मुद्राओं में सोना महंगा करता है और भौतिक मांग व ETF प्रवाह को धीमा कर सकता है।"
+          },
+          {
+            "q": "कोरिया के निवेशकों को क्या देखना चाहिए?",
+            "a": "वैश्विक सोना, USD/KRW, स्थानीय भौतिक लागत, ETF शुल्क और खरीद-बिक्री स्प्रेड को साथ देखना चाहिए।"
+          }
+        ]
+      },
+      "id": {
+        "title": "Harga emas turun lagi karena dolar kuat menekan pembeli global",
+        "excerpt": "Harga emas kembali melemah pada perdagangan Asia 29 Juni 2026 karena dolar AS yang lebih kuat menaikkan biaya efektif bagi pembeli di luar zona dolar.",
+        "metaDescription": "Emas memperpanjang penurunan akibat dolar kuat. Investor Korea perlu memantau harga emas global, USD/KRW, biaya lokal, spread dan imbal hasil AS.",
+        "summary": "Emas tetap tertekan pada 29 Juni 2026 seiring penguatan dolar AS. Karena emas dihargai dalam dolar, kenaikan greenback membuat pembelian lebih mahal bagi pengguna won, yen atau euro. Di Korea, pelemahan won dapat menahan penurunan harga lokal meski harga global turun. Indeks dolar, imbal hasil Treasury dan arah suku bunga Fed menjadi penentu berikutnya.",
+        "body": "Harga emas memperpanjang penurunan pada perdagangan Asia 29 Juni 2026. Dolar AS yang lebih kuat mengurangi daya tarik emas berdenominasi dolar dan menekan pembeli. Pelemahan ini lebih banyak dipicu faktor kurs daripada sekadar aksi ambil untung. Saat dolar naik, pembeli yang memakai won, yen atau euro membayar biaya efektif lebih tinggi untuk satu ons yang sama.\n\n## Mengapa Dolar Berpengaruh\nEmas tidak memberi bunga dan diperdagangkan global dalam dolar. Dolar yang kuat, terutama bersama imbal hasil AS yang bertahan tinggi, melemahkan alasan untuk menambah pembelian. Permintaan aset aman masih memberi bantalan, tetapi belum cukup menutup tekanan kurs jangka pendek.\n\n## Dampak di Korea\nSatu troy ounce setara 31,1035 gram. Di Korea, satuan ritel don adalah 3,75 gram, sekitar 12,06% dari satu ons. Harga emas fisik lokal mencerminkan harga global, USD/KRW, pajak, spread dan biaya pembuatan. Karena itu, penurunan harga global bisa tertahan jika won melemah.\n\n## Prospek\nArah berikutnya bergantung pada indeks dolar, imbal hasil Treasury AS dan jalur suku bunga Fed. Dolar yang terus kuat akan membatasi rebound, sedangkan dolar yang melemah dapat menghidupkan kembali minat beli.",
+        "keywords": [
+          "harga emas",
+          "dolar kuat",
+          "dolar AS",
+          "emas spot",
+          "USD KRW",
+          "pasar emas Korea",
+          "ETF emas",
+          "logam mulia",
+          "imbal hasil Treasury",
+          "Harga emas turun lag"
+        ],
+        "faq": [
+          {
+            "q": "Mengapa harga emas turun?",
+            "a": "Dolar AS yang lebih kuat menaikkan biaya efektif emas bagi pembeli dengan mata uang lain."
+          },
+          {
+            "q": "Bagaimana dolar kuat memengaruhi emas?",
+            "a": "Dolar kuat membuat emas lebih mahal dalam mata uang lokal dan dapat menekan permintaan fisik serta arus ETF."
+          },
+          {
+            "q": "Apa yang perlu dipantau investor Korea?",
+            "a": "Harga emas global, USD/KRW, biaya emas fisik lokal, biaya ETF dan spread jual-beli."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "5360ebe388e7",
     "slug": "gold-falls-to-an-8-month-low-this-may-not-be-the-bottom-326720",
     "channelId": "FX",
@@ -10489,112 +11244,6 @@
           {
             "q": "환율 1,500원대가 국내 시장에 미치는 영향은 무엇인가요?",
             "a": "수입 원자재와 에너지의 원화 환산 비용을 높여 기업 원가와 물가 부담을 키울 수 있다. 외국인 자금 흐름과 국내 증시에도 영향을 줄 수 있다."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "eb8eac4b90e0",
-    "slug": "외국인-순매도인플레-우려-등에환율-18원-오른-15134원-283839",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-06-17T11:41:14.423Z",
-    "updatedAt": "2026-06-17T11:41:14.423Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260617134700002",
-    "titleFingerprint": "4d57848f74cec2efe1ab1b9481a089e3849cd4ea",
-    "dedupKeys": [
-      "eb8eac4b90e02c8c1f4ff075a352215c9ca2ab4b",
-      "4d57848f74cec2efe1ab1b9481a089e3849cd4ea",
-      "970d17cfb884f6fbe4f8c90a2c112b849c2dfc1a"
-    ],
-    "imageUrl": "/images/articles/eb8eac4b90e0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "원·달러 환율 1,513.4원 마감, 외국인 순매도와 인플레 우려에 상승",
-        "excerpt": "17일 서울 외환시장에서 원·달러 환율은 전 거래일보다 1.8원 오른 1,513.4원에 마감했다. 고유가에 따른 인플레이션 우려와 국내 증시 외국인 순매도가 원화 약세 압력으로 작용했다.",
-        "metaDescription": "원·달러 환율이 17일 1,513.4원으로 1.8원 상승했다. 고유가발 인플레이션 우려와 외국인 순매도가 원화 약세를 자극했다.",
-        "summary": "17일 원·달러 환율은 전 거래일보다 1.8원 오른 1,513.4원에 거래를 마쳤다. 국제유가 상승에 따른 인플레이션 우려가 커지며 달러 선호가 이어졌다. 국내 증시에서 외국인 순매도가 나타난 점도 원화 약세 요인으로 작용했다. 수입물가와 기업 환헤지 부담은 당분간 높은 환율 흐름에 민감하게 반응할 전망이다.",
-        "body": "원·달러 환율이 17일 소폭 상승 마감했다. 서울 외환시장에서 원·달러 환율은 전 거래일보다 1.8원 오른 1,513.4원에 거래를 마쳤다. 고유가에 따른 인플레이션 우려가 다시 부각된 가운데 국내 주식시장에서 외국인 투자자의 순매도 흐름이 나타나며 원화 매도 압력이 우세했다. 장중 변동폭은 제한적이었지만, 환율 레벨 자체가 높은 만큼 수입기업과 해외 결제 수요자에게는 부담이 이어지는 흐름이다.\n\n## 고유가가 키운 인플레이션 경계\n국제유가 상승은 원화 환율에 직접적인 부담으로 작용했다. 한국은 원유와 천연가스 등 에너지 수입 의존도가 높아 유가가 오르면 수입 결제용 달러 수요가 늘어난다. 동시에 유가 상승은 국내 소비자물가와 생산자물가를 끌어올릴 수 있어 통화정책 불확실성을 키운다. 시장은 고유가가 물가 둔화 속도를 늦추고, 주요국 금리 인하 기대를 약화시킬 가능성을 경계했다. 이 과정에서 안전자산 성격의 달러 매수세가 유지됐고 원화는 상대적으로 약세를 보였다.\n\n환율이 1,500원대 초반에서 움직이면 국내 경제 주체가 체감하는 비용은 빠르게 커진다. 예를 들어 100만달러 결제 대금은 환율 1,513.4원 기준 약 15억1,340만원이다. 환율이 10원만 더 오르더라도 같은 결제액의 원화 부담은 1,000만원 늘어난다. 원자재, 에너지, 부품을 수입하는 기업에는 원가 상승 압력이 되고, 항공권·유학비·해외 송금 등 가계의 달러 지출에도 영향을 준다.\n\n## 외국인 순매도, 원화 약세 압력으로 연결\n국내 증시에서 외국인 순매도가 나타난 점도 환율 상승 요인이다. 외국인 투자자가 국내 주식을 팔고 자금을 회수하면 원화를 달러로 바꾸려는 수요가 생긴다. 이 흐름은 외환시장 수급상 달러 매수, 원화 매도로 연결된다. 특히 환율이 이미 높은 구간에 있을 때 외국인 자금 흐름은 시장 심리를 빠르게 흔들 수 있다.\n\n다만 이날 상승폭은 1.8원에 그쳤다. 이는 시장이 고유가와 외국인 매도 재료를 반영하면서도 급격한 방향성 베팅에는 신중했다는 의미다. 수출업체의 달러 매도 물량과 고점 인식도 상단을 제한한 것으로 보인다. 반도체와 자동차 등 주요 수출기업에는 높은 환율이 원화 환산 매출 개선 요인이 될 수 있지만, 원재료와 해외 차입 비용이 큰 기업에는 부담이 더 크다. 같은 고환율이라도 업종별 손익 영향은 엇갈린다.\n\n## 수입물가와 정책 변수 주목\n앞으로 원·달러 환율은 국제유가, 외국인 주식 자금 흐름, 미국 금리 전망, 국내 물가 지표에 따라 등락할 전망이다. 유가 상승세가 이어지면 국내 수입물가와 기대인플레이션을 자극해 환율 하락을 제한할 가능성이 크다. 반대로 외국인 매수세가 회복되고 위험자산 선호가 살아나면 원화 약세 압력은 완화될 수 있다.\n\n국내 시장에서는 1,500원대 환율 장기화 여부가 핵심 변수다. 고환율은 수입 물가를 통해 생활물가에 영향을 미치고, 기업의 환헤지 비용과 외화부채 관리 부담을 키운다. 개인 투자자도 해외주식 매수, 달러 예금, 환전 시점을 판단할 때 환율 변동성을 함께 고려해야 한다. 단기적으로는 유가와 외국인 수급이 환율 방향을 가르는 가장 중요한 신호로 작용할 전망이다.",
-        "keywords": [
-          "원달러환율",
-          "환율",
-          "달러원",
-          "원화약세",
-          "외국인순매도",
-          "인플레이션우려",
-          "고유가",
-          "서울외환시장",
-          "수입물가",
-          "환율전망"
-        ],
-        "faq": [
-          {
-            "q": "17일 원·달러 환율은 얼마에 마감했나요?",
-            "a": "17일 원·달러 환율은 전 거래일보다 1.8원 오른 1,513.4원에 마감했다."
-          },
-          {
-            "q": "원·달러 환율이 오른 이유는 무엇인가요?",
-            "a": "고유가에 따른 인플레이션 우려와 국내 증시 외국인 순매도가 달러 매수와 원화 약세 압력으로 작용했다."
-          },
-          {
-            "q": "높은 환율은 국내 시장에 어떤 영향을 주나요?",
-            "a": "수입물가와 에너지 비용을 높여 기업 원가와 생활물가에 부담을 줄 수 있다. 반면 일부 수출기업에는 원화 환산 매출 개선 효과가 나타날 수 있다."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "2e4ad676029b",
-    "slug": "gold-surges-2-since-week-opening-amid-geopolitical-shifts-an-176624",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-06-17T08:09:06.410Z",
-    "updatedAt": "2026-06-17T08:09:06.411Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.investing.com/analysis/gold-surges-2-since-week-opening-amid-geopolitical-shifts-and-fed-expectations-200682305",
-    "titleFingerprint": "218a40f860fc175e62b23803b2e37ea21673a83f",
-    "dedupKeys": [
-      "2e4ad676029b324d99a1c2f25324f12120e8b9cc",
-      "218a40f860fc175e62b23803b2e37ea21673a83f",
-      "08bdc51146b2097dc440e2489fc875d9508191c0"
-    ],
-    "imageUrl": "/images/articles/2e4ad676029b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "금값 주간 개장 후 2% 급등…지정학 변화와 연준 기대가 안전자산 매수 자극",
-        "excerpt": "금 가격이 이번 주 거래 시작 이후 약 2% 오르며 강세를 보였다. 지정학적 긴장 변화와 미국 연방준비제도 금리 기대가 겹치며 안전자산 수요와 달러·금리 흐름이 동시에 가격을 밀어올렸다.",
-        "metaDescription": "금값이 주간 개장 후 2% 상승했다. 지정학 리스크와 연준 금리 기대가 금 시세, 원화 환산 금값, 국내 귀금속·투자 수요에 미치는 영향을 분석했다.",
-        "summary": "금 가격은 이번 주 개장 이후 약 2% 상승하며 안전자산 선호가 다시 강화됐음을 보여줬다. 지정학적 변화가 위험 회피 심리를 키웠고, 연준의 향후 금리 경로에 대한 기대가 금 매수세를 보탰다. 국내에서는 원·달러 환율 흐름에 따라 원화 기준 금값 부담이 더 커질 수 있다.",
-        "body": "금값이 이번 주 거래 시작 이후 약 2% 상승하며 글로벌 원자재 시장의 중심 변수로 다시 부상했다. 이번 상승은 단순한 기술적 반등이 아니라 지정학적 불확실성, 미국 연방준비제도의 금리 인하 기대, 안전자산 선호가 동시에 맞물린 결과다. 금은 이자가 붙지 않는 자산이지만 금융시장 불안이 커지거나 실질금리 하락 기대가 커질 때 투자 매력이 높아진다. 이번 주 금 시장은 바로 그 조건을 빠르게 반영했다.\n\n## 금값 2% 상승의 핵심 동력\n주간 개장 이후 금 가격이 2%가량 오르면서 투자자들은 위험자산보다 방어자산을 우선하는 흐름을 보였다. 지정학적 긴장이 완화와 재고조를 반복하는 국면에서는 원유, 달러, 국채, 금이 동시에 민감하게 움직인다. 특히 금은 전쟁·제재·외교 협상 변수에 즉각 반응하는 대표 안전자산이다. 시장 참가자들은 향후 충돌 확대 가능성과 공급망 불확실성을 가격에 반영했고, 그 결과 금 매수세가 강해졌다.\n\n연준 기대도 상승 압력을 키웠다. 금리는 금 가격의 가장 중요한 변수 중 하나다. 기준금리 인하 가능성이 커지면 달러와 미국 국채수익률이 약해질 수 있고, 이는 금 보유의 기회비용을 낮춘다. 반대로 금리 인하 시점이 늦어질 경우 금값 상승 속도는 제한될 수 있다. 현재 금 시장은 금리 인하 기대가 완전히 사라지지 않았다는 점에 더 무게를 두고 움직인다.\n\n## 원화 기준 금값과 국내 시장 영향\n한국 투자자에게 중요한 것은 국제 금값뿐 아니라 원·달러 환율이다. 국제 금은 달러로 거래되기 때문에 같은 온스당 가격이라도 원화가 약하면 국내 체감 금값은 더 높아진다. 예를 들어 국제 금값이 2% 오르고 원화가 동시에 약세를 보이면 국내 금 시세, 골드바 판매가, 금 통장 평가액은 국제 가격 상승률보다 더 크게 움직일 수 있다. 반대로 원화 강세가 나타나면 일부 상승분이 상쇄된다.\n\n국내 귀금속 시장에도 파급이 예상된다. 결혼 예물, 돌반지, 금은방 소매 수요는 가격 상승기에 관망세가 커지는 경향이 있다. 반면 투자 목적의 골드바, 금 현물 계좌, 금 관련 상장상품에는 분할 매수 수요가 유입될 수 있다. 다만 국내 금 투자는 부가가치세, 매매 수수료, 상품별 과세 구조가 달라 실제 수익률이 국제 금값 등락률과 일치하지 않는다. 투자자는 실물 금과 금융상품의 비용 구조를 구분해야 한다.\n\n## 전망: 지정학과 연준 발언이 단기 방향 결정\n단기적으로 금값은 지정학 뉴스와 연준 인사 발언, 미국 물가·고용 지표에 따라 변동성이 커질 전망이다. 지정학 리스크가 확대되면 금은 추가 상승을 시도할 가능성이 있다. 반면 위험 회피 심리가 완화되고 미국 금리 인하 기대가 약해지면 차익 실현 매물이 나올 수 있다.\n\n중장기적으로는 실질금리와 달러 흐름이 관건이다. 금은 배당이나 이자를 지급하지 않기 때문에 고금리 환경에서는 부담이 커진다. 그러나 금리 인하 기대가 유지되고 중앙은행·장기 투자자의 방어 수요가 이어지면 가격 하단은 비교적 견조하게 형성될 수 있다. 한국 투자자는 국제 금값, 원·달러 환율, 국내 거래 비용을 함께 점검해야 한다. 이번 2% 상승은 금 시장이 다시 지정학과 통화정책의 교차점에 서 있음을 보여주는 신호다.",
-        "keywords": [
-          "금값",
-          "금 시세",
-          "국제 금값",
-          "안전자산",
-          "연준 금리",
-          "지정학 리스크",
-          "원화 금값",
-          "골드바",
-          "금 투자",
-          "금값 주간 개장 후 2% 급등…지정학"
-        ],
-        "faq": [
-          {
-            "q": "이번 주 금값은 왜 올랐나요?",
-            "a": "주간 개장 이후 금값은 약 2% 상승했다. 지정학적 불확실성이 안전자산 수요를 키웠고, 연준의 향후 금리 인하 기대가 금 보유 부담을 낮출 수 있다는 인식이 매수세를 자극했다."
-          },
-          {
-            "q": "국내 금값은 국제 금값과 똑같이 움직이나요?",
-            "a": "완전히 같지 않다. 국제 금값은 달러 기준으로 움직이며, 한국 투자자는 원·달러 환율의 영향을 함께 받는다. 원화가 약세면 국내 금값 상승 폭이 더 커질 수 있다."
-          },
-          {
-            "q": "지금 금 투자는 어떤 점을 봐야 하나요?",
-            "a": "국제 금값 방향뿐 아니라 미국 금리 전망, 달러 흐름, 원·달러 환율, 국내 거래 수수료와 세금 구조를 함께 확인해야 한다. 단기 급등 뒤에는 차익 실현 변동성도 커질 수 있다."
           }
         ]
       }
