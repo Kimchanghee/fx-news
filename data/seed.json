@@ -1,5 +1,386 @@
 [
   {
+    "id": "695e409a0420",
+    "slug": "gold-tests-key-support-as-fed-iran-talks-pressure-bulls-141306",
+    "channelId": "FX",
+    "category": "fx",
+    "publishedAt": "2026-06-28T23:02:02.950Z",
+    "updatedAt": "2026-06-28T23:02:02.950Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.investing.com/analysis/gold-tests-key-support-as-fed-iran-talks-pressure-bulls-200682681",
+    "titleFingerprint": "7ac18a58a3e557ec0fae7f4ac70933a80c1ae1aa",
+    "dedupKeys": [
+      "695e409a0420c795092ceb14195de2e1d88cf541",
+      "7ac18a58a3e557ec0fae7f4ac70933a80c1ae1aa",
+      "4e695fb434458f9f906646820ff209ba824da2e8"
+    ],
+    "imageUrl": "",
+    "i18n": {
+      "ko": {
+        "title": "금값, 연준 금리 경로와 이란 협상 변수에 핵심 지지선 시험",
+        "excerpt": "금값은 연준 금리 경로 불확실성과 이란 협상 진전 기대가 겹치며 핵심 지지선을 시험하고 있다. 달러와 미 국채금리, 중동 리스크가 단기 변동성을 좌우한다.",
+        "metaDescription": "금값이 연준 금리 경로와 이란 협상 변수 속에 핵심 지지선을 시험하고 있다. 안전자산 수요, 달러, 미 국채금리, 국내 투자 체크포인트를 정리했다.",
+        "summary": "금값은 금리 인하 기대 약화와 중동 긴장 완화 기대가 맞물리며 핵심 지지선 부근에서 방향성을 탐색하고 있다.",
+        "body": "금값이 연준의 금리 경로 불확실성과 이란 관련 협상 진전 기대 속에 단기 핵심 지지선을 시험하고 있다. 금리 인하 기대가 약해질 경우 이자를 지급하지 않는 금의 상대 매력은 낮아지고, 중동 긴장 완화 기대는 안전자산 매수세를 둔화시키는 요인으로 작용한다. 시장에서는 상승론자가 지지선 방어 가능성에 주목하는 반면, 하락론자는 달러와 미 국채금리 반등을 근거로 압박 수위를 높이고 있다. 현재 초점은 가격의 일시적 등락보다 지지선 이탈 여부에 맞춰져 있다. 지지선이 유지되면 저가 매수와 포트폴리오 헤지 수요가 다시 유입될 수 있다. 반대로 종가 기준 이탈이 굳어지면 손절성 매물과 기술적 매도가 겹치며 다음 매물대까지 낙폭이 확대될 가능성이 있다. 금은 배당이나 이자를 제공하지 않는 자산인 만큼 실질금리 변화에 민감하게 반응한다. 연준이 물가와 고용을 함께 확인하려는 태도를 유지하는 동안 빠른 완화 기대는 제한될 수 있다. 이 과정에서 달러 흐름도 국내 투자자에게 중요한 변수다. 달러가 강해지면 국제 금값 하락분이 원화 기준 가격에서 일부 상쇄될 수 있고, 달러가 약해질 때는 원화 환산 가격의 하락폭이 커질 수 있다. 이란 관련 협상은 원유와 금을 동시에 흔드는 변수로 남아 있다. 긴장이 완화되면 원유 공급 차질 우려와 전쟁 프리미엄이 낮아지면서 금의 방어적 매수세도 약해질 수 있다. 다만 협상이 지연되거나 관련 발언의 수위가 높아지면 안전자산 수요가 빠르게 회복될 수 있다. 현재 금 시장은 위험 회피 심리보다 금리와 달러의 조합을 더 크게 반영하고 있으며, 중동 변수는 방향을 단독으로 결정하기보다 변동폭을 키우는 촉매로 작용하고 있다. 국내 투자자는 국제 금값과 원달러 환율, 거래 비용을 함께 확인해야 한다. 금 1트로이온스는 31.1035g이고 국내에서 자주 쓰이는 1돈은 3.75g이다. 환율 1,300원을 단순 적용하면 국제 금값이 온스당 100달러 움직일 때 1돈 기준 원화 환산액은 약 1만6천원 변한다. 실물 금에는 부가가치세 10%와 제작·유통 마진이 붙어 단기 매매에는 불리할 수 있다. KRX 금시장과 금 ETF는 가격 추적 방식과 환율 노출 구조가 다르므로 투자 전 확인이 필요하다. 당분간 금값의 핵심 신호는 지지선 유지 여부, 연준 발언, 이란 협상 진전 여부로 압축된다.",
+        "keywords": [
+          "금값",
+          "금 시세",
+          "연준 금리",
+          "이란 협상",
+          "안전자산",
+          "달러",
+          "미 국채금리",
+          "원달러 환율",
+          "KRX 금시장",
+          "금값, 연준 금리 경로와 이란 협상"
+        ],
+        "faq": [
+          {
+            "q": "금값이 핵심 지지선을 시험하는 이유는 무엇인가요?",
+            "a": "연준의 금리 경로 불확실성과 이란 관련 협상 진전 기대가 겹치며 안전자산 매수세와 금리·달러 변수가 동시에 영향을 주고 있기 때문입니다."
+          },
+          {
+            "q": "연준 금리 경로는 금값에 어떤 영향을 줍니까?",
+            "a": "금은 이자를 지급하지 않기 때문에 금리 인하 기대가 약해지거나 실질금리가 높아지면 상대 매력이 낮아질 수 있습니다."
+          },
+          {
+            "q": "국내 투자자는 무엇을 함께 봐야 하나요?",
+            "a": "국제 금값뿐 아니라 원달러 환율, 실물 금의 부가가치세와 유통 마진, KRX 금시장과 금 ETF의 가격 추적 및 환율 노출 방식을 함께 확인해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Gold Tests Key Support as Fed Path and Iran Talks Weigh on Bulls",
+        "excerpt": "Gold is testing a key support zone as uncertainty over the Federal Reserve’s rate path and progress in Iran-related talks cool safe-haven demand, leaving bullish positions under pressure.",
+        "metaDescription": "Gold prices are testing key support as the Fed rate path and Iran talks weigh on bulls. See the impact on dollar moves, KRW gold, KRX gold, and ETFs.",
+        "summary": "Gold is testing a key support area as the Fed’s rate path and Iran-related talks pressure buyers. Weaker rate-cut expectations reduce the appeal of a non-yielding asset. Hopes for lower Middle East tension also trim the safe-haven premium. Korean investors need to track dollar-won moves, trading costs, KRX gold, and gold ETFs together.",
+        "body": "Gold has entered a test of short-term key support as uncertainty over the Federal Reserve’s rate path combines with expectations for progress in Iran-related talks. When rate-cut hopes fade, the relative appeal of gold declines because it pays no interest. Expectations of reduced Middle East tension also cool safe-haven buying, putting bullish positions under pressure.\n\n## Support Holds the Next Signal\nThe immediate focus is whether support breaks on a closing basis. If it holds, bargain buying and portfolio hedge demand can return. If it fails, stop-loss selling and technical pressure may push gold toward the next demand zone. Gold is sensitive to real rates because it offers no coupon or dividend. A stronger dollar can partly offset global gold weakness for Korean buyers, while dollar softness can deepen the won-based decline.\n\n## Iran Talks and Safe-Haven Premium\nIran-related talks matter for both crude oil and gold. Lower tension reduces fears of supply disruption and trims the war premium embedded in defensive assets. If talks stall or rhetoric hardens, safe-haven demand can recover quickly. At the moment, gold is reacting more to the mix of rates and the dollar, while Middle East risk is acting mainly as a volatility trigger.\n\n## Korean Investor Checklist\nKorean investors should compare international gold prices, USD/KRW, and costs. One troy ounce equals 31.1035 grams, and one Korean don equals 3.75 grams. At a simple exchange rate of 1,300 won per dollar, a 100 dollar move per ounce changes the won value of one don by about 16,000 won before fees. Physical gold carries 10% VAT plus fabrication and distribution margins, while KRX gold and gold ETFs differ in tracking method and currency exposure.",
+        "keywords": [
+          "gold price",
+          "gold support",
+          "Federal Reserve",
+          "Iran talks",
+          "safe haven",
+          "US dollar",
+          "Treasury yields",
+          "KRW gold",
+          "KRX gold",
+          "Gold Tests Key Suppo"
+        ],
+        "faq": [
+          {
+            "q": "Why is gold testing key support?",
+            "a": "Fed rate uncertainty is reducing the appeal of non-yielding gold, while Iran-related talks are cooling part of the safe-haven bid."
+          },
+          {
+            "q": "How do Iran talks affect gold?",
+            "a": "Progress can lower geopolitical risk premiums and weaken defensive buying. Delays or higher tensions can restore safe-haven demand."
+          },
+          {
+            "q": "What should Korean investors watch?",
+            "a": "They should track international gold, USD/KRW, 10% VAT on physical gold, margins, and the different currency exposure of KRX gold and gold ETFs."
+          }
+        ]
+      },
+      "ja": {
+        "title": "金価格は重要支持線を試す、FRB金利経路とイラン協議が買い方を圧迫",
+        "excerpt": "金価格はFRBの金利経路を巡る不透明感とイラン関連協議の進展期待が重なり、重要な支持線を試している。ドル、金利、中東リスクが短期方向を左右する。",
+        "metaDescription": "金価格はFRBの金利見通しとイラン協議を材料に重要支持線を試す展開。韓国ウォン換算、KRX金市場、金ETFの注意点を整理する。",
+        "summary": "金価格はFRBの金利経路とイラン関連協議の影響で重要支持線を試している。利下げ期待が弱まれば、利息を生まない金の魅力は低下する。中東緊張の緩和期待は安全資産プレミアムを縮小させる。韓国投資家はドルウォン相場、取引費用、KRX金市場と金ETFの違いを確認する必要がある。",
+        "body": "金価格は、FRBの金利経路を巡る不透明感とイラン関連協議の進展期待が重なり、短期の重要支持線を試す局面に入った。利下げ期待が後退すれば、利息を生まない金の相対的な魅力は下がる。中東緊張の緩和期待も安全資産需要を冷やし、買い方への圧力を強めている。\n\n## 支持線維持が次の方向を決める\n焦点は終値で支持線を守れるかだ。維持されれば押し目買いとポートフォリオのヘッジ需要が戻りやすい。割り込めば損切り売りとテクニカル売りが重なり、次の需要帯まで下落幅が広がる可能性がある。金は配当も利息もないため実質金利に敏感だ。ドル高は韓国ウォン建て価格の下落を一部相殺し、ドル安は逆に下げを広げる要因になる。\n\n## イラン協議と安全資産プレミアム\nイラン関連協議は原油と金を同時に動かす材料だ。緊張が和らげば供給不安と戦争プレミアムが低下し、金の防衛的な買いは弱まる。ただし協議が遅れたり発言が強硬化したりすれば、安全資産需要はすぐに戻る。現在の金市場は中東要因より金利とドルの組み合わせに強く反応しており、中東リスクは主に変動率を高める触媒になっている。\n\n## 韓国投資家の確認点\n韓国投資家は国際金価格、ドルウォン相場、取引費用を一緒に見る必要がある。1トロイオンスは31.1035g、韓国で使われる1匁は3.75gだ。為替を1ドル1300ウォンと単純計算すると、金が1オンス100ドル動くたびに1匁のウォン換算額は約1万6000ウォン変わる。現物金には付加価値税10%と加工・流通マージンが加わり、KRX金市場と金ETFは価格追随と為替エクスポージャーが異なる。",
+        "keywords": [
+          "金価格",
+          "金支持線",
+          "FRB金利",
+          "イラン協議",
+          "安全資産",
+          "ドルウォン",
+          "KRX金市場",
+          "金ETF",
+          "金価格は重要支持線を試す、FRB金利経路"
+        ],
+        "faq": [
+          {
+            "q": "金価格が重要支持線を試す理由は何か。",
+            "a": "FRBの金利経路への不透明感が金の魅力を下げ、イラン関連協議の進展期待が安全資産需要を弱めているためだ。"
+          },
+          {
+            "q": "イラン協議は金価格にどう影響するか。",
+            "a": "緊張緩和は地政学リスクのプレミアムを下げ、金買いを鈍らせる。協議が停滞すれば安全資産需要は回復しやすい。"
+          },
+          {
+            "q": "韓国投資家は何を確認すべきか。",
+            "a": "国際金価格、ドルウォン相場、現物金の付加価値税10%、KRX金市場と金ETFの為替影響を確認すべきだ。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "金价测试关键支撑，美联储利率路径和伊朗谈判压制多头",
+        "excerpt": "金价正在测试关键支撑区间。美联储利率路径不确定性与伊朗相关谈判进展预期同时降温避险买盘，美元、利率和中东风险决定短线方向。",
+        "metaDescription": "金价受美联储利率路径和伊朗谈判影响测试关键支撑。解析美元、韩元计价黄金、KRX黄金市场和黄金ETF投资要点。",
+        "summary": "金价因美联储利率路径不确定和伊朗相关谈判变量而测试关键支撑。降息预期减弱会降低无息资产黄金的吸引力。中东紧张缓和预期也削弱避险溢价。韩国投资者需同时关注美元兑韩元、交易成本、KRX黄金市场与黄金ETF差异。",
+        "body": "金价已进入测试短期关键支撑的阶段。美联储利率路径的不确定性，与伊朗相关谈判取得进展的预期叠加，削弱了黄金多头的信心。降息预期走弱时，黄金因不产生利息而相对吸引力下降；中东紧张局势缓和的预期也会降低避险需求。\n\n## 支撑能否守住决定短线方向\n市场眼下关注的不是单一报价，而是收盘能否守住支撑。若支撑有效，逢低买盘和组合对冲需求可能重新进入。若跌破确认，止损盘与技术性卖压可能推动金价下探下一需求区。黄金对实际利率敏感，因为它不支付股息或利息。美元走强会部分抵消韩国投资者看到的国际金价下跌，美元走弱则可能放大韩元计价跌幅。\n\n## 伊朗谈判与避险溢价\n伊朗相关谈判同时影响原油和黄金。紧张降温会降低供应中断担忧和战争溢价，从而削弱黄金的防御性买盘。但若谈判拖延或言辞转强，避险需求可能迅速恢复。目前黄金市场更重视利率与美元组合，中东因素主要扮演放大波动的催化剂。\n\n## 韩国投资者检查清单\n韩国投资者应同时比较国际金价、美元兑韩元和交易成本。1金衡盎司等于31.1035克，韩国常用的1钱等于3.75克。按1美元兑1300韩元简单计算，国际金价每盎司变动100美元，1钱黄金的韩元折算额约变动1.6万韩元。实物黄金需承担10%增值税及加工、流通利润；KRX黄金市场和黄金ETF在跟踪方式与汇率敞口上并不相同。",
+        "keywords": [
+          "金价",
+          "黄金支撑",
+          "美联储利率",
+          "伊朗谈判",
+          "避险资产",
+          "美元韩元",
+          "KRX黄金市场",
+          "黄金ETF",
+          "金价测试关键支撑，美联储利率路径和伊朗谈"
+        ],
+        "faq": [
+          {
+            "q": "金价为何测试关键支撑？",
+            "a": "美联储利率路径不确定降低了无息黄金的吸引力，伊朗相关谈判进展预期也削弱了避险买盘。"
+          },
+          {
+            "q": "伊朗谈判如何影响黄金？",
+            "a": "谈判进展会降低地缘风险溢价并压制防御性买盘；若谈判受阻，避险需求可能回升。"
+          },
+          {
+            "q": "韩国投资者应关注什么？",
+            "a": "应关注国际金价、美元兑韩元、实物黄金10%增值税、交易成本，以及KRX黄金和黄金ETF的汇率敞口差异。"
+          }
+        ]
+      },
+      "es": {
+        "title": "El oro prueba soporte clave mientras la Fed e Irán presionan a los alcistas",
+        "excerpt": "El oro prueba una zona de soporte clave mientras la ruta de tasas de la Fed y las negociaciones ligadas a Irán reducen la demanda defensiva y presionan las posiciones alcistas.",
+        "metaDescription": "El oro prueba soporte clave por la Fed y las conversaciones sobre Irán. Impacto en dólar, tasas, oro en wones, mercado KRX y ETF de oro.",
+        "summary": "El oro está probando soporte clave por la incertidumbre sobre la ruta de tasas de la Fed y las conversaciones ligadas a Irán. Menores expectativas de recorte reducen el atractivo de un activo sin rendimiento. La menor tensión en Medio Oriente recorta la prima refugio. En Corea, importan el dólar-won, los costos, KRX y los ETF de oro.",
+        "body": "El oro entró en una prueba de soporte clave de corto plazo por la combinación de incertidumbre sobre la ruta de tasas de la Reserva Federal y expectativas de avance en conversaciones ligadas a Irán. Cuando se enfrían las apuestas de recorte, el atractivo relativo del oro disminuye porque no paga intereses. La expectativa de menor tensión en Medio Oriente también reduce la compra de refugio y presiona a los alcistas.\n\n## El soporte define la señal inmediata\nEl foco está en si el soporte se mantiene al cierre. Si resiste, pueden volver las compras de oportunidad y la demanda de cobertura de carteras. Si se pierde, las órdenes de salida y la venta técnica pueden llevar el precio hacia la siguiente zona de demanda. El oro es sensible a las tasas reales porque no genera cupón ni dividendo. Un dólar más fuerte puede amortiguar parte de la caída para compradores coreanos, mientras que un dólar débil puede ampliar la baja en wones.\n\n## Irán y la prima de refugio\nLas conversaciones sobre Irán mueven a la vez petróleo y oro. Menor tensión reduce el temor a interrupciones de oferta y la prima de guerra en activos defensivos. Si las conversaciones se retrasan o el tono político se endurece, la demanda de refugio puede regresar rápido. Por ahora el oro responde más a tasas y dólar, con Medio Oriente como catalizador de volatilidad.\n\n## Claves para Corea\nEl inversor coreano debe mirar precio internacional, USD/KRW y costos. Una onza troy equivale a 31.1035 gramos y un don coreano a 3.75 gramos. Con 1,300 wones por dólar, un movimiento de 100 dólares por onza cambia el valor de un don en unos 16,000 wones antes de costos. El oro físico incluye IVA de 10% y márgenes; KRX y los ETF difieren en seguimiento y exposición cambiaria.",
+        "keywords": [
+          "precio del oro",
+          "soporte del oro",
+          "Reserva Federal",
+          "negociaciones Irán",
+          "activo refugio",
+          "dólar",
+          "oro en wones",
+          "KRX oro",
+          "ETF oro",
+          "El oro prueba soport"
+        ],
+        "faq": [
+          {
+            "q": "¿Por qué el oro prueba soporte clave?",
+            "a": "La incertidumbre sobre tasas de la Fed reduce el atractivo del oro sin rendimiento y las conversaciones ligadas a Irán enfrían la demanda refugio."
+          },
+          {
+            "q": "¿Cómo afectan las conversaciones sobre Irán al oro?",
+            "a": "Un avance reduce la prima geopolítica y debilita la compra defensiva. Un retraso puede reactivar la demanda de refugio."
+          },
+          {
+            "q": "¿Qué debe vigilar un inversor coreano?",
+            "a": "Debe seguir el oro internacional, USD/KRW, el IVA de 10% del oro físico, los márgenes y la exposición cambiaria de KRX y los ETF."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Ouro testa suporte-chave com Fed e negociações do Irã pressionando os compradores",
+        "excerpt": "O ouro testa um suporte-chave enquanto a trajetória de juros do Fed e as negociações ligadas ao Irã reduzem a procura por proteção e pressionam posições compradas.",
+        "metaDescription": "O ouro testa suporte-chave com Fed e Irã no foco. Veja efeitos sobre dólar, juros, ouro em won, mercado KRX e ETFs de ouro.",
+        "summary": "O ouro testa suporte-chave sob pressão da trajetória de juros do Fed e das negociações ligadas ao Irã. Menor expectativa de corte reduz o apelo de um ativo sem rendimento. A possível queda da tensão no Oriente Médio corta o prêmio de proteção. Na Coreia, câmbio, custos, KRX e ETFs devem ser analisados em conjunto.",
+        "body": "O ouro entrou em uma fase de teste de suporte-chave no curto prazo, com a incerteza sobre a trajetória de juros do Federal Reserve somada à expectativa de avanço em negociações ligadas ao Irã. Quando as apostas em cortes de juros perdem força, o ouro fica menos atraente por não pagar juros. A perspectiva de menor tensão no Oriente Médio também reduz a demanda por proteção e pressiona os compradores.\n\n## Suporte define o próximo movimento\nO ponto central é saber se o suporte será preservado no fechamento. Se resistir, compras de oportunidade e demanda de hedge podem voltar. Se romper, ordens de stop e venda técnica podem levar o preço à próxima zona de demanda. O ouro reage fortemente aos juros reais porque não distribui cupom nem dividendos. Para investidores coreanos, dólar forte pode compensar parte da queda externa; dólar fraco pode ampliar a baixa em won.\n\n## Irã e prêmio de segurança\nAs negociações relacionadas ao Irã afetam petróleo e ouro ao mesmo tempo. Menor tensão reduz o medo de ruptura de oferta e o prêmio de guerra nos ativos defensivos. Se as conversas atrasarem ou o tom político endurecer, a procura por segurança pode voltar rapidamente. No momento, o ouro reage mais à combinação de juros e dólar, enquanto o Oriente Médio funciona como gatilho de volatilidade.\n\n## Pontos para a Coreia\nO investidor coreano deve acompanhar preço internacional, USD/KRW e custos. Uma onça troy tem 31.1035 gramas e um don coreano tem 3.75 gramas. Com câmbio simples de 1,300 won por dólar, uma variação de 100 dólares por onça altera o valor de um don em cerca de 16,000 won antes de custos. Ouro físico inclui IVA de 10% e margens; KRX e ETFs diferem em rastreamento e exposição cambial.",
+        "keywords": [
+          "preço do ouro",
+          "suporte do ouro",
+          "Federal Reserve",
+          "negociações Irã",
+          "porto seguro",
+          "dólar",
+          "ouro em won",
+          "KRX ouro",
+          "ETF de ouro",
+          "Ouro testa suporte-c"
+        ],
+        "faq": [
+          {
+            "q": "Por que o ouro testa suporte-chave?",
+            "a": "A incerteza sobre juros do Fed reduz o apelo do ouro sem rendimento, enquanto negociações ligadas ao Irã diminuem parte da demanda por proteção."
+          },
+          {
+            "q": "Como as negociações do Irã afetam o ouro?",
+            "a": "Avanço nas conversas reduz o prêmio geopolítico e enfraquece compras defensivas. Atrasos podem reativar a busca por segurança."
+          },
+          {
+            "q": "O que investidores coreanos devem observar?",
+            "a": "Preço internacional, USD/KRW, IVA de 10% no ouro físico, margens e a exposição cambial diferente entre KRX e ETFs de ouro."
+          }
+        ]
+      },
+      "de": {
+        "title": "Gold testet wichtige Unterstützung, Fed-Pfad und Iran-Gespräche belasten Käufer",
+        "excerpt": "Gold testet eine wichtige Unterstützungszone, weil Unsicherheit über den Zinspfad der Fed und Fortschrittserwartungen bei Iran-Gesprächen die Nachfrage nach sicheren Anlagen dämpfen.",
+        "metaDescription": "Gold testet wichtige Unterstützung durch Fed-Zinspfade und Iran-Gespräche. Folgen für Dollar, Won-Gold, KRX-Goldmarkt und Gold-ETFs.",
+        "summary": "Gold testet eine wichtige Unterstützung, belastet durch den Zinspfad der Fed und Iran-bezogene Gespräche. Schwächere Zinssenkungserwartungen mindern den Reiz eines unverzinsten Vermögenswerts. Geringere Nahost-Spannungen senken die Sicherheitsprämie. Koreanische Anleger sollten USD/KRW, Kosten, KRX-Gold und Gold-ETFs zusammen prüfen.",
+        "body": "Gold befindet sich in einem Test der kurzfristig wichtigen Unterstützung. Auslöser sind die Unsicherheit über den Zinspfad der Federal Reserve und Erwartungen auf Fortschritte bei Iran-bezogenen Gesprächen. Wenn Zinssenkungserwartungen nachlassen, sinkt die relative Attraktivität von Gold, weil es keine Zinsen zahlt. Eine mögliche Entspannung im Nahen Osten verringert zusätzlich die Nachfrage nach sicheren Anlagen.\n\n## Unterstützung liefert das nächste Signal\nEntscheidend ist, ob die Unterstützung auf Schlusskursbasis hält. Bleibt sie intakt, können Käufe auf niedrigem Niveau und Absicherungsbedarf zurückkehren. Wird sie gebrochen, können Stopps und technische Verkäufe den Preis zur nächsten Nachfragezone drücken. Gold reagiert sensibel auf Realzinsen, da es keinen Kupon und keine Dividende bietet. Ein stärkerer Dollar kann für koreanische Käufer einen Teil der globalen Schwäche ausgleichen, ein schwächerer Dollar kann den Rückgang in Won verstärken.\n\n## Iran-Gespräche und Sicherheitsprämie\nIran-bezogene Gespräche bewegen Öl und Gold zugleich. Geringere Spannung senkt Sorgen über Lieferausfälle und reduziert die Kriegsprämie in defensiven Anlagen. Verzögerungen oder härtere Rhetorik könnten die Nachfrage nach sicheren Häfen rasch zurückbringen. Derzeit reagiert Gold stärker auf Zinsen und Dollar, während der Nahe Osten vor allem die Schwankungen erhöht.\n\n## Checkliste für Korea\nKoreanische Anleger müssen internationalen Goldpreis, USD/KRW und Kosten vergleichen. Eine Feinunze entspricht 31.1035 Gramm, ein koreanischer Don 3.75 Gramm. Bei 1,300 Won je Dollar verändert eine Bewegung von 100 Dollar je Unze den Wert eines Don um rund 16,000 Won vor Kosten. Physisches Gold enthält 10% Mehrwertsteuer sowie Margen; KRX-Gold und ETFs unterscheiden sich bei Nachbildung und Währungsrisiko.",
+        "keywords": [
+          "Goldpreis",
+          "Gold Unterstützung",
+          "Federal Reserve",
+          "Iran Gespräche",
+          "sicherer Hafen",
+          "US Dollar",
+          "Won Gold",
+          "KRX Gold",
+          "Gold ETF",
+          "Gold testet wichtige"
+        ],
+        "faq": [
+          {
+            "q": "Warum testet Gold eine wichtige Unterstützung?",
+            "a": "Die Unsicherheit über den Fed-Zinspfad schwächt den Reiz von Gold ohne laufenden Ertrag, während Iran-Gespräche die Sicherheitsnachfrage dämpfen."
+          },
+          {
+            "q": "Wie wirken Iran-Gespräche auf Gold?",
+            "a": "Fortschritte senken geopolitische Prämien und defensive Käufe. Verzögerungen können Nachfrage nach sicheren Häfen wieder erhöhen."
+          },
+          {
+            "q": "Was sollten koreanische Anleger beachten?",
+            "a": "Internationalen Goldpreis, USD/KRW, 10% Mehrwertsteuer auf physisches Gold, Margen sowie Währungsrisiken von KRX-Gold und ETFs."
+          }
+        ]
+      },
+      "fr": {
+        "title": "L’or teste un support clé, la Fed et les discussions sur l’Iran pèsent sur les acheteurs",
+        "excerpt": "L’or teste un support clé alors que la trajectoire des taux de la Fed et les discussions liées à l’Iran réduisent la demande de valeur refuge et mettent les positions acheteuses sous pression.",
+        "metaDescription": "L’or teste un support clé sous l’effet de la Fed et de l’Iran. Impact sur dollar, taux, or en won, marché KRX et ETF adossés à l’or.",
+        "summary": "L’or teste un support clé sous la pression de la trajectoire des taux de la Fed et des discussions liées à l’Iran. Des attentes de baisse de taux plus faibles réduisent l’attrait d’un actif sans rendement. Une détente au Moyen-Orient diminue la prime refuge. En Corée, change, coûts, KRX et ETF doivent être suivis ensemble.",
+        "body": "L’or est entré dans une phase de test de support clé à court terme, sous l’effet combiné de l’incertitude sur la trajectoire des taux de la Réserve fédérale et des attentes d’avancées dans les discussions liées à l’Iran. Quand les paris sur une baisse des taux s’affaiblissent, l’attrait de l’or recule car il ne verse aucun intérêt. La perspective d’une détente au Moyen-Orient réduit aussi la demande de valeur refuge.\n\n## Le support donne le signal immédiat\nLe marché surveille surtout la capacité du support à tenir en clôture. S’il résiste, les achats à bon compte et la demande de couverture peuvent revenir. S’il cède, les ordres de protection et les ventes techniques peuvent entraîner l’or vers la prochaine zone de demande. L’or est sensible aux taux réels parce qu’il ne verse ni coupon ni dividende. Pour les acheteurs coréens, un dollar fort peut compenser une partie de la baisse mondiale, tandis qu’un dollar faible peut amplifier le recul en won.\n\n## Iran et prime refuge\nLes discussions liées à l’Iran influencent à la fois le pétrole et l’or. Une baisse des tensions réduit les craintes de rupture d’offre et la prime de guerre intégrée aux actifs défensifs. Si les discussions ralentissent ou si le ton se durcit, la demande refuge peut revenir rapidement. Pour l’instant, l’or réagit davantage au couple taux-dollar, le Moyen-Orient jouant surtout le rôle de catalyseur de volatilité.\n\n## Points à suivre en Corée\nLes investisseurs coréens doivent comparer prix international, USD/KRW et coûts. Une once troy vaut 31.1035 grammes et un don coréen 3.75 grammes. Avec 1,300 wons par dollar, une variation de 100 dollars l’once change la valeur d’un don d’environ 16,000 wons avant frais. L’or physique inclut 10% de TVA et des marges; KRX et les ETF diffèrent par leur suivi et leur exposition au change.",
+        "keywords": [
+          "prix de l’or",
+          "support de l’or",
+          "Réserve fédérale",
+          "discussions Iran",
+          "valeur refuge",
+          "dollar",
+          "or en won",
+          "KRX or",
+          "ETF or",
+          "L’or teste un suppor"
+        ],
+        "faq": [
+          {
+            "q": "Pourquoi l’or teste-t-il un support clé ?",
+            "a": "L’incertitude sur les taux de la Fed réduit l’attrait de l’or sans rendement, tandis que les discussions liées à l’Iran freinent la demande refuge."
+          },
+          {
+            "q": "Quel est l’effet des discussions sur l’Iran ?",
+            "a": "Des progrès réduisent la prime géopolitique et les achats défensifs. Des retards peuvent relancer la demande de valeur refuge."
+          },
+          {
+            "q": "Que doit surveiller un investisseur coréen ?",
+            "a": "Le prix mondial de l’or, USD/KRW, la TVA de 10% sur l’or physique, les marges et l’exposition au change des produits KRX et ETF."
+          }
+        ]
+      },
+      "ar": {
+        "title": "الذهب يختبر دعما رئيسيا مع ضغط مسار الفائدة الأميركية ومحادثات إيران على المشترين",
+        "excerpt": "يختبر الذهب منطقة دعم رئيسية مع تراجع شهية الملاذ الآمن بفعل غموض مسار فائدة الاحتياطي الفيدرالي وتوقعات تقدم المحادثات المرتبطة بإيران.",
+        "metaDescription": "الذهب يختبر دعما رئيسيا تحت ضغط الفيدرالي ومحادثات إيران. قراءة لتأثير الدولار والفائدة والذهب بالوون وسوق KRX وصناديق الذهب.",
+        "summary": "يختبر الذهب دعما رئيسيا مع ضغط مسار الفائدة لدى الاحتياطي الفيدرالي والمحادثات المرتبطة بإيران على المشترين. تراجع توقعات خفض الفائدة يقلل جاذبية الأصل غير المدر للعائد. كما أن احتمال هدوء التوتر في الشرق الأوسط يخفض علاوة الملاذ الآمن. على المستثمر الكوري متابعة الدولار مقابل الوون والتكاليف وسوق KRX وصناديق الذهب معا.",
+        "body": "دخل الذهب مرحلة اختبار دعم رئيسي قصير الأجل مع تداخل غموض مسار الفائدة لدى الاحتياطي الفيدرالي مع توقعات تقدم في المحادثات المرتبطة بإيران. عندما تضعف رهانات خفض الفائدة، تنخفض جاذبية الذهب النسبية لأنه لا يدفع فائدة. كما أن توقع تراجع التوتر في الشرق الأوسط يهدئ طلب الملاذ الآمن ويزيد الضغط على المشترين.\n\n## الدعم يحدد الإشارة المقبلة\nالتركيز الآن على قدرة السعر على الحفاظ على الدعم عند الإغلاق. إذا صمد الدعم، قد تعود مشتريات الانخفاض وطلب التحوط في المحافظ. أما كسره فقد يدفع أوامر وقف الخسارة والبيع الفني إلى المنطقة التالية من الطلب. الذهب حساس للفائدة الحقيقية لأنه لا يمنح كوبونا أو توزيعات. قوة الدولار قد تعوض جزءا من ضعف السعر العالمي للمستثمر الكوري، بينما ضعف الدولار قد يوسع الهبوط بالوون.\n\n## إيران وعلاوة الملاذ الآمن\nالمحادثات المرتبطة بإيران تؤثر في النفط والذهب معا. هدوء التوتر يقلل مخاوف تعطل الإمدادات وعلاوة الحرب في الأصول الدفاعية. وإذا تعثرت المحادثات أو ارتفعت حدة التصريحات، قد يعود طلب الملاذ الآمن بسرعة. حاليا يستجيب الذهب أكثر لمزيج الفائدة والدولار، بينما يعمل خطر الشرق الأوسط أساسا كمحفز للتقلب.\n\n## نقاط للمستثمر الكوري\nينبغي مقارنة السعر العالمي للذهب وسعر الدولار مقابل الوون وتكاليف التداول. الأونصة الترويسية تساوي 31.1035 غراما، والدون الكوري يساوي 3.75 غرامات. عند 1,300 وون للدولار، فإن تحرك الذهب 100 دولار للأونصة يغير قيمة دون واحد بنحو 16,000 وون قبل التكاليف. الذهب المادي يشمل ضريبة قيمة مضافة 10% وهوامش تصنيع وتوزيع، بينما تختلف KRX وصناديق الذهب في التتبع والتعرض للعملة.",
+        "keywords": [
+          "سعر الذهب",
+          "دعم الذهب",
+          "الاحتياطي الفيدرالي",
+          "محادثات إيران",
+          "ملاذ آمن",
+          "الدولار",
+          "ذهب بالوون",
+          "سوق KRX",
+          "صناديق الذهب",
+          "الذهب يختبر دعما رئي"
+        ],
+        "faq": [
+          {
+            "q": "لماذا يختبر الذهب دعما رئيسيا؟",
+            "a": "غموض مسار الفائدة الأميركية يقلل جاذبية الذهب غير المدر للعائد، وتوقع تقدم محادثات إيران يضعف جزءا من طلب الملاذ الآمن."
+          },
+          {
+            "q": "كيف تؤثر محادثات إيران في الذهب؟",
+            "a": "التقدم يخفض علاوة المخاطر الجيوسياسية ويضعف الشراء الدفاعي، أما التعثر فقد يعيد الطلب على الملاذ الآمن."
+          },
+          {
+            "q": "ماذا يراقب المستثمر الكوري؟",
+            "a": "السعر العالمي، الدولار مقابل الوون، ضريبة 10% على الذهب المادي، الهوامش، واختلاف تعرض KRX وصناديق الذهب للعملة."
+          }
+        ]
+      },
+      "hi": {
+        "title": "सोना अहम समर्थन पर, फेड दर पथ और ईरान वार्ता से खरीदारों पर दबाव",
+        "excerpt": "सोना अहम समर्थन क्षेत्र की परीक्षा कर रहा है। फेड की ब्याज दर दिशा और ईरान से जुड़ी वार्ता में प्रगति की उम्मीद ने सुरक्षित निवेश की मांग घटाई है।",
+        "metaDescription": "सोना फेड दर पथ और ईरान वार्ता के दबाव में अहम समर्थन पर है। डॉलर, वॉन में सोना, KRX बाजार और गोल्ड ETF के असर समझें।",
+        "summary": "सोना फेड की ब्याज दर दिशा और ईरान से जुड़ी वार्ता के कारण अहम समर्थन की परीक्षा कर रहा है। दर कटौती की उम्मीद घटने से बिना आय वाले सोने का आकर्षण कम होता है। मध्य पूर्व तनाव कम होने की उम्मीद सुरक्षित निवेश प्रीमियम घटाती है। कोरियाई निवेशकों को USD/KRW, लागत, KRX सोना और गोल्ड ETF साथ देखना चाहिए।",
+        "body": "सोना अल्पकालिक अहम समर्थन की परीक्षा में है। फेडरल रिजर्व की ब्याज दर दिशा पर अनिश्चितता और ईरान से जुड़ी वार्ता में प्रगति की उम्मीद ने खरीदारों पर दबाव बढ़ाया है। जब दर कटौती की उम्मीद कमजोर होती है, तो ब्याज न देने वाले सोने का सापेक्ष आकर्षण घटता है। मध्य पूर्व में तनाव कम होने की उम्मीद भी सुरक्षित निवेश की मांग को ठंडा करती है।\n\n## समर्थन अगला संकेत देगा\nमुख्य सवाल यह है कि बंद भाव पर समर्थन बचता है या नहीं। समर्थन कायम रहा तो निचले स्तर की खरीद और पोर्टफोलियो हेजिंग मांग लौट सकती है। टूटने पर स्टॉप लॉस और तकनीकी बिकवाली कीमत को अगले मांग क्षेत्र तक ले जा सकती है। सोना वास्तविक ब्याज दरों के प्रति संवेदनशील है क्योंकि यह कूपन या लाभांश नहीं देता। मजबूत डॉलर कोरियाई खरीदारों के लिए वैश्विक गिरावट को कुछ कम कर सकता है, जबकि कमजोर डॉलर वॉन में गिरावट बढ़ा सकता है।\n\n## ईरान वार्ता और सुरक्षित निवेश प्रीमियम\nईरान से जुड़ी वार्ता तेल और सोना दोनों को प्रभावित करती है। तनाव कम होने से आपूर्ति बाधा की आशंका और युद्ध प्रीमियम घटता है। अगर वार्ता अटकती है या बयानबाजी सख्त होती है, तो सुरक्षित निवेश मांग तेजी से लौट सकती है। फिलहाल सोना दरों और डॉलर के मेल पर अधिक प्रतिक्रिया दे रहा है, जबकि मध्य पूर्व जोखिम मुख्य रूप से उतार-चढ़ाव बढ़ा रहा है।\n\n## कोरियाई निवेशक क्या देखें\nकोरियाई निवेशकों को अंतरराष्ट्रीय सोना, USD/KRW और लागत को साथ देखना चाहिए। 1 ट्रॉय औंस 31.1035 ग्राम है और 1 कोरियाई डॉन 3.75 ग्राम है। 1 डॉलर 1,300 वॉन मानने पर, प्रति औंस 100 डॉलर की चाल से 1 डॉन का वॉन मूल्य लागत से पहले लगभग 16,000 वॉन बदलता है। भौतिक सोने पर 10% VAT और मार्जिन लगते हैं; KRX और गोल्ड ETF में ट्रैकिंग और मुद्रा जोखिम अलग होते हैं।",
+        "keywords": [
+          "सोने की कीमत",
+          "सोना समर्थन",
+          "फेडरल रिजर्व",
+          "ईरान वार्ता",
+          "सुरक्षित निवेश",
+          "डॉलर",
+          "वॉन में सोना",
+          "KRX सोना",
+          "गोल्ड ETF",
+          "सोना अहम समर्थन पर,"
+        ],
+        "faq": [
+          {
+            "q": "सोना अहम समर्थन क्यों परख रहा है?",
+            "a": "फेड दर दिशा की अनिश्चितता बिना आय वाले सोने का आकर्षण घटा रही है और ईरान वार्ता की उम्मीद सुरक्षित निवेश मांग कम कर रही है।"
+          },
+          {
+            "q": "ईरान वार्ता सोने को कैसे प्रभावित करती है?",
+            "a": "प्रगति से भू-राजनीतिक प्रीमियम घटता है और रक्षात्मक खरीद कमजोर होती है। देरी होने पर सुरक्षित निवेश मांग लौट सकती है।"
+          },
+          {
+            "q": "कोरियाई निवेशकों को क्या देखना चाहिए?",
+            "a": "अंतरराष्ट्रीय सोना, USD/KRW, भौतिक सोने पर 10% VAT, मार्जिन, और KRX तथा ETF की अलग मुद्रा जोखिम संरचना देखनी चाहिए।"
+          }
+        ]
+      },
+      "id": {
+        "title": "Emas Uji Support Kunci saat Jalur Suku Bunga Fed dan Perundingan Iran Menekan Pembeli",
+        "excerpt": "Emas menguji area support kunci karena ketidakpastian jalur suku bunga Fed dan harapan kemajuan perundingan terkait Iran meredam permintaan aset aman.",
+        "metaDescription": "Emas menguji support kunci akibat Fed dan Iran. Simak dampaknya pada dolar, suku bunga, emas dalam won, pasar KRX, dan ETF emas.",
+        "summary": "Emas menguji support kunci karena jalur suku bunga Fed dan perundingan terkait Iran menekan pembeli. Ekspektasi pemangkasan suku bunga yang melemah mengurangi daya tarik aset tanpa imbal hasil. Harapan turunnya ketegangan Timur Tengah memangkas premi aset aman. Investor Korea perlu memantau USD/KRW, biaya, KRX, dan ETF emas bersama-sama.",
+        "body": "Emas masuk fase menguji support kunci jangka pendek setelah ketidakpastian jalur suku bunga Federal Reserve bertemu dengan harapan kemajuan perundingan terkait Iran. Saat ekspektasi pemangkasan suku bunga melemah, daya tarik relatif emas turun karena aset ini tidak membayar bunga. Harapan meredanya ketegangan Timur Tengah juga menekan permintaan aset aman dan membuat pembeli lebih defensif.\n\n## Support Menentukan Sinyal Berikutnya\nFokus pasar adalah apakah support bertahan pada penutupan. Jika bertahan, pembelian saat harga turun dan kebutuhan lindung nilai portofolio dapat kembali. Jika ditembus, stop loss dan tekanan teknikal bisa membawa harga ke zona permintaan berikutnya. Emas sensitif terhadap suku bunga riil karena tidak memberi kupon atau dividen. Dolar yang menguat dapat mengimbangi sebagian penurunan harga global bagi pembeli Korea, sedangkan dolar yang melemah dapat memperbesar penurunan dalam won.\n\n## Iran dan Premi Aset Aman\nPerundingan terkait Iran memengaruhi minyak dan emas sekaligus. Ketegangan yang menurun mengurangi kekhawatiran gangguan pasokan dan memangkas premi perang pada aset defensif. Jika perundingan tertunda atau retorika mengeras, permintaan aset aman dapat pulih cepat. Saat ini emas lebih merespons kombinasi suku bunga dan dolar, sementara risiko Timur Tengah terutama menjadi pemicu volatilitas.\n\n## Cek untuk Investor Korea\nInvestor Korea perlu membandingkan harga emas internasional, USD/KRW, dan biaya. Satu troy ounce setara 31.1035 gram, dan satu don Korea setara 3.75 gram. Dengan asumsi 1,300 won per dolar, pergerakan 100 dolar per ounce mengubah nilai satu don sekitar 16,000 won sebelum biaya. Emas fisik dikenai PPN 10% serta margin produksi dan distribusi, sementara KRX dan ETF emas berbeda dalam pelacakan harga dan eksposur mata uang.",
+        "keywords": [
+          "harga emas",
+          "support emas",
+          "Federal Reserve",
+          "perundingan Iran",
+          "aset aman",
+          "dolar AS",
+          "emas won",
+          "KRX emas",
+          "ETF emas",
+          "Emas Uji Support Kun"
+        ],
+        "faq": [
+          {
+            "q": "Mengapa emas menguji support kunci?",
+            "a": "Ketidakpastian jalur suku bunga Fed mengurangi daya tarik emas tanpa imbal hasil, sementara perundingan terkait Iran melemahkan sebagian permintaan aset aman."
+          },
+          {
+            "q": "Bagaimana perundingan Iran memengaruhi emas?",
+            "a": "Kemajuan dapat menurunkan premi geopolitik dan melemahkan pembelian defensif. Keterlambatan dapat mengembalikan permintaan aset aman."
+          },
+          {
+            "q": "Apa yang harus dipantau investor Korea?",
+            "a": "Harga emas global, USD/KRW, PPN 10% untuk emas fisik, margin, serta perbedaan eksposur mata uang antara KRX dan ETF emas."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "57eefdff0bed",
     "slug": "gold-renewed-doubts-over-peace-deal-durability-deepen-bearis-915461",
     "channelId": "FX",
@@ -11192,58 +11573,6 @@
           {
             "q": "국내에서 금 투자할 때 가장 먼저 볼 지표는 무엇인가요?",
             "a": "국제 금 가격과 원·달러 환율을 함께 봐야 한다. 국내 금 가격은 달러 표시 금값에 환율, 세금, 수수료가 반영되기 때문이다."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "c9b89d243131",
-    "slug": "외환-원달러-환율-18원-오른-15134원1530-종가-284858",
-    "channelId": "FX",
-    "category": "fx",
-    "publishedAt": "2026-06-17T11:41:48.553Z",
-    "updatedAt": "2026-06-17T11:41:48.553Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260617123900002",
-    "titleFingerprint": "223be37561e88175c3cae572206c8c0f5442e7bf",
-    "dedupKeys": [
-      "c9b89d243131c2d66fca17eb70473bbbfd4a68fc",
-      "223be37561e88175c3cae572206c8c0f5442e7bf",
-      "b8abfea8981cc7da0a12af4788b8bee795f45436"
-    ],
-    "imageUrl": "/images/articles/c9b89d243131.jpg",
-    "i18n": {
-      "ko": {
-        "title": "원/달러 환율 1,513.4원 마감…1.8원 상승에 수입물가 부담 지속",
-        "excerpt": "17일 서울 외환시장에서 원/달러 환율은 오후 3시30분 종가 기준 전 거래일보다 1.8원 오른 1,513.4원에 마감했다. 달러 결제 수요와 환율 경계감이 이어지며 원화 약세 흐름이 유지됐다.",
-        "metaDescription": "원/달러 환율이 17일 오후 3시30분 종가 기준 1,513.4원으로 1.8원 상승 마감했다. 수입물가, 기업 결제비용, 국내 금융시장 영향을 점검한다.",
-        "summary": "원/달러 환율이 1,513.4원으로 마감하며 전 거래일보다 1.8원 올랐다. 1,500원대 환율이 이어지면서 수입기업의 원화 결제 부담과 물가 압력이 계속 주목된다. 단기적으로는 달러 수급, 위험자산 선호, 국내 증시 외국인 자금 흐름이 환율 방향을 좌우할 전망이다.",
-        "body": "원/달러 환율이 1,500원대 초반에서 상승 마감했다. 17일 서울 외환시장에서 원/달러 환율은 오후 3시30분 종가 기준 전 거래일보다 1.8원 오른 1,513.4원을 기록했다. 상승 폭은 크지 않았지만, 환율 레벨 자체가 높은 구간에 머물렀다는 점에서 국내 수입기업과 해외 결제 수요자에게 부담이 이어지는 흐름이다.\n\n## 1,513.4원 마감, 원화 약세 압력 유지\n이날 종가 1,513.4원은 달러 1달러를 사기 위해 원화 1,513.4원이 필요하다는 뜻이다. 전 거래일보다 1.8원 올랐기 때문에 원화 가치는 소폭 하락했다. 환율이 오르면 같은 1만달러를 결제할 때 필요한 원화는 약 1,513만4,000원으로 늘어난다. 전 거래일 대비 상승분만 놓고 보면 1만달러당 약 1만8,000원의 추가 원화 부담이 발생한다.\n\n환율 상승은 국내 기업의 원가 계산에 곧바로 반영된다. 원유, 천연가스, 곡물, 비철금속, 반도체 장비처럼 달러로 거래되는 품목은 원화 환산 가격이 높아진다. 특히 원자재와 중간재 수입 비중이 큰 제조업체는 환율이 1,500원대에 머무는 기간이 길어질수록 마진 방어가 어려워진다. 해외여행, 유학비, 해외 온라인 결제 비용도 같은 방향으로 부담이 커진다.\n\n## 국내 시장 영향은 물가와 자금흐름에 집중\n원/달러 환율 1,513.4원은 금융시장에서도 민감한 가격대다. 환율이 높은 수준을 유지하면 외국인 투자자의 원화 자산 평가와 환헤지 비용이 함께 부각된다. 국내 증시에서는 외국인 매매 흐름이 환율 변동과 맞물릴 수 있고, 채권시장에서는 수입물가와 기대인플레이션 경로가 다시 점검된다.\n\n소비자 입장에서는 환율 상승이 곧바로 모든 가격을 끌어올리는 것은 아니지만, 수입 물품과 에너지 비용을 통해 시차를 두고 생활물가에 영향을 줄 수 있다. 정유, 항공, 식품, 유통업은 원가 압박을 먼저 체감하는 업종이다. 반대로 달러 매출 비중이 높은 수출기업은 원화 환산 매출이 늘어나는 효과를 기대할 수 있다. 다만 환율 상승이 글로벌 수요 둔화나 금융시장 불안을 동반할 경우 수출기업에도 긍정 효과만 남지는 않는다.\n\n## 단기 전망, 달러 수급과 위험선호가 관건\n앞으로 원/달러 환율은 달러 결제 수요, 국내 증시 외국인 자금 흐름, 글로벌 위험자산 선호 변화에 따라 등락할 전망이다. 1,500원대 환율이 계속 유지되면 시장 참가자들은 당국 경계감과 수급 변화를 함께 살필 가능성이 크다. 수입업체는 결제 시점 분산과 환헤지 전략을 점검할 필요가 있고, 개인 투자자는 해외주식 매수·환전 비용을 환율 변동과 함께 따져야 한다.\n\n이번 마감가는 급등이라기보다 고환율 장세의 지속을 보여주는 신호에 가깝다. 원/달러 환율이 1.8원 오른 1,513.4원에 마감하면서 국내 금융시장과 실물경제는 달러 강세의 잔여 압력을 계속 확인하게 됐다. 단기 변동 폭이 작더라도 1,500원대 환율은 수입물가, 기업 채산성, 해외투자 비용에 직접 연결되는 핵심 변수로 남는다.",
-        "keywords": [
-          "원달러환율",
-          "환율마감",
-          "달러환율",
-          "원화약세",
-          "서울외환시장",
-          "수입물가",
-          "외환시장",
-          "환율전망",
-          "원/달러 환율 1,513.4원 마감…"
-        ],
-        "faq": [
-          {
-            "q": "오늘 원/달러 환율은 얼마에 마감했나요?",
-            "a": "17일 오후 3시30분 종가 기준 원/달러 환율은 전 거래일보다 1.8원 오른 1,513.4원에 마감했다."
-          },
-          {
-            "q": "원/달러 환율 상승은 어떤 의미인가요?",
-            "a": "원/달러 환율 상승은 달러 대비 원화 가치가 낮아졌다는 의미다. 수입 결제, 해외여행, 해외주식 환전 비용이 늘어날 수 있다."
-          },
-          {
-            "q": "환율 1,500원대가 국내 시장에 미치는 영향은 무엇인가요?",
-            "a": "수입 원자재와 에너지의 원화 환산 비용을 높여 기업 원가와 물가 부담을 키울 수 있다. 외국인 자금 흐름과 국내 증시에도 영향을 줄 수 있다."
           }
         ]
       }
