@@ -1,0 +1,373 @@
+{
+  "id": "28c803902ba4",
+  "slug": "게시판-신한운용-rwa-플랫폼-플룸과-원화-토큰화-펀드-기술검증-215033",
+  "channelId": "FX",
+  "category": "fx",
+  "publishedAt": "2026-08-14T05:30:57.796Z",
+  "updatedAt": "2026-08-14T05:30:57.796Z",
+  "sourceName": "",
+  "sourceUrl": "",
+  "canonicalUrl": "https://www.yna.co.kr/view/AKR20260814033100008",
+  "titleFingerprint": "634dfa86e69acf9997dfec81ba7593033ddb4f8c",
+  "dedupKeys": [
+    "28c803902ba47624f5fd7d23ff2c80bca12749fa",
+    "634dfa86e69acf9997dfec81ba7593033ddb4f8c",
+    "c42b853742077216bf220c32db94eeb79f8a676b"
+  ],
+  "imageUrl": "/images/articles/28c803902ba4.jpg",
+  "i18n": {
+    "ko": {
+      "title": "원화 토큰화 펀드 실증 본격화, 신한운용·플룸 RWA 기술검증 착수",
+      "excerpt": "신한자산운용이 실물연계자산 특화 블록체인 네트워크 플룸과 원화 표시 토큰화 펀드 실증 협력을 위한 MOU를 맺고 국내 자산운용사의 RWA 활용 가능성 검증에 나섰다.",
+      "metaDescription": "신한자산운용과 플룸이 원화 표시 토큰화 펀드 실증을 추진한다. RWA 블록체인 기반 펀드 발행·유통·상환 검증이 국내 자산운용 시장의 새 시험대가 됐다.",
+      "summary": "신한자산운용이 RWA 특화 블록체인 네트워크 플룸과 원화 표시 토큰화 펀드 기술검증에 착수한다. 양측은 MOU를 통해 펀드 권리 표시, 거래 기록, 상환 절차 등 실증 범위를 점검한다. 국내 규제 환경에서 원화 기반 토큰화 금융상품이 운용사 업무와 투자자 접근성에 어떤 변화를 줄지 주목된다.",
+      "body": "신한자산운용이 실물연계자산, RWA 특화 블록체인 네트워크 플룸과 손잡고 원화 표시 토큰화 펀드 실증에 들어간다. 이번 업무협약은 국내 자산운용사가 펀드 상품을 블록체인 기반 디지털 권리 구조로 구현할 수 있는지를 점검하는 기술검증 성격이 강하다. 핵심은 펀드의 기준통화를 원화로 두고, 투자 권리와 운용 기록을 토큰화 환경에서 얼마나 안정적으로 표시·관리할 수 있느냐다.\n\n## 원화 기반 RWA 펀드 검증\n이번 협력의 대상은 실물 자산 또는 금융 자산과 연결되는 RWA 구조다. 플룸은 RWA에 특화된 블록체인 네트워크로, 자산 발행과 이전, 기록 관리에 필요한 온체인 인프라를 제공한다. 신한자산운용은 원화 표시 펀드를 가정한 실증 환경에서 토큰 발행, 보유자 권리 확인, 거래 기록, 환매 또는 상환 흐름을 살핀다. MOU 단계인 만큼 즉시 일반 투자자에게 판매되는 상품은 아니며, 제도권 운용사가 실제 업무에 적용할 수 있는지를 검토하는 초기 시험대다.\n\n구체적 검증 항목은 크게 4가지로 압축된다. 첫째, 펀드 지분 또는 수익권을 토큰 형태로 표현하는 방식이다. 둘째, 원화 기준 가격과 순자산가치 변동을 토큰 장부에 반영하는 절차다. 셋째, 투자자 확인과 이전 제한 같은 규제 요건을 기술적으로 구현하는 방식이다. 넷째, 운용사·수탁·판매 등 기존 펀드 생태계와 블록체인 기록을 연결하는 운영 안정성이다. 이 과정에서 원화 단위 정산과 국내 투자자 보호 체계가 핵심 변수로 작용한다.\n\n## 국내 자산운용 시장의 의미\n국내 펀드 시장에서 토큰화는 단순한 디지털 전환을 넘어 상품 구조와 유통 방식의 변화를 뜻한다. 기존 펀드는 판매사, 기준가 산정, 수탁 관리, 환매 처리 등 여러 절차가 분리돼 운영된다. 토큰화 펀드는 이 중 일부 기록과 권리 이전 과정을 자동화할 수 있어 장기적으로 업무 비용과 처리 시간을 줄일 가능성이 있다. 특히 원화 표시 구조는 국내 투자자가 환율 변동 부담 없이 이해할 수 있는 장점이 있다.\n\n다만 국내 규제 환경은 여전히 중요한 전제다. 토큰화 펀드가 실제 상품으로 이어지려면 자본시장법상 펀드 수익권의 전자적 표시, 투자자 적합성, 자금세탁방지, 개인정보 보호, 수탁 및 회계 처리 기준을 충족해야 한다. 이번 실증은 그런 법적·운영적 조건을 전제로 기술적 가능성을 먼저 확인하는 단계다. 따라서 단기 수익 상품 출시보다 제도권 금융사가 블록체인 인프라를 어디까지 업무에 접목할 수 있는지가 더 큰 관전 포인트다.\n\n## 전망과 투자자 영향\n이번 협력은 국내 RWA 시장이 해외 가상자산 흐름을 따라가는 수준을 넘어 원화 기반 제도권 상품으로 확장될 수 있는지를 가늠하는 사례다. 검증이 안정적으로 진행되면 채권형 펀드, 단기금융형 상품, 대체투자 자산 등 비교적 구조가 명확한 펀드부터 토큰화 논의가 넓어질 수 있다. 투자자 입장에서는 소유 기록의 투명성, 정산 효율, 상품 접근성 개선이 기대된다.\n\n반대로 시장 안착까지는 시간이 필요하다. 기술검증은 상용화와 다르며, 실제 판매에는 감독당국의 해석과 내부통제 체계, 투자자 보호 장치가 뒤따라야 한다. 그럼에도 신한자산운용과 플룸의 원화 토큰화 펀드 실증은 국내 자산운용 산업이 RWA를 실험적 키워드가 아닌 운용 인프라의 후보로 다루기 시작했다는 점에서 의미가 크다.",
+      "keywords": [
+        "신한자산운용",
+        "플룸",
+        "RWA",
+        "원화 토큰화 펀드",
+        "토큰화 펀드",
+        "실물연계자산",
+        "블록체인 금융",
+        "자산운용",
+        "펀드 기술검증",
+        "원화 토큰화 펀드 실증 본격화, 신한"
+      ],
+      "faq": [
+        {
+          "q": "신한자산운용과 플룸의 협력 핵심은 무엇인가?",
+          "a": "원화 표시 토큰화 펀드를 블록체인 환경에서 구현할 수 있는지 기술적으로 검증하는 것이다."
+        },
+        {
+          "q": "이번 MOU로 바로 투자 상품이 출시되나?",
+          "a": "아니다. 이번 협력은 실증과 기술검증 단계이며, 실제 판매 상품 출시는 별도 규제 검토와 내부 절차가 필요하다."
+        },
+        {
+          "q": "원화 토큰화 펀드가 국내 투자자에게 중요한 이유는 무엇인가?",
+          "a": "원화 기준으로 펀드 권리와 기록을 관리하면 국내 투자자가 환율 부담을 줄이고 제도권 금융상품 형태로 RWA를 접할 가능성이 커진다."
+        }
+      ]
+    },
+    "en": {
+      "title": "Korean won tokenized fund test begins as Shinhan Asset Management teams with Plume",
+      "excerpt": "Shinhan Asset Management has signed an MOU with Plume, a blockchain network focused on real-world assets, to test a Korean won-denominated tokenized fund model.",
+      "metaDescription": "Shinhan Asset Management and Plume will test a Korean won tokenized fund, examining RWA blockchain use in fund issuance, records and redemption.",
+      "summary": "Shinhan Asset Management is starting a technology verification project with Plume for a Korean won-denominated tokenized fund. The work will examine how fund rights, pricing records, transfers and redemption processes can operate on an RWA-focused blockchain. The project is a test stage, not an immediate retail product launch.",
+      "body": "Shinhan Asset Management is moving into a proof-of-technology phase for Korean won-denominated tokenized funds through a partnership with Plume, a blockchain network built for real-world assets, or RWA. The MOU sets the framework for testing whether a regulated asset manager can represent fund interests and operating records through a blockchain-based structure while keeping the fund’s reference currency in won.\n\n## Won-based RWA fund test\nThe verification will focus on a fund model linked to real or financial assets. Plume provides on-chain infrastructure for asset issuance, transfer and record management. Shinhan Asset Management will review how token issuance, holder rights, transaction records and redemption flows can work in a test environment. At this stage, the project is not a product for public sale. It is an early check of whether blockchain records can fit into asset management operations.\n\nKey items include token representation of fund interests, reflection of won-based net asset value, investor eligibility controls and transfer restrictions. The test also needs to consider how blockchain records connect with existing fund functions such as custody, sales and accounting.\n\n## Market impact and outlook\nFor Korea’s asset management sector, tokenized funds could change how fund rights and settlement records are handled. A won-denominated structure is especially relevant because domestic investors can understand value and settlement without an added currency layer. If the test proves stable, discussion may expand to bond funds, money market-style products and alternative assets with clear cash-flow structures.\n\nCommercial adoption will still require regulatory interpretation, internal controls, anti-money-laundering checks and investor protection standards. Even so, the Shinhan-Plume project marks a practical step toward treating RWA infrastructure as a potential part of Korea’s fund market rather than a purely speculative crypto theme.",
+      "keywords": [
+        "Shinhan Asset Management",
+        "Plume",
+        "RWA",
+        "tokenized fund",
+        "Korean won fund",
+        "blockchain finance",
+        "real-world assets",
+        "asset management",
+        "Korean won tokenized"
+      ],
+      "faq": [
+        {
+          "q": "What is Shinhan Asset Management testing with Plume?",
+          "a": "It is testing whether a Korean won-denominated tokenized fund can be represented and managed on an RWA-focused blockchain."
+        },
+        {
+          "q": "Is this an immediate retail investment product?",
+          "a": "No. The MOU covers technology verification and proof-of-concept work, not a direct public fund launch."
+        },
+        {
+          "q": "Why does the won denomination matter?",
+          "a": "A won-based structure can make valuation and settlement easier for Korean investors while reducing the complexity of foreign currency exposure."
+        }
+      ]
+    },
+    "ja": {
+      "title": "ウォン建てトークン化ファンド実証へ、シンハン運用とPlumeがRWA検証",
+      "excerpt": "シンハン資産運用はRWA特化型ブロックチェーンネットワークのPlumeとMOUを結び、ウォン建てトークン化ファンドの技術検証に着手する。",
+      "metaDescription": "シンハン資産運用とPlumeがウォン建てトークン化ファンドを実証。RWA基盤で発行、記録、移転、償還の実務適用性を検証する。",
+      "summary": "シンハン資産運用がPlumeとウォン建てトークン化ファンドの技術検証を進める。対象はRWA特化ブロックチェーン上での権利表示、価格記録、移転、償還手続きだ。実証段階であり、直ちに一般投資家向け商品が販売されるものではない。",
+      "body": "シンハン資産運用は、実物資産連動型のRWAに特化したブロックチェーンネットワークPlumeと協力し、ウォン建てトークン化ファンドの実証に入る。今回のMOUは、制度圏の資産運用会社がファンドの権利と運用記録をブロックチェーン上で安定的に扱えるかを確認する技術検証として位置付けられる。\n\n## ウォン建てRWAファンドの検証\n検証対象は、実物資産または金融資産と結び付くファンド構造だ。Plumeは資産発行、移転、記録管理に必要なオンチェーン基盤を提供する。シンハン資産運用は、トークン発行、保有者の権利確認、取引記録、償還の流れをテスト環境で点検する。現段階では一般販売商品ではなく、実務適用の可能性を探る初期段階である。\n\n主な確認項目は、ファンド持分のトークン表示、ウォン基準の基準価額反映、投資家確認と移転制限、既存の販売・受託・会計業務との連携である。韓国国内ではウォン決済と投資家保護の枠組みが重要な前提になる。\n\n## 市場への意味と展望\nトークン化ファンドは、ファンド権利の記録と決済処理をより効率化する可能性がある。ウォン建てであれば、国内投資家は為替要因を別途考慮せず価値を把握しやすい。検証が安定すれば、債券型ファンド、短期金融型商品、代替投資資産など構造が明確な分野へ議論が広がる可能性がある。\n\nただし商用化には、資本市場規制の解釈、内部統制、マネーロンダリング対策、個人情報保護、受託と会計処理の基準が必要となる。今回の協力は、韓国の資産運用業界がRWAを暗号資産市場の流行語ではなく、運用インフラの候補として検証し始めた点で意味が大きい。",
+      "keywords": [
+        "シンハン資産運用",
+        "Plume",
+        "RWA",
+        "ウォン建てファンド",
+        "トークン化ファンド",
+        "ブロックチェーン金融",
+        "実物資産",
+        "資産運用",
+        "ウォン建てトークン化ファンド実証へ、シン"
+      ],
+      "faq": [
+        {
+          "q": "シンハン資産運用とPlumeの協力内容は何ですか。",
+          "a": "ウォン建てトークン化ファンドをRWA特化ブロックチェーン上で実装できるかを技術的に検証することです。"
+        },
+        {
+          "q": "すぐに投資商品として販売されますか。",
+          "a": "いいえ。今回のMOUは実証と技術検証の段階であり、販売開始には追加の規制確認と社内手続きが必要です。"
+        },
+        {
+          "q": "ウォン建てである点はなぜ重要ですか。",
+          "a": "韓国国内の投資家が為替負担を抑え、価値と決済をより分かりやすく把握できるためです。"
+        }
+      ]
+    },
+    "zh": {
+      "title": "韩元计价代币化基金试点启动，新韩资管与Plume推进RWA验证",
+      "excerpt": "新韩资产运用与专注实物资产的区块链网络Plume签署MOU，将围绕韩元计价代币化基金开展技术验证，测试其在韩国资管业务中的应用可能。",
+      "metaDescription": "新韩资产运用与Plume启动韩元计价代币化基金验证，围绕RWA区块链上的发行、记录、转让和赎回流程展开测试。",
+      "summary": "新韩资产运用将与Plume推进韩元计价代币化基金技术验证。此次合作聚焦基金权益表示、韩元估值记录、转让限制和赎回流程。项目仍处于实证阶段，并非立即面向普通投资者销售的基金产品。",
+      "body": "新韩资产运用正与实物资产RWA特化区块链网络Plume合作，启动韩元计价代币化基金的技术验证。此次MOU的核心，是检验传统资产管理公司能否在区块链环境中稳定表达基金权益、管理交易记录，并将基金基准货币保持为韩元。\n\n## 韩元RWA基金验证\n验证对象是与实物资产或金融资产相连接的基金结构。Plume提供资产发行、转让和链上记录管理所需的基础设施。新韩资产运用将在测试环境中检查代币发行、持有人权益确认、交易记录、赎回或偿付流程。现阶段这不是公开销售产品，而是判断区块链记录能否纳入资管业务的早期测试。\n\n主要验证内容包括四项：基金份额或受益权的代币化表示，韩元基准净值变化的记录方式，投资者身份确认和转让限制的技术实现，以及与托管、销售、会计等既有基金体系的衔接。对韩国市场而言，韩元结算和投资者保护是关键前提。\n\n## 市场影响与展望\n代币化基金可能改变基金权利登记和结算处理方式。若采用韩元计价，韩国投资者能够更直观地理解估值和结算，也可减少外汇因素带来的复杂性。若验证进展稳定，债券型基金、短期金融类产品和现金流结构清晰的另类资产可能率先进入讨论范围。\n\n但商业化仍需满足资本市场监管解释、内部控制、反洗钱、个人信息保护、托管和会计处理等要求。此次合作的意义在于，韩国资管行业开始把RWA视为潜在运营基础设施，而不仅是加密资产市场的短期概念。",
+      "keywords": [
+        "新韩资产运用",
+        "Plume",
+        "RWA",
+        "韩元代币化基金",
+        "代币化基金",
+        "区块链金融",
+        "实物资产",
+        "资产管理",
+        "韩元计价代币化基金试点启动，新韩资管与P"
+      ],
+      "faq": [
+        {
+          "q": "新韩资产运用与Plume合作的重点是什么？",
+          "a": "重点是验证韩元计价代币化基金能否在RWA区块链上进行权益表示和业务管理。"
+        },
+        {
+          "q": "该项目是否马上面向投资者销售？",
+          "a": "不是。该项目处于技术验证和实证阶段，实际销售还需要监管和内部流程确认。"
+        },
+        {
+          "q": "韩元计价为何重要？",
+          "a": "韩元计价有助于韩国投资者更清楚理解估值和结算，并降低外币敞口带来的复杂性。"
+        }
+      ]
+    },
+    "es": {
+      "title": "Fondo tokenizado en won avanza con Shinhan Asset Management y Plume en prueba RWA",
+      "excerpt": "Shinhan Asset Management firmó un MOU con Plume, red blockchain especializada en activos del mundo real, para probar un fondo tokenizado denominado en won surcoreano.",
+      "metaDescription": "Shinhan Asset Management y Plume probarán un fondo tokenizado en won, con foco en emisión, registro, transferencia y rescate sobre infraestructura RWA.",
+      "summary": "Shinhan Asset Management inicia con Plume una verificación tecnológica de un fondo tokenizado denominado en won. La prueba revisará derechos del fondo, registros de valor, transferencias y rescates en una red blockchain RWA. No se trata aún de un producto de venta pública.",
+      "body": "Shinhan Asset Management avanza hacia una prueba tecnológica de fondos tokenizados denominados en won surcoreano mediante una alianza con Plume, red blockchain diseñada para activos del mundo real, o RWA. El MOU define un marco para verificar si una gestora regulada puede representar derechos de un fondo y registros operativos mediante blockchain, manteniendo el won como moneda de referencia.\n\n## Prueba de fondo RWA en won\nLa verificación se centrará en una estructura vinculada a activos reales o financieros. Plume aportará infraestructura en cadena para emisión, transferencia y registro de activos. Shinhan Asset Management revisará la emisión de tokens, la confirmación de derechos de tenedores, los registros de transacciones y los procesos de rescate. Por ahora no es un fondo para venta al público, sino una prueba inicial de viabilidad operativa.\n\nLos puntos clave son la representación tokenizada de participaciones, el reflejo del valor liquidativo en won, los controles de elegibilidad del inversor y las restricciones de transferencia. También será relevante la conexión con funciones existentes como custodia, distribución y contabilidad.\n\n## Impacto y perspectiva\nPara el mercado coreano de gestión de activos, los fondos tokenizados podrían mejorar la eficiencia de registros y liquidación. La denominación en won facilita la lectura de valor para inversores locales y reduce la complejidad cambiaria. Si la prueba resulta estable, el debate podría ampliarse a fondos de bonos, productos monetarios y activos alternativos con flujos claros.\n\nLa adopción comercial exigirá interpretación regulatoria, controles internos, prevención de lavado de dinero y protección del inversor. Aun así, el proyecto Shinhan-Plume marca un paso concreto para considerar la infraestructura RWA como una opción real dentro del mercado coreano de fondos.",
+      "keywords": [
+        "Shinhan Asset Management",
+        "Plume",
+        "RWA",
+        "fondo tokenizado",
+        "won surcoreano",
+        "blockchain financiera",
+        "activos reales",
+        "gestión de activos",
+        "Fondo tokenizado en"
+      ],
+      "faq": [
+        {
+          "q": "¿Qué probarán Shinhan Asset Management y Plume?",
+          "a": "Probarán si un fondo tokenizado denominado en won puede representarse y gestionarse en una blockchain especializada en RWA."
+        },
+        {
+          "q": "¿Es ya un producto para inversores minoristas?",
+          "a": "No. El MOU cubre una verificación tecnológica y una prueba de concepto, no una venta pública inmediata."
+        },
+        {
+          "q": "¿Por qué importa que esté denominado en won?",
+          "a": "Porque permite a los inversores coreanos entender valoración y liquidación sin añadir una capa de exposición cambiaria."
+        }
+      ]
+    },
+    "pt": {
+      "title": "Fundo tokenizado em won ganha teste com Shinhan Asset Management e Plume em RWA",
+      "excerpt": "A Shinhan Asset Management assinou um MOU com a Plume, rede blockchain voltada a ativos do mundo real, para testar um fundo tokenizado denominado em won sul-coreano.",
+      "metaDescription": "Shinhan Asset Management e Plume testarão fundo tokenizado em won, avaliando emissão, registros, transferências e resgate em infraestrutura RWA.",
+      "summary": "A Shinhan Asset Management iniciará com a Plume uma verificação tecnológica de fundo tokenizado denominado em won. O teste examinará direitos do fundo, registros de valor, transferências e resgates em uma blockchain RWA. A iniciativa ainda não representa lançamento ao varejo.",
+      "body": "A Shinhan Asset Management entrará em uma fase de verificação tecnológica para fundos tokenizados denominados em won sul-coreano por meio de parceria com a Plume, rede blockchain focada em ativos do mundo real, os RWA. O MOU estabelece as bases para testar se uma gestora regulada consegue representar direitos de fundos e registros operacionais em blockchain, mantendo o won como moeda de referência.\n\n## Teste de fundo RWA em won\nA verificação terá como alvo uma estrutura ligada a ativos reais ou financeiros. A Plume oferecerá infraestrutura on-chain para emissão, transferência e registro de ativos. A Shinhan Asset Management analisará emissão de tokens, confirmação de direitos dos detentores, registros de transações e fluxos de resgate. Nesta fase, não se trata de um produto para venda pública, mas de um teste inicial de aplicação operacional.\n\nOs principais itens incluem representação tokenizada de cotas ou direitos, reflexo do valor patrimonial líquido em won, controles de elegibilidade de investidores e restrições de transferência. A integração com custódia, distribuição e contabilidade também será decisiva.\n\n## Impacto e perspectiva\nNo mercado coreano de gestão de ativos, fundos tokenizados podem melhorar registros de direitos e processos de liquidação. A denominação em won é relevante porque facilita a compreensão de valor por investidores locais e reduz a complexidade cambial. Se o teste for estável, a discussão poderá avançar para fundos de renda fixa, produtos de curto prazo e ativos alternativos com fluxos mais claros.\n\nA adoção comercial ainda exigirá análise regulatória, controles internos, prevenção à lavagem de dinheiro e proteção ao investidor. Mesmo assim, o projeto Shinhan-Plume é um passo concreto para tratar a infraestrutura RWA como candidata real dentro do mercado coreano de fundos.",
+      "keywords": [
+        "Shinhan Asset Management",
+        "Plume",
+        "RWA",
+        "fundo tokenizado",
+        "won sul-coreano",
+        "blockchain financeira",
+        "ativos reais",
+        "gestão de ativos",
+        "Fundo tokenizado em"
+      ],
+      "faq": [
+        {
+          "q": "O que Shinhan Asset Management e Plume vão testar?",
+          "a": "Elas vão testar se um fundo tokenizado denominado em won pode ser representado e administrado em uma blockchain focada em RWA."
+        },
+        {
+          "q": "O produto já será vendido ao público?",
+          "a": "Não. O MOU trata de verificação tecnológica e prova de conceito, não de lançamento imediato para investidores."
+        },
+        {
+          "q": "Por que a denominação em won é importante?",
+          "a": "Ela ajuda investidores coreanos a entender avaliação e liquidação sem acrescentar maior complexidade cambial."
+        }
+      ]
+    },
+    "de": {
+      "title": "Won-tokenisierter Fonds im Test: Shinhan Asset Management und Plume prüfen RWA",
+      "excerpt": "Shinhan Asset Management hat mit Plume, einem auf Real-World-Assets spezialisierten Blockchain-Netzwerk, ein MOU für einen won-denominierten tokenisierten Fonds geschlossen.",
+      "metaDescription": "Shinhan Asset Management und Plume testen einen won-denominierten tokenisierten Fonds mit Fokus auf Ausgabe, Aufzeichnung, Transfer und Rücknahme.",
+      "summary": "Shinhan Asset Management startet mit Plume eine technische Prüfung für einen won-denominierten tokenisierten Fonds. Getestet werden Fondsrechte, Wertaufzeichnungen, Transfers und Rücknahmen auf einer RWA-Blockchain. Ein öffentlicher Produktvertrieb ist damit noch nicht verbunden.",
+      "body": "Shinhan Asset Management beginnt mit einer technologischen Prüfung won-denominierter tokenisierter Fonds in Zusammenarbeit mit Plume, einem Blockchain-Netzwerk für Real-World-Assets, kurz RWA. Das MOU schafft den Rahmen, um zu testen, ob ein regulierter Vermögensverwalter Fondsrechte und operative Aufzeichnungen über eine Blockchain-Struktur abbilden kann, während der koreanische Won die Referenzwährung bleibt.\n\n## RWA-Fondstest in Won\nDie Prüfung konzentriert sich auf eine Fondsstruktur, die mit realen oder finanziellen Vermögenswerten verbunden ist. Plume stellt On-Chain-Infrastruktur für Ausgabe, Übertragung und Aufzeichnung bereit. Shinhan Asset Management prüft Token-Ausgabe, Rechte der Inhaber, Transaktionsdaten und Rücknahmeabläufe. Derzeit handelt es sich nicht um ein Produkt für den öffentlichen Vertrieb, sondern um einen frühen Praxistest.\n\nZentrale Punkte sind die tokenisierte Darstellung von Fondsanteilen, die Abbildung des Nettoinventarwerts in Won, Eignungsprüfungen für Anleger und Übertragungsbeschränkungen. Ebenso wichtig ist die Verbindung mit bestehenden Prozessen wie Verwahrung, Vertrieb und Rechnungslegung.\n\n## Bedeutung und Ausblick\nFür Koreas Asset-Management-Markt könnten tokenisierte Fonds die Führung von Rechten und Abwicklungsdaten effizienter machen. Die Denominierung in Won hilft lokalen Anlegern, Bewertung und Abrechnung ohne zusätzliche Währungsebene zu verstehen. Bei stabilen Testergebnissen könnten Anleihefonds, geldmarktnahe Produkte und alternative Anlagen mit klaren Zahlungsströmen folgen.\n\nEine kommerzielle Umsetzung braucht weiterhin regulatorische Auslegung, interne Kontrollen, Geldwäscheprävention und Anlegerschutz. Das Shinhan-Plume-Projekt ist dennoch ein konkreter Schritt, RWA-Infrastruktur als mögliche Grundlage im koreanischen Fondsmarkt zu prüfen.",
+      "keywords": [
+        "Shinhan Asset Management",
+        "Plume",
+        "RWA",
+        "tokenisierter Fonds",
+        "koreanischer Won",
+        "Blockchain-Finanzierung",
+        "Real-World-Assets",
+        "Vermögensverwaltung",
+        "Won-tokenisierter Fo"
+      ],
+      "faq": [
+        {
+          "q": "Was testen Shinhan Asset Management und Plume?",
+          "a": "Sie testen, ob ein won-denominierter tokenisierter Fonds auf einer RWA-Blockchain dargestellt und verwaltet werden kann."
+        },
+        {
+          "q": "Ist das bereits ein Produkt für Privatanleger?",
+          "a": "Nein. Das MOU betrifft eine technische Verifizierung und keinen sofortigen öffentlichen Fondsvertrieb."
+        },
+        {
+          "q": "Warum ist die Denominierung in Won wichtig?",
+          "a": "Sie erleichtert koreanischen Anlegern Bewertung und Abwicklung und reduziert die zusätzliche Komplexität von Fremdwährungen."
+        }
+      ]
+    },
+    "fr": {
+      "title": "Fonds tokenisé en won: Shinhan Asset Management et Plume lancent un test RWA",
+      "excerpt": "Shinhan Asset Management a signé un MOU avec Plume, réseau blockchain spécialisé dans les actifs réels, afin de tester un fonds tokenisé libellé en won coréen.",
+      "metaDescription": "Shinhan Asset Management et Plume testeront un fonds tokenisé en won, avec vérification de l’émission, des registres, des transferts et du rachat.",
+      "summary": "Shinhan Asset Management engage avec Plume une vérification technologique d’un fonds tokenisé libellé en won. Le test portera sur les droits du fonds, les registres de valeur, les transferts et les rachats sur une blockchain RWA. Il ne s’agit pas encore d’un produit commercialisé auprès du public.",
+      "body": "Shinhan Asset Management lance une phase de vérification technologique pour des fonds tokenisés libellés en won coréen avec Plume, réseau blockchain conçu pour les actifs du monde réel, ou RWA. Le MOU fixe le cadre d’un test visant à vérifier si une société de gestion réglementée peut représenter des droits de fonds et des registres opérationnels sur blockchain tout en conservant le won comme devise de référence.\n\n## Test d’un fonds RWA en won\nLa vérification portera sur une structure liée à des actifs réels ou financiers. Plume fournira l’infrastructure on-chain nécessaire à l’émission, au transfert et à la tenue des registres. Shinhan Asset Management examinera l’émission de tokens, la confirmation des droits des détenteurs, les historiques de transaction et les flux de rachat. À ce stade, il ne s’agit pas d’un fonds vendu au public, mais d’un test d’applicabilité opérationnelle.\n\nLes points clés incluent la représentation tokenisée des parts, l’intégration de la valeur liquidative en won, les contrôles d’éligibilité des investisseurs et les restrictions de transfert. Le lien avec la conservation, la distribution et la comptabilité existantes sera également déterminant.\n\n## Impact et perspectives\nSur le marché coréen de la gestion d’actifs, les fonds tokenisés pourraient améliorer l’efficacité des registres de droits et des règlements. Le libellé en won est important car il rend la valorisation plus lisible pour les investisseurs locaux et réduit la complexité liée aux devises. Si le test est stable, les fonds obligataires, produits monétaires et actifs alternatifs à flux clairs pourraient être les premiers concernés.\n\nL’adoption commerciale exigera encore une interprétation réglementaire, des contrôles internes, la lutte contre le blanchiment et des garanties de protection des investisseurs. Le projet Shinhan-Plume constitue toutefois une étape concrète vers l’intégration de l’infrastructure RWA dans le marché coréen des fonds.",
+      "keywords": [
+        "Shinhan Asset Management",
+        "Plume",
+        "RWA",
+        "fonds tokenisé",
+        "won coréen",
+        "finance blockchain",
+        "actifs réels",
+        "gestion d’actifs",
+        "Fonds tokenisé en wo"
+      ],
+      "faq": [
+        {
+          "q": "Que vont tester Shinhan Asset Management et Plume ?",
+          "a": "Ils vont vérifier si un fonds tokenisé libellé en won peut être représenté et géré sur une blockchain spécialisée RWA."
+        },
+        {
+          "q": "Le fonds sera-t-il immédiatement vendu au public ?",
+          "a": "Non. Le MOU porte sur une vérification technologique, pas sur un lancement commercial immédiat."
+        },
+        {
+          "q": "Pourquoi le libellé en won est-il important ?",
+          "a": "Il permet aux investisseurs coréens de comprendre plus facilement la valorisation et le règlement, sans complexité de change supplémentaire."
+        }
+      ]
+    },
+    "ar": {
+      "title": "صندوق مرمز بالوون قيد الاختبار مع شينهان لإدارة الأصول وPlume في مجال RWA",
+      "excerpt": "وقعت شينهان لإدارة الأصول مذكرة تفاهم مع Plume، شبكة بلوك تشين متخصصة في الأصول الواقعية، لاختبار صندوق مرمز مقوم بالوون الكوري.",
+      "metaDescription": "شينهان لإدارة الأصول وPlume تختبران صندوقا مرمزا بالوون مع التركيز على الإصدار والسجلات والتحويل والاسترداد عبر بنية RWA.",
+      "summary": "تبدأ شينهان لإدارة الأصول مع Plume تحققاً تقنياً لصندوق مرمز مقوم بالوون الكوري. يشمل الاختبار حقوق الصندوق وسجلات القيمة والتحويلات وعمليات الاسترداد على شبكة بلوك تشين متخصصة في RWA. المشروع لا يمثل طرحاً فورياً للمستثمرين الأفراد.",
+      "body": "تدخل شينهان لإدارة الأصول مرحلة تحقق تقني لصندوق مرمز مقوم بالوون الكوري عبر شراكة مع Plume، وهي شبكة بلوك تشين مخصصة للأصول الواقعية RWA. تحدد مذكرة التفاهم إطار اختبار قدرة مدير أصول منظم على تمثيل حقوق الصندوق وسجلات التشغيل على البلوك تشين مع إبقاء الوون عملة مرجعية.\n\n## اختبار صندوق RWA بالوون\nيركز الاختبار على هيكل صندوق مرتبط بأصول واقعية أو مالية. توفر Plume بنية تحتية على السلسلة للإصدار والتحويل وإدارة السجلات. وتراجع شينهان لإدارة الأصول إصدار الرموز، وتأكيد حقوق الحائزين، وسجلات المعاملات، وتدفقات الاسترداد. في هذه المرحلة لا يعد المشروع منتجاً للبيع العام، بل اختباراً مبكراً لقابلية التطبيق داخل أعمال إدارة الأصول.\n\nتشمل العناصر الرئيسية تمثيل حصص الصندوق كرموز، وعكس صافي قيمة الأصول بالوون، وضوابط أهلية المستثمرين، وقيود التحويل. كما يظل الربط مع الحفظ والتوزيع والمحاسبة في منظومة الصناديق التقليدية عاملاً حاسماً.\n\n## الأثر والتوقعات\nفي سوق إدارة الأصول الكورية، قد تجعل الصناديق المرمزة سجلات الحقوق والتسوية أكثر كفاءة. كما أن التسعير بالوون يساعد المستثمر المحلي على فهم القيمة والتسوية من دون طبقة إضافية من مخاطر العملة. وإذا ثبت استقرار الاختبار، فقد يمتد النقاش إلى صناديق السندات والمنتجات النقدية والأصول البديلة ذات التدفقات الواضحة.\n\nومع ذلك، يتطلب الاستخدام التجاري تفسيراً تنظيمياً ورقابة داخلية ومكافحة غسل الأموال وحماية المستثمرين. ورغم ذلك يمثل مشروع شينهان وPlume خطوة عملية نحو التعامل مع بنية RWA كبنية محتملة لسوق الصناديق في كوريا.",
+      "keywords": [
+        "شينهان لإدارة الأصول",
+        "Plume",
+        "RWA",
+        "صندوق مرمز",
+        "الوون الكوري",
+        "تمويل بلوك تشين",
+        "الأصول الواقعية",
+        "إدارة الأصول",
+        "صندوق مرمز بالوون قي"
+      ],
+      "faq": [
+        {
+          "q": "ما الذي تختبره شينهان لإدارة الأصول مع Plume؟",
+          "a": "تختبر ما إذا كان يمكن تمثيل وإدارة صندوق مرمز مقوم بالوون على شبكة بلوك تشين متخصصة في RWA."
+        },
+        {
+          "q": "هل سيطرح المنتج فوراً للمستثمرين؟",
+          "a": "لا. مذكرة التفاهم تخص التحقق التقني وإثبات المفهوم، وليست طرحاً عاماً فورياً."
+        },
+        {
+          "q": "لماذا يهم أن يكون الصندوق مقوماً بالوون؟",
+          "a": "لأنه يسهل على المستثمرين الكوريين فهم التقييم والتسوية ويخفض تعقيد التعرض للعملات الأجنبية."
+        }
+      ]
+    },
+    "hi": {
+      "title": "वॉन-आधारित टोकनाइज्ड फंड परीक्षण में Shinhan Asset Management और Plume की RWA पहल",
+      "excerpt": "Shinhan Asset Management ने RWA केंद्रित ब्लॉकचेन नेटवर्क Plume के साथ MOU किया है, जिसके तहत कोरियाई वॉन में टोकनाइज्ड फंड का तकनीकी परीक्षण होगा।",
+      "metaDescription": "Shinhan Asset Management और Plume वॉन-आधारित टोकनाइज्ड फंड का परीक्षण करेंगे, जिसमें जारीकरण, रिकॉर्ड, ट्रांसफर और रिडेम्पशन पर ध्यान होगा।",
+      "summary": "Shinhan Asset Management, Plume के साथ कोरियाई वॉन में टोकनाइज्ड फंड की तकनीकी जांच शुरू कर रहा है। परीक्षण में फंड अधिकार, मूल्य रिकॉर्ड, ट्रांसफर और रिडेम्पशन प्रक्रिया को RWA ब्लॉकचेन पर परखा जाएगा। यह अभी खुदरा निवेशकों के लिए तत्काल उत्पाद लॉन्च नहीं है।",
+      "body": "Shinhan Asset Management कोरियाई वॉन में टोकनाइज्ड फंड के तकनीकी परीक्षण के लिए Plume के साथ आगे बढ़ रहा है। Plume वास्तविक दुनिया की संपत्तियों, यानी RWA, के लिए बना ब्लॉकचेन नेटवर्क है। MOU का उद्देश्य यह जांचना है कि क्या एक विनियमित एसेट मैनेजर फंड अधिकारों और संचालन रिकॉर्ड को ब्लॉकचेन पर दिखा सकता है, जबकि फंड की आधार मुद्रा वॉन बनी रहे।\n\n## वॉन आधारित RWA फंड परीक्षण\nपरीक्षण ऐसे फंड ढांचे पर केंद्रित होगा जो वास्तविक या वित्तीय संपत्तियों से जुड़ा हो। Plume जारीकरण, ट्रांसफर और रिकॉर्ड प्रबंधन के लिए ऑन-चेन ढांचा देगा। Shinhan Asset Management टोकन जारीकरण, धारक अधिकारों की पुष्टि, लेनदेन रिकॉर्ड और रिडेम्पशन प्रवाह की समीक्षा करेगा। यह चरण सार्वजनिक बिक्री वाला उत्पाद नहीं है, बल्कि परिचालन उपयोगिता की प्रारंभिक जांच है।\n\nमुख्य बिंदुओं में फंड हिस्सेदारी का टोकन रूप, वॉन आधारित नेट एसेट वैल्यू का रिकॉर्ड, निवेशक पात्रता नियंत्रण और ट्रांसफर प्रतिबंध शामिल हैं। मौजूदा कस्टडी, बिक्री और अकाउंटिंग प्रणाली से जुड़ाव भी महत्वपूर्ण रहेगा।\n\n## बाजार प्रभाव और आगे की राह\nकोरिया के एसेट मैनेजमेंट बाजार में टोकनाइज्ड फंड अधिकार रिकॉर्ड और सेटलमेंट को अधिक कुशल बना सकते हैं। वॉन में मूल्यांकन स्थानीय निवेशकों के लिए समझ आसान करता है और विदेशी मुद्रा जोखिम की जटिलता घटाता है। परीक्षण स्थिर रहा तो बॉन्ड फंड, अल्पकालिक वित्तीय उत्पाद और साफ नकदी प्रवाह वाले वैकल्पिक निवेशों पर चर्चा बढ़ सकती है।\n\nव्यावसायिक उपयोग के लिए नियामकीय व्याख्या, आंतरिक नियंत्रण, मनी लॉन्ड्रिंग रोकथाम और निवेशक सुरक्षा की जरूरत होगी। फिर भी Shinhan-Plume परियोजना कोरियाई फंड बाजार में RWA ढांचे को व्यावहारिक विकल्प के रूप में जांचने वाला ठोस कदम है।",
+      "keywords": [
+        "Shinhan Asset Management",
+        "Plume",
+        "RWA",
+        "टोकनाइज्ड फंड",
+        "कोरियाई वॉन",
+        "ब्लॉकचेन फाइनेंस",
+        "वास्तविक दुनिया की संपत्ति",
+        "एसेट मैनेजमेंट",
+        "वॉन-आधारित टोकनाइज्ड"
+      ],
+      "faq": [
+        {
+          "q": "Shinhan Asset Management और Plume क्या परीक्षण करेंगे?",
+          "a": "वे जांचेंगे कि वॉन-आधारित टोकनाइज्ड फंड को RWA ब्लॉकचेन पर कैसे दर्शाया और प्रबंधित किया जा सकता है।"
+        },
+        {
+          "q": "क्या यह तुरंत निवेशकों के लिए उपलब्ध उत्पाद है?",
+          "a": "नहीं। यह MOU तकनीकी सत्यापन और प्रूफ ऑफ कॉन्सेप्ट के लिए है, तत्काल सार्वजनिक बिक्री के लिए नहीं।"
+        },
+        {
+          "q": "वॉन आधारित ढांचा क्यों महत्वपूर्ण है?",
+          "a": "यह कोरियाई निवेशकों के लिए मूल्यांकन और सेटलमेंट को सरल बनाता है और विदेशी मुद्रा जोखिम की जटिलता घटाता है।"
+        }
+      ]
+    },
+    "id": {
+      "title": "Dana tokenisasi berbasis won diuji Shinhan Asset Management dan Plume dalam RWA",
+      "excerpt": "Shinhan Asset Management menandatangani MOU dengan Plume, jaringan blockchain khusus aset dunia nyata, untuk menguji dana tokenisasi berdenominasi won Korea.",
+      "metaDescription": "Shinhan Asset Management dan Plume menguji dana tokenisasi berbasis won, mencakup penerbitan, pencatatan, transfer, dan penebusan pada infrastruktur RWA.",
+      "summary": "Shinhan Asset Management memulai verifikasi teknologi dana tokenisasi berdenominasi won bersama Plume. Pengujian mencakup hak dana, catatan nilai, transfer, dan proses penebusan di blockchain RWA. Inisiatif ini belum merupakan peluncuran produk publik.",
+      "body": "Shinhan Asset Management memasuki tahap verifikasi teknologi untuk dana tokenisasi berdenominasi won Korea melalui kerja sama dengan Plume, jaringan blockchain yang dirancang untuk real-world assets atau RWA. MOU ini menjadi kerangka untuk menguji apakah manajer aset teregulasi dapat merepresentasikan hak dana dan catatan operasional di blockchain sambil tetap memakai won sebagai mata uang acuan.\n\n## Uji dana RWA berbasis won\nPengujian akan berfokus pada struktur dana yang terhubung dengan aset riil atau aset keuangan. Plume menyediakan infrastruktur on-chain untuk penerbitan, transfer, dan pengelolaan catatan aset. Shinhan Asset Management akan meninjau penerbitan token, konfirmasi hak pemegang, catatan transaksi, serta alur penebusan. Pada tahap ini, proyek bukan produk untuk penjualan publik, melainkan uji awal kelayakan operasional.\n\nPoin utama meliputi representasi token atas unit atau hak dana, pencatatan nilai aset bersih berbasis won, kontrol kelayakan investor, dan pembatasan transfer. Koneksi dengan kustodian, distribusi, dan akuntansi dana yang sudah ada juga menjadi faktor penting.\n\n## Dampak dan prospek\nBagi pasar manajemen aset Korea, dana tokenisasi dapat membuat pencatatan hak dan penyelesaian transaksi lebih efisien. Denominasi won penting karena investor domestik dapat memahami nilai dan penyelesaian tanpa lapisan tambahan risiko valuta asing. Jika uji berjalan stabil, diskusi dapat meluas ke dana obligasi, produk pasar uang, dan aset alternatif dengan arus kas yang jelas.\n\nAdopsi komersial tetap membutuhkan interpretasi regulasi, kontrol internal, pencegahan pencucian uang, dan perlindungan investor. Meski begitu, proyek Shinhan-Plume menjadi langkah nyata untuk menilai infrastruktur RWA sebagai bagian potensial dari pasar dana Korea.",
+      "keywords": [
+        "Shinhan Asset Management",
+        "Plume",
+        "RWA",
+        "dana tokenisasi",
+        "won Korea",
+        "blockchain keuangan",
+        "aset dunia nyata",
+        "manajemen aset",
+        "Dana tokenisasi berb"
+      ],
+      "faq": [
+        {
+          "q": "Apa yang diuji Shinhan Asset Management bersama Plume?",
+          "a": "Mereka menguji apakah dana tokenisasi berdenominasi won dapat direpresentasikan dan dikelola di blockchain khusus RWA."
+        },
+        {
+          "q": "Apakah ini langsung menjadi produk untuk investor ritel?",
+          "a": "Tidak. MOU ini mencakup verifikasi teknologi dan proof of concept, bukan peluncuran publik langsung."
+        },
+        {
+          "q": "Mengapa denominasi won penting?",
+          "a": "Denominasi won membantu investor Korea memahami valuasi dan penyelesaian dengan lebih mudah tanpa kompleksitas tambahan dari mata uang asing."
+        }
+      ]
+    }
+  }
+}
