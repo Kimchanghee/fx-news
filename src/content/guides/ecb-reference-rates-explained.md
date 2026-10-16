@@ -36,13 +36,13 @@ The rates are not traded prices. They are a snapshot agreed between central bank
 
 The concertation is a brief exchange between the ECB and other central banks in and around Europe, each reporting market rates they observe at the agreed moment. The result is one number per currency, quoted as units of that currency per one euro. The euro is always the base: the ECB does not publish a dollar–yen or sterling–dollar rate. Those pairs have to be derived as cross rates, which is what this site does for pairs such as [USD/JPY](/fx/usd-jpy/) and [GBP/USD](/fx/gbp-usd/). The arithmetic is explained in [how to calculate a cross rate](/guides/how-to-calculate-a-cross-rate/).
 
-Because every currency in the table is captured at the same moment, the set is internally consistent. That is valuable when you need to convert between several currencies on the same date and want the results to agree with each other.
+Crosses derived from the same dated euro legs are algebraically consistent with those legs. That is valuable when you need to convert between several currencies on the same date and want the results to agree with each other.
 
 ## When there is no rate
 
 There is a reference rate only on days the ECB publishes one. Weekends have no fixing, and neither do **TARGET closing days** — the days the euro area’s large-value payment system is shut. These are New Year’s Day, Good Friday, Easter Monday, 1 May, Christmas Day and 26 December. In the data used on this site, Christmas Day 2025 has no fixing; the last rate before it is from 24 December 2025, when one euro was worth 1.1787 US dollars.
 
-When you ask the [historical converter](/tools/historical-converter/) for a date with no fixing, it uses the most recent earlier fixing and tells you which date it used. That is the usual convention, but check whether a particular authority wants the previous or the following business day.
+When you ask the [historical converter](/tools/historical-converter/) for a date with no fixing, it uses the most recent earlier fixing and tells you which date it used. That is this tool’s selection rule, not a statement of which date a reporting authority requires.
 
 The table can also lose a currency. On its reference-rate page the ECB explains that it suspended the euro reference rate for the Russian rouble because it was “not in a position to set a reference rate that is representative of prevailing market conditions”; the last EUR/RUB rate was published on 1 March 2022. Currencies are also removed when a country adopts the euro.
 
@@ -64,10 +64,14 @@ The ECB rounds rates to a fixed number of digits per currency — four decimals 
 
 ## How this site uses them
 
-The [methodology](/methodology/) page lists the exact request: the ECB Data Portal’s EXR dataset, daily frequency, series type SP00, variation A, for 24 currencies since 1 January 2016. A scheduled refresh downloads the full history again each time, so if the ECB were to correct a value the correction would flow through. If the download fails, the previous snapshot stays in place and every page keeps showing its real retrieval date rather than pretending to be current.
+The [methodology](/methodology/) page lists the exact request: the ECB Data Portal’s EXR dataset, daily frequency, series type SP00, variation A, for 24 currencies since 1 January 2016. The refresh script downloads the full history when run, so a successful refresh can incorporate provider revisions. This describes script behavior, not evidence of an operating schedule. If the download fails, the previous snapshot stays in place and every page keeps showing its real retrieval date rather than pretending to be current.
 
 From these figures each pair page computes its 52-week range, yearly highs and lows, annualised volatility and largest daily moves. None of those statistics are published by the ECB; they are calculated here, and the formulas are on the methodology page so you can reproduce them.
 
 ## A note on precision
 
 Reference rates are rounded and captured once a day, so tiny differences between this site and another source are normal: a market data vendor may show a 16:00 London rate, a bank may show its own mid-rate, and a newspaper may print the previous evening’s close. When you cite a figure, cite the source and the date — “ECB reference rate, 15 October 2026” — and the number becomes checkable by anyone.
+
+## Saved numerical source
+
+Historical numbers above refer to the [saved ECB-derived snapshot](https://github.com/Kimchanghee/fx-news/blob/7b0dbf0/src/data/fx.json), retrieved 2026-10-16T00:01:08.026Z. The JSON retains the provider request or workbook URL and observation dates. It is the saved normalized dataset, not a claim of a fresh download or the provider’s original response bytes.

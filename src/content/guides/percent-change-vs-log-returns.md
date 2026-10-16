@@ -8,7 +8,7 @@ shelf: "Method"
 datePublished: "2026-10-16"
 updated: "2026-10-16"
 data_asof: "2026-10-16; worked arithmetic examples are hypothetical"
-sources: [{"name":"World Bank Commodity Markets","url":"https://www.worldbank.org/en/research/commodity-markets"},{"name":"BLS CPI questions and answers","url":"https://www.bls.gov/cpi/questions-and-answers.htm"}]
+sources: [{"name":"Gregory Gundersen — Returns and Log Returns, equations 1, 6, 12, 17–19","url":"https://gregorygundersen.com/blog/2022/02/06/log-returns/"}]
 faq: []
 related: ["world-bank-pink-sheet-explained","ecb-reference-rates-explained"]
 pages: []

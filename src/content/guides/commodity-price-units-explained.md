@@ -8,7 +8,7 @@ shelf: "Commodities"
 datePublished: "2026-10-16"
 updated: "2026-10-16"
 data_asof: "2026-10-16; worked arithmetic examples are hypothetical"
-sources: [{"name":"World Bank Commodity Markets","url":"https://www.worldbank.org/en/research/commodity-markets"},{"name":"NIST SI Units - Mass","url":"https://www.nist.gov/pml/owm/si-units-mass"},{"name":"NIST Precious Metal Conversion Factors","url":"https://www.nist.gov/document/precious-metals-conversion-information-march2015pdf"},{"name":"EIA barrel definition","url":"https://www.eia.gov/tools/faqs/faq.php?id=327&t=10"}]
+sources: [{"name":"World Bank Commodity Markets","url":"https://www.worldbank.org/en/research/commodity-markets"},{"name":"NIST SI Units - Mass","url":"https://www.nist.gov/pml/owm/si-units-mass"},{"name":"NIST Precious Metal Conversion Factors","url":"https://www.nist.gov/document/precious-metals-conversion-information-march2015pdf"},{"name":"EIA British thermal units","url":"https://www.eia.gov/energyexplained/units-and-calculators/british-thermal-units.php"},{"name":"EIA barrel definition","url":"https://www.eia.gov/tools/faqs/faq.php?id=327&t=10"}]
 faq: []
 related: ["world-bank-pink-sheet-explained","ecb-reference-rates-explained"]
 pages: []
@@ -36,7 +36,7 @@ Even after conversion, Brent, WTI and Dubai remain different benchmarks with dif
 ## Why does natural gas use energy units?
 Gas quotations often use dollars per million British thermal units, abbreviated MMBtu. This measures energy rather than simply volume. Equal volumes of gas with different compositions need not contain equal energy. Converting a volume quotation to an energy quotation requires an appropriate calorific value and specified measurement conditions. Without them, a neat-looking comparison can be materially inaccurate even if the exchange-rate conversion is correct.
 
-European quotations may instead use euros per megawatt-hour. Comparing those with dollar-per-MMBtu observations requires both energy and currency conversions over compatible periods. Document the two operations separately. A monthly gas average translated at one unrelated day's currency rate is an approximation with a specific timing assumption, not an exact reconstruction of all transactions during the month. The distinction should be visible beside the result.
+The saved World Bank gas columns use $/mmbtu. This label is not a claim that every European exchange contract uses that quotation convention. Comparing a quotation in another energy unit or currency requires the relevant energy and currency conversions over compatible periods. Document the two operations separately. A monthly gas average translated at one unrelated day's currency rate is an approximation with a specific timing assumption, not an exact reconstruction of all transactions during the month. The distinction should be visible beside the result.
 
 ## What is a dependable conversion workflow?
 Write the original benchmark, month, currency and unit beside the value. Write the target unit underneath. Use dimensional cancellation: dollars per metric ton multiplied by one metric ton per 1,000 kilograms leaves dollars per kilogram. Check direction intuitively: the cost of a smaller quantity should be smaller. Preserve extra calculation precision, then round the displayed result according to the accuracy of the inputs.

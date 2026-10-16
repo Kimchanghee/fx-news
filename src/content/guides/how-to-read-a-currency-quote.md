@@ -9,6 +9,8 @@ datePublished: 2026-10-16
 updated: 2026-10-16
 data_asof: "ECB fixing of 15 Oct 2026"
 sources:
+  - name: "OANDA — What is a pip? (dealer convention, including fractional pips)"
+    url: "https://www.oanda.com/us-en/skills-and-insights/education/introduction-trading/basics/what-is-a-pip/"
   - name: "ISO — ISO 4217 currency codes"
     url: "https://www.iso.org/iso-4217-currency-codes.html"
   - name: "Bank for International Settlements — Triennial Central Bank Survey of foreign exchange turnover, 2022"
@@ -19,7 +21,7 @@ faq:
   - q: "If EUR/USD goes up, is the dollar weaker?"
     a: "Yes. A higher EUR/USD means each euro buys more dollars, so the euro has strengthened against the dollar and the dollar has weakened against the euro."
   - q: "What is a pip?"
-    a: "A pip is the conventional smallest step in a quote: 0.0001 for most pairs and 0.01 for pairs quoted in yen. A move in EUR/USD from 1.1208 to 1.1218 is 10 pips."
+    a: "A pip is a conventional price-movement unit, not necessarily the smallest displayed increment: 0.0001 for most pairs and 0.01 for pairs quoted in yen. A move in EUR/USD from 1.1208 to 1.1218 is 10 pips."
   - q: "Why does my bank show two different rates?"
     a: "The lower one (bid) is what it pays when it buys the base currency from you; the higher one (ask) is what it charges when it sells it to you. The difference is the spread."
 related: ["how-to-calculate-a-cross-rate", "ecb-reference-rates-explained", "percent-change-vs-log-returns"]
@@ -42,16 +44,9 @@ When the number rises, the base currency buys more of the quote currency. If EUR
 
 This is why the colour and arrow on this site’s [currency board](/fx/) always refer to the pair as written. A green ▲ on USD/JPY is a stronger dollar and weaker yen; it says nothing about whether that is good or bad.
 
-## Why pairs are written the way they are
+## Quote direction
 
-Pairs follow market convention, not alphabet. Roughly:
-
-- the euro comes first against everything (EUR/USD, EUR/GBP, EUR/JPY);
-- sterling comes first against everything except the euro (GBP/USD, GBP/JPY);
-- the Australian and New Zealand dollars come first against the US dollar (AUD/USD, NZD/USD);
-- the US dollar comes first against most other currencies (USD/JPY, USD/CHF, USD/CAD, USD/CNY, USD/MXN).
-
-The practical effect is that most pairs have a value above 1, which makes them easier to read. The ECB follows its own logic: every reference rate is units of currency per one euro, so all of its rates are EUR/xxx.
+Read the displayed base and quote rather than assuming a universal order. This site writes EUR/USD as dollars per euro and USD/JPY as yen per dollar. The ECB source itself quotes every currency per one euro.
 
 ## Direct and indirect quotes
 
@@ -59,19 +54,15 @@ Seen from a particular country, a quote is **direct** when the foreign currency 
 
 ## Pips and decimals
 
-Traders count small moves in **pips**. For most pairs a pip is the fourth decimal place, 0.0001; for pairs quoted in yen it is the second, 0.01, because the numbers are larger. EUR/USD moving from 1.1208 to 1.1218 is a 10-pip rise; USD/JPY moving from 157.97 to 158.47 is 50 pips.
+Traders count small moves in **pips**. For most pairs a pip is the fourth decimal place, 0.0001; for pairs quoted in yen it is the second, 0.01, under the convention described by OANDA. Fractional pips (pipettes) are one tenth of a pip, so a platform can display finer increments. EUR/USD moving from 1.1208 to 1.1218 is a 10-pip rise; USD/JPY moving from 157.97 to 158.47 is 50 pips.
 
 Pips are a dealing convention. For comparing moves across pairs, percentages are clearer: 10 pips is about 0.09% of EUR/USD, while 50 pips of USD/JPY is about 0.32%. That is why the boards on this site show changes in percent.
 
 ## Bid, ask and spread
 
-A dealer quotes two prices. The **bid** is what the dealer pays for the base currency; the **ask** (or offer) is what the dealer charges. The ask is always higher, and the gap — the **spread** — is part of the dealer’s compensation. Between banks in a busy pair the spread is tiny; at an airport kiosk it can be several percent.
+A dealer quotes two prices. The **bid** is what the dealer pays for the base currency; the **ask** (or offer) is what the dealer charges. In an ordinary two-way quote the ask exceeds the bid; the difference is the **spread**. Compare the actual quote and any separate fees rather than assuming a fixed spread.
 
 A reference rate is a single number with no spread. It is useful as a neutral middle point for comparing quotes, but you cannot deal at it. See [ECB reference rates explained](/guides/ecb-reference-rates-explained/).
-
-## Pair nicknames
-
-Market slang gives some pairs nicknames. GBP/USD is “cable”, after the transatlantic telegraph cable once used to transmit the rate. EUR/USD is sometimes called “fiber”, AUD/USD the “aussie”, NZD/USD the “kiwi”, USD/CAD the “loonie” (after the loon on the Canadian one-dollar coin) and USD/CHF the “swissie”. They are harmless jargon; this site uses codes.
 
 ## Which pairs matter most
 
@@ -80,3 +71,7 @@ The Bank for International Settlements surveys global currency trading every thr
 ## Reading a historical quote
 
 Old quotes need a date and a source to be meaningful. “EUR/USD was 0.9565” is ambiguous; “the ECB reference rate for EUR/USD was 0.9565 on 28 September 2022” is a checkable fact, and one of the lowest fixings in this site’s record since 2016. Each [pair page](/fx/eur-usd/) lists the yearly highs and lows with their dates so you can cite them precisely.
+
+## Saved numerical source
+
+Historical numbers above refer to the [saved ECB-derived snapshot](https://github.com/Kimchanghee/fx-news/blob/7b0dbf0/src/data/fx.json), retrieved 2026-10-16T00:01:08.026Z. The JSON retains the provider request or workbook URL and observation dates. It is the saved normalized dataset, not a claim of a fresh download or the provider’s original response bytes.

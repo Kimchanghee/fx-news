@@ -36,3 +36,10 @@ Resume from here after any host restart. Update after every milestone.
 - QA covered the prior built content; final source-citation omissions were made afterward. Final rebuild attempt was interrupted by host restart. Earlier direct build/check/gate/test results remain dated evidence, not a claim of validating all final source edits.
 - Direct NIST PDF/mass and EIA source checks narrowed unit claims. All ten guides remain release HOLD for SOURCE_REVIEW gaps. Numeric overflow hardening, complete browser form tests, final rebuilt render QA and final HTTP 404 check remain open.
 - ECB last-good/data snapshots unchanged. No deploy/accounts. Ads remain disabled; corrected misleading footer advertising claim.
+
+## Targeted factual closure after 7b0dbf0
+- SOURCE_REVIEW history preserved and per-route updated: 8 source-ready guide routes; Pink Sheet and Brent/WTI/Dubai retain specific content holds (not blanket re-audit).
+- Historical figures linked to immutable saved normalized provider snapshots; exact ECB examples reconciled. No data refresh or historical-to-hypothetical relabelling.
+- HMRC VAT corrected; unsupported optional IAS21/EU, nicknames, pip-minimum, precision/spread and print-origin claims removed/narrowed. Direct OANDA/EIA/ECB and inspected Fed/method originals recorded.
+- Fresh direct Astro build: 66 pages; static gate zero errors; 7 calculation/source-example tests pass. Math library and gate unchanged. Source-followup evidence logs retained.
+- These are factual corrections, not production readiness: shared numeric overflow/form-edge/rendered/HTTP404 blockers persist; 2 held guides remain in build/discovery. No deploy/accounts. Previous logs remain historical evidence.

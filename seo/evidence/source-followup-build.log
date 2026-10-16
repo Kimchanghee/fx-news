@@ -1,0 +1,134 @@
+[2m23:58:25[22m [34m[content][39m Syncing content
+[33m[1m23:58:26[22m [WARN] [glob-loader][39m Duplicate id "brent-wti-dubai-oil-benchmarks" found in D:\웹 수익 자동화\rebuild-202610\forexcommoditynews.online\src\content\guides\brent-wti-dubai-oil-benchmarks.md. Later items with the same id will overwrite earlier ones.
+[33m[1m23:58:26[22m [WARN] [glob-loader][39m Duplicate id "ecb-reference-rates-explained" found in D:\웹 수익 자동화\rebuild-202610\forexcommoditynews.online\src\content\guides\ecb-reference-rates-explained.md. Later items with the same id will overwrite earlier ones.
+[33m[1m23:58:26[22m [WARN] [glob-loader][39m Duplicate id "commodity-price-units-explained" found in D:\웹 수익 자동화\rebuild-202610\forexcommoditynews.online\src\content\guides\commodity-price-units-explained.md. Later items with the same id will overwrite earlier ones.
+[33m[1m23:58:26[22m [WARN] [glob-loader][39m Duplicate id "how-to-calculate-a-cross-rate" found in D:\웹 수익 자동화\rebuild-202610\forexcommoditynews.online\src\content\guides\how-to-calculate-a-cross-rate.md. Later items with the same id will overwrite earlier ones.
+[33m[1m23:58:26[22m [WARN] [glob-loader][39m Duplicate id "how-to-read-a-currency-quote" found in D:\웹 수익 자동화\rebuild-202610\forexcommoditynews.online\src\content\guides\how-to-read-a-currency-quote.md. Later items with the same id will overwrite earlier ones.
+[33m[1m23:58:26[22m [WARN] [glob-loader][39m Duplicate id "monthly-average-vs-daily-price" found in D:\웹 수익 자동화\rebuild-202610\forexcommoditynews.online\src\content\guides\monthly-average-vs-daily-price.md. Later items with the same id will overwrite earlier ones.
+[33m[1m23:58:26[22m [WARN] [glob-loader][39m Duplicate id "percent-change-vs-log-returns" found in D:\웹 수익 자동화\rebuild-202610\forexcommoditynews.online\src\content\guides\percent-change-vs-log-returns.md. Later items with the same id will overwrite earlier ones.
+[33m[1m23:58:26[22m [WARN] [glob-loader][39m Duplicate id "nominal-vs-real-commodity-prices" found in D:\웹 수익 자동화\rebuild-202610\forexcommoditynews.online\src\content\guides\nominal-vs-real-commodity-prices.md. Later items with the same id will overwrite earlier ones.
+[33m[1m23:58:26[22m [WARN] [glob-loader][39m Duplicate id "which-exchange-rate-to-use-for-past-transactions" found in D:\웹 수익 자동화\rebuild-202610\forexcommoditynews.online\src\content\guides\which-exchange-rate-to-use-for-past-transactions.md. Later items with the same id will overwrite earlier ones.
+[33m[1m23:58:26[22m [WARN] [glob-loader][39m Duplicate id "world-bank-pink-sheet-explained" found in D:\웹 수익 자동화\rebuild-202610\forexcommoditynews.online\src\content\guides\world-bank-pink-sheet-explained.md. Later items with the same id will overwrite earlier ones.
+[2m23:58:26[22m [34m[content][39m Synced content
+[2m23:58:26[22m [34m[types][39m Generated [2m8.29s[22m
+[2m23:58:26[22m [34m[build][39m output: [34m"static"[39m
+[2m23:58:26[22m [34m[build][39m mode: [34m"static"[39m
+[2m23:58:26[22m [34m[build][39m directory: [34mD:\웹 수익 자동화\rebuild-202610\forexcommoditynews.online\dist\[39m
+[2m23:58:26[22m [34m[build][39m Collecting build info...
+[2m23:58:26[22m [34m[build][39m [32m✓ Completed in 8.33s.[39m
+[2m23:58:28[22m [34m[build][39m Building static entrypoints...
+[2m23:58:37[22m [34m[vite][39m [32m✓ built in 8.46s[39m
+[2m23:58:37[22m [34m[build][39m [32m✓ Completed in 8.55s.[39m
+
+[42m[30m building client (vite) [39m[49m
+[2m23:58:37[22m [34m[vite][39m transforming...
+[2m23:58:37[22m [34m[vite][39m [32m✓[39m 3 modules transformed.
+[2m23:58:37[22m [34m[vite][39m rendering chunks...
+[2m23:58:37[22m [34m[vite][39m computing gzip size...
+[2m23:58:37[22m [34m[vite][39m [2mdist/[22m[36m_astro/calc.DvOGsk4p.js                                                       [39m[1m[2m0.65 kB[22m[1m[22m[2m │ gzip: 0.35 kB[22m
+[2m23:58:37[22m [34m[vite][39m [2mdist/[22m[36m_astro/percent-change.astro_astro_type_script_index_0_lang.CJhkvBIv.js        [39m[1m[2m1.77 kB[22m[1m[22m[2m │ gzip: 0.98 kB[22m
+[2m23:58:37[22m [34m[vite][39m [2mdist/[22m[36m_astro/historical-converter.astro_astro_type_script_index_0_lang.CJOCORxC.js  [39m[1m[2m2.94 kB[22m[1m[22m[2m │ gzip: 1.49 kB[22m
+[2m23:58:37[22m [34m[vite][39m [32m✓ built in 87ms[39m
+
+[42m[30m generating static routes [39m[49m
+[2m23:58:37[22m [32m▶[39m src/pages/404.astro
+[2m23:58:37[22m   [34m└─[39m [2m/404.html[22m [2m(+27ms)[22m 
+[2m23:58:37[22m [32m▶[39m src/pages/about.astro
+[2m23:58:37[22m   [34m└─[39m [2m/about/index.html[22m [2m(+7ms)[22m 
+[2m23:58:37[22m [32m▶[39m src/pages/commodities/[slug].astro
+[2m23:58:37[22m   [34m├─[39m [2m/commodities/brent-crude-oil/index.html[22m [2m(+58ms)[22m 
+[2m23:58:37[22m   [34m├─[39m [2m/commodities/wti-crude-oil/index.html[22m [2m(+38ms)[22m 
+[2m23:58:37[22m   [34m├─[39m [2m/commodities/dubai-crude-oil/index.html[22m [2m(+44ms)[22m 
+[2m23:58:37[22m   [34m├─[39m [2m/commodities/us-natural-gas/index.html[22m [2m(+45ms)[22m 
+[2m23:58:37[22m   [34m├─[39m [2m/commodities/europe-natural-gas/index.html[22m [2m(+54ms)[22m 
+[2m23:58:37[22m   [34m├─[39m [2m/commodities/japan-lng/index.html[22m [2m(+42ms)[22m 
+[2m23:58:37[22m   [34m├─[39m [2m/commodities/australian-coal/index.html[22m [2m(+45ms)[22m 
+[2m23:58:37[22m   [34m├─[39m [2m/commodities/gold/index.html[22m [2m(+41ms)[22m 
+[2m23:58:37[22m   [34m├─[39m [2m/commodities/silver/index.html[22m [2m(+52ms)[22m 
+[2m23:58:37[22m   [34m├─[39m [2m/commodities/platinum/index.html[22m [2m(+39ms)[22m 
+[2m23:58:37[22m   [34m├─[39m [2m/commodities/copper/index.html[22m [2m(+39ms)[22m 
+[2m23:58:37[22m   [34m├─[39m [2m/commodities/aluminum/index.html[22m [2m(+46ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/commodities/nickel/index.html[22m [2m(+34ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/commodities/zinc/index.html[22m [2m(+59ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/commodities/iron-ore/index.html[22m [2m(+34ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/commodities/wheat/index.html[22m [2m(+36ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/commodities/maize/index.html[22m [2m(+30ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/commodities/soybeans/index.html[22m [2m(+31ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/commodities/rice/index.html[22m [2m(+30ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/commodities/arabica-coffee/index.html[22m [2m(+37ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/commodities/cocoa/index.html[22m [2m(+39ms)[22m 
+[2m23:58:38[22m   [34m└─[39m [2m/commodities/sugar/index.html[22m [2m(+43ms)[22m 
+[2m23:58:38[22m [32m▶[39m src/pages/commodities/index.astro
+[2m23:58:38[22m   [34m└─[39m [2m/commodities/index.html[22m [2m(+29ms)[22m 
+[2m23:58:38[22m [32m▶[39m src/pages/contact.astro
+[2m23:58:38[22m   [34m└─[39m [2m/contact/index.html[22m [2m(+3ms)[22m 
+[2m23:58:38[22m [35mλ[39m src/pages/data/fx-history.json.ts
+[2m23:58:38[22m   [34m└─[39m [2m/data/fx-history.json[22m [2m(+7ms)[22m 
+[2m23:58:38[22m [32m▶[39m src/pages/disclaimer.astro
+[2m23:58:38[22m   [34m└─[39m [2m/disclaimer/index.html[22m [2m(+4ms)[22m 
+[2m23:58:38[22m [35mλ[39m src/pages/feed.xml.ts
+[2m23:58:38[22m   [34m└─[39m [2m/feed.xml[22m [2m(+23ms)[22m 
+[2m23:58:38[22m [32m▶[39m src/pages/fx/[pair].astro
+[2m23:58:38[22m   [34m├─[39m [2m/fx/eur-usd/index.html[22m [2m(+48ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/fx/usd-jpy/index.html[22m [2m(+49ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/fx/gbp-usd/index.html[22m [2m(+30ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/fx/usd-chf/index.html[22m [2m(+35ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/fx/aud-usd/index.html[22m [2m(+30ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/fx/usd-cad/index.html[22m [2m(+42ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/fx/nzd-usd/index.html[22m [2m(+39ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/fx/eur-gbp/index.html[22m [2m(+57ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/fx/eur-jpy/index.html[22m [2m(+37ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/fx/eur-chf/index.html[22m [2m(+44ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/fx/gbp-jpy/index.html[22m [2m(+31ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/fx/usd-cny/index.html[22m [2m(+35ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/fx/usd-krw/index.html[22m [2m(+49ms)[22m 
+[2m23:58:38[22m   [34m├─[39m [2m/fx/usd-inr/index.html[22m [2m(+31ms)[22m 
+[2m23:58:39[22m   [34m├─[39m [2m/fx/usd-mxn/index.html[22m [2m(+30ms)[22m 
+[2m23:58:39[22m   [34m├─[39m [2m/fx/usd-brl/index.html[22m [2m(+23ms)[22m 
+[2m23:58:39[22m   [34m├─[39m [2m/fx/usd-zar/index.html[22m [2m(+28ms)[22m 
+[2m23:58:39[22m   [34m├─[39m [2m/fx/usd-try/index.html[22m [2m(+32ms)[22m 
+[2m23:58:39[22m   [34m├─[39m [2m/fx/eur-pln/index.html[22m [2m(+32ms)[22m 
+[2m23:58:39[22m   [34m└─[39m [2m/fx/usd-sgd/index.html[22m [2m(+40ms)[22m 
+[2m23:58:39[22m [32m▶[39m src/pages/fx/index.astro
+[2m23:58:39[22m   [34m└─[39m [2m/fx/index.html[22m [2m(+93ms)[22m 
+[2m23:58:39[22m [32m▶[39m src/pages/guides/[slug].astro
+[2m23:58:39[22m   [34m├─[39m [2m/guides/commodity-price-units-explained/index.html[22m [2m(+3ms)[22m 
+[2m23:58:39[22m   [34m├─[39m [2m/guides/brent-wti-dubai-oil-benchmarks/index.html[22m [2m(+6ms)[22m 
+[2m23:58:39[22m   [34m├─[39m [2m/guides/how-to-read-a-currency-quote/index.html[22m [2m(+3ms)[22m 
+[2m23:58:39[22m   [34m├─[39m [2m/guides/monthly-average-vs-daily-price/index.html[22m [2m(+3ms)[22m 
+[2m23:58:39[22m   [34m├─[39m [2m/guides/how-to-calculate-a-cross-rate/index.html[22m [2m(+48ms)[22m 
+[2m23:58:39[22m   [34m├─[39m [2m/guides/percent-change-vs-log-returns/index.html[22m [2m(+5ms)[22m 
+[2m23:58:39[22m   [34m├─[39m [2m/guides/ecb-reference-rates-explained/index.html[22m [2m(+15ms)[22m 
+[2m23:58:39[22m   [34m├─[39m [2m/guides/which-exchange-rate-to-use-for-past-transactions/index.html[22m [2m(+12ms)[22m 
+[2m23:58:39[22m   [34m├─[39m [2m/guides/world-bank-pink-sheet-explained/index.html[22m [2m(+4ms)[22m 
+[2m23:58:39[22m   [34m└─[39m [2m/guides/nominal-vs-real-commodity-prices/index.html[22m [2m(+4ms)[22m 
+[2m23:58:39[22m [32m▶[39m src/pages/guides/index.astro
+[2m23:58:39[22m   [34m└─[39m [2m/guides/index.html[22m [2m(+9ms)[22m 
+[2m23:58:39[22m [32m▶[39m src/pages/index.astro
+[2m23:58:39[22m   [34m└─[39m [2m/index.html[22m [2m(+148ms)[22m 
+[2m23:58:39[22m [35mλ[39m src/pages/llms-full.txt.ts
+[2m23:58:39[22m   [34m└─[39m [2m/llms-full.txt[22m [2m(+2ms)[22m 
+[2m23:58:39[22m [35mλ[39m src/pages/llms.txt.ts
+[2m23:58:39[22m   [34m└─[39m [2m/llms.txt[22m [2m(+86ms)[22m 
+[2m23:58:39[22m [32m▶[39m src/pages/methodology.astro
+[2m23:58:39[22m   [34m└─[39m [2m/methodology/index.html[22m [2m(+4ms)[22m 
+[2m23:58:39[22m [32m▶[39m src/pages/privacy.astro
+[2m23:58:39[22m   [34m└─[39m [2m/privacy/index.html[22m [2m(+2ms)[22m 
+[2m23:58:39[22m [35mλ[39m src/pages/robots.txt.ts
+[2m23:58:39[22m   [34m└─[39m [2m/robots.txt[22m [2m(+2ms)[22m 
+[2m23:58:39[22m [35mλ[39m src/pages/sitemap-0.xml.ts
+[2m23:58:39[22m   [34m└─[39m [2m/sitemap-0.xml[22m [2m(+3ms)[22m 
+[2m23:58:39[22m [35mλ[39m src/pages/sitemap-index.xml.ts
+[2m23:58:39[22m   [34m└─[39m [2m/sitemap-index.xml[22m [2m(+2ms)[22m 
+[2m23:58:39[22m [32m▶[39m src/pages/terms.astro
+[2m23:58:39[22m   [34m└─[39m [2m/terms/index.html[22m [2m(+3ms)[22m 
+[2m23:58:39[22m [32m▶[39m src/pages/tools/historical-converter.astro
+[2m23:58:39[22m   [34m└─[39m [2m/tools/historical-converter/index.html[22m [2m(+8ms)[22m 
+[2m23:58:39[22m [32m▶[39m src/pages/tools/index.astro
+[2m23:58:39[22m   [34m└─[39m [2m/tools/index.html[22m [2m(+3ms)[22m 
+[2m23:58:39[22m [32m▶[39m src/pages/tools/percent-change.astro
+[2m23:58:39[22m   [34m└─[39m [2m/tools/percent-change/index.html[22m [2m(+66ms)[22m 
+[2m23:58:39[22m [32m✓ Completed in 2.43s.
+[39m
+[2m23:58:39[22m [34m[build][39m 66 page(s) built in [1m21.84s[22m
+[2m23:58:39[22m [34m[build][39m [1mComplete![22m

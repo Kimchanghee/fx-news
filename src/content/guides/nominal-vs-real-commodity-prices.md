@@ -8,7 +8,7 @@ shelf: "Commodities"
 datePublished: "2026-10-16"
 updated: "2026-10-16"
 data_asof: "2026-10-16; worked arithmetic examples are hypothetical"
-sources: [{"name":"World Bank Commodity Markets","url":"https://www.worldbank.org/en/research/commodity-markets"},{"name":"BLS CPI questions and answers","url":"https://www.bls.gov/cpi/questions-and-answers.htm"}]
+sources: [{"name":"World Bank Commodity Markets","url":"https://www.worldbank.org/en/research/commodity-markets"},{"name":"Federal Reserve Bank of St. Louis — Adjusting dollar figures for inflation with FRED","url":"https://fredblog.stlouisfed.org/2024/09/adjusting-dollar-figures-for-inflation-with-fred/"}]
 faq: []
 related: ["world-bank-pink-sheet-explained","ecb-reference-rates-explained"]
 pages: []
@@ -26,7 +26,7 @@ Suppose the same hypothetical commodity later costs 120 dollars when the index i
 ## Which deflator fits the question?
 A consumer-price index describes consumer purchases, while producer or manufacturing indices address different transactions. No deflator is automatically the uniquely correct choice for every commodity question. Household purchasing power and industrial input costs can legitimately require different denominators. Explain the selection instead of presenting inflation adjustment as a neutral transformation without assumptions.
 
-The US Bureau of Labor Statistics publishes guidance on selecting and using Consumer Price Index series. Check geography, population coverage, seasonal adjustment and frequency. Combining monthly commodity prices with an annual index requires a documented alignment rule. The resulting comparison may be useful, but it should not imply monthly inflation precision that the input does not possess.
+The Federal Reserve Bank of St. Louis demonstrates dividing a nominal series by a rebased CPI and multiplying by 100. Check geography, population coverage, seasonal adjustment and frequency. Combining monthly commodity prices with an annual index requires a documented alignment rule. The resulting comparison may be useful, but it should not imply monthly inflation precision that the input does not possess.
 
 ## Does changing the base period alter growth?
 Re-expressing an otherwise identical real-price series in another base period multiplies all its observations by a constant. This changes levels, not percentage changes between two observations. If a rebasing operation appears to alter historical growth, check whether the deflator was revised, another index was substituted, or a worksheet formula changed. The label alone does not explain such a discrepancy.

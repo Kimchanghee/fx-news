@@ -1,0 +1,15 @@
+✔ cross rates and conversions (0.9927ms)
+✔ changes retain losses and reject zero base (0.1864ms)
+✔ log returns and compounding (1.0865ms)
+✔ missing sample and date lookup (0.5044ms)
+✔ arithmetic example integrity (0.4055ms)
+✔ guide examples bind to dated saved ECB snapshot (1.0818ms)
+✔ hypothetical deflation and log identities (0.3108ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 147.4947

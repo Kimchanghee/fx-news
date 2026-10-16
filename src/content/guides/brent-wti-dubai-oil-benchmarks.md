@@ -59,7 +59,7 @@ The US Energy Information Administration explains how global supply, demand, dis
 Subtracting the WTI monthly average from Brent gives the **Brent–WTI spread**. In the World Bank record it tells a clear story:
 
 - **2000–2010:** WTI was usually the more expensive grade. Yearly average spreads ran from −3.1 dollars (2004) to +0.4 (2007). WTI was above Brent in 109 months in total, almost all of them before mid-2010.
-- **2011–2013:** the spread flipped and widened. It averaged 15.9 dollars in 2011 and 17.8 in 2012, with a monthly peak of 25.3 dollars in September 2011 — the widest in the record — as rising US inland production met limited pipeline capacity to the Gulf Coast.
+- **2011–2013:** the spread flipped and widened. It averaged 15.9 dollars in 2011 and 17.8 in 2012, with a monthly peak of 25.3 dollars in September 2011 — the widest in the record.
 - **2014–2025:** the spread settled in a band, with yearly averages between 0.9 dollars (2016) and 7.0 (2019); 2025 averaged 4.2.
 - **2026 so far:** the gap widened again. Brent–WTI averaged 10.1 dollars over January–September 2026, and reached 21.8 dollars in April (120.4 vs 98.6) and 19.9 in September.
 
@@ -83,4 +83,8 @@ If you need a single global figure, the World Bank also publishes an **average c
 
 ## Converting barrels
 
-A barrel is 42 US gallons, or 158.987 litres. The September 2026 Brent average of 116.8 dollars is therefore about **0.73 dollars per litre** of crude oil — before refining, transport, taxes and retail margin, which is why it bears little resemblance to a pump price. The [units guide](/guides/commodity-price-units-explained/) covers the other energy units in the Pink Sheet.
+The EIA defines a crude barrel as 42 gallons. Converting crude volume into a retail fuel price requires more than a unit conversion: refining, transport, taxes and margins are separate. The [units guide](/guides/commodity-price-units-explained/) covers the conversion limits.
+
+## Saved numerical source
+
+Historical numbers above refer to the [saved World Bank-derived snapshot](https://github.com/Kimchanghee/fx-news/blob/7b0dbf0/src/data/commodities.json), retrieved 2026-10-16T00:01:08.577Z. The JSON retains the provider request or workbook URL and observation dates. It is the saved normalized dataset, not a claim of a fresh download or the provider’s original response bytes.

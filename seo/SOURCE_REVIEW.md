@@ -33,3 +33,30 @@ Release status: HOLD for editorial/source completion. Link availability and test
 - Unit guide now cites those originals; omitted unreviewed short-ton/ordinary-ounce/litre constants. Monthly guide irrelevant BLS citation and unreviewed import-unit-value aside removed.
 - Gas energy-unit and benchmark conventions still need direct review. BLS retry remains HTTP 403. Failed NIST appendix URL returned not-found, not verification.
 - ALL TEN guide routes remain HOLD for the remaining per-guide gaps above. No full release clearance.
+
+## Targeted closure after 7b0dbf0 (2026-10-16)
+Earlier review entries are preserved as history. Original snapshot metadata, refresh parser, initial snapshot commit 6e24fa5 and PROGRESS provenance were inspected. No numeric snapshot was refreshed or relabelled hypothetical. Historical guide examples now link to the immutable saved provider-derived JSON at 7b0dbf0, which preserves provider API/workbook URL and retrieval timestamp; these are normalized data, not raw CSV/XLSX bytes.
+
+New original evidence:
+- HMRC https://www.gov.uk/guidance/foreign-currency-transactions-vat-and-tour-operators directly inspected: VAT allows market selling rate at supply or HMRC period rate (usually monthly, possible adjustments); alternate method needs approval; no forwards. Corrected mandatory-HMRC-only claim.
+- IAS21 landing directly inspected, but lacks paragraphs 21–22; omitted optional paragraph claims. EUR-Lex Article91 fetch empty; omitted EU claim/FAQ, not represented as verified.
+- OANDA https://www.oanda.com/us-en/skills-and-insights/education/introduction-trading/basics/what-is-a-pip/ directly inspected: ordinary fourth-decimal pip, second-decimal JPY and 1/10 fractional pip. Corrected smallest-increment language. CME attempt 403.
+- EIA https://www.eia.gov/energyexplained/units-and-calculators/british-thermal-units.php directly inspected: Btu energy content and composition-dependent conversion factors. Saved WB gas columns all $/mmbtu. Removed unreviewed European exchange EUR/MWh claim; no contract-specification claim inferred from workbook units.
+- ECB https://www.ecb.europa.eu/ecb/contacts/working-hours/html/index.en.html directly inspected starred TARGET holidays for 2026–2028. 2025 Christmas example checked separately against saved array.
+- Fed original https://fredblog.stlouisfed.org/2024/09/adjusting-dollar-figures-for-inflation-with-fred/ complete explanatory passage returned by search: (a/b)*100 after rebasing CPI; reference-period change does not change growth. Direct-fetch attempts reset; not represented as direct-fetch success. BLS failure is not a blocker to this independently supported method.
+- Gregory Gundersen https://gregorygundersen.com/blog/2022/02/06/log-returns/ direct full body: equations 1,6,12,17–19 support simple/log returns, telescoping, exponential inverse, small-change approximation. Only those identities reused, not stock examples or distribution claims.
+- Prior properly inspected ECB/BIS/IRS/WB/NIST/EIA evidence remains reusable in its stated scope.
+
+Per-guide factual dispositions (not technical/deployment approval):
+SOURCE-READY /guides/ecb-reference-rates-explained/: prior procedure + new holiday original; 2026-10-15 and 2025-12-24 saved values reconciled. Removed unproven scheduled-refresh execution claim.
+SOURCE-READY /guides/how-to-calculate-a-cross-rate/: all dated USD/JPY/GBP/CHF inputs and arithmetic reconciled. Removed unsupported all-history-pound assertion, precision guarantee and universal cross-spread comparison.
+SOURCE-READY /guides/how-to-read-a-currency-quote/: saved dated values, prior ISO/BIS and direct OANDA. Removed optional nickname/hierarchy/spread generalisations.
+SOURCE-READY /guides/which-exchange-rate-to-use-for-past-transactions/: prior IRS, corrected HMRC VAT, saved invoice example. IAS21/EU optional interpretations removed, not approved.
+SOURCE-READY /guides/commodity-price-units-explained/: earlier NIST/EIA constants + new Btu original and saved gas unit labels; hypothetical arithmetic preserved; no universal gas-volume factor or exchange contract claim.
+SOURCE-READY /guides/monthly-average-vs-daily-price/: hypothetical arithmetic and missing-date selection supported; exact workbook weighting is explicitly not asserted. No invented weighting input needs verification.
+SOURCE-READY /guides/nominal-vs-real-commodity-prices/: inspected Fed method passage and hypothetical deflator arithmetic; no unavailable historical deflator invented.
+SOURCE-READY /guides/percent-change-vs-log-returns/: direct method source and algebra tests; volatility remains explicitly this site's descriptive scaling convention, not a forecast.
+HOLD /guides/world-bank-pink-sheet-explained/: numerical examples bind to saved data; pink-paper origin omitted, licence exceptions fixed. Actual remaining gaps: Description-sheet evidence for gold June2025/gas April2015/iron-ore breaks, LNG import-unit-value/estimate claims, exact sheet/history assertions and separate negative daily WTI futures claim. Saved price JSON does not contain those Description rows.
+HOLD /guides/brent-wti-dubai-oil-benchmarks/: latest values reconciled; exact API grades/location/use and quality interpretation still require benchmark originals, multi-year counts/extrema require full saved-array assertion report. Optional unsupported litre conversion removed. General EIA oil text is not full benchmark evidence.
+
+Global technical HOLD is unchanged: numeric overflow hardening, complete browser form-edge tests, final rendered QA and HTTP404 verification remain as listed in PROGRESS. Eight factually ready routes are NOT eight deployable routes while shared blockers persist. Both held guides remain in build/discovery; no selective deployment exclusion added. No deployment/accounts. Math and gate unchanged.

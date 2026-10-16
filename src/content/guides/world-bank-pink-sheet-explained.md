@@ -3,7 +3,7 @@ title: "What is the World Bank Pink Sheet?"
 seoTitle: "What Is the World Bank Pink Sheet? Commodity Prices Explained"
 description: "Explore World Bank Pink Sheet commodity data, monthly benchmark definitions, source units and reuse terms, with practical limits for historical comparisons."
 question: "What is the World Bank Pink Sheet?"
-answer: "The Pink Sheet is the World Bank's monthly table of commodity prices: averages, in nominal US dollars, for energy, metals and farm goods, plus price indices. It is updated in the first days of each month, published under a CC BY 4.0 licence and runs back to 1960 for many series."
+answer: "The Pink Sheet is the World Bank's monthly table of commodity prices: averages, in nominal US dollars, for energy, metals and farm goods, plus price indices. It is updated in the first days of each month, subject to World Bank data-use terms and runs back to 1960 for many series."
 shelf: "Commodities"
 datePublished: 2026-10-16
 updated: 2026-10-16
@@ -16,12 +16,10 @@ sources:
   - name: "Creative Commons — Attribution 4.0 International (CC BY 4.0)"
     url: "https://creativecommons.org/licenses/by/4.0/"
 faq:
-  - q: "Why is it called the Pink Sheet?"
-    a: "The monthly summary was historically printed on pink paper. The name stuck after it moved online, and the World Bank still uses it for the monthly release."
   - q: "Is the Pink Sheet price the price I would pay?"
     a: "No. Each figure is a monthly average of a specific benchmark grade at a specific delivery point. Physical buyers pay contract prices that add freight, quality premiums and margins, and futures prices move every second."
   - q: "Can I republish Pink Sheet numbers?"
-    a: "The data are published under CC BY 4.0, which allows reuse with attribution to the World Bank. Check the licence page linked from the World Bank commodity markets page for the current terms."
+    a: "World Bank default data terms use CC BY 4.0 with attribution, but additional terms and third-party exceptions can apply. Check the dataset and linked terms before reuse."
 related: ["monthly-average-vs-daily-price", "commodity-price-units-explained", "brent-wti-dubai-oil-benchmarks"]
 pages: ["commodities/brent-crude-oil", "commodities/gold", "commodities/copper", "commodities/wheat"]
 ---
@@ -64,7 +62,7 @@ Every price in the Monthly Prices sheet is **nominal**: dollars of the day, not 
 
 The World Bank does publish real (deflated) indices, but not deflated individual prices in the monthly file. If you compare prices decades apart, say so, or deflate them yourself with a price index you name. This site shows nominal figures throughout and labels them that way.
 
-Everything is in US dollars, too. A European buyer of wheat cares about the price in euros; to get it, divide by the month's average EUR/USD rate. Our [currency board](/fx/eur-usd/) has the daily ECB rates that let you do that, and the [percent change calculator](/tools/percent-change/) handles the arithmetic.
+Everything is in US dollars, too. Dividing a monthly dollar price by a monthly average EUR/USD rate gives an approximation, not the exact mean of daily euro-translated prices. Our [currency board](/fx/eur-usd/) has the daily ECB rates that let you do that, and the [percent change calculator](/tools/percent-change/) handles the arithmetic.
 
 ## Reading a Pink Sheet number correctly
 
@@ -78,4 +76,8 @@ Three common mistakes:
 
 ## Licence and attribution
 
-The World Bank publishes this dataset under the Creative Commons Attribution 4.0 licence. Reuse, including commercial reuse, is permitted with attribution. On this site every commodity page names the World Bank as the source, links to the workbook and states the month and retrieval date. If you use our derived figures — ranges, volatility, yearly averages — cite the World Bank as the source of the prices and this site for the calculation.
+The [World Bank summary terms](https://data.worldbank.org/summary-terms-of-use) state a default Creative Commons Attribution 4.0 licence, subject to additional terms and third-party exceptions. Do not assume that every underlying source has identical reuse conditions. On this site every commodity page names the World Bank as the source, links to the workbook and states the month and retrieval date. If you use our derived figures — ranges, volatility, yearly averages — cite the World Bank as the source of the prices and this site for the calculation.
+
+## Saved numerical source
+
+Historical numbers above refer to the [saved World Bank-derived snapshot](https://github.com/Kimchanghee/fx-news/blob/7b0dbf0/src/data/commodities.json), retrieved 2026-10-16T00:01:08.577Z. The JSON retains the provider request or workbook URL and observation dates. It is the saved normalized dataset, not a claim of a fresh download or the provider’s original response bytes.

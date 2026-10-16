@@ -9,7 +9,7 @@ datePublished: 2026-10-16
 updated: 2026-10-16
 data_asof: "ECB fixing of 15 Oct 2026"
 sources:
-  - name: "European Central Bank — Euro foreign exchange reference rates (15 October 2026 table)"
+  - name: "European Central Bank — Euro foreign exchange reference rates (current provider page)"
     url: "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
   - name: "ECB Data Portal — Exchange rates (EXR) dataset"
     url: "https://data.ecb.europa.eu/data/datasets/EXR"
@@ -47,7 +47,7 @@ The ECB table for 15 October 2026 included USD 1.1208, JPY 177.06, GBP 0.84610 a
 | GBP/JPY (yen per pound) | 177.06 ÷ 0.84610 | 209.266 |
 | USD/CHF (francs per dollar) | 0.9305 ÷ 1.1208 | 0.83021 |
 
-Two checks catch most mistakes. First, sense: a pound has been worth more than a dollar throughout the ECB record since 2016, so GBP/USD should be above 1. Second, consistency: USD/JPY × GBP/USD should equal GBP/JPY. Here 157.976 × 1.32467 = 209.27, which matches to rounding.
+Two checks catch most mistakes. First, sense: in this example a euro buys fewer pounds than dollars, so GBP/USD must be above 1. Second, consistency: USD/JPY × GBP/USD should equal GBP/JPY. Here 157.976 × 1.32467 = 209.27, which matches to rounding.
 
 ## Which number goes on top?
 
@@ -57,7 +57,7 @@ Market convention decides which way a pair is usually written. Dollar–yen is q
 
 ## Rounding
 
-Published rates are already rounded — to four decimals for the dollar, two for the yen and five for sterling in this table. Each rounding introduces a tiny error, and dividing two rounded numbers combines them. In practice the effect is in the fifth or sixth significant digit, far below anything that matters for reference use. Still, two habits keep it small:
+Published rates are already rounded — to four decimals for the dollar, two for the yen and five for sterling in this table. Each rounding introduces a tiny error, and dividing two rounded numbers combines them. The size of the rounding effect depends on the input precision and the pair. Still, two habits keep it small:
 
 - divide the published figures exactly as printed, and round only the final answer;
 - do not chain crosses through a third currency when both currencies are in the ECB table; go straight through the euro.
@@ -66,7 +66,7 @@ This site stores the published values unchanged and rounds only for display, wit
 
 ## Cross rates and market quotes
 
-A trader asking a bank for USD/JPY at 14:10 CET would get two prices, a bid and an ask, not one number. A cross built from two reference rates sits close to the middle of that market, but it is not a traded rate. When dealers construct crosses from bid and ask prices, the spread of the cross is wider than either leg, because the worst side of each leg is combined. Reference rates hide that detail, which is one reason the ECB says they are for information only (see [ECB reference rates explained](/guides/ecb-reference-rates-explained/)).
+A trader asking a bank for USD/JPY at 14:10 CET would get two prices, a bid and an ask, not one number. A cross built from two reference rates sits close to the middle of that market, but it is not a traded rate. Bid/ask crosses need the correct dealing side of each leg; subtracting spreads expressed in different currency units is not a meaningful comparison. Reference rates hide that detail, which is one reason the ECB says they are for information only (see [ECB reference rates explained](/guides/ecb-reference-rates-explained/)).
 
 ## Converting amounts
 
@@ -83,3 +83,7 @@ If you download the ECB history into a spreadsheet, with dates in rows and curre
 ## When a cross is the wrong tool
 
 If a contract, a tax authority or an accounting policy names a specific rate source — a central bank’s own fixing, a Bloomberg or Refinitiv closing rate, an official monthly rate — use that source, even if it differs slightly from an ECB cross. The point of a cross from reference rates is a transparent, reproducible number, not an authoritative one for every purpose. See [which exchange rate to use for past transactions](/guides/which-exchange-rate-to-use-for-past-transactions/).
+
+## Saved numerical source
+
+Historical numbers above refer to the [saved ECB-derived snapshot](https://github.com/Kimchanghee/fx-news/blob/7b0dbf0/src/data/fx.json), retrieved 2026-10-16T00:01:08.026Z. The JSON retains the provider request or workbook URL and observation dates. It is the saved normalized dataset, not a claim of a fresh download or the provider’s original response bytes.
