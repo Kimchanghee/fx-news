@@ -11,6 +11,7 @@ export const site = {
   ga4Id: (env.PUBLIC_GA4_ID as string) || '',
   gscVerification: (env.PUBLIC_GSC_VERIFICATION as string) || '',
   naverVerification: (env.PUBLIC_NAVER_VERIFICATION as string) || '',
+  adsEnabled: env.PUBLIC_ADS_ENABLED === 'true',
   adsenseClient: 'ca-pub-4490818204529253',
   contactEmail: 'contact@forexcommoditynews.online',
   indexNowKey: 'b3f19e6a2c7d4805a1e9c4d27f60b8e3',
