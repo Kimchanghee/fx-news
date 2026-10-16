@@ -1,7 +1,7 @@
 ---
 title: "How to calculate a cross rate from euro reference rates"
 seoTitle: "How to Calculate a Cross Rate From Euro Reference Rates"
-description: "Step-by-step method for deriving USD/JPY, GBP/USD or any other pair from two ECB euro reference rates, with worked examples, the rounding rules and common mistakes."
+description: "Calculate cross exchange rates from two ECB euro reference rates, with a worked USD/JPY example, reciprocal quotes, rounding guidance and practical limits."
 question: "How do you calculate a cross exchange rate from two euro rates?"
 answer: "Divide the euro rate of the currency you want to price in by the euro rate of the currency you are pricing. On 15 October 2026 the ECB fixed 177.06 yen and 1.1208 dollars per euro, so one US dollar was worth 177.06 ÷ 1.1208 = 157.976 yen."
 shelf: "Currencies"

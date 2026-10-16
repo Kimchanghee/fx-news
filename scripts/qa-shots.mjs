@@ -10,7 +10,7 @@ const pages = (process.argv[3] || '/').split(',');
 const outDir = path.resolve('qa', 'shots');
 await mkdir(outDir, { recursive: true });
 // Uses PLAYWRIGHT_BROWSERS_PATH (_pw-browsers) when present, else the installed Chrome channel (no download).
-const browser = await chromium.launch(process.env.PW_CHANNEL ? { channel: process.env.PW_CHANNEL } : {}).catch(() => chromium.launch({ channel: 'chrome' }));
+const browser = await chromium.launch({ channel: process.env.PW_CHANNEL || 'msedge' });
 const report = [];
 for (const width of [1440, 390]) {
   const ctx = await browser.newContext({ viewport: { width, height: width > 500 ? 900 : 844 }, deviceScaleFactor: 1 });

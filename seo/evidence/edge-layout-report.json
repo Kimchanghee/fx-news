@@ -1,0 +1,226 @@
+[
+  {
+    "page": "/",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/home-1440.png"
+  },
+  {
+    "page": "/fx/",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/fx-1440.png"
+  },
+  {
+    "page": "/commodities/",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/commodities-1440.png"
+  },
+  {
+    "page": "/tools/percent-change/",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/tools_percent-change-1440.png"
+  },
+  {
+    "page": "/tools/historical-converter/",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/tools_historical-converter-1440.png"
+  },
+  {
+    "page": "/guides/commodity-price-units-explained/",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/guides_commodity-price-units-explained-1440.png"
+  },
+  {
+    "page": "/guides/brent-wti-dubai-oil-benchmarks/",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/guides_brent-wti-dubai-oil-benchmarks-1440.png"
+  },
+  {
+    "page": "/methodology/",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/methodology-1440.png"
+  },
+  {
+    "page": "/",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 390,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/home-390.png"
+  },
+  {
+    "page": "/fx/",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 390,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/fx-390.png"
+  },
+  {
+    "page": "/commodities/",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 390,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/commodities-390.png"
+  },
+  {
+    "page": "/tools/percent-change/",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 390,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/tools_percent-change-390.png"
+  },
+  {
+    "page": "/tools/historical-converter/",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 390,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/tools_historical-converter-390.png"
+  },
+  {
+    "page": "/guides/commodity-price-units-explained/",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 390,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/guides_commodity-price-units-explained-390.png"
+  },
+  {
+    "page": "/guides/brent-wti-dubai-oil-benchmarks/",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 390,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/guides_brent-wti-dubai-oil-benchmarks-390.png"
+  },
+  {
+    "page": "/methodology/",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "scrollWidth": 390,
+    "cls": 0,
+    "focus": {
+      "tag": "A",
+      "text": "FX & Commodity Almanac",
+      "outline": "solid 3px"
+    },
+    "shot": "qa/shots/methodology-390.png"
+  }
+]

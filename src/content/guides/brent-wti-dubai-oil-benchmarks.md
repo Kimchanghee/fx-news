@@ -1,7 +1,7 @@
 ---
 title: "Brent, WTI and Dubai crude oil compared"
 seoTitle: "Brent vs WTI vs Dubai Crude: How the Oil Benchmarks Differ"
-description: "Why there are three crude oil prices, how Brent, WTI and Dubai differ in quality and location, and what the spreads between them show in World Bank data since 2000."
+description: "Compare Brent, WTI and Dubai crude oil benchmarks, their quality and location differences, and the limits of interpreting monthly World Bank price spreads."
 question: "What is the difference between Brent, WTI and Dubai crude oil?"
 answer: "They are benchmark grades priced at different places: Brent in the North Sea, WTI in the US mid-continent and Gulf, Dubai in the Gulf for Asian buyers. In World Bank monthly averages for September 2026, Brent was 116.8, WTI 96.9 and Dubai 93.3 dollars a barrel."
 shelf: "Commodities"
@@ -52,7 +52,7 @@ Quality explains small gaps. Location explains big ones.
 - **WTI** is priced in the US, historically at the pipeline and storage hub of Cushing, Oklahoma. When US output outgrows the pipes that carry it to the coast, WTI can trade at a deep discount.
 - **Dubai** (with Oman) is the reference for Middle Eastern crude sold to Asian refiners.
 
-The US Energy Information Administration describes the same split in its explainer on [oil prices](https://www.eia.gov/energyexplained/oil-and-petroleum-products/prices-and-outlook.php).
+The US Energy Information Administration explains how global supply, demand, disruptions and contract types affect [oil prices](https://www.eia.gov/energyexplained/oil-and-petroleum-products/prices-and-outlook.php). Its general explainer does not establish the individual benchmark definitions above.
 
 ## What the Brent–WTI spread shows since 2000
 

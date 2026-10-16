@@ -1,7 +1,7 @@
 ---
 title: "How do percentage changes and log returns differ?"
 seoTitle: "Percent Change vs Log Returns: Formulas and Examples"
-description: "Read the definitions, worked calculations and practical limits behind this reference topic, with clear source links, dated context and reproducible comparisons."
+description: "Compare percentage changes and log returns using worked examples, compounding and loss recovery, with clear limits for zero, negative and missing observations."
 question: "How do percentage changes and log returns differ?"
 answer: "A simple percentage change compares the difference with the starting value. A log return takes the natural logarithm of the ending-to-starting ratio. Simple changes communicate relative gains and losses; log returns add across consecutive periods when both prices are strictly positive."
 shelf: "Method"

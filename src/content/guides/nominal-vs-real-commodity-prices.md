@@ -1,7 +1,7 @@
 ---
 title: "How do nominal and real commodity prices differ?"
 seoTitle: "Nominal vs Real Commodity Prices: Inflation Explained"
-description: "Read the definitions, worked calculations and practical limits behind this reference topic, with clear source links, dated context and reproducible comparisons."
+description: "Distinguish nominal commodity prices from inflation-adjusted values, choose a suitable deflator, and reproduce base-period calculations with clear examples."
 question: "How do nominal and real commodity prices differ?"
 answer: "Nominal prices use the dollars of each observation period. Real prices adjust those amounts with a chosen price index and base period. The adjustment changes the question from how many dollars were quoted to how prices compare against that particular measure of inflation."
 shelf: "Commodities"

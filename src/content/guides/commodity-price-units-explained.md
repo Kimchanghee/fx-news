@@ -1,14 +1,14 @@
 ---
 title: "What do commodity price units mean?"
 seoTitle: "Commodity Price Units: Barrels, Tons and Troy Ounces"
-description: "Read the definitions, worked calculations and practical limits behind this reference topic, with clear source links, dated context and reproducible comparisons."
+description: "Understand barrels, metric tons, troy ounces and energy units in commodity quotations, with worked conversions and the limits of comparing different benchmarks."
 question: "What do commodity price units mean?"
 answer: "Commodity prices pair a currency with a quantity unit. Oil uses volume, industrial metals often use mass, and natural gas commonly uses energy. Convert the denominator before comparing figures, but retain each benchmark grade, delivery convention and observation period."
 shelf: "Commodities"
 datePublished: "2026-10-16"
 updated: "2026-10-16"
 data_asof: "2026-10-16; worked arithmetic examples are hypothetical"
-sources: [{"name":"World Bank Commodity Markets","url":"https://www.worldbank.org/en/research/commodity-markets"},{"name":"BLS CPI questions and answers","url":"https://www.bls.gov/cpi/questions-and-answers.htm"}]
+sources: [{"name":"World Bank Commodity Markets","url":"https://www.worldbank.org/en/research/commodity-markets"},{"name":"NIST SI Units - Mass","url":"https://www.nist.gov/pml/owm/si-units-mass"},{"name":"NIST Precious Metal Conversion Factors","url":"https://www.nist.gov/document/precious-metals-conversion-information-march2015pdf"},{"name":"EIA barrel definition","url":"https://www.eia.gov/tools/faqs/faq.php?id=327&t=10"}]
 faq: []
 related: ["world-bank-pink-sheet-explained","ecb-reference-rates-explained"]
 pages: []
@@ -21,15 +21,15 @@ A unit conversion rescales a quantity. It does not transform a wholesale benchma
 ## How do kilograms and metric tons compare?
 A metric ton, or tonne, contains 1,000 kilograms. Divide dollars per metric ton by 1,000 to obtain dollars per kilogram. A hypothetical quotation of 8,000 dollars per metric ton is eight dollars per kilogram. Reverse the calculation by multiplying by 1,000. These figures illustrate unit arithmetic, not current copper prices. The total cost of a fixed quantity should remain unchanged after conversion.
 
-The unqualified word ton needs care. A US short ton is 2,000 pounds and is not a metric ton; a long ton is another unit again. Do not select a conversion factor until the source denominator is identified. The [copper history](/commodities/copper/) uses the workbook's unit without substituting regional terminology. This becomes especially important when combining spreadsheets from publishers in different countries.
+The unqualified word ton needs care. Regional ton conventions are not interchangeable with the metric ton. Do not select a conversion factor until the source denominator is identified. The [copper history](/commodities/copper/) uses the workbook's unit without substituting regional terminology. This becomes especially important when combining spreadsheets from publishers in different countries.
 
 ## Why is a troy ounce different?
-Precious metals commonly use the troy ounce, approximately 31.1035 grams. An ordinary avoirdupois ounce is approximately 28.3495 grams. Dividing a dollar-per-troy-ounce quotation by 31.1035 produces an approximate dollar-per-gram quotation for the same reference material. A hypothetical price of 3,110.35 dollars per troy ounce becomes 100 dollars per gram. Using the ordinary ounce would produce the wrong conversion.
+Precious metals commonly use the troy ounce, approximately 31.1035 grams. Do not substitute an ordinary avoirdupois ounce for the troy unit. Dividing a dollar-per-troy-ounce quotation by 31.1035 produces an approximate dollar-per-gram quotation for the same reference material. A hypothetical price of 3,110.35 dollars per troy ounce becomes 100 dollars per gram. Using the ordinary ounce would produce the wrong conversion.
 
 That calculation says nothing about jewellery purity, workmanship, margins or resale spreads. A gram of an alloy is not necessarily a gram of pure gold. A small physical bar may carry different costs from a large wholesale reference quantity. The [gold history](/commodities/gold/) is a benchmark series, not an offer for a particular product. More decimal places do not remove these commercial distinctions.
 
 ## Can barrels be converted directly into tons?
-A petroleum barrel contains 42 US gallons, approximately 158.987 litres. Barrels measure volume; metric tons measure mass. Converting between them requires density, which varies across crude grades and measurement conditions. A universal barrels-per-ton multiplier is unsuitable for a precise comparison of all oils. If using an approximation, state the density assumption and retain enough information for another reader to reproduce it.
+The EIA describes a crude-oil barrel as 42 gallons. Barrels measure volume; metric tons measure mass. Converting between them requires density, which varies across crude grades and measurement conditions. A universal barrels-per-ton multiplier is unsuitable for a precise comparison of all oils. If using an approximation, state the density assumption and retain enough information for another reader to reproduce it.
 
 Even after conversion, Brent, WTI and Dubai remain different benchmarks with different qualities and market conventions. Their spread is not automatically an arbitrage profit. Freight, financing, quality adjustments and contract terms can exceed the rounding difference in a unit calculation. The [oil benchmark guide](/guides/brent-wti-dubai-oil-benchmarks/) describes those distinctions without presenting historical price differences as a trading recommendation.
 

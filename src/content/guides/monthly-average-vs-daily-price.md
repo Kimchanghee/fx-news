@@ -1,14 +1,14 @@
 ---
 title: "Why does a monthly average differ from a daily price?"
 seoTitle: "Monthly Average vs Daily Price: Read Commodity Data"
-description: "Read the definitions, worked calculations and practical limits behind this reference topic, with clear source links, dated context and reproducible comparisons."
+description: "Compare monthly commodity averages with daily observations, understand smoothing and timing effects, and avoid confusing benchmark history with live prices."
 question: "Why does a monthly average differ from a daily price?"
 answer: "A monthly average summarizes observations across a calendar month, while a daily price describes an observation on one day. Compare like frequencies and benchmarks. A monthly chart cannot reconstruct intramonth extremes or provide an executable current quotation."
 shelf: "Commodities"
 datePublished: "2026-10-16"
 updated: "2026-10-16"
 data_asof: "2026-10-16; worked arithmetic examples are hypothetical"
-sources: [{"name":"World Bank Commodity Markets","url":"https://www.worldbank.org/en/research/commodity-markets"},{"name":"BLS CPI questions and answers","url":"https://www.bls.gov/cpi/questions-and-answers.htm"}]
+sources: [{"name":"World Bank Commodity Markets","url":"https://www.worldbank.org/en/research/commodity-markets"}]
 faq: []
 related: ["world-bank-pink-sheet-explained","ecb-reference-rates-explained"]
 pages: []
@@ -16,7 +16,7 @@ pages: []
 ## What does the average measure?
 A monthly average replaces many observations with one number. In a hypothetical sequence of 80, 100 and 120 dollars, the arithmetic average is 100 dollars. This is an example of arithmetic, not market data. The average need not equal the final observation, the lowest observation, or the price paid by any particular buyer. It describes a collection of observations under the source's aggregation method.
 
-The World Bank Pink Sheet supplies monthly commodity observations with specific benchmark definitions. Some reflect market quotations; an import unit value instead relates trade values to quantities. Read the workbook descriptions before assuming every column is an identically weighted average of exchange closes. The [commodity board](/commodities/) retains the source units and monthly frequency rather than relabelling the figures as live prices.
+The World Bank Pink Sheet supplies monthly commodity observations with specific benchmark definitions. Read the workbook descriptions before assuming every column is an identically weighted average of exchange closes. The [commodity board](/commodities/) retains the source units and monthly frequency rather than relabelling the figures as live prices.
 
 ## Why can a shock disappear inside an average?
 Imagine twenty equally weighted observations: nineteen at 100 and one at 60. Their average is 98, only two percent below a hypothetical month whose observations were all 100. The individual low is forty percent below 100. Both statements are correct, but only the daily record exposes the extreme. There is no mathematical way to recover the missing path from the monthly mean alone.

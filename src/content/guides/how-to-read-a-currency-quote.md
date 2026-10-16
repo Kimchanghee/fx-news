@@ -1,7 +1,7 @@
 ---
 title: "How to read a currency pair quote"
 seoTitle: "How to Read a Currency Pair Quote: Base, Quote, Pips, Spread"
-description: "What EUR/USD 1.1208 actually means: base and quote currencies, which way round pairs are written, pips, bid and ask spreads, direct and indirect quotes, and pair nicknames."
+description: "Read currency pairs using base and quote currencies, bid and ask prices, pips and reciprocal rates, with worked examples and limits of reference quotations."
 question: "How do you read a currency pair such as EUR/USD 1.1208?"
 answer: "The first currency is the base and the second is the quote: EUR/USD 1.1208 means one euro costs 1.1208 US dollars. If the number rises, the base currency has strengthened. Dealers show two prices, a lower bid and a higher ask; reference rates show one."
 shelf: "Currencies"
@@ -22,7 +22,7 @@ faq:
     a: "A pip is the conventional smallest step in a quote: 0.0001 for most pairs and 0.01 for pairs quoted in yen. A move in EUR/USD from 1.1208 to 1.1218 is 10 pips."
   - q: "Why does my bank show two different rates?"
     a: "The lower one (bid) is what it pays when it buys the base currency from you; the higher one (ask) is what it charges when it sells it to you. The difference is the spread."
-related: ["how-to-calculate-a-cross-rate", "ecb-reference-rates-explained", "measuring-exchange-rate-volatility"]
+related: ["how-to-calculate-a-cross-rate", "ecb-reference-rates-explained", "percent-change-vs-log-returns"]
 pages: ["fx/eur-usd", "fx/usd-jpy", "fx/gbp-usd", "fx/aud-usd"]
 ---
 

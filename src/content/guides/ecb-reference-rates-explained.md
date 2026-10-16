@@ -1,7 +1,7 @@
 ---
 title: "ECB euro reference rates explained"
 seoTitle: "ECB Euro Reference Rates Explained: How They Are Set and Used"
-description: "How the European Central Bank sets its daily euro reference exchange rates, when they are published, which currencies are covered and why they are not dealing rates."
+description: "Learn how ECB euro reference exchange rates are set and published, which currencies they cover, and why these daily observations are not bank dealing rates."
 question: "What are the ECB euro reference rates?"
 answer: "The ECB euro reference rates are daily exchange rates for about 30 currencies against the euro, fixed at a concertation between central banks around 14:10 CET and published around 16:00 CET on TARGET business days. The ECB publishes them for information only and discourages their use for transactions."
 shelf: "Currencies"

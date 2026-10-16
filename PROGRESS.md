@@ -21,3 +21,18 @@ Resume from here after any host restart. Update after every milestone.
 - Missing deliverables: gate.mjs, tests, refresh-build.ps1, DESIGN_REFERENCES.md, content/backlog.md, SEO scorecard and measurement plan. Need full astro check, crawler HTTP/404 checks, tool edge cases, and 1440/390 screenshots with overflow/focus review.
 - Existing snapshot: ECB latest 2026-10-15; World Bank through 2026-09, workbook updated 2026-10-02; retrieved 2026-10-16 UTC. No deployment or account work performed.
 - Final safety reconciliation: restored ECB manuscript from pre-interruption commit after detecting an interrupted zero-byte write; ads default off and privacy no longer claims an installed CMP. Metadata and QA gaps above remain.
+
+## Bounded final pass 2026-10-16
+- Unique compliant descriptions for all ten guides; repaired missing related guide; strict metadata bypass removed; unsupported EIA attribution corrected.
+- Direct Astro build completed 66 pages. Direct Astro check: 0 errors/warnings/hints. ASTRO_TELEMETRY_DISABLED=1. Static gate: 66 pages, zero errors. Five calculation tests pass. Evidence logs retained under seo/evidence.
+- SOURCE_REVIEW.md gives actual primary-source checks and per-guide gaps. Ten-guide editorial signoff remains BLOCKED. BLS returned 403. ECB last-good and commodity snapshots unchanged.
+- Added gate/tests, refresh-build wrapper (not executed), SEO scorecard/measurement plan, design rationale and backlog.
+- Installed msedge QA attempted; host restarts/timeouts prevented confirmed completion. Do not accept stale screenshots/report as fresh visual approval. Mobile/desktop visual review and browser form edge tests remain BLOCKED.
+- No deployment/accounts. Ads remain disabled, no installed CMP claimed. Numeric overflow hardening remains pending.
+
+## Final bounded handoff 2026-10-16
+- Stale index.lock quarantined only after no git processes and successful exclusive open. No live lock deleted.
+- Same-process local Astro preview and installed msedge completed 16 layout checks: 8 routes at 1440/390 CSS widths, all HTTP 200, zero document overflow, sampled CLS 0, focused link solid 3px outline. Report retained in seo/evidence/edge-layout-report.json; screenshots under ignored qa/shots. Homepage desktop/mobile inspected visually. This is not exhaustive route or form-edge approval.
+- QA covered the prior built content; final source-citation omissions were made afterward. Final rebuild attempt was interrupted by host restart. Earlier direct build/check/gate/test results remain dated evidence, not a claim of validating all final source edits.
+- Direct NIST PDF/mass and EIA source checks narrowed unit claims. All ten guides remain release HOLD for SOURCE_REVIEW gaps. Numeric overflow hardening, complete browser form tests, final rebuilt render QA and final HTTP 404 check remain open.
+- ECB last-good/data snapshots unchanged. No deploy/accounts. Ads remain disabled; corrected misleading footer advertising claim.

@@ -3,7 +3,6 @@ import site from '../site.config';
 /** Return the first candidate whose length is within [min, max]; fail the build otherwise (never ship an off-spec tag). */
 export function fit(cands: string[], min: number, max: number, what = 'text'): string {
   for (const c of cands) if (c.length >= min && c.length <= max) return c;
-  if (process.env.FIT_SOFT) { console.warn(`FIT ${what} [${cands[0].length}] ${cands[0]}`); return cands[0]; }
   throw new Error(`No ${what} candidate within ${min}-${max} chars: ${cands.map((c) => `[${c.length}] ${c}`).join(' | ')}`);
 }
 /** Candidates = every core followed by every ordered subset of pads (pads keep their order). */

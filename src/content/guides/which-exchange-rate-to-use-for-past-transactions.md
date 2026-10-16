@@ -1,7 +1,7 @@
 ---
 title: "Which exchange rate should you use for past transactions?"
 seoTitle: "Which Exchange Rate to Use for Past Transactions and Records"
-description: "Spot, average or official rates for converting past foreign-currency amounts in records, accounts and tax returns, what the rules say, and where the ECB rates fit in."
+description: "Choose a historical exchange rate according to the reporting rule, distinguish transaction and average rates, and understand the limits of ECB reference data."
 question: "Which exchange rate should you use to convert a past foreign-currency transaction?"
 answer: "Use the rate your rule-maker names. Tax authorities and accounting standards generally want the rate on the transaction date, sometimes allow a period average, and some publish their own rates. Where any reliable published rate is acceptable, an ECB reference rate is a transparent, citable choice."
 shelf: "Currencies"

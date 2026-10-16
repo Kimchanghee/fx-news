@@ -1,7 +1,7 @@
 ---
 title: "What is the World Bank Pink Sheet?"
 seoTitle: "What Is the World Bank Pink Sheet? Commodity Prices Explained"
-description: "What the World Bank's monthly Pink Sheet of commodity prices contains, how its monthly averages are built, when it is updated, how it is licensed and where it misleads."
+description: "Explore World Bank Pink Sheet commodity data, monthly benchmark definitions, source units and reuse terms, with practical limits for historical comparisons."
 question: "What is the World Bank Pink Sheet?"
 answer: "The Pink Sheet is the World Bank's monthly table of commodity prices: averages, in nominal US dollars, for energy, metals and farm goods, plus price indices. It is updated in the first days of each month, published under a CC BY 4.0 licence and runs back to 1960 for many series."
 shelf: "Commodities"
