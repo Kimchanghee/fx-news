@@ -75,7 +75,7 @@ Market slang gives some pairs nicknames. GBP/USD is “cable”, after the trans
 
 ## Which pairs matter most
 
-The Bank for International Settlements surveys global currency trading every three years. Its 2022 survey put average turnover at 7.5 trillion US dollars a day in April 2022 and found the dollar on one side of 88% of all trades, with EUR/USD the most traded pair. That dominance is why many people think about exchange rates against the dollar, even when the ECB publishes everything against the euro.
+The Bank for International Settlements surveys global currency trading every three years. Its 2022 survey put average turnover at 7.5 trillion US dollars a day in April 2022 and found the dollar on one side of 88% of all trades and the euro, the second most traded currency, on one side of about 31%. That dominance is why many people think about exchange rates against the dollar, even when the ECB publishes everything against the euro.
 
 ## Reading a historical quote
 
