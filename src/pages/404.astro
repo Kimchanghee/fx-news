@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import { PAIRS, COMMODITIES } from '../lib/data';
+import { fitTitle, fitDesc } from '../lib/seo';
+
+const title = fitTitle(['Page Not Found (404) | FX & Commodity Almanac Reference']);
+const description = fitDesc([
+  'This page is not on the board. Find the currency pair, commodity price series, calculator or almanac guide you wanted in the index of pages listed here.',
+]);
+---
+<Base title={title} description={description} path="/404/" og="home">
+  <p class="kicker">Error 404</p>
+  <h1>Nothing chalked here</h1>
+  <p class="lede">The page you asked for does not exist or has moved. Pair and commodity pages use stable addresses such as <code>/fx/eur-usd/</code> and <code>/commodities/gold/</code>.</p>
+  <h2>Currency pairs</h2>
+  <p>{PAIRS.map((p, i) => <>{i > 0 && ' · '}<a href={`/fx/${p.slug}/`}>{p.label}</a></>)}</p>
+  <h2>Commodities</h2>
+  <p>{COMMODITIES.map((c, i) => <>{i > 0 && ' · '}<a href={`/commodities/${c.slug}/`}>{c.name}</a></>)}</p>
+  <p><a href="/">Back to the board</a> · <a href="/tools/">Tools</a> · <a href="/guides/">Almanac guides</a></p>
+</Base>

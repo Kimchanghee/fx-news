@@ -1,0 +1,39 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../site.config';
+import { fitTitle, fitDesc } from '../lib/seo';
+
+const updated = '16 Oct 2026';
+const title = fitTitle(['Privacy Policy: Analytics, Advertising and Cookies Explained']);
+const description = fitDesc([
+  'What data the FX & Commodity Almanac collects via Google Analytics and Google AdSense, how cookies and consent work in the EEA and UK, and how to opt out.',
+]);
+---
+<Base title={title} description={description} path="/privacy/" og="home"
+  crumbs={[{ name: 'Board', href: '/' }, { name: 'Privacy', href: '/privacy/' }]}>
+  <p class="kicker">Privacy policy · updated {updated}</p>
+  <h1>What data does this site collect, and how can you opt out?</h1>
+  <p id="answer" class="lede">We do not ask for accounts or store what you type into the calculators. The site uses Google Analytics to count visits and Google AdSense to show ads; both may use cookies. Visitors in the EEA, UK and Switzerland are asked for consent first, and anyone can opt out.</p>
+  <div class="prose">
+    <h2>Who is responsible</h2>
+    <p>The {site.name} ({site.domain}). Contact: <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>.</p>
+    <h2>Calculators</h2>
+    <p>The <a href="/tools/historical-converter/">historical converter</a> and <a href="/tools/percent-change/">percent change calculator</a> run in your browser. Values you enter are not sent to us. The converter downloads the public ECB rate history file from this site.</p>
+    <h2>Google Analytics 4</h2>
+    <p>When enabled, Google Analytics records pages viewed, approximate location (country/city derived from IP address, which Google does not store for GA4), device and browser type, referring site, and events such as using a calculator or clicking a link to an official source. We use this to understand which pages are useful. Google processes this data as described in <a href="https://policies.google.com/privacy">Google’s privacy policy</a>. You can opt out with the <a href="https://tools.google.com/dlpage/gaoptout">Google Analytics opt-out browser add-on</a>.</p>
+    <h2>Google AdSense and third-party cookies</h2>
+    <p>Ads are served by Google AdSense. Google and its partners may use cookies or similar identifiers to show ads based on your visits to this and other websites, to limit how often you see an ad, and to measure ad performance. Third-party vendors, including Google, use cookies to serve ads based on prior visits. Learn more at <a href="https://policies.google.com/technologies/partner-sites">how Google uses information from sites that use its services</a>. You can turn off personalised advertising in <a href="https://adssettings.google.com/">Google’s Ad Settings</a> or, for many vendors, at <a href="https://www.aboutads.info/choices/">aboutads.info</a> and <a href="https://www.youronlinechoices.eu/">youronlinechoices.eu</a>.</p>
+    <h2>Consent in the EEA, UK and Switzerland</h2>
+    <p>For visitors in the European Economic Area, the United Kingdom and Switzerland, advertising and analytics storage defaults to “denied” (Google Consent Mode v2) until you choose. Consent is collected with a Google-certified consent management platform (Google’s own CMP) shown by AdSense. You can change your choice at any time through the privacy/consent link it provides. Without consent, Google may still show non-personalised ads, which use cookies for frequency capping and fraud prevention where the law allows.</p>
+    <h2>Other visitors</h2>
+    <p>Elsewhere, analytics and advertising storage is enabled by default. You can block or delete cookies in your browser settings and use the opt-out links above. US residents can exercise state privacy rights (such as opting out of “sale” or “sharing” for targeted advertising) through Google’s ad settings and the industry opt-out pages above.</p>
+    <h2>Server logs</h2>
+    <p>The site is served as static files by Cloudflare, which processes technical request data (such as IP address and user agent) to deliver and protect the site, under <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare’s privacy policy</a>. We do not use those logs to identify visitors.</p>
+    <h2>Retention and your rights</h2>
+    <p>Analytics data is kept for the shortest retention period Google Analytics offers for our property settings. Depending on where you live, you may have rights to access, correct or delete personal data or object to processing; write to us and we will help, or contact Google directly for data it controls.</p>
+    <h2>Children</h2>
+    <p>The site is not directed at children under 13 and does not knowingly collect their data.</p>
+    <h2>Changes</h2>
+    <p>We will update this page and its date when practices change. See also the <a href="/terms/">terms of use</a>.</p>
+  </div>
+</Base>

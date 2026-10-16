@@ -1,0 +1,33 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../site.config';
+import { fitTitle, fitDesc } from '../lib/seo';
+import { fx, cm } from '../lib/data';
+
+const title = fitTitle(['Terms of Use: FX & Commodity Almanac Data and Tools']);
+const description = fitDesc([
+  'Terms for using the FX & Commodity Almanac: information only, no warranty, attribution of ECB and World Bank data, acceptable use and limits of liability.',
+]);
+---
+<Base title={title} description={description} path="/terms/" og="home"
+  crumbs={[{ name: 'Board', href: '/' }, { name: 'Terms', href: '/terms/' }]}>
+  <p class="kicker">Terms of use · updated 16 Oct 2026</p>
+  <h1>What are the terms for using this site?</h1>
+  <p id="answer" class="lede">You may read, quote and link to the site freely. The data and tools are provided for information, without warranty, and must not be relied on as dealing rates or advice. Credit the original sources (ECB, World Bank) when you reuse their figures.</p>
+  <div class="prose">
+    <h2>Information only</h2>
+    <p>All content is general information about published reference data. It is not an offer, a recommendation or financial, tax or legal advice. Read the <a href="/disclaimer/">disclaimer</a>.</p>
+    <h2>Data and attribution</h2>
+    <p>Exchange-rate data: <a href={fx.sourceUrl}>European Central Bank</a>; the ECB permits reuse with acknowledgement of the source. Commodity prices: <a href={cm.sourceUrl}>World Bank Commodity Price Data</a>, licensed <a href={cm.licenseUrl}>CC BY 4.0</a>. When reusing figures from this site, cite the original source and, if you like, this page. Our own text and charts may be quoted with a link back.</p>
+    <h2>No warranty</h2>
+    <p>We work to reproduce the official figures accurately but the site is provided “as is”. Sources can revise data, downloads can fail, and calculations can contain errors. Verify important figures against the original source before relying on them.</p>
+    <h2>Limitation of liability</h2>
+    <p>To the extent permitted by law, the operators of {site.domain} are not liable for losses arising from use of the site, its data or its tools.</p>
+    <h2>Acceptable use</h2>
+    <p>Do not attempt to disrupt the site or scrape it at a rate that degrades service; the underlying data is available directly from the ECB and World Bank. See our <a href="/methodology/">methodology</a> for the source endpoints.</p>
+    <h2>Advertising and links</h2>
+    <p>The site shows Google AdSense ads and links to external sources we do not control. See the <a href="/privacy/">privacy policy</a>.</p>
+    <h2>Changes and contact</h2>
+    <p>We may update these terms; the date above changes when we do. Questions: <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>.</p>
+  </div>
+</Base>

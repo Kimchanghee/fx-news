@@ -1,0 +1,21 @@
+---
+import Base from '../../layouts/Base.astro';
+import { fitTitle, fitDesc } from '../../lib/seo';
+import { fx, fmtDate } from '../../lib/data';
+
+const title = fitTitle(['Tools: Historical Currency Converter and Percent Change']);
+const description = fitDesc([
+  'Two free reference tools: convert currencies at the ECB rate for any business day since 2016, and work out percentage change, log return and annual growth.',
+]);
+---
+<Base title={title} description={description} path="/tools/" og="tools" nav="tools"
+  crumbs={[{ name: 'Board', href: '/' }, { name: 'Tools', href: '/tools/' }]}>
+  <p class="kicker">Tools</p>
+  <h1>Which calculations does the almanac do for you?</h1>
+  <p id="answer" class="lede">Two calculators run in your browser on the same data as the boards: a historical currency converter using ECB reference rates from {fmtDate(fx.dates[0])} to {fmtDate(fx.latestDate)}, and a percentage-change calculator that also gives log returns and compound annual rates.</p>
+  <ul class="index-list">
+    <li><a href="/tools/historical-converter/">Historical currency converter</a><p>Amount, two of 25 currencies, and a date. Uses the ECB fixing of that day or the previous fixing, and compares with the latest rate.</p></li>
+    <li><a href="/tools/percent-change/">Percent change calculator</a><p>Old and new value, optional years. Gives percentage change, difference, log return, compound annual rate and the move needed to get back.</p></li>
+  </ul>
+  <p>Neither tool stores what you type. They do not give dealing rates or forecasts; for how the inputs are sourced see the <a href="/methodology/">methodology</a>.</p>
+</Base>

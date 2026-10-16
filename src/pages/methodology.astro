@@ -1,0 +1,54 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../site.config';
+import { fitTitle, fitDesc } from '../lib/seo';
+import { fx, cm, fmtDate, num } from '../lib/data';
+
+const L = fx.dates.length - 1;
+const usd = fx.series.USD[L]!, jpy = fx.series.JPY[L]!;
+const title = fitTitle(['Methodology and Sources: ECB Rates and World Bank Prices']);
+const description = fitDesc([
+  'How the almanac sources ECB reference rates and World Bank commodity prices, derives cross rates, and computes changes, ranges, percentiles and volatility.',
+]);
+const ld = [{
+  '@context': 'https://schema.org', '@type': 'TechArticle', headline: 'How are the figures on this site sourced and computed?',
+  dateModified: fx.asOf.slice(0, 10), author: { '@id': `${site.url}/#org` }, publisher: { '@id': `${site.url}/#org` }, mainEntityOfPage: `${site.url}/methodology/`,
+}];
+---
+<Base title={title} description={description} path="/methodology/" og="method" ld={ld} nav="method"
+  crumbs={[{ name: 'Board', href: '/' }, { name: 'Methodology', href: '/methodology/' }]}>
+  <p class="kicker">Method &amp; sources</p>
+  <h1>How are the figures on this site sourced and computed?</h1>
+  <p id="answer" class="lede">Exchange rates come from the European Central Bank’s euro reference rates and commodity prices from the World Bank’s monthly Pink Sheet. A scheduled script downloads both, keeps the last good copy if a download fails, and every change, range and volatility figure is computed from those published numbers.</p>
+  <div class="prose">
+    <h2>Source 1: ECB euro foreign exchange reference rates</h2>
+    <p>Daily reference rates for 24 currencies against the euro are requested from the <a href="https://data.ecb.europa.eu/">ECB Data Portal</a> (dataset EXR, frequency D, series type SP00, variation A) from 1 January 2016. Each value is the number of units of a currency per one euro. The ECB sets the rates around 14:10 CET on TARGET business days and <a href={fx.sourceUrl}>publishes them for information purposes only</a>. Current snapshot: {fx.dates.length.toLocaleString('en-US')} fixings, latest {fmtDate(fx.latestDate)}, retrieved {fmtDate(fx.asOf)}.</p>
+    <h2>Source 2: World Bank Commodity Price Data (Pink Sheet)</h2>
+    <p>The monthly prices workbook (CMO-Historical-Data-Monthly.xlsx) is located from the <a href={cm.sourceUrl}>World Bank commodity markets page</a> and the “Monthly Prices” sheet is parsed for 22 series from January 2000. Prices are monthly averages in nominal US dollars in the unit stated by the World Bank. The data are licensed <a href={cm.licenseUrl}>CC BY 4.0</a>; series definitions are taken from the workbook’s description sheet. Current snapshot: latest month {cm.latestMonth}, workbook “{cm.workbookNote}”, retrieved {fmtDate(cm.asOf)}.</p>
+    <h2>Cross rates</h2>
+    <p>Pairs without the euro are computed as the ratio of two euro rates fixed at the same moment: units of B per unit of A = (B per EUR) ÷ (A per EUR). On {fmtDate(fx.latestDate)}: USD/JPY = {num(jpy, 2)} ÷ {num(usd, 4)} = {num(jpy / usd, 3)}.</p>
+    <h2>Formulas</h2>
+    <table>
+      <thead><tr><th>Figure</th><th>Definition</th></tr></thead>
+      <tbody>
+        <tr><td>Change (%)</td><td>(new − old) ÷ old × 100, between the two observations named on the page.</td></tr>
+        <tr><td>1-year / 5-year change</td><td>Latest observation against the last observation on or before the same calendar date one or five years earlier (FX), or the same month a year or five years earlier (commodities).</td></tr>
+        <tr><td>52-week range</td><td>Lowest and highest fixing after the 1-year reference date up to the latest fixing. Range position = (latest − low) ÷ (high − low).</td></tr>
+        <tr><td>Annualised volatility</td><td>Sample standard deviation of log changes between consecutive observations × √(observations per year). FX: daily fixings in the window; commodities: 12 per year.</td></tr>
+        <tr><td>Rank / percentile</td><td>Share of all observations in the record that are at or below the latest one.</td></tr>
+        <tr><td>Yearly change (FX)</td><td>Last fixing of a year against the last fixing of the previous year.</td></tr>
+        <tr><td>Yearly average (commodities)</td><td>Simple mean of the monthly averages published for that year; incomplete years are labelled.</td></tr>
+      </tbody>
+    </table>
+    <p>The same functions power the <a href="/tools/percent-change/">percent change calculator</a> and the <a href="/tools/historical-converter/">historical converter</a>, and are checked by automated tests against hand-computed cases.</p>
+    <h2>What we do not do</h2>
+    <ul>
+      <li>No interpolation: if a source omits an observation it is shown as missing (—) and excluded from calculations.</li>
+      <li>No real-time prices. Reference rates are published once a day and commodity prices once a month.</li>
+      <li>No inflation adjustment unless stated. All commodity figures are nominal US dollars.</li>
+      <li>No forecasts or signals. Automated notes describe the record.</li>
+    </ul>
+    <h2>Refresh and failure handling</h2>
+    <p>A scheduled job runs the refresh, rebuilds the site and runs a publishing check that verifies titles, descriptions, canonical links, structured data and internal links on every page. If either source fails, the previous snapshot is kept and its own retrieval date stays on the page, so a stale figure is never presented as new.</p>
+  </div>
+</Base>

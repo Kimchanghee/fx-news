@@ -1,0 +1,74 @@
+---
+import Base from '../../layouts/Base.astro';
+import Chg from '../../components/Chg.astro';
+import site from '../../site.config';
+import { fitTitle, fitDesc } from '../../lib/seo';
+import { cm, COMMODITIES, PITS, commodityStats, fmtMonth, fmtMonthLong, fmtDate, num, cmDecimals, cmAsOfDate } from '../../lib/data';
+
+const all = COMMODITIES.map(commodityStats);
+const rose = all.filter((s) => (s.y1.change ?? 0) > 0).length;
+const pitAvg = PITS.map((pit) => {
+  const xs = all.filter((s) => s.c.pit === pit).map((s) => s.y1.change).filter((x): x is number => x !== null);
+  return { pit, avg: xs.reduce((a, b) => a + b, 0) / xs.length, n: xs.length };
+});
+const high = [...all].sort((a, b) => (b.pct ?? 0) - (a.pct ?? 0));
+
+const title = fitTitle(['Commodity Board: 22 World Bank Monthly Commodity Prices', 'Commodity Board: World Bank Monthly Prices for 22 Commodities']);
+const description = fitDesc([
+  `Monthly average prices for 22 commodities from the World Bank Pink Sheet (${fmtMonth(cm.latestMonth)}): energy, metals and grains with changes, ranges and history.`,
+  `Monthly prices for 22 commodities from the World Bank Pink Sheet, ${fmtMonth(cm.latestMonth)}: energy, metals, grains and softs with changes, ranges and history.`,
+  `World Bank Pink Sheet monthly prices for 22 commodities in ${fmtMonth(cm.latestMonth)}: energy, metals, grains and softs with monthly and yearly changes, ranges and history.`,
+]);
+const ld = [{
+  '@context': 'https://schema.org', '@type': 'Dataset',
+  name: 'Commodity board: 22 World Bank monthly commodity prices',
+  description: `Monthly average prices for 22 commodities from the World Bank Pink Sheet with computed monthly, yearly and five-year changes and percentile ranks.`,
+  url: site.url + '/commodities/', creator: { '@id': `${site.url}/#org` }, isBasedOn: cm.sourceUrl, license: cm.licenseUrl,
+  temporalCoverage: `${cm.months[0]}/${cm.latestMonth}`, dateModified: cmAsOfDate,
+}];
+---
+<Base title={title} description={description} path="/commodities/" og="commodities" ld={ld} nav="commodities"
+  crumbs={[{ name: 'Board', href: '/' }, { name: 'Commodities', href: '/commodities/' }]}>
+  <p class="kicker">Commodity board · World Bank prices for {fmtMonthLong(cm.latestMonth)}</p>
+  <h1>Which commodity prices are up or down on the year?</h1>
+  <p id="answer" class="lede">
+    In World Bank data for {fmtMonthLong(cm.latestMonth)}, {rose} of {all.length} tracked commodities were priced above their level twelve months earlier and {all.length - rose} below. {pitAvg.map((p, i) => `${i ? (i === pitAvg.length - 1 ? ' and ' : ', ') : ''}${p.pit.toLowerCase()} ${p.avg >= 0 ? '+' : '−'}${Math.abs(p.avg).toFixed(1)}%`).join('')} on average (simple mean of each group’s year-on-year changes).
+  </p>
+
+  <div class="scroll" tabindex="0" role="region" aria-label="All commodities">
+    <table class="q">
+      <caption>Monthly average prices in nominal US dollars. Rank = share of monthly averages since January 2000 at or below the latest month.</caption>
+      <thead><tr><th scope="col">Commodity</th><th scope="col">{fmtMonth(cm.latestMonth)}</th><th scope="col" class="hide-s">Unit</th><th scope="col">m/m</th><th scope="col">y/y</th><th scope="col" class="hide-s">5 yr</th><th scope="col" class="hide-s">Rank since 2000</th></tr></thead>
+      <tbody>
+        {PITS.map((pit) => (
+          <>
+            <tr class="pit"><th colspan="7" scope="colgroup">{pit}</th></tr>
+            {all.filter((s) => s.c.pit === pit).map((s) => (
+              <tr>
+                <th scope="row"><a href={`/commodities/${s.c.slug}/`}>{s.c.name}</a></th>
+                <td class="px">{num(s.latest, cmDecimals(s.latest))}</td>
+                <td class="unit hide-s">{s.unit}</td>
+                <Chg v={s.m1.change} />
+                <Chg v={s.y1.change} />
+                <td class="hide-s"><Chg tag="span" v={s.y5.change} /></td>
+                <td class="hide-s">{(s.pct ?? 0).toFixed(0)}<span class="rk">/100</span></td>
+              </tr>
+            ))}
+          </>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <div class="ledge" aria-hidden="true"></div>
+
+  <h2>Where do prices sit in their own history?</h2>
+  <ol class="notes">
+    <li>Highest against their own record since 2000: {high.slice(0, 3).map((s, i) => <>{i > 0 && (i === 2 ? ' and ' : ', ')}<a href={`/commodities/${s.c.slug}/`}>{s.c.name}</a> ({(s.pct ?? 0).toFixed(0)}/100)</>)}.</li>
+    <li>Lowest against their own record: {high.slice(-3).reverse().map((s, i) => <>{i > 0 && (i === 2 ? ' and ' : ', ')}<a href={`/commodities/${s.c.slug}/`}>{s.c.name}</a> ({(s.pct ?? 0).toFixed(0)}/100)</>)}.</li>
+    <li>Ranks use nominal dollars. Because general prices have risen since 2000, a high nominal rank does not necessarily mean a high price in real terms; see <a href="/guides/nominal-vs-real-commodity-prices/">nominal vs real commodity prices</a>.</li>
+  </ol>
+
+  <h2>About these prices</h2>
+  <p>The World Bank’s Commodity Price Data, widely known as the Pink Sheet, compiles monthly average prices for about 70 commodities from exchanges, trade bodies and price reporters, and is updated in the first days of each month. These are benchmark averages, not the price any buyer paid. Read <a href="/guides/what-is-the-world-bank-pink-sheet/">what the Pink Sheet is</a> and <a href="/guides/commodity-price-units-explained/">how the units work</a>.</p>
+  <p class="meta">Source: <a href={cm.sourceUrl}>World Bank Commodity Price Data (The Pink Sheet)</a> ({cm.workbookNote.replace('Updated on', 'updated')}), retrieved {fmtDate(cm.asOf)}; licensed <a href={cm.licenseUrl}>CC BY 4.0</a>.</p>
+</Base>

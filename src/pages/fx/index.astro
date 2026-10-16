@@ -1,0 +1,83 @@
+---
+import Base from '../../layouts/Base.astro';
+import Chg from '../../components/Chg.astro';
+import site from '../../site.config';
+import { fitTitle, fitDesc } from '../../lib/seo';
+import { quoteDecimals, crossRate } from '../../lib/calc.mjs';
+import { fx, PAIRS, pairStats, curName, fmtDate, num, fxAsOfDate } from '../../lib/data';
+
+const all = PAIRS.map(pairStats);
+const L = fx.dates.length - 1;
+const MX = ['EUR', 'USD', 'JPY', 'GBP', 'CHF', 'AUD', 'CAD', 'CNY'];
+const eur = (c: string) => (c === 'EUR' ? 1 : fx.series[c][L]);
+const vols = [...all].sort((a, b) => (b.vol1y ?? 0) - (a.vol1y ?? 0));
+const usdPairs = all.filter((s) => s.pair.base === 'USD');
+const usdUp = usdPairs.filter((s) => (s.y1.change ?? 0) > 0).length;
+const eurusd = all[0];
+
+const title = fitTitle(['Currency Board: 20 Pairs from ECB Euro Reference Rates', 'Currency Board: 20 Exchange Rates from ECB Reference Data']);
+const description = fitDesc([
+  `Twenty currency pairs from ECB euro reference rates on ${fmtDate(fx.latestDate)}: daily, 1-month, 1-year and 5-year changes, 52-week ranges, volatility and a cross-rate grid.`,
+  `Twenty currency pairs from ECB reference rates: latest fixing, 1-month, 1-year and 5-year changes, 52-week ranges, volatility and a cross-rate grid for majors.`,
+]);
+const ld = [{
+  '@context': 'https://schema.org', '@type': 'Dataset',
+  name: 'Currency board: 20 exchange rates from ECB euro reference rates',
+  description: `Latest ECB euro reference rates and crosses for ${PAIRS.length} pairs with computed changes, ranges and volatility.`,
+  url: site.url + '/fx/', creator: { '@id': `${site.url}/#org` }, isBasedOn: fx.sourceUrl,
+  temporalCoverage: `${fx.dates[0]}/${fx.latestDate}`, dateModified: fxAsOfDate,
+}];
+---
+<Base title={title} description={description} path="/fx/" og="fx" ld={ld} nav="fx"
+  crumbs={[{ name: 'Board', href: '/' }, { name: 'Currencies', href: '/fx/' }]}>
+  <p class="kicker">Currency board · ECB fixing of {fmtDate(fx.latestDate)}</p>
+  <h1>How have major exchange rates moved against the ECB record?</h1>
+  <p id="answer" class="lede">
+    On {fmtDate(fx.latestDate)} the euro fixed at {num(eurusd.latest, 4)} US dollars. Of the {usdPairs.length} dollar-based pairs below, the dollar is stronger than a year ago in {usdUp} and weaker in {usdPairs.length - usdUp}. {vols[0].pair.label} was the most volatile pair over the year ({vols[0].vol1y?.toFixed(1)}% annualised).
+  </p>
+
+  <div class="scroll" tabindex="0" role="region" aria-label="All currency pairs">
+    <table class="q">
+      <caption>Changes are measured between ECB fixings. Vol. = annualised volatility of daily log changes over the past 12 months. Range: 52-week low to high.</caption>
+      <thead><tr><th scope="col">Pair</th><th scope="col">Rate</th><th scope="col">Day</th><th scope="col" class="hide-s">1 mo</th><th scope="col">1 yr</th><th scope="col" class="hide-s">5 yr</th><th scope="col" class="hide-s">Vol.</th><th scope="col" class="hide-s">52-wk range</th></tr></thead>
+      <tbody>
+        {all.map((s) => (
+          <tr>
+            <th scope="row"><a href={`/fx/${s.pair.slug}/`}>{s.pair.label}</a><small>{curName(s.pair.base)} in {curName(s.pair.quote)}</small></th>
+            <td class="px">{num(s.latest, quoteDecimals(s.latest))}</td>
+            <Chg v={s.dayChange} d={2} />
+            <td class="hide-s"><Chg tag="span" v={s.m1.change} /></td>
+            <Chg v={s.y1.change} />
+            <td class="hide-s"><Chg tag="span" v={s.y5.change} /></td>
+            <td class="hide-s">{s.vol1y?.toFixed(1)}%</td>
+            <td class="hide-s"><span class="rng"><i style={`left:${(s.range.pos ?? 0).toFixed(1)}%`}></i></span><span class="sr">{`${(s.range.pos ?? 0).toFixed(0)}% of the 52-week range`}</span></td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <div class="ledge" aria-hidden="true"></div>
+
+  <h2>Cross-rate grid</h2>
+  <p>Each cell shows how many units of the column currency one unit of the row currency bought at the {fmtDate(fx.latestDate)} fixing, derived from the ECB euro rates. Reading across a row prices one currency in the others; the diagonal is 1.</p>
+  <div class="scroll" tabindex="0" role="region" aria-label="Cross-rate grid">
+    <table class="ledger">
+      <thead><tr><th scope="col"><span class="sr">1 unit of</span></th>{MX.map((c) => <th scope="col">{c}</th>)}</tr></thead>
+      <tbody>
+        {MX.map((r) => (
+          <tr><th scope="row">1 {r}</th>{MX.map((c) => { const v = crossRate(eur(r), eur(c)); return <td>{r === c ? '1' : num(v, quoteDecimals(v))}</td>; })}</tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Which pairs moved most over the year?</h2>
+  <ol class="notes">
+    {vols.slice(0, 3).map((s) => <li><a href={`/fx/${s.pair.slug}/`}>{s.pair.label}</a>: {s.vol1y?.toFixed(1)}% annualised volatility; 12-month change <Chg tag="span" v={s.y1.change} />.</li>)}
+    {vols.slice(-2).map((s) => <li><a href={`/fx/${s.pair.slug}/`}>{s.pair.label}</a> was among the calmest at {s.vol1y?.toFixed(1)}%; {s.pair.blurb}</li>)}
+  </ol>
+
+  <h2>About these rates</h2>
+  <p>The European Central Bank publishes reference rates for about thirty currencies against the euro on every TARGET business day, around 14:10 CET. Pairs that do not include the euro are computed here as crosses of two published rates. Reference rates are for information; banks, card networks and brokers use their own rates. For a past-date conversion use the <a href="/tools/historical-converter/">historical converter</a>; for how crosses work see <a href="/guides/how-to-calculate-a-cross-rate/">calculating a cross rate</a>.</p>
+  <p class="meta">Source: <a href={fx.sourceUrl}>European Central Bank, euro foreign exchange reference rates</a>, retrieved {fmtDate(fx.asOf)}.</p>
+</Base>

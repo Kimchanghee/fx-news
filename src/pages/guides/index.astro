@@ -1,0 +1,29 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { fitTitle, fitDesc } from '../../lib/seo';
+
+const guides = (await getCollection('guides', (g) => g.data.status === 'published')).sort((a, b) => a.data.title.localeCompare(b.data.title));
+const shelves = ['Currencies', 'Commodities', 'Method'] as const;
+const title = fitTitle(['Almanac Guides: Reading Exchange Rates and Commodity Prices']);
+const description = fitDesc([
+  'Plain-language guides to ECB reference rates, cross rates, World Bank commodity prices, benchmarks, units, volatility and percent changes, sourced and dated.',
+]);
+---
+<Base title={title} description={description} path="/guides/" og="guides" nav="guides"
+  crumbs={[{ name: 'Board', href: '/' }, { name: 'Almanac', href: '/guides/' }]}>
+  <p class="kicker">The almanac · {guides.length} guides</p>
+  <h1>How do you read exchange-rate and commodity-price records?</h1>
+  <p id="answer" class="lede">These guides explain where the numbers on the <a href="/fx/">currency board</a> and <a href="/commodities/">commodity board</a> come from, what they measure and how to compare them over time. Each one names its official sources and the date its figures were checked.</p>
+  {shelves.map((sh) => {
+    const list = guides.filter((g) => g.data.shelf === sh);
+    return list.length > 0 && (
+      <section aria-labelledby={`sh-${sh}`}>
+        <h2 id={`sh-${sh}`}>{sh}</h2>
+        <ul class="index-list">
+          {list.map((g) => <li><a href={`/guides/${g.id}/`}>{g.data.title}</a><p>{g.data.description}</p></li>)}
+        </ul>
+      </section>
+    );
+  })}
+</Base>

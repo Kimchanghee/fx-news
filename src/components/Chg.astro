@@ -1,0 +1,11 @@
+---
+// A signed percentage change cell with direction marker (colour is never the only cue).
+interface Props { v: number | null | undefined; d?: number; tag?: 'td' | 'span' }
+const { v, d = 1, tag = 'td' } = Astro.props;
+const ok = v !== null && v !== undefined && Number.isFinite(v);
+const cls = !ok ? 'flat' : v! > 0.0001 ? 'up' : v! < -0.0001 ? 'down' : 'flat';
+const mark = !ok ? '' : v! > 0.0001 ? '▲' : v! < -0.0001 ? '▼' : '';
+const txt = !ok ? '—' : `${mark ? mark + ' ' : ''}${v! > 0 ? '+' : v! < 0 ? '−' : ''}${Math.abs(v!).toFixed(d)}%`;
+const Tag = tag;
+---
+<Tag class={cls}>{txt}</Tag>

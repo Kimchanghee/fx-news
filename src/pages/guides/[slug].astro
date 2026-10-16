@@ -1,0 +1,64 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, render, type CollectionEntry } from 'astro:content';
+import site from '../../site.config';
+import { fitTitle, fitDesc } from '../../lib/seo';
+import { fmtDate, PAIRS, COMMODITIES } from '../../lib/data';
+
+export async function getStaticPaths() {
+  const all = await getCollection('guides', (g) => g.data.status === 'published');
+  return all.map((g) => ({ params: { slug: g.id }, props: { g, all } }));
+}
+const { g, all } = Astro.props as { g: CollectionEntry<'guides'>; all: CollectionEntry<'guides'>[] };
+const { Content } = await render(g);
+const d = g.data;
+const path = `/guides/${g.id}/`;
+const iso = (x: Date) => x.toISOString().slice(0, 10);
+const title = fitTitle([d.seoTitle ?? d.title, `${d.title} | Almanac`, `${d.title} | FX & Commodity Almanac`]);
+const description = fitDesc([d.description]);
+const related = d.related.map((r) => all.find((x) => x.id === r)).filter(Boolean) as CollectionEntry<'guides'>[];
+const pageLinks = d.pages.filter((p) => !p.endsWith('*'));
+const label = (p: string) => {
+  const [kind, slug] = p.split('/');
+  const hit = kind === 'fx' ? PAIRS.find((x) => x.slug === slug)?.label : COMMODITIES.find((x) => x.slug === slug)?.name;
+  if (!hit) throw new Error(`guide ${g.id}: unknown page ${p}`);
+  return hit;
+};
+const ld: object[] = [{
+  '@context': 'https://schema.org', '@type': 'Article', headline: d.title, description: d.description,
+  datePublished: iso(d.datePublished), dateModified: iso(d.updated), mainEntityOfPage: site.url + path,
+  author: { '@id': `${site.url}/#org` }, publisher: { '@id': `${site.url}/#org` }, image: `${site.url}/og/guide-${g.id}.png`,
+  citation: d.sources.map((s) => s.url),
+}];
+if (d.faq.length) ld.push({
+  '@context': 'https://schema.org', '@type': 'FAQPage',
+  mainEntity: d.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
+---
+<Base title={title} description={description} path={path} og={`guide-${g.id}`} ld={ld} nav="guides" ogType="article"
+  crumbs={[{ name: 'Board', href: '/' }, { name: 'Almanac', href: '/guides/' }, { name: d.title, href: path }]}>
+  <p class="kicker">Almanac · {d.shelf}</p>
+  <h1>{d.title}</h1>
+  <p class="meta">Updated {fmtDate(iso(d.updated))} · figures checked against data as of {d.data_asof} · first published {fmtDate(iso(d.datePublished))}</p>
+  <div class="page">
+    <article class="prose">
+      <p id="answer" class="lede">{d.answer}</p>
+      <Content />
+      {d.faq.length > 0 && (
+        <section aria-labelledby="faq">
+          <h2 id="faq">Questions readers ask</h2>
+          <dl class="faq">{d.faq.map((f) => <><dt>{f.q}</dt><dd>{f.a}</dd></>)}</dl>
+        </section>
+      )}
+      <h2>Sources</h2>
+      <ol class="sources">{d.sources.map((s) => <li><a href={s.url}>{s.name}</a></li>)}</ol>
+      <p class="meta">This guide explains published data and is not financial advice. Corrections: <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>.</p>
+    </article>
+    <aside class="rail" aria-label="Related">
+      {pageLinks.length > 0 && <><h2>On the board</h2><ul>{pageLinks.map((p) => <li><a href={`/${p}/`}>{label(p)}</a></li>)}</ul></>}
+      {related.length > 0 && <><h2>Read next</h2><ul>{related.map((r) => <li><a href={`/guides/${r.id}/`}>{r.data.title}</a></li>)}</ul></>}
+      <h2>Tools</h2>
+      <ul><li><a href="/tools/historical-converter/">Historical converter</a></li><li><a href="/tools/percent-change/">Percent change</a></li></ul>
+    </aside>
+  </div>
+</Base>

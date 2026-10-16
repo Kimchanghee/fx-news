@@ -1,0 +1,140 @@
+---
+import Base from '../layouts/Base.astro';
+import Chg from '../components/Chg.astro';
+import { getCollection } from 'astro:content';
+import site from '../site.config';
+import { fitTitle, fitDesc } from '../lib/seo';
+import { quoteDecimals } from '../lib/calc.mjs';
+import {
+  fx, cm, PAIRS, MAJORS, COMMODITIES, PITS, pairBySlug, pairStats, commodityStats, fmtDate, fmtMonth, fmtMonthLong, num, cmDecimals, fxAsOfDate,
+} from '../lib/data';
+
+const majors = MAJORS.map((s) => pairStats(pairBySlug(s)));
+const allPairs = PAIRS.map(pairStats);
+const cms = COMMODITIES.map(commodityStats);
+const eurusd = majors[0];
+const brent = cms.find((c) => c.c.slug === 'brent-crude-oil')!;
+const gold = cms.find((c) => c.c.slug === 'gold')!;
+
+// computed almanac notes
+const byY1 = [...allPairs].sort((a, b) => Math.abs(b.y1.change ?? 0) - Math.abs(a.y1.change ?? 0));
+const topFx = byY1[0];
+const calmFx = [...allPairs].sort((a, b) => (a.vol1y ?? 99) - (b.vol1y ?? 99))[0];
+const wildFx = [...allPairs].sort((a, b) => (b.vol1y ?? 0) - (a.vol1y ?? 0))[0];
+const cmY1 = [...cms].sort((a, b) => (b.y1.change ?? -1e9) - (a.y1.change ?? -1e9));
+const cmUp = cmY1[0], cmDown = cmY1[cmY1.length - 1];
+const cmM1 = [...cms].sort((a, b) => Math.abs(b.m1.change ?? 0) - Math.abs(a.m1.change ?? 0))[0];
+const atHigh = cms.filter((c) => c.latest >= c.r60.hi);
+const nearHigh = cms.filter((c) => (c.pct ?? 0) >= 90).map((c) => c.c.short);
+const guides = (await getCollection('guides', (g) => g.data.status === 'published')).sort((a, b) => +b.data.updated - +a.data.updated);
+const tools = [
+  { href: '/tools/historical-converter/', name: 'Historical currency converter', text: 'Convert any amount between 25 currencies at the ECB reference rate for a past date since January 2016.' },
+  { href: '/tools/percent-change/', name: 'Percent change calculator', text: 'Percentage change, log return and annualised rate between two prices or two fixing dates.' },
+];
+
+const title = fitTitle([
+  'FX & Commodity Almanac: ECB Rates and World Commodity Prices',
+  'FX & Commodity Almanac: Reference Rates and Commodity Prices',
+]);
+const description = fitDesc([
+  `ECB euro reference rates to ${fmtDate(fx.latestDate)} and World Bank commodity prices for ${fmtMonthLong(cm.latestMonth)}, with ranges, volatility and history since 2016.`,
+  `ECB euro reference exchange rates and World Bank monthly commodity prices on one board, with 52-week ranges, volatility and history. Not trading signals.`,
+]);
+const ld = [{
+  '@context': 'https://schema.org', '@type': 'Dataset',
+  name: 'FX & Commodity Almanac board: ECB reference rates and World Bank monthly commodity prices',
+  description: 'Latest ECB euro foreign exchange reference rates (and crosses derived from them) and World Bank Pink Sheet monthly commodity prices, with computed changes and ranges.',
+  url: site.url + '/', creator: { '@id': `${site.url}/#org` },
+  isBasedOn: [fx.sourceUrl, cm.sourceUrl], license: cm.licenseUrl,
+  temporalCoverage: `${fx.dates[0]}/${fx.latestDate}`, dateModified: fxAsOfDate,
+}];
+---
+<Base title={title} description={description} path="/" og="home" ld={ld} nav="board">
+  <p class="kicker">The board · chalked {fmtDate(fx.asOf)}</p>
+  <h1>What do the latest reference exchange rates and commodity prices show?</h1>
+  <p id="answer" class="lede">
+    On {fmtDate(eurusd.latestDate)} the European Central Bank fixed the euro at {num(eurusd.latest, 4)} US dollars, {Math.abs(eurusd.y1.change ?? 0).toFixed(1)}% {(eurusd.y1.change ?? 0) >= 0 ? 'above' : 'below'} a year earlier. In World Bank data for {fmtMonthLong(brent.latestMonth)}, Brent crude averaged ${num(brent.latest, 2)} a barrel and gold ${num(gold.latest, 0)} a troy ounce. These are official reference figures, not dealing quotes.
+  </p>
+
+  <div class="boards">
+    <section class="board" aria-labelledby="fx-board">
+      <div class="board-h">
+        <h2 id="fx-board">Currencies</h2>
+        <p>ECB reference · {fmtDate(fx.latestDate)}</p>
+      </div>
+      <div class="scroll" tabindex="0" role="region" aria-label="Currency board">
+        <table class="q">
+          <caption>Rates set around 14:10 CET. Non-euro pairs are crosses of two ECB rates. Range bar: last 52 weeks, low to high.</caption>
+          <thead><tr><th scope="col">Pair</th><th scope="col">Rate</th><th scope="col">Day</th><th scope="col">1 yr</th><th scope="col" class="hide-s">52-wk range</th></tr></thead>
+          <tbody>
+            {majors.map((s) => (
+              <tr>
+                <th scope="row"><a href={`/fx/${s.pair.slug}/`}>{s.pair.label}</a></th>
+                <td class="px">{num(s.latest, quoteDecimals(s.latest))}</td>
+                <Chg v={s.dayChange} d={2} />
+                <Chg v={s.y1.change} />
+                <td class="hide-s"><span class="rng" title={`Low ${num(s.range.lo, quoteDecimals(s.latest))} · high ${num(s.range.hi, quoteDecimals(s.latest))}`}><i style={`left:${(s.range.pos ?? 0).toFixed(1)}%`}></i></span><span class="sr">{`${(s.range.pos ?? 0).toFixed(0)}% of the way from the 52-week low to the high`}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <div class="ledge" aria-hidden="true"></div>
+      <p class="meta">All {PAIRS.length} pairs, history and volatility: <a href="/fx/">currency board</a>.</p>
+    </section>
+
+    <section class="board" aria-labelledby="cm-board">
+      <div class="board-h">
+        <h2 id="cm-board">Commodities</h2>
+        <p>World Bank · {fmtMonth(cm.latestMonth)} average</p>
+      </div>
+      <div class="scroll" tabindex="0" role="region" aria-label="Commodity board">
+        <table class="q">
+          <caption>Monthly average prices in US dollars from the World Bank Pink Sheet ({cm.workbookNote.replace('Updated on', 'updated')}).</caption>
+          <thead><tr><th scope="col">Commodity</th><th scope="col">Price</th><th scope="col" class="hide-s">Unit</th><th scope="col">m/m</th><th scope="col">y/y</th></tr></thead>
+          <tbody>
+            {PITS.map((pit) => (
+              <>
+                <tr class="pit"><th colspan="5" scope="colgroup">{pit}</th></tr>
+                {cms.filter((c) => c.c.pit === pit).map((c) => (
+                  <tr>
+                    <th scope="row"><a href={`/commodities/${c.c.slug}/`}>{c.c.short}</a></th>
+                    <td class="px">{num(c.latest, cmDecimals(c.latest))}</td>
+                    <td class="unit hide-s">{c.unit}</td>
+                    <Chg v={c.m1.change} />
+                    <Chg v={c.y1.change} />
+                  </tr>
+                ))}
+              </>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <div class="ledge" aria-hidden="true"></div>
+      <p class="meta">Each row links to 25 years of monthly history: <a href="/commodities/">commodity board</a>.</p>
+    </section>
+  </div>
+
+  <h2>Almanac notes for this board</h2>
+  <ol class="notes">
+    <li>Largest 12-month currency move: <a href={`/fx/${topFx.pair.slug}/`}>{topFx.pair.label}</a> is {Math.abs(topFx.y1.change ?? 0).toFixed(1)}% {(topFx.y1.change ?? 0) >= 0 ? 'higher' : 'lower'} than on {fmtDate(topFx.y1.date)} ({num(topFx.y1.value, quoteDecimals(topFx.latest))} → {num(topFx.latest, quoteDecimals(topFx.latest))}).</li>
+    <li>Calmest and busiest pairs over the past year: <a href={`/fx/${calmFx.pair.slug}/`}>{calmFx.pair.label}</a> had annualised volatility of {calmFx.vol1y?.toFixed(1)}%, against {wildFx.vol1y?.toFixed(1)}% for <a href={`/fx/${wildFx.pair.slug}/`}>{wildFx.pair.label}</a>.</li>
+    <li>Biggest 12-month commodity moves: <a href={`/commodities/${cmUp.c.slug}/`}>{cmUp.c.name}</a> {(cmUp.y1.change ?? 0) >= 0 ? 'rose' : 'fell'} {Math.abs(cmUp.y1.change ?? 0).toFixed(1)}% from {fmtMonth(cmUp.y1.month)}; <a href={`/commodities/${cmDown.c.slug}/`}>{cmDown.c.name}</a> {(cmDown.y1.change ?? 0) >= 0 ? 'rose' : 'fell'} {Math.abs(cmDown.y1.change ?? 0).toFixed(1)}%.</li>
+    <li>Largest one-month commodity move: <a href={`/commodities/${cmM1.c.slug}/`}>{cmM1.c.name}</a>, {(cmM1.m1.change ?? 0) >= 0 ? 'up' : 'down'} {Math.abs(cmM1.m1.change ?? 0).toFixed(1)}% from {fmtMonth(cmM1.m1.month)} to {fmtMonth(cmM1.latestMonth)}.</li>
+    <li>{atHigh.length ? <>At a five-year monthly high in {fmtMonth(cm.latestMonth)}: {atHigh.map((c, i) => <>{i > 0 && ', '}<a href={`/commodities/${c.c.slug}/`}>{c.c.name}</a></>)}.</> : <>No tracked commodity set a new five-year monthly high in {fmtMonth(cm.latestMonth)}.</>} {nearHigh.length ? `In the top tenth of their own monthly history since January 2000: ${nearHigh.join(', ')}.` : ''}</li>
+  </ol>
+  <p class="meta">Notes are computed automatically from the snapshot each time the site is rebuilt; they describe the record and do not predict anything. See <a href="/methodology/">methodology</a>.</p>
+
+  <div class="ad" aria-hidden="true"></div>
+
+  <h2>Tools</h2>
+  <ul class="index-list">
+    {tools.map((t) => <li><a href={t.href}>{t.name}</a><p>{t.text}</p></li>)}
+  </ul>
+
+  <h2>From the almanac</h2>
+  <ul class="index-list">
+    {guides.slice(0, 6).map((g) => <li><a href={`/guides/${g.id}/`}>{g.data.title}</a><p>{g.data.description}</p></li>)}
+  </ul>
+  <p><a href="/guides/">All {guides.length} almanac guides</a></p>
+</Base>

@@ -1,0 +1,126 @@
+---
+import Base from '../../layouts/Base.astro';
+import site from '../../site.config';
+import { fitTitle, fitDesc } from '../../lib/seo';
+import { convert, crossRate, quoteDecimals, lastOnOrBefore } from '../../lib/calc.mjs';
+import { fx, CURRENCY_CODES, curName, fmtDate, num, minusDate } from '../../lib/data';
+
+const L = fx.dates.length - 1;
+const eur = (c: string, i: number) => (c === 'EUR' ? 1 : fx.series[c][i]);
+// Build-time worked example so the page carries a real answer without JavaScript.
+const exIdx = Math.max(0, lastOnOrBefore(fx.dates, minusDate(fx.latestDate, 1)));
+const exAmt = 1000;
+const exThen = convert(exAmt, eur('USD', exIdx), eur('EUR', exIdx))!;
+const exNow = convert(exAmt, eur('USD', L), eur('EUR', L))!;
+const rateThen = crossRate(eur('USD', exIdx), eur('EUR', exIdx))!;
+const rateNow = crossRate(eur('USD', L), eur('EUR', L))!;
+
+const title = fitTitle(['Historical Currency Converter: ECB Rates for Any Past Date', 'Historical Currency Converter Using ECB Reference Rates']);
+const description = fitDesc([
+  `Convert an amount between 25 currencies at the ECB reference rate for any business day since January 2016, with the date used, the rate and today's rate.`,
+]);
+const ld = [{
+  '@context': 'https://schema.org', '@type': 'WebApplication', name: 'Historical currency converter', url: `${site.url}/tools/historical-converter/`,
+  applicationCategory: 'FinanceApplication', operatingSystem: 'Any', isAccessibleForFree: true,
+  description: 'Converts amounts between 25 currencies at the ECB euro reference rate published for a chosen past date (January 2016 onward).',
+  publisher: { '@id': `${site.url}/#org` },
+}];
+---
+<Base title={title} description={description} path="/tools/historical-converter/" og="tool-converter" ld={ld} nav="tools"
+  crumbs={[{ name: 'Board', href: '/' }, { name: 'Tools', href: '/tools/' }, { name: 'Historical converter', href: '/tools/historical-converter/' }]}>
+  <p class="kicker">Tool · ECB reference rates, {fmtDate(fx.dates[0])} – {fmtDate(fx.latestDate)}</p>
+  <h1>What was an amount worth in another currency on a past date?</h1>
+  <p id="answer" class="lede">
+    Pick two currencies and a date: the converter applies the ECB euro reference rates published that day, or the previous fixing if the ECB did not publish (weekends and TARGET holidays). For example, {num(exAmt, 0)} USD was {num(exThen, 2)} EUR on {fmtDate(fx.dates[exIdx])} and {num(exNow, 2)} EUR on {fmtDate(fx.latestDate)}.
+  </p>
+
+  <form class="tool" id="conv" novalidate>
+    <div class="fields">
+      <div><label for="amt">Amount</label><input id="amt" name="amount" inputmode="decimal" autocomplete="off" value="1000" aria-describedby="amt-h" required /><p class="hint" id="amt-h">Up to 1 trillion; commas allowed.</p></div>
+      <div><label for="from">From</label><select id="from" name="from">{CURRENCY_CODES.map((c) => <option value={c} selected={c === 'USD'}>{c} · {curName(c)}</option>)}</select></div>
+      <div><label for="to">To</label><select id="to" name="to">{CURRENCY_CODES.map((c) => <option value={c} selected={c === 'EUR'}>{c} · {curName(c)}</option>)}</select></div>
+      <div><label for="date">Date</label><input id="date" name="date" type="date" min={fx.dates[0]} max={fx.latestDate} value={fx.dates[exIdx]} aria-describedby="date-h" required /><p class="hint" id="date-h">{fmtDate(fx.dates[0])} to {fmtDate(fx.latestDate)}.</p></div>
+    </div>
+    <p style="margin-top:1rem"><button type="submit">Convert</button></p>
+    <p class="err" id="err" role="alert"></p>
+    <div class="out" id="out" aria-live="polite">
+      <p class="state">Example (calculated when this page was built):</p>
+      <p class="res">{num(exThen, 2)} EUR</p>
+      <p>{num(exAmt, 0)} USD on {fmtDate(fx.dates[exIdx])} at 1 USD = {num(rateThen, quoteDecimals(rateThen))} EUR. At the latest fixing ({fmtDate(fx.latestDate)}, 1 USD = {num(rateNow, quoteDecimals(rateNow))} EUR) the same dollars were worth {num(exNow, 2)} EUR.</p>
+    </div>
+  </form>
+  <p class="meta">Data: <a href={fx.sourceUrl}>ECB euro foreign exchange reference rates</a>, snapshot retrieved {fmtDate(fx.asOf)}. Conversions between two non-euro currencies use the cross of their euro rates. The ECB publishes these rates for information only; they are not the rates a bank or card provider will apply.</p>
+
+  <h2>How does the converter pick the rate?</h2>
+  <ol class="notes">
+    <li>It looks up the ECB fixing for the date you choose. If there is none (weekend or a TARGET holiday such as 25 December), it uses the most recent earlier fixing and says so.</li>
+    <li>Each currency is published as units per one euro. Converting A to B multiplies the amount by (B per euro) ÷ (A per euro). See <a href="/guides/how-to-calculate-a-cross-rate/">how to calculate a cross rate</a>.</li>
+    <li>Results are shown unrounded to two decimals; the rate is shown with enough digits to reproduce the result. For records, accounts and tax, check which official rate your authority requires — read <a href="/guides/which-exchange-rate-to-use-for-past-transactions/">which exchange rate to use for past transactions</a>.</li>
+  </ol>
+</Base>
+
+<script>
+  import { convert, crossRate, lastOnOrBefore, quoteDecimals, pctChange } from '../../lib/calc.mjs';
+  type Hist = { asOf: string; latestDate: string; dates: string[]; rates: Record<string, (number | null)[]> };
+  const form = document.getElementById('conv') as HTMLFormElement;
+  const out = document.getElementById('out')!;
+  const err = document.getElementById('err')!;
+  const amtEl = document.getElementById('amt') as HTMLInputElement;
+  const dateEl = document.getElementById('date') as HTMLInputElement;
+  const fromEl = document.getElementById('from') as HTMLSelectElement;
+  const toEl = document.getElementById('to') as HTMLSelectElement;
+  let hist: Hist | null = null;
+  const fmt = (v: number, d: number) => v.toLocaleString('en-US', { minimumFractionDigits: d, maximumFractionDigits: d });
+  const day = (iso: string) => new Date(iso + 'T00:00:00Z').toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' });
+  const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+
+  const q = new URLSearchParams(location.search);
+  for (const [k, el] of [['from', fromEl], ['to', toEl]] as const) { const v = q.get(k); if (v && [...el.options].some((o) => o.value === v)) el.value = v; }
+  if (q.get('date') && /^\d{4}-\d{2}-\d{2}$/.test(q.get('date')!)) dateEl.value = q.get('date')!;
+  if (q.get('amount')) amtEl.value = q.get('amount')!;
+
+  async function load(): Promise<Hist> {
+    if (hist) return hist;
+    out.innerHTML = '<p class="state">Loading ECB rate history…</p>';
+    const r = await fetch('/data/fx-history.json');
+    if (!r.ok) throw new Error('history unavailable');
+    hist = (await r.json()) as Hist;
+    return hist;
+  }
+  const rate = (h: Hist, c: string, i: number) => (c === 'EUR' ? 1 : h.rates[c]?.[i] ?? null);
+
+  async function run(e?: Event) {
+    e?.preventDefault();
+    err.textContent = '';
+    amtEl.removeAttribute('aria-invalid'); dateEl.removeAttribute('aria-invalid');
+    const amount = Number(amtEl.value.replace(/[,\s]/g, ''));
+    if (!amtEl.value.trim() || !Number.isFinite(amount) || amount < 0 || amount > 1e12) {
+      amtEl.setAttribute('aria-invalid', 'true'); err.textContent = 'Enter an amount between 0 and 1,000,000,000,000.'; amtEl.focus(); return;
+    }
+    const date = dateEl.value;
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(date) || date < dateEl.min || date > dateEl.max) {
+      dateEl.setAttribute('aria-invalid', 'true'); err.textContent = `Choose a date between ${day(dateEl.min)} and ${day(dateEl.max)}.`; dateEl.focus(); return;
+    }
+    let h: Hist;
+    try { h = await load(); } catch { out.innerHTML = '<p class="state">The rate history could not be loaded. Check your connection and try again; the example above was computed from the same ECB data.</p>'; return; }
+    const i = lastOnOrBefore(h.dates, date);
+    const L = h.dates.length - 1;
+    const from = fromEl.value, to = toEl.value;
+    const r = crossRate(rate(h, from, i), rate(h, to, i));
+    const res = convert(amount, rate(h, from, i), rate(h, to, i));
+    if (i < 0 || r === null || res === null) { out.innerHTML = '<p class="state">No ECB rate is available for that currency on that date.</p>'; return; }
+    const rNow = crossRate(rate(h, from, L), rate(h, to, L))!;
+    const used = h.dates[i];
+    const note = used !== date ? `<p>No ECB fixing on ${day(date)} (weekend or TARGET holiday); the previous fixing of <strong>${day(used)}</strong> was used.</p>` : '';
+    const ch = pctChange(r, rNow)!;
+    out.innerHTML = `<p class="state">${esc(fmt(amount, 2))} ${from} on ${day(used)}</p><p class="res">${fmt(res, 2)} ${to}</p>
+      <p>Rate: 1 ${from} = ${fmt(r, quoteDecimals(r))} ${to} (1 ${to} = ${fmt(1 / r, quoteDecimals(1 / r))} ${from}).</p>${note}
+      <p>At the latest fixing (${day(h.latestDate)}) 1 ${from} = ${fmt(rNow, quoteDecimals(rNow))} ${to}, ${Math.abs(ch).toFixed(2)}% ${ch >= 0 ? 'more' : 'less'} ${to} per ${from} than on ${day(used)}.</p>`;
+    const u = new URL(location.href);
+    u.search = new URLSearchParams({ amount: String(amount), from, to, date }).toString();
+    history.replaceState(null, '', u);
+    (window as any).gtag?.('event', 'tool_used', { tool: 'historical_converter', pair: `${from}${to}` });
+  }
+  form.addEventListener('submit', run);
+  if (q.has('from') || q.has('date')) run();
+</script>

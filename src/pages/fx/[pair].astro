@@ -1,0 +1,151 @@
+---
+import Base from '../../layouts/Base.astro';
+import Chg from '../../components/Chg.astro';
+import { getCollection } from 'astro:content';
+import site from '../../site.config';
+import { fitTitle, fitDesc } from '../../lib/seo';
+import { quoteDecimals } from '../../lib/calc.mjs';
+import { lineChart, downsample } from '../../lib/chart';
+import { fx, PAIRS, pairStats, isDirect, curName, fmtDate, num, fxAsOfDate, type Pair } from '../../lib/data';
+
+export function getStaticPaths() {
+  return PAIRS.map((p) => ({ params: { pair: p.slug }, props: { p } }));
+}
+const { p } = Astro.props as { p: Pair };
+const s = pairStats(p);
+const d = quoteDecimals(s.latest);
+const L = fx.dates.length - 1;
+const y1Start = fx.dates.indexOf(s.y1.date);
+const chart1 = lineChart({
+  labels: fx.dates.slice(y1Start), values: s.series.slice(y1Start), decimals: d,
+  title: `${p.label} daily ECB reference rate, past 12 months`,
+  desc: `Daily ${p.label} from ${fmtDate(s.y1.date)} (${num(s.y1.value, d)}) to ${fmtDate(s.latestDate)} (${num(s.latest, d)}); 52-week high ${num(s.range.hi, d)} on ${fmtDate(s.range.hiD)}, low ${num(s.range.lo, d)} on ${fmtDate(s.range.loD)}.`,
+});
+const ds = downsample(fx.dates, s.series, 520);
+const chartAll = lineChart({
+  labels: ds.labels, values: ds.values, decimals: d,
+  title: `${p.label} ECB reference rate since January 2016`,
+  desc: `${p.label} from ${num(s.start.value, d)} on ${fmtDate(s.start.date)} to ${num(s.latest, d)} on ${fmtDate(s.latestDate)}; highest ${num(s.all.hi, d)} on ${fmtDate(s.all.hiD)}, lowest ${num(s.all.lo, d)} on ${fmtDate(s.all.loD)}.`,
+});
+const dir = (v: number | null) => ((v ?? 0) >= 0 ? 'above' : 'below');
+const baseName = curName(p.base), quoteName = curName(p.quote);
+const volVsAvg = s.vol1y !== null && s.avgVol !== null ? s.vol1y / s.avgVol : null;
+const inv = 1 / s.latest;
+const volNote = volVsAvg === null ? 'has no long-run volatility comparison yet'
+  : `${volVsAvg > 1.15 ? 'has been livelier than usual' : volVsAvg < 0.85 ? 'has been calmer than usual' : 'has moved about as much as usual'}: ${s.vol1y!.toFixed(1)}% annualised volatility against a ${s.avgVol!.toFixed(1)}% average for full calendar years since 2016`;
+const eurB = p.base === 'EUR' ? 1 : fx.series[p.base][L]!;
+const eurQ = fx.series[p.quote][L]!;
+const related = PAIRS.filter((q) => q.slug !== p.slug && (q.base === p.base || q.quote === p.quote || q.base === p.quote || q.quote === p.base)).slice(0, 6);
+const guides = (await getCollection('guides', (g) => g.data.status === 'published' && (g.data.pages.includes(`fx/${p.slug}`) || g.data.pages.includes('fx/*'))));
+const nick = p.nick ? ` (“${p.nick}”)` : '';
+const yrs = [...s.years].reverse();
+
+const title = fitTitle([
+  `${p.label} Reference Rate: History, 52-Week Range, Volatility`,
+  `${p.label} Exchange Rate History, 52-Week Range and Volatility`,
+  `${p.label} Rate History: ECB Fixings, Ranges and Volatility`,
+  `${p.label} History: ECB Reference Rate, Range and Volatility`,
+]);
+const description = fitDesc([
+  `${p.label} was ${num(s.latest, d)} at the ECB fixing on ${fmtDate(s.latestDate)}. Daily history since 2016, 52-week range, yearly highs and lows, volatility and largest moves.`,
+  `${p.label} at ${num(s.latest, d)} on ${fmtDate(s.latestDate)} (ECB reference). Daily history since 2016, 52-week range, year-by-year highs and lows, volatility and big moves.`,
+  `${p.label} ECB reference rate: ${num(s.latest, d)} on ${fmtDate(s.latestDate)}. History since 2016, 52-week range, highs and lows by year, volatility, largest daily moves.`,
+  `${p.label} ECB reference rate ${num(s.latest, d)} on ${fmtDate(s.latestDate)}: daily history since 2016, 52-week range, yearly highs and lows, volatility and the largest daily moves.`,
+]);
+const path = `/fx/${p.slug}/`;
+const ld = [{
+  '@context': 'https://schema.org', '@type': 'Dataset',
+  name: `${p.label} daily exchange rate from ECB euro reference rates`,
+  description: `Daily ${p.label} (${quoteName} per ${baseName}) ${isDirect(p) ? 'as published by the ECB' : 'computed as a cross of two ECB euro reference rates'}, ${fmtDate(fx.dates[0])} to ${fmtDate(s.latestDate)}, with computed ranges and volatility.`,
+  url: site.url + path, creator: { '@id': `${site.url}/#org` }, isBasedOn: fx.sourceUrl,
+  temporalCoverage: `${fx.dates[0]}/${s.latestDate}`, dateModified: fxAsOfDate,
+  variableMeasured: `${p.quote} per 1 ${p.base}`,
+}];
+---
+<Base title={title} description={description} path={path} og={`fx-${p.slug}`} ld={ld} nav="fx"
+  crumbs={[{ name: 'Board', href: '/' }, { name: 'Currencies', href: '/fx/' }, { name: p.label, href: path }]}>
+  <p class="kicker">Currency pair{nick} · {isDirect(p) ? 'direct ECB reference rate' : 'cross of two ECB reference rates'}</p>
+  <h1>What is the {p.label} reference rate and how has it moved?</h1>
+  <p id="answer" class="lede">
+    The {p.label} reference rate was {num(s.latest, d)} on {fmtDate(s.latestDate)}: one {p.base} was worth {num(s.latest, d)} {p.quote}. That is {Math.abs(s.y1.change ?? 0).toFixed(1)}% {dir(s.y1.change)} a year earlier and {(s.range.pos ?? 0).toFixed(0)}% of the way up its 52-week range. Annualised volatility over the year was {s.vol1y?.toFixed(1)}%.
+  </p>
+
+  <dl class="facts">
+    <div class="big"><dt>{p.label} · {fmtDate(s.latestDate)}</dt><dd class="num">{num(s.latest, d)}<small>Previous fixing {num(s.prev, d)} ({fmtDate(s.prevDate)}) · <Chg tag="span" v={s.dayChange} d={2} /></small></dd></div>
+    <div><dt>12-month change</dt><dd class="num"><Chg tag="span" v={s.y1.change} /><small>from {num(s.y1.value, d)} on {fmtDate(s.y1.date)}</small></dd></div>
+    <div><dt>52-week range</dt><dd class="num">{num(s.range.lo, d)}–{num(s.range.hi, d)}<small>low {fmtDate(s.range.loD)} · high {fmtDate(s.range.hiD)}</small></dd></div>
+    <div><dt>Volatility, 1 yr</dt><dd class="num">{s.vol1y?.toFixed(1)}%<small>annualised; {s.avgVol !== null ? `full-year average since 2016: ${s.avgVol.toFixed(1)}%` : 'no full-year average yet'}</small></dd></div>
+  </dl>
+
+  <div class="page">
+    <div>
+      <h2>The past twelve months</h2>
+      <figure><div class="chart-box" set:html={chart1} /><figcaption>Daily ECB reference fixings, {fmtDate(s.y1.date)} – {fmtDate(s.latestDate)} ({s.range.n} fixings). Yellow dot: latest.</figcaption></figure>
+
+      <h2>What the record shows</h2>
+      <ol class="notes">
+        <li>Over the past year {p.label} {volNote}. Its calmest full year was {s.calmest.year} ({s.calmest.vol?.toFixed(1)}%) and its busiest {s.wildest.year} ({s.wildest.vol?.toFixed(1)}%).</li>
+        <li>Since {fmtDate(s.start.date)} the rate has ranged from {num(s.all.lo, d)} ({fmtDate(s.all.loD)}) to {num(s.all.hi, d)} ({fmtDate(s.all.hiD)}). Today's fixing is higher than {(s.all.pct ?? 0).toFixed(0)}% of the {fx.dates.length.toLocaleString('en-US')} daily fixings in that period.</li>
+        <li>Five years ago, on {fmtDate(s.y5.date)}, the fixing was {num(s.y5.value, d)}, so the rate is {Math.abs(s.y5.change ?? 0).toFixed(1)}% {dir(s.y5.change)} that level. Over one month it is <Chg tag="span" v={s.m1.change} d={2} /> (from {num(s.m1.value, d)} on {fmtDate(s.m1.date)}).</li>
+        <li>The largest single-day move of the past year was on {fmtDate(s.bigYear[0].date)}: {num(s.bigYear[0].from, d)} → {num(s.bigYear[0].to, d)} (<Chg tag="span" v={s.bigYear[0].pct} d={2} />).</li>
+        <li>Read the other way round, 1 {p.quote} was worth {num(inv, quoteDecimals(inv))} {p.base} on {fmtDate(s.latestDate)} ({p.quote}/{p.base}).</li>
+      </ol>
+
+      <h2>How is the {p.label} figure on this page produced?</h2>
+      {isDirect(p) ? (
+        <p>The ECB publishes {p.label} directly as one of its euro foreign exchange reference rates: {num(eurQ, quoteDecimals(eurQ))} {p.quote} per euro on {fmtDate(s.latestDate)}. The page shows that figure unchanged. Reference rates are set around 14:10 CET on TARGET business days, from a regular concertation between central banks, and the ECB states they are published for information purposes only.</p>
+      ) : (
+        <p>The ECB does not publish {p.label}; it publishes each currency against the euro. The cross is the ratio of the two: {p.quote} per euro ÷ {p.base} per euro = {num(eurQ, quoteDecimals(eurQ))} ÷ {num(eurB, quoteDecimals(eurB))} = {num(s.latest, d)} on {fmtDate(s.latestDate)}. Because both legs are fixed at the same moment, the cross is internally consistent, but it can differ slightly from a market quote at 14:10 CET. See <a href="/guides/how-to-calculate-a-cross-rate/">how to calculate a cross rate</a>.</p>
+      )}
+
+      <h2>Year by year</h2>
+      <div class="scroll" tabindex="0" role="region" aria-label={`${p.label} yearly table`}>
+        <table class="ledger">
+          <caption class="sr">{p.label} yearly close, change, high, low, average and volatility</caption>
+          <thead><tr><th scope="col">Year</th><th scope="col">Close</th><th scope="col">Change</th><th scope="col">High</th><th scope="col">Low</th><th scope="col">Average</th><th scope="col">Vol.</th></tr></thead>
+          <tbody>
+            {yrs.map((y) => (
+              <tr class={y.partial ? 'partial' : ''}>
+                <th scope="row">{y.year}{y.partial && <small> to date</small>}</th>
+                <td>{num(y.close, d)}</td>
+                <Chg v={y.change} />
+                <td>{num(y.high, d)} <small>{fmtDate(y.highDate).replace(/ \d{4}$/, '')}</small></td>
+                <td>{num(y.low, d)} <small>{fmtDate(y.lowDate).replace(/ \d{4}$/, '')}</small></td>
+                <td>{num(y.avg, d)}</td>
+                <td>{y.vol?.toFixed(1)}%</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="meta">Change = last fixing of the year against the last fixing of the previous year ({fx.dates[0].slice(0, 4)} has no prior close in this record). Vol. = annualised standard deviation of daily log changes within the year. {s.years[s.years.length - 1].year} runs to {fmtDate(s.latestDate)}.</p>
+
+      <h2>Since January 2016</h2>
+      <figure><div class="chart-box" set:html={chartAll} /><figcaption>ECB reference fixings, thinned to about every fifth fixing for drawing; the tables use every fixing.</figcaption></figure>
+
+      <h2>Largest one-day moves since 2016</h2>
+      <div class="scroll" tabindex="0" role="region" aria-label={`${p.label} largest daily moves`}>
+        <table class="ledger">
+          <thead><tr><th scope="col">Date</th><th scope="col">From</th><th scope="col">To</th><th scope="col">Move</th></tr></thead>
+          <tbody>
+            {s.bigAll.map((m) => <tr><th scope="row">{fmtDate(m.date)}</th><td>{num(m.from, d)}</td><td>{num(m.to, d)}</td><Chg v={m.pct} d={2} /></tr>)}
+          </tbody>
+        </table>
+      </div>
+      <p class="meta">Moves are measured between consecutive ECB fixings, so a move after a holiday can span more than one calendar day.</p>
+
+      <h2>Sources</h2>
+      <ul class="sources">
+        <li><a href={fx.sourceUrl}>European Central Bank — euro foreign exchange reference rates</a> (series EXR.D.{p.base === 'EUR' ? p.quote : `${p.base}+${p.quote}`}.EUR.SP00.A, retrieved {fmtDate(fx.asOf)} via the <a href="https://data.ecb.europa.eu/">ECB Data Portal</a>).</li>
+        <li>Method for crosses, ranges and volatility: <a href="/methodology/">methodology</a>.</li>
+      </ul>
+    </div>
+    <aside class="rail" aria-label="Related">
+      <h2>Convert</h2>
+      <ul><li><a href={`/tools/historical-converter/?from=${p.base}&to=${p.quote}`}>{p.base} → {p.quote} on a past date</a></li><li><a href="/tools/percent-change/">Percent change calculator</a></li></ul>
+      <h2>Related pairs</h2>
+      <ul>{related.map((q) => <li><a href={`/fx/${q.slug}/`}>{q.label}</a></li>)}</ul>
+      {guides.length > 0 && <><h2>Almanac</h2><ul>{guides.map((g) => <li><a href={`/guides/${g.id}/`}>{g.data.title}</a></li>)}</ul></>}
+    </aside>
+  </div>
+</Base>

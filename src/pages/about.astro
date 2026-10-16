@@ -1,0 +1,45 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../site.config';
+import { fitTitle, fitDesc } from '../lib/seo';
+import { fx, cm, PAIRS, COMMODITIES, fmtDate } from '../lib/data';
+
+const title = fitTitle(['About the FX & Commodity Almanac: Who Runs It and Why']);
+const description = fitDesc([
+  'Who runs the FX & Commodity Almanac, why it exists, which official sources it uses, how it is funded by ads, and the editorial standards behind each figure.',
+]);
+const ld = [{
+  '@context': 'https://schema.org', '@type': 'AboutPage', name: 'About the FX & Commodity Almanac', url: `${site.url}/about/`,
+  about: { '@id': `${site.url}/#org` },
+}, {
+  '@context': 'https://schema.org', '@type': 'Organization', '@id': `${site.url}/#org`, name: site.name, url: site.url + '/', email: site.contactEmail, description: site.description,
+}];
+---
+<Base title={title} description={description} path="/about/" og="home" ld={ld}
+  crumbs={[{ name: 'Board', href: '/' }, { name: 'About', href: '/about/' }]}>
+  <p class="kicker">About</p>
+  <h1>What is the FX &amp; Commodity Almanac?</h1>
+  <p id="answer" class="lede">{site.description}</p>
+  <div class="prose">
+    <h2>Why it exists</h2>
+    <p>Exchange-rate and commodity sites tend to fall into two camps: trading terminals that update every second and push signals, and news pages that report a single day’s move. Neither is much help if you need to know what the euro was worth in yen on a date in 2019, how unusual this year’s swings in a currency are, or what the World Bank’s monthly gold price actually measures. The almanac is a reference for those questions: the official record, laid out so it can be read, compared and cited.</p>
+    <h2>What it covers</h2>
+    <ul>
+      <li>{PAIRS.length} currency pairs built from the European Central Bank’s euro foreign exchange reference rates, daily since {fmtDate(fx.dates[0])} (<a href="/fx/">currency board</a>).</li>
+      <li>{COMMODITIES.length} commodity price series from the World Bank Commodity Price Data (the “Pink Sheet”), monthly since January 2000 (<a href="/commodities/">commodity board</a>).</li>
+      <li>Two calculators and a set of <a href="/guides/">almanac guides</a> on how to read the data.</li>
+    </ul>
+    <h2>Editorial standards</h2>
+    <ul>
+      <li><strong>Official sources only.</strong> Every figure comes from the ECB or the World Bank and carries its date. We do not estimate, interpolate or fill gaps; missing observations stay missing.</li>
+      <li><strong>Computed, not invented.</strong> Changes, ranges, percentiles and volatility are computed from the published figures with the formulas on the <a href="/methodology/">methodology</a> page. The automated notes on each page describe the record; they do not forecast.</li>
+      <li><strong>No signals, no advice.</strong> Nothing here recommends buying or selling anything. See the <a href="/disclaimer/">disclaimer</a>.</li>
+      <li><strong>Dated and correctable.</strong> Guides show when they were updated and which data they were checked against. Errors can be reported to <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a> and are corrected with a new update date.</li>
+      <li><strong>No fabricated experience.</strong> We do not publish testimonials, fake reviews or invented trading results.</li>
+    </ul>
+    <h2>How it is funded</h2>
+    <p>The site is free and carries advertising served by Google AdSense. Advertisers have no say over content. There are no affiliate or sponsored links; if that ever changes, such links will be labelled where they appear and in the footer.</p>
+    <h2>Data freshness</h2>
+    <p>The data snapshot is refreshed and the site rebuilt on a schedule. The current snapshot holds ECB fixings to {fmtDate(fx.latestDate)} (retrieved {fmtDate(fx.asOf)}) and World Bank monthly prices to {cm.latestMonth} (retrieved {fmtDate(cm.asOf)}). If a source cannot be reached, the last good snapshot stays in place with its real date.</p>
+  </div>
+</Base>

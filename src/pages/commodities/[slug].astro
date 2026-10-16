@@ -1,0 +1,140 @@
+---
+import Base from '../../layouts/Base.astro';
+import Chg from '../../components/Chg.astro';
+import { getCollection } from 'astro:content';
+import site from '../../site.config';
+import { fitTitle, fitDesc, grow, cross } from '../../lib/seo';
+import { lineChart } from '../../lib/chart';
+import { cm, COMMODITIES, commodityStats, fmtMonth, fmtMonthLong, fmtDate, num, cmDecimals, cmAsOfDate, type Commodity } from '../../lib/data';
+
+export function getStaticPaths() {
+  return COMMODITIES.map((c) => ({ params: { slug: c.slug }, props: { c } }));
+}
+const { c } = Astro.props as { c: Commodity };
+const s = commodityStats(c);
+const d = cmDecimals(s.latest);
+const fmt = (v: number | null) => num(v, d);
+const n = s.values.length;
+const chart5 = lineChart({
+  labels: s.months.slice(n - 61), values: s.values.slice(n - 61), decimals: d, yearTicks: 1,
+  title: `${c.name}, monthly average price, last five years`,
+  desc: `${c.name} from ${fmt(s.y5.value)} ${s.unit} in ${fmtMonth(s.y5.month)} to ${fmt(s.latest)} in ${fmtMonth(s.latestMonth)}; five-year high ${fmt(s.r60.hi)} (${fmtMonth(s.r60.hiM)}), low ${fmt(s.r60.lo)} (${fmtMonth(s.r60.loM)}).`,
+});
+const chartAll = lineChart({
+  labels: s.months, values: s.values, decimals: d,
+  title: `${c.name}, monthly average price since January 2000`,
+  desc: `${c.name} monthly averages from ${fmtMonth(s.months[0])} to ${fmtMonth(s.latestMonth)}; highest ${fmt(s.rAll.hi)} ${s.unit} in ${fmtMonth(s.rAll.hiM)}, lowest ${fmt(s.rAll.lo)} in ${fmtMonth(s.rAll.loM)}.`,
+});
+const pitPeers = COMMODITIES.filter((x) => x.pit === c.pit && x.slug !== c.slug);
+const guides = await getCollection('guides', (g) => g.data.status === 'published' && (g.data.pages.includes(`commodities/${c.slug}`) || g.data.pages.includes('commodities/*')));
+const dir = (v: number | null) => ((v ?? 0) >= 0 ? 'above' : 'below');
+const yrs = [...s.years].reverse().filter((y) => +y.year >= 2006);
+const fullYears = s.years.filter((y) => !y.partial);
+const peakYear = fullYears.reduce((a, b) => ((b.avg ?? 0) > (a.avg ?? 0) ? b : a), fullYears[0]);
+const lowYear = fullYears.reduce((a, b) => ((b.avg ?? 1e12) < (a.avg ?? 1e12) ? b : a), fullYears[0]);
+const pctl = s.pct ?? 0;
+const where = pctl >= 90 ? 'in the top tenth' : pctl >= 75 ? 'in the top quarter' : pctl <= 10 ? 'in the bottom tenth' : pctl <= 25 ? 'in the bottom quarter' : 'in the middle half';
+const volRel = s.vol5 !== null && s.volAll !== null ? s.vol5 / s.volAll : null;
+const volNote = volRel === null ? 'with no long-run comparison available'
+  : `${volRel > 1.15 ? 'higher than' : volRel < 0.85 ? 'lower than' : 'close to'} the ${s.volAll!.toFixed(1)}% for the whole record since 2000`;
+const fiveYearNote = s.latest >= s.r60.hi ? `${fmtMonth(s.latestMonth)} is the highest monthly average in that window.`
+  : s.latest <= s.r60.lo ? `${fmtMonth(s.latestMonth)} is the lowest monthly average in that window.`
+  : `${fmtMonth(s.latestMonth)} sits ${(((s.latest - s.r60.lo) / (s.r60.hi - s.r60.lo)) * 100).toFixed(0)}% of the way from that low to the high.`;
+
+const title = fitTitle(cross([`${c.name} Price History`, `${c.name} Prices`, `${c.short} Price History`, `${c.short} Prices`], [
+  ': Monthly Data Since 2000', ': World Bank Monthly Data Since 2000', ': Monthly History, Ranges, Big Moves', ', Ranges and Biggest Monthly Moves', ': World Bank Monthly Data', ' Since 2000: Monthly Averages',
+  ': Monthly History and Ranges', ' Since 2000', ': Monthly Averages',
+]));
+const description = fitDesc(grow([
+  `${c.name} averaged ${fmt(s.latest)} ${c.unitWords} in ${fmtMonthLong(s.latestMonth)} (World Bank). Monthly history since 2000, yearly averages, five-year range and biggest moves.`,
+  `${c.name} averaged ${fmt(s.latest)} ${c.unitWords} in ${fmtMonth(s.latestMonth)} (World Bank). History since 2000, yearly averages, five-year range, biggest moves.`,
+  `${c.name} averaged ${fmt(s.latest)} ${s.unit} in ${fmtMonthLong(s.latestMonth)} (World Bank). Monthly history since 2000, yearly averages, five-year range and biggest moves.`,
+  `${c.name}: ${fmt(s.latest)} ${s.unit} in ${fmtMonth(s.latestMonth)} (World Bank). History since 2000, yearly averages, ranges, biggest moves.`,
+], [' Nominal US dollars.', ' Sources cited.', ' With charts.']));
+const path = `/commodities/${c.slug}/`;
+const ld = [{
+  '@context': 'https://schema.org', '@type': 'Dataset',
+  name: `${c.name} monthly price, World Bank Pink Sheet`,
+  description: `Monthly average ${c.name} price in ${c.unitWords} (${s.unit}) from the World Bank Commodity Price Data, ${fmtMonth(s.months[0])} to ${fmtMonth(s.latestMonth)}, with computed ranges and changes.`,
+  url: site.url + path, creator: { '@id': `${site.url}/#org` }, isBasedOn: cm.sourceUrl, license: cm.licenseUrl,
+  temporalCoverage: `${s.months[0]}/${s.latestMonth}`, dateModified: cmAsOfDate, variableMeasured: `${c.name} price (${s.unit})`,
+}];
+---
+<Base title={title} description={description} path={path} og={`cm-${c.slug}`} ld={ld} nav="commodities"
+  crumbs={[{ name: 'Board', href: '/' }, { name: 'Commodities', href: '/commodities/' }, { name: c.name, href: path }]}>
+  <p class="kicker">{c.pit} · World Bank monthly average</p>
+  <h1>What is the {c.name} price and how has it changed?</h1>
+  <p id="answer" class="lede">
+    {c.name} averaged {fmt(s.latest)} {c.unitWords} in {fmtMonthLong(s.latestMonth)}, according to the World Bank Pink Sheet. That is {Math.abs(s.m1.change ?? 0).toFixed(1)}% {dir(s.m1.change)} {fmtMonth(s.m1.month)} and {Math.abs(s.y1.change ?? 0).toFixed(1)}% {dir(s.y1.change)} {fmtMonth(s.y1.month)}, and {where} of all monthly averages since January 2000.
+  </p>
+
+  <dl class="facts">
+    <div class="big"><dt>{fmtMonth(s.latestMonth)} average</dt><dd class="num">{fmt(s.latest)}<small>{s.unit} · {c.unitWords}</small></dd></div>
+    <div><dt>Month on month</dt><dd class="num"><Chg tag="span" v={s.m1.change} /><small>from {fmt(s.m1.value)} in {fmtMonth(s.m1.month)}</small></dd></div>
+    <div><dt>Year on year</dt><dd class="num"><Chg tag="span" v={s.y1.change} /><small>from {fmt(s.y1.value)} in {fmtMonth(s.y1.month)}</small></dd></div>
+    <div><dt>12-month range</dt><dd class="num">{fmt(s.r12.lo)}–{fmt(s.r12.hi)}<small>low {fmtMonth(s.r12.loM)} · high {fmtMonth(s.r12.hiM)}</small></dd></div>
+  </dl>
+
+  <div class="page">
+    <div>
+      <h2>The last five years</h2>
+      <figure><div class="chart-box" set:html={chart5} /><figcaption>Monthly averages, {fmtMonth(s.months[n - 61])} – {fmtMonth(s.latestMonth)}, {s.unit}. Yellow dot: latest month.</figcaption></figure>
+
+      <h2>What the record shows</h2>
+      <ol class="notes">
+        <li>Over five years the price ranged from {fmt(s.r60.lo)} ({fmtMonth(s.r60.loM)}) to {fmt(s.r60.hi)} ({fmtMonth(s.r60.hiM)}). {fiveYearNote}</li>
+        <li>Since January 2000 the record high is {fmt(s.rAll.hi)} ({fmtMonth(s.rAll.hiM)}) and the low {fmt(s.rAll.lo)} ({fmtMonth(s.rAll.loM)}). The latest month is higher than {pctl.toFixed(0)}% of the {n} monthly averages in that span, in nominal dollars (not adjusted for inflation).</li>
+        <li>The highest full-year average since 2000 was {peakYear.year} ({fmt(peakYear.avg)}); the lowest was {lowYear.year} ({fmt(lowYear.avg)}).</li>
+        <li>Annualised volatility of monthly changes over the past five years was {s.vol5?.toFixed(1)}%, {volNote}. Monthly averages smooth out intra-month swings, so daily markets move more than this.</li>
+        <li>Five years earlier, in {fmtMonth(s.y5.month)}, the average was {fmt(s.y5.value)}: the price is {Math.abs(s.y5.change ?? 0).toFixed(1)}% {dir(s.y5.change)} that level.</li>
+      </ol>
+
+      <h2>Yearly averages</h2>
+      <div class="scroll" tabindex="0" role="region" aria-label={`${c.name} yearly averages`}>
+        <table class="ledger">
+          <caption class="sr">{c.name} yearly average, change, high month and low month</caption>
+          <thead><tr><th scope="col">Year</th><th scope="col">Average</th><th scope="col">vs prior year</th><th scope="col">Highest month</th><th scope="col">Lowest month</th></tr></thead>
+          <tbody>
+            {yrs.map((y) => (
+              <tr class={y.partial ? 'partial' : ''}>
+                <th scope="row">{y.year}{y.partial && <small> {y.n} mo.</small>}</th>
+                <td>{fmt(y.avg)}</td>
+                <Chg v={y.change} />
+                <td>{fmt(y.hi)} <small>{fmtMonth(y.hiM).slice(0, 3)}</small></td>
+                <td>{fmt(y.lo)} <small>{fmtMonth(y.loM).slice(0, 3)}</small></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="meta">Average = simple mean of the monthly averages published for that year. Rows in italics are incomplete years. Table shows 2006 onward; the charts and statistics use the full record from {fmtMonth(s.months[0])}.</p>
+
+      <h2>Since January 2000</h2>
+      <figure><div class="chart-box" set:html={chartAll} /><figcaption>Monthly averages, nominal US dollars ({s.unit}).</figcaption></figure>
+
+      <h2>Largest one-month moves since 2000</h2>
+      <div class="scroll" tabindex="0" role="region" aria-label={`${c.name} largest monthly moves`}>
+        <table class="ledger">
+          <thead><tr><th scope="col">Month</th><th scope="col">From</th><th scope="col">To</th><th scope="col">Move</th></tr></thead>
+          <tbody>{s.big.map((m) => <tr><th scope="row">{fmtMonth(m.month)}</th><td>{fmt(m.from)}</td><td>{fmt(m.to)}</td><Chg v={m.pct} /></tr>)}</tbody>
+        </table>
+      </div>
+
+      <h2>What exactly is being priced?</h2>
+      <p>{c.spec} The World Bank publishes the series as a monthly average in {c.unitWords} ({s.unit}). Benchmark definitions occasionally change, as noted above, so very long comparisons mix slightly different contracts. See <a href="/guides/commodity-price-units-explained/">commodity price units explained</a> for converting units.</p>
+
+      <h2>Sources</h2>
+      <ul class="sources">
+        <li><a href={cm.sourceUrl}>World Bank Commodity Price Data (The Pink Sheet)</a>, monthly prices workbook ({cm.workbookNote.replace('Updated on', 'updated')}; retrieved {fmtDate(cm.asOf)}). Licensed <a href={cm.licenseUrl}>CC BY 4.0</a>.</li>
+        <li>Method for changes, ranges and volatility: <a href="/methodology/">methodology</a>.</li>
+      </ul>
+    </div>
+    <aside class="rail" aria-label="Related">
+      <h2>{c.pit}</h2>
+      <ul>{pitPeers.map((x) => <li><a href={`/commodities/${x.slug}/`}>{x.name}</a></li>)}</ul>
+      <h2>Tools</h2>
+      <ul><li><a href="/tools/percent-change/">Percent change calculator</a></li><li><a href="/tools/historical-converter/">Historical currency converter</a></li></ul>
+      {guides.length > 0 && <><h2>Almanac</h2><ul>{guides.map((g) => <li><a href={`/guides/${g.id}/`}>{g.data.title}</a></li>)}</ul></>}
+    </aside>
+  </div>
+</Base>

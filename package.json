@@ -22,5 +22,10 @@
     "sharp": "0.35.5",
     "typescript": "5.9.3"
   },
-  "pnpm": { "onlyBuiltDependencies": ["sharp", "esbuild"] }
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "sharp",
+      "esbuild"
+    ]
+  }
 }
