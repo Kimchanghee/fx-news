@@ -64,7 +64,7 @@ const ld = [{
       </div>
       <div class="scroll" tabindex="0" role="region" aria-label="Currency board">
         <table class="q">
-          <caption>Rates set around 14:10 CET. Non-euro pairs are crosses of two ECB rates. Range bar: last 52 weeks, low to high.</caption>
+          <caption>Fixed at the 14:10 CET concertation, published around 16:00 CET. Non-euro pairs are crosses of two ECB rates. Range bar: last 52 weeks, low to high.</caption>
           <thead><tr><th scope="col">Pair</th><th scope="col">Rate</th><th scope="col">Day</th><th scope="col">1 yr</th><th scope="col" class="hide-s">52-wk range</th></tr></thead>
           <tbody>
             {majors.map((s) => (
@@ -81,6 +81,15 @@ const ld = [{
       </div>
       <div class="ledge" aria-hidden="true"></div>
       <p class="meta">All {PAIRS.length} pairs, history and volatility: <a href="/fx/">currency board</a>.</p>
+      <h2 class="notes-h">Almanac notes</h2>
+      <ol class="notes">
+        <li>Largest 12-month currency move: <a href={`/fx/${topFx.pair.slug}/`}>{topFx.pair.label}</a> is {Math.abs(topFx.y1.change ?? 0).toFixed(1)}% {(topFx.y1.change ?? 0) >= 0 ? 'higher' : 'lower'} than on {fmtDate(topFx.y1.date)} ({num(topFx.y1.value, quoteDecimals(topFx.latest))} → {num(topFx.latest, quoteDecimals(topFx.latest))}).</li>
+        <li>Calmest and busiest pairs over the past year: <a href={`/fx/${calmFx.pair.slug}/`}>{calmFx.pair.label}</a> had annualised volatility of {calmFx.vol1y?.toFixed(1)}%, against {wildFx.vol1y?.toFixed(1)}% for <a href={`/fx/${wildFx.pair.slug}/`}>{wildFx.pair.label}</a>.</li>
+        <li>Biggest 12-month commodity moves: <a href={`/commodities/${cmUp.c.slug}/`}>{cmUp.c.name}</a> {(cmUp.y1.change ?? 0) >= 0 ? 'rose' : 'fell'} {Math.abs(cmUp.y1.change ?? 0).toFixed(1)}% from {fmtMonth(cmUp.y1.month)}; <a href={`/commodities/${cmDown.c.slug}/`}>{cmDown.c.name}</a> {(cmDown.y1.change ?? 0) >= 0 ? 'rose' : 'fell'} {Math.abs(cmDown.y1.change ?? 0).toFixed(1)}%.</li>
+        <li>Largest one-month commodity move: <a href={`/commodities/${cmM1.c.slug}/`}>{cmM1.c.name}</a>, {(cmM1.m1.change ?? 0) >= 0 ? 'up' : 'down'} {Math.abs(cmM1.m1.change ?? 0).toFixed(1)}% from {fmtMonth(cmM1.m1.month)} to {fmtMonth(cmM1.latestMonth)}.</li>
+        <li>{atHigh.length ? <>At a five-year monthly high in {fmtMonth(cm.latestMonth)}: {atHigh.map((c, i) => <>{i > 0 && ', '}<a href={`/commodities/${c.c.slug}/`}>{c.c.name}</a></>)}.</> : <>No tracked commodity set a new five-year monthly high in {fmtMonth(cm.latestMonth)}.</>} {nearHigh.length ? `In the top tenth of their own monthly history since January 2000: ${nearHigh.join(', ')}.` : ''}</li>
+      </ol>
+      <p class="meta">Notes are computed automatically from the snapshot each time the site is rebuilt; they describe the record and do not predict anything. See <a href="/methodology/">methodology</a>.</p>
     </section>
 
     <section class="board" aria-labelledby="cm-board">
@@ -115,17 +124,6 @@ const ld = [{
     </section>
   </div>
 
-  <h2>Almanac notes for this board</h2>
-  <ol class="notes">
-    <li>Largest 12-month currency move: <a href={`/fx/${topFx.pair.slug}/`}>{topFx.pair.label}</a> is {Math.abs(topFx.y1.change ?? 0).toFixed(1)}% {(topFx.y1.change ?? 0) >= 0 ? 'higher' : 'lower'} than on {fmtDate(topFx.y1.date)} ({num(topFx.y1.value, quoteDecimals(topFx.latest))} → {num(topFx.latest, quoteDecimals(topFx.latest))}).</li>
-    <li>Calmest and busiest pairs over the past year: <a href={`/fx/${calmFx.pair.slug}/`}>{calmFx.pair.label}</a> had annualised volatility of {calmFx.vol1y?.toFixed(1)}%, against {wildFx.vol1y?.toFixed(1)}% for <a href={`/fx/${wildFx.pair.slug}/`}>{wildFx.pair.label}</a>.</li>
-    <li>Biggest 12-month commodity moves: <a href={`/commodities/${cmUp.c.slug}/`}>{cmUp.c.name}</a> {(cmUp.y1.change ?? 0) >= 0 ? 'rose' : 'fell'} {Math.abs(cmUp.y1.change ?? 0).toFixed(1)}% from {fmtMonth(cmUp.y1.month)}; <a href={`/commodities/${cmDown.c.slug}/`}>{cmDown.c.name}</a> {(cmDown.y1.change ?? 0) >= 0 ? 'rose' : 'fell'} {Math.abs(cmDown.y1.change ?? 0).toFixed(1)}%.</li>
-    <li>Largest one-month commodity move: <a href={`/commodities/${cmM1.c.slug}/`}>{cmM1.c.name}</a>, {(cmM1.m1.change ?? 0) >= 0 ? 'up' : 'down'} {Math.abs(cmM1.m1.change ?? 0).toFixed(1)}% from {fmtMonth(cmM1.m1.month)} to {fmtMonth(cmM1.latestMonth)}.</li>
-    <li>{atHigh.length ? <>At a five-year monthly high in {fmtMonth(cm.latestMonth)}: {atHigh.map((c, i) => <>{i > 0 && ', '}<a href={`/commodities/${c.c.slug}/`}>{c.c.name}</a></>)}.</> : <>No tracked commodity set a new five-year monthly high in {fmtMonth(cm.latestMonth)}.</>} {nearHigh.length ? `In the top tenth of their own monthly history since January 2000: ${nearHigh.join(', ')}.` : ''}</li>
-  </ol>
-  <p class="meta">Notes are computed automatically from the snapshot each time the site is rebuilt; they describe the record and do not predict anything. See <a href="/methodology/">methodology</a>.</p>
-
-  <div class="ad" aria-hidden="true"></div>
 
   <h2>Tools</h2>
   <ul class="index-list">
