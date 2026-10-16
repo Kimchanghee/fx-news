@@ -13,7 +13,7 @@ const description = fitDesc([
   crumbs={[{ name: 'Board', href: '/' }, { name: 'Privacy', href: '/privacy/' }]}>
   <p class="kicker">Privacy policy · updated {updated}</p>
   <h1>What data does this site collect, and how can you opt out?</h1>
-  <p id="answer" class="lede">We do not ask for accounts or store what you type into the calculators. The site uses Google Analytics to count visits and Google AdSense to show ads; both may use cookies. Visitors in the EEA, UK and Switzerland are asked for consent first, and anyone can opt out.</p>
+  <p id="answer" class="lede">We do not ask for accounts or store what you type into the calculators. Google Analytics loads only when configured. Advertising is disabled by default. If enabled later, these services may use cookies subject to the required consent controls.</p>
   <div class="prose">
     <h2>Who is responsible</h2>
     <p>The {site.name} ({site.domain}). Contact: <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>.</p>
@@ -24,7 +24,7 @@ const description = fitDesc([
     <h2>Google AdSense and third-party cookies</h2>
     <p>Ads are served by Google AdSense. Google and its partners may use cookies or similar identifiers to show ads based on your visits to this and other websites, to limit how often you see an ad, and to measure ad performance. Third-party vendors, including Google, use cookies to serve ads based on prior visits. Learn more at <a href="https://policies.google.com/technologies/partner-sites">how Google uses information from sites that use its services</a>. You can turn off personalised advertising in <a href="https://adssettings.google.com/">Google’s Ad Settings</a> or, for many vendors, at <a href="https://www.aboutads.info/choices/">aboutads.info</a> and <a href="https://www.youronlinechoices.eu/">youronlinechoices.eu</a>.</p>
     <h2>Consent in the EEA, UK and Switzerland</h2>
-    <p>For visitors in the European Economic Area, the United Kingdom and Switzerland, advertising and analytics storage defaults to “denied” (Google Consent Mode v2) until you choose. Consent is collected with a Google-certified consent management platform (Google’s own CMP) shown by AdSense. You can change your choice at any time through the privacy/consent link it provides. Without consent, Google may still show non-personalised ads, which use cookies for frequency capping and fraud prevention where the law allows.</p>
+    <p>Advertising is disabled by default while consent setup is unverified. A Google-certified consent management platform must be configured and verified before advertising is enabled where required. This page does not claim that a consent banner is currently installed. Browser settings can block or remove cookies.</p>
     <h2>Other visitors</h2>
     <p>Elsewhere, analytics and advertising storage is enabled by default. You can block or delete cookies in your browser settings and use the opt-out links above. US residents can exercise state privacy rights (such as opting out of “sale” or “sharing” for targeted advertising) through Google’s ad settings and the industry opt-out pages above.</p>
     <h2>Server logs</h2>
