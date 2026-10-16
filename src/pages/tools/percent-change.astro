@@ -67,6 +67,7 @@ const ld = [{
   f.addEventListener('submit', (e) => {
     e.preventDefault();
     err.textContent = '';
+    out.textContent = '';
     ids.forEach((k) => el[k].removeAttribute('aria-invalid'));
     const a = parse(el.a.value), b = parse(el.b.value), y = el.y.value.trim() === '' ? null : parse(el.y.value);
     const bad = (k: (typeof ids)[number], msg: string) => { el[k].setAttribute('aria-invalid', 'true'); err.textContent = msg; el[k].focus(); };
@@ -74,13 +75,14 @@ const ld = [{
     if (a === 0) return bad('a', 'The old value cannot be zero: a percentage change from zero is undefined.');
     if (!Number.isFinite(b)) return bad('b', 'Enter the new value as a number.');
     if (y !== null && (!Number.isFinite(y) || y <= 0 || y > 200)) return bad('y', 'Years must be a number above 0 (and at most 200), or left empty.');
-    const pc = pctChange(a, b)!;
+    const pc = pctChange(a, b);
+    if (pc === null || !Number.isFinite(b - a)) return bad('b', 'The result exceeds the supported numeric range. Use smaller values.');
     const lr = logReturn(a, b);
     const cg = y !== null ? cagr(a, b, y) : null;
     const back = b !== 0 ? pctChange(b, a) : null;
     const parts = [`Difference ${sg(b - a)}`];
     parts.push(lr === null ? 'log return not defined (values must both be above zero)' : `log return ${sg(lr)}%`);
-    if (y !== null) parts.push(cg === null ? 'compound annual rate not defined for zero or negative values' : `compound annual rate ${sg(cg)}% over ${fmt(y, y % 1 ? 2 : 0)} years`);
+    if (y !== null) parts.push(cg === null ? 'compound annual rate unavailable for these values or outside the supported numeric range' : `compound annual rate ${sg(cg)}% over ${fmt(y, y % 1 ? 2 : 0)} years`);
     if (back !== null) parts.push(`to return to ${fmt(a)} the value would have to move ${sg(back)}%`);
     out.innerHTML = `<p class="state">From ${fmt(a)} to ${fmt(b)}${a < 0 ? ' (negative starting value: change measured against its absolute size)' : ''}</p><p class="res">${sg(pc)}%</p><p>${parts.join(' · ')}.</p>`;
     (window as any).gtag?.('event', 'tool_used', { tool: 'percent_change' });

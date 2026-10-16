@@ -10,3 +10,6 @@
 
 ## Measurement after separately authorized release
 Verify deployed canonical/robots/sitemap and real HTTP 404 first. Record release commit and source snapshot SHA. Then baseline indexed URLs, impressions, clicks and query-page matches in owner-authorized search tools. Compare 28-day windows without inventing zeros for missing data. Collect field LCP/INP/CLS when real samples exist; local screenshot CLS is not field CWV. Investigate stale sources and correction reports independently of ranking.
+
+## Final local release checkpoint
+All ten guide source scopes are closed: eight unchanged, two narrowed and reconciled (SOURCE_REVIEW). Fresh final check/build/gate/tests and same-process Edge 390/1440 layout/form/HTTP receipts pass. This supersedes earlier editorial/technical holds for this local commit only. No deployment, indexing, traffic or field-CWV verification is asserted.

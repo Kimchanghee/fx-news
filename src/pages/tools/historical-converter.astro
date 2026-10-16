@@ -55,7 +55,7 @@ const ld = [{
   <ol class="notes">
     <li>It looks up the ECB fixing for the date you choose. If there is none (weekend or a TARGET holiday such as 25 December), it uses the most recent earlier fixing and says so.</li>
     <li>Each currency is published as units per one euro. Converting A to B multiplies the amount by (B per euro) ÷ (A per euro). See <a href="/guides/how-to-calculate-a-cross-rate/">how to calculate a cross rate</a>.</li>
-    <li>Results are shown unrounded to two decimals; the rate is shown with enough digits to reproduce the result. For records, accounts and tax, check which official rate your authority requires — read <a href="/guides/which-exchange-rate-to-use-for-past-transactions/">which exchange rate to use for past transactions</a>.</li>
+    <li>Results are rounded to two decimals; the displayed rate is also rounded, while calculations use the saved rate precision. For records, accounts and tax, check which official rate your authority requires — read <a href="/guides/which-exchange-rate-to-use-for-past-transactions/">which exchange rate to use for past transactions</a>.</li>
   </ol>
 </Base>
 
@@ -92,6 +92,7 @@ const ld = [{
   async function run(e?: Event) {
     e?.preventDefault();
     err.textContent = '';
+    out.textContent = '';
     amtEl.removeAttribute('aria-invalid'); dateEl.removeAttribute('aria-invalid');
     const amount = Number(amtEl.value.replace(/[,\s]/g, ''));
     if (!amtEl.value.trim() || !Number.isFinite(amount) || amount < 0 || amount > 1e12) {

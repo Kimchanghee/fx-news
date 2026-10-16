@@ -43,3 +43,11 @@ Resume from here after any host restart. Update after every milestone.
 - HMRC VAT corrected; unsupported optional IAS21/EU, nicknames, pip-minimum, precision/spread and print-origin claims removed/narrowed. Direct OANDA/EIA/ECB and inspected Fed/method originals recorded.
 - Fresh direct Astro build: 66 pages; static gate zero errors; 7 calculation/source-example tests pass. Math library and gate unchanged. Source-followup evidence logs retained.
 - These are factual corrections, not production readiness: shared numeric overflow/form-edge/rendered/HTTP404 blockers persist; 2 held guides remain in build/discovery. No deploy/accounts. Previous logs remain historical evidence.
+
+## Launch-ready source and local build checkpoint (2026-10-17 KST)
+- Both remaining guide source holds closed by narrowing unsupported optional claims and reconciling all retained numeric claims against the complete unchanged saved array. EIA quality original inspected. Eight previously closed guide manuscripts and source snapshots unchanged. SOURCE_REVIEW history retained.
+- Shared math now rejects nonfinite derived results; cross-rate underflow rejected; log-ratio calculation avoids intermediate ratio overflow. Forms clear stale output on invalid input; long finite values wrap. No lowering of gate or fabrication of source data.
+- Final Astro check: 0 errors/warnings/hints; 66-page build; strict static gate zero errors; 9 tests passed. Logs: seo/evidence/*-launch.*. No refresh was executed.
+- Same-process Astro preview plus installed Edge QA: nine routes at CSS widths 390 and 1440, 18 HTTP200/layout checks, zero document overflow, sampled CLS 0 and visible solid 3px keyboard focus. Final mobile Pink Sheet and desktop homepage screenshots inspected. Forty-four form-boundary cases pass: zero/negative/empty/nonfinite/extreme values, year bounds, valid loss/CAGR, date bounds, holiday fallback, maximum amount and mobile overflow.
+- HTTP robots/sitemap/feed/llms return 200; nonexistent route returns real 404. qa/shots contains ignored local screenshots; tracked JSON receipts in seo/evidence. Local launch-readiness only: no deployment/account/search access or traffic/field-CWV claim.
+- Supersedes prior technical/source HOLD entries for this exact final build. Future data refreshes require rerunning check/build/gate/tests and browser QA.

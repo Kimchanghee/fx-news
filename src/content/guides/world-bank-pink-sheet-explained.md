@@ -3,7 +3,7 @@ title: "What is the World Bank Pink Sheet?"
 seoTitle: "What Is the World Bank Pink Sheet? Commodity Prices Explained"
 description: "Explore World Bank Pink Sheet commodity data, monthly benchmark definitions, source units and reuse terms, with practical limits for historical comparisons."
 question: "What is the World Bank Pink Sheet?"
-answer: "The Pink Sheet is the World Bank's monthly table of commodity prices: averages, in nominal US dollars, for energy, metals and farm goods, plus price indices. It is updated in the first days of each month, subject to World Bank data-use terms and runs back to 1960 for many series."
+answer: "The Pink Sheet is the World Bank's commodity-price dataset. This site's saved monthly extract contains nominal US-dollar benchmark prices for 22 series from January 2000 to September 2026, with each series' unit retained. It is a historical reference, not a live quote."
 shelf: "Commodities"
 datePublished: 2026-10-16
 updated: 2026-10-16
@@ -17,7 +17,7 @@ sources:
     url: "https://creativecommons.org/licenses/by/4.0/"
 faq:
   - q: "Is the Pink Sheet price the price I would pay?"
-    a: "No. Each figure is a monthly average of a specific benchmark grade at a specific delivery point. Physical buyers pay contract prices that add freight, quality premiums and margins, and futures prices move every second."
+    a: "No. These are monthly benchmark observations, not an offer to buy or sell. A transaction can differ in timing, quality, delivery terms and charges."
   - q: "Can I republish Pink Sheet numbers?"
     a: "World Bank default data terms use CC BY 4.0 with attribution, but additional terms and third-party exceptions can apply. Check the dataset and linked terms before reuse."
 related: ["monthly-average-vs-daily-price", "commodity-price-units-explained", "brent-wti-dubai-oil-benchmarks"]
@@ -26,57 +26,43 @@ pages: ["commodities/brent-crude-oil", "commodities/gold", "commodities/copper",
 
 ## A monthly record, not a ticker
 
-Most price data on the web is about the next second. The Pink Sheet is about the last month. Each line is the **average price of one benchmark during one calendar month**, in US dollars, compiled by the World Bank's Prospects Group. It covers roughly 70 commodity series — crude oil grades, natural gas in three regions, coal, precious and base metals, grains, oils, beverages, fertilisers and timber — and a family of price indices.
+The World Bank's [Commodity Markets page](https://www.worldbank.org/en/research/commodity-markets) publishes the Pink Sheet and links to historical data. This site uses a saved extract of its monthly workbook for the [commodity board](/commodities/). The extract contains **22 series and 321 months**, January 2000 through September 2026. That is this site's coverage, not a claim about the full provider archive.
 
-That makes it a slow source, and deliberately so. A monthly average does not tell you where gold traded this morning. It tells you, consistently and with a long memory, what a month of trading averaged. This site uses the monthly workbook for its [commodity board](/commodities/), which tracks 22 of those series from January 2000.
+A September observation describes that month. It cannot tell you the current price, a particular day's closing price or the price a buyer will actually pay.
 
-## What is in the workbook
+## What the saved workbook extract contains
 
-The World Bank publishes two things each month: a short PDF summary (the Pink Sheet itself) and a set of historical data files. The monthly file, `CMO-Historical-Data-Monthly.xlsx`, has three parts that matter:
+The importer selects the workbook's **Monthly Prices** sheet, matches commodity column names and retains the unit header with each series. The saved JSON records the source page, exact workbook URL, retrieval timestamp and workbook note, “Updated on October 02, 2026”. It is normalized data, not the original Excel file.
 
-- **Monthly Prices** — one column per commodity, one row per month, with the unit in the header (`$/bbl`, `$/mt`, `$/troy oz`, `$/kg`, `$/mmbtu`).
-- **Monthly Indices** — composite indices (energy, non-energy, agriculture, metals and others) with 2010 = 100.
-- **Description** — the definition of every series: grade, delivery terms, exchange and the date any definition changed.
+The extract does not retain the provider's Description sheet. For a long historical comparison, consult the original workbook's definitions before assuming that a grade or collection method stayed unchanged. This guide does not infer historical definition changes from the price array.
 
-The Description sheet is the part most people skip and should not. “Gold” in the workbook is a spot average of daily rates from June 2025 and the London afternoon fixing before that. “Natural gas, Europe” is the Dutch TTF hub price from April 2015 and an average import border price before. Iron ore is 62% iron content from December 2008 and 63.5% before. A long chart that crosses one of those dates joins two slightly different things. Each commodity page here prints the definition from the workbook under the chart, for that reason.
+## Read the unit before comparing numbers
 
-## How a monthly average is built
+Gold is recorded in dollars per troy ounce, copper in dollars per metric ton, crude oil in dollars per barrel and the three selected gas series in dollars per million British thermal units. The units are part of the observation, not decoration.
 
-For most series the monthly figure is a simple average of the daily or weekly quotes published by the underlying source during the month — an exchange settlement price, an assessment from a price reporting agency, or an industry indicator such as the International Cocoa Organization's daily price. A handful are built differently. Japan's LNG price is an import unit value, and the World Bank notes that its two most recent months are estimates that are revised later.
+For example, the saved September 2026 figures are **4,319 dollars per troy ounce for gold** and **14,474 dollars per metric ton for copper**. Their numeric sizes alone do not rank how expensive those materials are. The [units guide](/guides/commodity-price-units-explained/) explains the conversions and their limits.
 
-Averaging has two consequences that show up in the numbers.
+## Monthly figures do not reveal the daily path
 
-First, it smooths. In April 2020 the front-month WTI futures contract settled below zero for a day, but the Pink Sheet's WTI average for that month is **16.5 dollars a barrel** — a very low month, but not a negative one. Our guide to [monthly averages versus daily prices](/guides/monthly-average-vs-daily-price/) works through that case.
+The saved Brent average rises from **90.9 dollars per barrel in August 2026 to 116.8 in September**, an increase of **28.5%** after rounding. That is a comparison of monthly observations, not a return measured between the last trades of those months.
 
-Second, it lags. A shock in the last week of a month only partly reaches that month's average and fully reaches the next one. That is why the September 2026 Brent average of **116.8 dollars**, up 28.5% from August's 90.9, should be read as a description of September as a whole, not a closing price on 30 September.
+Daily prices can follow many paths with the same monthly average. Exact within-month weighting is not reconstructed here because the saved extract does not contain the underlying daily observations or weights. See [monthly averages versus daily prices](/guides/monthly-average-vs-daily-price/) for a worked hypothetical example.
 
-## When it is updated, and what changes
+## Nominal prices and currency conversion
 
-The World Bank updates the files in the first days of each month with the previous month's averages. The workbook used for the current snapshot on this site is marked “Updated on October 02, 2026” and carries prices to **September 2026**.
+The price figures used here are nominal US dollars, not inflation-adjusted purchasing power. Saved gold observations rise from **284 dollars per troy ounce in January 2000 to 4,319 in September 2026**, about **15.2 times** the initial figure. That ratio is not an inflation-adjusted return, and it excludes any transaction or holding costs.
 
-Recent months can be revised: the World Bank replaces estimates when actual import data arrive, and occasionally redefines a series. This site re-downloads the full workbook on each refresh rather than appending the newest month, so a revision is picked up automatically. If the download fails, the previous snapshot stays in place with its own retrieval date — see the [methodology](/methodology/).
+To make a real-price comparison, choose and name a deflator rather than silently treating nominal dollars from different years as equivalent. The [real-prices guide](/guides/nominal-vs-real-commodity-prices/) shows the arithmetic without inventing a historical deflator.
 
-## Nominal dollars, and why that matters
+Converting a monthly dollar average using one monthly exchange-rate average is also only an approximation to averaging daily converted prices. The average of a ratio need not equal the ratio of two averages.
 
-Every price in the Monthly Prices sheet is **nominal**: dollars of the day, not adjusted for inflation. Gold averaged 284 dollars an ounce in January 2000 and 4,319 in September 2026 — 15.2 times as much in nominal terms. Part of that rise is simply the dollar buying less over 26 years.
+## Updating and attribution
 
-The World Bank does publish real (deflated) indices, but not deflated individual prices in the monthly file. If you compare prices decades apart, say so, or deflate them yourself with a price index you name. This site shows nominal figures throughout and labels them that way.
+The current saved dataset was retrieved on 16 October 2026. A saved retrieval date is not proof that a later scheduled refresh ran. The refresh script re-reads the workbook on a successful invocation; if the source fails, it keeps the previous snapshot rather than inventing observations. See the [methodology](/methodology/).
 
-Everything is in US dollars, too. Dividing a monthly dollar price by a monthly average EUR/USD rate gives an approximation, not the exact mean of daily euro-translated prices. Our [currency board](/fx/eur-usd/) has the daily ECB rates that let you do that, and the [percent change calculator](/tools/percent-change/) handles the arithmetic.
+Quote the series, unit, month and source together: “World Bank Pink Sheet Brent monthly average, September 2026: 116.8 dollars per barrel.” Avoid presenting it as today's oil price. Brent, WTI and Dubai are separate series; the [benchmark comparison](/guides/brent-wti-dubai-oil-benchmarks/) shows how their saved monthly prices differ.
 
-## Reading a Pink Sheet number correctly
-
-A good habit is to say four things whenever you quote a figure: the series, the unit, the month and the source. “Copper (LME grade A) averaged 14,474 dollars per metric ton in September 2026, according to the World Bank Pink Sheet” is citable. “Copper is at 14,474” is not, because it sounds like a live price and hides the averaging.
-
-Three common mistakes:
-
-- **Comparing different units.** Arabica coffee is in dollars per kilogram, copper in dollars per metric ton, gas per million British thermal units. The [units guide](/guides/commodity-price-units-explained/) converts each into the units used in trade press.
-- **Treating the benchmark as everyone's price.** Brent, WTI and Dubai crude differed by more than 20 dollars a barrel in September 2026 averages. See [Brent, WTI and Dubai compared](/guides/brent-wti-dubai-oil-benchmarks/).
-- **Ignoring definition breaks.** Check the Description sheet before quoting a change across a date where the series changed.
-
-## Licence and attribution
-
-The [World Bank summary terms](https://data.worldbank.org/summary-terms-of-use) state a default Creative Commons Attribution 4.0 licence, subject to additional terms and third-party exceptions. Do not assume that every underlying source has identical reuse conditions. On this site every commodity page names the World Bank as the source, links to the workbook and states the month and retrieval date. If you use our derived figures — ranges, volatility, yearly averages — cite the World Bank as the source of the prices and this site for the calculation.
+The [World Bank summary terms](https://data.worldbank.org/summary-terms-of-use) state a default CC BY 4.0 licence, subject to additional terms and third-party exceptions. Check those conditions before reuse. Attribute the prices to the World Bank and identify this site separately when citing its calculations.
 
 ## Saved numerical source
 

@@ -3,7 +3,7 @@ title: "Brent, WTI and Dubai crude oil compared"
 seoTitle: "Brent vs WTI vs Dubai Crude: How the Oil Benchmarks Differ"
 description: "Compare Brent, WTI and Dubai crude oil benchmarks, their quality and location differences, and the limits of interpreting monthly World Bank price spreads."
 question: "What is the difference between Brent, WTI and Dubai crude oil?"
-answer: "They are benchmark grades priced at different places: Brent in the North Sea, WTI in the US mid-continent and Gulf, Dubai in the Gulf for Asian buyers. In World Bank monthly averages for September 2026, Brent was 116.8, WTI 96.9 and Dubai 93.3 dollars a barrel."
+answer: "Brent, WTI and Dubai are distinct crude-oil benchmark series. In this site's saved World Bank monthly data for September 2026, Brent was 116.8, WTI 96.9 and Dubai 93.3 dollars per barrel. A difference between them is a price spread, not proof of its cause."
 shelf: "Commodities"
 datePublished: 2026-10-16
 updated: 2026-10-16
@@ -11,79 +11,68 @@ data_asof: "Pink Sheet updated 2 Oct 2026 (prices to Sep 2026)"
 sources:
   - name: "World Bank — Commodity Markets (Pink Sheet and historical data)"
     url: "https://www.worldbank.org/en/research/commodity-markets"
-  - name: "World Bank — CMO historical data, monthly (Excel workbook, Description sheet)"
+  - name: "World Bank — CMO historical data, monthly (Excel workbook)"
     url: "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx"
-  - name: "U.S. Energy Information Administration — Crude oil prices explained"
-    url: "https://www.eia.gov/energyexplained/oil-and-petroleum-products/prices-and-outlook.php"
+  - name: "U.S. Energy Information Administration — Crude oil quality characteristics"
+    url: "https://www.eia.gov/todayinenergy/detail.php?id=7110"
 faq:
   - q: "Which oil price is 'the' oil price?"
-    a: "There isn't one. News outside the US usually quotes Brent, US news often quotes WTI, and many Middle East contracts sold to Asia are priced off Dubai and Oman. Always say which benchmark you mean."
+    a: "There is no single price in these data: the workbook records Brent, WTI and Dubai separately. Name the benchmark, unit and month when quoting a figure."
   - q: "Is Brent always more expensive than WTI?"
     a: "No. In World Bank monthly averages WTI was above Brent in 109 of the months from January 2000 to September 2026, mostly before 2011. Since 2011 Brent has usually been higher."
   - q: "What does API gravity mean?"
-    a: "It is a measure of how light a crude is. Higher numbers mean lighter oil, which tends to yield more petrol and diesel. The World Bank lists Brent at 38°, WTI at 40° and Dubai Fateh at 32°."
+    a: "It is a measure of how light a crude is. Higher API gravity means lower density. EIA explains that light, low-sulfur crude can generally be processed more easily into gasoline and diesel; quality alone does not determine a price spread."
 related: ["world-bank-pink-sheet-explained", "monthly-average-vs-daily-price", "commodity-price-units-explained"]
 pages: ["commodities/brent-crude-oil", "commodities/wti-crude-oil", "commodities/dubai-crude-oil", "fx/usd-cad"]
 ---
 
-## Three prices for one commodity
+## Three separately named prices
 
-Crude oil is not one product. It varies in density and sulphur content, and it is expensive to move. A barrel in Texas and a barrel in the North Sea are not interchangeable without a tanker, a pipeline and time. Markets cope by pricing a few well-traded **benchmark grades** and quoting everything else as a premium or discount to them.
+This site's [commodity board](/commodities/) preserves the World Bank's three separate monthly crude-oil series. All three use **dollars per barrel**, so subtracting their observations for the same month produces a dollar-per-barrel spread.
 
-The World Bank Pink Sheet tracks three, and so does this site's [energy board](/commodities/):
+| Saved series | September 2026 monthly average |
+|---|---|
+| [Brent](/commodities/brent-crude-oil/) | 116.8 $/bbl |
+| [WTI](/commodities/wti-crude-oil/) | 96.9 $/bbl |
+| [Dubai](/commodities/dubai-crude-oil/) | 93.3 $/bbl |
 
-| Benchmark | World Bank definition | September 2026 average |
-|---|---|---|
-| [Brent](/commodities/brent-crude-oil/) | Crude oil, UK Brent 38° API | 116.8 $/bbl |
-| [WTI](/commodities/wti-crude-oil/) | Crude oil, US West Texas Intermediate 40° API | 96.9 $/bbl |
-| [Dubai](/commodities/dubai-crude-oil/) | Crude oil, Dubai Fateh 32° API | 93.3 $/bbl |
+These observations are monthly averages, not executable offers, daily closing prices or interchangeable futures contracts. For a particular contract or physical cargo, consult its own specification rather than treating this table as a delivery specification.
 
-## Quality: light and sweet versus medium and sour
+## Quality matters, but it is not a causal diagnosis
 
-**API gravity** measures lightness; higher is lighter. Light crudes yield more high-value products such as petrol and diesel from simple refining. **Sulphur** content makes a crude “sweet” (low) or “sour” (high); sour crude needs more processing.
+The [EIA's crude-quality explainer](https://www.eia.gov/todayinenergy/detail.php?id=7110) identifies density and sulfur content as important characteristics. Higher API gravity means lighter, lower-density crude. Low sulfur is called sweet; high sulfur is called sour.
 
-WTI and Brent are both light and sweet. Dubai is medium and sour, which is one reason it has tended to price a little below Brent: in the yearly averages of the World Bank data, Dubai sat below Brent in every year from 2019 to 2025, by between 0.1 and 2.8 dollars a barrel.
+EIA explains that gasoline and diesel can generally be produced more easily and cheaply from light, sweet crude than from heavy, sour crude. That is a general refining relationship, not evidence that quality caused any particular monthly spread in this dataset. This guide does not assign exact API grades or delivery locations from a saved price array that does not contain those definitions.
 
-## Location: where the barrel is
+## What the complete saved record shows
 
-Quality explains small gaps. Location explains big ones.
+The saved extract has **321 monthly observations from January 2000 through September 2026** for each of these three series. Define the Brent–WTI spread as Brent minus WTI, using observations from the same month.
 
-- **Brent** is a North Sea, waterborne benchmark. Cargoes can sail anywhere, which makes it the reference for much of the world's internationally traded crude.
-- **WTI** is priced in the US, historically at the pipeline and storage hub of Cushing, Oklahoma. When US output outgrows the pipes that carry it to the coast, WTI can trade at a deep discount.
-- **Dubai** (with Oman) is the reference for Middle Eastern crude sold to Asian refiners.
+- WTI exceeds Brent in **109 of those 321 months**. Brent is therefore not always the higher price.
+- The largest Brent–WTI spread in that saved interval is **25.3 dollars per barrel in September 2011**.
+- In September 2026, the spread is **19.9 dollars per barrel**: 116.8 minus 96.9.
 
-The US Energy Information Administration explains how global supply, demand, disruptions and contract types affect [oil prices](https://www.eia.gov/energyexplained/oil-and-petroleum-products/prices-and-outlook.php). Its general explainer does not establish the individual benchmark definitions above.
+These are calculations over the full saved interval, not claims about observations before January 2000 or after September 2026. The calculation compares the two monthly averages; it cannot reveal the largest intraday spread.
 
-## What the Brent–WTI spread shows since 2000
+## Brent and Dubai: label the maximum correctly
 
-Subtracting the WTI monthly average from Brent gives the **Brent–WTI spread**. In the World Bank record it tells a clear story:
+The largest Brent–Dubai spread in the saved interval is **27.7 dollars per barrel in April 2026**, calculated from 120.4 minus 92.7. September 2026's spread is **23.5 dollars**, from 116.8 minus 93.3. September is not the maximum.
 
-- **2000–2010:** WTI was usually the more expensive grade. Yearly average spreads ran from −3.1 dollars (2004) to +0.4 (2007). WTI was above Brent in 109 months in total, almost all of them before mid-2010.
-- **2011–2013:** the spread flipped and widened. It averaged 15.9 dollars in 2011 and 17.8 in 2012, with a monthly peak of 25.3 dollars in September 2011 — the widest in the record.
-- **2014–2025:** the spread settled in a band, with yearly averages between 0.9 dollars (2016) and 7.0 (2019); 2025 averaged 4.2.
-- **2026 so far:** the gap widened again. Brent–WTI averaged 10.1 dollars over January–September 2026, and reached 21.8 dollars in April (120.4 vs 98.6) and 19.9 in September.
+This distinction matters when writing a headline. “The gap is large” and “the gap is a record” are different claims. A record claim needs a defined series, comparison method and time window, as well as a check against every observation in that window.
 
-The record says the spread widened; it does not say why. If you write about the cause, cite a source that analyses it — the monthly averages alone cannot.
+## Choose the comparison that answers your question
 
-## Brent and Dubai in 2026
+For a change over time, compare the same named series with itself. For a benchmark spread, compare two series in the same month and unit. Do not splice Brent into a WTI chart without labelling the change.
 
-For most of the last decade, Brent and Dubai moved almost together. Between September and December 2025 the monthly gap was under one dollar. In 2026 it opened sharply: 11.8 dollars in March, 27.7 in April (120.4 vs 92.7) and 23.5 in September (116.8 vs 93.3). That is the largest Brent premium over Dubai since this site's record begins in 2000.
+A dollar spread and a percentage premium answer different questions. September's Brent–WTI gap is 19.9 dollars per barrel. Relative to WTI's 96.9, Brent's premium is about **20.5%**. Relative to Brent, the same dollar gap is a different percentage because the denominator changes. The [percent-change calculator](/tools/percent-change/) makes that denominator explicit.
 
-Year on year, the three grades rose by very different amounts: Brent by 71.8% (from 68.0 in September 2025), WTI by 52.1% and Dubai by 37.6%. A sentence such as “oil rose 72%” would be accurate for one benchmark and misleading for the other two.
+A spread does not isolate freight, refinery economics, supply disruptions or contract terms. To explain a cause, use evidence that specifically analyses that event. Neither a chart nor the general EIA quality explanation proves the cause of the 2026 observations.
 
-## Which benchmark should you use?
+## Keep monthly and transaction comparisons separate
 
-Use the one that matches the barrel you are talking about:
+A monthly series is useful for historical context. A buyer needs a dated offer and the relevant contract terms; a futures trader needs the exchange contract and delivery month. Neither can substitute the table above for those details.
 
-- European, African and many internationally traded crudes: **Brent**.
-- US domestic prices, US petrol context, North American producers: **WTI**.
-- Middle Eastern exports to Asia: **Dubai/Oman**.
-
-If you need a single global figure, the World Bank also publishes an **average crude price** (a simple average of Brent, WTI and Dubai). And if you are comparing with a currency — the Canadian dollar is often discussed alongside oil — remember that correlation in a chart is not a mechanism; the [USD/CAD page](/fx/usd-cad/) shows the rate history without implying cause.
-
-## Converting barrels
-
-The EIA defines a crude barrel as 42 gallons. Converting crude volume into a retail fuel price requires more than a unit conversion: refining, transport, taxes and margins are separate. The [units guide](/guides/commodity-price-units-explained/) covers the conversion limits.
+The [Pink Sheet guide](/guides/world-bank-pink-sheet-explained/) explains this site's saved source and attribution. The [monthly-average guide](/guides/monthly-average-vs-daily-price/) explains why averages conceal the path inside a month, while the [units guide](/guides/commodity-price-units-explained/) covers barrel conversion limits.
 
 ## Saved numerical source
 

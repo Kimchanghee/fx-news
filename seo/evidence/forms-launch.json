@@ -1,0 +1,392 @@
+[
+  {
+    "width": 390,
+    "tool": "percent",
+    "a": "100",
+    "b": "50",
+    "y": "",
+    "ok": true,
+    "match": "50.00%",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "percent",
+    "a": "-100",
+    "b": "-50",
+    "y": "",
+    "ok": true,
+    "match": "50.00%",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "percent",
+    "a": "0",
+    "b": "2",
+    "y": "",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "percent",
+    "a": "",
+    "b": "2",
+    "y": "",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "percent",
+    "a": "NaN",
+    "b": "2",
+    "y": "",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "percent",
+    "a": "1e309",
+    "b": "2",
+    "y": "",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "percent",
+    "a": "1e-308",
+    "b": "1e308",
+    "y": "",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "percent",
+    "a": "1",
+    "b": "1e308",
+    "y": ".01",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "percent",
+    "a": "100",
+    "b": "0",
+    "y": "5",
+    "ok": true,
+    "match": "100.00%",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "percent",
+    "a": "100",
+    "b": "200",
+    "y": "201",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "percent",
+    "a": "100",
+    "b": "200",
+    "y": "0",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "percent",
+    "a": "100",
+    "b": "121",
+    "y": "2",
+    "ok": true,
+    "match": "10.00%",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "percent",
+    "a": "1",
+    "b": "2",
+    "y": ".0001",
+    "ok": true,
+    "match": "outside the supported",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "converter",
+    "amount": "",
+    "date": "2026-10-15",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "converter",
+    "amount": "-1",
+    "date": "2026-10-15",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "converter",
+    "amount": "1000000000001",
+    "date": "2026-10-15",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "converter",
+    "amount": "Infinity",
+    "date": "2026-10-15",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "converter",
+    "amount": "100",
+    "date": "2015-01-01",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "converter",
+    "amount": "100",
+    "date": "2026-10-16",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "converter",
+    "amount": "0",
+    "date": "2026-10-15",
+    "ok": true,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "converter",
+    "amount": "1000000000000",
+    "date": "2026-10-15",
+    "ok": true,
+    "pass": true
+  },
+  {
+    "width": 390,
+    "tool": "converter",
+    "amount": "1000",
+    "date": "2025-12-25",
+    "ok": true,
+    "match": "24 Dec 2025",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "percent",
+    "a": "100",
+    "b": "50",
+    "y": "",
+    "ok": true,
+    "match": "50.00%",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "percent",
+    "a": "-100",
+    "b": "-50",
+    "y": "",
+    "ok": true,
+    "match": "50.00%",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "percent",
+    "a": "0",
+    "b": "2",
+    "y": "",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "percent",
+    "a": "",
+    "b": "2",
+    "y": "",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "percent",
+    "a": "NaN",
+    "b": "2",
+    "y": "",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "percent",
+    "a": "1e309",
+    "b": "2",
+    "y": "",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "percent",
+    "a": "1e-308",
+    "b": "1e308",
+    "y": "",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "percent",
+    "a": "1",
+    "b": "1e308",
+    "y": ".01",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "percent",
+    "a": "100",
+    "b": "0",
+    "y": "5",
+    "ok": true,
+    "match": "100.00%",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "percent",
+    "a": "100",
+    "b": "200",
+    "y": "201",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "percent",
+    "a": "100",
+    "b": "200",
+    "y": "0",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "percent",
+    "a": "100",
+    "b": "121",
+    "y": "2",
+    "ok": true,
+    "match": "10.00%",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "percent",
+    "a": "1",
+    "b": "2",
+    "y": ".0001",
+    "ok": true,
+    "match": "outside the supported",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "converter",
+    "amount": "",
+    "date": "2026-10-15",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "converter",
+    "amount": "-1",
+    "date": "2026-10-15",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "converter",
+    "amount": "1000000000001",
+    "date": "2026-10-15",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "converter",
+    "amount": "Infinity",
+    "date": "2026-10-15",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "converter",
+    "amount": "100",
+    "date": "2015-01-01",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "converter",
+    "amount": "100",
+    "date": "2026-10-16",
+    "ok": false,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "converter",
+    "amount": "0",
+    "date": "2026-10-15",
+    "ok": true,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "converter",
+    "amount": "1000000000000",
+    "date": "2026-10-15",
+    "ok": true,
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "tool": "converter",
+    "amount": "1000",
+    "date": "2025-12-25",
+    "ok": true,
+    "match": "24 Dec 2025",
+    "pass": true
+  }
+]

@@ -246,3 +246,6 @@ button:hover { background: var(--yellow); }
 }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition: none !important; animation: none !important; scroll-behavior: auto !important; } }
 @media print { .nav, .ad, .foot { display: none; } body { background: #fff; color: #000; } }
+
+/* Keep long, finite calculator results inside narrow screens. */
+.tool .out, .tool .err { overflow-wrap: anywhere; }

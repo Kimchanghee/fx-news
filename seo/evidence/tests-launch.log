@@ -1,0 +1,17 @@
+??cross rates and conversions (1.9719ms)
+??changes retain losses and reject zero base (0.3631ms)
+??log returns and compounding (17.5487ms)
+??missing sample and date lookup (0.6288ms)
+??arithmetic example integrity (0.2994ms)
+??complete saved oil arrays and retained guide claims reconcile (6.9176ms)
+??numeric overflow cannot escape shared helpers (0.7237ms)
+??guide examples bind to dated saved ECB snapshot (2.4381ms)
+??hypothetical deflation and log identities (1.2797ms)
+??tests 9
+??suites 0
+??pass 9
+??fail 0
+??cancelled 0
+??skipped 0
+??todo 0
+??duration_ms 218.8825

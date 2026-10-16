@@ -1,0 +1,124 @@
+00:03:04 [content] Syncing content
+00:03:04 [content] Synced content
+00:03:04 [types] Generated 2.31s
+00:03:04 [build] output: "static"
+00:03:04 [build] mode: "static"
+00:03:04 [build] directory: D:\???섏씡 ?먮룞??rebuild-202610\forexcommoditynews.online\dist\
+00:03:04 [build] Collecting build info...
+00:03:04 [build] ??Completed in 2.35s.
+00:03:04 [build] Building static entrypoints...
+00:03:08 [vite] ??built in 4.08s
+00:03:08 [build] ??Completed in 4.14s.
+
+ building client (vite)
+00:03:08 [vite] transforming...
+00:03:08 [vite] ??[39m 3 modules transformed.
+00:03:08 [vite] rendering chunks...
+00:03:08 [vite] computing gzip size...
+00:03:08 [vite] dist/_astro/calc.C0lM00vP.js                                                       0.74 kB ??gzip: 0.38 kB
+00:03:08 [vite] dist/_astro/percent-change.astro_astro_type_script_index_0_lang.D0Xj-gg0.js        1.94 kB ??gzip: 1.05 kB
+00:03:08 [vite] dist/_astro/historical-converter.astro_astro_type_script_index_0_lang.CppasvNl.js  2.95 kB ??gzip: 1.49 kB
+00:03:08 [vite] ??built in 215ms
+
+ generating static routes
+00:03:08 ??[39m src/pages/404.astro
+00:03:08   ?붴? /404.html (+39ms)
+00:03:08 ??[39m src/pages/about.astro
+00:03:08   ?붴? /about/index.html (+6ms)
+00:03:08 ??[39m src/pages/commodities/[slug].astro
+00:03:08   ?쒋? /commodities/brent-crude-oil/index.html (+77ms)
+00:03:08   ?쒋? /commodities/wti-crude-oil/index.html (+52ms)
+00:03:08   ?쒋? /commodities/dubai-crude-oil/index.html (+37ms)
+00:03:08   ?쒋? /commodities/us-natural-gas/index.html (+47ms)
+00:03:08   ?쒋? /commodities/europe-natural-gas/index.html (+59ms)
+00:03:08   ?쒋? /commodities/japan-lng/index.html (+52ms)
+00:03:08   ?쒋? /commodities/australian-coal/index.html (+111ms)
+00:03:09   ?쒋? /commodities/gold/index.html (+56ms)
+00:03:09   ?쒋? /commodities/silver/index.html (+36ms)
+00:03:09   ?쒋? /commodities/platinum/index.html (+35ms)
+00:03:09   ?쒋? /commodities/copper/index.html (+61ms)
+00:03:09   ?쒋? /commodities/aluminum/index.html (+38ms)
+00:03:09   ?쒋? /commodities/nickel/index.html (+33ms)
+00:03:09   ?쒋? /commodities/zinc/index.html (+89ms)
+00:03:09   ?쒋? /commodities/iron-ore/index.html (+68ms)
+00:03:09   ?쒋? /commodities/wheat/index.html (+65ms)
+00:03:09   ?쒋? /commodities/maize/index.html (+127ms)
+00:03:09   ?쒋? /commodities/soybeans/index.html (+34ms)
+00:03:09   ?쒋? /commodities/rice/index.html (+35ms)
+00:03:09   ?쒋? /commodities/arabica-coffee/index.html (+36ms)
+00:03:09   ?쒋? /commodities/cocoa/index.html (+54ms)
+00:03:09   ?붴? /commodities/sugar/index.html (+60ms)
+00:03:09 ??[39m src/pages/commodities/index.astro
+00:03:09   ?붴? /commodities/index.html (+46ms)
+00:03:09 ??[39m src/pages/contact.astro
+00:03:09   ?붴? /contact/index.html (+10ms)
+00:03:10 貫 src/pages/data/fx-history.json.ts
+00:03:10   ?붴? /data/fx-history.json (+10ms)
+00:03:10 ??[39m src/pages/disclaimer.astro
+00:03:10   ?붴? /disclaimer/index.html (+15ms)
+00:03:10 貫 src/pages/feed.xml.ts
+00:03:10   ?붴? /feed.xml (+5ms)
+00:03:10 ??[39m src/pages/fx/[pair].astro
+00:03:10   ?쒋? /fx/eur-usd/index.html (+83ms)
+00:03:10   ?쒋? /fx/usd-jpy/index.html (+90ms)
+00:03:10   ?쒋? /fx/gbp-usd/index.html (+47ms)
+00:03:10   ?쒋? /fx/usd-chf/index.html (+57ms)
+00:03:10   ?쒋? /fx/aud-usd/index.html (+58ms)
+00:03:10   ?쒋? /fx/usd-cad/index.html (+71ms)
+00:03:10   ?쒋? /fx/nzd-usd/index.html (+740ms)
+00:03:11   ?쒋? /fx/eur-gbp/index.html (+66ms)
+00:03:11   ?쒋? /fx/eur-jpy/index.html (+81ms)
+00:03:11   ?쒋? /fx/eur-chf/index.html (+73ms)
+00:03:11   ?쒋? /fx/gbp-jpy/index.html (+40ms)
+00:03:11   ?쒋? /fx/usd-cny/index.html (+87ms)
+00:03:11   ?쒋? /fx/usd-krw/index.html (+51ms)
+00:03:11   ?쒋? /fx/usd-inr/index.html (+105ms)
+00:03:11   ?쒋? /fx/usd-mxn/index.html (+54ms)
+00:03:11   ?쒋? /fx/usd-brl/index.html (+102ms)
+00:03:11   ?쒋? /fx/usd-zar/index.html (+144ms)
+00:03:12   ?쒋? /fx/usd-try/index.html (+113ms)
+00:03:12   ?쒋? /fx/eur-pln/index.html (+73ms)
+00:03:12   ?붴? /fx/usd-sgd/index.html (+67ms)
+00:03:12 ??[39m src/pages/fx/index.astro
+00:03:12   ?붴? /fx/index.html (+154ms)
+00:03:12 ??[39m src/pages/guides/[slug].astro
+00:03:12   ?쒋? /guides/commodity-price-units-explained/index.html (+9ms)
+00:03:12   ?쒋? /guides/brent-wti-dubai-oil-benchmarks/index.html (+10ms)
+00:03:12   ?쒋? /guides/how-to-read-a-currency-quote/index.html (+69ms)
+00:03:12   ?쒋? /guides/monthly-average-vs-daily-price/index.html (+31ms)
+00:03:12   ?쒋? /guides/how-to-calculate-a-cross-rate/index.html (+84ms)
+00:03:12   ?쒋? /guides/percent-change-vs-log-returns/index.html (+31ms)
+00:03:12   ?쒋? /guides/ecb-reference-rates-explained/index.html (+30ms)
+00:03:12   ?쒋? /guides/which-exchange-rate-to-use-for-past-transactions/index.html (+74ms)
+00:03:12   ?쒋? /guides/world-bank-pink-sheet-explained/index.html (+39ms)
+00:03:12   ?붴? /guides/nominal-vs-real-commodity-prices/index.html (+49ms)
+00:03:12 ??[39m src/pages/guides/index.astro
+00:03:12   ?붴? /guides/index.html (+8ms)
+00:03:12 ??[39m src/pages/index.astro
+00:03:12   ?붴? /index.html (+269ms)
+00:03:13 貫 src/pages/llms-full.txt.ts
+00:03:13   ?붴? /llms-full.txt (+6ms)
+00:03:13 貫 src/pages/llms.txt.ts
+00:03:13   ?붴? /llms.txt (+121ms)
+00:03:13 ??[39m src/pages/methodology.astro
+00:03:13   ?붴? /methodology/index.html (+7ms)
+00:03:13 ??[39m src/pages/privacy.astro
+00:03:13   ?붴? /privacy/index.html (+5ms)
+00:03:13 貫 src/pages/robots.txt.ts
+00:03:13   ?붴? /robots.txt (+5ms)
+00:03:13 貫 src/pages/sitemap-0.xml.ts
+00:03:13   ?붴? /sitemap-0.xml (+6ms)
+00:03:13 貫 src/pages/sitemap-index.xml.ts
+00:03:13   ?붴? /sitemap-index.xml (+11ms)
+00:03:13 ??[39m src/pages/terms.astro
+00:03:13   ?붴? /terms/index.html (+9ms)
+00:03:13 ??[39m src/pages/tools/historical-converter.astro
+00:03:13   ?붴? /tools/historical-converter/index.html (+15ms)
+00:03:13 ??[39m src/pages/tools/index.astro
+00:03:13   ?붴? /tools/index.html (+6ms)
+00:03:13 ??[39m src/pages/tools/percent-change.astro
+00:03:13   ?붴? /tools/percent-change/index.html (+7ms)
+00:03:13 ??Completed in 4.91s.
+
+00:03:13 [build] 66 page(s) built in 12.20s
+00:03:13 [build] Complete!

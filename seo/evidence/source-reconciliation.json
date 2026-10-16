@@ -1,0 +1,16 @@
+{
+  "snapshotSHA256": "d1ca348aed39e5571cd25db8bb12a0599446f408f8f4c19d875fe7885cb6df20",
+  "source": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
+  "retrieved": "2026-10-16T00:01:08.577Z",
+  "months": 321,
+  "wtiAboveBrent": 109,
+  "maxBrentWTI": {
+    "month": "2011-09",
+    "spread": 25.3
+  },
+  "maxBrentDubai": {
+    "month": "2026-04",
+    "spread": 27.7
+  },
+  "scope": "All retained numeric claims in the two formerly held guides; normalized saved source, not raw workbook re-download"
+}

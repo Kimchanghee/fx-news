@@ -37,3 +37,7 @@ await writeFile(path.resolve('qa', 'shots-report.json'), JSON.stringify(report, 
 console.table(report.map((r) => ({ page: r.page, w: r.width, status: r.status, overflow: r.overflow, cls: r.cls, focus: r.focus && r.focus.outline })));
 
 
+
+if(report.some(r=>r.status!==200 || r.overflow || !r.focus?.outline.includes('3px')))process.exitCode=1;
+await writeFile('seo/evidence/edge-layout-launch.json',JSON.stringify(report,null,2));
+

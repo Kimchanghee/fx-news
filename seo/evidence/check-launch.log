@@ -1,0 +1,10 @@
+00:02:40 [content] Syncing content
+00:02:40 [WARN] [glob-loader] Duplicate id "brent-wti-dubai-oil-benchmarks" found in D:\???섏씡 ?먮룞??rebuild-202610\forexcommoditynews.online\src\content\guides\brent-wti-dubai-oil-benchmarks.md. Later items with the same id will overwrite earlier ones.
+00:02:40 [WARN] [glob-loader] Duplicate id "world-bank-pink-sheet-explained" found in D:\???섏씡 ?먮룞??rebuild-202610\forexcommoditynews.online\src\content\guides\world-bank-pink-sheet-explained.md. Later items with the same id will overwrite earlier ones.
+00:02:40 [content] Synced content
+00:02:40 [types] Generated 1.21s
+00:02:40 [check] Getting diagnostics for Astro files in D:\???섏씡 ?먮룞??rebuild-202610\forexcommoditynews.online...
+Result (43 files):
+- 0 errors
+- 0 warnings
+- 0 hints

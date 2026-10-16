@@ -1,0 +1,25 @@
+{
+  "observedAt": "2026-10-16T15:04:13.295Z",
+  "checks": [
+    {
+      "path": "/robots.txt",
+      "status": 200
+    },
+    {
+      "path": "/sitemap-index.xml",
+      "status": 200
+    },
+    {
+      "path": "/feed.xml",
+      "status": 200
+    },
+    {
+      "path": "/llms.txt",
+      "status": 200
+    },
+    {
+      "path": "/missing-qa-route/",
+      "status": 404
+    }
+  ]
+}
