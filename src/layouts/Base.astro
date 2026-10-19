@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import site from '../site.config';
 import { abs, orgLd, websiteLd, crumbsLd } from '../lib/seo';
+import AdSlot from '../components/AdSlot.astro';
 import { fx, cm, fmtDate, fmtMonthLong } from '../lib/data';
 
 interface Props {
@@ -17,7 +18,7 @@ interface Props {
 const { title, description, path, og = 'home', ld = [], crumbs, nav = '', ogType = 'website' } = Astro.props;
 const canonical = abs(path);
 const ogImage = `${site.url}/og/${og}.png`;
-const lds: object[] = [...(path === '/' ? [orgLd, websiteLd] : []), ...(crumbs ? [crumbsLd(crumbs)] : []), ...ld];
+const lds: object[] = [orgLd, websiteLd, ...(crumbs ? [crumbsLd(crumbs)] : []), ...ld];
 const navItems = [
   { k: 'board', href: '/', label: 'Board' },
   { k: 'fx', href: '/fx/', label: 'Currencies' },
@@ -97,6 +98,7 @@ const consentGranted = { ad_storage: 'granted', ad_user_data: 'granted', ad_pers
   )}
   <main id="main" class="wrap">
     <slot />
+    <AdSlot />
   </main>
   <footer class="foot">
     <div class="wrap foot-grid">
