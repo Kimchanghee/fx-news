@@ -10,7 +10,7 @@ const description = fitDesc([
 ---
 <Base title={title} description={description} path="/tools/" og="tools" nav="tools"
   crumbs={[{ name: 'Board', href: '/' }, { name: 'Tools', href: '/tools/' }]}>
-  <p class="kicker">Tools</p>
+  <div class="kicker">Tools</div>
   <h1>Which calculations does the almanac do for you?</h1>
   <p id="answer" class="lede">Two calculators run in your browser on the same data as the boards: a historical currency converter using ECB reference rates from {fmtDate(fx.dates[0])} to {fmtDate(fx.latestDate)}, and a percentage-change calculator that also gives log returns and compound annual rates.</p>
   <ul class="index-list">

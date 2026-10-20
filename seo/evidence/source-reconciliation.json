@@ -1,7 +1,7 @@
 {
-  "snapshotSHA256": "d1ca348aed39e5571cd25db8bb12a0599446f408f8f4c19d875fe7885cb6df20",
+  "snapshotSHA256": "bfd6a5358f923fd5fcc7bc0d35ac165989390dfc33b239d61010c053a9cfca36",
   "source": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
-  "retrieved": "2026-10-16T00:01:08.577Z",
+  "retrieved": "2026-10-19T17:04:29.296Z",
   "months": 321,
   "wtiAboveBrent": 109,
   "maxBrentWTI": {

@@ -37,9 +37,9 @@ if (d.faq.length) ld.push({
 ---
 <Base title={title} description={description} path={path} og={`guide-${g.id}`} ld={ld} nav="guides" ogType="article"
   crumbs={[{ name: 'Board', href: '/' }, { name: 'Almanac', href: '/guides/' }, { name: d.title, href: path }]}>
-  <p class="kicker">Almanac · {d.shelf}</p>
+  <div class="kicker">Almanac · {d.shelf}</div>
   <h1>{d.title}</h1>
-  <p class="meta">Updated {fmtDate(iso(d.updated))} · figures checked against data as of {d.data_asof} · first published {fmtDate(iso(d.datePublished))}</p>
+  <div class="meta">Updated {fmtDate(iso(d.updated))} · figures checked against data as of {d.data_asof} · first published {fmtDate(iso(d.datePublished))}</div>
   <div class="page">
     <article class="prose">
       <p id="answer" class="lede">{d.answer}</p>

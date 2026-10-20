@@ -12,7 +12,7 @@ const description = fitDesc([
 ---
 <Base title={title} description={description} path="/guides/" og="guides" nav="guides"
   crumbs={[{ name: 'Board', href: '/' }, { name: 'Almanac', href: '/guides/' }]}>
-  <p class="kicker">The almanac · {guides.length} guides</p>
+  <div class="kicker">The almanac · {guides.length} guides</div>
   <h1>How do you read exchange-rate and commodity-price records?</h1>
   <p id="answer" class="lede">These guides explain where the numbers on the <a href="/fx/">currency board</a> and <a href="/commodities/">commodity board</a> come from, what they measure and how to compare them over time. Each one names its official sources and the date its figures were checked.</p>
   {shelves.map((sh) => {

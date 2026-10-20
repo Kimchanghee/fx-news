@@ -23,7 +23,7 @@ const ld = [{
 ---
 <Base title={title} description={description} path="/tools/percent-change/" og="tool-percent" ld={ld} nav="tools"
   crumbs={[{ name: 'Board', href: '/' }, { name: 'Tools', href: '/tools/' }, { name: 'Percent change', href: '/tools/percent-change/' }]}>
-  <p class="kicker">Tool · runs in your browser</p>
+  <div class="kicker">Tool · runs in your browser</div>
   <h1>How do you calculate the percentage change between two prices?</h1>
   <p id="answer" class="lede">
     Subtract the old value from the new one, divide by the old value and multiply by 100. Gold averaged ${num(a, 0)} an ounce in {fmtMonth(g.y5.month)} and ${num(b, 0)} in {fmtMonth(g.latestMonth)}: ({num(b, 0)} − {num(a, 0)}) ÷ {num(a, 0)} × 100 = {exPct >= 0 ? '+' : '−'}{Math.abs(exPct).toFixed(1)}%, or {exCagr >= 0 ? '+' : '−'}{Math.abs(exCagr).toFixed(1)}% a year over five years.

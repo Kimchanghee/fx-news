@@ -11,13 +11,11 @@ const description = fitDesc([
 const ld = [{
   '@context': 'https://schema.org', '@type': 'AboutPage', name: 'About the FX & Commodity Almanac', url: `${site.url}/about/`,
   about: { '@id': `${site.url}/#org` },
-}, {
-  '@context': 'https://schema.org', '@type': 'Organization', '@id': `${site.url}/#org`, name: site.name, url: site.url + '/', email: site.contactEmail, description: site.description,
 }];
 ---
 <Base title={title} description={description} path="/about/" og="home" ld={ld}
   crumbs={[{ name: 'Board', href: '/' }, { name: 'About', href: '/about/' }]}>
-  <p class="kicker">About</p>
+  <div class="kicker">About</div>
   <h1>What is the FX &amp; Commodity Almanac?</h1>
   <p id="answer" class="lede">{site.description}</p>
   <div class="prose">

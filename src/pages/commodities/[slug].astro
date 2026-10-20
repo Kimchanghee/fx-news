@@ -62,7 +62,7 @@ const ld = [{
 ---
 <Base title={title} description={description} path={path} og={`cm-${c.slug}`} ld={ld} nav="commodities"
   crumbs={[{ name: 'Board', href: '/' }, { name: 'Commodities', href: '/commodities/' }, { name: c.name, href: path }]}>
-  <p class="kicker">{c.pit} · World Bank monthly average</p>
+  <div class="kicker">{c.pit} · World Bank monthly average</div>
   <h1>What is the {c.name} price and how has it changed?</h1>
   <p id="answer" class="lede">
     {c.name} averaged {fmt(s.latest)} {c.unitWords} in {fmtMonthLong(s.latestMonth)}, according to the World Bank Pink Sheet. That is {Math.abs(s.m1.change ?? 0).toFixed(1)}% {dir(s.m1.change)} {fmtMonth(s.m1.month)} and {Math.abs(s.y1.change ?? 0).toFixed(1)}% {dir(s.y1.change)} {fmtMonth(s.y1.month)}, and {where} of all monthly averages since January 2000.

@@ -50,7 +50,7 @@ const ld = [{
 }];
 ---
 <Base title={title} description={description} path="/" og="home" ld={ld} nav="board">
-  <p class="kicker">The board · chalked {fmtDate(fx.asOf)}</p>
+  <div class="kicker">The board · chalked {fmtDate(fx.asOf)}</div>
   <h1>What do the latest reference exchange rates and commodity prices show?</h1>
   <p id="answer" class="lede">
     On {fmtDate(eurusd.latestDate)} the European Central Bank fixed the euro at {num(eurusd.latest, 4)} US dollars, {Math.abs(eurusd.y1.change ?? 0).toFixed(1)}% {(eurusd.y1.change ?? 0) >= 0 ? 'above' : 'below'} a year earlier. In World Bank data for {fmtMonthLong(brent.latestMonth)}, Brent crude averaged ${num(brent.latest, 2)} a barrel and gold ${num(gold.latest, 0)} a troy ounce. These are official reference figures, not dealing quotes.

@@ -29,7 +29,7 @@ const ld = [{
 ---
 <Base title={title} description={description} path="/commodities/" og="commodities" ld={ld} nav="commodities"
   crumbs={[{ name: 'Board', href: '/' }, { name: 'Commodities', href: '/commodities/' }]}>
-  <p class="kicker">Commodity board · World Bank prices for {fmtMonthLong(cm.latestMonth)}</p>
+  <div class="kicker">Commodity board · World Bank prices for {fmtMonthLong(cm.latestMonth)}</div>
   <h1>Which commodity prices are up or down on the year?</h1>
   <p id="answer" class="lede">
     In World Bank data for {fmtMonthLong(cm.latestMonth)}, {rose} of {all.length} tracked commodities were priced above their level twelve months earlier and {all.length - rose} below. {pitAvg.map((p, i) => `${i ? (i === pitAvg.length - 1 ? ' and ' : ', ') : ''}${p.pit.toLowerCase()} ${p.avg >= 0 ? '+' : '−'}${Math.abs(p.avg).toFixed(1)}%`).join('')} on average (simple mean of each group’s year-on-year changes).

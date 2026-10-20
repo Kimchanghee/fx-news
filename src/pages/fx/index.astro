@@ -30,7 +30,7 @@ const ld = [{
 ---
 <Base title={title} description={description} path="/fx/" og="fx" ld={ld} nav="fx"
   crumbs={[{ name: 'Board', href: '/' }, { name: 'Currencies', href: '/fx/' }]}>
-  <p class="kicker">Currency board · ECB fixing of {fmtDate(fx.latestDate)}</p>
+  <div class="kicker">Currency board · ECB fixing of {fmtDate(fx.latestDate)}</div>
   <h1>How have major exchange rates moved against the ECB record?</h1>
   <p id="answer" class="lede">
     On {fmtDate(fx.latestDate)} the euro fixed at {num(eurusd.latest, 4)} US dollars. Of the {usdPairs.length} dollar-based pairs below, the dollar is stronger than a year ago in {usdUp} and weaker in {usdPairs.length - usdUp}. {vols[0].pair.label} was the most volatile pair over the year ({vols[0].vol1y?.toFixed(1)}% annualised).

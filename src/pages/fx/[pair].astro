@@ -64,7 +64,7 @@ const ld = [{
 ---
 <Base title={title} description={description} path={path} og={`fx-${p.slug}`} ld={ld} nav="fx"
   crumbs={[{ name: 'Board', href: '/' }, { name: 'Currencies', href: '/fx/' }, { name: p.label, href: path }]}>
-  <p class="kicker">Currency pair{nick} · {isDirect(p) ? 'direct ECB reference rate' : 'cross of two ECB reference rates'}</p>
+  <div class="kicker">Currency pair{nick} · {isDirect(p) ? 'direct ECB reference rate' : 'cross of two ECB reference rates'}</div>
   <h1>What is the {p.label} reference rate and how has it moved?</h1>
   <p id="answer" class="lede">
     The {p.label} reference rate was {num(s.latest, d)} on {fmtDate(s.latestDate)}: one {p.base} was worth {num(s.latest, d)} {p.quote}. That is {Math.abs(s.y1.change ?? 0).toFixed(1)}% {dir(s.y1.change)} a year earlier and {(s.range.pos ?? 0).toFixed(0)}% of the way up its 52-week range. Annualised volatility over the year was {s.vol1y?.toFixed(1)}%.

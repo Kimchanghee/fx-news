@@ -28,7 +28,7 @@ const ld = [{
 ---
 <Base title={title} description={description} path="/tools/historical-converter/" og="tool-converter" ld={ld} nav="tools"
   crumbs={[{ name: 'Board', href: '/' }, { name: 'Tools', href: '/tools/' }, { name: 'Historical converter', href: '/tools/historical-converter/' }]}>
-  <p class="kicker">Tool · ECB reference rates, {fmtDate(fx.dates[0])} – {fmtDate(fx.latestDate)}</p>
+  <div class="kicker">Tool · ECB reference rates, {fmtDate(fx.dates[0])} – {fmtDate(fx.latestDate)}</div>
   <h1>What was an amount worth in another currency on a past date?</h1>
   <p id="answer" class="lede">
     Pick two currencies and a date: the converter applies the ECB euro reference rates published that day, or the previous fixing if the ECB did not publish (weekends and TARGET holidays). For example, {num(exAmt, 0)} USD was {num(exThen, 2)} EUR on {fmtDate(fx.dates[exIdx])} and {num(exNow, 2)} EUR on {fmtDate(fx.latestDate)}.
